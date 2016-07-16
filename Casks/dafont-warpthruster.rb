@@ -1,0 +1,35 @@
+cask 'dafont-warpthruster' do
+    version :latest # created_at: 2016-01-15 00:00:00
+    sha256 '32b24ee6fe6449d48c75841688f666a7b0c7b3d9aa0adfb24dcc4126bdaef05a'
+
+    url 'http://dl.dafont.com/dl/?f=warpthruster'
+    name 'Warpthruster'
+    homepage 'http://www.dafont.com/warpthruster.font'
+    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
+
+    font 'warpthruster.ttf'
+    font 'warpthruster3d.ttf'
+    font 'warpthruster3dital.ttf'
+    font 'warpthruster3dlaser.ttf'
+    font 'warpthruster3dlaserital.ttf'
+    font 'warpthrusteracad.ttf'
+    font 'warpthrusteracadital.ttf'
+    font 'warpthrusterchrome.ttf'
+    font 'warpthrusterchromeital.ttf'
+    font 'warpthrustercond.ttf'
+    font 'warpthrustercondital.ttf'
+    font 'warpthrusterengrave.ttf'
+    font 'warpthrusterengraveital.ttf'
+    font 'warpthrusterexpand.ttf'
+    font 'warpthrusterexpandital.ttf'
+    font 'warpthrustergrad.ttf'
+    font 'warpthrustergradital.ttf'
+    font 'warpthrusterhalf.ttf'
+    font 'warpthrusterhalfital.ttf'
+    font 'warpthrusterital.ttf'
+    font 'warpthrusterlaser.ttf'
+    font 'warpthrusterlaserital.ttf'
+    font 'warpthrusterleft.ttf'
+    font 'warpthrusterplat.ttf'
+    font 'warpthrusterplatital.ttf'
+end
