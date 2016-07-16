@@ -1,0 +1,35 @@
+cask 'dafont-flash-rogers' do
+    version :latest # created_at: 2016-01-28 00:00:00
+    sha256 '097ea8ed069254c167c8845bd32d5257da4fbf9aa0b5b41279c8a472aac969bd'
+
+    url 'http://dl.dafont.com/dl/?f=flash_rogers'
+    name 'Flash Rogers'
+    homepage 'http://www.dafont.com/flash-rogers.font'
+    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
+
+    font 'flashrogers.ttf'
+    font 'flashrogers3d.ttf'
+    font 'flashrogers3dital.ttf'
+    font 'flashrogerschrome.ttf'
+    font 'flashrogerschromeital.ttf'
+    font 'flashrogerscond.ttf'
+    font 'flashrogerscondital.ttf'
+    font 'flashrogersengrave.ttf'
+    font 'flashrogersexpand.ttf'
+    font 'flashrogersexpandital.ttf'
+    font 'flashrogersgrad.ttf'
+    font 'flashrogersgradital.ttf'
+    font 'flashrogershalf.ttf'
+    font 'flashrogershalfital.ttf'
+    font 'flashrogersital.ttf'
+    font 'flashrogerslaser.ttf'
+    font 'flashrogerslaserital.ttf'
+    font 'flashrogersleft.ttf'
+    font 'flashrogersout.ttf'
+    font 'flashrogersoutital.ttf'
+    font 'flashrogerspunch.ttf'
+    font 'flashrogersstraight.ttf'
+    font 'flashrogersstraightcond.ttf'
+    font 'flashrogersstraightexpand.ttf'
+    font 'flashrogerssuperital.ttf'
+end
