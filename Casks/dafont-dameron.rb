@@ -1,0 +1,35 @@
+cask 'dafont-dameron' do
+    version :latest # created_at: 2016-02-23 00:00:00
+    sha256 'a7abac52eec24dac09970cf15199a0195b93421d6b44ef89ebd60fcc0bda9765'
+
+    url 'http://dl.dafont.com/dl/?f=dameron'
+    name 'Dameron'
+    homepage 'http://www.dafont.com/dameron.font'
+    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
+
+    font 'dameron.ttf'
+    font 'dameron3d.ttf'
+    font 'dameron3dital.ttf'
+    font 'dameronacad.ttf'
+    font 'dameronacadital.ttf'
+    font 'dameronbold.ttf'
+    font 'dameronboldital.ttf'
+    font 'dameronboldout.ttf'
+    font 'dameronboldoutital.ttf'
+    font 'dameroncond.ttf'
+    font 'dameroncondital.ttf'
+    font 'dameronexpand.ttf'
+    font 'dameronexpandital.ttf'
+    font 'damerongrad.ttf'
+    font 'damerongradital.ttf'
+    font 'dameronhalf.ttf'
+    font 'dameronhalfital.ttf'
+    font 'dameronital.ttf'
+    font 'dameronlaser.ttf'
+    font 'dameronlaserital.ttf'
+    font 'dameronleft.ttf'
+    font 'dameronout.ttf'
+    font 'dameronoutital.ttf'
+    font 'dameronsemital.ttf'
+    font 'dameronsuperital.ttf'
+end

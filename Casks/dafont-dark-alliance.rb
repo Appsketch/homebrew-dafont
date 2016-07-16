@@ -1,0 +1,35 @@
+cask 'dafont-dark-alliance' do
+    version :latest # created_at: 2014-04-08 00:00:00
+    sha256 '3289ddfe311b753d7d90977ea296785ad18ebcef672df121991e28feeea1b068'
+
+    url 'http://dl.dafont.com/dl/?f=dark_alliance'
+    name 'Dark Alliance'
+    homepage 'http://www.dafont.com/dark-alliance.font'
+    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
+
+    font 'darkalliance.ttf'
+    font 'darkalliance3d.ttf'
+    font 'darkalliance3dital.ttf'
+    font 'darkallianceacad.ttf'
+    font 'darkallianceacadital.ttf'
+    font 'darkalliancebullet.ttf'
+    font 'darkalliancebulletital.ttf'
+    font 'darkalliancechrome.ttf'
+    font 'darkalliancechromeital.ttf'
+    font 'darkalliancecond.ttf'
+    font 'darkalliancecondital.ttf'
+    font 'darkallianceexpand.ttf'
+    font 'darkallianceexpandital.ttf'
+    font 'darkalliancegrad.ttf'
+    font 'darkalliancegradital.ttf'
+    font 'darkalliancehalf.ttf'
+    font 'darkalliancehalfital.ttf'
+    font 'darkallianceital.ttf'
+    font 'darkalliancelaser.ttf'
+    font 'darkalliancelaserital.ttf'
+    font 'darkallianceleft.ttf'
+    font 'darkallianceout.ttf'
+    font 'darkallianceoutital.ttf'
+    font 'darkallianceplat.ttf'
+    font 'darkallianceplatital.ttf'
+end
