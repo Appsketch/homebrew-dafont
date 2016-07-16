@@ -1,0 +1,37 @@
+cask 'dafont-chicago-express' do
+    version :latest # created_at: 2016-05-01 00:00:00
+    sha256 'cf1a8cfd6c8bc43b28af1fb1c065107ee82664bf4e77330ca64df11717c78ec6'
+
+    url 'http://dl.dafont.com/dl/?f=chicago_express'
+    name 'Chicago Express'
+    homepage 'http://www.dafont.com/chicago-express.font'
+    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
+
+    font 'chicagoexpress.ttf'
+    font 'chicagoexpress3d.ttf'
+    font 'chicagoexpress3dital.ttf'
+    font 'chicagoexpresschrome.ttf'
+    font 'chicagoexpresschromeital.ttf'
+    font 'chicagoexpresscond.ttf'
+    font 'chicagoexpresscondital.ttf'
+    font 'chicagoexpressemital.ttf'
+    font 'chicagoexpressengrave.ttf'
+    font 'chicagoexpressengraveital.ttf'
+    font 'chicagoexpressexpand.ttf'
+    font 'chicagoexpressexpandital.ttf'
+    font 'chicagoexpressgrad.ttf'
+    font 'chicagoexpressgradital.ttf'
+    font 'chicagoexpresshalf.ttf'
+    font 'chicagoexpresshalfital.ttf'
+    font 'chicagoexpressital.ttf'
+    font 'chicagoexpresslaser.ttf'
+    font 'chicagoexpresslaserital.ttf'
+    font 'chicagoexpressleft.ttf'
+    font 'chicagoexpressout.ttf'
+    font 'chicagoexpressoutital.ttf'
+    font 'chicagoexpresspunch.ttf'
+    font 'chicagoexpresspunchital.ttf'
+    font 'chicagoexpresssuperital.ttf'
+    font 'chicagoexpresstitle.ttf'
+    font 'chicagoexpresstitleital.ttf'
+end
