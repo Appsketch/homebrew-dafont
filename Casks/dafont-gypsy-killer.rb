@@ -1,0 +1,35 @@
+cask 'dafont-gypsy-killer' do
+    version :latest # created_at: 2013-09-07 00:00:00
+    sha256 'f0ec4080fb8fc99d5116bf9bc8f347be17ea312d3833cec46b6f1ba0d865f593'
+
+    url 'http://dl.dafont.com/dl/?f=gypsy_killer'
+    name 'Gypsy Killer'
+    homepage 'http://www.dafont.com/gypsy-killer.font'
+    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
+
+    font 'gypsykiller.ttf'
+    font 'gypsykiller3d.ttf'
+    font 'gypsykiller3dital.ttf'
+    font 'gypsykilleracad.ttf'
+    font 'gypsykilleracadital.ttf'
+    font 'gypsykillerbullet.ttf'
+    font 'gypsykillerbulletital.ttf'
+    font 'gypsykillerchrome.ttf'
+    font 'gypsykillerchromeital.ttf'
+    font 'gypsykillercond.ttf'
+    font 'gypsykillercondital.ttf'
+    font 'gypsykillerexpand.ttf'
+    font 'gypsykillerexpandital.ttf'
+    font 'gypsykillergrad.ttf'
+    font 'gypsykillergradital.ttf'
+    font 'gypsykillerhalf.ttf'
+    font 'gypsykillerhalfital.ttf'
+    font 'gypsykillerital.ttf'
+    font 'gypsykillerlaser.ttf'
+    font 'gypsykillerlaserital.ttf'
+    font 'gypsykillerleft.ttf'
+    font 'gypsykillerout.ttf'
+    font 'gypsykilleroutital.ttf'
+    font 'gypsykillerplat.ttf'
+    font 'gypsykillerplatital.ttf'
+end
