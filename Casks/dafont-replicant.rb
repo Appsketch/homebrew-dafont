@@ -1,0 +1,37 @@
+cask 'dafont-replicant' do
+    version :latest # created_at: 2005-12-31 00:00:00 and updated_at: 2016-06-02 00:00:00
+    sha256 '7d2aedc4abd1fffb9f4806bc10391391ff8ec13ab8d206d855fbd5559b463142'
+
+    url 'http://dl.dafont.com/dl/?f=replicant'
+    name 'Replicant'
+    homepage 'http://www.dafont.com/replicant.font'
+    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
+
+    font 'replicant.ttf'
+    font 'replicant3d.ttf'
+    font 'replicant3dital.ttf'
+    font 'replicantbold.ttf'
+    font 'replicantboldital.ttf'
+    font 'replicantchrome.ttf'
+    font 'replicantchromeital.ttf'
+    font 'replicantcond.ttf'
+    font 'replicantcondital.ttf'
+    font 'replicantengrave.ttf'
+    font 'replicantengraveital.ttf'
+    font 'replicantexpand.ttf'
+    font 'replicantexpandital.ttf'
+    font 'replicantgrad.ttf'
+    font 'replicantgradital.ttf'
+    font 'replicanthalf.ttf'
+    font 'replicanthalfital.ttf'
+    font 'replicantital.ttf'
+    font 'replicantlaser.ttf'
+    font 'replicantlaserital.ttf'
+    font 'replicantleft.ttf'
+    font 'replicantpunch.ttf'
+    font 'replicantpunchital.ttf'
+    font 'replicantsemital.ttf'
+    font 'replicantsuperital.ttf'
+    font 'replicanttitle.ttf'
+    font 'replicanttitleital.ttf'
+end
