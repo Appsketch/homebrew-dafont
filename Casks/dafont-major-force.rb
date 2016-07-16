@@ -1,0 +1,35 @@
+cask 'dafont-major-force' do
+    version :latest # created_at: 2016-03-29 00:00:00
+    sha256 'b2f5375d0f01b34cba21557a874904b1f466aef14c47ea5ded9de5f77e46554c'
+
+    url 'http://dl.dafont.com/dl/?f=major_force'
+    name 'Major Force'
+    homepage 'http://www.dafont.com/major-force.font'
+    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
+
+    font 'majorforce.ttf'
+    font 'majorforce3d.ttf'
+    font 'majorforce3dital.ttf'
+    font 'majorforce3dleft.ttf'
+    font 'majorforcechrome.ttf'
+    font 'majorforcechromeital.ttf'
+    font 'majorforcechromeleft.ttf'
+    font 'majorforcecond.ttf'
+    font 'majorforcecondital.ttf'
+    font 'majorforcecondleft.ttf'
+    font 'majorforceexpand.ttf'
+    font 'majorforceexpandital.ttf'
+    font 'majorforceexpandleft.ttf'
+    font 'majorforcegrad.ttf'
+    font 'majorforcegradital.ttf'
+    font 'majorforcegradleft.ttf'
+    font 'majorforcehalf.ttf'
+    font 'majorforcehalfital.ttf'
+    font 'majorforcehalfleft.ttf'
+    font 'majorforceital.ttf'
+    font 'majorforcelaser.ttf'
+    font 'majorforcelaserital.ttf'
+    font 'majorforcelaserleft.ttf'
+    font 'majorforceleft.ttf'
+    font 'majorforcesuperital.ttf'
+end

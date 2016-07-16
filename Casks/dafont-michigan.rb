@@ -1,0 +1,38 @@
+cask 'dafont-michigan' do
+    version :latest # created_at: 2015-12-21 00:00:00
+    sha256 '058bae880819f213d3e0ace2d2ce4fd988fe0a8e32264497d203245e3a3d417f'
+
+    url 'http://dl.dafont.com/dl/?f=michigan'
+    name 'Michigan'
+    homepage 'http://www.dafont.com/michigan.font'
+    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
+
+    font 'michigan.ttf'
+    font 'michigan3d.ttf'
+    font 'michigan3dital.ttf'
+    font 'michigancond.ttf'
+    font 'michigancondital.ttf'
+    font 'michigancondlaser.ttf'
+    font 'michigancondlaserital.ttf'
+    font 'michigancondsemiital.ttf'
+    font 'michigancondsuperital.ttf'
+    font 'michiganexpand.ttf'
+    font 'michiganexpandital.ttf'
+    font 'michiganexpandlaser.ttf'
+    font 'michiganexpandlaserital.ttf'
+    font 'michiganexpandsemiital.ttf'
+    font 'michiganexpandsuperital.ttf'
+    font 'michigangrad.ttf'
+    font 'michigangradital.ttf'
+    font 'michiganhalf.ttf'
+    font 'michiganhalfital.ttf'
+    font 'michiganital.ttf'
+    font 'michiganitalgrad.ttf'
+    font 'michiganlaser.ttf'
+    font 'michiganlaserital.ttf'
+    font 'michiganleft.ttf'
+    font 'michiganout.ttf'
+    font 'michiganoutital.ttf'
+    font 'michigansemiital.ttf'
+    font 'michigansuperital.ttf'
+end
