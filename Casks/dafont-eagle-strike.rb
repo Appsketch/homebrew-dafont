@@ -1,0 +1,35 @@
+cask 'dafont-eagle-strike' do
+    version :latest # created_at: 2015-01-06 00:00:00
+    sha256 '5788ef0376bbd5f97ec1cf459343c16bc2ac1d730ec394bc3b3b76949dd0d83e'
+
+    url 'http://dl.dafont.com/dl/?f=eagle_strike'
+    name 'Eagle Strike'
+    homepage 'http://www.dafont.com/eagle-strike.font'
+    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
+
+    font 'eaglestrike.ttf'
+    font 'eaglestrike3d.ttf'
+    font 'eaglestrike3dital.ttf'
+    font 'eaglestrikeacad.ttf'
+    font 'eaglestrikeacadital.ttf'
+    font 'eaglestrikeboldout.ttf'
+    font 'eaglestrikeboldoutital.ttf'
+    font 'eaglestrikechrome.ttf'
+    font 'eaglestrikechromeital.ttf'
+    font 'eaglestrikecond.ttf'
+    font 'eaglestrikecondital.ttf'
+    font 'eaglestrikeexpand.ttf'
+    font 'eaglestrikeexpandital.ttf'
+    font 'eaglestrikegrad.ttf'
+    font 'eaglestrikegradital.ttf'
+    font 'eaglestrikehalf.ttf'
+    font 'eaglestrikehalfital.ttf'
+    font 'eaglestrikeital.ttf'
+    font 'eaglestrikelaser.ttf'
+    font 'eaglestrikelaserital.ttf'
+    font 'eaglestrikeleft.ttf'
+    font 'eaglestrikeout.ttf'
+    font 'eaglestrikeoutital.ttf'
+    font 'eaglestrikesemital.ttf'
+    font 'eaglestrikesuperital.ttf'
+end
