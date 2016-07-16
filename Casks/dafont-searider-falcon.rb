@@ -1,0 +1,37 @@
+cask 'dafont-searider-falcon' do
+    version :latest # created_at: 2008-08-01 00:00:00 and updated_at: 2016-02-03 00:00:00
+    sha256 '6c62a18e946e4c0f0290ad123bc8f5e7eb77c8aa9025be4c194d994d7c103a9e'
+
+    url 'http://dl.dafont.com/dl/?f=searider_falcon'
+    name 'Searider Falcon'
+    homepage 'http://www.dafont.com/searider-falcon.font'
+    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
+
+    font 'seariderfalcon.ttf'
+    font 'seariderfalcon3d.ttf'
+    font 'seariderfalcon3dital.ttf'
+    font 'seariderfalconacad.ttf'
+    font 'seariderfalconacadital.ttf'
+    font 'seariderfalconchrome.ttf'
+    font 'seariderfalconchromeital.ttf'
+    font 'seariderfalconcond.ttf'
+    font 'seariderfalconcondital.ttf'
+    font 'seariderfalconengrave.ttf'
+    font 'seariderfalconengraveital.ttf'
+    font 'seariderfalconexpand.ttf'
+    font 'seariderfalconexpandital.ttf'
+    font 'seariderfalcongrad.ttf'
+    font 'seariderfalcongradital.ttf'
+    font 'seariderfalconhalf.ttf'
+    font 'seariderfalconhalfital.ttf'
+    font 'seariderfalconital.ttf'
+    font 'seariderfalconlaser.ttf'
+    font 'seariderfalconlaserital.ttf'
+    font 'seariderfalconleft.ttf'
+    font 'seariderfalconout.ttf'
+    font 'seariderfalconoutital.ttf'
+    font 'seariderfalconpunch.ttf'
+    font 'seariderfalconpunchital.ttf'
+    font 'seariderfalconsemital.ttf'
+    font 'seariderfalconsuperital.ttf'
+end
