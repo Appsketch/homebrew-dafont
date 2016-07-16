@@ -1,0 +1,37 @@
+cask 'dafont-turbo-charge' do
+    version :latest # created_at: 2016-06-14 00:00:00
+    sha256 'a1ccea18efdfe75240ffcfaa8bf0817527b042d0ee022d72ff741c853b75ef5a'
+
+    url 'http://dl.dafont.com/dl/?f=turbo_charge'
+    name 'Turbo Charge'
+    homepage 'http://www.dafont.com/turbo-charge.font'
+    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
+
+    font 'turbocharge.ttf'
+    font 'turbocharge3d.ttf'
+    font 'turbocharge3dital.ttf'
+    font 'turbochargechrome.ttf'
+    font 'turbochargechromeital.ttf'
+    font 'turbochargecond.ttf'
+    font 'turbochargecondital.ttf'
+    font 'turbochargeengrave.ttf'
+    font 'turbochargeengraveital.ttf'
+    font 'turbochargeexpand.ttf'
+    font 'turbochargeexpandital.ttf'
+    font 'turbochargegrad.ttf'
+    font 'turbochargegradital.ttf'
+    font 'turbochargehalf.ttf'
+    font 'turbochargehalfital.ttf'
+    font 'turbochargeital.ttf'
+    font 'turbochargeiutital.ttf'
+    font 'turbochargelaser.ttf'
+    font 'turbochargelaserital.ttf'
+    font 'turbochargeleft.ttf'
+    font 'turbochargelight.ttf'
+    font 'turbochargelightital.ttf'
+    font 'turbochargeout.ttf'
+    font 'turbochargepunch.ttf'
+    font 'turbochargepunchital.ttf'
+    font 'turbochargesemital.ttf'
+    font 'turbochargesuperital.ttf'
+end

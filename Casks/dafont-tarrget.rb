@@ -1,0 +1,35 @@
+cask 'dafont-tarrget' do
+    version :latest # created_at: 2013-07-11 00:00:00
+    sha256 '8ae7a00061f3620fb6f155e1a5b9cd73719c7ff37c0cc119d7c4baca9e66c448'
+
+    url 'http://dl.dafont.com/dl/?f=tarrget'
+    name 'Tarrget'
+    homepage 'http://www.dafont.com/tarrget.font'
+    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
+
+    font 'tarrget.ttf'
+    font 'tarrget3d.ttf'
+    font 'tarrget3dital.ttf'
+    font 'tarrgetacad.ttf'
+    font 'tarrgetacadital.ttf'
+    font 'tarrgetchrome.ttf'
+    font 'tarrgetchromeital.ttf'
+    font 'tarrgetcond.ttf'
+    font 'tarrgetcondital.ttf'
+    font 'tarrgetengrave.ttf'
+    font 'tarrgetengraveital.ttf'
+    font 'tarrgetexpand.ttf'
+    font 'tarrgetexpandital.ttf'
+    font 'tarrgetgrad.ttf'
+    font 'tarrgetgradital.ttf'
+    font 'tarrgethalf.ttf'
+    font 'tarrgethalfital.ttf'
+    font 'tarrgetital.ttf'
+    font 'tarrgetlaser.ttf'
+    font 'tarrgetlaserital.ttf'
+    font 'tarrgetleft.ttf'
+    font 'tarrgetout.ttf'
+    font 'tarrgetoutital.ttf'
+    font 'tarrgetplat.ttf'
+    font 'tarrgetplatital.ttf'
+end
