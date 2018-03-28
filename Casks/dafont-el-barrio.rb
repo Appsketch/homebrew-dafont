@@ -5,7 +5,6 @@ cask 'dafont-el-barrio' do
     url 'http://dl.dafont.com/dl/?f=el_barrio'
     name 'El Barrio'
     homepage 'http://www.dafont.com/el-barrio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'el_barrio11.ttf'
 end

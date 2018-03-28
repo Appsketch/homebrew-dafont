@@ -5,7 +5,6 @@ cask 'dafont-bogor' do
     url 'http://dl.dafont.com/dl/?f=bogor'
     name 'Bogor'
     homepage 'http://www.dafont.com/bogor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOGOR.ttf'
 end

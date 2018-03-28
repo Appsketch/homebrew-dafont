@@ -5,7 +5,6 @@ cask 'dafont-mamae-que-nos-faz' do
     url 'http://dl.dafont.com/dl/?f=mamae_que_nos_faz'
     name 'Mam&atilde;e Que Nos Faz'
     homepage 'http://www.dafont.com/mamae-que-nos-faz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maria_lucia.ttf'
 end

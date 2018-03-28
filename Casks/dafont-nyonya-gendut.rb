@@ -5,7 +5,6 @@ cask 'dafont-nyonya-gendut' do
     url 'http://dl.dafont.com/dl/?f=nyonya_gendut'
     name 'Nyonya Gendut'
     homepage 'http://www.dafont.com/nyonya-gendut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nyonya_gendut.ttf'
 end

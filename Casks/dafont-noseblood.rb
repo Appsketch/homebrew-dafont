@@ -5,7 +5,6 @@ cask 'dafont-noseblood' do
     url 'http://dl.dafont.com/dl/?f=noseblood'
     name 'Noseblood'
     homepage 'http://www.dafont.com/noseblood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Noseblood.otf'
 end

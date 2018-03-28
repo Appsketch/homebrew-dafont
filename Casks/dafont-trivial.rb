@@ -5,7 +5,6 @@ cask 'dafont-trivial' do
     url 'http://dl.dafont.com/dl/?f=trivial'
     name 'Trivial'
     homepage 'http://www.dafont.com/trivial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trivial-Bold.otf'
     font 'Trivial-ExtraLight.otf'

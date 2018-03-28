@@ -5,7 +5,6 @@ cask 'dafont-amaliamutia' do
     url 'http://dl.dafont.com/dl/?f=amaliamutia'
     name 'Amaliamutia'
     homepage 'http://www.dafont.com/amaliamutia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmaliaMutia.ttf'
 end

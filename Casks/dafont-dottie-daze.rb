@@ -5,7 +5,6 @@ cask 'dafont-dottie-daze' do
     url 'http://dl.dafont.com/dl/?f=dottie_daze'
     name 'Dottie Daze'
     homepage 'http://www.dafont.com/dottie-daze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'font dots.ttf'
 end

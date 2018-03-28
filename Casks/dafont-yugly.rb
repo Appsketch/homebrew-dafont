@@ -5,7 +5,6 @@ cask 'dafont-yugly' do
     url 'http://dl.dafont.com/dl/?f=yugly'
     name 'Yugly'
     homepage 'http://www.dafont.com/yugly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YUGLY___.TTF'
 end

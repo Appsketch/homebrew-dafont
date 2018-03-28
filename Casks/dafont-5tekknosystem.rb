@@ -5,7 +5,6 @@ cask 'dafont-5tekknosystem' do
     url 'http://dl.dafont.com/dl/?f=5tekknosystem'
     name '5 Tekknosystem'
     homepage 'http://www.dafont.com/5tekknosystem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5tekknosystem.ttf'
 end

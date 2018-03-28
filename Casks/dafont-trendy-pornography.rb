@@ -5,7 +5,6 @@ cask 'dafont-trendy-pornography' do
     url 'http://dl.dafont.com/dl/?f=trendy_pornography'
     name 'Trendy Pornography'
     homepage 'http://www.dafont.com/trendy-pornography.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trendy Pornography.ttf'
 end

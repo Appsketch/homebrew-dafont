@@ -5,7 +5,6 @@ cask 'dafont-fasto' do
     url 'http://dl.dafont.com/dl/?f=fasto'
     name 'Fasto'
     homepage 'http://www.dafont.com/fasto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FASTO___.TTF'
 end

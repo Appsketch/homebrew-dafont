@@ -5,7 +5,6 @@ cask 'dafont-cf-jungle' do
     url 'http://dl.dafont.com/dl/?f=cf_jungle'
     name 'CF Jungle'
     homepage 'http://www.dafont.com/cf-jungle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFJUNGLE-Regular.ttf'
 end

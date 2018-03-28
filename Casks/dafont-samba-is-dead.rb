@@ -5,7 +5,6 @@ cask 'dafont-samba-is-dead' do
     url 'http://dl.dafont.com/dl/?f=samba_is_dead'
     name 'Samba is dead'
     homepage 'http://www.dafont.com/samba-is-dead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SAMBD___.TTF'
 end

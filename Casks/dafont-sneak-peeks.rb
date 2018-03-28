@@ -5,7 +5,6 @@ cask 'dafont-sneak-peeks' do
     url 'http://dl.dafont.com/dl/?f=sneak_peeks'
     name 'Sneak Peeks'
     homepage 'http://www.dafont.com/sneak-peeks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sneak peeks.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-leicht' do
     url 'http://dl.dafont.com/dl/?f=leicht'
     name 'Leicht'
     homepage 'http://www.dafont.com/leicht.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Leicht bold.ttf'
     font 'Leicht book.ttf'

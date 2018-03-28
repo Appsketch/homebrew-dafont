@@ -5,7 +5,6 @@ cask 'dafont-lee-hodges' do
     url 'http://dl.dafont.com/dl/?f=lee_hodges'
     name 'Lee Hodges'
     homepage 'http://www.dafont.com/lee-hodges.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lee Hodges.ttf'
 end

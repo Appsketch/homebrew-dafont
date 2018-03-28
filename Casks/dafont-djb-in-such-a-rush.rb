@@ -5,7 +5,6 @@ cask 'dafont-djb-in-such-a-rush' do
     url 'http://dl.dafont.com/dl/?f=djb_in_such_a_rush'
     name 'DJB In Such a Rush'
     homepage 'http://www.dafont.com/djb-in-such-a-rush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB In Such a Rush.ttf'
 end

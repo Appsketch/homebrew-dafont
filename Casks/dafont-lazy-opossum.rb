@@ -5,7 +5,6 @@ cask 'dafont-lazy-opossum' do
     url 'http://dl.dafont.com/dl/?f=lazy_opossum'
     name 'Lazy Opossum'
     homepage 'http://www.dafont.com/lazy-opossum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lazy Opossum.ttf'
 end

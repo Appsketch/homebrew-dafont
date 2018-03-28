@@ -5,7 +5,6 @@ cask 'dafont-european-jazz-american-music' do
     url 'http://dl.dafont.com/dl/?f=european_jazz_american_music'
     name 'European Jazz American Music'
     homepage 'http://www.dafont.com/european-jazz-american-music.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'European Jazz American Music.ttf'
 end

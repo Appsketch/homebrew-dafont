@@ -5,7 +5,6 @@ cask 'dafont-krumkake' do
     url 'http://dl.dafont.com/dl/?f=krumkake'
     name 'Krumkake'
     homepage 'http://www.dafont.com/krumkake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Krumkake.ttf'
     font 'KrumkakeBold.ttf'

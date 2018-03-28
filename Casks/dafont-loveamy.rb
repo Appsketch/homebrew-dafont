@@ -5,7 +5,6 @@ cask 'dafont-loveamy' do
     url 'http://dl.dafont.com/dl/?f=loveamy'
     name 'Love Amy'
     homepage 'http://www.dafont.com/loveamy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'love-amy.ttf'
 end

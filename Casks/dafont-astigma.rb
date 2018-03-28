@@ -5,7 +5,6 @@ cask 'dafont-astigma' do
     url 'http://dl.dafont.com/dl/?f=astigma'
     name 'Astigma'
     homepage 'http://www.dafont.com/astigma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASS.TTF'
 end

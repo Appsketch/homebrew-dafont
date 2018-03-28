@@ -5,7 +5,6 @@ cask 'dafont-king-of-rome' do
     url 'http://dl.dafont.com/dl/?f=king_of_rome'
     name 'King of Rome'
     homepage 'http://www.dafont.com/king-of-rome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KingofRome_FREE_FOR_PERSONAL_USE_ONLY.ttf'
 end

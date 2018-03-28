@@ -5,7 +5,6 @@ cask 'dafont-just-another-courier' do
     url 'http://dl.dafont.com/dl/?f=just_another_courier'
     name 'Just Another Courier'
     homepage 'http://www.dafont.com/just-another-courier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Just Another Courier.ttf'
 end

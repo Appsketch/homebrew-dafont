@@ -5,7 +5,6 @@ cask 'dafont-csdesign-fabrica-de-ideas' do
     url 'http://dl.dafont.com/dl/?f=csdesign_fabrica_de_ideas'
     name 'CSDesign F&aacute;brica de ideas'
     homepage 'http://www.dafont.com/csdesign-fabrica-de-ideas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'csdesign.ttf'
 end

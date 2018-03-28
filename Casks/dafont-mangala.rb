@@ -5,7 +5,6 @@ cask 'dafont-mangala' do
     url 'http://dl.dafont.com/dl/?f=mangala'
     name 'Mangala'
     homepage 'http://www.dafont.com/mangala.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mangala.ttf'
 end

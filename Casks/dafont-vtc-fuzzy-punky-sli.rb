@@ -5,7 +5,6 @@ cask 'dafont-vtc-fuzzy-punky-sli' do
     url 'http://dl.dafont.com/dl/?f=vtc_fuzzy_punky_sli'
     name 'VTC Fuzzy Punky Slippers'
     homepage 'http://www.dafont.com/vtc-fuzzy-punky-sli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTCFuzzypunkyslippers.ttf'
 end

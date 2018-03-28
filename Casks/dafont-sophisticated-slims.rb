@@ -5,7 +5,6 @@ cask 'dafont-sophisticated-slims' do
     url 'http://dl.dafont.com/dl/?f=sophisticated_slims'
     name 'Sophisticated Slims'
     homepage 'http://www.dafont.com/sophisticated-slims.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sophisticated Slims Regular Italic.otf'
     font 'Sophisticated Slims Regular.otf'

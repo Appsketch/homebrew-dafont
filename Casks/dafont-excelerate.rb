@@ -5,7 +5,6 @@ cask 'dafont-excelerate' do
     url 'http://dl.dafont.com/dl/?f=excelerate'
     name 'Excelerate'
     homepage 'http://www.dafont.com/excelerate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'excelate.ttf'
     font 'excelatel.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-anascript' do
     url 'http://dl.dafont.com/dl/?f=anascript'
     name 'AnaScript'
     homepage 'http://www.dafont.com/anascript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sendhar - anascript.ttf'
 end

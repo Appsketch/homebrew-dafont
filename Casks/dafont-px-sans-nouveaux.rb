@@ -5,7 +5,6 @@ cask 'dafont-px-sans-nouveaux' do
     url 'http://dl.dafont.com/dl/?f=px_sans_nouveaux'
     name 'PX Sans Nouveaux'
     homepage 'http://www.dafont.com/px-sans-nouveaux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'px_sans_nouveaux.ttf'
 end

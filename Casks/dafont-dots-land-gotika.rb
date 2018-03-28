@@ -5,7 +5,6 @@ cask 'dafont-dots-land-gotika' do
     url 'http://dl.dafont.com/dl/?f=dots_land_gotika'
     name 'Dots Land Gotika'
     homepage 'http://www.dafont.com/dots-land-gotika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dots Land Gotika.ttf'
 end

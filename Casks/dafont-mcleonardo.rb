@@ -5,7 +5,6 @@ cask 'dafont-mcleonardo' do
     url 'http://dl.dafont.com/dl/?f=mcleonardo'
     name 'McLeonardo'
     homepage 'http://www.dafont.com/mcleonardo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'McLeonardo.ttf'
 end

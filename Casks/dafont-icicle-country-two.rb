@@ -5,7 +5,6 @@ cask 'dafont-icicle-country-two' do
     url 'http://dl.dafont.com/dl/?f=icicle_country_two'
     name 'Icicle Country Two'
     homepage 'http://www.dafont.com/icicle-country-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'icicle country 2.ttf'
 end

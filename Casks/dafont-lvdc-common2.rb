@@ -5,7 +5,6 @@ cask 'dafont-lvdc-common2' do
     url 'http://dl.dafont.com/dl/?f=lvdc_common2'
     name 'LVDC Common2'
     homepage 'http://www.dafont.com/lvdc-common2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'common2_w/LVDCC___.TTF'
 end

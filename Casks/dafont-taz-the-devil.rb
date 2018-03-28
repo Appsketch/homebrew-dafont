@@ -5,7 +5,6 @@ cask 'dafont-taz-the-devil' do
     url 'http://dl.dafont.com/dl/?f=taz_the_devil'
     name 'Taz the Devil'
     homepage 'http://www.dafont.com/taz-the-devil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TazTheDevil.ttf'
 end

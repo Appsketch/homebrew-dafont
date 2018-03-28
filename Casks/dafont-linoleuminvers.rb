@@ -5,7 +5,6 @@ cask 'dafont-linoleuminvers' do
     url 'http://dl.dafont.com/dl/?f=linoleuminvers'
     name 'LinoLeumInvers'
     homepage 'http://www.dafont.com/linoleuminvers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LinoLeumInvers.ttf'
 end

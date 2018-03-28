@@ -5,7 +5,6 @@ cask 'dafont-sf-zero-gravity' do
     url 'http://dl.dafont.com/dl/?f=sf_zero_gravity'
     name 'SF Zero Gravity'
     homepage 'http://www.dafont.com/sf-zero-gravity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Zero Gravity Bold Italic.ttf'
     font 'SF Zero Gravity Bold.ttf'

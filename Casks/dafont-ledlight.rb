@@ -5,7 +5,6 @@ cask 'dafont-ledlight' do
     url 'http://dl.dafont.com/dl/?f=ledlight'
     name 'Ledlight'
     homepage 'http://www.dafont.com/ledlight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEDLIGHT.otf'
 end

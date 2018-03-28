@@ -5,7 +5,6 @@ cask 'dafont-mtf-wulan' do
     url 'http://dl.dafont.com/dl/?f=mtf_wulan'
     name 'MTF Wulan'
     homepage 'http://www.dafont.com/mtf-wulan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Wulan.ttf'
 end

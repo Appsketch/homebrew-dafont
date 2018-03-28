@@ -5,7 +5,6 @@ cask 'dafont-bas-relief' do
     url 'http://dl.dafont.com/dl/?f=bas_relief'
     name 'Bas Relief'
     homepage 'http://www.dafont.com/bas-relief.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bas Relief.ttf'
     font 'reir____.ttf'

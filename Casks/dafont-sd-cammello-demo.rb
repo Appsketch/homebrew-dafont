@@ -5,7 +5,6 @@ cask 'dafont-sd-cammello-demo' do
     url 'http://dl.dafont.com/dl/?f=sd_cammello_demo'
     name 'SD Cammello'
     homepage 'http://www.dafont.com/sd-cammello-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SD Cammello Demo.ttf'
 end

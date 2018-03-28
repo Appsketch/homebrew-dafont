@@ -5,7 +5,6 @@ cask 'dafont-beastian' do
     url 'http://dl.dafont.com/dl/?f=beastian'
     name 'Beastian'
     homepage 'http://www.dafont.com/beastian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beastian.ttf'
     font 'beastian3d.ttf'

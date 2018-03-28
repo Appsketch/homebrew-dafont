@@ -5,7 +5,6 @@ cask 'dafont-ghost-clan' do
     url 'http://dl.dafont.com/dl/?f=ghost_clan'
     name 'Ghost Clan'
     homepage 'http://www.dafont.com/ghost-clan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ghostclan.ttf'
     font 'ghostclan3d.ttf'

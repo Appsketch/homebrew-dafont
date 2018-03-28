@@ -5,7 +5,6 @@ cask 'dafont-kids-first-print-fo' do
     url 'http://dl.dafont.com/dl/?f=kids_first_print_fo'
     name 'Kids First Print Font'
     homepage 'http://www.dafont.com/kids-first-print-fo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KidsFirstPrintFont.ttf'
 end

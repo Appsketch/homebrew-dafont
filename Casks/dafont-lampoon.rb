@@ -5,7 +5,6 @@ cask 'dafont-lampoon' do
     url 'http://dl.dafont.com/dl/?f=lampoon'
     name 'Lampoon'
     homepage 'http://www.dafont.com/lampoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lampoon.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kremlin-synod-display-caps' do
     url 'http://dl.dafont.com/dl/?f=kremlin_synod_display_caps'
     name 'Kremlin Synod Display Caps'
     homepage 'http://www.dafont.com/kremlin-synod-display-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Synod (Display Caps).ttf'
 end

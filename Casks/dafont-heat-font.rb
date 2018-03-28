@@ -5,7 +5,6 @@ cask 'dafont-heat-font' do
     url 'http://dl.dafont.com/dl/?f=heat_font'
     name 'Heart Font'
     homepage 'http://www.dafont.com/heat-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heartfont.TTF'
 end

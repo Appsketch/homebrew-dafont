@@ -5,7 +5,6 @@ cask 'dafont-gails-unicorn' do
     url 'http://dl.dafont.com/dl/?f=gails_unicorn'
     name 'Gail&#039;s Unicorn'
     homepage 'http://www.dafont.com/gails-unicorn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gails Unicorn.ttf'
 end

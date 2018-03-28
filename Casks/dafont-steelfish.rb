@@ -5,7 +5,6 @@ cask 'dafont-steelfish' do
     url 'http://dl.dafont.com/dl/?f=steelfish'
     name 'Steelfish'
     homepage 'http://www.dafont.com/steelfish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'steelfish outline.ttf'
     font 'steelfish rg it.ttf'

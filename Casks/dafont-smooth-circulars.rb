@@ -5,7 +5,6 @@ cask 'dafont-smooth-circulars' do
     url 'http://dl.dafont.com/dl/?f=smooth_circulars'
     name 'Smooth Circulars'
     homepage 'http://www.dafont.com/smooth-circulars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smooth Circulars Italic.otf'
     font 'Smooth Circulars.otf'

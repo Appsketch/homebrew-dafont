@@ -5,7 +5,6 @@ cask 'dafont-revolving-door' do
     url 'http://dl.dafont.com/dl/?f=revolving_door'
     name 'Revolving Door'
     homepage 'http://www.dafont.com/revolving-door.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REVOD___.TTF'
 end

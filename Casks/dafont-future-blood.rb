@@ -5,7 +5,6 @@ cask 'dafont-future-blood' do
     url 'http://dl.dafont.com/dl/?f=future_blood'
     name 'Future Blood'
     homepage 'http://www.dafont.com/future-blood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Future Blood.ttf'
 end

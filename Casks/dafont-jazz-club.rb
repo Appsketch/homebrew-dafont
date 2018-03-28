@@ -5,7 +5,6 @@ cask 'dafont-jazz-club' do
     url 'http://dl.dafont.com/dl/?f=jazz_club'
     name 'Jazz Club'
     homepage 'http://www.dafont.com/jazz-club.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jazz_Club.ttf'
 end

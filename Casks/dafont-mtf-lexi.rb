@@ -5,7 +5,6 @@ cask 'dafont-mtf-lexi' do
     url 'http://dl.dafont.com/dl/?f=mtf_lexi'
     name 'MTF Lexi'
     homepage 'http://www.dafont.com/mtf-lexi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Lexi.ttf'
 end

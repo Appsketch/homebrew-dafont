@@ -5,7 +5,6 @@ cask 'dafont-famous-oldies' do
     url 'http://dl.dafont.com/dl/?f=famous_oldies'
     name 'Famous Oldies'
     homepage 'http://www.dafont.com/famous-oldies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Famous Oldies Black.ttf'
     font 'Famous Oldies Plain.ttf'

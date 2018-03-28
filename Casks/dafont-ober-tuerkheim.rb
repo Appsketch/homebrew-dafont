@@ -5,7 +5,6 @@ cask 'dafont-ober-tuerkheim' do
     url 'http://dl.dafont.com/dl/?f=ober_tuerkheim'
     name 'Ober Tuerkheim'
     homepage 'http://www.dafont.com/ober-tuerkheim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ober-Tuerkheim.ttf'
 end

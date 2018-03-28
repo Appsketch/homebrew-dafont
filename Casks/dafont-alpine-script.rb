@@ -5,7 +5,6 @@ cask 'dafont-alpine-script' do
     url 'http://dl.dafont.com/dl/?f=alpine_script'
     name 'Alpine Script'
     homepage 'http://www.dafont.com/alpine-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alpine Script.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nerwus' do
     url 'http://dl.dafont.com/dl/?f=nerwus'
     name 'Nerwus'
     homepage 'http://www.dafont.com/nerwus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nerwus.ttf'
 end

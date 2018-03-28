@@ -5,7 +5,6 @@ cask 'dafont-alighty-nesia' do
     url 'http://dl.dafont.com/dl/?f=alighty_nesia'
     name 'Alighty Nesia'
     homepage 'http://www.dafont.com/alighty-nesia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alighty Nesia Bold.ttf'
     font 'Alighty Nesia.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-pr-celtic-narrow' do
     url 'http://dl.dafont.com/dl/?f=pr_celtic_narrow'
     name 'PR Celtic Narrow'
     homepage 'http://www.dafont.com/pr-celtic-narrow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NARROW.TTF'
 end

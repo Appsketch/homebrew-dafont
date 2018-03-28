@@ -5,7 +5,6 @@ cask 'dafont-ye-old-shire' do
     url 'http://dl.dafont.com/dl/?f=ye_old_shire'
     name 'Ye Old Shire'
     homepage 'http://www.dafont.com/ye-old-shire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ye Old Shire Outline.ttf'
     font 'Ye Old Shire.ttf'

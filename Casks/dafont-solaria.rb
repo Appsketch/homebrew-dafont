@@ -5,7 +5,6 @@ cask 'dafont-solaria' do
     url 'http://dl.dafont.com/dl/?f=solaria'
     name 'Solaria'
     homepage 'http://www.dafont.com/solaria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Solaria.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-little-days' do
     url 'http://dl.dafont.com/dl/?f=little_days'
     name 'Little Days'
     homepage 'http://www.dafont.com/little-days.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Little Daisy.ttf'
     font 'Little Days Alt.ttf'

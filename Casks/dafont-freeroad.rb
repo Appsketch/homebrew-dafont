@@ -5,7 +5,6 @@ cask 'dafont-freeroad' do
     url 'http://dl.dafont.com/dl/?f=freeroad'
     name 'Freeroad'
     homepage 'http://www.dafont.com/freeroad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Freeroad Black Italic.ttf'
     font 'Freeroad Black.ttf'

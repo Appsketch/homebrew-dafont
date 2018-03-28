@@ -5,7 +5,6 @@ cask 'dafont-pf-scircle1' do
     url 'http://dl.dafont.com/dl/?f=pf_scircle1'
     name 'PF Scircle1'
     homepage 'http://www.dafont.com/pf-scircle1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PF_SCIRC.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-crative-chalk' do
     url 'http://dl.dafont.com/dl/?f=crative_chalk'
     name 'Crative Chalk'
     homepage 'http://www.dafont.com/crative-chalk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'creative chalk.ttf'
 end

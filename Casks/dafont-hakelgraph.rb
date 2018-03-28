@@ -5,7 +5,6 @@ cask 'dafont-hakelgraph' do
     url 'http://dl.dafont.com/dl/?f=hakelgraph'
     name 'Hakelgraph'
     homepage 'http://www.dafont.com/hakelgraph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hakelgraph.ttf'
 end

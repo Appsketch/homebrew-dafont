@@ -5,7 +5,6 @@ cask 'dafont-leaning-on-everlasting-arms' do
     url 'http://dl.dafont.com/dl/?f=leaning_on_everlasting_arms'
     name 'Leaning on Everlasting Arms'
     homepage 'http://www.dafont.com/leaning-on-everlasting-arms.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Leaning on Everlasting Arms.ttf'
 end

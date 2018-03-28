@@ -5,7 +5,6 @@ cask 'dafont-hvd-spencils' do
     url 'http://dl.dafont.com/dl/?f=hvd_spencils'
     name 'HVD Spencils'
     homepage 'http://www.dafont.com/hvd-spencils.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HVD_Spencils_block.ttf'
     font 'HVD_Spencils_reg.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-maszyna-aeg' do
     url 'http://dl.dafont.com/dl/?f=maszyna_aeg'
     name 'Maszyna'
     homepage 'http://www.dafont.com/maszyna-aeg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MaszynaAEG.ttf'
     font 'MaszynaPlus.ttf'

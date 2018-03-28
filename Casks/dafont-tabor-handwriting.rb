@@ -5,7 +5,6 @@ cask 'dafont-tabor-handwriting' do
     url 'http://dl.dafont.com/dl/?f=tabor_handwriting'
     name 'Tabor Handwriting'
     homepage 'http://www.dafont.com/tabor-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hwfont.ttf'
 end

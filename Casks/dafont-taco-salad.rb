@@ -5,7 +5,6 @@ cask 'dafont-taco-salad' do
     url 'http://dl.dafont.com/dl/?f=taco_salad'
     name 'Taco Salad'
     homepage 'http://www.dafont.com/taco-salad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TACOSRG_.TTF'
 end

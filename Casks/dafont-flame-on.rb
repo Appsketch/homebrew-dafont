@@ -5,7 +5,6 @@ cask 'dafont-flame-on' do
     url 'http://dl.dafont.com/dl/?f=flame_on'
     name 'Flame on!'
     homepage 'http://www.dafont.com/flame-on.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flame on Black.ttf'
     font 'Flame on!.ttf'

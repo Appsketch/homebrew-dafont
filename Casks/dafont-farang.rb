@@ -5,7 +5,6 @@ cask 'dafont-farang' do
     url 'http://dl.dafont.com/dl/?f=farang'
     name 'Farang'
     homepage 'http://www.dafont.com/farang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FARANG__.TTF'
 end

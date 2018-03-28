@@ -5,7 +5,6 @@ cask 'dafont-epicawesomeness' do
     url 'http://dl.dafont.com/dl/?f=epicawesomeness'
     name 'Epic Awesomeness'
     homepage 'http://www.dafont.com/epicawesomeness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EpicAwesomeness.ttf'
     font 'EpicAwesomenessScribblz.ttf'

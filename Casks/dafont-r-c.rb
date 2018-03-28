@@ -5,7 +5,6 @@ cask 'dafont-r-c' do
     url 'http://dl.dafont.com/dl/?f=r_c'
     name 'R&amp;C'
     homepage 'http://www.dafont.com/r-c.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'R&amp;C-Demo.otf'
 end

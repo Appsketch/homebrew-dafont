@@ -5,7 +5,6 @@ cask 'dafont-wireframe-davenport' do
     url 'http://dl.dafont.com/dl/?f=wireframe_davenport'
     name 'Wireframe Davenport'
     homepage 'http://www.dafont.com/wireframe-davenport.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WIRE.TTF'
 end

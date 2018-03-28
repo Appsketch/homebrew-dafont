@@ -5,7 +5,6 @@ cask 'dafont-splatz-brk' do
     url 'http://dl.dafont.com/dl/?f=splatz_brk'
     name 'Splatz BRK'
     homepage 'http://www.dafont.com/splatz-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Splatz2.ttf'
 end

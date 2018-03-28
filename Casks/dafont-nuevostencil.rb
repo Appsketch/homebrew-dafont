@@ -5,7 +5,6 @@ cask 'dafont-nuevostencil' do
     url 'http://dl.dafont.com/dl/?f=nuevostencil'
     name 'Nuevo Stencil'
     homepage 'http://www.dafont.com/nuevostencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nuevostencil filled.ttf'
     font 'nuevostencil hollow.ttf'

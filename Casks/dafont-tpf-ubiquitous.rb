@@ -5,7 +5,6 @@ cask 'dafont-tpf-ubiquitous' do
     url 'http://dl.dafont.com/dl/?f=tpf_ubiquitous'
     name 'TPF Ubiquitous'
     homepage 'http://www.dafont.com/tpf-ubiquitous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TPF Ubiquitous.ttf'
 end

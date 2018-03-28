@@ -5,7 +5,6 @@ cask 'dafont-rainbowslollipops' do
     url 'http://dl.dafont.com/dl/?f=rainbowslollipops'
     name 'Rainbows Lollipops'
     homepage 'http://www.dafont.com/rainbowslollipops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rainbows&amp;Lollipops.ttf'
 end

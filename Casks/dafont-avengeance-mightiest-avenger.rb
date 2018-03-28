@@ -5,7 +5,6 @@ cask 'dafont-avengeance-mightiest-avenger' do
     url 'http://dl.dafont.com/dl/?f=avengeance_mightiest_avenger'
     name 'Avengeance Mightiest Avenger'
     homepage 'http://www.dafont.com/avengeance-mightiest-avenger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AVENGEANCE MIGHTIEST AVENGER.ttf'
 end

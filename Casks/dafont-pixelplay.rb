@@ -5,7 +5,6 @@ cask 'dafont-pixelplay' do
     url 'http://dl.dafont.com/dl/?f=pixelplay'
     name 'PixelPlay'
     homepage 'http://www.dafont.com/pixelplay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixelplay.ttf'
 end

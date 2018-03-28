@@ -5,7 +5,6 @@ cask 'dafont-superglue' do
     url 'http://dl.dafont.com/dl/?f=superglue'
     name 'Superglue'
     homepage 'http://www.dafont.com/superglue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'superglue.ttf'
 end

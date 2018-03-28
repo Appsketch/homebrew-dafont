@@ -5,7 +5,6 @@ cask 'dafont-slabs' do
     url 'http://dl.dafont.com/dl/?f=slabs'
     name 'Slabs Thin'
     homepage 'http://www.dafont.com/slabs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SLABS THIN.otf'
 end

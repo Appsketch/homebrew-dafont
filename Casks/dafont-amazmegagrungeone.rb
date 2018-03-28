@@ -5,7 +5,6 @@ cask 'dafont-amazmegagrungeone' do
     url 'http://dl.dafont.com/dl/?f=amazmegagrungeone'
     name 'Amaz Mega Grunge One'
     homepage 'http://www.dafont.com/amazmegagrungeone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmazMegaGrungeOne.ttf'
 end

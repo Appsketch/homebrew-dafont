@@ -5,7 +5,6 @@ cask 'dafont-borg' do
     url 'http://dl.dafont.com/dl/?f=borg'
     name 'Borg'
     homepage 'http://www.dafont.com/borg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Borg.ttf'
 end

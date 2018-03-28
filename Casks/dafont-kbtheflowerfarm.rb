@@ -5,7 +5,6 @@ cask 'dafont-kbtheflowerfarm' do
     url 'http://dl.dafont.com/dl/?f=kbtheflowerfarm'
     name 'KB The Flower Farm'
     homepage 'http://www.dafont.com/kbtheflowerfarm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBTheFlowerFarm.ttf'
 end

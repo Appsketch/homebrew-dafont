@@ -5,7 +5,6 @@ cask 'dafont-wreckers' do
     url 'http://dl.dafont.com/dl/?f=wreckers'
     name 'Wreckers'
     homepage 'http://www.dafont.com/wreckers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wreckers Italic.otf'
     font 'Wreckers.otf'

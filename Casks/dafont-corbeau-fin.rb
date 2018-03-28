@@ -5,7 +5,6 @@ cask 'dafont-corbeau-fin' do
     url 'http://dl.dafont.com/dl/?f=corbeau_fin'
     name 'Corbeau Fin'
     homepage 'http://www.dafont.com/corbeau-fin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'corbeau fine.ttf'
 end

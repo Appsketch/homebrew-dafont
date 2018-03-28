@@ -5,7 +5,6 @@ cask 'dafont-il-grinta' do
     url 'http://dl.dafont.com/dl/?f=il_grinta'
     name 'Il Grinta'
     homepage 'http://www.dafont.com/il-grinta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Il Grinta.otf'
 end

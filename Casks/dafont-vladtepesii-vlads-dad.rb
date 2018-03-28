@@ -5,7 +5,6 @@ cask 'dafont-vladtepesii-vlads-dad' do
     url 'http://dl.dafont.com/dl/?f=vladtepesii_vlads_dad'
     name 'Vlad Tepes II  (Vlads Dad)'
     homepage 'http://www.dafont.com/vladtepesii-vlads-dad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vlad Tepes II (Vlads Dad).ttf'
 end

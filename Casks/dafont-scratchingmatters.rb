@@ -5,7 +5,6 @@ cask 'dafont-scratchingmatters' do
     url 'http://dl.dafont.com/dl/?f=scratchingmatters'
     name 'Scratching Matters'
     homepage 'http://www.dafont.com/scratchingmatters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ScratchingMatters.ttf'
 end

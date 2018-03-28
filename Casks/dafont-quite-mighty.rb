@@ -5,7 +5,6 @@ cask 'dafont-quite-mighty' do
     url 'http://dl.dafont.com/dl/?f=quite_mighty'
     name 'Quite Mighty'
     homepage 'http://www.dafont.com/quite-mighty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quite Mighty.ttf'
 end

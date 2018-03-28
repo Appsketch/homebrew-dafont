@@ -5,7 +5,6 @@ cask 'dafont-tengwar-sindarin' do
     url 'http://dl.dafont.com/dl/?f=tengwar_sindarin'
     name 'Tengwar Sindarin'
     homepage 'http://www.dafont.com/tengwar-sindarin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SINDAR.TTF'
     font 'SINDARA.TTF'

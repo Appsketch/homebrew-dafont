@@ -5,7 +5,6 @@ cask 'dafont-oh-my-god-stars' do
     url 'http://dl.dafont.com/dl/?f=oh_my_god_stars'
     name 'Oh my god stars !'
     homepage 'http://www.dafont.com/oh-my-god-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OhMyGodStars.ttf'
 end

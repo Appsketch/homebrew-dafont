@@ -5,7 +5,6 @@ cask 'dafont-equestrian-by-darri' do
     url 'http://dl.dafont.com/dl/?f=equestrian_by_darri'
     name 'Equestrian'
     homepage 'http://www.dafont.com/equestrian-by-darri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Equestrian by Darrian.ttf'
 end

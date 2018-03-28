@@ -5,7 +5,6 @@ cask 'dafont-polkadotcrazy' do
     url 'http://dl.dafont.com/dl/?f=polkadotcrazy'
     name 'Polka Dot Crazy'
     homepage 'http://www.dafont.com/polkadotcrazy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PolkaDotCrazy.ttf'
 end

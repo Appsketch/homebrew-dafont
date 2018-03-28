@@ -5,7 +5,6 @@ cask 'dafont-the-haine-au-carre' do
     url 'http://dl.dafont.com/dl/?f=the_haine_au_carre'
     name 'The haine au carre !'
     homepage 'http://www.dafont.com/the-haine-au-carre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'french.ttf'
 end

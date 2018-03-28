@@ -5,7 +5,6 @@ cask 'dafont-term' do
     url 'http://dl.dafont.com/dl/?f=term'
     name 'Term'
     homepage 'http://www.dafont.com/term.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Term-RegAaa.ttf'
     font 'Term-RegBbb.ttf'

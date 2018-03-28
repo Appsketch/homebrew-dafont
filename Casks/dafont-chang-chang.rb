@@ -5,7 +5,6 @@ cask 'dafont-chang-chang' do
     url 'http://dl.dafont.com/dl/?f=chang_chang'
     name 'Chang Chang'
     homepage 'http://www.dafont.com/chang-chang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChangChang.ttf'
 end

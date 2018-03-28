@@ -5,7 +5,6 @@ cask 'dafont-hand-shop-typography-a20' do
     url 'http://dl.dafont.com/dl/?f=hand_shop_typography_a20'
     name 'Hand Shop Typography A20'
     homepage 'http://www.dafont.com/hand-shop-typography-a20.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fontscafe_HandShopTypography-A20_demo.ttf'
 end

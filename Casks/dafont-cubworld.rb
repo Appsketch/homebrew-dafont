@@ -5,7 +5,6 @@ cask 'dafont-cubworld' do
     url 'http://dl.dafont.com/dl/?f=cubworld'
     name 'Cubworld'
     homepage 'http://www.dafont.com/cubworld.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CUBWORLD.ttf'
 end

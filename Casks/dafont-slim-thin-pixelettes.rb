@@ -5,7 +5,6 @@ cask 'dafont-slim-thin-pixelettes' do
     url 'http://dl.dafont.com/dl/?f=slim_thin_pixelettes'
     name 'Slim Thin Pixelettes'
     homepage 'http://www.dafont.com/slim-thin-pixelettes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slim Thin Pixelettes.otf'
 end

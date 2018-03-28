@@ -5,7 +5,6 @@ cask 'dafont-virginie' do
     url 'http://dl.dafont.com/dl/?f=virginie'
     name 'Virginie'
     homepage 'http://www.dafont.com/virginie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Virginie.ttf'
 end

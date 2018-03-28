@@ -5,7 +5,6 @@ cask 'dafont-fenotype-dings' do
     url 'http://dl.dafont.com/dl/?f=fenotype_dings'
     name 'Fenotype Dings'
     homepage 'http://www.dafont.com/fenotype-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FENOTYPE.TTF'
 end

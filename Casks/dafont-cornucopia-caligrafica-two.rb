@@ -5,7 +5,6 @@ cask 'dafont-cornucopia-caligrafica-two' do
     url 'http://dl.dafont.com/dl/?f=cornucopia_caligrafica_two'
     name 'Cornucopia Caligrafica Two'
     homepage 'http://www.dafont.com/cornucopia-caligrafica-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cornucopia Caligrafica Two.ttf'
 end

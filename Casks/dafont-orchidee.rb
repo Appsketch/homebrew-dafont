@@ -5,7 +5,6 @@ cask 'dafont-orchidee' do
     url 'http://dl.dafont.com/dl/?f=orchidee'
     name 'Orchidee'
     homepage 'http://www.dafont.com/orchidee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ORCHL___.TTF'
     font 'ORCHM___.TTF'

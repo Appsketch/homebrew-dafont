@@ -5,7 +5,6 @@ cask 'dafont-karloff-b' do
     url 'http://dl.dafont.com/dl/?f=karloff_b'
     name 'Karloff'
     homepage 'http://www.dafont.com/karloff-b.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KARLOFF_.otf'
 end

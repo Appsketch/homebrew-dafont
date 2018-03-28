@@ -5,7 +5,6 @@ cask 'dafont-resource' do
     url 'http://dl.dafont.com/dl/?f=resource'
     name 'Resource'
     homepage 'http://www.dafont.com/resource.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'resource.ttf'
 end

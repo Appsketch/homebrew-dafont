@@ -5,7 +5,6 @@ cask 'dafont-cyberverse' do
     url 'http://dl.dafont.com/dl/?f=cyberverse'
     name 'Cyberverse'
     homepage 'http://www.dafont.com/cyberverse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cyberverse Bold Italic.otf'
     font 'Cyberverse Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-alpha-sapphire' do
     url 'http://dl.dafont.com/dl/?f=alpha_sapphire'
     name 'Alpha Sapphire'
     homepage 'http://www.dafont.com/alpha-sapphire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alpha Sapphire.otf'
 end

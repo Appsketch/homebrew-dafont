@@ -5,7 +5,6 @@ cask 'dafont-cheapprofonts-serif-pro' do
     url 'http://dl.dafont.com/dl/?f=cheapprofonts_serif_pro'
     name 'CheapProFonts Serif Pro'
     homepage 'http://www.dafont.com/cheapprofonts-serif-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CPF Serif Pro-Bold.otf'
     font 'CPF Serif Pro-Regular.otf'

@@ -5,7 +5,6 @@ cask 'dafont-arena-mascaras' do
     url 'http://dl.dafont.com/dl/?f=arena_mascaras'
     name 'Arena Mascaras'
     homepage 'http://www.dafont.com/arena-mascaras.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arena Mascaras.ttf'
 end

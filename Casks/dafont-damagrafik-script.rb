@@ -5,7 +5,6 @@ cask 'dafont-damagrafik-script' do
     url 'http://dl.dafont.com/dl/?f=damagrafik_script'
     name 'Damagrafik Script'
     homepage 'http://www.dafont.com/damagrafik-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DamagrafikScript-Regular.ttf'
 end

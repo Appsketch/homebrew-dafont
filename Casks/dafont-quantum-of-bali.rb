@@ -5,7 +5,6 @@ cask 'dafont-quantum-of-bali' do
     url 'http://dl.dafont.com/dl/?f=quantum_of_bali'
     name 'Quantum of Bali'
     homepage 'http://www.dafont.com/quantum-of-bali.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quantum_of_bali.ttf'
 end

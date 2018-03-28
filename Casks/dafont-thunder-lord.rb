@@ -5,7 +5,6 @@ cask 'dafont-thunder-lord' do
     url 'http://dl.dafont.com/dl/?f=thunder_lord'
     name 'Thunder Lord'
     homepage 'http://www.dafont.com/thunder-lord.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thunder Lord.ttf'
 end

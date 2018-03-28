@@ -5,7 +5,6 @@ cask 'dafont-handwritten-crystal' do
     url 'http://dl.dafont.com/dl/?f=handwritten_crystal'
     name 'Handwritten Crystal'
     homepage 'http://www.dafont.com/handwritten-crystal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Handwritten_Crystal_v2.ttf'
 end

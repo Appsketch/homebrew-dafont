@@ -5,7 +5,6 @@ cask 'dafont-llnitro' do
     url 'http://dl.dafont.com/dl/?f=llnitro'
     name 'LL Nitro'
     homepage 'http://www.dafont.com/llnitro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLNITRO_.ttf'
 end

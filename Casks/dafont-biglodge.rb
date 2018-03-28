@@ -5,7 +5,6 @@ cask 'dafont-biglodge' do
     url 'http://dl.dafont.com/dl/?f=biglodge'
     name 'Big Lodge'
     homepage 'http://www.dafont.com/biglodge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigLodgeTypeFree.ttf'
 end

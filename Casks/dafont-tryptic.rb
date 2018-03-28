@@ -5,7 +5,6 @@ cask 'dafont-tryptic' do
     url 'http://dl.dafont.com/dl/?f=tryptic'
     name 'Tryptic'
     homepage 'http://www.dafont.com/tryptic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tryptic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-spankys-bungalow' do
     url 'http://dl.dafont.com/dl/?f=spankys_bungalow'
     name 'Spankys Bungalow'
     homepage 'http://www.dafont.com/spankys-bungalow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spankysbblancoitalico.ttf'
     font 'spankysbungalow.ttf'

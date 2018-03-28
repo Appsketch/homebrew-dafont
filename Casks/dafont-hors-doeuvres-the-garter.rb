@@ -5,7 +5,6 @@ cask 'dafont-hors-doeuvres-the-garter' do
     url 'http://dl.dafont.com/dl/?f=hors_doeuvres_the_garter'
     name 'Hors D&#039;uvres The Garter'
     homepage 'http://www.dafont.com/hors-doeuvres-the-garter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hors D&#039;oeuvres The Garter.otf'
 end

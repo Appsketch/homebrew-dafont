@@ -5,7 +5,6 @@ cask 'dafont-super-retro-m54' do
     url 'http://dl.dafont.com/dl/?f=super_retro_m54'
     name 'Super Retro M54'
     homepage 'http://www.dafont.com/super-retro-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Super Retro Italic M54.ttf'
     font 'Super Retro M54.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-street-prescription' do
     url 'http://dl.dafont.com/dl/?f=street_prescription'
     name 'Street Prescription'
     homepage 'http://www.dafont.com/street-prescription.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'street_prescription.ttf'
 end

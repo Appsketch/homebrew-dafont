@@ -5,7 +5,6 @@ cask 'dafont-quentin-tarantino' do
     url 'http://dl.dafont.com/dl/?f=quentin_tarantino'
     name 'Quentin Tarantino'
     homepage 'http://www.dafont.com/quentin-tarantino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quentin Tarantino.ttf'
 end

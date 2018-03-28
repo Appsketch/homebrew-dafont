@@ -5,7 +5,6 @@ cask 'dafont-mcf-star-worms' do
     url 'http://dl.dafont.com/dl/?f=mcf_star_worms'
     name 'MCF Star Worms'
     homepage 'http://www.dafont.com/mcf-star-worms.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MCF StarWorms.ttf'
 end

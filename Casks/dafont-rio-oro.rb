@@ -5,7 +5,6 @@ cask 'dafont-rio-oro' do
     url 'http://dl.dafont.com/dl/?f=rio_oro'
     name 'Rio Oro'
     homepage 'http://www.dafont.com/rio-oro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rio Oro Bold Italic.otf'
     font 'Rio Oro Bold.otf'

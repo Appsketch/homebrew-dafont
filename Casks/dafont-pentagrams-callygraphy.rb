@@ -5,7 +5,6 @@ cask 'dafont-pentagrams-callygraphy' do
     url 'http://dl.dafont.com/dl/?f=pentagrams_callygraphy'
     name 'PentaGram&#039;s Callygraphy'
     homepage 'http://www.dafont.com/pentagrams-callygraphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PentaGram&#039;s Callygraphy.ttf'
 end

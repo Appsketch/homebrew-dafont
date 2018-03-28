@@ -5,7 +5,6 @@ cask 'dafont-ww-gingerbread' do
     url 'http://dl.dafont.com/dl/?f=ww_gingerbread'
     name 'WW Gingerbread'
     homepage 'http://www.dafont.com/ww-gingerbread.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WWGingerbread.ttf'
 end

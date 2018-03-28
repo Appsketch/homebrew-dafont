@@ -5,7 +5,6 @@ cask 'dafont-anothernightout' do
     url 'http://dl.dafont.com/dl/?f=anothernightout'
     name 'Another Night Out'
     homepage 'http://www.dafont.com/anothernightout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnotherNightOut.ttf'
 end

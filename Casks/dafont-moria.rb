@@ -5,7 +5,6 @@ cask 'dafont-moria' do
     url 'http://dl.dafont.com/dl/?f=moria'
     name 'Moria'
     homepage 'http://www.dafont.com/moria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moria.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-durden' do
     url 'http://dl.dafont.com/dl/?f=durden'
     name 'Durden'
     homepage 'http://www.dafont.com/durden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Durden.otf'
 end

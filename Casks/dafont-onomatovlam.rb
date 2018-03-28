@@ -5,7 +5,6 @@ cask 'dafont-onomatovlam' do
     url 'http://dl.dafont.com/dl/?f=onomatovlam'
     name 'OnomatoVlam'
     homepage 'http://www.dafont.com/onomatovlam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OnomatoVlam.ttf'
 end

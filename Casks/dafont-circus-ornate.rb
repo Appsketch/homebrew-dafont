@@ -5,7 +5,6 @@ cask 'dafont-circus-ornate' do
     url 'http://dl.dafont.com/dl/?f=circus_ornate'
     name 'Circus Ornate'
     homepage 'http://www.dafont.com/circus-ornate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CircusOrnate.ttf'
 end

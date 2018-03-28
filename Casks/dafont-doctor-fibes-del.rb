@@ -5,7 +5,6 @@ cask 'dafont-doctor-fibes-del' do
     url 'http://dl.dafont.com/dl/?f=doctor_fibes_del'
     name 'Doctor Fibes DEL'
     homepage 'http://www.dafont.com/doctor-fibes-del.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DoctorFibesDEL.ttf'
 end

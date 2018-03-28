@@ -5,7 +5,6 @@ cask 'dafont-rvd-patterson' do
     url 'http://dl.dafont.com/dl/?f=rvd_patterson'
     name 'RvD Patterson'
     homepage 'http://www.dafont.com/rvd-patterson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RvD_PATTERSON.ttf'
 end

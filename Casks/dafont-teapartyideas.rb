@@ -5,7 +5,6 @@ cask 'dafont-teapartyideas' do
     url 'http://dl.dafont.com/dl/?f=teapartyideas'
     name 'Tea Party Ideas'
     homepage 'http://www.dafont.com/teapartyideas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TeaPartyIdeas.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-grafitik-riot' do
     url 'http://dl.dafont.com/dl/?f=grafitik_riot'
     name 'Grafitik Riot'
     homepage 'http://www.dafont.com/grafitik-riot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grafitik_riot.ttf'
 end

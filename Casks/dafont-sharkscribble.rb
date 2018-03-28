@@ -5,7 +5,6 @@ cask 'dafont-sharkscribble' do
     url 'http://dl.dafont.com/dl/?f=sharkscribble'
     name 'Sharkscribble'
     homepage 'http://www.dafont.com/sharkscribble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sharkscribble.ttf'
 end

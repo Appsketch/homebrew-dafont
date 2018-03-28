@@ -5,7 +5,6 @@ cask 'dafont-quagent' do
     url 'http://dl.dafont.com/dl/?f=quagent'
     name 'Quagent'
     homepage 'http://www.dafont.com/quagent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quagent-Italic.ttf'
     font 'Quagent-Regular.ttf'

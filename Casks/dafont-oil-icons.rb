@@ -5,7 +5,6 @@ cask 'dafont-oil-icons' do
     url 'http://dl.dafont.com/dl/?f=oil_icons'
     name 'Oil Icons'
     homepage 'http://www.dafont.com/oil-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oil Icons.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gessele' do
     url 'http://dl.dafont.com/dl/?f=gessele'
     name 'Gessele'
     homepage 'http://www.dafont.com/gessele.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GESSELE.TTF'
 end

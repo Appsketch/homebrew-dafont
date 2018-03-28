@@ -5,7 +5,6 @@ cask 'dafont-plaq-108' do
     url 'http://dl.dafont.com/dl/?f=plaq_108'
     name 'Plaq 108'
     homepage 'http://www.dafont.com/plaq-108.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plaq - 108.otf'
 end

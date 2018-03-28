@@ -5,7 +5,6 @@ cask 'dafont-dissatisfaction' do
     url 'http://dl.dafont.com/dl/?f=dissatisfaction'
     name 'Dissatisfaction'
     homepage 'http://www.dafont.com/dissatisfaction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dissatis.ttf'
 end

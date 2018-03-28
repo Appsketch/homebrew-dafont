@@ -5,7 +5,6 @@ cask 'dafont-lms-hippy-chick' do
     url 'http://dl.dafont.com/dl/?f=lms_hippy_chick'
     name 'LMS Hippy Chick'
     homepage 'http://www.dafont.com/lms-hippy-chick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LMS Hippy Chick.ttf'
 end

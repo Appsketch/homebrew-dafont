@@ -5,7 +5,6 @@ cask 'dafont-bandung-pride' do
     url 'http://dl.dafont.com/dl/?f=bandung_pride'
     name 'Bandung Pride'
     homepage 'http://www.dafont.com/bandung-pride.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bandung Pride.ttf'
 end

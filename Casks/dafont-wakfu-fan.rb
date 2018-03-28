@@ -5,7 +5,6 @@ cask 'dafont-wakfu-fan' do
     url 'http://dl.dafont.com/dl/?f=wakfu_fan'
     name 'Wakfu Fan'
     homepage 'http://www.dafont.com/wakfu-fan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wakfu_fan.ttf'
 end

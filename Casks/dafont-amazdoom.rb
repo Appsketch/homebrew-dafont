@@ -5,7 +5,6 @@ cask 'dafont-amazdoom' do
     url 'http://dl.dafont.com/dl/?f=amazdoom'
     name 'AmazDooM'
     homepage 'http://www.dafont.com/amazdoom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmazDooMLeft.ttf'
     font 'AmazDooMLeft2.ttf'

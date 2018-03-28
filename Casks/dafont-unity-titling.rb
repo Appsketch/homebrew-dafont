@@ -5,7 +5,6 @@ cask 'dafont-unity-titling' do
     url 'http://dl.dafont.com/dl/?f=unity_titling'
     name 'Unity Titling'
     homepage 'http://www.dafont.com/unity-titling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'unity_titling.ttf'
 end

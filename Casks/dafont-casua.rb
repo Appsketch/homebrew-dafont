@@ -5,7 +5,6 @@ cask 'dafont-casua' do
     url 'http://dl.dafont.com/dl/?f=casua'
     name 'Casua'
     homepage 'http://www.dafont.com/casua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Casua_b.ttf'
     font 'Casua_s.ttf'

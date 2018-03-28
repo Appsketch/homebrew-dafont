@@ -5,7 +5,6 @@ cask 'dafont-defragmented' do
     url 'http://dl.dafont.com/dl/?f=defragmented'
     name 'Defragmented'
     homepage 'http://www.dafont.com/defragmented.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEGRAGMENTED.ttf'
 end

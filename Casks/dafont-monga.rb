@@ -5,7 +5,6 @@ cask 'dafont-monga' do
     url 'http://dl.dafont.com/dl/?f=monga'
     name 'Monga'
     homepage 'http://www.dafont.com/monga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monga-Regular.ttf'
 end

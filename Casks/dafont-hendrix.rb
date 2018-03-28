@@ -5,7 +5,6 @@ cask 'dafont-hendrix' do
     url 'http://dl.dafont.com/dl/?f=hendrix'
     name 'Hendrix'
     homepage 'http://www.dafont.com/hendrix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HENDD___.TTF'
 end

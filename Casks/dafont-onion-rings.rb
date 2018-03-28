@@ -5,7 +5,6 @@ cask 'dafont-onion-rings' do
     url 'http://dl.dafont.com/dl/?f=onion_rings'
     name 'Onion Rings'
     homepage 'http://www.dafont.com/onion-rings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'onion rings.ttf'
 end

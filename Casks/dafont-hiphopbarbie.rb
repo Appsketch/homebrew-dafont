@@ -5,7 +5,6 @@ cask 'dafont-hiphopbarbie' do
     url 'http://dl.dafont.com/dl/?f=hiphopbarbie'
     name 'Hip Hop Barbie'
     homepage 'http://www.dafont.com/hiphopbarbie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hiphopbarbie.ttf'
 end

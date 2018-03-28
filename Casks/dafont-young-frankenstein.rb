@@ -5,7 +5,6 @@ cask 'dafont-young-frankenstein' do
     url 'http://dl.dafont.com/dl/?f=young_frankenstein'
     name 'Young Frankenstein'
     homepage 'http://www.dafont.com/young-frankenstein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'youngfrank.ttf'
     font 'youngfrank3d.ttf'

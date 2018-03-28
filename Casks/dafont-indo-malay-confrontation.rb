@@ -5,7 +5,6 @@ cask 'dafont-indo-malay-confrontation' do
     url 'http://dl.dafont.com/dl/?f=indo_malay_confrontation'
     name 'Indo-Malay Confrontation'
     homepage 'http://www.dafont.com/indo-malay-confrontation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'indomalay_confrontation.ttf'
 end

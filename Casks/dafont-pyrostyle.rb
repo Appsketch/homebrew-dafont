@@ -5,7 +5,6 @@ cask 'dafont-pyrostyle' do
     url 'http://dl.dafont.com/dl/?f=pyrostyle'
     name 'Pyrostyle'
     homepage 'http://www.dafont.com/pyrostyle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PYROSTYL.TTF'
 end

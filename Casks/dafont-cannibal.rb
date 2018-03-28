@@ -5,7 +5,6 @@ cask 'dafont-cannibal' do
     url 'http://dl.dafont.com/dl/?f=cannibal'
     name 'Cannibal'
     homepage 'http://www.dafont.com/cannibal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cannibal.ttf'
 end

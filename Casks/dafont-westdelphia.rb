@@ -5,7 +5,6 @@ cask 'dafont-westdelphia' do
     url 'http://dl.dafont.com/dl/?f=westdelphia'
     name 'Westdelphia'
     homepage 'http://www.dafont.com/westdelphia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'westdelphia.ttf'
     font 'westdelphia3d.ttf'

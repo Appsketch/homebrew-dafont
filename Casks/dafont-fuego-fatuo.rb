@@ -5,7 +5,6 @@ cask 'dafont-fuego-fatuo' do
     url 'http://dl.dafont.com/dl/?f=fuego_fatuo'
     name 'Fuego Fatuo'
     homepage 'http://www.dafont.com/fuego-fatuo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fuego Fatuo.ttf'
 end

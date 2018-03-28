@@ -5,7 +5,6 @@ cask 'dafont-neo-gen' do
     url 'http://dl.dafont.com/dl/?f=neo_gen'
     name 'Neo Gen'
     homepage 'http://www.dafont.com/neo-gen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neo Gen Bold Italic.ttf'
     font 'Neo Gen Bold.ttf'

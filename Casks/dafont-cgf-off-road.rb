@@ -5,7 +5,6 @@ cask 'dafont-cgf-off-road' do
     url 'http://dl.dafont.com/dl/?f=cgf_off_road'
     name 'CGF Off-Road'
     homepage 'http://www.dafont.com/cgf-off-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CGF Off-Road.ttf'
 end

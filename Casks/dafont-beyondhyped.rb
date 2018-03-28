@@ -5,7 +5,6 @@ cask 'dafont-beyondhyped' do
     url 'http://dl.dafont.com/dl/?f=beyondhyped'
     name 'Beyond Hyped'
     homepage 'http://www.dafont.com/beyondhyped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeyondHyped.ttf'
 end

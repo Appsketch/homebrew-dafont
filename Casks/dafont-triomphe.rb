@@ -5,7 +5,6 @@ cask 'dafont-triomphe' do
     url 'http://dl.dafont.com/dl/?f=triomphe'
     name 'Triomphe'
     homepage 'http://www.dafont.com/triomphe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Triomphe-Black.ttf'
     font 'Triomphe-BlackItalic.ttf'

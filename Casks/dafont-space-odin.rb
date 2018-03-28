@@ -5,7 +5,6 @@ cask 'dafont-space-odin' do
     url 'http://dl.dafont.com/dl/?f=space_odin'
     name 'Space Odin'
     homepage 'http://www.dafont.com/space-odin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'space_odin.ttf'
 end

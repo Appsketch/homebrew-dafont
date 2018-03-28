@@ -5,7 +5,6 @@ cask 'dafont-zhang' do
     url 'http://dl.dafont.com/dl/?f=zhang'
     name 'Zhang'
     homepage 'http://www.dafont.com/zhang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TTF/zhang.ttf'
 end

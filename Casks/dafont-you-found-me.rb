@@ -5,7 +5,6 @@ cask 'dafont-you-found-me' do
     url 'http://dl.dafont.com/dl/?f=you_found_me'
     name 'You Found Me'
     homepage 'http://www.dafont.com/you-found-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'youfoundme.ttf'
 end

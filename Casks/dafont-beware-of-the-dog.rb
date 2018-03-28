@@ -5,7 +5,6 @@ cask 'dafont-beware-of-the-dog' do
     url 'http://dl.dafont.com/dl/?f=beware_of_the_dog'
     name 'Beware of the Dog'
     homepage 'http://www.dafont.com/beware-of-the-dog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beware of the Dog.ttf'
 end

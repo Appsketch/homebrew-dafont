@@ -5,7 +5,6 @@ cask 'dafont-5drop-that-bass' do
     url 'http://dl.dafont.com/dl/?f=5drop_that_bass'
     name '5 Drop That Bass!'
     homepage 'http://www.dafont.com/5drop-that-bass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5drop_that_bass.ttf'
 end

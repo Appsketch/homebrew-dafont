@@ -5,7 +5,6 @@ cask 'dafont-pixelbreack' do
     url 'http://dl.dafont.com/dl/?f=pixelbreack'
     name 'Pixel Breack'
     homepage 'http://www.dafont.com/pixelbreack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixelBreack Bold.ttf'
 end

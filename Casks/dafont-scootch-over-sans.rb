@@ -5,7 +5,6 @@ cask 'dafont-scootch-over-sans' do
     url 'http://dl.dafont.com/dl/?f=scootch_over_sans'
     name 'Scootch Over Sans'
     homepage 'http://www.dafont.com/scootch-over-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scootchover-sans.ttf'
 end

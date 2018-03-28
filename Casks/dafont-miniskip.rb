@@ -5,7 +5,6 @@ cask 'dafont-miniskip' do
     url 'http://dl.dafont.com/dl/?f=miniskip'
     name 'Miniskip'
     homepage 'http://www.dafont.com/miniskip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MINISKAP.TTF'
     font 'MINISKIP.TTF'

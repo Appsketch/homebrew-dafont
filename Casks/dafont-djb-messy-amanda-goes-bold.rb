@@ -5,7 +5,6 @@ cask 'dafont-djb-messy-amanda-goes-bold' do
     url 'http://dl.dafont.com/dl/?f=djb_messy_amanda_goes_bold'
     name 'DJB Messy Amanda Goes Bold'
     homepage 'http://www.dafont.com/djb-messy-amanda-goes-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Messy Amanda Goes Bold.ttf'
 end

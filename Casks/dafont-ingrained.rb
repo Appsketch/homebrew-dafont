@@ -5,7 +5,6 @@ cask 'dafont-ingrained' do
     url 'http://dl.dafont.com/dl/?f=ingrained'
     name 'Ingrained'
     homepage 'http://www.dafont.com/ingrained.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ingrained.ttf'
 end

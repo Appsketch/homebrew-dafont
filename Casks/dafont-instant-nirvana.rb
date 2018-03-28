@@ -5,7 +5,6 @@ cask 'dafont-instant-nirvana' do
     url 'http://dl.dafont.com/dl/?f=instant_nirvana'
     name 'Instant Nirvana'
     homepage 'http://www.dafont.com/instant-nirvana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Instant Nirvana.ttf'
 end

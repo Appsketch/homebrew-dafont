@@ -5,7 +5,6 @@ cask 'dafont-wars-of-asgard' do
     url 'http://dl.dafont.com/dl/?f=wars_of_asgard'
     name 'Wars of Asgard'
     homepage 'http://www.dafont.com/wars-of-asgard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'warasgard2.ttf'
     font 'warasgard3d2.ttf'

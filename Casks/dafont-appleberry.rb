@@ -5,7 +5,6 @@ cask 'dafont-appleberry' do
     url 'http://dl.dafont.com/dl/?f=appleberry'
     name 'Appleberry'
     homepage 'http://www.dafont.com/appleberry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'appleberry.ttf'
 end

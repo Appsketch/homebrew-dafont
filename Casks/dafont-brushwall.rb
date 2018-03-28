@@ -5,7 +5,6 @@ cask 'dafont-brushwall' do
     url 'http://dl.dafont.com/dl/?f=brushwall'
     name 'Brushwall'
     homepage 'http://www.dafont.com/brushwall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brushwall regular.ttf'
 end

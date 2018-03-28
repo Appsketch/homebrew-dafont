@@ -5,7 +5,6 @@ cask 'dafont-rollergirls' do
     url 'http://dl.dafont.com/dl/?f=rollergirls'
     name 'Rollergirls'
     homepage 'http://www.dafont.com/rollergirls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROLLERGI.TTF'
 end

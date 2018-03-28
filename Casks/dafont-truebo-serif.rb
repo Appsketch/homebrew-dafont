@@ -5,7 +5,6 @@ cask 'dafont-truebo-serif' do
     url 'http://dl.dafont.com/dl/?f=truebo_serif'
     name 'Truebo Serif'
     homepage 'http://www.dafont.com/truebo-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'truebo_serif.ttf'
 end

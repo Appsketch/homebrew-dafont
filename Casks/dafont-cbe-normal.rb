@@ -5,7 +5,6 @@ cask 'dafont-cbe-normal' do
     url 'http://dl.dafont.com/dl/?f=cbe_normal'
     name 'Cbe Normal'
     homepage 'http://www.dafont.com/cbe-normal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cbeNormal_b_i.ttf'
     font 'cbeNormal_b.ttf'

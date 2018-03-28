@@ -5,7 +5,6 @@ cask 'dafont-bottle-shop-faded' do
     url 'http://dl.dafont.com/dl/?f=bottle_shop_faded'
     name 'Bottle Shop Faded'
     homepage 'http://www.dafont.com/bottle-shop-faded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BottleShopFaded.ttf'
 end

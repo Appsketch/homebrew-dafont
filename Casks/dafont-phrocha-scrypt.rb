@@ -5,7 +5,6 @@ cask 'dafont-phrocha-scrypt' do
     url 'http://dl.dafont.com/dl/?f=phrocha_scrypt'
     name 'PHRocha Scrypt'
     homepage 'http://www.dafont.com/phrocha-scrypt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PHRocha_Scrypt.ttf'
 end

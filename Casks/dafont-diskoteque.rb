@@ -5,7 +5,6 @@ cask 'dafont-diskoteque' do
     url 'http://dl.dafont.com/dl/?f=diskoteque'
     name 'Diskoteque'
     homepage 'http://www.dafont.com/diskoteque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DISKOTEQUE.TTF'
 end

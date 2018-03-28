@@ -5,7 +5,6 @@ cask 'dafont-zeyada' do
     url 'http://dl.dafont.com/dl/?f=zeyada'
     name 'Zeyada'
     homepage 'http://www.dafont.com/zeyada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zeyada.ttf'
 end

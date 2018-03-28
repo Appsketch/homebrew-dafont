@@ -5,7 +5,6 @@ cask 'dafont-fight-kid' do
     url 'http://dl.dafont.com/dl/?f=fight_kid'
     name 'Fight Kid'
     homepage 'http://www.dafont.com/fight-kid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fightkid.ttf'
     font 'fightkidc.ttf'

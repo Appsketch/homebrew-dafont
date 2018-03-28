@@ -5,7 +5,6 @@ cask 'dafont-x-cryption' do
     url 'http://dl.dafont.com/dl/?f=x_cryption'
     name 'X-Cryption'
     homepage 'http://www.dafont.com/x-cryption.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xcryptv2.ttf'
     font 'Xcryptv2i.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-sleepybaboos' do
     url 'http://dl.dafont.com/dl/?f=sleepybaboos'
     name 'Sleepy Baboos'
     homepage 'http://www.dafont.com/sleepybaboos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SleepyBaboos.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stem-panini' do
     url 'http://dl.dafont.com/dl/?f=stem_panini'
     name 'Stem Panini'
     homepage 'http://www.dafont.com/stem-panini.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StemPanini_Free_For_Personal_Use_Only.ttf'
 end

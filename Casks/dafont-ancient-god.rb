@@ -5,7 +5,6 @@ cask 'dafont-ancient-god' do
     url 'http://dl.dafont.com/dl/?f=ancient_god'
     name 'Ancient God'
     homepage 'http://www.dafont.com/ancient-god.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ancient God.ttf'
 end

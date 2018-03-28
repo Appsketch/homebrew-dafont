@@ -5,7 +5,6 @@ cask 'dafont-pretty-girls-script' do
     url 'http://dl.dafont.com/dl/?f=pretty_girls_script'
     name 'Pretty Girls Script'
     homepage 'http://www.dafont.com/pretty-girls-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pretty Girls Script Demo.ttf'
 end

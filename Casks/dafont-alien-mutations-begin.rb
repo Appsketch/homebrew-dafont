@@ -5,7 +5,6 @@ cask 'dafont-alien-mutations-begin' do
     url 'http://dl.dafont.com/dl/?f=alien_mutations_begin'
     name 'Alien Mutations Begin'
     homepage 'http://www.dafont.com/alien-mutations-begin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alien Mutations Begin.ttf'
 end

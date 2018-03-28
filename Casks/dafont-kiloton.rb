@@ -5,7 +5,6 @@ cask 'dafont-kiloton' do
     url 'http://dl.dafont.com/dl/?f=kiloton'
     name 'Kiloton'
     homepage 'http://www.dafont.com/kiloton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KILO-OUT.TTF'
     font 'KILOTON1.TTF'

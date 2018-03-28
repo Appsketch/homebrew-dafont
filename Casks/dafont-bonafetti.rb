@@ -5,7 +5,6 @@ cask 'dafont-bonafetti' do
     url 'http://dl.dafont.com/dl/?f=bonafetti'
     name 'Bonafetti'
     homepage 'http://www.dafont.com/bonafetti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonafetti-Italic.ttf'
     font 'Bonafetti-Light.ttf'

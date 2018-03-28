@@ -5,7 +5,6 @@ cask 'dafont-costarica' do
     url 'http://dl.dafont.com/dl/?f=costarica'
     name 'Costa Rica'
     homepage 'http://www.dafont.com/costarica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CostaRica.otf'
 end

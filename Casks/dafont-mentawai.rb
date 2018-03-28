@@ -5,7 +5,6 @@ cask 'dafont-mentawai' do
     url 'http://dl.dafont.com/dl/?f=mentawai'
     name 'Mentawai'
     homepage 'http://www.dafont.com/mentawai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mentawai_font.otf'
 end

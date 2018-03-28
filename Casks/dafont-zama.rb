@@ -5,7 +5,6 @@ cask 'dafont-zama' do
     url 'http://dl.dafont.com/dl/?f=zama'
     name 'Zama'
     homepage 'http://www.dafont.com/zama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zama Black.ttf'
     font 'zama Bold.ttf'

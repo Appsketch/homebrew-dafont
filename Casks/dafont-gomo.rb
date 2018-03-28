@@ -5,7 +5,6 @@ cask 'dafont-gomo' do
     url 'http://dl.dafont.com/dl/?f=gomo'
     name 'Gomo'
     homepage 'http://www.dafont.com/gomo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gomo.ttf'
 end

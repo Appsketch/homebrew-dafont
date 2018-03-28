@@ -5,7 +5,6 @@ cask 'dafont-iron-gate' do
     url 'http://dl.dafont.com/dl/?f=iron_gate'
     name 'Iron Gate'
     homepage 'http://www.dafont.com/iron-gate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iron Gate.ttf'
 end

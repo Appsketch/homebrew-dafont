@@ -5,7 +5,6 @@ cask 'dafont-tevegraphy' do
     url 'http://dl.dafont.com/dl/?f=tevegraphy'
     name 'Tevegraphy'
     homepage 'http://www.dafont.com/tevegraphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NON-LICENSED_Tevegraphy_Bold.ttf'
     font 'NON-LICENSED_Tevegraphy_Light.ttf'

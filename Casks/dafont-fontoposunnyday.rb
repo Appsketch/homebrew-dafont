@@ -5,7 +5,6 @@ cask 'dafont-fontoposunnyday' do
     url 'http://dl.dafont.com/dl/?f=fontoposunnyday'
     name 'Fontopo Sunny Day'
     homepage 'http://www.dafont.com/fontoposunnyday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fontopoSunnyDay-Regular.ttf'
 end

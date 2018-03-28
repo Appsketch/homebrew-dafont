@@ -5,7 +5,6 @@ cask 'dafont-ionic-bond' do
     url 'http://dl.dafont.com/dl/?f=ionic_bond'
     name 'Ionic Bond'
     homepage 'http://www.dafont.com/ionic-bond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IONICBON.TTF'
 end

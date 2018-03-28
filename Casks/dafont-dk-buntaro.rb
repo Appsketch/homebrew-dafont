@@ -5,7 +5,6 @@ cask 'dafont-dk-buntaro' do
     url 'http://dl.dafont.com/dl/?f=dk_buntaro'
     name 'DK Buntaro'
     homepage 'http://www.dafont.com/dk-buntaro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Buntaro.otf'
 end

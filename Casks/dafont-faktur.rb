@@ -5,7 +5,6 @@ cask 'dafont-faktur' do
     url 'http://dl.dafont.com/dl/?f=faktur'
     name 'Faktur'
     homepage 'http://www.dafont.com/faktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Faktur.ttf'
 end

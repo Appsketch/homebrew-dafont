@@ -5,7 +5,6 @@ cask 'dafont-willowheart' do
     url 'http://dl.dafont.com/dl/?f=willowheart'
     name 'Willowheart'
     homepage 'http://www.dafont.com/willowheart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Willowheart.ttf'
 end

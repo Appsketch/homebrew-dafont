@@ -5,7 +5,6 @@ cask 'dafont-manygifts' do
     url 'http://dl.dafont.com/dl/?f=manygifts'
     name 'Many Gifts'
     homepage 'http://www.dafont.com/manygifts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ManyGifts.ttf'
 end

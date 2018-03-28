@@ -5,7 +5,6 @@ cask 'dafont-ht-skyline' do
     url 'http://dl.dafont.com/dl/?f=ht_skyline'
     name 'HT Skyline'
     homepage 'http://www.dafont.com/ht-skyline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HT Skyline_1_001.ttf'
 end

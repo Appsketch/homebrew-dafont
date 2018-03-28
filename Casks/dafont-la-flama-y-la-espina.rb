@@ -5,7 +5,6 @@ cask 'dafont-la-flama-y-la-espina' do
     url 'http://dl.dafont.com/dl/?f=la_flama_y_la_espina'
     name 'La Flama y La Espina'
     homepage 'http://www.dafont.com/la-flama-y-la-espina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flama_Espina.TTF'
     font 'x_Flama_Espina_v2.TTF'

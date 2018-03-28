@@ -5,7 +5,6 @@ cask 'dafont-le-pochoir' do
     url 'http://dl.dafont.com/dl/?f=le_pochoir'
     name 'Le Pochoir'
     homepage 'http://www.dafont.com/le-pochoir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Le Pochoir Creux.ttf'
     font 'Le Pochoir.ttf'

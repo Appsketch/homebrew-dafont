@@ -5,7 +5,6 @@ cask 'dafont-noblacs' do
     url 'http://dl.dafont.com/dl/?f=noblacs'
     name 'NoblaCS'
     homepage 'http://www.dafont.com/noblacs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NoblaCS.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chenier' do
     url 'http://dl.dafont.com/dl/?f=chenier'
     name 'Chenier'
     homepage 'http://www.dafont.com/chenier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chenier-Regular.ttf'
 end

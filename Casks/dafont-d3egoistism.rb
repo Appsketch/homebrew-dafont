@@ -5,7 +5,6 @@ cask 'dafont-d3egoistism' do
     url 'http://dl.dafont.com/dl/?f=d3egoistism'
     name 'D3 Egoistism'
     homepage 'http://www.dafont.com/d3egoistism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'D3Egoistism_e.TTF'
     font 'D3Egoistism_l.TTF'

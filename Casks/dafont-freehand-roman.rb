@@ -5,7 +5,6 @@ cask 'dafont-freehand-roman' do
     url 'http://dl.dafont.com/dl/?f=freehand_roman'
     name 'Freehand Roman'
     homepage 'http://www.dafont.com/freehand-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Freehand Roman.ttf'
 end

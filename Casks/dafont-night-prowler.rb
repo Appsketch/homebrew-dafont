@@ -5,7 +5,6 @@ cask 'dafont-night-prowler' do
     url 'http://dl.dafont.com/dl/?f=night_prowler'
     name 'Night Prowler'
     homepage 'http://www.dafont.com/night-prowler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'night_prowler.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-my-silly-willy-girl' do
     url 'http://dl.dafont.com/dl/?f=my_silly_willy_girl'
     name 'My Silly Willy Girl'
     homepage 'http://www.dafont.com/my-silly-willy-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My Silly Willy Girl.ttf'
 end

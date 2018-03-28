@@ -5,7 +5,6 @@ cask 'dafont-aguzlo' do
     url 'http://dl.dafont.com/dl/?f=aguzlo'
     name 'Aguzlo'
     homepage 'http://www.dafont.com/aguzlo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AGUSTINASANS.ttf'
 end

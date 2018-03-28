@@ -5,7 +5,6 @@ cask 'dafont-dreamingpandas' do
     url 'http://dl.dafont.com/dl/?f=dreamingpandas'
     name 'Dreaming Pandas'
     homepage 'http://www.dafont.com/dreamingpandas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DreamingPandas.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mk-broken-types' do
     url 'http://dl.dafont.com/dl/?f=mk_broken_types'
     name 'MK Broken Types'
     homepage 'http://www.dafont.com/mk-broken-types.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MKBrokenTypes.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kg-tangled-up-in-you' do
     url 'http://dl.dafont.com/dl/?f=kg_tangled_up_in_you'
     name 'KG Tangled Up In You '
     homepage 'http://www.dafont.com/kg-tangled-up-in-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGTangledUpInYou.ttf'
     font 'KGTangledUpInYou2.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-olde-espruar' do
     url 'http://dl.dafont.com/dl/?f=olde_espruar'
     name 'Olde Espruar'
     homepage 'http://www.dafont.com/olde-espruar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Olde Espruar.otf'
 end

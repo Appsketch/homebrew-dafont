@@ -5,7 +5,6 @@ cask 'dafont-just-symbols-and-stuff' do
     url 'http://dl.dafont.com/dl/?f=just_symbols_and_stuff'
     name 'Just symbols and stuff'
     homepage 'http://www.dafont.com/just-symbols-and-stuff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'just_symbols_and_stuff.ttf'
 end

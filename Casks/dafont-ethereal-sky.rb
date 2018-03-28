@@ -5,7 +5,6 @@ cask 'dafont-ethereal-sky' do
     url 'http://dl.dafont.com/dl/?f=ethereal_sky'
     name 'Ethereal Sky'
     homepage 'http://www.dafont.com/ethereal-sky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ethereal  Sky.ttf'
 end

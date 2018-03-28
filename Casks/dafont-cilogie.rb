@@ -5,7 +5,6 @@ cask 'dafont-cilogie' do
     url 'http://dl.dafont.com/dl/?f=cilogie'
     name 'Cilogie'
     homepage 'http://www.dafont.com/cilogie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cilogie.ttf'
 end

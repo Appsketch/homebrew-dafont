@@ -5,7 +5,6 @@ cask 'dafont-motorblock' do
     url 'http://dl.dafont.com/dl/?f=motorblock'
     name 'MotorBlock'
     homepage 'http://www.dafont.com/motorblock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Motorblock.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-summers-snowman' do
     url 'http://dl.dafont.com/dl/?f=summers_snowman'
     name 'Summer&#039;s Snowman'
     homepage 'http://www.dafont.com/summers-snowman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Summers Snowman.ttf'
 end

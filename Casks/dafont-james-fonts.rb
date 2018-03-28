@@ -5,7 +5,6 @@ cask 'dafont-james-fonts' do
     url 'http://dl.dafont.com/dl/?f=james_fonts'
     name 'James Fonts'
     homepage 'http://www.dafont.com/james-fonts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JAMES_FONT.ttf'
 end

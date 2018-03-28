@@ -5,7 +5,6 @@ cask 'dafont-tajunnan-tuolla-puolen' do
     url 'http://dl.dafont.com/dl/?f=tajunnan_tuolla_puolen'
     name 'Tajunnan Tuolla Puolen'
     homepage 'http://www.dafont.com/tajunnan-tuolla-puolen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tajunnantuollapuolen.ttf'
 end

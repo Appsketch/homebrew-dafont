@@ -5,7 +5,6 @@ cask 'dafont-nymeria' do
     url 'http://dl.dafont.com/dl/?f=nymeria'
     name 'Nymeria'
     homepage 'http://www.dafont.com/nymeria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nymeria.ttf'
 end

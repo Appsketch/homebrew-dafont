@@ -5,7 +5,6 @@ cask 'dafont-strobelight' do
     url 'http://dl.dafont.com/dl/?f=strobelight'
     name 'Strobelight'
     homepage 'http://www.dafont.com/strobelight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strobelight.ttf'
 end

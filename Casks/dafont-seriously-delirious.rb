@@ -5,7 +5,6 @@ cask 'dafont-seriously-delirious' do
     url 'http://dl.dafont.com/dl/?f=seriously_delirious'
     name 'Seriously Delirious'
     homepage 'http://www.dafont.com/seriously-delirious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seriously Delirious.ttf'
 end

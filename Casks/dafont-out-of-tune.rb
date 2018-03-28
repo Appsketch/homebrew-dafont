@@ -5,7 +5,6 @@ cask 'dafont-out-of-tune' do
     url 'http://dl.dafont.com/dl/?f=out_of_tune'
     name 'Out Of Tune'
     homepage 'http://www.dafont.com/out-of-tune.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'out_of_tune.ttf'
 end

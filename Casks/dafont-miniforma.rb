@@ -5,7 +5,6 @@ cask 'dafont-miniforma' do
     url 'http://dl.dafont.com/dl/?f=miniforma'
     name 'MiniForma'
     homepage 'http://www.dafont.com/miniforma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiniForma2.ttf'
 end

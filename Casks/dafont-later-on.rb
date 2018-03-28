@@ -5,7 +5,6 @@ cask 'dafont-later-on' do
     url 'http://dl.dafont.com/dl/?f=later_on'
     name 'Later On'
     homepage 'http://www.dafont.com/later-on.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'later_on.ttf'
 end

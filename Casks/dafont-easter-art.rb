@@ -5,7 +5,6 @@ cask 'dafont-easter-art' do
     url 'http://dl.dafont.com/dl/?f=easter_art'
     name 'Easter Art'
     homepage 'http://www.dafont.com/easter-art.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EASTERAR.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jdfantasy' do
     url 'http://dl.dafont.com/dl/?f=jdfantasy'
     name 'JD Fantasy'
     homepage 'http://www.dafont.com/jdfantasy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_fantasy_bold.ttf'
     font 'jd_fantasy.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-shining-like-stars' do
     url 'http://dl.dafont.com/dl/?f=shining_like_stars'
     name 'Shining Like Stars'
     homepage 'http://www.dafont.com/shining-like-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shininglikestars.ttf'
 end

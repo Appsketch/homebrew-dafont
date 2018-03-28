@@ -5,7 +5,6 @@ cask 'dafont-timotheos' do
     url 'http://dl.dafont.com/dl/?f=timotheos'
     name 'Timotheos'
     homepage 'http://www.dafont.com/timotheos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Timoteo.ttf'
 end

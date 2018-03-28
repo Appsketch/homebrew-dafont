@@ -5,7 +5,6 @@ cask 'dafont-beginning-yoga' do
     url 'http://dl.dafont.com/dl/?f=beginning_yoga'
     name 'Beginning Yoga'
     homepage 'http://www.dafont.com/beginning-yoga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beginning Yoga.ttf'
 end

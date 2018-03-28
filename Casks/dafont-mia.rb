@@ -5,7 +5,6 @@ cask 'dafont-mia' do
     url 'http://dl.dafont.com/dl/?f=mia'
     name 'Mia'
     homepage 'http://www.dafont.com/mia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mia.ttf'
 end

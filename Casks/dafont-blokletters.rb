@@ -5,7 +5,6 @@ cask 'dafont-blokletters' do
     url 'http://dl.dafont.com/dl/?f=blokletters'
     name 'Blokletters'
     homepage 'http://www.dafont.com/blokletters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blokletters-Balpen.ttf'
     font 'Blokletters-Potlood.ttf'

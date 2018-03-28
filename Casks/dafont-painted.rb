@@ -5,7 +5,6 @@ cask 'dafont-painted' do
     url 'http://dl.dafont.com/dl/?f=painted'
     name 'Painted'
     homepage 'http://www.dafont.com/painted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Painted.ttf'
     font 'PaintedMessy.ttf'

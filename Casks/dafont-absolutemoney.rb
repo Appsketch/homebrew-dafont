@@ -5,7 +5,6 @@ cask 'dafont-absolutemoney' do
     url 'http://dl.dafont.com/dl/?f=absolutemoney'
     name 'Absolute Money'
     homepage 'http://www.dafont.com/absolutemoney.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AbsoluteMoney.ttf'
 end

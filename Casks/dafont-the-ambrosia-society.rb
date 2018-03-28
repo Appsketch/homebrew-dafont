@@ -5,7 +5,6 @@ cask 'dafont-the-ambrosia-society' do
     url 'http://dl.dafont.com/dl/?f=the_ambrosia_society'
     name 'The Ambrosia Society'
     homepage 'http://www.dafont.com/the-ambrosia-society.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The_Ambrosia_Society.otf'
 end

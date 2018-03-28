@@ -5,7 +5,6 @@ cask 'dafont-us-flag' do
     url 'http://dl.dafont.com/dl/?f=us_flag'
     name 'US Flag'
     homepage 'http://www.dafont.com/us-flag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'usflag__.ttf'
 end

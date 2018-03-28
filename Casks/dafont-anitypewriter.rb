@@ -5,7 +5,6 @@ cask 'dafont-anitypewriter' do
     url 'http://dl.dafont.com/dl/?f=anitypewriter'
     name 'Ani Typewriter'
     homepage 'http://www.dafont.com/anitypewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AniTypewriter.ttf'
 end

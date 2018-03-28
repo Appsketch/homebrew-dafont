@@ -5,7 +5,6 @@ cask 'dafont-sistah-ysse' do
     url 'http://dl.dafont.com/dl/?f=sistah_ysse'
     name 'Sistah Ysse'
     homepage 'http://www.dafont.com/sistah-ysse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sistah Ysse.otf'
 end

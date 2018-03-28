@@ -5,7 +5,6 @@ cask 'dafont-muller' do
     url 'http://dl.dafont.com/dl/?f=muller'
     name 'M&uuml;ller'
     homepage 'http://www.dafont.com/muller.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mller.ttf'
 end

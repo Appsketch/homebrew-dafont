@@ -5,7 +5,6 @@ cask 'dafont-basica-cartoon' do
     url 'http://dl.dafont.com/dl/?f=basica_cartoon'
     name 'Basica Cartoon'
     homepage 'http://www.dafont.com/basica-cartoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Basica Cartoon Free promo.ttf'
 end

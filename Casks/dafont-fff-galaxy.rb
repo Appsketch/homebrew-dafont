@@ -5,7 +5,6 @@ cask 'dafont-fff-galaxy' do
     url 'http://dl.dafont.com/dl/?f=fff_galaxy'
     name 'FFF Galaxy'
     homepage 'http://www.dafont.com/fff-galaxy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FFFGALAX.TTF'
     font 'FFFGE___.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-pwfairytales' do
     url 'http://dl.dafont.com/dl/?f=pwfairytales'
     name 'PW Fairy Tales'
     homepage 'http://www.dafont.com/pwfairytales.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWFairyTales.ttf'
 end

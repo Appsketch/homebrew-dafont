@@ -5,7 +5,6 @@ cask 'dafont-twizzled' do
     url 'http://dl.dafont.com/dl/?f=twizzled'
     name 'Twizzled'
     homepage 'http://www.dafont.com/twizzled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Twizzled.otf'
 end

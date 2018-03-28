@@ -5,7 +5,6 @@ cask 'dafont-chloe-2' do
     url 'http://dl.dafont.com/dl/?f=chloe_2'
     name 'Chloe 2'
     homepage 'http://www.dafont.com/chloe-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chloe_s_Handwriting_2.ttf'
 end

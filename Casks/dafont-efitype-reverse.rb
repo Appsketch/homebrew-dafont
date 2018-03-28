@@ -5,7 +5,6 @@ cask 'dafont-efitype-reverse' do
     url 'http://dl.dafont.com/dl/?f=efitype_reverse'
     name 'Efitype Reverse'
     homepage 'http://www.dafont.com/efitype-reverse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EFITYPEREVERSE-Regular.ttf'
 end

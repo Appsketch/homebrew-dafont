@@ -5,7 +5,6 @@ cask 'dafont-perfect-dark-zero' do
     url 'http://dl.dafont.com/dl/?f=perfect_dark_zero'
     name 'Perfect Dark Zero'
     homepage 'http://www.dafont.com/perfect-dark-zero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Perfect Dark Zero.ttf'
 end

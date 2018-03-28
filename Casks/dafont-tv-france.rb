@@ -5,7 +5,6 @@ cask 'dafont-tv-france' do
     url 'http://dl.dafont.com/dl/?f=tv_france'
     name 'TV France'
     homepage 'http://www.dafont.com/tv-france.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tv France.ttf'
 end

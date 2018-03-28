@@ -5,7 +5,6 @@ cask 'dafont-unltd' do
     url 'http://dl.dafont.com/dl/?f=unltd'
     name 'UNLtd'
     homepage 'http://www.dafont.com/unltd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'unlimited_outdoors.ttf'
 end

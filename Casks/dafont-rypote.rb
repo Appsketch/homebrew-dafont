@@ -5,7 +5,6 @@ cask 'dafont-rypote' do
     url 'http://dl.dafont.com/dl/?f=rypote'
     name 'Rypote'
     homepage 'http://www.dafont.com/rypote.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rypote.ttf'
 end

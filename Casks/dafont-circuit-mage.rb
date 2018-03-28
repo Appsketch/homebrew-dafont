@@ -5,7 +5,6 @@ cask 'dafont-circuit-mage' do
     url 'http://dl.dafont.com/dl/?f=circuit_mage'
     name 'Circuit Mage'
     homepage 'http://www.dafont.com/circuit-mage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Circuit Mage.ttf'
 end

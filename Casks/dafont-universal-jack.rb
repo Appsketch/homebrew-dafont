@@ -5,7 +5,6 @@ cask 'dafont-universal-jack' do
     url 'http://dl.dafont.com/dl/?f=universal_jack'
     name 'Universal Jack'
     homepage 'http://www.dafont.com/universal-jack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'universaljack.ttf'
     font 'universaljack3d.ttf'

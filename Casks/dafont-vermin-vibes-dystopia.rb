@@ -5,7 +5,6 @@ cask 'dafont-vermin-vibes-dystopia' do
     url 'http://dl.dafont.com/dl/?f=vermin_vibes_dystopia'
     name 'Vermin Vibes Dystopia'
     homepage 'http://www.dafont.com/vermin-vibes-dystopia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vermin_vibes_dystopia.ttf'
 end

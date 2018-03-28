@@ -5,7 +5,6 @@ cask 'dafont-greatersales' do
     url 'http://dl.dafont.com/dl/?f=greatersales'
     name 'Greater Sales'
     homepage 'http://www.dafont.com/greatersales.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreaterSales.ttf'
 end

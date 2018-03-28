@@ -5,7 +5,6 @@ cask 'dafont-bottle-depot' do
     url 'http://dl.dafont.com/dl/?f=bottle_depot'
     name 'Bottle Depot'
     homepage 'http://www.dafont.com/bottle-depot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BottleDepot.ttf'
 end

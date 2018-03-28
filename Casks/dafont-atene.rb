@@ -5,7 +5,6 @@ cask 'dafont-atene' do
     url 'http://dl.dafont.com/dl/?f=atene'
     name 'Atene'
     homepage 'http://www.dafont.com/atene.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ATEB.TTF'
     font 'ATEBI.TTF'

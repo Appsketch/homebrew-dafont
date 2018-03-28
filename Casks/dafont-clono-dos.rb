@@ -5,7 +5,6 @@ cask 'dafont-clono-dos' do
     url 'http://dl.dafont.com/dl/?f=clono_dos'
     name 'Clono Dos'
     homepage 'http://www.dafont.com/clono-dos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clono dos.otf'
 end

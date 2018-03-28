@@ -5,7 +5,6 @@ cask 'dafont-moulded-saji' do
     url 'http://dl.dafont.com/dl/?f=moulded_saji'
     name 'Moulded Saji'
     homepage 'http://www.dafont.com/moulded-saji.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MouldedSaji.ttf'
 end

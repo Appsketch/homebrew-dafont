@@ -5,7 +5,6 @@ cask 'dafont-figginsbrute-trash' do
     url 'http://dl.dafont.com/dl/?f=figginsbrute_trash'
     name 'Figgins Brute Trash'
     homepage 'http://www.dafont.com/figginsbrute-trash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FigginsBrute Trash.ttf'
 end

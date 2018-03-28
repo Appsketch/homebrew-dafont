@@ -5,7 +5,6 @@ cask 'dafont-geobrijel' do
     url 'http://dl.dafont.com/dl/?f=geobrijel'
     name 'Geobrijel'
     homepage 'http://www.dafont.com/geobrijel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Geobrijel.ttf'
 end

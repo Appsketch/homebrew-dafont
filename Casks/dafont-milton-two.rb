@@ -5,7 +5,6 @@ cask 'dafont-milton-two' do
     url 'http://dl.dafont.com/dl/?f=milton_two'
     name 'Milton Two'
     homepage 'http://www.dafont.com/milton-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Milton_Two_Bold.otf'
     font 'Milton_Two.otf'

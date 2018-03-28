@@ -5,7 +5,6 @@ cask 'dafont-glow-carro-danish-spiik' do
     url 'http://dl.dafont.com/dl/?f=glow_carro_danish_spiik'
     name 'Glow Carro Danish Spiik'
     homepage 'http://www.dafont.com/glow-carro-danish-spiik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'glow-carro-danish-spiik.ttf'
 end

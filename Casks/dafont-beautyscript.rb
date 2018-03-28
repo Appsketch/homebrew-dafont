@@ -5,7 +5,6 @@ cask 'dafont-beautyscript' do
     url 'http://dl.dafont.com/dl/?f=beautyscript'
     name 'Beauty Script'
     homepage 'http://www.dafont.com/beautyscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeautyScript.ttf'
 end

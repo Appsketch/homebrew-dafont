@@ -5,7 +5,6 @@ cask 'dafont-nova-hearts' do
     url 'http://dl.dafont.com/dl/?f=nova_hearts'
     name 'Nova Hearts'
     homepage 'http://www.dafont.com/nova-hearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nova Hearts.otf'
 end

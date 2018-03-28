@@ -5,7 +5,6 @@ cask 'dafont-headline-hplhs' do
     url 'http://dl.dafont.com/dl/?f=headline_hplhs'
     name 'Headline'
     homepage 'http://www.dafont.com/headline-hplhs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HEADOH__.TTF'
     font 'HEADTH__.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-wabroye' do
     url 'http://dl.dafont.com/dl/?f=wabroye'
     name 'Wabroye'
     homepage 'http://www.dafont.com/wabroye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wabroye_014.otf'
 end

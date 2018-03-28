@@ -5,7 +5,6 @@ cask 'dafont-freeway-gothic' do
     url 'http://dl.dafont.com/dl/?f=freeway_gothic'
     name 'Freeway Gothic'
     homepage 'http://www.dafont.com/freeway-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'freewaygothic.ttf'
 end

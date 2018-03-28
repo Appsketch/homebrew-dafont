@@ -5,7 +5,6 @@ cask 'dafont-jadefedga-08' do
     url 'http://dl.dafont.com/dl/?f=jadefedga_08'
     name 'Jadefedga'
     homepage 'http://www.dafont.com/jadefedga-08.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jadefedga[08].ttf'
     font 'Jadefedgah[80].ttf'

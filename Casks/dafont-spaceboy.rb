@@ -5,7 +5,6 @@ cask 'dafont-spaceboy' do
     url 'http://dl.dafont.com/dl/?f=spaceboy'
     name 'Spaceboy'
     homepage 'http://www.dafont.com/spaceboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPACEBOY.TTF'
 end

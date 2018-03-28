@@ -5,7 +5,6 @@ cask 'dafont-ghotic-sketch' do
     url 'http://dl.dafont.com/dl/?f=ghotic_sketch'
     name 'Ghotic Sketch'
     homepage 'http://www.dafont.com/ghotic-sketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ghotic Sketch.ttf'
 end

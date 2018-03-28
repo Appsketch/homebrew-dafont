@@ -5,7 +5,6 @@ cask 'dafont-graphic-attitude' do
     url 'http://dl.dafont.com/dl/?f=graphic_attitude'
     name 'Graphic Attitude'
     homepage 'http://www.dafont.com/graphic-attitude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRAPAM__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-deadline' do
     url 'http://dl.dafont.com/dl/?f=deadline'
     name 'Deadline'
     homepage 'http://www.dafont.com/deadline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEADLINE.TTF'
 end

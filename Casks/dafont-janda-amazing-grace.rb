@@ -5,7 +5,6 @@ cask 'dafont-janda-amazing-grace' do
     url 'http://dl.dafont.com/dl/?f=janda_amazing_grace'
     name 'Janda Amazing Grace'
     homepage 'http://www.dafont.com/janda-amazing-grace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaAmazingGrace.ttf'
 end

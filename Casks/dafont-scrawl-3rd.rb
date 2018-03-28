@@ -5,7 +5,6 @@ cask 'dafont-scrawl-3rd' do
     url 'http://dl.dafont.com/dl/?f=scrawl_3rd'
     name 'Scrawl 3rd'
     homepage 'http://www.dafont.com/scrawl-3rd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scrawl_3rd.otf'
 end

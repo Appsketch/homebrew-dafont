@@ -5,7 +5,6 @@ cask 'dafont-bit1' do
     url 'http://dl.dafont.com/dl/?f=bit1'
     name 'Bit 1'
     homepage 'http://www.dafont.com/bit1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bit1.fon'
 end

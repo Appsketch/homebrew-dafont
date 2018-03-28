@@ -5,7 +5,6 @@ cask 'dafont-cyclo' do
     url 'http://dl.dafont.com/dl/?f=cyclo'
     name 'Cyclo'
     homepage 'http://www.dafont.com/cyclo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cyclo_Trial.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mf-break-the-rules' do
     url 'http://dl.dafont.com/dl/?f=mf_break_the_rules'
     name 'Mf Break The Rules'
     homepage 'http://www.dafont.com/mf-break-the-rules.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Break The Rules.ttf'
 end

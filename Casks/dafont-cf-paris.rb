@@ -5,7 +5,6 @@ cask 'dafont-cf-paris' do
     url 'http://dl.dafont.com/dl/?f=cf_paris'
     name 'CF Paris'
     homepage 'http://www.dafont.com/cf-paris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFParis-Regular.ttf'
 end

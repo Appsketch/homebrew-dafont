@@ -5,7 +5,6 @@ cask 'dafont-not-just-groovy' do
     url 'http://dl.dafont.com/dl/?f=not_just_groovy'
     name 'Not Just Groovy'
     homepage 'http://www.dafont.com/not-just-groovy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Not Just Groovy.ttf'
 end

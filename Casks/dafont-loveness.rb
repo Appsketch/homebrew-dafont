@@ -5,7 +5,6 @@ cask 'dafont-loveness' do
     url 'http://dl.dafont.com/dl/?f=loveness'
     name 'LoveNess'
     homepage 'http://www.dafont.com/loveness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'loveness.ttf'
 end

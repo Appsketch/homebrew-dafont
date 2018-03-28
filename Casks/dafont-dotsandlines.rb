@@ -5,7 +5,6 @@ cask 'dafont-dotsandlines' do
     url 'http://dl.dafont.com/dl/?f=dotsandlines'
     name 'Dots and Lines'
     homepage 'http://www.dafont.com/dotsandlines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dots and Lines.ttf'
 end

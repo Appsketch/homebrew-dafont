@@ -5,7 +5,6 @@ cask 'dafont-21-gun-salute' do
     url 'http://dl.dafont.com/dl/?f=21_gun_salute'
     name '21 Gun Salute'
     homepage 'http://www.dafont.com/21-gun-salute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '21gunsalute.ttf'
     font '21gunsalute3d.ttf'

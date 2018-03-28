@@ -5,7 +5,6 @@ cask 'dafont-monster-shadow' do
     url 'http://dl.dafont.com/dl/?f=monster_shadow'
     name 'Monster'
     homepage 'http://www.dafont.com/monster-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monster shadow/monster shadow.ttf'
     font 'monster/monster.ttf'

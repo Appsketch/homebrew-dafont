@@ -5,7 +5,6 @@ cask 'dafont-kr-bite-me' do
     url 'http://dl.dafont.com/dl/?f=kr_bite_me'
     name 'KR Bite Me'
     homepage 'http://www.dafont.com/kr-bite-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Bite Me.ttf'
 end

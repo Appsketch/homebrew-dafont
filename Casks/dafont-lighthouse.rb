@@ -5,7 +5,6 @@ cask 'dafont-lighthouse' do
     url 'http://dl.dafont.com/dl/?f=lighthouse'
     name 'Light house'
     homepage 'http://www.dafont.com/lighthouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lighthouse.ttf'
 end

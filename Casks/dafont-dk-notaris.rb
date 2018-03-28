@@ -5,7 +5,6 @@ cask 'dafont-dk-notaris' do
     url 'http://dl.dafont.com/dl/?f=dk_notaris'
     name 'DK Notaris'
     homepage 'http://www.dafont.com/dk-notaris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Notaris.otf'
 end

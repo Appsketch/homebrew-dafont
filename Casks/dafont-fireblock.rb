@@ -5,7 +5,6 @@ cask 'dafont-fireblock' do
     url 'http://dl.dafont.com/dl/?f=fireblock'
     name 'Fire Block'
     homepage 'http://www.dafont.com/fireblock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FireBlock.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bd-cartoon-shout' do
     url 'http://dl.dafont.com/dl/?f=bd_cartoon_shout'
     name 'BD Cartoon Shout'
     homepage 'http://www.dafont.com/bd-cartoon-shout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BD_Cartoon_Shout.ttf'
 end

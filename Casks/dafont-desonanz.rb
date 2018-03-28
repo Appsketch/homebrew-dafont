@@ -5,7 +5,6 @@ cask 'dafont-desonanz' do
     url 'http://dl.dafont.com/dl/?f=desonanz'
     name 'Desonanz'
     homepage 'http://www.dafont.com/desonanz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'desonanz.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vanthian-ragnarok' do
     url 'http://dl.dafont.com/dl/?f=vanthian_ragnarok'
     name 'Vanthian Ragnarok'
     homepage 'http://www.dafont.com/vanthian-ragnarok.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vanthian Ragnarok.ttf'
 end

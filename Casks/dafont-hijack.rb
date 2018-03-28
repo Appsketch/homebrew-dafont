@@ -5,7 +5,6 @@ cask 'dafont-hijack' do
     url 'http://dl.dafont.com/dl/?f=hijack'
     name 'Hijack'
     homepage 'http://www.dafont.com/hijack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hijack.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-say-no-to-drugs' do
     url 'http://dl.dafont.com/dl/?f=say_no_to_drugs'
     name 'Say No To Drugs'
     homepage 'http://www.dafont.com/say-no-to-drugs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Say No To Drugs.ttf'
 end

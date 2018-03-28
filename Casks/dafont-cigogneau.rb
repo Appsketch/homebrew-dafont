@@ -5,7 +5,6 @@ cask 'dafont-cigogneau' do
     url 'http://dl.dafont.com/dl/?f=cigogneau'
     name 'Cigogneau'
     homepage 'http://www.dafont.com/cigogneau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cigogneau-typo-en-en.ttf'
 end

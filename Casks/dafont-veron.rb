@@ -5,7 +5,6 @@ cask 'dafont-veron' do
     url 'http://dl.dafont.com/dl/?f=veron'
     name 'Veron'
     homepage 'http://www.dafont.com/veron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Veron Bold.otf'
     font 'Veron Extra.ttf'

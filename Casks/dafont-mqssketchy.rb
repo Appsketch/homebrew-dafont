@@ -5,7 +5,6 @@ cask 'dafont-mqssketchy' do
     url 'http://dl.dafont.com/dl/?f=mqssketchy'
     name 'MQS Sketchy'
     homepage 'http://www.dafont.com/mqssketchy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MQSSketchy.ttf'
 end

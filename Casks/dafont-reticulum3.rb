@@ -5,7 +5,6 @@ cask 'dafont-reticulum3' do
     url 'http://dl.dafont.com/dl/?f=reticulum3'
     name 'Reticulum 3'
     homepage 'http://www.dafont.com/reticulum3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reticulum 3.ttf'
 end

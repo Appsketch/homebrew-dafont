@@ -5,7 +5,6 @@ cask 'dafont-vulcan-script' do
     url 'http://dl.dafont.com/dl/?f=vulcan_script'
     name 'Vulcan Script'
     homepage 'http://www.dafont.com/vulcan-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vulcan Script.ttf'
 end

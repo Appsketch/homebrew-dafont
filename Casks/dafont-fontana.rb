@@ -5,7 +5,6 @@ cask 'dafont-fontana' do
     url 'http://dl.dafont.com/dl/?f=fontana'
     name 'Fontana'
     homepage 'http://www.dafont.com/fontana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fontana Bold Italic.otf'
     font 'Fontana Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-sl-woodcut-faeries' do
     url 'http://dl.dafont.com/dl/?f=sl_woodcut_faeries'
     name 'SL Woodcut Faeries'
     homepage 'http://www.dafont.com/sl-woodcut-faeries.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SL Woodcut Faeries.ttf'
 end

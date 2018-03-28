@@ -5,7 +5,6 @@ cask 'dafont-dk-meshuggeneh' do
     url 'http://dl.dafont.com/dl/?f=dk_meshuggeneh'
     name 'DK Meshuggeneh'
     homepage 'http://www.dafont.com/dk-meshuggeneh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Meshuggeneh.otf'
 end

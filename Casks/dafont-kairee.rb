@@ -5,7 +5,6 @@ cask 'dafont-kairee' do
     url 'http://dl.dafont.com/dl/?f=kairee'
     name 'Kairee'
     homepage 'http://www.dafont.com/kairee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KAIREE.TTF'
 end

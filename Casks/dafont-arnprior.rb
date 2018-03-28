@@ -5,7 +5,6 @@ cask 'dafont-arnprior' do
     url 'http://dl.dafont.com/dl/?f=arnprior'
     name 'Arnprior'
     homepage 'http://www.dafont.com/arnprior.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'arnprior.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-syouwa-retro-pop-g' do
     url 'http://dl.dafont.com/dl/?f=syouwa_retro_pop_g'
     name 'Syouwa Retro Pop G'
     homepage 'http://www.dafont.com/syouwa-retro-pop-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_syouwa_retro_pop.ttf'
 end

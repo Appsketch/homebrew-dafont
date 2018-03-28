@@ -5,7 +5,6 @@ cask 'dafont-last-breath' do
     url 'http://dl.dafont.com/dl/?f=last_breath'
     name 'Last Breath'
     homepage 'http://www.dafont.com/last-breath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Last Breath.ttf'
 end

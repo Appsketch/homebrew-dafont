@@ -5,7 +5,6 @@ cask 'dafont-dk-dortmunder-ecke' do
     url 'http://dl.dafont.com/dl/?f=dk_dortmunder_ecke'
     name 'DK Dortmunder Ecke'
     homepage 'http://www.dafont.com/dk-dortmunder-ecke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Dortmunder Ecke.otf'
 end

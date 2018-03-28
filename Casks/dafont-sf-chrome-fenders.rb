@@ -5,7 +5,6 @@ cask 'dafont-sf-chrome-fenders' do
     url 'http://dl.dafont.com/dl/?f=sf_chrome_fenders'
     name 'SF Chrome Fenders'
     homepage 'http://www.dafont.com/sf-chrome-fenders.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Chrome Fenders Bold Oblique.ttf'
     font 'SF Chrome Fenders Bold.ttf'

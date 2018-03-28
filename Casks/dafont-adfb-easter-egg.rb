@@ -5,7 +5,6 @@ cask 'dafont-adfb-easter-egg' do
     url 'http://dl.dafont.com/dl/?f=adfb_easter_egg'
     name 'ADFB Easter Egg'
     homepage 'http://www.dafont.com/adfb-easter-egg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ADFBEasterEgg.ttf'
 end

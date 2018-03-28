@@ -5,7 +5,6 @@ cask 'dafont-golgotha' do
     url 'http://dl.dafont.com/dl/?f=golgotha'
     name 'Golgotha'
     homepage 'http://www.dafont.com/golgotha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GOLGOE__.TTF'
     font 'GOLGRGE_.TTF'

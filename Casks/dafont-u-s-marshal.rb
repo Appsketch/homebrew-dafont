@@ -5,7 +5,6 @@ cask 'dafont-u-s-marshal' do
     url 'http://dl.dafont.com/dl/?f=u_s_marshal'
     name 'U.S. Marshal'
     homepage 'http://www.dafont.com/u-s-marshal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'usmarshal.ttf'
     font 'usmarshal3d.ttf'

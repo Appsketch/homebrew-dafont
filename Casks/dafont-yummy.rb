@@ -5,7 +5,6 @@ cask 'dafont-yummy' do
     url 'http://dl.dafont.com/dl/?f=yummy'
     name 'Yummy!'
     homepage 'http://www.dafont.com/yummy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yummy.ttf'
 end

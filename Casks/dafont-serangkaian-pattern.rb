@@ -5,7 +5,6 @@ cask 'dafont-serangkaian-pattern' do
     url 'http://dl.dafont.com/dl/?f=serangkaian_pattern'
     name 'Serangkaian Pattern'
     homepage 'http://www.dafont.com/serangkaian-pattern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'serangkaianpattern.ttf'
 end

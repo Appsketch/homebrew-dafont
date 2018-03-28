@@ -5,7 +5,6 @@ cask 'dafont-the-fozderien' do
     url 'http://dl.dafont.com/dl/?f=the_fozderien'
     name 'The Fozderien'
     homepage 'http://www.dafont.com/the-fozderien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The-Fozderien.ttf'
 end

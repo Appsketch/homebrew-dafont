@@ -5,7 +5,6 @@ cask 'dafont-scifi-adventure' do
     url 'http://dl.dafont.com/dl/?f=scifi_adventure'
     name 'Scifi Adventure'
     homepage 'http://www.dafont.com/scifi-adventure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scifi Adventure.otf'
 end

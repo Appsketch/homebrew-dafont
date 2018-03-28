@@ -5,7 +5,6 @@ cask 'dafont-znikomit' do
     url 'http://dl.dafont.com/dl/?f=znikomit'
     name 'Znikomit'
     homepage 'http://www.dafont.com/znikomit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Znikomit.otf'
     font 'ZnikomitSC.otf'

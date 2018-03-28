@@ -5,7 +5,6 @@ cask 'dafont-hurricane-supadupas' do
     url 'http://dl.dafont.com/dl/?f=hurricane_supadupas'
     name 'Hurricane SupaDupaSerif'
     homepage 'http://www.dafont.com/hurricane-supadupas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hurricaneSDS.ttf'
 end

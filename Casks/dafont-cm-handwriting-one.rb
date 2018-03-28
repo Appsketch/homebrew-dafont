@@ -5,7 +5,6 @@ cask 'dafont-cm-handwriting-one' do
     url 'http://dl.dafont.com/dl/?f=cm_handwriting_one'
     name 'CM Handwriting One'
     homepage 'http://www.dafont.com/cm-handwriting-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM Handwriting One-Regular.ttf'
     font 'CMHanOneSupCon.ttf'

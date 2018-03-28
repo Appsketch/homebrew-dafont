@@ -5,7 +5,6 @@ cask 'dafont-paschitnow-sans' do
     url 'http://dl.dafont.com/dl/?f=paschitnow_sans'
     name 'Paschitnow Sans'
     homepage 'http://www.dafont.com/paschitnow-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paschitnow_Sans.ttf'
 end

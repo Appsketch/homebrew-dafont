@@ -5,7 +5,6 @@ cask 'dafont-cm-fresh-paint' do
     url 'http://dl.dafont.com/dl/?f=cm_fresh_paint'
     name 'CM Fresh Paint'
     homepage 'http://www.dafont.com/cm-fresh-paint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM Fresh Paint.ttf'
 end

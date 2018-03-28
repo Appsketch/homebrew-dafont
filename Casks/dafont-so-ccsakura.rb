@@ -5,7 +5,6 @@ cask 'dafont-so-ccsakura' do
     url 'http://dl.dafont.com/dl/?f=so_ccsakura'
     name 'SO CC-Sakura'
     homepage 'http://www.dafont.com/so-ccsakura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'so-ccsakura.ttf'
 end

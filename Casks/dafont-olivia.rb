@@ -5,7 +5,6 @@ cask 'dafont-olivia' do
     url 'http://dl.dafont.com/dl/?f=olivia'
     name 'Olivia'
     homepage 'http://www.dafont.com/olivia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Olivia.ttf'
 end

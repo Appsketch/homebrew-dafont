@@ -5,7 +5,6 @@ cask 'dafont-velocity' do
     url 'http://dl.dafont.com/dl/?f=velocity'
     name 'Velocity'
     homepage 'http://www.dafont.com/velocity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'velocity-font.ttf'
 end

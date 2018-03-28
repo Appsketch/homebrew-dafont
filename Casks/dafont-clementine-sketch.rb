@@ -5,7 +5,6 @@ cask 'dafont-clementine-sketch' do
     url 'http://dl.dafont.com/dl/?f=clementine_sketch'
     name 'Clementine Sketch'
     homepage 'http://www.dafont.com/clementine-sketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'clementine sketch.ttf'
 end

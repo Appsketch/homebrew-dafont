@@ -5,7 +5,6 @@ cask 'dafont-zoxoz' do
     url 'http://dl.dafont.com/dl/?f=zoxoz'
     name 'Zoxoz'
     homepage 'http://www.dafont.com/zoxoz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zoxoz.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mighty-gizmo' do
     url 'http://dl.dafont.com/dl/?f=mighty_gizmo'
     name 'Mighty Gizmo'
     homepage 'http://www.dafont.com/mighty-gizmo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mighty_Gizmo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-seismacrap' do
     url 'http://dl.dafont.com/dl/?f=seismacrap'
     name 'Seismacrap'
     homepage 'http://www.dafont.com/seismacrap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seismacrap.ttf'
 end

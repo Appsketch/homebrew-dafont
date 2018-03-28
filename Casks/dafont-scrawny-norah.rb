@@ -5,7 +5,6 @@ cask 'dafont-scrawny-norah' do
     url 'http://dl.dafont.com/dl/?f=scrawny_norah'
     name 'Scrawny Norah'
     homepage 'http://www.dafont.com/scrawny-norah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ScrawnyNorah.otf'
 end

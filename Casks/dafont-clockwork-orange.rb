@@ -5,7 +5,6 @@ cask 'dafont-clockwork-orange' do
     url 'http://dl.dafont.com/dl/?f=clockwork_orange'
     name 'Clockwork Orange'
     homepage 'http://www.dafont.com/clockwork-orange.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clockwork Orange.ttf'
 end

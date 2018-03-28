@@ -5,7 +5,6 @@ cask 'dafont-sf-espionage' do
     url 'http://dl.dafont.com/dl/?f=sf_espionage'
     name 'SF Espionage'
     homepage 'http://www.dafont.com/sf-espionage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Espionage Heavy Oblique.ttf'
     font 'SF Espionage Heavy.ttf'

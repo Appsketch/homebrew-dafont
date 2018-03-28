@@ -5,7 +5,6 @@ cask 'dafont-voodoo-eye' do
     url 'http://dl.dafont.com/dl/?f=voodoo_eye'
     name 'Voodoo Eye'
     homepage 'http://www.dafont.com/voodoo-eye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VoodooEyeTitle-UltraLight.ttf'
 end

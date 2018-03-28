@@ -5,7 +5,6 @@ cask 'dafont-mighty-tomato' do
     url 'http://dl.dafont.com/dl/?f=mighty_tomato'
     name 'Mighty Tomato'
     homepage 'http://www.dafont.com/mighty-tomato.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mighty Tomato.ttf'
 end

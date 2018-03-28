@@ -5,7 +5,6 @@ cask 'dafont-modern-typewriter' do
     url 'http://dl.dafont.com/dl/?f=modern_typewriter'
     name 'Modern Typewriter'
     homepage 'http://www.dafont.com/modern-typewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MODERN TYPEWRITER.ttf'
 end

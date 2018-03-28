@@ -5,7 +5,6 @@ cask 'dafont-argor-man-scaqh' do
     url 'http://dl.dafont.com/dl/?f=argor_man_scaqh'
     name 'Argor Man Scaqh'
     homepage 'http://www.dafont.com/argor-man-scaqh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Argmansc.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-emissary' do
     url 'http://dl.dafont.com/dl/?f=emissary'
     name 'Emissary'
     homepage 'http://www.dafont.com/emissary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'emissary.ttf'
     font 'emissary3d.ttf'

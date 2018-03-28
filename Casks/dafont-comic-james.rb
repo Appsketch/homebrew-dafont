@@ -5,7 +5,6 @@ cask 'dafont-comic-james' do
     url 'http://dl.dafont.com/dl/?f=comic_james'
     name 'Comic James'
     homepage 'http://www.dafont.com/comic-james.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comic James.ttf'
 end

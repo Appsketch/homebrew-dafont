@@ -5,7 +5,6 @@ cask 'dafont-sister-europe' do
     url 'http://dl.dafont.com/dl/?f=sister_europe'
     name 'Sister Europe'
     homepage 'http://www.dafont.com/sister-europe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sisterv2.ttf'
     font 'Sisterv2i.ttf'

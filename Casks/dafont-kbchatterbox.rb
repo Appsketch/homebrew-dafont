@@ -5,7 +5,6 @@ cask 'dafont-kbchatterbox' do
     url 'http://dl.dafont.com/dl/?f=kbchatterbox'
     name 'KB Chatter Box'
     homepage 'http://www.dafont.com/kbchatterbox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBChatterBox.ttf'
 end

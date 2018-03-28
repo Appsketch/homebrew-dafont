@@ -5,7 +5,6 @@ cask 'dafont-maharani' do
     url 'http://dl.dafont.com/dl/?f=maharani'
     name 'Maharani'
     homepage 'http://www.dafont.com/maharani.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maharani.otf'
 end

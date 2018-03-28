@@ -5,7 +5,6 @@ cask 'dafont-this-font-is-stressed' do
     url 'http://dl.dafont.com/dl/?f=this_font_is_stressed'
     name 'This Font is Stressed'
     homepage 'http://www.dafont.com/this-font-is-stressed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'This Font is Stressed.ttf'
 end

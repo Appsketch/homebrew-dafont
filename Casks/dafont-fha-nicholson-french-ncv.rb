@@ -5,7 +5,6 @@ cask 'dafont-fha-nicholson-french-ncv' do
     url 'http://dl.dafont.com/dl/?f=fha_nicholson_french_ncv'
     name 'FHA Nicholson French NCV'
     homepage 'http://www.dafont.com/fha-nicholson-french-ncv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FHA Nicholson French NCV.ttf'
 end

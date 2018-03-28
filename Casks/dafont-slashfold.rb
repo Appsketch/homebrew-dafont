@@ -5,7 +5,6 @@ cask 'dafont-slashfold' do
     url 'http://dl.dafont.com/dl/?f=slashfold'
     name 'Slashfold'
     homepage 'http://www.dafont.com/slashfold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slashfold.ttf'
 end

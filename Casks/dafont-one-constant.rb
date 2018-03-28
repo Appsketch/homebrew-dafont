@@ -5,7 +5,6 @@ cask 'dafont-one-constant' do
     url 'http://dl.dafont.com/dl/?f=one_constant'
     name 'One Constant'
     homepage 'http://www.dafont.com/one-constant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'One Constant.ttf'
 end

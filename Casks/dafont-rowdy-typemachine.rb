@@ -5,7 +5,6 @@ cask 'dafont-rowdy-typemachine' do
     url 'http://dl.dafont.com/dl/?f=rowdy_typemachine'
     name 'Rowdy Typemachine'
     homepage 'http://www.dafont.com/rowdy-typemachine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rowdy Typemachine 1 - Regular.otf'
     font 'Rowdy Typemachine 2 - Italic.otf'

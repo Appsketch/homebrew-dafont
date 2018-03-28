@@ -5,7 +5,6 @@ cask 'dafont-hard-dumb' do
     url 'http://dl.dafont.com/dl/?f=hard_dumb'
     name 'Hard Dumb'
     homepage 'http://www.dafont.com/hard-dumb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hard Dumb.ttf'
 end

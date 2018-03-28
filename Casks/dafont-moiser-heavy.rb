@@ -5,7 +5,6 @@ cask 'dafont-moiser-heavy' do
     url 'http://dl.dafont.com/dl/?f=moiser_heavy'
     name 'Moiser Heavy'
     homepage 'http://www.dafont.com/moiser-heavy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typo moiser heavy free promo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rawhide-raw-2012' do
     url 'http://dl.dafont.com/dl/?f=rawhide_raw_2012'
     name 'Rawhide Raw 2012'
     homepage 'http://www.dafont.com/rawhide-raw-2012.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rawhide_raw_2012.ttf'
 end

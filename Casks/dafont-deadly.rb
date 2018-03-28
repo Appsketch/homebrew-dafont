@@ -5,7 +5,6 @@ cask 'dafont-deadly' do
     url 'http://dl.dafont.com/dl/?f=deadly'
     name 'Deadly'
     homepage 'http://www.dafont.com/deadly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deadly typeface.ttf'
 end

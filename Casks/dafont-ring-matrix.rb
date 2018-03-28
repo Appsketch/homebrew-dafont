@@ -5,7 +5,6 @@ cask 'dafont-ring-matrix' do
     url 'http://dl.dafont.com/dl/?f=ring_matrix'
     name 'Ring Matrix'
     homepage 'http://www.dafont.com/ring-matrix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RingMatrix.ttf'
     font 'RingMatrix3D.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-vasca-berria' do
     url 'http://dl.dafont.com/dl/?f=vasca_berria'
     name 'Vasca Berria'
     homepage 'http://www.dafont.com/vasca-berria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vascan.TTF'
 end

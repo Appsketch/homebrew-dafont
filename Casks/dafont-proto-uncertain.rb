@@ -5,7 +5,6 @@ cask 'dafont-proto-uncertain' do
     url 'http://dl.dafont.com/dl/?f=proto_uncertain'
     name 'Proto Uncertain'
     homepage 'http://www.dafont.com/proto-uncertain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Proto Uncertain.otf'
 end

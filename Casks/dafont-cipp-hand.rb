@@ -5,7 +5,6 @@ cask 'dafont-cipp-hand' do
     url 'http://dl.dafont.com/dl/?f=cipp_hand'
     name 'Cipp Hand'
     homepage 'http://www.dafont.com/cipp-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cipp Hand.ttf'
 end

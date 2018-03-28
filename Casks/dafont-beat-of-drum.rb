@@ -5,7 +5,6 @@ cask 'dafont-beat-of-drum' do
     url 'http://dl.dafont.com/dl/?f=beat_of_drum'
     name 'Beat of drum'
     homepage 'http://www.dafont.com/beat-of-drum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beat of drum.ttf'
 end

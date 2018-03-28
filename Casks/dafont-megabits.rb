@@ -5,7 +5,6 @@ cask 'dafont-megabits' do
     url 'http://dl.dafont.com/dl/?f=megabits'
     name 'Mega Bits'
     homepage 'http://www.dafont.com/megabits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MegaBits.ttf'
 end

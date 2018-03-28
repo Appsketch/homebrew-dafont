@@ -5,7 +5,6 @@ cask 'dafont-shark-in-the-water' do
     url 'http://dl.dafont.com/dl/?f=shark_in_the_water'
     name 'Shark in the Water '
     homepage 'http://www.dafont.com/shark-in-the-water.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SharkintheWater.ttf'
     font 'SharkintheWaterBold.ttf'

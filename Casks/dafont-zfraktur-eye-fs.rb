@@ -5,7 +5,6 @@ cask 'dafont-zfraktur-eye-fs' do
     url 'http://dl.dafont.com/dl/?f=zfraktur_eye_fs'
     name 'Zfraktur Eye/fs'
     homepage 'http://www.dafont.com/zfraktur-eye-fs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zfraktur-eYe-FS.ttf'
 end

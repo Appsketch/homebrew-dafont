@@ -5,7 +5,6 @@ cask 'dafont-pwchainsfonts' do
     url 'http://dl.dafont.com/dl/?f=pwchainsfonts'
     name 'PW Chainsfonts'
     homepage 'http://www.dafont.com/pwchainsfonts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWChainsfonts.ttf'
 end

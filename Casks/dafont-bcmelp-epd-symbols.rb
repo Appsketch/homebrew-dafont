@@ -5,7 +5,6 @@ cask 'dafont-bcmelp-epd-symbols' do
     url 'http://dl.dafont.com/dl/?f=bcmelp_epd_symbols'
     name 'BCMELP EPD Symbols'
     homepage 'http://www.dafont.com/bcmelp-epd-symbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bceepd.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-giants' do
     url 'http://dl.dafont.com/dl/?f=giants'
     name 'Giants'
     homepage 'http://www.dafont.com/giants.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Giants.ttf'
 end

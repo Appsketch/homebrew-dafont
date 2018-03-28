@@ -5,7 +5,6 @@ cask 'dafont-born-a-sinner' do
     url 'http://dl.dafont.com/dl/?f=born_a_sinner'
     name 'Born a Sinner'
     homepage 'http://www.dafont.com/born-a-sinner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BornaSinner.ttf'
 end

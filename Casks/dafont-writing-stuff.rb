@@ -5,7 +5,6 @@ cask 'dafont-writing-stuff' do
     url 'http://dl.dafont.com/dl/?f=writing_stuff'
     name 'Writing Stuff'
     homepage 'http://www.dafont.com/writing-stuff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Writing_Stuff.ttf'
 end

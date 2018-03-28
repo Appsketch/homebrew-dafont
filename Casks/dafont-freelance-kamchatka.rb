@@ -5,7 +5,6 @@ cask 'dafont-freelance-kamchatka' do
     url 'http://dl.dafont.com/dl/?f=freelance_kamchatka'
     name 'Freelance Kamchatka'
     homepage 'http://www.dafont.com/freelance-kamchatka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'free.ttf'
 end

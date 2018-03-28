@@ -5,7 +5,6 @@ cask 'dafont-fleurs-de-liane' do
     url 'http://dl.dafont.com/dl/?f=fleurs_de_liane'
     name 'Fleurs de Liane'
     homepage 'http://www.dafont.com/fleurs-de-liane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fleurs de Liane.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-crixus' do
     url 'http://dl.dafont.com/dl/?f=crixus'
     name 'Crixus '
     homepage 'http://www.dafont.com/crixus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crixus.ttf'
     font 'crixus3d.ttf'

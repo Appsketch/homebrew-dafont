@@ -5,7 +5,6 @@ cask 'dafont-continue' do
     url 'http://dl.dafont.com/dl/?f=continue'
     name 'Continue'
     homepage 'http://www.dafont.com/continue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Continue.ttf'
 end

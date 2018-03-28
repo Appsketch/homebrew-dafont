@@ -5,7 +5,6 @@ cask 'dafont-diesel-rudolf' do
     url 'http://dl.dafont.com/dl/?f=diesel_rudolf'
     name 'Diesel Rudolf'
     homepage 'http://www.dafont.com/diesel-rudolf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diesel-Rudolf_reduced.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-my-funeral' do
     url 'http://dl.dafont.com/dl/?f=my_funeral'
     name 'My Funeral'
     homepage 'http://www.dafont.com/my-funeral.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MyFuneral-Regular.ttf'
 end

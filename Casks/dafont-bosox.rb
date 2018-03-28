@@ -5,7 +5,6 @@ cask 'dafont-bosox' do
     url 'http://dl.dafont.com/dl/?f=bosox'
     name 'Bosox'
     homepage 'http://www.dafont.com/bosox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bosox Full.ttf'
     font 'Bosox Outline Heavy.ttf'

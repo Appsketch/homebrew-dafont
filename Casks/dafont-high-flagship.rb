@@ -5,7 +5,6 @@ cask 'dafont-high-flagship' do
     url 'http://dl.dafont.com/dl/?f=high_flagship'
     name 'High Flagship'
     homepage 'http://www.dafont.com/high-flagship.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'High Flagship.ttf'
 end

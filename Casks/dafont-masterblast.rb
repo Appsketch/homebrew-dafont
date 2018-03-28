@@ -5,7 +5,6 @@ cask 'dafont-masterblast' do
     url 'http://dl.dafont.com/dl/?f=masterblast'
     name 'Masterblast'
     homepage 'http://www.dafont.com/masterblast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Masterblast.otf'
 end

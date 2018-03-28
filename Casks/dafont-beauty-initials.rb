@@ -5,7 +5,6 @@ cask 'dafont-beauty-initials' do
     url 'http://dl.dafont.com/dl/?f=beauty_initials'
     name 'Beauty Initials'
     homepage 'http://www.dafont.com/beauty-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beauty Initials.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-little-ryan' do
     url 'http://dl.dafont.com/dl/?f=little_ryan'
     name 'Little Ryan'
     homepage 'http://www.dafont.com/little-ryan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'littleryan olucky.ttf'
     font 'littleryan.ttf'

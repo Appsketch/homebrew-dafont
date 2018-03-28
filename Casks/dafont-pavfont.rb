@@ -5,7 +5,6 @@ cask 'dafont-pavfont' do
     url 'http://dl.dafont.com/dl/?f=pavfont'
     name 'Pavfont'
     homepage 'http://www.dafont.com/pavfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pavfont.ttf'
 end

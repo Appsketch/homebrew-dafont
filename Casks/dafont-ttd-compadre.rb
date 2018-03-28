@@ -5,7 +5,6 @@ cask 'dafont-ttd-compadre' do
     url 'http://dl.dafont.com/dl/?f=ttd_compadre'
     name 'TTD Compadre'
     homepage 'http://www.dafont.com/ttd-compadre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TTD Compadre-Regular.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-5ceta-mono' do
     url 'http://dl.dafont.com/dl/?f=5ceta_mono'
     name '5 Ceta Mono'
     homepage 'http://www.dafont.com/5ceta-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5ceta_mono.ttf'
 end

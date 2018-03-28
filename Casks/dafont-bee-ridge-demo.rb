@@ -5,7 +5,6 @@ cask 'dafont-bee-ridge-demo' do
     url 'http://dl.dafont.com/dl/?f=bee_ridge_demo'
     name 'Bee Ridge'
     homepage 'http://www.dafont.com/bee-ridge-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeeRidgeDemo.ttf'
 end

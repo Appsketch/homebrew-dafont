@@ -5,7 +5,6 @@ cask 'dafont-vtks-mockup' do
     url 'http://dl.dafont.com/dl/?f=vtks_mockup'
     name 'Vtks MockUp'
     homepage 'http://www.dafont.com/vtks-mockup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MockUp.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bysamantha-print' do
     url 'http://dl.dafont.com/dl/?f=bysamantha_print'
     name 'By Samantha Print'
     homepage 'http://www.dafont.com/bysamantha-print.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BySamantha_Print.ttf'
 end

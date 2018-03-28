@@ -5,7 +5,6 @@ cask 'dafont-dk-saffron-walden' do
     url 'http://dl.dafont.com/dl/?f=dk_saffron_walden'
     name 'DK Saffron Walden'
     homepage 'http://www.dafont.com/dk-saffron-walden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Saffron Walden.otf'
 end

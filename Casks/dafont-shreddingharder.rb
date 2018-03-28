@@ -5,7 +5,6 @@ cask 'dafont-shreddingharder' do
     url 'http://dl.dafont.com/dl/?f=shreddingharder'
     name 'Shredding Harder'
     homepage 'http://www.dafont.com/shreddingharder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShreddingHarder.ttf'
 end

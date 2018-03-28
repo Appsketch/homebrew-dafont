@@ -5,7 +5,6 @@ cask 'dafont-birdland-aeroplane' do
     url 'http://dl.dafont.com/dl/?f=birdland_aeroplane'
     name 'Birdland Aeroplane'
     homepage 'http://www.dafont.com/birdland-aeroplane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'birdland aeroplane bd.ttf'
     font 'birdland aeroplane.ttf'

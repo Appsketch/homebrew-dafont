@@ -5,7 +5,6 @@ cask 'dafont-tightcarve' do
     url 'http://dl.dafont.com/dl/?f=tightcarve'
     name 'Tight Carve'
     homepage 'http://www.dafont.com/tightcarve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TightCarve.ttf'
 end

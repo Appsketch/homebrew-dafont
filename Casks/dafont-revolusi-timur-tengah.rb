@@ -5,7 +5,6 @@ cask 'dafont-revolusi-timur-tengah' do
     url 'http://dl.dafont.com/dl/?f=revolusi_timur_tengah'
     name 'Revolusi Timur Tengah'
     homepage 'http://www.dafont.com/revolusi-timur-tengah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Revolusi Timur Tengah.ttf'
 end

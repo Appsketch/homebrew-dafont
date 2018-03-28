@@ -5,7 +5,6 @@ cask 'dafont-kawai-desu' do
     url 'http://dl.dafont.com/dl/?f=kawai_desu'
     name 'Kawai Desu'
     homepage 'http://www.dafont.com/kawai-desu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kawai desu - Dker.ttf'
 end

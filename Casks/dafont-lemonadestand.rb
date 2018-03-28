@@ -5,7 +5,6 @@ cask 'dafont-lemonadestand' do
     url 'http://dl.dafont.com/dl/?f=lemonadestand'
     name 'Lemonade Stand'
     homepage 'http://www.dafont.com/lemonadestand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LemonadeStand.ttf'
 end

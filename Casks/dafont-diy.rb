@@ -5,7 +5,6 @@ cask 'dafont-diy' do
     url 'http://dl.dafont.com/dl/?f=diy'
     name 'DIY'
     homepage 'http://www.dafont.com/diy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIY.ttf'
 end

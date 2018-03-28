@@ -5,7 +5,6 @@ cask 'dafont-pigopago' do
     url 'http://dl.dafont.com/dl/?f=pigopago'
     name 'Pigopago'
     homepage 'http://www.dafont.com/pigopago.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pigopago-Regular.otf'
 end

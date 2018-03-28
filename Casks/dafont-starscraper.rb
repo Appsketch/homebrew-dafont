@@ -5,7 +5,6 @@ cask 'dafont-starscraper' do
     url 'http://dl.dafont.com/dl/?f=starscraper'
     name 'Starscraper'
     homepage 'http://www.dafont.com/starscraper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'starscraper.ttf'
 end

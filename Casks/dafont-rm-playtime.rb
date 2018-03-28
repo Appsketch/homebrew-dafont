@@ -5,7 +5,6 @@ cask 'dafont-rm-playtime' do
     url 'http://dl.dafont.com/dl/?f=rm_playtime'
     name 'RM Playtime'
     homepage 'http://www.dafont.com/rm-playtime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rm_playtime_3d.ttf'
     font 'rm_playtime_bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-diamond-cut' do
     url 'http://dl.dafont.com/dl/?f=diamond_cut'
     name 'Diamond Cut'
     homepage 'http://www.dafont.com/diamond-cut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diamond Cut.ttf'
 end

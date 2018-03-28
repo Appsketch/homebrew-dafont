@@ -5,7 +5,6 @@ cask 'dafont-minikongo' do
     url 'http://dl.dafont.com/dl/?f=minikongo'
     name 'MiniKongo'
     homepage 'http://www.dafont.com/minikongo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiniKongo.ttf'
 end

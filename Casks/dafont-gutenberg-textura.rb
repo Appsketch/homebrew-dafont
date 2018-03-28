@@ -5,7 +5,6 @@ cask 'dafont-gutenberg-textura' do
     url 'http://dl.dafont.com/dl/?f=gutenberg_textura'
     name 'Gutenberg Textura'
     homepage 'http://www.dafont.com/gutenberg-textura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GutenbergTextura.ttf'
 end

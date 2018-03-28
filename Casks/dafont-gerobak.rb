@@ -5,7 +5,6 @@ cask 'dafont-gerobak' do
     url 'http://dl.dafont.com/dl/?f=gerobak'
     name 'Gerobak'
     homepage 'http://www.dafont.com/gerobak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gerobak.ttf'
 end

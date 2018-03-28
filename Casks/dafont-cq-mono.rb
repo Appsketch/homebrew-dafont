@@ -5,7 +5,6 @@ cask 'dafont-cq-mono' do
     url 'http://dl.dafont.com/dl/?f=cq_mono'
     name 'CQ Mono'
     homepage 'http://www.dafont.com/cq-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CQ Mono.otf'
 end

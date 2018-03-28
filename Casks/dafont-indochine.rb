@@ -5,7 +5,6 @@ cask 'dafont-indochine' do
     url 'http://dl.dafont.com/dl/?f=indochine'
     name 'Indochine'
     homepage 'http://www.dafont.com/indochine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INDOCHIN.TTF'
 end

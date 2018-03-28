@@ -5,7 +5,6 @@ cask 'dafont-bitsumishi' do
     url 'http://dl.dafont.com/dl/?f=bitsumishi'
     name 'Bitsumishi'
     homepage 'http://www.dafont.com/bitsumishi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BITSUMIS.TTF'
 end

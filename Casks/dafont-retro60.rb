@@ -5,7 +5,6 @@ cask 'dafont-retro60' do
     url 'http://dl.dafont.com/dl/?f=retro60'
     name 'Retro 60'
     homepage 'http://www.dafont.com/retro60.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Retro60Prime.ttf'
 end

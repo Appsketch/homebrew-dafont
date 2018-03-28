@@ -5,7 +5,6 @@ cask 'dafont-bubble1' do
     url 'http://dl.dafont.com/dl/?f=bubble1'
     name 'Bubble 1'
     homepage 'http://www.dafont.com/bubble1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GFSCUS1D.ttf'
 end

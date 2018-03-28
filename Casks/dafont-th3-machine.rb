@@ -5,7 +5,6 @@ cask 'dafont-th3-machine' do
     url 'http://dl.dafont.com/dl/?f=th3_machine'
     name 'TH3 Machine'
     homepage 'http://www.dafont.com/th3-machine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TH3 MACHINE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mousetrap' do
     url 'http://dl.dafont.com/dl/?f=mousetrap'
     name 'Mousetrap'
     homepage 'http://www.dafont.com/mousetrap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mousetrap.ttf'
 end

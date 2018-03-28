@@ -5,7 +5,6 @@ cask 'dafont-patinio-gothic' do
     url 'http://dl.dafont.com/dl/?f=patinio_gothic'
     name 'Patinio Gothic'
     homepage 'http://www.dafont.com/patinio-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Patinio Gothic Sample.ttf'
 end

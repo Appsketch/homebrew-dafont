@@ -5,7 +5,6 @@ cask 'dafont-baby-metal' do
     url 'http://dl.dafont.com/dl/?f=baby_metal'
     name 'Baby Metal'
     homepage 'http://www.dafont.com/baby-metal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baby Metal.ttf'
 end

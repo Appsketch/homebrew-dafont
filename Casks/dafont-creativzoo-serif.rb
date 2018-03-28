@@ -5,7 +5,6 @@ cask 'dafont-creativzoo-serif' do
     url 'http://dl.dafont.com/dl/?f=creativzoo_serif'
     name 'CreativZoo Serif '
     homepage 'http://www.dafont.com/creativzoo-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CreativZoo Serif v2.1.ttf'
 end

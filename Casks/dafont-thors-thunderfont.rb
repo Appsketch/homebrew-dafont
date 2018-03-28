@@ -5,7 +5,6 @@ cask 'dafont-thors-thunderfont' do
     url 'http://dl.dafont.com/dl/?f=thors_thunderfont'
     name 'Thor&#039;s Thunderfont'
     homepage 'http://www.dafont.com/thors-thunderfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thors thunderfont.ttf'
 end

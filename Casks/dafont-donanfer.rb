@@ -5,7 +5,6 @@ cask 'dafont-donanfer' do
     url 'http://dl.dafont.com/dl/?f=donanfer'
     name 'Donanfer'
     homepage 'http://www.dafont.com/donanfer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'don@nfer.ttf'
 end

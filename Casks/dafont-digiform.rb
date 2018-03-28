@@ -5,7 +5,6 @@ cask 'dafont-digiform' do
     url 'http://dl.dafont.com/dl/?f=digiform'
     name 'Digiform'
     homepage 'http://www.dafont.com/digiform.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digiform_demo.otf'
 end

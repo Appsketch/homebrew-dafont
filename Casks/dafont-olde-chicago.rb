@@ -5,7 +5,6 @@ cask 'dafont-olde-chicago' do
     url 'http://dl.dafont.com/dl/?f=olde_chicago'
     name 'Olde Chicago'
     homepage 'http://www.dafont.com/olde-chicago.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oldec___.ttf'
 end

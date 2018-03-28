@@ -5,7 +5,6 @@ cask 'dafont-close-to-me' do
     url 'http://dl.dafont.com/dl/?f=close_to_me'
     name 'Close to me'
     homepage 'http://www.dafont.com/close-to-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CLOSM___.TTF'
 end

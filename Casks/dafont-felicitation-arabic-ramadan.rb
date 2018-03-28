@@ -5,7 +5,6 @@ cask 'dafont-felicitation-arabic-ramadan' do
     url 'http://dl.dafont.com/dl/?f=felicitation_arabic_ramadan'
     name 'Felicitation Arabic Ramadan'
     homepage 'http://www.dafont.com/felicitation-arabic-ramadan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Felicitation Arabic_Ramadan.ttf'
 end

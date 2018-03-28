@@ -5,7 +5,6 @@ cask 'dafont-hacked' do
     url 'http://dl.dafont.com/dl/?f=hacked'
     name 'Hacked'
     homepage 'http://www.dafont.com/hacked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HACKED.ttf'
 end

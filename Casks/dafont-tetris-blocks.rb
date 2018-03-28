@@ -5,7 +5,6 @@ cask 'dafont-tetris-blocks' do
     url 'http://dl.dafont.com/dl/?f=tetris_blocks'
     name 'Tetris Blocks'
     homepage 'http://www.dafont.com/tetris-blocks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TETRIS.TTF'
 end

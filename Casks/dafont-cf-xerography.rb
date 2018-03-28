@@ -5,7 +5,6 @@ cask 'dafont-cf-xerography' do
     url 'http://dl.dafont.com/dl/?f=cf_xerography'
     name 'CF Xerography'
     homepage 'http://www.dafont.com/cf-xerography.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFXerographyDemo-Regular.ttf'
 end

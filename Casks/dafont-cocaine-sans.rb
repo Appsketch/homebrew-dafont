@@ -5,7 +5,6 @@ cask 'dafont-cocaine-sans' do
     url 'http://dl.dafont.com/dl/?f=cocaine_sans'
     name 'Cocaine Sans'
     homepage 'http://www.dafont.com/cocaine-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cocaine sans.ttf'
 end

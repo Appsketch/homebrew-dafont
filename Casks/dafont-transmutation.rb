@@ -5,7 +5,6 @@ cask 'dafont-transmutation' do
     url 'http://dl.dafont.com/dl/?f=transmutation'
     name 'TransMutation'
     homepage 'http://www.dafont.com/transmutation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'transMutation.ttf'
 end

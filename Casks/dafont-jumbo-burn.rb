@@ -5,7 +5,6 @@ cask 'dafont-jumbo-burn' do
     url 'http://dl.dafont.com/dl/?f=jumbo_burn'
     name 'Jumbo Burn'
     homepage 'http://www.dafont.com/jumbo-burn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JUMBO BURN A.ttf'
     font 'JUMBO BURN.ttf'

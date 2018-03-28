@@ -5,7 +5,6 @@ cask 'dafont-rockdafonkybit' do
     url 'http://dl.dafont.com/dl/?f=rockdafonkybit'
     name 'Rockdafonkybit'
     homepage 'http://www.dafont.com/rockdafonkybit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rockdafonkybit.ttf'
 end

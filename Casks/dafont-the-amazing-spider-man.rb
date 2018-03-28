@@ -5,7 +5,6 @@ cask 'dafont-the-amazing-spider-man' do
     url 'http://dl.dafont.com/dl/?f=the_amazing_spider_man'
     name 'The Amazing Spider-Man'
     homepage 'http://www.dafont.com/the-amazing-spider-man.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Amazing Spider-Man.ttf'
 end

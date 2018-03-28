@@ -5,7 +5,6 @@ cask 'dafont-blurrr-letters' do
     url 'http://dl.dafont.com/dl/?f=blurrr_letters'
     name 'Blurrr Letters'
     homepage 'http://www.dafont.com/blurrr-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blurrr letters.ttf'
 end

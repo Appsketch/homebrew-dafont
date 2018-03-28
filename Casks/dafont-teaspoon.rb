@@ -5,7 +5,6 @@ cask 'dafont-teaspoon' do
     url 'http://dl.dafont.com/dl/?f=teaspoon'
     name 'Teaspoon'
     homepage 'http://www.dafont.com/teaspoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'teaspoon.ttf'
 end

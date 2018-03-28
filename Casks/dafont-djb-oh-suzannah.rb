@@ -5,7 +5,6 @@ cask 'dafont-djb-oh-suzannah' do
     url 'http://dl.dafont.com/dl/?f=djb_oh_suzannah'
     name 'DJB Oh Suzannah'
     homepage 'http://www.dafont.com/djb-oh-suzannah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Oh, Suzannah.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cheap-potatoes' do
     url 'http://dl.dafont.com/dl/?f=cheap_potatoes'
     name 'Cheap Potatoes'
     homepage 'http://www.dafont.com/cheap-potatoes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cheap Potatoes.ttf'
 end

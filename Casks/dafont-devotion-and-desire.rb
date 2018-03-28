@@ -5,7 +5,6 @@ cask 'dafont-devotion-and-desire' do
     url 'http://dl.dafont.com/dl/?f=devotion_and_desire'
     name 'Devotion and Desire'
     homepage 'http://www.dafont.com/devotion-and-desire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'devotionanddesire.ttf'
 end

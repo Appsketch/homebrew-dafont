@@ -5,7 +5,6 @@ cask 'dafont-frosting-for-breakfast' do
     url 'http://dl.dafont.com/dl/?f=frosting_for_breakfast'
     name 'Frosting for Breakfast'
     homepage 'http://www.dafont.com/frosting-for-breakfast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frosting-for-Breakfast_regular.otf'
 end

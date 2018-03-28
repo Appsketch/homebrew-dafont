@@ -5,7 +5,6 @@ cask 'dafont-messybubble' do
     url 'http://dl.dafont.com/dl/?f=messybubble'
     name 'MessyBubble'
     homepage 'http://www.dafont.com/messybubble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MessyBubble.ttf'
 end

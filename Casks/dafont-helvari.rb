@@ -5,7 +5,6 @@ cask 'dafont-helvari' do
     url 'http://dl.dafont.com/dl/?f=helvari'
     name 'Helvari'
     homepage 'http://www.dafont.com/helvari.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'helvari.ttf'
     font 'helvaribold.ttf'

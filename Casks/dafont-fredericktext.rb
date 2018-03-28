@@ -5,7 +5,6 @@ cask 'dafont-fredericktext' do
     url 'http://dl.dafont.com/dl/?f=fredericktext'
     name 'Frederick Text'
     homepage 'http://www.dafont.com/fredericktext.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FREDT___.TTF'
 end

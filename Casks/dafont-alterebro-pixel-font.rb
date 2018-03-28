@@ -5,7 +5,6 @@ cask 'dafont-alterebro-pixel-font' do
     url 'http://dl.dafont.com/dl/?f=alterebro_pixel_font'
     name 'Alterebro Pixel'
     homepage 'http://www.dafont.com/alterebro-pixel-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alterebro-pixel-font.ttf'
 end

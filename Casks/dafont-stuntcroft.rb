@@ -5,7 +5,6 @@ cask 'dafont-stuntcroft' do
     url 'http://dl.dafont.com/dl/?f=stuntcroft'
     name 'Stuntcroft'
     homepage 'http://www.dafont.com/stuntcroft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stuntcroft.ttf'
 end

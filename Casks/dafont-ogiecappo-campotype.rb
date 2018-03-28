@@ -5,7 +5,6 @@ cask 'dafont-ogiecappo-campotype' do
     url 'http://dl.dafont.com/dl/?f=ogiecappo_campotype'
     name 'OgieCappo Campotype'
     homepage 'http://www.dafont.com/ogiecappo-campotype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ogie Cappo campotype.ttf'
 end

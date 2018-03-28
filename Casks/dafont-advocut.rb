@@ -5,7 +5,6 @@ cask 'dafont-advocut' do
     url 'http://dl.dafont.com/dl/?f=advocut'
     name 'Advocut'
     homepage 'http://www.dafont.com/advocut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AdvoCut.ttf'
 end

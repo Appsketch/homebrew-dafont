@@ -5,7 +5,6 @@ cask 'dafont-xilosa' do
     url 'http://dl.dafont.com/dl/?f=xilosa'
     name 'Xilosa'
     homepage 'http://www.dafont.com/xilosa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xilosa.ttf'
 end

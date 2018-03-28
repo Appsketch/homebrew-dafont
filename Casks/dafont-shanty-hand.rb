@@ -5,7 +5,6 @@ cask 'dafont-shanty-hand' do
     url 'http://dl.dafont.com/dl/?f=shanty_hand'
     name 'Shanty Hand'
     homepage 'http://www.dafont.com/shanty-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shanty Hand.otf'
 end

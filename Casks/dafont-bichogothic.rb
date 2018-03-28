@@ -5,7 +5,6 @@ cask 'dafont-bichogothic' do
     url 'http://dl.dafont.com/dl/?f=_bichogothic'
     name '(BichOGothic)'
     homepage 'http://www.dafont.com/-bichogothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '(BichOgothic) 1.2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-barmkode-inverse' do
     url 'http://dl.dafont.com/dl/?f=barmkode_inverse'
     name 'BarMKode-Inverse'
     homepage 'http://www.dafont.com/barmkode-inverse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BarMKode-Inverse.ttf'
 end

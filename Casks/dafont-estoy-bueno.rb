@@ -5,7 +5,6 @@ cask 'dafont-estoy-bueno' do
     url 'http://dl.dafont.com/dl/?f=estoy_bueno'
     name 'Estoy Bueno'
     homepage 'http://www.dafont.com/estoy-bueno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EstoyBueno.ttf'
 end

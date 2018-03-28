@@ -5,7 +5,6 @@ cask 'dafont-art-club-roman' do
     url 'http://dl.dafont.com/dl/?f=art_club_roman'
     name 'Art Club Roman'
     homepage 'http://www.dafont.com/art-club-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArtClub.otf'
 end

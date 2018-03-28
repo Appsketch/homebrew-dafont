@@ -5,7 +5,6 @@ cask 'dafont-kg-heart-doodles' do
     url 'http://dl.dafont.com/dl/?f=kg_heart_doodles'
     name 'KG Heart Doodles'
     homepage 'http://www.dafont.com/kg-heart-doodles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGHeartDoodles.ttf'
 end

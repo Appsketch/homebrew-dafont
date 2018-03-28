@@ -5,7 +5,6 @@ cask 'dafont-circles-and-sticks' do
     url 'http://dl.dafont.com/dl/?f=circles_and_sticks'
     name 'Circles and sticks'
     homepage 'http://www.dafont.com/circles-and-sticks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'circlesandsticks-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stranger' do
     url 'http://dl.dafont.com/dl/?f=stranger'
     name 'Stranger'
     homepage 'http://www.dafont.com/stranger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stranger.ttf'
 end

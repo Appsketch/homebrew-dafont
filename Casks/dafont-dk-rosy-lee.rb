@@ -5,7 +5,6 @@ cask 'dafont-dk-rosy-lee' do
     url 'http://dl.dafont.com/dl/?f=dk_rosy_lee'
     name 'DK Rosy Lee'
     homepage 'http://www.dafont.com/dk-rosy-lee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Rosy Lee.otf'
 end

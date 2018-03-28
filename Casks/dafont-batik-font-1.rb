@@ -5,7 +5,6 @@ cask 'dafont-batik-font-1' do
     url 'http://dl.dafont.com/dl/?f=batik_font_1'
     name 'Batik Font 1'
     homepage 'http://www.dafont.com/batik-font-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BatikFont1.ttf'
 end

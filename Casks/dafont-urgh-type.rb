@@ -5,7 +5,6 @@ cask 'dafont-urgh-type' do
     url 'http://dl.dafont.com/dl/?f=urgh_type'
     name 'Urgh Type'
     homepage 'http://www.dafont.com/urgh-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'URGH TYPE PERSONAL USE.otf'
 end

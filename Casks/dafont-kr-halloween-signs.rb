@@ -5,7 +5,6 @@ cask 'dafont-kr-halloween-signs' do
     url 'http://dl.dafont.com/dl/?f=kr_halloween_signs'
     name 'KR Halloween Signs'
     homepage 'http://www.dafont.com/kr-halloween-signs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Halloween Signs Two.TTF'
 end

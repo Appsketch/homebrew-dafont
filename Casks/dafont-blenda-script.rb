@@ -5,7 +5,6 @@ cask 'dafont-blenda-script' do
     url 'http://dl.dafont.com/dl/?f=blenda_script'
     name 'Blenda Script'
     homepage 'http://www.dafont.com/blenda-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blenda Script.otf'
 end

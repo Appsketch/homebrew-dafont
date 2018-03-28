@@ -5,7 +5,6 @@ cask 'dafont-lenka-stabilo' do
     url 'http://dl.dafont.com/dl/?f=lenka_stabilo'
     name 'Lenka stabilo'
     homepage 'http://www.dafont.com/lenka-stabilo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lenka_stabilo.ttf'
 end

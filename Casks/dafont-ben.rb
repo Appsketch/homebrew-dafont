@@ -5,7 +5,6 @@ cask 'dafont-ben' do
     url 'http://dl.dafont.com/dl/?f=ben'
     name 'Ben'
     homepage 'http://www.dafont.com/ben.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ben.ttf'
 end

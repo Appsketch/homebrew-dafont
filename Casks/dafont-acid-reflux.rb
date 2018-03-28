@@ -5,7 +5,6 @@ cask 'dafont-acid-reflux' do
     url 'http://dl.dafont.com/dl/?f=acid_reflux'
     name 'Acid Reflux'
     homepage 'http://www.dafont.com/acid-reflux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ACID_REF.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gaelleingfont' do
     url 'http://dl.dafont.com/dl/?f=gaelleingfont'
     name 'Gaelleing'
     homepage 'http://www.dafont.com/gaelleingfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GaelleingFont.ttf'
 end

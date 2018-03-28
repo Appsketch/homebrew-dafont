@@ -5,7 +5,6 @@ cask 'dafont-shaman' do
     url 'http://dl.dafont.com/dl/?f=shaman'
     name 'Shaman'
     homepage 'http://www.dafont.com/shaman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shaman.ttf'
 end

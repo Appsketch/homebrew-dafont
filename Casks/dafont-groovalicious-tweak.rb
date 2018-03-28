@@ -5,7 +5,6 @@ cask 'dafont-groovalicious-tweak' do
     url 'http://dl.dafont.com/dl/?f=groovalicious_tweak'
     name 'Groovalicious Tweak'
     homepage 'http://www.dafont.com/groovalicious-tweak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GROOT___.TTF'
 end

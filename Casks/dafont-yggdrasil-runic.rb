@@ -5,7 +5,6 @@ cask 'dafont-yggdrasil-runic' do
     url 'http://dl.dafont.com/dl/?f=yggdrasil_runic'
     name 'Yggdrasil Runic'
     homepage 'http://www.dafont.com/yggdrasil-runic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YggdrasilRunic.ttf'
 end

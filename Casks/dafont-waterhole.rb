@@ -5,7 +5,6 @@ cask 'dafont-waterhole' do
     url 'http://dl.dafont.com/dl/?f=waterhole'
     name 'Waterhole'
     homepage 'http://www.dafont.com/waterhole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Waterhole.ttf'
 end

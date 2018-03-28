@@ -5,7 +5,6 @@ cask 'dafont-watchbreaker' do
     url 'http://dl.dafont.com/dl/?f=watchbreaker'
     name 'WatchBreaker'
     homepage 'http://www.dafont.com/watchbreaker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WatchBreaker.ttf'
 end

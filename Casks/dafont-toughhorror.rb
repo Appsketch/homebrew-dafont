@@ -5,7 +5,6 @@ cask 'dafont-toughhorror' do
     url 'http://dl.dafont.com/dl/?f=toughhorror'
     name 'Tough Horror'
     homepage 'http://www.dafont.com/toughhorror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ToughHorror.ttf'
 end

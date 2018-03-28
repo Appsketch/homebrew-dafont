@@ -5,7 +5,6 @@ cask 'dafont-shout' do
     url 'http://dl.dafont.com/dl/?f=shout'
     name 'Shout'
     homepage 'http://www.dafont.com/shout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shout.ttf'
 end

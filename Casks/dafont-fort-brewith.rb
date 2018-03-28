@@ -5,7 +5,6 @@ cask 'dafont-fort-brewith' do
     url 'http://dl.dafont.com/dl/?f=fort_brewith'
     name 'Fort Brewith'
     homepage 'http://www.dafont.com/fort-brewith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fort Brewith.ttf'
 end

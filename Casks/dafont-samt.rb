@@ -5,7 +5,6 @@ cask 'dafont-samt' do
     url 'http://dl.dafont.com/dl/?f=samt'
     name 'SamT'
     homepage 'http://www.dafont.com/samt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SamT.ttf'
 end

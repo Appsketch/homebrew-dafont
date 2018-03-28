@@ -5,7 +5,6 @@ cask 'dafont-zag' do
     url 'http://dl.dafont.com/dl/?f=zag'
     name 'Zag'
     homepage 'http://www.dafont.com/zag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zag Bold.otf'
     font 'Zag Regular.otf'

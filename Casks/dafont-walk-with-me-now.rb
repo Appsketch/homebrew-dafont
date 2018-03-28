@@ -5,7 +5,6 @@ cask 'dafont-walk-with-me-now' do
     url 'http://dl.dafont.com/dl/?f=walk_with_me_now'
     name 'Walk with me now'
     homepage 'http://www.dafont.com/walk-with-me-now.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Walk with me now.ttf'
 end

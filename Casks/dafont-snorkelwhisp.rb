@@ -5,7 +5,6 @@ cask 'dafont-snorkelwhisp' do
     url 'http://dl.dafont.com/dl/?f=snorkelwhisp'
     name 'Snorkel Whisp'
     homepage 'http://www.dafont.com/snorkelwhisp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SnorkelWhisp.ttf'
 end

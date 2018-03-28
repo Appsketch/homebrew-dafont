@@ -5,7 +5,6 @@ cask 'dafont-lacetrim' do
     url 'http://dl.dafont.com/dl/?f=lacetrim'
     name 'Lacetrim'
     homepage 'http://www.dafont.com/lacetrim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LACETRIM.ttf'
 end

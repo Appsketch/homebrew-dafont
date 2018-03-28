@@ -5,7 +5,6 @@ cask 'dafont-vaudoo2rf' do
     url 'http://dl.dafont.com/dl/?f=vaudoo2rf'
     name 'Vaudoo2RF'
     homepage 'http://www.dafont.com/vaudoo2rf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vaudoo2RF.ttf'
 end

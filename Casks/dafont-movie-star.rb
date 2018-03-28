@@ -5,7 +5,6 @@ cask 'dafont-movie-star' do
     url 'http://dl.dafont.com/dl/?f=movie_star'
     name 'Movie Star'
     homepage 'http://www.dafont.com/movie-star.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Movie-Star.ttf'
 end

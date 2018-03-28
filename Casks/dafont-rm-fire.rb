@@ -5,7 +5,6 @@ cask 'dafont-rm-fire' do
     url 'http://dl.dafont.com/dl/?f=rm_fire'
     name 'RM Fire'
     homepage 'http://www.dafont.com/rm-fire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rmfire__.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gardiendherbe' do
     url 'http://dl.dafont.com/dl/?f=gardiendherbe'
     name 'Gardien d&#039;herbe'
     homepage 'http://www.dafont.com/gardiendherbe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gardiend-herbe.ttf'
 end

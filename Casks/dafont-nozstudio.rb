@@ -5,7 +5,6 @@ cask 'dafont-nozstudio' do
     url 'http://dl.dafont.com/dl/?f=nozstudio'
     name 'Nozstudio'
     homepage 'http://www.dafont.com/nozstudio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOZSTUDIO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-palm-beach' do
     url 'http://dl.dafont.com/dl/?f=palm_beach'
     name 'Palm Beach'
     homepage 'http://www.dafont.com/palm-beach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Palm Beach.ttf'
 end

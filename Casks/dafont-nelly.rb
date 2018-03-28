@@ -5,7 +5,6 @@ cask 'dafont-nelly' do
     url 'http://dl.dafont.com/dl/?f=nelly'
     name 'Nelly'
     homepage 'http://www.dafont.com/nelly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NELLYFRD-Normal.ttf'
 end

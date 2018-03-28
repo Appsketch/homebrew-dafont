@@ -5,7 +5,6 @@ cask 'dafont-ink-swipes-brk' do
     url 'http://dl.dafont.com/dl/?f=ink_swipes_brk'
     name 'Ink Swipes BRK'
     homepage 'http://www.dafont.com/ink-swipes-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'inkswipe.ttf'
 end

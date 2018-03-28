@@ -5,7 +5,6 @@ cask 'dafont-nuevo-passion' do
     url 'http://dl.dafont.com/dl/?f=nuevo_passion'
     name 'Nuevo Passion'
     homepage 'http://www.dafont.com/nuevo-passion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nuevopassion.ttf'
     font 'nuevopassion3d.ttf'

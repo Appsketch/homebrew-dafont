@@ -5,7 +5,6 @@ cask 'dafont-spranq-eco-sans' do
     url 'http://dl.dafont.com/dl/?f=spranq_eco_sans'
     name 'Spranq Eco Sans'
     homepage 'http://www.dafont.com/spranq-eco-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spranq_eco_sans_regular.ttf'
 end

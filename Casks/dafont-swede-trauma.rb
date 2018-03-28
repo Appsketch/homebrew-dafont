@@ -5,7 +5,6 @@ cask 'dafont-swede-trauma' do
     url 'http://dl.dafont.com/dl/?f=swede_trauma'
     name 'Swede Trauma'
     homepage 'http://www.dafont.com/swede-trauma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trauma____________sw____.ttf'
 end

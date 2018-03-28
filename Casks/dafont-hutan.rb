@@ -5,7 +5,6 @@ cask 'dafont-hutan' do
     url 'http://dl.dafont.com/dl/?f=hutan'
     name 'Hutan'
     homepage 'http://www.dafont.com/hutan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hutan.ttf'
 end

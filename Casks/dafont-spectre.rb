@@ -5,7 +5,6 @@ cask 'dafont-spectre' do
     url 'http://dl.dafont.com/dl/?f=spectre'
     name 'Spectre'
     homepage 'http://www.dafont.com/spectre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spectre-1.ttf'
 end

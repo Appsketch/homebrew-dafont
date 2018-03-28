@@ -5,7 +5,6 @@ cask 'dafont-senza-cuore' do
     url 'http://dl.dafont.com/dl/?f=senza_cuore'
     name 'Senza Cuore'
     homepage 'http://www.dafont.com/senza-cuore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'senza.ttf'
 end

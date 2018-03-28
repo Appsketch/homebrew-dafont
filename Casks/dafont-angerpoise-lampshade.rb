@@ -5,7 +5,6 @@ cask 'dafont-angerpoise-lampshade' do
     url 'http://dl.dafont.com/dl/?f=angerpoise_lampshade'
     name 'Angerpoise Lampshade'
     homepage 'http://www.dafont.com/angerpoise-lampshade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'angerpoise lampshade.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-confetti' do
     url 'http://dl.dafont.com/dl/?f=confetti'
     name 'FE Confetti'
     homepage 'http://www.dafont.com/confetti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE Confetti.otf'
 end

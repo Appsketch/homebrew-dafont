@@ -5,7 +5,6 @@ cask 'dafont-luis-candara' do
     url 'http://dl.dafont.com/dl/?f=luis_candara'
     name 'Luis Candara'
     homepage 'http://www.dafont.com/luis-candara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Luis Candara.ttf'
 end

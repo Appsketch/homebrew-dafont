@@ -5,7 +5,6 @@ cask 'dafont-modern-ringflash' do
     url 'http://dl.dafont.com/dl/?f=modern_ringflash'
     name 'Modern Ringflash'
     homepage 'http://www.dafont.com/modern-ringflash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'modern_ringflash.ttf'
 end

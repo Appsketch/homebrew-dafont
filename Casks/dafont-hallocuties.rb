@@ -5,7 +5,6 @@ cask 'dafont-hallocuties' do
     url 'http://dl.dafont.com/dl/?f=hallocuties'
     name 'HalloCuties'
     homepage 'http://www.dafont.com/hallocuties.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HalloCuties.ttf'
 end

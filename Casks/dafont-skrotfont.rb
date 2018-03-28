@@ -5,7 +5,6 @@ cask 'dafont-skrotfont' do
     url 'http://dl.dafont.com/dl/?f=skrotfont'
     name 'Skrotfont'
     homepage 'http://www.dafont.com/skrotfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SKROTFON.TTF'
 end

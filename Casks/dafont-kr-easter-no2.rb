@@ -5,7 +5,6 @@ cask 'dafont-kr-easter-no2' do
     url 'http://dl.dafont.com/dl/?f=kr_easter_no2'
     name 'KR Easter No2'
     homepage 'http://www.dafont.com/kr-easter-no2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Easter No 2.TTF'
 end

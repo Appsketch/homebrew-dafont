@@ -5,7 +5,6 @@ cask 'dafont-kv' do
     url 'http://dl.dafont.com/dl/?f=kv'
     name 'KV'
     homepage 'http://www.dafont.com/kv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KV.ttf'
 end

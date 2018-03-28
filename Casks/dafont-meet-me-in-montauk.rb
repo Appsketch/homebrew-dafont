@@ -5,7 +5,6 @@ cask 'dafont-meet-me-in-montauk' do
     url 'http://dl.dafont.com/dl/?f=meet_me_in_montauk'
     name 'Meet me in Montauk'
     homepage 'http://www.dafont.com/meet-me-in-montauk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'meet_me_in_montauk.ttf'
 end

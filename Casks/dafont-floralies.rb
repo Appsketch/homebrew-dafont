@@ -5,7 +5,6 @@ cask 'dafont-floralies' do
     url 'http://dl.dafont.com/dl/?f=floralies'
     name 'Floralies'
     homepage 'http://www.dafont.com/floralies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FLORALIE.TTF'
 end

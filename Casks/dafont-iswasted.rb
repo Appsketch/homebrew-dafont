@@ -5,7 +5,6 @@ cask 'dafont-iswasted' do
     url 'http://dl.dafont.com/dl/?f=iswasted'
     name 'IsWasted'
     homepage 'http://www.dafont.com/iswasted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IsWasted.ttf'
     font 'IsWastedAlias.ttf'

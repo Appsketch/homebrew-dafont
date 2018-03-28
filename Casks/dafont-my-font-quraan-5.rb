@@ -5,7 +5,6 @@ cask 'dafont-my-font-quraan-5' do
     url 'http://dl.dafont.com/dl/?f=my_font_quraan_5'
     name 'My Font Quraan 5'
     homepage 'http://www.dafont.com/my-font-quraan-5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My Font Quraan 5.ttf'
 end

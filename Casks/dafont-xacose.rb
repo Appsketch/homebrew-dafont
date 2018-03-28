@@ -5,7 +5,6 @@ cask 'dafont-xacose' do
     url 'http://dl.dafont.com/dl/?f=xacose'
     name 'Xacose'
     homepage 'http://www.dafont.com/xacose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xacose Italic.otf'
     font 'Xacose.otf'

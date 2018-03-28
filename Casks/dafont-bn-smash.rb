@@ -5,7 +5,6 @@ cask 'dafont-bn-smash' do
     url 'http://dl.dafont.com/dl/?f=bn_smash'
     name 'BN Smash'
     homepage 'http://www.dafont.com/bn-smash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smash.ttf'
 end

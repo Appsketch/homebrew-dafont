@@ -5,7 +5,6 @@ cask 'dafont-thisway' do
     url 'http://dl.dafont.com/dl/?f=thisway'
     name 'This Way'
     homepage 'http://www.dafont.com/thisway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thisway.ttf'
 end

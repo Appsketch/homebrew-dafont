@@ -5,7 +5,6 @@ cask 'dafont-asorion' do
     url 'http://dl.dafont.com/dl/?f=asorion'
     name 'Asorion'
     homepage 'http://www.dafont.com/asorion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASorion.ttf'
 end

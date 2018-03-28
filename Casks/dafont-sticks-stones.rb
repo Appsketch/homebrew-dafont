@@ -5,7 +5,6 @@ cask 'dafont-sticks-stones' do
     url 'http://dl.dafont.com/dl/?f=sticks_stones'
     name 'Sticks &amp; Stones'
     homepage 'http://www.dafont.com/sticks-stones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sticks &amp; Stones.otf'
 end

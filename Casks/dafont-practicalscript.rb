@@ -5,7 +5,6 @@ cask 'dafont-practicalscript' do
     url 'http://dl.dafont.com/dl/?f=practicalscript'
     name 'Practical Script'
     homepage 'http://www.dafont.com/practicalscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PracticalScript.ttf'
 end

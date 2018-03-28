@@ -5,7 +5,6 @@ cask 'dafont-sniffin-paint' do
     url 'http://dl.dafont.com/dl/?f=sniffin_paint'
     name 'Sniffin Paint'
     homepage 'http://www.dafont.com/sniffin-paint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SniffinPaint-Regular.ttf'
 end

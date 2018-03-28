@@ -5,7 +5,6 @@ cask 'dafont-crystal-deco' do
     url 'http://dl.dafont.com/dl/?f=crystal_deco'
     name 'Crystal Deco'
     homepage 'http://www.dafont.com/crystal-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crystal Deco Bold Italic.otf'
     font 'Crystal Deco Bold.otf'

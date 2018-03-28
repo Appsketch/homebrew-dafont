@@ -5,7 +5,6 @@ cask 'dafont-cloud-candy' do
     url 'http://dl.dafont.com/dl/?f=cloud_candy'
     name 'Cloud Candy'
     homepage 'http://www.dafont.com/cloud-candy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cloud Candy.ttf'
 end

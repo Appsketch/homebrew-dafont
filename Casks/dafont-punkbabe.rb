@@ -5,7 +5,6 @@ cask 'dafont-punkbabe' do
     url 'http://dl.dafont.com/dl/?f=punkbabe'
     name 'Punkbabe'
     homepage 'http://www.dafont.com/punkbabe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PUNKBABE TRIAL.ttf'
 end

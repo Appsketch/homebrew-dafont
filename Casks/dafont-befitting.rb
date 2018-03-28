@@ -5,7 +5,6 @@ cask 'dafont-befitting' do
     url 'http://dl.dafont.com/dl/?f=befitting'
     name 'Befitting'
     homepage 'http://www.dafont.com/befitting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Befitting Demo.otf'
 end

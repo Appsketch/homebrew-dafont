@@ -5,7 +5,6 @@ cask 'dafont-yukarimobile' do
     url 'http://dl.dafont.com/dl/?f=yukarimobile'
     name 'Yukarimobile'
     homepage 'http://www.dafont.com/yukarimobile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yukari.ttf'
 end

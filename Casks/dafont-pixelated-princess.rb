@@ -5,7 +5,6 @@ cask 'dafont-pixelated-princess' do
     url 'http://dl.dafont.com/dl/?f=pixelated_princess'
     name 'Pixelated Princess'
     homepage 'http://www.dafont.com/pixelated-princess.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixelated_princess.ttf'
 end

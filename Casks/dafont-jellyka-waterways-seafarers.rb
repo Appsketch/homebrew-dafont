@@ -5,7 +5,6 @@ cask 'dafont-jellyka-waterways-seafarers' do
     url 'http://dl.dafont.com/dl/?f=jellyka_waterways_seafarers'
     name 'Jellyka Waterways Seafarers'
     homepage 'http://www.dafont.com/jellyka-waterways-seafarers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WaterwaysSeafarers.ttf'
 end

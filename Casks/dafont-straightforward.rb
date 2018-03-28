@@ -5,7 +5,6 @@ cask 'dafont-straightforward' do
     url 'http://dl.dafont.com/dl/?f=straightforward'
     name 'Straightforward'
     homepage 'http://www.dafont.com/straightforward.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Straightforward Regular.ttf'
 end

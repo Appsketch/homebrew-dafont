@@ -5,7 +5,6 @@ cask 'dafont-a-ryal-black-block' do
     url 'http://dl.dafont.com/dl/?f=a_ryal_black_block'
     name 'A Ryal Black Block'
     homepage 'http://www.dafont.com/a-ryal-black-block.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A Ryal Black Block.ttf'
 end

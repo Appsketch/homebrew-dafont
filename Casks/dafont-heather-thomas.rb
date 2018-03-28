@@ -5,7 +5,6 @@ cask 'dafont-heather-thomas' do
     url 'http://dl.dafont.com/dl/?f=heather_thomas'
     name 'Heather Thomas'
     homepage 'http://www.dafont.com/heather-thomas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heather_Thomas.ttf'
 end

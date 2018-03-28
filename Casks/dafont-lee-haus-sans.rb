@@ -5,7 +5,6 @@ cask 'dafont-lee-haus-sans' do
     url 'http://dl.dafont.com/dl/?f=lee_haus_sans'
     name 'Lee Haus Sans'
     homepage 'http://www.dafont.com/lee-haus-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LeeHausSans-Regular.ttf'
     font 'LeeHausSans2-Regular.ttf'

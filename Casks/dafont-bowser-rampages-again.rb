@@ -5,7 +5,6 @@ cask 'dafont-bowser-rampages-again' do
     url 'http://dl.dafont.com/dl/?f=bowser_rampages_again'
     name 'Bowser Rampages Again'
     homepage 'http://www.dafont.com/bowser-rampages-again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bowser-Rampages-Again.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-morevil' do
     url 'http://dl.dafont.com/dl/?f=morevil'
     name 'Morevil'
     homepage 'http://www.dafont.com/morevil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOREVIL.TTF'
 end

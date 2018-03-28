@@ -5,7 +5,6 @@ cask 'dafont-johnyokonysm' do
     url 'http://dl.dafont.com/dl/?f=johnyokonysm'
     name 'Johnyokonysm'
     homepage 'http://www.dafont.com/johnyokonysm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'johnyokonysm.ttf'
 end

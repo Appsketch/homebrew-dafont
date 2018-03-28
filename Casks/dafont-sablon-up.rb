@@ -5,7 +5,6 @@ cask 'dafont-sablon-up' do
     url 'http://dl.dafont.com/dl/?f=sablon_up'
     name 'Sablon Up'
     homepage 'http://www.dafont.com/sablon-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sablon_Up_College_Alt.otf'
     font 'Sablon_Up_College.otf'

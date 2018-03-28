@@ -5,7 +5,6 @@ cask 'dafont-severedfs' do
     url 'http://dl.dafont.com/dl/?f=severedfs'
     name 'Severed FS'
     homepage 'http://www.dafont.com/severedfs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SeveredFS.ttf'
 end

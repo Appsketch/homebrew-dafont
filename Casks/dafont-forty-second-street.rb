@@ -5,7 +5,6 @@ cask 'dafont-forty-second-street' do
     url 'http://dl.dafont.com/dl/?f=forty_second_street'
     name 'Forty Second Street'
     homepage 'http://www.dafont.com/forty-second-street.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FORTSSH_.TTF'
 end

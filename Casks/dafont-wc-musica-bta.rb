@@ -5,7 +5,6 @@ cask 'dafont-wc-musica-bta' do
     url 'http://dl.dafont.com/dl/?f=wc_musica_bta'
     name 'WC Musica Bta'
     homepage 'http://www.dafont.com/wc-musica-bta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WC_Musica_Bta.otf'
 end

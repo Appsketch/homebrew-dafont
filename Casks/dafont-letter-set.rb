@@ -5,7 +5,6 @@ cask 'dafont-letter-set' do
     url 'http://dl.dafont.com/dl/?f=letter_set'
     name 'Letter Set'
     homepage 'http://www.dafont.com/letter-set.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'letter set a.ttf'
     font 'letter set b.ttf'

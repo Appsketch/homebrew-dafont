@@ -5,7 +5,6 @@ cask 'dafont-razterhunch-burn' do
     url 'http://dl.dafont.com/dl/?f=razterhunch_burn'
     name 'Razterhunch Burn'
     homepage 'http://www.dafont.com/razterhunch-burn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Razterhunch Burn.ttf'
 end

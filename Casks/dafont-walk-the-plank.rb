@@ -5,7 +5,6 @@ cask 'dafont-walk-the-plank' do
     url 'http://dl.dafont.com/dl/?f=walk_the_plank'
     name 'Walk the Plank'
     homepage 'http://www.dafont.com/walk-the-plank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'walk_plank.ttf'
 end

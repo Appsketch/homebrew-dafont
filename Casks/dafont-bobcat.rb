@@ -5,7 +5,6 @@ cask 'dafont-bobcat' do
     url 'http://dl.dafont.com/dl/?f=bobcat'
     name 'Bobcat'
     homepage 'http://www.dafont.com/bobcat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOBCAT.TTF'
 end

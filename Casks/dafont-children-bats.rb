@@ -5,7 +5,6 @@ cask 'dafont-children-bats' do
     url 'http://dl.dafont.com/dl/?f=children_bats'
     name 'Children Bats'
     homepage 'http://www.dafont.com/children-bats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChildrenBats.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fantom-better' do
     url 'http://dl.dafont.com/dl/?f=fantom_better'
     name 'Fantom Better'
     homepage 'http://www.dafont.com/fantom-better.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fantom Better.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-macabra' do
     url 'http://dl.dafont.com/dl/?f=macabra'
     name 'Macabra'
     homepage 'http://www.dafont.com/macabra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MACABRA_.TTF'
 end

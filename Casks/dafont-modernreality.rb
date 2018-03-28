@@ -5,7 +5,6 @@ cask 'dafont-modernreality' do
     url 'http://dl.dafont.com/dl/?f=modernreality'
     name 'Modern Reality'
     homepage 'http://www.dafont.com/modernreality.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ModernReality.ttf'
 end

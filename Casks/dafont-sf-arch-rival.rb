@@ -5,7 +5,6 @@ cask 'dafont-sf-arch-rival' do
     url 'http://dl.dafont.com/dl/?f=sf_arch_rival'
     name 'SF Arch Rival'
     homepage 'http://www.dafont.com/sf-arch-rival.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Arch Rival Bold Italic.ttf'
     font 'SF Arch Rival Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-days-sans-black' do
     url 'http://dl.dafont.com/dl/?f=days_sans_black'
     name 'Days Sans Black'
     homepage 'http://www.dafont.com/days-sans-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Days Sans Black.otf'
 end

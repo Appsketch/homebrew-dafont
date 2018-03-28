@@ -5,7 +5,6 @@ cask 'dafont-dcc-bomber' do
     url 'http://dl.dafont.com/dl/?f=dcc_bomber'
     name 'DCC Bomber'
     homepage 'http://www.dafont.com/dcc-bomber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DCC - Bomber.otf'
 end

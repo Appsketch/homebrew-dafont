@@ -5,7 +5,6 @@ cask 'dafont-aardvark-cwm-type' do
     url 'http://dl.dafont.com/dl/?f=aardvark_cwm_type'
     name 'Aardvark Cwm Type'
     homepage 'http://www.dafont.com/aardvark-cwm-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aardvark-Cwm-Type.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-luckdogs' do
     url 'http://dl.dafont.com/dl/?f=luckdogs'
     name 'Luck Dogs'
     homepage 'http://www.dafont.com/luckdogs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LuckyDogs.ttf'
 end

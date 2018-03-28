@@ -5,7 +5,6 @@ cask 'dafont-advert' do
     url 'http://dl.dafont.com/dl/?f=advert'
     name 'Advert'
     homepage 'http://www.dafont.com/advert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Advert-Italic.ttf'
     font 'Advert-Regular.ttf'

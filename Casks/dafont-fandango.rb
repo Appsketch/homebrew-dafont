@@ -5,7 +5,6 @@ cask 'dafont-fandango' do
     url 'http://dl.dafont.com/dl/?f=fandango'
     name 'Fandango'
     homepage 'http://www.dafont.com/fandango.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FANDANGO.TTF'
 end

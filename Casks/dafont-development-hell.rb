@@ -5,7 +5,6 @@ cask 'dafont-development-hell' do
     url 'http://dl.dafont.com/dl/?f=development_hell'
     name 'Development Hell'
     homepage 'http://www.dafont.com/development-hell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Development Hell.otf'
 end

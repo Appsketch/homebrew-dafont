@@ -5,7 +5,6 @@ cask 'dafont-delightful-lil-drag' do
     url 'http://dl.dafont.com/dl/?f=delightful_lil_drag'
     name 'Delightful Lil Dragons'
     homepage 'http://www.dafont.com/delightful-lil-drag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Delightful Lil Dragons.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pinnacle' do
     url 'http://dl.dafont.com/dl/?f=pinnacle'
     name 'Pinnacle'
     homepage 'http://www.dafont.com/pinnacle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pinnacle-Regular.otf'
 end

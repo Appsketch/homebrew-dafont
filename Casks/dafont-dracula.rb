@@ -5,7 +5,6 @@ cask 'dafont-dracula' do
     url 'http://dl.dafont.com/dl/?f=dracula'
     name 'Dracula'
     homepage 'http://www.dafont.com/dracula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dracula.TTF'
 end

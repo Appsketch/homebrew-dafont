@@ -5,7 +5,6 @@ cask 'dafont-epic-fusion' do
     url 'http://dl.dafont.com/dl/?f=epic_fusion'
     name 'Epic Fusion'
     homepage 'http://www.dafont.com/epic-fusion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EpicFusion Italic.ttf'
     font 'EpicFusion.ttf'

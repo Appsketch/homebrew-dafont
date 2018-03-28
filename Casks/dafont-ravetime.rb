@@ -5,7 +5,6 @@ cask 'dafont-ravetime' do
     url 'http://dl.dafont.com/dl/?f=ravetime'
     name 'Rave Time'
     homepage 'http://www.dafont.com/ravetime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RaveTime.ttf'
 end

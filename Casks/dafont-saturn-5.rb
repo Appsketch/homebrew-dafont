@@ -5,7 +5,6 @@ cask 'dafont-saturn-5' do
     url 'http://dl.dafont.com/dl/?f=saturn_5'
     name 'Saturn 5'
     homepage 'http://www.dafont.com/saturn-5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'saturn 5 Bold.ttf'
 end

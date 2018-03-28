@@ -5,7 +5,6 @@ cask 'dafont-chameleon-dreams' do
     url 'http://dl.dafont.com/dl/?f=chameleon_dreams'
     name 'ChaMeLEon DrEamS'
     homepage 'http://www.dafont.com/chameleon-dreams.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChaMeLEon DrEamS.otf'
 end

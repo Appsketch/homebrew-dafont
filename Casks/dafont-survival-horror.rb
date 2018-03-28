@@ -5,7 +5,6 @@ cask 'dafont-survival-horror' do
     url 'http://dl.dafont.com/dl/?f=survival_horror'
     name 'Survival Horror'
     homepage 'http://www.dafont.com/survival-horror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'survival_horror.ttf'
 end

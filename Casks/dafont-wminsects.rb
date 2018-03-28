@@ -5,7 +5,6 @@ cask 'dafont-wminsects' do
     url 'http://dl.dafont.com/dl/?f=wminsects'
     name 'WM Insects'
     homepage 'http://www.dafont.com/wminsects.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wminsects1.TTF'
 end

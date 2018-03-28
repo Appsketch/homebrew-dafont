@@ -5,7 +5,6 @@ cask 'dafont-kingjames' do
     url 'http://dl.dafont.com/dl/?f=kingjames'
     name 'King James'
     homepage 'http://www.dafont.com/kingjames.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KingJames.ttf'
 end

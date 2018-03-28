@@ -5,7 +5,6 @@ cask 'dafont-everydaytypo' do
     url 'http://dl.dafont.com/dl/?f=everydaytypo'
     name 'Everyday Typo'
     homepage 'http://www.dafont.com/everydaytypo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Everyday Typo.ttf'
 end

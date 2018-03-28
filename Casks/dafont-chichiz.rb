@@ -5,7 +5,6 @@ cask 'dafont-chichiz' do
     url 'http://dl.dafont.com/dl/?f=chichiz'
     name 'Chichiz'
     homepage 'http://www.dafont.com/chichiz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chichiz.ttf'
 end

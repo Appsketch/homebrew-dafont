@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-toy-chest' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_toy_chest'
     name 'Austie Bost Toy Chest'
     homepage 'http://www.dafont.com/austie-bost-toy-chest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Toy Chest.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-northwest' do
     url 'http://dl.dafont.com/dl/?f=northwest'
     name 'Northwest'
     homepage 'http://www.dafont.com/northwest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Northwest.ttf'
 end

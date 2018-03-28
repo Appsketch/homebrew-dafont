@@ -5,7 +5,6 @@ cask 'dafont-quitwork' do
     url 'http://dl.dafont.com/dl/?f=quitwork'
     name 'Quit Work'
     homepage 'http://www.dafont.com/quitwork.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuitWork.ttf'
 end

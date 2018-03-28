@@ -5,7 +5,6 @@ cask 'dafont-nozhnitsy' do
     url 'http://dl.dafont.com/dl/?f=nozhnitsy'
     name 'Nozhnitsy'
     homepage 'http://www.dafont.com/nozhnitsy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nozhnitsy.ttf'
 end

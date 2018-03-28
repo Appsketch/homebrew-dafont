@@ -5,7 +5,6 @@ cask 'dafont-dbe-rigel' do
     url 'http://dl.dafont.com/dl/?f=dbe_rigel'
     name 'DBE Rigel'
     homepage 'http://www.dafont.com/dbe-rigel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dbe-rigel.ttf'
 end

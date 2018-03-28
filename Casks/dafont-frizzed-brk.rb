@@ -5,7 +5,6 @@ cask 'dafont-frizzed-brk' do
     url 'http://dl.dafont.com/dl/?f=frizzed_brk'
     name 'Frizzed BRK'
     homepage 'http://www.dafont.com/frizzed-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'frizzed.ttf'
 end

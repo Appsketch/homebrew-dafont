@@ -5,7 +5,6 @@ cask 'dafont-lyric-dragon' do
     url 'http://dl.dafont.com/dl/?f=lyric_dragon'
     name 'Lyric Dragon'
     homepage 'http://www.dafont.com/lyric-dragon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lyric Dragon Bold.ttf'
     font 'Lyric Dragon Regular.ttf'

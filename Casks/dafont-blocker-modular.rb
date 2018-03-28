@@ -5,7 +5,6 @@ cask 'dafont-blocker-modular' do
     url 'http://dl.dafont.com/dl/?f=blocker_modular'
     name 'Blocker Modular'
     homepage 'http://www.dafont.com/blocker-modular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bloquer.ttf'
 end

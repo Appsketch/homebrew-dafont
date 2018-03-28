@@ -5,7 +5,6 @@ cask 'dafont-olney' do
     url 'http://dl.dafont.com/dl/?f=olney'
     name 'Olney'
     homepage 'http://www.dafont.com/olney.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'olney_light.otf'
 end

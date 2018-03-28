@@ -5,7 +5,6 @@ cask 'dafont-lfp' do
     url 'http://dl.dafont.com/dl/?f=lfp'
     name 'LFP'
     homepage 'http://www.dafont.com/lfp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LFP.ttf'
 end

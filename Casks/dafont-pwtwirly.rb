@@ -5,7 +5,6 @@ cask 'dafont-pwtwirly' do
     url 'http://dl.dafont.com/dl/?f=pwtwirly'
     name 'PW Twirly'
     homepage 'http://www.dafont.com/pwtwirly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWTwirly.ttf'
 end

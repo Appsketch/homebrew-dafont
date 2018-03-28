@@ -5,7 +5,6 @@ cask 'dafont-voluptate' do
     url 'http://dl.dafont.com/dl/?f=voluptate'
     name 'Voluptate'
     homepage 'http://www.dafont.com/voluptate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Voluptate_demo.ttf'
 end

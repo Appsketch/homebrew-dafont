@@ -5,7 +5,6 @@ cask 'dafont-levity' do
     url 'http://dl.dafont.com/dl/?f=levity'
     name 'Levity'
     homepage 'http://www.dafont.com/levity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'levity.ttf'
 end

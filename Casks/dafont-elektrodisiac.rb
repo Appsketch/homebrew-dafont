@@ -5,7 +5,6 @@ cask 'dafont-elektrodisiac' do
     url 'http://dl.dafont.com/dl/?f=elektrodisiac'
     name 'Elektrodisiac'
     homepage 'http://www.dafont.com/elektrodisiac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'elektro.ttf'
 end

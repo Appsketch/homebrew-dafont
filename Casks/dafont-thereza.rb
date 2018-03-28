@@ -5,7 +5,6 @@ cask 'dafont-thereza' do
     url 'http://dl.dafont.com/dl/?f=thereza'
     name 'Thereza'
     homepage 'http://www.dafont.com/thereza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thereza.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-terry-script' do
     url 'http://dl.dafont.com/dl/?f=terry_script'
     name 'Terry Script'
     homepage 'http://www.dafont.com/terry-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ter1.ttf'
 end

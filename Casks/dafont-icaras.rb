@@ -5,7 +5,6 @@ cask 'dafont-icaras' do
     url 'http://dl.dafont.com/dl/?f=icaras'
     name 'Icaras'
     homepage 'http://www.dafont.com/icaras.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Icaras.ttf'
 end

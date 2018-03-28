@@ -5,7 +5,6 @@ cask 'dafont-noel' do
     url 'http://dl.dafont.com/dl/?f=noel'
     name 'Noel'
     homepage 'http://www.dafont.com/noel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOEL____.TTF'
 end

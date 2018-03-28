@@ -5,7 +5,6 @@ cask 'dafont-rx' do
     url 'http://dl.dafont.com/dl/?f=rx'
     name 'Rx'
     homepage 'http://www.dafont.com/rx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RxFF__.ttf'
     font 'RxFO__.ttf'

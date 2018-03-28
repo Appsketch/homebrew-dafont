@@ -5,7 +5,6 @@ cask 'dafont-ds-nova-black' do
     url 'http://dl.dafont.com/dl/?f=ds_nova_black'
     name 'DS Nova Black'
     homepage 'http://www.dafont.com/ds-nova-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DSNOBL__.TTF'
 end

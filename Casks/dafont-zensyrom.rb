@@ -5,7 +5,6 @@ cask 'dafont-zensyrom' do
     url 'http://dl.dafont.com/dl/?f=zensyrom'
     name 'Zensyrom'
     homepage 'http://www.dafont.com/zensyrom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zensyrom.ttf'
 end

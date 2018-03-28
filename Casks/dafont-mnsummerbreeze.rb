@@ -5,7 +5,6 @@ cask 'dafont-mnsummerbreeze' do
     url 'http://dl.dafont.com/dl/?f=mnsummerbreeze'
     name 'MN Summer Breeze'
     homepage 'http://www.dafont.com/mnsummerbreeze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MN_SUMMER_BREEZE.ttf'
 end

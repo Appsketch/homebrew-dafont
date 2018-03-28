@@ -5,7 +5,6 @@ cask 'dafont-pixelfarms-pets' do
     url 'http://dl.dafont.com/dl/?f=pixelfarms_pets'
     name 'Pixelfarms Pets'
     homepage 'http://www.dafont.com/pixelfarms-pets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PxlfrmPets.ttf'
 end

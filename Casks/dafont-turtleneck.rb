@@ -5,7 +5,6 @@ cask 'dafont-turtleneck' do
     url 'http://dl.dafont.com/dl/?f=turtleneck'
     name 'Turtleneck'
     homepage 'http://www.dafont.com/turtleneck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Turtleneck.ttf'
 end

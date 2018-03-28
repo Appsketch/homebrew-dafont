@@ -5,7 +5,6 @@ cask 'dafont-outlands' do
     url 'http://dl.dafont.com/dl/?f=outlands'
     name 'Outlands'
     homepage 'http://www.dafont.com/outlands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OUT.FON'
     font 'out2.fon'

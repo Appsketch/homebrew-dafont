@@ -5,7 +5,6 @@ cask 'dafont-lesetoiles' do
     url 'http://dl.dafont.com/dl/?f=lesetoiles'
     name 'Les Etoiles'
     homepage 'http://www.dafont.com/lesetoiles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LesEtoiles.otf'
 end

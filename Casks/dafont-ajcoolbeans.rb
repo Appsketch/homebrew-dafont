@@ -5,7 +5,6 @@ cask 'dafont-ajcoolbeans' do
     url 'http://dl.dafont.com/dl/?f=ajcoolbeans'
     name 'AJ Cool Beans'
     homepage 'http://www.dafont.com/ajcoolbeans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AJCoolBeans.ttf'
 end

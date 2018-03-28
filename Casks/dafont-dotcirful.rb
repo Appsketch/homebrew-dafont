@@ -5,7 +5,6 @@ cask 'dafont-dotcirful' do
     url 'http://dl.dafont.com/dl/?f=dotcirful'
     name 'Dotcirful'
     homepage 'http://www.dafont.com/dotcirful.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOTCIRFUL Bold Italic.otf'
     font 'DOTCIRFUL Bold.otf'

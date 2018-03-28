@@ -5,7 +5,6 @@ cask 'dafont-cf-baron-rouge' do
     url 'http://dl.dafont.com/dl/?f=cf_baron_rouge'
     name 'CF Baron Rouge'
     homepage 'http://www.dafont.com/cf-baron-rouge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFBaronRouge-Normal.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-in-his-right-place' do
     url 'http://dl.dafont.com/dl/?f=in_his_right_place'
     name 'In his right place'
     homepage 'http://www.dafont.com/in-his-right-place.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'in_his_right_place.ttf'
 end

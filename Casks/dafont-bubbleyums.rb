@@ -5,7 +5,6 @@ cask 'dafont-bubbleyums' do
     url 'http://dl.dafont.com/dl/?f=bubbleyums'
     name 'Bubble Yums'
     homepage 'http://www.dafont.com/bubbleyums.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BubbleYums.ttf'
 end

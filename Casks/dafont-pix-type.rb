@@ -5,7 +5,6 @@ cask 'dafont-pix-type' do
     url 'http://dl.dafont.com/dl/?f=pix_type'
     name 'Pix Type'
     homepage 'http://www.dafont.com/pix-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pix Type.otf'
 end

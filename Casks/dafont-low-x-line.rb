@@ -5,7 +5,6 @@ cask 'dafont-low-x-line' do
     url 'http://dl.dafont.com/dl/?f=low_x_line'
     name 'Low X-Line'
     homepage 'http://www.dafont.com/low-x-line.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Low X-Line.ttf'
 end

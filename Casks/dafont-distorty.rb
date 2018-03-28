@@ -5,7 +5,6 @@ cask 'dafont-distorty' do
     url 'http://dl.dafont.com/dl/?f=distorty'
     name 'Distorty'
     homepage 'http://www.dafont.com/distorty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Distorty.otf'
 end

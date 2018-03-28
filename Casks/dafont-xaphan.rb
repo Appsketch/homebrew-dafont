@@ -5,7 +5,6 @@ cask 'dafont-xaphan' do
     url 'http://dl.dafont.com/dl/?f=xaphan'
     name 'Xaphan'
     homepage 'http://www.dafont.com/xaphan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xaphan.ttf'
     font 'Xaphan2.ttf'

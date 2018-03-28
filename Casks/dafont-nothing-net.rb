@@ -5,7 +5,6 @@ cask 'dafont-nothing-net' do
     url 'http://dl.dafont.com/dl/?f=nothing_net'
     name 'Nothing Net'
     homepage 'http://www.dafont.com/nothing-net.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Notnet.ttf'
 end

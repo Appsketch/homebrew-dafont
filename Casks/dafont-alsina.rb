@@ -5,7 +5,6 @@ cask 'dafont-alsina' do
     url 'http://dl.dafont.com/dl/?f=alsina'
     name 'Alsina'
     homepage 'http://www.dafont.com/alsina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alsina Ultrajada.TTF'
 end

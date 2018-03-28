@@ -5,7 +5,6 @@ cask 'dafont-freshbone' do
     url 'http://dl.dafont.com/dl/?f=freshbone'
     name 'Fresh Bone'
     homepage 'http://www.dafont.com/freshbone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreshBone.ttf'
 end

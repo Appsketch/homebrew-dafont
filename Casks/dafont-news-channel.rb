@@ -5,7 +5,6 @@ cask 'dafont-news-channel' do
     url 'http://dl.dafont.com/dl/?f=news_channel'
     name 'News Channel'
     homepage 'http://www.dafont.com/news-channel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'news_channel.ttf'
 end

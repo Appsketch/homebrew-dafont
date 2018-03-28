@@ -5,7 +5,6 @@ cask 'dafont-pasta-simpla' do
     url 'http://dl.dafont.com/dl/?f=pasta_simpla'
     name 'Pasta Simpla'
     homepage 'http://www.dafont.com/pasta-simpla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pasta Simpla.otf'
 end

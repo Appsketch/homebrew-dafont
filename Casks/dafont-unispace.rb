@@ -5,7 +5,6 @@ cask 'dafont-unispace' do
     url 'http://dl.dafont.com/dl/?f=unispace'
     name 'Unispace'
     homepage 'http://www.dafont.com/unispace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'unispace bd it.ttf'
     font 'unispace bd.ttf'

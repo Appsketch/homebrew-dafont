@@ -5,7 +5,6 @@ cask 'dafont-pwcomics' do
     url 'http://dl.dafont.com/dl/?f=pwcomics'
     name 'PW Comics'
     homepage 'http://www.dafont.com/pwcomics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWComics.ttf'
 end

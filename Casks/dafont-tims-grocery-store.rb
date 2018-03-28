@@ -5,7 +5,6 @@ cask 'dafont-tims-grocery-store' do
     url 'http://dl.dafont.com/dl/?f=tims_grocery_store'
     name 'Tims Grocery Store'
     homepage 'http://www.dafont.com/tims-grocery-store.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tims Grocery Store.ttf'
 end

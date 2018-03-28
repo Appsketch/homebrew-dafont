@@ -5,7 +5,6 @@ cask 'dafont-oxford-cp' do
     url 'http://dl.dafont.com/dl/?f=oxford_cp'
     name 'Oxford CP'
     homepage 'http://www.dafont.com/oxford-cp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OxfordCP.otf'
 end

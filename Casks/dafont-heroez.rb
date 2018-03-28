@@ -5,7 +5,6 @@ cask 'dafont-heroez' do
     url 'http://dl.dafont.com/dl/?f=heroez'
     name 'HeRoez'
     homepage 'http://www.dafont.com/heroez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeRoez.ttf'
 end

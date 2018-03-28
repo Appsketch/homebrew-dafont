@@ -5,7 +5,6 @@ cask 'dafont-living-hell' do
     url 'http://dl.dafont.com/dl/?f=living_hell'
     name 'Living Hell'
     homepage 'http://www.dafont.com/living-hell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Living Hell.ttf'
 end

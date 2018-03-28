@@ -5,7 +5,6 @@ cask 'dafont-emilio-20' do
     url 'http://dl.dafont.com/dl/?f=emilio_20'
     name 'Emilio 20'
     homepage 'http://www.dafont.com/emilio-20.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'emilio 20.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-creepers' do
     url 'http://dl.dafont.com/dl/?f=creepers'
     name 'Creepers'
     homepage 'http://www.dafont.com/creepers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Creepers.ttf'
 end

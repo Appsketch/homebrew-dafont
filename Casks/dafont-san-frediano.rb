@@ -5,7 +5,6 @@ cask 'dafont-san-frediano' do
     url 'http://dl.dafont.com/dl/?f=san_frediano'
     name 'San Frediano'
     homepage 'http://www.dafont.com/san-frediano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'san-frediano-bold-italic-03.otf'
     font 'san-frediano-bold.otf'

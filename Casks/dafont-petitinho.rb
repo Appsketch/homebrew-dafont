@@ -5,7 +5,6 @@ cask 'dafont-petitinho' do
     url 'http://dl.dafont.com/dl/?f=petitinho'
     name 'Petitinho'
     homepage 'http://www.dafont.com/petitinho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Petitinho.ttf'
 end

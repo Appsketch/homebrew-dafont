@@ -5,7 +5,6 @@ cask 'dafont-younger-brothers' do
     url 'http://dl.dafont.com/dl/?f=younger_brothers'
     name 'Younger Brothers'
     homepage 'http://www.dafont.com/younger-brothers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'youngerbros.ttf'
     font 'youngerbros3d.ttf'

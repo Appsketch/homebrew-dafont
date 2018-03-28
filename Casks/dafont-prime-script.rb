@@ -5,7 +5,6 @@ cask 'dafont-prime-script' do
     url 'http://dl.dafont.com/dl/?f=prime_script'
     name 'Prime Script'
     homepage 'http://www.dafont.com/prime-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrimeScript_PERSONAL_USE.ttf'
 end

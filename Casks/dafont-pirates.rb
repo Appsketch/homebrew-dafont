@@ -5,7 +5,6 @@ cask 'dafont-pirates' do
     url 'http://dl.dafont.com/dl/?f=pirates'
     name 'Pirates Gold'
     homepage 'http://www.dafont.com/pirates.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIRAG___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-haxrcorp-s12' do
     url 'http://dl.dafont.com/dl/?f=haxrcorp_s12'
     name 'HaxrCorp S12'
     homepage 'http://www.dafont.com/haxrcorp-s12.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HaxrCorp+S12.fon'
 end

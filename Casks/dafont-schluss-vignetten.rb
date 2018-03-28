@@ -5,7 +5,6 @@ cask 'dafont-schluss-vignetten' do
     url 'http://dl.dafont.com/dl/?f=schluss_vignetten'
     name 'Schluss Vignetten'
     homepage 'http://www.dafont.com/schluss-vignetten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Schluss-Vignetten.ttf'
 end

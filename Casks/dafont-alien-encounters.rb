@@ -5,7 +5,6 @@ cask 'dafont-alien-encounters' do
     url 'http://dl.dafont.com/dl/?f=alien_encounters'
     name 'Alien Encounters'
     homepage 'http://www.dafont.com/alien-encounters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alien-Encounters-Bold-Italic.ttf'
     font 'Alien-Encounters-Bold.ttf'

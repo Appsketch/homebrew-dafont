@@ -5,7 +5,6 @@ cask 'dafont-mama-love' do
     url 'http://dl.dafont.com/dl/?f=mama_love'
     name 'Mama Love'
     homepage 'http://www.dafont.com/mama-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MamaLove.ttf'
 end

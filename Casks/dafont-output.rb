@@ -5,7 +5,6 @@ cask 'dafont-output' do
     url 'http://dl.dafont.com/dl/?f=output'
     name 'Output'
     homepage 'http://www.dafont.com/output.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Output.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mb-indigit' do
     url 'http://dl.dafont.com/dl/?f=mb_indigit'
     name 'MB InDigit'
     homepage 'http://www.dafont.com/mb-indigit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-InDigit_Font.ttf'
 end

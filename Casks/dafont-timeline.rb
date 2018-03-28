@@ -5,7 +5,6 @@ cask 'dafont-timeline' do
     url 'http://dl.dafont.com/dl/?f=timeline'
     name 'Timeline'
     homepage 'http://www.dafont.com/timeline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Timeline.ttf'
 end

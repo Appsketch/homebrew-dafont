@@ -5,7 +5,6 @@ cask 'dafont-xxii-ultimate-black-metal' do
     url 'http://dl.dafont.com/dl/?f=xxii_ultimate_black_metal'
     name 'XXII Ultimate Black Metal'
     homepage 'http://www.dafont.com/xxii-ultimate-black-metal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XXII Ultimate-Black-Metal.ttf'
 end

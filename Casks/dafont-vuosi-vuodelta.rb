@@ -5,7 +5,6 @@ cask 'dafont-vuosi-vuodelta' do
     url 'http://dl.dafont.com/dl/?f=vuosi_vuodelta'
     name 'Vuosi Vuodelta'
     homepage 'http://www.dafont.com/vuosi-vuodelta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vuosi vuodelta.ttf'
 end

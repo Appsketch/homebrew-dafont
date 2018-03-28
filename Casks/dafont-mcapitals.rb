@@ -5,7 +5,6 @@ cask 'dafont-mcapitals' do
     url 'http://dl.dafont.com/dl/?f=mcapitals'
     name 'MCapitals'
     homepage 'http://www.dafont.com/mcapitals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MCapitals.ttf'
 end

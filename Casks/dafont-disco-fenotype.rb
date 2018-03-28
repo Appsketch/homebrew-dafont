@@ -5,7 +5,6 @@ cask 'dafont-disco-fenotype' do
     url 'http://dl.dafont.com/dl/?f=disco_fenotype'
     name 'Disco'
     homepage 'http://www.dafont.com/disco-fenotype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DISCO1__.TTF'
     font 'Disco3.ttf'

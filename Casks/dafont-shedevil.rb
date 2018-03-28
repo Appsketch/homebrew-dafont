@@ -5,7 +5,6 @@ cask 'dafont-shedevil' do
     url 'http://dl.dafont.com/dl/?f=shedevil'
     name 'She Devil'
     homepage 'http://www.dafont.com/shedevil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SheDevil.ttf'
 end

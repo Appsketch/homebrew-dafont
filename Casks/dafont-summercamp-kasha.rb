@@ -5,7 +5,6 @@ cask 'dafont-summercamp-kasha' do
     url 'http://dl.dafont.com/dl/?f=summercamp_kasha'
     name 'Summercamp Kasha'
     homepage 'http://www.dafont.com/summercamp-kasha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'summek__.ttf'
     font 'summeks_.ttf'

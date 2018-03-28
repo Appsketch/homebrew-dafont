@@ -5,7 +5,6 @@ cask 'dafont-relief-bd' do
     url 'http://dl.dafont.com/dl/?f=relief_bd'
     name 'Relief BD'
     homepage 'http://www.dafont.com/relief-bd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Relief BD.ttf'
 end

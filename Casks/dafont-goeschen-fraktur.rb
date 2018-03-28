@@ -5,7 +5,6 @@ cask 'dafont-goeschen-fraktur' do
     url 'http://dl.dafont.com/dl/?f=goeschen_fraktur'
     name 'Goeschen Fraktur'
     homepage 'http://www.dafont.com/goeschen-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Goeschen.ttf'
 end

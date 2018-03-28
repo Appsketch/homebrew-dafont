@@ -5,7 +5,6 @@ cask 'dafont-horizon' do
     url 'http://dl.dafont.com/dl/?f=horizon'
     name 'Horizon'
     homepage 'http://www.dafont.com/horizon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Horizon Italic.otf'
     font 'Horizon.otf'

@@ -5,7 +5,6 @@ cask 'dafont-justaword' do
     url 'http://dl.dafont.com/dl/?f=justaword'
     name 'Justaword'
     homepage 'http://www.dafont.com/justaword.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Justaword.ttf'
 end

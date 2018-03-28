@@ -5,7 +5,6 @@ cask 'dafont-the-great-thunder' do
     url 'http://dl.dafont.com/dl/?f=the_great_thunder'
     name 'The Great Thunder'
     homepage 'http://www.dafont.com/the-great-thunder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Great Thunder.ttf'
 end

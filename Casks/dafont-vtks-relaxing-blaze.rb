@@ -5,7 +5,6 @@ cask 'dafont-vtks-relaxing-blaze' do
     url 'http://dl.dafont.com/dl/?f=vtks_relaxing_blaze'
     name 'Vtks Relaxing Blaze'
     homepage 'http://www.dafont.com/vtks-relaxing-blaze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Relaxing Blaze.ttf'
 end

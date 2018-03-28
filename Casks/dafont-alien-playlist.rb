@@ -5,7 +5,6 @@ cask 'dafont-alien-playlist' do
     url 'http://dl.dafont.com/dl/?f=alien_playlist'
     name 'Alien Playlist'
     homepage 'http://www.dafont.com/alien-playlist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alien Playlist.ttf'
 end

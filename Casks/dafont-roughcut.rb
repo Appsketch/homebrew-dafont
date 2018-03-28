@@ -5,7 +5,6 @@ cask 'dafont-roughcut' do
     url 'http://dl.dafont.com/dl/?f=roughcut'
     name 'Rough Cut'
     homepage 'http://www.dafont.com/roughcut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RoughCut.ttf'
 end

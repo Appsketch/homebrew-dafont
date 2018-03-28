@@ -5,7 +5,6 @@ cask 'dafont-thug' do
     url 'http://dl.dafont.com/dl/?f=thug'
     name 'Thug'
     homepage 'http://www.dafont.com/thug.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THUG____.TTF'
 end

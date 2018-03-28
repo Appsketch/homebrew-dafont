@@ -5,7 +5,6 @@ cask 'dafont-elven-common-speak' do
     url 'http://dl.dafont.com/dl/?f=elven_common_speak'
     name 'Elven Common Speak'
     homepage 'http://www.dafont.com/elven-common-speak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'elvencommonspeak.ttf'
 end

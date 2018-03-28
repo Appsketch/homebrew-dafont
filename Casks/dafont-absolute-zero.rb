@@ -5,7 +5,6 @@ cask 'dafont-absolute-zero' do
     url 'http://dl.dafont.com/dl/?f=absolute_zero'
     name 'Absolute Zero'
     homepage 'http://www.dafont.com/absolute-zero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Absolute Zero Italic.otf'
     font 'Absolute Zero.otf'

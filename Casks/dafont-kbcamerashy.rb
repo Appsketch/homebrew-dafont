@@ -5,7 +5,6 @@ cask 'dafont-kbcamerashy' do
     url 'http://dl.dafont.com/dl/?f=kbcamerashy'
     name 'KB Camera Shy'
     homepage 'http://www.dafont.com/kbcamerashy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBCameraShy.ttf'
 end

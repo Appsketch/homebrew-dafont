@@ -5,7 +5,6 @@ cask 'dafont-fineness' do
     url 'http://dl.dafont.com/dl/?f=fineness'
     name 'Fineness'
     homepage 'http://www.dafont.com/fineness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fineness Bold.ttf'
     font 'Fineness Light.ttf'

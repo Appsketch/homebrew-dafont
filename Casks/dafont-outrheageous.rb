@@ -5,7 +5,6 @@ cask 'dafont-outrheageous' do
     url 'http://dl.dafont.com/dl/?f=outrheageous'
     name 'Outrheageous'
     homepage 'http://www.dafont.com/outrheageous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Outrheageous.otf'
 end

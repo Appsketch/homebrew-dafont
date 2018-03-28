@@ -5,7 +5,6 @@ cask 'dafont-barkants' do
     url 'http://dl.dafont.com/dl/?f=barkants'
     name 'Barkants'
     homepage 'http://www.dafont.com/barkants.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BarkantsBlack.ttf'
     font 'BarkantsVit.ttf'

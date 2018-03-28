@@ -5,7 +5,6 @@ cask 'dafont-fh-euphoria' do
     url 'http://dl.dafont.com/dl/?f=fh_euphoria'
     name 'Fh Euphoria'
     homepage 'http://www.dafont.com/fh-euphoria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fh_Euphoria.otf'
 end

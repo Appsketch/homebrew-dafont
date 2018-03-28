@@ -5,7 +5,6 @@ cask 'dafont-cable-dingbats' do
     url 'http://dl.dafont.com/dl/?f=cable_dingbats'
     name 'Cable Dingbats'
     homepage 'http://www.dafont.com/cable-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CableDingbats.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-geometry-soft-pro' do
     url 'http://dl.dafont.com/dl/?f=geometry_soft_pro'
     name 'Geometry Soft Pro'
     homepage 'http://www.dafont.com/geometry-soft-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Geometry Soft Pro-Bold N.otf'
 end

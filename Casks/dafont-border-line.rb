@@ -5,7 +5,6 @@ cask 'dafont-border-line' do
     url 'http://dl.dafont.com/dl/?f=border_line'
     name 'Border Line'
     homepage 'http://www.dafont.com/border-line.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Border Line.ttf'
 end

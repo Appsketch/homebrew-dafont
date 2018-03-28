@@ -5,7 +5,6 @@ cask 'dafont-kg-life-is-messy' do
     url 'http://dl.dafont.com/dl/?f=kg_life_is_messy'
     name 'KG Life is Messy'
     homepage 'http://www.dafont.com/kg-life-is-messy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGLifeisMessy.ttf'
 end

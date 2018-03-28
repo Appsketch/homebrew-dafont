@@ -5,7 +5,6 @@ cask 'dafont-polyline-typo' do
     url 'http://dl.dafont.com/dl/?f=polyline_typo'
     name 'Polyline Typo'
     homepage 'http://www.dafont.com/polyline-typo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Polyline.ttf'
 end

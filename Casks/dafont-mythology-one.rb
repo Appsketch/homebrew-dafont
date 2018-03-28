@@ -5,7 +5,6 @@ cask 'dafont-mythology-one' do
     url 'http://dl.dafont.com/dl/?f=mythology_one'
     name 'Mythology One'
     homepage 'http://www.dafont.com/mythology-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MYTHOLOG.TTF'
 end

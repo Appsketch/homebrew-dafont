@@ -5,7 +5,6 @@ cask 'dafont-console-remix' do
     url 'http://dl.dafont.com/dl/?f=console_remix'
     name 'Console Remix'
     homepage 'http://www.dafont.com/console-remix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CONSRI__.TTF'
     font 'CONSRRG_.TTF'

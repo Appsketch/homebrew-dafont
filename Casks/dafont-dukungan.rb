@@ -5,7 +5,6 @@ cask 'dafont-dukungan' do
     url 'http://dl.dafont.com/dl/?f=dukungan'
     name 'Dukungan'
     homepage 'http://www.dafont.com/dukungan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dukungan.ttf'
 end

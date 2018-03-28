@@ -5,7 +5,6 @@ cask 'dafont-khedive' do
     url 'http://dl.dafont.com/dl/?f=khedive'
     name 'Khedive'
     homepage 'http://www.dafont.com/khedive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'khedive.ttf'
 end

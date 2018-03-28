@@ -5,7 +5,6 @@ cask 'dafont-lost-forever' do
     url 'http://dl.dafont.com/dl/?f=lost_forever'
     name 'Lost Forever'
     homepage 'http://www.dafont.com/lost-forever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOST.TTF'
 end

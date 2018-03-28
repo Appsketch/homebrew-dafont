@@ -5,7 +5,6 @@ cask 'dafont-panzer-dragoon' do
     url 'http://dl.dafont.com/dl/?f=panzer_dragoon'
     name 'Hoffmann'
     homepage 'http://www.dafont.com/panzer-dragoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hoffmann.TTF'
 end

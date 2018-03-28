@@ -5,7 +5,6 @@ cask 'dafont-fh-blue' do
     url 'http://dl.dafont.com/dl/?f=fh_blue'
     name 'Fh Blue'
     homepage 'http://www.dafont.com/fh-blue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fh_Blue.otf'
 end

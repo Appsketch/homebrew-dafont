@@ -5,7 +5,6 @@ cask 'dafont-rounded-vale' do
     url 'http://dl.dafont.com/dl/?f=rounded_vale'
     name 'Rounded Vale'
     homepage 'http://www.dafont.com/rounded-vale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'roundedvale.ttf'
 end

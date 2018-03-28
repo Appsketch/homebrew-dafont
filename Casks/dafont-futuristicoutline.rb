@@ -5,7 +5,6 @@ cask 'dafont-futuristicoutline' do
     url 'http://dl.dafont.com/dl/?f=futuristicoutline'
     name 'Futuristic Outline'
     homepage 'http://www.dafont.com/futuristicoutline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FuturisticOutline.ttf'
 end

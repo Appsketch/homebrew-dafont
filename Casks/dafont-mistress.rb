@@ -5,7 +5,6 @@ cask 'dafont-mistress' do
     url 'http://dl.dafont.com/dl/?f=mistress'
     name 'Mistress'
     homepage 'http://www.dafont.com/mistress.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MISTRESA.ttf'
     font 'MISTRESS.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-avant-que' do
     url 'http://dl.dafont.com/dl/?f=avant_que'
     name 'Avant que...'
     homepage 'http://www.dafont.com/avant-que.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'album-avantquelombre.ttf'
 end

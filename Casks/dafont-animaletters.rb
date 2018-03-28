@@ -5,7 +5,6 @@ cask 'dafont-animaletters' do
     url 'http://dl.dafont.com/dl/?f=animaletters'
     name 'Animaletters'
     homepage 'http://www.dafont.com/animaletters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Animaletters.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kristina' do
     url 'http://dl.dafont.com/dl/?f=kristina'
     name 'Kristina'
     homepage 'http://www.dafont.com/kristina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kristina.ttf'
 end

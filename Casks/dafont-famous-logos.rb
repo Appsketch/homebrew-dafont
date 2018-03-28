@@ -5,7 +5,6 @@ cask 'dafont-famous-logos' do
     url 'http://dl.dafont.com/dl/?f=famous_logos'
     name 'Famous Logos'
     homepage 'http://www.dafont.com/famous-logos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'famlogs_.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-smush' do
     url 'http://dl.dafont.com/dl/?f=smush'
     name 'Smush'
     homepage 'http://www.dafont.com/smush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smush Italic_demo.otf'
     font 'Smush Light Italic_demo.otf'

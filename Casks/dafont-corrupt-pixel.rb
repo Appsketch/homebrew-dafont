@@ -5,7 +5,6 @@ cask 'dafont-corrupt-pixel' do
     url 'http://dl.dafont.com/dl/?f=corrupt_pixel'
     name 'Corrupt Pixel'
     homepage 'http://www.dafont.com/corrupt-pixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'corrupt pixel 1.ttf'
 end

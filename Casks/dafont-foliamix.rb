@@ -5,7 +5,6 @@ cask 'dafont-foliamix' do
     url 'http://dl.dafont.com/dl/?f=foliamix'
     name 'Folia Mix'
     homepage 'http://www.dafont.com/foliamix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Folia Mix Regular.ttf'
 end

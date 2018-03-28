@@ -5,7 +5,6 @@ cask 'dafont-dejarnatt' do
     url 'http://dl.dafont.com/dl/?f=dejarnatt'
     name 'DeJarnatt'
     homepage 'http://www.dafont.com/dejarnatt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeJarnatt.ttf'
 end

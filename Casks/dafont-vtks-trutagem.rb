@@ -5,7 +5,6 @@ cask 'dafont-vtks-trutagem' do
     url 'http://dl.dafont.com/dl/?f=vtks_trutagem'
     name 'VTKS Trutagem'
     homepage 'http://www.dafont.com/vtks-trutagem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks trutagem.ttf'
 end

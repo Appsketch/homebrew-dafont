@@ -5,7 +5,6 @@ cask 'dafont-gravel' do
     url 'http://dl.dafont.com/dl/?f=gravel'
     name 'Gravel'
     homepage 'http://www.dafont.com/gravel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gravel.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-identify' do
     url 'http://dl.dafont.com/dl/?f=identify'
     name 'Identify'
     homepage 'http://www.dafont.com/identify.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'identify.ttf'
 end

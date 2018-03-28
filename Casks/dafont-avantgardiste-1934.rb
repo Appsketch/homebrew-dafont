@@ -5,7 +5,6 @@ cask 'dafont-avantgardiste-1934' do
     url 'http://dl.dafont.com/dl/?f=avantgardiste_1934'
     name 'Avantgardiste 1934'
     homepage 'http://www.dafont.com/avantgardiste-1934.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Avantgardiste 1934.ttf'
 end

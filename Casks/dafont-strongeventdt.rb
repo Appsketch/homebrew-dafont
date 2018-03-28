@@ -5,7 +5,6 @@ cask 'dafont-strongeventdt' do
     url 'http://dl.dafont.com/dl/?f=strongeventdt'
     name 'Strong Event DT'
     homepage 'http://www.dafont.com/strongeventdt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StrongEventDT.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-powell-antique' do
     url 'http://dl.dafont.com/dl/?f=powell_antique'
     name 'Powell Antique'
     homepage 'http://www.dafont.com/powell-antique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PowellAntique-Bold.ttf'
     font 'PowellAntique.ttf'

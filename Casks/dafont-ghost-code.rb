@@ -5,7 +5,6 @@ cask 'dafont-ghost-code' do
     url 'http://dl.dafont.com/dl/?f=ghost_code'
     name 'Ghost Code'
     homepage 'http://www.dafont.com/ghost-code.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ghost Code.ttf'
 end

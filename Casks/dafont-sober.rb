@@ -5,7 +5,6 @@ cask 'dafont-sober' do
     url 'http://dl.dafont.com/dl/?f=sober'
     name 'Sober'
     homepage 'http://www.dafont.com/sober.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sober.otf'
 end

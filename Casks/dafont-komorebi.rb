@@ -5,7 +5,6 @@ cask 'dafont-komorebi' do
     url 'http://dl.dafont.com/dl/?f=komorebi'
     name 'Komorebi'
     homepage 'http://www.dafont.com/komorebi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'komorebi.ttf'
 end

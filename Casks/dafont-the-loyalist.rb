@@ -5,7 +5,6 @@ cask 'dafont-the-loyalist' do
     url 'http://dl.dafont.com/dl/?f=the_loyalist'
     name 'The Loyalist'
     homepage 'http://www.dafont.com/the-loyalist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Loyalist.ttf'
 end

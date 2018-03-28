@@ -5,7 +5,6 @@ cask 'dafont-hierograf' do
     url 'http://dl.dafont.com/dl/?f=hierograf'
     name 'Hierograf'
     homepage 'http://www.dafont.com/hierograf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hierograf_PERSONAL.ttf'
     font 'HierografBlack_PERSONAL.ttf'

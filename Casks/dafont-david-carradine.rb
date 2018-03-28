@@ -5,7 +5,6 @@ cask 'dafont-david-carradine' do
     url 'http://dl.dafont.com/dl/?f=david_carradine'
     name 'David Carradine'
     homepage 'http://www.dafont.com/david-carradine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'David Carradine.ttf'
 end

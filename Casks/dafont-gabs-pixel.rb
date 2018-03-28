@@ -5,7 +5,6 @@ cask 'dafont-gabs-pixel' do
     url 'http://dl.dafont.com/dl/?f=gabs_pixel'
     name 'Gabs Pixel'
     homepage 'http://www.dafont.com/gabs-pixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gabs_pixel.ttf'
 end

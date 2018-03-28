@@ -5,7 +5,6 @@ cask 'dafont-nabatea' do
     url 'http://dl.dafont.com/dl/?f=nabatea'
     name 'Nabatea'
     homepage 'http://www.dafont.com/nabatea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nabatea-defharo.ttf'
 end

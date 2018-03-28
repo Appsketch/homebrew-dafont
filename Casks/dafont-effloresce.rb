@@ -5,7 +5,6 @@ cask 'dafont-effloresce' do
     url 'http://dl.dafont.com/dl/?f=effloresce'
     name 'Effloresce'
     homepage 'http://www.dafont.com/effloresce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'effloresce antique.ttf'
     font 'effloresce bd it.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-eclipsed-moon' do
     url 'http://dl.dafont.com/dl/?f=eclipsed_moon'
     name 'Eclipsed Moon'
     homepage 'http://www.dafont.com/eclipsed-moon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EclipsedMoon.ttf'
     font 'EclipsedMoonOutline.ttf'

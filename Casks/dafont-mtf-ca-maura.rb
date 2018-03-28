@@ -5,7 +5,6 @@ cask 'dafont-mtf-ca-maura' do
     url 'http://dl.dafont.com/dl/?f=mtf_ca_maura'
     name 'MTF Ca Maura'
     homepage 'http://www.dafont.com/mtf-ca-maura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Ca Maura.ttf'
 end

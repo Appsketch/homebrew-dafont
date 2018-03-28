@@ -5,7 +5,6 @@ cask 'dafont-fabada' do
     url 'http://dl.dafont.com/dl/?f=fabada'
     name 'Fabada'
     homepage 'http://www.dafont.com/fabada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fabada-regular.ttf'
 end

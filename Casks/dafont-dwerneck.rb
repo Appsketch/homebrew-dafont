@@ -5,7 +5,6 @@ cask 'dafont-dwerneck' do
     url 'http://dl.dafont.com/dl/?f=dwerneck'
     name 'Dwerneck'
     homepage 'http://www.dafont.com/dwerneck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dwerneck.ttf'
 end

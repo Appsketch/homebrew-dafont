@@ -5,7 +5,6 @@ cask 'dafont-knights-templar' do
     url 'http://dl.dafont.com/dl/?f=knights_templar'
     name 'Knights Templar'
     homepage 'http://www.dafont.com/knights-templar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Knight2.ttf'
 end

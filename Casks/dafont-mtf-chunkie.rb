@@ -5,7 +5,6 @@ cask 'dafont-mtf-chunkie' do
     url 'http://dl.dafont.com/dl/?f=mtf_chunkie'
     name 'MTF Chunkie'
     homepage 'http://www.dafont.com/mtf-chunkie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Chunkie.ttf'
 end

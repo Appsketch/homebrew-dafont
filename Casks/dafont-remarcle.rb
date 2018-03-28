@@ -5,7 +5,6 @@ cask 'dafont-remarcle' do
     url 'http://dl.dafont.com/dl/?f=remarcle'
     name 'Remarcle'
     homepage 'http://www.dafont.com/remarcle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Remarcle.ttf'
     font 'RemarcleLeft.ttf'

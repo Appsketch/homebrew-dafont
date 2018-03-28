@@ -5,7 +5,6 @@ cask 'dafont-kbwiggleworm' do
     url 'http://dl.dafont.com/dl/?f=kbwiggleworm'
     name 'KB Wiggle Worm'
     homepage 'http://www.dafont.com/kbwiggleworm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBWiggleWorm.ttf'
 end

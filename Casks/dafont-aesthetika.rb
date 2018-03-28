@@ -5,7 +5,6 @@ cask 'dafont-aesthetika' do
     url 'http://dl.dafont.com/dl/?f=aesthetika'
     name 'Aesthetika'
     homepage 'http://www.dafont.com/aesthetika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aesthetika.ttf'
 end

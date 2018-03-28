@@ -5,7 +5,6 @@ cask 'dafont-invisible' do
     url 'http://dl.dafont.com/dl/?f=invisible'
     name 'Invisible'
     homepage 'http://www.dafont.com/invisible.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Invisible.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-frasto' do
     url 'http://dl.dafont.com/dl/?f=frasto'
     name 'Frasto'
     homepage 'http://www.dafont.com/frasto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frasto.fon'
 end

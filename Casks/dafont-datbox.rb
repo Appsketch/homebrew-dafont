@@ -5,7 +5,6 @@ cask 'dafont-datbox' do
     url 'http://dl.dafont.com/dl/?f=datbox'
     name 'Dat Box'
     homepage 'http://www.dafont.com/datbox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DatBox.ttf'
 end

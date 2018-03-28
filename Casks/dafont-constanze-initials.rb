@@ -5,7 +5,6 @@ cask 'dafont-constanze-initials' do
     url 'http://dl.dafont.com/dl/?f=constanze_initials'
     name 'Constanze Initials'
     homepage 'http://www.dafont.com/constanze-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ConstanzeInitials.otf'
 end

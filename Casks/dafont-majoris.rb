@@ -5,7 +5,6 @@ cask 'dafont-majoris' do
     url 'http://dl.dafont.com/dl/?f=majoris'
     name 'Majoris'
     homepage 'http://www.dafont.com/majoris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Majoris_Italic.ttf'
     font 'Majoris.ttf'

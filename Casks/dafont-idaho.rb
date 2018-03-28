@@ -5,7 +5,6 @@ cask 'dafont-idaho' do
     url 'http://dl.dafont.com/dl/?f=idaho'
     name 'Idaho'
     homepage 'http://www.dafont.com/idaho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IDAHO_Conrad_Garner.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-my-dad-drives-me-crazy' do
     url 'http://dl.dafont.com/dl/?f=my_dad_drives_me_crazy'
     name 'My dad drives me crazy'
     homepage 'http://www.dafont.com/my-dad-drives-me-crazy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'my dad drives me crazy.ttf'
 end

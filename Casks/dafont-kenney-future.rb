@@ -5,7 +5,6 @@ cask 'dafont-kenney-future' do
     url 'http://dl.dafont.com/dl/?f=kenney_future'
     name 'Kenney Future'
     homepage 'http://www.dafont.com/kenney-future.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kenney Future Narrow.ttf'
     font 'Kenney Future Square.ttf'

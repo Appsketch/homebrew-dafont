@@ -5,7 +5,6 @@ cask 'dafont-dk-fledermaus' do
     url 'http://dl.dafont.com/dl/?f=dk_fledermaus'
     name 'DK Fledermaus'
     homepage 'http://www.dafont.com/dk-fledermaus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Fledermaus.otf'
 end

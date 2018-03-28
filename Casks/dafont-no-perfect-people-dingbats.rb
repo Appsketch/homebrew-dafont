@@ -5,7 +5,6 @@ cask 'dafont-no-perfect-people-dingbats' do
     url 'http://dl.dafont.com/dl/?f=no_perfect_people_dingbats'
     name 'No Perfect People Dingbats'
     homepage 'http://www.dafont.com/no-perfect-people-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'No Perfect People Dingbats.ttf'
 end

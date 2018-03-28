@@ -5,7 +5,6 @@ cask 'dafont-lemondrop' do
     url 'http://dl.dafont.com/dl/?f=lemondrop'
     name 'Lemondrop'
     homepage 'http://www.dafont.com/lemondrop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lemondrop Bold Italic.ttf'
     font 'Lemondrop Bold.ttf'

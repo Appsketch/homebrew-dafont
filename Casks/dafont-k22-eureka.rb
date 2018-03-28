@@ -5,7 +5,6 @@ cask 'dafont-k22-eureka' do
     url 'http://dl.dafont.com/dl/?f=k22_eureka'
     name 'K22 Eureka'
     homepage 'http://www.dafont.com/k22-eureka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K22 Eureka NoFrills/K22 Eureka NoFrills.ttf'
     font 'K22 Eureka/K22 Eureka.ttf'

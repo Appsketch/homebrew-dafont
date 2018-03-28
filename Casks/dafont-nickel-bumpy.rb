@@ -5,7 +5,6 @@ cask 'dafont-nickel-bumpy' do
     url 'http://dl.dafont.com/dl/?f=nickel_bumpy'
     name 'Nickel Bumpy'
     homepage 'http://www.dafont.com/nickel-bumpy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NickelBumpy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dealspinner-tbs' do
     url 'http://dl.dafont.com/dl/?f=dealspinner_tbs'
     name 'Dealspinner TBS'
     homepage 'http://www.dafont.com/dealspinner-tbs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dealspinner tbs_bold.ttf'
     font 'dealspinner tbs_boldital.ttf'

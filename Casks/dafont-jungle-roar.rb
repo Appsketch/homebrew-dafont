@@ -5,7 +5,6 @@ cask 'dafont-jungle-roar' do
     url 'http://dl.dafont.com/dl/?f=jungle_roar'
     name 'Jungle Roar'
     homepage 'http://www.dafont.com/jungle-roar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jungle Roar Bold.ttf'
     font 'Jungle Roar Regular.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-shadow-mole' do
     url 'http://dl.dafont.com/dl/?f=shadow_mole'
     name 'Shadow Mole'
     homepage 'http://www.dafont.com/shadow-mole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shadow Mole.ttf'
 end

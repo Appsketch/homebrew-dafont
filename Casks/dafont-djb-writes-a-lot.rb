@@ -5,7 +5,6 @@ cask 'dafont-djb-writes-a-lot' do
     url 'http://dl.dafont.com/dl/?f=djb_writes_a_lot'
     name 'DJB Writes a Lot'
     homepage 'http://www.dafont.com/djb-writes-a-lot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Writes a Lot.ttf'
 end

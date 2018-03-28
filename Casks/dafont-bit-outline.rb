@@ -5,7 +5,6 @@ cask 'dafont-bit-outline' do
     url 'http://dl.dafont.com/dl/?f=bit_outline'
     name 'Bit Outline'
     homepage 'http://www.dafont.com/bit-outline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bit_outline.ttf'
 end

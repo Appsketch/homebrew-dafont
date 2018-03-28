@@ -5,7 +5,6 @@ cask 'dafont-nosferotica' do
     url 'http://dl.dafont.com/dl/?f=nosferotica'
     name 'Nosferotica'
     homepage 'http://www.dafont.com/nosferotica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nosferotica.ttf'
 end

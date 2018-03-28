@@ -5,7 +5,6 @@ cask 'dafont-wood-is-good' do
     url 'http://dl.dafont.com/dl/?f=wood_is_good'
     name 'Wood is Good'
     homepage 'http://www.dafont.com/wood-is-good.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wood is Good.ttf'
 end

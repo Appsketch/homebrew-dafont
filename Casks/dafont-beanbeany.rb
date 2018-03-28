@@ -5,7 +5,6 @@ cask 'dafont-beanbeany' do
     url 'http://dl.dafont.com/dl/?f=beanbeany'
     name 'Bean Beany'
     homepage 'http://www.dafont.com/beanbeany.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bean Beany.ttf'
 end

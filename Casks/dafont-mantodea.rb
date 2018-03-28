@@ -5,7 +5,6 @@ cask 'dafont-mantodea' do
     url 'http://dl.dafont.com/dl/?f=mantodea'
     name 'Mantodea'
     homepage 'http://www.dafont.com/mantodea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mantodea_druck.ttf'
 end

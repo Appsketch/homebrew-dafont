@@ -5,7 +5,6 @@ cask 'dafont-kbnowwalkitout' do
     url 'http://dl.dafont.com/dl/?f=kbnowwalkitout'
     name 'KB Now Walk It Out'
     homepage 'http://www.dafont.com/kbnowwalkitout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBNowWalkItOut.ttf'
 end

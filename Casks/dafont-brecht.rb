@@ -5,7 +5,6 @@ cask 'dafont-brecht' do
     url 'http://dl.dafont.com/dl/?f=brecht'
     name 'Brecht'
     homepage 'http://www.dafont.com/brecht.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brecht.ttf'
 end

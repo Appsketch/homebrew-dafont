@@ -5,7 +5,6 @@ cask 'dafont-dingsbums-bats' do
     url 'http://dl.dafont.com/dl/?f=dingsbums_bats'
     name 'Dingsbums Bats'
     homepage 'http://www.dafont.com/dingsbums-bats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DingsbumsBats.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kabos-gyula' do
     url 'http://dl.dafont.com/dl/?f=kabos_gyula'
     name 'Kabos Gyula'
     homepage 'http://www.dafont.com/kabos-gyula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KABOG___.TTF'
 end

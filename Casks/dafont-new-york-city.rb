@@ -5,7 +5,6 @@ cask 'dafont-new-york-city' do
     url 'http://dl.dafont.com/dl/?f=new_york_city'
     name 'New York City'
     homepage 'http://www.dafont.com/new-york-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Newyorkcity.ttf'
 end

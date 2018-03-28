@@ -5,7 +5,6 @@ cask 'dafont-shakespeare-first-folio-font' do
     url 'http://dl.dafont.com/dl/?f=shakespeare_first_folio_font'
     name 'Shakespeare First Folio Font'
     homepage 'http://www.dafont.com/shakespeare-first-folio-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shakespeare First Folio Font.otf'
 end

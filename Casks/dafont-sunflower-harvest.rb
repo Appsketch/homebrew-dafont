@@ -5,7 +5,6 @@ cask 'dafont-sunflower-harvest' do
     url 'http://dl.dafont.com/dl/?f=sunflower_harvest'
     name 'Sunflower Harvest'
     homepage 'http://www.dafont.com/sunflower-harvest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sunflower Harvest.ttf'
 end

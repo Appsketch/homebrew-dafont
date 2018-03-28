@@ -5,7 +5,6 @@ cask 'dafont-existence' do
     url 'http://dl.dafont.com/dl/?f=existence'
     name 'Existence Light'
     homepage 'http://www.dafont.com/existence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExiL-TT/Existence-Light.ttf'
     font 'ExiSL-OT/Existence-StencilLight.otf'

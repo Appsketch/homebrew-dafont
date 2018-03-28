@@ -5,7 +5,6 @@ cask 'dafont-politik' do
     url 'http://dl.dafont.com/dl/?f=politik'
     name 'Politik'
     homepage 'http://www.dafont.com/politik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Politik Bold Italic.otf'
     font 'Politik Bold.otf'

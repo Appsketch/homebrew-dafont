@@ -5,7 +5,6 @@ cask 'dafont-king-cobra' do
     url 'http://dl.dafont.com/dl/?f=king_cobra'
     name 'King Cobra'
     homepage 'http://www.dafont.com/king-cobra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'king cobra.ttf'
 end

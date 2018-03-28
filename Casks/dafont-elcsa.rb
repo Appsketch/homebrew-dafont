@@ -5,7 +5,6 @@ cask 'dafont-elcsa' do
     url 'http://dl.dafont.com/dl/?f=elcsa'
     name 'Elcsa'
     homepage 'http://www.dafont.com/elcsa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elcsa.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rachel-kate' do
     url 'http://dl.dafont.com/dl/?f=rachel_kate'
     name 'Rachel Kate'
     homepage 'http://www.dafont.com/rachel-kate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rachel_Kate_Thick.ttf'
 end

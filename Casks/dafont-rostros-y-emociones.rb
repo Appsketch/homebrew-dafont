@@ -5,7 +5,6 @@ cask 'dafont-rostros-y-emociones' do
     url 'http://dl.dafont.com/dl/?f=rostros_y_emociones'
     name 'Rostros y emociones'
     homepage 'http://www.dafont.com/rostros-y-emociones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rostros y emociones.ttf'
 end

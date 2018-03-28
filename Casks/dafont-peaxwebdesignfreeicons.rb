@@ -5,7 +5,6 @@ cask 'dafont-peaxwebdesignfreeicons' do
     url 'http://dl.dafont.com/dl/?f=peaxwebdesignfreeicons'
     name 'Peax Webdesign Free Icons'
     homepage 'http://www.dafont.com/peaxwebdesignfreeicons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PeaxWebdesignFreeIcons.ttf'
 end

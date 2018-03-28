@@ -5,7 +5,6 @@ cask 'dafont-frail-sans' do
     url 'http://dl.dafont.com/dl/?f=frail_sans'
     name 'Frail Sans'
     homepage 'http://www.dafont.com/frail-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frail-SansBold.otf'
     font 'Frail-SansLight.otf'

@@ -5,7 +5,6 @@ cask 'dafont-shifty-chica-2' do
     url 'http://dl.dafont.com/dl/?f=shifty_chica_2'
     name 'Shifty Chica 2'
     homepage 'http://www.dafont.com/shifty-chica-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shifty chica 2.ttf'
 end

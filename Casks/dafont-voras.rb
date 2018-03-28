@@ -5,7 +5,6 @@ cask 'dafont-voras' do
     url 'http://dl.dafont.com/dl/?f=voras'
     name 'Voras'
     homepage 'http://www.dafont.com/voras.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Voras.ttf'
 end

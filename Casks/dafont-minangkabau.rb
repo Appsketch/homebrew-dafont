@@ -5,7 +5,6 @@ cask 'dafont-minangkabau' do
     url 'http://dl.dafont.com/dl/?f=minangkabau'
     name 'Minangkabau'
     homepage 'http://www.dafont.com/minangkabau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minangkabau.TTF'
 end

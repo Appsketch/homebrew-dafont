@@ -5,7 +5,6 @@ cask 'dafont-guacamayo' do
     url 'http://dl.dafont.com/dl/?f=guacamayo'
     name 'Guacamayo'
     homepage 'http://www.dafont.com/guacamayo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'guacamayo.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cyankonabe-g' do
     url 'http://dl.dafont.com/dl/?f=cyankonabe_g'
     name 'Cyankonabe G'
     homepage 'http://www.dafont.com/cyankonabe-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_cyankonabe.ttf'
 end

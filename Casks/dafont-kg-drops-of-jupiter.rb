@@ -5,7 +5,6 @@ cask 'dafont-kg-drops-of-jupiter' do
     url 'http://dl.dafont.com/dl/?f=kg_drops_of_jupiter'
     name 'KG Drops of Jupiter'
     homepage 'http://www.dafont.com/kg-drops-of-jupiter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGDropsofJupiter.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-complete' do
     url 'http://dl.dafont.com/dl/?f=complete'
     name 'Complete'
     homepage 'http://www.dafont.com/complete.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COMPLETI.OTF'
     font 'COMPLETP.OTF'

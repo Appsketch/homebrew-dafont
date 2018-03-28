@@ -5,7 +5,6 @@ cask 'dafont-erinnhandwriting' do
     url 'http://dl.dafont.com/dl/?f=erinnhandwriting'
     name 'Erinn Handwriting'
     homepage 'http://www.dafont.com/erinnhandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ErinnHandwriting.ttf'
 end

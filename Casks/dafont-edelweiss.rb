@@ -5,7 +5,6 @@ cask 'dafont-edelweiss' do
     url 'http://dl.dafont.com/dl/?f=edelweiss'
     name 'Edelweiss'
     homepage 'http://www.dafont.com/edelweiss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Edelweiss.ttf'
 end

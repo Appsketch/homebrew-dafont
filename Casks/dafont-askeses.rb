@@ -5,7 +5,6 @@ cask 'dafont-askeses' do
     url 'http://dl.dafont.com/dl/?f=askeses'
     name 'Askeses'
     homepage 'http://www.dafont.com/askeses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Askeses.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fertigbauhaus' do
     url 'http://dl.dafont.com/dl/?f=fertigbauhaus'
     name 'Fertig Bau Haus'
     homepage 'http://www.dafont.com/fertigbauhaus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FertigBauHaus.otf'
 end

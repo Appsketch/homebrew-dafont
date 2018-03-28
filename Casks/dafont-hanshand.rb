@@ -5,7 +5,6 @@ cask 'dafont-hanshand' do
     url 'http://dl.dafont.com/dl/?f=hanshand'
     name 'Hanshand'
     homepage 'http://www.dafont.com/hanshand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hanshand.TTF'
 end

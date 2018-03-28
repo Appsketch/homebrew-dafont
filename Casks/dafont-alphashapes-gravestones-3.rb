@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-gravestones-3' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_gravestones_3'
     name 'AlphaShapes gravestones 3'
     homepage 'http://www.dafont.com/alphashapes-gravestones-3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asgravestones3.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-effortless' do
     url 'http://dl.dafont.com/dl/?f=effortless'
     name 'Effortless'
     homepage 'http://www.dafont.com/effortless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'effortless.ttf'
 end

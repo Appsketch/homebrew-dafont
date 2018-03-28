@@ -5,7 +5,6 @@ cask 'dafont-readable' do
     url 'http://dl.dafont.com/dl/?f=readable'
     name 'Readable'
     homepage 'http://www.dafont.com/readable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'READABLE.ttf'
 end

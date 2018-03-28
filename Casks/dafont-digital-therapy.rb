@@ -5,7 +5,6 @@ cask 'dafont-digital-therapy' do
     url 'http://dl.dafont.com/dl/?f=digital_therapy'
     name 'Digital Therapy'
     homepage 'http://www.dafont.com/digital-therapy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DigitalTherapy-DEMO.ttf'
 end

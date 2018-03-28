@@ -5,7 +5,6 @@ cask 'dafont-djb-uncertain-tense' do
     url 'http://dl.dafont.com/dl/?f=djb_uncertain_tense'
     name 'DJB Uncertain Tense'
     homepage 'http://www.dafont.com/djb-uncertain-tense.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Uncertain Tense.ttf'
 end

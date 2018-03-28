@@ -5,7 +5,6 @@ cask 'dafont-urgently' do
     url 'http://dl.dafont.com/dl/?f=urgently'
     name 'Urgently'
     homepage 'http://www.dafont.com/urgently.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Urgently.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-white-elephant' do
     url 'http://dl.dafont.com/dl/?f=white_elephant'
     name 'White Elephant'
     homepage 'http://www.dafont.com/white-elephant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'White Elephant.ttf'
 end

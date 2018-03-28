@@ -5,7 +5,6 @@ cask 'dafont-liva' do
     url 'http://dl.dafont.com/dl/?f=liva'
     name 'Liva'
     homepage 'http://www.dafont.com/liva.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Liva.ttf'
 end

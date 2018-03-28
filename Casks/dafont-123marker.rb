@@ -5,7 +5,6 @@ cask 'dafont-123marker' do
     url 'http://dl.dafont.com/dl/?f=123marker'
     name '123 Marker'
     homepage 'http://www.dafont.com/123marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '123Marker.ttf'
 end

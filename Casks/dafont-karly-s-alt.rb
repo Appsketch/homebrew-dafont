@@ -5,7 +5,6 @@ cask 'dafont-karly-s-alt' do
     url 'http://dl.dafont.com/dl/?f=karly_s_alt'
     name 'Karlys Alt'
     homepage 'http://www.dafont.com/karly-s-alt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Karly_s_Alt.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-we-are-depraved' do
     url 'http://dl.dafont.com/dl/?f=we_are_depraved'
     name 'We are Depraved'
     homepage 'http://www.dafont.com/we-are-depraved.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WeareDepraved.ttf'
 end

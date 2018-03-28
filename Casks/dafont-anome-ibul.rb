@@ -5,7 +5,6 @@ cask 'dafont-anome-ibul' do
     url 'http://dl.dafont.com/dl/?f=anome_ibul'
     name 'Anome Ibul'
     homepage 'http://www.dafont.com/anome-ibul.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'anome ibul bold cursive.ttf'
     font 'anome ibul bold.ttf'

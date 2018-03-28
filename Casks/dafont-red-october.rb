@@ -5,7 +5,6 @@ cask 'dafont-red-october' do
     url 'http://dl.dafont.com/dl/?f=red_october'
     name 'Red October'
     homepage 'http://www.dafont.com/red-october.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Red October-Fat.ttf'
     font 'Red October-Regular.ttf'

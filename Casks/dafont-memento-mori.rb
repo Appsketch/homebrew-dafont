@@ -5,7 +5,6 @@ cask 'dafont-memento-mori' do
     url 'http://dl.dafont.com/dl/?f=memento_mori'
     name 'Memento Mori'
     homepage 'http://www.dafont.com/memento-mori.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MementoMori-Regular.ttf'
 end

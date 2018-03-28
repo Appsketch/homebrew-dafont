@@ -5,7 +5,6 @@ cask 'dafont-gi-colton' do
     url 'http://dl.dafont.com/dl/?f=gi_colton'
     name 'GI Colton'
     homepage 'http://www.dafont.com/gi-colton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GI Colton Italic.otf'
     font 'GI Colton.otf'

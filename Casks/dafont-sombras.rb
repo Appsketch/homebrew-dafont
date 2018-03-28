@@ -5,7 +5,6 @@ cask 'dafont-sombras' do
     url 'http://dl.dafont.com/dl/?f=sombras'
     name 'Sombras'
     homepage 'http://www.dafont.com/sombras.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sombras-Jed_40.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-loved-by-the-king' do
     url 'http://dl.dafont.com/dl/?f=loved_by_the_king'
     name 'Loved by the King'
     homepage 'http://www.dafont.com/loved-by-the-king.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LovedbytheKing.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ras-hand' do
     url 'http://dl.dafont.com/dl/?f=ras_hand'
     name 'Ra&#039;s Hand'
     homepage 'http://www.dafont.com/ras-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RASHAND.TTF'
     font 'RASHH__.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-dexs-jobs' do
     url 'http://dl.dafont.com/dl/?f=dexs_jobs'
     name 'Dex&#039;s Jobs'
     homepage 'http://www.dafont.com/dexs-jobs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dex&#039;s Jobs.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-just-me-again-down-here' do
     url 'http://dl.dafont.com/dl/?f=just_me_again_down_here'
     name 'Just Me Again Down Here'
     homepage 'http://www.dafont.com/just-me-again-down-here.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustMeAgainDownHere.ttf'
 end

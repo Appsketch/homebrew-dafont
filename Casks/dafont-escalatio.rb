@@ -5,7 +5,6 @@ cask 'dafont-escalatio' do
     url 'http://dl.dafont.com/dl/?f=escalatio'
     name 'Escalatio'
     homepage 'http://www.dafont.com/escalatio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Escalatio.otf'
 end

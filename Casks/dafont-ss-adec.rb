@@ -5,7 +5,6 @@ cask 'dafont-ss-adec' do
     url 'http://dl.dafont.com/dl/?f=ss_adec'
     name 'SS Adec'
     homepage 'http://www.dafont.com/ss-adec.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SS_Adec2.0_initials.ttf'
     font 'SS_Adec2.0_main.ttf'

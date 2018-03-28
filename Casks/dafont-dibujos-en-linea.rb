@@ -5,7 +5,6 @@ cask 'dafont-dibujos-en-linea' do
     url 'http://dl.dafont.com/dl/?f=dibujos_en_linea'
     name 'Dibujos en Linea'
     homepage 'http://www.dafont.com/dibujos-en-linea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIBUJOSE.TTF'
 end

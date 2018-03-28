@@ -5,7 +5,6 @@ cask 'dafont-eagle-strike' do
     url 'http://dl.dafont.com/dl/?f=eagle_strike'
     name 'Eagle Strike'
     homepage 'http://www.dafont.com/eagle-strike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eaglestrike.ttf'
     font 'eaglestrike3d.ttf'

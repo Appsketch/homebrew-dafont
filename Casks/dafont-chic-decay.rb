@@ -5,7 +5,6 @@ cask 'dafont-chic-decay' do
     url 'http://dl.dafont.com/dl/?f=chic_decay'
     name 'Chic Decay'
     homepage 'http://www.dafont.com/chic-decay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chic_decay.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-margarosa' do
     url 'http://dl.dafont.com/dl/?f=margarosa'
     name 'Margarosa'
     homepage 'http://www.dafont.com/margarosa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Margarosa.ttf'
 end

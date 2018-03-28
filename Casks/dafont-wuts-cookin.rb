@@ -5,7 +5,6 @@ cask 'dafont-wuts-cookin' do
     url 'http://dl.dafont.com/dl/?f=wuts_cookin'
     name 'Wuts Cookin'
     homepage 'http://www.dafont.com/wuts-cookin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WUTSC___.TTF'
 end

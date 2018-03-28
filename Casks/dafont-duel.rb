@@ -5,7 +5,6 @@ cask 'dafont-duel' do
     url 'http://dl.dafont.com/dl/?f=duel'
     name 'Duel'
     homepage 'http://www.dafont.com/duel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Duel.ttf'
 end

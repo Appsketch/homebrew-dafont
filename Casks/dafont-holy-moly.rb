@@ -5,7 +5,6 @@ cask 'dafont-holy-moly' do
     url 'http://dl.dafont.com/dl/?f=holy_moly'
     name 'Holy Moly'
     homepage 'http://www.dafont.com/holy-moly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HolyMoly.ttf'
     font 'HolyMolylight.ttf'

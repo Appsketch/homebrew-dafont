@@ -5,7 +5,6 @@ cask 'dafont-figurehead-experiment' do
     url 'http://dl.dafont.com/dl/?f=figurehead_experiment'
     name 'Figurehead Experiment'
     homepage 'http://www.dafont.com/figurehead-experiment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'figureheadexperiment.ttf'
 end

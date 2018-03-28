@@ -5,7 +5,6 @@ cask 'dafont-together' do
     url 'http://dl.dafont.com/dl/?f=together'
     name 'Together'
     homepage 'http://www.dafont.com/together.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Together.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-endrophenomeua' do
     url 'http://dl.dafont.com/dl/?f=endrophenomeua'
     name 'Endrophenomeua'
     homepage 'http://www.dafont.com/endrophenomeua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Endrophenomeua.ttf'
 end

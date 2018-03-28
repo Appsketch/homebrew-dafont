@@ -5,7 +5,6 @@ cask 'dafont-ww-beary-special' do
     url 'http://dl.dafont.com/dl/?f=ww_beary_special'
     name 'WW Beary Special'
     homepage 'http://www.dafont.com/ww-beary-special.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WWBearySpecial.ttf'
 end

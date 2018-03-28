@@ -5,7 +5,6 @@ cask 'dafont-true-2d' do
     url 'http://dl.dafont.com/dl/?f=true_2d'
     name 'True 2D'
     homepage 'http://www.dafont.com/true-2d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'True2D Outline.ttf'
     font 'True2D.otf'

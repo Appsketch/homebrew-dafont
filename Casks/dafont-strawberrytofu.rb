@@ -5,7 +5,6 @@ cask 'dafont-strawberrytofu' do
     url 'http://dl.dafont.com/dl/?f=strawberrytofu'
     name 'Strawberry Tofu'
     homepage 'http://www.dafont.com/strawberrytofu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StrawberryTofu.ttf'
 end

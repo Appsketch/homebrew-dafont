@@ -5,7 +5,6 @@ cask 'dafont-versu' do
     url 'http://dl.dafont.com/dl/?f=versu'
     name 'Versu'
     homepage 'http://www.dafont.com/versu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VERSU___.TTF'
 end

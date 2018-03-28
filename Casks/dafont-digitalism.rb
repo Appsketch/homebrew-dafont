@@ -5,7 +5,6 @@ cask 'dafont-digitalism' do
     url 'http://dl.dafont.com/dl/?f=digitalism'
     name 'Digitalism'
     homepage 'http://www.dafont.com/digitalism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'digitalism.ttf'
 end

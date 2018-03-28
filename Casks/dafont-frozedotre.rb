@@ -5,7 +5,6 @@ cask 'dafont-frozedotre' do
     url 'http://dl.dafont.com/dl/?f=frozedotre'
     name 'Frozedotre'
     homepage 'http://www.dafont.com/frozedotre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'frozdotre.ttf'
 end

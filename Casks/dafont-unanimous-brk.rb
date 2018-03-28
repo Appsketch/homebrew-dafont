@@ -5,7 +5,6 @@ cask 'dafont-unanimous-brk' do
     url 'http://dl.dafont.com/dl/?f=unanimous_brk'
     name 'Unanimous BRK'
     homepage 'http://www.dafont.com/unanimous-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'unanimo.ttf'
     font 'unanimoi.ttf'

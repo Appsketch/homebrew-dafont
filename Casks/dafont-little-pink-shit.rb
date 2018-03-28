@@ -5,7 +5,6 @@ cask 'dafont-little-pink-shit' do
     url 'http://dl.dafont.com/dl/?f=little_pink_shit'
     name 'Little Pink Shit'
     homepage 'http://www.dafont.com/little-pink-shit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Little_Pink_Shit.ttf'
 end

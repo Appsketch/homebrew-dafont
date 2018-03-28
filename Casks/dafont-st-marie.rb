@@ -5,7 +5,6 @@ cask 'dafont-st-marie' do
     url 'http://dl.dafont.com/dl/?f=st_marie'
     name 'St Marie'
     homepage 'http://www.dafont.com/st-marie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StMarie-Thin.otf'
 end

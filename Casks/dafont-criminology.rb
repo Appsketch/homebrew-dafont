@@ -5,7 +5,6 @@ cask 'dafont-criminology' do
     url 'http://dl.dafont.com/dl/?f=criminology'
     name 'Criminology'
     homepage 'http://www.dafont.com/criminology.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caution - Heavy to load/CriminologyDEMO.ttf'
 end

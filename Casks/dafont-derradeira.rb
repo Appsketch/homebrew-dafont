@@ -5,7 +5,6 @@ cask 'dafont-derradeira' do
     url 'http://dl.dafont.com/dl/?f=derradeira'
     name 'Derradeira'
     homepage 'http://www.dafont.com/derradeira.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Derradeira.ttf'
 end

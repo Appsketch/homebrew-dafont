@@ -5,7 +5,6 @@ cask 'dafont-anabel' do
     url 'http://dl.dafont.com/dl/?f=anabel'
     name 'Anabel'
     homepage 'http://www.dafont.com/anabel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anabel Alt.ttf'
     font 'Anabel.ttf'

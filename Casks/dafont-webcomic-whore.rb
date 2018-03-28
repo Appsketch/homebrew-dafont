@@ -5,7 +5,6 @@ cask 'dafont-webcomic-whore' do
     url 'http://dl.dafont.com/dl/?f=webcomic_whore'
     name 'Webcomic Whore'
     homepage 'http://www.dafont.com/webcomic-whore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'webcomic whore.ttf'
 end

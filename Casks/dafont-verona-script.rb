@@ -5,7 +5,6 @@ cask 'dafont-verona-script' do
     url 'http://dl.dafont.com/dl/?f=verona_script'
     name 'Verona Script'
     homepage 'http://www.dafont.com/verona-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Verona Script.ttf'
 end

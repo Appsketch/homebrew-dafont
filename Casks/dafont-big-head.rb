@@ -5,7 +5,6 @@ cask 'dafont-big-head' do
     url 'http://dl.dafont.com/dl/?f=big_head'
     name 'Big Head'
     homepage 'http://www.dafont.com/big-head.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'big_head.ttf'
 end

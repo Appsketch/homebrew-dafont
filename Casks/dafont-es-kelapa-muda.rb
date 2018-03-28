@@ -5,7 +5,6 @@ cask 'dafont-es-kelapa-muda' do
     url 'http://dl.dafont.com/dl/?f=es_kelapa_muda'
     name 'Es Kelapa Muda'
     homepage 'http://www.dafont.com/es-kelapa-muda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Es Kelapa Muda.otf'
 end

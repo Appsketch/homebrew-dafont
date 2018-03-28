@@ -5,7 +5,6 @@ cask 'dafont-trunkmill' do
     url 'http://dl.dafont.com/dl/?f=trunkmill'
     name 'Trunkmill'
     homepage 'http://www.dafont.com/trunkmill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trunkmill Oblique.ttf'
     font 'Trunkmill.ttf'

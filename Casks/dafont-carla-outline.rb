@@ -5,7 +5,6 @@ cask 'dafont-carla-outline' do
     url 'http://dl.dafont.com/dl/?f=carla_outline'
     name 'Carla Outline'
     homepage 'http://www.dafont.com/carla-outline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carla_outline.ttf'
 end

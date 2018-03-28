@@ -5,7 +5,6 @@ cask 'dafont-cassidy-loves-you' do
     url 'http://dl.dafont.com/dl/?f=cassidy_loves_you'
     name 'Cassidy Loves You'
     homepage 'http://www.dafont.com/cassidy-loves-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cassidy Loves You.ttf'
 end

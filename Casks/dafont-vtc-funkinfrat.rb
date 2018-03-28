@@ -5,7 +5,6 @@ cask 'dafont-vtc-funkinfrat' do
     url 'http://dl.dafont.com/dl/?f=vtc_funkinfrat'
     name 'VTC FunkinFrat'
     homepage 'http://www.dafont.com/vtc-funkinfrat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC FunkinFrat Regular.ttf'
 end

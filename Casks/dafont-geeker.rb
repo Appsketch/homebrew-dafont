@@ -5,7 +5,6 @@ cask 'dafont-geeker' do
     url 'http://dl.dafont.com/dl/?f=geeker'
     name 'Geeker'
     homepage 'http://www.dafont.com/geeker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GEEKB___.TTF'
     font 'GEEKRG__.TTF'

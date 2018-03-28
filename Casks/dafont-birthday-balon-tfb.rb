@@ -5,7 +5,6 @@ cask 'dafont-birthday-balon-tfb' do
     url 'http://dl.dafont.com/dl/?f=birthday_balon_tfb'
     name 'Birthday Balon TFB'
     homepage 'http://www.dafont.com/birthday-balon-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'birthday balon tfb.ttf'
 end

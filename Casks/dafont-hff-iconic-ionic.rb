@@ -5,7 +5,6 @@ cask 'dafont-hff-iconic-ionic' do
     url 'http://dl.dafont.com/dl/?f=hff_iconic_ionic'
     name 'HFF Iconic Ionic'
     homepage 'http://www.dafont.com/hff-iconic-ionic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Iconic Ionic.ttf'
 end

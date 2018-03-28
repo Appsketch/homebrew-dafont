@@ -5,7 +5,6 @@ cask 'dafont-ringling' do
     url 'http://dl.dafont.com/dl/?f=ringling'
     name 'Ringling'
     homepage 'http://www.dafont.com/ringling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ringling.ttf'
 end

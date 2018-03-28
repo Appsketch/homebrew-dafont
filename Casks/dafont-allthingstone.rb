@@ -5,7 +5,6 @@ cask 'dafont-allthingstone' do
     url 'http://dl.dafont.com/dl/?f=allthingstone'
     name 'Allthings Tone'
     homepage 'http://www.dafont.com/allthingstone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'allthingsTone.ttf'
 end

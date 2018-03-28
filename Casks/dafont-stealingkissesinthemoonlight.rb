@@ -5,7 +5,6 @@ cask 'dafont-stealingkissesinthemoonlight' do
     url 'http://dl.dafont.com/dl/?f=stealingkissesinthemoonlight'
     name 'Stealing kisses in the moon light'
     homepage 'http://www.dafont.com/stealingkissesinthemoonlight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stealingkissesinthemoonlight.ttf'
 end

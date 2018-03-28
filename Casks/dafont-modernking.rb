@@ -5,7 +5,6 @@ cask 'dafont-modernking' do
     url 'http://dl.dafont.com/dl/?f=modernking'
     name 'Modern King'
     homepage 'http://www.dafont.com/modernking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Modern King.ttf'
 end

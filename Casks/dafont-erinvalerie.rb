@@ -5,7 +5,6 @@ cask 'dafont-erinvalerie' do
     url 'http://dl.dafont.com/dl/?f=erinvalerie'
     name 'Erin Valerie'
     homepage 'http://www.dafont.com/erinvalerie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ErinValerie.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-atmosphere' do
     url 'http://dl.dafont.com/dl/?f=atmosphere'
     name 'Atmosphere'
     homepage 'http://www.dafont.com/atmosphere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Atmosphere-Bold.TTF'
     font 'Atmosphere-Light.TTF'

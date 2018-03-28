@@ -5,7 +5,6 @@ cask 'dafont-mb-evilghost' do
     url 'http://dl.dafont.com/dl/?f=mb_evilghost'
     name 'MB Evil Ghost'
     homepage 'http://www.dafont.com/mb-evilghost.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-EvilGhost_Font.ttf'
 end

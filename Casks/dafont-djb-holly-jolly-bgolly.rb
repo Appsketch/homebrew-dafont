@@ -5,7 +5,6 @@ cask 'dafont-djb-holly-jolly-bgolly' do
     url 'http://dl.dafont.com/dl/?f=djb_holly_jolly_bgolly'
     name 'DJB Holly Jolly B&#039;Golly'
     homepage 'http://www.dafont.com/djb-holly-jolly-bgolly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Holly Jolly B&#039;Golly.ttf'
 end

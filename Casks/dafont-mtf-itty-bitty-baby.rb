@@ -5,7 +5,6 @@ cask 'dafont-mtf-itty-bitty-baby' do
     url 'http://dl.dafont.com/dl/?f=mtf_itty_bitty_baby'
     name 'MTF Itty Bitty Baby'
     homepage 'http://www.dafont.com/mtf-itty-bitty-baby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Itty Bitty Baby.ttf'
 end

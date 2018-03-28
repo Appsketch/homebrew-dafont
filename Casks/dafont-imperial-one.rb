@@ -5,7 +5,6 @@ cask 'dafont-imperial-one' do
     url 'http://dl.dafont.com/dl/?f=imperial_one'
     name 'Imperial One'
     homepage 'http://www.dafont.com/imperial-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Imperial.otf'
 end

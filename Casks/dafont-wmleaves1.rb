@@ -5,7 +5,6 @@ cask 'dafont-wmleaves1' do
     url 'http://dl.dafont.com/dl/?f=wmleaves1'
     name 'WM Leaves 1'
     homepage 'http://www.dafont.com/wmleaves1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmleaves1.TTF'
 end

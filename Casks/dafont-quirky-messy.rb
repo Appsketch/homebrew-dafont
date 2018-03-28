@@ -5,7 +5,6 @@ cask 'dafont-quirky-messy' do
     url 'http://dl.dafont.com/dl/?f=quirky_messy'
     name 'Mf Quirky &amp; Messy'
     homepage 'http://www.dafont.com/quirky-messy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Quirky &amp; Messy.ttf'
 end

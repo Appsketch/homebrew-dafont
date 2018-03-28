@@ -5,7 +5,6 @@ cask 'dafont-cupcakefont' do
     url 'http://dl.dafont.com/dl/?f=cupcakefont'
     name 'Cupcake'
     homepage 'http://www.dafont.com/cupcakefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cupcake Font.ttf'
 end

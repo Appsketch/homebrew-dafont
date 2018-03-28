@@ -5,7 +5,6 @@ cask 'dafont-labmol' do
     url 'http://dl.dafont.com/dl/?f=labmol'
     name 'LabMol'
     homepage 'http://www.dafont.com/labmol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LabMol.ttf'
 end

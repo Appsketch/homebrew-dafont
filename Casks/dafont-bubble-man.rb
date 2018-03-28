@@ -5,7 +5,6 @@ cask 'dafont-bubble-man' do
     url 'http://dl.dafont.com/dl/?f=bubble_man'
     name 'BubbleMan'
     homepage 'http://www.dafont.com/bubble-man.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BubbleMan.ttf'
 end

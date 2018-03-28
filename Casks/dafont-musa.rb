@@ -5,7 +5,6 @@ cask 'dafont-musa' do
     url 'http://dl.dafont.com/dl/?f=musa'
     name 'Musa'
     homepage 'http://www.dafont.com/musa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Musa.ttf'
 end

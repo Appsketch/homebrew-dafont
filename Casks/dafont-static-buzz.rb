@@ -5,7 +5,6 @@ cask 'dafont-static-buzz' do
     url 'http://dl.dafont.com/dl/?f=static_buzz'
     name 'Static Buzz'
     homepage 'http://www.dafont.com/static-buzz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StaticBuzz.ttf'
 end

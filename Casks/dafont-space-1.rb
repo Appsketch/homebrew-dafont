@@ -5,7 +5,6 @@ cask 'dafont-space-1' do
     url 'http://dl.dafont.com/dl/?f=space_1'
     name 'Space 1'
     homepage 'http://www.dafont.com/space-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'space Xrebron.ttf'
 end

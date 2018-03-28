@@ -5,7 +5,6 @@ cask 'dafont-boodas-de-subtract' do
     url 'http://dl.dafont.com/dl/?f=boodas_de_subtract'
     name 'Boodas.de | Subtract'
     homepage 'http://www.dafont.com/boodas-de-subtract.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOODAS_Subtract.ttf'
 end

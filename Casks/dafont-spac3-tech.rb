@@ -5,7 +5,6 @@ cask 'dafont-spac3-tech' do
     url 'http://dl.dafont.com/dl/?f=spac3_tech'
     name 'Spac3 Tech'
     homepage 'http://www.dafont.com/spac3-tech.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spac3 tech free promo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-creatif' do
     url 'http://dl.dafont.com/dl/?f=creatif'
     name 'Creatif'
     homepage 'http://www.dafont.com/creatif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Creatif.ttf'
 end

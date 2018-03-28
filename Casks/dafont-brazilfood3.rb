@@ -5,7 +5,6 @@ cask 'dafont-brazilfood3' do
     url 'http://dl.dafont.com/dl/?f=brazilfood3'
     name 'Brazil Food 3'
     homepage 'http://www.dafont.com/brazilfood3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BrazilFood3.ttf'
 end

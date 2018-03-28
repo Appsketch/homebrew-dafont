@@ -5,7 +5,6 @@ cask 'dafont-26-woman' do
     url 'http://dl.dafont.com/dl/?f=26_woman'
     name '26Woman'
     homepage 'http://www.dafont.com/26-woman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '26woman.ttf'
 end

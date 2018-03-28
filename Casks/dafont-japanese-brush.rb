@@ -5,7 +5,6 @@ cask 'dafont-japanese-brush' do
     url 'http://dl.dafont.com/dl/?f=japanese_brush'
     name 'Japanese Brush'
     homepage 'http://www.dafont.com/japanese-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JAPAB___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chicpix' do
     url 'http://dl.dafont.com/dl/?f=chicpix'
     name 'Chicpix'
     homepage 'http://www.dafont.com/chicpix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHICPIX_.TTF'
 end

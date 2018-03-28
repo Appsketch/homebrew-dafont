@@ -5,7 +5,6 @@ cask 'dafont-suihou' do
     url 'http://dl.dafont.com/dl/?f=suihou'
     name 'Suihou'
     homepage 'http://www.dafont.com/suihou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Suihou.ttf'
 end

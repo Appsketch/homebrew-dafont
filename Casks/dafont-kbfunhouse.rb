@@ -5,7 +5,6 @@ cask 'dafont-kbfunhouse' do
     url 'http://dl.dafont.com/dl/?f=kbfunhouse'
     name 'KB Fun House'
     homepage 'http://www.dafont.com/kbfunhouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBFunHouse.ttf'
 end

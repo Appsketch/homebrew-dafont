@@ -5,7 +5,6 @@ cask 'dafont-slantgeo' do
     url 'http://dl.dafont.com/dl/?f=slantgeo'
     name 'Slant Geo'
     homepage 'http://www.dafont.com/slantgeo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SlantGeo.ttf'
 end

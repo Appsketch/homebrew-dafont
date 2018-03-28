@@ -5,7 +5,6 @@ cask 'dafont-llrounded' do
     url 'http://dl.dafont.com/dl/?f=llrounded'
     name 'LL Rounded'
     homepage 'http://www.dafont.com/llrounded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLROUNDE.TTF'
 end

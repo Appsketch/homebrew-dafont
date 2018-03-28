@@ -5,7 +5,6 @@ cask 'dafont-cf-cant-change-the-world' do
     url 'http://dl.dafont.com/dl/?f=cf_cant_change_the_world'
     name 'CF Cant Change The World'
     homepage 'http://www.dafont.com/cf-cant-change-the-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFCantChangeTheWorld-Regula.ttf'
 end

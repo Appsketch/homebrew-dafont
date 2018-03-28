@@ -5,7 +5,6 @@ cask 'dafont-cnstrct' do
     url 'http://dl.dafont.com/dl/?f=cnstrct'
     name 'CnstrcT'
     homepage 'http://www.dafont.com/cnstrct.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cnstrct.ttf'
 end

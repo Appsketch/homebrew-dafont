@@ -5,7 +5,6 @@ cask 'dafont-trognes' do
     url 'http://dl.dafont.com/dl/?f=trognes'
     name 'Trognes'
     homepage 'http://www.dafont.com/trognes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trognes.ttf'
 end

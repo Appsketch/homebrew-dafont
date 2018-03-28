@@ -5,7 +5,6 @@ cask 'dafont-pixeldraw' do
     url 'http://dl.dafont.com/dl/?f=pixeldraw'
     name 'Pixel Draw'
     homepage 'http://www.dafont.com/pixeldraw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixelDraw.ttf'
 end

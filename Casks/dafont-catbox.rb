@@ -5,7 +5,6 @@ cask 'dafont-catbox' do
     url 'http://dl.dafont.com/dl/?f=catbOx'
     name 'Catb&ouml;x'
     homepage 'http://www.dafont.com/catbOx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CATBx.ttf'
 end

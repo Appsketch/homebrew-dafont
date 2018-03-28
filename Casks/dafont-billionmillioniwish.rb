@@ -5,7 +5,6 @@ cask 'dafont-billionmillioniwish' do
     url 'http://dl.dafont.com/dl/?f=billionmillioniwish'
     name 'Billion Million I Wish'
     homepage 'http://www.dafont.com/billionmillioniwish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BillionMillionIWish.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sundance-neue' do
     url 'http://dl.dafont.com/dl/?f=sundance_neue'
     name 'Sundance Neue'
     homepage 'http://www.dafont.com/sundance-neue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUNDANCE-NEUE.ttf'
 end

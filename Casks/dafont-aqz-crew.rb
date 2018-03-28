@@ -5,7 +5,6 @@ cask 'dafont-aqz-crew' do
     url 'http://dl.dafont.com/dl/?f=aqz_crew'
     name 'AQZ Crew'
     homepage 'http://www.dafont.com/aqz-crew.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AQZCREW_.TTF'
 end

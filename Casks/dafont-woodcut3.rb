@@ -5,7 +5,6 @@ cask 'dafont-woodcut3' do
     url 'http://dl.dafont.com/dl/?f=woodcut3'
     name 'Woodcut'
     homepage 'http://www.dafont.com/woodcut3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcut.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-benjamin-franklin' do
     url 'http://dl.dafont.com/dl/?f=benjamin_franklin'
     name 'Benjamin Franklin'
     homepage 'http://www.dafont.com/benjamin-franklin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BenjaminFranklin.ttf'
 end

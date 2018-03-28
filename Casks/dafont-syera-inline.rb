@@ -5,7 +5,6 @@ cask 'dafont-syera-inline' do
     url 'http://dl.dafont.com/dl/?f=syera_inline'
     name 'Syera InLine'
     homepage 'http://www.dafont.com/syera-inline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'syera inline.ttf'
 end

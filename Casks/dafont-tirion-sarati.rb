@@ -5,7 +5,6 @@ cask 'dafont-tirion-sarati' do
     url 'http://dl.dafont.com/dl/?f=tirion_sarati'
     name 'Tirion Sarati'
     homepage 'http://www.dafont.com/tirion-sarati.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tirion.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-whatever-it-takes' do
     url 'http://dl.dafont.com/dl/?f=whatever_it_takes'
     name 'Whatever it takes'
     homepage 'http://www.dafont.com/whatever-it-takes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'whatever it takes bold.ttf'
     font 'whatever it takes.ttf'

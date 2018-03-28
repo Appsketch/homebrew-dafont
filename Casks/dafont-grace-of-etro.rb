@@ -5,7 +5,6 @@ cask 'dafont-grace-of-etro' do
     url 'http://dl.dafont.com/dl/?f=grace_of_etro'
     name 'Grace of Etro'
     homepage 'http://www.dafont.com/grace-of-etro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grace_of_etro.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-brushie-brushie' do
     url 'http://dl.dafont.com/dl/?f=brushie_brushie'
     name 'Brushie Brushie'
     homepage 'http://www.dafont.com/brushie-brushie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brushie Brushie.otf'
 end

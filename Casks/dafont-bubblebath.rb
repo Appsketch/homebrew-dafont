@@ -5,7 +5,6 @@ cask 'dafont-bubblebath' do
     url 'http://dl.dafont.com/dl/?f=bubblebath'
     name 'Bubble Bath'
     homepage 'http://www.dafont.com/bubblebath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BubbleBath.ttf'
 end

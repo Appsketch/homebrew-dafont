@@ -5,7 +5,6 @@ cask 'dafont-dopest' do
     url 'http://dl.dafont.com/dl/?f=dopest'
     name 'Dopest'
     homepage 'http://www.dafont.com/dopest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dopestbymarsnev.otf'
 end

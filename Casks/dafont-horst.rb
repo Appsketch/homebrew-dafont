@@ -5,7 +5,6 @@ cask 'dafont-horst' do
     url 'http://dl.dafont.com/dl/?f=horst'
     name 'Horst'
     homepage 'http://www.dafont.com/horst.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Horst___.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lavi' do
     url 'http://dl.dafont.com/dl/?f=lavi'
     name 'Lavi'
     homepage 'http://www.dafont.com/lavi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lavi.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-teenage-dream' do
     url 'http://dl.dafont.com/dl/?f=teenage_dream'
     name 'Teenage Dream'
     homepage 'http://www.dafont.com/teenage-dream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'teenage dream.ttf'
 end

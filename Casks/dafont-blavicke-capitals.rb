@@ -5,7 +5,6 @@ cask 'dafont-blavicke-capitals' do
     url 'http://dl.dafont.com/dl/?f=blavicke_capitals'
     name 'Blavicke Capitals'
     homepage 'http://www.dafont.com/blavicke-capitals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blavicke.ttf'
 end

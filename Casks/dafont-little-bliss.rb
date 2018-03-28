@@ -5,7 +5,6 @@ cask 'dafont-little-bliss' do
     url 'http://dl.dafont.com/dl/?f=little_bliss'
     name 'Little Bliss'
     homepage 'http://www.dafont.com/little-bliss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'little bliss bold.ttf'
     font 'little bliss.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-chrysalis' do
     url 'http://dl.dafont.com/dl/?f=chrysalis'
     name 'Chrysalis'
     homepage 'http://www.dafont.com/chrysalis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHRYF___.TTF'
     font 'CHRYSALI.TTF'

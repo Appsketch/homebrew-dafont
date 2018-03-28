@@ -5,7 +5,6 @@ cask 'dafont-pandastyle' do
     url 'http://dl.dafont.com/dl/?f=pandastyle'
     name 'Pandastyle'
     homepage 'http://www.dafont.com/pandastyle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pandastyle_fontlab.ttf'
 end

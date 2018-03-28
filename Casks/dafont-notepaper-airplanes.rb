@@ -5,7 +5,6 @@ cask 'dafont-notepaper-airplanes' do
     url 'http://dl.dafont.com/dl/?f=notepaper_airplanes'
     name 'Notepaper Airplanes'
     homepage 'http://www.dafont.com/notepaper-airplanes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Notepaper Airplanes Light.ttf'
     font 'Notepaper Airplanes.ttf'

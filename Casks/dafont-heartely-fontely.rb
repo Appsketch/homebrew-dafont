@@ -5,7 +5,6 @@ cask 'dafont-heartely-fontely' do
     url 'http://dl.dafont.com/dl/?f=heartely_fontely'
     name 'Heartely Fontely'
     homepage 'http://www.dafont.com/heartely-fontely.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heartely_Fontely.ttf'
 end

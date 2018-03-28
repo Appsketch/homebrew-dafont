@@ -5,7 +5,6 @@ cask 'dafont-zed-said' do
     url 'http://dl.dafont.com/dl/?f=zed_said'
     name 'Zed Said'
     homepage 'http://www.dafont.com/zed-said.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zed Said.otf'
 end

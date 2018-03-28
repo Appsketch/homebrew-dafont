@@ -5,7 +5,6 @@ cask 'dafont-vtks-rock-garage-band' do
     url 'http://dl.dafont.com/dl/?f=vtks_rock_garage_band'
     name 'VTKS Rock Garage Band'
     homepage 'http://www.dafont.com/vtks-rock-garage-band.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS ROCK GARAGE BAND.ttf'
 end

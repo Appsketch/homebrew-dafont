@@ -5,7 +5,6 @@ cask 'dafont-bigmacca' do
     url 'http://dl.dafont.com/dl/?f=bigmacca'
     name 'Bigmacca'
     homepage 'http://www.dafont.com/bigmacca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bigmacca.ttf'
 end

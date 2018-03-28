@@ -5,7 +5,6 @@ cask 'dafont-desyminicakes' do
     url 'http://dl.dafont.com/dl/?f=desyminicakes'
     name 'Desy Mini Cakes'
     homepage 'http://www.dafont.com/desyminicakes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DesyMiniCakes.ttf'
 end

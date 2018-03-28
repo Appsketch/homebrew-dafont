@@ -5,7 +5,6 @@ cask 'dafont-allegrocartoon' do
     url 'http://dl.dafont.com/dl/?f=allegrocartoon'
     name 'Allegro Cartoon'
     homepage 'http://www.dafont.com/allegrocartoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'allegro.ttf'
 end

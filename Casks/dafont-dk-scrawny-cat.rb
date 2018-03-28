@@ -5,7 +5,6 @@ cask 'dafont-dk-scrawny-cat' do
     url 'http://dl.dafont.com/dl/?f=dk_scrawny_cat'
     name 'DK Scrawny Cat'
     homepage 'http://www.dafont.com/dk-scrawny-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Scrawny Cat.otf'
 end

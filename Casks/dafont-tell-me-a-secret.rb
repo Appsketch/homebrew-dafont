@@ -5,7 +5,6 @@ cask 'dafont-tell-me-a-secret' do
     url 'http://dl.dafont.com/dl/?f=tell_me_a_secret'
     name 'Tell me a secret'
     homepage 'http://www.dafont.com/tell-me-a-secret.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tell me a secret light.ttf'
     font 'Tell me a secret.ttf'

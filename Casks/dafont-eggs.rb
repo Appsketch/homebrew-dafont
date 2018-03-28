@@ -5,7 +5,6 @@ cask 'dafont-eggs' do
     url 'http://dl.dafont.com/dl/?f=eggs'
     name 'Eggs'
     homepage 'http://www.dafont.com/eggs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EGGS.TTF'
 end

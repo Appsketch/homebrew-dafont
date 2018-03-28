@@ -5,7 +5,6 @@ cask 'dafont-antelope' do
     url 'http://dl.dafont.com/dl/?f=antelope'
     name 'Antelope'
     homepage 'http://www.dafont.com/antelope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Antelope.ttf'
 end

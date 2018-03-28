@@ -5,7 +5,6 @@ cask 'dafont-cf-one-two-trees' do
     url 'http://dl.dafont.com/dl/?f=cf_one_two_trees'
     name 'CF One Two Trees'
     homepage 'http://www.dafont.com/cf-one-two-trees.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFOneTwoTrees-Regular.ttf'
 end

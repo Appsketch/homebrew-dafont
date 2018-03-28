@@ -5,7 +5,6 @@ cask 'dafont-head-versus-heart' do
     url 'http://dl.dafont.com/dl/?f=head_versus_heart'
     name 'Head Versus Heart'
     homepage 'http://www.dafont.com/head-versus-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Head Versus Heart.ttf'
 end

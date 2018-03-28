@@ -5,7 +5,6 @@ cask 'dafont-signs-for-advertising' do
     url 'http://dl.dafont.com/dl/?f=signs_for_advertising'
     name 'Signs for Advertising'
     homepage 'http://www.dafont.com/signs-for-advertising.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Signs for Advertising.ttf'
 end

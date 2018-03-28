@@ -5,7 +5,6 @@ cask 'dafont-prisonbreak' do
     url 'http://dl.dafont.com/dl/?f=prisonbreak'
     name 'Prison Break'
     homepage 'http://www.dafont.com/prisonbreak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrisonBreak.ttf'
 end

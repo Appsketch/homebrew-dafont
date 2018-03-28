@@ -5,7 +5,6 @@ cask 'dafont-sketch-toronto' do
     url 'http://dl.dafont.com/dl/?f=sketch_toronto'
     name 'Sketch Toronto'
     homepage 'http://www.dafont.com/sketch-toronto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketch Toronto.otf'
 end

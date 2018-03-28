@@ -5,7 +5,6 @@ cask 'dafont-stretched-electrons' do
     url 'http://dl.dafont.com/dl/?f=stretched_electrons'
     name 'Stretched Electrons'
     homepage 'http://www.dafont.com/stretched-electrons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stretched Electrons Italic.otf'
     font 'Stretched Electrons.otf'

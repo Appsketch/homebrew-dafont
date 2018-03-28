@@ -5,7 +5,6 @@ cask 'dafont-wei' do
     url 'http://dl.dafont.com/dl/?f=wei'
     name 'Wei'
     homepage 'http://www.dafont.com/wei.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wei.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wirwenzlaw-rough' do
     url 'http://dl.dafont.com/dl/?f=wirwenzlaw_rough'
     name 'WirWenzlaw Rough'
     homepage 'http://www.dafont.com/wirwenzlaw-rough.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wenzel1.ttf'
 end

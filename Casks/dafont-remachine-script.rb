@@ -5,7 +5,6 @@ cask 'dafont-remachine-script' do
     url 'http://dl.dafont.com/dl/?f=remachine_script'
     name 'Remachine Script'
     homepage 'http://www.dafont.com/remachine-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RemachineScript_Personal_Use.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-etrocketype' do
     url 'http://dl.dafont.com/dl/?f=etrocketype'
     name 'ET Rocketype'
     homepage 'http://www.dafont.com/etrocketype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ETROCKET.TTF'
 end

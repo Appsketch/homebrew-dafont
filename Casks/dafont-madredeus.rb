@@ -5,7 +5,6 @@ cask 'dafont-madredeus' do
     url 'http://dl.dafont.com/dl/?f=madredeus'
     name 'Madredeus'
     homepage 'http://www.dafont.com/madredeus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Madredeus.ttf'
 end

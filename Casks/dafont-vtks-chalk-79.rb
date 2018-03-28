@@ -5,7 +5,6 @@ cask 'dafont-vtks-chalk-79' do
     url 'http://dl.dafont.com/dl/?f=vtks_chalk_79'
     name 'Vtks Chalk 79'
     homepage 'http://www.dafont.com/vtks-chalk-79.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks chalk 79.ttf'
 end

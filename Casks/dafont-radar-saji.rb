@@ -5,7 +5,6 @@ cask 'dafont-radar-saji' do
     url 'http://dl.dafont.com/dl/?f=radar_saji'
     name 'Radar'
     homepage 'http://www.dafont.com/radar-saji.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caution - Heavy to load/RADAR.ttf'
 end

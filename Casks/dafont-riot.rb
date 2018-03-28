@@ -5,7 +5,6 @@ cask 'dafont-riot' do
     url 'http://dl.dafont.com/dl/?f=riot'
     name 'Riot!'
     homepage 'http://www.dafont.com/riot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RIOTfont1.ttf'
 end

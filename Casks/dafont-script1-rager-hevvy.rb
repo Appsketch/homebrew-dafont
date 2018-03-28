@@ -5,7 +5,6 @@ cask 'dafont-script1-rager-hevvy' do
     url 'http://dl.dafont.com/dl/?f=script1_rager_hevvy'
     name 'Script1 Rager Hevvy'
     homepage 'http://www.dafont.com/script1-rager-hevvy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCR1rahv RAGER HEVVY.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-khalijaka' do
     url 'http://dl.dafont.com/dl/?f=khalijaka'
     name 'Khalijaka'
     homepage 'http://www.dafont.com/khalijaka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Khalijaka-black.ttf'
     font 'Khalijaka-outline.ttf'

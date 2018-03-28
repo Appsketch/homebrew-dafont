@@ -5,7 +5,6 @@ cask 'dafont-passiontea' do
     url 'http://dl.dafont.com/dl/?f=passiontea'
     name 'Passion Tea'
     homepage 'http://www.dafont.com/passiontea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PassionTea.ttf'
 end

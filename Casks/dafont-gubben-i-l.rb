@@ -5,7 +5,6 @@ cask 'dafont-gubben-i-l' do
     url 'http://dl.dafont.com/dl/?f=gubben_i_l'
     name 'Gubben I L'
     homepage 'http://www.dafont.com/gubben-i-l.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GubbenIL.ttf'
 end

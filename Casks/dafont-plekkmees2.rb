@@ -5,7 +5,6 @@ cask 'dafont-plekkmees2' do
     url 'http://dl.dafont.com/dl/?f=plekkmees2'
     name 'Plekkmees 2'
     homepage 'http://www.dafont.com/plekkmees2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plekkmees2.ttf'
 end

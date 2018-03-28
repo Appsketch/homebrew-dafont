@@ -5,7 +5,6 @@ cask 'dafont-pwgraffiti' do
     url 'http://dl.dafont.com/dl/?f=pwgraffiti'
     name 'PW Graffiti'
     homepage 'http://www.dafont.com/pwgraffiti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWGraffiti.ttf'
 end

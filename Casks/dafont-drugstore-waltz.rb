@@ -5,7 +5,6 @@ cask 'dafont-drugstore-waltz' do
     url 'http://dl.dafont.com/dl/?f=drugstore_waltz'
     name 'Drugstore Waltz'
     homepage 'http://www.dafont.com/drugstore-waltz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drugstore_Waltz.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-naked' do
     url 'http://dl.dafont.com/dl/?f=naked'
     name 'Naked'
     homepage 'http://www.dafont.com/naked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NAKED.ttf'
 end

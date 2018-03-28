@@ -5,7 +5,6 @@ cask 'dafont-thuys-chicken-scratch' do
     url 'http://dl.dafont.com/dl/?f=thuys_chicken_scratch'
     name 'Thuys Chicken Scratch'
     homepage 'http://www.dafont.com/thuys-chicken-scratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thuyschickenscratch.ttf'
 end

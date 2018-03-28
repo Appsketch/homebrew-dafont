@@ -5,7 +5,6 @@ cask 'dafont-bucanera' do
     url 'http://dl.dafont.com/dl/?f=bucanera'
     name 'Bucanera'
     homepage 'http://www.dafont.com/bucanera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bucanera-font-FFP.otf'
 end

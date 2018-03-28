@@ -5,7 +5,6 @@ cask 'dafont-mickey-vintage' do
     url 'http://dl.dafont.com/dl/?f=mickey_vintage'
     name 'Mickey Vintage'
     homepage 'http://www.dafont.com/mickey-vintage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mickey Vintage.ttf'
 end

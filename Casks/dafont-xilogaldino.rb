@@ -5,7 +5,6 @@ cask 'dafont-xilogaldino' do
     url 'http://dl.dafont.com/dl/?f=xilogaldino'
     name 'Xilo Galdino'
     homepage 'http://www.dafont.com/xilogaldino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xilo Galdino Cast.ttf'
     font 'Xilo Galdino Outline.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-ready-steady-go' do
     url 'http://dl.dafont.com/dl/?f=ready_steady_go'
     name 'Ready Steady Go'
     homepage 'http://www.dafont.com/ready-steady-go.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ready steady go.ttf'
 end

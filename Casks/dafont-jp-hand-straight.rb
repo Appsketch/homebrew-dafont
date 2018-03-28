@@ -5,7 +5,6 @@ cask 'dafont-jp-hand-straight' do
     url 'http://dl.dafont.com/dl/?f=jp_hand_straight'
     name 'JP Hand Straight'
     homepage 'http://www.dafont.com/jp-hand-straight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JPHST.TTF'
 end

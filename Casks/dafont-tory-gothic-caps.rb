@@ -5,7 +5,6 @@ cask 'dafont-tory-gothic-caps' do
     url 'http://dl.dafont.com/dl/?f=tory_gothic_caps'
     name 'Tory Gothic Caps'
     homepage 'http://www.dafont.com/tory-gothic-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tory_Gothic_Caps.ttf'
 end

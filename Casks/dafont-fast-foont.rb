@@ -5,7 +5,6 @@ cask 'dafont-fast-foont' do
     url 'http://dl.dafont.com/dl/?f=fast_foont'
     name 'Fast Foont'
     homepage 'http://www.dafont.com/fast-foont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fast Foont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cf-life-is-beautiful' do
     url 'http://dl.dafont.com/dl/?f=cf_life_is_beautiful'
     name 'CF Life is beautiful'
     homepage 'http://www.dafont.com/cf-life-is-beautiful.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFLifeisbeautiful.ttf'
 end

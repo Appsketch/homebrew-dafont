@@ -5,7 +5,6 @@ cask 'dafont-headliner-no-45' do
     url 'http://dl.dafont.com/dl/?f=headliner_no_45'
     name 'Headliner No. 45'
     homepage 'http://www.dafont.com/headliner-no-45.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeadlinerNo.45 DEMO.ttf'
 end

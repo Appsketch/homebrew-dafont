@@ -5,7 +5,6 @@ cask 'dafont-mosaic-initials' do
     url 'http://dl.dafont.com/dl/?f=mosaic_initials'
     name 'Mosaic Initials'
     homepage 'http://www.dafont.com/mosaic-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mosaic_i.ttf'
     font 'MOSAIC_O.TTF'

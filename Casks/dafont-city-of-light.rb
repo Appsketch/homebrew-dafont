@@ -5,7 +5,6 @@ cask 'dafont-city-of-light' do
     url 'http://dl.dafont.com/dl/?f=city_of_light'
     name 'City of Light'
     homepage 'http://www.dafont.com/city-of-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'City of Light.ttf'
 end

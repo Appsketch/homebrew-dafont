@@ -5,7 +5,6 @@ cask 'dafont-mommy' do
     url 'http://dl.dafont.com/dl/?f=mommy'
     name 'Mommy'
     homepage 'http://www.dafont.com/mommy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mommy.ttf'
 end

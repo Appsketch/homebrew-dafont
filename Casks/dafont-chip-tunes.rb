@@ -5,7 +5,6 @@ cask 'dafont-chip-tunes' do
     url 'http://dl.dafont.com/dl/?f=chip_tunes'
     name 'Chip Tunes'
     homepage 'http://www.dafont.com/chip-tunes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChipTunes-Bold.otf'
     font 'ChipTunes-Regular.otf'

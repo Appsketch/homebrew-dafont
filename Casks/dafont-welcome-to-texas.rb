@@ -5,7 +5,6 @@ cask 'dafont-welcome-to-texas' do
     url 'http://dl.dafont.com/dl/?f=welcome_to_texas'
     name 'Welcome to Texas'
     homepage 'http://www.dafont.com/welcome-to-texas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WelcometoTexas.ttf'
 end

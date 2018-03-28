@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-summer-shadows' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_summer_shadows'
     name 'Woodcutter Summer Shadows'
     homepage 'http://www.dafont.com/woodcutter-summer-shadows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter Summer Shadows vers2.ttf'
 end

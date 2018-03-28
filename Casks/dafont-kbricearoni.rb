@@ -5,7 +5,6 @@ cask 'dafont-kbricearoni' do
     url 'http://dl.dafont.com/dl/?f=kbricearoni'
     name 'KB Ricea Roni'
     homepage 'http://www.dafont.com/kbricearoni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBRiceaRoni.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-freetiles' do
     url 'http://dl.dafont.com/dl/?f=freetiles'
     name 'Free Tiles'
     homepage 'http://www.dafont.com/freetiles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreeTiles.ttf'
 end

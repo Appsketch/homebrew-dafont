@@ -5,7 +5,6 @@ cask 'dafont-urkelian' do
     url 'http://dl.dafont.com/dl/?f=urkelian'
     name 'Urkelian'
     homepage 'http://www.dafont.com/urkelian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'urkelian.ttf'
 end

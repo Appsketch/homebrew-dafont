@@ -5,7 +5,6 @@ cask 'dafont-anoressic' do
     url 'http://dl.dafont.com/dl/?f=anoressic'
     name 'Anoressic'
     homepage 'http://www.dafont.com/anoressic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anoressic.otf'
 end

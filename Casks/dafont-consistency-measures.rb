@@ -5,7 +5,6 @@ cask 'dafont-consistency-measures' do
     url 'http://dl.dafont.com/dl/?f=consistency_measures'
     name 'Consistency Measures'
     homepage 'http://www.dafont.com/consistency-measures.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Consistency Measures.otf'
 end

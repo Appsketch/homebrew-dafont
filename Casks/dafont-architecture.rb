@@ -5,7 +5,6 @@ cask 'dafont-architecture' do
     url 'http://dl.dafont.com/dl/?f=architecture'
     name 'Architecture'
     homepage 'http://www.dafont.com/architecture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARCHITECTURE.ttf'
 end

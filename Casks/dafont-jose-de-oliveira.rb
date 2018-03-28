@@ -5,7 +5,6 @@ cask 'dafont-jose-de-oliveira' do
     url 'http://dl.dafont.com/dl/?f=jose_de_oliveira'
     name 'Jose de Oliveira'
     homepage 'http://www.dafont.com/jose-de-oliveira.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jose_de_Oliveira.ttf'
 end

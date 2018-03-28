@@ -5,7 +5,6 @@ cask 'dafont-pattifont' do
     url 'http://dl.dafont.com/dl/?f=pattifont'
     name 'PattiFont'
     homepage 'http://www.dafont.com/pattifont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PattiFont.ttf'
 end

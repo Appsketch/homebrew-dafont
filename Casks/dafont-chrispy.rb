@@ -5,7 +5,6 @@ cask 'dafont-chrispy' do
     url 'http://dl.dafont.com/dl/?f=chrispy'
     name 'Chrispy'
     homepage 'http://www.dafont.com/chrispy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chrispy.otf'
 end

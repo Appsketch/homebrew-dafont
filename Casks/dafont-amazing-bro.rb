@@ -5,7 +5,6 @@ cask 'dafont-amazing-bro' do
     url 'http://dl.dafont.com/dl/?f=amazing_bro'
     name 'Amazing Bro'
     homepage 'http://www.dafont.com/amazing-bro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amazing_Bro.ttf'
 end

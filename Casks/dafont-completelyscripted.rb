@@ -5,7 +5,6 @@ cask 'dafont-completelyscripted' do
     url 'http://dl.dafont.com/dl/?f=completelyscripted'
     name 'Completely Scripted'
     homepage 'http://www.dafont.com/completelyscripted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CompletelyScripted.ttf'
 end

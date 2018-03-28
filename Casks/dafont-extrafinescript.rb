@@ -5,7 +5,6 @@ cask 'dafont-extrafinescript' do
     url 'http://dl.dafont.com/dl/?f=extrafinescript'
     name 'ExtraFine Script'
     homepage 'http://www.dafont.com/extrafinescript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExtraFineScript2.ttf'
 end

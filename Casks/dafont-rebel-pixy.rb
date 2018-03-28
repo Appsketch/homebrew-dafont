@@ -5,7 +5,6 @@ cask 'dafont-rebel-pixy' do
     url 'http://dl.dafont.com/dl/?f=rebel_pixy'
     name 'Rebel Pixy'
     homepage 'http://www.dafont.com/rebel-pixy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rebel Pixy - Free For Personal Usage.ttf'
     font 'Rebel Pixy Bouncy - Free.ttf'

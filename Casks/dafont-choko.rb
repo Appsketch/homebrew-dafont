@@ -5,7 +5,6 @@ cask 'dafont-choko' do
     url 'http://dl.dafont.com/dl/?f=choko'
     name 'Choko'
     homepage 'http://www.dafont.com/choko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ttf/Choko.ttf'
     font 'ttf/ChokoHighlight.ttf'

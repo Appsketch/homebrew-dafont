@@ -5,7 +5,6 @@ cask 'dafont-mavole-sinpo-tfb' do
     url 'http://dl.dafont.com/dl/?f=mavole_sinpo_tfb'
     name 'Mavole Sinpo TFB'
     homepage 'http://www.dafont.com/mavole-sinpo-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mavole Sinpo tfb.ttf'
 end

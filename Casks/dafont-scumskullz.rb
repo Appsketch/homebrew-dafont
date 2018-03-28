@@ -5,7 +5,6 @@ cask 'dafont-scumskullz' do
     url 'http://dl.dafont.com/dl/?f=scumskullz'
     name 'Scumskullz'
     homepage 'http://www.dafont.com/scumskullz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scumskullz_box.ttf'
     font 'scumskullz_regular.ttf'

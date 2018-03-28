@@ -5,7 +5,6 @@ cask 'dafont-elizajane' do
     url 'http://dl.dafont.com/dl/?f=elizajane'
     name 'Elizajane'
     homepage 'http://www.dafont.com/elizajane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'elizajane.ttf'
 end

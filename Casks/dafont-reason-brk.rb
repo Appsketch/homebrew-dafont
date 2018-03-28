@@ -5,7 +5,6 @@ cask 'dafont-reason-brk' do
     url 'http://dl.dafont.com/dl/?f=reason_brk'
     name 'Reason BRK'
     homepage 'http://www.dafont.com/reason-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'reason.ttf'
     font 'reasonsh.ttf'

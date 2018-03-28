@@ -5,7 +5,6 @@ cask 'dafont-boxingchocolates' do
     url 'http://dl.dafont.com/dl/?f=boxingchocolates'
     name 'Boxing Chocolates'
     homepage 'http://www.dafont.com/boxingchocolates.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BoxingChocolates.ttf'
 end

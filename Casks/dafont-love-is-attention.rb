@@ -5,7 +5,6 @@ cask 'dafont-love-is-attention' do
     url 'http://dl.dafont.com/dl/?f=love_is_attention'
     name 'Love Is Attention'
     homepage 'http://www.dafont.com/love-is-attention.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Love Is Attention.ttf'
 end

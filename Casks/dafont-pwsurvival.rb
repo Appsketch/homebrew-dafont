@@ -5,7 +5,6 @@ cask 'dafont-pwsurvival' do
     url 'http://dl.dafont.com/dl/?f=pwsurvival'
     name 'PW Survival'
     homepage 'http://www.dafont.com/pwsurvival.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWSurvival.ttf'
 end

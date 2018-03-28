@@ -5,7 +5,6 @@ cask 'dafont-dhf-happy-birthday-ryan' do
     url 'http://dl.dafont.com/dl/?f=dhf_happy_birthday_ryan'
     name 'DHF Happy Birthday Ryan'
     homepage 'http://www.dafont.com/dhf-happy-birthday-ryan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DHF Happy Birthday Ryan Italic.ttf'
     font 'DHF Happy Birthday Ryan.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-cumulus' do
     url 'http://dl.dafont.com/dl/?f=cumulus'
     name 'Cumulus'
     homepage 'http://www.dafont.com/cumulus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cumulus.ttf'
 end

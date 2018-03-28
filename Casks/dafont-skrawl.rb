@@ -5,7 +5,6 @@ cask 'dafont-skrawl' do
     url 'http://dl.dafont.com/dl/?f=skrawl'
     name 'Skrawl'
     homepage 'http://www.dafont.com/skrawl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skrawl.ttf'
 end

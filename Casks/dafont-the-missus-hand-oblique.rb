@@ -5,7 +5,6 @@ cask 'dafont-the-missus-hand-oblique' do
     url 'http://dl.dafont.com/dl/?f=the_missus_hand_oblique'
     name 'The Missus Hand Oblique'
     homepage 'http://www.dafont.com/the-missus-hand-oblique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Missus Hand Oblique.ttf'
 end

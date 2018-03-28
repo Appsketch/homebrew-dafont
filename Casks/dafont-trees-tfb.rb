@@ -5,7 +5,6 @@ cask 'dafont-trees-tfb' do
     url 'http://dl.dafont.com/dl/?f=trees_tfb'
     name 'Trees TFB'
     homepage 'http://www.dafont.com/trees-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trees TFB.ttf'
 end

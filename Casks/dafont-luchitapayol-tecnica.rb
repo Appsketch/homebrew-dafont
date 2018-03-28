@@ -5,7 +5,6 @@ cask 'dafont-luchitapayol-tecnica' do
     url 'http://dl.dafont.com/dl/?f=luchitapayol_tecnica'
     name 'LuchitaPayol Tecnica'
     homepage 'http://www.dafont.com/luchitapayol-tecnica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LuchitaPayol-Tecnica.ttf'
 end

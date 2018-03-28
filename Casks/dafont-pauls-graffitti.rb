@@ -5,7 +5,6 @@ cask 'dafont-pauls-graffitti' do
     url 'http://dl.dafont.com/dl/?f=pauls_graffitti'
     name 'Pauls Graffitti'
     homepage 'http://www.dafont.com/pauls-graffitti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pauls Graffitti.ttf'
 end

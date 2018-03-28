@@ -5,7 +5,6 @@ cask 'dafont-starbats' do
     url 'http://dl.dafont.com/dl/?f=starbats'
     name 'Starbats'
     homepage 'http://www.dafont.com/starbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STARBATS.TTF'
 end

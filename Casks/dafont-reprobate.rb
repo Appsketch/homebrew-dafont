@@ -5,7 +5,6 @@ cask 'dafont-reprobate' do
     url 'http://dl.dafont.com/dl/?f=reprobate'
     name 'Reprobate'
     homepage 'http://www.dafont.com/reprobate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REPROB__.ttf'
 end

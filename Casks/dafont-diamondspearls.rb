@@ -5,7 +5,6 @@ cask 'dafont-diamondspearls' do
     url 'http://dl.dafont.com/dl/?f=diamondspearls'
     name 'Diamonds Pearls'
     homepage 'http://www.dafont.com/diamondspearls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DiamondsPearls.ttf'
 end

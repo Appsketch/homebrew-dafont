@@ -5,7 +5,6 @@ cask 'dafont-fast-action' do
     url 'http://dl.dafont.com/dl/?f=fast_action'
     name 'Fast Action'
     homepage 'http://www.dafont.com/fast-action.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fastaction.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-popcornebo' do
     url 'http://dl.dafont.com/dl/?f=popcornebo'
     name 'Popcorn EBO'
     homepage 'http://www.dafont.com/popcornebo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'popcornEBO.ttf'
 end

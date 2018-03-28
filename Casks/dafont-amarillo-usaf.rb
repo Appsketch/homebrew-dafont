@@ -5,7 +5,6 @@ cask 'dafont-amarillo-usaf' do
     url 'http://dl.dafont.com/dl/?f=amarillo_usaf'
     name 'Amarillo USAF'
     homepage 'http://www.dafont.com/amarillo-usaf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'amarurgt.ttf'
 end

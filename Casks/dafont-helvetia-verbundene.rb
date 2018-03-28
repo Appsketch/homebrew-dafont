@@ -5,7 +5,6 @@ cask 'dafont-helvetia-verbundene' do
     url 'http://dl.dafont.com/dl/?f=helvetia_verbundene'
     name 'Helvetia Verbundene'
     homepage 'http://www.dafont.com/helvetia-verbundene.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Helvetica Verbundene.ttf'
 end

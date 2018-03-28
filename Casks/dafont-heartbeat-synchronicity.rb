@@ -5,7 +5,6 @@ cask 'dafont-heartbeat-synchronicity' do
     url 'http://dl.dafont.com/dl/?f=heartbeat_synchronicity'
     name 'Heartbeat Synchronicity'
     homepage 'http://www.dafont.com/heartbeat-synchronicity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heartbeat Synchronicity.otf'
 end

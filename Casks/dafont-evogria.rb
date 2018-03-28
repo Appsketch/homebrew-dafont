@@ -5,7 +5,6 @@ cask 'dafont-evogria' do
     url 'http://dl.dafont.com/dl/?f=evogria'
     name 'Evogria'
     homepage 'http://www.dafont.com/evogria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Evogria Italic.otf'
     font 'Evogria.otf'

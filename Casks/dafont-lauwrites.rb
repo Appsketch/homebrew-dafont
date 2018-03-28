@@ -5,7 +5,6 @@ cask 'dafont-lauwrites' do
     url 'http://dl.dafont.com/dl/?f=lauwrites'
     name 'Lauwrites'
     homepage 'http://www.dafont.com/lauwrites.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lauwrites.ttf'
 end

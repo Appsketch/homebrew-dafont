@@ -5,7 +5,6 @@ cask 'dafont-hello-doc' do
     url 'http://dl.dafont.com/dl/?f=hello_doc'
     name 'Hello Doc'
     homepage 'http://www.dafont.com/hello-doc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HelloDoc.ttf'
 end

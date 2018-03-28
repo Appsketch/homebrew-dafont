@@ -5,7 +5,6 @@ cask 'dafont-ampikunanti' do
     url 'http://dl.dafont.com/dl/?f=ampikunanti'
     name 'Ampikunanti'
     homepage 'http://www.dafont.com/ampikunanti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ampikunanti.ttf'
 end

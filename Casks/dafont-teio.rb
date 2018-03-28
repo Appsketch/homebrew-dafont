@@ -5,7 +5,6 @@ cask 'dafont-teio' do
     url 'http://dl.dafont.com/dl/?f=teio'
     name 'Teio'
     homepage 'http://www.dafont.com/teio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Teio solo letras para dafont.ttf'
 end

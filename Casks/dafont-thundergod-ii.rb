@@ -5,7 +5,6 @@ cask 'dafont-thundergod-ii' do
     url 'http://dl.dafont.com/dl/?f=thundergod_ii'
     name 'Thundergod II'
     homepage 'http://www.dafont.com/thundergod-ii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thunder2v2.ttf'
     font 'thunder2v2c.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-ordinaryartichoke' do
     url 'http://dl.dafont.com/dl/?f=ordinaryartichoke'
     name 'Ordinary Artichoke'
     homepage 'http://www.dafont.com/ordinaryartichoke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OrdinaryArtichoke.ttf'
 end

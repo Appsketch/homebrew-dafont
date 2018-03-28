@@ -5,7 +5,6 @@ cask 'dafont-akaju' do
     url 'http://dl.dafont.com/dl/?f=akaju'
     name 'Akaju'
     homepage 'http://www.dafont.com/akaju.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Akaju_demo.otf'
 end

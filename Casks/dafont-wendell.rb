@@ -5,7 +5,6 @@ cask 'dafont-wendell' do
     url 'http://dl.dafont.com/dl/?f=wendell'
     name 'Wendell'
     homepage 'http://www.dafont.com/wendell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wendell_v1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mtf-sweet-sky-dings' do
     url 'http://dl.dafont.com/dl/?f=mtf_sweet_sky_dings'
     name 'MTF Sweet Sky Dings'
     homepage 'http://www.dafont.com/mtf-sweet-sky-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Sweet Sky Dings.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-br-thorns' do
     url 'http://dl.dafont.com/dl/?f=br_thorns'
     name 'BR Thorns'
     homepage 'http://www.dafont.com/br-thorns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'br_thorns.ttf'
 end

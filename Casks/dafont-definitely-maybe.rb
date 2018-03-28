@@ -5,7 +5,6 @@ cask 'dafont-definitely-maybe' do
     url 'http://dl.dafont.com/dl/?f=definitely_maybe'
     name 'Definitely Maybe'
     homepage 'http://www.dafont.com/definitely-maybe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Definitely Maybe.ttf'
 end

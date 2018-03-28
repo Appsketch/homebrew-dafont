@@ -5,7 +5,6 @@ cask 'dafont-okcok' do
     url 'http://dl.dafont.com/dl/?f=okcok'
     name 'OKCOK'
     homepage 'http://www.dafont.com/okcok.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OKCOK.ttf'
 end

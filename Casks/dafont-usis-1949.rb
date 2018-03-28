@@ -5,7 +5,6 @@ cask 'dafont-usis-1949' do
     url 'http://dl.dafont.com/dl/?f=usis_1949'
     name 'USIS 1949'
     homepage 'http://www.dafont.com/usis-1949.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'USIS 1949.ttf'
 end

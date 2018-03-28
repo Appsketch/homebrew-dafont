@@ -5,7 +5,6 @@ cask 'dafont-blocks-rf' do
     url 'http://dl.dafont.com/dl/?f=blocks_rf'
     name 'Blocks'
     homepage 'http://www.dafont.com/blocks-rf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blocks.ttf'
 end

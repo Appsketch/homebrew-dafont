@@ -5,7 +5,6 @@ cask 'dafont-floral-dawn' do
     url 'http://dl.dafont.com/dl/?f=floral_dawn'
     name 'Floral Dawn'
     homepage 'http://www.dafont.com/floral-dawn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'floral_dawn.ttf'
 end

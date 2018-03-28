@@ -5,7 +5,6 @@ cask 'dafont-cyclin' do
     url 'http://dl.dafont.com/dl/?f=cyclin'
     name 'Cyclin'
     homepage 'http://www.dafont.com/cyclin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cyclin__.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-holtzschue' do
     url 'http://dl.dafont.com/dl/?f=holtzschue'
     name 'Holtzschue'
     homepage 'http://www.dafont.com/holtzschue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Holtzschue Regular.ttf'
 end

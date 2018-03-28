@@ -5,7 +5,6 @@ cask 'dafont-verduleira' do
     url 'http://dl.dafont.com/dl/?f=verduleira'
     name 'Verduleira'
     homepage 'http://www.dafont.com/verduleira.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Verduleira.ttf'
 end

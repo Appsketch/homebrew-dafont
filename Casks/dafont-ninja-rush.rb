@@ -5,7 +5,6 @@ cask 'dafont-ninja-rush' do
     url 'http://dl.dafont.com/dl/?f=ninja_rush'
     name 'Ninja Rush'
     homepage 'http://www.dafont.com/ninja-rush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ninja Rush.otf'
 end

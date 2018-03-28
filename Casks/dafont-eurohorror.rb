@@ -5,7 +5,6 @@ cask 'dafont-eurohorror' do
     url 'http://dl.dafont.com/dl/?f=eurohorror'
     name 'Euro Horror'
     homepage 'http://www.dafont.com/eurohorror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EuroHorror.ttf'
 end

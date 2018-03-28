@@ -5,7 +5,6 @@ cask 'dafont-argento-e-ber-lio' do
     url 'http://dl.dafont.com/dl/?f=argento_e_ber_lio'
     name 'Argento e Ber lio'
     homepage 'http://www.dafont.com/argento-e-ber-lio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Argento_e_Ber__lio.ttf'
 end

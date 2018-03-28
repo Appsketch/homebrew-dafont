@@ -5,7 +5,6 @@ cask 'dafont-logocarsbats-tfb' do
     url 'http://dl.dafont.com/dl/?f=logocarsbats_tfb'
     name 'Logocarsbats TFB'
     homepage 'http://www.dafont.com/logocarsbats-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'logocarsbats tfb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-the-definition-of-tabulous' do
     url 'http://dl.dafont.com/dl/?f=the_definition_of_tabulous'
     name 'The Definition of Tabulous'
     homepage 'http://www.dafont.com/the-definition-of-tabulous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheDefintionofTabulous.ttf'
 end

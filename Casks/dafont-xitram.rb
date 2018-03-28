@@ -5,7 +5,6 @@ cask 'dafont-xitram' do
     url 'http://dl.dafont.com/dl/?f=xitram'
     name 'XitRAM!'
     homepage 'http://www.dafont.com/xitram.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XITRAM.TTF'
 end

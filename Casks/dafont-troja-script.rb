@@ -5,7 +5,6 @@ cask 'dafont-troja-script' do
     url 'http://dl.dafont.com/dl/?f=troja_script'
     name 'Troja Script'
     homepage 'http://www.dafont.com/troja-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TrojaScipt-Bold.ttf'
 end

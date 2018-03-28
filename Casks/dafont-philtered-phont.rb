@@ -5,7 +5,6 @@ cask 'dafont-philtered-phont' do
     url 'http://dl.dafont.com/dl/?f=philtered_phont'
     name 'Philtered Phont'
     homepage 'http://www.dafont.com/philtered-phont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Philphon.ttf'
 end

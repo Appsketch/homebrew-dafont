@@ -5,7 +5,6 @@ cask 'dafont-janda-curlygirl' do
     url 'http://dl.dafont.com/dl/?f=janda_curlygirl'
     name 'Janda Curlygirl'
     homepage 'http://www.dafont.com/janda-curlygirl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaCurlygirlChunky.ttf'
     font 'JandaCurlygirlPop.ttf'

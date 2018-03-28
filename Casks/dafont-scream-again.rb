@@ -5,7 +5,6 @@ cask 'dafont-scream-again' do
     url 'http://dl.dafont.com/dl/?f=scream_again'
     name 'Scream Again'
     homepage 'http://www.dafont.com/scream-again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scream Again.ttf'
 end

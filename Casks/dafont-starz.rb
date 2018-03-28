@@ -5,7 +5,6 @@ cask 'dafont-starz' do
     url 'http://dl.dafont.com/dl/?f=starz'
     name 'Starz'
     homepage 'http://www.dafont.com/starz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Starz.ttf'
 end

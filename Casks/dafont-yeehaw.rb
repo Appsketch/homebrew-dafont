@@ -5,7 +5,6 @@ cask 'dafont-yeehaw' do
     url 'http://dl.dafont.com/dl/?f=yeehaw'
     name 'YeeHaw'
     homepage 'http://www.dafont.com/yeehaw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YEEHAW.TTF'
 end

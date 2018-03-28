@@ -5,7 +5,6 @@ cask 'dafont-jellyka-castles-queen' do
     url 'http://dl.dafont.com/dl/?f=jellyka_castles_queen'
     name 'Jellyka Castle&#039;s Queen'
     homepage 'http://www.dafont.com/jellyka-castles-queen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jellyka_Castle _s_Queen.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-holiday-earlier' do
     url 'http://dl.dafont.com/dl/?f=holiday_earlier'
     name 'Holiday Earlier'
     homepage 'http://www.dafont.com/holiday-earlier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'holiday_earlier_font_by_setitikasa.ttf'
 end

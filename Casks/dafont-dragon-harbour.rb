@@ -5,7 +5,6 @@ cask 'dafont-dragon-harbour' do
     url 'http://dl.dafont.com/dl/?f=dragon_harbour'
     name 'Dragon Harbour'
     homepage 'http://www.dafont.com/dragon-harbour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dragon Harbour.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-reverence' do
     url 'http://dl.dafont.com/dl/?f=reverence'
     name 'Reverence'
     homepage 'http://www.dafont.com/reverence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rev.ttf'
 end

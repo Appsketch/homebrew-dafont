@@ -5,7 +5,6 @@ cask 'dafont-la-unica' do
     url 'http://dl.dafont.com/dl/?f=la_unica'
     name 'La Unica'
     homepage 'http://www.dafont.com/la-unica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'launica.ttf'
 end

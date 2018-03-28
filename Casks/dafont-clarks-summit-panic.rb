@@ -5,7 +5,6 @@ cask 'dafont-clarks-summit-panic' do
     url 'http://dl.dafont.com/dl/?f=clarks_summit_panic'
     name 'Clarks Summit Panic'
     homepage 'http://www.dafont.com/clarks-summit-panic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clarks Summit Panic.otf'
 end

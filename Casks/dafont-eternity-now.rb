@@ -5,7 +5,6 @@ cask 'dafont-eternity-now' do
     url 'http://dl.dafont.com/dl/?f=eternity_now'
     name 'Eternity Now'
     homepage 'http://www.dafont.com/eternity-now.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EternityNow-Regular.ttf'
 end

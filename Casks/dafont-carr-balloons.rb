@@ -5,7 +5,6 @@ cask 'dafont-carr-balloons' do
     url 'http://dl.dafont.com/dl/?f=carr_balloons'
     name 'Carr Balloons'
     homepage 'http://www.dafont.com/carr-balloons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CarrBalloons.ttf'
 end

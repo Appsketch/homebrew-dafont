@@ -5,7 +5,6 @@ cask 'dafont-saloon' do
     url 'http://dl.dafont.com/dl/?f=saloon'
     name 'Saloon'
     homepage 'http://www.dafont.com/saloon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SaloonExt Th.ttf'
 end

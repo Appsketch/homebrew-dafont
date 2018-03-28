@@ -5,7 +5,6 @@ cask 'dafont-headwear' do
     url 'http://dl.dafont.com/dl/?f=headwear'
     name 'HeadWear'
     homepage 'http://www.dafont.com/headwear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeadWear.ttf'
 end

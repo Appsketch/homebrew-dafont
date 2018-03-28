@@ -5,7 +5,6 @@ cask 'dafont-y-yo-tags' do
     url 'http://dl.dafont.com/dl/?f=y_yo_tags'
     name 'Y-Yo Tags'
     homepage 'http://www.dafont.com/y-yo-tags.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Y-Yo Tags.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-la-compagnie-des-ombres' do
     url 'http://dl.dafont.com/dl/?f=la_compagnie_des_ombres'
     name 'La Compagnie Des Ombres'
     homepage 'http://www.dafont.com/la-compagnie-des-ombres.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'la Compagnie des Ombres.ttf'
 end

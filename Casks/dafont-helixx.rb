@@ -5,7 +5,6 @@ cask 'dafont-helixx' do
     url 'http://dl.dafont.com/dl/?f=helixx'
     name 'Helixx'
     homepage 'http://www.dafont.com/helixx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'helixx.ttf'
 end

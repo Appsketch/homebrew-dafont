@@ -5,7 +5,6 @@ cask 'dafont-metroplex' do
     url 'http://dl.dafont.com/dl/?f=metroplex'
     name 'Metroplex'
     homepage 'http://www.dafont.com/metroplex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'METRO2.TTF'
     font 'Metro2e.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-supertack' do
     url 'http://dl.dafont.com/dl/?f=supertack'
     name 'SuperTack'
     homepage 'http://www.dafont.com/supertack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuperTack.ttf'
 end

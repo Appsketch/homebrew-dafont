@@ -5,7 +5,6 @@ cask 'dafont-ulbricht' do
     url 'http://dl.dafont.com/dl/?f=ulbricht'
     name 'Ulbricht'
     homepage 'http://www.dafont.com/ulbricht.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ulbricht-Regular.otf'
 end

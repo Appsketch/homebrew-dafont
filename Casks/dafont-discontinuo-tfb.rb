@@ -5,7 +5,6 @@ cask 'dafont-discontinuo-tfb' do
     url 'http://dl.dafont.com/dl/?f=discontinuo_tfb'
     name 'Discontinuo TFB'
     homepage 'http://www.dafont.com/discontinuo-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'discontinuo tfb.ttf'
 end

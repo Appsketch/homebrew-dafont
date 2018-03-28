@@ -5,7 +5,6 @@ cask 'dafont-justfist' do
     url 'http://dl.dafont.com/dl/?f=justfist'
     name 'JustFist'
     homepage 'http://www.dafont.com/justfist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JUSTFIST.ttf'
     font 'JUSTFIST2.ttf'

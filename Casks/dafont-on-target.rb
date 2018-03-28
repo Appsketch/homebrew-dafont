@@ -5,7 +5,6 @@ cask 'dafont-on-target' do
     url 'http://dl.dafont.com/dl/?f=on_target'
     name 'On Target'
     homepage 'http://www.dafont.com/on-target.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'On Target.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tamales' do
     url 'http://dl.dafont.com/dl/?f=tamales'
     name 'Tamales'
     homepage 'http://www.dafont.com/tamales.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TamalesReg_FREE_FOR_PERSONAL_USE.ttf'
 end

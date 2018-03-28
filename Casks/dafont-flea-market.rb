@@ -5,7 +5,6 @@ cask 'dafont-flea-market' do
     url 'http://dl.dafont.com/dl/?f=flea_market'
     name 'Flea Market'
     homepage 'http://www.dafont.com/flea-market.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flea Market - Outline - BC.ttf'
     font 'Flea Market - Plain - BC.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-aida-scrap-small-size' do
     url 'http://dl.dafont.com/dl/?f=aida_scrap_small_size'
     name 'Aida Scrap Small Size'
     homepage 'http://www.dafont.com/aida-scrap-small-size.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aida Garmo - Small Size.ttf'
 end

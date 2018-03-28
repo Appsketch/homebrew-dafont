@@ -5,7 +5,6 @@ cask 'dafont-jewelry-design-shapes' do
     url 'http://dl.dafont.com/dl/?f=jewelry_design_shapes'
     name 'Jewelry Design Shapes'
     homepage 'http://www.dafont.com/jewelry-design-shapes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jewelry Design Shapes.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-made-of-stars' do
     url 'http://dl.dafont.com/dl/?f=made_of_stars'
     name 'Made of Stars'
     homepage 'http://www.dafont.com/made-of-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Made of Stars.ttf'
 end

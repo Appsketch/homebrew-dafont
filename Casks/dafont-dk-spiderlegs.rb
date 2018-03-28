@@ -5,7 +5,6 @@ cask 'dafont-dk-spiderlegs' do
     url 'http://dl.dafont.com/dl/?f=dk_spiderlegs'
     name 'DK Spiderlegs'
     homepage 'http://www.dafont.com/dk-spiderlegs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Spiderlegs Blackened.ttf'
 end

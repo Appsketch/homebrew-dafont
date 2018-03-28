@@ -5,7 +5,6 @@ cask 'dafont-graphers-blog' do
     url 'http://dl.dafont.com/dl/?f=graphers_blog'
     name 'Graphers Blog'
     homepage 'http://www.dafont.com/graphers-blog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Graphers Blog.ttf'
 end

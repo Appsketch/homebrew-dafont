@@ -5,7 +5,6 @@ cask 'dafont-skunkmonkeyrough' do
     url 'http://dl.dafont.com/dl/?f=skunkmonkeyrough'
     name 'Skunk Monkey Rough'
     homepage 'http://www.dafont.com/skunkmonkeyrough.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkunkMonkeyRough.ttf'
 end

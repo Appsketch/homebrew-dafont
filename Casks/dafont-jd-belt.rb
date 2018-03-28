@@ -5,7 +5,6 @@ cask 'dafont-jd-belt' do
     url 'http://dl.dafont.com/dl/?f=jd_belt'
     name 'JD Belt'
     homepage 'http://www.dafont.com/jd-belt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_belt.ttf'
 end

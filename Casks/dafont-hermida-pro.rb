@@ -5,7 +5,6 @@ cask 'dafont-hermida-pro' do
     url 'http://dl.dafont.com/dl/?f=hermida_pro'
     name 'Hermida Pro'
     homepage 'http://www.dafont.com/hermida-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hermida_pro.ttf'
 end

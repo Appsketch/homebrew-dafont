@@ -5,7 +5,6 @@ cask 'dafont-tjk-moost' do
     url 'http://dl.dafont.com/dl/?f=tjk_moost'
     name 'TJK Moost'
     homepage 'http://www.dafont.com/tjk-moost.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TJKMoost-Gras.otf'
 end

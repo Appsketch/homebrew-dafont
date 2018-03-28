@@ -5,7 +5,6 @@ cask 'dafont-noir' do
     url 'http://dl.dafont.com/dl/?f=noir'
     name 'Noir'
     homepage 'http://www.dafont.com/noir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Noir Filled.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-almonte-woodgrain' do
     url 'http://dl.dafont.com/dl/?f=almonte_woodgrain'
     name 'Almonte Woodgrain'
     homepage 'http://www.dafont.com/almonte-woodgrain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'almonte woodgrain.ttf'
 end

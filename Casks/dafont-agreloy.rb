@@ -5,7 +5,6 @@ cask 'dafont-agreloy' do
     url 'http://dl.dafont.com/dl/?f=agreloy'
     name 'Agreloy'
     homepage 'http://www.dafont.com/agreloy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Agreloy.ttf'
     font 'AgreloyInB1.ttf'

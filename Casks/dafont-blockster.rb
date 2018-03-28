@@ -5,7 +5,6 @@ cask 'dafont-blockster' do
     url 'http://dl.dafont.com/dl/?f=blockster'
     name 'Blockster'
     homepage 'http://www.dafont.com/blockster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blockster.ttf'
 end

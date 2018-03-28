@@ -5,7 +5,6 @@ cask 'dafont-peach-sundress' do
     url 'http://dl.dafont.com/dl/?f=peach_sundress'
     name 'Peach Sundress'
     homepage 'http://www.dafont.com/peach-sundress.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'peach-sundress.ttf'
 end

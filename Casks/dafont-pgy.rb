@@ -5,7 +5,6 @@ cask 'dafont-pgy' do
     url 'http://dl.dafont.com/dl/?f=pgy'
     name 'PGY'
     homepage 'http://www.dafont.com/pgy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PGY01001.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wvelez-logofont' do
     url 'http://dl.dafont.com/dl/?f=wvelez_logofont'
     name 'WVelez Logofont'
     homepage 'http://www.dafont.com/wvelez-logofont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wv.ttf'
 end

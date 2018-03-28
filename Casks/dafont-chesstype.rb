@@ -5,7 +5,6 @@ cask 'dafont-chesstype' do
     url 'http://dl.dafont.com/dl/?f=chesstype'
     name 'ChessType'
     homepage 'http://www.dafont.com/chesstype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChessType.ttf'
 end

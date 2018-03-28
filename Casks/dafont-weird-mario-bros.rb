@@ -5,7 +5,6 @@ cask 'dafont-weird-mario-bros' do
     url 'http://dl.dafont.com/dl/?f=weird_mario_bros'
     name 'Weird Mario Bros'
     homepage 'http://www.dafont.com/weird-mario-bros.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WMB.ttf'
 end

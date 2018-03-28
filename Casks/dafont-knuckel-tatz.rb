@@ -5,7 +5,6 @@ cask 'dafont-knuckel-tatz' do
     url 'http://dl.dafont.com/dl/?f=knuckel_tatz'
     name 'Knuckel Tatz'
     homepage 'http://www.dafont.com/knuckel-tatz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'knuckle.tatz.[fontvir.us].ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-heavy-metal-box' do
     url 'http://dl.dafont.com/dl/?f=heavy_metal_box'
     name 'Heavy Metal Box'
     homepage 'http://www.dafont.com/heavy-metal-box.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heavy Metal Box.ttf'
 end

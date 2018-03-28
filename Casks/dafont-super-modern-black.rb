@@ -5,7 +5,6 @@ cask 'dafont-super-modern-black' do
     url 'http://dl.dafont.com/dl/?f=super_modern_black'
     name 'Super Modern black'
     homepage 'http://www.dafont.com/super-modern-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Super Modern black.ttf'
     font 'Super Modern.ttf'

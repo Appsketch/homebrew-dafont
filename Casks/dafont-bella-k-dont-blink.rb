@@ -5,7 +5,6 @@ cask 'dafont-bella-k-dont-blink' do
     url 'http://dl.dafont.com/dl/?f=bella_k_dont_blink'
     name 'Bella K. Don&#039;t Blink'
     homepage 'http://www.dafont.com/bella-k-dont-blink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bellak don&#039;t blink.ttf'
 end

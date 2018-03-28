@@ -5,7 +5,6 @@ cask 'dafont-malefic-font' do
     url 'http://dl.dafont.com/dl/?f=malefic_font'
     name 'Malefic Font'
     homepage 'http://www.dafont.com/malefic-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MALEFIC FONT BY JENIZU 3.ttf'
 end

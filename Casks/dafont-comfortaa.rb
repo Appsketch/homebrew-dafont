@@ -5,7 +5,6 @@ cask 'dafont-comfortaa' do
     url 'http://dl.dafont.com/dl/?f=comfortaa'
     name 'Comfortaa'
     homepage 'http://www.dafont.com/comfortaa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comfortaa-Bold.ttf'
     font 'Comfortaa-Light.ttf'

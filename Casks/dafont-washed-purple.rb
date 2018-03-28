@@ -5,7 +5,6 @@ cask 'dafont-washed-purple' do
     url 'http://dl.dafont.com/dl/?f=washed_purple'
     name 'Washed Purple'
     homepage 'http://www.dafont.com/washed-purple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WashedPurple1.ttf'
 end

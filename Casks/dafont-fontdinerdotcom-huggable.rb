@@ -5,7 +5,6 @@ cask 'dafont-fontdinerdotcom-huggable' do
     url 'http://dl.dafont.com/dl/?f=fontdinerdotcom_huggable'
     name 'Fontdinerdotcom Huggable'
     homepage 'http://www.dafont.com/fontdinerdotcom-huggable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FONTH___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-imprenta-royal-nonpareil' do
     url 'http://dl.dafont.com/dl/?f=imprenta_royal_nonpareil'
     name 'Imprenta Royal Nonpareil'
     homepage 'http://www.dafont.com/imprenta-royal-nonpareil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Imprenta Royal Nonpareil Beveled.ttf'
     font 'Imprenta Royal Nonpareil Trash.ttf'

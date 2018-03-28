@@ -5,7 +5,6 @@ cask 'dafont-kerberos-fang' do
     url 'http://dl.dafont.com/dl/?f=kerberos_fang'
     name 'Kerberos Fang'
     homepage 'http://www.dafont.com/kerberos-fang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kerberos_Fang.ttf'
 end

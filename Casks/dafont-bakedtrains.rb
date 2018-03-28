@@ -5,7 +5,6 @@ cask 'dafont-bakedtrains' do
     url 'http://dl.dafont.com/dl/?f=bakedtrains'
     name 'Baked Trains'
     homepage 'http://www.dafont.com/bakedtrains.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BakedTrains.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lp-insects' do
     url 'http://dl.dafont.com/dl/?f=lp_insects'
     name 'LP Insects'
     homepage 'http://www.dafont.com/lp-insects.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lpinsects.ttf'
 end

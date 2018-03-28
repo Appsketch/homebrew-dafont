@@ -5,7 +5,6 @@ cask 'dafont-press-any-key-to-continue' do
     url 'http://dl.dafont.com/dl/?f=press_any_key_to_continue'
     name 'Press any key to continue'
     homepage 'http://www.dafont.com/press-any-key-to-continue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'press_any_key_to_continue.ttf'
 end

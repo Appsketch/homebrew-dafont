@@ -5,7 +5,6 @@ cask 'dafont-kudajets' do
     url 'http://dl.dafont.com/dl/?f=kudajets'
     name 'Kudajets'
     homepage 'http://www.dafont.com/kudajets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kudajets.otf'
 end

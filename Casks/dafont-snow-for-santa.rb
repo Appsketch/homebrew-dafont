@@ -5,7 +5,6 @@ cask 'dafont-snow-for-santa' do
     url 'http://dl.dafont.com/dl/?f=snow_for_santa'
     name 'Snow For Santa'
     homepage 'http://www.dafont.com/snow-for-santa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SnowForSanta.ttf'
 end

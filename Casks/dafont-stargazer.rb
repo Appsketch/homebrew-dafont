@@ -5,7 +5,6 @@ cask 'dafont-stargazer' do
     url 'http://dl.dafont.com/dl/?f=stargazer'
     name 'Stargazer'
     homepage 'http://www.dafont.com/stargazer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STARGAZER commercial use only.ttf'
 end

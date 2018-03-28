@@ -5,7 +5,6 @@ cask 'dafont-millennium' do
     url 'http://dl.dafont.com/dl/?f=millennium'
     name 'Millennium'
     homepage 'http://www.dafont.com/millennium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Millennium.otf'
 end

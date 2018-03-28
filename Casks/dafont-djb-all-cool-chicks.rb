@@ -5,7 +5,6 @@ cask 'dafont-djb-all-cool-chicks' do
     url 'http://dl.dafont.com/dl/?f=djb_all_cool_chicks'
     name 'DJB All Cool Chicks'
     homepage 'http://www.dafont.com/djb-all-cool-chicks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB All the Cool Chicks.ttf'
 end

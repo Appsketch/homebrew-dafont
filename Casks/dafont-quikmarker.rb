@@ -5,7 +5,6 @@ cask 'dafont-quikmarker' do
     url 'http://dl.dafont.com/dl/?f=quikmarker'
     name 'Quik Marker'
     homepage 'http://www.dafont.com/quikmarker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUIKMRG_.TTF'
 end

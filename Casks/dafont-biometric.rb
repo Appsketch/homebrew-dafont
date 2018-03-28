@@ -5,7 +5,6 @@ cask 'dafont-biometric' do
     url 'http://dl.dafont.com/dl/?f=biometric'
     name 'BioMetric'
     homepage 'http://www.dafont.com/biometric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BioMetric-Chubby.ttf'
     font 'BioMetric-ComicHollow.ttf'

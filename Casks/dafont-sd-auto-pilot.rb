@@ -5,7 +5,6 @@ cask 'dafont-sd-auto-pilot' do
     url 'http://dl.dafont.com/dl/?f=sd_auto_pilot'
     name 'SD Auto Pilot'
     homepage 'http://www.dafont.com/sd-auto-pilot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sd_auto_pilot.ttf'
 end

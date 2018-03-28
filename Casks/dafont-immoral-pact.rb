@@ -5,7 +5,6 @@ cask 'dafont-immoral-pact' do
     url 'http://dl.dafont.com/dl/?f=immoral_pact'
     name 'Immoral Pact'
     homepage 'http://www.dafont.com/immoral-pact.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Immoral Pact.ttf'
 end

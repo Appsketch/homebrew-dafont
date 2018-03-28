@@ -5,7 +5,6 @@ cask 'dafont-shaky-hand-some-comic' do
     url 'http://dl.dafont.com/dl/?f=shaky_hand_some_comic'
     name 'Shaky Hand Some Comic'
     homepage 'http://www.dafont.com/shaky-hand-some-comic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shaky Hand Some Comic_3D.otf'
     font 'Shaky Hand Some Comic_bold.otf'

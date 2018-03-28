@@ -5,7 +5,6 @@ cask 'dafont-comic-sandchez' do
     url 'http://dl.dafont.com/dl/?f=comic_sandchez'
     name 'Comic Sandchez'
     homepage 'http://www.dafont.com/comic-sandchez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comic Sandchez.ttf'
 end

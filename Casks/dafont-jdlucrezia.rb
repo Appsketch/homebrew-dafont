@@ -5,7 +5,6 @@ cask 'dafont-jdlucrezia' do
     url 'http://dl.dafont.com/dl/?f=jdlucrezia'
     name 'JD Lucrezia'
     homepage 'http://www.dafont.com/jdlucrezia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_lucrezia.ttf'
 end

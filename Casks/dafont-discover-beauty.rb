@@ -5,7 +5,6 @@ cask 'dafont-discover-beauty' do
     url 'http://dl.dafont.com/dl/?f=discover_beauty'
     name 'Discover Beauty'
     homepage 'http://www.dafont.com/discover-beauty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DiscoverBeauty.ttf'
 end

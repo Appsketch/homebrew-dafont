@@ -5,7 +5,6 @@ cask 'dafont-progress-ordin' do
     url 'http://dl.dafont.com/dl/?f=progress_ordin'
     name 'Progress Ordin'
     homepage 'http://www.dafont.com/progress-ordin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Progress-ORDIN_WIN.otf'
 end

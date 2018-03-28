@@ -5,7 +5,6 @@ cask 'dafont-xeron' do
     url 'http://dl.dafont.com/dl/?f=xeron'
     name 'Xeron'
     homepage 'http://www.dafont.com/xeron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xeron.ttf'
 end

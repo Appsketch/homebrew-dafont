@@ -5,7 +5,6 @@ cask 'dafont-gasrux' do
     url 'http://dl.dafont.com/dl/?f=gasrux'
     name 'Gasrux'
     homepage 'http://www.dafont.com/gasrux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gasrux.ttf'
 end

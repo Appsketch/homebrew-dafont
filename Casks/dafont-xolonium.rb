@@ -5,7 +5,6 @@ cask 'dafont-xolonium' do
     url 'http://dl.dafont.com/dl/?f=xolonium'
     name 'Xolonium'
     homepage 'http://www.dafont.com/xolonium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xolonium-Bold.otf'
     font 'Xolonium-Regular.otf'

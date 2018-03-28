@@ -5,7 +5,6 @@ cask 'dafont-anyk' do
     url 'http://dl.dafont.com/dl/?f=anyk'
     name 'Anyk'
     homepage 'http://www.dafont.com/anyk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anyk.ttf'
 end

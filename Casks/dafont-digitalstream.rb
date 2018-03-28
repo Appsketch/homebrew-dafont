@@ -5,7 +5,6 @@ cask 'dafont-digitalstream' do
     url 'http://dl.dafont.com/dl/?f=digitalstream'
     name 'Digital Stream'
     homepage 'http://www.dafont.com/digitalstream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DigitalStream.ttf'
 end

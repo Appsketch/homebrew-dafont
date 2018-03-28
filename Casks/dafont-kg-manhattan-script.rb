@@ -5,7 +5,6 @@ cask 'dafont-kg-manhattan-script' do
     url 'http://dl.dafont.com/dl/?f=kg_manhattan_script'
     name 'KG Manhattan Script'
     homepage 'http://www.dafont.com/kg-manhattan-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGManhattanScript.ttf'
 end

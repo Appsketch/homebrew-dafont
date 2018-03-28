@@ -5,7 +5,6 @@ cask 'dafont-toonland' do
     url 'http://dl.dafont.com/dl/?f=toonland'
     name 'ToonLand'
     homepage 'http://www.dafont.com/toonland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ToonLand.ttf'
     font 'ToonLandBlack.ttf'

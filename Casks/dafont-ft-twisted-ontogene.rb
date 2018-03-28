@@ -5,7 +5,6 @@ cask 'dafont-ft-twisted-ontogene' do
     url 'http://dl.dafont.com/dl/?f=ft_twisted_ontogene'
     name 'FT Twisted Ontogenesis'
     homepage 'http://www.dafont.com/ft-twisted-ontogene.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTTWOD__.TTF'
 end

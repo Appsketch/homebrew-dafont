@@ -5,7 +5,6 @@ cask 'dafont-pequena' do
     url 'http://dl.dafont.com/dl/?f=pequena'
     name 'Peque&ntilde;a'
     homepage 'http://www.dafont.com/pequena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peque&curren;a.otf'
 end

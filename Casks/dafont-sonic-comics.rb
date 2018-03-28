@@ -5,7 +5,6 @@ cask 'dafont-sonic-comics' do
     url 'http://dl.dafont.com/dl/?f=sonic_comics'
     name 'Sonic Comics'
     homepage 'http://www.dafont.com/sonic-comics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sonic_comic.ttf'
 end

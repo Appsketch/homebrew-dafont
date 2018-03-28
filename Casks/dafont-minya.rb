@@ -5,7 +5,6 @@ cask 'dafont-minya' do
     url 'http://dl.dafont.com/dl/?f=minya'
     name 'Minya'
     homepage 'http://www.dafont.com/minya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'minya.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-big-ten-block' do
     url 'http://dl.dafont.com/dl/?f=big_ten_block'
     name 'Big Ten Block'
     homepage 'http://www.dafont.com/big-ten-block.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'B1G_Block2.ttf'
 end

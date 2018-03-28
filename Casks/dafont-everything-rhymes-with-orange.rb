@@ -5,7 +5,6 @@ cask 'dafont-everything-rhymes-with-orange' do
     url 'http://dl.dafont.com/dl/?f=everything_rhymes_with_orange'
     name 'Everything Rhymes with Orange'
     homepage 'http://www.dafont.com/everything-rhymes-with-orange.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Everything Rhymes with Orange.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gf-gesetz' do
     url 'http://dl.dafont.com/dl/?f=gf_gesetz'
     name 'GF Gesetz'
     homepage 'http://www.dafont.com/gf-gesetz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GESETZ.TTF'
 end

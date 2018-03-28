@@ -5,7 +5,6 @@ cask 'dafont-pacifico' do
     url 'http://dl.dafont.com/dl/?f=pacifico'
     name 'Pacifico'
     homepage 'http://www.dafont.com/pacifico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pacifico.ttf'
 end

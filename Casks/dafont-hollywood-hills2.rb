@@ -5,7 +5,6 @@ cask 'dafont-hollywood-hills2' do
     url 'http://dl.dafont.com/dl/?f=hollywood_hills2'
     name 'Hollywood Hills'
     homepage 'http://www.dafont.com/hollywood-hills2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HollywoodHills.ttf'
 end

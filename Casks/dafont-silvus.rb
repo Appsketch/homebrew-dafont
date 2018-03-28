@@ -5,7 +5,6 @@ cask 'dafont-silvus' do
     url 'http://dl.dafont.com/dl/?f=silvus'
     name 'Silvus'
     homepage 'http://www.dafont.com/silvus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'silvus__.ttf'
 end

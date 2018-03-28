@@ -5,7 +5,6 @@ cask 'dafont-jumpman' do
     url 'http://dl.dafont.com/dl/?f=jumpman'
     name 'Jumpman'
     homepage 'http://www.dafont.com/jumpman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jumpman.ttf'
 end

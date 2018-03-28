@@ -5,7 +5,6 @@ cask 'dafont-commando' do
     url 'http://dl.dafont.com/dl/?f=commando'
     name 'Commando'
     homepage 'http://www.dafont.com/commando.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'commando.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hack' do
     url 'http://dl.dafont.com/dl/?f=hack'
     name 'Hack'
     homepage 'http://www.dafont.com/hack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hack-Bold.ttf'
     font 'Hack-BoldItalic.ttf'

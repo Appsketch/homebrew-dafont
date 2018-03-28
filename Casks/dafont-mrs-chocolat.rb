@@ -5,7 +5,6 @@ cask 'dafont-mrs-chocolat' do
     url 'http://dl.dafont.com/dl/?f=mrs_chocolat'
     name 'Mrs Chocolat'
     homepage 'http://www.dafont.com/mrs-chocolat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MrsChocolat.ttf'
 end

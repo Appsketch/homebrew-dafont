@@ -5,7 +5,6 @@ cask 'dafont-autumn-rats' do
     url 'http://dl.dafont.com/dl/?f=autumn_rats'
     name 'Autumn Rats'
     homepage 'http://www.dafont.com/autumn-rats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Autumn Rats.ttf'
 end

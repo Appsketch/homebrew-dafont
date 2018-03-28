@@ -5,7 +5,6 @@ cask 'dafont-industrial-schizoph' do
     url 'http://dl.dafont.com/dl/?f=industrial_schizoph'
     name 'Industrial Schizophrenic'
     homepage 'http://www.dafont.com/industrial-schizoph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INS_____.TTF'
 end

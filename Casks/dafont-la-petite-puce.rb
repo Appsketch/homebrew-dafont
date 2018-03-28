@@ -5,7 +5,6 @@ cask 'dafont-la-petite-puce' do
     url 'http://dl.dafont.com/dl/?f=la_petite_puce'
     name 'La petite puce'
     homepage 'http://www.dafont.com/la-petite-puce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'la petite puce.ttf'
 end

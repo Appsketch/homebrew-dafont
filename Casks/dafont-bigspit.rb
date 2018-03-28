@@ -5,7 +5,6 @@ cask 'dafont-bigspit' do
     url 'http://dl.dafont.com/dl/?f=bigspit'
     name 'BigSpit'
     homepage 'http://www.dafont.com/bigspit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigSpit.ttf'
 end

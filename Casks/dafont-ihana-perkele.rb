@@ -5,7 +5,6 @@ cask 'dafont-ihana-perkele' do
     url 'http://dl.dafont.com/dl/?f=ihana_perkele'
     name 'Ihana Perkele'
     homepage 'http://www.dafont.com/ihana-perkele.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ihana Perkele Alaston.ttf'
     font 'Ihana Perkele.ttf'

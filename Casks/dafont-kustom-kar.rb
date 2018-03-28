@@ -5,7 +5,6 @@ cask 'dafont-kustom-kar' do
     url 'http://dl.dafont.com/dl/?f=kustom_kar'
     name 'Kustom Kar'
     homepage 'http://www.dafont.com/kustom-kar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KUSTOMKA.TTF'
 end

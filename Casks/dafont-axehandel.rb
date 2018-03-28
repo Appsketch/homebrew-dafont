@@ -5,7 +5,6 @@ cask 'dafont-axehandel' do
     url 'http://dl.dafont.com/dl/?f=axehandel'
     name 'Axe Handel'
     homepage 'http://www.dafont.com/axehandel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AxeHandel.ttf'
 end

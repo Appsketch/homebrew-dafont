@@ -5,7 +5,6 @@ cask 'dafont-parkwayextended' do
     url 'http://dl.dafont.com/dl/?f=parkwayextended'
     name 'Parkway Extended'
     homepage 'http://www.dafont.com/parkwayextended.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'parkwayextended.ttf'
 end

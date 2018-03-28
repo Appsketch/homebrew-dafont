@@ -5,7 +5,6 @@ cask 'dafont-spqr' do
     url 'http://dl.dafont.com/dl/?f=spqr'
     name 'SPQR'
     homepage 'http://www.dafont.com/spqr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spqr.ttf'
     font 'spqri.ttf'

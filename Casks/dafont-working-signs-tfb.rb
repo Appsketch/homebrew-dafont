@@ -5,7 +5,6 @@ cask 'dafont-working-signs-tfb' do
     url 'http://dl.dafont.com/dl/?f=working_signs_tfb'
     name 'Working Signs TFB'
     homepage 'http://www.dafont.com/working-signs-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'working signs tfb.ttf'
 end

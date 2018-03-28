@@ -5,7 +5,6 @@ cask 'dafont-fuck-off' do
     url 'http://dl.dafont.com/dl/?f=fuck_off'
     name 'Fuck Off'
     homepage 'http://www.dafont.com/fuck-off.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fuck Off.ttf'
 end

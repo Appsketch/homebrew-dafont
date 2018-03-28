@@ -5,7 +5,6 @@ cask 'dafont-vtks-mural' do
     url 'http://dl.dafont.com/dl/?f=vtks_mural'
     name 'VTKS Mural'
     homepage 'http://www.dafont.com/vtks-mural.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS Mural.ttf'
 end

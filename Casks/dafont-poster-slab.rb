@@ -5,7 +5,6 @@ cask 'dafont-poster-slab' do
     url 'http://dl.dafont.com/dl/?f=poster_slab'
     name 'Poster Slab'
     homepage 'http://www.dafont.com/poster-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PosterSlabCaps.ttf'
 end

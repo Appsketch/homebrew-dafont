@@ -5,7 +5,6 @@ cask 'dafont-culinary-art' do
     url 'http://dl.dafont.com/dl/?f=culinary_art'
     name 'Culinary Art'
     homepage 'http://www.dafont.com/culinary-art.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Culinary Art.ttf'
 end

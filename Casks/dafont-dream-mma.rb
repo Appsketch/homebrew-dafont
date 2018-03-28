@@ -5,7 +5,6 @@ cask 'dafont-dream-mma' do
     url 'http://dl.dafont.com/dl/?f=dream_mma'
     name 'Dream MMA'
     homepage 'http://www.dafont.com/dream-mma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dream MMA.ttf'
 end

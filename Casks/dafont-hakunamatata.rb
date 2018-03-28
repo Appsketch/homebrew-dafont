@@ -5,7 +5,6 @@ cask 'dafont-hakunamatata' do
     url 'http://dl.dafont.com/dl/?f=hakunamatata'
     name 'Hakuna Matata'
     homepage 'http://www.dafont.com/hakunamatata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HakunaMatata.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-inclinedletter' do
     url 'http://dl.dafont.com/dl/?f=inclinedletter'
     name 'Inclined letter'
     homepage 'http://www.dafont.com/inclinedletter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inclinedletter.ttf'
 end

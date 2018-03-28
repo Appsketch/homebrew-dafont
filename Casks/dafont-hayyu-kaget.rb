@@ -5,7 +5,6 @@ cask 'dafont-hayyu-kaget' do
     url 'http://dl.dafont.com/dl/?f=hayyu_kaget'
     name 'Hayyu Kaget'
     homepage 'http://www.dafont.com/hayyu-kaget.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hayyu Kaget.ttf'
 end

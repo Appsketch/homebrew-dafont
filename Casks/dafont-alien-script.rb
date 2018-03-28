@@ -5,7 +5,6 @@ cask 'dafont-alien-script' do
     url 'http://dl.dafont.com/dl/?f=alien_script'
     name 'Alien Script'
     homepage 'http://www.dafont.com/alien-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALIES___.TTF'
 end

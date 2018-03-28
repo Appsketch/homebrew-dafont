@@ -5,7 +5,6 @@ cask 'dafont-egyptian' do
     url 'http://dl.dafont.com/dl/?f=egyptian'
     name 'Egyptian'
     homepage 'http://www.dafont.com/egyptian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'egyptian.ttf'
 end

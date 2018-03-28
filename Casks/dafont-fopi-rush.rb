@@ -5,7 +5,6 @@ cask 'dafont-fopi-rush' do
     url 'http://dl.dafont.com/dl/?f=fopi_rush'
     name 'Fopi Rush'
     homepage 'http://www.dafont.com/fopi-rush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fopi Rush.ttf'
 end

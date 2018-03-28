@@ -5,7 +5,6 @@ cask 'dafont-rpgsystem' do
     url 'http://dl.dafont.com/dl/?f=rpgsystem'
     name 'RPGSystem'
     homepage 'http://www.dafont.com/rpgsystem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RPGSystem.ttf'
 end

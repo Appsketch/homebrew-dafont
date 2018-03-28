@@ -5,7 +5,6 @@ cask 'dafont-alex-toth' do
     url 'http://dl.dafont.com/dl/?f=alex_toth'
     name 'Alex Toth'
     homepage 'http://www.dafont.com/alex-toth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alex-toth.ttf'
 end

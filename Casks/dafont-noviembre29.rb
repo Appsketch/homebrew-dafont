@@ -5,7 +5,6 @@ cask 'dafont-noviembre29' do
     url 'http://dl.dafont.com/dl/?f=noviembre29'
     name 'Noviembre 29'
     homepage 'http://www.dafont.com/noviembre29.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Noviembre29.TTF'
 end

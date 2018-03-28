@@ -5,7 +5,6 @@ cask 'dafont-plaidevent' do
     url 'http://dl.dafont.com/dl/?f=plaidevent'
     name 'Plaid Event'
     homepage 'http://www.dafont.com/plaidevent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PlaidEvent.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-the-decompozed' do
     url 'http://dl.dafont.com/dl/?f=the_decompozed'
     name 'The Decompozed'
     homepage 'http://www.dafont.com/the-decompozed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheDecompozed-Regular.ttf'
 end

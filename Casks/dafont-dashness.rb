@@ -5,7 +5,6 @@ cask 'dafont-dashness' do
     url 'http://dl.dafont.com/dl/?f=dashness'
     name 'DashNess'
     homepage 'http://www.dafont.com/dashness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dashness.ttf'
 end

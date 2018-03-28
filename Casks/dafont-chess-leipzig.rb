@@ -5,7 +5,6 @@ cask 'dafont-chess-leipzig' do
     url 'http://dl.dafont.com/dl/?f=chess_leipzig'
     name 'Chess Leipzig'
     homepage 'http://www.dafont.com/chess-leipzig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEIPFONT.TTF'
 end

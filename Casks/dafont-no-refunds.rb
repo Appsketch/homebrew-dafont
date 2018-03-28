@@ -5,7 +5,6 @@ cask 'dafont-no-refunds' do
     url 'http://dl.dafont.com/dl/?f=no_refunds'
     name 'No Refunds'
     homepage 'http://www.dafont.com/no-refunds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Norefund.TTF'
 end

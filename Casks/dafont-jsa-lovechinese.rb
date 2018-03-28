@@ -5,7 +5,6 @@ cask 'dafont-jsa-lovechinese' do
     url 'http://dl.dafont.com/dl/?f=jsa_lovechinese'
     name 'JSA Lovechinese'
     homepage 'http://www.dafont.com/jsa-lovechinese.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jsa_lovechinese.ttf'
 end

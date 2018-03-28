@@ -5,7 +5,6 @@ cask 'dafont-barrio-rifa' do
     url 'http://dl.dafont.com/dl/?f=barrio_rifa'
     name 'Barrio Rifa'
     homepage 'http://www.dafont.com/barrio-rifa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barrio Rifa I.ttf'
     font 'Barrio Rifa II.ttf'

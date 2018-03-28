@@ -5,7 +5,6 @@ cask 'dafont-indezonefont-creati' do
     url 'http://dl.dafont.com/dl/?f=indezonefont_creati'
     name 'Indezonefont - creative'
     homepage 'http://www.dafont.com/indezonefont-creati.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'indezonefont_-_creative.ttf'
 end

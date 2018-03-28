@@ -5,7 +5,6 @@ cask 'dafont-chn1' do
     url 'http://dl.dafont.com/dl/?f=chn1'
     name 'ChN1'
     homepage 'http://www.dafont.com/chn1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChN1_Regular.ttf'
 end

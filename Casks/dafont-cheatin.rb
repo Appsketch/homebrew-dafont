@@ -5,7 +5,6 @@ cask 'dafont-cheatin' do
     url 'http://dl.dafont.com/dl/?f=cheatin'
     name 'Cheatin'
     homepage 'http://www.dafont.com/cheatin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cheatin.ttf'
 end

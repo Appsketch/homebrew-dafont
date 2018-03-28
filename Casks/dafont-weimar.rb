@@ -5,7 +5,6 @@ cask 'dafont-weimar' do
     url 'http://dl.dafont.com/dl/?f=weimar'
     name 'Weimar'
     homepage 'http://www.dafont.com/weimar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WEIMAR.TTF'
 end

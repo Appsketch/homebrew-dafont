@@ -5,7 +5,6 @@ cask 'dafont-funtrucks' do
     url 'http://dl.dafont.com/dl/?f=funtrucks'
     name 'FunTrucks'
     homepage 'http://www.dafont.com/funtrucks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FunTrucks.ttf'
 end

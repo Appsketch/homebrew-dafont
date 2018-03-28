@@ -5,7 +5,6 @@ cask 'dafont-dhe-cruncy' do
     url 'http://dl.dafont.com/dl/?f=dhe_cruncy'
     name 'Dhe Cruncy'
     homepage 'http://www.dafont.com/dhe-cruncy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DHE_CRUNCY.ttf'
 end

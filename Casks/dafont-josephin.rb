@@ -5,7 +5,6 @@ cask 'dafont-josephin' do
     url 'http://dl.dafont.com/dl/?f=josephin'
     name 'Josephin'
     homepage 'http://www.dafont.com/josephin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Josephin.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-skirules-sans-2' do
     url 'http://dl.dafont.com/dl/?f=skirules_sans_2'
     name 'Skirules Sans 2'
     homepage 'http://www.dafont.com/skirules-sans-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skirules-Sans2.ttf'
 end

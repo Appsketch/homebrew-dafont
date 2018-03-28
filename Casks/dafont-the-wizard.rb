@@ -5,7 +5,6 @@ cask 'dafont-the-wizard' do
     url 'http://dl.dafont.com/dl/?f=the_wizard'
     name 'The Wizard'
     homepage 'http://www.dafont.com/the-wizard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Wizard.ttf'
 end

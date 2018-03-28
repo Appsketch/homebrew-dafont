@@ -5,7 +5,6 @@ cask 'dafont-bluegrass' do
     url 'http://dl.dafont.com/dl/?f=bluegrass'
     name 'Bluegrass'
     homepage 'http://www.dafont.com/bluegrass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bluegrass OUTLINE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-divlit' do
     url 'http://dl.dafont.com/dl/?f=divlit'
     name 'Divlit'
     homepage 'http://www.dafont.com/divlit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'divlit001.ttf'
 end

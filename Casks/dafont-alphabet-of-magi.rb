@@ -5,7 +5,6 @@ cask 'dafont-alphabet-of-magi' do
     url 'http://dl.dafont.com/dl/?f=alphabet_of_magi'
     name 'Alphabet of the Magi'
     homepage 'http://www.dafont.com/alphabet-of-magi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALPMAGI.TTF'
 end

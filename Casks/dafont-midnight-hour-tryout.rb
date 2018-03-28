@@ -5,7 +5,6 @@ cask 'dafont-midnight-hour-tryout' do
     url 'http://dl.dafont.com/dl/?f=midnight_hour_tryout'
     name 'Midnight Hour'
     homepage 'http://www.dafont.com/midnight-hour-tryout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MidnightHour-Tryout.ttf'
 end

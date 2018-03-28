@@ -5,7 +5,6 @@ cask 'dafont-rayman-adventures' do
     url 'http://dl.dafont.com/dl/?f=rayman_adventures'
     name 'Rayman Adventures'
     homepage 'http://www.dafont.com/rayman-adventures.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rayman.ttf'
 end

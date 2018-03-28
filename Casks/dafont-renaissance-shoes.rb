@@ -5,7 +5,6 @@ cask 'dafont-renaissance-shoes' do
     url 'http://dl.dafont.com/dl/?f=renaissance_shoes'
     name 'Renaissance Shoes'
     homepage 'http://www.dafont.com/renaissance-shoes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Renaissance Shoes.ttf'
 end

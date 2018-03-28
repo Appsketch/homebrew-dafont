@@ -5,7 +5,6 @@ cask 'dafont-simpleronde' do
     url 'http://dl.dafont.com/dl/?f=simpleronde'
     name 'Simple Ronde'
     homepage 'http://www.dafont.com/simpleronde.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SimpleRonde-Regular.ttf'
 end

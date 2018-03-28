@@ -5,7 +5,6 @@ cask 'dafont-ancient-grease' do
     url 'http://dl.dafont.com/dl/?f=ancient_grease'
     name 'Ancient Grease'
     homepage 'http://www.dafont.com/ancient-grease.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANCIENT GREASE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-halloween-spider' do
     url 'http://dl.dafont.com/dl/?f=halloween_spider'
     name 'Halloween Spider'
     homepage 'http://www.dafont.com/halloween-spider.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Halls___.ttf'
 end

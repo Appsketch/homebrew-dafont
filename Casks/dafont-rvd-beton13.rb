@@ -5,7 +5,6 @@ cask 'dafont-rvd-beton13' do
     url 'http://dl.dafont.com/dl/?f=rvd_beton13'
     name 'RvD Beton13'
     homepage 'http://www.dafont.com/rvd-beton13.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RvD_BETON13.ttf'
 end

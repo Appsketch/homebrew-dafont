@@ -5,7 +5,6 @@ cask 'dafont-das-reicht-gut' do
     url 'http://dl.dafont.com/dl/?f=das_reicht_gut'
     name 'DasReicht Gut'
     homepage 'http://www.dafont.com/das-reicht-gut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DRG.TTF'
 end

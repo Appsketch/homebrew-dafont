@@ -5,7 +5,6 @@ cask 'dafont-startmenu' do
     url 'http://dl.dafont.com/dl/?f=startmenu'
     name 'Start Menu'
     homepage 'http://www.dafont.com/startmenu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StartMenu.ttf'
 end

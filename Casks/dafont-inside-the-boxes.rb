@@ -5,7 +5,6 @@ cask 'dafont-inside-the-boxes' do
     url 'http://dl.dafont.com/dl/?f=inside_the_boxes'
     name 'inside the boxes'
     homepage 'http://www.dafont.com/inside-the-boxes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'inside the boxes.ttf'
 end

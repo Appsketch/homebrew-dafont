@@ -5,7 +5,6 @@ cask 'dafont-alexandria' do
     url 'http://dl.dafont.com/dl/?f=alexandria'
     name 'Alexandria'
     homepage 'http://www.dafont.com/alexandria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alexandria.ttf'
 end

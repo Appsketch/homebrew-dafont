@@ -5,7 +5,6 @@ cask 'dafont-street-soul' do
     url 'http://dl.dafont.com/dl/?f=street_soul'
     name 'Street Soul'
     homepage 'http://www.dafont.com/street-soul.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'street soul.ttf'
 end

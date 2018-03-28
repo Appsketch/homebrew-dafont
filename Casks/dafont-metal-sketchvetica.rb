@@ -5,7 +5,6 @@ cask 'dafont-metal-sketchvetica' do
     url 'http://dl.dafont.com/dl/?f=metal_sketchvetica'
     name 'Metal Sketchvetica'
     homepage 'http://www.dafont.com/metal-sketchvetica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sketchvetica.ttf'
 end

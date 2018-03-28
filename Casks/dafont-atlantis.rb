@@ -5,7 +5,6 @@ cask 'dafont-atlantis' do
     url 'http://dl.dafont.com/dl/?f=atlantis'
     name 'Atlantis'
     homepage 'http://www.dafont.com/atlantis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'atlantis.ttf'
 end

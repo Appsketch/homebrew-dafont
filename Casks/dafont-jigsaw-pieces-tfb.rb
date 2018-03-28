@@ -5,7 +5,6 @@ cask 'dafont-jigsaw-pieces-tfb' do
     url 'http://dl.dafont.com/dl/?f=jigsaw_pieces_tfb'
     name 'Jigsaw Pieces TFB'
     homepage 'http://www.dafont.com/jigsaw-pieces-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jigsaw pieces tfb.ttf'
 end

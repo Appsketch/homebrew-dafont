@@ -5,7 +5,6 @@ cask 'dafont-euro-caps' do
     url 'http://dl.dafont.com/dl/?f=euro_caps'
     name 'Euro Caps'
     homepage 'http://www.dafont.com/euro-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EUROCAPS.TTF'
 end

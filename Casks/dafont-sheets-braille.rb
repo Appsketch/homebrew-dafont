@@ -5,7 +5,6 @@ cask 'dafont-sheets-braille' do
     url 'http://dl.dafont.com/dl/?f=sheets_braille'
     name 'Sheets Braille'
     homepage 'http://www.dafont.com/sheets-braille.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sheets_Braille_Light.ttf'
     font 'Sheets_Braille.ttf'

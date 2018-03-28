@@ -5,7 +5,6 @@ cask 'dafont-musiker' do
     url 'http://dl.dafont.com/dl/?f=musiker'
     name 'Musiker'
     homepage 'http://www.dafont.com/musiker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Musiker single.ttf'
     font 'Musiker staff.ttf'

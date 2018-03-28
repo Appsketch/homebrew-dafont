@@ -5,7 +5,6 @@ cask 'dafont-joliscript' do
     url 'http://dl.dafont.com/dl/?f=joliscript'
     name 'JoliScript'
     homepage 'http://www.dafont.com/joliscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JOLIS___.TTF'
 end

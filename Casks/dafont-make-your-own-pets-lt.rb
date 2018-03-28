@@ -5,7 +5,6 @@ cask 'dafont-make-your-own-pets-lt' do
     url 'http://dl.dafont.com/dl/?f=make_your_own_pets_lt'
     name 'Make Your Own Pets LT'
     homepage 'http://www.dafont.com/make-your-own-pets-lt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'makeyourownpetLT.ttf'
 end

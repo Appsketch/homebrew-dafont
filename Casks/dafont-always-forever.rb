@@ -5,7 +5,6 @@ cask 'dafont-always-forever' do
     url 'http://dl.dafont.com/dl/?f=always_forever'
     name 'Always forever'
     homepage 'http://www.dafont.com/always-forever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Always Forever Bold.ttf'
     font 'Always Forever.ttf'

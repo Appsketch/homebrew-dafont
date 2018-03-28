@@ -5,7 +5,6 @@ cask 'dafont-moonpie' do
     url 'http://dl.dafont.com/dl/?f=moonpie'
     name 'Moonpie a la monde'
     homepage 'http://www.dafont.com/moonpie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'moonpiea.ttf'
 end

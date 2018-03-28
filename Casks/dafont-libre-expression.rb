@@ -5,7 +5,6 @@ cask 'dafont-libre-expression' do
     url 'http://dl.dafont.com/dl/?f=libre_expression'
     name 'Libre Expression'
     homepage 'http://www.dafont.com/libre-expression.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Libre Expression.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-manhattan-tower' do
     url 'http://dl.dafont.com/dl/?f=manhattan_tower'
     name 'Manhattan Tower'
     homepage 'http://www.dafont.com/manhattan-tower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Manhattan Tower Bold Italic.otf'
     font 'Manhattan Tower Bold.otf'

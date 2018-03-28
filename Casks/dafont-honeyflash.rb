@@ -5,7 +5,6 @@ cask 'dafont-honeyflash' do
     url 'http://dl.dafont.com/dl/?f=honeyflash'
     name 'Honeyflash'
     homepage 'http://www.dafont.com/honeyflash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HONEYFLA.TTF'
 end

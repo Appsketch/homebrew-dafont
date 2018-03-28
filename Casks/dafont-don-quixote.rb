@@ -5,7 +5,6 @@ cask 'dafont-don-quixote' do
     url 'http://dl.dafont.com/dl/?f=don_quixote'
     name 'Don Quixote'
     homepage 'http://www.dafont.com/don-quixote.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Don_Quixote.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-archibald' do
     url 'http://dl.dafont.com/dl/?f=archibald'
     name 'Archibald'
     homepage 'http://www.dafont.com/archibald.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Archibald.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gordita-alegre' do
     url 'http://dl.dafont.com/dl/?f=gordita_alegre'
     name 'Gordita Alegre'
     homepage 'http://www.dafont.com/gordita-alegre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gordita Alegre.ttf'
 end

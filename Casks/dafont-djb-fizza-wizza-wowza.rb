@@ -5,7 +5,6 @@ cask 'dafont-djb-fizza-wizza-wowza' do
     url 'http://dl.dafont.com/dl/?f=djb_fizza_wizza_wowza'
     name 'DJB Fizza Wizza Wowza'
     homepage 'http://www.dafont.com/djb-fizza-wizza-wowza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Fizza Wizza Wowza.ttf'
 end

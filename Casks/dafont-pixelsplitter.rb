@@ -5,7 +5,6 @@ cask 'dafont-pixelsplitter' do
     url 'http://dl.dafont.com/dl/?f=pixelsplitter'
     name 'PixelSplitter'
     homepage 'http://www.dafont.com/pixelsplitter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixelSplitter-Bold.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-carbon-blade' do
     url 'http://dl.dafont.com/dl/?f=carbon_blade'
     name 'Carbon Blade'
     homepage 'http://www.dafont.com/carbon-blade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carbon_Blade_font.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-happy-birthday-baby' do
     url 'http://dl.dafont.com/dl/?f=happy_birthday_baby'
     name 'Happy Birthday, Baby'
     homepage 'http://www.dafont.com/happy-birthday-baby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Happy Birthday, Baby (Bold).ttf'
     font 'Happy Birthday, Baby (Medium).ttf'

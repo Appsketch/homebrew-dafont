@@ -5,7 +5,6 @@ cask 'dafont-the-dead-saloon' do
     url 'http://dl.dafont.com/dl/?f=the_dead_saloon'
     name 'The Dead Saloon'
     homepage 'http://www.dafont.com/the-dead-saloon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thedeadsaloon-Regular.ttf'
 end

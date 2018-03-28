@@ -5,7 +5,6 @@ cask 'dafont-smoke-rasterized' do
     url 'http://dl.dafont.com/dl/?f=smoke_rasterized'
     name 'Smoke Rasterized'
     homepage 'http://www.dafont.com/smoke-rasterized.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smoke-Rasterized.ttf'
 end

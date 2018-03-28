@@ -5,7 +5,6 @@ cask 'dafont-janda-rosalie' do
     url 'http://dl.dafont.com/dl/?f=janda_rosalie'
     name 'Janda Rosalie'
     homepage 'http://www.dafont.com/janda-rosalie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaRosalie.ttf'
 end

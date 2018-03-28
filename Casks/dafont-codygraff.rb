@@ -5,7 +5,6 @@ cask 'dafont-codygraff' do
     url 'http://dl.dafont.com/dl/?f=codygraff'
     name 'Codygraff'
     homepage 'http://www.dafont.com/codygraff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'codygraff.ttf'
 end

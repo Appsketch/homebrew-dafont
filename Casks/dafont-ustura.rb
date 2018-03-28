@@ -5,7 +5,6 @@ cask 'dafont-ustura' do
     url 'http://dl.dafont.com/dl/?f=ustura'
     name 'Ustura'
     homepage 'http://www.dafont.com/ustura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ustura.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-do-i-lie' do
     url 'http://dl.dafont.com/dl/?f=do_i_lie'
     name 'Do I lie ?'
     homepage 'http://www.dafont.com/do-i-lie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOILIE.TTF'
 end

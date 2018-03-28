@@ -5,7 +5,6 @@ cask 'dafont-fizzo' do
     url 'http://dl.dafont.com/dl/?f=fizzo'
     name 'Fizzo'
     homepage 'http://www.dafont.com/fizzo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FIZZO-Heavy.otf'
     font 'FIZZO-Medium.otf'

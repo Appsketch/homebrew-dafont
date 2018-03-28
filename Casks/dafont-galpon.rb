@@ -5,7 +5,6 @@ cask 'dafont-galpon' do
     url 'http://dl.dafont.com/dl/?f=galpon'
     name 'Galp&oacute;n'
     homepage 'http://www.dafont.com/galpon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Galpon-Black.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-deafening-silence' do
     url 'http://dl.dafont.com/dl/?f=deafening_silence'
     name 'Deafening Silence'
     homepage 'http://www.dafont.com/deafening-silence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deafening Silence.ttf'
 end

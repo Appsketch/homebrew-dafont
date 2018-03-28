@@ -5,7 +5,6 @@ cask 'dafont-oldstyle-hplhs' do
     url 'http://dl.dafont.com/dl/?f=oldstyle_hplhs'
     name 'OldStyle'
     homepage 'http://www.dafont.com/oldstyle-hplhs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OLDSH___.TTF'
     font 'OLDSIH__.TTF'

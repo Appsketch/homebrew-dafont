@@ -5,7 +5,6 @@ cask 'dafont-deadspace' do
     url 'http://dl.dafont.com/dl/?f=deadspace'
     name 'Dead Space'
     homepage 'http://www.dafont.com/deadspace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeadSpace Unitology.ttf'
 end

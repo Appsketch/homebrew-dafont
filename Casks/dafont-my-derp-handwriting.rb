@@ -5,7 +5,6 @@ cask 'dafont-my-derp-handwriting' do
     url 'http://dl.dafont.com/dl/?f=my_derp_handwriting'
     name 'My derp handwriting'
     homepage 'http://www.dafont.com/my-derp-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'my derp handwriting.ttf'
 end

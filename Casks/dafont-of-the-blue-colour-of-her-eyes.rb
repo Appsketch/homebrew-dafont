@@ -5,7 +5,6 @@ cask 'dafont-of-the-blue-colour-of-her-eyes' do
     url 'http://dl.dafont.com/dl/?f=of_the_blue_colour_of_her_eyes'
     name 'Of The Blue Colour Of Her Eyes'
     homepage 'http://www.dafont.com/of-the-blue-colour-of-her-eyes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Of The Blue Colour Of Her Eyes.otf'
 end

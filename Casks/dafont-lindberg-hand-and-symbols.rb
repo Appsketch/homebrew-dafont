@@ -5,7 +5,6 @@ cask 'dafont-lindberg-hand-and-symbols' do
     url 'http://dl.dafont.com/dl/?f=lindberg_hand_and_symbols'
     name 'Lindberg hand and symbols'
     homepage 'http://www.dafont.com/lindberg-hand-and-symbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lindberg_hand_and_symbols.ttf'
 end

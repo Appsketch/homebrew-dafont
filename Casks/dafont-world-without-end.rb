@@ -5,7 +5,6 @@ cask 'dafont-world-without-end' do
     url 'http://dl.dafont.com/dl/?f=world_without_end'
     name 'World without end'
     homepage 'http://www.dafont.com/world-without-end.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'World without end.ttf'
 end

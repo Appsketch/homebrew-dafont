@@ -5,7 +5,6 @@ cask 'dafont-ip' do
     url 'http://dl.dafont.com/dl/?f=ip'
     name 'IP'
     homepage 'http://www.dafont.com/ip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IP_arial.ttf'
 end

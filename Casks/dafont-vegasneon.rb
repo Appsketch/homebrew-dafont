@@ -5,7 +5,6 @@ cask 'dafont-vegasneon' do
     url 'http://dl.dafont.com/dl/?f=vegasneon'
     name 'Vegas Neon'
     homepage 'http://www.dafont.com/vegasneon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VegasNeon.ttf'
 end

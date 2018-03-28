@@ -5,7 +5,6 @@ cask 'dafont-anha-queen-vmf' do
     url 'http://dl.dafont.com/dl/?f=anha_queen_vmf'
     name 'Anha Queen VMF'
     homepage 'http://www.dafont.com/anha-queen-vmf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Queen Anha Script.ttf'
 end

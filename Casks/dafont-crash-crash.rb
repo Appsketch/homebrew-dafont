@@ -5,7 +5,6 @@ cask 'dafont-crash-crash' do
     url 'http://dl.dafont.com/dl/?f=crash_crash'
     name 'Crash Crash'
     homepage 'http://www.dafont.com/crash-crash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crash Crash.ttf'
 end

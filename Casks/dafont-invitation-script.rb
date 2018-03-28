@@ -5,7 +5,6 @@ cask 'dafont-invitation-script' do
     url 'http://dl.dafont.com/dl/?f=invitation_script'
     name 'Invitation Script'
     homepage 'http://www.dafont.com/invitation-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Invitation Script LIMITED FREE VERSION.ttf'
 end

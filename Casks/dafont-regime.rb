@@ -5,7 +5,6 @@ cask 'dafont-regime' do
     url 'http://dl.dafont.com/dl/?f=regime'
     name 'Regime'
     homepage 'http://www.dafont.com/regime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'regime.ttf'
 end

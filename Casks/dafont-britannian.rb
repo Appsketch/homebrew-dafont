@@ -5,7 +5,6 @@ cask 'dafont-britannian' do
     url 'http://dl.dafont.com/dl/?f=britannian'
     name 'Britannian'
     homepage 'http://www.dafont.com/britannian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Britannian Bold Italic.otf'
     font 'Britannian Bold.otf'

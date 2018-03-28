@@ -5,7 +5,6 @@ cask 'dafont-my-hands-are-holding-you' do
     url 'http://dl.dafont.com/dl/?f=my_hands_are_holding_you'
     name 'My Hands are Holding You'
     homepage 'http://www.dafont.com/my-hands-are-holding-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MyHandsareHoldingYou.ttf'
 end

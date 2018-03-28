@@ -5,7 +5,6 @@ cask 'dafont-thinkingacademicdt' do
     url 'http://dl.dafont.com/dl/?f=thinkingacademicdt'
     name 'Thinking Academic DT'
     homepage 'http://www.dafont.com/thinkingacademicdt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThinkingAcademicDT.ttf'
 end

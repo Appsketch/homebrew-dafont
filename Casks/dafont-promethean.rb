@@ -5,7 +5,6 @@ cask 'dafont-promethean' do
     url 'http://dl.dafont.com/dl/?f=promethean'
     name 'Promethean'
     homepage 'http://www.dafont.com/promethean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'promethean.ttf'
     font 'prometheanb.ttf'

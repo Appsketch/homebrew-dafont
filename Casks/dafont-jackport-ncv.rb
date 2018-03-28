@@ -5,7 +5,6 @@ cask 'dafont-jackport-ncv' do
     url 'http://dl.dafont.com/dl/?f=jackport_ncv'
     name 'Jackport NCV'
     homepage 'http://www.dafont.com/jackport-ncv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JACKPORT COLLEGE NCV.ttf'
     font 'JACKPORT GREEK NCV.ttf'

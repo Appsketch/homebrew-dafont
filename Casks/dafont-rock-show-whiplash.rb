@@ -5,7 +5,6 @@ cask 'dafont-rock-show-whiplash' do
     url 'http://dl.dafont.com/dl/?f=rock_show_whiplash'
     name 'Rock Show Whiplash'
     homepage 'http://www.dafont.com/rock-show-whiplash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rock Show Whiplash.ttf'
 end

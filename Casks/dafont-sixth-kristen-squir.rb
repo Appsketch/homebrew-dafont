@@ -5,7 +5,6 @@ cask 'dafont-sixth-kristen-squir' do
     url 'http://dl.dafont.com/dl/?f=sixth_kristen_squir'
     name 'Sixth Kristen Squirt'
     homepage 'http://www.dafont.com/sixth-kristen-squir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sixth Kristen Squirt.ttf'
 end

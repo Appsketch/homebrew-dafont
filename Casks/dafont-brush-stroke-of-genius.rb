@@ -5,7 +5,6 @@ cask 'dafont-brush-stroke-of-genius' do
     url 'http://dl.dafont.com/dl/?f=brush_stroke_of_genius'
     name 'Brush Stroke Of Genius'
     homepage 'http://www.dafont.com/brush-stroke-of-genius.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brush Stroke Of Genius.ttf'
 end

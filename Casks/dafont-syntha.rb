@@ -5,7 +5,6 @@ cask 'dafont-syntha' do
     url 'http://dl.dafont.com/dl/?f=syntha'
     name 'Syntha'
     homepage 'http://www.dafont.com/syntha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Syntha Ultra.ttf'
     font 'Syntha.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-secretsauce' do
     url 'http://dl.dafont.com/dl/?f=secretsauce'
     name 'Secret Sauce'
     homepage 'http://www.dafont.com/secretsauce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'secretsauce.ttf'
     font 'secretsaucelight.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-flovio' do
     url 'http://dl.dafont.com/dl/?f=flovio'
     name 'Flovio'
     homepage 'http://www.dafont.com/flovio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flovio.ttf'
 end

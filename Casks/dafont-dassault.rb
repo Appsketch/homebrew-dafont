@@ -5,7 +5,6 @@ cask 'dafont-dassault' do
     url 'http://dl.dafont.com/dl/?f=dassault'
     name 'Dassault'
     homepage 'http://www.dafont.com/dassault.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dassault.ttf'
     font 'dassault3d.ttf'

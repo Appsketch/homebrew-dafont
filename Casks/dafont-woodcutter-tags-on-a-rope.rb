@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-tags-on-a-rope' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_tags_on_a_rope'
     name 'Woodcutter Tags on a Rope'
     homepage 'http://www.dafont.com/woodcutter-tags-on-a-rope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Tags on a Rope.ttf'
 end

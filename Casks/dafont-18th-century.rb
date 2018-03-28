@@ -5,7 +5,6 @@ cask 'dafont-18th-century' do
     url 'http://dl.dafont.com/dl/?f=18th_century'
     name '18th Century'
     homepage 'http://www.dafont.com/18th-century.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '18thCentury.ttf'
 end

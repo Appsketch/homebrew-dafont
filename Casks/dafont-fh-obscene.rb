@@ -5,7 +5,6 @@ cask 'dafont-fh-obscene' do
     url 'http://dl.dafont.com/dl/?f=fh_obscene'
     name 'Fh Obscene'
     homepage 'http://www.dafont.com/fh-obscene.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fh_Obscene.otf'
 end

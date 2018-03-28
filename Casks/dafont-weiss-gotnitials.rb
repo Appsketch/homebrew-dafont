@@ -5,7 +5,6 @@ cask 'dafont-weiss-gotnitials' do
     url 'http://dl.dafont.com/dl/?f=weiss_gotnitials'
     name 'Weiss Gotnitials'
     homepage 'http://www.dafont.com/weiss-gotnitials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WeissGotnitials.ttf'
 end

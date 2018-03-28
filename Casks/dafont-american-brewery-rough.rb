@@ -5,7 +5,6 @@ cask 'dafont-american-brewery-rough' do
     url 'http://dl.dafont.com/dl/?f=american_brewery_rough'
     name 'American Brewery Rough'
     homepage 'http://www.dafont.com/american-brewery-rough.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'American Brewery Rough.ttf'
 end

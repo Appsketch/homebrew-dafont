@@ -5,7 +5,6 @@ cask 'dafont-masra' do
     url 'http://dl.dafont.com/dl/?f=masra'
     name 'Masra'
     homepage 'http://www.dafont.com/masra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'masra.ttf'
 end

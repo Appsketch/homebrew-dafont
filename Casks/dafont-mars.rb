@@ -5,7 +5,6 @@ cask 'dafont-mars' do
     url 'http://dl.dafont.com/dl/?f=mars'
     name 'Mars'
     homepage 'http://www.dafont.com/mars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mars 1.0.0.6.otf'
 end

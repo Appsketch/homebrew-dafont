@@ -5,7 +5,6 @@ cask 'dafont-white-bold' do
     url 'http://dl.dafont.com/dl/?f=white_bold'
     name 'White Bold'
     homepage 'http://www.dafont.com/white-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WHITEBLD.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-walking-around' do
     url 'http://dl.dafont.com/dl/?f=walking_around'
     name 'Walking Around'
     homepage 'http://www.dafont.com/walking-around.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Walking Around.ttf'
 end

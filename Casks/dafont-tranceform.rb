@@ -5,7 +5,6 @@ cask 'dafont-tranceform' do
     url 'http://dl.dafont.com/dl/?f=tranceform'
     name 'Tranceform'
     homepage 'http://www.dafont.com/tranceform.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trancefm.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-charlie-brown-m54' do
     url 'http://dl.dafont.com/dl/?f=charlie_brown_m54'
     name 'Charlie Brown M54'
     homepage 'http://www.dafont.com/charlie-brown-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Charlie Brown M54.ttf'
 end

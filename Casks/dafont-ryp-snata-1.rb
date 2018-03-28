@@ -5,7 +5,6 @@ cask 'dafont-ryp-snata-1' do
     url 'http://dl.dafont.com/dl/?f=ryp_snata_1'
     name 'RYP Snata 1'
     homepage 'http://www.dafont.com/ryp-snata-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RYP-NAT.TTF'
 end

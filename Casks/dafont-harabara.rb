@@ -5,7 +5,6 @@ cask 'dafont-harabara' do
     url 'http://dl.dafont.com/dl/?f=harabara'
     name 'Harabara Mais'
     homepage 'http://www.dafont.com/harabara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Harabara Mais Demo.otf'
 end

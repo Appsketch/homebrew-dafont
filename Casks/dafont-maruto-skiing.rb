@@ -5,7 +5,6 @@ cask 'dafont-maruto-skiing' do
     url 'http://dl.dafont.com/dl/?f=maruto_skiing'
     name 'Maruto Skiing'
     homepage 'http://www.dafont.com/maruto-skiing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maruto Skiing.ttf'
 end

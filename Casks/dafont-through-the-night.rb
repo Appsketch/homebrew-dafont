@@ -5,7 +5,6 @@ cask 'dafont-through-the-night' do
     url 'http://dl.dafont.com/dl/?f=through_the_night'
     name 'Through the night'
     homepage 'http://www.dafont.com/through-the-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Through the night.ttf'
 end

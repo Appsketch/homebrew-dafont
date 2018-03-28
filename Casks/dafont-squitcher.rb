@@ -5,7 +5,6 @@ cask 'dafont-squitcher' do
     url 'http://dl.dafont.com/dl/?f=squitcher'
     name 'Squitcher'
     homepage 'http://www.dafont.com/squitcher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'squitcher.ttf'
 end

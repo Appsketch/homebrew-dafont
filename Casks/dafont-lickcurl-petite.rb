@@ -5,7 +5,6 @@ cask 'dafont-lickcurl-petite' do
     url 'http://dl.dafont.com/dl/?f=lickcurl_petite'
     name 'Lickcurl Petite'
     homepage 'http://www.dafont.com/lickcurl-petite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lickcurl Petite.ttf'
 end

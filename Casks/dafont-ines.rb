@@ -5,7 +5,6 @@ cask 'dafont-ines' do
     url 'http://dl.dafont.com/dl/?f=ines'
     name 'Ines'
     homepage 'http://www.dafont.com/ines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ines.ttf'
 end

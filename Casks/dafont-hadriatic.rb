@@ -5,7 +5,6 @@ cask 'dafont-hadriatic' do
     url 'http://dl.dafont.com/dl/?f=hadriatic'
     name 'Hadriatic'
     homepage 'http://www.dafont.com/hadriatic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hadriatic.ttf'
     font 'hadriaticb.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-delerium' do
     url 'http://dl.dafont.com/dl/?f=delerium'
     name 'Delerium'
     homepage 'http://www.dafont.com/delerium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Delerium.ttf'
 end

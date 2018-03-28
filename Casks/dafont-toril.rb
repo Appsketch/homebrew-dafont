@@ -5,7 +5,6 @@ cask 'dafont-toril' do
     url 'http://dl.dafont.com/dl/?f=toril'
     name 'Toril'
     homepage 'http://www.dafont.com/toril.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Toril.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-throw-my-hands-up-in-the-air' do
     url 'http://dl.dafont.com/dl/?f=throw_my_hands_up_in_the_air'
     name 'Throw My Hands Up in the Air'
     homepage 'http://www.dafont.com/throw-my-hands-up-in-the-air.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThrowMyHandsUpintheAir.ttf'
     font 'ThrowMyHandsUpintheAirBold.ttf'

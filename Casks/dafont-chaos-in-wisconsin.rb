@@ -5,7 +5,6 @@ cask 'dafont-chaos-in-wisconsin' do
     url 'http://dl.dafont.com/dl/?f=chaos_in_wisconsin'
     name 'Chaos in Wisconsin'
     homepage 'http://www.dafont.com/chaos-in-wisconsin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chaos in Wisconsin.ttf'
 end

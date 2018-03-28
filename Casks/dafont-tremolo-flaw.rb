@@ -5,7 +5,6 @@ cask 'dafont-tremolo-flaw' do
     url 'http://dl.dafont.com/dl/?f=tremolo_flaw'
     name 'Tremolo Flaw'
     homepage 'http://www.dafont.com/tremolo-flaw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tremolo Flaw.ttf'
 end

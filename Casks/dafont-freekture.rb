@@ -5,7 +5,6 @@ cask 'dafont-freekture' do
     url 'http://dl.dafont.com/dl/?f=freekture'
     name 'FreekTure'
     homepage 'http://www.dafont.com/freekture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreekTure.ttf'
 end

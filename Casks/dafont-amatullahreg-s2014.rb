@@ -5,7 +5,6 @@ cask 'dafont-amatullahreg-s2014' do
     url 'http://dl.dafont.com/dl/?f=amatullahreg_s2014'
     name 'Amatullah Reg S2014'
     homepage 'http://www.dafont.com/amatullahreg-s2014.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmatullahReg_S2014.ttf'
 end

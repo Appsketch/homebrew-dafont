@@ -5,7 +5,6 @@ cask 'dafont-sanromero' do
     url 'http://dl.dafont.com/dl/?f=sanromero'
     name 'San Romero'
     homepage 'http://www.dafont.com/sanromero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SANROMERO.ttf'
 end

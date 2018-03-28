@@ -5,7 +5,6 @@ cask 'dafont-typographer-woodcut' do
     url 'http://dl.dafont.com/dl/?f=typographer_woodcut'
     name 'Typographer Woodcut Initials One'
     homepage 'http://www.dafont.com/typographer-woodcut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcut1.ttf'
 end

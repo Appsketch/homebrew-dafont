@@ -5,7 +5,6 @@ cask 'dafont-without-notice' do
     url 'http://dl.dafont.com/dl/?f=without_notice'
     name 'Without Notice'
     homepage 'http://www.dafont.com/without-notice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Without Notice.otf'
 end

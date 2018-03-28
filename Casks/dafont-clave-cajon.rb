@@ -5,7 +5,6 @@ cask 'dafont-clave-cajon' do
     url 'http://dl.dafont.com/dl/?f=clave_cajon'
     name 'Clave Caj&oacute;n'
     homepage 'http://www.dafont.com/clave-cajon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clave Caj&cent;n.ttf'
 end

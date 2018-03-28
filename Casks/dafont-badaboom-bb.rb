@@ -5,7 +5,6 @@ cask 'dafont-badaboom-bb' do
     url 'http://dl.dafont.com/dl/?f=badaboom_bb'
     name 'Badaboom BB'
     homepage 'http://www.dafont.com/badaboom-bb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BADABB__.TTF'
 end

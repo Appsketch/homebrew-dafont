@@ -5,7 +5,6 @@ cask 'dafont-typographic-onedalism' do
     url 'http://dl.dafont.com/dl/?f=typographic_onedalism'
     name 'Typographic Onedalism'
     homepage 'http://www.dafont.com/typographic-onedalism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'marker.ttf'
 end

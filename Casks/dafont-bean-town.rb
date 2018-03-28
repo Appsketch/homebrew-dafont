@@ -5,7 +5,6 @@ cask 'dafont-bean-town' do
     url 'http://dl.dafont.com/dl/?f=bean_town'
     name 'Bean Town'
     homepage 'http://www.dafont.com/bean-town.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEANTOWN.TTF'
 end

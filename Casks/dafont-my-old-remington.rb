@@ -5,7 +5,6 @@ cask 'dafont-my-old-remington' do
     url 'http://dl.dafont.com/dl/?f=my_old_remington'
     name 'My Old Remington'
     homepage 'http://www.dafont.com/my-old-remington.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'myoldrem.ttf'
 end

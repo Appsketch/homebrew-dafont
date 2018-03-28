@@ -5,7 +5,6 @@ cask 'dafont-sample' do
     url 'http://dl.dafont.com/dl/?f=sample'
     name 'Sample'
     homepage 'http://www.dafont.com/sample.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sample.fon'
 end

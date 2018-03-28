@@ -5,7 +5,6 @@ cask 'dafont-prismakers' do
     url 'http://dl.dafont.com/dl/?f=prismakers'
     name 'Prismakers'
     homepage 'http://www.dafont.com/prismakers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Prismakers-Regular.ttf'
 end

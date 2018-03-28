@@ -5,7 +5,6 @@ cask 'dafont-mb-tyrant' do
     url 'http://dl.dafont.com/dl/?f=mb_tyrant'
     name 'MB TyranT'
     homepage 'http://www.dafont.com/mb-tyrant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB_TyranT.ttf'
 end

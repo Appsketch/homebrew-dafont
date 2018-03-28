@@ -5,7 +5,6 @@ cask 'dafont-western-bang-bang' do
     url 'http://dl.dafont.com/dl/?f=western_bang_bang'
     name 'Western Bang Bang'
     homepage 'http://www.dafont.com/western-bang-bang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Western Bang Bang.ttf'
 end

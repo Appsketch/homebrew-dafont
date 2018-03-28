@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-serifina' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_serifina'
     name 'Austie Bost Serifina'
     homepage 'http://www.dafont.com/austie-bost-serifina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Serifina.ttf'
 end

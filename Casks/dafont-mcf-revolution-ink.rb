@@ -5,7 +5,6 @@ cask 'dafont-mcf-revolution-ink' do
     url 'http://dl.dafont.com/dl/?f=mcf_revolution_ink'
     name 'MCF Revolution Ink'
     homepage 'http://www.dafont.com/mcf-revolution-ink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MCF Revolution ink demo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-frostbitten-wanker' do
     url 'http://dl.dafont.com/dl/?f=frostbitten_wanker'
     name 'Frostbitten Wanker'
     homepage 'http://www.dafont.com/frostbitten-wanker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FROSW___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-game-music-love' do
     url 'http://dl.dafont.com/dl/?f=game_music_love'
     name 'Game Music Love'
     homepage 'http://www.dafont.com/game-music-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'game_music_love.ttf'
 end

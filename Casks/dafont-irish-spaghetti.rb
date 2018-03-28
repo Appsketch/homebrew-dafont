@@ -5,7 +5,6 @@ cask 'dafont-irish-spaghetti' do
     url 'http://dl.dafont.com/dl/?f=irish_spaghetti'
     name 'Irish Spaghetti'
     homepage 'http://www.dafont.com/irish-spaghetti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Irish Spaghetti.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tartlers-end' do
     url 'http://dl.dafont.com/dl/?f=tartlers_end'
     name 'Tartlers End'
     homepage 'http://www.dafont.com/tartlers-end.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tartlers End.ttf'
 end

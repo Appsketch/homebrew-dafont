@@ -5,7 +5,6 @@ cask 'dafont-popsicle2' do
     url 'http://dl.dafont.com/dl/?f=popsicle2'
     name 'Popsicle'
     homepage 'http://www.dafont.com/popsicle2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Popsicle.ttf'
 end

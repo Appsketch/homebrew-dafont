@@ -5,7 +5,6 @@ cask 'dafont-sexton-sans' do
     url 'http://dl.dafont.com/dl/?f=sexton_sans'
     name 'Sexton Sans'
     homepage 'http://www.dafont.com/sexton-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sextonsans.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mesa-grande' do
     url 'http://dl.dafont.com/dl/?f=mesa_grande'
     name 'Mesa Grande'
     homepage 'http://www.dafont.com/mesa-grande.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mesa Grande.ttf'
 end

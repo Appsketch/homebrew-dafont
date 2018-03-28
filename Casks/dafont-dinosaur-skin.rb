@@ -5,7 +5,6 @@ cask 'dafont-dinosaur-skin' do
     url 'http://dl.dafont.com/dl/?f=dinosaur_skin'
     name 'Dinosaur Skin'
     homepage 'http://www.dafont.com/dinosaur-skin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dinosaur Skin.ttf'
 end

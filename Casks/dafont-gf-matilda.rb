@@ -5,7 +5,6 @@ cask 'dafont-gf-matilda' do
     url 'http://dl.dafont.com/dl/?f=gf_matilda'
     name 'GF Matilda'
     homepage 'http://www.dafont.com/gf-matilda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MATILDAB.TTF'
     font 'MATILDAN.TTF'

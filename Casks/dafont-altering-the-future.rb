@@ -5,7 +5,6 @@ cask 'dafont-altering-the-future' do
     url 'http://dl.dafont.com/dl/?f=altering_the_future'
     name 'Altering The Future'
     homepage 'http://www.dafont.com/altering-the-future.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlteringTheFuture.ttf'
 end

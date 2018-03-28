@@ -5,7 +5,6 @@ cask 'dafont-romanum-est' do
     url 'http://dl.dafont.com/dl/?f=romanum_est'
     name 'Romanum Est'
     homepage 'http://www.dafont.com/romanum-est.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Romanum Est.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-hungry-pig' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_hungry_pig'
     name 'Woodcutter Hungry Pig'
     homepage 'http://www.dafont.com/woodcutter-hungry-pig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter hungry pig.ttf'
 end

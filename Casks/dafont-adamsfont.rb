@@ -5,7 +5,6 @@ cask 'dafont-adamsfont' do
     url 'http://dl.dafont.com/dl/?f=adamsfont'
     name 'Adams Font'
     homepage 'http://www.dafont.com/adamsfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AdamsFont.ttf'
 end

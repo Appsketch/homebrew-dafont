@@ -5,7 +5,6 @@ cask 'dafont-lady-ice' do
     url 'http://dl.dafont.com/dl/?f=lady_ice'
     name 'Lady Ice'
     homepage 'http://www.dafont.com/lady-ice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LADYI3D_.ttf'
     font 'LADYI3DO.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-seanchlo-dubh' do
     url 'http://dl.dafont.com/dl/?f=seanchlo_dubh'
     name 'Seanchl&oacute; Dubh'
     homepage 'http://www.dafont.com/seanchlo-dubh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEAN-D.TTF'
 end

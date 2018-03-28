@@ -5,7 +5,6 @@ cask 'dafont-league-of-ages' do
     url 'http://dl.dafont.com/dl/?f=league_of_ages'
     name 'League of Ages'
     homepage 'http://www.dafont.com/league-of-ages.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'League of Ages.ttf'
 end

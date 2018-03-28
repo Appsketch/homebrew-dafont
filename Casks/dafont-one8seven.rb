@@ -5,7 +5,6 @@ cask 'dafont-one8seven' do
     url 'http://dl.dafont.com/dl/?f=one8seven'
     name 'One 8 Seven'
     homepage 'http://www.dafont.com/one8seven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'one8seve.TTF'
 end

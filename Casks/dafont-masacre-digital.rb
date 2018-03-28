@@ -5,7 +5,6 @@ cask 'dafont-masacre-digital' do
     url 'http://dl.dafont.com/dl/?f=masacre_digital'
     name 'Masacre Digital'
     homepage 'http://www.dafont.com/masacre-digital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Masacre Digital.ttf'
 end

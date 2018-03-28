@@ -5,7 +5,6 @@ cask 'dafont-spanish-teletext' do
     url 'http://dl.dafont.com/dl/?f=spanish_teletext'
     name 'Spanish Teletext'
     homepage 'http://www.dafont.com/spanish-teletext.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpanishTeletext.ttf'
 end

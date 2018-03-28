@@ -5,7 +5,6 @@ cask 'dafont-riddle' do
     url 'http://dl.dafont.com/dl/?f=riddle'
     name 'Riddle Script'
     homepage 'http://www.dafont.com/riddle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Riddle-Script.otf'
 end

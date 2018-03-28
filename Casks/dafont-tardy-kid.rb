@@ -5,7 +5,6 @@ cask 'dafont-tardy-kid' do
     url 'http://dl.dafont.com/dl/?f=tardy_kid'
     name 'Tardy Kid'
     homepage 'http://www.dafont.com/tardy-kid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tardy Kid.ttf'
 end

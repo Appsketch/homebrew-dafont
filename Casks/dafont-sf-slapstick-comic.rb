@@ -5,7 +5,6 @@ cask 'dafont-sf-slapstick-comic' do
     url 'http://dl.dafont.com/dl/?f=sf_slapstick_comic'
     name 'SF Slapstick Comic'
     homepage 'http://www.dafont.com/sf-slapstick-comic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Slapstick Comic Bold Oblique.ttf'
     font 'SF Slapstick Comic Bold.ttf'

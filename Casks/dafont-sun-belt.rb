@@ -5,7 +5,6 @@ cask 'dafont-sun-belt' do
     url 'http://dl.dafont.com/dl/?f=sun_belt'
     name 'Sun Belt'
     homepage 'http://www.dafont.com/sun-belt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sun Belt.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-danoise' do
     url 'http://dl.dafont.com/dl/?f=danoise'
     name 'Danoise'
     homepage 'http://www.dafont.com/danoise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DANOISEbold.ttf'
     font 'Danoisemedium.ttf'

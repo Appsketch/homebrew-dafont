@@ -5,7 +5,6 @@ cask 'dafont-farewell-my-black-balloon' do
     url 'http://dl.dafont.com/dl/?f=farewell_my_black_balloon'
     name 'Farewell My Black Balloon'
     homepage 'http://www.dafont.com/farewell-my-black-balloon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Farewell My Black Balloon.ttf'
 end

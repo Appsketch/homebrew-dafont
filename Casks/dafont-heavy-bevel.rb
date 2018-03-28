@@ -5,7 +5,6 @@ cask 'dafont-heavy-bevel' do
     url 'http://dl.dafont.com/dl/?f=heavy_bevel'
     name 'Heavy Bevel'
     homepage 'http://www.dafont.com/heavy-bevel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hbevel.ttf'
 end

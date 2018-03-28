@@ -5,7 +5,6 @@ cask 'dafont-arg219am' do
     url 'http://dl.dafont.com/dl/?f=arg219am'
     name 'ARG219am'
     homepage 'http://www.dafont.com/arg219am.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'arg219am.ttf'
 end

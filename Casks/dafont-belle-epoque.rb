@@ -5,7 +5,6 @@ cask 'dafont-belle-epoque' do
     url 'http://dl.dafont.com/dl/?f=belle_epoque'
     name 'Belle Epoque'
     homepage 'http://www.dafont.com/belle-epoque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Belle Epoque.ttf'
 end

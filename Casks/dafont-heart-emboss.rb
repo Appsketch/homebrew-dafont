@@ -5,7 +5,6 @@ cask 'dafont-heart-emboss' do
     url 'http://dl.dafont.com/dl/?f=heart_emboss'
     name 'Heart Emboss'
     homepage 'http://www.dafont.com/heart-emboss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'heartemboss.TTF'
     font 'heartfont.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-mister-muerte' do
     url 'http://dl.dafont.com/dl/?f=mister_muerte'
     name 'Mister Muerte'
     homepage 'http://www.dafont.com/mister-muerte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mister Muerte.ttf'
 end

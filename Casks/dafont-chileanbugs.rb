@@ -5,7 +5,6 @@ cask 'dafont-chileanbugs' do
     url 'http://dl.dafont.com/dl/?f=chileanbugs'
     name 'ChileanBugs'
     homepage 'http://www.dafont.com/chileanbugs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chileanbugs.otf'
 end

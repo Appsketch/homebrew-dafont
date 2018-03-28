@@ -5,7 +5,6 @@ cask 'dafont-wischystylus' do
     url 'http://dl.dafont.com/dl/?f=wischystylus'
     name 'Wischy Stylus'
     homepage 'http://www.dafont.com/wischystylus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WischyStylus.ttf'
 end

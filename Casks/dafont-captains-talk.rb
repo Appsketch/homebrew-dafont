@@ -5,7 +5,6 @@ cask 'dafont-captains-talk' do
     url 'http://dl.dafont.com/dl/?f=captains_talk'
     name 'Captain&#039;s Talk'
     homepage 'http://www.dafont.com/captains-talk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Captain_&#039;s Talk.ttf'
 end

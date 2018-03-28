@@ -5,7 +5,6 @@ cask 'dafont-hooked-on-booze' do
     url 'http://dl.dafont.com/dl/?f=hooked_on_booze'
     name 'Hooked on Booze'
     homepage 'http://www.dafont.com/hooked-on-booze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HOOKEDON.TTF'
 end

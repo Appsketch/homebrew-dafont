@@ -5,7 +5,6 @@ cask 'dafont-biblish-pictures' do
     url 'http://dl.dafont.com/dl/?f=biblish_pictures'
     name 'Biblish Pictures'
     homepage 'http://www.dafont.com/biblish-pictures.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BiblishPictures.ttf'
 end

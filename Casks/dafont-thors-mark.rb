@@ -5,7 +5,6 @@ cask 'dafont-thors-mark' do
     url 'http://dl.dafont.com/dl/?f=thors_mark'
     name 'Thor&#039;s Mark'
     homepage 'http://www.dafont.com/thors-mark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thors_mark.ttf'
 end

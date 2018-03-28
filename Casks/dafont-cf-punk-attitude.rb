@@ -5,7 +5,6 @@ cask 'dafont-cf-punk-attitude' do
     url 'http://dl.dafont.com/dl/?f=cf_punk_attitude'
     name 'CF Punk Attitude'
     homepage 'http://www.dafont.com/cf-punk-attitude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFPunkAttitude-Regular.ttf'
 end

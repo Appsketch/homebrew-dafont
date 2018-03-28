@@ -5,7 +5,6 @@ cask 'dafont-experimento' do
     url 'http://dl.dafont.com/dl/?f=experimento'
     name 'Experimento'
     homepage 'http://www.dafont.com/experimento.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Experimento.ttf'
 end

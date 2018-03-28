@@ -5,7 +5,6 @@ cask 'dafont-rundgotisch-rauh' do
     url 'http://dl.dafont.com/dl/?f=rundgotisch_rauh'
     name 'Rundgotisch Rauh'
     homepage 'http://www.dafont.com/rundgotisch-rauh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RundgotischRauh.ttf'
 end

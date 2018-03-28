@@ -5,7 +5,6 @@ cask 'dafont-foucault' do
     url 'http://dl.dafont.com/dl/?f=foucault'
     name 'Foucault'
     homepage 'http://www.dafont.com/foucault.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'foucault.ttf'
     font 'foucault3d.ttf'

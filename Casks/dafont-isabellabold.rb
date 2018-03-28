@@ -5,7 +5,6 @@ cask 'dafont-isabellabold' do
     url 'http://dl.dafont.com/dl/?f=isabellabold'
     name 'Isabella'
     homepage 'http://www.dafont.com/isabellabold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'isabellabold.ttf'
 end

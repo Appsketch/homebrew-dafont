@@ -5,7 +5,6 @@ cask 'dafont-spindly-legs' do
     url 'http://dl.dafont.com/dl/?f=spindly_legs'
     name 'Spindly Legs'
     homepage 'http://www.dafont.com/spindly-legs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spindly Legs.ttf'
 end

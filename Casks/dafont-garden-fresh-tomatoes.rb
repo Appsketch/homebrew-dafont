@@ -5,7 +5,6 @@ cask 'dafont-garden-fresh-tomatoes' do
     url 'http://dl.dafont.com/dl/?f=garden_fresh_tomatoes'
     name 'Garden fresh tomatoes'
     homepage 'http://www.dafont.com/garden-fresh-tomatoes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'garden fresh tomatoes.ttf'
 end

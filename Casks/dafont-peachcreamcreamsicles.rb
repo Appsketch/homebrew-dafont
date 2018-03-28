@@ -5,7 +5,6 @@ cask 'dafont-peachcreamcreamsicles' do
     url 'http://dl.dafont.com/dl/?f=peachcreamcreamsicles'
     name 'Peach Cream Creamsicles'
     homepage 'http://www.dafont.com/peachcreamcreamsicles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PeachCreamCreamsicles.ttf'
 end

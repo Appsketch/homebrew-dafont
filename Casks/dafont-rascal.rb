@@ -5,7 +5,6 @@ cask 'dafont-rascal' do
     url 'http://dl.dafont.com/dl/?f=rascal'
     name 'Rascal'
     homepage 'http://www.dafont.com/rascal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RASCAL__.TTF'
 end

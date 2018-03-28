@@ -5,7 +5,6 @@ cask 'dafont-highrating' do
     url 'http://dl.dafont.com/dl/?f=highrating'
     name 'High Rating'
     homepage 'http://www.dafont.com/highrating.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighRating.ttf'
 end

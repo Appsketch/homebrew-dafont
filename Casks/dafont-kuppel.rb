@@ -5,7 +5,6 @@ cask 'dafont-kuppel' do
     url 'http://dl.dafont.com/dl/?f=kuppel'
     name 'Kuppel'
     homepage 'http://www.dafont.com/kuppel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KuppelBolditalicKuppel.ttf'
     font 'KuppelBoldKuppel.ttf'

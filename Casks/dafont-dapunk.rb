@@ -5,7 +5,6 @@ cask 'dafont-dapunk' do
     url 'http://dl.dafont.com/dl/?f=dapunk'
     name 'DaPunk'
     homepage 'http://www.dafont.com/dapunk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter DaPunk.ttf'
 end

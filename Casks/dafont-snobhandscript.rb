@@ -5,7 +5,6 @@ cask 'dafont-snobhandscript' do
     url 'http://dl.dafont.com/dl/?f=snobhandscript'
     name 'Snob handscript'
     homepage 'http://www.dafont.com/snobhandscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snobhandscript.ttf'
 end

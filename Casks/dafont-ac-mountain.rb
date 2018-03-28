@@ -5,7 +5,6 @@ cask 'dafont-ac-mountain' do
     url 'http://dl.dafont.com/dl/?f=ac_mountain'
     name 'AC Mountain'
     homepage 'http://www.dafont.com/ac-mountain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ACMountain-Inverted.otf'
     font 'ACMountain.otf'

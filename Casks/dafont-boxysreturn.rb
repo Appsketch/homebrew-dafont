@@ -5,7 +5,6 @@ cask 'dafont-boxysreturn' do
     url 'http://dl.dafont.com/dl/?f=boxysreturn'
     name 'Boxys Return'
     homepage 'http://www.dafont.com/boxysreturn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BoxysReturn.ttf'
 end

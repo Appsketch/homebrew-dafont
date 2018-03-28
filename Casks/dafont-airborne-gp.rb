@@ -5,7 +5,6 @@ cask 'dafont-airborne-gp' do
     url 'http://dl.dafont.com/dl/?f=airborne_gp'
     name 'Airborne GP'
     homepage 'http://www.dafont.com/airborne-gp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AIRBORNE GP.ttf'
 end

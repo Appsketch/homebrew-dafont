@@ -5,7 +5,6 @@ cask 'dafont-darkenstone' do
     url 'http://dl.dafont.com/dl/?f=darkenstone'
     name 'Darkenstone'
     homepage 'http://www.dafont.com/darkenstone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Darkenstone.ttf'
 end

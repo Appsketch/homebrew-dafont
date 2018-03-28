@@ -5,7 +5,6 @@ cask 'dafont-commercial-script' do
     url 'http://dl.dafont.com/dl/?f=commercial_script'
     name 'Commercial Script'
     homepage 'http://www.dafont.com/commercial-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'commersial_script.ttf'
 end

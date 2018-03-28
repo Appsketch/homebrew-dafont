@@ -5,7 +5,6 @@ cask 'dafont-puff-paint' do
     url 'http://dl.dafont.com/dl/?f=puff_paint'
     name 'Puff Paint'
     homepage 'http://www.dafont.com/puff-paint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PuffPaint.ttf'
 end

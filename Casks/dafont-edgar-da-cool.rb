@@ -5,7 +5,6 @@ cask 'dafont-edgar-da-cool' do
     url 'http://dl.dafont.com/dl/?f=edgar_da_cool'
     name 'Edgar da cool'
     homepage 'http://www.dafont.com/edgar-da-cool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'edgardacool.ttf'
 end

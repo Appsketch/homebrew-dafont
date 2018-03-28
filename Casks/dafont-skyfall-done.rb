@@ -5,7 +5,6 @@ cask 'dafont-skyfall-done' do
     url 'http://dl.dafont.com/dl/?f=skyfall_done'
     name 'SkyFall Done'
     homepage 'http://www.dafont.com/skyfall-done.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkyFall Done.ttf'
 end

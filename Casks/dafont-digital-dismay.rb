@@ -5,7 +5,6 @@ cask 'dafont-digital-dismay' do
     url 'http://dl.dafont.com/dl/?f=digital_dismay'
     name 'Digital Dismay'
     homepage 'http://www.dafont.com/digital-dismay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digital Dismay.otf'
 end

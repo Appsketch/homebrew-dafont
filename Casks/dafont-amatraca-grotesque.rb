@@ -5,7 +5,6 @@ cask 'dafont-amatraca-grotesque' do
     url 'http://dl.dafont.com/dl/?f=amatraca_grotesque'
     name 'Amatraca Grotesque'
     homepage 'http://www.dafont.com/amatraca-grotesque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'amatraca-grotesque-normal.ttf'
 end

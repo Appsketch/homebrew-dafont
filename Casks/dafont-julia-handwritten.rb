@@ -5,7 +5,6 @@ cask 'dafont-julia-handwritten' do
     url 'http://dl.dafont.com/dl/?f=julia_handwritten'
     name 'Julia Handwritten'
     homepage 'http://www.dafont.com/julia-handwritten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Julia_Handwritten_2.ttf'
 end

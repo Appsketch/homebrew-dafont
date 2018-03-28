@@ -5,7 +5,6 @@ cask 'dafont-dichotomy' do
     url 'http://dl.dafont.com/dl/?f=dichotomy'
     name 'Dichotomy'
     homepage 'http://www.dafont.com/dichotomy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dichtmy.ttf'
 end

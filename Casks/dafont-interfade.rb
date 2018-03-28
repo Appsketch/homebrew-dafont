@@ -5,7 +5,6 @@ cask 'dafont-interfade' do
     url 'http://dl.dafont.com/dl/?f=interfade'
     name 'Inter Fade'
     homepage 'http://www.dafont.com/interfade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InterFade.ttf'
 end

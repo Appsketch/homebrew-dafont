@@ -5,7 +5,6 @@ cask 'dafont-hff-clip-hanger' do
     url 'http://dl.dafont.com/dl/?f=hff_clip_hanger'
     name 'HFF Clip Hanger'
     homepage 'http://www.dafont.com/hff-clip-hanger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Clip Hanger.ttf'
 end

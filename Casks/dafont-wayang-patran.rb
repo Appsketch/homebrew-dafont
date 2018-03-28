@@ -5,7 +5,6 @@ cask 'dafont-wayang-patran' do
     url 'http://dl.dafont.com/dl/?f=wayang_patran'
     name 'Wayang Patran'
     homepage 'http://www.dafont.com/wayang-patran.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WayangPatran-Regular.ttf'
 end

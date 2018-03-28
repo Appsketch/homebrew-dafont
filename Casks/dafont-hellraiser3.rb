@@ -5,7 +5,6 @@ cask 'dafont-hellraiser3' do
     url 'http://dl.dafont.com/dl/?f=hellraiser3'
     name 'Hellraiser 3'
     homepage 'http://www.dafont.com/hellraiser3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hellraiser 3.ttf'
     font 'Hellraiser3 Shadow.ttf'

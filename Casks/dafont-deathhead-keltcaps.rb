@@ -5,7 +5,6 @@ cask 'dafont-deathhead-keltcaps' do
     url 'http://dl.dafont.com/dl/?f=deathhead_keltcaps'
     name 'Deathhead KeltCaps'
     homepage 'http://www.dafont.com/deathhead-keltcaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeatkcV2.ttf'
 end

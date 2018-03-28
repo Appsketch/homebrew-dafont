@@ -5,7 +5,6 @@ cask 'dafont-octin-stencil-free' do
     url 'http://dl.dafont.com/dl/?f=octin_stencil_free'
     name 'Octin Stencil Free'
     homepage 'http://www.dafont.com/octin-stencil-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'octin stencil rg.ttf'
 end

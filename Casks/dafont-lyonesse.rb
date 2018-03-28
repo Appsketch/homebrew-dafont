@@ -5,7 +5,6 @@ cask 'dafont-lyonesse' do
     url 'http://dl.dafont.com/dl/?f=lyonesse'
     name 'Lyonesse'
     homepage 'http://www.dafont.com/lyonesse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LY______.TTF'
 end

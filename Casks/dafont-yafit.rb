@@ -5,7 +5,6 @@ cask 'dafont-yafit' do
     url 'http://dl.dafont.com/dl/?f=yafit'
     name 'Yafit'
     homepage 'http://www.dafont.com/yafit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yafit-Regular.ttf'
 end

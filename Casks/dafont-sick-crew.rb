@@ -5,7 +5,6 @@ cask 'dafont-sick-crew' do
     url 'http://dl.dafont.com/dl/?f=sick_crew'
     name 'Sick Crew'
     homepage 'http://www.dafont.com/sick-crew.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sickcrew.ttf'
 end

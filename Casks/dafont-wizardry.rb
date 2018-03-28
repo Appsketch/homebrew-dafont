@@ -5,7 +5,6 @@ cask 'dafont-wizardry' do
     url 'http://dl.dafont.com/dl/?f=wizardry'
     name 'Wizardry'
     homepage 'http://www.dafont.com/wizardry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WIZARDRY.TTF'
 end

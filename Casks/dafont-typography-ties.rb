@@ -5,7 +5,6 @@ cask 'dafont-typography-ties' do
     url 'http://dl.dafont.com/dl/?f=typography_ties'
     name 'Typography Ties'
     homepage 'http://www.dafont.com/typography-ties.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typography Ties Bold Italic.ttf'
     font 'Typography Ties Bold.ttf'

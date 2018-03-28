@@ -5,7 +5,6 @@ cask 'dafont-andrew-script' do
     url 'http://dl.dafont.com/dl/?f=andrew_script'
     name 'Andrew Script'
     homepage 'http://www.dafont.com/andrew-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Andrew.ttf'
 end

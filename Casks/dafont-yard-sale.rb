@@ -5,7 +5,6 @@ cask 'dafont-yard-sale' do
     url 'http://dl.dafont.com/dl/?f=yard_sale'
     name 'Yard Sale'
     homepage 'http://www.dafont.com/yard-sale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YARDSALE.TTF'
 end

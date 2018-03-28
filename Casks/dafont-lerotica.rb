@@ -5,7 +5,6 @@ cask 'dafont-lerotica' do
     url 'http://dl.dafont.com/dl/?f=lerotica'
     name 'Lerotica'
     homepage 'http://www.dafont.com/lerotica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lerotica-regular/lerotica-light.ttf'
     font 'lerotica-regular/lerotica-regular.ttf'

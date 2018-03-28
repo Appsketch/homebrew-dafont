@@ -5,7 +5,6 @@ cask 'dafont-sketchme' do
     url 'http://dl.dafont.com/dl/?f=sketchme'
     name 'Sketch Me'
     homepage 'http://www.dafont.com/sketchme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SketchMe-Regular.ttf'
 end

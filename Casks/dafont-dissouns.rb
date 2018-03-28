@@ -5,7 +5,6 @@ cask 'dafont-dissouns' do
     url 'http://dl.dafont.com/dl/?f=dissouns'
     name 'Dissouns'
     homepage 'http://www.dafont.com/dissouns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dawnland.dissonus.ttf'
 end

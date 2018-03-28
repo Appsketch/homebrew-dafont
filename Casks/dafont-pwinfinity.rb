@@ -5,7 +5,6 @@ cask 'dafont-pwinfinity' do
     url 'http://dl.dafont.com/dl/?f=pwinfinity'
     name 'PW Infinity'
     homepage 'http://www.dafont.com/pwinfinity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWInfinity.ttf'
 end

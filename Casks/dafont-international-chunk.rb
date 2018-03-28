@@ -5,7 +5,6 @@ cask 'dafont-international-chunk' do
     url 'http://dl.dafont.com/dl/?f=international_chunk'
     name 'International Chunkfunk'
     homepage 'http://www.dafont.com/international-chunk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INTEC___.TTF'
 end

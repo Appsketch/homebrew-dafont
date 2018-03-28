@@ -5,7 +5,6 @@ cask 'dafont-pullstar-holiday' do
     url 'http://dl.dafont.com/dl/?f=pullstar_holiday'
     name 'Pullstar Holiday'
     homepage 'http://www.dafont.com/pullstar-holiday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pullstar-Holiday.ttf'
 end

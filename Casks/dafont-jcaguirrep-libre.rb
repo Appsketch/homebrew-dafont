@@ -5,7 +5,6 @@ cask 'dafont-jcaguirrep-libre' do
     url 'http://dl.dafont.com/dl/?f=jcaguirrep_libre'
     name 'JCAguirreP - Libre'
     homepage 'http://www.dafont.com/jcaguirrep-libre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JCAguirreP - Libre.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-olla-barrejada' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_olla_barrejada'
     name 'Woodcutter Olla Barrejada'
     homepage 'http://www.dafont.com/woodcutter-olla-barrejada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Olla Barrejada.ttf'
 end

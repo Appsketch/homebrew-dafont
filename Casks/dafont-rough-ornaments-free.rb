@@ -5,7 +5,6 @@ cask 'dafont-rough-ornaments-free' do
     url 'http://dl.dafont.com/dl/?f=rough_ornaments_free'
     name 'Rough Ornaments Free'
     homepage 'http://www.dafont.com/rough-ornaments-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rough Ornaments Free.ttf'
 end

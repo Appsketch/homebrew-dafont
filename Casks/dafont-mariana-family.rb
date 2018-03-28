@@ -5,7 +5,6 @@ cask 'dafont-mariana-family' do
     url 'http://dl.dafont.com/dl/?f=mariana_family'
     name 'Mariana Family'
     homepage 'http://www.dafont.com/mariana-family.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MarianaFamily.ttf'
 end

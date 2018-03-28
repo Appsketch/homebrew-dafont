@@ -5,7 +5,6 @@ cask 'dafont-pwbeardfont' do
     url 'http://dl.dafont.com/dl/?f=pwbeardfont'
     name 'PW Beardfont'
     homepage 'http://www.dafont.com/pwbeardfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWBeardfont.ttf'
 end

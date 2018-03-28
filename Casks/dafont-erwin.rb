@@ -5,7 +5,6 @@ cask 'dafont-erwin' do
     url 'http://dl.dafont.com/dl/?f=erwin'
     name 'Erwin'
     homepage 'http://www.dafont.com/erwin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'erwin.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vannoidyk' do
     url 'http://dl.dafont.com/dl/?f=vannoidyk'
     name 'Vannoidyk'
     homepage 'http://www.dafont.com/vannoidyk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vannoidyk-Shadow.ttf'
     font 'Vannoidyk.ttf'

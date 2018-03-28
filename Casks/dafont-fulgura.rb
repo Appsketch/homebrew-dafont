@@ -5,7 +5,6 @@ cask 'dafont-fulgura' do
     url 'http://dl.dafont.com/dl/?f=fulgura'
     name 'Fulgura'
     homepage 'http://www.dafont.com/fulgura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fulgura.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hocus-focus' do
     url 'http://dl.dafont.com/dl/?f=hocus_focus'
     name 'Hocus Focus'
     homepage 'http://www.dafont.com/hocus-focus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hocus_focus.ttf'
 end

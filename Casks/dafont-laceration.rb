@@ -5,7 +5,6 @@ cask 'dafont-laceration' do
     url 'http://dl.dafont.com/dl/?f=laceration'
     name 'Laceration'
     homepage 'http://www.dafont.com/laceration.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Laceration.otf'
 end

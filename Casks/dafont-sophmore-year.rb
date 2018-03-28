@@ -5,7 +5,6 @@ cask 'dafont-sophmore-year' do
     url 'http://dl.dafont.com/dl/?f=sophmore_year'
     name 'Sophmore Year'
     homepage 'http://www.dafont.com/sophmore-year.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SophmoreYear.ttf'
 end

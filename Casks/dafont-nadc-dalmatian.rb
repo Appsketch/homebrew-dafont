@@ -5,7 +5,6 @@ cask 'dafont-nadc-dalmatian' do
     url 'http://dl.dafont.com/dl/?f=nadc_dalmatian'
     name 'NADC Dalmatian'
     homepage 'http://www.dafont.com/nadc-dalmatian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NADC_Dalmatian.ttf'
 end

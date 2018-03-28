@@ -5,7 +5,6 @@ cask 'dafont-djb-yard-sale-marker' do
     url 'http://dl.dafont.com/dl/?f=djb_yard_sale_marker'
     name 'DJB Yard Sale Marker'
     homepage 'http://www.dafont.com/djb-yard-sale-marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Yard Sale Marker.otf'
 end

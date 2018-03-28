@@ -5,7 +5,6 @@ cask 'dafont-dpoly-imperial' do
     url 'http://dl.dafont.com/dl/?f=dpoly_imperial'
     name 'dPoly Imperial'
     homepage 'http://www.dafont.com/dpoly-imperial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dPoly Imperial.otf'
 end

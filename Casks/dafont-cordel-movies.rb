@@ -5,7 +5,6 @@ cask 'dafont-cordel-movies' do
     url 'http://dl.dafont.com/dl/?f=cordel_movies'
     name 'Cordel Movies'
     homepage 'http://www.dafont.com/cordel-movies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cordel Movies.ttf'
 end

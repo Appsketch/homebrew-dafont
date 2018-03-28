@@ -5,7 +5,6 @@ cask 'dafont-ss-drebeden' do
     url 'http://dl.dafont.com/dl/?f=ss_drebeden'
     name 'SS Drebeden'
     homepage 'http://www.dafont.com/ss-drebeden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ss_drebeden.ttf'
 end

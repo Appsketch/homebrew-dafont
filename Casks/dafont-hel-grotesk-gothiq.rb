@@ -5,7 +5,6 @@ cask 'dafont-hel-grotesk-gothiq' do
     url 'http://dl.dafont.com/dl/?f=hel_grotesk_gothiq'
     name 'Hel Grotesk Gothiq'
     homepage 'http://www.dafont.com/hel-grotesk-gothiq.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HelBla.otf'
 end

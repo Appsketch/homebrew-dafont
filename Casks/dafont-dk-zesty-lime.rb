@@ -5,7 +5,6 @@ cask 'dafont-dk-zesty-lime' do
     url 'http://dl.dafont.com/dl/?f=dk_zesty_lime'
     name 'DK Zesty Lime'
     homepage 'http://www.dafont.com/dk-zesty-lime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Zesty Lime.otf'
 end

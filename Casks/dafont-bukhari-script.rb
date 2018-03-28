@@ -5,7 +5,6 @@ cask 'dafont-bukhari-script' do
     url 'http://dl.dafont.com/dl/?f=bukhari_script'
     name 'Bukhari Script'
     homepage 'http://www.dafont.com/bukhari-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bukhari Script.ttf'
     font 'BukhariScriptAlternates.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-gagoo' do
     url 'http://dl.dafont.com/dl/?f=gagoo'
     name 'GaGoo'
     homepage 'http://www.dafont.com/gagoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GaGoo_by_KreativFont.com.ttf'
 end

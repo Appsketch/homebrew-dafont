@@ -5,7 +5,6 @@ cask 'dafont-brands-kidnapped' do
     url 'http://dl.dafont.com/dl/?f=brands_kidnapped'
     name 'Brands Kidnapped'
     homepage 'http://www.dafont.com/brands-kidnapped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brands-Kidnapped.ttf'
 end

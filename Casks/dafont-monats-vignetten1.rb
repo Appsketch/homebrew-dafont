@@ -5,7 +5,6 @@ cask 'dafont-monats-vignetten1' do
     url 'http://dl.dafont.com/dl/?f=monats_vignetten1'
     name 'Monats Vignetten'
     homepage 'http://www.dafont.com/monats-vignetten1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monats-Vignetten1.ttf'
 end

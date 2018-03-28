@@ -5,7 +5,6 @@ cask 'dafont-party-balloons' do
     url 'http://dl.dafont.com/dl/?f=party_balloons'
     name 'Party Balloons'
     homepage 'http://www.dafont.com/party-balloons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PARTYBALLOONS.TTF'
 end

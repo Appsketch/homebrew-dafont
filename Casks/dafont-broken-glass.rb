@@ -5,7 +5,6 @@ cask 'dafont-broken-glass' do
     url 'http://dl.dafont.com/dl/?f=broken_glass'
     name 'Broken Glass'
     homepage 'http://www.dafont.com/broken-glass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BrokenGlass.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-iconian-bitmap' do
     url 'http://dl.dafont.com/dl/?f=iconian_bitmap'
     name 'Iconian Bitmap'
     homepage 'http://www.dafont.com/iconian-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iconian.ttf'
 end

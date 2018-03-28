@@ -5,7 +5,6 @@ cask 'dafont-zombie-control' do
     url 'http://dl.dafont.com/dl/?f=zombie_control'
     name 'Zombie Control'
     homepage 'http://www.dafont.com/zombie-control.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zombiecontrol.ttf'
     font 'zombiecontrol3d.ttf'

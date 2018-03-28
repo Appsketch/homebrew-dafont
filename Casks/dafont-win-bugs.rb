@@ -5,7 +5,6 @@ cask 'dafont-win-bugs' do
     url 'http://dl.dafont.com/dl/?f=win_bugs'
     name 'FE Win Bugs'
     homepage 'http://www.dafont.com/win-bugs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE Win Bugs.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-radar-by-doug-sheets' do
     url 'http://dl.dafont.com/dl/?f=radar_by_doug_sheets'
     name 'Radar'
     homepage 'http://www.dafont.com/radar-by-doug-sheets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RADAR by Doug Sheets.ttf'
     font 'RADARitalic by Doug Sheets.ttf'

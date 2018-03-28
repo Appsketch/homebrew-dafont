@@ -5,7 +5,6 @@ cask 'dafont-dk-fat-kitty-kat' do
     url 'http://dl.dafont.com/dl/?f=dk_fat_kitty_kat'
     name 'DK Fat Kitty Kat'
     homepage 'http://www.dafont.com/dk-fat-kitty-kat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Fat Kitty Kat.otf'
 end

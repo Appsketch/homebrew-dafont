@@ -5,7 +5,6 @@ cask 'dafont-santiago-icono' do
     url 'http://dl.dafont.com/dl/?f=santiago_icono'
     name 'Santiago Icono'
     homepage 'http://www.dafont.com/santiago-icono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SANTIAGO ICONO.ttf'
 end

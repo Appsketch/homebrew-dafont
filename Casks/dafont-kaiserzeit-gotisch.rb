@@ -5,7 +5,6 @@ cask 'dafont-kaiserzeit-gotisch' do
     url 'http://dl.dafont.com/dl/?f=kaiserzeit_gotisch'
     name 'Kaiserzeit Gotisch'
     homepage 'http://www.dafont.com/kaiserzeit-gotisch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KAISG___.TTF'
 end

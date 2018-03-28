@@ -5,7 +5,6 @@ cask 'dafont-simpsons-treehouse-of-horror' do
     url 'http://dl.dafont.com/dl/?f=simpsons_treehouse_of_horror'
     name 'Simpsons Treehouse of Horror'
     homepage 'http://www.dafont.com/simpsons-treehouse-of-horror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simpsons Treehouse of Horror.TTF'
 end

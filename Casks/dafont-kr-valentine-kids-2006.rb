@@ -5,7 +5,6 @@ cask 'dafont-kr-valentine-kids-2006' do
     url 'http://dl.dafont.com/dl/?f=kr_valentine_kids_2006'
     name 'KR Valentine Kids 2006'
     homepage 'http://www.dafont.com/kr-valentine-kids-2006.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Valentine Kids 2006.ttf'
 end

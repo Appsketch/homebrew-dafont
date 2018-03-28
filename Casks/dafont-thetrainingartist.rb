@@ -5,7 +5,6 @@ cask 'dafont-thetrainingartist' do
     url 'http://dl.dafont.com/dl/?f=thetrainingartist'
     name 'The Training Artist'
     homepage 'http://www.dafont.com/thetrainingartist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THETRAININGARTIST.TTF'
 end

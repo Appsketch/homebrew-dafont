@@ -5,7 +5,6 @@ cask 'dafont-dk-die-bruecke' do
     url 'http://dl.dafont.com/dl/?f=dk_die_bruecke'
     name 'DK Die Bruecke'
     homepage 'http://www.dafont.com/dk-die-bruecke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Die Bruecke.otf'
 end

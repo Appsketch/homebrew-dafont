@@ -5,7 +5,6 @@ cask 'dafont-botas-sujas' do
     url 'http://dl.dafont.com/dl/?f=botas_sujas'
     name 'Botas Sujas'
     homepage 'http://www.dafont.com/botas-sujas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOTASSUJAS.otf'
 end

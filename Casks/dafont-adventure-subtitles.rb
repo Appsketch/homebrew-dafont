@@ -5,7 +5,6 @@ cask 'dafont-adventure-subtitles' do
     url 'http://dl.dafont.com/dl/?f=adventure_subtitles'
     name 'Adventure Subtitles'
     homepage 'http://www.dafont.com/adventure-subtitles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adventure Subtitles.ttf'
 end

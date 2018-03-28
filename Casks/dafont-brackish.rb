@@ -5,7 +5,6 @@ cask 'dafont-brackish' do
     url 'http://dl.dafont.com/dl/?f=brackish'
     name 'Brackish'
     homepage 'http://www.dafont.com/brackish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRACKISH.TTF'
 end

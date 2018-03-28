@@ -5,7 +5,6 @@ cask 'dafont-keskiyon-lumisade' do
     url 'http://dl.dafont.com/dl/?f=keskiyon_lumisade'
     name 'Keskiyon Lumisade'
     homepage 'http://www.dafont.com/keskiyon-lumisade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Keskiyon Lumisade.ttf'
 end

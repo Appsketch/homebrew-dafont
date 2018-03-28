@@ -5,7 +5,6 @@ cask 'dafont-cenobyte' do
     url 'http://dl.dafont.com/dl/?f=cenobyte'
     name 'Cenobyte'
     homepage 'http://www.dafont.com/cenobyte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cenobyte.ttf'
 end

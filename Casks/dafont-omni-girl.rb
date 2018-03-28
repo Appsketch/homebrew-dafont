@@ -5,7 +5,6 @@ cask 'dafont-omni-girl' do
     url 'http://dl.dafont.com/dl/?f=omni_girl'
     name 'Omni Girl'
     homepage 'http://www.dafont.com/omni-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Omniv2.ttf'
     font 'Omniv23d.ttf'

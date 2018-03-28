@@ -5,7 +5,6 @@ cask 'dafont-anita-semi-square' do
     url 'http://dl.dafont.com/dl/?f=anita_semi_square'
     name 'Anita Semi-square'
     homepage 'http://www.dafont.com/anita-semi-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anita semi square.ttf'
 end

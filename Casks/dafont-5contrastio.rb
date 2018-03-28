@@ -5,7 +5,6 @@ cask 'dafont-5contrastio' do
     url 'http://dl.dafont.com/dl/?f=5contrastio'
     name '5 Contrastio'
     homepage 'http://www.dafont.com/5contrastio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5Contrastio.ttf'
 end

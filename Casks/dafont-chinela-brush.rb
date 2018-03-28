@@ -5,7 +5,6 @@ cask 'dafont-chinela-brush' do
     url 'http://dl.dafont.com/dl/?f=chinela_brush'
     name 'Chinela Brush'
     homepage 'http://www.dafont.com/chinela-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chinela Brush.ttf'
 end

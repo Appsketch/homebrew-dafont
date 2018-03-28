@@ -5,7 +5,6 @@ cask 'dafont-soul-puddle' do
     url 'http://dl.dafont.com/dl/?f=soul_puddle'
     name 'Soul Puddle'
     homepage 'http://www.dafont.com/soul-puddle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'soul puddle.ttf'
 end

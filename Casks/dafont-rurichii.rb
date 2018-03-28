@@ -5,7 +5,6 @@ cask 'dafont-rurichii' do
     url 'http://dl.dafont.com/dl/?f=rurichii'
     name 'Rurichii'
     homepage 'http://www.dafont.com/rurichii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rurichii.ttf'
 end

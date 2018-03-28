@@ -5,7 +5,6 @@ cask 'dafont-sans-sara' do
     url 'http://dl.dafont.com/dl/?f=sans_sara'
     name 'Sans Sara'
     homepage 'http://www.dafont.com/sans-sara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sans Sara.ttf'
 end

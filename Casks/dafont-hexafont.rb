@@ -5,7 +5,6 @@ cask 'dafont-hexafont' do
     url 'http://dl.dafont.com/dl/?f=hexafont'
     name 'Hexafont'
     homepage 'http://www.dafont.com/hexafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hexafont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-magical-unicorn' do
     url 'http://dl.dafont.com/dl/?f=magical_unicorn'
     name 'Magical Unicorn'
     homepage 'http://www.dafont.com/magical-unicorn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eenhoorn-light.ttf'
     font 'unicorn-sans-light.ttf'

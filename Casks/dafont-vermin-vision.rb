@@ -5,7 +5,6 @@ cask 'dafont-vermin-vision' do
     url 'http://dl.dafont.com/dl/?f=vermin_vision'
     name 'Vermin Vision'
     homepage 'http://www.dafont.com/vermin-vision.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vermin Vision.otf'
 end

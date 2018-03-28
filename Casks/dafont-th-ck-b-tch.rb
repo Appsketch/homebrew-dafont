@@ -5,7 +5,6 @@ cask 'dafont-th-ck-b-tch' do
     url 'http://dl.dafont.com/dl/?f=th_ck_b_tch'
     name 'Th!ck B!tch'
     homepage 'http://www.dafont.com/th-ck-b-tch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TH!NK B!TCH.ttf'
 end

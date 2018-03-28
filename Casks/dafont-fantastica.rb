@@ -5,7 +5,6 @@ cask 'dafont-fantastica' do
     url 'http://dl.dafont.com/dl/?f=fantastica'
     name 'Fantastica'
     homepage 'http://www.dafont.com/fantastica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fantastica.ttf'
 end

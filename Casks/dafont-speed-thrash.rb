@@ -5,7 +5,6 @@ cask 'dafont-speed-thrash' do
     url 'http://dl.dafont.com/dl/?f=speed_thrash'
     name 'Speed Thrash'
     homepage 'http://www.dafont.com/speed-thrash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'speed_thrash.ttf'
 end

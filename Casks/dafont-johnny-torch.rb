@@ -5,7 +5,6 @@ cask 'dafont-johnny-torch' do
     url 'http://dl.dafont.com/dl/?f=johnny_torch'
     name 'Johnny Torch'
     homepage 'http://www.dafont.com/johnny-torch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'johnnytorch.ttf'
     font 'johnnytorch3d.ttf'

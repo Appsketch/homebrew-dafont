@@ -5,7 +5,6 @@ cask 'dafont-broken-poster' do
     url 'http://dl.dafont.com/dl/?f=broken_poster'
     name 'Broken Poster'
     homepage 'http://www.dafont.com/broken-poster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Broken Poster Tour Busted.ttf'
     font 'Broken Poster Tour.ttf'

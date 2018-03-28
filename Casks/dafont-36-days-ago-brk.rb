@@ -5,7 +5,6 @@ cask 'dafont-36-days-ago-brk' do
     url 'http://dl.dafont.com/dl/?f=36_days_ago_brk'
     name '36 days ago BRK'
     homepage 'http://www.dafont.com/36-days-ago-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '36daysag.ttf'
     font '36daythk.ttf'

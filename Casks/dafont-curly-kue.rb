@@ -5,7 +5,6 @@ cask 'dafont-curly-kue' do
     url 'http://dl.dafont.com/dl/?f=curly_kue'
     name 'Curly Kue'
     homepage 'http://www.dafont.com/curly-kue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CurlyKue.otf'
     font 'CurlyKueIta.otf'

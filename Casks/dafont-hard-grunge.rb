@@ -5,7 +5,6 @@ cask 'dafont-hard-grunge' do
     url 'http://dl.dafont.com/dl/?f=hard_grunge'
     name 'Hard Grunge'
     homepage 'http://www.dafont.com/hard-grunge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hard Grunge.ttf'
 end

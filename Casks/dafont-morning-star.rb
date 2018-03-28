@@ -5,7 +5,6 @@ cask 'dafont-morning-star' do
     url 'http://dl.dafont.com/dl/?f=morning_star'
     name 'Morning Star'
     homepage 'http://www.dafont.com/morning-star.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Morning Star.ttf'
 end

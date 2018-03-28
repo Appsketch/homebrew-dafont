@@ -5,7 +5,6 @@ cask 'dafont-springfruit' do
     url 'http://dl.dafont.com/dl/?f=springfruit'
     name 'Spring Fruit'
     homepage 'http://www.dafont.com/springfruit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpringFruit.ttf'
 end

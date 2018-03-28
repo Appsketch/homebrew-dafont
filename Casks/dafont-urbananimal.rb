@@ -5,7 +5,6 @@ cask 'dafont-urbananimal' do
     url 'http://dl.dafont.com/dl/?f=urbananimal'
     name 'Urban Animal'
     homepage 'http://www.dafont.com/urbananimal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UrbanAnimal.ttf'
 end

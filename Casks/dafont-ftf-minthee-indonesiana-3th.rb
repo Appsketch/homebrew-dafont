@@ -5,7 +5,6 @@ cask 'dafont-ftf-minthee-indonesiana-3th' do
     url 'http://dl.dafont.com/dl/?f=ftf_minthee_indonesiana_3th'
     name 'FTF Minthee Indonesiana 3th'
     homepage 'http://www.dafont.com/ftf-minthee-indonesiana-3th.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Minthee Indonesiana- 3th.ttf'
 end

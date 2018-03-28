@@ -5,7 +5,6 @@ cask 'dafont-urban-slick' do
     url 'http://dl.dafont.com/dl/?f=urban_slick'
     name 'Urban&amp;Slick'
     homepage 'http://www.dafont.com/urban-slick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Urban_slick.ttf'
 end

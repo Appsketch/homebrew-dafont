@@ -5,7 +5,6 @@ cask 'dafont-mindless-brute' do
     url 'http://dl.dafont.com/dl/?f=mindless_brute'
     name 'Mindless Brute'
     homepage 'http://www.dafont.com/mindless-brute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mindlessbrute.ttf'
     font 'mindlessbrute3d.ttf'

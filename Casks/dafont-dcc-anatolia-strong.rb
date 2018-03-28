@@ -5,7 +5,6 @@ cask 'dafont-dcc-anatolia-strong' do
     url 'http://dl.dafont.com/dl/?f=dcc_anatolia_strong'
     name 'DCC Anatolia Strong'
     homepage 'http://www.dafont.com/dcc-anatolia-strong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DCC - AnatoliaStrong.otf'
 end

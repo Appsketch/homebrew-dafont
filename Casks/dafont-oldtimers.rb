@@ -5,7 +5,6 @@ cask 'dafont-oldtimers' do
     url 'http://dl.dafont.com/dl/?f=oldtimers'
     name 'Oldtimers'
     homepage 'http://www.dafont.com/oldtimers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oldtimers.ttf'
 end

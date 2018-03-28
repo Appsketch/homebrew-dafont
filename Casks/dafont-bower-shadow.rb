@@ -5,7 +5,6 @@ cask 'dafont-bower-shadow' do
     url 'http://dl.dafont.com/dl/?f=bower_shadow'
     name 'Bower Shadow'
     homepage 'http://www.dafont.com/bower-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOWSHADW.TTF'
 end

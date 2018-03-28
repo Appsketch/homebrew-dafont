@@ -5,7 +5,6 @@ cask 'dafont-resamitz' do
     url 'http://dl.dafont.com/dl/?f=resamitz'
     name 'Resamitz'
     homepage 'http://www.dafont.com/resamitz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Resamitz_0048.otf'
     font 'ResamitzBold_0048.otf'

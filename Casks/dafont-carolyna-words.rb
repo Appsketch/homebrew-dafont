@@ -5,7 +5,6 @@ cask 'dafont-carolyna-words' do
     url 'http://dl.dafont.com/dl/?f=carolyna_words'
     name 'Carolyna Words'
     homepage 'http://www.dafont.com/carolyna-words.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carolyna - Words.ttf'
 end

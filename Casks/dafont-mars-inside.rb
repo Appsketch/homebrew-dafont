@@ -5,7 +5,6 @@ cask 'dafont-mars-inside' do
     url 'http://dl.dafont.com/dl/?f=mars_inside'
     name 'Mars Inside'
     homepage 'http://www.dafont.com/mars-inside.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mars inside.ttf'
 end

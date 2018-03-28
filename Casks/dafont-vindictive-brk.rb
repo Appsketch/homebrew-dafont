@@ -5,7 +5,6 @@ cask 'dafont-vindictive-brk' do
     url 'http://dl.dafont.com/dl/?f=vindictive_brk'
     name 'Vindictive BRK'
     homepage 'http://www.dafont.com/vindictive-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vindicti.ttf'
 end

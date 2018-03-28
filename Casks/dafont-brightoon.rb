@@ -5,7 +5,6 @@ cask 'dafont-brightoon' do
     url 'http://dl.dafont.com/dl/?f=brightoon'
     name 'Brightoon'
     homepage 'http://www.dafont.com/brightoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brightoon Plain.ttf'
     font 'Brightoon.ttf'

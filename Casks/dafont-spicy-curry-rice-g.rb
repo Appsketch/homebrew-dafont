@@ -5,7 +5,6 @@ cask 'dafont-spicy-curry-rice-g' do
     url 'http://dl.dafont.com/dl/?f=spicy_curry_rice_g'
     name 'Spicy Curry Rice G'
     homepage 'http://www.dafont.com/spicy-curry-rice-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_spicy_curry_rice.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-chunky-description' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_chunky_description'
     name 'Austie Bost Chunky Description'
     homepage 'http://www.dafont.com/austie-bost-chunky-description.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Chunky Description.ttf'
 end

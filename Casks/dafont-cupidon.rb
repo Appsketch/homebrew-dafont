@@ -5,7 +5,6 @@ cask 'dafont-cupidon' do
     url 'http://dl.dafont.com/dl/?f=cupidon'
     name 'Cupidon'
     homepage 'http://www.dafont.com/cupidon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cupidon.ttf'
 end

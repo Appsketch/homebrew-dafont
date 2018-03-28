@@ -5,7 +5,6 @@ cask 'dafont-trio-nona-tone' do
     url 'http://dl.dafont.com/dl/?f=trio_nona_tone'
     name 'Trio Nona Tone'
     homepage 'http://www.dafont.com/trio-nona-tone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trio Nona Tone.otf'
 end

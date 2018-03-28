@@ -5,7 +5,6 @@ cask 'dafont-jecr-font' do
     url 'http://dl.dafont.com/dl/?f=jecr_font'
     name 'JECR'
     homepage 'http://www.dafont.com/jecr-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JECR Font Bold.ttf'
     font 'JECR Font Light.ttf'

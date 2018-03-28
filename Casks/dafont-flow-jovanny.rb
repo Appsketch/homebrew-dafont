@@ -5,7 +5,6 @@ cask 'dafont-flow-jovanny' do
     url 'http://dl.dafont.com/dl/?f=flow_jovanny'
     name 'Flow'
     homepage 'http://www.dafont.com/flow-jovanny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flow_B.otf'
     font 'Flow.otf'

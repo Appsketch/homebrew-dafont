@@ -5,7 +5,6 @@ cask 'dafont-adhie' do
     url 'http://dl.dafont.com/dl/?f=adhie'
     name 'Adhie'
     homepage 'http://www.dafont.com/adhie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'adhie.ttf'
 end

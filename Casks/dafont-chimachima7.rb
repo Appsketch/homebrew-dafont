@@ -5,7 +5,6 @@ cask 'dafont-chimachima7' do
     url 'http://dl.dafont.com/dl/?f=chimachima7'
     name 'ChimaChima7'
     homepage 'http://www.dafont.com/chimachima7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chimachima7.TTF'
 end

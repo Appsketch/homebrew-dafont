@@ -5,7 +5,6 @@ cask 'dafont-indiansummer' do
     url 'http://dl.dafont.com/dl/?f=indiansummer'
     name 'Indian Summer'
     homepage 'http://www.dafont.com/indiansummer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IndianSummer.ttf'
 end

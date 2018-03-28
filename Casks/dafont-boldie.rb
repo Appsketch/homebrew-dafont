@@ -5,7 +5,6 @@ cask 'dafont-boldie' do
     url 'http://dl.dafont.com/dl/?f=boldie'
     name 'Boldie'
     homepage 'http://www.dafont.com/boldie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boldie Italic.ttf'
     font 'Boldie Outline.ttf'

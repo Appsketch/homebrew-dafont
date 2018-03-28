@@ -5,7 +5,6 @@ cask 'dafont-lf-jazzcloud' do
     url 'http://dl.dafont.com/dl/?f=lf_jazzcloud'
     name 'LF Jazzcloud'
     homepage 'http://www.dafont.com/lf-jazzcloud.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LF_Jazzcloud.ttf'
 end

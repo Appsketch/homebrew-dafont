@@ -5,7 +5,6 @@ cask 'dafont-pauls-heartless-font' do
     url 'http://dl.dafont.com/dl/?f=pauls_heartless_font'
     name 'Pauls Heartless'
     homepage 'http://www.dafont.com/pauls-heartless-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pauls Heartless Font.ttf'
 end

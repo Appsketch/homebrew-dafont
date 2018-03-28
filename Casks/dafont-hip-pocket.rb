@@ -5,7 +5,6 @@ cask 'dafont-hip-pocket' do
     url 'http://dl.dafont.com/dl/?f=hip_pocket'
     name 'Hip Pocket'
     homepage 'http://www.dafont.com/hip-pocket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hippocket.ttf'
     font 'hippocket3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-auto-mobile' do
     url 'http://dl.dafont.com/dl/?f=auto_mobile'
     name 'Auto Mobile'
     homepage 'http://www.dafont.com/auto-mobile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'automobile.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mickey-m-tfb' do
     url 'http://dl.dafont.com/dl/?f=mickey_m_tfb'
     name 'Mickey M TFB'
     homepage 'http://www.dafont.com/mickey-m-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mickey m tfb.ttf'
 end

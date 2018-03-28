@@ -5,7 +5,6 @@ cask 'dafont-enormous' do
     url 'http://dl.dafont.com/dl/?f=enormous'
     name 'Enormous'
     homepage 'http://www.dafont.com/enormous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'enormous.ttf'
 end

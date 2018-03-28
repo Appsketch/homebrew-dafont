@@ -5,7 +5,6 @@ cask 'dafont-no-hard-evidence' do
     url 'http://dl.dafont.com/dl/?f=no_hard_evidence'
     name 'No Hard Evidence'
     homepage 'http://www.dafont.com/no-hard-evidence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NoHardEvidence.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-distro' do
     url 'http://dl.dafont.com/dl/?f=distro'
     name 'Distro'
     homepage 'http://www.dafont.com/distro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DISTRO__.ttf'
     font 'DISTROB_.ttf'

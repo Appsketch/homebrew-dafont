@@ -5,7 +5,6 @@ cask 'dafont-do-it-yourself' do
     url 'http://dl.dafont.com/dl/?f=do_it_yourself'
     name 'Do it yourself'
     homepage 'http://www.dafont.com/do-it-yourself.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIY.ttf'
     font 'Do it yourself.ttf'

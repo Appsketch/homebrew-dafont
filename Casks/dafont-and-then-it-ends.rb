@@ -5,7 +5,6 @@ cask 'dafont-and-then-it-ends' do
     url 'http://dl.dafont.com/dl/?f=and_then_it_ends'
     name 'And Then It Ends'
     homepage 'http://www.dafont.com/and-then-it-ends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'And Then It Ends.otf'
 end

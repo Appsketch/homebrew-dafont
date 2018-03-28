@@ -5,7 +5,6 @@ cask 'dafont-lisboa-calatrava' do
     url 'http://dl.dafont.com/dl/?f=lisboa_calatrava'
     name 'Lisboa Calatrava'
     homepage 'http://www.dafont.com/lisboa-calatrava.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lisboa Calatrava type.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-having-writ' do
     url 'http://dl.dafont.com/dl/?f=having_writ'
     name 'Having Writ'
     homepage 'http://www.dafont.com/having-writ.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HavingWrit Bold.ttf'
     font 'HavingWrit Heavy.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-haunting-attraction' do
     url 'http://dl.dafont.com/dl/?f=haunting_attraction'
     name 'Haunting Attraction'
     homepage 'http://www.dafont.com/haunting-attraction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Haunting Attraction.ttf'
 end

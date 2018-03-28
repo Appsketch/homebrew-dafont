@@ -5,7 +5,6 @@ cask 'dafont-djb-ransom-note' do
     url 'http://dl.dafont.com/dl/?f=djb_ransom_note'
     name 'DJB Ransom Note'
     homepage 'http://www.dafont.com/djb-ransom-note.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Ransom Note Messy.ttf'
     font 'DJB Ransom Note.ttf'

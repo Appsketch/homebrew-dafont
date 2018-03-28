@@ -5,7 +5,6 @@ cask 'dafont-kg-skinny-love' do
     url 'http://dl.dafont.com/dl/?f=kg_skinny_love'
     name 'KG Skinny Love'
     homepage 'http://www.dafont.com/kg-skinny-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGSkinnyLove.ttf'
 end

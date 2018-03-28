@@ -5,7 +5,6 @@ cask 'dafont-fuckautority' do
     url 'http://dl.dafont.com/dl/?f=fuckautority'
     name 'Fuck Autority'
     homepage 'http://www.dafont.com/fuckautority.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FuckAutority-Regular.ttf'
 end

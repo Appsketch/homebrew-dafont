@@ -5,7 +5,6 @@ cask 'dafont-designer-notes' do
     url 'http://dl.dafont.com/dl/?f=designer_notes'
     name 'Designer Notes'
     homepage 'http://www.dafont.com/designer-notes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Designer-Notes-Bold.ttf'
     font 'Designer-Notes.ttf'

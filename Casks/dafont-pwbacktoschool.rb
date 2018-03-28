@@ -5,7 +5,6 @@ cask 'dafont-pwbacktoschool' do
     url 'http://dl.dafont.com/dl/?f=pwbacktoschool'
     name 'PW Back to School'
     homepage 'http://www.dafont.com/pwbacktoschool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWBacktoSchool.ttf'
 end

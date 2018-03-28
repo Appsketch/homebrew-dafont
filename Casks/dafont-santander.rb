@@ -5,7 +5,6 @@ cask 'dafont-santander' do
     url 'http://dl.dafont.com/dl/?f=santander'
     name 'Santander'
     homepage 'http://www.dafont.com/santander.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Santander Italic.ttf'
     font 'Santander.ttf'

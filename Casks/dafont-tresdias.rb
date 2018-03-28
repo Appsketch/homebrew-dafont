@@ -5,7 +5,6 @@ cask 'dafont-tresdias' do
     url 'http://dl.dafont.com/dl/?f=tresdias'
     name 'Tresdias'
     homepage 'http://www.dafont.com/tresdias.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tresdias Black.otf'
     font 'Tresdias.otf'

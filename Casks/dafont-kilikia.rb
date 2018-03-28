@@ -5,7 +5,6 @@ cask 'dafont-kilikia' do
     url 'http://dl.dafont.com/dl/?f=kilikia'
     name 'Kilikia'
     homepage 'http://www.dafont.com/kilikia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kilikia.ttf'
 end

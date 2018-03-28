@@ -5,7 +5,6 @@ cask 'dafont-ebrinnascandy' do
     url 'http://dl.dafont.com/dl/?f=ebrinnascandy'
     name 'Ebrinnas Candy'
     homepage 'http://www.dafont.com/ebrinnascandy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ebrinna&#039;s Candy.ttf'
 end

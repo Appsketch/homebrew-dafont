@@ -5,7 +5,6 @@ cask 'dafont-josef-xuereb-s-friends' do
     url 'http://dl.dafont.com/dl/?f=josef_xuereb_s_friends'
     name 'Josef Xuereb&#039;s Friends'
     homepage 'http://www.dafont.com/josef-xuereb-s-friends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Josef Xuereb s Friends - Bold Italic.ttf'
     font 'Josef Xuereb s Friends - Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-5-mentarios' do
     url 'http://dl.dafont.com/dl/?f=5_mentarios'
     name '5 Mentarios'
     homepage 'http://www.dafont.com/5-mentarios.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5+MENTARIOS.ttf'
 end

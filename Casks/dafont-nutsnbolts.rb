@@ -5,7 +5,6 @@ cask 'dafont-nutsnbolts' do
     url 'http://dl.dafont.com/dl/?f=nutsnbolts'
     name 'Nuts N Bolts'
     homepage 'http://www.dafont.com/nutsnbolts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nutsnbolts.ttf'
 end

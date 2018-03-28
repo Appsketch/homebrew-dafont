@@ -5,7 +5,6 @@ cask 'dafont-yozakura' do
     url 'http://dl.dafont.com/dl/?f=yozakura'
     name 'Yozakura'
     homepage 'http://www.dafont.com/yozakura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YOZAKURA-Regular.otf'
 end

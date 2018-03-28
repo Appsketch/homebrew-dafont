@@ -5,7 +5,6 @@ cask 'dafont-mekar-script' do
     url 'http://dl.dafont.com/dl/?f=mekar_script'
     name 'Mekar Script'
     homepage 'http://www.dafont.com/mekar-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mekar Script.ttf'
 end

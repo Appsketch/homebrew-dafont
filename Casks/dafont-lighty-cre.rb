@@ -5,7 +5,6 @@ cask 'dafont-lighty-cre' do
     url 'http://dl.dafont.com/dl/?f=lighty_cre'
     name 'Lighty Cre'
     homepage 'http://www.dafont.com/lighty-cre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LIGHTY_CRE.ttf'
 end

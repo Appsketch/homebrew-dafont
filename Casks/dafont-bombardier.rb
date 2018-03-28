@@ -5,7 +5,6 @@ cask 'dafont-bombardier' do
     url 'http://dl.dafont.com/dl/?f=bombardier'
     name 'Bombardier'
     homepage 'http://www.dafont.com/bombardier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOMBARD_.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-schrofer' do
     url 'http://dl.dafont.com/dl/?f=schrofer'
     name 'Schrofer'
     homepage 'http://www.dafont.com/schrofer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'schrofer.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-estrellas-tfb' do
     url 'http://dl.dafont.com/dl/?f=estrellas_tfb'
     name 'Estrellas TFB'
     homepage 'http://www.dafont.com/estrellas-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Estrellas TFB.ttf'
 end

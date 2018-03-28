@@ -5,7 +5,6 @@ cask 'dafont-pixelcarnage-monosp' do
     url 'http://dl.dafont.com/dl/?f=pixelcarnage_monosp'
     name 'PixelCarnage Mono Code'
     homepage 'http://www.dafont.com/pixelcarnage-monosp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixelCarnageMonoCode.fon'
     font 'PixelCarnageMonoCodeTall.fon'

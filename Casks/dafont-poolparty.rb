@@ -5,7 +5,6 @@ cask 'dafont-poolparty' do
     url 'http://dl.dafont.com/dl/?f=poolparty'
     name 'Pool Party'
     homepage 'http://www.dafont.com/poolparty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PoolParty.ttf'
 end

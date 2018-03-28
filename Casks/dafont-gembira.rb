@@ -5,7 +5,6 @@ cask 'dafont-gembira' do
     url 'http://dl.dafont.com/dl/?f=gembira'
     name 'Gembira'
     homepage 'http://www.dafont.com/gembira.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gembira.ttf'
 end

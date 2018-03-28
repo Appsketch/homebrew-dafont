@@ -5,7 +5,6 @@ cask 'dafont-bedrock' do
     url 'http://dl.dafont.com/dl/?f=bedrock'
     name 'Bedrock'
     homepage 'http://www.dafont.com/bedrock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bedrock.otf'
 end

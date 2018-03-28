@@ -5,7 +5,6 @@ cask 'dafont-jasonsharpie' do
     url 'http://dl.dafont.com/dl/?f=jasonsharpie'
     name 'Jason Sharpie'
     homepage 'http://www.dafont.com/jasonsharpie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JasonSharpie.ttf'
 end

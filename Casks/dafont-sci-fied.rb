@@ -5,7 +5,6 @@ cask 'dafont-sci-fied' do
     url 'http://dl.dafont.com/dl/?f=sci_fied'
     name 'Sci-Fied'
     homepage 'http://www.dafont.com/sci-fied.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scifi2k2.ttf'
     font 'scifi2ki.ttf'

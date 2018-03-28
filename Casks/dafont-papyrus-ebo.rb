@@ -5,7 +5,6 @@ cask 'dafont-papyrus-ebo' do
     url 'http://dl.dafont.com/dl/?f=papyrus_ebo'
     name 'Papyrus EBO'
     homepage 'http://www.dafont.com/papyrus-ebo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Papyrus EBO Regular.ttf'
 end

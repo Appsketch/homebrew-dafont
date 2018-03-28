@@ -5,7 +5,6 @@ cask 'dafont-mastodonte' do
     url 'http://dl.dafont.com/dl/?f=mastodonte'
     name 'Mastodonte'
     homepage 'http://www.dafont.com/mastodonte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mastodonte.ttf'
 end

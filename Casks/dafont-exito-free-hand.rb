@@ -5,7 +5,6 @@ cask 'dafont-exito-free-hand' do
     url 'http://dl.dafont.com/dl/?f=exito_free_hand'
     name 'Exito Free Hand'
     homepage 'http://www.dafont.com/exito-free-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Exito__.ttf'
 end

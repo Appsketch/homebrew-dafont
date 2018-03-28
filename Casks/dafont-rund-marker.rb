@@ -5,7 +5,6 @@ cask 'dafont-rund-marker' do
     url 'http://dl.dafont.com/dl/?f=rund_marker'
     name 'Rund Marker'
     homepage 'http://www.dafont.com/rund-marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RUNDM___.ttf'
 end

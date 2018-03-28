@@ -5,7 +5,6 @@ cask 'dafont-american-authors' do
     url 'http://dl.dafont.com/dl/?f=american_authors'
     name 'American Authors'
     homepage 'http://www.dafont.com/american-authors.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AMERICANAUTHORS.ttf'
 end

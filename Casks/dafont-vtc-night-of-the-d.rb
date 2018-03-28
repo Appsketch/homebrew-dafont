@@ -5,7 +5,6 @@ cask 'dafont-vtc-night-of-the-d' do
     url 'http://dl.dafont.com/dl/?f=vtc_night_of_the_d'
     name 'VTC Night of the dead corrupt'
     homepage 'http://www.dafont.com/vtc-night-of-the-d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC NightOfTheDeadCorruptCaps.ttf'
     font 'VTC NightOfTheDrippyBentCaps.ttf'

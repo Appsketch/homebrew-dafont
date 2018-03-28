@@ -5,7 +5,6 @@ cask 'dafont-psychotic-robots' do
     url 'http://dl.dafont.com/dl/?f=psychotic_robots'
     name 'Psychotic Robots'
     homepage 'http://www.dafont.com/psychotic-robots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Psychotic_Robots.ttf'
 end

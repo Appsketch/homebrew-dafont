@@ -5,7 +5,6 @@ cask 'dafont-rakesly' do
     url 'http://dl.dafont.com/dl/?f=rakesly'
     name 'Rakesly'
     homepage 'http://www.dafont.com/rakesly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rakesly bd it.ttf'
     font 'rakesly bd.ttf'

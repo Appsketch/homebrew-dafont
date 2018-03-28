@@ -5,7 +5,6 @@ cask 'dafont-v-zel' do
     url 'http://dl.dafont.com/dl/?f=v_zel'
     name 'V-Zel'
     homepage 'http://www.dafont.com/v-zel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'V-Zel- Regular.ttf'
 end

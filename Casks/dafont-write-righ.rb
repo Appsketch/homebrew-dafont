@@ -5,7 +5,6 @@ cask 'dafont-write-righ' do
     url 'http://dl.dafont.com/dl/?f=write_righ'
     name 'Write Righ'
     homepage 'http://www.dafont.com/write-righ.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Write Righ.ttf'
 end

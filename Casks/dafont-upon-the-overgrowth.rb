@@ -5,7 +5,6 @@ cask 'dafont-upon-the-overgrowth' do
     url 'http://dl.dafont.com/dl/?f=upon_the_overgrowth'
     name 'Upon The Overgrowth'
     homepage 'http://www.dafont.com/upon-the-overgrowth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '{Upon The Overgrowth].ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pictoserie-3' do
     url 'http://dl.dafont.com/dl/?f=pictoserie_3'
     name 'Pictoserie 3'
     homepage 'http://www.dafont.com/pictoserie-3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pictoserie3.ttf'
 end

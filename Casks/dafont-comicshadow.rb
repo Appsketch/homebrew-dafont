@@ -5,7 +5,6 @@ cask 'dafont-comicshadow' do
     url 'http://dl.dafont.com/dl/?f=comicshadow'
     name 'Comic Shadow'
     homepage 'http://www.dafont.com/comicshadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ComicShadow.ttf'
 end

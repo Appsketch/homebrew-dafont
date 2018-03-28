@@ -5,7 +5,6 @@ cask 'dafont-regal-demise' do
     url 'http://dl.dafont.com/dl/?f=regal_demise'
     name 'Regal Demise'
     homepage 'http://www.dafont.com/regal-demise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Regal Demise.ttf'
 end

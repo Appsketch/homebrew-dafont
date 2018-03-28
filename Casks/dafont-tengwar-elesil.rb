@@ -5,7 +5,6 @@ cask 'dafont-tengwar-elesil' do
     url 'http://dl.dafont.com/dl/?f=tengwar_elesil'
     name 'Tengwar Elesil'
     homepage 'http://www.dafont.com/tengwar-elesil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tengwar-Elesil-Medium.ttf'
     font 'Tengwar-Elesil-Normal.ttf'

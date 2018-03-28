@@ -5,7 +5,6 @@ cask 'dafont-stolenscript' do
     url 'http://dl.dafont.com/dl/?f=stolenscript'
     name 'Stolen Script'
     homepage 'http://www.dafont.com/stolenscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StolenScript.ttf'
 end

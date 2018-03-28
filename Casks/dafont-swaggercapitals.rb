@@ -5,7 +5,6 @@ cask 'dafont-swaggercapitals' do
     url 'http://dl.dafont.com/dl/?f=swaggercapitals'
     name 'Swagger Capitals'
     homepage 'http://www.dafont.com/swaggercapitals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SwaggerCapitals.ttf'
 end

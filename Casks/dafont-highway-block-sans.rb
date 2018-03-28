@@ -5,7 +5,6 @@ cask 'dafont-highway-block-sans' do
     url 'http://dl.dafont.com/dl/?f=highway_block_sans'
     name 'Highway Block Sans'
     homepage 'http://www.dafont.com/highway-block-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Highway-Block-Sans.ttf'
 end

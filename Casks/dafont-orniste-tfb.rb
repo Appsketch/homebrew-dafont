@@ -5,7 +5,6 @@ cask 'dafont-orniste-tfb' do
     url 'http://dl.dafont.com/dl/?f=orniste_tfb'
     name 'Orniste TFB'
     homepage 'http://www.dafont.com/orniste-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Orniste tfb.ttf'
 end

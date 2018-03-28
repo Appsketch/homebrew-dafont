@@ -5,7 +5,6 @@ cask 'dafont-volutes' do
     url 'http://dl.dafont.com/dl/?f=volutes'
     name 'Volutes'
     homepage 'http://www.dafont.com/volutes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Volutes.ttf'
 end

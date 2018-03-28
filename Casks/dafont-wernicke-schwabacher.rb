@@ -5,7 +5,6 @@ cask 'dafont-wernicke-schwabacher' do
     url 'http://dl.dafont.com/dl/?f=wernicke_schwabacher'
     name 'Wernicke Schwabacher'
     homepage 'http://www.dafont.com/wernicke-schwabacher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WernickeSchwabacher.ttf'
 end

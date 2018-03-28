@@ -5,7 +5,6 @@ cask 'dafont-bm-utopia' do
     url 'http://dl.dafont.com/dl/?f=bm_utopia'
     name 'BM Utopia'
     homepage 'http://www.dafont.com/bm-utopia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMutopia.TTF'
 end

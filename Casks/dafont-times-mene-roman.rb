@@ -5,7 +5,6 @@ cask 'dafont-times-mene-roman' do
     url 'http://dl.dafont.com/dl/?f=times_mene_roman'
     name 'Times Mene Roman'
     homepage 'http://www.dafont.com/times-mene-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Times Mene Roman.ttf'
 end

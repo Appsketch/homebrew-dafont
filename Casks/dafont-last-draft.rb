@@ -5,7 +5,6 @@ cask 'dafont-last-draft' do
     url 'http://dl.dafont.com/dl/?f=last_draft'
     name 'Last Draft'
     homepage 'http://www.dafont.com/last-draft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'last draft.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-anklepants' do
     url 'http://dl.dafont.com/dl/?f=anklepants'
     name 'Anklepants'
     homepage 'http://www.dafont.com/anklepants.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'anklepants.ttf'
 end

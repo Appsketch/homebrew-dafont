@@ -5,7 +5,6 @@ cask 'dafont-djb-brits-thin-pen' do
     url 'http://dl.dafont.com/dl/?f=djb_brits_thin_pen'
     name 'DJB Brit&#039;s Thin Pen'
     homepage 'http://www.dafont.com/djb-brits-thin-pen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Brit&#039;s Thin Pen.ttf'
 end

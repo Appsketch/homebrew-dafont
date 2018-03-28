@@ -5,7 +5,6 @@ cask 'dafont-prog-bot' do
     url 'http://dl.dafont.com/dl/?f=prog_bot'
     name 'Prog.bot'
     homepage 'http://www.dafont.com/prog-bot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'opticbot.ttf'
     font 'progbot.ttf'

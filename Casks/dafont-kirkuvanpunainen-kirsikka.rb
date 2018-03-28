@@ -5,7 +5,6 @@ cask 'dafont-kirkuvanpunainen-kirsikka' do
     url 'http://dl.dafont.com/dl/?f=kirkuvanpunainen_kirsikka'
     name 'Kirkuvanpunainen kirsikka'
     homepage 'http://www.dafont.com/kirkuvanpunainen-kirsikka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kirkuvanpunainen kirsikka.ttf'
 end

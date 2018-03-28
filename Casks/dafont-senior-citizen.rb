@@ -5,7 +5,6 @@ cask 'dafont-senior-citizen' do
     url 'http://dl.dafont.com/dl/?f=senior_citizen'
     name 'Senior Citizen'
     homepage 'http://www.dafont.com/senior-citizen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Senior Citizen.ttf'
 end

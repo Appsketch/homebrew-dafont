@@ -5,7 +5,6 @@ cask 'dafont-fnord-hodge-podge' do
     url 'http://dl.dafont.com/dl/?f=fnord_hodge_podge'
     name 'Fnord Hodge + Podge'
     homepage 'http://www.dafont.com/fnord-hodge-podge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fnord-Hodge.otf'
     font 'Fnord-Podge.otf'

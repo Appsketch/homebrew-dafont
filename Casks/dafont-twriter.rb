@@ -5,7 +5,6 @@ cask 'dafont-twriter' do
     url 'http://dl.dafont.com/dl/?f=twriter'
     name 'TWriter'
     homepage 'http://www.dafont.com/twriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TWriterOne.ttf'
     font 'TWriterTwo.ttf'

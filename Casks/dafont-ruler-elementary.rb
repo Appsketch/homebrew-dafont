@@ -5,7 +5,6 @@ cask 'dafont-ruler-elementary' do
     url 'http://dl.dafont.com/dl/?f=ruler_elementary'
     name 'Ruler Elementary'
     homepage 'http://www.dafont.com/ruler-elementary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ruler Elementary.ttf'
 end

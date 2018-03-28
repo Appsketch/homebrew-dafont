@@ -5,7 +5,6 @@ cask 'dafont-beeb-mode' do
     url 'http://dl.dafont.com/dl/?f=beeb_mode'
     name 'Beeb Mode'
     homepage 'http://www.dafont.com/beeb-mode.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beeb Mode One.ttf'
     font 'Beeb Mode Two.ttf'

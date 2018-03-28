@@ -5,7 +5,6 @@ cask 'dafont-ygraine' do
     url 'http://dl.dafont.com/dl/?f=ygraine'
     name 'Ygraine'
     homepage 'http://www.dafont.com/ygraine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ygraine Shadow.ttf'
     font 'Ygraine Skeleton.ttf'

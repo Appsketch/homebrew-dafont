@@ -5,7 +5,6 @@ cask 'dafont-exposure' do
     url 'http://dl.dafont.com/dl/?f=exposure'
     name 'Exposure'
     homepage 'http://www.dafont.com/exposure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EXPOSURE.ttf'
 end

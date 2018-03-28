@@ -5,7 +5,6 @@ cask 'dafont-qrypton' do
     url 'http://dl.dafont.com/dl/?f=qrypton'
     name 'Qrypton'
     homepage 'http://www.dafont.com/qrypton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'qrypton.otf'
 end

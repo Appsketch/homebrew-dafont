@@ -5,7 +5,6 @@ cask 'dafont-infinite-justice' do
     url 'http://dl.dafont.com/dl/?f=infinite_justice'
     name 'Infinite Justice'
     homepage 'http://www.dafont.com/infinite-justice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Infinite.ttf'
     font 'InfinitS.ttf'

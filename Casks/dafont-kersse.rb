@@ -5,7 +5,6 @@ cask 'dafont-kersse' do
     url 'http://dl.dafont.com/dl/?f=kersse'
     name 'Kersse'
     homepage 'http://www.dafont.com/kersse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kersse.ttf'
 end

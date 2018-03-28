@@ -5,7 +5,6 @@ cask 'dafont-bitxmap-font-tfb' do
     url 'http://dl.dafont.com/dl/?f=bitxmap_font_tfb'
     name 'BitxMap Font TFB'
     homepage 'http://www.dafont.com/bitxmap-font-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BitxMap Font tfb.ttf'
 end

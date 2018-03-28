@@ -5,7 +5,6 @@ cask 'dafont-doom-and-gloom' do
     url 'http://dl.dafont.com/dl/?f=doom_and_gloom'
     name 'Doom And Gloom'
     homepage 'http://www.dafont.com/doom-and-gloom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doom And Gloom.ttf'
 end

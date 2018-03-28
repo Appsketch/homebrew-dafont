@@ -5,7 +5,6 @@ cask 'dafont-frish' do
     url 'http://dl.dafont.com/dl/?f=frish'
     name 'Frish'
     homepage 'http://www.dafont.com/frish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'frish.ttf'
 end

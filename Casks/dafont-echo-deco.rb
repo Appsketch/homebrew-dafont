@@ -5,7 +5,6 @@ cask 'dafont-echo-deco' do
     url 'http://dl.dafont.com/dl/?f=echo_deco'
     name 'Echo Deco'
     homepage 'http://www.dafont.com/echo-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EchoDeco.ttf'
 end

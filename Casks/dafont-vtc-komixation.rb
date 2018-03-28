@@ -5,7 +5,6 @@ cask 'dafont-vtc-komixation' do
     url 'http://dl.dafont.com/dl/?f=vtc_komixation'
     name 'VTC Komixation'
     homepage 'http://www.dafont.com/vtc-komixation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTCKomixationCaps.ttf'
     font 'VTCKomixationCapsBold.ttf'

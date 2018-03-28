@@ -5,7 +5,6 @@ cask 'dafont-stickymad' do
     url 'http://dl.dafont.com/dl/?f=stickymad'
     name 'Sticky Mad'
     homepage 'http://www.dafont.com/stickymad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StickyMad.ttf'
 end

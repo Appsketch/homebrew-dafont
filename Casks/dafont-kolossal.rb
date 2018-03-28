@@ -5,7 +5,6 @@ cask 'dafont-kolossal' do
     url 'http://dl.dafont.com/dl/?f=kolossal'
     name 'Kolossal'
     homepage 'http://www.dafont.com/kolossal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kolossal black.ttf'
     font 'Kolossal.ttf'

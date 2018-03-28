@@ -5,7 +5,6 @@ cask 'dafont-folks-ps' do
     url 'http://dl.dafont.com/dl/?f=folks_ps'
     name 'Folks PS'
     homepage 'http://www.dafont.com/folks-ps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Folks.ttf'
 end

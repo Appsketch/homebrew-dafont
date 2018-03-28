@@ -5,7 +5,6 @@ cask 'dafont-necrophylac' do
     url 'http://dl.dafont.com/dl/?f=necrophylac'
     name 'Necrophylac'
     homepage 'http://www.dafont.com/necrophylac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Necrophylac.ttf'
 end

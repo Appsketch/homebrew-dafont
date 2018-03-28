@@ -5,7 +5,6 @@ cask 'dafont-texas-grunge' do
     url 'http://dl.dafont.com/dl/?f=texas_grunge'
     name 'Texas Grunge'
     homepage 'http://www.dafont.com/texas-grunge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Texas Grunge demo.ttf'
 end

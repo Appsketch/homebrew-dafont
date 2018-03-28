@@ -5,7 +5,6 @@ cask 'dafont-rueckwarzsalto' do
     url 'http://dl.dafont.com/dl/?f=rueckwarzsalto'
     name 'Rueckwarzsalto'
     homepage 'http://www.dafont.com/rueckwarzsalto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rueckwarzsalto.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pwsquared' do
     url 'http://dl.dafont.com/dl/?f=pwsquared'
     name 'PW Squared'
     homepage 'http://www.dafont.com/pwsquared.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWSquared.ttf'
 end

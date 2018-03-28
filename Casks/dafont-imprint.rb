@@ -5,7 +5,6 @@ cask 'dafont-imprint' do
     url 'http://dl.dafont.com/dl/?f=imprint'
     name 'Imprint'
     homepage 'http://www.dafont.com/imprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'imprint.ttf'
 end

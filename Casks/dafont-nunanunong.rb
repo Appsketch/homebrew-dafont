@@ -5,7 +5,6 @@ cask 'dafont-nunanunong' do
     url 'http://dl.dafont.com/dl/?f=nunanunong'
     name 'Nunanunong'
     homepage 'http://www.dafont.com/nunanunong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nunanunong Demo.ttf'
 end

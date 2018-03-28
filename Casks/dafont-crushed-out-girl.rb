@@ -5,7 +5,6 @@ cask 'dafont-crushed-out-girl' do
     url 'http://dl.dafont.com/dl/?f=crushed_out_girl'
     name 'Crushed Out Girl'
     homepage 'http://www.dafont.com/crushed-out-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRUSOGP_.TTF'
     font 'CRUSOGS_.TTF'

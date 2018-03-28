@@ -5,7 +5,6 @@ cask 'dafont-steamy' do
     url 'http://dl.dafont.com/dl/?f=steamy'
     name 'Steamy'
     homepage 'http://www.dafont.com/steamy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Steamy.otf'
 end

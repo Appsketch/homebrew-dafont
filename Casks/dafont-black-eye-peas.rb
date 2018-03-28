@@ -5,7 +5,6 @@ cask 'dafont-black-eye-peas' do
     url 'http://dl.dafont.com/dl/?f=black_eye_peas'
     name 'Black Eye Peas'
     homepage 'http://www.dafont.com/black-eye-peas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black Eye Peas.ttf'
 end

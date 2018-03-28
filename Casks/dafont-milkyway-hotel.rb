@@ -5,7 +5,6 @@ cask 'dafont-milkyway-hotel' do
     url 'http://dl.dafont.com/dl/?f=milkyway_hotel'
     name 'Milkyway Hotel'
     homepage 'http://www.dafont.com/milkyway-hotel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MilkywayHotel_PersonalUseOnly.ttf'
 end

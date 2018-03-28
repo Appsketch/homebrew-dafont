@@ -5,7 +5,6 @@ cask 'dafont-give-it-your-heart' do
     url 'http://dl.dafont.com/dl/?f=give_it_your_heart'
     name 'Give It Your Heart'
     homepage 'http://www.dafont.com/give-it-your-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Give It Your Heart.ttf'
 end

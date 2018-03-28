@@ -5,7 +5,6 @@ cask 'dafont-comistain' do
     url 'http://dl.dafont.com/dl/?f=comistain'
     name 'Comistain'
     homepage 'http://www.dafont.com/comistain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comistain italic.ttf'
     font 'Comistain regular.ttf'

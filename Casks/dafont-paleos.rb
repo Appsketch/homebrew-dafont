@@ -5,7 +5,6 @@ cask 'dafont-paleos' do
     url 'http://dl.dafont.com/dl/?f=paleos'
     name 'Paleos'
     homepage 'http://www.dafont.com/paleos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PALED___.TTF'
 end

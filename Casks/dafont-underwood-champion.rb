@@ -5,7 +5,6 @@ cask 'dafont-underwood-champion' do
     url 'http://dl.dafont.com/dl/?f=underwood_champion'
     name 'Underwood Champion'
     homepage 'http://www.dafont.com/underwood-champion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'uwch.ttf'
 end

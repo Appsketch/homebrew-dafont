@@ -5,7 +5,6 @@ cask 'dafont-sf-espresso-shack' do
     url 'http://dl.dafont.com/dl/?f=sf_espresso_shack'
     name 'SF Espresso Shack'
     homepage 'http://www.dafont.com/sf-espresso-shack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Espresso Shack Bold Italic.ttf'
     font 'SF Espresso Shack Bold.ttf'

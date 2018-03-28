@@ -5,7 +5,6 @@ cask 'dafont-anglo-text' do
     url 'http://dl.dafont.com/dl/?f=anglo_text'
     name 'Anglo Text'
     homepage 'http://www.dafont.com/anglo-text.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anglo Text.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tomorrow-comes-today' do
     url 'http://dl.dafont.com/dl/?f=tomorrow_comes_today'
     name 'Tomorrow Comes Today'
     homepage 'http://www.dafont.com/tomorrow-comes-today.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tomorrow Comes Today.ttf'
 end

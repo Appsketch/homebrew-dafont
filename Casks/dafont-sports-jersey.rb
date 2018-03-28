@@ -5,7 +5,6 @@ cask 'dafont-sports-jersey' do
     url 'http://dl.dafont.com/dl/?f=sports_jersey'
     name 'Sports Jersey'
     homepage 'http://www.dafont.com/sports-jersey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sportsjersey.ttf'
 end

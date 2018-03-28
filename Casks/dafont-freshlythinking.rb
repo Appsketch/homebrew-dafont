@@ -5,7 +5,6 @@ cask 'dafont-freshlythinking' do
     url 'http://dl.dafont.com/dl/?f=freshlythinking'
     name 'Freshly Thinking'
     homepage 'http://www.dafont.com/freshlythinking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreshlyThinking.ttf'
 end

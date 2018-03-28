@@ -5,7 +5,6 @@ cask 'dafont-kbjukebox' do
     url 'http://dl.dafont.com/dl/?f=kbjukebox'
     name 'KB Jukebox'
     homepage 'http://www.dafont.com/kbjukebox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBJukebox.ttf'
 end

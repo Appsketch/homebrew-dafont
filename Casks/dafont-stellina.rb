@@ -5,7 +5,6 @@ cask 'dafont-stellina' do
     url 'http://dl.dafont.com/dl/?f=stellina'
     name 'Stellina'
     homepage 'http://www.dafont.com/stellina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stellina.TTF'
 end

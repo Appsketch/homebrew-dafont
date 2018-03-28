@@ -5,7 +5,6 @@ cask 'dafont-amazingbutnotawesome' do
     url 'http://dl.dafont.com/dl/?f=amazingbutnotawesome'
     name 'Amazing But Not Awesome'
     homepage 'http://www.dafont.com/amazingbutnotawesome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmazingButnotAWESOME.ttf'
 end

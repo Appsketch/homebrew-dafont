@@ -5,7 +5,6 @@ cask 'dafont-extrakrebel1987' do
     url 'http://dl.dafont.com/dl/?f=extrakrebel1987'
     name 'Extrakrebel 1987'
     homepage 'http://www.dafont.com/extrakrebel1987.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EXTRAKREBEL1987.ttf'
 end

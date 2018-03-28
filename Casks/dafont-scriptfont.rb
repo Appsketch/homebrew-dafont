@@ -5,7 +5,6 @@ cask 'dafont-scriptfont' do
     url 'http://dl.dafont.com/dl/?f=scriptfont'
     name 'Scriptfont'
     homepage 'http://www.dafont.com/scriptfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scriptfont.ttf'
 end

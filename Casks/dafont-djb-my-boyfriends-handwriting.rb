@@ -5,7 +5,6 @@ cask 'dafont-djb-my-boyfriends-handwriting' do
     url 'http://dl.dafont.com/dl/?f=djb_my_boyfriends_handwriting'
     name 'DJB My Boyfriend&#039;s Handwriting'
     homepage 'http://www.dafont.com/djb-my-boyfriends-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB My Boyfriends Handwriting.ttf'
 end

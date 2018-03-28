@@ -5,7 +5,6 @@ cask 'dafont-dk-drop-dead-gorgeous' do
     url 'http://dl.dafont.com/dl/?f=dk_drop_dead_gorgeous'
     name 'DK Drop Dead Gorgeous'
     homepage 'http://www.dafont.com/dk-drop-dead-gorgeous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Drop Dead Gorgeous.otf'
 end

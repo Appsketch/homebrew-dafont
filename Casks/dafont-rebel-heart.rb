@@ -5,7 +5,6 @@ cask 'dafont-rebel-heart' do
     url 'http://dl.dafont.com/dl/?f=rebel_heart'
     name 'Rebel Heart'
     homepage 'http://www.dafont.com/rebel-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rebel Heart Madonna.otf'
 end

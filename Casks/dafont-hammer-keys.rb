@@ -5,7 +5,6 @@ cask 'dafont-hammer-keys' do
     url 'http://dl.dafont.com/dl/?f=hammer_keys'
     name 'Hammer Keys'
     homepage 'http://www.dafont.com/hammer-keys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HAMMK___.TTF'
 end

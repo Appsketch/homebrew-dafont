@@ -5,7 +5,6 @@ cask 'dafont-hype' do
     url 'http://dl.dafont.com/dl/?f=hype'
     name 'Hype'
     homepage 'http://www.dafont.com/hype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HYPE bold.ttf'
     font 'HYPE.ttf'

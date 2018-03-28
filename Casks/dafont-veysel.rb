@@ -5,7 +5,6 @@ cask 'dafont-veysel' do
     url 'http://dl.dafont.com/dl/?f=veysel'
     name 'Veysel'
     homepage 'http://www.dafont.com/veysel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Veysel.ttf'
 end

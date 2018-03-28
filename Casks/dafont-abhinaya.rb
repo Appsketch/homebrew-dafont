@@ -5,7 +5,6 @@ cask 'dafont-abhinaya' do
     url 'http://dl.dafont.com/dl/?f=abhinaya'
     name 'Abhinaya'
     homepage 'http://www.dafont.com/abhinaya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abhinaya-Regular.ttf'
 end

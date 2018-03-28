@@ -5,7 +5,6 @@ cask 'dafont-dizajnerski' do
     url 'http://dl.dafont.com/dl/?f=dizajnerski'
     name 'Dizajnerski'
     homepage 'http://www.dafont.com/dizajnerski.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIZAJNER.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vtc-liquorcrystaldisplay' do
     url 'http://dl.dafont.com/dl/?f=vtc_liquorcrystaldisplay'
     name 'VTC Liquor Crystal Display'
     homepage 'http://www.dafont.com/vtc-liquorcrystaldisplay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC LiquorCrystalDisplay.ttf'
 end

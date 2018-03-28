@@ -5,7 +5,6 @@ cask 'dafont-ooky' do
     url 'http://dl.dafont.com/dl/?f=ooky'
     name 'Ooky'
     homepage 'http://www.dafont.com/ooky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ooky.ttf'
 end

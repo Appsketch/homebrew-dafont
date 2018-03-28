@@ -5,7 +5,6 @@ cask 'dafont-inversionz' do
     url 'http://dl.dafont.com/dl/?f=inversionz'
     name 'Inversionz'
     homepage 'http://www.dafont.com/inversionz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inversionz.otf'
     font 'InversionzItalic.otf'

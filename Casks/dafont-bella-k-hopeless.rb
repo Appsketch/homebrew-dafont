@@ -5,7 +5,6 @@ cask 'dafont-bella-k-hopeless' do
     url 'http://dl.dafont.com/dl/?f=bella_k_hopeless'
     name 'Bella K. Hopeless'
     homepage 'http://www.dafont.com/bella-k-hopeless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bellakhopeless.ttf'
 end

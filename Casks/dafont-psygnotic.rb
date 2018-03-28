@@ -5,7 +5,6 @@ cask 'dafont-psygnotic' do
     url 'http://dl.dafont.com/dl/?f=psygnotic'
     name 'Psygnotic'
     homepage 'http://www.dafont.com/psygnotic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nadc_psygnotic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cf-flowers-of-destiny' do
     url 'http://dl.dafont.com/dl/?f=cf_flowers_of_destiny'
     name 'CF Flowers of Destiny'
     homepage 'http://www.dafont.com/cf-flowers-of-destiny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFFlowersofDestinyPersonal.ttf'
 end

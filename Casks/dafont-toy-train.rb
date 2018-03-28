@@ -5,7 +5,6 @@ cask 'dafont-toy-train' do
     url 'http://dl.dafont.com/dl/?f=toy_train'
     name 'Toy Train'
     homepage 'http://www.dafont.com/toy-train.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Toy Train.ttf'
 end

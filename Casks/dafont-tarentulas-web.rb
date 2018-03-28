@@ -5,7 +5,6 @@ cask 'dafont-tarentulas-web' do
     url 'http://dl.dafont.com/dl/?f=tarentulas_web'
     name 'Tarentula&#039;s Web'
     homepage 'http://www.dafont.com/tarentulas-web.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tarentula-&#039;s Web.ttf'
 end

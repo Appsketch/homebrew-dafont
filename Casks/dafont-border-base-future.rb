@@ -5,7 +5,6 @@ cask 'dafont-border-base-future' do
     url 'http://dl.dafont.com/dl/?f=border_base_future'
     name 'Border Base Future'
     homepage 'http://www.dafont.com/border-base-future.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BorderBase Italic.ttf'
     font 'BorderBase.ttf'

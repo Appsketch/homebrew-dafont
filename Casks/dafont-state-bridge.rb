@@ -5,7 +5,6 @@ cask 'dafont-state-bridge' do
     url 'http://dl.dafont.com/dl/?f=state_bridge'
     name 'State Bridge'
     homepage 'http://www.dafont.com/state-bridge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'State Bridge.ttf'
 end

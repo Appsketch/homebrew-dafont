@@ -5,7 +5,6 @@ cask 'dafont-planes-s-modern' do
     url 'http://dl.dafont.com/dl/?f=planes_s_modern'
     name 'Planes-S-Modern'
     homepage 'http://www.dafont.com/planes-s-modern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLANESS.TTF'
 end

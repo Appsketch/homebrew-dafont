@@ -5,7 +5,6 @@ cask 'dafont-yy-sword-and-dagger' do
     url 'http://dl.dafont.com/dl/?f=yy_sword_and_dagger'
     name 'YY Sword and Dagger'
     homepage 'http://www.dafont.com/yy-sword-and-dagger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sword and Dagger.ttf'
 end

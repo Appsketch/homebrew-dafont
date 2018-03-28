@@ -5,7 +5,6 @@ cask 'dafont-rotor' do
     url 'http://dl.dafont.com/dl/?f=rotor'
     name 'R&oslash;t&oslash;r'
     homepage 'http://www.dafont.com/rotor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rotor-demo.otf'
 end

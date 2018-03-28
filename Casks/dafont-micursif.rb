@@ -5,7 +5,6 @@ cask 'dafont-micursif' do
     url 'http://dl.dafont.com/dl/?f=micursif'
     name 'Micursif'
     homepage 'http://www.dafont.com/micursif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Micursif.ttf'
 end

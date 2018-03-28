@@ -5,7 +5,6 @@ cask 'dafont-asfrogas' do
     url 'http://dl.dafont.com/dl/?f=asfrogas'
     name 'Asfrogas'
     homepage 'http://www.dafont.com/asfrogas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Asfrogas.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-truckle' do
     url 'http://dl.dafont.com/dl/?f=truckle'
     name 'Truckle'
     homepage 'http://www.dafont.com/truckle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truckle.ttf'
 end

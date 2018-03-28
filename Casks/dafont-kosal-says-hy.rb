@@ -5,7 +5,6 @@ cask 'dafont-kosal-says-hy' do
     url 'http://dl.dafont.com/dl/?f=kosal_says_hy'
     name 'Kosal says hy'
     homepage 'http://www.dafont.com/kosal-says-hy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kosalsayshy.ttf'
 end

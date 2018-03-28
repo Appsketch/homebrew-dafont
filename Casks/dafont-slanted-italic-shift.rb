@@ -5,7 +5,6 @@ cask 'dafont-slanted-italic-shift' do
     url 'http://dl.dafont.com/dl/?f=slanted_italic_shift'
     name 'Slanted Italic Shift'
     homepage 'http://www.dafont.com/slanted-italic-shift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'slanted ITALIC shift_black.otf'
     font 'slanted ITALIC shift_bold.otf'

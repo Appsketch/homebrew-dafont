@@ -5,7 +5,6 @@ cask 'dafont-french-fries' do
     url 'http://dl.dafont.com/dl/?f=french_fries'
     name 'French fries'
     homepage 'http://www.dafont.com/french-fries.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'French fries.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vtks-curumin' do
     url 'http://dl.dafont.com/dl/?f=vtks_curumin'
     name 'Vtks Curumin'
     homepage 'http://www.dafont.com/vtks-curumin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Curumin.ttf'
 end

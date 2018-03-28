@@ -5,7 +5,6 @@ cask 'dafont-angel-brotxa' do
     url 'http://dl.dafont.com/dl/?f=angel_brotxa'
     name 'Angel Brotxa'
     homepage 'http://www.dafont.com/angel-brotxa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AngelBrotxa-Regular.ttf'
 end

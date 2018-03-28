@@ -5,7 +5,6 @@ cask 'dafont-san-diego-font' do
     url 'http://dl.dafont.com/dl/?f=san_diego_font'
     name 'San Diego Font'
     homepage 'http://www.dafont.com/san-diego-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'San_Diego_Font.ttf'
 end

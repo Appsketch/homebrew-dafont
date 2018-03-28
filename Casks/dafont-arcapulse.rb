@@ -5,7 +5,6 @@ cask 'dafont-arcapulse' do
     url 'http://dl.dafont.com/dl/?f=arcapulse'
     name 'Arcapulse'
     homepage 'http://www.dafont.com/arcapulse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arcapulse.otf'
 end

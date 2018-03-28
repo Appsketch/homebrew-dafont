@@ -5,7 +5,6 @@ cask 'dafont-kg-build-a-game' do
     url 'http://dl.dafont.com/dl/?f=kg_build_a_game'
     name 'KG Build A Game'
     homepage 'http://www.dafont.com/kg-build-a-game.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGBuildAGame.ttf'
 end

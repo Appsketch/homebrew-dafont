@@ -5,7 +5,6 @@ cask 'dafont-simple-slum-g' do
     url 'http://dl.dafont.com/dl/?f=simple_slum_g'
     name 'Simple Slum G'
     homepage 'http://www.dafont.com/simple-slum-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_simple_slum.ttf'
 end

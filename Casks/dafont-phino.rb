@@ -5,7 +5,6 @@ cask 'dafont-phino' do
     url 'http://dl.dafont.com/dl/?f=phino'
     name 'Phino'
     homepage 'http://www.dafont.com/phino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phino tight.ttf'
     font 'Phino variation.ttf'

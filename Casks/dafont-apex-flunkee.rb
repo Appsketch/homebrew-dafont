@@ -5,7 +5,6 @@ cask 'dafont-apex-flunkee' do
     url 'http://dl.dafont.com/dl/?f=apex_flunkee'
     name 'Apex Flunkee'
     homepage 'http://www.dafont.com/apex-flunkee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ApexFlunkee-Regular.ttf'
 end

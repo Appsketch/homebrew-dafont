@@ -5,7 +5,6 @@ cask 'dafont-aquarious' do
     url 'http://dl.dafont.com/dl/?f=aquarious'
     name 'Aquarious'
     homepage 'http://www.dafont.com/aquarious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aquarious.ttf'
 end

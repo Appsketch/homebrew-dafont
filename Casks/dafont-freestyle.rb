@@ -5,7 +5,6 @@ cask 'dafont-freestyle' do
     url 'http://dl.dafont.com/dl/?f=freestyle'
     name 'Freestyle'
     homepage 'http://www.dafont.com/freestyle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FREESTYL.TTF'
 end

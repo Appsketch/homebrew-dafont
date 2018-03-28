@@ -5,7 +5,6 @@ cask 'dafont-astron-boy' do
     url 'http://dl.dafont.com/dl/?f=astron_boy'
     name 'Astron Boy'
     homepage 'http://www.dafont.com/astron-boy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'astron boy italic.ttf'
     font 'astron boy video.ttf'

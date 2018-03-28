@@ -5,7 +5,6 @@ cask 'dafont-jumbo-parade' do
     url 'http://dl.dafont.com/dl/?f=jumbo_parade'
     name 'Jumbo Parade'
     homepage 'http://www.dafont.com/jumbo-parade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jumbo Parade.ttf'
 end

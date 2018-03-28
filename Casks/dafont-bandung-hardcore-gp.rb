@@ -5,7 +5,6 @@ cask 'dafont-bandung-hardcore-gp' do
     url 'http://dl.dafont.com/dl/?f=bandung_hardcore_gp'
     name 'Bandung Hardcore GP'
     homepage 'http://www.dafont.com/bandung-hardcore-gp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bandung Hardcore GP.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-flintstone' do
     url 'http://dl.dafont.com/dl/?f=flintstone'
     name 'Flintstone'
     homepage 'http://www.dafont.com/flintstone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'flintstone.ttf'
 end

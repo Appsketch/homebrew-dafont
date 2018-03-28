@@ -5,7 +5,6 @@ cask 'dafont-war-machine' do
     url 'http://dl.dafont.com/dl/?f=war_machine'
     name 'War Machine'
     homepage 'http://www.dafont.com/war-machine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'warmachine.ttf'
     font 'warmachine3d.ttf'

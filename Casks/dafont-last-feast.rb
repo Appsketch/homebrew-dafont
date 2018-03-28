@@ -5,7 +5,6 @@ cask 'dafont-last-feast' do
     url 'http://dl.dafont.com/dl/?f=last_feast'
     name 'Last Feast'
     homepage 'http://www.dafont.com/last-feast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Last Feast.otf'
 end

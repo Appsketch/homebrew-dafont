@@ -5,7 +5,6 @@ cask 'dafont-there-can-only-be-one-beaver-im-it' do
     url 'http://dl.dafont.com/dl/?f=there_can_only_be_one_beaver_im_it'
     name 'There can only be one Beaver Im it'
     homepage 'http://www.dafont.com/there-can-only-be-one-beaver-im-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'There can only be one Beaver Im it.ttf'
 end

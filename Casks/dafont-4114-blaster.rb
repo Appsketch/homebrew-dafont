@@ -5,7 +5,6 @@ cask 'dafont-4114-blaster' do
     url 'http://dl.dafont.com/dl/?f=4114_blaster'
     name '4114 Blaster'
     homepage 'http://www.dafont.com/4114-blaster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '4114blasterv2.ttf'
     font '4114blasterv23d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-popstars' do
     url 'http://dl.dafont.com/dl/?f=popstars'
     name 'Popstars'
     homepage 'http://www.dafont.com/popstars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POPSF___.TTF'
     font 'POPSTARS.TTF'

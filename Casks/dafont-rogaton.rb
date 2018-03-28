@@ -5,7 +5,6 @@ cask 'dafont-rogaton' do
     url 'http://dl.dafont.com/dl/?f=rogaton'
     name 'Rogaton'
     homepage 'http://www.dafont.com/rogaton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROGAB___.TTF'
     font 'ROGABI__.TTF'

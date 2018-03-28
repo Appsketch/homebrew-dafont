@@ -5,7 +5,6 @@ cask 'dafont-t-v' do
     url 'http://dl.dafont.com/dl/?f=t_v'
     name 'T.V.'
     homepage 'http://www.dafont.com/t-v.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'T.V..ttf'
 end

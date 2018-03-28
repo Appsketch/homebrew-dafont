@@ -5,7 +5,6 @@ cask 'dafont-broken-planewing' do
     url 'http://dl.dafont.com/dl/?f=broken_planewing'
     name 'Broken Planewing'
     homepage 'http://www.dafont.com/broken-planewing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'broken_planew.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-posca-mad-thrasherz' do
     url 'http://dl.dafont.com/dl/?f=posca_mad_thrasherz'
     name 'Posca Mad Thrasherz'
     homepage 'http://www.dafont.com/posca-mad-thrasherz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'posca_mad_thrasherz.ttf'
 end

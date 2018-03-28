@@ -5,7 +5,6 @@ cask 'dafont-vinyl-george' do
     url 'http://dl.dafont.com/dl/?f=vinyl_george'
     name 'Vinyl George'
     homepage 'http://www.dafont.com/vinyl-george.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vinyl_George.ttf'
 end

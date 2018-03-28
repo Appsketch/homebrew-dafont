@@ -5,7 +5,6 @@ cask 'dafont-snakebold' do
     url 'http://dl.dafont.com/dl/?f=snakebold'
     name 'Snakebold'
     homepage 'http://www.dafont.com/snakebold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'snakebold.ttf'
 end

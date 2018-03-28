@@ -5,7 +5,6 @@ cask 'dafont-blocked' do
     url 'http://dl.dafont.com/dl/?f=blocked'
     name 'Blocked'
     homepage 'http://www.dafont.com/blocked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blocked.ttf'
 end

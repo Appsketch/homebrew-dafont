@@ -5,7 +5,6 @@ cask 'dafont-antsypants' do
     url 'http://dl.dafont.com/dl/?f=antsypants'
     name 'Antsy Pants'
     homepage 'http://www.dafont.com/antsypants.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANTSYPAN.TTF'
 end

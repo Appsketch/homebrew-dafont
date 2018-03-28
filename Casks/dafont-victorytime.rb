@@ -5,7 +5,6 @@ cask 'dafont-victorytime' do
     url 'http://dl.dafont.com/dl/?f=victorytime'
     name 'Victory Time'
     homepage 'http://www.dafont.com/victorytime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VictoryTime.ttf'
 end

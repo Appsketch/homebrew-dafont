@@ -5,7 +5,6 @@ cask 'dafont-cella' do
     url 'http://dl.dafont.com/dl/?f=cella'
     name 'Cella'
     homepage 'http://www.dafont.com/cella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cella.otf'
 end

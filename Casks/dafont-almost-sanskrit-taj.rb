@@ -5,7 +5,6 @@ cask 'dafont-almost-sanskrit-taj' do
     url 'http://dl.dafont.com/dl/?f=almost_sanskrit_taj'
     name 'Almost Sanskrit Taj'
     homepage 'http://www.dafont.com/almost-sanskrit-taj.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Almost Sanskrit Taj Light.ttf'
     font 'Almost Sanskrit Taj.ttf'

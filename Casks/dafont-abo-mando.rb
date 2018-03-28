@@ -5,7 +5,6 @@ cask 'dafont-abo-mando' do
     url 'http://dl.dafont.com/dl/?f=abo_mando'
     name 'Abo Mando'
     homepage 'http://www.dafont.com/abo-mando.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abo_Mando.ttf'
 end

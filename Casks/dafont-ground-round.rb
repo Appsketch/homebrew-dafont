@@ -5,7 +5,6 @@ cask 'dafont-ground-round' do
     url 'http://dl.dafont.com/dl/?f=ground_round'
     name 'Ground Round'
     homepage 'http://www.dafont.com/ground-round.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ground_round.ttf'
 end

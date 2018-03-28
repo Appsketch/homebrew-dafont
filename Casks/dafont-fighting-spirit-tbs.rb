@@ -5,7 +5,6 @@ cask 'dafont-fighting-spirit-tbs' do
     url 'http://dl.dafont.com/dl/?f=fighting_spirit_tbs'
     name 'Fighting Spirit'
     homepage 'http://www.dafont.com/fighting-spirit-tbs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fighting Spirit 2 bold.ttf'
     font 'Fighting Spirit 2 ital.ttf'

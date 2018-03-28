@@ -5,7 +5,6 @@ cask 'dafont-big-bottom-cartoon' do
     url 'http://dl.dafont.com/dl/?f=big_bottom_cartoon'
     name 'Big Bottom Cartoon'
     homepage 'http://www.dafont.com/big-bottom-cartoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Big_Bottom_Typeface_Normal.ttf'
 end

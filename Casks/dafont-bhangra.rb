@@ -5,7 +5,6 @@ cask 'dafont-bhangra' do
     url 'http://dl.dafont.com/dl/?f=bhangra'
     name 'Bhangra'
     homepage 'http://www.dafont.com/bhangra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bhangra typeface.ttf'
 end

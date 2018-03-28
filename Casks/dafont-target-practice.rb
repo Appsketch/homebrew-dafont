@@ -5,7 +5,6 @@ cask 'dafont-target-practice' do
     url 'http://dl.dafont.com/dl/?f=target_practice'
     name 'Target Practice'
     homepage 'http://www.dafont.com/target-practice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TARGET.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dream-orphanage' do
     url 'http://dl.dafont.com/dl/?f=dream_orphanage'
     name 'Dream Orphanage'
     homepage 'http://www.dafont.com/dream-orphanage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dream orphanage rg.ttf'
 end

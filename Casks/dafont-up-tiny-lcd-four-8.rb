@@ -5,7 +5,6 @@ cask 'dafont-up-tiny-lcd-four-8' do
     url 'http://dl.dafont.com/dl/?f=up_tiny_lcd_four_8'
     name 'UP Tiny LCD Four 8'
     homepage 'http://www.dafont.com/up-tiny-lcd-four-8.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UP Tiny lcd four decoC light.ttf'
     font 'UP Tiny lcd four decoC.ttf'

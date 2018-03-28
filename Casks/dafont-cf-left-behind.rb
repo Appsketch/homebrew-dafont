@@ -5,7 +5,6 @@ cask 'dafont-cf-left-behind' do
     url 'http://dl.dafont.com/dl/?f=cf_left_behind'
     name 'CF Left Behind'
     homepage 'http://www.dafont.com/cf-left-behind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFLeftBehind-Regular.ttf'
 end

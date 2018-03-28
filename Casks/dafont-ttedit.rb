@@ -5,7 +5,6 @@ cask 'dafont-ttedit' do
     url 'http://dl.dafont.com/dl/?f=ttedit'
     name 'TTEdit'
     homepage 'http://www.dafont.com/ttedit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pi_Do-butsu.TTF'
 end

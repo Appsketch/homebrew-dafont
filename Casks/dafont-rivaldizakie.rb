@@ -5,7 +5,6 @@ cask 'dafont-rivaldizakie' do
     url 'http://dl.dafont.com/dl/?f=rivaldizakie'
     name 'Rivaldizakie'
     homepage 'http://www.dafont.com/rivaldizakie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rivaldizakie Outline Shadow.ttf'
     font 'Rivaldizakie.ttf'

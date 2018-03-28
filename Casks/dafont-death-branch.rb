@@ -5,7 +5,6 @@ cask 'dafont-death-branch' do
     url 'http://dl.dafont.com/dl/?f=death_branch'
     name 'Death Branch'
     homepage 'http://www.dafont.com/death-branch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Death Branch.ttf'
 end

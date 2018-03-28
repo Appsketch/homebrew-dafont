@@ -5,7 +5,6 @@ cask 'dafont-derivat' do
     url 'http://dl.dafont.com/dl/?f=derivat'
     name 'Derivat'
     homepage 'http://www.dafont.com/derivat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Derivat-No1.otf'
     font 'Derivat-No2.otf'

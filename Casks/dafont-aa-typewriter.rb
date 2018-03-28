@@ -5,7 +5,6 @@ cask 'dafont-aa-typewriter' do
     url 'http://dl.dafont.com/dl/?f=aa_typewriter'
     name 'AA Typewriter'
     homepage 'http://www.dafont.com/aa-typewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AA_typewriter.ttf'
 end

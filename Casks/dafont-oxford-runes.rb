@@ -5,7 +5,6 @@ cask 'dafont-oxford-runes' do
     url 'http://dl.dafont.com/dl/?f=oxford_runes'
     name 'Oxford Runes'
     homepage 'http://www.dafont.com/oxford-runes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OXFOR___.TTF'
 end

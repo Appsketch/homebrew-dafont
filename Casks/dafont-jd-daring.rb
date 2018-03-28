@@ -5,7 +5,6 @@ cask 'dafont-jd-daring' do
     url 'http://dl.dafont.com/dl/?f=jd_daring'
     name 'JD Daring'
     homepage 'http://www.dafont.com/jd-daring.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_daring.ttf'
 end

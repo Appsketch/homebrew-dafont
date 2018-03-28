@@ -5,7 +5,6 @@ cask 'dafont-billie-bob' do
     url 'http://dl.dafont.com/dl/?f=billie_bob'
     name 'Billie Bob'
     homepage 'http://www.dafont.com/billie-bob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BBOBTRIAL.otf'
     font 'BBOBTRIAL.ttf'

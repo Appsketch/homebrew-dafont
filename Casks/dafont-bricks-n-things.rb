@@ -5,7 +5,6 @@ cask 'dafont-bricks-n-things' do
     url 'http://dl.dafont.com/dl/?f=bricks_n_things'
     name 'Bricks n Things'
     homepage 'http://www.dafont.com/bricks-n-things.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bricksnthings.ttf'
 end

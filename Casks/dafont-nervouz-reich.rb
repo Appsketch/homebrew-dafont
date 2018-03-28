@@ -5,7 +5,6 @@ cask 'dafont-nervouz-reich' do
     url 'http://dl.dafont.com/dl/?f=nervouz_reich'
     name 'Nervouz Reich'
     homepage 'http://www.dafont.com/nervouz-reich.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nervouzr.ttf'
 end

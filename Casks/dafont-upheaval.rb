@@ -5,7 +5,6 @@ cask 'dafont-upheaval' do
     url 'http://dl.dafont.com/dl/?f=upheaval'
     name 'Upheaval'
     homepage 'http://www.dafont.com/upheaval.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'upheavtt.ttf'
 end

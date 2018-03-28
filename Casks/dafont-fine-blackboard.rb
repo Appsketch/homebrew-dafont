@@ -5,7 +5,6 @@ cask 'dafont-fine-blackboard' do
     url 'http://dl.dafont.com/dl/?f=fine_blackboard'
     name 'Fine Blackboard'
     homepage 'http://www.dafont.com/fine-blackboard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fine Blackboard.ttf'
 end

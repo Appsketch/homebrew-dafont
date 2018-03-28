@@ -5,7 +5,6 @@ cask 'dafont-andina' do
     url 'http://dl.dafont.com/dl/?f=andina'
     name 'Andina'
     homepage 'http://www.dafont.com/andina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'andina.ttf'
 end

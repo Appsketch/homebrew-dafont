@@ -5,7 +5,6 @@ cask 'dafont-firstavenue' do
     url 'http://dl.dafont.com/dl/?f=firstavenue'
     name 'First Avenue'
     homepage 'http://www.dafont.com/firstavenue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FirstAvenue.ttf'
 end

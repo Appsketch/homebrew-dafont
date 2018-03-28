@@ -5,7 +5,6 @@ cask 'dafont-reggae-greatest' do
     url 'http://dl.dafont.com/dl/?f=reggae_greatest'
     name 'Reggae Greatest'
     homepage 'http://www.dafont.com/reggae-greatest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reggae Greatests.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cap-construct' do
     url 'http://dl.dafont.com/dl/?f=cap_construct'
     name 'Cap Construct'
     homepage 'http://www.dafont.com/cap-construct.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Capconst.ttf'
 end

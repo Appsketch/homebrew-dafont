@@ -5,7 +5,6 @@ cask 'dafont-moan-lisa' do
     url 'http://dl.dafont.com/dl/?f=moan_lisa'
     name 'Moan Lisa'
     homepage 'http://www.dafont.com/moan-lisa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MLISATRIAL.ttf'
 end

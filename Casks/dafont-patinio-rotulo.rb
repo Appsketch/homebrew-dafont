@@ -5,7 +5,6 @@ cask 'dafont-patinio-rotulo' do
     url 'http://dl.dafont.com/dl/?f=patinio_rotulo'
     name 'Patinio Rotulo'
     homepage 'http://www.dafont.com/patinio-rotulo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Patinio Rotulo.ttf'
 end

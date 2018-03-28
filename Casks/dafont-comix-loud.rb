@@ -5,7 +5,6 @@ cask 'dafont-comix-loud' do
     url 'http://dl.dafont.com/dl/?f=comix_loud'
     name 'Comix Loud'
     homepage 'http://www.dafont.com/comix-loud.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comix Loud.ttf'
 end

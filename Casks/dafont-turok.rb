@@ -5,7 +5,6 @@ cask 'dafont-turok' do
     url 'http://dl.dafont.com/dl/?f=turok'
     name 'Turok'
     homepage 'http://www.dafont.com/turok.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Turok Italic.otf'
     font 'Turok.otf'

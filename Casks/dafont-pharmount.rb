@@ -5,7 +5,6 @@ cask 'dafont-pharmount' do
     url 'http://dl.dafont.com/dl/?f=pharmount'
     name 'Pharmount'
     homepage 'http://www.dafont.com/pharmount.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pharmount_PersonalUseOnly.ttf'
 end

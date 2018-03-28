@@ -5,7 +5,6 @@ cask 'dafont-pwscriptease' do
     url 'http://dl.dafont.com/dl/?f=pwscriptease'
     name 'PW Script Ease'
     homepage 'http://www.dafont.com/pwscriptease.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWScriptease.ttf'
 end

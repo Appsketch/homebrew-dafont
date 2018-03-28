@@ -5,7 +5,6 @@ cask 'dafont-under-stand' do
     url 'http://dl.dafont.com/dl/?f=under_stand'
     name 'Under Stand'
     homepage 'http://www.dafont.com/under-stand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UNDER STAND.ttf'
 end

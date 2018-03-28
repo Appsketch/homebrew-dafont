@@ -5,7 +5,6 @@ cask 'dafont-the-kids-mraker' do
     url 'http://dl.dafont.com/dl/?f=the_kids_mraker'
     name 'The Kids Mraker'
     homepage 'http://www.dafont.com/the-kids-mraker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Kids Mraker.ttf'
 end

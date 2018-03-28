@@ -5,7 +5,6 @@ cask 'dafont-ripper' do
     url 'http://dl.dafont.com/dl/?f=ripper'
     name 'Ripper'
     homepage 'http://www.dafont.com/ripper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ripper.ttf'
 end

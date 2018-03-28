@@ -5,7 +5,6 @@ cask 'dafont-bipolar-braden' do
     url 'http://dl.dafont.com/dl/?f=bipolar_braden'
     name 'Bipolar Braden'
     homepage 'http://www.dafont.com/bipolar-braden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bipolar-Braden.ttf'
 end

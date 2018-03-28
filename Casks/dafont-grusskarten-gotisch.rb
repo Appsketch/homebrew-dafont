@@ -5,7 +5,6 @@ cask 'dafont-grusskarten-gotisch' do
     url 'http://dl.dafont.com/dl/?f=grusskarten_gotisch'
     name 'Grusskarten Gotisch'
     homepage 'http://www.dafont.com/grusskarten-gotisch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrusskartenGotisch.ttf'
 end

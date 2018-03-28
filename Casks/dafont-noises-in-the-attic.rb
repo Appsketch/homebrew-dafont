@@ -5,7 +5,6 @@ cask 'dafont-noises-in-the-attic' do
     url 'http://dl.dafont.com/dl/?f=noises_in_the_attic'
     name 'Noises in the Attic'
     homepage 'http://www.dafont.com/noises-in-the-attic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NoisesintheAtticDEMO-KCFonts.ttf'
 end

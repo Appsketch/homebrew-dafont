@@ -5,7 +5,6 @@ cask 'dafont-vtc-komika-head-liner' do
     url 'http://dl.dafont.com/dl/?f=vtc_komika_head_liner'
     name 'VTC Komika Head Liner'
     homepage 'http://www.dafont.com/vtc-komika-head-liner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC-KomikaHeadLinerChewdFat.ttf'
     font 'VTC-KomikaHeadLinerChewdUp.ttf'

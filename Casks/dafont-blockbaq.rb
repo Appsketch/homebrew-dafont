@@ -5,7 +5,6 @@ cask 'dafont-blockbaq' do
     url 'http://dl.dafont.com/dl/?f=blockbaq'
     name 'Blockbaq'
     homepage 'http://www.dafont.com/blockbaq.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blockbaq 2.ttf'
     font 'Blockbaq.ttf'

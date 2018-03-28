@@ -5,7 +5,6 @@ cask 'dafont-ride-the-lightning' do
     url 'http://dl.dafont.com/dl/?f=ride_the_lightning'
     name 'Ride the Lightning'
     homepage 'http://www.dafont.com/ride-the-lightning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ride the lightning.ttf'
 end

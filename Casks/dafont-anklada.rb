@@ -5,7 +5,6 @@ cask 'dafont-anklada' do
     url 'http://dl.dafont.com/dl/?f=anklada'
     name 'Anklada'
     homepage 'http://www.dafont.com/anklada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anklada Novaz regular.ttf'
     font 'Anklada_99.ttf'

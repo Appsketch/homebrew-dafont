@@ -5,7 +5,6 @@ cask 'dafont-neo-writer' do
     url 'http://dl.dafont.com/dl/?f=neo_writer'
     name 'Neo-Writer'
     homepage 'http://www.dafont.com/neo-writer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neo-Writer.ttf'
 end

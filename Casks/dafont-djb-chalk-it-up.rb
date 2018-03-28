@@ -5,7 +5,6 @@ cask 'dafont-djb-chalk-it-up' do
     url 'http://dl.dafont.com/dl/?f=djb_chalk_it_up'
     name 'DJB Chalk It Up'
     homepage 'http://www.dafont.com/djb-chalk-it-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Chalk It Up.ttf'
 end

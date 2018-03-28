@@ -5,7 +5,6 @@ cask 'dafont-anjasmoro' do
     url 'http://dl.dafont.com/dl/?f=anjasmoro'
     name 'Anjasmoro'
     homepage 'http://www.dafont.com/anjasmoro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anjasmoro.ttf'
 end

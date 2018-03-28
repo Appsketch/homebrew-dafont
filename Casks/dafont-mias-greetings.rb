@@ -5,7 +5,6 @@ cask 'dafont-mias-greetings' do
     url 'http://dl.dafont.com/dl/?f=mias_greetings'
     name 'Mia&#039;s Greetings'
     homepage 'http://www.dafont.com/mias-greetings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mias_greetings.ttf'
 end

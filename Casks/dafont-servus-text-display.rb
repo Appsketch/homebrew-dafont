@@ -5,7 +5,6 @@ cask 'dafont-servus-text-display' do
     url 'http://dl.dafont.com/dl/?f=servus_text_display'
     name 'Servus Text Display'
     homepage 'http://www.dafont.com/servus-text-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Servus_text_display_italic.ttf'
     font 'Servus_text_display.otf'

@@ -5,7 +5,6 @@ cask 'dafont-lydeke-handwrithing' do
     url 'http://dl.dafont.com/dl/?f=lydeke_handwrithing'
     name 'Lydeke Handwrithing'
     homepage 'http://www.dafont.com/lydeke-handwrithing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lydeke_Handwrithing.ttf'
 end

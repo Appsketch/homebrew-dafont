@@ -5,7 +5,6 @@ cask 'dafont-cibreo' do
     url 'http://dl.dafont.com/dl/?f=cibreo'
     name 'Cibreo'
     homepage 'http://www.dafont.com/cibreo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cibreo_.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-winning' do
     url 'http://dl.dafont.com/dl/?f=winning'
     name 'Winning'
     homepage 'http://www.dafont.com/winning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Winning.ttf'
 end

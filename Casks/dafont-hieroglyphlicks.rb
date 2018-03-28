@@ -5,7 +5,6 @@ cask 'dafont-hieroglyphlicks' do
     url 'http://dl.dafont.com/dl/?f=hieroglyphlicks'
     name 'Hieroglyph Licks'
     homepage 'http://www.dafont.com/hieroglyphlicks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HieroglyphLicks.ttf'
 end

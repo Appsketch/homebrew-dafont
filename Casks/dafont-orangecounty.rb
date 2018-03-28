@@ -5,7 +5,6 @@ cask 'dafont-orangecounty' do
     url 'http://dl.dafont.com/dl/?f=orangecounty'
     name 'Orange County'
     homepage 'http://www.dafont.com/orangecounty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OrangeCounty.ttf'
 end

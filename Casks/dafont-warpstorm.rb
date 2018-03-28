@@ -5,7 +5,6 @@ cask 'dafont-warpstorm' do
     url 'http://dl.dafont.com/dl/?f=warpstorm'
     name 'WarpStorm'
     homepage 'http://www.dafont.com/warpstorm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WarpStorm.otf'
 end

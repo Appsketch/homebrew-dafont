@@ -5,7 +5,6 @@ cask 'dafont-alarm-clock' do
     url 'http://dl.dafont.com/dl/?f=alarm_clock'
     name 'Alarm Clock'
     homepage 'http://www.dafont.com/alarm-clock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alarm clock.ttf'
 end

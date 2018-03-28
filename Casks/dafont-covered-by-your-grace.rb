@@ -5,7 +5,6 @@ cask 'dafont-covered-by-your-grace' do
     url 'http://dl.dafont.com/dl/?f=covered_by_your_grace'
     name 'Covered By Your Grace'
     homepage 'http://www.dafont.com/covered-by-your-grace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CoveredByYourGrace.ttf'
 end

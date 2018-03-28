@@ -5,7 +5,6 @@ cask 'dafont-circa' do
     url 'http://dl.dafont.com/dl/?f=circa'
     name 'Circa'
     homepage 'http://www.dafont.com/circa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mar_circa.ttf'
 end

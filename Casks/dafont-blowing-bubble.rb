@@ -5,7 +5,6 @@ cask 'dafont-blowing-bubble' do
     url 'http://dl.dafont.com/dl/?f=blowing_bubble'
     name 'Blowing Bubble'
     homepage 'http://www.dafont.com/blowing-bubble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blowing Bubble.ttf'
 end

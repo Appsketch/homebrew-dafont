@@ -5,7 +5,6 @@ cask 'dafont-lms-pokemon-master' do
     url 'http://dl.dafont.com/dl/?f=lms_pokemon_master'
     name 'LMS Pokemon Master'
     homepage 'http://www.dafont.com/lms-pokemon-master.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LMS Pokemon Master DingBat.ttf'
     font 'LMS Pokemon Master Outline.ttf'

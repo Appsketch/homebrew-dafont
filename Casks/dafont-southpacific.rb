@@ -5,7 +5,6 @@ cask 'dafont-southpacific' do
     url 'http://dl.dafont.com/dl/?f=southpacific'
     name 'South Pacific'
     homepage 'http://www.dafont.com/southpacific.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SouthPacific.ttf'
 end

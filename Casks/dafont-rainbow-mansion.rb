@@ -5,7 +5,6 @@ cask 'dafont-rainbow-mansion' do
     url 'http://dl.dafont.com/dl/?f=rainbow_mansion'
     name 'Rainbow Mansion'
     homepage 'http://www.dafont.com/rainbow-mansion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RainbowMansion-lf.ttf'
     font 'RainbowMansion-osf.ttf'

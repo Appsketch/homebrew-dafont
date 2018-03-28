@@ -5,7 +5,6 @@ cask 'dafont-brian-powers-doodle' do
     url 'http://dl.dafont.com/dl/?f=brian_powers_doodle'
     name 'Brian powers Doodle'
     homepage 'http://www.dafont.com/brian-powers-doodle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRIAPDN0.TTF'
 end

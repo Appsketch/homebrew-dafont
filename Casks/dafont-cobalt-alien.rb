@@ -5,7 +5,6 @@ cask 'dafont-cobalt-alien' do
     url 'http://dl.dafont.com/dl/?f=cobalt_alien'
     name 'Cobalt Alien'
     homepage 'http://www.dafont.com/cobalt-alien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cobaltalien.ttf'
     font 'cobaltalien3d.ttf'

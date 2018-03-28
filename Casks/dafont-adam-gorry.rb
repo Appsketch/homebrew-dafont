@@ -5,7 +5,6 @@ cask 'dafont-adam-gorry' do
     url 'http://dl.dafont.com/dl/?f=adam_gorry'
     name 'Adam Gorry'
     homepage 'http://www.dafont.com/adam-gorry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'adam_gorry_inline.otf'
     font 'adam_gorry_lights.otf'

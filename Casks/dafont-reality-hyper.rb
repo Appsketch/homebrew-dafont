@@ -5,7 +5,6 @@ cask 'dafont-reality-hyper' do
     url 'http://dl.dafont.com/dl/?f=reality_hyper'
     name 'Reality Hyper'
     homepage 'http://www.dafont.com/reality-hyper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reality Hyper Regular.ttf'
 end

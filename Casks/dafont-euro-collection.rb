@@ -5,7 +5,6 @@ cask 'dafont-euro-collection' do
     url 'http://dl.dafont.com/dl/?f=euro_collection'
     name 'Euro Collection'
     homepage 'http://www.dafont.com/euro-collection.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eurocl15.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-opiatedvalues' do
     url 'http://dl.dafont.com/dl/?f=opiatedvalues'
     name 'Opiated Values'
     homepage 'http://www.dafont.com/opiatedvalues.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OpiatedValues.ttf'
 end

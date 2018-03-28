@@ -5,7 +5,6 @@ cask 'dafont-regular-font' do
     url 'http://dl.dafont.com/dl/?f=regular_font'
     name 'Regular Font'
     homepage 'http://www.dafont.com/regular-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Regular Font 2.otf'
 end

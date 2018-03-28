@@ -5,7 +5,6 @@ cask 'dafont-jugulart' do
     url 'http://dl.dafont.com/dl/?f=jugulart'
     name 'JuGulart'
     homepage 'http://www.dafont.com/jugulart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JuGulart.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dubtone' do
     url 'http://dl.dafont.com/dl/?f=dubtone'
     name 'DubTone'
     homepage 'http://www.dafont.com/dubtone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DubTone.ttf'
 end

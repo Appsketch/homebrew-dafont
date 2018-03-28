@@ -5,7 +5,6 @@ cask 'dafont-rebornx' do
     url 'http://dl.dafont.com/dl/?f=rebornx'
     name 'RebornX'
     homepage 'http://www.dafont.com/rebornx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RebornX.ttf'
 end

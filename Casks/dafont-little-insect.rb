@@ -5,7 +5,6 @@ cask 'dafont-little-insect' do
     url 'http://dl.dafont.com/dl/?f=little_insect'
     name 'Little Insect from another planet'
     homepage 'http://www.dafont.com/little-insect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'littleinsect.ttf'
 end

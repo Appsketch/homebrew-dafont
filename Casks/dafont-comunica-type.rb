@@ -5,7 +5,6 @@ cask 'dafont-comunica-type' do
     url 'http://dl.dafont.com/dl/?f=comunica_type'
     name 'Comunica Type'
     homepage 'http://www.dafont.com/comunica-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COMUNICA_TYPE.ttf'
 end

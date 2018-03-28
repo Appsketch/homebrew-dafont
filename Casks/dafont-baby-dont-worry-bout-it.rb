@@ -5,7 +5,6 @@ cask 'dafont-baby-dont-worry-bout-it' do
     url 'http://dl.dafont.com/dl/?f=baby_dont_worry_bout_it'
     name 'Baby dont worry bout it!'
     homepage 'http://www.dafont.com/baby-dont-worry-bout-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'baby dont worry bout it.ttf'
 end

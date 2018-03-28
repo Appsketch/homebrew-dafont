@@ -5,7 +5,6 @@ cask 'dafont-changeofheart' do
     url 'http://dl.dafont.com/dl/?f=changeofheart'
     name 'Change Of Heart'
     homepage 'http://www.dafont.com/changeofheart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChangeOfHeart.ttf'
 end

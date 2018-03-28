@@ -5,7 +5,6 @@ cask 'dafont-sybil-green' do
     url 'http://dl.dafont.com/dl/?f=sybil_green'
     name 'Sybil Green'
     homepage 'http://www.dafont.com/sybil-green.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sybil green.ttf'
 end

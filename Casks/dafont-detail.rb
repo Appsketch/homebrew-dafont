@@ -5,7 +5,6 @@ cask 'dafont-detail' do
     url 'http://dl.dafont.com/dl/?f=detail'
     name 'Detail'
     homepage 'http://www.dafont.com/detail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DetailBETA-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-earwig-factory' do
     url 'http://dl.dafont.com/dl/?f=earwig_factory'
     name 'Earwig Factory'
     homepage 'http://www.dafont.com/earwig-factory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'earwig factory rg.ttf'
 end

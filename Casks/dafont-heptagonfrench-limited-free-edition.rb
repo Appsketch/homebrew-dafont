@@ -5,7 +5,6 @@ cask 'dafont-heptagonfrench-limited-free-edition' do
     url 'http://dl.dafont.com/dl/?f=heptagonfrench_limited_free_edition'
     name 'Heptagon French Limited Free Edition'
     homepage 'http://www.dafont.com/heptagonfrench-limited-free-edition.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeptagonFrench Limited Free Edition.ttf'
 end

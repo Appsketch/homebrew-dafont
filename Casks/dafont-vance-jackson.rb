@@ -5,7 +5,6 @@ cask 'dafont-vance-jackson' do
     url 'http://dl.dafont.com/dl/?f=vance_jackson'
     name 'Vance Jackson'
     homepage 'http://www.dafont.com/vance-jackson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VanceJackson-Regular.ttf'
 end

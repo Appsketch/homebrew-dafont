@@ -5,7 +5,6 @@ cask 'dafont-simpsons-mmmm-font' do
     url 'http://dl.dafont.com/dl/?f=simpsons_mmmm_font'
     name 'Simpsons Mmmm...Font'
     homepage 'http://www.dafont.com/simpsons-mmmm-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SIMPSONS.TTF'
 end

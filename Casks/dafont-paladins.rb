@@ -5,7 +5,6 @@ cask 'dafont-paladins' do
     url 'http://dl.dafont.com/dl/?f=paladins'
     name 'Paladins'
     homepage 'http://www.dafont.com/paladins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'paladins.ttf'
     font 'paladins3d.ttf'

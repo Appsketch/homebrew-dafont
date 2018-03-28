@@ -5,7 +5,6 @@ cask 'dafont-wintercrops' do
     url 'http://dl.dafont.com/dl/?f=wintercrops'
     name 'Winter Crops'
     homepage 'http://www.dafont.com/wintercrops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WinterCrops.ttf'
 end

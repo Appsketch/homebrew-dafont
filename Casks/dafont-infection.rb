@@ -5,7 +5,6 @@ cask 'dafont-infection' do
     url 'http://dl.dafont.com/dl/?f=infection'
     name 'Infection'
     homepage 'http://www.dafont.com/infection.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Infection.ttf'
 end

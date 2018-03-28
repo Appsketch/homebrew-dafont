@@ -5,7 +5,6 @@ cask 'dafont-fear' do
     url 'http://dl.dafont.com/dl/?f=fear'
     name 'Fear'
     homepage 'http://www.dafont.com/fear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fear.ttf'
 end

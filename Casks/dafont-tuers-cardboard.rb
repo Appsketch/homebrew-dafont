@@ -5,7 +5,6 @@ cask 'dafont-tuers-cardboard' do
     url 'http://dl.dafont.com/dl/?f=tuers_cardboard'
     name 'Tuer&#039;s Cardboard'
     homepage 'http://www.dafont.com/tuers-cardboard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tuers Cardboard.ttf'
 end

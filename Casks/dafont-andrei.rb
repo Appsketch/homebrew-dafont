@@ -5,7 +5,6 @@ cask 'dafont-andrei' do
     url 'http://dl.dafont.com/dl/?f=andrei'
     name 'Andrei'
     homepage 'http://www.dafont.com/andrei.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Andrei_Pro_by_KreativFont.com.ttf'
 end

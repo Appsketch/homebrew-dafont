@@ -5,7 +5,6 @@ cask 'dafont-hellafont' do
     url 'http://dl.dafont.com/dl/?f=hellafont'
     name 'hellafont'
     homepage 'http://www.dafont.com/hellafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hellafont.ttf'
 end

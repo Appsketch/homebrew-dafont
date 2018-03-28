@@ -5,7 +5,6 @@ cask 'dafont-jibbajabba' do
     url 'http://dl.dafont.com/dl/?f=jibbajabba'
     name 'Jibbajabba'
     homepage 'http://www.dafont.com/jibbajabba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jibbajabba_bold.otf'
     font 'jibbajabba_bolditalic.otf'

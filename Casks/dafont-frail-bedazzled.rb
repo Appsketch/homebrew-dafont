@@ -5,7 +5,6 @@ cask 'dafont-frail-bedazzled' do
     url 'http://dl.dafont.com/dl/?f=frail_bedazzled'
     name 'Frail &amp; Bedazzled'
     homepage 'http://www.dafont.com/frail-bedazzled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frail&amp;Bedazzled.ttf'
 end

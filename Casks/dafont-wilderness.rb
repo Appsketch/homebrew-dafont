@@ -5,7 +5,6 @@ cask 'dafont-wilderness' do
     url 'http://dl.dafont.com/dl/?f=wilderness'
     name 'Wilderness'
     homepage 'http://www.dafont.com/wilderness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wilderness.ttf'
 end

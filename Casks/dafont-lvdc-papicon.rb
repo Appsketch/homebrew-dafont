@@ -5,7 +5,6 @@ cask 'dafont-lvdc-papicon' do
     url 'http://dl.dafont.com/dl/?f=lvdc_papicon'
     name 'LVDC Papicon'
     homepage 'http://www.dafont.com/lvdc-papicon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Papicon2_w/LVDCP___.TTF'
 end

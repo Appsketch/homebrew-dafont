@@ -5,7 +5,6 @@ cask 'dafont-triumph-rewind' do
     url 'http://dl.dafont.com/dl/?f=triumph_rewind'
     name 'Triumph Rewind'
     homepage 'http://www.dafont.com/triumph-rewind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRIUM___.ttf'
 end

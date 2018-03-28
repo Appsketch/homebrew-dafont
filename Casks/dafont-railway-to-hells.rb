@@ -5,7 +5,6 @@ cask 'dafont-railway-to-hells' do
     url 'http://dl.dafont.com/dl/?f=railway_to_hells'
     name 'Railway To Hells'
     homepage 'http://www.dafont.com/railway-to-hells.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Railway to Hells.ttf'
 end

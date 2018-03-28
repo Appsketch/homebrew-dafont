@@ -5,7 +5,6 @@ cask 'dafont-snoot-org-px10' do
     url 'http://dl.dafont.com/dl/?f=snoot_org_px10'
     name 'Snoot.org px10'
     homepage 'http://www.dafont.com/snoot-org-px10.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'px10.ttf'
 end

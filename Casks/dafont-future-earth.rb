@@ -5,7 +5,6 @@ cask 'dafont-future-earth' do
     url 'http://dl.dafont.com/dl/?f=future_earth'
     name 'Future Earth'
     homepage 'http://www.dafont.com/future-earth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Future-Earth.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-justicewanted' do
     url 'http://dl.dafont.com/dl/?f=justicewanted'
     name 'Justice Wanted'
     homepage 'http://www.dafont.com/justicewanted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JusticeWanted.ttf'
 end

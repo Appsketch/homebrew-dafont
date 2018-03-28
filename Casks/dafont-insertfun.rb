@@ -5,7 +5,6 @@ cask 'dafont-insertfun' do
     url 'http://dl.dafont.com/dl/?f=insertfun'
     name 'Insert Fun'
     homepage 'http://www.dafont.com/insertfun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InsertFun.ttf'
 end

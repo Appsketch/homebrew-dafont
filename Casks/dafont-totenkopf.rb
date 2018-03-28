@@ -5,7 +5,6 @@ cask 'dafont-totenkopf' do
     url 'http://dl.dafont.com/dl/?f=totenkopf'
     name 'TotenKopf'
     homepage 'http://www.dafont.com/totenkopf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TotenKopf v2.0.ttf'
 end

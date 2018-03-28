@@ -5,7 +5,6 @@ cask 'dafont-stormtime' do
     url 'http://dl.dafont.com/dl/?f=stormtime'
     name 'Stormtime'
     homepage 'http://www.dafont.com/stormtime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stormtime.ttf'
 end

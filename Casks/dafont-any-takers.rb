@@ -5,7 +5,6 @@ cask 'dafont-any-takers' do
     url 'http://dl.dafont.com/dl/?f=any_takers'
     name 'Any Takers'
     homepage 'http://www.dafont.com/any-takers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnyTakers-Regular.ttf'
 end

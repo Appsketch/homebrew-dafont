@@ -5,7 +5,6 @@ cask 'dafont-kuwa-ronmcie-q' do
     url 'http://dl.dafont.com/dl/?f=kuwa_ronmcie_q'
     name 'Kuwa Ronmcie Q'
     homepage 'http://www.dafont.com/kuwa-ronmcie-q.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kuwa ronmcie q.ttf'
 end

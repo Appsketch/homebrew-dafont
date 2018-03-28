@@ -5,7 +5,6 @@ cask 'dafont-sang-fatchurrohmah' do
     url 'http://dl.dafont.com/dl/?f=sang_fatchurrohmah'
     name 'Sang Fatchurrohmah'
     homepage 'http://www.dafont.com/sang-fatchurrohmah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fatchu.ttf'
 end

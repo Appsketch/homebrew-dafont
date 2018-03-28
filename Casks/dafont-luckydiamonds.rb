@@ -5,7 +5,6 @@ cask 'dafont-luckydiamonds' do
     url 'http://dl.dafont.com/dl/?f=luckydiamonds'
     name 'Lucky Diamonds'
     homepage 'http://www.dafont.com/luckydiamonds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LuckyDiamonds.ttf'
 end

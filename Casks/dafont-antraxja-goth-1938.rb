@@ -5,7 +5,6 @@ cask 'dafont-antraxja-goth-1938' do
     url 'http://dl.dafont.com/dl/?f=antraxja_goth_1938'
     name 'Antraxja Goth 1938'
     homepage 'http://www.dafont.com/antraxja-goth-1938.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gothica class 2.ttf'
 end

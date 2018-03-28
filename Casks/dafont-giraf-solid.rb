@@ -5,7 +5,6 @@ cask 'dafont-giraf-solid' do
     url 'http://dl.dafont.com/dl/?f=giraf_solid'
     name 'Giraf Solid'
     homepage 'http://www.dafont.com/giraf-solid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'giraf_solid.ttf'
 end

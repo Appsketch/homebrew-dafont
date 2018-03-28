@@ -5,7 +5,6 @@ cask 'dafont-scriptina' do
     url 'http://dl.dafont.com/dl/?f=scriptina'
     name 'Scriptina'
     homepage 'http://www.dafont.com/scriptina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCRIPTIN.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-briasco-rustic' do
     url 'http://dl.dafont.com/dl/?f=briasco_rustic'
     name 'Briasco Rustic'
     homepage 'http://www.dafont.com/briasco-rustic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Briasco Rustic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rifredi-rude-boy' do
     url 'http://dl.dafont.com/dl/?f=rifredi_rude_boy'
     name 'Rifredi Rude Boy'
     homepage 'http://www.dafont.com/rifredi-rude-boy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rifredi Rude Boy.ttf'
 end

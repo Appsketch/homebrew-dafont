@@ -5,7 +5,6 @@ cask 'dafont-pwapril' do
     url 'http://dl.dafont.com/dl/?f=pwapril'
     name 'PW April'
     homepage 'http://www.dafont.com/pwapril.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWApril.ttf'
 end

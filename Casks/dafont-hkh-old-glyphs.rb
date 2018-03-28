@@ -5,7 +5,6 @@ cask 'dafont-hkh-old-glyphs' do
     url 'http://dl.dafont.com/dl/?f=hkh_old_glyphs'
     name 'HKH Old Glyphs'
     homepage 'http://www.dafont.com/hkh-old-glyphs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HKH Old Glyphs short.ttf'
 end

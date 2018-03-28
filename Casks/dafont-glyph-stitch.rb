@@ -5,7 +5,6 @@ cask 'dafont-glyph-stitch' do
     url 'http://dl.dafont.com/dl/?f=glyph_stitch'
     name 'Glyph Stitch'
     homepage 'http://www.dafont.com/glyph-stitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Glyph Stitch.ttf'
 end

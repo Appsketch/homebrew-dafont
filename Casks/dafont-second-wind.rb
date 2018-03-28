@@ -5,7 +5,6 @@ cask 'dafont-second-wind' do
     url 'http://dl.dafont.com/dl/?f=second_wind'
     name 'Second Wind'
     homepage 'http://www.dafont.com/second-wind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SecondWind.ttf'
 end

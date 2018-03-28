@@ -5,7 +5,6 @@ cask 'dafont-vermin-vibes-corrupto' do
     url 'http://dl.dafont.com/dl/?f=vermin_vibes_corrupto'
     name 'Vermin Vibes Corrupto'
     homepage 'http://www.dafont.com/vermin-vibes-corrupto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VVCorrupto.otf'
 end

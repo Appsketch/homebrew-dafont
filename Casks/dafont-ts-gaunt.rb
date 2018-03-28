@@ -5,7 +5,6 @@ cask 'dafont-ts-gaunt' do
     url 'http://dl.dafont.com/dl/?f=ts_gaunt'
     name 'TS Gaunt'
     homepage 'http://www.dafont.com/ts-gaunt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ts_gaunt.ttf'
 end

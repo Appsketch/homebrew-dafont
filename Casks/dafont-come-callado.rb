@@ -5,7 +5,6 @@ cask 'dafont-come-callado' do
     url 'http://dl.dafont.com/dl/?f=come_callado'
     name 'Come Callado'
     homepage 'http://www.dafont.com/come-callado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'come_callado.ttf'
 end

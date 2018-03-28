@@ -5,7 +5,6 @@ cask 'dafont-kg-defying-gravity' do
     url 'http://dl.dafont.com/dl/?f=kg_defying_gravity'
     name 'KG Defying Gravity'
     homepage 'http://www.dafont.com/kg-defying-gravity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGDefyingGravity.ttf'
     font 'KGDefyingGravityBounce.ttf'

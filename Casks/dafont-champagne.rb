@@ -5,7 +5,6 @@ cask 'dafont-champagne' do
     url 'http://dl.dafont.com/dl/?f=champagne'
     name 'Champagne'
     homepage 'http://www.dafont.com/champagne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHAMPGNE.TTF'
 end

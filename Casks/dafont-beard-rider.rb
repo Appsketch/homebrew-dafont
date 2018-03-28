@@ -5,7 +5,6 @@ cask 'dafont-beard-rider' do
     url 'http://dl.dafont.com/dl/?f=beard_rider'
     name 'Beard Rider'
     homepage 'http://www.dafont.com/beard-rider.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beard Rider.ttf'
 end

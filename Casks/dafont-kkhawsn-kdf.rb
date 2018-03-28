@@ -5,7 +5,6 @@ cask 'dafont-kkhawsn-kdf' do
     url 'http://dl.dafont.com/dl/?f=kkhawsn_kdf'
     name 'Kkhawsn Kdf'
     homepage 'http://www.dafont.com/kkhawsn-kdf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kkhawsn.kdf.ttf'
 end

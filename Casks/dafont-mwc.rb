@@ -5,7 +5,6 @@ cask 'dafont-mwc' do
     url 'http://dl.dafont.com/dl/?f=mwc'
     name 'MWC'
     homepage 'http://www.dafont.com/mwc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MWC.ttf'
 end

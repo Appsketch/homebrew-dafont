@@ -5,7 +5,6 @@ cask 'dafont-we-wrestle' do
     url 'http://dl.dafont.com/dl/?f=we_wrestle'
     name 'We Wrestle'
     homepage 'http://www.dafont.com/we-wrestle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WE WRESTLE.ttf'
 end

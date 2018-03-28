@@ -5,7 +5,6 @@ cask 'dafont-this-font-is-not-a-typeface' do
     url 'http://dl.dafont.com/dl/?f=this_font_is_not_a_typeface'
     name 'This font is not a typeface'
     homepage 'http://www.dafont.com/this-font-is-not-a-typeface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'this font is not a typeface.ttf'
 end

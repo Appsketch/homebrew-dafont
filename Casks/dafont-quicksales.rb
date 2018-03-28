@@ -5,7 +5,6 @@ cask 'dafont-quicksales' do
     url 'http://dl.dafont.com/dl/?f=quicksales'
     name 'Quick Sales'
     homepage 'http://www.dafont.com/quicksales.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuickSales.ttf'
 end

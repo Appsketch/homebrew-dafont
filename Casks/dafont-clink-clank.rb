@@ -5,7 +5,6 @@ cask 'dafont-clink-clank' do
     url 'http://dl.dafont.com/dl/?f=clink_clank'
     name 'Clink Clank'
     homepage 'http://www.dafont.com/clink-clank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ClinkClank.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wander' do
     url 'http://dl.dafont.com/dl/?f=wander'
     name 'Wander'
     homepage 'http://www.dafont.com/wander.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wander.ttf'
 end

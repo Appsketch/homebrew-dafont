@@ -5,7 +5,6 @@ cask 'dafont-baby-eskimo-kisses' do
     url 'http://dl.dafont.com/dl/?f=baby_eskimo_kisses'
     name 'Baby Eskimo Kisses'
     homepage 'http://www.dafont.com/baby-eskimo-kisses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baby_Eskimo_Kisses_Black.ttf'
     font 'Baby_Eskimo_Kisses_Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-menee' do
     url 'http://dl.dafont.com/dl/?f=menee'
     name 'Menee'
     homepage 'http://www.dafont.com/menee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Menee.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-army-rangers' do
     url 'http://dl.dafont.com/dl/?f=army_rangers'
     name 'Army Rangers'
     homepage 'http://www.dafont.com/army-rangers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'armyrangers.ttf'
     font 'armyrangers3d.ttf'

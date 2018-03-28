@@ -5,7 +5,6 @@ cask 'dafont-dcc-sharp-distress-black' do
     url 'http://dl.dafont.com/dl/?f=dcc_sharp_distress_black'
     name 'DCC Sharp Distress Black'
     homepage 'http://www.dafont.com/dcc-sharp-distress-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dcc_sharp_distress_black_by_dccanim.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mad-somnambulist' do
     url 'http://dl.dafont.com/dl/?f=mad_somnambulist'
     name 'Mad Somnambulist'
     homepage 'http://www.dafont.com/mad-somnambulist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'caligari.ttf'
 end

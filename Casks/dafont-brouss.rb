@@ -5,7 +5,6 @@ cask 'dafont-brouss' do
     url 'http://dl.dafont.com/dl/?f=brouss'
     name 'Brouss'
     homepage 'http://www.dafont.com/brouss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brouss.ttf'
 end

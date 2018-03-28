@@ -5,7 +5,6 @@ cask 'dafont-oily' do
     url 'http://dl.dafont.com/dl/?f=oily'
     name 'Oily'
     homepage 'http://www.dafont.com/oily.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oily.otf'
 end

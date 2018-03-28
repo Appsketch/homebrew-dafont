@@ -5,7 +5,6 @@ cask 'dafont-mr-ortiz' do
     url 'http://dl.dafont.com/dl/?f=mr_ortiz'
     name 'Mr. Ortiz'
     homepage 'http://www.dafont.com/mr-ortiz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dyslexic_English_Teacher_s_Handwriting.ttf'
 end

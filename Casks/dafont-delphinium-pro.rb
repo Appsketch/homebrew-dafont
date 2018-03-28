@@ -5,7 +5,6 @@ cask 'dafont-delphinium-pro' do
     url 'http://dl.dafont.com/dl/?f=delphinium_pro'
     name 'Delphinium Pro'
     homepage 'http://www.dafont.com/delphinium-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Delphinium Pro.ttf'
 end

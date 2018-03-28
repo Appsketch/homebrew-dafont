@@ -5,7 +5,6 @@ cask 'dafont-mirisch' do
     url 'http://dl.dafont.com/dl/?f=mirisch'
     name 'Mirisch'
     homepage 'http://www.dafont.com/mirisch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MIRISCH.TTF'
 end

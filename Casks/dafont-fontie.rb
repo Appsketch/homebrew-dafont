@@ -5,7 +5,6 @@ cask 'dafont-fontie' do
     url 'http://dl.dafont.com/dl/?f=fontie'
     name 'Fontie'
     homepage 'http://www.dafont.com/fontie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fontie.ttf'
 end

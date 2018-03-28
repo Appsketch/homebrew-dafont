@@ -5,7 +5,6 @@ cask 'dafont-forbuttons' do
     url 'http://dl.dafont.com/dl/?f=forbuttons'
     name 'For Buttons'
     homepage 'http://www.dafont.com/forbuttons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'forbuttons.ttf'
 end

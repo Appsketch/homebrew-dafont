@@ -5,7 +5,6 @@ cask 'dafont-tgl-31034' do
     url 'http://dl.dafont.com/dl/?f=tgl_31034'
     name 'TGL 31034'
     homepage 'http://www.dafont.com/tgl-31034.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TGL_31034-1.ttf'
     font 'TGL_31034-2.ttf'

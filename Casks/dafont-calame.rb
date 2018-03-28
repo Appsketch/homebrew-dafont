@@ -5,7 +5,6 @@ cask 'dafont-calame' do
     url 'http://dl.dafont.com/dl/?f=calame'
     name 'Calame'
     homepage 'http://www.dafont.com/calame.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Calame.ttf'
 end

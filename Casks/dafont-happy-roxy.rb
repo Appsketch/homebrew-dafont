@@ -5,7 +5,6 @@ cask 'dafont-happy-roxy' do
     url 'http://dl.dafont.com/dl/?f=happy_roxy'
     name 'Happy Roxy'
     homepage 'http://www.dafont.com/happy-roxy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Happy Roxy.ttf'
 end

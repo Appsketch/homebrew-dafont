@@ -5,7 +5,6 @@ cask 'dafont-before-the-rain' do
     url 'http://dl.dafont.com/dl/?f=before_the_rain'
     name 'Before the Rain'
     homepage 'http://www.dafont.com/before-the-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeforeTheRain_personal_use_demo.ttf'
     font 'BeforeTheRainSwashes_personal_use_demo.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-runes' do
     url 'http://dl.dafont.com/dl/?f=runes'
     name 'Runes'
     homepage 'http://www.dafont.com/runes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Runes.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dec-terminal-modern' do
     url 'http://dl.dafont.com/dl/?f=dec_terminal_modern'
     name 'DEC Terminal Modern'
     homepage 'http://www.dafont.com/dec-terminal-modern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '_decterm.ttf'
 end

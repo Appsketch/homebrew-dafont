@@ -5,7 +5,6 @@ cask 'dafont-dk-canned-whale' do
     url 'http://dl.dafont.com/dl/?f=dk_canned_whale'
     name 'DK Canned Whale'
     homepage 'http://www.dafont.com/dk-canned-whale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Canned Whale.otf'
 end

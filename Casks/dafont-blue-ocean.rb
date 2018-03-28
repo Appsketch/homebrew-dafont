@@ -5,7 +5,6 @@ cask 'dafont-blue-ocean' do
     url 'http://dl.dafont.com/dl/?f=blue_ocean'
     name 'Blue Ocean'
     homepage 'http://www.dafont.com/blue-ocean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blue Ocean.ttf'
 end

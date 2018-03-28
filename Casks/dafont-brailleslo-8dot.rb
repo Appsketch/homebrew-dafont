@@ -5,7 +5,6 @@ cask 'dafont-brailleslo-8dot' do
     url 'http://dl.dafont.com/dl/?f=brailleslo_8dot'
     name 'BrailleSlo 8dot'
     homepage 'http://www.dafont.com/brailleslo-8dot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BrailleSlo 8dot.ttf'
 end

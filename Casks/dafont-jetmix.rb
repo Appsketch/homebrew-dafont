@@ -5,7 +5,6 @@ cask 'dafont-jetmix' do
     url 'http://dl.dafont.com/dl/?f=jetmix'
     name 'Jetmix'
     homepage 'http://www.dafont.com/jetmix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jetmix_v2.ttf'
 end

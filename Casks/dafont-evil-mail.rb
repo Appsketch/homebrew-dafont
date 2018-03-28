@@ -5,7 +5,6 @@ cask 'dafont-evil-mail' do
     url 'http://dl.dafont.com/dl/?f=evil_mail'
     name 'Evil Mail'
     homepage 'http://www.dafont.com/evil-mail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blackm.ttf'
 end

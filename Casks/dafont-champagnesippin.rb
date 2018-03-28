@@ -5,7 +5,6 @@ cask 'dafont-champagnesippin' do
     url 'http://dl.dafont.com/dl/?f=champagnesippin'
     name 'Champagne Sippin'
     homepage 'http://www.dafont.com/champagnesippin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChampagneSippin.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sequence-brk' do
     url 'http://dl.dafont.com/dl/?f=sequence_brk'
     name 'Sequence'
     homepage 'http://www.dafont.com/sequence-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sequence.ttf'
 end

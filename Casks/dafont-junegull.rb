@@ -5,7 +5,6 @@ cask 'dafont-junegull' do
     url 'http://dl.dafont.com/dl/?f=junegull'
     name 'Junegull'
     homepage 'http://www.dafont.com/junegull.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'junegull rg.ttf'
 end

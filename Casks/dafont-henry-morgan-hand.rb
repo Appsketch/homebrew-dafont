@@ -5,7 +5,6 @@ cask 'dafont-henry-morgan-hand' do
     url 'http://dl.dafont.com/dl/?f=henry_morgan_hand'
     name 'Henry Morgan Hand'
     homepage 'http://www.dafont.com/henry-morgan-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HenryMorganHand.ttf'
 end

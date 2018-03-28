@@ -5,7 +5,6 @@ cask 'dafont-bit-cheese10' do
     url 'http://dl.dafont.com/dl/?f=bit_cheese10'
     name 'Bit Cheese 10'
     homepage 'http://www.dafont.com/bit-cheese10.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BitCheese10(sRB).TTF'
 end

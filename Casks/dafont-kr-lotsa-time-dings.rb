@@ -5,7 +5,6 @@ cask 'dafont-kr-lotsa-time-dings' do
     url 'http://dl.dafont.com/dl/?f=kr_lotsa_time_dings'
     name 'KR Lotsa Time Dings'
     homepage 'http://www.dafont.com/kr-lotsa-time-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Lotsa Time Dings.ttf'
 end

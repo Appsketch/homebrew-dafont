@@ -5,7 +5,6 @@ cask 'dafont-rosetta-stone' do
     url 'http://dl.dafont.com/dl/?f=rosetta_stone'
     name 'Rosetta Stone'
     homepage 'http://www.dafont.com/rosetta-stone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROSETTA STONE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-reclame' do
     url 'http://dl.dafont.com/dl/?f=reclame'
     name 'R&eacute;clame'
     homepage 'http://www.dafont.com/reclame.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reclame.ttf'
 end

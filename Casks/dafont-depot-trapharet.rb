@@ -5,7 +5,6 @@ cask 'dafont-depot-trapharet' do
     url 'http://dl.dafont.com/dl/?f=depot_trapharet'
     name 'Depot Trapharet'
     homepage 'http://www.dafont.com/depot-trapharet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DepotTrapharet-Regular.otf'
 end

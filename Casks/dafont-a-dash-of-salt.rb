@@ -5,7 +5,6 @@ cask 'dafont-a-dash-of-salt' do
     url 'http://dl.dafont.com/dl/?f=a_dash_of_salt'
     name 'A Dash of Salt'
     homepage 'http://www.dafont.com/a-dash-of-salt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A Dash of Salt.otf'
 end

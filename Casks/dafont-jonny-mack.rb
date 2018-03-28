@@ -5,7 +5,6 @@ cask 'dafont-jonny-mack' do
     url 'http://dl.dafont.com/dl/?f=jonny_mack'
     name 'Jonny Mack'
     homepage 'http://www.dafont.com/jonny-mack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jonny Mack.ttf'
 end

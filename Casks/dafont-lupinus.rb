@@ -5,7 +5,6 @@ cask 'dafont-lupinus' do
     url 'http://dl.dafont.com/dl/?f=lupinus'
     name 'Lupinus'
     homepage 'http://www.dafont.com/lupinus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lupinus.ttf'
 end

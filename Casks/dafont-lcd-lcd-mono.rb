@@ -5,7 +5,6 @@ cask 'dafont-lcd-lcd-mono' do
     url 'http://dl.dafont.com/dl/?f=lcd_lcd_mono'
     name 'LCD / LCD Mono'
     homepage 'http://www.dafont.com/lcd-lcd-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LCDMonoWinTT/LCDM2B__.TTF'
     font 'LCDMonoWinTT/LCDM2L__.TTF'

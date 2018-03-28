@@ -5,7 +5,6 @@ cask 'dafont-4yeo-summer' do
     url 'http://dl.dafont.com/dl/?f=4yeo_summer'
     name '4YeoSummer'
     homepage 'http://www.dafont.com/4yeo-summer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '4YEOSUMM.TTF'
 end

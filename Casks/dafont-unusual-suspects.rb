@@ -5,7 +5,6 @@ cask 'dafont-unusual-suspects' do
     url 'http://dl.dafont.com/dl/?f=unusual_suspects'
     name 'Unusual Suspects'
     homepage 'http://www.dafont.com/unusual-suspects.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOUSSE.TTF'
 end

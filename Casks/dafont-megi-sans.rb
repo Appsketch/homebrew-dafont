@@ -5,7 +5,6 @@ cask 'dafont-megi-sans' do
     url 'http://dl.dafont.com/dl/?f=megi_sans'
     name 'Megi Sans'
     homepage 'http://www.dafont.com/megi-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Megi Sans_demo.otf'
     font 'Megi Sans_italic_demo.otf'

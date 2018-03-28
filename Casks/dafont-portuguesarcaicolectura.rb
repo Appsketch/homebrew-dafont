@@ -5,7 +5,6 @@ cask 'dafont-portuguesarcaicolectura' do
     url 'http://dl.dafont.com/dl/?f=portuguesarcaicolectura'
     name 'Portugues Arcaico Lectura'
     homepage 'http://www.dafont.com/portuguesarcaicolectura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PortuguesArcaicoLectura.ttf'
 end

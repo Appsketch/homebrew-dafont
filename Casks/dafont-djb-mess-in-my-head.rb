@@ -5,7 +5,6 @@ cask 'dafont-djb-mess-in-my-head' do
     url 'http://dl.dafont.com/dl/?f=djb_mess_in_my_head'
     name 'DJB Mess In My Head'
     homepage 'http://www.dafont.com/djb-mess-in-my-head.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Mess in My Head.ttf'
 end

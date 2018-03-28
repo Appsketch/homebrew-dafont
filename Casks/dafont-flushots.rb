@@ -5,7 +5,6 @@ cask 'dafont-flushots' do
     url 'http://dl.dafont.com/dl/?f=flushots'
     name 'FluShots'
     homepage 'http://www.dafont.com/flushots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FluShots.ttf'
 end

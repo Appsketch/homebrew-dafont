@@ -5,7 +5,6 @@ cask 'dafont-herzogscript' do
     url 'http://dl.dafont.com/dl/?f=herzogscript'
     name 'Herzogscript'
     homepage 'http://www.dafont.com/herzogscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Herzogscript.ttf'
 end

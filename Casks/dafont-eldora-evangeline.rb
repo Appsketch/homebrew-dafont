@@ -5,7 +5,6 @@ cask 'dafont-eldora-evangeline' do
     url 'http://dl.dafont.com/dl/?f=eldora_evangeline'
     name 'Eldora Evangeline'
     homepage 'http://www.dafont.com/eldora-evangeline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eldora_evangeline.ttf'
 end

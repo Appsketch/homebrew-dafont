@@ -5,7 +5,6 @@ cask 'dafont-shaken-coffee' do
     url 'http://dl.dafont.com/dl/?f=shaken_coffee'
     name 'Shaken Coffee'
     homepage 'http://www.dafont.com/shaken-coffee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shaken_coffee_bold.ttf'
     font 'shaken_coffee_regular.ttf'

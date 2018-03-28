@@ -5,7 +5,6 @@ cask 'dafont-marseille-tarot' do
     url 'http://dl.dafont.com/dl/?f=marseille_tarot'
     name 'Marseille Tarot'
     homepage 'http://www.dafont.com/marseille-tarot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MATA.TTF'
 end

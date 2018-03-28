@@ -5,7 +5,6 @@ cask 'dafont-with-righteous-indignation' do
     url 'http://dl.dafont.com/dl/?f=with_righteous_indignation'
     name 'With Righteous Indignation'
     homepage 'http://www.dafont.com/with-righteous-indignation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'with righteous indignation, again.ttf'
     font 'with righteous indignation.ttf'

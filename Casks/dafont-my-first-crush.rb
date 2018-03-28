@@ -5,7 +5,6 @@ cask 'dafont-my-first-crush' do
     url 'http://dl.dafont.com/dl/?f=my_first_crush'
     name 'My First Crush'
     homepage 'http://www.dafont.com/my-first-crush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My First Crush Hollow.ttf'
     font 'My First Crush Thin.ttf'

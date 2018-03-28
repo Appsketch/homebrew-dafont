@@ -5,7 +5,6 @@ cask 'dafont-slf-handwriting' do
     url 'http://dl.dafont.com/dl/?f=slf_handwriting'
     name 'SLF Handwriting'
     homepage 'http://www.dafont.com/slf-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SLF_Handwriting.ttf'
 end

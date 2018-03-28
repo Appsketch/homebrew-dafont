@@ -5,7 +5,6 @@ cask 'dafont-puttana-antique' do
     url 'http://dl.dafont.com/dl/?f=puttana_antique'
     name 'Puttana Antique'
     homepage 'http://www.dafont.com/puttana-antique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PUTTANA ANTIQUE.ttf'
 end

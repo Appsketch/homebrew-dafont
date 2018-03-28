@@ -5,7 +5,6 @@ cask 'dafont-kolkata-hotelroom' do
     url 'http://dl.dafont.com/dl/?f=kolkata_hotelroom'
     name 'Kolkata Hotelroom'
     homepage 'http://www.dafont.com/kolkata-hotelroom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KolkataHotelroom.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dilate' do
     url 'http://dl.dafont.com/dl/?f=dilate'
     name 'Dilate'
     homepage 'http://www.dafont.com/dilate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dilate.ttf'
 end

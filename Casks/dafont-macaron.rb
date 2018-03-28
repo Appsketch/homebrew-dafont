@@ -5,7 +5,6 @@ cask 'dafont-macaron' do
     url 'http://dl.dafont.com/dl/?f=macaron'
     name 'Macaron'
     homepage 'http://www.dafont.com/macaron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'macaron.ttf'
 end

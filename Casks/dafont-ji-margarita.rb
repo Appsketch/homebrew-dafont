@@ -5,7 +5,6 @@ cask 'dafont-ji-margarita' do
     url 'http://dl.dafont.com/dl/?f=ji_margarita'
     name 'JI Margarita'
     homepage 'http://www.dafont.com/ji-margarita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JI Margarita.ttf'
 end

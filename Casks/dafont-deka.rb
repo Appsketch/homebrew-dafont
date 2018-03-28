@@ -5,7 +5,6 @@ cask 'dafont-deka' do
     url 'http://dl.dafont.com/dl/?f=deka'
     name 'Deka'
     homepage 'http://www.dafont.com/deka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deka.ttf'
 end

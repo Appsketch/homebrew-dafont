@@ -5,7 +5,6 @@ cask 'dafont-spidola' do
     url 'http://dl.dafont.com/dl/?f=spidola'
     name 'Spidola'
     homepage 'http://www.dafont.com/spidola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spidola.ttf'
 end

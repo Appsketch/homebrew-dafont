@@ -5,7 +5,6 @@ cask 'dafont-dalmais' do
     url 'http://dl.dafont.com/dl/?f=dalmais'
     name 'Dalmais'
     homepage 'http://www.dafont.com/dalmais.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dalmais.otf'
 end

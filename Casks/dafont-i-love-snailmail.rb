@@ -5,7 +5,6 @@ cask 'dafont-i-love-snailmail' do
     url 'http://dl.dafont.com/dl/?f=i_love_snailmail'
     name 'I love snailmail'
     homepage 'http://www.dafont.com/i-love-snailmail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'i-snailmail.ttf'
 end

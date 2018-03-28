@@ -5,7 +5,6 @@ cask 'dafont-grandstencil' do
     url 'http://dl.dafont.com/dl/?f=grandstencil'
     name 'Grand Stencil'
     homepage 'http://www.dafont.com/grandstencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrandStencil.ttf'
 end

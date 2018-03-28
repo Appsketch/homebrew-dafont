@@ -5,7 +5,6 @@ cask 'dafont-bsb-df-50' do
     url 'http://dl.dafont.com/dl/?f=bsb_df_50'
     name 'BSB DF 50'
     homepage 'http://www.dafont.com/bsb-df-50.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BSB DF 50.ttf'
 end

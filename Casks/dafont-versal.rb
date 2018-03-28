@@ -5,7 +5,6 @@ cask 'dafont-versal' do
     url 'http://dl.dafont.com/dl/?f=versal'
     name 'Versal Gothic'
     homepage 'http://www.dafont.com/versal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Versal Gothic.ttf'
 end

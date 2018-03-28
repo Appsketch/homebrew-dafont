@@ -5,7 +5,6 @@ cask 'dafont-dot-spot' do
     url 'http://dl.dafont.com/dl/?f=dot_spot'
     name 'Dot Spot'
     homepage 'http://www.dafont.com/dot-spot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dot Spot.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-this-is-my-town-2' do
     url 'http://dl.dafont.com/dl/?f=this_is_my_town_2'
     name 'This Is My Town 2'
     homepage 'http://www.dafont.com/this-is-my-town-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'This Is My Town 2.ttf'
 end

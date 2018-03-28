@@ -5,7 +5,6 @@ cask 'dafont-onthemove' do
     url 'http://dl.dafont.com/dl/?f=onthemove'
     name 'On the move'
     homepage 'http://www.dafont.com/onthemove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'onthemove.ttf'
 end

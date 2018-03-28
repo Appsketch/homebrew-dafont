@@ -5,7 +5,6 @@ cask 'dafont-honey-i-spilt-verdana' do
     url 'http://dl.dafont.com/dl/?f=honey_i_spilt_verdana'
     name 'Honey I spilt Verdana...! '
     homepage 'http://www.dafont.com/honey-i-spilt-verdana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Honey-I-spilt-Verdana.ttf'
 end

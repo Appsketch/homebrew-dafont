@@ -5,7 +5,6 @@ cask 'dafont-troglodyte-pop' do
     url 'http://dl.dafont.com/dl/?f=troglodyte_pop'
     name 'Troglodyte'
     homepage 'http://www.dafont.com/troglodyte-pop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TROGLO__.ttf'
     font 'TROGLOP_.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-totally-tweetie' do
     url 'http://dl.dafont.com/dl/?f=totally_tweetie'
     name 'Totally Tweetie'
     homepage 'http://www.dafont.com/totally-tweetie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TotallyTweetie.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-indulta-semiserif' do
     url 'http://dl.dafont.com/dl/?f=indulta_semiserif'
     name 'Indulta SemiSerif'
     homepage 'http://www.dafont.com/indulta-semiserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Indulta-SemiSerif-Bold-Italic-FFP.otf'
     font 'Indulta-SemiSerif-boldFFP.otf'

@@ -5,7 +5,6 @@ cask 'dafont-tendimensional' do
     url 'http://dl.dafont.com/dl/?f=tendimensional'
     name 'Ten Dimensional'
     homepage 'http://www.dafont.com/tendimensional.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TenDimensional.ttf'
 end

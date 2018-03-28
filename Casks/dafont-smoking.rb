@@ -5,7 +5,6 @@ cask 'dafont-smoking' do
     url 'http://dl.dafont.com/dl/?f=smoking'
     name 'Smoking'
     homepage 'http://www.dafont.com/smoking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smoking.ttf'
 end

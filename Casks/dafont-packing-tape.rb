@@ -5,7 +5,6 @@ cask 'dafont-packing-tape' do
     url 'http://dl.dafont.com/dl/?f=packing_tape'
     name 'Packing Tape'
     homepage 'http://www.dafont.com/packing-tape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'packing tape.ttf'
 end

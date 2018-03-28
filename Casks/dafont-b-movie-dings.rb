@@ -5,7 +5,6 @@ cask 'dafont-b-movie-dings' do
     url 'http://dl.dafont.com/dl/?f=b_movie_dings'
     name 'B Movie Dings'
     homepage 'http://www.dafont.com/b-movie-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bmovie.TTF'
 end

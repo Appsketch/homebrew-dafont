@@ -5,7 +5,6 @@ cask 'dafont-jaime-bien-le-dimanche' do
     url 'http://dl.dafont.com/dl/?f=jaime_bien_le_dimanche'
     name 'J&#039;aime bien le Dimanche !'
     homepage 'http://www.dafont.com/jaime-bien-le-dimanche.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'J&#039;aime bien le Dimanche !.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-polkaletterstamp' do
     url 'http://dl.dafont.com/dl/?f=polkaletterstamp'
     name 'Polka Letter Stamp'
     homepage 'http://www.dafont.com/polkaletterstamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PolkaLetterStamp.ttf'
 end

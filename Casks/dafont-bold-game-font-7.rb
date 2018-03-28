@@ -5,7 +5,6 @@ cask 'dafont-bold-game-font-7' do
     url 'http://dl.dafont.com/dl/?f=bold_game_font_7'
     name 'Bold Game Font 7'
     homepage 'http://www.dafont.com/bold-game-font-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bold_game_font_7.ttf'
 end

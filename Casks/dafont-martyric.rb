@@ -5,7 +5,6 @@ cask 'dafont-martyric' do
     url 'http://dl.dafont.com/dl/?f=martyric'
     name 'Martyric'
     homepage 'http://www.dafont.com/martyric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Martyric_PersonalUse.ttf'
 end

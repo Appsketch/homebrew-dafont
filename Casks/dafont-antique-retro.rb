@@ -5,7 +5,6 @@ cask 'dafont-antique-retro' do
     url 'http://dl.dafont.com/dl/?f=antique_retro'
     name 'Antique Retro'
     homepage 'http://www.dafont.com/antique-retro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'antique retro.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nash-tuckerblue' do
     url 'http://dl.dafont.com/dl/?f=nash_tuckerblue'
     name 'Nash TuckerBlue'
     homepage 'http://www.dafont.com/nash-tuckerblue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nashtuck.ttf'
 end

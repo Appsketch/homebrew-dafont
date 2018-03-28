@@ -5,7 +5,6 @@ cask 'dafont-xirod' do
     url 'http://dl.dafont.com/dl/?f=xirod'
     name 'Xirod'
     homepage 'http://www.dafont.com/xirod.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xirod.ttf'
 end

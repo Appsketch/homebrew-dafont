@@ -5,7 +5,6 @@ cask 'dafont-i-suck-at-golf' do
     url 'http://dl.dafont.com/dl/?f=i_suck_at_golf'
     name 'I suck at golf'
     homepage 'http://www.dafont.com/i-suck-at-golf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'suckgolf.ttf'
 end

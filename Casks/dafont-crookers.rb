@@ -5,7 +5,6 @@ cask 'dafont-crookers' do
     url 'http://dl.dafont.com/dl/?f=crookers'
     name 'Crookers'
     homepage 'http://www.dafont.com/crookers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crookers.ttf'
 end

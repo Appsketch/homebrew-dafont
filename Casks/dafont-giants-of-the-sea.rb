@@ -5,7 +5,6 @@ cask 'dafont-giants-of-the-sea' do
     url 'http://dl.dafont.com/dl/?f=giants_of_the_sea'
     name 'Giants of the Sea'
     homepage 'http://www.dafont.com/giants-of-the-sea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gots.ttf'
 end

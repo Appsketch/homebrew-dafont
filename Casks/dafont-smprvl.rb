@@ -5,7 +5,6 @@ cask 'dafont-smprvl' do
     url 'http://dl.dafont.com/dl/?f=smprvl'
     name 'SMPRVL'
     homepage 'http://www.dafont.com/smprvl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SMPRVL.ttf'
 end

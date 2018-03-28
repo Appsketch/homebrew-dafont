@@ -5,7 +5,6 @@ cask 'dafont-youamazeme' do
     url 'http://dl.dafont.com/dl/?f=youamazeme'
     name 'You Amaze Me'
     homepage 'http://www.dafont.com/youamazeme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YouAmazeMe.ttf'
 end

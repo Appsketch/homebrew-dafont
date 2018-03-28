@@ -5,7 +5,6 @@ cask 'dafont-sesame' do
     url 'http://dl.dafont.com/dl/?f=sesame'
     name 'Sesame'
     homepage 'http://www.dafont.com/sesame.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sesame-Shadow.ttf'
     font 'Sesame.ttf'

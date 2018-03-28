@@ -5,7 +5,6 @@ cask 'dafont-postnews' do
     url 'http://dl.dafont.com/dl/?f=postnews'
     name 'Post News'
     homepage 'http://www.dafont.com/postnews.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PostNews.ttf'
 end

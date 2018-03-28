@@ -5,7 +5,6 @@ cask 'dafont-wickedcockney' do
     url 'http://dl.dafont.com/dl/?f=wickedcockney'
     name 'Wicked Cockney'
     homepage 'http://www.dafont.com/wickedcockney.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WickedCockney.ttf'
 end

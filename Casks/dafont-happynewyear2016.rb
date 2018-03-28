@@ -5,7 +5,6 @@ cask 'dafont-happynewyear2016' do
     url 'http://dl.dafont.com/dl/?f=happynewyear2016'
     name 'Happy New Year 2016'
     homepage 'http://www.dafont.com/happynewyear2016.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HappyNewYear2016.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-landsdowne' do
     url 'http://dl.dafont.com/dl/?f=landsdowne'
     name 'Landsdowne'
     homepage 'http://www.dafont.com/landsdowne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Landsdowne.ttf'
     font 'LandsdowneShadowed.ttf'

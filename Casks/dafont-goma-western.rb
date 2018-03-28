@@ -5,7 +5,6 @@ cask 'dafont-goma-western' do
     url 'http://dl.dafont.com/dl/?f=goma_western'
     name 'Goma Western'
     homepage 'http://www.dafont.com/goma-western.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_goma_western.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-werewolf' do
     url 'http://dl.dafont.com/dl/?f=werewolf'
     name 'Werewolf'
     homepage 'http://www.dafont.com/werewolf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WEREWOLF.TTF'
 end

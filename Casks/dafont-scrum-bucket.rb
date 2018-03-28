@@ -5,7 +5,6 @@ cask 'dafont-scrum-bucket' do
     url 'http://dl.dafont.com/dl/?f=scrum_bucket'
     name 'Scrum Bucket'
     homepage 'http://www.dafont.com/scrum-bucket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scrum-Bucket.ttf'
 end

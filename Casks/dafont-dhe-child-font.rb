@@ -5,7 +5,6 @@ cask 'dafont-dhe-child-font' do
     url 'http://dl.dafont.com/dl/?f=dhe_child_font'
     name 'Dhe Child Font'
     homepage 'http://www.dafont.com/dhe-child-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'de child font.ttf'
 end

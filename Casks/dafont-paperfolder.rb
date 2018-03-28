@@ -5,7 +5,6 @@ cask 'dafont-paperfolder' do
     url 'http://dl.dafont.com/dl/?f=paperfolder'
     name 'Paper Folder'
     homepage 'http://www.dafont.com/paperfolder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaperFolder.ttf'
 end

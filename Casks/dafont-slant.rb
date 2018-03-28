@@ -5,7 +5,6 @@ cask 'dafont-slant' do
     url 'http://dl.dafont.com/dl/?f=slant'
     name 'Slant'
     homepage 'http://www.dafont.com/slant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SLANT.TTF'
 end

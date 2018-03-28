@@ -5,7 +5,6 @@ cask 'dafont-give-me-some-sugar' do
     url 'http://dl.dafont.com/dl/?f=give_me_some_sugar'
     name 'Give me some sugar'
     homepage 'http://www.dafont.com/give-me-some-sugar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'give me some sugar_2.ttf'
 end

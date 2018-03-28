@@ -5,7 +5,6 @@ cask 'dafont-friday-lovers' do
     url 'http://dl.dafont.com/dl/?f=friday_lovers'
     name 'Friday Lovers'
     homepage 'http://www.dafont.com/friday-lovers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Friday Lovers.otf'
 end

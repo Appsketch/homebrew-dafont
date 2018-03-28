@@ -5,7 +5,6 @@ cask 'dafont-balls-to-the-wall' do
     url 'http://dl.dafont.com/dl/?f=balls_to_the_wall'
     name 'Balls to the Wall'
     homepage 'http://www.dafont.com/balls-to-the-wall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BALLS___.TTF'
 end

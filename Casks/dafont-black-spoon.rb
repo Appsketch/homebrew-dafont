@@ -5,7 +5,6 @@ cask 'dafont-black-spoon' do
     url 'http://dl.dafont.com/dl/?f=black_spoon'
     name 'Black Spoon'
     homepage 'http://www.dafont.com/black-spoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'black spoon-&copy;x-tra bold.ttf'
 end

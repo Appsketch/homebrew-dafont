@@ -5,7 +5,6 @@ cask 'dafont-copabanana' do
     url 'http://dl.dafont.com/dl/?f=copabanana'
     name 'Copa Banana'
     homepage 'http://www.dafont.com/copabanana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Copa Banana.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-zombie-slayer' do
     url 'http://dl.dafont.com/dl/?f=zombie_slayer'
     name 'Zombie Slayer'
     homepage 'http://www.dafont.com/zombie-slayer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zombie Slayer.ttf'
 end

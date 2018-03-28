@@ -5,7 +5,6 @@ cask 'dafont-tgl-0-16' do
     url 'http://dl.dafont.com/dl/?f=tgl_0_16'
     name 'TGL 0-16'
     homepage 'http://www.dafont.com/tgl-0-16.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TGL 0-16.ttf'
     font 'TGL 0-17.ttf'

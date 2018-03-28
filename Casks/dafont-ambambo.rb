@@ -5,7 +5,6 @@ cask 'dafont-ambambo' do
     url 'http://dl.dafont.com/dl/?f=ambambo'
     name 'Ambambo'
     homepage 'http://www.dafont.com/ambambo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ambambo Bold.ttf'
     font 'Ambambo Italic.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-quantum3' do
     url 'http://dl.dafont.com/dl/?f=quantum3'
     name 'Quantum'
     homepage 'http://www.dafont.com/quantum3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quantum Italic.otf'
     font 'Quantum.otf'

@@ -5,7 +5,6 @@ cask 'dafont-federal' do
     url 'http://dl.dafont.com/dl/?f=federal'
     name 'Federal'
     homepage 'http://www.dafont.com/federal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Federal.ttf'
 end

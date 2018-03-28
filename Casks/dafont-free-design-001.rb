@@ -5,7 +5,6 @@ cask 'dafont-free-design-001' do
     url 'http://dl.dafont.com/dl/?f=free_design_001'
     name 'Free Design 001'
     homepage 'http://www.dafont.com/free-design-001.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreeDesign001Bitbit.ttf'
     font 'FreeDesign001Dotdot.ttf'

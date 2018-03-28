@@ -5,7 +5,6 @@ cask 'dafont-tusch-touch' do
     url 'http://dl.dafont.com/dl/?f=tusch_touch'
     name 'Tusch Touch'
     homepage 'http://www.dafont.com/tusch-touch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TuschTouch1.ttf'
     font 'TuschTouch2.ttf'

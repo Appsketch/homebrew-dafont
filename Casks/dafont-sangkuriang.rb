@@ -5,7 +5,6 @@ cask 'dafont-sangkuriang' do
     url 'http://dl.dafont.com/dl/?f=sangkuriang'
     name 'Sangkuriang'
     homepage 'http://www.dafont.com/sangkuriang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sangkuriang_Cursive.otf'
     font 'Sangkuriang.otf'

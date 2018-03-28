@@ -5,7 +5,6 @@ cask 'dafont-vtks-expert' do
     url 'http://dl.dafont.com/dl/?f=vtks_expert'
     name 'Vtks Expert'
     homepage 'http://www.dafont.com/vtks-expert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks expert.ttf'
 end

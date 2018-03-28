@@ -5,7 +5,6 @@ cask 'dafont-maline' do
     url 'http://dl.dafont.com/dl/?f=maline'
     name 'Maline'
     homepage 'http://www.dafont.com/maline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maline Book_Demo.ttf'
 end

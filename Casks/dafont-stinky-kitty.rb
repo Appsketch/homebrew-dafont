@@ -5,7 +5,6 @@ cask 'dafont-stinky-kitty' do
     url 'http://dl.dafont.com/dl/?f=stinky_kitty'
     name 'Stinky Kitty'
     homepage 'http://www.dafont.com/stinky-kitty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STINK___.TTF'
 end

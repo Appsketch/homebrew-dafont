@@ -5,7 +5,6 @@ cask 'dafont-tork' do
     url 'http://dl.dafont.com/dl/?f=tork'
     name 'Tork'
     homepage 'http://www.dafont.com/tork.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tork bd it.ttf'
     font 'tork bd.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-bonesoup' do
     url 'http://dl.dafont.com/dl/?f=bonesoup'
     name 'Bonesoup'
     homepage 'http://www.dafont.com/bonesoup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BONESOUP/BONESOUP.otf'
 end

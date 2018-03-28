@@ -5,7 +5,6 @@ cask 'dafont-cargo' do
     url 'http://dl.dafont.com/dl/?f=cargo'
     name 'Cargo'
     homepage 'http://www.dafont.com/cargo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cargo eroded.ttf'
     font 'Cargo.ttf'

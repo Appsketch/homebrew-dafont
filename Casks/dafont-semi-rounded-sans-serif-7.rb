@@ -5,7 +5,6 @@ cask 'dafont-semi-rounded-sans-serif-7' do
     url 'http://dl.dafont.com/dl/?f=semi_rounded_sans_serif_7'
     name 'Semi Rounded Sans Serif 7'
     homepage 'http://www.dafont.com/semi-rounded-sans-serif-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'semi_rounded_sans_serif_7.ttf'
 end

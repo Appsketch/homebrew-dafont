@@ -5,7 +5,6 @@ cask 'dafont-la-quince-de-mayra' do
     url 'http://dl.dafont.com/dl/?f=la_quince_de_mayra'
     name 'La Quince de Mayra'
     homepage 'http://www.dafont.com/la-quince-de-mayra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'La Quince de Mayra Bold.ttf'
     font 'La Quince de Mayra.ttf'

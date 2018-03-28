@@ -5,7 +5,6 @@ cask 'dafont-crumbled-pixels' do
     url 'http://dl.dafont.com/dl/?f=crumbled_pixels'
     name 'Crumbled Pixels'
     homepage 'http://www.dafont.com/crumbled-pixels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crumbled-Pixels.ttf'
 end

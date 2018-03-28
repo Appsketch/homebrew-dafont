@@ -5,7 +5,6 @@ cask 'dafont-digitalino' do
     url 'http://dl.dafont.com/dl/?f=digitalino'
     name 'Digitalino'
     homepage 'http://www.dafont.com/digitalino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digitalino-rev11.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tattoo-heavy' do
     url 'http://dl.dafont.com/dl/?f=tattoo_heavy'
     name 'Tattoo Heavy'
     homepage 'http://www.dafont.com/tattoo-heavy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tattoo Heavy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-portculliard' do
     url 'http://dl.dafont.com/dl/?f=portculliard'
     name 'Portculliard Initials'
     homepage 'http://www.dafont.com/portculliard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PortculliardInitials.ttf'
 end

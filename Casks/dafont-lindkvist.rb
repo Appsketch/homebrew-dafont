@@ -5,7 +5,6 @@ cask 'dafont-lindkvist' do
     url 'http://dl.dafont.com/dl/?f=lindkvist'
     name 'Lindkvist'
     homepage 'http://www.dafont.com/lindkvist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lindkvist1.TTF'
     font 'lindkvist2.TTF'

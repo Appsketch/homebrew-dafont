@@ -5,7 +5,6 @@ cask 'dafont-industrial-decapita' do
     url 'http://dl.dafont.com/dl/?f=industrial_decapita'
     name 'Industrial Decapitalist'
     homepage 'http://www.dafont.com/industrial-decapita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'indust.ttf'
     font 'industb.ttf'

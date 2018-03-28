@@ -5,7 +5,6 @@ cask 'dafont-crayonsketches' do
     url 'http://dl.dafont.com/dl/?f=crayonsketches'
     name 'Crayon Sketches'
     homepage 'http://www.dafont.com/crayonsketches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrayonSketches.ttf'
 end

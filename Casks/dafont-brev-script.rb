@@ -5,7 +5,6 @@ cask 'dafont-brev-script' do
     url 'http://dl.dafont.com/dl/?f=brev_script'
     name 'Brev Script'
     homepage 'http://www.dafont.com/brev-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BrevScript_PersonalUse.ttf'
 end

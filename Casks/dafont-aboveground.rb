@@ -5,7 +5,6 @@ cask 'dafont-aboveground' do
     url 'http://dl.dafont.com/dl/?f=aboveground'
     name 'Above Ground'
     homepage 'http://www.dafont.com/aboveground.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AboveGround.ttf'
 end

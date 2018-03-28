@@ -5,7 +5,6 @@ cask 'dafont-bite-bullet' do
     url 'http://dl.dafont.com/dl/?f=bite_bullet'
     name 'Bite the Bullet'
     homepage 'http://www.dafont.com/bite-bullet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bite _ Bullet.ttf'
 end

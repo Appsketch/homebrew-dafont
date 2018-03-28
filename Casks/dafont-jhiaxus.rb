@@ -5,7 +5,6 @@ cask 'dafont-jhiaxus' do
     url 'http://dl.dafont.com/dl/?f=jhiaxus'
     name 'Jhiaxus'
     homepage 'http://www.dafont.com/jhiaxus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jhiaxus Bold Italic.otf'
     font 'Jhiaxus Bold.otf'

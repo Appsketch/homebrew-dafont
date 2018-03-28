@@ -5,7 +5,6 @@ cask 'dafont-icantstopthinkinofyou' do
     url 'http://dl.dafont.com/dl/?f=icantstopthinkinofyou'
     name 'I Cant Stop Thinkin Of You'
     homepage 'http://www.dafont.com/icantstopthinkinofyou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ICantStopThinkinOfYou.ttf'
 end

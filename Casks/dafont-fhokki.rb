@@ -5,7 +5,6 @@ cask 'dafont-fhokki' do
     url 'http://dl.dafont.com/dl/?f=fhokki'
     name 'Fhokki'
     homepage 'http://www.dafont.com/fhokki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fhokki Italic.ttf'
     font 'Fhokki.ttf'

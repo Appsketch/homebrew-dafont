@@ -5,7 +5,6 @@ cask 'dafont-sortefax' do
     url 'http://dl.dafont.com/dl/?f=sortefax'
     name 'Sortefax'
     homepage 'http://www.dafont.com/sortefax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sortefax_026.ttf'
 end

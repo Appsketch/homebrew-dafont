@@ -5,7 +5,6 @@ cask 'dafont-birth-of-a-hero' do
     url 'http://dl.dafont.com/dl/?f=birth_of_a_hero'
     name 'Birth of a Hero'
     homepage 'http://www.dafont.com/birth-of-a-hero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIRTH_OF_A_HERO.ttf'
 end

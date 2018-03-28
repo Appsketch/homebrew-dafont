@@ -5,7 +5,6 @@ cask 'dafont-pict-animos' do
     url 'http://dl.dafont.com/dl/?f=pict_animos'
     name 'Pict&#039; Animos'
     homepage 'http://www.dafont.com/pict-animos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'animal.TTF'
 end

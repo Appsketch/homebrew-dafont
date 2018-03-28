@@ -5,7 +5,6 @@ cask 'dafont-mojacalo-relief' do
     url 'http://dl.dafont.com/dl/?f=mojacalo_relief'
     name 'Mojacalo Relief'
     homepage 'http://www.dafont.com/mojacalo-relief.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mojarelief.ttf'
 end

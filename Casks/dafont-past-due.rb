@@ -5,7 +5,6 @@ cask 'dafont-past-due' do
     url 'http://dl.dafont.com/dl/?f=past_due'
     name 'Past Due'
     homepage 'http://www.dafont.com/past-due.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PastDueDEMO.otf'
 end

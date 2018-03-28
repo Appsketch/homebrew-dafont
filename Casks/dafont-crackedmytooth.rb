@@ -5,7 +5,6 @@ cask 'dafont-crackedmytooth' do
     url 'http://dl.dafont.com/dl/?f=crackedmytooth'
     name 'Cracked My Tooth'
     homepage 'http://www.dafont.com/crackedmytooth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrackedMyTooth.ttf'
 end

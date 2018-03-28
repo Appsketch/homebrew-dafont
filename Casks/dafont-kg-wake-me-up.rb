@@ -5,7 +5,6 @@ cask 'dafont-kg-wake-me-up' do
     url 'http://dl.dafont.com/dl/?f=kg_wake_me_up'
     name 'KG Wake Me Up'
     homepage 'http://www.dafont.com/kg-wake-me-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGWakeMeUp.ttf'
 end

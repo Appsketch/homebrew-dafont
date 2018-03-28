@@ -5,7 +5,6 @@ cask 'dafont-pr-uncial' do
     url 'http://dl.dafont.com/dl/?f=pr_uncial'
     name 'PR Uncial'
     homepage 'http://www.dafont.com/pr-uncial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PRUNCIAL.TTF'
 end

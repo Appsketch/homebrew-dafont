@@ -5,7 +5,6 @@ cask 'dafont-zubajda' do
     url 'http://dl.dafont.com/dl/?f=zubajda'
     name 'Zubajda'
     homepage 'http://www.dafont.com/zubajda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zubajda Dt.ttf'
     font 'Zubajda Grng.ttf'

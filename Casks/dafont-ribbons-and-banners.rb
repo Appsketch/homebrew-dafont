@@ -5,7 +5,6 @@ cask 'dafont-ribbons-and-banners' do
     url 'http://dl.dafont.com/dl/?f=ribbons_and_banners'
     name 'Ribbons and banners'
     homepage 'http://www.dafont.com/ribbons-and-banners.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ribbons-and-banners.ttf'
 end

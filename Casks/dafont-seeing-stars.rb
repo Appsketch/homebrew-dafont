@@ -5,7 +5,6 @@ cask 'dafont-seeing-stars' do
     url 'http://dl.dafont.com/dl/?f=seeing_stars'
     name 'Seeing Stars'
     homepage 'http://www.dafont.com/seeing-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEEIS___.TTF'
 end

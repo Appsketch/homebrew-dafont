@@ -5,7 +5,6 @@ cask 'dafont-biblical' do
     url 'http://dl.dafont.com/dl/?f=biblical'
     name 'Biblical'
     homepage 'http://www.dafont.com/biblical.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Biblical.ttf'
 end

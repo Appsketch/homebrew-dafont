@@ -5,7 +5,6 @@ cask 'dafont-tiboo5font' do
     url 'http://dl.dafont.com/dl/?f=tiboo5font'
     name 'Tiboo 5 font'
     homepage 'http://www.dafont.com/tiboo5font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tiboo5font.ttf'
 end

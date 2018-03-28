@@ -5,7 +5,6 @@ cask 'dafont-pirata-one' do
     url 'http://dl.dafont.com/dl/?f=pirata_one'
     name 'Pirata One'
     homepage 'http://www.dafont.com/pirata-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PirataOne-Regular.ttf'
 end

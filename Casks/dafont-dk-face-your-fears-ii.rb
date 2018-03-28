@@ -5,7 +5,6 @@ cask 'dafont-dk-face-your-fears-ii' do
     url 'http://dl.dafont.com/dl/?f=dk_face_your_fears_ii'
     name 'DK Face Your Fears II'
     homepage 'http://www.dafont.com/dk-face-your-fears-ii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Face Your Fears II.ttf'
 end

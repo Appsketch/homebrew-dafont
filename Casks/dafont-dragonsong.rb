@@ -5,7 +5,6 @@ cask 'dafont-dragonsong' do
     url 'http://dl.dafont.com/dl/?f=dragonsong'
     name 'Dragonsong'
     homepage 'http://www.dafont.com/dragonsong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dragonsong_by_narathira.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fifteen-feet-of-pure-white-snow' do
     url 'http://dl.dafont.com/dl/?f=fifteen_feet_of_pure_white_snow'
     name 'Fifteen Feet Of Pure White Snow'
     homepage 'http://www.dafont.com/fifteen-feet-of-pure-white-snow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fifteen Feet Of Pure White Snow.ttf'
 end

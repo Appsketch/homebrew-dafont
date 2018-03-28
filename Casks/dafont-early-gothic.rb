@@ -5,7 +5,6 @@ cask 'dafont-early-gothic' do
     url 'http://dl.dafont.com/dl/?f=early_gothic'
     name 'Early Gothic'
     homepage 'http://www.dafont.com/early-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Earlg___.ttf'
 end

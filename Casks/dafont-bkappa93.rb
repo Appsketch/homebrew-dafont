@@ -5,7 +5,6 @@ cask 'dafont-bkappa93' do
     url 'http://dl.dafont.com/dl/?f=bkappa93'
     name 'BKappa93'
     homepage 'http://www.dafont.com/bkappa93.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BKappa93.ttf'
 end

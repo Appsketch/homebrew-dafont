@@ -5,7 +5,6 @@ cask 'dafont-lastline' do
     url 'http://dl.dafont.com/dl/?f=lastline'
     name 'Last Line'
     homepage 'http://www.dafont.com/lastline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LastLine.ttf'
 end

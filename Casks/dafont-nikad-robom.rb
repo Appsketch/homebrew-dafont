@@ -5,7 +5,6 @@ cask 'dafont-nikad-robom' do
     url 'http://dl.dafont.com/dl/?f=nikad_robom'
     name 'Nikad Robom'
     homepage 'http://www.dafont.com/nikad-robom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nikad robom.ttf'
 end

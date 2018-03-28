@@ -5,7 +5,6 @@ cask 'dafont-retrovolution' do
     url 'http://dl.dafont.com/dl/?f=retrovolution'
     name 'RetroVolution'
     homepage 'http://www.dafont.com/retrovolution.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RetroVolution.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-morgan-ds' do
     url 'http://dl.dafont.com/dl/?f=morgan_ds'
     name 'Morgan'
     homepage 'http://www.dafont.com/morgan-ds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MORGTN__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-function' do
     url 'http://dl.dafont.com/dl/?f=function'
     name 'Function'
     homepage 'http://www.dafont.com/function.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Function.ttf'
 end

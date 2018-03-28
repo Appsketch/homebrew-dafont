@@ -5,7 +5,6 @@ cask 'dafont-savia-shadow' do
     url 'http://dl.dafont.com/dl/?f=savia_shadow'
     name 'Savia Shadow'
     homepage 'http://www.dafont.com/savia-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'savia_shadow_filled.ttf'
     font 'savia_shadow.ttf'

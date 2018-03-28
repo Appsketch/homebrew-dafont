@@ -5,7 +5,6 @@ cask 'dafont-aylaskinny' do
     url 'http://dl.dafont.com/dl/?f=aylaskinny'
     name 'Ayla Skinny'
     homepage 'http://www.dafont.com/aylaskinny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AylaSkinny.ttf'
 end

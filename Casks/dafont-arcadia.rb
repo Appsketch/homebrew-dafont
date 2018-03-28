@@ -5,7 +5,6 @@ cask 'dafont-arcadia' do
     url 'http://dl.dafont.com/dl/?f=arcadia'
     name 'Arcadia'
     homepage 'http://www.dafont.com/arcadia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arcadia.ttf'
 end

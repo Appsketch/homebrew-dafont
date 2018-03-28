@@ -5,7 +5,6 @@ cask 'dafont-victor' do
     url 'http://dl.dafont.com/dl/?f=victor'
     name 'Victor'
     homepage 'http://www.dafont.com/victor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Victor.otf'
 end

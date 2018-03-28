@@ -5,7 +5,6 @@ cask 'dafont-stamping-nico' do
     url 'http://dl.dafont.com/dl/?f=stamping_nico'
     name 'Stamping Nico'
     homepage 'http://www.dafont.com/stamping-nico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stamping Nico.ttf'
 end

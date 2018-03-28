@@ -5,7 +5,6 @@ cask 'dafont-beguyur' do
     url 'http://dl.dafont.com/dl/?f=beguyur'
     name 'Beguyur'
     homepage 'http://www.dafont.com/beguyur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beguyur.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bimbo-jve' do
     url 'http://dl.dafont.com/dl/?f=bimbo_jve'
     name 'Bimbo JVE'
     homepage 'http://www.dafont.com/bimbo-jve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bimbo_JVE.ttf'
 end

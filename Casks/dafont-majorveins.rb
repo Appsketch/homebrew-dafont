@@ -5,7 +5,6 @@ cask 'dafont-majorveins' do
     url 'http://dl.dafont.com/dl/?f=majorveins'
     name 'Major Veins'
     homepage 'http://www.dafont.com/majorveins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MajorVeins.ttf'
 end

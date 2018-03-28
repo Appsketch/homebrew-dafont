@@ -5,7 +5,6 @@ cask 'dafont-brankovic' do
     url 'http://dl.dafont.com/dl/?f=brankovic'
     name 'Brankovic'
     homepage 'http://www.dafont.com/brankovic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brankovic.ttf'
 end

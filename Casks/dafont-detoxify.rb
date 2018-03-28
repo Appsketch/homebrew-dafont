@@ -5,7 +5,6 @@ cask 'dafont-detoxify' do
     url 'http://dl.dafont.com/dl/?f=detoxify'
     name 'Detoxify'
     homepage 'http://www.dafont.com/detoxify.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DETOXIFY.TTF'
 end

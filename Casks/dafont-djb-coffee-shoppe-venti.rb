@@ -5,7 +5,6 @@ cask 'dafont-djb-coffee-shoppe-venti' do
     url 'http://dl.dafont.com/dl/?f=djb_coffee_shoppe_venti'
     name 'DJB Coffee Shoppe Venti'
     homepage 'http://www.dafont.com/djb-coffee-shoppe-venti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Coffee Shoppe Venti.ttf'
 end

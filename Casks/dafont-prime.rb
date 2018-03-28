@@ -5,7 +5,6 @@ cask 'dafont-prime' do
     url 'http://dl.dafont.com/dl/?f=prime'
     name 'Prime'
     homepage 'http://www.dafont.com/prime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Primev-Regular.ttf'
 end

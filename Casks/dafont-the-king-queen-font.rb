@@ -5,7 +5,6 @@ cask 'dafont-the-king-queen-font' do
     url 'http://dl.dafont.com/dl/?f=the_king_queen_font'
     name 'The King &amp; Queen font'
     homepage 'http://www.dafont.com/the-king-queen-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the_King__26_Queen_font.ttf'
 end

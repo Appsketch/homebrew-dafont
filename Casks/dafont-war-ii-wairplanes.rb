@@ -5,7 +5,6 @@ cask 'dafont-war-ii-wairplanes' do
     url 'http://dl.dafont.com/dl/?f=war_ii_wairplanes'
     name 'War II Wairplanes'
     homepage 'http://www.dafont.com/war-ii-wairplanes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'war_II_warplanes.ttf'
 end

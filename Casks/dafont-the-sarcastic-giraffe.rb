@@ -5,7 +5,6 @@ cask 'dafont-the-sarcastic-giraffe' do
     url 'http://dl.dafont.com/dl/?f=the_sarcastic_giraffe'
     name 'The Sarcastic Giraffe'
     homepage 'http://www.dafont.com/the-sarcastic-giraffe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the sarcastic giraffe Bold.otf'
     font 'the sarcastic giraffe.otf'

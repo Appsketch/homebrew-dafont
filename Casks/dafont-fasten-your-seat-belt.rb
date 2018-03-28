@@ -5,7 +5,6 @@ cask 'dafont-fasten-your-seat-belt' do
     url 'http://dl.dafont.com/dl/?f=fasten_your_seat_belt'
     name 'Fasten Your Seat Belt'
     homepage 'http://www.dafont.com/fasten-your-seat-belt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FastenYourSeatBeltClean-Reg.otf'
     font 'FastenYourSeatBeltTextured.otf'

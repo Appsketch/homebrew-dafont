@@ -5,7 +5,6 @@ cask 'dafont-dhe-long-zim' do
     url 'http://dl.dafont.com/dl/?f=dhe_long_zim'
     name 'Dhe Long Zim'
     homepage 'http://www.dafont.com/dhe-long-zim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dhe long zim.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lcddot' do
     url 'http://dl.dafont.com/dl/?f=lcddot'
     name 'LCD Dot'
     homepage 'http://www.dafont.com/lcddot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lcddot_tr.ttf'
 end

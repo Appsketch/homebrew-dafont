@@ -5,7 +5,6 @@ cask 'dafont-maulie' do
     url 'http://dl.dafont.com/dl/?f=maulie'
     name 'Maulie'
     homepage 'http://www.dafont.com/maulie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maulie.ttf'
 end

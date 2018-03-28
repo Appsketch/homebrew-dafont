@@ -5,7 +5,6 @@ cask 'dafont-too-good-to-be-true' do
     url 'http://dl.dafont.com/dl/?f=too_good_to_be_true'
     name 'Too Good To Be True'
     homepage 'http://www.dafont.com/too-good-to-be-true.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Too Good To Be True.ttf'
 end

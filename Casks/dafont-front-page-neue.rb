@@ -5,7 +5,6 @@ cask 'dafont-front-page-neue' do
     url 'http://dl.dafont.com/dl/?f=front_page_neue'
     name 'Front Page Neue'
     homepage 'http://www.dafont.com/front-page-neue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FrontPageNeue.otf'
 end

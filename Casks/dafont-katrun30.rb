@@ -5,7 +5,6 @@ cask 'dafont-katrun30' do
     url 'http://dl.dafont.com/dl/?f=katrun30'
     name 'Katr&uuml;n 30'
     homepage 'http://www.dafont.com/katrun30.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'katrn30.ttf'
 end

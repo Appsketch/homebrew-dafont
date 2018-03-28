@@ -5,7 +5,6 @@ cask 'dafont-kbpinklipgloss' do
     url 'http://dl.dafont.com/dl/?f=kbpinklipgloss'
     name 'KB Pink Lipgloss'
     homepage 'http://www.dafont.com/kbpinklipgloss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBPinkLipgloss.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blackhead' do
     url 'http://dl.dafont.com/dl/?f=blackhead'
     name 'Blackhead'
     homepage 'http://www.dafont.com/blackhead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blackhead.ttf'
 end

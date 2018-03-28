@@ -5,7 +5,6 @@ cask 'dafont-triggering-fanfares' do
     url 'http://dl.dafont.com/dl/?f=triggering_fanfares'
     name 'Triggering Fanfares'
     homepage 'http://www.dafont.com/triggering-fanfares.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'triggering_fanfares.ttf'
 end

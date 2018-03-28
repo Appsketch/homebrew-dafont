@@ -5,7 +5,6 @@ cask 'dafont-winter-in-gotham' do
     url 'http://dl.dafont.com/dl/?f=winter_in_gotham'
     name 'Winter in Gotham'
     homepage 'http://www.dafont.com/winter-in-gotham.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Winter in Gotham.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-atewaza' do
     url 'http://dl.dafont.com/dl/?f=atewaza'
     name 'Atewaza'
     homepage 'http://www.dafont.com/atewaza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'atewaza.ttf'
 end

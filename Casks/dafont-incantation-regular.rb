@@ -5,7 +5,6 @@ cask 'dafont-incantation-regular' do
     url 'http://dl.dafont.com/dl/?f=incantation_regular'
     name 'Incantation'
     homepage 'http://www.dafont.com/incantation-regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INCANTAT.TTF'
 end

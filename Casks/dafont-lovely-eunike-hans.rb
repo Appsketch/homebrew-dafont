@@ -5,7 +5,6 @@ cask 'dafont-lovely-eunike-hans' do
     url 'http://dl.dafont.com/dl/?f=lovely_eunike_hans'
     name 'Lovely Eunike Hans'
     homepage 'http://www.dafont.com/lovely-eunike-hans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lovely_eunike_hans.otf'
 end

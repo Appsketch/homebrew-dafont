@@ -5,7 +5,6 @@ cask 'dafont-people-are-people' do
     url 'http://dl.dafont.com/dl/?f=people_are_people'
     name 'People Are People'
     homepage 'http://www.dafont.com/people-are-people.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'People.ttf'
 end

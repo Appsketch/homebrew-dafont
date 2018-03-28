@@ -5,7 +5,6 @@ cask 'dafont-dragonfly-on-my-nose' do
     url 'http://dl.dafont.com/dl/?f=dragonfly_on_my_nose'
     name 'Dragonfly On My Nose'
     homepage 'http://www.dafont.com/dragonfly-on-my-nose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dragonfly On My Nose.ttf'
 end

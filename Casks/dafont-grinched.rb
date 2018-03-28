@@ -5,7 +5,6 @@ cask 'dafont-grinched' do
     url 'http://dl.dafont.com/dl/?f=grinched'
     name 'Grinched'
     homepage 'http://www.dafont.com/grinched.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrinchedRegular.ttf'
 end

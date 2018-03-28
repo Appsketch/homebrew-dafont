@@ -5,7 +5,6 @@ cask 'dafont-spawned' do
     url 'http://dl.dafont.com/dl/?f=spawned'
     name 'Spawn'
     homepage 'http://www.dafont.com/spawned.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPAWNED_.TTF'
 end

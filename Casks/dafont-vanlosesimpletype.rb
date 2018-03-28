@@ -5,7 +5,6 @@ cask 'dafont-vanlosesimpletype' do
     url 'http://dl.dafont.com/dl/?f=vanlosesimpletype'
     name 'Vanlose Simple Type'
     homepage 'http://www.dafont.com/vanlosesimpletype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vanlose_SimpleType.otf'
 end

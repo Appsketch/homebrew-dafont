@@ -5,7 +5,6 @@ cask 'dafont-cellular-of-indonesiana-island' do
     url 'http://dl.dafont.com/dl/?f=cellular_of_indonesiana_island'
     name 'FTF Cellul@r of Indonesiana Island'
     homepage 'http://www.dafont.com/cellular-of-indonesiana-island.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF_Cellul@r_of_Indonesiana_Island.ttf'
 end

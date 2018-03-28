@@ -5,7 +5,6 @@ cask 'dafont-acknowledgement' do
     url 'http://dl.dafont.com/dl/?f=acknowledgement'
     name 'Acknowledgement'
     homepage 'http://www.dafont.com/acknowledgement.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ACKNO.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-casual' do
     url 'http://dl.dafont.com/dl/?f=casual'
     name 'Casual'
     homepage 'http://www.dafont.com/casual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'casual tossed.ttf'
     font 'casual.ttf'

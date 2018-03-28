@@ -5,7 +5,6 @@ cask 'dafont-carbonated-gothic' do
     url 'http://dl.dafont.com/dl/?f=carbonated_gothic'
     name 'Carbonated Gothic'
     homepage 'http://www.dafont.com/carbonated-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CARBGTHC.TTF'
 end

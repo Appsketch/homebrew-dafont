@@ -5,7 +5,6 @@ cask 'dafont-pixeldust' do
     url 'http://dl.dafont.com/dl/?f=pixeldust'
     name 'Pixeldust'
     homepage 'http://www.dafont.com/pixeldust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixeldeb.ttf'
     font 'pixeldu.ttf'

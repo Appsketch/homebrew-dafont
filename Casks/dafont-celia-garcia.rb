@@ -5,7 +5,6 @@ cask 'dafont-celia-garcia' do
     url 'http://dl.dafont.com/dl/?f=celia_garcia'
     name 'Celia Garcia'
     homepage 'http://www.dafont.com/celia-garcia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Celia Garcia.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-origicide' do
     url 'http://dl.dafont.com/dl/?f=origicide'
     name 'Origicide'
     homepage 'http://www.dafont.com/origicide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Origicide.ttf'
 end

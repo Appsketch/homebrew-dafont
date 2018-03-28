@@ -5,7 +5,6 @@ cask 'dafont-cf-boston' do
     url 'http://dl.dafont.com/dl/?f=cf_boston'
     name 'CF Boston'
     homepage 'http://www.dafont.com/cf-boston.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFBoston-Regular.ttf'
 end

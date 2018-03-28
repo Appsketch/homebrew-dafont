@@ -5,7 +5,6 @@ cask 'dafont-fearing-madness' do
     url 'http://dl.dafont.com/dl/?f=fearing_madness'
     name 'Fearing Madness'
     homepage 'http://www.dafont.com/fearing-madness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fearing Madness.ttf'
 end

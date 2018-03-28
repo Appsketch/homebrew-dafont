@@ -5,7 +5,6 @@ cask 'dafont-cero' do
     url 'http://dl.dafont.com/dl/?f=cero'
     name 'Cero'
     homepage 'http://www.dafont.com/cero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cero.ttf'
 end

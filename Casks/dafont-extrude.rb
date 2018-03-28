@@ -5,7 +5,6 @@ cask 'dafont-extrude' do
     url 'http://dl.dafont.com/dl/?f=extrude'
     name 'Extrude'
     homepage 'http://www.dafont.com/extrude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extrude.ttf'
 end

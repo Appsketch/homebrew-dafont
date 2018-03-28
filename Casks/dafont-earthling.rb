@@ -5,7 +5,6 @@ cask 'dafont-earthling' do
     url 'http://dl.dafont.com/dl/?f=earthling'
     name 'Earthling'
     homepage 'http://www.dafont.com/earthling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'earth.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-terminator-real-nfi' do
     url 'http://dl.dafont.com/dl/?f=terminator_real_nfi'
     name 'Terminator Real NFI'
     homepage 'http://www.dafont.com/terminator-real-nfi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'terminator real nfi.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vtks-lemon-drop' do
     url 'http://dl.dafont.com/dl/?f=vtks_lemon_drop'
     name 'Vtks Lemon Drop'
     homepage 'http://www.dafont.com/vtks-lemon-drop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Lemon Drop.ttf'
 end

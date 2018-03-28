@@ -5,7 +5,6 @@ cask 'dafont-super-street-fighter-hyper-fonting' do
     url 'http://dl.dafont.com/dl/?f=super_street_fighter_hyper_fonting'
     name 'Super Street Fighter Hyper Fonting'
     homepage 'http://www.dafont.com/super-street-fighter-hyper-fonting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Super Street Fighter.ttf'
 end

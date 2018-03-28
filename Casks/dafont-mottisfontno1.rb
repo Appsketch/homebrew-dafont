@@ -5,7 +5,6 @@ cask 'dafont-mottisfontno1' do
     url 'http://dl.dafont.com/dl/?f=mottisfontno1'
     name 'Mottisfont'
     homepage 'http://www.dafont.com/mottisfontno1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mottisfont No 1.ttf'
     font 'MottisfontNo2.ttf'

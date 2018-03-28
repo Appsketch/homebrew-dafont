@@ -5,7 +5,6 @@ cask 'dafont-june-day' do
     url 'http://dl.dafont.com/dl/?f=june_day'
     name 'June Day'
     homepage 'http://www.dafont.com/june-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JuneDay.ttf'
 end

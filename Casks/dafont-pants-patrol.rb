@@ -5,7 +5,6 @@ cask 'dafont-pants-patrol' do
     url 'http://dl.dafont.com/dl/?f=pants_patrol'
     name 'Pants Patrol'
     homepage 'http://www.dafont.com/pants-patrol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pantspatrol.ttf'
 end

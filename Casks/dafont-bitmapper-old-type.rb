@@ -5,7 +5,6 @@ cask 'dafont-bitmapper-old-type' do
     url 'http://dl.dafont.com/dl/?f=bitmapper_old_type'
     name 'Bitmapper Old Type'
     homepage 'http://www.dafont.com/bitmapper-old-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BITMO___.TTF'
 end

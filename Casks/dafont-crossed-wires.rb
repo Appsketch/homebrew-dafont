@@ -5,7 +5,6 @@ cask 'dafont-crossed-wires' do
     url 'http://dl.dafont.com/dl/?f=crossed_wires'
     name 'Crossed Wires'
     homepage 'http://www.dafont.com/crossed-wires.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrossedWires-Condensed.otf'
 end

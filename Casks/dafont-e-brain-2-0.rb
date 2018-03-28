@@ -5,7 +5,6 @@ cask 'dafont-e-brain-2-0' do
     url 'http://dl.dafont.com/dl/?f=e_brain_2_0'
     name 'E-Brain 2.0'
     homepage 'http://www.dafont.com/e-brain-2-0.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'E-BRAIN2.TTF'
 end

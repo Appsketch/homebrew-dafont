@@ -5,7 +5,6 @@ cask 'dafont-tank-junior' do
     url 'http://dl.dafont.com/dl/?f=tank_junior'
     name 'Tank Junior'
     homepage 'http://www.dafont.com/tank-junior.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TANKJ___.TTF'
 end

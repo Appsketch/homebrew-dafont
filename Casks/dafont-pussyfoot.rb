@@ -5,7 +5,6 @@ cask 'dafont-pussyfoot' do
     url 'http://dl.dafont.com/dl/?f=pussyfoot'
     name 'Pussyfoot'
     homepage 'http://www.dafont.com/pussyfoot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PUSSYFOO.TTF'
 end

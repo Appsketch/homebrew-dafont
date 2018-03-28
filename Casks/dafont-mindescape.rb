@@ -5,7 +5,6 @@ cask 'dafont-mindescape' do
     url 'http://dl.dafont.com/dl/?f=mindescape'
     name 'Mind Escape'
     homepage 'http://www.dafont.com/mindescape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MindEscape1.ttf'
 end

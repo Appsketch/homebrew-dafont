@@ -5,7 +5,6 @@ cask 'dafont-bit01' do
     url 'http://dl.dafont.com/dl/?f=bit01'
     name 'Bit-01: Cube 16 Remix'
     homepage 'http://www.dafont.com/bit01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bit01.ttf'
 end

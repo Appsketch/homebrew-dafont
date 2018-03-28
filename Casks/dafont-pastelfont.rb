@@ -5,7 +5,6 @@ cask 'dafont-pastelfont' do
     url 'http://dl.dafont.com/dl/?f=pastelfont'
     name 'Pastelfont'
     homepage 'http://www.dafont.com/pastelfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pastelfont.ttf'
 end

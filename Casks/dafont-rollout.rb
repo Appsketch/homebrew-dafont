@@ -5,7 +5,6 @@ cask 'dafont-rollout' do
     url 'http://dl.dafont.com/dl/?f=rollout'
     name 'Rollout'
     homepage 'http://www.dafont.com/rollout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROLLOB.TTF'
     font 'ROLLOBO.TTF'

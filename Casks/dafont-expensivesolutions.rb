@@ -5,7 +5,6 @@ cask 'dafont-expensivesolutions' do
     url 'http://dl.dafont.com/dl/?f=expensivesolutions'
     name 'Expensive Solutions'
     homepage 'http://www.dafont.com/expensivesolutions.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExpensiveSolutions.ttf'
 end

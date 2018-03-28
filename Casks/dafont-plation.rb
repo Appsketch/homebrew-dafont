@@ -5,7 +5,6 @@ cask 'dafont-plation' do
     url 'http://dl.dafont.com/dl/?f=plation'
     name 'Plation'
     homepage 'http://www.dafont.com/plation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLATION.ttf'
 end

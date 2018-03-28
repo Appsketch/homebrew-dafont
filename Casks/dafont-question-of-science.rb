@@ -5,7 +5,6 @@ cask 'dafont-question-of-science' do
     url 'http://dl.dafont.com/dl/?f=question_of_science'
     name 'Question of Science'
     homepage 'http://www.dafont.com/question-of-science.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Question Of Science.ttf'
 end

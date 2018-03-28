@@ -5,7 +5,6 @@ cask 'dafont-nightmare-ink' do
     url 'http://dl.dafont.com/dl/?f=nightmare_ink'
     name 'Nightmare Ink'
     homepage 'http://www.dafont.com/nightmare-ink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nightmare Ink Italic.otf'
     font 'Nightmare Ink.otf'

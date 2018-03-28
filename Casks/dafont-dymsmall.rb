@@ -5,7 +5,6 @@ cask 'dafont-dymsmall' do
     url 'http://dl.dafont.com/dl/?f=dymsmall'
     name 'Dymsmall'
     homepage 'http://www.dafont.com/dymsmall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dymsmall.ttf'
 end

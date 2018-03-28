@@ -5,7 +5,6 @@ cask 'dafont-joannetictac' do
     url 'http://dl.dafont.com/dl/?f=joannetictac'
     name 'Joanne Tic Tac'
     homepage 'http://www.dafont.com/joannetictac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JoanneTicTac.otf'
 end

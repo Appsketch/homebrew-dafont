@@ -5,7 +5,6 @@ cask 'dafont-djb-downstairs-at-the-abbey' do
     url 'http://dl.dafont.com/dl/?f=djb_downstairs_at_the_abbey'
     name 'DJB Downstairs at the Abbey'
     homepage 'http://www.dafont.com/djb-downstairs-at-the-abbey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Downstairs at the Abbey.ttf'
 end

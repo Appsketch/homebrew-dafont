@@ -5,7 +5,6 @@ cask 'dafont-oilhand' do
     url 'http://dl.dafont.com/dl/?f=oilhand'
     name 'Oilhand'
     homepage 'http://www.dafont.com/oilhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'oilhand.ttf'
 end

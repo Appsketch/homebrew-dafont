@@ -5,7 +5,6 @@ cask 'dafont-comet' do
     url 'http://dl.dafont.com/dl/?f=comet'
     name 'Comet'
     homepage 'http://www.dafont.com/comet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COMEN___.TTF'
     font 'COMEP___.TTF'

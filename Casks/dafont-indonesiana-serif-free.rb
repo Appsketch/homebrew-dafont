@@ -5,7 +5,6 @@ cask 'dafont-indonesiana-serif-free' do
     url 'http://dl.dafont.com/dl/?f=indonesiana_serif_free'
     name 'FTF Indonesiana Serif'
     homepage 'http://www.dafont.com/indonesiana-serif-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Indonesiana Serif ;).ttf'
     font 'FTF Indonesiana Sketch Book Serif.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-michelle-digital-handwritten' do
     url 'http://dl.dafont.com/dl/?f=michelle_digital_handwritten'
     name 'Michelle Digital Handwritten'
     homepage 'http://www.dafont.com/michelle-digital-handwritten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'michelle digital handwritten.ttf'
 end

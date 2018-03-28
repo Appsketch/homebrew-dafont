@@ -5,7 +5,6 @@ cask 'dafont-yukon-gold' do
     url 'http://dl.dafont.com/dl/?f=yukon_gold'
     name 'Yukon Gold'
     homepage 'http://www.dafont.com/yukon-gold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yukon Gold.ttf'
 end

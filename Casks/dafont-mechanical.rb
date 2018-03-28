@@ -5,7 +5,6 @@ cask 'dafont-mechanical' do
     url 'http://dl.dafont.com/dl/?f=mechanical'
     name 'Mechanical'
     homepage 'http://www.dafont.com/mechanical.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mechanical.ttf'
 end

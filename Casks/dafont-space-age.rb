@@ -5,7 +5,6 @@ cask 'dafont-space-age' do
     url 'http://dl.dafont.com/dl/?f=space_age'
     name 'Space Age'
     homepage 'http://www.dafont.com/space-age.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'space age.ttf'
 end

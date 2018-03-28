@@ -5,7 +5,6 @@ cask 'dafont-superdog1' do
     url 'http://dl.dafont.com/dl/?f=superdog1'
     name 'SuperDog 1'
     homepage 'http://www.dafont.com/superdog1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Superdog1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sidewalk' do
     url 'http://dl.dafont.com/dl/?f=sidewalk'
     name 'Sidewalk'
     homepage 'http://www.dafont.com/sidewalk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sidewalk.ttf'
 end

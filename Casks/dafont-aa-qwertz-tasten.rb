@@ -5,7 +5,6 @@ cask 'dafont-aa-qwertz-tasten' do
     url 'http://dl.dafont.com/dl/?f=aa_qwertz_tasten'
     name 'Aa Qwertz-Tasten'
     homepage 'http://www.dafont.com/aa-qwertz-tasten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aaQwertz-Tasten.ttf'
 end

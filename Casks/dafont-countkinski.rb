@@ -5,7 +5,6 @@ cask 'dafont-countkinski' do
     url 'http://dl.dafont.com/dl/?f=countkinski'
     name 'Count Kinski'
     homepage 'http://www.dafont.com/countkinski.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'countkinski.ttf'
 end

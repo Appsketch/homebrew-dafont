@@ -5,7 +5,6 @@ cask 'dafont-cross-out' do
     url 'http://dl.dafont.com/dl/?f=cross_out'
     name 'Cross Out'
     homepage 'http://www.dafont.com/cross-out.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cross Out.ttf'
 end

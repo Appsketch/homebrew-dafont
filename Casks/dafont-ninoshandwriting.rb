@@ -5,7 +5,6 @@ cask 'dafont-ninoshandwriting' do
     url 'http://dl.dafont.com/dl/?f=ninoshandwriting'
     name 'Ninoshandwriting'
     homepage 'http://www.dafont.com/ninoshandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ninoshandwriting.ttf'
 end

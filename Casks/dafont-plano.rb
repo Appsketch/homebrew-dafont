@@ -5,7 +5,6 @@ cask 'dafont-plano' do
     url 'http://dl.dafont.com/dl/?f=plano'
     name 'Plano'
     homepage 'http://www.dafont.com/plano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plano.ttf'
 end

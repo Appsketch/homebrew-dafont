@@ -5,7 +5,6 @@ cask 'dafont-balham' do
     url 'http://dl.dafont.com/dl/?f=balham'
     name 'Balham'
     homepage 'http://www.dafont.com/balham.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Balham.otf'
 end

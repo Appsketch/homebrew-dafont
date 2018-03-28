@@ -5,7 +5,6 @@ cask 'dafont-parisbydaylight' do
     url 'http://dl.dafont.com/dl/?f=parisbydaylight'
     name 'Paris By Daylight'
     homepage 'http://www.dafont.com/parisbydaylight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paris By Daylight.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nato-phonetic-alphabet' do
     url 'http://dl.dafont.com/dl/?f=nato_phonetic_alphabet'
     name 'Nato Phonetic Alphabet'
     homepage 'http://www.dafont.com/nato-phonetic-alphabet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NATO Phonetic Alphabet.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bambhout-connect-trial' do
     url 'http://dl.dafont.com/dl/?f=bambhout_connect_trial'
     name 'Bambhout Connect'
     homepage 'http://www.dafont.com/bambhout-connect-trial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bambhout Connect trial.ttf'
 end

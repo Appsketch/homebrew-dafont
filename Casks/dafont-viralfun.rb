@@ -5,7 +5,6 @@ cask 'dafont-viralfun' do
     url 'http://dl.dafont.com/dl/?f=viralfun'
     name 'Viral Fun'
     homepage 'http://www.dafont.com/viralfun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ViralFun.ttf'
 end

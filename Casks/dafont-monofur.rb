@@ -5,7 +5,6 @@ cask 'dafont-monofur' do
     url 'http://dl.dafont.com/dl/?f=monofur'
     name 'Monofur'
     homepage 'http://www.dafont.com/monofur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monof55.ttf'
     font 'monof56.ttf'

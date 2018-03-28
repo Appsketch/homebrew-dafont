@@ -5,7 +5,6 @@ cask 'dafont-t-a-t-u' do
     url 'http://dl.dafont.com/dl/?f=t_a_t_u'
     name 'Tatu LA'
     homepage 'http://www.dafont.com/t-a-t-u.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tatu_font.ttf'
 end

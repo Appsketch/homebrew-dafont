@@ -5,7 +5,6 @@ cask 'dafont-katas' do
     url 'http://dl.dafont.com/dl/?f=katas'
     name 'Katas'
     homepage 'http://www.dafont.com/katas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Katas.ttf'
 end

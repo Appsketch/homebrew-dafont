@@ -5,7 +5,6 @@ cask 'dafont-pwchildren' do
     url 'http://dl.dafont.com/dl/?f=pwchildren'
     name 'PW Children'
     homepage 'http://www.dafont.com/pwchildren.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWChildren.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pluvia' do
     url 'http://dl.dafont.com/dl/?f=pluvia'
     name 'Pluvia'
     homepage 'http://www.dafont.com/pluvia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pluvialight.ttf'
 end

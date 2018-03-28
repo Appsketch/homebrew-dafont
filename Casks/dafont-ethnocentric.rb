@@ -5,7 +5,6 @@ cask 'dafont-ethnocentric' do
     url 'http://dl.dafont.com/dl/?f=ethnocentric'
     name 'Ethnocentric'
     homepage 'http://www.dafont.com/ethnocentric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ethnocentric rg it.ttf'
     font 'ethnocentric rg.ttf'

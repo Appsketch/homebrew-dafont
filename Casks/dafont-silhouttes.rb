@@ -5,7 +5,6 @@ cask 'dafont-silhouttes' do
     url 'http://dl.dafont.com/dl/?f=silhouttes'
     name 'Silhouttes'
     homepage 'http://www.dafont.com/silhouttes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Silhoutte.ttf'
 end

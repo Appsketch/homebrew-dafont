@@ -5,7 +5,6 @@ cask 'dafont-gita-script' do
     url 'http://dl.dafont.com/dl/?f=gita_script'
     name 'Gita Script'
     homepage 'http://www.dafont.com/gita-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gita Script.ttf'
 end

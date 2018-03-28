@@ -5,7 +5,6 @@ cask 'dafont-ageone-serif' do
     url 'http://dl.dafont.com/dl/?f=ageone_serif'
     name 'Ageone Serif'
     homepage 'http://www.dafont.com/ageone-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ageone_serif.ttf'
 end

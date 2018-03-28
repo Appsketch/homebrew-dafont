@@ -5,7 +5,6 @@ cask 'dafont-tobin-tax' do
     url 'http://dl.dafont.com/dl/?f=tobin_tax'
     name 'Tobin Tax'
     homepage 'http://www.dafont.com/tobin-tax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tobin tax.ttf'
 end

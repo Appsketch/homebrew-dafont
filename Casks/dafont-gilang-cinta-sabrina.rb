@@ -5,7 +5,6 @@ cask 'dafont-gilang-cinta-sabrina' do
     url 'http://dl.dafont.com/dl/?f=gilang_cinta_sabrina'
     name 'Gilang Cinta Sabrina'
     homepage 'http://www.dafont.com/gilang-cinta-sabrina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gilang Cinta Sabrina.otf'
 end

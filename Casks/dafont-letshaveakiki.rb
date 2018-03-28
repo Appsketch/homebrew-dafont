@@ -5,7 +5,6 @@ cask 'dafont-letshaveakiki' do
     url 'http://dl.dafont.com/dl/?f=letshaveakiki'
     name 'Lets Have A Kiki'
     homepage 'http://www.dafont.com/letshaveakiki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LetsHaveAKiki.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-motherfunker' do
     url 'http://dl.dafont.com/dl/?f=motherfunker'
     name 'Motherfunker'
     homepage 'http://www.dafont.com/motherfunker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Motherfunker.ttf'
 end

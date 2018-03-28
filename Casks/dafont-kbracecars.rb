@@ -5,7 +5,6 @@ cask 'dafont-kbracecars' do
     url 'http://dl.dafont.com/dl/?f=kbracecars'
     name 'KB Racecars'
     homepage 'http://www.dafont.com/kbracecars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBRacecars.ttf'
 end

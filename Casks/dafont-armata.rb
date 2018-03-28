@@ -5,7 +5,6 @@ cask 'dafont-armata' do
     url 'http://dl.dafont.com/dl/?f=armata'
     name 'Armata'
     homepage 'http://www.dafont.com/armata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Armata-Regular.ttf'
 end

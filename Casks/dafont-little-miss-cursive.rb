@@ -5,7 +5,6 @@ cask 'dafont-little-miss-cursive' do
     url 'http://dl.dafont.com/dl/?f=little_miss_cursive'
     name 'Little Miss Cursive'
     homepage 'http://www.dafont.com/little-miss-cursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Little Miss Cursive.ttf'
 end

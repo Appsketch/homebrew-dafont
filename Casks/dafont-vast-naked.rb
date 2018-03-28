@@ -5,7 +5,6 @@ cask 'dafont-vast-naked' do
     url 'http://dl.dafont.com/dl/?f=vast_naked'
     name 'VAST Naked'
     homepage 'http://www.dafont.com/vast-naked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VASTN___.TTF'
 end

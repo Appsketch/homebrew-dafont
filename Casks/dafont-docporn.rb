@@ -5,7 +5,6 @@ cask 'dafont-docporn' do
     url 'http://dl.dafont.com/dl/?f=docporn'
     name 'Docporn'
     homepage 'http://www.dafont.com/docporn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doc_porn_.ttf'
 end

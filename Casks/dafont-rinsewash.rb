@@ -5,7 +5,6 @@ cask 'dafont-rinsewash' do
     url 'http://dl.dafont.com/dl/?f=rinsewash'
     name 'Rinse Wash'
     homepage 'http://www.dafont.com/rinsewash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RinseWash.ttf'
 end

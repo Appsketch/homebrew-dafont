@@ -5,7 +5,6 @@ cask 'dafont-digital-dust' do
     url 'http://dl.dafont.com/dl/?f=digital_dust'
     name 'Digital Dust'
     homepage 'http://www.dafont.com/digital-dust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digital Dust.otf'
 end

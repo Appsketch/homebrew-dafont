@@ -5,7 +5,6 @@ cask 'dafont-allstar' do
     url 'http://dl.dafont.com/dl/?f=allstar'
     name 'Allstar'
     homepage 'http://www.dafont.com/allstar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'All Star Resort.ttf'
 end

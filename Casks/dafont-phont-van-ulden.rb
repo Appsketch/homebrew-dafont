@@ -5,7 +5,6 @@ cask 'dafont-phont-van-ulden' do
     url 'http://dl.dafont.com/dl/?f=phont_van_ulden'
     name 'Phont Van Ulden'
     homepage 'http://www.dafont.com/phont-van-ulden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phont Van Ulden.ttf'
 end

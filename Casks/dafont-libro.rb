@@ -5,7 +5,6 @@ cask 'dafont-libro' do
     url 'http://dl.dafont.com/dl/?f=libro'
     name 'Libro'
     homepage 'http://www.dafont.com/libro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Libro.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-princess-lulu' do
     url 'http://dl.dafont.com/dl/?f=princess_lulu'
     name 'Princess Lulu'
     homepage 'http://www.dafont.com/princess-lulu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'princessSW.ttf'
 end

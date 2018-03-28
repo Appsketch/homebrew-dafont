@@ -5,7 +5,6 @@ cask 'dafont-bpreplay' do
     url 'http://dl.dafont.com/dl/?f=bpreplay'
     name 'BPreplay'
     homepage 'http://www.dafont.com/bpreplay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BPreplay.otf'
     font 'BPreplayBold.otf'

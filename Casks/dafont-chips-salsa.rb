@@ -5,7 +5,6 @@ cask 'dafont-chips-salsa' do
     url 'http://dl.dafont.com/dl/?f=chips_salsa'
     name 'Chips &amp; Salsa'
     homepage 'http://www.dafont.com/chips-salsa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chips &amp; Salsa.ttf'
 end

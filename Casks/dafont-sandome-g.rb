@@ -5,7 +5,6 @@ cask 'dafont-sandome-g' do
     url 'http://dl.dafont.com/dl/?f=sandome_g'
     name 'Sandome G'
     homepage 'http://www.dafont.com/sandome-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_sandome.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rain-neer' do
     url 'http://dl.dafont.com/dl/?f=rain_neer'
     name 'Rain &amp; Neer'
     homepage 'http://www.dafont.com/rain-neer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rain&amp;neer.otf'
 end

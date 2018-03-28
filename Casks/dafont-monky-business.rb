@@ -5,7 +5,6 @@ cask 'dafont-monky-business' do
     url 'http://dl.dafont.com/dl/?f=monky_business'
     name 'Monky Business'
     homepage 'http://www.dafont.com/monky-business.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MonkyBusiness.ttf'
 end

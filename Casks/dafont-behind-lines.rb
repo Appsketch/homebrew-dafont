@@ -5,7 +5,6 @@ cask 'dafont-behind-lines' do
     url 'http://dl.dafont.com/dl/?f=behind_lines'
     name 'Behind Lines'
     homepage 'http://www.dafont.com/behind-lines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Behind Lines.ttf'
 end

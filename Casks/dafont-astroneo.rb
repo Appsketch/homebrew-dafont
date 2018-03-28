@@ -5,7 +5,6 @@ cask 'dafont-astroneo' do
     url 'http://dl.dafont.com/dl/?f=astroneo'
     name 'Astroneo'
     homepage 'http://www.dafont.com/astroneo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASTRONEO.ttf'
 end

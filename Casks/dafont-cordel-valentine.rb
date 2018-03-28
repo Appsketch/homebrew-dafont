@@ -5,7 +5,6 @@ cask 'dafont-cordel-valentine' do
     url 'http://dl.dafont.com/dl/?f=cordel_valentine'
     name 'Cordel Valentine'
     homepage 'http://www.dafont.com/cordel-valentine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cordel Valentine.ttf'
 end

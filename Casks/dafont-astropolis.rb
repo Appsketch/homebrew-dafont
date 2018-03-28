@@ -5,7 +5,6 @@ cask 'dafont-astropolis' do
     url 'http://dl.dafont.com/dl/?f=astropolis'
     name 'Astropolis'
     homepage 'http://www.dafont.com/astropolis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'astropolis.ttf'
     font 'astropolis3d.ttf'

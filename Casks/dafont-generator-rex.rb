@@ -5,7 +5,6 @@ cask 'dafont-generator-rex' do
     url 'http://dl.dafont.com/dl/?f=generator_rex'
     name 'Generator Rex'
     homepage 'http://www.dafont.com/generator-rex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Generator REX.ttf'
 end

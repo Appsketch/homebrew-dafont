@@ -5,7 +5,6 @@ cask 'dafont-soniano-sans-unicode' do
     url 'http://dl.dafont.com/dl/?f=soniano_sans_unicode'
     name 'Soniano Sans Unicode'
     homepage 'http://www.dafont.com/soniano-sans-unicode.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Soniano Sans Unicode Regular.ttf'
 end

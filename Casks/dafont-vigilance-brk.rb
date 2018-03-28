@@ -5,7 +5,6 @@ cask 'dafont-vigilance-brk' do
     url 'http://dl.dafont.com/dl/?f=vigilance_brk'
     name 'Vigilance BRK'
     homepage 'http://www.dafont.com/vigilance-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vigilanc.ttf'
 end

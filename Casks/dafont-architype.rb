@@ -5,7 +5,6 @@ cask 'dafont-architype' do
     url 'http://dl.dafont.com/dl/?f=architype'
     name 'Architype'
     homepage 'http://www.dafont.com/architype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'architype.ttf'
 end

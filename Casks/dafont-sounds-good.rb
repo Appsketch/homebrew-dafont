@@ -5,7 +5,6 @@ cask 'dafont-sounds-good' do
     url 'http://dl.dafont.com/dl/?f=sounds_good'
     name 'Sounds Good'
     homepage 'http://www.dafont.com/sounds-good.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sounds  Good.ttf'
 end

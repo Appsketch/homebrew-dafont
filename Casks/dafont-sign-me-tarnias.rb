@@ -5,7 +5,6 @@ cask 'dafont-sign-me-tarnias' do
     url 'http://dl.dafont.com/dl/?f=sign_me_tarnias'
     name 'Sign Me Tarnias'
     homepage 'http://www.dafont.com/sign-me-tarnias.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SignMeTarnias.ttf'
 end

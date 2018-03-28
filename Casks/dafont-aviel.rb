@@ -5,7 +5,6 @@ cask 'dafont-aviel' do
     url 'http://dl.dafont.com/dl/?f=aviel'
     name 'Aviel'
     homepage 'http://www.dafont.com/aviel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aviel Bold.ttf'
     font 'Aviel Light.ttf'

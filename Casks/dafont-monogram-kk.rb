@@ -5,7 +5,6 @@ cask 'dafont-monogram-kk' do
     url 'http://dl.dafont.com/dl/?f=monogram_kk'
     name 'Monogram KK'
     homepage 'http://www.dafont.com/monogram-kk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monogram kk sc.ttf'
 end

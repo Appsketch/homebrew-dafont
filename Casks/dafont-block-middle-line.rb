@@ -5,7 +5,6 @@ cask 'dafont-block-middle-line' do
     url 'http://dl.dafont.com/dl/?f=block_middle_line'
     name 'Block &amp; Middle Line'
     homepage 'http://www.dafont.com/block-middle-line.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Block &amp; middle line.ttf'
 end

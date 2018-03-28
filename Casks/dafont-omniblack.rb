@@ -5,7 +5,6 @@ cask 'dafont-omniblack' do
     url 'http://dl.dafont.com/dl/?f=omniblack'
     name 'Omniblack'
     homepage 'http://www.dafont.com/omniblack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OMNIBLACK_demo.otf'
     font 'OMNIBLACK_italic_demo.otf'

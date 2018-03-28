@@ -5,7 +5,6 @@ cask 'dafont-undergroundevent' do
     url 'http://dl.dafont.com/dl/?f=undergroundevent'
     name 'Underground Event'
     homepage 'http://www.dafont.com/undergroundevent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UndergroundEvent.ttf'
 end

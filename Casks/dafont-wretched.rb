@@ -5,7 +5,6 @@ cask 'dafont-wretched' do
     url 'http://dl.dafont.com/dl/?f=wretched'
     name 'Wretched'
     homepage 'http://www.dafont.com/wretched.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WRETRG__.TTF'
 end

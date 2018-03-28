@@ -5,7 +5,6 @@ cask 'dafont-cry-baby' do
     url 'http://dl.dafont.com/dl/?f=cry_baby'
     name 'Cry Baby'
     homepage 'http://www.dafont.com/cry-baby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cry_Baby.ttf'
 end

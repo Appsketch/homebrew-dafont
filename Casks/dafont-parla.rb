@@ -5,7 +5,6 @@ cask 'dafont-parla' do
     url 'http://dl.dafont.com/dl/?f=parla'
     name 'Parla'
     homepage 'http://www.dafont.com/parla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'parla.ttf'
 end

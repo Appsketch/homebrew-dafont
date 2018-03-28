@@ -5,7 +5,6 @@ cask 'dafont-vt-portable-remingt' do
     url 'http://dl.dafont.com/dl/?f=vt_portable_remingt'
     name 'VT Portable Remington'
     homepage 'http://www.dafont.com/vt-portable-remingt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtRemingtonPortable.ttf'
 end

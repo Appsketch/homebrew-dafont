@@ -5,7 +5,6 @@ cask 'dafont-pilsen-plakat' do
     url 'http://dl.dafont.com/dl/?f=pilsen_plakat'
     name 'Pilsen Plakat'
     homepage 'http://www.dafont.com/pilsen-plakat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PilsenPlakat.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ornament-mix' do
     url 'http://dl.dafont.com/dl/?f=ornament_mix'
     name 'Ornament Mix'
     homepage 'http://www.dafont.com/ornament-mix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ornamentmix.ttf'
 end

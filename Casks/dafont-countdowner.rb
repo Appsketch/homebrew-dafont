@@ -5,7 +5,6 @@ cask 'dafont-countdowner' do
     url 'http://dl.dafont.com/dl/?f=countdowner'
     name 'Countdowner'
     homepage 'http://www.dafont.com/countdowner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Countdowner.ttf'
 end

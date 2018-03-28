@@ -5,7 +5,6 @@ cask 'dafont-ive-seen-that-face-before' do
     url 'http://dl.dafont.com/dl/?f=ive_seen_that_face_before'
     name 'I&#039;ve seen that face before'
     homepage 'http://www.dafont.com/ive-seen-that-face-before.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I&#039;ve seen that face before.ttf'
 end

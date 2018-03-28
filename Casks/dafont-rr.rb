@@ -5,7 +5,6 @@ cask 'dafont-rr' do
     url 'http://dl.dafont.com/dl/?f=rr'
     name 'RR Ruitjes'
     homepage 'http://www.dafont.com/rr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ruitjes.ttf'
 end

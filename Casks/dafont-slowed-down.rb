@@ -5,7 +5,6 @@ cask 'dafont-slowed-down' do
     url 'http://dl.dafont.com/dl/?f=slowed_down'
     name 'Slowed Down'
     homepage 'http://www.dafont.com/slowed-down.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slowed Down.otf'
 end

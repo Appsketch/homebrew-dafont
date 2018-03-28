@@ -5,7 +5,6 @@ cask 'dafont-scarecamp' do
     url 'http://dl.dafont.com/dl/?f=scarecamp'
     name 'Scare Camp'
     homepage 'http://www.dafont.com/scarecamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ScareCamp.ttf'
 end

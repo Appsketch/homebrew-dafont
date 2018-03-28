@@ -5,7 +5,6 @@ cask 'dafont-care-bears-by-iacy' do
     url 'http://dl.dafont.com/dl/?f=care_bears_by_iacy'
     name 'Care Bears'
     homepage 'http://www.dafont.com/care-bears-by-iacy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'carebearsbyIacy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-german-underground' do
     url 'http://dl.dafont.com/dl/?f=german_underground'
     name 'German Underground'
     homepage 'http://www.dafont.com/german-underground.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'german____underground.ttf'
 end

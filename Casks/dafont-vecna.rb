@@ -5,7 +5,6 @@ cask 'dafont-vecna' do
     url 'http://dl.dafont.com/dl/?f=vecna'
     name 'Vecna'
     homepage 'http://www.dafont.com/vecna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vecna Bold Italic.otf'
     font 'Vecna Bold.otf'

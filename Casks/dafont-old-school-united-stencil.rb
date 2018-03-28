@@ -5,7 +5,6 @@ cask 'dafont-old-school-united-stencil' do
     url 'http://dl.dafont.com/dl/?f=old_school_united_stencil'
     name 'Old School United Stencil'
     homepage 'http://www.dafont.com/old-school-united-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'old_school_united_stencil_italic.ttf'
     font 'old_school_united_stencil.ttf'

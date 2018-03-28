@@ -5,7 +5,6 @@ cask 'dafont-konztante' do
     url 'http://dl.dafont.com/dl/?f=konztante'
     name 'Konztante'
     homepage 'http://www.dafont.com/konztante.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Konztante Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-super-mario-64-ds' do
     url 'http://dl.dafont.com/dl/?f=super_mario_64_ds'
     name 'Super Mario 64 DS'
     homepage 'http://www.dafont.com/super-mario-64-ds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Super-Mario-64-DS.ttf'
 end

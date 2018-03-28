@@ -5,7 +5,6 @@ cask 'dafont-llfaktotum' do
     url 'http://dl.dafont.com/dl/?f=llfaktotum'
     name 'LL Faktotum'
     homepage 'http://www.dafont.com/llfaktotum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLFAKTOT.TTF'
 end

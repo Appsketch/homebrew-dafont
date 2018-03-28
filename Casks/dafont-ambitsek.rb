@@ -5,7 +5,6 @@ cask 'dafont-ambitsek' do
     url 'http://dl.dafont.com/dl/?f=ambitsek'
     name 'Ambitsek'
     homepage 'http://www.dafont.com/ambitsek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ambitsek.ttf'
 end

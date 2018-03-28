@@ -5,7 +5,6 @@ cask 'dafont-greek-house-fat' do
     url 'http://dl.dafont.com/dl/?f=greek_house_fat'
     name 'Greek House Fat'
     homepage 'http://www.dafont.com/greek-house-fat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreekHouse FatHouse2.ttf'
 end

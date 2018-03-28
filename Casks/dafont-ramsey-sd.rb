@@ -5,7 +5,6 @@ cask 'dafont-ramsey-sd' do
     url 'http://dl.dafont.com/dl/?f=ramsey_sd'
     name 'Ramsey SD'
     homepage 'http://www.dafont.com/ramsey-sd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ramsey SD.ttf'
 end

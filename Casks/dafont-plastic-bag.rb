@@ -5,7 +5,6 @@ cask 'dafont-plastic-bag' do
     url 'http://dl.dafont.com/dl/?f=plastic_bag'
     name 'Plastic Bag'
     homepage 'http://www.dafont.com/plastic-bag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'plastic bag.ttf'
 end

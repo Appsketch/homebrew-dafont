@@ -5,7 +5,6 @@ cask 'dafont-breakfromtoronto' do
     url 'http://dl.dafont.com/dl/?f=breakfromtoronto'
     name 'Break From Toronto'
     homepage 'http://www.dafont.com/breakfromtoronto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BreakFromToronto.ttf'
 end

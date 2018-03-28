@@ -5,7 +5,6 @@ cask 'dafont-jcgr61' do
     url 'http://dl.dafont.com/dl/?f=jcgr61'
     name 'Jcgr61'
     homepage 'http://www.dafont.com/jcgr61.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jcgr61.ttf'
 end

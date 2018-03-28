@@ -5,7 +5,6 @@ cask 'dafont-janda-someone-like-you' do
     url 'http://dl.dafont.com/dl/?f=janda_someone_like_you'
     name 'Janda Someone Like You'
     homepage 'http://www.dafont.com/janda-someone-like-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaSomeoneLikeYou.ttf'
     font 'JandaSomeoneLikeYou2.ttf'

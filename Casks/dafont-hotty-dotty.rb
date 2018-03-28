@@ -5,7 +5,6 @@ cask 'dafont-hotty-dotty' do
     url 'http://dl.dafont.com/dl/?f=hotty_dotty'
     name 'Hotty Dotty'
     homepage 'http://www.dafont.com/hotty-dotty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hotty_Dotty.otf'
 end

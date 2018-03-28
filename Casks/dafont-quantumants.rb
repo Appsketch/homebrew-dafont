@@ -5,7 +5,6 @@ cask 'dafont-quantumants' do
     url 'http://dl.dafont.com/dl/?f=quantumants'
     name 'Quantum Ants'
     homepage 'http://www.dafont.com/quantumants.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuantumAnts.ttf'
 end

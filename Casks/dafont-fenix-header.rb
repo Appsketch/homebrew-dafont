@@ -5,7 +5,6 @@ cask 'dafont-fenix-header' do
     url 'http://dl.dafont.com/dl/?f=fenix_header'
     name 'Fenix Header'
     homepage 'http://www.dafont.com/fenix-header.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FENIXHEA.TTF'
 end

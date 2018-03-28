@@ -5,7 +5,6 @@ cask 'dafont-suede' do
     url 'http://dl.dafont.com/dl/?f=suede'
     name 'Suede'
     homepage 'http://www.dafont.com/suede.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'suede.ttf'
 end

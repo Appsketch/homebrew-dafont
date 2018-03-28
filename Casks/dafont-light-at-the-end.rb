@@ -5,7 +5,6 @@ cask 'dafont-light-at-the-end' do
     url 'http://dl.dafont.com/dl/?f=light_at_the_end'
     name 'Light at the end'
     homepage 'http://www.dafont.com/light-at-the-end.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Light at the end.ttf'
 end

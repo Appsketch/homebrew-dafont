@@ -5,7 +5,6 @@ cask 'dafont-promotion-script' do
     url 'http://dl.dafont.com/dl/?f=promotion_script'
     name 'Promotion Script'
     homepage 'http://www.dafont.com/promotion-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Promotion Script.ttf'
 end

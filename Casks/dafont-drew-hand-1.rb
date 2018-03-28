@@ -5,7 +5,6 @@ cask 'dafont-drew-hand-1' do
     url 'http://dl.dafont.com/dl/?f=drew_hand_1'
     name 'Drew Hand 1'
     homepage 'http://www.dafont.com/drew-hand-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drew Hand 1.ttf'
 end

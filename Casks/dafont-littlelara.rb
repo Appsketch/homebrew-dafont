@@ -5,7 +5,6 @@ cask 'dafont-littlelara' do
     url 'http://dl.dafont.com/dl/?f=littlelara'
     name 'Little Lara'
     homepage 'http://www.dafont.com/littlelara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LittleLara.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-elronet-monospace' do
     url 'http://dl.dafont.com/dl/?f=elronet_monospace'
     name 'ElroNet Monospace'
     homepage 'http://www.dafont.com/elronet-monospace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elronmonospace.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yurine-overflow' do
     url 'http://dl.dafont.com/dl/?f=yurine_overflow'
     name 'Yurine Overflow'
     homepage 'http://www.dafont.com/yurine-overflow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yurine Overflow.ttf'
 end

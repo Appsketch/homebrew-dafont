@@ -5,7 +5,6 @@ cask 'dafont-julliscriptum-reloaded' do
     url 'http://dl.dafont.com/dl/?f=julliscriptum_reloaded'
     name 'Julliscriptum Reloaded'
     homepage 'http://www.dafont.com/julliscriptum-reloaded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Julliscriptum-Reloaded.ttf'
 end

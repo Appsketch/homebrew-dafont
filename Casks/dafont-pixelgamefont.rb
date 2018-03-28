@@ -5,7 +5,6 @@ cask 'dafont-pixelgamefont' do
     url 'http://dl.dafont.com/dl/?f=pixelgamefont'
     name 'Pixel Game Font'
     homepage 'http://www.dafont.com/pixelgamefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixelGameFont.ttf'
 end

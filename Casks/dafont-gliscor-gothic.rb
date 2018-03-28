@@ -5,7 +5,6 @@ cask 'dafont-gliscor-gothic' do
     url 'http://dl.dafont.com/dl/?f=gliscor_gothic'
     name 'Gliscor Gothic'
     homepage 'http://www.dafont.com/gliscor-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gligoth.TTF'
 end

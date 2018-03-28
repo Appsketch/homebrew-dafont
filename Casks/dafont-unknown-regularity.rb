@@ -5,7 +5,6 @@ cask 'dafont-unknown-regularity' do
     url 'http://dl.dafont.com/dl/?f=unknown_regularity'
     name 'Unknown Regularity'
     homepage 'http://www.dafont.com/unknown-regularity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UnknownRegularity.ttf'
 end

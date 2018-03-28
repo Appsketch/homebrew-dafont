@@ -5,7 +5,6 @@ cask 'dafont-kg-the-last-time' do
     url 'http://dl.dafont.com/dl/?f=kg_the_last_time'
     name 'KG The Last Time'
     homepage 'http://www.dafont.com/kg-the-last-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGTheLastTime.ttf'
     font 'KGTheLastTimeBubble.ttf'

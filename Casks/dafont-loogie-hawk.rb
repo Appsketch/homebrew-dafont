@@ -5,7 +5,6 @@ cask 'dafont-loogie-hawk' do
     url 'http://dl.dafont.com/dl/?f=loogie_hawk'
     name 'Loogie Hawk'
     homepage 'http://www.dafont.com/loogie-hawk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LoogieHawk.otf'
     font 'LoogieHawkObl.otf'

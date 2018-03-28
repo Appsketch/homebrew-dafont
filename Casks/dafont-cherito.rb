@@ -5,7 +5,6 @@ cask 'dafont-cherito' do
     url 'http://dl.dafont.com/dl/?f=cherito'
     name 'Cherito'
     homepage 'http://www.dafont.com/cherito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cherito.ttf'
 end

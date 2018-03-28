@@ -5,7 +5,6 @@ cask 'dafont-up-in-flames' do
     url 'http://dl.dafont.com/dl/?f=up_in_flames'
     name 'Up In Flames'
     homepage 'http://www.dafont.com/up-in-flames.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Up_In_Flames_Too.ttf'
     font 'Up_In_Flames.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-grixel-acme-9' do
     url 'http://dl.dafont.com/dl/?f=grixel_acme_9'
     name 'Grixel Acme 9'
     homepage 'http://www.dafont.com/grixel-acme-9.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Acme 9 Regular Bold Xtnd.ttf'
     font 'Acme 9 Regular Bold.ttf'

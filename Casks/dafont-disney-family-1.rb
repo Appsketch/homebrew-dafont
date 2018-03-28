@@ -5,7 +5,6 @@ cask 'dafont-disney-family-1' do
     url 'http://dl.dafont.com/dl/?f=disney_family_1'
     name 'Disney family 1'
     homepage 'http://www.dafont.com/disney-family-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Disney family 1.ttf'
 end

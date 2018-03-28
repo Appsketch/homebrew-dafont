@@ -5,7 +5,6 @@ cask 'dafont-presidents-of-the-united-states-of-america' do
     url 'http://dl.dafont.com/dl/?f=presidents_of_the_united_states_of_america'
     name 'Presidents of the United States of America'
     homepage 'http://www.dafont.com/presidents-of-the-united-states-of-america.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Presidents of the United States of America.ttf'
 end

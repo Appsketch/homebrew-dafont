@@ -5,7 +5,6 @@ cask 'dafont-bdp-fox' do
     url 'http://dl.dafont.com/dl/?f=bdp_fox'
     name 'BDP Fox'
     homepage 'http://www.dafont.com/bdp-fox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDP_FOX.ttf'
 end

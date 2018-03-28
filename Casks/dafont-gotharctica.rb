@@ -5,7 +5,6 @@ cask 'dafont-gotharctica' do
     url 'http://dl.dafont.com/dl/?f=gotharctica'
     name 'Gotharctica'
     homepage 'http://www.dafont.com/gotharctica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gotharctica.ttf'
     font 'gotharctica3d.ttf'

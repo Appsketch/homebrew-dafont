@@ -5,7 +5,6 @@ cask 'dafont-robotech-gp' do
     url 'http://dl.dafont.com/dl/?f=robotech_gp'
     name 'Robotech GP'
     homepage 'http://www.dafont.com/robotech-gp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROBOTECH GP.ttf'
 end

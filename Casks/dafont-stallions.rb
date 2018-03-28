@@ -5,7 +5,6 @@ cask 'dafont-stallions' do
     url 'http://dl.dafont.com/dl/?f=stallions'
     name 'Stallions'
     homepage 'http://www.dafont.com/stallions.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stallions - personnal use ONLY.ttf'
 end

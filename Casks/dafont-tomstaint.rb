@@ -5,7 +5,6 @@ cask 'dafont-tomstaint' do
     url 'http://dl.dafont.com/dl/?f=tomstaint'
     name 'Tomstaint'
     homepage 'http://www.dafont.com/tomstaint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tomstaint.ttf'
 end

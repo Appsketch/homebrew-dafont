@@ -5,7 +5,6 @@ cask 'dafont-upup-downdown' do
     url 'http://dl.dafont.com/dl/?f=upup_downdown'
     name 'UpUp DownDown'
     homepage 'http://www.dafont.com/upup-downdown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UpUp_DownDown.ttf'
 end

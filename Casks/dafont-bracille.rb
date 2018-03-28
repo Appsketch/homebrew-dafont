@@ -5,7 +5,6 @@ cask 'dafont-bracille' do
     url 'http://dl.dafont.com/dl/?f=bracille'
     name 'Bracille'
     homepage 'http://www.dafont.com/bracille.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bracille.ttf'
 end

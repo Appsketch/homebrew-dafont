@@ -5,7 +5,6 @@ cask 'dafont-the-b-o-m-b' do
     url 'http://dl.dafont.com/dl/?f=the_b_o_m_b'
     name 'The B.O.M.B. (Best Of Magurno Brushes)'
     homepage 'http://www.dafont.com/the-b-o-m-b.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THEBOMB.TTF'
 end

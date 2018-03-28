@@ -5,7 +5,6 @@ cask 'dafont-help-us-giambattist' do
     url 'http://dl.dafont.com/dl/?f=help_us_giambattist'
     name 'Help Us Giambattista'
     homepage 'http://www.dafont.com/help-us-giambattist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HelpUsGiambattista-SmallCaps.ttf'
     font 'HelpUsGiambattista.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-discotechia' do
     url 'http://dl.dafont.com/dl/?f=discotechia'
     name 'Discotechia'
     homepage 'http://www.dafont.com/discotechia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'discotechia.ttf'
     font 'discotechia3d.ttf'

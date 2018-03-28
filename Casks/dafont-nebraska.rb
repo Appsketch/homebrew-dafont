@@ -5,7 +5,6 @@ cask 'dafont-nebraska' do
     url 'http://dl.dafont.com/dl/?f=nebraska'
     name 'Nebraska'
     homepage 'http://www.dafont.com/nebraska.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nebraska-4.ttf'
 end

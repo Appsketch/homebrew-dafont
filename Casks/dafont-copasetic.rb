@@ -5,7 +5,6 @@ cask 'dafont-copasetic' do
     url 'http://dl.dafont.com/dl/?f=copasetic'
     name 'Copasetic'
     homepage 'http://www.dafont.com/copasetic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COPASETI.TTF'
 end

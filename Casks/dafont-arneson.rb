@@ -5,7 +5,6 @@ cask 'dafont-arneson' do
     url 'http://dl.dafont.com/dl/?f=arneson'
     name 'Arneson'
     homepage 'http://www.dafont.com/arneson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arneson Bold Italic.ttf'
     font 'Arneson Bold.ttf'

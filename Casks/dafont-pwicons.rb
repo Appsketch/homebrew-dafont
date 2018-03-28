@@ -5,7 +5,6 @@ cask 'dafont-pwicons' do
     url 'http://dl.dafont.com/dl/?f=pwicons'
     name 'PW Icons'
     homepage 'http://www.dafont.com/pwicons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWIcons.ttf'
 end

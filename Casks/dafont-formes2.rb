@@ -5,7 +5,6 @@ cask 'dafont-formes2' do
     url 'http://dl.dafont.com/dl/?f=formes2'
     name 'Formes 2'
     homepage 'http://www.dafont.com/formes2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'formes dcoxy.ttf'
 end

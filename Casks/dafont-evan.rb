@@ -5,7 +5,6 @@ cask 'dafont-evan' do
     url 'http://dl.dafont.com/dl/?f=evan'
     name 'Evan'
     homepage 'http://www.dafont.com/evan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Evan.otf'
 end

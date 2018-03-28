@@ -5,7 +5,6 @@ cask 'dafont-zibz' do
     url 'http://dl.dafont.com/dl/?f=zibz'
     name 'Zibz'
     homepage 'http://www.dafont.com/zibz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zibz.ttf'
 end

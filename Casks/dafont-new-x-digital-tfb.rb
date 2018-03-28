@@ -5,7 +5,6 @@ cask 'dafont-new-x-digital-tfb' do
     url 'http://dl.dafont.com/dl/?f=new_x_digital_tfb'
     name 'New X Digital TFB'
     homepage 'http://www.dafont.com/new-x-digital-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New X Digital Light tfb.ttf'
     font 'New X Digital tfb Cursive.ttf'

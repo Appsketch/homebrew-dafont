@@ -5,7 +5,6 @@ cask 'dafont-blomster' do
     url 'http://dl.dafont.com/dl/?f=blomster'
     name 'Blomster'
     homepage 'http://www.dafont.com/blomster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blomster.ttf'
 end

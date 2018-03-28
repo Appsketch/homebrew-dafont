@@ -5,7 +5,6 @@ cask 'dafont-perfectly-amicable' do
     url 'http://dl.dafont.com/dl/?f=perfectly_amicable'
     name 'Perfectly Amicable'
     homepage 'http://www.dafont.com/perfectly-amicable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'perfectly amicable.ttf'
 end

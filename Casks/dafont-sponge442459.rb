@@ -5,7 +5,6 @@ cask 'dafont-sponge442459' do
     url 'http://dl.dafont.com/dl/?f=sponge442459'
     name 'Sponge'
     homepage 'http://www.dafont.com/sponge442459.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sponge.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kr-christmas2002' do
     url 'http://dl.dafont.com/dl/?f=kr_christmas2002'
     name 'KR Christmas 2002'
     homepage 'http://www.dafont.com/kr-christmas2002.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Christmas 2002 Dings 1.ttf'
     font 'KR Christmas 2002 Dings 2.ttf'

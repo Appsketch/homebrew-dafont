@@ -5,7 +5,6 @@ cask 'dafont-retroville-nc' do
     url 'http://dl.dafont.com/dl/?f=retroville_nc'
     name 'RetroVille NC'
     homepage 'http://www.dafont.com/retroville-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Retroville NC.ttf'
 end

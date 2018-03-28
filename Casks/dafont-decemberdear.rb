@@ -5,7 +5,6 @@ cask 'dafont-decemberdear' do
     url 'http://dl.dafont.com/dl/?f=decemberdear'
     name 'December Dear'
     homepage 'http://www.dafont.com/decemberdear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DecemberDear.ttf'
 end

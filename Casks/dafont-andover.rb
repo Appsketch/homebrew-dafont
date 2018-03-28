@@ -5,7 +5,6 @@ cask 'dafont-andover' do
     url 'http://dl.dafont.com/dl/?f=andover'
     name 'Andover'
     homepage 'http://www.dafont.com/andover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANDOVER_.TTF'
 end

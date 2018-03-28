@@ -5,7 +5,6 @@ cask 'dafont-eclipse' do
     url 'http://dl.dafont.com/dl/?f=eclipse'
     name 'Eclipse'
     homepage 'http://www.dafont.com/eclipse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EclipseDEMO.ttf'
 end

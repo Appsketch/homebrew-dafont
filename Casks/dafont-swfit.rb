@@ -5,7 +5,6 @@ cask 'dafont-swfit' do
     url 'http://dl.dafont.com/dl/?f=swfit'
     name 'Swf!t'
     homepage 'http://www.dafont.com/swfit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SWF!T___.TTF'
     font 'SWFIT_SL.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-53-dollars-and-92-cents' do
     url 'http://dl.dafont.com/dl/?f=53_dollars_and_92_cents'
     name '53 Dollars And 92 Cents'
     homepage 'http://www.dafont.com/53-dollars-and-92-cents.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '53 Dollars And 92 Cents.otf'
 end

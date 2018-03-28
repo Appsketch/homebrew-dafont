@@ -5,7 +5,6 @@ cask 'dafont-gtek-nova' do
     url 'http://dl.dafont.com/dl/?f=gtek_nova'
     name 'Gtek Nova'
     homepage 'http://www.dafont.com/gtek-nova.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gtek Nova free promo.ttf'
 end

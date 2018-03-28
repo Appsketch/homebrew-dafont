@@ -5,7 +5,6 @@ cask 'dafont-tombats7' do
     url 'http://dl.dafont.com/dl/?f=tombats7'
     name 'Tombats 7'
     homepage 'http://www.dafont.com/tombats7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tombats7.ttf'
 end

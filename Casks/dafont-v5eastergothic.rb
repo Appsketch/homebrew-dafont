@@ -5,7 +5,6 @@ cask 'dafont-v5eastergothic' do
     url 'http://dl.dafont.com/dl/?f=v5eastergothic'
     name 'V5 Eastergothic'
     homepage 'http://www.dafont.com/v5eastergothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'v5easter.ttf'
 end

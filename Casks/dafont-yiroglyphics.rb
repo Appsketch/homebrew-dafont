@@ -5,7 +5,6 @@ cask 'dafont-yiroglyphics' do
     url 'http://dl.dafont.com/dl/?f=yiroglyphics'
     name 'Yiroglyphics'
     homepage 'http://www.dafont.com/yiroglyphics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yiro.ttf'
 end

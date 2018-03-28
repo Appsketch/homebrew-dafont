@@ -5,7 +5,6 @@ cask 'dafont-heartbreaker2' do
     url 'http://dl.dafont.com/dl/?f=heartbreaker2'
     name 'Heartbreaker'
     homepage 'http://www.dafont.com/heartbreaker2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heartbreaker.ttf'
 end

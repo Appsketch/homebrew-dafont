@@ -5,7 +5,6 @@ cask 'dafont-tongkonan' do
     url 'http://dl.dafont.com/dl/?f=tongkonan'
     name 'Tongkonan'
     homepage 'http://www.dafont.com/tongkonan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tongkonan-Regular.ttf'
 end

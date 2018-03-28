@@ -5,7 +5,6 @@ cask 'dafont-estella-cello' do
     url 'http://dl.dafont.com/dl/?f=estella_cello'
     name 'Estella Cello'
     homepage 'http://www.dafont.com/estella-cello.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EstellaCello.ttf'
 end

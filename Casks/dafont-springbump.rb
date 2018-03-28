@@ -5,7 +5,6 @@ cask 'dafont-springbump' do
     url 'http://dl.dafont.com/dl/?f=springbump'
     name 'Spring Bump'
     homepage 'http://www.dafont.com/springbump.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpringBump.ttf'
 end

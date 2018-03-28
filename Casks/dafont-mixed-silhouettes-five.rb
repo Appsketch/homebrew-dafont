@@ -5,7 +5,6 @@ cask 'dafont-mixed-silhouettes-five' do
     url 'http://dl.dafont.com/dl/?f=mixed_silhouettes_five'
     name 'Mixed Silhouettes Five'
     homepage 'http://www.dafont.com/mixed-silhouettes-five.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mixed Silhouettes Five.ttf'
 end

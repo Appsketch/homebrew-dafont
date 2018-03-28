@@ -5,7 +5,6 @@ cask 'dafont-vtks-deja-vu' do
     url 'http://dl.dafont.com/dl/?f=vtks_deja_vu'
     name 'VTKS Deja Vu'
     homepage 'http://www.dafont.com/vtks-deja-vu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks Deja Vu.ttf'
 end

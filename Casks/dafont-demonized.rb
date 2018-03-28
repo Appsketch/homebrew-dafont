@@ -5,7 +5,6 @@ cask 'dafont-demonized' do
     url 'http://dl.dafont.com/dl/?f=demonized'
     name 'Demonized'
     homepage 'http://www.dafont.com/demonized.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Demonized.ttf'
 end

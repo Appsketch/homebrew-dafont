@@ -5,7 +5,6 @@ cask 'dafont-stellar-kombat' do
     url 'http://dl.dafont.com/dl/?f=stellar_kombat'
     name 'Stellar Kombat'
     homepage 'http://www.dafont.com/stellar-kombat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sk.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-km-pretend' do
     url 'http://dl.dafont.com/dl/?f=km_pretend'
     name 'KM Pretend'
     homepage 'http://www.dafont.com/km-pretend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KM Pretend.ttf'
 end

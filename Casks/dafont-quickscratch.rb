@@ -5,7 +5,6 @@ cask 'dafont-quickscratch' do
     url 'http://dl.dafont.com/dl/?f=quickscratch'
     name 'Quick Scratch'
     homepage 'http://www.dafont.com/quickscratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuickScratch.ttf'
 end

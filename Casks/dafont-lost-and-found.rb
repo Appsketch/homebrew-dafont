@@ -5,7 +5,6 @@ cask 'dafont-lost-and-found' do
     url 'http://dl.dafont.com/dl/?f=lost_and_found'
     name 'Lost and Found'
     homepage 'http://www.dafont.com/lost-and-found.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lost and Found.ttf'
 end

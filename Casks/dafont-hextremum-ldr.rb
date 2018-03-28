@@ -5,7 +5,6 @@ cask 'dafont-hextremum-ldr' do
     url 'http://dl.dafont.com/dl/?f=hextremum_ldr'
     name 'Hextremum LDR'
     homepage 'http://www.dafont.com/hextremum-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hextremum_ldr.ttf'
 end

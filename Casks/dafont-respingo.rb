@@ -5,7 +5,6 @@ cask 'dafont-respingo' do
     url 'http://dl.dafont.com/dl/?f=respingo'
     name 'Respingo'
     homepage 'http://www.dafont.com/respingo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Respingo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-squiggly-asta' do
     url 'http://dl.dafont.com/dl/?f=squiggly_asta'
     name 'Squiggly Asta'
     homepage 'http://www.dafont.com/squiggly-asta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SquigglyAsta.ttf'
 end

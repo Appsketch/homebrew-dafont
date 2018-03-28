@@ -5,7 +5,6 @@ cask 'dafont-sam-brown-is-my-her' do
     url 'http://dl.dafont.com/dl/?f=sam_brown_is_my_her'
     name 'Sam Brown is My Hero'
     homepage 'http://www.dafont.com/sam-brown-is-my-her.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sambrown.ttf'
 end

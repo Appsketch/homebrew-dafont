@@ -5,7 +5,6 @@ cask 'dafont-psycho-butcher' do
     url 'http://dl.dafont.com/dl/?f=psycho_butcher'
     name 'Psycho Butcher'
     homepage 'http://www.dafont.com/psycho-butcher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'psychobutcher.ttf'
 end

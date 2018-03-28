@@ -5,7 +5,6 @@ cask 'dafont-pr-uncial-creepy' do
     url 'http://dl.dafont.com/dl/?f=pr_uncial_creepy'
     name 'PR Uncial Creepy'
     homepage 'http://www.dafont.com/pr-uncial-creepy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PR-Uncial Creepy-Narrow.ttf'
     font 'PR-Uncial Creepy-wide.ttf'

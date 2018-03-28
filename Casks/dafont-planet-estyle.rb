@@ -5,7 +5,6 @@ cask 'dafont-planet-estyle' do
     url 'http://dl.dafont.com/dl/?f=planet_estyle'
     name 'Planet Estyle'
     homepage 'http://www.dafont.com/planet-estyle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLANE___.TTF'
 end

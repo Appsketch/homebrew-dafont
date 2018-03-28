@@ -5,7 +5,6 @@ cask 'dafont-dear-annabelle' do
     url 'http://dl.dafont.com/dl/?f=dear_annabelle'
     name 'Dear Annabelle'
     homepage 'http://www.dafont.com/dear-annabelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dear Annabelle.otf'
 end

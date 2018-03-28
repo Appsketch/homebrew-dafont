@@ -5,7 +5,6 @@ cask 'dafont-lorde-havana' do
     url 'http://dl.dafont.com/dl/?f=lorde_havana'
     name 'Lorde Havana'
     homepage 'http://www.dafont.com/lorde-havana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lorde-Havana.ttf'
 end

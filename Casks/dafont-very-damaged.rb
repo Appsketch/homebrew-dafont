@@ -5,7 +5,6 @@ cask 'dafont-very-damaged' do
     url 'http://dl.dafont.com/dl/?f=very_damaged'
     name 'Very Damaged'
     homepage 'http://www.dafont.com/very-damaged.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Very Damaged.ttf'
 end

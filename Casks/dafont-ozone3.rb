@@ -5,7 +5,6 @@ cask 'dafont-ozone3' do
     url 'http://dl.dafont.com/dl/?f=ozone3'
     name 'Ozone'
     homepage 'http://www.dafont.com/ozone3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ozone.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-riau' do
     url 'http://dl.dafont.com/dl/?f=riau'
     name 'Riau'
     homepage 'http://www.dafont.com/riau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Riau.ttf'
 end

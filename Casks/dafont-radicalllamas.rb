@@ -5,7 +5,6 @@ cask 'dafont-radicalllamas' do
     url 'http://dl.dafont.com/dl/?f=radicalllamas'
     name 'Radical Llamas'
     homepage 'http://www.dafont.com/radicalllamas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RadicalLlamas.ttf'
 end

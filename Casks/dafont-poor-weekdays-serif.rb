@@ -5,7 +5,6 @@ cask 'dafont-poor-weekdays-serif' do
     url 'http://dl.dafont.com/dl/?f=poor_weekdays_serif'
     name 'Poor Weekdays Serif'
     homepage 'http://www.dafont.com/poor-weekdays-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'poor weekdays serif.ttf'
 end

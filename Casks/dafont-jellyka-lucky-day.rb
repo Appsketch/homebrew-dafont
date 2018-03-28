@@ -5,7 +5,6 @@ cask 'dafont-jellyka-lucky-day' do
     url 'http://dl.dafont.com/dl/?f=jellyka_lucky_day'
     name 'Jellyka Lucky Day'
     homepage 'http://www.dafont.com/jellyka-lucky-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jellyka Lucky Day.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-delius' do
     url 'http://dl.dafont.com/dl/?f=delius'
     name 'Delius'
     homepage 'http://www.dafont.com/delius.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Delius-Regular.ttf'
     font 'DeliusSwashCaps-Regular.ttf'

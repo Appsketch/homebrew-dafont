@@ -5,7 +5,6 @@ cask 'dafont-the-fiveonetwo' do
     url 'http://dl.dafont.com/dl/?f=the_fiveonetwo'
     name 'The Five One Two'
     homepage 'http://www.dafont.com/the-fiveonetwo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheFiveOneTwo.ttf'
 end

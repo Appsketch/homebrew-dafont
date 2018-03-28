@@ -5,7 +5,6 @@ cask 'dafont-therp' do
     url 'http://dl.dafont.com/dl/?f=therp'
     name 'Therp'
     homepage 'http://www.dafont.com/therp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Therp.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-culia' do
     url 'http://dl.dafont.com/dl/?f=culia'
     name 'Culia'
     homepage 'http://www.dafont.com/culia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'culia1.ttf'
 end

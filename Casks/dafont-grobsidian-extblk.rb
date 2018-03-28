@@ -5,7 +5,6 @@ cask 'dafont-grobsidian-extblk' do
     url 'http://dl.dafont.com/dl/?f=grobsidian_extblk'
     name 'Grobsidian'
     homepage 'http://www.dafont.com/grobsidian-extblk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grobsidian-ExtraBlack.ttf'
 end

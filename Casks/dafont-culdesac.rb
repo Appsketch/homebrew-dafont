@@ -5,7 +5,6 @@ cask 'dafont-culdesac' do
     url 'http://dl.dafont.com/dl/?f=culdesac'
     name 'Culdesac'
     homepage 'http://www.dafont.com/culdesac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Culdesac.ttf'
     font 'Culdesac2.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-ether-cute-poison' do
     url 'http://dl.dafont.com/dl/?f=ether_cute_poison'
     name 'Ether Cute Poison'
     homepage 'http://www.dafont.com/ether-cute-poison.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EtherCutePoison.ttf'
 end

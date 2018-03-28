@@ -5,7 +5,6 @@ cask 'dafont-ketosag' do
     url 'http://dl.dafont.com/dl/?f=ketosag'
     name 'Ketosag'
     homepage 'http://www.dafont.com/ketosag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ketosag.otf'
     font 'KetosagBd.otf'

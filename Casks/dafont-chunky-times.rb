@@ -5,7 +5,6 @@ cask 'dafont-chunky-times' do
     url 'http://dl.dafont.com/dl/?f=chunky_times'
     name 'Chunky Times'
     homepage 'http://www.dafont.com/chunky-times.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chunky Times.TTF'
 end

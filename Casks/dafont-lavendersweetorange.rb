@@ -5,7 +5,6 @@ cask 'dafont-lavendersweetorange' do
     url 'http://dl.dafont.com/dl/?f=lavendersweetorange'
     name 'Lavender Sweet Orange'
     homepage 'http://www.dafont.com/lavendersweetorange.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LavenderSweetOrange.ttf'
 end

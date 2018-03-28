@@ -5,7 +5,6 @@ cask 'dafont-house-music' do
     url 'http://dl.dafont.com/dl/?f=house_music'
     name 'House Music'
     homepage 'http://www.dafont.com/house-music.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'House Music.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-the-only-exception' do
     url 'http://dl.dafont.com/dl/?f=the_only_exception'
     name 'The Only Exception'
     homepage 'http://www.dafont.com/the-only-exception.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheOnlyException.ttf'
 end

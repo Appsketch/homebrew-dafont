@@ -5,7 +5,6 @@ cask 'dafont-blokhed' do
     url 'http://dl.dafont.com/dl/?f=blokhed'
     name 'Blokhed'
     homepage 'http://www.dafont.com/blokhed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blokhed.ttf'
 end

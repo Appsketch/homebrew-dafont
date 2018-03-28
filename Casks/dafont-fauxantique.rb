@@ -5,7 +5,6 @@ cask 'dafont-fauxantique' do
     url 'http://dl.dafont.com/dl/?f=fauxantique'
     name 'Faux Antique'
     homepage 'http://www.dafont.com/fauxantique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FauxAntique.ttf'
 end

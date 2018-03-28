@@ -5,7 +5,6 @@ cask 'dafont-negative' do
     url 'http://dl.dafont.com/dl/?f=negative'
     name 'Negative'
     homepage 'http://www.dafont.com/negative.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Negtiv12.ttf'
     font 'Negtiv24.ttf'

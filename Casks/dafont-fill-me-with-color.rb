@@ -5,7 +5,6 @@ cask 'dafont-fill-me-with-color' do
     url 'http://dl.dafont.com/dl/?f=fill_me_with_color'
     name 'Mf Fill Me With Color'
     homepage 'http://www.dafont.com/fill-me-with-color.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Fill Me With Color.ttf'
 end

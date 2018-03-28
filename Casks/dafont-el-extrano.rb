@@ -5,7 +5,6 @@ cask 'dafont-el-extrano' do
     url 'http://dl.dafont.com/dl/?f=el_extrano'
     name 'El Extra&ntilde;o'
     homepage 'http://www.dafont.com/el-extrano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'El Extra&curren;o.ttf'
 end

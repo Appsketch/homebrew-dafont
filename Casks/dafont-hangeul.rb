@@ -5,7 +5,6 @@ cask 'dafont-hangeul' do
     url 'http://dl.dafont.com/dl/?f=hangeul'
     name 'Hangeul'
     homepage 'http://www.dafont.com/hangeul.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hangeul_lookslike.ttf'
     font 'hangeul_simplify.ttf'

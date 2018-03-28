@@ -5,7 +5,6 @@ cask 'dafont-trigger-man' do
     url 'http://dl.dafont.com/dl/?f=trigger_man'
     name 'Trigger Man'
     homepage 'http://www.dafont.com/trigger-man.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'triggerman.ttf'
     font 'triggerman3d.ttf'

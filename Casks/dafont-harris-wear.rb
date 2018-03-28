@@ -5,7 +5,6 @@ cask 'dafont-harris-wear' do
     url 'http://dl.dafont.com/dl/?f=harris_wear'
     name 'Harris Wear'
     homepage 'http://www.dafont.com/harris-wear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Harris Wear.ttf'
 end

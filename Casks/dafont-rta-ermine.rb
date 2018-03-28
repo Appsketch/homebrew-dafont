@@ -5,7 +5,6 @@ cask 'dafont-rta-ermine' do
     url 'http://dl.dafont.com/dl/?f=rta_ermine'
     name 'RTA Ermine'
     homepage 'http://www.dafont.com/rta-ermine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RTA Ermine.ttf'
 end

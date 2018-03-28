@@ -5,7 +5,6 @@ cask 'dafont-eternal-call' do
     url 'http://dl.dafont.com/dl/?f=eternal_call'
     name 'Eternal Call'
     homepage 'http://www.dafont.com/eternal-call.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eternal Call.ttf'
 end

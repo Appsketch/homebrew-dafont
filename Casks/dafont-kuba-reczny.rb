@@ -5,7 +5,6 @@ cask 'dafont-kuba-reczny' do
     url 'http://dl.dafont.com/dl/?f=kuba_reczny'
     name 'Kuba Reczny'
     homepage 'http://www.dafont.com/kuba-reczny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KubaReczny_1.2.ttf'
 end

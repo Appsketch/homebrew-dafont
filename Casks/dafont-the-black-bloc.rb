@@ -5,7 +5,6 @@ cask 'dafont-the-black-bloc' do
     url 'http://dl.dafont.com/dl/?f=_the_black_bloc'
     name '!The Black Bloc'
     homepage 'http://www.dafont.com/-the-black-bloc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '!the black bloc-bold ital.ttf'
     font '!the black bloc-bold.ttf'

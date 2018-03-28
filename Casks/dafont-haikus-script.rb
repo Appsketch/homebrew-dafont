@@ -5,7 +5,6 @@ cask 'dafont-haikus-script' do
     url 'http://dl.dafont.com/dl/?f=haikus_script'
     name 'Haikus Script'
     homepage 'http://www.dafont.com/haikus-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Haiku&#039;s Script version 09 Bold.ttf'
     font 'Haiku&#039;s Script version 09 Regular.ttf'

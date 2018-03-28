@@ -5,7 +5,6 @@ cask 'dafont-stenciles' do
     url 'http://dl.dafont.com/dl/?f=stenciles'
     name 'Stenciles'
     homepage 'http://www.dafont.com/stenciles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stenciles.ttf'
 end

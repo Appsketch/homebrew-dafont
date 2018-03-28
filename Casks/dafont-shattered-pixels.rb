@@ -5,7 +5,6 @@ cask 'dafont-shattered-pixels' do
     url 'http://dl.dafont.com/dl/?f=shattered_pixels'
     name 'Shattered Pixels'
     homepage 'http://www.dafont.com/shattered-pixels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shattered_Pixels_by_narathira.ttf'
 end

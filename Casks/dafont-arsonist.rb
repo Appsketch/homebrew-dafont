@@ -5,7 +5,6 @@ cask 'dafont-arsonist' do
     url 'http://dl.dafont.com/dl/?f=arsonist'
     name 'Arsonist'
     homepage 'http://www.dafont.com/arsonist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arsonist.ttf'
 end

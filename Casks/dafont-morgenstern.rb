@@ -5,7 +5,6 @@ cask 'dafont-morgenstern' do
     url 'http://dl.dafont.com/dl/?f=morgenstern'
     name 'Morgenstern'
     homepage 'http://www.dafont.com/morgenstern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'morgenstern.ttf'
 end

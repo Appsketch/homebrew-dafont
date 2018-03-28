@@ -5,7 +5,6 @@ cask 'dafont-bold-bold' do
     url 'http://dl.dafont.com/dl/?f=bold_bold'
     name 'Bold bold'
     homepage 'http://www.dafont.com/bold-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bold_pw.ttf'
 end

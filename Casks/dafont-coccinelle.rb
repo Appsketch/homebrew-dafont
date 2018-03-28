@@ -5,7 +5,6 @@ cask 'dafont-coccinelle' do
     url 'http://dl.dafont.com/dl/?f=coccinelle'
     name 'Coccinelle'
     homepage 'http://www.dafont.com/coccinelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coccinelle.ttf'
 end

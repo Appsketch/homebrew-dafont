@@ -5,7 +5,6 @@ cask 'dafont-hnkani' do
     url 'http://dl.dafont.com/dl/?f=hnkani'
     name 'HNkani'
     homepage 'http://www.dafont.com/hnkani.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HNkani-Italic.ttf'
     font 'HNkani.ttf'

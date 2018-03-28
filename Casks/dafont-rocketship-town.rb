@@ -5,7 +5,6 @@ cask 'dafont-rocketship-town' do
     url 'http://dl.dafont.com/dl/?f=rocketship_town'
     name 'Rocketship Town'
     homepage 'http://www.dafont.com/rocketship-town.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rocketship Town.ttf'
 end

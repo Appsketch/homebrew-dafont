@@ -5,7 +5,6 @@ cask 'dafont-budget-stencil' do
     url 'http://dl.dafont.com/dl/?f=budget_stencil'
     name 'Budget Stencil'
     homepage 'http://www.dafont.com/budget-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUDGETSTEN-BLED.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-black-pixel' do
     url 'http://dl.dafont.com/dl/?f=black_pixel'
     name 'Black Pixel'
     homepage 'http://www.dafont.com/black-pixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black Pixel.ttf'
 end

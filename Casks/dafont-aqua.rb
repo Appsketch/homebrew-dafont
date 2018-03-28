@@ -5,7 +5,6 @@ cask 'dafont-aqua' do
     url 'http://dl.dafont.com/dl/?f=aqua'
     name 'Aqua'
     homepage 'http://www.dafont.com/aqua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aqua.ttf'
 end

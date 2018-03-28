@@ -5,7 +5,6 @@ cask 'dafont-cotidiana' do
     url 'http://dl.dafont.com/dl/?f=cotidiana'
     name 'Cotidiana'
     homepage 'http://www.dafont.com/cotidiana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cotidiana.ttf'
     font 'CotidianaBold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-go-around-the-books-arrows' do
     url 'http://dl.dafont.com/dl/?f=go_around_the_books_arrows'
     name 'Go around the books - Arrows'
     homepage 'http://www.dafont.com/go-around-the-books-arrows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'go around the books - arrows.ttf'
 end

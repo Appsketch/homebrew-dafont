@@ -5,7 +5,6 @@ cask 'dafont-alfaowner-script' do
     url 'http://dl.dafont.com/dl/?f=alfaowner_script'
     name 'Alfaowner Script'
     homepage 'http://www.dafont.com/alfaowner-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alfaowner.com_script.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pizza-is-my-favorite' do
     url 'http://dl.dafont.com/dl/?f=pizza_is_my_favorite'
     name 'Pizza is my Favorite'
     homepage 'http://www.dafont.com/pizza-is-my-favorite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PizzaismyFAVORITE.ttf'
 end

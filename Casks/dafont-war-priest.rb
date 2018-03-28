@@ -5,7 +5,6 @@ cask 'dafont-war-priest' do
     url 'http://dl.dafont.com/dl/?f=war_priest'
     name 'War Priest'
     homepage 'http://www.dafont.com/war-priest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'warpriest.ttf'
     font 'warpriest3d.ttf'

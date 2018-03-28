@@ -5,7 +5,6 @@ cask 'dafont-de-luxe' do
     url 'http://dl.dafont.com/dl/?f=de_luxe'
     name 'De Luxe'
     homepage 'http://www.dafont.com/de-luxe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'De Luxe Bold Condensed.ttf'
     font 'De Luxe Bold.ttf'

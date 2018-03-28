@@ -5,7 +5,6 @@ cask 'dafont-kg-love-somebody' do
     url 'http://dl.dafont.com/dl/?f=kg_love_somebody'
     name 'KG Love Somebody'
     homepage 'http://www.dafont.com/kg-love-somebody.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGLoveSomebody.ttf'
 end

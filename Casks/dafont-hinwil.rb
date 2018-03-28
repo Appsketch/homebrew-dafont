@@ -5,7 +5,6 @@ cask 'dafont-hinwil' do
     url 'http://dl.dafont.com/dl/?f=hinwil'
     name 'Hinwil'
     homepage 'http://www.dafont.com/hinwil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hinwil.ttf'
 end

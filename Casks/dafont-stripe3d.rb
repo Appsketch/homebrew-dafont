@@ -5,7 +5,6 @@ cask 'dafont-stripe3d' do
     url 'http://dl.dafont.com/dl/?f=stripe3d'
     name 'Stripe 3D'
     homepage 'http://www.dafont.com/stripe3d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stripe3D.ttf'
 end

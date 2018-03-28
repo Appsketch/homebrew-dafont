@@ -5,7 +5,6 @@ cask 'dafont-stamp-seal-tfb' do
     url 'http://dl.dafont.com/dl/?f=stamp_seal_tfb'
     name 'Stamp Seal TFB'
     homepage 'http://www.dafont.com/stamp-seal-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stamp seal tfb.ttf'
 end

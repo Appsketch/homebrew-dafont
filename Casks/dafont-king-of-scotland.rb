@@ -5,7 +5,6 @@ cask 'dafont-king-of-scotland' do
     url 'http://dl.dafont.com/dl/?f=king_of_scotland'
     name 'King of Scotland'
     homepage 'http://www.dafont.com/king-of-scotland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'King of Scotland.ttf'
 end

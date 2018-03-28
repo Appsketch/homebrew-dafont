@@ -5,7 +5,6 @@ cask 'dafont-insert-coin' do
     url 'http://dl.dafont.com/dl/?f=insert_coin'
     name 'Insert Coin'
     homepage 'http://www.dafont.com/insert-coin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ICOIN.FON'
 end

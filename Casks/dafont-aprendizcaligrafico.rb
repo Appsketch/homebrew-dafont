@@ -5,7 +5,6 @@ cask 'dafont-aprendizcaligrafico' do
     url 'http://dl.dafont.com/dl/?f=aprendizcaligrafico'
     name 'Aprendiz Caligrafico'
     homepage 'http://www.dafont.com/aprendizcaligrafico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AprendizCaligrafico.ttf'
 end

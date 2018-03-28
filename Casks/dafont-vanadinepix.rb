@@ -5,7 +5,6 @@ cask 'dafont-vanadinepix' do
     url 'http://dl.dafont.com/dl/?f=vanadinepix'
     name 'Vanadine Pix'
     homepage 'http://www.dafont.com/vanadinepix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VanadinePix.ttf'
 end

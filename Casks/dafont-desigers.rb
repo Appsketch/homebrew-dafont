@@ -5,7 +5,6 @@ cask 'dafont-desigers' do
     url 'http://dl.dafont.com/dl/?f=desigers'
     name 'Desigers'
     homepage 'http://www.dafont.com/desigers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DESIB___.TTF'
 end

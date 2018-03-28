@@ -5,7 +5,6 @@ cask 'dafont-pwworldsend2112' do
     url 'http://dl.dafont.com/dl/?f=pwworldsend2112'
     name 'PW Worlds End 21 12'
     homepage 'http://www.dafont.com/pwworldsend2112.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWWORLDSEND2112.ttf'
 end

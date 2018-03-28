@@ -5,7 +5,6 @@ cask 'dafont-l-olivier' do
     url 'http://dl.dafont.com/dl/?f=l_olivier'
     name 'L&#039;Olivier'
     homepage 'http://www.dafont.com/l-olivier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOLII___.TTF'
 end

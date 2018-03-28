@@ -5,7 +5,6 @@ cask 'dafont-facelook' do
     url 'http://dl.dafont.com/dl/?f=facelook'
     name 'Facelook'
     homepage 'http://www.dafont.com/facelook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Facelook.ttf'
 end

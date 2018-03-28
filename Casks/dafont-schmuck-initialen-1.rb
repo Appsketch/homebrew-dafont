@@ -5,7 +5,6 @@ cask 'dafont-schmuck-initialen-1' do
     url 'http://dl.dafont.com/dl/?f=schmuck_initialen_1'
     name 'Schmuck-Initialen'
     homepage 'http://www.dafont.com/schmuck-initialen-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SchmuckInitialen1.ttf'
     font 'SchmuckInitialen2.ttf'

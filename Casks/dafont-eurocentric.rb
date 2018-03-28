@@ -5,7 +5,6 @@ cask 'dafont-eurocentric' do
     url 'http://dl.dafont.com/dl/?f=eurocentric'
     name 'Eurocentric'
     homepage 'http://www.dafont.com/eurocentric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eurcntrc.ttf'
 end

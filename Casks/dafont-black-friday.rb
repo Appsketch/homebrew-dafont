@@ -5,7 +5,6 @@ cask 'dafont-black-friday' do
     url 'http://dl.dafont.com/dl/?f=black_friday'
     name 'Black Friday'
     homepage 'http://www.dafont.com/black-friday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'black friday.ttf'
 end

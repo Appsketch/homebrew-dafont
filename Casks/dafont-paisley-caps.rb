@@ -5,7 +5,6 @@ cask 'dafont-paisley-caps' do
     url 'http://dl.dafont.com/dl/?f=paisley_caps'
     name 'Paisley Caps'
     homepage 'http://www.dafont.com/paisley-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaisleyCaps .ttf'
 end

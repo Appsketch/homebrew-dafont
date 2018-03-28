@@ -5,7 +5,6 @@ cask 'dafont-vtks-burning' do
     url 'http://dl.dafont.com/dl/?f=vtks_burning'
     name 'Vtks Burning'
     homepage 'http://www.dafont.com/vtks-burning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Burning.ttf'
 end

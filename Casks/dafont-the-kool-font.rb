@@ -5,7 +5,6 @@ cask 'dafont-the-kool-font' do
     url 'http://dl.dafont.com/dl/?f=the_kool_font'
     name 'The Kool Font'
     homepage 'http://www.dafont.com/the-kool-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Kool Font.ttf'
 end

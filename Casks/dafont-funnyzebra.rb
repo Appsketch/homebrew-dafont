@@ -5,7 +5,6 @@ cask 'dafont-funnyzebra' do
     url 'http://dl.dafont.com/dl/?f=funnyzebra'
     name 'Funny Zebra'
     homepage 'http://www.dafont.com/funnyzebra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'funnyzebra.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-slabby-prices' do
     url 'http://dl.dafont.com/dl/?f=slabby_prices'
     name 'Slabby Prices'
     homepage 'http://www.dafont.com/slabby-prices.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slabby Prices Italic.ttf'
     font 'Slabby Prices Regular.ttf'

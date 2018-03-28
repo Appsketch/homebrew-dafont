@@ -5,7 +5,6 @@ cask 'dafont-i-pixel-u' do
     url 'http://dl.dafont.com/dl/?f=i_pixel_u'
     name 'I pixel u'
     homepage 'http://www.dafont.com/i-pixel-u.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I-pixel-u.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kr-valentines-06-te' do
     url 'http://dl.dafont.com/dl/?f=kr_valentines_06_te'
     name 'KR Valentines 2006 Ten'
     homepage 'http://www.dafont.com/kr-valentines-06-te.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Valentines 2006 Ten.ttf'
 end

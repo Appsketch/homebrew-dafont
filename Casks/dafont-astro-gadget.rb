@@ -5,7 +5,6 @@ cask 'dafont-astro-gadget' do
     url 'http://dl.dafont.com/dl/?f=astro_gadget'
     name 'Astro Gadget'
     homepage 'http://www.dafont.com/astro-gadget.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AstroGadget.ttf'
 end

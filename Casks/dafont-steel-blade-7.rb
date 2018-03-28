@@ -5,7 +5,6 @@ cask 'dafont-steel-blade-7' do
     url 'http://dl.dafont.com/dl/?f=steel_blade_7'
     name 'Steel Blade 7'
     homepage 'http://www.dafont.com/steel-blade-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'steel_blade_7.ttf'
 end

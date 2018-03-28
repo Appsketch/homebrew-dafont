@@ -5,7 +5,6 @@ cask 'dafont-flat-earth-scribe' do
     url 'http://dl.dafont.com/dl/?f=flat_earth_scribe'
     name 'Flat Earth Scribe'
     homepage 'http://www.dafont.com/flat-earth-scribe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flat Earth Scribe.ttf'
 end

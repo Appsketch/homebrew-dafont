@@ -5,7 +5,6 @@ cask 'dafont-grand-prix' do
     url 'http://dl.dafont.com/dl/?f=grand_prix'
     name 'Grand Prix'
     homepage 'http://www.dafont.com/grand-prix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRANPS__.TTF'
 end

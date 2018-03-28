@@ -5,7 +5,6 @@ cask 'dafont-soopafresh' do
     url 'http://dl.dafont.com/dl/?f=soopafresh'
     name 'Soopafresh'
     homepage 'http://www.dafont.com/soopafresh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'soopafre.ttf'
 end

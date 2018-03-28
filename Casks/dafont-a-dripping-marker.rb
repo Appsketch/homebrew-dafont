@@ -5,7 +5,6 @@ cask 'dafont-a-dripping-marker' do
     url 'http://dl.dafont.com/dl/?f=a_dripping_marker'
     name 'A Dripping Marker'
     homepage 'http://www.dafont.com/a-dripping-marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'adrip1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-the-last-font-im-wasting-on-you' do
     url 'http://dl.dafont.com/dl/?f=the_last_font_im_wasting_on_you'
     name 'The Last Font I&#039;m Wasting On You'
     homepage 'http://www.dafont.com/the-last-font-im-wasting-on-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lastfontwastingonyou.ttf'
 end

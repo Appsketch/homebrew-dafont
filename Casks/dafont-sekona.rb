@@ -5,7 +5,6 @@ cask 'dafont-sekona' do
     url 'http://dl.dafont.com/dl/?f=sekona'
     name 'Sekona'
     homepage 'http://www.dafont.com/sekona.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sekona.ttf'
 end

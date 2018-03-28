@@ -5,7 +5,6 @@ cask 'dafont-brush-strokes' do
     url 'http://dl.dafont.com/dl/?f=brush_strokes'
     name 'Brush Strokes'
     homepage 'http://www.dafont.com/brush-strokes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brush Strokes.ttf'
 end

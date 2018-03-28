@@ -5,7 +5,6 @@ cask 'dafont-simallos' do
     url 'http://dl.dafont.com/dl/?f=simallos'
     name 'Simallos'
     homepage 'http://www.dafont.com/simallos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simallos.ttf'
 end

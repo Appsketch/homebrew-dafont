@@ -5,7 +5,6 @@ cask 'dafont-gaze' do
     url 'http://dl.dafont.com/dl/?f=gaze'
     name 'Gaze'
     homepage 'http://www.dafont.com/gaze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gaze2.ttf'
 end

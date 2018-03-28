@@ -5,7 +5,6 @@ cask 'dafont-lock' do
     url 'http://dl.dafont.com/dl/?f=lock'
     name 'Lock'
     homepage 'http://www.dafont.com/lock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lock.ttf'
 end

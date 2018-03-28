@@ -5,7 +5,6 @@ cask 'dafont-recharge' do
     url 'http://dl.dafont.com/dl/?f=recharge'
     name 'Recharge'
     homepage 'http://www.dafont.com/recharge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'recharge bd.ttf'
 end

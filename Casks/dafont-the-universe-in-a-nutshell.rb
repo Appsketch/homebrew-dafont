@@ -5,7 +5,6 @@ cask 'dafont-the-universe-in-a-nutshell' do
     url 'http://dl.dafont.com/dl/?f=the_universe_in_a_nutshell'
     name 'The universe in a nutshell'
     homepage 'http://www.dafont.com/the-universe-in-a-nutshell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The universe in a nutshell.ttf'
 end

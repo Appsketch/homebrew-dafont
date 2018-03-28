@@ -5,7 +5,6 @@ cask 'dafont-aleatoria' do
     url 'http://dl.dafont.com/dl/?f=aleatoria'
     name 'Aleatoria'
     homepage 'http://www.dafont.com/aleatoria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALEATORI.TTF'
 end

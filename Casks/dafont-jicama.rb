@@ -5,7 +5,6 @@ cask 'dafont-jicama' do
     url 'http://dl.dafont.com/dl/?f=jicama'
     name 'Jicama'
     homepage 'http://www.dafont.com/jicama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JICAMRG_.TTF'
 end

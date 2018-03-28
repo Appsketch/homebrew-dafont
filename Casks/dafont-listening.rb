@@ -5,7 +5,6 @@ cask 'dafont-listening' do
     url 'http://dl.dafont.com/dl/?f=listening'
     name 'Listening'
     homepage 'http://www.dafont.com/listening.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'listening.ttf'
 end

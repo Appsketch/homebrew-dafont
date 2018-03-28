@@ -5,7 +5,6 @@ cask 'dafont-futharken' do
     url 'http://dl.dafont.com/dl/?f=futharken'
     name 'Futharken'
     homepage 'http://www.dafont.com/futharken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FUTHARK.TTF'
 end

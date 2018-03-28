@@ -5,7 +5,6 @@ cask 'dafont-rober' do
     url 'http://dl.dafont.com/dl/?f=rober'
     name 'Rober'
     homepage 'http://www.dafont.com/rober.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROBER___.TTF'
 end

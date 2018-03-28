@@ -5,7 +5,6 @@ cask 'dafont-castro-script' do
     url 'http://dl.dafont.com/dl/?f=castro_script'
     name 'Castro Script'
     homepage 'http://www.dafont.com/castro-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CastroScript_PERSONAL_USE_ONLY.ttf'
 end

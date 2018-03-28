@@ -5,7 +5,6 @@ cask 'dafont-sajou-fancy-gothic' do
     url 'http://dl.dafont.com/dl/?f=sajou_fancy_gothic'
     name 'Sajou Fancy Gothic'
     homepage 'http://www.dafont.com/sajou-fancy-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sajou Fancy Gothic.ttf'
 end

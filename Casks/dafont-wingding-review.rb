@@ -5,7 +5,6 @@ cask 'dafont-wingding-review' do
     url 'http://dl.dafont.com/dl/?f=wingding_review'
     name 'Wingding Review'
     homepage 'http://www.dafont.com/wingding-review.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wingding Review.ttf'
 end

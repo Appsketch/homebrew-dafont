@@ -5,7 +5,6 @@ cask 'dafont-cf-modern-165' do
     url 'http://dl.dafont.com/dl/?f=cf_modern_165'
     name 'CF Modern 165'
     homepage 'http://www.dafont.com/cf-modern-165.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFModern-Regular.ttf'
 end

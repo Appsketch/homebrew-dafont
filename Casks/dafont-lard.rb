@@ -5,7 +5,6 @@ cask 'dafont-lard' do
     url 'http://dl.dafont.com/dl/?f=lard'
     name 'Lard!'
     homepage 'http://www.dafont.com/lard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LARD___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-samhandwriting' do
     url 'http://dl.dafont.com/dl/?f=samhandwriting'
     name 'Sam Handwriting'
     homepage 'http://www.dafont.com/samhandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SamHandwriting.ttf'
 end

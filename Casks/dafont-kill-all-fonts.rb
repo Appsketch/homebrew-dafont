@@ -5,7 +5,6 @@ cask 'dafont-kill-all-fonts' do
     url 'http://dl.dafont.com/dl/?f=kill_all_fonts'
     name 'Kill All Fonts'
     homepage 'http://www.dafont.com/kill-all-fonts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kill All Fonts Just Aggression.TTF'
     font 'Kill All Fonts.TTF'

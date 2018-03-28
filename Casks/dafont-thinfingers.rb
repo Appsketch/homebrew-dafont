@@ -5,7 +5,6 @@ cask 'dafont-thinfingers' do
     url 'http://dl.dafont.com/dl/?f=thinfingers'
     name 'Thin Fingers'
     homepage 'http://www.dafont.com/thinfingers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThinFingers-ThinFingers.otf'
 end

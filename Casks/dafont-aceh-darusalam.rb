@@ -5,7 +5,6 @@ cask 'dafont-aceh-darusalam' do
     url 'http://dl.dafont.com/dl/?f=aceh_darusalam'
     name 'Aceh Darusalam'
     homepage 'http://www.dafont.com/aceh-darusalam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aceh Darusalam.ttf'
 end

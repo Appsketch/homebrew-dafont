@@ -5,7 +5,6 @@ cask 'dafont-nougat' do
     url 'http://dl.dafont.com/dl/?f=nougat'
     name 'Nougat'
     homepage 'http://www.dafont.com/nougat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nougat-ExtraBlack.ttf'
 end

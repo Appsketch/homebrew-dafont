@@ -5,7 +5,6 @@ cask 'dafont-antibalon' do
     url 'http://dl.dafont.com/dl/?f=antibalon'
     name 'Antibalon'
     homepage 'http://www.dafont.com/antibalon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Antibalon.otf'
 end

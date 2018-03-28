@@ -5,7 +5,6 @@ cask 'dafont-tasapainoaisti-iso' do
     url 'http://dl.dafont.com/dl/?f=tasapainoaisti_iso'
     name 'Tasapainoaisti'
     homepage 'http://www.dafont.com/tasapainoaisti-iso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tasapainoaisti_huimaus.ttf'
     font 'tasapainoaisti_iso.ttf'

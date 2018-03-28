@@ -5,7 +5,6 @@ cask 'dafont-emma-sophia' do
     url 'http://dl.dafont.com/dl/?f=emma_sophia'
     name 'Emma Sophia'
     homepage 'http://www.dafont.com/emma-sophia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'emmasophia.ttf'
 end

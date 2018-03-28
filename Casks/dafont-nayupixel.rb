@@ -5,7 +5,6 @@ cask 'dafont-nayupixel' do
     url 'http://dl.dafont.com/dl/?f=nayupixel'
     name 'Nayupixel'
     homepage 'http://www.dafont.com/nayupixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nayupixel.ttf'
 end

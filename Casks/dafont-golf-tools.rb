@@ -5,7 +5,6 @@ cask 'dafont-golf-tools' do
     url 'http://dl.dafont.com/dl/?f=golf_tools'
     name 'Golf Tools'
     homepage 'http://www.dafont.com/golf-tools.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GolfTools-Medium.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dictadura' do
     url 'http://dl.dafont.com/dl/?f=dictadura'
     name 'Dictadura'
     homepage 'http://www.dafont.com/dictadura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DICTADURA.ttf'
 end

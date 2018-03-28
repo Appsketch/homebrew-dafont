@@ -5,7 +5,6 @@ cask 'dafont-turnt-up' do
     url 'http://dl.dafont.com/dl/?f=turnt_up'
     name 'Turnt Up'
     homepage 'http://www.dafont.com/turnt-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TurntUp-Bold.ttf'
     font 'TurntUp-Regular.ttf'

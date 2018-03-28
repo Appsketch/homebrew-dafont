@@ -5,7 +5,6 @@ cask 'dafont-kallio' do
     url 'http://dl.dafont.com/dl/?f=kallio'
     name 'Kallio'
     homepage 'http://www.dafont.com/kallio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kallio200.ttf'
 end

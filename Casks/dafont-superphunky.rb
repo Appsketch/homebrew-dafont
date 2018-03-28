@@ -5,7 +5,6 @@ cask 'dafont-superphunky' do
     url 'http://dl.dafont.com/dl/?f=superphunky'
     name 'Superphunky'
     homepage 'http://www.dafont.com/superphunky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPERPHU.TTF'
 end

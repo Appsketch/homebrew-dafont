@@ -5,7 +5,6 @@ cask 'dafont-delarmente' do
     url 'http://dl.dafont.com/dl/?f=delarmente'
     name 'Delarmente'
     homepage 'http://www.dafont.com/delarmente.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Delarmente.ttf'
 end

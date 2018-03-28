@@ -5,7 +5,6 @@ cask 'dafont-triple-bypass' do
     url 'http://dl.dafont.com/dl/?f=triple_bypass'
     name 'Triple Bypass'
     homepage 'http://www.dafont.com/triple-bypass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'triplebypass.ttf'
 end

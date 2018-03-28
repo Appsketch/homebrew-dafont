@@ -5,7 +5,6 @@ cask 'dafont-oakhill' do
     url 'http://dl.dafont.com/dl/?f=oakhill'
     name 'Oakhill'
     homepage 'http://www.dafont.com/oakhill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oakhill.ttf'
 end

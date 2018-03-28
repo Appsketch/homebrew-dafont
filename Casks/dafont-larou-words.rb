@@ -5,7 +5,6 @@ cask 'dafont-larou-words' do
     url 'http://dl.dafont.com/dl/?f=larou_words'
     name 'Larou Words'
     homepage 'http://www.dafont.com/larou-words.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Larou - Words.ttf'
 end

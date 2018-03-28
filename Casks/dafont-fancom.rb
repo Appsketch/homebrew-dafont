@@ -5,7 +5,6 @@ cask 'dafont-fancom' do
     url 'http://dl.dafont.com/dl/?f=fancom'
     name 'FanCom'
     homepage 'http://www.dafont.com/fancom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FanCom.ttf'
 end

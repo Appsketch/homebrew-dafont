@@ -5,7 +5,6 @@ cask 'dafont-dunkin' do
     url 'http://dl.dafont.com/dl/?f=dunkin'
     name 'Dunkin'
     homepage 'http://www.dafont.com/dunkin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dunkin Bold Italic.otf'
     font 'Dunkin Bold.otf'

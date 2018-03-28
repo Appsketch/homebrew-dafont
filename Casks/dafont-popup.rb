@@ -5,7 +5,6 @@ cask 'dafont-popup' do
     url 'http://dl.dafont.com/dl/?f=popup'
     name 'PopUp'
     homepage 'http://www.dafont.com/popup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PopUp.ttf'
 end

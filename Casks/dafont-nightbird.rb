@@ -5,7 +5,6 @@ cask 'dafont-nightbird' do
     url 'http://dl.dafont.com/dl/?f=nightbird'
     name 'Nightbird'
     homepage 'http://www.dafont.com/nightbird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Nightbird.ttf'
 end

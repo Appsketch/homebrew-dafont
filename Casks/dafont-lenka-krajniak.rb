@@ -5,7 +5,6 @@ cask 'dafont-lenka-krajniak' do
     url 'http://dl.dafont.com/dl/?f=lenka_krajniak'
     name 'Lenka Krajniak'
     homepage 'http://www.dafont.com/lenka-krajniak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lenka Krajniak.ttf'
 end

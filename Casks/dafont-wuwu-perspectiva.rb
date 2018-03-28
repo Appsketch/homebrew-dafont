@@ -5,7 +5,6 @@ cask 'dafont-wuwu-perspectiva' do
     url 'http://dl.dafont.com/dl/?f=wuwu_perspectiva'
     name 'Wuwu Perspectiva'
     homepage 'http://www.dafont.com/wuwu-perspectiva.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wuwu perspectiva_0.ttf'
 end

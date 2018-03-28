@@ -5,7 +5,6 @@ cask 'dafont-stohr-numbers' do
     url 'http://dl.dafont.com/dl/?f=stohr_numbers'
     name 'St&ouml;hr Numbers'
     homepage 'http://www.dafont.com/stohr-numbers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stoehr_numbers_1-2.ttf'
 end

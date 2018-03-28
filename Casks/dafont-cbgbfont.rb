@@ -5,7 +5,6 @@ cask 'dafont-cbgbfont' do
     url 'http://dl.dafont.com/dl/?f=cbgbfont'
     name 'CBGB Font'
     homepage 'http://www.dafont.com/cbgbfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CBGBFont.ttf'
     font 'CBGBFontSolid.ttf'

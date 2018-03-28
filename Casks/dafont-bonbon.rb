@@ -5,7 +5,6 @@ cask 'dafont-bonbon' do
     url 'http://dl.dafont.com/dl/?f=bonbon'
     name 'Bonbon'
     homepage 'http://www.dafont.com/bonbon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bonbon.ttf'
 end

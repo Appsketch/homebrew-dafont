@@ -5,7 +5,6 @@ cask 'dafont-skoodle' do
     url 'http://dl.dafont.com/dl/?f=skoodle'
     name 'Skoodle'
     homepage 'http://www.dafont.com/skoodle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skoodle.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bronx-bystreets' do
     url 'http://dl.dafont.com/dl/?f=bronx_bystreets'
     name 'Bronx Bystreets'
     homepage 'http://www.dafont.com/bronx-bystreets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bronx Bystreets 1.4 &cedil; PERSONAL USE ONLY.ttf'
 end

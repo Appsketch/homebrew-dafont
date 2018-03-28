@@ -5,7 +5,6 @@ cask 'dafont-koch-antiqua-zier' do
     url 'http://dl.dafont.com/dl/?f=koch_antiqua_zier'
     name 'Koch-Antiqua Zier'
     homepage 'http://www.dafont.com/koch-antiqua-zier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KochAntiquaZierbuchstaben.ttf'
 end

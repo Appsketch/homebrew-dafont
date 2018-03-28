@@ -5,7 +5,6 @@ cask 'dafont-arabic-greetings' do
     url 'http://dl.dafont.com/dl/?f=arabic_greetings'
     name 'Arabic Greetings'
     homepage 'http://www.dafont.com/arabic-greetings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arabic Greetings.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-franklin-cascaes' do
     url 'http://dl.dafont.com/dl/?f=franklin_cascaes'
     name 'Franklin Cascaes'
     homepage 'http://www.dafont.com/franklin-cascaes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '(S)_Franklin_Cascaes.ttf'
 end

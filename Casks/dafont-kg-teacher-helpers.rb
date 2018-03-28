@@ -5,7 +5,6 @@ cask 'dafont-kg-teacher-helpers' do
     url 'http://dl.dafont.com/dl/?f=kg_teacher_helpers'
     name 'KG Teacher Helpers'
     homepage 'http://www.dafont.com/kg-teacher-helpers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGTeacherHelpers.ttf'
 end

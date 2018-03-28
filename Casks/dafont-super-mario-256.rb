@@ -5,7 +5,6 @@ cask 'dafont-super-mario-256' do
     url 'http://dl.dafont.com/dl/?f=super_mario_256'
     name 'Super Mario 256'
     homepage 'http://www.dafont.com/super-mario-256.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuperMario256.ttf'
 end

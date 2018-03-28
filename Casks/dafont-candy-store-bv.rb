@@ -5,7 +5,6 @@ cask 'dafont-candy-store-bv' do
     url 'http://dl.dafont.com/dl/?f=candy_store_bv'
     name 'Candy Store BV'
     homepage 'http://www.dafont.com/candy-store-bv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CANDSB__.TTF'
 end

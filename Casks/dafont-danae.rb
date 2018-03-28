@@ -5,7 +5,6 @@ cask 'dafont-danae' do
     url 'http://dl.dafont.com/dl/?f=danae'
     name 'Danae'
     homepage 'http://www.dafont.com/danae.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Danae_ttf/Danae.ttf'
 end

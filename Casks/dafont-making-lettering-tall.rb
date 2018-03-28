@@ -5,7 +5,6 @@ cask 'dafont-making-lettering-tall' do
     url 'http://dl.dafont.com/dl/?f=making_lettering_tall'
     name 'Making Lettering Tall'
     homepage 'http://www.dafont.com/making-lettering-tall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Making-Lettering-Tall_demo.ttf'
 end

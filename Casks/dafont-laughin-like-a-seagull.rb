@@ -5,7 +5,6 @@ cask 'dafont-laughin-like-a-seagull' do
     url 'http://dl.dafont.com/dl/?f=laughin_like_a_seagull'
     name 'Laughin Like A Seagull'
     homepage 'http://www.dafont.com/laughin-like-a-seagull.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'laughin_like_a_seagull.ttf'
 end

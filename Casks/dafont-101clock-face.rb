@@ -5,7 +5,6 @@ cask 'dafont-101clock-face' do
     url 'http://dl.dafont.com/dl/?f=101clock_face'
     name '101! Clock Face'
     homepage 'http://www.dafont.com/101clock-face.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '101ClockFace.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bluelmin-sandsfort' do
     url 'http://dl.dafont.com/dl/?f=bluelmin_sandsfort'
     name 'Bluelmin Sandsfort'
     homepage 'http://www.dafont.com/bluelmin-sandsfort.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bluelmin Sandsfort.ttf'
 end

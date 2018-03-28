@@ -5,7 +5,6 @@ cask 'dafont-incredible-angel' do
     url 'http://dl.dafont.com/dl/?f=incredible_angel'
     name 'Incredible Angel'
     homepage 'http://www.dafont.com/incredible-angel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Incredible Angel.ttf'
 end

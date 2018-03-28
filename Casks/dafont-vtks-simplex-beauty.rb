@@ -5,7 +5,6 @@ cask 'dafont-vtks-simplex-beauty' do
     url 'http://dl.dafont.com/dl/?f=vtks_simplex_beauty'
     name 'Vtks Simplex Beauty'
     homepage 'http://www.dafont.com/vtks-simplex-beauty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Simplex Beauty 2.ttf'
 end

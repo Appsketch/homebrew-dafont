@@ -5,7 +5,6 @@ cask 'dafont-galfont' do
     url 'http://dl.dafont.com/dl/?f=galfont'
     name 'GalFont'
     homepage 'http://www.dafont.com/galfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'galFont.ttf'
 end

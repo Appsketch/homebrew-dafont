@@ -5,7 +5,6 @@ cask 'dafont-on-the-tops' do
     url 'http://dl.dafont.com/dl/?f=on_the_tops'
     name 'On The Tops'
     homepage 'http://www.dafont.com/on-the-tops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'On The Tops.ttf'
 end

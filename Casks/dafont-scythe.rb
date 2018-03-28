@@ -5,7 +5,6 @@ cask 'dafont-scythe' do
     url 'http://dl.dafont.com/dl/?f=scythe'
     name 'Scythe'
     homepage 'http://www.dafont.com/scythe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scythe.ttf'
 end

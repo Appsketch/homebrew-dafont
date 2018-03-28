@@ -5,7 +5,6 @@ cask 'dafont-giedi-maximal' do
     url 'http://dl.dafont.com/dl/?f=giedi_maximal'
     name 'Giedi Maximal'
     homepage 'http://www.dafont.com/giedi-maximal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Giedi Maximal.otf'
 end

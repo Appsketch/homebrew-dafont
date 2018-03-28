@@ -5,7 +5,6 @@ cask 'dafont-university-high' do
     url 'http://dl.dafont.com/dl/?f=university_high'
     name 'University High'
     homepage 'http://www.dafont.com/university-high.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'University High.ttf'
 end

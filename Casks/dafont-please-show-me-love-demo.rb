@@ -5,7 +5,6 @@ cask 'dafont-please-show-me-love-demo' do
     url 'http://dl.dafont.com/dl/?f=please_show_me_love_demo'
     name 'Please Show Me Love'
     homepage 'http://www.dafont.com/please-show-me-love-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Please Show Me Love Demo.ttf'
 end

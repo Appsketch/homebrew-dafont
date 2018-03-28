@@ -5,7 +5,6 @@ cask 'dafont-danube' do
     url 'http://dl.dafont.com/dl/?f=danube'
     name 'Danube'
     homepage 'http://www.dafont.com/danube.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DANUB___.TTF'
     font 'DANUBE__.TTF'

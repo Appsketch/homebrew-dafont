@@ -5,7 +5,6 @@ cask 'dafont-mc-boing-boing' do
     url 'http://dl.dafont.com/dl/?f=mc_boing_boing'
     name 'Mc Boing Boing'
     homepage 'http://www.dafont.com/mc-boing-boing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOING.TTF'
 end

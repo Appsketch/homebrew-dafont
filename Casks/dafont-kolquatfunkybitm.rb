@@ -5,7 +5,6 @@ cask 'dafont-kolquatfunkybitm' do
     url 'http://dl.dafont.com/dl/?f=kolquatfunkybitm'
     name 'Kolquat Funky Bitm'
     homepage 'http://www.dafont.com/kolquatfunkybitm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KolquatFunkyBitm.ttf'
 end

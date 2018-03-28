@@ -5,7 +5,6 @@ cask 'dafont-kbcaterpillar' do
     url 'http://dl.dafont.com/dl/?f=kbcaterpillar'
     name 'KB Caterpillar'
     homepage 'http://www.dafont.com/kbcaterpillar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBCaterpillar.ttf'
 end

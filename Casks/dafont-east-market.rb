@@ -5,7 +5,6 @@ cask 'dafont-east-market' do
     url 'http://dl.dafont.com/dl/?f=east_market'
     name 'East Market'
     homepage 'http://www.dafont.com/east-market.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EASTMARK.TTF'
 end

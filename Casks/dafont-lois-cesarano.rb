@@ -5,7 +5,6 @@ cask 'dafont-lois-cesarano' do
     url 'http://dl.dafont.com/dl/?f=lois_cesarano'
     name 'lois Cesarano'
     homepage 'http://www.dafont.com/lois-cesarano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lois Cesarano.ttf'
 end

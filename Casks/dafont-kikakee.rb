@@ -5,7 +5,6 @@ cask 'dafont-kikakee' do
     url 'http://dl.dafont.com/dl/?f=kikakee'
     name 'Kikakee'
     homepage 'http://www.dafont.com/kikakee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kikakee.ttf'
 end

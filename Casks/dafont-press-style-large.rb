@@ -5,7 +5,6 @@ cask 'dafont-press-style-large' do
     url 'http://dl.dafont.com/dl/?f=press_style_large'
     name 'Press Style  Large'
     homepage 'http://www.dafont.com/press-style-large.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Press Style  Large.ttf'
 end

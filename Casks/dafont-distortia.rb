@@ -5,7 +5,6 @@ cask 'dafont-distortia' do
     url 'http://dl.dafont.com/dl/?f=distortia'
     name 'Distortia'
     homepage 'http://www.dafont.com/distortia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DISTORTI.TTF'
 end

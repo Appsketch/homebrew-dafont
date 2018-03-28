@@ -5,7 +5,6 @@ cask 'dafont-chowes' do
     url 'http://dl.dafont.com/dl/?f=chowes'
     name 'Chowes'
     homepage 'http://www.dafont.com/chowes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chowes.ttf'
 end

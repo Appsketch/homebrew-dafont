@@ -5,7 +5,6 @@ cask 'dafont-jesus-christ' do
     url 'http://dl.dafont.com/dl/?f=jesus_christ'
     name 'Jesus Christ'
     homepage 'http://www.dafont.com/jesus-christ.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jesus Christ.ttf'
 end

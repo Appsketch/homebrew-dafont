@@ -5,7 +5,6 @@ cask 'dafont-d-day-stencil' do
     url 'http://dl.dafont.com/dl/?f=d_day_stencil'
     name 'D Day Stencil'
     homepage 'http://www.dafont.com/d-day-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'D Day Stencil.ttf'
 end

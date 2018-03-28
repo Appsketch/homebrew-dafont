@@ -5,7 +5,6 @@ cask 'dafont-shadows-around-us' do
     url 'http://dl.dafont.com/dl/?f=shadows_around_us'
     name 'Shadows Around Us'
     homepage 'http://www.dafont.com/shadows-around-us.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShadowsAroundUs.ttf'
 end

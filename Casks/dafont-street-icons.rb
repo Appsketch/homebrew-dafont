@@ -5,7 +5,6 @@ cask 'dafont-street-icons' do
     url 'http://dl.dafont.com/dl/?f=street_icons'
     name 'Street Icons'
     homepage 'http://www.dafont.com/street-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Street Icons.ttf'
 end

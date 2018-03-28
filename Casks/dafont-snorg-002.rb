@@ -5,7 +5,6 @@ cask 'dafont-snorg-002' do
     url 'http://dl.dafont.com/dl/?f=snorg_002'
     name 'Snorg_002'
     homepage 'http://www.dafont.com/snorg-002.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SNoRG_002_erc.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-quadro' do
     url 'http://dl.dafont.com/dl/?f=quadro'
     name 'Quadro'
     homepage 'http://www.dafont.com/quadro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quadro.ttf'
 end

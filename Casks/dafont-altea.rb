@@ -5,7 +5,6 @@ cask 'dafont-altea' do
     url 'http://dl.dafont.com/dl/?f=altea'
     name 'Altea'
     homepage 'http://www.dafont.com/altea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALTEA.TTF'
 end

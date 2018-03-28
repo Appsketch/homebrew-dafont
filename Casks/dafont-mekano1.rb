@@ -5,7 +5,6 @@ cask 'dafont-mekano1' do
     url 'http://dl.dafont.com/dl/?f=mekano1'
     name 'Mekano'
     homepage 'http://www.dafont.com/mekano1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mkano1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-angeli2' do
     url 'http://dl.dafont.com/dl/?f=angeli2'
     name 'Angeli2'
     homepage 'http://www.dafont.com/angeli2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angelica.ttf'
 end

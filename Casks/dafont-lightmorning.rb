@@ -5,7 +5,6 @@ cask 'dafont-lightmorning' do
     url 'http://dl.dafont.com/dl/?f=lightmorning'
     name 'Lightmorning'
     homepage 'http://www.dafont.com/lightmorning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lightmorning.ttf'
 end

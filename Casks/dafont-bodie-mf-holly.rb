@@ -5,7 +5,6 @@ cask 'dafont-bodie-mf-holly' do
     url 'http://dl.dafont.com/dl/?f=bodie_mf_holly'
     name 'Bodie MF Holly'
     homepage 'http://www.dafont.com/bodie-mf-holly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bodie MF Holly.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fck-me-harder' do
     url 'http://dl.dafont.com/dl/?f=fck_me_harder'
     name 'Fck me harder'
     homepage 'http://www.dafont.com/fck-me-harder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fck me harder.ttf'
 end

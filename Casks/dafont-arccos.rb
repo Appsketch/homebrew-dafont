@@ -5,7 +5,6 @@ cask 'dafont-arccos' do
     url 'http://dl.dafont.com/dl/?f=arccos'
     name 'Arccos'
     homepage 'http://www.dafont.com/arccos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arccos.ttf'
 end

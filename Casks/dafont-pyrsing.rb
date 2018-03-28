@@ -5,7 +5,6 @@ cask 'dafont-pyrsing' do
     url 'http://dl.dafont.com/dl/?f=pyrsing'
     name 'Pyrsing'
     homepage 'http://www.dafont.com/pyrsing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pyrsing.otf'
 end

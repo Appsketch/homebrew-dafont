@@ -5,7 +5,6 @@ cask 'dafont-triangler' do
     url 'http://dl.dafont.com/dl/?f=triangler'
     name 'Triangler'
     homepage 'http://www.dafont.com/triangler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Triangler.otf'
 end

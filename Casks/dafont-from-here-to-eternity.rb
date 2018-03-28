@@ -5,7 +5,6 @@ cask 'dafont-from-here-to-eternity' do
     url 'http://dl.dafont.com/dl/?f=from_here_to_eternity'
     name 'From here to eternity'
     homepage 'http://www.dafont.com/from-here-to-eternity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'From here to eternity, too.ttf'
     font 'From here to eternity.ttf'

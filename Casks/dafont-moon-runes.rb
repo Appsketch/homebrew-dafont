@@ -5,7 +5,6 @@ cask 'dafont-moon-runes' do
     url 'http://dl.dafont.com/dl/?f=moon_runes'
     name 'Moon Runes'
     homepage 'http://www.dafont.com/moon-runes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOONRUNE.TTF'
 end

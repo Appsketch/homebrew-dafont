@@ -5,7 +5,6 @@ cask 'dafont-kolja' do
     url 'http://dl.dafont.com/dl/?f=kolja'
     name 'Kolja'
     homepage 'http://www.dafont.com/kolja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kolja-Black.ttf'
 end

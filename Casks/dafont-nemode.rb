@@ -5,7 +5,6 @@ cask 'dafont-nemode' do
     url 'http://dl.dafont.com/dl/?f=nemode'
     name 'Nemode'
     homepage 'http://www.dafont.com/nemode.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'demo-ne.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kiddish' do
     url 'http://dl.dafont.com/dl/?f=kiddish'
     name 'Kiddish'
     homepage 'http://www.dafont.com/kiddish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kiddish.ttf'
 end

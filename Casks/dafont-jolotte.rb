@@ -5,7 +5,6 @@ cask 'dafont-jolotte' do
     url 'http://dl.dafont.com/dl/?f=jolotte'
     name 'Jolotte'
     homepage 'http://www.dafont.com/jolotte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jolotte.ttf'
 end

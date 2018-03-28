@@ -5,7 +5,6 @@ cask 'dafont-easycuneiform' do
     url 'http://dl.dafont.com/dl/?f=easycuneiform'
     name 'Easy Cuneiform'
     homepage 'http://www.dafont.com/easycuneiform.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EasyCuneiform.ttf'
 end

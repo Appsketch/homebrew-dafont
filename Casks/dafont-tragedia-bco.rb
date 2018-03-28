@@ -5,7 +5,6 @@ cask 'dafont-tragedia-bco' do
     url 'http://dl.dafont.com/dl/?f=tragedia_bco'
     name 'Tragedia'
     homepage 'http://www.dafont.com/tragedia-bco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRAGEDIA.TTF'
 end

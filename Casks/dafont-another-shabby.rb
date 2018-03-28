@@ -5,7 +5,6 @@ cask 'dafont-another-shabby' do
     url 'http://dl.dafont.com/dl/?f=another_shabby'
     name 'Another Shabby'
     homepage 'http://www.dafont.com/another-shabby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anothershabby_trial.ttf'
 end

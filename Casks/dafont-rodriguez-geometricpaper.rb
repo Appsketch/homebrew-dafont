@@ -5,7 +5,6 @@ cask 'dafont-rodriguez-geometricpaper' do
     url 'http://dl.dafont.com/dl/?f=rodriguez_geometricpaper'
     name 'Rodriguez GeometricPaper'
     homepage 'http://www.dafont.com/rodriguez-geometricpaper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rodriguez_Geometric Paper.ttf'
 end

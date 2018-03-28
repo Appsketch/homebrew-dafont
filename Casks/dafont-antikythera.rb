@@ -5,7 +5,6 @@ cask 'dafont-antikythera' do
     url 'http://dl.dafont.com/dl/?f=antikythera'
     name 'Antikythera'
     homepage 'http://www.dafont.com/antikythera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'antikythera.ttf'
     font 'antikythera3d.ttf'

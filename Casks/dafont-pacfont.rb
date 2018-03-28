@@ -5,7 +5,6 @@ cask 'dafont-pacfont' do
     url 'http://dl.dafont.com/dl/?f=pacfont'
     name 'Pac-Font'
     homepage 'http://www.dafont.com/pacfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAC-FONT.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-trekbats' do
     url 'http://dl.dafont.com/dl/?f=trekbats'
     name 'Trekbats'
     homepage 'http://www.dafont.com/trekbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tr.TTF'
 end

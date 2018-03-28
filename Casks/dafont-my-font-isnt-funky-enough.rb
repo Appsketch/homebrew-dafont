@@ -5,7 +5,6 @@ cask 'dafont-my-font-isnt-funky-enough' do
     url 'http://dl.dafont.com/dl/?f=my_font_isnt_funky_enough'
     name 'My font isnt funky enough'
     homepage 'http://www.dafont.com/my-font-isnt-funky-enough.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'my font isnt funky enough.ttf'
 end

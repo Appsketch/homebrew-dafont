@@ -5,7 +5,6 @@ cask 'dafont-bushidotype' do
     url 'http://dl.dafont.com/dl/?f=bushidotype'
     name 'Bushido Type'
     homepage 'http://www.dafont.com/bushidotype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bushido.ttf'
 end

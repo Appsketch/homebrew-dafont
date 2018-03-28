@@ -5,7 +5,6 @@ cask 'dafont-la-bande-en-baskets' do
     url 'http://dl.dafont.com/dl/?f=la_bande_en_baskets'
     name 'La Bande En Baskets'
     homepage 'http://www.dafont.com/la-bande-en-baskets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'La Bande En Baskets.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lumine-sign' do
     url 'http://dl.dafont.com/dl/?f=lumine_sign'
     name 'Lumine Sign'
     homepage 'http://www.dafont.com/lumine-sign.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LumineSign.TTF'
 end

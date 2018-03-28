@@ -5,7 +5,6 @@ cask 'dafont-dk-kempoka' do
     url 'http://dl.dafont.com/dl/?f=dk_kempoka'
     name 'DK Kempoka'
     homepage 'http://www.dafont.com/dk-kempoka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Kempoka.otf'
 end

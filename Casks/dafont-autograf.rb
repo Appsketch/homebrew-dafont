@@ -5,7 +5,6 @@ cask 'dafont-autograf' do
     url 'http://dl.dafont.com/dl/?f=autograf'
     name 'Autograf'
     homepage 'http://www.dafont.com/autograf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Autograf_PersonalUseOnly.ttf'
 end

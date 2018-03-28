@@ -5,7 +5,6 @@ cask 'dafont-kidsparty' do
     url 'http://dl.dafont.com/dl/?f=kidsparty'
     name 'Kids Party'
     homepage 'http://www.dafont.com/kidsparty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KidsParty.ttf'
 end

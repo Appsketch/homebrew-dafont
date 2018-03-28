@@ -5,7 +5,6 @@ cask 'dafont-positiv-a' do
     url 'http://dl.dafont.com/dl/?f=positiv_a'
     name 'Positiv-A'
     homepage 'http://www.dafont.com/positiv-a.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Positiv-A.otf'
 end

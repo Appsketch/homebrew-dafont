@@ -5,7 +5,6 @@ cask 'dafont-cabaletta' do
     url 'http://dl.dafont.com/dl/?f=cabaletta'
     name 'Cabaletta'
     homepage 'http://www.dafont.com/cabaletta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CABALETT.TTF'
 end

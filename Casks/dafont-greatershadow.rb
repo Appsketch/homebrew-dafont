@@ -5,7 +5,6 @@ cask 'dafont-greatershadow' do
     url 'http://dl.dafont.com/dl/?f=greatershadow'
     name 'Greater Shadow'
     homepage 'http://www.dafont.com/greatershadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreaterShadow.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-formlos-organik' do
     url 'http://dl.dafont.com/dl/?f=formlos_organik'
     name 'FormlosOrganik'
     homepage 'http://www.dafont.com/formlos-organik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fOrganik.TTF'
 end

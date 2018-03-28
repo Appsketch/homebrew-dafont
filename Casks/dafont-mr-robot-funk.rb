@@ -5,7 +5,6 @@ cask 'dafont-mr-robot-funk' do
     url 'http://dl.dafont.com/dl/?f=mr_robot_funk'
     name 'Mr Robot Funk'
     homepage 'http://www.dafont.com/mr-robot-funk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MRROF___.TTF'
     font 'MRSKF___.TTF'

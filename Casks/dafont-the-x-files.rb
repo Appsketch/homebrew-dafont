@@ -5,7 +5,6 @@ cask 'dafont-the-x-files' do
     url 'http://dl.dafont.com/dl/?f=the_x_files'
     name 'The X-Files'
     homepage 'http://www.dafont.com/the-x-files.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The X-Files.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-planewalker-dings' do
     url 'http://dl.dafont.com/dl/?f=planewalker_dings'
     name 'Planewalker Dings'
     homepage 'http://www.dafont.com/planewalker-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Planewalker Dings.otf'
 end

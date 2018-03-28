@@ -5,7 +5,6 @@ cask 'dafont-la-el2' do
     url 'http://dl.dafont.com/dl/?f=la_el2'
     name 'LA El2 Schulschriften'
     homepage 'http://www.dafont.com/la-el2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LA EI 2_Italic.ttf'
     font 'LA_E_2.TTF'

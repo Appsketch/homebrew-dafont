@@ -5,7 +5,6 @@ cask 'dafont-sf-ferretopia' do
     url 'http://dl.dafont.com/dl/?f=sf_ferretopia'
     name 'SF Ferretopia'
     homepage 'http://www.dafont.com/sf-ferretopia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Ferretopia Bold Oblique.ttf'
     font 'SF Ferretopia Bold.ttf'

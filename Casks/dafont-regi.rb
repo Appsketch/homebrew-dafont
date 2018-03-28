@@ -5,7 +5,6 @@ cask 'dafont-regi' do
     url 'http://dl.dafont.com/dl/?f=regi'
     name 'Regi'
     homepage 'http://www.dafont.com/regi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Regi.ttf'
 end

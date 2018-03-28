@@ -5,7 +5,6 @@ cask 'dafont-sixth-sense2' do
     url 'http://dl.dafont.com/dl/?f=sixth_sense2'
     name 'Sixth Sense'
     homepage 'http://www.dafont.com/sixth-sense2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sixth Sense.ttf'
 end

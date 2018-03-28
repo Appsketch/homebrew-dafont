@@ -5,7 +5,6 @@ cask 'dafont-majorsketchy' do
     url 'http://dl.dafont.com/dl/?f=majorsketchy'
     name 'Major Sketchy'
     homepage 'http://www.dafont.com/majorsketchy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MajorSketchy.ttf'
 end

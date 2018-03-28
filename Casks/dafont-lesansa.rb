@@ -5,7 +5,6 @@ cask 'dafont-lesansa' do
     url 'http://dl.dafont.com/dl/?f=lesansa'
     name 'Lesansa'
     homepage 'http://www.dafont.com/lesansa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lesansa.ttf'
 end

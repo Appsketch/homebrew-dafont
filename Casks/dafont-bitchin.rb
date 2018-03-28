@@ -5,7 +5,6 @@ cask 'dafont-bitchin' do
     url 'http://dl.dafont.com/dl/?f=bitchin'
     name 'Bitchin'
     homepage 'http://www.dafont.com/bitchin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bitchin.ttf'
 end

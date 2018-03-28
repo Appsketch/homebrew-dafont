@@ -5,7 +5,6 @@ cask 'dafont-mage-script' do
     url 'http://dl.dafont.com/dl/?f=mage_script'
     name 'Mage Script'
     homepage 'http://www.dafont.com/mage-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mage Script Bold Italic.otf'
     font 'Mage Script Bold.otf'

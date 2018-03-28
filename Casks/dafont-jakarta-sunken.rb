@@ -5,7 +5,6 @@ cask 'dafont-jakarta-sunken' do
     url 'http://dl.dafont.com/dl/?f=jakarta_sunken'
     name 'Jakarta Sunken'
     homepage 'http://www.dafont.com/jakarta-sunken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jakarta_sunken.ttf'
 end

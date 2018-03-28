@@ -5,7 +5,6 @@ cask 'dafont-ws-serif' do
     url 'http://dl.dafont.com/dl/?f=ws_serif'
     name 'WS Serif'
     homepage 'http://www.dafont.com/ws-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WS Serif.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-night-still-comes' do
     url 'http://dl.dafont.com/dl/?f=night_still_comes'
     name 'Night Still Comes'
     homepage 'http://www.dafont.com/night-still-comes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NightStillComes_bold_final_sample.otf'
     font 'NightStillComes_bolditalic_final_sample.otf'

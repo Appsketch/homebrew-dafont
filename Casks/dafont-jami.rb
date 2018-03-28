@@ -5,7 +5,6 @@ cask 'dafont-jami' do
     url 'http://dl.dafont.com/dl/?f=jami'
     name 'Jami'
     homepage 'http://www.dafont.com/jami.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JAMI.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kinkub-flat' do
     url 'http://dl.dafont.com/dl/?f=kinkub_flat'
     name 'Kinkub Flat'
     homepage 'http://www.dafont.com/kinkub-flat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KINKC___.TTF'
     font 'KINKI___.TTF'

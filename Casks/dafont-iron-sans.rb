@@ -5,7 +5,6 @@ cask 'dafont-iron-sans' do
     url 'http://dl.dafont.com/dl/?f=iron_sans'
     name 'Iron Sans'
     homepage 'http://www.dafont.com/iron-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IronSans.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-amerika-sans' do
     url 'http://dl.dafont.com/dl/?f=amerika_sans'
     name 'Amerika Sans'
     homepage 'http://www.dafont.com/amerika-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AMERSN__.ttf'
 end

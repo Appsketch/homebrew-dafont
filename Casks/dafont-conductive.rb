@@ -5,7 +5,6 @@ cask 'dafont-conductive' do
     url 'http://dl.dafont.com/dl/?f=conductive'
     name 'Conductive'
     homepage 'http://www.dafont.com/conductive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Conductive 1.1.ttf'
 end

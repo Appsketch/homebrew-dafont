@@ -5,7 +5,6 @@ cask 'dafont-emmyshandwriting' do
     url 'http://dl.dafont.com/dl/?f=emmyshandwriting'
     name 'Emmys Handwriting'
     homepage 'http://www.dafont.com/emmyshandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EmmysHandwriting.ttf'
 end

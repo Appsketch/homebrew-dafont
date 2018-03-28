@@ -5,7 +5,6 @@ cask 'dafont-3of9-barcode' do
     url 'http://dl.dafont.com/dl/?f=3of9_barcode'
     name '3 of 9 Barcode'
     homepage 'http://www.dafont.com/3of9-barcode.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '3OF9_NEW.TTF'
 end

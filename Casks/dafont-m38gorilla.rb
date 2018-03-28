@@ -5,7 +5,6 @@ cask 'dafont-m38gorilla' do
     url 'http://dl.dafont.com/dl/?f=m38gorilla'
     name 'M38 Gorilla'
     homepage 'http://www.dafont.com/m38gorilla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'm38.TTF'
 end

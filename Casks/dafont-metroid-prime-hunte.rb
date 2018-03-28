@@ -5,7 +5,6 @@ cask 'dafont-metroid-prime-hunte' do
     url 'http://dl.dafont.com/dl/?f=metroid_prime_hunte'
     name 'Metroid Prime Hunters'
     homepage 'http://www.dafont.com/metroid-prime-hunte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Metroid Prime Hunters.ttf'
 end

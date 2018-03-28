@@ -5,7 +5,6 @@ cask 'dafont-nacimiento' do
     url 'http://dl.dafont.com/dl/?f=nacimiento'
     name 'Nacimiento'
     homepage 'http://www.dafont.com/nacimiento.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nacimiento ExtraBold.ttf'
 end

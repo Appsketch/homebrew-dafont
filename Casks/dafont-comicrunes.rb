@@ -5,7 +5,6 @@ cask 'dafont-comicrunes' do
     url 'http://dl.dafont.com/dl/?f=comicrunes'
     name 'Comic Runes'
     homepage 'http://www.dafont.com/comicrunes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ComicRunes.otf'
 end

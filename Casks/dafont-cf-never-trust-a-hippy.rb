@@ -5,7 +5,6 @@ cask 'dafont-cf-never-trust-a-hippy' do
     url 'http://dl.dafont.com/dl/?f=cf_never_trust_a_hippy'
     name 'CF Never Trust A Hippy'
     homepage 'http://www.dafont.com/cf-never-trust-a-hippy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFNeverTrustAHippy-Regular.ttf'
 end

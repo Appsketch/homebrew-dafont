@@ -5,7 +5,6 @@ cask 'dafont-sf-distant-galaxy' do
     url 'http://dl.dafont.com/dl/?f=sf_distant_galaxy'
     name 'SF Distant Galaxy'
     homepage 'http://www.dafont.com/sf-distant-galaxy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Distant Galaxy Alternate Italic.ttf'
     font 'SF Distant Galaxy Alternate.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-ks-hand' do
     url 'http://dl.dafont.com/dl/?f=ks_hand'
     name 'KS Hand'
     homepage 'http://www.dafont.com/ks-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ks_hand.ttf'
 end

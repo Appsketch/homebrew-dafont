@@ -5,7 +5,6 @@ cask 'dafont-partyline' do
     url 'http://dl.dafont.com/dl/?f=partyline'
     name 'Partyline'
     homepage 'http://www.dafont.com/partyline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'partyline.ttf'
 end

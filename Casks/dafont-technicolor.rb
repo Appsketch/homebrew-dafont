@@ -5,7 +5,6 @@ cask 'dafont-technicolor' do
     url 'http://dl.dafont.com/dl/?f=technicolor'
     name 'Technicolor'
     homepage 'http://www.dafont.com/technicolor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TECHNICO.TTF'
 end

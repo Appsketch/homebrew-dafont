@@ -5,7 +5,6 @@ cask 'dafont-odin-rounded' do
     url 'http://dl.dafont.com/dl/?f=odin_rounded'
     name 'Odin Rounded'
     homepage 'http://www.dafont.com/odin-rounded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Odin Rounded - Bold.otf'
 end

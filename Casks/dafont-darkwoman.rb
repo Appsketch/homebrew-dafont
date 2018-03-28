@@ -5,7 +5,6 @@ cask 'dafont-darkwoman' do
     url 'http://dl.dafont.com/dl/?f=darkwoman'
     name 'Darkwoman'
     homepage 'http://www.dafont.com/darkwoman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Darkwoman.otf'
 end

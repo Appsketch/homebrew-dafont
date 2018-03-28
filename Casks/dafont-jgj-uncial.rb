@@ -5,7 +5,6 @@ cask 'dafont-jgj-uncial' do
     url 'http://dl.dafont.com/dl/?f=jgj_uncial'
     name 'JGJ Uncial'
     homepage 'http://www.dafont.com/jgj-uncial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JGJUI___.TTF'
     font 'JGJUNCIA.TTF'

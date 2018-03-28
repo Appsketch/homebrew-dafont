@@ -5,7 +5,6 @@ cask 'dafont-madman' do
     url 'http://dl.dafont.com/dl/?f=madman'
     name 'Madman'
     homepage 'http://www.dafont.com/madman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'madman.ttf'
 end

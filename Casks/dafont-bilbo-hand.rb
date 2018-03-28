@@ -5,7 +5,6 @@ cask 'dafont-bilbo-hand' do
     url 'http://dl.dafont.com/dl/?f=bilbo_hand'
     name 'Bilbo Hand'
     homepage 'http://www.dafont.com/bilbo-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bilbobold.ttf'
     font 'bilbofine.ttf'

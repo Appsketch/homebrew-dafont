@@ -5,7 +5,6 @@ cask 'dafont-hapole-bmess' do
     url 'http://dl.dafont.com/dl/?f=hapole_bmess'
     name 'Hapole BMess'
     homepage 'http://www.dafont.com/hapole-bmess.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hapole_BMess.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bubbleubblekickssomeass' do
     url 'http://dl.dafont.com/dl/?f=bubbleubblekickssomeass'
     name 'Bubbleubble Kicks Some Ass'
     homepage 'http://www.dafont.com/bubbleubblekickssomeass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BubbleubbleKicksSomeAss.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mtv-selector' do
     url 'http://dl.dafont.com/dl/?f=mtv_selector'
     name 'Music Television Selector'
     homepage 'http://www.dafont.com/mtv-selector.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'musictelevisionselector.ttf'
 end

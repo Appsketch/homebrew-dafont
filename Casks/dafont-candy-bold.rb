@@ -5,7 +5,6 @@ cask 'dafont-candy-bold' do
     url 'http://dl.dafont.com/dl/?f=candy_bold'
     name 'Candy Bold'
     homepage 'http://www.dafont.com/candy-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CANDB___.TTF'
 end

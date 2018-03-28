@@ -5,7 +5,6 @@ cask 'dafont-el-alambre-tfb' do
     url 'http://dl.dafont.com/dl/?f=el_alambre_tfb'
     name 'El Alambre TFB'
     homepage 'http://www.dafont.com/el-alambre-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'el alambre tfb.ttf'
 end

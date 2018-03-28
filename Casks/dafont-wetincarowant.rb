@@ -5,7 +5,6 @@ cask 'dafont-wetincarowant' do
     url 'http://dl.dafont.com/dl/?f=wetincarowant'
     name 'Wetin Caro Want'
     homepage 'http://www.dafont.com/wetincarowant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WetinCaroWant.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-2016-bugs' do
     url 'http://dl.dafont.com/dl/?f=2016_bugs'
     name '2016 Bugs'
     homepage 'http://www.dafont.com/2016-bugs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '2016 Bugs.ttf'
 end

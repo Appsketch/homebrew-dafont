@@ -5,7 +5,6 @@ cask 'dafont-puppybellies' do
     url 'http://dl.dafont.com/dl/?f=puppybellies'
     name 'Puppy Bellies'
     homepage 'http://www.dafont.com/puppybellies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PuppyBellies.ttf'
 end

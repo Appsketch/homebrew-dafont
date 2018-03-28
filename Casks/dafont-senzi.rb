@@ -5,7 +5,6 @@ cask 'dafont-senzi' do
     url 'http://dl.dafont.com/dl/?f=senzi'
     name 'Senzi'
     homepage 'http://www.dafont.com/senzi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Senzi Bold Italic.ttf'
     font 'Senzi Bold.ttf'

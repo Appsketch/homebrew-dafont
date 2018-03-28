@@ -5,7 +5,6 @@ cask 'dafont-cubebitmap' do
     url 'http://dl.dafont.com/dl/?f=cubebitmap'
     name 'CubeBitmap'
     homepage 'http://www.dafont.com/cubebitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CUBE-BIT.TTF'
 end

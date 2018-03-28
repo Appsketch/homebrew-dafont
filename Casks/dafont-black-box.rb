@@ -5,7 +5,6 @@ cask 'dafont-black-box' do
     url 'http://dl.dafont.com/dl/?f=black_box'
     name 'FE Black Box'
     homepage 'http://www.dafont.com/black-box.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE Black Box.otf'
 end

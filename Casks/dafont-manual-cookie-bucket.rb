@@ -5,7 +5,6 @@ cask 'dafont-manual-cookie-bucket' do
     url 'http://dl.dafont.com/dl/?f=manual_cookie_bucket'
     name 'Manual Cookie Bucket'
     homepage 'http://www.dafont.com/manual-cookie-bucket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'manual_bucket.ttf'
 end

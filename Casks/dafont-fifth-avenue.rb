@@ -5,7 +5,6 @@ cask 'dafont-fifth-avenue' do
     url 'http://dl.dafont.com/dl/?f=fifth_avenue'
     name 'Fifth Avenue'
     homepage 'http://www.dafont.com/fifth-avenue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fifth avenue.ttf'
 end

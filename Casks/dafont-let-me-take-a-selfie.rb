@@ -5,7 +5,6 @@ cask 'dafont-let-me-take-a-selfie' do
     url 'http://dl.dafont.com/dl/?f=let_me_take_a_selfie'
     name 'Let me take a selfie'
     homepage 'http://www.dafont.com/let-me-take-a-selfie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'let-me-take-a-selfie.ttf'
 end

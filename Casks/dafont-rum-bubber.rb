@@ -5,7 +5,6 @@ cask 'dafont-rum-bubber' do
     url 'http://dl.dafont.com/dl/?f=rum_bubber'
     name 'Rum Bubber'
     homepage 'http://www.dafont.com/rum-bubber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rum Bubber.ttf'
 end

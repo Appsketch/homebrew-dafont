@@ -5,7 +5,6 @@ cask 'dafont-trashbarusa' do
     url 'http://dl.dafont.com/dl/?f=trashbarusa'
     name 'TrashBarusa'
     homepage 'http://www.dafont.com/trashbarusa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TrashBarusa.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bertholdr-mainzer-fraktur' do
     url 'http://dl.dafont.com/dl/?f=bertholdr_mainzer_fraktur'
     name 'Bertholdr Mainzer Fraktur'
     homepage 'http://www.dafont.com/bertholdr-mainzer-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bertholdr Mainzer Fraktur.ttf'
 end

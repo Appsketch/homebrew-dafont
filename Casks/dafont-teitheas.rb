@@ -5,7 +5,6 @@ cask 'dafont-teitheas' do
     url 'http://dl.dafont.com/dl/?f=teitheas'
     name 'Teitheas'
     homepage 'http://www.dafont.com/teitheas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Teitheas.ttf'
 end

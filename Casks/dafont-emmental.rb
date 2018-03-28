@@ -5,7 +5,6 @@ cask 'dafont-emmental' do
     url 'http://dl.dafont.com/dl/?f=emmental'
     name 'Emmental'
     homepage 'http://www.dafont.com/emmental.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Emmental.ttf'
 end

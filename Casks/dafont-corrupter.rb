@@ -5,7 +5,6 @@ cask 'dafont-corrupter' do
     url 'http://dl.dafont.com/dl/?f=corrupter'
     name 'Corrupter'
     homepage 'http://www.dafont.com/corrupter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Corrupter.ttf'
 end

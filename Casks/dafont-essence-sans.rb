@@ -5,7 +5,6 @@ cask 'dafont-essence-sans' do
     url 'http://dl.dafont.com/dl/?f=essence_sans'
     name 'Essence Sans'
     homepage 'http://www.dafont.com/essence-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Essence Sans Bold Italic.ttf'
     font 'Essence Sans Bold.ttf'

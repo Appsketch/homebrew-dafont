@@ -5,7 +5,6 @@ cask 'dafont-glennshand' do
     url 'http://dl.dafont.com/dl/?f=glennshand'
     name 'Glenns Hand'
     homepage 'http://www.dafont.com/glennshand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Glenns Hand.ttf'
 end

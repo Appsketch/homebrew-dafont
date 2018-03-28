@@ -5,7 +5,6 @@ cask 'dafont-stop-shark-finning' do
     url 'http://dl.dafont.com/dl/?f=stop_shark_finning'
     name 'Stop Shark Finning'
     homepage 'http://www.dafont.com/stop-shark-finning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STOP SHARK FINNING.ttf'
 end

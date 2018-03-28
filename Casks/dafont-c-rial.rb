@@ -5,7 +5,6 @@ cask 'dafont-c-rial' do
     url 'http://dl.dafont.com/dl/?f=c_rial'
     name 'C Rial'
     homepage 'http://www.dafont.com/c-rial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRBLATRIAL.ttf'
     font 'CRIALTRIAL.ttf'

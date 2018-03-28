@@ -5,7 +5,6 @@ cask 'dafont-mixcd' do
     url 'http://dl.dafont.com/dl/?f=mixcd'
     name 'Mix CD'
     homepage 'http://www.dafont.com/mixcd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixCD.ttf'
 end

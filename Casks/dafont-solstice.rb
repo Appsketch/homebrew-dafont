@@ -5,7 +5,6 @@ cask 'dafont-solstice' do
     url 'http://dl.dafont.com/dl/?f=solstice'
     name 'Solstice Of Suffering'
     homepage 'http://www.dafont.com/solstice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SolsticeOfSuffering.ttf'
 end

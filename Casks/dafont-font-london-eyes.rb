@@ -5,7 +5,6 @@ cask 'dafont-font-london-eyes' do
     url 'http://dl.dafont.com/dl/?f=font_london_eyes'
     name 'Font London Eyes'
     homepage 'http://www.dafont.com/font-london-eyes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Font_london eyes 2.ttf'
 end

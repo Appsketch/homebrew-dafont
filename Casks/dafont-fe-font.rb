@@ -5,7 +5,6 @@ cask 'dafont-fe-font' do
     url 'http://dl.dafont.com/dl/?f=fe_font'
     name 'FE-Font'
     homepage 'http://www.dafont.com/fe-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE-FONT.TTF'
 end

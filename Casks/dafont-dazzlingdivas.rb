@@ -5,7 +5,6 @@ cask 'dafont-dazzlingdivas' do
     url 'http://dl.dafont.com/dl/?f=dazzlingdivas'
     name 'Dazzling Divas'
     homepage 'http://www.dafont.com/dazzlingdivas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DazzlingDivas.ttf'
 end

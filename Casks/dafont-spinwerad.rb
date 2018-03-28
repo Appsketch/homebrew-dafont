@@ -5,7 +5,6 @@ cask 'dafont-spinwerad' do
     url 'http://dl.dafont.com/dl/?f=spinwerad'
     name 'Spinwerad'
     homepage 'http://www.dafont.com/spinwerad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spinwerad.ttf'
     font 'spinweradC.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-mon-amour-fraktur' do
     url 'http://dl.dafont.com/dl/?f=mon_amour_fraktur'
     name 'Mon Amour Fraktur'
     homepage 'http://www.dafont.com/mon-amour-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MonAmourFraktur.ttf'
 end

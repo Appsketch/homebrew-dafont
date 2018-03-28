@@ -5,7 +5,6 @@ cask 'dafont-la-piedrita' do
     url 'http://dl.dafont.com/dl/?f=la_piedrita'
     name 'La Piedrita'
     homepage 'http://www.dafont.com/la-piedrita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaPiedrita.otf'
 end

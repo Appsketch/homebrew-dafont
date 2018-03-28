@@ -5,7 +5,6 @@ cask 'dafont-east-coast-stationery' do
     url 'http://dl.dafont.com/dl/?f=east_coast_stationery'
     name 'East Coast Stationery'
     homepage 'http://www.dafont.com/east-coast-stationery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'East Coast Stationery.ttf'
 end

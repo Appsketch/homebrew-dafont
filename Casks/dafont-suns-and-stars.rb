@@ -5,7 +5,6 @@ cask 'dafont-suns-and-stars' do
     url 'http://dl.dafont.com/dl/?f=suns_and_stars'
     name 'Suns and Stars'
     homepage 'http://www.dafont.com/suns-and-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Suns and Stars.ttf'
 end

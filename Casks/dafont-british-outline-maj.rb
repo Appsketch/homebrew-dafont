@@ -5,7 +5,6 @@ cask 'dafont-british-outline-maj' do
     url 'http://dl.dafont.com/dl/?f=british_outline_maj'
     name 'British Outline Majuscules'
     homepage 'http://www.dafont.com/british-outline-maj.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BritishOutline.ttf'
 end

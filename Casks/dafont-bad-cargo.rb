@@ -5,7 +5,6 @@ cask 'dafont-bad-cargo' do
     url 'http://dl.dafont.com/dl/?f=bad_cargo'
     name 'Bad Cargo'
     homepage 'http://www.dafont.com/bad-cargo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'badcargo2.ttf'
 end

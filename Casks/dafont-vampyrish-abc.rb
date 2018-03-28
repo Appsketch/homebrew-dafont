@@ -5,7 +5,6 @@ cask 'dafont-vampyrish-abc' do
     url 'http://dl.dafont.com/dl/?f=vampyrish_abc'
     name 'Vampyrish ABC'
     homepage 'http://www.dafont.com/vampyrish-abc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VampyrishABC-Oblique.ttf'
 end

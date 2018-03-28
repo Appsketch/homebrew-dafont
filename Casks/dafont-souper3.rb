@@ -5,7 +5,6 @@ cask 'dafont-souper3' do
     url 'http://dl.dafont.com/dl/?f=souper3'
     name 'Souper 3'
     homepage 'http://www.dafont.com/souper3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SOUPER3.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-edition-12' do
     url 'http://dl.dafont.com/dl/?f=edition_12'
     name 'Edition 12'
     homepage 'http://www.dafont.com/edition-12.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EDITIA__.TTF'
 end

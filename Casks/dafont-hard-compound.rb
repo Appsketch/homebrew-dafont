@@ -5,7 +5,6 @@ cask 'dafont-hard-compound' do
     url 'http://dl.dafont.com/dl/?f=hard_compound'
     name 'Hard Compound'
     homepage 'http://www.dafont.com/hard-compound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hard Compound.ttf'
 end

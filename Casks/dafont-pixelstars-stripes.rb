@@ -5,7 +5,6 @@ cask 'dafont-pixelstars-stripes' do
     url 'http://dl.dafont.com/dl/?f=pixelstars_stripes'
     name 'Pixelstars &amp; Stripes'
     homepage 'http://www.dafont.com/pixelstars-stripes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixelstars-stripes.ttf'
 end

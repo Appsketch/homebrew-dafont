@@ -5,7 +5,6 @@ cask 'dafont-lightsider' do
     url 'http://dl.dafont.com/dl/?f=lightsider'
     name 'Lightsider'
     homepage 'http://www.dafont.com/lightsider.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lightsider.ttf'
     font 'lightsider3d.ttf'

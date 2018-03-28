@@ -5,7 +5,6 @@ cask 'dafont-animal-silence' do
     url 'http://dl.dafont.com/dl/?f=animal_silence'
     name 'Animal Silence'
     homepage 'http://www.dafont.com/animal-silence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Animal Silence.otf'
 end

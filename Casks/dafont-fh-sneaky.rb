@@ -5,7 +5,6 @@ cask 'dafont-fh-sneaky' do
     url 'http://dl.dafont.com/dl/?f=fh_sneaky'
     name 'FH Sneaky'
     homepage 'http://www.dafont.com/fh-sneaky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fh_Sneaky.otf'
 end

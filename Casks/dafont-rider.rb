@@ -5,7 +5,6 @@ cask 'dafont-rider' do
     url 'http://dl.dafont.com/dl/?f=rider'
     name 'Rider'
     homepage 'http://www.dafont.com/rider.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fat_high_italic.ttf'
     font 'fat_high.ttf'

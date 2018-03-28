@@ -5,7 +5,6 @@ cask 'dafont-awesome-as-fuck' do
     url 'http://dl.dafont.com/dl/?f=awesome_as_fuck'
     name 'Awesome As Fuck'
     homepage 'http://www.dafont.com/awesome-as-fuck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AwesomeAsFuck (OpenType).otf'
 end

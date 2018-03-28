@@ -5,7 +5,6 @@ cask 'dafont-moduldama' do
     url 'http://dl.dafont.com/dl/?f=moduldama'
     name 'Moduldama'
     homepage 'http://www.dafont.com/moduldama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moduldama-Regular.ttf'
 end

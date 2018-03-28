@@ -5,7 +5,6 @@ cask 'dafont-fasterstronger' do
     url 'http://dl.dafont.com/dl/?f=fasterstronger'
     name 'Faster Stronger'
     homepage 'http://www.dafont.com/fasterstronger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FasterStonger.ttf'
 end

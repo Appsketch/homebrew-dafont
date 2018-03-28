@@ -5,7 +5,6 @@ cask 'dafont-yardentawns' do
     url 'http://dl.dafont.com/dl/?f=yardentawns'
     name 'Yarden Tawns'
     homepage 'http://www.dafont.com/yardentawns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YardenTawns.ttf'
 end

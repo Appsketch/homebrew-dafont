@@ -5,7 +5,6 @@ cask 'dafont-hall-of-heroes' do
     url 'http://dl.dafont.com/dl/?f=hall_of_heroes'
     name 'Hall of Heroes'
     homepage 'http://www.dafont.com/hall-of-heroes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hallheroes.ttf'
 end

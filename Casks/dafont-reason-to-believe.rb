@@ -5,7 +5,6 @@ cask 'dafont-reason-to-believe' do
     url 'http://dl.dafont.com/dl/?f=reason_to_believe'
     name 'Reason to believe'
     homepage 'http://www.dafont.com/reason-to-believe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'reason to believe.ttf'
 end

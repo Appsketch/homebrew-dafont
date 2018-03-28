@@ -5,7 +5,6 @@ cask 'dafont-goodfish' do
     url 'http://dl.dafont.com/dl/?f=goodfish'
     name 'Goodfish'
     homepage 'http://www.dafont.com/goodfish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'goodfish bd it.ttf'
     font 'goodfish bd.ttf'

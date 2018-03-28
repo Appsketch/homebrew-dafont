@@ -5,7 +5,6 @@ cask 'dafont-malagua' do
     url 'http://dl.dafont.com/dl/?f=malagua'
     name 'Malagua'
     homepage 'http://www.dafont.com/malagua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAD_____.TTF'
 end

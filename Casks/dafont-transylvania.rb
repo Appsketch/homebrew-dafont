@@ -5,7 +5,6 @@ cask 'dafont-transylvania' do
     url 'http://dl.dafont.com/dl/?f=transylvania'
     name 'Transylvania'
     homepage 'http://www.dafont.com/transylvania.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Transylvania.ttf'
 end

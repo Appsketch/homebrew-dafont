@@ -5,7 +5,6 @@ cask 'dafont-faishal' do
     url 'http://dl.dafont.com/dl/?f=faishal'
     name 'Faishal'
     homepage 'http://www.dafont.com/faishal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'faishal.ttf'
 end

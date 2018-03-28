@@ -5,7 +5,6 @@ cask 'dafont-rsehandwritingpi' do
     url 'http://dl.dafont.com/dl/?f=rsehandwritingpi'
     name 'RSE Handwriting Pi'
     homepage 'http://www.dafont.com/rsehandwritingpi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RSE HandwritingPixel.ttf'
 end

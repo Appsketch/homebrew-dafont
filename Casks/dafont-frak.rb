@@ -5,7 +5,6 @@ cask 'dafont-frak' do
     url 'http://dl.dafont.com/dl/?f=frak'
     name 'Frak'
     homepage 'http://www.dafont.com/frak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'frak.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-old-sydney' do
     url 'http://dl.dafont.com/dl/?f=old_sydney'
     name 'Old Sydney'
     homepage 'http://www.dafont.com/old-sydney.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OLD SYDNEY_DEMO.otf'
 end

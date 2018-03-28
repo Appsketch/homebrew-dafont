@@ -5,7 +5,6 @@ cask 'dafont-andyfish' do
     url 'http://dl.dafont.com/dl/?f=andyfish'
     name 'Andy Fish'
     homepage 'http://www.dafont.com/andyfish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANDYFISH.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cookiescream' do
     url 'http://dl.dafont.com/dl/?f=cookiescream'
     name 'Cookies Cream'
     homepage 'http://www.dafont.com/cookiescream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cookiescream.ttf'
 end

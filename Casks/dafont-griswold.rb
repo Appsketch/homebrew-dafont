@@ -5,7 +5,6 @@ cask 'dafont-griswold' do
     url 'http://dl.dafont.com/dl/?f=griswold'
     name 'Griswold'
     homepage 'http://www.dafont.com/griswold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Griswold.ttf'
 end

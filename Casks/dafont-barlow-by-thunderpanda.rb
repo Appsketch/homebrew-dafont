@@ -5,7 +5,6 @@ cask 'dafont-barlow-by-thunderpanda' do
     url 'http://dl.dafont.com/dl/?f=barlow_by_thunderpanda'
     name 'Barlow by Thunderpanda'
     homepage 'http://www.dafont.com/barlow-by-thunderpanda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barlow_by_Thunderpanda_ver01.ttf'
     font 'Barlow_by_Thunderpanda_ver02.ttf'

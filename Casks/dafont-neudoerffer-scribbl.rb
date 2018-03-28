@@ -5,7 +5,6 @@ cask 'dafont-neudoerffer-scribbl' do
     url 'http://dl.dafont.com/dl/?f=neudoerffer_scribbl'
     name 'Neudoerffer Scribble Quality'
     homepage 'http://www.dafont.com/neudoerffer-scribbl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeudoerfferScribbleQuality.ttf'
 end

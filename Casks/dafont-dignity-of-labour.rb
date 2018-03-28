@@ -5,7 +5,6 @@ cask 'dafont-dignity-of-labour' do
     url 'http://dl.dafont.com/dl/?f=dignity_of_labour'
     name 'Dignity of Labour'
     homepage 'http://www.dafont.com/dignity-of-labour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dignity of labour.ttf'
 end

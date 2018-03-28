@@ -5,7 +5,6 @@ cask 'dafont-lietz-lindauhamburg' do
     url 'http://dl.dafont.com/dl/?f=lietz_lindauhamburg'
     name 'Lietz Lindau Hamburg'
     homepage 'http://www.dafont.com/lietz-lindauhamburg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LietzLindauHamburg.otf'
 end

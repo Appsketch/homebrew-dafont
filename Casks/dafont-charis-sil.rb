@@ -5,7 +5,6 @@ cask 'dafont-charis-sil' do
     url 'http://dl.dafont.com/dl/?f=charis_sil'
     name 'Charis'
     homepage 'http://www.dafont.com/charis-sil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CharisSILB.ttf'
     font 'CharisSILBI.ttf'

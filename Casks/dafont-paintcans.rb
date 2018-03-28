@@ -5,7 +5,6 @@ cask 'dafont-paintcans' do
     url 'http://dl.dafont.com/dl/?f=paintcans'
     name 'PaintCans'
     homepage 'http://www.dafont.com/paintcans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaintCans_09_FREE.otf'
 end

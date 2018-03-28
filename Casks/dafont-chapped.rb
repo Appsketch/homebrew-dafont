@@ -5,7 +5,6 @@ cask 'dafont-chapped' do
     url 'http://dl.dafont.com/dl/?f=chapped'
     name 'Chapped'
     homepage 'http://www.dafont.com/chapped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chapped.ttf'
 end

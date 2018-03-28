@@ -5,7 +5,6 @@ cask 'dafont-vincentstreet' do
     url 'http://dl.dafont.com/dl/?f=vincentstreet'
     name 'Vincent Street'
     homepage 'http://www.dafont.com/vincentstreet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VincentStreet.ttf'
 end

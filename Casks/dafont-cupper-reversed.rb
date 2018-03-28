@@ -5,7 +5,6 @@ cask 'dafont-cupper-reversed' do
     url 'http://dl.dafont.com/dl/?f=cupper_reversed'
     name 'Cupper Reversed'
     homepage 'http://www.dafont.com/cupper-reversed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cupper Reversed.ttf'
 end

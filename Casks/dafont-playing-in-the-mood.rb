@@ -5,7 +5,6 @@ cask 'dafont-playing-in-the-mood' do
     url 'http://dl.dafont.com/dl/?f=playing_in_the_mood'
     name 'Playing in the Mood'
     homepage 'http://www.dafont.com/playing-in-the-mood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Playing in the Mood.ttf'
 end

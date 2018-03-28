@@ -5,7 +5,6 @@ cask 'dafont-pictopeeps' do
     url 'http://dl.dafont.com/dl/?f=pictopeeps'
     name 'Picto Peeps'
     homepage 'http://www.dafont.com/pictopeeps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pictopeeps.ttf'
 end

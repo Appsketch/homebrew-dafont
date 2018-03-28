@@ -5,7 +5,6 @@ cask 'dafont-reklame-script-demo' do
     url 'http://dl.dafont.com/dl/?f=reklame_script_demo'
     name 'Reklame Script'
     homepage 'http://www.dafont.com/reklame-script-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ReklameScript-Regular_DEMO.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-okas' do
     url 'http://dl.dafont.com/dl/?f=okas'
     name 'Okas'
     homepage 'http://www.dafont.com/okas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OKAS.ttf'
 end

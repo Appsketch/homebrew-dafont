@@ -5,7 +5,6 @@ cask 'dafont-ryp-childc' do
     url 'http://dl.dafont.com/dl/?f=ryp_childc'
     name 'Ryp childC'
     homepage 'http://www.dafont.com/ryp-childc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ryp_chC.ttf'
 end

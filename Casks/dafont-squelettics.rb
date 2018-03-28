@@ -5,7 +5,6 @@ cask 'dafont-squelettics' do
     url 'http://dl.dafont.com/dl/?f=squelettics'
     name 'Squelettics'
     homepage 'http://www.dafont.com/squelettics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Squelettics.otf'
 end

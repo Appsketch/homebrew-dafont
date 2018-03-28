@@ -5,7 +5,6 @@ cask 'dafont-dominique2' do
     url 'http://dl.dafont.com/dl/?f=dominique2'
     name 'Dominique'
     homepage 'http://www.dafont.com/dominique2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dominique.ttf'
 end

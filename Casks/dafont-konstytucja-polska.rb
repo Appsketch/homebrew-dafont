@@ -5,7 +5,6 @@ cask 'dafont-konstytucja-polska' do
     url 'http://dl.dafont.com/dl/?f=konstytucja_polska'
     name 'Konstytucja Polska'
     homepage 'http://www.dafont.com/konstytucja-polska.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KonstytucjaPolska.ttf'
 end

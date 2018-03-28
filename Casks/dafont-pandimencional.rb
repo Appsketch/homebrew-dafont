@@ -5,7 +5,6 @@ cask 'dafont-pandimencional' do
     url 'http://dl.dafont.com/dl/?f=pandimencional'
     name 'Pandimencional'
     homepage 'http://www.dafont.com/pandimencional.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pandimensional.ttf'
 end

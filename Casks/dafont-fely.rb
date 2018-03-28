@@ -5,7 +5,6 @@ cask 'dafont-fely' do
     url 'http://dl.dafont.com/dl/?f=fely'
     name 'Fely'
     homepage 'http://www.dafont.com/fely.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fely.ttf'
 end

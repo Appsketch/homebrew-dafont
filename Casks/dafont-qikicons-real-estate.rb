@@ -5,7 +5,6 @@ cask 'dafont-qikicons-real-estate' do
     url 'http://dl.dafont.com/dl/?f=qikicons_real_estate'
     name 'Qikicons Real Estate'
     homepage 'http://www.dafont.com/qikicons-real-estate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'qikicons real estate.otf'
 end

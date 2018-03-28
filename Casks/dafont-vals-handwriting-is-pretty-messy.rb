@@ -5,7 +5,6 @@ cask 'dafont-vals-handwriting-is-pretty-messy' do
     url 'http://dl.dafont.com/dl/?f=vals_handwriting_is_pretty_messy'
     name 'Val&#039;s Handwriting is Pretty Messy'
     homepage 'http://www.dafont.com/vals-handwriting-is-pretty-messy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Val&#039;s Handwriting is Pretty Messy.ttf'
 end

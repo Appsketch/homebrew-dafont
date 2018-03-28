@@ -5,7 +5,6 @@ cask 'dafont-cordontvfont' do
     url 'http://dl.dafont.com/dl/?f=cordontvfont'
     name 'Cordon TV Font'
     homepage 'http://www.dafont.com/cordontvfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cordontvfont.ttf'
 end

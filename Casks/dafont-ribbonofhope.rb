@@ -5,7 +5,6 @@ cask 'dafont-ribbonofhope' do
     url 'http://dl.dafont.com/dl/?f=ribbonofhope'
     name 'Ribbon Of hope'
     homepage 'http://www.dafont.com/ribbonofhope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RibbonOfhope.ttf'
 end

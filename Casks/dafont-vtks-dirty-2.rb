@@ -5,7 +5,6 @@ cask 'dafont-vtks-dirty-2' do
     url 'http://dl.dafont.com/dl/?f=vtks_dirty_2'
     name 'Vtks Dirty 2'
     homepage 'http://www.dafont.com/vtks-dirty-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks dirty 2.ttf'
 end

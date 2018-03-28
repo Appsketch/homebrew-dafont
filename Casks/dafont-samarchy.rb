@@ -5,7 +5,6 @@ cask 'dafont-samarchy' do
     url 'http://dl.dafont.com/dl/?f=samarchy'
     name 'Samarchy'
     homepage 'http://www.dafont.com/samarchy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Samarchy.ttf'
 end

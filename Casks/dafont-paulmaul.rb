@@ -5,7 +5,6 @@ cask 'dafont-paulmaul' do
     url 'http://dl.dafont.com/dl/?f=_paulmaul'
     name '!PaulMaul'
     homepage 'http://www.dafont.com/-paulmaul.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '!PaulMaul-b.ttf'
     font '!PaulMaul.ttf'

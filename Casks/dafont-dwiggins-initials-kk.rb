@@ -5,7 +5,6 @@ cask 'dafont-dwiggins-initials-kk' do
     url 'http://dl.dafont.com/dl/?f=dwiggins_initials_kk'
     name 'Dwiggins Initials KK'
     homepage 'http://www.dafont.com/dwiggins-initials-kk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dwiggins Initials KK.ttf'
 end

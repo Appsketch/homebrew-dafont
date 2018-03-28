@@ -5,7 +5,6 @@ cask 'dafont-variations' do
     url 'http://dl.dafont.com/dl/?f=variations'
     name 'Variations'
     homepage 'http://www.dafont.com/variations.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Variations.ttf'
 end

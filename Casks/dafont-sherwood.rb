@@ -5,7 +5,6 @@ cask 'dafont-sherwood' do
     url 'http://dl.dafont.com/dl/?f=sherwood'
     name 'Sherwood'
     homepage 'http://www.dafont.com/sherwood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHERWOOD.TTF'
 end

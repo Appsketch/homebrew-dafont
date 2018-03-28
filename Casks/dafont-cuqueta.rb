@@ -5,7 +5,6 @@ cask 'dafont-cuqueta' do
     url 'http://dl.dafont.com/dl/?f=cuqueta'
     name 'Cuqueta'
     homepage 'http://www.dafont.com/cuqueta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cuqueta.ttf'
 end

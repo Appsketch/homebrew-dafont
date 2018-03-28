@@ -5,7 +5,6 @@ cask 'dafont-gommogravure' do
     url 'http://dl.dafont.com/dl/?f=gommogravure'
     name 'Gommogravure'
     homepage 'http://www.dafont.com/gommogravure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GOMMOGRA.TTF'
 end

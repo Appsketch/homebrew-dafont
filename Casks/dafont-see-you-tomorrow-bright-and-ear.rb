@@ -5,7 +5,6 @@ cask 'dafont-see-you-tomorrow-bright-and-ear' do
     url 'http://dl.dafont.com/dl/?f=see_you_tomorrow_bright_and_ear'
     name 'See you tomorrow bright and ear'
     homepage 'http://www.dafont.com/see-you-tomorrow-bright-and-ear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'See you tomorrow bright and early.ttf'
 end

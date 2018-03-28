@@ -5,7 +5,6 @@ cask 'dafont-cross-stitch' do
     url 'http://dl.dafont.com/dl/?f=cross_stitch'
     name 'Cross Stitch'
     homepage 'http://www.dafont.com/cross-stitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CROSS STITCH.ttf'
 end

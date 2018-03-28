@@ -5,7 +5,6 @@ cask 'dafont-not-a-drop' do
     url 'http://dl.dafont.com/dl/?f=not_a_drop'
     name 'Not A Drop'
     homepage 'http://www.dafont.com/not-a-drop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOTADROP.ttf'
     font 'NOTADROPLIGHT.ttf'

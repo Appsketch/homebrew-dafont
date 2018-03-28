@@ -5,7 +5,6 @@ cask 'dafont-heffaklump' do
     url 'http://dl.dafont.com/dl/?f=heffaklump'
     name 'Heffaklump'
     homepage 'http://www.dafont.com/heffaklump.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heffaklump.ttf'
 end

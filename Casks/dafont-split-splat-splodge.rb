@@ -5,7 +5,6 @@ cask 'dafont-split-splat-splodge' do
     url 'http://dl.dafont.com/dl/?f=split_splat_splodge'
     name 'Split Splat Splodge'
     homepage 'http://www.dafont.com/split-splat-splodge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPLAT.TTF'
 end

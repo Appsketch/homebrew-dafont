@@ -5,7 +5,6 @@ cask 'dafont-sakiane' do
     url 'http://dl.dafont.com/dl/?f=sakiane'
     name 'Sakiane'
     homepage 'http://www.dafont.com/sakiane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sakiane.ttf'
 end

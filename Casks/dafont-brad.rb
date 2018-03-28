@@ -5,7 +5,6 @@ cask 'dafont-brad' do
     url 'http://dl.dafont.com/dl/?f=brad'
     name 'Brad'
     homepage 'http://www.dafont.com/brad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRAD.TTF'
 end

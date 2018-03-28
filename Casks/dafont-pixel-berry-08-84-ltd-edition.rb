@@ -5,7 +5,6 @@ cask 'dafont-pixel-berry-08-84-ltd-edition' do
     url 'http://dl.dafont.com/dl/?f=pixel_berry_08_84_ltd_edition'
     name 'Pixel Berry 08/84 Ltd.Edition'
     homepage 'http://www.dafont.com/pixel-berry-08-84-ltd-edition.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel_Berry_08_84_Ltd.Edition.TTF'
 end

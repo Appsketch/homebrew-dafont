@@ -5,7 +5,6 @@ cask 'dafont-block-negrita' do
     url 'http://dl.dafont.com/dl/?f=block_negrita'
     name 'Block Negrita'
     homepage 'http://www.dafont.com/block-negrita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'block negrita.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-caveman-regular' do
     url 'http://dl.dafont.com/dl/?f=caveman_regular'
     name 'Caveman'
     homepage 'http://www.dafont.com/caveman-regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'caveman_regular.ttf'
 end

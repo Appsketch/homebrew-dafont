@@ -5,7 +5,6 @@ cask 'dafont-hardcore-pen' do
     url 'http://dl.dafont.com/dl/?f=hardcore_pen'
     name 'Hardcore Pen'
     homepage 'http://www.dafont.com/hardcore-pen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hardcore_alternate.ttf'
     font 'hardcore_pen_regular.ttf'

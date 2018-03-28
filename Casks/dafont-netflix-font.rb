@@ -5,7 +5,6 @@ cask 'dafont-netflix-font' do
     url 'http://dl.dafont.com/dl/?f=netflix_font'
     name 'Netflix Font'
     homepage 'http://www.dafont.com/netflix-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Netflix Font.ttf'
 end

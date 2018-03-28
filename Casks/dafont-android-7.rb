@@ -5,7 +5,6 @@ cask 'dafont-android-7' do
     url 'http://dl.dafont.com/dl/?f=android_7'
     name 'Android 7'
     homepage 'http://www.dafont.com/android-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'android_7.ttf'
 end

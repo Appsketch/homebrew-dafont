@@ -5,7 +5,6 @@ cask 'dafont-overseer' do
     url 'http://dl.dafont.com/dl/?f=overseer'
     name 'Overseer'
     homepage 'http://www.dafont.com/overseer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Overseer Bold Italic.otf'
     font 'Overseer Bold.otf'

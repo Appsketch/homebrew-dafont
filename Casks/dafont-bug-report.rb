@@ -5,7 +5,6 @@ cask 'dafont-bug-report' do
     url 'http://dl.dafont.com/dl/?f=bug_report'
     name 'Bug Report'
     homepage 'http://www.dafont.com/bug-report.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bug Report.ttf'
 end

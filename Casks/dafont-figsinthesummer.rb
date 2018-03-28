@@ -5,7 +5,6 @@ cask 'dafont-figsinthesummer' do
     url 'http://dl.dafont.com/dl/?f=figsinthesummer'
     name 'Figs in the Summer'
     homepage 'http://www.dafont.com/figsinthesummer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Figs in the Summer.ttf'
 end

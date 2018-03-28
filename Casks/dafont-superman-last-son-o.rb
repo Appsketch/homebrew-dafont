@@ -5,7 +5,6 @@ cask 'dafont-superman-last-son-o' do
     url 'http://dl.dafont.com/dl/?f=superman_last_son_o'
     name 'Superman Last Son of Krypton'
     homepage 'http://www.dafont.com/superman-last-son-o.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPERMAN.TTF'
 end

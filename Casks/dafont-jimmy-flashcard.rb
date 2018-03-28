@@ -5,7 +5,6 @@ cask 'dafont-jimmy-flashcard' do
     url 'http://dl.dafont.com/dl/?f=jimmy_flashcard'
     name 'Jimmy Flashcard'
     homepage 'http://www.dafont.com/jimmy-flashcard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jimmy Flashcard.ttf'
 end

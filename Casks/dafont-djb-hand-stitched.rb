@@ -5,7 +5,6 @@ cask 'dafont-djb-hand-stitched' do
     url 'http://dl.dafont.com/dl/?f=djb_hand_stitched'
     name 'DJB Hand Stitched'
     homepage 'http://www.dafont.com/djb-hand-stitched.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Hand Stitched Font.ttf'
 end

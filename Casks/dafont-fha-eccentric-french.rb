@@ -5,7 +5,6 @@ cask 'dafont-fha-eccentric-french' do
     url 'http://dl.dafont.com/dl/?f=fha_eccentric_french'
     name 'FHA Eccentric French'
     homepage 'http://www.dafont.com/fha-eccentric-french.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FHAefcan ECCENTRIC FRENCH FREEWARE.ttf'
 end

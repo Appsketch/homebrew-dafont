@@ -5,7 +5,6 @@ cask 'dafont-101star-studded' do
     url 'http://dl.dafont.com/dl/?f=101star_studded'
     name '101! Star Studded'
     homepage 'http://www.dafont.com/101star-studded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '101! StaR StuDDeD.ttf'
 end

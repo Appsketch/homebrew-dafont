@@ -5,7 +5,6 @@ cask 'dafont-cursiveedgar' do
     url 'http://dl.dafont.com/dl/?f=cursiveedgar'
     name 'Cursive Edgar'
     homepage 'http://www.dafont.com/cursiveedgar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crusiveedgar.ttf'
 end

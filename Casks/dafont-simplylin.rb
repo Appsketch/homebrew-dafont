@@ -5,7 +5,6 @@ cask 'dafont-simplylin' do
     url 'http://dl.dafont.com/dl/?f=simplylin'
     name 'Simply Lin'
     homepage 'http://www.dafont.com/simplylin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SimplyLin.ttf'
 end

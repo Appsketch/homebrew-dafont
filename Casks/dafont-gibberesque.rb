@@ -5,7 +5,6 @@ cask 'dafont-gibberesque' do
     url 'http://dl.dafont.com/dl/?f=gibberesque'
     name 'Gibberesque'
     homepage 'http://www.dafont.com/gibberesque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gibberesque.ttf'
 end

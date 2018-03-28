@@ -5,7 +5,6 @@ cask 'dafont-triple-xxx' do
     url 'http://dl.dafont.com/dl/?f=triple_xxx'
     name 'Triple XXX'
     homepage 'http://www.dafont.com/triple-xxx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRIPX___.TTF'
 end

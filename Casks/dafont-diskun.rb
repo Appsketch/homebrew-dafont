@@ -5,7 +5,6 @@ cask 'dafont-diskun' do
     url 'http://dl.dafont.com/dl/?f=diskun'
     name 'Diskun'
     homepage 'http://www.dafont.com/diskun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diskun2.ttf'
 end

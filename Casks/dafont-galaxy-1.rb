@@ -5,7 +5,6 @@ cask 'dafont-galaxy-1' do
     url 'http://dl.dafont.com/dl/?f=galaxy_1'
     name 'Galaxy 1'
     homepage 'http://www.dafont.com/galaxy-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'galaxy_1.ttf'
     font 'galaxy_1c.ttf'

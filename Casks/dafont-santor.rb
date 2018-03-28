@@ -5,7 +5,6 @@ cask 'dafont-santor' do
     url 'http://dl.dafont.com/dl/?f=santor'
     name 'Santor'
     homepage 'http://www.dafont.com/santor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'santor 1.002.otf'
 end

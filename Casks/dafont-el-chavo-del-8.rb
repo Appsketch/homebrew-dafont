@@ -5,7 +5,6 @@ cask 'dafont-el-chavo-del-8' do
     url 'http://dl.dafont.com/dl/?f=el_chavo_del_8'
     name 'El Chavo del 8'
     homepage 'http://www.dafont.com/el-chavo-del-8.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'el_chavo_del_8.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-meltdown-mf' do
     url 'http://dl.dafont.com/dl/?f=meltdown_mf'
     name 'Meltdown MF'
     homepage 'http://www.dafont.com/meltdown-mf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MeltdownMF.ttf'
 end

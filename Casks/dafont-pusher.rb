@@ -5,7 +5,6 @@ cask 'dafont-pusher' do
     url 'http://dl.dafont.com/dl/?f=pusher'
     name 'Pusher'
     homepage 'http://www.dafont.com/pusher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pusher.ttf'
 end

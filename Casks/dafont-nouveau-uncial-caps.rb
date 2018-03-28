@@ -5,7 +5,6 @@ cask 'dafont-nouveau-uncial-caps' do
     url 'http://dl.dafont.com/dl/?f=nouveau_uncial_caps'
     name 'Nouveau Uncial Caps'
     homepage 'http://www.dafont.com/nouveau-uncial-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nouveau_Uncial_Caps.otf'
 end

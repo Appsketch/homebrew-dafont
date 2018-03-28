@@ -5,7 +5,6 @@ cask 'dafont-reflection' do
     url 'http://dl.dafont.com/dl/?f=reflection'
     name 'Reflection'
     homepage 'http://www.dafont.com/reflection.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'reflection.ttf'
 end

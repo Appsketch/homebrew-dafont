@@ -5,7 +5,6 @@ cask 'dafont-led-sled' do
     url 'http://dl.dafont.com/dl/?f=led_sled'
     name 'LED Sled'
     homepage 'http://www.dafont.com/led-sled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ledsled.ttf'
     font 'ledsled3d.ttf'

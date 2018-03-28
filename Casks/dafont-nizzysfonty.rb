@@ -5,7 +5,6 @@ cask 'dafont-nizzysfonty' do
     url 'http://dl.dafont.com/dl/?f=nizzysfonty'
     name 'Nizzys Fonty'
     homepage 'http://www.dafont.com/nizzysfonty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'just be a queen.ttf'
 end

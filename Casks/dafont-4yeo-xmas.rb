@@ -5,7 +5,6 @@ cask 'dafont-4yeo-xmas' do
     url 'http://dl.dafont.com/dl/?f=4yeo_xmas'
     name '4YeoXmas'
     homepage 'http://www.dafont.com/4yeo-xmas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '4YEOXMAS.TTF'
 end

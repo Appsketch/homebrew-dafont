@@ -5,7 +5,6 @@ cask 'dafont-cornleaves' do
     url 'http://dl.dafont.com/dl/?f=cornleaves'
     name 'Cornleaves'
     homepage 'http://www.dafont.com/cornleaves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kata&#039;s Cornleaves.ttf'
 end

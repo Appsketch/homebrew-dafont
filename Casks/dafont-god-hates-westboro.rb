@@ -5,7 +5,6 @@ cask 'dafont-god-hates-westboro' do
     url 'http://dl.dafont.com/dl/?f=god_hates_westboro'
     name 'God Hates Westboro'
     homepage 'http://www.dafont.com/god-hates-westboro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'God Hates Westboro.otf'
 end

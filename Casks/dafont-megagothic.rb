@@ -5,7 +5,6 @@ cask 'dafont-megagothic' do
     url 'http://dl.dafont.com/dl/?f=megagothic'
     name 'Mega Gothic'
     homepage 'http://www.dafont.com/megagothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MegaGothic.ttf'
 end

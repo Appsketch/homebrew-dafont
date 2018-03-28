@@ -5,7 +5,6 @@ cask 'dafont-submit-to-faith' do
     url 'http://dl.dafont.com/dl/?f=submit_to_faith'
     name 'Submit To Faith'
     homepage 'http://www.dafont.com/submit-to-faith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'submit to faith.ttf'
 end

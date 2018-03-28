@@ -5,7 +5,6 @@ cask 'dafont-billys-hand-thin' do
     url 'http://dl.dafont.com/dl/?f=billys_hand_thin'
     name 'Billy&#039;s Hand Thin'
     homepage 'http://www.dafont.com/billys-hand-thin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Billys_Hand_Thin.ttf'
 end

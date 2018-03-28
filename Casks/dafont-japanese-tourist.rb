@@ -5,7 +5,6 @@ cask 'dafont-japanese-tourist' do
     url 'http://dl.dafont.com/dl/?f=japanese_tourist'
     name 'Japanese Tourist'
     homepage 'http://www.dafont.com/japanese-tourist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Japanese Tourist.ttf'
 end

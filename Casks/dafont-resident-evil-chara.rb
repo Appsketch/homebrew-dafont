@@ -5,7 +5,6 @@ cask 'dafont-resident-evil-chara' do
     url 'http://dl.dafont.com/dl/?f=resident_evil_chara'
     name 'Resident Evil Characters'
     homepage 'http://www.dafont.com/resident-evil-chara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'resi char font.ttf'
 end

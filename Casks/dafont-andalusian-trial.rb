@@ -5,7 +5,6 @@ cask 'dafont-andalusian-trial' do
     url 'http://dl.dafont.com/dl/?f=andalusian_trial'
     name 'Andalusian'
     homepage 'http://www.dafont.com/andalusian-trial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Andalusian.ttf'
 end

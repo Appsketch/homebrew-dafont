@@ -5,7 +5,6 @@ cask 'dafont-handout' do
     url 'http://dl.dafont.com/dl/?f=handout'
     name 'Handout'
     homepage 'http://www.dafont.com/handout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Handout.ttf'
 end

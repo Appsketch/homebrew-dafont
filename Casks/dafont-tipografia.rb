@@ -5,7 +5,6 @@ cask 'dafont-tipografia' do
     url 'http://dl.dafont.com/dl/?f=tipografia'
     name 'Tipografia'
     homepage 'http://www.dafont.com/tipografia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tipografia.ttf'
 end

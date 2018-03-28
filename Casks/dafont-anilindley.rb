@@ -5,7 +5,6 @@ cask 'dafont-anilindley' do
     url 'http://dl.dafont.com/dl/?f=anilindley'
     name 'Ani Lindley'
     homepage 'http://www.dafont.com/anilindley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AniLindley.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-game-plan' do
     url 'http://dl.dafont.com/dl/?f=game_plan'
     name 'Game Plan'
     homepage 'http://www.dafont.com/game-plan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GamePlan - Dker.ttf'
 end

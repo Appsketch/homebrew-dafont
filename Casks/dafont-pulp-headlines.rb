@@ -5,7 +5,6 @@ cask 'dafont-pulp-headlines' do
     url 'http://dl.dafont.com/dl/?f=pulp_headlines'
     name 'Pulp Headlines'
     homepage 'http://www.dafont.com/pulp-headlines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pulp Headlines.ttf'
 end

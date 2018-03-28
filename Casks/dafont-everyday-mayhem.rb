@@ -5,7 +5,6 @@ cask 'dafont-everyday-mayhem' do
     url 'http://dl.dafont.com/dl/?f=everyday_mayhem'
     name 'Everyday Mayhem'
     homepage 'http://www.dafont.com/everyday-mayhem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Everyday Mayhem.ttf'
 end

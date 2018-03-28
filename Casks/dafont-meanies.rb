@@ -5,7 +5,6 @@ cask 'dafont-meanies' do
     url 'http://dl.dafont.com/dl/?f=meanies'
     name 'Meanies'
     homepage 'http://www.dafont.com/meanies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEANT___.TTF'
 end

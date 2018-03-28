@@ -5,7 +5,6 @@ cask 'dafont-quaderno-bianco' do
     url 'http://dl.dafont.com/dl/?f=quaderno_bianco'
     name 'Quaderno Bianco'
     homepage 'http://www.dafont.com/quaderno-bianco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quaderno_bold.otf'
     font 'quaderno_regular.otf'

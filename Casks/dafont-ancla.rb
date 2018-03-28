@@ -5,7 +5,6 @@ cask 'dafont-ancla' do
     url 'http://dl.dafont.com/dl/?f=ancla'
     name 'Ancla Alphabet'
     homepage 'http://www.dafont.com/ancla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANCLA_ALPHABET.ttf'
 end

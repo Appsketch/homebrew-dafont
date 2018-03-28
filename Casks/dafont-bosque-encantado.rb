@@ -5,7 +5,6 @@ cask 'dafont-bosque-encantado' do
     url 'http://dl.dafont.com/dl/?f=bosque_encantado'
     name 'Bosque Encantado'
     homepage 'http://www.dafont.com/bosque-encantado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bosque Encantado.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dt-rachels-toys' do
     url 'http://dl.dafont.com/dl/?f=dt_rachels_toys'
     name 'DT Rachels Toys'
     homepage 'http://www.dafont.com/dt-rachels-toys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DT Rachels Toys .ttf'
 end

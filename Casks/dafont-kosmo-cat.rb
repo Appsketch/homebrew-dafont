@@ -5,7 +5,6 @@ cask 'dafont-kosmo-cat' do
     url 'http://dl.dafont.com/dl/?f=kosmo_cat'
     name 'Kosmo Cat'
     homepage 'http://www.dafont.com/kosmo-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kosmo Cat Light.ttf'
     font 'Kosmo Cat.ttf'

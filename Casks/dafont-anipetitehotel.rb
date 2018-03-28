@@ -5,7 +5,6 @@ cask 'dafont-anipetitehotel' do
     url 'http://dl.dafont.com/dl/?f=anipetitehotel'
     name 'Ani Petite Hotel'
     homepage 'http://www.dafont.com/anipetitehotel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AniPetiteHotel.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hydrogen' do
     url 'http://dl.dafont.com/dl/?f=hydrogen'
     name 'Hydrogen'
     homepage 'http://www.dafont.com/hydrogen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hydroge2.ttf'
 end

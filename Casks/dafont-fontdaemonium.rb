@@ -5,7 +5,6 @@ cask 'dafont-fontdaemonium' do
     url 'http://dl.dafont.com/dl/?f=fontdaemonium'
     name 'Fontdaemonium'
     homepage 'http://www.dafont.com/fontdaemonium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fontdaemonium-Bold.ttf'
 end

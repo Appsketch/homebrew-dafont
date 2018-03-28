@@ -5,7 +5,6 @@ cask 'dafont-eros-simboli' do
     url 'http://dl.dafont.com/dl/?f=eros_simboli'
     name 'Eros Simboli'
     homepage 'http://www.dafont.com/eros-simboli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eros simboli simboli.TTF'
     font 'eros simboli.TTF'

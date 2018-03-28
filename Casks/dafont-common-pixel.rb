@@ -5,7 +5,6 @@ cask 'dafont-common-pixel' do
     url 'http://dl.dafont.com/dl/?f=common_pixel'
     name 'Common Pixel'
     homepage 'http://www.dafont.com/common-pixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COMMP___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wordbits' do
     url 'http://dl.dafont.com/dl/?f=wordbits'
     name 'WordBits'
     homepage 'http://www.dafont.com/wordbits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WordBits.ttf'
 end

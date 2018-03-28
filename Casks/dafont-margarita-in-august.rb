@@ -5,7 +5,6 @@ cask 'dafont-margarita-in-august' do
     url 'http://dl.dafont.com/dl/?f=margarita_in_august'
     name 'Margarita in August'
     homepage 'http://www.dafont.com/margarita-in-august.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Margarita in August.ttf'
 end

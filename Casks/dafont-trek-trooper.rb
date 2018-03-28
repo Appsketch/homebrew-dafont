@@ -5,7 +5,6 @@ cask 'dafont-trek-trooper' do
     url 'http://dl.dafont.com/dl/?f=trek_trooper'
     name 'Trek Trooper'
     homepage 'http://www.dafont.com/trek-trooper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trektrooper.ttf'
     font 'trektrooper3d.ttf'

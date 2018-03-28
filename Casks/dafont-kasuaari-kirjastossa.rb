@@ -5,7 +5,6 @@ cask 'dafont-kasuaari-kirjastossa' do
     url 'http://dl.dafont.com/dl/?f=kasuaari_kirjastossa'
     name 'Kasuaari kirjastossa'
     homepage 'http://www.dafont.com/kasuaari-kirjastossa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kasuaari kirjastossa.ttf'
 end

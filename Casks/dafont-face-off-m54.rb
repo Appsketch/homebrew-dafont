@@ -5,7 +5,6 @@ cask 'dafont-face-off-m54' do
     url 'http://dl.dafont.com/dl/?f=face_off_m54'
     name 'Face Off M54'
     homepage 'http://www.dafont.com/face-off-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Face Off M54.ttf'
 end

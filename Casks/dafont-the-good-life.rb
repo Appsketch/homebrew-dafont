@@ -5,7 +5,6 @@ cask 'dafont-the-good-life' do
     url 'http://dl.dafont.com/dl/?f=the_good_life'
     name 'The Good Life'
     homepage 'http://www.dafont.com/the-good-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Good Life.ttf'
 end

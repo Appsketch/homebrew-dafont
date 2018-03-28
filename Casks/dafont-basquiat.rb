@@ -5,7 +5,6 @@ cask 'dafont-basquiat' do
     url 'http://dl.dafont.com/dl/?f=basquiat'
     name 'Basquiat'
     homepage 'http://www.dafont.com/basquiat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Basquiat.otf'
 end

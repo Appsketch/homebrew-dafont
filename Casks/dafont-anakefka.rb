@@ -5,7 +5,6 @@ cask 'dafont-anakefka' do
     url 'http://dl.dafont.com/dl/?f=anakefka'
     name 'Anakefka'
     homepage 'http://www.dafont.com/anakefka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'anakefka.ttf'
     font 'anakefkaa.ttf'

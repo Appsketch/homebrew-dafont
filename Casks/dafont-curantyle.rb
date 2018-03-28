@@ -5,7 +5,6 @@ cask 'dafont-curantyle' do
     url 'http://dl.dafont.com/dl/?f=curantyle'
     name 'Curantyle'
     homepage 'http://www.dafont.com/curantyle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'curantyle/Curantyle Bold.ttf'
 end

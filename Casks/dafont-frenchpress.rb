@@ -5,7 +5,6 @@ cask 'dafont-frenchpress' do
     url 'http://dl.dafont.com/dl/?f=frenchpress'
     name 'Frenchpress'
     homepage 'http://www.dafont.com/frenchpress.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frenchpress freefont.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-march-of-the-pigs' do
     url 'http://dl.dafont.com/dl/?f=march_of_the_pigs'
     name 'March of the pigs'
     homepage 'http://www.dafont.com/march-of-the-pigs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'March of the pigs.ttf'
 end

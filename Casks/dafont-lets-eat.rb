@@ -5,7 +5,6 @@ cask 'dafont-lets-eat' do
     url 'http://dl.dafont.com/dl/?f=lets_eat'
     name 'Let&#039;s Eat'
     homepage 'http://www.dafont.com/lets-eat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lets eat.ttf'
 end

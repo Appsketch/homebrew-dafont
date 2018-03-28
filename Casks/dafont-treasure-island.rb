@@ -5,7 +5,6 @@ cask 'dafont-treasure-island' do
     url 'http://dl.dafont.com/dl/?f=treasure_island'
     name 'Treasure Island'
     homepage 'http://www.dafont.com/treasure-island.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TREAI___.TTF'
 end

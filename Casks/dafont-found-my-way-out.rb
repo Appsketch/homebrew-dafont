@@ -5,7 +5,6 @@ cask 'dafont-found-my-way-out' do
     url 'http://dl.dafont.com/dl/?f=found_my_way_out'
     name 'Found my way out'
     homepage 'http://www.dafont.com/found-my-way-out.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Found my way out.ttf'
 end

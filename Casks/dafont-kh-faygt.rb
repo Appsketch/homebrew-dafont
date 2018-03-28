@@ -5,7 +5,6 @@ cask 'dafont-kh-faygt' do
     url 'http://dl.dafont.com/dl/?f=kh_faygt'
     name 'KH Faygt'
     homepage 'http://www.dafont.com/kh-faygt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KH_Faygt.otf'
 end

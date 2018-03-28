@@ -5,7 +5,6 @@ cask 'dafont-rocky-shore' do
     url 'http://dl.dafont.com/dl/?f=rocky_shore'
     name 'Rocky Shore'
     homepage 'http://www.dafont.com/rocky-shore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RockyShoreDEMO.ttf'
 end

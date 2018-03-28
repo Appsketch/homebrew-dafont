@@ -5,7 +5,6 @@ cask 'dafont-sparkler' do
     url 'http://dl.dafont.com/dl/?f=sparkler'
     name 'Sparkler'
     homepage 'http://www.dafont.com/sparkler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sparkler-demo.ttf'
 end

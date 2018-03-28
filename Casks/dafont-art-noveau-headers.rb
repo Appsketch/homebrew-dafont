@@ -5,7 +5,6 @@ cask 'dafont-art-noveau-headers' do
     url 'http://dl.dafont.com/dl/?f=art_noveau_headers'
     name 'Art Noveau Headers'
     homepage 'http://www.dafont.com/art-noveau-headers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARTNH___.TTF'
 end

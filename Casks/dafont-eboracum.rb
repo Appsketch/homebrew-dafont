@@ -5,7 +5,6 @@ cask 'dafont-eboracum' do
     url 'http://dl.dafont.com/dl/?f=eboracum'
     name 'Eboracum'
     homepage 'http://www.dafont.com/eboracum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eboracum.ttf'
 end

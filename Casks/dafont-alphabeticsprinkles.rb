@@ -5,7 +5,6 @@ cask 'dafont-alphabeticsprinkles' do
     url 'http://dl.dafont.com/dl/?f=alphabeticsprinkles'
     name 'Alphabetic Sprinkles'
     homepage 'http://www.dafont.com/alphabeticsprinkles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphabeticSprinkles.ttf'
     font 'AlphabeticSprinklesLight.ttf'

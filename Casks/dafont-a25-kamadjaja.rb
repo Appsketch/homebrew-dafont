@@ -5,7 +5,6 @@ cask 'dafont-a25-kamadjaja' do
     url 'http://dl.dafont.com/dl/?f=a25_kamadjaja'
     name 'A25-Kamadjaja'
     homepage 'http://www.dafont.com/a25-kamadjaja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A25-KAMADJAJA.ttf'
 end

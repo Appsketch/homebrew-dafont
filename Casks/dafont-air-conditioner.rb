@@ -5,7 +5,6 @@ cask 'dafont-air-conditioner' do
     url 'http://dl.dafont.com/dl/?f=air_conditioner'
     name 'Air Conditioner'
     homepage 'http://www.dafont.com/air-conditioner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AirConditioner.ttf'
 end

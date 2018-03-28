@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-barcode' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_barcode'
     name 'Woodcutter Barcode'
     homepage 'http://www.dafont.com/woodcutter-barcode.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter barcode.ttf'
 end

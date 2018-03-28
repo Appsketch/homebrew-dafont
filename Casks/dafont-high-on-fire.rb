@@ -5,7 +5,6 @@ cask 'dafont-high-on-fire' do
     url 'http://dl.dafont.com/dl/?f=high_on_fire'
     name 'High On Fire'
     homepage 'http://www.dafont.com/high-on-fire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HIGH ON FIRE.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-csemege' do
     url 'http://dl.dafont.com/dl/?f=csemege'
     name 'Csemege'
     homepage 'http://www.dafont.com/csemege.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Csemege-Demo.otf'
 end

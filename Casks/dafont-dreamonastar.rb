@@ -5,7 +5,6 @@ cask 'dafont-dreamonastar' do
     url 'http://dl.dafont.com/dl/?f=dreamonastar'
     name 'Dream On A Star'
     homepage 'http://www.dafont.com/dreamonastar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DreamOnAStar%281%29.ttf'
 end

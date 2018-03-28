@@ -5,7 +5,6 @@ cask 'dafont-against-modern-football' do
     url 'http://dl.dafont.com/dl/?f=against_modern_football'
     name 'Against Modern Football'
     homepage 'http://www.dafont.com/against-modern-football.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'against_modern_football.ttf'
 end

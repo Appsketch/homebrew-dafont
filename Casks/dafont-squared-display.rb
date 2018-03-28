@@ -5,7 +5,6 @@ cask 'dafont-squared-display' do
     url 'http://dl.dafont.com/dl/?f=squared_display'
     name 'Squared Display'
     homepage 'http://www.dafont.com/squared-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Squared Display.ttf'
 end

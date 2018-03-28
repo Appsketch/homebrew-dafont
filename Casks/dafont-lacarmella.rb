@@ -5,7 +5,6 @@ cask 'dafont-lacarmella' do
     url 'http://dl.dafont.com/dl/?f=lacarmella'
     name 'La Carmella'
     homepage 'http://www.dafont.com/lacarmella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaCarmella.ttf'
 end

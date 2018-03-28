@@ -5,7 +5,6 @@ cask 'dafont-pip-boy-weapons-dingbats' do
     url 'http://dl.dafont.com/dl/?f=pip_boy_weapons_dingbats'
     name 'Pip Boy Weapons Dingbats'
     homepage 'http://www.dafont.com/pip-boy-weapons-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bib_Boy_Font.ttf'
 end

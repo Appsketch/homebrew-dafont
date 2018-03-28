@@ -5,7 +5,6 @@ cask 'dafont-brightendays' do
     url 'http://dl.dafont.com/dl/?f=brightendays'
     name 'Brighten Days'
     homepage 'http://www.dafont.com/brightendays.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BrightenDays.ttf'
 end

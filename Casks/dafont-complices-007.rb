@@ -5,7 +5,6 @@ cask 'dafont-complices-007' do
     url 'http://dl.dafont.com/dl/?f=complices_007'
     name 'Complices 007'
     homepage 'http://www.dafont.com/complices-007.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Complices 007.ttf'
 end

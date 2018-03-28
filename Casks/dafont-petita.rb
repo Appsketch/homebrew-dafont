@@ -5,7 +5,6 @@ cask 'dafont-petita' do
     url 'http://dl.dafont.com/dl/?f=petita'
     name 'Petita'
     homepage 'http://www.dafont.com/petita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PetitaBold.ttf'
     font 'PetitaLight.ttf'

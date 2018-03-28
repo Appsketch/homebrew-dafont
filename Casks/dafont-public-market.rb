@@ -5,7 +5,6 @@ cask 'dafont-public-market' do
     url 'http://dl.dafont.com/dl/?f=public_market'
     name 'Public Market'
     homepage 'http://www.dafont.com/public-market.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Public Market.ttf'
 end

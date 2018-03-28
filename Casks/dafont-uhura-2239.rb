@@ -5,7 +5,6 @@ cask 'dafont-uhura-2239' do
     url 'http://dl.dafont.com/dl/?f=uhura_2239'
     name 'Uhura 2239'
     homepage 'http://www.dafont.com/uhura-2239.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'uhura2239.ttf'
 end

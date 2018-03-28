@@ -5,7 +5,6 @@ cask 'dafont-night-sky' do
     url 'http://dl.dafont.com/dl/?f=night_sky'
     name 'Night Sky'
     homepage 'http://www.dafont.com/night-sky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nightsky.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bakunin' do
     url 'http://dl.dafont.com/dl/?f=bakunin'
     name 'Bakunin'
     homepage 'http://www.dafont.com/bakunin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bakuninoutline.ttf'
     font 'bakuninregular.ttf'

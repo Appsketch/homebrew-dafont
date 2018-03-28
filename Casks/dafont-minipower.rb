@@ -5,7 +5,6 @@ cask 'dafont-minipower' do
     url 'http://dl.dafont.com/dl/?f=minipower'
     name 'MiniPower'
     homepage 'http://www.dafont.com/minipower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiniPower.ttf'
 end

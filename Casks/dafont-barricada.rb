@@ -5,7 +5,6 @@ cask 'dafont-barricada' do
     url 'http://dl.dafont.com/dl/?f=barricada'
     name 'Barricada'
     homepage 'http://www.dafont.com/barricada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BARRICADA.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bus-stop' do
     url 'http://dl.dafont.com/dl/?f=bus_stop'
     name 'Bus Stop'
     homepage 'http://www.dafont.com/bus-stop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUSSTOP.ttf'
 end

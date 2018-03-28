@@ -5,7 +5,6 @@ cask 'dafont-tastydrips' do
     url 'http://dl.dafont.com/dl/?f=tastydrips'
     name 'Tasty Drips'
     homepage 'http://www.dafont.com/tastydrips.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TastyDrips.ttf'
 end

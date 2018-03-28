@@ -5,7 +5,6 @@ cask 'dafont-hello-larry' do
     url 'http://dl.dafont.com/dl/?f=hello_larry'
     name 'Hello Larry'
     homepage 'http://www.dafont.com/hello-larry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hello larry.ttf'
 end

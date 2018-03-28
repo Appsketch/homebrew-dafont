@@ -5,7 +5,6 @@ cask 'dafont-kega' do
     url 'http://dl.dafont.com/dl/?f=kega'
     name 'Kega'
     homepage 'http://www.dafont.com/kega.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KEGA.ttf'
 end

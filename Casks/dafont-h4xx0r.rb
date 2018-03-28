@@ -5,7 +5,6 @@ cask 'dafont-h4xx0r' do
     url 'http://dl.dafont.com/dl/?f=h4xx0r'
     name 'H4XX0R'
     homepage 'http://www.dafont.com/h4xx0r.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'H4XX0R.[fontvir.us].ttf'
 end

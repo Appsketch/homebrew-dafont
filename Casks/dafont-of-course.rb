@@ -5,7 +5,6 @@ cask 'dafont-of-course' do
     url 'http://dl.dafont.com/dl/?f=of_course'
     name 'Of Course'
     homepage 'http://www.dafont.com/of-course.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Of-Course.ttf'
 end

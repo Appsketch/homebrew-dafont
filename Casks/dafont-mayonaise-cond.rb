@@ -5,7 +5,6 @@ cask 'dafont-mayonaise-cond' do
     url 'http://dl.dafont.com/dl/?f=mayonaise_cond'
     name 'Mayonaise'
     homepage 'http://www.dafont.com/mayonaise-cond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mayonaise-Condensed.otf'
 end

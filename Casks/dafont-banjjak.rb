@@ -5,7 +5,6 @@ cask 'dafont-banjjak' do
     url 'http://dl.dafont.com/dl/?f=banjjak'
     name 'Banjjak'
     homepage 'http://www.dafont.com/banjjak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'banjjak.ttf'
 end

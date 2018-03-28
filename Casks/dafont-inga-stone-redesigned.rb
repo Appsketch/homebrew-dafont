@@ -5,7 +5,6 @@ cask 'dafont-inga-stone-redesigned' do
     url 'http://dl.dafont.com/dl/?f=inga_stone_redesigned'
     name 'Inga Stone Redesigned'
     homepage 'http://www.dafont.com/inga-stone-redesigned.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inga Stone Redesigned.ttf'
 end

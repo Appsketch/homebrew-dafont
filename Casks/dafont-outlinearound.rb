@@ -5,7 +5,6 @@ cask 'dafont-outlinearound' do
     url 'http://dl.dafont.com/dl/?f=outlinearound'
     name 'Outline Around'
     homepage 'http://www.dafont.com/outlinearound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OutlineAround.ttf'
 end

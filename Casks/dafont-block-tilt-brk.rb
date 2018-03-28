@@ -5,7 +5,6 @@ cask 'dafont-block-tilt-brk' do
     url 'http://dl.dafont.com/dl/?f=block_tilt_brk'
     name 'Block Tilt BRK'
     homepage 'http://www.dafont.com/block-tilt-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bloktilt.ttf'
 end

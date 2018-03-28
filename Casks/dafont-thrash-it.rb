@@ -5,7 +5,6 @@ cask 'dafont-thrash-it' do
     url 'http://dl.dafont.com/dl/?f=thrash_it'
     name 'Thrash it'
     homepage 'http://www.dafont.com/thrash-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thrashit.ttf'
 end

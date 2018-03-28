@@ -5,7 +5,6 @@ cask 'dafont-real-breakerz' do
     url 'http://dl.dafont.com/dl/?f=real_breakerz'
     name 'Real Breakerz'
     homepage 'http://www.dafont.com/real-breakerz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Real Breakerz.ttf'
 end

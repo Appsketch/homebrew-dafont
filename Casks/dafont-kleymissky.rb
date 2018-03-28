@@ -5,7 +5,6 @@ cask 'dafont-kleymissky' do
     url 'http://dl.dafont.com/dl/?f=kleymissky'
     name 'Kleymissky'
     homepage 'http://www.dafont.com/kleymissky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kleymissky_0283.otf'
 end

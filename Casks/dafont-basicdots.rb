@@ -5,7 +5,6 @@ cask 'dafont-basicdots' do
     url 'http://dl.dafont.com/dl/?f=basicdots'
     name 'Basicdots'
     homepage 'http://www.dafont.com/basicdots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Basicdots.TTF'
 end

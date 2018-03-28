@@ -5,7 +5,6 @@ cask 'dafont-amhara' do
     url 'http://dl.dafont.com/dl/?f=amhara'
     name 'Amhara'
     homepage 'http://www.dafont.com/amhara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amhara_reduced.otf'
 end

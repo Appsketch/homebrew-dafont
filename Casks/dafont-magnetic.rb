@@ -5,7 +5,6 @@ cask 'dafont-magnetic' do
     url 'http://dl.dafont.com/dl/?f=magnetic'
     name 'Magnetic'
     homepage 'http://www.dafont.com/magnetic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Magnetic.ttf'
 end

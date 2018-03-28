@@ -5,7 +5,6 @@ cask 'dafont-chartrand' do
     url 'http://dl.dafont.com/dl/?f=chartrand'
     name 'Chartrand'
     homepage 'http://www.dafont.com/chartrand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chartrand.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-friday-night-lights' do
     url 'http://dl.dafont.com/dl/?f=friday_night_lights'
     name 'Friday Night Lights'
     homepage 'http://www.dafont.com/friday-night-lights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FNL_DEMO-KCFonts.ttf'
 end

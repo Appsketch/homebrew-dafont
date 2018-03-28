@@ -5,7 +5,6 @@ cask 'dafont-mixelate' do
     url 'http://dl.dafont.com/dl/?f=mixelate'
     name 'Mixelate'
     homepage 'http://www.dafont.com/mixelate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MIXELATE.TTF'
 end

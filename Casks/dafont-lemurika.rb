@@ -5,7 +5,6 @@ cask 'dafont-lemurika' do
     url 'http://dl.dafont.com/dl/?f=lemurika'
     name 'Lemurika'
     homepage 'http://www.dafont.com/lemurika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lemurika.ttf'
 end

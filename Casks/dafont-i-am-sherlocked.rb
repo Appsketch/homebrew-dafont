@@ -5,7 +5,6 @@ cask 'dafont-i-am-sherlocked' do
     url 'http://dl.dafont.com/dl/?f=i_am_sherlocked'
     name 'I Am Sherlocked'
     homepage 'http://www.dafont.com/i-am-sherlocked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I AM SHERLOCKED.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-diagond' do
     url 'http://dl.dafont.com/dl/?f=diagond'
     name 'Diagond'
     homepage 'http://www.dafont.com/diagond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'diagond-light.otf'
     font 'diagond.otf'

@@ -5,7 +5,6 @@ cask 'dafont-horst-roman-gothic' do
     url 'http://dl.dafont.com/dl/?f=horst_roman_gothic'
     name 'Horst Roman Gothic'
     homepage 'http://www.dafont.com/horst-roman-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Horst Roman Gothic.ttf'
 end

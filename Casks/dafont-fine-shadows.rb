@@ -5,7 +5,6 @@ cask 'dafont-fine-shadows' do
     url 'http://dl.dafont.com/dl/?f=fine_shadows'
     name 'Fine Shadows'
     homepage 'http://www.dafont.com/fine-shadows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FINE SHADOWS.ttf'
 end

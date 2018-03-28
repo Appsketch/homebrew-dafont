@@ -5,7 +5,6 @@ cask 'dafont-manchester' do
     url 'http://dl.dafont.com/dl/?f=manchester'
     name 'Manchester'
     homepage 'http://www.dafont.com/manchester.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MANCHEST.TTF'
 end

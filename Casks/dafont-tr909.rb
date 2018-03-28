@@ -5,7 +5,6 @@ cask 'dafont-tr909' do
     url 'http://dl.dafont.com/dl/?f=tr909'
     name 'TR-909'
     homepage 'http://www.dafont.com/tr909.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TR-909.ttf'
 end

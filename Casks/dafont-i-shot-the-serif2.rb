@@ -5,7 +5,6 @@ cask 'dafont-i-shot-the-serif2' do
     url 'http://dl.dafont.com/dl/?f=i_shot_the_serif2'
     name 'I shot the Serif'
     homepage 'http://www.dafont.com/i-shot-the-serif2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I shot the Serif v1.ttf'
 end

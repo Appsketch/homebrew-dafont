@@ -5,7 +5,6 @@ cask 'dafont-amin-sina' do
     url 'http://dl.dafont.com/dl/?f=amin_sina'
     name 'Amin Sina'
     homepage 'http://www.dafont.com/amin-sina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amin_Sina.ttf'
 end

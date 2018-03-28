@@ -5,7 +5,6 @@ cask 'dafont-barcelona' do
     url 'http://dl.dafont.com/dl/?f=barcelona'
     name 'Barcelona'
     homepage 'http://www.dafont.com/barcelona.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barcelona.ttf'
 end

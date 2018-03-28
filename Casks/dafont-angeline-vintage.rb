@@ -5,7 +5,6 @@ cask 'dafont-angeline-vintage' do
     url 'http://dl.dafont.com/dl/?f=angeline_vintage'
     name 'Angeline Vintage'
     homepage 'http://www.dafont.com/angeline-vintage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angeline Vintage_Demo.ttf'
 end

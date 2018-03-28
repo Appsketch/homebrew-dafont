@@ -5,7 +5,6 @@ cask 'dafont-matchworks' do
     url 'http://dl.dafont.com/dl/?f=matchworks'
     name 'Matchworks'
     homepage 'http://www.dafont.com/matchworks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Matchworks.ttf'
 end

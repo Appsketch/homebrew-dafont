@@ -5,7 +5,6 @@ cask 'dafont-modern-serif-eroded' do
     url 'http://dl.dafont.com/dl/?f=modern_serif_eroded'
     name 'Modern Serif Eroded'
     homepage 'http://www.dafont.com/modern-serif-eroded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Modern Serif Eroded.ttf'
 end

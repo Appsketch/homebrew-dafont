@@ -5,7 +5,6 @@ cask 'dafont-kbanavoxlost' do
     url 'http://dl.dafont.com/dl/?f=kbanavoxlost'
     name 'KB an Avoxlost'
     homepage 'http://www.dafont.com/kbanavoxlost.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBanAvoxlost.ttf'
 end

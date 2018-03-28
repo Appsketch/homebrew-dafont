@@ -5,7 +5,6 @@ cask 'dafont-si-cantik' do
     url 'http://dl.dafont.com/dl/?f=si_cantik'
     name 'Si Cantik'
     homepage 'http://www.dafont.com/si-cantik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Si Cantik.ttf'
 end

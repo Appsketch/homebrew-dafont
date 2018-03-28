@@ -5,7 +5,6 @@ cask 'dafont-space-ranger' do
     url 'http://dl.dafont.com/dl/?f=space_ranger'
     name 'Space Ranger'
     homepage 'http://www.dafont.com/space-ranger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spaceranger.ttf'
     font 'spaceranger3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-v5prophit' do
     url 'http://dl.dafont.com/dl/?f=v5prophit'
     name 'V5 Prophit'
     homepage 'http://www.dafont.com/v5prophit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'V5PRC___.TTF'
     font 'V5PRD___.TTF'

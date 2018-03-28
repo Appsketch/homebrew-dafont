@@ -5,7 +5,6 @@ cask 'dafont-some-weatz' do
     url 'http://dl.dafont.com/dl/?f=some_weatz'
     name 'Some Weatz'
     homepage 'http://www.dafont.com/some-weatz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SomeWeatz_with_swashes.ttf'
     font 'SomeWeatz_with_symbols.ttf'

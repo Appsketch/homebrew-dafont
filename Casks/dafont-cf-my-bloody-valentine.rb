@@ -5,7 +5,6 @@ cask 'dafont-cf-my-bloody-valentine' do
     url 'http://dl.dafont.com/dl/?f=cf_my_bloody_valentine'
     name 'CF My Bloody Valentine'
     homepage 'http://www.dafont.com/cf-my-bloody-valentine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFMyBloodyValentine-Regular.ttf'
 end

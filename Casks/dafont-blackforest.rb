@@ -5,7 +5,6 @@ cask 'dafont-blackforest' do
     url 'http://dl.dafont.com/dl/?f=blackforest'
     name 'BlackForest'
     homepage 'http://www.dafont.com/blackforest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLACKFOR.TTF'
 end

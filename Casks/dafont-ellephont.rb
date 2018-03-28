@@ -5,7 +5,6 @@ cask 'dafont-ellephont' do
     url 'http://dl.dafont.com/dl/?f=ellephont'
     name 'Ellephont'
     homepage 'http://www.dafont.com/ellephont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ellephont.ttf'
 end

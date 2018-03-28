@@ -5,7 +5,6 @@ cask 'dafont-pentagrams-malefissent' do
     url 'http://dl.dafont.com/dl/?f=pentagrams_malefissent'
     name 'PentaGram&#039;s Malefissent'
     homepage 'http://www.dafont.com/pentagrams-malefissent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PentaGrams Malefissent.ttf'
 end

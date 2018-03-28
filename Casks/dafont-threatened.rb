@@ -5,7 +5,6 @@ cask 'dafont-threatened' do
     url 'http://dl.dafont.com/dl/?f=threatened'
     name 'Threatened'
     homepage 'http://www.dafont.com/threatened.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Threatened.ttf'
 end

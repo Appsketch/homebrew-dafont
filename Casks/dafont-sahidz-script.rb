@@ -5,7 +5,6 @@ cask 'dafont-sahidz-script' do
     url 'http://dl.dafont.com/dl/?f=sahidz_script'
     name 'Sahidz script'
     homepage 'http://www.dafont.com/sahidz-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sahidz script.ttf'
 end

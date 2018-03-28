@@ -5,7 +5,6 @@ cask 'dafont-pancho' do
     url 'http://dl.dafont.com/dl/?f=pancho'
     name 'Pancho'
     homepage 'http://www.dafont.com/pancho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pancho.ttf'
 end

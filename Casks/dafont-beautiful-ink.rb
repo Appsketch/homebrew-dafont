@@ -5,7 +5,6 @@ cask 'dafont-beautiful-ink' do
     url 'http://dl.dafont.com/dl/?f=beautiful_ink'
     name 'Beautiful Ink'
     homepage 'http://www.dafont.com/beautiful-ink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEAUI___.TTF'
 end

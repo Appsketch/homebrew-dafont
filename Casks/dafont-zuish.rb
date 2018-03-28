@@ -5,7 +5,6 @@ cask 'dafont-zuish' do
     url 'http://dl.dafont.com/dl/?f=zuish'
     name 'Zuish'
     homepage 'http://www.dafont.com/zuish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zuish.ttf'
 end

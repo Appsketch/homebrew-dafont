@@ -5,7 +5,6 @@ cask 'dafont-milkmoustachio' do
     url 'http://dl.dafont.com/dl/?f=milkmoustachio'
     name 'Milkmoustachio'
     homepage 'http://www.dafont.com/milkmoustachio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Milkmoustachio.ttf'
 end

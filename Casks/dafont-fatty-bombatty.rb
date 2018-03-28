@@ -5,7 +5,6 @@ cask 'dafont-fatty-bombatty' do
     url 'http://dl.dafont.com/dl/?f=fatty_bombatty'
     name 'Fatty Bombatty'
     homepage 'http://www.dafont.com/fatty-bombatty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fatty bombatty.ttf'
 end

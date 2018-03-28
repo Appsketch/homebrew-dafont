@@ -5,7 +5,6 @@ cask 'dafont-h1n1' do
     url 'http://dl.dafont.com/dl/?f=h1n1'
     name 'H1N1'
     homepage 'http://www.dafont.com/h1n1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'H1N1).ttf'
 end

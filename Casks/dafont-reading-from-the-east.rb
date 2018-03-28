@@ -5,7 +5,6 @@ cask 'dafont-reading-from-the-east' do
     url 'http://dl.dafont.com/dl/?f=reading_from_the_east'
     name 'Reading From The East'
     homepage 'http://www.dafont.com/reading-from-the-east.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jap_trad_ttf_1.183.1.otf'
 end

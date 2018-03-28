@@ -5,7 +5,6 @@ cask 'dafont-standard-nib-handwritten' do
     url 'http://dl.dafont.com/dl/?f=standard_nib_handwritten'
     name 'Standard Nib Handwritten '
     homepage 'http://www.dafont.com/standard-nib-handwritten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Standard Nib Handwritten.ttf'
 end

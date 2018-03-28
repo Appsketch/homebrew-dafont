@@ -5,7 +5,6 @@ cask 'dafont-thin-decorative' do
     url 'http://dl.dafont.com/dl/?f=thin_decorative'
     name 'Thin Decorative'
     homepage 'http://www.dafont.com/thin-decorative.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thin Decorative.ttf'
 end

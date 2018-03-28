@@ -5,7 +5,6 @@ cask 'dafont-bones2' do
     url 'http://dl.dafont.com/dl/?f=bones2'
     name 'Bones 2'
     homepage 'http://www.dafont.com/bones2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bones2.ttf'
 end

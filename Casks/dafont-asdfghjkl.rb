@@ -5,7 +5,6 @@ cask 'dafont-asdfghjkl' do
     url 'http://dl.dafont.com/dl/?f=asdfghjkl'
     name 'Asdfghjkl'
     homepage 'http://www.dafont.com/asdfghjkl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Asdfghjkl.ttf'
 end

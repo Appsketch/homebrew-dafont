@@ -5,7 +5,6 @@ cask 'dafont-germania' do
     url 'http://dl.dafont.com/dl/?f=germania'
     name 'Germania'
     homepage 'http://www.dafont.com/germania.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Germania.otf'
     font 'Germansh.otf'

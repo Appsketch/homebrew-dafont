@@ -5,7 +5,6 @@ cask 'dafont-naula' do
     url 'http://dl.dafont.com/dl/?f=naula'
     name 'Naula'
     homepage 'http://www.dafont.com/naula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Naula.ttf'
 end

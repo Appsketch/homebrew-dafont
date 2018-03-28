@@ -5,7 +5,6 @@ cask 'dafont-muspi-merol' do
     url 'http://dl.dafont.com/dl/?f=muspi_merol'
     name 'Muspi Merol'
     homepage 'http://www.dafont.com/muspi-merol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Muspi Merol Krad.ttf'
     font 'Muspi Merol Mirg.ttf'

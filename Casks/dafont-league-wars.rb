@@ -5,7 +5,6 @@ cask 'dafont-league-wars' do
     url 'http://dl.dafont.com/dl/?f=league_wars'
     name 'League Wars'
     homepage 'http://www.dafont.com/league-wars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'leaguewars.ttf'
     font 'leaguewars3d.ttf'

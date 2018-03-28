@@ -5,7 +5,6 @@ cask 'dafont-them' do
     url 'http://dl.dafont.com/dl/?f=them'
     name 'Them!'
     homepage 'http://www.dafont.com/them.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Them!.ttf'
 end

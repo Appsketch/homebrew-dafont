@@ -5,7 +5,6 @@ cask 'dafont-ancientsprawl' do
     url 'http://dl.dafont.com/dl/?f=ancientsprawl'
     name 'Ancient Sprawl'
     homepage 'http://www.dafont.com/ancientsprawl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AncientSprawl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-5kreeper' do
     url 'http://dl.dafont.com/dl/?f=5kreeper'
     name '5 Kreeper'
     homepage 'http://www.dafont.com/5kreeper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5Kreeper.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sexy-shout' do
     url 'http://dl.dafont.com/dl/?f=sexy_shout'
     name 'Sexy Shout'
     homepage 'http://www.dafont.com/sexy-shout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sexy Shout Free Font.ttf'
 end

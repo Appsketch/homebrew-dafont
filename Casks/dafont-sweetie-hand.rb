@@ -5,7 +5,6 @@ cask 'dafont-sweetie-hand' do
     url 'http://dl.dafont.com/dl/?f=sweetie_hand'
     name 'Sweetie Hand'
     homepage 'http://www.dafont.com/sweetie-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sweetie Hand.ttf'
 end

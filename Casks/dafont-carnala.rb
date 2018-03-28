@@ -5,7 +5,6 @@ cask 'dafont-carnala' do
     url 'http://dl.dafont.com/dl/?f=carnala'
     name 'Carnala'
     homepage 'http://www.dafont.com/carnala.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carnala BETA.otf'
 end

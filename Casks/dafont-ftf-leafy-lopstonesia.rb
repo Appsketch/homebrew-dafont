@@ -5,7 +5,6 @@ cask 'dafont-ftf-leafy-lopstonesia' do
     url 'http://dl.dafont.com/dl/?f=ftf_leafy_lopstonesia'
     name 'FTF Leafy Lopstonesia'
     homepage 'http://www.dafont.com/ftf-leafy-lopstonesia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Leafy Lopstonesia.ttf'
 end

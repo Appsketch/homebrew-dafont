@@ -5,7 +5,6 @@ cask 'dafont-firewithin' do
     url 'http://dl.dafont.com/dl/?f=firewithin'
     name 'Fire Within'
     homepage 'http://www.dafont.com/firewithin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FireWithin.otf'
 end

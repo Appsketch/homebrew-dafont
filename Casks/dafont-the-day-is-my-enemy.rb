@@ -5,7 +5,6 @@ cask 'dafont-the-day-is-my-enemy' do
     url 'http://dl.dafont.com/dl/?f=the_day_is_my_enemy'
     name 'The Day Is My Enemy'
     homepage 'http://www.dafont.com/the-day-is-my-enemy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the_day_is_my_enemy.ttf'
 end

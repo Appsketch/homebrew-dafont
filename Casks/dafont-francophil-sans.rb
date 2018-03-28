@@ -5,7 +5,6 @@ cask 'dafont-francophil-sans' do
     url 'http://dl.dafont.com/dl/?f=francophil_sans'
     name 'Francophil Sans'
     homepage 'http://www.dafont.com/francophil-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FrancophilSans-Bold.ttf'
     font 'FrancophilSans.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-tha-cool-kidz' do
     url 'http://dl.dafont.com/dl/?f=tha_cool_kidz'
     name 'Tha Cool Kidz'
     homepage 'http://www.dafont.com/tha-cool-kidz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThaCoolKidz-Black.otf'
     font 'ThaCoolKidz-BlackItalic.otf'

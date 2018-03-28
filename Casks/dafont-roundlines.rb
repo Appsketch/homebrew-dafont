@@ -5,7 +5,6 @@ cask 'dafont-roundlines' do
     url 'http://dl.dafont.com/dl/?f=roundlines'
     name 'Roundlines'
     homepage 'http://www.dafont.com/roundlines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'roundlines.ttf'
 end

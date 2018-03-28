@@ -5,7 +5,6 @@ cask 'dafont-kathleen' do
     url 'http://dl.dafont.com/dl/?f=kathleen'
     name 'Kathleen'
     homepage 'http://www.dafont.com/kathleen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kathleen.ttf'
     font 'KathleenBold.ttf'

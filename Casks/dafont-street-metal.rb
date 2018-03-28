@@ -5,7 +5,6 @@ cask 'dafont-street-metal' do
     url 'http://dl.dafont.com/dl/?f=street_metal'
     name 'Street Metal'
     homepage 'http://www.dafont.com/street-metal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Street-Metal-font-v5.ttf'
 end

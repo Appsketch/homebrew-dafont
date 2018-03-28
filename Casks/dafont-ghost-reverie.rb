@@ -5,7 +5,6 @@ cask 'dafont-ghost-reverie' do
     url 'http://dl.dafont.com/dl/?f=ghost_reverie'
     name 'Ghost Reverie'
     homepage 'http://www.dafont.com/ghost-reverie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ghost Reverie.ttf'
 end

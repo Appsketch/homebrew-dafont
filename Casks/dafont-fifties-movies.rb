@@ -5,7 +5,6 @@ cask 'dafont-fifties-movies' do
     url 'http://dl.dafont.com/dl/?f=fifties_movies'
     name 'Fifties Movies'
     homepage 'http://www.dafont.com/fifties-movies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fifties Movies.ttf'
 end

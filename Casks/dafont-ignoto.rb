@@ -5,7 +5,6 @@ cask 'dafont-ignoto' do
     url 'http://dl.dafont.com/dl/?f=ignoto'
     name 'Ignoto'
     homepage 'http://www.dafont.com/ignoto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ignoto Bold.ttf'
     font 'Ignoto Regular.ttf'

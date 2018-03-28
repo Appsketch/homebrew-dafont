@@ -5,7 +5,6 @@ cask 'dafont-boceto-st' do
     url 'http://dl.dafont.com/dl/?f=boceto_st'
     name 'Boceto ST'
     homepage 'http://www.dafont.com/boceto-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boceto St.ttf'
 end

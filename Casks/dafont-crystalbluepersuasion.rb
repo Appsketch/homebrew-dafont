@@ -5,7 +5,6 @@ cask 'dafont-crystalbluepersuasion' do
     url 'http://dl.dafont.com/dl/?f=crystalbluepersuasion'
     name 'Crystal Blue Persuasion'
     homepage 'http://www.dafont.com/crystalbluepersuasion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrystalBluePersuasion.ttf'
 end

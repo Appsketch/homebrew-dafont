@@ -5,7 +5,6 @@ cask 'dafont-dk-black-bamboo' do
     url 'http://dl.dafont.com/dl/?f=dk_black_bamboo'
     name 'DK Black Bamboo'
     homepage 'http://www.dafont.com/dk-black-bamboo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Black Bamboo.ttf'
 end

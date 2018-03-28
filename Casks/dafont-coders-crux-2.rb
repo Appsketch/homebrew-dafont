@@ -5,7 +5,6 @@ cask 'dafont-coders-crux-2' do
     url 'http://dl.dafont.com/dl/?f=coders_crux_2'
     name 'Coder&#039;s Crux 2'
     homepage 'http://www.dafont.com/coders-crux-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coders-Crux-2.ttf'
 end

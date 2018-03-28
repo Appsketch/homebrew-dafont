@@ -5,7 +5,6 @@ cask 'dafont-swamp-thing' do
     url 'http://dl.dafont.com/dl/?f=swamp_thing'
     name 'Swamp Thing'
     homepage 'http://www.dafont.com/swamp-thing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swamp.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-typodermic' do
     url 'http://dl.dafont.com/dl/?f=typodermic'
     name 'Typodermic'
     homepage 'http://www.dafont.com/typodermic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'typodermic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wbx-komik' do
     url 'http://dl.dafont.com/dl/?f=wbx_komik'
     name 'WBX Komik'
     homepage 'http://www.dafont.com/wbx-komik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wbxkomik.ttf'
 end

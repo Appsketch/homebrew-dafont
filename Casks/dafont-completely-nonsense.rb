@@ -5,7 +5,6 @@ cask 'dafont-completely-nonsense' do
     url 'http://dl.dafont.com/dl/?f=completely_nonsense'
     name 'Completely Nonsense'
     homepage 'http://www.dafont.com/completely-nonsense.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Completely Nonsense.ttf'
 end

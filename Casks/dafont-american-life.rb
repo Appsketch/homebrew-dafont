@@ -5,7 +5,6 @@ cask 'dafont-american-life' do
     url 'http://dl.dafont.com/dl/?f=american_life'
     name 'American Life'
     homepage 'http://www.dafont.com/american-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'American Life Normal.ttf'
 end

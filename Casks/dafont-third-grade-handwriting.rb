@@ -5,7 +5,6 @@ cask 'dafont-third-grade-handwriting' do
     url 'http://dl.dafont.com/dl/?f=third_grade_handwriting'
     name 'Third Grade Handwriting'
     homepage 'http://www.dafont.com/third-grade-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Third Grade Handwriting.otf'
 end

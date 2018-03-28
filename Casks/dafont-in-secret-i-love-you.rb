@@ -5,7 +5,6 @@ cask 'dafont-in-secret-i-love-you' do
     url 'http://dl.dafont.com/dl/?f=in_secret_i_love_you'
     name 'In Secret i Love You'
     homepage 'http://www.dafont.com/in-secret-i-love-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'In Secret i Love You.ttf'
 end

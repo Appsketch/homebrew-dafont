@@ -5,7 +5,6 @@ cask 'dafont-wl-scrawl-my-children' do
     url 'http://dl.dafont.com/dl/?f=wl_scrawl_my_children'
     name 'WL Scrawl My Children'
     homepage 'http://www.dafont.com/wl-scrawl-my-children.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WLScrawlMyChildren.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-friends-da-vinci' do
     url 'http://dl.dafont.com/dl/?f=friends_da_vinci'
     name 'Friends da vinci'
     homepage 'http://www.dafont.com/friends-da-vinci.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Friendsdavinci demo.ttf'
 end

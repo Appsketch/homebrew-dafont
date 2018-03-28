@@ -5,7 +5,6 @@ cask 'dafont-the-king-of-lost-towel' do
     url 'http://dl.dafont.com/dl/?f=the_king_of_lost_towel'
     name 'The King of Lost Towel'
     homepage 'http://www.dafont.com/the-king-of-lost-towel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The King of Lost Towel.ttf'
 end

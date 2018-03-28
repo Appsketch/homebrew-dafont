@@ -5,7 +5,6 @@ cask 'dafont-goldring' do
     url 'http://dl.dafont.com/dl/?f=goldring'
     name 'Gold Ring'
     homepage 'http://www.dafont.com/goldring.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GoldRing.ttf'
 end

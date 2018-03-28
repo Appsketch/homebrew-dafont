@@ -5,7 +5,6 @@ cask 'dafont-hall-of-fame' do
     url 'http://dl.dafont.com/dl/?f=hall_of_fame'
     name 'Hall of Fame'
     homepage 'http://www.dafont.com/hall-of-fame.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hall of Fame.ttf'
 end

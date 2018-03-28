@@ -5,7 +5,6 @@ cask 'dafont-comicneuesansid' do
     url 'http://dl.dafont.com/dl/?f=comicneuesansid'
     name 'Comic Neue Sans ID'
     homepage 'http://www.dafont.com/comicneuesansid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ComicNeueSansID.ttf'
 end

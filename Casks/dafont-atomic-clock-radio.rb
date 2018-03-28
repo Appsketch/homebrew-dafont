@@ -5,7 +5,6 @@ cask 'dafont-atomic-clock-radio' do
     url 'http://dl.dafont.com/dl/?f=atomic_clock_radio'
     name 'Atomic Clock Radio'
     homepage 'http://www.dafont.com/atomic-clock-radio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ATOMICCLOCKRADIO.TTF'
 end

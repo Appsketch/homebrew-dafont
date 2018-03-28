@@ -5,7 +5,6 @@ cask 'dafont-kg-next-to-me' do
     url 'http://dl.dafont.com/dl/?f=kg_next_to_me'
     name 'KG Next to Me'
     homepage 'http://www.dafont.com/kg-next-to-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGNexttoMeSketched.ttf'
     font 'KGNexttoMeSolid.ttf'

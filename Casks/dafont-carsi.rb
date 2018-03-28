@@ -5,7 +5,6 @@ cask 'dafont-carsi' do
     url 'http://dl.dafont.com/dl/?f=carsi'
     name '&Ccedil;arsi'
     homepage 'http://www.dafont.com/carsi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'arsi.ttf'
 end

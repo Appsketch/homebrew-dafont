@@ -5,7 +5,6 @@ cask 'dafont-worldbeings' do
     url 'http://dl.dafont.com/dl/?f=worldbeings'
     name 'World Beings'
     homepage 'http://www.dafont.com/worldbeings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'worldbeings.ttf'
 end

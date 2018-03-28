@@ -5,7 +5,6 @@ cask 'dafont-scarab-script' do
     url 'http://dl.dafont.com/dl/?f=scarab_script'
     name 'Scarab Script'
     homepage 'http://www.dafont.com/scarab-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sscriptv2.ttf'
     font 'Sscriptv2b.ttf'

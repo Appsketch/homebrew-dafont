@@ -5,7 +5,6 @@ cask 'dafont-paakallojen-hyokkays' do
     url 'http://dl.dafont.com/dl/?f=paakallojen_hyokkays'
     name 'P&auml;&auml;kallojen hy&ouml;kk&auml;ys'
     homepage 'http://www.dafont.com/paakallojen-hyokkays.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paakallojen hyokkays.ttf'
 end

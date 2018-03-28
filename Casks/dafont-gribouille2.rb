@@ -5,7 +5,6 @@ cask 'dafont-gribouille2' do
     url 'http://dl.dafont.com/dl/?f=gribouille2'
     name 'Gribouille'
     homepage 'http://www.dafont.com/gribouille2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gribouille.ttf'
 end

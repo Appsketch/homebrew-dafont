@@ -5,7 +5,6 @@ cask 'dafont-alpha-crisp' do
     url 'http://dl.dafont.com/dl/?f=alpha_crisp'
     name 'Alpha Crisp'
     homepage 'http://www.dafont.com/alpha-crisp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alphacrisp.ttf'
 end

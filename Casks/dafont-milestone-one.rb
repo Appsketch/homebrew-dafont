@@ -5,7 +5,6 @@ cask 'dafont-milestone-one' do
     url 'http://dl.dafont.com/dl/?f=milestone_one'
     name 'Milestone One'
     homepage 'http://www.dafont.com/milestone-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Milestone One.otf'
 end

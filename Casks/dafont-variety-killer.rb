@@ -5,7 +5,6 @@ cask 'dafont-variety-killer' do
     url 'http://dl.dafont.com/dl/?f=variety_killer'
     name 'Variety killer'
     homepage 'http://www.dafont.com/variety-killer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Varietykiller.otf'
 end

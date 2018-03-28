@@ -5,7 +5,6 @@ cask 'dafont-cf-civilisation-maya' do
     url 'http://dl.dafont.com/dl/?f=cf_civilisation_maya'
     name 'CF Civilisation Maya'
     homepage 'http://www.dafont.com/cf-civilisation-maya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFCivilisationMaya-Regular.ttf'
 end

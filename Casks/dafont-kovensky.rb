@@ -5,7 +5,6 @@ cask 'dafont-kovensky' do
     url 'http://dl.dafont.com/dl/?f=kovensky'
     name 'Kovensky'
     homepage 'http://www.dafont.com/kovensky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kovensky-small.ttf'
 end

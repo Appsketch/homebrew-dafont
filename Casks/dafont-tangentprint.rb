@@ -5,7 +5,6 @@ cask 'dafont-tangentprint' do
     url 'http://dl.dafont.com/dl/?f=tangentprint'
     name 'Tangent Print'
     homepage 'http://www.dafont.com/tangentprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TangentPrint.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-csar-parade-dress-display-caps' do
     url 'http://dl.dafont.com/dl/?f=csar_parade_dress_display_caps'
     name 'Csar Parade Dress Display Caps'
     homepage 'http://www.dafont.com/csar-parade-dress-display-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'csar2.ttf'
     font 'csar2dV.ttf'

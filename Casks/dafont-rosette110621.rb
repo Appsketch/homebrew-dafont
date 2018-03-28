@@ -5,7 +5,6 @@ cask 'dafont-rosette110621' do
     url 'http://dl.dafont.com/dl/?f=rosette110621'
     name 'Rosette 110621'
     homepage 'http://www.dafont.com/rosette110621.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rosette110621.ttf'
 end

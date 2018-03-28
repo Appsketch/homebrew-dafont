@@ -5,7 +5,6 @@ cask 'dafont-maeshowe' do
     url 'http://dl.dafont.com/dl/?f=maeshowe'
     name 'Maeshowe'
     homepage 'http://www.dafont.com/maeshowe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maeshowe/Maeshowe.otf'
 end

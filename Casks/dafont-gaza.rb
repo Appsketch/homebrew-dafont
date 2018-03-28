@@ -5,7 +5,6 @@ cask 'dafont-gaza' do
     url 'http://dl.dafont.com/dl/?f=gaza'
     name 'Gaza'
     homepage 'http://www.dafont.com/gaza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GAZA14.ttf'
     font 'GAZA48.ttf'

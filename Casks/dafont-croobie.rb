@@ -5,7 +5,6 @@ cask 'dafont-croobie' do
     url 'http://dl.dafont.com/dl/?f=croobie'
     name 'Croobie'
     homepage 'http://www.dafont.com/croobie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CROOBIE_.TTF'
 end

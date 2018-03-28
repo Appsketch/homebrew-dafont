@@ -5,7 +5,6 @@ cask 'dafont-kenzo' do
     url 'http://dl.dafont.com/dl/?f=kenzo'
     name 'Kenzo'
     homepage 'http://www.dafont.com/kenzo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kenzo Regular Italic.otf'
     font 'Kenzo Regular.otf'

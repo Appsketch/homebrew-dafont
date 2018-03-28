@@ -5,7 +5,6 @@ cask 'dafont-alphasports' do
     url 'http://dl.dafont.com/dl/?f=alphasports'
     name 'Alpha Sports'
     homepage 'http://www.dafont.com/alphasports.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaSports.ttf'
 end

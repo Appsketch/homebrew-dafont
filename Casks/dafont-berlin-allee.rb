@@ -5,7 +5,6 @@ cask 'dafont-berlin-allee' do
     url 'http://dl.dafont.com/dl/?f=berlin_allee'
     name 'Berlin Allee'
     homepage 'http://www.dafont.com/berlin-allee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Berlin Allee SemiBold.ttf'
     font 'Berlin Allee.ttf'

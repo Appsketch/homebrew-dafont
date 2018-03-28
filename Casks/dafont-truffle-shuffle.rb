@@ -5,7 +5,6 @@ cask 'dafont-truffle-shuffle' do
     url 'http://dl.dafont.com/dl/?f=truffle_shuffle'
     name 'Truffle Shuffle'
     homepage 'http://www.dafont.com/truffle-shuffle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truffle-Shuffle.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sweatyparty' do
     url 'http://dl.dafont.com/dl/?f=sweatyparty'
     name 'Sweaty Party'
     homepage 'http://www.dafont.com/sweatyparty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SweatyParty.ttf'
 end

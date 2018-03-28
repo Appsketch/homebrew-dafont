@@ -5,7 +5,6 @@ cask 'dafont-ibleum' do
     url 'http://dl.dafont.com/dl/?f=ibleum'
     name 'Ibleum'
     homepage 'http://www.dafont.com/ibleum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ibleum.otf'
 end

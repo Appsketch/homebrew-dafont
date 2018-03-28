@@ -5,7 +5,6 @@ cask 'dafont-the-abandoned-treasure' do
     url 'http://dl.dafont.com/dl/?f=the_abandoned_treasure'
     name 'The Abandoned Treasure'
     homepage 'http://www.dafont.com/the-abandoned-treasure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Abandoned Treasure.ttf'
 end

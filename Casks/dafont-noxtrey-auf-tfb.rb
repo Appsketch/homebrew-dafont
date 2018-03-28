@@ -5,7 +5,6 @@ cask 'dafont-noxtrey-auf-tfb' do
     url 'http://dl.dafont.com/dl/?f=noxtrey_auf_tfb'
     name 'Noxtrey Auf TFB'
     homepage 'http://www.dafont.com/noxtrey-auf-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Noxtrey Auf tfb bold cursive.ttf'
     font 'Noxtrey Auf tfb bold.ttf'

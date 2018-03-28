@@ -5,7 +5,6 @@ cask 'dafont-watchmen' do
     url 'http://dl.dafont.com/dl/?f=watchmen'
     name 'Watchmen'
     homepage 'http://www.dafont.com/watchmen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '--wATCHMEn--.ttf'
 end

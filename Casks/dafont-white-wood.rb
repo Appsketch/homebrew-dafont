@@ -5,7 +5,6 @@ cask 'dafont-white-wood' do
     url 'http://dl.dafont.com/dl/?f=white_wood'
     name 'White Wood'
     homepage 'http://www.dafont.com/white-wood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'White wood.otf'
 end

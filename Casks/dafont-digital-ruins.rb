@@ -5,7 +5,6 @@ cask 'dafont-digital-ruins' do
     url 'http://dl.dafont.com/dl/?f=digital_ruins'
     name 'Digital Ruins'
     homepage 'http://www.dafont.com/digital-ruins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digital ruins.ttf'
 end

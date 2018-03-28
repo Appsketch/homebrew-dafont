@@ -5,7 +5,6 @@ cask 'dafont-rough-rider' do
     url 'http://dl.dafont.com/dl/?f=rough_rider'
     name 'Rough Rider'
     homepage 'http://www.dafont.com/rough-rider.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rough Rider.ttf'
 end

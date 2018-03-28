@@ -5,7 +5,6 @@ cask 'dafont-marguerite' do
     url 'http://dl.dafont.com/dl/?f=marguerite'
     name 'Marguerite'
     homepage 'http://www.dafont.com/marguerite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marguerite.ttf'
 end

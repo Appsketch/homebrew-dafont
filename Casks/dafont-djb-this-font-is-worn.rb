@@ -5,7 +5,6 @@ cask 'dafont-djb-this-font-is-worn' do
     url 'http://dl.dafont.com/dl/?f=djb_this_font_is_worn'
     name 'DJB This Font is Worn'
     homepage 'http://www.dafont.com/djb-this-font-is-worn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB This Font is Worn.ttf'
 end

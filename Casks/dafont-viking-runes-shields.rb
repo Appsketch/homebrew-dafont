@@ -5,7 +5,6 @@ cask 'dafont-viking-runes-shields' do
     url 'http://dl.dafont.com/dl/?f=viking_runes_shields'
     name 'Viking Runes Shields'
     homepage 'http://www.dafont.com/viking-runes-shields.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Viking Runes Shields.ttf'
 end

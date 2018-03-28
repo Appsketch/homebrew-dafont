@@ -5,7 +5,6 @@ cask 'dafont-mad-a-fraf' do
     url 'http://dl.dafont.com/dl/?f=mad_a_fraf'
     name 'Mad a Fraf'
     homepage 'http://www.dafont.com/mad-a-fraf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mad_a_Fraf.ttf'
 end

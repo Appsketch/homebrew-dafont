@@ -5,7 +5,6 @@ cask 'dafont-quito-chicken' do
     url 'http://dl.dafont.com/dl/?f=quito_chicken'
     name 'Quito Chicken'
     homepage 'http://www.dafont.com/quito-chicken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuitoChicken-Regular.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chuck-chillout' do
     url 'http://dl.dafont.com/dl/?f=chuck_chillout'
     name 'Chuck Chillout'
     homepage 'http://www.dafont.com/chuck-chillout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChuckChillout.ttf'
 end

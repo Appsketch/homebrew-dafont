@@ -5,7 +5,6 @@ cask 'dafont-powerhouse-era' do
     url 'http://dl.dafont.com/dl/?f=powerhouse_era'
     name 'Powerhouse Era'
     homepage 'http://www.dafont.com/powerhouse-era.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Powerhouse Era.ttf'
 end

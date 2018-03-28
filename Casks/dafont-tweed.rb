@@ -5,7 +5,6 @@ cask 'dafont-tweed' do
     url 'http://dl.dafont.com/dl/?f=tweed'
     name 'Tweed'
     homepage 'http://www.dafont.com/tweed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TWEED.TTF'
 end

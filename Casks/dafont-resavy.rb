@@ -5,7 +5,6 @@ cask 'dafont-resavy' do
     url 'http://dl.dafont.com/dl/?f=resavy'
     name 'Resavy'
     homepage 'http://www.dafont.com/resavy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Resavy Bold Italic.otf'
     font 'Resavy Bold.otf'

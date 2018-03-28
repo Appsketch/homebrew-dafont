@@ -5,7 +5,6 @@ cask 'dafont-hours-in-the-rain' do
     url 'http://dl.dafont.com/dl/?f=hours_in_the_rain'
     name 'Hours in the Rain'
     homepage 'http://www.dafont.com/hours-in-the-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hour.ttf'
 end

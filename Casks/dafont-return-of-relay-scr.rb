@@ -5,7 +5,6 @@ cask 'dafont-return-of-relay-scr' do
     url 'http://dl.dafont.com/dl/?f=return_of_relay_scr'
     name 'Return of RelayScript'
     homepage 'http://www.dafont.com/return-of-relay-scr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kkror.ttf'
 end

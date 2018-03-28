@@ -5,7 +5,6 @@ cask 'dafont-armfight' do
     url 'http://dl.dafont.com/dl/?f=armfight'
     name 'Armfight'
     homepage 'http://www.dafont.com/armfight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'armfight.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-xmas-doods-2' do
     url 'http://dl.dafont.com/dl/?f=xmas_doods_2'
     name 'Xmas Doods 2'
     homepage 'http://www.dafont.com/xmas-doods-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xmas Doods 2.ttf'
 end

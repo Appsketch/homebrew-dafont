@@ -5,7 +5,6 @@ cask 'dafont-quizma' do
     url 'http://dl.dafont.com/dl/?f=quizma'
     name 'Quizma'
     homepage 'http://www.dafont.com/quizma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quizma_Light_Demo.otf'
     font 'Quizma_Light_Italic_Demo.otf'

@@ -5,7 +5,6 @@ cask 'dafont-coagulate' do
     url 'http://dl.dafont.com/dl/?f=coagulate'
     name 'Coagulate'
     homepage 'http://www.dafont.com/coagulate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'coagulate.ttf'
 end

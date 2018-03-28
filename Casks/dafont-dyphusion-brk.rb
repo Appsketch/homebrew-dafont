@@ -5,7 +5,6 @@ cask 'dafont-dyphusion-brk' do
     url 'http://dl.dafont.com/dl/?f=dyphusion_brk'
     name 'Dyphusion BRK'
     homepage 'http://www.dafont.com/dyphusion-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dyphusio.ttf'
 end

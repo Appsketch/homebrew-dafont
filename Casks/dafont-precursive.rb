@@ -5,7 +5,6 @@ cask 'dafont-precursive' do
     url 'http://dl.dafont.com/dl/?f=precursive'
     name 'PreCursive'
     homepage 'http://www.dafont.com/precursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Precursive_1_FREE.otf'
     font 'Precursive_Lined_FREE.otf'

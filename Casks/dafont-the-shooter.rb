@@ -5,7 +5,6 @@ cask 'dafont-the-shooter' do
     url 'http://dl.dafont.com/dl/?f=the_shooter'
     name 'The Shooter'
     homepage 'http://www.dafont.com/the-shooter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'theshooter.ttf'
 end

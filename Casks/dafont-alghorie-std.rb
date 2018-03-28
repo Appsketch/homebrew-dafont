@@ -5,7 +5,6 @@ cask 'dafont-alghorie-std' do
     url 'http://dl.dafont.com/dl/?f=alghorie_std'
     name 'Alghorie Std'
     homepage 'http://www.dafont.com/alghorie-std.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alghorie std.ttf'
 end

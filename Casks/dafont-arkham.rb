@@ -5,7 +5,6 @@ cask 'dafont-arkham' do
     url 'http://dl.dafont.com/dl/?f=arkham'
     name 'Arkham'
     homepage 'http://www.dafont.com/arkham.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arkham_bold.TTF'
     font 'Arkham_reg.TTF'

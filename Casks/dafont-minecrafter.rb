@@ -5,7 +5,6 @@ cask 'dafont-minecrafter' do
     url 'http://dl.dafont.com/dl/?f=minecrafter'
     name 'MineCrafter'
     homepage 'http://www.dafont.com/minecrafter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minecrafter.Alt.ttf'
     font 'Minecrafter.Reg.ttf'

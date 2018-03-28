@@ -5,7 +5,6 @@ cask 'dafont-sanford' do
     url 'http://dl.dafont.com/dl/?f=sanford'
     name 'Sanford'
     homepage 'http://www.dafont.com/sanford.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sanford-0103_demo.ttf'
 end

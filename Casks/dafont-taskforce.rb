@@ -5,7 +5,6 @@ cask 'dafont-taskforce' do
     url 'http://dl.dafont.com/dl/?f=taskforce'
     name 'Taskforce'
     homepage 'http://www.dafont.com/taskforce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'taskforce.ttf'
     font 'taskforcec.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-arabic-magic' do
     url 'http://dl.dafont.com/dl/?f=arabic_magic'
     name 'Arabic Magic'
     homepage 'http://www.dafont.com/arabic-magic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arabic Magic.ttf'
 end

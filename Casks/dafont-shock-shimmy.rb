@@ -5,7 +5,6 @@ cask 'dafont-shock-shimmy' do
     url 'http://dl.dafont.com/dl/?f=shock_shimmy'
     name 'Shock Shimmy'
     homepage 'http://www.dafont.com/shock-shimmy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shock Shimmy.ttf'
 end

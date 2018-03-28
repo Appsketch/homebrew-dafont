@@ -5,7 +5,6 @@ cask 'dafont-font-interrupted' do
     url 'http://dl.dafont.com/dl/?f=font_interrupted'
     name 'Font Interrupted'
     homepage 'http://www.dafont.com/font-interrupted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Font Interrupted.ttf'
 end

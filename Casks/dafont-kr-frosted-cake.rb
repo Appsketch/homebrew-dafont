@@ -5,7 +5,6 @@ cask 'dafont-kr-frosted-cake' do
     url 'http://dl.dafont.com/dl/?f=kr_frosted_cake'
     name 'KR Frosted Cake'
     homepage 'http://www.dafont.com/kr-frosted-cake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Frosted Cake.TTF'
 end

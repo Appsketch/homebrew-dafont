@@ -5,7 +5,6 @@ cask 'dafont-flipside' do
     url 'http://dl.dafont.com/dl/?f=flipside'
     name 'Flipside'
     homepage 'http://www.dafont.com/flipside.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'flipside.ttf'
 end

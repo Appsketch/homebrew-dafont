@@ -5,7 +5,6 @@ cask 'dafont-nighty-nights' do
     url 'http://dl.dafont.com/dl/?f=nighty_nights'
     name 'Nighty Nights'
     homepage 'http://www.dafont.com/nighty-nights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nighty Nights.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-merri-christina' do
     url 'http://dl.dafont.com/dl/?f=merri_christina'
     name 'Merri Christina'
     homepage 'http://www.dafont.com/merri-christina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'merrichris.ttf'
     font 'merrichrisb.ttf'

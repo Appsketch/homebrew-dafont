@@ -5,7 +5,6 @@ cask 'dafont-greatending' do
     url 'http://dl.dafont.com/dl/?f=greatending'
     name 'Great Ending'
     homepage 'http://www.dafont.com/greatending.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreatEnding.ttf'
 end

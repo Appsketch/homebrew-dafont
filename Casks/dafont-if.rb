@@ -5,7 +5,6 @@ cask 'dafont-if' do
     url 'http://dl.dafont.com/dl/?f=if'
     name 'If'
     homepage 'http://www.dafont.com/if.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'If.ttf'
 end

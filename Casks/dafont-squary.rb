@@ -5,7 +5,6 @@ cask 'dafont-squary' do
     url 'http://dl.dafont.com/dl/?f=squary'
     name 'Squary'
     homepage 'http://www.dafont.com/squary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Squary.ttf'
 end

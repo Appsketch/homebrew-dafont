@@ -5,7 +5,6 @@ cask 'dafont-open-your-eyes' do
     url 'http://dl.dafont.com/dl/?f=open_your_eyes'
     name 'Open your eyes'
     homepage 'http://www.dafont.com/open-your-eyes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Open your eyes.ttf'
 end

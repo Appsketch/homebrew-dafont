@@ -5,7 +5,6 @@ cask 'dafont-akura-popo' do
     url 'http://dl.dafont.com/dl/?f=akura_popo'
     name 'Akura Popo'
     homepage 'http://www.dafont.com/akura-popo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Akura Popo.ttf'
 end

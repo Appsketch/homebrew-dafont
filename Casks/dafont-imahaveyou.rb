@@ -5,7 +5,6 @@ cask 'dafont-imahaveyou' do
     url 'http://dl.dafont.com/dl/?f=imahaveyou'
     name 'Ima Have You'
     homepage 'http://www.dafont.com/imahaveyou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ImaHaveYou.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cf-school-zone' do
     url 'http://dl.dafont.com/dl/?f=cf_school_zone'
     name 'CF School Zone'
     homepage 'http://www.dafont.com/cf-school-zone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFSchoolZoneRegular.ttf'
 end

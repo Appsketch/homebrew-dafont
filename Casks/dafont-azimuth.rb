@@ -5,7 +5,6 @@ cask 'dafont-azimuth' do
     url 'http://dl.dafont.com/dl/?f=azimuth'
     name 'Azimuth'
     homepage 'http://www.dafont.com/azimuth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Azimuth-Bold.ttf'
     font 'Azimuth-Regular.ttf'

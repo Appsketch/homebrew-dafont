@@ -5,7 +5,6 @@ cask 'dafont-android-nation' do
     url 'http://dl.dafont.com/dl/?f=android_nation'
     name 'Android Nation'
     homepage 'http://www.dafont.com/android-nation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'androidnation_b.ttf'
     font 'androidnation_i.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-debussy' do
     url 'http://dl.dafont.com/dl/?f=debussy'
     name 'Debussy'
     homepage 'http://www.dafont.com/debussy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'debussy.ttf'
 end

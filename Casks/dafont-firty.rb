@@ -5,7 +5,6 @@ cask 'dafont-firty' do
     url 'http://dl.dafont.com/dl/?f=firty'
     name 'Firty'
     homepage 'http://www.dafont.com/firty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Firty-Free.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mawns-serif' do
     url 'http://dl.dafont.com/dl/?f=mawns_serif'
     name 'Mawns&#039; Serif'
     homepage 'http://www.dafont.com/mawns-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mawns serif.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stock-quote' do
     url 'http://dl.dafont.com/dl/?f=stock_quote'
     name 'Stock Quote'
     homepage 'http://www.dafont.com/stock-quote.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STOCK.TTF'
 end

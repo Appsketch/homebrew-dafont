@@ -5,7 +5,6 @@ cask 'dafont-stay-punx' do
     url 'http://dl.dafont.com/dl/?f=stay_punx'
     name 'Stay Punx'
     homepage 'http://www.dafont.com/stay-punx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STAY PUNX.ttf'
 end

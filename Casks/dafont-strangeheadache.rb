@@ -5,7 +5,6 @@ cask 'dafont-strangeheadache' do
     url 'http://dl.dafont.com/dl/?f=strangeheadache'
     name 'Strange Headache'
     homepage 'http://www.dafont.com/strangeheadache.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'strangeheadache.ttf'
 end

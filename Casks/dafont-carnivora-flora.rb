@@ -5,7 +5,6 @@ cask 'dafont-carnivora-flora' do
     url 'http://dl.dafont.com/dl/?f=carnivora_flora'
     name 'Carnivora Flora'
     homepage 'http://www.dafont.com/carnivora-flora.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CarnivoraFlora.ttf'
 end

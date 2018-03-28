@@ -5,7 +5,6 @@ cask 'dafont-imprimerie' do
     url 'http://dl.dafont.com/dl/?f=imprimerie'
     name 'Imprimerie'
     homepage 'http://www.dafont.com/imprimerie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Imprimerie-Bold.ttf'
     font 'Imprimerie.ttf'

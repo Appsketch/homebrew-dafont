@@ -5,7 +5,6 @@ cask 'dafont-wishful-waves' do
     url 'http://dl.dafont.com/dl/?f=wishful_waves'
     name 'Wishful Waves'
     homepage 'http://www.dafont.com/wishful-waves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WISHFULWAVES.ttf'
 end

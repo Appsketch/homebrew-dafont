@@ -5,7 +5,6 @@ cask 'dafont-amputierte' do
     url 'http://dl.dafont.com/dl/?f=amputierte'
     name 'Amputierte'
     homepage 'http://www.dafont.com/amputierte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'amputierte.ttf'
 end

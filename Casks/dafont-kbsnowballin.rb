@@ -5,7 +5,6 @@ cask 'dafont-kbsnowballin' do
     url 'http://dl.dafont.com/dl/?f=kbsnowballin'
     name 'KB Snowballin'
     homepage 'http://www.dafont.com/kbsnowballin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBSnowballin.ttf'
 end

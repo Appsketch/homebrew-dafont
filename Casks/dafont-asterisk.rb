@@ -5,7 +5,6 @@ cask 'dafont-asterisk' do
     url 'http://dl.dafont.com/dl/?f=asterisk'
     name 'Asterisk'
     homepage 'http://www.dafont.com/asterisk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Asterisk-Bold.ttf'
     font 'Asterisk-DoubleLine.ttf'

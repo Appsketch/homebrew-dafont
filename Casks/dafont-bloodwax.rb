@@ -5,7 +5,6 @@ cask 'dafont-bloodwax' do
     url 'http://dl.dafont.com/dl/?f=bloodwax'
     name 'BloodWax'
     homepage 'http://www.dafont.com/bloodwax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLOODWAB.TTF'
     font 'BLOODWAI.TTF'

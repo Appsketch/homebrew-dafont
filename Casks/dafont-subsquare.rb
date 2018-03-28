@@ -5,7 +5,6 @@ cask 'dafont-subsquare' do
     url 'http://dl.dafont.com/dl/?f=subsquare'
     name 'SubSquare'
     homepage 'http://www.dafont.com/subsquare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'subsquare.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-snaps-taste-christmas' do
     url 'http://dl.dafont.com/dl/?f=snaps_taste_christmas'
     name 'Snaps Taste Christmas'
     homepage 'http://www.dafont.com/snaps-taste-christmas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snaps Taste Christmas.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-deranged' do
     url 'http://dl.dafont.com/dl/?f=deranged'
     name 'Deranged'
     homepage 'http://www.dafont.com/deranged.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'derange1.ttf'
 end

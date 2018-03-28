@@ -5,7 +5,6 @@ cask 'dafont-scratch-bold' do
     url 'http://dl.dafont.com/dl/?f=scratch_bold'
     name 'Scratch Bold'
     homepage 'http://www.dafont.com/scratch-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scratch.ttf'
 end

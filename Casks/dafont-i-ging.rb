@@ -5,7 +5,6 @@ cask 'dafont-i-ging' do
     url 'http://dl.dafont.com/dl/?f=i_ging'
     name 'I Ging'
     homepage 'http://www.dafont.com/i-ging.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IGing.ttf'
 end

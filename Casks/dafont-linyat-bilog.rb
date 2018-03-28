@@ -5,7 +5,6 @@ cask 'dafont-linyat-bilog' do
     url 'http://dl.dafont.com/dl/?f=linyat_bilog'
     name 'Linyat Bilog'
     homepage 'http://www.dafont.com/linyat-bilog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Linyat Bilog.otf'
 end

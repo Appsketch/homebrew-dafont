@@ -5,7 +5,6 @@ cask 'dafont-neovix' do
     url 'http://dl.dafont.com/dl/?f=neovix'
     name 'Neovix'
     homepage 'http://www.dafont.com/neovix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neovix.otf'
 end

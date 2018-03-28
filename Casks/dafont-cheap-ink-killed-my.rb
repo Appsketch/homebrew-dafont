@@ -5,7 +5,6 @@ cask 'dafont-cheap-ink-killed-my' do
     url 'http://dl.dafont.com/dl/?f=cheap_ink_killed_my'
     name 'Cheap ink killed my printer'
     homepage 'http://www.dafont.com/cheap-ink-killed-my.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CheapInk.ttf'
 end

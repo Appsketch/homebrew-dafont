@@ -5,7 +5,6 @@ cask 'dafont-youreinvited' do
     url 'http://dl.dafont.com/dl/?f=youreinvited'
     name 'You&#039;re Invited'
     homepage 'http://www.dafont.com/youreinvited.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YoureInvited.otf'
     font 'YoureInvitedHeavy.otf'

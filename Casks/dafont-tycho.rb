@@ -5,7 +5,6 @@ cask 'dafont-tycho' do
     url 'http://dl.dafont.com/dl/?f=tycho'
     name 'Tycho'
     homepage 'http://www.dafont.com/tycho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tycho.otf'
 end

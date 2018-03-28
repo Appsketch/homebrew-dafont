@@ -5,7 +5,6 @@ cask 'dafont-sitdown' do
     url 'http://dl.dafont.com/dl/?f=sitdown'
     name 'Sitdown'
     homepage 'http://www.dafont.com/sitdown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sitdown.otf'
 end

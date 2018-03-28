@@ -5,7 +5,6 @@ cask 'dafont-issac' do
     url 'http://dl.dafont.com/dl/?f=issac'
     name 'Issac'
     homepage 'http://www.dafont.com/issac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Issac.ttf'
 end

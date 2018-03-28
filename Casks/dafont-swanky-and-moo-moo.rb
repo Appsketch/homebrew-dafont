@@ -5,7 +5,6 @@ cask 'dafont-swanky-and-moo-moo' do
     url 'http://dl.dafont.com/dl/?f=swanky_and_moo_moo'
     name 'Swanky and Moo Moo'
     homepage 'http://www.dafont.com/swanky-and-moo-moo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swanky and Moo Moo.ttf'
 end

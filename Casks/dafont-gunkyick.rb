@@ -5,7 +5,6 @@ cask 'dafont-gunkyick' do
     url 'http://dl.dafont.com/dl/?f=gunkyick'
     name 'Gunky Ick'
     homepage 'http://www.dafont.com/gunkyick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GunkyIck.ttf'
 end

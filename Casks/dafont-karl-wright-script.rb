@@ -5,7 +5,6 @@ cask 'dafont-karl-wright-script' do
     url 'http://dl.dafont.com/dl/?f=karl_wright_script'
     name 'Karl Wright Script'
     homepage 'http://www.dafont.com/karl-wright-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Karl Wright Script.ttf'
 end

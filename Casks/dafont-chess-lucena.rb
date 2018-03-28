@@ -5,7 +5,6 @@ cask 'dafont-chess-lucena' do
     url 'http://dl.dafont.com/dl/?f=chess_lucena'
     name 'Chess Lucena'
     homepage 'http://www.dafont.com/chess-lucena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LUCEFONT.TTF'
 end

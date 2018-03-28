@@ -5,7 +5,6 @@ cask 'dafont-hotel-madriz' do
     url 'http://dl.dafont.com/dl/?f=hotel_madriz'
     name 'Hotel Madriz'
     homepage 'http://www.dafont.com/hotel-madriz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hotel Madriz.ttf'
 end

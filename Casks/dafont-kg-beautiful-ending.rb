@@ -5,7 +5,6 @@ cask 'dafont-kg-beautiful-ending' do
     url 'http://dl.dafont.com/dl/?f=kg_beautiful_ending'
     name 'KG Beautiful Ending'
     homepage 'http://www.dafont.com/kg-beautiful-ending.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGBeautifulEnding.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-atarian-system' do
     url 'http://dl.dafont.com/dl/?f=atarian_system'
     name 'SF Atarian System'
     homepage 'http://www.dafont.com/atarian-system.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Atarian System Bold Italic.ttf'
     font 'SF Atarian System Bold.ttf'

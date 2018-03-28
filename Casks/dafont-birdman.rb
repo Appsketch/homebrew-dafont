@@ -5,7 +5,6 @@ cask 'dafont-birdman' do
     url 'http://dl.dafont.com/dl/?f=birdman'
     name 'Birdman'
     homepage 'http://www.dafont.com/birdman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIRDB___.TTF'
     font 'BIRDL___.TTF'

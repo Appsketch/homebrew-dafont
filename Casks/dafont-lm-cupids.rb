@@ -5,7 +5,6 @@ cask 'dafont-lm-cupids' do
     url 'http://dl.dafont.com/dl/?f=lm_cupids'
     name 'LM Cupids'
     homepage 'http://www.dafont.com/lm-cupids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LM Cupids.ttf'
 end

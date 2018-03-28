@@ -5,7 +5,6 @@ cask 'dafont-ides-of-jade' do
     url 'http://dl.dafont.com/dl/?f=ides_of_jade'
     name 'Ides of Jade'
     homepage 'http://www.dafont.com/ides-of-jade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ides of Jade.ttf'
 end

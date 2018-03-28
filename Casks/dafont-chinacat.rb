@@ -5,7 +5,6 @@ cask 'dafont-chinacat' do
     url 'http://dl.dafont.com/dl/?f=chinacat'
     name 'Chinacat'
     homepage 'http://www.dafont.com/chinacat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chinrg__.ttf'
     font 'chint___.ttf'

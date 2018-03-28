@@ -5,7 +5,6 @@ cask 'dafont-mixed-feelings' do
     url 'http://dl.dafont.com/dl/?f=mixed_feelings'
     name 'Mixed Feelings'
     homepage 'http://www.dafont.com/mixed-feelings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mixed Feelings Regular.otf'
 end

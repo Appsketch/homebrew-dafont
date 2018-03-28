@@ -5,7 +5,6 @@ cask 'dafont-buzz-saw-aoe' do
     url 'http://dl.dafont.com/dl/?f=buzz_saw_aoe'
     name 'Buzz Saw AOE'
     homepage 'http://www.dafont.com/buzz-saw-aoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truetype/BuzzSawAOE.ttf'
     font 'Truetype/BuzzSawChiAOE.ttf'

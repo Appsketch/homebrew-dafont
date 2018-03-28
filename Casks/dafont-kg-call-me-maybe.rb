@@ -5,7 +5,6 @@ cask 'dafont-kg-call-me-maybe' do
     url 'http://dl.dafont.com/dl/?f=kg_call_me_maybe'
     name 'KG Call Me Maybe '
     homepage 'http://www.dafont.com/kg-call-me-maybe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGCallMeMaybe-skinny.ttf'
     font 'KGCallMeMaybe.ttf'

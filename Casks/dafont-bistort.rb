@@ -5,7 +5,6 @@ cask 'dafont-bistort' do
     url 'http://dl.dafont.com/dl/?f=bistort'
     name 'Bistort'
     homepage 'http://www.dafont.com/bistort.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bistort.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-memes-by-jopea302' do
     url 'http://dl.dafont.com/dl/?f=memes_by_jopea302'
     name 'Memes'
     homepage 'http://www.dafont.com/memes-by-jopea302.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Memes.ttf'
 end

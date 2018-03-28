@@ -5,7 +5,6 @@ cask 'dafont-searfont' do
     url 'http://dl.dafont.com/dl/?f=searfont'
     name 'Searfont'
     homepage 'http://www.dafont.com/searfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Searfont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-poseyblossom' do
     url 'http://dl.dafont.com/dl/?f=poseyblossom'
     name 'Posey Blossom'
     homepage 'http://www.dafont.com/poseyblossom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MHPoseyBlossom.ttf'
 end

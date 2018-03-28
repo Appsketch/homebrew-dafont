@@ -5,7 +5,6 @@ cask 'dafont-movie-letters' do
     url 'http://dl.dafont.com/dl/?f=movie_letters'
     name 'Movie Letters'
     homepage 'http://www.dafont.com/movie-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MovLette.ttf'
 end

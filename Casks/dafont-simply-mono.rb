@@ -5,7 +5,6 @@ cask 'dafont-simply-mono' do
     url 'http://dl.dafont.com/dl/?f=simply_mono'
     name 'Simply Mono'
     homepage 'http://www.dafont.com/simply-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simply Mono Dirty.ttf'
     font 'Simply Mono Oblique.ttf'

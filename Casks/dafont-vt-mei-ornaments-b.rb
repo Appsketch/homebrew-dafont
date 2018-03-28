@@ -5,7 +5,6 @@ cask 'dafont-vt-mei-ornaments-b' do
     url 'http://dl.dafont.com/dl/?f=vt_mei_ornaments_b'
     name 'VT Mei Ornaments on Black'
     homepage 'http://www.dafont.com/vt-mei-ornaments-b.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtmeoobl.TTF'
 end

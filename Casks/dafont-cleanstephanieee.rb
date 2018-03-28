@@ -5,7 +5,6 @@ cask 'dafont-cleanstephanieee' do
     url 'http://dl.dafont.com/dl/?f=cleanstephanieee'
     name 'Clean Stephanieee'
     homepage 'http://www.dafont.com/cleanstephanieee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CleanStephanieee.ttf'
 end

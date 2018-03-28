@@ -5,7 +5,6 @@ cask 'dafont-astral-projections' do
     url 'http://dl.dafont.com/dl/?f=astral_projections'
     name 'Astral Projections'
     homepage 'http://www.dafont.com/astral-projections.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AstralProjections.ttf'
     font 'AstralProjectionsItalic.ttf'

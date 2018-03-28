@@ -5,7 +5,6 @@ cask 'dafont-brandi-alexander' do
     url 'http://dl.dafont.com/dl/?f=brandi_alexander'
     name 'Brandi Alexander'
     homepage 'http://www.dafont.com/brandi-alexander.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brandi_alexander_outline.ttf'
     font 'brandi_alexander.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-bonecracker' do
     url 'http://dl.dafont.com/dl/?f=bonecracker'
     name 'Bonecracker'
     homepage 'http://www.dafont.com/bonecracker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonecracker_college.ttf'
     font 'bonecracker_shadow.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-the-enemy-gene' do
     url 'http://dl.dafont.com/dl/?f=the_enemy_gene'
     name 'The Enemy Gene'
     homepage 'http://www.dafont.com/the-enemy-gene.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Enemy Gene.otf'
 end

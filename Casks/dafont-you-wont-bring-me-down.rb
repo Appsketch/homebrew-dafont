@@ -5,7 +5,6 @@ cask 'dafont-you-wont-bring-me-down' do
     url 'http://dl.dafont.com/dl/?f=you_wont_bring_me_down'
     name 'KG You Wont Bring Me Down'
     homepage 'http://www.dafont.com/you-wont-bring-me-down.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGYouWontBringMeDown.ttf'
     font 'KGYouWontBringMeDownBold.ttf'

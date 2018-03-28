@@ -5,7 +5,6 @@ cask 'dafont-citaro-voor-enkele-hoogte-breed' do
     url 'http://dl.dafont.com/dl/?f=citaro_voor_enkele_hoogte_breed'
     name 'Citaro Voor (Enkele hoogte, Breed)'
     homepage 'http://www.dafont.com/citaro-voor-enkele-hoogte-breed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'citaro_voor_enkele_hoogte_breed.ttf'
 end

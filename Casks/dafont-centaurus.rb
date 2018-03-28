@@ -5,7 +5,6 @@ cask 'dafont-centaurus' do
     url 'http://dl.dafont.com/dl/?f=centaurus'
     name 'Centaurus'
     homepage 'http://www.dafont.com/centaurus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'centaurus.ttf'
     font 'centaurus3d.ttf'

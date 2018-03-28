@@ -5,7 +5,6 @@ cask 'dafont-dead-end' do
     url 'http://dl.dafont.com/dl/?f=dead_end'
     name 'Dead End'
     homepage 'http://www.dafont.com/dead-end.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dead End.ttf'
 end

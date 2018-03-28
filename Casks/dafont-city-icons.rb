@@ -5,7 +5,6 @@ cask 'dafont-city-icons' do
     url 'http://dl.dafont.com/dl/?f=city_icons'
     name 'City Icons'
     homepage 'http://www.dafont.com/city-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'City Icons.ttf'
 end

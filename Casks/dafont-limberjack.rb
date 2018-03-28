@@ -5,7 +5,6 @@ cask 'dafont-limberjack' do
     url 'http://dl.dafont.com/dl/?f=_limberjack'
     name '!Limberjack'
     homepage 'http://www.dafont.com/-limberjack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '!Limberjack.ttf'
 end

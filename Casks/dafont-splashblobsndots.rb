@@ -5,7 +5,6 @@ cask 'dafont-splashblobsndots' do
     url 'http://dl.dafont.com/dl/?f=splashblobsndots'
     name 'Splash Blobs n Dots'
     homepage 'http://www.dafont.com/splashblobsndots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SplashBlobsnDots.ttf'
 end

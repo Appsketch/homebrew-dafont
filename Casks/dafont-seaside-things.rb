@@ -5,7 +5,6 @@ cask 'dafont-seaside-things' do
     url 'http://dl.dafont.com/dl/?f=seaside_things'
     name 'Seaside Things'
     homepage 'http://www.dafont.com/seaside-things.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seaside Things.ttf'
 end

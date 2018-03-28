@@ -5,7 +5,6 @@ cask 'dafont-dk-jubileum' do
     url 'http://dl.dafont.com/dl/?f=dk_jubileum'
     name 'DK Jubileum'
     homepage 'http://www.dafont.com/dk-jubileum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Jubileum.otf'
 end

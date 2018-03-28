@@ -5,7 +5,6 @@ cask 'dafont-eclix' do
     url 'http://dl.dafont.com/dl/?f=eclix'
     name 'Eclix'
     homepage 'http://www.dafont.com/eclix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ECLIRG__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vanlentines-day-tfb' do
     url 'http://dl.dafont.com/dl/?f=vanlentines_day_tfb'
     name 'Vanlentines Day TFB'
     homepage 'http://www.dafont.com/vanlentines-day-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vanlentines day TFB.ttf'
 end

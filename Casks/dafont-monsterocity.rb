@@ -5,7 +5,6 @@ cask 'dafont-monsterocity' do
     url 'http://dl.dafont.com/dl/?f=monsterocity'
     name 'Monsterocity'
     homepage 'http://www.dafont.com/monsterocity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monsterocity.ttf'
 end

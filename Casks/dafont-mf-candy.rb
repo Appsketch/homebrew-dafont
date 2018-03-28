@@ -5,7 +5,6 @@ cask 'dafont-mf-candy' do
     url 'http://dl.dafont.com/dl/?f=mf_candy'
     name 'MF Candy'
     homepage 'http://www.dafont.com/mf-candy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Candy.ttf'
 end

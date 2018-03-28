@@ -5,7 +5,6 @@ cask 'dafont-last-words-from-earth' do
     url 'http://dl.dafont.com/dl/?f=last_words_from_earth'
     name 'Last Words from Earth'
     homepage 'http://www.dafont.com/last-words-from-earth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Last Words from Earth.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-may-queen' do
     url 'http://dl.dafont.com/dl/?f=may_queen'
     name 'May Queen'
     homepage 'http://www.dafont.com/may-queen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mayqueen.ttf'
 end

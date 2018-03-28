@@ -5,7 +5,6 @@ cask 'dafont-nekrokids' do
     url 'http://dl.dafont.com/dl/?f=nekrokids'
     name 'Nekrokids'
     homepage 'http://www.dafont.com/nekrokids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NekroKids.ttf'
 end

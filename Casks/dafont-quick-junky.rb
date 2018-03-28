@@ -5,7 +5,6 @@ cask 'dafont-quick-junky' do
     url 'http://dl.dafont.com/dl/?f=quick_junky'
     name 'Quick Junky'
     homepage 'http://www.dafont.com/quick-junky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quick_and_junky.ttf'
 end

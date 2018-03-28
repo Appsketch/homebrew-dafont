@@ -5,7 +5,6 @@ cask 'dafont-blanket-type' do
     url 'http://dl.dafont.com/dl/?f=blanket_type'
     name 'Blanket Type'
     homepage 'http://www.dafont.com/blanket-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blanket Type Final.ttf'
 end

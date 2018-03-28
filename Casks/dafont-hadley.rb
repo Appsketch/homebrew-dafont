@@ -5,7 +5,6 @@ cask 'dafont-hadley' do
     url 'http://dl.dafont.com/dl/?f=hadley'
     name 'Hadley'
     homepage 'http://www.dafont.com/hadley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HADALT__.ttf'
     font 'Hadley__.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-mister-sinatra' do
     url 'http://dl.dafont.com/dl/?f=mister_sinatra'
     name 'Mister Sinatra'
     homepage 'http://www.dafont.com/mister-sinatra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MisterSinatra-Regular.ttf'
     font 'MisterSinatra-Slim.ttf'

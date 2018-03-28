@@ -5,7 +5,6 @@ cask 'dafont-dawg-box' do
     url 'http://dl.dafont.com/dl/?f=dawg_box'
     name 'Dawg Box'
     homepage 'http://www.dafont.com/dawg-box.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DAWGBOX_.TTF'
 end

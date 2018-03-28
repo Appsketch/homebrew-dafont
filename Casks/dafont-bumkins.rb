@@ -5,7 +5,6 @@ cask 'dafont-bumkins' do
     url 'http://dl.dafont.com/dl/?f=bumkins'
     name 'Bumkins'
     homepage 'http://www.dafont.com/bumkins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bumkins_.TTF'
 end

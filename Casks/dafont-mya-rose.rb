@@ -5,7 +5,6 @@ cask 'dafont-mya-rose' do
     url 'http://dl.dafont.com/dl/?f=mya_rose'
     name 'Mya Rose'
     homepage 'http://www.dafont.com/mya-rose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'myarose.ttf'
 end

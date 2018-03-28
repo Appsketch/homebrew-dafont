@@ -5,7 +5,6 @@ cask 'dafont-policia-corrupta' do
     url 'http://dl.dafont.com/dl/?f=policia_corrupta'
     name 'Policia Corrupta'
     homepage 'http://www.dafont.com/policia-corrupta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Policia Corrupta.ttf'
 end

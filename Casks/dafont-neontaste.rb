@@ -5,7 +5,6 @@ cask 'dafont-neontaste' do
     url 'http://dl.dafont.com/dl/?f=neontaste'
     name 'Neon Taste'
     homepage 'http://www.dafont.com/neontaste.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeonTaste.ttf'
 end

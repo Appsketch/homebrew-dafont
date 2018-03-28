@@ -5,7 +5,6 @@ cask 'dafont-soft-elegance' do
     url 'http://dl.dafont.com/dl/?f=soft_elegance'
     name 'Soft Elegance'
     homepage 'http://www.dafont.com/soft-elegance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Soft Elegance.ttf'
 end

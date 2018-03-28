@@ -5,7 +5,6 @@ cask 'dafont-kanover' do
     url 'http://dl.dafont.com/dl/?f=kanover'
     name 'Kanover'
     homepage 'http://www.dafont.com/kanover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kanover Free.ttf'
 end

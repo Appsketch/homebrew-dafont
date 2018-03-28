@@ -5,7 +5,6 @@ cask 'dafont-where-the-lonely-ones-roam' do
     url 'http://dl.dafont.com/dl/?f=where_the_lonely_ones_roam'
     name 'Mf Where The Lonely Ones Roam'
     homepage 'http://www.dafont.com/where-the-lonely-ones-roam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Where The Lonely Ones Roam.ttf'
 end

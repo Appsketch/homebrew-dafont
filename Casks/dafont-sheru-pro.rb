@@ -5,7 +5,6 @@ cask 'dafont-sheru-pro' do
     url 'http://dl.dafont.com/dl/?f=sheru_pro'
     name 'Sheru Pro'
     homepage 'http://www.dafont.com/sheru-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SheruPro.otf'
 end

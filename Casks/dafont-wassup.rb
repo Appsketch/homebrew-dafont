@@ -5,7 +5,6 @@ cask 'dafont-wassup' do
     url 'http://dl.dafont.com/dl/?f=wassup'
     name 'Wassup'
     homepage 'http://www.dafont.com/wassup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wassup.ttf'
 end

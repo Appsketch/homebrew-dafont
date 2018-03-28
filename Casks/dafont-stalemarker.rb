@@ -5,7 +5,6 @@ cask 'dafont-stalemarker' do
     url 'http://dl.dafont.com/dl/?f=stalemarker'
     name 'Stale Marker'
     homepage 'http://www.dafont.com/stalemarker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StaleMarkerV2.ttf'
 end

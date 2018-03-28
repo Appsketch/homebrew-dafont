@@ -5,7 +5,6 @@ cask 'dafont-monterey-wide' do
     url 'http://dl.dafont.com/dl/?f=monterey_wide'
     name 'Monterey Wide'
     homepage 'http://www.dafont.com/monterey-wide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MontereyWide.otf'
 end

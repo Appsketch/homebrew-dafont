@@ -5,7 +5,6 @@ cask 'dafont-smg-sam-poo-kong' do
     url 'http://dl.dafont.com/dl/?f=smg_sam_poo_kong'
     name 'SMG Sam Poo Kong'
     homepage 'http://www.dafont.com/smg-sam-poo-kong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'smg_sampookong.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cloister-black' do
     url 'http://dl.dafont.com/dl/?f=cloister_black'
     name 'Cloister Black'
     homepage 'http://www.dafont.com/cloister-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CloisterBlack.ttf'
 end

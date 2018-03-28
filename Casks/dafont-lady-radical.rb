@@ -5,7 +5,6 @@ cask 'dafont-lady-radical' do
     url 'http://dl.dafont.com/dl/?f=lady_radical'
     name 'Lady Radical'
     homepage 'http://www.dafont.com/lady-radical.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lady Radical.ttf'
 end

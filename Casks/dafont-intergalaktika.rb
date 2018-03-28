@@ -5,7 +5,6 @@ cask 'dafont-intergalaktika' do
     url 'http://dl.dafont.com/dl/?f=intergalaktika'
     name 'Intergalaktika'
     homepage 'http://www.dafont.com/intergalaktika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INTERGALAKTIKA.TTF'
     font 'INTERGALAKTIKA2.TTF'

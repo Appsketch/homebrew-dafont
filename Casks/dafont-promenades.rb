@@ -5,7 +5,6 @@ cask 'dafont-promenades' do
     url 'http://dl.dafont.com/dl/?f=promenades'
     name 'Promenades'
     homepage 'http://www.dafont.com/promenades.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Promenades-font-FFP.ttf'
 end

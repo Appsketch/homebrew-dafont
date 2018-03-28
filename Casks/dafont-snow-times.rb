@@ -5,7 +5,6 @@ cask 'dafont-snow-times' do
     url 'http://dl.dafont.com/dl/?f=snow_times'
     name 'Snow Times'
     homepage 'http://www.dafont.com/snow-times.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snow Times.ttf'
 end

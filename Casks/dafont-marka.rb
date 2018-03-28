@@ -5,7 +5,6 @@ cask 'dafont-marka' do
     url 'http://dl.dafont.com/dl/?f=marka'
     name 'Marka'
     homepage 'http://www.dafont.com/marka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MARKA___.TTF'
 end

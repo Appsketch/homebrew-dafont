@@ -5,7 +5,6 @@ cask 'dafont-bim' do
     url 'http://dl.dafont.com/dl/?f=bim'
     name 'Bim'
     homepage 'http://www.dafont.com/bim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bim sin simbolos.ttf'
 end

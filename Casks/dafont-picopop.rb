@@ -5,7 +5,6 @@ cask 'dafont-picopop' do
     url 'http://dl.dafont.com/dl/?f=picopop'
     name 'Pico Pop'
     homepage 'http://www.dafont.com/picopop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PicoPop.ttf'
 end

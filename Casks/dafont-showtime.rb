@@ -5,7 +5,6 @@ cask 'dafont-showtime' do
     url 'http://dl.dafont.com/dl/?f=showtime'
     name 'Showtime'
     homepage 'http://www.dafont.com/showtime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Showtime.ttf'
 end

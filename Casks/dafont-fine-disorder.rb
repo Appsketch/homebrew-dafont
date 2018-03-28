@@ -5,7 +5,6 @@ cask 'dafont-fine-disorder' do
     url 'http://dl.dafont.com/dl/?f=fine_disorder'
     name 'Fine Disorder'
     homepage 'http://www.dafont.com/fine-disorder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fine Disorder.ttf'
 end

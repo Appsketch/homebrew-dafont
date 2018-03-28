@@ -5,7 +5,6 @@ cask 'dafont-bm-chain' do
     url 'http://dl.dafont.com/dl/?f=bm_chain'
     name 'BM Chain'
     homepage 'http://www.dafont.com/bm-chain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMchain.TTF'
 end

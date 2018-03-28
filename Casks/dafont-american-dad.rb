@@ -5,7 +5,6 @@ cask 'dafont-american-dad' do
     url 'http://dl.dafont.com/dl/?f=american_dad'
     name 'American DAD!'
     homepage 'http://www.dafont.com/american-dad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'American DAD!.ttf.ttf'
 end

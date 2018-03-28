@@ -5,7 +5,6 @@ cask 'dafont-quincaille' do
     url 'http://dl.dafont.com/dl/?f=quincaille'
     name 'Quincaille'
     homepage 'http://www.dafont.com/quincaille.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUINI___.TTF'
     font 'QUINO___.TTF'

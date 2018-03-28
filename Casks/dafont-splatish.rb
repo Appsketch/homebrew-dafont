@@ -5,7 +5,6 @@ cask 'dafont-splatish' do
     url 'http://dl.dafont.com/dl/?f=splatish'
     name 'Splatish'
     homepage 'http://www.dafont.com/splatish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Splatish.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cornucopia-of-dingbats-three' do
     url 'http://dl.dafont.com/dl/?f=cornucopia_of_dingbats_three'
     name 'Cornucopia of Dingbats Three'
     homepage 'http://www.dafont.com/cornucopia-of-dingbats-three.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cornucopia of Dingbats Three.ttf'
 end

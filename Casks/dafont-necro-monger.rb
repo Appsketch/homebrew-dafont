@@ -5,7 +5,6 @@ cask 'dafont-necro-monger' do
     url 'http://dl.dafont.com/dl/?f=necro_monger'
     name 'Necro Monger'
     homepage 'http://www.dafont.com/necro-monger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NecroMonger-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-savior-light-our-way' do
     url 'http://dl.dafont.com/dl/?f=savior_light_our_way'
     name 'Savior Light Our Way'
     homepage 'http://www.dafont.com/savior-light-our-way.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SAVIOR LIGHT OUR WAY.ttf'
 end

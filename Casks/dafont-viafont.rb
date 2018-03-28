@@ -5,7 +5,6 @@ cask 'dafont-viafont' do
     url 'http://dl.dafont.com/dl/?f=viafont'
     name 'Viafont'
     homepage 'http://www.dafont.com/viafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Viafont.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-anysome' do
     url 'http://dl.dafont.com/dl/?f=anysome'
     name 'Anysome'
     homepage 'http://www.dafont.com/anysome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anysome Italic.otf'
     font 'Anysome.otf'

@@ -5,7 +5,6 @@ cask 'dafont-cheddar-jack' do
     url 'http://dl.dafont.com/dl/?f=cheddar_jack'
     name 'Cheddar Jack'
     homepage 'http://www.dafont.com/cheddar-jack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cheddar jack.ttf'
 end

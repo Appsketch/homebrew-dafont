@@ -5,7 +5,6 @@ cask 'dafont-cafe-francoise' do
     url 'http://dl.dafont.com/dl/?f=cafe_francoise'
     name 'Caf&eacute; Fran&ccedil;oise'
     homepage 'http://www.dafont.com/cafe-francoise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caf Franoise.otf'
 end

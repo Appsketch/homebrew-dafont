@@ -5,7 +5,6 @@ cask 'dafont-llfaces' do
     url 'http://dl.dafont.com/dl/?f=llfaces'
     name 'LL Faces'
     homepage 'http://www.dafont.com/llfaces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLFACES2.TTF'
 end

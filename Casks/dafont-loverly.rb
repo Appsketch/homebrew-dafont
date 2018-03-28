@@ -5,7 +5,6 @@ cask 'dafont-loverly' do
     url 'http://dl.dafont.com/dl/?f=loverly'
     name 'Loverly'
     homepage 'http://www.dafont.com/loverly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LoverlyRegularDemo.ttf'
 end

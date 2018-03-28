@@ -5,7 +5,6 @@ cask 'dafont-sf-iron-gothic' do
     url 'http://dl.dafont.com/dl/?f=sf_iron_gothic'
     name 'SF Iron Gothic'
     homepage 'http://www.dafont.com/sf-iron-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Iron Gothic Bold Oblique.ttf'
     font 'SF Iron Gothic Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-i-am-seventeen' do
     url 'http://dl.dafont.com/dl/?f=i_am_seventeen'
     name 'I am Seventeen'
     homepage 'http://www.dafont.com/i-am-seventeen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I am Seventeen.ttf'
 end

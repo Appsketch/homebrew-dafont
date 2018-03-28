@@ -5,7 +5,6 @@ cask 'dafont-imprenta-gonzales' do
     url 'http://dl.dafont.com/dl/?f=imprenta_gonzales'
     name 'Imprenta Gonzales'
     homepage 'http://www.dafont.com/imprenta-gonzales.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Imprenta Gonzales.ttf'
 end

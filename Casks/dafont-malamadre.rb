@@ -5,7 +5,6 @@ cask 'dafont-malamadre' do
     url 'http://dl.dafont.com/dl/?f=malamadre'
     name 'Malamadre'
     homepage 'http://www.dafont.com/malamadre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MALAMADRE.ttf'
 end

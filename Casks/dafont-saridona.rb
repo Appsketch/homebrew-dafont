@@ -5,7 +5,6 @@ cask 'dafont-saridona' do
     url 'http://dl.dafont.com/dl/?f=saridona'
     name 'Saridona'
     homepage 'http://www.dafont.com/saridona.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Saridona_personal use.ttf'
 end

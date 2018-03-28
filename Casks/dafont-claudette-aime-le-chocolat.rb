@@ -5,7 +5,6 @@ cask 'dafont-claudette-aime-le-chocolat' do
     url 'http://dl.dafont.com/dl/?f=claudette_aime_le_chocolat'
     name 'Claudette aime le Chocolat'
     homepage 'http://www.dafont.com/claudette-aime-le-chocolat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Claudette aime le Chocolat.ttf'
 end

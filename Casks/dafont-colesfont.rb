@@ -5,7 +5,6 @@ cask 'dafont-colesfont' do
     url 'http://dl.dafont.com/dl/?f=colesfont'
     name 'ColesFont'
     homepage 'http://www.dafont.com/colesfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ColesFont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-olivetti-valentine' do
     url 'http://dl.dafont.com/dl/?f=olivetti_valentine'
     name 'Olivetti Valentine'
     homepage 'http://www.dafont.com/olivetti-valentine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Olivetti Valentine.ttf'
 end

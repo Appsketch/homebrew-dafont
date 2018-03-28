@@ -5,7 +5,6 @@ cask 'dafont-ginger-2971' do
     url 'http://dl.dafont.com/dl/?f=ginger_2971'
     name 'Ginger 2971'
     homepage 'http://www.dafont.com/ginger-2971.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GINGER.ttf'
 end

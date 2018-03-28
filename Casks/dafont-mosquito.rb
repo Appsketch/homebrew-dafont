@@ -5,7 +5,6 @@ cask 'dafont-mosquito' do
     url 'http://dl.dafont.com/dl/?f=mosquito'
     name 'Mosquito'
     homepage 'http://www.dafont.com/mosquito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mosquito.ttf'
 end

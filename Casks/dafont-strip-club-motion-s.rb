@@ -5,7 +5,6 @@ cask 'dafont-strip-club-motion-s' do
     url 'http://dl.dafont.com/dl/?f=strip_club_motion_s'
     name 'Strip Club Motion Sickness'
     homepage 'http://www.dafont.com/strip-club-motion-s.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STRICMS_.TTF'
 end

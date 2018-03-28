@@ -5,7 +5,6 @@ cask 'dafont-lucky-typewriter' do
     url 'http://dl.dafont.com/dl/?f=lucky_typewriter'
     name 'Lucky Typewriter'
     homepage 'http://www.dafont.com/lucky-typewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LUCKY TYPEWRITER.ttf'
 end

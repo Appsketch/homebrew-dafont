@@ -5,7 +5,6 @@ cask 'dafont-flower-lover' do
     url 'http://dl.dafont.com/dl/?f=flower_lover'
     name 'Flower Lover'
     homepage 'http://www.dafont.com/flower-lover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'flower lover.ttf'
 end

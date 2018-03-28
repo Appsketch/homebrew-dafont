@@ -5,7 +5,6 @@ cask 'dafont-annie-max' do
     url 'http://dl.dafont.com/dl/?f=annie_max'
     name 'Annie Max'
     homepage 'http://www.dafont.com/annie-max.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'annie Max.ttf'
 end

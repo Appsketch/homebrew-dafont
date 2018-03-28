@@ -5,7 +5,6 @@ cask 'dafont-robot-killer' do
     url 'http://dl.dafont.com/dl/?f=robot_killer'
     name 'Robot Killer'
     homepage 'http://www.dafont.com/robot-killer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Robot Killer.ttf'
 end

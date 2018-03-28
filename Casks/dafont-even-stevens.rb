@@ -5,7 +5,6 @@ cask 'dafont-even-stevens' do
     url 'http://dl.dafont.com/dl/?f=even_stevens'
     name 'Even Stevens'
     homepage 'http://www.dafont.com/even-stevens.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Even Stevens.ttf'
 end

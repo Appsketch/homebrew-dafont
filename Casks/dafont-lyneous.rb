@@ -5,7 +5,6 @@ cask 'dafont-lyneous' do
     url 'http://dl.dafont.com/dl/?f=lyneous'
     name 'Lyneous'
     homepage 'http://www.dafont.com/lyneous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lyneous.ttf'
     font 'lyneousl.ttf'

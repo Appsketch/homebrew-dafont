@@ -5,7 +5,6 @@ cask 'dafont-augmented' do
     url 'http://dl.dafont.com/dl/?f=augmented'
     name 'Augmented'
     homepage 'http://www.dafont.com/augmented.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AUGMENTE.TTF'
 end

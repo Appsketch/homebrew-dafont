@@ -5,7 +5,6 @@ cask 'dafont-seven-arts' do
     url 'http://dl.dafont.com/dl/?f=seven_arts'
     name 'Seven Arts'
     homepage 'http://www.dafont.com/seven-arts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seven Arts Icons.ttf'
 end

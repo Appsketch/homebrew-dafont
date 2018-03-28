@@ -5,7 +5,6 @@ cask 'dafont-retrocircular' do
     url 'http://dl.dafont.com/dl/?f=retrocircular'
     name 'Retrocircular'
     homepage 'http://www.dafont.com/retrocircular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Retrocircular.ttf'
 end

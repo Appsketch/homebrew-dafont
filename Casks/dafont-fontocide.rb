@@ -5,7 +5,6 @@ cask 'dafont-fontocide' do
     url 'http://dl.dafont.com/dl/?f=fontocide'
     name 'Fontocide'
     homepage 'http://www.dafont.com/fontocide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FONTOCID.TTF'
 end

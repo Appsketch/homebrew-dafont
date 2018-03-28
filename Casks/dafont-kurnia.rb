@@ -5,7 +5,6 @@ cask 'dafont-kurnia' do
     url 'http://dl.dafont.com/dl/?f=kurnia'
     name 'Kurnia'
     homepage 'http://www.dafont.com/kurnia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kurnia.ttf'
 end

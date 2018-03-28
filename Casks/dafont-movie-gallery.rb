@@ -5,7 +5,6 @@ cask 'dafont-movie-gallery' do
     url 'http://dl.dafont.com/dl/?f=movie_gallery'
     name 'Movie Gallery'
     homepage 'http://www.dafont.com/movie-gallery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'moviegallery.ttf'
 end

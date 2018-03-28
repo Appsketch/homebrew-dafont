@@ -5,7 +5,6 @@ cask 'dafont-stampink' do
     url 'http://dl.dafont.com/dl/?f=stampink'
     name 'Stamp Ink'
     homepage 'http://www.dafont.com/stampink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StampInk.ttf'
 end

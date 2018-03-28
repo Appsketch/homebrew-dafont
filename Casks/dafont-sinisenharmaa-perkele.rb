@@ -5,7 +5,6 @@ cask 'dafont-sinisenharmaa-perkele' do
     url 'http://dl.dafont.com/dl/?f=sinisenharmaa_perkele'
     name 'Sinisenharmaa Perkele'
     homepage 'http://www.dafont.com/sinisenharmaa-perkele.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sinisenharmaa Perkele.ttf'
 end

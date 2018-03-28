@@ -5,7 +5,6 @@ cask 'dafont-duped' do
     url 'http://dl.dafont.com/dl/?f=duped'
     name 'Duped'
     homepage 'http://www.dafont.com/duped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DUPERG__.TTF'
 end

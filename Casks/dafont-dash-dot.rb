@@ -5,7 +5,6 @@ cask 'dafont-dash-dot' do
     url 'http://dl.dafont.com/dl/?f=dash_dot'
     name 'Dash Dot'
     homepage 'http://www.dafont.com/dash-dot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dashdot.ttf'
 end

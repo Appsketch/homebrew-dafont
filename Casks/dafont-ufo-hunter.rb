@@ -5,7 +5,6 @@ cask 'dafont-ufo-hunter' do
     url 'http://dl.dafont.com/dl/?f=ufo_hunter'
     name 'Ufo Hunter'
     homepage 'http://www.dafont.com/ufo-hunter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ufohunter.ttf'
     font 'ufohunter3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-dead-wallace' do
     url 'http://dl.dafont.com/dl/?f=dead_wallace'
     name 'Dead Wallace'
     homepage 'http://www.dafont.com/dead-wallace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dead wallace UP.ttf'
     font 'Dead Wallace.ttf'

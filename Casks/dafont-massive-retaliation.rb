@@ -5,7 +5,6 @@ cask 'dafont-massive-retaliation' do
     url 'http://dl.dafont.com/dl/?f=massive_retaliation'
     name 'Massive Retaliation'
     homepage 'http://www.dafont.com/massive-retaliation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'massive retaliation.ttf'
 end

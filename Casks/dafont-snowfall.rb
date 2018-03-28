@@ -5,7 +5,6 @@ cask 'dafont-snowfall' do
     url 'http://dl.dafont.com/dl/?f=snowfall'
     name 'Snowfall'
     homepage 'http://www.dafont.com/snowfall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snowfall.ttf'
 end

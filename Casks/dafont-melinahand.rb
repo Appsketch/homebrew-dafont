@@ -5,7 +5,6 @@ cask 'dafont-melinahand' do
     url 'http://dl.dafont.com/dl/?f=melinahand'
     name 'Melina Hand'
     homepage 'http://www.dafont.com/melinahand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MelinaHand.ttf'
 end

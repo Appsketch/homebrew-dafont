@@ -5,7 +5,6 @@ cask 'dafont-zen-monolith' do
     url 'http://dl.dafont.com/dl/?f=zen_monolith'
     name 'Zen Monolith'
     homepage 'http://www.dafont.com/zen-monolith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zen Monolith.ttf'
 end

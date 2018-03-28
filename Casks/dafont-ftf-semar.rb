@@ -5,7 +5,6 @@ cask 'dafont-ftf-semar' do
     url 'http://dl.dafont.com/dl/?f=ftf_semar'
     name 'FTF Semar'
     homepage 'http://www.dafont.com/ftf-semar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Semar Poenakawan- - DEMO VERSION.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-when-youre-gone' do
     url 'http://dl.dafont.com/dl/?f=when_youre_gone'
     name 'When You&#039;re Gone'
     homepage 'http://www.dafont.com/when-youre-gone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'When You&#039;re Gone.ttf'
 end

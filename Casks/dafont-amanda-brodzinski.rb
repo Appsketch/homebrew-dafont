@@ -5,7 +5,6 @@ cask 'dafont-amanda-brodzinski' do
     url 'http://dl.dafont.com/dl/?f=amanda_brodzinski'
     name 'Amanda Brodzinski'
     homepage 'http://www.dafont.com/amanda-brodzinski.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amanda Brodzinski font.ttf'
 end

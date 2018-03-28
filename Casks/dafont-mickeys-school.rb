@@ -5,7 +5,6 @@ cask 'dafont-mickeys-school' do
     url 'http://dl.dafont.com/dl/?f=mickeys_school'
     name 'Mickey&#039;s School'
     homepage 'http://www.dafont.com/mickeys-school.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mickey&#039;s College.ttf'
     font 'Mickey&#039;s School.ttf'

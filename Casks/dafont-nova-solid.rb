@@ -5,7 +5,6 @@ cask 'dafont-nova-solid' do
     url 'http://dl.dafont.com/dl/?f=nova_solid'
     name 'Nova Solid'
     homepage 'http://www.dafont.com/nova-solid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOVASOLID TRIAL___.otf'
 end

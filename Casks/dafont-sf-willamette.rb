@@ -5,7 +5,6 @@ cask 'dafont-sf-willamette' do
     url 'http://dl.dafont.com/dl/?f=sf_willamette'
     name 'SF Willamette'
     homepage 'http://www.dafont.com/sf-willamette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Willamette Bold Italic.ttf'
     font 'SF Willamette Bold.ttf'

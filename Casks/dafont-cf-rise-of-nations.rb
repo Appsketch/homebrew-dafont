@@ -5,7 +5,6 @@ cask 'dafont-cf-rise-of-nations' do
     url 'http://dl.dafont.com/dl/?f=cf_rise_of_nations'
     name 'CF Rise of Nations'
     homepage 'http://www.dafont.com/cf-rise-of-nations.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFRiseofNations.ttf'
 end

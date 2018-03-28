@@ -5,7 +5,6 @@ cask 'dafont-script-of-sheep' do
     url 'http://dl.dafont.com/dl/?f=script_of_sheep'
     name 'Script of Sheep'
     homepage 'http://www.dafont.com/script-of-sheep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ScriptSheep.ttf'
 end

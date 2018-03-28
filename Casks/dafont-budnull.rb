@@ -5,7 +5,6 @@ cask 'dafont-budnull' do
     url 'http://dl.dafont.com/dl/?f=budnull'
     name 'BudNull'
     homepage 'http://www.dafont.com/budnull.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Budnm___.ttf'
 end

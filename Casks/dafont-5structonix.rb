@@ -5,7 +5,6 @@ cask 'dafont-5structonix' do
     url 'http://dl.dafont.com/dl/?f=5structonix'
     name '5 Structonix'
     homepage 'http://www.dafont.com/5structonix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5structonix.ttf'
 end

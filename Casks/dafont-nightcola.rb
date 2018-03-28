@@ -5,7 +5,6 @@ cask 'dafont-nightcola' do
     url 'http://dl.dafont.com/dl/?f=nightcola'
     name 'NightCola'
     homepage 'http://www.dafont.com/nightcola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NightCola.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sixty-four-dollar-question' do
     url 'http://dl.dafont.com/dl/?f=sixty_four_dollar_question'
     name 'Sixty Four Dollar Question'
     homepage 'http://www.dafont.com/sixty-four-dollar-question.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SixtyFourDollarQuestion.ttf'
 end

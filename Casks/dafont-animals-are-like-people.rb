@@ -5,7 +5,6 @@ cask 'dafont-animals-are-like-people' do
     url 'http://dl.dafont.com/dl/?f=animals_are_like_people'
     name 'Animals are like people'
     homepage 'http://www.dafont.com/animals-are-like-people.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Animals are like people.ttf'
 end

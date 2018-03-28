@@ -5,7 +5,6 @@ cask 'dafont-defeqto' do
     url 'http://dl.dafont.com/dl/?f=defeqto'
     name 'Defeqto'
     homepage 'http://www.dafont.com/defeqto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'defeqto.ttf'
 end

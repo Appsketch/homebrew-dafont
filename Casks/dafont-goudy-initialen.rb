@@ -5,7 +5,6 @@ cask 'dafont-goudy-initialen' do
     url 'http://dl.dafont.com/dl/?f=goudy_initialen'
     name 'Goudy Initialen'
     homepage 'http://www.dafont.com/goudy-initialen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GoudyIni.ttf'
 end

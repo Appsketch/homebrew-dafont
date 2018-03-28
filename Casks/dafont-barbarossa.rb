@@ -5,7 +5,6 @@ cask 'dafont-barbarossa' do
     url 'http://dl.dafont.com/dl/?f=barbarossa'
     name 'Barbarossa'
     homepage 'http://www.dafont.com/barbarossa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barbarossa.ttf'
 end

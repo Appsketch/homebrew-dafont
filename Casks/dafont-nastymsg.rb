@@ -5,7 +5,6 @@ cask 'dafont-nastymsg' do
     url 'http://dl.dafont.com/dl/?f=nastymsg'
     name 'Nasty MSG'
     homepage 'http://www.dafont.com/nastymsg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NastyMSG.ttf'
     font 'NastyMSG2.ttf'

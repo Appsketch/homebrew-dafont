@@ -5,7 +5,6 @@ cask 'dafont-gravestone-bats' do
     url 'http://dl.dafont.com/dl/?f=gravestone_bats'
     name 'Gravestone Bats'
     homepage 'http://www.dafont.com/gravestone-bats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRVSTNBT.TTF'
 end

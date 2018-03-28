@@ -5,7 +5,6 @@ cask 'dafont-alain-perso' do
     url 'http://dl.dafont.com/dl/?f=alain_perso'
     name 'Alain Perso'
     homepage 'http://www.dafont.com/alain-perso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alain Perso.ttf'
 end

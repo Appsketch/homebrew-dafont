@@ -5,7 +5,6 @@ cask 'dafont-timepiece' do
     url 'http://dl.dafont.com/dl/?f=timepiece'
     name 'Timepiece'
     homepage 'http://www.dafont.com/timepiece.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Timepiece.TTF'
     font 'Timepiece3dBackfill.TTF'

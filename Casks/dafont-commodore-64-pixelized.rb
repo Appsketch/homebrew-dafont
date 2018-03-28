@@ -5,7 +5,6 @@ cask 'dafont-commodore-64-pixelized' do
     url 'http://dl.dafont.com/dl/?f=commodore_64_pixelized'
     name 'Commodore 64 Pixelized'
     homepage 'http://www.dafont.com/commodore-64-pixelized.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Commodore Pixelized v1.2.ttf'
 end

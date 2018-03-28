@@ -5,7 +5,6 @@ cask 'dafont-springmarch' do
     url 'http://dl.dafont.com/dl/?f=springmarch'
     name 'Springmarch'
     homepage 'http://www.dafont.com/springmarch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Springmarch-Roman.ttf'
 end

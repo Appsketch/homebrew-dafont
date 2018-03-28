@@ -5,7 +5,6 @@ cask 'dafont-arsone' do
     url 'http://dl.dafont.com/dl/?f=arsone'
     name 'Arsone'
     homepage 'http://www.dafont.com/arsone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'arsone.ttf'
 end

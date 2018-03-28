@@ -5,7 +5,6 @@ cask 'dafont-lettergraphic' do
     url 'http://dl.dafont.com/dl/?f=lettergraphic'
     name 'Letter Graphic'
     homepage 'http://www.dafont.com/lettergraphic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LetterGraphic.ttf'
 end

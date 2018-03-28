@@ -5,7 +5,6 @@ cask 'dafont-lowerhaight' do
     url 'http://dl.dafont.com/dl/?f=lowerhaight'
     name 'Lower Haight'
     homepage 'http://www.dafont.com/lowerhaight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LowerHeight.ttf'
 end

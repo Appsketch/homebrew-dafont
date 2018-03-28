@@ -5,7 +5,6 @@ cask 'dafont-party-business' do
     url 'http://dl.dafont.com/dl/?f=party_business'
     name 'Party Business'
     homepage 'http://www.dafont.com/party-business.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'partybusiness.ttf'
 end

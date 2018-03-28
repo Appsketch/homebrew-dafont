@@ -5,7 +5,6 @@ cask 'dafont-pretz' do
     url 'http://dl.dafont.com/dl/?f=pretz'
     name 'Pretz'
     homepage 'http://www.dafont.com/pretz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PRETS___.TTF'
     font 'PRETU___.TTF'

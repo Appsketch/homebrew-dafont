@@ -5,7 +5,6 @@ cask 'dafont-ceporro' do
     url 'http://dl.dafont.com/dl/?f=ceporro'
     name 'Ceporro'
     homepage 'http://www.dafont.com/ceporro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ceporro.ttf'
 end

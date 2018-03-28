@@ -5,7 +5,6 @@ cask 'dafont-wood-sticks' do
     url 'http://dl.dafont.com/dl/?f=wood_sticks'
     name 'Wood Sticks'
     homepage 'http://www.dafont.com/wood-sticks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wood_sticks.ttf'
 end

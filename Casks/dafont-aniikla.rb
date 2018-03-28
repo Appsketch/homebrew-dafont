@@ -5,7 +5,6 @@ cask 'dafont-aniikla' do
     url 'http://dl.dafont.com/dl/?f=aniikla'
     name 'Aniikla'
     homepage 'http://www.dafont.com/aniikla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aniikla.ttf'
 end

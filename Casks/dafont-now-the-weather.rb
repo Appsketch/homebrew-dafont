@@ -5,7 +5,6 @@ cask 'dafont-now-the-weather' do
     url 'http://dl.dafont.com/dl/?f=now_the_weather'
     name 'Now the Weather'
     homepage 'http://www.dafont.com/now-the-weather.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NowTheWeather.ttf'
 end

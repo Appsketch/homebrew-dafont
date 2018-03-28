@@ -5,7 +5,6 @@ cask 'dafont-sf-groove-machine' do
     url 'http://dl.dafont.com/dl/?f=sf_groove_machine'
     name 'SF Groove Machine'
     homepage 'http://www.dafont.com/sf-groove-machine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Groove Machine Bold.ttf'
     font 'SF Groove Machine Extended Bold.ttf'

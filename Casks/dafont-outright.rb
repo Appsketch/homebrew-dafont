@@ -5,7 +5,6 @@ cask 'dafont-outright' do
     url 'http://dl.dafont.com/dl/?f=outright'
     name 'Outright'
     homepage 'http://www.dafont.com/outright.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'outright.ttf'
 end

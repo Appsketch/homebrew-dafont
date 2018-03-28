@@ -5,7 +5,6 @@ cask 'dafont-psalm71' do
     url 'http://dl.dafont.com/dl/?f=psalm71'
     name 'Psalm 71'
     homepage 'http://www.dafont.com/psalm71.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Psalm71.ttf'
 end

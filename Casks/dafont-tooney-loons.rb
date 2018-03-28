@@ -5,7 +5,6 @@ cask 'dafont-tooney-loons' do
     url 'http://dl.dafont.com/dl/?f=tooney_loons'
     name 'Tooney Loons'
     homepage 'http://www.dafont.com/tooney-loons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'toony_loons_BLD_ITL.ttf'
     font 'toony_loons_ITL.ttf'

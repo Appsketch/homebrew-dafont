@@ -5,7 +5,6 @@ cask 'dafont-enyo-slab' do
     url 'http://dl.dafont.com/dl/?f=enyo_slab'
     name 'Enyo Slab'
     homepage 'http://www.dafont.com/enyo-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Enyo-Slab_Light-Italic.otf'
     font 'Enyo-Slab_Light.otf'

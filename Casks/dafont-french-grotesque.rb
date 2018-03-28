@@ -5,7 +5,6 @@ cask 'dafont-french-grotesque' do
     url 'http://dl.dafont.com/dl/?f=french_grotesque'
     name 'French Grotesque'
     homepage 'http://www.dafont.com/french-grotesque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FRGROT.TTF'
 end

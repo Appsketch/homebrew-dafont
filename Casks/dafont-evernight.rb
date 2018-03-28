@@ -5,7 +5,6 @@ cask 'dafont-evernight' do
     url 'http://dl.dafont.com/dl/?f=evernight'
     name 'Evernight'
     homepage 'http://www.dafont.com/evernight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Evernight-Stargazer.ttf'
     font 'evernight.ttf'

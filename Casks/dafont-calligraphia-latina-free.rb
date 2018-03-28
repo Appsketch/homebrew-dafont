@@ -5,7 +5,6 @@ cask 'dafont-calligraphia-latina-free' do
     url 'http://dl.dafont.com/dl/?f=calligraphia_latina_free'
     name 'Calligraphia Latina'
     homepage 'http://www.dafont.com/calligraphia-latina-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Calligraphia Latina Free.ttf'
 end

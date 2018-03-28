@@ -5,7 +5,6 @@ cask 'dafont-washington-text' do
     url 'http://dl.dafont.com/dl/?f=washington_text'
     name 'Washington Text'
     homepage 'http://www.dafont.com/washington-text.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WashingtonText-Alternates.ttf'
     font 'WashingtonText.ttf'

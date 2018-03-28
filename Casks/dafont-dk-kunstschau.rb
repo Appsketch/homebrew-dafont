@@ -5,7 +5,6 @@ cask 'dafont-dk-kunstschau' do
     url 'http://dl.dafont.com/dl/?f=dk_kunstschau'
     name 'DK Kunstschau'
     homepage 'http://www.dafont.com/dk-kunstschau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Kunstschau.otf'
 end

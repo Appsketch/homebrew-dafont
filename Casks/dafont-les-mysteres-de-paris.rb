@@ -5,7 +5,6 @@ cask 'dafont-les-mysteres-de-paris' do
     url 'http://dl.dafont.com/dl/?f=les_mysteres_de_paris'
     name 'Les Mysteres de Paris'
     homepage 'http://www.dafont.com/les-mysteres-de-paris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Les Mysteres de Paris.ttf'
 end

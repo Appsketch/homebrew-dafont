@@ -5,7 +5,6 @@ cask 'dafont-mixplump' do
     url 'http://dl.dafont.com/dl/?f=mixplump'
     name 'Mix Plump'
     homepage 'http://www.dafont.com/mixplump.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixPlump.ttf'
 end

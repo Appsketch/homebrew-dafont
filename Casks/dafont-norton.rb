@@ -5,7 +5,6 @@ cask 'dafont-norton' do
     url 'http://dl.dafont.com/dl/?f=norton'
     name 'Norton'
     homepage 'http://www.dafont.com/norton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NORTON__.TTF'
 end

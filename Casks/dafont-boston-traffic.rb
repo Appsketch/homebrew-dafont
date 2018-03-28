@@ -5,7 +5,6 @@ cask 'dafont-boston-traffic' do
     url 'http://dl.dafont.com/dl/?f=boston_traffic'
     name 'Boston Traffic'
     homepage 'http://www.dafont.com/boston-traffic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'boston.ttf'
 end

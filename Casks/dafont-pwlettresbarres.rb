@@ -5,7 +5,6 @@ cask 'dafont-pwlettresbarres' do
     url 'http://dl.dafont.com/dl/?f=pwlettresbarres'
     name 'PW Lettres barres'
     homepage 'http://www.dafont.com/pwlettresbarres.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWLettresbarres.ttf'
 end

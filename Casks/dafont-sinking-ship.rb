@@ -5,7 +5,6 @@ cask 'dafont-sinking-ship' do
     url 'http://dl.dafont.com/dl/?f=sinking_ship'
     name 'Sinking Ship'
     homepage 'http://www.dafont.com/sinking-ship.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sinking_ship___01.ttf'
     font 'sinking_ship_outline__02.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-letting-the-cable-sleep' do
     url 'http://dl.dafont.com/dl/?f=letting_the_cable_sleep'
     name 'Letting The Cable Sleep'
     homepage 'http://www.dafont.com/letting-the-cable-sleep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Letting the cable sleep.ttf'
 end

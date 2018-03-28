@@ -5,7 +5,6 @@ cask 'dafont-aez-camping' do
     url 'http://dl.dafont.com/dl/?f=aez_camping'
     name 'AEZ Camping'
     homepage 'http://www.dafont.com/aez-camping.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AEZcamping.ttf'
 end

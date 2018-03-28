@@ -5,7 +5,6 @@ cask 'dafont-cerebro' do
     url 'http://dl.dafont.com/dl/?f=cerebro'
     name 'Cerebro'
     homepage 'http://www.dafont.com/cerebro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caution - heavy to load/Cerebro Autodestructivo.ttf'
     font 'Cerebro.ttf'

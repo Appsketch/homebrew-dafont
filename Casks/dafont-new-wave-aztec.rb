@@ -5,7 +5,6 @@ cask 'dafont-new-wave-aztec' do
     url 'http://dl.dafont.com/dl/?f=new_wave_aztec'
     name 'New Wave Aztec'
     homepage 'http://www.dafont.com/new-wave-aztec.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New Wave Aztec.ttf'
 end

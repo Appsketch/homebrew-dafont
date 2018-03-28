@@ -5,7 +5,6 @@ cask 'dafont-hobbiton-brush-hand' do
     url 'http://dl.dafont.com/dl/?f=hobbiton_brush_hand'
     name 'Hobbiton Brush hand'
     homepage 'http://www.dafont.com/hobbiton-brush-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hobbitonbrushhand.ttf'
 end

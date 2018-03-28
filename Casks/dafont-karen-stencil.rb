@@ -5,7 +5,6 @@ cask 'dafont-karen-stencil' do
     url 'http://dl.dafont.com/dl/?f=karen_stencil'
     name 'Karen Stencil'
     homepage 'http://www.dafont.com/karen-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Karen Stencil - Dker.ttf'
 end

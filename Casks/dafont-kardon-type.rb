@@ -5,7 +5,6 @@ cask 'dafont-kardon-type' do
     url 'http://dl.dafont.com/dl/?f=kardon_type'
     name 'Kardon Type'
     homepage 'http://www.dafont.com/kardon-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KARDON  bold.otf'
     font 'KARDON  EXTRA bold.otf'

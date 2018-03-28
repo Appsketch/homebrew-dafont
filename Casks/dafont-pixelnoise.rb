@@ -5,7 +5,6 @@ cask 'dafont-pixelnoise' do
     url 'http://dl.dafont.com/dl/?f=pixelnoise'
     name 'Pixel Noise'
     homepage 'http://www.dafont.com/pixelnoise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixelNoise_erc_2007.ttf'
 end

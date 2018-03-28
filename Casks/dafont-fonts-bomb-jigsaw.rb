@@ -5,7 +5,6 @@ cask 'dafont-fonts-bomb-jigsaw' do
     url 'http://dl.dafont.com/dl/?f=fonts_bomb_jigsaw'
     name 'Fonts Bomb Jigsaw'
     homepage 'http://www.dafont.com/fonts-bomb-jigsaw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fonts Bomb JiGSAW.ttf'
 end

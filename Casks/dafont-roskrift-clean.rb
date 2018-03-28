@@ -5,7 +5,6 @@ cask 'dafont-roskrift-clean' do
     url 'http://dl.dafont.com/dl/?f=roskrift_clean'
     name 'Roskrift Clean'
     homepage 'http://www.dafont.com/roskrift-clean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Roskrift_Clean.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sprayerz' do
     url 'http://dl.dafont.com/dl/?f=sprayerz'
     name 'Sprayerz'
     homepage 'http://www.dafont.com/sprayerz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sprayerz.otf'
 end

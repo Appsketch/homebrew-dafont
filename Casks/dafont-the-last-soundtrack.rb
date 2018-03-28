@@ -5,7 +5,6 @@ cask 'dafont-the-last-soundtrack' do
     url 'http://dl.dafont.com/dl/?f=the_last_soundtrack'
     name 'The Last Soundtrack'
     homepage 'http://www.dafont.com/the-last-soundtrack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The_Last_Soundtrack.ttf'
 end

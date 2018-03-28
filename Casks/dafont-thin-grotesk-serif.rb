@@ -5,7 +5,6 @@ cask 'dafont-thin-grotesk-serif' do
     url 'http://dl.dafont.com/dl/?f=thin_grotesk_serif'
     name 'Thin Grotesk Serif'
     homepage 'http://www.dafont.com/thin-grotesk-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thin Grotesk Serif.ttf'
 end

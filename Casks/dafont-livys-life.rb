@@ -5,7 +5,6 @@ cask 'dafont-livys-life' do
     url 'http://dl.dafont.com/dl/?f=livys_life'
     name 'Livy&#039;s life'
     homepage 'http://www.dafont.com/livys-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Livy-&#039;s life.otf'
 end

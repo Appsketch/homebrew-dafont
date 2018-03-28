@@ -5,7 +5,6 @@ cask 'dafont-handful-of-nothing' do
     url 'http://dl.dafont.com/dl/?f=handful_of_nothing'
     name 'Handful of Nothing'
     homepage 'http://www.dafont.com/handful-of-nothing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Handful of Nothing.ttf'
 end

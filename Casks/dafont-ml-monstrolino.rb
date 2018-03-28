@@ -5,7 +5,6 @@ cask 'dafont-ml-monstrolino' do
     url 'http://dl.dafont.com/dl/?f=ml_monstrolino'
     name 'ML Monstrolino'
     homepage 'http://www.dafont.com/ml-monstrolino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MLmonstrolino.ttf'
 end

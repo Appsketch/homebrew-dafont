@@ -5,7 +5,6 @@ cask 'dafont-springtime-blues' do
     url 'http://dl.dafont.com/dl/?f=springtime_blues'
     name 'Springtime Blues'
     homepage 'http://www.dafont.com/springtime-blues.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Springtime Blues.ttf'
 end

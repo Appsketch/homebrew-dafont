@@ -5,7 +5,6 @@ cask 'dafont-iokharic' do
     url 'http://dl.dafont.com/dl/?f=iokharic'
     name 'Iokharic'
     homepage 'http://www.dafont.com/iokharic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iokharic Bold Italic.otf'
     font 'Iokharic Bold.otf'

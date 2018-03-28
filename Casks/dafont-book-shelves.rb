@@ -5,7 +5,6 @@ cask 'dafont-book-shelves' do
     url 'http://dl.dafont.com/dl/?f=book_shelves'
     name 'Book Shelves'
     homepage 'http://www.dafont.com/book-shelves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOOK SHELVES.ttf'
 end

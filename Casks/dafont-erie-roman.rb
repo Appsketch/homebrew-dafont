@@ -5,7 +5,6 @@ cask 'dafont-erie-roman' do
     url 'http://dl.dafont.com/dl/?f=erie_roman'
     name 'Erie Roman'
     homepage 'http://www.dafont.com/erie-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Erie Roman.ttf'
 end

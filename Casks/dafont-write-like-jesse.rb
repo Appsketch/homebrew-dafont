@@ -5,7 +5,6 @@ cask 'dafont-write-like-jesse' do
     url 'http://dl.dafont.com/dl/?f=write_like_jesse'
     name 'Write Like Jesse'
     homepage 'http://www.dafont.com/write-like-jesse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Write_Like_Jesse.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-affixed' do
     url 'http://dl.dafont.com/dl/?f=affixed'
     name 'Affixed'
     homepage 'http://www.dafont.com/affixed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'affixed.ttf'
 end

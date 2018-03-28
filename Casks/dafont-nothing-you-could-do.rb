@@ -5,7 +5,6 @@ cask 'dafont-nothing-you-could-do' do
     url 'http://dl.dafont.com/dl/?f=nothing_you_could_do'
     name 'Nothing You Could Do'
     homepage 'http://www.dafont.com/nothing-you-could-do.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NothingYouCouldDo.ttf'
     font 'NothingYouCouldDoBold.ttf'

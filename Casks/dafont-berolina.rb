@@ -5,7 +5,6 @@ cask 'dafont-berolina' do
     url 'http://dl.dafont.com/dl/?f=berolina'
     name 'Berolina'
     homepage 'http://www.dafont.com/berolina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Berolina.ttf'
 end

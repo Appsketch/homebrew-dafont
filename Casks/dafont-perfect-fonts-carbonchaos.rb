@@ -5,7 +5,6 @@ cask 'dafont-perfect-fonts-carbonchaos' do
     url 'http://dl.dafont.com/dl/?f=perfect_fonts_carbonchaos'
     name 'Perfect Fonts'
     homepage 'http://www.dafont.com/perfect-fonts-carbonchaos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Perfect_fonts_CC.ttf'
 end

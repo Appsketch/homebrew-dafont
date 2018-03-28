@@ -5,7 +5,6 @@ cask 'dafont-alincolnfont' do
     url 'http://dl.dafont.com/dl/?f=alincolnfont'
     name 'A Lincoln Font'
     homepage 'http://www.dafont.com/alincolnfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALincolnFont.ttf'
 end

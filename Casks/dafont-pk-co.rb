@@ -5,7 +5,6 @@ cask 'dafont-pk-co' do
     url 'http://dl.dafont.com/dl/?f=pk_co'
     name 'PK&amp;co'
     homepage 'http://www.dafont.com/pk-co.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PK&amp;co.ttf'
 end

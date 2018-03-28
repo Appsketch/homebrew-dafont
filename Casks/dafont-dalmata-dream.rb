@@ -5,7 +5,6 @@ cask 'dafont-dalmata-dream' do
     url 'http://dl.dafont.com/dl/?f=dalmata_dream'
     name 'Dalmata Dream'
     homepage 'http://www.dafont.com/dalmata-dream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dalmata Dream Bold Italic.ttf'
     font 'Dalmata Dream Bold.ttf'

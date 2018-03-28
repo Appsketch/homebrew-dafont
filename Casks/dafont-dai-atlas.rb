@@ -5,7 +5,6 @@ cask 'dafont-dai-atlas' do
     url 'http://dl.dafont.com/dl/?f=dai_atlas'
     name 'Dai-Atlas'
     homepage 'http://www.dafont.com/dai-atlas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dai-Atlas Bold Italic.otf'
     font 'Dai-Atlas Bold.otf'

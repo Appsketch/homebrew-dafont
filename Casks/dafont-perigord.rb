@@ -5,7 +5,6 @@ cask 'dafont-perigord' do
     url 'http://dl.dafont.com/dl/?f=perigord'
     name 'Perigord'
     homepage 'http://www.dafont.com/perigord.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pe______.ttf'
 end

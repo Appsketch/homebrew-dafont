@@ -5,7 +5,6 @@ cask 'dafont-cowboy-movie' do
     url 'http://dl.dafont.com/dl/?f=cowboy_movie'
     name 'Cowboy Movie'
     homepage 'http://www.dafont.com/cowboy-movie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cowboy Movie.ttf'
 end

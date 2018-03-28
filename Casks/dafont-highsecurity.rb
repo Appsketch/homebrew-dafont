@@ -5,7 +5,6 @@ cask 'dafont-highsecurity' do
     url 'http://dl.dafont.com/dl/?f=highsecurity'
     name 'High Security'
     homepage 'http://www.dafont.com/highsecurity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighSecurityFont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-flocked2' do
     url 'http://dl.dafont.com/dl/?f=flocked2'
     name 'Flocked 2'
     homepage 'http://www.dafont.com/flocked2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flocked2.ttf'
 end

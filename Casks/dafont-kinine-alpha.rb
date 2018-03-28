@@ -5,7 +5,6 @@ cask 'dafont-kinine-alpha' do
     url 'http://dl.dafont.com/dl/?f=kinine_alpha'
     name 'Kinine Alpha'
     homepage 'http://www.dafont.com/kinine-alpha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KININE ALPHA.ttf'
 end

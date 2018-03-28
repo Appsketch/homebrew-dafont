@@ -5,7 +5,6 @@ cask 'dafont-kg-corner-of-the-sky' do
     url 'http://dl.dafont.com/dl/?f=kg_corner_of_the_sky'
     name 'KG Corner of the Sky'
     homepage 'http://www.dafont.com/kg-corner-of-the-sky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGCorneroftheSky.ttf'
 end

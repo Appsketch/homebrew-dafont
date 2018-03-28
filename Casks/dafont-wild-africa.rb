@@ -5,7 +5,6 @@ cask 'dafont-wild-africa' do
     url 'http://dl.dafont.com/dl/?f=wild_africa'
     name 'Wild Africa'
     homepage 'http://www.dafont.com/wild-africa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WILD AFRICA.ttf'
 end

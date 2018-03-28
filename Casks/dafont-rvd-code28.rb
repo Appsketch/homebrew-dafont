@@ -5,7 +5,6 @@ cask 'dafont-rvd-code28' do
     url 'http://dl.dafont.com/dl/?f=rvd_code28'
     name 'RvD Code 28'
     homepage 'http://www.dafont.com/rvd-code28.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RvD_CODE28.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-quiet-evening' do
     url 'http://dl.dafont.com/dl/?f=quiet_evening'
     name 'Quiet Evening'
     homepage 'http://www.dafont.com/quiet-evening.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quiet Evening.ttf'
 end

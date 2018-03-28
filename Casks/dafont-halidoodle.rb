@@ -5,7 +5,6 @@ cask 'dafont-halidoodle' do
     url 'http://dl.dafont.com/dl/?f=halidoodle'
     name 'Halidoodle'
     homepage 'http://www.dafont.com/halidoodle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'halidoodle.ttf'
 end

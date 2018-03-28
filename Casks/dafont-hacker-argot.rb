@@ -5,7 +5,6 @@ cask 'dafont-hacker-argot' do
     url 'http://dl.dafont.com/dl/?f=hacker_argot'
     name 'Hacker Argot'
     homepage 'http://www.dafont.com/hacker-argot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hacka___.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kingthings-xstitch' do
     url 'http://dl.dafont.com/dl/?f=kingthings_xstitch'
     name 'Kingthings Xstitch'
     homepage 'http://www.dafont.com/kingthings-xstitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Xstitch.ttf'
 end

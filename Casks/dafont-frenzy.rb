@@ -5,7 +5,6 @@ cask 'dafont-frenzy' do
     url 'http://dl.dafont.com/dl/?f=frenzy'
     name 'Frenzy'
     homepage 'http://www.dafont.com/frenzy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frenzy.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-handbrush-cre' do
     url 'http://dl.dafont.com/dl/?f=handbrush_cre'
     name 'Handbrush Cre'
     homepage 'http://www.dafont.com/handbrush-cre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'handbrush_cre.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tincushion' do
     url 'http://dl.dafont.com/dl/?f=tincushion'
     name 'Tincushion'
     homepage 'http://www.dafont.com/tincushion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tincush-0987.otf'
     font 'tincusl-0987.otf'

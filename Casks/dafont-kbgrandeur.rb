@@ -5,7 +5,6 @@ cask 'dafont-kbgrandeur' do
     url 'http://dl.dafont.com/dl/?f=kbgrandeur'
     name 'KB Grandeur'
     homepage 'http://www.dafont.com/kbgrandeur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBGrandeur.ttf'
 end

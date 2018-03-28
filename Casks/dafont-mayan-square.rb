@@ -5,7 +5,6 @@ cask 'dafont-mayan-square' do
     url 'http://dl.dafont.com/dl/?f=mayan_square'
     name 'Mayan Square'
     homepage 'http://www.dafont.com/mayan-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mayan square.ttf'
 end

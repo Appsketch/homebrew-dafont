@@ -5,7 +5,6 @@ cask 'dafont-sassys-sonne' do
     url 'http://dl.dafont.com/dl/?f=sassys_sonne'
     name 'Sassys Sonne'
     homepage 'http://www.dafont.com/sassys-sonne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SassysSonne.ttf'
 end

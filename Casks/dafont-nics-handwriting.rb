@@ -5,7 +5,6 @@ cask 'dafont-nics-handwriting' do
     url 'http://dl.dafont.com/dl/?f=nics_handwriting'
     name 'Nic&#039;s Handwriting'
     homepage 'http://www.dafont.com/nics-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Funky punky.ttf'
 end

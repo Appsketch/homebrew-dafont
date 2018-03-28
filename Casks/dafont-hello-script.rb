@@ -5,7 +5,6 @@ cask 'dafont-hello-script' do
     url 'http://dl.dafont.com/dl/?f=hello_script'
     name 'Hello Script'
     homepage 'http://www.dafont.com/hello-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HelloScript TRIAL.ttf'
 end

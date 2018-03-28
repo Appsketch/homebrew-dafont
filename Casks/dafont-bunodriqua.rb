@@ -5,7 +5,6 @@ cask 'dafont-bunodriqua' do
     url 'http://dl.dafont.com/dl/?f=bunodriqua'
     name 'Bunodriqua'
     homepage 'http://www.dafont.com/bunodriqua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bunodriqua.ttf'
 end

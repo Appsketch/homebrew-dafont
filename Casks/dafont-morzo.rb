@@ -5,7 +5,6 @@ cask 'dafont-morzo' do
     url 'http://dl.dafont.com/dl/?f=morzo'
     name 'Morzo'
     homepage 'http://www.dafont.com/morzo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Morzo.ttf'
 end

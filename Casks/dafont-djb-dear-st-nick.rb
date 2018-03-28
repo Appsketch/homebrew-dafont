@@ -5,7 +5,6 @@ cask 'dafont-djb-dear-st-nick' do
     url 'http://dl.dafont.com/dl/?f=djb_dear_st_nick'
     name 'DJB Dear St. Nick'
     homepage 'http://www.dafont.com/djb-dear-st-nick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Dear St Nick.ttf'
 end

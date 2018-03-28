@@ -5,7 +5,6 @@ cask 'dafont-metacopy' do
     url 'http://dl.dafont.com/dl/?f=metacopy'
     name 'Metacopy'
     homepage 'http://www.dafont.com/metacopy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'me______.ttf'
 end

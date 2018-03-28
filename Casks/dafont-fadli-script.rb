@@ -5,7 +5,6 @@ cask 'dafont-fadli-script' do
     url 'http://dl.dafont.com/dl/?f=fadli_script'
     name 'Fadli Script'
     homepage 'http://www.dafont.com/fadli-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fadli Script.otf'
 end

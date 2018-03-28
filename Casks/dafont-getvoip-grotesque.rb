@@ -5,7 +5,6 @@ cask 'dafont-getvoip-grotesque' do
     url 'http://dl.dafont.com/dl/?f=getvoip_grotesque'
     name 'GetVoIP Grotesque'
     homepage 'http://www.dafont.com/getvoip-grotesque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GetVoIP Grotesque Italic.ttf'
     font 'GetVoIP Grotesque.ttf'

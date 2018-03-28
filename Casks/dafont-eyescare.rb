@@ -5,7 +5,6 @@ cask 'dafont-eyescare' do
     url 'http://dl.dafont.com/dl/?f=eyescare'
     name 'Eye Scare'
     homepage 'http://www.dafont.com/eyescare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EyeScare.ttf'
 end

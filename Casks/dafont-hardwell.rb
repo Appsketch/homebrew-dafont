@@ -5,7 +5,6 @@ cask 'dafont-hardwell' do
     url 'http://dl.dafont.com/dl/?f=hardwell'
     name 'Hardwell'
     homepage 'http://www.dafont.com/hardwell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hardwell.ttf'
 end

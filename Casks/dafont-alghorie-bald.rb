@@ -5,7 +5,6 @@ cask 'dafont-alghorie-bald' do
     url 'http://dl.dafont.com/dl/?f=alghorie_bald'
     name 'Alghorie Bald'
     homepage 'http://www.dafont.com/alghorie-bald.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alghorie bald.ttf'
 end

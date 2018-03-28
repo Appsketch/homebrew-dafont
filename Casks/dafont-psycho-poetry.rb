@@ -5,7 +5,6 @@ cask 'dafont-psycho-poetry' do
     url 'http://dl.dafont.com/dl/?f=psycho_poetry'
     name 'Psycho Poetry'
     homepage 'http://www.dafont.com/psycho-poetry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PSYCHO.TTF'
 end

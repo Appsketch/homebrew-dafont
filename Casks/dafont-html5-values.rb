@@ -5,7 +5,6 @@ cask 'dafont-html5-values' do
     url 'http://dl.dafont.com/dl/?f=html5_values'
     name 'HTML5 Values'
     homepage 'http://www.dafont.com/html5-values.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'html5_values.ttf'
 end

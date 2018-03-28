@@ -5,7 +5,6 @@ cask 'dafont-female-and-male-sym' do
     url 'http://dl.dafont.com/dl/?f=female_and_male_sym'
     name 'Female and Male Symbols'
     homepage 'http://www.dafont.com/female-and-male-sym.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FMSYMB.TTF'
 end

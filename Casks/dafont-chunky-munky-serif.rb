@@ -5,7 +5,6 @@ cask 'dafont-chunky-munky-serif' do
     url 'http://dl.dafont.com/dl/?f=chunky_munky_serif'
     name 'Chunky Munky Serif'
     homepage 'http://www.dafont.com/chunky-munky-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHUNKY MUNKY SERIF.ttf'
 end

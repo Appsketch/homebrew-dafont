@@ -5,7 +5,6 @@ cask 'dafont-crown' do
     url 'http://dl.dafont.com/dl/?f=crown'
     name 'Crown'
     homepage 'http://www.dafont.com/crown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crown.ttf'
 end

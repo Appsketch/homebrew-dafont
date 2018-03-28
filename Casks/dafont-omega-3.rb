@@ -5,7 +5,6 @@ cask 'dafont-omega-3' do
     url 'http://dl.dafont.com/dl/?f=omega_3'
     name 'Omega 3'
     homepage 'http://www.dafont.com/omega-3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'omega3.ttf'
     font 'omega33d.ttf'

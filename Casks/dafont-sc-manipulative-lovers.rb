@@ -5,7 +5,6 @@ cask 'dafont-sc-manipulative-lovers' do
     url 'http://dl.dafont.com/dl/?f=sc_manipulative_lovers'
     name 'SC Manipulative Lovers'
     homepage 'http://www.dafont.com/sc-manipulative-lovers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SC Manipulative Lovers Demo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-spondulix' do
     url 'http://dl.dafont.com/dl/?f=spondulix'
     name 'Spondulix'
     homepage 'http://www.dafont.com/spondulix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spondulix.ttf'
 end

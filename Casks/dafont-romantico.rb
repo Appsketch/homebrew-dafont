@@ -5,7 +5,6 @@ cask 'dafont-romantico' do
     url 'http://dl.dafont.com/dl/?f=romantico'
     name 'Romantico'
     homepage 'http://www.dafont.com/romantico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Romabntico Kustomtype.otf'
 end

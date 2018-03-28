@@ -5,7 +5,6 @@ cask 'dafont-oedipa' do
     url 'http://dl.dafont.com/dl/?f=oedipa'
     name 'Oedipa'
     homepage 'http://www.dafont.com/oedipa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oedipa.ttf'
 end

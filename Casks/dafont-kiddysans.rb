@@ -5,7 +5,6 @@ cask 'dafont-kiddysans' do
     url 'http://dl.dafont.com/dl/?f=kiddysans'
     name 'Kiddy Sans'
     homepage 'http://www.dafont.com/kiddysans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kiddySans_bold_italic.otf'
     font 'kiddySans_bold.otf'

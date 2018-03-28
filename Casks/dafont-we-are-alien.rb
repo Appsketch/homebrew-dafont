@@ -5,7 +5,6 @@ cask 'dafont-we-are-alien' do
     url 'http://dl.dafont.com/dl/?f=we_are_alien'
     name 'We are alien !!'
     homepage 'http://www.dafont.com/we-are-alien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wearealien.ttf'
 end

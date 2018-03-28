@@ -5,7 +5,6 @@ cask 'dafont-love-is-complicated-again' do
     url 'http://dl.dafont.com/dl/?f=love_is_complicated_again'
     name 'Love Is Complicated Again'
     homepage 'http://www.dafont.com/love-is-complicated-again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Love Is Complicated Again (Bold).ttf'
     font 'Love Is Complicated Again.ttf'

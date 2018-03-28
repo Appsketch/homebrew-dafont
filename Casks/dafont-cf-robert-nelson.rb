@@ -5,7 +5,6 @@ cask 'dafont-cf-robert-nelson' do
     url 'http://dl.dafont.com/dl/?f=cf_robert_nelson'
     name 'CF Robert Nelson'
     homepage 'http://www.dafont.com/cf-robert-nelson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFRobertNelson-Regular.ttf'
 end

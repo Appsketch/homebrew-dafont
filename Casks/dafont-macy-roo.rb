@@ -5,7 +5,6 @@ cask 'dafont-macy-roo' do
     url 'http://dl.dafont.com/dl/?f=macy_roo'
     name 'Macy Roo'
     homepage 'http://www.dafont.com/macy-roo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Macy roo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pagan-winter' do
     url 'http://dl.dafont.com/dl/?f=pagan_winter'
     name 'Pagan Winter'
     homepage 'http://www.dafont.com/pagan-winter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pagan Winter.ttf'
 end

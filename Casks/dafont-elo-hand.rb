@@ -5,7 +5,6 @@ cask 'dafont-elo-hand' do
     url 'http://dl.dafont.com/dl/?f=elo_hand'
     name 'Elo Hand'
     homepage 'http://www.dafont.com/elo-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elo Hand.ttf'
 end

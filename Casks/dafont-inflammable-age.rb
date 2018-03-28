@@ -5,7 +5,6 @@ cask 'dafont-inflammable-age' do
     url 'http://dl.dafont.com/dl/?f=inflammable_age'
     name 'Inflammable Age'
     homepage 'http://www.dafont.com/inflammable-age.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'inflammable age.ttf'
 end

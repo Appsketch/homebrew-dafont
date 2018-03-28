@@ -5,7 +5,6 @@ cask 'dafont-homeboots' do
     url 'http://dl.dafont.com/dl/?f=homeboots'
     name 'Homeboots'
     homepage 'http://www.dafont.com/homeboots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'homeboots.ttf'
 end

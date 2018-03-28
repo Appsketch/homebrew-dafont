@@ -5,7 +5,6 @@ cask 'dafont-quater-circles' do
     url 'http://dl.dafont.com/dl/?f=quater_circles'
     name 'Quater Circles'
     homepage 'http://www.dafont.com/quater-circles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quater circles.ttf'
 end

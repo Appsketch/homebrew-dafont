@@ -5,7 +5,6 @@ cask 'dafont-flesh-wound' do
     url 'http://dl.dafont.com/dl/?f=flesh_wound'
     name 'Flesh Wound'
     homepage 'http://www.dafont.com/flesh-wound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flesh Wound.ttf'
 end

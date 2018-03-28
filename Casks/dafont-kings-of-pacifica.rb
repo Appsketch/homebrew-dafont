@@ -5,7 +5,6 @@ cask 'dafont-kings-of-pacifica' do
     url 'http://dl.dafont.com/dl/?f=kings_of_pacifica'
     name 'Kings of Pacifica'
     homepage 'http://www.dafont.com/kings-of-pacifica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KingsOfPacifica.ttf'
 end

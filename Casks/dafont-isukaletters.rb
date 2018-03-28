@@ -5,7 +5,6 @@ cask 'dafont-isukaletters' do
     url 'http://dl.dafont.com/dl/?f=isukaletters'
     name 'Isuka Letters'
     homepage 'http://www.dafont.com/isukaletters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IsukaLetters.ttf'
 end

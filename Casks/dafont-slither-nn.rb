@@ -5,7 +5,6 @@ cask 'dafont-slither-nn' do
     url 'http://dl.dafont.com/dl/?f=slither_nn'
     name 'Slither NN'
     homepage 'http://www.dafont.com/slither-nn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SlitherNN.otf'
 end

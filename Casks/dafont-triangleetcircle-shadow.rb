@@ -5,7 +5,6 @@ cask 'dafont-triangleetcircle-shadow' do
     url 'http://dl.dafont.com/dl/?f=triangleetcircle_shadow'
     name 'TriangleETcircle Shadow'
     homepage 'http://www.dafont.com/triangleetcircle-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TriangleETcircle Shadow.otf'
     font 'TriangleETcircle Shadowed.otf'

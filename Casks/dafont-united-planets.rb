@@ -5,7 +5,6 @@ cask 'dafont-united-planets' do
     url 'http://dl.dafont.com/dl/?f=united_planets'
     name 'United Planets'
     homepage 'http://www.dafont.com/united-planets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'unitedplanets.ttf'
     font 'unitedplanets3d.ttf'

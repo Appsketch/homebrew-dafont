@@ -5,7 +5,6 @@ cask 'dafont-forbidden-land' do
     url 'http://dl.dafont.com/dl/?f=forbidden_land'
     name 'Forbidden Land'
     homepage 'http://www.dafont.com/forbidden-land.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Forbidden Land.ttf'
 end

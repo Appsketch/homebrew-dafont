@@ -5,7 +5,6 @@ cask 'dafont-jerusalem' do
     url 'http://dl.dafont.com/dl/?f=jerusalem'
     name 'Jerusalem'
     homepage 'http://www.dafont.com/jerusalem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jeruf.ttf'
     font 'Jerufb.ttf'

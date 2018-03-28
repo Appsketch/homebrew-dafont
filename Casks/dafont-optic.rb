@@ -5,7 +5,6 @@ cask 'dafont-optic' do
     url 'http://dl.dafont.com/dl/?f=optic'
     name 'OpTic'
     homepage 'http://www.dafont.com/optic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OpTic Condensed Italic.ttf'
     font 'OpTic Condensed.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-danish-bricks' do
     url 'http://dl.dafont.com/dl/?f=danish_bricks'
     name 'Danish Bricks'
     homepage 'http://www.dafont.com/danish-bricks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DANISH_BRICKS.ttf'
 end

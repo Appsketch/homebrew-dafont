@@ -5,7 +5,6 @@ cask 'dafont-smoke-screen' do
     url 'http://dl.dafont.com/dl/?f=smoke_screen'
     name 'Smoke Screen'
     homepage 'http://www.dafont.com/smoke-screen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smoke-Screen.ttf'
     font 'Smoke-ScreenObl.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-sundown-sunrise' do
     url 'http://dl.dafont.com/dl/?f=sundown_sunrise'
     name 'Sundown Sunrise'
     homepage 'http://www.dafont.com/sundown-sunrise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUNDOWN sunrise.ttf'
 end

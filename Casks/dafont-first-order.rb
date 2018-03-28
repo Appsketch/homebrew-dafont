@@ -5,7 +5,6 @@ cask 'dafont-first-order' do
     url 'http://dl.dafont.com/dl/?f=first_order'
     name 'First Order'
     homepage 'http://www.dafont.com/first-order.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'firstv2.ttf'
     font 'firstv2c.ttf'

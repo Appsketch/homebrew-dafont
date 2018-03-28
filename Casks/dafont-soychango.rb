@@ -5,7 +5,6 @@ cask 'dafont-soychango' do
     url 'http://dl.dafont.com/dl/?f=soychango'
     name 'Soychango'
     homepage 'http://www.dafont.com/soychango.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'soychango.ttf'
 end

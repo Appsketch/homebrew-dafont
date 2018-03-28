@@ -5,7 +5,6 @@ cask 'dafont-advanced-pixel-lcd-7' do
     url 'http://dl.dafont.com/dl/?f=advanced_pixel_lcd_7'
     name 'Advanced Pixel LCD-7'
     homepage 'http://www.dafont.com/advanced-pixel-lcd-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'advanced_pixel_lcd-7.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lucky-ape' do
     url 'http://dl.dafont.com/dl/?f=lucky_ape'
     name 'Lucky Ape'
     homepage 'http://www.dafont.com/lucky-ape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lucky ape.ttf'
 end

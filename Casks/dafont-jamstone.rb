@@ -5,7 +5,6 @@ cask 'dafont-jamstone' do
     url 'http://dl.dafont.com/dl/?f=jamstone'
     name 'Jamstone'
     homepage 'http://www.dafont.com/jamstone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jamstone.ttf'
 end

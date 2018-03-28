@@ -5,7 +5,6 @@ cask 'dafont-gutenbergs-ghostype' do
     url 'http://dl.dafont.com/dl/?f=gutenbergs_ghostype'
     name 'Gutenbergs Ghostype'
     homepage 'http://www.dafont.com/gutenbergs-ghostype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GUTEG___.TTF'
 end

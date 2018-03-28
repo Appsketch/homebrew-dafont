@@ -5,7 +5,6 @@ cask 'dafont-re-donk-u-less' do
     url 'http://dl.dafont.com/dl/?f=re_donk_u_less'
     name 'Re-Donk-U-Less'
     homepage 'http://www.dafont.com/re-donk-u-less.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Re-Donk-U-Less.ttf'
 end

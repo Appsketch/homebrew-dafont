@@ -5,7 +5,6 @@ cask 'dafont-cf-expedition' do
     url 'http://dl.dafont.com/dl/?f=cf_expedition'
     name 'CF Expedition'
     homepage 'http://www.dafont.com/cf-expedition.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFExpedition-Regular.ttf'
 end

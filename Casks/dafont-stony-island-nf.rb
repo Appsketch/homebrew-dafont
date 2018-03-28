@@ -5,7 +5,6 @@ cask 'dafont-stony-island-nf' do
     url 'http://dl.dafont.com/dl/?f=stony_island_nf'
     name 'Stony Island NF'
     homepage 'http://www.dafont.com/stony-island-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STONIN__.TTF'
 end

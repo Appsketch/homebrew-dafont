@@ -5,7 +5,6 @@ cask 'dafont-9sqgrd' do
     url 'http://dl.dafont.com/dl/?f=9sqgrd'
     name '9sqgrd'
     homepage 'http://www.dafont.com/9sqgrd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '9SQGRG__.TTF'
 end

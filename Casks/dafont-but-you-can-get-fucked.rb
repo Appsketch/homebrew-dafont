@@ -5,7 +5,6 @@ cask 'dafont-but-you-can-get-fucked' do
     url 'http://dl.dafont.com/dl/?f=but_you_can_get_fucked'
     name 'But you can get fucked'
     homepage 'http://www.dafont.com/but-you-can-get-fucked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'But you can get fucked.ttf'
 end

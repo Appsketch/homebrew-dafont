@@ -5,7 +5,6 @@ cask 'dafont-wmmusic' do
     url 'http://dl.dafont.com/dl/?f=wmmusic'
     name 'WM Music'
     homepage 'http://www.dafont.com/wmmusic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmmusic1.TTF'
     font 'wmmusic2.TTF'

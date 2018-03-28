@@ -5,7 +5,6 @@ cask 'dafont-dk-moonlight-serenade' do
     url 'http://dl.dafont.com/dl/?f=dk_moonlight_serenade'
     name 'DK Moonlight Serenade'
     homepage 'http://www.dafont.com/dk-moonlight-serenade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Moonlight Serenade.otf'
 end

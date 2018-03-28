@@ -5,7 +5,6 @@ cask 'dafont-indiferente' do
     url 'http://dl.dafont.com/dl/?f=indiferente'
     name 'Indiferente'
     homepage 'http://www.dafont.com/indiferente.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'indiferente.ttf'
 end

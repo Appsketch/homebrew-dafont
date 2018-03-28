@@ -5,7 +5,6 @@ cask 'dafont-lyrics-movement' do
     url 'http://dl.dafont.com/dl/?f=lyrics_movement'
     name 'Lyrics Movement'
     homepage 'http://www.dafont.com/lyrics-movement.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LyricsMovement.ttf'
 end

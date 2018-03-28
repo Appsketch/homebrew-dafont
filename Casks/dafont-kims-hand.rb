@@ -5,7 +5,6 @@ cask 'dafont-kims-hand' do
     url 'http://dl.dafont.com/dl/?f=kims_hand'
     name 'Kims Hand'
     homepage 'http://www.dafont.com/kims-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'khand.ttf'
     font 'khandb.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-webpress' do
     url 'http://dl.dafont.com/dl/?f=webpress'
     name 'Web Press'
     homepage 'http://www.dafont.com/webpress.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WebPress.ttf'
     font 'WebPressBold.ttf'

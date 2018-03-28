@@ -5,7 +5,6 @@ cask 'dafont-screamer' do
     url 'http://dl.dafont.com/dl/?f=screamer'
     name 'Screamer'
     homepage 'http://www.dafont.com/screamer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'screamer_demo.otf'
 end

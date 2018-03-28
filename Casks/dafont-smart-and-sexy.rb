@@ -5,7 +5,6 @@ cask 'dafont-smart-and-sexy' do
     url 'http://dl.dafont.com/dl/?f=smart_and_sexy'
     name 'Smart and Sexy'
     homepage 'http://www.dafont.com/smart-and-sexy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SMARS___.TTF'
     font 'SMARSB__.TTF'

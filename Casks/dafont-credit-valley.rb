@@ -5,7 +5,6 @@ cask 'dafont-credit-valley' do
     url 'http://dl.dafont.com/dl/?f=credit_valley'
     name 'Credit Valley'
     homepage 'http://www.dafont.com/credit-valley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'credit valley bold italic.ttf'
     font 'credit valley bold.ttf'

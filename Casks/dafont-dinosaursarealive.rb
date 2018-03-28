@@ -5,7 +5,6 @@ cask 'dafont-dinosaursarealive' do
     url 'http://dl.dafont.com/dl/?f=dinosaursarealive'
     name 'Dinosaurs Are Alive'
     homepage 'http://www.dafont.com/dinosaursarealive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DinosaursAreAlive.ttf'
 end

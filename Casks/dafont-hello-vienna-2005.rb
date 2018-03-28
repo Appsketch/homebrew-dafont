@@ -5,7 +5,6 @@ cask 'dafont-hello-vienna-2005' do
     url 'http://dl.dafont.com/dl/?f=hello_vienna_2005'
     name 'Hello Vienna 2005'
     homepage 'http://www.dafont.com/hello-vienna-2005.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HelloVienna2005.ttf'
 end

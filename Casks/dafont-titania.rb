@@ -5,7 +5,6 @@ cask 'dafont-titania' do
     url 'http://dl.dafont.com/dl/?f=titania'
     name 'Titania'
     homepage 'http://www.dafont.com/titania.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Titania-Outline.ttf'
     font 'Titania-Regular.ttf'

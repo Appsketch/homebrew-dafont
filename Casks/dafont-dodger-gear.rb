@@ -5,7 +5,6 @@ cask 'dafont-dodger-gear' do
     url 'http://dl.dafont.com/dl/?f=dodger_gear'
     name 'Dodger Gear'
     homepage 'http://www.dafont.com/dodger-gear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dodger Gear.ttf'
 end

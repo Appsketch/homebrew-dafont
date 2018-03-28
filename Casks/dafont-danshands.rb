@@ -5,7 +5,6 @@ cask 'dafont-danshands' do
     url 'http://dl.dafont.com/dl/?f=danshands'
     name 'Dans Hands'
     homepage 'http://www.dafont.com/danshands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DanHands.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-biling-mi-marathi' do
     url 'http://dl.dafont.com/dl/?f=biling_mi_marathi'
     name 'Biling Mi Marathi'
     homepage 'http://www.dafont.com/biling-mi-marathi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bilingmimarathi-Italic.ttf'
     font 'bilingmimarathi-Regular.ttf'

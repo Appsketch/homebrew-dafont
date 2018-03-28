@@ -5,7 +5,6 @@ cask 'dafont-transit-display' do
     url 'http://dl.dafont.com/dl/?f=transit_display'
     name 'Transit Display'
     homepage 'http://www.dafont.com/transit-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TransitDisplayDEMO-KCFonts.ttf'
 end

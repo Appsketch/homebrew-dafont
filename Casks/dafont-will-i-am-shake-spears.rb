@@ -5,7 +5,6 @@ cask 'dafont-will-i-am-shake-spears' do
     url 'http://dl.dafont.com/dl/?f=will_i_am_shake_spears'
     name 'Will.i.am Shake.Spears'
     homepage 'http://www.dafont.com/will-i-am-shake-spears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Will.i.am Shake.Spears.otf'
 end

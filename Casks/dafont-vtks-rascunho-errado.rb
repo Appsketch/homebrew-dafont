@@ -5,7 +5,6 @@ cask 'dafont-vtks-rascunho-errado' do
     url 'http://dl.dafont.com/dl/?f=vtks_rascunho_errado'
     name 'Vtks Rascunho  Errado'
     homepage 'http://www.dafont.com/vtks-rascunho-errado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks Rascunho  Errado.ttf'
 end

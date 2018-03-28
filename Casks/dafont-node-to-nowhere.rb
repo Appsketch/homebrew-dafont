@@ -5,7 +5,6 @@ cask 'dafont-node-to-nowhere' do
     url 'http://dl.dafont.com/dl/?f=node_to_nowhere'
     name 'Node To Nowhere'
     homepage 'http://www.dafont.com/node-to-nowhere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NodeToNowhere.otf'
 end

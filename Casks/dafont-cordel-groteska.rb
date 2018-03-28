@@ -5,7 +5,6 @@ cask 'dafont-cordel-groteska' do
     url 'http://dl.dafont.com/dl/?f=cordel_groteska'
     name 'Cordel Groteska'
     homepage 'http://www.dafont.com/cordel-groteska.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cordel Groteska Bold.ttf'
 end

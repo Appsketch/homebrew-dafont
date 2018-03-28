@@ -5,7 +5,6 @@ cask 'dafont-jersey-m54' do
     url 'http://dl.dafont.com/dl/?f=jersey_m54'
     name 'Jersey M54'
     homepage 'http://www.dafont.com/jersey-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jersey M54.ttf'
 end

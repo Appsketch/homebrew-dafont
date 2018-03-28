@@ -5,7 +5,6 @@ cask 'dafont-cf-wireframe' do
     url 'http://dl.dafont.com/dl/?f=cf_wireframe'
     name 'CF WireFrame'
     homepage 'http://www.dafont.com/cf-wireframe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFWireFrame.ttf'
 end

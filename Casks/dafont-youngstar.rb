@@ -5,7 +5,6 @@ cask 'dafont-youngstar' do
     url 'http://dl.dafont.com/dl/?f=youngstar'
     name 'YoungStar'
     homepage 'http://www.dafont.com/youngstar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'youngst.ttf'
 end

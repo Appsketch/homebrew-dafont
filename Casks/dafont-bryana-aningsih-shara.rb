@@ -5,7 +5,6 @@ cask 'dafont-bryana-aningsih-shara' do
     url 'http://dl.dafont.com/dl/?f=bryana_aningsih_shara'
     name 'Bryana Aningsih Shara'
     homepage 'http://www.dafont.com/bryana-aningsih-shara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bryana Aningsih Shara.ttf'
 end

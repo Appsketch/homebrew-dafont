@@ -5,7 +5,6 @@ cask 'dafont-old-letterpress-type' do
     url 'http://dl.dafont.com/dl/?f=old_letterpress_type'
     name 'Old Letterpress Type'
     homepage 'http://www.dafont.com/old-letterpress-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old Letterpress Type.ttf'
 end

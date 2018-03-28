@@ -5,7 +5,6 @@ cask 'dafont-whiskey-fingers' do
     url 'http://dl.dafont.com/dl/?f=whiskey_fingers'
     name 'Whiskey Fingers'
     homepage 'http://www.dafont.com/whiskey-fingers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhiskeyFingers-Regular.otf'
 end

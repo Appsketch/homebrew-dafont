@@ -5,7 +5,6 @@ cask 'dafont-lelim-pro' do
     url 'http://dl.dafont.com/dl/?f=lelim_pro'
     name 'Lelim Pro'
     homepage 'http://www.dafont.com/lelim-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lelim_200.ttf'
     font 'lelim_300.ttf'

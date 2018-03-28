@@ -5,7 +5,6 @@ cask 'dafont-vtks-blackhair' do
     url 'http://dl.dafont.com/dl/?f=vtks_blackhair'
     name 'Vtks Black Hair'
     homepage 'http://www.dafont.com/vtks-blackhair.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackHair.ttf'
 end

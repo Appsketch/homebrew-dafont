@@ -5,7 +5,6 @@ cask 'dafont-prof-jorge' do
     url 'http://dl.dafont.com/dl/?f=prof_jorge'
     name 'Prof. Jorge'
     homepage 'http://www.dafont.com/prof-jorge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Prof. Jorge.ttf'
 end

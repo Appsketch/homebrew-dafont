@@ -5,7 +5,6 @@ cask 'dafont-ruf-in-den-wind' do
     url 'http://dl.dafont.com/dl/?f=ruf_in_den_wind'
     name 'Ruf In Den Wind'
     homepage 'http://www.dafont.com/ruf-in-den-wind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ruf In Den Wind.ttf'
 end

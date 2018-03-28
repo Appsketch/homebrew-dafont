@@ -5,7 +5,6 @@ cask 'dafont-national-industry' do
     url 'http://dl.dafont.com/dl/?f=national_industry'
     name 'National Industry'
     homepage 'http://www.dafont.com/national-industry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'National Industry.ttf'
 end

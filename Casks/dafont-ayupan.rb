@@ -5,7 +5,6 @@ cask 'dafont-ayupan' do
     url 'http://dl.dafont.com/dl/?f=ayupan'
     name 'Ayupan'
     homepage 'http://www.dafont.com/ayupan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ayupan.ttf'
 end

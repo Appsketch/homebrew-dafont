@@ -5,7 +5,6 @@ cask 'dafont-frets-abc' do
     url 'http://dl.dafont.com/dl/?f=frets_abc'
     name 'Frets'
     homepage 'http://www.dafont.com/frets-abc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FRA.TTF'
     font 'FRB.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-egypt-axt' do
     url 'http://dl.dafont.com/dl/?f=egypt_axt'
     name 'Egypt Axt'
     homepage 'http://www.dafont.com/egypt-axt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Egyptaxt.ttf'
 end

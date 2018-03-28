@@ -5,7 +5,6 @@ cask 'dafont-daveyhand' do
     url 'http://dl.dafont.com/dl/?f=daveyhand'
     name 'Davey Hand'
     homepage 'http://www.dafont.com/daveyhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DaveyHand.ttf'
 end

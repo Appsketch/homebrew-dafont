@@ -5,7 +5,6 @@ cask 'dafont-the-left-handed-cursiva' do
     url 'http://dl.dafont.com/dl/?f=the_left_handed_cursiva'
     name 'The Left-Handed Cursiva'
     homepage 'http://www.dafont.com/the-left-handed-cursiva.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The_Left-Handed_-_Cursiva.ttf'
 end

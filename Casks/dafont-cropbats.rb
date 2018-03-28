@@ -5,7 +5,6 @@ cask 'dafont-cropbats' do
     url 'http://dl.dafont.com/dl/?f=cropbats'
     name 'CropBats AOE'
     homepage 'http://www.dafont.com/cropbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truetype/CropBatAOE.ttf'
 end

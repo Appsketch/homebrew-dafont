@@ -5,7 +5,6 @@ cask 'dafont-alpha-wizard' do
     url 'http://dl.dafont.com/dl/?f=alpha_wizard'
     name 'Alpha Wizard'
     homepage 'http://www.dafont.com/alpha-wizard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaWizard.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-justcole' do
     url 'http://dl.dafont.com/dl/?f=justcole'
     name 'Just Cole'
     homepage 'http://www.dafont.com/justcole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustCole.ttf'
 end

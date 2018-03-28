@@ -5,7 +5,6 @@ cask 'dafont-solidbrand' do
     url 'http://dl.dafont.com/dl/?f=solidbrand'
     name 'Solid Brand'
     homepage 'http://www.dafont.com/solidbrand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SolidBrand.ttf'
 end

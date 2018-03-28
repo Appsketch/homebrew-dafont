@@ -5,7 +5,6 @@ cask 'dafont-lobotommy' do
     url 'http://dl.dafont.com/dl/?f=lobotommy'
     name 'Lobotommy'
     homepage 'http://www.dafont.com/lobotommy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lobotommy.ttf'
     font 'lobotommy3d.ttf'

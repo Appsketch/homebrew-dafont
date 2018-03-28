@@ -5,7 +5,6 @@ cask 'dafont-federal-escort' do
     url 'http://dl.dafont.com/dl/?f=federal_escort'
     name 'Federal Escort'
     homepage 'http://www.dafont.com/federal-escort.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'federalescort.ttf'
     font 'federalescort3d.ttf'

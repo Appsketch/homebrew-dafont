@@ -5,7 +5,6 @@ cask 'dafont-bananasinpajamas' do
     url 'http://dl.dafont.com/dl/?f=bananasinpajamas'
     name 'Bananas In Pajamas'
     homepage 'http://www.dafont.com/bananasinpajamas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BananasInPajamas.ttf'
 end

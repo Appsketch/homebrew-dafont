@@ -5,7 +5,6 @@ cask 'dafont-gotcha' do
     url 'http://dl.dafont.com/dl/?f=gotcha'
     name 'Gotcha'
     homepage 'http://www.dafont.com/gotcha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gotcha.ttf'
 end

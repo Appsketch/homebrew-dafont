@@ -5,7 +5,6 @@ cask 'dafont-subatomic-tsoonami' do
     url 'http://dl.dafont.com/dl/?f=subatomic_tsoonami'
     name 'Subatomic Tsoonami'
     homepage 'http://www.dafont.com/subatomic-tsoonami.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'subatomic.tsoonami.ttf'
 end

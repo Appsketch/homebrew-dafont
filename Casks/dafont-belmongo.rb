@@ -5,7 +5,6 @@ cask 'dafont-belmongo' do
     url 'http://dl.dafont.com/dl/?f=belmongo'
     name 'Belmongo'
     homepage 'http://www.dafont.com/belmongo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Belmongo.ttf'
 end

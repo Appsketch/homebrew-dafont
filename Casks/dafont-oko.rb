@@ -5,7 +5,6 @@ cask 'dafont-oko' do
     url 'http://dl.dafont.com/dl/?f=oko'
     name 'Oko'
     homepage 'http://www.dafont.com/oko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'oko.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chopshop' do
     url 'http://dl.dafont.com/dl/?f=chopshop'
     name 'Chopshop'
     homepage 'http://www.dafont.com/chopshop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chopshop-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hobbiton' do
     url 'http://dl.dafont.com/dl/?f=hobbiton'
     name 'Hobbiton'
     homepage 'http://www.dafont.com/hobbiton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hobbiton.ttf'
 end

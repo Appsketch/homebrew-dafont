@@ -5,7 +5,6 @@ cask 'dafont-domino' do
     url 'http://dl.dafont.com/dl/?f=domino'
     name 'Domino'
     homepage 'http://www.dafont.com/domino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dom_bred.ttf'
     font 'Dom_brk_.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-ekas-android-handwriting' do
     url 'http://dl.dafont.com/dl/?f=ekas_android_handwriting'
     name 'Eka&#039;s Android Handwriting'
     homepage 'http://www.dafont.com/ekas-android-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eka&#039;s Android Handwriting.ttf'
 end

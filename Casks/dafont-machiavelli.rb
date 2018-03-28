@@ -5,7 +5,6 @@ cask 'dafont-machiavelli' do
     url 'http://dl.dafont.com/dl/?f=machiavelli'
     name 'Machiavelli'
     homepage 'http://www.dafont.com/machiavelli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Machv2.ttf'
     font 'Machv2i.ttf'

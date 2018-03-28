@@ -5,7 +5,6 @@ cask 'dafont-kibler' do
     url 'http://dl.dafont.com/dl/?f=kibler'
     name 'Kibler'
     homepage 'http://www.dafont.com/kibler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kibler.ttf'
 end

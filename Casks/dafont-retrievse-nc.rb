@@ -5,7 +5,6 @@ cask 'dafont-retrievse-nc' do
     url 'http://dl.dafont.com/dl/?f=retrievse_nc'
     name 'Retrievse NC'
     homepage 'http://www.dafont.com/retrievse-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Retrievse NC.ttf'
 end

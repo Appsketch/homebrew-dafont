@@ -5,7 +5,6 @@ cask 'dafont-my-lucky-penny' do
     url 'http://dl.dafont.com/dl/?f=my_lucky_penny'
     name 'My Lucky Penny'
     homepage 'http://www.dafont.com/my-lucky-penny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MyLuckyPenny.ttf'
 end

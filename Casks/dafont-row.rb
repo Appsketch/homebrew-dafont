@@ -5,7 +5,6 @@ cask 'dafont-row' do
     url 'http://dl.dafont.com/dl/?f=row'
     name 'Row'
     homepage 'http://www.dafont.com/row.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'row.ttf'
 end

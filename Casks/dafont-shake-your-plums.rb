@@ -5,7 +5,6 @@ cask 'dafont-shake-your-plums' do
     url 'http://dl.dafont.com/dl/?f=shake_your_plums'
     name 'Shake Your Plums'
     homepage 'http://www.dafont.com/shake-your-plums.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shake Your Plums.otf'
 end

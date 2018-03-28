@@ -5,7 +5,6 @@ cask 'dafont-tronica' do
     url 'http://dl.dafont.com/dl/?f=tronica'
     name 'Tronica'
     homepage 'http://www.dafont.com/tronica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tronica.ttf'
 end

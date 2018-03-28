@@ -5,7 +5,6 @@ cask 'dafont-black-and-white' do
     url 'http://dl.dafont.com/dl/?f=black_and_white'
     name 'Black and White'
     homepage 'http://www.dafont.com/black-and-white.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'black-and-white.ttf'
 end

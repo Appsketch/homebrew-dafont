@@ -5,7 +5,6 @@ cask 'dafont-sf-aftershock-debri' do
     url 'http://dl.dafont.com/dl/?f=sf_aftershock_debri'
     name 'SF Aftershock Debris'
     homepage 'http://www.dafont.com/sf-aftershock-debri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Aftershock Debris Condensed Italic.ttf'
     font 'SF Aftershock Debris Condensed.ttf'

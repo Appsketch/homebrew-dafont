@@ -5,7 +5,6 @@ cask 'dafont-dopeframes' do
     url 'http://dl.dafont.com/dl/?f=dopeframes'
     name 'Dopeframes'
     homepage 'http://www.dafont.com/dopeframes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dopeframes.ttf'
 end

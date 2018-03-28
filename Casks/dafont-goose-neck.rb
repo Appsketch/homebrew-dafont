@@ -5,7 +5,6 @@ cask 'dafont-goose-neck' do
     url 'http://dl.dafont.com/dl/?f=goose_neck'
     name 'Goose Neck'
     homepage 'http://www.dafont.com/goose-neck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gooseneck.ttf'
 end

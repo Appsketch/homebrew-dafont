@@ -5,7 +5,6 @@ cask 'dafont-heavenly-rooted' do
     url 'http://dl.dafont.com/dl/?f=heavenly_rooted'
     name 'Heavenly Rooted'
     homepage 'http://www.dafont.com/heavenly-rooted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HEAVENLYROOTED.ttf'
 end

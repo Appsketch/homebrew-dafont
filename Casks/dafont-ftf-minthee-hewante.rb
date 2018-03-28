@@ -5,7 +5,6 @@ cask 'dafont-ftf-minthee-hewante' do
     url 'http://dl.dafont.com/dl/?f=ftf_minthee_hewante'
     name 'FTF Minthee Hewante'
     homepage 'http://www.dafont.com/ftf-minthee-hewante.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Minthee Hewante.TTF'
 end

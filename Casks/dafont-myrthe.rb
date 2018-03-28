@@ -5,7 +5,6 @@ cask 'dafont-myrthe' do
     url 'http://dl.dafont.com/dl/?f=myrthe'
     name 'Myrthe'
     homepage 'http://www.dafont.com/myrthe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Myrthe.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-alright-scrapbooky' do
     url 'http://dl.dafont.com/dl/?f=alright_scrapbooky'
     name 'Alright Scrapbooky'
     homepage 'http://www.dafont.com/alright-scrapbooky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alright_Scrapbooky.ttf'
 end

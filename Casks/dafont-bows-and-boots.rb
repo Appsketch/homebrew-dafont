@@ -5,7 +5,6 @@ cask 'dafont-bows-and-boots' do
     url 'http://dl.dafont.com/dl/?f=bows_and_boots'
     name 'Bows And Boots'
     homepage 'http://www.dafont.com/bows-and-boots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BowsAndBoots.ttf'
 end

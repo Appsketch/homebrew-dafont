@@ -5,7 +5,6 @@ cask 'dafont-stencil-intellecta-limited-set' do
     url 'http://dl.dafont.com/dl/?f=stencil_intellecta_limited_set'
     name 'Stencil Intellecta'
     homepage 'http://www.dafont.com/stencil-intellecta-limited-set.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stencil Intellecta Limited Set.ttf'
 end

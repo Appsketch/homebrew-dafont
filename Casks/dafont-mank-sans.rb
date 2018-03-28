@@ -5,7 +5,6 @@ cask 'dafont-mank-sans' do
     url 'http://dl.dafont.com/dl/?f=mank_sans'
     name 'Mank Sans'
     homepage 'http://www.dafont.com/mank-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MankSans-Medium.ttf'
     font 'MankSans-MediumOblique.ttf'

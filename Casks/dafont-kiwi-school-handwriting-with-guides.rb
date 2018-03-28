@@ -5,7 +5,6 @@ cask 'dafont-kiwi-school-handwriting-with-guides' do
     url 'http://dl.dafont.com/dl/?f=kiwi_school_handwriting_with_guides'
     name 'Kiwi School Handwriting with Guides'
     homepage 'http://www.dafont.com/kiwi-school-handwriting-with-guides.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kiwischoolhandwritingwithguidesregular.ttf'
 end

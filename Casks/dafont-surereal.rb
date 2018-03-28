@@ -5,7 +5,6 @@ cask 'dafont-surereal' do
     url 'http://dl.dafont.com/dl/?f=surereal'
     name 'Sure Real'
     homepage 'http://www.dafont.com/surereal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SureReal.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vrango' do
     url 'http://dl.dafont.com/dl/?f=vrango'
     name 'Vr&aring;ng&ouml;'
     homepage 'http://www.dafont.com/vrango.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vraangoe.ttf'
 end

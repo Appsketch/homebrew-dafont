@@ -5,7 +5,6 @@ cask 'dafont-minikin' do
     url 'http://dl.dafont.com/dl/?f=minikin'
     name 'Minikin'
     homepage 'http://www.dafont.com/minikin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minikin.ttf'
 end

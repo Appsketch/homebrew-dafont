@@ -5,7 +5,6 @@ cask 'dafont-snacks' do
     url 'http://dl.dafont.com/dl/?f=snacks'
     name 'Snacks'
     homepage 'http://www.dafont.com/snacks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SNACKS.ttf'
 end

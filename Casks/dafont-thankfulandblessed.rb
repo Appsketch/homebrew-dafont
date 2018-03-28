@@ -5,7 +5,6 @@ cask 'dafont-thankfulandblessed' do
     url 'http://dl.dafont.com/dl/?f=thankfulandblessed'
     name 'Thankful And Blessed'
     homepage 'http://www.dafont.com/thankfulandblessed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThankfulAndBlessed.ttf'
 end

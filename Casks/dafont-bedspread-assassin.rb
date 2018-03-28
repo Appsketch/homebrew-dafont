@@ -5,7 +5,6 @@ cask 'dafont-bedspread-assassin' do
     url 'http://dl.dafont.com/dl/?f=bedspread_assassin'
     name 'Bedspread Assassin'
     homepage 'http://www.dafont.com/bedspread-assassin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEDSA.ttf'
 end

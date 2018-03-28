@@ -5,7 +5,6 @@ cask 'dafont-night-club-seventy' do
     url 'http://dl.dafont.com/dl/?f=night_club_seventy'
     name 'Night Club Seventy'
     homepage 'http://www.dafont.com/night-club-seventy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Night Club Seventy.ttf'
 end

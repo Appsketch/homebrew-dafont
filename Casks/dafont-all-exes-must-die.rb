@@ -5,7 +5,6 @@ cask 'dafont-all-exes-must-die' do
     url 'http://dl.dafont.com/dl/?f=all_exes_must_die'
     name 'All exes must die!'
     homepage 'http://www.dafont.com/all-exes-must-die.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'all exes must die! PG it.ttf'
     font 'all exes must die! PG ital.ttf'

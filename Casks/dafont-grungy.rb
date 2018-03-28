@@ -5,7 +5,6 @@ cask 'dafont-grungy' do
     url 'http://dl.dafont.com/dl/?f=grungy'
     name 'Grungy'
     homepage 'http://www.dafont.com/grungy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grungy.ttf'
 end

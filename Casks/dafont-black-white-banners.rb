@@ -5,7 +5,6 @@ cask 'dafont-black-white-banners' do
     url 'http://dl.dafont.com/dl/?f=black_white_banners'
     name 'Black &amp; White Banners'
     homepage 'http://www.dafont.com/black-white-banners.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black &amp; White Banners.ttf'
 end

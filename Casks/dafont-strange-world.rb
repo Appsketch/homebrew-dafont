@@ -5,7 +5,6 @@ cask 'dafont-strange-world' do
     url 'http://dl.dafont.com/dl/?f=strange_world'
     name 'Strange World'
     homepage 'http://www.dafont.com/strange-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strange world.ttf'
 end

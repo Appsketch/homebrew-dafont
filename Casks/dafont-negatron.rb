@@ -5,7 +5,6 @@ cask 'dafont-negatron' do
     url 'http://dl.dafont.com/dl/?f=negatron'
     name 'Negatron'
     homepage 'http://www.dafont.com/negatron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'negatron.ttf'
 end

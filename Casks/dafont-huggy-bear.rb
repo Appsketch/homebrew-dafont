@@ -5,7 +5,6 @@ cask 'dafont-huggy-bear' do
     url 'http://dl.dafont.com/dl/?f=huggy_bear'
     name 'Huggy Bear'
     homepage 'http://www.dafont.com/huggy-bear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Huggy Bear Italic.otf'
     font 'Huggy Bear.otf'

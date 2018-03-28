@@ -5,7 +5,6 @@ cask 'dafont-minirus' do
     url 'http://dl.dafont.com/dl/?f=minirus'
     name 'Minirus'
     homepage 'http://www.dafont.com/minirus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MINIRUSS.ttf'
 end

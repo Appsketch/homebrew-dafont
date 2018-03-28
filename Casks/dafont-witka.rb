@@ -5,7 +5,6 @@ cask 'dafont-witka' do
     url 'http://dl.dafont.com/dl/?f=witka'
     name 'Witka'
     homepage 'http://www.dafont.com/witka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'witka.ttf'
 end

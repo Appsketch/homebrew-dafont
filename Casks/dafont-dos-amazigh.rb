@@ -5,7 +5,6 @@ cask 'dafont-dos-amazigh' do
     url 'http://dl.dafont.com/dl/?f=dos_amazigh'
     name 'Dos Amazigh'
     homepage 'http://www.dafont.com/dos-amazigh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOS_Amazigh-1.ttf'
 end

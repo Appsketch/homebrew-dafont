@@ -5,7 +5,6 @@ cask 'dafont-mmx2010' do
     url 'http://dl.dafont.com/dl/?f=mmx2010'
     name 'MMX2010'
     homepage 'http://www.dafont.com/mmx2010.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mmx2010.ttf'
 end

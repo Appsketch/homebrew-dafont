@@ -5,7 +5,6 @@ cask 'dafont-anchor' do
     url 'http://dl.dafont.com/dl/?f=anchor'
     name 'Anchor'
     homepage 'http://www.dafont.com/anchor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anchor.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-linkinpark-chase' do
     url 'http://dl.dafont.com/dl/?f=linkinpark_chase'
     name 'Linkin Park'
     homepage 'http://www.dafont.com/linkinpark-chase.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'linkinpark.ttf'
 end

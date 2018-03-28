@@ -5,7 +5,6 @@ cask 'dafont-heart-and-love' do
     url 'http://dl.dafont.com/dl/?f=heart_and_love'
     name 'Heart and Love'
     homepage 'http://www.dafont.com/heart-and-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'heart and love.ttf'
 end

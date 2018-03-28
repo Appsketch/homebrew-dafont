@@ -5,7 +5,6 @@ cask 'dafont-wojciech-pochrzest' do
     url 'http://dl.dafont.com/dl/?f=wojciech_pochrzest'
     name 'Wojciech Pochrzest'
     homepage 'http://www.dafont.com/wojciech-pochrzest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WojciechPochrzest.ttf'
 end

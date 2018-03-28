@@ -5,7 +5,6 @@ cask 'dafont-cigarstore' do
     url 'http://dl.dafont.com/dl/?f=cigarstore'
     name 'Cigarstore'
     homepage 'http://www.dafont.com/cigarstore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cigarstore.ttf'
 end

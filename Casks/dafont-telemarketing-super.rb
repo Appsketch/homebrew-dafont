@@ -5,7 +5,6 @@ cask 'dafont-telemarketing-super' do
     url 'http://dl.dafont.com/dl/?f=telemarketing_super'
     name 'Telemarketing Superstar'
     homepage 'http://www.dafont.com/telemarketing-super.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'telemarketing_superstar.ttf'
 end

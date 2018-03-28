@@ -5,7 +5,6 @@ cask 'dafont-sex-pistols' do
     url 'http://dl.dafont.com/dl/?f=sex_pistols'
     name 'Sex Pistols'
     homepage 'http://www.dafont.com/sex-pistols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sex_Pistols.ttf'
 end

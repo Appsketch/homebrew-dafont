@@ -5,7 +5,6 @@ cask 'dafont-sancho' do
     url 'http://dl.dafont.com/dl/?f=sancho'
     name 'Sancho'
     homepage 'http://www.dafont.com/sancho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sancho-Bold.ttf'
     font 'Sancho-Regular.ttf'

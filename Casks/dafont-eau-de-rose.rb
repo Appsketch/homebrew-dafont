@@ -5,7 +5,6 @@ cask 'dafont-eau-de-rose' do
     url 'http://dl.dafont.com/dl/?f=eau_de_rose'
     name 'Eau de rose'
     homepage 'http://www.dafont.com/eau-de-rose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eau de rose.ttf'
 end

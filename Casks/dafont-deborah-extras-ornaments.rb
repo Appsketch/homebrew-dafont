@@ -5,7 +5,6 @@ cask 'dafont-deborah-extras-ornaments' do
     url 'http://dl.dafont.com/dl/?f=deborah_extras_ornaments'
     name 'Deborah Extras Ornaments'
     homepage 'http://www.dafont.com/deborah-extras-ornaments.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deborah Extras-Ornaments.ttf'
 end

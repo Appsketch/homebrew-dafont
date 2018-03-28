@@ -5,7 +5,6 @@ cask 'dafont-vip-roman' do
     url 'http://dl.dafont.com/dl/?f=vip_roman'
     name 'VIP Roman'
     homepage 'http://www.dafont.com/vip-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VIPRoman-Regular.ttf'
 end

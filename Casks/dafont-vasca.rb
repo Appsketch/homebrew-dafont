@@ -5,7 +5,6 @@ cask 'dafont-vasca' do
     url 'http://dl.dafont.com/dl/?f=vasca'
     name 'Vasca'
     homepage 'http://www.dafont.com/vasca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vasca.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-agra-axera' do
     url 'http://dl.dafont.com/dl/?f=agra_axera'
     name 'Agra Axera'
     homepage 'http://www.dafont.com/agra-axera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'agra_axera.ttf'
 end

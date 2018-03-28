@@ -5,7 +5,6 @@ cask 'dafont-port-credit' do
     url 'http://dl.dafont.com/dl/?f=port_credit'
     name 'Port Credit'
     homepage 'http://www.dafont.com/port-credit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'portcreb.ttf'
     font 'PORTCRED.TTF'

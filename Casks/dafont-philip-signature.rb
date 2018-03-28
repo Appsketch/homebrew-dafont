@@ -5,7 +5,6 @@ cask 'dafont-philip-signature' do
     url 'http://dl.dafont.com/dl/?f=philip_signature'
     name 'Philip&#039; Signature'
     homepage 'http://www.dafont.com/philip-signature.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Philip Signature.ttf'
 end

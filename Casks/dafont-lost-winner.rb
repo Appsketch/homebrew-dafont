@@ -5,7 +5,6 @@ cask 'dafont-lost-winner' do
     url 'http://dl.dafont.com/dl/?f=lost_winner'
     name 'Lost Winner'
     homepage 'http://www.dafont.com/lost-winner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOSTW___.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-extravagant-pete' do
     url 'http://dl.dafont.com/dl/?f=extravagant_pete'
     name 'Extravagant Pete'
     homepage 'http://www.dafont.com/extravagant-pete.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExtravagantPete3.03.ttf'
 end

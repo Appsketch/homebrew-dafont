@@ -5,7 +5,6 @@ cask 'dafont-flenja' do
     url 'http://dl.dafont.com/dl/?f=flenja'
     name 'Flenja'
     homepage 'http://www.dafont.com/flenja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flenja-Regular.otf'
 end

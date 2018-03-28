@@ -5,7 +5,6 @@ cask 'dafont-d-puntillas' do
     url 'http://dl.dafont.com/dl/?f=d_puntillas'
     name 'D Puntillas'
     homepage 'http://www.dafont.com/d-puntillas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'd-puntillas-A-Lace.ttf'
     font 'd-puntillas-B-to-tiptoe.ttf'

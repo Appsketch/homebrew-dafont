@@ -5,7 +5,6 @@ cask 'dafont-k-o-activista' do
     url 'http://dl.dafont.com/dl/?f=k_o_activista'
     name 'K.O. Activista'
     homepage 'http://www.dafont.com/k-o-activista.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K.O. Activista Font.ttf'
 end

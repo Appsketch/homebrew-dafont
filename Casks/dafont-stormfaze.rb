@@ -5,7 +5,6 @@ cask 'dafont-stormfaze' do
     url 'http://dl.dafont.com/dl/?f=stormfaze'
     name 'Stormfaze'
     homepage 'http://www.dafont.com/stormfaze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stormfaze.ttf'
 end

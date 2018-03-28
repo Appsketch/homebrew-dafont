@@ -5,7 +5,6 @@ cask 'dafont-chubu08' do
     url 'http://dl.dafont.com/dl/?f=chubu08'
     name 'Chubu 08'
     homepage 'http://www.dafont.com/chubu08.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'c08n__.ttf'
 end

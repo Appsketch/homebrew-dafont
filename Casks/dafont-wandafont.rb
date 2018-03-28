@@ -5,7 +5,6 @@ cask 'dafont-wandafont' do
     url 'http://dl.dafont.com/dl/?f=wandafont'
     name 'WandaFont'
     homepage 'http://www.dafont.com/wandafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wandafont-1.ttf'
 end

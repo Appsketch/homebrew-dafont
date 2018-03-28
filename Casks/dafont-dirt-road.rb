@@ -5,7 +5,6 @@ cask 'dafont-dirt-road' do
     url 'http://dl.dafont.com/dl/?f=dirt_road'
     name 'Dirt Road'
     homepage 'http://www.dafont.com/dirt-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dirt Road.ttf'
 end

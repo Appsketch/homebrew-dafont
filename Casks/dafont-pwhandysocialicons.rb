@@ -5,7 +5,6 @@ cask 'dafont-pwhandysocialicons' do
     url 'http://dl.dafont.com/dl/?f=pwhandysocialicons'
     name 'PW Handy Social Icons'
     homepage 'http://www.dafont.com/pwhandysocialicons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWHandySocialIcons.ttf'
 end

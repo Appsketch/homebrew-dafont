@@ -5,7 +5,6 @@ cask 'dafont-dixociative' do
     url 'http://dl.dafont.com/dl/?f=dixociative'
     name 'Dixociative'
     homepage 'http://www.dafont.com/dixociative.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dixociative.ttf'
 end

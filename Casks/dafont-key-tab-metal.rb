@@ -5,7 +5,6 @@ cask 'dafont-key-tab-metal' do
     url 'http://dl.dafont.com/dl/?f=key_tab_metal'
     name 'Key Tab Metal'
     homepage 'http://www.dafont.com/key-tab-metal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KeyTabMetal.ttf'
 end

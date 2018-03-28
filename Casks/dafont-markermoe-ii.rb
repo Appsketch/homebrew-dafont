@@ -5,7 +5,6 @@ cask 'dafont-markermoe-ii' do
     url 'http://dl.dafont.com/dl/?f=markermoe_ii'
     name 'Marker Moe II'
     homepage 'http://www.dafont.com/markermoe-ii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MMOETRIAL.ttf'
 end

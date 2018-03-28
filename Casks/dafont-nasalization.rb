@@ -5,7 +5,6 @@ cask 'dafont-nasalization' do
     url 'http://dl.dafont.com/dl/?f=nasalization'
     name 'Nasalization'
     homepage 'http://www.dafont.com/nasalization.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nasalization-rg.ttf'
 end

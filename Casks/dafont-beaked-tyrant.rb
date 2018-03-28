@@ -5,7 +5,6 @@ cask 'dafont-beaked-tyrant' do
     url 'http://dl.dafont.com/dl/?f=beaked_tyrant'
     name 'Beaked Tyrant'
     homepage 'http://www.dafont.com/beaked-tyrant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeakedTyrant_PersonalUseOnly.ttf'
 end

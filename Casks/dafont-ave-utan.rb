@@ -5,7 +5,6 @@ cask 'dafont-ave-utan' do
     url 'http://dl.dafont.com/dl/?f=ave_utan'
     name 'Ave Utan'
     homepage 'http://www.dafont.com/ave-utan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AveUtan_PERSONAL_USE.ttf'
 end

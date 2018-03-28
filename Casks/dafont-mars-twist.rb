@@ -5,7 +5,6 @@ cask 'dafont-mars-twist' do
     url 'http://dl.dafont.com/dl/?f=mars_twist'
     name 'Mars&amp;Twist'
     homepage 'http://www.dafont.com/mars-twist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mars&amp;Twist.otf'
 end

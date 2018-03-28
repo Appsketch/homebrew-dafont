@@ -5,7 +5,6 @@ cask 'dafont-twobit' do
     url 'http://dl.dafont.com/dl/?f=twobit'
     name 'Twobit'
     homepage 'http://www.dafont.com/twobit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Twobit Bold Italic.otf'
     font 'Twobit Bold.otf'

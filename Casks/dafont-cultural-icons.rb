@@ -5,7 +5,6 @@ cask 'dafont-cultural-icons' do
     url 'http://dl.dafont.com/dl/?f=cultural_icons'
     name 'Cultural Icons'
     homepage 'http://www.dafont.com/cultural-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CULTI___.TTF'
 end

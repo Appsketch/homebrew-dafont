@@ -5,7 +5,6 @@ cask 'dafont-xaligraphy' do
     url 'http://dl.dafont.com/dl/?f=xaligraphy'
     name 'Xaligraphy'
     homepage 'http://www.dafont.com/xaligraphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xaligraphy Bold.ttf'
     font 'Xaligraphy BoldItalic.ttf'

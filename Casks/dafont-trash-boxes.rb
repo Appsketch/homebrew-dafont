@@ -5,7 +5,6 @@ cask 'dafont-trash-boxes' do
     url 'http://dl.dafont.com/dl/?f=trash_boxes'
     name 'Trash Boxes'
     homepage 'http://www.dafont.com/trash-boxes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trash Boxes.ttf'
 end

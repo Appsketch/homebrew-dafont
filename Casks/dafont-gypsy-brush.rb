@@ -5,7 +5,6 @@ cask 'dafont-gypsy-brush' do
     url 'http://dl.dafont.com/dl/?f=gypsy_brush'
     name 'Gypsy Brush'
     homepage 'http://www.dafont.com/gypsy-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gypsy Brush.otf'
 end

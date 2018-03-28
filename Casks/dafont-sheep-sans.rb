@@ -5,7 +5,6 @@ cask 'dafont-sheep-sans' do
     url 'http://dl.dafont.com/dl/?f=sheep_sans'
     name 'Sheep Sans'
     homepage 'http://www.dafont.com/sheep-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sheep sans.ttf'
     font 'sheepsansbold.ttf'

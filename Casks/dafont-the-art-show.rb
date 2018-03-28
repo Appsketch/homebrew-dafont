@@ -5,7 +5,6 @@ cask 'dafont-the-art-show' do
     url 'http://dl.dafont.com/dl/?f=the_art_show'
     name 'The Art Show'
     homepage 'http://www.dafont.com/the-art-show.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Art Show.ttf'
 end

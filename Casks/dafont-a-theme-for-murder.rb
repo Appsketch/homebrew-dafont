@@ -5,7 +5,6 @@ cask 'dafont-a-theme-for-murder' do
     url 'http://dl.dafont.com/dl/?f=a_theme_for_murder'
     name 'A Theme for Murder'
     homepage 'http://www.dafont.com/a-theme-for-murder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'a Theme for murder.ttf'
 end

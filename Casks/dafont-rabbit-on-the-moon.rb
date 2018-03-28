@@ -5,7 +5,6 @@ cask 'dafont-rabbit-on-the-moon' do
     url 'http://dl.dafont.com/dl/?f=rabbit_on_the_moon'
     name 'Rabbit On The Moon'
     homepage 'http://www.dafont.com/rabbit-on-the-moon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Rabbit On The Moon.otf'
 end

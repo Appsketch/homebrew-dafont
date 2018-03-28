@@ -5,7 +5,6 @@ cask 'dafont-dirty-headline' do
     url 'http://dl.dafont.com/dl/?f=dirty_headline'
     name 'Dirty Headline'
     homepage 'http://www.dafont.com/dirty-headline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dirty Headline.ttf'
 end

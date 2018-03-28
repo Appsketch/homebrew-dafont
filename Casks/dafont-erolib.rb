@@ -5,7 +5,6 @@ cask 'dafont-erolib' do
     url 'http://dl.dafont.com/dl/?f=erolib'
     name 'Erolib'
     homepage 'http://www.dafont.com/erolib.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'erolib.ttf'
 end

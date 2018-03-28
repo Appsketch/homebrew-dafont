@@ -5,7 +5,6 @@ cask 'dafont-sg03' do
     url 'http://dl.dafont.com/dl/?f=sg03'
     name 'SG03'
     homepage 'http://www.dafont.com/sg03.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SG03.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-clubz' do
     url 'http://dl.dafont.com/dl/?f=clubz'
     name 'Clubz'
     homepage 'http://www.dafont.com/clubz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'clubz.ttf'
 end

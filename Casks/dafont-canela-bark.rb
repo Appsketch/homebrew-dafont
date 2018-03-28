@@ -5,7 +5,6 @@ cask 'dafont-canela-bark' do
     url 'http://dl.dafont.com/dl/?f=canela_bark'
     name 'Canela Bark'
     homepage 'http://www.dafont.com/canela-bark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CanelaBark_PERSONAL.ttf'
     font 'CanelaBarkBold_PERSONAL.ttf'

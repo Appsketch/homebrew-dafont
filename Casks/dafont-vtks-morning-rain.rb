@@ -5,7 +5,6 @@ cask 'dafont-vtks-morning-rain' do
     url 'http://dl.dafont.com/dl/?f=vtks_morning_rain'
     name 'VTKS Morning Rain'
     homepage 'http://www.dafont.com/vtks-morning-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks morning rain 3D.ttf'
     font 'vtks morning rain BOLD.ttf'

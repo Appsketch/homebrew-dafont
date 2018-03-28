@@ -5,7 +5,6 @@ cask 'dafont-over' do
     url 'http://dl.dafont.com/dl/?f=over'
     name 'Over'
     homepage 'http://www.dafont.com/over.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Over.ttf'
 end

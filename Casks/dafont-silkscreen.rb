@@ -5,7 +5,6 @@ cask 'dafont-silkscreen' do
     url 'http://dl.dafont.com/dl/?f=silkscreen'
     name 'Silkscreen'
     homepage 'http://www.dafont.com/silkscreen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'slkscr.ttf'
     font 'slkscrb.ttf'

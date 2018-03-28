@@ -5,7 +5,6 @@ cask 'dafont-pwnoodlething' do
     url 'http://dl.dafont.com/dl/?f=pwnoodlething'
     name 'PW Noodle Thing'
     homepage 'http://www.dafont.com/pwnoodlething.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWNoodleThing.ttf'
 end

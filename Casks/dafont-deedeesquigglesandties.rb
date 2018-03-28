@@ -5,7 +5,6 @@ cask 'dafont-deedeesquigglesandties' do
     url 'http://dl.dafont.com/dl/?f=deedeesquigglesandties'
     name 'DeeDee Squiggles And Ties'
     homepage 'http://www.dafont.com/deedeesquigglesandties.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeeDeeSquigglesAndTies.ttf'
 end

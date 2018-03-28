@@ -5,7 +5,6 @@ cask 'dafont-rockless' do
     url 'http://dl.dafont.com/dl/?f=rockless'
     name 'RockLess'
     homepage 'http://www.dafont.com/rockless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RockLess.ttf'
 end

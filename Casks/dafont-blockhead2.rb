@@ -5,7 +5,6 @@ cask 'dafont-blockhead2' do
     url 'http://dl.dafont.com/dl/?f=blockhead2'
     name 'Blockhead'
     homepage 'http://www.dafont.com/blockhead2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blockhead-font-by-elling-lien.otf'
 end

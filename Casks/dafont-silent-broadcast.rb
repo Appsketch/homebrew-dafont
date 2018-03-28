@@ -5,7 +5,6 @@ cask 'dafont-silent-broadcast' do
     url 'http://dl.dafont.com/dl/?f=silent_broadcast'
     name 'Silent Broadcast'
     homepage 'http://www.dafont.com/silent-broadcast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'silent_broadcast.ttf'
 end

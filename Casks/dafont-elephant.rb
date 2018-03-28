@@ -5,7 +5,6 @@ cask 'dafont-elephant' do
     url 'http://dl.dafont.com/dl/?f=elephant'
     name 'Elephant'
     homepage 'http://www.dafont.com/elephant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ELEPHANT.ttf'
 end

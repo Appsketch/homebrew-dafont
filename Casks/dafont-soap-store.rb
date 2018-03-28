@@ -5,7 +5,6 @@ cask 'dafont-soap-store' do
     url 'http://dl.dafont.com/dl/?f=soap_store'
     name 'Soap Store'
     homepage 'http://www.dafont.com/soap-store.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SOAPS___.otf'
 end

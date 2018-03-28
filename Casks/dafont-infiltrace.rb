@@ -5,7 +5,6 @@ cask 'dafont-infiltrace' do
     url 'http://dl.dafont.com/dl/?f=infiltrace'
     name 'Infiltrace'
     homepage 'http://www.dafont.com/infiltrace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INFILTRI.TTF'
 end

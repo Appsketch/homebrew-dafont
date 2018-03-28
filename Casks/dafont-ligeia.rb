@@ -5,7 +5,6 @@ cask 'dafont-ligeia' do
     url 'http://dl.dafont.com/dl/?f=ligeia'
     name 'Ligeia'
     homepage 'http://www.dafont.com/ligeia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LIGED___.TTF'
 end

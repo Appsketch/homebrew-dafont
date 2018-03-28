@@ -5,7 +5,6 @@ cask 'dafont-overdrive-sunset' do
     url 'http://dl.dafont.com/dl/?f=overdrive_sunset'
     name 'Overdrive Sunset'
     homepage 'http://www.dafont.com/overdrive-sunset.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Overdrive Sunset.otf'
 end

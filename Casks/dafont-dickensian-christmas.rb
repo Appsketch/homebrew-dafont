@@ -5,7 +5,6 @@ cask 'dafont-dickensian-christmas' do
     url 'http://dl.dafont.com/dl/?f=dickensian_christmas'
     name 'Dickensian Christmas'
     homepage 'http://www.dafont.com/dickensian-christmas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DickensianChristmas.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dinosotype' do
     url 'http://dl.dafont.com/dl/?f=dinosotype'
     name 'DinosoType'
     homepage 'http://www.dafont.com/dinosotype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DINOSFNT.TTF'
 end

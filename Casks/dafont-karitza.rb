@@ -5,7 +5,6 @@ cask 'dafont-karitza' do
     url 'http://dl.dafont.com/dl/?f=karitza'
     name 'Karitza'
     homepage 'http://www.dafont.com/karitza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Karitza.ttf'
 end

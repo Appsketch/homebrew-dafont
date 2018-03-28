@@ -5,7 +5,6 @@ cask 'dafont-alfred-drake' do
     url 'http://dl.dafont.com/dl/?f=alfred_drake'
     name 'Alfred Drake'
     homepage 'http://www.dafont.com/alfred-drake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlfredDrake.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-komika-parch' do
     url 'http://dl.dafont.com/dl/?f=komika_parch'
     name 'Komika Parch'
     homepage 'http://www.dafont.com/komika-parch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKAP_.ttf'
 end

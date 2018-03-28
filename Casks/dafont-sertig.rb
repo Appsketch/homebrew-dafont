@@ -5,7 +5,6 @@ cask 'dafont-sertig' do
     url 'http://dl.dafont.com/dl/?f=sertig'
     name 'Sertig'
     homepage 'http://www.dafont.com/sertig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sertig.otf'
 end

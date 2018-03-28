@@ -5,7 +5,6 @@ cask 'dafont-natwooddraws' do
     url 'http://dl.dafont.com/dl/?f=natwooddraws'
     name 'Natwooddraws'
     homepage 'http://www.dafont.com/natwooddraws.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'natwooddraws-Regular.ttf'
 end

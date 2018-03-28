@@ -5,7 +5,6 @@ cask 'dafont-little-city-2000' do
     url 'http://dl.dafont.com/dl/?f=little_city_2000'
     name 'Little City 2000'
     homepage 'http://www.dafont.com/little-city-2000.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'littlecity2000.ttf'
 end

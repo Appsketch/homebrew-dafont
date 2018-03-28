@@ -5,7 +5,6 @@ cask 'dafont-nurkholis' do
     url 'http://dl.dafont.com/dl/?f=nurkholis'
     name 'Nurkholis'
     homepage 'http://www.dafont.com/nurkholis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nurkholis.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gyosho' do
     url 'http://dl.dafont.com/dl/?f=gyosho'
     name 'Gyosho'
     homepage 'http://www.dafont.com/gyosho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gyosho.ttf'
 end

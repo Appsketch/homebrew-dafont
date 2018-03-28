@@ -5,7 +5,6 @@ cask 'dafont-djb-doodl-e-doo' do
     url 'http://dl.dafont.com/dl/?f=djb_doodl_e_doo'
     name 'DJB Doodl E Doo'
     homepage 'http://www.dafont.com/djb-doodl-e-doo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB DOODL E DOO.ttf'
 end

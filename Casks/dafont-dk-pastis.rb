@@ -5,7 +5,6 @@ cask 'dafont-dk-pastis' do
     url 'http://dl.dafont.com/dl/?f=dk_pastis'
     name 'DK Pastis'
     homepage 'http://www.dafont.com/dk-pastis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Pastis.otf'
 end

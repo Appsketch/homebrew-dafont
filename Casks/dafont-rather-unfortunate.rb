@@ -5,7 +5,6 @@ cask 'dafont-rather-unfortunate' do
     url 'http://dl.dafont.com/dl/?f=rather_unfortunate'
     name 'Rather Unfortunate'
     homepage 'http://www.dafont.com/rather-unfortunate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RatherUnfortunate.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pixelanky-ce-demo' do
     url 'http://dl.dafont.com/dl/?f=pixelanky_ce_demo'
     name 'Pixelanky CE DEMO'
     homepage 'http://www.dafont.com/pixelanky-ce-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixelanky_CE_DEMO.ttf'
 end

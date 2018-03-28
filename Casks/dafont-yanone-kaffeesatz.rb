@@ -5,7 +5,6 @@ cask 'dafont-yanone-kaffeesatz' do
     url 'http://dl.dafont.com/dl/?f=yanone_kaffeesatz'
     name 'Yanone Kaffeesatz'
     homepage 'http://www.dafont.com/yanone-kaffeesatz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YanoneKaffeesatzTTF/YanoneKaffeesatz-Bold.ttf'
     font 'YanoneKaffeesatzTTF/YanoneKaffeesatz-Light.ttf'

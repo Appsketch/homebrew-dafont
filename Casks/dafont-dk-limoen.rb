@@ -5,7 +5,6 @@ cask 'dafont-dk-limoen' do
     url 'http://dl.dafont.com/dl/?f=dk_limoen'
     name 'DK Limoen'
     homepage 'http://www.dafont.com/dk-limoen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Limoen.otf'
 end

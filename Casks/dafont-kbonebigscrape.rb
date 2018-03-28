@@ -5,7 +5,6 @@ cask 'dafont-kbonebigscrape' do
     url 'http://dl.dafont.com/dl/?f=kbonebigscrape'
     name 'KB One Big Scrape'
     homepage 'http://www.dafont.com/kbonebigscrape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBOneBigScrape.ttf'
 end

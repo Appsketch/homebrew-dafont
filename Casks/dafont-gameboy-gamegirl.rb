@@ -5,7 +5,6 @@ cask 'dafont-gameboy-gamegirl' do
     url 'http://dl.dafont.com/dl/?f=gameboy_gamegirl'
     name 'Gameboy Gamegirl'
     homepage 'http://www.dafont.com/gameboy-gamegirl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GAMEG___.TTF'
 end

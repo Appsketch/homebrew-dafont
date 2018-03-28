@@ -5,7 +5,6 @@ cask 'dafont-perspectivo-tfb' do
     url 'http://dl.dafont.com/dl/?f=perspectivo_tfb'
     name 'Perspectivo TFB'
     homepage 'http://www.dafont.com/perspectivo-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Perspectivo Dis tfb.ttf'
     font 'Perspectivo tfb.ttf'

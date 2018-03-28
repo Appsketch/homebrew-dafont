@@ -5,7 +5,6 @@ cask 'dafont-i-have-been-waiting-for-you' do
     url 'http://dl.dafont.com/dl/?f=i_have_been_waiting_for_you'
     name 'I have been waiting for you'
     homepage 'http://www.dafont.com/i-have-been-waiting-for-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I have been waiting for you.ttf'
 end

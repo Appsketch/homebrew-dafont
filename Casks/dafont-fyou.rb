@@ -5,7 +5,6 @@ cask 'dafont-fyou' do
     url 'http://dl.dafont.com/dl/?f=fyou'
     name 'FYOU'
     homepage 'http://www.dafont.com/fyou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FYOU.ttf'
 end

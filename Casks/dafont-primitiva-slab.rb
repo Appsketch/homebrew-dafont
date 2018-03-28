@@ -5,7 +5,6 @@ cask 'dafont-primitiva-slab' do
     url 'http://dl.dafont.com/dl/?f=primitiva_slab'
     name 'Primitiva Slab'
     homepage 'http://www.dafont.com/primitiva-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Primitiva-light.ttf'
 end

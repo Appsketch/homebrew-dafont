@@ -5,7 +5,6 @@ cask 'dafont-riptrash' do
     url 'http://dl.dafont.com/dl/?f=riptrash'
     name 'Rip Trash'
     homepage 'http://www.dafont.com/riptrash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ripTRASH.ttf'
     font 'ripTRASHcut.ttf'

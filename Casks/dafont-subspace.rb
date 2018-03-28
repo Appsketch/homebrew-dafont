@@ -5,7 +5,6 @@ cask 'dafont-subspace' do
     url 'http://dl.dafont.com/dl/?f=subspace'
     name 'Subspace'
     homepage 'http://www.dafont.com/subspace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Subspace Bold Italic.otf'
     font 'Subspace Bold.otf'

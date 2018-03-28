@@ -5,7 +5,6 @@ cask 'dafont-the-illusion-of-the-jester' do
     url 'http://dl.dafont.com/dl/?f=the_illusion_of_the_jester'
     name 'The Illusion Of The Jester'
     homepage 'http://www.dafont.com/the-illusion-of-the-jester.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THE-ILLUSION-OF-THE-JESTER.ttf'
 end

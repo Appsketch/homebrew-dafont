@@ -5,7 +5,6 @@ cask 'dafont-gimme-your-love' do
     url 'http://dl.dafont.com/dl/?f=gimme_your_love'
     name 'Gimme Your Love'
     homepage 'http://www.dafont.com/gimme-your-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gimme Your Love.ttf'
 end

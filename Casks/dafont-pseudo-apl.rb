@@ -5,7 +5,6 @@ cask 'dafont-pseudo-apl' do
     url 'http://dl.dafont.com/dl/?f=pseudo_apl'
     name 'Pseudo APL'
     homepage 'http://www.dafont.com/pseudo-apl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAPL_.ttf'
 end

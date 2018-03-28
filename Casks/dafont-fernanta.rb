@@ -5,7 +5,6 @@ cask 'dafont-fernanta' do
     url 'http://dl.dafont.com/dl/?f=fernanta'
     name 'Fernanta'
     homepage 'http://www.dafont.com/fernanta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FERNANTA.ttf'
 end

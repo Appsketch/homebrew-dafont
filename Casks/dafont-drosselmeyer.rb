@@ -5,7 +5,6 @@ cask 'dafont-drosselmeyer' do
     url 'http://dl.dafont.com/dl/?f=drosselmeyer'
     name 'Drosselmeyer'
     homepage 'http://www.dafont.com/drosselmeyer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drossv2.ttf'
     font 'Drossv2c.ttf'

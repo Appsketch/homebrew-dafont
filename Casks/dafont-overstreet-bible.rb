@@ -5,7 +5,6 @@ cask 'dafont-overstreet-bible' do
     url 'http://dl.dafont.com/dl/?f=overstreet_bible'
     name 'Overstreet Bible'
     homepage 'http://www.dafont.com/overstreet-bible.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'overstreetbible.ttf'
     font 'overstreetbible3d.ttf'

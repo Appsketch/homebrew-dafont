@@ -5,7 +5,6 @@ cask 'dafont-burned-gothic' do
     url 'http://dl.dafont.com/dl/?f=burned_gothic'
     name 'Burned Gothic'
     homepage 'http://www.dafont.com/burned-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BGTHC_.ttf'
 end

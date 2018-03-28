@@ -5,7 +5,6 @@ cask 'dafont-alte-haas-grotesk' do
     url 'http://dl.dafont.com/dl/?f=alte_haas_grotesk'
     name 'Alte Haas Grotesk'
     homepage 'http://www.dafont.com/alte-haas-grotesk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlteHaasGroteskBold.ttf'
     font 'AlteHaasGroteskRegular.ttf'

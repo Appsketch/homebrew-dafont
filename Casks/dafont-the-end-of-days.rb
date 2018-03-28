@@ -5,7 +5,6 @@ cask 'dafont-the-end-of-days' do
     url 'http://dl.dafont.com/dl/?f=the_end_of_days'
     name 'The End Of Days'
     homepage 'http://www.dafont.com/the-end-of-days.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheEndOfDays.ttf'
 end

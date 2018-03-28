@@ -5,7 +5,6 @@ cask 'dafont-ostrich-sans-heavy' do
     url 'http://dl.dafont.com/dl/?f=ostrich_sans_heavy'
     name 'Ostrich Sans Heavy'
     homepage 'http://www.dafont.com/ostrich-sans-heavy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OstrichSans-Heavy.otf'
 end

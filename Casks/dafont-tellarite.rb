@@ -5,7 +5,6 @@ cask 'dafont-tellarite' do
     url 'http://dl.dafont.com/dl/?f=tellarite'
     name 'Tellarite'
     homepage 'http://www.dafont.com/tellarite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tellarite.otf'
 end

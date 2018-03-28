@@ -5,7 +5,6 @@ cask 'dafont-typo-round' do
     url 'http://dl.dafont.com/dl/?f=typo_round'
     name 'Typo Round'
     homepage 'http://www.dafont.com/typo-round.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typo_Round_Bold_Demo.otf'
     font 'Typo_Round_Bold_Italic_Demo.otf'

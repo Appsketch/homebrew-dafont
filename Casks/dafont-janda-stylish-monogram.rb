@@ -5,7 +5,6 @@ cask 'dafont-janda-stylish-monogram' do
     url 'http://dl.dafont.com/dl/?f=janda_stylish_monogram'
     name 'Janda Stylish Monogram'
     homepage 'http://www.dafont.com/janda-stylish-monogram.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaStylishMonogram.ttf'
 end

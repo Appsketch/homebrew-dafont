@@ -5,7 +5,6 @@ cask 'dafont-free-pixel' do
     url 'http://dl.dafont.com/dl/?f=free_pixel'
     name 'Free Pixel'
     homepage 'http://www.dafont.com/free-pixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreePixel.ttf'
 end

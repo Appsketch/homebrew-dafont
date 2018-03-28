@@ -5,7 +5,6 @@ cask 'dafont-estirada' do
     url 'http://dl.dafont.com/dl/?f=estirada'
     name 'Estirada'
     homepage 'http://www.dafont.com/estirada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'estirada.ttf'
 end

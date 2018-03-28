@@ -5,7 +5,6 @@ cask 'dafont-zeit-geisterbahn' do
     url 'http://dl.dafont.com/dl/?f=zeit_geisterbahn'
     name 'Zeit Geisterbahn'
     homepage 'http://www.dafont.com/zeit-geisterbahn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZeitGeisterbahn.ttf'
 end

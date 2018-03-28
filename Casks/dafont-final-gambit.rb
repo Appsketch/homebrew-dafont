@@ -5,7 +5,6 @@ cask 'dafont-final-gambit' do
     url 'http://dl.dafont.com/dl/?f=final_gambit'
     name 'Final Gambit'
     homepage 'http://www.dafont.com/final-gambit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Final Gambit.otf'
 end

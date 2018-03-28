@@ -5,7 +5,6 @@ cask 'dafont-amped-for-evil' do
     url 'http://dl.dafont.com/dl/?f=amped_for_evil'
     name 'Amped For Evil'
     homepage 'http://www.dafont.com/amped-for-evil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AMPEFE__.TTF'
 end

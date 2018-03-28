@@ -5,7 +5,6 @@ cask 'dafont-minneapolis' do
     url 'http://dl.dafont.com/dl/?f=minneapolis'
     name 'Minneapolis'
     homepage 'http://www.dafont.com/minneapolis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minneapolis.ttf'
 end

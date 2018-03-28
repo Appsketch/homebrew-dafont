@@ -5,7 +5,6 @@ cask 'dafont-mbats' do
     url 'http://dl.dafont.com/dl/?f=mbats'
     name 'MBats'
     homepage 'http://www.dafont.com/mbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MBats.ttf'
 end

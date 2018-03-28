@@ -5,7 +5,6 @@ cask 'dafont-iron-man-of-war-002-ncv' do
     url 'http://dl.dafont.com/dl/?f=iron_man_of_war_002_ncv'
     name 'Iron Man Of War 002 NCV'
     homepage 'http://www.dafont.com/iron-man-of-war-002-ncv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IRON MAN OF WAR 002 NCV.ttf'
 end

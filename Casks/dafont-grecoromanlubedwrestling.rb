@@ -5,7 +5,6 @@ cask 'dafont-grecoromanlubedwrestling' do
     url 'http://dl.dafont.com/dl/?f=grecoromanlubedwrestling'
     name 'Greco Roman Lubed Wrestling'
     homepage 'http://www.dafont.com/grecoromanlubedwrestling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRECOromanLubedWrestling.ttf'
 end

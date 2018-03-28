@@ -5,7 +5,6 @@ cask 'dafont-titulo' do
     url 'http://dl.dafont.com/dl/?f=titulo'
     name 'Titulo'
     homepage 'http://www.dafont.com/titulo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Titulo.ttf'
 end

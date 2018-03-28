@@ -5,7 +5,6 @@ cask 'dafont-stroke' do
     url 'http://dl.dafont.com/dl/?f=stroke'
     name 'Stroke'
     homepage 'http://www.dafont.com/stroke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stroke.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-only-fools-horses' do
     url 'http://dl.dafont.com/dl/?f=only_fools_horses'
     name 'Only Fools &amp; Horses'
     homepage 'http://www.dafont.com/only-fools-horses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ONLY FOOLS &amp; HORSES.ttf'
 end

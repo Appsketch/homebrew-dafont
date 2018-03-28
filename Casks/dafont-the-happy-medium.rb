@@ -5,7 +5,6 @@ cask 'dafont-the-happy-medium' do
     url 'http://dl.dafont.com/dl/?f=the_happy_medium'
     name 'The Happy Medium'
     homepage 'http://www.dafont.com/the-happy-medium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mesures.TTF'
 end

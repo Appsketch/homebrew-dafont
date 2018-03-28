@@ -5,7 +5,6 @@ cask 'dafont-hackney-block' do
     url 'http://dl.dafont.com/dl/?f=hackney_block'
     name 'Hackney Block'
     homepage 'http://www.dafont.com/hackney-block.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hackney Block Italic.ttf'
     font 'Hackney Block Outline Italic.ttf'

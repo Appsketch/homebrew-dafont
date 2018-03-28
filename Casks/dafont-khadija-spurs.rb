@@ -5,7 +5,6 @@ cask 'dafont-khadija-spurs' do
     url 'http://dl.dafont.com/dl/?f=khadija_spurs'
     name 'Khadija Spurs'
     homepage 'http://www.dafont.com/khadija-spurs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Khadija Spurs 1.otf'
 end

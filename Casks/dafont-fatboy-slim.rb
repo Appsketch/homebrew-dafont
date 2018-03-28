@@ -5,7 +5,6 @@ cask 'dafont-fatboy-slim' do
     url 'http://dl.dafont.com/dl/?f=fatboy_slim'
     name 'Fatboy Slim'
     homepage 'http://www.dafont.com/fatboy-slim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fbsbltc.ttf'
 end

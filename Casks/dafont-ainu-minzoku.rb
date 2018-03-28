@@ -5,7 +5,6 @@ cask 'dafont-ainu-minzoku' do
     url 'http://dl.dafont.com/dl/?f=ainu_minzoku'
     name 'Ainu Minzoku'
     homepage 'http://www.dafont.com/ainu-minzoku.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ainu Minzoku.ttf'
 end

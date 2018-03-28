@@ -5,7 +5,6 @@ cask 'dafont-spaceman' do
     url 'http://dl.dafont.com/dl/?f=spaceman'
     name 'Spaceman'
     homepage 'http://www.dafont.com/spaceman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPACEMAN.TTF'
 end

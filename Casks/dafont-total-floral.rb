@@ -5,7 +5,6 @@ cask 'dafont-total-floral' do
     url 'http://dl.dafont.com/dl/?f=total_floral'
     name 'Total Floral'
     homepage 'http://www.dafont.com/total-floral.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TotalFloral.ttf'
 end

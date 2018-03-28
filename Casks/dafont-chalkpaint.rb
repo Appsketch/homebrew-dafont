@@ -5,7 +5,6 @@ cask 'dafont-chalkpaint' do
     url 'http://dl.dafont.com/dl/?f=chalkpaint'
     name 'Chalk Paint'
     homepage 'http://www.dafont.com/chalkpaint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChalkPaint.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tieofftheends' do
     url 'http://dl.dafont.com/dl/?f=tieofftheends'
     name 'TieofftheEnds'
     homepage 'http://www.dafont.com/tieofftheends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TieofftheEnds.ttf'
 end

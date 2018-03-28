@@ -5,7 +5,6 @@ cask 'dafont-jlr-chinese-love-le' do
     url 'http://dl.dafont.com/dl/?f=jlr_chinese_love_le'
     name 'JLR Chinese Love Letters'
     homepage 'http://www.dafont.com/jlr-chinese-love-le.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JLR Chinese Love Letters.ttf'
 end

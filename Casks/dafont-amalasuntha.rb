@@ -5,7 +5,6 @@ cask 'dafont-amalasuntha' do
     url 'http://dl.dafont.com/dl/?f=amalasuntha'
     name 'Amalasuntha'
     homepage 'http://www.dafont.com/amalasuntha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amalasuntha.ttf'
 end

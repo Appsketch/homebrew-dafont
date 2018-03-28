@@ -5,7 +5,6 @@ cask 'dafont-kg-behind-these-hazel-eyes' do
     url 'http://dl.dafont.com/dl/?f=kg_behind_these_hazel_eyes'
     name 'KG Behind These Hazel Eyes'
     homepage 'http://www.dafont.com/kg-behind-these-hazel-eyes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGBehindTheseHazelEyes.ttf'
 end

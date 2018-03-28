@@ -5,7 +5,6 @@ cask 'dafont-garoa-hacker-clube' do
     url 'http://dl.dafont.com/dl/?f=garoa_hacker_clube'
     name 'Garoa Hacker Clube'
     homepage 'http://www.dafont.com/garoa-hacker-clube.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GaroaHackerClubeBold.otf'
 end

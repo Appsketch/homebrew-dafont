@@ -5,7 +5,6 @@ cask 'dafont-call-me-maybe' do
     url 'http://dl.dafont.com/dl/?f=call_me_maybe'
     name 'Call me, maybe?'
     homepage 'http://www.dafont.com/call-me-maybe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Call me maybe.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-new-york-statement' do
     url 'http://dl.dafont.com/dl/?f=new_york_statement'
     name 'New York Statement'
     homepage 'http://www.dafont.com/new-york-statement.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New York Statement.ttf'
 end

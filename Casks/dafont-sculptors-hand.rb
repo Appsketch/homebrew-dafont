@@ -5,7 +5,6 @@ cask 'dafont-sculptors-hand' do
     url 'http://dl.dafont.com/dl/?f=sculptors_hand'
     name 'Sculptors Hand'
     homepage 'http://www.dafont.com/sculptors-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SculptorsHand_Alternatives.ttf'
     font 'SculptorsHand.ttf'

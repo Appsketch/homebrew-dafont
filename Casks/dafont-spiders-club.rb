@@ -5,7 +5,6 @@ cask 'dafont-spiders-club' do
     url 'http://dl.dafont.com/dl/?f=spiders_club'
     name 'Spiders Club'
     homepage 'http://www.dafont.com/spiders-club.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpidersClub.ttf'
 end

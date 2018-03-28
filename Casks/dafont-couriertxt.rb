@@ -5,7 +5,6 @@ cask 'dafont-couriertxt' do
     url 'http://dl.dafont.com/dl/?f=couriertxt'
     name 'Couriertxt'
     homepage 'http://www.dafont.com/couriertxt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COURIERTXT.ttf'
 end

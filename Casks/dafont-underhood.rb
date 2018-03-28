@@ -5,7 +5,6 @@ cask 'dafont-underhood' do
     url 'http://dl.dafont.com/dl/?f=underhood'
     name 'Underhood'
     homepage 'http://www.dafont.com/underhood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'underhood-Regular.ttf'
 end

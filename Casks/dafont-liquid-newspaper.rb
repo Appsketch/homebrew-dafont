@@ -5,7 +5,6 @@ cask 'dafont-liquid-newspaper' do
     url 'http://dl.dafont.com/dl/?f=liquid_newspaper'
     name 'Liquid Newspaper'
     homepage 'http://www.dafont.com/liquid-newspaper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LIQUN___.TTF'
 end

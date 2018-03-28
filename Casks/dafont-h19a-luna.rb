@@ -5,7 +5,6 @@ cask 'dafont-h19a-luna' do
     url 'http://dl.dafont.com/dl/?f=h19a_luna'
     name 'H19A Luna'
     homepage 'http://www.dafont.com/h19a-luna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'H19A-Luna.otf'
 end

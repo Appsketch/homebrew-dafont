@@ -5,7 +5,6 @@ cask 'dafont-damaged-goods' do
     url 'http://dl.dafont.com/dl/?f=damaged_goods'
     name 'Damaged Goods'
     homepage 'http://www.dafont.com/damaged-goods.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'damag___.ttf'
 end

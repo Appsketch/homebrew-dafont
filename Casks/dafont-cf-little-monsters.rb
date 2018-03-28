@@ -5,7 +5,6 @@ cask 'dafont-cf-little-monsters' do
     url 'http://dl.dafont.com/dl/?f=cf_little_monsters'
     name 'CF Little Monsters'
     homepage 'http://www.dafont.com/cf-little-monsters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFLittleMonsters-Regular.ttf'
 end

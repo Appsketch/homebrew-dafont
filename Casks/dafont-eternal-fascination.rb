@@ -5,7 +5,6 @@ cask 'dafont-eternal-fascination' do
     url 'http://dl.dafont.com/dl/?f=eternal_fascination'
     name 'Eternal Fascination'
     homepage 'http://www.dafont.com/eternal-fascination.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eternal Fascination.ttf'
 end

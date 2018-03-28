@@ -5,7 +5,6 @@ cask 'dafont-quart07-by-norwegian-ink' do
     url 'http://dl.dafont.com/dl/?f=quart07_by_norwegian_ink'
     name 'Quart 07'
     homepage 'http://www.dafont.com/quart07-by-norwegian-ink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quart07.ttf'
 end

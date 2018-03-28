@@ -5,7 +5,6 @@ cask 'dafont-ffcc-echoes-of-time' do
     url 'http://dl.dafont.com/dl/?f=ffcc_echoes_of_time'
     name 'FFCC Echoes of Time'
     homepage 'http://www.dafont.com/ffcc-echoes-of-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FFCC-Echoes-of-Time.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-spiritsdotsdrinks' do
     url 'http://dl.dafont.com/dl/?f=spiritsdotsdrinks'
     name 'Spirits dots drinks'
     homepage 'http://www.dafont.com/spiritsdotsdrinks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spiritsdotsdrinks.ttf'
 end

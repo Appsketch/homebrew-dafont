@@ -5,7 +5,6 @@ cask 'dafont-indietronica' do
     url 'http://dl.dafont.com/dl/?f=indietronica'
     name 'Indietronica'
     homepage 'http://www.dafont.com/indietronica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Indietronica-Bold.otf'
     font 'Indietronica-Light.otf'

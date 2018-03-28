@@ -5,7 +5,6 @@ cask 'dafont-foliar-initials' do
     url 'http://dl.dafont.com/dl/?f=foliar_initials'
     name 'Foliar Initials'
     homepage 'http://www.dafont.com/foliar-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Foliar Initials.ttf'
 end

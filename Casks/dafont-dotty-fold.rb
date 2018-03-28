@@ -5,7 +5,6 @@ cask 'dafont-dotty-fold' do
     url 'http://dl.dafont.com/dl/?f=dotty_fold'
     name 'Dotty Fold'
     homepage 'http://www.dafont.com/dotty-fold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dotty fold.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-demon-priest' do
     url 'http://dl.dafont.com/dl/?f=demon_priest'
     name 'Demon Priest'
     homepage 'http://www.dafont.com/demon-priest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'demonpriest.ttf'
     font 'demonpriest3d.ttf'

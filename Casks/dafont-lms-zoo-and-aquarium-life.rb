@@ -5,7 +5,6 @@ cask 'dafont-lms-zoo-and-aquarium-life' do
     url 'http://dl.dafont.com/dl/?f=lms_zoo_and_aquarium_life'
     name 'LMS Zoo and Aquarium Life'
     homepage 'http://www.dafont.com/lms-zoo-and-aquarium-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LMS Zoo and Aquarium Life Ding Bat.ttf'
 end

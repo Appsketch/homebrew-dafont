@@ -5,7 +5,6 @@ cask 'dafont-98-bottles-of-beer' do
     url 'http://dl.dafont.com/dl/?f=98_bottles_of_beer'
     name '98 Bottles of Beer'
     homepage 'http://www.dafont.com/98-bottles-of-beer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '98bottles.ttf'
     font '98bottles3d.ttf'

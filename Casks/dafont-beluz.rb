@@ -5,7 +5,6 @@ cask 'dafont-beluz' do
     url 'http://dl.dafont.com/dl/?f=beluz'
     name 'Beluz'
     homepage 'http://www.dafont.com/beluz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beluz-family.ttf'
 end

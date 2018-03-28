@@ -5,7 +5,6 @@ cask 'dafont-farsi-inspired' do
     url 'http://dl.dafont.com/dl/?f=farsi_inspired'
     name 'Farsi Inspired'
     homepage 'http://www.dafont.com/farsi-inspired.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Farsi-Inspired.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-roncial' do
     url 'http://dl.dafont.com/dl/?f=roncial'
     name 'Roncial'
     homepage 'http://www.dafont.com/roncial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'roncial.ttf'
 end

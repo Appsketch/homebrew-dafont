@@ -5,7 +5,6 @@ cask 'dafont-wholespace' do
     url 'http://dl.dafont.com/dl/?f=wholespace'
     name 'Whole Space'
     homepage 'http://www.dafont.com/wholespace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WholeSpace.ttf'
 end

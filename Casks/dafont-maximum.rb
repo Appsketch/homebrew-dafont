@@ -5,7 +5,6 @@ cask 'dafont-maximum' do
     url 'http://dl.dafont.com/dl/?f=maximum'
     name 'Maximum'
     homepage 'http://www.dafont.com/maximum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maximum.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-arcoverde' do
     url 'http://dl.dafont.com/dl/?f=arcoverde'
     name 'Arcoverde'
     homepage 'http://www.dafont.com/arcoverde.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARCOVERD.TTF'
 end

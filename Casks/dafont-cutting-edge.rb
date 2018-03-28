@@ -5,7 +5,6 @@ cask 'dafont-cutting-edge' do
     url 'http://dl.dafont.com/dl/?f=cutting_edge'
     name 'Cutting Edge'
     homepage 'http://www.dafont.com/cutting-edge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cutting Edge.ttf'
 end

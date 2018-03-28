@@ -5,7 +5,6 @@ cask 'dafont-sugarcandy' do
     url 'http://dl.dafont.com/dl/?f=sugarcandy'
     name 'Sugar Candy'
     homepage 'http://www.dafont.com/sugarcandy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SugarCandy.ttf'
 end

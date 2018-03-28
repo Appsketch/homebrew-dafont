@@ -5,7 +5,6 @@ cask 'dafont-sopa-de-letras' do
     url 'http://dl.dafont.com/dl/?f=sopa_de_letras'
     name 'Sopa de letras'
     homepage 'http://www.dafont.com/sopa-de-letras.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sopadeletras-Regular.otf'
 end

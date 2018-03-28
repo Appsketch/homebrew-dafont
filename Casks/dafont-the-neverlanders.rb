@@ -5,7 +5,6 @@ cask 'dafont-the-neverlanders' do
     url 'http://dl.dafont.com/dl/?f=the_neverlanders'
     name 'The Neverlanders'
     homepage 'http://www.dafont.com/the-neverlanders.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The_Neverlanders.ttf'
 end

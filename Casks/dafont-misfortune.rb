@@ -5,7 +5,6 @@ cask 'dafont-misfortune' do
     url 'http://dl.dafont.com/dl/?f=misfortune'
     name 'Misfortune'
     homepage 'http://www.dafont.com/misfortune.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Misfortune.ttf'
 end

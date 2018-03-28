@@ -5,7 +5,6 @@ cask 'dafont-ecg-saji' do
     url 'http://dl.dafont.com/dl/?f=ecg_saji'
     name 'ECG Saji'
     homepage 'http://www.dafont.com/ecg-saji.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ECGsaji.ttf'
 end

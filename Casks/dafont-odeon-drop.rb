@@ -5,7 +5,6 @@ cask 'dafont-odeon-drop' do
     url 'http://dl.dafont.com/dl/?f=odeon_drop'
     name 'Odeon-Drop'
     homepage 'http://www.dafont.com/odeon-drop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ODEON-DROP.ttf'
 end

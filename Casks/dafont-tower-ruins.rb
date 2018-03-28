@@ -5,7 +5,6 @@ cask 'dafont-tower-ruins' do
     url 'http://dl.dafont.com/dl/?f=tower_ruins'
     name 'Tower Ruins'
     homepage 'http://www.dafont.com/tower-ruins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'towerruins.ttf'
     font 'towerruins3d2.ttf'

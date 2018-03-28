@@ -5,7 +5,6 @@ cask 'dafont-mari-david' do
     url 'http://dl.dafont.com/dl/?f=mari_david'
     name 'Mari &amp; David'
     homepage 'http://www.dafont.com/mari-david.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MARI&amp;DAVID BOLD.ttf'
     font 'MARI&amp;DAVID EXTRABOLD.ttf'

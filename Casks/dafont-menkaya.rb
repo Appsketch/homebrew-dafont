@@ -5,7 +5,6 @@ cask 'dafont-menkaya' do
     url 'http://dl.dafont.com/dl/?f=menkaya'
     name 'Menkaya'
     homepage 'http://www.dafont.com/menkaya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEnkaya.ttf'
 end

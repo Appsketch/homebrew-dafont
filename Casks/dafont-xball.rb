@@ -5,7 +5,6 @@ cask 'dafont-xball' do
     url 'http://dl.dafont.com/dl/?f=xball'
     name 'XBall'
     homepage 'http://www.dafont.com/xball.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XBall Italic.ttf'
     font 'XBall.ttf'

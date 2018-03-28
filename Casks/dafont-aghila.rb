@@ -5,7 +5,6 @@ cask 'dafont-aghila' do
     url 'http://dl.dafont.com/dl/?f=aghila'
     name 'Aghila'
     homepage 'http://www.dafont.com/aghila.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aghila.ttf'
 end

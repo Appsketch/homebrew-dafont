@@ -5,7 +5,6 @@ cask 'dafont-fada' do
     url 'http://dl.dafont.com/dl/?f=fada'
     name 'Fada'
     homepage 'http://www.dafont.com/fada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fada.ttf'
 end

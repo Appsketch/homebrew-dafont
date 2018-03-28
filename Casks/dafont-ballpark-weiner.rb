@@ -5,7 +5,6 @@ cask 'dafont-ballpark-weiner' do
     url 'http://dl.dafont.com/dl/?f=ballpark_weiner'
     name 'Ballpark Weiner'
     homepage 'http://www.dafont.com/ballpark-weiner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BALLW___.TTF'
 end

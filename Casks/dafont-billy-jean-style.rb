@@ -5,7 +5,6 @@ cask 'dafont-billy-jean-style' do
     url 'http://dl.dafont.com/dl/?f=billy_jean_style'
     name 'Billy Jean Style'
     homepage 'http://www.dafont.com/billy-jean-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Billy Jean.ttf'
 end

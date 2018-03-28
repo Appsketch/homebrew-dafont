@@ -5,7 +5,6 @@ cask 'dafont-malice' do
     url 'http://dl.dafont.com/dl/?f=malice'
     name 'Malice'
     homepage 'http://www.dafont.com/malice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Malice_2012_02_25.otf'
 end

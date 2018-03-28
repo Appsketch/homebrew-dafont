@@ -5,7 +5,6 @@ cask 'dafont-homespun' do
     url 'http://dl.dafont.com/dl/?f=homespun'
     name 'Homespun'
     homepage 'http://www.dafont.com/homespun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Homespun Small Caps.ttf'
     font 'Homespun.ttf'

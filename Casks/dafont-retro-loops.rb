@@ -5,7 +5,6 @@ cask 'dafont-retro-loops' do
     url 'http://dl.dafont.com/dl/?f=retro_loops'
     name 'Retro Loops'
     homepage 'http://www.dafont.com/retro-loops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RetroLoops.ttf'
 end

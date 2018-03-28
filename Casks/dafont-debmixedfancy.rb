@@ -5,7 +5,6 @@ cask 'dafont-debmixedfancy' do
     url 'http://dl.dafont.com/dl/?f=debmixedfancy'
     name 'Deb Mixed Fancy'
     homepage 'http://www.dafont.com/debmixedfancy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'debmixedfancy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-offshore-banking-business' do
     url 'http://dl.dafont.com/dl/?f=offshore_banking_business'
     name 'Offshore Banking Business'
     homepage 'http://www.dafont.com/offshore-banking-business.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'offshore.ttf'
 end

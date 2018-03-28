@@ -5,7 +5,6 @@ cask 'dafont-perca' do
     url 'http://dl.dafont.com/dl/?f=perca'
     name 'Perca'
     homepage 'http://www.dafont.com/perca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Perca.otf'
 end

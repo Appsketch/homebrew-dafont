@@ -5,7 +5,6 @@ cask 'dafont-downcome' do
     url 'http://dl.dafont.com/dl/?f=downcome'
     name 'Downcome'
     homepage 'http://www.dafont.com/downcome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOWNCOME.TTF'
 end

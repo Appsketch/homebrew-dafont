@@ -5,7 +5,6 @@ cask 'dafont-wonderfulphonograph' do
     url 'http://dl.dafont.com/dl/?f=wonderfulphonograph'
     name 'Wonderful Phonograph'
     homepage 'http://www.dafont.com/wonderfulphonograph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WonderfulPhonograph.ttf'
 end

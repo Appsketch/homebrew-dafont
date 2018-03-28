@@ -5,7 +5,6 @@ cask 'dafont-cup-of-tea' do
     url 'http://dl.dafont.com/dl/?f=cup_of_tea'
     name 'Cup of Tea'
     homepage 'http://www.dafont.com/cup-of-tea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cup of tea.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-porcupine' do
     url 'http://dl.dafont.com/dl/?f=porcupine'
     name 'Porcupine'
     homepage 'http://www.dafont.com/porcupine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'porcupine.ttf'
 end

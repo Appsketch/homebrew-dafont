@@ -5,7 +5,6 @@ cask 'dafont-pahan-puuskahdus' do
     url 'http://dl.dafont.com/dl/?f=pahan_puuskahdus'
     name 'Pahan Puuskahdus'
     homepage 'http://www.dafont.com/pahan-puuskahdus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pahan Puuskahdus.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tom-violence' do
     url 'http://dl.dafont.com/dl/?f=tom_violence'
     name 'Tom Violence'
     homepage 'http://www.dafont.com/tom-violence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOMVA___.TTF'
 end

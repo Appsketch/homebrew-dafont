@@ -5,7 +5,6 @@ cask 'dafont-one-lousy-bottom' do
     url 'http://dl.dafont.com/dl/?f=one_lousy_bottom'
     name 'One Lousy Bottom'
     homepage 'http://www.dafont.com/one-lousy-bottom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ONE.TTF'
 end

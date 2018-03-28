@@ -5,7 +5,6 @@ cask 'dafont-petiteboule' do
     url 'http://dl.dafont.com/dl/?f=petiteboule'
     name 'Petite Boule'
     homepage 'http://www.dafont.com/petiteboule.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'petiteboule.ttf'
 end

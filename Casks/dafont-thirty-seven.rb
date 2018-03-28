@@ -5,7 +5,6 @@ cask 'dafont-thirty-seven' do
     url 'http://dl.dafont.com/dl/?f=thirty_seven'
     name 'Thirty-Seven'
     homepage 'http://www.dafont.com/thirty-seven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thirty-Seven Italic.otf'
     font 'Thirty-Seven.otf'

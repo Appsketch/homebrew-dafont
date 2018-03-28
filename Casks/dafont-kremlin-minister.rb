@@ -5,7 +5,6 @@ cask 'dafont-kremlin-minister' do
     url 'http://dl.dafont.com/dl/?f=kremlin_minister'
     name 'Kremlin Minister'
     homepage 'http://www.dafont.com/kremlin-minister.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Minister Black.ttf'
     font 'Kremlin Minister Black3D.ttf'

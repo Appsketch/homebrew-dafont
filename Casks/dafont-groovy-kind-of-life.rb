@@ -5,7 +5,6 @@ cask 'dafont-groovy-kind-of-life' do
     url 'http://dl.dafont.com/dl/?f=groovy_kind_of_life'
     name 'Groovy Kind Of Life'
     homepage 'http://www.dafont.com/groovy-kind-of-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Groovy Kind Of Life.ttf'
 end

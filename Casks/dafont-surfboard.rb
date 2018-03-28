@@ -5,7 +5,6 @@ cask 'dafont-surfboard' do
     url 'http://dl.dafont.com/dl/?f=surfboard'
     name 'SurfBoard'
     homepage 'http://www.dafont.com/surfboard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SurfBoard.ttf'
 end

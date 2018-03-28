@@ -5,7 +5,6 @@ cask 'dafont-drunken-horror-ghost' do
     url 'http://dl.dafont.com/dl/?f=drunken_horror_ghost'
     name 'Drunken Horror Ghost'
     homepage 'http://www.dafont.com/drunken-horror-ghost.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'drunken_horror_ghost.ttf'
 end

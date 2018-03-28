@@ -5,7 +5,6 @@ cask 'dafont-lukefont' do
     url 'http://dl.dafont.com/dl/?f=lukefont'
     name 'LukeFont'
     homepage 'http://www.dafont.com/lukefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LukeFont.otf'
 end

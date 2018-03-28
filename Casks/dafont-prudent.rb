@@ -5,7 +5,6 @@ cask 'dafont-prudent' do
     url 'http://dl.dafont.com/dl/?f=prudent'
     name 'Prudent'
     homepage 'http://www.dafont.com/prudent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PRUDENT.ttf'
 end

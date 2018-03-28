@@ -5,7 +5,6 @@ cask 'dafont-thirdrail' do
     url 'http://dl.dafont.com/dl/?f=thirdrail'
     name 'Third Rail'
     homepage 'http://www.dafont.com/thirdrail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThirdRail.ttf'
 end

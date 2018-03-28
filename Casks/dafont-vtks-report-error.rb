@@ -5,7 +5,6 @@ cask 'dafont-vtks-report-error' do
     url 'http://dl.dafont.com/dl/?f=vtks_report_error'
     name 'VTKS Report Error'
     homepage 'http://www.dafont.com/vtks-report-error.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS REPORT ERROR.ttf'
 end

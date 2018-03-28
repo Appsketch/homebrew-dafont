@@ -5,7 +5,6 @@ cask 'dafont-guitar-electric' do
     url 'http://dl.dafont.com/dl/?f=guitar_electric'
     name 'Guitar Electric'
     homepage 'http://www.dafont.com/guitar-electric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GUITAR ELECTRIC.ttf'
 end

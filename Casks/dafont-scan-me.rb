@@ -5,7 +5,6 @@ cask 'dafont-scan-me' do
     url 'http://dl.dafont.com/dl/?f=scan_me'
     name 'Scan me '
     homepage 'http://www.dafont.com/scan-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scanme - QR - BC.ttf'
 end

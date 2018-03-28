@@ -5,7 +5,6 @@ cask 'dafont-patronato-21' do
     url 'http://dl.dafont.com/dl/?f=patronato_21'
     name 'Patronato 21'
     homepage 'http://www.dafont.com/patronato-21.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PATRONATO 21.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-practicum' do
     url 'http://dl.dafont.com/dl/?f=practicum'
     name 'Practicum'
     homepage 'http://www.dafont.com/practicum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Practicum.ttf'
 end

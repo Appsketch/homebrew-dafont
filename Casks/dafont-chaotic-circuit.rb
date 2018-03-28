@@ -5,7 +5,6 @@ cask 'dafont-chaotic-circuit' do
     url 'http://dl.dafont.com/dl/?f=chaotic_circuit'
     name 'Chaotic Circuit'
     homepage 'http://www.dafont.com/chaotic-circuit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chaoscir.ttf'
 end

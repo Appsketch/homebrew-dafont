@@ -5,7 +5,6 @@ cask 'dafont-faraco-hand' do
     url 'http://dl.dafont.com/dl/?f=faraco_hand'
     name 'Faraco Hand'
     homepage 'http://www.dafont.com/faraco-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Faraco Hand.ttf'
 end

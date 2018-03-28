@@ -5,7 +5,6 @@ cask 'dafont-race1-brannt-ncv' do
     url 'http://dl.dafont.com/dl/?f=race1_brannt_ncv'
     name 'Race1 Brannt NCV'
     homepage 'http://www.dafont.com/race1-brannt-ncv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RACE1 Brannt Chiseled NCV.ttf'
     font 'RACE1 Brannt NCV.ttf'

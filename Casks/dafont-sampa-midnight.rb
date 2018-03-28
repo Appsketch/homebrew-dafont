@@ -5,7 +5,6 @@ cask 'dafont-sampa-midnight' do
     url 'http://dl.dafont.com/dl/?f=sampa_midnight'
     name 'Sampa Midnight'
     homepage 'http://www.dafont.com/sampa-midnight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sampa Midnight.ttf'
 end

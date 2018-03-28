@@ -5,7 +5,6 @@ cask 'dafont-maiers-nr-21-pro' do
     url 'http://dl.dafont.com/dl/?f=maiers_nr_21_pro'
     name 'Maiers Nr.21 Pro'
     homepage 'http://www.dafont.com/maiers-nr-21-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MaiersNr21Pro_Bold.otf'
     font 'MaiersNr21Pro_Light.otf'

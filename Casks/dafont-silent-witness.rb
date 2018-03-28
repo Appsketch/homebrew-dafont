@@ -5,7 +5,6 @@ cask 'dafont-silent-witness' do
     url 'http://dl.dafont.com/dl/?f=silent_witness'
     name 'Silent Witness'
     homepage 'http://www.dafont.com/silent-witness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'silent witness.ttf'
 end

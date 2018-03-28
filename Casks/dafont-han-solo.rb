@@ -5,7 +5,6 @@ cask 'dafont-han-solo' do
     url 'http://dl.dafont.com/dl/?f=han_solo'
     name 'Han Solo'
     homepage 'http://www.dafont.com/han-solo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hansolov3_3d.ttf'
     font 'hansolov3_3dital.ttf'

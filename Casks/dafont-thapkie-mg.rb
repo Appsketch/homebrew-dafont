@@ -5,7 +5,6 @@ cask 'dafont-thapkie-mg' do
     url 'http://dl.dafont.com/dl/?f=thapkie_mg'
     name 'Thapkie MG'
     homepage 'http://www.dafont.com/thapkie-mg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thapkie MG.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-improlija' do
     url 'http://dl.dafont.com/dl/?f=improlija'
     name 'Improlija'
     homepage 'http://www.dafont.com/improlija.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Improlija.ttf'
 end

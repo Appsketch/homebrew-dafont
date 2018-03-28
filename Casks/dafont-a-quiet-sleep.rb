@@ -5,7 +5,6 @@ cask 'dafont-a-quiet-sleep' do
     url 'http://dl.dafont.com/dl/?f=a_quiet_sleep'
     name 'A Quiet Sleep'
     homepage 'http://www.dafont.com/a-quiet-sleep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AQuietSleep.ttf'
 end

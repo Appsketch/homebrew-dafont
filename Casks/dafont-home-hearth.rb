@@ -5,7 +5,6 @@ cask 'dafont-home-hearth' do
     url 'http://dl.dafont.com/dl/?f=home_hearth'
     name 'Home &amp; Hearth'
     homepage 'http://www.dafont.com/home-hearth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Home&amp;Hearth.ttf'
 end

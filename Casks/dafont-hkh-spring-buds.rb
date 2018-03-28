@@ -5,7 +5,6 @@ cask 'dafont-hkh-spring-buds' do
     url 'http://dl.dafont.com/dl/?f=hkh_spring_buds'
     name 'HKH Spring Buds'
     homepage 'http://www.dafont.com/hkh-spring-buds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HKH Spring Buds Italic.ttf'
     font 'HKH Spring Buds.ttf'

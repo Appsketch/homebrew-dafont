@@ -5,7 +5,6 @@ cask 'dafont-extra-sales' do
     url 'http://dl.dafont.com/dl/?f=extra_sales'
     name 'Extra Sales'
     homepage 'http://www.dafont.com/extra-sales.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extra Sales Blank.ttf'
     font 'Extra Sales.ttf'

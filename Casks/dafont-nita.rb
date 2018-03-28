@@ -5,7 +5,6 @@ cask 'dafont-nita' do
     url 'http://dl.dafont.com/dl/?f=nita'
     name 'Nita'
     homepage 'http://www.dafont.com/nita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nita.ttf'
 end

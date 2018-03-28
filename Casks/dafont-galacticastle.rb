@@ -5,7 +5,6 @@ cask 'dafont-galacticastle' do
     url 'http://dl.dafont.com/dl/?f=galacticastle'
     name 'Galacticastle'
     homepage 'http://www.dafont.com/galacticastle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Galacticastle-Regular.ttf'
 end

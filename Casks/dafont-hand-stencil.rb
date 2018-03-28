@@ -5,7 +5,6 @@ cask 'dafont-hand-stencil' do
     url 'http://dl.dafont.com/dl/?f=hand_stencil'
     name 'Hand Stencil'
     homepage 'http://www.dafont.com/hand-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hand Stencil.ttf'
 end

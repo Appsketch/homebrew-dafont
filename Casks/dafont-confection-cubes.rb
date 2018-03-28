@@ -5,7 +5,6 @@ cask 'dafont-confection-cubes' do
     url 'http://dl.dafont.com/dl/?f=confection_cubes'
     name 'Confection Cubes'
     homepage 'http://www.dafont.com/confection-cubes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CONFCRG_.TTF'
 end

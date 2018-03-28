@@ -5,7 +5,6 @@ cask 'dafont-vanished' do
     url 'http://dl.dafont.com/dl/?f=vanished'
     name 'Vanished'
     homepage 'http://www.dafont.com/vanished.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vanished.ttf'
 end

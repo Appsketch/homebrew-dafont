@@ -5,7 +5,6 @@ cask 'dafont-dk-semarang' do
     url 'http://dl.dafont.com/dl/?f=dk_semarang'
     name 'DK Semarang'
     homepage 'http://www.dafont.com/dk-semarang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Semarang.otf'
 end

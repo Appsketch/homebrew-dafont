@@ -5,7 +5,6 @@ cask 'dafont-moby' do
     url 'http://dl.dafont.com/dl/?f=moby'
     name 'Moby'
     homepage 'http://www.dafont.com/moby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOBY-REG.TTF'
     font 'MOBYB___.TTF'

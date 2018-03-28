@@ -5,7 +5,6 @@ cask 'dafont-jelly-swirls' do
     url 'http://dl.dafont.com/dl/?f=jelly_swirls'
     name 'Jelly Swirls'
     homepage 'http://www.dafont.com/jelly-swirls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jelly Swirls.ttf'
 end

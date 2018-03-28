@@ -5,7 +5,6 @@ cask 'dafont-zu-kabarett' do
     url 'http://dl.dafont.com/dl/?f=zu_kabarett'
     name 'Zu Kabarett'
     homepage 'http://www.dafont.com/zu-kabarett.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zu Kabarett Destroy.ttf'
     font 'Zu Kabarett Shad.ttf'

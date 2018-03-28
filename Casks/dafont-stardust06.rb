@@ -5,7 +5,6 @@ cask 'dafont-stardust06' do
     url 'http://dl.dafont.com/dl/?f=stardust06'
     name 'Stardust 06'
     homepage 'http://www.dafont.com/stardust06.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stardust06.ttf'
 end

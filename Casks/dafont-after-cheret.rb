@@ -5,7 +5,6 @@ cask 'dafont-after-cheret' do
     url 'http://dl.dafont.com/dl/?f=after_cheret'
     name 'After Cheret'
     homepage 'http://www.dafont.com/after-cheret.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'After Cheret Bold.ttf'
 end

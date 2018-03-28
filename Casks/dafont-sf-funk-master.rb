@@ -5,7 +5,6 @@ cask 'dafont-sf-funk-master' do
     url 'http://dl.dafont.com/dl/?f=sf_funk_master'
     name 'SF Funk Master'
     homepage 'http://www.dafont.com/sf-funk-master.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Funk Master Oblique.ttf'
     font 'SF Funk Master.ttf'

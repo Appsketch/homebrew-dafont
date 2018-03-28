@@ -5,7 +5,6 @@ cask 'dafont-lowerside' do
     url 'http://dl.dafont.com/dl/?f=lowerside'
     name 'Lower Side'
     homepage 'http://www.dafont.com/lowerside.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LowerSide.ttf'
 end

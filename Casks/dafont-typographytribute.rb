@@ -5,7 +5,6 @@ cask 'dafont-typographytribute' do
     url 'http://dl.dafont.com/dl/?f=typographytribute'
     name 'TypographyTribute'
     homepage 'http://www.dafont.com/typographytribute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TypographyTribute.ttf'
 end

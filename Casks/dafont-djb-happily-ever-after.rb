@@ -5,7 +5,6 @@ cask 'dafont-djb-happily-ever-after' do
     url 'http://dl.dafont.com/dl/?f=djb_happily_ever_after'
     name 'DJB Happily Ever After'
     homepage 'http://www.dafont.com/djb-happily-ever-after.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Happily Ever After 2.otf'
     font 'DJB Happily Ever After.otf'

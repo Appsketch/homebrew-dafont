@@ -5,7 +5,6 @@ cask 'dafont-paquet-cadeaux' do
     url 'http://dl.dafont.com/dl/?f=paquet_cadeaux'
     name 'Paquet Cadeaux'
     homepage 'http://www.dafont.com/paquet-cadeaux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CADEAUX.TTF'
 end

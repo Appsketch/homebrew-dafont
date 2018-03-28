@@ -5,7 +5,6 @@ cask 'dafont-cf-craig-robinson' do
     url 'http://dl.dafont.com/dl/?f=cf_craig_robinson'
     name 'CF Craig Robinson'
     homepage 'http://www.dafont.com/cf-craig-robinson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFCraigRobinson-Regular.ttf'
 end

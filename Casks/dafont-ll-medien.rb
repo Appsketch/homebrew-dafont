@@ -5,7 +5,6 @@ cask 'dafont-ll-medien' do
     url 'http://dl.dafont.com/dl/?f=ll_medien'
     name 'LL Medien'
     homepage 'http://www.dafont.com/ll-medien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LL_MEDIE.TTF'
 end

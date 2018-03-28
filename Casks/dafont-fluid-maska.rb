@@ -5,7 +5,6 @@ cask 'dafont-fluid-maska' do
     url 'http://dl.dafont.com/dl/?f=fluid_maska'
     name 'Fluid Maska'
     homepage 'http://www.dafont.com/fluid-maska.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fluid Maska.ttf'
 end

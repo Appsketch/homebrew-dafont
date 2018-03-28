@@ -5,7 +5,6 @@ cask 'dafont-destination-future' do
     url 'http://dl.dafont.com/dl/?f=destination_future'
     name 'Destination Future'
     homepage 'http://www.dafont.com/destination-future.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Destination Future.ttf'
 end

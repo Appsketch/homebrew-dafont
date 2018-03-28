@@ -5,7 +5,6 @@ cask 'dafont-bradley-hand' do
     url 'http://dl.dafont.com/dl/?f=bradley_hand'
     name 'Bradley Hand'
     homepage 'http://www.dafont.com/bradley-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bradleys Pen.ttf'
 end

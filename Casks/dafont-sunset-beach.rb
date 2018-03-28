@@ -5,7 +5,6 @@ cask 'dafont-sunset-beach' do
     url 'http://dl.dafont.com/dl/?f=sunset_beach'
     name 'Sunset Beach'
     homepage 'http://www.dafont.com/sunset-beach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUNSET BEACH.ttf'
 end

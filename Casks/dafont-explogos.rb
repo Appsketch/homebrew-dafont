@@ -5,7 +5,6 @@ cask 'dafont-explogos' do
     url 'http://dl.dafont.com/dl/?f=explogos'
     name 'Explogos'
     homepage 'http://www.dafont.com/explogos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Explogos - Demo.ttf'
 end

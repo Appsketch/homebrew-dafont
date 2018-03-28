@@ -5,7 +5,6 @@ cask 'dafont-laclede-cat' do
     url 'http://dl.dafont.com/dl/?f=laclede_cat'
     name 'Laclede CAT'
     homepage 'http://www.dafont.com/laclede-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Laclede_CAT.ttf'
 end

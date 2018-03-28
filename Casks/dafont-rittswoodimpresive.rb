@@ -5,7 +5,6 @@ cask 'dafont-rittswoodimpresive' do
     url 'http://dl.dafont.com/dl/?f=rittswoodimpresive'
     name 'Rittswood Impresive'
     homepage 'http://www.dafont.com/rittswoodimpresive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'r-impresive_6.ttf'
     font 'r-impresive_bl_6.ttf'

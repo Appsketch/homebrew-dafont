@@ -5,7 +5,6 @@ cask 'dafont-pirho-herakles' do
     url 'http://dl.dafont.com/dl/?f=pirho_herakles'
     name 'Pirho Herakles'
     homepage 'http://www.dafont.com/pirho-herakles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HERAKLES.TTF'
 end

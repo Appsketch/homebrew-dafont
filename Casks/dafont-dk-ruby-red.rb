@@ -5,7 +5,6 @@ cask 'dafont-dk-ruby-red' do
     url 'http://dl.dafont.com/dl/?f=dk_ruby_red'
     name 'DK Ruby Red'
     homepage 'http://www.dafont.com/dk-ruby-red.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Ruby Red.otf'
 end

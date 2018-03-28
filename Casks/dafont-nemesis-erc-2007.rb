@@ -5,7 +5,6 @@ cask 'dafont-nemesis-erc-2007' do
     url 'http://dl.dafont.com/dl/?f=nemesis_erc_2007'
     name 'Nemesis Erc 2007'
     homepage 'http://www.dafont.com/nemesis-erc-2007.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nemesis_erc_2007.ttf'
 end

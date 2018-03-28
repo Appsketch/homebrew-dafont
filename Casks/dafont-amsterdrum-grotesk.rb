@@ -5,7 +5,6 @@ cask 'dafont-amsterdrum-grotesk' do
     url 'http://dl.dafont.com/dl/?f=amsterdrum_grotesk'
     name 'Amsterdrum Grotesk'
     homepage 'http://www.dafont.com/amsterdrum-grotesk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AMSTER~1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-monarchia' do
     url 'http://dl.dafont.com/dl/?f=monarchia'
     name 'Monarchia'
     homepage 'http://www.dafont.com/monarchia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MONARCHI.TTF'
 end

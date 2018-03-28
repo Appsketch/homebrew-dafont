@@ -5,7 +5,6 @@ cask 'dafont-allura-script' do
     url 'http://dl.dafont.com/dl/?f=allura_script'
     name 'Allura Script'
     homepage 'http://www.dafont.com/allura-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Allura_Script.ttf'
 end

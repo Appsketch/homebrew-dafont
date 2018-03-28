@@ -5,7 +5,6 @@ cask 'dafont-justperforate' do
     url 'http://dl.dafont.com/dl/?f=justperforate'
     name 'Just Perforate'
     homepage 'http://www.dafont.com/justperforate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustPerforate.ttf'
 end

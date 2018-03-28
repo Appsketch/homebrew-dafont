@@ -5,7 +5,6 @@ cask 'dafont-foxxy' do
     url 'http://dl.dafont.com/dl/?f=foxxy'
     name 'Foxxy'
     homepage 'http://www.dafont.com/foxxy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Foxxy.otf'
     font 'Foxxy3D.otf'

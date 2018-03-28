@@ -5,7 +5,6 @@ cask 'dafont-fortrack' do
     url 'http://dl.dafont.com/dl/?f=fortrack'
     name 'Fortrack'
     homepage 'http://www.dafont.com/fortrack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fortrack-Italic.otf'
     font 'Fortrack-Regular.otf'

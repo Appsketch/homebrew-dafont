@@ -5,7 +5,6 @@ cask 'dafont-bm-tube' do
     url 'http://dl.dafont.com/dl/?f=bm_tube'
     name 'BM Tube'
     homepage 'http://www.dafont.com/bm-tube.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMtube.TTF'
 end

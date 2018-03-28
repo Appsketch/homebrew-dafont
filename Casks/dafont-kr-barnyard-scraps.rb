@@ -5,7 +5,6 @@ cask 'dafont-kr-barnyard-scraps' do
     url 'http://dl.dafont.com/dl/?f=kr_barnyard_scraps'
     name 'KR Barnyard Scraps'
     homepage 'http://www.dafont.com/kr-barnyard-scraps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Barnyard Scraps.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-8bit-wonder' do
     url 'http://dl.dafont.com/dl/?f=8bit_wonder'
     name '8 Bit Wonder'
     homepage 'http://www.dafont.com/8bit-wonder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '8-BIT WONDER.TTF'
 end

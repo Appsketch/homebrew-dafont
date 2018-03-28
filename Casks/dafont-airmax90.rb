@@ -5,7 +5,6 @@ cask 'dafont-airmax90' do
     url 'http://dl.dafont.com/dl/?f=airmax90'
     name 'Air Max 90'
     homepage 'http://www.dafont.com/airmax90.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AirMax90.ttf'
 end

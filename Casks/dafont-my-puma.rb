@@ -5,7 +5,6 @@ cask 'dafont-my-puma' do
     url 'http://dl.dafont.com/dl/?f=my_puma'
     name 'My Puma'
     homepage 'http://www.dafont.com/my-puma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MYPUMA__.TTF'
 end

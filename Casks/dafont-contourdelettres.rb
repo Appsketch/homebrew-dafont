@@ -5,7 +5,6 @@ cask 'dafont-contourdelettres' do
     url 'http://dl.dafont.com/dl/?f=contourdelettres'
     name 'Contour De Lettres'
     homepage 'http://www.dafont.com/contourdelettres.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ContourDeLettres.ttf'
 end

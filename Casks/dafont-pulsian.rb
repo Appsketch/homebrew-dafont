@@ -5,7 +5,6 @@ cask 'dafont-pulsian' do
     url 'http://dl.dafont.com/dl/?f=pulsian'
     name 'Pulsian'
     homepage 'http://www.dafont.com/pulsian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pulsian.ttf'
 end

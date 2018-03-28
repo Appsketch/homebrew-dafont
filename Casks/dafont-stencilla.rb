@@ -5,7 +5,6 @@ cask 'dafont-stencilla' do
     url 'http://dl.dafont.com/dl/?f=stencilla'
     name 'Stencilla'
     homepage 'http://www.dafont.com/stencilla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stencilla.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hole-hearted' do
     url 'http://dl.dafont.com/dl/?f=hole_hearted'
     name 'Hole-Hearted'
     homepage 'http://www.dafont.com/hole-hearted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hole-Hearted.ttf'
 end

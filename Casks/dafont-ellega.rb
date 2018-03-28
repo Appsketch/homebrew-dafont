@@ -5,7 +5,6 @@ cask 'dafont-ellega' do
     url 'http://dl.dafont.com/dl/?f=ellega'
     name 'Ellega'
     homepage 'http://www.dafont.com/ellega.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ellega.ttf'
 end

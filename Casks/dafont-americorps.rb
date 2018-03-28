@@ -5,7 +5,6 @@ cask 'dafont-americorps' do
     url 'http://dl.dafont.com/dl/?f=americorps'
     name 'Americorps'
     homepage 'http://www.dafont.com/americorps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'americorps.ttf'
     font 'americorps3d.ttf'

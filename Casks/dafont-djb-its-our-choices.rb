@@ -5,7 +5,6 @@ cask 'dafont-djb-its-our-choices' do
     url 'http://dl.dafont.com/dl/?f=djb_its_our_choices'
     name 'DJB It&#039;s Our Choices'
     homepage 'http://www.dafont.com/djb-its-our-choices.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB It&#039;s Our Choices.ttf'
 end

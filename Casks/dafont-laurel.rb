@@ -5,7 +5,6 @@ cask 'dafont-laurel' do
     url 'http://dl.dafont.com/dl/?f=laurel'
     name 'Laurel'
     homepage 'http://www.dafont.com/laurel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Laurel.ttf'
 end

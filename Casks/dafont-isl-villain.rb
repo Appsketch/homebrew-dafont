@@ -5,7 +5,6 @@ cask 'dafont-isl-villain' do
     url 'http://dl.dafont.com/dl/?f=isl_villain'
     name 'ISL Villain'
     homepage 'http://www.dafont.com/isl-villain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'villain.ttf'
 end

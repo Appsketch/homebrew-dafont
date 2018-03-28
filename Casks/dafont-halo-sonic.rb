@@ -5,7 +5,6 @@ cask 'dafont-halo-sonic' do
     url 'http://dl.dafont.com/dl/?f=halo_sonic'
     name 'Halo-Sonic'
     homepage 'http://www.dafont.com/halo-sonic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'halo-sonic.ttf'
 end

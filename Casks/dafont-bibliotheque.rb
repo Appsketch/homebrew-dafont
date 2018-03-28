@@ -5,7 +5,6 @@ cask 'dafont-bibliotheque' do
     url 'http://dl.dafont.com/dl/?f=bibliotheque'
     name 'Bibliotheque'
     homepage 'http://www.dafont.com/bibliotheque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'biblio.ttf'
 end

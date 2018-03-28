@@ -5,7 +5,6 @@ cask 'dafont-nue' do
     url 'http://dl.dafont.com/dl/?f=nue'
     name 'Nue'
     homepage 'http://www.dafont.com/nue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nue_Bold.otf'
     font 'Nue_Light.otf'

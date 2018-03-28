@@ -5,7 +5,6 @@ cask 'dafont-lintsec' do
     url 'http://dl.dafont.com/dl/?f=lintsec'
     name 'Lintsec'
     homepage 'http://www.dafont.com/lintsec.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lintsec_.ttf'
 end

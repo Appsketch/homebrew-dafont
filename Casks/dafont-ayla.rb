@@ -5,7 +5,6 @@ cask 'dafont-ayla' do
     url 'http://dl.dafont.com/dl/?f=ayla'
     name 'Ayla'
     homepage 'http://www.dafont.com/ayla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AylaCSscript.ttf'
     font 'AylavideCS.ttf'

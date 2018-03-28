@@ -5,7 +5,6 @@ cask 'dafont-plaid' do
     url 'http://dl.dafont.com/dl/?f=plaid'
     name 'Plaid'
     homepage 'http://www.dafont.com/plaid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caution - Heavy to load/plaid.ttf'
 end

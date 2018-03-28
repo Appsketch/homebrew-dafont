@@ -5,7 +5,6 @@ cask 'dafont-dk-bandolina' do
     url 'http://dl.dafont.com/dl/?f=dk_bandolina'
     name 'DK Bandolina'
     homepage 'http://www.dafont.com/dk-bandolina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Bandolina.otf'
 end

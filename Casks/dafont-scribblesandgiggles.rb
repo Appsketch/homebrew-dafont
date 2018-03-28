@@ -5,7 +5,6 @@ cask 'dafont-scribblesandgiggles' do
     url 'http://dl.dafont.com/dl/?f=scribblesandgiggles'
     name 'Scribbles and Giggles'
     homepage 'http://www.dafont.com/scribblesandgiggles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scribbles &amp; Giggles.ttf'
 end

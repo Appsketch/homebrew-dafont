@@ -5,7 +5,6 @@ cask 'dafont-mindless-self-indulgence' do
     url 'http://dl.dafont.com/dl/?f=mindless_self_indulgence'
     name 'Mindless Self Indulgence'
     homepage 'http://www.dafont.com/mindless-self-indulgence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MSI.ttf'
 end

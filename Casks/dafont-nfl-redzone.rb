@@ -5,7 +5,6 @@ cask 'dafont-nfl-redzone' do
     url 'http://dl.dafont.com/dl/?f=nfl_redzone'
     name 'NFL RedZone'
     homepage 'http://www.dafont.com/nfl-redzone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NFL RedZone.ttf'
 end

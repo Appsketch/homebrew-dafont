@@ -5,7 +5,6 @@ cask 'dafont-kellilynn' do
     url 'http://dl.dafont.com/dl/?f=kellilynn'
     name 'Kelli Lynn'
     homepage 'http://www.dafont.com/kellilynn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kellilynn.ttf'
 end

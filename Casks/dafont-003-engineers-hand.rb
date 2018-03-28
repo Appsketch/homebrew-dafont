@@ -5,7 +5,6 @@ cask 'dafont-003-engineers-hand' do
     url 'http://dl.dafont.com/dl/?f=003_engineers_hand'
     name '003 Engineer&#039;s Hand'
     homepage 'http://www.dafont.com/003-engineers-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '003 Engineer_&#039;s Hand.ttf'
 end

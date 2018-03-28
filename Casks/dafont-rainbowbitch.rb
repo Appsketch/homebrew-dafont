@@ -5,7 +5,6 @@ cask 'dafont-rainbowbitch' do
     url 'http://dl.dafont.com/dl/?f=rainbowbitch'
     name 'Rainbow Bitch'
     homepage 'http://www.dafont.com/rainbowbitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rainbowbitch2.ttf'
 end

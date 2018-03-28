@@ -5,7 +5,6 @@ cask 'dafont-giant-universe' do
     url 'http://dl.dafont.com/dl/?f=giant_universe'
     name 'Giant Universe'
     homepage 'http://www.dafont.com/giant-universe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Giant Universe.ttf'
 end

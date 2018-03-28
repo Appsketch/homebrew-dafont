@@ -5,7 +5,6 @@ cask 'dafont-voker' do
     url 'http://dl.dafont.com/dl/?f=voker'
     name 'Voker'
     homepage 'http://www.dafont.com/voker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Voker regular (update) solo letras para dafont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djb-im-no-wizard' do
     url 'http://dl.dafont.com/dl/?f=djb_im_no_wizard'
     name 'DJB Im No Wizard'
     homepage 'http://www.dafont.com/djb-im-no-wizard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Im No Wizard.ttf'
 end

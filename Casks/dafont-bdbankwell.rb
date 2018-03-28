@@ -5,7 +5,6 @@ cask 'dafont-bdbankwell' do
     url 'http://dl.dafont.com/dl/?f=bdbankwell'
     name 'BD Bankwell'
     homepage 'http://www.dafont.com/bdbankwell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BD_Bankwell.ttf'
 end

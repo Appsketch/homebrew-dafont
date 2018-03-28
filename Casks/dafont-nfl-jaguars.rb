@@ -5,7 +5,6 @@ cask 'dafont-nfl-jaguars' do
     url 'http://dl.dafont.com/dl/?f=nfl_jaguars'
     name 'NFL Jaguars'
     homepage 'http://www.dafont.com/nfl-jaguars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NFL Jaguars.ttf'
 end

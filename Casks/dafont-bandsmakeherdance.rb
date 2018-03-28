@@ -5,7 +5,6 @@ cask 'dafont-bandsmakeherdance' do
     url 'http://dl.dafont.com/dl/?f=bandsmakeherdance'
     name 'Bands Make Her Dance'
     homepage 'http://www.dafont.com/bandsmakeherdance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BandsMakeHerDance.ttf'
 end

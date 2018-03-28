@@ -5,7 +5,6 @@ cask 'dafont-babys-world' do
     url 'http://dl.dafont.com/dl/?f=babys_world'
     name 'Baby&#039;s World'
     homepage 'http://www.dafont.com/babys-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'baby.TTF'
 end

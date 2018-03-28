@@ -5,7 +5,6 @@ cask 'dafont-home-and-away' do
     url 'http://dl.dafont.com/dl/?f=home_and_away'
     name 'Home and Away'
     homepage 'http://www.dafont.com/home-and-away.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Home and Away.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-warriors-destiny' do
     url 'http://dl.dafont.com/dl/?f=warriors_destiny'
     name 'Warrior&#039;s Destiny'
     homepage 'http://www.dafont.com/warriors-destiny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'warror_&#039;s destiny.ttf'
 end

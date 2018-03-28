@@ -5,7 +5,6 @@ cask 'dafont-union-agrochem' do
     url 'http://dl.dafont.com/dl/?f=union_agrochem'
     name 'Union Agrochem'
     homepage 'http://www.dafont.com/union-agrochem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'unionagrochem.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cross-screw' do
     url 'http://dl.dafont.com/dl/?f=cross_screw'
     name 'Cross Screw'
     homepage 'http://www.dafont.com/cross-screw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cross Screw.ttf'
 end

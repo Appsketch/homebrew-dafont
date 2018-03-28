@@ -5,7 +5,6 @@ cask 'dafont-bold-face-lie' do
     url 'http://dl.dafont.com/dl/?f=bold_face_lie'
     name 'Bold Face Lie'
     homepage 'http://www.dafont.com/bold-face-lie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BoldFaceLie-Regular.ttf'
 end

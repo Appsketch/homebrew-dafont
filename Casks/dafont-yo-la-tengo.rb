@@ -5,7 +5,6 @@ cask 'dafont-yo-la-tengo' do
     url 'http://dl.dafont.com/dl/?f=yo_la_tengo'
     name 'Yo La Tengo'
     homepage 'http://www.dafont.com/yo-la-tengo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yo La Tengo.ttf'
 end

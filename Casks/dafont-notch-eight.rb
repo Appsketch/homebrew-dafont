@@ -5,7 +5,6 @@ cask 'dafont-notch-eight' do
     url 'http://dl.dafont.com/dl/?f=notch_eight'
     name 'Notch Eight'
     homepage 'http://www.dafont.com/notch-eight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NotchEight.ttf'
 end

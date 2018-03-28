@@ -5,7 +5,6 @@ cask 'dafont-xcelsion' do
     url 'http://dl.dafont.com/dl/?f=xcelsion'
     name 'Xcelsion'
     homepage 'http://www.dafont.com/xcelsion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xcelv3.ttf'
     font 'xcelv3i.ttf'

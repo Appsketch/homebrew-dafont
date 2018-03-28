@@ -5,7 +5,6 @@ cask 'dafont-slick-69' do
     url 'http://dl.dafont.com/dl/?f=slick_69'
     name 'Slick 69'
     homepage 'http://www.dafont.com/slick-69.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SLICK69_.TTF'
 end

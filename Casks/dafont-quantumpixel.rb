@@ -5,7 +5,6 @@ cask 'dafont-quantumpixel' do
     url 'http://dl.dafont.com/dl/?f=quantumpixel'
     name 'Quantum Pixel'
     homepage 'http://www.dafont.com/quantumpixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuantumPixel.ttf'
 end

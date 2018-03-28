@@ -5,7 +5,6 @@ cask 'dafont-davek' do
     url 'http://dl.dafont.com/dl/?f=davek'
     name 'Davek'
     homepage 'http://www.dafont.com/davek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Davek Bold Italic.otf'
     font 'Davek Bold.otf'

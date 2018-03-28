@@ -5,7 +5,6 @@ cask 'dafont-esp' do
     url 'http://dl.dafont.com/dl/?f=esp'
     name 'ESP'
     homepage 'http://www.dafont.com/esp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'esp_bdit.ttf'
     font 'esp_bold.ttf'

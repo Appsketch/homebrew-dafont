@@ -5,7 +5,6 @@ cask 'dafont-cf-green-corn' do
     url 'http://dl.dafont.com/dl/?f=cf_green_corn'
     name 'CF Green Corn'
     homepage 'http://www.dafont.com/cf-green-corn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFGreenCorn-Regular.ttf'
 end

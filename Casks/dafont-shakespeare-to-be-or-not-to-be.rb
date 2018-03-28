@@ -5,7 +5,6 @@ cask 'dafont-shakespeare-to-be-or-not-to-be' do
     url 'http://dl.dafont.com/dl/?f=shakespeare_to_be_or_not_to_be'
     name 'Shakespeare To Be Or Not To Be'
     homepage 'http://www.dafont.com/shakespeare-to-be-or-not-to-be.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shakespeare To Be Or Not To Be.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sahara' do
     url 'http://dl.dafont.com/dl/?f=sahara'
     name 'Sahara'
     homepage 'http://www.dafont.com/sahara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sahara.ttf'
 end

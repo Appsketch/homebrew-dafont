@@ -5,7 +5,6 @@ cask 'dafont-extraterrestial' do
     url 'http://dl.dafont.com/dl/?f=extraterrestial'
     name 'Extraterrestial'
     homepage 'http://www.dafont.com/extraterrestial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extraterrestial.ttf'
 end

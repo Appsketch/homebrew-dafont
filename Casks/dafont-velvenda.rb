@@ -5,7 +5,6 @@ cask 'dafont-velvenda' do
     url 'http://dl.dafont.com/dl/?f=velvenda'
     name 'Velvenda'
     homepage 'http://www.dafont.com/velvenda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'velvenda chill.ttf'
     font 'velvenda cooler.ttf'

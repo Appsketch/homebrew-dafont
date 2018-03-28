@@ -5,7 +5,6 @@ cask 'dafont-german-blackletters' do
     url 'http://dl.dafont.com/dl/?f=german_blackletters'
     name 'German Blackletters, 15th c.'
     homepage 'http://www.dafont.com/german-blackletters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GermanBlackletters.ttf'
 end

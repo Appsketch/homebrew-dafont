@@ -5,7 +5,6 @@ cask 'dafont-strokewith' do
     url 'http://dl.dafont.com/dl/?f=strokewith'
     name 'Strokeless'
     homepage 'http://www.dafont.com/strokewith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strokeless.ttf'
     font 'Strokewith.ttf'

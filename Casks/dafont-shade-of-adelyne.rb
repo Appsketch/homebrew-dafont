@@ -5,7 +5,6 @@ cask 'dafont-shade-of-adelyne' do
     url 'http://dl.dafont.com/dl/?f=shade_of_adelyne'
     name 'Shade of Adelyne'
     homepage 'http://www.dafont.com/shade-of-adelyne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shade of Adelyne.ttf'
 end

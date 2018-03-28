@@ -5,7 +5,6 @@ cask 'dafont-ceab' do
     url 'http://dl.dafont.com/dl/?f=ceab'
     name 'CEAB'
     homepage 'http://www.dafont.com/ceab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CEAB.ttf'
 end

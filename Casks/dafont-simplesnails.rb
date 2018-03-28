@@ -5,7 +5,6 @@ cask 'dafont-simplesnails' do
     url 'http://dl.dafont.com/dl/?f=simplesnails'
     name 'Simplesnails'
     homepage 'http://www.dafont.com/simplesnails.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simplesnails ver 4.0.ttf'
 end

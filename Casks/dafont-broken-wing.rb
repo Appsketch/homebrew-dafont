@@ -5,7 +5,6 @@ cask 'dafont-broken-wing' do
     url 'http://dl.dafont.com/dl/?f=broken_wing'
     name 'Broken Wing'
     homepage 'http://www.dafont.com/broken-wing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brokw___.ttf'
 end

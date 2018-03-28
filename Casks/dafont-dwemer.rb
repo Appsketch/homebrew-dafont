@@ -5,7 +5,6 @@ cask 'dafont-dwemer' do
     url 'http://dl.dafont.com/dl/?f=dwemer'
     name 'Dwemer'
     homepage 'http://www.dafont.com/dwemer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dwemer Bold Italic.otf'
     font 'Dwemer Bold.otf'

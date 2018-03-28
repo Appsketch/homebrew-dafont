@@ -5,7 +5,6 @@ cask 'dafont-yuma' do
     url 'http://dl.dafont.com/dl/?f=yuma'
     name 'Yuma'
     homepage 'http://www.dafont.com/yuma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yuma-Regular.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-acquaintance' do
     url 'http://dl.dafont.com/dl/?f=acquaintance'
     name 'Acquaintance'
     homepage 'http://www.dafont.com/acquaintance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ACQUAINTANCE.TTF'
 end

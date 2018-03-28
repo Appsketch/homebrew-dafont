@@ -5,7 +5,6 @@ cask 'dafont-imperatives-tables' do
     url 'http://dl.dafont.com/dl/?f=imperatives_tables'
     name 'Imperatives Tables'
     homepage 'http://www.dafont.com/imperatives-tables.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'imperatives tables.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-britishroyalty' do
     url 'http://dl.dafont.com/dl/?f=britishroyalty'
     name 'British Royalty'
     homepage 'http://www.dafont.com/britishroyalty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BritishRoyalty.ttf'
 end

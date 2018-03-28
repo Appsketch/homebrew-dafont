@@ -5,7 +5,6 @@ cask 'dafont-minds-alike' do
     url 'http://dl.dafont.com/dl/?f=minds_alike'
     name 'Minds Alike'
     homepage 'http://www.dafont.com/minds-alike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minds Alike.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-schreibii' do
     url 'http://dl.dafont.com/dl/?f=schreibii'
     name 'Schreibii'
     homepage 'http://www.dafont.com/schreibii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Schreibii.ttf'
 end

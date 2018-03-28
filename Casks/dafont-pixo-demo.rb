@@ -5,7 +5,6 @@ cask 'dafont-pixo-demo' do
     url 'http://dl.dafont.com/dl/?f=pixo_demo'
     name 'Pixo'
     homepage 'http://www.dafont.com/pixo-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixo Demo.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-eastcity' do
     url 'http://dl.dafont.com/dl/?f=eastcity'
     name 'East City'
     homepage 'http://www.dafont.com/eastcity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EastCity.ttf'
 end

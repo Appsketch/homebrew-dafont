@@ -5,7 +5,6 @@ cask 'dafont-kbscaredstraight' do
     url 'http://dl.dafont.com/dl/?f=kbscaredstraight'
     name 'KB Scared Straight'
     homepage 'http://www.dafont.com/kbscaredstraight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBScaredStraight.ttf'
 end

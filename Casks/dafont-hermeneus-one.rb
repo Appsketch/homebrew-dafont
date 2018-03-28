@@ -5,7 +5,6 @@ cask 'dafont-hermeneus-one' do
     url 'http://dl.dafont.com/dl/?f=hermeneus_one'
     name 'Hermeneus One'
     homepage 'http://www.dafont.com/hermeneus-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HermeneusOne-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cine' do
     url 'http://dl.dafont.com/dl/?f=cine'
     name 'Cine'
     homepage 'http://www.dafont.com/cine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cine.ttf'
 end

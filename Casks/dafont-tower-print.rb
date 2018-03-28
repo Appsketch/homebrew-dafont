@@ -5,7 +5,6 @@ cask 'dafont-tower-print' do
     url 'http://dl.dafont.com/dl/?f=tower_print'
     name 'Tower Print'
     homepage 'http://www.dafont.com/tower-print.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tower Print.ttf'
 end

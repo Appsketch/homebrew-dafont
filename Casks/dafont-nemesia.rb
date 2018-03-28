@@ -5,7 +5,6 @@ cask 'dafont-nemesia' do
     url 'http://dl.dafont.com/dl/?f=nemesia'
     name 'Nemesia'
     homepage 'http://www.dafont.com/nemesia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nemesia-bold.ttf'
     font 'Nemesia-italic.ttf'

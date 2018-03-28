@@ -5,7 +5,6 @@ cask 'dafont-neverland' do
     url 'http://dl.dafont.com/dl/?f=neverland'
     name 'Neverland'
     homepage 'http://www.dafont.com/neverland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEVERLAND.ttf'
 end

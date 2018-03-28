@@ -5,7 +5,6 @@ cask 'dafont-whiskey-bottle' do
     url 'http://dl.dafont.com/dl/?f=whiskey_bottle'
     name 'Whiskey Bottle'
     homepage 'http://www.dafont.com/whiskey-bottle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Whiskey Bottle.ttf'
 end

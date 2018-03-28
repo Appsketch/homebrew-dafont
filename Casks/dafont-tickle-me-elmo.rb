@@ -5,7 +5,6 @@ cask 'dafont-tickle-me-elmo' do
     url 'http://dl.dafont.com/dl/?f=tickle_me_elmo'
     name 'Tickle Me Elmo'
     homepage 'http://www.dafont.com/tickle-me-elmo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tickle Me Elmo.ttf'
 end

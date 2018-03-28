@@ -5,7 +5,6 @@ cask 'dafont-praktiscript' do
     url 'http://dl.dafont.com/dl/?f=praktiscript'
     name 'Prakti Script'
     homepage 'http://www.dafont.com/praktiscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PraktiScript.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-miura-montes' do
     url 'http://dl.dafont.com/dl/?f=miura_montes'
     name 'Miura Montes'
     homepage 'http://www.dafont.com/miura-montes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miura_DanielMontes.ttf'
 end

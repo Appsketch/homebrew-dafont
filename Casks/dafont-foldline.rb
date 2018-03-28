@@ -5,7 +5,6 @@ cask 'dafont-foldline' do
     url 'http://dl.dafont.com/dl/?f=foldline'
     name 'Fold Line'
     homepage 'http://www.dafont.com/foldline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FoldLine.ttf'
 end

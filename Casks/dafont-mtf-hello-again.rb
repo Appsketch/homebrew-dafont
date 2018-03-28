@@ -5,7 +5,6 @@ cask 'dafont-mtf-hello-again' do
     url 'http://dl.dafont.com/dl/?f=mtf_hello_again'
     name 'MTF Hello Again'
     homepage 'http://www.dafont.com/mtf-hello-again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Hello Again.ttf'
 end

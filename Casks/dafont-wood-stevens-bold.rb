@@ -5,7 +5,6 @@ cask 'dafont-wood-stevens-bold' do
     url 'http://dl.dafont.com/dl/?f=wood_stevens_bold'
     name 'Wood Stevens Bold'
     homepage 'http://www.dafont.com/wood-stevens-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wood Stevens Bold.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-light-emitting-diodes' do
     url 'http://dl.dafont.com/dl/?f=light_emitting_diodes'
     name 'Light Emitting Diodes'
     homepage 'http://www.dafont.com/light-emitting-diodes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LIGHT EMITTING DIODES.ttf'
 end

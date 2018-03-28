@@ -5,7 +5,6 @@ cask 'dafont-trulogic' do
     url 'http://dl.dafont.com/dl/?f=trulogic'
     name 'TruLogic'
     homepage 'http://www.dafont.com/trulogic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TruLogik.ttf'
 end

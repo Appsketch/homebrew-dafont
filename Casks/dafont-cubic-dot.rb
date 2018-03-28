@@ -5,7 +5,6 @@ cask 'dafont-cubic-dot' do
     url 'http://dl.dafont.com/dl/?f=cubic_dot'
     name 'Cubic Dot'
     homepage 'http://www.dafont.com/cubic-dot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CUBIC.TTF'
 end

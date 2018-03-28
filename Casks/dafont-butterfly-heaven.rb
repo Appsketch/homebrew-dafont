@@ -5,7 +5,6 @@ cask 'dafont-butterfly-heaven' do
     url 'http://dl.dafont.com/dl/?f=butterfly_heaven'
     name 'Butterfly Heaven'
     homepage 'http://www.dafont.com/butterfly-heaven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ButterflyHeaven.ttf'
 end

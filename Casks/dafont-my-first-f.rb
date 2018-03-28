@@ -5,7 +5,6 @@ cask 'dafont-my-first-f' do
     url 'http://dl.dafont.com/dl/?f=my_first_f'
     name 'My First F'
     homepage 'http://www.dafont.com/my-first-f.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My_First_F.ttf'
 end

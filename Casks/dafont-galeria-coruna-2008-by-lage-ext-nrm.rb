@@ -5,7 +5,6 @@ cask 'dafont-galeria-coruna-2008-by-lage-ext-nrm' do
     url 'http://dl.dafont.com/dl/?f=galeria_coruna_2008_by_lage_ext_nrm'
     name 'Galer&igrave;a Coru&ntilde;a 2008'
     homepage 'http://www.dafont.com/galeria-coruna-2008-by-lage-ext-nrm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GALECLEI.TTF'
     font 'GALECLER.TTF'

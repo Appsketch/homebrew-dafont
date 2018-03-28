@@ -5,7 +5,6 @@ cask 'dafont-backboard' do
     url 'http://dl.dafont.com/dl/?f=backboard'
     name 'Backboard'
     homepage 'http://www.dafont.com/backboard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BackboardOutline_FREE_FOR_PERSONAL_USE_ONLY.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-polvi-humppila-sanoo' do
     url 'http://dl.dafont.com/dl/?f=polvi_humppila_sanoo'
     name 'Polvi Humppila Sanoo'
     homepage 'http://www.dafont.com/polvi-humppila-sanoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PolviHumppilasanoo.ttf'
 end

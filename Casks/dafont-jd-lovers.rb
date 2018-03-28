@@ -5,7 +5,6 @@ cask 'dafont-jd-lovers' do
     url 'http://dl.dafont.com/dl/?f=jd_lovers'
     name 'JD Lovers'
     homepage 'http://www.dafont.com/jd-lovers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_lovers.ttf'
 end

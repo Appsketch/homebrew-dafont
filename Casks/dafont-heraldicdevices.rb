@@ -5,7 +5,6 @@ cask 'dafont-heraldicdevices' do
     url 'http://dl.dafont.com/dl/?f=heraldicdevices'
     name 'Heraldic Devices'
     homepage 'http://www.dafont.com/heraldicdevices.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heraldic Devices.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hapole-markerpen' do
     url 'http://dl.dafont.com/dl/?f=hapole_markerpen'
     name 'Hapole Markerpen'
     homepage 'http://www.dafont.com/hapole-markerpen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hapole_marker.ttf'
 end

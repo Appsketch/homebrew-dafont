@@ -5,7 +5,6 @@ cask 'dafont-strawberry-gossip' do
     url 'http://dl.dafont.com/dl/?f=strawberry_gossip'
     name 'Strawberry Gossip'
     homepage 'http://www.dafont.com/strawberry-gossip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strawberry Gossip DEMO.otf'
 end

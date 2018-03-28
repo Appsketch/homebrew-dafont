@@ -5,7 +5,6 @@ cask 'dafont-carbono-pw' do
     url 'http://dl.dafont.com/dl/?f=carbono_pw'
     name 'Carbono PW'
     homepage 'http://www.dafont.com/carbono-pw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'carbono_pw.ttf'
 end

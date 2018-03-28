@@ -5,7 +5,6 @@ cask 'dafont-expressions-of-the-soul' do
     url 'http://dl.dafont.com/dl/?f=expressions_of_the_soul'
     name 'Expressions of the soul'
     homepage 'http://www.dafont.com/expressions-of-the-soul.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'expressions of the soul.ttf'
 end

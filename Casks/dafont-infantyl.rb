@@ -5,7 +5,6 @@ cask 'dafont-infantyl' do
     url 'http://dl.dafont.com/dl/?f=infantyl'
     name 'Infantyl'
     homepage 'http://www.dafont.com/infantyl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Infantyl.ttf'
     font 'InfantylFat.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-du-bellay' do
     url 'http://dl.dafont.com/dl/?f=du_bellay'
     name 'Du Bellay'
     homepage 'http://www.dafont.com/du-bellay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dubellay.ttf'
     font 'dubellit.ttf'

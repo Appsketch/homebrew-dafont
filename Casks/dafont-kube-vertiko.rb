@@ -5,7 +5,6 @@ cask 'dafont-kube-vertiko' do
     url 'http://dl.dafont.com/dl/?f=kube_vertiko'
     name 'Kube Vertiko'
     homepage 'http://www.dafont.com/kube-vertiko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kube Vertiko.ttf'
 end

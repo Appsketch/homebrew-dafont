@@ -5,7 +5,6 @@ cask 'dafont-djb-annalise' do
     url 'http://dl.dafont.com/dl/?f=djb_annalise'
     name 'DJB Annalise'
     homepage 'http://www.dafont.com/djb-annalise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Annalise the Bold.ttf'
     font 'DJB Annalise the Brave.ttf'

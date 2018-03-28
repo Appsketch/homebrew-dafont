@@ -5,7 +5,6 @@ cask 'dafont-sebastian-informal' do
     url 'http://dl.dafont.com/dl/?f=sebastian_informal'
     name 'Sebastian Informal'
     homepage 'http://www.dafont.com/sebastian-informal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEBASTIAN_INFORMAL.otf'
 end

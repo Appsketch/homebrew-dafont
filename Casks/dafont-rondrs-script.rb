@@ -5,7 +5,6 @@ cask 'dafont-rondrs-script' do
     url 'http://dl.dafont.com/dl/?f=rondrs_script'
     name 'RonDRs Script'
     homepage 'http://www.dafont.com/rondrs-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RonDRs Script.ttf'
 end

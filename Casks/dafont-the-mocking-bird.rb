@@ -5,7 +5,6 @@ cask 'dafont-the-mocking-bird' do
     url 'http://dl.dafont.com/dl/?f=the_mocking_bird'
     name 'The Mocking Bird'
     homepage 'http://www.dafont.com/the-mocking-bird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Mocking Bird.ttf'
 end

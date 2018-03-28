@@ -5,7 +5,6 @@ cask 'dafont-maschinen' do
     url 'http://dl.dafont.com/dl/?f=maschinen'
     name 'Maschinen'
     homepage 'http://www.dafont.com/maschinen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MASCE___.TTF'
     font 'MASCEL__.TTF'

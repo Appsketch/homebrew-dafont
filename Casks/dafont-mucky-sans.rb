@@ -5,7 +5,6 @@ cask 'dafont-mucky-sans' do
     url 'http://dl.dafont.com/dl/?f=mucky_sans'
     name 'Mucky Sans'
     homepage 'http://www.dafont.com/mucky-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mucky Sans.ttf'
 end

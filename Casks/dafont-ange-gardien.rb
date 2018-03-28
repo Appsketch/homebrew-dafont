@@ -5,7 +5,6 @@ cask 'dafont-ange-gardien' do
     url 'http://dl.dafont.com/dl/?f=ange_gardien'
     name 'Ange Gardien'
     homepage 'http://www.dafont.com/ange-gardien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANGEG___.TTF'
 end

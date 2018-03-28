@@ -5,7 +5,6 @@ cask 'dafont-barbies-jalous-sisters' do
     url 'http://dl.dafont.com/dl/?f=barbies_jalous_sisters'
     name 'Barbies Jalous Sisters'
     homepage 'http://www.dafont.com/barbies-jalous-sisters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BarbiesJalousSisters.otf'
 end

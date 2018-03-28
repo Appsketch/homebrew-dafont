@@ -5,7 +5,6 @@ cask 'dafont-dabre-grunge' do
     url 'http://dl.dafont.com/dl/?f=dabre_grunge'
     name 'Dabre Grunge'
     homepage 'http://www.dafont.com/dabre-grunge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dabre Grunge.otf'
 end

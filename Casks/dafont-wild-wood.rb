@@ -5,7 +5,6 @@ cask 'dafont-wild-wood' do
     url 'http://dl.dafont.com/dl/?f=wild_wood'
     name 'Wild Wood'
     homepage 'http://www.dafont.com/wild-wood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JFWilwod.ttf'
 end

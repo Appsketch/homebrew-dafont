@@ -5,7 +5,6 @@ cask 'dafont-electric-toaster' do
     url 'http://dl.dafont.com/dl/?f=electric_toaster'
     name 'Electric Toaster'
     homepage 'http://www.dafont.com/electric-toaster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'electric.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-middleschoolsucks' do
     url 'http://dl.dafont.com/dl/?f=middleschoolsucks'
     name 'Middle School Sucks'
     homepage 'http://www.dafont.com/middleschoolsucks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiddleSchoolSucks1.ttf'
 end

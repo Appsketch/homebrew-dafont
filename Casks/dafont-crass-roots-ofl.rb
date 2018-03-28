@@ -5,7 +5,6 @@ cask 'dafont-crass-roots-ofl' do
     url 'http://dl.dafont.com/dl/?f=_crass_roots_ofl'
     name '!Crass Roots OFL'
     homepage 'http://www.dafont.com/-crass-roots-ofl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '!CRASS ROOTS OFL.ttf'
 end

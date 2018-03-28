@@ -5,7 +5,6 @@ cask 'dafont-shell-gate' do
     url 'http://dl.dafont.com/dl/?f=shell_gate'
     name 'Shell Gate'
     homepage 'http://www.dafont.com/shell-gate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shell Gate.ttf'
 end

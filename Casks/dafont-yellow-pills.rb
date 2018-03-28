@@ -5,7 +5,6 @@ cask 'dafont-yellow-pills' do
     url 'http://dl.dafont.com/dl/?f=yellow_pills'
     name 'Yellow Pills'
     homepage 'http://www.dafont.com/yellow-pills.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YELLOWPI.TTF'
 end

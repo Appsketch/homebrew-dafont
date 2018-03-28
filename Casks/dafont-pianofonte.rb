@@ -5,7 +5,6 @@ cask 'dafont-pianofonte' do
     url 'http://dl.dafont.com/dl/?f=pianofonte'
     name 'PianoFonte'
     homepage 'http://www.dafont.com/pianofonte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PianoFonte.ttf'
 end

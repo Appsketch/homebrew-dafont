@@ -5,7 +5,6 @@ cask 'dafont-aubrey' do
     url 'http://dl.dafont.com/dl/?f=aubrey'
     name 'Aubrey'
     homepage 'http://www.dafont.com/aubrey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AUBREY1__.TTF'
 end

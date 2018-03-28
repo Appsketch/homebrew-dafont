@@ -5,7 +5,6 @@ cask 'dafont-aleijadinho' do
     url 'http://dl.dafont.com/dl/?f=aleijadinho'
     name 'Aleijadinho'
     homepage 'http://www.dafont.com/aleijadinho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aleijadinho.ttf'
 end

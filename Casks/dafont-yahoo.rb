@@ -5,7 +5,6 @@ cask 'dafont-yahoo' do
     url 'http://dl.dafont.com/dl/?f=yahoo'
     name 'Yahoo'
     homepage 'http://www.dafont.com/yahoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yahoo.ttf'
 end

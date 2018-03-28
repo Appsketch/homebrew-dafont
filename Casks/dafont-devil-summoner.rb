@@ -5,7 +5,6 @@ cask 'dafont-devil-summoner' do
     url 'http://dl.dafont.com/dl/?f=devil_summoner'
     name 'Devil Summoner'
     homepage 'http://www.dafont.com/devil-summoner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'devilsummoner.ttf'
     font 'devilsummoner3d.ttf'

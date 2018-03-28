@@ -5,7 +5,6 @@ cask 'dafont-viimeinen-syksy' do
     url 'http://dl.dafont.com/dl/?f=viimeinen_syksy'
     name 'Viimeinen syksy'
     homepage 'http://www.dafont.com/viimeinen-syksy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Viimeinen syksy.ttf'
 end

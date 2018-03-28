@@ -5,7 +5,6 @@ cask 'dafont-token' do
     url 'http://dl.dafont.com/dl/?f=token'
     name 'Token'
     homepage 'http://www.dafont.com/token.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Token.ttf'
 end

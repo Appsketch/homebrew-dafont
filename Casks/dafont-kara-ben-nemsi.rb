@@ -5,7 +5,6 @@ cask 'dafont-kara-ben-nemsi' do
     url 'http://dl.dafont.com/dl/?f=kara_ben_nemsi'
     name 'Kara Ben Nemsi'
     homepage 'http://www.dafont.com/kara-ben-nemsi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KaraBenNemsi.ttf'
 end

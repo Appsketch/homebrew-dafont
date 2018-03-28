@@ -5,7 +5,6 @@ cask 'dafont-yolasm' do
     url 'http://dl.dafont.com/dl/?f=yolasm'
     name 'YolAsm'
     homepage 'http://www.dafont.com/yolasm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YolAsm.ttf'
 end

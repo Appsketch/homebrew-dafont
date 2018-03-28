@@ -5,7 +5,6 @@ cask 'dafont-mf-feel-my-heart' do
     url 'http://dl.dafont.com/dl/?f=mf_feel_my_heart'
     name 'Mf Feel My Heart'
     homepage 'http://www.dafont.com/mf-feel-my-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Feel My Heart.ttf'
 end

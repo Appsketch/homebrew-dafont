@@ -5,7 +5,6 @@ cask 'dafont-charles-in-charge' do
     url 'http://dl.dafont.com/dl/?f=charles_in_charge'
     name 'Charles in Charge'
     homepage 'http://www.dafont.com/charles-in-charge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'charles in charge.ttf'
 end

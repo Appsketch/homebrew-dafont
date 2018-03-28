@@ -5,7 +5,6 @@ cask 'dafont-bd-tinyfont' do
     url 'http://dl.dafont.com/dl/?f=bd_tinyfont'
     name 'BD Tinyfont'
     homepage 'http://www.dafont.com/bd-tinyfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BD_Tinyfont.ttf'
 end

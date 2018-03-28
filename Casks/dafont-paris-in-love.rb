@@ -5,7 +5,6 @@ cask 'dafont-paris-in-love' do
     url 'http://dl.dafont.com/dl/?f=paris_in_love'
     name 'Paris in Love'
     homepage 'http://www.dafont.com/paris-in-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paris in Love.ttf'
 end

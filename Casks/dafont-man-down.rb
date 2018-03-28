@@ -5,7 +5,6 @@ cask 'dafont-man-down' do
     url 'http://dl.dafont.com/dl/?f=man_down'
     name 'Man Down'
     homepage 'http://www.dafont.com/man-down.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Man Down.otf'
 end

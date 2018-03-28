@@ -5,7 +5,6 @@ cask 'dafont-begok' do
     url 'http://dl.dafont.com/dl/?f=begok'
     name 'Begok'
     homepage 'http://www.dafont.com/begok.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Begok regular free promo.ttf'
 end

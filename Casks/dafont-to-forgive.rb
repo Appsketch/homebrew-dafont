@@ -5,7 +5,6 @@ cask 'dafont-to-forgive' do
     url 'http://dl.dafont.com/dl/?f=to_forgive'
     name 'To Forgive'
     homepage 'http://www.dafont.com/to-forgive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOFORGIVE.TTF'
 end

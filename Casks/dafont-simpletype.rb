@@ -5,7 +5,6 @@ cask 'dafont-simpletype' do
     url 'http://dl.dafont.com/dl/?f=simpletype'
     name 'Simpletype'
     homepage 'http://www.dafont.com/simpletype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simpletype.ttf'
 end

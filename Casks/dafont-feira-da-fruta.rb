@@ -5,7 +5,6 @@ cask 'dafont-feira-da-fruta' do
     url 'http://dl.dafont.com/dl/?f=feira_da_fruta'
     name 'Feira da Fruta'
     homepage 'http://www.dafont.com/feira-da-fruta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Feira da Fruta.ttf'
 end

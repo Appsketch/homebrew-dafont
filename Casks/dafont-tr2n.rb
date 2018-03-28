@@ -5,7 +5,6 @@ cask 'dafont-tr2n' do
     url 'http://dl.dafont.com/dl/?f=tr2n'
     name 'TR2N'
     homepage 'http://www.dafont.com/tr2n.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tr2n.ttf'
 end

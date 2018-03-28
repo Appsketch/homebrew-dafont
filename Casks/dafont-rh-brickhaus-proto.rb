@@ -5,7 +5,6 @@ cask 'dafont-rh-brickhaus-proto' do
     url 'http://dl.dafont.com/dl/?f=rh_brickhaus_proto'
     name 'RH Brickhaus Proto'
     homepage 'http://www.dafont.com/rh-brickhaus-proto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RH_Brickhaus_Proto_Plasm.ttf'
     font 'RH_Brickhaus_Proto_Saurus.ttf'

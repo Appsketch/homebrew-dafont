@@ -5,7 +5,6 @@ cask 'dafont-warm-milk' do
     url 'http://dl.dafont.com/dl/?f=warm_milk'
     name 'Warm Milk'
     homepage 'http://www.dafont.com/warm-milk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Warm milk.ttf'
 end

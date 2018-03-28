@@ -5,7 +5,6 @@ cask 'dafont-filler' do
     url 'http://dl.dafont.com/dl/?f=filler'
     name 'Filler'
     homepage 'http://www.dafont.com/filler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'filler_.ttf'
 end

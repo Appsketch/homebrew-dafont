@@ -5,7 +5,6 @@ cask 'dafont-chromia' do
     url 'http://dl.dafont.com/dl/?f=chromia'
     name 'Chromia'
     homepage 'http://www.dafont.com/chromia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chromia Bold Italic.otf'
     font 'Chromia Bold.otf'

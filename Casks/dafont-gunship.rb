@@ -5,7 +5,6 @@ cask 'dafont-gunship' do
     url 'http://dl.dafont.com/dl/?f=gunship'
     name 'Gunship'
     homepage 'http://www.dafont.com/gunship.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gunship.ttf'
     font 'gunship3d.ttf'

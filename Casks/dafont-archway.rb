@@ -5,7 +5,6 @@ cask 'dafont-archway' do
     url 'http://dl.dafont.com/dl/?f=archway'
     name 'Archway'
     homepage 'http://www.dafont.com/archway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARCHWAY_.TTF'
 end

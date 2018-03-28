@@ -5,7 +5,6 @@ cask 'dafont-dropy' do
     url 'http://dl.dafont.com/dl/?f=dropy'
     name 'Dropy'
     homepage 'http://www.dafont.com/dropy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dropy.ttf'
 end

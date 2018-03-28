@@ -5,7 +5,6 @@ cask 'dafont-human-silhouettes-free-two' do
     url 'http://dl.dafont.com/dl/?f=human_silhouettes_free_two'
     name 'Human Silhouettes Two'
     homepage 'http://www.dafont.com/human-silhouettes-free-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Human Silhouettes Free Two.ttf'
 end

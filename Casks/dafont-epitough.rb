@@ -5,7 +5,6 @@ cask 'dafont-epitough' do
     url 'http://dl.dafont.com/dl/?f=epitough'
     name 'Epitough'
     homepage 'http://www.dafont.com/epitough.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EPITOUGH.TTF'
 end

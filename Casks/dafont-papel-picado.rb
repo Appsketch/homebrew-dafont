@@ -5,7 +5,6 @@ cask 'dafont-papel-picado' do
     url 'http://dl.dafont.com/dl/?f=papel_picado'
     name 'Papel Picado'
     homepage 'http://www.dafont.com/papel-picado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'papelpicado-Regular.otf'
 end

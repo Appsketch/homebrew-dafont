@@ -5,7 +5,6 @@ cask 'dafont-chicago-by-benj-funk' do
     url 'http://dl.dafont.com/dl/?f=chicago_by_benj_funk'
     name 'Chicago'
     homepage 'http://www.dafont.com/chicago-by-benj-funk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chicago by Benj Funk.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kg-a-little-swag' do
     url 'http://dl.dafont.com/dl/?f=kg_a_little_swag'
     name 'KG A Little Swag'
     homepage 'http://www.dafont.com/kg-a-little-swag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGALittleSwag.ttf'
 end

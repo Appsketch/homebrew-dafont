@@ -5,7 +5,6 @@ cask 'dafont-simplychalky' do
     url 'http://dl.dafont.com/dl/?f=simplychalky'
     name 'Simply Chalky'
     homepage 'http://www.dafont.com/simplychalky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SimplyChalky.ttf'
 end

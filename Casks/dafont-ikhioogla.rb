@@ -5,7 +5,6 @@ cask 'dafont-ikhioogla' do
     url 'http://dl.dafont.com/dl/?f=ikhioogla'
     name 'Ikhioogla'
     homepage 'http://www.dafont.com/ikhioogla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IKHIOOGLA.ttf'
     font 'IKHIOOGLA2.ttf'

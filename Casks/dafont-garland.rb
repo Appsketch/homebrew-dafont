@@ -5,7 +5,6 @@ cask 'dafont-garland' do
     url 'http://dl.dafont.com/dl/?f=garland'
     name 'Garland'
     homepage 'http://www.dafont.com/garland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'garland.ttf'
 end

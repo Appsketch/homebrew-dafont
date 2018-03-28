@@ -5,7 +5,6 @@ cask 'dafont-xiomara' do
     url 'http://dl.dafont.com/dl/?f=xiomara'
     name 'Xiomara'
     homepage 'http://www.dafont.com/xiomara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xiomara-Script.ttf'
 end

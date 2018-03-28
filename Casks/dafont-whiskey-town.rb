@@ -5,7 +5,6 @@ cask 'dafont-whiskey-town' do
     url 'http://dl.dafont.com/dl/?f=whiskey_town'
     name 'Whiskey Town'
     homepage 'http://www.dafont.com/whiskey-town.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Whiskey Town-Drunk.ttf'
     font 'Whiskey_Town-Buzzed.ttf'

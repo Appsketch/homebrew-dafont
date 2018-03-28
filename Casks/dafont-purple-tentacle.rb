@@ -5,7 +5,6 @@ cask 'dafont-purple-tentacle' do
     url 'http://dl.dafont.com/dl/?f=purple_tentacle'
     name 'Purple Tentacle'
     homepage 'http://www.dafont.com/purple-tentacle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'purptete.ttf'
 end

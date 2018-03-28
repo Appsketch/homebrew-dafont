@@ -5,7 +5,6 @@ cask 'dafont-cubesity' do
     url 'http://dl.dafont.com/dl/?f=cubesity'
     name 'Cubesity'
     homepage 'http://www.dafont.com/cubesity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cubesity outline v2.ttf'
     font 'Cubesity v2.ttf'

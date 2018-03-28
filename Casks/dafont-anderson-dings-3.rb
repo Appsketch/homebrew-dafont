@@ -5,7 +5,6 @@ cask 'dafont-anderson-dings-3' do
     url 'http://dl.dafont.com/dl/?f=anderson_dings_3'
     name 'Anderson Dings 3'
     homepage 'http://www.dafont.com/anderson-dings-3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anderson Dings 3 (v2).ttf'
 end

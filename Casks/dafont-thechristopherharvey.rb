@@ -5,7 +5,6 @@ cask 'dafont-thechristopherharvey' do
     url 'http://dl.dafont.com/dl/?f=thechristopherharvey'
     name 'The Christopher Harvey'
     homepage 'http://www.dafont.com/thechristopherharvey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheChristopherHarvey.otf'
 end

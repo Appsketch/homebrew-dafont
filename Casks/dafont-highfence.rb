@@ -5,7 +5,6 @@ cask 'dafont-highfence' do
     url 'http://dl.dafont.com/dl/?f=highfence'
     name 'High Fence'
     homepage 'http://www.dafont.com/highfence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighFence.ttf'
 end

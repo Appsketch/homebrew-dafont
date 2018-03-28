@@ -5,7 +5,6 @@ cask 'dafont-jgj-roman-rustic' do
     url 'http://dl.dafont.com/dl/?f=jgj_roman_rustic'
     name 'JGJ Roman Rustic'
     homepage 'http://www.dafont.com/jgj-roman-rustic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JGJRR___.TTF'
     font 'JGJRRB__.TTF'

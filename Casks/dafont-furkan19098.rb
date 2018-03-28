@@ -5,7 +5,6 @@ cask 'dafont-furkan19098' do
     url 'http://dl.dafont.com/dl/?f=furkan19098'
     name 'Furkan19098'
     homepage 'http://www.dafont.com/furkan19098.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'furkan19098.ttf'
 end

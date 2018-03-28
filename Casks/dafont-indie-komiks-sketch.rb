@@ -5,7 +5,6 @@ cask 'dafont-indie-komiks-sketch' do
     url 'http://dl.dafont.com/dl/?f=indie_komiks_sketch'
     name 'Indie Komiks Sketch'
     homepage 'http://www.dafont.com/indie-komiks-sketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INDIKSB_0.TTF'
     font 'INDIKSBI_0.TTF'

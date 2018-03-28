@@ -5,7 +5,6 @@ cask 'dafont-mossy' do
     url 'http://dl.dafont.com/dl/?f=mossy'
     name 'Mossy'
     homepage 'http://www.dafont.com/mossy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mossy.ttf'
 end

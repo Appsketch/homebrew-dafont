@@ -5,7 +5,6 @@ cask 'dafont-stitchytimes' do
     url 'http://dl.dafont.com/dl/?f=stitchytimes'
     name 'Stitchy Times'
     homepage 'http://www.dafont.com/stitchytimes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StitchyTimes.ttf'
 end

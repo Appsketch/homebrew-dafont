@@ -5,7 +5,6 @@ cask 'dafont-mojito-in-june' do
     url 'http://dl.dafont.com/dl/?f=mojito_in_june'
     name 'Mojito in June'
     homepage 'http://www.dafont.com/mojito-in-june.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mojito in June.ttf'
 end

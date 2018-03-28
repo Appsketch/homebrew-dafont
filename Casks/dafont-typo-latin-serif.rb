@@ -5,7 +5,6 @@ cask 'dafont-typo-latin-serif' do
     url 'http://dl.dafont.com/dl/?f=typo_latin_serif'
     name 'Typo Latin Serif'
     homepage 'http://www.dafont.com/typo-latin-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TypoLatinserif-Bold.ttf'
 end

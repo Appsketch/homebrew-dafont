@@ -5,7 +5,6 @@ cask 'dafont-peppa-pig2' do
     url 'http://dl.dafont.com/dl/?f=peppa_pig2'
     name 'Peppa Pig'
     homepage 'http://www.dafont.com/peppa-pig2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peppa Pig.ttf'
 end

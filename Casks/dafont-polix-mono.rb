@@ -5,7 +5,6 @@ cask 'dafont-polix-mono' do
     url 'http://dl.dafont.com/dl/?f=polix_mono'
     name 'Polix Mono'
     homepage 'http://www.dafont.com/polix-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'polix_mono.ttf'
 end

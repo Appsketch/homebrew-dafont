@@ -5,7 +5,6 @@ cask 'dafont-elegante-cloutier' do
     url 'http://dl.dafont.com/dl/?f=elegante_cloutier'
     name 'Elegante'
     homepage 'http://www.dafont.com/elegante-cloutier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elegante-Regular.ttf'
 end

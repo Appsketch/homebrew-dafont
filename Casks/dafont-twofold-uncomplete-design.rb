@@ -5,7 +5,6 @@ cask 'dafont-twofold-uncomplete-design' do
     url 'http://dl.dafont.com/dl/?f=twofold_uncomplete_design'
     name 'Twofold Uncomplete Design'
     homepage 'http://www.dafont.com/twofold-uncomplete-design.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TWOFOLD uncomplete DeSigN.ttf'
 end

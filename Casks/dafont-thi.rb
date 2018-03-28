@@ -5,7 +5,6 @@ cask 'dafont-thi' do
     url 'http://dl.dafont.com/dl/?f=thi'
     name 'Thi'
     homepage 'http://www.dafont.com/thi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thi.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nosferatu' do
     url 'http://dl.dafont.com/dl/?f=nosferatu'
     name 'Nosferatu'
     homepage 'http://www.dafont.com/nosferatu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NO.TTF'
     font 'Nosfo___.ttf'

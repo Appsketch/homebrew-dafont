@@ -5,7 +5,6 @@ cask 'dafont-empire-crown' do
     url 'http://dl.dafont.com/dl/?f=empire_crown'
     name 'Empire Crown'
     homepage 'http://www.dafont.com/empire-crown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'empirecrown.ttf'
     font 'empirecrown3d.ttf'

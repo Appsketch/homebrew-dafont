@@ -5,7 +5,6 @@ cask 'dafont-circoex' do
     url 'http://dl.dafont.com/dl/?f=circoex'
     name 'Circoex'
     homepage 'http://www.dafont.com/circoex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'circoex3_14-12-11.ttf'
 end

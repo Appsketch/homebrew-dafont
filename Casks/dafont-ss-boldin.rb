@@ -5,7 +5,6 @@ cask 'dafont-ss-boldin' do
     url 'http://dl.dafont.com/dl/?f=ss_boldin'
     name 'SS Boldin'
     homepage 'http://www.dafont.com/ss-boldin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'black.otf'
     font 'boldin bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-quatl' do
     url 'http://dl.dafont.com/dl/?f=quatl'
     name 'Quatl'
     homepage 'http://www.dafont.com/quatl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quatl.ttf'
     font 'quatlb.ttf'

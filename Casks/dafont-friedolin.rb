@@ -5,7 +5,6 @@ cask 'dafont-friedolin' do
     url 'http://dl.dafont.com/dl/?f=friedolin'
     name 'Friedolin'
     homepage 'http://www.dafont.com/friedolin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Friedolin.ttf'
 end

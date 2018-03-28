@@ -5,7 +5,6 @@ cask 'dafont-mf-texas-spring' do
     url 'http://dl.dafont.com/dl/?f=mf_texas_spring'
     name 'Mf Texas Spring'
     homepage 'http://www.dafont.com/mf-texas-spring.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Texas Spring.ttf'
 end

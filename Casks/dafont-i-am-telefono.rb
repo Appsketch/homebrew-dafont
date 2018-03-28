@@ -5,7 +5,6 @@ cask 'dafont-i-am-telefono' do
     url 'http://dl.dafont.com/dl/?f=i_am_telefono'
     name 'I Am Telefono'
     homepage 'http://www.dafont.com/i-am-telefono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I-AM-TELEFONO-ICONS-FONT.ttf'
 end

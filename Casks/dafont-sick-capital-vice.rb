@@ -5,7 +5,6 @@ cask 'dafont-sick-capital-vice' do
     url 'http://dl.dafont.com/dl/?f=sick_capital_vice'
     name 'Sick Capital Vice'
     homepage 'http://www.dafont.com/sick-capital-vice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sickcapital-vice.ttf'
 end

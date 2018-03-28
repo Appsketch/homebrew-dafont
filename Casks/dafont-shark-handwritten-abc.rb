@@ -5,7 +5,6 @@ cask 'dafont-shark-handwritten-abc' do
     url 'http://dl.dafont.com/dl/?f=shark_handwritten_abc'
     name 'Shark HandWritten ABC'
     homepage 'http://www.dafont.com/shark-handwritten-abc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sharkhandwriteabc.ttf'
 end

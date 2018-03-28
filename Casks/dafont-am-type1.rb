@@ -5,7 +5,6 @@ cask 'dafont-am-type1' do
     url 'http://dl.dafont.com/dl/?f=am_type1'
     name 'AM Type1'
     homepage 'http://www.dafont.com/am-type1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AM_TP001.TTF'
 end

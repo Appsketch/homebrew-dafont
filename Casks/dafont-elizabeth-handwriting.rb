@@ -5,7 +5,6 @@ cask 'dafont-elizabeth-handwriting' do
     url 'http://dl.dafont.com/dl/?f=elizabeth_handwriting'
     name 'Elizabeth Handwriting'
     homepage 'http://www.dafont.com/elizabeth-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elizabeth_Handwriting.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-superdrag' do
     url 'http://dl.dafont.com/dl/?f=superdrag'
     name 'SuperDrag'
     homepage 'http://www.dafont.com/superdrag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuperDrag.ttf'
 end

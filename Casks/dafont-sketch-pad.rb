@@ -5,7 +5,6 @@ cask 'dafont-sketch-pad' do
     url 'http://dl.dafont.com/dl/?f=sketch_pad'
     name 'Sketch Pad'
     homepage 'http://www.dafont.com/sketch-pad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketch Pad.ttf'
 end

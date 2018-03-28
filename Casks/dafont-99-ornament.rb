@@ -5,7 +5,6 @@ cask 'dafont-99-ornament' do
     url 'http://dl.dafont.com/dl/?f=99_ornament'
     name '99% Ornament'
     homepage 'http://www.dafont.com/99-ornament.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '99%Ornament Reg.otf'
 end

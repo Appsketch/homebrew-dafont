@@ -5,7 +5,6 @@ cask 'dafont-filament' do
     url 'http://dl.dafont.com/dl/?f=filament'
     name 'Filament'
     homepage 'http://www.dafont.com/filament.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FILAMENT.ttf'
 end

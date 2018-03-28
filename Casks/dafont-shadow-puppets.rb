@@ -5,7 +5,6 @@ cask 'dafont-shadow-puppets' do
     url 'http://dl.dafont.com/dl/?f=shadow_puppets'
     name 'Shadow Puppets'
     homepage 'http://www.dafont.com/shadow-puppets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShadowPuppets.ttf'
 end

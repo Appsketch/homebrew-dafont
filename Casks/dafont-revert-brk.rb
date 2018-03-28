@@ -5,7 +5,6 @@ cask 'dafont-revert-brk' do
     url 'http://dl.dafont.com/dl/?f=revert_brk'
     name 'Revert BRK'
     homepage 'http://www.dafont.com/revert-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'revert.ttf'
     font 'revertro.ttf'

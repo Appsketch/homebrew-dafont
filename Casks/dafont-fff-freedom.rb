@@ -5,7 +5,6 @@ cask 'dafont-fff-freedom' do
     url 'http://dl.dafont.com/dl/?f=fff_freedom'
     name 'FFF Freedom'
     homepage 'http://www.dafont.com/fff-freedom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FFFFREED.TTF'
 end

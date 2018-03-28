@@ -5,7 +5,6 @@ cask 'dafont-beth-luis' do
     url 'http://dl.dafont.com/dl/?f=beth_luis'
     name 'Beth Luis Nion + Fearn'
     homepage 'http://www.dafont.com/beth-luis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLF.TTF'
     font 'BLN.TTF'

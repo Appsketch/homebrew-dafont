@@ -5,7 +5,6 @@ cask 'dafont-halfmoon' do
     url 'http://dl.dafont.com/dl/?f=halfmoon'
     name 'Halfmoon'
     homepage 'http://www.dafont.com/halfmoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'halfmoon_bold.ttf'
     font 'Halfmoon.ttf'

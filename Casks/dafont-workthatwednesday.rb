@@ -5,7 +5,6 @@ cask 'dafont-workthatwednesday' do
     url 'http://dl.dafont.com/dl/?f=workthatwednesday'
     name 'Work That Wednesday'
     homepage 'http://www.dafont.com/workthatwednesday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WorkThatWednesday.ttf'
 end

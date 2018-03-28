@@ -5,7 +5,6 @@ cask 'dafont-christmasgocdani' do
     url 'http://dl.dafont.com/dl/?f=christmasgocdani'
     name 'ChristmasgocDani'
     homepage 'http://www.dafont.com/christmasgocdani.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChristmasgocDani.ttf'
 end

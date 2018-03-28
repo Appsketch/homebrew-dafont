@@ -5,7 +5,6 @@ cask 'dafont-djb-just-an-outty' do
     url 'http://dl.dafont.com/dl/?f=djb_just_an_outty'
     name 'DJB Just an Outty'
     homepage 'http://www.dafont.com/djb-just-an-outty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Just an Outty.ttf'
 end

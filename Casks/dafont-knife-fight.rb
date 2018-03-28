@@ -5,7 +5,6 @@ cask 'dafont-knife-fight' do
     url 'http://dl.dafont.com/dl/?f=knife_fight'
     name 'Knife Fight'
     homepage 'http://www.dafont.com/knife-fight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KnifeFight.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kinderfeld' do
     url 'http://dl.dafont.com/dl/?f=kinderfeld'
     name 'Kinderfeld'
     homepage 'http://www.dafont.com/kinderfeld.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KINDA___.TTF'
 end

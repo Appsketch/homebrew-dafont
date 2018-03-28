@@ -5,7 +5,6 @@ cask 'dafont-gregs-hand2' do
     url 'http://dl.dafont.com/dl/?f=gregs_hand2'
     name 'Gregs hand'
     homepage 'http://www.dafont.com/gregs-hand2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gregs hand.ttf'
 end

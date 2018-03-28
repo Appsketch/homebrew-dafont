@@ -5,7 +5,6 @@ cask 'dafont-invertage' do
     url 'http://dl.dafont.com/dl/?f=invertage'
     name 'Invertage'
     homepage 'http://www.dafont.com/invertage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Invertage.ttf'
 end

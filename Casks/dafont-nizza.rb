@@ -5,7 +5,6 @@ cask 'dafont-nizza' do
     url 'http://dl.dafont.com/dl/?f=nizza'
     name 'Nizza'
     homepage 'http://www.dafont.com/nizza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nizza_Regular_Free_For_Personal_Use.ttf'
 end

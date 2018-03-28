@@ -5,7 +5,6 @@ cask 'dafont-sunday-mornings' do
     url 'http://dl.dafont.com/dl/?f=sunday_mornings'
     name 'Sunday Mornings'
     homepage 'http://www.dafont.com/sunday-mornings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sunday Mornings.otf'
 end

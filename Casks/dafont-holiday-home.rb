@@ -5,7 +5,6 @@ cask 'dafont-holiday-home' do
     url 'http://dl.dafont.com/dl/?f=holiday_home'
     name 'Holiday Home'
     homepage 'http://www.dafont.com/holiday-home.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Holiday_Home.ttf'
 end

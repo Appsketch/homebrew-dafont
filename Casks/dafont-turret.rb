@@ -5,7 +5,6 @@ cask 'dafont-turret' do
     url 'http://dl.dafont.com/dl/?f=turret'
     name 'Turret'
     homepage 'http://www.dafont.com/turret.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Turret.ttf'
 end

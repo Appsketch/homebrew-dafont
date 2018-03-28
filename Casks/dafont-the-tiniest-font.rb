@@ -5,7 +5,6 @@ cask 'dafont-the-tiniest-font' do
     url 'http://dl.dafont.com/dl/?f=the_tiniest_font'
     name 'The tiniest font'
     homepage 'http://www.dafont.com/the-tiniest-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thetiniestfont.ttf'
 end

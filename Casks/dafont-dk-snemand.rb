@@ -5,7 +5,6 @@ cask 'dafont-dk-snemand' do
     url 'http://dl.dafont.com/dl/?f=dk_snemand'
     name 'DK Snemand'
     homepage 'http://www.dafont.com/dk-snemand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Snemand.otf'
 end

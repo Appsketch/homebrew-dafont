@@ -5,7 +5,6 @@ cask 'dafont-bent-wire' do
     url 'http://dl.dafont.com/dl/?f=bent_wire'
     name 'Bent Wire'
     homepage 'http://www.dafont.com/bent-wire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BENTWIRE.ttf'
 end

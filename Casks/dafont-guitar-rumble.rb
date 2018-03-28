@@ -5,7 +5,6 @@ cask 'dafont-guitar-rumble' do
     url 'http://dl.dafont.com/dl/?f=guitar_rumble'
     name 'Guitar Rumble'
     homepage 'http://www.dafont.com/guitar-rumble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Guitar Rumble.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sc-gum-kids' do
     url 'http://dl.dafont.com/dl/?f=sc_gum_kids'
     name 'SC Gum Kids'
     homepage 'http://www.dafont.com/sc-gum-kids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SC Gum Kids.ttf'
 end

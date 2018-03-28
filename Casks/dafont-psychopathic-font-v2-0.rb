@@ -5,7 +5,6 @@ cask 'dafont-psychopathic-font-v2-0' do
     url 'http://dl.dafont.com/dl/?f=psychopathic_font_v2_0'
     name 'Psychopathic Font'
     homepage 'http://www.dafont.com/psychopathic-font-v2-0.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'psy_font2.ttf'
 end

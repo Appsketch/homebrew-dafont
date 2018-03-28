@@ -5,7 +5,6 @@ cask 'dafont-youtubers' do
     url 'http://dl.dafont.com/dl/?f=youtubers'
     name 'Youtubers'
     homepage 'http://www.dafont.com/youtubers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Youtubers.ttf'
 end

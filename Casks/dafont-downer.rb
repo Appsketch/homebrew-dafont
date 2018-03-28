@@ -5,7 +5,6 @@ cask 'dafont-downer' do
     url 'http://dl.dafont.com/dl/?f=downer'
     name 'Downer'
     homepage 'http://www.dafont.com/downer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'downer.ttf'
 end

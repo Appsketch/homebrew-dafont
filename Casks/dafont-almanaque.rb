@@ -5,7 +5,6 @@ cask 'dafont-almanaque' do
     url 'http://dl.dafont.com/dl/?f=almanaque'
     name 'Almanaque'
     homepage 'http://www.dafont.com/almanaque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALMAI___.TTF'
     font 'ALMAN___.TTF'

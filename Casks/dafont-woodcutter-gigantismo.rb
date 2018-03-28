@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-gigantismo' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_gigantismo'
     name 'Woodcutter Gigantismo'
     homepage 'http://www.dafont.com/woodcutter-gigantismo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Gigantismo.ttf'
 end

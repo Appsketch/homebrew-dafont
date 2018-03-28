@@ -5,7 +5,6 @@ cask 'dafont-poker-kings' do
     url 'http://dl.dafont.com/dl/?f=poker_kings'
     name 'Poker Kings'
     homepage 'http://www.dafont.com/poker-kings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PokerKings-Regular.ttf'
 end

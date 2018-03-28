@@ -5,7 +5,6 @@ cask 'dafont-island-roman' do
     url 'http://dl.dafont.com/dl/?f=island_roman'
     name 'Island Roman'
     homepage 'http://www.dafont.com/island-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Island_Roman.ttf'
 end

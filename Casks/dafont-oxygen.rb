@@ -5,7 +5,6 @@ cask 'dafont-oxygen' do
     url 'http://dl.dafont.com/dl/?f=oxygen'
     name 'Oxygen'
     homepage 'http://www.dafont.com/oxygen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oxygen.otf'
 end

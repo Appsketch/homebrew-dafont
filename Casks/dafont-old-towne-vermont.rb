@@ -5,7 +5,6 @@ cask 'dafont-old-towne-vermont' do
     url 'http://dl.dafont.com/dl/?f=old_towne_vermont'
     name 'Old Towne Vermont'
     homepage 'http://www.dafont.com/old-towne-vermont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old Towne Vermont.ttf'
 end

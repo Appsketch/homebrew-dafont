@@ -5,7 +5,6 @@ cask 'dafont-cirqua' do
     url 'http://dl.dafont.com/dl/?f=cirqua'
     name 'Cirqua'
     homepage 'http://www.dafont.com/cirqua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cirqua v2-1.ttf'
 end

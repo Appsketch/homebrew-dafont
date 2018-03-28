@@ -5,7 +5,6 @@ cask 'dafont-punk-dingbats' do
     url 'http://dl.dafont.com/dl/?f=punk_dingbats'
     name 'Punk Dingbats'
     homepage 'http://www.dafont.com/punk-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PUNKD___.TTF'
 end

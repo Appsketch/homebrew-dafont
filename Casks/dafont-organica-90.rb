@@ -5,7 +5,6 @@ cask 'dafont-organica-90' do
     url 'http://dl.dafont.com/dl/?f=organica_90'
     name 'Organica 90'
     homepage 'http://www.dafont.com/organica-90.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Organica 90.ttf'
 end

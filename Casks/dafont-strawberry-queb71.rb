@@ -5,7 +5,6 @@ cask 'dafont-strawberry-queb71' do
     url 'http://dl.dafont.com/dl/?f=strawberry_queb71'
     name 'Strawberry'
     homepage 'http://www.dafont.com/strawberry-queb71.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strawberry-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kingthings-tendrylle' do
     url 'http://dl.dafont.com/dl/?f=kingthings_tendrylle'
     name 'Kingthings Tendrylle'
     homepage 'http://www.dafont.com/kingthings-tendrylle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Tendrylle.ttf'
 end

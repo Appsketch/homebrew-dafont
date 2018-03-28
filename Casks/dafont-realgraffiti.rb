@@ -5,7 +5,6 @@ cask 'dafont-realgraffiti' do
     url 'http://dl.dafont.com/dl/?f=realgraffiti'
     name 'Real Graffiti'
     homepage 'http://www.dafont.com/realgraffiti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RealGraffiti.ttf'
 end

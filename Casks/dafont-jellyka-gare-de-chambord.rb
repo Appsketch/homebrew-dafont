@@ -5,7 +5,6 @@ cask 'dafont-jellyka-gare-de-chambord' do
     url 'http://dl.dafont.com/dl/?f=jellyka_gare_de_chambord'
     name 'Jellyka - Gare de Chambord'
     homepage 'http://www.dafont.com/jellyka-gare-de-chambord.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gare_de_Chambord .ttf'
 end

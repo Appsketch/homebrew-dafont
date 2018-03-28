@@ -5,7 +5,6 @@ cask 'dafont-shark-got-your-hand' do
     url 'http://dl.dafont.com/dl/?f=shark_got_your_hand'
     name 'Shark Got Your Hand'
     homepage 'http://www.dafont.com/shark-got-your-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sharkgotyourhand.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-castlepressno2' do
     url 'http://dl.dafont.com/dl/?f=castlepressno2'
     name 'Castle Press No2'
     homepage 'http://www.dafont.com/castlepressno2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CastlePressNo2-border.ttf'
     font 'CastlePressNo2.ttf'

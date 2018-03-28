@@ -5,7 +5,6 @@ cask 'dafont-jellyka-vampire-street' do
     url 'http://dl.dafont.com/dl/?f=jellyka_vampire_street'
     name 'Jellyka Vampire Street'
     homepage 'http://www.dafont.com/jellyka-vampire-street.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jellyka Vampire Street.ttf'
 end

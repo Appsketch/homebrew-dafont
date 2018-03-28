@@ -5,7 +5,6 @@ cask 'dafont-scoreboard-led' do
     url 'http://dl.dafont.com/dl/?f=scoreboard_led'
     name 'Scoreboard LED'
     homepage 'http://www.dafont.com/scoreboard-led.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scoreboard-LED.ttf'
 end

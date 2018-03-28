@@ -5,7 +5,6 @@ cask 'dafont-elisana' do
     url 'http://dl.dafont.com/dl/?f=elisana'
     name 'Elisana'
     homepage 'http://www.dafont.com/elisana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elisana.ttf'
 end

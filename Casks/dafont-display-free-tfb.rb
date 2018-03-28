@@ -5,7 +5,6 @@ cask 'dafont-display-free-tfb' do
     url 'http://dl.dafont.com/dl/?f=display_free_tfb'
     name 'Display Free TFB'
     homepage 'http://www.dafont.com/display-free-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DISPLAY FREE TFB.ttf'
 end

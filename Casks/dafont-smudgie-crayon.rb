@@ -5,7 +5,6 @@ cask 'dafont-smudgie-crayon' do
     url 'http://dl.dafont.com/dl/?f=smudgie_crayon'
     name 'Smudgie Crayon'
     homepage 'http://www.dafont.com/smudgie-crayon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smudgie Crayon.ttf'
 end

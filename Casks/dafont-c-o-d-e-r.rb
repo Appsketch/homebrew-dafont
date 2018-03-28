@@ -5,7 +5,6 @@ cask 'dafont-c-o-d-e-r' do
     url 'http://dl.dafont.com/dl/?f=c_o_d_e_r'
     name 'C.O.D.E.R.'
     homepage 'http://www.dafont.com/c-o-d-e-r.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'coder.ttf'
     font 'codercond.ttf'

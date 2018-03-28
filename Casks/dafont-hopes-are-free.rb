@@ -5,7 +5,6 @@ cask 'dafont-hopes-are-free' do
     url 'http://dl.dafont.com/dl/?f=hopes_are_free'
     name 'Hopes are free'
     homepage 'http://www.dafont.com/hopes-are-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hopes are free.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vtks-academy' do
     url 'http://dl.dafont.com/dl/?f=vtks_academy'
     name 'Vtks Academy'
     homepage 'http://www.dafont.com/vtks-academy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Academy.ttf'
 end

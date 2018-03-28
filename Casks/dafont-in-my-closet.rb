@@ -5,7 +5,6 @@ cask 'dafont-in-my-closet' do
     url 'http://dl.dafont.com/dl/?f=in_my_closet'
     name 'In my closet'
     homepage 'http://www.dafont.com/in-my-closet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inmyc___.ttf'
 end

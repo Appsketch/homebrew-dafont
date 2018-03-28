@@ -5,7 +5,6 @@ cask 'dafont-easy-rider' do
     url 'http://dl.dafont.com/dl/?f=easy_rider'
     name 'Easy Rider'
     homepage 'http://www.dafont.com/easy-rider.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Easy Rider.ttf'
 end

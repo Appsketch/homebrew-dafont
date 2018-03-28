@@ -5,7 +5,6 @@ cask 'dafont-jano' do
     url 'http://dl.dafont.com/dl/?f=jano'
     name 'Jano'
     homepage 'http://www.dafont.com/jano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jano_etch.ttf'
 end

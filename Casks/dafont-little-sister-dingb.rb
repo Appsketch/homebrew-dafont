@@ -5,7 +5,6 @@ cask 'dafont-little-sister-dingb' do
     url 'http://dl.dafont.com/dl/?f=little_sister_dingb'
     name 'Little Sister Dingbats'
     homepage 'http://www.dafont.com/little-sister-dingb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lsd.ttf'
 end

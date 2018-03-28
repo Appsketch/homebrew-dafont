@@ -5,7 +5,6 @@ cask 'dafont-laus-sus-cris' do
     url 'http://dl.dafont.com/dl/?f=laus_sus_cris'
     name 'Laus Sus Cris'
     homepage 'http://www.dafont.com/laus-sus-cris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LausSusCris.ttf'
 end

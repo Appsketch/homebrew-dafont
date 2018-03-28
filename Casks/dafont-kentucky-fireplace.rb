@@ -5,7 +5,6 @@ cask 'dafont-kentucky-fireplace' do
     url 'http://dl.dafont.com/dl/?f=kentucky_fireplace'
     name 'Kentucky Fireplace'
     homepage 'http://www.dafont.com/kentucky-fireplace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kentucky Fireplace Regular.otf'
 end

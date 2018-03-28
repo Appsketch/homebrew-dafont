@@ -5,7 +5,6 @@ cask 'dafont-xperiencepasta' do
     url 'http://dl.dafont.com/dl/?f=xperiencepasta'
     name 'Xperience Pasta'
     homepage 'http://www.dafont.com/xperiencepasta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XperiencePasta.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sotra' do
     url 'http://dl.dafont.com/dl/?f=sotra'
     name 'Sotra'
     homepage 'http://www.dafont.com/sotra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sotra.ttf'
 end

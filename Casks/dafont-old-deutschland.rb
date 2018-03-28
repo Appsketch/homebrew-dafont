@@ -5,7 +5,6 @@ cask 'dafont-old-deutschland' do
     url 'http://dl.dafont.com/dl/?f=old_deutschland'
     name 'Old Deutschland'
     homepage 'http://www.dafont.com/old-deutschland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old Deutschland.ttf'
 end

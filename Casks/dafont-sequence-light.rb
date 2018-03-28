@@ -5,7 +5,6 @@ cask 'dafont-sequence-light' do
     url 'http://dl.dafont.com/dl/?f=sequence_light'
     name 'Sequence Light'
     homepage 'http://www.dafont.com/sequence-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sequence Light.ttf'
 end

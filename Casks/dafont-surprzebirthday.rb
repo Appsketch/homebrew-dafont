@@ -5,7 +5,6 @@ cask 'dafont-surprzebirthday' do
     url 'http://dl.dafont.com/dl/?f=surprzebirthday'
     name 'Surprze Birthday'
     homepage 'http://www.dafont.com/surprzebirthday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SurprzeBirthday.ttf'
 end

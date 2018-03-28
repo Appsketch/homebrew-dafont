@@ -5,7 +5,6 @@ cask 'dafont-feeling-babylon' do
     url 'http://dl.dafont.com/dl/?f=feeling_babylon'
     name 'Feeling Babylon'
     homepage 'http://www.dafont.com/feeling-babylon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Feeling Babylon.ttf'
 end

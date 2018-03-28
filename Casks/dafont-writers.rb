@@ -5,7 +5,6 @@ cask 'dafont-writers' do
     url 'http://dl.dafont.com/dl/?f=writers'
     name 'Writers'
     homepage 'http://www.dafont.com/writers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'writers_bold.ttf'
     font 'writers_original.ttf'

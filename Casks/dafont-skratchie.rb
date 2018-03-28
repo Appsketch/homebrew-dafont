@@ -5,7 +5,6 @@ cask 'dafont-skratchie' do
     url 'http://dl.dafont.com/dl/?f=skratchie'
     name 'Skratchie'
     homepage 'http://www.dafont.com/skratchie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skratchie.ttf'
 end

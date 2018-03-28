@@ -5,7 +5,6 @@ cask 'dafont-trips-of-darkness' do
     url 'http://dl.dafont.com/dl/?f=trips_of_darkness'
     name 'Trips of Darkness'
     homepage 'http://www.dafont.com/trips-of-darkness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trips of Darkness Demo.ttf'
 end

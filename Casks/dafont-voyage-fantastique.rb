@@ -5,7 +5,6 @@ cask 'dafont-voyage-fantastique' do
     url 'http://dl.dafont.com/dl/?f=voyage_fantastique'
     name 'Voyage Fantastique'
     homepage 'http://www.dafont.com/voyage-fantastique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'voyagefant.ttf'
     font 'voyagefant3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-oxin2' do
     url 'http://dl.dafont.com/dl/?f=oxin2'
     name 'Oxin'
     homepage 'http://www.dafont.com/oxin2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typo Oxin Brush free promo.ttf'
 end

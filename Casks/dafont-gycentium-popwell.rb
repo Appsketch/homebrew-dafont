@@ -5,7 +5,6 @@ cask 'dafont-gycentium-popwell' do
     url 'http://dl.dafont.com/dl/?f=gycentium_popwell'
     name 'Gycentium Popwell'
     homepage 'http://www.dafont.com/gycentium-popwell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gycentium Popwell.ttf'
 end

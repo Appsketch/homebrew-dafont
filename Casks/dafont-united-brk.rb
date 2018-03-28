@@ -5,7 +5,6 @@ cask 'dafont-united-brk' do
     url 'http://dl.dafont.com/dl/?f=united_brk'
     name 'United BRK'
     homepage 'http://www.dafont.com/united-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'united.ttf'
 end

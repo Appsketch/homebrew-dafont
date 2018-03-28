@@ -5,7 +5,6 @@ cask 'dafont-raptor-kill' do
     url 'http://dl.dafont.com/dl/?f=raptor_kill'
     name 'Raptor Kill'
     homepage 'http://www.dafont.com/raptor-kill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'raptorkill.ttf'
 end

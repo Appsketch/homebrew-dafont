@@ -5,7 +5,6 @@ cask 'dafont-al-seana' do
     url 'http://dl.dafont.com/dl/?f=al_seana'
     name 'Al Seana'
     homepage 'http://www.dafont.com/al-seana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'al-seana.ttf'
 end

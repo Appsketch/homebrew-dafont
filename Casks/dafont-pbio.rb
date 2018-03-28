@@ -5,7 +5,6 @@ cask 'dafont-pbio' do
     url 'http://dl.dafont.com/dl/?f=pbio'
     name 'Pbio'
     homepage 'http://www.dafont.com/pbio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pbio-bold.ttf'
 end

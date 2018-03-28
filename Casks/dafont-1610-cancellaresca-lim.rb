@@ -5,7 +5,6 @@ cask 'dafont-1610-cancellaresca-lim' do
     url 'http://dl.dafont.com/dl/?f=1610_cancellaresca_lim'
     name '1610 Cancellaresca'
     homepage 'http://www.dafont.com/1610-cancellaresca-lim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1610_Cancellaresca_lim.TTF'
 end

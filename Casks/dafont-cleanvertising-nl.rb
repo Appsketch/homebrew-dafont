@@ -5,7 +5,6 @@ cask 'dafont-cleanvertising-nl' do
     url 'http://dl.dafont.com/dl/?f=cleanvertising_nl'
     name 'Cleanvertising'
     homepage 'http://www.dafont.com/cleanvertising-nl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CLEANVEB.TTF'
     font 'CLEANVEL.TTF'

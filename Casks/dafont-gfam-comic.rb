@@ -5,7 +5,6 @@ cask 'dafont-gfam-comic' do
     url 'http://dl.dafont.com/dl/?f=gfam_comic'
     name 'GFAM Comic'
     homepage 'http://www.dafont.com/gfam-comic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GFAMComic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chess-marroquin' do
     url 'http://dl.dafont.com/dl/?f=chess_marroquin'
     name 'Chess Marroquin'
     homepage 'http://www.dafont.com/chess-marroquin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MARRFONT.TTF'
 end

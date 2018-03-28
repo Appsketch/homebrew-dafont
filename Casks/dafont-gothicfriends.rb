@@ -5,7 +5,6 @@ cask 'dafont-gothicfriends' do
     url 'http://dl.dafont.com/dl/?f=gothicfriends'
     name 'Gothic Friends'
     homepage 'http://www.dafont.com/gothicfriends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GothicFriends.ttf'
 end

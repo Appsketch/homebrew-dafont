@@ -5,7 +5,6 @@ cask 'dafont-pinkclouds' do
     url 'http://dl.dafont.com/dl/?f=pinkclouds'
     name 'Pink Clouds'
     homepage 'http://www.dafont.com/pinkclouds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PinkClouds.ttf'
 end

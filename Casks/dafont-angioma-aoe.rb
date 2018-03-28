@@ -5,7 +5,6 @@ cask 'dafont-angioma-aoe' do
     url 'http://dl.dafont.com/dl/?f=angioma_aoe'
     name 'Angioma AOE'
     homepage 'http://www.dafont.com/angioma-aoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truetype/ANGIA___.TTF'
 end

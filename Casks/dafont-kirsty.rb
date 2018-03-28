@@ -5,7 +5,6 @@ cask 'dafont-kirsty' do
     url 'http://dl.dafont.com/dl/?f=kirsty'
     name 'Kirsty'
     homepage 'http://www.dafont.com/kirsty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kirsty bd it.ttf'
     font 'kirsty bd.ttf'

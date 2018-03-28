@@ -5,7 +5,6 @@ cask 'dafont-dht' do
     url 'http://dl.dafont.com/dl/?f=dht'
     name 'Cancontrol'
     homepage 'http://www.dafont.com/dht.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cancontrol.ttf'
 end

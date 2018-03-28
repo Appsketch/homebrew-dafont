@@ -5,7 +5,6 @@ cask 'dafont-cf-ceinture-flechee' do
     url 'http://dl.dafont.com/dl/?f=cf_ceinture_flechee'
     name 'CF Ceinture Flechee'
     homepage 'http://www.dafont.com/cf-ceinture-flechee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFCeintureFlechee-Regular.ttf'
 end

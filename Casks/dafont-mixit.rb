@@ -5,7 +5,6 @@ cask 'dafont-mixit' do
     url 'http://dl.dafont.com/dl/?f=mixit'
     name 'Mixit'
     homepage 'http://www.dafont.com/mixit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mixit.TTF'
 end

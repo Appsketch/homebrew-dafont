@@ -5,7 +5,6 @@ cask 'dafont-country-hearts' do
     url 'http://dl.dafont.com/dl/?f=country_hearts'
     name 'Country Hearts'
     homepage 'http://www.dafont.com/country-hearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'country.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tour-de-force' do
     url 'http://dl.dafont.com/dl/?f=tour_de_force'
     name 'Tour De Force'
     homepage 'http://www.dafont.com/tour-de-force.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TourDeForce.ttf'
     font 'TourDeForceAlias.ttf'

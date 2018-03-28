@@ -5,7 +5,6 @@ cask 'dafont-retrocaps' do
     url 'http://dl.dafont.com/dl/?f=retrocaps'
     name 'RetroCaps'
     homepage 'http://www.dafont.com/retrocaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RetroCapsBW.ttf'
     font 'RetroCapsWB.ttf'

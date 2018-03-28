@@ -5,7 +5,6 @@ cask 'dafont-querround' do
     url 'http://dl.dafont.com/dl/?f=querround'
     name 'QuerRound'
     homepage 'http://www.dafont.com/querround.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUERROUND.TTF'
 end

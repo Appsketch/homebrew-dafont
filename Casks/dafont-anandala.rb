@@ -5,7 +5,6 @@ cask 'dafont-anandala' do
     url 'http://dl.dafont.com/dl/?f=anandala'
     name 'Anandala'
     homepage 'http://www.dafont.com/anandala.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'anandala.ttf'
 end

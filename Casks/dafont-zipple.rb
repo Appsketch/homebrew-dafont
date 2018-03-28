@@ -5,7 +5,6 @@ cask 'dafont-zipple' do
     url 'http://dl.dafont.com/dl/?f=zipple'
     name 'Zipple'
     homepage 'http://www.dafont.com/zipple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zipple    Bold.ttf'
 end

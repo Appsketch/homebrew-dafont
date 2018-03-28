@@ -5,7 +5,6 @@ cask 'dafont-crazy-style' do
     url 'http://dl.dafont.com/dl/?f=crazy_style'
     name 'Crazy Style'
     homepage 'http://www.dafont.com/crazy-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cRAZY sTYLE.ttf'
 end

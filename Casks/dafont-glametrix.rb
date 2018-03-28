@@ -5,7 +5,6 @@ cask 'dafont-glametrix' do
     url 'http://dl.dafont.com/dl/?f=glametrix'
     name 'Glametrix'
     homepage 'http://www.dafont.com/glametrix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Glametrix.otf'
     font 'GlametrixBold.otf'

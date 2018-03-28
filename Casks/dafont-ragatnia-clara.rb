@@ -5,7 +5,6 @@ cask 'dafont-ragatnia-clara' do
     url 'http://dl.dafont.com/dl/?f=ragatnia_clara'
     name 'Ragatnia Clara'
     homepage 'http://www.dafont.com/ragatnia-clara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ragatnia Clara.ttf'
 end

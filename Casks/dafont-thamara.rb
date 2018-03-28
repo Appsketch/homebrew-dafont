@@ -5,7 +5,6 @@ cask 'dafont-thamara' do
     url 'http://dl.dafont.com/dl/?f=thamara'
     name 'Thamara'
     homepage 'http://www.dafont.com/thamara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thamara01.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nene-weno-reliev' do
     url 'http://dl.dafont.com/dl/?f=nene_weno_reliev'
     name 'NeNe WeNo Reliev'
     homepage 'http://www.dafont.com/nene-weno-reliev.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeNe_WeNo_Reliev.ttf'
 end

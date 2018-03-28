@@ -5,7 +5,6 @@ cask 'dafont-tomorrow-wind' do
     url 'http://dl.dafont.com/dl/?f=tomorrow_wind'
     name 'Tomorrow Wind'
     homepage 'http://www.dafont.com/tomorrow-wind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tomorrow Wind.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-butterbelly' do
     url 'http://dl.dafont.com/dl/?f=butterbelly'
     name 'Butterbelly'
     homepage 'http://www.dafont.com/butterbelly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'butterbelly.ttf'
 end

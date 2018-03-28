@@ -5,7 +5,6 @@ cask 'dafont-defaulterror' do
     url 'http://dl.dafont.com/dl/?f=defaulterror'
     name 'DefaultError'
     homepage 'http://www.dafont.com/defaulterror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'defaulterror.ttf'
 end

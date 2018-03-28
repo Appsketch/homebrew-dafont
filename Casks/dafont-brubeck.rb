@@ -5,7 +5,6 @@ cask 'dafont-brubeck' do
     url 'http://dl.dafont.com/dl/?f=brubeck'
     name 'Brubeck'
     homepage 'http://www.dafont.com/brubeck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brubeck.ttf'
 end

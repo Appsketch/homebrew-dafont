@@ -5,7 +5,6 @@ cask 'dafont-digital-dot-roadsign' do
     url 'http://dl.dafont.com/dl/?f=digital_dot_roadsign'
     name 'Digital Dot Roadsign'
     homepage 'http://www.dafont.com/digital-dot-roadsign.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digital Dot Roadsign.otf'
 end

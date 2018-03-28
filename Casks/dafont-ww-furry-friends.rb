@@ -5,7 +5,6 @@ cask 'dafont-ww-furry-friends' do
     url 'http://dl.dafont.com/dl/?f=ww_furry_friends'
     name 'WW Furry Friends'
     homepage 'http://www.dafont.com/ww-furry-friends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WWFurryFriends.ttf'
 end

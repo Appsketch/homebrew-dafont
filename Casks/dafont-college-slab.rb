@@ -5,7 +5,6 @@ cask 'dafont-college-slab' do
     url 'http://dl.dafont.com/dl/?f=college_slab'
     name 'College Slab'
     homepage 'http://www.dafont.com/college-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CollegeSlabSC.otf'
 end

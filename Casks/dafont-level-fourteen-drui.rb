@@ -5,7 +5,6 @@ cask 'dafont-level-fourteen-drui' do
     url 'http://dl.dafont.com/dl/?f=level_fourteen_drui'
     name 'Level Fourteen Druid'
     homepage 'http://www.dafont.com/level-fourteen-drui.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEVEFD__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-homo-novis' do
     url 'http://dl.dafont.com/dl/?f=homo_novis'
     name 'Homo Novis'
     homepage 'http://www.dafont.com/homo-novis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HOMON___.TTF'
 end

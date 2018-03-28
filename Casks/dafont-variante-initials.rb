@@ -5,7 +5,6 @@ cask 'dafont-variante-initials' do
     url 'http://dl.dafont.com/dl/?f=variante_initials'
     name 'Variante Initials'
     homepage 'http://www.dafont.com/variante-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VarianteInitials.otf'
 end

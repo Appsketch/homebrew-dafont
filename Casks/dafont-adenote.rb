@@ -5,7 +5,6 @@ cask 'dafont-adenote' do
     url 'http://dl.dafont.com/dl/?f=adenote'
     name 'Adenote'
     homepage 'http://www.dafont.com/adenote.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adenote.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-modenpost' do
     url 'http://dl.dafont.com/dl/?f=modenpost'
     name 'Moden Post'
     homepage 'http://www.dafont.com/modenpost.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ModernPost.ttf'
 end

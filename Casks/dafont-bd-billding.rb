@@ -5,7 +5,6 @@ cask 'dafont-bd-billding' do
     url 'http://dl.dafont.com/dl/?f=bd_billding'
     name 'BD Billding'
     homepage 'http://www.dafont.com/bd-billding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDBID___.TTF'
     font 'BDBIDL__.TTF'

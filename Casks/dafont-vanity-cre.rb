@@ -5,7 +5,6 @@ cask 'dafont-vanity-cre' do
     url 'http://dl.dafont.com/dl/?f=vanity_cre'
     name 'Vanity Cre'
     homepage 'http://www.dafont.com/vanity-cre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VANITY_CRE.ttf'
 end

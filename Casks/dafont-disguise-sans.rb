@@ -5,7 +5,6 @@ cask 'dafont-disguise-sans' do
     url 'http://dl.dafont.com/dl/?f=disguise_sans'
     name 'Disguise Sans'
     homepage 'http://www.dafont.com/disguise-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Disguise Display - regular.otf'
     font 'Disguise Display- italic.otf'

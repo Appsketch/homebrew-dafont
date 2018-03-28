@@ -5,7 +5,6 @@ cask 'dafont-inky-dinky' do
     url 'http://dl.dafont.com/dl/?f=inky_dinky'
     name 'Inky Dinky'
     homepage 'http://www.dafont.com/inky-dinky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InkyDinky.ttf'
 end

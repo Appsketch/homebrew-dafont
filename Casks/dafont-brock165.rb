@@ -5,7 +5,6 @@ cask 'dafont-brock165' do
     url 'http://dl.dafont.com/dl/?f=brock165'
     name 'Brock165'
     homepage 'http://www.dafont.com/brock165.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brock165.ttf'
 end

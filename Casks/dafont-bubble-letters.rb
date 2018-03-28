@@ -5,7 +5,6 @@ cask 'dafont-bubble-letters' do
     url 'http://dl.dafont.com/dl/?f=bubble_letters'
     name 'Bubble Letters'
     homepage 'http://www.dafont.com/bubble-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bubble Letters.ttf'
 end

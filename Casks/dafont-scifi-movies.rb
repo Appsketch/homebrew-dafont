@@ -5,7 +5,6 @@ cask 'dafont-scifi-movies' do
     url 'http://dl.dafont.com/dl/?f=scifi_movies'
     name 'SciFi Movies'
     homepage 'http://www.dafont.com/scifi-movies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SciFi Movies.ttf'
 end

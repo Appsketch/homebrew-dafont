@@ -5,7 +5,6 @@ cask 'dafont-universalisme' do
     url 'http://dl.dafont.com/dl/?f=universalisme'
     name 'Universalisme'
     homepage 'http://www.dafont.com/universalisme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UNIVERSALISME.ttf'
 end

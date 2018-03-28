@@ -5,7 +5,6 @@ cask 'dafont-mario-and-luigi' do
     url 'http://dl.dafont.com/dl/?f=mario_and_luigi'
     name 'Mario and Luigi'
     homepage 'http://www.dafont.com/mario-and-luigi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MARIO.TTF'
 end

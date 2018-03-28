@@ -5,7 +5,6 @@ cask 'dafont-praduhhthegreat' do
     url 'http://dl.dafont.com/dl/?f=praduhhthegreat'
     name 'Praduhh The Great'
     homepage 'http://www.dafont.com/praduhhthegreat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PraduhhTheGreat.ttf'
 end

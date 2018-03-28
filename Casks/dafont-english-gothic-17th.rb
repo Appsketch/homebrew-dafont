@@ -5,7 +5,6 @@ cask 'dafont-english-gothic-17th' do
     url 'http://dl.dafont.com/dl/?f=english_gothic_17th'
     name 'English Gothic, 17th c.'
     homepage 'http://www.dafont.com/english-gothic-17th.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'English Gothic, 17th c.TTF'
 end

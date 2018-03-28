@@ -5,7 +5,6 @@ cask 'dafont-cristobal' do
     url 'http://dl.dafont.com/dl/?f=cristobal'
     name 'Cristobal'
     homepage 'http://www.dafont.com/cristobal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cristobal.ttf'
 end

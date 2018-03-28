@@ -5,7 +5,6 @@ cask 'dafont-old-retro-labels-tfb' do
     url 'http://dl.dafont.com/dl/?f=old_retro_labels_tfb'
     name 'Old Retro Labels TFB'
     homepage 'http://www.dafont.com/old-retro-labels-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'old retro labels tfb.ttf'
 end

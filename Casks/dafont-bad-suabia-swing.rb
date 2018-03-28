@@ -5,7 +5,6 @@ cask 'dafont-bad-suabia-swing' do
     url 'http://dl.dafont.com/dl/?f=bad_suabia_swing'
     name 'Bad Suabia Swing'
     homepage 'http://www.dafont.com/bad-suabia-swing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BadSuabiaSwing-Regular.otf'
 end

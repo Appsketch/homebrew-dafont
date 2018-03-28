@@ -5,7 +5,6 @@ cask 'dafont-bip' do
     url 'http://dl.dafont.com/dl/?f=bip'
     name 'Bip'
     homepage 'http://www.dafont.com/bip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bipDEMO.ttf'
 end

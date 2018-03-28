@@ -5,7 +5,6 @@ cask 'dafont-segan' do
     url 'http://dl.dafont.com/dl/?f=segan'
     name 'Segan'
     homepage 'http://www.dafont.com/segan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Segan-Light.ttf'
 end

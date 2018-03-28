@@ -5,7 +5,6 @@ cask 'dafont-alchemist' do
     url 'http://dl.dafont.com/dl/?f=alchemist'
     name 'Alchemist'
     homepage 'http://www.dafont.com/alchemist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alchemist.ttf'
 end

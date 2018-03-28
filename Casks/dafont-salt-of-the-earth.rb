@@ -5,7 +5,6 @@ cask 'dafont-salt-of-the-earth' do
     url 'http://dl.dafont.com/dl/?f=salt_of_the_earth'
     name 'Salt of the Earth'
     homepage 'http://www.dafont.com/salt-of-the-earth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'salt_of_the_earth.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-boom-tank' do
     url 'http://dl.dafont.com/dl/?f=boom_tank'
     name 'Boom Tank'
     homepage 'http://www.dafont.com/boom-tank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'boomtankPG_ital.ttf'
     font 'boomtankPG_itb.ttf'

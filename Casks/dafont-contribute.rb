@@ -5,7 +5,6 @@ cask 'dafont-contribute' do
     url 'http://dl.dafont.com/dl/?f=contribute'
     name 'Contribute'
     homepage 'http://www.dafont.com/contribute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Contribute_FREE-version.ttf'
 end

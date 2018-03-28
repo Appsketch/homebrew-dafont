@@ -5,7 +5,6 @@ cask 'dafont-dirty-socks-skinny' do
     url 'http://dl.dafont.com/dl/?f=dirty_socks_skinny'
     name 'Dirty Socks Skinny'
     homepage 'http://www.dafont.com/dirty-socks-skinny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIRTY___.TTF'
 end

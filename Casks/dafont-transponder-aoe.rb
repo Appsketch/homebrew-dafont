@@ -5,7 +5,6 @@ cask 'dafont-transponder-aoe' do
     url 'http://dl.dafont.com/dl/?f=transponder_aoe'
     name 'Transponder AOE'
     homepage 'http://www.dafont.com/transponder-aoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRANA___.TTF'
     font 'TRANGA__.TTF'

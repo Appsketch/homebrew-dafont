@@ -5,7 +5,6 @@ cask 'dafont-sunscreen' do
     url 'http://dl.dafont.com/dl/?f=sunscreen'
     name 'Sunscreen'
     homepage 'http://www.dafont.com/sunscreen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sunscreen-Pentaline.otf'
     font 'Sunscreen-Septaline.otf'

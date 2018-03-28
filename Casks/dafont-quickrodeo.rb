@@ -5,7 +5,6 @@ cask 'dafont-quickrodeo' do
     url 'http://dl.dafont.com/dl/?f=quickrodeo'
     name 'Quick Rodeo'
     homepage 'http://www.dafont.com/quickrodeo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuickRodeo.ttf'
 end

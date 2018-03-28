@@ -5,7 +5,6 @@ cask 'dafont-kleist-fraktur' do
     url 'http://dl.dafont.com/dl/?f=kleist_fraktur'
     name 'Kleist-Fraktur'
     homepage 'http://www.dafont.com/kleist-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kleist-Fraktur.ttf'
     font 'Kleist-FrakturZierbuchstaben.ttf'

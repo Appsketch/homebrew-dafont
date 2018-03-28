@@ -5,7 +5,6 @@ cask 'dafont-kg-kiss-me-slowly' do
     url 'http://dl.dafont.com/dl/?f=kg_kiss_me_slowly'
     name 'KG Kiss Me Slowly'
     homepage 'http://www.dafont.com/kg-kiss-me-slowly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGKissMeSlowly.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-snowinter' do
     url 'http://dl.dafont.com/dl/?f=snowinter'
     name 'Snowinter'
     homepage 'http://www.dafont.com/snowinter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snowinter-Free-For-Personal-Use.ttf'
 end

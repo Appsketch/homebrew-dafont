@@ -5,7 +5,6 @@ cask 'dafont-k141' do
     url 'http://dl.dafont.com/dl/?f=k141'
     name 'K141'
     homepage 'http://www.dafont.com/k141.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K141.otf'
 end

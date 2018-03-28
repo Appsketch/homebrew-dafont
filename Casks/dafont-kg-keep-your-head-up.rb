@@ -5,7 +5,6 @@ cask 'dafont-kg-keep-your-head-up' do
     url 'http://dl.dafont.com/dl/?f=kg_keep_your_head_up'
     name 'KG Keep Your Head Up'
     homepage 'http://www.dafont.com/kg-keep-your-head-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGKeepYourHeadUp.ttf'
 end

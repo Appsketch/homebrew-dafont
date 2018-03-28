@@ -5,7 +5,6 @@ cask 'dafont-majorstripe' do
     url 'http://dl.dafont.com/dl/?f=majorstripe'
     name 'Major Stripe'
     homepage 'http://www.dafont.com/majorstripe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MajorStripe.ttf'
 end

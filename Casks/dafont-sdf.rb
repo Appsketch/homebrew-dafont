@@ -5,7 +5,6 @@ cask 'dafont-sdf' do
     url 'http://dl.dafont.com/dl/?f=sdf'
     name 'SDF'
     homepage 'http://www.dafont.com/sdf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sdf.ttf'
     font 'sdf3d.ttf'

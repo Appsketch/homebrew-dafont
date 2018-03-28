@@ -5,7 +5,6 @@ cask 'dafont-evil-dead' do
     url 'http://dl.dafont.com/dl/?f=evil_dead'
     name 'Evil Dead'
     homepage 'http://www.dafont.com/evil-dead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EVILDEAD.TTF'
 end

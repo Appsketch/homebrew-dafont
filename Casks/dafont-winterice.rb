@@ -5,7 +5,6 @@ cask 'dafont-winterice' do
     url 'http://dl.dafont.com/dl/?f=winterice'
     name 'Winter Ice'
     homepage 'http://www.dafont.com/winterice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WinterIce.ttf'
 end

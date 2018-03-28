@@ -5,7 +5,6 @@ cask 'dafont-jazzed-up' do
     url 'http://dl.dafont.com/dl/?f=jazzed_up'
     name 'Jazzed Up'
     homepage 'http://www.dafont.com/jazzed-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gibson+Family+Font.ttf'
 end

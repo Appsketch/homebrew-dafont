@@ -5,7 +5,6 @@ cask 'dafont-kimmieshand' do
     url 'http://dl.dafont.com/dl/?f=kimmieshand'
     name 'Kimmies Hand'
     homepage 'http://www.dafont.com/kimmieshand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KimmiesHand.ttf'
 end

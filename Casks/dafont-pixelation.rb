@@ -5,7 +5,6 @@ cask 'dafont-pixelation' do
     url 'http://dl.dafont.com/dl/?f=pixelation'
     name 'Pixelation'
     homepage 'http://www.dafont.com/pixelation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixelation.ttf'
 end

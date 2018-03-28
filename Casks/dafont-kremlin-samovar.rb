@@ -5,7 +5,6 @@ cask 'dafont-kremlin-samovar' do
     url 'http://dl.dafont.com/dl/?f=kremlin_samovar'
     name 'Kremlin Samovar'
     homepage 'http://www.dafont.com/kremlin-samovar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Samovar Extra Bold.ttf'
     font 'Kremlin Samovar Lite.ttf'

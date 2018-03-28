@@ -5,7 +5,6 @@ cask 'dafont-bitbox' do
     url 'http://dl.dafont.com/dl/?f=bitbox'
     name 'BitBox'
     homepage 'http://www.dafont.com/bitbox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bitbox.ttf'
 end

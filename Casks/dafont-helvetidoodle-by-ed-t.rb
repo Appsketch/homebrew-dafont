@@ -5,7 +5,6 @@ cask 'dafont-helvetidoodle-by-ed-t' do
     url 'http://dl.dafont.com/dl/?f=helvetidoodle_by_ed_t'
     name 'Helvetidoodle by Ed T'
     homepage 'http://www.dafont.com/helvetidoodle-by-ed-t.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HelvetidoodlebyEdT.ttf'
 end

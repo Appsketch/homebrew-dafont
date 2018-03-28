@@ -5,7 +5,6 @@ cask 'dafont-galactica-pyramid-card-game' do
     url 'http://dl.dafont.com/dl/?f=galactica_pyramid_card_game'
     name 'Galactica Pyramid Card Game'
     homepage 'http://www.dafont.com/galactica-pyramid-card-game.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pyramid.ttf'
 end

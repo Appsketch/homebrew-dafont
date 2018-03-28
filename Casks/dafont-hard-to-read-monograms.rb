@@ -5,7 +5,6 @@ cask 'dafont-hard-to-read-monograms' do
     url 'http://dl.dafont.com/dl/?f=hard_to_read_monograms'
     name 'Hard to Read Monograms'
     homepage 'http://www.dafont.com/hard-to-read-monograms.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hard to Read Monograms Two.ttf'
     font 'Hard to Read Monograms.ttf'

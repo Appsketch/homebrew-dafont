@@ -5,7 +5,6 @@ cask 'dafont-cleanbubbles' do
     url 'http://dl.dafont.com/dl/?f=cleanbubbles'
     name 'Clean Bubbles'
     homepage 'http://www.dafont.com/cleanbubbles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CleanBubbles.ttf'
 end

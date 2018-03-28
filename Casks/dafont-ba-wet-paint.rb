@@ -5,7 +5,6 @@ cask 'dafont-ba-wet-paint' do
     url 'http://dl.dafont.com/dl/?f=ba_wet_paint'
     name 'BA Wet Paint'
     homepage 'http://www.dafont.com/ba-wet-paint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BA-Wet_Paint.otf'
 end

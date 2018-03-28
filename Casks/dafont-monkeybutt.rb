@@ -5,7 +5,6 @@ cask 'dafont-monkeybutt' do
     url 'http://dl.dafont.com/dl/?f=monkeybutt'
     name 'Monkeybutt'
     homepage 'http://www.dafont.com/monkeybutt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monkeybutt2.ttf'
 end

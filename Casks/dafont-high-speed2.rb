@@ -5,7 +5,6 @@ cask 'dafont-high-speed2' do
     url 'http://dl.dafont.com/dl/?f=high_speed2'
     name 'High Speed'
     homepage 'http://www.dafont.com/high-speed2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'High Speed.ttf'
 end

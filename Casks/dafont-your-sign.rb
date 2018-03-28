@@ -5,7 +5,6 @@ cask 'dafont-your-sign' do
     url 'http://dl.dafont.com/dl/?f=your_sign'
     name 'Your Sign'
     homepage 'http://www.dafont.com/your-sign.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Your Sign.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-skan-head' do
     url 'http://dl.dafont.com/dl/?f=skan_head'
     name 'Skan Head'
     homepage 'http://www.dafont.com/skan-head.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SKANHL__.TTF'
 end

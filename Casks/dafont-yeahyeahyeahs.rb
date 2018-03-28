@@ -5,7 +5,6 @@ cask 'dafont-yeahyeahyeahs' do
     url 'http://dl.dafont.com/dl/?f=yeahyeahyeahs'
     name 'Yeah Yeah Yeahs'
     homepage 'http://www.dafont.com/yeahyeahyeahs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YeahYeahYeahs.ttf'
 end

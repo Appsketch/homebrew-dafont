@@ -5,7 +5,6 @@ cask 'dafont-jayne-print' do
     url 'http://dl.dafont.com/dl/?f=jayne_print'
     name 'Jayne Print YOFF'
     homepage 'http://www.dafont.com/jayne-print.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JayneprintYOFF.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-people-quark' do
     url 'http://dl.dafont.com/dl/?f=people_quark'
     name 'People Quark'
     homepage 'http://www.dafont.com/people-quark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PEOPLE QUARK.ttf'
 end

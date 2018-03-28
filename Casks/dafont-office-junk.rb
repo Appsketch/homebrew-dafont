@@ -5,7 +5,6 @@ cask 'dafont-office-junk' do
     url 'http://dl.dafont.com/dl/?f=office_junk'
     name 'Office Junk'
     homepage 'http://www.dafont.com/office-junk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OfficeJunk.ttf'
 end

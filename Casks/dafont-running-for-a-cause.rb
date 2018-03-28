@@ -5,7 +5,6 @@ cask 'dafont-running-for-a-cause' do
     url 'http://dl.dafont.com/dl/?f=running_for_a_cause'
     name 'Running for a cause'
     homepage 'http://www.dafont.com/running-for-a-cause.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Running for a cause.ttf'
 end

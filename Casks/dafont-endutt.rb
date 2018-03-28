@@ -5,7 +5,6 @@ cask 'dafont-endutt' do
     url 'http://dl.dafont.com/dl/?f=endutt'
     name 'Endutt'
     homepage 'http://www.dafont.com/endutt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'endutt.otf'
 end

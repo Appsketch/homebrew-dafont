@@ -5,7 +5,6 @@ cask 'dafont-lamp-post' do
     url 'http://dl.dafont.com/dl/?f=lamp_post'
     name 'Lamp Post'
     homepage 'http://www.dafont.com/lamp-post.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lamp Post.ttf'
 end

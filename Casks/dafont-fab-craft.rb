@@ -5,7 +5,6 @@ cask 'dafont-fab-craft' do
     url 'http://dl.dafont.com/dl/?f=fab_craft'
     name 'Fab Craft'
     homepage 'http://www.dafont.com/fab-craft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FabCraft-Regular.otf'
 end

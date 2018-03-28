@@ -5,7 +5,6 @@ cask 'dafont-zdyk-sagittarius' do
     url 'http://dl.dafont.com/dl/?f=zdyk_sagittarius'
     name 'Zdyk Sagittarius'
     homepage 'http://www.dafont.com/zdyk-sagittarius.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zdyk Sagittarius.otf'
 end

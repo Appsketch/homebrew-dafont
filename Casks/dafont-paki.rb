@@ -5,7 +5,6 @@ cask 'dafont-paki' do
     url 'http://dl.dafont.com/dl/?f=paki'
     name 'Paki'
     homepage 'http://www.dafont.com/paki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paki.otf'
 end

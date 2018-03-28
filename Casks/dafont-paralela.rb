@@ -5,7 +5,6 @@ cask 'dafont-paralela' do
     url 'http://dl.dafont.com/dl/?f=paralela'
     name 'Paralela'
     homepage 'http://www.dafont.com/paralela.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PARALELA.TTF'
 end

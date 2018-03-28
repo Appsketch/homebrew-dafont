@@ -5,7 +5,6 @@ cask 'dafont-szionka' do
     url 'http://dl.dafont.com/dl/?f=szionka'
     name 'Szionka'
     homepage 'http://www.dafont.com/szionka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'szionka.ttf'
 end

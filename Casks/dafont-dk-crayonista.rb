@@ -5,7 +5,6 @@ cask 'dafont-dk-crayonista' do
     url 'http://dl.dafont.com/dl/?f=dk_crayonista'
     name 'DK Crayonista'
     homepage 'http://www.dafont.com/dk-crayonista.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Crayonista.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-polygon' do
     url 'http://dl.dafont.com/dl/?f=polygon'
     name 'Polygon'
     homepage 'http://www.dafont.com/polygon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Polygon-Regular.otf'
 end

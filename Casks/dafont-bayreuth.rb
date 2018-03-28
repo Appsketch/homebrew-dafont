@@ -5,7 +5,6 @@ cask 'dafont-bayreuth' do
     url 'http://dl.dafont.com/dl/?f=bayreuth'
     name 'Bayreuth'
     homepage 'http://www.dafont.com/bayreuth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bayreuth.ttf'
 end

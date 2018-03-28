@@ -5,7 +5,6 @@ cask 'dafont-wednesday-lettering-practice' do
     url 'http://dl.dafont.com/dl/?f=wednesday_lettering_practice'
     name 'Wednesday Lettering Practice'
     homepage 'http://www.dafont.com/wednesday-lettering-practice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wednesday Lettering Practice.otf'
 end

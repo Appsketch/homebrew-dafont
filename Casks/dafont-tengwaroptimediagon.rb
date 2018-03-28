@@ -5,7 +5,6 @@ cask 'dafont-tengwaroptimediagon' do
     url 'http://dl.dafont.com/dl/?f=tengwaroptimediagon'
     name 'Tengwar Optime Diagon'
     homepage 'http://www.dafont.com/tengwaroptimediagon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TengwarOptime.ttf'
     font 'TengwarOptimeDiagon.ttf'

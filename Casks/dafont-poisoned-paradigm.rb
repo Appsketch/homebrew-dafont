@@ -5,7 +5,6 @@ cask 'dafont-poisoned-paradigm' do
     url 'http://dl.dafont.com/dl/?f=poisoned_paradigm'
     name 'Poisoned Paradigm'
     homepage 'http://www.dafont.com/poisoned-paradigm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Poisoned Paradigm.otf'
 end

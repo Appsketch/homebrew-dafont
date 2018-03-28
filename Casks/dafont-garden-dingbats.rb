@@ -5,7 +5,6 @@ cask 'dafont-garden-dingbats' do
     url 'http://dl.dafont.com/dl/?f=garden_dingbats'
     name 'Garden Dingbats'
     homepage 'http://www.dafont.com/garden-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GARDD___.TTF'
 end

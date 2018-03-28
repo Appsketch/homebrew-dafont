@@ -5,7 +5,6 @@ cask 'dafont-alittlebit' do
     url 'http://dl.dafont.com/dl/?f=alittlebit'
     name 'A little bit'
     homepage 'http://www.dafont.com/alittlebit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alittlebit.ttf'
 end

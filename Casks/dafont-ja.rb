@@ -5,7 +5,6 @@ cask 'dafont-ja' do
     url 'http://dl.dafont.com/dl/?f=ja'
     name 'Ja'
     homepage 'http://www.dafont.com/ja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'het_ja_woord.ttf'
 end

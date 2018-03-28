@@ -5,7 +5,6 @@ cask 'dafont-martin-sans' do
     url 'http://dl.dafont.com/dl/?f=martin_sans'
     name 'Martin Sans'
     homepage 'http://www.dafont.com/martin-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Martin Sans font.ttf'
 end

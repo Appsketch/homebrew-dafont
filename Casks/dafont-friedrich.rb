@@ -5,7 +5,6 @@ cask 'dafont-friedrich' do
     url 'http://dl.dafont.com/dl/?f=friedrich'
     name 'Friedrich'
     homepage 'http://www.dafont.com/friedrich.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Friedrich.otf'
 end

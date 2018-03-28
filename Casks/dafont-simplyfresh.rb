@@ -5,7 +5,6 @@ cask 'dafont-simplyfresh' do
     url 'http://dl.dafont.com/dl/?f=simplyfresh'
     name 'Simply Fresh'
     homepage 'http://www.dafont.com/simplyfresh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SimplyFresh.ttf'
 end

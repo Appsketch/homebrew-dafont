@@ -5,7 +5,6 @@ cask 'dafont-boxey-moron' do
     url 'http://dl.dafont.com/dl/?f=boxey_moron'
     name 'Boxey Moron'
     homepage 'http://www.dafont.com/boxey-moron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'boxey moron.ttf'
 end

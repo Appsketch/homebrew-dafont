@@ -5,7 +5,6 @@ cask 'dafont-semaphore-pramuka' do
     url 'http://dl.dafont.com/dl/?f=semaphore_pramuka'
     name 'Semaphore Pramuka'
     homepage 'http://www.dafont.com/semaphore-pramuka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Semaphore Pramuka.ttf'
 end

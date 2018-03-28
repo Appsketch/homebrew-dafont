@@ -5,7 +5,6 @@ cask 'dafont-komika-glaze' do
     url 'http://dl.dafont.com/dl/?f=komika_glaze'
     name 'Komika Glaze'
     homepage 'http://www.dafont.com/komika-glaze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKAGL.ttf'
 end

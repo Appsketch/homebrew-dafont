@@ -5,7 +5,6 @@ cask 'dafont-badonk-a-donk' do
     url 'http://dl.dafont.com/dl/?f=badonk_a_donk'
     name 'Badonk-a-donk'
     homepage 'http://www.dafont.com/badonk-a-donk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'badankadonk.ttf'
 end

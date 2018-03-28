@@ -5,7 +5,6 @@ cask 'dafont-blacklist' do
     url 'http://dl.dafont.com/dl/?f=blacklist'
     name 'Blacklist'
     homepage 'http://www.dafont.com/blacklist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blacklist.ttf'
 end

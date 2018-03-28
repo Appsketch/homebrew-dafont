@@ -5,7 +5,6 @@ cask 'dafont-chess-miscel' do
     url 'http://dl.dafont.com/dl/?f=chess_miscel'
     name 'Chess Miscel'
     homepage 'http://www.dafont.com/chess-miscel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MISCHESS.TTF'
 end

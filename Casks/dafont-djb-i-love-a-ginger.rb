@@ -5,7 +5,6 @@ cask 'dafont-djb-i-love-a-ginger' do
     url 'http://dl.dafont.com/dl/?f=djb_i_love_a_ginger'
     name 'DJB I Love a Ginger'
     homepage 'http://www.dafont.com/djb-i-love-a-ginger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB I Love a Ginger.ttf'
 end

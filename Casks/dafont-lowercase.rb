@@ -5,7 +5,6 @@ cask 'dafont-lowercase' do
     url 'http://dl.dafont.com/dl/?f=lowercase'
     name 'Lower Case'
     homepage 'http://www.dafont.com/lowercase.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LowerCase.ttf'
 end

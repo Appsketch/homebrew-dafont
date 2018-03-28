@@ -5,7 +5,6 @@ cask 'dafont-lucznik-1303' do
     url 'http://dl.dafont.com/dl/?f=lucznik_1303'
     name 'Lucznik 1303'
     homepage 'http://www.dafont.com/lucznik-1303.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lucznik1303.ttf'
 end

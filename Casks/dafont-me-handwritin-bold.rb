@@ -5,7 +5,6 @@ cask 'dafont-me-handwritin-bold' do
     url 'http://dl.dafont.com/dl/?f=me_handwritin_bold'
     name 'Me Handwritin Bold'
     homepage 'http://www.dafont.com/me-handwritin-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'me handwritin Bold.ttf'
 end

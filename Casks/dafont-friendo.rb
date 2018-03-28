@@ -5,7 +5,6 @@ cask 'dafont-friendo' do
     url 'http://dl.dafont.com/dl/?f=friendo'
     name 'Friendo'
     homepage 'http://www.dafont.com/friendo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Friendo_3D-&copy;.ttf'
     font 'Friendo.ttf'

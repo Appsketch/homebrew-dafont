@@ -5,7 +5,6 @@ cask 'dafont-xerotypique' do
     url 'http://dl.dafont.com/dl/?f=xerotypique'
     name 'Xero Typique'
     homepage 'http://www.dafont.com/xerotypique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XeroTypique.ttf'
 end

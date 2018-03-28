@@ -5,7 +5,6 @@ cask 'dafont-namo' do
     url 'http://dl.dafont.com/dl/?f=namo'
     name 'Namo'
     homepage 'http://www.dafont.com/namo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'namo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-antherton-cloister' do
     url 'http://dl.dafont.com/dl/?f=antherton_cloister'
     name 'Antherton Cloister'
     homepage 'http://www.dafont.com/antherton-cloister.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANTHC___.TTF'
 end

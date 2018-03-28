@@ -5,7 +5,6 @@ cask 'dafont-coldplay' do
     url 'http://dl.dafont.com/dl/?f=coldplay'
     name 'Coldplay'
     homepage 'http://www.dafont.com/coldplay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COLDPLAY.ttf'
 end

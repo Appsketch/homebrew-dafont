@@ -5,7 +5,6 @@ cask 'dafont-pollyanna' do
     url 'http://dl.dafont.com/dl/?f=pollyanna'
     name 'Pollyanna'
     homepage 'http://www.dafont.com/pollyanna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pollyanna.ttf'
 end

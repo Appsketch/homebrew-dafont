@@ -5,7 +5,6 @@ cask 'dafont-hirosh' do
     url 'http://dl.dafont.com/dl/?f=hirosh'
     name 'Hirosh'
     homepage 'http://www.dafont.com/hirosh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HIROSHT.TTF'
 end

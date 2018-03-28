@@ -5,7 +5,6 @@ cask 'dafont-pwkool' do
     url 'http://dl.dafont.com/dl/?f=pwkool'
     name 'PW Kool'
     homepage 'http://www.dafont.com/pwkool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWKool.ttf'
 end

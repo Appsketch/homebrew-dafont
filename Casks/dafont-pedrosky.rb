@@ -5,7 +5,6 @@ cask 'dafont-pedrosky' do
     url 'http://dl.dafont.com/dl/?f=pedrosky'
     name 'Pedrosky'
     homepage 'http://www.dafont.com/pedrosky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pedrosky.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-political-graft' do
     url 'http://dl.dafont.com/dl/?f=political_graft'
     name 'Political Graft'
     homepage 'http://www.dafont.com/political-graft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PoliticalFill.TTF'
     font 'PoliticalOutline.TTF'

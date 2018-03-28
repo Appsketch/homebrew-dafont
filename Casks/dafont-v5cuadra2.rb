@@ -5,7 +5,6 @@ cask 'dafont-v5cuadra2' do
     url 'http://dl.dafont.com/dl/?f=v5cuadra2'
     name 'V5 Cuadra2'
     homepage 'http://www.dafont.com/v5cuadra2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'V5CUO___.TTF'
     font 'V5CUR___.TTF'

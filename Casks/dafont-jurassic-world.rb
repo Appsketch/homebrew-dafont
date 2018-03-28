@@ -5,7 +5,6 @@ cask 'dafont-jurassic-world' do
     url 'http://dl.dafont.com/dl/?f=jurassic_world'
     name 'Jurassic World'
     homepage 'http://www.dafont.com/jurassic-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jurassic World.ttf'
 end

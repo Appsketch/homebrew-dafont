@@ -5,7 +5,6 @@ cask 'dafont-dina' do
     url 'http://dl.dafont.com/dl/?f=dina'
     name 'Dina'
     homepage 'http://www.dafont.com/dina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dina.fon'
 end

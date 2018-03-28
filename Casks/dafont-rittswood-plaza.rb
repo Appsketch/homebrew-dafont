@@ -5,7 +5,6 @@ cask 'dafont-rittswood-plaza' do
     url 'http://dl.dafont.com/dl/?f=rittswood_plaza'
     name 'Rittswood Plaza'
     homepage 'http://www.dafont.com/rittswood-plaza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'r-plaza_8.ttf'
 end

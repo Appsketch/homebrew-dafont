@@ -5,7 +5,6 @@ cask 'dafont-inmydreams' do
     url 'http://dl.dafont.com/dl/?f=inmydreams'
     name 'In My Dreams'
     homepage 'http://www.dafont.com/inmydreams.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InMyDreams.ttf'
 end

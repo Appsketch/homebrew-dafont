@@ -5,7 +5,6 @@ cask 'dafont-fractionss' do
     url 'http://dl.dafont.com/dl/?f=fractionss'
     name 'Fractionss'
     homepage 'http://www.dafont.com/fractionss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fractionss-AZERTY.ttf'
     font 'Fractionss-QWERTY.ttf'

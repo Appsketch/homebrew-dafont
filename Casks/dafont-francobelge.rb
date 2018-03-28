@@ -5,7 +5,6 @@ cask 'dafont-francobelge' do
     url 'http://dl.dafont.com/dl/?f=francobelge'
     name 'Francobelge'
     homepage 'http://www.dafont.com/francobelge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Francobelge.ttf'
 end

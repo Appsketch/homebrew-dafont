@@ -5,7 +5,6 @@ cask 'dafont-peaxdrawnicons' do
     url 'http://dl.dafont.com/dl/?f=peaxdrawnicons'
     name 'Peax Drawn Icons'
     homepage 'http://www.dafont.com/peaxdrawnicons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PeaxDrawnIcons.ttf'
 end

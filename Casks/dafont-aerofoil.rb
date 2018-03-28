@@ -5,7 +5,6 @@ cask 'dafont-aerofoil' do
     url 'http://dl.dafont.com/dl/?f=aerofoil'
     name 'Aerofoil'
     homepage 'http://www.dafont.com/aerofoil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aerofoil.ttf'
 end

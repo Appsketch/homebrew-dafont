@@ -5,7 +5,6 @@ cask 'dafont-razorblade' do
     url 'http://dl.dafont.com/dl/?f=razorblade'
     name 'Razorblade'
     homepage 'http://www.dafont.com/razorblade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Razorblade.ttf'
 end

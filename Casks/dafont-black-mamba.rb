@@ -5,7 +5,6 @@ cask 'dafont-black-mamba' do
     url 'http://dl.dafont.com/dl/?f=black_mamba'
     name 'Black Mamba'
     homepage 'http://www.dafont.com/black-mamba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'black mamba.ttf'
 end

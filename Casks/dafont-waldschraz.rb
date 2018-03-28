@@ -5,7 +5,6 @@ cask 'dafont-waldschraz' do
     url 'http://dl.dafont.com/dl/?f=waldschraz'
     name 'Waldschraz'
     homepage 'http://www.dafont.com/waldschraz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Waldschraz.otf'
 end

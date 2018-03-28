@@ -5,7 +5,6 @@ cask 'dafont-dark-future' do
     url 'http://dl.dafont.com/dl/?f=dark_future'
     name 'Dark Future'
     homepage 'http://www.dafont.com/dark-future.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dark Future Italic.ttf'
 end

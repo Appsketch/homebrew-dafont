@@ -5,7 +5,6 @@ cask 'dafont-smasher-312' do
     url 'http://dl.dafont.com/dl/?f=smasher_312'
     name 'Smasher 312'
     homepage 'http://www.dafont.com/smasher-312.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smasher 312 Black.ttf'
     font 'Smasher 312.ttf'

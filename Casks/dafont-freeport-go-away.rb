@@ -5,7 +5,6 @@ cask 'dafont-freeport-go-away' do
     url 'http://dl.dafont.com/dl/?f=freeport_go_away'
     name 'Freeport Go Away'
     homepage 'http://www.dafont.com/freeport-go-away.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Freeport Go Away.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-decayed-in-sixty-seconds' do
     url 'http://dl.dafont.com/dl/?f=decayed_in_sixty_seconds'
     name 'Decayed in Sixty Seconds'
     homepage 'http://www.dafont.com/decayed-in-sixty-seconds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Decayed in Sixty Seconds.ttf'
 end

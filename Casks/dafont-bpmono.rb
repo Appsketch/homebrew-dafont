@@ -5,7 +5,6 @@ cask 'dafont-bpmono' do
     url 'http://dl.dafont.com/dl/?f=bpmono'
     name 'BPmono'
     homepage 'http://www.dafont.com/bpmono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BPmono.ttf'
     font 'BPmonoBold.ttf'

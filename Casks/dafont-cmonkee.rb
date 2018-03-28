@@ -5,7 +5,6 @@ cask 'dafont-cmonkee' do
     url 'http://dl.dafont.com/dl/?f=cmonkee'
     name 'CMonkee'
     homepage 'http://www.dafont.com/cmonkee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CMonkeeBold.ttf'
     font 'CMonkeeLight.ttf'

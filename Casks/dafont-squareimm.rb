@@ -5,7 +5,6 @@ cask 'dafont-squareimm' do
     url 'http://dl.dafont.com/dl/?f=squareimm'
     name 'Square iMM'
     homepage 'http://www.dafont.com/squareimm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'squareiMM.ttf'
 end

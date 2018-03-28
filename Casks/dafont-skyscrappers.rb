@@ -5,7 +5,6 @@ cask 'dafont-skyscrappers' do
     url 'http://dl.dafont.com/dl/?f=skyscrappers'
     name 'SkyScrappers'
     homepage 'http://www.dafont.com/skyscrappers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkyScrappers-Regular.otf'
 end

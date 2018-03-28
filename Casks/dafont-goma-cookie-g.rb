@@ -5,7 +5,6 @@ cask 'dafont-goma-cookie-g' do
     url 'http://dl.dafont.com/dl/?f=goma_cookie_g'
     name 'Goma Cookie G'
     homepage 'http://www.dafont.com/goma-cookie-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_goma_cookie.ttf'
 end

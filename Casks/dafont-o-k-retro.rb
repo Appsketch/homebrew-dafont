@@ -5,7 +5,6 @@ cask 'dafont-o-k-retro' do
     url 'http://dl.dafont.com/dl/?f=o_k_retro'
     name 'O.K. Retro'
     homepage 'http://www.dafont.com/o-k-retro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'O.K.Retro.otf'
 end

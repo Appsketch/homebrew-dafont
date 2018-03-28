@@ -5,7 +5,6 @@ cask 'dafont-crystal-lake' do
     url 'http://dl.dafont.com/dl/?f=crystal_lake'
     name 'Crystal Lake'
     homepage 'http://www.dafont.com/crystal-lake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crystal-Lake.ttf'
 end

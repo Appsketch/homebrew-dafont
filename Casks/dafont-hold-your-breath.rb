@@ -5,7 +5,6 @@ cask 'dafont-hold-your-breath' do
     url 'http://dl.dafont.com/dl/?f=hold_your_breath'
     name 'Hold your breath'
     homepage 'http://www.dafont.com/hold-your-breath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'holdyourbreath.ttf'
 end

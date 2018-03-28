@@ -5,7 +5,6 @@ cask 'dafont-reaffont' do
     url 'http://dl.dafont.com/dl/?f=reaffont'
     name 'Reaf Font'
     homepage 'http://www.dafont.com/reaffont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'reaf.TTF'
 end

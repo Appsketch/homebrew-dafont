@@ -5,7 +5,6 @@ cask 'dafont-dolphin-ocean-wave' do
     url 'http://dl.dafont.com/dl/?f=dolphin_ocean_wave'
     name 'Dolphin Ocean Wave'
     homepage 'http://www.dafont.com/dolphin-ocean-wave.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dolphin OCEAN WAVE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-droopy-poopy' do
     url 'http://dl.dafont.com/dl/?f=droopy_poopy'
     name 'Droopy Poopy'
     homepage 'http://www.dafont.com/droopy-poopy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DROOP___.TTF'
 end

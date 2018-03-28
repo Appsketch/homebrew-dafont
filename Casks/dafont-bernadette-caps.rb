@@ -5,7 +5,6 @@ cask 'dafont-bernadette-caps' do
     url 'http://dl.dafont.com/dl/?f=bernadette_caps'
     name 'Bernadette Caps'
     homepage 'http://www.dafont.com/bernadette-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bernadette [Caps].ttf'
 end

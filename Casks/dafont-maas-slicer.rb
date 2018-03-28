@@ -5,7 +5,6 @@ cask 'dafont-maas-slicer' do
     url 'http://dl.dafont.com/dl/?f=maas_slicer'
     name 'Maas Slicer'
     homepage 'http://www.dafont.com/maas-slicer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'maass slicer Italic.ttf'
 end

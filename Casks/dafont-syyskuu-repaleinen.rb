@@ -5,7 +5,6 @@ cask 'dafont-syyskuu-repaleinen' do
     url 'http://dl.dafont.com/dl/?f=syyskuu_repaleinen'
     name 'Syyskuu Repaleinen'
     homepage 'http://www.dafont.com/syyskuu-repaleinen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Syyskuu repaleinen.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-thrashline' do
     url 'http://dl.dafont.com/dl/?f=thrashline'
     name 'Thrashline'
     homepage 'http://www.dafont.com/thrashline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THRAS PERSONAL___.otf'
 end

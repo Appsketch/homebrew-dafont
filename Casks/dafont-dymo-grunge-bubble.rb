@@ -5,7 +5,6 @@ cask 'dafont-dymo-grunge-bubble' do
     url 'http://dl.dafont.com/dl/?f=dymo_grunge_bubble'
     name 'Dymo Grunge Bubble'
     homepage 'http://www.dafont.com/dymo-grunge-bubble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dymo Grunge Bubble.ttf'
 end

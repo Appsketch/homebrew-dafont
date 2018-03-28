@@ -5,7 +5,6 @@ cask 'dafont-darjeeling' do
     url 'http://dl.dafont.com/dl/?f=darjeeling'
     name 'Darjeeling'
     homepage 'http://www.dafont.com/darjeeling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Darjeeling.ttf'
 end

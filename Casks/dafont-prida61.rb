@@ -5,7 +5,6 @@ cask 'dafont-prida61' do
     url 'http://dl.dafont.com/dl/?f=prida61'
     name 'Prida 61'
     homepage 'http://www.dafont.com/prida61.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Prida61.otf'
 end

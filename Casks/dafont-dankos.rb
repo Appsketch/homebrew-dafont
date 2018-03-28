@@ -5,7 +5,6 @@ cask 'dafont-dankos' do
     url 'http://dl.dafont.com/dl/?f=dankos'
     name 'Dankos'
     homepage 'http://www.dafont.com/dankos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Danko skript.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-critical-mass-ldr' do
     url 'http://dl.dafont.com/dl/?f=critical_mass_ldr'
     name 'Critical Mass LDR'
     homepage 'http://www.dafont.com/critical-mass-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Critical-Mass-LDR.ttf'
 end

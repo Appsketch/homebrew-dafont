@@ -5,7 +5,6 @@ cask 'dafont-sepultura-demo' do
     url 'http://dl.dafont.com/dl/?f=sepultura_demo'
     name 'Sepultura'
     homepage 'http://www.dafont.com/sepultura-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEPUD___.TTF'
 end

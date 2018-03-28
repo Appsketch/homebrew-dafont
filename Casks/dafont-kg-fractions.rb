@@ -5,7 +5,6 @@ cask 'dafont-kg-fractions' do
     url 'http://dl.dafont.com/dl/?f=kg_fractions'
     name 'KG Fractions'
     homepage 'http://www.dafont.com/kg-fractions.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGFractions.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kg-how-many-times' do
     url 'http://dl.dafont.com/dl/?f=kg_how_many_times'
     name 'KG How Many Times'
     homepage 'http://www.dafont.com/kg-how-many-times.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGHowManyTimes.ttf'
 end

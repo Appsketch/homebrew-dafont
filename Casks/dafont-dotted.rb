@@ -5,7 +5,6 @@ cask 'dafont-dotted' do
     url 'http://dl.dafont.com/dl/?f=dotted'
     name 'Dotted'
     homepage 'http://www.dafont.com/dotted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dotted.ttf'
 end

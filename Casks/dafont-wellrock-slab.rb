@@ -5,7 +5,6 @@ cask 'dafont-wellrock-slab' do
     url 'http://dl.dafont.com/dl/?f=wellrock_slab'
     name 'Wellrock Slab'
     homepage 'http://www.dafont.com/wellrock-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WellrockSlab.ttf'
     font 'WellrockSlabBold.ttf'

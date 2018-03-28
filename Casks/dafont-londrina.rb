@@ -5,7 +5,6 @@ cask 'dafont-londrina' do
     url 'http://dl.dafont.com/dl/?f=londrina'
     name 'Londrina'
     homepage 'http://www.dafont.com/londrina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LondrinaOutline-Regular.otf'
     font 'LondrinaShadow-Regular.otf'

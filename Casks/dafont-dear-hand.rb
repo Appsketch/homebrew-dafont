@@ -5,7 +5,6 @@ cask 'dafont-dear-hand' do
     url 'http://dl.dafont.com/dl/?f=dear_hand'
     name 'Dear Hand'
     homepage 'http://www.dafont.com/dear-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deAr Hand-demo.otf'
 end

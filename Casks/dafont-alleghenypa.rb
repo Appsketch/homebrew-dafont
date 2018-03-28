@@ -5,7 +5,6 @@ cask 'dafont-alleghenypa' do
     url 'http://dl.dafont.com/dl/?f=alleghenypa'
     name 'Allegheny PA'
     homepage 'http://www.dafont.com/alleghenypa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlleghenyPA-Regular.ttf'
 end

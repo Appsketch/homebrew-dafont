@@ -5,7 +5,6 @@ cask 'dafont-vtks-giz' do
     url 'http://dl.dafont.com/dl/?f=vtks_giz'
     name 'Vtks Giz'
     homepage 'http://www.dafont.com/vtks-giz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks giz.ttf'
 end

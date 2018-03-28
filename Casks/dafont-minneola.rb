@@ -5,7 +5,6 @@ cask 'dafont-minneola' do
     url 'http://dl.dafont.com/dl/?f=minneola'
     name 'Minneola'
     homepage 'http://www.dafont.com/minneola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minneola.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-spoutnik' do
     url 'http://dl.dafont.com/dl/?f=spoutnik'
     name 'Spoutnik'
     homepage 'http://www.dafont.com/spoutnik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spoutnik.ttf'
 end

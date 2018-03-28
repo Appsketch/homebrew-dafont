@@ -5,7 +5,6 @@ cask 'dafont-tehzeta' do
     url 'http://dl.dafont.com/dl/?f=tehzeta'
     name 'Tehzeta'
     homepage 'http://www.dafont.com/tehzeta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tehzeta.ttf'
 end

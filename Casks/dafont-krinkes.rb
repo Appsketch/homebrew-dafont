@@ -5,7 +5,6 @@ cask 'dafont-krinkes' do
     url 'http://dl.dafont.com/dl/?f=krinkes'
     name 'Krinkes'
     homepage 'http://www.dafont.com/krinkes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KrinkesDecorPERSONAL.ttf'
     font 'KrinkesRegularPERSONAL.ttf'

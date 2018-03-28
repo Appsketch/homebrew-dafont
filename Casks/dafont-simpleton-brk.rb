@@ -5,7 +5,6 @@ cask 'dafont-simpleton-brk' do
     url 'http://dl.dafont.com/dl/?f=simpleton_brk'
     name 'Simpleton BRK'
     homepage 'http://www.dafont.com/simpleton-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'simplto2.ttf'
 end

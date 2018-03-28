@@ -5,7 +5,6 @@ cask 'dafont-terminant' do
     url 'http://dl.dafont.com/dl/?f=terminant'
     name 'Terminant'
     homepage 'http://www.dafont.com/terminant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Terminant.ttf'
 end

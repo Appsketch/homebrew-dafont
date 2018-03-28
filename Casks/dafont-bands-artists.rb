@@ -5,7 +5,6 @@ cask 'dafont-bands-artists' do
     url 'http://dl.dafont.com/dl/?f=bands_artists'
     name 'Bands &amp; Artists'
     homepage 'http://www.dafont.com/bands-artists.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bands_artists.ttf'
 end

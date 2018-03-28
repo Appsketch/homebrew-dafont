@@ -5,7 +5,6 @@ cask 'dafont-batho' do
     url 'http://dl.dafont.com/dl/?f=batho'
     name 'Batho'
     homepage 'http://www.dafont.com/batho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'batho.ttf'
 end

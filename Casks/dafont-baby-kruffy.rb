@@ -5,7 +5,6 @@ cask 'dafont-baby-kruffy' do
     url 'http://dl.dafont.com/dl/?f=baby_kruffy'
     name 'Baby Kruffy'
     homepage 'http://www.dafont.com/baby-kruffy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BABYK___.TTF'
 end

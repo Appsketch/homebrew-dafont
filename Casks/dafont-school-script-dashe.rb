@@ -5,7 +5,6 @@ cask 'dafont-school-script-dashe' do
     url 'http://dl.dafont.com/dl/?f=school_script_dashe'
     name 'School Script Dashed'
     homepage 'http://www.dafont.com/school-script-dashe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SchoolScriptDashed.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-like-font' do
     url 'http://dl.dafont.com/dl/?f=like_font'
     name 'Like Font'
     homepage 'http://www.dafont.com/like-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LIKE-PERSONAL.otf'
 end

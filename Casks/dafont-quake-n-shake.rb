@@ -5,7 +5,6 @@ cask 'dafont-quake-n-shake' do
     url 'http://dl.dafont.com/dl/?f=quake_n_shake'
     name 'Quake n&#039; Shake'
     homepage 'http://www.dafont.com/quake-n-shake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quake3d.ttf'
     font 'Quakec.ttf'

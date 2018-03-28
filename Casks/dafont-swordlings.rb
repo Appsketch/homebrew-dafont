@@ -5,7 +5,6 @@ cask 'dafont-swordlings' do
     url 'http://dl.dafont.com/dl/?f=swordlings'
     name 'Swordlings'
     homepage 'http://www.dafont.com/swordlings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swordlings.ttf'
 end

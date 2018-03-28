@@ -5,7 +5,6 @@ cask 'dafont-rittswood-redstar' do
     url 'http://dl.dafont.com/dl/?f=rittswood_redstar'
     name 'Rittswood RedStar'
     homepage 'http://www.dafont.com/rittswood-redstar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rtt-redstar_8.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kamera-dings' do
     url 'http://dl.dafont.com/dl/?f=kamera_dings'
     name 'Kamera Dings'
     homepage 'http://www.dafont.com/kamera-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kameradings.ttf'
 end

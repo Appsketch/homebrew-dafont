@@ -5,7 +5,6 @@ cask 'dafont-carbonized-timber' do
     url 'http://dl.dafont.com/dl/?f=carbonized_timber'
     name 'Carbonized Timber'
     homepage 'http://www.dafont.com/carbonized-timber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carbtim.ttf'
 end

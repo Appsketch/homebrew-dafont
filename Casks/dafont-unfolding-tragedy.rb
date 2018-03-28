@@ -5,7 +5,6 @@ cask 'dafont-unfolding-tragedy' do
     url 'http://dl.dafont.com/dl/?f=unfolding_tragedy'
     name 'Unfolding Tragedy'
     homepage 'http://www.dafont.com/unfolding-tragedy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'unfoldingtrag-textured.ttf'
     font 'unfoldingtrag.ttf'

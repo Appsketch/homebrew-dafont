@@ -5,7 +5,6 @@ cask 'dafont-superfear' do
     url 'http://dl.dafont.com/dl/?f=superfear'
     name 'Super Fear'
     homepage 'http://www.dafont.com/superfear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuperFear.ttf'
 end

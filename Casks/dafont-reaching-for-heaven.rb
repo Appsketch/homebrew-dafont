@@ -5,7 +5,6 @@ cask 'dafont-reaching-for-heaven' do
     url 'http://dl.dafont.com/dl/?f=reaching_for_heaven'
     name 'Reaching for Heaven'
     homepage 'http://www.dafont.com/reaching-for-heaven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ReachingforHeaven.ttf'
 end

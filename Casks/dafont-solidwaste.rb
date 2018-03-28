@@ -5,7 +5,6 @@ cask 'dafont-solidwaste' do
     url 'http://dl.dafont.com/dl/?f=solidwaste'
     name 'Solid Waste'
     homepage 'http://www.dafont.com/solidwaste.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SolidWaste.ttf'
 end

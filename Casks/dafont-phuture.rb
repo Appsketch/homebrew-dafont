@@ -5,7 +5,6 @@ cask 'dafont-phuture' do
     url 'http://dl.dafont.com/dl/?f=phuture'
     name 'PHuture'
     homepage 'http://www.dafont.com/phuture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PHuture.ttf'
 end

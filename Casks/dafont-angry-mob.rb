@@ -5,7 +5,6 @@ cask 'dafont-angry-mob' do
     url 'http://dl.dafont.com/dl/?f=angry_mob'
     name 'Angry Mob'
     homepage 'http://www.dafont.com/angry-mob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angry Mob.otf'
 end

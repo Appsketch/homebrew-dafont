@@ -5,7 +5,6 @@ cask 'dafont-cubifonk' do
     url 'http://dl.dafont.com/dl/?f=cubifonk'
     name 'Cubifonk'
     homepage 'http://www.dafont.com/cubifonk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CUBIFONK.ttf'
 end

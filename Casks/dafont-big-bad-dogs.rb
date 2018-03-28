@@ -5,7 +5,6 @@ cask 'dafont-big-bad-dogs' do
     url 'http://dl.dafont.com/dl/?f=big_bad_dogs'
     name 'Big Bad Dogs'
     homepage 'http://www.dafont.com/big-bad-dogs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Big Bad Dogs.ttf'
 end

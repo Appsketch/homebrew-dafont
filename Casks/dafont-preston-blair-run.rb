@@ -5,7 +5,6 @@ cask 'dafont-preston-blair-run' do
     url 'http://dl.dafont.com/dl/?f=preston_blair_run'
     name 'Preston Blair Run'
     homepage 'http://www.dafont.com/preston-blair-run.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrestonBlair-Run.ttf'
 end

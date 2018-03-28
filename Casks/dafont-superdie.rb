@@ -5,7 +5,6 @@ cask 'dafont-superdie' do
     url 'http://dl.dafont.com/dl/?f=superdie'
     name 'Superdie'
     homepage 'http://www.dafont.com/superdie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Superdie.otf'
 end

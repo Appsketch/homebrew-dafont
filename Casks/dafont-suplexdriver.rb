@@ -5,7 +5,6 @@ cask 'dafont-suplexdriver' do
     url 'http://dl.dafont.com/dl/?f=suplexdriver'
     name 'Suplex Driver'
     homepage 'http://www.dafont.com/suplexdriver.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuplexDriverBlack.otf'
     font 'SuplexDriverBlackObl.otf'

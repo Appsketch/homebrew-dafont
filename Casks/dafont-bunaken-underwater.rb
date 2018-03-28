@@ -5,7 +5,6 @@ cask 'dafont-bunaken-underwater' do
     url 'http://dl.dafont.com/dl/?f=bunaken_underwater'
     name 'Bunaken Underwater'
     homepage 'http://www.dafont.com/bunaken-underwater.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bunaken_Underwater.ttf'
 end

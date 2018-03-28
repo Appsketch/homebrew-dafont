@@ -5,7 +5,6 @@ cask 'dafont-skuer' do
     url 'http://dl.dafont.com/dl/?f=skuer'
     name 'Skuer'
     homepage 'http://www.dafont.com/skuer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skuer-Regular.ttf'
 end

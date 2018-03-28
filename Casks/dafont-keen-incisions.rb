@@ -5,7 +5,6 @@ cask 'dafont-keen-incisions' do
     url 'http://dl.dafont.com/dl/?f=keen_incisions'
     name 'Keen Incisions'
     homepage 'http://www.dafont.com/keen-incisions.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Keen_Incisions.ttf'
 end

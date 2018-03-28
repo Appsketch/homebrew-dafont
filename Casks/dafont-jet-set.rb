@@ -5,7 +5,6 @@ cask 'dafont-jet-set' do
     url 'http://dl.dafont.com/dl/?f=jet_set'
     name 'Jet Set'
     homepage 'http://www.dafont.com/jet-set.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jet Set Italic.ttf'
     font 'Jet Set.ttf'

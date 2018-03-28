@@ -5,7 +5,6 @@ cask 'dafont-natural-signs' do
     url 'http://dl.dafont.com/dl/?f=natural_signs'
     name 'FE Natural Signs'
     homepage 'http://www.dafont.com/natural-signs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE Natural Signs.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ea-font' do
     url 'http://dl.dafont.com/dl/?f=ea_font'
     name 'EA Font'
     homepage 'http://www.dafont.com/ea-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EASPORTS15.ttf'
 end

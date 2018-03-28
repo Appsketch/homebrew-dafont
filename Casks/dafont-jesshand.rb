@@ -5,7 +5,6 @@ cask 'dafont-jesshand' do
     url 'http://dl.dafont.com/dl/?f=jesshand'
     name 'Jess Hand'
     homepage 'http://www.dafont.com/jesshand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JessHand.ttf'
 end

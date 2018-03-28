@@ -5,7 +5,6 @@ cask 'dafont-mischstab-umbrella' do
     url 'http://dl.dafont.com/dl/?f=mischstab_umbrella'
     name 'Mischstab Umbrella Patina'
     homepage 'http://www.dafont.com/mischstab-umbrella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'miscup__.ttf'
 end

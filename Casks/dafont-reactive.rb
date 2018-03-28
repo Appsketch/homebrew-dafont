@@ -5,7 +5,6 @@ cask 'dafont-reactive' do
     url 'http://dl.dafont.com/dl/?f=reactive'
     name 'Reactive'
     homepage 'http://www.dafont.com/reactive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reactive.ttf'
 end

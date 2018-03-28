@@ -5,7 +5,6 @@ cask 'dafont-vmf-style' do
     url 'http://dl.dafont.com/dl/?f=vmf_style'
     name 'VMF Style'
     homepage 'http://www.dafont.com/vmf-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VMF_Style_ttf.otf'
 end

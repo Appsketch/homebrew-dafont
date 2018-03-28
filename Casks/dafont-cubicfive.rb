@@ -5,7 +5,6 @@ cask 'dafont-cubicfive' do
     url 'http://dl.dafont.com/dl/?f=cubicfive'
     name 'CubicFive'
     homepage 'http://www.dafont.com/cubicfive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cubicfive10.ttf'
     font 'cubicfive12.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-nyet' do
     url 'http://dl.dafont.com/dl/?f=nyet'
     name 'Nyet'
     homepage 'http://www.dafont.com/nyet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nyet.ttf'
     font 'nyet3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-fine-scketch' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_fine_scketch'
     name 'Woodcutter Fine Scketch'
     homepage 'http://www.dafont.com/woodcutter-fine-scketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Fine Scketch.ttf'
 end

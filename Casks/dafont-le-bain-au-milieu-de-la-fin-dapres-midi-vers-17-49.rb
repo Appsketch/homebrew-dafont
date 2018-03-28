@@ -5,7 +5,6 @@ cask 'dafont-le-bain-au-milieu-de-la-fin-dapres-midi-vers-17-49' do
     url 'http://dl.dafont.com/dl/?f=le_bain_au_milieu_de_la_fin_dapres_midi_vers_17_49'
     name 'Le bain au milieu de la fin d&#039;apr&egrave;s-midi vers 17:49'
     homepage 'http://www.dafont.com/le-bain-au-milieu-de-la-fin-dapres-midi-vers-17-49.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'le_bain_au_soir.ttf'
 end

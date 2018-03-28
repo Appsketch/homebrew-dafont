@@ -5,7 +5,6 @@ cask 'dafont-fishsticks01' do
     url 'http://dl.dafont.com/dl/?f=fishsticks01'
     name 'Fishsticks 01'
     homepage 'http://www.dafont.com/fishsticks01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FISHSTICKS01.otf'
 end

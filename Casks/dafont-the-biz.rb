@@ -5,7 +5,6 @@ cask 'dafont-the-biz' do
     url 'http://dl.dafont.com/dl/?f=the_biz'
     name 'The Biz'
     homepage 'http://www.dafont.com/the-biz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheBizDEMO-KCFonts.ttf'
 end

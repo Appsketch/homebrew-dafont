@@ -5,7 +5,6 @@ cask 'dafont-monoment' do
     url 'http://dl.dafont.com/dl/?f=monoment'
     name 'Monoment'
     homepage 'http://www.dafont.com/monoment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PersonalUse_Monoment.ttf'
 end

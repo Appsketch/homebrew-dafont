@@ -5,7 +5,6 @@ cask 'dafont-phantom-ghost' do
     url 'http://dl.dafont.com/dl/?f=phantom_ghost'
     name 'Phantom Ghost'
     homepage 'http://www.dafont.com/phantom-ghost.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phantom Ghost.ttf'
 end

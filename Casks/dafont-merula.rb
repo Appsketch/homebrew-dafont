@@ -5,7 +5,6 @@ cask 'dafont-merula' do
     url 'http://dl.dafont.com/dl/?f=merula'
     name 'Merula'
     homepage 'http://www.dafont.com/merula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Merula alternative.otf'
     font 'Merula Long.otf'

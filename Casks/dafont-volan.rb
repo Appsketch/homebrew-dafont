@@ -5,7 +5,6 @@ cask 'dafont-volan' do
     url 'http://dl.dafont.com/dl/?f=volan'
     name 'Volan'
     homepage 'http://www.dafont.com/volan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Volan.ttf'
 end

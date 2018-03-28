@@ -5,7 +5,6 @@ cask 'dafont-birthmark' do
     url 'http://dl.dafont.com/dl/?f=birthmark'
     name 'Birthmark'
     homepage 'http://www.dafont.com/birthmark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'birthmark.ttf'
 end

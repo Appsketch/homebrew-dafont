@@ -5,7 +5,6 @@ cask 'dafont-trip-trap' do
     url 'http://dl.dafont.com/dl/?f=trip_trap'
     name 'Trip Trap'
     homepage 'http://www.dafont.com/trip-trap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trip Trap.ttf'
 end

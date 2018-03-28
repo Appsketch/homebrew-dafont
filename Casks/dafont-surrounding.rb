@@ -5,7 +5,6 @@ cask 'dafont-surrounding' do
     url 'http://dl.dafont.com/dl/?f=surrounding'
     name 'Surrounding'
     homepage 'http://www.dafont.com/surrounding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SurroundingBold.otf'
     font 'SurroundingRegular.otf'

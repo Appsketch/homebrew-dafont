@@ -5,7 +5,6 @@ cask 'dafont-maagkramp' do
     url 'http://dl.dafont.com/dl/?f=maagkramp'
     name 'Maagkramp'
     homepage 'http://www.dafont.com/maagkramp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'maagkramp.ttf'
 end

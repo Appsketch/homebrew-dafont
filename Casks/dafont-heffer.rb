@@ -5,7 +5,6 @@ cask 'dafont-heffer' do
     url 'http://dl.dafont.com/dl/?f=heffer'
     name 'Heffer'
     homepage 'http://www.dafont.com/heffer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heffer.ttf'
 end

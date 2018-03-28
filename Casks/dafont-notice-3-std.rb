@@ -5,7 +5,6 @@ cask 'dafont-notice-3-std' do
     url 'http://dl.dafont.com/dl/?f=notice_3_std'
     name 'Notice 3 Std'
     homepage 'http://www.dafont.com/notice-3-std.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Notice3Std.otf'
 end

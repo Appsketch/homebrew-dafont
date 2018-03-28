@@ -5,7 +5,6 @@ cask 'dafont-catena' do
     url 'http://dl.dafont.com/dl/?f=catena'
     name 'Catena'
     homepage 'http://www.dafont.com/catena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'catena.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-oblivion' do
     url 'http://dl.dafont.com/dl/?f=oblivion'
     name 'Oblivion'
     homepage 'http://www.dafont.com/oblivion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'oblivion-font.ttf'
 end

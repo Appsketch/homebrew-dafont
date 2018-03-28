@@ -5,7 +5,6 @@ cask 'dafont-lava-silhouettes' do
     url 'http://dl.dafont.com/dl/?f=lava_silhouettes'
     name 'Lava Silhouettes'
     homepage 'http://www.dafont.com/lava-silhouettes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lava Silhouettes.ttf'
 end

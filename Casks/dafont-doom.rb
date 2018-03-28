@@ -5,7 +5,6 @@ cask 'dafont-doom' do
     url 'http://dl.dafont.com/dl/?f=doom'
     name 'Doom'
     homepage 'http://www.dafont.com/doom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DooM.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-deutsche-anwaltshotline' do
     url 'http://dl.dafont.com/dl/?f=deutsche_anwaltshotline'
     name 'Deutsche Anwaltshotline'
     homepage 'http://www.dafont.com/deutsche-anwaltshotline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deutsche anwaltshotline.otf'
 end

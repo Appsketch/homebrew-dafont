@@ -5,7 +5,6 @@ cask 'dafont-disc' do
     url 'http://dl.dafont.com/dl/?f=disc'
     name 'Disc'
     homepage 'http://www.dafont.com/disc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'disc_black.TTF'
     font 'disc.TTF'

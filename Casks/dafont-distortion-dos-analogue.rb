@@ -5,7 +5,6 @@ cask 'dafont-distortion-dos-analogue' do
     url 'http://dl.dafont.com/dl/?f=distortion_dos_analogue'
     name 'Distortion Dos Analogue'
     homepage 'http://www.dafont.com/distortion-dos-analogue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Distortion Dos Analogue.otf'
 end

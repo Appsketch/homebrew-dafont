@@ -5,7 +5,6 @@ cask 'dafont-waker' do
     url 'http://dl.dafont.com/dl/?f=waker'
     name 'Waker'
     homepage 'http://www.dafont.com/waker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'waker.ttf'
 end

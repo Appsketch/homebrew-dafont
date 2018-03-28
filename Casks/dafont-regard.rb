@@ -5,7 +5,6 @@ cask 'dafont-regard' do
     url 'http://dl.dafont.com/dl/?f=regard'
     name 'Regard'
     homepage 'http://www.dafont.com/regard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'regard.ttf'
 end

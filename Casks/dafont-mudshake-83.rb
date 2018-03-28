@@ -5,7 +5,6 @@ cask 'dafont-mudshake-83' do
     url 'http://dl.dafont.com/dl/?f=mudshake_83'
     name 'Mudshake 83'
     homepage 'http://www.dafont.com/mudshake-83.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MUDSHAKE_83.ttf'
 end

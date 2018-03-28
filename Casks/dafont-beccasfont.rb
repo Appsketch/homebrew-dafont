@@ -5,7 +5,6 @@ cask 'dafont-beccasfont' do
     url 'http://dl.dafont.com/dl/?f=beccasfont'
     name 'Beccasfont'
     homepage 'http://www.dafont.com/beccasfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beccasfont.ttf'
 end

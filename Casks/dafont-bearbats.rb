@@ -5,7 +5,6 @@ cask 'dafont-bearbats' do
     url 'http://dl.dafont.com/dl/?f=bearbats'
     name 'BearBats'
     homepage 'http://www.dafont.com/bearbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bearbats.ttf'
 end

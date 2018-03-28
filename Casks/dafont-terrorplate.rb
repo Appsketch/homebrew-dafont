@@ -5,7 +5,6 @@ cask 'dafont-terrorplate' do
     url 'http://dl.dafont.com/dl/?f=terrorplate'
     name 'Terrorplate'
     homepage 'http://www.dafont.com/terrorplate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Terrorplate.ttf'
 end

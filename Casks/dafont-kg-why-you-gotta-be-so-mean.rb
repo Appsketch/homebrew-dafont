@@ -5,7 +5,6 @@ cask 'dafont-kg-why-you-gotta-be-so-mean' do
     url 'http://dl.dafont.com/dl/?f=kg_why_you_gotta_be_so_mean'
     name 'KG Why You Gotta Be So Mean'
     homepage 'http://www.dafont.com/kg-why-you-gotta-be-so-mean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGWhYYouGoTtABeSoMeAn.ttf'
     font 'KGWhYYouGoTtABeSoMeAn2.ttf'

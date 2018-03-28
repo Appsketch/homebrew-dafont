@@ -5,7 +5,6 @@ cask 'dafont-tequila' do
     url 'http://dl.dafont.com/dl/?f=tequila'
     name 'Tequila'
     homepage 'http://www.dafont.com/tequila.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TEQUILA_.TTF'
 end

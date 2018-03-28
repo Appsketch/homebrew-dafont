@@ -5,7 +5,6 @@ cask 'dafont-emperors-scrawl' do
     url 'http://dl.dafont.com/dl/?f=emperors_scrawl'
     name 'Emperors Scrawl'
     homepage 'http://www.dafont.com/emperors-scrawl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Emperors.TTF'
 end

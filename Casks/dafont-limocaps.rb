@@ -5,7 +5,6 @@ cask 'dafont-limocaps' do
     url 'http://dl.dafont.com/dl/?f=limocaps'
     name 'LimoCaps'
     homepage 'http://www.dafont.com/limocaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LimoCaps.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ftf-minthee-limo' do
     url 'http://dl.dafont.com/dl/?f=ftf_minthee_limo'
     name 'FTF Minthee Limo'
     homepage 'http://www.dafont.com/ftf-minthee-limo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Minthee Limo-.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-boutefeu' do
     url 'http://dl.dafont.com/dl/?f=boutefeu'
     name 'Boutefeu'
     homepage 'http://www.dafont.com/boutefeu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boutefeu-Italic.ttf'
     font 'Boutefeu-Regular.ttf'

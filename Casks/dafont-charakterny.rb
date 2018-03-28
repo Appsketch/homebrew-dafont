@@ -5,7 +5,6 @@ cask 'dafont-charakterny' do
     url 'http://dl.dafont.com/dl/?f=charakterny'
     name 'Charakterny'
     homepage 'http://www.dafont.com/charakterny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Charakterny.otf'
 end

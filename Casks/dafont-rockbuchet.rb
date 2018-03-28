@@ -5,7 +5,6 @@ cask 'dafont-rockbuchet' do
     url 'http://dl.dafont.com/dl/?f=rockbuchet'
     name 'RockBuchet'
     homepage 'http://www.dafont.com/rockbuchet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RockBuchet-Regular.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hl2mp' do
     url 'http://dl.dafont.com/dl/?f=hl2mp'
     name 'HL2MP'
     homepage 'http://www.dafont.com/hl2mp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Headhumper.ttf'
 end

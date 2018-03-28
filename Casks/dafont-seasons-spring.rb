@@ -5,7 +5,6 @@ cask 'dafont-seasons-spring' do
     url 'http://dl.dafont.com/dl/?f=seasons_spring'
     name 'Seasons-Spring'
     homepage 'http://www.dafont.com/seasons-spring.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'seasons-spring.ttf'
 end

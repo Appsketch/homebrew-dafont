@@ -5,7 +5,6 @@ cask 'dafont-ger4ronl-cond' do
     url 'http://dl.dafont.com/dl/?f=ger4ronl_cond'
     name 'Ger4ronL Cond'
     homepage 'http://www.dafont.com/ger4ronl-cond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ger4ronL.ttf'
 end

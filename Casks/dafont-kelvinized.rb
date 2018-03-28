@@ -5,7 +5,6 @@ cask 'dafont-kelvinized' do
     url 'http://dl.dafont.com/dl/?f=kelvinized'
     name 'Kelvinized'
     homepage 'http://www.dafont.com/kelvinized.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kelvinized.ttf'
 end

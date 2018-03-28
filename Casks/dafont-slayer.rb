@@ -5,7 +5,6 @@ cask 'dafont-slayer' do
     url 'http://dl.dafont.com/dl/?f=slayer'
     name 'Slayer'
     homepage 'http://www.dafont.com/slayer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'slayer11.TTF'
 end

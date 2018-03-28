@@ -5,7 +5,6 @@ cask 'dafont-long-cool-family' do
     url 'http://dl.dafont.com/dl/?f=long_cool_family'
     name 'Long Cool Family'
     homepage 'http://www.dafont.com/long-cool-family.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LongCoolGrandma.ttf'
     font 'LongCoolMother.ttf'

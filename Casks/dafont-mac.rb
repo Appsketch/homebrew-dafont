@@ -5,7 +5,6 @@ cask 'dafont-mac' do
     url 'http://dl.dafont.com/dl/?f=mac'
     name 'MAC'
     homepage 'http://www.dafont.com/mac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAC.ttf'
 end

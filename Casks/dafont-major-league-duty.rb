@@ -5,7 +5,6 @@ cask 'dafont-major-league-duty' do
     url 'http://dl.dafont.com/dl/?f=major_league_duty'
     name 'Major League Duty'
     homepage 'http://www.dafont.com/major-league-duty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Major League Duty.otf'
 end

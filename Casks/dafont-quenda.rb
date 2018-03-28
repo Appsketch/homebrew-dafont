@@ -5,7 +5,6 @@ cask 'dafont-quenda' do
     url 'http://dl.dafont.com/dl/?f=quenda'
     name 'Quenda'
     homepage 'http://www.dafont.com/quenda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quenda-Medium.otf'
 end

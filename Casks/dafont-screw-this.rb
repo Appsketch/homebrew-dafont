@@ -5,7 +5,6 @@ cask 'dafont-screw-this' do
     url 'http://dl.dafont.com/dl/?f=screw_this'
     name 'Screw This'
     homepage 'http://www.dafont.com/screw-this.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'screw this.ttf'
 end

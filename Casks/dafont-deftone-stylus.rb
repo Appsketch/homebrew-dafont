@@ -5,7 +5,6 @@ cask 'dafont-deftone-stylus' do
     url 'http://dl.dafont.com/dl/?f=deftone_stylus'
     name 'Deftone Stylus'
     homepage 'http://www.dafont.com/deftone-stylus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deftone stylus.ttf'
 end

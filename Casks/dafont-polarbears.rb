@@ -5,7 +5,6 @@ cask 'dafont-polarbears' do
     url 'http://dl.dafont.com/dl/?f=polarbears'
     name 'Polar Bears'
     homepage 'http://www.dafont.com/polarbears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PolarBears.ttf'
 end

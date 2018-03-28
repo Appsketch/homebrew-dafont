@@ -5,7 +5,6 @@ cask 'dafont-tomb-raider' do
     url 'http://dl.dafont.com/dl/?f=tomb_raider'
     name 'TR Heavy'
     homepage 'http://www.dafont.com/tomb-raider.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRHEAVY_.TTF'
 end

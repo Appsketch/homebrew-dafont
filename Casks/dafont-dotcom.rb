@@ -5,7 +5,6 @@ cask 'dafont-dotcom' do
     url 'http://dl.dafont.com/dl/?f=dotcom'
     name 'Dot Com'
     homepage 'http://www.dafont.com/dotcom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dot Com.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cadeiraspc' do
     url 'http://dl.dafont.com/dl/?f=cadeiraspc'
     name 'Cadeiras'
     homepage 'http://www.dafont.com/cadeiraspc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cadeiras.TTF'
 end

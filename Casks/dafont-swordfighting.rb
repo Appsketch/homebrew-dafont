@@ -5,7 +5,6 @@ cask 'dafont-swordfighting' do
     url 'http://dl.dafont.com/dl/?f=swordfighting'
     name 'Sword Fighting'
     homepage 'http://www.dafont.com/swordfighting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SwordFighting.ttf'
 end

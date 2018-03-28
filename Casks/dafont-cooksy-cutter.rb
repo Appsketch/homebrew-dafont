@@ -5,7 +5,6 @@ cask 'dafont-cooksy-cutter' do
     url 'http://dl.dafont.com/dl/?f=cooksy_cutter'
     name 'Cooksy Cutter'
     homepage 'http://www.dafont.com/cooksy-cutter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cooksy_Cutter.ttf'
 end

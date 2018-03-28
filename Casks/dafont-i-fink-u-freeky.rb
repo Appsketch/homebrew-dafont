@@ -5,7 +5,6 @@ cask 'dafont-i-fink-u-freeky' do
     url 'http://dl.dafont.com/dl/?f=i_fink_u_freeky'
     name 'I fink u freeky'
     homepage 'http://www.dafont.com/i-fink-u-freeky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'i_fink_u_freeky.ttf'
 end

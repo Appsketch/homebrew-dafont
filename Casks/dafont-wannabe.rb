@@ -5,7 +5,6 @@ cask 'dafont-wannabe' do
     url 'http://dl.dafont.com/dl/?f=wannabe'
     name 'Wannabe'
     homepage 'http://www.dafont.com/wannabe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WANNABE.otf'
 end

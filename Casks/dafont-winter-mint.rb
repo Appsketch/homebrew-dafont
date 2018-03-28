@@ -5,7 +5,6 @@ cask 'dafont-winter-mint' do
     url 'http://dl.dafont.com/dl/?f=winter_mint'
     name 'Winter Mint'
     homepage 'http://www.dafont.com/winter-mint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Winter Mint.otf'
 end

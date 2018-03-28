@@ -5,7 +5,6 @@ cask 'dafont-mechfire' do
     url 'http://dl.dafont.com/dl/?f=mechfire'
     name 'Mechfire'
     homepage 'http://www.dafont.com/mechfire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mechfire Bold Italic.otf'
     font 'Mechfire Bold.otf'

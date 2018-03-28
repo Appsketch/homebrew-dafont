@@ -5,7 +5,6 @@ cask 'dafont-phylactere-demo' do
     url 'http://dl.dafont.com/dl/?f=phylactere_demo'
     name 'Phylactere Demo'
     homepage 'http://www.dafont.com/phylactere-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PhylactereDEMO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rodaja' do
     url 'http://dl.dafont.com/dl/?f=rodaja'
     name 'Rodaja'
     homepage 'http://www.dafont.com/rodaja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Rodaja.ttf'
 end

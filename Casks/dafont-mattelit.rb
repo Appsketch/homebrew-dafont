@@ -5,7 +5,6 @@ cask 'dafont-mattelit' do
     url 'http://dl.dafont.com/dl/?f=mattelit'
     name 'Mattelit'
     homepage 'http://www.dafont.com/mattelit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mattelit.fon'
 end

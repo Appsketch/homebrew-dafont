@@ -5,7 +5,6 @@ cask 'dafont-spotevent' do
     url 'http://dl.dafont.com/dl/?f=spotevent'
     name 'Spot Event'
     homepage 'http://www.dafont.com/spotevent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpotEvent.ttf'
 end

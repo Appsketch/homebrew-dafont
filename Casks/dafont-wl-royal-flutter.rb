@@ -5,7 +5,6 @@ cask 'dafont-wl-royal-flutter' do
     url 'http://dl.dafont.com/dl/?f=wl_royal_flutter'
     name 'WL Royal Flutter'
     homepage 'http://www.dafont.com/wl-royal-flutter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WLRoyalFlutterBold.ttf'
     font 'WLRoyalFlutterOpen.ttf'

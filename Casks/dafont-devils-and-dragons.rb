@@ -5,7 +5,6 @@ cask 'dafont-devils-and-dragons' do
     url 'http://dl.dafont.com/dl/?f=devils_and_dragons'
     name 'Devils and Dragons'
     homepage 'http://www.dafont.com/devils-and-dragons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEVID___.TTF'
 end

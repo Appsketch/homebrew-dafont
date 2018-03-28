@@ -5,7 +5,6 @@ cask 'dafont-regent-unz' do
     url 'http://dl.dafont.com/dl/?f=regent_unz'
     name 'Regent UNZ'
     homepage 'http://www.dafont.com/regent-unz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Regent UNZ.ttf'
 end

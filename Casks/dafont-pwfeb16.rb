@@ -5,7 +5,6 @@ cask 'dafont-pwfeb16' do
     url 'http://dl.dafont.com/dl/?f=pwfeb16'
     name 'PW Feb 16'
     homepage 'http://www.dafont.com/pwfeb16.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWFeb16.ttf'
 end

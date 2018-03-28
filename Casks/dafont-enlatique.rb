@@ -5,7 +5,6 @@ cask 'dafont-enlatique' do
     url 'http://dl.dafont.com/dl/?f=enlatique'
     name 'Enlatique'
     homepage 'http://www.dafont.com/enlatique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'enlatique.ttf'
 end

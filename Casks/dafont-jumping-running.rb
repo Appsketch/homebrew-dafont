@@ -5,7 +5,6 @@ cask 'dafont-jumping-running' do
     url 'http://dl.dafont.com/dl/?f=jumping_running'
     name 'Jumping Running'
     homepage 'http://www.dafont.com/jumping-running.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jumping Running.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gentleman-caller' do
     url 'http://dl.dafont.com/dl/?f=gentleman_caller'
     name 'Gentleman Caller'
     homepage 'http://www.dafont.com/gentleman-caller.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gentlemancaller.ttf'
     font 'gentlemancaller3d.ttf'

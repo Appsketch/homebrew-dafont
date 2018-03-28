@@ -5,7 +5,6 @@ cask 'dafont-pollo-pueblo' do
     url 'http://dl.dafont.com/dl/?f=pollo_pueblo'
     name 'Pollo Pueblo'
     homepage 'http://www.dafont.com/pollo-pueblo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pollo Pueblo - Black.ttf'
     font 'Pollo Pueblo.ttf'

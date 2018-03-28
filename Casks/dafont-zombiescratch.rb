@@ -5,7 +5,6 @@ cask 'dafont-zombiescratch' do
     url 'http://dl.dafont.com/dl/?f=zombiescratch'
     name 'Zombie Scratch'
     homepage 'http://www.dafont.com/zombiescratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZombieScratch.ttf'
 end

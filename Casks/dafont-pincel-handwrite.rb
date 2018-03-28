@@ -5,7 +5,6 @@ cask 'dafont-pincel-handwrite' do
     url 'http://dl.dafont.com/dl/?f=pincel_handwrite'
     name 'Pincel handwrite'
     homepage 'http://www.dafont.com/pincel-handwrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pincel handwrite.ttf'
 end

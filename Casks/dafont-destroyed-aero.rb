@@ -5,7 +5,6 @@ cask 'dafont-destroyed-aero' do
     url 'http://dl.dafont.com/dl/?f=destroyed_aero'
     name 'Destroyed Aero'
     homepage 'http://www.dafont.com/destroyed-aero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Destroyed Aero.ttf'
 end

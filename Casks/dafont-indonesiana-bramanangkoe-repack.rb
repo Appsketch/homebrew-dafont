@@ -5,7 +5,6 @@ cask 'dafont-indonesiana-bramanangkoe-repack' do
     url 'http://dl.dafont.com/dl/?f=indonesiana_bramanangkoe_repack'
     name 'FTF Indonesiana Bramanangkoe'
     homepage 'http://www.dafont.com/indonesiana-bramanangkoe-repack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Indonesiana Bramanangkoe Repackage.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-minisystem' do
     url 'http://dl.dafont.com/dl/?f=minisystem'
     name 'Minisystem'
     homepage 'http://www.dafont.com/minisystem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'minisystem.ttf'
 end

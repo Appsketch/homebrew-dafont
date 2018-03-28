@@ -5,7 +5,6 @@ cask 'dafont-weaselbee-beans' do
     url 'http://dl.dafont.com/dl/?f=weaselbee_beans'
     name 'Weaselbee Beans'
     homepage 'http://www.dafont.com/weaselbee-beans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Weaselbee beans.ttf'
 end

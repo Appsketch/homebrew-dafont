@@ -5,7 +5,6 @@ cask 'dafont-kg-miss-kindy' do
     url 'http://dl.dafont.com/dl/?f=kg_miss_kindy'
     name 'KG Miss Kindy'
     homepage 'http://www.dafont.com/kg-miss-kindy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGMissKindyBubble.ttf'
     font 'KGMissKindyChunky.ttf'

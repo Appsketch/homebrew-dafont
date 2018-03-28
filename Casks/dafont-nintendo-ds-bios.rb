@@ -5,7 +5,6 @@ cask 'dafont-nintendo-ds-bios' do
     url 'http://dl.dafont.com/dl/?f=nintendo_ds_bios'
     name 'Nintendo DS BIOS'
     homepage 'http://www.dafont.com/nintendo-ds-bios.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nintendo-DS-BIOS.ttf'
 end

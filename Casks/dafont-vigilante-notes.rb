@@ -5,7 +5,6 @@ cask 'dafont-vigilante-notes' do
     url 'http://dl.dafont.com/dl/?f=vigilante_notes'
     name 'Vigilante Notes'
     homepage 'http://www.dafont.com/vigilante-notes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vinotef.ttf'
     font 'Vinotefc.ttf'

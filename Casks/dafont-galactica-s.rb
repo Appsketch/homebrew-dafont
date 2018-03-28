@@ -5,7 +5,6 @@ cask 'dafont-galactica-s' do
     url 'http://dl.dafont.com/dl/?f=galactica_s'
     name 'Galactica S'
     homepage 'http://www.dafont.com/galactica-s.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GalacticaS-BigStripes.otf'
     font 'GalacticaS-Bold.otf'

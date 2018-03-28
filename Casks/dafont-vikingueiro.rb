@@ -5,7 +5,6 @@ cask 'dafont-vikingueiro' do
     url 'http://dl.dafont.com/dl/?f=vikingueiro'
     name 'Vikingueiro'
     homepage 'http://www.dafont.com/vikingueiro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vikingueiro.ttf'
 end

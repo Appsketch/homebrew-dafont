@@ -5,7 +5,6 @@ cask 'dafont-telegraphem' do
     url 'http://dl.dafont.com/dl/?f=telegraphem'
     name 'Telegraphem'
     homepage 'http://www.dafont.com/telegraphem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Telegraphem.otf'
 end

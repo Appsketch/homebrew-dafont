@@ -5,7 +5,6 @@ cask 'dafont-typo-geoslab' do
     url 'http://dl.dafont.com/dl/?f=typo_geoslab'
     name 'Typo GeoSlab'
     homepage 'http://www.dafont.com/typo-geoslab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typo GeoSlab Regular Demo.otf'
     font 'Typo GeoSlab Thin Demo.otf'

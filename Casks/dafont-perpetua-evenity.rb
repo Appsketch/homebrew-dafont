@@ -5,7 +5,6 @@ cask 'dafont-perpetua-evenity' do
     url 'http://dl.dafont.com/dl/?f=perpetua_evenity'
     name 'Perpetua Evenity'
     homepage 'http://www.dafont.com/perpetua-evenity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Perpetua Evenity.ttf'
 end

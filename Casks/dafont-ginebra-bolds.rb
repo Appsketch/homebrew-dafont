@@ -5,7 +5,6 @@ cask 'dafont-ginebra-bolds' do
     url 'http://dl.dafont.com/dl/?f=ginebra_bolds'
     name 'Ginebra Bolds'
     homepage 'http://www.dafont.com/ginebra-bolds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ginebra_Bolds.ttf'
 end

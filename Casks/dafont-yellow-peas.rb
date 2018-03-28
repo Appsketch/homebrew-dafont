@@ -5,7 +5,6 @@ cask 'dafont-yellow-peas' do
     url 'http://dl.dafont.com/dl/?f=yellow_peas'
     name 'Yellow Peas'
     homepage 'http://www.dafont.com/yellow-peas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yellow Peas Bold demo.ttf'
     font 'yellow peas demo.ttf'

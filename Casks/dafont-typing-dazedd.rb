@@ -5,7 +5,6 @@ cask 'dafont-typing-dazedd' do
     url 'http://dl.dafont.com/dl/?f=typing_dazedd'
     name 'Typing Dazedd'
     homepage 'http://www.dafont.com/typing-dazedd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typing Dazedd.ttf'
 end

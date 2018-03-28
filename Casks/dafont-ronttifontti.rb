@@ -5,7 +5,6 @@ cask 'dafont-ronttifontti' do
     url 'http://dl.dafont.com/dl/?f=ronttifontti'
     name 'Ronttifontti'
     homepage 'http://www.dafont.com/ronttifontti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ronttifontti.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sewing-patterns-2' do
     url 'http://dl.dafont.com/dl/?f=sewing_patterns_2'
     name 'Sewing Patterns 2'
     homepage 'http://www.dafont.com/sewing-patterns-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sewingpatterns2.ttf'
 end

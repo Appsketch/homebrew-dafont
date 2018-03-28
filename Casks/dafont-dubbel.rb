@@ -5,7 +5,6 @@ cask 'dafont-dubbel' do
     url 'http://dl.dafont.com/dl/?f=dubbel'
     name 'dUBBEL'
     homepage 'http://www.dafont.com/dubbel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DUBBEL__.TTF'
 end

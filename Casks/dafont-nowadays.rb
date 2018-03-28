@@ -5,7 +5,6 @@ cask 'dafont-nowadays' do
     url 'http://dl.dafont.com/dl/?f=nowadays'
     name 'Nowadays'
     homepage 'http://www.dafont.com/nowadays.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nowadays Italic.ttf'
     font 'Nowadays Regular.ttf'

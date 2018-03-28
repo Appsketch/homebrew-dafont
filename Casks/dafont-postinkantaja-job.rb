@@ -5,7 +5,6 @@ cask 'dafont-postinkantaja-job' do
     url 'http://dl.dafont.com/dl/?f=postinkantaja_job'
     name 'Postinkantaja Job'
     homepage 'http://www.dafont.com/postinkantaja-job.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PostinkantajaJob.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-night-train-315' do
     url 'http://dl.dafont.com/dl/?f=night_train_315'
     name 'Night Train 315'
     homepage 'http://www.dafont.com/night-train-315.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'night_train_315.ttf'
 end

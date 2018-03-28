@@ -5,7 +5,6 @@ cask 'dafont-remodula' do
     url 'http://dl.dafont.com/dl/?f=remodula'
     name 'Remodula'
     homepage 'http://www.dafont.com/remodula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'remodula.ttf'
 end

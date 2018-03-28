@@ -5,7 +5,6 @@ cask 'dafont-final-lap' do
     url 'http://dl.dafont.com/dl/?f=final_lap'
     name 'Final Lap'
     homepage 'http://www.dafont.com/final-lap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'final lap.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-old-book-g' do
     url 'http://dl.dafont.com/dl/?f=old_book_g'
     name 'Old Book G'
     homepage 'http://www.dafont.com/old-book-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_old_book.ttf'
 end

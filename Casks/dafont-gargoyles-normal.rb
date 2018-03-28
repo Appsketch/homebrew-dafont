@@ -5,7 +5,6 @@ cask 'dafont-gargoyles-normal' do
     url 'http://dl.dafont.com/dl/?f=gargoyles_normal'
     name 'Gargoyles'
     homepage 'http://www.dafont.com/gargoyles-normal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gargoyles Italic.ttf'
     font 'Gargoyles.ttf'

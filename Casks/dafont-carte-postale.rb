@@ -5,7 +5,6 @@ cask 'dafont-carte-postale' do
     url 'http://dl.dafont.com/dl/?f=carte_postale'
     name 'Carte Postale'
     homepage 'http://www.dafont.com/carte-postale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carte Postale bold.ttf'
     font 'Carte Postale.ttf'

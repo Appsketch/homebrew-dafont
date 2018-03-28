@@ -5,7 +5,6 @@ cask 'dafont-monserga-ffp' do
     url 'http://dl.dafont.com/dl/?f=monserga_ffp'
     name 'Monserga FFP'
     homepage 'http://www.dafont.com/monserga-ffp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monserga-regular-FFP.ttf'
 end

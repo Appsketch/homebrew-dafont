@@ -5,7 +5,6 @@ cask 'dafont-mb-gothicdawn' do
     url 'http://dl.dafont.com/dl/?f=mb_gothicdawn'
     name 'MB Gothic Dawn'
     homepage 'http://www.dafont.com/mb-gothicdawn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-GothicDawn_Font.ttf'
 end

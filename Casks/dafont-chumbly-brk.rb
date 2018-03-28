@@ -5,7 +5,6 @@ cask 'dafont-chumbly-brk' do
     url 'http://dl.dafont.com/dl/?f=chumbly_brk'
     name 'Chumbly BRK'
     homepage 'http://www.dafont.com/chumbly-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chumbly.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-magklor' do
     url 'http://dl.dafont.com/dl/?f=magklor'
     name 'Magklor'
     homepage 'http://www.dafont.com/magklor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAGKLOR#6.ttf'
 end

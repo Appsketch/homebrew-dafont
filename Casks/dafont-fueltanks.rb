@@ -5,7 +5,6 @@ cask 'dafont-fueltanks' do
     url 'http://dl.dafont.com/dl/?f=fueltanks'
     name 'Fuel Tanks'
     homepage 'http://www.dafont.com/fueltanks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FuelTanks.ttf'
 end

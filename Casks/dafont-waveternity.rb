@@ -5,7 +5,6 @@ cask 'dafont-waveternity' do
     url 'http://dl.dafont.com/dl/?f=waveternity'
     name 'Waveternity'
     homepage 'http://www.dafont.com/waveternity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Waveternity.ttf'
 end

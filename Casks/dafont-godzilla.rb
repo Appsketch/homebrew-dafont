@@ -5,7 +5,6 @@ cask 'dafont-godzilla' do
     url 'http://dl.dafont.com/dl/?f=godzilla'
     name 'Godzilla'
     homepage 'http://www.dafont.com/godzilla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Godzilla.ttf'
 end

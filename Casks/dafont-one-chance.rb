@@ -5,7 +5,6 @@ cask 'dafont-one-chance' do
     url 'http://dl.dafont.com/dl/?f=one_chance'
     name 'One Chance Script'
     homepage 'http://www.dafont.com/one-chance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OneChanceScript-Regular.ttf'
 end

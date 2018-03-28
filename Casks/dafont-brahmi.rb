@@ -5,7 +5,6 @@ cask 'dafont-brahmi' do
     url 'http://dl.dafont.com/dl/?f=brahmi'
     name 'Brahmi'
     homepage 'http://www.dafont.com/brahmi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brahmi.ttf'
 end

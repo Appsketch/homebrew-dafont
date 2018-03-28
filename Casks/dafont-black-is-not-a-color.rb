@@ -5,7 +5,6 @@ cask 'dafont-black-is-not-a-color' do
     url 'http://dl.dafont.com/dl/?f=black_is_not_a_color'
     name 'Black is not a color'
     homepage 'http://www.dafont.com/black-is-not-a-color.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black is not a color.ttf'
 end

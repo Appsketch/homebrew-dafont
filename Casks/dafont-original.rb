@@ -5,7 +5,6 @@ cask 'dafont-original' do
     url 'http://dl.dafont.com/dl/?f=original'
     name 'Original'
     homepage 'http://www.dafont.com/original.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Original by fnkfrsh.otf'
 end

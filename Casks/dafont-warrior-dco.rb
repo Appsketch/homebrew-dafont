@@ -5,7 +5,6 @@ cask 'dafont-warrior-dco' do
     url 'http://dl.dafont.com/dl/?f=warrior_dco'
     name 'Warrior dco'
     homepage 'http://www.dafont.com/warrior-dco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'warriorsdcoxy.ttf'
 end

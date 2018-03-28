@@ -5,7 +5,6 @@ cask 'dafont-agatha-needs-flesh' do
     url 'http://dl.dafont.com/dl/?f=agatha_needs_flesh'
     name 'Agatha Needs Flesh'
     homepage 'http://www.dafont.com/agatha-needs-flesh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Agatha Needs Flesh.ttf'
 end

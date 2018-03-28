@@ -5,7 +5,6 @@ cask 'dafont-trajma' do
     url 'http://dl.dafont.com/dl/?f=trajma'
     name 'Trajma'
     homepage 'http://www.dafont.com/trajma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trajma.ttf'
 end

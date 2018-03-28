@@ -5,7 +5,6 @@ cask 'dafont-earth2' do
     url 'http://dl.dafont.com/dl/?f=earth2'
     name 'Earth'
     homepage 'http://www.dafont.com/earth2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Earth 2.0.0.80.otf'
 end

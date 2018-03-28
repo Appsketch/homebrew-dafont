@@ -5,7 +5,6 @@ cask 'dafont-lagostraffic' do
     url 'http://dl.dafont.com/dl/?f=lagostraffic'
     name 'Lagos Traffic'
     homepage 'http://www.dafont.com/lagostraffic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lagos Traffic.ttf'
 end

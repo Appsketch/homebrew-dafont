@@ -5,7 +5,6 @@ cask 'dafont-arabia' do
     url 'http://dl.dafont.com/dl/?f=arabia'
     name 'Arabia'
     homepage 'http://www.dafont.com/arabia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arabia.ttf'
 end

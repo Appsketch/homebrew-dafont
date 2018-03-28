@@ -5,7 +5,6 @@ cask 'dafont-chuck-noon' do
     url 'http://dl.dafont.com/dl/?f=chuck_noon'
     name 'Chuck Noon'
     homepage 'http://www.dafont.com/chuck-noon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chuck Noon.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-dripping-classic-font' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_dripping_classic_font'
     name 'Woodcutter Dripping Classic Font'
     homepage 'http://www.dafont.com/woodcutter-dripping-classic-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WOODCUTTER DRIPPING CLASSIC FONT.ttf'
 end

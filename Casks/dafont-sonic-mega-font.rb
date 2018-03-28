@@ -5,7 +5,6 @@ cask 'dafont-sonic-mega-font' do
     url 'http://dl.dafont.com/dl/?f=sonic_mega_font'
     name 'Sonic Mega Font'
     homepage 'http://www.dafont.com/sonic-mega-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SONIC.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-maravilloso' do
     url 'http://dl.dafont.com/dl/?f=maravilloso'
     name 'Maravilloso'
     homepage 'http://www.dafont.com/maravilloso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maravilloso.ttf'
 end

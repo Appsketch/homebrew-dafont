@@ -5,7 +5,6 @@ cask 'dafont-miss-claude' do
     url 'http://dl.dafont.com/dl/?f=miss_claude'
     name 'Miss Claude'
     homepage 'http://www.dafont.com/miss-claude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miss_clo.ttf'
 end

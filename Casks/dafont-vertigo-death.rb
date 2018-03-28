@@ -5,7 +5,6 @@ cask 'dafont-vertigo-death' do
     url 'http://dl.dafont.com/dl/?f=vertigo_death'
     name 'Vertigo Death'
     homepage 'http://www.dafont.com/vertigo-death.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vertigodeathdemo.ttf'
 end

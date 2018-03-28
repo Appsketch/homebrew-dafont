@@ -5,7 +5,6 @@ cask 'dafont-old-fax' do
     url 'http://dl.dafont.com/dl/?f=old_fax'
     name 'Old Fax'
     homepage 'http://www.dafont.com/old-fax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OLDFAX.TTF'
 end

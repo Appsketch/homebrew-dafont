@@ -5,7 +5,6 @@ cask 'dafont-italic-bricks' do
     url 'http://dl.dafont.com/dl/?f=italic_bricks'
     name 'Italic Bricks'
     homepage 'http://www.dafont.com/italic-bricks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'italic_bricks.ttf'
 end

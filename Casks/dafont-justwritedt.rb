@@ -5,7 +5,6 @@ cask 'dafont-justwritedt' do
     url 'http://dl.dafont.com/dl/?f=justwritedt'
     name 'Just Write DT'
     homepage 'http://www.dafont.com/justwritedt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustWriteDT.ttf'
 end

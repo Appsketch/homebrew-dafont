@@ -5,7 +5,6 @@ cask 'dafont-old-school-class' do
     url 'http://dl.dafont.com/dl/?f=old_school_class'
     name 'Old School Class'
     homepage 'http://www.dafont.com/old-school-class.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OldSchoolClass 3001.ttf'
 end

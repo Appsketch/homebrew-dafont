@@ -5,7 +5,6 @@ cask 'dafont-gabriel-weiss-frien' do
     url 'http://dl.dafont.com/dl/?f=gabriel_weiss_frien'
     name 'Gabriel Weiss&#039; Friends Font'
     homepage 'http://www.dafont.com/gabriel-weiss-frien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GABRWFFR.TTF'
 end

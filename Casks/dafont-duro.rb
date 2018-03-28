@@ -5,7 +5,6 @@ cask 'dafont-duro' do
     url 'http://dl.dafont.com/dl/?f=duro'
     name 'Duro'
     homepage 'http://www.dafont.com/duro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'duro.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-sutil-shadow' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_sutil_shadow'
     name 'Woodcutter Sutil Shadow'
     homepage 'http://www.dafont.com/woodcutter-sutil-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WOODCUTTER SUTIL SHADOW.ttf'
 end

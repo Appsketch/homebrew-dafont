@@ -5,7 +5,6 @@ cask 'dafont-oki' do
     url 'http://dl.dafont.com/dl/?f=oki'
     name 'Oki'
     homepage 'http://www.dafont.com/oki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oki Extrude.ttf'
 end

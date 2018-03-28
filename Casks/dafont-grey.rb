@@ -5,7 +5,6 @@ cask 'dafont-grey' do
     url 'http://dl.dafont.com/dl/?f=grey'
     name 'Grey'
     homepage 'http://www.dafont.com/grey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shadows of Grey.ttf'
 end

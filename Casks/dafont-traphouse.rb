@@ -5,7 +5,6 @@ cask 'dafont-traphouse' do
     url 'http://dl.dafont.com/dl/?f=traphouse'
     name 'Trap House'
     homepage 'http://www.dafont.com/traphouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'traphouse.ttf'
 end

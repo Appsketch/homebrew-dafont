@@ -5,7 +5,6 @@ cask 'dafont-lms-god-save-the-qu' do
     url 'http://dl.dafont.com/dl/?f=lms_god_save_the_qu'
     name 'LMS God Save The Queen'
     homepage 'http://www.dafont.com/lms-god-save-the-qu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LMS God Save The Queen.ttf'
 end

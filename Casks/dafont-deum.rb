@@ -5,7 +5,6 @@ cask 'dafont-deum' do
     url 'http://dl.dafont.com/dl/?f=deum'
     name 'Deum'
     homepage 'http://www.dafont.com/deum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deum.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pamela-wants-to-ride' do
     url 'http://dl.dafont.com/dl/?f=pamela_wants_to_ride'
     name 'Pamela wants to Ride'
     homepage 'http://www.dafont.com/pamela-wants-to-ride.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pamela want a Bike to Ride.ttf'
     font 'Pamela wants to Ride.ttf'

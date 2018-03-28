@@ -5,7 +5,6 @@ cask 'dafont-gypsy-curse' do
     url 'http://dl.dafont.com/dl/?f=gypsy_curse'
     name 'Gypsy Curse'
     homepage 'http://www.dafont.com/gypsy-curse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gypsy Curse.ttf'
 end

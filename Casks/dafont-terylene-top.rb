@@ -5,7 +5,6 @@ cask 'dafont-terylene-top' do
     url 'http://dl.dafont.com/dl/?f=terylene_top'
     name 'Terylene Top'
     homepage 'http://www.dafont.com/terylene-top.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'terylene top.ttf'
 end

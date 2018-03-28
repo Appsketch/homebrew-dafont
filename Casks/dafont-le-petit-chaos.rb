@@ -5,7 +5,6 @@ cask 'dafont-le-petit-chaos' do
     url 'http://dl.dafont.com/dl/?f=le_petit_chaos'
     name 'Le Petit Chaos'
     homepage 'http://www.dafont.com/le-petit-chaos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Le Petit Chaos.ttf'
 end

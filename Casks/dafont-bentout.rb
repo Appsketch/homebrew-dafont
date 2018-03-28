@@ -5,7 +5,6 @@ cask 'dafont-bentout' do
     url 'http://dl.dafont.com/dl/?f=bentout'
     name 'Bent Out'
     homepage 'http://www.dafont.com/bentout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BentOut.ttf'
 end

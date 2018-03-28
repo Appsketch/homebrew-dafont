@@ -5,7 +5,6 @@ cask 'dafont-majorearthquake' do
     url 'http://dl.dafont.com/dl/?f=majorearthquake'
     name 'Major Earthquake'
     homepage 'http://www.dafont.com/majorearthquake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MajorEarthquake.ttf'
 end

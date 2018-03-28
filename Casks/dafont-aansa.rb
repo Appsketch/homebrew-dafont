@@ -5,7 +5,6 @@ cask 'dafont-aansa' do
     url 'http://dl.dafont.com/dl/?f=aansa'
     name 'Aansa'
     homepage 'http://www.dafont.com/aansa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aansa.ttf'
 end

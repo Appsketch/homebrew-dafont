@@ -5,7 +5,6 @@ cask 'dafont-prelude' do
     url 'http://dl.dafont.com/dl/?f=prelude'
     name 'Prelude'
     homepage 'http://www.dafont.com/prelude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'prelude.ttf'
 end

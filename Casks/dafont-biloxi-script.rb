@@ -5,7 +5,6 @@ cask 'dafont-biloxi-script' do
     url 'http://dl.dafont.com/dl/?f=biloxi_script'
     name 'Biloxi Script'
     homepage 'http://www.dafont.com/biloxi-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Biloxi Script.ttf'
     font 'Biloxi Thin.ttf'

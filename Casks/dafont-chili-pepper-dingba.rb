@@ -5,7 +5,6 @@ cask 'dafont-chili-pepper-dingba' do
     url 'http://dl.dafont.com/dl/?f=chili_pepper_dingba'
     name 'Chili Pepper Dingbats'
     homepage 'http://www.dafont.com/chili-pepper-dingba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chili Pepper Dingbats.ttf'
 end

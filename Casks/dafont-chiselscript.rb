@@ -5,7 +5,6 @@ cask 'dafont-chiselscript' do
     url 'http://dl.dafont.com/dl/?f=chiselscript'
     name 'Chisel Script'
     homepage 'http://www.dafont.com/chiselscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chiselscript.ttf'
 end

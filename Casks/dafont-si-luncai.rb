@@ -5,7 +5,6 @@ cask 'dafont-si-luncai' do
     url 'http://dl.dafont.com/dl/?f=si_luncai'
     name 'Si LuNcai'
     homepage 'http://www.dafont.com/si-luncai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SiLuNcai.ttf'
     font 'SiLuNcaiItalic.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-dk-oyukis-ghost' do
     url 'http://dl.dafont.com/dl/?f=dk_oyukis_ghost'
     name 'DK Oyuki&#039;s Ghost'
     homepage 'http://www.dafont.com/dk-oyukis-ghost.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Oyuki&#039;s Ghost.otf'
 end

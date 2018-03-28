@@ -5,7 +5,6 @@ cask 'dafont-lnr-phonetic-alphabet' do
     url 'http://dl.dafont.com/dl/?f=lnr_phonetic_alphabet'
     name 'LNR Phonetic Alphabet'
     homepage 'http://www.dafont.com/lnr-phonetic-alphabet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LNR Phonetic Alphabet.ttf'
 end

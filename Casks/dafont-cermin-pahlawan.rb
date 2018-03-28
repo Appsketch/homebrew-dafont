@@ -5,7 +5,6 @@ cask 'dafont-cermin-pahlawan' do
     url 'http://dl.dafont.com/dl/?f=cermin_pahlawan'
     name 'Cermin Pahlawan'
     homepage 'http://www.dafont.com/cermin-pahlawan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cermin Pahlawan.ttf'
 end

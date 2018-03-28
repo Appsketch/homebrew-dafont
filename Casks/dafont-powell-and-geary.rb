@@ -5,7 +5,6 @@ cask 'dafont-powell-and-geary' do
     url 'http://dl.dafont.com/dl/?f=powell_and_geary'
     name 'Powell and Geary'
     homepage 'http://www.dafont.com/powell-and-geary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Powell and Geary.ttf'
 end

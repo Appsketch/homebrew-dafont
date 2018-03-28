@@ -5,7 +5,6 @@ cask 'dafont-fake-receipt' do
     url 'http://dl.dafont.com/dl/?f=fake_receipt'
     name 'Fake Receipt'
     homepage 'http://www.dafont.com/fake-receipt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fake receipt.ttf'
 end

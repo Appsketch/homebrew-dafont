@@ -5,7 +5,6 @@ cask 'dafont-halidians-blockserif' do
     url 'http://dl.dafont.com/dl/?f=halidians_blockserif'
     name 'Halidians Blockserif'
     homepage 'http://www.dafont.com/halidians-blockserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'halidians_blockserif.ttf'
 end

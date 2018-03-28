@@ -5,7 +5,6 @@ cask 'dafont-tally-mark' do
     url 'http://dl.dafont.com/dl/?f=tally_mark'
     name 'Tally Mark'
     homepage 'http://www.dafont.com/tally-mark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tally Mark.ttf'
 end

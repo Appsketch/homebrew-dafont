@@ -5,7 +5,6 @@ cask 'dafont-sewmodern' do
     url 'http://dl.dafont.com/dl/?f=sewmodern'
     name 'Sew Modern'
     homepage 'http://www.dafont.com/sewmodern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SewModern.ttf'
 end

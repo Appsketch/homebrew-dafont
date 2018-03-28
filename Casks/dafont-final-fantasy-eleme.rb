@@ -5,7 +5,6 @@ cask 'dafont-final-fantasy-eleme' do
     url 'http://dl.dafont.com/dl/?f=final_fantasy_eleme'
     name 'Final Fantasy Elements'
     homepage 'http://www.dafont.com/final-fantasy-eleme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FinalFantasyElements.TTF'
 end

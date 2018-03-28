@@ -5,7 +5,6 @@ cask 'dafont-pepperoni-pizza' do
     url 'http://dl.dafont.com/dl/?f=pepperoni_pizza'
     name 'Pepperoni Pizza'
     homepage 'http://www.dafont.com/pepperoni-pizza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pepperoni_pizza.ttf'
 end

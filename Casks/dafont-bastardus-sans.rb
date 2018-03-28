@@ -5,7 +5,6 @@ cask 'dafont-bastardus-sans' do
     url 'http://dl.dafont.com/dl/?f=bastardus_sans'
     name 'Bastardus Sans'
     homepage 'http://www.dafont.com/bastardus-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BastardusSans.ttf'
 end

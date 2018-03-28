@@ -5,7 +5,6 @@ cask 'dafont-cloudsandblue' do
     url 'http://dl.dafont.com/dl/?f=cloudsandblue'
     name 'Clouds And Blue'
     homepage 'http://www.dafont.com/cloudsandblue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CloudsAndBlue.ttf'
 end

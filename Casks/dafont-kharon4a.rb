@@ -5,7 +5,6 @@ cask 'dafont-kharon4a' do
     url 'http://dl.dafont.com/dl/?f=kharon4a'
     name 'Kharon 4a'
     homepage 'http://www.dafont.com/kharon4a.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KHARB___.TTF'
     font 'kharon.ttf'

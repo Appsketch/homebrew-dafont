@@ -5,7 +5,6 @@ cask 'dafont-load' do
     url 'http://dl.dafont.com/dl/?f=load'
     name 'Load'
     homepage 'http://www.dafont.com/load.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOADmetallica.TTF'
 end

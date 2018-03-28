@@ -5,7 +5,6 @@ cask 'dafont-lack-of-luck' do
     url 'http://dl.dafont.com/dl/?f=lack_of_luck'
     name 'Lack-of-luck'
     homepage 'http://www.dafont.com/lack-of-luck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lack-of-luck.ttf'
 end

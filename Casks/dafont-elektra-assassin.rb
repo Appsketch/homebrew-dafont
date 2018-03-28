@@ -5,7 +5,6 @@ cask 'dafont-elektra-assassin' do
     url 'http://dl.dafont.com/dl/?f=elektra_assassin'
     name 'Elektra Assassin'
     homepage 'http://www.dafont.com/elektra-assassin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ELEKTRA ASSASSIN.ttf'
 end

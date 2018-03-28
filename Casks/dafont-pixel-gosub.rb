@@ -5,7 +5,6 @@ cask 'dafont-pixel-gosub' do
     url 'http://dl.dafont.com/dl/?f=pixel_gosub'
     name 'Pixel Gosub'
     homepage 'http://www.dafont.com/pixel-gosub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel Gosub.otf'
 end

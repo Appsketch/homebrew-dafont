@@ -5,7 +5,6 @@ cask 'dafont-phatrave' do
     url 'http://dl.dafont.com/dl/?f=phatrave'
     name 'Phat Rave'
     homepage 'http://www.dafont.com/phatrave.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PhatRave.ttf'
 end

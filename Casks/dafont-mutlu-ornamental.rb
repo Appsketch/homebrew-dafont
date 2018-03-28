@@ -5,7 +5,6 @@ cask 'dafont-mutlu-ornamental' do
     url 'http://dl.dafont.com/dl/?f=mutlu_ornamental'
     name 'Mutlu Ornamental'
     homepage 'http://www.dafont.com/mutlu-ornamental.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mutlu__Ornamental.ttf'
 end

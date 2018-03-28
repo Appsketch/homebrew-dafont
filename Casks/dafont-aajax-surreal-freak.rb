@@ -5,7 +5,6 @@ cask 'dafont-aajax-surreal-freak' do
     url 'http://dl.dafont.com/dl/?f=aajax_surreal_freak'
     name 'Aajax Surreal Freak'
     homepage 'http://www.dafont.com/aajax-surreal-freak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AAJAX.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cg-mono' do
     url 'http://dl.dafont.com/dl/?f=cg_mono'
     name 'CG Mono'
     homepage 'http://www.dafont.com/cg-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CGMONO.FON'
 end

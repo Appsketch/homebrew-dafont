@@ -5,7 +5,6 @@ cask 'dafont-leakingtype' do
     url 'http://dl.dafont.com/dl/?f=leakingtype'
     name 'Leaking Type'
     homepage 'http://www.dafont.com/leakingtype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LeakingType.ttf'
 end

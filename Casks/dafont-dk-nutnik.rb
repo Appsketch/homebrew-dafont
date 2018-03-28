@@ -5,7 +5,6 @@ cask 'dafont-dk-nutnik' do
     url 'http://dl.dafont.com/dl/?f=dk_nutnik'
     name 'DK Nutnik'
     homepage 'http://www.dafont.com/dk-nutnik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Nutnik.ttf'
 end

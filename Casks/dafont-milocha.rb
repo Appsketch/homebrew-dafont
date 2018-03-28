@@ -5,7 +5,6 @@ cask 'dafont-milocha' do
     url 'http://dl.dafont.com/dl/?f=milocha'
     name 'Milocha'
     homepage 'http://www.dafont.com/milocha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'milocha.otf'
 end

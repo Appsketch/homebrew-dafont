@@ -5,7 +5,6 @@ cask 'dafont-be-my-valentine' do
     url 'http://dl.dafont.com/dl/?f=be_my_valentine'
     name 'Be My Valentine'
     homepage 'http://www.dafont.com/be-my-valentine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEMYV___.TTF'
 end

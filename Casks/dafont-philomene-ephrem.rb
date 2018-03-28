@@ -5,7 +5,6 @@ cask 'dafont-philomene-ephrem' do
     url 'http://dl.dafont.com/dl/?f=philomene_ephrem'
     name 'Philom&egrave;ne &amp; Ephrem'
     homepage 'http://www.dafont.com/philomene-ephrem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PhilomeneEphrem.ttf'
 end

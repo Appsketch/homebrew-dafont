@@ -5,7 +5,6 @@ cask 'dafont-coventry-garden' do
     url 'http://dl.dafont.com/dl/?f=coventry_garden'
     name 'Coventry Garden'
     homepage 'http://www.dafont.com/coventry-garden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COVENTRY.TTF'
 end

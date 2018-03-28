@@ -5,7 +5,6 @@ cask 'dafont-frames-tfb' do
     url 'http://dl.dafont.com/dl/?f=frames_tfb'
     name 'Frames TFB'
     homepage 'http://www.dafont.com/frames-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'frames tfb.ttf'
 end

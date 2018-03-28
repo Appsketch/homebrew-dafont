@@ -5,7 +5,6 @@ cask 'dafont-kr-happy-veggies' do
     url 'http://dl.dafont.com/dl/?f=kr_happy_veggies'
     name 'KR Happy Veggies!'
     homepage 'http://www.dafont.com/kr-happy-veggies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Happy Veggies!.ttf'
 end

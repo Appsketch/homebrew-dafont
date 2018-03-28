@@ -5,7 +5,6 @@ cask 'dafont-swingset-bb' do
     url 'http://dl.dafont.com/dl/?f=swingset_bb'
     name 'Swingset BB'
     homepage 'http://www.dafont.com/swingset-bb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SWINSBRG.TTF'
 end

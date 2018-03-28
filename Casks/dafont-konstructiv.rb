@@ -5,7 +5,6 @@ cask 'dafont-konstructiv' do
     url 'http://dl.dafont.com/dl/?f=konstructiv'
     name 'Konstructiv'
     homepage 'http://www.dafont.com/konstructiv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Konstructiv - 3D - dker.ttf'
     font 'Konstructiv - Dker.ttf'

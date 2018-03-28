@@ -5,7 +5,6 @@ cask 'dafont-los-snorks' do
     url 'http://dl.dafont.com/dl/?f=los_snorks'
     name 'Los Snorks'
     homepage 'http://www.dafont.com/los-snorks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snorks.ttf'
 end

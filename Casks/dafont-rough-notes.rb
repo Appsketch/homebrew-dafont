@@ -5,7 +5,6 @@ cask 'dafont-rough-notes' do
     url 'http://dl.dafont.com/dl/?f=rough_notes'
     name 'Rough Notes'
     homepage 'http://www.dafont.com/rough-notes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RoughNotesSample.ttf'
 end

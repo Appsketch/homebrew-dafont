@@ -5,7 +5,6 @@ cask 'dafont-grasshopper-z' do
     url 'http://dl.dafont.com/dl/?f=grasshopper_z'
     name 'Grasshopper Z'
     homepage 'http://www.dafont.com/grasshopper-z.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grasshopper Z.ttf'
 end

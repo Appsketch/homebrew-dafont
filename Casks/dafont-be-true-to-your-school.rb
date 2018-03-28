@@ -5,7 +5,6 @@ cask 'dafont-be-true-to-your-school' do
     url 'http://dl.dafont.com/dl/?f=be_true_to_your_school'
     name 'Be True To Your School'
     homepage 'http://www.dafont.com/be-true-to-your-school.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeTrueToYourSchool-Regular.ttf'
 end

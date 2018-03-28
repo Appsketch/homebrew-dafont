@@ -5,7 +5,6 @@ cask 'dafont-sable' do
     url 'http://dl.dafont.com/dl/?f=sable'
     name 'Sable'
     homepage 'http://www.dafont.com/sable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sable.ttf'
 end

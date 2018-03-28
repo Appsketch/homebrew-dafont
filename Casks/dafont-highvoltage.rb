@@ -5,7 +5,6 @@ cask 'dafont-highvoltage' do
     url 'http://dl.dafont.com/dl/?f=highvoltage'
     name 'High Voltage'
     homepage 'http://www.dafont.com/highvoltage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighVoltage.ttf'
 end

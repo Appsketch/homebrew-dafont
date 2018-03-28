@@ -5,7 +5,6 @@ cask 'dafont-tamaraimbri' do
     url 'http://dl.dafont.com/dl/?f=tamaraimbri'
     name 'Tamara Imbri'
     homepage 'http://www.dafont.com/tamaraimbri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TAMAI___.TTF'
 end

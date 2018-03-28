@@ -5,7 +5,6 @@ cask 'dafont-geschrift' do
     url 'http://dl.dafont.com/dl/?f=geschrift'
     name 'Geschrift'
     homepage 'http://www.dafont.com/geschrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Geschrift.ttf'
 end

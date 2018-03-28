@@ -5,7 +5,6 @@ cask 'dafont-pythonian-deluxe' do
     url 'http://dl.dafont.com/dl/?f=pythonian_deluxe'
     name 'Pythonian Deluxe'
     homepage 'http://www.dafont.com/pythonian-deluxe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PythonianDeluxe.ttf'
 end

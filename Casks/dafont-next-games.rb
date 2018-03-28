@@ -5,7 +5,6 @@ cask 'dafont-next-games' do
     url 'http://dl.dafont.com/dl/?f=next_games'
     name 'Next Games'
     homepage 'http://www.dafont.com/next-games.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEXTG___.TTF'
 end

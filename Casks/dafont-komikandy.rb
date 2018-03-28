@@ -5,7 +5,6 @@ cask 'dafont-komikandy' do
     url 'http://dl.dafont.com/dl/?f=komikandy'
     name 'Komikandy'
     homepage 'http://www.dafont.com/komikandy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKND_.ttf'
 end

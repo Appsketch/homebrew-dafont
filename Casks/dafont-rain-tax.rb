@@ -5,7 +5,6 @@ cask 'dafont-rain-tax' do
     url 'http://dl.dafont.com/dl/?f=rain_tax'
     name 'Rain Tax'
     homepage 'http://www.dafont.com/rain-tax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rain Tax.otf'
 end

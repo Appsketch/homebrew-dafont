@@ -5,7 +5,6 @@ cask 'dafont-fontdinerdotcom-sparkly' do
     url 'http://dl.dafont.com/dl/?f=fontdinerdotcom_sparkly'
     name 'Fontdinerdotcom Sparkly'
     homepage 'http://www.dafont.com/fontdinerdotcom-sparkly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FontdinerdotcomSparkly.ttf'
 end

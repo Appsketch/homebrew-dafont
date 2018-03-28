@@ -5,7 +5,6 @@ cask 'dafont-broken-dreams' do
     url 'http://dl.dafont.com/dl/?f=broken_dreams'
     name 'Broken Dreams'
     homepage 'http://www.dafont.com/broken-dreams.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Broken Dreams.otf'
 end

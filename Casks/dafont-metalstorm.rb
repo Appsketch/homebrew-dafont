@@ -5,7 +5,6 @@ cask 'dafont-metalstorm' do
     url 'http://dl.dafont.com/dl/?f=metalstorm'
     name 'Metalstorm'
     homepage 'http://www.dafont.com/metalstorm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'metalstorm.ttf'
     font 'metalstorm3d.ttf'

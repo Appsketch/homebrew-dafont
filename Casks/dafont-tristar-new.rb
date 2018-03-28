@@ -5,7 +5,6 @@ cask 'dafont-tristar-new' do
     url 'http://dl.dafont.com/dl/?f=tristar_new'
     name 'Tristar New'
     homepage 'http://www.dafont.com/tristar-new.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tristar_new.ttf'
 end

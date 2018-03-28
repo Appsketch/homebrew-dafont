@@ -5,7 +5,6 @@ cask 'dafont-slipknot' do
     url 'http://dl.dafont.com/dl/?f=slipknot'
     name 'Sickness'
     homepage 'http://www.dafont.com/slipknot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sickness.ttf'
 end

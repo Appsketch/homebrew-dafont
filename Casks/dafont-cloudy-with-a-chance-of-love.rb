@@ -5,7 +5,6 @@ cask 'dafont-cloudy-with-a-chance-of-love' do
     url 'http://dl.dafont.com/dl/?f=cloudy_with_a_chance_of_love'
     name 'Cloudy With a Chance of Love'
     homepage 'http://www.dafont.com/cloudy-with-a-chance-of-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cloudy With a Chance of Love.ttf'
 end

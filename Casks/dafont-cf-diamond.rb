@@ -5,7 +5,6 @@ cask 'dafont-cf-diamond' do
     url 'http://dl.dafont.com/dl/?f=cf_diamond'
     name 'CF Diamond'
     homepage 'http://www.dafont.com/cf-diamond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFDiamond.ttf'
 end

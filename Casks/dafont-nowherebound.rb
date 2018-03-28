@@ -5,7 +5,6 @@ cask 'dafont-nowherebound' do
     url 'http://dl.dafont.com/dl/?f=nowherebound'
     name 'Nowherebound'
     homepage 'http://www.dafont.com/nowherebound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nowherebound.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-missal-unciale' do
     url 'http://dl.dafont.com/dl/?f=missal_unciale'
     name 'Missal Unciale'
     homepage 'http://www.dafont.com/missal-unciale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MissalUncialeBricks.ttf'
     font 'MissalUncialeMaster.ttf'

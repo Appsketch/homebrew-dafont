@@ -5,7 +5,6 @@ cask 'dafont-xifiction' do
     url 'http://dl.dafont.com/dl/?f=xifiction'
     name 'Xifiction'
     homepage 'http://www.dafont.com/xifiction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xifiction.ttf'
 end

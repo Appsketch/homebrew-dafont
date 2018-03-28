@@ -5,7 +5,6 @@ cask 'dafont-mtf-stampin-rachel' do
     url 'http://dl.dafont.com/dl/?f=mtf_stampin_rachel'
     name 'MTF Stampin Rachel'
     homepage 'http://www.dafont.com/mtf-stampin-rachel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Stampin Rachel.ttf'
 end

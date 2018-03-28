@@ -5,7 +5,6 @@ cask 'dafont-scribblezack' do
     url 'http://dl.dafont.com/dl/?f=scribblezack'
     name 'Scribble Zack'
     homepage 'http://www.dafont.com/scribblezack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scribble Zack.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-my-phone-n1280' do
     url 'http://dl.dafont.com/dl/?f=my_phone_n1280'
     name 'My Phone N1280'
     homepage 'http://www.dafont.com/my-phone-n1280.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'my_phone_n1280.ttf'
 end

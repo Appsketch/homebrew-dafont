@@ -5,7 +5,6 @@ cask 'dafont-black-boys-on-moped' do
     url 'http://dl.dafont.com/dl/?f=black_boys_on_moped'
     name 'Black boys on mopeds'
     homepage 'http://www.dafont.com/black-boys-on-moped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLACKBOYSONMOPEDS.ttf'
 end

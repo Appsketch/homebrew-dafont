@@ -5,7 +5,6 @@ cask 'dafont-quicklywrite' do
     url 'http://dl.dafont.com/dl/?f=quicklywrite'
     name 'Quickly Write'
     homepage 'http://www.dafont.com/quicklywrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuicklyWrite.ttf'
 end

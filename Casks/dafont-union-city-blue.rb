@@ -5,7 +5,6 @@ cask 'dafont-union-city-blue' do
     url 'http://dl.dafont.com/dl/?f=union_city_blue'
     name 'Union City Blue'
     homepage 'http://www.dafont.com/union-city-blue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'union city blue.ttf'
 end

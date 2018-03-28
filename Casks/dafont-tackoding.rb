@@ -5,7 +5,6 @@ cask 'dafont-tackoding' do
     url 'http://dl.dafont.com/dl/?f=tackoding'
     name 'TackODing'
     homepage 'http://www.dafont.com/tackoding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TACKODD_.TTF'
 end

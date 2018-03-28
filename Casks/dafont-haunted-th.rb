@@ -5,7 +5,6 @@ cask 'dafont-haunted-th' do
     url 'http://dl.dafont.com/dl/?f=haunted_th'
     name 'Haunted'
     homepage 'http://www.dafont.com/haunted-th.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Haunted.TTF'
 end

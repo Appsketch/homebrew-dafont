@@ -5,7 +5,6 @@ cask 'dafont-not-mary-kate' do
     url 'http://dl.dafont.com/dl/?f=not_mary_kate'
     name 'Not Mary Kate'
     homepage 'http://www.dafont.com/not-mary-kate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOTMK___.TTF'
 end

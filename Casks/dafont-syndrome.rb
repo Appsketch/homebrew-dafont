@@ -5,7 +5,6 @@ cask 'dafont-syndrome' do
     url 'http://dl.dafont.com/dl/?f=syndrome'
     name 'Syndrome'
     homepage 'http://www.dafont.com/syndrome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'syndrome.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-black-asylum' do
     url 'http://dl.dafont.com/dl/?f=black_asylum'
     name 'Black Asylum'
     homepage 'http://www.dafont.com/black-asylum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackAsylumDEMO-KCFonts.ttf'
 end

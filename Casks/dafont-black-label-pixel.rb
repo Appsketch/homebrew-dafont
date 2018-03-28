@@ -5,7 +5,6 @@ cask 'dafont-black-label-pixel' do
     url 'http://dl.dafont.com/dl/?f=black_label_pixel'
     name 'Black Label Pixel'
     homepage 'http://www.dafont.com/black-label-pixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'black_label_pixel.ttf'
 end

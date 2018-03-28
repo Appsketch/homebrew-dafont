@@ -5,7 +5,6 @@ cask 'dafont-cherily-blussom' do
     url 'http://dl.dafont.com/dl/?f=cherily_blussom'
     name 'Cherily Blussom'
     homepage 'http://www.dafont.com/cherily-blussom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cherily Blussom DEMO.otf'
 end

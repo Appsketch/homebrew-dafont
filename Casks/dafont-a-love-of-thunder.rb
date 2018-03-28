@@ -5,7 +5,6 @@ cask 'dafont-a-love-of-thunder' do
     url 'http://dl.dafont.com/dl/?f=a_love_of_thunder'
     name 'A Love of Thunder'
     homepage 'http://www.dafont.com/a-love-of-thunder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A Love of Thunder.ttf'
 end

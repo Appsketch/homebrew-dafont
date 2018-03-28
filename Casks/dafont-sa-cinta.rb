@@ -5,7 +5,6 @@ cask 'dafont-sa-cinta' do
     url 'http://dl.dafont.com/dl/?f=sa_cinta'
     name 'SA Cinta'
     homepage 'http://www.dafont.com/sa-cinta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cinta.ttf'
 end

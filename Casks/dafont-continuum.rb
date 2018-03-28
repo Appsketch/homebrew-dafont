@@ -5,7 +5,6 @@ cask 'dafont-continuum' do
     url 'http://dl.dafont.com/dl/?f=continuum'
     name 'Continuum'
     homepage 'http://www.dafont.com/continuum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'contb.ttf'
     font 'contl.ttf'

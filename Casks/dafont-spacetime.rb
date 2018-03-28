@@ -5,7 +5,6 @@ cask 'dafont-spacetime' do
     url 'http://dl.dafont.com/dl/?f=spacetime'
     name 'Spacetime'
     homepage 'http://www.dafont.com/spacetime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spacetime.ttf'
 end

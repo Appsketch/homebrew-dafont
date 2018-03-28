@@ -5,7 +5,6 @@ cask 'dafont-stylin-brk' do
     url 'http://dl.dafont.com/dl/?f=stylin_brk'
     name 'Stylin&#039; BRK'
     homepage 'http://www.dafont.com/stylin-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stylin BRK.ttf'
 end

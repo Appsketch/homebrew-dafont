@@ -5,7 +5,6 @@ cask 'dafont-bee-marker-ink' do
     url 'http://dl.dafont.com/dl/?f=bee_marker_ink'
     name 'Bee Marker Ink'
     homepage 'http://www.dafont.com/bee-marker-ink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeeMarkerInk.TTF'
 end

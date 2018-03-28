@@ -5,7 +5,6 @@ cask 'dafont-motschcc' do
     url 'http://dl.dafont.com/dl/?f=motschcc'
     name 'Motschcc'
     homepage 'http://www.dafont.com/motschcc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'motschcc.ttf'
 end

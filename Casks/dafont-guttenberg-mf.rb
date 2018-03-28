@@ -5,7 +5,6 @@ cask 'dafont-guttenberg-mf' do
     url 'http://dl.dafont.com/dl/?f=guttenberg_mf'
     name 'Guttenberg MF'
     homepage 'http://www.dafont.com/guttenberg-mf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Guttenbg.ttf'
 end

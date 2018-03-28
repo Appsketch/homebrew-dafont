@@ -5,7 +5,6 @@ cask 'dafont-scotch-taped' do
     url 'http://dl.dafont.com/dl/?f=scotch_taped'
     name 'Scotch Taped'
     homepage 'http://www.dafont.com/scotch-taped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scotch Taped.ttf'
 end

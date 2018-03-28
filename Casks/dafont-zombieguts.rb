@@ -5,7 +5,6 @@ cask 'dafont-zombieguts' do
     url 'http://dl.dafont.com/dl/?f=zombieguts'
     name 'Zombie Guts'
     homepage 'http://www.dafont.com/zombieguts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zombieguts.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dayona-elegant' do
     url 'http://dl.dafont.com/dl/?f=dayona_elegant'
     name 'Dayona Elegant'
     homepage 'http://www.dafont.com/dayona-elegant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dayona elegant.ttf'
 end

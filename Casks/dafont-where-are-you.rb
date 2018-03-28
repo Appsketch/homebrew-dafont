@@ -5,7 +5,6 @@ cask 'dafont-where-are-you' do
     url 'http://dl.dafont.com/dl/?f=where_are_you'
     name 'Where are you'
     homepage 'http://www.dafont.com/where-are-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'whereareyou.ttf'
 end

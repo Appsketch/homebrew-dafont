@@ -5,7 +5,6 @@ cask 'dafont-princess-bv' do
     url 'http://dl.dafont.com/dl/?f=princess_bv'
     name 'Princess BV'
     homepage 'http://www.dafont.com/princess-bv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'princess_tt.ttf'
 end

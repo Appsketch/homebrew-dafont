@@ -5,7 +5,6 @@ cask 'dafont-lorre' do
     url 'http://dl.dafont.com/dl/?f=lorre'
     name 'Lorre'
     homepage 'http://www.dafont.com/lorre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lorre Italic.otf'
     font 'Lorre.otf'

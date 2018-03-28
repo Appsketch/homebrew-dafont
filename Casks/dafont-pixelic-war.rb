@@ -5,7 +5,6 @@ cask 'dafont-pixelic-war' do
     url 'http://dl.dafont.com/dl/?f=pixelic_war'
     name 'Pixelic War'
     homepage 'http://www.dafont.com/pixelic-war.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixelic War.ttf'
 end

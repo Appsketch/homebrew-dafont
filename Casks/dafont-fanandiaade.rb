@@ -5,7 +5,6 @@ cask 'dafont-fanandiaade' do
     url 'http://dl.dafont.com/dl/?f=fanandiaade'
     name 'Fanandiaade'
     homepage 'http://www.dafont.com/fanandiaade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fanandiaade.ttf'
 end

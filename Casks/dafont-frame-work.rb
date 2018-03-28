@@ -5,7 +5,6 @@ cask 'dafont-frame-work' do
     url 'http://dl.dafont.com/dl/?f=frame_work'
     name 'Frame Work'
     homepage 'http://www.dafont.com/frame-work.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'frame work.ttf'
 end

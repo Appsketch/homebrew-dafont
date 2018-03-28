@@ -5,7 +5,6 @@ cask 'dafont-bm-pinhole' do
     url 'http://dl.dafont.com/dl/?f=bm_pinhole'
     name 'BM Pinhole'
     homepage 'http://www.dafont.com/bm-pinhole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMpinhole.TTF'
 end

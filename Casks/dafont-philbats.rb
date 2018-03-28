@@ -5,7 +5,6 @@ cask 'dafont-philbats' do
     url 'http://dl.dafont.com/dl/?f=philbats'
     name 'PhilBats'
     homepage 'http://www.dafont.com/philbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'philbats.ttf'
 end

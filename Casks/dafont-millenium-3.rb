@@ -5,7 +5,6 @@ cask 'dafont-millenium-3' do
     url 'http://dl.dafont.com/dl/?f=millenium_3'
     name 'Millenium 3'
     homepage 'http://www.dafont.com/millenium-3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Millenium 3.ttf'
 end

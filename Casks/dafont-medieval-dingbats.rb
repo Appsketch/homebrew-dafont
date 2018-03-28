@@ -5,7 +5,6 @@ cask 'dafont-medieval-dingbats' do
     url 'http://dl.dafont.com/dl/?f=medieval_dingbats'
     name 'Medieval Dingbats'
     homepage 'http://www.dafont.com/medieval-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MedievalDingbats.ttf'
 end

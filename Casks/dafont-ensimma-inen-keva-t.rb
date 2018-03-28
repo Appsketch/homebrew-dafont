@@ -5,7 +5,6 @@ cask 'dafont-ensimma-inen-keva-t' do
     url 'http://dl.dafont.com/dl/?f=ensimma_inen_keva_t'
     name 'Ensimm&auml;inen kev&auml;t'
     homepage 'http://www.dafont.com/ensimma-inen-keva-t.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ensimmainen kevat.ttf'
 end

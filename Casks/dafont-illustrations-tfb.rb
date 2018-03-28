@@ -5,7 +5,6 @@ cask 'dafont-illustrations-tfb' do
     url 'http://dl.dafont.com/dl/?f=illustrations_tfb'
     name 'Illustrations TFB'
     homepage 'http://www.dafont.com/illustrations-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'illustrations tfb.ttf'
 end

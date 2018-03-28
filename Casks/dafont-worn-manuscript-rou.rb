@@ -5,7 +5,6 @@ cask 'dafont-worn-manuscript-rou' do
     url 'http://dl.dafont.com/dl/?f=worn_manuscript_rou'
     name 'Worn Manuscript Rough'
     homepage 'http://www.dafont.com/worn-manuscript-rou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wornmss.ttf'
 end

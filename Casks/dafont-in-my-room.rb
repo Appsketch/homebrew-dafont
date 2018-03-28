@@ -5,7 +5,6 @@ cask 'dafont-in-my-room' do
     url 'http://dl.dafont.com/dl/?f=in_my_room'
     name 'In my Room'
     homepage 'http://www.dafont.com/in-my-room.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'In my room.ttf'
 end

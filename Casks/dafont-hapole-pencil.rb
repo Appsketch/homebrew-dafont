@@ -5,7 +5,6 @@ cask 'dafont-hapole-pencil' do
     url 'http://dl.dafont.com/dl/?f=hapole_pencil'
     name 'Hapole Pencil'
     homepage 'http://www.dafont.com/hapole-pencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hapole_pencil.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-moodica' do
     url 'http://dl.dafont.com/dl/?f=moodica'
     name 'Moodica'
     homepage 'http://www.dafont.com/moodica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moodica.ttf'
 end

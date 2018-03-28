@@ -5,7 +5,6 @@ cask 'dafont-peleja' do
     url 'http://dl.dafont.com/dl/?f=peleja'
     name 'Peleja'
     homepage 'http://www.dafont.com/peleja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'peleja-regular-1.0.otf'
 end

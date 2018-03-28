@@ -5,7 +5,6 @@ cask 'dafont-legend-of-zelda-trifont' do
     url 'http://dl.dafont.com/dl/?f=legend_of_zelda_trifont'
     name 'Legend Of Zelda TriFont'
     homepage 'http://www.dafont.com/legend-of-zelda-trifont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Legend Of Zelda TriFont.ttf'
 end

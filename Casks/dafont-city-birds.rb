@@ -5,7 +5,6 @@ cask 'dafont-city-birds' do
     url 'http://dl.dafont.com/dl/?f=city_birds'
     name 'City Birds'
     homepage 'http://www.dafont.com/city-birds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'City Birds.ttf'
 end

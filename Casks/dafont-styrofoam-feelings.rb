@@ -5,7 +5,6 @@ cask 'dafont-styrofoam-feelings' do
     url 'http://dl.dafont.com/dl/?f=styrofoam_feelings'
     name 'Styrofoam Feelings'
     homepage 'http://www.dafont.com/styrofoam-feelings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'styrofoam feelings.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-seven-of-one' do
     url 'http://dl.dafont.com/dl/?f=seven_of_one'
     name 'Seven of One'
     homepage 'http://www.dafont.com/seven-of-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seven of One.ttf'
 end

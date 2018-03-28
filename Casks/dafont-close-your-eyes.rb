@@ -5,7 +5,6 @@ cask 'dafont-close-your-eyes' do
     url 'http://dl.dafont.com/dl/?f=close_your_eyes'
     name 'Close your eyes'
     homepage 'http://www.dafont.com/close-your-eyes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Close your eyes.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-domenico128' do
     url 'http://dl.dafont.com/dl/?f=domenico128'
     name 'Domenico 128'
     homepage 'http://www.dafont.com/domenico128.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Domenico128.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-siamese-twins' do
     url 'http://dl.dafont.com/dl/?f=siamese_twins'
     name 'Siamese Twins'
     homepage 'http://www.dafont.com/siamese-twins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Siamese Twins.ttf'
 end

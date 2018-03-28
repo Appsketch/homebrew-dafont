@@ -5,7 +5,6 @@ cask 'dafont-skullbearer' do
     url 'http://dl.dafont.com/dl/?f=skullbearer'
     name 'SkullBearer AOE'
     homepage 'http://www.dafont.com/skullbearer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truetype/SkullBeaAOE.ttf'
 end

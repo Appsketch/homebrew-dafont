@@ -5,7 +5,6 @@ cask 'dafont-furmanite' do
     url 'http://dl.dafont.com/dl/?f=furmanite'
     name 'Furmanite'
     homepage 'http://www.dafont.com/furmanite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Furmanite Bold Italic.otf'
     font 'Furmanite Bold.otf'

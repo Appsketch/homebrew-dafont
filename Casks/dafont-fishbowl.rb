@@ -5,7 +5,6 @@ cask 'dafont-fishbowl' do
     url 'http://dl.dafont.com/dl/?f=fishbowl'
     name 'Fishbowl'
     homepage 'http://www.dafont.com/fishbowl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FISHBOWL.TTF'
 end

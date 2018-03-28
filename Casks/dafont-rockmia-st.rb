@@ -5,7 +5,6 @@ cask 'dafont-rockmia-st' do
     url 'http://dl.dafont.com/dl/?f=rockmia_st'
     name 'Rockmia ST'
     homepage 'http://www.dafont.com/rockmia-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rockmia.ttf'
 end

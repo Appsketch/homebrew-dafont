@@ -5,7 +5,6 @@ cask 'dafont-sound-of-silence' do
     url 'http://dl.dafont.com/dl/?f=sound_of_silence'
     name 'Sound of silence'
     homepage 'http://www.dafont.com/sound-of-silence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sound of silence.ttf'
 end

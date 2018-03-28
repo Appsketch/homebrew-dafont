@@ -5,7 +5,6 @@ cask 'dafont-plant-on-lawn' do
     url 'http://dl.dafont.com/dl/?f=plant_on_lawn'
     name 'Plant on lawn'
     homepage 'http://www.dafont.com/plant-on-lawn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'plant on lawn.ttf'
 end

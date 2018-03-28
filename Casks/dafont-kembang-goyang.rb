@@ -5,7 +5,6 @@ cask 'dafont-kembang-goyang' do
     url 'http://dl.dafont.com/dl/?f=kembang_goyang'
     name 'Kembang Goyang'
     homepage 'http://www.dafont.com/kembang-goyang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kembang Goyang.ttf'
 end

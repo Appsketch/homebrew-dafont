@@ -5,7 +5,6 @@ cask 'dafont-djb-almost-perfect' do
     url 'http://dl.dafont.com/dl/?f=djb_almost_perfect'
     name 'DJB Almost Perfect'
     homepage 'http://www.dafont.com/djb-almost-perfect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Almost Perfect.ttf'
 end

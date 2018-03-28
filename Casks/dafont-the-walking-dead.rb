@@ -5,7 +5,6 @@ cask 'dafont-the-walking-dead' do
     url 'http://dl.dafont.com/dl/?f=the_walking_dead'
     name 'The Walking Dead'
     homepage 'http://www.dafont.com/the-walking-dead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Walking Dead.ttf'
 end

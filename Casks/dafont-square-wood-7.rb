@@ -5,7 +5,6 @@ cask 'dafont-square-wood-7' do
     url 'http://dl.dafont.com/dl/?f=square_wood_7'
     name 'Square Wood-7'
     homepage 'http://www.dafont.com/square-wood-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'square_wood-7.ttf'
 end

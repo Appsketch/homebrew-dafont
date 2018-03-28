@@ -5,7 +5,6 @@ cask 'dafont-lazy-girls' do
     url 'http://dl.dafont.com/dl/?f=lazy_girls'
     name 'Lazy Girls'
     homepage 'http://www.dafont.com/lazy-girls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lazy Girls hollow.ttf'
     font 'Lazy Girls.ttf'

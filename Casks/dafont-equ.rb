@@ -5,7 +5,6 @@ cask 'dafont-equ' do
     url 'http://dl.dafont.com/dl/?f=equ'
     name 'Equ'
     homepage 'http://www.dafont.com/equ.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Equ solamente letras.ttf'
 end

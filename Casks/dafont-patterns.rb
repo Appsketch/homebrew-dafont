@@ -5,7 +5,6 @@ cask 'dafont-patterns' do
     url 'http://dl.dafont.com/dl/?f=patterns'
     name 'Patterns'
     homepage 'http://www.dafont.com/patterns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Patterns.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mad-beef' do
     url 'http://dl.dafont.com/dl/?f=mad_beef'
     name 'Mad Beef'
     homepage 'http://www.dafont.com/mad-beef.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mad Beef.ttf'
 end

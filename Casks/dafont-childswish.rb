@@ -5,7 +5,6 @@ cask 'dafont-childswish' do
     url 'http://dl.dafont.com/dl/?f=childswish'
     name 'Childs Wish'
     homepage 'http://www.dafont.com/childswish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChildsWish.ttf'
 end

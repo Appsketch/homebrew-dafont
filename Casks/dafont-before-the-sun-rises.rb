@@ -5,7 +5,6 @@ cask 'dafont-before-the-sun-rises' do
     url 'http://dl.dafont.com/dl/?f=before_the_sun_rises'
     name 'Before the sun rises'
     homepage 'http://www.dafont.com/before-the-sun-rises.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Before the sun rises.ttf'
 end

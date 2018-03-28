@@ -5,7 +5,6 @@ cask 'dafont-discharge' do
     url 'http://dl.dafont.com/dl/?f=discharge'
     name 'Discharge'
     homepage 'http://www.dafont.com/discharge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DISCHARGE_2.ttf'
 end

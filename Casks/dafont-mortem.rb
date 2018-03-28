@@ -5,7 +5,6 @@ cask 'dafont-mortem' do
     url 'http://dl.dafont.com/dl/?f=mortem'
     name 'Mortem'
     homepage 'http://www.dafont.com/mortem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MORTEM.ttf'
 end

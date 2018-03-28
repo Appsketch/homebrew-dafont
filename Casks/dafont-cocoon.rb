@@ -5,7 +5,6 @@ cask 'dafont-cocoon' do
     url 'http://dl.dafont.com/dl/?f=cocoon'
     name 'Cocoon'
     homepage 'http://www.dafont.com/cocoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cocoon.TTF'
 end

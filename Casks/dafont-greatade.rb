@@ -5,7 +5,6 @@ cask 'dafont-greatade' do
     url 'http://dl.dafont.com/dl/?f=greatade'
     name 'Greatade'
     homepage 'http://www.dafont.com/greatade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'greatade.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pdrpt' do
     url 'http://dl.dafont.com/dl/?f=pdrpt'
     name 'PDRPT'
     homepage 'http://www.dafont.com/pdrpt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PDRPT___.TTF'
 end

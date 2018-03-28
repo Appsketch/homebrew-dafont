@@ -5,7 +5,6 @@ cask 'dafont-hydro' do
     url 'http://dl.dafont.com/dl/?f=hydro'
     name 'Hydro'
     homepage 'http://www.dafont.com/hydro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hydro.ttf'
     font 'hydroi.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-new-madura' do
     url 'http://dl.dafont.com/dl/?f=new_madura'
     name 'New Madura'
     homepage 'http://www.dafont.com/new-madura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'new_madura.ttf'
 end

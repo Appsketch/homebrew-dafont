@@ -5,7 +5,6 @@ cask 'dafont-tiltawhirl' do
     url 'http://dl.dafont.com/dl/?f=tiltawhirl'
     name 'Tilt A Whirl'
     homepage 'http://www.dafont.com/tiltawhirl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TiltAWhirl.ttf'
 end

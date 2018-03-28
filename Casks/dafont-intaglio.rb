@@ -5,7 +5,6 @@ cask 'dafont-intaglio' do
     url 'http://dl.dafont.com/dl/?f=intaglio'
     name 'Intaglio'
     homepage 'http://www.dafont.com/intaglio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IntaglioDEMO-KCFonts.ttf'
 end

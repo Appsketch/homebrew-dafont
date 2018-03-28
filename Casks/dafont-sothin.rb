@@ -5,7 +5,6 @@ cask 'dafont-sothin' do
     url 'http://dl.dafont.com/dl/?f=sothin'
     name 'Sothin'
     homepage 'http://www.dafont.com/sothin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sothin.otf'
 end

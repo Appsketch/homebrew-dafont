@@ -5,7 +5,6 @@ cask 'dafont-inkablecase1979' do
     url 'http://dl.dafont.com/dl/?f=inkablecase1979'
     name 'Inkable Case 1979'
     homepage 'http://www.dafont.com/inkablecase1979.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Case1979.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-in-a-flash' do
     url 'http://dl.dafont.com/dl/?f=in_a_flash'
     name 'In A Flash'
     homepage 'http://www.dafont.com/in-a-flash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'flash.ttf'
     font 'flashext.ttf'

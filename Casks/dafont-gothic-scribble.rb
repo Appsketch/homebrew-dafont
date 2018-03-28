@@ -5,7 +5,6 @@ cask 'dafont-gothic-scribble' do
     url 'http://dl.dafont.com/dl/?f=gothic_scribble'
     name 'Gothic Scribble'
     homepage 'http://www.dafont.com/gothic-scribble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GothicScribble.ttf'
 end

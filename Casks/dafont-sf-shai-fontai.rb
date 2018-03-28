@@ -5,7 +5,6 @@ cask 'dafont-sf-shai-fontai' do
     url 'http://dl.dafont.com/dl/?f=sf_shai_fontai'
     name 'SF Shai Fontai'
     homepage 'http://www.dafont.com/sf-shai-fontai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Shai Fontai Bold Oblique.ttf'
     font 'SF Shai Fontai Bold.ttf'

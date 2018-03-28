@@ -5,7 +5,6 @@ cask 'dafont-scrept' do
     url 'http://dl.dafont.com/dl/?f=scrept'
     name 'Scrept'
     homepage 'http://www.dafont.com/scrept.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scrept_.ttf'
 end

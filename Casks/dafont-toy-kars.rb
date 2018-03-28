@@ -5,7 +5,6 @@ cask 'dafont-toy-kars' do
     url 'http://dl.dafont.com/dl/?f=toy_kars'
     name 'Toy Kars'
     homepage 'http://www.dafont.com/toy-kars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'toy kars.ttf'
 end

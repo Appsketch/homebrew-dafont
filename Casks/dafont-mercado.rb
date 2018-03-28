@@ -5,7 +5,6 @@ cask 'dafont-mercado' do
     url 'http://dl.dafont.com/dl/?f=mercado'
     name 'Mercado'
     homepage 'http://www.dafont.com/mercado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mercado_.otf'
     font 'Mercado_sombra.otf'

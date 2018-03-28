@@ -5,7 +5,6 @@ cask 'dafont-kbupinsmoke' do
     url 'http://dl.dafont.com/dl/?f=kbupinsmoke'
     name 'KB Upin Smoke'
     homepage 'http://www.dafont.com/kbupinsmoke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBUpinSmoke.ttf'
 end

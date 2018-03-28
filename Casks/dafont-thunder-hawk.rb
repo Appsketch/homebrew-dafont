@@ -5,7 +5,6 @@ cask 'dafont-thunder-hawk' do
     url 'http://dl.dafont.com/dl/?f=thunder_hawk'
     name 'Thunder-Hawk'
     homepage 'http://www.dafont.com/thunder-hawk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thunderhawk.ttf'
     font 'thunderhawkcond.ttf'

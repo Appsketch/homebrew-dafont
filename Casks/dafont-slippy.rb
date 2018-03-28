@@ -5,7 +5,6 @@ cask 'dafont-slippy' do
     url 'http://dl.dafont.com/dl/?f=slippy'
     name 'Slippy'
     homepage 'http://www.dafont.com/slippy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slippy.ttf'
 end

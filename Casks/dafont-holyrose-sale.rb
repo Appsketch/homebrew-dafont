@@ -5,7 +5,6 @@ cask 'dafont-holyrose-sale' do
     url 'http://dl.dafont.com/dl/?f=holyrose_sale'
     name 'Holyrose Sale'
     homepage 'http://www.dafont.com/holyrose-sale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Script-Gribouillon.ttf'
 end

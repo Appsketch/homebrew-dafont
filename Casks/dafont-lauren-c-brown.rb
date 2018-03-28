@@ -5,7 +5,6 @@ cask 'dafont-lauren-c-brown' do
     url 'http://dl.dafont.com/dl/?f=lauren_c_brown'
     name 'Lauren C. Brown'
     homepage 'http://www.dafont.com/lauren-c-brown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'laurencb-demo.ttf'
 end

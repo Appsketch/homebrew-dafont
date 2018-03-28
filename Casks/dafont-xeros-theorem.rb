@@ -5,7 +5,6 @@ cask 'dafont-xeros-theorem' do
     url 'http://dl.dafont.com/dl/?f=xeros_theorem'
     name 'Xero&#039;s Theorem'
     homepage 'http://www.dafont.com/xeros-theorem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xeros_theorem.ttf'
 end

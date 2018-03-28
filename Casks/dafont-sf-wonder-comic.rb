@@ -5,7 +5,6 @@ cask 'dafont-sf-wonder-comic' do
     url 'http://dl.dafont.com/dl/?f=sf_wonder_comic'
     name 'SF Wonder Comic'
     homepage 'http://www.dafont.com/sf-wonder-comic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Wonder Comic Blotch Italic.ttf'
     font 'SF Wonder Comic Blotch.ttf'

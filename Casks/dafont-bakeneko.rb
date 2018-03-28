@@ -5,7 +5,6 @@ cask 'dafont-bakeneko' do
     url 'http://dl.dafont.com/dl/?f=bakeneko'
     name 'Bakeneko'
     homepage 'http://www.dafont.com/bakeneko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bakeneko-Medium.ttf'
 end

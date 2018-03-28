@@ -5,7 +5,6 @@ cask 'dafont-construction' do
     url 'http://dl.dafont.com/dl/?f=construction'
     name 'Construction'
     homepage 'http://www.dafont.com/construction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CONSTRUCTION.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-irresistor' do
     url 'http://dl.dafont.com/dl/?f=irresistor'
     name 'Irresistor'
     homepage 'http://www.dafont.com/irresistor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IRRESIST.TTF'
 end

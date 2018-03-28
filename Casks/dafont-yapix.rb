@@ -5,7 +5,6 @@ cask 'dafont-yapix' do
     url 'http://dl.dafont.com/dl/?f=yapix'
     name 'Yapix'
     homepage 'http://www.dafont.com/yapix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yapix.ttf'
 end

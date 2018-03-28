@@ -5,7 +5,6 @@ cask 'dafont-bradstone-parker-script' do
     url 'http://dl.dafont.com/dl/?f=bradstone_parker_script'
     name 'Bradstone-Parker Script'
     homepage 'http://www.dafont.com/bradstone-parker-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bradstone-Parker Script Limited Free Version.ttf'
 end

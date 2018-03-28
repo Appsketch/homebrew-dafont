@@ -5,7 +5,6 @@ cask 'dafont-antietam' do
     url 'http://dl.dafont.com/dl/?f=antietam'
     name 'Antietam'
     homepage 'http://www.dafont.com/antietam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'antietam.ttf'
     font 'antietam3d.ttf'

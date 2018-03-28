@@ -5,7 +5,6 @@ cask 'dafont-grunge-strokes-01' do
     url 'http://dl.dafont.com/dl/?f=grunge_strokes_01'
     name 'Grunge Strokes 01'
     homepage 'http://www.dafont.com/grunge-strokes-01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grunge Strokes 01.ttf'
 end

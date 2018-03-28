@@ -5,7 +5,6 @@ cask 'dafont-stroke-mustache' do
     url 'http://dl.dafont.com/dl/?f=stroke_mustache'
     name 'Stroke Mustache'
     homepage 'http://www.dafont.com/stroke-mustache.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stroke mustache.ttf'
 end

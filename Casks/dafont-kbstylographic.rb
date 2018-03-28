@@ -5,7 +5,6 @@ cask 'dafont-kbstylographic' do
     url 'http://dl.dafont.com/dl/?f=kbstylographic'
     name 'KB Stylographic'
     homepage 'http://www.dafont.com/kbstylographic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBStylographic.ttf'
 end

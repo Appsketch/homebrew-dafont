@@ -5,7 +5,6 @@ cask 'dafont-hff-pessoas-lindas' do
     url 'http://dl.dafont.com/dl/?f=hff_pessoas_lindas'
     name 'HFF Pessoas Lindas'
     homepage 'http://www.dafont.com/hff-pessoas-lindas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Pessoas Lindas.ttf'
 end

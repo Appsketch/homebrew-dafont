@@ -5,7 +5,6 @@ cask 'dafont-piratesbay' do
     url 'http://dl.dafont.com/dl/?f=piratesbay'
     name 'PiratesBay'
     homepage 'http://www.dafont.com/piratesbay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PiratesBay.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-001-stretched-strun' do
     url 'http://dl.dafont.com/dl/?f=001_stretched_strun'
     name '001 Stretched-Strung'
     homepage 'http://www.dafont.com/001-stretched-strun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stretched-Strung Extended.ttf'
     font 'Stretched-Strung Wide Extreme.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-airswing-headline' do
     url 'http://dl.dafont.com/dl/?f=airswing_headline'
     name 'Airswing  Headline'
     homepage 'http://www.dafont.com/airswing-headline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AIRSWING.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rivanna' do
     url 'http://dl.dafont.com/dl/?f=rivanna'
     name 'Rivanna'
     homepage 'http://www.dafont.com/rivanna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RIVANNA_.TTF'
 end

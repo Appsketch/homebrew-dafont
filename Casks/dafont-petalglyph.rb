@@ -5,7 +5,6 @@ cask 'dafont-petalglyph' do
     url 'http://dl.dafont.com/dl/?f=petalglyph'
     name 'Petal Glyph'
     homepage 'http://www.dafont.com/petalglyph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PetalGlyphV1.5.ttf'
 end

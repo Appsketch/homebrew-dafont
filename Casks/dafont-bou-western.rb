@@ -5,7 +5,6 @@ cask 'dafont-bou-western' do
     url 'http://dl.dafont.com/dl/?f=bou_western'
     name 'Bou Western'
     homepage 'http://www.dafont.com/bou-western.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BouWeste.ttf'
 end

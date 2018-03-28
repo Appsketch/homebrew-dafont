@@ -5,7 +5,6 @@ cask 'dafont-jacks-candlestick' do
     url 'http://dl.dafont.com/dl/?f=jacks_candlestick'
     name 'Jack&#039;s Candlestick'
     homepage 'http://www.dafont.com/jacks-candlestick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jcandlestick.ttf'
     font 'jcandlestick3d.ttf'

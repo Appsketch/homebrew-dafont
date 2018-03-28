@@ -5,7 +5,6 @@ cask 'dafont-doodletters' do
     url 'http://dl.dafont.com/dl/?f=doodletters'
     name 'Doodletters'
     homepage 'http://www.dafont.com/doodletters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'doodletters.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-diagano' do
     url 'http://dl.dafont.com/dl/?f=diagano'
     name 'Diaga No'
     homepage 'http://www.dafont.com/diagano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DiagaNO.ttf'
 end

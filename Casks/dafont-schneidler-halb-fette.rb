@@ -5,7 +5,6 @@ cask 'dafont-schneidler-halb-fette' do
     url 'http://dl.dafont.com/dl/?f=schneidler_halb_fette'
     name 'Schneidler Halb Fette'
     homepage 'http://www.dafont.com/schneidler-halb-fette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Schneidler Halb Fette Beveled Free.ttf'
     font 'Schneidler Halb Fette Shadow Free.ttf'

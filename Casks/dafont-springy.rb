@@ -5,7 +5,6 @@ cask 'dafont-springy' do
     url 'http://dl.dafont.com/dl/?f=springy'
     name 'Springy'
     homepage 'http://www.dafont.com/springy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Springy Fancy.ttf'
 end

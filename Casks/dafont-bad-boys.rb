@@ -5,7 +5,6 @@ cask 'dafont-bad-boys' do
     url 'http://dl.dafont.com/dl/?f=bad_boys'
     name 'Bad Boys'
     homepage 'http://www.dafont.com/bad-boys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bad Boys.ttf'
 end

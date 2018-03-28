@@ -5,7 +5,6 @@ cask 'dafont-dyslexic-english-teacher' do
     url 'http://dl.dafont.com/dl/?f=dyslexic_english_teacher'
     name 'Dyslexic English Teacher'
     homepage 'http://www.dafont.com/dyslexic-english-teacher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SomewhereSomehow_0.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-smithy-xt' do
     url 'http://dl.dafont.com/dl/?f=smithy_xt'
     name 'Smithy XT'
     homepage 'http://www.dafont.com/smithy-xt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SmithyXT-Faded-v2-2.ttf'
     font 'SmithyXT-Heavy-v2-2.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-bobz-type' do
     url 'http://dl.dafont.com/dl/?f=bobz_type'
     name 'Bobz Type'
     homepage 'http://www.dafont.com/bobz-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bobz Type.ttf'
 end

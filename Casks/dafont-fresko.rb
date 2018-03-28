@@ -5,7 +5,6 @@ cask 'dafont-fresko' do
     url 'http://dl.dafont.com/dl/?f=fresko'
     name 'Fresko'
     homepage 'http://www.dafont.com/fresko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fresko.ttf'
 end

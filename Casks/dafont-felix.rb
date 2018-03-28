@@ -5,7 +5,6 @@ cask 'dafont-felix' do
     url 'http://dl.dafont.com/dl/?f=felix'
     name 'FeliX'
     homepage 'http://www.dafont.com/felix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FeliX.ttf'
 end

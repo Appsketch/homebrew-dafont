@@ -5,7 +5,6 @@ cask 'dafont-esquiso' do
     url 'http://dl.dafont.com/dl/?f=esquiso'
     name 'Esquiso'
     homepage 'http://www.dafont.com/esquiso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'esquiso.ttf'
 end

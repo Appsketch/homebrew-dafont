@@ -5,7 +5,6 @@ cask 'dafont-avenircondensedhand' do
     url 'http://dl.dafont.com/dl/?f=avenircondensedhand'
     name 'Avenir Condensed Hand'
     homepage 'http://www.dafont.com/avenircondensedhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AvenirCondensedHand.ttf'
 end

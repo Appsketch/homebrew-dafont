@@ -5,7 +5,6 @@ cask 'dafont-intrepid' do
     url 'http://dl.dafont.com/dl/?f=intrepid'
     name 'Intrepid'
     homepage 'http://www.dafont.com/intrepid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INTREPD2.TTF'
 end

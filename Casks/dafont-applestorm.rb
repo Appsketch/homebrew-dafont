@@ -5,7 +5,6 @@ cask 'dafont-applestorm' do
     url 'http://dl.dafont.com/dl/?f=applestorm'
     name 'AppleStorm'
     homepage 'http://www.dafont.com/applestorm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AppleStormCBo.otf'
     font 'AppleStormCBoIta.otf'

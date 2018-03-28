@@ -5,7 +5,6 @@ cask 'dafont-iso' do
     url 'http://dl.dafont.com/dl/?f=iso'
     name 'Iso'
     homepage 'http://www.dafont.com/iso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iso_handmade.ttf'
     font 'Iso2.0_regular.ttf'

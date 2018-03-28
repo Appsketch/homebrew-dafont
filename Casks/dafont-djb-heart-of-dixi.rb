@@ -5,7 +5,6 @@ cask 'dafont-djb-heart-of-dixi' do
     url 'http://dl.dafont.com/dl/?f=djb_heart_of_dixi'
     name 'DJB Heart Of Dixi'
     homepage 'http://www.dafont.com/djb-heart-of-dixi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Heart of Dixi.ttf'
 end

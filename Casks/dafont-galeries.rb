@@ -5,7 +5,6 @@ cask 'dafont-galeries' do
     url 'http://dl.dafont.com/dl/?f=galeries'
     name 'Galeries'
     homepage 'http://www.dafont.com/galeries.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Galeries.ttf'
 end

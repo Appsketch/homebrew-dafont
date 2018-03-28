@@ -5,7 +5,6 @@ cask 'dafont-raslani-kaplash' do
     url 'http://dl.dafont.com/dl/?f=raslani_kaplash'
     name 'Raslani Kaplash'
     homepage 'http://www.dafont.com/raslani-kaplash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raslani Kaplash.ttf'
 end

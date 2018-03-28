@@ -5,7 +5,6 @@ cask 'dafont-deco-mon-type' do
     url 'http://dl.dafont.com/dl/?f=deco_mon_type'
     name 'Deco Mon Type  '
     homepage 'http://www.dafont.com/deco-mon-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DecoMonType.ttf'
 end

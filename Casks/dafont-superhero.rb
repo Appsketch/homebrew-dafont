@@ -5,7 +5,6 @@ cask 'dafont-superhero' do
     url 'http://dl.dafont.com/dl/?f=superhero'
     name 'Superhero'
     homepage 'http://www.dafont.com/superhero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPERHERO.ttf'
 end

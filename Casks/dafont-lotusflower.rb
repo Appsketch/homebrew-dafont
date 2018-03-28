@@ -5,7 +5,6 @@ cask 'dafont-lotusflower' do
     url 'http://dl.dafont.com/dl/?f=lotusflower'
     name 'Lotusflower'
     homepage 'http://www.dafont.com/lotusflower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lotusf__.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-brain-storm' do
     url 'http://dl.dafont.com/dl/?f=brain_storm'
     name 'Brain Storm'
     homepage 'http://www.dafont.com/brain-storm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brain Storm.ttf'
 end

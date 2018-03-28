@@ -5,7 +5,6 @@ cask 'dafont-mojang' do
     url 'http://dl.dafont.com/dl/?f=mojang'
     name 'Mojang'
     homepage 'http://www.dafont.com/mojang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mojang-Bold.ttf'
     font 'Mojang-Regular.ttf'

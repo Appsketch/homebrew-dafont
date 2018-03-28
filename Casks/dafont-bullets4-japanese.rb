@@ -5,7 +5,6 @@ cask 'dafont-bullets4-japanese' do
     url 'http://dl.dafont.com/dl/?f=bullets4_japanese'
     name 'Bullets 4 Japanese'
     homepage 'http://www.dafont.com/bullets4-japanese.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bullets4.ttf'
 end

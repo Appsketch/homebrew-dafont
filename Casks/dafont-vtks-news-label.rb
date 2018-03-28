@@ -5,7 +5,6 @@ cask 'dafont-vtks-news-label' do
     url 'http://dl.dafont.com/dl/?f=vtks_news_label'
     name 'VTKS News Label'
     homepage 'http://www.dafont.com/vtks-news-label.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS News Label.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-generica' do
     url 'http://dl.dafont.com/dl/?f=generica'
     name 'Generica'
     homepage 'http://www.dafont.com/generica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Generica Bold.otf'
     font 'Generica.otf'

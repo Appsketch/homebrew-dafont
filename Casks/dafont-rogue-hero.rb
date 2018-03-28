@@ -5,7 +5,6 @@ cask 'dafont-rogue-hero' do
     url 'http://dl.dafont.com/dl/?f=rogue_hero'
     name 'Rogue Hero'
     homepage 'http://www.dafont.com/rogue-hero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'roguehero.ttf'
     font 'roguehero3d.ttf'

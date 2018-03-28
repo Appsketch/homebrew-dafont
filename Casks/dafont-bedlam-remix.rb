@@ -5,7 +5,6 @@ cask 'dafont-bedlam-remix' do
     url 'http://dl.dafont.com/dl/?f=bedlam_remix'
     name 'Bedlam Remix'
     homepage 'http://www.dafont.com/bedlam-remix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEDLR___.TTF'
 end

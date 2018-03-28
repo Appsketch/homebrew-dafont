@@ -5,7 +5,6 @@ cask 'dafont-kornik' do
     url 'http://dl.dafont.com/dl/?f=kornik'
     name 'Kornik'
     homepage 'http://www.dafont.com/kornik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kornik.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bubble-beads' do
     url 'http://dl.dafont.com/dl/?f=bubble_beads'
     name 'Bubble Beads'
     homepage 'http://www.dafont.com/bubble-beads.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BubbleBeads-SemiBold.ttf'
 end

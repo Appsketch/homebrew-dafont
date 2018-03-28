@@ -5,7 +5,6 @@ cask 'dafont-puke-force-8' do
     url 'http://dl.dafont.com/dl/?f=puke_force_8'
     name 'Puke Force 8'
     homepage 'http://www.dafont.com/puke-force-8.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Puke-Force-8.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sniper-shot' do
     url 'http://dl.dafont.com/dl/?f=sniper_shot'
     name 'Sniper Shot'
     homepage 'http://www.dafont.com/sniper-shot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SNIPER SHOT.ttf'
 end

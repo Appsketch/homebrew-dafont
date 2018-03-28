@@ -5,7 +5,6 @@ cask 'dafont-all-things-pink' do
     url 'http://dl.dafont.com/dl/?f=all_things_pink'
     name 'All Things Pink'
     homepage 'http://www.dafont.com/all-things-pink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'All Things Pink Skinny.ttf'
     font 'All Things Pink.ttf'

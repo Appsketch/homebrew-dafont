@@ -5,7 +5,6 @@ cask 'dafont-hemmet' do
     url 'http://dl.dafont.com/dl/?f=hemmet'
     name 'Hemmet'
     homepage 'http://www.dafont.com/hemmet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hemmet_Personal_Use_Only.ttf'
 end

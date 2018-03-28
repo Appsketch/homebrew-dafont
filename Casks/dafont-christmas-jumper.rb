@@ -5,7 +5,6 @@ cask 'dafont-christmas-jumper' do
     url 'http://dl.dafont.com/dl/?f=christmas_jumper'
     name 'Christmas Jumper'
     homepage 'http://www.dafont.com/christmas-jumper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Christmas Jumper.ttf'
 end

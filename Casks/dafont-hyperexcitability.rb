@@ -5,7 +5,6 @@ cask 'dafont-hyperexcitability' do
     url 'http://dl.dafont.com/dl/?f=hyperexcitability'
     name 'Hyperexcitability'
     homepage 'http://www.dafont.com/hyperexcitability.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hyperexcitability.ttf'
 end

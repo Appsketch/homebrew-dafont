@@ -5,7 +5,6 @@ cask 'dafont-led-bus' do
     url 'http://dl.dafont.com/dl/?f=led_bus'
     name 'Led Bus'
     homepage 'http://www.dafont.com/led-bus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Led Bus.ttf'
 end

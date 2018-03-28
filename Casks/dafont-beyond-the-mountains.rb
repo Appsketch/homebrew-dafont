@@ -5,7 +5,6 @@ cask 'dafont-beyond-the-mountains' do
     url 'http://dl.dafont.com/dl/?f=beyond_the_mountains'
     name 'Beyond The Mountains'
     homepage 'http://www.dafont.com/beyond-the-mountains.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beyond_the_mountains.ttf'
 end

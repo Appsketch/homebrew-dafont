@@ -5,7 +5,6 @@ cask 'dafont-mtf-evas-hand' do
     url 'http://dl.dafont.com/dl/?f=mtf_evas_hand'
     name 'MTF Evas Hand'
     homepage 'http://www.dafont.com/mtf-evas-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Evas Hand.ttf'
 end

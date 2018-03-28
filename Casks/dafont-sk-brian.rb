@@ -5,7 +5,6 @@ cask 'dafont-sk-brian' do
     url 'http://dl.dafont.com/dl/?f=sk_brian'
     name 'SK Brian'
     homepage 'http://www.dafont.com/sk-brian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SK_BRIAN.ttf'
 end

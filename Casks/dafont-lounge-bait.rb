@@ -5,7 +5,6 @@ cask 'dafont-lounge-bait' do
     url 'http://dl.dafont.com/dl/?f=lounge_bait'
     name 'Lounge Bait'
     homepage 'http://www.dafont.com/lounge-bait.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOUNB___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stone-rock' do
     url 'http://dl.dafont.com/dl/?f=stone_rock'
     name 'Stone Rock'
     homepage 'http://www.dafont.com/stone-rock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STONE ROCK.ttf'
 end

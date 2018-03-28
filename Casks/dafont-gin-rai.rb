@@ -5,7 +5,6 @@ cask 'dafont-gin-rai' do
     url 'http://dl.dafont.com/dl/?f=gin_rai'
     name 'Gin Rai'
     homepage 'http://www.dafont.com/gin-rai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gin Rai Italic.otf'
     font 'Gin Rai.otf'

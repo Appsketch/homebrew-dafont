@@ -5,7 +5,6 @@ cask 'dafont-crazy-smile' do
     url 'http://dl.dafont.com/dl/?f=crazy_smile'
     name 'Crazy Smile'
     homepage 'http://www.dafont.com/crazy-smile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crazy smile.ttf'
 end

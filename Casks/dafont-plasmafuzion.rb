@@ -5,7 +5,6 @@ cask 'dafont-plasmafuzion' do
     url 'http://dl.dafont.com/dl/?f=plasmafuzion'
     name 'Plasmafuzion'
     homepage 'http://www.dafont.com/plasmafuzion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'plasmafusion.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djb-merry' do
     url 'http://dl.dafont.com/dl/?f=djb_merry'
     name 'DJB Merry'
     homepage 'http://www.dafont.com/djb-merry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Merry.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-urania' do
     url 'http://dl.dafont.com/dl/?f=urania'
     name 'Urania'
     homepage 'http://www.dafont.com/urania.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Urania Semi Serif.ttf'
     font 'Urania Serif.ttf'

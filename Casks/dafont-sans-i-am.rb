@@ -5,7 +5,6 @@ cask 'dafont-sans-i-am' do
     url 'http://dl.dafont.com/dl/?f=sans_i_am'
     name 'Sans I Am'
     homepage 'http://www.dafont.com/sans-i-am.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sans_I_Am.ttf'
 end

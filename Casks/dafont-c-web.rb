@@ -5,7 +5,6 @@ cask 'dafont-c-web' do
     url 'http://dl.dafont.com/dl/?f=c_web'
     name 'C Web'
     homepage 'http://www.dafont.com/c-web.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CWEBL.TTF'
     font 'CWEBS.TTF'

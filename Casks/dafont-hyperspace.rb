@@ -5,7 +5,6 @@ cask 'dafont-hyperspace' do
     url 'http://dl.dafont.com/dl/?f=hyperspace'
     name 'Hyperspace'
     homepage 'http://www.dafont.com/hyperspace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hyperspace Bold Italic.otf'
     font 'Hyperspace Bold.otf'

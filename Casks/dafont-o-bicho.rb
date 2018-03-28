@@ -5,7 +5,6 @@ cask 'dafont-o-bicho' do
     url 'http://dl.dafont.com/dl/?f=o_bicho'
     name 'O Bicho'
     homepage 'http://www.dafont.com/o-bicho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OBICHO__.TTF'
 end

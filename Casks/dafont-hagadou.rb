@@ -5,7 +5,6 @@ cask 'dafont-hagadou' do
     url 'http://dl.dafont.com/dl/?f=hagadou'
     name 'Hagadou'
     homepage 'http://www.dafont.com/hagadou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hagadou-Regular.ttf'
 end

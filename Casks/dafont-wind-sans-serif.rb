@@ -5,7 +5,6 @@ cask 'dafont-wind-sans-serif' do
     url 'http://dl.dafont.com/dl/?f=wind_sans_serif'
     name 'Wind Sans Serif'
     homepage 'http://www.dafont.com/wind-sans-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wind.ttf'
 end

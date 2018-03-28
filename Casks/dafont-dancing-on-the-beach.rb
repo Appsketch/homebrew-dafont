@@ -5,7 +5,6 @@ cask 'dafont-dancing-on-the-beach' do
     url 'http://dl.dafont.com/dl/?f=dancing_on_the_beach'
     name 'Dancing on the Beach'
     homepage 'http://www.dafont.com/dancing-on-the-beach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dancing on the Beach.otf'
 end

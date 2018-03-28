@@ -5,7 +5,6 @@ cask 'dafont-whittle' do
     url 'http://dl.dafont.com/dl/?f=whittle'
     name 'Whittle'
     homepage 'http://www.dafont.com/whittle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Whittle Bold Italic.otf'
     font 'Whittle Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-thaiana-jones' do
     url 'http://dl.dafont.com/dl/?f=thaiana_jones'
     name 'Thaiana Jones'
     homepage 'http://www.dafont.com/thaiana-jones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thaiana_jones.ttf'
 end

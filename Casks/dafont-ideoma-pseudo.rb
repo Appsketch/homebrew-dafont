@@ -5,7 +5,6 @@ cask 'dafont-ideoma-pseudo' do
     url 'http://dl.dafont.com/dl/?f=ideoma_pseudo'
     name 'Ideoma Pseudo'
     homepage 'http://www.dafont.com/ideoma-pseudo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ideomaPSEUDO_V2.otf'
 end

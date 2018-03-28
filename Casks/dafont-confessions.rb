@@ -5,7 +5,6 @@ cask 'dafont-confessions' do
     url 'http://dl.dafont.com/dl/?f=confessions'
     name 'Confessions'
     homepage 'http://www.dafont.com/confessions.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Confessions.ttf'
 end

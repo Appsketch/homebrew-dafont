@@ -5,7 +5,6 @@ cask 'dafont-retro-rescued' do
     url 'http://dl.dafont.com/dl/?f=retro_rescued'
     name 'Retro Rescued'
     homepage 'http://www.dafont.com/retro-rescued.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Retro Rescued.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pittoresk' do
     url 'http://dl.dafont.com/dl/?f=pittoresk'
     name 'Pittoresk'
     homepage 'http://www.dafont.com/pittoresk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pittoresk Bold Oblique.ttf'
     font 'Pittoresk Condensed.ttf'

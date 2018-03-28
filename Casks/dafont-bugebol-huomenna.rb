@@ -5,7 +5,6 @@ cask 'dafont-bugebol-huomenna' do
     url 'http://dl.dafont.com/dl/?f=bugebol_huomenna'
     name 'Bugebol huomenna'
     homepage 'http://www.dafont.com/bugebol-huomenna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bugebol huomenna.ttf'
 end

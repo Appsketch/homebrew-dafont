@@ -5,7 +5,6 @@ cask 'dafont-uptown' do
     url 'http://dl.dafont.com/dl/?f=uptown'
     name 'Uptown'
     homepage 'http://www.dafont.com/uptown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Uptown__.ttf'
 end

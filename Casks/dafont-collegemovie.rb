@@ -5,7 +5,6 @@ cask 'dafont-collegemovie' do
     url 'http://dl.dafont.com/dl/?f=collegemovie'
     name 'College Movie'
     homepage 'http://www.dafont.com/collegemovie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CollegeMovie.ttf'
 end

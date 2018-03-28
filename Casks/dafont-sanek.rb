@@ -5,7 +5,6 @@ cask 'dafont-sanek' do
     url 'http://dl.dafont.com/dl/?f=sanek'
     name 'Sanek'
     homepage 'http://www.dafont.com/sanek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sanek-Regular.otf'
 end

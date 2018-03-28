@@ -5,7 +5,6 @@ cask 'dafont-swallow-falls' do
     url 'http://dl.dafont.com/dl/?f=swallow_falls'
     name 'Swallow Falls'
     homepage 'http://www.dafont.com/swallow-falls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swallow Falls Italic.ttf'
     font 'Swallow Falls.ttf'

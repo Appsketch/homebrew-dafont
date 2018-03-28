@@ -5,7 +5,6 @@ cask 'dafont-shelbyshortandfat' do
     url 'http://dl.dafont.com/dl/?f=shelbyshortandfat'
     name 'Shelby Short and Fat'
     homepage 'http://www.dafont.com/shelbyshortandfat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShelbyShortandFat.ttf'
 end

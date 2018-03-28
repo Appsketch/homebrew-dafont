@@ -5,7 +5,6 @@ cask 'dafont-nirhauma' do
     url 'http://dl.dafont.com/dl/?f=nirhauma'
     name 'Nirhauma'
     homepage 'http://www.dafont.com/nirhauma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nirhauma.ttf'
 end

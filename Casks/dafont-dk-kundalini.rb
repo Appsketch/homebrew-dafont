@@ -5,7 +5,6 @@ cask 'dafont-dk-kundalini' do
     url 'http://dl.dafont.com/dl/?f=dk_kundalini'
     name 'DK Kundalini'
     homepage 'http://www.dafont.com/dk-kundalini.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Kundalini.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lasermetal' do
     url 'http://dl.dafont.com/dl/?f=lasermetal'
     name 'Laser Metal'
     homepage 'http://www.dafont.com/lasermetal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaserMetal.ttf'
 end

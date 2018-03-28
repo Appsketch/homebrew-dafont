@@ -5,7 +5,6 @@ cask 'dafont-an-original-font-by-davi' do
     url 'http://dl.dafont.com/dl/?f=an_original_font_by_davi'
     name 'An Original Font By Davi'
     homepage 'http://www.dafont.com/an-original-font-by-davi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'An_Original_Font_By_Davi.ttf'
 end

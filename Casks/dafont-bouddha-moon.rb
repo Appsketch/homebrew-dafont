@@ -5,7 +5,6 @@ cask 'dafont-bouddha-moon' do
     url 'http://dl.dafont.com/dl/?f=bouddha_moon'
     name 'Bouddha Moon'
     homepage 'http://www.dafont.com/bouddha-moon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BouddhaMoon.ttf'
 end

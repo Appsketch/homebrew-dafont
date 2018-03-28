@@ -5,7 +5,6 @@ cask 'dafont-mrf-hello-fall' do
     url 'http://dl.dafont.com/dl/?f=mrf_hello_fall'
     name 'MRF Hello Fall'
     homepage 'http://www.dafont.com/mrf-hello-fall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MRFHelloFall.otf'
 end

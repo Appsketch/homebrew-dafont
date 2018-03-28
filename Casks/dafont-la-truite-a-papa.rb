@@ -5,7 +5,6 @@ cask 'dafont-la-truite-a-papa' do
     url 'http://dl.dafont.com/dl/?f=la_truite_a_papa'
     name 'La Truite &agrave; Papa'
     homepage 'http://www.dafont.com/la-truite-a-papa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LA TRUITE A PAPA B.ttf'
     font 'LA TRUITE A PAPA.ttf'

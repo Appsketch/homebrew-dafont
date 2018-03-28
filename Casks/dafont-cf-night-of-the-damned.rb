@@ -5,7 +5,6 @@ cask 'dafont-cf-night-of-the-damned' do
     url 'http://dl.dafont.com/dl/?f=cf_night_of_the_damned'
     name 'CF Night Of The Damned'
     homepage 'http://www.dafont.com/cf-night-of-the-damned.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFNightOfTheDamned-Regular.ttf'
 end

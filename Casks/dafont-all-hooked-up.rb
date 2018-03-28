@@ -5,7 +5,6 @@ cask 'dafont-all-hooked-up' do
     url 'http://dl.dafont.com/dl/?f=all_hooked_up'
     name 'All Hooked Up'
     homepage 'http://www.dafont.com/all-hooked-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HookedUp.ttf'
 end

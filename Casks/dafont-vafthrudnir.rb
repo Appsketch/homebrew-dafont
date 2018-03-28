@@ -5,7 +5,6 @@ cask 'dafont-vafthrudnir' do
     url 'http://dl.dafont.com/dl/?f=vafthrudnir'
     name 'Vafthrudnir'
     homepage 'http://www.dafont.com/vafthrudnir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VAFTHRUD.TTF'
 end

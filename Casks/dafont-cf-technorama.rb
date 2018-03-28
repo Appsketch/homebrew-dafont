@@ -5,7 +5,6 @@ cask 'dafont-cf-technorama' do
     url 'http://dl.dafont.com/dl/?f=cf_technorama'
     name 'CF TechnoRama'
     homepage 'http://www.dafont.com/cf-technorama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFTechnoRama-Slanted.ttf'
 end

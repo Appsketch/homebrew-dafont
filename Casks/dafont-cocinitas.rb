@@ -5,7 +5,6 @@ cask 'dafont-cocinitas' do
     url 'http://dl.dafont.com/dl/?f=cocinitas'
     name 'Cocinitas'
     homepage 'http://www.dafont.com/cocinitas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cocinitas.ttf'
 end

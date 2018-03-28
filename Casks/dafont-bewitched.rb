@@ -5,7 +5,6 @@ cask 'dafont-bewitched' do
     url 'http://dl.dafont.com/dl/?f=bewitched'
     name 'Witched'
     homepage 'http://www.dafont.com/bewitched.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Witched.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bigcurls' do
     url 'http://dl.dafont.com/dl/?f=bigcurls'
     name 'Bigurls'
     homepage 'http://www.dafont.com/bigcurls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bigcurls.ttf'
 end

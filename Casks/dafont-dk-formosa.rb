@@ -5,7 +5,6 @@ cask 'dafont-dk-formosa' do
     url 'http://dl.dafont.com/dl/?f=dk_formosa'
     name 'DK Formosa'
     homepage 'http://www.dafont.com/dk-formosa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Formosa.otf'
 end

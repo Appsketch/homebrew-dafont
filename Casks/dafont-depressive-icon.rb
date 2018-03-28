@@ -5,7 +5,6 @@ cask 'dafont-depressive-icon' do
     url 'http://dl.dafont.com/dl/?f=depressive_icon'
     name 'Depressive Icon'
     homepage 'http://www.dafont.com/depressive-icon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Depressive Icon.ttf'
 end

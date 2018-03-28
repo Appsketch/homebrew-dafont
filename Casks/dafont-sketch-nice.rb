@@ -5,7 +5,6 @@ cask 'dafont-sketch-nice' do
     url 'http://dl.dafont.com/dl/?f=sketch_nice'
     name 'Sketch Nice'
     homepage 'http://www.dafont.com/sketch-nice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketch Nice.otf'
 end

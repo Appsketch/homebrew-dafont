@@ -5,7 +5,6 @@ cask 'dafont-tf2-secondary' do
     url 'http://dl.dafont.com/dl/?f=tf2_secondary'
     name 'TF2 Secondary'
     homepage 'http://www.dafont.com/tf2-secondary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TF2secondary.ttf'
 end

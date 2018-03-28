@@ -5,7 +5,6 @@ cask 'dafont-internet-friends' do
     url 'http://dl.dafont.com/dl/?f=internet_friends'
     name 'Internet Friends'
     homepage 'http://www.dafont.com/internet-friends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Internet Friends.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pucha-smoke-telegraph3' do
     url 'http://dl.dafont.com/dl/?f=pucha_smoke_telegraph3'
     name 'Pucha Smoke Telegraph 3'
     homepage 'http://www.dafont.com/pucha-smoke-telegraph3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pucha_Smoke_Telegraph3.ttf'
 end

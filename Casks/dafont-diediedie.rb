@@ -5,7 +5,6 @@ cask 'dafont-diediedie' do
     url 'http://dl.dafont.com/dl/?f=diediedie'
     name 'Diediedie'
     homepage 'http://www.dafont.com/diediedie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIEDIEDI.TTF'
 end

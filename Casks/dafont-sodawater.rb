@@ -5,7 +5,6 @@ cask 'dafont-sodawater' do
     url 'http://dl.dafont.com/dl/?f=sodawater'
     name 'Soda Water'
     homepage 'http://www.dafont.com/sodawater.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SodaWater.ttf'
 end

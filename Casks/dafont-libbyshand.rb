@@ -5,7 +5,6 @@ cask 'dafont-libbyshand' do
     url 'http://dl.dafont.com/dl/?f=libbyshand'
     name 'Libbys Hand'
     homepage 'http://www.dafont.com/libbyshand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LibbysHand.ttf'
 end

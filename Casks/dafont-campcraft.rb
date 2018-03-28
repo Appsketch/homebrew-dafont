@@ -5,7 +5,6 @@ cask 'dafont-campcraft' do
     url 'http://dl.dafont.com/dl/?f=campcraft'
     name 'Campcraft'
     homepage 'http://www.dafont.com/campcraft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'campcraftbasic.ttf'
 end

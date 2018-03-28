@@ -5,7 +5,6 @@ cask 'dafont-spoooky-drips' do
     url 'http://dl.dafont.com/dl/?f=spoooky_drips'
     name 'Spoooky Drips'
     homepage 'http://www.dafont.com/spoooky-drips.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpoookyDrips-Regular.otf'
 end

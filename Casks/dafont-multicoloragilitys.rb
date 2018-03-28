@@ -5,7 +5,6 @@ cask 'dafont-multicoloragilitys' do
     url 'http://dl.dafont.com/dl/?f=multicoloragilitys'
     name 'Multicolor Agilitys'
     homepage 'http://www.dafont.com/multicoloragilitys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MulticolorAgilitys.ttf'
 end

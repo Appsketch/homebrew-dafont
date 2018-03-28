@@ -5,7 +5,6 @@ cask 'dafont-style-bats' do
     url 'http://dl.dafont.com/dl/?f=style_bats'
     name 'StyleBats'
     homepage 'http://www.dafont.com/style-bats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STYLBCC_.TTF'
 end

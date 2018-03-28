@@ -5,7 +5,6 @@ cask 'dafont-the-spaghetti-movie' do
     url 'http://dl.dafont.com/dl/?f=the_spaghetti_movie'
     name 'The Spaghetti Movie'
     homepage 'http://www.dafont.com/the-spaghetti-movie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THE SPAGHETTI MOVIE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-omgwilliamsserifs' do
     url 'http://dl.dafont.com/dl/?f=omgwilliamsserifs'
     name 'OMG Williams Serifs'
     homepage 'http://www.dafont.com/omgwilliamsserifs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OMGWilliamsSerifs.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-from-brush-to-caps' do
     url 'http://dl.dafont.com/dl/?f=from_brush_to_caps'
     name 'From brush to caps'
     homepage 'http://www.dafont.com/from-brush-to-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'from brush to caps.ttf'
 end

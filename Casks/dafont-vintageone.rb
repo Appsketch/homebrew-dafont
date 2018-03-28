@@ -5,7 +5,6 @@ cask 'dafont-vintageone' do
     url 'http://dl.dafont.com/dl/?f=vintageone'
     name 'Vintage One'
     homepage 'http://www.dafont.com/vintageone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VintageOne.ttf'
 end

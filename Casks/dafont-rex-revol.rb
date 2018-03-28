@@ -5,7 +5,6 @@ cask 'dafont-rex-revol' do
     url 'http://dl.dafont.com/dl/?f=rex_revol'
     name 'Rex Revol'
     homepage 'http://www.dafont.com/rex-revol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rex Revol.ttf'
 end

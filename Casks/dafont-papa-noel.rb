@@ -5,7 +5,6 @@ cask 'dafont-papa-noel' do
     url 'http://dl.dafont.com/dl/?f=papa_noel'
     name 'Papa No&euml;l'
     homepage 'http://www.dafont.com/papa-noel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'papan.TTF'
 end

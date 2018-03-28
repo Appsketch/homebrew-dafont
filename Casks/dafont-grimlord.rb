@@ -5,7 +5,6 @@ cask 'dafont-grimlord' do
     url 'http://dl.dafont.com/dl/?f=grimlord'
     name 'Grimlord'
     homepage 'http://www.dafont.com/grimlord.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grimlord.ttf'
     font 'grimlordb.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-high-altitudes' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_high_altitudes'
     name 'Austie Bost High Altitudes'
     homepage 'http://www.dafont.com/austie-bost-high-altitudes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost High Altitudes.ttf'
 end

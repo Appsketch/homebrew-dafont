@@ -5,7 +5,6 @@ cask 'dafont-dekiru' do
     url 'http://dl.dafont.com/dl/?f=dekiru'
     name 'Dekiru '
     homepage 'http://www.dafont.com/dekiru.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dekiru.ttf'
 end

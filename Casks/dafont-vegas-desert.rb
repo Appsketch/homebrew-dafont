@@ -5,7 +5,6 @@ cask 'dafont-vegas-desert' do
     url 'http://dl.dafont.com/dl/?f=vegas_desert'
     name 'Vegas Desert'
     homepage 'http://www.dafont.com/vegas-desert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vegas Desert.ttf'
 end

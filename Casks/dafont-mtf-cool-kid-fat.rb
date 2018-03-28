@@ -5,7 +5,6 @@ cask 'dafont-mtf-cool-kid-fat' do
     url 'http://dl.dafont.com/dl/?f=mtf_cool_kid_fat'
     name 'MTF Cool Kid Fat'
     homepage 'http://www.dafont.com/mtf-cool-kid-fat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Cool Kid.ttf'
 end

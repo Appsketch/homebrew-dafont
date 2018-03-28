@@ -5,7 +5,6 @@ cask 'dafont-proximafour' do
     url 'http://dl.dafont.com/dl/?f=proximafour'
     name 'Proxima Four'
     homepage 'http://www.dafont.com/proximafour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ProximaFour.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-divided-nations' do
     url 'http://dl.dafont.com/dl/?f=divided_nations'
     name 'Divided Nations'
     homepage 'http://www.dafont.com/divided-nations.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Divided Nations.ttf'
 end

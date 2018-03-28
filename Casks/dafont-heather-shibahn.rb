@@ -5,7 +5,6 @@ cask 'dafont-heather-shibahn' do
     url 'http://dl.dafont.com/dl/?f=heather_shibahn'
     name 'Heather Shibahn'
     homepage 'http://www.dafont.com/heather-shibahn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heather Shibahn.ttf'
 end

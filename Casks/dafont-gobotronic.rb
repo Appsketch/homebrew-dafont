@@ -5,7 +5,6 @@ cask 'dafont-gobotronic' do
     url 'http://dl.dafont.com/dl/?f=gobotronic'
     name 'Gobotronic'
     homepage 'http://www.dafont.com/gobotronic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gobotronic.otf'
 end

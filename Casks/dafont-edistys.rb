@@ -5,7 +5,6 @@ cask 'dafont-edistys' do
     url 'http://dl.dafont.com/dl/?f=edistys'
     name 'Edistys'
     homepage 'http://www.dafont.com/edistys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EDISTYS_.TTF'
 end

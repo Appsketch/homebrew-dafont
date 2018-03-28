@@ -5,7 +5,6 @@ cask 'dafont-kg-domo-is-my-favorite' do
     url 'http://dl.dafont.com/dl/?f=kg_domo_is_my_favorite'
     name 'KG Domo is my Favorite'
     homepage 'http://www.dafont.com/kg-domo-is-my-favorite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGDomoIsMyFAVORITE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-specialexit' do
     url 'http://dl.dafont.com/dl/?f=specialexit'
     name 'Special Exit'
     homepage 'http://www.dafont.com/specialexit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpecialExit.ttf'
 end

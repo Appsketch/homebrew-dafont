@@ -5,7 +5,6 @@ cask 'dafont-konfekt' do
     url 'http://dl.dafont.com/dl/?f=konfekt'
     name 'Konfekt'
     homepage 'http://www.dafont.com/konfekt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'konfekt.TTF'
 end

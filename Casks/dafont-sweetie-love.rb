@@ -5,7 +5,6 @@ cask 'dafont-sweetie-love' do
     url 'http://dl.dafont.com/dl/?f=sweetie_love'
     name 'Sweetie Love'
     homepage 'http://www.dafont.com/sweetie-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sweetie Love.ttf'
 end

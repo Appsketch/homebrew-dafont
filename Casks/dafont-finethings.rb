@@ -5,7 +5,6 @@ cask 'dafont-finethings' do
     url 'http://dl.dafont.com/dl/?f=finethings'
     name 'Fine Things'
     homepage 'http://www.dafont.com/finethings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FIneThings.ttf'
 end

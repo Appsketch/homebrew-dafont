@@ -5,7 +5,6 @@ cask 'dafont-thematic' do
     url 'http://dl.dafont.com/dl/?f=thematic'
     name 'The Matic'
     homepage 'http://www.dafont.com/thematic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheMatic Bold Demo.otf'
     font 'TheMatic Bold Italic Demo.otf'

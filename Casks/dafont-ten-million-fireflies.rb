@@ -5,7 +5,6 @@ cask 'dafont-ten-million-fireflies' do
     url 'http://dl.dafont.com/dl/?f=ten_million_fireflies'
     name 'Ten Million Fireflies'
     homepage 'http://www.dafont.com/ten-million-fireflies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ten Million Fireflies.ttf'
 end

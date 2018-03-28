@@ -5,7 +5,6 @@ cask 'dafont-tektrron' do
     url 'http://dl.dafont.com/dl/?f=tektrron'
     name 'Tektrron'
     homepage 'http://www.dafont.com/tektrron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TER_____.TTF'
 end

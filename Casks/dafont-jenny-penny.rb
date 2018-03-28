@@ -5,7 +5,6 @@ cask 'dafont-jenny-penny' do
     url 'http://dl.dafont.com/dl/?f=jenny_penny'
     name 'Jenny Penny'
     homepage 'http://www.dafont.com/jenny-penny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jenny Penny.ttf'
 end

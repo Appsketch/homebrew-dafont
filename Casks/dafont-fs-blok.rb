@@ -5,7 +5,6 @@ cask 'dafont-fs-blok' do
     url 'http://dl.dafont.com/dl/?f=fs_blok'
     name 'FS Blok'
     homepage 'http://www.dafont.com/fs-blok.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fs_blok_mix.ttf'
     font 'fs_blok_sc.ttf'

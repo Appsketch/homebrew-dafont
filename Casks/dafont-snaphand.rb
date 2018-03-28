@@ -5,7 +5,6 @@ cask 'dafont-snaphand' do
     url 'http://dl.dafont.com/dl/?f=snaphand'
     name 'SnapHand'
     homepage 'http://www.dafont.com/snaphand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'snaphand-v1-free.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-zuptype-sim' do
     url 'http://dl.dafont.com/dl/?f=zuptype_sim'
     name 'Zuptype SIM'
     homepage 'http://www.dafont.com/zuptype-sim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zuptype_SIM.ttf'
 end

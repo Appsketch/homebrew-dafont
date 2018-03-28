@@ -5,7 +5,6 @@ cask 'dafont-rockster' do
     url 'http://dl.dafont.com/dl/?f=rockster'
     name 'Rockster'
     homepage 'http://www.dafont.com/rockster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rockster.ttf'
 end

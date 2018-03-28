@@ -5,7 +5,6 @@ cask 'dafont-craptacular' do
     url 'http://dl.dafont.com/dl/?f=craptacular'
     name 'Craptacular'
     homepage 'http://www.dafont.com/craptacular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRAP.TTF'
 end

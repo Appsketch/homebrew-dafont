@@ -5,7 +5,6 @@ cask 'dafont-wi-5med-grid' do
     url 'http://dl.dafont.com/dl/?f=wi_5med_grid'
     name 'Wi/5Med Grid'
     homepage 'http://www.dafont.com/wi-5med-grid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wi5med_grid.ttf'
 end

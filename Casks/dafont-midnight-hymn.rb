@@ -5,7 +5,6 @@ cask 'dafont-midnight-hymn' do
     url 'http://dl.dafont.com/dl/?f=midnight_hymn'
     name 'Midnight Hymn'
     homepage 'http://www.dafont.com/midnight-hymn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Midnight Hymn.ttf'
 end

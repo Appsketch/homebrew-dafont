@@ -5,7 +5,6 @@ cask 'dafont-burris' do
     url 'http://dl.dafont.com/dl/?f=burris'
     name 'Burris'
     homepage 'http://www.dafont.com/burris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Burris.ttf'
     font 'BurrisGhostTown.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-java-island' do
     url 'http://dl.dafont.com/dl/?f=java_island'
     name 'Java Island'
     homepage 'http://www.dafont.com/java-island.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JAVA ISLAND.ttf'
 end

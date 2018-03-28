@@ -5,7 +5,6 @@ cask 'dafont-megeon-grunge' do
     url 'http://dl.dafont.com/dl/?f=megeon_grunge'
     name 'Megeon Grunge'
     homepage 'http://www.dafont.com/megeon-grunge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Megeon Grunge.otf'
 end

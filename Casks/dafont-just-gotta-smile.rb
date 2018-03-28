@@ -5,7 +5,6 @@ cask 'dafont-just-gotta-smile' do
     url 'http://dl.dafont.com/dl/?f=just_gotta_smile'
     name 'Just Gotta Smile'
     homepage 'http://www.dafont.com/just-gotta-smile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Just Gotta Smile.ttf'
 end

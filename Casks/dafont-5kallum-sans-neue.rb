@@ -5,7 +5,6 @@ cask 'dafont-5kallum-sans-neue' do
     url 'http://dl.dafont.com/dl/?f=5kallum_sans_neue'
     name '5 Kallum Sans Neue'
     homepage 'http://www.dafont.com/5kallum-sans-neue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5kallum_sans_neue.ttf'
 end

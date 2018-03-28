@@ -5,7 +5,6 @@ cask 'dafont-futhark-aoe' do
     url 'http://dl.dafont.com/dl/?f=futhark_aoe'
     name 'Futhark AOE'
     homepage 'http://www.dafont.com/futhark-aoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FUTHA___.TTF'
     font 'FUTHAI__.TTF'

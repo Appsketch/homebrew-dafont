@@ -5,7 +5,6 @@ cask 'dafont-popping-popcorn' do
     url 'http://dl.dafont.com/dl/?f=popping_popcorn'
     name 'Popping Popcorn'
     homepage 'http://www.dafont.com/popping-popcorn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'popcorn.ttf'
 end

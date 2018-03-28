@@ -5,7 +5,6 @@ cask 'dafont-thin-press' do
     url 'http://dl.dafont.com/dl/?f=thin_press'
     name 'Thin Press'
     homepage 'http://www.dafont.com/thin-press.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thin Press.ttf'
 end

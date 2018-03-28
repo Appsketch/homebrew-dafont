@@ -5,7 +5,6 @@ cask 'dafont-quirkus' do
     url 'http://dl.dafont.com/dl/?f=quirkus'
     name 'Quirkus'
     homepage 'http://www.dafont.com/quirkus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quirkus B.ttf'
     font 'Quirkus BI.ttf'

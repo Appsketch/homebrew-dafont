@@ -5,7 +5,6 @@ cask 'dafont-kr-christmas-time' do
     url 'http://dl.dafont.com/dl/?f=kr_christmas_time'
     name 'KR Christmas Time'
     homepage 'http://www.dafont.com/kr-christmas-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Christmas Time 2.ttf'
     font 'KR Christmas Time.ttf'

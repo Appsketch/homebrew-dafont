@@ -5,7 +5,6 @@ cask 'dafont-monsterenergy' do
     url 'http://dl.dafont.com/dl/?f=monsterenergy'
     name 'Monster Energy'
     homepage 'http://www.dafont.com/monsterenergy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MonsterEnergy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mandatory' do
     url 'http://dl.dafont.com/dl/?f=mandatory'
     name 'Mandatory'
     homepage 'http://www.dafont.com/mandatory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MANDATOR.ttf'
 end

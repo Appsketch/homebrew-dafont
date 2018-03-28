@@ -5,7 +5,6 @@ cask 'dafont-swedie-cruel' do
     url 'http://dl.dafont.com/dl/?f=swedie_cruel'
     name 'Swedie Cruel'
     homepage 'http://www.dafont.com/swedie-cruel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SwedieCruel.ttf'
 end

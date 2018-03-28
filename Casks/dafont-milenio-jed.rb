@@ -5,7 +5,6 @@ cask 'dafont-milenio-jed' do
     url 'http://dl.dafont.com/dl/?f=milenio_jed'
     name 'Milenio Jed@'
     homepage 'http://www.dafont.com/milenio-jed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Milenio-jed@.ttf'
 end

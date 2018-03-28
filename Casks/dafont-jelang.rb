@@ -5,7 +5,6 @@ cask 'dafont-jelang' do
     url 'http://dl.dafont.com/dl/?f=jelang'
     name 'Jelang'
     homepage 'http://www.dafont.com/jelang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JELANG.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-i-love-disaster' do
     url 'http://dl.dafont.com/dl/?f=i_love_disaster'
     name 'I Love Disaster'
     homepage 'http://www.dafont.com/i-love-disaster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I_Love_Disaster_DEMO.ttf'
 end

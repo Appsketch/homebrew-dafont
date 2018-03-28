@@ -5,7 +5,6 @@ cask 'dafont-nameless-harbor' do
     url 'http://dl.dafont.com/dl/?f=nameless_harbor'
     name 'Nameless Harbor'
     homepage 'http://www.dafont.com/nameless-harbor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nameless Harbor.ttf'
 end

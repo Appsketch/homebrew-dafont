@@ -5,7 +5,6 @@ cask 'dafont-full-circle' do
     url 'http://dl.dafont.com/dl/?f=full_circle'
     name 'Full Circle'
     homepage 'http://www.dafont.com/full-circle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Full Circle.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-shangri-la' do
     url 'http://dl.dafont.com/dl/?f=shangri_la'
     name 'Shangri-La'
     homepage 'http://www.dafont.com/shangri-la.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shangri-la.ttf'
 end

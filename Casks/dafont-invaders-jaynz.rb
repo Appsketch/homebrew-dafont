@@ -5,7 +5,6 @@ cask 'dafont-invaders-jaynz' do
     url 'http://dl.dafont.com/dl/?f=invaders_jaynz'
     name 'Invaders'
     homepage 'http://www.dafont.com/invaders-jaynz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Invaders Bold Italic.otf'
     font 'Invaders Bold.otf'

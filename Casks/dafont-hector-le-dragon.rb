@@ -5,7 +5,6 @@ cask 'dafont-hector-le-dragon' do
     url 'http://dl.dafont.com/dl/?f=hector_le_dragon'
     name 'Hector le Dragon '
     homepage 'http://www.dafont.com/hector-le-dragon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hector le Dragon.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-offset' do
     url 'http://dl.dafont.com/dl/?f=offset'
     name 'Offset'
     homepage 'http://www.dafont.com/offset.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Offset Plain.ttf'
 end

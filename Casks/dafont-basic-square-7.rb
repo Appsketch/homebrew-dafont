@@ -5,7 +5,6 @@ cask 'dafont-basic-square-7' do
     url 'http://dl.dafont.com/dl/?f=basic_square_7'
     name 'Basic Square 7'
     homepage 'http://www.dafont.com/basic-square-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'basic_square_7_solid.ttf'
     font 'basic_square_7.ttf'

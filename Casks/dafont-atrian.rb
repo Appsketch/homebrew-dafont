@@ -5,7 +5,6 @@ cask 'dafont-atrian' do
     url 'http://dl.dafont.com/dl/?f=atrian'
     name 'Atrian'
     homepage 'http://www.dafont.com/atrian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Atrian 1.ttf'
     font 'Atrian 3.ttf'

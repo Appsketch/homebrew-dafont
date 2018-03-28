@@ -5,7 +5,6 @@ cask 'dafont-gabeethegoomba' do
     url 'http://dl.dafont.com/dl/?f=gabeethegoomba'
     name 'Gabee the goomba '
     homepage 'http://www.dafont.com/gabeethegoomba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '2-4ef58.ttf'
 end

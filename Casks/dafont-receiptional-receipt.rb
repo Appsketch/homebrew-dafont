@@ -5,7 +5,6 @@ cask 'dafont-receiptional-receipt' do
     url 'http://dl.dafont.com/dl/?f=receiptional_receipt'
     name 'Receiptional Receipt'
     homepage 'http://www.dafont.com/receiptional-receipt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Receiptional Receipt.ttf'
 end

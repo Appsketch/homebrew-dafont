@@ -5,7 +5,6 @@ cask 'dafont-kg-i-like-to-move-it' do
     url 'http://dl.dafont.com/dl/?f=kg_i_like_to_move_it'
     name 'KG I Like To Move It'
     homepage 'http://www.dafont.com/kg-i-like-to-move-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGILikeToMoveIt.ttf'
 end

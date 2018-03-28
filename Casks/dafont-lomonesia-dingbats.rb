@@ -5,7 +5,6 @@ cask 'dafont-lomonesia-dingbats' do
     url 'http://dl.dafont.com/dl/?f=lomonesia_dingbats'
     name 'Lomonesia Dingbats'
     homepage 'http://www.dafont.com/lomonesia-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lomonesia- Dingbats.ttf'
 end

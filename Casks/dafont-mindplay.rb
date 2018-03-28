@@ -5,7 +5,6 @@ cask 'dafont-mindplay' do
     url 'http://dl.dafont.com/dl/?f=mindplay'
     name 'MindPlay'
     homepage 'http://www.dafont.com/mindplay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MindPlay.ttf'
 end

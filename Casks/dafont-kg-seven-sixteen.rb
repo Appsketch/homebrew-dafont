@@ -5,7 +5,6 @@ cask 'dafont-kg-seven-sixteen' do
     url 'http://dl.dafont.com/dl/?f=kg_seven_sixteen'
     name 'KG Seven Sixteen'
     homepage 'http://www.dafont.com/kg-seven-sixteen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGSevenSixteen.ttf'
 end

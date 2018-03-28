@@ -5,7 +5,6 @@ cask 'dafont-futurama' do
     url 'http://dl.dafont.com/dl/?f=futurama'
     name 'Futurama'
     homepage 'http://www.dafont.com/futurama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fr-bold.ttf'
     font 'fr-fal1.ttf'

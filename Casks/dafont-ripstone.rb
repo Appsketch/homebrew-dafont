@@ -5,7 +5,6 @@ cask 'dafont-ripstone' do
     url 'http://dl.dafont.com/dl/?f=ripstone'
     name 'Ripstone'
     homepage 'http://www.dafont.com/ripstone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ripstone.ttf'
 end

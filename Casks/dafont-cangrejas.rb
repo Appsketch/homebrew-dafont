@@ -5,7 +5,6 @@ cask 'dafont-cangrejas' do
     url 'http://dl.dafont.com/dl/?f=cangrejas'
     name 'Cangrejas'
     homepage 'http://www.dafont.com/cangrejas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cangreja.ttf'
 end

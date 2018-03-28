@@ -5,7 +5,6 @@ cask 'dafont-koty' do
     url 'http://dl.dafont.com/dl/?f=koty'
     name 'Koty'
     homepage 'http://www.dafont.com/koty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KocieSymbole.ttf'
 end

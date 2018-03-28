@@ -5,7 +5,6 @@ cask 'dafont-ace-crickey' do
     url 'http://dl.dafont.com/dl/?f=ace_crickey'
     name 'Ace Crickey'
     homepage 'http://www.dafont.com/ace-crickey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ace.ttf'
 end

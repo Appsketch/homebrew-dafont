@@ -5,7 +5,6 @@ cask 'dafont-applespice' do
     url 'http://dl.dafont.com/dl/?f=applespice'
     name 'Apple Spice'
     homepage 'http://www.dafont.com/applespice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AppleSpice.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-barnyardmassacre' do
     url 'http://dl.dafont.com/dl/?f=barnyardmassacre'
     name 'Barnyard Massacre'
     homepage 'http://www.dafont.com/barnyardmassacre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BarnyardMassacre.ttf'
 end

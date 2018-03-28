@@ -5,7 +5,6 @@ cask 'dafont-squarodynamic' do
     url 'http://dl.dafont.com/dl/?f=squarodynamic'
     name 'Squarodynamic'
     homepage 'http://www.dafont.com/squarodynamic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Squarodynamic01.ttf'
     font 'Squarodynamic02.ttf'

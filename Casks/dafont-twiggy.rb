@@ -5,7 +5,6 @@ cask 'dafont-twiggy' do
     url 'http://dl.dafont.com/dl/?f=twiggy'
     name 'Twiggy'
     homepage 'http://www.dafont.com/twiggy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Twiggy-Regular.otf'
 end

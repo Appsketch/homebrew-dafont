@@ -5,7 +5,6 @@ cask 'dafont-lillybelle' do
     url 'http://dl.dafont.com/dl/?f=lillybelle'
     name 'LillyBelle'
     homepage 'http://www.dafont.com/lillybelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LillyBelle_2.ttf'
 end

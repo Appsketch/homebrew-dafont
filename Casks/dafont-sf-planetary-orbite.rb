@@ -5,7 +5,6 @@ cask 'dafont-sf-planetary-orbite' do
     url 'http://dl.dafont.com/dl/?f=sf_planetary_orbite'
     name 'SF Planetary Orbiter'
     homepage 'http://www.dafont.com/sf-planetary-orbite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Planetary Orbiter Bold Italic.ttf'
     font 'SF Planetary Orbiter Bold.ttf'

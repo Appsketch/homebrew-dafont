@@ -5,7 +5,6 @@ cask 'dafont-bakersfield' do
     url 'http://dl.dafont.com/dl/?f=bakersfield'
     name 'Bakersfield'
     homepage 'http://www.dafont.com/bakersfield.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bakersfield Bold.ttf'
     font 'Bakersfield Light.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-bloom' do
     url 'http://dl.dafont.com/dl/?f=bloom'
     name 'Bloom'
     homepage 'http://www.dafont.com/bloom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLOORG__.TTF'
 end

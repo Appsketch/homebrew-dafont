@@ -5,7 +5,6 @@ cask 'dafont-dpbloated' do
     url 'http://dl.dafont.com/dl/?f=dpbloated'
     name 'DP Bloated'
     homepage 'http://www.dafont.com/dpbloated.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DPBloated.ttf'
 end

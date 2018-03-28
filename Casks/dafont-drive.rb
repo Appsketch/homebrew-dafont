@@ -5,7 +5,6 @@ cask 'dafont-drive' do
     url 'http://dl.dafont.com/dl/?f=drive'
     name 'Drive'
     homepage 'http://www.dafont.com/drive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'drive.ttf'
     font 'drive3d.ttf'

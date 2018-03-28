@@ -5,7 +5,6 @@ cask 'dafont-kater-potater' do
     url 'http://dl.dafont.com/dl/?f=kater_potater'
     name 'Kater Potater'
     homepage 'http://www.dafont.com/kater-potater.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kater potater.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-namco' do
     url 'http://dl.dafont.com/dl/?f=namco'
     name 'Namco'
     homepage 'http://www.dafont.com/namco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'namco__.ttf'
 end

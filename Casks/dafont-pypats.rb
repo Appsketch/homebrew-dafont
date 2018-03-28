@@ -5,7 +5,6 @@ cask 'dafont-pypats' do
     url 'http://dl.dafont.com/dl/?f=pypats'
     name 'Pypats'
     homepage 'http://www.dafont.com/pypats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pypats.ttf'
 end

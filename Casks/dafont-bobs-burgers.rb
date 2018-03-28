@@ -5,7 +5,6 @@ cask 'dafont-bobs-burgers' do
     url 'http://dl.dafont.com/dl/?f=bobs_burgers'
     name 'Bob&#039;s Burgers'
     homepage 'http://www.dafont.com/bobs-burgers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bob&#039;s Burgers 2.ttf'
     font 'Bob&#039;s Burgers.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-thumbs-up' do
     url 'http://dl.dafont.com/dl/?f=thumbs_up'
     name 'Thumbs Up'
     homepage 'http://www.dafont.com/thumbs-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thumbs UP.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-likelegit' do
     url 'http://dl.dafont.com/dl/?f=likelegit'
     name 'Like Legit'
     homepage 'http://www.dafont.com/likelegit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LikeLegit.ttf'
 end

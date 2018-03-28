@@ -5,7 +5,6 @@ cask 'dafont-craze-one' do
     url 'http://dl.dafont.com/dl/?f=craze_one'
     name 'Craze One&#039;s first font'
     homepage 'http://www.dafont.com/craze-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRAZES FIRST FONT upper skinny.ttf'
 end

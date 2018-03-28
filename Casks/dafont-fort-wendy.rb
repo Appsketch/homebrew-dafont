@@ -5,7 +5,6 @@ cask 'dafont-fort-wendy' do
     url 'http://dl.dafont.com/dl/?f=fort_wendy'
     name 'Fort Wendy'
     homepage 'http://www.dafont.com/fort-wendy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FortWendy-Demo.ttf'
 end

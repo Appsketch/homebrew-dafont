@@ -5,7 +5,6 @@ cask 'dafont-2colorideas-sans' do
     url 'http://dl.dafont.com/dl/?f=2colorideas_sans'
     name '2 Colorideas Sans'
     homepage 'http://www.dafont.com/2colorideas-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '2colorideas sans.ttf'
 end

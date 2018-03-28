@@ -5,7 +5,6 @@ cask 'dafont-janda-manatee' do
     url 'http://dl.dafont.com/dl/?f=janda_manatee'
     name 'Janda Manatee'
     homepage 'http://www.dafont.com/janda-manatee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaManateeBubble.ttf'
     font 'JandaManateeSolid.ttf'

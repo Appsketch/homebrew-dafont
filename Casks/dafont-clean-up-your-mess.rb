@@ -5,7 +5,6 @@ cask 'dafont-clean-up-your-mess' do
     url 'http://dl.dafont.com/dl/?f=clean_up_your_mess'
     name 'Clean up your mess'
     homepage 'http://www.dafont.com/clean-up-your-mess.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'clean up your mess.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lcr-kitchen-dings' do
     url 'http://dl.dafont.com/dl/?f=lcr_kitchen_dings'
     name 'LCR Kitchen Dings'
     homepage 'http://www.dafont.com/lcr-kitchen-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LCR Kitchen Dings.ttf'
 end

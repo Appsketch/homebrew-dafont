@@ -5,7 +5,6 @@ cask 'dafont-neptun-cat' do
     url 'http://dl.dafont.com/dl/?f=neptun_cat'
     name 'Neptun CAT'
     homepage 'http://www.dafont.com/neptun-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeptunCAT.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kz-bladerunner' do
     url 'http://dl.dafont.com/dl/?f=kz_bladerunner'
     name 'KZ Bladerunner'
     homepage 'http://www.dafont.com/kz-bladerunner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KZBLADERUNNER1.TTF'
     font 'KZBLADERUNNER2.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-mayhandwrite' do
     url 'http://dl.dafont.com/dl/?f=mayhandwrite'
     name 'May Handwrite'
     homepage 'http://www.dafont.com/mayhandwrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Edge Handwrite.ttf'
 end

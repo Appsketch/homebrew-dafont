@@ -5,7 +5,6 @@ cask 'dafont-mister-vampire' do
     url 'http://dl.dafont.com/dl/?f=mister_vampire'
     name 'Mister Vampire'
     homepage 'http://www.dafont.com/mister-vampire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MISTV___.TTF'
 end

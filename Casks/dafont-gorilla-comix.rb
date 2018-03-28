@@ -5,7 +5,6 @@ cask 'dafont-gorilla-comix' do
     url 'http://dl.dafont.com/dl/?f=gorilla_comix'
     name 'Gorilla Comix'
     homepage 'http://www.dafont.com/gorilla-comix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gorilla Comix Light.otf'
     font 'Gorilla Comix.otf'

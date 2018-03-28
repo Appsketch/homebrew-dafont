@@ -5,7 +5,6 @@ cask 'dafont-september-11-icon' do
     url 'http://dl.dafont.com/dl/?f=september_11_icon'
     name 'September 11 Icon'
     homepage 'http://www.dafont.com/september-11-icon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEPTEMBER 11.ttf'
 end

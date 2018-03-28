@@ -5,7 +5,6 @@ cask 'dafont-diffikult' do
     url 'http://dl.dafont.com/dl/?f=diffikult'
     name 'DiffiKult'
     homepage 'http://www.dafont.com/diffikult.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DiffiKult.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-erika-ormig' do
     url 'http://dl.dafont.com/dl/?f=erika_ormig'
     name 'Erika Ormig'
     homepage 'http://www.dafont.com/erika-ormig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Erika Ormig.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-quimbie' do
     url 'http://dl.dafont.com/dl/?f=quimbie'
     name 'Quimbie'
     homepage 'http://www.dafont.com/quimbie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quimbie 3D.ttf'
     font 'Quimbie Shaddow.ttf'

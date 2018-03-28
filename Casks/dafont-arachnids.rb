@@ -5,7 +5,6 @@ cask 'dafont-arachnids' do
     url 'http://dl.dafont.com/dl/?f=arachnids'
     name 'Arachnids'
     homepage 'http://www.dafont.com/arachnids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'arachnids.ttf'
 end

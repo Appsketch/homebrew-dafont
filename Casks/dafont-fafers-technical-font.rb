@@ -5,7 +5,6 @@ cask 'dafont-fafers-technical-font' do
     url 'http://dl.dafont.com/dl/?f=fafers_technical_font'
     name 'Fafers Technical'
     homepage 'http://www.dafont.com/fafers-technical-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FAFERS_Technical_Font.ttf'
 end

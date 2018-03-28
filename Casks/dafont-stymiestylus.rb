@@ -5,7 +5,6 @@ cask 'dafont-stymiestylus' do
     url 'http://dl.dafont.com/dl/?f=stymiestylus'
     name 'Stymie Stylus'
     homepage 'http://www.dafont.com/stymiestylus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StymieStylus.otf'
     font 'StymieStylus1.otf'

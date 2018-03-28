@@ -5,7 +5,6 @@ cask 'dafont-vedette' do
     url 'http://dl.dafont.com/dl/?f=vedette'
     name 'Vedette'
     homepage 'http://www.dafont.com/vedette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vedeb___.ttf'
     font 'Veden___.ttf'

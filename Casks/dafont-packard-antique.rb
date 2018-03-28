@@ -5,7 +5,6 @@ cask 'dafont-packard-antique' do
     url 'http://dl.dafont.com/dl/?f=packard_antique'
     name 'Packard Antique'
     homepage 'http://www.dafont.com/packard-antique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PackardAntique-Bold.ttf'
     font 'PackardAntique.ttf'

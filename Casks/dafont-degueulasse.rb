@@ -5,7 +5,6 @@ cask 'dafont-degueulasse' do
     url 'http://dl.dafont.com/dl/?f=degueulasse'
     name 'D&eacute;gueulasse'
     homepage 'http://www.dafont.com/degueulasse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'degueulasse.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bizzack' do
     url 'http://dl.dafont.com/dl/?f=bizzack'
     name 'Bizzack'
     homepage 'http://www.dafont.com/bizzack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bizzack.otf'
 end

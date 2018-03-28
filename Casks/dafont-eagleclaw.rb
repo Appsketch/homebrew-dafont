@@ -5,7 +5,6 @@ cask 'dafont-eagleclaw' do
     url 'http://dl.dafont.com/dl/?f=eagleclaw'
     name 'Eagleclaw'
     homepage 'http://www.dafont.com/eagleclaw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eagleclaw.ttf'
     font 'eagleclaw3d.ttf'

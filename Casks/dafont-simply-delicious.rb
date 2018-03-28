@@ -5,7 +5,6 @@ cask 'dafont-simply-delicious' do
     url 'http://dl.dafont.com/dl/?f=simply_delicious'
     name 'Simply Delicious'
     homepage 'http://www.dafont.com/simply-delicious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simply Delicious Font 3.ttf'
 end

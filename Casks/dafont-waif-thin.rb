@@ -5,7 +5,6 @@ cask 'dafont-waif-thin' do
     url 'http://dl.dafont.com/dl/?f=waif_thin'
     name 'Waif'
     homepage 'http://www.dafont.com/waif-thin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Waif Thin.ttf'
 end

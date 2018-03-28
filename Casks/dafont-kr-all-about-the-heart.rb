@@ -5,7 +5,6 @@ cask 'dafont-kr-all-about-the-heart' do
     url 'http://dl.dafont.com/dl/?f=kr_all_about_the_heart'
     name 'KR All About The Heart'
     homepage 'http://www.dafont.com/kr-all-about-the-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR All About The Heart.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-miltrain' do
     url 'http://dl.dafont.com/dl/?f=miltrain'
     name 'MilTrain'
     homepage 'http://www.dafont.com/miltrain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miltrain.ttf'
 end

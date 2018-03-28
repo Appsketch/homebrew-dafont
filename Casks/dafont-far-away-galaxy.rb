@@ -5,7 +5,6 @@ cask 'dafont-far-away-galaxy' do
     url 'http://dl.dafont.com/dl/?f=far_away_galaxy'
     name 'Far Away Galaxy'
     homepage 'http://www.dafont.com/far-away-galaxy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'far_away_galaxy.ttf'
 end

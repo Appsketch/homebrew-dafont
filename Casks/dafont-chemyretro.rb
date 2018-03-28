@@ -5,7 +5,6 @@ cask 'dafont-chemyretro' do
     url 'http://dl.dafont.com/dl/?f=chemyretro'
     name 'Chemy Retro'
     homepage 'http://www.dafont.com/chemyretro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChemyRetro_v01.otf'
 end

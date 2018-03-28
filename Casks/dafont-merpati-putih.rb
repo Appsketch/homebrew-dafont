@@ -5,7 +5,6 @@ cask 'dafont-merpati-putih' do
     url 'http://dl.dafont.com/dl/?f=merpati_putih'
     name 'Merpati Putih'
     homepage 'http://www.dafont.com/merpati-putih.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Merpati Putih.ttf'
 end

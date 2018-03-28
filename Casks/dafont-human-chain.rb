@@ -5,7 +5,6 @@ cask 'dafont-human-chain' do
     url 'http://dl.dafont.com/dl/?f=human_chain'
     name 'Human Chain'
     homepage 'http://www.dafont.com/human-chain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'human chain.ttf'
 end

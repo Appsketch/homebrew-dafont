@@ -5,7 +5,6 @@ cask 'dafont-benny-blanco' do
     url 'http://dl.dafont.com/dl/?f=benny_blanco'
     name 'Benny Blanco'
     homepage 'http://www.dafont.com/benny-blanco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BENNB___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-impalinger' do
     url 'http://dl.dafont.com/dl/?f=impalinger'
     name 'Impalinger'
     homepage 'http://www.dafont.com/impalinger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Impalinger.ttf'
 end

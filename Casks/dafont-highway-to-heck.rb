@@ -5,7 +5,6 @@ cask 'dafont-highway-to-heck' do
     url 'http://dl.dafont.com/dl/?f=highway_to_heck'
     name 'Highway to Heck'
     homepage 'http://www.dafont.com/highway-to-heck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'highway to heck.ttf'
 end

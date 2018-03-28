@@ -5,7 +5,6 @@ cask 'dafont-as-sq' do
     url 'http://dl.dafont.com/dl/?f=as_sq'
     name 'AS/SQ'
     homepage 'http://www.dafont.com/as-sq.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'assq.ttf'
 end

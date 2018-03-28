@@ -5,7 +5,6 @@ cask 'dafont-pixel-block-bb' do
     url 'http://dl.dafont.com/dl/?f=pixel_block_bb'
     name 'Pixel Block BB'
     homepage 'http://www.dafont.com/pixel-block-bb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixel_block_bb.ttf'
 end

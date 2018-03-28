@@ -5,7 +5,6 @@ cask 'dafont-masjid-al-imran' do
     url 'http://dl.dafont.com/dl/?f=masjid_al_imran'
     name 'Masjid Al Imran'
     homepage 'http://www.dafont.com/masjid-al-imran.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Masjid Al Imran.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kryptic' do
     url 'http://dl.dafont.com/dl/?f=kryptic'
     name 'Kryptic'
     homepage 'http://www.dafont.com/kryptic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kryptic.ttf'
 end

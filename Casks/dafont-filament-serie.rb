@@ -5,7 +5,6 @@ cask 'dafont-filament-serie' do
     url 'http://dl.dafont.com/dl/?f=filament_serie'
     name 'Filament Serie'
     homepage 'http://www.dafont.com/filament-serie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FilamentFive.otf'
     font 'FilamentFiveSeven.otf'

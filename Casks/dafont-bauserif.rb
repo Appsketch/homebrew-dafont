@@ -5,7 +5,6 @@ cask 'dafont-bauserif' do
     url 'http://dl.dafont.com/dl/?f=bauserif'
     name 'Bauserif'
     homepage 'http://www.dafont.com/bauserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bauserif.ttf'
 end

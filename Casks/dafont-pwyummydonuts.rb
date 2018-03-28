@@ -5,7 +5,6 @@ cask 'dafont-pwyummydonuts' do
     url 'http://dl.dafont.com/dl/?f=pwyummydonuts'
     name 'PW Yummy Donuts'
     homepage 'http://www.dafont.com/pwyummydonuts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWYummyDonuts.ttf'
 end

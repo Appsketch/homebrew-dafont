@@ -5,7 +5,6 @@ cask 'dafont-jar-of-hearts' do
     url 'http://dl.dafont.com/dl/?f=jar_of_hearts'
     name 'Jar of Hearts'
     homepage 'http://www.dafont.com/jar-of-hearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JarofHearts.ttf'
 end

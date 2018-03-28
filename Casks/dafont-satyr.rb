@@ -5,7 +5,6 @@ cask 'dafont-satyr' do
     url 'http://dl.dafont.com/dl/?f=satyr'
     name 'Satyr'
     homepage 'http://www.dafont.com/satyr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SATYP___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ocean-free' do
     url 'http://dl.dafont.com/dl/?f=ocean_free'
     name 'Ocean free'
     homepage 'http://www.dafont.com/ocean-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ocean free.ttf'
 end

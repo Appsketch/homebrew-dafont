@@ -5,7 +5,6 @@ cask 'dafont-zebraesq' do
     url 'http://dl.dafont.com/dl/?f=zebraesq'
     name 'Zebraesq'
     homepage 'http://www.dafont.com/zebraesq.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zebraesq.ttf'
 end

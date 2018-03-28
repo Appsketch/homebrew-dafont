@@ -5,7 +5,6 @@ cask 'dafont-vintlys-hand' do
     url 'http://dl.dafont.com/dl/?f=vintlys_hand'
     name 'Vintlys Hand'
     homepage 'http://www.dafont.com/vintlys-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vintlys_Hand.ttf'
 end

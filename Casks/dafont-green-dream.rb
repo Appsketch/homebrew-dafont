@@ -5,7 +5,6 @@ cask 'dafont-green-dream' do
     url 'http://dl.dafont.com/dl/?f=green_dream'
     name 'Green Dream'
     homepage 'http://www.dafont.com/green-dream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Green Dream.ttf'
 end

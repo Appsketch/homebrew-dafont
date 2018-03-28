@@ -5,7 +5,6 @@ cask 'dafont-mika-teuf' do
     url 'http://dl.dafont.com/dl/?f=mika_teuf'
     name 'MIKA teuf'
     homepage 'http://www.dafont.com/mika-teuf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MIKA teuf.ttf'
 end

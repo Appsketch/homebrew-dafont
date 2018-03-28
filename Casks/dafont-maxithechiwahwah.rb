@@ -5,7 +5,6 @@ cask 'dafont-maxithechiwahwah' do
     url 'http://dl.dafont.com/dl/?f=maxithechiwahwah'
     name 'Maxi The Chiwahwah'
     homepage 'http://www.dafont.com/maxithechiwahwah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MaxiTheChiwahwah.ttf'
 end

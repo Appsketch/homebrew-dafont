@@ -5,7 +5,6 @@ cask 'dafont-flashback-v3' do
     url 'http://dl.dafont.com/dl/?f=flashback_v3'
     name 'Flashback V3'
     homepage 'http://www.dafont.com/flashback-v3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FLASHBACKVERSION3.TTF'
 end

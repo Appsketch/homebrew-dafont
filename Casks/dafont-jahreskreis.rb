@@ -5,7 +5,6 @@ cask 'dafont-jahreskreis' do
     url 'http://dl.dafont.com/dl/?f=jahreskreis'
     name 'Jahreskreis'
     homepage 'http://www.dafont.com/jahreskreis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jahreskreis.ttf'
 end

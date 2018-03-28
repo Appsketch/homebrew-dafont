@@ -5,7 +5,6 @@ cask 'dafont-kr-be-mine-always' do
     url 'http://dl.dafont.com/dl/?f=kr_be_mine_always'
     name 'KR Be Mine Always'
     homepage 'http://www.dafont.com/kr-be-mine-always.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Be Mine Always.ttf'
 end

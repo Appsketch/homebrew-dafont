@@ -5,7 +5,6 @@ cask 'dafont-efon' do
     url 'http://dl.dafont.com/dl/?f=efon'
     name 'Efon'
     homepage 'http://www.dafont.com/efon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EFON.TTF'
 end

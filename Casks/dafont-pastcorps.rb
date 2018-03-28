@@ -5,7 +5,6 @@ cask 'dafont-pastcorps' do
     url 'http://dl.dafont.com/dl/?f=pastcorps'
     name 'Pastcorps'
     homepage 'http://www.dafont.com/pastcorps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pastcorps.ttf'
 end

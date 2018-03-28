@@ -5,7 +5,6 @@ cask 'dafont-aliens-can-suck-it' do
     url 'http://dl.dafont.com/dl/?f=aliens_can_suck_it'
     name 'Aliens can suck it!'
     homepage 'http://www.dafont.com/aliens-can-suck-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aliens can suck it!.ttf'
 end

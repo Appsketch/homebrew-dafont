@@ -5,7 +5,6 @@ cask 'dafont-rinehart' do
     url 'http://dl.dafont.com/dl/?f=rinehart'
     name 'Rinehart'
     homepage 'http://www.dafont.com/rinehart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rinehart Bold-Oblique.ttf'
     font 'Rinehart Bold.ttf'

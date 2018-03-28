@@ -5,7 +5,6 @@ cask 'dafont-haus-ethnik-dingbats' do
     url 'http://dl.dafont.com/dl/?f=haus_ethnik_dingbats'
     name 'Haus Ethnik Dingbats'
     homepage 'http://www.dafont.com/haus-ethnik-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HausEthnikDingbats-Regular.otf'
 end

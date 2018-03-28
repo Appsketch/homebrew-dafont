@@ -5,7 +5,6 @@ cask 'dafont-whatafont' do
     url 'http://dl.dafont.com/dl/?f=whatafont'
     name 'Whatafont'
     homepage 'http://www.dafont.com/whatafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'whata2.ttf'
     font 'whata2e.ttf'

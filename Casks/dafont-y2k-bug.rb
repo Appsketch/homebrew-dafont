@@ -5,7 +5,6 @@ cask 'dafont-y2k-bug' do
     url 'http://dl.dafont.com/dl/?f=y2k_bug'
     name 'Y2K Bug'
     homepage 'http://www.dafont.com/y2k-bug.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'y2kbug.ttf'
 end

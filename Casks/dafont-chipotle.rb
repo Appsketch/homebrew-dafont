@@ -5,7 +5,6 @@ cask 'dafont-chipotle' do
     url 'http://dl.dafont.com/dl/?f=chipotle'
     name 'Chipotle'
     homepage 'http://www.dafont.com/chipotle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chipotle-Regular.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-paulus-franck-initi' do
     url 'http://dl.dafont.com/dl/?f=paulus_franck_initi'
     name 'Paulus Franck Initialen'
     homepage 'http://www.dafont.com/paulus-franck-initi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaulusFranckInitialen.ttf'
 end

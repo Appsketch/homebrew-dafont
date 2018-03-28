@@ -5,7 +5,6 @@ cask 'dafont-mexican-fiesta' do
     url 'http://dl.dafont.com/dl/?f=mexican_fiesta'
     name 'Mexican fiesta'
     homepage 'http://www.dafont.com/mexican-fiesta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mexican fiesta Bold.ttf'
     font 'mexican fiesta.ttf'

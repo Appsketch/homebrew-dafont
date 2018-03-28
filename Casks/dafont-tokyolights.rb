@@ -5,7 +5,6 @@ cask 'dafont-tokyolights' do
     url 'http://dl.dafont.com/dl/?f=tokyolights'
     name 'Tokyo Lights'
     homepage 'http://www.dafont.com/tokyolights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TokyoLights.ttf'
 end

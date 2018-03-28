@@ -5,7 +5,6 @@ cask 'dafont-binx' do
     url 'http://dl.dafont.com/dl/?f=binx'
     name 'Binx'
     homepage 'http://www.dafont.com/binx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Binx.ttf'
 end

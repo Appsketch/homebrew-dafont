@@ -5,7 +5,6 @@ cask 'dafont-inky-cre' do
     url 'http://dl.dafont.com/dl/?f=inky_cre'
     name 'Inky Cre'
     homepage 'http://www.dafont.com/inky-cre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inky_Cre.ttf'
 end

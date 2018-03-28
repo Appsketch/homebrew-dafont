@@ -5,7 +5,6 @@ cask 'dafont-eldebaran' do
     url 'http://dl.dafont.com/dl/?f=eldebaran'
     name 'Eldebaran'
     homepage 'http://www.dafont.com/eldebaran.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eldebaran.ttf'
     font 'eldebaran3d.ttf'

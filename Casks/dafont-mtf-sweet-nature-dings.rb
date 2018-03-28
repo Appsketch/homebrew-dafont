@@ -5,7 +5,6 @@ cask 'dafont-mtf-sweet-nature-dings' do
     url 'http://dl.dafont.com/dl/?f=mtf_sweet_nature_dings'
     name 'MTF Sweet Nature Dings'
     homepage 'http://www.dafont.com/mtf-sweet-nature-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Sweet Nature Dings.ttf'
 end

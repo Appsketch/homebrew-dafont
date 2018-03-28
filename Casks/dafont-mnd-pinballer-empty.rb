@@ -5,7 +5,6 @@ cask 'dafont-mnd-pinballer-empty' do
     url 'http://dl.dafont.com/dl/?f=mnd_pinballer_empty'
     name 'MND Pinballer'
     homepage 'http://www.dafont.com/mnd-pinballer-empty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MNDPF___.TTF'
     font 'MNDPINBA.TTF'

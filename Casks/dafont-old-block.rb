@@ -5,7 +5,6 @@ cask 'dafont-old-block' do
     url 'http://dl.dafont.com/dl/?f=old_block'
     name 'Old Block'
     homepage 'http://www.dafont.com/old-block.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OBGB.TTF'
 end

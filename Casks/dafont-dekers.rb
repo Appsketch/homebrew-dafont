@@ -5,7 +5,6 @@ cask 'dafont-dekers' do
     url 'http://dl.dafont.com/dl/?f=dekers'
     name 'Dekers'
     homepage 'http://www.dafont.com/dekers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dekers.ttf'
 end

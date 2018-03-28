@@ -5,7 +5,6 @@ cask 'dafont-tena' do
     url 'http://dl.dafont.com/dl/?f=tena'
     name 'Tena'
     homepage 'http://www.dafont.com/tena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TENA.TTF'
 end

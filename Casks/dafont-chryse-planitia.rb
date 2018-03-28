@@ -5,7 +5,6 @@ cask 'dafont-chryse-planitia' do
     url 'http://dl.dafont.com/dl/?f=chryse_planitia'
     name 'Chryse Planitia'
     homepage 'http://www.dafont.com/chryse-planitia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chryse Planitia.ttf'
 end

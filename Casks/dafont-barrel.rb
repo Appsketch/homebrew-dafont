@@ -5,7 +5,6 @@ cask 'dafont-barrel' do
     url 'http://dl.dafont.com/dl/?f=barrel'
     name 'Barrel'
     homepage 'http://www.dafont.com/barrel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'barrel.ttf'
 end

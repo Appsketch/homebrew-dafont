@@ -5,7 +5,6 @@ cask 'dafont-rapidsloths' do
     url 'http://dl.dafont.com/dl/?f=rapidsloths'
     name 'Rapid Sloths'
     homepage 'http://www.dafont.com/rapidsloths.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RapidSloths.ttf'
 end

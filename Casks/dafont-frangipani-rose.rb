@@ -5,7 +5,6 @@ cask 'dafont-frangipani-rose' do
     url 'http://dl.dafont.com/dl/?f=frangipani_rose'
     name 'Frangipani Rose'
     homepage 'http://www.dafont.com/frangipani-rose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frangipani Rose.ttf'
 end

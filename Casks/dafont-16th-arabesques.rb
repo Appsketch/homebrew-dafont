@@ -5,7 +5,6 @@ cask 'dafont-16th-arabesques' do
     url 'http://dl.dafont.com/dl/?f=16th_arabesques'
     name '16th Arabesques'
     homepage 'http://www.dafont.com/16th-arabesques.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '16th_Arabesques.TTF'
 end

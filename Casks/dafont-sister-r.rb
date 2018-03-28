@@ -5,7 +5,6 @@ cask 'dafont-sister-r' do
     url 'http://dl.dafont.com/dl/?f=sister_r'
     name 'Sister R'
     homepage 'http://www.dafont.com/sister-r.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sister R.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mexcellent' do
     url 'http://dl.dafont.com/dl/?f=mexcellent'
     name 'Mexcellent'
     homepage 'http://www.dafont.com/mexcellent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mexcellent 3d.ttf'
     font 'mexcellent rg.ttf'

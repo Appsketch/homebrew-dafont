@@ -5,7 +5,6 @@ cask 'dafont-v5pixelpals' do
     url 'http://dl.dafont.com/dl/?f=v5pixelpals'
     name 'V5 Pixelpals'
     homepage 'http://www.dafont.com/v5pixelpals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'V5_pixelpals.ttf'
 end

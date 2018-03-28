@@ -5,7 +5,6 @@ cask 'dafont-digital-camera-symbols' do
     url 'http://dl.dafont.com/dl/?f=digital_camera_symbols'
     name 'Digital Camera Symbols'
     homepage 'http://www.dafont.com/digital-camera-symbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digital Camera Symbols.ttf'
 end

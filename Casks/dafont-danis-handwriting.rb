@@ -5,7 +5,6 @@ cask 'dafont-danis-handwriting' do
     url 'http://dl.dafont.com/dl/?f=danis_handwriting'
     name 'Dani&#039;s Handwriting'
     homepage 'http://www.dafont.com/danis-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'danila.ttf'
 end

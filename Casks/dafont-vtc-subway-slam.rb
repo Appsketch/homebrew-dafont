@@ -5,7 +5,6 @@ cask 'dafont-vtc-subway-slam' do
     url 'http://dl.dafont.com/dl/?f=vtc_subway_slam'
     name 'VTC Subway Slam'
     homepage 'http://www.dafont.com/vtc-subway-slam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC SubwaySlam Caps Regular.ttf'
     font 'VTC SubwaySlam Regular.ttf'

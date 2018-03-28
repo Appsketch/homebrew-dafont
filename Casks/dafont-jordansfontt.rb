@@ -5,7 +5,6 @@ cask 'dafont-jordansfontt' do
     url 'http://dl.dafont.com/dl/?f=jordansfontt'
     name 'Jordans Fontt'
     homepage 'http://www.dafont.com/jordansfontt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JordansFontt.ttf'
 end

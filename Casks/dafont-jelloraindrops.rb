@@ -5,7 +5,6 @@ cask 'dafont-jelloraindrops' do
     url 'http://dl.dafont.com/dl/?f=jelloraindrops'
     name 'Jello Raindrops'
     homepage 'http://www.dafont.com/jelloraindrops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JelloRaindrops.ttf'
 end

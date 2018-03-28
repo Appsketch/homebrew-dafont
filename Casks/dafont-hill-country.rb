@@ -5,7 +5,6 @@ cask 'dafont-hill-country' do
     url 'http://dl.dafont.com/dl/?f=hill_country'
     name 'Hill Country'
     homepage 'http://www.dafont.com/hill-country.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hill Country.ttf'
 end

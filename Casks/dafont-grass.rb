@@ -5,7 +5,6 @@ cask 'dafont-grass' do
     url 'http://dl.dafont.com/dl/?f=grass'
     name 'Grass'
     homepage 'http://www.dafont.com/grass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRASS.ttf'
 end

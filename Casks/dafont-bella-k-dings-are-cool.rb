@@ -5,7 +5,6 @@ cask 'dafont-bella-k-dings-are-cool' do
     url 'http://dl.dafont.com/dl/?f=bella_k_dings_are_cool'
     name 'Bella K. Dings Are Cool'
     homepage 'http://www.dafont.com/bella-k-dings-are-cool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bella k dings are cool.ttf'
 end

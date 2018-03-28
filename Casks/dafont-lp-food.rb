@@ -5,7 +5,6 @@ cask 'dafont-lp-food' do
     url 'http://dl.dafont.com/dl/?f=lp_food'
     name 'LP Food'
     homepage 'http://www.dafont.com/lp-food.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lpfood.ttf'
 end

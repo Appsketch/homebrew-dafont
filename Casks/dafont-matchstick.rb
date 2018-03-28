@@ -5,7 +5,6 @@ cask 'dafont-matchstick' do
     url 'http://dl.dafont.com/dl/?f=matchstick'
     name 'Matchstick'
     homepage 'http://www.dafont.com/matchstick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Matchstick Slim.otf'
     font 'Matchstick.otf'

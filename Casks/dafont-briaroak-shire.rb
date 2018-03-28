@@ -5,7 +5,6 @@ cask 'dafont-briaroak-shire' do
     url 'http://dl.dafont.com/dl/?f=briaroak_shire'
     name 'Briaroak Shire'
     homepage 'http://www.dafont.com/briaroak-shire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Briaroak Shire.TTF'
 end

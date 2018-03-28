@@ -5,7 +5,6 @@ cask 'dafont-gamer' do
     url 'http://dl.dafont.com/dl/?f=gamer'
     name 'Gamer'
     homepage 'http://www.dafont.com/gamer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GAMER.ttf'
 end

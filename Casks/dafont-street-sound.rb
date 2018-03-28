@@ -5,7 +5,6 @@ cask 'dafont-street-sound' do
     url 'http://dl.dafont.com/dl/?f=street_sound'
     name 'Street Sound'
     homepage 'http://www.dafont.com/street-sound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Street Sound.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-maxinitiale' do
     url 'http://dl.dafont.com/dl/?f=maxinitiale'
     name 'Max Initiale'
     homepage 'http://www.dafont.com/maxinitiale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'maxini.ttf'
 end

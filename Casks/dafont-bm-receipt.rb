@@ -5,7 +5,6 @@ cask 'dafont-bm-receipt' do
     url 'http://dl.dafont.com/dl/?f=bm_receipt'
     name 'BM Receipt'
     homepage 'http://www.dafont.com/bm-receipt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMREA___.TTF'
 end

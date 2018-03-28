@@ -5,7 +5,6 @@ cask 'dafont-friday13' do
     url 'http://dl.dafont.com/dl/?f=friday13'
     name 'Friday 13'
     homepage 'http://www.dafont.com/friday13.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Friday13 Bonus NFI.ttf'
     font 'Friday13SH.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-vintage-punk' do
     url 'http://dl.dafont.com/dl/?f=vintage_punk'
     name 'Vintage Punk'
     homepage 'http://www.dafont.com/vintage-punk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VINTAGE PUNK.ttf'
 end

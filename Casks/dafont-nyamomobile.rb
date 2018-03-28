@@ -5,7 +5,6 @@ cask 'dafont-nyamomobile' do
     url 'http://dl.dafont.com/dl/?f=nyamomobile'
     name 'Nyamomobile'
     homepage 'http://www.dafont.com/nyamomobile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nyam02.ttf'
 end

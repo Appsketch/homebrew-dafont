@@ -5,7 +5,6 @@ cask 'dafont-boldded-nick' do
     url 'http://dl.dafont.com/dl/?f=boldded_nick'
     name 'Boldded Nick'
     homepage 'http://www.dafont.com/boldded-nick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BolddedNick.ttf'
 end

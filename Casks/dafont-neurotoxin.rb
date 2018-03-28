@@ -5,7 +5,6 @@ cask 'dafont-neurotoxin' do
     url 'http://dl.dafont.com/dl/?f=neurotoxin'
     name 'Neurotoxin'
     homepage 'http://www.dafont.com/neurotoxin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEUROTOX.TTF'
 end

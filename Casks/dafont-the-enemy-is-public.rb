@@ -5,7 +5,6 @@ cask 'dafont-the-enemy-is-public' do
     url 'http://dl.dafont.com/dl/?f=the_enemy_is_public'
     name 'The Enemy Is Public'
     homepage 'http://www.dafont.com/the-enemy-is-public.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the_enemy_is_public.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-park-tech-cg' do
     url 'http://dl.dafont.com/dl/?f=park_tech_cg'
     name 'Park Tech CG'
     homepage 'http://www.dafont.com/park-tech-cg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Park Tech CG Light.ttf'
     font 'Park Tech CG.ttf'

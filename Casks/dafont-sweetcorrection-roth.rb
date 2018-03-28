@@ -5,7 +5,6 @@ cask 'dafont-sweetcorrection-roth' do
     url 'http://dl.dafont.com/dl/?f=sweetcorrection_roth'
     name 'Sweet Correction Roth'
     homepage 'http://www.dafont.com/sweetcorrection-roth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SWEETCORRECTIONROTH 2.otf'
 end

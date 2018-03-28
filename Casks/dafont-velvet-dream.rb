@@ -5,7 +5,6 @@ cask 'dafont-velvet-dream' do
     url 'http://dl.dafont.com/dl/?f=velvet_dream'
     name 'Velvet Dream'
     homepage 'http://www.dafont.com/velvet-dream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Velvet Dream.ttf'
 end

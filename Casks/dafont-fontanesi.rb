@@ -5,7 +5,6 @@ cask 'dafont-fontanesi' do
     url 'http://dl.dafont.com/dl/?f=fontanesi'
     name 'Fontanesi'
     homepage 'http://www.dafont.com/fontanesi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FONTANES.TTF'
 end

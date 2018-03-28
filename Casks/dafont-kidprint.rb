@@ -5,7 +5,6 @@ cask 'dafont-kidprint' do
     url 'http://dl.dafont.com/dl/?f=kidprint'
     name 'Kid Print'
     homepage 'http://www.dafont.com/kidprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KidPrint.ttf'
 end

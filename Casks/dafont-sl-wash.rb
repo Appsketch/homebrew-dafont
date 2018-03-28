@@ -5,7 +5,6 @@ cask 'dafont-sl-wash' do
     url 'http://dl.dafont.com/dl/?f=sl_wash'
     name 'SL Wash'
     homepage 'http://www.dafont.com/sl-wash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SL Wash.ttf'
 end

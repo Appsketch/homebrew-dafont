@@ -5,7 +5,6 @@ cask 'dafont-trans-america' do
     url 'http://dl.dafont.com/dl/?f=trans_america'
     name 'Trans-America'
     homepage 'http://www.dafont.com/trans-america.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'transamerica.ttf'
     font 'transamerica3d.ttf'

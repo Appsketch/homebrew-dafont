@@ -5,7 +5,6 @@ cask 'dafont-smt-devil-survivor' do
     url 'http://dl.dafont.com/dl/?f=smt_devil_survivor'
     name 'SMT: Devil Survivor'
     homepage 'http://www.dafont.com/smt-devil-survivor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SMT-Devil-Survivor.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gothferatu' do
     url 'http://dl.dafont.com/dl/?f=gothferatu'
     name 'Gothferatu'
     homepage 'http://www.dafont.com/gothferatu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gothferatu.ttf'
 end

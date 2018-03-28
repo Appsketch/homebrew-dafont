@@ -5,7 +5,6 @@ cask 'dafont-mr-sunshine' do
     url 'http://dl.dafont.com/dl/?f=mr_sunshine'
     name 'Mr Sunshine'
     homepage 'http://www.dafont.com/mr-sunshine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mr Sunshine 2.ttf'
     font 'Mr Sunshine.ttf'

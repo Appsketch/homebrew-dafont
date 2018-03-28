@@ -5,7 +5,6 @@ cask 'dafont-surabanglus' do
     url 'http://dl.dafont.com/dl/?f=surabanglus'
     name 'Surabanglus'
     homepage 'http://www.dafont.com/surabanglus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Surabanglus.ttf'
 end

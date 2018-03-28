@@ -5,7 +5,6 @@ cask 'dafont-opn-malatashito' do
     url 'http://dl.dafont.com/dl/?f=opn_malatashito'
     name 'OPN Malatashito'
     homepage 'http://www.dafont.com/opn-malatashito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OPN Malatashito Naked.ttf'
     font 'OPN Malatashito.ttf'

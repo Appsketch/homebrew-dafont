@@ -5,7 +5,6 @@ cask 'dafont-alpha-street' do
     url 'http://dl.dafont.com/dl/?f=alpha_street'
     name 'Alpha Street'
     homepage 'http://www.dafont.com/alpha-street.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alpha Street.ttf'
 end

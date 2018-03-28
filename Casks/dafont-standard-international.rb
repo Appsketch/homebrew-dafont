@@ -5,7 +5,6 @@ cask 'dafont-standard-international' do
     url 'http://dl.dafont.com/dl/?f=standard_international'
     name 'Standard International'
     homepage 'http://www.dafont.com/standard-international.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Standard International.ttf'
 end

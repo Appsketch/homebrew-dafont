@@ -5,7 +5,6 @@ cask 'dafont-cat-zentenaer-fraktur-unz1' do
     url 'http://dl.dafont.com/dl/?f=cat_zentenaer_fraktur_unz1'
     name 'CAT Zentenaer Fraktur UNZ1'
     homepage 'http://www.dafont.com/cat-zentenaer-fraktur-unz1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CATZentenaerFrakturUNZ1.ttf'
 end

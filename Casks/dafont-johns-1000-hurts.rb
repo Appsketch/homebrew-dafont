@@ -5,7 +5,6 @@ cask 'dafont-johns-1000-hurts' do
     url 'http://dl.dafont.com/dl/?f=johns_1000_hurts'
     name 'John&#039;s 1000 Hurts'
     homepage 'http://www.dafont.com/johns-1000-hurts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'johns1000hurts-demo.ttf'
 end

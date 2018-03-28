@@ -5,7 +5,6 @@ cask 'dafont-goldpanda' do
     url 'http://dl.dafont.com/dl/?f=goldpanda'
     name 'Gold Panda'
     homepage 'http://www.dafont.com/goldpanda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GoldPanda.ttf'
 end

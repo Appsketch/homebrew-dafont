@@ -5,7 +5,6 @@ cask 'dafont-screen-scrawls-jl' do
     url 'http://dl.dafont.com/dl/?f=screen_scrawls_jl'
     name 'Screen Scrawls'
     homepage 'http://www.dafont.com/screen-scrawls-jl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCRAWLS.TTF'
 end

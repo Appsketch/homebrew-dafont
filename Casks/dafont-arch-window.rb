@@ -5,7 +5,6 @@ cask 'dafont-arch-window' do
     url 'http://dl.dafont.com/dl/?f=arch_window'
     name 'Arch Window'
     homepage 'http://www.dafont.com/arch-window.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arch Window.ttf'
 end

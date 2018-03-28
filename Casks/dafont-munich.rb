@@ -5,7 +5,6 @@ cask 'dafont-munich' do
     url 'http://dl.dafont.com/dl/?f=munich'
     name 'Munich'
     homepage 'http://www.dafont.com/munich.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Munich.ttf'
 end

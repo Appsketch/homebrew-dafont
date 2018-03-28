@@ -5,7 +5,6 @@ cask 'dafont-juicyboxes' do
     url 'http://dl.dafont.com/dl/?f=juicyboxes'
     name 'Juicy Boxes'
     homepage 'http://www.dafont.com/juicyboxes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JuicyBoxes.ttf'
 end

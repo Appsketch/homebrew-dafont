@@ -5,7 +5,6 @@ cask 'dafont-bambina' do
     url 'http://dl.dafont.com/dl/?f=bambina'
     name 'Bambina'
     homepage 'http://www.dafont.com/bambina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BAMBINA_.TTF'
 end

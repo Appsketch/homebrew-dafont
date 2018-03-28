@@ -5,7 +5,6 @@ cask 'dafont-remnant' do
     url 'http://dl.dafont.com/dl/?f=remnant'
     name 'Remnant'
     homepage 'http://www.dafont.com/remnant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Remnant-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kr-scrappin-animals' do
     url 'http://dl.dafont.com/dl/?f=kr_scrappin_animals'
     name 'KR Scrappin Animals'
     homepage 'http://www.dafont.com/kr-scrappin-animals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Scrappin Animals.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-learning-curve' do
     url 'http://dl.dafont.com/dl/?f=learning_curve'
     name 'Learning Curve BV'
     homepage 'http://www.dafont.com/learning-curve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LearningCurve.ttf'
     font 'LearningCurveDashed.ttf'

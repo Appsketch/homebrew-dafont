@@ -5,7 +5,6 @@ cask 'dafont-kg-what-the-teacher-wants' do
     url 'http://dl.dafont.com/dl/?f=kg_what_the_teacher_wants'
     name 'KG What the Teacher Wants'
     homepage 'http://www.dafont.com/kg-what-the-teacher-wants.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGWhattheTeacherWants.ttf'
 end

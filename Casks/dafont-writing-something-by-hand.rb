@@ -5,7 +5,6 @@ cask 'dafont-writing-something-by-hand' do
     url 'http://dl.dafont.com/dl/?f=writing_something_by_hand'
     name 'Writing something by hand'
     homepage 'http://www.dafont.com/writing-something-by-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'writing-something-by-hand.ttf'
 end

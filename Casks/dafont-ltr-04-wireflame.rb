@@ -5,7 +5,6 @@ cask 'dafont-ltr-04-wireflame' do
     url 'http://dl.dafont.com/dl/?f=ltr_04_wireflame'
     name 'LTR-04: Wireflame'
     homepage 'http://www.dafont.com/ltr-04-wireflame.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ltr04.TTF'
 end

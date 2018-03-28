@@ -5,7 +5,6 @@ cask 'dafont-commodoreserver' do
     url 'http://dl.dafont.com/dl/?f=commodoreserver'
     name 'Commodore Server'
     homepage 'http://www.dafont.com/commodoreserver.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CommodoreServer.ttf'
 end

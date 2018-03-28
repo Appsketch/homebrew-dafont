@@ -5,7 +5,6 @@ cask 'dafont-5-cent-game' do
     url 'http://dl.dafont.com/dl/?f=5_cent_game'
     name '5 Cent Game'
     homepage 'http://www.dafont.com/5-cent-game.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5_cent_game.ttf'
 end

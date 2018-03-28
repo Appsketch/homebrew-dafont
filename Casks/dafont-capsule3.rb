@@ -5,7 +5,6 @@ cask 'dafont-capsule3' do
     url 'http://dl.dafont.com/dl/?f=capsule3'
     name 'Capsule 3'
     homepage 'http://www.dafont.com/capsule3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'capsule3.ttf'
 end

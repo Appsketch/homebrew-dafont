@@ -5,7 +5,6 @@ cask 'dafont-speak-easy' do
     url 'http://dl.dafont.com/dl/?f=speak_easy'
     name 'Speak Easy'
     homepage 'http://www.dafont.com/speak-easy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Speak Easy.ttf'
 end

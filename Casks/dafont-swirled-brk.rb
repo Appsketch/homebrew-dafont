@@ -5,7 +5,6 @@ cask 'dafont-swirled-brk' do
     url 'http://dl.dafont.com/dl/?f=swirled_brk'
     name 'Swirled BRK'
     homepage 'http://www.dafont.com/swirled-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swirled2.ttf'
 end

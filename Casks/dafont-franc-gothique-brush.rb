@@ -5,7 +5,6 @@ cask 'dafont-franc-gothique-brush' do
     url 'http://dl.dafont.com/dl/?f=franc_gothique_brush'
     name 'Franc Gothique Brush'
     homepage 'http://www.dafont.com/franc-gothique-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FrancGothiqueBrush.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-trystanswriting' do
     url 'http://dl.dafont.com/dl/?f=trystanswriting'
     name 'Trystans Writing'
     homepage 'http://www.dafont.com/trystanswriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TrystansWritingCorrected.ttf'
 end

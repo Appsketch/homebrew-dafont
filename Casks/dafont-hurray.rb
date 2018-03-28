@@ -5,7 +5,6 @@ cask 'dafont-hurray' do
     url 'http://dl.dafont.com/dl/?f=hurray'
     name 'Hurray'
     homepage 'http://www.dafont.com/hurray.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hurray2.ttf'
 end

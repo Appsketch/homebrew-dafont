@@ -5,7 +5,6 @@ cask 'dafont-mister-loopy' do
     url 'http://dl.dafont.com/dl/?f=mister_loopy'
     name 'Mister Loopy'
     homepage 'http://www.dafont.com/mister-loopy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mister Loopy Fill.ttf'
     font 'Mister Loopy Loops.ttf'

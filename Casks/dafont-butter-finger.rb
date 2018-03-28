@@ -5,7 +5,6 @@ cask 'dafont-butter-finger' do
     url 'http://dl.dafont.com/dl/?f=butter_finger'
     name 'Butter Finger '
     homepage 'http://www.dafont.com/butter-finger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Butter Finger.ttf'
 end

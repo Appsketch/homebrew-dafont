@@ -5,7 +5,6 @@ cask 'dafont-sf-proverbial-gothi' do
     url 'http://dl.dafont.com/dl/?f=sf_proverbial_gothi'
     name 'SF Proverbial Gothic'
     homepage 'http://www.dafont.com/sf-proverbial-gothi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Proverbial Gothic Bold Oblique.ttf'
     font 'SF Proverbial Gothic Bold.ttf'

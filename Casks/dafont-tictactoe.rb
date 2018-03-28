@@ -5,7 +5,6 @@ cask 'dafont-tictactoe' do
     url 'http://dl.dafont.com/dl/?f=tictactoe'
     name 'TicTacToe'
     homepage 'http://www.dafont.com/tictactoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TicTacToe.ttf'
 end

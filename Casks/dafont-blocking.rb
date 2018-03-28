@@ -5,7 +5,6 @@ cask 'dafont-blocking' do
     url 'http://dl.dafont.com/dl/?f=blocking'
     name 'Blocking'
     homepage 'http://www.dafont.com/blocking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blocking.ttf'
 end

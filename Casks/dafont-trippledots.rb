@@ -5,7 +5,6 @@ cask 'dafont-trippledots' do
     url 'http://dl.dafont.com/dl/?f=trippledots'
     name 'Tripple Dots'
     homepage 'http://www.dafont.com/trippledots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TrippleDots.ttf'
 end

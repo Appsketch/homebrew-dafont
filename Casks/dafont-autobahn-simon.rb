@@ -5,7 +5,6 @@ cask 'dafont-autobahn-simon' do
     url 'http://dl.dafont.com/dl/?f=autobahn_simon'
     name 'Autobahn'
     homepage 'http://www.dafont.com/autobahn-simon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'autobahn_stencil.ttf'
     font 'autobahn.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-etasilicon' do
     url 'http://dl.dafont.com/dl/?f=etasilicon'
     name 'Etasilicon'
     homepage 'http://www.dafont.com/etasilicon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'etasilicon.otf'
 end

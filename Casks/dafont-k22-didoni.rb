@@ -5,7 +5,6 @@ cask 'dafont-k22-didoni' do
     url 'http://dl.dafont.com/dl/?f=k22_didoni'
     name 'K22 Didoni'
     homepage 'http://www.dafont.com/k22-didoni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K22 Didoni Swash.otf'
     font 'K22 Didoni.otf'

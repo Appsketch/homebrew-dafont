@@ -5,7 +5,6 @@ cask 'dafont-floydian' do
     url 'http://dl.dafont.com/dl/?f=floydian'
     name 'Floydian'
     homepage 'http://www.dafont.com/floydian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'floyd.TTF'
 end

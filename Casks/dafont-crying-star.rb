@@ -5,7 +5,6 @@ cask 'dafont-crying-star' do
     url 'http://dl.dafont.com/dl/?f=crying_star'
     name 'Crying Star'
     homepage 'http://www.dafont.com/crying-star.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRY_STAR.TTF'
 end

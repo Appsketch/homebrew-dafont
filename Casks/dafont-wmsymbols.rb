@@ -5,7 +5,6 @@ cask 'dafont-wmsymbols' do
     url 'http://dl.dafont.com/dl/?f=wmsymbols'
     name 'WM Symbols'
     homepage 'http://www.dafont.com/wmsymbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmsymbols.TTF'
 end

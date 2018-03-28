@@ -5,7 +5,6 @@ cask 'dafont-this-is-nu-jazz' do
     url 'http://dl.dafont.com/dl/?f=this_is_nu_jazz'
     name 'This is nu jazz'
     homepage 'http://www.dafont.com/this-is-nu-jazz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'This is nu jazz.ttf'
 end

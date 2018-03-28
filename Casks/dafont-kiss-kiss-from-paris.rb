@@ -5,7 +5,6 @@ cask 'dafont-kiss-kiss-from-paris' do
     url 'http://dl.dafont.com/dl/?f=kiss_kiss_from_paris'
     name 'Kiss Kiss From Paris'
     homepage 'http://www.dafont.com/kiss-kiss-from-paris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KISSKFP_.TTF'
 end

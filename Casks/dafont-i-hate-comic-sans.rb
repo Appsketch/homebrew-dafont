@@ -5,7 +5,6 @@ cask 'dafont-i-hate-comic-sans' do
     url 'http://dl.dafont.com/dl/?f=i_hate_comic_sans'
     name 'I hate Comic Sans'
     homepage 'http://www.dafont.com/i-hate-comic-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IHATCS__.TTF'
 end

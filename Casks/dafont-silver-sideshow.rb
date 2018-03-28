@@ -5,7 +5,6 @@ cask 'dafont-silver-sideshow' do
     url 'http://dl.dafont.com/dl/?f=silver_sideshow'
     name 'Silver Sideshow'
     homepage 'http://www.dafont.com/silver-sideshow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SILVS___.TTF'
 end

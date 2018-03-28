@@ -5,7 +5,6 @@ cask 'dafont-peepshow' do
     url 'http://dl.dafont.com/dl/?f=peepshow'
     name 'PeepShow'
     homepage 'http://www.dafont.com/peepshow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peepshow.ttf'
 end

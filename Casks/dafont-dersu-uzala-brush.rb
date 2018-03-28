@@ -5,7 +5,6 @@ cask 'dafont-dersu-uzala-brush' do
     url 'http://dl.dafont.com/dl/?f=dersu_uzala_brush'
     name 'Dersu Uzala Brush'
     homepage 'http://www.dafont.com/dersu-uzala-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dersu Uzala brush.ttf'
 end

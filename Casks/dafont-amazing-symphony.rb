@@ -5,7 +5,6 @@ cask 'dafont-amazing-symphony' do
     url 'http://dl.dafont.com/dl/?f=amazing_symphony'
     name 'Amazing Symphony'
     homepage 'http://www.dafont.com/amazing-symphony.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amazing Symphony.ttf'
 end

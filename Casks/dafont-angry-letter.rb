@@ -5,7 +5,6 @@ cask 'dafont-angry-letter' do
     url 'http://dl.dafont.com/dl/?f=angry_letter'
     name 'Angry Letter'
     homepage 'http://www.dafont.com/angry-letter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angry Letter.ttf'
 end

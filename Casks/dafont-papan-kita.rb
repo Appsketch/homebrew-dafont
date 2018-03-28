@@ -5,7 +5,6 @@ cask 'dafont-papan-kita' do
     url 'http://dl.dafont.com/dl/?f=papan_kita'
     name 'Papan Kita'
     homepage 'http://www.dafont.com/papan-kita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Papan Kita.ttf'
 end

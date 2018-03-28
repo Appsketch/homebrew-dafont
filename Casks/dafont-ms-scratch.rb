@@ -5,7 +5,6 @@ cask 'dafont-ms-scratch' do
     url 'http://dl.dafont.com/dl/?f=ms_scratch'
     name 'MS-Scratch'
     homepage 'http://www.dafont.com/ms-scratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MS-Scratch.ttf'
 end

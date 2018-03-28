@@ -5,7 +5,6 @@ cask 'dafont-macopah' do
     url 'http://dl.dafont.com/dl/?f=macopah'
     name 'Macopah'
     homepage 'http://www.dafont.com/macopah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Macopah.ttf'
 end

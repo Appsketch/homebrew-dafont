@@ -5,7 +5,6 @@ cask 'dafont-komika-bubbles' do
     url 'http://dl.dafont.com/dl/?f=komika_bubbles'
     name 'Komika Bubbles'
     homepage 'http://www.dafont.com/komika-bubbles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKABB.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-quizzical-pitch' do
     url 'http://dl.dafont.com/dl/?f=quizzical_pitch'
     name 'Quizzical Pitch'
     homepage 'http://www.dafont.com/quizzical-pitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quizzical_pitch.ttf'
 end

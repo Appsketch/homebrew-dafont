@@ -5,7 +5,6 @@ cask 'dafont-laff-riot' do
     url 'http://dl.dafont.com/dl/?f=laff_riot'
     name 'Laff Riot NF'
     homepage 'http://www.dafont.com/laff-riot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LAFFRN__.TTF'
 end

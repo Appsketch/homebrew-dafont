@@ -5,7 +5,6 @@ cask 'dafont-graphicpixel' do
     url 'http://dl.dafont.com/dl/?f=graphicpixel'
     name 'GraphicPixel'
     homepage 'http://www.dafont.com/graphicpixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'graphicpixel.ttf'
 end

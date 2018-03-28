@@ -5,7 +5,6 @@ cask 'dafont-division-x' do
     url 'http://dl.dafont.com/dl/?f=division_x'
     name 'Division X'
     homepage 'http://www.dafont.com/division-x.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Divx.ttf'
 end

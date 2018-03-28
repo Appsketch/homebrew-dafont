@@ -5,7 +5,6 @@ cask 'dafont-bigprint' do
     url 'http://dl.dafont.com/dl/?f=bigprint'
     name 'Big Print'
     homepage 'http://www.dafont.com/bigprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigPrint.ttf'
 end

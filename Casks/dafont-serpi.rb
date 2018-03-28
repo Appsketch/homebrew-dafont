@@ -5,7 +5,6 @@ cask 'dafont-serpi' do
     url 'http://dl.dafont.com/dl/?f=serpi'
     name 'Serpi'
     homepage 'http://www.dafont.com/serpi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Serpi.ttf'
 end

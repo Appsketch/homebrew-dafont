@@ -5,7 +5,6 @@ cask 'dafont-super-chargers' do
     url 'http://dl.dafont.com/dl/?f=super_chargers'
     name 'Super Chargers'
     homepage 'http://www.dafont.com/super-chargers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPER_CHARGERS.ttf'
 end

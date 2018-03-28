@@ -5,7 +5,6 @@ cask 'dafont-menhir' do
     url 'http://dl.dafont.com/dl/?f=menhir'
     name 'Menhir'
     homepage 'http://www.dafont.com/menhir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Menhir.otf'
 end

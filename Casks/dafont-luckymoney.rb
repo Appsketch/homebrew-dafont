@@ -5,7 +5,6 @@ cask 'dafont-luckymoney' do
     url 'http://dl.dafont.com/dl/?f=luckymoney'
     name 'Lucky Money'
     homepage 'http://www.dafont.com/luckymoney.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LuckyMoney.ttf'
 end

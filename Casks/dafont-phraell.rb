@@ -5,7 +5,6 @@ cask 'dafont-phraell' do
     url 'http://dl.dafont.com/dl/?f=phraell'
     name 'Phraell'
     homepage 'http://www.dafont.com/phraell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phraell_Demo.ttf'
 end

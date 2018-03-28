@@ -5,7 +5,6 @@ cask 'dafont-lumen' do
     url 'http://dl.dafont.com/dl/?f=lumen'
     name 'Lumen'
     homepage 'http://www.dafont.com/lumen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lumen-Dots.ttf'
     font 'Lumen-Full.ttf'

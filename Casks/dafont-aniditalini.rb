@@ -5,7 +5,6 @@ cask 'dafont-aniditalini' do
     url 'http://dl.dafont.com/dl/?f=aniditalini'
     name 'Ani Ditalini'
     homepage 'http://www.dafont.com/aniditalini.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AniDitalini.ttf'
 end

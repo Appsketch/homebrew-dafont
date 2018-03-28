@@ -5,7 +5,6 @@ cask 'dafont-thank-you-drf' do
     url 'http://dl.dafont.com/dl/?f=thank_you_drf'
     name 'Thank you Drf'
     homepage 'http://www.dafont.com/thank-you-drf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thank you Drf extra glyphs.ttf'
     font 'Thank you Drf.ttf'

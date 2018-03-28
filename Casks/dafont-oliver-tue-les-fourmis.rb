@@ -5,7 +5,6 @@ cask 'dafont-oliver-tue-les-fourmis' do
     url 'http://dl.dafont.com/dl/?f=oliver_tue_les_fourmis'
     name 'Oliver tue les fourmis'
     homepage 'http://www.dafont.com/oliver-tue-les-fourmis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oliver tue les fourmis.ttf'
 end

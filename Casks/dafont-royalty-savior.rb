@@ -5,7 +5,6 @@ cask 'dafont-royalty-savior' do
     url 'http://dl.dafont.com/dl/?f=royalty_savior'
     name 'Royalty Savior'
     homepage 'http://www.dafont.com/royalty-savior.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Royalty Savior.ttf'
 end

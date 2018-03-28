@@ -5,7 +5,6 @@ cask 'dafont-feathergraphy' do
     url 'http://dl.dafont.com/dl/?f=feathergraphy'
     name 'Feathergraphy'
     homepage 'http://www.dafont.com/feathergraphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Feathergraphy_Clean.ttf'
     font 'Feathergraphy2.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-display-new-rd' do
     url 'http://dl.dafont.com/dl/?f=display_new_rd'
     name 'Display New RD'
     homepage 'http://www.dafont.com/display-new-rd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEW-DISPLAY-RD.ttf'
 end

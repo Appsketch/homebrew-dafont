@@ -5,7 +5,6 @@ cask 'dafont-candlelight' do
     url 'http://dl.dafont.com/dl/?f=candlelight'
     name 'Candle Light'
     homepage 'http://www.dafont.com/candlelight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CANDLE LIGHT.ttf'
 end

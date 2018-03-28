@@ -5,7 +5,6 @@ cask 'dafont-spongefont-square-t' do
     url 'http://dl.dafont.com/dl/?f=spongefont_square_t'
     name 'SpongeFont Square Type'
     homepage 'http://www.dafont.com/spongefont-square-t.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spongefont.ttf'
 end

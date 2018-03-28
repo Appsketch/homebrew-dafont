@@ -5,7 +5,6 @@ cask 'dafont-deers' do
     url 'http://dl.dafont.com/dl/?f=deers'
     name 'Deers'
     homepage 'http://www.dafont.com/deers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deers.ttf'
 end

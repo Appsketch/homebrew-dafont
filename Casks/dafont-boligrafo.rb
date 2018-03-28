@@ -5,7 +5,6 @@ cask 'dafont-boligrafo' do
     url 'http://dl.dafont.com/dl/?f=bolIgrafo'
     name 'Bol&iacute;grafo'
     homepage 'http://www.dafont.com/bolIgrafo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WOODCUTTER BOL&Ouml;GRAFO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-herr-cooles-writing' do
     url 'http://dl.dafont.com/dl/?f=herr_cooles_writing'
     name 'Herr Cooles Writing'
     homepage 'http://www.dafont.com/herr-cooles-writing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HerrCoolesWriting.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rapid-mental-thursday' do
     url 'http://dl.dafont.com/dl/?f=rapid_mental_thursday'
     name 'Rapid mental thursday'
     homepage 'http://www.dafont.com/rapid-mental-thursday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rapid mental thursday.ttf'
 end

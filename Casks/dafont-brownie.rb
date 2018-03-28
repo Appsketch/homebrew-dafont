@@ -5,7 +5,6 @@ cask 'dafont-brownie' do
     url 'http://dl.dafont.com/dl/?f=brownie'
     name 'Brownie'
     homepage 'http://www.dafont.com/brownie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BROWNIE regular.otf'
 end

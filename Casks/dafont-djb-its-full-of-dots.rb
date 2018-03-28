@@ -5,7 +5,6 @@ cask 'dafont-djb-its-full-of-dots' do
     url 'http://dl.dafont.com/dl/?f=djb_its_full_of_dots'
     name 'DJB It&#039;s Full of Dots'
     homepage 'http://www.dafont.com/djb-its-full-of-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB It&#039;s Full of Dots Straight.ttf'
     font 'DJB It&#039;s Full of Dots.ttf'

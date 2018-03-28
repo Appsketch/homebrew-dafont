@@ -5,7 +5,6 @@ cask 'dafont-mylittlejewels' do
     url 'http://dl.dafont.com/dl/?f=mylittlejewels'
     name 'My Little Jewels'
     homepage 'http://www.dafont.com/mylittlejewels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MyLittleJewels.ttf'
 end

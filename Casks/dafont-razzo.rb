@@ -5,7 +5,6 @@ cask 'dafont-razzo' do
     url 'http://dl.dafont.com/dl/?f=razzo'
     name 'Razzo'
     homepage 'http://www.dafont.com/razzo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RAZZO___.TTF'
 end

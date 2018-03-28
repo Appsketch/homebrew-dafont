@@ -5,7 +5,6 @@ cask 'dafont-djb-2cute4u' do
     url 'http://dl.dafont.com/dl/?f=djb_2cute4u'
     name 'DJB 2Cute4u'
     homepage 'http://www.dafont.com/djb-2cute4u.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB 2CUTE4U.ttf'
 end

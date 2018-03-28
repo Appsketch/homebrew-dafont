@@ -5,7 +5,6 @@ cask 'dafont-engravier-initials' do
     url 'http://dl.dafont.com/dl/?f=engravier_initials'
     name 'Engravier Initials'
     homepage 'http://www.dafont.com/engravier-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ENGRAVIE.TTF'
 end

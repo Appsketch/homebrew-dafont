@@ -5,7 +5,6 @@ cask 'dafont-bangtime' do
     url 'http://dl.dafont.com/dl/?f=bangtime'
     name 'BangTime'
     homepage 'http://www.dafont.com/bangtime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BangTime.ttf'
 end

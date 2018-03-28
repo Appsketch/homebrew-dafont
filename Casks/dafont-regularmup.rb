@@ -5,7 +5,6 @@ cask 'dafont-regularmup' do
     url 'http://dl.dafont.com/dl/?f=regularmup'
     name 'Regularmup'
     homepage 'http://www.dafont.com/regularmup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fuente Regularmup.otf'
 end

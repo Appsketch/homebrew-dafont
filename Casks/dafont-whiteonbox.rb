@@ -5,7 +5,6 @@ cask 'dafont-whiteonbox' do
     url 'http://dl.dafont.com/dl/?f=whiteonbox'
     name 'White On Box'
     homepage 'http://www.dafont.com/whiteonbox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'whiteonbox.ttf'
 end

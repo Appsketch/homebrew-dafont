@@ -5,7 +5,6 @@ cask 'dafont-billie-barred' do
     url 'http://dl.dafont.com/dl/?f=billie_barred'
     name 'Billie Barred'
     homepage 'http://www.dafont.com/billie-barred.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BBARTRIAL.ttf'
 end

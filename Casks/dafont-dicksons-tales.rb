@@ -5,7 +5,6 @@ cask 'dafont-dicksons-tales' do
     url 'http://dl.dafont.com/dl/?f=dicksons_tales'
     name 'Dickson&#039;s Tales'
     homepage 'http://www.dafont.com/dicksons-tales.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dickson&#039;s Tales.ttf'
 end

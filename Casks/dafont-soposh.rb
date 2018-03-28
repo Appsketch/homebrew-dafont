@@ -5,7 +5,6 @@ cask 'dafont-soposh' do
     url 'http://dl.dafont.com/dl/?f=soposh'
     name 'So Posh'
     homepage 'http://www.dafont.com/soposh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'soposh.ttf'
 end

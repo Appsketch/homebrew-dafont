@@ -5,7 +5,6 @@ cask 'dafont-aiuruoca' do
     url 'http://dl.dafont.com/dl/?f=aiuruoca'
     name 'Aiuruoca'
     homepage 'http://www.dafont.com/aiuruoca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aiuruoca.ttf'
 end

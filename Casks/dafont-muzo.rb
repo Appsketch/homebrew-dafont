@@ -5,7 +5,6 @@ cask 'dafont-muzo' do
     url 'http://dl.dafont.com/dl/?f=muzo'
     name 'Muzo'
     homepage 'http://www.dafont.com/muzo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Muzo.ttf'
 end

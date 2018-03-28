@@ -5,7 +5,6 @@ cask 'dafont-babe-alicious' do
     url 'http://dl.dafont.com/dl/?f=babe_alicious'
     name 'Babe-alicious'
     homepage 'http://www.dafont.com/babe-alicious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BABE.TTF'
 end

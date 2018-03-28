@@ -5,7 +5,6 @@ cask 'dafont-risaltyp' do
     url 'http://dl.dafont.com/dl/?f=risaltyp'
     name 'Risaltyp'
     homepage 'http://www.dafont.com/risaltyp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Risaltyp_024.ttf'
 end

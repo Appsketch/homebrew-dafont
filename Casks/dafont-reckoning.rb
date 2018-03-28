@@ -5,7 +5,6 @@ cask 'dafont-reckoning' do
     url 'http://dl.dafont.com/dl/?f=reckoning'
     name 'Reckoning'
     homepage 'http://www.dafont.com/reckoning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reckoning.ttf'
 end

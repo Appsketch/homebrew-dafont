@@ -5,7 +5,6 @@ cask 'dafont-uglymann' do
     url 'http://dl.dafont.com/dl/?f=uglymann'
     name 'Uglymann'
     homepage 'http://www.dafont.com/uglymann.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Uglymann.ttf'
 end

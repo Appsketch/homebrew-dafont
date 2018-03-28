@@ -5,7 +5,6 @@ cask 'dafont-hood-rich' do
     url 'http://dl.dafont.com/dl/?f=hood_rich'
     name 'Hood Rich'
     homepage 'http://www.dafont.com/hood-rich.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HoodRich-Regular.ttf'
 end

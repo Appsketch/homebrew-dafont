@@ -5,7 +5,6 @@ cask 'dafont-dimbo' do
     url 'http://dl.dafont.com/dl/?f=dimbo'
     name 'Dimbo'
     homepage 'http://www.dafont.com/dimbo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dimbo Italic.ttf'
     font 'Dimbo Regular.ttf'

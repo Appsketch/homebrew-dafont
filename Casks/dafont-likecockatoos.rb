@@ -5,7 +5,6 @@ cask 'dafont-likecockatoos' do
     url 'http://dl.dafont.com/dl/?f=likecockatoos'
     name 'Like Cockatoos'
     homepage 'http://www.dafont.com/likecockatoos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LikeCockatoos.ttf'
     font 'LikeCockatoosBold.ttf'

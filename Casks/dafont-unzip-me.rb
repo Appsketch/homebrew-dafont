@@ -5,7 +5,6 @@ cask 'dafont-unzip-me' do
     url 'http://dl.dafont.com/dl/?f=unzip_me'
     name 'Unzip Me'
     homepage 'http://www.dafont.com/unzip-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UnzipMe.ttf'
 end

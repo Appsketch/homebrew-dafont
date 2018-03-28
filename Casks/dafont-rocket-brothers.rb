@@ -5,7 +5,6 @@ cask 'dafont-rocket-brothers' do
     url 'http://dl.dafont.com/dl/?f=rocket_brothers'
     name 'Rocket Brothers'
     homepage 'http://www.dafont.com/rocket-brothers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rocket Brother.ttf'
 end

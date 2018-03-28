@@ -5,7 +5,6 @@ cask 'dafont-princecharming' do
     url 'http://dl.dafont.com/dl/?f=princecharming'
     name 'Prince Charming'
     homepage 'http://www.dafont.com/princecharming.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrinceCharming.ttf'
 end

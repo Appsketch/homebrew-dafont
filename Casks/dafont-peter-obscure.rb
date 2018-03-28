@@ -5,7 +5,6 @@ cask 'dafont-peter-obscure' do
     url 'http://dl.dafont.com/dl/?f=peter_obscure'
     name 'Peter Obscure'
     homepage 'http://www.dafont.com/peter-obscure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PeterObscure.ttf'
 end

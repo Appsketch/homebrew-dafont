@@ -5,7 +5,6 @@ cask 'dafont-rodi-de-asis' do
     url 'http://dl.dafont.com/dl/?f=rodi_de_asis'
     name 'Rodi de Asis'
     homepage 'http://www.dafont.com/rodi-de-asis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rodi de Asis.ttf'
 end

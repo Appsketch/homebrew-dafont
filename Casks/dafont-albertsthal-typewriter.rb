@@ -5,7 +5,6 @@ cask 'dafont-albertsthal-typewriter' do
     url 'http://dl.dafont.com/dl/?f=albertsthal_typewriter'
     name 'Albertsthal Typewriter'
     homepage 'http://www.dafont.com/albertsthal-typewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Albertsthal Typewriter.ttf'
 end

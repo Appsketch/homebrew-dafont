@@ -5,7 +5,6 @@ cask 'dafont-subotnik' do
     url 'http://dl.dafont.com/dl/?f=subotnik'
     name 'Subotnik'
     homepage 'http://www.dafont.com/subotnik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUBOTNIK.TTF'
 end

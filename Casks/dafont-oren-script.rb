@@ -5,7 +5,6 @@ cask 'dafont-oren-script' do
     url 'http://dl.dafont.com/dl/?f=oren_script'
     name 'Oren Script'
     homepage 'http://www.dafont.com/oren-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OrenScript.ttf'
 end

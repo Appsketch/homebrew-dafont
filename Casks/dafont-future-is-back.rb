@@ -5,7 +5,6 @@ cask 'dafont-future-is-back' do
     url 'http://dl.dafont.com/dl/?f=future_is_back'
     name 'Future is back'
     homepage 'http://www.dafont.com/future-is-back.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Future Is Back.ttf'
 end

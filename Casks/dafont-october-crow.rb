@@ -5,7 +5,6 @@ cask 'dafont-october-crow' do
     url 'http://dl.dafont.com/dl/?f=october_crow'
     name 'October Crow'
     homepage 'http://www.dafont.com/october-crow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'October Crow.ttf'
 end

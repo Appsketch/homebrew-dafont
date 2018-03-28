@@ -5,7 +5,6 @@ cask 'dafont-platform-eight' do
     url 'http://dl.dafont.com/dl/?f=platform_eight'
     name 'Platform Eight'
     homepage 'http://www.dafont.com/platform-eight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'platform_eight_connection.ttf'
     font 'platform_eight.ttf'

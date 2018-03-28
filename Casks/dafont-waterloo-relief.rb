@@ -5,7 +5,6 @@ cask 'dafont-waterloo-relief' do
     url 'http://dl.dafont.com/dl/?f=waterloo_relief'
     name 'Waterloo Relief'
     homepage 'http://www.dafont.com/waterloo-relief.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WaterlooRelief.ttf'
 end

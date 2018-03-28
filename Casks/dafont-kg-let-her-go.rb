@@ -5,7 +5,6 @@ cask 'dafont-kg-let-her-go' do
     url 'http://dl.dafont.com/dl/?f=kg_let_her_go'
     name 'KG Let Her Go'
     homepage 'http://www.dafont.com/kg-let-her-go.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGLETHERGO.ttf'
     font 'KGLETHERGOOUTLINE.ttf'

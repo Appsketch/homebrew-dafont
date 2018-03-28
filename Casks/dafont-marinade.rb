@@ -5,7 +5,6 @@ cask 'dafont-marinade' do
     url 'http://dl.dafont.com/dl/?f=marinade'
     name 'Marinade'
     homepage 'http://www.dafont.com/marinade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marinade.ttf'
 end

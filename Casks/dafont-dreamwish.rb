@@ -5,7 +5,6 @@ cask 'dafont-dreamwish' do
     url 'http://dl.dafont.com/dl/?f=dreamwish'
     name 'Dreamwish'
     homepage 'http://www.dafont.com/dreamwish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dreamwish.ttf'
 end

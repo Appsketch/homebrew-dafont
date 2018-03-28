@@ -5,7 +5,6 @@ cask 'dafont-pee-on-face' do
     url 'http://dl.dafont.com/dl/?f=pee_on_face'
     name 'Pee on face'
     homepage 'http://www.dafont.com/pee-on-face.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pee-on-your-face.ttf'
 end

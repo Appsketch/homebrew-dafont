@@ -5,7 +5,6 @@ cask 'dafont-whoobub' do
     url 'http://dl.dafont.com/dl/?f=whoobub'
     name 'Whoobub'
     homepage 'http://www.dafont.com/whoobub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WHOOBUB_.TTF'
 end

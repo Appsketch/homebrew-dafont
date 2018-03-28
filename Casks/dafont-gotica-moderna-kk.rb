@@ -5,7 +5,6 @@ cask 'dafont-gotica-moderna-kk' do
     url 'http://dl.dafont.com/dl/?f=gotica_moderna_kk'
     name 'Gotica Moderna KK'
     homepage 'http://www.dafont.com/gotica-moderna-kk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gotica Moderna KK Italic v1.1.ttf'
     font 'Gotica Moderna KK Outline v1.1.ttf'

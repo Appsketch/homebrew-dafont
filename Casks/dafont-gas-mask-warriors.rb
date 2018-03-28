@@ -5,7 +5,6 @@ cask 'dafont-gas-mask-warriors' do
     url 'http://dl.dafont.com/dl/?f=gas_mask_warriors'
     name 'Gas Mask Warriors'
     homepage 'http://www.dafont.com/gas-mask-warriors.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GasMaskWarriors.ttf'
 end

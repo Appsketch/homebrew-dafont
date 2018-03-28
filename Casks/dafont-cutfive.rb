@@ -5,7 +5,6 @@ cask 'dafont-cutfive' do
     url 'http://dl.dafont.com/dl/?f=cutfive'
     name 'Cut Five'
     homepage 'http://www.dafont.com/cutfive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CutFive.ttf'
 end

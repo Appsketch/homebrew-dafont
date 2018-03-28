@@ -5,7 +5,6 @@ cask 'dafont-mixcarpathia' do
     url 'http://dl.dafont.com/dl/?f=mixcarpathia'
     name 'Mix Carpathia'
     homepage 'http://www.dafont.com/mixcarpathia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixCarpathia.ttf'
 end

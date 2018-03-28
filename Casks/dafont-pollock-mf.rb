@@ -5,7 +5,6 @@ cask 'dafont-pollock-mf' do
     url 'http://dl.dafont.com/dl/?f=pollock_mf'
     name 'Pollock MF'
     homepage 'http://www.dafont.com/pollock-mf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PollockMF.ttf'
 end

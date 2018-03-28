@@ -5,7 +5,6 @@ cask 'dafont-bevel-fifteen' do
     url 'http://dl.dafont.com/dl/?f=bevel_fifteen'
     name 'Bevel Fifteen'
     homepage 'http://www.dafont.com/bevel-fifteen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bevel_fifteen.ttf'
 end

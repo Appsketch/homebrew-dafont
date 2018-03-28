@@ -5,7 +5,6 @@ cask 'dafont-iconic-psx' do
     url 'http://dl.dafont.com/dl/?f=iconic_psx'
     name 'Iconic PSx'
     homepage 'http://www.dafont.com/iconic-psx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iconic PSx.ttf'
 end

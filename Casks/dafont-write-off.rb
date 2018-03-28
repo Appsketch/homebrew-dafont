@@ -5,7 +5,6 @@ cask 'dafont-write-off' do
     url 'http://dl.dafont.com/dl/?f=write_off'
     name 'Write Off'
     homepage 'http://www.dafont.com/write-off.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Writev2.ttf'
     font 'Writev2o.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-virtualvectorvortex' do
     url 'http://dl.dafont.com/dl/?f=virtualvectorvortex'
     name 'Virtual Vector Vortex'
     homepage 'http://www.dafont.com/virtualvectorvortex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VirtualVectorVortex.ttf'
 end

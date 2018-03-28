@@ -5,7 +5,6 @@ cask 'dafont-slim-slim' do
     url 'http://dl.dafont.com/dl/?f=slim_slim'
     name 'Slim Slim'
     homepage 'http://www.dafont.com/slim-slim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slim_Slim.ttf'
 end

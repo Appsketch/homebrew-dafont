@@ -5,7 +5,6 @@ cask 'dafont-string-variable-literal' do
     url 'http://dl.dafont.com/dl/?f=string_variable_literal'
     name 'String Literal + Variable'
     homepage 'http://www.dafont.com/string-variable-literal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Str437.ttf'
     font 'StrLit.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-cihuy' do
     url 'http://dl.dafont.com/dl/?f=cihuy'
     name 'Cihuy'
     homepage 'http://www.dafont.com/cihuy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cihuy.ttf'
 end

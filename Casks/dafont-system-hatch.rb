@@ -5,7 +5,6 @@ cask 'dafont-system-hatch' do
     url 'http://dl.dafont.com/dl/?f=system_hatch'
     name 'System Hatch'
     homepage 'http://www.dafont.com/system-hatch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SYSTEM_2BHACH.ttf'
 end

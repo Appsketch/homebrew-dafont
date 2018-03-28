@@ -5,7 +5,6 @@ cask 'dafont-maxxi-serif' do
     url 'http://dl.dafont.com/dl/?f=maxxi_serif'
     name 'Maxxi Serif'
     homepage 'http://www.dafont.com/maxxi-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maxxi Serif Bold.ttf'
     font 'Maxxi Serif Outline Bold.ttf'

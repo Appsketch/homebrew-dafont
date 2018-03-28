@@ -5,7 +5,6 @@ cask 'dafont-torremolinos' do
     url 'http://dl.dafont.com/dl/?f=torremolinos'
     name 'Torremolinos'
     homepage 'http://www.dafont.com/torremolinos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Torremolinos.ttf'
 end

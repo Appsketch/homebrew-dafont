@@ -5,7 +5,6 @@ cask 'dafont-point-a-point' do
     url 'http://dl.dafont.com/dl/?f=point_a_point'
     name 'Point &agrave; point'
     homepage 'http://www.dafont.com/point-a-point.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'point  point.otf'
 end

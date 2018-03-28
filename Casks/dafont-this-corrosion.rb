@@ -5,7 +5,6 @@ cask 'dafont-this-corrosion' do
     url 'http://dl.dafont.com/dl/?f=this_corrosion'
     name 'This Corrosion'
     homepage 'http://www.dafont.com/this-corrosion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THISC___.TTF'
 end

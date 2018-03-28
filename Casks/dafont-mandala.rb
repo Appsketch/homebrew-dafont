@@ -5,7 +5,6 @@ cask 'dafont-mandala' do
     url 'http://dl.dafont.com/dl/?f=mandala'
     name 'Mandala'
     homepage 'http://www.dafont.com/mandala.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mandala.ttf'
 end

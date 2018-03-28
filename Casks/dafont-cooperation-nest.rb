@@ -5,7 +5,6 @@ cask 'dafont-cooperation-nest' do
     url 'http://dl.dafont.com/dl/?f=cooperation_nest'
     name 'Cooperation Nest'
     homepage 'http://www.dafont.com/cooperation-nest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cooperation Nest.otf'
 end

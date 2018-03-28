@@ -5,7 +5,6 @@ cask 'dafont-windshield-massacre' do
     url 'http://dl.dafont.com/dl/?f=windshield_massacre'
     name 'Windshield Massacre'
     homepage 'http://www.dafont.com/windshield-massacre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WindshieldMassacre_Condensed.ttf'
     font 'WindshieldMassacre.ttf'

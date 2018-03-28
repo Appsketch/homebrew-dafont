@@ -5,7 +5,6 @@ cask 'dafont-saniretro' do
     url 'http://dl.dafont.com/dl/?f=saniretro'
     name 'Saniretro'
     homepage 'http://www.dafont.com/saniretro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Saniretro.ttf'
 end

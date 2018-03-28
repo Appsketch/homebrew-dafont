@@ -5,7 +5,6 @@ cask 'dafont-the-worms' do
     url 'http://dl.dafont.com/dl/?f=the_worms'
     name 'The Worms'
     homepage 'http://www.dafont.com/the-worms.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the_worms.ttf'
 end

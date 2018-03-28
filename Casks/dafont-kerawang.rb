@@ -5,7 +5,6 @@ cask 'dafont-kerawang' do
     url 'http://dl.dafont.com/dl/?f=kerawang'
     name 'Kerawang'
     homepage 'http://www.dafont.com/kerawang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kerawang.ttf'
 end

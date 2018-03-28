@@ -5,7 +5,6 @@ cask 'dafont-fresh-bionik' do
     url 'http://dl.dafont.com/dl/?f=fresh_bionik'
     name 'Fresh Bionik'
     homepage 'http://www.dafont.com/fresh-bionik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FRESBS__.TTF'
 end

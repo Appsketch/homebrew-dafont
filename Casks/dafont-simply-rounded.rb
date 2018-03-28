@@ -5,7 +5,6 @@ cask 'dafont-simply-rounded' do
     url 'http://dl.dafont.com/dl/?f=simply_rounded'
     name 'Simply Rounded'
     homepage 'http://www.dafont.com/simply-rounded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simply Rounded Bold Italic.ttf'
     font 'Simply Rounded Bold.ttf'

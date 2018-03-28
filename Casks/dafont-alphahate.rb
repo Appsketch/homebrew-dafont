@@ -5,7 +5,6 @@ cask 'dafont-alphahate' do
     url 'http://dl.dafont.com/dl/?f=alphahate'
     name 'Alphahate'
     homepage 'http://www.dafont.com/alphahate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alphahate.ttf'
 end

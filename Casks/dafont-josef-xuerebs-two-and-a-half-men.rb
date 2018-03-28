@@ -5,7 +5,6 @@ cask 'dafont-josef-xuerebs-two-and-a-half-men' do
     url 'http://dl.dafont.com/dl/?f=josef_xuerebs_two_and_a_half_men'
     name 'Josef Xuereb&#039;s Two and a Half Men'
     homepage 'http://www.dafont.com/josef-xuerebs-two-and-a-half-men.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Josef Xuereb&#039;s Two and a Half Men.ttf'
 end

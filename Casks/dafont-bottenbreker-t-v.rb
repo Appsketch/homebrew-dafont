@@ -5,7 +5,6 @@ cask 'dafont-bottenbreker-t-v' do
     url 'http://dl.dafont.com/dl/?f=bottenbreker_t_v'
     name 'Bottenbreker T.V.'
     homepage 'http://www.dafont.com/bottenbreker-t-v.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BottenbrekerTV.ttf'
 end

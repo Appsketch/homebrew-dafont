@@ -5,7 +5,6 @@ cask 'dafont-nakadai' do
     url 'http://dl.dafont.com/dl/?f=nakadai'
     name 'Nakadai'
     homepage 'http://www.dafont.com/nakadai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nakadai Italic.otf'
     font 'Nakadai.otf'

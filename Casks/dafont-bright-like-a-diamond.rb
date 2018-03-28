@@ -5,7 +5,6 @@ cask 'dafont-bright-like-a-diamond' do
     url 'http://dl.dafont.com/dl/?f=bright_like_a_diamond'
     name 'Bright Like A Diamond'
     homepage 'http://www.dafont.com/bright-like-a-diamond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bright Like A Diamond.ttf'
 end

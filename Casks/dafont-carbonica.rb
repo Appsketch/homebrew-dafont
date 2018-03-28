@@ -5,7 +5,6 @@ cask 'dafont-carbonica' do
     url 'http://dl.dafont.com/dl/?f=carbonica'
     name 'Carbonica'
     homepage 'http://www.dafont.com/carbonica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carbonica.ttf'
 end

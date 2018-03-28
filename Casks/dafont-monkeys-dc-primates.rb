@@ -5,7 +5,6 @@ cask 'dafont-monkeys-dc-primates' do
     url 'http://dl.dafont.com/dl/?f=monkeys_dc_primates'
     name 'Monkeys DC Primates'
     homepage 'http://www.dafont.com/monkeys-dc-primates.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monkeysdc.TTF'
 end

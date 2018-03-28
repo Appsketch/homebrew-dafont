@@ -5,7 +5,6 @@ cask 'dafont-greekhousesymbolized' do
     url 'http://dl.dafont.com/dl/?f=greekhousesymbolized'
     name 'Greek House Symbolized'
     homepage 'http://www.dafont.com/greekhousesymbolized.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreekHouse Symbolized_Free.ttf'
 end

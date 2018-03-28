@@ -5,7 +5,6 @@ cask 'dafont-jizz-mass' do
     url 'http://dl.dafont.com/dl/?f=jizz_mass'
     name 'Jizz Mass'
     homepage 'http://www.dafont.com/jizz-mass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jizz-Mass - BC.ttf'
 end

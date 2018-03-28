@@ -5,7 +5,6 @@ cask 'dafont-jigsaw-trouserdrop' do
     url 'http://dl.dafont.com/dl/?f=jigsaw_trouserdrop'
     name 'Jigsaw Trouserdrop'
     homepage 'http://www.dafont.com/jigsaw-trouserdrop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jigsaw trouserdrop.ttf'
 end

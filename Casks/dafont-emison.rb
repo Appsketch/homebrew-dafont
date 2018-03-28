@@ -5,7 +5,6 @@ cask 'dafont-emison' do
     url 'http://dl.dafont.com/dl/?f=emison'
     name 'Emison'
     homepage 'http://www.dafont.com/emison.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'emison.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-transcript' do
     url 'http://dl.dafont.com/dl/?f=transcript'
     name 'Transcript'
     homepage 'http://www.dafont.com/transcript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'transcript____.ttf'
 end

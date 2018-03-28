@@ -5,7 +5,6 @@ cask 'dafont-super-cube' do
     url 'http://dl.dafont.com/dl/?f=super_cube'
     name 'Super Cube'
     homepage 'http://www.dafont.com/super-cube.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Super Cube Blod.ttf'
     font 'Super Cube.ttf'

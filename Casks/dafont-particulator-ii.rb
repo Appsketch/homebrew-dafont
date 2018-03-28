@@ -5,7 +5,6 @@ cask 'dafont-particulator-ii' do
     url 'http://dl.dafont.com/dl/?f=particulator_ii'
     name 'Particulator II'
     homepage 'http://www.dafont.com/particulator-ii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'particulator_ii.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blokada' do
     url 'http://dl.dafont.com/dl/?f=blokada'
     name 'Blokada'
     homepage 'http://www.dafont.com/blokada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blokada.ttf'
 end

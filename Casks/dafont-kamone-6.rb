@@ -5,7 +5,6 @@ cask 'dafont-kamone-6' do
     url 'http://dl.dafont.com/dl/?f=kamone_6'
     name 'Kamone 6'
     homepage 'http://www.dafont.com/kamone-6.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_kamone_6.ttf'
 end

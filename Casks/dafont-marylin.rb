@@ -5,7 +5,6 @@ cask 'dafont-marylin' do
     url 'http://dl.dafont.com/dl/?f=marylin'
     name 'Marylin'
     homepage 'http://www.dafont.com/marylin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marylin.ttf'
 end

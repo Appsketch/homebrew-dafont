@@ -5,7 +5,6 @@ cask 'dafont-chinese-new-year-by' do
     url 'http://dl.dafont.com/dl/?f=chinese_new_year_by'
     name 'Chinese New Year By Tom'
     homepage 'http://www.dafont.com/chinese-new-year-by.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChineseNewYearByTom.ttf'
 end

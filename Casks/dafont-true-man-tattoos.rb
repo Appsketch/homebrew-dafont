@@ -5,7 +5,6 @@ cask 'dafont-true-man-tattoos' do
     url 'http://dl.dafont.com/dl/?f=true_man_tattoos'
     name 'True Man Tattoos'
     homepage 'http://www.dafont.com/true-man-tattoos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'True Man Tattoos.ttf'
 end

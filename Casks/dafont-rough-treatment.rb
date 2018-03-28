@@ -5,7 +5,6 @@ cask 'dafont-rough-treatment' do
     url 'http://dl.dafont.com/dl/?f=rough_treatment'
     name 'Rough Treatment'
     homepage 'http://www.dafont.com/rough-treatment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rough_Treatment.ttf'
 end

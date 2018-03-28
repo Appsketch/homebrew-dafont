@@ -5,7 +5,6 @@ cask 'dafont-cafe-pop' do
     url 'http://dl.dafont.com/dl/?f=cafe_pop'
     name 'Caf&eacute; Pop'
     homepage 'http://www.dafont.com/cafe-pop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CAFEPOP.TTF'
 end

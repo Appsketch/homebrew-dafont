@@ -5,7 +5,6 @@ cask 'dafont-bonzer-bruxelles' do
     url 'http://dl.dafont.com/dl/?f=bonzer_bruxelles'
     name 'Bonzer - Bruxelles'
     homepage 'http://www.dafont.com/bonzer-bruxelles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonzer - Bruxelles - bold.ttf'
     font 'Bonzer - Bruxelles - regular.ttf'

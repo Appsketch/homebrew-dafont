@@ -5,7 +5,6 @@ cask 'dafont-ghettosymphony' do
     url 'http://dl.dafont.com/dl/?f=ghettosymphony'
     name 'Ghetto Symphony'
     homepage 'http://www.dafont.com/ghettosymphony.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GhettoSymphony.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mdma' do
     url 'http://dl.dafont.com/dl/?f=mdma'
     name 'MDMA'
     homepage 'http://www.dafont.com/mdma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MDMA.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pwstrokes' do
     url 'http://dl.dafont.com/dl/?f=pwstrokes'
     name 'PW Strokes'
     homepage 'http://www.dafont.com/pwstrokes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWStrokes.ttf'
 end

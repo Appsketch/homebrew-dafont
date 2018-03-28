@@ -5,7 +5,6 @@ cask 'dafont-stay-holy-okay' do
     url 'http://dl.dafont.com/dl/?f=stay_holy_okay'
     name 'Stay Holy Okay'
     homepage 'http://www.dafont.com/stay-holy-okay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stay Holy Okay.ttf'
 end

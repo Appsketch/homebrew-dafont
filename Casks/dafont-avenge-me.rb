@@ -5,7 +5,6 @@ cask 'dafont-avenge-me' do
     url 'http://dl.dafont.com/dl/?f=avenge_me'
     name 'Avenge Me'
     homepage 'http://www.dafont.com/avenge-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'avenge me.ttf'
 end

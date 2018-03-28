@@ -5,7 +5,6 @@ cask 'dafont-polar-shift' do
     url 'http://dl.dafont.com/dl/?f=polar_shift'
     name 'Polar Shift'
     homepage 'http://www.dafont.com/polar-shift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Polar Shift.TTF'
 end

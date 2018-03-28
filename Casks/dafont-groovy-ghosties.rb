@@ -5,7 +5,6 @@ cask 'dafont-groovy-ghosties' do
     url 'http://dl.dafont.com/dl/?f=groovy_ghosties'
     name 'Groovy Ghosties'
     homepage 'http://www.dafont.com/groovy-ghosties.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'groovy ghosties.ttf'
 end

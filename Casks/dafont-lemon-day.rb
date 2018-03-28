@@ -5,7 +5,6 @@ cask 'dafont-lemon-day' do
     url 'http://dl.dafont.com/dl/?f=lemon_day'
     name 'Lemon Day'
     homepage 'http://www.dafont.com/lemon-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEMONB__.ttf'
 end

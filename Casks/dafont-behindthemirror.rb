@@ -5,7 +5,6 @@ cask 'dafont-behindthemirror' do
     url 'http://dl.dafont.com/dl/?f=behindthemirror'
     name 'Behind the Mirror'
     homepage 'http://www.dafont.com/behindthemirror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BehindtheMirror.ttf'
 end

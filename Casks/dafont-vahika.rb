@@ -5,7 +5,6 @@ cask 'dafont-vahika' do
     url 'http://dl.dafont.com/dl/?f=vahika'
     name 'Vahika'
     homepage 'http://www.dafont.com/vahika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vahika bd it.ttf'
     font 'vahika bd.ttf'

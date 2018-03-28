@@ -5,7 +5,6 @@ cask 'dafont-ke-aloha' do
     url 'http://dl.dafont.com/dl/?f=ke_aloha'
     name 'Ke Aloha'
     homepage 'http://www.dafont.com/ke-aloha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ke Aloha.ttf'
 end

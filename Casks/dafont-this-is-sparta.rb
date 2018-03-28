@@ -5,7 +5,6 @@ cask 'dafont-this-is-sparta' do
     url 'http://dl.dafont.com/dl/?f=this_is_sparta'
     name 'This is sparta!'
     homepage 'http://www.dafont.com/this-is-sparta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sparta.ttf'
 end

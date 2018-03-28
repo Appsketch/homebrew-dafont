@@ -5,7 +5,6 @@ cask 'dafont-robot-teacher' do
     url 'http://dl.dafont.com/dl/?f=robot_teacher'
     name 'Robot Teacher'
     homepage 'http://www.dafont.com/robot-teacher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'robot.ttf'
 end

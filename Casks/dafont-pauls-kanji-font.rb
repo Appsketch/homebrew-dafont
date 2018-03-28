@@ -5,7 +5,6 @@ cask 'dafont-pauls-kanji-font' do
     url 'http://dl.dafont.com/dl/?f=pauls_kanji_font'
     name 'Pauls Kanji'
     homepage 'http://www.dafont.com/pauls-kanji-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pauls Kanji Font.ttf'
 end

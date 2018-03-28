@@ -5,7 +5,6 @@ cask 'dafont-dt-janis-jeffs-happy-daze' do
     url 'http://dl.dafont.com/dl/?f=dt_janis_jeffs_happy_daze'
     name 'DT Janis &amp; Jeffs Happy Daze'
     homepage 'http://www.dafont.com/dt-janis-jeffs-happy-daze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DT Janis &amp; Jeffs Happy Daze.ttf'
 end

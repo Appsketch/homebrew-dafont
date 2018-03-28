@@ -5,7 +5,6 @@ cask 'dafont-severina' do
     url 'http://dl.dafont.com/dl/?f=severina'
     name 'Severina'
     homepage 'http://www.dafont.com/severina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEVERINA.ttf'
 end

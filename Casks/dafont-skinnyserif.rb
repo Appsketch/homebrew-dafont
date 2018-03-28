@@ -5,7 +5,6 @@ cask 'dafont-skinnyserif' do
     url 'http://dl.dafont.com/dl/?f=skinnyserif'
     name 'Skinny Serif'
     homepage 'http://www.dafont.com/skinnyserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skinnyserif.ttf'
 end

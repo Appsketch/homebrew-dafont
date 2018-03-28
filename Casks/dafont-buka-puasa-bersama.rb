@@ -5,7 +5,6 @@ cask 'dafont-buka-puasa-bersama' do
     url 'http://dl.dafont.com/dl/?f=buka_puasa_bersama'
     name 'Buka Puasa Bersama'
     homepage 'http://www.dafont.com/buka-puasa-bersama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'buka_puasa_bersama_5.ttf'
 end

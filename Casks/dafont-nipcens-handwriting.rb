@@ -5,7 +5,6 @@ cask 'dafont-nipcens-handwriting' do
     url 'http://dl.dafont.com/dl/?f=nipcens_handwriting'
     name 'NipCen&#039;s Handwriting'
     homepage 'http://www.dafont.com/nipcens-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NipCens Handwriting Bold.ttf'
     font 'NipCens Handwriting CondBd.ttf'

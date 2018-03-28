@@ -5,7 +5,6 @@ cask 'dafont-lcr-party-dings' do
     url 'http://dl.dafont.com/dl/?f=lcr_party_dings'
     name 'LCR Party Dings'
     homepage 'http://www.dafont.com/lcr-party-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LCR Party Dings.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jetpackjoe' do
     url 'http://dl.dafont.com/dl/?f=jetpackjoe'
     name 'JetpackJoe'
     homepage 'http://www.dafont.com/jetpackjoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JetpackJoe.ttf'
 end

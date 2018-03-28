@@ -5,7 +5,6 @@ cask 'dafont-aeroport' do
     url 'http://dl.dafont.com/dl/?f=aeroport'
     name 'Aeroport'
     homepage 'http://www.dafont.com/aeroport.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aeroport.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-garbage-guerilla' do
     url 'http://dl.dafont.com/dl/?f=garbage_guerilla'
     name 'Garbage Guerilla'
     homepage 'http://www.dafont.com/garbage-guerilla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Garbage Guerilla.ttf'
 end

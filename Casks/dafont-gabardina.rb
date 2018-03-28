@@ -5,7 +5,6 @@ cask 'dafont-gabardina' do
     url 'http://dl.dafont.com/dl/?f=gabardina'
     name 'Gabardina'
     homepage 'http://www.dafont.com/gabardina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gabardina-regular.ttf'
 end

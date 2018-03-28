@@ -5,7 +5,6 @@ cask 'dafont-licensepl8' do
     url 'http://dl.dafont.com/dl/?f=licensepl8'
     name 'License PL8'
     homepage 'http://www.dafont.com/licensepl8.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LicensePl8.ttf'
 end

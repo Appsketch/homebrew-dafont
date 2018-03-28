@@ -5,7 +5,6 @@ cask 'dafont-thissmacky' do
     url 'http://dl.dafont.com/dl/?f=thissmacky'
     name 'This Smacky'
     homepage 'http://www.dafont.com/thissmacky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThisSmacky.ttf'
     font 'ThisSmackyAlias.ttf'

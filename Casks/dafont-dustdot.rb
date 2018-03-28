@@ -5,7 +5,6 @@ cask 'dafont-dustdot' do
     url 'http://dl.dafont.com/dl/?f=dustdot'
     name 'DustDot'
     homepage 'http://www.dafont.com/dustdot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DustDotRegular.ttf'
 end

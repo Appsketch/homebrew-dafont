@@ -5,7 +5,6 @@ cask 'dafont-milky-well' do
     url 'http://dl.dafont.com/dl/?f=milky_well'
     name 'Milky Well'
     homepage 'http://www.dafont.com/milky-well.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MilkyWell.ttf'
 end

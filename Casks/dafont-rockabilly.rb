@@ -5,7 +5,6 @@ cask 'dafont-rockabilly' do
     url 'http://dl.dafont.com/dl/?f=rockabilly'
     name 'Rockabilly'
     homepage 'http://www.dafont.com/rockabilly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rockabilly.ttf'
 end

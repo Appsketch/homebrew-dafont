@@ -5,7 +5,6 @@ cask 'dafont-nidhogg-runic' do
     url 'http://dl.dafont.com/dl/?f=nidhogg_runic'
     name 'Nidhogg Runic'
     homepage 'http://www.dafont.com/nidhogg-runic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NidhoggRunic.ttf'
 end

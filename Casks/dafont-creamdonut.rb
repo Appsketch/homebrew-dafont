@@ -5,7 +5,6 @@ cask 'dafont-creamdonut' do
     url 'http://dl.dafont.com/dl/?f=creamdonut'
     name 'Cream Donut'
     homepage 'http://www.dafont.com/creamdonut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cream Donut.ttf'
 end

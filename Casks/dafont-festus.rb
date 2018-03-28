@@ -5,7 +5,6 @@ cask 'dafont-festus' do
     url 'http://dl.dafont.com/dl/?f=festus'
     name 'Festus!'
     homepage 'http://www.dafont.com/festus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'festus!.ttf'
 end

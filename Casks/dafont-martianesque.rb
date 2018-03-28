@@ -5,7 +5,6 @@ cask 'dafont-martianesque' do
     url 'http://dl.dafont.com/dl/?f=martianesque'
     name 'Martianesque'
     homepage 'http://www.dafont.com/martianesque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Martianesque.ttf'
 end

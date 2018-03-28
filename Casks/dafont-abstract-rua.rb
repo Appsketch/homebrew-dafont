@@ -5,7 +5,6 @@ cask 'dafont-abstract-rua' do
     url 'http://dl.dafont.com/dl/?f=abstract_rua'
     name 'Abstract Rua'
     homepage 'http://www.dafont.com/abstract-rua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'abstract001.ttf'
 end

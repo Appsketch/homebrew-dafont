@@ -5,7 +5,6 @@ cask 'dafont-greatshake' do
     url 'http://dl.dafont.com/dl/?f=greatshake'
     name 'Great Shake'
     homepage 'http://www.dafont.com/greatshake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreatShake.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-in-the-streets-of-europe' do
     url 'http://dl.dafont.com/dl/?f=in_the_streets_of_europe'
     name 'In the streets of Europe'
     homepage 'http://www.dafont.com/in-the-streets-of-europe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'in_the_streets_of_europe.ttf'
 end

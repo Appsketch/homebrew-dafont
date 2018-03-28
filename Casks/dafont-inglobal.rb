@@ -5,7 +5,6 @@ cask 'dafont-inglobal' do
     url 'http://dl.dafont.com/dl/?f=inglobal'
     name 'Inglobal'
     homepage 'http://www.dafont.com/inglobal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'inglobal.ttf'
     font 'inglobalb.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-classicsketches' do
     url 'http://dl.dafont.com/dl/?f=classicsketches'
     name 'Classic Sketches'
     homepage 'http://www.dafont.com/classicsketches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Classic Sketches.ttf'
 end

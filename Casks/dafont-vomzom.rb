@@ -5,7 +5,6 @@ cask 'dafont-vomzom' do
     url 'http://dl.dafont.com/dl/?f=vomzom'
     name 'VomZom'
     homepage 'http://www.dafont.com/vomzom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vomzom.ttf'
 end

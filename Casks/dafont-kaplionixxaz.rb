@@ -5,7 +5,6 @@ cask 'dafont-kaplionixxaz' do
     url 'http://dl.dafont.com/dl/?f=kaplionixxaz'
     name 'Kaplionixxaz'
     homepage 'http://www.dafont.com/kaplionixxaz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kaplionixxaz Full.ttf'
 end

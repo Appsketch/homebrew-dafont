@@ -5,7 +5,6 @@ cask 'dafont-an-ode-to-noone' do
     url 'http://dl.dafont.com/dl/?f=an_ode_to_noone'
     name 'An ode to noone'
     homepage 'http://www.dafont.com/an-ode-to-noone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANODETONOONE.TTF'
 end

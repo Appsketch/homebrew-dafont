@@ -5,7 +5,6 @@ cask 'dafont-snubfighter' do
     url 'http://dl.dafont.com/dl/?f=snubfighter'
     name 'Snubfighter'
     homepage 'http://www.dafont.com/snubfighter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'snubfighter.ttf'
     font 'snubfighter3d.ttf'

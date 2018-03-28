@@ -5,7 +5,6 @@ cask 'dafont-thorup-sans' do
     url 'http://dl.dafont.com/dl/?f=thorup_sans'
     name 'Thorup Sans'
     homepage 'http://www.dafont.com/thorup-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thorup Sans Bold Italic.ttf'
     font 'Thorup Sans Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-ornametss-tfb' do
     url 'http://dl.dafont.com/dl/?f=ornametss_tfb'
     name 'Ornametss TFB'
     homepage 'http://www.dafont.com/ornametss-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ornametss tfb.ttf'
 end

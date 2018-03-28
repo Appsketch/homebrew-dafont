@@ -5,7 +5,6 @@ cask 'dafont-kr-cupids' do
     url 'http://dl.dafont.com/dl/?f=kr_cupids'
     name 'KR Cupids'
     homepage 'http://www.dafont.com/kr-cupids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Cupids.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stay-true' do
     url 'http://dl.dafont.com/dl/?f=stay_true'
     name 'Stay true'
     homepage 'http://www.dafont.com/stay-true.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stay true.ttf'
 end

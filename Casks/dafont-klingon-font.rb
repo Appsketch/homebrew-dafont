@@ -5,7 +5,6 @@ cask 'dafont-klingon-font' do
     url 'http://dl.dafont.com/dl/?f=klingon_font'
     name 'Klingon'
     homepage 'http://www.dafont.com/klingon-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'klingon font.ttf'
 end

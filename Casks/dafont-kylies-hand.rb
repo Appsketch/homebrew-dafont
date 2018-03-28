@@ -5,7 +5,6 @@ cask 'dafont-kylies-hand' do
     url 'http://dl.dafont.com/dl/?f=kylies_hand'
     name 'Kylie&#039;s hand'
     homepage 'http://www.dafont.com/kylies-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kylie s hand.ttf'
 end

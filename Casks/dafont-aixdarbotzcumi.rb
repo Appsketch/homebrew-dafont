@@ -5,7 +5,6 @@ cask 'dafont-aixdarbotzcumi' do
     url 'http://dl.dafont.com/dl/?f=aixdarbotzcumi'
     name 'AIx Darbotzcumi'
     homepage 'http://www.dafont.com/aixdarbotzcumi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AIxDB-CUMI.TTF'
 end

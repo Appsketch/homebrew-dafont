@@ -5,7 +5,6 @@ cask 'dafont-101-heart-framed' do
     url 'http://dl.dafont.com/dl/?f=101_heart_framed'
     name '101! Heart Framed'
     homepage 'http://www.dafont.com/101-heart-framed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '101HeartFramed.ttf'
 end

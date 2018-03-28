@@ -5,7 +5,6 @@ cask 'dafont-magic-fleurons' do
     url 'http://dl.dafont.com/dl/?f=magic_fleurons'
     name 'Magic Fleurons'
     homepage 'http://www.dafont.com/magic-fleurons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Magic Fleurons NC.ttf'
 end

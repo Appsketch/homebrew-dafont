@@ -5,7 +5,6 @@ cask 'dafont-ash' do
     url 'http://dl.dafont.com/dl/?f=ash'
     name 'Ash'
     homepage 'http://www.dafont.com/ash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ash.ttf'
 end

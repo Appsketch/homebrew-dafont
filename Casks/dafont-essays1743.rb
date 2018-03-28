@@ -5,7 +5,6 @@ cask 'dafont-essays1743' do
     url 'http://dl.dafont.com/dl/?f=essays1743'
     name 'Essays 1743'
     homepage 'http://www.dafont.com/essays1743.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Essays1743-Bold.ttf'
     font 'Essays1743-BoldItalic.ttf'

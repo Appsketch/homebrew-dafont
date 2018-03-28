@@ -5,7 +5,6 @@ cask 'dafont-rocka' do
     url 'http://dl.dafont.com/dl/?f=rocka'
     name 'Rocka'
     homepage 'http://www.dafont.com/rocka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROCKA.ttf'
 end

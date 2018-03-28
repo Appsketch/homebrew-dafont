@@ -5,7 +5,6 @@ cask 'dafont-sanders-scribble' do
     url 'http://dl.dafont.com/dl/?f=sanders_scribble'
     name 'Sander&#039;s Scribble'
     homepage 'http://www.dafont.com/sanders-scribble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SandersScribble.ttf'
 end

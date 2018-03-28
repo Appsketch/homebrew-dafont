@@ -5,7 +5,6 @@ cask 'dafont-manophiser' do
     url 'http://dl.dafont.com/dl/?f=manophiser'
     name 'Manophiser'
     homepage 'http://www.dafont.com/manophiser.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Manophiser.otf'
 end

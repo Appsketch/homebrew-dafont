@@ -5,7 +5,6 @@ cask 'dafont-amphibiprint' do
     url 'http://dl.dafont.com/dl/?f=amphibiprint'
     name 'AmphibiPrint'
     homepage 'http://www.dafont.com/amphibiprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AMPHP___.TTF'
 end

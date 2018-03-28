@@ -5,7 +5,6 @@ cask 'dafont-bulky-refuse' do
     url 'http://dl.dafont.com/dl/?f=bulky_refuse'
     name 'Bulky Refuse Type'
     homepage 'http://www.dafont.com/bulky-refuse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bulkeyRefuse.ttf'
 end

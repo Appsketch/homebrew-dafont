@@ -5,7 +5,6 @@ cask 'dafont-beautiful-flaws' do
     url 'http://dl.dafont.com/dl/?f=beautiful_flaws'
     name 'Beautiful Flaws'
     homepage 'http://www.dafont.com/beautiful-flaws.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beautifulflaws.ttf'
 end

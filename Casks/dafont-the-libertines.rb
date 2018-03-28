@@ -5,7 +5,6 @@ cask 'dafont-the-libertines' do
     url 'http://dl.dafont.com/dl/?f=the_libertines'
     name 'The Libertines'
     homepage 'http://www.dafont.com/the-libertines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Libertines-GERSAN BORGE.ttf'
 end

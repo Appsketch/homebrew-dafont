@@ -5,7 +5,6 @@ cask 'dafont-factory-worker' do
     url 'http://dl.dafont.com/dl/?f=factory_worker'
     name 'Factory Worker'
     homepage 'http://www.dafont.com/factory-worker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'factory worker.ttf'
 end

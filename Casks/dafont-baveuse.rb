@@ -5,7 +5,6 @@ cask 'dafont-baveuse' do
     url 'http://dl.dafont.com/dl/?f=baveuse'
     name 'Baveuse'
     homepage 'http://www.dafont.com/baveuse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'baveuse 3d.ttf'
     font 'baveuse.ttf'

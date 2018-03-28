@@ -5,7 +5,6 @@ cask 'dafont-naxos' do
     url 'http://dl.dafont.com/dl/?f=naxos'
     name 'Naxos'
     homepage 'http://www.dafont.com/naxos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NAXOSB.TTF'
     font 'NAXOSBI.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-gesture-brk' do
     url 'http://dl.dafont.com/dl/?f=gesture_brk'
     name 'Gesture'
     homepage 'http://www.dafont.com/gesture-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gesture.ttf'
     font 'gestures.ttf'

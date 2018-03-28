@@ -5,7 +5,6 @@ cask 'dafont-tubagus-rangga-efarasti' do
     url 'http://dl.dafont.com/dl/?f=tubagus_rangga_efarasti'
     name 'Tubagus Rangga Efarasti'
     homepage 'http://www.dafont.com/tubagus-rangga-efarasti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '{Tubagus Rangga Efarasti}.ttf'
 end

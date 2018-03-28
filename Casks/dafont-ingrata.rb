@@ -5,7 +5,6 @@ cask 'dafont-ingrata' do
     url 'http://dl.dafont.com/dl/?f=ingrata'
     name 'Ingrata'
     homepage 'http://www.dafont.com/ingrata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ingrata.otf'
 end

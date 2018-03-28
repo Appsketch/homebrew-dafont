@@ -5,7 +5,6 @@ cask 'dafont-team-401' do
     url 'http://dl.dafont.com/dl/?f=team_401'
     name 'Team 401'
     homepage 'http://www.dafont.com/team-401.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Team 401.ttf'
 end

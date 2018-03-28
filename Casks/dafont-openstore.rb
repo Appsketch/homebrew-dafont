@@ -5,7 +5,6 @@ cask 'dafont-openstore' do
     url 'http://dl.dafont.com/dl/?f=openstore'
     name 'Open Store'
     homepage 'http://www.dafont.com/openstore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OpenStore.ttf'
 end

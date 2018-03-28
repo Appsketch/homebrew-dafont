@@ -5,7 +5,6 @@ cask 'dafont-tengwar-teleri' do
     url 'http://dl.dafont.com/dl/?f=tengwar_teleri'
     name 'Tengwar Teleri'
     homepage 'http://www.dafont.com/tengwar-teleri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tengwar Telerin.ttf'
 end

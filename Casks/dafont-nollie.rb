@@ -5,7 +5,6 @@ cask 'dafont-nollie' do
     url 'http://dl.dafont.com/dl/?f=nollie'
     name 'Nollie'
     homepage 'http://www.dafont.com/nollie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOLLIE.ttf'
 end

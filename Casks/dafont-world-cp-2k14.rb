@@ -5,7 +5,6 @@ cask 'dafont-world-cp-2k14' do
     url 'http://dl.dafont.com/dl/?f=world_cp_2k14'
     name 'World C&#039;p 2k14'
     homepage 'http://www.dafont.com/world-cp-2k14.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wc_2k14.ttf'
 end

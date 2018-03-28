@@ -5,7 +5,6 @@ cask 'dafont-7th-service' do
     url 'http://dl.dafont.com/dl/?f=7th_service'
     name '7th Service'
     homepage 'http://www.dafont.com/7th-service.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '7thservice.ttf'
     font '7thservice3d.ttf'

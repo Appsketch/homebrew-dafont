@@ -5,7 +5,6 @@ cask 'dafont-smeared' do
     url 'http://dl.dafont.com/dl/?f=smeared'
     name 'Smeared'
     homepage 'http://www.dafont.com/smeared.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smeared.ttf'
 end

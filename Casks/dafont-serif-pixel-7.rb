@@ -5,7 +5,6 @@ cask 'dafont-serif-pixel-7' do
     url 'http://dl.dafont.com/dl/?f=serif_pixel_7'
     name 'Serif Pixel-7'
     homepage 'http://www.dafont.com/serif-pixel-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'serif_pixel-7.ttf'
 end

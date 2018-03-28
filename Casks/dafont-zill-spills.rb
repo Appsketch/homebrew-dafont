@@ -5,7 +5,6 @@ cask 'dafont-zill-spills' do
     url 'http://dl.dafont.com/dl/?f=zill_spills'
     name 'Zill Spills'
     homepage 'http://www.dafont.com/zill-spills.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zill_spills.ttf'
 end

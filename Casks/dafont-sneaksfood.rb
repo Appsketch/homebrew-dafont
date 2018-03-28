@@ -5,7 +5,6 @@ cask 'dafont-sneaksfood' do
     url 'http://dl.dafont.com/dl/?f=sneaksfood'
     name 'Sneaks food'
     homepage 'http://www.dafont.com/sneaksfood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sneaksfood.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-posterbold' do
     url 'http://dl.dafont.com/dl/?f=posterbold'
     name 'PosterBold'
     homepage 'http://www.dafont.com/posterbold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PosterBold.ttf'
 end

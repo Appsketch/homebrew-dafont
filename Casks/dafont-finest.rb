@@ -5,7 +5,6 @@ cask 'dafont-finest' do
     url 'http://dl.dafont.com/dl/?f=finest'
     name 'Finest'
     homepage 'http://www.dafont.com/finest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Finest.ttf'
 end

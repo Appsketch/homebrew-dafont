@@ -5,7 +5,6 @@ cask 'dafont-subway-ticker' do
     url 'http://dl.dafont.com/dl/?f=subway_ticker'
     name 'Subway Ticker'
     homepage 'http://www.dafont.com/subway-ticker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SubwayTickerGrid.ttf'
     font 'SUBWT___.ttf'

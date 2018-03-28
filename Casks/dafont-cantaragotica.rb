@@ -5,7 +5,6 @@ cask 'dafont-cantaragotica' do
     url 'http://dl.dafont.com/dl/?f=cantaragotica'
     name 'Cantara Gotica'
     homepage 'http://www.dafont.com/cantaragotica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CantaraGotica.ttf'
 end

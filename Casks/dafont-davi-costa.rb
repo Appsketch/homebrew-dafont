@@ -5,7 +5,6 @@ cask 'dafont-davi-costa' do
     url 'http://dl.dafont.com/dl/?f=davi_costa'
     name 'Davi Costa'
     homepage 'http://www.dafont.com/davi-costa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Davi Costa (public).ttf'
 end

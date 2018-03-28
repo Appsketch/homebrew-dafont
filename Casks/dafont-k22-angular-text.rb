@@ -5,7 +5,6 @@ cask 'dafont-k22-angular-text' do
     url 'http://dl.dafont.com/dl/?f=k22_angular_text'
     name 'K22 Angular Text'
     homepage 'http://www.dafont.com/k22-angular-text.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K22 Angular Text.ttf'
 end

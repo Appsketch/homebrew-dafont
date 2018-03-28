@@ -5,7 +5,6 @@ cask 'dafont-anger-management' do
     url 'http://dl.dafont.com/dl/?f=anger_management'
     name 'Anger Management'
     homepage 'http://www.dafont.com/anger-management.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anger Management.ttf'
 end

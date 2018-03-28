@@ -5,7 +5,6 @@ cask 'dafont-ornad-dentro-tfb' do
     url 'http://dl.dafont.com/dl/?f=ornad_dentro_tfb'
     name 'Ornad Dentro TFB'
     homepage 'http://www.dafont.com/ornad-dentro-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ORNAD dentro tfb.ttf'
 end

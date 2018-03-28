@@ -5,7 +5,6 @@ cask 'dafont-pretty-things' do
     url 'http://dl.dafont.com/dl/?f=pretty_things'
     name 'Pretty Things'
     homepage 'http://www.dafont.com/pretty-things.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrettyThings.ttf'
 end

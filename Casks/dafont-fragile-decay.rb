@@ -5,7 +5,6 @@ cask 'dafont-fragile-decay' do
     url 'http://dl.dafont.com/dl/?f=fragile_decay'
     name 'Fragile Decay'
     homepage 'http://www.dafont.com/fragile-decay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fragile Decay.ttf'
 end

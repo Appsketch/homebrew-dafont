@@ -5,7 +5,6 @@ cask 'dafont-expressway' do
     url 'http://dl.dafont.com/dl/?f=expressway'
     name 'Expressway'
     homepage 'http://www.dafont.com/expressway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'expressway rg.ttf'
 end

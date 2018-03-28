@@ -5,7 +5,6 @@ cask 'dafont-chiquifont' do
     url 'http://dl.dafont.com/dl/?f=chiquifont'
     name 'ChiquiFont'
     homepage 'http://www.dafont.com/chiquifont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Font_Doll.ttf'
 end

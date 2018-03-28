@@ -5,7 +5,6 @@ cask 'dafont-the-past-g' do
     url 'http://dl.dafont.com/dl/?f=the_past_g'
     name 'The Past G'
     homepage 'http://www.dafont.com/the-past-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_the_past.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-transient' do
     url 'http://dl.dafont.com/dl/?f=transient'
     name 'Transient'
     homepage 'http://www.dafont.com/transient.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'transient_bold.ttf'
     font 'transient_light.ttf'

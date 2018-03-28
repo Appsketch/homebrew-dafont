@@ -5,7 +5,6 @@ cask 'dafont-sweet-candy-trees' do
     url 'http://dl.dafont.com/dl/?f=sweet_candy_trees'
     name 'Sweet Candy Trees'
     homepage 'http://www.dafont.com/sweet-candy-trees.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sweet Candy Trees.ttf'
 end

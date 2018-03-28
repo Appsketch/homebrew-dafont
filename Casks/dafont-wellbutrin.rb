@@ -5,7 +5,6 @@ cask 'dafont-wellbutrin' do
     url 'http://dl.dafont.com/dl/?f=wellbutrin'
     name 'Wellbutrin'
     homepage 'http://www.dafont.com/wellbutrin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Welbut__.ttf'
 end

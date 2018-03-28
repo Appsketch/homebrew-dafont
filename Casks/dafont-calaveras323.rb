@@ -5,7 +5,6 @@ cask 'dafont-calaveras323' do
     url 'http://dl.dafont.com/dl/?f=calaveras323'
     name 'Calaveras'
     homepage 'http://www.dafont.com/calaveras323.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'calavera323.ttf'
 end

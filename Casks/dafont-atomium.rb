@@ -5,7 +5,6 @@ cask 'dafont-atomium' do
     url 'http://dl.dafont.com/dl/?f=atomium'
     name 'Atomium'
     homepage 'http://www.dafont.com/atomium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ATOMIUM_.TTF'
 end

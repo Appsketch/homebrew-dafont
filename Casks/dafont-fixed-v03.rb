@@ -5,7 +5,6 @@ cask 'dafont-fixed-v03' do
     url 'http://dl.dafont.com/dl/?f=fixed_v03'
     name 'Fixed_v03'
     homepage 'http://www.dafont.com/fixed-v03.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FIXED_V0.TTF'
 end

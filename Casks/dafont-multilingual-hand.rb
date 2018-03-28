@@ -5,7 +5,6 @@ cask 'dafont-multilingual-hand' do
     url 'http://dl.dafont.com/dl/?f=multilingual_hand'
     name 'Multilingual Hand'
     homepage 'http://www.dafont.com/multilingual-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Multilingual Hand.ttf'
 end

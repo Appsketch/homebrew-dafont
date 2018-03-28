@@ -5,7 +5,6 @@ cask 'dafont-baqacents' do
     url 'http://dl.dafont.com/dl/?f=baqacents'
     name 'Baqacents'
     homepage 'http://www.dafont.com/baqacents.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baqacents  Semibold.ttf'
 end

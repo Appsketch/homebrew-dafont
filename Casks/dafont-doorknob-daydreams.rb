@@ -5,7 +5,6 @@ cask 'dafont-doorknob-daydreams' do
     url 'http://dl.dafont.com/dl/?f=doorknob_daydreams'
     name 'Doorknob Daydreams'
     homepage 'http://www.dafont.com/doorknob-daydreams.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doorknob Daydreams.ttf'
 end

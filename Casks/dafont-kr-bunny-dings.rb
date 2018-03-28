@@ -5,7 +5,6 @@ cask 'dafont-kr-bunny-dings' do
     url 'http://dl.dafont.com/dl/?f=kr_bunny_dings'
     name 'KR Bunny Dings'
     homepage 'http://www.dafont.com/kr-bunny-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Bunny Dings.ttf'
 end

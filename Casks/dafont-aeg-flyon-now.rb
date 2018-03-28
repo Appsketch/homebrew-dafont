@@ -5,7 +5,6 @@ cask 'dafont-aeg-flyon-now' do
     url 'http://dl.dafont.com/dl/?f=aeg_flyon_now'
     name 'Aeg Flyon Now'
     homepage 'http://www.dafont.com/aeg-flyon-now.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aeg Flyon Now bold cursive.ttf'
     font 'Aeg Flyon Now bold.ttf'

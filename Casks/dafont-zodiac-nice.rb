@@ -5,7 +5,6 @@ cask 'dafont-zodiac-nice' do
     url 'http://dl.dafont.com/dl/?f=zodiac_nice'
     name 'Zodiac Nice'
     homepage 'http://www.dafont.com/zodiac-nice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zodiac_Nice.ttf'
 end

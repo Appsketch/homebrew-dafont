@@ -5,7 +5,6 @@ cask 'dafont-skeleton-key' do
     url 'http://dl.dafont.com/dl/?f=skeleton_key'
     name 'Skeleton Key'
     homepage 'http://www.dafont.com/skeleton-key.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skeleton Key.ttf'
 end

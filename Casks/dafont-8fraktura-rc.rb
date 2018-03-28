@@ -5,7 +5,6 @@ cask 'dafont-8fraktura-rc' do
     url 'http://dl.dafont.com/dl/?f=8fraktura_rc'
     name '8Fraktura RC'
     homepage 'http://www.dafont.com/8fraktura-rc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '8fraktura_rc_0.ttf'
 end

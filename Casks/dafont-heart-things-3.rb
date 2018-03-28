@@ -5,7 +5,6 @@ cask 'dafont-heart-things-3' do
     url 'http://dl.dafont.com/dl/?f=heart_things_3'
     name 'Heart Things 3'
     homepage 'http://www.dafont.com/heart-things-3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'heartthings3.ttf'
 end

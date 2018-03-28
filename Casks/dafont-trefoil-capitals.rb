@@ -5,7 +5,6 @@ cask 'dafont-trefoil-capitals' do
     url 'http://dl.dafont.com/dl/?f=trefoil_capitals'
     name 'Trefoil Capitals'
     homepage 'http://www.dafont.com/trefoil-capitals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TREFOIL.TTF'
 end

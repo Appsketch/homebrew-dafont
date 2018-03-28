@@ -5,7 +5,6 @@ cask 'dafont-5winter-sans' do
     url 'http://dl.dafont.com/dl/?f=5winter_sans'
     name '5 Winter Sans'
     homepage 'http://www.dafont.com/5winter-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5winter_sans.ttf'
 end

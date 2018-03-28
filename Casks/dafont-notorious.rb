@@ -5,7 +5,6 @@ cask 'dafont-notorious' do
     url 'http://dl.dafont.com/dl/?f=notorious'
     name 'Notorious'
     homepage 'http://www.dafont.com/notorious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'notorious.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cazoom' do
     url 'http://dl.dafont.com/dl/?f=cazoom'
     name 'CaZOOM'
     homepage 'http://www.dafont.com/cazoom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cazoom.ttf'
 end

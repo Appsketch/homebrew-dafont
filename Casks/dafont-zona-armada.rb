@@ -5,7 +5,6 @@ cask 'dafont-zona-armada' do
     url 'http://dl.dafont.com/dl/?f=zona_armada'
     name 'Zona Armada'
     homepage 'http://www.dafont.com/zona-armada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zonaarmada.ttf'
 end

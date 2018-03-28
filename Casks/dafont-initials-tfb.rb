@@ -5,7 +5,6 @@ cask 'dafont-initials-tfb' do
     url 'http://dl.dafont.com/dl/?f=initials_tfb'
     name 'Initials TFB'
     homepage 'http://www.dafont.com/initials-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Initials TFB.ttf'
 end

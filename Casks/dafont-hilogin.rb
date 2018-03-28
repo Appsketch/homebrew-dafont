@@ -5,7 +5,6 @@ cask 'dafont-hilogin' do
     url 'http://dl.dafont.com/dl/?f=hilogin'
     name 'Hilogin'
     homepage 'http://www.dafont.com/hilogin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HILOGI18.ttf'
     font 'HILOGI71.ttf'

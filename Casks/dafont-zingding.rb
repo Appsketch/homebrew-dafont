@@ -5,7 +5,6 @@ cask 'dafont-zingding' do
     url 'http://dl.dafont.com/dl/?f=zingding'
     name 'ZingDing'
     homepage 'http://www.dafont.com/zingding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZINGDING.TTF'
 end

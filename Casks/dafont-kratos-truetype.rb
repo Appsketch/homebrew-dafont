@@ -5,7 +5,6 @@ cask 'dafont-kratos-truetype' do
     url 'http://dl.dafont.com/dl/?f=kratos_truetype'
     name 'Kratos TrueType'
     homepage 'http://www.dafont.com/kratos-truetype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kratos TrueType.ttf'
 end

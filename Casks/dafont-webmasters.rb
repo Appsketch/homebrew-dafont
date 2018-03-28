@@ -5,7 +5,6 @@ cask 'dafont-webmasters' do
     url 'http://dl.dafont.com/dl/?f=webmasters'
     name 'Webmasters'
     homepage 'http://www.dafont.com/webmasters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Webmasters.ttf'
 end

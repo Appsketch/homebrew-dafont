@@ -5,7 +5,6 @@ cask 'dafont-halusinasi' do
     url 'http://dl.dafont.com/dl/?f=halusinasi'
     name 'Halusinasi'
     homepage 'http://www.dafont.com/halusinasi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'halusinasi penuh.ttf'
     font 'halusinasi.ttf'

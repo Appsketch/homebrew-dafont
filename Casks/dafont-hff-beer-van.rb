@@ -5,7 +5,6 @@ cask 'dafont-hff-beer-van' do
     url 'http://dl.dafont.com/dl/?f=hff_beer_van'
     name 'HFF Beer Van'
     homepage 'http://www.dafont.com/hff-beer-van.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Beer Van.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blessed-day' do
     url 'http://dl.dafont.com/dl/?f=blessed_day'
     name 'Blessed Day'
     homepage 'http://www.dafont.com/blessed-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLESD___ .ttf'
 end

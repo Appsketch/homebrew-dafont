@@ -5,7 +5,6 @@ cask 'dafont-quick-express' do
     url 'http://dl.dafont.com/dl/?f=quick_express'
     name 'Quick Express'
     homepage 'http://www.dafont.com/quick-express.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuickExpress.ttf'
 end

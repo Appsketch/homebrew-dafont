@@ -5,7 +5,6 @@ cask 'dafont-ll-tippa' do
     url 'http://dl.dafont.com/dl/?f=ll_tippa'
     name 'LL Tippa'
     homepage 'http://www.dafont.com/ll-tippa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLTIPPA_.TTF'
 end

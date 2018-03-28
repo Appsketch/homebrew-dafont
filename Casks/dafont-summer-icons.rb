@@ -5,7 +5,6 @@ cask 'dafont-summer-icons' do
     url 'http://dl.dafont.com/dl/?f=summer_icons'
     name 'Summer Icons'
     homepage 'http://www.dafont.com/summer-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Summer Icons.ttf'
 end

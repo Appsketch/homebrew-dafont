@@ -5,7 +5,6 @@ cask 'dafont-fsm-sans' do
     url 'http://dl.dafont.com/dl/?f=fsm_sans'
     name 'FSM Sans'
     homepage 'http://www.dafont.com/fsm-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fsm_sans.ttf'
 end

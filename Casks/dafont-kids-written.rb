@@ -5,7 +5,6 @@ cask 'dafont-kids-written' do
     url 'http://dl.dafont.com/dl/?f=kids_written'
     name 'Kids Written'
     homepage 'http://www.dafont.com/kids-written.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kidS Written.otf'
 end

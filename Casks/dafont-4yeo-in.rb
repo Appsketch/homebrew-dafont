@@ -5,7 +5,6 @@ cask 'dafont-4yeo-in' do
     url 'http://dl.dafont.com/dl/?f=4yeo_in'
     name '4Yeo In/Out'
     homepage 'http://www.dafont.com/4yeo-in.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '4YEOIN__.TTF'
     font '4YEOOUT_.TTF'

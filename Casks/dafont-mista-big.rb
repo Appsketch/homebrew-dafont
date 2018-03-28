@@ -5,7 +5,6 @@ cask 'dafont-mista-big' do
     url 'http://dl.dafont.com/dl/?f=mista_big'
     name 'Mista Big'
     homepage 'http://www.dafont.com/mista-big.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MR BIG.ttf'
 end

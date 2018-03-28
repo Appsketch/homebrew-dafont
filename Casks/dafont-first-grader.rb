@@ -5,7 +5,6 @@ cask 'dafont-first-grader' do
     url 'http://dl.dafont.com/dl/?f=first_grader'
     name 'First Grader'
     homepage 'http://www.dafont.com/first-grader.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'First Grader.ttf'
 end

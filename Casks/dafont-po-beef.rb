@@ -5,7 +5,6 @@ cask 'dafont-po-beef' do
     url 'http://dl.dafont.com/dl/?f=po_beef'
     name 'Po Beef'
     homepage 'http://www.dafont.com/po-beef.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'po beef.ttf'
 end

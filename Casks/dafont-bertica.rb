@@ -5,7 +5,6 @@ cask 'dafont-bertica' do
     url 'http://dl.dafont.com/dl/?f=bertica'
     name 'Bertica'
     homepage 'http://www.dafont.com/bertica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bertica-Regular.ttf'
 end

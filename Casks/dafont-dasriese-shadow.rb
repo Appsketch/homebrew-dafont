@@ -5,7 +5,6 @@ cask 'dafont-dasriese-shadow' do
     url 'http://dl.dafont.com/dl/?f=dasriese_shadow'
     name 'DasRiese Shadow'
     homepage 'http://www.dafont.com/dasriese-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DasRiese Shadow.ttf'
 end

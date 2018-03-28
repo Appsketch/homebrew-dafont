@@ -5,7 +5,6 @@ cask 'dafont-janda-romantic' do
     url 'http://dl.dafont.com/dl/?f=janda_romantic'
     name 'Janda Romantic'
     homepage 'http://www.dafont.com/janda-romantic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaRomantic.ttf'
 end

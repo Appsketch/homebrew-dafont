@@ -5,7 +5,6 @@ cask 'dafont-bro-4d' do
     url 'http://dl.dafont.com/dl/?f=bro_4d'
     name 'Bro 4D'
     homepage 'http://www.dafont.com/bro-4d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bro_4D_Demo.otf'
 end

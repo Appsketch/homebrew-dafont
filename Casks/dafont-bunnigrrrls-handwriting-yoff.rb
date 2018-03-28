@@ -5,7 +5,6 @@ cask 'dafont-bunnigrrrls-handwriting-yoff' do
     url 'http://dl.dafont.com/dl/?f=bunnigrrrls_handwriting_yoff'
     name 'Bunnigrrrls Handwriting YOFF'
     homepage 'http://www.dafont.com/bunnigrrrls-handwriting-yoff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BunnigirlshandYOFF.otf'
 end

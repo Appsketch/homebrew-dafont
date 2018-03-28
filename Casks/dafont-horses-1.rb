@@ -5,7 +5,6 @@ cask 'dafont-horses-1' do
     url 'http://dl.dafont.com/dl/?f=horses_1'
     name 'Horses 1'
     homepage 'http://www.dafont.com/horses-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Horses 1.ttf'
 end

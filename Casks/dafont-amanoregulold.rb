@@ -5,7 +5,6 @@ cask 'dafont-amanoregulold' do
     url 'http://dl.dafont.com/dl/?f=amanoregulold'
     name 'A Mano Regulold'
     homepage 'http://www.dafont.com/amanoregulold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AManoRegulold.ttf'
 end

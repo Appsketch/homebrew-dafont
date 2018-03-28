@@ -5,7 +5,6 @@ cask 'dafont-sound-sample' do
     url 'http://dl.dafont.com/dl/?f=sound_sample'
     name 'Sound-Sample'
     homepage 'http://www.dafont.com/sound-sample.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sound-Sample.ttf'
 end

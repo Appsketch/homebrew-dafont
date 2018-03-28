@@ -5,7 +5,6 @@ cask 'dafont-fairland' do
     url 'http://dl.dafont.com/dl/?f=fairland'
     name 'Fairland'
     homepage 'http://www.dafont.com/fairland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fairland_groove.ttf'
     font 'Fairland.ttf'

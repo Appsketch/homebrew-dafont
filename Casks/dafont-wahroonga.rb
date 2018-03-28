@@ -5,7 +5,6 @@ cask 'dafont-wahroonga' do
     url 'http://dl.dafont.com/dl/?f=wahroonga'
     name 'Wahroonga'
     homepage 'http://www.dafont.com/wahroonga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wahroonga.ttf'
 end

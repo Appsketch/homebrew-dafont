@@ -5,7 +5,6 @@ cask 'dafont-little-principessa' do
     url 'http://dl.dafont.com/dl/?f=little_principessa'
     name 'Little Principessa'
     homepage 'http://www.dafont.com/little-principessa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Little Principessa.ttf'
 end

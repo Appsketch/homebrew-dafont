@@ -5,7 +5,6 @@ cask 'dafont-fundamental-brigade' do
     url 'http://dl.dafont.com/dl/?f=fundamental_brigade'
     name 'Fundamental Brigade'
     homepage 'http://www.dafont.com/fundamental-brigade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fundamental 3D Brigade.ttf'
     font 'Fundamental Brigade Condensed.ttf'

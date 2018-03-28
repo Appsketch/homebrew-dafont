@@ -5,7 +5,6 @@ cask 'dafont-bluprint' do
     url 'http://dl.dafont.com/dl/?f=bluprint'
     name 'Bluprint'
     homepage 'http://www.dafont.com/bluprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BluprintDEMO.otf'
 end

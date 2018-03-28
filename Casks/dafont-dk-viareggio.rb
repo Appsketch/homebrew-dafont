@@ -5,7 +5,6 @@ cask 'dafont-dk-viareggio' do
     url 'http://dl.dafont.com/dl/?f=dk_viareggio'
     name 'DK Viareggio'
     homepage 'http://www.dafont.com/dk-viareggio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Viareggio.otf'
 end

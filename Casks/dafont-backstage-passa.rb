@@ -5,7 +5,6 @@ cask 'dafont-backstage-passa' do
     url 'http://dl.dafont.com/dl/?f=backstage_passa'
     name 'Backstage-PassA'
     homepage 'http://www.dafont.com/backstage-passa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BACKSTAG.TTF'
 end

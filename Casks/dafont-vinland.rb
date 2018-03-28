@@ -5,7 +5,6 @@ cask 'dafont-vinland' do
     url 'http://dl.dafont.com/dl/?f=vinland'
     name 'Vinland'
     homepage 'http://www.dafont.com/vinland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vinland.ttf'
 end

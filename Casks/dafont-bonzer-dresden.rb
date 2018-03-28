@@ -5,7 +5,6 @@ cask 'dafont-bonzer-dresden' do
     url 'http://dl.dafont.com/dl/?f=bonzer_dresden'
     name 'Bonzer Dresden'
     homepage 'http://www.dafont.com/bonzer-dresden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonzer - Dresden.ttf'
 end

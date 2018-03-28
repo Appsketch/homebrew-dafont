@@ -5,7 +5,6 @@ cask 'dafont-karabey' do
     url 'http://dl.dafont.com/dl/?f=karabey'
     name 'Karabey'
     homepage 'http://www.dafont.com/karabey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Karabey.ttf'
 end

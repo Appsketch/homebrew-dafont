@@ -5,7 +5,6 @@ cask 'dafont-dk-pingo' do
     url 'http://dl.dafont.com/dl/?f=dk_pingo'
     name 'DK Pingo'
     homepage 'http://www.dafont.com/dk-pingo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Pingo.otf'
 end

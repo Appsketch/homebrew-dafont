@@ -5,7 +5,6 @@ cask 'dafont-the-light-brigade' do
     url 'http://dl.dafont.com/dl/?f=the_light_brigade'
     name 'The Light Brigade'
     homepage 'http://www.dafont.com/the-light-brigade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Light Brigade.otf'
 end

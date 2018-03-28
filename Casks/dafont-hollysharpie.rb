@@ -5,7 +5,6 @@ cask 'dafont-hollysharpie' do
     url 'http://dl.dafont.com/dl/?f=hollysharpie'
     name 'Holly Sharpie'
     homepage 'http://www.dafont.com/hollysharpie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HollySharpie.ttf'
 end

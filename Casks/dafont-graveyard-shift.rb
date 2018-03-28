@@ -5,7 +5,6 @@ cask 'dafont-graveyard-shift' do
     url 'http://dl.dafont.com/dl/?f=graveyard_shift'
     name 'Graveyard Shift'
     homepage 'http://www.dafont.com/graveyard-shift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRAVS___.TTF'
 end

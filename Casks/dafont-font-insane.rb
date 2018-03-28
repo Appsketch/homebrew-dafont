@@ -5,7 +5,6 @@ cask 'dafont-font-insane' do
     url 'http://dl.dafont.com/dl/?f=font_insane'
     name 'Font Insane'
     homepage 'http://www.dafont.com/font-insane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Font Insane.ttf'
 end

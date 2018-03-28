@@ -5,7 +5,6 @@ cask 'dafont-superbling' do
     url 'http://dl.dafont.com/dl/?f=superbling'
     name 'SuperBling'
     homepage 'http://www.dafont.com/superbling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuperBling.ttf'
 end

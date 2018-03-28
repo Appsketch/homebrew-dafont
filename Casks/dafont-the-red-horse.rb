@@ -5,7 +5,6 @@ cask 'dafont-the-red-horse' do
     url 'http://dl.dafont.com/dl/?f=the_red_horse'
     name 'The Red Horse'
     homepage 'http://www.dafont.com/the-red-horse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THE RED HORSE.ttf'
 end

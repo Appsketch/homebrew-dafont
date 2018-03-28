@@ -5,7 +5,6 @@ cask 'dafont-hsfskinnytowers' do
     url 'http://dl.dafont.com/dl/?f=hsfskinnytowers'
     name 'Hsf Skinny Towers'
     homepage 'http://www.dafont.com/hsfskinnytowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HsfSkinnyTowers.ttf'
 end

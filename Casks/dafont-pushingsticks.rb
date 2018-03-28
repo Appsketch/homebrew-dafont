@@ -5,7 +5,6 @@ cask 'dafont-pushingsticks' do
     url 'http://dl.dafont.com/dl/?f=pushingsticks'
     name 'Pushing Sticks'
     homepage 'http://www.dafont.com/pushingsticks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PushingSticks.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-creator-campotype-smcp' do
     url 'http://dl.dafont.com/dl/?f=creator_campotype_smcp'
     name 'Creator Campotype Smcp'
     homepage 'http://www.dafont.com/creator-campotype-smcp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Creator_Campotype_smcp.otf'
 end

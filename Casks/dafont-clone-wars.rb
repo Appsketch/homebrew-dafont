@@ -5,7 +5,6 @@ cask 'dafont-clone-wars' do
     url 'http://dl.dafont.com/dl/?f=clone_wars'
     name 'Clone Wars'
     homepage 'http://www.dafont.com/clone-wars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'clonewars2.ttf'
 end

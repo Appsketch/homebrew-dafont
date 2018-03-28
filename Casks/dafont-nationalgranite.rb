@@ -5,7 +5,6 @@ cask 'dafont-nationalgranite' do
     url 'http://dl.dafont.com/dl/?f=nationalgranite'
     name 'National Granite'
     homepage 'http://www.dafont.com/nationalgranite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NationalGranite-Regular.otf'
 end

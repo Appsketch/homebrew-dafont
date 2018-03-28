@@ -5,7 +5,6 @@ cask 'dafont-zit-graffiti' do
     url 'http://dl.dafont.com/dl/?f=zit_graffiti'
     name 'Zit Graffiti'
     homepage 'http://www.dafont.com/zit-graffiti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZITGRAFF.TTF'
 end

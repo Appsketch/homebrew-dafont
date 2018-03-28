@@ -5,7 +5,6 @@ cask 'dafont-rayada-tfb' do
     url 'http://dl.dafont.com/dl/?f=rayada_tfb'
     name 'Rayada TFB'
     homepage 'http://www.dafont.com/rayada-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rayada tfb.ttf'
 end

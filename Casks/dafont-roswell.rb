@@ -5,7 +5,6 @@ cask 'dafont-roswell' do
     url 'http://dl.dafont.com/dl/?f=roswell'
     name 'Roswell'
     homepage 'http://www.dafont.com/roswell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Roswell.TTF'
 end

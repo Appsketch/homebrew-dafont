@@ -5,7 +5,6 @@ cask 'dafont-flora' do
     url 'http://dl.dafont.com/dl/?f=flora'
     name 'Flora'
     homepage 'http://www.dafont.com/flora.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flora.ttf'
 end

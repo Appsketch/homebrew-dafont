@@ -5,7 +5,6 @@ cask 'dafont-daybreaker' do
     url 'http://dl.dafont.com/dl/?f=daybreaker'
     name 'Daybreaker'
     homepage 'http://www.dafont.com/daybreaker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Daybrakr.ttf'
 end

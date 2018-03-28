@@ -5,7 +5,6 @@ cask 'dafont-abandon-alphabeta' do
     url 'http://dl.dafont.com/dl/?f=abandon_alphabeta'
     name 'Abandon Alphabeta'
     homepage 'http://www.dafont.com/abandon-alphabeta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abandon Alphabeta.ttf'
 end

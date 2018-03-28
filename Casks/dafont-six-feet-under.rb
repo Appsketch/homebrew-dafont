@@ -5,7 +5,6 @@ cask 'dafont-six-feet-under' do
     url 'http://dl.dafont.com/dl/?f=six_feet_under'
     name 'Six feet under'
     homepage 'http://www.dafont.com/six-feet-under.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Six feet under.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cereal-killerz' do
     url 'http://dl.dafont.com/dl/?f=cereal_killerz'
     name 'Cereal Killerz'
     homepage 'http://www.dafont.com/cereal-killerz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CEREAL KILLERZ.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-brotherhood-script' do
     url 'http://dl.dafont.com/dl/?f=brotherhood_script'
     name 'Brotherhood Script'
     homepage 'http://www.dafont.com/brotherhood-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brotherhood_Script.ttf'
 end

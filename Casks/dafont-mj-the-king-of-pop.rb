@@ -5,7 +5,6 @@ cask 'dafont-mj-the-king-of-pop' do
     url 'http://dl.dafont.com/dl/?f=mj_the_king_of_pop'
     name 'MJ The King of Pop'
     homepage 'http://www.dafont.com/mj-the-king-of-pop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MJ The King of Pop.ttf'
 end

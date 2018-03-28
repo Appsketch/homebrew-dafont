@@ -5,7 +5,6 @@ cask 'dafont-bmerva' do
     url 'http://dl.dafont.com/dl/?f=bmerva'
     name 'Bmerva'
     homepage 'http://www.dafont.com/bmerva.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bmerva.ttf'
 end

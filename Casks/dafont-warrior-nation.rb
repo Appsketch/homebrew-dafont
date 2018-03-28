@@ -5,7 +5,6 @@ cask 'dafont-warrior-nation' do
     url 'http://dl.dafont.com/dl/?f=warrior_nation'
     name 'Warrior Nation'
     homepage 'http://www.dafont.com/warrior-nation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'warnation.ttf'
     font 'warnation3d.ttf'

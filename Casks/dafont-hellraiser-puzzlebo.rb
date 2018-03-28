@@ -5,7 +5,6 @@ cask 'dafont-hellraiser-puzzlebo' do
     url 'http://dl.dafont.com/dl/?f=hellraiser_puzzlebo'
     name 'Hellraiser Puzzlebox Bats'
     homepage 'http://www.dafont.com/hellraiser-puzzlebo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HellraiserPuzzleBoxBats.ttf'
 end

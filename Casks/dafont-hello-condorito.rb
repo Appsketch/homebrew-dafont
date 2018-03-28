@@ -5,7 +5,6 @@ cask 'dafont-hello-condorito' do
     url 'http://dl.dafont.com/dl/?f=hello_condorito'
     name 'Hello Condorito'
     homepage 'http://www.dafont.com/hello-condorito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hello Condorito.ttf'
 end

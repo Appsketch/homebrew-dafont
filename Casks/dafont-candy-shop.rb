@@ -5,7 +5,6 @@ cask 'dafont-candy-shop' do
     url 'http://dl.dafont.com/dl/?f=candy_shop'
     name 'Candy Shop'
     homepage 'http://www.dafont.com/candy-shop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Candy Shop Black.ttf'
     font 'Candy Shop.ttf'

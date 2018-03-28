@@ -5,7 +5,6 @@ cask 'dafont-sweet-sassy-serif' do
     url 'http://dl.dafont.com/dl/?f=sweet_sassy_serif'
     name 'Sweet &amp; sassy serif'
     homepage 'http://www.dafont.com/sweet-sassy-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sweet &amp; sassy serif.ttf'
 end

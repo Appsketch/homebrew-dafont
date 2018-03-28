@@ -5,7 +5,6 @@ cask 'dafont-abracadabrahocusspokuz' do
     url 'http://dl.dafont.com/dl/?f=abracadabrahocusspokuz'
     name 'Abracadabrahocusspokuz'
     homepage 'http://www.dafont.com/abracadabrahocusspokuz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aBrACaDabRAHOcUsSPoKuz.ttf'
 end

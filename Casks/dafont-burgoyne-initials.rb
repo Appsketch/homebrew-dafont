@@ -5,7 +5,6 @@ cask 'dafont-burgoyne-initials' do
     url 'http://dl.dafont.com/dl/?f=burgoyne_initials'
     name 'Burgoyne Initials'
     homepage 'http://www.dafont.com/burgoyne-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BURGOYNE.TTF'
 end

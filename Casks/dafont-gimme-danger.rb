@@ -5,7 +5,6 @@ cask 'dafont-gimme-danger' do
     url 'http://dl.dafont.com/dl/?f=gimme_danger'
     name 'Gimme Danger'
     homepage 'http://www.dafont.com/gimme-danger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gimme Danger.ttf'
 end

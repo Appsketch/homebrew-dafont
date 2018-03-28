@@ -5,7 +5,6 @@ cask 'dafont-fd-necromancer' do
     url 'http://dl.dafont.com/dl/?f=fd_necromancer'
     name 'FD Necromancer'
     homepage 'http://www.dafont.com/fd-necromancer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FD Necromancer.ttf'
 end

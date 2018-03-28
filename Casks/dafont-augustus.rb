@@ -5,7 +5,6 @@ cask 'dafont-augustus' do
     url 'http://dl.dafont.com/dl/?f=augustus'
     name 'Augustus'
     homepage 'http://www.dafont.com/augustus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AUGUSTUS.TTF'
 end

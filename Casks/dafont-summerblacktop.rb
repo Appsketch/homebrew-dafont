@@ -5,7 +5,6 @@ cask 'dafont-summerblacktop' do
     url 'http://dl.dafont.com/dl/?f=summerblacktop'
     name 'Summer Blacktop'
     homepage 'http://www.dafont.com/summerblacktop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SummerBlacktop.ttf'
 end

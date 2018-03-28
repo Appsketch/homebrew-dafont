@@ -5,7 +5,6 @@ cask 'dafont-wise-rabbit-says' do
     url 'http://dl.dafont.com/dl/?f=wise_rabbit_says'
     name 'Wise Rabbit Says'
     homepage 'http://www.dafont.com/wise-rabbit-says.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WISERS__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-emmy-3d' do
     url 'http://dl.dafont.com/dl/?f=emmy_3d'
     name 'Emmy 3D'
     homepage 'http://www.dafont.com/emmy-3d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Emmy 3D.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fender-bender' do
     url 'http://dl.dafont.com/dl/?f=fender_bender'
     name 'Fender Bender'
     homepage 'http://www.dafont.com/fender-bender.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fender_Bender_font.ttf'
 end

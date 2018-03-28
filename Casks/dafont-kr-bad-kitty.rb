@@ -5,7 +5,6 @@ cask 'dafont-kr-bad-kitty' do
     url 'http://dl.dafont.com/dl/?f=kr_bad_kitty'
     name 'KR Bad Kitty'
     homepage 'http://www.dafont.com/kr-bad-kitty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Bad Kitty.ttf'
 end

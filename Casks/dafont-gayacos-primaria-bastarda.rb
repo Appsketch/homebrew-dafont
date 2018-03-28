@@ -5,7 +5,6 @@ cask 'dafont-gayacos-primaria-bastarda' do
     url 'http://dl.dafont.com/dl/?f=gayacos_primaria_bastarda'
     name 'Gayacos Primaria Bastarda'
     homepage 'http://www.dafont.com/gayacos-primaria-bastarda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gayacos Primaria Bastarda.TTF'
 end

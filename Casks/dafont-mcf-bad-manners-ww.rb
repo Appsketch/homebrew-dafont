@@ -5,7 +5,6 @@ cask 'dafont-mcf-bad-manners-ww' do
     url 'http://dl.dafont.com/dl/?f=mcf_bad_manners_ww'
     name 'MCF Bad Manners WW'
     homepage 'http://www.dafont.com/mcf-bad-manners-ww.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MCF_bad_manners_ww.ttf'
 end

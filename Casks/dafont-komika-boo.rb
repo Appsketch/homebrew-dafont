@@ -5,7 +5,6 @@ cask 'dafont-komika-boo' do
     url 'http://dl.dafont.com/dl/?f=komika_boo'
     name 'Komika Boo'
     homepage 'http://www.dafont.com/komika-boo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKAB_.ttf'
 end

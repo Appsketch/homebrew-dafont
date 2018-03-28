@@ -5,7 +5,6 @@ cask 'dafont-beware-of-the-zombies' do
     url 'http://dl.dafont.com/dl/?f=beware_of_the_zombies'
     name 'Beware of the Zombies'
     homepage 'http://www.dafont.com/beware-of-the-zombies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beware of the Zombies.ttf'
 end

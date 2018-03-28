@@ -5,7 +5,6 @@ cask 'dafont-cosmical-disfase' do
     url 'http://dl.dafont.com/dl/?f=cosmical_disfase'
     name 'Cosmical Disfase'
     homepage 'http://www.dafont.com/cosmical-disfase.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cosmicaldisfase.ttf'
 end

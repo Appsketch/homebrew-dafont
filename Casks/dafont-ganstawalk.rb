@@ -5,7 +5,6 @@ cask 'dafont-ganstawalk' do
     url 'http://dl.dafont.com/dl/?f=ganstawalk'
     name 'Gansta Walk'
     homepage 'http://www.dafont.com/ganstawalk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GanstaWalk.ttf'
 end

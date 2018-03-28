@@ -5,7 +5,6 @@ cask 'dafont-paint-bucket' do
     url 'http://dl.dafont.com/dl/?f=paint_bucket'
     name 'Paint Bucket'
     homepage 'http://www.dafont.com/paint-bucket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaintBucket.otf'
 end

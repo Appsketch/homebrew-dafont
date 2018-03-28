@@ -5,7 +5,6 @@ cask 'dafont-matt-smith-doctor-who' do
     url 'http://dl.dafont.com/dl/?f=matt_smith_doctor_who'
     name 'Matt Smith Doctor Who'
     homepage 'http://www.dafont.com/matt-smith-doctor-who.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'matt_smith_doctor_who.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-megalomania-x' do
     url 'http://dl.dafont.com/dl/?f=megalomania_x'
     name 'Megalomania X'
     homepage 'http://www.dafont.com/megalomania-x.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'megalomania___x.ttf'
 end

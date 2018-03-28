@@ -5,7 +5,6 @@ cask 'dafont-kg-beneath-your-beautiful' do
     url 'http://dl.dafont.com/dl/?f=kg_beneath_your_beautiful'
     name 'KG Beneath Your Beautiful'
     homepage 'http://www.dafont.com/kg-beneath-your-beautiful.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGBeneathYourBeautiful.ttf'
     font 'KGBeneathYourBeautifulChunk.ttf'

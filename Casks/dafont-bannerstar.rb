@@ -5,7 +5,6 @@ cask 'dafont-bannerstar' do
     url 'http://dl.dafont.com/dl/?f=bannerstar'
     name 'Banner Star'
     homepage 'http://www.dafont.com/bannerstar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BannerStar.otf'
 end

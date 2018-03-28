@@ -5,7 +5,6 @@ cask 'dafont-charnel-house' do
     url 'http://dl.dafont.com/dl/?f=charnel_house'
     name 'Charnel House'
     homepage 'http://www.dafont.com/charnel-house.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Charnel House.ttf'
 end

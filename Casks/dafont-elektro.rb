@@ -5,7 +5,6 @@ cask 'dafont-elektro' do
     url 'http://dl.dafont.com/dl/?f=elektro'
     name 'Elektro'
     homepage 'http://www.dafont.com/elektro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'elektro.ttf'
 end

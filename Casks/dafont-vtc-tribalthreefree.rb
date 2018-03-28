@@ -5,7 +5,6 @@ cask 'dafont-vtc-tribalthreefree' do
     url 'http://dl.dafont.com/dl/?f=vtc_tribalthreefree'
     name 'VTC Tribal Three'
     homepage 'http://www.dafont.com/vtc-tribalthreefree.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC-TribalThreeFree.ttf'
 end

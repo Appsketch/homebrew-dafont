@@ -5,7 +5,6 @@ cask 'dafont-gram' do
     url 'http://dl.dafont.com/dl/?f=gram'
     name 'Gram'
     homepage 'http://www.dafont.com/gram.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gram.ttf'
 end

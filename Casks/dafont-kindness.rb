@@ -5,7 +5,6 @@ cask 'dafont-kindness' do
     url 'http://dl.dafont.com/dl/?f=kindness'
     name 'Kindness'
     homepage 'http://www.dafont.com/kindness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kindness.ttf'
 end

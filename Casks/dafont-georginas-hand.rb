@@ -5,7 +5,6 @@ cask 'dafont-georginas-hand' do
     url 'http://dl.dafont.com/dl/?f=georginas_hand'
     name 'Georgina&#039;s Hand'
     homepage 'http://www.dafont.com/georginas-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Georginas Hand.ttf'
 end

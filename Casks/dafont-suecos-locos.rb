@@ -5,7 +5,6 @@ cask 'dafont-suecos-locos' do
     url 'http://dl.dafont.com/dl/?f=suecos_locos'
     name 'Suecos Locos'
     homepage 'http://www.dafont.com/suecos-locos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuecosLocos.ttf'
 end

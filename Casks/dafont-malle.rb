@@ -5,7 +5,6 @@ cask 'dafont-malle' do
     url 'http://dl.dafont.com/dl/?f=malle'
     name 'Malle'
     homepage 'http://www.dafont.com/malle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'malle.ttf'
 end

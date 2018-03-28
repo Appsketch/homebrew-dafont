@@ -5,7 +5,6 @@ cask 'dafont-delinquente-demo' do
     url 'http://dl.dafont.com/dl/?f=delinquente_demo'
     name 'Delinquente'
     homepage 'http://www.dafont.com/delinquente-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Demo_Delinquente_altI.ttf'
     font 'Demo_Delinquente.ttf'

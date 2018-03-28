@@ -5,7 +5,6 @@ cask 'dafont-aaa-bzh' do
     url 'http://dl.dafont.com/dl/?f=aaa_bzh'
     name 'Aaa BZH'
     homepage 'http://www.dafont.com/aaa-bzh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aaa_bzh.ttf'
 end

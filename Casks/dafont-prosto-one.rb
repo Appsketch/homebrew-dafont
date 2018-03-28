@@ -5,7 +5,6 @@ cask 'dafont-prosto-one' do
     url 'http://dl.dafont.com/dl/?f=prosto_one'
     name 'Prosto One'
     homepage 'http://www.dafont.com/prosto-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Prosto One.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-arthur' do
     url 'http://dl.dafont.com/dl/?f=arthur'
     name 'Arthur'
     homepage 'http://www.dafont.com/arthur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARTHUR__.TTF'
 end

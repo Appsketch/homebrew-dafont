@@ -5,7 +5,6 @@ cask 'dafont-dead-font-walking' do
     url 'http://dl.dafont.com/dl/?f=dead_font_walking'
     name 'Dead Font Walking'
     homepage 'http://www.dafont.com/dead-font-walking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dead Font Walking.otf'
 end

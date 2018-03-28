@@ -5,7 +5,6 @@ cask 'dafont-moi-je-men-fous' do
     url 'http://dl.dafont.com/dl/?f=moi_je_men_fous'
     name 'Moi je men fous'
     homepage 'http://www.dafont.com/moi-je-men-fous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moi je m-&#039;en fous.ttf'
 end

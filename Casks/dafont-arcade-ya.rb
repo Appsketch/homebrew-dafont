@@ -5,7 +5,6 @@ cask 'dafont-arcade-ya' do
     url 'http://dl.dafont.com/dl/?f=arcade_ya'
     name 'Arcade'
     homepage 'http://www.dafont.com/arcade-ya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARCADE_I.TTF'
     font 'ARCADE_N.TTF'

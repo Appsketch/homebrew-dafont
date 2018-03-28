@@ -5,7 +5,6 @@ cask 'dafont-mrf-quirky-and-authentic-hand-font' do
     url 'http://dl.dafont.com/dl/?f=mrf_quirky_and_authentic_hand_font'
     name 'MRF Quirky and authentic hand font'
     homepage 'http://www.dafont.com/mrf-quirky-and-authentic-hand-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MRF quirky and authentic hand font demo.ttf'
 end

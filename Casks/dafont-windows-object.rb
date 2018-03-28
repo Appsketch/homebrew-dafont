@@ -5,7 +5,6 @@ cask 'dafont-windows-object' do
     url 'http://dl.dafont.com/dl/?f=windows_object'
     name 'Windows Object'
     homepage 'http://www.dafont.com/windows-object.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'windows object.ttf'
 end

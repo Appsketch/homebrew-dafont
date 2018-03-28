@@ -5,7 +5,6 @@ cask 'dafont-pauls-sinner-font' do
     url 'http://dl.dafont.com/dl/?f=pauls_sinner_font'
     name 'Pauls Sinner'
     homepage 'http://www.dafont.com/pauls-sinner-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pauls Sinner Font.ttf'
 end

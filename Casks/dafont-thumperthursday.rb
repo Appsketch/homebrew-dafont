@@ -5,7 +5,6 @@ cask 'dafont-thumperthursday' do
     url 'http://dl.dafont.com/dl/?f=thumperthursday'
     name 'Thumper Thursday'
     homepage 'http://www.dafont.com/thumperthursday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThumperThursday.ttf'
 end

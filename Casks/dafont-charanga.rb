@@ -5,7 +5,6 @@ cask 'dafont-charanga' do
     url 'http://dl.dafont.com/dl/?f=charanga'
     name 'Charanga'
     homepage 'http://www.dafont.com/charanga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'charanga.ttf'
 end

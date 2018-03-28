@@ -5,7 +5,6 @@ cask 'dafont-maus' do
     url 'http://dl.dafont.com/dl/?f=maus'
     name 'Maus'
     homepage 'http://www.dafont.com/maus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'maus____.ttf'
 end

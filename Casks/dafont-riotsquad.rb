@@ -5,7 +5,6 @@ cask 'dafont-riotsquad' do
     url 'http://dl.dafont.com/dl/?f=riotsquad'
     name 'RiotSquad'
     homepage 'http://www.dafont.com/riotsquad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RIOTSQUA.TTF'
 end

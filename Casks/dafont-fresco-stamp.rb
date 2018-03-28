@@ -5,7 +5,6 @@ cask 'dafont-fresco-stamp' do
     url 'http://dl.dafont.com/dl/?f=fresco_stamp'
     name 'Fresco Stamp'
     homepage 'http://www.dafont.com/fresco-stamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fresco Stamp.ttf'
 end

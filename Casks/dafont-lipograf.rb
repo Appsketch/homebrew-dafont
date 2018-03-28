@@ -5,7 +5,6 @@ cask 'dafont-lipograf' do
     url 'http://dl.dafont.com/dl/?f=lipograf'
     name 'Lipograf'
     homepage 'http://www.dafont.com/lipograf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lipograf.ttf'
 end

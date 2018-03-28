@@ -5,7 +5,6 @@ cask 'dafont-vaille' do
     url 'http://dl.dafont.com/dl/?f=vaille'
     name 'Vaille'
     homepage 'http://www.dafont.com/vaille.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vaille01.ttf'
     font 'vaille02.ttf'

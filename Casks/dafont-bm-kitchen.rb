@@ -5,7 +5,6 @@ cask 'dafont-bm-kitchen' do
     url 'http://dl.dafont.com/dl/?f=bm_kitchen'
     name 'BM Kitchen'
     homepage 'http://www.dafont.com/bm-kitchen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMkitchen.TTF'
 end

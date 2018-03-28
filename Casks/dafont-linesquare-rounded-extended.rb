@@ -5,7 +5,6 @@ cask 'dafont-linesquare-rounded-extended' do
     url 'http://dl.dafont.com/dl/?f=linesquare_rounded_extended'
     name 'Linesquare Rounded Extended'
     homepage 'http://www.dafont.com/linesquare-rounded-extended.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'linesquare_rounded_extended.ttf'
 end

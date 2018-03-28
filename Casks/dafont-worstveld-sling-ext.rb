@@ -5,7 +5,6 @@ cask 'dafont-worstveld-sling-ext' do
     url 'http://dl.dafont.com/dl/?f=worstveld_sling_ext'
     name 'Worstveld Sling Extra'
     homepage 'http://www.dafont.com/worstveld-sling-ext.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WorstveldSlingExtra.ttf'
     font 'WorstveldSlingExtra2Oblique.ttf'

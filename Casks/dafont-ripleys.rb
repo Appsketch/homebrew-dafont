@@ -5,7 +5,6 @@ cask 'dafont-ripleys' do
     url 'http://dl.dafont.com/dl/?f=ripleys'
     name 'Ripley&#039;s'
     homepage 'http://www.dafont.com/ripleys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ripley&#039;s.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-amor-de-madre' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_amor_de_madre'
     name 'Woodcutter Amor de Madre'
     homepage 'http://www.dafont.com/woodcutter-amor-de-madre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Amor de Madre.ttf'
 end

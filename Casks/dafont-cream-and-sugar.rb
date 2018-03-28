@@ -5,7 +5,6 @@ cask 'dafont-cream-and-sugar' do
     url 'http://dl.dafont.com/dl/?f=cream_and_sugar'
     name 'Cream and sugar'
     homepage 'http://www.dafont.com/cream-and-sugar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CREAMANDSUGAR.ttf'
 end

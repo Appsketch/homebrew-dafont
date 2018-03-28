@@ -5,7 +5,6 @@ cask 'dafont-rolo' do
     url 'http://dl.dafont.com/dl/?f=rolo'
     name 'R&ouml;l&oacute;'
     homepage 'http://www.dafont.com/rolo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RL&agrave;!.ttf'
 end

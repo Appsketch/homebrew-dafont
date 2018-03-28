@@ -5,7 +5,6 @@ cask 'dafont-harpers' do
     url 'http://dl.dafont.com/dl/?f=harpers'
     name 'Harpers'
     homepage 'http://www.dafont.com/harpers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Harpers.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cassini' do
     url 'http://dl.dafont.com/dl/?f=cassini'
     name 'Cassini'
     homepage 'http://www.dafont.com/cassini.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cassini.ttf'
 end

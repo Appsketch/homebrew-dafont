@@ -5,7 +5,6 @@ cask 'dafont-alternity' do
     url 'http://dl.dafont.com/dl/?f=alternity'
     name 'Alternity'
     homepage 'http://www.dafont.com/alternity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alternity Bold Italic.otf'
     font 'Alternity Bold.otf'

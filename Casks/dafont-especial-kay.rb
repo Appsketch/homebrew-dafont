@@ -5,7 +5,6 @@ cask 'dafont-especial-kay' do
     url 'http://dl.dafont.com/dl/?f=especial_kay'
     name 'Especial Kay'
     homepage 'http://www.dafont.com/especial-kay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'espek___.ttf'
 end

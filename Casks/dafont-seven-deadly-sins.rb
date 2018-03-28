@@ -5,7 +5,6 @@ cask 'dafont-seven-deadly-sins' do
     url 'http://dl.dafont.com/dl/?f=seven_deadly_sins'
     name 'Seven deadly sins'
     homepage 'http://www.dafont.com/seven-deadly-sins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seven deadly sins.ttf'
 end

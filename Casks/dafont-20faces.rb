@@ -5,7 +5,6 @@ cask 'dafont-20faces' do
     url 'http://dl.dafont.com/dl/?f=20faces'
     name 'FE 20 Faces'
     homepage 'http://www.dafont.com/20faces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE 20 Faces.otf'
 end

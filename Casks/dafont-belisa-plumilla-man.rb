@@ -5,7 +5,6 @@ cask 'dafont-belisa-plumilla-man' do
     url 'http://dl.dafont.com/dl/?f=belisa_plumilla_man'
     name 'Belisa Plumilla Manual'
     homepage 'http://www.dafont.com/belisa-plumilla-man.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'belisa_plumilla.ttf'
 end

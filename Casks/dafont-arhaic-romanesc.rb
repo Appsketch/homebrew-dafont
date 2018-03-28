@@ -5,7 +5,6 @@ cask 'dafont-arhaic-romanesc' do
     url 'http://dl.dafont.com/dl/?f=arhaic_romanesc'
     name 'Arhaic Romanesc'
     homepage 'http://www.dafont.com/arhaic-romanesc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arhaic_rom.ttf'
 end

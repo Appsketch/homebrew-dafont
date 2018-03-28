@@ -5,7 +5,6 @@ cask 'dafont-intrique-script' do
     url 'http://dl.dafont.com/dl/?f=intrique_script'
     name 'Intrique Script'
     homepage 'http://www.dafont.com/intrique-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IntriqueScript_PersonalUse.ttf'
 end

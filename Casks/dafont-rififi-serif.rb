@@ -5,7 +5,6 @@ cask 'dafont-rififi-serif' do
     url 'http://dl.dafont.com/dl/?f=rififi_serif'
     name 'Rififi Serif'
     homepage 'http://www.dafont.com/rififi-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rififi-serif.ttf'
 end

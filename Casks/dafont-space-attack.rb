@@ -5,7 +5,6 @@ cask 'dafont-space-attack' do
     url 'http://dl.dafont.com/dl/?f=space_attack'
     name 'Space Attack'
     homepage 'http://www.dafont.com/space-attack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Space Attack.ttf'
 end

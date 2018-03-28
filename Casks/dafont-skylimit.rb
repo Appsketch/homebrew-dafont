@@ -5,7 +5,6 @@ cask 'dafont-skylimit' do
     url 'http://dl.dafont.com/dl/?f=skylimit'
     name 'Sky Limit'
     homepage 'http://www.dafont.com/skylimit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkyLimit.ttf'
 end

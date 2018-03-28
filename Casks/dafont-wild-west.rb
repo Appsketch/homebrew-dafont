@@ -5,7 +5,6 @@ cask 'dafont-wild-west' do
     url 'http://dl.dafont.com/dl/?f=wild_west'
     name 'Wild West'
     homepage 'http://www.dafont.com/wild-west.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wild West Shadow.ttf'
     font 'Wild West USA.ttf'

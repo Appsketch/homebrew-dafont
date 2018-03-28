@@ -5,7 +5,6 @@ cask 'dafont-pwoblique' do
     url 'http://dl.dafont.com/dl/?f=pwoblique'
     name 'PW Oblique'
     homepage 'http://www.dafont.com/pwoblique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWOblique.ttf'
 end

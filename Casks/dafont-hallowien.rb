@@ -5,7 +5,6 @@ cask 'dafont-hallowien' do
     url 'http://dl.dafont.com/dl/?f=hallowien'
     name 'HalloWien'
     homepage 'http://www.dafont.com/hallowien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HalloWien.ttf'
 end

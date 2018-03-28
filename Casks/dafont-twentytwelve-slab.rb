@@ -5,7 +5,6 @@ cask 'dafont-twentytwelve-slab' do
     url 'http://dl.dafont.com/dl/?f=twentytwelve_slab'
     name 'Twentytwelve Slab'
     homepage 'http://www.dafont.com/twentytwelve-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TwentytwelveSlab-Bold.ttf'
     font 'TwentytwelveSlab-Light.ttf'

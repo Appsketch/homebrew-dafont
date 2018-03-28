@@ -5,7 +5,6 @@ cask 'dafont-highalto' do
     url 'http://dl.dafont.com/dl/?f=highalto'
     name 'Highalto'
     homepage 'http://www.dafont.com/highalto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'highalto.ttf'
 end

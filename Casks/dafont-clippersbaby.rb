@@ -5,7 +5,6 @@ cask 'dafont-clippersbaby' do
     url 'http://dl.dafont.com/dl/?f=clippersbaby'
     name 'Clippers Baby'
     homepage 'http://www.dafont.com/clippersbaby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ClippersBaby.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-raindrops' do
     url 'http://dl.dafont.com/dl/?f=raindrops'
     name 'Raindrops'
     homepage 'http://www.dafont.com/raindrops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raindrops.ttf'
 end

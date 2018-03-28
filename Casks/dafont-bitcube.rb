@@ -5,7 +5,6 @@ cask 'dafont-bitcube' do
     url 'http://dl.dafont.com/dl/?f=bitcube'
     name 'BitCube'
     homepage 'http://www.dafont.com/bitcube.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bitcube.ttf'
 end

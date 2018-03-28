@@ -5,7 +5,6 @@ cask 'dafont-wonder-boy-in-monster-world' do
     url 'http://dl.dafont.com/dl/?f=wonder_boy_in_monster_world'
     name 'Wonder Boy In Monster World'
     homepage 'http://www.dafont.com/wonder-boy-in-monster-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wonder_Boy_In_Monster_World.ttf'
 end

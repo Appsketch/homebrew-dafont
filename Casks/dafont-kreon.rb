@@ -5,7 +5,6 @@ cask 'dafont-kreon' do
     url 'http://dl.dafont.com/dl/?f=kreon'
     name 'Kreon'
     homepage 'http://www.dafont.com/kreon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kreon Condensed Italic.otf'
     font 'Kreon Condensed.otf'

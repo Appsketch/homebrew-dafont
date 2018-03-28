@@ -5,7 +5,6 @@ cask 'dafont-pixellife' do
     url 'http://dl.dafont.com/dl/?f=pixellife'
     name 'Pixellife'
     homepage 'http://www.dafont.com/pixellife.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIXEL-LI.TTF'
 end

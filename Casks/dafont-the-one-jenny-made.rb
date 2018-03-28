@@ -5,7 +5,6 @@ cask 'dafont-the-one-jenny-made' do
     url 'http://dl.dafont.com/dl/?f=the_one_jenny_made'
     name 'The One Jenny Made'
     homepage 'http://www.dafont.com/the-one-jenny-made.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The One Jenny Made.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kk-schnitzler' do
     url 'http://dl.dafont.com/dl/?f=kk_schnitzler'
     name 'KK Schnitzler'
     homepage 'http://www.dafont.com/kk-schnitzler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kk_schnitzler.otf'
 end

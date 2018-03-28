@@ -5,7 +5,6 @@ cask 'dafont-tax-taxation' do
     url 'http://dl.dafont.com/dl/?f=tax_taxation'
     name 'Tax Taxation'
     homepage 'http://www.dafont.com/tax-taxation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TaxTaxation.ttf'
 end

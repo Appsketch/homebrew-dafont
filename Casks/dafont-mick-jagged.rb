@@ -5,7 +5,6 @@ cask 'dafont-mick-jagged' do
     url 'http://dl.dafont.com/dl/?f=mick_jagged'
     name 'Mick Jagged'
     homepage 'http://www.dafont.com/mick-jagged.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MICK JAGGED.ttf'
 end

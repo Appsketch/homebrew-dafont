@@ -5,7 +5,6 @@ cask 'dafont-imagine-earth' do
     url 'http://dl.dafont.com/dl/?f=imagine_earth'
     name 'Imagine Earth'
     homepage 'http://www.dafont.com/imagine-earth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'imagine_font_2.ttf'
 end

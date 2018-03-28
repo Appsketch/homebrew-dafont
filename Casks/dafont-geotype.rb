@@ -5,7 +5,6 @@ cask 'dafont-geotype' do
     url 'http://dl.dafont.com/dl/?f=geotype'
     name 'GeoType'
     homepage 'http://www.dafont.com/geotype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'geotype.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-italian-football' do
     url 'http://dl.dafont.com/dl/?f=italian_football'
     name 'Italian Football'
     homepage 'http://www.dafont.com/italian-football.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Italian Football.ttf'
 end

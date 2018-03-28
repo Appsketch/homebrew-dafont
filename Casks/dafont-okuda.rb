@@ -5,7 +5,6 @@ cask 'dafont-okuda' do
     url 'http://dl.dafont.com/dl/?f=okuda'
     name 'Okuda'
     homepage 'http://www.dafont.com/okuda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Okuda Bold Italic.otf'
     font 'Okuda Bold.otf'

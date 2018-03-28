@@ -5,7 +5,6 @@ cask 'dafont-earthshake' do
     url 'http://dl.dafont.com/dl/?f=earthshake'
     name 'Earthshake'
     homepage 'http://www.dafont.com/earthshake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'earthshake.ttf'
     font 'earthshake3d.ttf'

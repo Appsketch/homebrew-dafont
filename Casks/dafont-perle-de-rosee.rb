@@ -5,7 +5,6 @@ cask 'dafont-perle-de-rosee' do
     url 'http://dl.dafont.com/dl/?f=perle_de_rosee'
     name 'Perle De Rosee'
     homepage 'http://www.dafont.com/perle-de-rosee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Perle De Rosee.ttf'
 end

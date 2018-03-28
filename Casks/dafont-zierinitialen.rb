@@ -5,7 +5,6 @@ cask 'dafont-zierinitialen' do
     url 'http://dl.dafont.com/dl/?f=zierinitialen'
     name 'Zierinitialen'
     homepage 'http://www.dafont.com/zierinitialen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zierinitialen1.ttf'
     font 'ZierinitialenTwo.ttf'

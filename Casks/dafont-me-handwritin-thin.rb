@@ -5,7 +5,6 @@ cask 'dafont-me-handwritin-thin' do
     url 'http://dl.dafont.com/dl/?f=me_handwritin_thin'
     name 'Me Handwritin Thin'
     homepage 'http://www.dafont.com/me-handwritin-thin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'me handwritin Thin.ttf'
 end

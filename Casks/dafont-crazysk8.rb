@@ -5,7 +5,6 @@ cask 'dafont-crazysk8' do
     url 'http://dl.dafont.com/dl/?f=crazysk8'
     name 'Crazysk8'
     homepage 'http://www.dafont.com/crazysk8.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crazysk8.ttf'
 end

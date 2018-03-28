@@ -5,7 +5,6 @@ cask 'dafont-raslani-destroyedd-souls' do
     url 'http://dl.dafont.com/dl/?f=raslani_destroyedd_souls'
     name 'Raslani Destroyed Souls'
     homepage 'http://www.dafont.com/raslani-destroyedd-souls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raslani Destroyed Souls.ttf'
 end

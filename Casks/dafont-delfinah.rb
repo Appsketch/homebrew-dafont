@@ -5,7 +5,6 @@ cask 'dafont-delfinah' do
     url 'http://dl.dafont.com/dl/?f=delfinah'
     name 'Delfinah'
     homepage 'http://www.dafont.com/delfinah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'delfinah.otf'
 end

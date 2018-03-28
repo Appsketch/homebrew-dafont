@@ -5,7 +5,6 @@ cask 'dafont-grelsey-kammar' do
     url 'http://dl.dafont.com/dl/?f=grelsey_kammar'
     name 'Grelsey Kammar'
     homepage 'http://www.dafont.com/grelsey-kammar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grelsey Kammar.otf'
 end

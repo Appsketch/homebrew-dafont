@@ -5,7 +5,6 @@ cask 'dafont-teenage-fantasy-romance-novel' do
     url 'http://dl.dafont.com/dl/?f=teenage_fantasy_romance_novel'
     name 'Teenage Fantasy Romance Novel'
     homepage 'http://www.dafont.com/teenage-fantasy-romance-novel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TEENAGEROMANCENOVEL.ttf'
 end

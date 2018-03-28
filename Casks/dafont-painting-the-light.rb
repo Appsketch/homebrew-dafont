@@ -5,7 +5,6 @@ cask 'dafont-painting-the-light' do
     url 'http://dl.dafont.com/dl/?f=painting_the_light'
     name 'Painting the light'
     homepage 'http://www.dafont.com/painting-the-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'painting the light.ttf'
 end

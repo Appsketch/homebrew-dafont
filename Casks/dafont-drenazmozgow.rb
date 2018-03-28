@@ -5,7 +5,6 @@ cask 'dafont-drenazmozgow' do
     url 'http://dl.dafont.com/dl/?f=drenazmozgow'
     name 'Drenaz Mozgow'
     homepage 'http://www.dafont.com/drenazmozgow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drenazmozgow.ttf'
 end

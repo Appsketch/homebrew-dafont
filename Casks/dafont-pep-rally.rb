@@ -5,7 +5,6 @@ cask 'dafont-pep-rally' do
     url 'http://dl.dafont.com/dl/?f=pep_rally'
     name 'Pep Rally'
     homepage 'http://www.dafont.com/pep-rally.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PepRally.ttf'
 end

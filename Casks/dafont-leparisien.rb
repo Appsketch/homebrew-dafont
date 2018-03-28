@@ -5,7 +5,6 @@ cask 'dafont-leparisien' do
     url 'http://dl.dafont.com/dl/?f=leparisien'
     name 'Le Parisien'
     homepage 'http://www.dafont.com/leparisien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LeParisien.ttf'
 end

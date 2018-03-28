@@ -5,7 +5,6 @@ cask 'dafont-inquisitor' do
     url 'http://dl.dafont.com/dl/?f=inquisitor'
     name 'Inquisitor'
     homepage 'http://www.dafont.com/inquisitor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inquisitor Bold Italic.otf'
     font 'Inquisitor Bold.otf'

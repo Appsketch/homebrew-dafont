@@ -5,7 +5,6 @@ cask 'dafont-esper' do
     url 'http://dl.dafont.com/dl/?f=esper'
     name 'Esper'
     homepage 'http://www.dafont.com/esper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'esper.ttf'
 end

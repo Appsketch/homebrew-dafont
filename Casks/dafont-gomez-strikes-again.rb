@@ -5,7 +5,6 @@ cask 'dafont-gomez-strikes-again' do
     url 'http://dl.dafont.com/dl/?f=gomez_strikes_again'
     name 'Gomez Strikes Again!'
     homepage 'http://www.dafont.com/gomez-strikes-again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gomez-009.ttf'
     font 'Gomezb-009.ttf'

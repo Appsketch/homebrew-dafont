@@ -5,7 +5,6 @@ cask 'dafont-terminalevent' do
     url 'http://dl.dafont.com/dl/?f=terminalevent'
     name 'Terminal Event'
     homepage 'http://www.dafont.com/terminalevent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TerminalEvent.ttf'
 end

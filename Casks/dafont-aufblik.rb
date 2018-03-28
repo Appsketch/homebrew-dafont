@@ -5,7 +5,6 @@ cask 'dafont-aufblik' do
     url 'http://dl.dafont.com/dl/?f=aufblik'
     name 'Auf BliK'
     homepage 'http://www.dafont.com/aufblik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AufBlik.ttf'
 end

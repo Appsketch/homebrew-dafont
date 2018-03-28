@@ -5,7 +5,6 @@ cask 'dafont-moonblock' do
     url 'http://dl.dafont.com/dl/?f=moonblock'
     name 'Moonblock'
     homepage 'http://www.dafont.com/moonblock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'moonblock-regular.ttf'
 end

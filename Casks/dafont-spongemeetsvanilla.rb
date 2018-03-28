@@ -5,7 +5,6 @@ cask 'dafont-spongemeetsvanilla' do
     url 'http://dl.dafont.com/dl/?f=spongemeetsvanilla'
     name 'Sponge Meets Vanilla'
     homepage 'http://www.dafont.com/spongemeetsvanilla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpongeMeetsVanilla.ttf'
 end

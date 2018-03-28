@@ -5,7 +5,6 @@ cask 'dafont-dogs-csp' do
     url 'http://dl.dafont.com/dl/?f=dogs_csp'
     name 'Dogs CSP'
     homepage 'http://www.dafont.com/dogs-csp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dogs_csp.ttf'
 end

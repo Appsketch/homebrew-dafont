@@ -5,7 +5,6 @@ cask 'dafont-mother-in-law' do
     url 'http://dl.dafont.com/dl/?f=mother_in_law'
     name 'Mother In Law'
     homepage 'http://www.dafont.com/mother-in-law.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mother In Law.otf'
 end

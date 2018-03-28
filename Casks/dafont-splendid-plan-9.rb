@@ -5,7 +5,6 @@ cask 'dafont-splendid-plan-9' do
     url 'http://dl.dafont.com/dl/?f=splendid_plan_9'
     name 'Splendid Plan 9'
     homepage 'http://www.dafont.com/splendid-plan-9.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Splendid Plan 9 Italic.ttf'
     font 'Splendid Plan 9 Regular.ttf'

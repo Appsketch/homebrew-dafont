@@ -5,7 +5,6 @@ cask 'dafont-a-bugs-life' do
     url 'http://dl.dafont.com/dl/?f=a_bugs_life'
     name 'A Bug&#039;s Life'
     homepage 'http://www.dafont.com/a-bugs-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A Bug s Life - Debugged.ttf'
     font 'A Bug s Life.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-gothix-fate' do
     url 'http://dl.dafont.com/dl/?f=gothix_fate'
     name 'Gothix Fate'
     homepage 'http://www.dafont.com/gothix-fate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gothix Fate.ttf'
 end

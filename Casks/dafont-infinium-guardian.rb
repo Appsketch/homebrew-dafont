@@ -5,7 +5,6 @@ cask 'dafont-infinium-guardian' do
     url 'http://dl.dafont.com/dl/?f=infinium_guardian'
     name 'Infinium Guardian'
     homepage 'http://www.dafont.com/infinium-guardian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Infinium Guardian Caps.ttf'
     font 'Infinium Guardian.ttf'

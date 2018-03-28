@@ -5,7 +5,6 @@ cask 'dafont-marbre-sans' do
     url 'http://dl.dafont.com/dl/?f=marbre_sans'
     name 'Marbre Sans'
     homepage 'http://www.dafont.com/marbre-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marbre-Sans.otf'
     font 'Marbre.otf'

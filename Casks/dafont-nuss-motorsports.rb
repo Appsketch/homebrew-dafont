@@ -5,7 +5,6 @@ cask 'dafont-nuss-motorsports' do
     url 'http://dl.dafont.com/dl/?f=nuss_motorsports'
     name 'Nuss Motorsports'
     homepage 'http://www.dafont.com/nuss-motorsports.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nuss_Motorsports.ttf'
 end

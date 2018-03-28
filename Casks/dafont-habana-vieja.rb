@@ -5,7 +5,6 @@ cask 'dafont-habana-vieja' do
     url 'http://dl.dafont.com/dl/?f=habana_vieja'
     name 'Habana Vieja'
     homepage 'http://www.dafont.com/habana-vieja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Habana-Vieja-demo.ttf'
 end

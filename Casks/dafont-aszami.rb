@@ -5,7 +5,6 @@ cask 'dafont-aszami' do
     url 'http://dl.dafont.com/dl/?f=aszami'
     name 'Aszami'
     homepage 'http://www.dafont.com/aszami.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aszami.ttf'
 end

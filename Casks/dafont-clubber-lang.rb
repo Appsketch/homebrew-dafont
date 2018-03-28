@@ -5,7 +5,6 @@ cask 'dafont-clubber-lang' do
     url 'http://dl.dafont.com/dl/?f=clubber_lang'
     name 'Clubber Lang'
     homepage 'http://www.dafont.com/clubber-lang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'clubberlang.ttf'
     font 'clubberlang3d.ttf'

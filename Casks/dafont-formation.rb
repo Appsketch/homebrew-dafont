@@ -5,7 +5,6 @@ cask 'dafont-formation' do
     url 'http://dl.dafont.com/dl/?f=formation'
     name 'Formation'
     homepage 'http://www.dafont.com/formation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'formatio.ttf'
 end

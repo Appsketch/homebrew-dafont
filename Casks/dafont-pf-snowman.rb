@@ -5,7 +5,6 @@ cask 'dafont-pf-snowman' do
     url 'http://dl.dafont.com/dl/?f=pf_snowman'
     name 'PF Snowman'
     homepage 'http://www.dafont.com/pf-snowman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pf_snowman-2.ttf'
     font 'Pf_snowman-3.ttf'

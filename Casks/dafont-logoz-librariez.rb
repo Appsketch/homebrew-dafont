@@ -5,7 +5,6 @@ cask 'dafont-logoz-librariez' do
     url 'http://dl.dafont.com/dl/?f=logoz_librariez'
     name 'Logoz Librariez'
     homepage 'http://www.dafont.com/logoz-librariez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Logoz-Librariez.ttf'
 end

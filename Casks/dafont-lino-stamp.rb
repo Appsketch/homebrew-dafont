@@ -5,7 +5,6 @@ cask 'dafont-lino-stamp' do
     url 'http://dl.dafont.com/dl/?f=lino_stamp'
     name 'Lino Stamp'
     homepage 'http://www.dafont.com/lino-stamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lino-stamp.ttf'
 end

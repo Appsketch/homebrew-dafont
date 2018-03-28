@@ -5,7 +5,6 @@ cask 'dafont-on-the-edge' do
     url 'http://dl.dafont.com/dl/?f=on_the_edge'
     name 'On The Edge'
     homepage 'http://www.dafont.com/on-the-edge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'On The Edge.otf'
 end

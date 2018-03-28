@@ -5,7 +5,6 @@ cask 'dafont-goteki-45' do
     url 'http://dl.dafont.com/dl/?f=goteki_45'
     name 'Goteki 45'
     homepage 'http://www.dafont.com/goteki-45.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Goteki 45.ttf'
 end

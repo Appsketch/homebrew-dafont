@@ -5,7 +5,6 @@ cask 'dafont-analphabetism' do
     url 'http://dl.dafont.com/dl/?f=analphabetism'
     name 'AnAlphaBetism'
     homepage 'http://www.dafont.com/analphabetism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnAlphaBetIsm-Medium.ttf'
     font 'AnAlphaBetIsm.ttf'

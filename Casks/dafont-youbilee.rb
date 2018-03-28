@@ -5,7 +5,6 @@ cask 'dafont-youbilee' do
     url 'http://dl.dafont.com/dl/?f=youbilee'
     name 'Youbilee'
     homepage 'http://www.dafont.com/youbilee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Youbilee.ttf'
 end

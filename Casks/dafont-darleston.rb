@@ -5,7 +5,6 @@ cask 'dafont-darleston' do
     url 'http://dl.dafont.com/dl/?f=darleston'
     name 'Darleston'
     homepage 'http://www.dafont.com/darleston.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Darleston.otf'
 end

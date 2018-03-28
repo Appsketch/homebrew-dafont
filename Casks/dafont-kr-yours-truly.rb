@@ -5,7 +5,6 @@ cask 'dafont-kr-yours-truly' do
     url 'http://dl.dafont.com/dl/?f=kr_yours_truly'
     name 'KR Yours Truly'
     homepage 'http://www.dafont.com/kr-yours-truly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Yours Truly.ttf'
 end

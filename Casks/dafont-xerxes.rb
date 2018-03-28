@@ -5,7 +5,6 @@ cask 'dafont-xerxes' do
     url 'http://dl.dafont.com/dl/?f=xerxes'
     name 'Xerxes'
     homepage 'http://www.dafont.com/xerxes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XERXES.ttf'
 end

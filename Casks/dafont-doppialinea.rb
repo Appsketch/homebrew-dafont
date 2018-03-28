@@ -5,7 +5,6 @@ cask 'dafont-doppialinea' do
     url 'http://dl.dafont.com/dl/?f=doppialinea'
     name 'Doppia Linea'
     homepage 'http://www.dafont.com/doppialinea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DoppiaLinea.ttf'
 end

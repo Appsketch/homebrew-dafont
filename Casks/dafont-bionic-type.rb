@@ -5,7 +5,6 @@ cask 'dafont-bionic-type' do
     url 'http://dl.dafont.com/dl/?f=bionic_type'
     name 'Bionic Type'
     homepage 'http://www.dafont.com/bionic-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Biotyp.ttf'
     font 'Biotypb.ttf'

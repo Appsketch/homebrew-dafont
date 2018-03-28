@@ -5,7 +5,6 @@ cask 'dafont-djb-straight-up-now' do
     url 'http://dl.dafont.com/dl/?f=djb_straight_up_now'
     name 'DJB Straight Up Now'
     homepage 'http://www.dafont.com/djb-straight-up-now.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Straight Up Now Bold.ttf'
     font 'DJB Straight Up Now Bounce.ttf'

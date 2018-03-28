@@ -5,7 +5,6 @@ cask 'dafont-galah-panjang' do
     url 'http://dl.dafont.com/dl/?f=galah_panjang'
     name 'Galah Panjang'
     homepage 'http://www.dafont.com/galah-panjang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GalahPanjang.ttf'
     font 'GalahPanjang3D.ttf'

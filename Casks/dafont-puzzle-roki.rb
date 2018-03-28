@@ -5,7 +5,6 @@ cask 'dafont-puzzle-roki' do
     url 'http://dl.dafont.com/dl/?f=puzzle_roki'
     name 'Puzzle'
     homepage 'http://www.dafont.com/puzzle-roki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Puzzle_font.ttf'
 end

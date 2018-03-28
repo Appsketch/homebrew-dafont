@@ -5,7 +5,6 @@ cask 'dafont-women-and-shoes' do
     url 'http://dl.dafont.com/dl/?f=women_and_shoes'
     name 'Women And Shoes'
     homepage 'http://www.dafont.com/women-and-shoes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WomenAndShoes.ttf'
 end

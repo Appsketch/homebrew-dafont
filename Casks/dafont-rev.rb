@@ -5,7 +5,6 @@ cask 'dafont-rev' do
     url 'http://dl.dafont.com/dl/?f=rev'
     name 'Rev'
     homepage 'http://www.dafont.com/rev.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REV_v2.ttf'
 end

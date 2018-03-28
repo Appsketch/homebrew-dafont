@@ -5,7 +5,6 @@ cask 'dafont-beer-cape-g' do
     url 'http://dl.dafont.com/dl/?f=beer_cape_g'
     name 'Beer Cape G'
     homepage 'http://www.dafont.com/beer-cape-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_beer_cape.ttf'
 end

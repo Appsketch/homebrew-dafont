@@ -5,7 +5,6 @@ cask 'dafont-el-font-urban-caliigraphy' do
     url 'http://dl.dafont.com/dl/?f=el_font_urban_caliigraphy'
     name 'El&amp;Font Urban CalIigraphy'
     homepage 'http://www.dafont.com/el-font-urban-caliigraphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Urban Calligraphy.ttf'
 end

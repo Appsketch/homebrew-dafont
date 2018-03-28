@@ -5,7 +5,6 @@ cask 'dafont-yacimiento' do
     url 'http://dl.dafont.com/dl/?f=yacimiento'
     name 'Yacimiento'
     homepage 'http://www.dafont.com/yacimiento.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yacimiento ExtraBold Ex.ttf'
 end

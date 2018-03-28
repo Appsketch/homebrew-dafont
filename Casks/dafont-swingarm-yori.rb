@@ -5,7 +5,6 @@ cask 'dafont-swingarm-yori' do
     url 'http://dl.dafont.com/dl/?f=swingarm_yori'
     name 'Swingarm Yori'
     homepage 'http://www.dafont.com/swingarm-yori.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SwingarmYori-Light.ttf'
     font 'SwingarmYori-LightItalic.ttf'

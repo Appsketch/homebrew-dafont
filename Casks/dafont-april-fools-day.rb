@@ -5,7 +5,6 @@ cask 'dafont-april-fools-day' do
     url 'http://dl.dafont.com/dl/?f=april_fools_day'
     name 'April Fools&#039; Day'
     homepage 'http://www.dafont.com/april-fools-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'April Fools&#039; Day Crazy vrs.ttf'
     font 'April Fools&#039; Day Silly vrs.ttf'

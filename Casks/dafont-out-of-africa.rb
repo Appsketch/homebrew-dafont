@@ -5,7 +5,6 @@ cask 'dafont-out-of-africa' do
     url 'http://dl.dafont.com/dl/?f=out_of_africa'
     name 'Out of Africa'
     homepage 'http://www.dafont.com/out-of-africa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OutOfAfrica.ttf'
 end

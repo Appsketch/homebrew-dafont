@@ -5,7 +5,6 @@ cask 'dafont-kr-valent-dings2002' do
     url 'http://dl.dafont.com/dl/?f=kr_valent_dings2002'
     name 'KR Valentine Dings 2002'
     homepage 'http://www.dafont.com/kr-valent-dings2002.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Valentine Dings 2002.ttf'
 end

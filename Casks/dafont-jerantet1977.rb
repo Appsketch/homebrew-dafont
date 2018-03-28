@@ -5,7 +5,6 @@ cask 'dafont-jerantet1977' do
     url 'http://dl.dafont.com/dl/?f=jerantet1977'
     name 'Jerantet 1977'
     homepage 'http://www.dafont.com/jerantet1977.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jerantet1977.ttf'
 end

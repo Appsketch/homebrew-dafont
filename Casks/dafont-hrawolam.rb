@@ -5,7 +5,6 @@ cask 'dafont-hrawolam' do
     url 'http://dl.dafont.com/dl/?f=hrawolam'
     name 'Hrawolam'
     homepage 'http://www.dafont.com/hrawolam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hrawolam.otf'
 end

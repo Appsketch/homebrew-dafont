@@ -5,7 +5,6 @@ cask 'dafont-augie' do
     url 'http://dl.dafont.com/dl/?f=augie'
     name 'Augie'
     homepage 'http://www.dafont.com/augie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'augie.ttf'
 end

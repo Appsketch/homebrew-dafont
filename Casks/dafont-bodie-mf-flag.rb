@@ -5,7 +5,6 @@ cask 'dafont-bodie-mf-flag' do
     url 'http://dl.dafont.com/dl/?f=bodie_mf_flag'
     name 'Bodie MF Flag'
     homepage 'http://www.dafont.com/bodie-mf-flag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bodie_mf.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-comic-strip' do
     url 'http://dl.dafont.com/dl/?f=comic_strip'
     name 'Comic Strip'
     homepage 'http://www.dafont.com/comic-strip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comic Strip.ttf'
 end

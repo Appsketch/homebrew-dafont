@@ -5,7 +5,6 @@ cask 'dafont-bleeding-cowboys' do
     url 'http://dl.dafont.com/dl/?f=bleeding_cowboys'
     name 'Bleeding Cowboys'
     homepage 'http://www.dafont.com/bleeding-cowboys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bleeding_Cowboys.ttf'
 end

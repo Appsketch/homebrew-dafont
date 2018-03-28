@@ -5,7 +5,6 @@ cask 'dafont-sinescript' do
     url 'http://dl.dafont.com/dl/?f=sinescript'
     name 'Sinescript'
     homepage 'http://www.dafont.com/sinescript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sinescript.otf'
 end

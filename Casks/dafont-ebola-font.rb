@@ -5,7 +5,6 @@ cask 'dafont-ebola-font' do
     url 'http://dl.dafont.com/dl/?f=ebola_font'
     name 'Ebola Font'
     homepage 'http://www.dafont.com/ebola-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ebola Font.ttf'
 end

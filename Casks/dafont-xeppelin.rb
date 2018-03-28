@@ -5,7 +5,6 @@ cask 'dafont-xeppelin' do
     url 'http://dl.dafont.com/dl/?f=xeppelin'
     name 'Xeppelin'
     homepage 'http://www.dafont.com/xeppelin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xep.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-30-pack-girl' do
     url 'http://dl.dafont.com/dl/?f=30_pack_girl'
     name '30 Pack Girl'
     homepage 'http://www.dafont.com/30-pack-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '30pakgirl_bold_TBS.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-shark-supah-fx' do
     url 'http://dl.dafont.com/dl/?f=shark_supah_fx'
     name 'Shark Supah FX'
     homepage 'http://www.dafont.com/shark-supah-fx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sharksupahfx.ttf'
 end

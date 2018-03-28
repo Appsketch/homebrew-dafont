@@ -5,7 +5,6 @@ cask 'dafont-trueheart' do
     url 'http://dl.dafont.com/dl/?f=trueheart'
     name 'Trueheart'
     homepage 'http://www.dafont.com/trueheart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trueheart.ttf'
     font 'trueheartc.ttf'

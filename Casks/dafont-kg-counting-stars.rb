@@ -5,7 +5,6 @@ cask 'dafont-kg-counting-stars' do
     url 'http://dl.dafont.com/dl/?f=kg_counting_stars'
     name 'KG Counting Stars'
     homepage 'http://www.dafont.com/kg-counting-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGCountingStars.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sqserif' do
     url 'http://dl.dafont.com/dl/?f=sqserif'
     name 'SqSerif '
     homepage 'http://www.dafont.com/sqserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SqSerifOne.ttf'
     font 'SqSerifThree.ttf'

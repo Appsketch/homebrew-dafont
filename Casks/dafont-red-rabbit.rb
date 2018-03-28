@@ -5,7 +5,6 @@ cask 'dafont-red-rabbit' do
     url 'http://dl.dafont.com/dl/?f=red_rabbit'
     name 'Red Rabbit'
     homepage 'http://www.dafont.com/red-rabbit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Red Rabbit.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-paralis' do
     url 'http://dl.dafont.com/dl/?f=paralis'
     name 'Paralis'
     homepage 'http://www.dafont.com/paralis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paralis.ttf'
 end

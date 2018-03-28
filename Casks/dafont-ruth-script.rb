@@ -5,7 +5,6 @@ cask 'dafont-ruth-script' do
     url 'http://dl.dafont.com/dl/?f=ruth_script'
     name 'Ruth Script'
     homepage 'http://www.dafont.com/ruth-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ruthscr.ttf'
 end

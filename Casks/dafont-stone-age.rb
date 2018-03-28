@@ -5,7 +5,6 @@ cask 'dafont-stone-age' do
     url 'http://dl.dafont.com/dl/?f=stone_age'
     name 'Stone Age'
     homepage 'http://www.dafont.com/stone-age.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stone Age.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-symmetric-things' do
     url 'http://dl.dafont.com/dl/?f=symmetric_things'
     name 'Symmetric Things'
     homepage 'http://www.dafont.com/symmetric-things.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'symmetricthings.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-omega-ruby' do
     url 'http://dl.dafont.com/dl/?f=omega_ruby'
     name 'Omega Ruby'
     homepage 'http://www.dafont.com/omega-ruby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Omega Ruby.otf'
 end

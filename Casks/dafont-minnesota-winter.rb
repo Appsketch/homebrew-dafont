@@ -5,7 +5,6 @@ cask 'dafont-minnesota-winter' do
     url 'http://dl.dafont.com/dl/?f=minnesota_winter'
     name 'Minnesota Winter'
     homepage 'http://www.dafont.com/minnesota-winter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MinnesotaWinter-Regular.ttf'
 end

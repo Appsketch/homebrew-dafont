@@ -5,7 +5,6 @@ cask 'dafont-schindler-s-font' do
     url 'http://dl.dafont.com/dl/?f=schindler_s_font'
     name 'Schindler&#039;s Font'
     homepage 'http://www.dafont.com/schindler-s-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShindlerFont_by_Juan_Casco.ttf'
 end

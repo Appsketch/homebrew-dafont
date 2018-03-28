@@ -5,7 +5,6 @@ cask 'dafont-thundercover' do
     url 'http://dl.dafont.com/dl/?f=thundercover'
     name 'Thundercover'
     homepage 'http://www.dafont.com/thundercover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thundercover.otf'
 end

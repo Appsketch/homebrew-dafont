@@ -5,7 +5,6 @@ cask 'dafont-anything-you-wan' do
     url 'http://dl.dafont.com/dl/?f=anything_you_wan'
     name 'Anything you want'
     homepage 'http://www.dafont.com/anything-you-wan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'anythingyouwant.ttf'
 end

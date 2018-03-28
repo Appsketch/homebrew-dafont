@@ -5,7 +5,6 @@ cask 'dafont-semi-cursive-gut' do
     url 'http://dl.dafont.com/dl/?f=semi_cursive_gut'
     name 'Semi Cursive Gut'
     homepage 'http://www.dafont.com/semi-cursive-gut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Semi Cursive Gut.ttf'
 end

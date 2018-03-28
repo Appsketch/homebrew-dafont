@@ -5,7 +5,6 @@ cask 'dafont-cassiopea' do
     url 'http://dl.dafont.com/dl/?f=cassiopea'
     name 'Cassiopea'
     homepage 'http://www.dafont.com/cassiopea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cassiopea.ttf'
 end

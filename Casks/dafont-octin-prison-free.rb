@@ -5,7 +5,6 @@ cask 'dafont-octin-prison-free' do
     url 'http://dl.dafont.com/dl/?f=octin_prison_free'
     name 'Octin Prison Free'
     homepage 'http://www.dafont.com/octin-prison-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'octin prison rg.ttf'
 end

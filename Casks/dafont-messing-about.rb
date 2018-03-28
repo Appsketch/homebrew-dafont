@@ -5,7 +5,6 @@ cask 'dafont-messing-about' do
     url 'http://dl.dafont.com/dl/?f=messing_about'
     name 'Messing About'
     homepage 'http://www.dafont.com/messing-about.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Messing About.ttf'
 end

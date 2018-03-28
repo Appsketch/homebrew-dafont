@@ -5,7 +5,6 @@ cask 'dafont-k22-plural' do
     url 'http://dl.dafont.com/dl/?f=k22_plural'
     name 'K22 Plural'
     homepage 'http://www.dafont.com/k22-plural.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K22 Plural.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hertziano' do
     url 'http://dl.dafont.com/dl/?f=hertziano'
     name 'Hertziano'
     homepage 'http://www.dafont.com/hertziano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hertziano.ttf'
 end

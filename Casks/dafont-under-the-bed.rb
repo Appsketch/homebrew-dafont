@@ -5,7 +5,6 @@ cask 'dafont-under-the-bed' do
     url 'http://dl.dafont.com/dl/?f=under_the_bed'
     name 'Under the bed'
     homepage 'http://www.dafont.com/under-the-bed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'under_the_bed.ttf'
 end

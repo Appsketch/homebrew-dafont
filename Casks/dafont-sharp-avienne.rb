@@ -5,7 +5,6 @@ cask 'dafont-sharp-avienne' do
     url 'http://dl.dafont.com/dl/?f=sharp_avienne'
     name 'Sharp Avienne'
     homepage 'http://www.dafont.com/sharp-avienne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sharp Avienne Condensed Italic.otf'
     font 'Sharp Avienne Condensed.otf'

@@ -5,7 +5,6 @@ cask 'dafont-sc-kingston' do
     url 'http://dl.dafont.com/dl/?f=sc_kingston'
     name 'SC Kingston'
     homepage 'http://www.dafont.com/sc-kingston.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SC Kingston.ttf'
 end

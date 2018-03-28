@@ -5,7 +5,6 @@ cask 'dafont-roadskin' do
     url 'http://dl.dafont.com/dl/?f=roadskin'
     name 'Road Skin'
     homepage 'http://www.dafont.com/roadskin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RoadSkin.ttf'
 end

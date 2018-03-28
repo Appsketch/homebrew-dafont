@@ -5,7 +5,6 @@ cask 'dafont-paresh' do
     url 'http://dl.dafont.com/dl/?f=paresh'
     name 'Paresh'
     homepage 'http://www.dafont.com/paresh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paresh.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-paint-hand' do
     url 'http://dl.dafont.com/dl/?f=paint_hand'
     name 'Paint Hand'
     homepage 'http://www.dafont.com/paint-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paint-hand_limited-set.ttf'
 end

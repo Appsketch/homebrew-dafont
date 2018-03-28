@@ -5,7 +5,6 @@ cask 'dafont-dami-was-here' do
     url 'http://dl.dafont.com/dl/?f=dami_was_here'
     name 'Dami Was Here'
     homepage 'http://www.dafont.com/dami-was-here.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dami_Was_Here.ttf'
 end

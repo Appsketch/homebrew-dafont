@@ -5,7 +5,6 @@ cask 'dafont-bigtangle' do
     url 'http://dl.dafont.com/dl/?f=bigtangle'
     name 'Big Tangle'
     homepage 'http://www.dafont.com/bigtangle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigTangle.ttf'
 end

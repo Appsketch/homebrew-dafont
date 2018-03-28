@@ -5,7 +5,6 @@ cask 'dafont-hildesheima' do
     url 'http://dl.dafont.com/dl/?f=hildesheima'
     name 'Hildesheima'
     homepage 'http://www.dafont.com/hildesheima.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hildesheima.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-across-the-road' do
     url 'http://dl.dafont.com/dl/?f=across_the_road'
     name 'Across the Road'
     homepage 'http://www.dafont.com/across-the-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Across the Road.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-northampton' do
     url 'http://dl.dafont.com/dl/?f=northampton'
     name 'Northampton'
     homepage 'http://www.dafont.com/northampton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'northampton.ttf'
 end

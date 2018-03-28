@@ -5,7 +5,6 @@ cask 'dafont-kg-this-is-not-goodbye' do
     url 'http://dl.dafont.com/dl/?f=kg_this_is_not_goodbye'
     name 'KG This Is Not Goodbye'
     homepage 'http://www.dafont.com/kg-this-is-not-goodbye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGThisIsNotGoodbye.ttf'
 end

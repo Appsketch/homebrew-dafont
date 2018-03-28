@@ -5,7 +5,6 @@ cask 'dafont-hentzau-initials' do
     url 'http://dl.dafont.com/dl/?f=hentzau_initials'
     name 'Hentzau Initials'
     homepage 'http://www.dafont.com/hentzau-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HENTZAU.TTF'
 end

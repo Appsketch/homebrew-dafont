@@ -5,7 +5,6 @@ cask 'dafont-tweaked' do
     url 'http://dl.dafont.com/dl/?f=tweaked'
     name 'Tweaked'
     homepage 'http://www.dafont.com/tweaked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tweaked.ttf'
 end

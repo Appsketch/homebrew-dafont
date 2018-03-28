@@ -5,7 +5,6 @@ cask 'dafont-fireproof' do
     url 'http://dl.dafont.com/dl/?f=fireproof'
     name 'FireProof'
     homepage 'http://www.dafont.com/fireproof.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fireproof.ttf'
 end

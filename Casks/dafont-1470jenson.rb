@@ -5,7 +5,6 @@ cask 'dafont-1470jenson' do
     url 'http://dl.dafont.com/dl/?f=1470jenson'
     name '1470 Jenson'
     homepage 'http://www.dafont.com/1470jenson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1470Jenson.TTF'
 end

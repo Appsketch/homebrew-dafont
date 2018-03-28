@@ -5,7 +5,6 @@ cask 'dafont-petiote' do
     url 'http://dl.dafont.com/dl/?f=petiote'
     name 'Petiote'
     homepage 'http://www.dafont.com/petiote.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'petiote.ttf'
 end

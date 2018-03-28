@@ -5,7 +5,6 @@ cask 'dafont-like-giselle' do
     url 'http://dl.dafont.com/dl/?f=like_giselle'
     name 'Like Giselle?'
     homepage 'http://www.dafont.com/like-giselle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Like Giselle.ttf'
 end

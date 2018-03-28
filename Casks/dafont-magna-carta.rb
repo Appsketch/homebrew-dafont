@@ -5,7 +5,6 @@ cask 'dafont-magna-carta' do
     url 'http://dl.dafont.com/dl/?f=magna_carta'
     name 'Magna Carta'
     homepage 'http://www.dafont.com/magna-carta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Magna Carta.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-scream-in-pain' do
     url 'http://dl.dafont.com/dl/?f=scream_in_pain'
     name 'Scream In Pain'
     homepage 'http://www.dafont.com/scream-in-pain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCREAM IN PAIN.ttf'
 end

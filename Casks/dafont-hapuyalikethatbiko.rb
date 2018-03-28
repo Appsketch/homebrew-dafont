@@ -5,7 +5,6 @@ cask 'dafont-hapuyalikethatbiko' do
     url 'http://dl.dafont.com/dl/?f=hapuyalikethatbiko'
     name 'Hapuyalikethatbiko'
     homepage 'http://www.dafont.com/hapuyalikethatbiko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hapuyalikethatbiko.ttf'
 end

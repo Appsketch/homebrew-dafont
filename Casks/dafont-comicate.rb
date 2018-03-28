@@ -5,7 +5,6 @@ cask 'dafont-comicate' do
     url 'http://dl.dafont.com/dl/?f=comicate'
     name 'Comicate'
     homepage 'http://www.dafont.com/comicate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COMICATE.TTF'
 end

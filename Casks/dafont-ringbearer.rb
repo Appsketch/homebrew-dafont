@@ -5,7 +5,6 @@ cask 'dafont-ringbearer' do
     url 'http://dl.dafont.com/dl/?f=ringbearer'
     name 'Ringbearer'
     homepage 'http://www.dafont.com/ringbearer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RINGM___.TTF'
 end

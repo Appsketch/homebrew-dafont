@@ -5,7 +5,6 @@ cask 'dafont-that-luvin-feelin' do
     url 'http://dl.dafont.com/dl/?f=that_luvin_feelin'
     name 'That Luvin&#039; Feelin'
     homepage 'http://www.dafont.com/that-luvin-feelin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THATLUVI.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jannafont' do
     url 'http://dl.dafont.com/dl/?f=jannafont'
     name 'Jannafont'
     homepage 'http://www.dafont.com/jannafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jannafont.ttf'
 end

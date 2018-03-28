@@ -5,7 +5,6 @@ cask 'dafont-fox-connection' do
     url 'http://dl.dafont.com/dl/?f=fox_connection'
     name 'Fox Connection'
     homepage 'http://www.dafont.com/fox-connection.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fox Connection.otf'
 end

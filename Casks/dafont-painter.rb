@@ -5,7 +5,6 @@ cask 'dafont-painter' do
     url 'http://dl.dafont.com/dl/?f=painter'
     name 'Painter'
     homepage 'http://www.dafont.com/painter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Painter.ttf'
 end

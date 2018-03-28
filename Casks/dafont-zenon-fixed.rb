@@ -5,7 +5,6 @@ cask 'dafont-zenon-fixed' do
     url 'http://dl.dafont.com/dl/?f=zenon_fixed'
     name 'Zenon Fixed'
     homepage 'http://www.dafont.com/zenon-fixed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEMOSGAY.FON'
     font 'ZFIXED.FON'

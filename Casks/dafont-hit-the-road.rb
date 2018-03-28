@@ -5,7 +5,6 @@ cask 'dafont-hit-the-road' do
     url 'http://dl.dafont.com/dl/?f=hit_the_road'
     name 'Hit the Road'
     homepage 'http://www.dafont.com/hit-the-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hitroad.ttf'
 end

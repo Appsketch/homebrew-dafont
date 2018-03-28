@@ -5,7 +5,6 @@ cask 'dafont-jellyka-western-princess' do
     url 'http://dl.dafont.com/dl/?f=jellyka_western_princess'
     name 'Jellyka Western Princess'
     homepage 'http://www.dafont.com/jellyka-western-princess.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jellyka Western Princess.ttf'
 end

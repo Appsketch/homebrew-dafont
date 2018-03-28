@@ -5,7 +5,6 @@ cask 'dafont-zaibatsu' do
     url 'http://dl.dafont.com/dl/?f=zaibatsu'
     name 'Zaibatsu'
     homepage 'http://www.dafont.com/zaibatsu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zaibtsu_.ttf'
 end

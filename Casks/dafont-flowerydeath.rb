@@ -5,7 +5,6 @@ cask 'dafont-flowerydeath' do
     url 'http://dl.dafont.com/dl/?f=flowerydeath'
     name 'Flowery Death'
     homepage 'http://www.dafont.com/flowerydeath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FloweryDeath.ttf'
 end

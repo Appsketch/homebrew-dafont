@@ -5,7 +5,6 @@ cask 'dafont-broken-promise' do
     url 'http://dl.dafont.com/dl/?f=broken_promise'
     name 'Broken Promise'
     homepage 'http://www.dafont.com/broken-promise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Broken Promise.otf'
 end

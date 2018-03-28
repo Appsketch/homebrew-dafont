@@ -5,7 +5,6 @@ cask 'dafont-capitol-chase' do
     url 'http://dl.dafont.com/dl/?f=capitol_chase'
     name 'Capitol Chase'
     homepage 'http://www.dafont.com/capitol-chase.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Capitol Chase.ttf'
 end

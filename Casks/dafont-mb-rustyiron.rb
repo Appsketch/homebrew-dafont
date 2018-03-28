@@ -5,7 +5,6 @@ cask 'dafont-mb-rustyiron' do
     url 'http://dl.dafont.com/dl/?f=mb_rustyiron'
     name 'MB RustyIron'
     homepage 'http://www.dafont.com/mb-rustyiron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-RustyIron_Font.ttf'
 end

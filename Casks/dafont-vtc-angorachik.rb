@@ -5,7 +5,6 @@ cask 'dafont-vtc-angorachik' do
     url 'http://dl.dafont.com/dl/?f=vtc_angorachik'
     name 'VTC Angora Chik'
     homepage 'http://www.dafont.com/vtc-angorachik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC AngoraChik Outline.ttf'
     font 'VTC AngoraChik Regular.ttf'

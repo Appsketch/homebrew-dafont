@@ -5,7 +5,6 @@ cask 'dafont-djb-constance-beauregard' do
     url 'http://dl.dafont.com/dl/?f=djb_constance_beauregard'
     name 'DJB Constance Beauregard'
     homepage 'http://www.dafont.com/djb-constance-beauregard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Constance Beauregard.ttf'
 end

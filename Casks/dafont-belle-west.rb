@@ -5,7 +5,6 @@ cask 'dafont-belle-west' do
     url 'http://dl.dafont.com/dl/?f=belle_west'
     name 'Belle West'
     homepage 'http://www.dafont.com/belle-west.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Belle West.otf'
 end

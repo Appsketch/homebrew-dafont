@@ -5,7 +5,6 @@ cask 'dafont-preciosa' do
     url 'http://dl.dafont.com/dl/?f=preciosa'
     name 'Preciosa'
     homepage 'http://www.dafont.com/preciosa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PRECIOSA.TTF'
 end

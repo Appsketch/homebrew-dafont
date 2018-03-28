@@ -5,7 +5,6 @@ cask 'dafont-front-page-news' do
     url 'http://dl.dafont.com/dl/?f=front_page_news'
     name 'Front Page News'
     homepage 'http://www.dafont.com/front-page-news.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FPN1_1.otf'
 end

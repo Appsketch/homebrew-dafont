@@ -5,7 +5,6 @@ cask 'dafont-picture-squares' do
     url 'http://dl.dafont.com/dl/?f=picture_squares'
     name 'Picture Squares'
     homepage 'http://www.dafont.com/picture-squares.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Picture Squares.ttf'
 end

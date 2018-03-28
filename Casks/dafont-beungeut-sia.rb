@@ -5,7 +5,6 @@ cask 'dafont-beungeut-sia' do
     url 'http://dl.dafont.com/dl/?f=beungeut_sia'
     name 'Beungeut Sia'
     homepage 'http://www.dafont.com/beungeut-sia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beungeut sia.ttf'
 end

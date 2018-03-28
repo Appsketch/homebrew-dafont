@@ -5,7 +5,6 @@ cask 'dafont-british-block-flourish-10th-c' do
     url 'http://dl.dafont.com/dl/?f=british_block_flourish_10th_c'
     name 'British Block Flourish, 10th c.'
     homepage 'http://www.dafont.com/british-block-flourish-10th-c.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BritishBlockFlourish.ttf'
 end

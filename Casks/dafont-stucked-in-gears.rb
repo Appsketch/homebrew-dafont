@@ -5,7 +5,6 @@ cask 'dafont-stucked-in-gears' do
     url 'http://dl.dafont.com/dl/?f=stucked_in_gears'
     name 'Stucked in Gears'
     homepage 'http://www.dafont.com/stucked-in-gears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stucked in Gears.ttf'
 end

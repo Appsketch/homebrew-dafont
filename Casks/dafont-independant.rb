@@ -5,7 +5,6 @@ cask 'dafont-independant' do
     url 'http://dl.dafont.com/dl/?f=independant'
     name 'Independant'
     homepage 'http://www.dafont.com/independant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INDEPALT.ttf'
     font 'INDEPEN_.ttf'

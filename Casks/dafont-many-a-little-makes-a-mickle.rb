@@ -5,7 +5,6 @@ cask 'dafont-many-a-little-makes-a-mickle' do
     url 'http://dl.dafont.com/dl/?f=many_a_little_makes_a_mickle'
     name 'Many a Little Makes a Mickle'
     homepage 'http://www.dafont.com/many-a-little-makes-a-mickle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Many a Little Makes a Mickle Mix Version.ttf'
 end

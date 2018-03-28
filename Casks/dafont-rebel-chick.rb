@@ -5,7 +5,6 @@ cask 'dafont-rebel-chick' do
     url 'http://dl.dafont.com/dl/?f=rebel_chick'
     name 'Rebel Chick'
     homepage 'http://www.dafont.com/rebel-chick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rebel Chick.ttf'
 end

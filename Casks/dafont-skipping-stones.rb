@@ -5,7 +5,6 @@ cask 'dafont-skipping-stones' do
     url 'http://dl.dafont.com/dl/?f=skipping_stones'
     name 'Skipping Stones'
     homepage 'http://www.dafont.com/skipping-stones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skipping_Stones.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-caffe-latte' do
     url 'http://dl.dafont.com/dl/?f=caffe_latte'
     name 'Caffe Latte'
     homepage 'http://www.dafont.com/caffe-latte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'caffelat.ttf'
 end

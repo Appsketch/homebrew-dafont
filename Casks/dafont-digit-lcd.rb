@@ -5,7 +5,6 @@ cask 'dafont-digit-lcd' do
     url 'http://dl.dafont.com/dl/?f=digit_lcd'
     name 'Digit LCD'
     homepage 'http://www.dafont.com/digit-lcd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIGIT-LCD.ttf'
 end

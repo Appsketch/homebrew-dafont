@@ -5,7 +5,6 @@ cask 'dafont-ozda' do
     url 'http://dl.dafont.com/dl/?f=ozda'
     name 'Ozda'
     homepage 'http://www.dafont.com/ozda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ozda2.ttf'
     font 'ozda3d2.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-limousine' do
     url 'http://dl.dafont.com/dl/?f=limousine'
     name 'Limousine'
     homepage 'http://www.dafont.com/limousine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Limousine.ttf'
 end

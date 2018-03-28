@@ -5,7 +5,6 @@ cask 'dafont-hello-ween-font' do
     url 'http://dl.dafont.com/dl/?f=hello_ween_font'
     name 'Hello Ween Font'
     homepage 'http://www.dafont.com/hello-ween-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeLlo WEeN ___.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sleeping-beauty' do
     url 'http://dl.dafont.com/dl/?f=sleeping_beauty'
     name 'Sleeping Beauty'
     homepage 'http://www.dafont.com/sleeping-beauty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sleeping beauty.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mrv-code39extma' do
     url 'http://dl.dafont.com/dl/?f=mrv_code39extma'
     name 'MRV Code39extMA'
     homepage 'http://www.dafont.com/mrv-code39extma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mrvcode39extma.ttf'
 end

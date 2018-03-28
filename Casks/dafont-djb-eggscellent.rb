@@ -5,7 +5,6 @@ cask 'dafont-djb-eggscellent' do
     url 'http://dl.dafont.com/dl/?f=djb_eggscellent'
     name 'DJB Eggscellent'
     homepage 'http://www.dafont.com/djb-eggscellent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Eggsellent Wobbly.ttf'
     font 'DJB Eggsellent.ttf'

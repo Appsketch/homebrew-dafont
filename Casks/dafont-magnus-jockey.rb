@@ -5,7 +5,6 @@ cask 'dafont-magnus-jockey' do
     url 'http://dl.dafont.com/dl/?f=magnus_jockey'
     name 'Magnus Jockey'
     homepage 'http://www.dafont.com/magnus-jockey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MagnusJockey.ttf'
 end

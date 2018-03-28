@@ -5,7 +5,6 @@ cask 'dafont-maximize' do
     url 'http://dl.dafont.com/dl/?f=maximize'
     name 'Maximize'
     homepage 'http://www.dafont.com/maximize.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maximize Bold Italic.otf'
     font 'Maximize Bold.otf'

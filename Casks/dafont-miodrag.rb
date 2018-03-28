@@ -5,7 +5,6 @@ cask 'dafont-miodrag' do
     url 'http://dl.dafont.com/dl/?f=miodrag'
     name 'Miodrag'
     homepage 'http://www.dafont.com/miodrag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miodrag.ttf'
 end

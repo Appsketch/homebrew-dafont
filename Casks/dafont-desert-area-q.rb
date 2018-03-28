@@ -5,7 +5,6 @@ cask 'dafont-desert-area-q' do
     url 'http://dl.dafont.com/dl/?f=desert_area_q'
     name 'Desert'
     homepage 'http://www.dafont.com/desert-area-q.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AREA-Q_DESERT.ttf'
 end

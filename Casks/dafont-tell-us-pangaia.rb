@@ -5,7 +5,6 @@ cask 'dafont-tell-us-pangaia' do
     url 'http://dl.dafont.com/dl/?f=tell_us_pangaia'
     name 'Tell us, Pangaia'
     homepage 'http://www.dafont.com/tell-us-pangaia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tell us, Pangaia.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-westbalaio' do
     url 'http://dl.dafont.com/dl/?f=westbalaio'
     name 'West Balaio'
     homepage 'http://www.dafont.com/westbalaio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WestBalaio.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tearz' do
     url 'http://dl.dafont.com/dl/?f=tearz'
     name 'Tearz'
     homepage 'http://www.dafont.com/tearz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tearz-Regular.otf'
 end

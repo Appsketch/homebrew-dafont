@@ -5,7 +5,6 @@ cask 'dafont-pitstop' do
     url 'http://dl.dafont.com/dl/?f=pitstop'
     name 'Pit Stop'
     homepage 'http://www.dafont.com/pitstop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PitStop.ttf'
 end

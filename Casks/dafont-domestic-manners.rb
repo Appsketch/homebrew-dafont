@@ -5,7 +5,6 @@ cask 'dafont-domestic-manners' do
     url 'http://dl.dafont.com/dl/?f=domestic_manners'
     name 'Domestic Manners'
     homepage 'http://www.dafont.com/domestic-manners.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Domestic_Manners.ttf'
 end

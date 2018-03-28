@@ -5,7 +5,6 @@ cask 'dafont-epidemia' do
     url 'http://dl.dafont.com/dl/?f=epidemia'
     name 'Epidemia'
     homepage 'http://www.dafont.com/epidemia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EPIDEMIA.otf'
 end

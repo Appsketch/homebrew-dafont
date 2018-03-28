@@ -5,7 +5,6 @@ cask 'dafont-alphabet-fantasie' do
     url 'http://dl.dafont.com/dl/?f=alphabet_fantasie'
     name 'Alphabet Fantasie'
     homepage 'http://www.dafont.com/alphabet-fantasie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alphabet Fantasie.ttf'
 end

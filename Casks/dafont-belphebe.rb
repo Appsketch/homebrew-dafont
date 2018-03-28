@@ -5,7 +5,6 @@ cask 'dafont-belphebe' do
     url 'http://dl.dafont.com/dl/?f=belphebe'
     name 'Belphebe'
     homepage 'http://www.dafont.com/belphebe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'be______.ttf'
 end

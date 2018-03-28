@@ -5,7 +5,6 @@ cask 'dafont-overload-rpc' do
     url 'http://dl.dafont.com/dl/?f=overload_rpc'
     name 'Overload'
     homepage 'http://www.dafont.com/overload-rpc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OVERLOAD.TTF'
 end

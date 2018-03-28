@@ -5,7 +5,6 @@ cask 'dafont-jean-is-dead' do
     url 'http://dl.dafont.com/dl/?f=jean_is_dead'
     name 'Jean is Dead'
     homepage 'http://www.dafont.com/jean-is-dead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JEAND___.TTF'
 end

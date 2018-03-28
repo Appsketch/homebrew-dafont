@@ -5,7 +5,6 @@ cask 'dafont-vince-hand-2-trial' do
     url 'http://dl.dafont.com/dl/?f=vince_hand_2_trial'
     name 'Vince Hand 2'
     homepage 'http://www.dafont.com/vince-hand-2-trial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VH2TRIAL.otf'
 end

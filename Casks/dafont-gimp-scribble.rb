@@ -5,7 +5,6 @@ cask 'dafont-gimp-scribble' do
     url 'http://dl.dafont.com/dl/?f=gimp_scribble'
     name 'Gimp Scribble'
     homepage 'http://www.dafont.com/gimp-scribble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gimp Scribble.ttf'
 end

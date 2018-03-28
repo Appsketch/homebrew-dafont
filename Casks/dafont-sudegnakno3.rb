@@ -5,7 +5,6 @@ cask 'dafont-sudegnakno3' do
     url 'http://dl.dafont.com/dl/?f=sudegnakno3'
     name 'Sudegnak No3'
     homepage 'http://www.dafont.com/sudegnakno3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SudegnakNo3.otf'
     font 'SudegnakNo3a.otf'

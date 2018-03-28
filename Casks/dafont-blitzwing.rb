@@ -5,7 +5,6 @@ cask 'dafont-blitzwing' do
     url 'http://dl.dafont.com/dl/?f=blitzwing'
     name 'Blitzwing'
     homepage 'http://www.dafont.com/blitzwing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blitzwing Bold Italic.otf'
     font 'Blitzwing Bold.otf'

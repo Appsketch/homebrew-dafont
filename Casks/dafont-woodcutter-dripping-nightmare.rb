@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-dripping-nightmare' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_dripping_nightmare'
     name 'Woodcutter Dripping Nightmare'
     homepage 'http://www.dafont.com/woodcutter-dripping-nightmare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Dripping Nightmare v.01.ttf'
 end

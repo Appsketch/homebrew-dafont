@@ -5,7 +5,6 @@ cask 'dafont-vanillarainbows' do
     url 'http://dl.dafont.com/dl/?f=vanillarainbows'
     name 'Vanilla Rainbows'
     homepage 'http://www.dafont.com/vanillarainbows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VanillaRainbows.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lady-jane-old' do
     url 'http://dl.dafont.com/dl/?f=lady_jane_old'
     name 'Lady Jane Old'
     homepage 'http://www.dafont.com/lady-jane-old.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lady-Jane-old_free-version.ttf'
 end

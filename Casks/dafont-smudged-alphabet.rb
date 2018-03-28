@@ -5,7 +5,6 @@ cask 'dafont-smudged-alphabet' do
     url 'http://dl.dafont.com/dl/?f=smudged_alphabet'
     name 'Smudged Alphabet'
     homepage 'http://www.dafont.com/smudged-alphabet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'smudged_alphabet.ttf'
 end

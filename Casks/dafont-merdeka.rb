@@ -5,7 +5,6 @@ cask 'dafont-merdeka' do
     url 'http://dl.dafont.com/dl/?f=merdeka'
     name 'Merdeka'
     homepage 'http://www.dafont.com/merdeka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MERDEKA.ttf'
 end

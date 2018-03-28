@@ -5,7 +5,6 @@ cask 'dafont-east-anglia' do
     url 'http://dl.dafont.com/dl/?f=east_anglia'
     name 'East Anglia'
     homepage 'http://www.dafont.com/east-anglia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'East_Anglia.ttf'
 end

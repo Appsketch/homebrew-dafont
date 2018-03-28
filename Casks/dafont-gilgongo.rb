@@ -5,7 +5,6 @@ cask 'dafont-gilgongo' do
     url 'http://dl.dafont.com/dl/?f=gilgongo'
     name 'Gilgongo'
     homepage 'http://www.dafont.com/gilgongo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GILGON__.ttf'
     font 'GILGOND_.ttf'

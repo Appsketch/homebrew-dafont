@@ -5,7 +5,6 @@ cask 'dafont-ten-ton-ballyhoo' do
     url 'http://dl.dafont.com/dl/?f=ten_ton_ballyhoo'
     name 'Ten Ton Ballyhoo'
     homepage 'http://www.dafont.com/ten-ton-ballyhoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ten Ton Ballyhoo Alternates.ttf'
     font 'Ten Ton Ballyhoo.ttf'

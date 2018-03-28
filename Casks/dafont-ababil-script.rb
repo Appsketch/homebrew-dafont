@@ -5,7 +5,6 @@ cask 'dafont-ababil-script' do
     url 'http://dl.dafont.com/dl/?f=ababil_script'
     name 'Ababil Script'
     homepage 'http://www.dafont.com/ababil-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ababil Script DEMO.ttf'
 end

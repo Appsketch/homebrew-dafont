@@ -5,7 +5,6 @@ cask 'dafont-galaxia' do
     url 'http://dl.dafont.com/dl/?f=galaxia'
     name 'Galaxia'
     homepage 'http://www.dafont.com/galaxia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Galaxia.ttf'
 end

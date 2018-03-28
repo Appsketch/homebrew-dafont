@@ -5,7 +5,6 @@ cask 'dafont-piloton' do
     url 'http://dl.dafont.com/dl/?f=piloton'
     name 'Piloton'
     homepage 'http://www.dafont.com/piloton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Piloton G.ttf'
     font 'Piloton.ttf'

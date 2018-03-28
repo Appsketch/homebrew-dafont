@@ -5,7 +5,6 @@ cask 'dafont-mtf-melissa' do
     url 'http://dl.dafont.com/dl/?f=mtf_melissa'
     name 'MTF Melissa'
     homepage 'http://www.dafont.com/mtf-melissa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Melissa.ttf'
 end

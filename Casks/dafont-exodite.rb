@@ -5,7 +5,6 @@ cask 'dafont-exodite' do
     url 'http://dl.dafont.com/dl/?f=exodite'
     name 'Exodite'
     homepage 'http://www.dafont.com/exodite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Exodite Bold Italic.otf'
     font 'Exodite Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-cf-anarchy' do
     url 'http://dl.dafont.com/dl/?f=cf_anarchy'
     name 'CF Anarchy'
     homepage 'http://www.dafont.com/cf-anarchy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFAnarchy-Regular.ttf'
 end

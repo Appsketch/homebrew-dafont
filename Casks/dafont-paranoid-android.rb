@@ -5,7 +5,6 @@ cask 'dafont-paranoid-android' do
     url 'http://dl.dafont.com/dl/?f=paranoid_android'
     name 'Paranoid Android'
     homepage 'http://www.dafont.com/paranoid-android.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PARANOID.TTF'
 end

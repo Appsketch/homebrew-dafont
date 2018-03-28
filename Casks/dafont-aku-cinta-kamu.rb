@@ -5,7 +5,6 @@ cask 'dafont-aku-cinta-kamu' do
     url 'http://dl.dafont.com/dl/?f=aku_cinta_kamu'
     name 'Aku Cinta Kamu'
     homepage 'http://www.dafont.com/aku-cinta-kamu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aku cinta kamu.ttf'
 end

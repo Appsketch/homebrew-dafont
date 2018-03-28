@@ -5,7 +5,6 @@ cask 'dafont-lightly-awkward' do
     url 'http://dl.dafont.com/dl/?f=lightly_awkward'
     name 'Lightly Awkward'
     homepage 'http://www.dafont.com/lightly-awkward.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LightlyAwkward.ttf'
 end

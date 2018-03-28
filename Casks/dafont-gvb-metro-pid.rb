@@ -5,7 +5,6 @@ cask 'dafont-gvb-metro-pid' do
     url 'http://dl.dafont.com/dl/?f=gvb_metro_pid'
     name 'GVB Metro Pid'
     homepage 'http://www.dafont.com/gvb-metro-pid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gvb_metro_pid.ttf'
 end

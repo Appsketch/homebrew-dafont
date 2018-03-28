@@ -5,7 +5,6 @@ cask 'dafont-peekaboo' do
     url 'http://dl.dafont.com/dl/?f=peekaboo'
     name 'Peekaboo 2'
     homepage 'http://www.dafont.com/peekaboo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peekaboo2.ttf'
 end

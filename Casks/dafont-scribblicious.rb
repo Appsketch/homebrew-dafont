@@ -5,7 +5,6 @@ cask 'dafont-scribblicious' do
     url 'http://dl.dafont.com/dl/?f=scribblicious'
     name 'Scribblicious'
     homepage 'http://www.dafont.com/scribblicious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scribblicious.TTF'
 end

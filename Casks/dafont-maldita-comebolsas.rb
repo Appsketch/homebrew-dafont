@@ -5,7 +5,6 @@ cask 'dafont-maldita-comebolsas' do
     url 'http://dl.dafont.com/dl/?f=maldita_comebolsas'
     name 'Maldita Comebolsas'
     homepage 'http://www.dafont.com/maldita-comebolsas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maldita Comebolsas.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-penabico' do
     url 'http://dl.dafont.com/dl/?f=penabico'
     name 'Penabico'
     homepage 'http://www.dafont.com/penabico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Penabico LIMITED FREE VERSION.ttf'
 end

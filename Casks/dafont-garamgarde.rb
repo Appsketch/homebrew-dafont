@@ -5,7 +5,6 @@ cask 'dafont-garamgarde' do
     url 'http://dl.dafont.com/dl/?f=garamgarde'
     name 'GaramGarde'
     homepage 'http://www.dafont.com/garamgarde.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GaramGarde.ttf'
 end

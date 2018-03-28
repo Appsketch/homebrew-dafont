@@ -5,7 +5,6 @@ cask 'dafont-cropfont' do
     url 'http://dl.dafont.com/dl/?f=cropfont'
     name 'CropFont'
     homepage 'http://www.dafont.com/cropfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CropFont.ttf'
 end

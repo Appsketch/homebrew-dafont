@@ -5,7 +5,6 @@ cask 'dafont-buchanan' do
     url 'http://dl.dafont.com/dl/?f=buchanan'
     name 'Buchanan'
     homepage 'http://www.dafont.com/buchanan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'buchanan.ttf'
     font 'buchanan3d.ttf'

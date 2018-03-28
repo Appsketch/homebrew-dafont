@@ -5,7 +5,6 @@ cask 'dafont-mobio' do
     url 'http://dl.dafont.com/dl/?f=mobio'
     name 'Mobio'
     homepage 'http://www.dafont.com/mobio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mobio.ttf'
 end

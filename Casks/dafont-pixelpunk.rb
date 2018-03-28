@@ -5,7 +5,6 @@ cask 'dafont-pixelpunk' do
     url 'http://dl.dafont.com/dl/?f=pixelpunk'
     name 'Pixelpunk'
     homepage 'http://www.dafont.com/pixelpunk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixelpunk_bold.ttf'
     font 'Pixelpunk_boldital.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-amanoblaxtendida' do
     url 'http://dl.dafont.com/dl/?f=amanoblaxtendida'
     name 'A Mano Blaxtendida'
     homepage 'http://www.dafont.com/amanoblaxtendida.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AManoBlaxtendida.ttf'
 end

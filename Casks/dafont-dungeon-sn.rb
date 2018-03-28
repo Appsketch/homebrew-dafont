@@ -5,7 +5,6 @@ cask 'dafont-dungeon-sn' do
     url 'http://dl.dafont.com/dl/?f=dungeon_sn'
     name 'Dungeon'
     homepage 'http://www.dafont.com/dungeon-sn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DUNGRG__.TTF'
 end

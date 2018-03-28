@@ -5,7 +5,6 @@ cask 'dafont-whitelighter' do
     url 'http://dl.dafont.com/dl/?f=whitelighter'
     name 'Whitelighter'
     homepage 'http://www.dafont.com/whitelighter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHARMEDOPENING.ttf'
 end

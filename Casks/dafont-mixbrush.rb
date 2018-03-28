@@ -5,7 +5,6 @@ cask 'dafont-mixbrush' do
     url 'http://dl.dafont.com/dl/?f=mixbrush'
     name 'Mix Brush'
     homepage 'http://www.dafont.com/mixbrush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixBrush.ttf'
 end

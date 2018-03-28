@@ -5,7 +5,6 @@ cask 'dafont-got-heroin' do
     url 'http://dl.dafont.com/dl/?f=got_heroin'
     name 'Got heroin?'
     homepage 'http://www.dafont.com/got-heroin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Got_Heroin.ttf'
 end

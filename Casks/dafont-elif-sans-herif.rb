@@ -5,7 +5,6 @@ cask 'dafont-elif-sans-herif' do
     url 'http://dl.dafont.com/dl/?f=elif_sans_herif'
     name 'Elif Sans Herif'
     homepage 'http://www.dafont.com/elif-sans-herif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elif_Sans_Herif.ttf'
 end

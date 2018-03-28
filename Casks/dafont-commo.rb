@@ -5,7 +5,6 @@ cask 'dafont-commo' do
     url 'http://dl.dafont.com/dl/?f=commo'
     name 'Commo'
     homepage 'http://www.dafont.com/commo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Commo-Monospaced.otf'
     font 'Commo-Regular.otf'

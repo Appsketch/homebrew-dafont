@@ -5,7 +5,6 @@ cask 'dafont-tag-hand-graffiti-trash' do
     url 'http://dl.dafont.com/dl/?f=tag_hand_graffiti_trash'
     name 'Tag Hand Graffiti Trash'
     homepage 'http://www.dafont.com/tag-hand-graffiti-trash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tag Hand Graffiti Trash_fat.otf'
     font 'Tag Hand Graffiti Trash.otf'

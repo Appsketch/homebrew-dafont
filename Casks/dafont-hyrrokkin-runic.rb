@@ -5,7 +5,6 @@ cask 'dafont-hyrrokkin-runic' do
     url 'http://dl.dafont.com/dl/?f=hyrrokkin_runic'
     name 'Hyrrokkin Runic'
     homepage 'http://www.dafont.com/hyrrokkin-runic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HyrrokkinRunic.ttf'
 end

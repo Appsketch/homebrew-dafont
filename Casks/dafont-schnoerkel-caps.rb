@@ -5,7 +5,6 @@ cask 'dafont-schnoerkel-caps' do
     url 'http://dl.dafont.com/dl/?f=schnoerkel_caps'
     name 'Schnoerkel Caps'
     homepage 'http://www.dafont.com/schnoerkel-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SchnoerkelCaps.ttf'
 end

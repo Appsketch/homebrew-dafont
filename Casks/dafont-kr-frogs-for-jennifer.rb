@@ -5,7 +5,6 @@ cask 'dafont-kr-frogs-for-jennifer' do
     url 'http://dl.dafont.com/dl/?f=kr_frogs_for_jennifer'
     name 'KR Frogs for Jennifer'
     homepage 'http://www.dafont.com/kr-frogs-for-jennifer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Frogs for Jennifer.ttf'
 end

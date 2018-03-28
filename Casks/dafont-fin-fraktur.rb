@@ -5,7 +5,6 @@ cask 'dafont-fin-fraktur' do
     url 'http://dl.dafont.com/dl/?f=fin_fraktur'
     name 'Fin Fraktur'
     homepage 'http://www.dafont.com/fin-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fine_fraktur_B.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-skew-it' do
     url 'http://dl.dafont.com/dl/?f=skew_it'
     name 'Skew It'
     homepage 'http://www.dafont.com/skew-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skew_it.ttf'
 end

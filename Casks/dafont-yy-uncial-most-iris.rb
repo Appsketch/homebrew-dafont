@@ -5,7 +5,6 @@ cask 'dafont-yy-uncial-most-iris' do
     url 'http://dl.dafont.com/dl/?f=yy_uncial_most_iris'
     name 'YY Uncial Most Irish'
     homepage 'http://www.dafont.com/yy-uncial-most-iris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Uncial Most Irish Molded.ttf'
     font 'Uncial Most Irish.ttf'

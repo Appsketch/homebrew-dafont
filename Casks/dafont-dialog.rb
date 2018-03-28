@@ -5,7 +5,6 @@ cask 'dafont-dialog' do
     url 'http://dl.dafont.com/dl/?f=dialog'
     name 'Dialog'
     homepage 'http://www.dafont.com/dialog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DialogTypeFree.ttf'
 end

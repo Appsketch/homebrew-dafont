@@ -5,7 +5,6 @@ cask 'dafont-boris-black-bloxx' do
     url 'http://dl.dafont.com/dl/?f=boris_black_bloxx'
     name 'Boris Black Bloxx'
     homepage 'http://www.dafont.com/boris-black-bloxx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BorisBlackBloxx.ttf'
     font 'BorisBlackBloxxDirty.ttf'

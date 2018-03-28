@@ -5,7 +5,6 @@ cask 'dafont-drift-type' do
     url 'http://dl.dafont.com/dl/?f=drift_type'
     name 'Drift Type'
     homepage 'http://www.dafont.com/drift-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drifttype Solid.ttf'
     font 'Drifttype.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-windy-indigo' do
     url 'http://dl.dafont.com/dl/?f=windy_indigo'
     name 'Windy Indigo'
     homepage 'http://www.dafont.com/windy-indigo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Windy Indigo.ttf'
 end

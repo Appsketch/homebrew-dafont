@@ -5,7 +5,6 @@ cask 'dafont-brain-stew' do
     url 'http://dl.dafont.com/dl/?f=brain_stew'
     name 'Brain Stew'
     homepage 'http://www.dafont.com/brain-stew.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brain stew.ttf'
 end

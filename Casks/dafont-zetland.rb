@@ -5,7 +5,6 @@ cask 'dafont-zetland' do
     url 'http://dl.dafont.com/dl/?f=zetland'
     name 'Zetland'
     homepage 'http://www.dafont.com/zetland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zetland.ttf'
 end

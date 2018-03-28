@@ -5,7 +5,6 @@ cask 'dafont-cinder' do
     url 'http://dl.dafont.com/dl/?f=cinder'
     name 'Cinder'
     homepage 'http://www.dafont.com/cinder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cinder.ttf'
 end

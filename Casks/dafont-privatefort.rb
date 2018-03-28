@@ -5,7 +5,6 @@ cask 'dafont-privatefort' do
     url 'http://dl.dafont.com/dl/?f=privatefort'
     name 'Private Fort'
     homepage 'http://www.dafont.com/privatefort.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrivateFort.ttf'
 end

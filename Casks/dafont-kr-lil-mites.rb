@@ -5,7 +5,6 @@ cask 'dafont-kr-lil-mites' do
     url 'http://dl.dafont.com/dl/?f=kr_lil_mites'
     name 'KR Lil Mites'
     homepage 'http://www.dafont.com/kr-lil-mites.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Lil Mites.ttf'
 end

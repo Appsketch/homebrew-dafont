@@ -5,7 +5,6 @@ cask 'dafont-cuttyfruty' do
     url 'http://dl.dafont.com/dl/?f=cuttyfruty'
     name 'CuttyFruty'
     homepage 'http://www.dafont.com/cuttyfruty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CuttyFruty.ttf'
 end

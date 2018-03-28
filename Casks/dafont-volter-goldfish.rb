@@ -5,7 +5,6 @@ cask 'dafont-volter-goldfish' do
     url 'http://dl.dafont.com/dl/?f=volter_goldfish'
     name 'Volter (Goldfish)'
     homepage 'http://www.dafont.com/volter-goldfish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Volter__28Goldfish_29.ttf'
 end

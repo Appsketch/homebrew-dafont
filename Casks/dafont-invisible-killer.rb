@@ -5,7 +5,6 @@ cask 'dafont-invisible-killer' do
     url 'http://dl.dafont.com/dl/?f=invisible_killer'
     name 'Invisible Killer'
     homepage 'http://www.dafont.com/invisible-killer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'invisibl.ttf'
 end

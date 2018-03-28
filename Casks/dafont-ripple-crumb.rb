@@ -5,7 +5,6 @@ cask 'dafont-ripple-crumb' do
     url 'http://dl.dafont.com/dl/?f=ripple_crumb'
     name 'Ripple Crumb'
     homepage 'http://www.dafont.com/ripple-crumb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RIPPC___.TTF'
     font 'RIPPCUC_.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-kr-civil-war' do
     url 'http://dl.dafont.com/dl/?f=kr_civil_war'
     name 'KR Civil War'
     homepage 'http://www.dafont.com/kr-civil-war.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Civil War.ttf'
 end

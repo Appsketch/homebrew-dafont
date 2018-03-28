@@ -5,7 +5,6 @@ cask 'dafont-jigga-jigga' do
     url 'http://dl.dafont.com/dl/?f=jigga_jigga'
     name 'Jigga Jigga'
     homepage 'http://www.dafont.com/jigga-jigga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jigga_jigga.ttf'
 end

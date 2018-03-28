@@ -5,7 +5,6 @@ cask 'dafont-variety' do
     url 'http://dl.dafont.com/dl/?f=variety'
     name 'Variety'
     homepage 'http://www.dafont.com/variety.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Variety_free-version.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-refluxed' do
     url 'http://dl.dafont.com/dl/?f=refluxed'
     name 'Refluxed'
     homepage 'http://www.dafont.com/refluxed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'refluxed.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mutter' do
     url 'http://dl.dafont.com/dl/?f=mutter'
     name 'Mutter'
     homepage 'http://www.dafont.com/mutter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MUTTER__.TTF'
 end

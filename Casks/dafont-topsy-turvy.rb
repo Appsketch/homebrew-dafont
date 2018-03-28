@@ -5,7 +5,6 @@ cask 'dafont-topsy-turvy' do
     url 'http://dl.dafont.com/dl/?f=topsy_turvy'
     name 'Topsy Turvy'
     homepage 'http://www.dafont.com/topsy-turvy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Topsy.ttf'
 end

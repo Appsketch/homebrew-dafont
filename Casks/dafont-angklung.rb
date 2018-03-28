@@ -5,7 +5,6 @@ cask 'dafont-angklung' do
     url 'http://dl.dafont.com/dl/?f=angklung'
     name 'Angklung'
     homepage 'http://www.dafont.com/angklung.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angklung-Regular.ttf'
 end

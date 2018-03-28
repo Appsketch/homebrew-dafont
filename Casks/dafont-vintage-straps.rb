@@ -5,7 +5,6 @@ cask 'dafont-vintage-straps' do
     url 'http://dl.dafont.com/dl/?f=vintage_straps'
     name 'Vintage Straps'
     homepage 'http://www.dafont.com/vintage-straps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vintage_Straps_bold.ttf'
     font 'Vintage_Straps_light.ttf'

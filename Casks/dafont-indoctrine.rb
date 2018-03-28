@@ -5,7 +5,6 @@ cask 'dafont-indoctrine' do
     url 'http://dl.dafont.com/dl/?f=indoctrine'
     name 'Indoctrine'
     homepage 'http://www.dafont.com/indoctrine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Indoctrine-jlloyd.ttf'
 end

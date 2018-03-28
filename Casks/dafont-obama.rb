@@ -5,7 +5,6 @@ cask 'dafont-obama' do
     url 'http://dl.dafont.com/dl/?f=obama'
     name 'Obama'
     homepage 'http://www.dafont.com/obama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Obama.ttf'
 end

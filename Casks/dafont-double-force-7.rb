@@ -5,7 +5,6 @@ cask 'dafont-double-force-7' do
     url 'http://dl.dafont.com/dl/?f=double_force_7'
     name 'Double Force 7'
     homepage 'http://www.dafont.com/double-force-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'double_force_7.ttf'
 end

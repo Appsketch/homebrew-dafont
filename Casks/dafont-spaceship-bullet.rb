@@ -5,7 +5,6 @@ cask 'dafont-spaceship-bullet' do
     url 'http://dl.dafont.com/dl/?f=spaceship_bullet'
     name 'Spaceship Bullet'
     homepage 'http://www.dafont.com/spaceship-bullet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spaceship Bullet.ttf'
 end

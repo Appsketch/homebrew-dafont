@@ -5,7 +5,6 @@ cask 'dafont-wbx-domin8' do
     url 'http://dl.dafont.com/dl/?f=wbx_domin8'
     name 'WBX Domin8'
     homepage 'http://www.dafont.com/wbx-domin8.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wbxdomin8.ttf'
 end

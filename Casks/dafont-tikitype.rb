@@ -5,7 +5,6 @@ cask 'dafont-tikitype' do
     url 'http://dl.dafont.com/dl/?f=tikitype'
     name 'Tikitype'
     homepage 'http://www.dafont.com/tikitype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tikitype.ttf'
 end

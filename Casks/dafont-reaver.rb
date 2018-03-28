@@ -5,7 +5,6 @@ cask 'dafont-reaver' do
     url 'http://dl.dafont.com/dl/?f=reaver'
     name 'Reaver'
     homepage 'http://www.dafont.com/reaver.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RVR-IT.ttf'
     font 'RVR-RE.ttf'

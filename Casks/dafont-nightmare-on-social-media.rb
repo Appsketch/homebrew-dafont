@@ -5,7 +5,6 @@ cask 'dafont-nightmare-on-social-media' do
     url 'http://dl.dafont.com/dl/?f=nightmare_on_social_media'
     name 'Nightmare on Social Media'
     homepage 'http://www.dafont.com/nightmare-on-social-media.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nightmare on Social Media.ttf'
 end

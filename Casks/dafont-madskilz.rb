@@ -5,7 +5,6 @@ cask 'dafont-madskilz' do
     url 'http://dl.dafont.com/dl/?f=madskilz'
     name 'Mad Skilz'
     homepage 'http://www.dafont.com/madskilz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MadSkilz.ttf'
 end

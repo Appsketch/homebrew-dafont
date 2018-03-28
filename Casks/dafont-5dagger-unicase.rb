@@ -5,7 +5,6 @@ cask 'dafont-5dagger-unicase' do
     url 'http://dl.dafont.com/dl/?f=5dagger_unicase'
     name '5Dagger Unicase'
     homepage 'http://www.dafont.com/5dagger-unicase.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5dagger_unicase.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-noasarck-quattro' do
     url 'http://dl.dafont.com/dl/?f=noasarck_quattro'
     name 'Noasarck Quattro'
     homepage 'http://www.dafont.com/noasarck-quattro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Noasarck Quattro.otf'
 end

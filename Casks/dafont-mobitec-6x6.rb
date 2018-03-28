@@ -5,7 +5,6 @@ cask 'dafont-mobitec-6x6' do
     url 'http://dl.dafont.com/dl/?f=mobitec_6x6'
     name 'Mobitec 6x6'
     homepage 'http://www.dafont.com/mobitec-6x6.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mobitec-6x6.ttf'
 end

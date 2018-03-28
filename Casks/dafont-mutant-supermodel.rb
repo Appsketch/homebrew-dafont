@@ -5,7 +5,6 @@ cask 'dafont-mutant-supermodel' do
     url 'http://dl.dafont.com/dl/?f=mutant_supermodel'
     name 'Mutant Supermodel'
     homepage 'http://www.dafont.com/mutant-supermodel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mutant Supermodel.ttf'
 end

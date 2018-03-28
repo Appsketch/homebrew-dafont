@@ -5,7 +5,6 @@ cask 'dafont-btd-beezwax' do
     url 'http://dl.dafont.com/dl/?f=btd_beezwax'
     name 'Btd BeezWax'
     homepage 'http://www.dafont.com/btd-beezwax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'btd_beezwax.ttf'
 end

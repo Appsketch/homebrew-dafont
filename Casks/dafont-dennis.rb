@@ -5,7 +5,6 @@ cask 'dafont-dennis' do
     url 'http://dl.dafont.com/dl/?f=dennis'
     name 'Dennis'
     homepage 'http://www.dafont.com/dennis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dennis_Regular.ttf'
 end

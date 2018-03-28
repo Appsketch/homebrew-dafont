@@ -5,7 +5,6 @@ cask 'dafont-highlevel' do
     url 'http://dl.dafont.com/dl/?f=highlevel'
     name 'High Level'
     homepage 'http://www.dafont.com/highlevel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighLevel.ttf'
 end

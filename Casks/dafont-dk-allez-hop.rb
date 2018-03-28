@@ -5,7 +5,6 @@ cask 'dafont-dk-allez-hop' do
     url 'http://dl.dafont.com/dl/?f=dk_allez_hop'
     name 'DK Allez Hop'
     homepage 'http://www.dafont.com/dk-allez-hop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Allez Hop.otf'
 end

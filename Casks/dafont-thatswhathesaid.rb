@@ -5,7 +5,6 @@ cask 'dafont-thatswhathesaid' do
     url 'http://dl.dafont.com/dl/?f=thatswhathesaid'
     name 'Thats What He Said'
     homepage 'http://www.dafont.com/thatswhathesaid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThatsWhatHeSaid.ttf'
 end

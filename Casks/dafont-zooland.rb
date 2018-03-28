@@ -5,7 +5,6 @@ cask 'dafont-zooland' do
     url 'http://dl.dafont.com/dl/?f=zooland'
     name 'Zooland'
     homepage 'http://www.dafont.com/zooland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zooland.ttf'
 end

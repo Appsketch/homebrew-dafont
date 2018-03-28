@@ -5,7 +5,6 @@ cask 'dafont-doctormeow' do
     url 'http://dl.dafont.com/dl/?f=doctormeow'
     name 'Doctor Meow'
     homepage 'http://www.dafont.com/doctormeow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DoctorMeow.ttf'
 end

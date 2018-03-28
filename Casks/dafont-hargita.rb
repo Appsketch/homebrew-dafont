@@ -5,7 +5,6 @@ cask 'dafont-hargita' do
     url 'http://dl.dafont.com/dl/?f=hargita'
     name 'Hargita'
     homepage 'http://www.dafont.com/hargita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hargita.ttf'
 end

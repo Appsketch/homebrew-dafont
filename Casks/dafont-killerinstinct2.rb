@@ -5,7 +5,6 @@ cask 'dafont-killerinstinct2' do
     url 'http://dl.dafont.com/dl/?f=killerinstinct2'
     name 'Killer Instinct 2'
     homepage 'http://www.dafont.com/killerinstinct2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KillerInstinct2v3.5.ttf'
 end

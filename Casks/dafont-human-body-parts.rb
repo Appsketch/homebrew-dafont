@@ -5,7 +5,6 @@ cask 'dafont-human-body-parts' do
     url 'http://dl.dafont.com/dl/?f=human_body_parts'
     name 'Human Body Parts'
     homepage 'http://www.dafont.com/human-body-parts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Human Body Parts.ttf'
 end

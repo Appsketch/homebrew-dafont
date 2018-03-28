@@ -5,7 +5,6 @@ cask 'dafont-tag-it-yourself' do
     url 'http://dl.dafont.com/dl/?f=tag_it_yourself'
     name 'Tag It Yourself'
     homepage 'http://www.dafont.com/tag-it-yourself.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TiY-shareware.ttf'
 end

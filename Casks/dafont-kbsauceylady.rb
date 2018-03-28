@@ -5,7 +5,6 @@ cask 'dafont-kbsauceylady' do
     url 'http://dl.dafont.com/dl/?f=kbsauceylady'
     name 'KB Saucey Lady'
     homepage 'http://www.dafont.com/kbsauceylady.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBSauceylady.ttf'
 end

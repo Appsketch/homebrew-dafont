@@ -5,7 +5,6 @@ cask 'dafont-quiwo-luse-tfb' do
     url 'http://dl.dafont.com/dl/?f=quiwo_luse_tfb'
     name 'Quiwo Luse TFB'
     homepage 'http://www.dafont.com/quiwo-luse-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUIWO LUSE TFB.ttf'
 end

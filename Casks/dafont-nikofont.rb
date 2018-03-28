@@ -5,7 +5,6 @@ cask 'dafont-nikofont' do
     url 'http://dl.dafont.com/dl/?f=nikofont'
     name 'NikoFont'
     homepage 'http://www.dafont.com/nikofont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NikoFont.ttf'
 end

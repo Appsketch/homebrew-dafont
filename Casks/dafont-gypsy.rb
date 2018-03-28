@@ -5,7 +5,6 @@ cask 'dafont-gypsy' do
     url 'http://dl.dafont.com/dl/?f=gypsy'
     name 'Gypsy'
     homepage 'http://www.dafont.com/gypsy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gypsy Kandy.ttf'
 end

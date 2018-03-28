@@ -5,7 +5,6 @@ cask 'dafont-bigness' do
     url 'http://dl.dafont.com/dl/?f=bigness'
     name 'Bigness'
     homepage 'http://www.dafont.com/bigness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bigness.ttf'
 end

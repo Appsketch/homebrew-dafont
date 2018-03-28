@@ -5,7 +5,6 @@ cask 'dafont-just-like-that' do
     url 'http://dl.dafont.com/dl/?f=just_like_that'
     name 'Just Like That'
     homepage 'http://www.dafont.com/just-like-that.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Just Like That.ttf'
 end

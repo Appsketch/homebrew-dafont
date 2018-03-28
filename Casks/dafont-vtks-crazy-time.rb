@@ -5,7 +5,6 @@ cask 'dafont-vtks-crazy-time' do
     url 'http://dl.dafont.com/dl/?f=vtks_crazy_time'
     name 'VTKS Crazy Time'
     homepage 'http://www.dafont.com/vtks-crazy-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks crazy time.ttf'
 end

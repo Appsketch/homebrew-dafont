@@ -5,7 +5,6 @@ cask 'dafont-rickgearyhomage' do
     url 'http://dl.dafont.com/dl/?f=rickgearyhomage'
     name 'Rick Geary Homage'
     homepage 'http://www.dafont.com/rickgearyhomage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RickGearyHomage.ttf'
 end

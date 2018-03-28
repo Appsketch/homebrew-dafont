@@ -5,7 +5,6 @@ cask 'dafont-cutie-pop' do
     url 'http://dl.dafont.com/dl/?f=cutie_pop'
     name 'Cutie Pop'
     homepage 'http://www.dafont.com/cutie-pop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CutiePop.ttf'
 end

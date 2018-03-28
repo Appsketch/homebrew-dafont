@@ -5,7 +5,6 @@ cask 'dafont-springfield-tablets' do
     url 'http://dl.dafont.com/dl/?f=springfield_tablets'
     name 'Springfield Tablets'
     homepage 'http://www.dafont.com/springfield-tablets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPRIT___.TTF'
 end

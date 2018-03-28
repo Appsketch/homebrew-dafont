@@ -5,7 +5,6 @@ cask 'dafont-beware-of-pitbull' do
     url 'http://dl.dafont.com/dl/?f=beware_of_pitbull'
     name 'Beware of Pitbull'
     homepage 'http://www.dafont.com/beware-of-pitbull.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beware of Pitbull.ttf'
 end

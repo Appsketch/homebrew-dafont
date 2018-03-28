@@ -5,7 +5,6 @@ cask 'dafont-lyhyt-lauantai' do
     url 'http://dl.dafont.com/dl/?f=lyhyt_lauantai'
     name 'Lyhyt Lauantai'
     homepage 'http://www.dafont.com/lyhyt-lauantai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lyhyt Lauantai.ttf'
 end

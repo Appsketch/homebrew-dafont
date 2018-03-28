@@ -5,7 +5,6 @@ cask 'dafont-vtc-komikskans' do
     url 'http://dl.dafont.com/dl/?f=vtc_komikskans'
     name 'VTC Komik Skans'
     homepage 'http://www.dafont.com/vtc-komikskans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC-KomikSkans-One.ttf'
     font 'VTC-KomikSkans-Two.ttf'

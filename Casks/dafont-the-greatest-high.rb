@@ -5,7 +5,6 @@ cask 'dafont-the-greatest-high' do
     url 'http://dl.dafont.com/dl/?f=the_greatest_high'
     name 'The Greatest High'
     homepage 'http://www.dafont.com/the-greatest-high.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the greatest high.ttf'
 end

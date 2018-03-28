@@ -5,7 +5,6 @@ cask 'dafont-y2k-subterran-express-kg' do
     url 'http://dl.dafont.com/dl/?f=y2k_subterran_express_kg'
     name 'Y2k Subterran Express KG'
     homepage 'http://www.dafont.com/y2k-subterran-express-kg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Subex_KG.TTF'
 end

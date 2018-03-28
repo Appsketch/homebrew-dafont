@@ -5,7 +5,6 @@ cask 'dafont-saylor' do
     url 'http://dl.dafont.com/dl/?f=saylor'
     name 'Saylor'
     homepage 'http://www.dafont.com/saylor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Saylor.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-oberon' do
     url 'http://dl.dafont.com/dl/?f=oberon'
     name 'Oberon'
     homepage 'http://www.dafont.com/oberon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'oberonv2.ttf'
     font 'oberonv2c.ttf'

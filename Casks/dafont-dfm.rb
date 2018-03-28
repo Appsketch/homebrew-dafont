@@ -5,7 +5,6 @@ cask 'dafont-dfm' do
     url 'http://dl.dafont.com/dl/?f=dfm'
     name 'DFM'
     homepage 'http://www.dafont.com/dfm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DICKS FROM MARS.ttf'
 end

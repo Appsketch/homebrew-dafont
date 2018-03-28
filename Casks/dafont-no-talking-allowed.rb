@@ -5,7 +5,6 @@ cask 'dafont-no-talking-allowed' do
     url 'http://dl.dafont.com/dl/?f=no_talking_allowed'
     name 'No Talking Allowed '
     homepage 'http://www.dafont.com/no-talking-allowed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'No Talking Allowed.ttf'
 end

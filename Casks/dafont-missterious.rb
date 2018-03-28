@@ -5,7 +5,6 @@ cask 'dafont-missterious' do
     url 'http://dl.dafont.com/dl/?f=missterious'
     name 'Miss Terious'
     homepage 'http://www.dafont.com/missterious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miss Terious.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-britannian-runes' do
     url 'http://dl.dafont.com/dl/?f=britannian_runes'
     name 'Britannian Runes'
     homepage 'http://www.dafont.com/britannian-runes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ULTIMA.TTF'
 end

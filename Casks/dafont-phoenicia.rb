@@ -5,7 +5,6 @@ cask 'dafont-phoenicia' do
     url 'http://dl.dafont.com/dl/?f=phoenicia'
     name 'Phoenicia'
     homepage 'http://www.dafont.com/phoenicia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'phoenicia.ttf'
     font 'phoenicia3d.ttf'

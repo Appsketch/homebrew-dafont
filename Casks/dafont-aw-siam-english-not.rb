@@ -5,7 +5,6 @@ cask 'dafont-aw-siam-english-not' do
     url 'http://dl.dafont.com/dl/?f=aw_siam_english_not'
     name 'AW Siam  English not Thai'
     homepage 'http://www.dafont.com/aw-siam-english-not.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AW_Siam.ttf'
 end

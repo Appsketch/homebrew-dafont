@@ -5,7 +5,6 @@ cask 'dafont-interstellar-erosion' do
     url 'http://dl.dafont.com/dl/?f=interstellar_erosion'
     name 'Interstellar Erosion'
     homepage 'http://www.dafont.com/interstellar-erosion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InterstellarErosion.ttf'
 end

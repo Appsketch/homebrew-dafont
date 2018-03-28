@@ -5,7 +5,6 @@ cask 'dafont-virginias-kool-font' do
     url 'http://dl.dafont.com/dl/?f=virginias_kool_font'
     name 'Virginia&#039;s Kool Font'
     homepage 'http://www.dafont.com/virginias-kool-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Virginia Kool Font.ttf'
 end

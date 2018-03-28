@@ -5,7 +5,6 @@ cask 'dafont-aquawax' do
     url 'http://dl.dafont.com/dl/?f=aquawax'
     name 'Aquawax'
     homepage 'http://www.dafont.com/aquawax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aquawax Black Trial.ttf'
     font 'Aquawax Light Trial.ttf'

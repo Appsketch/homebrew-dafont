@@ -5,7 +5,6 @@ cask 'dafont-day-poster-black' do
     url 'http://dl.dafont.com/dl/?f=day_poster_black'
     name 'Day Poster Black'
     homepage 'http://www.dafont.com/day-poster-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DAYPBL__.TTF'
 end

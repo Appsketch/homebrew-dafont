@@ -5,7 +5,6 @@ cask 'dafont-space-truckin' do
     url 'http://dl.dafont.com/dl/?f=space_truckin'
     name 'Space Truckin'
     homepage 'http://www.dafont.com/space-truckin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'space truckin.ttf'
 end

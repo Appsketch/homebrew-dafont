@@ -5,7 +5,6 @@ cask 'dafont-breakaway-maximus' do
     url 'http://dl.dafont.com/dl/?f=breakaway_maximus'
     name 'BreakAway'
     homepage 'http://www.dafont.com/breakaway-maximus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BreakAway.ttf'
 end

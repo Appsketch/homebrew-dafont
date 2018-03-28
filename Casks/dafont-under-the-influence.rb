@@ -5,7 +5,6 @@ cask 'dafont-under-the-influence' do
     url 'http://dl.dafont.com/dl/?f=under_the_influence'
     name 'Under the influence'
     homepage 'http://www.dafont.com/under-the-influence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Under the influence.ttf'
 end

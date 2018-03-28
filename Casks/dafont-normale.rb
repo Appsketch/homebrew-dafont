@@ -5,7 +5,6 @@ cask 'dafont-normale' do
     url 'http://dl.dafont.com/dl/?f=normale'
     name 'Normale'
     homepage 'http://www.dafont.com/normale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NormaleBlackPersonalUse.ttf'
     font 'NormalePersonalUse.ttf'

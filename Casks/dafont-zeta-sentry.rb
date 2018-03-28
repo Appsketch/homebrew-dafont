@@ -5,7 +5,6 @@ cask 'dafont-zeta-sentry' do
     url 'http://dl.dafont.com/dl/?f=zeta_sentry'
     name 'Zeta Sentry'
     homepage 'http://www.dafont.com/zeta-sentry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zetasentry.ttf'
     font 'zetasentry3d.ttf'

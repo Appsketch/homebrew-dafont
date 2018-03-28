@@ -5,7 +5,6 @@ cask 'dafont-smoth-bight' do
     url 'http://dl.dafont.com/dl/?f=smoth_bight'
     name 'Smoth Bight'
     homepage 'http://www.dafont.com/smoth-bight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smoth-Bight - Por Kustren.otf'
     font 'Smoth-Bight Italic - Por Kustren.otf'

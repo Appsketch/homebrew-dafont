@@ -5,7 +5,6 @@ cask 'dafont-star-fox-starwing' do
     url 'http://dl.dafont.com/dl/?f=star_fox_starwing'
     name 'Star Fox/Starwing'
     homepage 'http://www.dafont.com/star-fox-starwing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Star-Fox-Starwing.ttf'
 end

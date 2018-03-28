@@ -5,7 +5,6 @@ cask 'dafont-chocolate-type' do
     url 'http://dl.dafont.com/dl/?f=chocolate_type'
     name 'Chocolate Type'
     homepage 'http://www.dafont.com/chocolate-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chocolate type bold spaced.ttf'
 end

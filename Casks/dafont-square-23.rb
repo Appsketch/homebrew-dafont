@@ -5,7 +5,6 @@ cask 'dafont-square-23' do
     url 'http://dl.dafont.com/dl/?f=square_23'
     name 'Square 23'
     homepage 'http://www.dafont.com/square-23.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'square 23.ttf'
 end

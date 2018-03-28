@@ -5,7 +5,6 @@ cask 'dafont-the-medic' do
     url 'http://dl.dafont.com/dl/?f=the_medic'
     name 'The Medic'
     homepage 'http://www.dafont.com/the-medic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheMedic-Regular.ttf'
 end

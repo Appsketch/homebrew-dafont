@@ -5,7 +5,6 @@ cask 'dafont-just-a-kid' do
     url 'http://dl.dafont.com/dl/?f=just_a_kid'
     name 'Just a kid'
     homepage 'http://www.dafont.com/just-a-kid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'just a kid.ttf'
 end

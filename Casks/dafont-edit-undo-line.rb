@@ -5,7 +5,6 @@ cask 'dafont-edit-undo-line' do
     url 'http://dl.dafont.com/dl/?f=edit_undo_line'
     name 'Edit Undo Line'
     homepage 'http://www.dafont.com/edit-undo-line.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'edunline.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sf-scribbled-sans' do
     url 'http://dl.dafont.com/dl/?f=sf_scribbled_sans'
     name 'SF Scribbled Sans'
     homepage 'http://www.dafont.com/sf-scribbled-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Scribbled Sans Bold Italic.ttf'
     font 'SF Scribbled Sans Bold.ttf'

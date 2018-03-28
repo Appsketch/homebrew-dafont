@@ -5,7 +5,6 @@ cask 'dafont-surabi-bandung' do
     url 'http://dl.dafont.com/dl/?f=surabi_bandung'
     name 'Surabi Bandung'
     homepage 'http://www.dafont.com/surabi-bandung.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Surabi Bandung.ttf'
 end

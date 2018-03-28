@@ -5,7 +5,6 @@ cask 'dafont-sweet-confusion' do
     url 'http://dl.dafont.com/dl/?f=sweet_confusion'
     name 'Sweet Confusion'
     homepage 'http://www.dafont.com/sweet-confusion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sweet confusion_free.ttf'
 end

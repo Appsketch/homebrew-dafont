@@ -5,7 +5,6 @@ cask 'dafont-thannhaeuser-zier' do
     url 'http://dl.dafont.com/dl/?f=thannhaeuser_zier'
     name 'Thannhaeuser Zier'
     homepage 'http://www.dafont.com/thannhaeuser-zier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThannhaeuserZier.ttf'
 end

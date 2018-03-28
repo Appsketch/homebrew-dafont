@@ -5,7 +5,6 @@ cask 'dafont-a-j-knots' do
     url 'http://dl.dafont.com/dl/?f=a_j_knots'
     name 'A-J Knots'
     homepage 'http://www.dafont.com/a-j-knots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A-J knots.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vitality' do
     url 'http://dl.dafont.com/dl/?f=vitality'
     name 'Vitality'
     homepage 'http://www.dafont.com/vitality.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vitality.ttf'
 end

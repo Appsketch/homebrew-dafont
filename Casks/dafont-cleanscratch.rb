@@ -5,7 +5,6 @@ cask 'dafont-cleanscratch' do
     url 'http://dl.dafont.com/dl/?f=cleanscratch'
     name 'Clean Scratch'
     homepage 'http://www.dafont.com/cleanscratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CleanScratch.ttf'
 end

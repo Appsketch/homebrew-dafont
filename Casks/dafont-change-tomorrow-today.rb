@@ -5,7 +5,6 @@ cask 'dafont-change-tomorrow-today' do
     url 'http://dl.dafont.com/dl/?f=change_tomorrow_today'
     name 'Change Tomorrow Today'
     homepage 'http://www.dafont.com/change-tomorrow-today.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Change Tomorrow Today.ttf'
 end

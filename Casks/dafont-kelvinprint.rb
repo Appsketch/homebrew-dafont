@@ -5,7 +5,6 @@ cask 'dafont-kelvinprint' do
     url 'http://dl.dafont.com/dl/?f=kelvinprint'
     name 'Kelvin Print'
     homepage 'http://www.dafont.com/kelvinprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kelvin Print.ttf'
 end

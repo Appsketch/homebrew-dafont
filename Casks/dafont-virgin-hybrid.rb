@@ -5,7 +5,6 @@ cask 'dafont-virgin-hybrid' do
     url 'http://dl.dafont.com/dl/?f=virgin_hybrid'
     name 'Virgin Hybrid'
     homepage 'http://www.dafont.com/virgin-hybrid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'virginhybrid.ttf'
     font 'virginhybrid3d.ttf'

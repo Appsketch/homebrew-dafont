@@ -5,7 +5,6 @@ cask 'dafont-bn-manson-nights' do
     url 'http://dl.dafont.com/dl/?f=bn_manson_nights'
     name 'BN Manson Nights'
     homepage 'http://www.dafont.com/bn-manson-nights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Manson Nights.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wff-lage-grfica-fgm-normal' do
     url 'http://dl.dafont.com/dl/?f=wff_lage_grfica_fgm_normal'
     name 'WFF Lage Grafica'
     homepage 'http://www.dafont.com/wff-lage-grfica-fgm-normal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LAGE_GRAFICA__.TTF'
 end

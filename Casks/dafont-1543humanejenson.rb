@@ -5,7 +5,6 @@ cask 'dafont-1543humanejenson' do
     url 'http://dl.dafont.com/dl/?f=1543humanejenson'
     name '1543 Humane Jenson'
     homepage 'http://www.dafont.com/1543humanejenson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1543Humane_jenson_bold.TTF'
     font '1543Humane_Jenson.TTF'

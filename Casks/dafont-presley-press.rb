@@ -5,7 +5,6 @@ cask 'dafont-presley-press' do
     url 'http://dl.dafont.com/dl/?f=presley_press'
     name 'Presley Press'
     homepage 'http://www.dafont.com/presley-press.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ppress.ttf'
     font 'ppress3d.ttf'

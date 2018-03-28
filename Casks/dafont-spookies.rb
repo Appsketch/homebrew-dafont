@@ -5,7 +5,6 @@ cask 'dafont-spookies' do
     url 'http://dl.dafont.com/dl/?f=spookies'
     name 'Spookies'
     homepage 'http://www.dafont.com/spookies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spookies.ttf'
 end

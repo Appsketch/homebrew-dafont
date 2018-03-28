@@ -5,7 +5,6 @@ cask 'dafont-fearless-coyne' do
     url 'http://dl.dafont.com/dl/?f=fearless_coyne'
     name 'Fearless Coyne'
     homepage 'http://www.dafont.com/fearless-coyne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fearless_Coyne_Hollow.ttf'
     font 'Fearless_Coyne_Shadow.ttf'

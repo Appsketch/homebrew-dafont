@@ -5,7 +5,6 @@ cask 'dafont-bit-lazy' do
     url 'http://dl.dafont.com/dl/?f=bit_lazy'
     name 'Bit Lazy'
     homepage 'http://www.dafont.com/bit-lazy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bit-Lazy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-anti-everything' do
     url 'http://dl.dafont.com/dl/?f=anti_everything'
     name 'Anti Everything'
     homepage 'http://www.dafont.com/anti-everything.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anti-everything.ttf'
 end

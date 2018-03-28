@@ -5,7 +5,6 @@ cask 'dafont-jbstyle' do
     url 'http://dl.dafont.com/dl/?f=jbstyle'
     name 'JB Style'
     homepage 'http://www.dafont.com/jbstyle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JBStyle-Regular.ttf'
 end

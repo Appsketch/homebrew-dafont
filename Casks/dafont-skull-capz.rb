@@ -5,7 +5,6 @@ cask 'dafont-skull-capz' do
     url 'http://dl.dafont.com/dl/?f=skull_capz'
     name 'Skull Capz'
     homepage 'http://www.dafont.com/skull-capz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skullcap.ttf'
 end

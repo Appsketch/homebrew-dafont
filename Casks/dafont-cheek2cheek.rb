@@ -5,7 +5,6 @@ cask 'dafont-cheek2cheek' do
     url 'http://dl.dafont.com/dl/?f=cheek2cheek'
     name 'Cheek 2 Cheek'
     homepage 'http://www.dafont.com/cheek2cheek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'C2C_black!.ttf'
     font 'C2C_faded!.ttf'

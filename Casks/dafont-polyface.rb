@@ -5,7 +5,6 @@ cask 'dafont-polyface' do
     url 'http://dl.dafont.com/dl/?f=polyface'
     name 'PolyFace'
     homepage 'http://www.dafont.com/polyface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'polyface.ttf'
 end

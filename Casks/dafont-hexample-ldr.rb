@@ -5,7 +5,6 @@ cask 'dafont-hexample-ldr' do
     url 'http://dl.dafont.com/dl/?f=hexample_ldr'
     name 'Hexample LDR'
     homepage 'http://www.dafont.com/hexample-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hexample_ldr.ttf'
 end

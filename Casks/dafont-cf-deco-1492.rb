@@ -5,7 +5,6 @@ cask 'dafont-cf-deco-1492' do
     url 'http://dl.dafont.com/dl/?f=cf_deco_1492'
     name 'CF Deco 1492'
     homepage 'http://www.dafont.com/cf-deco-1492.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFDeco.ttf'
 end

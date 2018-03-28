@@ -5,7 +5,6 @@ cask 'dafont-this-emulation' do
     url 'http://dl.dafont.com/dl/?f=this_emulation'
     name 'This Emulation'
     homepage 'http://www.dafont.com/this-emulation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHE-THIS.TTF'
 end

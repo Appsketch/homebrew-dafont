@@ -5,7 +5,6 @@ cask 'dafont-lucy-goosey-black' do
     url 'http://dl.dafont.com/dl/?f=lucy_goosey_black'
     name 'Lucy Goosey Black'
     homepage 'http://www.dafont.com/lucy-goosey-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lucy_goosey_black_loose.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lead-coat' do
     url 'http://dl.dafont.com/dl/?f=lead_coat'
     name 'Lead Coat'
     homepage 'http://www.dafont.com/lead-coat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'leadcoat.ttf'
 end

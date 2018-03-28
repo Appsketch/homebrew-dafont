@@ -5,7 +5,6 @@ cask 'dafont-adrian-font' do
     url 'http://dl.dafont.com/dl/?f=adrian_font'
     name 'Adrian Font'
     homepage 'http://www.dafont.com/adrian-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AdrianFontV4.ttf'
 end

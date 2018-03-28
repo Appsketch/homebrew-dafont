@@ -5,7 +5,6 @@ cask 'dafont-liquid-kidz' do
     url 'http://dl.dafont.com/dl/?f=liquid_kidz'
     name 'Liquid Kidz'
     homepage 'http://www.dafont.com/liquid-kidz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lqdkdz_nospace.ttf'
 end

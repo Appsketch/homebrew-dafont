@@ -5,7 +5,6 @@ cask 'dafont-harry-piel' do
     url 'http://dl.dafont.com/dl/?f=harry_piel'
     name 'Harry Piel'
     homepage 'http://www.dafont.com/harry-piel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HarryPiel.ttf'
 end

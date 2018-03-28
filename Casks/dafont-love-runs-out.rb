@@ -5,7 +5,6 @@ cask 'dafont-love-runs-out' do
     url 'http://dl.dafont.com/dl/?f=love_runs_out'
     name 'Love Runs Out'
     homepage 'http://www.dafont.com/love-runs-out.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LoveRunsOut.ttf'
 end

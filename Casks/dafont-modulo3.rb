@@ -5,7 +5,6 @@ cask 'dafont-modulo3' do
     url 'http://dl.dafont.com/dl/?f=modulo3'
     name 'Modulo 3'
     homepage 'http://www.dafont.com/modulo3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'modulo3_regular.ttf'
 end

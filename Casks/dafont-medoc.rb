@@ -5,7 +5,6 @@ cask 'dafont-medoc' do
     url 'http://dl.dafont.com/dl/?f=medoc'
     name 'Medoc'
     homepage 'http://www.dafont.com/medoc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Medoc_Demo.ttf'
 end

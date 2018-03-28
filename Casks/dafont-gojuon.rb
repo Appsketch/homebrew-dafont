@@ -5,7 +5,6 @@ cask 'dafont-gojuon' do
     url 'http://dl.dafont.com/dl/?f=gojuon'
     name 'GoJuOn'
     homepage 'http://www.dafont.com/gojuon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GoJuOn.TTF'
 end

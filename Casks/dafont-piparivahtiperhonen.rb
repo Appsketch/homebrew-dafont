@@ -5,7 +5,6 @@ cask 'dafont-piparivahtiperhonen' do
     url 'http://dl.dafont.com/dl/?f=piparivahtiperhonen'
     name 'Piparivahtiperhonen'
     homepage 'http://www.dafont.com/piparivahtiperhonen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Piparivahtiperhonen Itio.ttf'
     font 'Piparivahtiperhonen.ttf'

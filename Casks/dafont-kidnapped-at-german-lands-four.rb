@@ -5,7 +5,6 @@ cask 'dafont-kidnapped-at-german-lands-four' do
     url 'http://dl.dafont.com/dl/?f=kidnapped_at_german_lands_four'
     name 'Kidnapped at German Lands Four'
     homepage 'http://www.dafont.com/kidnapped-at-german-lands-four.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kidnapped at German Lands Four.ttf'
 end

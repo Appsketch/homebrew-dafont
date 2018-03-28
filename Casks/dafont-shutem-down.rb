@@ -5,7 +5,6 @@ cask 'dafont-shutem-down' do
     url 'http://dl.dafont.com/dl/?f=shutem_down'
     name 'Shut&#039;Em Down'
     homepage 'http://www.dafont.com/shutem-down.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shut&#039;Em Down.ttf'
 end

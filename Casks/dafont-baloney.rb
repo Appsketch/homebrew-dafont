@@ -5,7 +5,6 @@ cask 'dafont-baloney' do
     url 'http://dl.dafont.com/dl/?f=baloney'
     name 'Baloney'
     homepage 'http://www.dafont.com/baloney.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BALONEY_.TTF'
 end

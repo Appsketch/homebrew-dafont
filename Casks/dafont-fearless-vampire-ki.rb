@@ -5,7 +5,6 @@ cask 'dafont-fearless-vampire-ki' do
     url 'http://dl.dafont.com/dl/?f=fearless_vampire_ki'
     name 'Fearless Vampire Killer'
     homepage 'http://www.dafont.com/fearless-vampire-ki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FearlessVampireKillers.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-flavormaker' do
     url 'http://dl.dafont.com/dl/?f=flavormaker'
     name 'Flavor Maker'
     homepage 'http://www.dafont.com/flavormaker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlavorMaker.ttf'
 end

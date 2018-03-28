@@ -5,7 +5,6 @@ cask 'dafont-shnpc' do
     url 'http://dl.dafont.com/dl/?f=shnpc'
     name 'Shn PC'
     homepage 'http://www.dafont.com/shnpc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHN_PC.TTf'
 end

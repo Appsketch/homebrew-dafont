@@ -5,7 +5,6 @@ cask 'dafont-oliver-mieps' do
     url 'http://dl.dafont.com/dl/?f=oliver_mieps'
     name 'Oliver'
     homepage 'http://www.dafont.com/oliver-mieps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oliver.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-technicality' do
     url 'http://dl.dafont.com/dl/?f=technicality'
     name 'Technicality'
     homepage 'http://www.dafont.com/technicality.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'technicality.ttf'
     font 'technicality1.ttf'

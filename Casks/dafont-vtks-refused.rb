@@ -5,7 +5,6 @@ cask 'dafont-vtks-refused' do
     url 'http://dl.dafont.com/dl/?f=vtks_refused'
     name 'VTKS Refused'
     homepage 'http://www.dafont.com/vtks-refused.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS REFUSED.ttf'
 end

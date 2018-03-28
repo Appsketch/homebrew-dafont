@@ -5,7 +5,6 @@ cask 'dafont-indonesiana-go-graffitiana' do
     url 'http://dl.dafont.com/dl/?f=indonesiana_go_graffitiana'
     name 'FTF Indonesiana Go Graffitiana'
     homepage 'http://www.dafont.com/indonesiana-go-graffitiana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Indonesiana Go Graffitiana.ttf'
 end

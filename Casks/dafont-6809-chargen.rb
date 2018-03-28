@@ -5,7 +5,6 @@ cask 'dafont-6809-chargen' do
     url 'http://dl.dafont.com/dl/?f=6809_chargen'
     name '6809 Chargen'
     homepage 'http://www.dafont.com/6809-chargen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '6809 chargen.ttf'
 end

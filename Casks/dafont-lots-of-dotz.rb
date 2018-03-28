@@ -5,7 +5,6 @@ cask 'dafont-lots-of-dotz' do
     url 'http://dl.dafont.com/dl/?f=lots_of_dotz'
     name 'Lots of Dotz'
     homepage 'http://www.dafont.com/lots-of-dotz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOTSOFDOTZ.TTF'
 end

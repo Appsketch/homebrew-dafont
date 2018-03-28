@@ -5,7 +5,6 @@ cask 'dafont-quaalude-hulk' do
     url 'http://dl.dafont.com/dl/?f=quaalude_hulk'
     name 'Quaalude hulk'
     homepage 'http://www.dafont.com/quaalude-hulk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quaaludehulk-Italic.otf'
     font 'Quaaludehulk-Regular.otf'

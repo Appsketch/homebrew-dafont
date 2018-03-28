@@ -5,7 +5,6 @@ cask 'dafont-digital-desolation' do
     url 'http://dl.dafont.com/dl/?f=digital_desolation'
     name 'Digital Desolation'
     homepage 'http://www.dafont.com/digital-desolation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digital-Desolation-Alternate.ttf'
     font 'Digital-Desolation.ttf'

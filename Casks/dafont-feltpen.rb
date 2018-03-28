@@ -5,7 +5,6 @@ cask 'dafont-feltpen' do
     url 'http://dl.dafont.com/dl/?f=feltpen'
     name 'Feltpen'
     homepage 'http://www.dafont.com/feltpen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FELTPEN_.TTF'
 end

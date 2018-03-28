@@ -5,7 +5,6 @@ cask 'dafont-fotograami-hearts' do
     url 'http://dl.dafont.com/dl/?f=fotograami_hearts'
     name 'Fotograami Hearts'
     homepage 'http://www.dafont.com/fotograami-hearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fotograami-hearts01.ttf'
 end

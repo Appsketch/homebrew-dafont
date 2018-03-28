@@ -5,7 +5,6 @@ cask 'dafont-vonique-64' do
     url 'http://dl.dafont.com/dl/?f=vonique_64'
     name 'Vonique 64'
     homepage 'http://www.dafont.com/vonique-64.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vonique 64 Bold Italic.ttf'
     font 'Vonique 64 Bold.ttf'

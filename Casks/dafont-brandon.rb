@@ -5,7 +5,6 @@ cask 'dafont-brandon' do
     url 'http://dl.dafont.com/dl/?f=brandon'
     name 'Brandon'
     homepage 'http://www.dafont.com/brandon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRANDON-_erc_july_2008.ttf'
     font 'BRANDON-02_erc_july_2008.ttf'

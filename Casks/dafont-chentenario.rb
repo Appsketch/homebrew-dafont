@@ -5,7 +5,6 @@ cask 'dafont-chentenario' do
     url 'http://dl.dafont.com/dl/?f=chentenario'
     name 'Chentenario'
     homepage 'http://www.dafont.com/chentenario.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chentenario.otf'
 end

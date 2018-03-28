@@ -5,7 +5,6 @@ cask 'dafont-1-punk' do
     url 'http://dl.dafont.com/dl/?f=1_punk'
     name '1 Punk'
     homepage 'http://www.dafont.com/1-punk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1 Punk.ttf'
 end

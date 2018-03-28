@@ -5,7 +5,6 @@ cask 'dafont-20000dollar-bail' do
     url 'http://dl.dafont.com/dl/?f=20000dollar_bail'
     name '20000 Dollar Bail'
     homepage 'http://www.dafont.com/20000dollar-bail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '20.000DOLLARBAIL.TTF'
 end

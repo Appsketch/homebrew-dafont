@@ -5,7 +5,6 @@ cask 'dafont-ivory-culture' do
     url 'http://dl.dafont.com/dl/?f=ivory_culture'
     name 'Ivory Culture'
     homepage 'http://www.dafont.com/ivory-culture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IVORY CULTURE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-a-bit-empty' do
     url 'http://dl.dafont.com/dl/?f=a_bit_empty'
     name 'A Bit Empty'
     homepage 'http://www.dafont.com/a-bit-empty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A Bit Empty.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-dragonblood' do
     url 'http://dl.dafont.com/dl/?f=dk_dragonblood'
     name 'DK Dragonblood'
     homepage 'http://www.dafont.com/dk-dragonblood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Dragonblood.otf'
 end

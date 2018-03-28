@@ -5,7 +5,6 @@ cask 'dafont-noyeux-joel' do
     url 'http://dl.dafont.com/dl/?f=noyeux_joel'
     name 'Noyeux Joel'
     homepage 'http://www.dafont.com/noyeux-joel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Noyeux Joel.ttf'
 end

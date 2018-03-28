@@ -5,7 +5,6 @@ cask 'dafont-peyton-jennifer' do
     url 'http://dl.dafont.com/dl/?f=peyton_jennifer'
     name 'Peyton Jennifer'
     homepage 'http://www.dafont.com/peyton-jennifer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'peyton jennifer decorated.ttf'
     font 'peyton jennifer.ttf'

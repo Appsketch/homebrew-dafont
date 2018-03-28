@@ -5,7 +5,6 @@ cask 'dafont-distorted-faith' do
     url 'http://dl.dafont.com/dl/?f=distorted_faith'
     name 'Distorted Faith'
     homepage 'http://www.dafont.com/distorted-faith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DISTF___.TTF'
 end

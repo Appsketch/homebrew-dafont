@@ -5,7 +5,6 @@ cask 'dafont-am-intex' do
     url 'http://dl.dafont.com/dl/?f=am_intex'
     name 'AM Intex'
     homepage 'http://www.dafont.com/am-intex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AM_INTEX.TTF'
 end

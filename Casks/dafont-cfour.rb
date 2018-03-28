@@ -5,7 +5,6 @@ cask 'dafont-cfour' do
     url 'http://dl.dafont.com/dl/?f=cfour'
     name 'Cfour'
     homepage 'http://www.dafont.com/cfour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cfour.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-interdiction' do
     url 'http://dl.dafont.com/dl/?f=interdiction'
     name 'Interdiction'
     homepage 'http://www.dafont.com/interdiction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'interdiction1_1.ttf'
     font 'interdiction3d1_1.ttf'

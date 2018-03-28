@@ -5,7 +5,6 @@ cask 'dafont-the-oyster-bar' do
     url 'http://dl.dafont.com/dl/?f=the_oyster_bar'
     name 'The Oyster Bar'
     homepage 'http://www.dafont.com/the-oyster-bar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Oyster Bar.otf'
 end

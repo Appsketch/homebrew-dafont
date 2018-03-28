@@ -5,7 +5,6 @@ cask 'dafont-aliens-and-cows' do
     url 'http://dl.dafont.com/dl/?f=aliens_and_cows'
     name 'Aliens And Cows'
     homepage 'http://www.dafont.com/aliens-and-cows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aliens and cows_trial.ttf'
 end

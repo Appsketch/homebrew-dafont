@@ -5,7 +5,6 @@ cask 'dafont-crispybones' do
     url 'http://dl.dafont.com/dl/?f=crispybones'
     name 'Crispy Bones'
     homepage 'http://www.dafont.com/crispybones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrispyBones.ttf'
 end

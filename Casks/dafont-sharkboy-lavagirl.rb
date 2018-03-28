@@ -5,7 +5,6 @@ cask 'dafont-sharkboy-lavagirl' do
     url 'http://dl.dafont.com/dl/?f=sharkboy_lavagirl'
     name 'SharkBoy and LavaGirl'
     homepage 'http://www.dafont.com/sharkboy-lavagirl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHARKBOY &amp; lavagirl.ttf'
 end

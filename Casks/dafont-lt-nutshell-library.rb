@@ -5,7 +5,6 @@ cask 'dafont-lt-nutshell-library' do
     url 'http://dl.dafont.com/dl/?f=lt_nutshell_library'
     name 'LRT Nutshell Library'
     homepage 'http://www.dafont.com/lt-nutshell-library.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LRT Nutshell Library Black.ttf'
     font 'LRT Nutshell Library.ttf'

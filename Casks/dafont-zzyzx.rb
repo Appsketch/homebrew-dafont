@@ -5,7 +5,6 @@ cask 'dafont-zzyzx' do
     url 'http://dl.dafont.com/dl/?f=zzyzx'
     name 'Zzyzx'
     homepage 'http://www.dafont.com/zzyzx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZZYZX.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bbqcow-moo' do
     url 'http://dl.dafont.com/dl/?f=bbqcow_moo'
     name 'BBQcow Moo'
     homepage 'http://www.dafont.com/bbqcow-moo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bbqcowmo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-broken-n-weak' do
     url 'http://dl.dafont.com/dl/?f=broken_n_weak'
     name 'Broken n Weak'
     homepage 'http://www.dafont.com/broken-n-weak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Broken.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kurawal' do
     url 'http://dl.dafont.com/dl/?f=kurawal'
     name 'Kurawal'
     homepage 'http://www.dafont.com/kurawal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kurawal Beta.ttf'
 end

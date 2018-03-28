@@ -5,7 +5,6 @@ cask 'dafont-spaider-simbol' do
     url 'http://dl.dafont.com/dl/?f=spaider_simbol'
     name 'Spaider Simbol'
     homepage 'http://www.dafont.com/spaider-simbol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPAIDERS.TTF'
 end

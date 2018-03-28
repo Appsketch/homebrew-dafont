@@ -5,7 +5,6 @@ cask 'dafont-phonetica' do
     url 'http://dl.dafont.com/dl/?f=phonetica'
     name 'Phonetica'
     homepage 'http://www.dafont.com/phonetica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'phonetica.ttf'
 end

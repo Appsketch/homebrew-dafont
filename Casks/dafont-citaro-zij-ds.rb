@@ -5,7 +5,6 @@ cask 'dafont-citaro-zij-ds' do
     url 'http://dl.dafont.com/dl/?f=citaro_zij_ds'
     name 'Citaro Zij DS'
     homepage 'http://www.dafont.com/citaro-zij-ds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'citaro_zij_ds.ttf'
 end

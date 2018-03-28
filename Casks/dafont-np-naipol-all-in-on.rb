@@ -5,7 +5,6 @@ cask 'dafont-np-naipol-all-in-on' do
     url 'http://dl.dafont.com/dl/?f=np_naipol_all_in_on'
     name 'NP Naipol All in One'
     homepage 'http://www.dafont.com/np-naipol-all-in-on.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NP Naipol All in One_b.ttf'
     font 'NP Naipol All in One_bi.ttf'

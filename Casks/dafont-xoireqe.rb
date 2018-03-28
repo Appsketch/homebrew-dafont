@@ -5,7 +5,6 @@ cask 'dafont-xoireqe' do
     url 'http://dl.dafont.com/dl/?f=xoireqe'
     name 'Xoireqe'
     homepage 'http://www.dafont.com/xoireqe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XOIREQE.TTF'
 end

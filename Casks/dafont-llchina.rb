@@ -5,7 +5,6 @@ cask 'dafont-llchina' do
     url 'http://dl.dafont.com/dl/?f=llchina'
     name 'LL China'
     homepage 'http://www.dafont.com/llchina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLCHINA.TTF'
 end

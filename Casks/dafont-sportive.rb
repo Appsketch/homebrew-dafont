@@ -5,7 +5,6 @@ cask 'dafont-sportive' do
     url 'http://dl.dafont.com/dl/?f=sportive'
     name 'Sportive'
     homepage 'http://www.dafont.com/sportive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sportive.ttf'
 end

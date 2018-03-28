@@ -5,7 +5,6 @@ cask 'dafont-boss-m' do
     url 'http://dl.dafont.com/dl/?f=boss_m'
     name 'Boss M'
     homepage 'http://www.dafont.com/boss-m.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TT/BOSS M FOUR.ttf'
     font 'TT/BOSS M ONE.ttf'

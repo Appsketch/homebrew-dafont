@@ -5,7 +5,6 @@ cask 'dafont-diamonds-are-forever' do
     url 'http://dl.dafont.com/dl/?f=diamonds_are_forever'
     name 'Diamonds are forever'
     homepage 'http://www.dafont.com/diamonds-are-forever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diamonds are forever.ttf'
 end

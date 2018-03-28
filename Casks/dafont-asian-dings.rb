@@ -5,7 +5,6 @@ cask 'dafont-asian-dings' do
     url 'http://dl.dafont.com/dl/?f=asian_dings'
     name 'Asian Dings'
     homepage 'http://www.dafont.com/asian-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Asian Dings.ttf'
 end

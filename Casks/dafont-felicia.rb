@@ -5,7 +5,6 @@ cask 'dafont-felicia' do
     url 'http://dl.dafont.com/dl/?f=felicia'
     name 'Felicia'
     homepage 'http://www.dafont.com/felicia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Felicia.ttf'
 end

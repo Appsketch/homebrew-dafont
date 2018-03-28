@@ -5,7 +5,6 @@ cask 'dafont-syny' do
     url 'http://dl.dafont.com/dl/?f=syny'
     name 'Syny!'
     homepage 'http://www.dafont.com/syny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'syny.ttf'
 end

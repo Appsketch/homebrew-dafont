@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-jet-set' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_jet_set'
     name 'Woodcutter Jet-Set'
     homepage 'http://www.dafont.com/woodcutter-jet-set.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Jet-Set.ttf'
 end

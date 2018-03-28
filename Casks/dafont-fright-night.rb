@@ -5,7 +5,6 @@ cask 'dafont-fright-night' do
     url 'http://dl.dafont.com/dl/?f=fright_night'
     name 'Fright Night'
     homepage 'http://www.dafont.com/fright-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'frightnight.ttf'
 end

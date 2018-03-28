@@ -5,7 +5,6 @@ cask 'dafont-4rrows' do
     url 'http://dl.dafont.com/dl/?f=4rrows'
     name '4rrows'
     homepage 'http://www.dafont.com/4rrows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '4rrows.otf'
 end

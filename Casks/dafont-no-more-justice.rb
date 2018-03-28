@@ -5,7 +5,6 @@ cask 'dafont-no-more-justice' do
     url 'http://dl.dafont.com/dl/?f=no_more_justice'
     name 'No More Justice'
     homepage 'http://www.dafont.com/no-more-justice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'No More Justice.otf'
 end

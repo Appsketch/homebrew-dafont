@@ -5,7 +5,6 @@ cask 'dafont-celebrate-the-day' do
     url 'http://dl.dafont.com/dl/?f=celebrate_the_day'
     name 'Celebrate the Day'
     homepage 'http://www.dafont.com/celebrate-the-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Celebrate the Day.ttf'
 end

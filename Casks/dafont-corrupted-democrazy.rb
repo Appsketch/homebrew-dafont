@@ -5,7 +5,6 @@ cask 'dafont-corrupted-democrazy' do
     url 'http://dl.dafont.com/dl/?f=corrupted_democrazy'
     name 'Corrupted Democrazy'
     homepage 'http://www.dafont.com/corrupted-democrazy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CORRUPTED-DEMOCRAZY.otf'
 end

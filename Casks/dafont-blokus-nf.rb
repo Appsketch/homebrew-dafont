@@ -5,7 +5,6 @@ cask 'dafont-blokus-nf' do
     url 'http://dl.dafont.com/dl/?f=blokus_nf'
     name 'Blokus'
     homepage 'http://www.dafont.com/blokus-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blokus.ttf'
 end

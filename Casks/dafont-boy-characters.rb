@@ -5,7 +5,6 @@ cask 'dafont-boy-characters' do
     url 'http://dl.dafont.com/dl/?f=boy_characters'
     name 'Boy Characters'
     homepage 'http://www.dafont.com/boy-characters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boy Characters.ttf'
 end

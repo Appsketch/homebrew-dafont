@@ -5,7 +5,6 @@ cask 'dafont-thirsty-script' do
     url 'http://dl.dafont.com/dl/?f=thirsty_script'
     name 'Thirsty Script'
     homepage 'http://www.dafont.com/thirsty-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThirstyScriptExtraBoldDemo.otf'
 end

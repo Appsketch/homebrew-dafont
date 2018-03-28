@@ -5,7 +5,6 @@ cask 'dafont-ml-sunglow-kk' do
     url 'http://dl.dafont.com/dl/?f=ml_sunglow_kk'
     name 'ML Sunglow KK'
     homepage 'http://www.dafont.com/ml-sunglow-kk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ML Sunglow KK.ttf'
 end

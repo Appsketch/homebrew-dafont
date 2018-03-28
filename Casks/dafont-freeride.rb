@@ -5,7 +5,6 @@ cask 'dafont-freeride' do
     url 'http://dl.dafont.com/dl/?f=freeride'
     name 'Freeride'
     homepage 'http://www.dafont.com/freeride.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Freeride.otf'
 end

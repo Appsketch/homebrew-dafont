@@ -5,7 +5,6 @@ cask 'dafont-pixoriental-9' do
     url 'http://dl.dafont.com/dl/?f=pixoriental_9'
     name 'PIXoriental 9'
     homepage 'http://www.dafont.com/pixoriental-9.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIXoriental_9.ttf'
 end

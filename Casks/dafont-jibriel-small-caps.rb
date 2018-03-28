@@ -5,7 +5,6 @@ cask 'dafont-jibriel-small-caps' do
     url 'http://dl.dafont.com/dl/?f=jibriel_small_caps'
     name 'Jibriel Small Caps'
     homepage 'http://www.dafont.com/jibriel-small-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jibriel Small Caps.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kuchar' do
     url 'http://dl.dafont.com/dl/?f=kuchar'
     name 'Kuchar'
     homepage 'http://www.dafont.com/kuchar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KUCHAR_FINAL.ttf'
 end

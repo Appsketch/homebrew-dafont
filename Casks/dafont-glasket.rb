@@ -5,7 +5,6 @@ cask 'dafont-glasket' do
     url 'http://dl.dafont.com/dl/?f=glasket'
     name 'Glasket'
     homepage 'http://www.dafont.com/glasket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'glasket500.ttf'
 end

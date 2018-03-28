@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-kaos' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_kaos'
     name 'Woodcutter Kaos'
     homepage 'http://www.dafont.com/woodcutter-kaos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter KAOS.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dutch-tulips' do
     url 'http://dl.dafont.com/dl/?f=dutch_tulips'
     name 'Dutch Tulips'
     homepage 'http://www.dafont.com/dutch-tulips.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dutch Tulips Demo.ttf'
 end

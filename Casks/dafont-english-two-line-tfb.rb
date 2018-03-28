@@ -5,7 +5,6 @@ cask 'dafont-english-two-line-tfb' do
     url 'http://dl.dafont.com/dl/?f=english_two_line_tfb'
     name 'English Two Line TFB'
     homepage 'http://www.dafont.com/english-two-line-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'english two line tfb.ttf'
 end

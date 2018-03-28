@@ -5,7 +5,6 @@ cask 'dafont-schizm-aoe' do
     url 'http://dl.dafont.com/dl/?f=schizm_aoe'
     name 'Schizm AOE'
     homepage 'http://www.dafont.com/schizm-aoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCHIZM__.TTF'
 end

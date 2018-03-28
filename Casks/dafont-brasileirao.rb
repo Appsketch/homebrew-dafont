@@ -5,7 +5,6 @@ cask 'dafont-brasileirao' do
     url 'http://dl.dafont.com/dl/?f=brasileirao'
     name 'Brasileir&atilde;o'
     homepage 'http://www.dafont.com/brasileirao.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brasileir&AElig;o.ttf'
 end

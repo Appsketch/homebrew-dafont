@@ -5,7 +5,6 @@ cask 'dafont-akuma' do
     url 'http://dl.dafont.com/dl/?f=akuma'
     name 'Akuma'
     homepage 'http://www.dafont.com/akuma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AKUMA.ttf'
 end

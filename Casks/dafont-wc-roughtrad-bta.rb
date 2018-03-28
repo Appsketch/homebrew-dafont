@@ -5,7 +5,6 @@ cask 'dafont-wc-roughtrad-bta' do
     url 'http://dl.dafont.com/dl/?f=wc_roughtrad_bta'
     name 'WC RoughTrad Bta'
     homepage 'http://www.dafont.com/wc-roughtrad-bta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WC_RoughTrad.ttf'
 end

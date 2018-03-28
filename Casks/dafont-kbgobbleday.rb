@@ -5,7 +5,6 @@ cask 'dafont-kbgobbleday' do
     url 'http://dl.dafont.com/dl/?f=kbgobbleday'
     name 'KB Gobble Day'
     homepage 'http://www.dafont.com/kbgobbleday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBGobbleDay.ttf'
 end

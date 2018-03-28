@@ -5,7 +5,6 @@ cask 'dafont-wm-the-50s' do
     url 'http://dl.dafont.com/dl/?f=wm_the_50s'
     name 'WM The 50s'
     homepage 'http://www.dafont.com/wm-the-50s.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wm-the-50s.TTF'
 end

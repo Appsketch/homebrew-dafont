@@ -5,7 +5,6 @@ cask 'dafont-bernardo-moda-contrast' do
     url 'http://dl.dafont.com/dl/?f=bernardo_moda_contrast'
     name 'Bernardo Moda Contrast'
     homepage 'http://www.dafont.com/bernardo-moda-contrast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bernardo Moda contrast.ttf'
 end

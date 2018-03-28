@@ -5,7 +5,6 @@ cask 'dafont-hand-drawn-shapes' do
     url 'http://dl.dafont.com/dl/?f=hand_drawn_shapes'
     name 'Hand Drawn Shapes'
     homepage 'http://www.dafont.com/hand-drawn-shapes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hand Drawn Shapes.ttf'
 end

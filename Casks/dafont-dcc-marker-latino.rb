@@ -5,7 +5,6 @@ cask 'dafont-dcc-marker-latino' do
     url 'http://dl.dafont.com/dl/?f=dcc_marker_latino'
     name 'DCC Marker Latino'
     homepage 'http://www.dafont.com/dcc-marker-latino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dcc_marker_latino_by_dccanim.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-housegrind' do
     url 'http://dl.dafont.com/dl/?f=housegrind'
     name 'Housegrind'
     homepage 'http://www.dafont.com/housegrind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Housegrind_Personal_Use_Only.ttf'
 end

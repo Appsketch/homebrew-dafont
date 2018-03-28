@@ -5,7 +5,6 @@ cask 'dafont-setlist-tbs' do
     url 'http://dl.dafont.com/dl/?f=setlist_tbs'
     name 'Setlist TBS'
     homepage 'http://www.dafont.com/setlist-tbs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'setlist_tbs.ttf'
     font 'setlist-ital_tbs.ttf'

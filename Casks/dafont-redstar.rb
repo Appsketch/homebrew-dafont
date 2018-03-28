@@ -5,7 +5,6 @@ cask 'dafont-redstar' do
     url 'http://dl.dafont.com/dl/?f=redstar'
     name 'Redstar'
     homepage 'http://www.dafont.com/redstar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Redstar.ttf'
     font 'RedstarBold.ttf'

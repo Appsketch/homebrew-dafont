@@ -5,7 +5,6 @@ cask 'dafont-ambulance-shotgun' do
     url 'http://dl.dafont.com/dl/?f=ambulance_shotgun'
     name 'Ambulance Shotgun'
     homepage 'http://www.dafont.com/ambulance-shotgun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ambulance_shotgun.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chum-chum' do
     url 'http://dl.dafont.com/dl/?f=chum_chum'
     name 'Chum-Chum'
     homepage 'http://www.dafont.com/chum-chum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chum-chum.ttf'
 end

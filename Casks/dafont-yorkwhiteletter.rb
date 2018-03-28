@@ -5,7 +5,6 @@ cask 'dafont-yorkwhiteletter' do
     url 'http://dl.dafont.com/dl/?f=yorkwhiteletter'
     name 'York Whiteletter'
     homepage 'http://www.dafont.com/yorkwhiteletter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yorkwhiteletter.ttf'
 end

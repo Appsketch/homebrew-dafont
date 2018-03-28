@@ -5,7 +5,6 @@ cask 'dafont-crime-scene' do
     url 'http://dl.dafont.com/dl/?f=crime_scene'
     name 'Crime Scene'
     homepage 'http://www.dafont.com/crime-scene.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crime_Scene.ttf'
 end

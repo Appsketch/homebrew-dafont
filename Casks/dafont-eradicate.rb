@@ -5,7 +5,6 @@ cask 'dafont-eradicate' do
     url 'http://dl.dafont.com/dl/?f=eradicate'
     name 'Eradicate'
     homepage 'http://www.dafont.com/eradicate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eradicate.ttf'
 end

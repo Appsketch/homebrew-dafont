@@ -5,7 +5,6 @@ cask 'dafont-smegalomania' do
     url 'http://dl.dafont.com/dl/?f=smegalomania'
     name 'Smegalomania'
     homepage 'http://www.dafont.com/smegalomania.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SMEGALOM.TTF'
 end

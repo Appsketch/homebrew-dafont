@@ -5,7 +5,6 @@ cask 'dafont-df-gameover' do
     url 'http://dl.dafont.com/dl/?f=df_gameover'
     name 'DF Game Over'
     homepage 'http://www.dafont.com/df-gameover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DF-GameOver.otf'
 end

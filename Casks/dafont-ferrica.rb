@@ -5,7 +5,6 @@ cask 'dafont-ferrica' do
     url 'http://dl.dafont.com/dl/?f=ferrica'
     name 'Ferrica'
     homepage 'http://www.dafont.com/ferrica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ferrica.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kg-the-fighter' do
     url 'http://dl.dafont.com/dl/?f=kg_the_fighter'
     name 'KG The Fighter'
     homepage 'http://www.dafont.com/kg-the-fighter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGTheFighter.ttf'
 end

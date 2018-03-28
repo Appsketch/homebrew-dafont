@@ -5,7 +5,6 @@ cask 'dafont-eliensee' do
     url 'http://dl.dafont.com/dl/?f=eliensee'
     name 'Eliensee'
     homepage 'http://www.dafont.com/eliensee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eliensee.ttf'
 end

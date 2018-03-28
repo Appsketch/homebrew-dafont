@@ -5,7 +5,6 @@ cask 'dafont-katakana-pipe' do
     url 'http://dl.dafont.com/dl/?f=katakana_pipe'
     name 'Katakana, pipe'
     homepage 'http://www.dafont.com/katakana-pipe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'katakana_pipe.ttf'
 end

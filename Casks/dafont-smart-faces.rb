@@ -5,7 +5,6 @@ cask 'dafont-smart-faces' do
     url 'http://dl.dafont.com/dl/?f=smart_faces'
     name 'Smart Faces'
     homepage 'http://www.dafont.com/smart-faces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smart Faces.ttf'
 end

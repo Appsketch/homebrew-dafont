@@ -5,7 +5,6 @@ cask 'dafont-zakirahshand' do
     url 'http://dl.dafont.com/dl/?f=zakirahshand'
     name 'Zakirahs Hand'
     homepage 'http://www.dafont.com/zakirahshand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZakirahsHand.ttf'
     font 'ZakirahsHandB.ttf'

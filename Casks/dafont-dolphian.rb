@@ -5,7 +5,6 @@ cask 'dafont-dolphian' do
     url 'http://dl.dafont.com/dl/?f=dolphian'
     name 'Dolphian'
     homepage 'http://www.dafont.com/dolphian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOLPHIAN.TTF'
 end

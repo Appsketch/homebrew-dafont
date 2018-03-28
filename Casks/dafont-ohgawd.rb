@@ -5,7 +5,6 @@ cask 'dafont-ohgawd' do
     url 'http://dl.dafont.com/dl/?f=ohgawd'
     name 'Oh Gawd'
     homepage 'http://www.dafont.com/ohgawd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OhGawd.ttf'
 end

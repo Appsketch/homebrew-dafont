@@ -5,7 +5,6 @@ cask 'dafont-pwornaments' do
     url 'http://dl.dafont.com/dl/?f=pwornaments'
     name 'PW Ornaments'
     homepage 'http://www.dafont.com/pwornaments.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWOrnaments.ttf'
 end

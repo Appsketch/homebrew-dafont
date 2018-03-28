@@ -5,7 +5,6 @@ cask 'dafont-atlantic-mail' do
     url 'http://dl.dafont.com/dl/?f=atlantic_mail'
     name 'Atlantic Mail'
     homepage 'http://www.dafont.com/atlantic-mail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Atlantic Mail.ttf'
 end

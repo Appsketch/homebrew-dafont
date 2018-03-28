@@ -5,7 +5,6 @@ cask 'dafont-verdy-volution' do
     url 'http://dl.dafont.com/dl/?f=verdy_volution'
     name 'Verdy &Eacute;volution'
     homepage 'http://www.dafont.com/verdy-volution.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'verdy_evo.ttf'
 end

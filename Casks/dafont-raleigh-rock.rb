@@ -5,7 +5,6 @@ cask 'dafont-raleigh-rock' do
     url 'http://dl.dafont.com/dl/?f=raleigh_rock'
     name 'Raleigh Rock'
     homepage 'http://www.dafont.com/raleigh-rock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raleigh Rock.ttf'
 end

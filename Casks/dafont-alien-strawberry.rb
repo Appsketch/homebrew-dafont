@@ -5,7 +5,6 @@ cask 'dafont-alien-strawberry' do
     url 'http://dl.dafont.com/dl/?f=alien_strawberry'
     name 'Alien Strawberry'
     homepage 'http://www.dafont.com/alien-strawberry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alien Strawberry.ttf'
 end

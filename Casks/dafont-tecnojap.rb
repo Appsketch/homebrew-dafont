@@ -5,7 +5,6 @@ cask 'dafont-tecnojap' do
     url 'http://dl.dafont.com/dl/?f=tecnojap'
     name 'Tecnojap'
     homepage 'http://www.dafont.com/tecnojap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tecnojap.ttf'
 end

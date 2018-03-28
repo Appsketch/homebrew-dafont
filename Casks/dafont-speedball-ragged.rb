@@ -5,7 +5,6 @@ cask 'dafont-speedball-ragged' do
     url 'http://dl.dafont.com/dl/?f=speedball_ragged'
     name 'Speedball Ragged'
     homepage 'http://www.dafont.com/speedball-ragged.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Speedball Ragged.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nubles' do
     url 'http://dl.dafont.com/dl/?f=nubles'
     name 'Nubles'
     homepage 'http://www.dafont.com/nubles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NUBLES.ttf'
 end

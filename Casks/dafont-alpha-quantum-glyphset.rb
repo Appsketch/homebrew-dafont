@@ -5,7 +5,6 @@ cask 'dafont-alpha-quantum-glyphset' do
     url 'http://dl.dafont.com/dl/?f=alpha_quantum_glyphset'
     name 'Alpha Quantum Glyphset'
     homepage 'http://www.dafont.com/alpha-quantum-glyphset.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaQuantumGlyphset-Regula.otf'
 end

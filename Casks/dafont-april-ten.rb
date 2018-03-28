@@ -5,7 +5,6 @@ cask 'dafont-april-ten' do
     url 'http://dl.dafont.com/dl/?f=april_ten'
     name 'April Ten'
     homepage 'http://www.dafont.com/april-ten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AprilTen-Regular.otf'
 end

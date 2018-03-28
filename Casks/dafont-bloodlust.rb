@@ -5,7 +5,6 @@ cask 'dafont-bloodlust' do
     url 'http://dl.dafont.com/dl/?f=bloodlust'
     name 'Bloodlust '
     homepage 'http://www.dafont.com/bloodlust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bloodlust.ttf'
     font 'bloodlust3d.ttf'

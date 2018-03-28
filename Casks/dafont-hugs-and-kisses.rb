@@ -5,7 +5,6 @@ cask 'dafont-hugs-and-kisses' do
     url 'http://dl.dafont.com/dl/?f=hugs_and_kisses'
     name 'Hugs and Kisses xoxo'
     homepage 'http://www.dafont.com/hugs-and-kisses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hugs &amp; Kisses xoxo Demo.ttf'
 end

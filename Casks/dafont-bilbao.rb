@@ -5,7 +5,6 @@ cask 'dafont-bilbao' do
     url 'http://dl.dafont.com/dl/?f=bilbao'
     name 'Bilbao'
     homepage 'http://www.dafont.com/bilbao.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bilbao.ttf'
 end

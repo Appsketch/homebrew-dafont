@@ -5,7 +5,6 @@ cask 'dafont-j-flames' do
     url 'http://dl.dafont.com/dl/?f=j_flames'
     name 'J-Flames'
     homepage 'http://www.dafont.com/j-flames.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'J-Flames.ttf'
 end

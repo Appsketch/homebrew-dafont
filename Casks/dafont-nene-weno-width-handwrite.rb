@@ -5,7 +5,6 @@ cask 'dafont-nene-weno-width-handwrite' do
     url 'http://dl.dafont.com/dl/?f=nene_weno_width_handwrite'
     name 'NeNe WeNo Width HandWrite'
     homepage 'http://www.dafont.com/nene-weno-width-handwrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeNe_WeNo Width HandWrite.ttf'
 end

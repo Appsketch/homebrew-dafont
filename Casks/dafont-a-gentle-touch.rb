@@ -5,7 +5,6 @@ cask 'dafont-a-gentle-touch' do
     url 'http://dl.dafont.com/dl/?f=a_gentle_touch'
     name 'A Gentle Touch'
     homepage 'http://www.dafont.com/a-gentle-touch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A Gentle Touch.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-janda-cheerful-script' do
     url 'http://dl.dafont.com/dl/?f=janda_cheerful_script'
     name 'Janda Cheerful Script'
     homepage 'http://www.dafont.com/janda-cheerful-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaCheerfulScript.ttf'
 end

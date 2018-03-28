@@ -5,7 +5,6 @@ cask 'dafont-djb-get-digital' do
     url 'http://dl.dafont.com/dl/?f=djb_get_digital'
     name 'DJB Get Digital'
     homepage 'http://www.dafont.com/djb-get-digital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Get Digital.ttf'
 end

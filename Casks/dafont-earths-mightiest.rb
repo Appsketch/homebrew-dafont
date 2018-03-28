@@ -5,7 +5,6 @@ cask 'dafont-earths-mightiest' do
     url 'http://dl.dafont.com/dl/?f=earths_mightiest'
     name 'Earth&#039;s Mightiest'
     homepage 'http://www.dafont.com/earths-mightiest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eartm.ttf'
     font 'eartm3d.ttf'

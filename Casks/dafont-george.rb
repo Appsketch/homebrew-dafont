@@ -5,7 +5,6 @@ cask 'dafont-george' do
     url 'http://dl.dafont.com/dl/?f=george'
     name 'George'
     homepage 'http://www.dafont.com/george.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'George.ttf'
 end

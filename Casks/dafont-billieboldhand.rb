@@ -5,7 +5,6 @@ cask 'dafont-billieboldhand' do
     url 'http://dl.dafont.com/dl/?f=billieboldhand'
     name 'Billie BoldHand'
     homepage 'http://www.dafont.com/billieboldhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BBHANDTRIAL.ttf'
 end

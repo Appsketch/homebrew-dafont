@@ -5,7 +5,6 @@ cask 'dafont-osgood-sans' do
     url 'http://dl.dafont.com/dl/?f=osgood_sans'
     name 'Osgood Sans'
     homepage 'http://www.dafont.com/osgood-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OsgoodSans-Regular.ttf'
 end

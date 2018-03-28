@@ -5,7 +5,6 @@ cask 'dafont-cf-plants-and-flowers' do
     url 'http://dl.dafont.com/dl/?f=cf_plants_and_flowers'
     name 'CF Plants and Flowers'
     homepage 'http://www.dafont.com/cf-plants-and-flowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFPlantsandFlowers-Regular.ttf'
 end

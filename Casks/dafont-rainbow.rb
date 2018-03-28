@@ -5,7 +5,6 @@ cask 'dafont-rainbow' do
     url 'http://dl.dafont.com/dl/?f=rainbow'
     name 'Rainbow'
     homepage 'http://www.dafont.com/rainbow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rainbow.ttf'
 end

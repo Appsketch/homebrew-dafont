@@ -5,7 +5,6 @@ cask 'dafont-kg-primary-penmanship' do
     url 'http://dl.dafont.com/dl/?f=kg_primary_penmanship'
     name 'KG Primary Penmanship'
     homepage 'http://www.dafont.com/kg-primary-penmanship.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGPrimaryLinedNOSPACE.ttf'
     font 'KGPrimaryPenmanship.ttf'

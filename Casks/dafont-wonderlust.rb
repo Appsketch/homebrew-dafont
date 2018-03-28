@@ -5,7 +5,6 @@ cask 'dafont-wonderlust' do
     url 'http://dl.dafont.com/dl/?f=wonderlust'
     name 'Wonderlust'
     homepage 'http://www.dafont.com/wonderlust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wonderlust.ttf'
 end

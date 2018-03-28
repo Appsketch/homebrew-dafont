@@ -5,7 +5,6 @@ cask 'dafont-intellectabodoned-two' do
     url 'http://dl.dafont.com/dl/?f=intellectabodoned_two'
     name 'Intellecta Bodoned Two'
     homepage 'http://www.dafont.com/intellectabodoned-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IntellectaBodoned Two.ttf'
 end

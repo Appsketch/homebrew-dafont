@@ -5,7 +5,6 @@ cask 'dafont-spanish-round-bookhand-16th-c' do
     url 'http://dl.dafont.com/dl/?f=spanish_round_bookhand_16th_c'
     name 'Spanish Round Bookhand, 16th c.'
     homepage 'http://www.dafont.com/spanish-round-bookhand-16th-c.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spanish Round Bookhand, 16th c.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sport-center' do
     url 'http://dl.dafont.com/dl/?f=sport_center'
     name 'Sport Center'
     homepage 'http://www.dafont.com/sport-center.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPORT CENTER.ttf'
 end

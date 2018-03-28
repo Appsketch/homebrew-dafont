@@ -5,7 +5,6 @@ cask 'dafont-january-script' do
     url 'http://dl.dafont.com/dl/?f=january_script'
     name 'January Script'
     homepage 'http://www.dafont.com/january-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JanuaryScript_PERSONAL_USE_ONLY.ttf'
 end

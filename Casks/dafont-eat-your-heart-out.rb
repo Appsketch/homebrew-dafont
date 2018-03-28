@@ -5,7 +5,6 @@ cask 'dafont-eat-your-heart-out' do
     url 'http://dl.dafont.com/dl/?f=eat_your_heart_out'
     name 'Eat your heart out'
     homepage 'http://www.dafont.com/eat-your-heart-out.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EATYOURHEARTOUT.TTF'
 end

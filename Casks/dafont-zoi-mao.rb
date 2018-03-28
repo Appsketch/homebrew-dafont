@@ -5,7 +5,6 @@ cask 'dafont-zoi-mao' do
     url 'http://dl.dafont.com/dl/?f=zoi_mao'
     name 'Zoi Mao'
     homepage 'http://www.dafont.com/zoi-mao.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zoi.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-herman-decanus-ah' do
     url 'http://dl.dafont.com/dl/?f=herman_decanus_ah'
     name 'Herman Decanus AH'
     homepage 'http://www.dafont.com/herman-decanus-ah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hermandec-l.ttf'
     font 'hermandec.ttf'

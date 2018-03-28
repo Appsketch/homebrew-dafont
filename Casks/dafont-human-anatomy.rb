@@ -5,7 +5,6 @@ cask 'dafont-human-anatomy' do
     url 'http://dl.dafont.com/dl/?f=human_anatomy'
     name 'Human Anatomy'
     homepage 'http://www.dafont.com/human-anatomy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Human Anatomy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-restroom-signs-tfb' do
     url 'http://dl.dafont.com/dl/?f=restroom_signs_tfb'
     name 'Restroom Signs TFB'
     homepage 'http://www.dafont.com/restroom-signs-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'restroom signs tfb.ttf'
 end

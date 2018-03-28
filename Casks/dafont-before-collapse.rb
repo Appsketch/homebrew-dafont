@@ -5,7 +5,6 @@ cask 'dafont-before-collapse' do
     url 'http://dl.dafont.com/dl/?f=before_collapse'
     name 'Before Collapse'
     homepage 'http://www.dafont.com/before-collapse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Before Collapse.ttf'
 end

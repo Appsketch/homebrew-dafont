@@ -5,7 +5,6 @@ cask 'dafont-fineliner-script' do
     url 'http://dl.dafont.com/dl/?f=fineliner_script'
     name 'Fineliner Script'
     homepage 'http://www.dafont.com/fineliner-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fineliner_Script.ttf'
 end

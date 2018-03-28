@@ -5,7 +5,6 @@ cask 'dafont-ultramoire' do
     url 'http://dl.dafont.com/dl/?f=ultramoire'
     name 'Ultra Moire'
     homepage 'http://www.dafont.com/ultramoire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UltraMoire.ttf'
 end

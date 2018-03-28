@@ -5,7 +5,6 @@ cask 'dafont-due-date' do
     url 'http://dl.dafont.com/dl/?f=due_date'
     name 'Due Date'
     homepage 'http://www.dafont.com/due-date.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DUE.TTF'
 end

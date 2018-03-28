@@ -5,7 +5,6 @@ cask 'dafont-biergarten' do
     url 'http://dl.dafont.com/dl/?f=biergarten'
     name 'Biergarten'
     homepage 'http://www.dafont.com/biergarten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'biergarten.ttf'
     font 'biergartenc.ttf'

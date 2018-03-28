@@ -5,7 +5,6 @@ cask 'dafont-pink-chaos' do
     url 'http://dl.dafont.com/dl/?f=pink_chaos'
     name 'Pink Chaos'
     homepage 'http://www.dafont.com/pink-chaos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pink Chaos.ttf'
 end

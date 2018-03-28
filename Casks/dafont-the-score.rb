@@ -5,7 +5,6 @@ cask 'dafont-the-score' do
     url 'http://dl.dafont.com/dl/?f=the_score'
     name 'The Score'
     homepage 'http://www.dafont.com/the-score.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scores2.ttf'
 end

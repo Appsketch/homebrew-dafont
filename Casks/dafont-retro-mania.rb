@@ -5,7 +5,6 @@ cask 'dafont-retro-mania' do
     url 'http://dl.dafont.com/dl/?f=retro_mania'
     name 'Retro Mania'
     homepage 'http://www.dafont.com/retro-mania.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'retro_mania.ttf'
 end

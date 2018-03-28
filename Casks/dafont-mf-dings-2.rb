@@ -5,7 +5,6 @@ cask 'dafont-mf-dings-2' do
     url 'http://dl.dafont.com/dl/?f=mf_dings_2'
     name 'MF Dings 2'
     homepage 'http://www.dafont.com/mf-dings-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MF Dings 2.ttf'
 end

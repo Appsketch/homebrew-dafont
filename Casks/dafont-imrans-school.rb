@@ -5,7 +5,6 @@ cask 'dafont-imrans-school' do
     url 'http://dl.dafont.com/dl/?f=imrans_school'
     name 'Imrans School'
     homepage 'http://www.dafont.com/imrans-school.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Imrans School a.ttf'
     font 'Imrans School b.ttf'

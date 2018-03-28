@@ -5,7 +5,6 @@ cask 'dafont-veryrich' do
     url 'http://dl.dafont.com/dl/?f=veryrich'
     name 'Very Rich'
     homepage 'http://www.dafont.com/veryrich.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VeryRich.ttf'
 end

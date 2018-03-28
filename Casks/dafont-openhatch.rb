@@ -5,7 +5,6 @@ cask 'dafont-openhatch' do
     url 'http://dl.dafont.com/dl/?f=openhatch'
     name 'Open Hatch'
     homepage 'http://www.dafont.com/openhatch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OpenHatch.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lightening' do
     url 'http://dl.dafont.com/dl/?f=lightening'
     name 'Lightening'
     homepage 'http://www.dafont.com/lightening.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lightening Free Font.ttf'
 end

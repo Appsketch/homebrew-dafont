@@ -5,7 +5,6 @@ cask 'dafont-wetspring' do
     url 'http://dl.dafont.com/dl/?f=wetspring'
     name 'Wet Spring'
     homepage 'http://www.dafont.com/wetspring.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WetSpring.ttf'
 end

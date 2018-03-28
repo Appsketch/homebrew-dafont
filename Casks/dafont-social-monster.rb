@@ -5,7 +5,6 @@ cask 'dafont-social-monster' do
     url 'http://dl.dafont.com/dl/?f=social_monster'
     name 'Social Monster'
     homepage 'http://www.dafont.com/social-monster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Social Monster.ttf'
 end

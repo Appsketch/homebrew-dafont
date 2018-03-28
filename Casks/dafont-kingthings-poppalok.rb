@@ -5,7 +5,6 @@ cask 'dafont-kingthings-poppalok' do
     url 'http://dl.dafont.com/dl/?f=kingthings_poppalok'
     name 'Kingthings Poppalok'
     homepage 'http://www.dafont.com/kingthings-poppalok.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Poppalok.ttf'
 end

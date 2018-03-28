@@ -5,7 +5,6 @@ cask 'dafont-convalescence' do
     url 'http://dl.dafont.com/dl/?f=convalescence'
     name 'Convalescence'
     homepage 'http://www.dafont.com/convalescence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'convalescence.ttf'
 end

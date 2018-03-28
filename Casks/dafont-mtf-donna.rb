@@ -5,7 +5,6 @@ cask 'dafont-mtf-donna' do
     url 'http://dl.dafont.com/dl/?f=mtf_donna'
     name 'MTF Donna'
     homepage 'http://www.dafont.com/mtf-donna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Donna.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-prisonescape' do
     url 'http://dl.dafont.com/dl/?f=prisonescape'
     name 'Prison Escape'
     homepage 'http://www.dafont.com/prisonescape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrisonEscape.ttf'
 end

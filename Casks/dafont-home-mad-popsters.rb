@@ -5,7 +5,6 @@ cask 'dafont-home-mad-popsters' do
     url 'http://dl.dafont.com/dl/?f=home_mad_popsters'
     name 'Home Mad Popsters'
     homepage 'http://www.dafont.com/home-mad-popsters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Home Mad Popsters.ttf'
 end

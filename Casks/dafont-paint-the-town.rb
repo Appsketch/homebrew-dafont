@@ -5,7 +5,6 @@ cask 'dafont-paint-the-town' do
     url 'http://dl.dafont.com/dl/?f=paint_the_town'
     name 'Paint the town'
     homepage 'http://www.dafont.com/paint-the-town.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paint the town-1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-caretodance' do
     url 'http://dl.dafont.com/dl/?f=caretodance'
     name 'CareToDance'
     homepage 'http://www.dafont.com/caretodance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CareToDance.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bigteezsq' do
     url 'http://dl.dafont.com/dl/?f=bigteezsq'
     name 'Big Teez Sq'
     homepage 'http://www.dafont.com/bigteezsq.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigTeezSqfinal.ttf'
 end

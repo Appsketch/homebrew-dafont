@@ -5,7 +5,6 @@ cask 'dafont-in-his-hands' do
     url 'http://dl.dafont.com/dl/?f=in_his_hands'
     name 'In his hands'
     homepage 'http://www.dafont.com/in-his-hands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inhishan.ttf'
 end

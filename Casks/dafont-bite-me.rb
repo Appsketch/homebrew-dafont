@@ -5,7 +5,6 @@ cask 'dafont-bite-me' do
     url 'http://dl.dafont.com/dl/?f=bite_me'
     name 'Bite Me'
     homepage 'http://www.dafont.com/bite-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BITEME.TTF'
 end

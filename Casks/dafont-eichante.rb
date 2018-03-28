@@ -5,7 +5,6 @@ cask 'dafont-eichante' do
     url 'http://dl.dafont.com/dl/?f=eichante'
     name 'Eichante'
     homepage 'http://www.dafont.com/eichante.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eichante.ttf'
 end

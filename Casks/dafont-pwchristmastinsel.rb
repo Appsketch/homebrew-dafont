@@ -5,7 +5,6 @@ cask 'dafont-pwchristmastinsel' do
     url 'http://dl.dafont.com/dl/?f=pwchristmastinsel'
     name 'PW Christmas Tinsel'
     homepage 'http://www.dafont.com/pwchristmastinsel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWChristmasTinsel.ttf'
 end

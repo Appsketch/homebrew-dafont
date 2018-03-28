@@ -5,7 +5,6 @@ cask 'dafont-estactu' do
     url 'http://dl.dafont.com/dl/?f=estactu'
     name 'Estactu'
     homepage 'http://www.dafont.com/estactu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Estaktu.ttf'
 end

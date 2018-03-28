@@ -5,7 +5,6 @@ cask 'dafont-dk-andorra-script' do
     url 'http://dl.dafont.com/dl/?f=dk_andorra_script'
     name 'DK Andorra Script'
     homepage 'http://www.dafont.com/dk-andorra-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Andorra Script.otf'
 end

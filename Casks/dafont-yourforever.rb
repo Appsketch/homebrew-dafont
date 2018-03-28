@@ -5,7 +5,6 @@ cask 'dafont-yourforever' do
     url 'http://dl.dafont.com/dl/?f=yourforever'
     name 'Your Forever'
     homepage 'http://www.dafont.com/yourforever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YourForever.ttf'
 end

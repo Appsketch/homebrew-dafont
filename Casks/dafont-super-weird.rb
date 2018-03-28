@@ -5,7 +5,6 @@ cask 'dafont-super-weird' do
     url 'http://dl.dafont.com/dl/?f=super_weird'
     name 'Super Weird'
     homepage 'http://www.dafont.com/super-weird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Super Weird.ttf'
 end

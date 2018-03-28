@@ -5,7 +5,6 @@ cask 'dafont-spy-agency' do
     url 'http://dl.dafont.com/dl/?f=spy_agency'
     name 'Spy Agency'
     homepage 'http://www.dafont.com/spy-agency.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spyagencyv3.ttf'
     font 'spyagencyv33d.ttf'

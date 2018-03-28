@@ -5,7 +5,6 @@ cask 'dafont-lvdc-romantic9' do
     url 'http://dl.dafont.com/dl/?f=lvdc_romantic9'
     name 'LVDC Romantic 9'
     homepage 'http://www.dafont.com/lvdc-romantic9.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LVDCR___.TTF'
 end

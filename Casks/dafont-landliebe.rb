@@ -5,7 +5,6 @@ cask 'dafont-landliebe' do
     url 'http://dl.dafont.com/dl/?f=landliebe'
     name 'Landliebe'
     homepage 'http://www.dafont.com/landliebe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Landliebe.ttf'
 end

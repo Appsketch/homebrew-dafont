@@ -5,7 +5,6 @@ cask 'dafont-punkland' do
     url 'http://dl.dafont.com/dl/?f=punkland'
     name 'PunkLand'
     homepage 'http://www.dafont.com/punkland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PunkLand.ttf'
 end

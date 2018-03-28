@@ -5,7 +5,6 @@ cask 'dafont-serena' do
     url 'http://dl.dafont.com/dl/?f=serena'
     name 'Serena'
     homepage 'http://www.dafont.com/serena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SERERG__.TTF'
 end

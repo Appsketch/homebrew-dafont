@@ -5,7 +5,6 @@ cask 'dafont-mb-poisoned-type' do
     url 'http://dl.dafont.com/dl/?f=mb_poisoned_type'
     name 'MB Poisoned Type'
     homepage 'http://www.dafont.com/mb-poisoned-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-Poisoned_Type.ttf'
 end

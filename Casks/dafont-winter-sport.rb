@@ -5,7 +5,6 @@ cask 'dafont-winter-sport' do
     url 'http://dl.dafont.com/dl/?f=winter_sport'
     name 'Winter Sport'
     homepage 'http://www.dafont.com/winter-sport.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Winter Sport.ttf'
 end

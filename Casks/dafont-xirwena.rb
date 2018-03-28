@@ -5,7 +5,6 @@ cask 'dafont-xirwena' do
     url 'http://dl.dafont.com/dl/?f=xirwena'
     name 'Xirwena'
     homepage 'http://www.dafont.com/xirwena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xirwena1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-palamecia-titling' do
     url 'http://dl.dafont.com/dl/?f=palamecia_titling'
     name 'Palamecia Titling'
     homepage 'http://www.dafont.com/palamecia-titling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'palamecia titling.ttf'
 end

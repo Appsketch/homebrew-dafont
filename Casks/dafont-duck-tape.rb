@@ -5,7 +5,6 @@ cask 'dafont-duck-tape' do
     url 'http://dl.dafont.com/dl/?f=duck_tape'
     name 'Duck Tape'
     homepage 'http://www.dafont.com/duck-tape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Duck Tape.ttf'
 end

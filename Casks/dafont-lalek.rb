@@ -5,7 +5,6 @@ cask 'dafont-lalek' do
     url 'http://dl.dafont.com/dl/?f=lalek'
     name 'Lalek'
     homepage 'http://www.dafont.com/lalek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lalek-bold.ttf'
     font 'lalek-italic.ttf'

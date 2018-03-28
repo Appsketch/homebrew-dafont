@@ -5,7 +5,6 @@ cask 'dafont-bradburysans-light' do
     url 'http://dl.dafont.com/dl/?f=bradburysans_light'
     name 'BradburySans Light'
     homepage 'http://www.dafont.com/bradburysans-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BradburySans-Light.ttf'
 end

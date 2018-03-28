@@ -5,7 +5,6 @@ cask 'dafont-after-ttnorm' do
     url 'http://dl.dafont.com/dl/?f=after_ttnorm'
     name 'After TTNorm'
     homepage 'http://www.dafont.com/after-ttnorm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'After ttnorm.ttf'
 end

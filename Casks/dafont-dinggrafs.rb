@@ -5,7 +5,6 @@ cask 'dafont-dinggrafs' do
     url 'http://dl.dafont.com/dl/?f=dinggrafs'
     name 'Ding Grafs'
     homepage 'http://www.dafont.com/dinggrafs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DingGrafs.ttf'
 end

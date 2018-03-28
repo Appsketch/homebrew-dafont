@@ -5,7 +5,6 @@ cask 'dafont-cell-63' do
     url 'http://dl.dafont.com/dl/?f=cell_63'
     name 'Cell 63'
     homepage 'http://www.dafont.com/cell-63.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cell_63.ttf'
 end

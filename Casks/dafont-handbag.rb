@@ -5,7 +5,6 @@ cask 'dafont-handbag' do
     url 'http://dl.dafont.com/dl/?f=handbag'
     name 'Handbag'
     homepage 'http://www.dafont.com/handbag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Handbag-Regular.ttf'
 end

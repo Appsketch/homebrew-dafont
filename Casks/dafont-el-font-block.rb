@@ -5,7 +5,6 @@ cask 'dafont-el-font-block' do
     url 'http://dl.dafont.com/dl/?f=_el_font_block'
     name '(el&amp;font BLOCK)'
     homepage 'http://www.dafont.com/-el-font-block.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Font (el&amp;font BLOCK).ttf'
 end

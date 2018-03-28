@@ -5,7 +5,6 @@ cask 'dafont-november-sky' do
     url 'http://dl.dafont.com/dl/?f=november_sky'
     name 'November Sky'
     homepage 'http://www.dafont.com/november-sky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'November sky bold demo.ttf'
     font 'November sky demo.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-dented' do
     url 'http://dl.dafont.com/dl/?f=dented'
     name 'Dented'
     homepage 'http://www.dafont.com/dented.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dented.ttf'
 end

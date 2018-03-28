@@ -5,7 +5,6 @@ cask 'dafont-kg-two-is-better-than-one' do
     url 'http://dl.dafont.com/dl/?f=kg_two_is_better_than_one'
     name 'KG Two is Better Than One'
     homepage 'http://www.dafont.com/kg-two-is-better-than-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGTwoisBetterThanOne.ttf'
 end

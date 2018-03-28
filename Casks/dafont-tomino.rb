@@ -5,7 +5,6 @@ cask 'dafont-tomino' do
     url 'http://dl.dafont.com/dl/?f=tomino'
     name 'Tomino'
     homepage 'http://www.dafont.com/tomino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tomino_PERSONAL_USE_ONLY.ttf'
 end

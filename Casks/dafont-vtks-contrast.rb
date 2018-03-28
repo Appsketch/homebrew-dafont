@@ -5,7 +5,6 @@ cask 'dafont-vtks-contrast' do
     url 'http://dl.dafont.com/dl/?f=vtks_contrast'
     name 'Vtks Contrast'
     homepage 'http://www.dafont.com/vtks-contrast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Contrast.ttf'
 end

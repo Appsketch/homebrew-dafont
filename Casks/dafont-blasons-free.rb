@@ -5,7 +5,6 @@ cask 'dafont-blasons-free' do
     url 'http://dl.dafont.com/dl/?f=blasons_free'
     name 'Blasons Free'
     homepage 'http://www.dafont.com/blasons-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blasons Free.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-write-it-right' do
     url 'http://dl.dafont.com/dl/?f=write_it_right'
     name 'Write It Right'
     homepage 'http://www.dafont.com/write-it-right.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Write It Right.ttf'
 end

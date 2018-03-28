@@ -5,7 +5,6 @@ cask 'dafont-yeti-the-vamp' do
     url 'http://dl.dafont.com/dl/?f=yeti_the_vamp'
     name 'Yeti + The Vamp'
     homepage 'http://www.dafont.com/yeti-the-vamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YETI THEVAMP-Regular.otf'
 end

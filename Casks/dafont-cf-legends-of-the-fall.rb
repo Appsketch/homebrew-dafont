@@ -5,7 +5,6 @@ cask 'dafont-cf-legends-of-the-fall' do
     url 'http://dl.dafont.com/dl/?f=cf_legends_of_the_fall'
     name 'CF Legends of the Fall'
     homepage 'http://www.dafont.com/cf-legends-of-the-fall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFLegendsoftheFall-Regular.ttf'
 end

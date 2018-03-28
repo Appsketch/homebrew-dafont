@@ -5,7 +5,6 @@ cask 'dafont-le-grimoire-du-bonheur' do
     url 'http://dl.dafont.com/dl/?f=le_grimoire_du_bonheur'
     name 'Le Grimoire du Bonheur'
     homepage 'http://www.dafont.com/le-grimoire-du-bonheur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Le Grimoire du Bonheur.ttf'
 end

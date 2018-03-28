@@ -5,7 +5,6 @@ cask 'dafont-strawberrybubblegum' do
     url 'http://dl.dafont.com/dl/?f=strawberrybubblegum'
     name 'Strawberry Bubblegum'
     homepage 'http://www.dafont.com/strawberrybubblegum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StrawberryBubblegum.ttf'
 end

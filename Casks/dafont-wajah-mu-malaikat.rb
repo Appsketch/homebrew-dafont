@@ -5,7 +5,6 @@ cask 'dafont-wajah-mu-malaikat' do
     url 'http://dl.dafont.com/dl/?f=wajah_mu_malaikat'
     name 'Wajah mu Malaikat'
     homepage 'http://www.dafont.com/wajah-mu-malaikat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MALAIKAT.ttf'
 end

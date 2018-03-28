@@ -5,7 +5,6 @@ cask 'dafont-sing-with-me' do
     url 'http://dl.dafont.com/dl/?f=sing_with_me'
     name 'Sing With Me'
     homepage 'http://www.dafont.com/sing-with-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sing with me.ttf'
 end

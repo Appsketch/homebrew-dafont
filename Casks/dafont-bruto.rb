@@ -5,7 +5,6 @@ cask 'dafont-bruto' do
     url 'http://dl.dafont.com/dl/?f=bruto'
     name 'Bruto'
     homepage 'http://www.dafont.com/bruto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRUTO_MAYUSCULA.TTF'
 end

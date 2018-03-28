@@ -5,7 +5,6 @@ cask 'dafont-soputan' do
     url 'http://dl.dafont.com/dl/?f=soputan'
     name 'Soputan'
     homepage 'http://www.dafont.com/soputan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'soputan.ttf'
 end

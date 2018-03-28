@@ -5,7 +5,6 @@ cask 'dafont-gismonda-fg' do
     url 'http://dl.dafont.com/dl/?f=gismonda_fg'
     name 'Gismonda FG'
     homepage 'http://www.dafont.com/gismonda-fg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gismonda.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-karisma-stencil' do
     url 'http://dl.dafont.com/dl/?f=karisma_stencil'
     name 'Karisma Stencil'
     homepage 'http://www.dafont.com/karisma-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KARISMA_.ttf'
     font 'KARISMAI.ttf'

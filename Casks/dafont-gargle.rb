@@ -5,7 +5,6 @@ cask 'dafont-gargle' do
     url 'http://dl.dafont.com/dl/?f=gargle'
     name 'Gargle'
     homepage 'http://www.dafont.com/gargle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gargle bd it.ttf'
     font 'gargle bd.ttf'

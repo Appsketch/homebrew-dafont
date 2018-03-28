@@ -5,7 +5,6 @@ cask 'dafont-ursa-minor' do
     url 'http://dl.dafont.com/dl/?f=ursa_minor'
     name 'Ursa Minor'
     homepage 'http://www.dafont.com/ursa-minor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ursa Minor.otf'
 end

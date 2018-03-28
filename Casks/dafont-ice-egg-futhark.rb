@@ -5,7 +5,6 @@ cask 'dafont-ice-egg-futhark' do
     url 'http://dl.dafont.com/dl/?f=ice_egg_futhark'
     name 'Ice Egg Futhark'
     homepage 'http://www.dafont.com/ice-egg-futhark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iefuthrk.ttf'
 end

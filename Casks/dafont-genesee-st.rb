@@ -5,7 +5,6 @@ cask 'dafont-genesee-st' do
     url 'http://dl.dafont.com/dl/?f=genesee_st'
     name 'Genesee St'
     homepage 'http://www.dafont.com/genesee-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GeneseeSt-Black.ttf'
     font 'GeneseeSt-Italic.otf'

@@ -5,7 +5,6 @@ cask 'dafont-camelia' do
     url 'http://dl.dafont.com/dl/?f=camelia'
     name 'Cam&eacute;lia'
     homepage 'http://www.dafont.com/camelia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Camlia.ttf'
 end

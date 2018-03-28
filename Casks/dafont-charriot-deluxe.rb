@@ -5,7 +5,6 @@ cask 'dafont-charriot-deluxe' do
     url 'http://dl.dafont.com/dl/?f=charriot_deluxe'
     name 'Charriot Deluxe'
     homepage 'http://www.dafont.com/charriot-deluxe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CharriotDeluxe.ttf'
 end

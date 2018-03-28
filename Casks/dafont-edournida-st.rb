@@ -5,7 +5,6 @@ cask 'dafont-edournida-st' do
     url 'http://dl.dafont.com/dl/?f=edournida_st'
     name 'Edournida ST'
     homepage 'http://www.dafont.com/edournida-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'edournida.ttf'
 end

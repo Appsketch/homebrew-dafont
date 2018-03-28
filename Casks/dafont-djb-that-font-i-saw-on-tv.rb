@@ -5,7 +5,6 @@ cask 'dafont-djb-that-font-i-saw-on-tv' do
     url 'http://dl.dafont.com/dl/?f=djb_that_font_i_saw_on_tv'
     name 'DJB That Font I Saw on TV'
     homepage 'http://www.dafont.com/djb-that-font-i-saw-on-tv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB That Font I Saw on TV.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tjackluder' do
     url 'http://dl.dafont.com/dl/?f=tjackluder'
     name 'Tjackluder'
     homepage 'http://www.dafont.com/tjackluder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tjackluder.ttf'
 end

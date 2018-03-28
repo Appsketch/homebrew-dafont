@@ -5,7 +5,6 @@ cask 'dafont-undergrunge-tornado' do
     url 'http://dl.dafont.com/dl/?f=undergrunge_tornado'
     name 'Undergrunge Tornado'
     homepage 'http://www.dafont.com/undergrunge-tornado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Undergrunge Tornado Demo.ttf'
 end

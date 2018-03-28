@@ -5,7 +5,6 @@ cask 'dafont-conrad-veidt' do
     url 'http://dl.dafont.com/dl/?f=conrad_veidt'
     name 'Conrad Veidt'
     homepage 'http://www.dafont.com/conrad-veidt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Conrad Veidt.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cf-dots-521' do
     url 'http://dl.dafont.com/dl/?f=cf_dots_521'
     name 'CF Dots 521'
     homepage 'http://www.dafont.com/cf-dots-521.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFDots-Regular.ttf'
 end

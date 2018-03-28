@@ -5,7 +5,6 @@ cask 'dafont-strippindirty' do
     url 'http://dl.dafont.com/dl/?f=strippindirty'
     name 'Strippin&#039;dirty'
     homepage 'http://www.dafont.com/strippindirty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'strippin_dirty.ttf'
 end

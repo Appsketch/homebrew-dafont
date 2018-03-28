@@ -5,7 +5,6 @@ cask 'dafont-louco' do
     url 'http://dl.dafont.com/dl/?f=louco'
     name 'Louco'
     homepage 'http://www.dafont.com/louco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Louco-Regular-RicardoCarvalho.otf'
 end

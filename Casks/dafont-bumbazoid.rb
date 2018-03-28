@@ -5,7 +5,6 @@ cask 'dafont-bumbazoid' do
     url 'http://dl.dafont.com/dl/?f=bumbazoid'
     name 'Bumbazoid'
     homepage 'http://www.dafont.com/bumbazoid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUMBAZO.TTF'
 end

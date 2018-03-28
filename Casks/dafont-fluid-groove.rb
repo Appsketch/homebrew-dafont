@@ -5,7 +5,6 @@ cask 'dafont-fluid-groove' do
     url 'http://dl.dafont.com/dl/?f=fluid_groove'
     name 'Fluid Groove'
     homepage 'http://www.dafont.com/fluid-groove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fluid groove.ttf'
 end

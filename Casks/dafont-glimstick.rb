@@ -5,7 +5,6 @@ cask 'dafont-glimstick' do
     url 'http://dl.dafont.com/dl/?f=glimstick'
     name 'Glimstick'
     homepage 'http://www.dafont.com/glimstick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GLIMSTIC.TTF'
 end

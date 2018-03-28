@@ -5,7 +5,6 @@ cask 'dafont-misty-morning' do
     url 'http://dl.dafont.com/dl/?f=misty_morning'
     name 'Misty Morning'
     homepage 'http://www.dafont.com/misty-morning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Misty Morning.ttf'
 end

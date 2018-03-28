@@ -5,7 +5,6 @@ cask 'dafont-faustina' do
     url 'http://dl.dafont.com/dl/?f=faustina'
     name 'Faustina'
     homepage 'http://www.dafont.com/faustina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Faustina Font.ttf'
 end

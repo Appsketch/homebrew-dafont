@@ -5,7 +5,6 @@ cask 'dafont-kibblez-no-bitz' do
     url 'http://dl.dafont.com/dl/?f=kibblez_no_bitz'
     name 'Kibblez no bitz'
     homepage 'http://www.dafont.com/kibblez-no-bitz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kibblez.nobitz.[fontvir.us].ttf'
 end

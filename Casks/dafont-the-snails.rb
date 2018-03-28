@@ -5,7 +5,6 @@ cask 'dafont-the-snails' do
     url 'http://dl.dafont.com/dl/?f=the_snails'
     name 'The Snails'
     homepage 'http://www.dafont.com/the-snails.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Snails.otf'
 end

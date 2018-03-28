@@ -5,7 +5,6 @@ cask 'dafont-dk-americain' do
     url 'http://dl.dafont.com/dl/?f=dk_americain'
     name 'DK Americain'
     homepage 'http://www.dafont.com/dk-americain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Americain.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yonna' do
     url 'http://dl.dafont.com/dl/?f=yonna'
     name 'Yonna'
     homepage 'http://www.dafont.com/yonna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yonna.ttf'
 end

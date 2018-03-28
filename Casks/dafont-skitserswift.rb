@@ -5,7 +5,6 @@ cask 'dafont-skitserswift' do
     url 'http://dl.dafont.com/dl/?f=skitserswift'
     name 'Skitser Swift'
     homepage 'http://www.dafont.com/skitserswift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkitserSwift.ttf'
 end

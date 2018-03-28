@@ -5,7 +5,6 @@ cask 'dafont-dennis-vallera' do
     url 'http://dl.dafont.com/dl/?f=dennis_vallera'
     name 'Dennis Vallera'
     homepage 'http://www.dafont.com/dennis-vallera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dennisvallera.ttf'
 end

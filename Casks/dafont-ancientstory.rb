@@ -5,7 +5,6 @@ cask 'dafont-ancientstory' do
     url 'http://dl.dafont.com/dl/?f=ancientstory'
     name 'Ancient Story'
     homepage 'http://www.dafont.com/ancientstory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AncientStory.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fight-club' do
     url 'http://dl.dafont.com/dl/?f=fight_club'
     name 'Fight Club'
     homepage 'http://www.dafont.com/fight-club.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FIGHT CLUB.ttf'
 end

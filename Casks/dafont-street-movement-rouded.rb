@@ -5,7 +5,6 @@ cask 'dafont-street-movement-rouded' do
     url 'http://dl.dafont.com/dl/?f=street_movement_rouded'
     name 'Street Movement'
     homepage 'http://www.dafont.com/street-movement-rouded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STREETMOVEMENT rounded.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rusting-robotica' do
     url 'http://dl.dafont.com/dl/?f=rusting_robotica'
     name 'Rusting Robotica'
     homepage 'http://www.dafont.com/rusting-robotica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rusting Robotica Italic.otf'
     font 'Rusting Robotica.otf'

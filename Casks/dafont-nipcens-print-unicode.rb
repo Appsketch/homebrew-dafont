@@ -5,7 +5,6 @@ cask 'dafont-nipcens-print-unicode' do
     url 'http://dl.dafont.com/dl/?f=nipcens_print_unicode'
     name 'NipCen&#039;s Print Unicode'
     homepage 'http://www.dafont.com/nipcens-print-unicode.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NipCen s Print Unicode.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-c-a-garrutas' do
     url 'http://dl.dafont.com/dl/?f=c_a_garrutas'
     name 'C.A. Garrutas'
     homepage 'http://www.dafont.com/c-a-garrutas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'C.A. Garrutas-font.ttf'
 end

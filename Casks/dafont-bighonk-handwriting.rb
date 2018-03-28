@@ -5,7 +5,6 @@ cask 'dafont-bighonk-handwriting' do
     url 'http://dl.dafont.com/dl/?f=bighonk_handwriting'
     name 'BigHonk handwriting'
     homepage 'http://www.dafont.com/bighonk-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigHonk handwriting.ttf'
 end

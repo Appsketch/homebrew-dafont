@@ -5,7 +5,6 @@ cask 'dafont-attic' do
     url 'http://dl.dafont.com/dl/?f=attic'
     name 'Attic'
     homepage 'http://www.dafont.com/attic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ATTIC___.TTF'
 end

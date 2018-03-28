@@ -5,7 +5,6 @@ cask 'dafont-pauls-ransom-note-font' do
     url 'http://dl.dafont.com/dl/?f=pauls_ransom_note_font'
     name 'Pauls Ransom Note'
     homepage 'http://www.dafont.com/pauls-ransom-note-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pauls Ransom Note.ttf'
 end

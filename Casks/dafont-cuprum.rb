@@ -5,7 +5,6 @@ cask 'dafont-cuprum' do
     url 'http://dl.dafont.com/dl/?f=cuprum'
     name 'Cuprum'
     homepage 'http://www.dafont.com/cuprum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cuprum-Bold.ttf'
     font 'Cuprum-BoldItalic.ttf'

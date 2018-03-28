@@ -5,7 +5,6 @@ cask 'dafont-agendaclash' do
     url 'http://dl.dafont.com/dl/?f=agendaclash'
     name 'Agenda Clash'
     homepage 'http://www.dafont.com/agendaclash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AgendaClash.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kr-christmas-color' do
     url 'http://dl.dafont.com/dl/?f=kr_christmas_color'
     name 'KR Christmas Color Me'
     homepage 'http://www.dafont.com/kr-christmas-color.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Christmas Color Me.ttf'
     font 'KR Color Me Christmas 2002.ttf'

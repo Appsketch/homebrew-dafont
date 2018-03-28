@@ -5,7 +5,6 @@ cask 'dafont-meryjane' do
     url 'http://dl.dafont.com/dl/?f=meryjane'
     name 'Meryjane'
     homepage 'http://www.dafont.com/meryjane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'meryjane_v2.ttf'
     font 'meryjane.ttf'

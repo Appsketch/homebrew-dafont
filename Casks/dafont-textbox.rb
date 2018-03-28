@@ -5,7 +5,6 @@ cask 'dafont-textbox' do
     url 'http://dl.dafont.com/dl/?f=textbox'
     name 'Text Box'
     homepage 'http://www.dafont.com/textbox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TextBox StencilMD.ttf'
     font 'TextBoxMD.ttf'

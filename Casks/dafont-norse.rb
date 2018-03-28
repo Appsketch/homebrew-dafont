@@ -5,7 +5,6 @@ cask 'dafont-norse' do
     url 'http://dl.dafont.com/dl/?f=norse'
     name 'Norse'
     homepage 'http://www.dafont.com/norse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Norse.otf'
     font 'Norsebold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-puchimono' do
     url 'http://dl.dafont.com/dl/?f=puchimono'
     name 'PuchiMono'
     homepage 'http://www.dafont.com/puchimono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'puchimono2 - 5-25.svg.ttf'
 end

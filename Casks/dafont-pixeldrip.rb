@@ -5,7 +5,6 @@ cask 'dafont-pixeldrip' do
     url 'http://dl.dafont.com/dl/?f=pixeldrip'
     name 'Pixel Drip'
     homepage 'http://www.dafont.com/pixeldrip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixelDrip.ttf'
 end

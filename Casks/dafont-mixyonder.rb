@@ -5,7 +5,6 @@ cask 'dafont-mixyonder' do
     url 'http://dl.dafont.com/dl/?f=mixyonder'
     name 'Mix Yonder'
     homepage 'http://www.dafont.com/mixyonder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixYonder.ttf'
 end

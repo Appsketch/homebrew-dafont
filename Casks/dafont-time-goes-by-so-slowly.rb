@@ -5,7 +5,6 @@ cask 'dafont-time-goes-by-so-slowly' do
     url 'http://dl.dafont.com/dl/?f=time_goes_by_so_slowly'
     name 'Time goes by so slowly'
     homepage 'http://www.dafont.com/time-goes-by-so-slowly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Time goes by so slowly.ttf'
 end

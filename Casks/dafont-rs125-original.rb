@@ -5,7 +5,6 @@ cask 'dafont-rs125-original' do
     url 'http://dl.dafont.com/dl/?f=rs125_original'
     name 'RS125 Original'
     homepage 'http://www.dafont.com/rs125-original.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rs125.ttf'
 end

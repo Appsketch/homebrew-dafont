@@ -5,7 +5,6 @@ cask 'dafont-kz-gravity' do
     url 'http://dl.dafont.com/dl/?f=kz_gravity'
     name 'KZ Gravity'
     homepage 'http://www.dafont.com/kz-gravity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KZGRAVITY.TTF'
 end

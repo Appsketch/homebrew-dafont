@@ -5,7 +5,6 @@ cask 'dafont-llama' do
     url 'http://dl.dafont.com/dl/?f=llama'
     name 'Llama'
     homepage 'http://www.dafont.com/llama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Llama Grazy.ttf'
     font 'Llama Mad.ttf'

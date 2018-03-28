@@ -5,7 +5,6 @@ cask 'dafont-sk8-or-dye' do
     url 'http://dl.dafont.com/dl/?f=sk8_or_dye'
     name 'Sk8 or Dye'
     homepage 'http://www.dafont.com/sk8-or-dye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SK8ORDYE.TTF'
 end

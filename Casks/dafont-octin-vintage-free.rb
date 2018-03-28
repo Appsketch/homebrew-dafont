@@ -5,7 +5,6 @@ cask 'dafont-octin-vintage-free' do
     url 'http://dl.dafont.com/dl/?f=octin_vintage_free'
     name 'Octin Vintage Free'
     homepage 'http://www.dafont.com/octin-vintage-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'octin vintage free.ttf'
 end

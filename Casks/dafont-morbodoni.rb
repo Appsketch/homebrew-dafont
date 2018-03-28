@@ -5,7 +5,6 @@ cask 'dafont-morbodoni' do
     url 'http://dl.dafont.com/dl/?f=morbodoni'
     name 'Morbodoni'
     homepage 'http://www.dafont.com/morbodoni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Morbodoni-Trial.ttf'
 end

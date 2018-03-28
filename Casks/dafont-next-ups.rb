@@ -5,7 +5,6 @@ cask 'dafont-next-ups' do
     url 'http://dl.dafont.com/dl/?f=next_ups'
     name 'Next Ups'
     homepage 'http://www.dafont.com/next-ups.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Next Ups Black.ttf'
     font 'Next Ups.ttf'

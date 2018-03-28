@@ -5,7 +5,6 @@ cask 'dafont-grunge-overlords' do
     url 'http://dl.dafont.com/dl/?f=grunge_overlords'
     name 'Grunge Overlords'
     homepage 'http://www.dafont.com/grunge-overlords.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grunge-Overlords PERSONAL USE ONLY.ttf'
 end

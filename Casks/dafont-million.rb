@@ -5,7 +5,6 @@ cask 'dafont-million' do
     url 'http://dl.dafont.com/dl/?f=million'
     name 'Million'
     homepage 'http://www.dafont.com/million.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'million.ttf'
 end

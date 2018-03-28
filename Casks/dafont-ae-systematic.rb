@@ -5,7 +5,6 @@ cask 'dafont-ae-systematic' do
     url 'http://dl.dafont.com/dl/?f=ae_systematic'
     name 'AE Systematic'
     homepage 'http://www.dafont.com/ae-systematic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aesymatt.ttf'
 end

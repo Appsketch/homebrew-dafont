@@ -5,7 +5,6 @@ cask 'dafont-de-ttnorm' do
     url 'http://dl.dafont.com/dl/?f=de_ttnorm'
     name 'De Ttnorm'
     homepage 'http://www.dafont.com/de-ttnorm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Degt____.ttf'
 end

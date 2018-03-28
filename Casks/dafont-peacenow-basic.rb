@@ -5,7 +5,6 @@ cask 'dafont-peacenow-basic' do
     url 'http://dl.dafont.com/dl/?f=peacenow_basic'
     name 'PeaceNow Basic'
     homepage 'http://www.dafont.com/peacenow-basic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PeaceNow Basic.ttf'
 end

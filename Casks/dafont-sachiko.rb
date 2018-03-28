@@ -5,7 +5,6 @@ cask 'dafont-sachiko' do
     url 'http://dl.dafont.com/dl/?f=sachiko'
     name 'Sachiko'
     homepage 'http://www.dafont.com/sachiko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sachiko.ttf'
 end

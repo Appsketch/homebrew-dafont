@@ -5,7 +5,6 @@ cask 'dafont-whitney2' do
     url 'http://dl.dafont.com/dl/?f=whitney2'
     name 'Whitney2'
     homepage 'http://www.dafont.com/whitney2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WHITNEY2.TTF'
 end

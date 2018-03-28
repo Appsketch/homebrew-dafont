@@ -5,7 +5,6 @@ cask 'dafont-old-type' do
     url 'http://dl.dafont.com/dl/?f=old_type'
     name 'Old Type'
     homepage 'http://www.dafont.com/old-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OLDTYPE PERSONAL USE___.otf'
 end

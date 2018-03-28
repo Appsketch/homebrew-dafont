@@ -5,7 +5,6 @@ cask 'dafont-tengo-a-tus-hijos' do
     url 'http://dl.dafont.com/dl/?f=tengo_a_tus_hijos'
     name 'Tengo a tus hijos'
     homepage 'http://www.dafont.com/tengo-a-tus-hijos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tengo a tus hijos negativo.ttf'
     font 'tengo a tus hijos.ttf'

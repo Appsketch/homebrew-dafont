@@ -5,7 +5,6 @@ cask 'dafont-curled-serif' do
     url 'http://dl.dafont.com/dl/?f=curled_serif'
     name 'Curled Serif'
     homepage 'http://www.dafont.com/curled-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'curlser.ttf'
 end

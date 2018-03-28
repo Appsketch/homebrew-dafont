@@ -5,7 +5,6 @@ cask 'dafont-forced-flowers' do
     url 'http://dl.dafont.com/dl/?f=forced_flowers'
     name 'Forced Flowers'
     homepage 'http://www.dafont.com/forced-flowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Forced Flowers.ttf'
 end

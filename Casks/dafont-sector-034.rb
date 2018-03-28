@@ -5,7 +5,6 @@ cask 'dafont-sector-034' do
     url 'http://dl.dafont.com/dl/?f=sector_034'
     name 'Sector 034'
     homepage 'http://www.dafont.com/sector-034.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sector_034.ttf'
 end

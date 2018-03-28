@@ -5,7 +5,6 @@ cask 'dafont-jd-arrowup' do
     url 'http://dl.dafont.com/dl/?f=jd_arrowup'
     name 'JD ArrowUp'
     homepage 'http://www.dafont.com/jd-arrowup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_arrowup.ttf'
 end

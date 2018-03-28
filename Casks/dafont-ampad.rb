@@ -5,7 +5,6 @@ cask 'dafont-ampad' do
     url 'http://dl.dafont.com/dl/?f=ampad'
     name 'Ampad'
     homepage 'http://www.dafont.com/ampad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ampad 3D.otf'
     font 'Ampad 3D2.ttf'

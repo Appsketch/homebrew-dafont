@@ -5,7 +5,6 @@ cask 'dafont-eastlift' do
     url 'http://dl.dafont.com/dl/?f=eastlift'
     name 'East Lift'
     homepage 'http://www.dafont.com/eastlift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'East_Lift.ttf'
 end

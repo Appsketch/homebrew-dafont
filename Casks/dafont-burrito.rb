@@ -5,7 +5,6 @@ cask 'dafont-burrito' do
     url 'http://dl.dafont.com/dl/?f=burrito'
     name 'Burrito'
     homepage 'http://www.dafont.com/burrito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'burrito.TTF'
 end

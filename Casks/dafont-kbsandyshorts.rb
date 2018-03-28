@@ -5,7 +5,6 @@ cask 'dafont-kbsandyshorts' do
     url 'http://dl.dafont.com/dl/?f=kbsandyshorts'
     name 'KB Sandy Shorts'
     homepage 'http://www.dafont.com/kbsandyshorts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBSandyShorts.ttf'
 end

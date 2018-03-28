@@ -5,7 +5,6 @@ cask 'dafont-pwfatscratch' do
     url 'http://dl.dafont.com/dl/?f=pwfatscratch'
     name 'PW Fatscratch'
     homepage 'http://www.dafont.com/pwfatscratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWFatscratch.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-keusta' do
     url 'http://dl.dafont.com/dl/?f=keusta'
     name 'Keusta'
     homepage 'http://www.dafont.com/keusta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Keusta-Regular.ttf'
 end

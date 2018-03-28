@@ -5,7 +5,6 @@ cask 'dafont-i-love-the-smell-of-rain' do
     url 'http://dl.dafont.com/dl/?f=i_love_the_smell_of_rain'
     name 'I love the smell of rain'
     homepage 'http://www.dafont.com/i-love-the-smell-of-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I love the smell of rain.ttf'
 end

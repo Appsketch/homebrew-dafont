@@ -5,7 +5,6 @@ cask 'dafont-creative-block-bb' do
     url 'http://dl.dafont.com/dl/?f=creative_block_bb'
     name 'Creative Block BB'
     homepage 'http://www.dafont.com/creative-block-bb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CREABBB_.TTF'
     font 'CREABBRG.TTF'

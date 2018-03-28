@@ -5,7 +5,6 @@ cask 'dafont-dhf-story-brush' do
     url 'http://dl.dafont.com/dl/?f=dhf_story_brush'
     name 'DHF Story Brush'
     homepage 'http://www.dafont.com/dhf-story-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DHF Story Brush Slanted.ttf'
     font 'DHF Story Brush.ttf'

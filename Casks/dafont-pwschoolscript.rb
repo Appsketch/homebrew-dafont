@@ -5,7 +5,6 @@ cask 'dafont-pwschoolscript' do
     url 'http://dl.dafont.com/dl/?f=pwschoolscript'
     name 'PW School Script'
     homepage 'http://www.dafont.com/pwschoolscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWSchoolScript.ttf'
 end

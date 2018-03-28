@@ -5,7 +5,6 @@ cask 'dafont-angled' do
     url 'http://dl.dafont.com/dl/?f=angled'
     name 'Angled'
     homepage 'http://www.dafont.com/angled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANGLED__.TTF'
 end

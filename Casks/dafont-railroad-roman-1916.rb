@@ -5,7 +5,6 @@ cask 'dafont-railroad-roman-1916' do
     url 'http://dl.dafont.com/dl/?f=railroad_roman_1916'
     name 'Railroad Roman 1916'
     homepage 'http://www.dafont.com/railroad-roman-1916.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Railroad Roman 1916 Normal.ttf'
     font 'Railroad Roman 1916 Ultra-Expanded.ttf'

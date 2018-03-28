@@ -5,7 +5,6 @@ cask 'dafont-rockers' do
     url 'http://dl.dafont.com/dl/?f=rockers'
     name 'Rockers'
     homepage 'http://www.dafont.com/rockers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rockers.otf'
 end

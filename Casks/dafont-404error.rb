@@ -5,7 +5,6 @@ cask 'dafont-404error' do
     url 'http://dl.dafont.com/dl/?f=404error'
     name '404error'
     homepage 'http://www.dafont.com/404error.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '404ERROR.TTF'
 end

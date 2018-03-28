@@ -5,7 +5,6 @@ cask 'dafont-kbnoodlemonster' do
     url 'http://dl.dafont.com/dl/?f=kbnoodlemonster'
     name 'KB Noodle Monster'
     homepage 'http://www.dafont.com/kbnoodlemonster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBNoodleMonster.ttf'
 end

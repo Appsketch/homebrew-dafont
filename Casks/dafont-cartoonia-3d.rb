@@ -5,7 +5,6 @@ cask 'dafont-cartoonia-3d' do
     url 'http://dl.dafont.com/dl/?f=cartoonia_3d'
     name 'Cartoonia 3D'
     homepage 'http://www.dafont.com/cartoonia-3d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cartoonia_3D.ttf'
 end

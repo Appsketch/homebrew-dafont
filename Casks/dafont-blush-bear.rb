@@ -5,7 +5,6 @@ cask 'dafont-blush-bear' do
     url 'http://dl.dafont.com/dl/?f=blush_bear'
     name 'Blush Bear'
     homepage 'http://www.dafont.com/blush-bear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLUSH BEAR.ttf'
 end

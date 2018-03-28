@@ -5,7 +5,6 @@ cask 'dafont-fresh-marker' do
     url 'http://dl.dafont.com/dl/?f=fresh_marker'
     name 'Fresh Marker'
     homepage 'http://www.dafont.com/fresh-marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'freshmarker.ttf'
 end

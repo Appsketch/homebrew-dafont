@@ -5,7 +5,6 @@ cask 'dafont-a-box-for' do
     url 'http://dl.dafont.com/dl/?f=a_box_for'
     name 'A Box For'
     homepage 'http://www.dafont.com/a-box-for.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A Box For 2.ttf'
     font 'A Box For 3.ttf'

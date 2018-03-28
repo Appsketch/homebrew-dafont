@@ -5,7 +5,6 @@ cask 'dafont-starstruck' do
     url 'http://dl.dafont.com/dl/?f=starstruck'
     name 'Starstruck'
     homepage 'http://www.dafont.com/starstruck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Starstruck.ttf'
 end

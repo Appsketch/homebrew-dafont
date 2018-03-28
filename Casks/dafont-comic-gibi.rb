@@ -5,7 +5,6 @@ cask 'dafont-comic-gibi' do
     url 'http://dl.dafont.com/dl/?f=comic_gibi'
     name 'Comic Gibi'
     homepage 'http://www.dafont.com/comic-gibi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comic Gibi Bold Italic.ttf'
     font 'Comic Gibi Bold.ttf'

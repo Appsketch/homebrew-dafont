@@ -5,7 +5,6 @@ cask 'dafont-hilda-sonnenschein' do
     url 'http://dl.dafont.com/dl/?f=hilda_sonnenschein'
     name 'Hilda Sonnenschein'
     homepage 'http://www.dafont.com/hilda-sonnenschein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hildae.ttf'
     font 'Hilds___.ttf'

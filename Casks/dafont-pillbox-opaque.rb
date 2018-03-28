@@ -5,7 +5,6 @@ cask 'dafont-pillbox-opaque' do
     url 'http://dl.dafont.com/dl/?f=pillbox_opaque'
     name 'Pillbox Opaque'
     homepage 'http://www.dafont.com/pillbox-opaque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pillbox.ttf'
 end

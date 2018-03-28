@@ -5,7 +5,6 @@ cask 'dafont-the-classy-dots' do
     url 'http://dl.dafont.com/dl/?f=the_classy_dots'
     name 'The Classy Dots'
     homepage 'http://www.dafont.com/the-classy-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Classy Dots_real.ttf'
 end

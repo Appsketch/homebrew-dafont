@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-female' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_female'
     name 'AlphaShapes female'
     homepage 'http://www.dafont.com/alphashapes-female.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asfemale.ttf'
 end

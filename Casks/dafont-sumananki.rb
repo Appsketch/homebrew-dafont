@@ -5,7 +5,6 @@ cask 'dafont-sumananki' do
     url 'http://dl.dafont.com/dl/?f=sumananki'
     name 'Sumananki'
     homepage 'http://www.dafont.com/sumananki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUMANANKI.ttf'
 end

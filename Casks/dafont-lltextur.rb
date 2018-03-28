@@ -5,7 +5,6 @@ cask 'dafont-lltextur' do
     url 'http://dl.dafont.com/dl/?f=lltextur'
     name 'LL Textur'
     homepage 'http://www.dafont.com/lltextur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLTERG__.TTF'
 end

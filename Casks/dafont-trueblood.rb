@@ -5,7 +5,6 @@ cask 'dafont-trueblood' do
     url 'http://dl.dafont.com/dl/?f=trueblood'
     name 'Trueblood'
     homepage 'http://www.dafont.com/trueblood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRUEblood.ttf'
 end

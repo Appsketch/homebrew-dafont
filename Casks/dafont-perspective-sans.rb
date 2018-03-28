@@ -5,7 +5,6 @@ cask 'dafont-perspective-sans' do
     url 'http://dl.dafont.com/dl/?f=perspective_sans'
     name 'Perspective Sans'
     homepage 'http://www.dafont.com/perspective-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'persabki.ttf'
     font 'persanbi.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-parangrusak' do
     url 'http://dl.dafont.com/dl/?f=parangrusak'
     name 'Parangrusak'
     homepage 'http://www.dafont.com/parangrusak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'parangrusak.ttf'
 end

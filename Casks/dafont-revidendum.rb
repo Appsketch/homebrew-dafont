@@ -5,7 +5,6 @@ cask 'dafont-revidendum' do
     url 'http://dl.dafont.com/dl/?f=revidendum'
     name 'Revidendum'
     homepage 'http://www.dafont.com/revidendum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'revidendum.ttf'
 end

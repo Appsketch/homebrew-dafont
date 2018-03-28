@@ -5,7 +5,6 @@ cask 'dafont-crimson-petal' do
     url 'http://dl.dafont.com/dl/?f=crimson_petal'
     name 'Crimson Petal'
     homepage 'http://www.dafont.com/crimson-petal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRIMSON PETAL.ttf'
 end

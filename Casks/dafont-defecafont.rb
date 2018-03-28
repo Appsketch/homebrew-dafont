@@ -5,7 +5,6 @@ cask 'dafont-defecafont' do
     url 'http://dl.dafont.com/dl/?f=defecafont'
     name 'Defecafont'
     homepage 'http://www.dafont.com/defecafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEFECAFO.TTF'
 end

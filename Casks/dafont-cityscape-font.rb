@@ -5,7 +5,6 @@ cask 'dafont-cityscape-font' do
     url 'http://dl.dafont.com/dl/?f=cityscape_font'
     name 'Cityscape'
     homepage 'http://www.dafont.com/cityscape-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cityscape font.ttf'
 end

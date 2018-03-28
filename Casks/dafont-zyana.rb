@@ -5,7 +5,6 @@ cask 'dafont-zyana' do
     url 'http://dl.dafont.com/dl/?f=zyana'
     name 'Zyana'
     homepage 'http://www.dafont.com/zyana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zyana-Regular.ttf'
 end

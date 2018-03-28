@@ -5,7 +5,6 @@ cask 'dafont-ts-block' do
     url 'http://dl.dafont.com/dl/?f=ts_block'
     name 'TS Block'
     homepage 'http://www.dafont.com/ts-block.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TS Block Bold.ttf'
 end

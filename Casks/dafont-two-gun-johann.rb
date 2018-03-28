@@ -5,7 +5,6 @@ cask 'dafont-two-gun-johann' do
     url 'http://dl.dafont.com/dl/?f=two_gun_johann'
     name 'Two Gun Johann'
     homepage 'http://www.dafont.com/two-gun-johann.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TWOGJ___.TTF'
 end

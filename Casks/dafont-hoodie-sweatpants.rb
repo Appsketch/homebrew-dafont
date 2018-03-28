@@ -5,7 +5,6 @@ cask 'dafont-hoodie-sweatpants' do
     url 'http://dl.dafont.com/dl/?f=hoodie_sweatpants'
     name 'Hoodie &amp; Sweatpants'
     homepage 'http://www.dafont.com/hoodie-sweatpants.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hoodie &amp; Sweatpants.ttf'
 end

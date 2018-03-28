@@ -5,7 +5,6 @@ cask 'dafont-jed-the-humanoid' do
     url 'http://dl.dafont.com/dl/?f=jed_the_humanoid'
     name 'Jed the Humanoid'
     homepage 'http://www.dafont.com/jed-the-humanoid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jedth-demo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-queen-of-hearts' do
     url 'http://dl.dafont.com/dl/?f=queen_of_hearts'
     name 'Queen of Hearts'
     homepage 'http://www.dafont.com/queen-of-hearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hearts1.ttf'
 end

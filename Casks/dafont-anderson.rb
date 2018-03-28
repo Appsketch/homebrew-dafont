@@ -5,7 +5,6 @@ cask 'dafont-anderson' do
     url 'http://dl.dafont.com/dl/?f=anderson'
     name 'Anderson'
     homepage 'http://www.dafont.com/anderson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANDERSON.ttf'
 end

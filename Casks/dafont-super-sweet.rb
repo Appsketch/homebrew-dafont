@@ -5,7 +5,6 @@ cask 'dafont-super-sweet' do
     url 'http://dl.dafont.com/dl/?f=super_sweet'
     name 'Super Sweet'
     homepage 'http://www.dafont.com/super-sweet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Super Sweet.otf'
 end

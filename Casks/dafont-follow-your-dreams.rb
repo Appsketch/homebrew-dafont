@@ -5,7 +5,6 @@ cask 'dafont-follow-your-dreams' do
     url 'http://dl.dafont.com/dl/?f=follow_your_dreams'
     name 'Follow your dreams'
     homepage 'http://www.dafont.com/follow-your-dreams.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Follow Your Dreams.ttf'
 end

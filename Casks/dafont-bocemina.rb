@@ -5,7 +5,6 @@ cask 'dafont-bocemina' do
     url 'http://dl.dafont.com/dl/?f=bocemina'
     name 'Bocemina'
     homepage 'http://www.dafont.com/bocemina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bocemina.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ah-the-monster-is-comming' do
     url 'http://dl.dafont.com/dl/?f=ah_the_monster_is_comming'
     name 'Ah the monster is comming'
     homepage 'http://www.dafont.com/ah-the-monster-is-comming.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ah the monster is coming.ttf'
 end

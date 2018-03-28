@@ -5,7 +5,6 @@ cask 'dafont-44font' do
     url 'http://dl.dafont.com/dl/?f=44font'
     name '#44 Font'
     homepage 'http://www.dafont.com/44font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '#44v2.ttf'
     font '#44v2c.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-tengwar-cursive' do
     url 'http://dl.dafont.com/dl/?f=tengwar_cursive'
     name 'Tengwar Cursive'
     homepage 'http://www.dafont.com/tengwar-cursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tengwarc.ttf'
 end

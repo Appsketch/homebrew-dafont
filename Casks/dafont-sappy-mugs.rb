@@ -5,7 +5,6 @@ cask 'dafont-sappy-mugs' do
     url 'http://dl.dafont.com/dl/?f=sappy_mugs'
     name 'Sappy Mugs'
     homepage 'http://www.dafont.com/sappy-mugs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sappy mugs.ttf'
 end

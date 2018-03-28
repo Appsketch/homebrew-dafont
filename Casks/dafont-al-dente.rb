@@ -5,7 +5,6 @@ cask 'dafont-al-dente' do
     url 'http://dl.dafont.com/dl/?f=al_dente'
     name 'Al dente'
     homepage 'http://www.dafont.com/al-dente.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Al dente.ttf'
 end

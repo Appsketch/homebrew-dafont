@@ -5,7 +5,6 @@ cask 'dafont-fourth-grader-font' do
     url 'http://dl.dafont.com/dl/?f=fourth_grader_font'
     name 'Fourth Grader'
     homepage 'http://www.dafont.com/fourth-grader-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fourth Grader Font.ttf'
 end

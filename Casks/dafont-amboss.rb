@@ -5,7 +5,6 @@ cask 'dafont-amboss' do
     url 'http://dl.dafont.com/dl/?f=amboss'
     name 'Amboss'
     homepage 'http://www.dafont.com/amboss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amboss_display_rounded.ttf'
     font 'Amboss_display.ttf'

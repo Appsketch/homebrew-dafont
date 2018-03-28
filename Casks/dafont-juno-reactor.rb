@@ -5,7 +5,6 @@ cask 'dafont-juno-reactor' do
     url 'http://dl.dafont.com/dl/?f=juno_reactor'
     name 'Juno Reactor'
     homepage 'http://www.dafont.com/juno-reactor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dogma.ttf'
     font 'Juno Reactor.ttf'

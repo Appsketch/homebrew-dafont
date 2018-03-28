@@ -5,7 +5,6 @@ cask 'dafont-slimfast-ah' do
     url 'http://dl.dafont.com/dl/?f=slimfast_ah'
     name 'SlimFast AH'
     homepage 'http://www.dafont.com/slimfast-ah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'slimfast.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-boneking' do
     url 'http://dl.dafont.com/dl/?f=boneking'
     name 'Bone King'
     homepage 'http://www.dafont.com/boneking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BoneKing.ttf'
 end

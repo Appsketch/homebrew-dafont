@@ -5,7 +5,6 @@ cask 'dafont-ease-christmas' do
     url 'http://dl.dafont.com/dl/?f=ease_christmas'
     name 'Ease Christmas'
     homepage 'http://www.dafont.com/ease-christmas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ease Christmas.otf'
 end

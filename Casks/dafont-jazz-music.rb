@@ -5,7 +5,6 @@ cask 'dafont-jazz-music' do
     url 'http://dl.dafont.com/dl/?f=jazz_music'
     name 'Jazz Music'
     homepage 'http://www.dafont.com/jazz-music.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jazz Music.ttf'
 end

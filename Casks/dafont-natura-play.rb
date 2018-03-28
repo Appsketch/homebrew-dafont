@@ -5,7 +5,6 @@ cask 'dafont-natura-play' do
     url 'http://dl.dafont.com/dl/?f=natura_play'
     name 'Natura Play'
     homepage 'http://www.dafont.com/natura-play.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'natura_play_bold.ttf'
     font 'natura_play_italic.ttf'

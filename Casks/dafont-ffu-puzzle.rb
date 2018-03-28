@@ -5,7 +5,6 @@ cask 'dafont-ffu-puzzle' do
     url 'http://dl.dafont.com/dl/?f=ffu_puzzle'
     name 'FFU Puzzle'
     homepage 'http://www.dafont.com/ffu-puzzle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'puzzle.otf'
 end

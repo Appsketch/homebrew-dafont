@@ -5,7 +5,6 @@ cask 'dafont-jawbreaker2' do
     url 'http://dl.dafont.com/dl/?f=jawbreaker2'
     name 'Jawbreaker'
     homepage 'http://www.dafont.com/jawbreaker2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jawbreaker.ttf'
 end

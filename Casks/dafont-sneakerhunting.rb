@@ -5,7 +5,6 @@ cask 'dafont-sneakerhunting' do
     url 'http://dl.dafont.com/dl/?f=sneakerhunting'
     name 'Sneaker Hunting'
     homepage 'http://www.dafont.com/sneakerhunting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SneakerHunting.ttf'
 end

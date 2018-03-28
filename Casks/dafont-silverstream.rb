@@ -5,7 +5,6 @@ cask 'dafont-silverstream' do
     url 'http://dl.dafont.com/dl/?f=silverstream'
     name 'SilverStream'
     homepage 'http://www.dafont.com/silverstream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SilverStream.ttf'
 end

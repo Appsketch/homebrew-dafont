@@ -5,7 +5,6 @@ cask 'dafont-strong-leaf' do
     url 'http://dl.dafont.com/dl/?f=strong_leaf'
     name 'Strong Leaf'
     homepage 'http://www.dafont.com/strong-leaf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'strongleaf.ttf'
 end

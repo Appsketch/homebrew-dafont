@@ -5,7 +5,6 @@ cask 'dafont-andi' do
     url 'http://dl.dafont.com/dl/?f=andi'
     name 'ANDi'
     homepage 'http://www.dafont.com/andi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANDi-Regular.ttf'
 end

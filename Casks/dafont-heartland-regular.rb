@@ -5,7 +5,6 @@ cask 'dafont-heartland-regular' do
     url 'http://dl.dafont.com/dl/?f=heartland_regular'
     name 'Heartland'
     homepage 'http://www.dafont.com/heartland-regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HEARRG__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-eldes-cordel-1' do
     url 'http://dl.dafont.com/dl/?f=eldes_cordel_1'
     name 'Eldes Cordel 1'
     homepage 'http://www.dafont.com/eldes-cordel-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eldes_cordel_1_lite.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gtek-technology' do
     url 'http://dl.dafont.com/dl/?f=gtek_technology'
     name 'Gtek Technology'
     homepage 'http://www.dafont.com/gtek-technology.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gtek Technology free promo.ttf'
 end

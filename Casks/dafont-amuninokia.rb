@@ -5,7 +5,6 @@ cask 'dafont-amuninokia' do
     url 'http://dl.dafont.com/dl/?f=amuninokia'
     name 'Amuninokia'
     homepage 'http://www.dafont.com/amuninokia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'amuninokia.ttf'
 end

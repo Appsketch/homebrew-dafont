@@ -5,7 +5,6 @@ cask 'dafont-quasi' do
     url 'http://dl.dafont.com/dl/?f=quasi'
     name 'Quasi'
     homepage 'http://www.dafont.com/quasi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUASI___.TTF'
 end

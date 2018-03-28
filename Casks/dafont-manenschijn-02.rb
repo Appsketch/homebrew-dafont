@@ -5,7 +5,6 @@ cask 'dafont-manenschijn-02' do
     url 'http://dl.dafont.com/dl/?f=manenschijn_02'
     name 'Manenschijn 02'
     homepage 'http://www.dafont.com/manenschijn-02.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'manenschijn.ttf'
 end

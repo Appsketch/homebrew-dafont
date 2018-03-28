@@ -5,7 +5,6 @@ cask 'dafont-lowdown-brk' do
     url 'http://dl.dafont.com/dl/?f=lowdown_brk'
     name 'Lowdown BRK'
     homepage 'http://www.dafont.com/lowdown-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lowdown.ttf'
 end

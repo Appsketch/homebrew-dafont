@@ -5,7 +5,6 @@ cask 'dafont-rolling-stone' do
     url 'http://dl.dafont.com/dl/?f=rolling_stone'
     name 'Royal Acidbath'
     homepage 'http://www.dafont.com/rolling-stone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Royalacid_o.ttf'
     font 'Royalacid.ttf'

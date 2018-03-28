@@ -5,7 +5,6 @@ cask 'dafont-kbsothinteresting' do
     url 'http://dl.dafont.com/dl/?f=kbsothinteresting'
     name 'KB So Thinteresting'
     homepage 'http://www.dafont.com/kbsothinteresting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBSoThinteresting.ttf'
     font 'KBSoThinterestingBold.ttf'

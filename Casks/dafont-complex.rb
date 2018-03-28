@@ -5,7 +5,6 @@ cask 'dafont-complex' do
     url 'http://dl.dafont.com/dl/?f=complex'
     name 'Complex'
     homepage 'http://www.dafont.com/complex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'complex promo.ttf'
 end

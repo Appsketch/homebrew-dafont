@@ -5,7 +5,6 @@ cask 'dafont-prodigium-os-drugs' do
     url 'http://dl.dafont.com/dl/?f=prodigium_os_drugs'
     name 'Prodigium Os Drugs'
     homepage 'http://www.dafont.com/prodigium-os-drugs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ProdigiumOsDrugsV2.ttf'
 end

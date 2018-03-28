@@ -5,7 +5,6 @@ cask 'dafont-capture-smallz' do
     url 'http://dl.dafont.com/dl/?f=capture_smallz'
     name 'Capture Smallz'
     homepage 'http://www.dafont.com/capture-smallz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Capsmall_clean.ttf'
     font 'Capsmall.ttf'

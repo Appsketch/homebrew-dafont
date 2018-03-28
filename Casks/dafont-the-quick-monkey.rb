@@ -5,7 +5,6 @@ cask 'dafont-the-quick-monkey' do
     url 'http://dl.dafont.com/dl/?f=the_quick_monkey'
     name 'The quick monkey'
     homepage 'http://www.dafont.com/the-quick-monkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The_quick_monkey.ttf'
 end

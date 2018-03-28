@@ -5,7 +5,6 @@ cask 'dafont-redgar' do
     url 'http://dl.dafont.com/dl/?f=redgar'
     name 'Redgar'
     homepage 'http://www.dafont.com/redgar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Redgar.ttf'
 end

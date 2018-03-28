@@ -5,7 +5,6 @@ cask 'dafont-dissolved-exchange' do
     url 'http://dl.dafont.com/dl/?f=dissolved_exchange'
     name 'Dissolved Exchange'
     homepage 'http://www.dafont.com/dissolved-exchange.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dissolved Exchange.otf'
 end

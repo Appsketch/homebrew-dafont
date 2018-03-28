@@ -5,7 +5,6 @@ cask 'dafont-almira' do
     url 'http://dl.dafont.com/dl/?f=almira'
     name 'Almira'
     homepage 'http://www.dafont.com/almira.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Almira_demo.otf'
 end

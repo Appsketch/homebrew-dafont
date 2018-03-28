@@ -5,7 +5,6 @@ cask 'dafont-mlb-astros' do
     url 'http://dl.dafont.com/dl/?f=mlb_astros'
     name 'MLB Astros'
     homepage 'http://www.dafont.com/mlb-astros.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MLBASTRO.TTF'
 end

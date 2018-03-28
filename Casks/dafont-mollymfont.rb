@@ -5,7 +5,6 @@ cask 'dafont-mollymfont' do
     url 'http://dl.dafont.com/dl/?f=mollymfont'
     name 'MollyMFont'
     homepage 'http://www.dafont.com/mollymfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MollyMFont.ttf'
 end

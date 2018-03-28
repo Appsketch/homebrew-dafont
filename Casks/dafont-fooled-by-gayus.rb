@@ -5,7 +5,6 @@ cask 'dafont-fooled-by-gayus' do
     url 'http://dl.dafont.com/dl/?f=fooled_by_gayus'
     name 'Fooled by Gayus'
     homepage 'http://www.dafont.com/fooled-by-gayus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fooled_by_gayus.ttf'
 end

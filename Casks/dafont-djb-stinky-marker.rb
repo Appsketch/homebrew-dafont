@@ -5,7 +5,6 @@ cask 'dafont-djb-stinky-marker' do
     url 'http://dl.dafont.com/dl/?f=djb_stinky_marker'
     name 'DJB Stinky Marker'
     homepage 'http://www.dafont.com/djb-stinky-marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Stinky Marker.ttf'
 end

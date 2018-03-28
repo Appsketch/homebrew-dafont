@@ -5,7 +5,6 @@ cask 'dafont-artifact' do
     url 'http://dl.dafont.com/dl/?f=artifact'
     name 'Artifact'
     homepage 'http://www.dafont.com/artifact.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'artifact.ttf'
 end

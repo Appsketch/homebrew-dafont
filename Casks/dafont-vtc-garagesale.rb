@@ -5,7 +5,6 @@ cask 'dafont-vtc-garagesale' do
     url 'http://dl.dafont.com/dl/?f=vtc_garagesale'
     name 'VTC Garage Sale'
     homepage 'http://www.dafont.com/vtc-garagesale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC- GarageSaleOutlined.ttf'
     font 'VTC-GarageSale.ttf'

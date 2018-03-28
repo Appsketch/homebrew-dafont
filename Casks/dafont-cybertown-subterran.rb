@@ -5,7 +5,6 @@ cask 'dafont-cybertown-subterran' do
     url 'http://dl.dafont.com/dl/?f=cybertown_subterran'
     name 'Cybertown Subterranean'
     homepage 'http://www.dafont.com/cybertown-subterran.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CS.TTF'
 end

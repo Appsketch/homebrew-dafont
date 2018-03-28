@@ -5,7 +5,6 @@ cask 'dafont-raumsonde' do
     url 'http://dl.dafont.com/dl/?f=raumsonde'
     name 'Raumsonde'
     homepage 'http://www.dafont.com/raumsonde.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raumsond.ttf'
 end

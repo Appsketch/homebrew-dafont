@@ -5,7 +5,6 @@ cask 'dafont-prince-dub' do
     url 'http://dl.dafont.com/dl/?f=prince_dub'
     name 'Prince Dub'
     homepage 'http://www.dafont.com/prince-dub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Prince_Dub.ttf'
 end

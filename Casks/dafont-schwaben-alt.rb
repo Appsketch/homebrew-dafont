@@ -5,7 +5,6 @@ cask 'dafont-schwaben-alt' do
     url 'http://dl.dafont.com/dl/?f=schwaben_alt'
     name 'Schwaben Alt'
     homepage 'http://www.dafont.com/schwaben-alt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Schwaben Alt Bold.ttf'
 end

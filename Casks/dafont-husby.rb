@@ -5,7 +5,6 @@ cask 'dafont-husby' do
     url 'http://dl.dafont.com/dl/?f=husby'
     name 'Husby'
     homepage 'http://www.dafont.com/husby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'husby.ttf'
 end

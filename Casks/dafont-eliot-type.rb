@@ -5,7 +5,6 @@ cask 'dafont-eliot-type' do
     url 'http://dl.dafont.com/dl/?f=eliot_type'
     name 'Eliot type'
     homepage 'http://www.dafont.com/eliot-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eliot type.ttf'
 end

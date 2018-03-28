@@ -5,7 +5,6 @@ cask 'dafont-the-poison' do
     url 'http://dl.dafont.com/dl/?f=the_poison'
     name 'The Poison'
     homepage 'http://www.dafont.com/the-poison.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the_Poison.ttf'
 end

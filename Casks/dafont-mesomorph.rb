@@ -5,7 +5,6 @@ cask 'dafont-mesomorph' do
     url 'http://dl.dafont.com/dl/?f=mesomorph'
     name 'Mesomorph'
     homepage 'http://www.dafont.com/mesomorph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mesomorph.ttf'
 end

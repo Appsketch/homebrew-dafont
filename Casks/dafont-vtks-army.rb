@@ -5,7 +5,6 @@ cask 'dafont-vtks-army' do
     url 'http://dl.dafont.com/dl/?f=vtks_army'
     name 'VTKS Army'
     homepage 'http://www.dafont.com/vtks-army.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks army 3d.ttf'
     font 'vtks army.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-smart-watch' do
     url 'http://dl.dafont.com/dl/?f=smart_watch'
     name 'Smart Watch'
     homepage 'http://www.dafont.com/smart-watch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'smart watch.ttf'
 end

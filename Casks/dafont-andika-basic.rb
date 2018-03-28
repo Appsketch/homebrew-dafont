@@ -5,7 +5,6 @@ cask 'dafont-andika-basic' do
     url 'http://dl.dafont.com/dl/?f=andika_basic'
     name 'Andika Basic'
     homepage 'http://www.dafont.com/andika-basic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AndBasR.ttf'
 end

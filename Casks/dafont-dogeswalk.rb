@@ -5,7 +5,6 @@ cask 'dafont-dogeswalk' do
     url 'http://dl.dafont.com/dl/?f=dogeswalk'
     name 'Doges Walk'
     homepage 'http://www.dafont.com/dogeswalk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DogesWalk.ttf'
 end

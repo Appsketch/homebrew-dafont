@@ -5,7 +5,6 @@ cask 'dafont-andes' do
     url 'http://dl.dafont.com/dl/?f=andes'
     name 'Andes'
     homepage 'http://www.dafont.com/andes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Andes.ttf'
 end

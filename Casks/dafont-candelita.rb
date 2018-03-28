@@ -5,7 +5,6 @@ cask 'dafont-candelita' do
     url 'http://dl.dafont.com/dl/?f=candelita'
     name 'Candelita'
     homepage 'http://www.dafont.com/candelita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Candelita.ttf'
 end

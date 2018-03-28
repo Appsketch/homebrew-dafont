@@ -5,7 +5,6 @@ cask 'dafont-zapcontrol' do
     url 'http://dl.dafont.com/dl/?f=zapcontrol'
     name 'Zap Control'
     homepage 'http://www.dafont.com/zapcontrol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZapControl.ttf'
 end

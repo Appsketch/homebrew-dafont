@@ -5,7 +5,6 @@ cask 'dafont-roucorns' do
     url 'http://dl.dafont.com/dl/?f=roucorns'
     name 'Roucorns'
     homepage 'http://www.dafont.com/roucorns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'roucornsregular.otf'
 end

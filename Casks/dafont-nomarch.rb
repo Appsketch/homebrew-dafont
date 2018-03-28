@@ -5,7 +5,6 @@ cask 'dafont-nomarch' do
     url 'http://dl.dafont.com/dl/?f=nomarch'
     name 'Nomarch'
     homepage 'http://www.dafont.com/nomarch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOMAD___.TTF'
 end

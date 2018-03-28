@@ -5,7 +5,6 @@ cask 'dafont-the-monkey' do
     url 'http://dl.dafont.com/dl/?f=the_monkey'
     name 'The Monkey'
     homepage 'http://www.dafont.com/the-monkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Monkey.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-quantum-of-malice' do
     url 'http://dl.dafont.com/dl/?f=quantum_of_malice'
     name 'Quantum of Malice'
     homepage 'http://www.dafont.com/quantum-of-malice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quantummalice.ttf'
     font 'quantummalice3d.ttf'

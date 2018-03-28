@@ -5,7 +5,6 @@ cask 'dafont-grand-sport' do
     url 'http://dl.dafont.com/dl/?f=grand_sport'
     name 'Grand Sport'
     homepage 'http://www.dafont.com/grand-sport.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grandsport.ttf'
     font 'grandsport3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-unbreakable' do
     url 'http://dl.dafont.com/dl/?f=unbreakable'
     name 'Unbreakable'
     homepage 'http://www.dafont.com/unbreakable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UNBRARG_.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cm-party-headline' do
     url 'http://dl.dafont.com/dl/?f=cm_party_headline'
     name 'CM Party Headline'
     homepage 'http://www.dafont.com/cm-party-headline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM PARTY HEADLINE-Regular.ttf'
 end

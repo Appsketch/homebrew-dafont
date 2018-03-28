@@ -5,7 +5,6 @@ cask 'dafont-walter' do
     url 'http://dl.dafont.com/dl/?f=walter'
     name 'Walter'
     homepage 'http://www.dafont.com/walter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Walter.ttf'
 end

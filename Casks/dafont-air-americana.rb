@@ -5,7 +5,6 @@ cask 'dafont-air-americana' do
     url 'http://dl.dafont.com/dl/?f=air_americana'
     name 'Air Americana'
     homepage 'http://www.dafont.com/air-americana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Air Americana.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-senorita-spain' do
     url 'http://dl.dafont.com/dl/?f=senorita_spain'
     name 'Senorita Spain'
     homepage 'http://www.dafont.com/senorita-spain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Senorita Spain.ttf'
 end

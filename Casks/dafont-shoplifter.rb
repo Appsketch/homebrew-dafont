@@ -5,7 +5,6 @@ cask 'dafont-shoplifter' do
     url 'http://dl.dafont.com/dl/?f=shoplifter'
     name 'Shoplifter'
     homepage 'http://www.dafont.com/shoplifter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shoplift.ttf'
 end

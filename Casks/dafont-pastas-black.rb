@@ -5,7 +5,6 @@ cask 'dafont-pastas-black' do
     url 'http://dl.dafont.com/dl/?f=pastas_black'
     name 'Pastas Black'
     homepage 'http://www.dafont.com/pastas-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pastas-Black.otf'
 end

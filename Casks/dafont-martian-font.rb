@@ -5,7 +5,6 @@ cask 'dafont-martian-font' do
     url 'http://dl.dafont.com/dl/?f=martian_font'
     name 'Martian Font'
     homepage 'http://www.dafont.com/martian-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Martian Font.ttf'
 end

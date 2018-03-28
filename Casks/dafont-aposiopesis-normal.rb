@@ -5,7 +5,6 @@ cask 'dafont-aposiopesis-normal' do
     url 'http://dl.dafont.com/dl/?f=aposiopesis_normal'
     name 'Aposiopesis Normal'
     homepage 'http://www.dafont.com/aposiopesis-normal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aposiopesis normal.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-minster' do
     url 'http://dl.dafont.com/dl/?f=minster'
     name 'Minster'
     homepage 'http://www.dafont.com/minster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'minster1.ttf'
     font 'minster2.ttf'

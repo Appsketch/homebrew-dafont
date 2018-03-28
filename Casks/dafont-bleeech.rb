@@ -5,7 +5,6 @@ cask 'dafont-bleeech' do
     url 'http://dl.dafont.com/dl/?f=bleeech'
     name 'Bleeech'
     homepage 'http://www.dafont.com/bleeech.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLEEECH.ttf'
 end

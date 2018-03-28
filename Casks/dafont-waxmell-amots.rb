@@ -5,7 +5,6 @@ cask 'dafont-waxmell-amots' do
     url 'http://dl.dafont.com/dl/?f=waxmell_amots'
     name 'Waxmell Amots'
     homepage 'http://www.dafont.com/waxmell-amots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WaXMELl AmOTS.ttf'
 end

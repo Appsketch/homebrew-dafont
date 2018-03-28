@@ -5,7 +5,6 @@ cask 'dafont-big-12' do
     url 'http://dl.dafont.com/dl/?f=big_12'
     name 'Big-12'
     homepage 'http://www.dafont.com/big-12.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NCAA Big-12.ttf'
 end

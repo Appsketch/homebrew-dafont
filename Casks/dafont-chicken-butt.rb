@@ -5,7 +5,6 @@ cask 'dafont-chicken-butt' do
     url 'http://dl.dafont.com/dl/?f=chicken_butt'
     name 'Chicken Butt'
     homepage 'http://www.dafont.com/chicken-butt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chicken Butt.ttf'
 end

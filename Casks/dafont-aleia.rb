@@ -5,7 +5,6 @@ cask 'dafont-aleia' do
     url 'http://dl.dafont.com/dl/?f=aleia'
     name 'Aleia'
     homepage 'http://www.dafont.com/aleia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALEIA.TTF'
 end

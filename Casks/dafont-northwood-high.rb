@@ -5,7 +5,6 @@ cask 'dafont-northwood-high' do
     url 'http://dl.dafont.com/dl/?f=northwood_high'
     name 'Northwood High'
     homepage 'http://www.dafont.com/northwood-high.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Northwood High.ttf'
 end

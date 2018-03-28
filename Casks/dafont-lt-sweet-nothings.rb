@@ -5,7 +5,6 @@ cask 'dafont-lt-sweet-nothings' do
     url 'http://dl.dafont.com/dl/?f=lt_sweet_nothings'
     name 'LRT Sweet Nothings'
     homepage 'http://www.dafont.com/lt-sweet-nothings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lrtsweetnothings.ttf'
 end

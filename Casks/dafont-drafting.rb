@@ -5,7 +5,6 @@ cask 'dafont-drafting' do
     url 'http://dl.dafont.com/dl/?f=drafting'
     name 'Drafting'
     homepage 'http://www.dafont.com/drafting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drafting.ttf'
 end

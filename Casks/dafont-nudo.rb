@@ -5,7 +5,6 @@ cask 'dafont-nudo' do
     url 'http://dl.dafont.com/dl/?f=nudo'
     name 'Nudo'
     homepage 'http://www.dafont.com/nudo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nudo-Italic.ttf'
     font 'Nudo.ttf'

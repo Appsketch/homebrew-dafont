@@ -5,7 +5,6 @@ cask 'dafont-kallamar' do
     url 'http://dl.dafont.com/dl/?f=kallamar'
     name 'Kallamar'
     homepage 'http://www.dafont.com/kallamar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KALLAMAR.TTF'
     font 'KALLI___.TTF'

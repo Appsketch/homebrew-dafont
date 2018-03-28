@@ -5,7 +5,6 @@ cask 'dafont-quark-zone' do
     url 'http://dl.dafont.com/dl/?f=quark_zone'
     name 'Quark Zone'
     homepage 'http://www.dafont.com/quark-zone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quark Zone.ttf'
 end

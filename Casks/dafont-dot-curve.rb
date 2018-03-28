@@ -5,7 +5,6 @@ cask 'dafont-dot-curve' do
     url 'http://dl.dafont.com/dl/?f=dot_curve'
     name 'Dot Curve'
     homepage 'http://www.dafont.com/dot-curve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dot__curve.ttf'
 end

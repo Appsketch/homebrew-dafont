@@ -5,7 +5,6 @@ cask 'dafont-jlr-simple-hearts' do
     url 'http://dl.dafont.com/dl/?f=jlr_simple_hearts'
     name 'JLR Simple Hearts'
     homepage 'http://www.dafont.com/jlr-simple-hearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JLRSH___.TTF'
 end

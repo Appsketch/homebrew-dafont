@@ -5,7 +5,6 @@ cask 'dafont-slave-only-dreams-to-be-king' do
     url 'http://dl.dafont.com/dl/?f=slave_only_dreams_to_be_king'
     name 'Slave only dreams to be king'
     homepage 'http://www.dafont.com/slave-only-dreams-to-be-king.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slave only dreams to be king.ttf'
 end

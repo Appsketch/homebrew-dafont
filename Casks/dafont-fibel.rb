@@ -5,7 +5,6 @@ cask 'dafont-fibel' do
     url 'http://dl.dafont.com/dl/?f=fibel'
     name 'Fibel'
     homepage 'http://www.dafont.com/fibel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fibel Nord Bold Italic.ttf'
     font 'Fibel Nord Bold.ttf'

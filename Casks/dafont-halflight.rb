@@ -5,7 +5,6 @@ cask 'dafont-halflight' do
     url 'http://dl.dafont.com/dl/?f=halflight'
     name 'Half Light'
     homepage 'http://www.dafont.com/halflight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HalfLight.ttf'
 end

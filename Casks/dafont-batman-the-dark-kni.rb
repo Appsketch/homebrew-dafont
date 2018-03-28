@@ -5,7 +5,6 @@ cask 'dafont-batman-the-dark-kni' do
     url 'http://dl.dafont.com/dl/?f=batman_the_dark_kni'
     name 'Batman The Dark Knight'
     homepage 'http://www.dafont.com/batman-the-dark-kni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Batman The Dark Knight.TTF'
 end

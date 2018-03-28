@@ -5,7 +5,6 @@ cask 'dafont-slow-motion' do
     url 'http://dl.dafont.com/dl/?f=slow_motion'
     name 'Slow Motion'
     homepage 'http://www.dafont.com/slow-motion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slow Motion.ttf'
 end

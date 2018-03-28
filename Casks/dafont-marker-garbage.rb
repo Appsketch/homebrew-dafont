@@ -5,7 +5,6 @@ cask 'dafont-marker-garbage' do
     url 'http://dl.dafont.com/dl/?f=marker_garbage'
     name 'Marker Garbage'
     homepage 'http://www.dafont.com/marker-garbage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MarkerGarbage.ttf'
 end

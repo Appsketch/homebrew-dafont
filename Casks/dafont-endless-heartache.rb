@@ -5,7 +5,6 @@ cask 'dafont-endless-heartache' do
     url 'http://dl.dafont.com/dl/?f=endless_heartache'
     name 'Endless heartache'
     homepage 'http://www.dafont.com/endless-heartache.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Endless heartache.ttf'
 end

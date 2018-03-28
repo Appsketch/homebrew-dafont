@@ -5,7 +5,6 @@ cask 'dafont-pwloops' do
     url 'http://dl.dafont.com/dl/?f=pwloops'
     name 'PW Loops'
     homepage 'http://www.dafont.com/pwloops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWLoops.ttf'
 end

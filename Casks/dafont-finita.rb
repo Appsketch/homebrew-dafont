@@ -5,7 +5,6 @@ cask 'dafont-finita' do
     url 'http://dl.dafont.com/dl/?f=finita'
     name 'Finita'
     homepage 'http://www.dafont.com/finita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Finita.ttf'
 end

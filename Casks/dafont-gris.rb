@@ -5,7 +5,6 @@ cask 'dafont-gris' do
     url 'http://dl.dafont.com/dl/?f=gris'
     name 'Gris'
     homepage 'http://www.dafont.com/gris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gris.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ag-stencil' do
     url 'http://dl.dafont.com/dl/?f=ag_stencil'
     name 'AG Stencil'
     homepage 'http://www.dafont.com/ag-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AG-Stencil.ttf'
 end

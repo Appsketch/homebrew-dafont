@@ -5,7 +5,6 @@ cask 'dafont-grunge-poster' do
     url 'http://dl.dafont.com/dl/?f=grunge_poster'
     name 'Grunge Poster'
     homepage 'http://www.dafont.com/grunge-poster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grunge Poster.ttf'
 end

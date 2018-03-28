@@ -5,7 +5,6 @@ cask 'dafont-electrofied' do
     url 'http://dl.dafont.com/dl/?f=electrofied'
     name 'Electrofied'
     homepage 'http://www.dafont.com/electrofied.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'electr.ttf'
     font 'electrb.ttf'

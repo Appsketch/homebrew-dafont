@@ -5,7 +5,6 @@ cask 'dafont-tungfont-alpha-003' do
     url 'http://dl.dafont.com/dl/?f=tungfont_alpha_003'
     name 'TungFont Alpha 003'
     homepage 'http://www.dafont.com/tungfont-alpha-003.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tungfontalpha003.ttf'
 end

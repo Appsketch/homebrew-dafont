@@ -5,7 +5,6 @@ cask 'dafont-tantrum-tongue' do
     url 'http://dl.dafont.com/dl/?f=tantrum_tongue'
     name 'Tantrum Tongue'
     homepage 'http://www.dafont.com/tantrum-tongue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TANTRUMTONGUE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lindberg' do
     url 'http://dl.dafont.com/dl/?f=lindberg'
     name 'Lindberg'
     homepage 'http://www.dafont.com/lindberg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lindberg.ttf'
 end

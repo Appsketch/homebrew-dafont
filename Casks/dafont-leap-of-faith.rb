@@ -5,7 +5,6 @@ cask 'dafont-leap-of-faith' do
     url 'http://dl.dafont.com/dl/?f=leap_of_faith'
     name 'Leap of Faith'
     homepage 'http://www.dafont.com/leap-of-faith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Leap of Faith.ttf'
 end

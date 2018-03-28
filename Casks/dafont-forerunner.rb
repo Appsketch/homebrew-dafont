@@ -5,7 +5,6 @@ cask 'dafont-forerunner' do
     url 'http://dl.dafont.com/dl/?f=forerunner'
     name 'Forerunner'
     homepage 'http://www.dafont.com/forerunner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Forerunner Font v2.ttf'
 end

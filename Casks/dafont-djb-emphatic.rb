@@ -5,7 +5,6 @@ cask 'dafont-djb-emphatic' do
     url 'http://dl.dafont.com/dl/?f=djb_emphatic'
     name 'DJB Emphatic'
     homepage 'http://www.dafont.com/djb-emphatic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Emphatic.ttf'
 end

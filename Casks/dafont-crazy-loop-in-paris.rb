@@ -5,7 +5,6 @@ cask 'dafont-crazy-loop-in-paris' do
     url 'http://dl.dafont.com/dl/?f=crazy_loop_in_paris'
     name 'Crazy Loop in Paris'
     homepage 'http://www.dafont.com/crazy-loop-in-paris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRAZLP__.TTF'
 end

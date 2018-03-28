@@ -5,7 +5,6 @@ cask 'dafont-voronovfont' do
     url 'http://dl.dafont.com/dl/?f=voronovfont'
     name 'Voronov'
     homepage 'http://www.dafont.com/voronovfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Voronov.ttf'
 end

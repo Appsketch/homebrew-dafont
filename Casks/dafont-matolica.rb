@@ -5,7 +5,6 @@ cask 'dafont-matolica' do
     url 'http://dl.dafont.com/dl/?f=matolica'
     name 'Matolica'
     homepage 'http://www.dafont.com/matolica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'matofont 01.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-whatchuthinkbabe' do
     url 'http://dl.dafont.com/dl/?f=whatchuthinkbabe'
     name 'Whatchu Think Babe'
     homepage 'http://www.dafont.com/whatchuthinkbabe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhatchuThinkBabe.ttf'
 end

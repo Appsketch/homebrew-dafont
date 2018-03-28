@@ -5,7 +5,6 @@ cask 'dafont-jeronimo-cartoon' do
     url 'http://dl.dafont.com/dl/?f=jeronimo_cartoon'
     name 'Jer&oacute;nimo Cartoon'
     homepage 'http://www.dafont.com/jeronimo-cartoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jer&cent;nimo cartoon.ttf'
 end

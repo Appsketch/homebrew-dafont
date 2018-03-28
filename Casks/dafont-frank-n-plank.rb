@@ -5,7 +5,6 @@ cask 'dafont-frank-n-plank' do
     url 'http://dl.dafont.com/dl/?f=frank_n_plank'
     name 'Frank-n-Plank'
     homepage 'http://www.dafont.com/frank-n-plank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'franknplank.ttf'
     font 'franknplank3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-che-viva-banana' do
     url 'http://dl.dafont.com/dl/?f=che_viva_banana'
     name 'FE Che Viva Banana'
     homepage 'http://www.dafont.com/che-viva-banana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE Che Viva Banana.otf'
 end

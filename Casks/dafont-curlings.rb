@@ -5,7 +5,6 @@ cask 'dafont-curlings' do
     url 'http://dl.dafont.com/dl/?f=curlings'
     name 'Curlings'
     homepage 'http://www.dafont.com/curlings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Curlings.ttf'
 end

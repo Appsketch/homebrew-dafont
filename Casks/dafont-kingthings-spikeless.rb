@@ -5,7 +5,6 @@ cask 'dafont-kingthings-spikeless' do
     url 'http://dl.dafont.com/dl/?f=kingthings_spikeless'
     name 'Kingthings Spikeless'
     homepage 'http://www.dafont.com/kingthings-spikeless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Spikeless.ttf'
 end

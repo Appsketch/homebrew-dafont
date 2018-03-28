@@ -5,7 +5,6 @@ cask 'dafont-raspberrygranola' do
     url 'http://dl.dafont.com/dl/?f=raspberrygranola'
     name 'Raspberry Granola'
     homepage 'http://www.dafont.com/raspberrygranola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'raspberrygranola.ttf'
 end

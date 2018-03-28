@@ -5,7 +5,6 @@ cask 'dafont-shadows-into-light' do
     url 'http://dl.dafont.com/dl/?f=shadows_into_light'
     name 'Shadows Into Light'
     homepage 'http://www.dafont.com/shadows-into-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShadowsIntoLight.ttf'
 end

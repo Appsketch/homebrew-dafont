@@ -5,7 +5,6 @@ cask 'dafont-nurjan' do
     url 'http://dl.dafont.com/dl/?f=nurjan'
     name 'Nurjan'
     homepage 'http://www.dafont.com/nurjan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nurjan.otf'
 end

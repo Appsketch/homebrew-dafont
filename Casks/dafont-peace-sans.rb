@@ -5,7 +5,6 @@ cask 'dafont-peace-sans' do
     url 'http://dl.dafont.com/dl/?f=peace_sans'
     name 'Peace Sans'
     homepage 'http://www.dafont.com/peace-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peace Sans.otf'
 end

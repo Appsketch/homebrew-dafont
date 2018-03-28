@@ -5,7 +5,6 @@ cask 'dafont-a-yummy-apology' do
     url 'http://dl.dafont.com/dl/?f=a_yummy_apology'
     name 'A Yummy Apology'
     homepage 'http://www.dafont.com/a-yummy-apology.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AYUMA___.TTF'
 end

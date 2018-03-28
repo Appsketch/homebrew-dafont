@@ -5,7 +5,6 @@ cask 'dafont-paper-towel' do
     url 'http://dl.dafont.com/dl/?f=paper_towel'
     name 'Paper Towel'
     homepage 'http://www.dafont.com/paper-towel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAPER TOWEL.ttf'
 end

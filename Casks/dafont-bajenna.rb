@@ -5,7 +5,6 @@ cask 'dafont-bajenna' do
     url 'http://dl.dafont.com/dl/?f=bajenna'
     name 'Bajenna'
     homepage 'http://www.dafont.com/bajenna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bajenna.ttf'
 end

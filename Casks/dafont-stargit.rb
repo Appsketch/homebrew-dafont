@@ -5,7 +5,6 @@ cask 'dafont-stargit' do
     url 'http://dl.dafont.com/dl/?f=stargit'
     name 'Stargit'
     homepage 'http://www.dafont.com/stargit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stargit Ver2.ttf'
     font 'Stargit.ttf'

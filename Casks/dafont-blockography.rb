@@ -5,7 +5,6 @@ cask 'dafont-blockography' do
     url 'http://dl.dafont.com/dl/?f=blockography'
     name 'Blockography'
     homepage 'http://www.dafont.com/blockography.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NON-COMMERCIAL_Blockography.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-scroonge' do
     url 'http://dl.dafont.com/dl/?f=scroonge'
     name 'Scroonge'
     homepage 'http://www.dafont.com/scroonge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scroonge.ttf'
 end

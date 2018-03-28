@@ -5,7 +5,6 @@ cask 'dafont-kr-scribble-heart' do
     url 'http://dl.dafont.com/dl/?f=kr_scribble_heart'
     name 'KR Scribble Heart'
     homepage 'http://www.dafont.com/kr-scribble-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Scribble Heart.ttf'
 end

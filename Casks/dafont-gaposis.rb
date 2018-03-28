@@ -5,7 +5,6 @@ cask 'dafont-gaposis' do
     url 'http://dl.dafont.com/dl/?f=gaposis'
     name 'Gaposis'
     homepage 'http://www.dafont.com/gaposis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gaposiso.ttf'
     font 'gaposiss.ttf'

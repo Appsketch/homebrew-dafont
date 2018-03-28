@@ -5,7 +5,6 @@ cask 'dafont-pez' do
     url 'http://dl.dafont.com/dl/?f=pez'
     name 'Pez'
     homepage 'http://www.dafont.com/pez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pez_font.TTF'
 end

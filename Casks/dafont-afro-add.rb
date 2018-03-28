@@ -5,7 +5,6 @@ cask 'dafont-afro-add' do
     url 'http://dl.dafont.com/dl/?f=afro_add'
     name 'Afro Add'
     homepage 'http://www.dafont.com/afro-add.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Afro Add plain.ttf'
     font 'Afro Add.ttf'

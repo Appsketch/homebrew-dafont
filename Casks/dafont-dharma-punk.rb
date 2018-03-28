@@ -5,7 +5,6 @@ cask 'dafont-dharma-punk' do
     url 'http://dl.dafont.com/dl/?f=dharma_punk'
     name 'Dharma Punk'
     homepage 'http://www.dafont.com/dharma-punk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dharma Punk 2.ttf'
     font 'Dharma Punk.ttf'

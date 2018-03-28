@@ -5,7 +5,6 @@ cask 'dafont-joincaz' do
     url 'http://dl.dafont.com/dl/?f=joincaz'
     name 'Joincaz'
     homepage 'http://www.dafont.com/joincaz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Joincaz.ttf'
 end

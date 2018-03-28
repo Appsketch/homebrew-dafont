@@ -5,7 +5,6 @@ cask 'dafont-rodrix' do
     url 'http://dl.dafont.com/dl/?f=rodrix'
     name 'Rodrix'
     homepage 'http://www.dafont.com/rodrix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rodrix.ttf'
 end

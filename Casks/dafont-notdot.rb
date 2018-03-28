@@ -5,7 +5,6 @@ cask 'dafont-notdot' do
     url 'http://dl.dafont.com/dl/?f=notdot'
     name 'Not Dot'
     homepage 'http://www.dafont.com/notdot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NotDot.ttf'
 end

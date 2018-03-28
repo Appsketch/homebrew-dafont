@@ -5,7 +5,6 @@ cask 'dafont-fil3' do
     url 'http://dl.dafont.com/dl/?f=fil3'
     name 'Fil 3'
     homepage 'http://www.dafont.com/fil3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fil3.ttf'
 end

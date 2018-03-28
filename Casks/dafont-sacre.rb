@@ -5,7 +5,6 @@ cask 'dafont-sacre' do
     url 'http://dl.dafont.com/dl/?f=sacre'
     name 'Sacre'
     homepage 'http://www.dafont.com/sacre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sacre.ttf'
 end

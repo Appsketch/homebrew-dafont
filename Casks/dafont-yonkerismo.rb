@@ -5,7 +5,6 @@ cask 'dafont-yonkerismo' do
     url 'http://dl.dafont.com/dl/?f=yonkerismo'
     name 'Yonkerismo'
     homepage 'http://www.dafont.com/yonkerismo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YONKERIS.TTF'
 end

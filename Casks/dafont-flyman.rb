@@ -5,7 +5,6 @@ cask 'dafont-flyman' do
     url 'http://dl.dafont.com/dl/?f=flyman'
     name 'Flyman'
     homepage 'http://www.dafont.com/flyman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flyman.ttf'
 end

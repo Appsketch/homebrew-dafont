@@ -5,7 +5,6 @@ cask 'dafont-erins-handwriting' do
     url 'http://dl.dafont.com/dl/?f=erins_handwriting'
     name 'Erin&#039;s Handwriting'
     homepage 'http://www.dafont.com/erins-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Erin_&#039;s Handwriting.ttf'
 end

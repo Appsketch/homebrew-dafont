@@ -5,7 +5,6 @@ cask 'dafont-sharkbait' do
     url 'http://dl.dafont.com/dl/?f=sharkbait'
     name 'SharKbait'
     homepage 'http://www.dafont.com/sharkbait.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHARKBAIT.ttf'
 end

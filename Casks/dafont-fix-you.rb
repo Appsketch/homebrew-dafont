@@ -5,7 +5,6 @@ cask 'dafont-fix-you' do
     url 'http://dl.dafont.com/dl/?f=fix_you'
     name 'Fix You'
     homepage 'http://www.dafont.com/fix-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fix You.otf'
 end

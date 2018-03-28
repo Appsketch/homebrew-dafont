@@ -5,7 +5,6 @@ cask 'dafont-futile-extra-italic' do
     url 'http://dl.dafont.com/dl/?f=futile_extra_italic'
     name 'Futile Extra Italic'
     homepage 'http://www.dafont.com/futile-extra-italic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FUTILEEX.TTF'
 end

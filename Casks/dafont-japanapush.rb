@@ -5,7 +5,6 @@ cask 'dafont-japanapush' do
     url 'http://dl.dafont.com/dl/?f=japanapush'
     name 'Japanapush'
     homepage 'http://www.dafont.com/japanapush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JAPANAPU.TTF'
 end

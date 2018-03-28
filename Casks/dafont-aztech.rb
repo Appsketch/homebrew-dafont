@@ -5,7 +5,6 @@ cask 'dafont-aztech' do
     url 'http://dl.dafont.com/dl/?f=aztech'
     name 'Aztech'
     homepage 'http://www.dafont.com/aztech.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aztech.ttf'
 end

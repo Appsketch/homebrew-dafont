@@ -5,7 +5,6 @@ cask 'dafont-breakfast-at-michys' do
     url 'http://dl.dafont.com/dl/?f=breakfast_at_michys'
     name 'Breakfast at Michy&#039;s'
     homepage 'http://www.dafont.com/breakfast-at-michys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'breakfastmichy&#039;s.ttf'
 end

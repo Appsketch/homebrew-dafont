@@ -5,7 +5,6 @@ cask 'dafont-split-the-atom' do
     url 'http://dl.dafont.com/dl/?f=split_the_atom'
     name 'Split the Atom'
     homepage 'http://www.dafont.com/split-the-atom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Split the Atom.otf'
 end

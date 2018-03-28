@@ -5,7 +5,6 @@ cask 'dafont-city-of-rock' do
     url 'http://dl.dafont.com/dl/?f=city_of_rock'
     name 'City Of Rock'
     homepage 'http://www.dafont.com/city-of-rock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CITY OF ROCK.ttf'
 end

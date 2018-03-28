@@ -5,7 +5,6 @@ cask 'dafont-shithead' do
     url 'http://dl.dafont.com/dl/?f=shithead'
     name 'Shithead'
     homepage 'http://www.dafont.com/shithead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shithead.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nkotb-fever' do
     url 'http://dl.dafont.com/dl/?f=nkotb_fever'
     name 'NKOTB Fever'
     homepage 'http://www.dafont.com/nkotb-fever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NKOTB Fever.ttf'
 end

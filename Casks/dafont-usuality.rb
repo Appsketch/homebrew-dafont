@@ -5,7 +5,6 @@ cask 'dafont-usuality' do
     url 'http://dl.dafont.com/dl/?f=usuality'
     name 'Usuality'
     homepage 'http://www.dafont.com/usuality.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'usuality.ttf'
 end

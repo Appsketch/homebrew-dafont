@@ -5,7 +5,6 @@ cask 'dafont-ww1' do
     url 'http://dl.dafont.com/dl/?f=ww1'
     name 'WW1'
     homepage 'http://www.dafont.com/ww1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WW1-A___.TTF'
     font 'WW1-B___.TTF'

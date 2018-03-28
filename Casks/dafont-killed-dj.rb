@@ -5,7 +5,6 @@ cask 'dafont-killed-dj' do
     url 'http://dl.dafont.com/dl/?f=killed_dj'
     name 'Killed DJ'
     homepage 'http://www.dafont.com/killed-dj.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KILLEDDJ.ttf'
 end

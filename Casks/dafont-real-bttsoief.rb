@@ -5,7 +5,6 @@ cask 'dafont-real-bttsoief' do
     url 'http://dl.dafont.com/dl/?f=real_bttsoief'
     name 'Real Bttsoief'
     homepage 'http://www.dafont.com/real-bttsoief.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bttsoief.ttf'
 end

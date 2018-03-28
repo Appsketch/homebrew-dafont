@@ -5,7 +5,6 @@ cask 'dafont-misery-loves-company' do
     url 'http://dl.dafont.com/dl/?f=misery_loves_company'
     name 'Misery Loves Company'
     homepage 'http://www.dafont.com/misery-loves-company.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiseryLovesCompanyDEMO.ttf'
 end

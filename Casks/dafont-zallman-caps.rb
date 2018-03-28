@@ -5,7 +5,6 @@ cask 'dafont-zallman-caps' do
     url 'http://dl.dafont.com/dl/?f=zallman_caps'
     name 'Zallman Caps'
     homepage 'http://www.dafont.com/zallman-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZallmanCaps.TTF'
 end

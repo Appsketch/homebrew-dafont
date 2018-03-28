@@ -5,7 +5,6 @@ cask 'dafont-alwaysright' do
     url 'http://dl.dafont.com/dl/?f=alwaysright'
     name 'Always Right'
     homepage 'http://www.dafont.com/alwaysright.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Always Right.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bymyhand' do
     url 'http://dl.dafont.com/dl/?f=bymyhand'
     name 'By My Hand'
     homepage 'http://www.dafont.com/bymyhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ByMyHand.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-archistud' do
     url 'http://dl.dafont.com/dl/?f=archistud'
     name 'ArchiStud'
     homepage 'http://www.dafont.com/archistud.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArchiStud.ttf'
 end

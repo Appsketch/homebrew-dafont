@@ -5,7 +5,6 @@ cask 'dafont-sabrina' do
     url 'http://dl.dafont.com/dl/?f=sabrina'
     name 'Sabrina'
     homepage 'http://www.dafont.com/sabrina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SABRINA_.TTF'
     font 'SABRINAS.TTF'

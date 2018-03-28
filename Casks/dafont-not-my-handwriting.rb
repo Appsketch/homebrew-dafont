@@ -5,7 +5,6 @@ cask 'dafont-not-my-handwriting' do
     url 'http://dl.dafont.com/dl/?f=not_my_handwriting'
     name 'Not My Handwriting'
     homepage 'http://www.dafont.com/not-my-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NotMyHandwriting-Regular.otf'
 end

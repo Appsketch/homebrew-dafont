@@ -5,7 +5,6 @@ cask 'dafont-silence-will-fall' do
     url 'http://dl.dafont.com/dl/?f=silence_will_fall'
     name 'Silence Will Fall'
     homepage 'http://www.dafont.com/silence-will-fall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SILENCE WILL FALL.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lexipa' do
     url 'http://dl.dafont.com/dl/?f=lexipa'
     name 'Lexipa'
     homepage 'http://www.dafont.com/lexipa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEXIPA__.TTF'
 end

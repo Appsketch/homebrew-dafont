@@ -5,7 +5,6 @@ cask 'dafont-qualite-deluxe-platinium' do
     url 'http://dl.dafont.com/dl/?f=qualite_deluxe_platinium'
     name 'Qualit&eacute; Deluxe Platinium'
     homepage 'http://www.dafont.com/qualite-deluxe-platinium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Qualit Deluxe Platinium.ttf'
 end

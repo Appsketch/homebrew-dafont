@@ -5,7 +5,6 @@ cask 'dafont-pixel-technology' do
     url 'http://dl.dafont.com/dl/?f=pixel_technology'
     name 'Pixel Technology'
     homepage 'http://www.dafont.com/pixel-technology.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixtech.ttf'
     font 'pixtech2.ttf'

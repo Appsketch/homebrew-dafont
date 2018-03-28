@@ -5,7 +5,6 @@ cask 'dafont-mal-de-ojo' do
     url 'http://dl.dafont.com/dl/?f=mal_de_ojo'
     name 'Mal de Ojo'
     homepage 'http://www.dafont.com/mal-de-ojo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAL_DE_OJO.ttf'
 end

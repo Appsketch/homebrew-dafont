@@ -5,7 +5,6 @@ cask 'dafont-paradises-fruits' do
     url 'http://dl.dafont.com/dl/?f=paradises_fruits'
     name 'Paradises Fruits'
     homepage 'http://www.dafont.com/paradises-fruits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'paradis.TTF'
 end

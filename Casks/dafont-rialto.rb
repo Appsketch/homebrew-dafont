@@ -5,7 +5,6 @@ cask 'dafont-rialto' do
     url 'http://dl.dafont.com/dl/?f=rialto'
     name 'Rialto'
     homepage 'http://www.dafont.com/rialto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RIALTO.TTF'
 end

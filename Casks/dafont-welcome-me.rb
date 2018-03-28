@@ -5,7 +5,6 @@ cask 'dafont-welcome-me' do
     url 'http://dl.dafont.com/dl/?f=welcome_me'
     name 'Welcome Me'
     homepage 'http://www.dafont.com/welcome-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Welcome Me.ttf'
 end

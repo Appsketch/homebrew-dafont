@@ -5,7 +5,6 @@ cask 'dafont-treasure-map' do
     url 'http://dl.dafont.com/dl/?f=treasure_map'
     name 'Treasure Map Deadland'
     homepage 'http://www.dafont.com/treasure-map.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Treamd.ttf'
 end

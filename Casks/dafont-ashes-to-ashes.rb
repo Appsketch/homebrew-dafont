@@ -5,7 +5,6 @@ cask 'dafont-ashes-to-ashes' do
     url 'http://dl.dafont.com/dl/?f=ashes_to_ashes'
     name 'Ashes To Ashes'
     homepage 'http://www.dafont.com/ashes-to-ashes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ashes To Ashes.ttf'
 end

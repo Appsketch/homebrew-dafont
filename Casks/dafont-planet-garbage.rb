@@ -5,7 +5,6 @@ cask 'dafont-planet-garbage' do
     url 'http://dl.dafont.com/dl/?f=planet_garbage'
     name 'Planet Garbage'
     homepage 'http://www.dafont.com/planet-garbage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Planet Garbage.ttf'
 end

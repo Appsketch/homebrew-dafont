@@ -5,7 +5,6 @@ cask 'dafont-armand-chief' do
     url 'http://dl.dafont.com/dl/?f=armand_chief'
     name 'Armand Chief'
     homepage 'http://www.dafont.com/armand-chief.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Armand_chief.ttf'
     font 'Armand_Extra.ttf'

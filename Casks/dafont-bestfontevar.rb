@@ -5,7 +5,6 @@ cask 'dafont-bestfontevar' do
     url 'http://dl.dafont.com/dl/?f=bestfontevar'
     name 'Best Font Evar'
     homepage 'http://www.dafont.com/bestfontevar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BestFontEvar.ttf'
 end

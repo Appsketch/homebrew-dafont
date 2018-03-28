@@ -5,7 +5,6 @@ cask 'dafont-wonderland-mparcell' do
     url 'http://dl.dafont.com/dl/?f=wonderland_mparcell'
     name 'Wonderland'
     homepage 'http://www.dafont.com/wonderland-mparcell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wonderland.ttf'
 end

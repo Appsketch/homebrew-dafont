@@ -5,7 +5,6 @@ cask 'dafont-dynamo' do
     url 'http://dl.dafont.com/dl/?f=dynamo'
     name 'Dynamo'
     homepage 'http://www.dafont.com/dynamo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dynamo.ttf'
 end

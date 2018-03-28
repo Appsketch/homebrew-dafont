@@ -5,7 +5,6 @@ cask 'dafont-boltlight' do
     url 'http://dl.dafont.com/dl/?f=boltlight'
     name 'Bolt Light'
     homepage 'http://www.dafont.com/boltlight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BoltLight.ttf'
 end

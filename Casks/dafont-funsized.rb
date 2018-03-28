@@ -5,7 +5,6 @@ cask 'dafont-funsized' do
     url 'http://dl.dafont.com/dl/?f=funsized'
     name 'Fun Sized'
     homepage 'http://www.dafont.com/funsized.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FunSized.ttf'
 end

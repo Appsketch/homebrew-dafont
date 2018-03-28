@@ -5,7 +5,6 @@ cask 'dafont-extreme-simple' do
     url 'http://dl.dafont.com/dl/?f=extreme_simple'
     name 'Extreme Simple'
     homepage 'http://www.dafont.com/extreme-simple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extreme Simple.ttf'
 end

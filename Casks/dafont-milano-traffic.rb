@@ -5,7 +5,6 @@ cask 'dafont-milano-traffic' do
     url 'http://dl.dafont.com/dl/?f=milano_traffic'
     name 'Milano Traffic'
     homepage 'http://www.dafont.com/milano-traffic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Milano Traffic Demo.ttf'
 end

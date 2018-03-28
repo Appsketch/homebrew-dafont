@@ -5,7 +5,6 @@ cask 'dafont-neden-olmasn' do
     url 'http://dl.dafont.com/dl/?f=neden_olmasn'
     name 'Neden Olmasn'
     homepage 'http://www.dafont.com/neden-olmasn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'neden_olmasn.ttf'
 end

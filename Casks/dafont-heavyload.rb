@@ -5,7 +5,6 @@ cask 'dafont-heavyload' do
     url 'http://dl.dafont.com/dl/?f=heavyload'
     name 'Heavy Load'
     homepage 'http://www.dafont.com/heavyload.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeavyLoad.ttf'
 end

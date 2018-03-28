@@ -5,7 +5,6 @@ cask 'dafont-primer-print' do
     url 'http://dl.dafont.com/dl/?f=primer_print'
     name 'Primer Print'
     homepage 'http://www.dafont.com/primer-print.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'primer print bold.ttf'
     font 'primer print.ttf'

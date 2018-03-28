@@ -5,7 +5,6 @@ cask 'dafont-men-of-nihilist' do
     url 'http://dl.dafont.com/dl/?f=men_of_nihilist'
     name 'Men of Nihilist'
     homepage 'http://www.dafont.com/men-of-nihilist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MenofNihilist-Regular.ttf'
 end

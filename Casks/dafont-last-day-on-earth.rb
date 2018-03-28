@@ -5,7 +5,6 @@ cask 'dafont-last-day-on-earth' do
     url 'http://dl.dafont.com/dl/?f=last_day_on_earth'
     name 'Last Day On Earth'
     homepage 'http://www.dafont.com/last-day-on-earth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Last Day On Earth.ttf'
 end

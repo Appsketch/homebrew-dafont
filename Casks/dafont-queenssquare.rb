@@ -5,7 +5,6 @@ cask 'dafont-queenssquare' do
     url 'http://dl.dafont.com/dl/?f=queenssquare'
     name 'Queens Square'
     homepage 'http://www.dafont.com/queenssquare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QueensSquare.ttf'
 end

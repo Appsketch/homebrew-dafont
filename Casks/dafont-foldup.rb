@@ -5,7 +5,6 @@ cask 'dafont-foldup' do
     url 'http://dl.dafont.com/dl/?f=foldup'
     name 'Fold Up'
     homepage 'http://www.dafont.com/foldup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FOLDUP-v3.otf'
 end

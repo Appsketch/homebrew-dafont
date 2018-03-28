@@ -5,7 +5,6 @@ cask 'dafont-sealed-with-a-kiss' do
     url 'http://dl.dafont.com/dl/?f=sealed_with_a_kiss'
     name 'Sealed With A Kiss'
     homepage 'http://www.dafont.com/sealed-with-a-kiss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sealed With A Kiss.ttf'
 end

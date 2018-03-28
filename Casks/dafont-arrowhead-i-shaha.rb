@@ -5,7 +5,6 @@ cask 'dafont-arrowhead-i-shaha' do
     url 'http://dl.dafont.com/dl/?f=arrowhead_i_shaha'
     name 'Arrowhead I Shaha'
     homepage 'http://www.dafont.com/arrowhead-i-shaha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arrowhead I Shaha Italic.ttf'
 end

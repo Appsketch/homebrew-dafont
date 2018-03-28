@@ -5,7 +5,6 @@ cask 'dafont-clockwork' do
     url 'http://dl.dafont.com/dl/?f=clockwork'
     name 'Clock Work'
     homepage 'http://www.dafont.com/clockwork.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ClockWork.ttf'
 end

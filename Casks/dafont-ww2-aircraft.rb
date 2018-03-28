@@ -5,7 +5,6 @@ cask 'dafont-ww2-aircraft' do
     url 'http://dl.dafont.com/dl/?f=ww2_aircraft'
     name 'WW2 Aircraft'
     homepage 'http://www.dafont.com/ww2-aircraft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WW2 Aircraft.ttf'
 end

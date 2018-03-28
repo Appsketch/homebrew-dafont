@@ -5,7 +5,6 @@ cask 'dafont-nipponica' do
     url 'http://dl.dafont.com/dl/?f=nipponica'
     name 'Nipponica'
     homepage 'http://www.dafont.com/nipponica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nipponica_hiragana.otf'
 end

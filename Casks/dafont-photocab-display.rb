@@ -5,7 +5,6 @@ cask 'dafont-photocab-display' do
     url 'http://dl.dafont.com/dl/?f=photocab_display'
     name 'PhotoCab Display'
     homepage 'http://www.dafont.com/photocab-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Photocab.ttf'
 end

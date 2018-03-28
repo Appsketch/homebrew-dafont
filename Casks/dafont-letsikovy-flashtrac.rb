@@ -5,7 +5,6 @@ cask 'dafont-letsikovy-flashtrac' do
     url 'http://dl.dafont.com/dl/?f=letsikovy_flashtrac'
     name 'Letsikovy Flashtrace'
     homepage 'http://www.dafont.com/letsikovy-flashtrac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LETISKOV.TTF'
 end

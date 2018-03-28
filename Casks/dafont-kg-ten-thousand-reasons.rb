@@ -5,7 +5,6 @@ cask 'dafont-kg-ten-thousand-reasons' do
     url 'http://dl.dafont.com/dl/?f=kg_ten_thousand_reasons'
     name 'KG Ten Thousand Reasons'
     homepage 'http://www.dafont.com/kg-ten-thousand-reasons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGTenThousandReasons.ttf'
     font 'KGTenThousandReasonsAlt.ttf'

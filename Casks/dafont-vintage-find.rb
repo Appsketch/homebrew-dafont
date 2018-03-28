@@ -5,7 +5,6 @@ cask 'dafont-vintage-find' do
     url 'http://dl.dafont.com/dl/?f=vintage_find'
     name 'Vintage Find'
     homepage 'http://www.dafont.com/vintage-find.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VINTAGE FIND DISTRESSED.ttf'
     font 'VINTAGE FIND.ttf'

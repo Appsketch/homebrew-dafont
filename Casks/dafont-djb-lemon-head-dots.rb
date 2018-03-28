@@ -5,7 +5,6 @@ cask 'dafont-djb-lemon-head-dots' do
     url 'http://dl.dafont.com/dl/?f=djb_lemon_head_dots'
     name 'DJB Lemon Head Dots'
     homepage 'http://www.dafont.com/djb-lemon-head-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Lemon Head Dots.ttf'
 end

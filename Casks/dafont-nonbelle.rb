@@ -5,7 +5,6 @@ cask 'dafont-nonbelle' do
     url 'http://dl.dafont.com/dl/?f=nonbelle'
     name 'Non Belle'
     homepage 'http://www.dafont.com/nonbelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NonBelleT2.ttf'
 end

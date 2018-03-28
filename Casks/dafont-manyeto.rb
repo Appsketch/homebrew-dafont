@@ -5,7 +5,6 @@ cask 'dafont-manyeto' do
     url 'http://dl.dafont.com/dl/?f=manyeto'
     name 'Manyeto'
     homepage 'http://www.dafont.com/manyeto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Manyeto_demo.otf'
 end

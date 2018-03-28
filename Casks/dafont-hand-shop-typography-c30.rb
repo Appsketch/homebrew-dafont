@@ -5,7 +5,6 @@ cask 'dafont-hand-shop-typography-c30' do
     url 'http://dl.dafont.com/dl/?f=hand_shop_typography_c30'
     name 'Hand Shop Typography C30'
     homepage 'http://www.dafont.com/hand-shop-typography-c30.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fontscafe_HandShopTypography-C30_demo.ttf'
 end

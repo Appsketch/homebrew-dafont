@@ -5,7 +5,6 @@ cask 'dafont-afarat-ibn-blady' do
     url 'http://dl.dafont.com/dl/?f=afarat_ibn_blady'
     name 'Afarat Ibn Blady'
     homepage 'http://www.dafont.com/afarat-ibn-blady.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AfaratibnBlady.ttf'
 end

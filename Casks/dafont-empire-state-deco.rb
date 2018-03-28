@@ -5,7 +5,6 @@ cask 'dafont-empire-state-deco' do
     url 'http://dl.dafont.com/dl/?f=empire_state_deco'
     name 'Empire State Deco'
     homepage 'http://www.dafont.com/empire-state-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Empire State Deco.ttf'
 end

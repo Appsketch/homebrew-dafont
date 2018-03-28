@@ -5,7 +5,6 @@ cask 'dafont-karmacycle' do
     url 'http://dl.dafont.com/dl/?f=karmacycle'
     name 'Karma Cycle'
     homepage 'http://www.dafont.com/karmacycle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Karma cycle.ttf'
 end

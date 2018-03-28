@@ -5,7 +5,6 @@ cask 'dafont-old-bookshop' do
     url 'http://dl.dafont.com/dl/?f=old_bookshop'
     name 'Old Bookshop'
     homepage 'http://www.dafont.com/old-bookshop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old Bookshop HK.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-f1-secuencia-quad-ffp' do
     url 'http://dl.dafont.com/dl/?f=f1_secuencia_quad_ffp'
     name 'F1 Secuencia Quad FFP'
     homepage 'http://www.dafont.com/f1-secuencia-quad-ffp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'f1-secuencia-quad-ffp.ttf'
 end

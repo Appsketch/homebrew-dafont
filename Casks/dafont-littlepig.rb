@@ -5,7 +5,6 @@ cask 'dafont-littlepig' do
     url 'http://dl.dafont.com/dl/?f=littlepig'
     name 'Littlepig'
     homepage 'http://www.dafont.com/littlepig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LITTRG__.TTF'
 end

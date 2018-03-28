@@ -5,7 +5,6 @@ cask 'dafont-lines-cbowden' do
     url 'http://dl.dafont.com/dl/?f=lines_cbowden'
     name 'Lines'
     homepage 'http://www.dafont.com/lines-cbowden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lines.ttf'
 end

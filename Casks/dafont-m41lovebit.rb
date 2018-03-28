@@ -5,7 +5,6 @@ cask 'dafont-m41lovebit' do
     url 'http://dl.dafont.com/dl/?f=m41lovebit'
     name 'M41 Lovebit'
     homepage 'http://www.dafont.com/m41lovebit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'm41.TTF'
 end

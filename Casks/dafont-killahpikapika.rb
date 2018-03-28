@@ -5,7 +5,6 @@ cask 'dafont-killahpikapika' do
     url 'http://dl.dafont.com/dl/?f=killahpikapika'
     name 'Killah Pika Pika'
     homepage 'http://www.dafont.com/killahpikapika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KillahPikaPika.ttf'
 end

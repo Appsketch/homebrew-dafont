@@ -5,7 +5,6 @@ cask 'dafont-punkrockshow' do
     url 'http://dl.dafont.com/dl/?f=punkrockshow'
     name 'Punk Rock Show'
     homepage 'http://www.dafont.com/punkrockshow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CF_PunkRockShow.ttf'
 end

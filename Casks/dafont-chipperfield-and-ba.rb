@@ -5,7 +5,6 @@ cask 'dafont-chipperfield-and-ba' do
     url 'http://dl.dafont.com/dl/?f=chipperfield_and_ba'
     name 'Chipperfield and Bailey'
     homepage 'http://www.dafont.com/chipperfield-and-ba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chipperb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-enlighten' do
     url 'http://dl.dafont.com/dl/?f=enlighten'
     name 'Enlighten '
     homepage 'http://www.dafont.com/enlighten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'enlighten.ttf'
 end

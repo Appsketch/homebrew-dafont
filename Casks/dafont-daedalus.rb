@@ -5,7 +5,6 @@ cask 'dafont-daedalus' do
     url 'http://dl.dafont.com/dl/?f=daedalus'
     name 'Daedalus'
     homepage 'http://www.dafont.com/daedalus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'daedalus.ttf'
     font 'daedalusc.ttf'

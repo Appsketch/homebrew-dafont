@@ -5,7 +5,6 @@ cask 'dafont-gender-violence' do
     url 'http://dl.dafont.com/dl/?f=gender_violence'
     name 'Gender Violence'
     homepage 'http://www.dafont.com/gender-violence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GENDERVIOLENCE-v6.ttf'
 end

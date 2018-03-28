@@ -5,7 +5,6 @@ cask 'dafont-as-seen-on-tv' do
     url 'http://dl.dafont.com/dl/?f=as_seen_on_tv'
     name 'As seen on TV'
     homepage 'http://www.dafont.com/as-seen-on-tv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASSEENONTV.ttf'
     font 'ASSEENONTVSKEW.ttf'

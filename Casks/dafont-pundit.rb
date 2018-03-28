@@ -5,7 +5,6 @@ cask 'dafont-pundit' do
     url 'http://dl.dafont.com/dl/?f=pundit'
     name 'Pundit'
     homepage 'http://www.dafont.com/pundit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pundit.ttf'
 end

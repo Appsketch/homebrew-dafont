@@ -5,7 +5,6 @@ cask 'dafont-alpha54' do
     url 'http://dl.dafont.com/dl/?f=alpha54'
     name 'Alpha 54'
     homepage 'http://www.dafont.com/alpha54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alpha54.ttf'
 end

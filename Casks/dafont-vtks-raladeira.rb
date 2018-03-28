@@ -5,7 +5,6 @@ cask 'dafont-vtks-raladeira' do
     url 'http://dl.dafont.com/dl/?f=vtks_raladeira'
     name 'Vtks Raladeira'
     homepage 'http://www.dafont.com/vtks-raladeira.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Raladeira2.ttf'
 end

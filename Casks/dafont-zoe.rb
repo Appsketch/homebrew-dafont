@@ -5,7 +5,6 @@ cask 'dafont-zoe' do
     url 'http://dl.dafont.com/dl/?f=zoe'
     name 'Zoe'
     homepage 'http://www.dafont.com/zoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZOE.ttf'
 end

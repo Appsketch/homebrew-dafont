@@ -5,7 +5,6 @@ cask 'dafont-messen' do
     url 'http://dl.dafont.com/dl/?f=messen'
     name 'Messen'
     homepage 'http://www.dafont.com/messen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Messen.ttf'
 end

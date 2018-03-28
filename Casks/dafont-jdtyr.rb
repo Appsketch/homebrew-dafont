@@ -5,7 +5,6 @@ cask 'dafont-jdtyr' do
     url 'http://dl.dafont.com/dl/?f=jdtyr'
     name 'JD Tyr'
     homepage 'http://www.dafont.com/jdtyr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_tyr.ttf'
 end

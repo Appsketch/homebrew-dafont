@@ -5,7 +5,6 @@ cask 'dafont-aluminum-trucks' do
     url 'http://dl.dafont.com/dl/?f=aluminum_trucks'
     name 'Aluminum Trucks'
     homepage 'http://www.dafont.com/aluminum-trucks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aluminum Trucks.ttf'
 end

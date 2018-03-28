@@ -5,7 +5,6 @@ cask 'dafont-robingraffiti' do
     url 'http://dl.dafont.com/dl/?f=robingraffiti'
     name 'Robin Graffiti'
     homepage 'http://www.dafont.com/robingraffiti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RobinGraffiti.ttf'
     font 'RobinGraffitiFilledin.ttf'

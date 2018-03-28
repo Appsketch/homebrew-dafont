@@ -5,7 +5,6 @@ cask 'dafont-pho-tai' do
     url 'http://dl.dafont.com/dl/?f=pho_tai'
     name 'Pho Tai'
     homepage 'http://www.dafont.com/pho-tai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PhoTai.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-found-it-on-dafont' do
     url 'http://dl.dafont.com/dl/?f=found_it_on_dafont'
     name 'Found it on Dafont'
     homepage 'http://www.dafont.com/found-it-on-dafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Found it on Dafont.ttf'
 end

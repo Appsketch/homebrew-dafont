@@ -5,7 +5,6 @@ cask 'dafont-road-to-nowhere' do
     url 'http://dl.dafont.com/dl/?f=road_to_nowhere'
     name 'Road to nowhere'
     homepage 'http://www.dafont.com/road-to-nowhere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Road to nowhere.ttf'
 end

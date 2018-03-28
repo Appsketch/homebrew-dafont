@@ -5,7 +5,6 @@ cask 'dafont-pixelmix' do
     url 'http://dl.dafont.com/dl/?f=pixelmix'
     name 'PixelMix'
     homepage 'http://www.dafont.com/pixelmix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixelmix_bold.ttf'
     font 'pixelmix.ttf'

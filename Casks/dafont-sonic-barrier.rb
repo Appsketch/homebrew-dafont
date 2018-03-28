@@ -5,7 +5,6 @@ cask 'dafont-sonic-barrier' do
     url 'http://dl.dafont.com/dl/?f=sonic_barrier'
     name 'Sonic Barrier'
     homepage 'http://www.dafont.com/sonic-barrier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sonic Barrier.ttf'
 end

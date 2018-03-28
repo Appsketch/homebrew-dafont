@@ -5,7 +5,6 @@ cask 'dafont-nioubes-font' do
     url 'http://dl.dafont.com/dl/?f=nioubes_font'
     name 'Nioubes'
     homepage 'http://www.dafont.com/nioubes-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nioubes light.ttf'
     font 'Nioubes_bold.ttf'

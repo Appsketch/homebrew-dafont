@@ -5,7 +5,6 @@ cask 'dafont-domik' do
     url 'http://dl.dafont.com/dl/?f=domik'
     name 'Domik'
     homepage 'http://www.dafont.com/domik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'domik.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stadium-squaregear' do
     url 'http://dl.dafont.com/dl/?f=stadium_squaregear'
     name 'Stadium'
     homepage 'http://www.dafont.com/stadium-squaregear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stadium.ttf'
 end

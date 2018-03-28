@@ -5,7 +5,6 @@ cask 'dafont-merkin' do
     url 'http://dl.dafont.com/dl/?f=merkin'
     name 'Merkin'
     homepage 'http://www.dafont.com/merkin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MERKIN__.ttf'
     font 'MERKINF_.ttf'

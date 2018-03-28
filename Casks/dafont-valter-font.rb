@@ -5,7 +5,6 @@ cask 'dafont-valter-font' do
     url 'http://dl.dafont.com/dl/?f=valter_font'
     name 'VLOBJ'
     homepage 'http://www.dafont.com/valter-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VLOBJ.ttf'
 end

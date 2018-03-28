@@ -5,7 +5,6 @@ cask 'dafont-intruder-alert' do
     url 'http://dl.dafont.com/dl/?f=intruder_alert'
     name 'Intruder Alert'
     homepage 'http://www.dafont.com/intruder-alert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Intruder.ttf'
 end

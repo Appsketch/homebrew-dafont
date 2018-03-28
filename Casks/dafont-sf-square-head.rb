@@ -5,7 +5,6 @@ cask 'dafont-sf-square-head' do
     url 'http://dl.dafont.com/dl/?f=sf_square_head'
     name 'SF Square Head'
     homepage 'http://www.dafont.com/sf-square-head.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Square Head Bold Italic.ttf'
     font 'SF Square Head Bold.ttf'

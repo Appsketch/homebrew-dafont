@@ -5,7 +5,6 @@ cask 'dafont-ww-changeling-bats' do
     url 'http://dl.dafont.com/dl/?f=ww_changeling_bats'
     name 'WW Changeling Bats'
     homepage 'http://www.dafont.com/ww-changeling-bats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wwchb___.ttf'
 end

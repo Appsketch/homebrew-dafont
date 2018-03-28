@@ -5,7 +5,6 @@ cask 'dafont-dm-yes' do
     url 'http://dl.dafont.com/dl/?f=dm_yes'
     name 'DM Yes'
     homepage 'http://www.dafont.com/dm-yes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dm_yes.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-no-dice' do
     url 'http://dl.dafont.com/dl/?f=no_dice'
     name 'No Dice'
     homepage 'http://www.dafont.com/no-dice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NoDice-Regular.otf'
 end

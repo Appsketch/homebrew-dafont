@@ -5,7 +5,6 @@ cask 'dafont-fifty-two-letters' do
     url 'http://dl.dafont.com/dl/?f=fifty_two_letters'
     name 'Fifty Two Letters'
     homepage 'http://www.dafont.com/fifty-two-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FiftyTwoLetters.ttf'
 end

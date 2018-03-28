@@ -5,7 +5,6 @@ cask 'dafont-lightning-cruz' do
     url 'http://dl.dafont.com/dl/?f=lightning_cruz'
     name 'Lightning Cruz'
     homepage 'http://www.dafont.com/lightning-cruz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lightning-Cruz.ttf'
 end

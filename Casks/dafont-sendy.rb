@@ -5,7 +5,6 @@ cask 'dafont-sendy' do
     url 'http://dl.dafont.com/dl/?f=sendy'
     name 'Sendy'
     homepage 'http://www.dafont.com/sendy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sendy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bobby-corwin' do
     url 'http://dl.dafont.com/dl/?f=bobby_corwin'
     name 'Bobby Corwin'
     homepage 'http://www.dafont.com/bobby-corwin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bobby Corwin.ttf'
 end

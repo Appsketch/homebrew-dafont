@@ -5,7 +5,6 @@ cask 'dafont-handwriting5' do
     url 'http://dl.dafont.com/dl/?f=handwriting5'
     name 'Handwriting'
     homepage 'http://www.dafont.com/handwriting5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'handwriting_.ttf'
 end

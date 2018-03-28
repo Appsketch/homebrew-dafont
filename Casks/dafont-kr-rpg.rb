@@ -5,7 +5,6 @@ cask 'dafont-kr-rpg' do
     url 'http://dl.dafont.com/dl/?f=kr_rpg'
     name 'KR RPG'
     homepage 'http://www.dafont.com/kr-rpg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR RPG.ttf'
 end

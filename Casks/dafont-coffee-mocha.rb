@@ -5,7 +5,6 @@ cask 'dafont-coffee-mocha' do
     url 'http://dl.dafont.com/dl/?f=coffee_mocha'
     name 'Coffee Mocha'
     homepage 'http://www.dafont.com/coffee-mocha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coffee Mocha.otf'
 end

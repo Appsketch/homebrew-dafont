@@ -5,7 +5,6 @@ cask 'dafont-kagena' do
     url 'http://dl.dafont.com/dl/?f=kagena'
     name 'Kagena'
     homepage 'http://www.dafont.com/kagena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KAGENA.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-luna-kronik-light' do
     url 'http://dl.dafont.com/dl/?f=luna_kronik_light'
     name 'Luna Kronik'
     homepage 'http://www.dafont.com/luna-kronik-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LUNAKRONIKLIGHT.ttf'
 end

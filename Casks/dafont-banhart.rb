@@ -5,7 +5,6 @@ cask 'dafont-banhart' do
     url 'http://dl.dafont.com/dl/?f=banhart'
     name 'Banhart'
     homepage 'http://www.dafont.com/banhart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '-banhart-black-_erc_2008.ttf'
     font '-banhart-hollow-_erc_2008.ttf'

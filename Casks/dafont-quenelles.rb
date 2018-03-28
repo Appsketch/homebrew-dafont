@@ -5,7 +5,6 @@ cask 'dafont-quenelles' do
     url 'http://dl.dafont.com/dl/?f=quenelles'
     name 'Quenelles'
     homepage 'http://www.dafont.com/quenelles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quenelles.ttf'
 end

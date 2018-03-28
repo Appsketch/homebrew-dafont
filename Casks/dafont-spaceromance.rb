@@ -5,7 +5,6 @@ cask 'dafont-spaceromance' do
     url 'http://dl.dafont.com/dl/?f=spaceromance'
     name 'Space Romance'
     homepage 'http://www.dafont.com/spaceromance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpaceRomance.ttf'
 end

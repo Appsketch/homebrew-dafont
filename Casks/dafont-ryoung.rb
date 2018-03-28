@@ -5,7 +5,6 @@ cask 'dafont-ryoung' do
     url 'http://dl.dafont.com/dl/?f=ryoung'
     name 'RYoung'
     homepage 'http://www.dafont.com/ryoung.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RYoung.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-extra-cheese' do
     url 'http://dl.dafont.com/dl/?f=extra_cheese'
     name 'Extra Cheese'
     homepage 'http://www.dafont.com/extra-cheese.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'extra cheese.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-whats-my-age-again' do
     url 'http://dl.dafont.com/dl/?f=whats_my_age_again'
     name 'What&#039;s My Age Again'
     homepage 'http://www.dafont.com/whats-my-age-again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'What&#039;s My Age Again.ttf'
 end

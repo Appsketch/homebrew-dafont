@@ -5,7 +5,6 @@ cask 'dafont-ciudad-capital' do
     url 'http://dl.dafont.com/dl/?f=ciudad_capital'
     name 'Ciudad Capital'
     homepage 'http://www.dafont.com/ciudad-capital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ciudad capital.ttf'
 end

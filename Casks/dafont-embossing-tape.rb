@@ -5,7 +5,6 @@ cask 'dafont-embossing-tape' do
     url 'http://dl.dafont.com/dl/?f=embossing_tape'
     name 'Embossing Tape'
     homepage 'http://www.dafont.com/embossing-tape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'embosst1.ttf'
     font 'embosst2.ttf'

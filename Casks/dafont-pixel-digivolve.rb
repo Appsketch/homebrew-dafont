@@ -5,7 +5,6 @@ cask 'dafont-pixel-digivolve' do
     url 'http://dl.dafont.com/dl/?f=pixel_digivolve'
     name 'Pixel Digivolve'
     homepage 'http://www.dafont.com/pixel-digivolve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel Digivolve Italic.otf'
     font 'Pixel Digivolve.otf'

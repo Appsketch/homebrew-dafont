@@ -5,7 +5,6 @@ cask 'dafont-strangers-in-the-ni' do
     url 'http://dl.dafont.com/dl/?f=strangers_in_the_ni'
     name 'Strangers In The Night Two'
     homepage 'http://www.dafont.com/strangers-in-the-ni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StrangersInTheNightTwo.ttf'
 end

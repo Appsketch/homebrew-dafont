@@ -5,7 +5,6 @@ cask 'dafont-flabby-bums-handwriting' do
     url 'http://dl.dafont.com/dl/?f=flabby_bums_handwriting'
     name 'Flabby Bums Handwriting'
     homepage 'http://www.dafont.com/flabby-bums-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flabby_Bums_handwriting.ttf'
 end

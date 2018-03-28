@@ -5,7 +5,6 @@ cask 'dafont-cartonsix-nc' do
     url 'http://dl.dafont.com/dl/?f=cartonsix_nc'
     name 'Cartonsix NC'
     homepage 'http://www.dafont.com/cartonsix-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carton_Six.ttf'
 end

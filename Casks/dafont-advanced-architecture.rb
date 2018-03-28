@@ -5,7 +5,6 @@ cask 'dafont-advanced-architecture' do
     url 'http://dl.dafont.com/dl/?f=advanced_architecture'
     name 'Advanced Architecture'
     homepage 'http://www.dafont.com/advanced-architecture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Advanced Architecture.ttf'
 end

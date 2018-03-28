@@ -5,7 +5,6 @@ cask 'dafont-hotplate' do
     url 'http://dl.dafont.com/dl/?f=hotplate'
     name 'Hotplate'
     homepage 'http://www.dafont.com/hotplate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hotplate(sRB).TTF'
 end

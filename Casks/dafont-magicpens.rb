@@ -5,7 +5,6 @@ cask 'dafont-magicpens' do
     url 'http://dl.dafont.com/dl/?f=magicpens'
     name 'Magic Pens'
     homepage 'http://www.dafont.com/magicpens.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MagicPens.ttf'
 end

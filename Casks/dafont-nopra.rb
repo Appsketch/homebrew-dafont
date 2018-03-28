@@ -5,7 +5,6 @@ cask 'dafont-nopra' do
     url 'http://dl.dafont.com/dl/?f=nopra'
     name 'Nopra'
     homepage 'http://www.dafont.com/nopra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nopra.ttf'
 end

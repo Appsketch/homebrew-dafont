@@ -5,7 +5,6 @@ cask 'dafont-thrashparty' do
     url 'http://dl.dafont.com/dl/?f=thrashparty'
     name 'Thrash Party'
     homepage 'http://www.dafont.com/thrashparty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThrashParty.ttf'
 end

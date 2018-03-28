@@ -5,7 +5,6 @@ cask 'dafont-satans-minions' do
     url 'http://dl.dafont.com/dl/?f=satans_minions'
     name 'Satans Minions'
     homepage 'http://www.dafont.com/satans-minions.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SATAM___.TTF'
 end

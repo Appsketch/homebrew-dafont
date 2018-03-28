@@ -5,7 +5,6 @@ cask 'dafont-island-of-misfit-toys' do
     url 'http://dl.dafont.com/dl/?f=island_of_misfit_toys'
     name 'Island of Misfit Toys'
     homepage 'http://www.dafont.com/island-of-misfit-toys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Island of Misfit Toys Alt.ttf'
     font 'Island of Misfit Toys.ttf'

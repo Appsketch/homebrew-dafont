@@ -5,7 +5,6 @@ cask 'dafont-kbhottamale' do
     url 'http://dl.dafont.com/dl/?f=kbhottamale'
     name 'KB Hot Tamale'
     homepage 'http://www.dafont.com/kbhottamale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBHotTAMALE.ttf'
 end

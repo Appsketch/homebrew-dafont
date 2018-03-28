@@ -5,7 +5,6 @@ cask 'dafont-merrie-melodies' do
     url 'http://dl.dafont.com/dl/?f=merrie_melodies'
     name 'Merrie Melodies'
     homepage 'http://www.dafont.com/merrie-melodies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Merrie Melodies.ttf'
 end

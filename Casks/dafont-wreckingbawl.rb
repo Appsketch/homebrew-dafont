@@ -5,7 +5,6 @@ cask 'dafont-wreckingbawl' do
     url 'http://dl.dafont.com/dl/?f=wreckingbawl'
     name 'Wrecking Bawl'
     homepage 'http://www.dafont.com/wreckingbawl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WreckingBawl.ttf'
 end

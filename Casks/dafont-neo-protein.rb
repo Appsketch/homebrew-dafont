@@ -5,7 +5,6 @@ cask 'dafont-neo-protein' do
     url 'http://dl.dafont.com/dl/?f=neo_protein'
     name 'Neo Protein'
     homepage 'http://www.dafont.com/neo-protein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEO PROTEIN.ttf'
 end

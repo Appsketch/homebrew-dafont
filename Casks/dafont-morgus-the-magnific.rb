@@ -5,7 +5,6 @@ cask 'dafont-morgus-the-magnific' do
     url 'http://dl.dafont.com/dl/?f=morgus_the_magnific'
     name 'Morgus the Magnificent'
     homepage 'http://www.dafont.com/morgus-the-magnific.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'morgus.ttf'
 end

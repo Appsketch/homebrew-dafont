@@ -5,7 +5,6 @@ cask 'dafont-dli-lightscript' do
     url 'http://dl.dafont.com/dl/?f=dli_lightscript'
     name 'DLI LightScript'
     homepage 'http://www.dafont.com/dli-lightscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DLI LightScript.ttf'
 end

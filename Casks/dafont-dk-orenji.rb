@@ -5,7 +5,6 @@ cask 'dafont-dk-orenji' do
     url 'http://dl.dafont.com/dl/?f=dk_orenji'
     name 'DK Orenji'
     homepage 'http://www.dafont.com/dk-orenji.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Orenji.otf'
 end

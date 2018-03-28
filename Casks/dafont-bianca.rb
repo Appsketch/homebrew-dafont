@@ -5,7 +5,6 @@ cask 'dafont-bianca' do
     url 'http://dl.dafont.com/dl/?f=bianca'
     name 'Bianca'
     homepage 'http://www.dafont.com/bianca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bianca.ttf'
 end

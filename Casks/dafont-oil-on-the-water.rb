@@ -5,7 +5,6 @@ cask 'dafont-oil-on-the-water' do
     url 'http://dl.dafont.com/dl/?f=oil_on_the_water'
     name 'Oil On The Water'
     homepage 'http://www.dafont.com/oil-on-the-water.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oil On The Water.ttf'
 end

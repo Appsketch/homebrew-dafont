@@ -5,7 +5,6 @@ cask 'dafont-tweedy-erc-01' do
     url 'http://dl.dafont.com/dl/?f=tweedy_erc_01'
     name 'Tweedy Erc 01'
     homepage 'http://www.dafont.com/tweedy-erc-01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tweedy_erc_01.ttf'
 end

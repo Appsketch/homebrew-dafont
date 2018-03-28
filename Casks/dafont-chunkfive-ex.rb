@@ -5,7 +5,6 @@ cask 'dafont-chunkfive-ex' do
     url 'http://dl.dafont.com/dl/?f=chunkfive_ex'
     name 'Chunk Five Ex'
     homepage 'http://www.dafont.com/chunkfive-ex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chunkfive Ex.ttf'
 end

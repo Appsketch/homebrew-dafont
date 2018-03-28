@@ -5,7 +5,6 @@ cask 'dafont-fh-lentil' do
     url 'http://dl.dafont.com/dl/?f=fh_lentil'
     name 'Fh Lentil'
     homepage 'http://www.dafont.com/fh-lentil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fh_Lentil.otf'
 end

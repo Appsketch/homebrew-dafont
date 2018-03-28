@@ -5,7 +5,6 @@ cask 'dafont-sweetrevenge' do
     url 'http://dl.dafont.com/dl/?f=sweetrevenge'
     name 'Sweet Revenge'
     homepage 'http://www.dafont.com/sweetrevenge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SweetRevenge.ttf'
 end

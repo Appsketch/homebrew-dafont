@@ -5,7 +5,6 @@ cask 'dafont-gaban' do
     url 'http://dl.dafont.com/dl/?f=gaban'
     name 'Gaban'
     homepage 'http://www.dafont.com/gaban.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gaban-outline-italic-FFP.ttf'
     font 'gaban-outline-regular-FFP.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-paltamo-88300' do
     url 'http://dl.dafont.com/dl/?f=paltamo_88300'
     name 'Paltamo 88300'
     homepage 'http://www.dafont.com/paltamo-88300.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paltamo 88300.ttf'
 end

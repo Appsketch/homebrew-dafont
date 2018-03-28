@@ -5,7 +5,6 @@ cask 'dafont-sherlock-holmes' do
     url 'http://dl.dafont.com/dl/?f=sherlock_holmes'
     name 'Sherlock Holmes'
     homepage 'http://www.dafont.com/sherlock-holmes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHERLOCK HOLMES.ttf'
     font 'WATSON.ttf'

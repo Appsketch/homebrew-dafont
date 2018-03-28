@@ -5,7 +5,6 @@ cask 'dafont-the-worlds-best-logos' do
     url 'http://dl.dafont.com/dl/?f=the_worlds_best_logos'
     name 'The world&#039;s best logos'
     homepage 'http://www.dafont.com/the-worlds-best-logos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the world-&#039;s best logos.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vtc-nuetattoo-script' do
     url 'http://dl.dafont.com/dl/?f=vtc_nuetattoo_script'
     name 'VTC Nue Tattoo Script'
     homepage 'http://www.dafont.com/vtc-nuetattoo-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtc-NueTattooScript.ttf'
 end

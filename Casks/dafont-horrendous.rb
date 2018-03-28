@@ -5,7 +5,6 @@ cask 'dafont-horrendous' do
     url 'http://dl.dafont.com/dl/?f=horrendous'
     name 'Horrendous'
     homepage 'http://www.dafont.com/horrendous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'horrendo.ttf'
 end

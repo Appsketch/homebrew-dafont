@@ -5,7 +5,6 @@ cask 'dafont-tf2-professor' do
     url 'http://dl.dafont.com/dl/?f=tf2_professor'
     name 'TF2 Professor'
     homepage 'http://www.dafont.com/tf2-professor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tf2professor.ttf'
 end

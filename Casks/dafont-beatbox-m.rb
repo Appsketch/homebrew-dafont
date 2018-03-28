@@ -5,7 +5,6 @@ cask 'dafont-beatbox-m' do
     url 'http://dl.dafont.com/dl/?f=beatbox_m'
     name 'Beatbox'
     homepage 'http://www.dafont.com/beatbox-m.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beatbox.ttf'
 end

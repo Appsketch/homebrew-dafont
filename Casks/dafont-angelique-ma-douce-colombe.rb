@@ -5,7 +5,6 @@ cask 'dafont-angelique-ma-douce-colombe' do
     url 'http://dl.dafont.com/dl/?f=angelique_ma_douce_colombe'
     name 'Angelique ma douce Colombe'
     homepage 'http://www.dafont.com/angelique-ma-douce-colombe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angelique ma douce Colombe.ttf'
 end

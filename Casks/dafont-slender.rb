@@ -5,7 +5,6 @@ cask 'dafont-slender' do
     url 'http://dl.dafont.com/dl/?f=slender'
     name 'Slender'
     homepage 'http://www.dafont.com/slender.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slender by Simoncho Design.ttf'
 end

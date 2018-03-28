@@ -5,7 +5,6 @@ cask 'dafont-corn-pop-two' do
     url 'http://dl.dafont.com/dl/?f=corn_pop_two'
     name 'Corn Pop Two'
     homepage 'http://www.dafont.com/corn-pop-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CornPop Two.ttf'
 end

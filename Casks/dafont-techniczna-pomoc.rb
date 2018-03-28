@@ -5,7 +5,6 @@ cask 'dafont-techniczna-pomoc' do
     url 'http://dl.dafont.com/dl/?f=techniczna_pomoc'
     name 'Techniczna Pomoc'
     homepage 'http://www.dafont.com/techniczna-pomoc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TechnicznaPomoc.ttf'
     font 'TechnicznaPomocR.ttf'

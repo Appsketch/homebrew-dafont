@@ -5,7 +5,6 @@ cask 'dafont-bm-mini' do
     url 'http://dl.dafont.com/dl/?f=bm_mini'
     name 'BM Mini'
     homepage 'http://www.dafont.com/bm-mini.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMmini.TTF'
 end

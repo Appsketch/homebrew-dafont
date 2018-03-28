@@ -5,7 +5,6 @@ cask 'dafont-breaking-bad' do
     url 'http://dl.dafont.com/dl/?f=breaking_bad'
     name 'Breaking Bad'
     homepage 'http://www.dafont.com/breaking-bad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BREAKING BAD.ttf'
 end

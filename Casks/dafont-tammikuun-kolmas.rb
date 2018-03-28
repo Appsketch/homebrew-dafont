@@ -5,7 +5,6 @@ cask 'dafont-tammikuun-kolmas' do
     url 'http://dl.dafont.com/dl/?f=tammikuun_kolmas'
     name 'Tammikuun Kolmas'
     homepage 'http://www.dafont.com/tammikuun-kolmas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tammikuun kolmas.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pulse-sans' do
     url 'http://dl.dafont.com/dl/?f=pulse_sans'
     name 'Pulse Sans Virgin'
     homepage 'http://www.dafont.com/pulse-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pulse_virgin.ttf'
 end

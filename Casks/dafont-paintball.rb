@@ -5,7 +5,6 @@ cask 'dafont-paintball' do
     url 'http://dl.dafont.com/dl/?f=paintball'
     name 'Paintball'
     homepage 'http://www.dafont.com/paintball.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paintball.ttf'
 end

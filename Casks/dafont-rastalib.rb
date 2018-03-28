@@ -5,7 +5,6 @@ cask 'dafont-rastalib' do
     url 'http://dl.dafont.com/dl/?f=rastalib'
     name 'Rastalib'
     homepage 'http://www.dafont.com/rastalib.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rastalib.ttf'
 end

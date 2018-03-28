@@ -5,7 +5,6 @@ cask 'dafont-n-gage' do
     url 'http://dl.dafont.com/dl/?f=n_gage'
     name 'N-Gage'
     homepage 'http://www.dafont.com/n-gage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'N-Gage.ttf'
 end

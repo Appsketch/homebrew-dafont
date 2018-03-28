@@ -5,7 +5,6 @@ cask 'dafont-plexifont-bv' do
     url 'http://dl.dafont.com/dl/?f=plexifont_bv'
     name 'Plexifont BV'
     homepage 'http://www.dafont.com/plexifont-bv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLEXB___.TTF'
 end

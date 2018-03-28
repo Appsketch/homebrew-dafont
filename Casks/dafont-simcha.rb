@@ -5,7 +5,6 @@ cask 'dafont-simcha' do
     url 'http://dl.dafont.com/dl/?f=simcha'
     name 'Simcha'
     homepage 'http://www.dafont.com/simcha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SIMCHA.TTF'
 end

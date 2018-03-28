@@ -5,7 +5,6 @@ cask 'dafont-soy-sauce-junky-g' do
     url 'http://dl.dafont.com/dl/?f=soy_sauce_junky_g'
     name 'Soy Sauce Junky G'
     homepage 'http://www.dafont.com/soy-sauce-junky-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_soy_sauce_junky.ttf'
 end

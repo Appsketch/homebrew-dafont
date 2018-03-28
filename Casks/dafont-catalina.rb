@@ -5,7 +5,6 @@ cask 'dafont-catalina' do
     url 'http://dl.dafont.com/dl/?f=catalina'
     name 'Catalina'
     homepage 'http://www.dafont.com/catalina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '[Catalina].ttf'
 end

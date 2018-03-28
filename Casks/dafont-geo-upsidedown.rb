@@ -5,7 +5,6 @@ cask 'dafont-geo-upsidedown' do
     url 'http://dl.dafont.com/dl/?f=geo_upsidedown'
     name 'Geo Upsidedown'
     homepage 'http://www.dafont.com/geo-upsidedown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Geo Upsidedown Thin Version.ttf'
 end

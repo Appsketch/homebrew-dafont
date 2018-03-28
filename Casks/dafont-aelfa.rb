@@ -5,7 +5,6 @@ cask 'dafont-aelfa' do
     url 'http://dl.dafont.com/dl/?f=aelfa'
     name 'Aelfa'
     homepage 'http://www.dafont.com/aelfa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aelfa.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-jambo' do
     url 'http://dl.dafont.com/dl/?f=dk_jambo'
     name 'DK Jambo'
     homepage 'http://www.dafont.com/dk-jambo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Jambo.otf'
 end

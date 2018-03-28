@@ -5,7 +5,6 @@ cask 'dafont-ginette' do
     url 'http://dl.dafont.com/dl/?f=ginette'
     name 'Ginette'
     homepage 'http://www.dafont.com/ginette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GINETTE.TTF'
 end

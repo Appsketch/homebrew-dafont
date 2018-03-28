@@ -5,7 +5,6 @@ cask 'dafont-spherometric' do
     url 'http://dl.dafont.com/dl/?f=spherometric'
     name 'Spherometric'
     homepage 'http://www.dafont.com/spherometric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPHEROMETRIC.ttf'
 end

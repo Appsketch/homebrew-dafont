@@ -5,7 +5,6 @@ cask 'dafont-digital-firebomb' do
     url 'http://dl.dafont.com/dl/?f=digital_firebomb'
     name 'Digital Firebomb'
     homepage 'http://www.dafont.com/digital-firebomb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DigitalFirebomb.ttf'
 end

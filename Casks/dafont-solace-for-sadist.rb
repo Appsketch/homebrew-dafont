@@ -5,7 +5,6 @@ cask 'dafont-solace-for-sadist' do
     url 'http://dl.dafont.com/dl/?f=solace_for_sadist'
     name 'Solace for Sadist'
     homepage 'http://www.dafont.com/solace-for-sadist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SolaceforSadist-Regular.ttf'
 end

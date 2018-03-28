@@ -5,7 +5,6 @@ cask 'dafont-time-to-get-a-watch' do
     url 'http://dl.dafont.com/dl/?f=time_to_get_a_watch'
     name 'Time to get a Watch'
     homepage 'http://www.dafont.com/time-to-get-a-watch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'timetogetawatch.ttf'
 end

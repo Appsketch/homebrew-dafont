@@ -5,7 +5,6 @@ cask 'dafont-highzombie' do
     url 'http://dl.dafont.com/dl/?f=highzombie'
     name 'High Zombie'
     homepage 'http://www.dafont.com/highzombie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighZombie.ttf'
 end

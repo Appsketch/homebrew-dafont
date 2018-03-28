@@ -5,7 +5,6 @@ cask 'dafont-diana-sans' do
     url 'http://dl.dafont.com/dl/?f=diana_sans'
     name 'Diana Sans'
     homepage 'http://www.dafont.com/diana-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diana Sans.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-toxic-waste-tfb' do
     url 'http://dl.dafont.com/dl/?f=toxic_waste_tfb'
     name 'Toxic Waste TFB'
     homepage 'http://www.dafont.com/toxic-waste-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Toxic Waste tfb.ttf'
 end

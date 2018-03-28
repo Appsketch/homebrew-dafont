@@ -5,7 +5,6 @@ cask 'dafont-precrypt' do
     url 'http://dl.dafont.com/dl/?f=precrypt'
     name 'PreCrypt'
     homepage 'http://www.dafont.com/precrypt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PRECRYPT.TTF'
 end

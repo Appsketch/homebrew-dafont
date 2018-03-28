@@ -5,7 +5,6 @@ cask 'dafont-loomis-sans' do
     url 'http://dl.dafont.com/dl/?f=loomis_sans'
     name 'Loomis Sans'
     homepage 'http://www.dafont.com/loomis-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Loomis_Sans.ttf'
 end

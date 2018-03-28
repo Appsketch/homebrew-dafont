@@ -5,7 +5,6 @@ cask 'dafont-beautifulruins' do
     url 'http://dl.dafont.com/dl/?f=beautifulruins'
     name 'Beautiful Ruins'
     homepage 'http://www.dafont.com/beautifulruins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeautifulRuins.ttf'
 end

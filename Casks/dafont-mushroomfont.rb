@@ -5,7 +5,6 @@ cask 'dafont-mushroomfont' do
     url 'http://dl.dafont.com/dl/?f=mushroomfont'
     name 'Mushroomfont'
     homepage 'http://www.dafont.com/mushroomfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mushroomfont.ttf'
 end

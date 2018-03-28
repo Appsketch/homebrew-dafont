@@ -5,7 +5,6 @@ cask 'dafont-black-bonsai' do
     url 'http://dl.dafont.com/dl/?f=black_bonsai'
     name 'Black Bonsai'
     homepage 'http://www.dafont.com/black-bonsai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blackbonsai001.ttf'
 end

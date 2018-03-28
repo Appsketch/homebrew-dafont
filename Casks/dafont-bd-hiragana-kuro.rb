@@ -5,7 +5,6 @@ cask 'dafont-bd-hiragana-kuro' do
     url 'http://dl.dafont.com/dl/?f=bd_hiragana_kuro'
     name 'BD Hiragana Kuro'
     homepage 'http://www.dafont.com/bd-hiragana-kuro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bd_hiragana_kuro.otf'
 end

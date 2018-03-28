@@ -5,7 +5,6 @@ cask 'dafont-afro-house' do
     url 'http://dl.dafont.com/dl/?f=afro_house'
     name 'Afro House'
     homepage 'http://www.dafont.com/afro-house.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Afro House.ttf'
 end

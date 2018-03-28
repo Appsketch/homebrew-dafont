@@ -5,7 +5,6 @@ cask 'dafont-rise-up' do
     url 'http://dl.dafont.com/dl/?f=rise_up'
     name 'Rise Up'
     homepage 'http://www.dafont.com/rise-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'riseup_tbs.ttf'
 end

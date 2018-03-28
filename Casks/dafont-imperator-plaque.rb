@@ -5,7 +5,6 @@ cask 'dafont-imperator-plaque' do
     url 'http://dl.dafont.com/dl/?f=imperator_plaque'
     name 'Imperator Plaque'
     homepage 'http://www.dafont.com/imperator-plaque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ImperatorPlaque.ttf'
 end

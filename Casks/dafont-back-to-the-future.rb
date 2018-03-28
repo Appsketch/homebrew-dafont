@@ -5,7 +5,6 @@ cask 'dafont-back-to-the-future' do
     url 'http://dl.dafont.com/dl/?f=back_to_the_future'
     name 'Back to the Future 2002'
     homepage 'http://www.dafont.com/back-to-the-future.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BTTF.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djb-starry-starry-font' do
     url 'http://dl.dafont.com/dl/?f=djb_starry_starry_font'
     name 'DJB Starry Starry Font'
     homepage 'http://www.dafont.com/djb-starry-starry-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Starry Starry Font.ttf'
 end

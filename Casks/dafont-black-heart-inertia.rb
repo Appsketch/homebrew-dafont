@@ -5,7 +5,6 @@ cask 'dafont-black-heart-inertia' do
     url 'http://dl.dafont.com/dl/?f=black_heart_inertia'
     name 'Black Heart Inertia'
     homepage 'http://www.dafont.com/black-heart-inertia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black Heart Inertia.ttf'
 end

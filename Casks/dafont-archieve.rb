@@ -5,7 +5,6 @@ cask 'dafont-archieve' do
     url 'http://dl.dafont.com/dl/?f=archieve'
     name 'Archieve'
     homepage 'http://www.dafont.com/archieve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'archieve.ttf'
 end

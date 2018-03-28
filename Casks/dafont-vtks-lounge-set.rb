@@ -5,7 +5,6 @@ cask 'dafont-vtks-lounge-set' do
     url 'http://dl.dafont.com/dl/?f=vtks_lounge_set'
     name 'Vtks Lounge Set'
     homepage 'http://www.dafont.com/vtks-lounge-set.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Lounge Set.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-a-damn-mess' do
     url 'http://dl.dafont.com/dl/?f=a_damn_mess'
     name 'A Damn Mess'
     homepage 'http://www.dafont.com/a-damn-mess.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ADAMN.TTF'
 end

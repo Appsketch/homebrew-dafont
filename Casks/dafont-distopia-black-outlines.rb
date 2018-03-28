@@ -5,7 +5,6 @@ cask 'dafont-distopia-black-outlines' do
     url 'http://dl.dafont.com/dl/?f=distopia_black_outlines'
     name 'Distopia Black Outlines'
     homepage 'http://www.dafont.com/distopia-black-outlines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DistBkO.ttf'
 end

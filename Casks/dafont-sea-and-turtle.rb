@@ -5,7 +5,6 @@ cask 'dafont-sea-and-turtle' do
     url 'http://dl.dafont.com/dl/?f=sea_and_turtle'
     name 'Sea&amp;Turtle'
     homepage 'http://www.dafont.com/sea-and-turtle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sea&amp;Turtle.ttf'
 end

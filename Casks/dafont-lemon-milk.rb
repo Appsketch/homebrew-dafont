@@ -5,7 +5,6 @@ cask 'dafont-lemon-milk' do
     url 'http://dl.dafont.com/dl/?f=lemon_milk'
     name 'Lemon/Milk'
     homepage 'http://www.dafont.com/lemon-milk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LemonMilk.otf'
 end

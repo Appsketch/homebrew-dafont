@@ -5,7 +5,6 @@ cask 'dafont-lediz-st' do
     url 'http://dl.dafont.com/dl/?f=lediz_st'
     name 'Lediz ST'
     homepage 'http://www.dafont.com/lediz-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LediZ St.ttf'
 end

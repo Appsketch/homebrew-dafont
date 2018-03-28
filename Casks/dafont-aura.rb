@@ -5,7 +5,6 @@ cask 'dafont-aura' do
     url 'http://dl.dafont.com/dl/?f=aura'
     name 'Aura'
     homepage 'http://www.dafont.com/aura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aura.ttf'
 end

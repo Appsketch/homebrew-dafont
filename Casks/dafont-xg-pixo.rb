@@ -5,7 +5,6 @@ cask 'dafont-xg-pixo' do
     url 'http://dl.dafont.com/dl/?f=xg_pixo'
     name 'XG Pixo'
     homepage 'http://www.dafont.com/xg-pixo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XG-pixo.TTF'
 end

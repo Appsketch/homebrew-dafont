@@ -5,7 +5,6 @@ cask 'dafont-webby' do
     url 'http://dl.dafont.com/dl/?f=webby'
     name 'Webby'
     homepage 'http://www.dafont.com/webby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WebbyCaps.fon'
     font 'WebbySmall.fon'

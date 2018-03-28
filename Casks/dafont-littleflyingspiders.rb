@@ -5,7 +5,6 @@ cask 'dafont-littleflyingspiders' do
     url 'http://dl.dafont.com/dl/?f=littleflyingspiders'
     name 'Little Flying Spiders'
     homepage 'http://www.dafont.com/littleflyingspiders.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LittleFlyingSpiders.ttf'
 end

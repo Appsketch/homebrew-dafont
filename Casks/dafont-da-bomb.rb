@@ -5,7 +5,6 @@ cask 'dafont-da-bomb' do
     url 'http://dl.dafont.com/dl/?f=da_bomb'
     name 'Da Bomb'
     homepage 'http://www.dafont.com/da-bomb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DABOMB__.TTF'
 end

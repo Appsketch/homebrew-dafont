@@ -5,7 +5,6 @@ cask 'dafont-aniron' do
     url 'http://dl.dafont.com/dl/?f=aniron'
     name 'Aniron'
     homepage 'http://www.dafont.com/aniron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'anirb___.ttf'
     font 'anirm___.ttf'

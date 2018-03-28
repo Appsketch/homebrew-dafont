@@ -5,7 +5,6 @@ cask 'dafont-two-fingers-king' do
     url 'http://dl.dafont.com/dl/?f=two_fingers_king'
     name 'Two Fingers King'
     homepage 'http://www.dafont.com/two-fingers-king.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'two fingers king black.ttf'
     font 'Two fingers king light.ttf'

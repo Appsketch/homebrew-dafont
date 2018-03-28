@@ -5,7 +5,6 @@ cask 'dafont-candy-coloured-clown' do
     url 'http://dl.dafont.com/dl/?f=candy_coloured_clown'
     name 'Candy Coloured Clown'
     homepage 'http://www.dafont.com/candy-coloured-clown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CandyColouredClown.otf'
 end

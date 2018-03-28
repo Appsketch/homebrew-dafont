@@ -5,7 +5,6 @@ cask 'dafont-raven-slab' do
     url 'http://dl.dafont.com/dl/?f=raven_slab'
     name 'Raven Slab'
     homepage 'http://www.dafont.com/raven-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'raven_slab.ttf'
 end

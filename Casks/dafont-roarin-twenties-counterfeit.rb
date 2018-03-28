@@ -5,7 +5,6 @@ cask 'dafont-roarin-twenties-counterfeit' do
     url 'http://dl.dafont.com/dl/?f=roarin_twenties_counterfeit'
     name 'Roarin&#039; Twenties Counterfeit'
     homepage 'http://www.dafont.com/roarin-twenties-counterfeit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Roarin Twenties Counterfeit.ttf'
 end

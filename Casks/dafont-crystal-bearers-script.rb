@@ -5,7 +5,6 @@ cask 'dafont-crystal-bearers-script' do
     url 'http://dl.dafont.com/dl/?f=crystal_bearers_script'
     name 'Crystal Bearers Script'
     homepage 'http://www.dafont.com/crystal-bearers-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crystal_bearers.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kbyourejustmytype' do
     url 'http://dl.dafont.com/dl/?f=kbyourejustmytype'
     name 'KB You&#039;re Just My Type'
     homepage 'http://www.dafont.com/kbyourejustmytype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBYoureJustMyType.ttf'
     font 'KBYoureJustMyTypeThin.ttf'

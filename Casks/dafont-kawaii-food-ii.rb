@@ -5,7 +5,6 @@ cask 'dafont-kawaii-food-ii' do
     url 'http://dl.dafont.com/dl/?f=kawaii_food_ii'
     name 'Kawaii Food II'
     homepage 'http://www.dafont.com/kawaii-food-ii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kawaii Food Font II.ttf'
 end

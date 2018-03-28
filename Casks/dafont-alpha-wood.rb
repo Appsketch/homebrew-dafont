@@ -5,7 +5,6 @@ cask 'dafont-alpha-wood' do
     url 'http://dl.dafont.com/dl/?f=alpha_wood'
     name 'Alpha Wood'
     homepage 'http://www.dafont.com/alpha-wood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaWood.ttf'
 end

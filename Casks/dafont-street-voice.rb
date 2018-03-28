@@ -5,7 +5,6 @@ cask 'dafont-street-voice' do
     url 'http://dl.dafont.com/dl/?f=street_voice'
     name 'Street Voice!!'
     homepage 'http://www.dafont.com/street-voice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STRTVC.ttf'
 end

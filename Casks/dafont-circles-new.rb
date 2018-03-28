@@ -5,7 +5,6 @@ cask 'dafont-circles-new' do
     url 'http://dl.dafont.com/dl/?f=circles_new'
     name 'Circles New'
     homepage 'http://www.dafont.com/circles-new.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Circles_New.ttf'
 end

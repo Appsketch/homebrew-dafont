@@ -5,7 +5,6 @@ cask 'dafont-wrestling-logos' do
     url 'http://dl.dafont.com/dl/?f=wrestling_logos'
     name 'Pro Wrestling Logos'
     homepage 'http://www.dafont.com/wrestling-logos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pro_Wrestling_Logos.ttf'
 end

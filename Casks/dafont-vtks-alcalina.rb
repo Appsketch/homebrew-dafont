@@ -5,7 +5,6 @@ cask 'dafont-vtks-alcalina' do
     url 'http://dl.dafont.com/dl/?f=vtks_alcalina'
     name 'VTKS Alcalina'
     homepage 'http://www.dafont.com/vtks-alcalina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks alcalina.ttf'
 end

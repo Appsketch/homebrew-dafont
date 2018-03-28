@@ -5,7 +5,6 @@ cask 'dafont-homemade-robot' do
     url 'http://dl.dafont.com/dl/?f=homemade_robot'
     name 'Homemade Robot'
     homepage 'http://www.dafont.com/homemade-robot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Homev2.ttf'
     font 'Homev2c.ttf'

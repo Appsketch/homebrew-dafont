@@ -5,7 +5,6 @@ cask 'dafont-euclidcp' do
     url 'http://dl.dafont.com/dl/?f=euclidcp'
     name 'Euclid CP'
     homepage 'http://www.dafont.com/euclidcp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EuclidCP.otf'
 end

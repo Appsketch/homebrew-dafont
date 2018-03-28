@@ -5,7 +5,6 @@ cask 'dafont-outthebackdoor' do
     url 'http://dl.dafont.com/dl/?f=outthebackdoor'
     name 'Out The Back Door'
     homepage 'http://www.dafont.com/outthebackdoor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OutTheBackDoor.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gmdoodles-food' do
     url 'http://dl.dafont.com/dl/?f=gmdoodles_food'
     name 'GM Doodles Food'
     homepage 'http://www.dafont.com/gmdoodles-food.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GMDoodles_Food.ttf'
 end

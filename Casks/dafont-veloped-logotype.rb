@@ -5,7 +5,6 @@ cask 'dafont-veloped-logotype' do
     url 'http://dl.dafont.com/dl/?f=veloped_logotype'
     name 'Veloped Logotype'
     homepage 'http://www.dafont.com/veloped-logotype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Veloped.ttf'
 end

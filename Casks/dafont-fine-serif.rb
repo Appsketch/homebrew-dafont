@@ -5,7 +5,6 @@ cask 'dafont-fine-serif' do
     url 'http://dl.dafont.com/dl/?f=fine_serif'
     name 'Fine Serif'
     homepage 'http://www.dafont.com/fine-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fine Serif.ttf'
 end

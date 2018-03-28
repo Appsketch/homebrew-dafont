@@ -5,7 +5,6 @@ cask 'dafont-rabid-science' do
     url 'http://dl.dafont.com/dl/?f=rabid_science'
     name 'Rabid Science'
     homepage 'http://www.dafont.com/rabid-science.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rabid Science.ttf'
 end

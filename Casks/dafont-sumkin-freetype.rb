@@ -5,7 +5,6 @@ cask 'dafont-sumkin-freetype' do
     url 'http://dl.dafont.com/dl/?f=sumkin_freetype'
     name 'Sumkin Freetype'
     homepage 'http://www.dafont.com/sumkin-freetype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sumkin typeface.otf'
 end

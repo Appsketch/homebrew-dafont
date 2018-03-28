@@ -5,7 +5,6 @@ cask 'dafont-une-grenouille-le-soir' do
     url 'http://dl.dafont.com/dl/?f=une_grenouille_le_soir'
     name 'Une Grenouille Le Soir'
     homepage 'http://www.dafont.com/une-grenouille-le-soir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UNE GRENOUILLE LE SOIR.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rec-nb' do
     url 'http://dl.dafont.com/dl/?f=rec_nb'
     name 'Rec'
     homepage 'http://www.dafont.com/rec-nb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rec Bold.ttf'
     font 'rec.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-char-bb' do
     url 'http://dl.dafont.com/dl/?f=char_bb'
     name 'Char BB'
     homepage 'http://www.dafont.com/char-bb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'charbb_reg.ttf'
 end

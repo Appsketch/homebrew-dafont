@@ -5,7 +5,6 @@ cask 'dafont-kookie' do
     url 'http://dl.dafont.com/dl/?f=kookie'
     name 'Kookie'
     homepage 'http://www.dafont.com/kookie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kookie.ttf'
 end

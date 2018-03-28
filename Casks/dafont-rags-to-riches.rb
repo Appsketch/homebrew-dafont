@@ -5,7 +5,6 @@ cask 'dafont-rags-to-riches' do
     url 'http://dl.dafont.com/dl/?f=rags_to_riches'
     name 'Rags to Riches'
     homepage 'http://www.dafont.com/rags-to-riches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rags to Riches.ttf'
 end

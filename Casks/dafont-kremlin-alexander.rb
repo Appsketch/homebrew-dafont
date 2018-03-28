@@ -5,7 +5,6 @@ cask 'dafont-kremlin-alexander' do
     url 'http://dl.dafont.com/dl/?f=kremlin_alexander'
     name 'Kremlin Alexander'
     homepage 'http://www.dafont.com/kremlin-alexander.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Alexander.ttf'
 end

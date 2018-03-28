@@ -5,7 +5,6 @@ cask 'dafont-firestarter' do
     url 'http://dl.dafont.com/dl/?f=firestarter'
     name 'Firestarter'
     homepage 'http://www.dafont.com/firestarter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FIRESTARTER.TTF'
 end

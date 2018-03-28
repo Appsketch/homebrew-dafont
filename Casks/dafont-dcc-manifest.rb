@@ -5,7 +5,6 @@ cask 'dafont-dcc-manifest' do
     url 'http://dl.dafont.com/dl/?f=dcc_manifest'
     name 'DCC Manifest'
     homepage 'http://www.dafont.com/dcc-manifest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DCC - Manifest.otf'
 end

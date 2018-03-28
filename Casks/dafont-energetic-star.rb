@@ -5,7 +5,6 @@ cask 'dafont-energetic-star' do
     url 'http://dl.dafont.com/dl/?f=energetic_star'
     name 'Energetic Star'
     homepage 'http://www.dafont.com/energetic-star.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Energetic Star.otf'
 end

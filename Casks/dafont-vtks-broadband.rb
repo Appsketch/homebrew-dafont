@@ -5,7 +5,6 @@ cask 'dafont-vtks-broadband' do
     url 'http://dl.dafont.com/dl/?f=vtks_broadband'
     name 'Vtks Broadband'
     homepage 'http://www.dafont.com/vtks-broadband.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks Broadband.ttf'
 end

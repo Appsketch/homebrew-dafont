@@ -5,7 +5,6 @@ cask 'dafont-atari-kids' do
     url 'http://dl.dafont.com/dl/?f=atari_kids'
     name 'Atari Kids'
     homepage 'http://www.dafont.com/atari-kids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'atari-kids.ttf'
 end

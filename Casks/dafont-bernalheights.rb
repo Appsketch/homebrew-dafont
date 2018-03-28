@@ -5,7 +5,6 @@ cask 'dafont-bernalheights' do
     url 'http://dl.dafont.com/dl/?f=bernalheights'
     name 'Bernal Heights'
     homepage 'http://www.dafont.com/bernalheights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BernalHeights.ttf'
 end

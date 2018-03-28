@@ -5,7 +5,6 @@ cask 'dafont-admangraphics-auslan' do
     url 'http://dl.dafont.com/dl/?f=admangraphics_auslan'
     name 'AdmanGraphics Auslan'
     homepage 'http://www.dafont.com/admangraphics-auslan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AdmanGraphics_Auslan.ttf'
 end

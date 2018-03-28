@@ -5,7 +5,6 @@ cask 'dafont-mc-sweetie-hearts' do
     url 'http://dl.dafont.com/dl/?f=mc_sweetie_hearts'
     name 'MC Sweetie Hearts'
     homepage 'http://www.dafont.com/mc-sweetie-hearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FancyHeartScript.ttf'
 end

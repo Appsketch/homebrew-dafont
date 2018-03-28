@@ -5,7 +5,6 @@ cask 'dafont-shock-corridor' do
     url 'http://dl.dafont.com/dl/?f=shock_corridor'
     name 'Shock Corridor'
     homepage 'http://www.dafont.com/shock-corridor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShockCorridor-Regular.otf'
 end

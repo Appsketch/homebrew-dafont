@@ -5,7 +5,6 @@ cask 'dafont-mwbubbly' do
     url 'http://dl.dafont.com/dl/?f=mwbubbly'
     name 'MW Bubbly'
     homepage 'http://www.dafont.com/mwbubbly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MWBubbly.ttf'
 end

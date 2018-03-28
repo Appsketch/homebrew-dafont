@@ -5,7 +5,6 @@ cask 'dafont-fun-things' do
     url 'http://dl.dafont.com/dl/?f=fun_things'
     name 'Fun Things'
     homepage 'http://www.dafont.com/fun-things.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fun Things.otf'
 end

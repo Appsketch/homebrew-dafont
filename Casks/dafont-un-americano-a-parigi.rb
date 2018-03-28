@@ -5,7 +5,6 @@ cask 'dafont-un-americano-a-parigi' do
     url 'http://dl.dafont.com/dl/?f=un_americano_a_parigi'
     name 'Un Americano A Parigi'
     homepage 'http://www.dafont.com/un-americano-a-parigi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Un Americano a Parigi.otf'
 end

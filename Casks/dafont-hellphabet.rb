@@ -5,7 +5,6 @@ cask 'dafont-hellphabet' do
     url 'http://dl.dafont.com/dl/?f=hellphabet'
     name 'Hellphabet'
     homepage 'http://www.dafont.com/hellphabet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hellphabet.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tipo-carimbado' do
     url 'http://dl.dafont.com/dl/?f=tipo_carimbado'
     name 'Tipo Carimbado'
     homepage 'http://www.dafont.com/tipo-carimbado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tipocarimbado-Light.otf'
     font 'tipocarimbado-Regular.otf'

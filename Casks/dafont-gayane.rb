@@ -5,7 +5,6 @@ cask 'dafont-gayane' do
     url 'http://dl.dafont.com/dl/?f=gayane'
     name 'Gayane'
     homepage 'http://www.dafont.com/gayane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GAYANE.TTF'
 end

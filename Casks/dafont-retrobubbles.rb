@@ -5,7 +5,6 @@ cask 'dafont-retrobubbles' do
     url 'http://dl.dafont.com/dl/?f=retrobubbles'
     name 'Retro Bubbles'
     homepage 'http://www.dafont.com/retrobubbles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RetroBubbles.ttf'
 end

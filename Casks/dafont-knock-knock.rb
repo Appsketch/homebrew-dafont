@@ -5,7 +5,6 @@ cask 'dafont-knock-knock' do
     url 'http://dl.dafont.com/dl/?f=knock_knock'
     name 'Knock knock!'
     homepage 'http://www.dafont.com/knock-knock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Knock knock!.ttf'
 end

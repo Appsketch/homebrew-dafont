@@ -5,7 +5,6 @@ cask 'dafont-60sstripe' do
     url 'http://dl.dafont.com/dl/?f=60sstripe'
     name '60s Stripe'
     homepage 'http://www.dafont.com/60sstripe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '60sSTRIPE.otf'
 end

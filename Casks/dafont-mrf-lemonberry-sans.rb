@@ -5,7 +5,6 @@ cask 'dafont-mrf-lemonberry-sans' do
     url 'http://dl.dafont.com/dl/?f=mrf_lemonberry_sans'
     name 'MRF Lemonberry Sans'
     homepage 'http://www.dafont.com/mrf-lemonberry-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MRF Lemonberry Sans.otf'
 end

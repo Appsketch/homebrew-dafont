@@ -5,7 +5,6 @@ cask 'dafont-comic-book-fun' do
     url 'http://dl.dafont.com/dl/?f=comic_book_fun'
     name 'Comic Book Fun'
     homepage 'http://www.dafont.com/comic-book-fun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ComicBookFun-Regular_2.0.ttf'
 end

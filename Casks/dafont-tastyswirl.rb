@@ -5,7 +5,6 @@ cask 'dafont-tastyswirl' do
     url 'http://dl.dafont.com/dl/?f=tastyswirl'
     name 'Tasty Swirl'
     homepage 'http://www.dafont.com/tastyswirl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TastySwirl.ttf'
 end

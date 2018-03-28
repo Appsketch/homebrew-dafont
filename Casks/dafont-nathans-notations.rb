@@ -5,7 +5,6 @@ cask 'dafont-nathans-notations' do
     url 'http://dl.dafont.com/dl/?f=nathans_notations'
     name 'Nathan&#039;s Notations'
     homepage 'http://www.dafont.com/nathans-notations.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nathan s Notations.ttf'
 end

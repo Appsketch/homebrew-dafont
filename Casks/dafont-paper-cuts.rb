@@ -5,7 +5,6 @@ cask 'dafont-paper-cuts' do
     url 'http://dl.dafont.com/dl/?f=paper_cuts'
     name 'Paper Cuts 2'
     homepage 'http://www.dafont.com/paper-cuts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'papercuts-2.ttf'
 end

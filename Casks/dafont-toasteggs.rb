@@ -5,7 +5,6 @@ cask 'dafont-toasteggs' do
     url 'http://dl.dafont.com/dl/?f=toasteggs'
     name 'Toast Eggs'
     homepage 'http://www.dafont.com/toasteggs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ToastEggs.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-easy-3d' do
     url 'http://dl.dafont.com/dl/?f=easy_3d'
     name 'Easy 3D'
     homepage 'http://www.dafont.com/easy-3d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Easy 3D.ttf'
 end

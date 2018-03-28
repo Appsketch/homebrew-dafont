@@ -5,7 +5,6 @@ cask 'dafont-sessions' do
     url 'http://dl.dafont.com/dl/?f=sessions'
     name 'Sessions'
     homepage 'http://www.dafont.com/sessions.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sessions.ttf'
 end

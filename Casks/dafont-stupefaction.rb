@@ -5,7 +5,6 @@ cask 'dafont-stupefaction' do
     url 'http://dl.dafont.com/dl/?f=stupefaction'
     name 'Stupefaction'
     homepage 'http://www.dafont.com/stupefaction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stupefaction.ttf'
 end

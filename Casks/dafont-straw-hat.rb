@@ -5,7 +5,6 @@ cask 'dafont-straw-hat' do
     url 'http://dl.dafont.com/dl/?f=straw_hat'
     name 'Straw Hat'
     homepage 'http://www.dafont.com/straw-hat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STRAW HAT.ttf'
 end

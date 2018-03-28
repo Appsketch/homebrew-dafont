@@ -5,7 +5,6 @@ cask 'dafont-post-scriptum' do
     url 'http://dl.dafont.com/dl/?f=post_scriptum'
     name 'Post Scriptum'
     homepage 'http://www.dafont.com/post-scriptum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PostScriptum Light.ttf'
 end

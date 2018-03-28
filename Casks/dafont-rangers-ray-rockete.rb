@@ -5,7 +5,6 @@ cask 'dafont-rangers-ray-rockete' do
     url 'http://dl.dafont.com/dl/?f=rangers_ray_rockete'
     name 'Rangers Ray Rocketeers'
     homepage 'http://www.dafont.com/rangers-ray-rockete.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rangers_.ttf'
 end

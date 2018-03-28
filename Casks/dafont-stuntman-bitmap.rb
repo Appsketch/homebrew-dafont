@@ -5,7 +5,6 @@ cask 'dafont-stuntman-bitmap' do
     url 'http://dl.dafont.com/dl/?f=stuntman_bitmap'
     name 'Stuntman Bitmap'
     homepage 'http://www.dafont.com/stuntman-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STUNT2B.FON'
 end

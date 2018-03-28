@@ -5,7 +5,6 @@ cask 'dafont-randy-described-ete' do
     url 'http://dl.dafont.com/dl/?f=randy_described_ete'
     name 'Randy Described Eternity'
     homepage 'http://www.dafont.com/randy-described-ete.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'randyde-demo.ttf'
     font 'randydeclean-demo.ttf'

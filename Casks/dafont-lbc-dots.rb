@@ -5,7 +5,6 @@ cask 'dafont-lbc-dots' do
     url 'http://dl.dafont.com/dl/?f=lbc_dots'
     name 'LBC Dots'
     homepage 'http://www.dafont.com/lbc-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LBCDOTS.ttf'
 end

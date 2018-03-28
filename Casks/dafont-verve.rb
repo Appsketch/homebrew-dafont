@@ -5,7 +5,6 @@ cask 'dafont-verve' do
     url 'http://dl.dafont.com/dl/?f=verve'
     name 'Verve'
     homepage 'http://www.dafont.com/verve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Verve.ttf'
     font 'VerveAlternate.ttf'

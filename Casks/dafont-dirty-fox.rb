@@ -5,7 +5,6 @@ cask 'dafont-dirty-fox' do
     url 'http://dl.dafont.com/dl/?f=dirty_fox'
     name 'Dirty Fox'
     homepage 'http://www.dafont.com/dirty-fox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dirty Fox.ttf'
 end

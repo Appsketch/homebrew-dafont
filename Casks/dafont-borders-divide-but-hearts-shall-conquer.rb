@@ -5,7 +5,6 @@ cask 'dafont-borders-divide-but-hearts-shall-conquer' do
     url 'http://dl.dafont.com/dl/?f=borders_divide_but_hearts_shall_conquer'
     name 'Borders Divide, But Hearts Shall Conquer'
     homepage 'http://www.dafont.com/borders-divide-but-hearts-shall-conquer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Borders Divide, But Hearts Shall Conquer.ttf'
 end

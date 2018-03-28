@@ -5,7 +5,6 @@ cask 'dafont-arpoador' do
     url 'http://dl.dafont.com/dl/?f=arpoador'
     name 'Arpoador'
     homepage 'http://www.dafont.com/arpoador.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arpoador.otf'
 end

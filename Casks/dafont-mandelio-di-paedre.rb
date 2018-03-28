@@ -5,7 +5,6 @@ cask 'dafont-mandelio-di-paedre' do
     url 'http://dl.dafont.com/dl/?f=mandelio_di_paedre'
     name 'Mandelio Di Paedre'
     homepage 'http://www.dafont.com/mandelio-di-paedre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mandelio Di Paedre.ttf'
 end

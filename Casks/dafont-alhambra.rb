@@ -5,7 +5,6 @@ cask 'dafont-alhambra' do
     url 'http://dl.dafont.com/dl/?f=alhambra'
     name 'Alhambra'
     homepage 'http://www.dafont.com/alhambra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALHAD___.TTF'
     font 'ALHAMBRA.TTF'

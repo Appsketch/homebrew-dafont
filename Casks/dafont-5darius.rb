@@ -5,7 +5,6 @@ cask 'dafont-5darius' do
     url 'http://dl.dafont.com/dl/?f=5darius'
     name '5 Darius '
     homepage 'http://www.dafont.com/5darius.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5darius_.ttf'
 end

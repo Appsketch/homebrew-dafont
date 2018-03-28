@@ -5,7 +5,6 @@ cask 'dafont-peacock' do
     url 'http://dl.dafont.com/dl/?f=peacock'
     name 'Peacock'
     homepage 'http://www.dafont.com/peacock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PEACOCK DEMO normal.otf'
 end

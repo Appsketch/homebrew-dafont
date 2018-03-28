@@ -5,7 +5,6 @@ cask 'dafont-kensuco-stencil-g' do
     url 'http://dl.dafont.com/dl/?f=kensuco_stencil_g'
     name 'Kensuco Stencil G'
     homepage 'http://www.dafont.com/kensuco-stencil-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_kensuco_stencil.ttf'
 end

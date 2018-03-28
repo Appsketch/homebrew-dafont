@@ -5,7 +5,6 @@ cask 'dafont-nouveau-never-dies-free' do
     url 'http://dl.dafont.com/dl/?f=nouveau_never_dies_free'
     name 'Nouveau Never Dies'
     homepage 'http://www.dafont.com/nouveau-never-dies-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nouveau Never Dies Free.ttf'
 end

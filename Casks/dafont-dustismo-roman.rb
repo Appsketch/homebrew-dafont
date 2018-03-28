@@ -5,7 +5,6 @@ cask 'dafont-dustismo-roman' do
     url 'http://dl.dafont.com/dl/?f=dustismo_roman'
     name 'Dustismo Roman'
     homepage 'http://www.dafont.com/dustismo-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dustismo_Roman_Bold.ttf'
     font 'Dustismo_Roman_Italic_Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-ultrabeams' do
     url 'http://dl.dafont.com/dl/?f=ultrabeams'
     name 'Ultra Beams'
     homepage 'http://www.dafont.com/ultrabeams.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UltraBeams.ttf'
 end

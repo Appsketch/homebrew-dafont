@@ -5,7 +5,6 @@ cask 'dafont-noahs-ark' do
     url 'http://dl.dafont.com/dl/?f=noahs_ark'
     name 'Noah&#039;s Ark'
     homepage 'http://www.dafont.com/noahs-ark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Noahs Ark.ttf'
 end

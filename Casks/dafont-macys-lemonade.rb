@@ -5,7 +5,6 @@ cask 'dafont-macys-lemonade' do
     url 'http://dl.dafont.com/dl/?f=macys_lemonade'
     name 'Macy&#039;s lemonade'
     homepage 'http://www.dafont.com/macys-lemonade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Macy&#039;s lemonade.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tarkista-tiedot' do
     url 'http://dl.dafont.com/dl/?f=tarkista_tiedot'
     name 'Tarkista Tiedot'
     homepage 'http://www.dafont.com/tarkista-tiedot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tarkista tiedot.ttf'
 end

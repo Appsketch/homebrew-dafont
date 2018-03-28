@@ -5,7 +5,6 @@ cask 'dafont-cantzley-ad1600' do
     url 'http://dl.dafont.com/dl/?f=cantzley_ad1600'
     name 'Cantzley AD1600'
     homepage 'http://www.dafont.com/cantzley-ad1600.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CantzleyAD1600.ttf'
 end

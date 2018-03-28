@@ -5,7 +5,6 @@ cask 'dafont-kbcallme' do
     url 'http://dl.dafont.com/dl/?f=kbcallme'
     name 'KB Call Me'
     homepage 'http://www.dafont.com/kbcallme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBCallMe.ttf'
 end

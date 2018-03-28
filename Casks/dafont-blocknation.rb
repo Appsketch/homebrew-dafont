@@ -5,7 +5,6 @@ cask 'dafont-blocknation' do
     url 'http://dl.dafont.com/dl/?f=blocknation'
     name 'Blocknation'
     homepage 'http://www.dafont.com/blocknation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blocknation.ttf'
 end

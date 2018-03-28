@@ -5,7 +5,6 @@ cask 'dafont-rainstorms-in-july' do
     url 'http://dl.dafont.com/dl/?f=rainstorms_in_july'
     name 'Rainstorms in July'
     homepage 'http://www.dafont.com/rainstorms-in-july.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rainstorms in July.ttf'
 end

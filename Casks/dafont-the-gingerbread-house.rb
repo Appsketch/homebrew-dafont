@@ -5,7 +5,6 @@ cask 'dafont-the-gingerbread-house' do
     url 'http://dl.dafont.com/dl/?f=the_gingerbread_house'
     name 'The Gingerbread House'
     homepage 'http://www.dafont.com/the-gingerbread-house.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gingerbread House.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-brunobook' do
     url 'http://dl.dafont.com/dl/?f=brunobook'
     name 'Bruno Book'
     homepage 'http://www.dafont.com/brunobook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BBOOKTRIAL.ttf'
 end

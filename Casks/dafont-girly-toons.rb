@@ -5,7 +5,6 @@ cask 'dafont-girly-toons' do
     url 'http://dl.dafont.com/dl/?f=girly_toons'
     name 'Girly Toons'
     homepage 'http://www.dafont.com/girly-toons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Girly Toons.ttf'
 end

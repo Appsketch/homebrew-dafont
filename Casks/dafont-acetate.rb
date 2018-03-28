@@ -5,7 +5,6 @@ cask 'dafont-acetate' do
     url 'http://dl.dafont.com/dl/?f=acetate'
     name 'Acetate'
     homepage 'http://www.dafont.com/acetate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Acetate.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-virmeen-tkirrrl' do
     url 'http://dl.dafont.com/dl/?f=virmeen_tkirrrl'
     name 'Virmeen T&#039;kirrrl'
     homepage 'http://www.dafont.com/virmeen-tkirrrl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'virmeent kirrrl.ttf'
 end

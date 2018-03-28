@@ -5,7 +5,6 @@ cask 'dafont-time-to-scribble' do
     url 'http://dl.dafont.com/dl/?f=time_to_scribble'
     name 'Time To Scribble'
     homepage 'http://www.dafont.com/time-to-scribble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Time To Scribble.ttf'
 end

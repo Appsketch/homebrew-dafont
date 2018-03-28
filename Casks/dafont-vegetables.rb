@@ -5,7 +5,6 @@ cask 'dafont-vegetables' do
     url 'http://dl.dafont.com/dl/?f=vegetables'
     name 'Vegetables'
     homepage 'http://www.dafont.com/vegetables.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vegetables.ttf'
 end

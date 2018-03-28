@@ -5,7 +5,6 @@ cask 'dafont-our-arcade-games' do
     url 'http://dl.dafont.com/dl/?f=our_arcade_games'
     name 'Our Arcade Games'
     homepage 'http://www.dafont.com/our-arcade-games.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Our-Arcade-Games.ttf'
 end

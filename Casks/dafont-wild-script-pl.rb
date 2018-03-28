@@ -5,7 +5,6 @@ cask 'dafont-wild-script-pl' do
     url 'http://dl.dafont.com/dl/?f=wild_script_pl'
     name 'Wild Script'
     homepage 'http://www.dafont.com/wild-script-pl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wild Script.ttf'
 end

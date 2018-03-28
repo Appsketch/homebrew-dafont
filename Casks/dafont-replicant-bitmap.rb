@@ -5,7 +5,6 @@ cask 'dafont-replicant-bitmap' do
     url 'http://dl.dafont.com/dl/?f=replicant_bitmap'
     name 'Replicant Bitmap'
     homepage 'http://www.dafont.com/replicant-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REPBIT.FON'
 end

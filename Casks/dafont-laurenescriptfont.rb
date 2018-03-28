@@ -5,7 +5,6 @@ cask 'dafont-laurenescriptfont' do
     url 'http://dl.dafont.com/dl/?f=laurenescriptfont'
     name 'Laurene Script '
     homepage 'http://www.dafont.com/laurenescriptfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaureneScriptFont.ttf'
 end

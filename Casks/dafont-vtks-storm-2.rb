@@ -5,7 +5,6 @@ cask 'dafont-vtks-storm-2' do
     url 'http://dl.dafont.com/dl/?f=vtks_storm_2'
     name 'Vtks Storm 2'
     homepage 'http://www.dafont.com/vtks-storm-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks storm 2.ttf'
 end

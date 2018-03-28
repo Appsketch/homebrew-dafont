@@ -5,7 +5,6 @@ cask 'dafont-opus-magnus' do
     url 'http://dl.dafont.com/dl/?f=opus_magnus'
     name 'Opus Magnus'
     homepage 'http://www.dafont.com/opus-magnus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'opusmagnus.ttf'
     font 'opusmagnuscond.ttf'

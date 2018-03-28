@@ -5,7 +5,6 @@ cask 'dafont-blooky' do
     url 'http://dl.dafont.com/dl/?f=blooky'
     name 'Blooky'
     homepage 'http://www.dafont.com/blooky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blooky.ttf'
 end

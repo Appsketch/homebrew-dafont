@@ -5,7 +5,6 @@ cask 'dafont-jakejarkor-craneo' do
     url 'http://dl.dafont.com/dl/?f=jakejarkor_craneo'
     name 'Jakejarkor Craneo'
     homepage 'http://www.dafont.com/jakejarkor-craneo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JAKEJARKOR - CRANEO.ttf'
 end

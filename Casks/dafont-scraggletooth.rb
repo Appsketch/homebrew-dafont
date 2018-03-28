@@ -5,7 +5,6 @@ cask 'dafont-scraggletooth' do
     url 'http://dl.dafont.com/dl/?f=scraggletooth'
     name 'Scraggletooth'
     homepage 'http://www.dafont.com/scraggletooth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scraggletooth.ttf'
 end

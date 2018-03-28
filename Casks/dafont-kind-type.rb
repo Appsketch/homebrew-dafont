@@ -5,7 +5,6 @@ cask 'dafont-kind-type' do
     url 'http://dl.dafont.com/dl/?f=kind_type'
     name 'Kind Type'
     homepage 'http://www.dafont.com/kind-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kind-Type_beta-01.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-santas-sleigh' do
     url 'http://dl.dafont.com/dl/?f=santas_sleigh'
     name 'Santa&#039;s Sleigh'
     homepage 'http://www.dafont.com/santas-sleigh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SantasSleighFull Bold.ttf'
     font 'SantasSleighFull Deluxe.ttf'

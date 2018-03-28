@@ -5,7 +5,6 @@ cask 'dafont-cf-disappointed' do
     url 'http://dl.dafont.com/dl/?f=cf_disappointed'
     name 'CF Disappointed'
     homepage 'http://www.dafont.com/cf-disappointed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFDisappointed-Regular.ttf'
 end

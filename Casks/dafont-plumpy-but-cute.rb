@@ -5,7 +5,6 @@ cask 'dafont-plumpy-but-cute' do
     url 'http://dl.dafont.com/dl/?f=plumpy_but_cute'
     name 'Plumpy But Cute'
     homepage 'http://www.dafont.com/plumpy-but-cute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plumpy But Cute.ttf'
 end

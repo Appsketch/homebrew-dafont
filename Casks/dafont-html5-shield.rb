@@ -5,7 +5,6 @@ cask 'dafont-html5-shield' do
     url 'http://dl.dafont.com/dl/?f=html5_shield'
     name 'HTML5 Shield'
     homepage 'http://www.dafont.com/html5-shield.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'html5_shield.ttf'
 end

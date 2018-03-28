@@ -5,7 +5,6 @@ cask 'dafont-emileecaps' do
     url 'http://dl.dafont.com/dl/?f=emileecaps'
     name 'Emilee Caps'
     homepage 'http://www.dafont.com/emileecaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EmileeCaps.ttf'
 end

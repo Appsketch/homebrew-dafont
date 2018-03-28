@@ -5,7 +5,6 @@ cask 'dafont-praetorian' do
     url 'http://dl.dafont.com/dl/?f=praetorian'
     name 'Praetorian'
     homepage 'http://www.dafont.com/praetorian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'praetorian.ttf'
     font 'praetorian3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-handergus' do
     url 'http://dl.dafont.com/dl/?f=handergus'
     name 'Handergus'
     homepage 'http://www.dafont.com/handergus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Handergus.ttf'
 end

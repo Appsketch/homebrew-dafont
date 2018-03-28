@@ -5,7 +5,6 @@ cask 'dafont-epistolar' do
     url 'http://dl.dafont.com/dl/?f=epistolar'
     name 'Epistolar'
     homepage 'http://www.dafont.com/epistolar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Epistolar.ttf'
 end

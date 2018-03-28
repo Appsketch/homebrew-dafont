@@ -5,7 +5,6 @@ cask 'dafont-ilostitinthestreet' do
     url 'http://dl.dafont.com/dl/?f=ilostitinthestreet'
     name 'I Lost It In The Street'
     homepage 'http://www.dafont.com/ilostitinthestreet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ILostItInTheStreet.ttf'
 end

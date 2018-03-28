@@ -5,7 +5,6 @@ cask 'dafont-niiiii-trous' do
     url 'http://dl.dafont.com/dl/?f=niiiii_trous'
     name 'Niiiii-trous'
     homepage 'http://www.dafont.com/niiiii-trous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Niiiii-trous.ttf'
 end

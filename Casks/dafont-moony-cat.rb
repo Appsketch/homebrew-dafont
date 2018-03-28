@@ -5,7 +5,6 @@ cask 'dafont-moony-cat' do
     url 'http://dl.dafont.com/dl/?f=moony_cat'
     name 'Moony Cat'
     homepage 'http://www.dafont.com/moony-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOONYCAT.TTF'
 end

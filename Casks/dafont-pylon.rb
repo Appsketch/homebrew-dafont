@@ -5,7 +5,6 @@ cask 'dafont-pylon' do
     url 'http://dl.dafont.com/dl/?f=pylon'
     name 'Pylon'
     homepage 'http://www.dafont.com/pylon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pylon-wide.ttf'
     font 'pylon.ttf'

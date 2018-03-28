@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-flowers-2' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_flowers_2'
     name 'AlphaShapes Flowers 2'
     homepage 'http://www.dafont.com/alphashapes-flowers-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asflowers2.ttf'
 end

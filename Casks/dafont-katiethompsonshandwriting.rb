@@ -5,7 +5,6 @@ cask 'dafont-katiethompsonshandwriting' do
     url 'http://dl.dafont.com/dl/?f=katiethompsonshandwriting'
     name 'Katie Thompsons Handwriting'
     homepage 'http://www.dafont.com/katiethompsonshandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KatieThompsonsHandwriting.ttf'
 end

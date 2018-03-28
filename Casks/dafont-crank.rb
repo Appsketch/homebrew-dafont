@@ -5,7 +5,6 @@ cask 'dafont-crank' do
     url 'http://dl.dafont.com/dl/?f=crank'
     name 'Crank'
     homepage 'http://www.dafont.com/crank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRANK___.TTF'
 end

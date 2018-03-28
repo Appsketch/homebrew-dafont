@@ -5,7 +5,6 @@ cask 'dafont-voortrekker' do
     url 'http://dl.dafont.com/dl/?f=voortrekker'
     name 'Voortrekker '
     homepage 'http://www.dafont.com/voortrekker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'voortrekker.ttf'
     font 'voortrekker3d.ttf'

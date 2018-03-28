@@ -5,7 +5,6 @@ cask 'dafont-spazzz-caps' do
     url 'http://dl.dafont.com/dl/?f=spazzz_caps'
     name 'Spazzz Caps'
     homepage 'http://www.dafont.com/spazzz-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPAZC___.TTF'
 end

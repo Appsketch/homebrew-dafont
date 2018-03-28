@@ -5,7 +5,6 @@ cask 'dafont-quastic-kaps' do
     url 'http://dl.dafont.com/dl/?f=quastic_kaps'
     name 'Quastic Kaps'
     homepage 'http://www.dafont.com/quastic-kaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUASIK__.ttf'
     font 'QUASIKL_.ttf'

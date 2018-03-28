@@ -5,7 +5,6 @@ cask 'dafont-handnegativ' do
     url 'http://dl.dafont.com/dl/?f=handnegativ'
     name 'HandNegativ'
     homepage 'http://www.dafont.com/handnegativ.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HandNegativ.ttf'
 end

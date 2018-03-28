@@ -5,7 +5,6 @@ cask 'dafont-kingthings-wrote' do
     url 'http://dl.dafont.com/dl/?f=kingthings_wrote'
     name 'Kingthings Wrote'
     homepage 'http://www.dafont.com/kingthings-wrote.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Wrote.ttf'
 end

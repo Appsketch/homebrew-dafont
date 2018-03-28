@@ -5,7 +5,6 @@ cask 'dafont-pistol-grip-pump' do
     url 'http://dl.dafont.com/dl/?f=pistol_grip_pump'
     name 'Pistol Grip Pump'
     homepage 'http://www.dafont.com/pistol-grip-pump.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PistolGripPump.ttf'
 end

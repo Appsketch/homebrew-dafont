@@ -5,7 +5,6 @@ cask 'dafont-u-s-101' do
     url 'http://dl.dafont.com/dl/?f=u_s_101'
     name 'U.S. 101'
     homepage 'http://www.dafont.com/u-s-101.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'US101.TTF'
 end

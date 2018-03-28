@@ -5,7 +5,6 @@ cask 'dafont-file-types' do
     url 'http://dl.dafont.com/dl/?f=file_types'
     name 'File Types'
     homepage 'http://www.dafont.com/file-types.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'File Types.ttf'
 end

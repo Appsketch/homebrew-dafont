@@ -5,7 +5,6 @@ cask 'dafont-paper-cube' do
     url 'http://dl.dafont.com/dl/?f=paper_cube'
     name 'Paper Cube'
     homepage 'http://www.dafont.com/paper-cube.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaperCube-Box.otf'
     font 'PaperCube-Cube.otf'

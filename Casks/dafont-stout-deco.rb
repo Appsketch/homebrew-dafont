@@ -5,7 +5,6 @@ cask 'dafont-stout-deco' do
     url 'http://dl.dafont.com/dl/?f=stout_deco'
     name 'Stout Deco'
     homepage 'http://www.dafont.com/stout-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NotSoStoutDeco.ttf'
     font 'StoutDeco.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-bdrouen' do
     url 'http://dl.dafont.com/dl/?f=bdrouen'
     name 'BD Rouen'
     homepage 'http://www.dafont.com/bdrouen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDRouen.ttf'
 end

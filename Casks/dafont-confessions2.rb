@@ -5,7 +5,6 @@ cask 'dafont-confessions2' do
     url 'http://dl.dafont.com/dl/?f=confessions2'
     name 'Confessions'
     homepage 'http://www.dafont.com/confessions2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Confessions WITHOUT ACCENTS (TrueType).ttf'
 end

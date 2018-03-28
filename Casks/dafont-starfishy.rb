@@ -5,7 +5,6 @@ cask 'dafont-starfishy' do
     url 'http://dl.dafont.com/dl/?f=starfishy'
     name 'Star Fishy'
     homepage 'http://www.dafont.com/starfishy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StarFishy.ttf'
 end

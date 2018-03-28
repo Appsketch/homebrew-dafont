@@ -5,7 +5,6 @@ cask 'dafont-reclamare' do
     url 'http://dl.dafont.com/dl/?f=reclamare'
     name 'Reclamare'
     homepage 'http://www.dafont.com/reclamare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reclamare.ttf'
 end

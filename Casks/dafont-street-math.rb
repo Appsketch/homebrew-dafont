@@ -5,7 +5,6 @@ cask 'dafont-street-math' do
     url 'http://dl.dafont.com/dl/?f=street_math'
     name 'Street Math'
     homepage 'http://www.dafont.com/street-math.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Street-Math.ttf'
 end

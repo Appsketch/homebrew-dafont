@@ -5,7 +5,6 @@ cask 'dafont-negada' do
     url 'http://dl.dafont.com/dl/?f=negada'
     name 'Negada'
     homepage 'http://www.dafont.com/negada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Negada.TTF'
 end

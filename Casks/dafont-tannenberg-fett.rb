@@ -5,7 +5,6 @@ cask 'dafont-tannenberg-fett' do
     url 'http://dl.dafont.com/dl/?f=tannenberg_fett'
     name 'Tannenberg Fett'
     homepage 'http://www.dafont.com/tannenberg-fett.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TannenbergFett.ttf'
 end

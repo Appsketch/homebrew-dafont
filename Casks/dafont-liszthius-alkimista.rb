@@ -5,7 +5,6 @@ cask 'dafont-liszthius-alkimista' do
     url 'http://dl.dafont.com/dl/?f=liszthius_alkimista'
     name 'Liszthius-Alkimista'
     homepage 'http://www.dafont.com/liszthius-alkimista.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Liszthius-Alkimista.otf'
 end

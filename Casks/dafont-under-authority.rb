@@ -5,7 +5,6 @@ cask 'dafont-under-authority' do
     url 'http://dl.dafont.com/dl/?f=under_authority'
     name 'Under Authority'
     homepage 'http://www.dafont.com/under-authority.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UnderAuthority.ttf'
 end

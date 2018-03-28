@@ -5,7 +5,6 @@ cask 'dafont-liner-bmp14' do
     url 'http://dl.dafont.com/dl/?f=liner_bmp14'
     name 'Liner BMP14'
     homepage 'http://www.dafont.com/liner-bmp14.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'liner BMP14.TTF'
 end

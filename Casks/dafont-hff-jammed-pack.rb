@@ -5,7 +5,6 @@ cask 'dafont-hff-jammed-pack' do
     url 'http://dl.dafont.com/dl/?f=hff_jammed_pack'
     name 'HFF Jammed Pack'
     homepage 'http://www.dafont.com/hff-jammed-pack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Jammed Pack.ttf'
 end

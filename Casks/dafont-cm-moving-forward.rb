@@ -5,7 +5,6 @@ cask 'dafont-cm-moving-forward' do
     url 'http://dl.dafont.com/dl/?f=cm_moving_forward'
     name 'CM Moving Forward'
     homepage 'http://www.dafont.com/cm-moving-forward.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM Moving Forward.ttf'
 end

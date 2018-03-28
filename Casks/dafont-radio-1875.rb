@@ -5,7 +5,6 @@ cask 'dafont-radio-1875' do
     url 'http://dl.dafont.com/dl/?f=radio_1875'
     name 'Radio 1875'
     homepage 'http://www.dafont.com/radio-1875.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'radio1875_Bold.ttf'
     font 'radio1875_Outlined.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-spidershank' do
     url 'http://dl.dafont.com/dl/?f=spidershank'
     name 'Spidershank'
     homepage 'http://www.dafont.com/spidershank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPIDERSH.TTF'
 end

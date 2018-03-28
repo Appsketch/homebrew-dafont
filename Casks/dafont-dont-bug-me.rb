@@ -5,7 +5,6 @@ cask 'dafont-dont-bug-me' do
     url 'http://dl.dafont.com/dl/?f=dont_bug_me'
     name 'Don&#039;t Bug Me'
     homepage 'http://www.dafont.com/dont-bug-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DNTBUGME.TTF'
 end

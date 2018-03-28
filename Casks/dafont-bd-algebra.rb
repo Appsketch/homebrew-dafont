@@ -5,7 +5,6 @@ cask 'dafont-bd-algebra' do
     url 'http://dl.dafont.com/dl/?f=bd_algebra'
     name 'BD Algebra'
     homepage 'http://www.dafont.com/bd-algebra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BD_Algebra_minus.otf'
     font 'BD_Algebra_plus.otf'

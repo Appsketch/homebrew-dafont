@@ -5,7 +5,6 @@ cask 'dafont-cabriolet' do
     url 'http://dl.dafont.com/dl/?f=cabriolet'
     name 'Cabriolet'
     homepage 'http://www.dafont.com/cabriolet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CABRIOLET.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-destinys-easter' do
     url 'http://dl.dafont.com/dl/?f=destinys_easter'
     name 'Destiny&#039;s Easter Dings'
     homepage 'http://www.dafont.com/destinys-easter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DESTED__.TTF'
 end

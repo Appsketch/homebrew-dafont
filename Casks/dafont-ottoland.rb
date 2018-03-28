@@ -5,7 +5,6 @@ cask 'dafont-ottoland' do
     url 'http://dl.dafont.com/dl/?f=ottoland'
     name 'Otto Land'
     homepage 'http://www.dafont.com/ottoland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OttoLand.ttf'
 end

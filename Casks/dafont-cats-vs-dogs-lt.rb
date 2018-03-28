@@ -5,7 +5,6 @@ cask 'dafont-cats-vs-dogs-lt' do
     url 'http://dl.dafont.com/dl/?f=cats_vs_dogs_lt'
     name 'Cats vs Dogs LT'
     homepage 'http://www.dafont.com/cats-vs-dogs-lt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'catsvsdogsLT.ttf'
 end

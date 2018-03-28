@@ -5,7 +5,6 @@ cask 'dafont-7-segmental-digital-display' do
     url 'http://dl.dafont.com/dl/?f=7_segmental_digital_display'
     name '7 Segmental Digital Display'
     homepage 'http://www.dafont.com/7-segmental-digital-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '7SDD.TTF'
 end

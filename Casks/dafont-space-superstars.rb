@@ -5,7 +5,6 @@ cask 'dafont-space-superstars' do
     url 'http://dl.dafont.com/dl/?f=space_superstars'
     name 'Space Superstars'
     homepage 'http://www.dafont.com/space-superstars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Space Superstars.otf'
 end

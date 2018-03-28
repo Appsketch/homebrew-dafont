@@ -5,7 +5,6 @@ cask 'dafont-minusio' do
     url 'http://dl.dafont.com/dl/?f=minusio'
     name 'Minusio'
     homepage 'http://www.dafont.com/minusio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minusio.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-adventure-alphabet' do
     url 'http://dl.dafont.com/dl/?f=adventure_alphabet'
     name 'Adventure Alphabet'
     homepage 'http://www.dafont.com/adventure-alphabet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adventure Alphabet.ttf'
 end

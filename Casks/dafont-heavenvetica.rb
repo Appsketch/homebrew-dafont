@@ -5,7 +5,6 @@ cask 'dafont-heavenvetica' do
     url 'http://dl.dafont.com/dl/?f=heavenvetica'
     name 'Heavenvetica'
     homepage 'http://www.dafont.com/heavenvetica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heavenvetica.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blackwidow' do
     url 'http://dl.dafont.com/dl/?f=blackwidow'
     name 'Black Widow'
     homepage 'http://www.dafont.com/blackwidow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackWidow.ttf'
 end

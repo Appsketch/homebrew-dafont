@@ -5,7 +5,6 @@ cask 'dafont-sigs' do
     url 'http://dl.dafont.com/dl/?f=sigs'
     name 'Sigs'
     homepage 'http://www.dafont.com/sigs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sigs.ttf'
 end

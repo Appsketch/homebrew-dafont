@@ -5,7 +5,6 @@ cask 'dafont-manta-ray' do
     url 'http://dl.dafont.com/dl/?f=manta_ray'
     name 'Manta Ray'
     homepage 'http://www.dafont.com/manta-ray.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '{Manta Ray}.ttf'
 end

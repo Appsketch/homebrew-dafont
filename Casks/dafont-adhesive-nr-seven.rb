@@ -5,7 +5,6 @@ cask 'dafont-adhesive-nr-seven' do
     url 'http://dl.dafont.com/dl/?f=adhesive_nr_seven'
     name 'Adhesive Nr. Seven'
     homepage 'http://www.dafont.com/adhesive-nr-seven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AdhesiveNrSevenBanners.ttf'
 end

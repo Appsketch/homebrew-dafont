@@ -5,7 +5,6 @@ cask 'dafont-penis2' do
     url 'http://dl.dafont.com/dl/?f=penis2'
     name 'Penis'
     homepage 'http://www.dafont.com/penis2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'penis.ttf'
 end

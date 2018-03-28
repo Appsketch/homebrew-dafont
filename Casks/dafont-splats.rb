@@ -5,7 +5,6 @@ cask 'dafont-splats' do
     url 'http://dl.dafont.com/dl/?f=splats'
     name 'Splats'
     homepage 'http://www.dafont.com/splats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPLATS.TTF'
 end

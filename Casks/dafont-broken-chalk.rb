@@ -5,7 +5,6 @@ cask 'dafont-broken-chalk' do
     url 'http://dl.dafont.com/dl/?f=broken_chalk'
     name 'Broken Chalk'
     homepage 'http://www.dafont.com/broken-chalk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BrokenChalk.ttf'
 end

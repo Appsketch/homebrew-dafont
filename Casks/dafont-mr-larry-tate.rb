@@ -5,7 +5,6 @@ cask 'dafont-mr-larry-tate' do
     url 'http://dl.dafont.com/dl/?f=mr_larry_tate'
     name 'Mr. Larry Tate'
     homepage 'http://www.dafont.com/mr-larry-tate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mister_tate.ttf'
 end

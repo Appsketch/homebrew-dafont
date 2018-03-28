@@ -5,7 +5,6 @@ cask 'dafont-over-the-sky' do
     url 'http://dl.dafont.com/dl/?f=over_the_sky'
     name 'Over The Sky'
     homepage 'http://www.dafont.com/over-the-sky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OVER THE SKY.ttf'
 end

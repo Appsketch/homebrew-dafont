@@ -5,7 +5,6 @@ cask 'dafont-pr-columban' do
     url 'http://dl.dafont.com/dl/?f=pr_columban'
     name 'PR Columban'
     homepage 'http://www.dafont.com/pr-columban.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PR-Columban-Demo.ttf'
 end

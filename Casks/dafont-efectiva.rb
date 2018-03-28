@@ -5,7 +5,6 @@ cask 'dafont-efectiva' do
     url 'http://dl.dafont.com/dl/?f=efectiva'
     name 'Efectiva'
     homepage 'http://www.dafont.com/efectiva.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EFECTIVA.ttf'
 end

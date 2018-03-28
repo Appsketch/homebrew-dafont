@@ -5,7 +5,6 @@ cask 'dafont-sans-serif-shaded' do
     url 'http://dl.dafont.com/dl/?f=sans_serif_shaded'
     name 'Sans Serif Shaded'
     homepage 'http://www.dafont.com/sans-serif-shaded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SansSerifShaded.ttf'
 end

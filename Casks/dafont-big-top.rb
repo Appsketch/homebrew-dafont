@@ -5,7 +5,6 @@ cask 'dafont-big-top' do
     url 'http://dl.dafont.com/dl/?f=big_top'
     name 'Big Top'
     homepage 'http://www.dafont.com/big-top.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIGTOP__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-born-addict' do
     url 'http://dl.dafont.com/dl/?f=born_addict'
     name 'Born Addict'
     homepage 'http://www.dafont.com/born-addict.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BornAddict.ttf'
 end

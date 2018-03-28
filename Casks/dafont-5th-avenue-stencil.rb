@@ -5,7 +5,6 @@ cask 'dafont-5th-avenue-stencil' do
     url 'http://dl.dafont.com/dl/?f=5th_avenue_stencil'
     name '5th Avenue Stencil'
     homepage 'http://www.dafont.com/5th-avenue-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5TH AVENUE STENCIL.ttf'
 end

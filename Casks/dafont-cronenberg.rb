@@ -5,7 +5,6 @@ cask 'dafont-cronenberg' do
     url 'http://dl.dafont.com/dl/?f=cronenberg'
     name 'Cronenberg'
     homepage 'http://www.dafont.com/cronenberg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cronenberg.ttf'
 end

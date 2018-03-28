@@ -5,7 +5,6 @@ cask 'dafont-mintgreenlaces' do
     url 'http://dl.dafont.com/dl/?f=mintgreenlaces'
     name 'Mint Greenlaces'
     homepage 'http://www.dafont.com/mintgreenlaces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MintGreenlaces.ttf'
 end

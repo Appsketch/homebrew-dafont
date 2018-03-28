@@ -5,7 +5,6 @@ cask 'dafont-neonic' do
     url 'http://dl.dafont.com/dl/?f=neonic'
     name 'Neonic'
     homepage 'http://www.dafont.com/neonic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'neonic.ttf'
 end

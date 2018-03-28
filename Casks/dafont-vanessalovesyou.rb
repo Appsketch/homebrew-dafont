@@ -5,7 +5,6 @@ cask 'dafont-vanessalovesyou' do
     url 'http://dl.dafont.com/dl/?f=vanessalovesyou'
     name 'Vanessa Loves You'
     homepage 'http://www.dafont.com/vanessalovesyou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vanessalovesyou.ttf'
 end

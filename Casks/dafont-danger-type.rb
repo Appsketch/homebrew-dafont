@@ -5,7 +5,6 @@ cask 'dafont-danger-type' do
     url 'http://dl.dafont.com/dl/?f=danger_type'
     name 'Danger Type'
     homepage 'http://www.dafont.com/danger-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DANGER type.ttf'
 end

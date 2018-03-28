@@ -5,7 +5,6 @@ cask 'dafont-fridge-magnets' do
     url 'http://dl.dafont.com/dl/?f=fridge_magnets'
     name 'Fridge Magnets'
     homepage 'http://www.dafont.com/fridge-magnets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FRIDGE.TTF'
 end

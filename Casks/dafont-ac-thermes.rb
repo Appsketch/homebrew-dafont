@@ -5,7 +5,6 @@ cask 'dafont-ac-thermes' do
     url 'http://dl.dafont.com/dl/?f=ac_thermes'
     name 'AC Thermes'
     homepage 'http://www.dafont.com/ac-thermes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AC_Thermes_Outline.otf'
     font 'AC_Thermes_Solid.otf'

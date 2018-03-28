@@ -5,7 +5,6 @@ cask 'dafont-fafers-handwriting-font' do
     url 'http://dl.dafont.com/dl/?f=fafers_handwriting_font'
     name 'Fafers Handwriting'
     homepage 'http://www.dafont.com/fafers-handwriting-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FAFERS.TTF'
 end

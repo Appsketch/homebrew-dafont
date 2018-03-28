@@ -5,7 +5,6 @@ cask 'dafont-high-volume' do
     url 'http://dl.dafont.com/dl/?f=high_volume'
     name 'High Volume'
     homepage 'http://www.dafont.com/high-volume.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'high_volume_0.ttf'
 end

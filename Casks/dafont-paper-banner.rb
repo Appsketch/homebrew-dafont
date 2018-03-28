@@ -5,7 +5,6 @@ cask 'dafont-paper-banner' do
     url 'http://dl.dafont.com/dl/?f=paper_banner'
     name 'Paper Banner'
     homepage 'http://www.dafont.com/paper-banner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paper Banner Sans.ttf'
     font 'Paper Banner-Black.ttf'

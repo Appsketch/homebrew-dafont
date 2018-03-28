@@ -5,7 +5,6 @@ cask 'dafont-orange-kid' do
     url 'http://dl.dafont.com/dl/?f=orange_kid'
     name 'Orange Kid'
     homepage 'http://www.dafont.com/orange-kid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ot/orange kid.otf'
 end

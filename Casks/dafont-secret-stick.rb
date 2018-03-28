@@ -5,7 +5,6 @@ cask 'dafont-secret-stick' do
     url 'http://dl.dafont.com/dl/?f=secret_stick'
     name 'Secret Stick'
     homepage 'http://www.dafont.com/secret-stick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Secret_sticks.ttf'
 end

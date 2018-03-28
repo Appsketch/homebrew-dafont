@@ -5,7 +5,6 @@ cask 'dafont-pwfoodcons' do
     url 'http://dl.dafont.com/dl/?f=pwfoodcons'
     name 'PW Foodcons'
     homepage 'http://www.dafont.com/pwfoodcons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWFoodcons.ttf'
 end

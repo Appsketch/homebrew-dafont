@@ -5,7 +5,6 @@ cask 'dafont-art-brewery' do
     url 'http://dl.dafont.com/dl/?f=art_brewery'
     name 'Art Brewery'
     homepage 'http://www.dafont.com/art-brewery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Art Brewery.ttf'
 end

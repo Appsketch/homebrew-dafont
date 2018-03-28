@@ -5,7 +5,6 @@ cask 'dafont-bn-emulator' do
     url 'http://dl.dafont.com/dl/?f=bn_emulator'
     name 'BN Emulator'
     homepage 'http://www.dafont.com/bn-emulator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Emulator.ttf'
 end

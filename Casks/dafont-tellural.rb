@@ -5,7 +5,6 @@ cask 'dafont-tellural' do
     url 'http://dl.dafont.com/dl/?f=tellural'
     name 'Tellural'
     homepage 'http://www.dafont.com/tellural.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tellural Alt Bold Italic.ttf'
     font 'Tellural Alt Bold.ttf'

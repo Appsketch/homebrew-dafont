@@ -5,7 +5,6 @@ cask 'dafont-atheist' do
     url 'http://dl.dafont.com/dl/?f=atheist'
     name 'Atheist'
     homepage 'http://www.dafont.com/atheist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Atheist.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-il-shake-fest' do
     url 'http://dl.dafont.com/dl/?f=il_shake_fest'
     name 'Il Shake Fest'
     homepage 'http://www.dafont.com/il-shake-fest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ilshake.ttf'
 end

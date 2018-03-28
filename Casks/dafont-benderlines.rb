@@ -5,7 +5,6 @@ cask 'dafont-benderlines' do
     url 'http://dl.dafont.com/dl/?f=benderlines'
     name 'Bender Lines'
     homepage 'http://www.dafont.com/benderlines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BenderLines.ttf'
 end

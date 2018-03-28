@@ -5,7 +5,6 @@ cask 'dafont-northpoint' do
     url 'http://dl.dafont.com/dl/?f=northpoint'
     name 'Northpoint'
     homepage 'http://www.dafont.com/northpoint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Northpoint.ttf'
 end

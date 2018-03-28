@@ -5,7 +5,6 @@ cask 'dafont-the-heart-of-everything' do
     url 'http://dl.dafont.com/dl/?f=the_heart_of_everything'
     name 'The Heart of Everything'
     homepage 'http://www.dafont.com/the-heart-of-everything.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Heart of Everything Demo.ttf'
 end

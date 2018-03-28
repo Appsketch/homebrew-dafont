@@ -5,7 +5,6 @@ cask 'dafont-emkasanscondensed' do
     url 'http://dl.dafont.com/dl/?f=emkasanscondensed'
     name 'Emka Sans Condensed'
     homepage 'http://www.dafont.com/emkasanscondensed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EmkaSansCondensed-Bold.ttf'
     font 'EmkaSansCondensed.ttf'

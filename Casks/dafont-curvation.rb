@@ -5,7 +5,6 @@ cask 'dafont-curvation' do
     url 'http://dl.dafont.com/dl/?f=curvation'
     name 'Curvation'
     homepage 'http://www.dafont.com/curvation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'curvation.ttf'
 end

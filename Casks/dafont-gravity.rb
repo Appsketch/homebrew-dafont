@@ -5,7 +5,6 @@ cask 'dafont-gravity' do
     url 'http://dl.dafont.com/dl/?f=gravity'
     name 'Gravity'
     homepage 'http://www.dafont.com/gravity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gravity-Bold.otf'
     font 'Gravity-BoldItalic.otf'

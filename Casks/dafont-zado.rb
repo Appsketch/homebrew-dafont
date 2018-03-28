@@ -5,7 +5,6 @@ cask 'dafont-zado' do
     url 'http://dl.dafont.com/dl/?f=zado'
     name 'Zado'
     homepage 'http://www.dafont.com/zado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zadob.ttf'
 end

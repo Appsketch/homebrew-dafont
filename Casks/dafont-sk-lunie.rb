@@ -5,7 +5,6 @@ cask 'dafont-sk-lunie' do
     url 'http://dl.dafont.com/dl/?f=sk_lunie'
     name 'SK Lunie'
     homepage 'http://www.dafont.com/sk-lunie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SK_LUNIE.ttf'
 end

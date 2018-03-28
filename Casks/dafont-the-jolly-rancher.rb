@@ -5,7 +5,6 @@ cask 'dafont-the-jolly-rancher' do
     url 'http://dl.dafont.com/dl/?f=the_jolly_rancher'
     name 'The Jolly Rancher'
     homepage 'http://www.dafont.com/the-jolly-rancher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Jolly Rancher.ttf'
 end

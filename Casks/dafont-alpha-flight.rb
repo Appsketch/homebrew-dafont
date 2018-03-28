@@ -5,7 +5,6 @@ cask 'dafont-alpha-flight' do
     url 'http://dl.dafont.com/dl/?f=alpha_flight'
     name 'Alpha Flight'
     homepage 'http://www.dafont.com/alpha-flight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AFL_Caps.ttf'
     font 'AFL_Solid.ttf'

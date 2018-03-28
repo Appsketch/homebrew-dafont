@@ -5,7 +5,6 @@ cask 'dafont-long-distance-call' do
     url 'http://dl.dafont.com/dl/?f=long_distance_call'
     name 'Long distance call'
     homepage 'http://www.dafont.com/long-distance-call.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Long distance call.ttf'
 end

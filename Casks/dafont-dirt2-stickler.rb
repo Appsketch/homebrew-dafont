@@ -5,7 +5,6 @@ cask 'dafont-dirt2-stickler' do
     url 'http://dl.dafont.com/dl/?f=dirt2_stickler'
     name 'Dirt2 Stickler'
     homepage 'http://www.dafont.com/dirt2-stickler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dirt2 Stickler.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-clowning-around' do
     url 'http://dl.dafont.com/dl/?f=clowning_around'
     name 'Clowning Around'
     homepage 'http://www.dafont.com/clowning-around.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'clowningaround.ttf'
 end

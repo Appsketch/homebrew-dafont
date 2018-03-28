@@ -5,7 +5,6 @@ cask 'dafont-message-from-the-east' do
     url 'http://dl.dafont.com/dl/?f=message_from_the_east'
     name 'Message from the East'
     homepage 'http://www.dafont.com/message-from-the-east.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'messagefromtheeast.ttf'
 end

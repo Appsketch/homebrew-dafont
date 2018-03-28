@@ -5,7 +5,6 @@ cask 'dafont-qlinickle' do
     url 'http://dl.dafont.com/dl/?f=qlinickle'
     name 'Qlinickle'
     homepage 'http://www.dafont.com/qlinickle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Qlinickle free.otf'
 end

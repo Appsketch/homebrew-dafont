@@ -5,7 +5,6 @@ cask 'dafont-aklatanic-tso' do
     url 'http://dl.dafont.com/dl/?f=aklatanic_tso'
     name 'Aklatanic TSO'
     homepage 'http://www.dafont.com/aklatanic-tso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aklatan.ttf'
 end

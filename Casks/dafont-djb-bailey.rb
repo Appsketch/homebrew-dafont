@@ -5,7 +5,6 @@ cask 'dafont-djb-bailey' do
     url 'http://dl.dafont.com/dl/?f=djb_bailey'
     name 'DJB Bailey'
     homepage 'http://www.dafont.com/djb-bailey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB BAILEY.ttf'
 end

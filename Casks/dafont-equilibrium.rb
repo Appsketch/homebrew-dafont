@@ -5,7 +5,6 @@ cask 'dafont-equilibrium' do
     url 'http://dl.dafont.com/dl/?f=equilibrium'
     name 'Equilibrium'
     homepage 'http://www.dafont.com/equilibrium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHE-EQUI.TTF'
 end

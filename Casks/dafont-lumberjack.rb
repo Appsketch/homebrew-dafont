@@ -5,7 +5,6 @@ cask 'dafont-lumberjack' do
     url 'http://dl.dafont.com/dl/?f=lumberjack'
     name 'Lumberjack'
     homepage 'http://www.dafont.com/lumberjack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lumberjack Inline Rough.otf'
     font 'Lumberjack Rough Shadow.otf'

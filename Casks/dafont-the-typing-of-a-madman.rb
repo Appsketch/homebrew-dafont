@@ -5,7 +5,6 @@ cask 'dafont-the-typing-of-a-madman' do
     url 'http://dl.dafont.com/dl/?f=the_typing_of_a_madman'
     name 'The Typing of a Madman'
     homepage 'http://www.dafont.com/the-typing-of-a-madman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The_Typing_of_a_Madman.ttf'
 end

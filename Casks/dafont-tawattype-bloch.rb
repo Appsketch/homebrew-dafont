@@ -5,7 +5,6 @@ cask 'dafont-tawattype-bloch' do
     url 'http://dl.dafont.com/dl/?f=tawattype_bloch'
     name 'Tawattype Bloch'
     homepage 'http://www.dafont.com/tawattype-bloch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TAWAB___.TTF'
 end

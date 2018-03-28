@@ -5,7 +5,6 @@ cask 'dafont-tabaquera' do
     url 'http://dl.dafont.com/dl/?f=tabaquera'
     name 'Tabaquera'
     homepage 'http://www.dafont.com/tabaquera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tabaquera.ttf'
 end

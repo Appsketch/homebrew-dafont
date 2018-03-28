@@ -5,7 +5,6 @@ cask 'dafont-motor-oil-1937-m54' do
     url 'http://dl.dafont.com/dl/?f=motor_oil_1937_m54'
     name 'Motor Oil 1937 M54'
     homepage 'http://www.dafont.com/motor-oil-1937-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Motor Oil 1937 M54.ttf'
 end

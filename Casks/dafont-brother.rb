@@ -5,7 +5,6 @@ cask 'dafont-brother' do
     url 'http://dl.dafont.com/dl/?f=brother'
     name 'Brother'
     homepage 'http://www.dafont.com/brother.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BROTHER.ttf'
 end

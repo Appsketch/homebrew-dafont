@@ -5,7 +5,6 @@ cask 'dafont-ea-sports-covers-sc' do
     url 'http://dl.dafont.com/dl/?f=ea_sports_covers_sc'
     name 'EA Sports Covers SC'
     homepage 'http://www.dafont.com/ea-sports-covers-sc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EA Sports Covers SC 1.5 Outline.ttf'
     font 'EA Sports Covers SC 1.5.ttf'

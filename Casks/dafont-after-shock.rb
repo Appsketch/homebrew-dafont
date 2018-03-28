@@ -5,7 +5,6 @@ cask 'dafont-after-shock' do
     url 'http://dl.dafont.com/dl/?f=after_shock'
     name 'After Shock'
     homepage 'http://www.dafont.com/after-shock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AFTES___.TTF'
 end

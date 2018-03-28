@@ -5,7 +5,6 @@ cask 'dafont-bat-men-g' do
     url 'http://dl.dafont.com/dl/?f=bat_men_g'
     name 'Bat Men G'
     homepage 'http://www.dafont.com/bat-men-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_bat_men.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dirt2-death' do
     url 'http://dl.dafont.com/dl/?f=dirt2_death'
     name 'Dirt 2 Death'
     homepage 'http://www.dafont.com/dirt2-death.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dirt2death.ttf'
 end

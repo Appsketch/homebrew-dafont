@@ -5,7 +5,6 @@ cask 'dafont-cf-spaceship' do
     url 'http://dl.dafont.com/dl/?f=cf_spaceship'
     name 'CF Spaceship'
     homepage 'http://www.dafont.com/cf-spaceship.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFSpaceship-Regular.ttf'
 end

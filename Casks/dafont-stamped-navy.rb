@@ -5,7 +5,6 @@ cask 'dafont-stamped-navy' do
     url 'http://dl.dafont.com/dl/?f=stamped_navy'
     name 'Stamped Navy'
     homepage 'http://www.dafont.com/stamped-navy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stamped Navy Font Bold.ttf'
     font 'Stamped Navy Font Shadow.ttf'

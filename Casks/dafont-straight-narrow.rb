@@ -5,7 +5,6 @@ cask 'dafont-straight-narrow' do
     url 'http://dl.dafont.com/dl/?f=straight_narrow'
     name 'Straight &amp; Narrow'
     homepage 'http://www.dafont.com/straight-narrow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Straight &amp; Narrow.ttf'
 end

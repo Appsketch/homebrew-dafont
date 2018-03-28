@@ -5,7 +5,6 @@ cask 'dafont-e-brantscript' do
     url 'http://dl.dafont.com/dl/?f=e_brantscript'
     name 'E-Brant Script'
     homepage 'http://www.dafont.com/e-brantscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'E-BrantScript.ttf'
 end

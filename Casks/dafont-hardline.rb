@@ -5,7 +5,6 @@ cask 'dafont-hardline' do
     url 'http://dl.dafont.com/dl/?f=hardline'
     name 'HardLine'
     homepage 'http://www.dafont.com/hardline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HardLine.ttf'
 end

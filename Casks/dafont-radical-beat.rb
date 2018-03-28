@@ -5,7 +5,6 @@ cask 'dafont-radical-beat' do
     url 'http://dl.dafont.com/dl/?f=radical_beat'
     name 'Radical Beat'
     homepage 'http://www.dafont.com/radical-beat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Radical Beat.ttf'
 end

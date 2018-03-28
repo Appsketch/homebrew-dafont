@@ -5,7 +5,6 @@ cask 'dafont-the-amazing-me' do
     url 'http://dl.dafont.com/dl/?f=the_amazing_me'
     name 'The Amazing Me'
     homepage 'http://www.dafont.com/the-amazing-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THEAMAZINGME.ttf'
 end

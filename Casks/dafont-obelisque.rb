@@ -5,7 +5,6 @@ cask 'dafont-obelisque' do
     url 'http://dl.dafont.com/dl/?f=obelisque'
     name 'Obelisque'
     homepage 'http://www.dafont.com/obelisque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'obelisque.otf'
 end

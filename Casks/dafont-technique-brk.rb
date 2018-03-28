@@ -5,7 +5,6 @@ cask 'dafont-technique-brk' do
     url 'http://dl.dafont.com/dl/?f=technique_brk'
     name 'Technique BRK'
     homepage 'http://www.dafont.com/technique-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'techniqo.ttf'
     font 'techniqu.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-donrees-claws' do
     url 'http://dl.dafont.com/dl/?f=donrees_claws'
     name 'Donree&#039;s Claws'
     homepage 'http://www.dafont.com/donrees-claws.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DONRC___.TTF'
 end

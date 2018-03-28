@@ -5,7 +5,6 @@ cask 'dafont-grundlegendebycindyyo' do
     url 'http://dl.dafont.com/dl/?f=grundlegendebycindyyo'
     name 'Grundlegende'
     homepage 'http://www.dafont.com/grundlegendebycindyyo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grundlegende by Cindyyo.ttf'
 end

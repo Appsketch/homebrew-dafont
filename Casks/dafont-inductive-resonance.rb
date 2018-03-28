@@ -5,7 +5,6 @@ cask 'dafont-inductive-resonance' do
     url 'http://dl.dafont.com/dl/?f=inductive_resonance'
     name 'Inductive Resonance'
     homepage 'http://www.dafont.com/inductive-resonance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inductive Resonance.ttf'
 end

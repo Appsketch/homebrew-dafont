@@ -5,7 +5,6 @@ cask 'dafont-tickets-to-elton-john' do
     url 'http://dl.dafont.com/dl/?f=tickets_to_elton_john'
     name 'Tickets to Elton John'
     homepage 'http://www.dafont.com/tickets-to-elton-john.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tickets to Elton John.ttf'
 end

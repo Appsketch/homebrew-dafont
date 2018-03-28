@@ -5,7 +5,6 @@ cask 'dafont-karate-chop' do
     url 'http://dl.dafont.com/dl/?f=karate_chop'
     name 'Karate Chop'
     homepage 'http://www.dafont.com/karate-chop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'karatechop.ttf'
 end

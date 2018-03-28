@@ -5,7 +5,6 @@ cask 'dafont-my-unprofessional-handwriting' do
     url 'http://dl.dafont.com/dl/?f=my_unprofessional_handwriting'
     name 'My Unprofessional Handwriting'
     homepage 'http://www.dafont.com/my-unprofessional-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My_Unprofessional_Handwriting.ttf'
 end

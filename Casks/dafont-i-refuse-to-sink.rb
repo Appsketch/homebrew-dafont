@@ -5,7 +5,6 @@ cask 'dafont-i-refuse-to-sink' do
     url 'http://dl.dafont.com/dl/?f=i_refuse_to_sink'
     name 'I Refuse To Sink'
     homepage 'http://www.dafont.com/i-refuse-to-sink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I-Refuse-To-Sink.ttf'
 end

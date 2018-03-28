@@ -5,7 +5,6 @@ cask 'dafont-admiration-pains' do
     url 'http://dl.dafont.com/dl/?f=admiration_pains'
     name 'Admiration Pains'
     homepage 'http://www.dafont.com/admiration-pains.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Admiration Pains.ttf'
 end

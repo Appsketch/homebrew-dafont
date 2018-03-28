@@ -5,7 +5,6 @@ cask 'dafont-gs-open' do
     url 'http://dl.dafont.com/dl/?f=gs_open'
     name 'GS Open'
     homepage 'http://www.dafont.com/gs-open.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gs open.ttf'
 end

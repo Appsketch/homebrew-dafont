@@ -5,7 +5,6 @@ cask 'dafont-big-bad-blocks' do
     url 'http://dl.dafont.com/dl/?f=big_bad_blocks'
     name 'Big Bad Blocks'
     homepage 'http://www.dafont.com/big-bad-blocks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Big Bad Blocks Italic.otf'
     font 'Big Bad Blocks.otf'

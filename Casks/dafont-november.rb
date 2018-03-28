@@ -5,7 +5,6 @@ cask 'dafont-november' do
     url 'http://dl.dafont.com/dl/?f=november'
     name 'November'
     homepage 'http://www.dafont.com/november.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOVEMBER.TTF'
 end

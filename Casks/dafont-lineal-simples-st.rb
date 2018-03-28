@@ -5,7 +5,6 @@ cask 'dafont-lineal-simples-st' do
     url 'http://dl.dafont.com/dl/?f=lineal_simples_st'
     name 'Lineal Simples ST'
     homepage 'http://www.dafont.com/lineal-simples-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lineal Simples St.ttf'
 end

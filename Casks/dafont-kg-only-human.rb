@@ -5,7 +5,6 @@ cask 'dafont-kg-only-human' do
     url 'http://dl.dafont.com/dl/?f=kg_only_human'
     name 'KG Only Human'
     homepage 'http://www.dafont.com/kg-only-human.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGOnlyHuman.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-conquest' do
     url 'http://dl.dafont.com/dl/?f=conquest'
     name 'Conquest'
     homepage 'http://www.dafont.com/conquest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CONQUEST.ttf'
 end

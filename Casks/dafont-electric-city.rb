@@ -5,7 +5,6 @@ cask 'dafont-electric-city' do
     url 'http://dl.dafont.com/dl/?f=electric_city'
     name 'Electric City'
     homepage 'http://www.dafont.com/electric-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'electric city.ttf'
 end

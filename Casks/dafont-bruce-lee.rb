@@ -5,7 +5,6 @@ cask 'dafont-bruce-lee' do
     url 'http://dl.dafont.com/dl/?f=bruce_lee'
     name 'Bruce Lee'
     homepage 'http://www.dafont.com/bruce-lee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRUCE LEE.ttf'
 end

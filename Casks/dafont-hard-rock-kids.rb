@@ -5,7 +5,6 @@ cask 'dafont-hard-rock-kids' do
     url 'http://dl.dafont.com/dl/?f=hard_rock_kids'
     name 'Hard Rock Kids'
     homepage 'http://www.dafont.com/hard-rock-kids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hardrockkids.ttf'
 end

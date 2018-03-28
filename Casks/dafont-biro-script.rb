@@ -5,7 +5,6 @@ cask 'dafont-biro-script' do
     url 'http://dl.dafont.com/dl/?f=biro_script'
     name 'Biro Script'
     homepage 'http://www.dafont.com/biro-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Biro_Script_reduced.ttf'
 end

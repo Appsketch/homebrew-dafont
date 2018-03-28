@@ -5,7 +5,6 @@ cask 'dafont-neon-2-news' do
     url 'http://dl.dafont.com/dl/?f=neon_2_news'
     name 'Neon 2 News'
     homepage 'http://www.dafont.com/neon-2-news.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neon 2 News.ttf'
 end

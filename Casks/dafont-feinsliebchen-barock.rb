@@ -5,7 +5,6 @@ cask 'dafont-feinsliebchen-barock' do
     url 'http://dl.dafont.com/dl/?f=feinsliebchen_barock'
     name 'Feinsliebchen Barock'
     homepage 'http://www.dafont.com/feinsliebchen-barock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Feinsliebchen Barock.ttf'
 end

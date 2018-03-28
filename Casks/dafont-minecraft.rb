@@ -5,7 +5,6 @@ cask 'dafont-minecraft' do
     url 'http://dl.dafont.com/dl/?f=minecraft'
     name 'Minecraft'
     homepage 'http://www.dafont.com/minecraft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minecraft.ttf'
 end

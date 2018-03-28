@@ -5,7 +5,6 @@ cask 'dafont-grampslung' do
     url 'http://dl.dafont.com/dl/?f=grampslung'
     name 'Grampslung'
     homepage 'http://www.dafont.com/grampslung.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRAML___.TTF'
 end

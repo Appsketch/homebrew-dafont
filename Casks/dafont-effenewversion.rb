@@ -5,7 +5,6 @@ cask 'dafont-effenewversion' do
     url 'http://dl.dafont.com/dl/?f=effenewversion'
     name 'Effe New Version'
     homepage 'http://www.dafont.com/effenewversion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EffeNewVersion.ttf'
 end

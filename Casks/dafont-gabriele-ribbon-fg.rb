@@ -5,7 +5,6 @@ cask 'dafont-gabriele-ribbon-fg' do
     url 'http://dl.dafont.com/dl/?f=gabriele_ribbon_fg'
     name 'Gabriele Ribbon FG'
     homepage 'http://www.dafont.com/gabriele-ribbon-fg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gabriele-br.TTF'
     font 'gabriele-d.ttf'

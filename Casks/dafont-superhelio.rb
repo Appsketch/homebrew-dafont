@@ -5,7 +5,6 @@ cask 'dafont-superhelio' do
     url 'http://dl.dafont.com/dl/?f=superhelio'
     name 'Superhelio'
     homepage 'http://www.dafont.com/superhelio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPERHELEX.TTF'
     font 'SUPERHELRG.TTF'

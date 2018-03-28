@@ -5,7 +5,6 @@ cask 'dafont-starcatcher' do
     url 'http://dl.dafont.com/dl/?f=starcatcher'
     name 'Starcatcher'
     homepage 'http://www.dafont.com/starcatcher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Starcatcher.ttf'
 end

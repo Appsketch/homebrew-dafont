@@ -5,7 +5,6 @@ cask 'dafont-tribalistiktatwu' do
     url 'http://dl.dafont.com/dl/?f=tribalistiktatwu'
     name 'Tribalistik Tatwu'
     homepage 'http://www.dafont.com/tribalistiktatwu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tribalistiktatwu.ttf'
 end

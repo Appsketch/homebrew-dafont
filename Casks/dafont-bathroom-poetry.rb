@@ -5,7 +5,6 @@ cask 'dafont-bathroom-poetry' do
     url 'http://dl.dafont.com/dl/?f=bathroom_poetry'
     name 'Bathroom Poetry'
     homepage 'http://www.dafont.com/bathroom-poetry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiniatureCaps.otf'
 end

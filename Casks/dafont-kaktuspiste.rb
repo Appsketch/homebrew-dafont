@@ -5,7 +5,6 @@ cask 'dafont-kaktuspiste' do
     url 'http://dl.dafont.com/dl/?f=kaktuspiste'
     name 'Kaktuspiste'
     homepage 'http://www.dafont.com/kaktuspiste.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kaktuspiste.ttf'
 end

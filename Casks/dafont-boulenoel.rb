@@ -5,7 +5,6 @@ cask 'dafont-boulenoel' do
     url 'http://dl.dafont.com/dl/?f=boulenoel'
     name 'Boule Noel'
     homepage 'http://www.dafont.com/boulenoel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boulenoel.ttf'
 end

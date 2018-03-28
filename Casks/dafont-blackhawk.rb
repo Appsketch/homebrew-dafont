@@ -5,7 +5,6 @@ cask 'dafont-blackhawk' do
     url 'http://dl.dafont.com/dl/?f=blackhawk'
     name 'Black Hawk'
     homepage 'http://www.dafont.com/blackhawk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackHawk.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-morva' do
     url 'http://dl.dafont.com/dl/?f=morva'
     name 'Morva'
     homepage 'http://www.dafont.com/morva.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MORVA.ttf'
 end

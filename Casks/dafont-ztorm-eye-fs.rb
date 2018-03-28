@@ -5,7 +5,6 @@ cask 'dafont-ztorm-eye-fs' do
     url 'http://dl.dafont.com/dl/?f=ztorm_eye_fs'
     name 'Ztorm eYe/FS'
     homepage 'http://www.dafont.com/ztorm-eye-fs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ztorm eYeFS.ttf'
 end

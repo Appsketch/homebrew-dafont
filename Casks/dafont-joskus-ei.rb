@@ -5,7 +5,6 @@ cask 'dafont-joskus-ei' do
     url 'http://dl.dafont.com/dl/?f=joskus_ei'
     name 'Joskus Ei'
     homepage 'http://www.dafont.com/joskus-ei.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'joskusei.ttf'
 end

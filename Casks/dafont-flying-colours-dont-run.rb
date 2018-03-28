@@ -5,7 +5,6 @@ cask 'dafont-flying-colours-dont-run' do
     url 'http://dl.dafont.com/dl/?f=flying_colours_dont_run'
     name 'Flying Colours Don&#039;t Run'
     homepage 'http://www.dafont.com/flying-colours-dont-run.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flying Colours Don&#039;t Run.ttf'
 end

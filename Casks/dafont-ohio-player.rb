@@ -5,7 +5,6 @@ cask 'dafont-ohio-player' do
     url 'http://dl.dafont.com/dl/?f=ohio_player'
     name 'Ohio Player'
     homepage 'http://www.dafont.com/ohio-player.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OHIOP___.TTF'
 end

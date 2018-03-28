@@ -5,7 +5,6 @@ cask 'dafont-silent-hill' do
     url 'http://dl.dafont.com/dl/?f=silent_hill'
     name 'Silent Hell of Cheryl'
     homepage 'http://www.dafont.com/silent-hill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SLNTHLC.TTF'
     font 'SLNTHLE.TTF'

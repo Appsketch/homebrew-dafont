@@ -5,7 +5,6 @@ cask 'dafont-llhumboldt' do
     url 'http://dl.dafont.com/dl/?f=llhumboldt'
     name 'LL Humboldt'
     homepage 'http://www.dafont.com/llhumboldt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLHUMBOL.TTF'
 end

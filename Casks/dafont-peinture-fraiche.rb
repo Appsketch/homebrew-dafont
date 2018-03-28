@@ -5,7 +5,6 @@ cask 'dafont-peinture-fraiche' do
     url 'http://dl.dafont.com/dl/?f=peinture_fraiche'
     name 'Peinture Fraiche'
     homepage 'http://www.dafont.com/peinture-fraiche.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peinture Fraiche.ttf'
 end

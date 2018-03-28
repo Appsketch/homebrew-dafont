@@ -5,7 +5,6 @@ cask 'dafont-art-nouveau-caps' do
     url 'http://dl.dafont.com/dl/?f=art_nouveau_caps'
     name 'Art Nouveau Caps'
     homepage 'http://www.dafont.com/art-nouveau-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Art Nouveau Caps.ttf'
 end

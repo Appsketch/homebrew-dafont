@@ -5,7 +5,6 @@ cask 'dafont-bd-rocket-70' do
     url 'http://dl.dafont.com/dl/?f=bd_rocket_70'
     name 'BD Rocket 70'
     homepage 'http://www.dafont.com/bd-rocket-70.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDROCKET.TTF'
 end

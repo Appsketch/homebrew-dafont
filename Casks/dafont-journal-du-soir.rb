@@ -5,7 +5,6 @@ cask 'dafont-journal-du-soir' do
     url 'http://dl.dafont.com/dl/?f=journal_du_soir'
     name 'Journal du Soir'
     homepage 'http://www.dafont.com/journal-du-soir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Journal du Soir.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-majorlabel' do
     url 'http://dl.dafont.com/dl/?f=majorlabel'
     name 'Major Label'
     homepage 'http://www.dafont.com/majorlabel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MajorLabel.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-west-test' do
     url 'http://dl.dafont.com/dl/?f=west_test'
     name 'West Test'
     homepage 'http://www.dafont.com/west-test.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WESTTEST.TTF'
 end

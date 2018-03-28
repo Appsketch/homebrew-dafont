@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-el-dia-del-juicio' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_el_dia_del_juicio'
     name 'Woodcutter El d&iacute;a del juicio'
     homepage 'http://www.dafont.com/woodcutter-el-dia-del-juicio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter El d&iexcl;a del juicio (rare Icons Font).ttf'
 end

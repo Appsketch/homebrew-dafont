@@ -5,7 +5,6 @@ cask 'dafont-soymilk' do
     url 'http://dl.dafont.com/dl/?f=soymilk'
     name 'Soymilk'
     homepage 'http://www.dafont.com/soymilk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Denne-Soymilk.ttf'
 end

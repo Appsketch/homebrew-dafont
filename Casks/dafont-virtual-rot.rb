@@ -5,7 +5,6 @@ cask 'dafont-virtual-rot' do
     url 'http://dl.dafont.com/dl/?f=virtual_rot'
     name 'Virtual Rot'
     homepage 'http://www.dafont.com/virtual-rot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VirtualRot-Regular.ttf'
 end

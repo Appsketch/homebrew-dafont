@@ -5,7 +5,6 @@ cask 'dafont-movingletters' do
     url 'http://dl.dafont.com/dl/?f=movingletters'
     name 'Moving Letters'
     homepage 'http://www.dafont.com/movingletters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MovingLetters.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bonesofgaramond' do
     url 'http://dl.dafont.com/dl/?f=bonesofgaramond'
     name 'Bones Of Garamond'
     homepage 'http://www.dafont.com/bonesofgaramond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BonesOfGaramond.ttf'
 end

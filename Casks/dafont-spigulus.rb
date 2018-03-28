@@ -5,7 +5,6 @@ cask 'dafont-spigulus' do
     url 'http://dl.dafont.com/dl/?f=spigulus'
     name 'Spigulus'
     homepage 'http://www.dafont.com/spigulus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spigulus.ttf'
 end

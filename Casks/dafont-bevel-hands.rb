@@ -5,7 +5,6 @@ cask 'dafont-bevel-hands' do
     url 'http://dl.dafont.com/dl/?f=bevel_hands'
     name 'Bevel Hands'
     homepage 'http://www.dafont.com/bevel-hands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEVELHANDS.otf'
 end

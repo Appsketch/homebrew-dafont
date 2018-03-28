@@ -5,7 +5,6 @@ cask 'dafont-panther-scratches' do
     url 'http://dl.dafont.com/dl/?f=panther_scratches'
     name 'Panther Scratches'
     homepage 'http://www.dafont.com/panther-scratches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Panther Scratches.otf'
 end

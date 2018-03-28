@@ -5,7 +5,6 @@ cask 'dafont-vinque' do
     url 'http://dl.dafont.com/dl/?f=vinque'
     name 'Vinque'
     homepage 'http://www.dafont.com/vinque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vinque.ttf'
 end

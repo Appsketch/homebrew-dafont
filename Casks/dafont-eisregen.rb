@@ -5,7 +5,6 @@ cask 'dafont-eisregen' do
     url 'http://dl.dafont.com/dl/?f=eisregen'
     name 'Eisregen'
     homepage 'http://www.dafont.com/eisregen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EISREGEN.TTF'
 end

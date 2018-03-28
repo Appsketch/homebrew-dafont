@@ -5,7 +5,6 @@ cask 'dafont-cornucopia-of-ornaments-four' do
     url 'http://dl.dafont.com/dl/?f=cornucopia_of_ornaments_four'
     name 'Cornucopia of Ornaments Four'
     homepage 'http://www.dafont.com/cornucopia-of-ornaments-four.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cornucopia of Ornaments Four.ttf'
 end

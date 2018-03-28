@@ -5,7 +5,6 @@ cask 'dafont-bitling-shivom' do
     url 'http://dl.dafont.com/dl/?f=bitling_shivom'
     name 'Bitling Shivom'
     homepage 'http://www.dafont.com/bitling-shivom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bitlingshivom-Italic.ttf'
     font 'Bitlingshivom-Regular.ttf'

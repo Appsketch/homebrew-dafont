@@ -5,7 +5,6 @@ cask 'dafont-myque' do
     url 'http://dl.dafont.com/dl/?f=myque'
     name 'Myque'
     homepage 'http://www.dafont.com/myque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MYQUERDD.TTF'
     font 'MYQUESTR.TTF'

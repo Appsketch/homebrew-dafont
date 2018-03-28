@@ -5,7 +5,6 @@ cask 'dafont-graip-runic' do
     url 'http://dl.dafont.com/dl/?f=graip_runic'
     name 'Graip Runic'
     homepage 'http://www.dafont.com/graip-runic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GraipRunic.ttf'
 end

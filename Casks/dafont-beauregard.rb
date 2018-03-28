@@ -5,7 +5,6 @@ cask 'dafont-beauregard' do
     url 'http://dl.dafont.com/dl/?f=beauregard'
     name 'Beauregard'
     homepage 'http://www.dafont.com/beauregard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beauregard Hollow.ttf'
     font 'Beauregard.ttf'

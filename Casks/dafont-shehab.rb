@@ -5,7 +5,6 @@ cask 'dafont-shehab' do
     url 'http://dl.dafont.com/dl/?f=shehab'
     name 'Shehab'
     homepage 'http://www.dafont.com/shehab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shehab.ttf'
 end

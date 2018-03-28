@@ -5,7 +5,6 @@ cask 'dafont-guayaba-sans' do
     url 'http://dl.dafont.com/dl/?f=guayaba_sans'
     name 'Guayaba Sans'
     homepage 'http://www.dafont.com/guayaba-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'guayaba sans - personal use.ttf'
 end

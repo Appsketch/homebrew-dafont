@@ -5,7 +5,6 @@ cask 'dafont-kawaii-eyes' do
     url 'http://dl.dafont.com/dl/?f=kawaii_eyes'
     name 'Kawaii eyes'
     homepage 'http://www.dafont.com/kawaii-eyes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kawaii eyes.ttf'
 end

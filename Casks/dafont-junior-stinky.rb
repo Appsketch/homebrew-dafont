@@ -5,7 +5,6 @@ cask 'dafont-junior-stinky' do
     url 'http://dl.dafont.com/dl/?f=junior_stinky'
     name 'Junior &amp; Stinky'
     homepage 'http://www.dafont.com/junior-stinky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'junist.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sexy-love-hearts-2' do
     url 'http://dl.dafont.com/dl/?f=sexy_love_hearts_2'
     name 'Sexy Love Hearts 2'
     homepage 'http://www.dafont.com/sexy-love-hearts-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sexy Love Hearts 2.ttf'
 end

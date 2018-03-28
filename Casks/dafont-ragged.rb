@@ -5,7 +5,6 @@ cask 'dafont-ragged' do
     url 'http://dl.dafont.com/dl/?f=ragged'
     name 'Ragged'
     homepage 'http://www.dafont.com/ragged.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ragged.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-eastern-brush' do
     url 'http://dl.dafont.com/dl/?f=eastern_brush'
     name 'Eastern Brush'
     homepage 'http://www.dafont.com/eastern-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eastern Brush.ttf'
 end

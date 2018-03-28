@@ -5,7 +5,6 @@ cask 'dafont-this-sucks' do
     url 'http://dl.dafont.com/dl/?f=this_sucks'
     name 'This Sucks'
     homepage 'http://www.dafont.com/this-sucks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'This-Sucks.ttf'
 end

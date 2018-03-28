@@ -5,7 +5,6 @@ cask 'dafont-1980swriter' do
     url 'http://dl.dafont.com/dl/?f=1980swriter'
     name '1980s Writer'
     homepage 'http://www.dafont.com/1980swriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1980sWriter.ttf'
 end

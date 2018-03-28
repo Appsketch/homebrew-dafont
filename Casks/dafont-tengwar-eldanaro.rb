@@ -5,7 +5,6 @@ cask 'dafont-tengwar-eldanaro' do
     url 'http://dl.dafont.com/dl/?f=tengwar_eldanaro'
     name 'Tengwar Eldanaro'
     homepage 'http://www.dafont.com/tengwar-eldanaro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tengwar_Eldanaro-Medium.ttf'
     font 'Tengwar_Eldanaro-Normal.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-sundrop' do
     url 'http://dl.dafont.com/dl/?f=sundrop'
     name 'Sundrop'
     homepage 'http://www.dafont.com/sundrop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUNDROP.ttf'
 end

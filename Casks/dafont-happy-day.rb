@@ -5,7 +5,6 @@ cask 'dafont-happy-day' do
     url 'http://dl.dafont.com/dl/?f=happy_day'
     name 'Happy Day'
     homepage 'http://www.dafont.com/happy-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Happy Day.ttf'
 end

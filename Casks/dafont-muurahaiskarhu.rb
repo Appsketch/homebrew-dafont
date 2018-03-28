@@ -5,7 +5,6 @@ cask 'dafont-muurahaiskarhu' do
     url 'http://dl.dafont.com/dl/?f=muurahaiskarhu'
     name 'Muurahaiskarhu'
     homepage 'http://www.dafont.com/muurahaiskarhu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Muurahaiskarhu.ttf'
 end

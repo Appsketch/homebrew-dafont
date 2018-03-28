@@ -5,7 +5,6 @@ cask 'dafont-wantedpirates' do
     url 'http://dl.dafont.com/dl/?f=wantedpirates'
     name 'Wanted Pirates'
     homepage 'http://www.dafont.com/wantedpirates.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WantedPirates.ttf'
 end

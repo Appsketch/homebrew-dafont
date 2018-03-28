@@ -5,7 +5,6 @@ cask 'dafont-iysvintagedresses' do
     url 'http://dl.dafont.com/dl/?f=iysvintagedresses'
     name 'IYS Vintage Dresses'
     homepage 'http://www.dafont.com/iysvintagedresses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IYSVintageDresses.ttf'
 end

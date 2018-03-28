@@ -5,7 +5,6 @@ cask 'dafont-ludlow-strong-ale' do
     url 'http://dl.dafont.com/dl/?f=ludlow_strong_ale'
     name 'Ludlow Strong Ale'
     homepage 'http://www.dafont.com/ludlow-strong-ale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ludlow Strong Ale.ttf'
 end

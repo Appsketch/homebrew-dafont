@@ -5,7 +5,6 @@ cask 'dafont-bit-daylong11' do
     url 'http://dl.dafont.com/dl/?f=bit_daylong11'
     name 'Bit Daylong 11'
     homepage 'http://www.dafont.com/bit-daylong11.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BitDaylong11(sRB).TTF'
 end

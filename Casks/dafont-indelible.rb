@@ -5,7 +5,6 @@ cask 'dafont-indelible' do
     url 'http://dl.dafont.com/dl/?f=indelible'
     name 'Indelible'
     homepage 'http://www.dafont.com/indelible.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Indelible.otf'
 end

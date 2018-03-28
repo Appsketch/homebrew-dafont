@@ -5,7 +5,6 @@ cask 'dafont-ks-prep' do
     url 'http://dl.dafont.com/dl/?f=ks_prep'
     name 'KS Prep'
     homepage 'http://www.dafont.com/ks-prep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ks_prep.ttf'
 end

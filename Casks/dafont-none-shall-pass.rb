@@ -5,7 +5,6 @@ cask 'dafont-none-shall-pass' do
     url 'http://dl.dafont.com/dl/?f=none_shall_pass'
     name 'None Shall Pass'
     homepage 'http://www.dafont.com/none-shall-pass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NoneShallPassDEMO-KCFonts.ttf'
 end

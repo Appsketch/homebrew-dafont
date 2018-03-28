@@ -5,7 +5,6 @@ cask 'dafont-indiestar-bb' do
     url 'http://dl.dafont.com/dl/?f=indiestar_bb'
     name 'IndieStar BB'
     homepage 'http://www.dafont.com/indiestar-bb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'indiestarbb_bld.ttf'
     font 'indiestarbb_reg.ttf'

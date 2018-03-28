@@ -5,7 +5,6 @@ cask 'dafont-collegethrash' do
     url 'http://dl.dafont.com/dl/?f=collegethrash'
     name 'College Thrash'
     homepage 'http://www.dafont.com/collegethrash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CollegeThrash.ttf'
 end

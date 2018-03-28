@@ -5,7 +5,6 @@ cask 'dafont-60s-scoreboard' do
     url 'http://dl.dafont.com/dl/?f=60s_scoreboard'
     name '60s Scoreboard'
     homepage 'http://www.dafont.com/60s-scoreboard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '60s Scoreboard.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nighthour' do
     url 'http://dl.dafont.com/dl/?f=nighthour'
     name 'Nighthour'
     homepage 'http://www.dafont.com/nighthour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nighthour solid.ttf'
     font 'nighthour.ttf'

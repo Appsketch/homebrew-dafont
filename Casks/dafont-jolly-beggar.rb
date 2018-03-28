@@ -5,7 +5,6 @@ cask 'dafont-jolly-beggar' do
     url 'http://dl.dafont.com/dl/?f=jolly_beggar'
     name 'Jolly Beggar'
     homepage 'http://www.dafont.com/jolly-beggar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jolly Beggar.ttf'
 end

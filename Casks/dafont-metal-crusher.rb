@@ -5,7 +5,6 @@ cask 'dafont-metal-crusher' do
     url 'http://dl.dafont.com/dl/?f=metal_crusher'
     name 'Metal Crusher'
     homepage 'http://www.dafont.com/metal-crusher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'METAC___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-silent-hill-nightma' do
     url 'http://dl.dafont.com/dl/?f=silent_hill_nightma'
     name 'Silent Hill Nightmares'
     homepage 'http://www.dafont.com/silent-hill-nightma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SILHILL.TTF'
 end

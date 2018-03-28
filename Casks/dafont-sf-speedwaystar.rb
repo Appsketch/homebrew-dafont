@@ -5,7 +5,6 @@ cask 'dafont-sf-speedwaystar' do
     url 'http://dl.dafont.com/dl/?f=sf_speedwaystar'
     name 'SF Speedwaystar'
     homepage 'http://www.dafont.com/sf-speedwaystar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Speedwaystar Bold Oblique.ttf'
     font 'SF Speedwaystar Bold.ttf'

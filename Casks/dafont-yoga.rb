@@ -5,7 +5,6 @@ cask 'dafont-yoga' do
     url 'http://dl.dafont.com/dl/?f=yoga'
     name 'Yoga'
     homepage 'http://www.dafont.com/yoga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yoga-1.ttf'
 end

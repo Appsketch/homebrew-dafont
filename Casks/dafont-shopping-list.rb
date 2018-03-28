@@ -5,7 +5,6 @@ cask 'dafont-shopping-list' do
     url 'http://dl.dafont.com/dl/?f=shopping_list'
     name 'Shopping List'
     homepage 'http://www.dafont.com/shopping-list.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shoppinglist.TTF'
 end

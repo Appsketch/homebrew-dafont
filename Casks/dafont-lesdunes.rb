@@ -5,7 +5,6 @@ cask 'dafont-lesdunes' do
     url 'http://dl.dafont.com/dl/?f=lesdunes'
     name 'Les dunes'
     homepage 'http://www.dafont.com/lesdunes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lesdunes.ttf'
 end

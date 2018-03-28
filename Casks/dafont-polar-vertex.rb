@@ -5,7 +5,6 @@ cask 'dafont-polar-vertex' do
     url 'http://dl.dafont.com/dl/?f=polar_vertex'
     name 'Polar Vertex'
     homepage 'http://www.dafont.com/polar-vertex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PolarVertex-Regular.otf'
 end

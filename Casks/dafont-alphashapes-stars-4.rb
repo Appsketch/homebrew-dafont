@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-stars-4' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_stars_4'
     name 'AlphaShapes stars 4'
     homepage 'http://www.dafont.com/alphashapes-stars-4.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asstars4.ttf'
 end

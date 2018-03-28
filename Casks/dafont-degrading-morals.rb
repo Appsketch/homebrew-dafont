@@ -5,7 +5,6 @@ cask 'dafont-degrading-morals' do
     url 'http://dl.dafont.com/dl/?f=degrading_morals'
     name 'Degrading Morals'
     homepage 'http://www.dafont.com/degrading-morals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DegradingMorals.ttf'
 end

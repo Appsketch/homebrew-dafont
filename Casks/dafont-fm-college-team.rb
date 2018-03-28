@@ -5,7 +5,6 @@ cask 'dafont-fm-college-team' do
     url 'http://dl.dafont.com/dl/?f=fm_college_team'
     name 'FM College Team'
     homepage 'http://www.dafont.com/fm-college-team.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fmcoinout.ttf'
     font 'Fmcot.ttf'

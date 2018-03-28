@@ -5,7 +5,6 @@ cask 'dafont-bitch-cakes' do
     url 'http://dl.dafont.com/dl/?f=bitch_cakes'
     name 'Bitch Cakes'
     homepage 'http://www.dafont.com/bitch-cakes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bitchcakes.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-quality-street' do
     url 'http://dl.dafont.com/dl/?f=quality_street'
     name 'Quality Street'
     homepage 'http://www.dafont.com/quality-street.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quality Street.ttf'
 end

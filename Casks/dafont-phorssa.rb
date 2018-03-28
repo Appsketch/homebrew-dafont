@@ -5,7 +5,6 @@ cask 'dafont-phorssa' do
     url 'http://dl.dafont.com/dl/?f=phorssa'
     name 'Phorssa'
     homepage 'http://www.dafont.com/phorssa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phorssa.ttf'
 end

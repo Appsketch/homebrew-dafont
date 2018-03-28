@@ -5,7 +5,6 @@ cask 'dafont-add-shade' do
     url 'http://dl.dafont.com/dl/?f=add_shade'
     name 'Add Shade'
     homepage 'http://www.dafont.com/add-shade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ADD-SHAD.TTF'
 end

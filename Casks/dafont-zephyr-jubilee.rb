@@ -5,7 +5,6 @@ cask 'dafont-zephyr-jubilee' do
     url 'http://dl.dafont.com/dl/?f=zephyr_jubilee'
     name 'Zephyr Jubilee'
     homepage 'http://www.dafont.com/zephyr-jubilee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zephyr_jubilee.ttf'
 end

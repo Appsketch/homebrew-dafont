@@ -5,7 +5,6 @@ cask 'dafont-thirteenth-floor-2' do
     url 'http://dl.dafont.com/dl/?f=thirteenth_floor_2'
     name 'Thirteenth Floor 2'
     homepage 'http://www.dafont.com/thirteenth-floor-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thirteenth Floor 2.ttf'
     font 'Thirteenth Floor.ttf'

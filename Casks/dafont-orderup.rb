@@ -5,7 +5,6 @@ cask 'dafont-orderup' do
     url 'http://dl.dafont.com/dl/?f=orderup'
     name 'Order Up'
     homepage 'http://www.dafont.com/orderup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OrderUp.ttf'
 end

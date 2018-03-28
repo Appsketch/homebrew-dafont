@@ -5,7 +5,6 @@ cask 'dafont-qwertype' do
     url 'http://dl.dafont.com/dl/?f=qwertype'
     name 'QWERTYpe'
     homepage 'http://www.dafont.com/qwertype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QWERTYpe.ttf'
 end

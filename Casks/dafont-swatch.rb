@@ -5,7 +5,6 @@ cask 'dafont-swatch' do
     url 'http://dl.dafont.com/dl/?f=swatch'
     name 'Swatch it'
     homepage 'http://www.dafont.com/swatch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SWATRG__.TTF'
 end

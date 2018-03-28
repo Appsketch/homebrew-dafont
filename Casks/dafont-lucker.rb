@@ -5,7 +5,6 @@ cask 'dafont-lucker' do
     url 'http://dl.dafont.com/dl/?f=lucker'
     name 'Lucker'
     homepage 'http://www.dafont.com/lucker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lucker.ttf'
 end

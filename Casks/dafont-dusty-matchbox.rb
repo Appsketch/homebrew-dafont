@@ -5,7 +5,6 @@ cask 'dafont-dusty-matchbox' do
     url 'http://dl.dafont.com/dl/?f=dusty_matchbox'
     name 'Dusty Matchbox'
     homepage 'http://www.dafont.com/dusty-matchbox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dusty_matchbox.ttf'
 end

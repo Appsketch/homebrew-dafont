@@ -5,7 +5,6 @@ cask 'dafont-burton-scratch' do
     url 'http://dl.dafont.com/dl/?f=burton_scratch'
     name 'Burton Scratch'
     homepage 'http://www.dafont.com/burton-scratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BurtonScratch-Regular.ttf'
 end

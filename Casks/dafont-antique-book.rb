@@ -5,7 +5,6 @@ cask 'dafont-antique-book' do
     url 'http://dl.dafont.com/dl/?f=antique_book'
     name 'Antique Book'
     homepage 'http://www.dafont.com/antique-book.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Antique Book.ttf'
 end

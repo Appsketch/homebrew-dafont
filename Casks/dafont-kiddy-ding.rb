@@ -5,7 +5,6 @@ cask 'dafont-kiddy-ding' do
     url 'http://dl.dafont.com/dl/?f=kiddy_ding'
     name 'Kiddy Ding'
     homepage 'http://www.dafont.com/kiddy-ding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KiddyDing.ttf'
 end

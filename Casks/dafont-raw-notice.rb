@@ -5,7 +5,6 @@ cask 'dafont-raw-notice' do
     url 'http://dl.dafont.com/dl/?f=raw_notice'
     name 'Raw Notice'
     homepage 'http://www.dafont.com/raw-notice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raw Notice.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pixelpoiiz' do
     url 'http://dl.dafont.com/dl/?f=pixelpoiiz'
     name 'Pixelpoiiz'
     homepage 'http://www.dafont.com/pixelpoiiz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixelpoiiz.ttf'
 end

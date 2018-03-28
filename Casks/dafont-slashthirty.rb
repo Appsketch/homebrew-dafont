@@ -5,7 +5,6 @@ cask 'dafont-slashthirty' do
     url 'http://dl.dafont.com/dl/?f=slashthirty'
     name 'Slash Thirty'
     homepage 'http://www.dafont.com/slashthirty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SlashThirty.ttf'
 end

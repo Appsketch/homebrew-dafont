@@ -5,7 +5,6 @@ cask 'dafont-jls-space-gothic' do
     url 'http://dl.dafont.com/dl/?f=jls_space_gothic'
     name 'JLS Space Gothic'
     homepage 'http://www.dafont.com/jls-space-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JLSDataGothicC_NC.otf'
     font 'JLSDataGothicR_NC.otf'

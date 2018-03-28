@@ -5,7 +5,6 @@ cask 'dafont-any-average-day' do
     url 'http://dl.dafont.com/dl/?f=any_average_day'
     name 'Any Average Day'
     homepage 'http://www.dafont.com/any-average-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Any Average Day.ttf'
 end

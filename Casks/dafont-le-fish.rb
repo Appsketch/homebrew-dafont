@@ -5,7 +5,6 @@ cask 'dafont-le-fish' do
     url 'http://dl.dafont.com/dl/?f=le_fish'
     name 'Le Fish'
     homepage 'http://www.dafont.com/le-fish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LE FISH.ttf'
 end

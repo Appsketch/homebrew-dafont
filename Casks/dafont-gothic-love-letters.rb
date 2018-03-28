@@ -5,7 +5,6 @@ cask 'dafont-gothic-love-letters' do
     url 'http://dl.dafont.com/dl/?f=gothic_love_letters'
     name 'Gothic Love Letters'
     homepage 'http://www.dafont.com/gothic-love-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gothic_Love_Letters.TTF'
 end

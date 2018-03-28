@@ -5,7 +5,6 @@ cask 'dafont-ellet-niin' do
     url 'http://dl.dafont.com/dl/?f=ellet_niin'
     name 'Ellet Niin'
     homepage 'http://www.dafont.com/ellet-niin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elletniin.ttf'
 end

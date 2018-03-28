@@ -5,7 +5,6 @@ cask 'dafont-lgf-elucidar-titulares' do
     url 'http://dl.dafont.com/dl/?f=lgf_elucidar_titulares'
     name 'Lgf Elucidar Titulares'
     homepage 'http://www.dafont.com/lgf-elucidar-titulares.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LGFELUCIDARTITULARESReg.otf'
 end

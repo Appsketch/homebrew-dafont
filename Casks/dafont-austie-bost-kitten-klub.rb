@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-kitten-klub' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_kitten_klub'
     name 'Austie Bost Kitten Klub'
     homepage 'http://www.dafont.com/austie-bost-kitten-klub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AustieBostKittenKlub.ttf'
 end

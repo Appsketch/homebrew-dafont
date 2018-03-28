@@ -5,7 +5,6 @@ cask 'dafont-grungekids' do
     url 'http://dl.dafont.com/dl/?f=grungekids'
     name 'Grunge Kids'
     homepage 'http://www.dafont.com/grungekids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrungeKids.ttf'
 end

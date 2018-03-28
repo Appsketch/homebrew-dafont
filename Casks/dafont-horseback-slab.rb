@@ -5,7 +5,6 @@ cask 'dafont-horseback-slab' do
     url 'http://dl.dafont.com/dl/?f=horseback_slab'
     name 'Horseback Slab'
     homepage 'http://www.dafont.com/horseback-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HorsebackSlab-Bold.ttf'
 end

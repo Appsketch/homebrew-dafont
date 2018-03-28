@@ -5,7 +5,6 @@ cask 'dafont-lupus-blight' do
     url 'http://dl.dafont.com/dl/?f=lupus_blight'
     name 'Lupus Blight'
     homepage 'http://www.dafont.com/lupus-blight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lupusbl.ttf'
 end

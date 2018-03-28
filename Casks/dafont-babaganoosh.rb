@@ -5,7 +5,6 @@ cask 'dafont-babaganoosh' do
     url 'http://dl.dafont.com/dl/?f=babaganoosh'
     name 'Babaganoosh'
     homepage 'http://www.dafont.com/babaganoosh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Babaganoosh.ttf'
 end

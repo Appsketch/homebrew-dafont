@@ -5,7 +5,6 @@ cask 'dafont-newlywed' do
     url 'http://dl.dafont.com/dl/?f=newlywed'
     name 'Newlywed'
     homepage 'http://www.dafont.com/newlywed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Newlywed.ttf'
 end

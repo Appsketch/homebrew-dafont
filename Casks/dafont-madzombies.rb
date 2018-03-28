@@ -5,7 +5,6 @@ cask 'dafont-madzombies' do
     url 'http://dl.dafont.com/dl/?f=madzombies'
     name 'Mad Zombies'
     homepage 'http://www.dafont.com/madzombies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MadZombies.ttf'
 end

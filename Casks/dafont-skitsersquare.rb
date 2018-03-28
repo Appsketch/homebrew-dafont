@@ -5,7 +5,6 @@ cask 'dafont-skitsersquare' do
     url 'http://dl.dafont.com/dl/?f=skitsersquare'
     name 'Skitser Square'
     homepage 'http://www.dafont.com/skitsersquare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkitserSquare.ttf'
 end

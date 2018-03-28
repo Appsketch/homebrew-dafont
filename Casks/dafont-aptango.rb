@@ -5,7 +5,6 @@ cask 'dafont-aptango' do
     url 'http://dl.dafont.com/dl/?f=aptango'
     name 'Aptango'
     homepage 'http://www.dafont.com/aptango.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aptango_.ttf'
 end

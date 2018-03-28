@@ -5,7 +5,6 @@ cask 'dafont-brush-tipterrence' do
     url 'http://dl.dafont.com/dl/?f=brush_tipterrence'
     name 'Brush Tip Terrence'
     homepage 'http://www.dafont.com/brush-tipterrence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BTTTRIAL.ttf'
 end

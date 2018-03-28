@@ -5,7 +5,6 @@ cask 'dafont-boxlines' do
     url 'http://dl.dafont.com/dl/?f=boxlines'
     name 'Box Lines'
     homepage 'http://www.dafont.com/boxlines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BoxLines.ttf'
 end

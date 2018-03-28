@@ -5,7 +5,6 @@ cask 'dafont-rp-mola' do
     url 'http://dl.dafont.com/dl/?f=rp_mola'
     name 'RP Mola'
     homepage 'http://www.dafont.com/rp-mola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RP Mola.ttf'
 end

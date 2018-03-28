@@ -5,7 +5,6 @@ cask 'dafont-music-elements' do
     url 'http://dl.dafont.com/dl/?f=music_elements'
     name 'Music Elements'
     homepage 'http://www.dafont.com/music-elements.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MUSICELE.TTF'
 end

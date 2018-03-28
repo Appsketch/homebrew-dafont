@@ -5,7 +5,6 @@ cask 'dafont-el-cubano' do
     url 'http://dl.dafont.com/dl/?f=el_cubano'
     name 'El Cubano'
     homepage 'http://www.dafont.com/el-cubano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'el_cubano.ttf'
 end

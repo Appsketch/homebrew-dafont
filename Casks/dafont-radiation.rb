@@ -5,7 +5,6 @@ cask 'dafont-radiation' do
     url 'http://dl.dafont.com/dl/?f=radiation'
     name 'Radiation'
     homepage 'http://www.dafont.com/radiation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Radiation.ttf'
 end

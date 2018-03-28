@@ -5,7 +5,6 @@ cask 'dafont-sambahollyc' do
     url 'http://dl.dafont.com/dl/?f=sambahollyc'
     name 'Sambahollyc'
     homepage 'http://www.dafont.com/sambahollyc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SAMBAHOLLYC.otf'
 end

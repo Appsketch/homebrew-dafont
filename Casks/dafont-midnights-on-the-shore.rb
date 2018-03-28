@@ -5,7 +5,6 @@ cask 'dafont-midnights-on-the-shore' do
     url 'http://dl.dafont.com/dl/?f=midnights_on_the_shore'
     name 'Midnights on the Shore'
     homepage 'http://www.dafont.com/midnights-on-the-shore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Midnights on the Shore.otf'
 end

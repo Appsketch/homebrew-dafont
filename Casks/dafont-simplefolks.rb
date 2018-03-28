@@ -5,7 +5,6 @@ cask 'dafont-simplefolks' do
     url 'http://dl.dafont.com/dl/?f=simplefolks'
     name 'Simple Folks'
     homepage 'http://www.dafont.com/simplefolks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SimpleFolks.ttf'
 end

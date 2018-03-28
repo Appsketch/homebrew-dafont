@@ -5,7 +5,6 @@ cask 'dafont-yndu' do
     url 'http://dl.dafont.com/dl/?f=yndu'
     name 'Yndu'
     homepage 'http://www.dafont.com/yndu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yndu.ttf'
     font 'YnduFat.ttf'

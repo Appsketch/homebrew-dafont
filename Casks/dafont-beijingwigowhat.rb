@@ -5,7 +5,6 @@ cask 'dafont-beijingwigowhat' do
     url 'http://dl.dafont.com/dl/?f=beijingwigowhat'
     name 'BeijingWigoWhat'
     homepage 'http://www.dafont.com/beijingwigowhat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeijingWigoWhat_crazy.ttf'
     font 'BeijingWigoWhat_normal.ttf'

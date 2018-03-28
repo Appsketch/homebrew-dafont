@@ -5,7 +5,6 @@ cask 'dafont-kesha' do
     url 'http://dl.dafont.com/dl/?f=kesha'
     name 'Ke$ha'
     homepage 'http://www.dafont.com/kesha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ke$ha.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-globe' do
     url 'http://dl.dafont.com/dl/?f=globe'
     name 'Globe'
     homepage 'http://www.dafont.com/globe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GLOBE.ttf'
 end

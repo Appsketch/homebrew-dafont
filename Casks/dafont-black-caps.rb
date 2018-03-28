@@ -5,7 +5,6 @@ cask 'dafont-black-caps' do
     url 'http://dl.dafont.com/dl/?f=black_caps'
     name 'Black Caps'
     homepage 'http://www.dafont.com/black-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLACKCAPS-Regular.ttf'
 end

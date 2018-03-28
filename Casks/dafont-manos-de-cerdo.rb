@@ -5,7 +5,6 @@ cask 'dafont-manos-de-cerdo' do
     url 'http://dl.dafont.com/dl/?f=manos_de_cerdo'
     name 'Manos de Cerdo'
     homepage 'http://www.dafont.com/manos-de-cerdo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Manos de Cerdo.ttf'
 end

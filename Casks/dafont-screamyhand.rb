@@ -5,7 +5,6 @@ cask 'dafont-screamyhand' do
     url 'http://dl.dafont.com/dl/?f=screamyhand'
     name 'Screamyhand'
     homepage 'http://www.dafont.com/screamyhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Screamyhand.ttf'
 end

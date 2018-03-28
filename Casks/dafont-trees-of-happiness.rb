@@ -5,7 +5,6 @@ cask 'dafont-trees-of-happiness' do
     url 'http://dl.dafont.com/dl/?f=trees_of_happiness'
     name 'Trees Of Happiness'
     homepage 'http://www.dafont.com/trees-of-happiness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trees of happiness.ttf'
 end

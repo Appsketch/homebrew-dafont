@@ -5,7 +5,6 @@ cask 'dafont-gingercookies' do
     url 'http://dl.dafont.com/dl/?f=gingercookies'
     name 'Ginger Cookies'
     homepage 'http://www.dafont.com/gingercookies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GingerCookies.ttf'
 end

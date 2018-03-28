@@ -5,7 +5,6 @@ cask 'dafont-scratch-basic' do
     url 'http://dl.dafont.com/dl/?f=scratch_basic'
     name 'Scratch Basic'
     homepage 'http://www.dafont.com/scratch-basic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scratch I.ttf'
 end

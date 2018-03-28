@@ -5,7 +5,6 @@ cask 'dafont-bromine' do
     url 'http://dl.dafont.com/dl/?f=bromine'
     name 'Bromine'
     homepage 'http://www.dafont.com/bromine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bromine.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bliss' do
     url 'http://dl.dafont.com/dl/?f=bliss'
     name 'Bliss'
     homepage 'http://www.dafont.com/bliss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bliss.ttf'
 end

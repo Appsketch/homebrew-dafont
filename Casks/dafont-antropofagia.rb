@@ -5,7 +5,6 @@ cask 'dafont-antropofagia' do
     url 'http://dl.dafont.com/dl/?f=antropofagia'
     name 'Antropofagia'
     homepage 'http://www.dafont.com/antropofagia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Antro pofagia PIXA&Ccedil;O 165.ttf'
 end

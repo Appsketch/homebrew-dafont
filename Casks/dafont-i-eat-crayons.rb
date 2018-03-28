@@ -5,7 +5,6 @@ cask 'dafont-i-eat-crayons' do
     url 'http://dl.dafont.com/dl/?f=i_eat_crayons'
     name 'I eat crayons'
     homepage 'http://www.dafont.com/i-eat-crayons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'i eat crayons.ttf'
 end

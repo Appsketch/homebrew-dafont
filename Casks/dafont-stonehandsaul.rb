@@ -5,7 +5,6 @@ cask 'dafont-stonehandsaul' do
     url 'http://dl.dafont.com/dl/?f=stonehandsaul'
     name 'Stonehand Saul'
     homepage 'http://www.dafont.com/stonehandsaul.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHSTRIAL.ttf'
 end

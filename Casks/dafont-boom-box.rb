@@ -5,7 +5,6 @@ cask 'dafont-boom-box' do
     url 'http://dl.dafont.com/dl/?f=boom_box'
     name 'Boom Box'
     homepage 'http://www.dafont.com/boom-box.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Improved version by Aleksandar Djoba/boombox2.ttf'
 end

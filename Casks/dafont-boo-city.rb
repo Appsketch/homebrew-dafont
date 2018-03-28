@@ -5,7 +5,6 @@ cask 'dafont-boo-city' do
     url 'http://dl.dafont.com/dl/?f=boo_city'
     name 'Boo City'
     homepage 'http://www.dafont.com/boo-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boo City.ttf'
 end

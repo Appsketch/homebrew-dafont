@@ -5,7 +5,6 @@ cask 'dafont-dollar-store-stenci' do
     url 'http://dl.dafont.com/dl/?f=dollar_store_stenci'
     name 'Dollar Store Stencil'
     homepage 'http://www.dafont.com/dollar-store-stenci.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOLLAR.TTF'
 end

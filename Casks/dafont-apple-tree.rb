@@ -5,7 +5,6 @@ cask 'dafont-apple-tree' do
     url 'http://dl.dafont.com/dl/?f=apple_tree'
     name 'Apple Tree'
     homepage 'http://www.dafont.com/apple-tree.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Apple_Tree.ttf'
 end

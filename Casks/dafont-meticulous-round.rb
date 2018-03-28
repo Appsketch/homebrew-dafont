@@ -5,7 +5,6 @@ cask 'dafont-meticulous-round' do
     url 'http://dl.dafont.com/dl/?f=meticulous_round'
     name 'Meticulous Round'
     homepage 'http://www.dafont.com/meticulous-round.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Meticulous-Round-Free.ttf'
 end

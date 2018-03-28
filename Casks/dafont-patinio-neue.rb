@@ -5,7 +5,6 @@ cask 'dafont-patinio-neue' do
     url 'http://dl.dafont.com/dl/?f=patinio_neue'
     name 'Patinio Neue'
     homepage 'http://www.dafont.com/patinio-neue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Patinio Neue.ttf'
 end

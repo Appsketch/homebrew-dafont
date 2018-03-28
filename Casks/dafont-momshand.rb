@@ -5,7 +5,6 @@ cask 'dafont-momshand' do
     url 'http://dl.dafont.com/dl/?f=momshand'
     name 'MomsHand'
     homepage 'http://www.dafont.com/momshand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cindyyo_&#039;sMom!.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lines' do
     url 'http://dl.dafont.com/dl/?f=lines'
     name 'Lines'
     homepage 'http://www.dafont.com/lines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LINERG__.TTF'
 end

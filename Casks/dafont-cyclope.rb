@@ -5,7 +5,6 @@ cask 'dafont-cyclope' do
     url 'http://dl.dafont.com/dl/?f=cyclope'
     name 'Cyclope'
     homepage 'http://www.dafont.com/cyclope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cyclope.ttf'
 end

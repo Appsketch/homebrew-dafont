@@ -5,7 +5,6 @@ cask 'dafont-alone-strand' do
     url 'http://dl.dafont.com/dl/?f=alone_strand'
     name 'Alone Strand'
     homepage 'http://www.dafont.com/alone-strand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alone Strand.ttf'
 end

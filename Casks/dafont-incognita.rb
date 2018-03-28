@@ -5,7 +5,6 @@ cask 'dafont-incognita' do
     url 'http://dl.dafont.com/dl/?f=incognita'
     name 'Incognita'
     homepage 'http://www.dafont.com/incognita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'incognita.ttf'
 end

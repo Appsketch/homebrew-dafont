@@ -5,7 +5,6 @@ cask 'dafont-queen-of-camelot' do
     url 'http://dl.dafont.com/dl/?f=queen_of_camelot'
     name 'Queen of Camelot'
     homepage 'http://www.dafont.com/queen-of-camelot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Queen of Camelot Italic.otf'
     font 'Queen of Camelot Outlines.otf'

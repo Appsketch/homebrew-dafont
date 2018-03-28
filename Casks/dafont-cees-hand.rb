@@ -5,7 +5,6 @@ cask 'dafont-cees-hand' do
     url 'http://dl.dafont.com/dl/?f=cees_hand'
     name 'Cees Hand'
     homepage 'http://www.dafont.com/cees-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cees Hand Regular.ttf'
 end

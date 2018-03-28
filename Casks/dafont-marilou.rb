@@ -5,7 +5,6 @@ cask 'dafont-marilou' do
     url 'http://dl.dafont.com/dl/?f=marilou'
     name 'Marilou'
     homepage 'http://www.dafont.com/marilou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marilou.ttf'
 end

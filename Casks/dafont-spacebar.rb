@@ -5,7 +5,6 @@ cask 'dafont-spacebar' do
     url 'http://dl.dafont.com/dl/?f=spacebar'
     name 'Spacebar'
     homepage 'http://www.dafont.com/spacebar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPACEBAR.ttf'
 end

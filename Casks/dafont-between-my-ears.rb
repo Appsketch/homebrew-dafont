@@ -5,7 +5,6 @@ cask 'dafont-between-my-ears' do
     url 'http://dl.dafont.com/dl/?f=between_my_ears'
     name 'Between my ears'
     homepage 'http://www.dafont.com/between-my-ears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'greymatter.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mix-rego' do
     url 'http://dl.dafont.com/dl/?f=mix_rego'
     name 'Mix Rego'
     homepage 'http://www.dafont.com/mix-rego.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mix Rego.otf'
 end

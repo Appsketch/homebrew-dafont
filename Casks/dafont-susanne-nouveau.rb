@@ -5,7 +5,6 @@ cask 'dafont-susanne-nouveau' do
     url 'http://dl.dafont.com/dl/?f=susanne_nouveau'
     name 'Susanne Nouveau'
     homepage 'http://www.dafont.com/susanne-nouveau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Susanne Nouveau.ttf'
 end

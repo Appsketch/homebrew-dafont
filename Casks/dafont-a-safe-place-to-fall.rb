@@ -5,7 +5,6 @@ cask 'dafont-a-safe-place-to-fall' do
     url 'http://dl.dafont.com/dl/?f=a_safe_place_to_fall'
     name 'A Safe Place to Fall'
     homepage 'http://www.dafont.com/a-safe-place-to-fall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASafePlacetoFall.ttf'
 end

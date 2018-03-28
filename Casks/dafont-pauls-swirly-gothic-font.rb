@@ -5,7 +5,6 @@ cask 'dafont-pauls-swirly-gothic-font' do
     url 'http://dl.dafont.com/dl/?f=pauls_swirly_gothic_font'
     name 'Pauls Swirly Gothic'
     homepage 'http://www.dafont.com/pauls-swirly-gothic-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pauls Swirly Gothic Font.ttf'
 end

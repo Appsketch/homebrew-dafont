@@ -5,7 +5,6 @@ cask 'dafont-venerada' do
     url 'http://dl.dafont.com/dl/?f=venerada'
     name 'Venerada'
     homepage 'http://www.dafont.com/venerada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Venerada.TTF'
 end

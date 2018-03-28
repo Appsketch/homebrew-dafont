@@ -5,7 +5,6 @@ cask 'dafont-youngranger' do
     url 'http://dl.dafont.com/dl/?f=youngranger'
     name 'Young Ranger'
     homepage 'http://www.dafont.com/youngranger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YoungRanger.ttf'
 end

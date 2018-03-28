@@ -5,7 +5,6 @@ cask 'dafont-duertwoo' do
     url 'http://dl.dafont.com/dl/?f=duertwoo'
     name 'DuerTWOo'
     homepage 'http://www.dafont.com/duertwoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Duetrwoo.ttf'
 end

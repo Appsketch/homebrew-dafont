@@ -5,7 +5,6 @@ cask 'dafont-mai-melanie' do
     url 'http://dl.dafont.com/dl/?f=mai_melanie'
     name 'Mai Melanie'
     homepage 'http://www.dafont.com/mai-melanie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MaiMelanie-Regular.ttf'
 end

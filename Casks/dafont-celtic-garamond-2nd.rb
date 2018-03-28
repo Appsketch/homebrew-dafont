@@ -5,7 +5,6 @@ cask 'dafont-celtic-garamond-2nd' do
     url 'http://dl.dafont.com/dl/?f=celtic_garamond_2nd'
     name 'Celtic Garamond the 2nd'
     homepage 'http://www.dafont.com/celtic-garamond-2nd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CELTG___.TTF'
 end

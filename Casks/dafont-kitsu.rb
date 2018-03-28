@@ -5,7 +5,6 @@ cask 'dafont-kitsu' do
     url 'http://dl.dafont.com/dl/?f=kitsu'
     name 'Kitsu'
     homepage 'http://www.dafont.com/kitsu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kitsu_XD.ttf'
 end

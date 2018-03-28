@@ -5,7 +5,6 @@ cask 'dafont-textbook-math' do
     url 'http://dl.dafont.com/dl/?f=textbook_math'
     name 'Textbook Math'
     homepage 'http://www.dafont.com/textbook-math.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Textbook Math.ttf'
 end

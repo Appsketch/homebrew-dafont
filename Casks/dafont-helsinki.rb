@@ -5,7 +5,6 @@ cask 'dafont-helsinki' do
     url 'http://dl.dafont.com/dl/?f=helsinki'
     name 'Helsinki'
     homepage 'http://www.dafont.com/helsinki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'helsinki.ttf'
 end

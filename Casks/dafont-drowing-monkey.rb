@@ -5,7 +5,6 @@ cask 'dafont-drowing-monkey' do
     url 'http://dl.dafont.com/dl/?f=drowing_monkey'
     name 'Drowing Monkey'
     homepage 'http://www.dafont.com/drowing-monkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DROWM___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-copperhead-condensed' do
     url 'http://dl.dafont.com/dl/?f=copperhead_condensed'
     name 'Copperhead Condensed'
     homepage 'http://www.dafont.com/copperhead-condensed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Copperhead Condensed_Demo.ttf'
 end

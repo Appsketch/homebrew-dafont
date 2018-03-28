@@ -5,7 +5,6 @@ cask 'dafont-californiaharvest' do
     url 'http://dl.dafont.com/dl/?f=californiaharvest'
     name 'California Harvest'
     homepage 'http://www.dafont.com/californiaharvest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CaliforniaHarvest.ttf'
 end

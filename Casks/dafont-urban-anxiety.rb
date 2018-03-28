@@ -5,7 +5,6 @@ cask 'dafont-urban-anxiety' do
     url 'http://dl.dafont.com/dl/?f=urban_anxiety'
     name 'Urban Anxiety'
     homepage 'http://www.dafont.com/urban-anxiety.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'urban_anxiety.ttf'
 end

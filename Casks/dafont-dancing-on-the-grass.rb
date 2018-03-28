@@ -5,7 +5,6 @@ cask 'dafont-dancing-on-the-grass' do
     url 'http://dl.dafont.com/dl/?f=dancing_on_the_grass'
     name 'Dancing on the Grass'
     homepage 'http://www.dafont.com/dancing-on-the-grass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dancing-on-the-Grass.ttf'
 end

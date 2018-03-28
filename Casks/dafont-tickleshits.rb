@@ -5,7 +5,6 @@ cask 'dafont-tickleshits' do
     url 'http://dl.dafont.com/dl/?f=tickleshits'
     name 'Tickle Shits'
     homepage 'http://www.dafont.com/tickleshits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TickleShits.ttf'
 end

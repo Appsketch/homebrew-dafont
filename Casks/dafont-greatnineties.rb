@@ -5,7 +5,6 @@ cask 'dafont-greatnineties' do
     url 'http://dl.dafont.com/dl/?f=greatnineties'
     name 'Great Nineties'
     homepage 'http://www.dafont.com/greatnineties.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreatNineties.ttf'
 end

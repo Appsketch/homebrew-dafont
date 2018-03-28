@@ -5,7 +5,6 @@ cask 'dafont-spirit-of-montezuma' do
     url 'http://dl.dafont.com/dl/?f=spirit_of_montezuma'
     name 'Spirit of Montezuma'
     homepage 'http://www.dafont.com/spirit-of-montezuma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spirit of Montezuma Five.ttf'
     font 'Spirit of Montezuma Four.ttf'

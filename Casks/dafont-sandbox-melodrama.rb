@@ -5,7 +5,6 @@ cask 'dafont-sandbox-melodrama' do
     url 'http://dl.dafont.com/dl/?f=sandbox_melodrama'
     name 'Sandbox Melodrama'
     homepage 'http://www.dafont.com/sandbox-melodrama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sandbox Melodrama.ttf'
 end

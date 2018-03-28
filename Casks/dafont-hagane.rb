@@ -5,7 +5,6 @@ cask 'dafont-hagane' do
     url 'http://dl.dafont.com/dl/?f=hagane'
     name 'Hagane'
     homepage 'http://www.dafont.com/hagane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HAGANE__.TTF'
 end

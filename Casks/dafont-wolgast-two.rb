@@ -5,7 +5,6 @@ cask 'dafont-wolgast-two' do
     url 'http://dl.dafont.com/dl/?f=wolgast_two'
     name 'Wolgast Two'
     homepage 'http://www.dafont.com/wolgast-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wolgast Two Bold.otf'
     font 'Wolgast Two Normal.otf'

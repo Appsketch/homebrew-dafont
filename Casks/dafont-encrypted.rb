@@ -5,7 +5,6 @@ cask 'dafont-encrypted' do
     url 'http://dl.dafont.com/dl/?f=encrypted'
     name 'Encrypted'
     homepage 'http://www.dafont.com/encrypted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Encrypted.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-times-new-omen' do
     url 'http://dl.dafont.com/dl/?f=times_new_omen'
     name 'Times New Omen'
     homepage 'http://www.dafont.com/times-new-omen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TIMENO__.TTF'
 end

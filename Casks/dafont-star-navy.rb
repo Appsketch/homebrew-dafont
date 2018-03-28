@@ -5,7 +5,6 @@ cask 'dafont-star-navy' do
     url 'http://dl.dafont.com/dl/?f=star_navy'
     name 'Star Navy'
     homepage 'http://www.dafont.com/star-navy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'starnavy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-destroyed-license-plate' do
     url 'http://dl.dafont.com/dl/?f=destroyed_license_plate'
     name 'Destroyed License Plate'
     homepage 'http://www.dafont.com/destroyed-license-plate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Destroyed_License_Plate.otf'
 end

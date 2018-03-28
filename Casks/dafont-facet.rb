@@ -5,7 +5,6 @@ cask 'dafont-facet' do
     url 'http://dl.dafont.com/dl/?f=facet'
     name 'Facet'
     homepage 'http://www.dafont.com/facet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Facet Black.ttf'
     font 'Facet Ultra.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-pwnewarrows' do
     url 'http://dl.dafont.com/dl/?f=pwnewarrows'
     name 'PW New Arrows'
     homepage 'http://www.dafont.com/pwnewarrows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWNewArrows.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mister-firley' do
     url 'http://dl.dafont.com/dl/?f=mister_firley'
     name 'Mister Firley'
     homepage 'http://www.dafont.com/mister-firley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mister firley.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ciao-jfont' do
     url 'http://dl.dafont.com/dl/?f=ciao_jfont'
     name 'Ciao jFont'
     homepage 'http://www.dafont.com/ciao-jfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ciao_jfont.ttf'
 end

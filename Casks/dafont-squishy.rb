@@ -5,7 +5,6 @@ cask 'dafont-squishy' do
     url 'http://dl.dafont.com/dl/?f=squishy'
     name 'Squishy'
     homepage 'http://www.dafont.com/squishy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'squishy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-another-hand-of-cre' do
     url 'http://dl.dafont.com/dl/?f=another_hand_of_cre'
     name 'Another Hand Of Cre'
     homepage 'http://www.dafont.com/another-hand-of-cre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'another_hand_of_cre.ttf'
 end

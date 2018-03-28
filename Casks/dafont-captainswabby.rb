@@ -5,7 +5,6 @@ cask 'dafont-captainswabby' do
     url 'http://dl.dafont.com/dl/?f=captainswabby'
     name 'Captain Swabby'
     homepage 'http://www.dafont.com/captainswabby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CAPTAINS.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-forerunnerhalo' do
     url 'http://dl.dafont.com/dl/?f=forerunnerhalo'
     name 'Forerunner Halo'
     homepage 'http://www.dafont.com/forerunnerhalo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ForerunnerHALO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mailinh' do
     url 'http://dl.dafont.com/dl/?f=mailinh'
     name 'MaiLinh'
     homepage 'http://www.dafont.com/mailinh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MaiLinh.ttf'
 end

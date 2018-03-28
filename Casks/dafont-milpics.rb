@@ -5,7 +5,6 @@ cask 'dafont-milpics' do
     url 'http://dl.dafont.com/dl/?f=milpics'
     name 'Milpics'
     homepage 'http://www.dafont.com/milpics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MILPICS.TTF'
 end

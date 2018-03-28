@@ -5,7 +5,6 @@ cask 'dafont-casual-perfectionist' do
     url 'http://dl.dafont.com/dl/?f=casual_perfectionist'
     name 'Casual Perfectionist'
     homepage 'http://www.dafont.com/casual-perfectionist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Casual Perfectionist.ttf'
 end

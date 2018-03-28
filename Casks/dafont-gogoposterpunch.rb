@@ -5,7 +5,6 @@ cask 'dafont-gogoposterpunch' do
     url 'http://dl.dafont.com/dl/?f=gogoposterpunch'
     name 'GoGo Poster Punch'
     homepage 'http://www.dafont.com/gogoposterpunch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GoGoPosterPunch.otf'
     font 'GoGoPosterPunchItalic.otf'

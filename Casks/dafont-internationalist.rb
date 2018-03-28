@@ -5,7 +5,6 @@ cask 'dafont-internationalist' do
     url 'http://dl.dafont.com/dl/?f=internationalist'
     name 'Internationalist'
     homepage 'http://www.dafont.com/internationalist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'internationalist.ttf'
 end

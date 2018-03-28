@@ -5,7 +5,6 @@ cask 'dafont-nonserif' do
     url 'http://dl.dafont.com/dl/?f=nonserif'
     name 'Non Serif'
     homepage 'http://www.dafont.com/nonserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nonserif.ttf'
 end

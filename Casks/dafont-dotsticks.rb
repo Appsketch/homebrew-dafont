@@ -5,7 +5,6 @@ cask 'dafont-dotsticks' do
     url 'http://dl.dafont.com/dl/?f=dotsticks'
     name 'Dot Sticks'
     homepage 'http://www.dafont.com/dotsticks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DotSticks.ttf'
 end

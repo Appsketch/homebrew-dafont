@@ -5,7 +5,6 @@ cask 'dafont-phantomime' do
     url 'http://dl.dafont.com/dl/?f=phantomime'
     name 'Phantomime'
     homepage 'http://www.dafont.com/phantomime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phantomime.ttf'
 end

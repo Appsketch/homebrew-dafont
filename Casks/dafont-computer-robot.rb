@@ -5,7 +5,6 @@ cask 'dafont-computer-robot' do
     url 'http://dl.dafont.com/dl/?f=computer_robot'
     name 'Computer Robot'
     homepage 'http://www.dafont.com/computer-robot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COMPUTERRobot.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-depthcore-public' do
     url 'http://dl.dafont.com/dl/?f=depthcore_public'
     name 'Depthcore Public'
     homepage 'http://www.dafont.com/depthcore-public.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'depthcore.ttf'
 end

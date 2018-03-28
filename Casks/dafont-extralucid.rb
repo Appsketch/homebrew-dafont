@@ -5,7 +5,6 @@ cask 'dafont-extralucid' do
     url 'http://dl.dafont.com/dl/?f=extralucid'
     name 'Extralucid'
     homepage 'http://www.dafont.com/extralucid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extralucid.ttf'
 end

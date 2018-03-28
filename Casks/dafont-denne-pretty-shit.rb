@@ -5,7 +5,6 @@ cask 'dafont-denne-pretty-shit' do
     url 'http://dl.dafont.com/dl/?f=denne_pretty_shit'
     name 'Denne Pretty Shit'
     homepage 'http://www.dafont.com/denne-pretty-shit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Denne-PrettyShit.ttf'
 end

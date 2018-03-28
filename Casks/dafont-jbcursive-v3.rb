@@ -5,7 +5,6 @@ cask 'dafont-jbcursive-v3' do
     url 'http://dl.dafont.com/dl/?f=jbcursive_v3'
     name 'JB Cursive 3'
     homepage 'http://www.dafont.com/jbcursive-v3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JBCursive-V3-Bold.ttf'
     font 'JBCursive-V3-Medium.ttf'

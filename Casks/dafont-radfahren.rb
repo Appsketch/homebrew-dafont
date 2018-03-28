@@ -5,7 +5,6 @@ cask 'dafont-radfahren' do
     url 'http://dl.dafont.com/dl/?f=radfahren'
     name 'Radfahren'
     homepage 'http://www.dafont.com/radfahren.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Radfahren-Lower.otf'
 end

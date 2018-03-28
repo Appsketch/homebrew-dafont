@@ -5,7 +5,6 @@ cask 'dafont-ghostmeat' do
     url 'http://dl.dafont.com/dl/?f=ghostmeat'
     name 'Ghostmeat'
     homepage 'http://www.dafont.com/ghostmeat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ghostmeat back.ttf'
     font 'ghostmeat front.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-merry-christmas-go' do
     url 'http://dl.dafont.com/dl/?f=merry_christmas_go'
     name 'Merry Christmas Go'
     homepage 'http://www.dafont.com/merry-christmas-go.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Merry Christmas Go.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bm-neco' do
     url 'http://dl.dafont.com/dl/?f=bm_neco'
     name 'BM Neco'
     homepage 'http://www.dafont.com/bm-neco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMNEA___.TTF'
 end

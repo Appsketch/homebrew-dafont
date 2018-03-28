@@ -5,7 +5,6 @@ cask 'dafont-x-template' do
     url 'http://dl.dafont.com/dl/?f=x_template'
     name 'X.Template'
     homepage 'http://www.dafont.com/x-template.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'X.Template-font-stencil.ttf'
 end

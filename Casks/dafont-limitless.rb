@@ -5,7 +5,6 @@ cask 'dafont-limitless' do
     url 'http://dl.dafont.com/dl/?f=limitless'
     name 'Limitless'
     homepage 'http://www.dafont.com/limitless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Limitless.ttf'
 end

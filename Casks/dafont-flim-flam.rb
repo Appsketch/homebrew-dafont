@@ -5,7 +5,6 @@ cask 'dafont-flim-flam' do
     url 'http://dl.dafont.com/dl/?f=flim_flam'
     name 'Flim-Flam'
     homepage 'http://www.dafont.com/flim-flam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flim-Flam.ttf'
 end

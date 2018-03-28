@@ -5,7 +5,6 @@ cask 'dafont-monstruo-jedagraphicx' do
     url 'http://dl.dafont.com/dl/?f=monstruo_jedagraphicx'
     name 'Monstruo Jedagraphicx'
     homepage 'http://www.dafont.com/monstruo-jedagraphicx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MONSTRUO-jedagraphicx.ttf'
 end

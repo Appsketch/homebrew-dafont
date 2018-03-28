@@ -5,7 +5,6 @@ cask 'dafont-1742frenchcivilite' do
     url 'http://dl.dafont.com/dl/?f=1742frenchcivilite'
     name '1742 Frenchcivilite'
     homepage 'http://www.dafont.com/1742frenchcivilite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1742-French-Civilite.TTF'
 end

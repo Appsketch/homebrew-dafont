@@ -5,7 +5,6 @@ cask 'dafont-morning-coffee' do
     url 'http://dl.dafont.com/dl/?f=morning_coffee'
     name 'Morning Coffee'
     homepage 'http://www.dafont.com/morning-coffee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Morning Coffee.ttf'
 end

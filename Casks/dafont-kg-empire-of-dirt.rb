@@ -5,7 +5,6 @@ cask 'dafont-kg-empire-of-dirt' do
     url 'http://dl.dafont.com/dl/?f=kg_empire_of_dirt'
     name 'KG Empire of Dirt'
     homepage 'http://www.dafont.com/kg-empire-of-dirt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGEmpireofDirt.ttf'
 end

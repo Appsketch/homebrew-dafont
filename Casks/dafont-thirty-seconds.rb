@@ -5,7 +5,6 @@ cask 'dafont-thirty-seconds' do
     url 'http://dl.dafont.com/dl/?f=thirty_seconds'
     name 'Thirty Seconds'
     homepage 'http://www.dafont.com/thirty-seconds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThirtySeconds.ttf'
 end

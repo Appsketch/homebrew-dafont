@@ -5,7 +5,6 @@ cask 'dafont-game-time' do
     url 'http://dl.dafont.com/dl/?f=game_time'
     name 'Game Time'
     homepage 'http://www.dafont.com/game-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Game_Time.ttf'
 end

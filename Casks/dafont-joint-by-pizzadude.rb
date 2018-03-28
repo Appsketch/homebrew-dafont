@@ -5,7 +5,6 @@ cask 'dafont-joint-by-pizzadude' do
     url 'http://dl.dafont.com/dl/?f=joint_by_pizzadude'
     name 'Joint by Pizzadude'
     homepage 'http://www.dafont.com/joint-by-pizzadude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JOINTBYPIZZADUDE.ttf'
 end

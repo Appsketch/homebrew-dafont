@@ -5,7 +5,6 @@ cask 'dafont-tarantino' do
     url 'http://dl.dafont.com/dl/?f=tarantino'
     name 'Tarantino'
     homepage 'http://www.dafont.com/tarantino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tarantino- PERSONAL USE ONLY.ttf'
 end

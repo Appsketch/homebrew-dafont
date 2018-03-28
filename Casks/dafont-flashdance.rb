@@ -5,7 +5,6 @@ cask 'dafont-flashdance' do
     url 'http://dl.dafont.com/dl/?f=flashdance'
     name 'Flash Dance'
     homepage 'http://www.dafont.com/flashdance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlashDance.ttf'
 end

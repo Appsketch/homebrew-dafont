@@ -5,7 +5,6 @@ cask 'dafont-quasix-titling' do
     url 'http://dl.dafont.com/dl/?f=quasix_titling'
     name 'Quasix Titling'
     homepage 'http://www.dafont.com/quasix-titling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quasix titling.ttf'
 end

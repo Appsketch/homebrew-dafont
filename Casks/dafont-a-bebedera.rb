@@ -5,7 +5,6 @@ cask 'dafont-a-bebedera' do
     url 'http://dl.dafont.com/dl/?f=a_bebedera'
     name 'A Bebedera'
     homepage 'http://www.dafont.com/a-bebedera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A bebedera-heavy.otf'
     font 'A Bebedera.ttf'

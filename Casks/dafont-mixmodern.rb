@@ -5,7 +5,6 @@ cask 'dafont-mixmodern' do
     url 'http://dl.dafont.com/dl/?f=mixmodern'
     name 'Mix Modern'
     homepage 'http://www.dafont.com/mixmodern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixModernOutline.ttf'
     font 'MixModernSolid.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-punk-survival' do
     url 'http://dl.dafont.com/dl/?f=punk_survival'
     name 'Punk Survival'
     homepage 'http://www.dafont.com/punk-survival.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Punk Survival.ttf'
 end

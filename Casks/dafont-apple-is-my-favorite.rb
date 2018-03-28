@@ -5,7 +5,6 @@ cask 'dafont-apple-is-my-favorite' do
     url 'http://dl.dafont.com/dl/?f=apple_is_my_favorite'
     name 'Apple Is My Favorite'
     homepage 'http://www.dafont.com/apple-is-my-favorite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Apple is my favorite.ttf'
 end

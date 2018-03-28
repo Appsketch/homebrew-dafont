@@ -5,7 +5,6 @@ cask 'dafont-made-in-china' do
     url 'http://dl.dafont.com/dl/?f=made_in_china'
     name 'Made in China'
     homepage 'http://www.dafont.com/made-in-china.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MADEC___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-life-to-find' do
     url 'http://dl.dafont.com/dl/?f=life_to_find'
     name 'Life to Find'
     homepage 'http://www.dafont.com/life-to-find.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Life To Find.ttf'
 end

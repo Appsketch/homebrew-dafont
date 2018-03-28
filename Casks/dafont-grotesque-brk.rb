@@ -5,7 +5,6 @@ cask 'dafont-grotesque-brk' do
     url 'http://dl.dafont.com/dl/?f=grotesque_brk'
     name 'Grotesque BRK'
     homepage 'http://www.dafont.com/grotesque-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grotesq.ttf'
 end

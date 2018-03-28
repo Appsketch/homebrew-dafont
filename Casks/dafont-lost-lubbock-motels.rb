@@ -5,7 +5,6 @@ cask 'dafont-lost-lubbock-motels' do
     url 'http://dl.dafont.com/dl/?f=lost_lubbock_motels'
     name 'Lost Lubbock Motels'
     homepage 'http://www.dafont.com/lost-lubbock-motels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lost Lubbock Motels.ttf'
 end

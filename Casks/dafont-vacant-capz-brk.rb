@@ -5,7 +5,6 @@ cask 'dafont-vacant-capz-brk' do
     url 'http://dl.dafont.com/dl/?f=vacant_capz_brk'
     name 'Vacant Capz BRK'
     homepage 'http://www.dafont.com/vacant-capz-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vacantz.ttf'
 end

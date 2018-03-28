@@ -5,7 +5,6 @@ cask 'dafont-dk-aderyn' do
     url 'http://dl.dafont.com/dl/?f=dk_aderyn'
     name 'DK Aderyn'
     homepage 'http://www.dafont.com/dk-aderyn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Aderyn.otf'
 end

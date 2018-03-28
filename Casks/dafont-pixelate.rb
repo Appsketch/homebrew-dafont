@@ -5,7 +5,6 @@ cask 'dafont-pixelate' do
     url 'http://dl.dafont.com/dl/?f=pixelate'
     name 'Pixelate'
     homepage 'http://www.dafont.com/pixelate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixelate.ttf'
 end

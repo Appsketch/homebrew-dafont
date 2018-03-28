@@ -5,7 +5,6 @@ cask 'dafont-jornt' do
     url 'http://dl.dafont.com/dl/?f=jornt'
     name 'Jornt'
     homepage 'http://www.dafont.com/jornt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JORNT_REGULAR.ttf'
 end

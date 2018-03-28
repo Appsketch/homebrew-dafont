@@ -5,7 +5,6 @@ cask 'dafont-garishing-worse' do
     url 'http://dl.dafont.com/dl/?f=garishing_worse'
     name 'Garishing Worse'
     homepage 'http://www.dafont.com/garishing-worse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Garishing_Worse_FREE.ttf'
 end

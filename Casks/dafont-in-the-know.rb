@@ -5,7 +5,6 @@ cask 'dafont-in-the-know' do
     url 'http://dl.dafont.com/dl/?f=in_the_know'
     name 'In The Know'
     homepage 'http://www.dafont.com/in-the-know.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'In The Know.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-atlas-of-the-magi' do
     url 'http://dl.dafont.com/dl/?f=atlas_of_the_magi'
     name 'Atlas of the Magi'
     homepage 'http://www.dafont.com/atlas-of-the-magi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Atlas of the Magi.ttf'
 end

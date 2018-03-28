@@ -5,7 +5,6 @@ cask 'dafont-mysterious-voyage' do
     url 'http://dl.dafont.com/dl/?f=mysterious_voyage'
     name 'Mysterious Voyage'
     homepage 'http://www.dafont.com/mysterious-voyage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MysteriousVoyage.ttf'
 end

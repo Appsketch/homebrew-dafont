@@ -5,7 +5,6 @@ cask 'dafont-snap-2-grid' do
     url 'http://dl.dafont.com/dl/?f=snap_2_grid'
     name 'Snap 2 Grid'
     homepage 'http://www.dafont.com/snap-2-grid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'snap_2_grid.ttf'
 end

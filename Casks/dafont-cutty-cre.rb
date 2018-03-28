@@ -5,7 +5,6 @@ cask 'dafont-cutty-cre' do
     url 'http://dl.dafont.com/dl/?f=cutty_cre'
     name 'Cutty Cre'
     homepage 'http://www.dafont.com/cutty-cre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CUTTY_CRE.ttf'
 end

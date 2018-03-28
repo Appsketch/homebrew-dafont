@@ -5,7 +5,6 @@ cask 'dafont-thirteen-pixel-fonts' do
     url 'http://dl.dafont.com/dl/?f=thirteen_pixel_fonts'
     name 'Thirteen Pixel Fonts'
     homepage 'http://www.dafont.com/thirteen-pixel-fonts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thirteen_pixel_fonts.ttf'
 end

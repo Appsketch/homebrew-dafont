@@ -5,7 +5,6 @@ cask 'dafont-klepon-scone' do
     url 'http://dl.dafont.com/dl/?f=klepon_scone'
     name 'Klepon Scone'
     homepage 'http://www.dafont.com/klepon-scone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Klepon Scone.ttf'
 end

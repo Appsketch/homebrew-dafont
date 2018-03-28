@@ -5,7 +5,6 @@ cask 'dafont-mb-elventype' do
     url 'http://dl.dafont.com/dl/?f=mb_elventype'
     name 'MB ElvenType '
     homepage 'http://www.dafont.com/mb-elventype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-ElvenType_Font.ttf'
 end

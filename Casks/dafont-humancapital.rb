@@ -5,7 +5,6 @@ cask 'dafont-humancapital' do
     url 'http://dl.dafont.com/dl/?f=humancapital'
     name 'Human Capital'
     homepage 'http://www.dafont.com/humancapital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'humancap.otf'
 end

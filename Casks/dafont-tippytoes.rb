@@ -5,7 +5,6 @@ cask 'dafont-tippytoes' do
     url 'http://dl.dafont.com/dl/?f=tippytoes'
     name 'TippyToes'
     homepage 'http://www.dafont.com/tippytoes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TippyToes Bold.ttf'
     font 'TippyToes Regular.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-sloppydragon-vl' do
     url 'http://dl.dafont.com/dl/?f=sloppydragon_vl'
     name 'Sloppy Dragon VL'
     homepage 'http://www.dafont.com/sloppydragon-vl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SloppyDragon_VL.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-brimborion' do
     url 'http://dl.dafont.com/dl/?f=brimborion'
     name 'Brimborion'
     homepage 'http://www.dafont.com/brimborion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRIMARG_.TTF'
     font 'BRIMB___.TTF'

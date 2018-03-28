@@ -5,7 +5,6 @@ cask 'dafont-eisenbahn' do
     url 'http://dl.dafont.com/dl/?f=eisenbahn'
     name 'Eisenbahn'
     homepage 'http://www.dafont.com/eisenbahn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eisenbahn.ttf'
 end

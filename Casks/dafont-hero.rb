@@ -5,7 +5,6 @@ cask 'dafont-hero' do
     url 'http://dl.dafont.com/dl/?f=hero'
     name 'Hero'
     homepage 'http://www.dafont.com/hero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hero-italic.ttf'
     font 'hero.ttf'

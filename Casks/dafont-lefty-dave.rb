@@ -5,7 +5,6 @@ cask 'dafont-lefty-dave' do
     url 'http://dl.dafont.com/dl/?f=lefty_dave'
     name 'Lefty Dave'
     homepage 'http://www.dafont.com/lefty-dave.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lefty Dave.ttf'
 end

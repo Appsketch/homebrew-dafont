@@ -5,7 +5,6 @@ cask 'dafont-pandora-limiter' do
     url 'http://dl.dafont.com/dl/?f=pandora_limiter'
     name 'Pandora Limiter'
     homepage 'http://www.dafont.com/pandora-limiter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pandoralimiter_Teabeer.ttf'
 end

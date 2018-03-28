@@ -5,7 +5,6 @@ cask 'dafont-grossout' do
     url 'http://dl.dafont.com/dl/?f=grossout'
     name 'Grossout'
     homepage 'http://www.dafont.com/grossout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grossout Shadow.ttf'
     font 'Grossout.ttf'

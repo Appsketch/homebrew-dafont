@@ -5,7 +5,6 @@ cask 'dafont-murderous-desire' do
     url 'http://dl.dafont.com/dl/?f=murderous_desire'
     name 'Murderous Desire'
     homepage 'http://www.dafont.com/murderous-desire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'murderous desire DEMO.otf'
 end

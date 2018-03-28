@@ -5,7 +5,6 @@ cask 'dafont-tama-mini02' do
     url 'http://dl.dafont.com/dl/?f=tama_mini02'
     name 'Tama Mini02'
     homepage 'http://www.dafont.com/tama-mini02.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tama_mini02.TTF'
 end

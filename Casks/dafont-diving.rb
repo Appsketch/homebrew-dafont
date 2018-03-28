@@ -5,7 +5,6 @@ cask 'dafont-diving' do
     url 'http://dl.dafont.com/dl/?f=diving'
     name 'Diving'
     homepage 'http://www.dafont.com/diving.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diving.ttf'
 end

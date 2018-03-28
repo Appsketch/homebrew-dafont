@@ -5,7 +5,6 @@ cask 'dafont-grolier-beveled' do
     url 'http://dl.dafont.com/dl/?f=grolier_beveled'
     name 'Grolier Beveled'
     homepage 'http://www.dafont.com/grolier-beveled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grolier Beveled.ttf'
 end

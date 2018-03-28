@@ -5,7 +5,6 @@ cask 'dafont-pancakes-and-whipcream' do
     url 'http://dl.dafont.com/dl/?f=pancakes_and_whipcream'
     name 'Pancakes and Whipcream'
     homepage 'http://www.dafont.com/pancakes-and-whipcream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pancakes and Whipcream.ttf'
 end

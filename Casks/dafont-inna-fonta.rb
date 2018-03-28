@@ -5,7 +5,6 @@ cask 'dafont-inna-fonta' do
     url 'http://dl.dafont.com/dl/?f=inna_fonta'
     name 'Inna Fonta'
     homepage 'http://www.dafont.com/inna-fonta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'inna fonta.ttf'
 end

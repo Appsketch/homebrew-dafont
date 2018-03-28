@@ -5,7 +5,6 @@ cask 'dafont-libby' do
     url 'http://dl.dafont.com/dl/?f=libby'
     name 'Libby'
     homepage 'http://www.dafont.com/libby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LibbyBold.ttf'
     font 'LibbyHeavy.ttf'

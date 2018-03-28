@@ -5,7 +5,6 @@ cask 'dafont-nts-akkhara' do
     url 'http://dl.dafont.com/dl/?f=nts_akkhara'
     name 'NTS Akkhara'
     homepage 'http://www.dafont.com/nts-akkhara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NTSAkkhara-Bold.ttf'
     font 'NTSAkkhara-BoldItalic.ttf'

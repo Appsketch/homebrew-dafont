@@ -5,7 +5,6 @@ cask 'dafont-mclovin' do
     url 'http://dl.dafont.com/dl/?f=mclovin'
     name 'McLovin'
     homepage 'http://www.dafont.com/mclovin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mclovin_medium.ttf'
     font 'mclovin.ttf'

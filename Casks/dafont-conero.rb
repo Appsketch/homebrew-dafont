@@ -5,7 +5,6 @@ cask 'dafont-conero' do
     url 'http://dl.dafont.com/dl/?f=conero'
     name 'Conero'
     homepage 'http://www.dafont.com/conero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Conero.ttf'
 end

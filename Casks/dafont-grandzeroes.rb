@@ -5,7 +5,6 @@ cask 'dafont-grandzeroes' do
     url 'http://dl.dafont.com/dl/?f=grandzeroes'
     name 'Grand Zeroes'
     homepage 'http://www.dafont.com/grandzeroes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrandZeroes.ttf'
 end

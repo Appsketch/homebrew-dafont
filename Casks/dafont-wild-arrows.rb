@@ -5,7 +5,6 @@ cask 'dafont-wild-arrows' do
     url 'http://dl.dafont.com/dl/?f=wild_arrows'
     name 'Wild Arrows'
     homepage 'http://www.dafont.com/wild-arrows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wildarrows.ttf'
 end

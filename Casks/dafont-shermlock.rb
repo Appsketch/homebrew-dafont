@@ -5,7 +5,6 @@ cask 'dafont-shermlock' do
     url 'http://dl.dafont.com/dl/?f=shermlock'
     name 'Shermlock'
     homepage 'http://www.dafont.com/shermlock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shermlock.ttf'
     font 'ShermlockOpen.ttf'

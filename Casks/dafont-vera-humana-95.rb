@@ -5,7 +5,6 @@ cask 'dafont-vera-humana-95' do
     url 'http://dl.dafont.com/dl/?f=vera_humana_95'
     name 'Vera Humana 95'
     homepage 'http://www.dafont.com/vera-humana-95.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Verah___.ttf'
     font 'Verahb__.ttf'

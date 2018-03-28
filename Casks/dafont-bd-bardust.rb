@@ -5,7 +5,6 @@ cask 'dafont-bd-bardust' do
     url 'http://dl.dafont.com/dl/?f=bd_bardust'
     name 'BD Bardust'
     homepage 'http://www.dafont.com/bd-bardust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDBARDUS.TTF'
 end

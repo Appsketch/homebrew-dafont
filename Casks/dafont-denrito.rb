@@ -5,7 +5,6 @@ cask 'dafont-denrito' do
     url 'http://dl.dafont.com/dl/?f=denrito'
     name 'Denrito'
     homepage 'http://www.dafont.com/denrito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DENRITO_.TTF'
 end

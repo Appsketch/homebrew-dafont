@@ -5,7 +5,6 @@ cask 'dafont-bico-de-pena' do
     url 'http://dl.dafont.com/dl/?f=bico_de_pena'
     name 'Bico de Pena'
     homepage 'http://www.dafont.com/bico-de-pena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bico de pena - Regular.ttf'
 end

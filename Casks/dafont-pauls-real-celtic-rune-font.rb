@@ -5,7 +5,6 @@ cask 'dafont-pauls-real-celtic-rune-font' do
     url 'http://dl.dafont.com/dl/?f=pauls_real_celtic_rune_font'
     name 'Pauls Real Celtic Rune'
     homepage 'http://www.dafont.com/pauls-real-celtic-rune-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pauls Real Celtic Rune Font.ttf'
 end

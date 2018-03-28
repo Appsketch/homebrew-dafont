@@ -5,7 +5,6 @@ cask 'dafont-evilsporkgirl' do
     url 'http://dl.dafont.com/dl/?f=evilsporkgirl'
     name 'Evil Spork Girl'
     homepage 'http://www.dafont.com/evilsporkgirl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EvilSporkGirl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-there-goes-the-neig' do
     url 'http://dl.dafont.com/dl/?f=there_goes_the_neig'
     name 'There Goes the Neighborhood'
     homepage 'http://www.dafont.com/there-goes-the-neig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THEREGOE.TTF'
 end

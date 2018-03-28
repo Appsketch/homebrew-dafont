@@ -5,7 +5,6 @@ cask 'dafont-celebration' do
     url 'http://dl.dafont.com/dl/?f=celebration'
     name 'Celebration'
     homepage 'http://www.dafont.com/celebration.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Celebration.ttf'
 end

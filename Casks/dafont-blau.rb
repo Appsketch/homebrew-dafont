@@ -5,7 +5,6 @@ cask 'dafont-blau' do
     url 'http://dl.dafont.com/dl/?f=blau'
     name 'Blau'
     homepage 'http://www.dafont.com/blau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blau7pt.ttf'
 end

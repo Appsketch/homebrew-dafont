@@ -5,7 +5,6 @@ cask 'dafont-bharatic' do
     url 'http://dl.dafont.com/dl/?f=bharatic'
     name 'Bharatic'
     homepage 'http://www.dafont.com/bharatic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bharatic-Font.TTF'
     font 'Bharatic-Fontw.TTF'

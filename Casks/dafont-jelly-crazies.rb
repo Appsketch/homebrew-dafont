@@ -5,7 +5,6 @@ cask 'dafont-jelly-crazies' do
     url 'http://dl.dafont.com/dl/?f=jelly_crazies'
     name 'Jelly Crazies'
     homepage 'http://www.dafont.com/jelly-crazies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jelly Crazies.ttf'
 end

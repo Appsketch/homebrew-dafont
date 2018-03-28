@@ -5,7 +5,6 @@ cask 'dafont-jellyka-jellyfish' do
     url 'http://dl.dafont.com/dl/?f=jellyka_jellyfish'
     name 'Jellyka Jellyfish'
     homepage 'http://www.dafont.com/jellyka-jellyfish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jellofont.ttf'
 end

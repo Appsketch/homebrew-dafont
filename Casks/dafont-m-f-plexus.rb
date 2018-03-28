@@ -5,7 +5,6 @@ cask 'dafont-m-f-plexus' do
     url 'http://dl.dafont.com/dl/?f=m_f_plexus'
     name 'M.F. Plexus'
     homepage 'http://www.dafont.com/m-f-plexus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'M.F. Plexus Italic.ttf'
 end

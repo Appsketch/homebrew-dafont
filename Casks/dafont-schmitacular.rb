@@ -5,7 +5,6 @@ cask 'dafont-schmitacular' do
     url 'http://dl.dafont.com/dl/?f=schmitacular'
     name 'Schmitacular'
     homepage 'http://www.dafont.com/schmitacular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Schmitacular.ttf'
 end

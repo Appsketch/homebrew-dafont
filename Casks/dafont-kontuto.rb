@@ -5,7 +5,6 @@ cask 'dafont-kontuto' do
     url 'http://dl.dafont.com/dl/?f=kontuto'
     name 'Kontuto'
     homepage 'http://www.dafont.com/kontuto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kontuto.ttf'
 end

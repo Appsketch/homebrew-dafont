@@ -5,7 +5,6 @@ cask 'dafont-masonic' do
     url 'http://dl.dafont.com/dl/?f=masonic'
     name 'Masonic'
     homepage 'http://www.dafont.com/masonic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MASONIC_.TTF'
 end

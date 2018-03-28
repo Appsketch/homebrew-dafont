@@ -5,7 +5,6 @@ cask 'dafont-blackbooktwo' do
     url 'http://dl.dafont.com/dl/?f=blackbooktwo'
     name 'Blackbook Two'
     homepage 'http://www.dafont.com/blackbooktwo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackbookTwo.ttf'
 end

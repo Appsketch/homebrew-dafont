@@ -5,7 +5,6 @@ cask 'dafont-americanwestern' do
     url 'http://dl.dafont.com/dl/?f=americanwestern'
     name 'American Western'
     homepage 'http://www.dafont.com/americanwestern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmericanWestern.ttf'
 end

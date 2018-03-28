@@ -5,7 +5,6 @@ cask 'dafont-don-butique' do
     url 'http://dl.dafont.com/dl/?f=don_butique'
     name 'Don Butique'
     homepage 'http://www.dafont.com/don-butique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'don butique.ttf'
 end

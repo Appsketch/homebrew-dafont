@@ -5,7 +5,6 @@ cask 'dafont-heavy-metal-gaze' do
     url 'http://dl.dafont.com/dl/?f=heavy_metal_gaze'
     name 'Heavy Metal Gaze'
     homepage 'http://www.dafont.com/heavy-metal-gaze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heavy Metal Gaze.ttf'
 end

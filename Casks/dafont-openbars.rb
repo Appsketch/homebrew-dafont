@@ -5,7 +5,6 @@ cask 'dafont-openbars' do
     url 'http://dl.dafont.com/dl/?f=openbars'
     name 'Open Bars'
     homepage 'http://www.dafont.com/openbars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OpenBars.ttf'
 end

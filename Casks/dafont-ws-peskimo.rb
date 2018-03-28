@@ -5,7 +5,6 @@ cask 'dafont-ws-peskimo' do
     url 'http://dl.dafont.com/dl/?f=ws_peskimo'
     name 'WS Peskimo'
     homepage 'http://www.dafont.com/ws-peskimo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WSPeskimo.ttf'
 end

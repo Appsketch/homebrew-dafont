@@ -5,7 +5,6 @@ cask 'dafont-parisienne-small' do
     url 'http://dl.dafont.com/dl/?f=parisienne_small'
     name 'Parisienne Small'
     homepage 'http://www.dafont.com/parisienne-small.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Parisienne-Small.ttf'
 end

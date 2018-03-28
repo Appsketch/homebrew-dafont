@@ -5,7 +5,6 @@ cask 'dafont-boldbronzyne' do
     url 'http://dl.dafont.com/dl/?f=boldbronzyne'
     name 'Bold Bronzyne'
     homepage 'http://www.dafont.com/boldbronzyne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BoldBronzyne.ttf'
 end

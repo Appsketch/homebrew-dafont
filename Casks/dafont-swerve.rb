@@ -5,7 +5,6 @@ cask 'dafont-swerve' do
     url 'http://dl.dafont.com/dl/?f=swerve'
     name 'Swerve'
     homepage 'http://www.dafont.com/swerve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'swerve.ttf'
     font 'swerveb.ttf'

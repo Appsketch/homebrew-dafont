@@ -5,7 +5,6 @@ cask 'dafont-goldmine' do
     url 'http://dl.dafont.com/dl/?f=goldmine'
     name 'Goldmine'
     homepage 'http://www.dafont.com/goldmine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Goldmine.ttf'
 end

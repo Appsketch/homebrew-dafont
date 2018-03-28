@@ -5,7 +5,6 @@ cask 'dafont-head-case' do
     url 'http://dl.dafont.com/dl/?f=head_case'
     name 'Head Case'
     homepage 'http://www.dafont.com/head-case.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Head Case.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bm-plain' do
     url 'http://dl.dafont.com/dl/?f=bm_plain'
     name 'BM Plain'
     homepage 'http://www.dafont.com/bm-plain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMplain.TTF'
 end

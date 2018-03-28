@@ -5,7 +5,6 @@ cask 'dafont-asi-system-mono' do
     url 'http://dl.dafont.com/dl/?f=asi_system_mono'
     name 'ASI System Mono'
     homepage 'http://www.dafont.com/asi-system-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASIFONT.FON'
 end

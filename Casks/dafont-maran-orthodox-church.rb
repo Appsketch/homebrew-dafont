@@ -5,7 +5,6 @@ cask 'dafont-maran-orthodox-church' do
     url 'http://dl.dafont.com/dl/?f=maran_orthodox_church'
     name 'Maran Orthodox Church'
     homepage 'http://www.dafont.com/maran-orthodox-church.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'maran_orthodox_church.ttf'
 end

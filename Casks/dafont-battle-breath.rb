@@ -5,7 +5,6 @@ cask 'dafont-battle-breath' do
     url 'http://dl.dafont.com/dl/?f=battle_breath'
     name 'Battle Breath'
     homepage 'http://www.dafont.com/battle-breath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'battle breath Bold Italic.ttf'
     font 'battlebreath_pg.ttf'

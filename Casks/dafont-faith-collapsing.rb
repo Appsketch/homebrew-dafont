@@ -5,7 +5,6 @@ cask 'dafont-faith-collapsing' do
     url 'http://dl.dafont.com/dl/?f=faith_collapsing'
     name 'Faith Collapsing'
     homepage 'http://www.dafont.com/faith-collapsing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Faith Collapsing.ttf'
 end

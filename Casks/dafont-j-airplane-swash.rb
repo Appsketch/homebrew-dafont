@@ -5,7 +5,6 @@ cask 'dafont-j-airplane-swash' do
     url 'http://dl.dafont.com/dl/?f=j_airplane_swash'
     name 'J. Airplane Swash'
     homepage 'http://www.dafont.com/j-airplane-swash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'J-airplane-swash-font.ttf'
     font 'J-airplane-swash-italic-font.ttf'

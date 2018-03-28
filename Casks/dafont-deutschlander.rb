@@ -5,7 +5,6 @@ cask 'dafont-deutschlander' do
     url 'http://dl.dafont.com/dl/?f=deutschlander'
     name 'Deutschlander'
     homepage 'http://www.dafont.com/deutschlander.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deutschlander.otf'
 end

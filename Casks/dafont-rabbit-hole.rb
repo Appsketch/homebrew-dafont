@@ -5,7 +5,6 @@ cask 'dafont-rabbit-hole' do
     url 'http://dl.dafont.com/dl/?f=rabbit_hole'
     name 'Rabbit Hole'
     homepage 'http://www.dafont.com/rabbit-hole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rabbit Hole.ttf'
 end

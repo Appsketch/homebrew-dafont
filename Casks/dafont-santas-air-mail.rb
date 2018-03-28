@@ -5,7 +5,6 @@ cask 'dafont-santas-air-mail' do
     url 'http://dl.dafont.com/dl/?f=santas_air_mail'
     name 'Santa&#039;s Air Mail'
     homepage 'http://www.dafont.com/santas-air-mail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Santa&#039;s Air Mail.ttf'
 end

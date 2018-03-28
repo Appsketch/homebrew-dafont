@@ -5,7 +5,6 @@ cask 'dafont-electricalneue' do
     url 'http://dl.dafont.com/dl/?f=electricalneue'
     name 'Electrical Neue'
     homepage 'http://www.dafont.com/electricalneue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ElectricalNeue.ttf'
 end

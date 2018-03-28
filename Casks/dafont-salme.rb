@@ -5,7 +5,6 @@ cask 'dafont-salme' do
     url 'http://dl.dafont.com/dl/?f=salme'
     name 'Salme'
     homepage 'http://www.dafont.com/salme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Salme.ttf'
 end

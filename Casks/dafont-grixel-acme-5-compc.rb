@@ -5,7 +5,6 @@ cask 'dafont-grixel-acme-5-compc' do
     url 'http://dl.dafont.com/dl/?f=grixel_acme_5_compc'
     name 'Grixel Acme 5 CompCapsO'
     homepage 'http://www.dafont.com/grixel-acme-5-compc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Acme 5 Compressed Caps Outline Xtnd.ttf'
     font 'Acme 5 Compressed Caps Outline.ttf'

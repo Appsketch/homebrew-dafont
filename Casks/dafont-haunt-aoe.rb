@@ -5,7 +5,6 @@ cask 'dafont-haunt-aoe' do
     url 'http://dl.dafont.com/dl/?f=haunt_aoe'
     name 'Haunt AOE'
     homepage 'http://www.dafont.com/haunt-aoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truetype/HauntAOE.ttf'
 end

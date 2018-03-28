@@ -5,7 +5,6 @@ cask 'dafont-sk-anna' do
     url 'http://dl.dafont.com/dl/?f=sk_anna'
     name 'SK Anna'
     homepage 'http://www.dafont.com/sk-anna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SK_ANNA.ttf'
 end

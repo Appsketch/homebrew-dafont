@@ -5,7 +5,6 @@ cask 'dafont-second-lyrics' do
     url 'http://dl.dafont.com/dl/?f=second_lyrics'
     name 'Second Lyrics'
     homepage 'http://www.dafont.com/second-lyrics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SecondLyrics.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-runstop-restore' do
     url 'http://dl.dafont.com/dl/?f=runstop_restore'
     name 'Runstop Restore'
     homepage 'http://www.dafont.com/runstop-restore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'runstop.ttf'
 end

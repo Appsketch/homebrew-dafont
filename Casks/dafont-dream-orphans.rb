@@ -5,7 +5,6 @@ cask 'dafont-dream-orphans' do
     url 'http://dl.dafont.com/dl/?f=dream_orphans'
     name 'Dream Orphans'
     homepage 'http://www.dafont.com/dream-orphans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dream orphans bd it.ttf'
     font 'dream orphans bd.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-pw403' do
     url 'http://dl.dafont.com/dl/?f=pw403'
     name 'PW403'
     homepage 'http://www.dafont.com/pw403.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PW403.ttf'
 end

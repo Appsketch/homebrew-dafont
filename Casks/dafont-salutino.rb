@@ -5,7 +5,6 @@ cask 'dafont-salutino' do
     url 'http://dl.dafont.com/dl/?f=salutino'
     name 'Salutino'
     homepage 'http://www.dafont.com/salutino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ATOSalutino.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dayang-senandung' do
     url 'http://dl.dafont.com/dl/?f=dayang_senandung'
     name 'Dayang Senandung'
     homepage 'http://www.dafont.com/dayang-senandung.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DayangSenandung.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-techkr' do
     url 'http://dl.dafont.com/dl/?f=techkr'
     name 'TechKr'
     homepage 'http://www.dafont.com/techkr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TECHKR__.TTF'
 end

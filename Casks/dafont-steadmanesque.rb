@@ -5,7 +5,6 @@ cask 'dafont-steadmanesque' do
     url 'http://dl.dafont.com/dl/?f=steadmanesque'
     name 'Steadmanesque'
     homepage 'http://www.dafont.com/steadmanesque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STEADMAN.TTF'
 end

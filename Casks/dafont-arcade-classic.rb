@@ -5,7 +5,6 @@ cask 'dafont-arcade-classic' do
     url 'http://dl.dafont.com/dl/?f=arcade_classic'
     name 'Arcade Classic'
     homepage 'http://www.dafont.com/arcade-classic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arcade Classic.ttf'
 end

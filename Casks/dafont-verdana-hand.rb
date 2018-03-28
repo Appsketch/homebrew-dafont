@@ -5,7 +5,6 @@ cask 'dafont-verdana-hand' do
     url 'http://dl.dafont.com/dl/?f=verdana_hand'
     name 'Verdana Hand'
     homepage 'http://www.dafont.com/verdana-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tipo.ttf'
 end

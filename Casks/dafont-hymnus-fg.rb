@@ -5,7 +5,6 @@ cask 'dafont-hymnus-fg' do
     url 'http://dl.dafont.com/dl/?f=hymnus_fg'
     name 'Hymnus FG'
     homepage 'http://www.dafont.com/hymnus-fg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hymnus_202.ttf'
 end

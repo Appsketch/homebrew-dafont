@@ -5,7 +5,6 @@ cask 'dafont-alien-abc' do
     url 'http://dl.dafont.com/dl/?f=alien_abc'
     name 'Alien ABC'
     homepage 'http://www.dafont.com/alien-abc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alien ABC.ttf'
 end

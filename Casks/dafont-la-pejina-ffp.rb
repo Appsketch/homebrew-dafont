@@ -5,7 +5,6 @@ cask 'dafont-la-pejina-ffp' do
     url 'http://dl.dafont.com/dl/?f=la_pejina_ffp'
     name 'La Pejina FFP'
     homepage 'http://www.dafont.com/la-pejina-ffp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'La-Pejina-font-italic-personal-use.otf'
     font 'La-Pejina-font-personal-use.otf'

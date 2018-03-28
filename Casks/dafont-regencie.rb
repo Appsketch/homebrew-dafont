@@ -5,7 +5,6 @@ cask 'dafont-regencie' do
     url 'http://dl.dafont.com/dl/?f=regencie'
     name 'Regencie'
     homepage 'http://www.dafont.com/regencie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RegencieLight.ttf'
     font 'RegencieLightAlt.ttf'

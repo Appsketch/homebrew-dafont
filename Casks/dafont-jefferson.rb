@@ -5,7 +5,6 @@ cask 'dafont-jefferson' do
     url 'http://dl.dafont.com/dl/?f=jefferson'
     name 'Jefferson'
     homepage 'http://www.dafont.com/jefferson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jeffrson.ttf'
 end

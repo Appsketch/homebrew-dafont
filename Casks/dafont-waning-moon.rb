@@ -5,7 +5,6 @@ cask 'dafont-waning-moon' do
     url 'http://dl.dafont.com/dl/?f=waning_moon'
     name 'Waning Moon'
     homepage 'http://www.dafont.com/waning-moon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Waning Moon.ttf'
 end

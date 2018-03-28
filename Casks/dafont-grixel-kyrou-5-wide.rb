@@ -5,7 +5,6 @@ cask 'dafont-grixel-kyrou-5-wide' do
     url 'http://dl.dafont.com/dl/?f=grixel_kyrou_5_wide'
     name 'Grixel Kyrou 5 Wide'
     homepage 'http://www.dafont.com/grixel-kyrou-5-wide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kyrou 5 Wide Bold Xtnd.ttf'
     font 'Kyrou 5 Wide Bold.ttf'

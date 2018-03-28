@@ -5,7 +5,6 @@ cask 'dafont-vtc-karnival' do
     url 'http://dl.dafont.com/dl/?f=vtc_karnival'
     name 'VTC-Karnival '
     homepage 'http://www.dafont.com/vtc-karnival.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC-Karnival Fat.ttf'
 end

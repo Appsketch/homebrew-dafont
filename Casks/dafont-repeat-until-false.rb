@@ -5,7 +5,6 @@ cask 'dafont-repeat-until-false' do
     url 'http://dl.dafont.com/dl/?f=repeat_until_false'
     name 'Repeat Until False'
     homepage 'http://www.dafont.com/repeat-until-false.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REPEATUNTILFALSE.ttf'
 end

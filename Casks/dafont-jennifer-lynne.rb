@@ -5,7 +5,6 @@ cask 'dafont-jennifer-lynne' do
     url 'http://dl.dafont.com/dl/?f=jennifer_lynne'
     name 'Jennifer Lynne'
     homepage 'http://www.dafont.com/jennifer-lynne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jennifer Lynne Bold.ttf'
     font 'Jennifer Lynne.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-rainfall' do
     url 'http://dl.dafont.com/dl/?f=rainfall'
     name 'Rainfall'
     homepage 'http://www.dafont.com/rainfall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RAINFALL.otf'
 end

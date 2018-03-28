@@ -5,7 +5,6 @@ cask 'dafont-grand-duchess' do
     url 'http://dl.dafont.com/dl/?f=grand_duchess'
     name 'Grand Duchess'
     homepage 'http://www.dafont.com/grand-duchess.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grand_Duchess.ttf'
 end

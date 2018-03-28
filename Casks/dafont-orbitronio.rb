@@ -5,7 +5,6 @@ cask 'dafont-orbitronio' do
     url 'http://dl.dafont.com/dl/?f=orbitronio'
     name 'Orbitronio'
     homepage 'http://www.dafont.com/orbitronio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Orbitronio.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-camelotdenada' do
     url 'http://dl.dafont.com/dl/?f=camelotdenada'
     name 'Camelot DeNada'
     homepage 'http://www.dafont.com/camelotdenada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CamelotDeNada.ttf'
 end

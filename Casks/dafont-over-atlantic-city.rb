@@ -5,7 +5,6 @@ cask 'dafont-over-atlantic-city' do
     url 'http://dl.dafont.com/dl/?f=over_atlantic_city'
     name 'Over Atlantic City'
     homepage 'http://www.dafont.com/over-atlantic-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Over Atlantic City.otf'
 end

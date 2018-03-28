@@ -5,7 +5,6 @@ cask 'dafont-abstracta' do
     url 'http://dl.dafont.com/dl/?f=abstracta'
     name 'Abstracta'
     homepage 'http://www.dafont.com/abstracta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abstracta.ttf'
 end

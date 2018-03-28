@@ -5,7 +5,6 @@ cask 'dafont-barbapa3' do
     url 'http://dl.dafont.com/dl/?f=barbapa3'
     name 'Barbapa 3'
     homepage 'http://www.dafont.com/barbapa3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BARBAPA-.TTF'
 end

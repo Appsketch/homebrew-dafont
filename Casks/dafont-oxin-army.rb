@@ -5,7 +5,6 @@ cask 'dafont-oxin-army' do
     url 'http://dl.dafont.com/dl/?f=oxin_army'
     name 'Oxin Army'
     homepage 'http://www.dafont.com/oxin-army.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oxin Army free promo.ttf'
 end

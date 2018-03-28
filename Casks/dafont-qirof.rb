@@ -5,7 +5,6 @@ cask 'dafont-qirof' do
     url 'http://dl.dafont.com/dl/?f=qirof'
     name 'Qirof'
     homepage 'http://www.dafont.com/qirof.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Qiroff.ttf'
 end

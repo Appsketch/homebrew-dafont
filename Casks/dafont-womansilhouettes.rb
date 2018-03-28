@@ -5,7 +5,6 @@ cask 'dafont-womansilhouettes' do
     url 'http://dl.dafont.com/dl/?f=womansilhouettes'
     name 'Woman Silhouettes'
     homepage 'http://www.dafont.com/womansilhouettes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WomanSilhouettes.ttf'
 end

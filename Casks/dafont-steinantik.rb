@@ -5,7 +5,6 @@ cask 'dafont-steinantik' do
     url 'http://dl.dafont.com/dl/?f=steinantik'
     name 'Stein Antik'
     homepage 'http://www.dafont.com/steinantik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SteinAntik-Bold.ttf'
     font 'SteinAntik-Light.ttf'

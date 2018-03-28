@@ -5,7 +5,6 @@ cask 'dafont-my-angle' do
     url 'http://dl.dafont.com/dl/?f=my_angle'
     name 'My Angle'
     homepage 'http://www.dafont.com/my-angle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My Angle.ttf'
 end

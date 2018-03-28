@@ -5,7 +5,6 @@ cask 'dafont-hff-black-steel' do
     url 'http://dl.dafont.com/dl/?f=hff_black_steel'
     name 'HFF Black Steel'
     homepage 'http://www.dafont.com/hff-black-steel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Black Steel.ttf'
 end

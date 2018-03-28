@@ -5,7 +5,6 @@ cask 'dafont-roycroft-initials' do
     url 'http://dl.dafont.com/dl/?f=roycroft_initials'
     name 'Roycroft Initials'
     homepage 'http://www.dafont.com/roycroft-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Roycroft.ttf'
 end

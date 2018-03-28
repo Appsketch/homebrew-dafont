@@ -5,7 +5,6 @@ cask 'dafont-806-typography' do
     url 'http://dl.dafont.com/dl/?f=806_typography'
     name '806 Typography'
     homepage 'http://www.dafont.com/806-typography.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '806Typography.otf'
 end

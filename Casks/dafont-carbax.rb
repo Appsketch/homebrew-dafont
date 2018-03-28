@@ -5,7 +5,6 @@ cask 'dafont-carbax' do
     url 'http://dl.dafont.com/dl/?f=carbax'
     name 'Carbax'
     homepage 'http://www.dafont.com/carbax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carbax.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wc-wunderbach-bta' do
     url 'http://dl.dafont.com/dl/?f=wc_wunderbach_bta'
     name 'WC Wunderbach Bta'
     homepage 'http://www.dafont.com/wc-wunderbach-bta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WC_Wunderbach.ttf'
 end

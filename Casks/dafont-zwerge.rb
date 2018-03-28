@@ -5,7 +5,6 @@ cask 'dafont-zwerge' do
     url 'http://dl.dafont.com/dl/?f=zwerge'
     name 'Zwerge'
     homepage 'http://www.dafont.com/zwerge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zwerge.otf'
 end

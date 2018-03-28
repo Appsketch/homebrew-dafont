@@ -5,7 +5,6 @@ cask 'dafont-brushshop' do
     url 'http://dl.dafont.com/dl/?f=brushshop'
     name 'Brushshop'
     homepage 'http://www.dafont.com/brushshop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brushshop regular.otf'
     font 'brushshop regular.ttf'

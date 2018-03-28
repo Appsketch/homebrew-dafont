@@ -5,7 +5,6 @@ cask 'dafont-konfuciuz' do
     url 'http://dl.dafont.com/dl/?f=konfuciuz'
     name 'Konfuciuz'
     homepage 'http://www.dafont.com/konfuciuz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KONFUC__.ttf'
     font 'KONFUCF_.ttf'

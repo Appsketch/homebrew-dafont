@@ -5,7 +5,6 @@ cask 'dafont-grotesca-3-d' do
     url 'http://dl.dafont.com/dl/?f=grotesca_3_d'
     name 'Grotesca 3D'
     homepage 'http://www.dafont.com/grotesca-3-d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grotesca 3D.ttf'
 end

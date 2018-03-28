@@ -5,7 +5,6 @@ cask 'dafont-marker-pen' do
     url 'http://dl.dafont.com/dl/?f=marker_pen'
     name 'Marker Pen '
     homepage 'http://www.dafont.com/marker-pen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marker Pen.ttf'
 end

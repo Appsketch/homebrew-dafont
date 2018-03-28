@@ -5,7 +5,6 @@ cask 'dafont-tregger' do
     url 'http://dl.dafont.com/dl/?f=tregger'
     name 'Tregger'
     homepage 'http://www.dafont.com/tregger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tregger.ttf'
 end

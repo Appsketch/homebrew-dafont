@@ -5,7 +5,6 @@ cask 'dafont-valdemar' do
     url 'http://dl.dafont.com/dl/?f=valdemar'
     name 'Valdemar'
     homepage 'http://www.dafont.com/valdemar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'valdemar.ttf'
 end

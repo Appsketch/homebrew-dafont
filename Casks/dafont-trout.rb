@@ -5,7 +5,6 @@ cask 'dafont-trout' do
     url 'http://dl.dafont.com/dl/?f=trout'
     name 'Trout'
     homepage 'http://www.dafont.com/trout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trout.ttf'
 end

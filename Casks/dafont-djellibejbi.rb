@@ -5,7 +5,6 @@ cask 'dafont-djellibejbi' do
     url 'http://dl.dafont.com/dl/?f=djellibejbi'
     name 'Djellibejbi'
     homepage 'http://www.dafont.com/djellibejbi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Djellibejbi.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-marketing-script' do
     url 'http://dl.dafont.com/dl/?f=marketing_script'
     name 'Marketing Script'
     homepage 'http://www.dafont.com/marketing-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MarketingScript-Inline.ttf'
     font 'MarketingScript-Shadow.ttf'

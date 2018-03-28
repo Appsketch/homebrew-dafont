@@ -5,7 +5,6 @@ cask 'dafont-im-fell-flowers' do
     url 'http://dl.dafont.com/dl/?f=im_fell_flowers'
     name 'Im Fell Flowers'
     homepage 'http://www.dafont.com/im-fell-flowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FeFlow1.ttf'
     font 'FeFlow2.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-etchasketch' do
     url 'http://dl.dafont.com/dl/?f=etchasketch'
     name 'EtchAsketch'
     homepage 'http://www.dafont.com/etchasketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EASTRIAL.ttf'
 end

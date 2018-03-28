@@ -5,7 +5,6 @@ cask 'dafont-ontheleft' do
     url 'http://dl.dafont.com/dl/?f=ontheleft'
     name 'On the Left'
     homepage 'http://www.dafont.com/ontheleft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OntheLeft.ttf'
 end

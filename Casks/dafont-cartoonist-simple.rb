@@ -5,7 +5,6 @@ cask 'dafont-cartoonist-simple' do
     url 'http://dl.dafont.com/dl/?f=cartoonist_simple'
     name 'Cartoonist Simple'
     homepage 'http://www.dafont.com/cartoonist-simple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CARTNIST.TTF'
 end

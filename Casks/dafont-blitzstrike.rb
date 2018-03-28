@@ -5,7 +5,6 @@ cask 'dafont-blitzstrike' do
     url 'http://dl.dafont.com/dl/?f=blitzstrike'
     name 'Blitzstrike'
     homepage 'http://www.dafont.com/blitzstrike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blitzstrike.ttf'
     font 'blitzstrike3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-phytoplankton' do
     url 'http://dl.dafont.com/dl/?f=phytoplankton'
     name 'Phytoplankton'
     homepage 'http://www.dafont.com/phytoplankton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PHYTOPLANKTON.ttf'
 end

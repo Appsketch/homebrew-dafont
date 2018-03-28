@@ -5,7 +5,6 @@ cask 'dafont-eenvoudige-batik' do
     url 'http://dl.dafont.com/dl/?f=eenvoudige_batik'
     name 'Eenvoudige Batik'
     homepage 'http://www.dafont.com/eenvoudige-batik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eenvoudige_batik_.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-greghor2' do
     url 'http://dl.dafont.com/dl/?f=greghor2'
     name 'Greghor II'
     homepage 'http://www.dafont.com/greghor2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GREGHOR2.TTF'
 end

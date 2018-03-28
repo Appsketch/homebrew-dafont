@@ -5,7 +5,6 @@ cask 'dafont-swingers' do
     url 'http://dl.dafont.com/dl/?f=swingers'
     name 'Swingers'
     homepage 'http://www.dafont.com/swingers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swingers.ttf'
 end

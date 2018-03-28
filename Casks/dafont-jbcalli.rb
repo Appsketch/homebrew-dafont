@@ -5,7 +5,6 @@ cask 'dafont-jbcalli' do
     url 'http://dl.dafont.com/dl/?f=jbcalli'
     name 'JB Calli'
     homepage 'http://www.dafont.com/jbcalli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JBCalli-Bold.otf'
     font 'JBCalli-Regular.otf'

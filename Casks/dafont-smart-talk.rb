@@ -5,7 +5,6 @@ cask 'dafont-smart-talk' do
     url 'http://dl.dafont.com/dl/?f=smart_talk'
     name 'Smart Talk'
     homepage 'http://www.dafont.com/smart-talk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smart Talk.ttf'
 end

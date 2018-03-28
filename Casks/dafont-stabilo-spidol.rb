@@ -5,7 +5,6 @@ cask 'dafont-stabilo-spidol' do
     url 'http://dl.dafont.com/dl/?f=stabilo_spidol'
     name 'Stabilo Spidol'
     homepage 'http://www.dafont.com/stabilo-spidol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STABILO Spidol.ttf'
 end

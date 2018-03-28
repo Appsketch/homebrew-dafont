@@ -5,7 +5,6 @@ cask 'dafont-tng-cast' do
     url 'http://dl.dafont.com/dl/?f=tng_cast'
     name 'TNG Cast'
     homepage 'http://www.dafont.com/tng-cast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tngcast_.ttf'
 end

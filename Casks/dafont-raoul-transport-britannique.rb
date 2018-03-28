@@ -5,7 +5,6 @@ cask 'dafont-raoul-transport-britannique' do
     url 'http://dl.dafont.com/dl/?f=raoul_transport_britannique'
     name 'Raoul Transport Britannique'
     homepage 'http://www.dafont.com/raoul-transport-britannique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RaoulAUTOROUTEBritannique.ttf'
     font 'RaoulTRANSPORTBritannique.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-karyna-feet' do
     url 'http://dl.dafont.com/dl/?f=karyna_feet'
     name 'Karyna Feet'
     homepage 'http://www.dafont.com/karyna-feet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'karyna_font.ttf'
 end

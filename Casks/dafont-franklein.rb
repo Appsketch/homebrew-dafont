@@ -5,7 +5,6 @@ cask 'dafont-franklein' do
     url 'http://dl.dafont.com/dl/?f=franklein'
     name 'FranKlein'
     homepage 'http://www.dafont.com/franklein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FranKleinBold.ttf'
     font 'FranKleinBook.ttf'

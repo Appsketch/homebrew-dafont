@@ -5,7 +5,6 @@ cask 'dafont-delicieux' do
     url 'http://dl.dafont.com/dl/?f=delicieux'
     name 'Delicieux'
     homepage 'http://www.dafont.com/delicieux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'delicieux.ttf'
 end

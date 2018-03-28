@@ -5,7 +5,6 @@ cask 'dafont-alegre-sans-nc' do
     url 'http://dl.dafont.com/dl/?f=alegre_sans_nc'
     name 'Al&eacute;gre Sans'
     homepage 'http://www.dafont.com/alegre-sans-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlegreSans-Regular.ttf'
 end

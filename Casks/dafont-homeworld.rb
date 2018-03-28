@@ -5,7 +5,6 @@ cask 'dafont-homeworld' do
     url 'http://dl.dafont.com/dl/?f=homeworld'
     name 'Homeworld'
     homepage 'http://www.dafont.com/homeworld.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'homeworld_translator/homewt.ttf'
     font 'homeworld_translator/homewti.ttf'

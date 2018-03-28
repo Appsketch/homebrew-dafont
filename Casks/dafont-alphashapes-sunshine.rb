@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-sunshine' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_sunshine'
     name 'AlphaShapes Sunshine'
     homepage 'http://www.dafont.com/alphashapes-sunshine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'assunshine.ttf'
 end

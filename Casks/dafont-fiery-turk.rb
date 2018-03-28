@@ -5,7 +5,6 @@ cask 'dafont-fiery-turk' do
     url 'http://dl.dafont.com/dl/?f=fiery_turk'
     name 'Fiery Turk'
     homepage 'http://www.dafont.com/fiery-turk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fiery_Turk.ttf'
 end

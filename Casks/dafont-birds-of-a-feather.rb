@@ -5,7 +5,6 @@ cask 'dafont-birds-of-a-feather' do
     url 'http://dl.dafont.com/dl/?f=birds_of_a_feather'
     name 'Birds of a Feather'
     homepage 'http://www.dafont.com/birds-of-a-feather.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bfeather.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-graph-35-pix' do
     url 'http://dl.dafont.com/dl/?f=graph_35_pix'
     name 'Graph 35+ pix'
     homepage 'http://www.dafont.com/graph-35-pix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Graph-35-pix.ttf'
 end

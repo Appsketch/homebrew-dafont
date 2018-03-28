@@ -5,7 +5,6 @@ cask 'dafont-electricalstorm' do
     url 'http://dl.dafont.com/dl/?f=electricalstorm'
     name 'Electrical Storm'
     homepage 'http://www.dafont.com/electricalstorm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ElectricalStorm.ttf'
 end

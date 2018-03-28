@@ -5,7 +5,6 @@ cask 'dafont-aetherfox' do
     url 'http://dl.dafont.com/dl/?f=aetherfox'
     name 'Aetherfox'
     homepage 'http://www.dafont.com/aetherfox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aetherfox.ttf'
     font 'aetherfox3d.ttf'

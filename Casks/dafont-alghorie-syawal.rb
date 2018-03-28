@@ -5,7 +5,6 @@ cask 'dafont-alghorie-syawal' do
     url 'http://dl.dafont.com/dl/?f=alghorie_syawal'
     name 'Alghorie Syawal'
     homepage 'http://www.dafont.com/alghorie-syawal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alghorie Syawal.ttf'
 end

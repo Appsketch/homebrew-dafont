@@ -5,7 +5,6 @@ cask 'dafont-speakeasy-menu' do
     url 'http://dl.dafont.com/dl/?f=speakeasy_menu'
     name 'Speakeasy Menu'
     homepage 'http://www.dafont.com/speakeasy-menu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Speakeasy Menu Regular.ttf'
 end

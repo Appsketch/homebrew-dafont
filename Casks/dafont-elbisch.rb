@@ -5,7 +5,6 @@ cask 'dafont-elbisch' do
     url 'http://dl.dafont.com/dl/?f=elbisch'
     name 'Elbisch'
     homepage 'http://www.dafont.com/elbisch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elbisch.otf'
 end

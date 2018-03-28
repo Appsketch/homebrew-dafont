@@ -5,7 +5,6 @@ cask 'dafont-girl-power' do
     url 'http://dl.dafont.com/dl/?f=girl_power'
     name 'Girl Power'
     homepage 'http://www.dafont.com/girl-power.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'girl power.ttf'
 end

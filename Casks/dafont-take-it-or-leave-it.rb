@@ -5,7 +5,6 @@ cask 'dafont-take-it-or-leave-it' do
     url 'http://dl.dafont.com/dl/?f=take_it_or_leave_it'
     name 'Take It Or Leave It'
     homepage 'http://www.dafont.com/take-it-or-leave-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TakeItOrLeaveIt.ttf'
     font 'TakeItOrLeaveItBold.ttf'

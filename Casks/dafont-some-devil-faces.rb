@@ -5,7 +5,6 @@ cask 'dafont-some-devil-faces' do
     url 'http://dl.dafont.com/dl/?f=some_devil_faces'
     name 'Some Devil Faces'
     homepage 'http://www.dafont.com/some-devil-faces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'somedevilfaces-Regular.ttf'
 end

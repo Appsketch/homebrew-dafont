@@ -5,7 +5,6 @@ cask 'dafont-joyeux' do
     url 'http://dl.dafont.com/dl/?f=joyeux'
     name 'Joyeux'
     homepage 'http://www.dafont.com/joyeux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Joyeux Bold.ttf'
     font 'Joyeux.ttf'

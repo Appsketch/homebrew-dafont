@@ -5,7 +5,6 @@ cask 'dafont-fotograami-flower' do
     url 'http://dl.dafont.com/dl/?f=fotograami_flower'
     name 'Fotograami Flower'
     homepage 'http://www.dafont.com/fotograami-flower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fotograami-flower.ttf'
 end

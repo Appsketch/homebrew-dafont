@@ -5,7 +5,6 @@ cask 'dafont-opulent-fiend' do
     url 'http://dl.dafont.com/dl/?f=opulent_fiend'
     name 'Opulent Fiend'
     homepage 'http://www.dafont.com/opulent-fiend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'opulent_fiend.ttf'
 end

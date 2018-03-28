@@ -5,7 +5,6 @@ cask 'dafont-kg-i-need-a-font' do
     url 'http://dl.dafont.com/dl/?f=kg_i_need_a_font'
     name 'KG I Need A Font'
     homepage 'http://www.dafont.com/kg-i-need-a-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGINeedAFont.ttf'
     font 'KGINeedAHeartFont.ttf'

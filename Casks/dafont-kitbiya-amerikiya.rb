@@ -5,7 +5,6 @@ cask 'dafont-kitbiya-amerikiya' do
     url 'http://dl.dafont.com/dl/?f=kitbiya_amerikiya'
     name 'Kitbiya Amerikiya'
     homepage 'http://www.dafont.com/kitbiya-amerikiya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sterna.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sound-system' do
     url 'http://dl.dafont.com/dl/?f=sound_system'
     name 'Sound System'
     homepage 'http://www.dafont.com/sound-system.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sound_system.ttf'
 end

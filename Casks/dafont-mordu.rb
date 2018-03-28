@@ -5,7 +5,6 @@ cask 'dafont-mordu' do
     url 'http://dl.dafont.com/dl/?f=mordu'
     name 'Mordu'
     homepage 'http://www.dafont.com/mordu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mordu.ttf'
 end

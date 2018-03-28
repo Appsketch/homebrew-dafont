@@ -5,7 +5,6 @@ cask 'dafont-baby-cuttie' do
     url 'http://dl.dafont.com/dl/?f=baby_cuttie'
     name 'Baby Cuttie'
     homepage 'http://www.dafont.com/baby-cuttie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baby Cuttie.ttf'
 end

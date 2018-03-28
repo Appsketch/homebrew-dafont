@@ -5,7 +5,6 @@ cask 'dafont-la-street-kids' do
     url 'http://dl.dafont.com/dl/?f=la_street_kids'
     name 'LA Street Kids'
     homepage 'http://www.dafont.com/la-street-kids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LA Street Kids.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dj-autocar' do
     url 'http://dl.dafont.com/dl/?f=dj_autocar'
     name 'DJ Autocar'
     homepage 'http://www.dafont.com/dj-autocar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJ_Autocar.ttf'
 end

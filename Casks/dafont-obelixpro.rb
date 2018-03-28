@@ -5,7 +5,6 @@ cask 'dafont-obelixpro' do
     url 'http://dl.dafont.com/dl/?f=obelixpro'
     name 'Obelix Pro'
     homepage 'http://www.dafont.com/obelixpro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ObelixPro-cyr.ttf'
     font 'ObelixProB-cyr.ttf'

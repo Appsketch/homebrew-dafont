@@ -5,7 +5,6 @@ cask 'dafont-pocket-thrilled-fp' do
     url 'http://dl.dafont.com/dl/?f=pocket_thrilled_fp'
     name 'Pocket Thrilled FP'
     homepage 'http://www.dafont.com/pocket-thrilled-fp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pocket Thrilled FP.ttf'
 end

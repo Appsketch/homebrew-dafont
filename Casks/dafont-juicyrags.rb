@@ -5,7 +5,6 @@ cask 'dafont-juicyrags' do
     url 'http://dl.dafont.com/dl/?f=juicyrags'
     name 'Juicy Rags'
     homepage 'http://www.dafont.com/juicyrags.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JuicyRags.ttf'
 end

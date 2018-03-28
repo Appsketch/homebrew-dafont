@@ -5,7 +5,6 @@ cask 'dafont-victoria-cat' do
     url 'http://dl.dafont.com/dl/?f=victoria_cat'
     name 'Victoria CAT'
     homepage 'http://www.dafont.com/victoria-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VictoriaCAT.ttf'
 end

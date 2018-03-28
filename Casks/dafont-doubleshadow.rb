@@ -5,7 +5,6 @@ cask 'dafont-doubleshadow' do
     url 'http://dl.dafont.com/dl/?f=doubleshadow'
     name 'Double Shadow'
     homepage 'http://www.dafont.com/doubleshadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DoubleShadow.ttf'
 end

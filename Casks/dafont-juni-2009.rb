@@ -5,7 +5,6 @@ cask 'dafont-juni-2009' do
     url 'http://dl.dafont.com/dl/?f=juni_2009'
     name 'Juni 2009'
     homepage 'http://www.dafont.com/juni-2009.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Juni 2009.ttf'
 end

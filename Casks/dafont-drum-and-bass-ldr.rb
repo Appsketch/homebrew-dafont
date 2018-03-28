@@ -5,7 +5,6 @@ cask 'dafont-drum-and-bass-ldr' do
     url 'http://dl.dafont.com/dl/?f=drum_and_bass_ldr'
     name 'Drum and Bass LDR'
     homepage 'http://www.dafont.com/drum-and-bass-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'drum_and_bass_ldr.ttf'
 end

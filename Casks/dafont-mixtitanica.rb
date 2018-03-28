@@ -5,7 +5,6 @@ cask 'dafont-mixtitanica' do
     url 'http://dl.dafont.com/dl/?f=mixtitanica'
     name 'Mix Titanica'
     homepage 'http://www.dafont.com/mixtitanica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixTitanica.ttf'
 end

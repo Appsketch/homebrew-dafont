@@ -5,7 +5,6 @@ cask 'dafont-deccodisco' do
     url 'http://dl.dafont.com/dl/?f=deccodisco'
     name 'Decco Disco'
     homepage 'http://www.dafont.com/deccodisco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deccodisco_casual.ttf'
     font 'deccodisco.ttf'

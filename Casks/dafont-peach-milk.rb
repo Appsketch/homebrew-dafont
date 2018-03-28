@@ -5,7 +5,6 @@ cask 'dafont-peach-milk' do
     url 'http://dl.dafont.com/dl/?f=peach_milk'
     name 'Peach Milk'
     homepage 'http://www.dafont.com/peach-milk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'peach_milk.ttf'
 end

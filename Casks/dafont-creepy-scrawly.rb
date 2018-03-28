@@ -5,7 +5,6 @@ cask 'dafont-creepy-scrawly' do
     url 'http://dl.dafont.com/dl/?f=creepy_scrawly'
     name 'Creepy Scrawly'
     homepage 'http://www.dafont.com/creepy-scrawly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Creepy Scrawly Italic.otf'
     font 'Creepy Scrawly.otf'

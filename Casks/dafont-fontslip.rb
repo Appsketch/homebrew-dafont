@@ -5,7 +5,6 @@ cask 'dafont-fontslip' do
     url 'http://dl.dafont.com/dl/?f=fontslip'
     name 'FontSlip'
     homepage 'http://www.dafont.com/fontslip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FontSlip.otf'
 end

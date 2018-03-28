@@ -5,7 +5,6 @@ cask 'dafont-lady-solarus-queen-1789' do
     url 'http://dl.dafont.com/dl/?f=lady_solarus_queen_1789'
     name 'Lady Solarus Queen 1789'
     homepage 'http://www.dafont.com/lady-solarus-queen-1789.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lady Solarus . Queen . 1789.ttf'
 end

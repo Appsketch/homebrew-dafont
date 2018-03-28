@@ -5,7 +5,6 @@ cask 'dafont-lcr-americas-heart-lsf' do
     url 'http://dl.dafont.com/dl/?f=lcr_americas_heart_lsf'
     name 'LCR America&#039;s Heart LSF'
     homepage 'http://www.dafont.com/lcr-americas-heart-lsf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LCR Americas Heart LSF.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-persifal' do
     url 'http://dl.dafont.com/dl/?f=persifal'
     name 'Persifal'
     homepage 'http://www.dafont.com/persifal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Persifal pen.ttf'
     font 'Persifal.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-know-your-product' do
     url 'http://dl.dafont.com/dl/?f=know_your_product'
     name 'Know Your Product'
     homepage 'http://www.dafont.com/know-your-product.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'knowyour.ttf'
 end

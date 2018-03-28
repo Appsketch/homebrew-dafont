@@ -5,7 +5,6 @@ cask 'dafont-baltimore-goth' do
     url 'http://dl.dafont.com/dl/?f=baltimore_goth'
     name 'Baltimore Goth'
     homepage 'http://www.dafont.com/baltimore-goth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BaltimoreGoth.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-talvez-assim' do
     url 'http://dl.dafont.com/dl/?f=talvez_assim'
     name 'Talvez Assim'
     homepage 'http://www.dafont.com/talvez-assim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TalvezAssim.ttf'
 end

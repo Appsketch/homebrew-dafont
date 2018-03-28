@@ -5,7 +5,6 @@ cask 'dafont-kr-pick-a-pumpkin' do
     url 'http://dl.dafont.com/dl/?f=kr_pick_a_pumpkin'
     name 'KR Pick A Pumpkin'
     homepage 'http://www.dafont.com/kr-pick-a-pumpkin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Pick A Pumpkin.ttf'
 end

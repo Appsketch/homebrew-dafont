@@ -5,7 +5,6 @@ cask 'dafont-zillaroonies' do
     url 'http://dl.dafont.com/dl/?f=zillaroonies'
     name 'Zillaroonies'
     homepage 'http://www.dafont.com/zillaroonies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZRUNES.TTF'
 end

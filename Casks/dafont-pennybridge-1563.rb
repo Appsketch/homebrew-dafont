@@ -5,7 +5,6 @@ cask 'dafont-pennybridge-1563' do
     url 'http://dl.dafont.com/dl/?f=pennybridge_1563'
     name 'Pennybridge 1563'
     homepage 'http://www.dafont.com/pennybridge-1563.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pennybridge 1563.ttf'
 end

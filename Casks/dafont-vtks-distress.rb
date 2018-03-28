@@ -5,7 +5,6 @@ cask 'dafont-vtks-distress' do
     url 'http://dl.dafont.com/dl/?f=vtks_distress'
     name 'VTKS Distress'
     homepage 'http://www.dafont.com/vtks-distress.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks distress.ttf'
 end

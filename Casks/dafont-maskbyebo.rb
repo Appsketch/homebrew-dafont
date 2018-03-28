@@ -5,7 +5,6 @@ cask 'dafont-maskbyebo' do
     url 'http://dl.dafont.com/dl/?f=maskbyebo'
     name 'Maskby EBO'
     homepage 'http://www.dafont.com/maskbyebo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MaskbyEBO.ttf'
 end

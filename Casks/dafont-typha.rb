@@ -5,7 +5,6 @@ cask 'dafont-typha' do
     url 'http://dl.dafont.com/dl/?f=typha'
     name 'Typha'
     homepage 'http://www.dafont.com/typha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TyphaLatifoliaDemo-Medium.ttf'
     font 'TyphaVar02Demo.ttf'

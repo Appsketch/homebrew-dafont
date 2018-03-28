@@ -5,7 +5,6 @@ cask 'dafont-kr-all-smiles' do
     url 'http://dl.dafont.com/dl/?f=kr_all_smiles'
     name 'KR All Smiles'
     homepage 'http://www.dafont.com/kr-all-smiles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR All Smiles.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gooooly' do
     url 'http://dl.dafont.com/dl/?f=gooooly'
     name 'Gooooly'
     homepage 'http://www.dafont.com/gooooly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gooooly.ttf'
 end

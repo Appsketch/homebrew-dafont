@@ -5,7 +5,6 @@ cask 'dafont-outline2' do
     url 'http://dl.dafont.com/dl/?f=outline2'
     name 'Outline'
     homepage 'http://www.dafont.com/outline2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Outline.ttf'
 end

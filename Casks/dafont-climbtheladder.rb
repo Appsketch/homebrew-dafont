@@ -5,7 +5,6 @@ cask 'dafont-climbtheladder' do
     url 'http://dl.dafont.com/dl/?f=climbtheladder'
     name 'Climb the ladder'
     homepage 'http://www.dafont.com/climbtheladder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'climbtheladder.ttf'
 end

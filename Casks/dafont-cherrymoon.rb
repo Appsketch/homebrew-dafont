@@ -5,7 +5,6 @@ cask 'dafont-cherrymoon' do
     url 'http://dl.dafont.com/dl/?f=cherrymoon'
     name 'CherryMoon'
     homepage 'http://www.dafont.com/cherrymoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CherryMoon.ttf'
 end

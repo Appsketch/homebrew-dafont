@@ -5,7 +5,6 @@ cask 'dafont-forgotten-playbill' do
     url 'http://dl.dafont.com/dl/?f=forgotten_playbill'
     name 'Forgotten Playbill'
     homepage 'http://www.dafont.com/forgotten-playbill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'forgottenplaybill.ttf'
 end

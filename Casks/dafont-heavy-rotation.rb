@@ -5,7 +5,6 @@ cask 'dafont-heavy-rotation' do
     url 'http://dl.dafont.com/dl/?f=heavy_rotation'
     name 'Heavy Rotation'
     homepage 'http://www.dafont.com/heavy-rotation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HEAVR___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-michigan' do
     url 'http://dl.dafont.com/dl/?f=michigan'
     name 'Michigan'
     homepage 'http://www.dafont.com/michigan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'michigan.ttf'
     font 'michigan3d.ttf'

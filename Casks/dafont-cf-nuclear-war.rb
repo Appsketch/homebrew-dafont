@@ -5,7 +5,6 @@ cask 'dafont-cf-nuclear-war' do
     url 'http://dl.dafont.com/dl/?f=cf_nuclear_war'
     name 'CF Nuclear War'
     homepage 'http://www.dafont.com/cf-nuclear-war.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFNuclearWar-Regular.ttf'
 end

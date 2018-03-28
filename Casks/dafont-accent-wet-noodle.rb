@@ -5,7 +5,6 @@ cask 'dafont-accent-wet-noodle' do
     url 'http://dl.dafont.com/dl/?f=accent_wet_noodle'
     name 'Accent Wet Noodle'
     homepage 'http://www.dafont.com/accent-wet-noodle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ACCENT_1.TTF'
 end

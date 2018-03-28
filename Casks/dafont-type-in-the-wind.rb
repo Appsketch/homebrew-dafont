@@ -5,7 +5,6 @@ cask 'dafont-type-in-the-wind' do
     url 'http://dl.dafont.com/dl/?f=type_in_the_wind'
     name 'Type In The Wind'
     homepage 'http://www.dafont.com/type-in-the-wind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TypeInTheWind.ttf'
 end

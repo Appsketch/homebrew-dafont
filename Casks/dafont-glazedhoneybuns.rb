@@ -5,7 +5,6 @@ cask 'dafont-glazedhoneybuns' do
     url 'http://dl.dafont.com/dl/?f=glazedhoneybuns'
     name 'Glazed Honey Buns'
     homepage 'http://www.dafont.com/glazedhoneybuns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GlazedHoneyBuns.ttf'
 end

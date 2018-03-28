@@ -5,7 +5,6 @@ cask 'dafont-patterns-and-dots' do
     url 'http://dl.dafont.com/dl/?f=patterns_and_dots'
     name 'Patterns &amp; Dots'
     homepage 'http://www.dafont.com/patterns-and-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PATTD___.TTF'
 end

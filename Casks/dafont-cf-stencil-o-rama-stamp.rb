@@ -5,7 +5,6 @@ cask 'dafont-cf-stencil-o-rama-stamp' do
     url 'http://dl.dafont.com/dl/?f=cf_stencil_o_rama_stamp'
     name 'CF Stencil O Rama Stamp'
     homepage 'http://www.dafont.com/cf-stencil-o-rama-stamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFStencilORamaStamp-Regular.ttf'
 end

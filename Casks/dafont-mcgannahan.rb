@@ -5,7 +5,6 @@ cask 'dafont-mcgannahan' do
     url 'http://dl.dafont.com/dl/?f=mcgannahan'
     name 'Mcgannahan'
     homepage 'http://www.dafont.com/mcgannahan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mcgarg__.ttf'
 end

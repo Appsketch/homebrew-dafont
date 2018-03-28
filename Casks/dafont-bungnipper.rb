@@ -5,7 +5,6 @@ cask 'dafont-bungnipper' do
     url 'http://dl.dafont.com/dl/?f=bungnipper'
     name 'Bungnipper'
     homepage 'http://www.dafont.com/bungnipper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUNGNIPP.TTF'
 end

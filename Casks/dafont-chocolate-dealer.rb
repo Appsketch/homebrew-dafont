@@ -5,7 +5,6 @@ cask 'dafont-chocolate-dealer' do
     url 'http://dl.dafont.com/dl/?f=chocolate_dealer'
     name 'Chocolate Dealer'
     homepage 'http://www.dafont.com/chocolate-dealer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHOCD TRIAL___.otf'
 end

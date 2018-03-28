@@ -5,7 +5,6 @@ cask 'dafont-qaskin' do
     url 'http://dl.dafont.com/dl/?f=qaskin'
     name 'Qaskin'
     homepage 'http://www.dafont.com/qaskin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QaskinBlack_PersonalUse.ttf'
     font 'QaskinWhite_PersonalUse.ttf'

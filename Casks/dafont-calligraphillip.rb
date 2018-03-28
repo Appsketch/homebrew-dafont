@@ -5,7 +5,6 @@ cask 'dafont-calligraphillip' do
     url 'http://dl.dafont.com/dl/?f=calligraphillip'
     name 'Calligra Phillip'
     homepage 'http://www.dafont.com/calligraphillip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CALPHI_T.ttf'
 end

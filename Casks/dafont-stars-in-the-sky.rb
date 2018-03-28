@@ -5,7 +5,6 @@ cask 'dafont-stars-in-the-sky' do
     url 'http://dl.dafont.com/dl/?f=stars_in_the_sky'
     name 'Stars in the Sky'
     homepage 'http://www.dafont.com/stars-in-the-sky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stars_in_the_sky.ttf'
 end

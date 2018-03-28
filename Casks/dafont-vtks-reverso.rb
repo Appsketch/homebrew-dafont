@@ -5,7 +5,6 @@ cask 'dafont-vtks-reverso' do
     url 'http://dl.dafont.com/dl/?f=vtks_reverso'
     name 'VTKS Reverso'
     homepage 'http://www.dafont.com/vtks-reverso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS REVERSO OPTION B.ttf'
     font 'VTKS REVERSO.ttf'

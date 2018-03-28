@@ -5,7 +5,6 @@ cask 'dafont-kg-one-thing' do
     url 'http://dl.dafont.com/dl/?f=kg_one_thing'
     name 'KG One Thing'
     homepage 'http://www.dafont.com/kg-one-thing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGOneThing.ttf'
 end

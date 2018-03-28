@@ -5,7 +5,6 @@ cask 'dafont-splatter' do
     url 'http://dl.dafont.com/dl/?f=splatter'
     name 'Splatter'
     homepage 'http://www.dafont.com/splatter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'splatter.ttf'
 end

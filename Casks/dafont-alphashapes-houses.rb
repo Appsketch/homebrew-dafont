@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-houses' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_houses'
     name 'AlphaShapes houses'
     homepage 'http://www.dafont.com/alphashapes-houses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ashouses.ttf'
 end

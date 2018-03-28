@@ -5,7 +5,6 @@ cask 'dafont-rosegarden' do
     url 'http://dl.dafont.com/dl/?f=rosegarden'
     name 'Rosegarden'
     homepage 'http://www.dafont.com/rosegarden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rosegarden.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-they-perished' do
     url 'http://dl.dafont.com/dl/?f=they_perished'
     name 'They Perished'
     homepage 'http://www.dafont.com/they-perished.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheyPerished.ttf'
 end

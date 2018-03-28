@@ -5,7 +5,6 @@ cask 'dafont-duke-plus' do
     url 'http://dl.dafont.com/dl/?f=duke_plus'
     name 'Duke.plus'
     homepage 'http://www.dafont.com/duke-plus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DUKEPLUS.TTF'
 end

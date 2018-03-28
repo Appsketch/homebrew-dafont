@@ -5,7 +5,6 @@ cask 'dafont-a-ripping-yarn' do
     url 'http://dl.dafont.com/dl/?f=a_ripping_yarn'
     name 'A Ripping Yarn'
     homepage 'http://www.dafont.com/a-ripping-yarn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'a_ripping_yarn_too.ttf'
     font 'a_ripping_yarn.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-rightway' do
     url 'http://dl.dafont.com/dl/?f=rightway'
     name 'Right Way'
     homepage 'http://www.dafont.com/rightway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RightWay.ttf'
 end

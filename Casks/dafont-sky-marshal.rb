@@ -5,7 +5,6 @@ cask 'dafont-sky-marshal' do
     url 'http://dl.dafont.com/dl/?f=sky_marshal'
     name 'Sky Marshal'
     homepage 'http://www.dafont.com/sky-marshal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skymarshal.ttf'
     font 'skymarshal3d.ttf'

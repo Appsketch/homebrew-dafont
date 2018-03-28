@@ -5,7 +5,6 @@ cask 'dafont-gangofsipirok' do
     url 'http://dl.dafont.com/dl/?f=gangofsipirok'
     name 'Gang Of Sipirok'
     homepage 'http://www.dafont.com/gangofsipirok.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GangOfSipirok__.ttf'
 end

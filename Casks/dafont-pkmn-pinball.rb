@@ -5,7 +5,6 @@ cask 'dafont-pkmn-pinball' do
     url 'http://dl.dafont.com/dl/?f=pkmn_pinball'
     name 'PKMN Pinball'
     homepage 'http://www.dafont.com/pkmn-pinball.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PKMN-Pinball.ttf'
 end

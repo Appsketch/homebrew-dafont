@@ -5,7 +5,6 @@ cask 'dafont-was-woodcuts' do
     url 'http://dl.dafont.com/dl/?f=was_woodcuts'
     name 'Was Woodcuts'
     homepage 'http://www.dafont.com/was-woodcuts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WASWOODC.TTF'
 end

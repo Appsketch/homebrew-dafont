@@ -5,7 +5,6 @@ cask 'dafont-janda-closer-to-free' do
     url 'http://dl.dafont.com/dl/?f=janda_closer_to_free'
     name 'Janda Closer To Free'
     homepage 'http://www.dafont.com/janda-closer-to-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaCloserToFree.ttf'
 end

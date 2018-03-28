@@ -5,7 +5,6 @@ cask 'dafont-noel-gallagher' do
     url 'http://dl.dafont.com/dl/?f=noel_gallagher'
     name 'Noel Gallagher'
     homepage 'http://www.dafont.com/noel-gallagher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Noel Gallagher (With Accents) [OpenType].otf'
 end

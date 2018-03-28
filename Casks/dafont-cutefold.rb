@@ -5,7 +5,6 @@ cask 'dafont-cutefold' do
     url 'http://dl.dafont.com/dl/?f=cutefold'
     name 'CuteFold'
     homepage 'http://www.dafont.com/cutefold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CuteFold.ttf'
 end

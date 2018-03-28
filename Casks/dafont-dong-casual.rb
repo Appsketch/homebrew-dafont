@@ -5,7 +5,6 @@ cask 'dafont-dong-casual' do
     url 'http://dl.dafont.com/dl/?f=dong_casual'
     name 'Dong Casual'
     homepage 'http://www.dafont.com/dong-casual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOC_____.TTF'
 end

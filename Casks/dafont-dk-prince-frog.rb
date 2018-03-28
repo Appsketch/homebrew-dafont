@@ -5,7 +5,6 @@ cask 'dafont-dk-prince-frog' do
     url 'http://dl.dafont.com/dl/?f=dk_prince_frog'
     name 'DK Prince Frog'
     homepage 'http://www.dafont.com/dk-prince-frog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Prince Frog.otf'
 end

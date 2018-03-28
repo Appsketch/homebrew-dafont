@@ -5,7 +5,6 @@ cask 'dafont-table-air-lamp' do
     url 'http://dl.dafont.com/dl/?f=table_air_lamp'
     name 'Table Air Lamp'
     homepage 'http://www.dafont.com/table-air-lamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Table Air Lamp.ttf'
 end

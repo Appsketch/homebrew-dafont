@@ -5,7 +5,6 @@ cask 'dafont-teacher' do
     url 'http://dl.dafont.com/dl/?f=teacher'
     name 'Teacher'
     homepage 'http://www.dafont.com/teacher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Teacher_a.TTF'
     font 'Teacher_k.TTF'

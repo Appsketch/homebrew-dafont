@@ -5,7 +5,6 @@ cask 'dafont-kennebunkport' do
     url 'http://dl.dafont.com/dl/?f=kennebunkport'
     name 'Kennebunkport'
     homepage 'http://www.dafont.com/kennebunkport.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kennebunkport.ttf'
     font 'kennebunkport3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-lost-popnicasiana' do
     url 'http://dl.dafont.com/dl/?f=lost_popnicasiana'
     name 'Lost Popnicasiana'
     homepage 'http://www.dafont.com/lost-popnicasiana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lost Popnicasiana.ttf'
 end

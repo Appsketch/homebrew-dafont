@@ -5,7 +5,6 @@ cask 'dafont-smoke-disturbed' do
     url 'http://dl.dafont.com/dl/?f=smoke_disturbed'
     name 'Smoke Disturbed'
     homepage 'http://www.dafont.com/smoke-disturbed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smoke-Disturbed-Light.ttf'
 end

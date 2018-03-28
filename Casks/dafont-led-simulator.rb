@@ -5,7 +5,6 @@ cask 'dafont-led-simulator' do
     url 'http://dl.dafont.com/dl/?f=led_simulator'
     name 'LED Simulator'
     homepage 'http://www.dafont.com/led-simulator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEDSimulator.ttf'
 end

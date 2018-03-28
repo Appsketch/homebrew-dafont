@@ -5,7 +5,6 @@ cask 'dafont-gringo-nights' do
     url 'http://dl.dafont.com/dl/?f=gringo_nights'
     name 'Gringo Nights'
     homepage 'http://www.dafont.com/gringo-nights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRINGONIGHTS.ttf'
 end

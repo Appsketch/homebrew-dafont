@@ -5,7 +5,6 @@ cask 'dafont-ochent-silibrina' do
     url 'http://dl.dafont.com/dl/?f=ochent_silibrina'
     name 'Ochent Silibrina'
     homepage 'http://www.dafont.com/ochent-silibrina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ochent Silibrina I.ttf'
     font 'Ochent Silibrina II.ttf'

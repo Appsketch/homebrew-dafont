@@ -5,7 +5,6 @@ cask 'dafont-pad-thai' do
     url 'http://dl.dafont.com/dl/?f=pad_thai'
     name 'Pad Thai'
     homepage 'http://www.dafont.com/pad-thai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PADTHAI_.TTF'
 end

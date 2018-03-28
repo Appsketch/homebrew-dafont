@@ -5,7 +5,6 @@ cask 'dafont-aviator' do
     url 'http://dl.dafont.com/dl/?f=aviator'
     name 'Aviator'
     homepage 'http://www.dafont.com/aviator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AVIATOR.ttf'
 end

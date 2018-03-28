@@ -5,7 +5,6 @@ cask 'dafont-freak-turbulence-br' do
     url 'http://dl.dafont.com/dl/?f=freak_turbulence_br'
     name 'Freak Turbulence BRK'
     homepage 'http://www.dafont.com/freak-turbulence-br.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'freaktur.ttf'
 end

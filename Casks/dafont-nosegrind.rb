@@ -5,7 +5,6 @@ cask 'dafont-nosegrind' do
     url 'http://dl.dafont.com/dl/?f=nosegrind'
     name 'Nosegrind'
     homepage 'http://www.dafont.com/nosegrind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOSED___.TTF'
 end

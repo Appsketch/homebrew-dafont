@@ -5,7 +5,6 @@ cask 'dafont-largecrayon' do
     url 'http://dl.dafont.com/dl/?f=largecrayon'
     name 'Large Crayon'
     homepage 'http://www.dafont.com/largecrayon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LargeCrayon.ttf'
 end

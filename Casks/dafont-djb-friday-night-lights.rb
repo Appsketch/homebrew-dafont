@@ -5,7 +5,6 @@ cask 'dafont-djb-friday-night-lights' do
     url 'http://dl.dafont.com/dl/?f=djb_friday_night_lights'
     name 'DJB Friday Night Lights'
     homepage 'http://www.dafont.com/djb-friday-night-lights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Friday Night Lights.ttf'
 end

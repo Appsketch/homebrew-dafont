@@ -5,7 +5,6 @@ cask 'dafont-duality-dp' do
     url 'http://dl.dafont.com/dl/?f=duality_dp'
     name 'Duality'
     homepage 'http://www.dafont.com/duality-dp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'duality.ttf'
 end

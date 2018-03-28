@@ -5,7 +5,6 @@ cask 'dafont-the-boatman' do
     url 'http://dl.dafont.com/dl/?f=the_boatman'
     name 'The Boatman'
     homepage 'http://www.dafont.com/the-boatman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Boatman.ttf'
 end

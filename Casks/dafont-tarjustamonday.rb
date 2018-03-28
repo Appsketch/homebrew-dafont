@@ -5,7 +5,6 @@ cask 'dafont-tarjustamonday' do
     url 'http://dl.dafont.com/dl/?f=tarjustamonday'
     name 'TAR Just A Monday'
     homepage 'http://www.dafont.com/tarjustamonday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TARJustAMonday.ttf'
 end

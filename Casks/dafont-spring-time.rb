@@ -5,7 +5,6 @@ cask 'dafont-spring-time' do
     url 'http://dl.dafont.com/dl/?f=spring_time'
     name 'Spring Time'
     homepage 'http://www.dafont.com/spring-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spring Time.otf'
 end

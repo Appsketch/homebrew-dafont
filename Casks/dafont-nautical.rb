@@ -5,7 +5,6 @@ cask 'dafont-nautical' do
     url 'http://dl.dafont.com/dl/?f=nautical'
     name 'Nautical'
     homepage 'http://www.dafont.com/nautical.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nautical.ttf'
 end

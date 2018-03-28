@@ -5,7 +5,6 @@ cask 'dafont-cute-enung' do
     url 'http://dl.dafont.com/dl/?f=cute_enung'
     name 'Cute Enung'
     homepage 'http://www.dafont.com/cute-enung.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cute Enung.otf'
 end

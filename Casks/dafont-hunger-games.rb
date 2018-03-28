@@ -5,7 +5,6 @@ cask 'dafont-hunger-games' do
     url 'http://dl.dafont.com/dl/?f=hunger_games'
     name 'Hunger Games'
     homepage 'http://www.dafont.com/hunger-games.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hunger Games.ttf'
 end

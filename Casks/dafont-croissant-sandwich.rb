@@ -5,7 +5,6 @@ cask 'dafont-croissant-sandwich' do
     url 'http://dl.dafont.com/dl/?f=croissant_sandwich'
     name 'Croissant Sandwich'
     homepage 'http://www.dafont.com/croissant-sandwich.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'croissant sandwich.ttf'
 end

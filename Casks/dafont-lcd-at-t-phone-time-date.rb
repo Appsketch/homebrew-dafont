@@ -5,7 +5,6 @@ cask 'dafont-lcd-at-t-phone-time-date' do
     url 'http://dl.dafont.com/dl/?f=lcd_at_t_phone_time_date'
     name 'LCD AT&amp;T Phone Time/Date'
     homepage 'http://www.dafont.com/lcd-at-t-phone-time-date.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LCDAT&amp;TPhoneTimeDate.ttf'
 end

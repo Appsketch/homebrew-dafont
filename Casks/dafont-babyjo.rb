@@ -5,7 +5,6 @@ cask 'dafont-babyjo' do
     url 'http://dl.dafont.com/dl/?f=babyjo'
     name 'BabyJo'
     homepage 'http://www.dafont.com/babyjo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BabyJo.ttf'
 end

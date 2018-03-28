@@ -5,7 +5,6 @@ cask 'dafont-prussian-brew-solid' do
     url 'http://dl.dafont.com/dl/?f=prussian_brew_solid'
     name 'Prussian Brew Solid'
     homepage 'http://www.dafont.com/prussian-brew-solid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PRBRS___.ttf'
 end

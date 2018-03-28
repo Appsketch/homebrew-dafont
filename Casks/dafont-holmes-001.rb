@@ -5,7 +5,6 @@ cask 'dafont-holmes-001' do
     url 'http://dl.dafont.com/dl/?f=holmes_001'
     name 'Holmes 001'
     homepage 'http://www.dafont.com/holmes-001.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'holmes001.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-slightly-intoxicated' do
     url 'http://dl.dafont.com/dl/?f=slightly_intoxicated'
     name 'Slightly Intoxicated'
     homepage 'http://www.dafont.com/slightly-intoxicated.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '{SLIGHTLY INTOXICATED}.ttf'
 end

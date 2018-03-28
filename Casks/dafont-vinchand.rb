@@ -5,7 +5,6 @@ cask 'dafont-vinchand' do
     url 'http://dl.dafont.com/dl/?f=vinchand'
     name 'Vinc Hand'
     homepage 'http://www.dafont.com/vinchand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vincHand freeFONT/VINCHAND.ttf'
 end

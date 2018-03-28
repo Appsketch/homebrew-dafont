@@ -5,7 +5,6 @@ cask 'dafont-paradise-road' do
     url 'http://dl.dafont.com/dl/?f=paradise_road'
     name 'Paradise Road'
     homepage 'http://www.dafont.com/paradise-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'paradise_road_outline.ttf'
     font 'paradise_road.ttf'

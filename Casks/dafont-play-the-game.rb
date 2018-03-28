@@ -5,7 +5,6 @@ cask 'dafont-play-the-game' do
     url 'http://dl.dafont.com/dl/?f=play_the_game'
     name 'Play the game'
     homepage 'http://www.dafont.com/play-the-game.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'play the game.ttf'
 end

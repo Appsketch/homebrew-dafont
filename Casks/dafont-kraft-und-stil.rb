@@ -5,7 +5,6 @@ cask 'dafont-kraft-und-stil' do
     url 'http://dl.dafont.com/dl/?f=kraft_und_stil'
     name 'Kraft Und Stil'
     homepage 'http://www.dafont.com/kraft-und-stil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kraftundstil.TTF'
 end

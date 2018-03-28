@@ -5,7 +5,6 @@ cask 'dafont-montroc' do
     url 'http://dl.dafont.com/dl/?f=montroc'
     name 'Montroc'
     homepage 'http://www.dafont.com/montroc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'montroc.ttf'
     font 'montroc3d.ttf'

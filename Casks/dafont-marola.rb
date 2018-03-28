@@ -5,7 +5,6 @@ cask 'dafont-marola' do
     url 'http://dl.dafont.com/dl/?f=marola'
     name 'Marola'
     homepage 'http://www.dafont.com/marola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAROLA__.TTF'
 end

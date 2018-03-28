@@ -5,7 +5,6 @@ cask 'dafont-marsmonster' do
     url 'http://dl.dafont.com/dl/?f=marsmonster'
     name 'Marsmonster'
     homepage 'http://www.dafont.com/marsmonster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MarsmonsterDemo-Black.ttf'
     font 'MarsmonsterDemo-Regular.ttf'

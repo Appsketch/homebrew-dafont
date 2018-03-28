@@ -5,7 +5,6 @@ cask 'dafont-doctor-soos' do
     url 'http://dl.dafont.com/dl/?f=doctor_soos'
     name 'Doctor Soos'
     homepage 'http://www.dafont.com/doctor-soos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doctor Soos Bold 2.1.ttf'
     font 'Doctor Soos Light 1.1.ttf'

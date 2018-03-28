@@ -5,7 +5,6 @@ cask 'dafont-black-crayon' do
     url 'http://dl.dafont.com/dl/?f=black_crayon'
     name 'Black Crayon'
     homepage 'http://www.dafont.com/black-crayon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black Crayon.ttf'
 end

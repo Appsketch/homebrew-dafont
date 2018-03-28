@@ -5,7 +5,6 @@ cask 'dafont-vandiana-platin' do
     url 'http://dl.dafont.com/dl/?f=vandiana_platin'
     name 'Vandiana Platin'
     homepage 'http://www.dafont.com/vandiana-platin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vandiana_Platin_Lite.ttf'
 end

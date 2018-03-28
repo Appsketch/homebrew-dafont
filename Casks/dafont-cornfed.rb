@@ -5,7 +5,6 @@ cask 'dafont-cornfed' do
     url 'http://dl.dafont.com/dl/?f=cornfed'
     name 'CornFed'
     homepage 'http://www.dafont.com/cornfed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CornFed.ttf'
 end

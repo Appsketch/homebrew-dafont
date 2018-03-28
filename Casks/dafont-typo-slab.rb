@@ -5,7 +5,6 @@ cask 'dafont-typo-slab' do
     url 'http://dl.dafont.com/dl/?f=typo_slab'
     name 'Typo Slab'
     homepage 'http://www.dafont.com/typo-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TypoSlab_bold_demo.otf'
     font 'TypoSlab_bold_italic_demo.otf'

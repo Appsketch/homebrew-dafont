@@ -5,7 +5,6 @@ cask 'dafont-shorelines-display' do
     url 'http://dl.dafont.com/dl/?f=shorelines_display'
     name 'Shorelines Display'
     homepage 'http://www.dafont.com/shorelines-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shorelines Display.otf'
 end

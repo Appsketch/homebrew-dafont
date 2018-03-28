@@ -5,7 +5,6 @@ cask 'dafont-childrensdarlings' do
     url 'http://dl.dafont.com/dl/?f=childrensdarlings'
     name 'Childrens Darlings'
     homepage 'http://www.dafont.com/childrensdarlings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChildrensDarlings.ttf'
 end

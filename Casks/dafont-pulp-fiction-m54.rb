@@ -5,7 +5,6 @@ cask 'dafont-pulp-fiction-m54' do
     url 'http://dl.dafont.com/dl/?f=pulp_fiction_m54'
     name 'Pulp Fiction M54'
     homepage 'http://www.dafont.com/pulp-fiction-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pulp Fiction Italic M54.ttf'
     font 'Pulp Fiction M54.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-mb-lords-of-evil' do
     url 'http://dl.dafont.com/dl/?f=mb_lords_of_evil'
     name 'MB Lords Of Evil '
     homepage 'http://www.dafont.com/mb-lords-of-evil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-LordsOfEvil.ttf'
 end

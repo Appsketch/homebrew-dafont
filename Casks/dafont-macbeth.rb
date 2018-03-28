@@ -5,7 +5,6 @@ cask 'dafont-macbeth' do
     url 'http://dl.dafont.com/dl/?f=macbeth'
     name 'Macbeth'
     homepage 'http://www.dafont.com/macbeth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MACBETH.ttf'
 end

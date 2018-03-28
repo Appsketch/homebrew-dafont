@@ -5,7 +5,6 @@ cask 'dafont-cruelsummer' do
     url 'http://dl.dafont.com/dl/?f=cruelsummer'
     name 'Cruel Summer'
     homepage 'http://www.dafont.com/cruelsummer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CruelSummer .ttf'
 end

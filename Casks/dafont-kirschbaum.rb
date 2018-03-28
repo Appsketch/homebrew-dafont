@@ -5,7 +5,6 @@ cask 'dafont-kirschbaum' do
     url 'http://dl.dafont.com/dl/?f=kirschbaum'
     name 'Kirschbaum'
     homepage 'http://www.dafont.com/kirschbaum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kirschbaum.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-destinys-gingerbrea' do
     url 'http://dl.dafont.com/dl/?f=destinys_gingerbrea'
     name 'Destiny&#039;s Gingerbread Dings'
     homepage 'http://www.dafont.com/destinys-gingerbrea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DESTGD__.TTF'
 end

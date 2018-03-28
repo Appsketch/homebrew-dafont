@@ -5,7 +5,6 @@ cask 'dafont-flash-boy' do
     url 'http://dl.dafont.com/dl/?f=flash_boy'
     name 'Flash Boy'
     homepage 'http://www.dafont.com/flash-boy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlashBoy.ttf'
 end

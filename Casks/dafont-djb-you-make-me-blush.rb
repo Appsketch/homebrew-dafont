@@ -5,7 +5,6 @@ cask 'dafont-djb-you-make-me-blush' do
     url 'http://dl.dafont.com/dl/?f=djb_you_make_me_blush'
     name 'DJB You Make Me Blush'
     homepage 'http://www.dafont.com/djb-you-make-me-blush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB You Make Me Blush.ttf'
 end

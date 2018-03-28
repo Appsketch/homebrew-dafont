@@ -5,7 +5,6 @@ cask 'dafont-dirty-bakers-dozen' do
     url 'http://dl.dafont.com/dl/?f=dirty_bakers_dozen'
     name 'Dirty Bakers Dozen'
     homepage 'http://www.dafont.com/dirty-bakers-dozen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dirty bakers dozen.ttf'
 end

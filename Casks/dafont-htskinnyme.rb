@@ -5,7 +5,6 @@ cask 'dafont-htskinnyme' do
     url 'http://dl.dafont.com/dl/?f=htskinnyme'
     name 'Ht Skinny Me'
     homepage 'http://www.dafont.com/htskinnyme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'htskinnyme.ttf'
 end

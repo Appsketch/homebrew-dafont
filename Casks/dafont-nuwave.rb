@@ -5,7 +5,6 @@ cask 'dafont-nuwave' do
     url 'http://dl.dafont.com/dl/?f=nuwave'
     name 'NuWave BV 2.0'
     homepage 'http://www.dafont.com/nuwave.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NUWAB___.TTF'
 end

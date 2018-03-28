@@ -5,7 +5,6 @@ cask 'dafont-magneticfriends' do
     url 'http://dl.dafont.com/dl/?f=magneticfriends'
     name 'Magnetic Friends'
     homepage 'http://www.dafont.com/magneticfriends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MagneticFriends.ttf'
 end

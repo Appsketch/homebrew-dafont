@@ -5,7 +5,6 @@ cask 'dafont-onuava' do
     url 'http://dl.dafont.com/dl/?f=onuava'
     name 'Onuava'
     homepage 'http://www.dafont.com/onuava.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'onuava__.ttf'
 end

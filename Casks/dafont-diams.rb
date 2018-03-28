@@ -5,7 +5,6 @@ cask 'dafont-diams' do
     url 'http://dl.dafont.com/dl/?f=diams'
     name 'Diams'
     homepage 'http://www.dafont.com/diams.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diams.ttf'
 end

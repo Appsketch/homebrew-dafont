@@ -5,7 +5,6 @@ cask 'dafont-zymbols' do
     url 'http://dl.dafont.com/dl/?f=zymbols'
     name 'Zymbols'
     homepage 'http://www.dafont.com/zymbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZYMBOLS.TTF'
 end

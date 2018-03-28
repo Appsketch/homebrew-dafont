@@ -5,7 +5,6 @@ cask 'dafont-banana-type' do
     url 'http://dl.dafont.com/dl/?f=banana_type'
     name 'Banana Type'
     homepage 'http://www.dafont.com/banana-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BANANA_TYPE.ttf'
 end

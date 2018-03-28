@@ -5,7 +5,6 @@ cask 'dafont-brabbel-blocks' do
     url 'http://dl.dafont.com/dl/?f=brabbel_blocks'
     name 'Brabbel Blocks'
     homepage 'http://www.dafont.com/brabbel-blocks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brabbel Blocks .ttf'
     font 'Brabbel Blocks Black.ttf'

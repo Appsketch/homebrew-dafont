@@ -5,7 +5,6 @@ cask 'dafont-hoyle-playing-cards' do
     url 'http://dl.dafont.com/dl/?f=hoyle_playing_cards'
     name 'Hoyle Playing Cards'
     homepage 'http://www.dafont.com/hoyle-playing-cards.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hoyle Playing Cards.ttf'
 end

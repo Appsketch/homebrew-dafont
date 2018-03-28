@@ -5,7 +5,6 @@ cask 'dafont-dont-wanna' do
     url 'http://dl.dafont.com/dl/?f=dont_wanna'
     name 'Don&#039;t Wanna'
     homepage 'http://www.dafont.com/dont-wanna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dontwanna.ttf'
 end

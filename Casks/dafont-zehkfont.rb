@@ -5,7 +5,6 @@ cask 'dafont-zehkfont' do
     url 'http://dl.dafont.com/dl/?f=zehkfont'
     name 'Zehk Font'
     homepage 'http://www.dafont.com/zehkfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZehkFont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-roman-holiday-sketch' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_roman_holiday_sketch'
     name 'Austie Bost Roman Holiday Sketch'
     homepage 'http://www.dafont.com/austie-bost-roman-holiday-sketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Roman Holiday Sketch.ttf'
 end

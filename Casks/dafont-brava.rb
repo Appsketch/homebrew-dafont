@@ -5,7 +5,6 @@ cask 'dafont-brava' do
     url 'http://dl.dafont.com/dl/?f=brava'
     name 'Brava'
     homepage 'http://www.dafont.com/brava.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brava.ttf'
 end

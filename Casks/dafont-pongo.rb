@@ -5,7 +5,6 @@ cask 'dafont-pongo' do
     url 'http://dl.dafont.com/dl/?f=pongo'
     name 'Pongo'
     homepage 'http://www.dafont.com/pongo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pongo.ttf'
 end

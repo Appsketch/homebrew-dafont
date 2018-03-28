@@ -5,7 +5,6 @@ cask 'dafont-stars-stripes' do
     url 'http://dl.dafont.com/dl/?f=stars_stripes'
     name 'Stars &amp; Stripes'
     homepage 'http://www.dafont.com/stars-stripes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Starstrp.ttf'
 end

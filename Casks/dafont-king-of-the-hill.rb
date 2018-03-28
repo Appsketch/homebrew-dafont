@@ -5,7 +5,6 @@ cask 'dafont-king-of-the-hill' do
     url 'http://dl.dafont.com/dl/?f=king_of_the_hill'
     name 'King Of The Hill'
     homepage 'http://www.dafont.com/king-of-the-hill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'King Of The Hill 2.ttf'
     font 'King Of The Hill.ttf'

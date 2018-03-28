@@ -5,7 +5,6 @@ cask 'dafont-justbeautifulsimplicity' do
     url 'http://dl.dafont.com/dl/?f=justbeautifulsimplicity'
     name 'Just Beautiful Simplicity'
     homepage 'http://www.dafont.com/justbeautifulsimplicity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'justbeautifulsimplicity.ttf'
 end

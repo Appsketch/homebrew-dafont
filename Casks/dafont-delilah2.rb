@@ -5,7 +5,6 @@ cask 'dafont-delilah2' do
     url 'http://dl.dafont.com/dl/?f=delilah2'
     name 'Delilah'
     homepage 'http://www.dafont.com/delilah2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Delilah.ttf'
 end

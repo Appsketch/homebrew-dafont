@@ -5,7 +5,6 @@ cask 'dafont-improvise-v9' do
     url 'http://dl.dafont.com/dl/?f=improvise_v9'
     name 'Improvise V9'
     homepage 'http://www.dafont.com/improvise-v9.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'improvise v9.ttf'
 end

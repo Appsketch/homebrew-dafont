@@ -5,7 +5,6 @@ cask 'dafont-kenteken-smits' do
     url 'http://dl.dafont.com/dl/?f=kenteken_smits'
     name 'Kenteken Smits'
     homepage 'http://www.dafont.com/kenteken-smits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kenteken Smits 1951.otf'
     font 'Kenteken Smits 2013.otf'

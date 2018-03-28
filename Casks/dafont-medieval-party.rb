@@ -5,7 +5,6 @@ cask 'dafont-medieval-party' do
     url 'http://dl.dafont.com/dl/?f=medieval_party'
     name 'Medieval Party'
     homepage 'http://www.dafont.com/medieval-party.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'medievalparty-Regular.otf'
 end

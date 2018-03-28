@@ -5,7 +5,6 @@ cask 'dafont-wiegel-latein' do
     url 'http://dl.dafont.com/dl/?f=wiegel_latein'
     name 'Wiegel Latein'
     homepage 'http://www.dafont.com/wiegel-latein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WiegelLatein.ttf'
     font 'WiegelLateinMedium.ttf'

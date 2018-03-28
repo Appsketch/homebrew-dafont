@@ -5,7 +5,6 @@ cask 'dafont-sf-chromium-24' do
     url 'http://dl.dafont.com/dl/?f=sf_chromium_24'
     name 'SF Chromium 24'
     homepage 'http://www.dafont.com/sf-chromium-24.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Chromium 24 Bold Oblique.ttf'
     font 'SF Chromium 24 Bold.ttf'

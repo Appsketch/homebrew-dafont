@@ -5,7 +5,6 @@ cask 'dafont-vtks-trunkset' do
     url 'http://dl.dafont.com/dl/?f=vtks_trunkset'
     name 'VTKS Trunkset'
     homepage 'http://www.dafont.com/vtks-trunkset.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks trunkset.ttf'
 end

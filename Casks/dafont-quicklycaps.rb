@@ -5,7 +5,6 @@ cask 'dafont-quicklycaps' do
     url 'http://dl.dafont.com/dl/?f=quicklycaps'
     name 'Quickly Caps'
     homepage 'http://www.dafont.com/quicklycaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuicklyCaps.ttf'
 end

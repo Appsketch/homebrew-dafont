@@ -5,7 +5,6 @@ cask 'dafont-cf-national-stitches' do
     url 'http://dl.dafont.com/dl/?f=cf_national_stitches'
     name 'CF National Stitches'
     homepage 'http://www.dafont.com/cf-national-stitches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFNationalStitches-Regular.ttf'
 end

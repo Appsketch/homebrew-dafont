@@ -5,7 +5,6 @@ cask 'dafont-organic-fridays' do
     url 'http://dl.dafont.com/dl/?f=organic_fridays'
     name 'Organic Fridays'
     homepage 'http://www.dafont.com/organic-fridays.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Organic Fridays heart alternates.ttf'
     font 'Organic Fridays Lined.ttf'

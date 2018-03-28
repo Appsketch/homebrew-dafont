@@ -5,7 +5,6 @@ cask 'dafont-daisy-wheel' do
     url 'http://dl.dafont.com/dl/?f=daisy_wheel'
     name 'Daisy Wheel'
     homepage 'http://www.dafont.com/daisy-wheel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'daisywhl.otf'
 end

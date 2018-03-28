@@ -5,7 +5,6 @@ cask 'dafont-skitserfineliner' do
     url 'http://dl.dafont.com/dl/?f=skitserfineliner'
     name 'Skitser Fineliner'
     homepage 'http://www.dafont.com/skitserfineliner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkitserFineliner.ttf'
 end

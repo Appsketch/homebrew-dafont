@@ -5,7 +5,6 @@ cask 'dafont-ham-and-eggs' do
     url 'http://dl.dafont.com/dl/?f=ham_and_eggs'
     name 'Ham and Eggs'
     homepage 'http://www.dafont.com/ham-and-eggs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ham and Eggs by Intestino Grueso.ttf'
 end

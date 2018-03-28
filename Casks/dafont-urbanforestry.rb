@@ -5,7 +5,6 @@ cask 'dafont-urbanforestry' do
     url 'http://dl.dafont.com/dl/?f=urbanforestry'
     name 'Urban Forestry'
     homepage 'http://www.dafont.com/urbanforestry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UrbanForestry.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jgj-durer-gothic' do
     url 'http://dl.dafont.com/dl/?f=jgj_durer_gothic'
     name 'JGJ D&uuml;rer Gothic'
     homepage 'http://www.dafont.com/jgj-durer-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JGJDG___.TTF'
 end

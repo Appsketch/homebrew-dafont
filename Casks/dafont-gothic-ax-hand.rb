@@ -5,7 +5,6 @@ cask 'dafont-gothic-ax-hand' do
     url 'http://dl.dafont.com/dl/?f=gothic_ax_hand'
     name 'Gothic AX Hand'
     homepage 'http://www.dafont.com/gothic-ax-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GothicAXHand-Regular.otf'
 end

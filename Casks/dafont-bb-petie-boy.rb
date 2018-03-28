@@ -5,7 +5,6 @@ cask 'dafont-bb-petie-boy' do
     url 'http://dl.dafont.com/dl/?f=bb_petie_boy'
     name 'BB Petie Boy'
     homepage 'http://www.dafont.com/bb-petie-boy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BB_Petie_Boy_Destroyed.ttf'
     font 'BB_Petie_Boy_Heavy.ttf'

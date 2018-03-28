@@ -5,7 +5,6 @@ cask 'dafont-burnout' do
     url 'http://dl.dafont.com/dl/?f=burnout'
     name 'BurnOut'
     homepage 'http://www.dafont.com/burnout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BurnOut.ttf'
 end

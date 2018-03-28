@@ -5,7 +5,6 @@ cask 'dafont-easyopenface' do
     url 'http://dl.dafont.com/dl/?f=easyopenface'
     name 'Easy Open Face'
     homepage 'http://www.dafont.com/easyopenface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EasyOpenFace.ttf'
 end

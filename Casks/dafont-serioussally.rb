@@ -5,7 +5,6 @@ cask 'dafont-serioussally' do
     url 'http://dl.dafont.com/dl/?f=serioussally'
     name 'Serious Sally'
     homepage 'http://www.dafont.com/serioussally.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SERSAL_T.otf'
     font 'SRSA_B_T.otf'

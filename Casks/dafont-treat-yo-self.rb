@@ -5,7 +5,6 @@ cask 'dafont-treat-yo-self' do
     url 'http://dl.dafont.com/dl/?f=treat_yo_self'
     name 'Treat Yo Self'
     homepage 'http://www.dafont.com/treat-yo-self.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Treat Yo Self.ttf'
 end

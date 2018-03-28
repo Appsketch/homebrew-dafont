@@ -5,7 +5,6 @@ cask 'dafont-pixelite' do
     url 'http://dl.dafont.com/dl/?f=pixelite'
     name 'Pixelite'
     homepage 'http://www.dafont.com/pixelite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIXELITE.FON'
 end

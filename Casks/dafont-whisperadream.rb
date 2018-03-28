@@ -5,7 +5,6 @@ cask 'dafont-whisperadream' do
     url 'http://dl.dafont.com/dl/?f=whisperadream'
     name 'Whisper a Dream'
     homepage 'http://www.dafont.com/whisperadream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhisperADream.ttf'
 end

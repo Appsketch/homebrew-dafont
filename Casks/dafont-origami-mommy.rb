@@ -5,7 +5,6 @@ cask 'dafont-origami-mommy' do
     url 'http://dl.dafont.com/dl/?f=origami_mommy'
     name 'Origami Mommy'
     homepage 'http://www.dafont.com/origami-mommy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'origa___.ttf'
     font 'origap__.ttf'

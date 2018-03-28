@@ -5,7 +5,6 @@ cask 'dafont-mild-life' do
     url 'http://dl.dafont.com/dl/?f=mild_life'
     name 'Mild Life'
     homepage 'http://www.dafont.com/mild-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mild Life Outline Personal Use.otf'
     font 'Mild Life Regular Personal Use.otf'

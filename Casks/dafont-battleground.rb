@@ -5,7 +5,6 @@ cask 'dafont-battleground' do
     url 'http://dl.dafont.com/dl/?f=battleground'
     name 'Battleground'
     homepage 'http://www.dafont.com/battleground.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Battleground.ttf'
 end

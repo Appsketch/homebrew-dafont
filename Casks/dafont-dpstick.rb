@@ -5,7 +5,6 @@ cask 'dafont-dpstick' do
     url 'http://dl.dafont.com/dl/?f=dpstick'
     name 'DP Stick'
     homepage 'http://www.dafont.com/dpstick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DPStick.ttf'
 end

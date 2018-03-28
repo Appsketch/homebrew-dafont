@@ -5,7 +5,6 @@ cask 'dafont-chiken-skratch' do
     url 'http://dl.dafont.com/dl/?f=chiken_skratch'
     name 'Chiken Skratch'
     homepage 'http://www.dafont.com/chiken-skratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chiken Skratch.ttf'
 end

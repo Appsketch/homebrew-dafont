@@ -5,7 +5,6 @@ cask 'dafont-e-square' do
     url 'http://dl.dafont.com/dl/?f=e_square'
     name 'E-Square'
     homepage 'http://www.dafont.com/e-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'E-SQUARE_demo.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-us-bats' do
     url 'http://dl.dafont.com/dl/?f=us_bats'
     name 'US-Bats'
     homepage 'http://www.dafont.com/us-bats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'US-BATS.TTF'
 end

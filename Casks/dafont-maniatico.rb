@@ -5,7 +5,6 @@ cask 'dafont-maniatico' do
     url 'http://dl.dafont.com/dl/?f=maniatico'
     name 'Maniatico'
     homepage 'http://www.dafont.com/maniatico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MANIATIC.ttf'
 end

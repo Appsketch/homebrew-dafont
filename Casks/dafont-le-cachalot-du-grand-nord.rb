@@ -5,7 +5,6 @@ cask 'dafont-le-cachalot-du-grand-nord' do
     url 'http://dl.dafont.com/dl/?f=le_cachalot_du_grand_nord'
     name 'Le Cachalot du Grand Nord'
     homepage 'http://www.dafont.com/le-cachalot-du-grand-nord.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'le Cachalot du Grand Nord.ttf'
 end

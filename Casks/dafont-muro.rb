@@ -5,7 +5,6 @@ cask 'dafont-muro' do
     url 'http://dl.dafont.com/dl/?f=muro'
     name 'Muro'
     homepage 'http://www.dafont.com/muro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Muro.otf'
     font 'Muroslant.otf'

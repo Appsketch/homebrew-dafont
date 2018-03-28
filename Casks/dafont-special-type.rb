@@ -5,7 +5,6 @@ cask 'dafont-special-type' do
     url 'http://dl.dafont.com/dl/?f=special_type'
     name 'Special Type'
     homepage 'http://www.dafont.com/special-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Special Type.ttf'
 end

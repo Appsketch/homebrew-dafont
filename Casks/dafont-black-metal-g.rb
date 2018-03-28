@@ -5,7 +5,6 @@ cask 'dafont-black-metal-g' do
     url 'http://dl.dafont.com/dl/?f=black_metal_g'
     name 'Black Metal G'
     homepage 'http://www.dafont.com/black-metal-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black Metal G.ttf'
 end

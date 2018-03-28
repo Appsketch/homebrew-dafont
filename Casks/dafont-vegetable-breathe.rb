@@ -5,7 +5,6 @@ cask 'dafont-vegetable-breathe' do
     url 'http://dl.dafont.com/dl/?f=vegetable_breathe'
     name 'Vegetable Breathe'
     homepage 'http://www.dafont.com/vegetable-breathe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vegetable Breathe Free.ttf'
 end

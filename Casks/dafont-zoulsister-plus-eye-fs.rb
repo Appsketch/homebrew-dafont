@@ -5,7 +5,6 @@ cask 'dafont-zoulsister-plus-eye-fs' do
     url 'http://dl.dafont.com/dl/?f=zoulsister_plus_eye_fs'
     name 'Zoulsister plus eYe/FS'
     homepage 'http://www.dafont.com/zoulsister-plus-eye-fs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zoulsister plus eYe FS.ttf'
 end

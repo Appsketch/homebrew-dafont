@@ -5,7 +5,6 @@ cask 'dafont-simpledirectionarrows' do
     url 'http://dl.dafont.com/dl/?f=simpledirectionarrows'
     name 'SimpleDirectionArrows'
     homepage 'http://www.dafont.com/simpledirectionarrows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SimpleDirectionArrows.ttf'
 end

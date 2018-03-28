@@ -5,7 +5,6 @@ cask 'dafont-betty-noir' do
     url 'http://dl.dafont.com/dl/?f=betty_noir'
     name 'Betty Noir'
     homepage 'http://www.dafont.com/betty-noir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bettynoir.ttf'
 end

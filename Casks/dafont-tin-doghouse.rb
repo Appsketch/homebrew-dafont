@@ -5,7 +5,6 @@ cask 'dafont-tin-doghouse' do
     url 'http://dl.dafont.com/dl/?f=tin_doghouse'
     name 'Tin Doghouse'
     homepage 'http://www.dafont.com/tin-doghouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TinDog.ttf'
     font 'TinDogIt.ttf'

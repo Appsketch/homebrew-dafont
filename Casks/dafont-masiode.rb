@@ -5,7 +5,6 @@ cask 'dafont-masiode' do
     url 'http://dl.dafont.com/dl/?f=masiode'
     name 'Masiode'
     homepage 'http://www.dafont.com/masiode.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'msd_Light.ttf'
     font 'msd_Regular.ttf'

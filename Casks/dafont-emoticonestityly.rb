@@ -5,7 +5,6 @@ cask 'dafont-emoticonestityly' do
     url 'http://dl.dafont.com/dl/?f=emoticonestityly'
     name 'EmoticonesTityly'
     homepage 'http://www.dafont.com/emoticonestityly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EmoticonesTityly.ttf'
 end

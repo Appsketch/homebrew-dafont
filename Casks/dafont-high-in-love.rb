@@ -5,7 +5,6 @@ cask 'dafont-high-in-love' do
     url 'http://dl.dafont.com/dl/?f=high_in_love'
     name 'High in love'
     homepage 'http://www.dafont.com/high-in-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'high in love.ttf'
 end

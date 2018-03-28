@@ -5,7 +5,6 @@ cask 'dafont-b-de-bonita' do
     url 'http://dl.dafont.com/dl/?f=b_de_bonita'
     name 'B de bonita'
     homepage 'http://www.dafont.com/b-de-bonita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'b-de-bonita-shadow.ttf'
     font 'B-de-bonita.ttf'

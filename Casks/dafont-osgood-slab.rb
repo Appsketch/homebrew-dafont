@@ -5,7 +5,6 @@ cask 'dafont-osgood-slab' do
     url 'http://dl.dafont.com/dl/?f=osgood_slab'
     name 'Osgood Slab'
     homepage 'http://www.dafont.com/osgood-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OsgoodSlab-LightBlur.otf'
 end

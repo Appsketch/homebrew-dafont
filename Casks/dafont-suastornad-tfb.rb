@@ -5,7 +5,6 @@ cask 'dafont-suastornad-tfb' do
     url 'http://dl.dafont.com/dl/?f=suastornad_tfb'
     name 'Suast Ornad TFB'
     homepage 'http://www.dafont.com/suastornad-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuastOrnad tfb.ttf'
 end

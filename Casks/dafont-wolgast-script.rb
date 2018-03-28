@@ -5,7 +5,6 @@ cask 'dafont-wolgast-script' do
     url 'http://dl.dafont.com/dl/?f=wolgast_script'
     name 'Wolgast Script'
     homepage 'http://www.dafont.com/wolgast-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wolgast Script.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-humble' do
     url 'http://dl.dafont.com/dl/?f=humble'
     name 'Humble'
     homepage 'http://www.dafont.com/humble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HUMBLE(FREE FOR PERSONAL).ttf'
 end

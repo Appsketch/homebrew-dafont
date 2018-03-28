@@ -5,7 +5,6 @@ cask 'dafont-bit-chips' do
     url 'http://dl.dafont.com/dl/?f=bit_chips'
     name 'Bit Chips'
     homepage 'http://www.dafont.com/bit-chips.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bit_chips.ttf'
 end

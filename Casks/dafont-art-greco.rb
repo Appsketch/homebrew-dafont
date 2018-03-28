@@ -5,7 +5,6 @@ cask 'dafont-art-greco' do
     url 'http://dl.dafont.com/dl/?f=art_greco'
     name 'Art Greco'
     homepage 'http://www.dafont.com/art-greco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Art Greco.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-leviwindows' do
     url 'http://dl.dafont.com/dl/?f=leviwindows'
     name 'Levi Windows'
     homepage 'http://www.dafont.com/leviwindows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LeviWindows.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dreams-american-diner' do
     url 'http://dl.dafont.com/dl/?f=dreams_american_diner'
     name 'Dreams American Diner'
     homepage 'http://www.dafont.com/dreams-american-diner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dreams American Diner demo.otf'
 end

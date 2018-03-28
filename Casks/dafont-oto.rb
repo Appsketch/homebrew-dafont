@@ -5,7 +5,6 @@ cask 'dafont-oto' do
     url 'http://dl.dafont.com/dl/?f=oto'
     name 'Oto Tanpa + Choucha'
     homepage 'http://www.dafont.com/oto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OTO-CHOU.TTF'
     font 'OTO-TANP.TTF'

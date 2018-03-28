@@ -5,7 +5,6 @@ cask 'dafont-goodnight-freak' do
     url 'http://dl.dafont.com/dl/?f=goodnight_freak'
     name 'Goodnight Freak'
     homepage 'http://www.dafont.com/goodnight-freak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Goodnight Freak.otf'
 end

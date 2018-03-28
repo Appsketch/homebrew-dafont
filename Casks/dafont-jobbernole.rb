@@ -5,7 +5,6 @@ cask 'dafont-jobbernole' do
     url 'http://dl.dafont.com/dl/?f=jobbernole'
     name 'Jobbernole'
     homepage 'http://www.dafont.com/jobbernole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JOBBERNO.TTF'
 end

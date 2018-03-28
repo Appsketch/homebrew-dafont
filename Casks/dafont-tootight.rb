@@ -5,7 +5,6 @@ cask 'dafont-tootight' do
     url 'http://dl.dafont.com/dl/?f=tootight'
     name 'TooTight'
     homepage 'http://www.dafont.com/tootight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tootight.ttf'
 end

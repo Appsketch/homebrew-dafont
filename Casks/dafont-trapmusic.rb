@@ -5,7 +5,6 @@ cask 'dafont-trapmusic' do
     url 'http://dl.dafont.com/dl/?f=trapmusic'
     name 'Trap Music'
     homepage 'http://www.dafont.com/trapmusic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TrapMusic.ttf'
 end

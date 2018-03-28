@@ -5,7 +5,6 @@ cask 'dafont-slawterhouse-swinggang' do
     url 'http://dl.dafont.com/dl/?f=slawterhouse_swinggang'
     name 'Slawterhouse Swinggang'
     homepage 'http://www.dafont.com/slawterhouse-swinggang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slawterhouse_Swinggang.ttf'
 end

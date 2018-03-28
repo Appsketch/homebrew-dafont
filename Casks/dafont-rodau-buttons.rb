@@ -5,7 +5,6 @@ cask 'dafont-rodau-buttons' do
     url 'http://dl.dafont.com/dl/?f=rodau_buttons'
     name 'Rodau Buttons'
     homepage 'http://www.dafont.com/rodau-buttons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RodauButtons.ttf'
     font 'RodauButtonsInverse.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-buddy-champion' do
     url 'http://dl.dafont.com/dl/?f=buddy_champion'
     name 'Buddy Champion'
     homepage 'http://www.dafont.com/buddy-champion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'buddychampion.ttf'
     font 'buddychampion3d.ttf'

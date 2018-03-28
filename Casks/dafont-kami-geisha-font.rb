@@ -5,7 +5,6 @@ cask 'dafont-kami-geisha-font' do
     url 'http://dl.dafont.com/dl/?f=kami_geisha_font'
     name 'Kami-Geisha'
     homepage 'http://www.dafont.com/kami-geisha-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kami-Geisha Font.ttf'
 end

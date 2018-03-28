@@ -5,7 +5,6 @@ cask 'dafont-magic-bean-salade' do
     url 'http://dl.dafont.com/dl/?f=magic_bean_salade'
     name 'Magic Bean Salade'
     homepage 'http://www.dafont.com/magic-bean-salade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Magic Bean Salade.ttf'
 end

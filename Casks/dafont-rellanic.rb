@@ -5,7 +5,6 @@ cask 'dafont-rellanic' do
     url 'http://dl.dafont.com/dl/?f=rellanic'
     name 'Rellanic'
     homepage 'http://www.dafont.com/rellanic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rellanic Bold Italic.otf'
     font 'Rellanic Bold.otf'

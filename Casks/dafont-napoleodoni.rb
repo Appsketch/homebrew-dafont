@@ -5,7 +5,6 @@ cask 'dafont-napoleodoni' do
     url 'http://dl.dafont.com/dl/?f=napoleodoni'
     name 'Napoleodoni'
     homepage 'http://www.dafont.com/napoleodoni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Napoleodoni-Bold.ttf'
     font 'Napoleodoni.ttf'

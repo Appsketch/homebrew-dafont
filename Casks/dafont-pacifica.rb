@@ -5,7 +5,6 @@ cask 'dafont-pacifica' do
     url 'http://dl.dafont.com/dl/?f=pacifica'
     name 'Pacifica'
     homepage 'http://www.dafont.com/pacifica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pacifica.ttf'
 end

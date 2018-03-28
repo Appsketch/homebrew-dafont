@@ -5,7 +5,6 @@ cask 'dafont-presidente-tequila' do
     url 'http://dl.dafont.com/dl/?f=presidente_tequila'
     name 'Presidente Tequila'
     homepage 'http://www.dafont.com/presidente-tequila.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PREST___.TTF'
     font 'PRESTI__.TTF'

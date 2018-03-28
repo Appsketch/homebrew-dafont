@@ -5,7 +5,6 @@ cask 'dafont-crichton' do
     url 'http://dl.dafont.com/dl/?f=crichton'
     name 'Crichton'
     homepage 'http://www.dafont.com/crichton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crichton Bold Italic.otf'
     font 'Crichton Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-euphoric' do
     url 'http://dl.dafont.com/dl/?f=euphoric'
     name 'Euphoric BRK'
     homepage 'http://www.dafont.com/euphoric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'euphor3d.ttf'
     font 'euphoric.ttf'

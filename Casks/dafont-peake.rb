@@ -5,7 +5,6 @@ cask 'dafont-peake' do
     url 'http://dl.dafont.com/dl/?f=peake'
     name 'Peake'
     homepage 'http://www.dafont.com/peake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peake Bold.ttf'
     font 'PEAKE_Doubled.ttf'

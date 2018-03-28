@@ -5,7 +5,6 @@ cask 'dafont-afectionless' do
     url 'http://dl.dafont.com/dl/?f=afectionless'
     name 'Afectionless'
     homepage 'http://www.dafont.com/afectionless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Afectionless.ttf'
 end

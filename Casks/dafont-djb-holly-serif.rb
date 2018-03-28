@@ -5,7 +5,6 @@ cask 'dafont-djb-holly-serif' do
     url 'http://dl.dafont.com/dl/?f=djb_holly_serif'
     name 'DJB Holly Serif'
     homepage 'http://www.dafont.com/djb-holly-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Holly Serif Bold.ttf'
     font 'DJB Holly Serif.ttf'

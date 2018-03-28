@@ -5,7 +5,6 @@ cask 'dafont-fontbardeo' do
     url 'http://dl.dafont.com/dl/?f=fontbardeo'
     name 'Fontbardeo'
     homepage 'http://www.dafont.com/fontbardeo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fontsbardeo.ttf'
 end

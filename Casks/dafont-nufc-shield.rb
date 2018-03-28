@@ -5,7 +5,6 @@ cask 'dafont-nufc-shield' do
     url 'http://dl.dafont.com/dl/?f=nufc_shield'
     name 'NUFC Shield'
     homepage 'http://www.dafont.com/nufc-shield.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NUFC Sheild.ttf'
 end

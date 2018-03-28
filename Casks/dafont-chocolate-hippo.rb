@@ -5,7 +5,6 @@ cask 'dafont-chocolate-hippo' do
     url 'http://dl.dafont.com/dl/?f=chocolate_hippo'
     name 'Chocolate Hippo'
     homepage 'http://www.dafont.com/chocolate-hippo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chocolate_hippo.ttf'
 end

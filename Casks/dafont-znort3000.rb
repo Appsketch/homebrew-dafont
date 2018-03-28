@@ -5,7 +5,6 @@ cask 'dafont-znort3000' do
     url 'http://dl.dafont.com/dl/?f=znort3000'
     name 'Znort3000'
     homepage 'http://www.dafont.com/znort3000.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Znort3000.ttf'
 end

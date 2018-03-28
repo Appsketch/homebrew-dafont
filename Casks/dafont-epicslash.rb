@@ -5,7 +5,6 @@ cask 'dafont-epicslash' do
     url 'http://dl.dafont.com/dl/?f=epicslash'
     name 'Epic Slash'
     homepage 'http://www.dafont.com/epicslash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EpicSlash.ttf'
 end

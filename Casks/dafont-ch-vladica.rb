@@ -5,7 +5,6 @@ cask 'dafont-ch-vladica' do
     url 'http://dl.dafont.com/dl/?f=ch_vladica'
     name 'Ch. Vladica'
     homepage 'http://www.dafont.com/ch-vladica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chvlad-font.otf'
 end

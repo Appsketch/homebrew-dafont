@@ -5,7 +5,6 @@ cask 'dafont-ackbar' do
     url 'http://dl.dafont.com/dl/?f=ackbar'
     name 'Ackbar'
     homepage 'http://www.dafont.com/ackbar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ackbar.ttf'
 end

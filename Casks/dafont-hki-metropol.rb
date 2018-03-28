@@ -5,7 +5,6 @@ cask 'dafont-hki-metropol' do
     url 'http://dl.dafont.com/dl/?f=hki_metropol'
     name 'HKI Metropol + Nightlife'
     homepage 'http://www.dafont.com/hki-metropol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HKIMETRO.TTF'
     font 'HKINIGHT.TTF'

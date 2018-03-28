@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-christmas-doodles' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_christmas_doodles'
     name 'Austie Bost Christmas Doodles'
     homepage 'http://www.dafont.com/austie-bost-christmas-doodles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AustieBostChristmasDoodles.ttf'
 end

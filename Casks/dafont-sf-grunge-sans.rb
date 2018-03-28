@@ -5,7 +5,6 @@ cask 'dafont-sf-grunge-sans' do
     url 'http://dl.dafont.com/dl/?f=sf_grunge_sans'
     name 'SF Grunge Sans'
     homepage 'http://www.dafont.com/sf-grunge-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Grunge Sans Bold Italic.ttf'
     font 'SF Grunge Sans Bold.ttf'

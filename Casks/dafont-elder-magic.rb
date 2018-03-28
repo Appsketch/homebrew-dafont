@@ -5,7 +5,6 @@ cask 'dafont-elder-magic' do
     url 'http://dl.dafont.com/dl/?f=elder_magic'
     name 'Elder Magic'
     homepage 'http://www.dafont.com/elder-magic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eldermagic.ttf'
     font 'eldermagici.ttf'

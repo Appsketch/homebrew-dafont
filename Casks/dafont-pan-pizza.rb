@@ -5,7 +5,6 @@ cask 'dafont-pan-pizza' do
     url 'http://dl.dafont.com/dl/?f=pan_pizza'
     name 'Pan Pizza'
     homepage 'http://www.dafont.com/pan-pizza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'panpizza.ttf'
 end

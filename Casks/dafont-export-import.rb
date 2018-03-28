@@ -5,7 +5,6 @@ cask 'dafont-export-import' do
     url 'http://dl.dafont.com/dl/?f=export_import'
     name 'Export Import'
     homepage 'http://www.dafont.com/export-import.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Export Import.ttf'
 end

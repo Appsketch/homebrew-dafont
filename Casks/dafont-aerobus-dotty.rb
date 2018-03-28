@@ -5,7 +5,6 @@ cask 'dafont-aerobus-dotty' do
     url 'http://dl.dafont.com/dl/?f=aerobus_dotty'
     name 'Aerobus Dotty'
     homepage 'http://www.dafont.com/aerobus-dotty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aerobusdotty.ttf'
 end

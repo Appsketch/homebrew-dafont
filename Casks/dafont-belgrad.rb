@@ -5,7 +5,6 @@ cask 'dafont-belgrad' do
     url 'http://dl.dafont.com/dl/?f=belgrad'
     name 'Belgrad'
     homepage 'http://www.dafont.com/belgrad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Belgrad.ttf'
 end

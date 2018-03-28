@@ -5,7 +5,6 @@ cask 'dafont-greywolf-glyphs' do
     url 'http://dl.dafont.com/dl/?f=greywolf_glyphs'
     name 'Greywolf Glyphs'
     homepage 'http://www.dafont.com/greywolf-glyphs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GWGLYPTT.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dicks-handwriting' do
     url 'http://dl.dafont.com/dl/?f=dicks_handwriting'
     name 'Dicks Handwriting'
     homepage 'http://www.dafont.com/dicks-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DicksHandwriting.ttf'
 end

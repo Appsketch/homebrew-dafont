@@ -5,7 +5,6 @@ cask 'dafont-intuitive' do
     url 'http://dl.dafont.com/dl/?f=intuitive'
     name 'Intuitive'
     homepage 'http://www.dafont.com/intuitive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'intuitive.ttf'
 end

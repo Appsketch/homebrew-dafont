@@ -5,7 +5,6 @@ cask 'dafont-carousel' do
     url 'http://dl.dafont.com/dl/?f=carousel'
     name 'Carousel'
     homepage 'http://www.dafont.com/carousel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carousel.ttf'
 end

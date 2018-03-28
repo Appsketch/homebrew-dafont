@@ -5,7 +5,6 @@ cask 'dafont-mister-fish' do
     url 'http://dl.dafont.com/dl/?f=mister_fish'
     name 'Mister Fish'
     homepage 'http://www.dafont.com/mister-fish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mister Fish.ttf'
 end

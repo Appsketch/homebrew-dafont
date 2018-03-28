@@ -5,7 +5,6 @@ cask 'dafont-boots-barkley' do
     url 'http://dl.dafont.com/dl/?f=boots_barkley'
     name 'Boots&amp;Barkley'
     homepage 'http://www.dafont.com/boots-barkley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boots&amp;Barkley.ttf'
 end

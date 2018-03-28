@@ -5,7 +5,6 @@ cask 'dafont-kinetic-extreme' do
     url 'http://dl.dafont.com/dl/?f=kinetic_extreme'
     name 'Kinetic Extreme'
     homepage 'http://www.dafont.com/kinetic-extreme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kinetic-Extreme.ttf'
 end

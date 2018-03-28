@@ -5,7 +5,6 @@ cask 'dafont-uglyqua' do
     url 'http://dl.dafont.com/dl/?f=uglyqua'
     name 'UglyQua'
     homepage 'http://www.dafont.com/uglyqua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UglyQua-Italic.ttf'
     font 'UglyQua.ttf'

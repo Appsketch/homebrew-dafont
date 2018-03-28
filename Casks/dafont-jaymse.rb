@@ -5,7 +5,6 @@ cask 'dafont-jaymse' do
     url 'http://dl.dafont.com/dl/?f=jaymse'
     name 'Jaymse'
     homepage 'http://www.dafont.com/jaymse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HM_Jaymse.ttf'
 end

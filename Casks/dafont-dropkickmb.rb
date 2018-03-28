@@ -5,7 +5,6 @@ cask 'dafont-dropkickmb' do
     url 'http://dl.dafont.com/dl/?f=dropkickmb'
     name 'Drop Kick MB'
     homepage 'http://www.dafont.com/dropkickmb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DropKickMB.ttf'
 end

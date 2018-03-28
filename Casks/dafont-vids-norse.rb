@@ -5,7 +5,6 @@ cask 'dafont-vids-norse' do
     url 'http://dl.dafont.com/dl/?f=vids_norse'
     name 'Vid&#039;s Norse'
     homepage 'http://www.dafont.com/vids-norse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VidNorse.ttf'
 end

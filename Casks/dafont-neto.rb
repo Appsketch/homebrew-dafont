@@ -5,7 +5,6 @@ cask 'dafont-neto' do
     url 'http://dl.dafont.com/dl/?f=neto'
     name 'Neto'
     homepage 'http://www.dafont.com/neto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neto.ttf'
 end

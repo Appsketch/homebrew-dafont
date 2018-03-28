@@ -5,7 +5,6 @@ cask 'dafont-icecreamparty' do
     url 'http://dl.dafont.com/dl/?f=icecreamparty'
     name 'IceCreamParty'
     homepage 'http://www.dafont.com/icecreamparty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IceCreamParty.ttf'
     font 'IceCreamPartySolid.ttf'

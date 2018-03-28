@@ -5,7 +5,6 @@ cask 'dafont-eminent' do
     url 'http://dl.dafont.com/dl/?f=eminent'
     name 'Eminent'
     homepage 'http://www.dafont.com/eminent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eminent.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lalinea-sea' do
     url 'http://dl.dafont.com/dl/?f=lalinea_sea'
     name 'LaLinea Sea'
     homepage 'http://www.dafont.com/lalinea-sea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaLinea Sea.ttf'
 end

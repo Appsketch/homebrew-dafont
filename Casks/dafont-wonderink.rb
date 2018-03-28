@@ -5,7 +5,6 @@ cask 'dafont-wonderink' do
     url 'http://dl.dafont.com/dl/?f=wonderink'
     name 'Wonder Ink'
     homepage 'http://www.dafont.com/wonderink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WonderInk.ttf'
 end

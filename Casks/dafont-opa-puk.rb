@@ -5,7 +5,6 @@ cask 'dafont-opa-puk' do
     url 'http://dl.dafont.com/dl/?f=opa_puk'
     name 'Opa Puk'
     homepage 'http://www.dafont.com/opa-puk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'opa_puk.ttf'
 end

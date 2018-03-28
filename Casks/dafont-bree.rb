@@ -5,7 +5,6 @@ cask 'dafont-bree' do
     url 'http://dl.dafont.com/dl/?f=bree'
     name 'Bree'
     homepage 'http://www.dafont.com/bree.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BREE.ttf'
 end

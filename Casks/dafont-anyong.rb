@@ -5,7 +5,6 @@ cask 'dafont-anyong' do
     url 'http://dl.dafont.com/dl/?f=anyong'
     name 'Anyong'
     homepage 'http://www.dafont.com/anyong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anyong__.ttf'
 end

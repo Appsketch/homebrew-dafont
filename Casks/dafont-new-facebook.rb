@@ -5,7 +5,6 @@ cask 'dafont-new-facebook' do
     url 'http://dl.dafont.com/dl/?f=new_facebook'
     name 'New Facebook'
     homepage 'http://www.dafont.com/new-facebook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'new_facebok.ttf'
 end

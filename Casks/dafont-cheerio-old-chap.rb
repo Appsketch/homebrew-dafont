@@ -5,7 +5,6 @@ cask 'dafont-cheerio-old-chap' do
     url 'http://dl.dafont.com/dl/?f=cheerio_old_chap'
     name 'Cheerio Old Chap'
     homepage 'http://www.dafont.com/cheerio-old-chap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cheerio Old Chap Italic.otf'
     font 'Cheerio Old Chap.otf'

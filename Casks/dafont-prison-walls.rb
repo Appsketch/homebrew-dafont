@@ -5,7 +5,6 @@ cask 'dafont-prison-walls' do
     url 'http://dl.dafont.com/dl/?f=prison_walls'
     name 'Prison Walls'
     homepage 'http://www.dafont.com/prison-walls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Prison Walls.ttf'
 end

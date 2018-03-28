@@ -5,7 +5,6 @@ cask 'dafont-lbc-boom' do
     url 'http://dl.dafont.com/dl/?f=lbc_boom'
     name 'LBC Boom'
     homepage 'http://www.dafont.com/lbc-boom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LBCBOOM.ttf'
 end

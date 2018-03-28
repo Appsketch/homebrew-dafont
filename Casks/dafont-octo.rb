@@ -5,7 +5,6 @@ cask 'dafont-octo' do
     url 'http://dl.dafont.com/dl/?f=octo'
     name 'Octo'
     homepage 'http://www.dafont.com/octo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Octo font.ttf'
 end

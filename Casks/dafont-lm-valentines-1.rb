@@ -5,7 +5,6 @@ cask 'dafont-lm-valentines-1' do
     url 'http://dl.dafont.com/dl/?f=lm_valentines_1'
     name 'LM Valentines 1'
     homepage 'http://www.dafont.com/lm-valentines-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LM Valentines  1.ttf'
 end

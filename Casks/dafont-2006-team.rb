@@ -5,7 +5,6 @@ cask 'dafont-2006-team' do
     url 'http://dl.dafont.com/dl/?f=2006_team'
     name '2006 Team'
     homepage 'http://www.dafont.com/2006-team.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '2006 Team.ttf'
 end

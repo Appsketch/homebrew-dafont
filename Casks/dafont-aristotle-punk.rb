@@ -5,7 +5,6 @@ cask 'dafont-aristotle-punk' do
     url 'http://dl.dafont.com/dl/?f=aristotle_punk'
     name 'Aristotle Punk'
     homepage 'http://www.dafont.com/aristotle-punk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aristotle Punk.ttf'
 end

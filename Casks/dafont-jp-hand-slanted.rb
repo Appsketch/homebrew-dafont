@@ -5,7 +5,6 @@ cask 'dafont-jp-hand-slanted' do
     url 'http://dl.dafont.com/dl/?f=jp_hand_slanted'
     name 'JP Hand Slanted'
     homepage 'http://www.dafont.com/jp-hand-slanted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JPHSL.TTF'
 end

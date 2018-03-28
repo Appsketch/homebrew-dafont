@@ -5,7 +5,6 @@ cask 'dafont-calcula' do
     url 'http://dl.dafont.com/dl/?f=calcula'
     name 'Calcula'
     homepage 'http://www.dafont.com/calcula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Calcula.ttf'
 end

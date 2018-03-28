@@ -5,7 +5,6 @@ cask 'dafont-showguide' do
     url 'http://dl.dafont.com/dl/?f=showguide'
     name 'Showguide'
     homepage 'http://www.dafont.com/showguide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'showguide.TTF'
 end

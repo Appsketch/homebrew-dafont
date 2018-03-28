@@ -5,7 +5,6 @@ cask 'dafont-komika-text' do
     url 'http://dl.dafont.com/dl/?f=komika_text'
     name 'Komika Text'
     homepage 'http://www.dafont.com/komika-text.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMTXKBI.ttf'
     font 'KOMTXT__.ttf'

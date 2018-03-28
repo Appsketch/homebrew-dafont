@@ -5,7 +5,6 @@ cask 'dafont-feed-my-frankenstein' do
     url 'http://dl.dafont.com/dl/?f=feed_my_frankenstein'
     name 'Feed my Frankenstein'
     homepage 'http://www.dafont.com/feed-my-frankenstein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'feed my frankenstein.ttf'
 end

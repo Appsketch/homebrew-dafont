@@ -5,7 +5,6 @@ cask 'dafont-joanneenzymekinetics' do
     url 'http://dl.dafont.com/dl/?f=joanneenzymekinetics'
     name 'Joanne Enzyme Kinetics'
     homepage 'http://www.dafont.com/joanneenzymekinetics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JoanneEnzymeKinetics.otf'
 end

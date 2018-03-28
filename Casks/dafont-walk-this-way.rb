@@ -5,7 +5,6 @@ cask 'dafont-walk-this-way' do
     url 'http://dl.dafont.com/dl/?f=walk_this_way'
     name 'Walk this way'
     homepage 'http://www.dafont.com/walk-this-way.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Walk this way.ttf'
 end

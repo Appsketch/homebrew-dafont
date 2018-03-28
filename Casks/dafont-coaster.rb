@@ -5,7 +5,6 @@ cask 'dafont-coaster' do
     url 'http://dl.dafont.com/dl/?f=coaster'
     name 'Coaster'
     homepage 'http://www.dafont.com/coaster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COASBL__.TTF'
     font 'CoasterShadow.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-the-freaky-face' do
     url 'http://dl.dafont.com/dl/?f=the_freaky_face'
     name 'The Freaky Face'
     homepage 'http://www.dafont.com/the-freaky-face.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheFreakyFace.otf'
 end

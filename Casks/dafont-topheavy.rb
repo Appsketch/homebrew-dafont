@@ -5,7 +5,6 @@ cask 'dafont-topheavy' do
     url 'http://dl.dafont.com/dl/?f=topheavy'
     name 'Top Heavy'
     homepage 'http://www.dafont.com/topheavy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TopHeavy.ttf'
 end

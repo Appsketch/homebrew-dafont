@@ -5,7 +5,6 @@ cask 'dafont-cool-three-pixels' do
     url 'http://dl.dafont.com/dl/?f=cool_three_pixels'
     name 'Cool Three Pixels'
     homepage 'http://www.dafont.com/cool-three-pixels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COOLTHRE.TTF'
 end

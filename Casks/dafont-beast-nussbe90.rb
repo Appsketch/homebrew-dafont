@@ -5,7 +5,6 @@ cask 'dafont-beast-nussbe90' do
     url 'http://dl.dafont.com/dl/?f=beast_nussbe90'
     name 'Beast'
     homepage 'http://www.dafont.com/beast-nussbe90.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beast.ttf'
 end

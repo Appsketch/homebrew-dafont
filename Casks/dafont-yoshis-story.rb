@@ -5,7 +5,6 @@ cask 'dafont-yoshis-story' do
     url 'http://dl.dafont.com/dl/?f=yoshis_story'
     name 'Yoshi&#039;s Story'
     homepage 'http://www.dafont.com/yoshis-story.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yoshisst.ttf'
 end

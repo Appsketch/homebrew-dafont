@@ -5,7 +5,6 @@ cask 'dafont-romerati' do
     url 'http://dl.dafont.com/dl/?f=romerati'
     name 'Romerati'
     homepage 'http://www.dafont.com/romerati.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROMERATI.TTF'
 end

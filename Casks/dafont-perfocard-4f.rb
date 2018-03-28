@@ -5,7 +5,6 @@ cask 'dafont-perfocard-4f' do
     url 'http://dl.dafont.com/dl/?f=perfocard_4f'
     name 'Perfocard 4F'
     homepage 'http://www.dafont.com/perfocard-4f.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Perfocard_4F.ttf'
 end

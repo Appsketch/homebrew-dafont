@@ -5,7 +5,6 @@ cask 'dafont-fat-cat' do
     url 'http://dl.dafont.com/dl/?f=fat_cat'
     name 'Fat Cat'
     homepage 'http://www.dafont.com/fat-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FatCatDEMO.otf'
 end

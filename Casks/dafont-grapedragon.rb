@@ -5,7 +5,6 @@ cask 'dafont-grapedragon' do
     url 'http://dl.dafont.com/dl/?f=grapedragon'
     name 'Grape Dragon'
     homepage 'http://www.dafont.com/grapedragon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrapeDragon.ttf'
 end

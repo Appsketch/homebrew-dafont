@@ -5,7 +5,6 @@ cask 'dafont-scissors-cuts-paper' do
     url 'http://dl.dafont.com/dl/?f=scissors_cuts_paper'
     name 'Scissors Cuts Paper'
     homepage 'http://www.dafont.com/scissors-cuts-paper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scissors-Cuts-Paper.ttf'
 end

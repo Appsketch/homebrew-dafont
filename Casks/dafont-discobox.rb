@@ -5,7 +5,6 @@ cask 'dafont-discobox' do
     url 'http://dl.dafont.com/dl/?f=discobox'
     name 'Discobox'
     homepage 'http://www.dafont.com/discobox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DISCOBOX.TTF'
 end

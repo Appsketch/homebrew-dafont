@@ -5,7 +5,6 @@ cask 'dafont-ji-chubby-chunky-ca' do
     url 'http://dl.dafont.com/dl/?f=ji_chubby_chunky_ca'
     name 'JI Chubby / Chunky Caps'
     homepage 'http://www.dafont.com/ji-chubby-chunky-ca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JI Chubby Caps.ttf'
     font 'JI Chunky Caps.ttf'

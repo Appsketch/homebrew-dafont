@@ -5,7 +5,6 @@ cask 'dafont-typischvoornu2014' do
     url 'http://dl.dafont.com/dl/?f=typischvoornu2014'
     name 'Typischvoornu 2014'
     homepage 'http://www.dafont.com/typischvoornu2014.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'typischvoornu2014.ttf'
 end

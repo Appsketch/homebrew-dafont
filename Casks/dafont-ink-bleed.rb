@@ -5,7 +5,6 @@ cask 'dafont-ink-bleed' do
     url 'http://dl.dafont.com/dl/?f=ink_bleed'
     name 'Ink Bleed'
     homepage 'http://www.dafont.com/ink-bleed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ink bleed.ttf'
 end

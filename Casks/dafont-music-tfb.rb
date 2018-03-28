@@ -5,7 +5,6 @@ cask 'dafont-music-tfb' do
     url 'http://dl.dafont.com/dl/?f=music_tfb'
     name 'Music TFB'
     homepage 'http://www.dafont.com/music-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'music tfb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-technophilia' do
     url 'http://dl.dafont.com/dl/?f=technophilia'
     name 'Technophilia'
     homepage 'http://www.dafont.com/technophilia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Technophilia.ttf'
 end

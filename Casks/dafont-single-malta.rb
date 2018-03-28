@@ -5,7 +5,6 @@ cask 'dafont-single-malta' do
     url 'http://dl.dafont.com/dl/?f=single_malta'
     name 'Single Malta'
     homepage 'http://www.dafont.com/single-malta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SingleMalta.ttf'
 end

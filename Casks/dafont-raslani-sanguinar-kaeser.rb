@@ -5,7 +5,6 @@ cask 'dafont-raslani-sanguinar-kaeser' do
     url 'http://dl.dafont.com/dl/?f=raslani_sanguinar_kaeser'
     name 'Raslani Sanguinar Kaeser'
     homepage 'http://www.dafont.com/raslani-sanguinar-kaeser.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raslani Sanguinar Kaeser.ttf'
 end

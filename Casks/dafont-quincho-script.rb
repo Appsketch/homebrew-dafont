@@ -5,7 +5,6 @@ cask 'dafont-quincho-script' do
     url 'http://dl.dafont.com/dl/?f=quincho_script'
     name 'Quincho Script'
     homepage 'http://www.dafont.com/quincho-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuinchoScript_PersonalUse.ttf'
 end

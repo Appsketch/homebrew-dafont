@@ -5,7 +5,6 @@ cask 'dafont-destroyed-crates' do
     url 'http://dl.dafont.com/dl/?f=destroyed_crates'
     name 'Destroyed Crates'
     homepage 'http://www.dafont.com/destroyed-crates.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Destroyed Crates.ttf'
 end

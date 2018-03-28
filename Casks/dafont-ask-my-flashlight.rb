@@ -5,7 +5,6 @@ cask 'dafont-ask-my-flashlight' do
     url 'http://dl.dafont.com/dl/?f=ask_my_flashlight'
     name 'Ask My Flashlight'
     homepage 'http://www.dafont.com/ask-my-flashlight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ask My Flashlight.ttf'
 end

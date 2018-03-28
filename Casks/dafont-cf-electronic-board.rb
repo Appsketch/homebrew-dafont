@@ -5,7 +5,6 @@ cask 'dafont-cf-electronic-board' do
     url 'http://dl.dafont.com/dl/?f=cf_electronic_board'
     name 'CF Electronic Board'
     homepage 'http://www.dafont.com/cf-electronic-board.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFElectronicBoard-Regular.ttf'
 end

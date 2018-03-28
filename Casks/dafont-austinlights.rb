@@ -5,7 +5,6 @@ cask 'dafont-austinlights' do
     url 'http://dl.dafont.com/dl/?f=austinlights'
     name 'Austin Lights'
     homepage 'http://www.dafont.com/austinlights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AustinLights.ttf'
 end

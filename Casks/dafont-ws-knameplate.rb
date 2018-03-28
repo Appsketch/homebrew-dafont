@@ -5,7 +5,6 @@ cask 'dafont-ws-knameplate' do
     url 'http://dl.dafont.com/dl/?f=ws_knameplate'
     name 'WS Kname Plate'
     homepage 'http://www.dafont.com/ws-knameplate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WSKnamePlate.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bamboo-chopsticks' do
     url 'http://dl.dafont.com/dl/?f=bamboo_chopsticks'
     name 'Bamboo Chopsticks'
     homepage 'http://www.dafont.com/bamboo-chopsticks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BAMBOO chopsticks.ttf'
 end

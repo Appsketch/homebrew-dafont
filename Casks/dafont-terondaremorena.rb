@@ -5,7 +5,6 @@ cask 'dafont-terondaremorena' do
     url 'http://dl.dafont.com/dl/?f=terondaremorena'
     name 'Terondaremorena'
     homepage 'http://www.dafont.com/terondaremorena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'terondaremorena.ttf'
 end

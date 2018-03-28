@@ -5,7 +5,6 @@ cask 'dafont-famirids' do
     url 'http://dl.dafont.com/dl/?f=famirids'
     name 'Famirids'
     homepage 'http://www.dafont.com/famirids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Famirids..ttf'
 end

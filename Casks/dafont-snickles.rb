@@ -5,7 +5,6 @@ cask 'dafont-snickles' do
     url 'http://dl.dafont.com/dl/?f=snickles'
     name 'Snickles'
     homepage 'http://www.dafont.com/snickles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snickles.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-connyrocket' do
     url 'http://dl.dafont.com/dl/?f=connyrocket'
     name 'ConnyRocket'
     homepage 'http://www.dafont.com/connyrocket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ConnyRocket DEMO.ttf'
 end

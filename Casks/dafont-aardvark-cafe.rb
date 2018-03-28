@@ -5,7 +5,6 @@ cask 'dafont-aardvark-cafe' do
     url 'http://dl.dafont.com/dl/?f=aardvark_cafe'
     name 'Aardvark Cafe'
     homepage 'http://www.dafont.com/aardvark-cafe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AARDC___.TTF'
 end

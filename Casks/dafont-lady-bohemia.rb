@@ -5,7 +5,6 @@ cask 'dafont-lady-bohemia' do
     url 'http://dl.dafont.com/dl/?f=lady_bohemia'
     name 'Lady Bohemia'
     homepage 'http://www.dafont.com/lady-bohemia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lady Bohemia 2.ttf'
     font 'Lady Bohemia.ttf'

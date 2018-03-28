@@ -5,7 +5,6 @@ cask 'dafont-twirlydoodles' do
     url 'http://dl.dafont.com/dl/?f=twirlydoodles'
     name 'Twirly Doodles'
     homepage 'http://www.dafont.com/twirlydoodles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TwirlyDoodles.ttf'
 end

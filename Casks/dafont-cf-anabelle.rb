@@ -5,7 +5,6 @@ cask 'dafont-cf-anabelle' do
     url 'http://dl.dafont.com/dl/?f=cf_anabelle'
     name 'CF Anabelle'
     homepage 'http://www.dafont.com/cf-anabelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFAnabelle.ttf'
 end

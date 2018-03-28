@@ -5,7 +5,6 @@ cask 'dafont-steel-town' do
     url 'http://dl.dafont.com/dl/?f=steel_town'
     name 'Steel Town'
     homepage 'http://www.dafont.com/steel-town.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SteelTown.ttf'
 end

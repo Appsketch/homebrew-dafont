@@ -5,7 +5,6 @@ cask 'dafont-adlibitum' do
     url 'http://dl.dafont.com/dl/?f=adlibitum'
     name 'Adlibitum'
     homepage 'http://www.dafont.com/adlibitum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adlibitum TRIAL.ttf'
     font 'Adlibitum_Bold TRIAL.ttf'

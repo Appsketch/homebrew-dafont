@@ -5,7 +5,6 @@ cask 'dafont-jellyka-saint-andrews-queen' do
     url 'http://dl.dafont.com/dl/?f=jellyka_saint_andrews_queen'
     name 'Jellyka Saint-Andrew&#039;s Queen'
     homepage 'http://www.dafont.com/jellyka-saint-andrews-queen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Saint-Andrews Queen.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dream-love-valentine' do
     url 'http://dl.dafont.com/dl/?f=dream_love_valentine'
     name 'Dream Love Valentine'
     homepage 'http://www.dafont.com/dream-love-valentine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dream Love Valentine Bold Italic.ttf'
     font 'Dream Love Valentine Bold.ttf'

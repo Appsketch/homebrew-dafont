@@ -5,7 +5,6 @@ cask 'dafont-bd-pipe' do
     url 'http://dl.dafont.com/dl/?f=bd_pipe'
     name 'BD Pipe'
     homepage 'http://www.dafont.com/bd-pipe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BD_Pipe.otf'
 end

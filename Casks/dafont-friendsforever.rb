@@ -5,7 +5,6 @@ cask 'dafont-friendsforever' do
     url 'http://dl.dafont.com/dl/?f=friendsforever'
     name 'Friends Forever'
     homepage 'http://www.dafont.com/friendsforever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FriendsForever.ttf'
 end

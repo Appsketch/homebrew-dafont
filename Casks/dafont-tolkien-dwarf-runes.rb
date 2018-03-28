@@ -5,7 +5,6 @@ cask 'dafont-tolkien-dwarf-runes' do
     url 'http://dl.dafont.com/dl/?f=tolkien_dwarf_runes'
     name 'Tolkien Dwarf Runes'
     homepage 'http://www.dafont.com/tolkien-dwarf-runes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dwarf.ttf'
 end

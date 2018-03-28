@@ -5,7 +5,6 @@ cask 'dafont-wm-flowers' do
     url 'http://dl.dafont.com/dl/?f=wm_flowers'
     name 'WM Flowers'
     homepage 'http://www.dafont.com/wm-flowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmflower3.TTF'
     font 'wmflowers1.TTF'

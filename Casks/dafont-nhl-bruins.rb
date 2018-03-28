@@ -5,7 +5,6 @@ cask 'dafont-nhl-bruins' do
     url 'http://dl.dafont.com/dl/?f=nhl_bruins'
     name 'NHL Bruins'
     homepage 'http://www.dafont.com/nhl-bruins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NHL Bruins.ttf'
 end

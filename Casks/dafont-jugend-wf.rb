@@ -5,7 +5,6 @@ cask 'dafont-jugend-wf' do
     url 'http://dl.dafont.com/dl/?f=jugend_wf'
     name 'Jugend WF'
     homepage 'http://www.dafont.com/jugend-wf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jugend.ttf'
 end

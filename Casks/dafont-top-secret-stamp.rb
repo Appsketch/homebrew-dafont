@@ -5,7 +5,6 @@ cask 'dafont-top-secret-stamp' do
     url 'http://dl.dafont.com/dl/?f=top_secret_stamp'
     name 'Top Secret Stamp'
     homepage 'http://www.dafont.com/top-secret-stamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Top Secret Stamp.ttf'
 end

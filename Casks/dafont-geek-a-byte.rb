@@ -5,7 +5,6 @@ cask 'dafont-geek-a-byte' do
     url 'http://dl.dafont.com/dl/?f=geek_a_byte'
     name 'Geek a Byte'
     homepage 'http://www.dafont.com/geek-a-byte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GEEKABYTE.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-addis-ababa' do
     url 'http://dl.dafont.com/dl/?f=addis_ababa'
     name 'Addis Ababa'
     homepage 'http://www.dafont.com/addis-ababa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AddisAbaba.ttf'
 end

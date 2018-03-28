@@ -5,7 +5,6 @@ cask 'dafont-50-fifty' do
     url 'http://dl.dafont.com/dl/?f=50_fifty'
     name '50 Fifty'
     homepage 'http://www.dafont.com/50-fifty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '50fifty.ttf'
 end

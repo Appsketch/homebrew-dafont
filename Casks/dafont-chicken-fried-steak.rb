@@ -5,7 +5,6 @@ cask 'dafont-chicken-fried-steak' do
     url 'http://dl.dafont.com/dl/?f=chicken_fried_steak'
     name 'Chicken Fried Steak'
     homepage 'http://www.dafont.com/chicken-fried-steak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chicken Fried Steak.ttf'
 end

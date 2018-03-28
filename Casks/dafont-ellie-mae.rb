@@ -5,7 +5,6 @@ cask 'dafont-ellie-mae' do
     url 'http://dl.dafont.com/dl/?f=ellie_mae'
     name 'Ellie Mae'
     homepage 'http://www.dafont.com/ellie-mae.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ellie-Mae Demo Demo.otf'
 end

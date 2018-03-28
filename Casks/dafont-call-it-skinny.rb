@@ -5,7 +5,6 @@ cask 'dafont-call-it-skinny' do
     url 'http://dl.dafont.com/dl/?f=call_it_skinny'
     name 'Call it Skinny'
     homepage 'http://www.dafont.com/call-it-skinny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'call it skinny.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ilse' do
     url 'http://dl.dafont.com/dl/?f=ilse'
     name 'Ilse'
     homepage 'http://www.dafont.com/ilse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ilse-Normal.ttf'
 end

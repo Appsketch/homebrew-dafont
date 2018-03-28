@@ -5,7 +5,6 @@ cask 'dafont-heavengate' do
     url 'http://dl.dafont.com/dl/?f=heavengate'
     name 'Heaven Gate'
     homepage 'http://www.dafont.com/heavengate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeavenGate.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mk-british-writing' do
     url 'http://dl.dafont.com/dl/?f=mk_british_writing'
     name 'MK British Writing'
     homepage 'http://www.dafont.com/mk-british-writing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MKBritishWriting.ttf'
 end

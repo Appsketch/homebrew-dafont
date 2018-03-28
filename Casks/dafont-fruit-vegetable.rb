@@ -5,7 +5,6 @@ cask 'dafont-fruit-vegetable' do
     url 'http://dl.dafont.com/dl/?f=fruit_vegetable'
     name 'Fruit Vegetable'
     homepage 'http://www.dafont.com/fruit-vegetable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fruit and vegetable.ttf'
 end

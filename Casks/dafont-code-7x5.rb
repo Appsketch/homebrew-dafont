@@ -5,7 +5,6 @@ cask 'dafont-code-7x5' do
     url 'http://dl.dafont.com/dl/?f=code_7x5'
     name 'Code 7x5'
     homepage 'http://www.dafont.com/code-7x5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Code 7x5.ttf'
 end

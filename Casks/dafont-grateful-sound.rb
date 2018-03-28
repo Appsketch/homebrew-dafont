@@ -5,7 +5,6 @@ cask 'dafont-grateful-sound' do
     url 'http://dl.dafont.com/dl/?f=grateful_sound'
     name 'Grateful Sound'
     homepage 'http://www.dafont.com/grateful-sound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grateful Sound.ttf'
 end

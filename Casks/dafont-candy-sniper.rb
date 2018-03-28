@@ -5,7 +5,6 @@ cask 'dafont-candy-sniper' do
     url 'http://dl.dafont.com/dl/?f=candy_sniper'
     name 'Candy Sniper'
     homepage 'http://www.dafont.com/candy-sniper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CANDS___.TTF'
 end

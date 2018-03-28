@@ -5,7 +5,6 @@ cask 'dafont-atlasgrunge' do
     url 'http://dl.dafont.com/dl/?f=atlasgrunge'
     name 'Atlas Grunge'
     homepage 'http://www.dafont.com/atlasgrunge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AtlasGrunge.ttf'
 end

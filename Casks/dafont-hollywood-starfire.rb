@@ -5,7 +5,6 @@ cask 'dafont-hollywood-starfire' do
     url 'http://dl.dafont.com/dl/?f=hollywood_starfire'
     name 'Hollywood Starfire'
     homepage 'http://www.dafont.com/hollywood-starfire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HOLLYWOOD STARFIRE.ttf'
 end

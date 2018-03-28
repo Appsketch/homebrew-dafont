@@ -5,7 +5,6 @@ cask 'dafont-lydia-puente' do
     url 'http://dl.dafont.com/dl/?f=lydia_puente'
     name 'Lydia Puente'
     homepage 'http://www.dafont.com/lydia-puente.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lydia Puente).ttf'
 end

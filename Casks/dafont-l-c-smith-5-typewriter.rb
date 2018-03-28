@@ -5,7 +5,6 @@ cask 'dafont-l-c-smith-5-typewriter' do
     url 'http://dl.dafont.com/dl/?f=l_c_smith_5_typewriter'
     name 'L.C. Smith 5 Typewriter'
     homepage 'http://www.dafont.com/l-c-smith-5-typewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'L.C. Smith 5 typewriter.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-thaipedicure' do
     url 'http://dl.dafont.com/dl/?f=thaipedicure'
     name 'Thai Pedicure'
     homepage 'http://www.dafont.com/thaipedicure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThaiPedicure.ttf'
 end

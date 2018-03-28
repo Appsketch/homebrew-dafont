@@ -5,7 +5,6 @@ cask 'dafont-milasian' do
     url 'http://dl.dafont.com/dl/?f=milasian'
     name 'Milasian'
     homepage 'http://www.dafont.com/milasian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MilasianBoldPERSONAL.ttf'
     font 'MilasianMediumPERSONAL.ttf'

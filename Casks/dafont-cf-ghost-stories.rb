@@ -5,7 +5,6 @@ cask 'dafont-cf-ghost-stories' do
     url 'http://dl.dafont.com/dl/?f=cf_ghost_stories'
     name 'CF Ghost Stories'
     homepage 'http://www.dafont.com/cf-ghost-stories.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFGhostStories-Regular.ttf'
 end

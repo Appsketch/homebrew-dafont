@@ -5,7 +5,6 @@ cask 'dafont-garage-shock' do
     url 'http://dl.dafont.com/dl/?f=garage_shock'
     name 'Garage Shock'
     homepage 'http://www.dafont.com/garage-shock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'garagesh.ttf'
 end

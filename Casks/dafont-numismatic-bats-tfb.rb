@@ -5,7 +5,6 @@ cask 'dafont-numismatic-bats-tfb' do
     url 'http://dl.dafont.com/dl/?f=numismatic_bats_tfb'
     name 'Numismatic Bats TFB'
     homepage 'http://www.dafont.com/numismatic-bats-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Numismatic Bats TFB.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bigcrump' do
     url 'http://dl.dafont.com/dl/?f=bigcrump'
     name 'Big Crump'
     homepage 'http://www.dafont.com/bigcrump.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigCrump.ttf'
 end

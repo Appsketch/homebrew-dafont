@@ -5,7 +5,6 @@ cask 'dafont-nolo-contendre' do
     url 'http://dl.dafont.com/dl/?f=nolo_contendre'
     name 'Nolo Contendre'
     homepage 'http://www.dafont.com/nolo-contendre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nolov2.ttf'
     font 'Nolov2c.ttf'

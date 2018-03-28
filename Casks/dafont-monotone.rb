@@ -5,7 +5,6 @@ cask 'dafont-monotone' do
     url 'http://dl.dafont.com/dl/?f=monotone'
     name 'Monotone'
     homepage 'http://www.dafont.com/monotone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monotone.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kg-girl-on-fire' do
     url 'http://dl.dafont.com/dl/?f=kg_girl_on_fire'
     name 'KG Girl On Fire'
     homepage 'http://www.dafont.com/kg-girl-on-fire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGGirlOnFire.ttf'
 end

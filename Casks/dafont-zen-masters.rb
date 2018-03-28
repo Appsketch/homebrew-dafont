@@ -5,7 +5,6 @@ cask 'dafont-zen-masters' do
     url 'http://dl.dafont.com/dl/?f=zen_masters'
     name 'Zen Masters'
     homepage 'http://www.dafont.com/zen-masters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZEN.TTF'
     font 'Zenc.ttf'

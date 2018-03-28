@@ -5,7 +5,6 @@ cask 'dafont-contemporary' do
     url 'http://dl.dafont.com/dl/?f=contemporary'
     name 'Contemporary '
     homepage 'http://www.dafont.com/contemporary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Contemporary ONE.ttf'
 end

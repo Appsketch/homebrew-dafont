@@ -5,7 +5,6 @@ cask 'dafont-character' do
     url 'http://dl.dafont.com/dl/?f=character'
     name 'Character'
     homepage 'http://www.dafont.com/character.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHARB___.TTF'
     font 'CHARO___.TTF'

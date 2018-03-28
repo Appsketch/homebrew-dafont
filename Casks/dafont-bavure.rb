@@ -5,7 +5,6 @@ cask 'dafont-bavure' do
     url 'http://dl.dafont.com/dl/?f=bavure'
     name 'Bavure'
     homepage 'http://www.dafont.com/bavure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bavure-Regular.otf'
 end

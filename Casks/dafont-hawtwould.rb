@@ -5,7 +5,6 @@ cask 'dafont-hawtwould' do
     url 'http://dl.dafont.com/dl/?f=hawtwould'
     name 'Hawt Would'
     homepage 'http://www.dafont.com/hawtwould.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HawtWould.ttf'
 end

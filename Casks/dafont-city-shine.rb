@@ -5,7 +5,6 @@ cask 'dafont-city-shine' do
     url 'http://dl.dafont.com/dl/?f=city_shine'
     name 'City Shine'
     homepage 'http://www.dafont.com/city-shine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'City Shine.ttf'
 end

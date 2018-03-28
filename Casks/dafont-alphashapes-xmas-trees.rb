@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-xmas-trees' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_xmas_trees'
     name 'AlphaShapes Xmas Trees'
     homepage 'http://www.dafont.com/alphashapes-xmas-trees.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asxmastrees.ttf'
 end

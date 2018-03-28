@@ -5,7 +5,6 @@ cask 'dafont-jbetude' do
     url 'http://dl.dafont.com/dl/?f=jbetude'
     name 'JB Etude'
     homepage 'http://www.dafont.com/jbetude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JBEtude-Regular.ttf'
 end

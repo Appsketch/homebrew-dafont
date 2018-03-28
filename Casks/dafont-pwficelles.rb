@@ -5,7 +5,6 @@ cask 'dafont-pwficelles' do
     url 'http://dl.dafont.com/dl/?f=pwficelles'
     name 'PW Ficelles'
     homepage 'http://www.dafont.com/pwficelles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWFicelles.ttf'
 end

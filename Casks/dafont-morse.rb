@@ -5,7 +5,6 @@ cask 'dafont-morse' do
     url 'http://dl.dafont.com/dl/?f=morse'
     name 'Morse'
     homepage 'http://www.dafont.com/morse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'morse.ttf'
 end

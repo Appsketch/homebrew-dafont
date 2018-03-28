@@ -5,7 +5,6 @@ cask 'dafont-zook' do
     url 'http://dl.dafont.com/dl/?f=zook'
     name 'Zook'
     homepage 'http://www.dafont.com/zook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zook.ttf'
 end

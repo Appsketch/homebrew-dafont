@@ -5,7 +5,6 @@ cask 'dafont-defatted-milk' do
     url 'http://dl.dafont.com/dl/?f=defatted_milk'
     name 'Defatted Milk'
     homepage 'http://www.dafont.com/defatted-milk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'defatted_milk-Bold.ttf'
     font 'defatted_milk-Condensed.ttf'

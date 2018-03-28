@@ -5,7 +5,6 @@ cask 'dafont-glyphy' do
     url 'http://dl.dafont.com/dl/?f=glyphy'
     name 'Glyphy'
     homepage 'http://www.dafont.com/glyphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Glyphy.ttf'
 end

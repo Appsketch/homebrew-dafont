@@ -5,7 +5,6 @@ cask 'dafont-ajc-bt-font' do
     url 'http://dl.dafont.com/dl/?f=ajc_bt_font'
     name 'AJC BT Font'
     homepage 'http://www.dafont.com/ajc-bt-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AJC_BT_FONT.ttf'
 end

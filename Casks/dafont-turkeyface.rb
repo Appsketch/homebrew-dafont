@@ -5,7 +5,6 @@ cask 'dafont-turkeyface' do
     url 'http://dl.dafont.com/dl/?f=turkeyface'
     name 'Turkeyface'
     homepage 'http://www.dafont.com/turkeyface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'turkeyface.otf'
 end

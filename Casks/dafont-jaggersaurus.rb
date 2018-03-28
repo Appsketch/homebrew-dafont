@@ -5,7 +5,6 @@ cask 'dafont-jaggersaurus' do
     url 'http://dl.dafont.com/dl/?f=jaggersaurus'
     name 'Jaggersaurus'
     homepage 'http://www.dafont.com/jaggersaurus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jaggersaurus.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nec-plus-ultra' do
     url 'http://dl.dafont.com/dl/?f=nec_plus_ultra'
     name 'Nec Plus Ultra'
     homepage 'http://www.dafont.com/nec-plus-ultra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'necplus.ttf'
     font 'necplusi.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-dandelion' do
     url 'http://dl.dafont.com/dl/?f=dandelion'
     name 'Dandelion'
     homepage 'http://www.dafont.com/dandelion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dandelion.ttf'
 end

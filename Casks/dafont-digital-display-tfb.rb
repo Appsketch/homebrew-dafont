@@ -5,7 +5,6 @@ cask 'dafont-digital-display-tfb' do
     url 'http://dl.dafont.com/dl/?f=digital_display_tfb'
     name 'Digital Display TFB'
     homepage 'http://www.dafont.com/digital-display-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'digital display tfb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-zhukov-zippo' do
     url 'http://dl.dafont.com/dl/?f=zhukov_zippo'
     name 'Zhukov Zippo'
     homepage 'http://www.dafont.com/zhukov-zippo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zhukov_zippo_italic.otf'
     font 'zhukov_zippo.otf'

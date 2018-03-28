@@ -5,7 +5,6 @@ cask 'dafont-kg-ray-of-sunshine' do
     url 'http://dl.dafont.com/dl/?f=kg_ray_of_sunshine'
     name 'KG Ray of Sunshine'
     homepage 'http://www.dafont.com/kg-ray-of-sunshine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGRayofSunshine.ttf'
 end

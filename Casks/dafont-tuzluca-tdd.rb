@@ -5,7 +5,6 @@ cask 'dafont-tuzluca-tdd' do
     url 'http://dl.dafont.com/dl/?f=tuzluca_tdd'
     name 'Tuzluca TDD'
     homepage 'http://www.dafont.com/tuzluca-tdd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tuzluca TDD.ttf'
 end

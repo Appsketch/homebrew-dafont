@@ -5,7 +5,6 @@ cask 'dafont-stereofidelic' do
     url 'http://dl.dafont.com/dl/?f=stereofidelic'
     name 'Stereofidelic'
     homepage 'http://www.dafont.com/stereofidelic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stereofidelic.ttf'
 end

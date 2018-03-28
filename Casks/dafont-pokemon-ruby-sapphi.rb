@@ -5,7 +5,6 @@ cask 'dafont-pokemon-ruby-sapphi' do
     url 'http://dl.dafont.com/dl/?f=pokemon_ruby_sapphi'
     name 'Pok&eacute;mon Ruby &amp; Sapphire'
     homepage 'http://www.dafont.com/pokemon-ruby-sapphi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PKMNRSEU.FON'
 end

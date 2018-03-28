@@ -5,7 +5,6 @@ cask 'dafont-samba' do
     url 'http://dl.dafont.com/dl/?f=samba'
     name 'Samba'
     homepage 'http://www.dafont.com/samba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Samba.ttf'
 end

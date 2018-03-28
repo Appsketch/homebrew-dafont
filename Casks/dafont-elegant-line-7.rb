@@ -5,7 +5,6 @@ cask 'dafont-elegant-line-7' do
     url 'http://dl.dafont.com/dl/?f=elegant_line_7'
     name 'Elegant Line 7'
     homepage 'http://www.dafont.com/elegant-line-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'elegant_line_7.ttf'
 end

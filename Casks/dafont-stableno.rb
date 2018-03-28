@@ -5,7 +5,6 @@ cask 'dafont-stableno' do
     url 'http://dl.dafont.com/dl/?f=stableno'
     name 'StableNo'
     homepage 'http://www.dafont.com/stableno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STABN___.TTF'
 end

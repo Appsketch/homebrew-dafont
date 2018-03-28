@@ -5,7 +5,6 @@ cask 'dafont-cf-pinceau' do
     url 'http://dl.dafont.com/dl/?f=cf_pinceau'
     name 'CF Pinceau'
     homepage 'http://www.dafont.com/cf-pinceau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFPinceau.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-frankdrebon' do
     url 'http://dl.dafont.com/dl/?f=frankdrebon'
     name 'Frank Drebon'
     homepage 'http://www.dafont.com/frankdrebon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FrankDrebon.ttf'
 end

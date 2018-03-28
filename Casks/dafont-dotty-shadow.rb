@@ -5,7 +5,6 @@ cask 'dafont-dotty-shadow' do
     url 'http://dl.dafont.com/dl/?f=dotty_shadow'
     name 'Dotty Shadow'
     homepage 'http://www.dafont.com/dotty-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DottyShadow.ttf'
 end

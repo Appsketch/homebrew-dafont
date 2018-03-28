@@ -5,7 +5,6 @@ cask 'dafont-narpassword00000' do
     url 'http://dl.dafont.com/dl/?f=narpassword00000'
     name 'Narpassword00000'
     homepage 'http://www.dafont.com/narpassword00000.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'narpassword00000.[fontvir.us].ttf'
     font 'narpassword00000.fixed.width.[fontvir.us].ttf'

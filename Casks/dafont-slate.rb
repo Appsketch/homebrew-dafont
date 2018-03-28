@@ -5,7 +5,6 @@ cask 'dafont-slate' do
     url 'http://dl.dafont.com/dl/?f=slate'
     name 'Slate'
     homepage 'http://www.dafont.com/slate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slate.ttf'
 end

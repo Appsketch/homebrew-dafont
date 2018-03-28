@@ -5,7 +5,6 @@ cask 'dafont-exmouth' do
     url 'http://dl.dafont.com/dl/?f=exmouth'
     name 'Exmouth'
     homepage 'http://www.dafont.com/exmouth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'exmouth_.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ignite-the-light' do
     url 'http://dl.dafont.com/dl/?f=ignite_the_light'
     name 'Ignite the Light'
     homepage 'http://www.dafont.com/ignite-the-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IgniteTheLight.ttf'
 end

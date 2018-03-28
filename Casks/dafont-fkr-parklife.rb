@@ -5,7 +5,6 @@ cask 'dafont-fkr-parklife' do
     url 'http://dl.dafont.com/dl/?f=fkr_parklife'
     name 'FKR ParkLife'
     homepage 'http://www.dafont.com/fkr-parklife.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fkr_parklife.ttf'
 end

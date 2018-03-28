@@ -5,7 +5,6 @@ cask 'dafont-stars-from-our-eyes' do
     url 'http://dl.dafont.com/dl/?f=stars_from_our_eyes'
     name 'Stars From Our Eyes'
     homepage 'http://www.dafont.com/stars-from-our-eyes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StarsFromOurEyes.ttf'
 end

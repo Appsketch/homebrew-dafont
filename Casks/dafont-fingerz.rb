@@ -5,7 +5,6 @@ cask 'dafont-fingerz' do
     url 'http://dl.dafont.com/dl/?f=fingerz'
     name 'Fingerz'
     homepage 'http://www.dafont.com/fingerz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FingerzFilled.otf'
 end

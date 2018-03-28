@@ -5,7 +5,6 @@ cask 'dafont-vintage-erotique' do
     url 'http://dl.dafont.com/dl/?f=vintage_erotique'
     name 'Vintage Erotique'
     homepage 'http://www.dafont.com/vintage-erotique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vintage Erotique.ttf'
 end

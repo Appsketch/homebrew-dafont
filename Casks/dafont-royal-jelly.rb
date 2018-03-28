@@ -5,7 +5,6 @@ cask 'dafont-royal-jelly' do
     url 'http://dl.dafont.com/dl/?f=royal_jelly'
     name 'Royal Jelly'
     homepage 'http://www.dafont.com/royal-jelly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROYAL JELLY.ttf'
 end

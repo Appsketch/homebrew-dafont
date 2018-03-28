@@ -5,7 +5,6 @@ cask 'dafont-stretchy-pants' do
     url 'http://dl.dafont.com/dl/?f=stretchy_pants'
     name 'Stretchy Pants'
     homepage 'http://www.dafont.com/stretchy-pants.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stretchy PANTS.ttf'
 end

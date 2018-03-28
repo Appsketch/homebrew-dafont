@@ -5,7 +5,6 @@ cask 'dafont-sunshinescoming' do
     url 'http://dl.dafont.com/dl/?f=sunshinescoming'
     name 'Sunshines Coming'
     homepage 'http://www.dafont.com/sunshinescoming.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SunshinesComing.ttf'
 end

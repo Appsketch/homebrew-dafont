@@ -5,7 +5,6 @@ cask 'dafont-alittlescribbleinmybook' do
     url 'http://dl.dafont.com/dl/?f=alittlescribbleinmybook'
     name 'A Little Scribble in My Book'
     homepage 'http://www.dafont.com/alittlescribbleinmybook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALittleScribbleinMyBook.ttf'
 end

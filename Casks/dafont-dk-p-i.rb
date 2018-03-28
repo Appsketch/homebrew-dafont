@@ -5,7 +5,6 @@ cask 'dafont-dk-p-i' do
     url 'http://dl.dafont.com/dl/?f=dk_p_i'
     name 'DK P.I.'
     homepage 'http://www.dafont.com/dk-p-i.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK P_I_.ttf'
 end

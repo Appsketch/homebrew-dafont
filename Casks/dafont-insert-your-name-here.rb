@@ -5,7 +5,6 @@ cask 'dafont-insert-your-name-here' do
     url 'http://dl.dafont.com/dl/?f=insert_your_name_here'
     name 'Insert your name here'
     homepage 'http://www.dafont.com/insert-your-name-here.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Insert your name here.ttf'
 end

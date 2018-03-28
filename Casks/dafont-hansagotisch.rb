@@ -5,7 +5,6 @@ cask 'dafont-hansagotisch' do
     url 'http://dl.dafont.com/dl/?f=hansagotisch'
     name 'Hansa Gotisch'
     homepage 'http://www.dafont.com/hansagotisch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HANSG___.TTF'
 end

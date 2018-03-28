@@ -5,7 +5,6 @@ cask 'dafont-drawing-blood' do
     url 'http://dl.dafont.com/dl/?f=drawing_blood'
     name 'Drawing Blood'
     homepage 'http://www.dafont.com/drawing-blood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DrawingBlood.ttf'
 end

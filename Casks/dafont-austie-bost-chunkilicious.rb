@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-chunkilicious' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_chunkilicious'
     name 'Austie Bost Chunkilicious'
     homepage 'http://www.dafont.com/austie-bost-chunkilicious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Chunkilicious Bounce.ttf'
     font 'Austie Bost Chunkilicious.ttf'

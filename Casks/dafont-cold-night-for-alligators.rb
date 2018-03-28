@@ -5,7 +5,6 @@ cask 'dafont-cold-night-for-alligators' do
     url 'http://dl.dafont.com/dl/?f=cold_night_for_alligators'
     name 'Cold Night for Alligators'
     homepage 'http://www.dafont.com/cold-night-for-alligators.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'coldnightforalligators.ttf'
 end

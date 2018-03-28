@@ -5,7 +5,6 @@ cask 'dafont-crow-chief' do
     url 'http://dl.dafont.com/dl/?f=crow_chief'
     name 'Crow Chief'
     homepage 'http://www.dafont.com/crow-chief.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CROW CHIEF.ttf'
 end

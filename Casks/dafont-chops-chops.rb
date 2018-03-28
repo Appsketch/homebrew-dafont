@@ -5,7 +5,6 @@ cask 'dafont-chops-chops' do
     url 'http://dl.dafont.com/dl/?f=chops_chops'
     name 'Chops Chops'
     homepage 'http://www.dafont.com/chops-chops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChopschopS.ttf'
 end

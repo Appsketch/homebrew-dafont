@@ -5,7 +5,6 @@ cask 'dafont-modern-sans-serif-7' do
     url 'http://dl.dafont.com/dl/?f=modern_sans_serif_7'
     name 'Modern Sans Serif 7'
     homepage 'http://www.dafont.com/modern-sans-serif-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'modern_sans_serif_7.ttf'
 end

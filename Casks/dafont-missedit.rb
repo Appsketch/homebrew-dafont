@@ -5,7 +5,6 @@ cask 'dafont-missedit' do
     url 'http://dl.dafont.com/dl/?f=missedit'
     name 'Missed It'
     homepage 'http://www.dafont.com/missedit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MissedIt.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bizarro1' do
     url 'http://dl.dafont.com/dl/?f=bizarro1'
     name 'Bizarro 1'
     homepage 'http://www.dafont.com/bizarro1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fiddums-family' do
     url 'http://dl.dafont.com/dl/?f=fiddums_family'
     name 'Fiddums Family'
     homepage 'http://www.dafont.com/fiddums-family.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fiddums Family.ttf'
 end

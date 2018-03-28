@@ -5,7 +5,6 @@ cask 'dafont-memela-fraktur' do
     url 'http://dl.dafont.com/dl/?f=memela_fraktur'
     name 'Memela Fraktur'
     homepage 'http://www.dafont.com/memela-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MemelaFraktur.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ander-hedge' do
     url 'http://dl.dafont.com/dl/?f=ander_hedge'
     name 'Ander Hedge'
     homepage 'http://www.dafont.com/ander-hedge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ander Hedge.ttf'
 end

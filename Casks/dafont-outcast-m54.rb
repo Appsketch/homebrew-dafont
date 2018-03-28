@@ -5,7 +5,6 @@ cask 'dafont-outcast-m54' do
     url 'http://dl.dafont.com/dl/?f=outcast_m54'
     name 'Outcast M54'
     homepage 'http://www.dafont.com/outcast-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Outcast M54.ttf'
 end

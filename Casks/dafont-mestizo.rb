@@ -5,7 +5,6 @@ cask 'dafont-mestizo' do
     url 'http://dl.dafont.com/dl/?f=mestizo'
     name 'Mestizo'
     homepage 'http://www.dafont.com/mestizo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MestizoFont.ttf'
 end

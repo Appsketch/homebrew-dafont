@@ -5,7 +5,6 @@ cask 'dafont-pc-snowballs' do
     url 'http://dl.dafont.com/dl/?f=pc_snowballs'
     name 'PC Snowballs'
     homepage 'http://www.dafont.com/pc-snowballs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PC Snowballs.ttf'
 end

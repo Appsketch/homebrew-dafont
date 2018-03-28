@@ -5,7 +5,6 @@ cask 'dafont-bd-ramen' do
     url 'http://dl.dafont.com/dl/?f=bd_ramen'
     name 'BD Ramen'
     homepage 'http://www.dafont.com/bd-ramen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bd_ramen.otf'
 end

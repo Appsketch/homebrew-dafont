@@ -5,7 +5,6 @@ cask 'dafont-lalithabai' do
     url 'http://dl.dafont.com/dl/?f=lalithabai'
     name 'Lalithabai'
     homepage 'http://www.dafont.com/lalithabai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lalithabai.ttf'
 end

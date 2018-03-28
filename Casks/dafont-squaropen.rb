@@ -5,7 +5,6 @@ cask 'dafont-squaropen' do
     url 'http://dl.dafont.com/dl/?f=squaropen'
     name 'Squaropen'
     homepage 'http://www.dafont.com/squaropen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SQUAB___.TTF'
 end

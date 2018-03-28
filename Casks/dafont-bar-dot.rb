@@ -5,7 +5,6 @@ cask 'dafont-bar-dot' do
     url 'http://dl.dafont.com/dl/?f=bar_dot'
     name 'Bar Dot'
     homepage 'http://www.dafont.com/bar-dot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bar_dot.ttf'
 end

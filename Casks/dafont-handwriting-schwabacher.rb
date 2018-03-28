@@ -5,7 +5,6 @@ cask 'dafont-handwriting-schwabacher' do
     url 'http://dl.dafont.com/dl/?f=handwriting_schwabacher'
     name 'Handwriting Schwabacher'
     homepage 'http://www.dafont.com/handwriting-schwabacher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Handwriting_Schwabacher.otf'
 end

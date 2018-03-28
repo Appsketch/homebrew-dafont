@@ -5,7 +5,6 @@ cask 'dafont-sin-gracia' do
     url 'http://dl.dafont.com/dl/?f=sin_gracia'
     name 'Sin Gracia'
     homepage 'http://www.dafont.com/sin-gracia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sin Gracia.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gauntlet' do
     url 'http://dl.dafont.com/dl/?f=gauntlet'
     name 'Gauntlet'
     homepage 'http://www.dafont.com/gauntlet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GauntletClassic_TB.otf'
     font 'GauntletThin_TB.otf'

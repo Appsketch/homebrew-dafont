@@ -5,7 +5,6 @@ cask 'dafont-mueeza' do
     url 'http://dl.dafont.com/dl/?f=mueeza'
     name 'Mueeza'
     homepage 'http://www.dafont.com/mueeza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mueeza.ttf'
 end

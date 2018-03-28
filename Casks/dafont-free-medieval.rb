@@ -5,7 +5,6 @@ cask 'dafont-free-medieval' do
     url 'http://dl.dafont.com/dl/?f=free_medieval'
     name 'Free Medieval'
     homepage 'http://www.dafont.com/free-medieval.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Free Medieval.ttf'
 end

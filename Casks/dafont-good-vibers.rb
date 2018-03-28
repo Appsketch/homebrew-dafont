@@ -5,7 +5,6 @@ cask 'dafont-good-vibers' do
     url 'http://dl.dafont.com/dl/?f=good_vibers'
     name 'Good Vibers'
     homepage 'http://www.dafont.com/good-vibers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Good Vibers.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-city-of-angel' do
     url 'http://dl.dafont.com/dl/?f=city_of_angel'
     name 'City Of Angel'
     homepage 'http://www.dafont.com/city-of-angel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'City Of Angel.ttf'
 end

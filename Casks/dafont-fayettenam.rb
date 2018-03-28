@@ -5,7 +5,6 @@ cask 'dafont-fayettenam' do
     url 'http://dl.dafont.com/dl/?f=fayettenam'
     name 'Fayettenam'
     homepage 'http://www.dafont.com/fayettenam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FAYETTEN.TTF'
 end

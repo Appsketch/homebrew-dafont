@@ -5,7 +5,6 @@ cask 'dafont-7days' do
     url 'http://dl.dafont.com/dl/?f=7days'
     name '7 Days'
     homepage 'http://www.dafont.com/7days.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '7days.ttf'
     font '7DAYSFAT.TTF'

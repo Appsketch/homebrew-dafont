@@ -5,7 +5,6 @@ cask 'dafont-circle-things-2' do
     url 'http://dl.dafont.com/dl/?f=circle_things_2'
     name 'Circle Things 2'
     homepage 'http://www.dafont.com/circle-things-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'circlethings2.ttf'
 end

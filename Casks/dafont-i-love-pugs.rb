@@ -5,7 +5,6 @@ cask 'dafont-i-love-pugs' do
     url 'http://dl.dafont.com/dl/?f=i_love_pugs'
     name 'I Love Pugs'
     homepage 'http://www.dafont.com/i-love-pugs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I_Love_Pugs.ttf'
 end

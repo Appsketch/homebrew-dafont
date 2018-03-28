@@ -5,7 +5,6 @@ cask 'dafont-qirex' do
     url 'http://dl.dafont.com/dl/?f=qirex'
     name 'Qirex'
     homepage 'http://www.dafont.com/qirex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Qirex.ttf'
 end

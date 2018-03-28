@@ -5,7 +5,6 @@ cask 'dafont-satan-possessed' do
     url 'http://dl.dafont.com/dl/?f=satan_possessed'
     name 'Satan Possessed'
     homepage 'http://www.dafont.com/satan-possessed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Satan Possessed.ttf'
 end

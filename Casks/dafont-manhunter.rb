@@ -5,7 +5,6 @@ cask 'dafont-manhunter' do
     url 'http://dl.dafont.com/dl/?f=manhunter'
     name 'Manhunter'
     homepage 'http://www.dafont.com/manhunter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Manhunter.ttf'
 end

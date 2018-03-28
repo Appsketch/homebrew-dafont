@@ -5,7 +5,6 @@ cask 'dafont-zenda' do
     url 'http://dl.dafont.com/dl/?f=zenda'
     name 'Zenda'
     homepage 'http://www.dafont.com/zenda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zenda.ttf'
     font 'ZendaEmbossed.ttf'

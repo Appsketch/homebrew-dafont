@@ -5,7 +5,6 @@ cask 'dafont-lemonadehustler' do
     url 'http://dl.dafont.com/dl/?f=lemonadehustler'
     name 'Lemonade Hustler'
     homepage 'http://www.dafont.com/lemonadehustler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LemonadeHustler.ttf'
 end

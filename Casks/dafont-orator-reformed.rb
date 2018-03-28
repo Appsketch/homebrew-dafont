@@ -5,7 +5,6 @@ cask 'dafont-orator-reformed' do
     url 'http://dl.dafont.com/dl/?f=orator_reformed'
     name 'Orator Reformed'
     homepage 'http://www.dafont.com/orator-reformed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OratorReformed.ttf'
 end

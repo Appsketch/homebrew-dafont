@@ -5,7 +5,6 @@ cask 'dafont-copy-paste' do
     url 'http://dl.dafont.com/dl/?f=copy_paste'
     name 'Copy Paste'
     homepage 'http://www.dafont.com/copy-paste.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COPY PASTE.ttf'
 end

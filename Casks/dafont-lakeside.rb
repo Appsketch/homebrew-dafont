@@ -5,7 +5,6 @@ cask 'dafont-lakeside' do
     url 'http://dl.dafont.com/dl/?f=lakeside'
     name 'Lakeside'
     homepage 'http://www.dafont.com/lakeside.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LAKESIDE.ttf'
 end

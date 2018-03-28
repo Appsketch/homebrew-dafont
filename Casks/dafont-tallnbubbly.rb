@@ -5,7 +5,6 @@ cask 'dafont-tallnbubbly' do
     url 'http://dl.dafont.com/dl/?f=tallnbubbly'
     name 'Tall N Bubbly'
     homepage 'http://www.dafont.com/tallnbubbly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TallNBubbly.ttf'
 end

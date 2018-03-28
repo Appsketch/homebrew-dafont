@@ -5,7 +5,6 @@ cask 'dafont-axiom' do
     url 'http://dl.dafont.com/dl/?f=axiom'
     name 'Axiom'
     homepage 'http://www.dafont.com/axiom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Axiom.ttf'
 end

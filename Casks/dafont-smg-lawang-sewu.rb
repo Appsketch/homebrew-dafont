@@ -5,7 +5,6 @@ cask 'dafont-smg-lawang-sewu' do
     url 'http://dl.dafont.com/dl/?f=smg_lawang_sewu'
     name 'SMG Lawang Sewu'
     homepage 'http://www.dafont.com/smg-lawang-sewu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'smg_lawang-sewu.ttf'
 end

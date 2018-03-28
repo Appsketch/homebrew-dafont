@@ -5,7 +5,6 @@ cask 'dafont-not-sure-if-weird-or-just-regular' do
     url 'http://dl.dafont.com/dl/?f=not_sure_if_weird_or_just_regular'
     name 'Not Sure If Weird Or Just Regular'
     homepage 'http://www.dafont.com/not-sure-if-weird-or-just-regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'not_sure_if_weird_or_just_regular.ttf'
 end

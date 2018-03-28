@@ -5,7 +5,6 @@ cask 'dafont-villeray' do
     url 'http://dl.dafont.com/dl/?f=villeray'
     name 'Villeray'
     homepage 'http://www.dafont.com/villeray.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Villeray-Black.ttf'
     font 'Villeray-BlackItalic.ttf'

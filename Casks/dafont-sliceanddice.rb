@@ -5,7 +5,6 @@ cask 'dafont-sliceanddice' do
     url 'http://dl.dafont.com/dl/?f=sliceanddice'
     name 'Slice And Dice'
     homepage 'http://www.dafont.com/sliceanddice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SliceAndDice.ttf'
 end

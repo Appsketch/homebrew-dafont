@@ -5,7 +5,6 @@ cask 'dafont-korneuburg-display' do
     url 'http://dl.dafont.com/dl/?f=korneuburg_display'
     name 'Korneuburg Display'
     homepage 'http://www.dafont.com/korneuburg-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KorneuburgDisplay-Display.ttf'
     font 'KorneuburgDisplay-Light.ttf'

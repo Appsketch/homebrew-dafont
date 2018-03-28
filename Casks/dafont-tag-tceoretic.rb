@@ -5,7 +5,6 @@ cask 'dafont-tag-tceoretic' do
     url 'http://dl.dafont.com/dl/?f=tag_tceoretic'
     name 'Tag Tceoretic'
     homepage 'http://www.dafont.com/tag-tceoretic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tag Theotetic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ap-justhearts' do
     url 'http://dl.dafont.com/dl/?f=ap_justhearts'
     name 'AP Justhearts'
     homepage 'http://www.dafont.com/ap-justhearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AP_JUSTH.TTF'
 end

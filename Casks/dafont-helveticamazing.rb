@@ -5,7 +5,6 @@ cask 'dafont-helveticamazing' do
     url 'http://dl.dafont.com/dl/?f=helveticamazing'
     name 'Helveticamazing'
     homepage 'http://www.dafont.com/helveticamazing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Helveticamazing.ttf'
 end

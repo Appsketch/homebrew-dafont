@@ -5,7 +5,6 @@ cask 'dafont-bryonys-handwriting-bold' do
     url 'http://dl.dafont.com/dl/?f=bryonys_handwriting_bold'
     name 'Bryonys Handwriting Bold'
     homepage 'http://www.dafont.com/bryonys-handwriting-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bryonys_Handwriting_Bold.ttf'
 end

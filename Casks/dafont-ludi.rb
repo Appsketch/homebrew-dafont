@@ -5,7 +5,6 @@ cask 'dafont-ludi' do
     url 'http://dl.dafont.com/dl/?f=ludi'
     name 'Ludi'
     homepage 'http://www.dafont.com/ludi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ludi.otf'
 end

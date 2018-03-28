@@ -5,7 +5,6 @@ cask 'dafont-my-socks-line' do
     url 'http://dl.dafont.com/dl/?f=my_socks_line'
     name 'My Socks Line'
     homepage 'http://www.dafont.com/my-socks-line.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My Socks Line.ttf'
 end

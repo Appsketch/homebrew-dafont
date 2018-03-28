@@ -5,7 +5,6 @@ cask 'dafont-lcr-on-the-farm' do
     url 'http://dl.dafont.com/dl/?f=lcr_on_the_farm'
     name 'LCR on the Farm'
     homepage 'http://www.dafont.com/lcr-on-the-farm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LCR On the Farm.ttf'
 end

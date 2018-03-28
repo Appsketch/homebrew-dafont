@@ -5,7 +5,6 @@ cask 'dafont-modular-tkno' do
     url 'http://dl.dafont.com/dl/?f=modular_tkno'
     name 'Modular Tkno'
     homepage 'http://www.dafont.com/modular-tkno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Modular Tkno - Dker -BC.ttf'
 end

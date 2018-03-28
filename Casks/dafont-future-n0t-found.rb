@@ -5,7 +5,6 @@ cask 'dafont-future-n0t-found' do
     url 'http://dl.dafont.com/dl/?f=future_n0t_found'
     name 'Future n0t Found'
     homepage 'http://www.dafont.com/future-n0t-found.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Future n0t Found Regular.ttf'
 end

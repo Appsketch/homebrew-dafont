@@ -5,7 +5,6 @@ cask 'dafont-djb-werecow-of-danville' do
     url 'http://dl.dafont.com/dl/?f=djb_werecow_of_danville'
     name 'DJB Werecow Of Danville'
     homepage 'http://www.dafont.com/djb-werecow-of-danville.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB WERECOW OF DANVILLE.ttf'
 end

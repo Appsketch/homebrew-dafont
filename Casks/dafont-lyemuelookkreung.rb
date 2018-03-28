@@ -5,7 +5,6 @@ cask 'dafont-lyemuelookkreung' do
     url 'http://dl.dafont.com/dl/?f=lyemuelookkreung'
     name 'Lye Mue Look Kreung'
     homepage 'http://www.dafont.com/lyemuelookkreung.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LyeMueLookKreung.ttf'
 end

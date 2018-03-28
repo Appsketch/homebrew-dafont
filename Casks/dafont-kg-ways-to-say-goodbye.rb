@@ -5,7 +5,6 @@ cask 'dafont-kg-ways-to-say-goodbye' do
     url 'http://dl.dafont.com/dl/?f=kg_ways_to_say_goodbye'
     name 'KG Ways to Say Goodbye'
     homepage 'http://www.dafont.com/kg-ways-to-say-goodbye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGWaystoSayGoodbye.ttf'
 end

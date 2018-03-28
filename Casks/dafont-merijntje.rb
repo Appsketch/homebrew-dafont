@@ -5,7 +5,6 @@ cask 'dafont-merijntje' do
     url 'http://dl.dafont.com/dl/?f=merijntje'
     name 'Merijntje'
     homepage 'http://www.dafont.com/merijntje.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Merijntje-Bold.otf'
     font 'Merijntje-BoldItalic.otf'

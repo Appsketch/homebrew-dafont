@@ -5,7 +5,6 @@ cask 'dafont-dk-qilin' do
     url 'http://dl.dafont.com/dl/?f=dk_qilin'
     name 'DK Qilin'
     homepage 'http://www.dafont.com/dk-qilin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Qilin.ttf'
 end

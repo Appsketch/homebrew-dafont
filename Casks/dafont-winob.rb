@@ -5,7 +5,6 @@ cask 'dafont-winob' do
     url 'http://dl.dafont.com/dl/?f=winob'
     name 'Winob'
     homepage 'http://www.dafont.com/winob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'winob.ttf'
 end

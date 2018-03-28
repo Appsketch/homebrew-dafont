@@ -5,7 +5,6 @@ cask 'dafont-press-start-2p' do
     url 'http://dl.dafont.com/dl/?f=press_start_2p'
     name 'Press Start 2P'
     homepage 'http://www.dafont.com/press-start-2p.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PressStart2P.ttf'
 end

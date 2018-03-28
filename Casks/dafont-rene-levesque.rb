@@ -5,7 +5,6 @@ cask 'dafont-rene-levesque' do
     url 'http://dl.dafont.com/dl/?f=rene_levesque'
     name 'Rene Levesque'
     homepage 'http://www.dafont.com/rene-levesque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ReneLevesque-Regular.ttf'
 end

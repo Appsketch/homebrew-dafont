@@ -5,7 +5,6 @@ cask 'dafont-morris-roman' do
     url 'http://dl.dafont.com/dl/?f=morris_roman'
     name 'Morris Roman'
     homepage 'http://www.dafont.com/morris-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MorrisRomanBlack.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stoney-billy' do
     url 'http://dl.dafont.com/dl/?f=stoney_billy'
     name 'Stoney Billy'
     homepage 'http://www.dafont.com/stoney-billy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STONB___.TTF'
 end

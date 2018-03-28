@@ -5,7 +5,6 @@ cask 'dafont-portable' do
     url 'http://dl.dafont.com/dl/?f=portable'
     name 'Portable'
     homepage 'http://www.dafont.com/portable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Portable.ttf'
 end

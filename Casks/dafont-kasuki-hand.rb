@@ -5,7 +5,6 @@ cask 'dafont-kasuki-hand' do
     url 'http://dl.dafont.com/dl/?f=kasuki_hand'
     name 'Kasuki Hand'
     homepage 'http://www.dafont.com/kasuki-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kasuki Hand Bold.ttf'
     font 'Kasuki Hand Light.ttf'

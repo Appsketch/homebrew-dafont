@@ -5,7 +5,6 @@ cask 'dafont-silvery-tarjey' do
     url 'http://dl.dafont.com/dl/?f=silvery_tarjey'
     name 'Silvery Tarjey'
     homepage 'http://www.dafont.com/silvery-tarjey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Silvery Tarjey.ttf'
 end

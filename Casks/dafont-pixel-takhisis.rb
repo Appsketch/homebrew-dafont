@@ -5,7 +5,6 @@ cask 'dafont-pixel-takhisis' do
     url 'http://dl.dafont.com/dl/?f=pixel_takhisis'
     name 'Pixel Takhisis'
     homepage 'http://www.dafont.com/pixel-takhisis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel Takhisis.otf'
 end

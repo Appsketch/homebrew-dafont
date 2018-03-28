@@ -5,7 +5,6 @@ cask 'dafont-sukolilo-typeface' do
     url 'http://dl.dafont.com/dl/?f=sukolilo_typeface'
     name 'Sukolilo Typeface'
     homepage 'http://www.dafont.com/sukolilo-typeface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sukolilo.ttf'
 end

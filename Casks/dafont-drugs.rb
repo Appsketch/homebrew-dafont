@@ -5,7 +5,6 @@ cask 'dafont-drugs' do
     url 'http://dl.dafont.com/dl/?f=drugs'
     name 'Drugs'
     homepage 'http://www.dafont.com/drugs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DRUGS.ttf'
 end

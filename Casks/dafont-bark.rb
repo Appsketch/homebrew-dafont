@@ -5,7 +5,6 @@ cask 'dafont-bark' do
     url 'http://dl.dafont.com/dl/?f=bark'
     name 'Bark'
     homepage 'http://www.dafont.com/bark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caution - Very heavy to load/BARK.ttf'
 end

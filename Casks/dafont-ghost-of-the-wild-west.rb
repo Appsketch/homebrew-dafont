@@ -5,7 +5,6 @@ cask 'dafont-ghost-of-the-wild-west' do
     url 'http://dl.dafont.com/dl/?f=ghost_of_the_wild_west'
     name 'Ghost Of The Wild West'
     homepage 'http://www.dafont.com/ghost-of-the-wild-west.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ghost Of The Wild West.ttf'
 end

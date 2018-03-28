@@ -5,7 +5,6 @@ cask 'dafont-manuskript-gothisch' do
     url 'http://dl.dafont.com/dl/?f=manuskript_gothisch'
     name 'Manuskript Gothisch'
     homepage 'http://www.dafont.com/manuskript-gothisch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Manuskript Gothisch UNZ1A.ttf'
 end

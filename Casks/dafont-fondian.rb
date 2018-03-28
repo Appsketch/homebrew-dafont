@@ -5,7 +5,6 @@ cask 'dafont-fondian' do
     url 'http://dl.dafont.com/dl/?f=fondian'
     name 'Fondian Outline'
     homepage 'http://www.dafont.com/fondian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FondianOutlineDm.ttf'
 end

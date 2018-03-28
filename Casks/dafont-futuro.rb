@@ -5,7 +5,6 @@ cask 'dafont-futuro' do
     url 'http://dl.dafont.com/dl/?f=futuro'
     name 'Futuro'
     homepage 'http://www.dafont.com/futuro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'futuroNormal.ttf'
 end

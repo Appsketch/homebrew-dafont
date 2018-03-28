@@ -5,7 +5,6 @@ cask 'dafont-labtop' do
     url 'http://dl.dafont.com/dl/?f=labtop'
     name 'Labtop'
     homepage 'http://www.dafont.com/labtop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Labtop Secundo/LABTSEBI.ttf'
     font 'Labtop Secundo/LABTSEC_.ttf'

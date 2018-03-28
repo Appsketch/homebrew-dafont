@@ -5,7 +5,6 @@ cask 'dafont-socialtype' do
     url 'http://dl.dafont.com/dl/?f=socialtype'
     name 'Social Type'
     homepage 'http://www.dafont.com/socialtype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SocialType.ttf'
 end

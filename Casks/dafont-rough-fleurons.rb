@@ -5,7 +5,6 @@ cask 'dafont-rough-fleurons' do
     url 'http://dl.dafont.com/dl/?f=rough_fleurons'
     name 'Rough Fleurons'
     homepage 'http://www.dafont.com/rough-fleurons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rough Fleurons Free.ttf'
 end

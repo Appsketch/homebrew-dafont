@@ -5,7 +5,6 @@ cask 'dafont-ikan-besar' do
     url 'http://dl.dafont.com/dl/?f=ikan_besar'
     name 'Ikan Besar'
     homepage 'http://www.dafont.com/ikan-besar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hari Hujan.ttf'
 end

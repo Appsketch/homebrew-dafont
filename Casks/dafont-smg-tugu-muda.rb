@@ -5,7 +5,6 @@ cask 'dafont-smg-tugu-muda' do
     url 'http://dl.dafont.com/dl/?f=smg_tugu_muda'
     name 'SMG Tugu Muda'
     homepage 'http://www.dafont.com/smg-tugu-muda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'smg_tugumuda.ttf'
 end

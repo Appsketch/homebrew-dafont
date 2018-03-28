@@ -5,7 +5,6 @@ cask 'dafont-spin-head' do
     url 'http://dl.dafont.com/dl/?f=spin_head'
     name 'Spin Head'
     homepage 'http://www.dafont.com/spin-head.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spin Head.ttf'
 end

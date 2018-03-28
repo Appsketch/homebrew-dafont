@@ -5,7 +5,6 @@ cask 'dafont-rutaban' do
     url 'http://dl.dafont.com/dl/?f=rutaban'
     name 'Rutaban'
     homepage 'http://www.dafont.com/rutaban.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RUTAN___.TTF'
 end

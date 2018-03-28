@@ -5,7 +5,6 @@ cask 'dafont-pwshaded' do
     url 'http://dl.dafont.com/dl/?f=pwshaded'
     name 'PW Shaded'
     homepage 'http://www.dafont.com/pwshaded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWShaded.ttf'
 end

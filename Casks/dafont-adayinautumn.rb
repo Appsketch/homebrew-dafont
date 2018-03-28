@@ -5,7 +5,6 @@ cask 'dafont-adayinautumn' do
     url 'http://dl.dafont.com/dl/?f=adayinautumn'
     name 'A Day In Autumn'
     homepage 'http://www.dafont.com/adayinautumn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ADayInAutumn.ttf'
 end

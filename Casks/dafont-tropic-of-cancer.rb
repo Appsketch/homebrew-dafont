@@ -5,7 +5,6 @@ cask 'dafont-tropic-of-cancer' do
     url 'http://dl.dafont.com/dl/?f=tropic_of_cancer'
     name 'Tropic of Cancer'
     homepage 'http://www.dafont.com/tropic-of-cancer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tropic of Cancer.ttf'
 end

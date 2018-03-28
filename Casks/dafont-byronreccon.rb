@@ -5,7 +5,6 @@ cask 'dafont-byronreccon' do
     url 'http://dl.dafont.com/dl/?f=byronreccon'
     name 'Byron RecCon'
     homepage 'http://www.dafont.com/byronreccon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ByronRecCon.ttf'
 end

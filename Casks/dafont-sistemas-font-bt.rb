@@ -5,7 +5,6 @@ cask 'dafont-sistemas-font-bt' do
     url 'http://dl.dafont.com/dl/?f=sistemas_font_bt'
     name 'Sistemas'
     homepage 'http://www.dafont.com/sistemas-font-bt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SISTEMAS FONT BT.ttf'
 end

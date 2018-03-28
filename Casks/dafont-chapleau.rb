@@ -5,7 +5,6 @@ cask 'dafont-chapleau' do
     url 'http://dl.dafont.com/dl/?f=chapleau'
     name 'Chapleau'
     homepage 'http://www.dafont.com/chapleau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chapleau Bold Italic.otf'
     font 'Chapleau Bold.otf'

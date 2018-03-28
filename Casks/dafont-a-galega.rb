@@ -5,7 +5,6 @@ cask 'dafont-a-galega' do
     url 'http://dl.dafont.com/dl/?f=a_galega'
     name 'A Galega'
     homepage 'http://www.dafont.com/a-galega.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AGALEGA-Regular.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-very-bad-posture' do
     url 'http://dl.dafont.com/dl/?f=very_bad_posture'
     name 'Very Bad Posture'
     homepage 'http://www.dafont.com/very-bad-posture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VERYBADPOSTURE.TTF'
 end

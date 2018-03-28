@@ -5,7 +5,6 @@ cask 'dafont-lage-goyesca' do
     url 'http://dl.dafont.com/dl/?f=lage_goyesca'
     name 'Lage Goyesca'
     homepage 'http://www.dafont.com/lage-goyesca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LAGENI__.TTF'
 end

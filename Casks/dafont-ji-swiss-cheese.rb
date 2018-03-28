@@ -5,7 +5,6 @@ cask 'dafont-ji-swiss-cheese' do
     url 'http://dl.dafont.com/dl/?f=ji_swiss_cheese'
     name 'JI Swiss Cheese'
     homepage 'http://www.dafont.com/ji-swiss-cheese.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JI Swiss Cheese.ttf'
 end

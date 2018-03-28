@@ -5,7 +5,6 @@ cask 'dafont-nas-coxas' do
     url 'http://dl.dafont.com/dl/?f=nas_coxas'
     name 'Nas Coxas'
     homepage 'http://www.dafont.com/nas-coxas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NasCoxas-Regular.ttf'
 end

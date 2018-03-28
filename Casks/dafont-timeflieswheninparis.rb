@@ -5,7 +5,6 @@ cask 'dafont-timeflieswheninparis' do
     url 'http://dl.dafont.com/dl/?f=timeflieswheninparis'
     name 'Time Flies When In Paris'
     homepage 'http://www.dafont.com/timeflieswheninparis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TimeFliesWhenInParis.ttf'
 end

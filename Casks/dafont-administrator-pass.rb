@@ -5,7 +5,6 @@ cask 'dafont-administrator-pass' do
     url 'http://dl.dafont.com/dl/?f=administrator_pass'
     name 'Administrator Password'
     homepage 'http://www.dafont.com/administrator-pass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kkadpass.ttf'
 end

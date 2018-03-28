@@ -5,7 +5,6 @@ cask 'dafont-xpaider-pixel-expl1' do
     url 'http://dl.dafont.com/dl/?f=xpaider_pixel_expl1'
     name 'Xpaider Pixel Explosion 01'
     homepage 'http://www.dafont.com/xpaider-pixel-expl1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XPAIDERP.TTF'
 end

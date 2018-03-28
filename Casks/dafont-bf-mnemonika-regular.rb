@@ -5,7 +5,6 @@ cask 'dafont-bf-mnemonika-regular' do
     url 'http://dl.dafont.com/dl/?f=bf_mnemonika_regular'
     name 'BF Mnemonik'
     homepage 'http://www.dafont.com/bf-mnemonika-regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bf_mnemonika_regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-glass-hand' do
     url 'http://dl.dafont.com/dl/?f=glass_hand'
     name 'Glass Hand'
     homepage 'http://www.dafont.com/glass-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Glass_Hand.otf'
 end

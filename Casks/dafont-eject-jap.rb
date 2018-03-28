@@ -5,7 +5,6 @@ cask 'dafont-eject-jap' do
     url 'http://dl.dafont.com/dl/?f=eject_jap'
     name 'Eject Jap'
     homepage 'http://www.dafont.com/eject-jap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EJECJLP_.TTF'
     font 'EJECJR__.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-hey-pretty-girl' do
     url 'http://dl.dafont.com/dl/?f=hey_pretty_girl'
     name 'Mf Hey Pretty Girl'
     homepage 'http://www.dafont.com/hey-pretty-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Hey Pretty Girl.ttf'
 end

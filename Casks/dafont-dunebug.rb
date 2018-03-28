@@ -5,7 +5,6 @@ cask 'dafont-dunebug' do
     url 'http://dl.dafont.com/dl/?f=dunebug'
     name 'Dunebug'
     homepage 'http://www.dafont.com/dunebug.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DUNEBUG_.TTF'
     font 'DUNEM___.TTF'

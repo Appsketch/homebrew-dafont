@@ -5,7 +5,6 @@ cask 'dafont-head-like-a-hole' do
     url 'http://dl.dafont.com/dl/?f=head_like_a_hole'
     name 'Head like a hole'
     homepage 'http://www.dafont.com/head-like-a-hole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Head like a hole.ttf'
 end

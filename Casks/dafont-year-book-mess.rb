@@ -5,7 +5,6 @@ cask 'dafont-year-book-mess' do
     url 'http://dl.dafont.com/dl/?f=year_book_mess'
     name 'Year Book Mess'
     homepage 'http://www.dafont.com/year-book-mess.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YrBkMess.TTF'
 end

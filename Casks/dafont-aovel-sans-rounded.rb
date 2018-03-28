@@ -5,7 +5,6 @@ cask 'dafont-aovel-sans-rounded' do
     url 'http://dl.dafont.com/dl/?f=aovel_sans_rounded'
     name 'Aovel Sans Rounded'
     homepage 'http://www.dafont.com/aovel-sans-rounded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASansrounded.ttf'
 end

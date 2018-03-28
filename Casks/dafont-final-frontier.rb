@@ -5,7 +5,6 @@ cask 'dafont-final-frontier' do
     url 'http://dl.dafont.com/dl/?f=final_frontier'
     name 'Final Frontier'
     homepage 'http://www.dafont.com/final-frontier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Finalnew.ttf'
 end

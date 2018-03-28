@@ -5,7 +5,6 @@ cask 'dafont-tropfen' do
     url 'http://dl.dafont.com/dl/?f=tropfen'
     name 'Tropfen'
     homepage 'http://www.dafont.com/tropfen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tropfen.otf'
 end

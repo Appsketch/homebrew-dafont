@@ -5,7 +5,6 @@ cask 'dafont-trop-flou' do
     url 'http://dl.dafont.com/dl/?f=trop_flou'
     name 'Trop Flou'
     homepage 'http://www.dafont.com/trop-flou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lendemain_de_veille.ttf'
 end

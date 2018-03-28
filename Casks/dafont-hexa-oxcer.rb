@@ -5,7 +5,6 @@ cask 'dafont-hexa-oxcer' do
     url 'http://dl.dafont.com/dl/?f=hexa_oxcer'
     name 'Hexa'
     homepage 'http://www.dafont.com/hexa-oxcer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hexa.ttf'
 end

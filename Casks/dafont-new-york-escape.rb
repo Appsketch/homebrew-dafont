@@ -5,7 +5,6 @@ cask 'dafont-new-york-escape' do
     url 'http://dl.dafont.com/dl/?f=new_york_escape'
     name 'New York Escape'
     homepage 'http://www.dafont.com/new-york-escape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'newyorkescape.ttf'
     font 'newyorkescape3d.ttf'

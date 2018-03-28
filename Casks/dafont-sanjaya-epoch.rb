@@ -5,7 +5,6 @@ cask 'dafont-sanjaya-epoch' do
     url 'http://dl.dafont.com/dl/?f=sanjaya_epoch'
     name 'Sanjaya Epoch'
     homepage 'http://www.dafont.com/sanjaya-epoch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sanjaya-Epoch.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-en-drawn-n-cut' do
     url 'http://dl.dafont.com/dl/?f=en_drawn_n_cut'
     name 'En Drawn n Cut'
     homepage 'http://www.dafont.com/en-drawn-n-cut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'en_drawn_n_cut.ttf'
 end

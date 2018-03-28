@@ -5,7 +5,6 @@ cask 'dafont-popsies' do
     url 'http://dl.dafont.com/dl/?f=popsies'
     name 'Popsies'
     homepage 'http://www.dafont.com/popsies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Popsies.ttf'
 end

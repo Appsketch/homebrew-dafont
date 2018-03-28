@@ -5,7 +5,6 @@ cask 'dafont-minggu-pagi' do
     url 'http://dl.dafont.com/dl/?f=minggu_pagi'
     name 'Minggu Pagi'
     homepage 'http://www.dafont.com/minggu-pagi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MingguPagi.otf'
 end

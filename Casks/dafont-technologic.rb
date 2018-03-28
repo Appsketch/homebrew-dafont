@@ -5,7 +5,6 @@ cask 'dafont-technologic' do
     url 'http://dl.dafont.com/dl/?f=technologic'
     name 'TechnoLogic'
     homepage 'http://www.dafont.com/technologic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TechnoLogic.ttf'
 end

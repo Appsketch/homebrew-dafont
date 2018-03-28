@@ -5,7 +5,6 @@ cask 'dafont-rap-my-hip-hop' do
     url 'http://dl.dafont.com/dl/?f=rap_my_hip_hop'
     name 'Rap my Hip-Hop'
     homepage 'http://www.dafont.com/rap-my-hip-hop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rap my Hip-Hop.ttf'
 end

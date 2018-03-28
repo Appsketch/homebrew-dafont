@@ -5,7 +5,6 @@ cask 'dafont-death-in-the-shadow' do
     url 'http://dl.dafont.com/dl/?f=death_in_the_shadow'
     name 'Death in the Shadow'
     homepage 'http://www.dafont.com/death-in-the-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Death in the Shadow.ttf'
 end

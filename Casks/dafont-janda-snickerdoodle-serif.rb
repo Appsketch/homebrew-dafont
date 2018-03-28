@@ -5,7 +5,6 @@ cask 'dafont-janda-snickerdoodle-serif' do
     url 'http://dl.dafont.com/dl/?f=janda_snickerdoodle_serif'
     name 'Janda Snickerdoodle Serif'
     homepage 'http://www.dafont.com/janda-snickerdoodle-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaSnickerdoodleSerif.ttf'
     font 'JandaSnickerdoodleSerifBold.ttf'

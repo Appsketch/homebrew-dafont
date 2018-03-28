@@ -5,7 +5,6 @@ cask 'dafont-dro' do
     url 'http://dl.dafont.com/dl/?f=dro'
     name 'Dro'
     homepage 'http://www.dafont.com/dro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DroDEMO-KCFonts.ttf'
 end

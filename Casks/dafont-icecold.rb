@@ -5,7 +5,6 @@ cask 'dafont-icecold' do
     url 'http://dl.dafont.com/dl/?f=icecold'
     name 'Ice Cold'
     homepage 'http://www.dafont.com/icecold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IceCold.ttf'
 end

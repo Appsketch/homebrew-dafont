@@ -5,7 +5,6 @@ cask 'dafont-le-jardin-de-calista' do
     url 'http://dl.dafont.com/dl/?f=le_jardin_de_calista'
     name 'Le Jardin de Calista'
     homepage 'http://www.dafont.com/le-jardin-de-calista.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Le Jardin de Calista.ttf'
 end

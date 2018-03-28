@@ -5,7 +5,6 @@ cask 'dafont-team-captain' do
     url 'http://dl.dafont.com/dl/?f=team_captain'
     name 'Team Captain'
     homepage 'http://www.dafont.com/team-captain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Team-Captain.ttf'
 end

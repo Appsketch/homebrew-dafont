@@ -5,7 +5,6 @@ cask 'dafont-goola' do
     url 'http://dl.dafont.com/dl/?f=goola'
     name 'Goola'
     homepage 'http://www.dafont.com/goola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GOOLBL__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gregorianflf' do
     url 'http://dl.dafont.com/dl/?f=gregorianflf'
     name 'Gregorian FLF'
     homepage 'http://www.dafont.com/gregorianflf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GregorianFLF.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tiranafont' do
     url 'http://dl.dafont.com/dl/?f=tiranafont'
     name 'Tiranafont'
     homepage 'http://www.dafont.com/tiranafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tiranafont.ttf'
 end

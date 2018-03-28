@@ -5,7 +5,6 @@ cask 'dafont-onedaybeforerain' do
     url 'http://dl.dafont.com/dl/?f=onedaybeforerain'
     name 'One Day Before Rain'
     homepage 'http://www.dafont.com/onedaybeforerain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'one-day-after-rain-roses.ttf'
     font 'OneDayBeforeRain.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-moonhouse' do
     url 'http://dl.dafont.com/dl/?f=moonhouse'
     name 'Moonhouse'
     homepage 'http://www.dafont.com/moonhouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'moonhouse.ttf'
 end

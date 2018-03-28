@@ -5,7 +5,6 @@ cask 'dafont-lifestoofast' do
     url 'http://dl.dafont.com/dl/?f=lifestoofast'
     name 'Lifes Too Fast'
     homepage 'http://www.dafont.com/lifestoofast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LifesTooFast.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-atari-st-8x16-system-font' do
     url 'http://dl.dafont.com/dl/?f=atari_st_8x16_system_font'
     name 'Atari ST 8x16 System'
     homepage 'http://www.dafont.com/atari-st-8x16-system-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AtariST8x16SystemFont.ttf'
 end

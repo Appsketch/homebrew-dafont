@@ -5,7 +5,6 @@ cask 'dafont-bionic-type-bitmap' do
     url 'http://dl.dafont.com/dl/?f=bionic_type_bitmap'
     name 'Bionic Type Bitmap'
     homepage 'http://www.dafont.com/bionic-type-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIOTB.FON'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mystery' do
     url 'http://dl.dafont.com/dl/?f=mystery'
     name 'Mystery'
     homepage 'http://www.dafont.com/mystery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mystery White.ttf'
     font 'Mystery.ttf'

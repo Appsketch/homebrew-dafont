@@ -5,7 +5,6 @@ cask 'dafont-les-oeufs-de-cassowary' do
     url 'http://dl.dafont.com/dl/?f=les_oeufs_de_cassowary'
     name 'Les oeufs de Cassowary'
     homepage 'http://www.dafont.com/les-oeufs-de-cassowary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Les_oeufs_de_Cassowary.ttf'
 end

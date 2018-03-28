@@ -5,7 +5,6 @@ cask 'dafont-long-clam' do
     url 'http://dl.dafont.com/dl/?f=long_clam'
     name 'Long Clam'
     homepage 'http://www.dafont.com/long-clam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Long Clam Demo Version.ttf'
 end

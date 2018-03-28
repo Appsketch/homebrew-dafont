@@ -5,7 +5,6 @@ cask 'dafont-preston-blair-skip' do
     url 'http://dl.dafont.com/dl/?f=preston_blair_skip'
     name 'Preston Blair Skip'
     homepage 'http://www.dafont.com/preston-blair-skip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrestonBlair-Skip.ttf'
 end

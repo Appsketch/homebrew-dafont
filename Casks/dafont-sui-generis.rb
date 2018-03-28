@@ -5,7 +5,6 @@ cask 'dafont-sui-generis' do
     url 'http://dl.dafont.com/dl/?f=sui_generis'
     name 'Sui Generis'
     homepage 'http://www.dafont.com/sui-generis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sui generis rg.ttf'
 end

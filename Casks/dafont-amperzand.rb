@@ -5,7 +5,6 @@ cask 'dafont-amperzand' do
     url 'http://dl.dafont.com/dl/?f=amperzand'
     name 'Amperzand'
     homepage 'http://www.dafont.com/amperzand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amperzand.ttf'
 end

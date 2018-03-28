@@ -5,7 +5,6 @@ cask 'dafont-wakingup' do
     url 'http://dl.dafont.com/dl/?f=wakingup'
     name 'WakingUp'
     homepage 'http://www.dafont.com/wakingup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WakingUp.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kleptomaniac' do
     url 'http://dl.dafont.com/dl/?f=kleptomaniac'
     name 'Kleptomaniac'
     homepage 'http://www.dafont.com/kleptomaniac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KLEPTOMANIAC.TTF'
 end

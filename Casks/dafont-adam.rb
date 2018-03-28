@@ -5,7 +5,6 @@ cask 'dafont-adam' do
     url 'http://dl.dafont.com/dl/?f=adam'
     name 'Adam'
     homepage 'http://www.dafont.com/adam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adam.otf'
 end

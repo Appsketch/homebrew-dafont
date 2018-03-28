@@ -5,7 +5,6 @@ cask 'dafont-thats-it' do
     url 'http://dl.dafont.com/dl/?f=thats_it'
     name 'That&#039;s it!'
     homepage 'http://www.dafont.com/thats-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THATSIT.TTF'
 end

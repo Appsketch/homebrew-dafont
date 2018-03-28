@@ -5,7 +5,6 @@ cask 'dafont-ex-hira-kata' do
     url 'http://dl.dafont.com/dl/?f=ex_hira_kata'
     name 'Ex Hira + Kata'
     homepage 'http://www.dafont.com/ex-hira-kata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ex-hira1.ttf'
     font 'ex-hira2.ttf'

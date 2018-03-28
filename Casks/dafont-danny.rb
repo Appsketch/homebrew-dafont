@@ -5,7 +5,6 @@ cask 'dafont-danny' do
     url 'http://dl.dafont.com/dl/?f=danny'
     name 'Danny'
     homepage 'http://www.dafont.com/danny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Danny.ttf'
 end

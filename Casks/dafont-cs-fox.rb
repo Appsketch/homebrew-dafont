@@ -5,7 +5,6 @@ cask 'dafont-cs-fox' do
     url 'http://dl.dafont.com/dl/?f=cs_fox'
     name 'CS-Fox'
     homepage 'http://www.dafont.com/cs-fox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CS-Fox_Italic.ttf'
     font 'CS-Fox_Regular.ttf'

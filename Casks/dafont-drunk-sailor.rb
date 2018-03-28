@@ -5,7 +5,6 @@ cask 'dafont-drunk-sailor' do
     url 'http://dl.dafont.com/dl/?f=drunk_sailor'
     name 'Drunk Sailor'
     homepage 'http://www.dafont.com/drunk-sailor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drunk Sailor.ttf'
 end

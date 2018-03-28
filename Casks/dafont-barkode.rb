@@ -5,7 +5,6 @@ cask 'dafont-barkode' do
     url 'http://dl.dafont.com/dl/?f=barkode'
     name 'Barkode'
     homepage 'http://www.dafont.com/barkode.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'barkode.ttf'
 end

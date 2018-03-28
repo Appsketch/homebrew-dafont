@@ -5,7 +5,6 @@ cask 'dafont-army-rust' do
     url 'http://dl.dafont.com/dl/?f=army_rust'
     name 'Army Rust'
     homepage 'http://www.dafont.com/army-rust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARMY RUST.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sedex' do
     url 'http://dl.dafont.com/dl/?f=sedex'
     name 'Sedex'
     homepage 'http://www.dafont.com/sedex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEDEX PERSONAL USE___.otf'
 end

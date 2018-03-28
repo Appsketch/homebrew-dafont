@@ -5,7 +5,6 @@ cask 'dafont-hug-me-tight' do
     url 'http://dl.dafont.com/dl/?f=hug_me_tight'
     name 'Mf Hug Me Tight'
     homepage 'http://www.dafont.com/hug-me-tight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Hug Me Tight.ttf'
 end

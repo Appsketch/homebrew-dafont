@@ -5,7 +5,6 @@ cask 'dafont-dk-garden-bed' do
     url 'http://dl.dafont.com/dl/?f=dk_garden_bed'
     name 'DK Garden Bed'
     homepage 'http://www.dafont.com/dk-garden-bed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Garden Bed.otf'
 end

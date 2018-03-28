@@ -5,7 +5,6 @@ cask 'dafont-3d-fatsche' do
     url 'http://dl.dafont.com/dl/?f=3d_fatsche'
     name '3d Fatsche'
     homepage 'http://www.dafont.com/3d-fatsche.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '3d fatsche.ttf'
 end

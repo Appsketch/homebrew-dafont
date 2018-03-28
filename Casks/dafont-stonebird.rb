@@ -5,7 +5,6 @@ cask 'dafont-stonebird' do
     url 'http://dl.dafont.com/dl/?f=stonebird'
     name 'Stone Bird'
     homepage 'http://www.dafont.com/stonebird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StoneBird.ttf'
 end

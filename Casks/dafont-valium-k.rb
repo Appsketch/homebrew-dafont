@@ -5,7 +5,6 @@ cask 'dafont-valium-k' do
     url 'http://dl.dafont.com/dl/?f=valium_k'
     name 'Valium'
     homepage 'http://www.dafont.com/valium-k.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'valium.ttf'
 end

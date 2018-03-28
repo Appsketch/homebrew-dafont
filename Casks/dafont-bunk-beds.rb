@@ -5,7 +5,6 @@ cask 'dafont-bunk-beds' do
     url 'http://dl.dafont.com/dl/?f=bunk_beds'
     name 'Bunk beds'
     homepage 'http://www.dafont.com/bunk-beds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bunk beds and slumber parties.ttf'
 end

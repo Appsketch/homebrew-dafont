@@ -5,7 +5,6 @@ cask 'dafont-mkantzley' do
     url 'http://dl.dafont.com/dl/?f=mkantzley'
     name 'MKantzley'
     homepage 'http://www.dafont.com/mkantzley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MKantzley.ttf'
 end

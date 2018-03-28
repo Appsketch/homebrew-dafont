@@ -5,7 +5,6 @@ cask 'dafont-sqwash' do
     url 'http://dl.dafont.com/dl/?f=sqwash'
     name 'Sqwash'
     homepage 'http://www.dafont.com/sqwash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sqwash.otf'
 end

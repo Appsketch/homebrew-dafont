@@ -5,7 +5,6 @@ cask 'dafont-weaponeer' do
     url 'http://dl.dafont.com/dl/?f=weaponeer'
     name 'Weaponeer'
     homepage 'http://www.dafont.com/weaponeer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'weaponeer.ttf'
     font 'weaponeera.ttf'

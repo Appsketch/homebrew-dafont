@@ -5,7 +5,6 @@ cask 'dafont-kg-mercy-in-the-morning' do
     url 'http://dl.dafont.com/dl/?f=kg_mercy_in_the_morning'
     name 'KG Mercy in the Morning'
     homepage 'http://www.dafont.com/kg-mercy-in-the-morning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGMercyInTheMorning.ttf'
 end

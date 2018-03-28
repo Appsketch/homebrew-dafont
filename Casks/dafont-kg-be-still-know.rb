@@ -5,7 +5,6 @@ cask 'dafont-kg-be-still-know' do
     url 'http://dl.dafont.com/dl/?f=kg_be_still_know'
     name 'KG Be Still And Know'
     homepage 'http://www.dafont.com/kg-be-still-know.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGBeStillAndKnow.ttf'
 end

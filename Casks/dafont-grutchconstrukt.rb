@@ -5,7 +5,6 @@ cask 'dafont-grutchconstrukt' do
     url 'http://dl.dafont.com/dl/?f=grutchconstrukt'
     name 'Grutch Construkt'
     homepage 'http://www.dafont.com/grutchconstrukt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrutchConstrukt.ttf'
 end

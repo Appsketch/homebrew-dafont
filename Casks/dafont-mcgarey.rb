@@ -5,7 +5,6 @@ cask 'dafont-mcgarey' do
     url 'http://dl.dafont.com/dl/?f=mcgarey'
     name 'McGarey'
     homepage 'http://www.dafont.com/mcgarey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mcgf____.ttf'
 end

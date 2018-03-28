@@ -5,7 +5,6 @@ cask 'dafont-gapstown-ah' do
     url 'http://dl.dafont.com/dl/?f=gapstown_ah'
     name 'Gapstown AH'
     homepage 'http://www.dafont.com/gapstown-ah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gaps-s-b.ttf'
     font 'gaps-s-r.ttf'

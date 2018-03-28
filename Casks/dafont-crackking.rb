@@ -5,7 +5,6 @@ cask 'dafont-crackking' do
     url 'http://dl.dafont.com/dl/?f=crackking'
     name 'Crack King'
     homepage 'http://www.dafont.com/crackking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrackKing.ttf'
 end

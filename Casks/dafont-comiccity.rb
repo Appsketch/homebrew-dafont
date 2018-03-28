@@ -5,7 +5,6 @@ cask 'dafont-comiccity' do
     url 'http://dl.dafont.com/dl/?f=comiccity'
     name 'Comic City'
     homepage 'http://www.dafont.com/comiccity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comiccity.ttf'
 end

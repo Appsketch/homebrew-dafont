@@ -5,7 +5,6 @@ cask 'dafont-geist-rnd' do
     url 'http://dl.dafont.com/dl/?f=geist_rnd'
     name 'Geist Rnd'
     homepage 'http://www.dafont.com/geist-rnd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GEIST_RND.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-valley-forge' do
     url 'http://dl.dafont.com/dl/?f=valley_forge'
     name 'Valley Forge'
     homepage 'http://www.dafont.com/valley-forge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'valleyforge.ttf'
     font 'valleyforgeb.ttf'

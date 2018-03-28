@@ -5,7 +5,6 @@ cask 'dafont-fd-helwoodica' do
     url 'http://dl.dafont.com/dl/?f=fd_helwoodica'
     name 'FD Helwoodica'
     homepage 'http://www.dafont.com/fd-helwoodica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FD_Helwoodica.otf'
 end

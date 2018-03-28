@@ -5,7 +5,6 @@ cask 'dafont-en-simple-script' do
     url 'http://dl.dafont.com/dl/?f=en_simple_script'
     name 'En Simple Script'
     homepage 'http://www.dafont.com/en-simple-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'en_simple_script.ttf'
 end

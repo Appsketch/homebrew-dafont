@@ -5,7 +5,6 @@ cask 'dafont-mad-science' do
     url 'http://dl.dafont.com/dl/?f=mad_science'
     name 'Mad Science'
     homepage 'http://www.dafont.com/mad-science.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MadScience.ttf'
 end

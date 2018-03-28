@@ -5,7 +5,6 @@ cask 'dafont-kulminoituva' do
     url 'http://dl.dafont.com/dl/?f=kulminoituva'
     name 'Kulminoituva'
     homepage 'http://www.dafont.com/kulminoituva.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kulminoituva.ttf'
 end

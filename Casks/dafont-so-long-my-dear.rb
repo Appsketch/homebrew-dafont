@@ -5,7 +5,6 @@ cask 'dafont-so-long-my-dear' do
     url 'http://dl.dafont.com/dl/?f=so_long_my_dear'
     name 'So Long My Dear'
     homepage 'http://www.dafont.com/so-long-my-dear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'So Long My Dear.ttf'
 end

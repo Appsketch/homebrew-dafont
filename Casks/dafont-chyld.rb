@@ -5,7 +5,6 @@ cask 'dafont-chyld' do
     url 'http://dl.dafont.com/dl/?f=chyld'
     name 'Chyld'
     homepage 'http://www.dafont.com/chyld.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chyld.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-beckler' do
     url 'http://dl.dafont.com/dl/?f=beckler'
     name 'Beckler'
     homepage 'http://www.dafont.com/beckler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beckler.ttf'
 end

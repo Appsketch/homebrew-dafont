@@ -5,7 +5,6 @@ cask 'dafont-zawijasy' do
     url 'http://dl.dafont.com/dl/?f=zawijasy'
     name 'Zawijasy'
     homepage 'http://www.dafont.com/zawijasy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zawijasy.otf'
 end

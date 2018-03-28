@@ -5,7 +5,6 @@ cask 'dafont-smartie' do
     url 'http://dl.dafont.com/dl/?f=smartie'
     name 'Smartie'
     homepage 'http://www.dafont.com/smartie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SMARC___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wolfrednelson' do
     url 'http://dl.dafont.com/dl/?f=wolfrednelson'
     name 'Wolfred Nelson'
     homepage 'http://www.dafont.com/wolfrednelson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WolfredNelson-LIGHT.ttf'
 end

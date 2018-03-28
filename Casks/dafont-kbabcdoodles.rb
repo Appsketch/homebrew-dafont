@@ -5,7 +5,6 @@ cask 'dafont-kbabcdoodles' do
     url 'http://dl.dafont.com/dl/?f=kbabcdoodles'
     name 'KB ABC Doodles'
     homepage 'http://www.dafont.com/kbabcdoodles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBABCDoodles.ttf'
 end

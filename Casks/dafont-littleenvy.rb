@@ -5,7 +5,6 @@ cask 'dafont-littleenvy' do
     url 'http://dl.dafont.com/dl/?f=littleenvy'
     name 'Little Envy'
     homepage 'http://www.dafont.com/littleenvy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LittleEnvyBETA.ttf'
 end

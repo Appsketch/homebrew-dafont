@@ -5,7 +5,6 @@ cask 'dafont-punkevent' do
     url 'http://dl.dafont.com/dl/?f=punkevent'
     name 'Punk Event'
     homepage 'http://www.dafont.com/punkevent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PunkEvent.ttf'
 end

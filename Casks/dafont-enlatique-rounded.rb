@@ -5,7 +5,6 @@ cask 'dafont-enlatique-rounded' do
     url 'http://dl.dafont.com/dl/?f=enlatique_rounded'
     name 'Enlatique Rounded'
     homepage 'http://www.dafont.com/enlatique-rounded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'enlatique_rounded.ttf'
 end

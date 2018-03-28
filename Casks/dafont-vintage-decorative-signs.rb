@@ -5,7 +5,6 @@ cask 'dafont-vintage-decorative-signs' do
     url 'http://dl.dafont.com/dl/?f=vintage_decorative_signs'
     name 'Vintage Decorative Signs'
     homepage 'http://www.dafont.com/vintage-decorative-signs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vintage Decorative signs.ttf'
 end

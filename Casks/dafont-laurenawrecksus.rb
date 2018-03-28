@@ -5,7 +5,6 @@ cask 'dafont-laurenawrecksus' do
     url 'http://dl.dafont.com/dl/?f=laurenawrecksus'
     name 'Laurenawrecksus'
     homepage 'http://www.dafont.com/laurenawrecksus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Laurenawrecksus.ttf'
 end

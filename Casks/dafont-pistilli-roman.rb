@@ -5,7 +5,6 @@ cask 'dafont-pistilli-roman' do
     url 'http://dl.dafont.com/dl/?f=pistilli_roman'
     name 'Pistilli Roman'
     homepage 'http://www.dafont.com/pistilli-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pistilli-Roman.otf'
 end

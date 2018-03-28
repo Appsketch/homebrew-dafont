@@ -5,7 +5,6 @@ cask 'dafont-the-blood-shack' do
     url 'http://dl.dafont.com/dl/?f=the_blood_shack'
     name 'The Blood Shack'
     homepage 'http://www.dafont.com/the-blood-shack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Blood Shack.ttf'
 end

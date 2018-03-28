@@ -5,7 +5,6 @@ cask 'dafont-porkys' do
     url 'http://dl.dafont.com/dl/?f=porkys'
     name 'Porky&#039;s'
     homepage 'http://www.dafont.com/porkys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PORKH___.TTF'
     font 'PORKYS_.TTF'

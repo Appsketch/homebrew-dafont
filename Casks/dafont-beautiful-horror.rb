@@ -5,7 +5,6 @@ cask 'dafont-beautiful-horror' do
     url 'http://dl.dafont.com/dl/?f=beautiful_horror'
     name 'Beautiful Horror'
     homepage 'http://www.dafont.com/beautiful-horror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beautiful Horror.ttf'
 end

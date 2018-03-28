@@ -5,7 +5,6 @@ cask 'dafont-landslide' do
     url 'http://dl.dafont.com/dl/?f=landslide'
     name 'Landslide'
     homepage 'http://www.dafont.com/landslide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Landslide.ttf'
 end

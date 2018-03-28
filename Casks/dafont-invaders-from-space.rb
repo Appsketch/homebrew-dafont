@@ -5,7 +5,6 @@ cask 'dafont-invaders-from-space' do
     url 'http://dl.dafont.com/dl/?f=invaders_from_space'
     name 'Invaders from Space'
     homepage 'http://www.dafont.com/invaders-from-space.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'invaders.from.space.[fontvir.us].ttf'
 end

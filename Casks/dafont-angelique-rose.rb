@@ -5,7 +5,6 @@ cask 'dafont-angelique-rose' do
     url 'http://dl.dafont.com/dl/?f=angelique_rose'
     name 'Angelique Rose'
     homepage 'http://www.dafont.com/angelique-rose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angelique-Rose-font-FFP.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-respect' do
     url 'http://dl.dafont.com/dl/?f=respect'
     name 'Respect'
     homepage 'http://www.dafont.com/respect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Respect.ttf'
 end

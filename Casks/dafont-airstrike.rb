@@ -5,7 +5,6 @@ cask 'dafont-airstrike' do
     url 'http://dl.dafont.com/dl/?f=airstrike'
     name 'Airstrike'
     homepage 'http://www.dafont.com/airstrike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'airstrike.ttf'
     font 'airstrike3d.ttf'

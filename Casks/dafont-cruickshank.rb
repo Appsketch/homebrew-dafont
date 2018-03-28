@@ -5,7 +5,6 @@ cask 'dafont-cruickshank' do
     url 'http://dl.dafont.com/dl/?f=cruickshank'
     name 'Cruickshank'
     homepage 'http://www.dafont.com/cruickshank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRUICKSH.TTF'
 end

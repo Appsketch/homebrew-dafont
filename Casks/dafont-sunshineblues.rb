@@ -5,7 +5,6 @@ cask 'dafont-sunshineblues' do
     url 'http://dl.dafont.com/dl/?f=sunshineblues'
     name 'Sunshine Blues'
     homepage 'http://www.dafont.com/sunshineblues.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SunshineBlues.ttf'
 end

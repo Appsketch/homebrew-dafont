@@ -5,7 +5,6 @@ cask 'dafont-illuminate' do
     url 'http://dl.dafont.com/dl/?f=illuminate'
     name 'Illuminate'
     homepage 'http://www.dafont.com/illuminate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'illuminate.ttf'
 end

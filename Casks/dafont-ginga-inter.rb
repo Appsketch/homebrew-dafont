@@ -5,7 +5,6 @@ cask 'dafont-ginga-inter' do
     url 'http://dl.dafont.com/dl/?f=ginga_inter'
     name 'Ginga Inter'
     homepage 'http://www.dafont.com/ginga-inter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Font_GINGA_INTER.ttf'
 end

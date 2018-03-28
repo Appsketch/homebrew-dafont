@@ -5,7 +5,6 @@ cask 'dafont-ventura-times' do
     url 'http://dl.dafont.com/dl/?f=ventura_times'
     name 'Ventura Times'
     homepage 'http://www.dafont.com/ventura-times.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ventura_times.ttf'
 end

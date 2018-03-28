@@ -5,7 +5,6 @@ cask 'dafont-ice-age-font' do
     url 'http://dl.dafont.com/dl/?f=ice_age_font'
     name 'Ice Age'
     homepage 'http://www.dafont.com/ice-age-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ICE_AGE.ttf'
 end

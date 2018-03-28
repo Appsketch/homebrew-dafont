@@ -5,7 +5,6 @@ cask 'dafont-she-curls-in-the-mist' do
     url 'http://dl.dafont.com/dl/?f=she_curls_in_the_mist'
     name 'She Curls In The Mist'
     homepage 'http://www.dafont.com/she-curls-in-the-mist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'she_curls_in_the_mist.ttf'
 end

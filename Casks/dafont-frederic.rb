@@ -5,7 +5,6 @@ cask 'dafont-frederic' do
     url 'http://dl.dafont.com/dl/?f=frederic'
     name 'Frederic'
     homepage 'http://www.dafont.com/frederic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frederic Black Italic.ttf'
     font 'Frederic Black.ttf'

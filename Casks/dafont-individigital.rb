@@ -5,7 +5,6 @@ cask 'dafont-individigital' do
     url 'http://dl.dafont.com/dl/?f=individigital'
     name 'Individigital'
     homepage 'http://www.dafont.com/individigital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Individigital Demibold.ttf'
     font 'Individigital Shaded.ttf'

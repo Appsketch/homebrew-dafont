@@ -5,7 +5,6 @@ cask 'dafont-business-as-usual' do
     url 'http://dl.dafont.com/dl/?f=business_as_usual'
     name 'Business As Usual'
     homepage 'http://www.dafont.com/business-as-usual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Business As Usual.ttf'
 end

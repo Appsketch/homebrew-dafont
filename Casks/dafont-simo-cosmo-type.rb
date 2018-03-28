@@ -5,7 +5,6 @@ cask 'dafont-simo-cosmo-type' do
     url 'http://dl.dafont.com/dl/?f=simo_cosmo_type'
     name 'Simo Cosmo Type'
     homepage 'http://www.dafont.com/simo-cosmo-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'simo cosmo type.ttf'
 end

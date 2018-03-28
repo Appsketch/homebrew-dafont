@@ -5,7 +5,6 @@ cask 'dafont-renaiss-italic' do
     url 'http://dl.dafont.com/dl/?f=renaiss_italic'
     name 'Renaiss Italic'
     homepage 'http://www.dafont.com/renaiss-italic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Renaiss-Italic.ttf'
 end

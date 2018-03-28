@@ -5,7 +5,6 @@ cask 'dafont-pentagrams-aurra' do
     url 'http://dl.dafont.com/dl/?f=pentagrams_aurra'
     name 'PentaGram&#039;s Aurra'
     homepage 'http://www.dafont.com/pentagrams-aurra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PentaGram&#039;s Aurra.ttf'
 end

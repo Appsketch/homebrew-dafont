@@ -5,7 +5,6 @@ cask 'dafont-zamboni-joe' do
     url 'http://dl.dafont.com/dl/?f=zamboni_joe'
     name 'Zamboni Joe'
     homepage 'http://www.dafont.com/zamboni-joe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZAM.TTF'
     font 'Zame.ttf'

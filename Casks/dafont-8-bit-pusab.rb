@@ -5,7 +5,6 @@ cask 'dafont-8-bit-pusab' do
     url 'http://dl.dafont.com/dl/?f=8_bit_pusab'
     name '8-bit pusab'
     homepage 'http://www.dafont.com/8-bit-pusab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '8-bit pusab.ttf'
 end

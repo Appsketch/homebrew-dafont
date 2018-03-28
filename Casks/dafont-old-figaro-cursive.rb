@@ -5,7 +5,6 @@ cask 'dafont-old-figaro-cursive' do
     url 'http://dl.dafont.com/dl/?f=old_figaro_cursive'
     name 'Old Figaro Cursive'
     homepage 'http://www.dafont.com/old-figaro-cursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old Figaro Cursive.ttf'
 end

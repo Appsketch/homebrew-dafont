@@ -5,7 +5,6 @@ cask 'dafont-djb-another-mandy' do
     url 'http://dl.dafont.com/dl/?f=djb_another_mandy'
     name 'DJB Another Mandy'
     homepage 'http://www.dafont.com/djb-another-mandy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Another Mandy.ttf'
 end

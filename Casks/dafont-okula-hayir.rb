@@ -5,7 +5,6 @@ cask 'dafont-okula-hayir' do
     url 'http://dl.dafont.com/dl/?f=okula_hayir'
     name 'Okula Hayir'
     homepage 'http://www.dafont.com/okula-hayir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'okula_hayir.ttf'
 end

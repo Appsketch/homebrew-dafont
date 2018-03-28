@@ -5,7 +5,6 @@ cask 'dafont-chickabiddies' do
     url 'http://dl.dafont.com/dl/?f=chickabiddies'
     name 'Chickabiddies'
     homepage 'http://www.dafont.com/chickabiddies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHICKABI.TTF'
 end

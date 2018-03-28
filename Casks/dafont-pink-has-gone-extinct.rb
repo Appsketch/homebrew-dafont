@@ -5,7 +5,6 @@ cask 'dafont-pink-has-gone-extinct' do
     url 'http://dl.dafont.com/dl/?f=pink_has_gone_extinct'
     name 'Pink Has Gone Extinct'
     homepage 'http://www.dafont.com/pink-has-gone-extinct.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pink_has_gone_extinct_hairline.ttf'
     font 'pink_has_gone_extinct_oblique_ldr.ttf'

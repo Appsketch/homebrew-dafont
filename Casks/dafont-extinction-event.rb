@@ -5,7 +5,6 @@ cask 'dafont-extinction-event' do
     url 'http://dl.dafont.com/dl/?f=extinction_event'
     name 'Extinction Event'
     homepage 'http://www.dafont.com/extinction-event.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExtinctionEvent.otf'
     font 'ExtinctionEventItalic.otf'

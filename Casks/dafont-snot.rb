@@ -5,7 +5,6 @@ cask 'dafont-snot' do
     url 'http://dl.dafont.com/dl/?f=snot'
     name 'Snot'
     homepage 'http://www.dafont.com/snot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SNOT____.TTF'
 end

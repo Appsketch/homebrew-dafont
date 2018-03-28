@@ -5,7 +5,6 @@ cask 'dafont-asian-delight' do
     url 'http://dl.dafont.com/dl/?f=asian_delight'
     name 'Asian Delight'
     homepage 'http://www.dafont.com/asian-delight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Asian Delight Hollow.ttf'
     font 'Asian Delight.ttf'

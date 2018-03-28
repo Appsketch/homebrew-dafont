@@ -5,7 +5,6 @@ cask 'dafont-medieval-victoriana' do
     url 'http://dl.dafont.com/dl/?f=medieval_victoriana'
     name 'Medieval Victoriana'
     homepage 'http://www.dafont.com/medieval-victoriana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mevno1.ttf'
     font 'mevno2.ttf'

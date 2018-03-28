@@ -5,7 +5,6 @@ cask 'dafont-big-caesar' do
     url 'http://dl.dafont.com/dl/?f=big_caesar'
     name 'Big Caesar'
     homepage 'http://www.dafont.com/big-caesar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigCaesar.ttf'
 end

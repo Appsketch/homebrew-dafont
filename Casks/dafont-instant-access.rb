@@ -5,7 +5,6 @@ cask 'dafont-instant-access' do
     url 'http://dl.dafont.com/dl/?f=instant_access'
     name 'Instant Access'
     homepage 'http://www.dafont.com/instant-access.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'instant access.ttf'
 end

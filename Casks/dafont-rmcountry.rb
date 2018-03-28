@@ -5,7 +5,6 @@ cask 'dafont-rmcountry' do
     url 'http://dl.dafont.com/dl/?f=rmcountry'
     name 'RM Country'
     homepage 'http://www.dafont.com/rmcountry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rmcountr.ttf'
 end

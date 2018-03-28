@@ -5,7 +5,6 @@ cask 'dafont-death-valley' do
     url 'http://dl.dafont.com/dl/?f=death_valley'
     name 'Death Valley'
     homepage 'http://www.dafont.com/death-valley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEATVD__.TTF'
 end

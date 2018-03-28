@@ -5,7 +5,6 @@ cask 'dafont-interceptor' do
     url 'http://dl.dafont.com/dl/?f=interceptor'
     name 'Interceptor'
     homepage 'http://www.dafont.com/interceptor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'interceptor.ttf'
     font 'interceptor3d.ttf'

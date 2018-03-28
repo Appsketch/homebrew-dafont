@@ -5,7 +5,6 @@ cask 'dafont-nerima-number' do
     url 'http://dl.dafont.com/dl/?f=nerima_number'
     name 'Nerima Number'
     homepage 'http://www.dafont.com/nerima-number.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nnumber.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-a-font-for-the-comp' do
     url 'http://dl.dafont.com/dl/?f=a_font_for_the_comp'
     name 'A font for the computer people'
     homepage 'http://www.dafont.com/a-font-for-the-comp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AFONFTCP.TTF'
 end

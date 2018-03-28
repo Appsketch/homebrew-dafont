@@ -5,7 +5,6 @@ cask 'dafont-intercorp-redux' do
     url 'http://dl.dafont.com/dl/?f=intercorp_redux'
     name 'Intercorp Redux'
     homepage 'http://www.dafont.com/intercorp-redux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Intercorp Redux.ttf'
 end

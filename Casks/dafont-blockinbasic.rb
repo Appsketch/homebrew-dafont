@@ -5,7 +5,6 @@ cask 'dafont-blockinbasic' do
     url 'http://dl.dafont.com/dl/?f=blockinbasic'
     name 'Blockin Basic'
     homepage 'http://www.dafont.com/blockinbasic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlockinBasic.ttf'
 end

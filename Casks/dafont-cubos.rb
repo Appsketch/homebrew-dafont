@@ -5,7 +5,6 @@ cask 'dafont-cubos' do
     url 'http://dl.dafont.com/dl/?f=cubos'
     name 'Cubos'
     homepage 'http://www.dafont.com/cubos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cubos.ttf'
 end

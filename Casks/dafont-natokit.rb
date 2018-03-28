@@ -5,7 +5,6 @@ cask 'dafont-natokit' do
     url 'http://dl.dafont.com/dl/?f=natokit'
     name 'NATOkit'
     homepage 'http://www.dafont.com/natokit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NATOKit.ttf'
 end

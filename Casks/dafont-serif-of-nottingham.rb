@@ -5,7 +5,6 @@ cask 'dafont-serif-of-nottingham' do
     url 'http://dl.dafont.com/dl/?f=serif_of_nottingham'
     name 'Serif of Nottingham'
     homepage 'http://www.dafont.com/serif-of-nottingham.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Serif of Nottingham.ttf'
 end

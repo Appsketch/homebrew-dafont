@@ -5,7 +5,6 @@ cask 'dafont-green-fuz' do
     url 'http://dl.dafont.com/dl/?f=green_fuz'
     name 'Green Fuz'
     homepage 'http://www.dafont.com/green-fuz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'green fuz.ttf'
 end

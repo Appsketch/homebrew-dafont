@@ -5,7 +5,6 @@ cask 'dafont-on-blow' do
     url 'http://dl.dafont.com/dl/?f=on_blow'
     name 'On Blow'
     homepage 'http://www.dafont.com/on-blow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'on_blow.ttf'
 end

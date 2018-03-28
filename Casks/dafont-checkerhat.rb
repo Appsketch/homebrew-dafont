@@ -5,7 +5,6 @@ cask 'dafont-checkerhat' do
     url 'http://dl.dafont.com/dl/?f=checkerhat'
     name 'CheckerHat'
     homepage 'http://www.dafont.com/checkerhat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chech___.ttf'
 end

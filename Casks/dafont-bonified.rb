@@ -5,7 +5,6 @@ cask 'dafont-bonified' do
     url 'http://dl.dafont.com/dl/?f=bonified'
     name 'Bonified'
     homepage 'http://www.dafont.com/bonified.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonified.ttf'
 end

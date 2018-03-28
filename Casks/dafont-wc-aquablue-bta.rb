@@ -5,7 +5,6 @@ cask 'dafont-wc-aquablue-bta' do
     url 'http://dl.dafont.com/dl/?f=wc_aquablue_bta'
     name 'WC AquaBlues Bta'
     homepage 'http://www.dafont.com/wc-aquablue-bta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WC_AquaBlues_Bta.ttf'
 end

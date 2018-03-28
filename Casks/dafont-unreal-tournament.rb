@@ -5,7 +5,6 @@ cask 'dafont-unreal-tournament' do
     url 'http://dl.dafont.com/dl/?f=unreal_tournament'
     name 'Unreal Tournament'
     homepage 'http://www.dafont.com/unreal-tournament.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UnrealT.ttf'
 end

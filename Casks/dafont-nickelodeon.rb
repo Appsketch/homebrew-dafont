@@ -5,7 +5,6 @@ cask 'dafont-nickelodeon' do
     url 'http://dl.dafont.com/dl/?f=nickelodeon'
     name 'Nickelodeon'
     homepage 'http://www.dafont.com/nickelodeon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NICKELOD.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sharpcore' do
     url 'http://dl.dafont.com/dl/?f=sharpcore'
     name 'SharpCore'
     homepage 'http://www.dafont.com/sharpcore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SharpCore.ttf'
 end

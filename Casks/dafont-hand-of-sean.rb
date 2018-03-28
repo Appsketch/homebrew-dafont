@@ -5,7 +5,6 @@ cask 'dafont-hand-of-sean' do
     url 'http://dl.dafont.com/dl/?f=hand_of_sean'
     name 'Hand of Sean'
     homepage 'http://www.dafont.com/hand-of-sean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hand_Of_Sean_Demo.ttf'
 end

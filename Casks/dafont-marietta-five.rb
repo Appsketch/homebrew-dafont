@@ -5,7 +5,6 @@ cask 'dafont-marietta-five' do
     url 'http://dl.dafont.com/dl/?f=marietta_five'
     name 'Marietta Five'
     homepage 'http://www.dafont.com/marietta-five.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'marietta_five.ttf'
 end

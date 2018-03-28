@@ -5,7 +5,6 @@ cask 'dafont-ji-chimichanga' do
     url 'http://dl.dafont.com/dl/?f=ji_chimichanga'
     name 'JI Chimichanga'
     homepage 'http://www.dafont.com/ji-chimichanga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JI Chimichanga.ttf'
 end

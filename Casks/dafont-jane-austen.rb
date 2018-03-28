@@ -5,7 +5,6 @@ cask 'dafont-jane-austen' do
     url 'http://dl.dafont.com/dl/?f=jane_austen'
     name 'Jane Austen'
     homepage 'http://www.dafont.com/jane-austen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JaneAust.ttf'
 end

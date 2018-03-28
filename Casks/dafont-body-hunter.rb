@@ -5,7 +5,6 @@ cask 'dafont-body-hunter' do
     url 'http://dl.dafont.com/dl/?f=body_hunter'
     name 'Body Hunter'
     homepage 'http://www.dafont.com/body-hunter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BODYH___.otf'
 end

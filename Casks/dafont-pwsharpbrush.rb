@@ -5,7 +5,6 @@ cask 'dafont-pwsharpbrush' do
     url 'http://dl.dafont.com/dl/?f=pwsharpbrush'
     name 'PW Sharp Brush'
     homepage 'http://www.dafont.com/pwsharpbrush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWSharpBrush.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-beowulf-modern' do
     url 'http://dl.dafont.com/dl/?f=beowulf_modern'
     name 'Beowulf Modern'
     homepage 'http://www.dafont.com/beowulf-modern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEOWULF_MODERN.ttf'
 end

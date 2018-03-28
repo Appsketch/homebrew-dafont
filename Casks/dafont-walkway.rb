@@ -5,7 +5,6 @@ cask 'dafont-walkway' do
     url 'http://dl.dafont.com/dl/?f=walkway'
     name 'Walkway'
     homepage 'http://www.dafont.com/walkway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Walkway Black RevOblique.ttf'
     font 'Walkway Black.ttf'

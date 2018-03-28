@@ -5,7 +5,6 @@ cask 'dafont-ap-applique-cut' do
     url 'http://dl.dafont.com/dl/?f=ap_applique_cut'
     name 'AP Applique'
     homepage 'http://www.dafont.com/ap-applique-cut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AP-Applique-Cut.ttf'
     font 'AP-Applique-Stitched.ttf'

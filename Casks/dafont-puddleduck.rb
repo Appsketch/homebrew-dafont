@@ -5,7 +5,6 @@ cask 'dafont-puddleduck' do
     url 'http://dl.dafont.com/dl/?f=puddleduck'
     name 'Puddleduck'
     homepage 'http://www.dafont.com/puddleduck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PUDDLEDU.TTF'
 end

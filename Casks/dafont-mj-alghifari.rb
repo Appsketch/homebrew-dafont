@@ -5,7 +5,6 @@ cask 'dafont-mj-alghifari' do
     url 'http://dl.dafont.com/dl/?f=mj_alghifari'
     name 'MJ AlGhifari'
     homepage 'http://www.dafont.com/mj-alghifari.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MJ AlGhifari Demo.ttf'
 end

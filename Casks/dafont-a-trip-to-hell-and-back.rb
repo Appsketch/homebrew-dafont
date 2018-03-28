@@ -5,7 +5,6 @@ cask 'dafont-a-trip-to-hell-and-back' do
     url 'http://dl.dafont.com/dl/?f=a_trip_to_hell_and_back'
     name 'A Trip To Hell And Back'
     homepage 'http://www.dafont.com/a-trip-to-hell-and-back.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'to_hell_and_back.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kbbonjoursweetheart' do
     url 'http://dl.dafont.com/dl/?f=kbbonjoursweetheart'
     name 'KB Bonjour Sweetheart'
     homepage 'http://www.dafont.com/kbbonjoursweetheart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBBonjourMySweet.ttf'
     font 'KBBonjourSweetheart.ttf'

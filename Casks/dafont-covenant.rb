@@ -5,7 +5,6 @@ cask 'dafont-covenant' do
     url 'http://dl.dafont.com/dl/?f=covenant'
     name 'Covenant'
     homepage 'http://www.dafont.com/covenant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Halo Covenant.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-charcoal-first' do
     url 'http://dl.dafont.com/dl/?f=charcoal_first'
     name 'Charcoal First'
     homepage 'http://www.dafont.com/charcoal-first.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'char.ttf'
 end

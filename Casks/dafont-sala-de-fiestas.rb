@@ -5,7 +5,6 @@ cask 'dafont-sala-de-fiestas' do
     url 'http://dl.dafont.com/dl/?f=sala_de_fiestas'
     name 'Sala de Fiestas'
     homepage 'http://www.dafont.com/sala-de-fiestas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sala de Fiestas Out.ttf'
     font 'Sala de Fiestas.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-multicolore' do
     url 'http://dl.dafont.com/dl/?f=multicolore'
     name 'Multicolore'
     homepage 'http://www.dafont.com/multicolore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Multicolore.otf'
 end

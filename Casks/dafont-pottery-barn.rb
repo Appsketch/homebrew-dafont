@@ -5,7 +5,6 @@ cask 'dafont-pottery-barn' do
     url 'http://dl.dafont.com/dl/?f=pottery_barn'
     name 'Pottery Barn'
     homepage 'http://www.dafont.com/pottery-barn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POTTERYB.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-arrow-symbols-1' do
     url 'http://dl.dafont.com/dl/?f=arrow_symbols_1'
     name 'Arrow Symbols 1'
     homepage 'http://www.dafont.com/arrow-symbols-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arrow Symbols 1.ttf'
 end

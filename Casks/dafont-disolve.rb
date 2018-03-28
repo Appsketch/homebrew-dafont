@@ -5,7 +5,6 @@ cask 'dafont-disolve' do
     url 'http://dl.dafont.com/dl/?f=disolve'
     name 'Disolve'
     homepage 'http://www.dafont.com/disolve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Disolve_light.ttf'
     font 'Disolve_regular.ttf'

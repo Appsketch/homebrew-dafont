@@ -5,7 +5,6 @@ cask 'dafont-trucks-for-judy' do
     url 'http://dl.dafont.com/dl/?f=trucks_for_judy'
     name 'Trucks For Judy'
     homepage 'http://www.dafont.com/trucks-for-judy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRUCJS__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mediaeval-bats' do
     url 'http://dl.dafont.com/dl/?f=mediaeval_bats'
     name 'Mediaeval Bats'
     homepage 'http://www.dafont.com/mediaeval-bats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MediaevalBats.ttf'
 end

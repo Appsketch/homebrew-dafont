@@ -5,7 +5,6 @@ cask 'dafont-london-between' do
     url 'http://dl.dafont.com/dl/?f=london_between'
     name 'London'
     homepage 'http://www.dafont.com/london-between.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LondonBetween.ttf'
     font 'LondonMM.ttf'

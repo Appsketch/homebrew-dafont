@@ -5,7 +5,6 @@ cask 'dafont-lindas-lament' do
     url 'http://dl.dafont.com/dl/?f=lindas_lament'
     name 'Linda&#039;s Lament'
     homepage 'http://www.dafont.com/lindas-lament.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LINDL___.TTF'
 end

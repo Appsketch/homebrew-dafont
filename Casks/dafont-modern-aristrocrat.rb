@@ -5,7 +5,6 @@ cask 'dafont-modern-aristrocrat' do
     url 'http://dl.dafont.com/dl/?f=modern_aristrocrat'
     name 'Modern Aristrocrat'
     homepage 'http://www.dafont.com/modern-aristrocrat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Modern Aristocrat.ttf'
 end

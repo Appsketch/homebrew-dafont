@@ -5,7 +5,6 @@ cask 'dafont-infinit-dingbats' do
     url 'http://dl.dafont.com/dl/?f=infinit_dingbats'
     name 'Infinit Dingbats'
     homepage 'http://www.dafont.com/infinit-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INFID___.TTF'
 end

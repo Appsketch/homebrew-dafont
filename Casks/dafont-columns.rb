@@ -5,7 +5,6 @@ cask 'dafont-columns' do
     url 'http://dl.dafont.com/dl/?f=columns'
     name 'Columns'
     homepage 'http://www.dafont.com/columns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Columns.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-skeleton-sketched' do
     url 'http://dl.dafont.com/dl/?f=skeleton_sketched'
     name 'Skeleton Sketched'
     homepage 'http://www.dafont.com/skeleton-sketched.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkeletonSketched.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sl-zodiac-icons' do
     url 'http://dl.dafont.com/dl/?f=sl_zodiac_icons'
     name 'SL Zodiac Icons'
     homepage 'http://www.dafont.com/sl-zodiac-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SL Zodiac Icons.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cm-garaflora' do
     url 'http://dl.dafont.com/dl/?f=cm_garaflora'
     name 'CM Garaflora'
     homepage 'http://www.dafont.com/cm-garaflora.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM Garaflora.ttf'
 end

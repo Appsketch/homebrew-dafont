@@ -5,7 +5,6 @@ cask 'dafont-casa-sans' do
     url 'http://dl.dafont.com/dl/?f=casa_sans'
     name 'Casa Sans'
     homepage 'http://www.dafont.com/casa-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'casa_sans.ttf'
 end

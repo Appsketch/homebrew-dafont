@@ -5,7 +5,6 @@ cask 'dafont-jbrond' do
     url 'http://dl.dafont.com/dl/?f=jbrond'
     name 'JB Rond'
     homepage 'http://www.dafont.com/jbrond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JBRond.ttf'
 end

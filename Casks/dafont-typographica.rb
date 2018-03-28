@@ -5,7 +5,6 @@ cask 'dafont-typographica' do
     url 'http://dl.dafont.com/dl/?f=typographica'
     name 'TypoGraphica'
     homepage 'http://www.dafont.com/typographica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TypoGraphica.otf'
 end

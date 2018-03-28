@@ -5,7 +5,6 @@ cask 'dafont-horny-devils' do
     url 'http://dl.dafont.com/dl/?f=horny_devils'
     name 'Horny Devils'
     homepage 'http://www.dafont.com/horny-devils.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HORNDB__.TTF'
 end

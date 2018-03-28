@@ -5,7 +5,6 @@ cask 'dafont-somewhere-in-space' do
     url 'http://dl.dafont.com/dl/?f=somewhere_in_space'
     name 'Somewhere In Space'
     homepage 'http://www.dafont.com/somewhere-in-space.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SOMWHEREINSPACE.ttf'
 end

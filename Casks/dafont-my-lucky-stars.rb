@@ -5,7 +5,6 @@ cask 'dafont-my-lucky-stars' do
     url 'http://dl.dafont.com/dl/?f=my_lucky_stars'
     name 'My Lucky Stars!'
     homepage 'http://www.dafont.com/my-lucky-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'my_lucky_stars.ttf'
 end

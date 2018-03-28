@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-all-my-love' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_all_my_love'
     name 'Austie Bost All My Love'
     homepage 'http://www.dafont.com/austie-bost-all-my-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost All My Love.ttf'
 end

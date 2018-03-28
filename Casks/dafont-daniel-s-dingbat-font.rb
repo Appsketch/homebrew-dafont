@@ -5,7 +5,6 @@ cask 'dafont-daniel-s-dingbat-font' do
     url 'http://dl.dafont.com/dl/?f=daniel_s_dingbat_font'
     name 'Daniel&#039;s Dingbat Font'
     homepage 'http://www.dafont.com/daniel-s-dingbat-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Daniel_s_Dingbat_Font-3.ttf'
 end

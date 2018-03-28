@@ -5,7 +5,6 @@ cask 'dafont-mf-still-kinda-ridiculous' do
     url 'http://dl.dafont.com/dl/?f=mf_still_kinda_ridiculous'
     name 'Mf Still Kinda Ridiculous'
     homepage 'http://www.dafont.com/mf-still-kinda-ridiculous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Still Kinda Ridiculous 2.ttf'
     font 'Mf Still Kinda Ridiculous 3.ttf'

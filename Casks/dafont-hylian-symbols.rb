@@ -5,7 +5,6 @@ cask 'dafont-hylian-symbols' do
     url 'http://dl.dafont.com/dl/?f=hylian_symbols'
     name 'Hylian Symbols'
     homepage 'http://www.dafont.com/hylian-symbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hylian Symbols.ttf'
 end

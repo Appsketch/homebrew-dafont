@@ -5,7 +5,6 @@ cask 'dafont-translation' do
     url 'http://dl.dafont.com/dl/?f=translation'
     name 'Translation'
     homepage 'http://www.dafont.com/translation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'translation.ttf'
 end

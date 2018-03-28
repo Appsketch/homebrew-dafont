@@ -5,7 +5,6 @@ cask 'dafont-penmanship' do
     url 'http://dl.dafont.com/dl/?f=penmanship'
     name 'Penmanship Print'
     homepage 'http://www.dafont.com/penmanship.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PENMP___.TTF'
 end

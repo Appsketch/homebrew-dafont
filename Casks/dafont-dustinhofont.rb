@@ -5,7 +5,6 @@ cask 'dafont-dustinhofont' do
     url 'http://dl.dafont.com/dl/?f=dustinhofont'
     name 'Dustinhofont'
     homepage 'http://www.dafont.com/dustinhofont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dustinhofont_beta.ttf'
 end

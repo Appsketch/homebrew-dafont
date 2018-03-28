@@ -5,7 +5,6 @@ cask 'dafont-apothecaryfont' do
     url 'http://dl.dafont.com/dl/?f=apothecaryfont'
     name 'Apothecary'
     homepage 'http://www.dafont.com/apothecaryfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Apothecary Font.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-space-shop' do
     url 'http://dl.dafont.com/dl/?f=space_shop'
     name 'Space Shop'
     homepage 'http://www.dafont.com/space-shop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Space Shop.ttf'
 end

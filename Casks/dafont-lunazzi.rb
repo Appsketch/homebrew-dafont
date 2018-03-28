@@ -5,7 +5,6 @@ cask 'dafont-lunazzi' do
     url 'http://dl.dafont.com/dl/?f=lunazzi'
     name 'Lunazzi'
     homepage 'http://www.dafont.com/lunazzi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lunazzi.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-star-constellation' do
     url 'http://dl.dafont.com/dl/?f=star_constellation'
     name 'Star Constellation'
     homepage 'http://www.dafont.com/star-constellation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'star constellation.ttf'
 end

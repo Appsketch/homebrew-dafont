@@ -5,7 +5,6 @@ cask 'dafont-hiatus' do
     url 'http://dl.dafont.com/dl/?f=hiatus'
     name 'Hiatus'
     homepage 'http://www.dafont.com/hiatus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hiatus-Regular.otf'
 end

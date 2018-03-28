@@ -5,7 +5,6 @@ cask 'dafont-lettres-ombrees-orn' do
     url 'http://dl.dafont.com/dl/?f=lettres_ombrees_orn'
     name 'Lettres ombr&eacute;es orn&eacute;es'
     homepage 'http://www.dafont.com/lettres-ombrees-orn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lettres.ttf'
 end

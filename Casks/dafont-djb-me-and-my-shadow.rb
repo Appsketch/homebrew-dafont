@@ -5,7 +5,6 @@ cask 'dafont-djb-me-and-my-shadow' do
     url 'http://dl.dafont.com/dl/?f=djb_me_and_my_shadow'
     name 'DJB Me and My Shadow'
     homepage 'http://www.dafont.com/djb-me-and-my-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Me and My Shadow Dark.ttf'
     font 'DJB Me and My Shadow Light.ttf'

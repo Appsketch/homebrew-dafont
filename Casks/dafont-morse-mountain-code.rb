@@ -5,7 +5,6 @@ cask 'dafont-morse-mountain-code' do
     url 'http://dl.dafont.com/dl/?f=morse_mountain_code'
     name 'Morse Mountain Code'
     homepage 'http://www.dafont.com/morse-mountain-code.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MorseMountainCode.ttf'
 end

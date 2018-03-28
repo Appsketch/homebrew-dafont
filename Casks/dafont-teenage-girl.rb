@@ -5,7 +5,6 @@ cask 'dafont-teenage-girl' do
     url 'http://dl.dafont.com/dl/?f=teenage_girl'
     name 'Teenage Girl'
     homepage 'http://www.dafont.com/teenage-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Teenage Girl 1.ttf'
     font 'Teenage Girl 2.ttf'

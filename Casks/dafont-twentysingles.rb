@@ -5,7 +5,6 @@ cask 'dafont-twentysingles' do
     url 'http://dl.dafont.com/dl/?f=twentysingles'
     name 'Twenty Singles'
     homepage 'http://www.dafont.com/twentysingles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TwentySingles.ttf'
 end

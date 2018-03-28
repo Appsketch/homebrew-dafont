@@ -5,7 +5,6 @@ cask 'dafont-sincere-heart' do
     url 'http://dl.dafont.com/dl/?f=sincere_heart'
     name 'Sincere Heart'
     homepage 'http://www.dafont.com/sincere-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sincere Heart.ttf'
 end

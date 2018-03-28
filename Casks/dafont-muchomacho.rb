@@ -5,7 +5,6 @@ cask 'dafont-muchomacho' do
     url 'http://dl.dafont.com/dl/?f=muchomacho'
     name 'Mucho Macho'
     homepage 'http://www.dafont.com/muchomacho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'muchomacho.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chess-tfb' do
     url 'http://dl.dafont.com/dl/?f=chess_tfb'
     name 'Chess TFB'
     homepage 'http://www.dafont.com/chess-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chess TFB.ttf'
 end

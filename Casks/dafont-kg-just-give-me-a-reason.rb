@@ -5,7 +5,6 @@ cask 'dafont-kg-just-give-me-a-reason' do
     url 'http://dl.dafont.com/dl/?f=kg_just_give_me_a_reason'
     name 'KG Just Give Me A Reason'
     homepage 'http://www.dafont.com/kg-just-give-me-a-reason.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGJustGiveMeAReason.ttf'
 end

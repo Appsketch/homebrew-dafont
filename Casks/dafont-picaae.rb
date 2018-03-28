@@ -5,7 +5,6 @@ cask 'dafont-picaae' do
     url 'http://dl.dafont.com/dl/?f=picaae'
     name 'Picaae'
     homepage 'http://www.dafont.com/picaae.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'picaae.ttf'
 end

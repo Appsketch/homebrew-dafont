@@ -5,7 +5,6 @@ cask 'dafont-dead-letter-office' do
     url 'http://dl.dafont.com/dl/?f=dead_letter_office'
     name 'Dead Letter Office'
     homepage 'http://www.dafont.com/dead-letter-office.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dlo15/deadlof_.ttf'
     font 'dlo17/deadlos_.ttf'

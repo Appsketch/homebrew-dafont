@@ -5,7 +5,6 @@ cask 'dafont-jokioinen' do
     url 'http://dl.dafont.com/dl/?f=jokioinen'
     name 'Jokioinen'
     homepage 'http://www.dafont.com/jokioinen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jokioinen.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-crap-music' do
     url 'http://dl.dafont.com/dl/?f=crap_music'
     name 'Crap Music'
     homepage 'http://www.dafont.com/crap-music.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRAPM___.TTF'
 end

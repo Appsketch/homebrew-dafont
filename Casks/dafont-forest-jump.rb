@@ -5,7 +5,6 @@ cask 'dafont-forest-jump' do
     url 'http://dl.dafont.com/dl/?f=forest_jump'
     name 'Forest Jump'
     homepage 'http://www.dafont.com/forest-jump.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FOREST JUMP.ttf'
 end

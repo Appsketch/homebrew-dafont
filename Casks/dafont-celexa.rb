@@ -5,7 +5,6 @@ cask 'dafont-celexa' do
     url 'http://dl.dafont.com/dl/?f=celexa'
     name 'Celexa'
     homepage 'http://www.dafont.com/celexa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'celexa__.ttf'
 end

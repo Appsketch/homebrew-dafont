@@ -5,7 +5,6 @@ cask 'dafont-eadesigner' do
     url 'http://dl.dafont.com/dl/?f=eadesigner'
     name 'EaDesigner'
     homepage 'http://www.dafont.com/eadesigner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EaDesignerBold.ttf'
     font 'EaDesignerRegular.ttf'

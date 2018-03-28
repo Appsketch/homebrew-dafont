@@ -5,7 +5,6 @@ cask 'dafont-v5bloques' do
     url 'http://dl.dafont.com/dl/?f=v5bloques'
     name 'V5 Bloques'
     homepage 'http://www.dafont.com/v5bloques.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'V5_bloques.ttf'
 end

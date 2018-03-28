@@ -5,7 +5,6 @@ cask 'dafont-codex-gigas' do
     url 'http://dl.dafont.com/dl/?f=codex_gigas'
     name 'Codex Gigas'
     homepage 'http://www.dafont.com/codex-gigas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Codex Gigas.ttf'
 end

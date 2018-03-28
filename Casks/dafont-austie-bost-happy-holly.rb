@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-happy-holly' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_happy_holly'
     name 'Austie Bost Happy Holly'
     homepage 'http://www.dafont.com/austie-bost-happy-holly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Happy Holly.ttf'
 end

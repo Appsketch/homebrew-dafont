@@ -5,7 +5,6 @@ cask 'dafont-lame' do
     url 'http://dl.dafont.com/dl/?f=lame'
     name 'Lame'
     homepage 'http://www.dafont.com/lame.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lame.ttf'
 end

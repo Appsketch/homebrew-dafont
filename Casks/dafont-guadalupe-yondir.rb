@@ -5,7 +5,6 @@ cask 'dafont-guadalupe-yondir' do
     url 'http://dl.dafont.com/dl/?f=guadalupe_yondir'
     name 'Guadalupe'
     homepage 'http://www.dafont.com/guadalupe-yondir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GUADALUPE.ttf'
 end

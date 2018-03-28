@@ -5,7 +5,6 @@ cask 'dafont-dk-jalebi' do
     url 'http://dl.dafont.com/dl/?f=dk_jalebi'
     name 'DK Jalebi'
     homepage 'http://www.dafont.com/dk-jalebi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Jalebi.otf'
 end

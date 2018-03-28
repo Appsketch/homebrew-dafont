@@ -5,7 +5,6 @@ cask 'dafont-forsale' do
     url 'http://dl.dafont.com/dl/?f=forsale'
     name 'For Sale'
     homepage 'http://www.dafont.com/forsale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ForSale.ttf'
 end

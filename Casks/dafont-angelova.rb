@@ -5,7 +5,6 @@ cask 'dafont-angelova' do
     url 'http://dl.dafont.com/dl/?f=angelova'
     name 'Angelova'
     homepage 'http://www.dafont.com/angelova.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angelova.ttf'
 end

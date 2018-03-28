@@ -5,7 +5,6 @@ cask 'dafont-sharpz' do
     url 'http://dl.dafont.com/dl/?f=sharpz'
     name 'Sharpz'
     homepage 'http://www.dafont.com/sharpz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sharpz.ttf'
 end

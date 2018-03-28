@@ -5,7 +5,6 @@ cask 'dafont-lola' do
     url 'http://dl.dafont.com/dl/?f=lola'
     name 'Lola'
     homepage 'http://www.dafont.com/lola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lola.ttf'
 end

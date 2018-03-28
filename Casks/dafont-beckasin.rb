@@ -5,7 +5,6 @@ cask 'dafont-beckasin' do
     url 'http://dl.dafont.com/dl/?f=beckasin'
     name 'Beckasin'
     homepage 'http://www.dafont.com/beckasin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beckasin.ttf'
 end

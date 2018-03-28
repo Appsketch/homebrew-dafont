@@ -5,7 +5,6 @@ cask 'dafont-19th-century-renegade' do
     url 'http://dl.dafont.com/dl/?f=19th_century_renegade'
     name '19th Century Renegade'
     homepage 'http://www.dafont.com/19th-century-renegade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '19th Century Renegade.otf'
 end

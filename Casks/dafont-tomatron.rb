@@ -5,7 +5,6 @@ cask 'dafont-tomatron' do
     url 'http://dl.dafont.com/dl/?f=tomatron'
     name 'Tomatron'
     homepage 'http://www.dafont.com/tomatron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tomatron.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lucek' do
     url 'http://dl.dafont.com/dl/?f=lucek'
     name 'Lucek'
     homepage 'http://www.dafont.com/lucek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LUCJANO.ttf'
 end

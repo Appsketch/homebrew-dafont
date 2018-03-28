@@ -5,7 +5,6 @@ cask 'dafont-edit-undo' do
     url 'http://dl.dafont.com/dl/?f=edit_undo'
     name 'Edit Undo'
     homepage 'http://www.dafont.com/edit-undo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'editundo.ttf'
 end

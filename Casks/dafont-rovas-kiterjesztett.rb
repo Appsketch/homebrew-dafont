@@ -5,7 +5,6 @@ cask 'dafont-rovas-kiterjesztett' do
     url 'http://dl.dafont.com/dl/?f=rovas_kiterjesztett'
     name 'Rovas Kiterjesztett'
     homepage 'http://www.dafont.com/rovas-kiterjesztett.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rovas_kiterjesztett.ttf'
 end

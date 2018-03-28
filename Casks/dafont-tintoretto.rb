@@ -5,7 +5,6 @@ cask 'dafont-tintoretto' do
     url 'http://dl.dafont.com/dl/?f=tintoretto'
     name 'Tintoretto'
     homepage 'http://www.dafont.com/tintoretto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tintoretto.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-courwette' do
     url 'http://dl.dafont.com/dl/?f=courwette'
     name 'Courwette'
     homepage 'http://www.dafont.com/courwette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Courwette.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bignoodle-titling' do
     url 'http://dl.dafont.com/dl/?f=bignoodle_titling'
     name 'Big Noodle Titling'
     homepage 'http://www.dafont.com/bignoodle-titling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'big_noodle_titling_oblique.ttf'
     font 'big_noodle_titling.ttf'

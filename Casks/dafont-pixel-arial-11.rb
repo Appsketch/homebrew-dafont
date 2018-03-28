@@ -5,7 +5,6 @@ cask 'dafont-pixel-arial-11' do
     url 'http://dl.dafont.com/dl/?f=pixel_arial_11'
     name 'Pixel Arial 11'
     homepage 'http://www.dafont.com/pixel-arial-11.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIXEAB__.TTF'
     font 'PIXEARG_.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-topeka' do
     url 'http://dl.dafont.com/dl/?f=topeka'
     name 'Topeka'
     homepage 'http://www.dafont.com/topeka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Topeka.ttf'
 end

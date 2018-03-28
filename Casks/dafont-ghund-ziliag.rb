@@ -5,7 +5,6 @@ cask 'dafont-ghund-ziliag' do
     url 'http://dl.dafont.com/dl/?f=ghund_ziliag'
     name 'Ghund Ziliag'
     homepage 'http://www.dafont.com/ghund-ziliag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ghund Ziliag.ttf'
 end

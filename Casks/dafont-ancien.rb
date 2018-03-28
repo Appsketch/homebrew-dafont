@@ -5,7 +5,6 @@ cask 'dafont-ancien' do
     url 'http://dl.dafont.com/dl/?f=ancien'
     name 'Ancien'
     homepage 'http://www.dafont.com/ancien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ancien.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-weird-tucan-noobs-from-saint-se' do
     url 'http://dl.dafont.com/dl/?f=weird_tucan_noobs_from_saint_se'
     name 'Weird Tucan-Noobs from Saint Seson'
     homepage 'http://www.dafont.com/weird-tucan-noobs-from-saint-se.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Weird Tucan-Noobs from Saint Seson.ttf'
 end

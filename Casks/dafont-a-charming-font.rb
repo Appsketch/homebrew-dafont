@@ -5,7 +5,6 @@ cask 'dafont-a-charming-font' do
     url 'http://dl.dafont.com/dl/?f=a_charming_font'
     name 'A Charming Font'
     homepage 'http://www.dafont.com/a-charming-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Achafexp.ttf'
     font 'Achafita.ttf'

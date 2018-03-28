@@ -5,7 +5,6 @@ cask 'dafont-alice-in-wonderland' do
     url 'http://dl.dafont.com/dl/?f=alice_in_wonderland'
     name 'Alice in Wonderland'
     homepage 'http://www.dafont.com/alice-in-wonderland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alice_in_Wonderland_3.ttf'
 end

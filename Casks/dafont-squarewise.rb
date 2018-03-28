@@ -5,7 +5,6 @@ cask 'dafont-squarewise' do
     url 'http://dl.dafont.com/dl/?f=squarewise'
     name 'SquareWise'
     homepage 'http://www.dafont.com/squarewise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SquareWise.ttf'
 end

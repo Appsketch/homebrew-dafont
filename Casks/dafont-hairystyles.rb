@@ -5,7 +5,6 @@ cask 'dafont-hairystyles' do
     url 'http://dl.dafont.com/dl/?f=hairystyles'
     name 'Hairy Styles'
     homepage 'http://www.dafont.com/hairystyles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HairyStyles.ttf'
 end

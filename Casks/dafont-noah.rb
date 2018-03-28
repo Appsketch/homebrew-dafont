@@ -5,7 +5,6 @@ cask 'dafont-noah' do
     url 'http://dl.dafont.com/dl/?f=noah'
     name 'Noah'
     homepage 'http://www.dafont.com/noah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'noah.ttf'
 end

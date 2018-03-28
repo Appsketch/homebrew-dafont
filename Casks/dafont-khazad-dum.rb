@@ -5,7 +5,6 @@ cask 'dafont-khazad-dum' do
     url 'http://dl.dafont.com/dl/?f=khazad_dum'
     name 'Khazad-Dum'
     homepage 'http://www.dafont.com/khazad-dum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'khazad.ttf'
     font 'khazad3d.ttf'

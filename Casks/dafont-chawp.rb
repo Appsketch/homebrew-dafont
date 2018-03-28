@@ -5,7 +5,6 @@ cask 'dafont-chawp' do
     url 'http://dl.dafont.com/dl/?f=chawp'
     name 'Chawp'
     homepage 'http://www.dafont.com/chawp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chawp.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-raysha-110907' do
     url 'http://dl.dafont.com/dl/?f=raysha_110907'
     name 'Raysha 110907'
     homepage 'http://www.dafont.com/raysha-110907.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'raysha.ttf'
 end

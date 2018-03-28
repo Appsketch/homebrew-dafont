@@ -5,7 +5,6 @@ cask 'dafont-raslani-tribal' do
     url 'http://dl.dafont.com/dl/?f=raslani_tribal'
     name 'Raslani Tribal'
     homepage 'http://www.dafont.com/raslani-tribal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raslani Tribal.ttf'
 end

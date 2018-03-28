@@ -5,7 +5,6 @@ cask 'dafont-devil-breeze' do
     url 'http://dl.dafont.com/dl/?f=devil_breeze'
     name 'Devil Breeze'
     homepage 'http://www.dafont.com/devil-breeze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Devil Breeze Bold.ttf'
     font 'Devil Breeze Book.ttf'

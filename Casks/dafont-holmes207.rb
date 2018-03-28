@@ -5,7 +5,6 @@ cask 'dafont-holmes207' do
     url 'http://dl.dafont.com/dl/?f=holmes207'
     name 'Holmes 207'
     homepage 'http://www.dafont.com/holmes207.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Holmes207.ttf'
 end

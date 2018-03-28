@@ -5,7 +5,6 @@ cask 'dafont-electromagnetic-lungs' do
     url 'http://dl.dafont.com/dl/?f=electromagnetic_lungs'
     name 'Electromagnetic Lungs'
     homepage 'http://www.dafont.com/electromagnetic-lungs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Electromagnetic Lungs.otf'
 end

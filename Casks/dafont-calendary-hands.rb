@@ -5,7 +5,6 @@ cask 'dafont-calendary-hands' do
     url 'http://dl.dafont.com/dl/?f=calendary_hands'
     name 'Calendary Hands'
     homepage 'http://www.dafont.com/calendary-hands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CalendaryHands_PERSONAL_USE_ONLY.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-everything-more' do
     url 'http://dl.dafont.com/dl/?f=everything_more'
     name 'Everything More'
     homepage 'http://www.dafont.com/everything-more.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EVERYTHING MORE.ttf'
 end

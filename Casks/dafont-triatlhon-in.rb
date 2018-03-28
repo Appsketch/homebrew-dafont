@@ -5,7 +5,6 @@ cask 'dafont-triatlhon-in' do
     url 'http://dl.dafont.com/dl/?f=triatlhon_in'
     name 'Triatlhon In'
     homepage 'http://www.dafont.com/triatlhon-in.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Triatlhon In.ttf'
 end

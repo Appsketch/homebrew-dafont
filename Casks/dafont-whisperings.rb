@@ -5,7 +5,6 @@ cask 'dafont-whisperings' do
     url 'http://dl.dafont.com/dl/?f=whisperings'
     name 'Whisperings'
     homepage 'http://www.dafont.com/whisperings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Whisperings.otf'
 end

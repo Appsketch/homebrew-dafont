@@ -5,7 +5,6 @@ cask 'dafont-sf-gothican' do
     url 'http://dl.dafont.com/dl/?f=sf_gothican'
     name 'SF Gothican'
     homepage 'http://www.dafont.com/sf-gothican.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Gothican Bold Italic.ttf'
     font 'SF Gothican Bold.ttf'

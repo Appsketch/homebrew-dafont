@@ -5,7 +5,6 @@ cask 'dafont-ugran' do
     url 'http://dl.dafont.com/dl/?f=ugran'
     name 'Ugran'
     homepage 'http://www.dafont.com/ugran.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ugran.ttf'
 end

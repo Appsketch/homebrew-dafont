@@ -5,7 +5,6 @@ cask 'dafont-if-i-had-one-wish' do
     url 'http://dl.dafont.com/dl/?f=if_i_had_one_wish'
     name 'If I Had One Wish'
     homepage 'http://www.dafont.com/if-i-had-one-wish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'If I Had One Wish .ttf'
 end

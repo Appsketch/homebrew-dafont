@@ -5,7 +5,6 @@ cask 'dafont-majorscare' do
     url 'http://dl.dafont.com/dl/?f=majorscare'
     name 'Major Scare'
     homepage 'http://www.dafont.com/majorscare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MajorScare.ttf'
 end

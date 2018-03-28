@@ -5,7 +5,6 @@ cask 'dafont-connie' do
     url 'http://dl.dafont.com/dl/?f=connie'
     name 'Connie'
     homepage 'http://www.dafont.com/connie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Connie-Regular.ttf'
 end

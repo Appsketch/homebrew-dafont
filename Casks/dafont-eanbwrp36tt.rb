@@ -5,7 +5,6 @@ cask 'dafont-eanbwrp36tt' do
     url 'http://dl.dafont.com/dl/?f=eanbwrp36tt'
     name 'eanbwrp36tt'
     homepage 'http://www.dafont.com/eanbwrp36tt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eanbwrp36tt.ttf'
 end

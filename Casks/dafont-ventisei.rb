@@ -5,7 +5,6 @@ cask 'dafont-ventisei' do
     url 'http://dl.dafont.com/dl/?f=ventisei'
     name 'Ventisei'
     homepage 'http://www.dafont.com/ventisei.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ventisei.otf'
 end

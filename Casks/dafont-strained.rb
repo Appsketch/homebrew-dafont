@@ -5,7 +5,6 @@ cask 'dafont-strained' do
     url 'http://dl.dafont.com/dl/?f=strained'
     name 'Strained'
     homepage 'http://www.dafont.com/strained.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strained Capitals.otf'
     font 'Strained.otf'

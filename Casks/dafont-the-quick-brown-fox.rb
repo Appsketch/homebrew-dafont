@@ -5,7 +5,6 @@ cask 'dafont-the-quick-brown-fox' do
     url 'http://dl.dafont.com/dl/?f=the_quick_brown_fox'
     name 'The quick brown fox'
     homepage 'http://www.dafont.com/the-quick-brown-fox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The_quick_brown_fox.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-second-hand-shop' do
     url 'http://dl.dafont.com/dl/?f=second_hand_shop'
     name 'Second Hand Shop'
     homepage 'http://www.dafont.com/second-hand-shop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'second_hand_shop.ttf'
 end

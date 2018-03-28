@@ -5,7 +5,6 @@ cask 'dafont-almost-like-the-blues' do
     url 'http://dl.dafont.com/dl/?f=almost_like_the_blues'
     name 'Almost like the blues'
     homepage 'http://www.dafont.com/almost-like-the-blues.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Almost like the blues.ttf'
 end

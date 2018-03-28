@@ -5,7 +5,6 @@ cask 'dafont-ticket-capitals' do
     url 'http://dl.dafont.com/dl/?f=ticket_capitals'
     name 'Ticket Capitals'
     homepage 'http://www.dafont.com/ticket-capitals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TICKCI__.TTF'
     font 'TICKCR__.TTF'

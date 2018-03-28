@@ -5,7 +5,6 @@ cask 'dafont-skinny-vanilla-latte' do
     url 'http://dl.dafont.com/dl/?f=skinny_vanilla_latte'
     name 'Skinny Vanilla Latte'
     homepage 'http://www.dafont.com/skinny-vanilla-latte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skinny Vanilla Latte.ttf'
 end

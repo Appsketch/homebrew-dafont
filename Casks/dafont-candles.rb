@@ -5,7 +5,6 @@ cask 'dafont-candles' do
     url 'http://dl.dafont.com/dl/?f=candles'
     name 'Candles'
     homepage 'http://www.dafont.com/candles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Candles Chrome.ttf'
     font 'Candles_.TTF'

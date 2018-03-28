@@ -5,7 +5,6 @@ cask 'dafont-that-there-paul' do
     url 'http://dl.dafont.com/dl/?f=that_there_paul'
     name 'That There Paul'
     homepage 'http://www.dafont.com/that-there-paul.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thattherePaul Medium.ttf'
 end

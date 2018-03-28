@@ -5,7 +5,6 @@ cask 'dafont-rawstreetwall' do
     url 'http://dl.dafont.com/dl/?f=rawstreetwall'
     name 'RawStreetWall'
     homepage 'http://www.dafont.com/rawstreetwall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rawstreetwall_grid.ttf'
     font 'rawstreetwall.ttf'

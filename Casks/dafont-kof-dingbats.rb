@@ -5,7 +5,6 @@ cask 'dafont-kof-dingbats' do
     url 'http://dl.dafont.com/dl/?f=kof_dingbats'
     name 'KOF Dingbats'
     homepage 'http://www.dafont.com/kof-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOF DINGBATS.ttf'
 end

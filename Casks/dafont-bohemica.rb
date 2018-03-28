@@ -5,7 +5,6 @@ cask 'dafont-bohemica' do
     url 'http://dl.dafont.com/dl/?f=bohemica'
     name 'Bohemica'
     homepage 'http://www.dafont.com/bohemica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bohemica.ttf'
 end

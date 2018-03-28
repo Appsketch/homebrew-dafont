@@ -5,7 +5,6 @@ cask 'dafont-egyptian-hieroglyphs-silhouette' do
     url 'http://dl.dafont.com/dl/?f=egyptian_hieroglyphs_silhouette'
     name 'Egyptian Hieroglyphs Silhouette'
     homepage 'http://www.dafont.com/egyptian-hieroglyphs-silhouette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EgyptianHieroglyphsSilhouet.otf'
 end

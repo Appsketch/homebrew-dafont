@@ -5,7 +5,6 @@ cask 'dafont-addwbitmap09' do
     url 'http://dl.dafont.com/dl/?f=addwbitmap09'
     name 'AddWBitmap09'
     homepage 'http://www.dafont.com/addwbitmap09.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ADDWB___.TTF'
 end

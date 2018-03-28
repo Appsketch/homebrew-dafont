@@ -5,7 +5,6 @@ cask 'dafont-yoicks' do
     url 'http://dl.dafont.com/dl/?f=yoicks'
     name 'Yoicks'
     homepage 'http://www.dafont.com/yoicks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YOICKS__.TTF'
 end

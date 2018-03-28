@@ -5,7 +5,6 @@ cask 'dafont-patinio-contexto' do
     url 'http://dl.dafont.com/dl/?f=patinio_contexto'
     name 'Patinio Contexto'
     homepage 'http://www.dafont.com/patinio-contexto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Patinio Contexto.ttf'
 end

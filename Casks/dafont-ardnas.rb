@@ -5,7 +5,6 @@ cask 'dafont-ardnas' do
     url 'http://dl.dafont.com/dl/?f=ardnas'
     name 'Ardnas'
     homepage 'http://www.dafont.com/ardnas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ardnas.otf'
 end

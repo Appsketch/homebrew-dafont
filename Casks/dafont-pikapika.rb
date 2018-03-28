@@ -5,7 +5,6 @@ cask 'dafont-pikapika' do
     url 'http://dl.dafont.com/dl/?f=pikapika'
     name 'Pika Pika'
     homepage 'http://www.dafont.com/pikapika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PikaPika.ttf'
 end

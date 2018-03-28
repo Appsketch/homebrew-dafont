@@ -5,7 +5,6 @@ cask 'dafont-oblaque' do
     url 'http://dl.dafont.com/dl/?f=oblaque'
     name 'Oblaque '
     homepage 'http://www.dafont.com/oblaque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oblaque Oblique.ttf'
 end

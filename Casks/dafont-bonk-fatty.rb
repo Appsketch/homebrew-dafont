@@ -5,7 +5,6 @@ cask 'dafont-bonk-fatty' do
     url 'http://dl.dafont.com/dl/?f=bonk_fatty'
     name 'Bonk Fatty'
     homepage 'http://www.dafont.com/bonk-fatty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonk.ttf'
     font 'Bonkcoll.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-hff-kids-stuff' do
     url 'http://dl.dafont.com/dl/?f=hff_kids_stuff'
     name 'HFF Kids Stuff'
     homepage 'http://www.dafont.com/hff-kids-stuff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Kids Stuff.ttf'
 end

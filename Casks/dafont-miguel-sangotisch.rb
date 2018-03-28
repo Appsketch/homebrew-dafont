@@ -5,7 +5,6 @@ cask 'dafont-miguel-sangotisch' do
     url 'http://dl.dafont.com/dl/?f=miguel_sangotisch'
     name 'Miguel Sangotisch'
     homepage 'http://www.dafont.com/miguel-sangotisch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miguel Sangotisch Grungeze.otf'
     font 'Miguel Sangotisch.otf'

@@ -5,7 +5,6 @@ cask 'dafont-ziperhead' do
     url 'http://dl.dafont.com/dl/?f=ziperhead'
     name 'Ziperhead'
     homepage 'http://www.dafont.com/ziperhead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZIPERHEA.TTF'
 end

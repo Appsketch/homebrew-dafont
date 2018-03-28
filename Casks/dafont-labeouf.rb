@@ -5,7 +5,6 @@ cask 'dafont-labeouf' do
     url 'http://dl.dafont.com/dl/?f=labeouf'
     name 'LaBeouf'
     homepage 'http://www.dafont.com/labeouf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaBeouf Bold Italic.ttf'
     font 'LaBeouf Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-quo-vadis-quasimodo' do
     url 'http://dl.dafont.com/dl/?f=quo_vadis_quasimodo'
     name 'Quo Vadis Quasimodo'
     homepage 'http://www.dafont.com/quo-vadis-quasimodo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuoVadisQuasimodo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-quand-tu-dors' do
     url 'http://dl.dafont.com/dl/?f=quand_tu_dors'
     name 'Quand tu dors...'
     homepage 'http://www.dafont.com/quand-tu-dors.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quand_tu_dors_.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-5space-station' do
     url 'http://dl.dafont.com/dl/?f=5space_station'
     name '5 Space Station'
     homepage 'http://www.dafont.com/5space-station.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5Space-Station.ttf'
 end

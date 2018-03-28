@@ -5,7 +5,6 @@ cask 'dafont-sugo' do
     url 'http://dl.dafont.com/dl/?f=sugo'
     name 'Sugo'
     homepage 'http://www.dafont.com/sugo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sugo_ExtraLight.otf'
     font 'Sugo.otf'

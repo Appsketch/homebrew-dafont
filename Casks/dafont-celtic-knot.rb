@@ -5,7 +5,6 @@ cask 'dafont-celtic-knot' do
     url 'http://dl.dafont.com/dl/?f=celtic_knot'
     name 'Celtic Knot'
     homepage 'http://www.dafont.com/celtic-knot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Celtic Knot.TTF'
 end

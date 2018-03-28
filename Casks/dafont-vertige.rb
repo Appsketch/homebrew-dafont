@@ -5,7 +5,6 @@ cask 'dafont-vertige' do
     url 'http://dl.dafont.com/dl/?f=vertige'
     name 'Vertige'
     homepage 'http://www.dafont.com/vertige.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vertige.ttf'
 end

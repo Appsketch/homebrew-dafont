@@ -5,7 +5,6 @@ cask 'dafont-bitstream-vera-sans' do
     url 'http://dl.dafont.com/dl/?f=bitstream_vera_sans'
     name 'Bitstream Vera Sans'
     homepage 'http://www.dafont.com/bitstream-vera-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vera.ttf'
     font 'VeraBd.ttf'

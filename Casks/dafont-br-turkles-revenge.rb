@@ -5,7 +5,6 @@ cask 'dafont-br-turkles-revenge' do
     url 'http://dl.dafont.com/dl/?f=br_turkles_revenge'
     name 'BR Turkles Revenge'
     homepage 'http://www.dafont.com/br-turkles-revenge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'br_turklesrevenge.ttf'
 end

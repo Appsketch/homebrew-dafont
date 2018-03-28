@@ -5,7 +5,6 @@ cask 'dafont-spacy-stuff' do
     url 'http://dl.dafont.com/dl/?f=spacy_stuff'
     name 'Spacy Stuff'
     homepage 'http://www.dafont.com/spacy-stuff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spacy Stuff.ttf'
 end

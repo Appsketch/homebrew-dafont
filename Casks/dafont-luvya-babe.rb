@@ -5,7 +5,6 @@ cask 'dafont-luvya-babe' do
     url 'http://dl.dafont.com/dl/?f=luvya_babe'
     name 'Luvya Babe'
     homepage 'http://www.dafont.com/luvya-babe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Luvybabe.ttf'
 end

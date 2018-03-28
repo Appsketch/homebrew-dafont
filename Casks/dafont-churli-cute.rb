@@ -5,7 +5,6 @@ cask 'dafont-churli-cute' do
     url 'http://dl.dafont.com/dl/?f=churli_cute'
     name 'Churli Cute'
     homepage 'http://www.dafont.com/churli-cute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Churli_cute5.ttf'
 end

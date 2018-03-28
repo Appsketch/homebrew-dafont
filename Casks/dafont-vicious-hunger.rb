@@ -5,7 +5,6 @@ cask 'dafont-vicious-hunger' do
     url 'http://dl.dafont.com/dl/?f=vicious_hunger'
     name 'Vicious Hunger'
     homepage 'http://www.dafont.com/vicious-hunger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vicioushunger.ttf'
     font 'vicioushungercond.ttf'

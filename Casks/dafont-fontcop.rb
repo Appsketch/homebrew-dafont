@@ -5,7 +5,6 @@ cask 'dafont-fontcop' do
     url 'http://dl.dafont.com/dl/?f=fontcop'
     name 'Fontcop'
     homepage 'http://www.dafont.com/fontcop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FONTCIII.ttf'
     font 'FONTCOII.ttf'

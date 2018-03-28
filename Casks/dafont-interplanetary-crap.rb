@@ -5,7 +5,6 @@ cask 'dafont-interplanetary-crap' do
     url 'http://dl.dafont.com/dl/?f=interplanetary_crap'
     name 'Interplanetary Crap'
     homepage 'http://www.dafont.com/interplanetary-crap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'interplanetary crap.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gurunge' do
     url 'http://dl.dafont.com/dl/?f=gurunge'
     name 'Gurunge'
     homepage 'http://www.dafont.com/gurunge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gurunge.ttf'
 end

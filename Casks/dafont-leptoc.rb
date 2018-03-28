@@ -5,7 +5,6 @@ cask 'dafont-leptoc' do
     url 'http://dl.dafont.com/dl/?f=leptoc'
     name 'Leptoc'
     homepage 'http://www.dafont.com/leptoc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Leptoc.otf'
 end

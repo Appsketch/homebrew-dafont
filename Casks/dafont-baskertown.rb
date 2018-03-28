@@ -5,7 +5,6 @@ cask 'dafont-baskertown' do
     url 'http://dl.dafont.com/dl/?f=baskertown'
     name 'Baskertown'
     homepage 'http://www.dafont.com/baskertown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baskertown.ttf'
 end

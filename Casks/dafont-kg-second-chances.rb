@@ -5,7 +5,6 @@ cask 'dafont-kg-second-chances' do
     url 'http://dl.dafont.com/dl/?f=kg_second_chances'
     name 'KG Second Chances'
     homepage 'http://www.dafont.com/kg-second-chances.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGSecondChancesSketch.ttf'
     font 'KGSecondChancesSolid.ttf'

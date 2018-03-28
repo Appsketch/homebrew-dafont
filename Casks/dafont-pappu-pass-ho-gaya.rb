@@ -5,7 +5,6 @@ cask 'dafont-pappu-pass-ho-gaya' do
     url 'http://dl.dafont.com/dl/?f=pappu_pass_ho_gaya'
     name 'Pappu Pass Ho Gaya'
     homepage 'http://www.dafont.com/pappu-pass-ho-gaya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pappu pass ho gaya.ttf'
 end

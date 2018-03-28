@@ -5,7 +5,6 @@ cask 'dafont-pixel-lcd7' do
     url 'http://dl.dafont.com/dl/?f=pixel_lcd7'
     name 'Pixel LCD7'
     homepage 'http://www.dafont.com/pixel-lcd7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel LCD-7.ttf'
 end

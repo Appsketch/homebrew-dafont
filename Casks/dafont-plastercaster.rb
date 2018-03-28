@@ -5,7 +5,6 @@ cask 'dafont-plastercaster' do
     url 'http://dl.dafont.com/dl/?f=plastercaster'
     name 'Plaster Caster'
     homepage 'http://www.dafont.com/plastercaster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PlasterCaster.ttf'
 end

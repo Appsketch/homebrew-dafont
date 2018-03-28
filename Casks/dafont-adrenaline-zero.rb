@@ -5,7 +5,6 @@ cask 'dafont-adrenaline-zero' do
     url 'http://dl.dafont.com/dl/?f=adrenaline_zero'
     name 'Adrenaline : Zero'
     homepage 'http://www.dafont.com/adrenaline-zero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adrenaline Zero.ttf'
 end

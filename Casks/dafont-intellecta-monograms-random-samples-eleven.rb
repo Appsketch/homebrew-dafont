@@ -5,7 +5,6 @@ cask 'dafont-intellecta-monograms-random-samples-eleven' do
     url 'http://dl.dafont.com/dl/?f=intellecta_monograms_random_samples_eleven'
     name 'Intellecta Monograms Random Samples Eleven'
     homepage 'http://www.dafont.com/intellecta-monograms-random-samples-eleven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Intellecta Monograms Random Samples Eleven.ttf'
 end

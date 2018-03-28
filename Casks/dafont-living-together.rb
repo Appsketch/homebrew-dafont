@@ -5,7 +5,6 @@ cask 'dafont-living-together' do
     url 'http://dl.dafont.com/dl/?f=living_together'
     name 'Living Together'
     homepage 'http://www.dafont.com/living-together.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Living Together.ttf'
 end

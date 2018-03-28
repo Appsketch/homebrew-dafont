@@ -5,7 +5,6 @@ cask 'dafont-mcf-funera' do
     url 'http://dl.dafont.com/dl/?f=mcf_funera'
     name 'MCF Funera'
     homepage 'http://www.dafont.com/mcf-funera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MCF funera chaotic.ttf'
     font 'MCF funera.ttf'

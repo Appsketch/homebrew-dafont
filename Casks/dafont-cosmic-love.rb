@@ -5,7 +5,6 @@ cask 'dafont-cosmic-love' do
     url 'http://dl.dafont.com/dl/?f=cosmic_love'
     name 'Cosmic Love'
     homepage 'http://www.dafont.com/cosmic-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cosmic Love-.ttf'
 end

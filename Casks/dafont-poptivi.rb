@@ -5,7 +5,6 @@ cask 'dafont-poptivi' do
     url 'http://dl.dafont.com/dl/?f=poptivi'
     name 'PopTivi'
     homepage 'http://www.dafont.com/poptivi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PopTivi.ttf'
 end

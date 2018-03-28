@@ -5,7 +5,6 @@ cask 'dafont-amazon-palafita' do
     url 'http://dl.dafont.com/dl/?f=amazon_palafita'
     name 'Amazon Palafita'
     homepage 'http://www.dafont.com/amazon-palafita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amazon Palafita.ttf'
 end

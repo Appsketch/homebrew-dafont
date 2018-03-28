@@ -5,7 +5,6 @@ cask 'dafont-web-tools' do
     url 'http://dl.dafont.com/dl/?f=web_tools'
     name 'Web Tools'
     homepage 'http://www.dafont.com/web-tools.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Web Tools Outline.ttf'
     font 'Web Tools.ttf'

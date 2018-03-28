@@ -5,7 +5,6 @@ cask 'dafont-patchfun' do
     url 'http://dl.dafont.com/dl/?f=patchfun'
     name 'PatchFun'
     homepage 'http://www.dafont.com/patchfun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PatchFun.ttf'
 end

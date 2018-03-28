@@ -5,7 +5,6 @@ cask 'dafont-lapointes-road' do
     url 'http://dl.dafont.com/dl/?f=lapointes_road'
     name 'LaPointe&#039;s Road'
     homepage 'http://www.dafont.com/lapointes-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaPointesRoad.ttf'
 end

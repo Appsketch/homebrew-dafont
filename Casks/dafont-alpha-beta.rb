@@ -5,7 +5,6 @@ cask 'dafont-alpha-beta' do
     url 'http://dl.dafont.com/dl/?f=alpha_beta'
     name 'Alpha Beta'
     homepage 'http://www.dafont.com/alpha-beta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alphbeta.ttf'
 end

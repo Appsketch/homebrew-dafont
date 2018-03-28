@@ -5,7 +5,6 @@ cask 'dafont-denver-broncos-custom' do
     url 'http://dl.dafont.com/dl/?f=denver_broncos_custom'
     name 'Denver Broncos Custom'
     homepage 'http://www.dafont.com/denver-broncos-custom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'denbronccust.ttf'
 end

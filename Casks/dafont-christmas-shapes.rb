@@ -5,7 +5,6 @@ cask 'dafont-christmas-shapes' do
     url 'http://dl.dafont.com/dl/?f=christmas_shapes'
     name 'Christmas Shapes'
     homepage 'http://www.dafont.com/christmas-shapes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Christmas Shapes.ttf'
 end

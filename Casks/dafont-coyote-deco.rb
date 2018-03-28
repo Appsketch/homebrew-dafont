@@ -5,7 +5,6 @@ cask 'dafont-coyote-deco' do
     url 'http://dl.dafont.com/dl/?f=coyote_deco'
     name 'Coyote Deco'
     homepage 'http://www.dafont.com/coyote-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'coydeco.ttf'
     font 'coydecob.ttf'

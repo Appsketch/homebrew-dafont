@@ -5,7 +5,6 @@ cask 'dafont-dernier' do
     url 'http://dl.dafont.com/dl/?f=dernier'
     name 'Dernier'
     homepage 'http://www.dafont.com/dernier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dernier Italic.ttf'
     font 'Dernier.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-surfing-and-play' do
     url 'http://dl.dafont.com/dl/?f=surfing_and_play'
     name 'Surfing and Play'
     homepage 'http://www.dafont.com/surfing-and-play.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SURFING and Play.ttf'
 end

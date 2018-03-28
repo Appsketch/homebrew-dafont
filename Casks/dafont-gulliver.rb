@@ -5,7 +5,6 @@ cask 'dafont-gulliver' do
     url 'http://dl.dafont.com/dl/?f=gulliver'
     name 'Gulliver'
     homepage 'http://www.dafont.com/gulliver.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gulliver Trash.ttf'
     font 'Gulliver.ttf'

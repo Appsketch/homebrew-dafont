@@ -5,7 +5,6 @@ cask 'dafont-justta' do
     url 'http://dl.dafont.com/dl/?f=justta'
     name 'Justta'
     homepage 'http://www.dafont.com/justta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JUSSTA.TTF'
 end

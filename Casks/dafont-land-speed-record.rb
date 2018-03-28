@@ -5,7 +5,6 @@ cask 'dafont-land-speed-record' do
     url 'http://dl.dafont.com/dl/?f=land_speed_record'
     name 'Land Speed Record'
     homepage 'http://www.dafont.com/land-speed-record.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'land-v2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-comearound' do
     url 'http://dl.dafont.com/dl/?f=comearound'
     name 'Come Around'
     homepage 'http://www.dafont.com/comearound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ComeAround.ttf'
 end

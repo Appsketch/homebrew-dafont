@@ -5,7 +5,6 @@ cask 'dafont-green-surf' do
     url 'http://dl.dafont.com/dl/?f=green_surf'
     name 'Green Surf'
     homepage 'http://www.dafont.com/green-surf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Green Surf.otf'
 end

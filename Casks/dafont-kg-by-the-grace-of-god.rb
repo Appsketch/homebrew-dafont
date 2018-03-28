@@ -5,7 +5,6 @@ cask 'dafont-kg-by-the-grace-of-god' do
     url 'http://dl.dafont.com/dl/?f=kg_by_the_grace_of_god'
     name 'KG By the Grace of God'
     homepage 'http://www.dafont.com/kg-by-the-grace-of-god.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGBytheGraceofGod.ttf'
 end

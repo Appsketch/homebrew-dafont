@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-black-square' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_black_square'
     name 'Woodcutter Black Square'
     homepage 'http://www.dafont.com/woodcutter-black-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Black Square.ttf'
 end

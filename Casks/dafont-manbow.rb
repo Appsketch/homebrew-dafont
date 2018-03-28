@@ -5,7 +5,6 @@ cask 'dafont-manbow' do
     url 'http://dl.dafont.com/dl/?f=manbow'
     name 'Manbow'
     homepage 'http://www.dafont.com/manbow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'manbow clear.ttf'
     font 'manbow dots.ttf'

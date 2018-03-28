@@ -5,7 +5,6 @@ cask 'dafont-vague' do
     url 'http://dl.dafont.com/dl/?f=vague'
     name 'Vague'
     homepage 'http://www.dafont.com/vague.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vague.ttf'
 end

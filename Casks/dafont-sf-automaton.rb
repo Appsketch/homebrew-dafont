@@ -5,7 +5,6 @@ cask 'dafont-sf-automaton' do
     url 'http://dl.dafont.com/dl/?f=sf_automaton'
     name 'SF Automaton'
     homepage 'http://www.dafont.com/sf-automaton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Automaton Bold Oblique.ttf'
     font 'SF Automaton Bold.ttf'

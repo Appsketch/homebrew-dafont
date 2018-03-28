@@ -5,7 +5,6 @@ cask 'dafont-aztec-hipster' do
     url 'http://dl.dafont.com/dl/?f=aztec_hipster'
     name 'Aztec Hipster'
     homepage 'http://www.dafont.com/aztec-hipster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aztec Hipster.ttf'
 end

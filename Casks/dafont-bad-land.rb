@@ -5,7 +5,6 @@ cask 'dafont-bad-land' do
     url 'http://dl.dafont.com/dl/?f=bad_land'
     name 'Bad Land'
     homepage 'http://www.dafont.com/bad-land.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bad Land.otf'
 end

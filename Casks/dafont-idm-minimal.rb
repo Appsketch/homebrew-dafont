@@ -5,7 +5,6 @@ cask 'dafont-idm-minimal' do
     url 'http://dl.dafont.com/dl/?f=idm_minimal'
     name 'IDM Minimal'
     homepage 'http://www.dafont.com/idm-minimal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IDM Minimal.ttf'
 end

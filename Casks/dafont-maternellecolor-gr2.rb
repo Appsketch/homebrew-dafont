@@ -5,7 +5,6 @@ cask 'dafont-maternellecolor-gr2' do
     url 'http://dl.dafont.com/dl/?f=maternellecolor_gr2'
     name 'Maternellecolor Graphisme 2'
     homepage 'http://www.dafont.com/maternellecolor-gr2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maternellecolor graphisme 2.ttf'
 end

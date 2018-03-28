@@ -5,7 +5,6 @@ cask 'dafont-moderne-fraktur' do
     url 'http://dl.dafont.com/dl/?f=moderne_fraktur'
     name 'Moderne Fraktur'
     homepage 'http://www.dafont.com/moderne-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ModerneFraktur.ttf'
 end

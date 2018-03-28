@@ -5,7 +5,6 @@ cask 'dafont-banner-script' do
     url 'http://dl.dafont.com/dl/?f=banner_script'
     name 'Banner Script'
     homepage 'http://www.dafont.com/banner-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Banner Script.ttf'
 end

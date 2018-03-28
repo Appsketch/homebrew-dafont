@@ -5,7 +5,6 @@ cask 'dafont-norp-icons-1' do
     url 'http://dl.dafont.com/dl/?f=norp_icons_1'
     name 'Norp Icons #1'
     homepage 'http://www.dafont.com/norp-icons-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'n0rpicons1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-withthewaves' do
     url 'http://dl.dafont.com/dl/?f=withthewaves'
     name 'With The Waves'
     homepage 'http://www.dafont.com/withthewaves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WithTheWaves.ttf'
 end

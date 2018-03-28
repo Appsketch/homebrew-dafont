@@ -5,7 +5,6 @@ cask 'dafont-wicked-grit' do
     url 'http://dl.dafont.com/dl/?f=wicked_grit'
     name 'Wicked Grit'
     homepage 'http://www.dafont.com/wicked-grit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WickedGrit.ttf'
 end

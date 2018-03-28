@@ -5,7 +5,6 @@ cask 'dafont-unger-fraktur-zierb' do
     url 'http://dl.dafont.com/dl/?f=unger_fraktur_zierb'
     name 'Unger-Fraktur Zierbuchstaben'
     homepage 'http://www.dafont.com/unger-fraktur-zierb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UngerFrakturZierbuchstaben.ttf'
 end

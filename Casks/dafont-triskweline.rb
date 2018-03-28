@@ -5,7 +5,6 @@ cask 'dafont-triskweline' do
     url 'http://dl.dafont.com/dl/?f=triskweline'
     name 'Triskweline'
     homepage 'http://www.dafont.com/triskweline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trisk.fon'
 end

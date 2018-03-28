@@ -5,7 +5,6 @@ cask 'dafont-greifswalder-tengwar' do
     url 'http://dl.dafont.com/dl/?f=greifswalder_tengwar'
     name 'Greifswalder Tengwar'
     homepage 'http://www.dafont.com/greifswalder-tengwar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Greifswalder Tengwar.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gelstripped' do
     url 'http://dl.dafont.com/dl/?f=gelstripped'
     name 'Gel Stripped'
     homepage 'http://www.dafont.com/gelstripped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gelstripped.ttf'
 end

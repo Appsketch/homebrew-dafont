@@ -5,7 +5,6 @@ cask 'dafont-phoenix-sans' do
     url 'http://dl.dafont.com/dl/?f=phoenix_sans'
     name 'Phoenix Sans'
     homepage 'http://www.dafont.com/phoenix-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PHOES___.TTF'
     font 'PHOESI__.TTF'

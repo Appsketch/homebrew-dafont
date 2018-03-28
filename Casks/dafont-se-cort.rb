@@ -5,7 +5,6 @@ cask 'dafont-se-cort' do
     url 'http://dl.dafont.com/dl/?f=se_cort'
     name 'Se Cort'
     homepage 'http://www.dafont.com/se-cort.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cortada.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-embrionic' do
     url 'http://dl.dafont.com/dl/?f=embrionic'
     name 'Embrionic'
     homepage 'http://www.dafont.com/embrionic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Embrionic55.otf'
     font 'Embrionic55Swash.otf'

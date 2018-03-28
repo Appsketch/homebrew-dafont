@@ -5,7 +5,6 @@ cask 'dafont-eightbite' do
     url 'http://dl.dafont.com/dl/?f=eightbite'
     name 'EightBite'
     homepage 'http://www.dafont.com/eightbite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EightBite.ttf'
 end

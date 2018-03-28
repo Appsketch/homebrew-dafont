@@ -5,7 +5,6 @@ cask 'dafont-de-luxe-next' do
     url 'http://dl.dafont.com/dl/?f=de_luxe_next'
     name 'De Luxe Next'
     homepage 'http://www.dafont.com/de-luxe-next.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'De Luxe Next Bold Italic.ttf'
     font 'De Luxe Next Bold.ttf'

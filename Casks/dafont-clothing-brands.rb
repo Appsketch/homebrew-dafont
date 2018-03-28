@@ -5,7 +5,6 @@ cask 'dafont-clothing-brands' do
     url 'http://dl.dafont.com/dl/?f=clothing_brands'
     name 'Clothing brands'
     homepage 'http://www.dafont.com/clothing-brands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clothing brands.ttf'
 end

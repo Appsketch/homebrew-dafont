@@ -5,7 +5,6 @@ cask 'dafont-the-hand-of-tes' do
     url 'http://dl.dafont.com/dl/?f=the_hand_of_tes'
     name 'The Hand of Tes'
     homepage 'http://www.dafont.com/the-hand-of-tes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Hand of Tes.ttf'
 end

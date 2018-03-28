@@ -5,7 +5,6 @@ cask 'dafont-beautiful-future' do
     url 'http://dl.dafont.com/dl/?f=beautiful_future'
     name 'Beautiful Future'
     homepage 'http://www.dafont.com/beautiful-future.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeautifulFuture.otf'
 end

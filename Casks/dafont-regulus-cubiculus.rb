@@ -5,7 +5,6 @@ cask 'dafont-regulus-cubiculus' do
     url 'http://dl.dafont.com/dl/?f=regulus_cubiculus'
     name 'Regulus Cubiculus'
     homepage 'http://www.dafont.com/regulus-cubiculus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Regulus Cubiculus.ttf'
 end

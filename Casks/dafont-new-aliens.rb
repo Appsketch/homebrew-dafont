@@ -5,7 +5,6 @@ cask 'dafont-new-aliens' do
     url 'http://dl.dafont.com/dl/?f=new_aliens'
     name 'New Aliens'
     homepage 'http://www.dafont.com/new-aliens.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NewAliens.ttf'
 end

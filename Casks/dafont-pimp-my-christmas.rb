@@ -5,7 +5,6 @@ cask 'dafont-pimp-my-christmas' do
     url 'http://dl.dafont.com/dl/?f=pimp_my_christmas'
     name 'Pimp My Christmas'
     homepage 'http://www.dafont.com/pimp-my-christmas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PimpMyChristmas.ttf'
 end

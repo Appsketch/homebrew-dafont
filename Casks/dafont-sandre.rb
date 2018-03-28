@@ -5,7 +5,6 @@ cask 'dafont-sandre' do
     url 'http://dl.dafont.com/dl/?f=sandre'
     name 'Sandre'
     homepage 'http://www.dafont.com/sandre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SANDRE-Regular.otf'
 end

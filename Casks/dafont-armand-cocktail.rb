@@ -5,7 +5,6 @@ cask 'dafont-armand-cocktail' do
     url 'http://dl.dafont.com/dl/?f=armand_cocktail'
     name 'Armand Cocktail'
     homepage 'http://www.dafont.com/armand-cocktail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Armand_Cocktail.ttf'
 end

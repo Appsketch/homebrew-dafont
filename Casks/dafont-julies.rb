@@ -5,7 +5,6 @@ cask 'dafont-julies' do
     url 'http://dl.dafont.com/dl/?f=julies'
     name 'Julies'
     homepage 'http://www.dafont.com/julies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'julies.ttf'
 end

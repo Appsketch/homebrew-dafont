@@ -5,7 +5,6 @@ cask 'dafont-vtks-urban-time' do
     url 'http://dl.dafont.com/dl/?f=vtks_urban_time'
     name 'VTKS Urban Time'
     homepage 'http://www.dafont.com/vtks-urban-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS URBAN TIME 3d.ttf'
     font 'VTKS URBAN TIME bold.ttf'

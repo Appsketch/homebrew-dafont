@@ -5,7 +5,6 @@ cask 'dafont-fancyshmancy' do
     url 'http://dl.dafont.com/dl/?f=fancyshmancy'
     name 'Fancy Shmancy'
     homepage 'http://www.dafont.com/fancyshmancy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FancyShmancy.ttf'
 end

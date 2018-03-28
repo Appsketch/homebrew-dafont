@@ -5,7 +5,6 @@ cask 'dafont-rvd-traktorfahrer' do
     url 'http://dl.dafont.com/dl/?f=rvd_traktorfahrer'
     name 'RvD Traktorfahrer'
     homepage 'http://www.dafont.com/rvd-traktorfahrer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RvD_TRAKTORFAHRER.ttf'
 end

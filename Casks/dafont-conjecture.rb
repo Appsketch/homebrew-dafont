@@ -5,7 +5,6 @@ cask 'dafont-conjecture' do
     url 'http://dl.dafont.com/dl/?f=conjecture'
     name 'Conjecture'
     homepage 'http://www.dafont.com/conjecture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CONJECTURE.ttf'
 end

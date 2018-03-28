@@ -5,7 +5,6 @@ cask 'dafont-lifestyle-m54' do
     url 'http://dl.dafont.com/dl/?f=lifestyle_m54'
     name 'Lifestyle M54'
     homepage 'http://www.dafont.com/lifestyle-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lifestyle M54.ttf'
 end

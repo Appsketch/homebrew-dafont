@@ -5,7 +5,6 @@ cask 'dafont-ellis' do
     url 'http://dl.dafont.com/dl/?f=ellis'
     name 'Ellis'
     homepage 'http://www.dafont.com/ellis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ellis.ttf'
 end

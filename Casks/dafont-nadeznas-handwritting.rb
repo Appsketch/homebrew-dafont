@@ -5,7 +5,6 @@ cask 'dafont-nadeznas-handwritting' do
     url 'http://dl.dafont.com/dl/?f=nadeznas_handwritting'
     name 'Nadezna&#039;s Handwritting'
     homepage 'http://www.dafont.com/nadeznas-handwritting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nadezna-&#039;s handwriting regular.ttf'
 end

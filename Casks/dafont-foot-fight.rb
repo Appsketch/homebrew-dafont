@@ -5,7 +5,6 @@ cask 'dafont-foot-fight' do
     url 'http://dl.dafont.com/dl/?f=foot_fight'
     name 'Foot Fight'
     homepage 'http://www.dafont.com/foot-fight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'footfight.ttf'
 end

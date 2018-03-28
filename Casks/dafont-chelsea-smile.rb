@@ -5,7 +5,6 @@ cask 'dafont-chelsea-smile' do
     url 'http://dl.dafont.com/dl/?f=chelsea_smile'
     name 'Chelsea Smile'
     homepage 'http://www.dafont.com/chelsea-smile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chelsea Smile.otf'
 end

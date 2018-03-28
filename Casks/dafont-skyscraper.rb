@@ -5,7 +5,6 @@ cask 'dafont-skyscraper' do
     url 'http://dl.dafont.com/dl/?f=skyscraper'
     name 'Skyscraper'
     homepage 'http://www.dafont.com/skyscraper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skyscraper.ttf'
 end

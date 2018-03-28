@@ -5,7 +5,6 @@ cask 'dafont-anas-rusty-typewriter' do
     url 'http://dl.dafont.com/dl/?f=anas_rusty_typewriter'
     name 'Ana&#039;s Rusty Typewriter'
     homepage 'http://www.dafont.com/anas-rusty-typewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rusty_typewriter.ttf'
 end

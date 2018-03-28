@@ -5,7 +5,6 @@ cask 'dafont-27th-rps' do
     url 'http://dl.dafont.com/dl/?f=27th_rps'
     name '27th RPS'
     homepage 'http://www.dafont.com/27th-rps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '27thRPS-Regular.ttf'
 end

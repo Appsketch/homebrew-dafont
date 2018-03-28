@@ -5,7 +5,6 @@ cask 'dafont-kevin-eleven' do
     url 'http://dl.dafont.com/dl/?f=kevin_eleven'
     name 'Kevin Eleven'
     homepage 'http://www.dafont.com/kevin-eleven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kevin Eleven.ttf'
 end

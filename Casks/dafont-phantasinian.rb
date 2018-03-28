@@ -5,7 +5,6 @@ cask 'dafont-phantasinian' do
     url 'http://dl.dafont.com/dl/?f=phantasinian'
     name 'Phantasinian'
     homepage 'http://www.dafont.com/phantasinian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phantasinian.ttf'
 end

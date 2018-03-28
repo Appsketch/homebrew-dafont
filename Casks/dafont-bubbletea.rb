@@ -5,7 +5,6 @@ cask 'dafont-bubbletea' do
     url 'http://dl.dafont.com/dl/?f=bubbletea'
     name 'Bubbletea'
     homepage 'http://www.dafont.com/bubbletea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bubbletea hollow.ttf'
     font 'bubbletea.ttf'

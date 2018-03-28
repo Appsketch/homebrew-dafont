@@ -5,7 +5,6 @@ cask 'dafont-stalker2' do
     url 'http://dl.dafont.com/dl/?f=stalker2'
     name 'Stalker'
     homepage 'http://www.dafont.com/stalker2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stalker1.ttf'
     font 'stalker2.ttf'

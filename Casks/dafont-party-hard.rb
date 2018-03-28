@@ -5,7 +5,6 @@ cask 'dafont-party-hard' do
     url 'http://dl.dafont.com/dl/?f=party_hard'
     name 'Party Hard'
     homepage 'http://www.dafont.com/party-hard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Party Hard.ttf'
 end

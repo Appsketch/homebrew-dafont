@@ -5,7 +5,6 @@ cask 'dafont-zfonts' do
     url 'http://dl.dafont.com/dl/?f=zfonts'
     name 'Zfonts'
     homepage 'http://www.dafont.com/zfonts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zfont.ttf'
 end

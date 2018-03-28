@@ -5,7 +5,6 @@ cask 'dafont-pocket-monk' do
     url 'http://dl.dafont.com/dl/?f=pocket_monk'
     name 'Pocket Monk'
     homepage 'http://www.dafont.com/pocket-monk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pocket Monk.otf'
 end

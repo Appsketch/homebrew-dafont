@@ -5,7 +5,6 @@ cask 'dafont-bad-mofo' do
     url 'http://dl.dafont.com/dl/?f=bad_mofo'
     name 'Bad Mofo'
     homepage 'http://www.dafont.com/bad-mofo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BadMofo.ttf'
 end

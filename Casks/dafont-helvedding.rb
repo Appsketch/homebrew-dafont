@@ -5,7 +5,6 @@ cask 'dafont-helvedding' do
     url 'http://dl.dafont.com/dl/?f=helvedding'
     name 'Helvedding'
     homepage 'http://www.dafont.com/helvedding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Helvedding-Beta.otf'
 end

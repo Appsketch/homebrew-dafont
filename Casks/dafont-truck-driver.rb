@@ -5,7 +5,6 @@ cask 'dafont-truck-driver' do
     url 'http://dl.dafont.com/dl/?f=truck_driver'
     name 'Truck Driver'
     homepage 'http://www.dafont.com/truck-driver.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRUCKDRIVER.ttf'
 end

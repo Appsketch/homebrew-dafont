@@ -5,7 +5,6 @@ cask 'dafont-sustainable-amazon' do
     url 'http://dl.dafont.com/dl/?f=sustainable_amazon'
     name 'Sustainable Amazon'
     homepage 'http://www.dafont.com/sustainable-amazon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sustainable Amazon II.ttf'
     font 'Sustainable Amazon.ttf'

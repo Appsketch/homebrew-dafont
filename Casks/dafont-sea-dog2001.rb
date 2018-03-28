@@ -5,7 +5,6 @@ cask 'dafont-sea-dog2001' do
     url 'http://dl.dafont.com/dl/?f=sea_dog2001'
     name 'Sea Dog 2001'
     homepage 'http://www.dafont.com/sea-dog2001.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'seadog2015.ttf'
     font 'seadog20153d.ttf'

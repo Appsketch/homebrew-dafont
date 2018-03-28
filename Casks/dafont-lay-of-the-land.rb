@@ -5,7 +5,6 @@ cask 'dafont-lay-of-the-land' do
     url 'http://dl.dafont.com/dl/?f=lay_of_the_land'
     name 'Lay Of The Land'
     homepage 'http://www.dafont.com/lay-of-the-land.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lay-Of-The-Land.ttf'
 end

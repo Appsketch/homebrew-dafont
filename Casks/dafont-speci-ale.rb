@@ -5,7 +5,6 @@ cask 'dafont-speci-ale' do
     url 'http://dl.dafont.com/dl/?f=speci_ale'
     name 'Speci.ALE'
     homepage 'http://www.dafont.com/speci-ale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'speciALE.ttf'
 end

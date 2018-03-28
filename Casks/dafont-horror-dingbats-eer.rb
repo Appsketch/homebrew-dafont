@@ -5,7 +5,6 @@ cask 'dafont-horror-dingbats-eer' do
     url 'http://dl.dafont.com/dl/?f=horror_dingbats_eer'
     name 'Horror Dingbats Eerie Edition'
     homepage 'http://www.dafont.com/horror-dingbats-eer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Horror Dingbats Eerie Edition.ttf'
 end

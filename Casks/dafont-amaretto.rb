@@ -5,7 +5,6 @@ cask 'dafont-amaretto' do
     url 'http://dl.dafont.com/dl/?f=amaretto'
     name 'Amaretto'
     homepage 'http://www.dafont.com/amaretto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'amaretto.ttf'
 end

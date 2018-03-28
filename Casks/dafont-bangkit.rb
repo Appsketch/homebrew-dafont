@@ -5,7 +5,6 @@ cask 'dafont-bangkit' do
     url 'http://dl.dafont.com/dl/?f=bangkit'
     name 'Bangkit'
     homepage 'http://www.dafont.com/bangkit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bangkit.ttf'
 end

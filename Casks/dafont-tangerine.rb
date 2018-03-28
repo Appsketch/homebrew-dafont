@@ -5,7 +5,6 @@ cask 'dafont-tangerine' do
     url 'http://dl.dafont.com/dl/?f=tangerine'
     name 'Tangerine'
     homepage 'http://www.dafont.com/tangerine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tangerine_Bold.ttf'
     font 'Tangerine_Regular.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-black-arrow' do
     url 'http://dl.dafont.com/dl/?f=black_arrow'
     name 'Black Arrow'
     homepage 'http://www.dafont.com/black-arrow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLACK ARROW.ttf'
 end

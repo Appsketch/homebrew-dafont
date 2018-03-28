@@ -5,7 +5,6 @@ cask 'dafont-triangled-tfb' do
     url 'http://dl.dafont.com/dl/?f=triangled_tfb'
     name 'Triangled TFB'
     homepage 'http://www.dafont.com/triangled-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Triangled tfb cursive.ttf'
     font 'Triangled tfb.ttf'

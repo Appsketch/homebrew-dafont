@@ -5,7 +5,6 @@ cask 'dafont-scrapitup' do
     url 'http://dl.dafont.com/dl/?f=scrapitup'
     name 'Scrap It Up'
     homepage 'http://www.dafont.com/scrapitup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ScrapItUp.ttf'
 end

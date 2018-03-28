@@ -5,7 +5,6 @@ cask 'dafont-desiwonderland' do
     url 'http://dl.dafont.com/dl/?f=desiwonderland'
     name 'Desi Wonderland'
     homepage 'http://www.dafont.com/desiwonderland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DesiWonderland.ttf'
 end

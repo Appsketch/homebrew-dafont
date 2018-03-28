@@ -5,7 +5,6 @@ cask 'dafont-looksky-font' do
     url 'http://dl.dafont.com/dl/?f=looksky_font'
     name 'Looksky Font'
     homepage 'http://www.dafont.com/looksky-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'looksky.ttf'
 end

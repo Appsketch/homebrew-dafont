@@ -5,7 +5,6 @@ cask 'dafont-liquor' do
     url 'http://dl.dafont.com/dl/?f=liquor'
     name 'Liquor'
     homepage 'http://www.dafont.com/liquor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Liquor Bold.ttf'
     font 'Liquor Regular.ttf'

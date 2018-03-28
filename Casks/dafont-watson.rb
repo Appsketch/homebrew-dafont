@@ -5,7 +5,6 @@ cask 'dafont-watson' do
     url 'http://dl.dafont.com/dl/?f=watson'
     name 'Watson'
     homepage 'http://www.dafont.com/watson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Watson.ttf'
 end

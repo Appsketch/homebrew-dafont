@@ -5,7 +5,6 @@ cask 'dafont-jenelson' do
     url 'http://dl.dafont.com/dl/?f=jenelson'
     name 'Jenelson'
     homepage 'http://www.dafont.com/jenelson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jenelson.otf'
 end

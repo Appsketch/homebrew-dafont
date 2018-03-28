@@ -5,7 +5,6 @@ cask 'dafont-cony' do
     url 'http://dl.dafont.com/dl/?f=cony'
     name 'Cony'
     homepage 'http://www.dafont.com/cony.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ConyBold.otf'
     font 'ConyDecor.otf'

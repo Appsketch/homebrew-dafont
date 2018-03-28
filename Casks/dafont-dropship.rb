@@ -5,7 +5,6 @@ cask 'dafont-dropship' do
     url 'http://dl.dafont.com/dl/?f=dropship'
     name 'Dropship'
     homepage 'http://www.dafont.com/dropship.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dropship.ttf'
 end

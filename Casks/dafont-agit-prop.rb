@@ -5,7 +5,6 @@ cask 'dafont-agit-prop' do
     url 'http://dl.dafont.com/dl/?f=agit_prop'
     name 'Agit Prop'
     homepage 'http://www.dafont.com/agit-prop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AGITPM__.TTF'
 end

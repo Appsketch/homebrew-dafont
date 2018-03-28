@@ -5,7 +5,6 @@ cask 'dafont-jailbird' do
     url 'http://dl.dafont.com/dl/?f=jailbird'
     name 'Jailbird'
     homepage 'http://www.dafont.com/jailbird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JAIL.TTF'
 end

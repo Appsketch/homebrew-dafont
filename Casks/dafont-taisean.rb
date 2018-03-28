@@ -5,7 +5,6 @@ cask 'dafont-taisean' do
     url 'http://dl.dafont.com/dl/?f=taisean'
     name 'Taisean'
     homepage 'http://www.dafont.com/taisean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Taisean.ttf'
 end

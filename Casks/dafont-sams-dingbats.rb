@@ -5,7 +5,6 @@ cask 'dafont-sams-dingbats' do
     url 'http://dl.dafont.com/dl/?f=sams_dingbats'
     name 'Sam&#039;s Dingbats'
     homepage 'http://www.dafont.com/sams-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sams Dingbats No1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-eco-files' do
     url 'http://dl.dafont.com/dl/?f=eco_files'
     name 'Eco-Files'
     homepage 'http://www.dafont.com/eco-files.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ecov2.ttf'
     font 'Ecov2i.ttf'

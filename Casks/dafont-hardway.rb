@@ -5,7 +5,6 @@ cask 'dafont-hardway' do
     url 'http://dl.dafont.com/dl/?f=hardway'
     name 'HardWay'
     homepage 'http://www.dafont.com/hardway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HardWay_Basic2_FREE.otf'
 end

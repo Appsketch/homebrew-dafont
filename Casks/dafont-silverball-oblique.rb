@@ -5,7 +5,6 @@ cask 'dafont-silverball-oblique' do
     url 'http://dl.dafont.com/dl/?f=silverball_oblique'
     name 'Silverball Oblique'
     homepage 'http://www.dafont.com/silverball-oblique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Silverball Bold Italic.otf'
     font 'Silverball Bold.otf'

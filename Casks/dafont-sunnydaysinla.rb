@@ -5,7 +5,6 @@ cask 'dafont-sunnydaysinla' do
     url 'http://dl.dafont.com/dl/?f=sunnydaysinla'
     name 'Sunny Days In La'
     homepage 'http://www.dafont.com/sunnydaysinla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SunnyDaysInLa.ttf'
 end

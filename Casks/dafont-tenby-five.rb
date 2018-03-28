@@ -5,7 +5,6 @@ cask 'dafont-tenby-five' do
     url 'http://dl.dafont.com/dl/?f=tenby_five'
     name 'Tenby Five'
     homepage 'http://www.dafont.com/tenby-five.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tenby-five.otf'
 end

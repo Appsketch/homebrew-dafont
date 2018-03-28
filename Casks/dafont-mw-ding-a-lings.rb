@@ -5,7 +5,6 @@ cask 'dafont-mw-ding-a-lings' do
     url 'http://dl.dafont.com/dl/?f=mw_ding_a_lings'
     name 'MW Ding-A-Lings'
     homepage 'http://www.dafont.com/mw-ding-a-lings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dingling.TTF'
 end

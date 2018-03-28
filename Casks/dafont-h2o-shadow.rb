@@ -5,7 +5,6 @@ cask 'dafont-h2o-shadow' do
     url 'http://dl.dafont.com/dl/?f=h2o_shadow'
     name 'H2O Shadow'
     homepage 'http://www.dafont.com/h2o-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'H2O-Shadow.ttf'
 end

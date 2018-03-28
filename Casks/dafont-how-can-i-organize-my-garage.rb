@@ -5,7 +5,6 @@ cask 'dafont-how-can-i-organize-my-garage' do
     url 'http://dl.dafont.com/dl/?f=how_can_i_organize_my_garage'
     name 'How Can I Organize My Garage?'
     homepage 'http://www.dafont.com/how-can-i-organize-my-garage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'howcaniorganizemygarage.ttf'
 end

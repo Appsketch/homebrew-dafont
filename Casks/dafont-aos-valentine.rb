@@ -5,7 +5,6 @@ cask 'dafont-aos-valentine' do
     url 'http://dl.dafont.com/dl/?f=aos_valentine'
     name 'AOS Valentine'
     homepage 'http://www.dafont.com/aos-valentine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aosval.ttf'
 end

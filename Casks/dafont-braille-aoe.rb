@@ -5,7 +5,6 @@ cask 'dafont-braille-aoe' do
     url 'http://dl.dafont.com/dl/?f=braille_aoe'
     name 'Braille AOE'
     homepage 'http://www.dafont.com/braille-aoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRAIA___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-07-ghost-zaiphon' do
     url 'http://dl.dafont.com/dl/?f=07_ghost_zaiphon'
     name '07 Ghost Zaiphon'
     homepage 'http://www.dafont.com/07-ghost-zaiphon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '07-GHOST Zaiphon.ttf'
 end

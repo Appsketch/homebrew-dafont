@@ -5,7 +5,6 @@ cask 'dafont-fragments-of-eter' do
     url 'http://dl.dafont.com/dl/?f=fragments_of_eter'
     name 'Fragments of Eter'
     homepage 'http://www.dafont.com/fragments-of-eter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fragments_of_eter.ttf'
 end

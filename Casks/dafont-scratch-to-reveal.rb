@@ -5,7 +5,6 @@ cask 'dafont-scratch-to-reveal' do
     url 'http://dl.dafont.com/dl/?f=scratch_to_reveal'
     name 'Scratch To Reveal'
     homepage 'http://www.dafont.com/scratch-to-reveal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ScratchToReveal.ttf'
 end

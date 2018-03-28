@@ -5,7 +5,6 @@ cask 'dafont-justplayin' do
     url 'http://dl.dafont.com/dl/?f=justplayin'
     name 'Just Playin'
     homepage 'http://www.dafont.com/justplayin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'justplayin.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-osxdarwin' do
     url 'http://dl.dafont.com/dl/?f=osxdarwin'
     name 'OS X Darwin'
     homepage 'http://www.dafont.com/osxdarwin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OS X Darwin.ttf'
 end

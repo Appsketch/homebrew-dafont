@@ -5,7 +5,6 @@ cask 'dafont-frozen-crystal' do
     url 'http://dl.dafont.com/dl/?f=frozen_crystal'
     name 'Frozen Crystal'
     homepage 'http://www.dafont.com/frozen-crystal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'frozencrystal.ttf'
     font 'frozencrystal3d.ttf'

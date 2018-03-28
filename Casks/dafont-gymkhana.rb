@@ -5,7 +5,6 @@ cask 'dafont-gymkhana' do
     url 'http://dl.dafont.com/dl/?f=gymkhana'
     name 'Gymkhana'
     homepage 'http://www.dafont.com/gymkhana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gymkhana-bk.ttf'
 end

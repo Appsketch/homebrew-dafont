@@ -5,7 +5,6 @@ cask 'dafont-sansation' do
     url 'http://dl.dafont.com/dl/?f=sansation'
     name 'Sansation'
     homepage 'http://www.dafont.com/sansation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sansation_Bold_Italic.ttf'
     font 'Sansation_Bold.ttf'

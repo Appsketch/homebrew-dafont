@@ -5,7 +5,6 @@ cask 'dafont-ariadne' do
     url 'http://dl.dafont.com/dl/?f=ariadne'
     name 'Ariadne'
     homepage 'http://www.dafont.com/ariadne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AriadneBR.ttf'
 end

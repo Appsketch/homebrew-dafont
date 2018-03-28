@@ -5,7 +5,6 @@ cask 'dafont-mastoc' do
     url 'http://dl.dafont.com/dl/?f=mastoc'
     name 'Mastoc'
     homepage 'http://www.dafont.com/mastoc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mastoc_PersonalUseOnly.ttf'
 end

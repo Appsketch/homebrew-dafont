@@ -5,7 +5,6 @@ cask 'dafont-maze-without-destination' do
     url 'http://dl.dafont.com/dl/?f=maze_without_destination'
     name 'Maze Without Destination'
     homepage 'http://www.dafont.com/maze-without-destination.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mazewithoutdestination.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rio-glamour' do
     url 'http://dl.dafont.com/dl/?f=rio_glamour'
     name 'Rio Glamour'
     homepage 'http://www.dafont.com/rio-glamour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BILLY ARGEL RIO GLAMOUR PERSONAL USE.otf'
 end

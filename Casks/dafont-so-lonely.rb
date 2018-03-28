@@ -5,7 +5,6 @@ cask 'dafont-so-lonely' do
     url 'http://dl.dafont.com/dl/?f=so_lonely'
     name 'So Lonely'
     homepage 'http://www.dafont.com/so-lonely.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'So Lonely.ttf'
 end

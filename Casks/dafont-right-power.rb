@@ -5,7 +5,6 @@ cask 'dafont-right-power' do
     url 'http://dl.dafont.com/dl/?f=right_power'
     name 'Right Power'
     homepage 'http://www.dafont.com/right-power.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Right POWER.ttf'
 end

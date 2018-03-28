@@ -5,7 +5,6 @@ cask 'dafont-flying-leatherneck' do
     url 'http://dl.dafont.com/dl/?f=flying_leatherneck'
     name 'Flying Leatherneck'
     homepage 'http://www.dafont.com/flying-leatherneck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'flyingleatherv2_3d.ttf'
     font 'flyingleatherv2.ttf'

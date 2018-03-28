@@ -5,7 +5,6 @@ cask 'dafont-cybereye' do
     url 'http://dl.dafont.com/dl/?f=cybereye'
     name 'Cybereye'
     homepage 'http://www.dafont.com/cybereye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cyberye.ttf'
 end

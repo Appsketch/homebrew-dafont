@@ -5,7 +5,6 @@ cask 'dafont-superstar-dj' do
     url 'http://dl.dafont.com/dl/?f=superstar_dj'
     name 'Superstar DJ'
     homepage 'http://www.dafont.com/superstar-dj.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPED___.TTF'
 end

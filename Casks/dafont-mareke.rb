@@ -5,7 +5,6 @@ cask 'dafont-mareke' do
     url 'http://dl.dafont.com/dl/?f=mareke'
     name 'Mareke'
     homepage 'http://www.dafont.com/mareke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mareke.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lord-juusai-rises' do
     url 'http://dl.dafont.com/dl/?f=lord_juusai_rises'
     name 'Lord Juusai Rises'
     homepage 'http://www.dafont.com/lord-juusai-rises.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lord_juusai_rises.ttf'
 end

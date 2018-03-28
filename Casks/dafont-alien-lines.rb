@@ -5,7 +5,6 @@ cask 'dafont-alien-lines' do
     url 'http://dl.dafont.com/dl/?f=alien_lines'
     name 'Alien Lines'
     homepage 'http://www.dafont.com/alien-lines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alien_lines_1.9.ttf'
 end

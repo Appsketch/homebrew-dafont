@@ -5,7 +5,6 @@ cask 'dafont-replay' do
     url 'http://dl.dafont.com/dl/?f=replay'
     name 'Replay'
     homepage 'http://www.dafont.com/replay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'replay.ttf'
 end

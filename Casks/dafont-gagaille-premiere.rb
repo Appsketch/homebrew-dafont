@@ -5,7 +5,6 @@ cask 'dafont-gagaille-premiere' do
     url 'http://dl.dafont.com/dl/?f=gagaille_premiere'
     name 'Gagaille Premiere'
     homepage 'http://www.dafont.com/gagaille-premiere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gagaille_premiere.ttf'
 end

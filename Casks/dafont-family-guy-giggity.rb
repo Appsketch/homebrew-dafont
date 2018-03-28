@@ -5,7 +5,6 @@ cask 'dafont-family-guy-giggity' do
     url 'http://dl.dafont.com/dl/?f=family_guy_giggity'
     name 'Family Guy Giggity'
     homepage 'http://www.dafont.com/family-guy-giggity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FAMILY GUY GIGGITY.ttf'
 end

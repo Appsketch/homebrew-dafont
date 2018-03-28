@@ -5,7 +5,6 @@ cask 'dafont-ghang' do
     url 'http://dl.dafont.com/dl/?f=ghang'
     name 'Ghang'
     homepage 'http://www.dafont.com/ghang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'No_License_Ghang_Plain.ttf'
     font 'No_License_Ghang.ttf'

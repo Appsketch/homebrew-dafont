@@ -5,7 +5,6 @@ cask 'dafont-kremlin-bolshevik' do
     url 'http://dl.dafont.com/dl/?f=kremlin_bolshevik'
     name 'Kremlin Bolshevik'
     homepage 'http://www.dafont.com/kremlin-bolshevik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Bolshevik Bold.ttf'
 end

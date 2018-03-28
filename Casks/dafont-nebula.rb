@@ -5,7 +5,6 @@ cask 'dafont-nebula' do
     url 'http://dl.dafont.com/dl/?f=nebula'
     name 'Nebula'
     homepage 'http://www.dafont.com/nebula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nebula Regular.ttf'
 end

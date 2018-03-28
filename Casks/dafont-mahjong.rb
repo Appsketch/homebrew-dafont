@@ -5,7 +5,6 @@ cask 'dafont-mahjong' do
     url 'http://dl.dafont.com/dl/?f=mahjong'
     name 'Mahjong'
     homepage 'http://www.dafont.com/mahjong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ma______.ttf'
 end

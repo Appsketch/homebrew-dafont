@@ -5,7 +5,6 @@ cask 'dafont-earth-aircraft-universe' do
     url 'http://dl.dafont.com/dl/?f=earth_aircraft_universe'
     name 'Earth Aircraft Universe'
     homepage 'http://www.dafont.com/earth-aircraft-universe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'earth aircraft universe.ttf'
 end

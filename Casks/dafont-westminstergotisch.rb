@@ -5,7 +5,6 @@ cask 'dafont-westminstergotisch' do
     url 'http://dl.dafont.com/dl/?f=westminstergotisch'
     name 'Westminster Gotisch'
     homepage 'http://www.dafont.com/westminstergotisch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WESTG___.TTF'
 end

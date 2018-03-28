@@ -5,7 +5,6 @@ cask 'dafont-nemesis' do
     url 'http://dl.dafont.com/dl/?f=nemesis'
     name 'Nemesis'
     homepage 'http://www.dafont.com/nemesis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nemesis.ttf'
 end

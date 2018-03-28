@@ -5,7 +5,6 @@ cask 'dafont-bartlomiej-gil' do
     url 'http://dl.dafont.com/dl/?f=bartlomiej_gil'
     name 'Bartlomiej Gil'
     homepage 'http://www.dafont.com/bartlomiej-gil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BartlomiejGil.ttf'
 end

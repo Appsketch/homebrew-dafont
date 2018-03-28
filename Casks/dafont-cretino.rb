@@ -5,7 +5,6 @@ cask 'dafont-cretino' do
     url 'http://dl.dafont.com/dl/?f=cretino'
     name 'Cretino'
     homepage 'http://www.dafont.com/cretino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cretino.ttf'
 end

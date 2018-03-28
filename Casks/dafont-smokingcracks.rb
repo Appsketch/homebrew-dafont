@@ -5,7 +5,6 @@ cask 'dafont-smokingcracks' do
     url 'http://dl.dafont.com/dl/?f=smokingcracks'
     name 'Smoking Cracks'
     homepage 'http://www.dafont.com/smokingcracks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smoking Cracks.ttf'
 end

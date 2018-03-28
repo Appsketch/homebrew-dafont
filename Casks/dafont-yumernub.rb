@@ -5,7 +5,6 @@ cask 'dafont-yumernub' do
     url 'http://dl.dafont.com/dl/?f=yumernub'
     name 'Yumernub'
     homepage 'http://www.dafont.com/yumernub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yumernub fuzzy.ttf'
     font 'yumernub slanty.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-sketch-script-limited-set' do
     url 'http://dl.dafont.com/dl/?f=sketch_script_limited_set'
     name 'Sketch Script'
     homepage 'http://www.dafont.com/sketch-script-limited-set.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketch_Script_Limited_Set.ttf'
 end

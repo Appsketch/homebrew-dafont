@@ -5,7 +5,6 @@ cask 'dafont-energydrink' do
     url 'http://dl.dafont.com/dl/?f=energydrink'
     name 'Energy Drink'
     homepage 'http://www.dafont.com/energydrink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EnergyDrink.ttf'
 end

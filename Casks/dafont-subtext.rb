@@ -5,7 +5,6 @@ cask 'dafont-subtext' do
     url 'http://dl.dafont.com/dl/?f=subtext'
     name 'Subtext'
     homepage 'http://www.dafont.com/subtext.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUBTEXT_.TTF'
 end

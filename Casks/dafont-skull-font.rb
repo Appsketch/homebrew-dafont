@@ -5,7 +5,6 @@ cask 'dafont-skull-font' do
     url 'http://dl.dafont.com/dl/?f=skull_font'
     name 'Skull Font'
     homepage 'http://www.dafont.com/skull-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SKULL FONT.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-summertime' do
     url 'http://dl.dafont.com/dl/?f=summertime'
     name 'Summertime'
     homepage 'http://www.dafont.com/summertime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SummerEO.ttf'
     font 'SummertE.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-cinderblock' do
     url 'http://dl.dafont.com/dl/?f=cinderblock'
     name 'Cinderblock'
     homepage 'http://www.dafont.com/cinderblock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cinderblock-Regular.otf'
 end

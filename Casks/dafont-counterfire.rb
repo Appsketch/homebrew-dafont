@@ -5,7 +5,6 @@ cask 'dafont-counterfire' do
     url 'http://dl.dafont.com/dl/?f=counterfire'
     name 'Counterfire'
     homepage 'http://www.dafont.com/counterfire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Counterfire Italic.otf'
     font 'Counterfire.otf'

@@ -5,7 +5,6 @@ cask 'dafont-throw-up-font' do
     url 'http://dl.dafont.com/dl/?f=throw_up_font'
     name 'Throw-up Font'
     homepage 'http://www.dafont.com/throw-up-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Throw-up Font.ttf'
 end

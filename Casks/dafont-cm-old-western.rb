@@ -5,7 +5,6 @@ cask 'dafont-cm-old-western' do
     url 'http://dl.dafont.com/dl/?f=cm_old_western'
     name 'CM Old Western'
     homepage 'http://www.dafont.com/cm-old-western.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM Old Western Shadow.ttf'
     font 'CM_Old_Western.ttf'

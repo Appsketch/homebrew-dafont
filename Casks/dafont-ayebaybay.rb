@@ -5,7 +5,6 @@ cask 'dafont-ayebaybay' do
     url 'http://dl.dafont.com/dl/?f=ayebaybay'
     name 'Ayebaybay!'
     homepage 'http://www.dafont.com/ayebaybay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ayebaybay!&copy;.ttf'
 end

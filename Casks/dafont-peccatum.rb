@@ -5,7 +5,6 @@ cask 'dafont-peccatum' do
     url 'http://dl.dafont.com/dl/?f=peccatum'
     name 'Peccatum'
     homepage 'http://www.dafont.com/peccatum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peccatum.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pleasureriot' do
     url 'http://dl.dafont.com/dl/?f=pleasureriot'
     name 'Pleasure Riot'
     homepage 'http://www.dafont.com/pleasureriot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PleasureRiot.ttf'
 end

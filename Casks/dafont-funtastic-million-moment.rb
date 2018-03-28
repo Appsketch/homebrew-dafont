@@ -5,7 +5,6 @@ cask 'dafont-funtastic-million-moment' do
     url 'http://dl.dafont.com/dl/?f=funtastic_million_moment'
     name 'Funtastic Million Moment'
     homepage 'http://www.dafont.com/funtastic-million-moment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FUNTASTIC.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-goldenskies' do
     url 'http://dl.dafont.com/dl/?f=goldenskies'
     name 'Golden Skies'
     homepage 'http://www.dafont.com/goldenskies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GoldenSkies.ttf'
 end

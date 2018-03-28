@@ -5,7 +5,6 @@ cask 'dafont-takeyourclothesoffwhenyoudance' do
     url 'http://dl.dafont.com/dl/?f=takeyourclothesoffwhenyoudance'
     name 'Take Your Clothes Off When You Dance'
     homepage 'http://www.dafont.com/takeyourclothesoffwhenyoudance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TakeYourClothesOffWhenYouDance.ttf'
 end

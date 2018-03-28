@@ -5,7 +5,6 @@ cask 'dafont-fd-spank' do
     url 'http://dl.dafont.com/dl/?f=fd_spank'
     name 'FD Spank'
     homepage 'http://www.dafont.com/fd-spank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FD_Spank.ttf'
 end

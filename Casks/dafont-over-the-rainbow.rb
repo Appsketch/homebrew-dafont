@@ -5,7 +5,6 @@ cask 'dafont-over-the-rainbow' do
     url 'http://dl.dafont.com/dl/?f=over_the_rainbow'
     name 'Over the Rainbow'
     homepage 'http://www.dafont.com/over-the-rainbow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OvertheRainbow.ttf'
 end

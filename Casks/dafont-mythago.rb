@@ -5,7 +5,6 @@ cask 'dafont-mythago' do
     url 'http://dl.dafont.com/dl/?f=mythago'
     name 'Mythago'
     homepage 'http://www.dafont.com/mythago.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MYTHO___.TTF'
     font 'MYTHS___.TTF'

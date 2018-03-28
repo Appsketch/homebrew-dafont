@@ -5,7 +5,6 @@ cask 'dafont-dysfunctional-family' do
     url 'http://dl.dafont.com/dl/?f=dysfunctional_family'
     name 'Dysfunctional Family'
     homepage 'http://www.dafont.com/dysfunctional-family.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dysfunctional Family.ttf'
 end

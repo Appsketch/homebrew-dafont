@@ -5,7 +5,6 @@ cask 'dafont-dark-alliance' do
     url 'http://dl.dafont.com/dl/?f=dark_alliance'
     name 'Dark Alliance'
     homepage 'http://www.dafont.com/dark-alliance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'darkalliance.ttf'
     font 'darkalliance3d.ttf'

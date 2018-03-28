@@ -5,7 +5,6 @@ cask 'dafont-ua-squared' do
     url 'http://dl.dafont.com/dl/?f=ua_squared'
     name 'UA Squared'
     homepage 'http://www.dafont.com/ua-squared.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UASQUARE.TTF'
 end

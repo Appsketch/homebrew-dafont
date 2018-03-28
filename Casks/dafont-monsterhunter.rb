@@ -5,7 +5,6 @@ cask 'dafont-monsterhunter' do
     url 'http://dl.dafont.com/dl/?f=monsterhunter'
     name 'Monster Hunter'
     homepage 'http://www.dafont.com/monsterhunter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MonsterHunter.ttf'
 end

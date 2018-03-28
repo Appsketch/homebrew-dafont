@@ -5,7 +5,6 @@ cask 'dafont-dupree' do
     url 'http://dl.dafont.com/dl/?f=dupree'
     name 'Dupree'
     homepage 'http://www.dafont.com/dupree.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'duprl___.ttf'
     font 'duprrg__.ttf'

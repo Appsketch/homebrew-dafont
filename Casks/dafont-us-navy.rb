@@ -5,7 +5,6 @@ cask 'dafont-us-navy' do
     url 'http://dl.dafont.com/dl/?f=us_navy'
     name 'US Navy'
     homepage 'http://www.dafont.com/us-navy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'usnavy.ttf'
     font 'usnavy3d.ttf'

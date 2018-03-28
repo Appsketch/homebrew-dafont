@@ -5,7 +5,6 @@ cask 'dafont-gnaw-hard' do
     url 'http://dl.dafont.com/dl/?f=gnaw_hard'
     name 'Gnaw Hard'
     homepage 'http://www.dafont.com/gnaw-hard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gnaw Hard Italic.otf'
     font 'Gnaw Hard.otf'

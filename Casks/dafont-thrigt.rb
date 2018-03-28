@@ -5,7 +5,6 @@ cask 'dafont-thrigt' do
     url 'http://dl.dafont.com/dl/?f=thrigt'
     name 'Thrigt'
     homepage 'http://www.dafont.com/thrigt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thrigt.ttf'
 end

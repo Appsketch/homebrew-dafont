@@ -5,7 +5,6 @@ cask 'dafont-plamo' do
     url 'http://dl.dafont.com/dl/?f=plamo'
     name 'Plamo'
     homepage 'http://www.dafont.com/plamo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plamo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-brains' do
     url 'http://dl.dafont.com/dl/?f=brains'
     name 'Brains'
     homepage 'http://www.dafont.com/brains.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brains.ttf'
 end

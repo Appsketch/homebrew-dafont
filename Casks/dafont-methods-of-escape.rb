@@ -5,7 +5,6 @@ cask 'dafont-methods-of-escape' do
     url 'http://dl.dafont.com/dl/?f=methods_of_escape'
     name 'Methods of escape'
     homepage 'http://www.dafont.com/methods-of-escape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Methods of escape.ttf'
 end

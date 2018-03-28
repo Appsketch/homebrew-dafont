@@ -5,7 +5,6 @@ cask 'dafont-talacha' do
     url 'http://dl.dafont.com/dl/?f=talacha'
     name 'Talacha'
     homepage 'http://www.dafont.com/talacha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TALACHA_.TTF'
 end

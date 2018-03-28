@@ -5,7 +5,6 @@ cask 'dafont-bronze-script' do
     url 'http://dl.dafont.com/dl/?f=bronze_script'
     name 'Bronze Script'
     homepage 'http://www.dafont.com/bronze-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BronzeScript_PersonalUse.ttf'
 end

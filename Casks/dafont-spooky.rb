@@ -5,7 +5,6 @@ cask 'dafont-spooky' do
     url 'http://dl.dafont.com/dl/?f=spooky'
     name 'Spooky Magic'
     homepage 'http://www.dafont.com/spooky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spooky.ttf'
 end

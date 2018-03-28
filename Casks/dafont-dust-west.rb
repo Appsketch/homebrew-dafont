@@ -5,7 +5,6 @@ cask 'dafont-dust-west' do
     url 'http://dl.dafont.com/dl/?f=dust_west'
     name 'Dust West'
     homepage 'http://www.dafont.com/dust-west.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dust West.otf'
 end

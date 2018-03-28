@@ -5,7 +5,6 @@ cask 'dafont-xerox-malfunction' do
     url 'http://dl.dafont.com/dl/?f=xerox_malfunction'
     name 'Xerox Malfunction'
     homepage 'http://www.dafont.com/xerox-malfunction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xeroxmal.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-illini-spike' do
     url 'http://dl.dafont.com/dl/?f=illini_spike'
     name 'Illini Spike'
     homepage 'http://www.dafont.com/illini-spike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'illini_spike.ttf'
 end

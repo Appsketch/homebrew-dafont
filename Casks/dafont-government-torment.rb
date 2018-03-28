@@ -5,7 +5,6 @@ cask 'dafont-government-torment' do
     url 'http://dl.dafont.com/dl/?f=government_torment'
     name 'Government Torment'
     homepage 'http://www.dafont.com/government-torment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Government Torment.otf'
 end

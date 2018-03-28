@@ -5,7 +5,6 @@ cask 'dafont-kremlin-soviet' do
     url 'http://dl.dafont.com/dl/?f=kremlin_soviet'
     name 'Kremlin Soviet '
     homepage 'http://www.dafont.com/kremlin-soviet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Soviet Italic.ttf'
 end

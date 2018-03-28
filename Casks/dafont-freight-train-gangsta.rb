@@ -5,7 +5,6 @@ cask 'dafont-freight-train-gangsta' do
     url 'http://dl.dafont.com/dl/?f=freight_train_gangsta'
     name 'Freight Train Gangsta'
     homepage 'http://www.dafont.com/freight-train-gangsta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Freight Train Gangsta.ttf'
 end

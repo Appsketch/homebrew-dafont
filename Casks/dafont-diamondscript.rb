@@ -5,7 +5,6 @@ cask 'dafont-diamondscript' do
     url 'http://dl.dafont.com/dl/?f=diamondscript'
     name 'Diamond Script'
     homepage 'http://www.dafont.com/diamondscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diamond Script.ttf'
 end

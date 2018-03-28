@@ -5,7 +5,6 @@ cask 'dafont-big-daddy-led-tfb' do
     url 'http://dl.dafont.com/dl/?f=big_daddy_led_tfb'
     name 'Big Daddy LED TFB'
     homepage 'http://www.dafont.com/big-daddy-led-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Big Daddy LED TFB.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-newjoshfont' do
     url 'http://dl.dafont.com/dl/?f=newjoshfont'
     name 'Newjosh'
     homepage 'http://www.dafont.com/newjoshfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'newjoshfont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-balls-balls-and-more-balls' do
     url 'http://dl.dafont.com/dl/?f=balls_balls_and_more_balls'
     name 'Balls Balls and More Balls'
     homepage 'http://www.dafont.com/balls-balls-and-more-balls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Balls Balls and More Balls.ttf'
 end

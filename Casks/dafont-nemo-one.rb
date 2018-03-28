@@ -5,7 +5,6 @@ cask 'dafont-nemo-one' do
     url 'http://dl.dafont.com/dl/?f=nemo_one'
     name 'Nemo One'
     homepage 'http://www.dafont.com/nemo-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nemo One.ttf'
 end

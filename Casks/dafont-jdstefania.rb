@@ -5,7 +5,6 @@ cask 'dafont-jdstefania' do
     url 'http://dl.dafont.com/dl/?f=jdstefania'
     name 'JD Stefania'
     homepage 'http://www.dafont.com/jdstefania.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_stefania.ttf'
 end

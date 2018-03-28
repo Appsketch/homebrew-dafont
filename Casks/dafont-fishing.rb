@@ -5,7 +5,6 @@ cask 'dafont-fishing' do
     url 'http://dl.dafont.com/dl/?f=fishing'
     name 'Fishing'
     homepage 'http://www.dafont.com/fishing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fishing.ttf'
 end

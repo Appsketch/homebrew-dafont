@@ -5,7 +5,6 @@ cask 'dafont-highflight' do
     url 'http://dl.dafont.com/dl/?f=highflight'
     name 'High Flight'
     homepage 'http://www.dafont.com/highflight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighFlight.ttf'
 end

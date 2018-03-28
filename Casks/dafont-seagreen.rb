@@ -5,7 +5,6 @@ cask 'dafont-seagreen' do
     url 'http://dl.dafont.com/dl/?f=seagreen'
     name 'Sea Green'
     homepage 'http://www.dafont.com/seagreen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SeaGreen.ttf'
 end

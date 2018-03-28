@@ -5,7 +5,6 @@ cask 'dafont-klill' do
     url 'http://dl.dafont.com/dl/?f=klill'
     name 'Klill'
     homepage 'http://www.dafont.com/klill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Klill-Light.ttf'
     font 'KlillForTypesetters.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-regellos' do
     url 'http://dl.dafont.com/dl/?f=regellos'
     name 'Regellos'
     homepage 'http://www.dafont.com/regellos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REGELLOS.TTF'
 end

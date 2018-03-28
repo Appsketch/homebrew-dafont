@@ -5,7 +5,6 @@ cask 'dafont-brit-comics' do
     url 'http://dl.dafont.com/dl/?f=brit_comics'
     name 'Brit Comics'
     homepage 'http://www.dafont.com/brit-comics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRITCN__.TTF'
 end

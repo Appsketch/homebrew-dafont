@@ -5,7 +5,6 @@ cask 'dafont-28-sys' do
     url 'http://dl.dafont.com/dl/?f=28_sys'
     name '28 Sys'
     homepage 'http://www.dafont.com/28-sys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '28-Sys.ttf'
 end

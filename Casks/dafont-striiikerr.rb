@@ -5,7 +5,6 @@ cask 'dafont-striiikerr' do
     url 'http://dl.dafont.com/dl/?f=striiikerr'
     name 'Striiikerr'
     homepage 'http://www.dafont.com/striiikerr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'striiikerr.ttf'
 end

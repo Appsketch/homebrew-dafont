@@ -5,7 +5,6 @@ cask 'dafont-smith-typewriterfree' do
     url 'http://dl.dafont.com/dl/?f=smith_typewriterfree'
     name 'Smith Typewriter'
     homepage 'http://www.dafont.com/smith-typewriterfree.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smith-TypewriterFree.ttf'
     font 'Smith-TypewriterShadowFree.ttf'

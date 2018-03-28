@@ -5,7 +5,6 @@ cask 'dafont-joksovi-papci' do
     url 'http://dl.dafont.com/dl/?f=joksovi_papci'
     name 'Joksovi Papci'
     homepage 'http://www.dafont.com/joksovi-papci.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'joksovi_papci.ttf'
 end

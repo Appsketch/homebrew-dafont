@@ -5,7 +5,6 @@ cask 'dafont-freewind' do
     url 'http://dl.dafont.com/dl/?f=freewind'
     name 'Freewind'
     homepage 'http://www.dafont.com/freewind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '(FREEWIND).ttf'
 end

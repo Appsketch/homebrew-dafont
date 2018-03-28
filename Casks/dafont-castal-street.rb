@@ -5,7 +5,6 @@ cask 'dafont-castal-street' do
     url 'http://dl.dafont.com/dl/?f=castal_street'
     name 'Castal Street'
     homepage 'http://www.dafont.com/castal-street.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Castal Street Bold.ttf'
     font 'Castal Street.ttf'

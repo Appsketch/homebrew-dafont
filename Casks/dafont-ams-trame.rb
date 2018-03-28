@@ -5,7 +5,6 @@ cask 'dafont-ams-trame' do
     url 'http://dl.dafont.com/dl/?f=ams_trame'
     name 'Ams Trame'
     homepage 'http://www.dafont.com/ams-trame.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AMSTI___.TTF'
     font 'AMSTN___.TTF'

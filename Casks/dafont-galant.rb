@@ -5,7 +5,6 @@ cask 'dafont-galant' do
     url 'http://dl.dafont.com/dl/?f=galant'
     name 'Galant'
     homepage 'http://www.dafont.com/galant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'galant.ttf'
     font 'galantcond.ttf'

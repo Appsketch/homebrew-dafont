@@ -5,7 +5,6 @@ cask 'dafont-i-phone-you-phone' do
     url 'http://dl.dafont.com/dl/?f=i_phone_you_phone'
     name 'I Phone, You Phone'
     homepage 'http://www.dafont.com/i-phone-you-phone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'i_phone_you_phone.ttf'
 end

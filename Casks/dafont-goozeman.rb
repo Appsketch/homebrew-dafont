@@ -5,7 +5,6 @@ cask 'dafont-goozeman' do
     url 'http://dl.dafont.com/dl/?f=goozeman'
     name 'Goozeman'
     homepage 'http://www.dafont.com/goozeman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Goozeman.otf'
 end

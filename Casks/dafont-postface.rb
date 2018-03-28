@@ -5,7 +5,6 @@ cask 'dafont-postface' do
     url 'http://dl.dafont.com/dl/?f=postface'
     name 'Postface'
     homepage 'http://www.dafont.com/postface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Postface.otf'
 end

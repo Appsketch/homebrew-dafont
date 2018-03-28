@@ -5,7 +5,6 @@ cask 'dafont-dominican' do
     url 'http://dl.dafont.com/dl/?f=dominican'
     name 'Dominican'
     homepage 'http://www.dafont.com/dominican.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOMII___.TTF'
     font 'DOMINICA.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-imperial-code' do
     url 'http://dl.dafont.com/dl/?f=imperial_code'
     name 'Imperial Code'
     homepage 'http://www.dafont.com/imperial-code.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'icode.ttf'
     font 'icode2.ttf'

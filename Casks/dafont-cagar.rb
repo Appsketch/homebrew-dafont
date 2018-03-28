@@ -5,7 +5,6 @@ cask 'dafont-cagar' do
     url 'http://dl.dafont.com/dl/?f=cagar'
     name 'Cagar'
     homepage 'http://www.dafont.com/cagar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cagar.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-minecraft-pe' do
     url 'http://dl.dafont.com/dl/?f=minecraft_pe'
     name 'Minecraft PE'
     homepage 'http://www.dafont.com/minecraft-pe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MINECRAFT PE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-brainless-thoughts' do
     url 'http://dl.dafont.com/dl/?f=brainless_thoughts'
     name 'Brainless Thoughts'
     homepage 'http://www.dafont.com/brainless-thoughts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRAIN.TTF'
     font 'BRAINC.TTF'

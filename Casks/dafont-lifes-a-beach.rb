@@ -5,7 +5,6 @@ cask 'dafont-lifes-a-beach' do
     url 'http://dl.dafont.com/dl/?f=lifes_a_beach'
     name 'Life&#039;s A Beach'
     homepage 'http://www.dafont.com/lifes-a-beach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Life&#039;s A Beach Hollow.ttf'
     font 'Life&#039;s A Beach Thin.ttf'

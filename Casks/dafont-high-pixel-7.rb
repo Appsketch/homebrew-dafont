@@ -5,7 +5,6 @@ cask 'dafont-high-pixel-7' do
     url 'http://dl.dafont.com/dl/?f=high_pixel_7'
     name 'High Pixel-7'
     homepage 'http://www.dafont.com/high-pixel-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'high_pixel-7.ttf'
 end

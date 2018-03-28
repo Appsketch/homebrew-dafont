@@ -5,7 +5,6 @@ cask 'dafont-the-thrill-of-the-kill' do
     url 'http://dl.dafont.com/dl/?f=the_thrill_of_the_kill'
     name 'The Thrill Of The Kill'
     homepage 'http://www.dafont.com/the-thrill-of-the-kill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Thrill Of The Kill.otf'
 end

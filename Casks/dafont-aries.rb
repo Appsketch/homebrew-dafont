@@ -5,7 +5,6 @@ cask 'dafont-aries' do
     url 'http://dl.dafont.com/dl/?f=aries'
     name 'Aries'
     homepage 'http://www.dafont.com/aries.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aries.ttf'
 end

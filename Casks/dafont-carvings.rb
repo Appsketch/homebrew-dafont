@@ -5,7 +5,6 @@ cask 'dafont-carvings' do
     url 'http://dl.dafont.com/dl/?f=carvings'
     name 'Carvings'
     homepage 'http://www.dafont.com/carvings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CARVINGS.TTF'
 end

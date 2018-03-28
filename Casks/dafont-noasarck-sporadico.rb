@@ -5,7 +5,6 @@ cask 'dafont-noasarck-sporadico' do
     url 'http://dl.dafont.com/dl/?f=noasarck_sporadico'
     name 'Noasarck Sporadico'
     homepage 'http://www.dafont.com/noasarck-sporadico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Noasarck Sporadico.otf'
 end

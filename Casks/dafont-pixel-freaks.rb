@@ -5,7 +5,6 @@ cask 'dafont-pixel-freaks' do
     url 'http://dl.dafont.com/dl/?f=pixel_freaks'
     name 'Pixel Freaks'
     homepage 'http://www.dafont.com/pixel-freaks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIXEL___.TTF'
 end

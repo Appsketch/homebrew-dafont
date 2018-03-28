@@ -5,7 +5,6 @@ cask 'dafont-royal-delight' do
     url 'http://dl.dafont.com/dl/?f=royal_delight'
     name 'Royal Delight'
     homepage 'http://www.dafont.com/royal-delight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Royal Delight Shad.ttf'
     font 'Royal Delight.ttf'

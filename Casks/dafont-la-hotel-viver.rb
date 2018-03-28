@@ -5,7 +5,6 @@ cask 'dafont-la-hotel-viver' do
     url 'http://dl.dafont.com/dl/?f=la_hotel_viver'
     name 'La Hotel Viver'
     homepage 'http://www.dafont.com/la-hotel-viver.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'la_hotel_viver.ttf'
 end

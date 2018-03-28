@@ -5,7 +5,6 @@ cask 'dafont-phitradesign-ink' do
     url 'http://dl.dafont.com/dl/?f=phitradesign_ink'
     name 'Phitradesign INK'
     homepage 'http://www.dafont.com/phitradesign-ink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'phitradesign INK.ttf'
 end

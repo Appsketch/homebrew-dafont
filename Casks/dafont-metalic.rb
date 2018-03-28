@@ -5,7 +5,6 @@ cask 'dafont-metalic' do
     url 'http://dl.dafont.com/dl/?f=metalic'
     name 'Metalic'
     homepage 'http://www.dafont.com/metalic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Metalic.ttf'
 end

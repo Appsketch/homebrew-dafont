@@ -5,7 +5,6 @@ cask 'dafont-aespiro-tfb' do
     url 'http://dl.dafont.com/dl/?f=aespiro_tfb'
     name 'Aespiro TFB'
     homepage 'http://www.dafont.com/aespiro-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aespiro tfb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bombay' do
     url 'http://dl.dafont.com/dl/?f=bombay'
     name 'Bombay'
     homepage 'http://www.dafont.com/bombay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bombay.ttf'
 end

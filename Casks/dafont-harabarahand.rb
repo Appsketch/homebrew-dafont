@@ -5,7 +5,6 @@ cask 'dafont-harabarahand' do
     url 'http://dl.dafont.com/dl/?f=harabarahand'
     name 'Harabara Hand'
     homepage 'http://www.dafont.com/harabarahand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HarabaraHand.ttf'
 end

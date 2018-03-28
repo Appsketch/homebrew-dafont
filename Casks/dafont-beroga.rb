@@ -5,7 +5,6 @@ cask 'dafont-beroga' do
     url 'http://dl.dafont.com/dl/?f=beroga'
     name 'Beroga'
     homepage 'http://www.dafont.com/beroga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beroga.ttf'
 end

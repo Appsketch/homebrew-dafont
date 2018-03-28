@@ -5,7 +5,6 @@ cask 'dafont-butch-sundance' do
     url 'http://dl.dafont.com/dl/?f=butch_sundance'
     name 'Butch &amp; Sundance'
     homepage 'http://www.dafont.com/butch-sundance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'butchsundance.ttf'
     font 'butchsundance3d.ttf'

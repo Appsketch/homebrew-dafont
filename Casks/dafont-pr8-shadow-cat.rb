@@ -5,7 +5,6 @@ cask 'dafont-pr8-shadow-cat' do
     url 'http://dl.dafont.com/dl/?f=pr8_shadow_cat'
     name 'PR8 Shadow Cat'
     homepage 'http://www.dafont.com/pr8-shadow-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PR8 Shadow Cat.ttf'
 end

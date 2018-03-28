@@ -5,7 +5,6 @@ cask 'dafont-voodoo-vampire' do
     url 'http://dl.dafont.com/dl/?f=voodoo_vampire'
     name 'Voodoo Vampire'
     homepage 'http://www.dafont.com/voodoo-vampire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VoodooVampire.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pentomino' do
     url 'http://dl.dafont.com/dl/?f=pentomino'
     name 'Pentomino'
     homepage 'http://www.dafont.com/pentomino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PENTOMIN.TTF'
 end

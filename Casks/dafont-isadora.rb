@@ -5,7 +5,6 @@ cask 'dafont-isadora' do
     url 'http://dl.dafont.com/dl/?f=isadora'
     name 'Isadora'
     homepage 'http://www.dafont.com/isadora.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'isadorac.ttf'
 end

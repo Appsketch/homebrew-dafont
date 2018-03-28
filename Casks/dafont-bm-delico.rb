@@ -5,7 +5,6 @@ cask 'dafont-bm-delico' do
     url 'http://dl.dafont.com/dl/?f=bm_delico'
     name 'BM Delico'
     homepage 'http://www.dafont.com/bm-delico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMDEA___.TTF'
 end

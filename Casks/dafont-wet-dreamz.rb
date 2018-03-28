@@ -5,7 +5,6 @@ cask 'dafont-wet-dreamz' do
     url 'http://dl.dafont.com/dl/?f=wet_dreamz'
     name 'Wet Dreamz'
     homepage 'http://www.dafont.com/wet-dreamz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wet Dreamz Demi.otf'
 end

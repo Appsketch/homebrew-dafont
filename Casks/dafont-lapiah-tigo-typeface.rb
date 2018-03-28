@@ -5,7 +5,6 @@ cask 'dafont-lapiah-tigo-typeface' do
     url 'http://dl.dafont.com/dl/?f=lapiah_tigo_typeface'
     name 'Lapiah Tigo Typeface'
     homepage 'http://www.dafont.com/lapiah-tigo-typeface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lapiah Tigo Typeface.otf'
 end

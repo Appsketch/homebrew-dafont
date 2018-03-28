@@ -5,7 +5,6 @@ cask 'dafont-tosca2' do
     url 'http://dl.dafont.com/dl/?f=tosca2'
     name 'Tosca'
     homepage 'http://www.dafont.com/tosca2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tosca.otf'
 end

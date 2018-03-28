@@ -5,7 +5,6 @@ cask 'dafont-olympiad-xxx' do
     url 'http://dl.dafont.com/dl/?f=olympiad_xxx'
     name 'Olympiad XXX'
     homepage 'http://www.dafont.com/olympiad-xxx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OLYMPIAD XXX.ttf'
 end

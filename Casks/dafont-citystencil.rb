@@ -5,7 +5,6 @@ cask 'dafont-citystencil' do
     url 'http://dl.dafont.com/dl/?f=citystencil'
     name 'City Stencil'
     homepage 'http://www.dafont.com/citystencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CityStencil.ttf'
 end

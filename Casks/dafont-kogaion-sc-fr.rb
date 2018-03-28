@@ -5,7 +5,6 @@ cask 'dafont-kogaion-sc-fr' do
     url 'http://dl.dafont.com/dl/?f=kogaion_sc_fr'
     name 'Kogaion SC FR'
     homepage 'http://www.dafont.com/kogaion-sc-fr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kogaion SC FR v39.ttf'
 end

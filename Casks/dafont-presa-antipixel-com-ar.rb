@@ -5,7 +5,6 @@ cask 'dafont-presa-antipixel-com-ar' do
     url 'http://dl.dafont.com/dl/?f=presa_antipixel_com_ar'
     name 'Presa'
     homepage 'http://www.dafont.com/presa-antipixel-com-ar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Presa_ultralight.ttf'
     font 'Presa.ttf'

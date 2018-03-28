@@ -5,7 +5,6 @@ cask 'dafont-three-ring-circus' do
     url 'http://dl.dafont.com/dl/?f=three_ring_circus'
     name 'Three Ring Circus'
     homepage 'http://www.dafont.com/three-ring-circus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Three Ring Circus.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-heyboy-heygirl' do
     url 'http://dl.dafont.com/dl/?f=heyboy_heygirl'
     name 'HeyBoy! HeyGirl!'
     homepage 'http://www.dafont.com/heyboy-heygirl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'heyboy!heygirl!.ttf'
 end

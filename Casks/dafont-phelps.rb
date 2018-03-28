@@ -5,7 +5,6 @@ cask 'dafont-phelps' do
     url 'http://dl.dafont.com/dl/?f=phelps'
     name 'Phelps'
     homepage 'http://www.dafont.com/phelps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phelps Bold Italic.otf'
     font 'Phelps Bold.otf'

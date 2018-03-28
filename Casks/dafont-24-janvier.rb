@@ -5,7 +5,6 @@ cask 'dafont-24-janvier' do
     url 'http://dl.dafont.com/dl/?f=24_janvier'
     name '24 Janvier'
     homepage 'http://www.dafont.com/24-janvier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '24Janvier-Light.otf'
     font '24Janvier.otf'

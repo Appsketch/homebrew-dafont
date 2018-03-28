@@ -5,7 +5,6 @@ cask 'dafont-jeff-kovalsky' do
     url 'http://dl.dafont.com/dl/?f=jeff_kovalsky'
     name 'Jeff Kovalsky'
     homepage 'http://www.dafont.com/jeff-kovalsky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jeff Kovalsky.ttf'
 end

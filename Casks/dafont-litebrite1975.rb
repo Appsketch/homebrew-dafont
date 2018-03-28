@@ -5,7 +5,6 @@ cask 'dafont-litebrite1975' do
     url 'http://dl.dafont.com/dl/?f=litebrite1975'
     name 'Litebrite 1975'
     homepage 'http://www.dafont.com/litebrite1975.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LITEBRIT.TTF'
 end

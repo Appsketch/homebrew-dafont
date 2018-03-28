@@ -5,7 +5,6 @@ cask 'dafont-selya' do
     url 'http://dl.dafont.com/dl/?f=selya'
     name 'Selya'
     homepage 'http://www.dafont.com/selya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Selya.ttf'
 end

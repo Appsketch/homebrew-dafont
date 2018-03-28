@@ -5,7 +5,6 @@ cask 'dafont-laksoner' do
     url 'http://dl.dafont.com/dl/?f=laksoner'
     name 'Laks Oner'
     homepage 'http://www.dafont.com/laksoner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaksOner.ttf'
 end

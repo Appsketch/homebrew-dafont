@@ -5,7 +5,6 @@ cask 'dafont-yaahowu' do
     url 'http://dl.dafont.com/dl/?f=yaahowu'
     name 'Yaahowu'
     homepage 'http://www.dafont.com/yaahowu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ya&#039;ahowu/Yaahowu Bold Italic.ttf'
     font 'Ya&#039;ahowu/Yaahowu Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-hamburger-heaven' do
     url 'http://dl.dafont.com/dl/?f=hamburger_heaven'
     name 'Hamburger Heaven'
     homepage 'http://www.dafont.com/hamburger-heaven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HAMBH___.TTF'
 end

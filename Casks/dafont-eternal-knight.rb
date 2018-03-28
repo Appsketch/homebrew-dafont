@@ -5,7 +5,6 @@ cask 'dafont-eternal-knight' do
     url 'http://dl.dafont.com/dl/?f=eternal_knight'
     name 'Eternal Knight'
     homepage 'http://www.dafont.com/eternal-knight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eternalknight.ttf'
     font 'eternalknight3d.ttf'

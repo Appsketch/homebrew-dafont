@@ -5,7 +5,6 @@ cask 'dafont-albert-text' do
     url 'http://dl.dafont.com/dl/?f=albert_text'
     name 'Albert Text'
     homepage 'http://www.dafont.com/albert-text.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlbertTextBold.otf'
 end

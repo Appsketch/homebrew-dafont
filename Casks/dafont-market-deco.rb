@@ -5,7 +5,6 @@ cask 'dafont-market-deco' do
     url 'http://dl.dafont.com/dl/?f=market_deco'
     name 'Market Deco'
     homepage 'http://www.dafont.com/market-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Market_Deco.ttf'
 end

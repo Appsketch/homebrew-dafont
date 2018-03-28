@@ -5,7 +5,6 @@ cask 'dafont-bamboo-de-saipan' do
     url 'http://dl.dafont.com/dl/?f=bamboo_de_saipan'
     name 'Bamboo de Saipan'
     homepage 'http://www.dafont.com/bamboo-de-saipan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bamboodesaipan.ttf'
 end

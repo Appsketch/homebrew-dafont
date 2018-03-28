@@ -5,7 +5,6 @@ cask 'dafont-xayax' do
     url 'http://dl.dafont.com/dl/?f=xayax'
     name 'Xayax'
     homepage 'http://www.dafont.com/xayax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XAyax_O.ttf'
     font 'XAyax_S.ttf'

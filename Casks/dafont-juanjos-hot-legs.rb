@@ -5,7 +5,6 @@ cask 'dafont-juanjos-hot-legs' do
     url 'http://dl.dafont.com/dl/?f=juanjos_hot_legs'
     name 'Juanjos Hot Legs'
     homepage 'http://www.dafont.com/juanjos-hot-legs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Juanjo_s Hot Legs (Bold).ttf'
     font 'Juanjo_s Hot Legs.ttf'

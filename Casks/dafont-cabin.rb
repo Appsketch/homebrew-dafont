@@ -5,7 +5,6 @@ cask 'dafont-cabin' do
     url 'http://dl.dafont.com/dl/?f=cabin'
     name 'Cabin'
     homepage 'http://www.dafont.com/cabin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cabin-Bold.ttf'
     font 'Cabin-BoldItalic.ttf'

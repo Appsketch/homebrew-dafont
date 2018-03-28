@@ -5,7 +5,6 @@ cask 'dafont-eterna-infancia' do
     url 'http://dl.dafont.com/dl/?f=eterna_infancia'
     name 'Eterna Infancia'
     homepage 'http://www.dafont.com/eterna-infancia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eterna Infancia.ttf'
 end

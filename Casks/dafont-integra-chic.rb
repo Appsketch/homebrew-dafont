@@ -5,7 +5,6 @@ cask 'dafont-integra-chic' do
     url 'http://dl.dafont.com/dl/?f=integra_chic'
     name 'Integra Chic'
     homepage 'http://www.dafont.com/integra-chic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kustomtype  Integra Chic.otf'
 end

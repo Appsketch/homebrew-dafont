@@ -5,7 +5,6 @@ cask 'dafont-xolo' do
     url 'http://dl.dafont.com/dl/?f=xolo'
     name 'Xolo'
     homepage 'http://www.dafont.com/xolo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xolo Neo.ttf'
     font 'XOLO.ttf'

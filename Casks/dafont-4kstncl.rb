@@ -5,7 +5,6 @@ cask 'dafont-4kstncl' do
     url 'http://dl.dafont.com/dl/?f=4kstncl'
     name '4KSTNCL'
     homepage 'http://www.dafont.com/4kstncl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '4kstncl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-boingo' do
     url 'http://dl.dafont.com/dl/?f=boingo'
     name 'Boingo'
     homepage 'http://www.dafont.com/boingo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boingo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-faelorehn' do
     url 'http://dl.dafont.com/dl/?f=faelorehn'
     name 'Faelorehn'
     homepage 'http://www.dafont.com/faelorehn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Faelorehn.ttf'
 end

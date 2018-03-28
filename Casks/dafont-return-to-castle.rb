@@ -5,7 +5,6 @@ cask 'dafont-return-to-castle' do
     url 'http://dl.dafont.com/dl/?f=return_to_castle'
     name 'Return To Castle'
     homepage 'http://www.dafont.com/return-to-castle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'return.ttf'
 end

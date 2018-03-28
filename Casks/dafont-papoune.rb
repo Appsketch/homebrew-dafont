@@ -5,7 +5,6 @@ cask 'dafont-papoune' do
     url 'http://dl.dafont.com/dl/?f=papoune'
     name 'Papoune'
     homepage 'http://www.dafont.com/papoune.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Papoune.ttf'
 end

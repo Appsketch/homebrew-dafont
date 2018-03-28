@@ -5,7 +5,6 @@ cask 'dafont-ziahw' do
     url 'http://dl.dafont.com/dl/?f=ziahw'
     name 'Zia HW'
     homepage 'http://www.dafont.com/ziahw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ziaHW.ttf'
 end

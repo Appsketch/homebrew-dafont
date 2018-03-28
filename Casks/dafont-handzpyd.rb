@@ -5,7 +5,6 @@ cask 'dafont-handzpyd' do
     url 'http://dl.dafont.com/dl/?f=handzpyd'
     name 'Handzpyd'
     homepage 'http://www.dafont.com/handzpyd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'handzpyd-demo.ttf'
 end

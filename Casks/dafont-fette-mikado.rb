@@ -5,7 +5,6 @@ cask 'dafont-fette-mikado' do
     url 'http://dl.dafont.com/dl/?f=fette_mikado'
     name 'Fette Mikado'
     homepage 'http://www.dafont.com/fette-mikado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FetteMikado.ttf'
 end

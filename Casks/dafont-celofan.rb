@@ -5,7 +5,6 @@ cask 'dafont-celofan' do
     url 'http://dl.dafont.com/dl/?f=celofan'
     name 'Celofan'
     homepage 'http://www.dafont.com/celofan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'celofan.ttf'
 end

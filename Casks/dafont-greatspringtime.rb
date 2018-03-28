@@ -5,7 +5,6 @@ cask 'dafont-greatspringtime' do
     url 'http://dl.dafont.com/dl/?f=greatspringtime'
     name 'Great Springtime'
     homepage 'http://www.dafont.com/greatspringtime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreatSpringtime.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-floralia' do
     url 'http://dl.dafont.com/dl/?f=floralia'
     name 'Floralia'
     homepage 'http://www.dafont.com/floralia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Floralia.ttf'
 end

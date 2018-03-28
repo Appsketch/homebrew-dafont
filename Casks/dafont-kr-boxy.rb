@@ -5,7 +5,6 @@ cask 'dafont-kr-boxy' do
     url 'http://dl.dafont.com/dl/?f=kr_boxy'
     name 'KR Boxy'
     homepage 'http://www.dafont.com/kr-boxy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Boxy.TTF'
 end

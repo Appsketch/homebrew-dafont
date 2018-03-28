@@ -5,7 +5,6 @@ cask 'dafont-auto-mission' do
     url 'http://dl.dafont.com/dl/?f=auto_mission'
     name 'Auto Mission'
     homepage 'http://www.dafont.com/auto-mission.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Auto Mission.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-asymek' do
     url 'http://dl.dafont.com/dl/?f=asymek'
     name 'Asymek'
     homepage 'http://www.dafont.com/asymek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asymek.ttf'
 end

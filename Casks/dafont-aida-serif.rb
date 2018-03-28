@@ -5,7 +5,6 @@ cask 'dafont-aida-serif' do
     url 'http://dl.dafont.com/dl/?f=aida_serif'
     name 'Aida Serif'
     homepage 'http://www.dafont.com/aida-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AidaSerifa-Condensed.ttf'
     font 'AidaSerifObliqueMedium.ttf'

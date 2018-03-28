@@ -5,7 +5,6 @@ cask 'dafont-icebox-art' do
     url 'http://dl.dafont.com/dl/?f=icebox_art'
     name 'Icebox Art'
     homepage 'http://www.dafont.com/icebox-art.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iceboxart.ttf'
     font 'iceboxartcond.ttf'

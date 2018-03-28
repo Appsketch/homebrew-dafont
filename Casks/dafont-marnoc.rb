@@ -5,7 +5,6 @@ cask 'dafont-marnoc' do
     url 'http://dl.dafont.com/dl/?f=marnoc'
     name 'Marnoc'
     homepage 'http://www.dafont.com/marnoc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marnoc.ttf'
 end

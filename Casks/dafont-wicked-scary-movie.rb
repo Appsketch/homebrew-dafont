@@ -5,7 +5,6 @@ cask 'dafont-wicked-scary-movie' do
     url 'http://dl.dafont.com/dl/?f=wicked_scary_movie'
     name 'Wicked Scary Movie'
     homepage 'http://www.dafont.com/wicked-scary-movie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WickedScaryMovie.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vera-type' do
     url 'http://dl.dafont.com/dl/?f=vera_type'
     name 'vVWweRraType!'
     homepage 'http://www.dafont.com/vera-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vVWweRraType!.ttf'
 end

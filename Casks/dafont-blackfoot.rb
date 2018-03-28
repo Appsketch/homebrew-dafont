@@ -5,7 +5,6 @@ cask 'dafont-blackfoot' do
     url 'http://dl.dafont.com/dl/?f=blackfoot'
     name 'Blackfoot'
     homepage 'http://www.dafont.com/blackfoot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blackfoot.ttf'
 end

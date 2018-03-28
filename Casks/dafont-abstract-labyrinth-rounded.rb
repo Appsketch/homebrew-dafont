@@ -5,7 +5,6 @@ cask 'dafont-abstract-labyrinth-rounded' do
     url 'http://dl.dafont.com/dl/?f=abstract_labyrinth_rounded'
     name 'Abstract Labyrinth Rounded'
     homepage 'http://www.dafont.com/abstract-labyrinth-rounded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AbstractLabyrinthRounded.ttf'
 end

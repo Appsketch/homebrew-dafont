@@ -5,7 +5,6 @@ cask 'dafont-maudlin-sketch' do
     url 'http://dl.dafont.com/dl/?f=maudlin_sketch'
     name 'Maudlin Sketch'
     homepage 'http://www.dafont.com/maudlin-sketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maudlin Sketch.ttf'
 end

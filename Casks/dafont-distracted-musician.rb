@@ -5,7 +5,6 @@ cask 'dafont-distracted-musician' do
     url 'http://dl.dafont.com/dl/?f=distracted_musician'
     name 'Distracted Musician'
     homepage 'http://www.dafont.com/distracted-musician.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dist_mus.ttf'
 end

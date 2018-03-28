@@ -5,7 +5,6 @@ cask 'dafont-hole-in-one' do
     url 'http://dl.dafont.com/dl/?f=hole_in_one'
     name 'Hole in One'
     homepage 'http://www.dafont.com/hole-in-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HOLEO___.TTF'
 end

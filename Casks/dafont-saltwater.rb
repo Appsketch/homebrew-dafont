@@ -5,7 +5,6 @@ cask 'dafont-saltwater' do
     url 'http://dl.dafont.com/dl/?f=saltwater'
     name 'Saltwater'
     homepage 'http://www.dafont.com/saltwater.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SALTWATE.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-awesome-dp' do
     url 'http://dl.dafont.com/dl/?f=awesome_dp'
     name 'Awesome'
     homepage 'http://www.dafont.com/awesome-dp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'awesome.ttf'
 end

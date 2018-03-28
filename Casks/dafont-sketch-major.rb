@@ -5,7 +5,6 @@ cask 'dafont-sketch-major' do
     url 'http://dl.dafont.com/dl/?f=sketch_major'
     name 'Sketch Major'
     homepage 'http://www.dafont.com/sketch-major.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sketchmajor.ttf'
 end

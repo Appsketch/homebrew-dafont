@@ -5,7 +5,6 @@ cask 'dafont-myminemai' do
     url 'http://dl.dafont.com/dl/?f=myminemai'
     name 'My Mine Mai'
     homepage 'http://www.dafont.com/myminemai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MyMineMai.ttf'
 end

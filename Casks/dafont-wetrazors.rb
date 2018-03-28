@@ -5,7 +5,6 @@ cask 'dafont-wetrazors' do
     url 'http://dl.dafont.com/dl/?f=wetrazors'
     name 'Wet Razors'
     homepage 'http://www.dafont.com/wetrazors.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WetRazors.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ragequit' do
     url 'http://dl.dafont.com/dl/?f=ragequit'
     name 'Rage Quit'
     homepage 'http://www.dafont.com/ragequit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RageQuit_bold_easternblock V1.2.ttf'
 end

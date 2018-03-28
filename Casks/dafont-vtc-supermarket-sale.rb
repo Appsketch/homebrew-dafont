@@ -5,7 +5,6 @@ cask 'dafont-vtc-supermarket-sale' do
     url 'http://dl.dafont.com/dl/?f=vtc_supermarket_sale'
     name 'VTC Supermarket Sale'
     homepage 'http://www.dafont.com/vtc-supermarket-sale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTCSuperMarketSaleDisplay.ttf'
     font 'VTCSuperMarketSaleDisplayWired.ttf'

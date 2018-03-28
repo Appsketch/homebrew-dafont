@@ -5,7 +5,6 @@ cask 'dafont-crucifixion' do
     url 'http://dl.dafont.com/dl/?f=crucifixion'
     name 'Crucifixion'
     homepage 'http://www.dafont.com/crucifixion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crucifixion-Regular.ttf'
 end

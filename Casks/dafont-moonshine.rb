@@ -5,7 +5,6 @@ cask 'dafont-moonshine' do
     url 'http://dl.dafont.com/dl/?f=moonshine'
     name 'Moonshine'
     homepage 'http://www.dafont.com/moonshine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moonshine.ttf'
 end

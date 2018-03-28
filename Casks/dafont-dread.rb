@@ -5,7 +5,6 @@ cask 'dafont-dread' do
     url 'http://dl.dafont.com/dl/?f=dread'
     name 'Dread'
     homepage 'http://www.dafont.com/dread.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dread.ttf'
 end

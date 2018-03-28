@@ -5,7 +5,6 @@ cask 'dafont-galaxy-tail' do
     url 'http://dl.dafont.com/dl/?f=galaxy_tail'
     name 'Galaxy Tail'
     homepage 'http://www.dafont.com/galaxy-tail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GalaxyTail.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-android' do
     url 'http://dl.dafont.com/dl/?f=android'
     name 'Android'
     homepage 'http://www.dafont.com/android.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Android Hollow.ttf'
     font 'Android Italic.ttf'

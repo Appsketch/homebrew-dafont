@@ -5,7 +5,6 @@ cask 'dafont-bend-it' do
     url 'http://dl.dafont.com/dl/?f=bend_it'
     name 'Bend It'
     homepage 'http://www.dafont.com/bend-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BENDIT__.TTF'
 end

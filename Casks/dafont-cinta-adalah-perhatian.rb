@@ -5,7 +5,6 @@ cask 'dafont-cinta-adalah-perhatian' do
     url 'http://dl.dafont.com/dl/?f=cinta_adalah_perhatian'
     name 'Cinta Adalah Perhatian'
     homepage 'http://www.dafont.com/cinta-adalah-perhatian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cinta Adalah Perhatian.ttf'
 end

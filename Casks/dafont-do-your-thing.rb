@@ -5,7 +5,6 @@ cask 'dafont-do-your-thing' do
     url 'http://dl.dafont.com/dl/?f=do_your_thing'
     name 'Do your thing'
     homepage 'http://www.dafont.com/do-your-thing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'doyourthing.TTF'
 end

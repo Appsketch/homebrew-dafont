@@ -5,7 +5,6 @@ cask 'dafont-quickmoney' do
     url 'http://dl.dafont.com/dl/?f=quickmoney'
     name 'Quick Money'
     homepage 'http://www.dafont.com/quickmoney.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuickMoney.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-maya-culpa' do
     url 'http://dl.dafont.com/dl/?f=maya_culpa'
     name 'Maya Culpa'
     homepage 'http://www.dafont.com/maya-culpa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maya Culpa.ttf'
 end

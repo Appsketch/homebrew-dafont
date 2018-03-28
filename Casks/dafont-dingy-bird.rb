@@ -5,7 +5,6 @@ cask 'dafont-dingy-bird' do
     url 'http://dl.dafont.com/dl/?f=dingy_bird'
     name 'Dingy Bird'
     homepage 'http://www.dafont.com/dingy-bird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dingy_bird.ttf'
 end

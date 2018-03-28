@@ -5,7 +5,6 @@ cask 'dafont-marauder' do
     url 'http://dl.dafont.com/dl/?f=marauder'
     name 'Marauder'
     homepage 'http://www.dafont.com/marauder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marauder.ttf'
 end

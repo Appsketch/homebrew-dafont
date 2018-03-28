@@ -5,7 +5,6 @@ cask 'dafont-cafe-lounge-19' do
     url 'http://dl.dafont.com/dl/?f=cafe_lounge_19'
     name 'Cafe Lounge 19'
     homepage 'http://www.dafont.com/cafe-lounge-19.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cafe_Lounge19_trial.ttf'
 end

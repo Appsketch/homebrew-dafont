@@ -5,7 +5,6 @@ cask 'dafont-djb-speak-the-truth' do
     url 'http://dl.dafont.com/dl/?f=djb_speak_the_truth'
     name 'DJB Speak the Truth'
     homepage 'http://www.dafont.com/djb-speak-the-truth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Speak the Truth Boldly.ttf'
     font 'DJB Speak the Truth.ttf'

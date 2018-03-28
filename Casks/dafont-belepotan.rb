@@ -5,7 +5,6 @@ cask 'dafont-belepotan' do
     url 'http://dl.dafont.com/dl/?f=belepotan'
     name 'Belepotan'
     homepage 'http://www.dafont.com/belepotan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Belepotan-Italic.otf'
     font 'Belepotan-Normal.otf'

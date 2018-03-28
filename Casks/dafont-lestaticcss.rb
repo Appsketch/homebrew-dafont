@@ -5,7 +5,6 @@ cask 'dafont-lestaticcss' do
     url 'http://dl.dafont.com/dl/?f=lestaticcss'
     name 'Lestatic CSS'
     homepage 'http://www.dafont.com/lestaticcss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '!Exclamachine - !LestaticCSS.ttf'
 end

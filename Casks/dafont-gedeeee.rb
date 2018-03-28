@@ -5,7 +5,6 @@ cask 'dafont-gedeeee' do
     url 'http://dl.dafont.com/dl/?f=gedeeee'
     name 'Gedeeee '
     homepage 'http://www.dafont.com/gedeeee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gedeeee.ttf'
 end

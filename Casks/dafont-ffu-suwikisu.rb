@@ -5,7 +5,6 @@ cask 'dafont-ffu-suwikisu' do
     url 'http://dl.dafont.com/dl/?f=ffu_suwikisu'
     name 'FFU Suwikisu'
     homepage 'http://www.dafont.com/ffu-suwikisu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'suwikisu.otf'
 end

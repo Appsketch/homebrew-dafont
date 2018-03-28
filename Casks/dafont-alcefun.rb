@@ -5,7 +5,6 @@ cask 'dafont-alcefun' do
     url 'http://dl.dafont.com/dl/?f=alcefun'
     name 'TG Alcefun'
     homepage 'http://www.dafont.com/alcefun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TG Alcefun.ttf'
 end

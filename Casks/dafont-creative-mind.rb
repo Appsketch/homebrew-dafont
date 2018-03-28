@@ -5,7 +5,6 @@ cask 'dafont-creative-mind' do
     url 'http://dl.dafont.com/dl/?f=creative_mind'
     name 'Creative Mind'
     homepage 'http://www.dafont.com/creative-mind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'creative mind.ttf'
 end

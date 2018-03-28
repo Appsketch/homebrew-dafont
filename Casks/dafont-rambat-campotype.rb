@@ -5,7 +5,6 @@ cask 'dafont-rambat-campotype' do
     url 'http://dl.dafont.com/dl/?f=rambat_campotype'
     name 'Rambat Campotype'
     homepage 'http://www.dafont.com/rambat-campotype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rambat campotype.otf'
 end

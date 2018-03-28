@@ -5,7 +5,6 @@ cask 'dafont-elephantsand-bears' do
     url 'http://dl.dafont.com/dl/?f=elephantsand_bears'
     name 'Elephantsand Bears'
     homepage 'http://www.dafont.com/elephantsand-bears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ElephantsandBears.otf'
 end

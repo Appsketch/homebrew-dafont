@@ -5,7 +5,6 @@ cask 'dafont-sling' do
     url 'http://dl.dafont.com/dl/?f=sling'
     name 'Sling'
     homepage 'http://www.dafont.com/sling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sling.ttf'
     font 'SlingBold.ttf'

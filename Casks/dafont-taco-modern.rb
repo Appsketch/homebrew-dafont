@@ -5,7 +5,6 @@ cask 'dafont-taco-modern' do
     url 'http://dl.dafont.com/dl/?f=taco_modern'
     name 'Taco Modern'
     homepage 'http://www.dafont.com/taco-modern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TACOM___.TTF'
 end

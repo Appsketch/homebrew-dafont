@@ -5,7 +5,6 @@ cask 'dafont-manicsea' do
     url 'http://dl.dafont.com/dl/?f=manicsea'
     name 'Manic Sea'
     homepage 'http://www.dafont.com/manicsea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ManicSea.ttf'
 end

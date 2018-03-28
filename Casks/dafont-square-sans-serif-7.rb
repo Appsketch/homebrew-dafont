@@ -5,7 +5,6 @@ cask 'dafont-square-sans-serif-7' do
     url 'http://dl.dafont.com/dl/?f=square_sans_serif_7'
     name 'Square Sans Serif 7'
     homepage 'http://www.dafont.com/square-sans-serif-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'square_sans_serif_7.ttf'
 end

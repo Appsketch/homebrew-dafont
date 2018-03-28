@@ -5,7 +5,6 @@ cask 'dafont-megadeth' do
     url 'http://dl.dafont.com/dl/?f=megadeth'
     name 'Megadeth'
     homepage 'http://www.dafont.com/megadeth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Megadeth.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-thintel' do
     url 'http://dl.dafont.com/dl/?f=thintel'
     name 'Thintel'
     homepage 'http://www.dafont.com/thintel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thintel.ttf'
 end

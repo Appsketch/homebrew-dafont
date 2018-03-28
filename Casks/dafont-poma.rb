@@ -5,7 +5,6 @@ cask 'dafont-poma' do
     url 'http://dl.dafont.com/dl/?f=poma'
     name 'Poma'
     homepage 'http://www.dafont.com/poma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Poma_Rg.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-phoenix3' do
     url 'http://dl.dafont.com/dl/?f=phoenix3'
     name 'Phoenix'
     homepage 'http://www.dafont.com/phoenix3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'phoenix regular.ttf'
 end

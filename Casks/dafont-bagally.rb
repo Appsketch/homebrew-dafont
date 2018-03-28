@@ -5,7 +5,6 @@ cask 'dafont-bagally' do
     url 'http://dl.dafont.com/dl/?f=bagally'
     name 'Bagally'
     homepage 'http://www.dafont.com/bagally.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bagally.ttf'
 end

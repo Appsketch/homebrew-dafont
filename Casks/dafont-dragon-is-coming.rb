@@ -5,7 +5,6 @@ cask 'dafont-dragon-is-coming' do
     url 'http://dl.dafont.com/dl/?f=dragon_is_coming'
     name 'Dragon is Coming'
     homepage 'http://www.dafont.com/dragon-is-coming.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dragon is coming.otf'
 end

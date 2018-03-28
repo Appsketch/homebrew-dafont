@@ -5,7 +5,6 @@ cask 'dafont-lipi' do
     url 'http://dl.dafont.com/dl/?f=lipi'
     name 'Lipi'
     homepage 'http://www.dafont.com/lipi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lipi.ttf'
 end

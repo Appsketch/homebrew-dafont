@@ -5,7 +5,6 @@ cask 'dafont-brady-bunch' do
     url 'http://dl.dafont.com/dl/?f=brady_bunch'
     name 'Brady Bunch Remastered'
     homepage 'http://www.dafont.com/brady-bunch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BradBunR.ttf'
 end

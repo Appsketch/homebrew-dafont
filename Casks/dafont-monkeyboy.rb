@@ -5,7 +5,6 @@ cask 'dafont-monkeyboy' do
     url 'http://dl.dafont.com/dl/?f=monkeyboy'
     name 'Monkeyboy'
     homepage 'http://www.dafont.com/monkeyboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monkeyboy.ttf'
 end

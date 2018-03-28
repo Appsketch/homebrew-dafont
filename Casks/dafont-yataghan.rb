@@ -5,7 +5,6 @@ cask 'dafont-yataghan' do
     url 'http://dl.dafont.com/dl/?f=yataghan'
     name 'Yataghan'
     homepage 'http://www.dafont.com/yataghan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yataghan-Regular.otf'
 end

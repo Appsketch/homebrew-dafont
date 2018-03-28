@@ -5,7 +5,6 @@ cask 'dafont-sigma-five' do
     url 'http://dl.dafont.com/dl/?f=sigma_five'
     name 'Sigma Five'
     homepage 'http://www.dafont.com/sigma-five.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sigma Five Bold Italic.otf'
     font 'Sigma Five Bold.otf'

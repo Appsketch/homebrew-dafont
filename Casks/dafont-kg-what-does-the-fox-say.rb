@@ -5,7 +5,6 @@ cask 'dafont-kg-what-does-the-fox-say' do
     url 'http://dl.dafont.com/dl/?f=kg_what_does_the_fox_say'
     name 'KG What Does the Fox Say'
     homepage 'http://www.dafont.com/kg-what-does-the-fox-say.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGWhatDoesTheFoxSay.ttf'
 end

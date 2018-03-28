@@ -5,7 +5,6 @@ cask 'dafont-bienchen-sas' do
     url 'http://dl.dafont.com/dl/?f=bienchen_sas'
     name 'Bienchen SAS'
     homepage 'http://www.dafont.com/bienchen-sas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bienchen a.ttf'
     font 'Bienchen b.ttf'

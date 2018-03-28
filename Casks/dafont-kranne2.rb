@@ -5,7 +5,6 @@ cask 'dafont-kranne2' do
     url 'http://dl.dafont.com/dl/?f=kranne2'
     name 'Kranne2'
     homepage 'http://www.dafont.com/kranne2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kranne2.ttf'
 end

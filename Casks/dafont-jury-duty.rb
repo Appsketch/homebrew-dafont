@@ -5,7 +5,6 @@ cask 'dafont-jury-duty' do
     url 'http://dl.dafont.com/dl/?f=jury_duty'
     name 'Jury Duty'
     homepage 'http://www.dafont.com/jury-duty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JuryDutyFont.ttf'
 end

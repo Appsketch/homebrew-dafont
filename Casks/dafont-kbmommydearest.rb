@@ -5,7 +5,6 @@ cask 'dafont-kbmommydearest' do
     url 'http://dl.dafont.com/dl/?f=kbmommydearest'
     name 'KB Mommy Dearest'
     homepage 'http://www.dafont.com/kbmommydearest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBMommyDearest.ttf'
 end

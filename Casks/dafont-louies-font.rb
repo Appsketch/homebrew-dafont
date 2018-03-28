@@ -5,7 +5,6 @@ cask 'dafont-louies-font' do
     url 'http://dl.dafont.com/dl/?f=louies_font'
     name 'Louie'
     homepage 'http://www.dafont.com/louies-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Louie_&#039;s Font.ttf'
 end

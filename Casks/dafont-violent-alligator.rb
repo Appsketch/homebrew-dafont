@@ -5,7 +5,6 @@ cask 'dafont-violent-alligator' do
     url 'http://dl.dafont.com/dl/?f=violent_alligator'
     name 'Violent Alligator'
     homepage 'http://www.dafont.com/violent-alligator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Violent_Alligator_erc_2007.ttf'
 end

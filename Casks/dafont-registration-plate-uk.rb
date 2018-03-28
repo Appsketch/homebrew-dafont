@@ -5,7 +5,6 @@ cask 'dafont-registration-plate-uk' do
     url 'http://dl.dafont.com/dl/?f=registration_plate_uk'
     name 'Registration Plate UK'
     homepage 'http://www.dafont.com/registration-plate-uk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REGISTRATION PLATE UK.ttf'
 end

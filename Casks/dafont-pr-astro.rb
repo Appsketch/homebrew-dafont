@@ -5,7 +5,6 @@ cask 'dafont-pr-astro' do
     url 'http://dl.dafont.com/dl/?f=pr_astro'
     name 'PR Astro'
     homepage 'http://www.dafont.com/pr-astro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASTRO.TTF'
 end

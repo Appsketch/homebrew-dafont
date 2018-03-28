@@ -5,7 +5,6 @@ cask 'dafont-bradford' do
     url 'http://dl.dafont.com/dl/?f=bradford'
     name 'Bradford'
     homepage 'http://www.dafont.com/bradford.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bradford.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-conspiracy' do
     url 'http://dl.dafont.com/dl/?f=conspiracy'
     name 'Conspiracy'
     homepage 'http://www.dafont.com/conspiracy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Conspiracy.otf'
 end

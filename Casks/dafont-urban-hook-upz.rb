@@ -5,7 +5,6 @@ cask 'dafont-urban-hook-upz' do
     url 'http://dl.dafont.com/dl/?f=urban_hook_upz'
     name 'Urban Hook-Upz'
     homepage 'http://www.dafont.com/urban-hook-upz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'URBAN_HOOK-UPZ.ttf'
 end

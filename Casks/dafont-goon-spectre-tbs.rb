@@ -5,7 +5,6 @@ cask 'dafont-goon-spectre-tbs' do
     url 'http://dl.dafont.com/dl/?f=goon_spectre_tbs'
     name 'Goon Spectre TBS'
     homepage 'http://www.dafont.com/goon-spectre-tbs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'goonspectre_tbs bold.ttf'
     font 'goonspectre_tbs.ttf'

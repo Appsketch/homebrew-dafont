@@ -5,7 +5,6 @@ cask 'dafont-sophomore-yearbook' do
     url 'http://dl.dafont.com/dl/?f=sophomore_yearbook'
     name 'Sophomore Yearbook'
     homepage 'http://www.dafont.com/sophomore-yearbook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sophomore Yearbook.ttf'
 end

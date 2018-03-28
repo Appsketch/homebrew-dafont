@@ -5,7 +5,6 @@ cask 'dafont-sc-tinas-baby-shower' do
     url 'http://dl.dafont.com/dl/?f=sc_tinas_baby_shower'
     name 'SC Tina&#039;s Baby Shower'
     homepage 'http://www.dafont.com/sc-tinas-baby-shower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SC Tinas Baby Shower DEMO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rpg-katakana' do
     url 'http://dl.dafont.com/dl/?f=rpg_katakana'
     name 'R.P.G. Katakana'
     homepage 'http://www.dafont.com/rpg-katakana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rpg__.ttf'
     font 'rpgk__.ttf'

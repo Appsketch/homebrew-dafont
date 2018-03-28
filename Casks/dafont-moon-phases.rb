@@ -5,7 +5,6 @@ cask 'dafont-moon-phases' do
     url 'http://dl.dafont.com/dl/?f=moon_phases'
     name 'Moon Phases'
     homepage 'http://www.dafont.com/moon-phases.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'moon_phases.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stampwriter-kit' do
     url 'http://dl.dafont.com/dl/?f=stampwriter_kit'
     name 'Stampwriter-Kit'
     homepage 'http://www.dafont.com/stampwriter-kit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STAMPWRITER-KIT.ttf'
 end

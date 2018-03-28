@@ -5,7 +5,6 @@ cask 'dafont-delusion' do
     url 'http://dl.dafont.com/dl/?f=delusion'
     name 'Delusion'
     homepage 'http://www.dafont.com/delusion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DELUSION.ttf'
 end

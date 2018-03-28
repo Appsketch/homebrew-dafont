@@ -5,7 +5,6 @@ cask 'dafont-be-a-pro' do
     url 'http://dl.dafont.com/dl/?f=be_a_pro'
     name 'Be A Pro'
     homepage 'http://www.dafont.com/be-a-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Be A Pro.ttf'
 end

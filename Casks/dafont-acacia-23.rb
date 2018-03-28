@@ -5,7 +5,6 @@ cask 'dafont-acacia-23' do
     url 'http://dl.dafont.com/dl/?f=acacia_23'
     name 'Acacia 23'
     homepage 'http://www.dafont.com/acacia-23.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Acacia_23.ttf'
 end

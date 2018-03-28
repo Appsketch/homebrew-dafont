@@ -5,7 +5,6 @@ cask 'dafont-kbzipadeedoodah' do
     url 'http://dl.dafont.com/dl/?f=kbzipadeedoodah'
     name 'KB Zipa Dee Doo Dah'
     homepage 'http://www.dafont.com/kbzipadeedoodah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBZipaDeeDooDah.ttf'
 end

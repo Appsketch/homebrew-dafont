@@ -5,7 +5,6 @@ cask 'dafont-blueberry-pie' do
     url 'http://dl.dafont.com/dl/?f=blueberry_pie'
     name 'Blueberry Pie'
     homepage 'http://www.dafont.com/blueberry-pie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blueberry-Pie.ttf'
 end

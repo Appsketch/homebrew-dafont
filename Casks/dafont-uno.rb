@@ -5,7 +5,6 @@ cask 'dafont-uno' do
     url 'http://dl.dafont.com/dl/?f=uno'
     name 'Uno'
     homepage 'http://www.dafont.com/uno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Uno.ttf'
 end

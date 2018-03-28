@@ -5,7 +5,6 @@ cask 'dafont-judas' do
     url 'http://dl.dafont.com/dl/?f=judas'
     name 'Judas'
     homepage 'http://www.dafont.com/judas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JUDAS___.TTF'
 end

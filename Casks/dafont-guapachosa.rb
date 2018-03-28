@@ -5,7 +5,6 @@ cask 'dafont-guapachosa' do
     url 'http://dl.dafont.com/dl/?f=guapachosa'
     name 'Guapachosa'
     homepage 'http://www.dafont.com/guapachosa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'guapachosa.ttf'
 end

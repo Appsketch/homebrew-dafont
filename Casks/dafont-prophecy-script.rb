@@ -5,7 +5,6 @@ cask 'dafont-prophecy-script' do
     url 'http://dl.dafont.com/dl/?f=prophecy_script'
     name 'Prophecy Script'
     homepage 'http://www.dafont.com/prophecy-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Prophecy_Script.ttf'
 end

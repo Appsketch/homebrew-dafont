@@ -5,7 +5,6 @@ cask 'dafont-meagre' do
     url 'http://dl.dafont.com/dl/?f=meagre'
     name 'Meagre'
     homepage 'http://www.dafont.com/meagre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'meagre.ttf'
 end

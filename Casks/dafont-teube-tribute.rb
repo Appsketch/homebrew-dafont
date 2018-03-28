@@ -5,7 +5,6 @@ cask 'dafont-teube-tribute' do
     url 'http://dl.dafont.com/dl/?f=teube_tribute'
     name 'Teub&eacute; Tribute'
     homepage 'http://www.dafont.com/teube-tribute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TeubTribute.ttf'
 end

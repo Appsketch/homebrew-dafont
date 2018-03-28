@@ -5,7 +5,6 @@ cask 'dafont-ornaments-labels-and-frames' do
     url 'http://dl.dafont.com/dl/?f=ornaments_labels_and_frames'
     name 'Ornaments Labels and Frames'
     homepage 'http://www.dafont.com/ornaments-labels-and-frames.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ornaments labels and frames.ttf'
 end

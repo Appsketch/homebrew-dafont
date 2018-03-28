@@ -5,7 +5,6 @@ cask 'dafont-basic-comical-nc' do
     url 'http://dl.dafont.com/dl/?f=basic_comical_nc'
     name 'Basic Comical NC'
     homepage 'http://www.dafont.com/basic-comical-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Basic Comical Italic NC.ttf'
     font 'Basic Comical Regular NC.ttf'

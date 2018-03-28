@@ -5,7 +5,6 @@ cask 'dafont-disoluta' do
     url 'http://dl.dafont.com/dl/?f=disoluta'
     name 'Disoluta'
     homepage 'http://www.dafont.com/disoluta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Disoluta-font-FFP.ttf'
 end

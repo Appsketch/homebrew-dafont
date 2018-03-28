@@ -5,7 +5,6 @@ cask 'dafont-luxury-brands' do
     url 'http://dl.dafont.com/dl/?f=luxury_brands'
     name 'Luxury Brands'
     homepage 'http://www.dafont.com/luxury-brands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'luxury brands.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-zdyk-aquarius' do
     url 'http://dl.dafont.com/dl/?f=zdyk_aquarius'
     name 'Zdyk Aquarius'
     homepage 'http://www.dafont.com/zdyk-aquarius.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zdyk Aquarius.otf'
 end

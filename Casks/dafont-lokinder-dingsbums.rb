@@ -5,7 +5,6 @@ cask 'dafont-lokinder-dingsbums' do
     url 'http://dl.dafont.com/dl/?f=lokinder_dingsbums'
     name 'Lokinder Dingsbums'
     homepage 'http://www.dafont.com/lokinder-dingsbums.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOKIDL__.TTF'
     font 'LOKIDR__.TTF'

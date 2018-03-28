@@ -5,7 +5,6 @@ cask 'dafont-bubbledco' do
     url 'http://dl.dafont.com/dl/?f=bubbledco'
     name 'Bubbledco'
     homepage 'http://www.dafont.com/bubbledco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bubbledcoxy.ttf'
 end

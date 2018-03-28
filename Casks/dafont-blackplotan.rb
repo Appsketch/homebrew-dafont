@@ -5,7 +5,6 @@ cask 'dafont-blackplotan' do
     url 'http://dl.dafont.com/dl/?f=blackplotan'
     name 'Blackplotan'
     homepage 'http://www.dafont.com/blackplotan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLACKPLOTAN Italic.otf'
     font 'BLACKPLOTAN.otf'

@@ -5,7 +5,6 @@ cask 'dafont-the-earth' do
     url 'http://dl.dafont.com/dl/?f=the_earth'
     name 'the earth'
     homepage 'http://www.dafont.com/the-earth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the earth.ttf'
 end

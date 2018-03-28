@@ -5,7 +5,6 @@ cask 'dafont-blank' do
     url 'http://dl.dafont.com/dl/?f=blank'
     name 'Blank'
     homepage 'http://www.dafont.com/blank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blank-Bold.otf'
     font 'blank-Regular.otf'

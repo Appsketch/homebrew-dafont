@@ -5,7 +5,6 @@ cask 'dafont-munchies' do
     url 'http://dl.dafont.com/dl/?f=munchies'
     name 'Munchies'
     homepage 'http://www.dafont.com/munchies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Munchies.ttf'
 end

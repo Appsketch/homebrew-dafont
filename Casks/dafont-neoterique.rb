@@ -5,7 +5,6 @@ cask 'dafont-neoterique' do
     url 'http://dl.dafont.com/dl/?f=neoterique'
     name 'Neoterique'
     homepage 'http://www.dafont.com/neoterique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neoterique Italic.ttf'
     font 'Neoterique.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-lucie-mandragore' do
     url 'http://dl.dafont.com/dl/?f=lucie_mandragore'
     name 'Lucie Mandragore'
     homepage 'http://www.dafont.com/lucie-mandragore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lucie mandragore.ttf'
 end

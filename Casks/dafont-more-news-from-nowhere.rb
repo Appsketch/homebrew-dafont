@@ -5,7 +5,6 @@ cask 'dafont-more-news-from-nowhere' do
     url 'http://dl.dafont.com/dl/?f=more_news_from_nowhere'
     name 'More news from nowhere'
     homepage 'http://www.dafont.com/more-news-from-nowhere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'More news from nowhere, again.ttf'
     font 'More news from nowhere.ttf'

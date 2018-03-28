@@ -5,7 +5,6 @@ cask 'dafont-half-glass' do
     url 'http://dl.dafont.com/dl/?f=half_glass'
     name 'Half Glass'
     homepage 'http://www.dafont.com/half-glass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Half_Glass.ttf'
 end

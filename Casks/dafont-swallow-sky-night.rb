@@ -5,7 +5,6 @@ cask 'dafont-swallow-sky-night' do
     url 'http://dl.dafont.com/dl/?f=swallow_sky_night'
     name 'Swallow Sky Night'
     homepage 'http://www.dafont.com/swallow-sky-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SWALLOW.ttf'
 end

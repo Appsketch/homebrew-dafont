@@ -5,7 +5,6 @@ cask 'dafont-bambhout-trial' do
     url 'http://dl.dafont.com/dl/?f=bambhout_trial'
     name 'Bambhout'
     homepage 'http://www.dafont.com/bambhout-trial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bambhout_trial.ttf'
 end

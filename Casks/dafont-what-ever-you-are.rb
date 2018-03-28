@@ -5,7 +5,6 @@ cask 'dafont-what-ever-you-are' do
     url 'http://dl.dafont.com/dl/?f=what_ever_you_are'
     name 'What ever you are'
     homepage 'http://www.dafont.com/what-ever-you-are.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'whateveryouare.ttf'
 end

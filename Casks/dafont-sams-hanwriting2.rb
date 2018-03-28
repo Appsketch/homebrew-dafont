@@ -5,7 +5,6 @@ cask 'dafont-sams-hanwriting2' do
     url 'http://dl.dafont.com/dl/?f=sams_hanwriting2'
     name 'Sams Hanwriting'
     homepage 'http://www.dafont.com/sams-hanwriting2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sams handwriting.ttf'
 end

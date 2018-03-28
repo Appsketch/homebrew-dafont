@@ -5,7 +5,6 @@ cask 'dafont-lettre-dans-le-decor' do
     url 'http://dl.dafont.com/dl/?f=lettre_dans_le_decor'
     name 'Lettre Dans Le Decor'
     homepage 'http://www.dafont.com/lettre-dans-le-decor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lettre Dans Le Decor.ttf'
 end

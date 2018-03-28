@@ -5,7 +5,6 @@ cask 'dafont-kbsketch' do
     url 'http://dl.dafont.com/dl/?f=kbsketch'
     name 'KB Sketch'
     homepage 'http://www.dafont.com/kbsketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBSketch.ttf'
 end

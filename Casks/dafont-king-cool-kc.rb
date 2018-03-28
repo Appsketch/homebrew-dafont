@@ -5,7 +5,6 @@ cask 'dafont-king-cool-kc' do
     url 'http://dl.dafont.com/dl/?f=king_cool_kc'
     name 'King CooL KC'
     homepage 'http://www.dafont.com/king-cool-kc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'King Cool KC.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gargoyles-de-france' do
     url 'http://dl.dafont.com/dl/?f=gargoyles_de_france'
     name 'Gargoyles de France'
     homepage 'http://www.dafont.com/gargoyles-de-france.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GARGOO__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-war-letters' do
     url 'http://dl.dafont.com/dl/?f=war_letters'
     name 'War letters'
     homepage 'http://www.dafont.com/war-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'War letters.ttf'
 end

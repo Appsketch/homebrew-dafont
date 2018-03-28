@@ -5,7 +5,6 @@ cask 'dafont-rottapuisto' do
     url 'http://dl.dafont.com/dl/?f=rottapuisto'
     name 'Rottapuisto'
     homepage 'http://www.dafont.com/rottapuisto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rottapuisto.ttf'
 end

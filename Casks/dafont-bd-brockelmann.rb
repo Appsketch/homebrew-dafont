@@ -5,7 +5,6 @@ cask 'dafont-bd-brockelmann' do
     url 'http://dl.dafont.com/dl/?f=bd_brockelmann'
     name 'BD Brockelmann'
     homepage 'http://www.dafont.com/bd-brockelmann.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDBROCKE.TTF'
 end

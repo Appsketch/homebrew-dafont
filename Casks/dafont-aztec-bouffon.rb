@@ -5,7 +5,6 @@ cask 'dafont-aztec-bouffon' do
     url 'http://dl.dafont.com/dl/?f=aztec_bouffon'
     name 'Aztec Bouffon'
     homepage 'http://www.dafont.com/aztec-bouffon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aztec_bouffon.ttf'
 end

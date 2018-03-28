@@ -5,7 +5,6 @@ cask 'dafont-living-free' do
     url 'http://dl.dafont.com/dl/?f=living_free'
     name 'Living Free'
     homepage 'http://www.dafont.com/living-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'livingfree.ttf'
 end

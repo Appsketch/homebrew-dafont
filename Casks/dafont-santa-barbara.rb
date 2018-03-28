@@ -5,7 +5,6 @@ cask 'dafont-santa-barbara' do
     url 'http://dl.dafont.com/dl/?f=santa_barbara'
     name 'Santa Barbara'
     homepage 'http://www.dafont.com/santa-barbara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Santa Barbara.ttf'
 end

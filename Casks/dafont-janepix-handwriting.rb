@@ -5,7 +5,6 @@ cask 'dafont-janepix-handwriting' do
     url 'http://dl.dafont.com/dl/?f=janepix_handwriting'
     name 'Janepix Handwriting'
     homepage 'http://www.dafont.com/janepix-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Janepix_Hand.ttf'
 end

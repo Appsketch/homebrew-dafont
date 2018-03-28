@@ -5,7 +5,6 @@ cask 'dafont-dk-garden-gnome' do
     url 'http://dl.dafont.com/dl/?f=dk_garden_gnome'
     name 'DK Garden Gnome'
     homepage 'http://www.dafont.com/dk-garden-gnome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Garden Gnome.otf'
 end

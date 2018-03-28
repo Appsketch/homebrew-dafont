@@ -5,7 +5,6 @@ cask 'dafont-jamaicafont' do
     url 'http://dl.dafont.com/dl/?f=jamaicafont'
     name 'Jamaicafont'
     homepage 'http://www.dafont.com/jamaicafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jamaicafont.ttf'
 end

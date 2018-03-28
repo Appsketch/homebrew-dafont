@@ -5,7 +5,6 @@ cask 'dafont-russel-write-tt' do
     url 'http://dl.dafont.com/dl/?f=russel_write_tt'
     name 'Russel Write'
     homepage 'http://www.dafont.com/russel-write-tt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Russel Write TT.ttf'
 end

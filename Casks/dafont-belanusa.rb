@@ -5,7 +5,6 @@ cask 'dafont-belanusa' do
     url 'http://dl.dafont.com/dl/?f=belanusa'
     name 'Belanusa'
     homepage 'http://www.dafont.com/belanusa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Belanusa.ttf'
 end

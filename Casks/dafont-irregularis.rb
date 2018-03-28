@@ -5,7 +5,6 @@ cask 'dafont-irregularis' do
     url 'http://dl.dafont.com/dl/?f=irregularis'
     name 'Irregularis'
     homepage 'http://www.dafont.com/irregularis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Irregularis.ttf'
 end

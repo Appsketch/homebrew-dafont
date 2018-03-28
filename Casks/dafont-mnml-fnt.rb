@@ -5,7 +5,6 @@ cask 'dafont-mnml-fnt' do
     url 'http://dl.dafont.com/dl/?f=mnml_fnt'
     name 'Mnml Fnt'
     homepage 'http://www.dafont.com/mnml-fnt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MNML FNT.ttf'
 end

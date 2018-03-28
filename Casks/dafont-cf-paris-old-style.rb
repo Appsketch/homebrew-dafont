@@ -5,7 +5,6 @@ cask 'dafont-cf-paris-old-style' do
     url 'http://dl.dafont.com/dl/?f=cf_paris_old_style'
     name 'CF Paris Old Style'
     homepage 'http://www.dafont.com/cf-paris-old-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFParisOldStyle-Regular.ttf'
 end

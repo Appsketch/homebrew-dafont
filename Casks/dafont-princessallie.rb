@@ -5,7 +5,6 @@ cask 'dafont-princessallie' do
     url 'http://dl.dafont.com/dl/?f=princessallie'
     name 'Princess Allie'
     homepage 'http://www.dafont.com/princessallie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrincessAllie.ttf'
 end

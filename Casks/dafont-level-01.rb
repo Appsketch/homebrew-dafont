@@ -5,7 +5,6 @@ cask 'dafont-level-01' do
     url 'http://dl.dafont.com/dl/?f=level_01'
     name 'Level 01'
     homepage 'http://www.dafont.com/level-01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Level 01 Bold.ttf'
     font 'Level 01 Shadow.ttf'

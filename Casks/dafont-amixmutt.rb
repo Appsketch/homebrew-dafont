@@ -5,7 +5,6 @@ cask 'dafont-amixmutt' do
     url 'http://dl.dafont.com/dl/?f=amixmutt'
     name 'Amixmutt'
     homepage 'http://www.dafont.com/amixmutt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amixmutt.ttf'
 end

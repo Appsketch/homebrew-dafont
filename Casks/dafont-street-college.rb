@@ -5,7 +5,6 @@ cask 'dafont-street-college' do
     url 'http://dl.dafont.com/dl/?f=street_college'
     name 'Street College'
     homepage 'http://www.dafont.com/street-college.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Street_College.ttf'
 end

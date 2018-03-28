@@ -5,7 +5,6 @@ cask 'dafont-ivalician-gothic' do
     url 'http://dl.dafont.com/dl/?f=ivalician_gothic'
     name 'Ivalician Gothic'
     homepage 'http://www.dafont.com/ivalician-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IvalicianGothic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-loserboi-grunge' do
     url 'http://dl.dafont.com/dl/?f=loserboi_grunge'
     name 'Loserboi Grunge'
     homepage 'http://www.dafont.com/loserboi-grunge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'loserboi_grunge.ttf'
 end

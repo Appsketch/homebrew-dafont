@@ -5,7 +5,6 @@ cask 'dafont-fasttime' do
     url 'http://dl.dafont.com/dl/?f=fasttime'
     name 'Fast Time'
     homepage 'http://www.dafont.com/fasttime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FastTime.ttf'
 end

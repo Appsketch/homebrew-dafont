@@ -5,7 +5,6 @@ cask 'dafont-djb-jacked-up-kinda-luv' do
     url 'http://dl.dafont.com/dl/?f=djb_jacked_up_kinda_luv'
     name 'DJB Jacked Up Kinda Luv'
     homepage 'http://www.dafont.com/djb-jacked-up-kinda-luv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Jacked Up Kinda Luv.ttf'
 end

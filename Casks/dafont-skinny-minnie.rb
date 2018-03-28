@@ -5,7 +5,6 @@ cask 'dafont-skinny-minnie' do
     url 'http://dl.dafont.com/dl/?f=skinny_minnie'
     name 'Skinny Minnie'
     homepage 'http://www.dafont.com/skinny-minnie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skinny_minnie.ttf'
 end

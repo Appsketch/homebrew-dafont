@@ -5,7 +5,6 @@ cask 'dafont-manga-speak' do
     url 'http://dl.dafont.com/dl/?f=manga_speak'
     name 'Manga Speak'
     homepage 'http://www.dafont.com/manga-speak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'manga_speak_bold.ttf'
     font 'manga_speak.ttf'

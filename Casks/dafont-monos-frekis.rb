@@ -5,7 +5,6 @@ cask 'dafont-monos-frekis' do
     url 'http://dl.dafont.com/dl/?f=monos_frekis'
     name 'Monos Frekis'
     homepage 'http://www.dafont.com/monos-frekis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monos_freaky.ttf'
 end

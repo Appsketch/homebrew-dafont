@@ -5,7 +5,6 @@ cask 'dafont-wartorn' do
     url 'http://dl.dafont.com/dl/?f=wartorn'
     name 'Wartorn'
     homepage 'http://www.dafont.com/wartorn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WARTORN_.TTF'
 end

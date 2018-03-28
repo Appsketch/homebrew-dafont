@@ -5,7 +5,6 @@ cask 'dafont-old-republic' do
     url 'http://dl.dafont.com/dl/?f=old_republic'
     name 'Old Republic'
     homepage 'http://www.dafont.com/old-republic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old_R.ttf'
 end

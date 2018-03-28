@@ -5,7 +5,6 @@ cask 'dafont-seven-sisters' do
     url 'http://dl.dafont.com/dl/?f=seven_sisters'
     name 'Seven Sisters'
     homepage 'http://www.dafont.com/seven-sisters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seven Sisters.ttf'
 end

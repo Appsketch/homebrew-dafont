@@ -5,7 +5,6 @@ cask 'dafont-dos-campos' do
     url 'http://dl.dafont.com/dl/?f=dos_campos'
     name 'Dos Campos'
     homepage 'http://www.dafont.com/dos-campos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dos campos Blod.ttf'
     font 'Dos campos.ttf'

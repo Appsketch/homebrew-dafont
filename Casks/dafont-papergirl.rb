@@ -5,7 +5,6 @@ cask 'dafont-papergirl' do
     url 'http://dl.dafont.com/dl/?f=papergirl'
     name 'Paper Girl'
     homepage 'http://www.dafont.com/papergirl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaperGirl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-six-weeks-ago' do
     url 'http://dl.dafont.com/dl/?f=six_weeks_ago'
     name 'Six weeks ago'
     homepage 'http://www.dafont.com/six-weeks-ago.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'six_weeks_ago.ttf'
 end

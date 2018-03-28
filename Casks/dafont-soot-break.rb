@@ -5,7 +5,6 @@ cask 'dafont-soot-break' do
     url 'http://dl.dafont.com/dl/?f=soot_break'
     name 'Soot Break'
     homepage 'http://www.dafont.com/soot-break.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sootBreak.ttf'
 end

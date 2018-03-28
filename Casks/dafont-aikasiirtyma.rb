@@ -5,7 +5,6 @@ cask 'dafont-aikasiirtyma' do
     url 'http://dl.dafont.com/dl/?f=aikasiirtyma'
     name 'Aikasiirtyma'
     homepage 'http://www.dafont.com/aikasiirtyma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aikasiirtyma.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-erotica' do
     url 'http://dl.dafont.com/dl/?f=erotica'
     name 'Erotica CD'
     homepage 'http://www.dafont.com/erotica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EROTC___.TTF'
 end

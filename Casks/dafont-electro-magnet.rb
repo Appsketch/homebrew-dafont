@@ -5,7 +5,6 @@ cask 'dafont-electro-magnet' do
     url 'http://dl.dafont.com/dl/?f=electro_magnet'
     name 'Electro Magnet'
     homepage 'http://www.dafont.com/electro-magnet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ELECTRO MAGNET.ttf'
 end

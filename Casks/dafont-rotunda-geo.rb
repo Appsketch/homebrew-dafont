@@ -5,7 +5,6 @@ cask 'dafont-rotunda-geo' do
     url 'http://dl.dafont.com/dl/?f=rotunda_geo'
     name 'Rotunda Geo'
     homepage 'http://www.dafont.com/rotunda-geo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rotunda Geo.ttf'
 end

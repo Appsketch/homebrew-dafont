@@ -5,7 +5,6 @@ cask 'dafont-lost-in-moments' do
     url 'http://dl.dafont.com/dl/?f=lost_in_moments'
     name 'Lost in moments'
     homepage 'http://www.dafont.com/lost-in-moments.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lost in moments.ttf'
 end

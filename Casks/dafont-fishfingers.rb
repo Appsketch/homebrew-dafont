@@ -5,7 +5,6 @@ cask 'dafont-fishfingers' do
     url 'http://dl.dafont.com/dl/?f=fishfingers'
     name 'Fish Fingers'
     homepage 'http://www.dafont.com/fishfingers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fishfingers Light.ttf'
     font 'Fishfingers.ttf'

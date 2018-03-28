@@ -5,7 +5,6 @@ cask 'dafont-dk-insomniac' do
     url 'http://dl.dafont.com/dl/?f=dk_insomniac'
     name 'DK Insomniac'
     homepage 'http://www.dafont.com/dk-insomniac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Insomniac.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kurt-russell' do
     url 'http://dl.dafont.com/dl/?f=kurt_russell'
     name 'Kurt Russell'
     homepage 'http://www.dafont.com/kurt-russell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kurtruss.ttf'
 end

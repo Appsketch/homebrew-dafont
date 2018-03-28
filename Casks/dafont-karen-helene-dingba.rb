@@ -5,7 +5,6 @@ cask 'dafont-karen-helene-dingba' do
     url 'http://dl.dafont.com/dl/?f=karen_helene_dingba'
     name 'Karen Helene Dingbats'
     homepage 'http://www.dafont.com/karen-helene-dingba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KAREHD__.TTF'
 end

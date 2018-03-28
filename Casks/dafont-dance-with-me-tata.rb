@@ -5,7 +5,6 @@ cask 'dafont-dance-with-me-tata' do
     url 'http://dl.dafont.com/dl/?f=dance_with_me_tata'
     name 'Dance With Me Tata'
     homepage 'http://www.dafont.com/dance-with-me-tata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dance With Me Tata.ttf'
 end

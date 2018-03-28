@@ -5,7 +5,6 @@ cask 'dafont-sea-reef' do
     url 'http://dl.dafont.com/dl/?f=sea_reef'
     name 'Sea Reef'
     homepage 'http://www.dafont.com/sea-reef.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sea Reef.otf'
 end

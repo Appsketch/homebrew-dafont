@@ -5,7 +5,6 @@ cask 'dafont-axr-airpena' do
     url 'http://dl.dafont.com/dl/?f=axr_airpena'
     name 'AXR Airpena'
     homepage 'http://www.dafont.com/axr-airpena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AXR AirpenaFreeVersion.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-flash-rogers' do
     url 'http://dl.dafont.com/dl/?f=flash_rogers'
     name 'Flash Rogers'
     homepage 'http://www.dafont.com/flash-rogers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'flashrogers.ttf'
     font 'flashrogers3d.ttf'

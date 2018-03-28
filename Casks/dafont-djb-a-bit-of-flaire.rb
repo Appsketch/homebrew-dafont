@@ -5,7 +5,6 @@ cask 'dafont-djb-a-bit-of-flaire' do
     url 'http://dl.dafont.com/dl/?f=djb_a_bit_of_flaire'
     name 'DJB A Bit of Flaire'
     homepage 'http://www.dafont.com/djb-a-bit-of-flaire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB A Bit of Flaire.ttf'
 end

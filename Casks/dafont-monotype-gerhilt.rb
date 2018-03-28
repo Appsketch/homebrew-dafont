@@ -5,7 +5,6 @@ cask 'dafont-monotype-gerhilt' do
     url 'http://dl.dafont.com/dl/?f=monotype_gerhilt'
     name 'Monotype Gerhilt'
     homepage 'http://www.dafont.com/monotype-gerhilt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monotype_Gerhilt.ttf'
 end

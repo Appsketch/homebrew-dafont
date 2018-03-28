@@ -5,7 +5,6 @@ cask 'dafont-vitreous' do
     url 'http://dl.dafont.com/dl/?f=vitreous'
     name 'Vitreous'
     homepage 'http://www.dafont.com/vitreous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vitreous-Black.ttf'
     font 'Vitreous-Heavy.ttf'

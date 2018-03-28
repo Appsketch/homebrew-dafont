@@ -5,7 +5,6 @@ cask 'dafont-plakat-fraktur' do
     url 'http://dl.dafont.com/dl/?f=plakat_fraktur'
     name 'Plakat Fraktur'
     homepage 'http://www.dafont.com/plakat-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plakat-Fraktur.ttf'
 end

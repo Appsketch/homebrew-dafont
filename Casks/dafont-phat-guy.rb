@@ -5,7 +5,6 @@ cask 'dafont-phat-guy' do
     url 'http://dl.dafont.com/dl/?f=phat_guy'
     name 'Phat Guy'
     homepage 'http://www.dafont.com/phat-guy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PHATGUY_.TTF'
 end

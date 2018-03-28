@@ -5,7 +5,6 @@ cask 'dafont-cusco' do
     url 'http://dl.dafont.com/dl/?f=cusco'
     name 'Cusco'
     homepage 'http://www.dafont.com/cusco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cusco.otf'
 end

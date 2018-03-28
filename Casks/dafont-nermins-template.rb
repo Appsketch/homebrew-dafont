@@ -5,7 +5,6 @@ cask 'dafont-nermins-template' do
     url 'http://dl.dafont.com/dl/?f=nermins_template'
     name 'Nermin&#039;s Template'
     homepage 'http://www.dafont.com/nermins-template.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nermin&#039;s Template.ttf'
 end

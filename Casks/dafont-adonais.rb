@@ -5,7 +5,6 @@ cask 'dafont-adonais' do
     url 'http://dl.dafont.com/dl/?f=adonais'
     name 'Adonais'
     homepage 'http://www.dafont.com/adonais.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adonais.ttf'
 end

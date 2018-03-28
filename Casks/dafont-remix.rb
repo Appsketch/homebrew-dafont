@@ -5,7 +5,6 @@ cask 'dafont-remix' do
     url 'http://dl.dafont.com/dl/?f=remix'
     name 'Remix'
     homepage 'http://www.dafont.com/remix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Remix Regular.ttf'
 end

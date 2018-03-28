@@ -5,7 +5,6 @@ cask 'dafont-boltondropcaps' do
     url 'http://dl.dafont.com/dl/?f=boltondropcaps'
     name 'Bolton Drop Caps'
     homepage 'http://www.dafont.com/boltondropcaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BoltonDropCaps.ttf'
 end

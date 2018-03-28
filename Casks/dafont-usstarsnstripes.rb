@@ -5,7 +5,6 @@ cask 'dafont-usstarsnstripes' do
     url 'http://dl.dafont.com/dl/?f=usstarsnstripes'
     name 'US Stars N Stripes'
     homepage 'http://www.dafont.com/usstarsnstripes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'USStarsNStripes.ttf'
 end

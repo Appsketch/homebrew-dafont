@@ -5,7 +5,6 @@ cask 'dafont-grossakzidentfucked' do
     url 'http://dl.dafont.com/dl/?f=grossakzidentfucked'
     name 'Gross Akzident Fucked'
     homepage 'http://www.dafont.com/grossakzidentfucked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GROSAF__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-whittier' do
     url 'http://dl.dafont.com/dl/?f=whittier'
     name 'Whittier'
     homepage 'http://www.dafont.com/whittier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Whittier-Regular.ttf'
 end

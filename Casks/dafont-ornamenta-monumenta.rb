@@ -5,7 +5,6 @@ cask 'dafont-ornamenta-monumenta' do
     url 'http://dl.dafont.com/dl/?f=ornamenta_monumenta'
     name 'Ornamenta Monumenta'
     homepage 'http://www.dafont.com/ornamenta-monumenta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OrnamentaMonumenta.ttf'
 end

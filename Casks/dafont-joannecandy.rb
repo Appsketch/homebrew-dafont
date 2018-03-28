@@ -5,7 +5,6 @@ cask 'dafont-joannecandy' do
     url 'http://dl.dafont.com/dl/?f=joannecandy'
     name 'Joanne Candy'
     homepage 'http://www.dafont.com/joannecandy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JoanneCandy.otf'
 end

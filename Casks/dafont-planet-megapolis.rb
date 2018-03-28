@@ -5,7 +5,6 @@ cask 'dafont-planet-megapolis' do
     url 'http://dl.dafont.com/dl/?f=planet_megapolis'
     name 'Planet Megapolis'
     homepage 'http://www.dafont.com/planet-megapolis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'planet_megapolis/PLANM___.TTF'
 end

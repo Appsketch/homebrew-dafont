@@ -5,7 +5,6 @@ cask 'dafont-crayola-kiddy-font' do
     url 'http://dl.dafont.com/dl/?f=crayola_kiddy_font'
     name 'Crayola Kiddy Font'
     homepage 'http://www.dafont.com/crayola-kiddy-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crayola Kiddy Font.ttf'
 end

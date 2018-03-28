@@ -5,7 +5,6 @@ cask 'dafont-princeofpersia' do
     url 'http://dl.dafont.com/dl/?f=princeofpersia'
     name 'Prince of Persia'
     homepage 'http://www.dafont.com/princeofpersia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PRINP___.ttf'
 end

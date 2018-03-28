@@ -5,7 +5,6 @@ cask 'dafont-venus-rising' do
     url 'http://dl.dafont.com/dl/?f=venus_rising'
     name 'Venus Rising'
     homepage 'http://www.dafont.com/venus-rising.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'venus rising rg.ttf'
 end

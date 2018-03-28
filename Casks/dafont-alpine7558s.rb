@@ -5,7 +5,6 @@ cask 'dafont-alpine7558s' do
     url 'http://dl.dafont.com/dl/?f=alpine7558s'
     name 'Alpine 7558S'
     homepage 'http://www.dafont.com/alpine7558s.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALPNSCND.TTF'
 end

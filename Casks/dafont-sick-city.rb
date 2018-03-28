@@ -5,7 +5,6 @@ cask 'dafont-sick-city' do
     url 'http://dl.dafont.com/dl/?f=sick_city'
     name 'Sick City'
     homepage 'http://www.dafont.com/sick-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Leons Font Sick City.ttf'
 end

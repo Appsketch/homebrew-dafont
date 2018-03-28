@@ -5,7 +5,6 @@ cask 'dafont-disparador-stencil' do
     url 'http://dl.dafont.com/dl/?f=disparador_stencil'
     name 'Disparador Stencil'
     homepage 'http://www.dafont.com/disparador-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'disparador_stencil.ttf'
 end

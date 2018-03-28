@@ -5,7 +5,6 @@ cask 'dafont-mi-amor' do
     url 'http://dl.dafont.com/dl/?f=mi_amor'
     name 'Mi Amor'
     homepage 'http://www.dafont.com/mi-amor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiAmor-demo.otf'
 end

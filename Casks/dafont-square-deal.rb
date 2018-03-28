@@ -5,7 +5,6 @@ cask 'dafont-square-deal' do
     url 'http://dl.dafont.com/dl/?f=square_deal'
     name 'Square Deal'
     homepage 'http://www.dafont.com/square-deal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'square-deal.ttf'
 end

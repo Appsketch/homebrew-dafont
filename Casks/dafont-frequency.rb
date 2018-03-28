@@ -5,7 +5,6 @@ cask 'dafont-frequency' do
     url 'http://dl.dafont.com/dl/?f=frequency'
     name 'Frequency'
     homepage 'http://www.dafont.com/frequency.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frequency.ttf'
 end

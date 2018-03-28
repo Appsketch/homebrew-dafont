@@ -5,7 +5,6 @@ cask 'dafont-troll-kabba-font' do
     url 'http://dl.dafont.com/dl/?f=troll_kabbA_font'
     name 'Troll Kabb&aacute;'
     homepage 'http://www.dafont.com/troll-kabbA-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TROLL KABB&micro; FONT.ttf'
 end

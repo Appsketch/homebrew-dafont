@@ -5,7 +5,6 @@ cask 'dafont-maribel' do
     url 'http://dl.dafont.com/dl/?f=maribel'
     name 'Maribel'
     homepage 'http://www.dafont.com/maribel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'maribel.ttf'
 end

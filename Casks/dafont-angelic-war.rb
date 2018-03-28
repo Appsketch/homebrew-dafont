@@ -5,7 +5,6 @@ cask 'dafont-angelic-war' do
     url 'http://dl.dafont.com/dl/?f=angelic_war'
     name 'Angelic War'
     homepage 'http://www.dafont.com/angelic-war.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NON COMMERCIAL USE ONLY/AngelicWar.ttf'
 end

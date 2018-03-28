@@ -5,7 +5,6 @@ cask 'dafont-maelstrom' do
     url 'http://dl.dafont.com/dl/?f=maelstrom'
     name 'Maelstrom'
     homepage 'http://www.dafont.com/maelstrom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAELS___.TTF'
 end

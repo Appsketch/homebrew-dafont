@@ -5,7 +5,6 @@ cask 'dafont-levirebrushed' do
     url 'http://dl.dafont.com/dl/?f=levirebrushed'
     name 'Levi ReBrushed'
     homepage 'http://www.dafont.com/levirebrushed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LeviReBrushed.ttf'
 end

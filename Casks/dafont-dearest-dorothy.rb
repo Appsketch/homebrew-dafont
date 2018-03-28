@@ -5,7 +5,6 @@ cask 'dafont-dearest-dorothy' do
     url 'http://dl.dafont.com/dl/?f=dearest_dorothy'
     name 'Dearest Dorothy'
     homepage 'http://www.dafont.com/dearest-dorothy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dearest Dorothy.ttf'
 end

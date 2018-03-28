@@ -5,7 +5,6 @@ cask 'dafont-slutotronic' do
     url 'http://dl.dafont.com/dl/?f=slutotronic'
     name 'Slutotronic'
     homepage 'http://www.dafont.com/slutotronic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'slutotronic.ttf'
 end

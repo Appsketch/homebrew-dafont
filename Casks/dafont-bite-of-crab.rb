@@ -5,7 +5,6 @@ cask 'dafont-bite-of-crab' do
     url 'http://dl.dafont.com/dl/?f=bite_of_crab'
     name 'Bite of Crab'
     homepage 'http://www.dafont.com/bite-of-crab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BITEOFCR.TTF'
 end

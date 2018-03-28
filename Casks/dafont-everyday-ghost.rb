@@ -5,7 +5,6 @@ cask 'dafont-everyday-ghost' do
     url 'http://dl.dafont.com/dl/?f=everyday_ghost'
     name 'Everyday Ghost'
     homepage 'http://www.dafont.com/everyday-ghost.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Everyday_Ghost.ttf'
 end

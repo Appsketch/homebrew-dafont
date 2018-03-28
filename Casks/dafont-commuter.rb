@@ -5,7 +5,6 @@ cask 'dafont-commuter' do
     url 'http://dl.dafont.com/dl/?f=commuter'
     name 'Commuter'
     homepage 'http://www.dafont.com/commuter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Commuter.otf'
 end

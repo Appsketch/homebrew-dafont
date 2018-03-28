@@ -5,7 +5,6 @@ cask 'dafont-stylewars-2011' do
     url 'http://dl.dafont.com/dl/?f=stylewars_2011'
     name 'Stylewars 2011'
     homepage 'http://www.dafont.com/stylewars-2011.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STYLEWARS 2011.ttf'
 end

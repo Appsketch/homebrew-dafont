@@ -5,7 +5,6 @@ cask 'dafont-vinnieboombahnf' do
     url 'http://dl.dafont.com/dl/?f=vinnieboombahnf'
     name 'Vinnie Boom Bah NF'
     homepage 'http://www.dafont.com/vinnieboombahnf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VINNBBN_.TTF'
 end

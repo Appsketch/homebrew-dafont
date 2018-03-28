@@ -5,7 +5,6 @@ cask 'dafont-spion-verpflanzung' do
     url 'http://dl.dafont.com/dl/?f=spion_verpflanzung'
     name 'Spion Verpflanzung'
     homepage 'http://www.dafont.com/spion-verpflanzung.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpionVerpflanzung.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-breaktime' do
     url 'http://dl.dafont.com/dl/?f=breaktime'
     name 'Break Time'
     homepage 'http://www.dafont.com/breaktime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BreakTime.ttf'
 end

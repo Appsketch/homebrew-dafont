@@ -5,7 +5,6 @@ cask 'dafont-wildthang' do
     url 'http://dl.dafont.com/dl/?f=wildthang'
     name 'Wild Thang'
     homepage 'http://www.dafont.com/wildthang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WildThang.ttf'
 end

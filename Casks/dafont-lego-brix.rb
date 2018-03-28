@@ -5,7 +5,6 @@ cask 'dafont-lego-brix' do
     url 'http://dl.dafont.com/dl/?f=lego_brix'
     name 'Lego Brix'
     homepage 'http://www.dafont.com/lego-brix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEGO BRIX.ttf'
 end

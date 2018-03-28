@@ -5,7 +5,6 @@ cask 'dafont-glidepath' do
     url 'http://dl.dafont.com/dl/?f=glidepath'
     name '#Glidepath'
     homepage 'http://www.dafont.com/glidepath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '#gleitpfad.ttf'
     font '#glidepath.ttf'

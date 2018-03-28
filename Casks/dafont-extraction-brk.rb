@@ -5,7 +5,6 @@ cask 'dafont-extraction-brk' do
     url 'http://dl.dafont.com/dl/?f=extraction_brk'
     name 'Extraction BRK'
     homepage 'http://www.dafont.com/extraction-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'extracti.ttf'
 end

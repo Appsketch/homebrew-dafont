@@ -5,7 +5,6 @@ cask 'dafont-sketchbook-challenge' do
     url 'http://dl.dafont.com/dl/?f=sketchbook_challenge'
     name 'Sketchbook Challenge'
     homepage 'http://www.dafont.com/sketchbook-challenge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketchbook Challenge.ttf'
 end

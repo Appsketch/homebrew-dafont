@@ -5,7 +5,6 @@ cask 'dafont-metal-arhythmetic' do
     url 'http://dl.dafont.com/dl/?f=metal_arhythmetic'
     name 'Metal Arhythmetic'
     homepage 'http://www.dafont.com/metal-arhythmetic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'metal_arhythmetic.ttf'
 end

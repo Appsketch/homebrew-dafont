@@ -5,7 +5,6 @@ cask 'dafont-never-grow-up' do
     url 'http://dl.dafont.com/dl/?f=never_grow_up'
     name 'Never Grow Up'
     homepage 'http://www.dafont.com/never-grow-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeverGrowUp.ttf'
 end

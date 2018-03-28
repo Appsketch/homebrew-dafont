@@ -5,7 +5,6 @@ cask 'dafont-down-town-auto' do
     url 'http://dl.dafont.com/dl/?f=down_town_auto'
     name 'Down Town Auto'
     homepage 'http://www.dafont.com/down-town-auto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Down Town Auto.ttf'
 end

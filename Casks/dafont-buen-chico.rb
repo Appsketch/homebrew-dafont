@@ -5,7 +5,6 @@ cask 'dafont-buen-chico' do
     url 'http://dl.dafont.com/dl/?f=buen_chico'
     name 'Buen Chico'
     homepage 'http://www.dafont.com/buen-chico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUENC___.TTF'
 end

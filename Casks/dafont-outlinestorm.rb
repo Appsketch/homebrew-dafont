@@ -5,7 +5,6 @@ cask 'dafont-outlinestorm' do
     url 'http://dl.dafont.com/dl/?f=outlinestorm'
     name 'Outline Storm'
     homepage 'http://www.dafont.com/outlinestorm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OutlineStorm.ttf'
 end

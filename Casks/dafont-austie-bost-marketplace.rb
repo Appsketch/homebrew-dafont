@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-marketplace' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_marketplace'
     name 'Austie Bost Marketplace'
     homepage 'http://www.dafont.com/austie-bost-marketplace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Marketplace.ttf'
 end

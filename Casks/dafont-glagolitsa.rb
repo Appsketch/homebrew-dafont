@@ -5,7 +5,6 @@ cask 'dafont-glagolitsa' do
     url 'http://dl.dafont.com/dl/?f=glagolitsa'
     name 'Glagolitsa'
     homepage 'http://www.dafont.com/glagolitsa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Glagolitsa.ttf'
 end

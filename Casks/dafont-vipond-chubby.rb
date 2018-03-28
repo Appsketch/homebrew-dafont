@@ -5,7 +5,6 @@ cask 'dafont-vipond-chubby' do
     url 'http://dl.dafont.com/dl/?f=vipond_chubby'
     name 'Vipond Chubby'
     homepage 'http://www.dafont.com/vipond-chubby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vipond_chubby.ttf'
 end

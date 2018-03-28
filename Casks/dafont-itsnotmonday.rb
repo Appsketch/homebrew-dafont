@@ -5,7 +5,6 @@ cask 'dafont-itsnotmonday' do
     url 'http://dl.dafont.com/dl/?f=itsnotmonday'
     name 'Its Not Monday'
     homepage 'http://www.dafont.com/itsnotmonday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ItsNotMonday.ttf'
 end

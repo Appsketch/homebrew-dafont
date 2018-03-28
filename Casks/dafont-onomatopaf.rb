@@ -5,7 +5,6 @@ cask 'dafont-onomatopaf' do
     url 'http://dl.dafont.com/dl/?f=onomatopaf'
     name 'Onomatopaf'
     homepage 'http://www.dafont.com/onomatopaf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Onomatopaf.ttf'
 end

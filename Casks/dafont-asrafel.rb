@@ -5,7 +5,6 @@ cask 'dafont-asrafel' do
     url 'http://dl.dafont.com/dl/?f=asrafel'
     name 'Asrafel'
     homepage 'http://www.dafont.com/asrafel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASRAFEL_.TTF'
 end

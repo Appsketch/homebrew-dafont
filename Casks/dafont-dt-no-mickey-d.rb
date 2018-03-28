@@ -5,7 +5,6 @@ cask 'dafont-dt-no-mickey-d' do
     url 'http://dl.dafont.com/dl/?f=dt_no_mickey_d'
     name 'DT No Mickey D'
     homepage 'http://www.dafont.com/dt-no-mickey-d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DT No Mickey D.ttf'
 end

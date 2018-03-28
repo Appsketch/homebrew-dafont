@@ -5,7 +5,6 @@ cask 'dafont-tenchceliber' do
     url 'http://dl.dafont.com/dl/?f=tenchceliber'
     name 'TenCHCeliber'
     homepage 'http://www.dafont.com/tenchceliber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TenCHCeliber.ttf'
 end

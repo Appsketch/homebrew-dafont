@@ -5,7 +5,6 @@ cask 'dafont-slukoni' do
     url 'http://dl.dafont.com/dl/?f=slukoni'
     name 'Slukoni Fat'
     homepage 'http://www.dafont.com/slukoni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slukoni-Fat.otf'
 end

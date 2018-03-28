@@ -5,7 +5,6 @@ cask 'dafont-smuckers' do
     url 'http://dl.dafont.com/dl/?f=smuckers'
     name 'Smuckers'
     homepage 'http://www.dafont.com/smuckers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'smuckers.otf'
 end

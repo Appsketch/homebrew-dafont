@@ -5,7 +5,6 @@ cask 'dafont-major-guilty' do
     url 'http://dl.dafont.com/dl/?f=major_guilty'
     name 'Major Guilty'
     homepage 'http://www.dafont.com/major-guilty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAJOR ___.otf'
 end

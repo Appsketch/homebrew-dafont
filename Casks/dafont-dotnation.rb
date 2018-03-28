@@ -5,7 +5,6 @@ cask 'dafont-dotnation' do
     url 'http://dl.dafont.com/dl/?f=dotnation'
     name 'Dotnation'
     homepage 'http://www.dafont.com/dotnation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dotnation.ttf'
 end

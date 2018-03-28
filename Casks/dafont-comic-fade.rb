@@ -5,7 +5,6 @@ cask 'dafont-comic-fade' do
     url 'http://dl.dafont.com/dl/?f=comic_fade'
     name 'Comic Fade'
     homepage 'http://www.dafont.com/comic-fade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comic-Fade.ttf'
 end

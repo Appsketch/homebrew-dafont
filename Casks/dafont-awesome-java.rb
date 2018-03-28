@@ -5,7 +5,6 @@ cask 'dafont-awesome-java' do
     url 'http://dl.dafont.com/dl/?f=awesome_java'
     name 'Awesome Java'
     homepage 'http://www.dafont.com/awesome-java.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'awesome_java.ttf'
 end

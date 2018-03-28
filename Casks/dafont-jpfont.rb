@@ -5,7 +5,6 @@ cask 'dafont-jpfont' do
     url 'http://dl.dafont.com/dl/?f=jpfont'
     name 'JPfont'
     homepage 'http://www.dafont.com/jpfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JPfont.ttf'
 end

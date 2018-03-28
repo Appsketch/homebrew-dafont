@@ -5,7 +5,6 @@ cask 'dafont-pokemon-kiddy-ding' do
     url 'http://dl.dafont.com/dl/?f=pokemon_kiddy_ding'
     name 'Pokemon Kiddy Ding'
     homepage 'http://www.dafont.com/pokemon-kiddy-ding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pokemon Kiddy Ding.ttf'
 end

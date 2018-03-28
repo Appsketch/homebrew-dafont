@@ -5,7 +5,6 @@ cask 'dafont-sl-rock-art' do
     url 'http://dl.dafont.com/dl/?f=sl_rock_art'
     name 'SL Rock Art'
     homepage 'http://www.dafont.com/sl-rock-art.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SL Rock Art.ttf'
 end

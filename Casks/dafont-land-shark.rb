@@ -5,7 +5,6 @@ cask 'dafont-land-shark' do
     url 'http://dl.dafont.com/dl/?f=land_shark'
     name 'Land Shark'
     homepage 'http://www.dafont.com/land-shark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'land.ttf'
     font 'landc.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-blockquote-black' do
     url 'http://dl.dafont.com/dl/?f=blockquote_black'
     name 'Blockquote Black'
     homepage 'http://www.dafont.com/blockquote-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLOCBL__.TTF'
 end

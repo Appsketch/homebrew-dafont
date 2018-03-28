@@ -5,7 +5,6 @@ cask 'dafont-pencilcase' do
     url 'http://dl.dafont.com/dl/?f=pencilcase'
     name 'Pencil Case'
     homepage 'http://www.dafont.com/pencilcase.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pencilCASE.ttf'
 end

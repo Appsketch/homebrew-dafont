@@ -5,7 +5,6 @@ cask 'dafont-cleanfade' do
     url 'http://dl.dafont.com/dl/?f=cleanfade'
     name 'CleanFade'
     homepage 'http://www.dafont.com/cleanfade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CleanFade.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-igloo-laser' do
     url 'http://dl.dafont.com/dl/?f=igloo_laser'
     name 'Igloo Laser'
     homepage 'http://www.dafont.com/igloo-laser.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IGLOO.TTF'
 end

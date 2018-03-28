@@ -5,7 +5,6 @@ cask 'dafont-mtf-scribblie' do
     url 'http://dl.dafont.com/dl/?f=mtf_scribblie'
     name 'MTF Scribblie'
     homepage 'http://www.dafont.com/mtf-scribblie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Scribblie.ttf'
 end

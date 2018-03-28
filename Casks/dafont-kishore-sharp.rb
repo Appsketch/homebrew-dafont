@@ -5,7 +5,6 @@ cask 'dafont-kishore-sharp' do
     url 'http://dl.dafont.com/dl/?f=kishore_sharp'
     name 'Kishore Sharp'
     homepage 'http://www.dafont.com/kishore-sharp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kishore-sharp.ttf'
 end

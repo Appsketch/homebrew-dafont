@@ -5,7 +5,6 @@ cask 'dafont-casual-hardcore' do
     url 'http://dl.dafont.com/dl/?f=casual_hardcore'
     name 'Casual Hardcore'
     homepage 'http://www.dafont.com/casual-hardcore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Casual Hardcore.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nachos-tv' do
     url 'http://dl.dafont.com/dl/?f=nachos_tv'
     name 'Nachos &amp; TV'
     homepage 'http://www.dafont.com/nachos-tv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NACHOTL_.ttf'
 end

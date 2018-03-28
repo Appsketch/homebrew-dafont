@@ -5,7 +5,6 @@ cask 'dafont-pencilpete-font' do
     url 'http://dl.dafont.com/dl/?f=pencilpete_font'
     name 'Pencil Pete'
     homepage 'http://www.dafont.com/pencilpete-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PPETRIAL.ttf'
 end

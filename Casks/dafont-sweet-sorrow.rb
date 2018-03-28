@@ -5,7 +5,6 @@ cask 'dafont-sweet-sorrow' do
     url 'http://dl.dafont.com/dl/?f=sweet_sorrow'
     name 'Sweet Sorrow'
     homepage 'http://www.dafont.com/sweet-sorrow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sweet Sorrow.ttf'
 end

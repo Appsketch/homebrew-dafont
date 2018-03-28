@@ -5,7 +5,6 @@ cask 'dafont-dear-joe-four' do
     url 'http://dl.dafont.com/dl/?f=dear_joe_four'
     name 'Dear Joe Four'
     homepage 'http://www.dafont.com/dear-joe-four.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dJ4TRIAL.ttf'
 end

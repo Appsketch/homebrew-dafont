@@ -5,7 +5,6 @@ cask 'dafont-get-richer' do
     url 'http://dl.dafont.com/dl/?f=get_richer'
     name 'Get Richer'
     homepage 'http://www.dafont.com/get-richer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Get Richer.otf'
 end

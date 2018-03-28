@@ -5,7 +5,6 @@ cask 'dafont-pookie' do
     url 'http://dl.dafont.com/dl/?f=pookie'
     name 'Pookie'
     homepage 'http://www.dafont.com/pookie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POOKIE__.TTF'
     font 'pookiest.ttf'

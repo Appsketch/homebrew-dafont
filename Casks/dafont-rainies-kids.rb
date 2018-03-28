@@ -5,7 +5,6 @@ cask 'dafont-rainies-kids' do
     url 'http://dl.dafont.com/dl/?f=rainies_kids'
     name 'Rainies Kids'
     homepage 'http://www.dafont.com/rainies-kids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KIDS.TTF'
 end

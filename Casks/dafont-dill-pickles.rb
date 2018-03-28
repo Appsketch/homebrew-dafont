@@ -5,7 +5,6 @@ cask 'dafont-dill-pickles' do
     url 'http://dl.dafont.com/dl/?f=dill_pickles'
     name 'Dill Pickles'
     homepage 'http://www.dafont.com/dill-pickles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dill pickles.ttf'
 end

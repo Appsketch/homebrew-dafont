@@ -5,7 +5,6 @@ cask 'dafont-angry-bitch' do
     url 'http://dl.dafont.com/dl/?f=angry_bitch'
     name 'Angry Bitch'
     homepage 'http://www.dafont.com/angry-bitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'angrybitch.ttf'
 end

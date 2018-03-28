@@ -5,7 +5,6 @@ cask 'dafont-headsome-modif' do
     url 'http://dl.dafont.com/dl/?f=headsome_modif'
     name 'Headsome &amp; Modif'
     homepage 'http://www.dafont.com/headsome-modif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HEADSOME &amp; Modif Cut1.ttf'
     font 'HEADSOME &amp; MODIF.ttf'

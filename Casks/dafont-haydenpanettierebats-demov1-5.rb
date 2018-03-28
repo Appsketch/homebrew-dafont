@@ -5,7 +5,6 @@ cask 'dafont-haydenpanettierebats-demov1-5' do
     url 'http://dl.dafont.com/dl/?f=haydenpanettierebats_demov1_5'
     name 'Hayden Panettiere Bats'
     homepage 'http://www.dafont.com/haydenpanettierebats-demov1-5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HaydenPanettiereBatsv1.5_demo.ttf'
 end

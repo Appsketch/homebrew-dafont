@@ -5,7 +5,6 @@ cask 'dafont-drek' do
     url 'http://dl.dafont.com/dl/?f=drek'
     name 'Drek'
     homepage 'http://www.dafont.com/drek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DREKL___.TTF'
     font 'DREKN___.TTF'

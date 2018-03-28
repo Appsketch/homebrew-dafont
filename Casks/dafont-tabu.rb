@@ -5,7 +5,6 @@ cask 'dafont-tabu' do
     url 'http://dl.dafont.com/dl/?f=tabu'
     name 'Tabu'
     homepage 'http://www.dafont.com/tabu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TABU TRIAL____.otf'
 end

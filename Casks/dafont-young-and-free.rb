@@ -5,7 +5,6 @@ cask 'dafont-young-and-free' do
     url 'http://dl.dafont.com/dl/?f=young_and_free'
     name 'Young And Free'
     homepage 'http://www.dafont.com/young-and-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Young And free.ttf'
 end

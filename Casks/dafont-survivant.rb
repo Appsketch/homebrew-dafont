@@ -5,7 +5,6 @@ cask 'dafont-survivant' do
     url 'http://dl.dafont.com/dl/?f=survivant'
     name 'Survivant'
     homepage 'http://www.dafont.com/survivant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'survivant.ttf'
 end

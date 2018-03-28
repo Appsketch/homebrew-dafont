@@ -5,7 +5,6 @@ cask 'dafont-lt-oksana' do
     url 'http://dl.dafont.com/dl/?f=lt_oksana'
     name 'LRT Oksana'
     homepage 'http://www.dafont.com/lt-oksana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LRT Oksana Bold Italic.ttf'
     font 'LRT Oksana Bold.ttf'

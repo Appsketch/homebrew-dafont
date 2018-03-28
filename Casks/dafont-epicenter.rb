@@ -5,7 +5,6 @@ cask 'dafont-epicenter' do
     url 'http://dl.dafont.com/dl/?f=epicenter'
     name 'Epicenter'
     homepage 'http://www.dafont.com/epicenter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Epicenter-Black.ttf'
     font 'Epicenter-BlackItalic.ttf'

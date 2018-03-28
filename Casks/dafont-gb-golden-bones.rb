@@ -5,7 +5,6 @@ cask 'dafont-gb-golden-bones' do
     url 'http://dl.dafont.com/dl/?f=gb_golden_bones'
     name 'GB Golden Bones'
     homepage 'http://www.dafont.com/gb-golden-bones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GBGoldenBones-Regular.otf'
 end

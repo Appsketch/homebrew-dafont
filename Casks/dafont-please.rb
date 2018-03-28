@@ -5,7 +5,6 @@ cask 'dafont-please' do
     url 'http://dl.dafont.com/dl/?f=please'
     name 'Please'
     homepage 'http://www.dafont.com/please.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Please.ttf'
 end

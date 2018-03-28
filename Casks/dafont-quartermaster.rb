@@ -5,7 +5,6 @@ cask 'dafont-quartermaster' do
     url 'http://dl.dafont.com/dl/?f=quartermaster'
     name 'Quartermaster'
     homepage 'http://www.dafont.com/quartermaster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quartermaster-Regular.otf'
 end

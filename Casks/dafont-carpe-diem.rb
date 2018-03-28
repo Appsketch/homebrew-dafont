@@ -5,7 +5,6 @@ cask 'dafont-carpe-diem' do
     url 'http://dl.dafont.com/dl/?f=carpe_diem'
     name 'Carpe Diem'
     homepage 'http://www.dafont.com/carpe-diem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carpe Diem.ttf'
 end

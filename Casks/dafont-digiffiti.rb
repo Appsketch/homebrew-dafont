@@ -5,7 +5,6 @@ cask 'dafont-digiffiti' do
     url 'http://dl.dafont.com/dl/?f=digiffiti'
     name 'Digiffiti'
     homepage 'http://www.dafont.com/digiffiti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'digiffiti.ttf'
 end

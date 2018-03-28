@@ -5,7 +5,6 @@ cask 'dafont-rising-brush' do
     url 'http://dl.dafont.com/dl/?f=rising_brush'
     name 'Rising Brush'
     homepage 'http://www.dafont.com/rising-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dirtyline Rising Brush Free.ttf'
 end

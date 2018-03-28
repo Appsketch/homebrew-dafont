@@ -5,7 +5,6 @@ cask 'dafont-gardensc' do
     url 'http://dl.dafont.com/dl/?f=gardensc'
     name 'Gardens C'
     homepage 'http://www.dafont.com/gardensc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GardensC_03_1.otf'
 end

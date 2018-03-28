@@ -5,7 +5,6 @@ cask 'dafont-typo-sketch' do
     url 'http://dl.dafont.com/dl/?f=typo_sketch'
     name 'Typo Sketch'
     homepage 'http://www.dafont.com/typo-sketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TYPO SKETCH_DEMO.otf'
 end

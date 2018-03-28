@@ -5,7 +5,6 @@ cask 'dafont-turnaround' do
     url 'http://dl.dafont.com/dl/?f=turnaround'
     name 'Turnaround'
     homepage 'http://www.dafont.com/turnaround.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TURN.TTF'
 end

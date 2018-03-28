@@ -5,7 +5,6 @@ cask 'dafont-depth-of-toonizm' do
     url 'http://dl.dafont.com/dl/?f=depth_of_toonizm'
     name 'Depth of Toonizm'
     homepage 'http://www.dafont.com/depth-of-toonizm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Depth_of_Toonizm_font.ttf'
 end

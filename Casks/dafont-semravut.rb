@@ -5,7 +5,6 @@ cask 'dafont-semravut' do
     url 'http://dl.dafont.com/dl/?f=semravut'
     name 'Semravut'
     homepage 'http://www.dafont.com/semravut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Semravut.ttf'
 end

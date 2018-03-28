@@ -5,7 +5,6 @@ cask 'dafont-suru' do
     url 'http://dl.dafont.com/dl/?f=suru'
     name 'Suru'
     homepage 'http://www.dafont.com/suru.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SURU.ttf'
 end

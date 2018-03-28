@@ -5,7 +5,6 @@ cask 'dafont-ussr-stencil' do
     url 'http://dl.dafont.com/dl/?f=ussr_stencil'
     name 'USSR Stencil'
     homepage 'http://www.dafont.com/ussr-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'USSR STENCIL.otf'
 end

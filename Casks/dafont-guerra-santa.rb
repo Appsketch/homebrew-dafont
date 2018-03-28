@@ -5,7 +5,6 @@ cask 'dafont-guerra-santa' do
     url 'http://dl.dafont.com/dl/?f=guerra_santa'
     name 'Guerra Santa'
     homepage 'http://www.dafont.com/guerra-santa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Guerra_Santa.ttf'
 end

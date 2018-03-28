@@ -5,7 +5,6 @@ cask 'dafont-nightamore' do
     url 'http://dl.dafont.com/dl/?f=nightamore'
     name 'Nightamore'
     homepage 'http://www.dafont.com/nightamore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nightamore Brush Free Font.ttf'
 end

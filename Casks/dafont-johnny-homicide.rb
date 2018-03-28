@@ -5,7 +5,6 @@ cask 'dafont-johnny-homicide' do
     url 'http://dl.dafont.com/dl/?f=johnny_homicide'
     name 'Johnny Homicide'
     homepage 'http://www.dafont.com/johnny-homicide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'johnny.ttf'
 end

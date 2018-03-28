@@ -5,7 +5,6 @@ cask 'dafont-hack-slash-brk' do
     url 'http://dl.dafont.com/dl/?f=hack_slash_brk'
     name 'Hack &amp; Slash BRK'
     homepage 'http://www.dafont.com/hack-slash-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hackslsh.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-backstab' do
     url 'http://dl.dafont.com/dl/?f=backstab'
     name 'Backstab'
     homepage 'http://www.dafont.com/backstab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BACKS___.otf'
 end

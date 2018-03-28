@@ -5,7 +5,6 @@ cask 'dafont-live-love-life' do
     url 'http://dl.dafont.com/dl/?f=live_love_life'
     name 'Live love life'
     homepage 'http://www.dafont.com/live-love-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Live Love Life.ttf'
 end

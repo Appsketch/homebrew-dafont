@@ -5,7 +5,6 @@ cask 'dafont-pwgingerbread' do
     url 'http://dl.dafont.com/dl/?f=pwgingerbread'
     name 'PW Gingerbread'
     homepage 'http://www.dafont.com/pwgingerbread.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWGingerbread.ttf'
 end

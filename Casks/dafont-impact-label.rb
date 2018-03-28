@@ -5,7 +5,6 @@ cask 'dafont-impact-label' do
     url 'http://dl.dafont.com/dl/?f=impact_label'
     name 'Impact Label'
     homepage 'http://www.dafont.com/impact-label.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Impact Label Reversed.ttf'
     font 'Impact Label.ttf'

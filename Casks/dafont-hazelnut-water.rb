@@ -5,7 +5,6 @@ cask 'dafont-hazelnut-water' do
     url 'http://dl.dafont.com/dl/?f=hazelnut_water'
     name 'Hazelnut Water'
     homepage 'http://www.dafont.com/hazelnut-water.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hazelnut Water Light.ttf'
     font 'Hazelnut Water.ttf'

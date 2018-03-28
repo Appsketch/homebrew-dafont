@@ -5,7 +5,6 @@ cask 'dafont-myranda' do
     url 'http://dl.dafont.com/dl/?f=myranda'
     name 'MyRanda'
     homepage 'http://www.dafont.com/myranda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MyRandaRegular.ttf'
 end

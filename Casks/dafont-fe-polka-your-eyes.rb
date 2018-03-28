@@ -5,7 +5,6 @@ cask 'dafont-fe-polka-your-eyes' do
     url 'http://dl.dafont.com/dl/?f=fe_polka_your_eyes'
     name 'FE Polka Your Eyes Out'
     homepage 'http://www.dafont.com/fe-polka-your-eyes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE Polka Your Eyes Out.otf'
 end

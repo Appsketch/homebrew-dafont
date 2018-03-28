@@ -5,7 +5,6 @@ cask 'dafont-origami-making' do
     url 'http://dl.dafont.com/dl/?f=origami_making'
     name 'Origami Making'
     homepage 'http://www.dafont.com/origami-making.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'origami_making.ttf'
 end

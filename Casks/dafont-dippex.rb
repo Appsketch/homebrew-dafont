@@ -5,7 +5,6 @@ cask 'dafont-dippex' do
     url 'http://dl.dafont.com/dl/?f=dippex'
     name 'Dippex'
     homepage 'http://www.dafont.com/dippex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIPPEX__.TTF'
 end

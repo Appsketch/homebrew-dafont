@@ -5,7 +5,6 @@ cask 'dafont-yes-siree-bob' do
     url 'http://dl.dafont.com/dl/?f=yes_siree_bob'
     name 'Yes siree bob'
     homepage 'http://www.dafont.com/yes-siree-bob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yes siree bob.ttf'
 end

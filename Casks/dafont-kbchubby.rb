@@ -5,7 +5,6 @@ cask 'dafont-kbchubby' do
     url 'http://dl.dafont.com/dl/?f=kbchubby'
     name 'KB Chubby'
     homepage 'http://www.dafont.com/kbchubby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBChubby.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stylish-calligraphy' do
     url 'http://dl.dafont.com/dl/?f=stylish_calligraphy'
     name 'Stylish Calligraphy'
     homepage 'http://www.dafont.com/stylish-calligraphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stylish Calligraphy Demo.ttf'
 end

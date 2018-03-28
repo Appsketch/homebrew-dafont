@@ -5,7 +5,6 @@ cask 'dafont-aleksandrac' do
     url 'http://dl.dafont.com/dl/?f=aleksandrac'
     name 'Aleksandra C'
     homepage 'http://www.dafont.com/aleksandrac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AleksandraC_regular.otf'
     font 'AleksandraC_vintage.otf'

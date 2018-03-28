@@ -5,7 +5,6 @@ cask 'dafont-hayleysfont' do
     url 'http://dl.dafont.com/dl/?f=hayleysfont'
     name 'Hayleys Font'
     homepage 'http://www.dafont.com/hayleysfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HayleysFont.ttf'
 end

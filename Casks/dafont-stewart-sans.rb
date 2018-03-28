@@ -5,7 +5,6 @@ cask 'dafont-stewart-sans' do
     url 'http://dl.dafont.com/dl/?f=stewart_sans'
     name 'Stewart Sans'
     homepage 'http://www.dafont.com/stewart-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stewartsans.ttf'
 end

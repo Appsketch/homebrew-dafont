@@ -5,7 +5,6 @@ cask 'dafont-vidas-secas-dingbats' do
     url 'http://dl.dafont.com/dl/?f=vidas_secas_dingbats'
     name 'Vidas Secas Dingbats'
     homepage 'http://www.dafont.com/vidas-secas-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VIdas Secas dingbats.ttf'
 end

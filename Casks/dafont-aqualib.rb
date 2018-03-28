@@ -5,7 +5,6 @@ cask 'dafont-aqualib' do
     url 'http://dl.dafont.com/dl/?f=aqualib'
     name 'Aqualib'
     homepage 'http://www.dafont.com/aqualib.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aqualib.ttf'
 end

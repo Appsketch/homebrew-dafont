@@ -5,7 +5,6 @@ cask 'dafont-fishyprint' do
     url 'http://dl.dafont.com/dl/?f=fishyprint'
     name 'FishyPrint AOE'
     homepage 'http://www.dafont.com/fishyprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FISHPOA_.TTF'
     font 'FISHPTA_.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-time-machino' do
     url 'http://dl.dafont.com/dl/?f=time_machino'
     name 'Time Machino'
     homepage 'http://www.dafont.com/time-machino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Time Machino.ttf'
 end

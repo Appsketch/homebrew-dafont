@@ -5,7 +5,6 @@ cask 'dafont-dusseldorf' do
     url 'http://dl.dafont.com/dl/?f=dusseldorf'
     name 'Dusseldorf'
     homepage 'http://www.dafont.com/dusseldorf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dsseldorf.ttf'
 end

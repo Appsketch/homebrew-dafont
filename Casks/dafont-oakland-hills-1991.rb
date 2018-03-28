@@ -5,7 +5,6 @@ cask 'dafont-oakland-hills-1991' do
     url 'http://dl.dafont.com/dl/?f=oakland_hills_1991'
     name 'Oakland Hills 1991'
     homepage 'http://www.dafont.com/oakland-hills-1991.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oakland Hills 1991.ttf'
 end

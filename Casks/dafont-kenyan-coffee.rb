@@ -5,7 +5,6 @@ cask 'dafont-kenyan-coffee' do
     url 'http://dl.dafont.com/dl/?f=kenyan_coffee'
     name 'Kenyan Coffee'
     homepage 'http://www.dafont.com/kenyan-coffee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kenyan coffee bd it.ttf'
     font 'kenyan coffee bd.ttf'

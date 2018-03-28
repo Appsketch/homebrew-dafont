@@ -5,7 +5,6 @@ cask 'dafont-fluid-lcd' do
     url 'http://dl.dafont.com/dl/?f=fluid_lcd'
     name 'Fluid LCD'
     homepage 'http://www.dafont.com/fluid-lcd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fluid LCD.ttf'
 end

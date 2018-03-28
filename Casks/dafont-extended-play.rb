@@ -5,7 +5,6 @@ cask 'dafont-extended-play' do
     url 'http://dl.dafont.com/dl/?f=extended_play'
     name 'Extended Play'
     homepage 'http://www.dafont.com/extended-play.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'exte.ttf'
 end

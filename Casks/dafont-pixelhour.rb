@@ -5,7 +5,6 @@ cask 'dafont-pixelhour' do
     url 'http://dl.dafont.com/dl/?f=pixelhour'
     name 'Pixel Hour'
     homepage 'http://www.dafont.com/pixelhour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixelHour.ttf'
 end

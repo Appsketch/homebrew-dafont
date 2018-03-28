@@ -5,7 +5,6 @@ cask 'dafont-dirty-sweb' do
     url 'http://dl.dafont.com/dl/?f=dirty_sweb'
     name 'Dirty Sweb'
     homepage 'http://www.dafont.com/dirty-sweb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dirty Sweb.ttf'
 end

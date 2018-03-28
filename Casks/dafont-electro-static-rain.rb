@@ -5,7 +5,6 @@ cask 'dafont-electro-static-rain' do
     url 'http://dl.dafont.com/dl/?f=electro_static_rain'
     name 'Electro Static Rain'
     homepage 'http://www.dafont.com/electro-static-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Electro Static RAIN.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fff-agent' do
     url 'http://dl.dafont.com/dl/?f=fff_agent'
     name 'FFF Agent condensed'
     homepage 'http://www.dafont.com/fff-agent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FFFAC___.TTF'
 end

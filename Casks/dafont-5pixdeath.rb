@@ -5,7 +5,6 @@ cask 'dafont-5pixdeath' do
     url 'http://dl.dafont.com/dl/?f=5pixdeath'
     name '5 Pixdeath'
     homepage 'http://www.dafont.com/5pixdeath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5pixdeath.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sugar-lite' do
     url 'http://dl.dafont.com/dl/?f=sugar_lite'
     name 'Sugar Lite'
     homepage 'http://www.dafont.com/sugar-lite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sugar Lite.ttf'
 end

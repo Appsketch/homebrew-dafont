@@ -5,7 +5,6 @@ cask 'dafont-little-cowboy' do
     url 'http://dl.dafont.com/dl/?f=little_cowboy'
     name 'Little Cowboy'
     homepage 'http://www.dafont.com/little-cowboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LITTLE COWBOY.ttf'
 end

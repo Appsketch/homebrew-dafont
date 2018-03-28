@@ -5,7 +5,6 @@ cask 'dafont-for-the-love-of-hate' do
     url 'http://dl.dafont.com/dl/?f=for_the_love_of_hate'
     name 'For the love of hate'
     homepage 'http://www.dafont.com/for-the-love-of-hate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fortheloveofhate.ttf'
     font 'Fortheloveofhatelight.ttf'

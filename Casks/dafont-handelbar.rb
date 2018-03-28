@@ -5,7 +5,6 @@ cask 'dafont-handelbar' do
     url 'http://dl.dafont.com/dl/?f=handelbar'
     name 'Handelbar'
     homepage 'http://www.dafont.com/handelbar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HandeMed.otf'
 end

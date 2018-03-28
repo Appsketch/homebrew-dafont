@@ -5,7 +5,6 @@ cask 'dafont-goodbye-despair' do
     url 'http://dl.dafont.com/dl/?f=goodbye_despair'
     name 'Goodbye Despair'
     homepage 'http://www.dafont.com/goodbye-despair.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'goodbyeDespair.ttf'
 end

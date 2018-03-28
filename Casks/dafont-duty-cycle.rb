@@ -5,7 +5,6 @@ cask 'dafont-duty-cycle' do
     url 'http://dl.dafont.com/dl/?f=duty_cycle'
     name 'Duty Cycle'
     homepage 'http://www.dafont.com/duty-cycle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Duty Cycle.ttf'
 end

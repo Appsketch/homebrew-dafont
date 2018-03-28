@@ -5,7 +5,6 @@ cask 'dafont-stranded' do
     url 'http://dl.dafont.com/dl/?f=stranded'
     name 'Stranded BRK'
     homepage 'http://www.dafont.com/stranded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strande2.ttf'
 end

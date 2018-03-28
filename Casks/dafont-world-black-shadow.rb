@@ -5,7 +5,6 @@ cask 'dafont-world-black-shadow' do
     url 'http://dl.dafont.com/dl/?f=world_black_shadow'
     name 'World Black Shadow'
     homepage 'http://www.dafont.com/world-black-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'World Black Shadow.ttf'
 end

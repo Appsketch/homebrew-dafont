@@ -5,7 +5,6 @@ cask 'dafont-agresivefont' do
     url 'http://dl.dafont.com/dl/?f=agresivefont'
     name 'Agresive Font'
     homepage 'http://www.dafont.com/agresivefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Agresivefont.ttf'
 end

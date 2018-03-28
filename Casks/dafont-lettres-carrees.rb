@@ -5,7 +5,6 @@ cask 'dafont-lettres-carrees' do
     url 'http://dl.dafont.com/dl/?f=lettres_carrees'
     name 'Lettres Carr&eacute;es'
     homepage 'http://www.dafont.com/lettres-carrees.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lettres carres.ttf'
 end

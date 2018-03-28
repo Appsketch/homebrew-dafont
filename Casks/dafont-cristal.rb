@@ -5,7 +5,6 @@ cask 'dafont-cristal' do
     url 'http://dl.dafont.com/dl/?f=cristal'
     name 'Cristal'
     homepage 'http://www.dafont.com/cristal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cristal.otf'
 end

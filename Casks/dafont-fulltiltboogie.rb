@@ -5,7 +5,6 @@ cask 'dafont-fulltiltboogie' do
     url 'http://dl.dafont.com/dl/?f=fulltiltboogie'
     name 'Full Tilt Boogie'
     homepage 'http://www.dafont.com/fulltiltboogie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FULLTILT.TTF'
 end

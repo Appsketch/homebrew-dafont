@@ -5,7 +5,6 @@ cask 'dafont-gotham-lullaby' do
     url 'http://dl.dafont.com/dl/?f=gotham_lullaby'
     name 'Gotham Lullaby'
     homepage 'http://www.dafont.com/gotham-lullaby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GOTHAMLU.TTF'
 end

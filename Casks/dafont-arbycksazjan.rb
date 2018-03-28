@@ -5,7 +5,6 @@ cask 'dafont-arbycksazjan' do
     url 'http://dl.dafont.com/dl/?f=arbycksazjan'
     name 'Arbycksazjan'
     homepage 'http://www.dafont.com/arbycksazjan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arbycksazjan.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hkh-cold-cactus' do
     url 'http://dl.dafont.com/dl/?f=hkh_cold_cactus'
     name 'HKH Cold Cactus'
     homepage 'http://www.dafont.com/hkh-cold-cactus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HKH Cold Cactus.ttf'
 end

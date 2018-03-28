@@ -5,7 +5,6 @@ cask 'dafont-papa-mano' do
     url 'http://dl.dafont.com/dl/?f=papa_mano'
     name 'Papa Mano AOE'
     homepage 'http://www.dafont.com/papa-mano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truetype/PapaManAOE.ttf'
 end

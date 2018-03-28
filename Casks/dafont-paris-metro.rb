@@ -5,7 +5,6 @@ cask 'dafont-paris-metro' do
     url 'http://dl.dafont.com/dl/?f=paris_metro'
     name 'Paris Metro'
     homepage 'http://www.dafont.com/paris-metro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PARISME_.TTF'
 end

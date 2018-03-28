@@ -5,7 +5,6 @@ cask 'dafont-morphine-jack' do
     url 'http://dl.dafont.com/dl/?f=morphine_jack'
     name 'Morphine Jack'
     homepage 'http://www.dafont.com/morphine-jack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Morphine Jack.ttf'
 end

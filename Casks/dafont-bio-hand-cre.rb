@@ -5,7 +5,6 @@ cask 'dafont-bio-hand-cre' do
     url 'http://dl.dafont.com/dl/?f=bio_hand_cre'
     name 'Bio Hand Cre'
     homepage 'http://www.dafont.com/bio-hand-cre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIO_HAND_CRE.ttf'
 end

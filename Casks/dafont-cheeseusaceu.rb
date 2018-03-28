@@ -5,7 +5,6 @@ cask 'dafont-cheeseusaceu' do
     url 'http://dl.dafont.com/dl/?f=cheeseusaceu'
     name 'Cheeseusaceu'
     homepage 'http://www.dafont.com/cheeseusaceu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cheeseusauceu.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-happi' do
     url 'http://dl.dafont.com/dl/?f=happi'
     name 'Happi'
     homepage 'http://www.dafont.com/happi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'happi.ttf'
 end

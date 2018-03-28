@@ -5,7 +5,6 @@ cask 'dafont-scout-015' do
     url 'http://dl.dafont.com/dl/?f=scout_015'
     name 'Scout 015'
     homepage 'http://www.dafont.com/scout-015.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCOUT015.TTF'
 end

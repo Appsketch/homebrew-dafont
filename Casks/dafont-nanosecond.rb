@@ -5,7 +5,6 @@ cask 'dafont-nanosecond' do
     url 'http://dl.dafont.com/dl/?f=nanosecond'
     name 'Nanosecond'
     homepage 'http://www.dafont.com/nanosecond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nanosecw.ttf'
     font 'nsecthck.ttf'

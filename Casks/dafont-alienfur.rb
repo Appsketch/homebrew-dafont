@@ -5,7 +5,6 @@ cask 'dafont-alienfur' do
     url 'http://dl.dafont.com/dl/?f=alienfur'
     name 'AlienFur'
     homepage 'http://www.dafont.com/alienfur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlienFur.ttf'
 end

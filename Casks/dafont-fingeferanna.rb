@@ -5,7 +5,6 @@ cask 'dafont-fingeferanna' do
     url 'http://dl.dafont.com/dl/?f=fingeferanna'
     name 'Fingeferanna'
     homepage 'http://www.dafont.com/fingeferanna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fingeferanna.ttf'
 end

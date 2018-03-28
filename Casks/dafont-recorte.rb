@@ -5,7 +5,6 @@ cask 'dafont-recorte' do
     url 'http://dl.dafont.com/dl/?f=recorte'
     name 'Recorte'
     homepage 'http://www.dafont.com/recorte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Recorte_02.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kg-strawberry-limeade' do
     url 'http://dl.dafont.com/dl/?f=kg_strawberry_limeade'
     name 'KG Strawberry Limeade'
     homepage 'http://www.dafont.com/kg-strawberry-limeade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGStrawberryLimeade.ttf'
 end

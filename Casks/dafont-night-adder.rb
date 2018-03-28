@@ -5,7 +5,6 @@ cask 'dafont-night-adder' do
     url 'http://dl.dafont.com/dl/?f=night_adder'
     name 'Night Adder'
     homepage 'http://www.dafont.com/night-adder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Night Adder.ttf'
 end

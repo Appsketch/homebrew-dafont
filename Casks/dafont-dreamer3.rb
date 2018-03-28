@@ -5,7 +5,6 @@ cask 'dafont-dreamer3' do
     url 'http://dl.dafont.com/dl/?f=dreamer3'
     name 'Dreamer'
     homepage 'http://www.dafont.com/dreamer3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dreamer Eternal.ttf'
     font 'Dreamer.ttf'

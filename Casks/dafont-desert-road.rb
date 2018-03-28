@@ -5,7 +5,6 @@ cask 'dafont-desert-road' do
     url 'http://dl.dafont.com/dl/?f=desert_road'
     name 'Desert Road'
     homepage 'http://www.dafont.com/desert-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Desert Road.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-royal-pain' do
     url 'http://dl.dafont.com/dl/?f=royal_pain'
     name 'Royal Pain'
     homepage 'http://www.dafont.com/royal-pain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROYALP.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chronicdelivery' do
     url 'http://dl.dafont.com/dl/?f=chronicdelivery'
     name 'Chronic Delivery'
     homepage 'http://www.dafont.com/chronicdelivery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChronicDelivery.ttf'
 end

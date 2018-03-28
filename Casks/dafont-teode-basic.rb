@@ -5,7 +5,6 @@ cask 'dafont-teode-basic' do
     url 'http://dl.dafont.com/dl/?f=teode_basic'
     name 'Teode Basic'
     homepage 'http://www.dafont.com/teode-basic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TEODEBASIC-Regular.otf'
 end

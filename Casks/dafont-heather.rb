@@ -5,7 +5,6 @@ cask 'dafont-heather' do
     url 'http://dl.dafont.com/dl/?f=heather'
     name 'Heather'
     homepage 'http://www.dafont.com/heather.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HEATHER_.TTF'
 end

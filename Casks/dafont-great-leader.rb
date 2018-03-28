@@ -5,7 +5,6 @@ cask 'dafont-great-leader' do
     url 'http://dl.dafont.com/dl/?f=great_leader'
     name 'Great Leader'
     homepage 'http://www.dafont.com/great-leader.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Great Leader.ttf'
 end

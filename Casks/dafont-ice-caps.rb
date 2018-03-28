@@ -5,7 +5,6 @@ cask 'dafont-ice-caps' do
     url 'http://dl.dafont.com/dl/?f=ice_caps'
     name 'Ice Caps'
     homepage 'http://www.dafont.com/ice-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IceCaps.ttf'
 end

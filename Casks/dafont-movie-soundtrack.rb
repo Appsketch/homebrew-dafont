@@ -5,7 +5,6 @@ cask 'dafont-movie-soundtrack' do
     url 'http://dl.dafont.com/dl/?f=movie_soundtrack'
     name 'Movie SoundtracK'
     homepage 'http://www.dafont.com/movie-soundtrack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MovieSoundtracK-SemiBold.ttf'
 end

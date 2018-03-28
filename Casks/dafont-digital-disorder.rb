@@ -5,7 +5,6 @@ cask 'dafont-digital-disorder' do
     url 'http://dl.dafont.com/dl/?f=digital_disorder'
     name 'Digital Disorder'
     homepage 'http://www.dafont.com/digital-disorder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DigitalDisorder.ttf'
 end

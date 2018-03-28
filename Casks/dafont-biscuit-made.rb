@@ -5,7 +5,6 @@ cask 'dafont-biscuit-made' do
     url 'http://dl.dafont.com/dl/?f=biscuit_made'
     name 'Biscuit Made'
     homepage 'http://www.dafont.com/biscuit-made.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Biscuit Made Italic.ttf'
     font 'Biscuit Made.ttf'

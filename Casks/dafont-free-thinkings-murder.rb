@@ -5,7 +5,6 @@ cask 'dafont-free-thinkings-murder' do
     url 'http://dl.dafont.com/dl/?f=free_thinkings_murder'
     name 'Free Thinking&#039;s Murder'
     homepage 'http://www.dafont.com/free-thinkings-murder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Free Thinking-&#039;s Murder.ttf'
 end

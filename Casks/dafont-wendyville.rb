@@ -5,7 +5,6 @@ cask 'dafont-wendyville' do
     url 'http://dl.dafont.com/dl/?f=wendyville'
     name 'Wendyville'
     homepage 'http://www.dafont.com/wendyville.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wendyville.ttf'
 end

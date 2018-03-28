@@ -5,7 +5,6 @@ cask 'dafont-before-time' do
     url 'http://dl.dafont.com/dl/?f=before_time'
     name 'Before Time'
     homepage 'http://www.dafont.com/before-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Before Time.ttf'
 end

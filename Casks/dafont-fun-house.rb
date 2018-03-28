@@ -5,7 +5,6 @@ cask 'dafont-fun-house' do
     url 'http://dl.dafont.com/dl/?f=fun_house'
     name 'Fun House'
     homepage 'http://www.dafont.com/fun-house.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fun House.ttf'
 end

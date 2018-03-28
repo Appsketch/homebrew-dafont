@@ -5,7 +5,6 @@ cask 'dafont-middle-schooler' do
     url 'http://dl.dafont.com/dl/?f=middle_schooler'
     name 'Middle Schooler'
     homepage 'http://www.dafont.com/middle-schooler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiddleSchooler-Regular.ttf'
 end

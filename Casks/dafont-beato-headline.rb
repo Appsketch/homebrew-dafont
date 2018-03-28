@@ -5,7 +5,6 @@ cask 'dafont-beato-headline' do
     url 'http://dl.dafont.com/dl/?f=beato_headline'
     name 'Beato Headline'
     homepage 'http://www.dafont.com/beato-headline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beato-ExtraBoldHeadline.otf'
 end

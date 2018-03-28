@@ -5,7 +5,6 @@ cask 'dafont-reflectors' do
     url 'http://dl.dafont.com/dl/?f=reflectors'
     name 'Reflectors'
     homepage 'http://www.dafont.com/reflectors.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'reflectors.ttf'
 end

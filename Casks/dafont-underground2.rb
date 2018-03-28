@@ -5,7 +5,6 @@ cask 'dafont-underground2' do
     url 'http://dl.dafont.com/dl/?f=underground2'
     name 'Underground'
     homepage 'http://www.dafont.com/underground2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Underground.ttf'
 end

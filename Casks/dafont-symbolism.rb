@@ -5,7 +5,6 @@ cask 'dafont-symbolism' do
     url 'http://dl.dafont.com/dl/?f=symbolism'
     name 'Symbolism'
     homepage 'http://www.dafont.com/symbolism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Symbolism.ttf'
 end

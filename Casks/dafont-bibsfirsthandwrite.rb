@@ -5,7 +5,6 @@ cask 'dafont-bibsfirsthandwrite' do
     url 'http://dl.dafont.com/dl/?f=bibsfirsthandwrite'
     name 'Bibs First Handwrite'
     homepage 'http://www.dafont.com/bibsfirsthandwrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BibsFirstHandwrite.ttf'
 end

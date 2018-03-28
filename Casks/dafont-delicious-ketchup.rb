@@ -5,7 +5,6 @@ cask 'dafont-delicious-ketchup' do
     url 'http://dl.dafont.com/dl/?f=delicious_ketchup'
     name 'Delicious Ketchup'
     homepage 'http://www.dafont.com/delicious-ketchup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'delicious ketchup.ttf'
 end

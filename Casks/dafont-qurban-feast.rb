@@ -5,7 +5,6 @@ cask 'dafont-qurban-feast' do
     url 'http://dl.dafont.com/dl/?f=qurban_feast'
     name 'Qurban Feast'
     homepage 'http://www.dafont.com/qurban-feast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'qurban_feast.otf'
 end

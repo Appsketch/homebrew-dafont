@@ -5,7 +5,6 @@ cask 'dafont-pistol-sex' do
     url 'http://dl.dafont.com/dl/?f=pistol_sex'
     name 'Pistol Sex'
     homepage 'http://www.dafont.com/pistol-sex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PistOl Sex Punk.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-olde-britannian' do
     url 'http://dl.dafont.com/dl/?f=olde_britannian'
     name 'Olde Britannian'
     homepage 'http://www.dafont.com/olde-britannian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Olde Britannian.otf'
 end

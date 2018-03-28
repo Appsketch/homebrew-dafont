@@ -5,7 +5,6 @@ cask 'dafont-janda-siesta-sunrise' do
     url 'http://dl.dafont.com/dl/?f=janda_siesta_sunrise'
     name 'Janda Siesta Sunrise'
     homepage 'http://www.dafont.com/janda-siesta-sunrise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaSiestaSunrise.ttf'
 end

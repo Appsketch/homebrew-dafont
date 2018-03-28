@@ -5,7 +5,6 @@ cask 'dafont-la-negrita' do
     url 'http://dl.dafont.com/dl/?f=la_negrita'
     name 'La Negrita'
     homepage 'http://www.dafont.com/la-negrita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaNegrita.ttf'
     font 'LaNegritaShadow.ttf'

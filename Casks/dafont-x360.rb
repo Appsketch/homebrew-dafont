@@ -5,7 +5,6 @@ cask 'dafont-x360' do
     url 'http://dl.dafont.com/dl/?f=x360'
     name 'X360'
     homepage 'http://www.dafont.com/x360.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'X360.ttf'
 end

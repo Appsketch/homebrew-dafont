@@ -5,7 +5,6 @@ cask 'dafont-keep-quite-and-simple' do
     url 'http://dl.dafont.com/dl/?f=keep_quite_and_simple'
     name 'Keep quite and simple'
     homepage 'http://www.dafont.com/keep-quite-and-simple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'keep quiet and simple.ttf'
 end

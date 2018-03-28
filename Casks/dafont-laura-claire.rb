@@ -5,7 +5,6 @@ cask 'dafont-laura-claire' do
     url 'http://dl.dafont.com/dl/?f=laura_claire'
     name 'Laura Claire'
     homepage 'http://www.dafont.com/laura-claire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LauraClaire.ttf'
 end

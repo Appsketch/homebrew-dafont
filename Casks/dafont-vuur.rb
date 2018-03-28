@@ -5,7 +5,6 @@ cask 'dafont-vuur' do
     url 'http://dl.dafont.com/dl/?f=vuur'
     name 'Vuur'
     homepage 'http://www.dafont.com/vuur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vuur.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-byzantine-empire' do
     url 'http://dl.dafont.com/dl/?f=byzantine_empire'
     name 'Byzantine Empire'
     homepage 'http://www.dafont.com/byzantine-empire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ByzantineEmpire.ttf'
 end

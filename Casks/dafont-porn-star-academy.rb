@@ -5,7 +5,6 @@ cask 'dafont-porn-star-academy' do
     url 'http://dl.dafont.com/dl/?f=porn_star_academy'
     name 'Porn Star Academy'
     homepage 'http://www.dafont.com/porn-star-academy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PORNSA__.TTF'
 end

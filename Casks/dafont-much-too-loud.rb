@@ -5,7 +5,6 @@ cask 'dafont-much-too-loud' do
     url 'http://dl.dafont.com/dl/?f=much_too_loud'
     name 'Much too loud'
     homepage 'http://www.dafont.com/much-too-loud.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Much too loud.ttf'
 end

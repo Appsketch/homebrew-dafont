@@ -5,7 +5,6 @@ cask 'dafont-bonzer-herzogenaurach' do
     url 'http://dl.dafont.com/dl/?f=bonzer_herzogenaurach'
     name 'Bonzer Herzogenaurach'
     homepage 'http://www.dafont.com/bonzer-herzogenaurach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonzer - Herzogenaurach.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-un-finished' do
     url 'http://dl.dafont.com/dl/?f=un_finished'
     name 'Un-finished'
     homepage 'http://www.dafont.com/un-finished.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Un-finished.ttf'
 end

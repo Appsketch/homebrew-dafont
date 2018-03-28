@@ -5,7 +5,6 @@ cask 'dafont-kbastitchintime' do
     url 'http://dl.dafont.com/dl/?f=kbastitchintime'
     name 'KB A Stitch In Time'
     homepage 'http://www.dafont.com/kbastitchintime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBAStitchInTime.ttf'
 end

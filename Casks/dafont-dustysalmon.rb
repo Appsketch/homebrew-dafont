@@ -5,7 +5,6 @@ cask 'dafont-dustysalmon' do
     url 'http://dl.dafont.com/dl/?f=dustysalmon'
     name 'Dusty Salmon'
     homepage 'http://www.dafont.com/dustysalmon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DustySalmon.ttf'
 end

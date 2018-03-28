@@ -5,7 +5,6 @@ cask 'dafont-erin-go-bragh' do
     url 'http://dl.dafont.com/dl/?f=erin_go_bragh'
     name 'Erin Go Bragh'
     homepage 'http://www.dafont.com/erin-go-bragh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eringobragh.ttf'
     font 'eringobragh3d.ttf'

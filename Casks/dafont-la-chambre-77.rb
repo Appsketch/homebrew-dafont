@@ -5,7 +5,6 @@ cask 'dafont-la-chambre-77' do
     url 'http://dl.dafont.com/dl/?f=la_chambre_77'
     name 'La Chambre 77'
     homepage 'http://www.dafont.com/la-chambre-77.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LA CHAMBRE 77.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-birdy' do
     url 'http://dl.dafont.com/dl/?f=birdy'
     name 'Birdy'
     homepage 'http://www.dafont.com/birdy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Birdy N+2.ttf'
     font 'Birdy.ttf'

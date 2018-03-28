@@ -5,7 +5,6 @@ cask 'dafont-taurus-mono' do
     url 'http://dl.dafont.com/dl/?f=taurus_mono'
     name 'Taurus Mono'
     homepage 'http://www.dafont.com/taurus-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Taurus-Mono-Outline-Bold.otf'
     font 'Taurus-Mono-Outline-Regular.otf'

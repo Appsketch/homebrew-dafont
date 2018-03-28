@@ -5,7 +5,6 @@ cask 'dafont-metal-gear-solid' do
     url 'http://dl.dafont.com/dl/?f=metal_gear_solid'
     name 'Metal Gear Solid'
     homepage 'http://www.dafont.com/metal-gear-solid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'METAG___.TTF'
 end

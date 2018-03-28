@@ -5,7 +5,6 @@ cask 'dafont-y-files' do
     url 'http://dl.dafont.com/dl/?f=y_files'
     name 'Y-Files'
     homepage 'http://www.dafont.com/y-files.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yfiles.ttf'
     font 'yfiles3d.ttf'

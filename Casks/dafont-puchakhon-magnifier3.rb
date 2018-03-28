@@ -5,7 +5,6 @@ cask 'dafont-puchakhon-magnifier3' do
     url 'http://dl.dafont.com/dl/?f=puchakhon_magnifier3'
     name 'Puchakhon Magnifier3'
     homepage 'http://www.dafont.com/puchakhon-magnifier3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Puchakhon Magnifier3.ttf'
 end

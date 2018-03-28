@@ -5,7 +5,6 @@ cask 'dafont-fopi-artchiko' do
     url 'http://dl.dafont.com/dl/?f=fopi_artchiko'
     name 'Fopi Artchiko'
     homepage 'http://www.dafont.com/fopi-artchiko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fopi artchiko.ttf'
 end

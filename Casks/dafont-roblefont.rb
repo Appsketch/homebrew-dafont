@@ -5,7 +5,6 @@ cask 'dafont-roblefont' do
     url 'http://dl.dafont.com/dl/?f=roblefont'
     name 'Roblefont'
     homepage 'http://www.dafont.com/roblefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROBLEFONT.ttf'
 end

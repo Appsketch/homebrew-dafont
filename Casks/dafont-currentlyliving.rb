@@ -5,7 +5,6 @@ cask 'dafont-currentlyliving' do
     url 'http://dl.dafont.com/dl/?f=currentlyliving'
     name 'Currently Living'
     homepage 'http://www.dafont.com/currentlyliving.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CurrentlyLiving.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-criss-cross' do
     url 'http://dl.dafont.com/dl/?f=dk_criss_cross'
     name 'DK Criss Cross'
     homepage 'http://www.dafont.com/dk-criss-cross.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Criss Cross.ttf'
 end

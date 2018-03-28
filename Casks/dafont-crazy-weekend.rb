@@ -5,7 +5,6 @@ cask 'dafont-crazy-weekend' do
     url 'http://dl.dafont.com/dl/?f=crazy_weekend'
     name 'Crazy Weekend'
     homepage 'http://www.dafont.com/crazy-weekend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crazy Weekend.ttf'
 end

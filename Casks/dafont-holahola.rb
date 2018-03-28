@@ -5,7 +5,6 @@ cask 'dafont-holahola' do
     url 'http://dl.dafont.com/dl/?f=holahola'
     name 'HolaHola'
     homepage 'http://www.dafont.com/holahola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HolaHola-Regular.otf'
 end

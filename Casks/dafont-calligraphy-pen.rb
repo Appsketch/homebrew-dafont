@@ -5,7 +5,6 @@ cask 'dafont-calligraphy-pen' do
     url 'http://dl.dafont.com/dl/?f=calligraphy_pen'
     name 'Calligraphy Pen'
     homepage 'http://www.dafont.com/calligraphy-pen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Calligraphy_Pen.ttf'
 end

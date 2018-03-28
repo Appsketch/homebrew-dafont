@@ -5,7 +5,6 @@ cask 'dafont-gausshauss' do
     url 'http://dl.dafont.com/dl/?f=gausshauss'
     name 'Gausshauss'
     homepage 'http://www.dafont.com/gausshauss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gausshauss_bold.ttf'
     font 'gausshauss_med.ttf'

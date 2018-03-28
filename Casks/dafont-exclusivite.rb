@@ -5,7 +5,6 @@ cask 'dafont-exclusivite' do
     url 'http://dl.dafont.com/dl/?f=exclusivite'
     name 'Exclusivite'
     homepage 'http://www.dafont.com/exclusivite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Exclusivite.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ponctuation' do
     url 'http://dl.dafont.com/dl/?f=ponctuation'
     name 'Ponctuation'
     homepage 'http://www.dafont.com/ponctuation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PONCTUATION.ttf'
 end

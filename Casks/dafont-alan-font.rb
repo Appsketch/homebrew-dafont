@@ -5,7 +5,6 @@ cask 'dafont-alan-font' do
     url 'http://dl.dafont.com/dl/?f=alan_font'
     name 'Alan Font'
     homepage 'http://www.dafont.com/alan-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlanFont-Regular.otf'
 end

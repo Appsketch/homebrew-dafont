@@ -5,7 +5,6 @@ cask 'dafont-cross' do
     url 'http://dl.dafont.com/dl/?f=cross'
     name 'Cross'
     homepage 'http://www.dafont.com/cross.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cross.ttf'
 end

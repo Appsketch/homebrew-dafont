@@ -5,7 +5,6 @@ cask 'dafont-abstemious' do
     url 'http://dl.dafont.com/dl/?f=abstemious'
     name 'Abstemious'
     homepage 'http://www.dafont.com/abstemious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ABSTEMIOUS.ttf'
 end

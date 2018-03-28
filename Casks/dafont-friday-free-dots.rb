@@ -5,7 +5,6 @@ cask 'dafont-friday-free-dots' do
     url 'http://dl.dafont.com/dl/?f=friday_free_dots'
     name 'Friday free dots'
     homepage 'http://www.dafont.com/friday-free-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fridayfreedotsbold.ttf'
     font 'Fridayfreedotslight.ttf'

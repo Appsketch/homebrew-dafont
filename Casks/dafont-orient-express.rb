@@ -5,7 +5,6 @@ cask 'dafont-orient-express' do
     url 'http://dl.dafont.com/dl/?f=orient_express'
     name 'Orient Express'
     homepage 'http://www.dafont.com/orient-express.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Orient Express PERSONAL USE ONLY.ttf'
 end

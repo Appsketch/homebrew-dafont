@@ -5,7 +5,6 @@ cask 'dafont-78skate' do
     url 'http://dl.dafont.com/dl/?f=78skate'
     name '78 Skate'
     homepage 'http://www.dafont.com/78skate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '78skate_outline.ttf'
     font '78skate.ttf'

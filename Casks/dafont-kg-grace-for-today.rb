@@ -5,7 +5,6 @@ cask 'dafont-kg-grace-for-today' do
     url 'http://dl.dafont.com/dl/?f=kg_grace_for_today'
     name 'KG Grace For Today'
     homepage 'http://www.dafont.com/kg-grace-for-today.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGGraceForToday.ttf'
 end

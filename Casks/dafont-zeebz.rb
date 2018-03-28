@@ -5,7 +5,6 @@ cask 'dafont-zeebz' do
     url 'http://dl.dafont.com/dl/?f=zeebz'
     name 'Zeebz'
     homepage 'http://www.dafont.com/zeebz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zeebz.ttf'
 end

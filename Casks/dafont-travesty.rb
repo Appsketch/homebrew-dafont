@@ -5,7 +5,6 @@ cask 'dafont-travesty' do
     url 'http://dl.dafont.com/dl/?f=travesty'
     name 'Travesty'
     homepage 'http://www.dafont.com/travesty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trav2.ttf'
     font 'travb2.ttf'

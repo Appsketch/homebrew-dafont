@@ -5,7 +5,6 @@ cask 'dafont-extra-fontestrial' do
     url 'http://dl.dafont.com/dl/?f=extra_fontestrial'
     name 'Extra Fontestrial'
     homepage 'http://www.dafont.com/extra-fontestrial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'extra_fontestrial.ttf'
 end

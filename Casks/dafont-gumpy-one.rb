@@ -5,7 +5,6 @@ cask 'dafont-gumpy-one' do
     url 'http://dl.dafont.com/dl/?f=gumpy_one'
     name 'Gumpy One'
     homepage 'http://www.dafont.com/gumpy-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GUMPYONE.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mad-groove-clean' do
     url 'http://dl.dafont.com/dl/?f=mad_groove_clean'
     name 'Mad Groove Clean'
     homepage 'http://www.dafont.com/mad-groove-clean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mad Groove Clean.ttf'
 end

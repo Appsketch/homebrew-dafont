@@ -5,7 +5,6 @@ cask 'dafont-persona-non-grata' do
     url 'http://dl.dafont.com/dl/?f=persona_non_grata'
     name 'Persona Non Grata'
     homepage 'http://www.dafont.com/persona-non-grata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Persona Non Grata.ttf'
 end

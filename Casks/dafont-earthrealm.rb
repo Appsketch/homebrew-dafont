@@ -5,7 +5,6 @@ cask 'dafont-earthrealm' do
     url 'http://dl.dafont.com/dl/?f=earthrealm'
     name 'Earthrealm'
     homepage 'http://www.dafont.com/earthrealm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'earthrealm.ttf'
     font 'earthrealm3d.ttf'

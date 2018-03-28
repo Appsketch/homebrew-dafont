@@ -5,7 +5,6 @@ cask 'dafont-national-first' do
     url 'http://dl.dafont.com/dl/?f=national_first'
     name 'National First Font'
     homepage 'http://www.dafont.com/national-first.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NATIONFD.TTF'
     font 'NATIONFF.TTF'

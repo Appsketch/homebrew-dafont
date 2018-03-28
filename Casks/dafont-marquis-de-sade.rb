@@ -5,7 +5,6 @@ cask 'dafont-marquis-de-sade' do
     url 'http://dl.dafont.com/dl/?f=marquis_de_sade'
     name 'Marquis De Sade'
     homepage 'http://www.dafont.com/marquis-de-sade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marquis De Sade.ttf'
 end

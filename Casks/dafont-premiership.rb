@@ -5,7 +5,6 @@ cask 'dafont-premiership' do
     url 'http://dl.dafont.com/dl/?f=premiership'
     name 'Premiership'
     homepage 'http://www.dafont.com/premiership.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Premiership.ttf'
 end

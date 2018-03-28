@@ -5,7 +5,6 @@ cask 'dafont-ink-in-the-meat' do
     url 'http://dl.dafont.com/dl/?f=ink_in_the_meat'
     name 'Ink In The Meat'
     homepage 'http://www.dafont.com/ink-in-the-meat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INKITMT_.otf'
 end

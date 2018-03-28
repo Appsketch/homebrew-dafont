@@ -5,7 +5,6 @@ cask 'dafont-quickstrike' do
     url 'http://dl.dafont.com/dl/?f=quickstrike'
     name 'Quick Strike + Tech + Gear + Mark'
     homepage 'http://www.dafont.com/quickstrike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quickgear/Qgear2.ttf'
     font 'quickgear/Qgear2c.ttf'

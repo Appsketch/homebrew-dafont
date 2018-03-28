@@ -5,7 +5,6 @@ cask 'dafont-stencil-gothic-be' do
     url 'http://dl.dafont.com/dl/?f=stencil_gothic_be'
     name 'Stencil Gothic'
     homepage 'http://www.dafont.com/stencil-gothic-be.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StencilGothic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gagarin' do
     url 'http://dl.dafont.com/dl/?f=gagarin'
     name 'Gagarin'
     homepage 'http://www.dafont.com/gagarin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GAGARIN_.TTF'
     font 'GAGASM__.TTF'

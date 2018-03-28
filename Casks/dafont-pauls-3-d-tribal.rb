@@ -5,7 +5,6 @@ cask 'dafont-pauls-3-d-tribal' do
     url 'http://dl.dafont.com/dl/?f=pauls_3_d_tribal'
     name 'Pauls 3-D Tribal'
     homepage 'http://www.dafont.com/pauls-3-d-tribal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pauls 3-D Tribal.ttf'
 end

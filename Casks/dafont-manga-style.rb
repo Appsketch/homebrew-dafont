@@ -5,7 +5,6 @@ cask 'dafont-manga-style' do
     url 'http://dl.dafont.com/dl/?f=manga_style'
     name 'Manga Style'
     homepage 'http://www.dafont.com/manga-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Manga Style.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-frostys-winterland' do
     url 'http://dl.dafont.com/dl/?f=frostys_winterland'
     name 'Frosty&#039;s Winterland'
     homepage 'http://www.dafont.com/frostys-winterland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frostys Winterland.TTF'
 end

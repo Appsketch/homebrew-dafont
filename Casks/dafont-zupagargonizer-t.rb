@@ -5,7 +5,6 @@ cask 'dafont-zupagargonizer-t' do
     url 'http://dl.dafont.com/dl/?f=zupagargonizer_t'
     name 'Zupagargonizer'
     homepage 'http://www.dafont.com/zupagargonizer-t.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zupagargonizer.ttf'
     font 'zupagargonizert.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-kbshotinthedark' do
     url 'http://dl.dafont.com/dl/?f=kbshotinthedark'
     name 'KB Shot In The Dark'
     homepage 'http://www.dafont.com/kbshotinthedark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBShotInTheDark.ttf'
 end

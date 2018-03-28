@@ -5,7 +5,6 @@ cask 'dafont-mostly-ghostly' do
     url 'http://dl.dafont.com/dl/?f=mostly_ghostly'
     name 'Mostly Ghostly'
     homepage 'http://www.dafont.com/mostly-ghostly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mostly Ghostly.ttf'
 end

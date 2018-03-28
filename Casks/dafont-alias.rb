@@ -5,7 +5,6 @@ cask 'dafont-alias' do
     url 'http://dl.dafont.com/dl/?f=alias'
     name 'Alias'
     homepage 'http://www.dafont.com/alias.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alias.ttf'
 end

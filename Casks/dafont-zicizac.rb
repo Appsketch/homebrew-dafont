@@ -5,7 +5,6 @@ cask 'dafont-zicizac' do
     url 'http://dl.dafont.com/dl/?f=zicizac'
     name 'Zicizac'
     homepage 'http://www.dafont.com/zicizac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zicizac.ttf'
 end

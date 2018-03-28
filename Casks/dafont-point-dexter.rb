@@ -5,7 +5,6 @@ cask 'dafont-point-dexter' do
     url 'http://dl.dafont.com/dl/?f=point_dexter'
     name 'Point-Dexter'
     homepage 'http://www.dafont.com/point-dexter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Point-Dexter.ttf'
 end

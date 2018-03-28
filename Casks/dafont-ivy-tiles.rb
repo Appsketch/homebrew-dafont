@@ -5,7 +5,6 @@ cask 'dafont-ivy-tiles' do
     url 'http://dl.dafont.com/dl/?f=ivy_tiles'
     name 'Ivy Tiles'
     homepage 'http://www.dafont.com/ivy-tiles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ivy Tiles PROMO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djb-emilys-garden' do
     url 'http://dl.dafont.com/dl/?f=djb_emilys_garden'
     name 'DJB Emilys Garden'
     homepage 'http://www.dafont.com/djb-emilys-garden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Emilys Garden.ttf'
 end

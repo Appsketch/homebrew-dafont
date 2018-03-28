@@ -5,7 +5,6 @@ cask 'dafont-chess-alpha' do
     url 'http://dl.dafont.com/dl/?f=chess_alpha'
     name 'Chess Alpha'
     homepage 'http://www.dafont.com/chess-alpha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alpha.ttf'
 end

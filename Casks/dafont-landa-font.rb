@@ -5,7 +5,6 @@ cask 'dafont-landa-font' do
     url 'http://dl.dafont.com/dl/?f=landa_font'
     name 'Landa'
     homepage 'http://www.dafont.com/landa-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lancon.ttf'
 end

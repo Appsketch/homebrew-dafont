@@ -5,7 +5,6 @@ cask 'dafont-gilligans-island' do
     url 'http://dl.dafont.com/dl/?f=gilligans_island'
     name 'Gilligans Island'
     homepage 'http://www.dafont.com/gilligans-island.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GILLIGAN.TTF'
 end

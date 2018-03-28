@@ -5,7 +5,6 @@ cask 'dafont-rainbow-veins' do
     url 'http://dl.dafont.com/dl/?f=rainbow_veins'
     name 'Rainbow Veins'
     homepage 'http://www.dafont.com/rainbow-veins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rainbow Veins.ttf'
 end

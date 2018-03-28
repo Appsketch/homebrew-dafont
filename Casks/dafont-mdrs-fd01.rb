@@ -5,7 +5,6 @@ cask 'dafont-mdrs-fd01' do
     url 'http://dl.dafont.com/dl/?f=mdrs_fd01'
     name 'MDRS-FD01'
     homepage 'http://www.dafont.com/mdrs-fd01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mdrsfd01.ttf'
 end

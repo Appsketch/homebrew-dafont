@@ -5,7 +5,6 @@ cask 'dafont-arsenale-white' do
     url 'http://dl.dafont.com/dl/?f=arsenale_white'
     name 'Arsenale White'
     homepage 'http://www.dafont.com/arsenale-white.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'arsenale_white.ttf'
 end

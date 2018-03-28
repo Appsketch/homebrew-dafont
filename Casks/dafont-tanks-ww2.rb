@@ -5,7 +5,6 @@ cask 'dafont-tanks-ww2' do
     url 'http://dl.dafont.com/dl/?f=tanks_ww2'
     name 'Tanks WW2'
     homepage 'http://www.dafont.com/tanks-ww2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TANKS.TTF'
 end

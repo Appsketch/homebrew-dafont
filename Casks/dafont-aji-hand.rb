@@ -5,7 +5,6 @@ cask 'dafont-aji-hand' do
     url 'http://dl.dafont.com/dl/?f=aji_hand'
     name 'Aji Hand'
     homepage 'http://www.dafont.com/aji-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aji_Hand.ttf'
 end

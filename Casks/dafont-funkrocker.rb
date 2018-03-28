@@ -5,7 +5,6 @@ cask 'dafont-funkrocker' do
     url 'http://dl.dafont.com/dl/?f=funkrocker'
     name 'Funkrocker'
     homepage 'http://www.dafont.com/funkrocker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Funkrocker.otf'
 end

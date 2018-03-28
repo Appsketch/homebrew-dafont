@@ -5,7 +5,6 @@ cask 'dafont-note-of-terror' do
     url 'http://dl.dafont.com/dl/?f=note_of_terror'
     name 'Note of Terror'
     homepage 'http://www.dafont.com/note-of-terror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tnote.ttf'
 end

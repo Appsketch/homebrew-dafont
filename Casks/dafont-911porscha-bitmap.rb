@@ -5,7 +5,6 @@ cask 'dafont-911porscha-bitmap' do
     url 'http://dl.dafont.com/dl/?f=911porscha_bitmap'
     name '911 Porscha Bitmap'
     homepage 'http://www.dafont.com/911porscha-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '911BM3.FON'
 end

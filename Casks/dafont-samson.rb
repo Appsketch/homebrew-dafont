@@ -5,7 +5,6 @@ cask 'dafont-samson' do
     url 'http://dl.dafont.com/dl/?f=samson'
     name 'Samson'
     homepage 'http://www.dafont.com/samson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SAMSB___.TTF'
     font 'SAMSBO__.TTF'

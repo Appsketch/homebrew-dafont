@@ -5,7 +5,6 @@ cask 'dafont-kbdunktank' do
     url 'http://dl.dafont.com/dl/?f=kbdunktank'
     name 'KB Dunk Tank'
     homepage 'http://www.dafont.com/kbdunktank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBDunkTank.ttf'
 end

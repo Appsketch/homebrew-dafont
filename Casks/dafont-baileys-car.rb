@@ -5,7 +5,6 @@ cask 'dafont-baileys-car' do
     url 'http://dl.dafont.com/dl/?f=baileys_car'
     name 'Baileys Car'
     homepage 'http://www.dafont.com/baileys-car.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tt/baileys car.ttf'
 end

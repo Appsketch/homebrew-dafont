@@ -5,7 +5,6 @@ cask 'dafont-arabic-curves' do
     url 'http://dl.dafont.com/dl/?f=arabic_curves'
     name 'Arabic curves'
     homepage 'http://www.dafont.com/arabic-curves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arabiccurves-Regular.ttf'
 end

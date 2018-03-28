@@ -5,7 +5,6 @@ cask 'dafont-dr-jekyll' do
     url 'http://dl.dafont.com/dl/?f=dr_jekyll'
     name 'Dr Jekyll'
     homepage 'http://www.dafont.com/dr-jekyll.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'drjekyll.ttf'
 end

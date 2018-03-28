@@ -5,7 +5,6 @@ cask 'dafont-stasmic' do
     url 'http://dl.dafont.com/dl/?f=stasmic'
     name 'Stasmic'
     homepage 'http://www.dafont.com/stasmic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stasmic_.ttf'
 end

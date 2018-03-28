@@ -5,7 +5,6 @@ cask 'dafont-normograf' do
     url 'http://dl.dafont.com/dl/?f=normograf'
     name 'Normograf'
     homepage 'http://www.dafont.com/normograf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NORMOGRR.TTF'
 end

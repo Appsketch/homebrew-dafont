@@ -5,7 +5,6 @@ cask 'dafont-dar-skin' do
     url 'http://dl.dafont.com/dl/?f=dar_skin'
     name 'Dar Skin'
     homepage 'http://www.dafont.com/dar-skin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DARSKIN_.TTF'
 end

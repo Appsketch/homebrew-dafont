@@ -5,7 +5,6 @@ cask 'dafont-singapore2' do
     url 'http://dl.dafont.com/dl/?f=singapore2'
     name 'Singapore'
     homepage 'http://www.dafont.com/singapore2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Singapore.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chinese-asian-style' do
     url 'http://dl.dafont.com/dl/?f=chinese_asian_style'
     name 'Chinese Asian Style'
     homepage 'http://www.dafont.com/chinese-asian-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chinese Asian Style.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gracie-llywellyn' do
     url 'http://dl.dafont.com/dl/?f=gracie_llywellyn'
     name 'Gracie'
     homepage 'http://www.dafont.com/gracie-llywellyn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gracie Light.ttf'
     font 'Gracie.ttf'

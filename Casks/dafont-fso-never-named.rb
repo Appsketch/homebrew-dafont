@@ -5,7 +5,6 @@ cask 'dafont-fso-never-named' do
     url 'http://dl.dafont.com/dl/?f=fso_never_named'
     name 'FSO Never Named'
     homepage 'http://www.dafont.com/fso-never-named.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FSONEVER.TTF'
 end

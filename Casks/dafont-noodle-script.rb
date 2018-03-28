@@ -5,7 +5,6 @@ cask 'dafont-noodle-script' do
     url 'http://dl.dafont.com/dl/?f=noodle_script'
     name 'Noodle Script'
     homepage 'http://www.dafont.com/noodle-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NoodleScript.ttf'
     font 'nooshade.ttf'

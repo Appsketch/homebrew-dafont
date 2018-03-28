@@ -5,7 +5,6 @@ cask 'dafont-assassin-nation' do
     url 'http://dl.dafont.com/dl/?f=assassin_nation'
     name 'Assassin Nation'
     homepage 'http://www.dafont.com/assassin-nation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'assassinnation.ttf'
     font 'assassinnation3d.ttf'

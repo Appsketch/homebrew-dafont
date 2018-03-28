@@ -5,7 +5,6 @@ cask 'dafont-jelusic-rukopisni' do
     url 'http://dl.dafont.com/dl/?f=jelusic_rukopisni'
     name 'Jelusic Rukopisni'
     homepage 'http://www.dafont.com/jelusic-rukopisni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JELURRG_.TTF'
 end

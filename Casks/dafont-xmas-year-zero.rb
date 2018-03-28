@@ -5,7 +5,6 @@ cask 'dafont-xmas-year-zero' do
     url 'http://dl.dafont.com/dl/?f=xmas_year_zero'
     name 'Xmas Year Zero'
     homepage 'http://www.dafont.com/xmas-year-zero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xmas Year Zero.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-always-joking' do
     url 'http://dl.dafont.com/dl/?f=always_joking'
     name 'Always Joking'
     homepage 'http://www.dafont.com/always-joking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Always Joking.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ohdeesees' do
     url 'http://dl.dafont.com/dl/?f=ohdeesees'
     name 'Ohdeesee&#039;s'
     homepage 'http://www.dafont.com/ohdeesees.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OhDeeSee.ttf'
 end

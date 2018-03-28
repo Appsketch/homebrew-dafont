@@ -5,7 +5,6 @@ cask 'dafont-kazincbarcika' do
     url 'http://dl.dafont.com/dl/?f=kazincbarcika'
     name 'Kazincbarcika'
     homepage 'http://www.dafont.com/kazincbarcika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KazincBarcikaScript-demo.ttf'
 end

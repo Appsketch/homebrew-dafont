@@ -5,7 +5,6 @@ cask 'dafont-mnf-rejorm-may' do
     url 'http://dl.dafont.com/dl/?f=mnf_rejorm_may'
     name 'MNF Rejorm May'
     homepage 'http://www.dafont.com/mnf-rejorm-may.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MNF REJORM MAY.ttf'
 end

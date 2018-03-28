@@ -5,7 +5,6 @@ cask 'dafont-drama-and-co' do
     url 'http://dl.dafont.com/dl/?f=drama_and_co'
     name 'Drama And Co'
     homepage 'http://www.dafont.com/drama-and-co.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DramaAndCo.ttf'
 end

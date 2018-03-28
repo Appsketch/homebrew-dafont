@@ -5,7 +5,6 @@ cask 'dafont-citymagic' do
     url 'http://dl.dafont.com/dl/?f=citymagic'
     name 'City Magic'
     homepage 'http://www.dafont.com/citymagic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CityMagic.ttf'
 end

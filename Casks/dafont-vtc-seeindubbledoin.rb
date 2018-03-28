@@ -5,7 +5,6 @@ cask 'dafont-vtc-seeindubbledoin' do
     url 'http://dl.dafont.com/dl/?f=vtc_seeindubbledoin'
     name 'VTC Seeindubbledointriple'
     homepage 'http://www.dafont.com/vtc-seeindubbledoin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC Seeindubbledointriple Regular.ttf'
 end

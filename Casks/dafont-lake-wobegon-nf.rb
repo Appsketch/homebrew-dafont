@@ -5,7 +5,6 @@ cask 'dafont-lake-wobegon-nf' do
     url 'http://dl.dafont.com/dl/?f=lake_wobegon_nf'
     name 'Lake Wobegon NF'
     homepage 'http://www.dafont.com/lake-wobegon-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LAKEWN__.TTF'
 end

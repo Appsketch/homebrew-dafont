@@ -5,7 +5,6 @@ cask 'dafont-retrotastic' do
     url 'http://dl.dafont.com/dl/?f=retrotastic'
     name 'Retro Tastic'
     homepage 'http://www.dafont.com/retrotastic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RetroTastic.ttf'
 end

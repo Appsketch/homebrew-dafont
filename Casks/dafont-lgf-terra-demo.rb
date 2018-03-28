@@ -5,7 +5,6 @@ cask 'dafont-lgf-terra-demo' do
     url 'http://dl.dafont.com/dl/?f=lgf_terra_demo'
     name 'LGF Terra Demo'
     homepage 'http://www.dafont.com/lgf-terra-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LGFTERRADEMO.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-signs-zeichen' do
     url 'http://dl.dafont.com/dl/?f=signs_zeichen'
     name 'Signs - Zeichen'
     homepage 'http://www.dafont.com/signs-zeichen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'signs - zeichen 2.0.ttf'
 end

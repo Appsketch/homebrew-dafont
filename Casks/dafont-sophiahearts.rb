@@ -5,7 +5,6 @@ cask 'dafont-sophiahearts' do
     url 'http://dl.dafont.com/dl/?f=sophiahearts'
     name 'Sophia Hearts'
     homepage 'http://www.dafont.com/sophiahearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sophiahearts.ttf'
 end

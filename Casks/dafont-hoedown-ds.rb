@@ -5,7 +5,6 @@ cask 'dafont-hoedown-ds' do
     url 'http://dl.dafont.com/dl/?f=hoedown_ds'
     name 'Hoedown'
     homepage 'http://www.dafont.com/hoedown-ds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hoedown-Shadow.ttf'
     font 'Hoedown.ttf'

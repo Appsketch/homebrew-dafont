@@ -5,7 +5,6 @@ cask 'dafont-summer-of-love' do
     url 'http://dl.dafont.com/dl/?f=summer_of_love'
     name 'Summer Of Love'
     homepage 'http://www.dafont.com/summer-of-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Summer Of Love.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-modern-dot-digital-7' do
     url 'http://dl.dafont.com/dl/?f=modern_dot_digital_7'
     name 'Modern Dot Digital-7'
     homepage 'http://www.dafont.com/modern-dot-digital-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'modern_dot_digital-7.ttf'
 end

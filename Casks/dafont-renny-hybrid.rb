@@ -5,7 +5,6 @@ cask 'dafont-renny-hybrid' do
     url 'http://dl.dafont.com/dl/?f=renny_hybrid'
     name 'Renny Hybrid'
     homepage 'http://www.dafont.com/renny-hybrid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Renny_Hybrid.ttf'
 end

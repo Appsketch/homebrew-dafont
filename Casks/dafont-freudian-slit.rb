@@ -5,7 +5,6 @@ cask 'dafont-freudian-slit' do
     url 'http://dl.dafont.com/dl/?f=freudian_slit'
     name 'Freudian Slit'
     homepage 'http://www.dafont.com/freudian-slit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Freudian Slit.otf'
 end

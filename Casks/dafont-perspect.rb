@@ -5,7 +5,6 @@ cask 'dafont-perspect' do
     url 'http://dl.dafont.com/dl/?f=perspect'
     name 'Perspect'
     homepage 'http://www.dafont.com/perspect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Perspect.ttf'
 end

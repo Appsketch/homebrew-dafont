@@ -5,7 +5,6 @@ cask 'dafont-tattedteezcanada' do
     url 'http://dl.dafont.com/dl/?f=tattedteezcanada'
     name 'Tatted Teez Canada'
     homepage 'http://www.dafont.com/tattedteezcanada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tattedteezcanada.ttf'
 end

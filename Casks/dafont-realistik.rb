@@ -5,7 +5,6 @@ cask 'dafont-realistik' do
     url 'http://dl.dafont.com/dl/?f=realistik'
     name 'Realistik'
     homepage 'http://www.dafont.com/realistik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Realistik.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lostrobo' do
     url 'http://dl.dafont.com/dl/?f=lostrobo'
     name 'Lost Robo'
     homepage 'http://www.dafont.com/lostrobo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lostrobo.ttf'
 end

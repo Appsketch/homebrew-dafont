@@ -5,7 +5,6 @@ cask 'dafont-surfing-capital' do
     url 'http://dl.dafont.com/dl/?f=surfing_capital'
     name 'Surfing Capital'
     homepage 'http://www.dafont.com/surfing-capital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Surfing Capital.ttf'
 end

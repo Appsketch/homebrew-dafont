@@ -5,7 +5,6 @@ cask 'dafont-social-manual' do
     url 'http://dl.dafont.com/dl/?f=social_manual'
     name 'Social Manual'
     homepage 'http://www.dafont.com/social-manual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Social Manual.ttf'
 end

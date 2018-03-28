@@ -5,7 +5,6 @@ cask 'dafont-dk-dirrrty' do
     url 'http://dl.dafont.com/dl/?f=dk_dirrrty'
     name 'DK Dirrrty'
     homepage 'http://www.dafont.com/dk-dirrrty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Dirrrty.ttf'
 end

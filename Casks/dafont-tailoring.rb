@@ -5,7 +5,6 @@ cask 'dafont-tailoring' do
     url 'http://dl.dafont.com/dl/?f=tailoring'
     name 'Tailoring'
     homepage 'http://www.dafont.com/tailoring.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tailoring.ttf'
 end

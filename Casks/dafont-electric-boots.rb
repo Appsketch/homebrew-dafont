@@ -5,7 +5,6 @@ cask 'dafont-electric-boots' do
     url 'http://dl.dafont.com/dl/?f=electric_boots'
     name 'Electric Boots'
     homepage 'http://www.dafont.com/electric-boots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ELECTRICBOOTS.ttf'
 end

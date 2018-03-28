@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-hand2015' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_hand2015'
     name 'Woodcutter Hand 2015'
     homepage 'http://www.dafont.com/woodcutter-hand2015.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter hand2015.ttf'
 end

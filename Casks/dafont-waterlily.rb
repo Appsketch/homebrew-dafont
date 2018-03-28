@@ -5,7 +5,6 @@ cask 'dafont-waterlily' do
     url 'http://dl.dafont.com/dl/?f=waterlily'
     name 'Waterlily'
     homepage 'http://www.dafont.com/waterlily.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Waterlily Script.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hobo-signs' do
     url 'http://dl.dafont.com/dl/?f=hobo_signs'
     name 'Hobo Signs'
     homepage 'http://www.dafont.com/hobo-signs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HOBOSIGN.TTF'
 end

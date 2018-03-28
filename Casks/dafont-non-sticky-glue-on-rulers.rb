@@ -5,7 +5,6 @@ cask 'dafont-non-sticky-glue-on-rulers' do
     url 'http://dl.dafont.com/dl/?f=non_sticky_glue_on_rulers'
     name 'Non-Sticky Glue on Rulers'
     homepage 'http://www.dafont.com/non-sticky-glue-on-rulers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nonsticky_glue_on_rulers.ttf'
 end

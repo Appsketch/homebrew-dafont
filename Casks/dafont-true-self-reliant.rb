@@ -5,7 +5,6 @@ cask 'dafont-true-self-reliant' do
     url 'http://dl.dafont.com/dl/?f=true_self_reliant'
     name 'True Self Reliant'
     homepage 'http://www.dafont.com/true-self-reliant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'true self reliant.ttf'
 end

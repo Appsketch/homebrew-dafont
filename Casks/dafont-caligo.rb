@@ -5,7 +5,6 @@ cask 'dafont-caligo' do
     url 'http://dl.dafont.com/dl/?f=caligo'
     name 'Caligo'
     homepage 'http://www.dafont.com/caligo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'font_Caligo1.0.ttf'
 end

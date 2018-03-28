@@ -5,7 +5,6 @@ cask 'dafont-picture-of-you' do
     url 'http://dl.dafont.com/dl/?f=picture_of_you'
     name 'Picture of you'
     homepage 'http://www.dafont.com/picture-of-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'picture of you.ttf'
 end

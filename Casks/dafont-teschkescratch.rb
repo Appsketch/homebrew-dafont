@@ -5,7 +5,6 @@ cask 'dafont-teschkescratch' do
     url 'http://dl.dafont.com/dl/?f=teschkescratch'
     name 'Teschke Scratch'
     homepage 'http://www.dafont.com/teschkescratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Teschkescratch.ttf'
 end

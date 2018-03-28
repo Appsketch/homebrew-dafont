@@ -5,7 +5,6 @@ cask 'dafont-screaming-guitar' do
     url 'http://dl.dafont.com/dl/?f=screaming_guitar'
     name 'Screaming Guitar'
     homepage 'http://www.dafont.com/screaming-guitar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'screaminguitar.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-we-are-the-word' do
     url 'http://dl.dafont.com/dl/?f=we_are_the_word'
     name 'We Are The Word'
     homepage 'http://www.dafont.com/we-are-the-word.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WE ARE THE WORD.ttf'
 end

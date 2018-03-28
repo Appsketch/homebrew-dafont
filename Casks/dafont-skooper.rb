@@ -5,7 +5,6 @@ cask 'dafont-skooper' do
     url 'http://dl.dafont.com/dl/?f=skooper'
     name 'Skooper'
     homepage 'http://www.dafont.com/skooper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skooper.ttf'
 end

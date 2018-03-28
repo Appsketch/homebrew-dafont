@@ -5,7 +5,6 @@ cask 'dafont-bernardo-moda' do
     url 'http://dl.dafont.com/dl/?f=bernardo_moda'
     name 'Bernardo Moda'
     homepage 'http://www.dafont.com/bernardo-moda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bernardo Moda Bold.ttf'
     font 'Bernardo Moda Semibold.ttf'

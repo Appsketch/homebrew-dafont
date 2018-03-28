@@ -5,7 +5,6 @@ cask 'dafont-alphacar' do
     url 'http://dl.dafont.com/dl/?f=alphacar'
     name 'AlphaCar'
     homepage 'http://www.dafont.com/alphacar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaCar.TTF'
 end

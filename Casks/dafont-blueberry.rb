@@ -5,7 +5,6 @@ cask 'dafont-blueberry' do
     url 'http://dl.dafont.com/dl/?f=blueberry'
     name 'Blueberry'
     homepage 'http://www.dafont.com/blueberry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLUEB___.otf'
 end

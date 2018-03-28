@@ -5,7 +5,6 @@ cask 'dafont-napalm-strike' do
     url 'http://dl.dafont.com/dl/?f=napalm_strike'
     name 'Napalm Strike'
     homepage 'http://www.dafont.com/napalm-strike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Napalm_Strike.otf'
 end

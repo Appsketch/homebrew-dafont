@@ -5,7 +5,6 @@ cask 'dafont-pooh' do
     url 'http://dl.dafont.com/dl/?f=pooh'
     name 'Pooh'
     homepage 'http://www.dafont.com/pooh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MaiLe-Pooh-Regular.otf'
 end

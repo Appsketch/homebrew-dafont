@@ -5,7 +5,6 @@ cask 'dafont-de-louisville' do
     url 'http://dl.dafont.com/dl/?f=de_louisville'
     name 'De Louisville'
     homepage 'http://www.dafont.com/de-louisville.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'de_louisville_bold.otf'
     font 'de_louisville_smallcaps.otf'

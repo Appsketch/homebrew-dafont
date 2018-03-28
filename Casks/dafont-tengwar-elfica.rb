@@ -5,7 +5,6 @@ cask 'dafont-tengwar-elfica' do
     url 'http://dl.dafont.com/dl/?f=tengwar_elfica'
     name 'Tengwar Elfica'
     homepage 'http://www.dafont.com/tengwar-elfica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elfica.ttf'
     font 'ElficaA.ttf'

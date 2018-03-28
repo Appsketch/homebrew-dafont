@@ -5,7 +5,6 @@ cask 'dafont-kg-begin-again' do
     url 'http://dl.dafont.com/dl/?f=kg_begin_again'
     name 'KG Begin Again'
     homepage 'http://www.dafont.com/kg-begin-again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGBeginAgain.ttf'
 end

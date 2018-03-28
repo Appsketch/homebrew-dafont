@@ -5,7 +5,6 @@ cask 'dafont-rave-queen' do
     url 'http://dl.dafont.com/dl/?f=rave_queen'
     name 'Rave Queen'
     homepage 'http://www.dafont.com/rave-queen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RAVEQ___.TTF'
 end

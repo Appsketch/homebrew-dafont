@@ -5,7 +5,6 @@ cask 'dafont-misconstrued' do
     url 'http://dl.dafont.com/dl/?f=misconstrued'
     name 'Misconstrued'
     homepage 'http://www.dafont.com/misconstrued.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MISCONST.TTF'
 end

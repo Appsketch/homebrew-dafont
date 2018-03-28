@@ -5,7 +5,6 @@ cask 'dafont-rhinoceros-break-the-wall' do
     url 'http://dl.dafont.com/dl/?f=rhinoceros_break_the_wall'
     name 'Rhinoceros Break The Wall'
     homepage 'http://www.dafont.com/rhinoceros-break-the-wall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RHINOCEROS Break THE Wall.ttf'
 end

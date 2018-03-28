@@ -5,7 +5,6 @@ cask 'dafont-roundy-rainbows' do
     url 'http://dl.dafont.com/dl/?f=roundy_rainbows'
     name 'Roundy Rainbows'
     homepage 'http://www.dafont.com/roundy-rainbows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Roundy Rainbows.otf'
 end

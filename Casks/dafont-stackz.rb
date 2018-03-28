@@ -5,7 +5,6 @@ cask 'dafont-stackz' do
     url 'http://dl.dafont.com/dl/?f=stackz'
     name 'Stackz'
     homepage 'http://www.dafont.com/stackz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STACKZ.TTF'
 end

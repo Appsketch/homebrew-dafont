@@ -5,7 +5,6 @@ cask 'dafont-bare-knuckle-fight' do
     url 'http://dl.dafont.com/dl/?f=bare_knuckle_fight'
     name 'Bare Knuckle Fight'
     homepage 'http://www.dafont.com/bare-knuckle-fight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bare knuckle fight.ttf'
 end

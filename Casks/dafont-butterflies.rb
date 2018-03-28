@@ -5,7 +5,6 @@ cask 'dafont-butterflies' do
     url 'http://dl.dafont.com/dl/?f=butterflies'
     name 'Butterflies'
     homepage 'http://www.dafont.com/butterflies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Butterflies.ttf'
 end

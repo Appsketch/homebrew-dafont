@@ -5,7 +5,6 @@ cask 'dafont-gigabyte-07' do
     url 'http://dl.dafont.com/dl/?f=gigabyte_07'
     name 'Gigabyte 07'
     homepage 'http://www.dafont.com/gigabyte-07.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gigabyte.otf'
 end

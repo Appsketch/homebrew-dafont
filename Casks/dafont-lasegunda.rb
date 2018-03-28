@@ -5,7 +5,6 @@ cask 'dafont-lasegunda' do
     url 'http://dl.dafont.com/dl/?f=lasegunda'
     name 'La Segunda'
     homepage 'http://www.dafont.com/lasegunda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaSegunda.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kraut-type-a-fuck' do
     url 'http://dl.dafont.com/dl/?f=kraut_type_a_fuck'
     name 'Kraut-type-a-fuck'
     homepage 'http://www.dafont.com/kraut-type-a-fuck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kraut____typefuck11.ttf'
 end

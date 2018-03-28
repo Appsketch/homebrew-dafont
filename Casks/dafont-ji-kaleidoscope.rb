@@ -5,7 +5,6 @@ cask 'dafont-ji-kaleidoscope' do
     url 'http://dl.dafont.com/dl/?f=ji_kaleidoscope'
     name 'JI Kaleidoscope Bats'
     homepage 'http://www.dafont.com/ji-kaleidoscope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JI Kaleidoscope Bats 2.TTF'
     font 'JI Kaleidoscope Bats 3.TTF'

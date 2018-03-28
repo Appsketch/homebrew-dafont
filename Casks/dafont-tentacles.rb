@@ -5,7 +5,6 @@ cask 'dafont-tentacles' do
     url 'http://dl.dafont.com/dl/?f=tentacles'
     name 'Tentacles'
     homepage 'http://www.dafont.com/tentacles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tentacles.ttf'
 end

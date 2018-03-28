@@ -5,7 +5,6 @@ cask 'dafont-origo' do
     url 'http://dl.dafont.com/dl/?f=origo'
     name 'Origo'
     homepage 'http://www.dafont.com/origo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ORIGO_TRIAL.ttf'
 end

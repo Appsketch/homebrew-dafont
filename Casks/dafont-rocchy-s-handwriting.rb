@@ -5,7 +5,6 @@ cask 'dafont-rocchy-s-handwriting' do
     url 'http://dl.dafont.com/dl/?f=rocchy_s_handwriting'
     name 'Rocchy&#039;s handwriting'
     homepage 'http://www.dafont.com/rocchy-s-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rocchy__s_handwriting.ttf'
 end

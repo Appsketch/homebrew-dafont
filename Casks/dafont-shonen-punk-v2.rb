@@ -5,7 +5,6 @@ cask 'dafont-shonen-punk-v2' do
     url 'http://dl.dafont.com/dl/?f=shonen_punk_v2'
     name 'Shonen Punk v2'
     homepage 'http://www.dafont.com/shonen-punk-v2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sp v2.ttf'
 end

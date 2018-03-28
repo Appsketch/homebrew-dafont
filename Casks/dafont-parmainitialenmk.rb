@@ -5,7 +5,6 @@ cask 'dafont-parmainitialenmk' do
     url 'http://dl.dafont.com/dl/?f=parmainitialenmk'
     name 'Parma Initialen MK'
     homepage 'http://www.dafont.com/parmainitialenmk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ParmaInitialenMK.ttf'
 end

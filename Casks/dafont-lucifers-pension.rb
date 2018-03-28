@@ -5,7 +5,6 @@ cask 'dafont-lucifers-pension' do
     url 'http://dl.dafont.com/dl/?f=lucifers_pension'
     name 'Lucifer&#039;s Pension'
     homepage 'http://www.dafont.com/lucifers-pension.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Luciferys Pension Roman HMT TT.ttf'
 end

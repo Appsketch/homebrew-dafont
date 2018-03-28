@@ -5,7 +5,6 @@ cask 'dafont-rough-vignettes' do
     url 'http://dl.dafont.com/dl/?f=rough_vignettes'
     name 'Rough Vignettes'
     homepage 'http://www.dafont.com/rough-vignettes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rough Vignettes.ttf'
 end

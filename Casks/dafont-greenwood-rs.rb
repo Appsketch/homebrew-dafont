@@ -5,7 +5,6 @@ cask 'dafont-greenwood-rs' do
     url 'http://dl.dafont.com/dl/?f=greenwood_rs'
     name 'GreenWood RS'
     homepage 'http://www.dafont.com/greenwood-rs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreenWood.ttf'
 end

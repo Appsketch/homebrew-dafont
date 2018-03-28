@@ -5,7 +5,6 @@ cask 'dafont-wiggles' do
     url 'http://dl.dafont.com/dl/?f=wiggles'
     name 'Wiggles'
     homepage 'http://www.dafont.com/wiggles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WIBBLES_.ttf'
     font 'WIGGLES_.ttf'

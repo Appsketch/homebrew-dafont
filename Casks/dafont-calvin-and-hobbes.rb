@@ -5,7 +5,6 @@ cask 'dafont-calvin-and-hobbes' do
     url 'http://dl.dafont.com/dl/?f=calvin_and_hobbes'
     name 'Calvin and Hobbes'
     homepage 'http://www.dafont.com/calvin-and-hobbes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CALVINN.TTF'
     font 'CALVINO.TTF'

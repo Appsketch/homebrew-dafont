@@ -5,7 +5,6 @@ cask 'dafont-the-dark-knight' do
     url 'http://dl.dafont.com/dl/?f=the_dark_knight'
     name 'The Dark Knight'
     homepage 'http://www.dafont.com/the-dark-knight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the dark knight.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-twistbraid' do
     url 'http://dl.dafont.com/dl/?f=twistbraid'
     name 'Twistbraid'
     homepage 'http://www.dafont.com/twistbraid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Twistbraid.ttf'
 end

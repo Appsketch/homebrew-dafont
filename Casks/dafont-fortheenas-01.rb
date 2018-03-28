@@ -5,7 +5,6 @@ cask 'dafont-fortheenas-01' do
     url 'http://dl.dafont.com/dl/?f=fortheenas_01'
     name 'Fortheenas 01'
     homepage 'http://www.dafont.com/fortheenas-01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fortheenas_01 Bold Italic.otf'
     font 'Fortheenas_01 Bold.otf'

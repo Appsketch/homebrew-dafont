@@ -5,7 +5,6 @@ cask 'dafont-latin-runes' do
     url 'http://dl.dafont.com/dl/?f=latin_runes'
     name 'Latin Runes'
     homepage 'http://www.dafont.com/latin-runes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'latin_runes_v20.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-heymom-heydad' do
     url 'http://dl.dafont.com/dl/?f=heymom_heydad'
     name 'HeyMom! HeyDad!'
     homepage 'http://www.dafont.com/heymom-heydad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'heymom!heydad!.ttf'
 end

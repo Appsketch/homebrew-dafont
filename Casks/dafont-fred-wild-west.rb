@@ -5,7 +5,6 @@ cask 'dafont-fred-wild-west' do
     url 'http://dl.dafont.com/dl/?f=fred_wild_west'
     name 'Fred Wild West'
     homepage 'http://www.dafont.com/fred-wild-west.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FredWildWest-Regular.otf'
 end

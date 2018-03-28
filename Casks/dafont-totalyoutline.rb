@@ -5,7 +5,6 @@ cask 'dafont-totalyoutline' do
     url 'http://dl.dafont.com/dl/?f=totalyoutline'
     name 'Totaly Outline'
     homepage 'http://www.dafont.com/totalyoutline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TotalyOutline.ttf'
 end

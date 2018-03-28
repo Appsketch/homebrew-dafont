@@ -5,7 +5,6 @@ cask 'dafont-red-world' do
     url 'http://dl.dafont.com/dl/?f=red_world'
     name 'Red World'
     homepage 'http://www.dafont.com/red-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Red World Bold Italic.otf'
     font 'Red World Bold.otf'

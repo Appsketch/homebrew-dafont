@@ -5,7 +5,6 @@ cask 'dafont-gunfjaun-runic' do
     url 'http://dl.dafont.com/dl/?f=gunfjaun_runic'
     name 'Gunfjaun Runic'
     homepage 'http://www.dafont.com/gunfjaun-runic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GunfjaunRunic.ttf'
 end

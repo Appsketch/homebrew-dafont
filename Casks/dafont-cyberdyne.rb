@@ -5,7 +5,6 @@ cask 'dafont-cyberdyne' do
     url 'http://dl.dafont.com/dl/?f=cyberdyne'
     name 'Cyberdyne'
     homepage 'http://www.dafont.com/cyberdyne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cyberdyne.ttf'
     font 'cyberdyne3d.ttf'

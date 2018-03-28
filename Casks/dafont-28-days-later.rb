@@ -5,7 +5,6 @@ cask 'dafont-28-days-later' do
     url 'http://dl.dafont.com/dl/?f=28_days_later'
     name '28 Days Later'
     homepage 'http://www.dafont.com/28-days-later.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '28 Days Later.ttf'
 end

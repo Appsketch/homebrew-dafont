@@ -5,7 +5,6 @@ cask 'dafont-sallyross' do
     url 'http://dl.dafont.com/dl/?f=sallyross'
     name 'Sallyross'
     homepage 'http://www.dafont.com/sallyross.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SALLYROSS.ttf'
 end

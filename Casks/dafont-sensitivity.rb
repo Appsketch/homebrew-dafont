@@ -5,7 +5,6 @@ cask 'dafont-sensitivity' do
     url 'http://dl.dafont.com/dl/?f=sensitivity'
     name 'Sensitivity'
     homepage 'http://www.dafont.com/sensitivity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sensitivity.ttf'
 end

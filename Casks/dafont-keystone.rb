@@ -5,7 +5,6 @@ cask 'dafont-keystone' do
     url 'http://dl.dafont.com/dl/?f=keystone'
     name 'Keystone'
     homepage 'http://www.dafont.com/keystone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KEYSRG__.TTF'
 end

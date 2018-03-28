@@ -5,7 +5,6 @@ cask 'dafont-amanda' do
     url 'http://dl.dafont.com/dl/?f=amanda'
     name 'Amanda'
     homepage 'http://www.dafont.com/amanda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amanda.otf'
 end

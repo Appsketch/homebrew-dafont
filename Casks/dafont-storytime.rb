@@ -5,7 +5,6 @@ cask 'dafont-storytime' do
     url 'http://dl.dafont.com/dl/?f=storytime'
     name 'Story Time'
     homepage 'http://www.dafont.com/storytime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StoryTime.ttf'
 end

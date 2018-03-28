@@ -5,7 +5,6 @@ cask 'dafont-dotline' do
     url 'http://dl.dafont.com/dl/?f=dotline'
     name 'DotLine'
     homepage 'http://www.dafont.com/dotline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dotline.ttf'
 end

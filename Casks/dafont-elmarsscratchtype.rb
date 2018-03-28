@@ -5,7 +5,6 @@ cask 'dafont-elmarsscratchtype' do
     url 'http://dl.dafont.com/dl/?f=elmarsscratchtype'
     name 'Elmar&#039;s Scratch Type'
     homepage 'http://www.dafont.com/elmarsscratchtype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'elmarscratchfont.ttf'
 end

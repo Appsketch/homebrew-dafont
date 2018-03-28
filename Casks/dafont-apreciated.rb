@@ -5,7 +5,6 @@ cask 'dafont-apreciated' do
     url 'http://dl.dafont.com/dl/?f=apreciated'
     name 'Apreciated'
     homepage 'http://www.dafont.com/apreciated.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Apreciated.ttf'
 end

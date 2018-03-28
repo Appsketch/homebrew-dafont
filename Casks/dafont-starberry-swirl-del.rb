@@ -5,7 +5,6 @@ cask 'dafont-starberry-swirl-del' do
     url 'http://dl.dafont.com/dl/?f=starberry_swirl_del'
     name 'Starberry Swirl Delight'
     homepage 'http://www.dafont.com/starberry-swirl-del.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Starberry Swirl Delight.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-suplexmentary-comic-nc' do
     url 'http://dl.dafont.com/dl/?f=suplexmentary_comic_nc'
     name 'Suplexmentary Comic NC'
     homepage 'http://www.dafont.com/suplexmentary-comic-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Suplexmentary Comic NC.ttf'
 end

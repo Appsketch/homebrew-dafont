@@ -5,7 +5,6 @@ cask 'dafont-certto-headline' do
     url 'http://dl.dafont.com/dl/?f=certto_headline'
     name 'Certto Headline'
     homepage 'http://www.dafont.com/certto-headline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Certto Headline.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-scotosaurus' do
     url 'http://dl.dafont.com/dl/?f=scotosaurus'
     name 'Scotosaurus'
     homepage 'http://www.dafont.com/scotosaurus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scotosaurus.ttf'
 end

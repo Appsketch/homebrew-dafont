@@ -5,7 +5,6 @@ cask 'dafont-mango-flavored-jello' do
     url 'http://dl.dafont.com/dl/?f=mango_flavored_jello'
     name 'Mango Flavored Jello'
     homepage 'http://www.dafont.com/mango-flavored-jello.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mango Flavored Jello.ttf'
 end

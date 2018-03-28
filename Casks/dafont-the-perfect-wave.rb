@@ -5,7 +5,6 @@ cask 'dafont-the-perfect-wave' do
     url 'http://dl.dafont.com/dl/?f=the_perfect_wave'
     name 'The Perfect Wave'
     homepage 'http://www.dafont.com/the-perfect-wave.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Perfect Wave.otf'
 end

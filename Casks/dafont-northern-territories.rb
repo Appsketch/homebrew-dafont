@@ -5,7 +5,6 @@ cask 'dafont-northern-territories' do
     url 'http://dl.dafont.com/dl/?f=northern_territories'
     name 'Northern Territories'
     homepage 'http://www.dafont.com/northern-territories.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Northern Territories.ttf'
 end

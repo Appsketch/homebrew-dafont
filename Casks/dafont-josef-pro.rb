@@ -5,7 +5,6 @@ cask 'dafont-josef-pro' do
     url 'http://dl.dafont.com/dl/?f=josef_pro'
     name 'Josef Pro'
     homepage 'http://www.dafont.com/josef-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Josef_reduced_LightItalic.ttf'
     font 'Josef_reduced-Black.ttf'

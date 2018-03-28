@@ -5,7 +5,6 @@ cask 'dafont-medalhao' do
     url 'http://dl.dafont.com/dl/?f=medalhao'
     name 'Medalh&atilde;o'
     homepage 'http://www.dafont.com/medalhao.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEDALHA.TTF'
 end

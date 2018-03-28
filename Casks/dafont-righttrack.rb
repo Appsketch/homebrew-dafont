@@ -5,7 +5,6 @@ cask 'dafont-righttrack' do
     url 'http://dl.dafont.com/dl/?f=righttrack'
     name 'Right Track'
     homepage 'http://www.dafont.com/righttrack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RightTrack.ttf'
 end

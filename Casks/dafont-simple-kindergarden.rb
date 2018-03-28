@@ -5,7 +5,6 @@ cask 'dafont-simple-kindergarden' do
     url 'http://dl.dafont.com/dl/?f=simple_kindergarden'
     name 'Simple Kindergarden'
     homepage 'http://www.dafont.com/simple-kindergarden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simple_kindergarden.ttf'
 end

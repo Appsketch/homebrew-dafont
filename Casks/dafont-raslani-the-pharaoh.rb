@@ -5,7 +5,6 @@ cask 'dafont-raslani-the-pharaoh' do
     url 'http://dl.dafont.com/dl/?f=raslani_the_pharaoh'
     name 'Raslani the Pharaoh'
     homepage 'http://www.dafont.com/raslani-the-pharaoh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raslani the Pharaoh.ttf'
 end

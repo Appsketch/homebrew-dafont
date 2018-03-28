@@ -5,7 +5,6 @@ cask 'dafont-fat-ass-by-francisco-sepulveda' do
     url 'http://dl.dafont.com/dl/?f=fat_ass_by_francisco_sepulveda'
     name 'Fat Ass'
     homepage 'http://www.dafont.com/fat-ass-by-francisco-sepulveda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fat_ass_.ttf'
 end

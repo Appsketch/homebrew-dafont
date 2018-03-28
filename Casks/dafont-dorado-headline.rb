@@ -5,7 +5,6 @@ cask 'dafont-dorado-headline' do
     url 'http://dl.dafont.com/dl/?f=dorado_headline'
     name 'Dorado Headline'
     homepage 'http://www.dafont.com/dorado-headline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DoradoHeadline.ttf'
 end

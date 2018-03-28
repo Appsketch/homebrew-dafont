@@ -5,7 +5,6 @@ cask 'dafont-modern-vision' do
     url 'http://dl.dafont.com/dl/?f=modern_vision'
     name 'Modern Vision'
     homepage 'http://www.dafont.com/modern-vision.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Modern-Vision.ttf'
 end

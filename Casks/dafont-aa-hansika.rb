@@ -5,7 +5,6 @@ cask 'dafont-aa-hansika' do
     url 'http://dl.dafont.com/dl/?f=aa_hansika'
     name 'AA-Hansika'
     homepage 'http://www.dafont.com/aa-hansika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AA_HAN_1.TTF'
 end

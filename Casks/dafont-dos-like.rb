@@ -5,7 +5,6 @@ cask 'dafont-dos-like' do
     url 'http://dl.dafont.com/dl/?f=dos_like'
     name 'DOS Like'
     homepage 'http://www.dafont.com/dos-like.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOSLIKE.FON'
 end

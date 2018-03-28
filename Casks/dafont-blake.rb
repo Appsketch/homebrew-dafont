@@ -5,7 +5,6 @@ cask 'dafont-blake' do
     url 'http://dl.dafont.com/dl/?f=blake'
     name 'Blake'
     homepage 'http://www.dafont.com/blake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blake2.ttf'
 end

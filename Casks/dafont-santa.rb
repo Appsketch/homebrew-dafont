@@ -5,7 +5,6 @@ cask 'dafont-santa' do
     url 'http://dl.dafont.com/dl/?f=santa'
     name 'Santa'
     homepage 'http://www.dafont.com/santa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Santa.ttf'
 end

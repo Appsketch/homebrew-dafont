@@ -5,7 +5,6 @@ cask 'dafont-randi' do
     url 'http://dl.dafont.com/dl/?f=randi'
     name 'Randi'
     homepage 'http://www.dafont.com/randi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Randi.ttf'
 end

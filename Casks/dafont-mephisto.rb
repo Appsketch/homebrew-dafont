@@ -5,7 +5,6 @@ cask 'dafont-mephisto' do
     url 'http://dl.dafont.com/dl/?f=mephisto'
     name 'Mephisto'
     homepage 'http://www.dafont.com/mephisto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEPHISTO.TTF'
 end

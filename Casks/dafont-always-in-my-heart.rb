@@ -5,7 +5,6 @@ cask 'dafont-always-in-my-heart' do
     url 'http://dl.dafont.com/dl/?f=always_in_my_heart'
     name 'Always In My Heart'
     homepage 'http://www.dafont.com/always-in-my-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Always In My Heart.ttf'
 end

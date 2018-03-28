@@ -5,7 +5,6 @@ cask 'dafont-chippy-handwriting' do
     url 'http://dl.dafont.com/dl/?f=chippy_handwriting'
     name 'Chippy Handwriting'
     homepage 'http://www.dafont.com/chippy-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chippy Handwriting.ttf'
 end

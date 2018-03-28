@@ -5,7 +5,6 @@ cask 'dafont-deep-woods' do
     url 'http://dl.dafont.com/dl/?f=deep_woods'
     name 'Deep Woods Initials'
     homepage 'http://www.dafont.com/deep-woods.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEEPWOOD.TTF'
 end

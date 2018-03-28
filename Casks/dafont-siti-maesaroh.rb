@@ -5,7 +5,6 @@ cask 'dafont-siti-maesaroh' do
     url 'http://dl.dafont.com/dl/?f=siti_maesaroh'
     name 'Siti Maesaroh'
     homepage 'http://www.dafont.com/siti-maesaroh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Siti Maesaroh.otf'
 end

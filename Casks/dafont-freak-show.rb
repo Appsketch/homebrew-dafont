@@ -5,7 +5,6 @@ cask 'dafont-freak-show' do
     url 'http://dl.dafont.com/dl/?f=freak_show'
     name 'Freak Show'
     homepage 'http://www.dafont.com/freak-show.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FREAS___.TTF'
 end

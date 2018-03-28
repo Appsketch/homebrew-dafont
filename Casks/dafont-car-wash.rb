@@ -5,7 +5,6 @@ cask 'dafont-car-wash' do
     url 'http://dl.dafont.com/dl/?f=car_wash'
     name 'Car Wash'
     homepage 'http://www.dafont.com/car-wash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Car Wash.ttf'
 end

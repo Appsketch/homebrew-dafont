@@ -5,7 +5,6 @@ cask 'dafont-dislexiae' do
     url 'http://dl.dafont.com/dl/?f=dislexiae'
     name 'Dislexi&aelig;'
     homepage 'http://www.dafont.com/dislexiae.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dislexia.ttf'
 end

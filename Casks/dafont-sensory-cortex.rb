@@ -5,7 +5,6 @@ cask 'dafont-sensory-cortex' do
     url 'http://dl.dafont.com/dl/?f=sensory_cortex'
     name 'Sensory Cortex'
     homepage 'http://www.dafont.com/sensory-cortex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sensory Cortex.ttf'
 end

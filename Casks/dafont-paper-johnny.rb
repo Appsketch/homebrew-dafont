@@ -5,7 +5,6 @@ cask 'dafont-paper-johnny' do
     url 'http://dl.dafont.com/dl/?f=paper_johnny'
     name 'Paper Johnny'
     homepage 'http://www.dafont.com/paper-johnny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaperJohnnyDrei-Regular.otf'
     font 'PaperJohnnyEineinhalb-Regul.otf'

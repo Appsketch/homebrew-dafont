@@ -5,7 +5,6 @@ cask 'dafont-01-tama' do
     url 'http://dl.dafont.com/dl/?f=01_tama'
     name '01 Tama + Cube vol.2'
     homepage 'http://www.dafont.com/01-tama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '01_tama.TTF'
     font 'cube_vol2.TTF'

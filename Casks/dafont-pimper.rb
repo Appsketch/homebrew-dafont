@@ -5,7 +5,6 @@ cask 'dafont-pimper' do
     url 'http://dl.dafont.com/dl/?f=pimper'
     name 'Pimper'
     homepage 'http://www.dafont.com/pimper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pimper.ttf'
 end

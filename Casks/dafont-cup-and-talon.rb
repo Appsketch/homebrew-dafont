@@ -5,7 +5,6 @@ cask 'dafont-cup-and-talon' do
     url 'http://dl.dafont.com/dl/?f=cup_and_talon'
     name 'Cup and Talon'
     homepage 'http://www.dafont.com/cup-and-talon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cup and Talon.ttf'
 end

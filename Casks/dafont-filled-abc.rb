@@ -5,7 +5,6 @@ cask 'dafont-filled-abc' do
     url 'http://dl.dafont.com/dl/?f=filled_abc'
     name 'Filled ABC'
     homepage 'http://www.dafont.com/filled-abc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FilledABC.ttf'
 end

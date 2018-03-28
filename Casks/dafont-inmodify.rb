@@ -5,7 +5,6 @@ cask 'dafont-inmodify' do
     url 'http://dl.dafont.com/dl/?f=inmodify'
     name 'Inmodify'
     homepage 'http://www.dafont.com/inmodify.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inmodify.ttf'
 end

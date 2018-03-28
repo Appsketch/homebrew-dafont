@@ -5,7 +5,6 @@ cask 'dafont-chapaza' do
     url 'http://dl.dafont.com/dl/?f=chapaza'
     name 'Chapaza'
     homepage 'http://www.dafont.com/chapaza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chapaza Italic.ttf'
     font 'Chapaza.ttf'

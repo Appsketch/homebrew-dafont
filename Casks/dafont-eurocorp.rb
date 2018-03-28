@@ -5,7 +5,6 @@ cask 'dafont-eurocorp' do
     url 'http://dl.dafont.com/dl/?f=eurocorp'
     name 'Eurocorp'
     homepage 'http://www.dafont.com/eurocorp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eurocorp Italic.otf'
     font 'Eurocorp.ttf'

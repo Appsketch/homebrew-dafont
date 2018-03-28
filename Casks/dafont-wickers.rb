@@ -5,7 +5,6 @@ cask 'dafont-wickers' do
     url 'http://dl.dafont.com/dl/?f=wickers'
     name 'Wickers'
     homepage 'http://www.dafont.com/wickers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wickers.ttf'
 end

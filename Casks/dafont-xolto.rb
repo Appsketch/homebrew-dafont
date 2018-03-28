@@ -5,7 +5,6 @@ cask 'dafont-xolto' do
     url 'http://dl.dafont.com/dl/?f=xolto'
     name 'Xolto'
     homepage 'http://www.dafont.com/xolto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xolto.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pr-runestones2' do
     url 'http://dl.dafont.com/dl/?f=pr_runestones2'
     name 'PR Runestones 2'
     homepage 'http://www.dafont.com/pr-runestones2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PR_RNST2.TTF'
     font 'PRRUNES2.TTF'

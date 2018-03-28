@@ -5,7 +5,6 @@ cask 'dafont-playtime' do
     url 'http://dl.dafont.com/dl/?f=playtime'
     name 'Playtime'
     homepage 'http://www.dafont.com/playtime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Playtime.otf'
 end

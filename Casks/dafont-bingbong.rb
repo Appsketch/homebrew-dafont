@@ -5,7 +5,6 @@ cask 'dafont-bingbong' do
     url 'http://dl.dafont.com/dl/?f=bingbong'
     name 'BingBong'
     homepage 'http://www.dafont.com/bingbong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bingbong.ttf'
 end

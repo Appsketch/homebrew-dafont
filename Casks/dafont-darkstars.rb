@@ -5,7 +5,6 @@ cask 'dafont-darkstars' do
     url 'http://dl.dafont.com/dl/?f=darkstars'
     name 'Dark Stars'
     homepage 'http://www.dafont.com/darkstars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DarkStarz.ttf'
 end

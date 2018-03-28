@@ -5,7 +5,6 @@ cask 'dafont-dethek-stone' do
     url 'http://dl.dafont.com/dl/?f=dethek_stone'
     name 'Dethek Stone'
     homepage 'http://www.dafont.com/dethek-stone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dethek Stone.ttf'
 end

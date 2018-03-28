@@ -5,7 +5,6 @@ cask 'dafont-gauche-display' do
     url 'http://dl.dafont.com/dl/?f=gauche_display'
     name 'Gauche Display'
     homepage 'http://www.dafont.com/gauche-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GAU-HO.ttf'
     font 'GAU-RE.ttf'

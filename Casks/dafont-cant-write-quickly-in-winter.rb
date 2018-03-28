@@ -5,7 +5,6 @@ cask 'dafont-cant-write-quickly-in-winter' do
     url 'http://dl.dafont.com/dl/?f=cant_write_quickly_in_winter'
     name 'Can&#039;t write quickly in winter'
     homepage 'http://www.dafont.com/cant-write-quickly-in-winter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Can&#039;t write quickly in winter.ttf'
 end

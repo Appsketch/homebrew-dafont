@@ -5,7 +5,6 @@ cask 'dafont-sweettea' do
     url 'http://dl.dafont.com/dl/?f=sweettea'
     name 'Sweet Tea'
     homepage 'http://www.dafont.com/sweettea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SweetTea.ttf'
 end

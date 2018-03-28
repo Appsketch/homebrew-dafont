@@ -5,7 +5,6 @@ cask 'dafont-led-calculator' do
     url 'http://dl.dafont.com/dl/?f=led_calculator'
     name 'LED Calculator'
     homepage 'http://www.dafont.com/led-calculator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEDCalculator.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-arensdorff-ink' do
     url 'http://dl.dafont.com/dl/?f=arensdorff_ink'
     name 'Arensdorff Ink'
     homepage 'http://www.dafont.com/arensdorff-ink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arensdorff_Ink.otf'
 end

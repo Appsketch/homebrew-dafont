@@ -5,7 +5,6 @@ cask 'dafont-sonix' do
     url 'http://dl.dafont.com/dl/?f=sonix'
     name 'Sonix'
     homepage 'http://www.dafont.com/sonix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SONIX.ttf'
 end

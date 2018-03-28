@@ -5,7 +5,6 @@ cask 'dafont-awesomeplay' do
     url 'http://dl.dafont.com/dl/?f=awesomeplay'
     name 'Awesome Play'
     homepage 'http://www.dafont.com/awesomeplay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AwesomePlay.ttf'
 end

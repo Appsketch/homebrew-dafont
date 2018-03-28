@@ -5,7 +5,6 @@ cask 'dafont-britin' do
     url 'http://dl.dafont.com/dl/?f=britin'
     name 'Britin'
     homepage 'http://www.dafont.com/britin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Britin_Final_Version.ttf'
 end

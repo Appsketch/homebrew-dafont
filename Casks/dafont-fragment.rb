@@ -5,7 +5,6 @@ cask 'dafont-fragment' do
     url 'http://dl.dafont.com/dl/?f=fragment'
     name 'Fragment'
     homepage 'http://www.dafont.com/fragment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fragment.ttf'
 end

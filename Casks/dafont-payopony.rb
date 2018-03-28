@@ -5,7 +5,6 @@ cask 'dafont-payopony' do
     url 'http://dl.dafont.com/dl/?f=payopony'
     name 'Payopony'
     homepage 'http://www.dafont.com/payopony.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'payopony.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-big-drama' do
     url 'http://dl.dafont.com/dl/?f=big_drama'
     name 'Big Drama'
     homepage 'http://www.dafont.com/big-drama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Big Drama.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-plainlines' do
     url 'http://dl.dafont.com/dl/?f=plainlines'
     name 'Plain Lines'
     homepage 'http://www.dafont.com/plainlines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PlainLines.ttf'
 end

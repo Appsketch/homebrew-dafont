@@ -5,7 +5,6 @@ cask 'dafont-neos' do
     url 'http://dl.dafont.com/dl/?f=neos'
     name 'Neos'
     homepage 'http://www.dafont.com/neos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neos-Bold.ttf'
     font 'Neos-Oblique.ttf'

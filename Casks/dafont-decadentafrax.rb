@@ -5,7 +5,6 @@ cask 'dafont-decadentafrax' do
     url 'http://dl.dafont.com/dl/?f=decadentafrax'
     name 'Decadenta Frax'
     homepage 'http://www.dafont.com/decadentafrax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DecadentaFrax.ttf'
 end

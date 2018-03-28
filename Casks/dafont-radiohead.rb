@@ -5,7 +5,6 @@ cask 'dafont-radiohead' do
     url 'http://dl.dafont.com/dl/?f=radiohead'
     name 'Radiohead'
     homepage 'http://www.dafont.com/radiohead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'radiohead.ttf'
 end

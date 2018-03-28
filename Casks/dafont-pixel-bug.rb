@@ -5,7 +5,6 @@ cask 'dafont-pixel-bug' do
     url 'http://dl.dafont.com/dl/?f=pixel_bug'
     name 'Pixel Bug'
     homepage 'http://www.dafont.com/pixel-bug.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel Bug.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kenzou' do
     url 'http://dl.dafont.com/dl/?f=kenzou'
     name 'Kenzou'
     homepage 'http://www.dafont.com/kenzou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kenzou_hand_01.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-science-channel' do
     url 'http://dl.dafont.com/dl/?f=science_channel'
     name 'Science Channel'
     homepage 'http://www.dafont.com/science-channel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCIENCE CHANNEL.ttf'
 end

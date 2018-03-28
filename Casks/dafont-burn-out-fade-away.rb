@@ -5,7 +5,6 @@ cask 'dafont-burn-out-fade-away' do
     url 'http://dl.dafont.com/dl/?f=burn_out_fade_away'
     name 'Burn out, fade away'
     homepage 'http://www.dafont.com/burn-out-fade-away.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Burn out, fade away.ttf'
 end

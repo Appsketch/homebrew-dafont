@@ -5,7 +5,6 @@ cask 'dafont-outofspace' do
     url 'http://dl.dafont.com/dl/?f=outofspace'
     name 'Out Of Space'
     homepage 'http://www.dafont.com/outofspace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OutOfSpace.ttf'
 end

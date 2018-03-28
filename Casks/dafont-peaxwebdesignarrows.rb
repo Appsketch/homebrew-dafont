@@ -5,7 +5,6 @@ cask 'dafont-peaxwebdesignarrows' do
     url 'http://dl.dafont.com/dl/?f=peaxwebdesignarrows'
     name 'Peax Webdesign arrows'
     homepage 'http://www.dafont.com/peaxwebdesignarrows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PeaxWebdesignarrows.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-death-font-ver1-0' do
     url 'http://dl.dafont.com/dl/?f=death_font_ver1_0'
     name 'Death Font'
     homepage 'http://www.dafont.com/death-font-ver1-0.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEATH_FONT.TTF'
 end

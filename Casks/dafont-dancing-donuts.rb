@@ -5,7 +5,6 @@ cask 'dafont-dancing-donuts' do
     url 'http://dl.dafont.com/dl/?f=dancing_donuts'
     name 'Dancing Donuts'
     homepage 'http://www.dafont.com/dancing-donuts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DANCINGD.TTF'
 end

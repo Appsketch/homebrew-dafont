@@ -5,7 +5,6 @@ cask 'dafont-doonga-slash' do
     url 'http://dl.dafont.com/dl/?f=doonga_slash'
     name 'Doonga Slash'
     homepage 'http://www.dafont.com/doonga-slash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doonga Slash.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lynx' do
     url 'http://dl.dafont.com/dl/?f=lynx'
     name 'Lynx'
     homepage 'http://www.dafont.com/lynx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lynx.ttf'
 end

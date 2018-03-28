@@ -5,7 +5,6 @@ cask 'dafont-dion' do
     url 'http://dl.dafont.com/dl/?f=dion'
     name 'Dion'
     homepage 'http://www.dafont.com/dion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dion.otf'
 end

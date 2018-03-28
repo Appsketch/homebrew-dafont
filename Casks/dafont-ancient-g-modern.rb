@@ -5,7 +5,6 @@ cask 'dafont-ancient-g-modern' do
     url 'http://dl.dafont.com/dl/?f=ancient_g_modern'
     name 'Ancient G Modern'
     homepage 'http://www.dafont.com/ancient-g-modern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ancient_G_Modern.ttf'
 end

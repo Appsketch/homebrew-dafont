@@ -5,7 +5,6 @@ cask 'dafont-deco-future' do
     url 'http://dl.dafont.com/dl/?f=deco_future'
     name 'Deco Future'
     homepage 'http://www.dafont.com/deco-future.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deco-Future-Black.ttf'
     font 'Deco-Future-Inline.ttf'

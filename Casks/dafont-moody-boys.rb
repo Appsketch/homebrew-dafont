@@ -5,7 +5,6 @@ cask 'dafont-moody-boys' do
     url 'http://dl.dafont.com/dl/?f=moody_boys'
     name 'Moody Boys'
     homepage 'http://www.dafont.com/moody-boys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moody_Boys.ttf'
 end

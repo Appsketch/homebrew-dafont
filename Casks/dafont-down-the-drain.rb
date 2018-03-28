@@ -5,7 +5,6 @@ cask 'dafont-down-the-drain' do
     url 'http://dl.dafont.com/dl/?f=down_the_drain'
     name 'Down the Drain'
     homepage 'http://www.dafont.com/down-the-drain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOWND___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rabanera' do
     url 'http://dl.dafont.com/dl/?f=rabanera'
     name 'Rabanera'
     homepage 'http://www.dafont.com/rabanera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rabanera-outline-shadow.otf'
 end

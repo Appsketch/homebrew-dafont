@@ -5,7 +5,6 @@ cask 'dafont-bm-stamp' do
     url 'http://dl.dafont.com/dl/?f=bm_stamp'
     name 'BM Stamp'
     homepage 'http://www.dafont.com/bm-stamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMSTA___.TTF'
 end

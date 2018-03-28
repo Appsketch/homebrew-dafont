@@ -5,7 +5,6 @@ cask 'dafont-green-piloww' do
     url 'http://dl.dafont.com/dl/?f=green_piloww'
     name 'Green Piloww'
     homepage 'http://www.dafont.com/green-piloww.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GREENPIL.otf'
 end

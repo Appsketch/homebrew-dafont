@@ -5,7 +5,6 @@ cask 'dafont-angulo' do
     url 'http://dl.dafont.com/dl/?f=angulo'
     name 'Angulo'
     homepage 'http://www.dafont.com/angulo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANGULO.ttf'
 end

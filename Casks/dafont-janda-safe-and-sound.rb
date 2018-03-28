@@ -5,7 +5,6 @@ cask 'dafont-janda-safe-and-sound' do
     url 'http://dl.dafont.com/dl/?f=janda_safe_and_sound'
     name 'Janda Safe and Sound'
     homepage 'http://www.dafont.com/janda-safe-and-sound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaSafeandSound.ttf'
     font 'JandaSafeandSoundSolid.ttf'

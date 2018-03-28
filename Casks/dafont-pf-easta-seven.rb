@@ -5,7 +5,6 @@ cask 'dafont-pf-easta-seven' do
     url 'http://dl.dafont.com/dl/?f=pf_easta_seven'
     name 'PF Easta Seven'
     homepage 'http://www.dafont.com/pf-easta-seven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pf_easta_seven_condensed.ttf'
     font 'pf_easta_seven.ttf'

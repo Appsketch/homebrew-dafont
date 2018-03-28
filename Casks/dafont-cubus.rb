@@ -5,7 +5,6 @@ cask 'dafont-cubus' do
     url 'http://dl.dafont.com/dl/?f=cubus'
     name 'Cubus'
     homepage 'http://www.dafont.com/cubus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cubitus.ttf'
 end

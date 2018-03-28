@@ -5,7 +5,6 @@ cask 'dafont-blee-guys-es' do
     url 'http://dl.dafont.com/dl/?f=blee_guys_es'
     name 'Blee Guys ES'
     homepage 'http://www.dafont.com/blee-guys-es.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blee Guys ES.otf'
 end

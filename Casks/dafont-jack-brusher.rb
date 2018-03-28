@@ -5,7 +5,6 @@ cask 'dafont-jack-brusher' do
     url 'http://dl.dafont.com/dl/?f=jack_brusher'
     name 'Jack Brusher'
     homepage 'http://www.dafont.com/jack-brusher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jack-Brusher-51.ttf'
 end

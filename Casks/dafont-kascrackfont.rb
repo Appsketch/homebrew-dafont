@@ -5,7 +5,6 @@ cask 'dafont-kascrackfont' do
     url 'http://dl.dafont.com/dl/?f=kascrackfont'
     name 'Kas Crack Font'
     homepage 'http://www.dafont.com/kascrackfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KasCrackFont.ttf'
 end

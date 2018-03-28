@@ -5,7 +5,6 @@ cask 'dafont-race-fever-pen' do
     url 'http://dl.dafont.com/dl/?f=race_fever_pen'
     name 'Race Fever Pen'
     homepage 'http://www.dafont.com/race-fever-pen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RaceFeverPenPersonal.ttf'
 end

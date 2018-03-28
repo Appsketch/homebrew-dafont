@@ -5,7 +5,6 @@ cask 'dafont-jonquilles' do
     url 'http://dl.dafont.com/dl/?f=jonquilles'
     name 'Jonquilles'
     homepage 'http://www.dafont.com/jonquilles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jonquilles.ttf'
 end

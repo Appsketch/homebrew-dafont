@@ -5,7 +5,6 @@ cask 'dafont-fiolex-girls' do
     url 'http://dl.dafont.com/dl/?f=fiolex_girls'
     name 'Fiolex Girls'
     homepage 'http://www.dafont.com/fiolex-girls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Filxgirl.TTF'
 end

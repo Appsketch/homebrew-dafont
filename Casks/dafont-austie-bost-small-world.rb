@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-small-world' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_small_world'
     name 'Austie Bost Small World'
     homepage 'http://www.dafont.com/austie-bost-small-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Small World.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-street-wild' do
     url 'http://dl.dafont.com/dl/?f=street_wild'
     name 'Street Wild'
     homepage 'http://www.dafont.com/street-wild.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Street Wild.ttf'
 end

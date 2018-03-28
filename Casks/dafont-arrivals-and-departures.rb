@@ -5,7 +5,6 @@ cask 'dafont-arrivals-and-departures' do
     url 'http://dl.dafont.com/dl/?f=arrivals_and_departures'
     name 'Arrivals and Departures'
     homepage 'http://www.dafont.com/arrivals-and-departures.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'arrivalsanddepartures.ttf'
     font 'arrivalsanddeparturesbold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-majorrules' do
     url 'http://dl.dafont.com/dl/?f=majorrules'
     name 'Major Rules'
     homepage 'http://www.dafont.com/majorrules.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MajorRules.ttf'
 end

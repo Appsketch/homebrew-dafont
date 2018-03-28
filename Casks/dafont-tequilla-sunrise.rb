@@ -5,7 +5,6 @@ cask 'dafont-tequilla-sunrise' do
     url 'http://dl.dafont.com/dl/?f=tequilla_sunrise'
     name 'Tequilla Sunrise'
     homepage 'http://www.dafont.com/tequilla-sunrise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tequilla Sunrise.ttf'
 end

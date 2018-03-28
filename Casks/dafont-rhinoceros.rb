@@ -5,7 +5,6 @@ cask 'dafont-rhinoceros' do
     url 'http://dl.dafont.com/dl/?f=rhinoceros'
     name 'Rhinoceros'
     homepage 'http://www.dafont.com/rhinoceros.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rhinoceros.ttf'
     font 'Rhinoceros2.ttf'

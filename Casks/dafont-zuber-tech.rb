@@ -5,7 +5,6 @@ cask 'dafont-zuber-tech' do
     url 'http://dl.dafont.com/dl/?f=zuber_tech'
     name 'Zuber Tech'
     homepage 'http://www.dafont.com/zuber-tech.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zuber tech free promo.ttf'
 end

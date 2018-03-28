@@ -5,7 +5,6 @@ cask 'dafont-coin-locker-datura' do
     url 'http://dl.dafont.com/dl/?f=coin_locker_datura'
     name 'Coin Locker Datura'
     homepage 'http://www.dafont.com/coin-locker-datura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coin_Locker_Datura_shadow.ttf'
     font 'Coin_Locker_Datura.ttf'

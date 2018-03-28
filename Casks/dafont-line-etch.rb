@@ -5,7 +5,6 @@ cask 'dafont-line-etch' do
     url 'http://dl.dafont.com/dl/?f=line_etch'
     name 'Line Etch'
     homepage 'http://www.dafont.com/line-etch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Line Etch.ttf'
 end

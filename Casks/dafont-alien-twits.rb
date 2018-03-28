@@ -5,7 +5,6 @@ cask 'dafont-alien-twits' do
     url 'http://dl.dafont.com/dl/?f=alien_twits'
     name 'Alien Twits'
     homepage 'http://www.dafont.com/alien-twits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALIET___.TTF'
 end

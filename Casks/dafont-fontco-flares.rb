@@ -5,7 +5,6 @@ cask 'dafont-fontco-flares' do
     url 'http://dl.dafont.com/dl/?f=fontco_flares'
     name 'FontCo Flares'
     homepage 'http://www.dafont.com/fontco-flares.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FcoFlares.TTF'
 end

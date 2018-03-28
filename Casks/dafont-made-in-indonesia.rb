@@ -5,7 +5,6 @@ cask 'dafont-made-in-indonesia' do
     url 'http://dl.dafont.com/dl/?f=made_in_indonesia'
     name 'Made in Indonesia'
     homepage 'http://www.dafont.com/made-in-indonesia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'made in Indonesia.ttf'
 end

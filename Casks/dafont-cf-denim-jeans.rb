@@ -5,7 +5,6 @@ cask 'dafont-cf-denim-jeans' do
     url 'http://dl.dafont.com/dl/?f=cf_denim_jeans'
     name 'CF Denim Jeans'
     homepage 'http://www.dafont.com/cf-denim-jeans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFDenimJeans-Regular.ttf'
 end

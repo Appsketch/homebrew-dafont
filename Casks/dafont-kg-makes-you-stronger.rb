@@ -5,7 +5,6 @@ cask 'dafont-kg-makes-you-stronger' do
     url 'http://dl.dafont.com/dl/?f=kg_makes_you_stronger'
     name 'KG Makes You Stronger'
     homepage 'http://www.dafont.com/kg-makes-you-stronger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGMakesYouStronger.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-gothic-drama' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_gothic_drama'
     name 'Woodcutter Gothic Drama'
     homepage 'http://www.dafont.com/woodcutter-gothic-drama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter gothic drama.ttf'
 end

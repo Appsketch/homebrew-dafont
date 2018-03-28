@@ -5,7 +5,6 @@ cask 'dafont-djb-bellybutton-innie' do
     url 'http://dl.dafont.com/dl/?f=djb_bellybutton_innie'
     name 'DJB BellyButton-Innie'
     homepage 'http://www.dafont.com/djb-bellybutton-innie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Belly Button-Innie.ttf'
 end

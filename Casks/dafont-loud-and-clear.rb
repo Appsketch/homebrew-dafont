@@ -5,7 +5,6 @@ cask 'dafont-loud-and-clear' do
     url 'http://dl.dafont.com/dl/?f=loud_and_clear'
     name 'Loud and Clear'
     homepage 'http://www.dafont.com/loud-and-clear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Loud and Clear.otf'
 end

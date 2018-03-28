@@ -5,7 +5,6 @@ cask 'dafont-travis-county' do
     url 'http://dl.dafont.com/dl/?f=travis_county'
     name 'Travis County'
     homepage 'http://www.dafont.com/travis-county.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TravisCounty-Regular.ttf'
     font 'TravisCounty-Thin.ttf'

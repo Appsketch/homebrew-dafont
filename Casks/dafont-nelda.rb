@@ -5,7 +5,6 @@ cask 'dafont-nelda' do
     url 'http://dl.dafont.com/dl/?f=nelda'
     name 'Nelda'
     homepage 'http://www.dafont.com/nelda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nelda Free.ttf'
 end

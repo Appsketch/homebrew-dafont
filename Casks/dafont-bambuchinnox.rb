@@ -5,7 +5,6 @@ cask 'dafont-bambuchinnox' do
     url 'http://dl.dafont.com/dl/?f=bambuchinnox'
     name 'Bambuchinnox'
     homepage 'http://www.dafont.com/bambuchinnox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bambuchinnox.ttf'
 end

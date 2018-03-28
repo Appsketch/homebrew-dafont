@@ -5,7 +5,6 @@ cask 'dafont-quotidian' do
     url 'http://dl.dafont.com/dl/?f=quotidian'
     name 'Quotidian'
     homepage 'http://www.dafont.com/quotidian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUOTIDIA.TTF'
 end

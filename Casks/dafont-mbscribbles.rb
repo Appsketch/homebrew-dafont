@@ -5,7 +5,6 @@ cask 'dafont-mbscribbles' do
     url 'http://dl.dafont.com/dl/?f=mbscribbles'
     name 'MB Scribbles'
     homepage 'http://www.dafont.com/mbscribbles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MBScribbles.ttf'
 end

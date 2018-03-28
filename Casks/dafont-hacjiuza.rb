@@ -5,7 +5,6 @@ cask 'dafont-hacjiuza' do
     url 'http://dl.dafont.com/dl/?f=hacjiuza'
     name 'Hacjiuza'
     homepage 'http://www.dafont.com/hacjiuza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hacjiuza.ttf'
 end

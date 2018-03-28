@@ -5,7 +5,6 @@ cask 'dafont-romanicum' do
     url 'http://dl.dafont.com/dl/?f=romanicum'
     name 'Romanicum'
     homepage 'http://www.dafont.com/romanicum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Romanicum Bold Italic.ttf'
     font 'Romanicum Bold.ttf'

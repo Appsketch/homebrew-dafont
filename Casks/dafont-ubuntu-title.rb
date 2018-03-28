@@ -5,7 +5,6 @@ cask 'dafont-ubuntu-title' do
     url 'http://dl.dafont.com/dl/?f=ubuntu_title'
     name 'Ubuntu Title'
     homepage 'http://www.dafont.com/ubuntu-title.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ubuntu-title-fr-1.1.ttf'
 end

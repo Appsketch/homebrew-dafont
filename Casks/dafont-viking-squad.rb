@@ -5,7 +5,6 @@ cask 'dafont-viking-squad' do
     url 'http://dl.dafont.com/dl/?f=viking_squad'
     name 'Viking Squad'
     homepage 'http://www.dafont.com/viking-squad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vikingsquad.ttf'
     font 'vikingsquad3d.ttf'

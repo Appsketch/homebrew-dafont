@@ -5,7 +5,6 @@ cask 'dafont-mf-love-song' do
     url 'http://dl.dafont.com/dl/?f=mf_love_song'
     name 'Mf Love Song'
     homepage 'http://www.dafont.com/mf-love-song.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Love Song.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-byte-police' do
     url 'http://dl.dafont.com/dl/?f=byte_police'
     name 'Byte Police'
     homepage 'http://www.dafont.com/byte-police.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BYTE.TTF'
 end

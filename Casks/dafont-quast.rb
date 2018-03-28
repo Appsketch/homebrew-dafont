@@ -5,7 +5,6 @@ cask 'dafont-quast' do
     url 'http://dl.dafont.com/dl/?f=quast'
     name 'Quast'
     homepage 'http://www.dafont.com/quast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quast.ttf'
 end

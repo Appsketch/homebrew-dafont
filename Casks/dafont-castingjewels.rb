@@ -5,7 +5,6 @@ cask 'dafont-castingjewels' do
     url 'http://dl.dafont.com/dl/?f=castingjewels'
     name 'Casting Jewels'
     homepage 'http://www.dafont.com/castingjewels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CastingJewels.ttf'
 end

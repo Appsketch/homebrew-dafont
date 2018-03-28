@@ -5,7 +5,6 @@ cask 'dafont-paul-pulpo' do
     url 'http://dl.dafont.com/dl/?f=paul_pulpo'
     name 'Paul Pulpo'
     homepage 'http://www.dafont.com/paul-pulpo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paul Pulpo.ttf'
 end

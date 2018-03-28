@@ -5,7 +5,6 @@ cask 'dafont-selfregion' do
     url 'http://dl.dafont.com/dl/?f=selfregion'
     name 'Self Region'
     homepage 'http://www.dafont.com/selfregion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'selfregion.ttf'
 end

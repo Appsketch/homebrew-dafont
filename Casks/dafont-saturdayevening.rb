@@ -5,7 +5,6 @@ cask 'dafont-saturdayevening' do
     url 'http://dl.dafont.com/dl/?f=saturdayevening'
     name 'Saturday Evening'
     homepage 'http://www.dafont.com/saturdayevening.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SaturdayEvening.ttf'
 end

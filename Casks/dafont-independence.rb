@@ -5,7 +5,6 @@ cask 'dafont-independence' do
     url 'http://dl.dafont.com/dl/?f=independence'
     name 'Independence'
     homepage 'http://www.dafont.com/independence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Independence.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bundy-yellow' do
     url 'http://dl.dafont.com/dl/?f=bundy_yellow'
     name 'Bundy Yellow'
     homepage 'http://www.dafont.com/bundy-yellow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BndyYlwHS.ttf'
     font 'BndyYlwSolid.ttf'

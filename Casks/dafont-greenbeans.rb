@@ -5,7 +5,6 @@ cask 'dafont-greenbeans' do
     url 'http://dl.dafont.com/dl/?f=greenbeans'
     name 'Greenbeans'
     homepage 'http://www.dafont.com/greenbeans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Greenbeans.ttf'
 end

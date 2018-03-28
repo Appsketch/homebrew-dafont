@@ -5,7 +5,6 @@ cask 'dafont-mocha' do
     url 'http://dl.dafont.com/dl/?f=mocha'
     name 'Mocha'
     homepage 'http://www.dafont.com/mocha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mocha_book.ttf'
     font 'mocha_condensed.ttf'

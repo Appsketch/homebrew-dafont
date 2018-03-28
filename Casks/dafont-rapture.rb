@@ -5,7 +5,6 @@ cask 'dafont-rapture' do
     url 'http://dl.dafont.com/dl/?f=rapture'
     name 'Rapture'
     homepage 'http://www.dafont.com/rapture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rapture_.ttf'
 end

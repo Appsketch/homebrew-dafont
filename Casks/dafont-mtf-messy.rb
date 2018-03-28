@@ -5,7 +5,6 @@ cask 'dafont-mtf-messy' do
     url 'http://dl.dafont.com/dl/?f=mtf_messy'
     name 'MTF Messy'
     homepage 'http://www.dafont.com/mtf-messy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Messy.ttf'
 end

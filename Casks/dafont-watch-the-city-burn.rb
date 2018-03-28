@@ -5,7 +5,6 @@ cask 'dafont-watch-the-city-burn' do
     url 'http://dl.dafont.com/dl/?f=watch_the_city_burn'
     name 'Watch The City Burn'
     homepage 'http://www.dafont.com/watch-the-city-burn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Watch_The_City_Burn.ttf'
 end

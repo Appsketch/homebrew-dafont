@@ -5,7 +5,6 @@ cask 'dafont-ascension-day' do
     url 'http://dl.dafont.com/dl/?f=ascension_day'
     name 'Ascension Day'
     homepage 'http://www.dafont.com/ascension-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ascension.ttf'
 end

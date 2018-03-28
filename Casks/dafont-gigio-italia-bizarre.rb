@@ -5,7 +5,6 @@ cask 'dafont-gigio-italia-bizarre' do
     url 'http://dl.dafont.com/dl/?f=gigio_italia_bizarre'
     name 'Gigio Italia Bizarre'
     homepage 'http://www.dafont.com/gigio-italia-bizarre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GIGIOITALIABIZARRE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-literally-handwriting' do
     url 'http://dl.dafont.com/dl/?f=literally_handwriting'
     name 'Literally Handwriting'
     homepage 'http://www.dafont.com/literally-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LiterallyHandwriting.ttf'
 end

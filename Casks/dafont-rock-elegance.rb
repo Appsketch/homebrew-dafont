@@ -5,7 +5,6 @@ cask 'dafont-rock-elegance' do
     url 'http://dl.dafont.com/dl/?f=rock_elegance'
     name 'Rock Elegance'
     homepage 'http://www.dafont.com/rock-elegance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rock Elegance.otf'
 end

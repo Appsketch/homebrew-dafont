@@ -5,7 +5,6 @@ cask 'dafont-cirque-du-freak' do
     url 'http://dl.dafont.com/dl/?f=cirque_du_freak'
     name 'Cirque Du Freak'
     homepage 'http://www.dafont.com/cirque-du-freak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cirque_Du_Freak.ttf'
 end

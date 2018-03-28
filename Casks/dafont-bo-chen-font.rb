@@ -5,7 +5,6 @@ cask 'dafont-bo-chen-font' do
     url 'http://dl.dafont.com/dl/?f=bo_chen_font'
     name 'Bo Chen Font'
     homepage 'http://www.dafont.com/bo-chen-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bo Chen Font.ttf'
 end

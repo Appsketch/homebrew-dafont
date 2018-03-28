@@ -5,7 +5,6 @@ cask 'dafont-tintilla' do
     url 'http://dl.dafont.com/dl/?f=tintilla'
     name 'Tintilla'
     homepage 'http://www.dafont.com/tintilla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tintilla.ttf'
 end

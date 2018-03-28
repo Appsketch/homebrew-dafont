@@ -5,7 +5,6 @@ cask 'dafont-roteflora' do
     url 'http://dl.dafont.com/dl/?f=roteflora'
     name 'RoteFlora'
     homepage 'http://www.dafont.com/roteflora.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RoteFlora.ttf'
 end

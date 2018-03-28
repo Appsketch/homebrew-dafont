@@ -5,7 +5,6 @@ cask 'dafont-soul-festival' do
     url 'http://dl.dafont.com/dl/?f=soul_festival'
     name 'Soul Festival'
     homepage 'http://www.dafont.com/soul-festival.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Soul Festival.ttf'
 end

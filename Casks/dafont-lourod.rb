@@ -5,7 +5,6 @@ cask 'dafont-lourod' do
     url 'http://dl.dafont.com/dl/?f=lourod'
     name 'Lourod'
     homepage 'http://www.dafont.com/lourod.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lourod.ttf'
 end

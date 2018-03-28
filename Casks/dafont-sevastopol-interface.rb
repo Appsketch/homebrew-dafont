@@ -5,7 +5,6 @@ cask 'dafont-sevastopol-interface' do
     url 'http://dl.dafont.com/dl/?f=sevastopol_interface'
     name 'Sevastopol Interface'
     homepage 'http://www.dafont.com/sevastopol-interface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sevastopol-Interface.ttf'
 end

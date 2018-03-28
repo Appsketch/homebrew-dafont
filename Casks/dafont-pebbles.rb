@@ -5,7 +5,6 @@ cask 'dafont-pebbles' do
     url 'http://dl.dafont.com/dl/?f=pebbles'
     name 'Pebbles'
     homepage 'http://www.dafont.com/pebbles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pebbles.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-coffee-time' do
     url 'http://dl.dafont.com/dl/?f=coffee_time'
     name 'Coffee Time'
     homepage 'http://www.dafont.com/coffee-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COFFEE TIME.ttf'
 end

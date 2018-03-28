@@ -5,7 +5,6 @@ cask 'dafont-syntinen-ihminen-on-kaunis-ihmi' do
     url 'http://dl.dafont.com/dl/?f=syntinen_ihminen_on_kaunis_ihmi'
     name 'Syntinen ihminen on kaunis ihmi'
     homepage 'http://www.dafont.com/syntinen-ihminen-on-kaunis-ihmi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Syntinen ihminen on kaunis ihminen.ttf'
 end

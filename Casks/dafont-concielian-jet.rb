@@ -5,7 +5,6 @@ cask 'dafont-concielian-jet' do
     url 'http://dl.dafont.com/dl/?f=concielian_jet'
     name 'Concielian Jet'
     homepage 'http://www.dafont.com/concielian-jet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'concielianjet.ttf'
     font 'concielianjet3d.ttf'

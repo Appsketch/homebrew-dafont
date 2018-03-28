@@ -5,7 +5,6 @@ cask 'dafont-ascent-2-stardom' do
     url 'http://dl.dafont.com/dl/?f=ascent_2_stardom'
     name 'Ascent 2 Stardom'
     homepage 'http://www.dafont.com/ascent-2-stardom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ascent 2 Stardom.ttf'
 end

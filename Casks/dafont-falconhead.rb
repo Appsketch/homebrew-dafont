@@ -5,7 +5,6 @@ cask 'dafont-falconhead' do
     url 'http://dl.dafont.com/dl/?f=falconhead'
     name 'Falconhead'
     homepage 'http://www.dafont.com/falconhead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Falconv2.ttf'
     font 'Falconv2c.ttf'

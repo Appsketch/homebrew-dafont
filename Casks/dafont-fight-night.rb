@@ -5,7 +5,6 @@ cask 'dafont-fight-night' do
     url 'http://dl.dafont.com/dl/?f=fight_night'
     name 'Fight Night'
     homepage 'http://www.dafont.com/fight-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fight Night.otf'
 end

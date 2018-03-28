@@ -5,7 +5,6 @@ cask 'dafont-saysomething' do
     url 'http://dl.dafont.com/dl/?f=saysomething'
     name 'SAY Something!!!'
     homepage 'http://www.dafont.com/saysomething.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'say something!.ttf'
 end

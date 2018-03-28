@@ -5,7 +5,6 @@ cask 'dafont-one-wild-line' do
     url 'http://dl.dafont.com/dl/?f=one_wild_line'
     name 'One Wild Line'
     homepage 'http://www.dafont.com/one-wild-line.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'One Wild Line.ttf'
 end

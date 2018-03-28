@@ -5,7 +5,6 @@ cask 'dafont-individigital-black' do
     url 'http://dl.dafont.com/dl/?f=individigital_black'
     name 'Individigital Black'
     homepage 'http://www.dafont.com/individigital-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Individigital black.ttf'
 end

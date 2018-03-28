@@ -5,7 +5,6 @@ cask 'dafont-djentfont' do
     url 'http://dl.dafont.com/dl/?f=djentfont'
     name 'Djentfont'
     homepage 'http://www.dafont.com/djentfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Djentfont.ttf'
 end

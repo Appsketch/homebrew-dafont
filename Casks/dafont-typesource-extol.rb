@@ -5,7 +5,6 @@ cask 'dafont-typesource-extol' do
     url 'http://dl.dafont.com/dl/?f=typesource_extol'
     name 'Typesource Extol'
     homepage 'http://www.dafont.com/typesource-extol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tsextolo.ttf'
     font 'tsextols.ttf'

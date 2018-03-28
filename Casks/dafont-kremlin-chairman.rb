@@ -5,7 +5,6 @@ cask 'dafont-kremlin-chairman' do
     url 'http://dl.dafont.com/dl/?f=kremlin_chairman'
     name 'Kremlin Chairman'
     homepage 'http://www.dafont.com/kremlin-chairman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Chairman.ttf'
 end

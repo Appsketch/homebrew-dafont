@@ -5,7 +5,6 @@ cask 'dafont-busseta' do
     url 'http://dl.dafont.com/dl/?f=busseta'
     name 'Busseta'
     homepage 'http://www.dafont.com/busseta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUSSETA_.TTF'
 end

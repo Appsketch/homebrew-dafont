@@ -5,7 +5,6 @@ cask 'dafont-science' do
     url 'http://dl.dafont.com/dl/?f=science'
     name 'Science'
     homepage 'http://www.dafont.com/science.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'science.ttf'
 end

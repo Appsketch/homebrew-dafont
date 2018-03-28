@@ -5,7 +5,6 @@ cask 'dafont-janda-truly-madly-deeply' do
     url 'http://dl.dafont.com/dl/?f=janda_truly_madly_deeply'
     name 'Janda Truly Madly Deeply'
     homepage 'http://www.dafont.com/janda-truly-madly-deeply.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaTrulyMadlyDeeply.ttf'
 end

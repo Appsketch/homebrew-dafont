@@ -5,7 +5,6 @@ cask 'dafont-edgarpiramide' do
     url 'http://dl.dafont.com/dl/?f=edgarpiramide'
     name 'Edgarpiramide'
     homepage 'http://www.dafont.com/edgarpiramide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'edgarpiramide.ttf'
 end

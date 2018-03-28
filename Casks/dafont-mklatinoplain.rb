@@ -5,7 +5,6 @@ cask 'dafont-mklatinoplain' do
     url 'http://dl.dafont.com/dl/?f=mklatinoplain'
     name 'Mk Latino'
     homepage 'http://www.dafont.com/mklatinoplain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MkLatinoPlain.ttf'
 end

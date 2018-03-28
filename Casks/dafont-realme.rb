@@ -5,7 +5,6 @@ cask 'dafont-realme' do
     url 'http://dl.dafont.com/dl/?f=realme'
     name 'Realme'
     homepage 'http://www.dafont.com/realme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'realme.ttf'
 end

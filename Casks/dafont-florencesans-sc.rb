@@ -5,7 +5,6 @@ cask 'dafont-florencesans-sc' do
     url 'http://dl.dafont.com/dl/?f=florencesans_sc'
     name 'Florencesans SC'
     homepage 'http://www.dafont.com/florencesans-sc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Florsn17.ttf'
     font 'Florsn18.ttf'

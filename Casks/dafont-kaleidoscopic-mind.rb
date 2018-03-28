@@ -5,7 +5,6 @@ cask 'dafont-kaleidoscopic-mind' do
     url 'http://dl.dafont.com/dl/?f=kaleidoscopic_mind'
     name 'Kaleidoscopic Mind'
     homepage 'http://www.dafont.com/kaleidoscopic-mind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kaleidoscopic Mind.ttf'
 end

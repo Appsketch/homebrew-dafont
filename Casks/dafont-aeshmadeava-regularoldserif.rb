@@ -5,7 +5,6 @@ cask 'dafont-aeshmadeava-regularoldserif' do
     url 'http://dl.dafont.com/dl/?f=aeshmadeava_regularoldserif'
     name 'Aeshma Deava OldSerif'
     homepage 'http://www.dafont.com/aeshmadeava-regularoldserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AeshmaDeavaRegularOldSerif.ttf'
 end

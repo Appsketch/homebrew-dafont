@@ -5,7 +5,6 @@ cask 'dafont-victorian-free-ornaments-two' do
     url 'http://dl.dafont.com/dl/?f=victorian_free_ornaments_two'
     name 'Victorian Free Ornaments Two'
     homepage 'http://www.dafont.com/victorian-free-ornaments-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Victorian Free Ornaments Two.ttf'
 end

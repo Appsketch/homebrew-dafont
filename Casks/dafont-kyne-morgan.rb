@@ -5,7 +5,6 @@ cask 'dafont-kyne-morgan' do
     url 'http://dl.dafont.com/dl/?f=kyne_morgan'
     name 'Kyne Morgan'
     homepage 'http://www.dafont.com/kyne-morgan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kyne Morgan.ttf'
 end

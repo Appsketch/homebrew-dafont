@@ -5,7 +5,6 @@ cask 'dafont-mckenna' do
     url 'http://dl.dafont.com/dl/?f=mckenna'
     name 'McKenna'
     homepage 'http://www.dafont.com/mckenna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'McKenna Light.ttf'
     font 'McKenna.ttf'

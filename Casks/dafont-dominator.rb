@@ -5,7 +5,6 @@ cask 'dafont-dominator' do
     url 'http://dl.dafont.com/dl/?f=dominator'
     name 'Dominator'
     homepage 'http://www.dafont.com/dominator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dominator Medium.TTF'
 end

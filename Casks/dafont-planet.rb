@@ -5,7 +5,6 @@ cask 'dafont-planet' do
     url 'http://dl.dafont.com/dl/?f=planet'
     name 'Planet X'
     homepage 'http://www.dafont.com/planet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'planetx.ttf'
     font 'planetx3d.ttf'

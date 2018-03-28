@@ -5,7 +5,6 @@ cask 'dafont-abrahams-wish' do
     url 'http://dl.dafont.com/dl/?f=abrahams_wish'
     name 'Abrahams Wish'
     homepage 'http://www.dafont.com/abrahams-wish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abrahams Wish.otf'
 end

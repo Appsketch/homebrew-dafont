@@ -5,7 +5,6 @@ cask 'dafont-routine' do
     url 'http://dl.dafont.com/dl/?f=routine'
     name 'Routine'
     homepage 'http://www.dafont.com/routine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROUTINE_.TTF'
 end

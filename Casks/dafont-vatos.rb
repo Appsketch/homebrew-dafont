@@ -5,7 +5,6 @@ cask 'dafont-vatos' do
     url 'http://dl.dafont.com/dl/?f=vatos'
     name 'Vatos'
     homepage 'http://www.dafont.com/vatos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VATOS TRIAL 2011___.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kompani' do
     url 'http://dl.dafont.com/dl/?f=kompani'
     name 'Kompani'
     homepage 'http://www.dafont.com/kompani.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KompaniHHF.otf'
 end

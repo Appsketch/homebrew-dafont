@@ -5,7 +5,6 @@ cask 'dafont-intergalactik-airlines' do
     url 'http://dl.dafont.com/dl/?f=intergalactik_airlines'
     name 'Intergalactik Airlines'
     homepage 'http://www.dafont.com/intergalactik-airlines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Intergalactik Airlines Light.ttf'
     font 'Intergalactik Airlines.ttf'

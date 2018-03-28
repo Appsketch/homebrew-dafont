@@ -5,7 +5,6 @@ cask 'dafont-cookiemonster' do
     url 'http://dl.dafont.com/dl/?f=cookiemonster'
     name 'Cookie Monster'
     homepage 'http://www.dafont.com/cookiemonster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CookieMonster.ttf'
 end

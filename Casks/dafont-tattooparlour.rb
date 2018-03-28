@@ -5,7 +5,6 @@ cask 'dafont-tattooparlour' do
     url 'http://dl.dafont.com/dl/?f=tattooparlour'
     name 'Tattoo Parlour'
     homepage 'http://www.dafont.com/tattooparlour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TattooParlour.ttf'
 end

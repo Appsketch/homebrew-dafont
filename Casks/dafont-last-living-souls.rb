@@ -5,7 +5,6 @@ cask 'dafont-last-living-souls' do
     url 'http://dl.dafont.com/dl/?f=last_living_souls'
     name 'Last living souls'
     homepage 'http://www.dafont.com/last-living-souls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Last living souls Dark.ttf'
     font 'Last living souls Dirty.ttf'

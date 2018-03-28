@@ -5,7 +5,6 @@ cask 'dafont-enfermo-rules' do
     url 'http://dl.dafont.com/dl/?f=enfermo_rules'
     name 'Enfermo Rules'
     homepage 'http://www.dafont.com/enfermo-rules.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Enfermo Rules.ttf'
 end

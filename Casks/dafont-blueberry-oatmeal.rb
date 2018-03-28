@@ -5,7 +5,6 @@ cask 'dafont-blueberry-oatmeal' do
     url 'http://dl.dafont.com/dl/?f=blueberry_oatmeal'
     name 'Blueberry Oatmeal'
     homepage 'http://www.dafont.com/blueberry-oatmeal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blueberry Oatmeal Light.ttf'
     font 'Blueberry Oatmeal Regular.ttf'

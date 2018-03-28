@@ -5,7 +5,6 @@ cask 'dafont-dingus' do
     url 'http://dl.dafont.com/dl/?f=dingus'
     name 'Dingus'
     homepage 'http://www.dafont.com/dingus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dingus.ttf'
 end

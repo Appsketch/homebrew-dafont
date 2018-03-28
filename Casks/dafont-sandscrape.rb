@@ -5,7 +5,6 @@ cask 'dafont-sandscrape' do
     url 'http://dl.dafont.com/dl/?f=sandscrape'
     name 'Sandscrape'
     homepage 'http://www.dafont.com/sandscrape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sandscrape Italic.otf'
     font 'Sandscrape.otf'

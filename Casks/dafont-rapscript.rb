@@ -5,7 +5,6 @@ cask 'dafont-rapscript' do
     url 'http://dl.dafont.com/dl/?f=rapscript'
     name 'RapScript'
     homepage 'http://www.dafont.com/rapscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RapScript_09.otf'
     font 'RapScript_Fade_09.otf'

@@ -5,7 +5,6 @@ cask 'dafont-dodec' do
     url 'http://dl.dafont.com/dl/?f=dodec'
     name 'Dodec'
     homepage 'http://www.dafont.com/dodec.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dodec.fon'
 end

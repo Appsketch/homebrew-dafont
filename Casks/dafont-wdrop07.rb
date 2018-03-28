@@ -5,7 +5,6 @@ cask 'dafont-wdrop07' do
     url 'http://dl.dafont.com/dl/?f=wdrop07'
     name 'Wdrop07'
     homepage 'http://www.dafont.com/wdrop07.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wdrop07.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-abwechselnschrift' do
     url 'http://dl.dafont.com/dl/?f=abwechselnschrift'
     name 'Abwechselnschrift'
     homepage 'http://www.dafont.com/abwechselnschrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ABWEB___.TTF'
 end

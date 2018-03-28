@@ -5,7 +5,6 @@ cask 'dafont-pixelflag' do
     url 'http://dl.dafont.com/dl/?f=_pixelflag'
     name '{PixelFlag}'
     homepage 'http://www.dafont.com/-pixelflag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '{PixelFlag}.ttf'
 end

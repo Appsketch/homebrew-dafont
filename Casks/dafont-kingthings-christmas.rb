@@ -5,7 +5,6 @@ cask 'dafont-kingthings-christmas' do
     url 'http://dl.dafont.com/dl/?f=kingthings_christmas'
     name 'Kingthings Christmas '
     homepage 'http://www.dafont.com/kingthings-christmas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Christmas 2.2.ttf'
 end

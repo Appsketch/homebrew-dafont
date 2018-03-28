@@ -5,7 +5,6 @@ cask 'dafont-sweepin-it-up' do
     url 'http://dl.dafont.com/dl/?f=sweepin_it_up'
     name 'Sweepin It Up'
     homepage 'http://www.dafont.com/sweepin-it-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SweepinItUp.ttf'
 end

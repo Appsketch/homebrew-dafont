@@ -5,7 +5,6 @@ cask 'dafont-hm-keokuk' do
     url 'http://dl.dafont.com/dl/?f=hm_keokuk'
     name 'HM Keokuk'
     homepage 'http://www.dafont.com/hm-keokuk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HM_keokuk.ttf'
 end

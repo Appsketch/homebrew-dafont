@@ -5,7 +5,6 @@ cask 'dafont-wayner-8088' do
     url 'http://dl.dafont.com/dl/?f=wayner_8088'
     name 'Wayner'
     homepage 'http://www.dafont.com/wayner-8088.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wayner.ttf'
 end

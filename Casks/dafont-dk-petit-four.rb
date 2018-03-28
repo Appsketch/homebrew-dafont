@@ -5,7 +5,6 @@ cask 'dafont-dk-petit-four' do
     url 'http://dl.dafont.com/dl/?f=dk_petit_four'
     name 'DK Petit Four'
     homepage 'http://www.dafont.com/dk-petit-four.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Petit Four.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lelf-noir-du-mal' do
     url 'http://dl.dafont.com/dl/?f=lelf_noir_du_mal'
     name 'LElf Noir du Mal'
     homepage 'http://www.dafont.com/lelf-noir-du-mal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LELFNOIR.TTF'
 end

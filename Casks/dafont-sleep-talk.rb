@@ -5,7 +5,6 @@ cask 'dafont-sleep-talk' do
     url 'http://dl.dafont.com/dl/?f=sleep_talk'
     name 'Sleep Talk'
     homepage 'http://www.dafont.com/sleep-talk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SLEEP.TTF'
 end

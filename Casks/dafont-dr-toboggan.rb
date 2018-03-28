@@ -5,7 +5,6 @@ cask 'dafont-dr-toboggan' do
     url 'http://dl.dafont.com/dl/?f=dr_toboggan'
     name 'Dr Toboggan'
     homepage 'http://www.dafont.com/dr-toboggan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DrToboggan.otf'
 end

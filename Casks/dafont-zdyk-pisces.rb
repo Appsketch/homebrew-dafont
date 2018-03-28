@@ -5,7 +5,6 @@ cask 'dafont-zdyk-pisces' do
     url 'http://dl.dafont.com/dl/?f=zdyk_pisces'
     name 'Zdyk Pisces'
     homepage 'http://www.dafont.com/zdyk-pisces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zdyk Pisces.otf'
 end

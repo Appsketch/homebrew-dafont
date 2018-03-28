@@ -5,7 +5,6 @@ cask 'dafont-deng-thick' do
     url 'http://dl.dafont.com/dl/?f=deng_thick'
     name 'Deng Thick'
     homepage 'http://www.dafont.com/deng-thick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deng_th_.ttf'
 end

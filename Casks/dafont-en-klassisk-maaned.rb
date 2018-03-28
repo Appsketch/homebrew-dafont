@@ -5,7 +5,6 @@ cask 'dafont-en-klassisk-maaned' do
     url 'http://dl.dafont.com/dl/?f=en_klassisk_maaned'
     name 'En Klassisk Maaned'
     homepage 'http://www.dafont.com/en-klassisk-maaned.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ENKLM___.TTF'
 end

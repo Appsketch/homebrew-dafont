@@ -5,7 +5,6 @@ cask 'dafont-bikinny' do
     url 'http://dl.dafont.com/dl/?f=bikinny'
     name 'Bikinny'
     homepage 'http://www.dafont.com/bikinny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bikinny.ttf'
 end

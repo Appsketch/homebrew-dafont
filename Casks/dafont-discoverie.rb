@@ -5,7 +5,6 @@ cask 'dafont-discoverie' do
     url 'http://dl.dafont.com/dl/?f=discoverie'
     name 'Discoverie'
     homepage 'http://www.dafont.com/discoverie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Discoverie.ttf'
 end

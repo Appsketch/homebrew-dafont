@@ -5,7 +5,6 @@ cask 'dafont-oneer' do
     url 'http://dl.dafont.com/dl/?f=oneer'
     name 'Oneer'
     homepage 'http://www.dafont.com/oneer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oneer.ttf'
 end

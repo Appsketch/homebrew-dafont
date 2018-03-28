@@ -5,7 +5,6 @@ cask 'dafont-copper-penny-dtp' do
     url 'http://dl.dafont.com/dl/?f=copper_penny_dtp'
     name 'Copper Penny DTP'
     homepage 'http://www.dafont.com/copper-penny-dtp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Copper Penny DTP.ttf'
 end

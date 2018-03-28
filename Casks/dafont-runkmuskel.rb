@@ -5,7 +5,6 @@ cask 'dafont-runkmuskel' do
     url 'http://dl.dafont.com/dl/?f=runkmuskel'
     name 'Runkmuskel'
     homepage 'http://www.dafont.com/runkmuskel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Runkmuskel.otf'
 end

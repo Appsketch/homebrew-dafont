@@ -5,7 +5,6 @@ cask 'dafont-paris-je-taime' do
     url 'http://dl.dafont.com/dl/?f=paris_je_taime'
     name 'Paris Je T&#039;Aime'
     homepage 'http://www.dafont.com/paris-je-taime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ParisJeTAime.otf'
 end

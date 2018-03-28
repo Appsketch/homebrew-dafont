@@ -5,7 +5,6 @@ cask 'dafont-cf-nelson-old-caracters' do
     url 'http://dl.dafont.com/dl/?f=cf_nelson_old_caracters'
     name 'CF Nelson Old Caracters'
     homepage 'http://www.dafont.com/cf-nelson-old-caracters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFNelsonOldCaracters-Regula.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-solitarium' do
     url 'http://dl.dafont.com/dl/?f=solitarium'
     name 'Solitarium'
     homepage 'http://www.dafont.com/solitarium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Solitarium Oblique.ttf'
     font 'Solitarium.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-alphanumericqr' do
     url 'http://dl.dafont.com/dl/?f=alphanumericqr'
     name 'AlphanumericQR'
     homepage 'http://www.dafont.com/alphanumericqr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphanumericQRspace.ttf'
 end

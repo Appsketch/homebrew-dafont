@@ -5,7 +5,6 @@ cask 'dafont-chase-zen-paris' do
     url 'http://dl.dafont.com/dl/?f=chase_zen_paris'
     name 'Chase Zen Paris '
     homepage 'http://www.dafont.com/chase-zen-paris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHASEZENPARIS.ttf'
 end

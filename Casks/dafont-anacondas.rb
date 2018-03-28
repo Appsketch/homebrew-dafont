@@ -5,7 +5,6 @@ cask 'dafont-anacondas' do
     url 'http://dl.dafont.com/dl/?f=anacondas'
     name 'Anacondas'
     homepage 'http://www.dafont.com/anacondas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anacondas Light.ttf'
     font 'Anacondas.ttf'

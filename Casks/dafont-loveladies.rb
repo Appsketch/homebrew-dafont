@@ -5,7 +5,6 @@ cask 'dafont-loveladies' do
     url 'http://dl.dafont.com/dl/?f=loveladies'
     name 'Loveladies'
     homepage 'http://www.dafont.com/loveladies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lovev2.ttf'
     font 'Lovev2c.ttf'

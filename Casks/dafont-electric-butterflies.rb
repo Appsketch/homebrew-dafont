@@ -5,7 +5,6 @@ cask 'dafont-electric-butterflies' do
     url 'http://dl.dafont.com/dl/?f=electric_butterflies'
     name 'Electric Butterflies'
     homepage 'http://www.dafont.com/electric-butterflies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Electric Butterflies.otf'
 end

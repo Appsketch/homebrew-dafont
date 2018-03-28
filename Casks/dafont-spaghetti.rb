@@ -5,7 +5,6 @@ cask 'dafont-spaghetti' do
     url 'http://dl.dafont.com/dl/?f=spaghetti'
     name 'Spaghetti'
     homepage 'http://www.dafont.com/spaghetti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spaghetti.ttf'
 end

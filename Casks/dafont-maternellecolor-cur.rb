@@ -5,7 +5,6 @@ cask 'dafont-maternellecolor-cur' do
     url 'http://dl.dafont.com/dl/?f=maternellecolor_cur'
     name 'Maternellecolor Cursive Case'
     homepage 'http://www.dafont.com/maternellecolor-cur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maternellecolor case.ttf'
 end

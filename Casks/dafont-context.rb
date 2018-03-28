@@ -5,7 +5,6 @@ cask 'dafont-context' do
     url 'http://dl.dafont.com/dl/?f=context'
     name 'Context'
     homepage 'http://www.dafont.com/context.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Context Clipped Heavy.ttf'
     font 'Context Clipped.ttf'

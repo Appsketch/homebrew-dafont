@@ -5,7 +5,6 @@ cask 'dafont-italexico' do
     url 'http://dl.dafont.com/dl/?f=italexico'
     name 'Italexico'
     homepage 'http://www.dafont.com/italexico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Italexico.ttf'
 end

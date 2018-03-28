@@ -5,7 +5,6 @@ cask 'dafont-orcas' do
     url 'http://dl.dafont.com/dl/?f=orcas'
     name 'Orcas'
     homepage 'http://www.dafont.com/orcas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Orcas.ttf'
 end

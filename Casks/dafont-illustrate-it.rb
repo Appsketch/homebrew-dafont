@@ -5,7 +5,6 @@ cask 'dafont-illustrate-it' do
     url 'http://dl.dafont.com/dl/?f=illustrate_it'
     name 'Illustrate IT'
     homepage 'http://www.dafont.com/illustrate-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'illustrate-it.ttf'
 end

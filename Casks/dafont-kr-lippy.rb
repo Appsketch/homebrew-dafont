@@ -5,7 +5,6 @@ cask 'dafont-kr-lippy' do
     url 'http://dl.dafont.com/dl/?f=kr_lippy'
     name 'KR Lippy'
     homepage 'http://www.dafont.com/kr-lippy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Lippy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tabun' do
     url 'http://dl.dafont.com/dl/?f=tabun'
     name 'Tabun'
     homepage 'http://www.dafont.com/tabun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tabun.ttf'
 end

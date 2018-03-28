@@ -5,7 +5,6 @@ cask 'dafont-junespluto' do
     url 'http://dl.dafont.com/dl/?f=junespluto'
     name 'Junes Pluto'
     homepage 'http://www.dafont.com/junespluto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JunesPluto.ttf'
 end

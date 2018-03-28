@@ -5,7 +5,6 @@ cask 'dafont-orbital-flight' do
     url 'http://dl.dafont.com/dl/?f=orbital_flight'
     name 'Orbital Flight'
     homepage 'http://www.dafont.com/orbital-flight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Orbital Flight Regular.otf'
 end

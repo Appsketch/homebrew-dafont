@@ -5,7 +5,6 @@ cask 'dafont-decrepit' do
     url 'http://dl.dafont.com/dl/?f=decrepit'
     name 'Decrepit'
     homepage 'http://www.dafont.com/decrepit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'decrepit.ttf'
 end

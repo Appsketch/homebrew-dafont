@@ -5,7 +5,6 @@ cask 'dafont-biology' do
     url 'http://dl.dafont.com/dl/?f=biology'
     name 'Biology'
     homepage 'http://www.dafont.com/biology.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Biology.ttf'
 end

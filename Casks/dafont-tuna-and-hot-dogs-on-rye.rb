@@ -5,7 +5,6 @@ cask 'dafont-tuna-and-hot-dogs-on-rye' do
     url 'http://dl.dafont.com/dl/?f=tuna_and_hot_dogs_on_rye'
     name 'Tuna and Hot Dogs on Rye'
     homepage 'http://www.dafont.com/tuna-and-hot-dogs-on-rye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TunaAndHotDogsOnRye.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ninjaturtle' do
     url 'http://dl.dafont.com/dl/?f=ninjaturtle'
     name 'Ninja Turtle'
     homepage 'http://www.dafont.com/ninjaturtle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NinjaTurtle.ttf'
 end

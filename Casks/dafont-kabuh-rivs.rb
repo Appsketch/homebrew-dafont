@@ -5,7 +5,6 @@ cask 'dafont-kabuh-rivs' do
     url 'http://dl.dafont.com/dl/?f=kabuh_rivs'
     name 'Kabuh Rivs'
     homepage 'http://www.dafont.com/kabuh-rivs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kabuh rivs.otf'
 end

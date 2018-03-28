@@ -5,7 +5,6 @@ cask 'dafont-network-vampires' do
     url 'http://dl.dafont.com/dl/?f=network_vampires'
     name 'Network Vampires'
     homepage 'http://www.dafont.com/network-vampires.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NETWORK D___.otf'
 end

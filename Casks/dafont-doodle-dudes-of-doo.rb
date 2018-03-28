@@ -5,7 +5,6 @@ cask 'dafont-doodle-dudes-of-doo' do
     url 'http://dl.dafont.com/dl/?f=doodle_dudes_of_doo'
     name 'Doodle Dudes of Doom'
     homepage 'http://www.dafont.com/doodle-dudes-of-doo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOODDD__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-top-of-the-world' do
     url 'http://dl.dafont.com/dl/?f=top_of_the_world'
     name 'Top Of The World'
     homepage 'http://www.dafont.com/top-of-the-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Top Of The World.ttf'
 end

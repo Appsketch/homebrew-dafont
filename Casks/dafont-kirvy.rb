@@ -5,7 +5,6 @@ cask 'dafont-kirvy' do
     url 'http://dl.dafont.com/dl/?f=kirvy'
     name 'Kirvy'
     homepage 'http://www.dafont.com/kirvy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kirvy-Bold.otf'
     font 'Kirvy-Light.otf'

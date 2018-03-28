@@ -5,7 +5,6 @@ cask 'dafont-suchfrosting' do
     url 'http://dl.dafont.com/dl/?f=suchfrosting'
     name 'Such Frosting'
     homepage 'http://www.dafont.com/suchfrosting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuchFrosting.ttf'
 end

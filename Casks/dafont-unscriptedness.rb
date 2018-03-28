@@ -5,7 +5,6 @@ cask 'dafont-unscriptedness' do
     url 'http://dl.dafont.com/dl/?f=unscriptedness'
     name 'Unscriptedness'
     homepage 'http://www.dafont.com/unscriptedness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unscriptedness.ttf'
 end

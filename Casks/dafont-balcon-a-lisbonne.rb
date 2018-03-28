@@ -5,7 +5,6 @@ cask 'dafont-balcon-a-lisbonne' do
     url 'http://dl.dafont.com/dl/?f=balcon_a_lisbonne'
     name 'Balcon a Lisbonne'
     homepage 'http://www.dafont.com/balcon-a-lisbonne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Balconalisbonne.otf'
 end

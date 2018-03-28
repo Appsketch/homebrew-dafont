@@ -5,7 +5,6 @@ cask 'dafont-kingthings-eggypeg' do
     url 'http://dl.dafont.com/dl/?f=kingthings_eggypeg'
     name 'Kingthings Eggypeg'
     homepage 'http://www.dafont.com/kingthings-eggypeg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Eggypeg.ttf'
 end

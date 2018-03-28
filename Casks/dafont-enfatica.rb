@@ -5,7 +5,6 @@ cask 'dafont-enfatica' do
     url 'http://dl.dafont.com/dl/?f=enfatica'
     name 'Enfatica'
     homepage 'http://www.dafont.com/enfatica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Enfatica Oblique.otf'
     font 'Enfatica.otf'

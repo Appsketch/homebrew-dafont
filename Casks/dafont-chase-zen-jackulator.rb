@@ -5,7 +5,6 @@ cask 'dafont-chase-zen-jackulator' do
     url 'http://dl.dafont.com/dl/?f=chase_zen_jackulator'
     name 'Chase Zen Jackulator'
     homepage 'http://www.dafont.com/chase-zen-jackulator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChaseZenJackulator.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-thinkplan' do
     url 'http://dl.dafont.com/dl/?f=thinkplan'
     name 'Think Plan'
     homepage 'http://www.dafont.com/thinkplan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThinkPlan.ttf'
 end

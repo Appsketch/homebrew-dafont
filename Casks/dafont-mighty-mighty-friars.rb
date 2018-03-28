@@ -5,7 +5,6 @@ cask 'dafont-mighty-mighty-friars' do
     url 'http://dl.dafont.com/dl/?f=mighty_mighty_friars'
     name 'Mighty Mighty Friars'
     homepage 'http://www.dafont.com/mighty-mighty-friars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MightyMightyFriars.ttf'
 end

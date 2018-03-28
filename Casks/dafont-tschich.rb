@@ -5,7 +5,6 @@ cask 'dafont-tschich' do
     url 'http://dl.dafont.com/dl/?f=tschich'
     name 'Tschich'
     homepage 'http://www.dafont.com/tschich.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tschich.ttf'
     font 'TschichFS-Black.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-pix-gothic-7' do
     url 'http://dl.dafont.com/dl/?f=pix_gothic_7'
     name 'PIXgothic_7'
     homepage 'http://www.dafont.com/pix-gothic-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIXgothic_7shareware.ttf'
 end

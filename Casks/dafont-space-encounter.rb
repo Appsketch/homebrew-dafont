@@ -5,7 +5,6 @@ cask 'dafont-space-encounter' do
     url 'http://dl.dafont.com/dl/?f=space_encounter'
     name 'Space Encounter'
     homepage 'http://www.dafont.com/space-encounter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Space Encounter .ttf'
 end

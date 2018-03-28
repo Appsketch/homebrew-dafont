@@ -5,7 +5,6 @@ cask 'dafont-allstar4' do
     url 'http://dl.dafont.com/dl/?f=allstar4'
     name 'Allstar4'
     homepage 'http://www.dafont.com/allstar4.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Allstar4.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-centennialscriptfancy-three' do
     url 'http://dl.dafont.com/dl/?f=centennialscriptfancy_three'
     name 'Centennial Script Fancy Three'
     homepage 'http://www.dafont.com/centennialscriptfancy-three.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CentennialScriptFancy Three.ttf'
 end

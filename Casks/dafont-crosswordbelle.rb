@@ -5,7 +5,6 @@ cask 'dafont-crosswordbelle' do
     url 'http://dl.dafont.com/dl/?f=crosswordbelle'
     name 'Crossword Belle'
     homepage 'http://www.dafont.com/crosswordbelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CWBTRIAL.ttf'
 end

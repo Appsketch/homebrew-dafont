@@ -5,7 +5,6 @@ cask 'dafont-xscale' do
     url 'http://dl.dafont.com/dl/?f=xscale'
     name 'Xscale'
     homepage 'http://www.dafont.com/xscale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'X-SCALE_.TTF'
 end

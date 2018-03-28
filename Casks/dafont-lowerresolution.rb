@@ -5,7 +5,6 @@ cask 'dafont-lowerresolution' do
     url 'http://dl.dafont.com/dl/?f=lowerresolution'
     name 'Lower Resolution'
     homepage 'http://www.dafont.com/lowerresolution.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LowerResolution.ttf'
 end

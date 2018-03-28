@@ -5,7 +5,6 @@ cask 'dafont-mi-nombre-es-problema' do
     url 'http://dl.dafont.com/dl/?f=mi_nombre_es_problema'
     name 'Mi nombre es Problema'
     homepage 'http://www.dafont.com/mi-nombre-es-problema.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mi_nombre_es_Problema.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-banzai' do
     url 'http://dl.dafont.com/dl/?f=banzai'
     name 'Banzai !'
     homepage 'http://www.dafont.com/banzai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Banzai!.ttf'
 end

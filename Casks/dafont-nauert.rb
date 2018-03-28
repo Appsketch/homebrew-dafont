@@ -5,7 +5,6 @@ cask 'dafont-nauert' do
     url 'http://dl.dafont.com/dl/?f=nauert'
     name 'Nauert'
     homepage 'http://www.dafont.com/nauert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nauert-Italic.ttf'
     font 'NauertRegular.ttf'

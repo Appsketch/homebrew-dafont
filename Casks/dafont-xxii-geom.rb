@@ -5,7 +5,6 @@ cask 'dafont-xxii-geom' do
     url 'http://dl.dafont.com/dl/?f=xxii_geom'
     name 'XXII Geom'
     homepage 'http://www.dafont.com/xxii-geom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XXIIGeomDEMO-Black.otf'
     font 'XXIIGeomDEMO-Bold.otf'

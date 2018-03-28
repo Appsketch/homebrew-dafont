@@ -5,7 +5,6 @@ cask 'dafont-charge' do
     url 'http://dl.dafont.com/dl/?f=charge'
     name 'Charge'
     homepage 'http://www.dafont.com/charge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Charge.ttf'
 end

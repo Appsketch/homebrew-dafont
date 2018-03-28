@@ -5,7 +5,6 @@ cask 'dafont-alpha-taurus' do
     url 'http://dl.dafont.com/dl/?f=alpha_taurus'
     name 'Alpha Taurus'
     homepage 'http://www.dafont.com/alpha-taurus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ataurus.ttf'
     font 'ataurus3d.ttf'

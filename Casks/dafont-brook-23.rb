@@ -5,7 +5,6 @@ cask 'dafont-brook-23' do
     url 'http://dl.dafont.com/dl/?f=brook_23'
     name 'Brook 23'
     homepage 'http://www.dafont.com/brook-23.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brook23.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-the-dark-jackal' do
     url 'http://dl.dafont.com/dl/?f=the_dark_jackal'
     name 'The Dark Jackal'
     homepage 'http://www.dafont.com/the-dark-jackal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The_Dark_Jackal.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-happyloverstown-eu-fatlove' do
     url 'http://dl.dafont.com/dl/?f=happyloverstown_eu_fatlove'
     name 'Happyloverstown.eu Fatlove'
     homepage 'http://www.dafont.com/happyloverstown-eu-fatlove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'avantfatlove.ttf'
 end

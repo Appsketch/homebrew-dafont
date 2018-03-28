@@ -5,7 +5,6 @@ cask 'dafont-seppefont' do
     url 'http://dl.dafont.com/dl/?f=seppefont'
     name 'SeppeFont'
     homepage 'http://www.dafont.com/seppefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'seppefont.ttf'
 end

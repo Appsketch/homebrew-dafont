@@ -5,7 +5,6 @@ cask 'dafont-j-random-c' do
     url 'http://dl.dafont.com/dl/?f=j_random_c'
     name 'J Random C'
     homepage 'http://www.dafont.com/j-random-c.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jrandomc.ttf'
 end

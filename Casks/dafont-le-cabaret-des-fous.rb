@@ -5,7 +5,6 @@ cask 'dafont-le-cabaret-des-fous' do
     url 'http://dl.dafont.com/dl/?f=le_cabaret_des_fous'
     name 'Le cabaret des fous'
     homepage 'http://www.dafont.com/le-cabaret-des-fous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LE CABARET DES FOUS.ttf'
 end

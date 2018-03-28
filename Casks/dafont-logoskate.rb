@@ -5,7 +5,6 @@ cask 'dafont-logoskate' do
     url 'http://dl.dafont.com/dl/?f=logoskate'
     name 'Logoskate'
     homepage 'http://www.dafont.com/logoskate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'logo_skate_2.ttf'
     font 'logoskate.ttf'

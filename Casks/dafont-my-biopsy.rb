@@ -5,7 +5,6 @@ cask 'dafont-my-biopsy' do
     url 'http://dl.dafont.com/dl/?f=my_biopsy'
     name 'My Biopsy'
     homepage 'http://www.dafont.com/my-biopsy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MyBiopsy.ttf'
 end

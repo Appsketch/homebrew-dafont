@@ -5,7 +5,6 @@ cask 'dafont-a-la-nage' do
     url 'http://dl.dafont.com/dl/?f=a_la_nage'
     name 'A La Nage'
     homepage 'http://www.dafont.com/a-la-nage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A La Nage_pers2011.ttf'
     font 'A La NageBOLD_pers2011.ttf'

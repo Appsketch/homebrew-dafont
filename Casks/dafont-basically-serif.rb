@@ -5,7 +5,6 @@ cask 'dafont-basically-serif' do
     url 'http://dl.dafont.com/dl/?f=basically_serif'
     name 'Basically Serif'
     homepage 'http://www.dafont.com/basically-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Basically-Serif_FREE-version.ttf'
 end

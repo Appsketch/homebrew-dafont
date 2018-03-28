@@ -5,7 +5,6 @@ cask 'dafont-btd-cart-o-grapher-' do
     url 'http://dl.dafont.com/dl/?f=btd_cart_o_grapher_'
     name 'Btd Cart-O-Grapher'
     homepage 'http://www.dafont.com/btd-cart-o-grapher-.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'btd_cartographer_bitmap.ttf'
 end

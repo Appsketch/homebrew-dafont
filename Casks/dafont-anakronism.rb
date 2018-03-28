@@ -5,7 +5,6 @@ cask 'dafont-anakronism' do
     url 'http://dl.dafont.com/dl/?f=anakronism'
     name 'AnAkronism'
     homepage 'http://www.dafont.com/anakronism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANAKRONI.TTF'
 end

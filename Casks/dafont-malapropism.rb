@@ -5,7 +5,6 @@ cask 'dafont-malapropism' do
     url 'http://dl.dafont.com/dl/?f=malapropism'
     name 'Malapropism'
     homepage 'http://www.dafont.com/malapropism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MALAPROPISM.TTF'
 end

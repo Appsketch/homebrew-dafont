@@ -5,7 +5,6 @@ cask 'dafont-house-paint-slab' do
     url 'http://dl.dafont.com/dl/?f=house_paint_slab'
     name 'House Paint Slab'
     homepage 'http://www.dafont.com/house-paint-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'House-Paint-Slab.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-low-down-cut' do
     url 'http://dl.dafont.com/dl/?f=low_down_cut'
     name 'Low Down Cut'
     homepage 'http://www.dafont.com/low-down-cut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lowdowncut.ttf'
 end

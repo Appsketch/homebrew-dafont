@@ -5,7 +5,6 @@ cask 'dafont-colchester' do
     url 'http://dl.dafont.com/dl/?f=colchester'
     name 'Colchester'
     homepage 'http://www.dafont.com/colchester.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COLCBL__.TTF'
 end

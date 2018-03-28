@@ -5,7 +5,6 @@ cask 'dafont-miama' do
     url 'http://dl.dafont.com/dl/?f=miama'
     name 'Miama'
     homepage 'http://www.dafont.com/miama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miama.ttf'
 end

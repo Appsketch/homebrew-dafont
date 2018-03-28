@@ -5,7 +5,6 @@ cask 'dafont-viper-nora' do
     url 'http://dl.dafont.com/dl/?f=viper_nora'
     name 'Viper Nora'
     homepage 'http://www.dafont.com/viper-nora.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VIPER___.TTF'
 end

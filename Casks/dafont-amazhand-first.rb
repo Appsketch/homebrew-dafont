@@ -5,7 +5,6 @@ cask 'dafont-amazhand-first' do
     url 'http://dl.dafont.com/dl/?f=amazhand_first'
     name 'AmazHand First'
     homepage 'http://www.dafont.com/amazhand-first.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmazHand_First_Alt_X.ttf'
     font 'AmazHand_First_Alt.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-je-suis-charlie' do
     url 'http://dl.dafont.com/dl/?f=je_suis_charlie'
     name 'Je Suis Charlie'
     homepage 'http://www.dafont.com/je-suis-charlie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JESUISCHARLIE.ttf'
 end

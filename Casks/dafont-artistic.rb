@@ -5,7 +5,6 @@ cask 'dafont-artistic' do
     url 'http://dl.dafont.com/dl/?f=artistic'
     name 'Artistic'
     homepage 'http://www.dafont.com/artistic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'artistic.ttf'
 end

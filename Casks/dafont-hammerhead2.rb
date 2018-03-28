@@ -5,7 +5,6 @@ cask 'dafont-hammerhead2' do
     url 'http://dl.dafont.com/dl/?f=hammerhead2'
     name 'Hammerhead'
     homepage 'http://www.dafont.com/hammerhead2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HAMMERHEAD.ttf'
 end

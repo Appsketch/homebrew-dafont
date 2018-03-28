@@ -5,7 +5,6 @@ cask 'dafont-funky-olive' do
     url 'http://dl.dafont.com/dl/?f=funky_olive'
     name 'Funky Olive'
     homepage 'http://www.dafont.com/funky-olive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FunkyOlive-Mixed.ttf'
 end

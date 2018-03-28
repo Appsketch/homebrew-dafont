@@ -5,7 +5,6 @@ cask 'dafont-captiv-systm-remix' do
     url 'http://dl.dafont.com/dl/?f=captiv_systm_remix'
     name 'Captiv SystM RemiX'
     homepage 'http://www.dafont.com/captiv-systm-remix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cs3.ttf'
 end

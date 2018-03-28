@@ -5,7 +5,6 @@ cask 'dafont-licorice-strings' do
     url 'http://dl.dafont.com/dl/?f=licorice_strings'
     name 'Licorice Strings'
     homepage 'http://www.dafont.com/licorice-strings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'licostrg.ttf'
 end

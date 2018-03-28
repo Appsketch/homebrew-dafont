@@ -5,7 +5,6 @@ cask 'dafont-aurora' do
     url 'http://dl.dafont.com/dl/?f=aurora'
     name 'Aurora'
     homepage 'http://www.dafont.com/aurora.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aurora.ttf'
 end

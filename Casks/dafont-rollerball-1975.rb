@@ -5,7 +5,6 @@ cask 'dafont-rollerball-1975' do
     url 'http://dl.dafont.com/dl/?f=rollerball_1975'
     name 'Rollerball 1975'
     homepage 'http://www.dafont.com/rollerball-1975.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROLLERBALL 1975.ttf'
 end

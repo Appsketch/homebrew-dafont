@@ -5,7 +5,6 @@ cask 'dafont-numbafont' do
     url 'http://dl.dafont.com/dl/?f=numbafont'
     name 'Numbafont'
     homepage 'http://www.dafont.com/numbafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Numbafont-Regular.otf'
 end

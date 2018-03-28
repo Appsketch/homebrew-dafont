@@ -5,7 +5,6 @@ cask 'dafont-straphanger' do
     url 'http://dl.dafont.com/dl/?f=straphanger'
     name 'Straphanger'
     homepage 'http://www.dafont.com/straphanger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Straphanger.otf'
 end

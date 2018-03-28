@@ -5,7 +5,6 @@ cask 'dafont-roundslab-serif' do
     url 'http://dl.dafont.com/dl/?f=roundslab_serif'
     name 'Roundslab Serif'
     homepage 'http://www.dafont.com/roundslab-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RoundslabSerif.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-latedrank' do
     url 'http://dl.dafont.com/dl/?f=latedrank'
     name 'Late Drank'
     homepage 'http://www.dafont.com/latedrank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LateDrank.ttf'
 end

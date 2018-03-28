@@ -5,7 +5,6 @@ cask 'dafont-doergon-wave' do
     url 'http://dl.dafont.com/dl/?f=doergon_wave'
     name 'Doergon Wave'
     homepage 'http://www.dafont.com/doergon-wave.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DoergonWave.ttf'
 end

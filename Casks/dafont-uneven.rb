@@ -5,7 +5,6 @@ cask 'dafont-uneven' do
     url 'http://dl.dafont.com/dl/?f=uneven'
     name 'Uneven'
     homepage 'http://www.dafont.com/uneven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'uneven.ttf'
 end

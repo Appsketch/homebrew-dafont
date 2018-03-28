@@ -5,7 +5,6 @@ cask 'dafont-drawing-guides' do
     url 'http://dl.dafont.com/dl/?f=drawing_guides'
     name 'Drawing Guides'
     homepage 'http://www.dafont.com/drawing-guides.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drawing Guides.ttf'
 end

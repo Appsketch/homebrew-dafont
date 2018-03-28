@@ -5,7 +5,6 @@ cask 'dafont-alex-bold' do
     url 'http://dl.dafont.com/dl/?f=alex_bold'
     name 'Alex Bold'
     homepage 'http://www.dafont.com/alex-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alex_Bold.ttf'
 end

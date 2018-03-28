@@ -5,7 +5,6 @@ cask 'dafont-zippo' do
     url 'http://dl.dafont.com/dl/?f=zippo'
     name 'Zippo'
     homepage 'http://www.dafont.com/zippo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zippo.ttf'
 end

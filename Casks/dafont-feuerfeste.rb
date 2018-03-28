@@ -5,7 +5,6 @@ cask 'dafont-feuerfeste' do
     url 'http://dl.dafont.com/dl/?f=feuerfeste'
     name 'Feuerfeste'
     homepage 'http://www.dafont.com/feuerfeste.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FEUEN___.TTF'
     font 'FEUEON__.TTF'

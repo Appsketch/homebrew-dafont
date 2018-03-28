@@ -5,7 +5,6 @@ cask 'dafont-quincy-egbert' do
     url 'http://dl.dafont.com/dl/?f=quincy_egbert'
     name 'Quincy Egbert'
     homepage 'http://www.dafont.com/quincy-egbert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quincy Egbert.ttf'
 end

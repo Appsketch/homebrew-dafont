@@ -5,7 +5,6 @@ cask 'dafont-oxymorons' do
     url 'http://dl.dafont.com/dl/?f=oxymorons'
     name 'Oxymorons'
     homepage 'http://www.dafont.com/oxymorons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oxymorons Bold.otf'
     font 'Oxymorons.otf'

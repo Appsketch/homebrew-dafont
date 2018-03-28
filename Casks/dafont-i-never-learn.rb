@@ -5,7 +5,6 @@ cask 'dafont-i-never-learn' do
     url 'http://dl.dafont.com/dl/?f=i_never_learn'
     name 'I Never Learn'
     homepage 'http://www.dafont.com/i-never-learn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I Never Learn.ttf'
 end

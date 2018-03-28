@@ -5,7 +5,6 @@ cask 'dafont-rockin-record-g' do
     url 'http://dl.dafont.com/dl/?f=rockin_record_g'
     name 'Rockin Record G'
     homepage 'http://www.dafont.com/rockin-record-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rockin_record_g.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-conthrax' do
     url 'http://dl.dafont.com/dl/?f=conthrax'
     name 'Conthrax'
     homepage 'http://www.dafont.com/conthrax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'conthrax-sb.ttf'
 end

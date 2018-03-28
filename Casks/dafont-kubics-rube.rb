@@ -5,7 +5,6 @@ cask 'dafont-kubics-rube' do
     url 'http://dl.dafont.com/dl/?f=kubics_rube'
     name 'Kubic&#039;s Rube'
     homepage 'http://www.dafont.com/kubics-rube.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KubicsRube.ttf'
 end

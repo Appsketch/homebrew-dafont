@@ -5,7 +5,6 @@ cask 'dafont-grobe-hand' do
     url 'http://dl.dafont.com/dl/?f=grobe_hand'
     name 'Grobe Hand'
     homepage 'http://www.dafont.com/grobe-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrobeHand_3d.otf'
     font 'GrobeHand_f.otf'

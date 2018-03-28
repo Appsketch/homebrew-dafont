@@ -5,7 +5,6 @@ cask 'dafont-lyna-kety' do
     url 'http://dl.dafont.com/dl/?f=lyna_kety'
     name 'Lyna Kety'
     homepage 'http://www.dafont.com/lyna-kety.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lyna Kety.ttf'
 end

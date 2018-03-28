@@ -5,7 +5,6 @@ cask 'dafont-zdravo-maria' do
     url 'http://dl.dafont.com/dl/?f=zdravo_maria'
     name 'Zdravo Maria'
     homepage 'http://www.dafont.com/zdravo-maria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZDRAVO MARIA_DEMO_RODRIGO ARAYA SALAS.ttf'
 end

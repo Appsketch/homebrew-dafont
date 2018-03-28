@@ -5,7 +5,6 @@ cask 'dafont-fast-ss' do
     url 'http://dl.dafont.com/dl/?f=fast_ss'
     name 'Fast SS'
     homepage 'http://www.dafont.com/fast-ss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FastSS.ttf'
 end

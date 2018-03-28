@@ -5,7 +5,6 @@ cask 'dafont-xtreme-chrome' do
     url 'http://dl.dafont.com/dl/?f=xtreme_chrome'
     name 'Xtreme Chrome'
     homepage 'http://www.dafont.com/xtreme-chrome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xtrchr.ttf'
 end

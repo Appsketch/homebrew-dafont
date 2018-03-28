@@ -5,7 +5,6 @@ cask 'dafont-phatboy-slim-college' do
     url 'http://dl.dafont.com/dl/?f=phatboy_slim_college'
     name 'PhatBoy Slim College'
     homepage 'http://www.dafont.com/phatboy-slim-college.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PhatBoy Slim College.otf'
     font 'Phatboy Slim Rough.otf'

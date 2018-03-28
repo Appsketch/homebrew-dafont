@@ -5,7 +5,6 @@ cask 'dafont-gothikka' do
     url 'http://dl.dafont.com/dl/?f=gothikka'
     name 'Gothikka'
     homepage 'http://www.dafont.com/gothikka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gothikka-bold.ttf'
     font 'Gothikka-BoldItalic.ttf'

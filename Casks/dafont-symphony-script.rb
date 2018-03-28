@@ -5,7 +5,6 @@ cask 'dafont-symphony-script' do
     url 'http://dl.dafont.com/dl/?f=symphony_script'
     name 'Symphony Script'
     homepage 'http://www.dafont.com/symphony-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SymphonyScript_free_for_personal_use.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-year-supply-of-fair' do
     url 'http://dl.dafont.com/dl/?f=year_supply_of_fair'
     name 'Year supply of fairy cakes'
     homepage 'http://www.dafont.com/year-supply-of-fair.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YEARSUPPLYOFFAIRYCAKES.ttf'
 end

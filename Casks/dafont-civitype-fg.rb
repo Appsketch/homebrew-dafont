@@ -5,7 +5,6 @@ cask 'dafont-civitype-fg' do
     url 'http://dl.dafont.com/dl/?f=civitype_fg'
     name 'Civitype FG'
     homepage 'http://www.dafont.com/civitype-fg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'civitype.ttf'
 end

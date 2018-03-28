@@ -5,7 +5,6 @@ cask 'dafont-hanobot' do
     url 'http://dl.dafont.com/dl/?f=hanobot'
     name 'Hanobot'
     homepage 'http://www.dafont.com/hanobot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hanobot.ttf'
 end

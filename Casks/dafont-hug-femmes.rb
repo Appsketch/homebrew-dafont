@@ -5,7 +5,6 @@ cask 'dafont-hug-femmes' do
     url 'http://dl.dafont.com/dl/?f=hug_femmes'
     name 'Hug Femmes'
     homepage 'http://www.dafont.com/hug-femmes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hug Femmes Bold Italic.ttf'
     font 'Hug Femmes Bold.ttf'

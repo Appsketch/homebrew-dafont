@@ -5,7 +5,6 @@ cask 'dafont-big-gipsy-bro' do
     url 'http://dl.dafont.com/dl/?f=big_gipsy_bro'
     name 'Big Gipsy Bro'
     homepage 'http://www.dafont.com/big-gipsy-bro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIG_GIPSY_BRO.ttf'
 end

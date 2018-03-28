@@ -5,7 +5,6 @@ cask 'dafont-delicious-curls' do
     url 'http://dl.dafont.com/dl/?f=delicious_curls'
     name 'Delicious Curls'
     homepage 'http://www.dafont.com/delicious-curls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Delicious Curls bold.ttf'
     font 'Delicious Curls.ttf'

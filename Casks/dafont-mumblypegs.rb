@@ -5,7 +5,6 @@ cask 'dafont-mumblypegs' do
     url 'http://dl.dafont.com/dl/?f=mumblypegs'
     name 'Mumblypegs'
     homepage 'http://www.dafont.com/mumblypegs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mumbly.ttf'
 end

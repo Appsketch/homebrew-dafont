@@ -5,7 +5,6 @@ cask 'dafont-dos-equis' do
     url 'http://dl.dafont.com/dl/?f=dos_equis'
     name 'Dos Equis'
     homepage 'http://www.dafont.com/dos-equis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOSEQUIS.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bolivia-no-problem' do
     url 'http://dl.dafont.com/dl/?f=bolivia_no_problem'
     name 'Bolivia No Problem'
     homepage 'http://www.dafont.com/bolivia-no-problem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bolivia-No-Problem.ttf'
 end

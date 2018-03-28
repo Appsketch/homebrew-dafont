@@ -5,7 +5,6 @@ cask 'dafont-street-stencil' do
     url 'http://dl.dafont.com/dl/?f=street_stencil'
     name 'Street Stencil'
     homepage 'http://www.dafont.com/street-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Street Stencil.ttf'
 end

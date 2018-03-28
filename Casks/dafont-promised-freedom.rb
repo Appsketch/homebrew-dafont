@@ -5,7 +5,6 @@ cask 'dafont-promised-freedom' do
     url 'http://dl.dafont.com/dl/?f=promised_freedom'
     name 'Promised Freedom'
     homepage 'http://www.dafont.com/promised-freedom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Promised Freedom.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-the-one-and-only-me' do
     url 'http://dl.dafont.com/dl/?f=the_one_and_only_me'
     name 'The One And Only Me'
     homepage 'http://www.dafont.com/the-one-and-only-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THE ONE AND ONLY ME.ttf'
 end

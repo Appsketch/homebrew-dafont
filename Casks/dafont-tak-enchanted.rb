@@ -5,7 +5,6 @@ cask 'dafont-tak-enchanted' do
     url 'http://dl.dafont.com/dl/?f=tak_enchanted'
     name 'TAK Enchanted'
     homepage 'http://www.dafont.com/tak-enchanted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TAK Enchanted.ttf'
 end

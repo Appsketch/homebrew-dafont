@@ -5,7 +5,6 @@ cask 'dafont-basketcase-roman' do
     url 'http://dl.dafont.com/dl/?f=basketcase_roman'
     name 'Basketcase Roman'
     homepage 'http://www.dafont.com/basketcase-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BASKR___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ol-skool' do
     url 'http://dl.dafont.com/dl/?f=ol_skool'
     name 'Ol Skool'
     homepage 'http://www.dafont.com/ol-skool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OlSkool.ttf'
 end

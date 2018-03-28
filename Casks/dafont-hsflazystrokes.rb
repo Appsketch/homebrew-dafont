@@ -5,7 +5,6 @@ cask 'dafont-hsflazystrokes' do
     url 'http://dl.dafont.com/dl/?f=hsflazystrokes'
     name 'Hsf Lazy Strokes'
     homepage 'http://www.dafont.com/hsflazystrokes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HsfLazyStrokes.ttf'
 end

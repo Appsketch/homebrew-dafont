@@ -5,7 +5,6 @@ cask 'dafont-abovestars' do
     url 'http://dl.dafont.com/dl/?f=abovestars'
     name 'Above Stars'
     homepage 'http://www.dafont.com/abovestars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AboveStars.ttf'
 end

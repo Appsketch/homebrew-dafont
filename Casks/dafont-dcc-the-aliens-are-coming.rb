@@ -5,7 +5,6 @@ cask 'dafont-dcc-the-aliens-are-coming' do
     url 'http://dl.dafont.com/dl/?f=dcc_the_aliens_are_coming'
     name 'DCC The aliens are coming'
     homepage 'http://www.dafont.com/dcc-the-aliens-are-coming.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DCC - The alien are coming.ttf'
 end

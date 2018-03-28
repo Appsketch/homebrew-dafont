@@ -5,7 +5,6 @@ cask 'dafont-elevant-by-pelash' do
     url 'http://dl.dafont.com/dl/?f=elevant_by_pelash'
     name 'Elevant'
     homepage 'http://www.dafont.com/elevant-by-pelash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elevant bold.ttf'
     font 'Elevant.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-thermometer' do
     url 'http://dl.dafont.com/dl/?f=thermometer'
     name 'Thermometer'
     homepage 'http://www.dafont.com/thermometer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THERMOMETER.ttf'
 end

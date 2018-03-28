@@ -5,7 +5,6 @@ cask 'dafont-comic-book' do
     url 'http://dl.dafont.com/dl/?f=comic_book'
     name 'Comic Book'
     homepage 'http://www.dafont.com/comic-book.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comic Book Bold Italic.otf'
     font 'Comic Book Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-anglean' do
     url 'http://dl.dafont.com/dl/?f=anglean'
     name 'Anglean'
     homepage 'http://www.dafont.com/anglean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anglean.ttf'
 end

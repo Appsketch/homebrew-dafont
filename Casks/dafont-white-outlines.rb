@@ -5,7 +5,6 @@ cask 'dafont-white-outlines' do
     url 'http://dl.dafont.com/dl/?f=white_outlines'
     name 'White Outlines'
     homepage 'http://www.dafont.com/white-outlines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'White Outlines.ttf'
 end

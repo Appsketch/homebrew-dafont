@@ -5,7 +5,6 @@ cask 'dafont-gargle-nutz' do
     url 'http://dl.dafont.com/dl/?f=gargle_nutz'
     name 'Gargle Nutz'
     homepage 'http://www.dafont.com/gargle-nutz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'garglenutz.[fontvir.us].ttf'
 end

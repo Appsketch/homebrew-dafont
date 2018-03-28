@@ -5,7 +5,6 @@ cask 'dafont-corazon' do
     url 'http://dl.dafont.com/dl/?f=corazon'
     name 'Corazon'
     homepage 'http://www.dafont.com/corazon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CORAZON_.TTF'
 end

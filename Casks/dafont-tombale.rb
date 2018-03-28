@@ -5,7 +5,6 @@ cask 'dafont-tombale' do
     url 'http://dl.dafont.com/dl/?f=tombale'
     name 'Tombale'
     homepage 'http://www.dafont.com/tombale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tombale.ttf'
 end

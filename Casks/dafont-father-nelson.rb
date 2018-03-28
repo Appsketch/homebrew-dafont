@@ -5,7 +5,6 @@ cask 'dafont-father-nelson' do
     url 'http://dl.dafont.com/dl/?f=father_nelson'
     name 'Father Nelson'
     homepage 'http://www.dafont.com/father-nelson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Father_Nelson_Regular.ttf'
 end

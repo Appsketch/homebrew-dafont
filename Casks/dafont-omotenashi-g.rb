@@ -5,7 +5,6 @@ cask 'dafont-omotenashi-g' do
     url 'http://dl.dafont.com/dl/?f=omotenashi_g'
     name 'Omotenashi G'
     homepage 'http://www.dafont.com/omotenashi-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_omotenashi.ttf'
 end

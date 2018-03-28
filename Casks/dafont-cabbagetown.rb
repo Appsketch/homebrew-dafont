@@ -5,7 +5,6 @@ cask 'dafont-cabbagetown' do
     url 'http://dl.dafont.com/dl/?f=cabbagetown'
     name 'Cabbagetown'
     homepage 'http://www.dafont.com/cabbagetown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cabbagetown.ttf'
     font 'CabbagetownBook.ttf'

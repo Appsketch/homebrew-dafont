@@ -5,7 +5,6 @@ cask 'dafont-aurebesh' do
     url 'http://dl.dafont.com/dl/?f=aurebesh'
     name 'Aurebesh'
     homepage 'http://www.dafont.com/aurebesh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aurebesh Bold Italic.ttf'
     font 'Aurebesh Bold.ttf'

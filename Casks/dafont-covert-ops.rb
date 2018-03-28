@@ -5,7 +5,6 @@ cask 'dafont-covert-ops' do
     url 'http://dl.dafont.com/dl/?f=covert_ops'
     name 'Covert Ops'
     homepage 'http://www.dafont.com/covert-ops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'covertops.ttf'
     font 'covertops3d.ttf'

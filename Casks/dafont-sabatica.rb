@@ -5,7 +5,6 @@ cask 'dafont-sabatica' do
     url 'http://dl.dafont.com/dl/?f=sabatica'
     name 'Sab&aacute;tica'
     homepage 'http://www.dafont.com/sabatica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sabatica-regular.ttf'
 end

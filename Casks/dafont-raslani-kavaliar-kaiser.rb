@@ -5,7 +5,6 @@ cask 'dafont-raslani-kavaliar-kaiser' do
     url 'http://dl.dafont.com/dl/?f=raslani_kavaliar_kaiser'
     name 'Raslani Kavaliar Kaiser'
     homepage 'http://www.dafont.com/raslani-kavaliar-kaiser.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raslani Kavaliar Kaiser.ttf'
 end

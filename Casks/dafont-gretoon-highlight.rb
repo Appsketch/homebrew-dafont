@@ -5,7 +5,6 @@ cask 'dafont-gretoon-highlight' do
     url 'http://dl.dafont.com/dl/?f=gretoon_highlight'
     name 'Gretoon'
     homepage 'http://www.dafont.com/gretoon-highlight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gretoon.ttf'
     font 'GretoonHighlight.ttf'

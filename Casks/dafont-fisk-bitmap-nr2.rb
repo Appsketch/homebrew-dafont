@@ -5,7 +5,6 @@ cask 'dafont-fisk-bitmap-nr2' do
     url 'http://dl.dafont.com/dl/?f=fisk_bitmap_nr2'
     name 'Fisk Bitmap Nr2'
     homepage 'http://www.dafont.com/fisk-bitmap-nr2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fiskbitmap2___.ttf'
 end

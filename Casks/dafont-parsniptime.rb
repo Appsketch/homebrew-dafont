@@ -5,7 +5,6 @@ cask 'dafont-parsniptime' do
     url 'http://dl.dafont.com/dl/?f=parsniptime'
     name 'Parsnip Time'
     homepage 'http://www.dafont.com/parsniptime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'parsniptime.ttf'
 end

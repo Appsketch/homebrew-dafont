@@ -5,7 +5,6 @@ cask 'dafont-kissing-the-rain' do
     url 'http://dl.dafont.com/dl/?f=kissing_the_rain'
     name 'Kissing The Rain'
     homepage 'http://www.dafont.com/kissing-the-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KISSING THE RAIN.ttf'
 end

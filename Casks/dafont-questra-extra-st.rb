@@ -5,7 +5,6 @@ cask 'dafont-questra-extra-st' do
     url 'http://dl.dafont.com/dl/?f=questra_extra_st'
     name 'Questra Extra ST'
     homepage 'http://www.dafont.com/questra-extra-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'questra extra st.ttf'
 end

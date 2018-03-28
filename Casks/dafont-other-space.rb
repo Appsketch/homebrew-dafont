@@ -5,7 +5,6 @@ cask 'dafont-other-space' do
     url 'http://dl.dafont.com/dl/?f=other_space'
     name 'Other Space'
     homepage 'http://www.dafont.com/other-space.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Other Space.ttf'
 end

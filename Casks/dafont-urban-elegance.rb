@@ -5,7 +5,6 @@ cask 'dafont-urban-elegance' do
     url 'http://dl.dafont.com/dl/?f=urban_elegance'
     name 'Urban Elegance'
     homepage 'http://www.dafont.com/urban-elegance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Urban Elegance Bold Italic.ttf'
     font 'Urban Elegance Bold.ttf'

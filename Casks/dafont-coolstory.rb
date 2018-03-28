@@ -5,7 +5,6 @@ cask 'dafont-coolstory' do
     url 'http://dl.dafont.com/dl/?f=coolstory'
     name 'Cool Story'
     homepage 'http://www.dafont.com/coolstory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'coolstory regular.ttf'
 end

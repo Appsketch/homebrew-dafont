@@ -5,7 +5,6 @@ cask 'dafont-weekdays-roman-slan' do
     url 'http://dl.dafont.com/dl/?f=weekdays_roman_slan'
     name 'Weekdays Roman Slant'
     homepage 'http://www.dafont.com/weekdays-roman-slan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WeekdaysRomanSlant.ttf'
 end

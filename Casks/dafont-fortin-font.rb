@@ -5,7 +5,6 @@ cask 'dafont-fortin-font' do
     url 'http://dl.dafont.com/dl/?f=fortin_font'
     name 'Fortin Font'
     homepage 'http://www.dafont.com/fortin-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FortinFont-Regular.otf'
 end

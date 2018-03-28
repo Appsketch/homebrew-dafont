@@ -5,7 +5,6 @@ cask 'dafont-rock-salmon' do
     url 'http://dl.dafont.com/dl/?f=rock_salmon'
     name 'Rock Salmon'
     homepage 'http://www.dafont.com/rock-salmon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rock Salmon.ttf'
 end

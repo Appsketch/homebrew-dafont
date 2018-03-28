@@ -5,7 +5,6 @@ cask 'dafont-galga' do
     url 'http://dl.dafont.com/dl/?f=galga'
     name 'Galga'
     homepage 'http://www.dafont.com/galga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'galga.ttf'
     font 'galgab.ttf'

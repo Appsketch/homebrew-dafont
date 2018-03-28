@@ -5,7 +5,6 @@ cask 'dafont-the-sickmen' do
     url 'http://dl.dafont.com/dl/?f=the_sickmen'
     name 'The Sickmen'
     homepage 'http://www.dafont.com/the-sickmen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Sickmen.ttf'
 end

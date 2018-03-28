@@ -5,7 +5,6 @@ cask 'dafont-rocket-bitmap' do
     url 'http://dl.dafont.com/dl/?f=rocket_bitmap'
     name 'Rocket Bitmap'
     homepage 'http://www.dafont.com/rocket-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROCKBM.FON'
 end

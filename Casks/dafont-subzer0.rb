@@ -5,7 +5,6 @@ cask 'dafont-subzer0' do
     url 'http://dl.dafont.com/dl/?f=subzer0'
     name 'SubZer0'
     homepage 'http://www.dafont.com/subzer0.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SubZER0.ttf'
 end

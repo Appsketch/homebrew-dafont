@@ -5,7 +5,6 @@ cask 'dafont-tuning-fork' do
     url 'http://dl.dafont.com/dl/?f=tuning_fork'
     name 'Tuning Fork'
     homepage 'http://www.dafont.com/tuning-fork.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tuning_fork.ttf'
 end

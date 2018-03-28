@@ -5,7 +5,6 @@ cask 'dafont-broken-phone-nails' do
     url 'http://dl.dafont.com/dl/?f=broken_phone_nails'
     name 'Broken Phone Nails'
     homepage 'http://www.dafont.com/broken-phone-nails.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BROKPN__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cubic-bold' do
     url 'http://dl.dafont.com/dl/?f=cubic_bold'
     name 'Cubic Bold'
     homepage 'http://www.dafont.com/cubic-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cubic Bold.ttf'
 end

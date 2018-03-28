@@ -5,7 +5,6 @@ cask 'dafont-digital-system' do
     url 'http://dl.dafont.com/dl/?f=digital_system'
     name 'Digital System'
     homepage 'http://www.dafont.com/digital-system.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digital System.ttf'
 end

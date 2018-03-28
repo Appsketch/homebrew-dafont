@@ -5,7 +5,6 @@ cask 'dafont-depressionist-three' do
     url 'http://dl.dafont.com/dl/?f=depressionist_three'
     name 'Depressionist Three'
     homepage 'http://www.dafont.com/depressionist-three.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'depress3_____.TTF'
 end

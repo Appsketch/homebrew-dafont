@@ -5,7 +5,6 @@ cask 'dafont-hedgeflow' do
     url 'http://dl.dafont.com/dl/?f=hedgeflow'
     name 'Hedge Flow'
     homepage 'http://www.dafont.com/hedgeflow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HedgeFlowDemo-Bold.ttf'
 end

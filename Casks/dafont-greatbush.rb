@@ -5,7 +5,6 @@ cask 'dafont-greatbush' do
     url 'http://dl.dafont.com/dl/?f=greatbush'
     name 'GreatBush'
     homepage 'http://www.dafont.com/greatbush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreatBush.ttf'
 end

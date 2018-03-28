@@ -5,7 +5,6 @@ cask 'dafont-supreme' do
     url 'http://dl.dafont.com/dl/?f=supreme'
     name 'Supreme'
     homepage 'http://www.dafont.com/supreme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPRRG__.TTF'
 end

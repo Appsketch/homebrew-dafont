@@ -5,7 +5,6 @@ cask 'dafont-oil-makes-you-run-faster' do
     url 'http://dl.dafont.com/dl/?f=oil_makes_you_run_faster'
     name 'Oil Makes You Run (Faster)'
     homepage 'http://www.dafont.com/oil-makes-you-run-faster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oil-Makes-You-Run-Faster.ttf'
 end

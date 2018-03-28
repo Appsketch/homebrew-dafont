@@ -5,7 +5,6 @@ cask 'dafont-sa-inkspot' do
     url 'http://dl.dafont.com/dl/?f=sa_inkspot'
     name 'SA Inkspot'
     homepage 'http://www.dafont.com/sa-inkspot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inkspot.ttf'
 end

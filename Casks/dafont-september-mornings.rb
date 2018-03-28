@@ -5,7 +5,6 @@ cask 'dafont-september-mornings' do
     url 'http://dl.dafont.com/dl/?f=september_mornings'
     name 'September Mornings'
     homepage 'http://www.dafont.com/september-mornings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'September Mornings.ttf'
 end

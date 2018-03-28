@@ -5,7 +5,6 @@ cask 'dafont-airacobra' do
     url 'http://dl.dafont.com/dl/?f=airacobra'
     name 'Airacobra'
     homepage 'http://www.dafont.com/airacobra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aira.ttf'
     font 'airaa.ttf'

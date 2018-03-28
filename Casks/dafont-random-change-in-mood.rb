@@ -5,7 +5,6 @@ cask 'dafont-random-change-in-mood' do
     url 'http://dl.dafont.com/dl/?f=random_change_in_mood'
     name 'Random Change In Mood'
     homepage 'http://www.dafont.com/random-change-in-mood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Random Change In Mood.ttf'
 end

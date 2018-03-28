@@ -5,7 +5,6 @@ cask 'dafont-marmellata-jam-demo' do
     url 'http://dl.dafont.com/dl/?f=marmellata_jam_demo'
     name 'Marmellata Jam'
     homepage 'http://www.dafont.com/marmellata-jam-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marmellata(Jam)_demo.ttf'
 end

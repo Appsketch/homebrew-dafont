@@ -5,7 +5,6 @@ cask 'dafont-graffiti' do
     url 'http://dl.dafont.com/dl/?f=graffiti'
     name 'Graffiti'
     homepage 'http://www.dafont.com/graffiti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRAFFITI.TTF'
 end

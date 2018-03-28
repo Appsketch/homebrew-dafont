@@ -5,7 +5,6 @@ cask 'dafont-mlungker' do
     url 'http://dl.dafont.com/dl/?f=mlungker'
     name 'Mlungker'
     homepage 'http://www.dafont.com/mlungker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mlungker.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kbdabble' do
     url 'http://dl.dafont.com/dl/?f=kbdabble'
     name 'KB Dabble'
     homepage 'http://www.dafont.com/kbdabble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBDabble.ttf'
 end

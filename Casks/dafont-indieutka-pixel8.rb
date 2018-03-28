@@ -5,7 +5,6 @@ cask 'dafont-indieutka-pixel8' do
     url 'http://dl.dafont.com/dl/?f=indieutka_pixel8'
     name 'Indieutka Pixel8'
     homepage 'http://www.dafont.com/indieutka-pixel8.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Indieutka Pixel8.ttf'
 end

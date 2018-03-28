@@ -5,7 +5,6 @@ cask 'dafont-someone-special' do
     url 'http://dl.dafont.com/dl/?f=someone_special'
     name 'Someone Special'
     homepage 'http://www.dafont.com/someone-special.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Someone Special.ttf'
 end

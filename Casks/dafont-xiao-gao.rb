@@ -5,7 +5,6 @@ cask 'dafont-xiao-gao' do
     url 'http://dl.dafont.com/dl/?f=xiao_gao'
     name 'Xiao Gao'
     homepage 'http://www.dafont.com/xiao-gao.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xiao Gao.ttf'
 end

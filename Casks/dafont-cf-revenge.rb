@@ -5,7 +5,6 @@ cask 'dafont-cf-revenge' do
     url 'http://dl.dafont.com/dl/?f=cf_revenge'
     name 'CF Revenge'
     homepage 'http://www.dafont.com/cf-revenge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFRevenge-Regular.ttf'
 end

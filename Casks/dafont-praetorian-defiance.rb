@@ -5,7 +5,6 @@ cask 'dafont-praetorian-defiance' do
     url 'http://dl.dafont.com/dl/?f=praetorian_defiance'
     name 'Praetorian Defiance'
     homepage 'http://www.dafont.com/praetorian-defiance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Praetorian Defiance (true type).ttf'
 end

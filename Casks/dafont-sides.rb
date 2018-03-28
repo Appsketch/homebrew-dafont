@@ -5,7 +5,6 @@ cask 'dafont-sides' do
     url 'http://dl.dafont.com/dl/?f=sides'
     name 'Sides'
     homepage 'http://www.dafont.com/sides.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sides-v1.0.ttf'
 end

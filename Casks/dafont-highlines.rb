@@ -5,7 +5,6 @@ cask 'dafont-highlines' do
     url 'http://dl.dafont.com/dl/?f=highlines'
     name 'High Lines'
     homepage 'http://www.dafont.com/highlines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighLines.ttf'
 end

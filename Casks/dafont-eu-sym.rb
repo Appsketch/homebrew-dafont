@@ -5,7 +5,6 @@ cask 'dafont-eu-sym' do
     url 'http://dl.dafont.com/dl/?f=eu_sym'
     name 'EU-Sym'
     homepage 'http://www.dafont.com/eu-sym.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EU-Sym.ttf'
 end

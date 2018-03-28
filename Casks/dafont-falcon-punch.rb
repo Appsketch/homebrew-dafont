@@ -5,7 +5,6 @@ cask 'dafont-falcon-punch' do
     url 'http://dl.dafont.com/dl/?f=falcon_punch'
     name 'Falcon Punch'
     homepage 'http://www.dafont.com/falcon-punch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'falconpunch.ttf'
     font 'falconpunch3d.ttf'

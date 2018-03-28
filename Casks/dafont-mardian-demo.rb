@@ -5,7 +5,6 @@ cask 'dafont-mardian-demo' do
     url 'http://dl.dafont.com/dl/?f=mardian_demo'
     name 'Mardian'
     homepage 'http://www.dafont.com/mardian-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MardianDemo.ttf'
 end

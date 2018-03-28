@@ -5,7 +5,6 @@ cask 'dafont-iron-man' do
     url 'http://dl.dafont.com/dl/?f=iron_man'
     name 'Iron Man'
     homepage 'http://www.dafont.com/iron-man.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IRONMAN.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-deadjohn' do
     url 'http://dl.dafont.com/dl/?f=deadjohn'
     name 'Dead John'
     homepage 'http://www.dafont.com/deadjohn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeadJohn.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-thorne-shaded' do
     url 'http://dl.dafont.com/dl/?f=thorne_shaded'
     name 'Thorne Shaded'
     homepage 'http://www.dafont.com/thorne-shaded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThorneShaded.ttf'
 end

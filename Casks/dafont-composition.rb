@@ -5,7 +5,6 @@ cask 'dafont-composition' do
     url 'http://dl.dafont.com/dl/?f=composition'
     name 'Composition'
     homepage 'http://www.dafont.com/composition.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Composition.ttf'
 end

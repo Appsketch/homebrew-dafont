@@ -5,7 +5,6 @@ cask 'dafont-monafont' do
     url 'http://dl.dafont.com/dl/?f=monafont'
     name 'Monafont'
     homepage 'http://www.dafont.com/monafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MONAFONT.TTF'
 end

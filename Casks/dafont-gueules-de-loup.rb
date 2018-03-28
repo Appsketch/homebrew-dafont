@@ -5,7 +5,6 @@ cask 'dafont-gueules-de-loup' do
     url 'http://dl.dafont.com/dl/?f=gueules_de_loup'
     name 'Gueules de Loup'
     homepage 'http://www.dafont.com/gueules-de-loup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gueules de Loup 2.ttf'
     font 'Gueules de Loup.ttf'

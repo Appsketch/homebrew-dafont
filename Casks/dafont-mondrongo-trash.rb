@@ -5,7 +5,6 @@ cask 'dafont-mondrongo-trash' do
     url 'http://dl.dafont.com/dl/?f=mondrongo_trash'
     name 'Mondrongo'
     homepage 'http://www.dafont.com/mondrongo-trash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mondrongo Gradient.ttf'
     font 'Mondrongo Trash.ttf'

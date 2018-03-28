@@ -5,7 +5,6 @@ cask 'dafont-komika-boogie' do
     url 'http://dl.dafont.com/dl/?f=komika_boogie'
     name 'Komika Boogie'
     homepage 'http://www.dafont.com/komika-boogie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKABG.ttf'
 end

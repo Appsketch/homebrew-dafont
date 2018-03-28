@@ -5,7 +5,6 @@ cask 'dafont-tramyad' do
     url 'http://dl.dafont.com/dl/?f=tramyad'
     name 'Tramyad'
     homepage 'http://www.dafont.com/tramyad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tramyad.ttf'
 end

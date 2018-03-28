@@ -5,7 +5,6 @@ cask 'dafont-moog' do
     url 'http://dl.dafont.com/dl/?f=moog'
     name 'Moog/Schmoog'
     homepage 'http://www.dafont.com/moog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOOG____.TTF'
     font 'MOOGS___.TTF'

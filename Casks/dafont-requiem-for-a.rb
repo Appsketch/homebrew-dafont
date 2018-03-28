@@ -5,7 +5,6 @@ cask 'dafont-requiem-for-a' do
     url 'http://dl.dafont.com/dl/?f=requiem_for_a'
     name 'Requiem for A'
     homepage 'http://www.dafont.com/requiem-for-a.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Requiem for A.ttf'
 end

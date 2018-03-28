@@ -5,7 +5,6 @@ cask 'dafont-toilet-tag' do
     url 'http://dl.dafont.com/dl/?f=toilet_tag'
     name 'Toilet Tag'
     homepage 'http://www.dafont.com/toilet-tag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'toilet_tag.ttf'
 end

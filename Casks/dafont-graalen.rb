@@ -5,7 +5,6 @@ cask 'dafont-graalen' do
     url 'http://dl.dafont.com/dl/?f=graalen'
     name 'Graalen'
     homepage 'http://www.dafont.com/graalen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Graalen Italic.otf'
     font 'Graalen.otf'

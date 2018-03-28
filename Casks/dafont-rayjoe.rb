@@ -5,7 +5,6 @@ cask 'dafont-rayjoe' do
     url 'http://dl.dafont.com/dl/?f=rayjoe'
     name 'Rayjoe'
     homepage 'http://www.dafont.com/rayjoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rayjoe.otf'
 end

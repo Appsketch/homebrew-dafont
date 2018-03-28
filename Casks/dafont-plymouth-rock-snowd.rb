@@ -5,7 +5,6 @@ cask 'dafont-plymouth-rock-snowd' do
     url 'http://dl.dafont.com/dl/?f=plymouth_rock_snowd'
     name 'Plymouth Rock &#039;SnowDusted&#039;'
     homepage 'http://www.dafont.com/plymouth-rock-snowd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PlymouthRock SnowDusted.ttf'
 end

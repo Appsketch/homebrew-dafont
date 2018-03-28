@@ -5,7 +5,6 @@ cask 'dafont-granite-postmodern' do
     url 'http://dl.dafont.com/dl/?f=granite_postmodern'
     name 'Granite Postmodern'
     homepage 'http://www.dafont.com/granite-postmodern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GranitePostmodern-Regular.ttf'
 end

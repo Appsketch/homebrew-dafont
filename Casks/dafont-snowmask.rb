@@ -5,7 +5,6 @@ cask 'dafont-snowmask' do
     url 'http://dl.dafont.com/dl/?f=snowmask'
     name 'Snowmask'
     homepage 'http://www.dafont.com/snowmask.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'snowmask.ttf'
 end

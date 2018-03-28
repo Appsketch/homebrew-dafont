@@ -5,7 +5,6 @@ cask 'dafont-foolsfallinlove' do
     url 'http://dl.dafont.com/dl/?f=foolsfallinlove'
     name 'Fools Fall In Love'
     homepage 'http://www.dafont.com/foolsfallinlove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FoolsFallInLove.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pixel-unicode' do
     url 'http://dl.dafont.com/dl/?f=pixel_unicode'
     name 'Pixel UniCode'
     homepage 'http://www.dafont.com/pixel-unicode.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel-UniCode.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pix-chicago' do
     url 'http://dl.dafont.com/dl/?f=pix_chicago'
     name 'Pix Chicago'
     homepage 'http://www.dafont.com/pix-chicago.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixChicago.ttf'
 end

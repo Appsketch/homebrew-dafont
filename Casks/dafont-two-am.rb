@@ -5,7 +5,6 @@ cask 'dafont-two-am' do
     url 'http://dl.dafont.com/dl/?f=two_am'
     name 'Two AM'
     homepage 'http://www.dafont.com/two-am.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TWO AM.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gasmask' do
     url 'http://dl.dafont.com/dl/?f=gasmask'
     name 'Gasmask'
     homepage 'http://www.dafont.com/gasmask.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GASMASK_.TTF'
 end

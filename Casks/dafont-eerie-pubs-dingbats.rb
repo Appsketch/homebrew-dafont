@@ -5,7 +5,6 @@ cask 'dafont-eerie-pubs-dingbats' do
     url 'http://dl.dafont.com/dl/?f=eerie_pubs_dingbats'
     name 'Eerie Pubs Dingbats II'
     homepage 'http://www.dafont.com/eerie-pubs-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EPD2N___.TTF'
 end

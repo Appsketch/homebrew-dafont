@@ -5,7 +5,6 @@ cask 'dafont-big-log' do
     url 'http://dl.dafont.com/dl/?f=big_log'
     name 'Big log'
     homepage 'http://www.dafont.com/big-log.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIGLOG__.TTF'
 end

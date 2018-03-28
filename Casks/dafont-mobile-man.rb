@@ -5,7 +5,6 @@ cask 'dafont-mobile-man' do
     url 'http://dl.dafont.com/dl/?f=mobile_man'
     name 'Mobile Man'
     homepage 'http://www.dafont.com/mobile-man.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mobilman.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-furgatorio' do
     url 'http://dl.dafont.com/dl/?f=furgatorio'
     name 'Furgatorio'
     homepage 'http://www.dafont.com/furgatorio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Furgatorio Titling.ttf'
     font 'Furgatorio.ttf'

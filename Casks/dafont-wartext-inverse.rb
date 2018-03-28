@@ -5,7 +5,6 @@ cask 'dafont-wartext-inverse' do
     url 'http://dl.dafont.com/dl/?f=wartext_inverse'
     name 'WarText Inverse'
     homepage 'http://www.dafont.com/wartext-inverse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WarText Inverse.ttf'
 end

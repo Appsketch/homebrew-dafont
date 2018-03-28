@@ -5,7 +5,6 @@ cask 'dafont-ltr02' do
     url 'http://dl.dafont.com/dl/?f=ltr02'
     name 'LTR-02: Morbid Vision'
     homepage 'http://www.dafont.com/ltr02.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ltr02.ttf'
 end

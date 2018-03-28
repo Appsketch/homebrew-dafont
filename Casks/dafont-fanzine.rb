@@ -5,7 +5,6 @@ cask 'dafont-fanzine' do
     url 'http://dl.dafont.com/dl/?f=fanzine'
     name 'Fanzine'
     homepage 'http://www.dafont.com/fanzine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fanzine.ttf'
 end

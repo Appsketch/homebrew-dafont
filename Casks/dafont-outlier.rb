@@ -5,7 +5,6 @@ cask 'dafont-outlier' do
     url 'http://dl.dafont.com/dl/?f=outlier'
     name 'Outlier'
     homepage 'http://www.dafont.com/outlier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Outlier Rail.ttf'
     font 'Outlier.ttf'

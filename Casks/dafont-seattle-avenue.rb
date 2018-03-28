@@ -5,7 +5,6 @@ cask 'dafont-seattle-avenue' do
     url 'http://dl.dafont.com/dl/?f=seattle_avenue'
     name 'Seattle Avenue'
     homepage 'http://www.dafont.com/seattle-avenue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seattle Avenue.ttf'
 end

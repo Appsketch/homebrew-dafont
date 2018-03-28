@@ -5,7 +5,6 @@ cask 'dafont-poetsen-one' do
     url 'http://dl.dafont.com/dl/?f=poetsen_one'
     name 'Poetsen One'
     homepage 'http://www.dafont.com/poetsen-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PoetsenOne-Regular.ttf'
 end

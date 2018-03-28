@@ -5,7 +5,6 @@ cask 'dafont-lost-in-the-fontrest' do
     url 'http://dl.dafont.com/dl/?f=lost_in_the_fontrest'
     name 'Lost in the Fontrest'
     homepage 'http://www.dafont.com/lost-in-the-fontrest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'litfi.ttf'
     font 'litfiBOLD.ttf'

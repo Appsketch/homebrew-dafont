@@ -5,7 +5,6 @@ cask 'dafont-saiyan-sans' do
     url 'http://dl.dafont.com/dl/?f=saiyan_sans'
     name 'Saiyan Sans'
     homepage 'http://www.dafont.com/saiyan-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Saiyan-Sans Left Oblique.ttf'
     font 'Saiyan-Sans Right Oblique.ttf'

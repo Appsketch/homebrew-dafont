@@ -5,7 +5,6 @@ cask 'dafont-ananda' do
     url 'http://dl.dafont.com/dl/?f=ananda'
     name 'Ananda'
     homepage 'http://www.dafont.com/ananda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ananda.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-paintblack' do
     url 'http://dl.dafont.com/dl/?f=paintblack'
     name 'Paint Black'
     homepage 'http://www.dafont.com/paintblack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'paintblack white.ttf'
     font 'paintblack.ttf'

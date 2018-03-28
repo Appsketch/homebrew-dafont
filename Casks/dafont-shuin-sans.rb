@@ -5,7 +5,6 @@ cask 'dafont-shuin-sans' do
     url 'http://dl.dafont.com/dl/?f=shuin_sans'
     name 'Shuin Sans'
     homepage 'http://www.dafont.com/shuin-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shuin Sans 3D.otf'
     font 'Shuin Sans.otf'

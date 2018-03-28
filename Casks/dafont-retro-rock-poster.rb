@@ -5,7 +5,6 @@ cask 'dafont-retro-rock-poster' do
     url 'http://dl.dafont.com/dl/?f=retro_rock_poster'
     name 'Retro Rock Poster'
     homepage 'http://www.dafont.com/retro-rock-poster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'retroRockPoster.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-crustype-crust' do
     url 'http://dl.dafont.com/dl/?f=crustype_crust'
     name 'Crustype'
     homepage 'http://www.dafont.com/crustype-crust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crustype_clean.ttf'
     font 'crustype.ttf'

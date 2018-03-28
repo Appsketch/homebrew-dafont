@@ -5,7 +5,6 @@ cask 'dafont-howies-funhouse' do
     url 'http://dl.dafont.com/dl/?f=howies_funhouse'
     name 'Howie&#039;s Funhouse'
     homepage 'http://www.dafont.com/howies-funhouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Howie_s_Funhouse.ttf'
 end

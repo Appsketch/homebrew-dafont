@@ -5,7 +5,6 @@ cask 'dafont-miley-cyrus' do
     url 'http://dl.dafont.com/dl/?f=miley_cyrus'
     name 'Miley Cyrus'
     homepage 'http://www.dafont.com/miley-cyrus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miley Cyrus.ttf'
 end

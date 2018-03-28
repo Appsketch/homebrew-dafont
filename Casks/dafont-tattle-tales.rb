@@ -5,7 +5,6 @@ cask 'dafont-tattle-tales' do
     url 'http://dl.dafont.com/dl/?f=tattle_tales'
     name 'Tattle &amp; Tales'
     homepage 'http://www.dafont.com/tattle-tales.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TattleandTales.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-o-wee-ental' do
     url 'http://dl.dafont.com/dl/?f=o_wee_ental'
     name 'O-Wee-Ental'
     homepage 'http://www.dafont.com/o-wee-ental.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'o-wee-ental.ttf'
 end

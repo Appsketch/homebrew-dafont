@@ -5,7 +5,6 @@ cask 'dafont-hanging-by-a-thread' do
     url 'http://dl.dafont.com/dl/?f=hanging_by_a_thread'
     name 'Hanging By a Thread'
     homepage 'http://www.dafont.com/hanging-by-a-thread.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HangingByaThread.ttf'
 end

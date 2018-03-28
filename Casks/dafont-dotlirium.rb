@@ -5,7 +5,6 @@ cask 'dafont-dotlirium' do
     url 'http://dl.dafont.com/dl/?f=dotlirium'
     name 'DotLirium'
     homepage 'http://www.dafont.com/dotlirium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DotLirium.ttf'
 end

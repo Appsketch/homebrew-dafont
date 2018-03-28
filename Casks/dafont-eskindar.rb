@@ -5,7 +5,6 @@ cask 'dafont-eskindar' do
     url 'http://dl.dafont.com/dl/?f=eskindar'
     name 'Eskindar '
     homepage 'http://www.dafont.com/eskindar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eskindar.ttf'
     font 'eskindar3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-kg-all-of-me' do
     url 'http://dl.dafont.com/dl/?f=kg_all_of_me'
     name 'KG All of Me'
     homepage 'http://www.dafont.com/kg-all-of-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGAllofMe.ttf'
 end

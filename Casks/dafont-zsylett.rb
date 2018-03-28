@@ -5,7 +5,6 @@ cask 'dafont-zsylett' do
     url 'http://dl.dafont.com/dl/?f=zsylett'
     name 'Zsylett'
     homepage 'http://www.dafont.com/zsylett.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zsylett.ttf'
 end

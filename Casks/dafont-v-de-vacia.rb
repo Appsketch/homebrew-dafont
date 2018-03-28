@@ -5,7 +5,6 @@ cask 'dafont-v-de-vacia' do
     url 'http://dl.dafont.com/dl/?f=v_de_vacia'
     name 'V de vac&iacute;a'
     homepage 'http://www.dafont.com/v-de-vacia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'V-de-vacia-deFharo.ttf'
 end

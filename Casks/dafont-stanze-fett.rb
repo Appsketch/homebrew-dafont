@@ -5,7 +5,6 @@ cask 'dafont-stanze-fett' do
     url 'http://dl.dafont.com/dl/?f=stanze_fett'
     name 'Stanze Fett'
     homepage 'http://www.dafont.com/stanze-fett.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STANZE-F.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-petrra-fam' do
     url 'http://dl.dafont.com/dl/?f=petrra_fam'
     name 'Petrra fam'
     homepage 'http://www.dafont.com/petrra-fam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pettra.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-republika' do
     url 'http://dl.dafont.com/dl/?f=republika'
     name 'Republika'
     homepage 'http://www.dafont.com/republika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REP2CN__.ttf'
     font 'REP2CNI_.ttf'

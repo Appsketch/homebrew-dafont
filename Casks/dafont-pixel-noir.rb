@@ -5,7 +5,6 @@ cask 'dafont-pixel-noir' do
     url 'http://dl.dafont.com/dl/?f=pixel_noir'
     name 'Pixel Noir'
     homepage 'http://www.dafont.com/pixel-noir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel-Noir Caps.ttf'
     font 'Pixel-Noir Skinny Caps.ttf'

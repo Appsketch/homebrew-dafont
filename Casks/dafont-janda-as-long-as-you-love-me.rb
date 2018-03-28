@@ -5,7 +5,6 @@ cask 'dafont-janda-as-long-as-you-love-me' do
     url 'http://dl.dafont.com/dl/?f=janda_as_long_as_you_love_me'
     name 'Janda As Long As You Love Me'
     homepage 'http://www.dafont.com/janda-as-long-as-you-love-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaAsLongAsYouLoveMe.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-frizzled-planet' do
     url 'http://dl.dafont.com/dl/?f=frizzled_planet'
     name 'Frizzled Planet'
     homepage 'http://www.dafont.com/frizzled-planet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frizzled Planet.ttf'
 end

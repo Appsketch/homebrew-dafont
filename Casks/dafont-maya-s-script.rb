@@ -5,7 +5,6 @@ cask 'dafont-maya-s-script' do
     url 'http://dl.dafont.com/dl/?f=maya_s_script'
     name 'Mayas Script'
     homepage 'http://www.dafont.com/maya-s-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maya_s_Script.ttf'
 end

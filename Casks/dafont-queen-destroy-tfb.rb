@@ -5,7 +5,6 @@ cask 'dafont-queen-destroy-tfb' do
     url 'http://dl.dafont.com/dl/?f=queen_destroy_tfb'
     name 'Queen Destroy TFB'
     homepage 'http://www.dafont.com/queen-destroy-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Queen Destroy tfb.ttf'
 end

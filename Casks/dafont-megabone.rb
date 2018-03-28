@@ -5,7 +5,6 @@ cask 'dafont-megabone' do
     url 'http://dl.dafont.com/dl/?f=megabone'
     name 'Mega Bone'
     homepage 'http://www.dafont.com/megabone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MegaBone.ttf'
 end

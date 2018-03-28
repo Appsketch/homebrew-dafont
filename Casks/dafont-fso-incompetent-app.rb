@@ -5,7 +5,6 @@ cask 'dafont-fso-incompetent-app' do
     url 'http://dl.dafont.com/dl/?f=fso_incompetent_app'
     name 'FSO Incompetent Apprentice'
     homepage 'http://www.dafont.com/fso-incompetent-app.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FSOINCOM.TTF'
 end

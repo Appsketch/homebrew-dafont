@@ -5,7 +5,6 @@ cask 'dafont-uk-number-plate' do
     url 'http://dl.dafont.com/dl/?f=uk_number_plate'
     name 'UK Number Plate'
     homepage 'http://www.dafont.com/uk-number-plate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UKNumberPlate.ttf'
 end

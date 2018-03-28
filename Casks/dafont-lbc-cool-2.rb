@@ -5,7 +5,6 @@ cask 'dafont-lbc-cool-2' do
     url 'http://dl.dafont.com/dl/?f=lbc_cool_2'
     name 'LBC Cool 2'
     homepage 'http://www.dafont.com/lbc-cool-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LBCCOOL2.ttf'
 end

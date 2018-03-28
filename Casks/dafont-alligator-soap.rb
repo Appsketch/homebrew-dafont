@@ -5,7 +5,6 @@ cask 'dafont-alligator-soap' do
     url 'http://dl.dafont.com/dl/?f=alligator_soap'
     name 'Alligator Soap'
     homepage 'http://www.dafont.com/alligator-soap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alligator Soap Bold2a.ttf'
 end

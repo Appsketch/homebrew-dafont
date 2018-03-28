@@ -5,7 +5,6 @@ cask 'dafont-stromlinie' do
     url 'http://dl.dafont.com/dl/?f=stromlinie'
     name 'Stromlinie'
     homepage 'http://www.dafont.com/stromlinie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stromlinie-slight-webfont.ttf'
 end

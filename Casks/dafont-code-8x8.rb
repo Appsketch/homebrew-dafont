@@ -5,7 +5,6 @@ cask 'dafont-code-8x8' do
     url 'http://dl.dafont.com/dl/?f=code_8x8'
     name 'Code 8x8'
     homepage 'http://www.dafont.com/code-8x8.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Code 8x8.ttf'
 end

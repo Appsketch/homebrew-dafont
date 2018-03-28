@@ -5,7 +5,6 @@ cask 'dafont-crackdown' do
     url 'http://dl.dafont.com/dl/?f=crackdown'
     name 'Crackdown'
     homepage 'http://www.dafont.com/crackdown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crackdr2.ttf'
     font 'crkdownr.ttf'

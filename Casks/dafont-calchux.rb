@@ -5,7 +5,6 @@ cask 'dafont-calchux' do
     url 'http://dl.dafont.com/dl/?f=calchux'
     name 'CalcHux'
     homepage 'http://www.dafont.com/calchux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'calchux.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-oldnewspapertypes' do
     url 'http://dl.dafont.com/dl/?f=oldnewspapertypes'
     name 'Old Newspaper Types'
     homepage 'http://www.dafont.com/oldnewspapertypes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OldNewspaperTypes.ttf'
 end

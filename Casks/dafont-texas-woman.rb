@@ -5,7 +5,6 @@ cask 'dafont-texas-woman' do
     url 'http://dl.dafont.com/dl/?f=texas_woman'
     name 'Texas Woman'
     homepage 'http://www.dafont.com/texas-woman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Texas Woman Demo.ttf'
 end

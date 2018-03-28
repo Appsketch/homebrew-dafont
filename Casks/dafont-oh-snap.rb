@@ -5,7 +5,6 @@ cask 'dafont-oh-snap' do
     url 'http://dl.dafont.com/dl/?f=oh_snap'
     name 'Oh Snap'
     homepage 'http://www.dafont.com/oh-snap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oh_Snap.ttf'
 end

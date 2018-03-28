@@ -5,7 +5,6 @@ cask 'dafont-marketcrash' do
     url 'http://dl.dafont.com/dl/?f=marketcrash'
     name 'Market Crash'
     homepage 'http://www.dafont.com/marketcrash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MarketCrash.ttf'
 end

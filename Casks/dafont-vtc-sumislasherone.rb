@@ -5,7 +5,6 @@ cask 'dafont-vtc-sumislasherone' do
     url 'http://dl.dafont.com/dl/?f=vtc_sumislasherone'
     name 'VTC Sumi Slasher One'
     homepage 'http://www.dafont.com/vtc-sumislasherone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC-SumiSlasherOne-SC.ttf'
     font 'VTC-SumiSlasherOne.ttf'

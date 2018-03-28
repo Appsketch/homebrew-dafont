@@ -5,7 +5,6 @@ cask 'dafont-cnc-vector' do
     url 'http://dl.dafont.com/dl/?f=cnc_vector'
     name 'CNC Vector'
     homepage 'http://www.dafont.com/cnc-vector.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cnc_v.ttf'
     font 'cnc_vm.ttf'

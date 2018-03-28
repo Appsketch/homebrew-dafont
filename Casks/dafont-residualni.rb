@@ -5,7 +5,6 @@ cask 'dafont-residualni' do
     url 'http://dl.dafont.com/dl/?f=residualni'
     name 'Residu&aacute;ln&iacute;'
     homepage 'http://www.dafont.com/residualni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'residual-25p.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-icu' do
     url 'http://dl.dafont.com/dl/?f=icu'
     name 'Icu'
     homepage 'http://www.dafont.com/icu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ICU.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ciaociaofriends' do
     url 'http://dl.dafont.com/dl/?f=ciaociaofriends'
     name 'Ciao Ciao Friends'
     homepage 'http://www.dafont.com/ciaociaofriends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ciao Ciao Friends.ttf'
 end

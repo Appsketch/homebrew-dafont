@@ -5,7 +5,6 @@ cask 'dafont-universal-fruitcake' do
     url 'http://dl.dafont.com/dl/?f=universal_fruitcake'
     name 'Universal Fruitcake'
     homepage 'http://www.dafont.com/universal-fruitcake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UNIVERSALFRUITCAKE.ttf'
 end

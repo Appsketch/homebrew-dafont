@@ -5,7 +5,6 @@ cask 'dafont-double-feature' do
     url 'http://dl.dafont.com/dl/?f=double_feature'
     name 'Double Feature'
     homepage 'http://www.dafont.com/double-feature.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DoubleFeature20.ttf'
 end

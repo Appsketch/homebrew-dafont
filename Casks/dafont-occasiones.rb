@@ -5,7 +5,6 @@ cask 'dafont-occasiones' do
     url 'http://dl.dafont.com/dl/?f=occasiones'
     name 'Occasiones'
     homepage 'http://www.dafont.com/occasiones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Occasiones.ttf'
 end

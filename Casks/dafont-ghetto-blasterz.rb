@@ -5,7 +5,6 @@ cask 'dafont-ghetto-blasterz' do
     url 'http://dl.dafont.com/dl/?f=ghetto_blasterz'
     name 'Ghetto-blasterz'
     homepage 'http://www.dafont.com/ghetto-blasterz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ghetto Blasterz.ttf'
 end

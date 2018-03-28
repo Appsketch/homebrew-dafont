@@ -5,7 +5,6 @@ cask 'dafont-pin-me-needles' do
     url 'http://dl.dafont.com/dl/?f=pin_me_needles'
     name 'Pin Me Needles'
     homepage 'http://www.dafont.com/pin-me-needles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pin_me_needles.ttf'
 end

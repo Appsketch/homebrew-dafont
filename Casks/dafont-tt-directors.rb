@@ -5,7 +5,6 @@ cask 'dafont-tt-directors' do
     url 'http://dl.dafont.com/dl/?f=tt_directors'
     name 'TT Directors'
     homepage 'http://www.dafont.com/tt-directors.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TTDirectorsDEMOBL-Regular.ttf'
     font 'TTDirectorsDEMOThinRough-Thin.ttf'

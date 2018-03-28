@@ -5,7 +5,6 @@ cask 'dafont-mf-soul-meets-body' do
     url 'http://dl.dafont.com/dl/?f=mf_soul_meets_body'
     name 'MF Soul Meets Body'
     homepage 'http://www.dafont.com/mf-soul-meets-body.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Soul Meets Body.ttf'
 end

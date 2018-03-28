@@ -5,7 +5,6 @@ cask 'dafont-sable-lion' do
     url 'http://dl.dafont.com/dl/?f=sable_lion'
     name 'Sable Lion'
     homepage 'http://www.dafont.com/sable-lion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sable.ttf'
     font 'sablec.ttf'

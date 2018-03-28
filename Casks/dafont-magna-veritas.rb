@@ -5,7 +5,6 @@ cask 'dafont-magna-veritas' do
     url 'http://dl.dafont.com/dl/?f=magna_veritas'
     name 'Magna Veritas'
     homepage 'http://www.dafont.com/magna-veritas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'magnav.ttf'
 end

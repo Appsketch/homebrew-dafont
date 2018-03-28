@@ -5,7 +5,6 @@ cask 'dafont-arcade-pizzadude' do
     url 'http://dl.dafont.com/dl/?f=arcade_pizzadude'
     name 'Arcade'
     homepage 'http://www.dafont.com/arcade-pizzadude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARCADE.TTF'
 end

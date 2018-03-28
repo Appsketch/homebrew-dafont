@@ -5,7 +5,6 @@ cask 'dafont-cart-o-grapher' do
     url 'http://dl.dafont.com/dl/?f=cart_o_grapher'
     name 'Cart O Grapher'
     homepage 'http://www.dafont.com/cart-o-grapher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cartographer.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-barcode-tfb' do
     url 'http://dl.dafont.com/dl/?f=barcode_tfb'
     name 'Barcode TFB'
     homepage 'http://www.dafont.com/barcode-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BARCODE TFB.ttf'
 end

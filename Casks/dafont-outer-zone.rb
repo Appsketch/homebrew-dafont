@@ -5,7 +5,6 @@ cask 'dafont-outer-zone' do
     url 'http://dl.dafont.com/dl/?f=outer_zone'
     name 'Outer Zone'
     homepage 'http://www.dafont.com/outer-zone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Outer_zone.ttf'
 end

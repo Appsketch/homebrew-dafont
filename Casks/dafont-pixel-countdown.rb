@@ -5,7 +5,6 @@ cask 'dafont-pixel-countdown' do
     url 'http://dl.dafont.com/dl/?f=pixel_countdown'
     name 'Pixel Countdown'
     homepage 'http://www.dafont.com/pixel-countdown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel Countdown.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-line-dings-brk' do
     url 'http://dl.dafont.com/dl/?f=line_dings_brk'
     name 'Line Dings BRK'
     homepage 'http://www.dafont.com/line-dings-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lineding.ttf'
 end

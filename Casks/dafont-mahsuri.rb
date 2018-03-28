@@ -5,7 +5,6 @@ cask 'dafont-mahsuri' do
     url 'http://dl.dafont.com/dl/?f=mahsuri'
     name 'Mahsuri'
     homepage 'http://www.dafont.com/mahsuri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mahsuri Bold Italic.ttf'
     font 'Mahsuri Bold.ttf'

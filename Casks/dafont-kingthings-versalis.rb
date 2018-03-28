@@ -5,7 +5,6 @@ cask 'dafont-kingthings-versalis' do
     url 'http://dl.dafont.com/dl/?f=kingthings_versalis'
     name 'Kingthings Versalis'
     homepage 'http://www.dafont.com/kingthings-versalis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Versalis.ttf'
 end

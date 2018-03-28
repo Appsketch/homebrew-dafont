@@ -5,7 +5,6 @@ cask 'dafont-mcvincenzo' do
     url 'http://dl.dafont.com/dl/?f=mcvincenzo'
     name 'McVincenzo'
     homepage 'http://www.dafont.com/mcvincenzo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'McVincenzo.ttf'
 end

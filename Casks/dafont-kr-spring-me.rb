@@ -5,7 +5,6 @@ cask 'dafont-kr-spring-me' do
     url 'http://dl.dafont.com/dl/?f=kr_spring_me'
     name 'KR Spring Me'
     homepage 'http://www.dafont.com/kr-spring-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Spring Me Too!.ttf'
     font 'KR Spring Me.ttf'

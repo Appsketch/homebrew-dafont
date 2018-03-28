@@ -5,7 +5,6 @@ cask 'dafont-aqueous' do
     url 'http://dl.dafont.com/dl/?f=aqueous'
     name 'Aqueous'
     homepage 'http://www.dafont.com/aqueous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aqueous.ttf'
 end

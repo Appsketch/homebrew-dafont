@@ -5,7 +5,6 @@ cask 'dafont-lamebrains' do
     url 'http://dl.dafont.com/dl/?f=lamebrains'
     name 'Lamebrains'
     homepage 'http://www.dafont.com/lamebrains.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LAMEBRAINS.ttf'
 end

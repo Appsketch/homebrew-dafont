@@ -5,7 +5,6 @@ cask 'dafont-trek-disruptor-blast' do
     url 'http://dl.dafont.com/dl/?f=trek_disruptor_blast'
     name 'Trek Disruptor Blast'
     homepage 'http://www.dafont.com/trek-disruptor-blast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trek Disruptor Blast.ttf'
 end

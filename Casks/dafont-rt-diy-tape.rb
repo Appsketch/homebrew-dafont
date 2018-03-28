@@ -5,7 +5,6 @@ cask 'dafont-rt-diy-tape' do
     url 'http://dl.dafont.com/dl/?f=rt_diy_tape'
     name 'RT DIY-Tape'
     homepage 'http://www.dafont.com/rt-diy-tape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RT DIY-Tape.ttf'
 end

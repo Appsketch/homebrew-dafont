@@ -5,7 +5,6 @@ cask 'dafont-seagram-tfb' do
     url 'http://dl.dafont.com/dl/?f=seagram_tfb'
     name 'Seagram TFB'
     homepage 'http://www.dafont.com/seagram-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seagram tfb.ttf'
 end

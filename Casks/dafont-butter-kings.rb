@@ -5,7 +5,6 @@ cask 'dafont-butter-kings' do
     url 'http://dl.dafont.com/dl/?f=butter_kings'
     name 'Butter Kings'
     homepage 'http://www.dafont.com/butter-kings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Butter Kings.ttf'
 end

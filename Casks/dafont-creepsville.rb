@@ -5,7 +5,6 @@ cask 'dafont-creepsville' do
     url 'http://dl.dafont.com/dl/?f=creepsville'
     name 'Creepsville'
     homepage 'http://www.dafont.com/creepsville.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RW-creepsville.ttf'
 end

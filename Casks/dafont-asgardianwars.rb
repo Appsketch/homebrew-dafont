@@ -5,7 +5,6 @@ cask 'dafont-asgardianwars' do
     url 'http://dl.dafont.com/dl/?f=asgardianwars'
     name 'Asgardian Wars'
     homepage 'http://www.dafont.com/asgardianwars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Asgardian Wars.TTF'
 end

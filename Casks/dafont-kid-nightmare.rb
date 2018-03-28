@@ -5,7 +5,6 @@ cask 'dafont-kid-nightmare' do
     url 'http://dl.dafont.com/dl/?f=kid_nightmare'
     name 'Kid nightmare'
     homepage 'http://www.dafont.com/kid-nightmare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kid nightmare.ttf'
 end

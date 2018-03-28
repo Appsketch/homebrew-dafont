@@ -5,7 +5,6 @@ cask 'dafont-diagonal' do
     url 'http://dl.dafont.com/dl/?f=diagonal'
     name 'Diagonal'
     homepage 'http://www.dafont.com/diagonal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'diagonal.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pigpen-cipher' do
     url 'http://dl.dafont.com/dl/?f=pigpen_cipher'
     name 'Pigpen Cipher'
     homepage 'http://www.dafont.com/pigpen-cipher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PigpenCipher.otf'
 end

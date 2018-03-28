@@ -5,7 +5,6 @@ cask 'dafont-ticky-ituation' do
     url 'http://dl.dafont.com/dl/?f=ticky_ituation'
     name 'Ticky Ituation'
     homepage 'http://www.dafont.com/ticky-ituation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ticky_ituation.ttf'
 end

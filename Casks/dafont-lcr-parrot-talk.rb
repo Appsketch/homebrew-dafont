@@ -5,7 +5,6 @@ cask 'dafont-lcr-parrot-talk' do
     url 'http://dl.dafont.com/dl/?f=lcr_parrot_talk'
     name 'LCR Parrot Talk'
     homepage 'http://www.dafont.com/lcr-parrot-talk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LCR Parrot Talk.ttf'
 end

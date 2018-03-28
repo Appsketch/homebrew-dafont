@@ -5,7 +5,6 @@ cask 'dafont-jacked-eleven-highlight' do
     url 'http://dl.dafont.com/dl/?f=jacked_eleven_highlight'
     name 'Jacked Eleven Highlight'
     homepage 'http://www.dafont.com/jacked-eleven-highlight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jacked_Eleven_Highlight.ttf'
 end

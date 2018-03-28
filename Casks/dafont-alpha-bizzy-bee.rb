@@ -5,7 +5,6 @@ cask 'dafont-alpha-bizzy-bee' do
     url 'http://dl.dafont.com/dl/?f=alpha_bizzy_bee'
     name 'Alpha Bizzy Bee'
     homepage 'http://www.dafont.com/alpha-bizzy-bee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaBizzyBee.ttf'
 end

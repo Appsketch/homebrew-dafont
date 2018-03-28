@@ -5,7 +5,6 @@ cask 'dafont-absolutamente-rou-st' do
     url 'http://dl.dafont.com/dl/?f=absolutamente_rou_st'
     name 'Absolutamente Rou ST'
     homepage 'http://www.dafont.com/absolutamente-rou-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'absolutamente rou st.ttf'
 end

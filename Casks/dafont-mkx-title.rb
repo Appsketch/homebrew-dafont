@@ -5,7 +5,6 @@ cask 'dafont-mkx-title' do
     url 'http://dl.dafont.com/dl/?f=mkx_title'
     name 'MKX Title'
     homepage 'http://www.dafont.com/mkx-title.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MKX Title.ttf'
 end

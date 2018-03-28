@@ -5,7 +5,6 @@ cask 'dafont-breakable' do
     url 'http://dl.dafont.com/dl/?f=breakable'
     name 'Breakable'
     homepage 'http://www.dafont.com/breakable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Breakable.otf'
 end

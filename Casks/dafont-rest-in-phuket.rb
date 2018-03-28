@@ -5,7 +5,6 @@ cask 'dafont-rest-in-phuket' do
     url 'http://dl.dafont.com/dl/?f=rest_in_phuket'
     name 'Rest in Phuket'
     homepage 'http://www.dafont.com/rest-in-phuket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rest_in_phuket.ttf'
 end

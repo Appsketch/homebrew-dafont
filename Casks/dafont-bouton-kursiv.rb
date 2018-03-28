@@ -5,7 +5,6 @@ cask 'dafont-bouton-kursiv' do
     url 'http://dl.dafont.com/dl/?f=bouton_kursiv'
     name 'Bouton Kursiv'
     homepage 'http://www.dafont.com/bouton-kursiv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOUTON Kursiv.otf'
 end

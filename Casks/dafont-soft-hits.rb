@@ -5,7 +5,6 @@ cask 'dafont-soft-hits' do
     url 'http://dl.dafont.com/dl/?f=soft_hits'
     name 'Soft Hits'
     homepage 'http://www.dafont.com/soft-hits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SOFTHITS.TTF'
 end

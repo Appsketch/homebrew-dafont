@@ -5,7 +5,6 @@ cask 'dafont-wear-fat-shirt' do
     url 'http://dl.dafont.com/dl/?f=wear_fat_shirt'
     name 'Wear Fat Shirt'
     homepage 'http://www.dafont.com/wear-fat-shirt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WEAR FAT SHIRT_beanpole.ttf'
     font 'WEAR FAT SHIRT_slim.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-kidsans' do
     url 'http://dl.dafont.com/dl/?f=kidsans'
     name 'KidSans'
     homepage 'http://www.dafont.com/kidsans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KidSans.ttf'
 end

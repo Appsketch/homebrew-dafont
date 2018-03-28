@@ -5,7 +5,6 @@ cask 'dafont-medieval-sorcerer-o' do
     url 'http://dl.dafont.com/dl/?f=medieval_sorcerer_o'
     name 'Medieval Sorcerer Ornamental'
     homepage 'http://www.dafont.com/medieval-sorcerer-o.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Medieval_Sorcerer_Ornamental.ttf'
 end

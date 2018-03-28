@@ -5,7 +5,6 @@ cask 'dafont-denkmal' do
     url 'http://dl.dafont.com/dl/?f=denkmal'
     name 'DenkMal'
     homepage 'http://www.dafont.com/denkmal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DenkMal.ttf'
 end

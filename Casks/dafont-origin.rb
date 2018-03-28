@@ -5,7 +5,6 @@ cask 'dafont-origin' do
     url 'http://dl.dafont.com/dl/?f=origin'
     name 'Origin'
     homepage 'http://www.dafont.com/origin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Origin-Bold.ttf'
     font 'Origin-ExtraBold.ttf'

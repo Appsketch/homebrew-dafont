@@ -5,7 +5,6 @@ cask 'dafont-ogirema' do
     url 'http://dl.dafont.com/dl/?f=ogirema'
     name 'Ogirema'
     homepage 'http://www.dafont.com/ogirema.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ogirema.ttf'
     font 'OgiremaBold.ttf'

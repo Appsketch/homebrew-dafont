@@ -5,7 +5,6 @@ cask 'dafont-label-pro-xl-border' do
     url 'http://dl.dafont.com/dl/?f=label_pro_xl_border'
     name 'Label Pro XL Border'
     homepage 'http://www.dafont.com/label-pro-xl-border.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Label Pro XL Border_Demo.ttf'
 end

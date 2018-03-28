@@ -5,7 +5,6 @@ cask 'dafont-brayden-script' do
     url 'http://dl.dafont.com/dl/?f=brayden_script'
     name 'Brayden Script'
     homepage 'http://www.dafont.com/brayden-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brayden Script Regular.otf'
 end

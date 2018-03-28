@@ -5,7 +5,6 @@ cask 'dafont-entertainment' do
     url 'http://dl.dafont.com/dl/?f=entertainment'
     name 'Entertainment'
     homepage 'http://www.dafont.com/entertainment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ENTERTAINMENT.ttf'
 end

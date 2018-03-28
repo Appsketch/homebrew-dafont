@@ -5,7 +5,6 @@ cask 'dafont-grendels-mother' do
     url 'http://dl.dafont.com/dl/?f=grendels_mother'
     name 'Grendel&#039;s Mother'
     homepage 'http://www.dafont.com/grendels-mother.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grendelv2.ttf'
     font 'Grendelv2e.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-buffalo-chicken' do
     url 'http://dl.dafont.com/dl/?f=buffalo_chicken'
     name 'Buffalo Chicken'
     homepage 'http://www.dafont.com/buffalo-chicken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Buffalo Chicken.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blah' do
     url 'http://dl.dafont.com/dl/?f=blah'
     name 'Blah'
     homepage 'http://www.dafont.com/blah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Christians United.ttf'
 end

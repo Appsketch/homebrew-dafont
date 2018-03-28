@@ -5,7 +5,6 @@ cask 'dafont-this-little-piggy' do
     url 'http://dl.dafont.com/dl/?f=this_little_piggy'
     name 'This Little Piggy'
     homepage 'http://www.dafont.com/this-little-piggy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThisLittlePiggy_Condensed_Italic.ttf'
     font 'ThisLittlePiggy_Condensed.ttf'

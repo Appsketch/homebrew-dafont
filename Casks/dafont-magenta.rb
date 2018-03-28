@@ -5,7 +5,6 @@ cask 'dafont-magenta' do
     url 'http://dl.dafont.com/dl/?f=magenta'
     name 'Magenta'
     homepage 'http://www.dafont.com/magenta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Magenta.ttf'
 end

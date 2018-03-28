@@ -5,7 +5,6 @@ cask 'dafont-mygalswoopy-nf' do
     url 'http://dl.dafont.com/dl/?f=mygalswoopy_nf'
     name 'MyGalSwoopy NF'
     homepage 'http://www.dafont.com/mygalswoopy-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MYGASN__.TTF'
 end

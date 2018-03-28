@@ -5,7 +5,6 @@ cask 'dafont-mary-jane' do
     url 'http://dl.dafont.com/dl/?f=mary_jane'
     name 'Mary Jane'
     homepage 'http://www.dafont.com/mary-jane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MARYJ___.ttf'
     font 'MARYJCA_.ttf'

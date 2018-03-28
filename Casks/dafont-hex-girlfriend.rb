@@ -5,7 +5,6 @@ cask 'dafont-hex-girlfriend' do
     url 'http://dl.dafont.com/dl/?f=hex_girlfriend'
     name 'Hex Girlfriend'
     homepage 'http://www.dafont.com/hex-girlfriend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hex Girlfriend.ttf'
 end

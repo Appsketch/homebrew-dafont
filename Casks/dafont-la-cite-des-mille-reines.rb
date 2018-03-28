@@ -5,7 +5,6 @@ cask 'dafont-la-cite-des-mille-reines' do
     url 'http://dl.dafont.com/dl/?f=la_cite_des_mille_reines'
     name 'La Cit&eacute; des Mille Reines'
     homepage 'http://www.dafont.com/la-cite-des-mille-reines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'La Cit des Mille Reines.ttf'
 end

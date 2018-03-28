@@ -5,7 +5,6 @@ cask 'dafont-cf-stencilorama' do
     url 'http://dl.dafont.com/dl/?f=cf_stencilorama'
     name 'CF Stencil Orama'
     homepage 'http://www.dafont.com/cf-stencilorama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFStencilOrama.ttf'
 end

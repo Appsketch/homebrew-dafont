@@ -5,7 +5,6 @@ cask 'dafont-yum-nub-extended' do
     url 'http://dl.dafont.com/dl/?f=yum_nub_extended'
     name 'Yum Nub Extended'
     homepage 'http://www.dafont.com/yum-nub-extended.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yum nub extended.ttf'
 end

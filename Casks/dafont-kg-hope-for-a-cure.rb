@@ -5,7 +5,6 @@ cask 'dafont-kg-hope-for-a-cure' do
     url 'http://dl.dafont.com/dl/?f=kg_hope_for_a_cure'
     name 'KG Hope For A Cure'
     homepage 'http://www.dafont.com/kg-hope-for-a-cure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGHopeForACure.ttf'
 end

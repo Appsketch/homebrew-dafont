@@ -5,7 +5,6 @@ cask 'dafont-rust-never-sleeps' do
     url 'http://dl.dafont.com/dl/?f=rust_never_sleeps'
     name 'Rust never sleeps'
     homepage 'http://www.dafont.com/rust-never-sleeps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rust never sleeps.ttf'
 end

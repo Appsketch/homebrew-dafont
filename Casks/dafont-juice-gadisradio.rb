@@ -5,7 +5,6 @@ cask 'dafont-juice-gadisradio' do
     url 'http://dl.dafont.com/dl/?f=juice_gadisradio'
     name 'Juice'
     homepage 'http://www.dafont.com/juice-gadisradio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JUICE Bold Italic.ttf'
     font 'JUICE Bold.ttf'

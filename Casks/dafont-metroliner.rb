@@ -5,7 +5,6 @@ cask 'dafont-metroliner' do
     url 'http://dl.dafont.com/dl/?f=metroliner'
     name 'Metroliner'
     homepage 'http://www.dafont.com/metroliner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'metrolin.ttf'
 end

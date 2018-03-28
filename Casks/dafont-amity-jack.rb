@@ -5,7 +5,6 @@ cask 'dafont-amity-jack' do
     url 'http://dl.dafont.com/dl/?f=amity_jack'
     name 'Amity Jack'
     homepage 'http://www.dafont.com/amity-jack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amity Jack.ttf'
 end

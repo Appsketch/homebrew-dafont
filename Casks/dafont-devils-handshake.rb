@@ -5,7 +5,6 @@ cask 'dafont-devils-handshake' do
     url 'http://dl.dafont.com/dl/?f=devils_handshake'
     name 'Devil&#039;s Handshake'
     homepage 'http://www.dafont.com/devils-handshake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Devils Handshake.ttf'
 end

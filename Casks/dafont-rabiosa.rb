@@ -5,7 +5,6 @@ cask 'dafont-rabiosa' do
     url 'http://dl.dafont.com/dl/?f=rabiosa'
     name 'Rabiosa'
     homepage 'http://www.dafont.com/rabiosa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rabiosa-ffp.ttf'
 end

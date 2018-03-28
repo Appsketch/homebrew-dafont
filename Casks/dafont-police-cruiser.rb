@@ -5,7 +5,6 @@ cask 'dafont-police-cruiser' do
     url 'http://dl.dafont.com/dl/?f=police_cruiser'
     name 'Police Cruiser'
     homepage 'http://www.dafont.com/police-cruiser.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'policecruiser.ttf'
     font 'policecruiser3d.ttf'

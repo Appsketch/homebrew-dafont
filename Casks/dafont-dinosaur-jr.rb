@@ -5,7 +5,6 @@ cask 'dafont-dinosaur-jr' do
     url 'http://dl.dafont.com/dl/?f=dinosaur_jr'
     name 'Dinosaur Jr.'
     homepage 'http://www.dafont.com/dinosaur-jr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dinojp__.ttf'
 end

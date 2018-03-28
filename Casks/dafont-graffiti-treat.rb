@@ -5,7 +5,6 @@ cask 'dafont-graffiti-treat' do
     url 'http://dl.dafont.com/dl/?f=graffiti_treat'
     name 'Graffiti Treat'
     homepage 'http://www.dafont.com/graffiti-treat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'graffiti treat back.ttf'
     font 'graffiti treat front.ttf'

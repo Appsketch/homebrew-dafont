@@ -5,7 +5,6 @@ cask 'dafont-cf-spirality' do
     url 'http://dl.dafont.com/dl/?f=cf_spirality'
     name 'CF Spirality'
     homepage 'http://www.dafont.com/cf-spirality.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFSpirality-Regular.ttf'
 end

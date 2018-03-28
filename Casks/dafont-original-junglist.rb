@@ -5,7 +5,6 @@ cask 'dafont-original-junglist' do
     url 'http://dl.dafont.com/dl/?f=original_junglist'
     name 'Original Junglist'
     homepage 'http://www.dafont.com/original-junglist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Original Junglist.ttf'
 end

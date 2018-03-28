@@ -5,7 +5,6 @@ cask 'dafont-fire-of-ysgard' do
     url 'http://dl.dafont.com/dl/?f=fire_of_ysgard'
     name 'Fire Of Ysgard'
     homepage 'http://www.dafont.com/fire-of-ysgard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FOY1CND.TTF'
     font 'FOY1REG.TTF'

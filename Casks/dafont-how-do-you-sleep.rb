@@ -5,7 +5,6 @@ cask 'dafont-how-do-you-sleep' do
     url 'http://dl.dafont.com/dl/?f=how_do_you_sleep'
     name 'How do you sleep?'
     homepage 'http://www.dafont.com/how-do-you-sleep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'How do you sleep.ttf'
 end

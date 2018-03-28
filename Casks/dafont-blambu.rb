@@ -5,7 +5,6 @@ cask 'dafont-blambu' do
     url 'http://dl.dafont.com/dl/?f=blambu'
     name 'Blambu'
     homepage 'http://www.dafont.com/blambu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blambu.ttf'
 end

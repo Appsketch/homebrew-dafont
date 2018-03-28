@@ -5,7 +5,6 @@ cask 'dafont-robinhood' do
     url 'http://dl.dafont.com/dl/?f=robinhood'
     name 'Robinhood'
     homepage 'http://www.dafont.com/robinhood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Robinhood.ttf'
 end

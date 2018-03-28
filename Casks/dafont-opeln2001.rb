@@ -5,7 +5,6 @@ cask 'dafont-opeln2001' do
     url 'http://dl.dafont.com/dl/?f=opeln2001'
     name 'Opeln2001'
     homepage 'http://www.dafont.com/opeln2001.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Opeln2001 Prosty.ttf'
     font 'Opeln2001 Szeroki.ttf'

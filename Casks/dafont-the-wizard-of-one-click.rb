@@ -5,7 +5,6 @@ cask 'dafont-the-wizard-of-one-click' do
     url 'http://dl.dafont.com/dl/?f=the_wizard_of_one_click'
     name 'The Wizard of One CLick'
     homepage 'http://www.dafont.com/the-wizard-of-one-click.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Wizard of One Click.ttf'
 end

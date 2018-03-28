@@ -5,7 +5,6 @@ cask 'dafont-induction' do
     url 'http://dl.dafont.com/dl/?f=induction'
     name 'Induction'
     homepage 'http://www.dafont.com/induction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'induction.ttf'
 end

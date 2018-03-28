@@ -5,7 +5,6 @@ cask 'dafont-xxii-dont-mess-with-vikings' do
     url 'http://dl.dafont.com/dl/?f=xxii_dont_mess_with_vikings'
     name 'XXII Don&#039;t mess with Vikings'
     homepage 'http://www.dafont.com/xxii-dont-mess-with-vikings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XXII DONT MESS WITH VIKINGS.ttf'
 end

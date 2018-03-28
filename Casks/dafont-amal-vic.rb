@@ -5,7 +5,6 @@ cask 'dafont-amal-vic' do
     url 'http://dl.dafont.com/dl/?f=amal_vic'
     name 'Amal'
     homepage 'http://www.dafont.com/amal-vic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amal_Script-Bold.ttf'
     font 'Amal_Script.ttf'

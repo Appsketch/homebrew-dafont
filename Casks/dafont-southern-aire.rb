@@ -5,7 +5,6 @@ cask 'dafont-southern-aire' do
     url 'http://dl.dafont.com/dl/?f=southern_aire'
     name 'Southern Aire'
     homepage 'http://www.dafont.com/southern-aire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SouthernAire_Personal_Use_Only.ttf'
 end

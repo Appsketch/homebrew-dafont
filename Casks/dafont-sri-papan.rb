@@ -5,7 +5,6 @@ cask 'dafont-sri-papan' do
     url 'http://dl.dafont.com/dl/?f=sri_papan'
     name 'Sri Papan'
     homepage 'http://www.dafont.com/sri-papan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sri Papan.ttf'
 end

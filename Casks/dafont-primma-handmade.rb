@@ -5,7 +5,6 @@ cask 'dafont-primma-handmade' do
     url 'http://dl.dafont.com/dl/?f=primma_handmade'
     name 'Primma Handmade'
     homepage 'http://www.dafont.com/primma-handmade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'primma_handmade_dafont.ttf'
 end

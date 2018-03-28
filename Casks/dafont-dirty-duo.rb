@@ -5,7 +5,6 @@ cask 'dafont-dirty-duo' do
     url 'http://dl.dafont.com/dl/?f=dirty_duo'
     name 'Dirty Duo'
     homepage 'http://www.dafont.com/dirty-duo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dirty duo_bold italic.ttf'
     font 'dirty duo_bold.ttf'

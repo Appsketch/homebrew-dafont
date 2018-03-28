@@ -5,7 +5,6 @@ cask 'dafont-engebrechtre' do
     url 'http://dl.dafont.com/dl/?f=engebrechtre'
     name 'Engebrechtre'
     homepage 'http://www.dafont.com/engebrechtre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'engebrechtre bd it.ttf'
     font 'engebrechtre bd.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-grog-binge' do
     url 'http://dl.dafont.com/dl/?f=grog_binge'
     name 'Grog-Binge'
     homepage 'http://www.dafont.com/grog-binge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grog-Binge.ttf'
 end

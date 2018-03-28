@@ -5,7 +5,6 @@ cask 'dafont-champion-coffee-cup' do
     url 'http://dl.dafont.com/dl/?f=champion_coffee_cup'
     name 'Champion Coffee Cup'
     homepage 'http://www.dafont.com/champion-coffee-cup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'champion coffee cup.ttf'
 end

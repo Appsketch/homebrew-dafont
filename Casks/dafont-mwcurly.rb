@@ -5,7 +5,6 @@ cask 'dafont-mwcurly' do
     url 'http://dl.dafont.com/dl/?f=mwcurly'
     name 'MW Curly'
     homepage 'http://www.dafont.com/mwcurly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MWCurly.ttf'
 end

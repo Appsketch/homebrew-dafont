@@ -5,7 +5,6 @@ cask 'dafont-ark' do
     url 'http://dl.dafont.com/dl/?f=ark'
     name 'Ark'
     homepage 'http://www.dafont.com/ark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ark.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mariobros' do
     url 'http://dl.dafont.com/dl/?f=mariobros'
     name 'MarioBros'
     homepage 'http://www.dafont.com/mariobros.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mario.bros.(drunkenbatz).[fontvir.us].ttf'
 end

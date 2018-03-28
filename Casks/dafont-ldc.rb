@@ -5,7 +5,6 @@ cask 'dafont-ldc' do
     url 'http://dl.dafont.com/dl/?f=ldc'
     name 'LDC'
     homepage 'http://www.dafont.com/ldc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LDC_tribute.ttf'
 end

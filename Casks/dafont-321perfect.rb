@@ -5,7 +5,6 @@ cask 'dafont-321perfect' do
     url 'http://dl.dafont.com/dl/?f=321perfect'
     name '321 Perfect'
     homepage 'http://www.dafont.com/321perfect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '321Perfect.ttf'
 end

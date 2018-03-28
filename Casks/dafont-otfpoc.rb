@@ -5,7 +5,6 @@ cask 'dafont-otfpoc' do
     url 'http://dl.dafont.com/dl/?f=otfpoc'
     name 'Otfpoc'
     homepage 'http://www.dafont.com/otfpoc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'otfpoc.otf'
 end

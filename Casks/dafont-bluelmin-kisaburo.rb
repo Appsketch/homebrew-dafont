@@ -5,7 +5,6 @@ cask 'dafont-bluelmin-kisaburo' do
     url 'http://dl.dafont.com/dl/?f=bluelmin_kisaburo'
     name 'Bluelmin Kisaburo'
     homepage 'http://www.dafont.com/bluelmin-kisaburo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bluelmin Kisaburo Free.ttf'
 end

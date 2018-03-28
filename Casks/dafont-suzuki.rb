@@ -5,7 +5,6 @@ cask 'dafont-suzuki' do
     url 'http://dl.dafont.com/dl/?f=suzuki'
     name 'Usuzi'
     homepage 'http://www.dafont.com/suzuki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'usuzi.ttf'
     font 'usuzi3d.ttf'

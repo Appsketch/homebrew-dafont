@@ -5,7 +5,6 @@ cask 'dafont-got-no-heart' do
     url 'http://dl.dafont.com/dl/?f=got_no_heart'
     name 'Got no heart'
     homepage 'http://www.dafont.com/got-no-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'got no heart solid.ttf'
     font 'got no heart.ttf'

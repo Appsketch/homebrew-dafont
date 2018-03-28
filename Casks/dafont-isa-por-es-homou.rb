@@ -5,7 +5,6 @@ cask 'dafont-isa-por-es-homou' do
     url 'http://dl.dafont.com/dl/?f=isa_por_es_homou'
     name 'Isa Por Es Homou'
     homepage 'http://www.dafont.com/isa-por-es-homou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Isa Por Es Homou.ttf'
 end

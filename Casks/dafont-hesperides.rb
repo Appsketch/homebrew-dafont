@@ -5,7 +5,6 @@ cask 'dafont-hesperides' do
     url 'http://dl.dafont.com/dl/?f=hesperides'
     name 'Hesperides'
     homepage 'http://www.dafont.com/hesperides.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HESPD___.TTF'
 end

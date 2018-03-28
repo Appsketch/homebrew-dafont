@@ -5,7 +5,6 @@ cask 'dafont-dollop' do
     url 'http://dl.dafont.com/dl/?f=dollop'
     name 'Dollop'
     homepage 'http://www.dafont.com/dollop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dollop4.9.ttf'
 end

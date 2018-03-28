@@ -5,7 +5,6 @@ cask 'dafont-hoganmania' do
     url 'http://dl.dafont.com/dl/?f=hoganmania'
     name 'Hogan Mania'
     homepage 'http://www.dafont.com/hoganmania.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HoganMania.ttf'
 end

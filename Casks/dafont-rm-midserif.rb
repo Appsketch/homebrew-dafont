@@ -5,7 +5,6 @@ cask 'dafont-rm-midserif' do
     url 'http://dl.dafont.com/dl/?f=rm_midserif'
     name 'RM Midserif'
     homepage 'http://www.dafont.com/rm-midserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rm_midse.ttf'
 end

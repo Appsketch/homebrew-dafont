@@ -5,7 +5,6 @@ cask 'dafont-chloouioui' do
     url 'http://dl.dafont.com/dl/?f=chloouioui'
     name 'ChloOuiOui'
     homepage 'http://www.dafont.com/chloouioui.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChloOuiOui.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jumptroops' do
     url 'http://dl.dafont.com/dl/?f=jumptroops'
     name 'Jumptroops'
     homepage 'http://www.dafont.com/jumptroops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jumptroops.ttf'
     font 'jumptroops3d.ttf'

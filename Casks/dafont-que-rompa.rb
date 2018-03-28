@@ -5,7 +5,6 @@ cask 'dafont-que-rompa' do
     url 'http://dl.dafont.com/dl/?f=que_rompa'
     name 'Que Rompa'
     homepage 'http://www.dafont.com/que-rompa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Que_Rompa.otf'
 end

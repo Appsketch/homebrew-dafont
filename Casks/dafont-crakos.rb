@@ -5,7 +5,6 @@ cask 'dafont-crakos' do
     url 'http://dl.dafont.com/dl/?f=crakos'
     name 'Crakos'
     homepage 'http://www.dafont.com/crakos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crakos.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-greatmix' do
     url 'http://dl.dafont.com/dl/?f=greatmix'
     name 'Great Mix'
     homepage 'http://www.dafont.com/greatmix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreatMix.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jazz-zebra' do
     url 'http://dl.dafont.com/dl/?f=jazz_zebra'
     name 'Jazz Zebra'
     homepage 'http://www.dafont.com/jazz-zebra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jazz Zebra.ttf'
 end

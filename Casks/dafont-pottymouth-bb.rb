@@ -5,7 +5,6 @@ cask 'dafont-pottymouth-bb' do
     url 'http://dl.dafont.com/dl/?f=pottymouth_bb'
     name 'PottyMouth BB'
     homepage 'http://www.dafont.com/pottymouth-bb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pottymouthbb_reg.otf'
 end

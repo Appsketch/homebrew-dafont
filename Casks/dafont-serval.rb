@@ -5,7 +5,6 @@ cask 'dafont-serval' do
     url 'http://dl.dafont.com/dl/?f=serval'
     name 'Serval'
     homepage 'http://www.dafont.com/serval.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Serval.ttf'
 end

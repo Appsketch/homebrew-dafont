@@ -5,7 +5,6 @@ cask 'dafont-framedfraxcaps' do
     url 'http://dl.dafont.com/dl/?f=framedfraxcaps'
     name 'FramedFraxCaps'
     homepage 'http://www.dafont.com/framedfraxcaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FramedFraxCaps.ttf'
 end

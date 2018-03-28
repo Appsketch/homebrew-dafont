@@ -5,7 +5,6 @@ cask 'dafont-dpoly-block-dice' do
     url 'http://dl.dafont.com/dl/?f=dpoly_block_dice'
     name 'dPoly Block Dice'
     homepage 'http://www.dafont.com/dpoly-block-dice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dPoly Block Dice.otf'
 end

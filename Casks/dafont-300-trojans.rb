@@ -5,7 +5,6 @@ cask 'dafont-300-trojans' do
     url 'http://dl.dafont.com/dl/?f=300_trojans'
     name '300 Trojans'
     homepage 'http://www.dafont.com/300-trojans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '300trojans.ttf'
     font '300trojansc.ttf'

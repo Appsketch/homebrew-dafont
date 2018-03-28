@@ -5,7 +5,6 @@ cask 'dafont-move-along' do
     url 'http://dl.dafont.com/dl/?f=move_along'
     name 'Move Along'
     homepage 'http://www.dafont.com/move-along.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'move_along.ttf'
 end

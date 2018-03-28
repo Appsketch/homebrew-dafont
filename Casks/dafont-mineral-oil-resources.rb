@@ -5,7 +5,6 @@ cask 'dafont-mineral-oil-resources' do
     url 'http://dl.dafont.com/dl/?f=mineral_oil_resources'
     name 'Mineral Oil Resources'
     homepage 'http://www.dafont.com/mineral-oil-resources.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mineral_Oil_resources.ttf'
 end

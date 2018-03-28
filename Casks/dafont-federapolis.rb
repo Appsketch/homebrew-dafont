@@ -5,7 +5,6 @@ cask 'dafont-federapolis' do
     url 'http://dl.dafont.com/dl/?f=federapolis'
     name 'Federapolis'
     homepage 'http://www.dafont.com/federapolis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'federapolis.ttf'
     font 'federapolisb.ttf'

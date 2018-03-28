@@ -5,7 +5,6 @@ cask 'dafont-brushed-traveler' do
     url 'http://dl.dafont.com/dl/?f=brushed_traveler'
     name 'Brushed Traveler'
     homepage 'http://www.dafont.com/brushed-traveler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brushed Traveler.ttf'
 end

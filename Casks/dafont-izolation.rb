@@ -5,7 +5,6 @@ cask 'dafont-izolation' do
     url 'http://dl.dafont.com/dl/?f=izolation'
     name 'Izolation'
     homepage 'http://www.dafont.com/izolation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IZOLAT8N.TTF'
 end

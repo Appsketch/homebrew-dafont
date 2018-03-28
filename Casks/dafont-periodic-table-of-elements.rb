@@ -5,7 +5,6 @@ cask 'dafont-periodic-table-of-elements' do
     url 'http://dl.dafont.com/dl/?f=periodic_table_of_elements'
     name 'Periodic Table of Elements'
     homepage 'http://www.dafont.com/periodic-table-of-elements.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Periodic Table of Elements.ttf'
 end

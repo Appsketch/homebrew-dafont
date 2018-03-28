@@ -5,7 +5,6 @@ cask 'dafont-deadbitch' do
     url 'http://dl.dafont.com/dl/?f=deadbitch'
     name 'Dead Bitch'
     homepage 'http://www.dafont.com/deadbitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeadBitch-Regular.ttf'
 end

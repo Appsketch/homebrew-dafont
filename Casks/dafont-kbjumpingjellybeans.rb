@@ -5,7 +5,6 @@ cask 'dafont-kbjumpingjellybeans' do
     url 'http://dl.dafont.com/dl/?f=kbjumpingjellybeans'
     name 'KB Jumping Jelly beans'
     homepage 'http://www.dafont.com/kbjumpingjellybeans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBJumpingJellybeans.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-babybox' do
     url 'http://dl.dafont.com/dl/?f=babybox'
     name 'Babybox'
     homepage 'http://www.dafont.com/babybox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'babybox0.ttf'
 end

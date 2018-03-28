@@ -5,7 +5,6 @@ cask 'dafont-absoluteinvite' do
     url 'http://dl.dafont.com/dl/?f=absoluteinvite'
     name 'Absolute Invite'
     homepage 'http://www.dafont.com/absoluteinvite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AbsoluteInvite.ttf'
 end

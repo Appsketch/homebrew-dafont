@@ -5,7 +5,6 @@ cask 'dafont-kyboshed' do
     url 'http://dl.dafont.com/dl/?f=kyboshed'
     name 'Kyboshed'
     homepage 'http://www.dafont.com/kyboshed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kyboshed.ttf'
 end

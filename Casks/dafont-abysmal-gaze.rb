@@ -5,7 +5,6 @@ cask 'dafont-abysmal-gaze' do
     url 'http://dl.dafont.com/dl/?f=abysmal_gaze'
     name 'Abysmal Gaze'
     homepage 'http://www.dafont.com/abysmal-gaze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Abysmal Gaze.ttf'
 end

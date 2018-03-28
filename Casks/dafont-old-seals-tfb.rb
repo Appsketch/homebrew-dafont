@@ -5,7 +5,6 @@ cask 'dafont-old-seals-tfb' do
     url 'http://dl.dafont.com/dl/?f=old_seals_tfb'
     name 'Old Seals TFB'
     homepage 'http://www.dafont.com/old-seals-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'old seals tfb.ttf'
 end

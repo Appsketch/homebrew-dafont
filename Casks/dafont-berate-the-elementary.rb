@@ -5,7 +5,6 @@ cask 'dafont-berate-the-elementary' do
     url 'http://dl.dafont.com/dl/?f=berate_the_elementary'
     name 'Berate The Elementary'
     homepage 'http://www.dafont.com/berate-the-elementary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'berate_the_elementary.ttf'
 end

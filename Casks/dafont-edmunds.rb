@@ -5,7 +5,6 @@ cask 'dafont-edmunds' do
     url 'http://dl.dafont.com/dl/?f=edmunds'
     name 'Edmund'
     homepage 'http://www.dafont.com/edmunds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'edmunds distressed.ttf'
     font 'edmunds.ttf'

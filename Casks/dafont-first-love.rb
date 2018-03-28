@@ -5,7 +5,6 @@ cask 'dafont-first-love' do
     url 'http://dl.dafont.com/dl/?f=first_love'
     name 'First Love'
     homepage 'http://www.dafont.com/first-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'First Love.ttf'
 end

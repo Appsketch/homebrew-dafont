@@ -5,7 +5,6 @@ cask 'dafont-kreepshow-frigid' do
     url 'http://dl.dafont.com/dl/?f=kreepshow_frigid'
     name 'Kreepshow Frigid'
     homepage 'http://www.dafont.com/kreepshow-frigid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kreepshow Frigid.ttf'
 end

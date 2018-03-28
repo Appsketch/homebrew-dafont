@@ -5,7 +5,6 @@ cask 'dafont-stutzman' do
     url 'http://dl.dafont.com/dl/?f=stutzman'
     name 'Stutzman'
     homepage 'http://www.dafont.com/stutzman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stutzman.ttf'
 end

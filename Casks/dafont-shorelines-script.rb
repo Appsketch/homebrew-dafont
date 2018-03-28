@@ -5,7 +5,6 @@ cask 'dafont-shorelines-script' do
     url 'http://dl.dafont.com/dl/?f=shorelines_script'
     name 'Shorelines Script'
     homepage 'http://www.dafont.com/shorelines-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shorelines Script Bold.otf'
 end

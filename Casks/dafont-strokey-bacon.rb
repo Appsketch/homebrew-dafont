@@ -5,7 +5,6 @@ cask 'dafont-strokey-bacon' do
     url 'http://dl.dafont.com/dl/?f=strokey_bacon'
     name 'Strokey Bacon'
     homepage 'http://www.dafont.com/strokey-bacon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STROKEYB.TTF'
 end

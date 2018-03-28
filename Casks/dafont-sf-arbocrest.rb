@@ -5,7 +5,6 @@ cask 'dafont-sf-arbocrest' do
     url 'http://dl.dafont.com/dl/?f=sf_arbocrest'
     name 'SF Arbocrest'
     homepage 'http://www.dafont.com/sf-arbocrest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Arborcrest Heavy Oblique.ttf'
     font 'SF Arborcrest Heavy.ttf'

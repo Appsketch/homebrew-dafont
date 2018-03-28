@@ -5,7 +5,6 @@ cask 'dafont-kkontagion-print' do
     url 'http://dl.dafont.com/dl/?f=kkontagion_print'
     name 'Kkontagion Print'
     homepage 'http://www.dafont.com/kkontagion-print.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kkontagion print - Bold Italic.ttf'
     font 'kkontagion print - Bold.ttf'

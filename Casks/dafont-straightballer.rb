@@ -5,7 +5,6 @@ cask 'dafont-straightballer' do
     url 'http://dl.dafont.com/dl/?f=straightballer'
     name 'Straight Baller'
     homepage 'http://www.dafont.com/straightballer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StraightBaller.ttf'
 end

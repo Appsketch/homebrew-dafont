@@ -5,7 +5,6 @@ cask 'dafont-windlass' do
     url 'http://dl.dafont.com/dl/?f=windlass'
     name 'Windlass'
     homepage 'http://www.dafont.com/windlass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Windlass.ttf'
 end

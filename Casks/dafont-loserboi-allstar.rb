@@ -5,7 +5,6 @@ cask 'dafont-loserboi-allstar' do
     url 'http://dl.dafont.com/dl/?f=loserboi_allstar'
     name 'Loserboi Allstar'
     homepage 'http://www.dafont.com/loserboi-allstar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'loserboi_allstar.ttf'
 end

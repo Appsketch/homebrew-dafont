@@ -5,7 +5,6 @@ cask 'dafont-salem-ergotism' do
     url 'http://dl.dafont.com/dl/?f=salem_ergotism'
     name 'Salem Ergotism'
     homepage 'http://www.dafont.com/salem-ergotism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SalemErgotism.ttf'
 end

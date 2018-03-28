@@ -5,7 +5,6 @@ cask 'dafont-calligrafia-sara' do
     url 'http://dl.dafont.com/dl/?f=calligrafia_sara'
     name 'Calligrafia Sara'
     homepage 'http://www.dafont.com/calligrafia-sara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'calligrafia sara.ttf'
 end

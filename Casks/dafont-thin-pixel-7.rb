@@ -5,7 +5,6 @@ cask 'dafont-thin-pixel-7' do
     url 'http://dl.dafont.com/dl/?f=thin_pixel_7'
     name 'Thin Pixel-7'
     homepage 'http://www.dafont.com/thin-pixel-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thin_pixel-7.ttf'
 end

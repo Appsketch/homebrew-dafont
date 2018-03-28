@@ -5,7 +5,6 @@ cask 'dafont-olde-stencil' do
     url 'http://dl.dafont.com/dl/?f=olde_stencil'
     name 'Olde Stencil'
     homepage 'http://www.dafont.com/olde-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Olde Stencil.ttf'
 end

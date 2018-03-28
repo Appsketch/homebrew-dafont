@@ -5,7 +5,6 @@ cask 'dafont-capsies' do
     url 'http://dl.dafont.com/dl/?f=capsies'
     name 'Capsies'
     homepage 'http://www.dafont.com/capsies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'capsies.ttf'
 end

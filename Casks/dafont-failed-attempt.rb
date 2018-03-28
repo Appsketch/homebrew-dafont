@@ -5,7 +5,6 @@ cask 'dafont-failed-attempt' do
     url 'http://dl.dafont.com/dl/?f=failed_attempt'
     name 'Failed Attempt'
     homepage 'http://www.dafont.com/failed-attempt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'failed attempt.ttf'
 end

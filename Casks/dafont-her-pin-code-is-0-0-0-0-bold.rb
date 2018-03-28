@@ -5,7 +5,6 @@ cask 'dafont-her-pin-code-is-0-0-0-0-bold' do
     url 'http://dl.dafont.com/dl/?f=her_pin_code_is_0_0_0_0_bold'
     name 'Her Pin Code Is 0-0-0-0'
     homepage 'http://www.dafont.com/her-pin-code-is-0-0-0-0-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HerPinCodeIs0-0-0-0Bold.ttf'
 end

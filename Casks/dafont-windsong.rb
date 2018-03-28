@@ -5,7 +5,6 @@ cask 'dafont-windsong' do
     url 'http://dl.dafont.com/dl/?f=windsong'
     name 'Windsong'
     homepage 'http://www.dafont.com/windsong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Windsong.ttf'
 end

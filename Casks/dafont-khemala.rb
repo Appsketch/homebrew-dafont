@@ -5,7 +5,6 @@ cask 'dafont-khemala' do
     url 'http://dl.dafont.com/dl/?f=khemala'
     name 'Khemala'
     homepage 'http://www.dafont.com/khemala.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'khemala.ttf'
 end

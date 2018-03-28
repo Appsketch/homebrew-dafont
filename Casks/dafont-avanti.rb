@@ -5,7 +5,6 @@ cask 'dafont-avanti' do
     url 'http://dl.dafont.com/dl/?f=avanti'
     name 'Avanti'
     homepage 'http://www.dafont.com/avanti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Avanti Serif.ttf'
 end

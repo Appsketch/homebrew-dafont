@@ -5,7 +5,6 @@ cask 'dafont-dak-font' do
     url 'http://dl.dafont.com/dl/?f=dak_font'
     name 'Dak Font'
     homepage 'http://www.dafont.com/dak-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dak_font.ttf'
 end

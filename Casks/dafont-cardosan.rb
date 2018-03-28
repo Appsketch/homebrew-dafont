@@ -5,7 +5,6 @@ cask 'dafont-cardosan' do
     url 'http://dl.dafont.com/dl/?f=cardosan'
     name 'Cardosan'
     homepage 'http://www.dafont.com/cardosan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cardosan Bold Italic.otf'
     font 'Cardosan Bold.otf'

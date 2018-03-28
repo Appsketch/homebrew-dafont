@@ -5,7 +5,6 @@ cask 'dafont-hearts-of-lime' do
     url 'http://dl.dafont.com/dl/?f=hearts_of_lime'
     name 'Hearts of Lime'
     homepage 'http://www.dafont.com/hearts-of-lime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hearts of Lime.ttf'
 end

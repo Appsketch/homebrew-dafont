@@ -5,7 +5,6 @@ cask 'dafont-dk-carte-blanche' do
     url 'http://dl.dafont.com/dl/?f=dk_carte_blanche'
     name 'DK Carte Blanche'
     homepage 'http://www.dafont.com/dk-carte-blanche.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Carte Blanche.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-serif-neu' do
     url 'http://dl.dafont.com/dl/?f=serif_neu'
     name 'Serif Neu'
     homepage 'http://www.dafont.com/serif-neu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Serif Neu.ttf'
 end

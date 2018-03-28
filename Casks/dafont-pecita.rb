@@ -5,7 +5,6 @@ cask 'dafont-pecita' do
     url 'http://dl.dafont.com/dl/?f=pecita'
     name 'Pecita'
     homepage 'http://www.dafont.com/pecita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pecita.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ness' do
     url 'http://dl.dafont.com/dl/?f=ness'
     name 'Ness'
     homepage 'http://www.dafont.com/ness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ness.ttf'
 end

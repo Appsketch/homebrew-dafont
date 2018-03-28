@@ -5,7 +5,6 @@ cask 'dafont-beckerblacknf' do
     url 'http://dl.dafont.com/dl/?f=beckerblacknf'
     name 'Becker Black NF'
     homepage 'http://www.dafont.com/beckerblacknf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BECKBLN_.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-donner' do
     url 'http://dl.dafont.com/dl/?f=donner'
     name 'Donner'
     homepage 'http://www.dafont.com/donner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'donner.ttf'
 end

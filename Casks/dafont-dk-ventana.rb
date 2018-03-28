@@ -5,7 +5,6 @@ cask 'dafont-dk-ventana' do
     url 'http://dl.dafont.com/dl/?f=dk_ventana'
     name 'DK Ventana'
     homepage 'http://www.dafont.com/dk-ventana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Ventana.otf'
 end

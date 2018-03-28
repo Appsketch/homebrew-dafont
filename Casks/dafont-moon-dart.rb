@@ -5,7 +5,6 @@ cask 'dafont-moon-dart' do
     url 'http://dl.dafont.com/dl/?f=moon_dart'
     name 'Moon Dart'
     homepage 'http://www.dafont.com/moon-dart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'moondart.ttf'
     font 'moondart3d.ttf'

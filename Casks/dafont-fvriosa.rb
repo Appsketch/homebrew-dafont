@@ -5,7 +5,6 @@ cask 'dafont-fvriosa' do
     url 'http://dl.dafont.com/dl/?f=fvriosa'
     name 'Fvriosa'
     homepage 'http://www.dafont.com/fvriosa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fvriosa.ttf'
 end

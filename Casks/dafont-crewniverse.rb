@@ -5,7 +5,6 @@ cask 'dafont-crewniverse' do
     url 'http://dl.dafont.com/dl/?f=crewniverse'
     name 'Crewniverse'
     homepage 'http://www.dafont.com/crewniverse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crewniverse_font.otf'
 end

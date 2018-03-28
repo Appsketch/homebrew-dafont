@@ -5,7 +5,6 @@ cask 'dafont-honestly' do
     url 'http://dl.dafont.com/dl/?f=honestly'
     name 'Honestly'
     homepage 'http://www.dafont.com/honestly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'honestly.ttf'
 end

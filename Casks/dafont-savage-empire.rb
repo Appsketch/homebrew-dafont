@@ -5,7 +5,6 @@ cask 'dafont-savage-empire' do
     url 'http://dl.dafont.com/dl/?f=savage_empire'
     name 'Savage Empire'
     homepage 'http://www.dafont.com/savage-empire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Savage Empire.ttf'
 end

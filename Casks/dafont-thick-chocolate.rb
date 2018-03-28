@@ -5,7 +5,6 @@ cask 'dafont-thick-chocolate' do
     url 'http://dl.dafont.com/dl/?f=thick_chocolate'
     name 'Thick Chocolate'
     homepage 'http://www.dafont.com/thick-chocolate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thick Chocolate.TTF'
 end

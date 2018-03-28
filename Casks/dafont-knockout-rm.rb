@@ -5,7 +5,6 @@ cask 'dafont-knockout-rm' do
     url 'http://dl.dafont.com/dl/?f=knockout_rm'
     name 'Knockout'
     homepage 'http://www.dafont.com/knockout-rm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'knockout.ttf'
 end

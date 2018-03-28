@@ -5,7 +5,6 @@ cask 'dafont-osinistromanoblk' do
     url 'http://dl.dafont.com/dl/?f=osinistromanoblk'
     name 'O Sinistro mano BLK'
     homepage 'http://www.dafont.com/osinistromanoblk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OSinistromanoBLK.ttf'
 end

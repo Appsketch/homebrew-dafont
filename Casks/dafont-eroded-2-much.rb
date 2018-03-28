@@ -5,7 +5,6 @@ cask 'dafont-eroded-2-much' do
     url 'http://dl.dafont.com/dl/?f=eroded_2_much'
     name 'Eroded 2 Much'
     homepage 'http://www.dafont.com/eroded-2-much.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eroded 2 Much.ttf'
 end

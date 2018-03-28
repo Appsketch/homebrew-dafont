@@ -5,7 +5,6 @@ cask 'dafont-beyond-sky' do
     url 'http://dl.dafont.com/dl/?f=beyond_sky'
     name 'Beyond Sky'
     homepage 'http://www.dafont.com/beyond-sky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEYONDSKTRIAL.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-zoetrope' do
     url 'http://dl.dafont.com/dl/?f=zoetrope'
     name 'Zoetrope'
     homepage 'http://www.dafont.com/zoetrope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zoetrope.ttf'
 end

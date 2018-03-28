@@ -5,7 +5,6 @@ cask 'dafont-endcurled' do
     url 'http://dl.dafont.com/dl/?f=endcurled'
     name 'Endcurled'
     homepage 'http://www.dafont.com/endcurled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kkendcld.ttf'
 end

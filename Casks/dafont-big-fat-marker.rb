@@ -5,7 +5,6 @@ cask 'dafont-big-fat-marker' do
     url 'http://dl.dafont.com/dl/?f=big_fat_marker'
     name 'Big Fat Marker'
     homepage 'http://www.dafont.com/big-fat-marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Big Fat Marker.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-trapper-john' do
     url 'http://dl.dafont.com/dl/?f=trapper_john'
     name 'Trapper John'
     homepage 'http://www.dafont.com/trapper-john.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trapper john.ttf'
 end

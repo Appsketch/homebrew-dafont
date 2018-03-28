@@ -5,7 +5,6 @@ cask 'dafont-yes' do
     url 'http://dl.dafont.com/dl/?f=yes'
     name 'Yes!'
     homepage 'http://www.dafont.com/yes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YES!_3D.ttf'
     font 'YES!_3Ditalic.ttf'

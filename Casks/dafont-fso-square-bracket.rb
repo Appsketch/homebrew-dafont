@@ -5,7 +5,6 @@ cask 'dafont-fso-square-bracket' do
     url 'http://dl.dafont.com/dl/?f=fso_square_bracket'
     name 'FSO Square Bracket'
     homepage 'http://www.dafont.com/fso-square-bracket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FSOSQUAR.TTF'
 end

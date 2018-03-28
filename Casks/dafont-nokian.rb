@@ -5,7 +5,6 @@ cask 'dafont-nokian' do
     url 'http://dl.dafont.com/dl/?f=nokian'
     name 'Nokian'
     homepage 'http://www.dafont.com/nokian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nokian.ttf'
 end

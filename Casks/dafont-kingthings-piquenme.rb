@@ -5,7 +5,6 @@ cask 'dafont-kingthings-piquenme' do
     url 'http://dl.dafont.com/dl/?f=kingthings_piquenme'
     name 'Kingthings Pique&#039;n&#039;meex'
     homepage 'http://www.dafont.com/kingthings-piquenme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Pique n meex.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-camille-javal' do
     url 'http://dl.dafont.com/dl/?f=camille_javal'
     name 'Camille Javal'
     homepage 'http://www.dafont.com/camille-javal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CamilleJaval-Medium.otf'
 end

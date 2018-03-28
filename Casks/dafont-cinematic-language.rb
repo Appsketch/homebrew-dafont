@@ -5,7 +5,6 @@ cask 'dafont-cinematic-language' do
     url 'http://dl.dafont.com/dl/?f=cinematic_language'
     name 'Cinematic Language'
     homepage 'http://www.dafont.com/cinematic-language.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cinematic-Language.ttf'
 end

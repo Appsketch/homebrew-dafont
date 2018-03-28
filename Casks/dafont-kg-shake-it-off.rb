@@ -5,7 +5,6 @@ cask 'dafont-kg-shake-it-off' do
     url 'http://dl.dafont.com/dl/?f=kg_shake_it_off'
     name 'KG Shake it Off'
     homepage 'http://www.dafont.com/kg-shake-it-off.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGShakeitOff.ttf'
     font 'KGShakeitOffChunky.ttf'

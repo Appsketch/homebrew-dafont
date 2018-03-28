@@ -5,7 +5,6 @@ cask 'dafont-cm-tiempo' do
     url 'http://dl.dafont.com/dl/?f=cm_tiempo'
     name 'CM Tiempo'
     homepage 'http://www.dafont.com/cm-tiempo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CMTiempo.ttf'
 end

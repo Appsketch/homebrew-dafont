@@ -5,7 +5,6 @@ cask 'dafont-jobby' do
     url 'http://dl.dafont.com/dl/?f=jobby'
     name 'Jobby'
     homepage 'http://www.dafont.com/jobby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jobby.ttf'
 end

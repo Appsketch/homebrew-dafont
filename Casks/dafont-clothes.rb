@@ -5,7 +5,6 @@ cask 'dafont-clothes' do
     url 'http://dl.dafont.com/dl/?f=clothes'
     name 'Clothes'
     homepage 'http://www.dafont.com/clothes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clothes.ttf'
 end

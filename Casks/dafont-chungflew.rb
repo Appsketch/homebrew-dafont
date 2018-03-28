@@ -5,7 +5,6 @@ cask 'dafont-chungflew' do
     url 'http://dl.dafont.com/dl/?f=chungflew'
     name 'Chung Flew'
     homepage 'http://www.dafont.com/chungflew.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChungFlew.ttf'
 end

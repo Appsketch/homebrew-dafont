@@ -5,7 +5,6 @@ cask 'dafont-stage' do
     url 'http://dl.dafont.com/dl/?f=stage'
     name 'Stage'
     homepage 'http://www.dafont.com/stage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stage.ttf'
 end

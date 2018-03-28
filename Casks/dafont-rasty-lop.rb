@@ -5,7 +5,6 @@ cask 'dafont-rasty-lop' do
     url 'http://dl.dafont.com/dl/?f=rasty_lop'
     name 'Rasty Lop'
     homepage 'http://www.dafont.com/rasty-lop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rasty lop.ttf'
 end

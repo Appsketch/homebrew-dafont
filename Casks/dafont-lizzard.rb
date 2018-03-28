@@ -5,7 +5,6 @@ cask 'dafont-lizzard' do
     url 'http://dl.dafont.com/dl/?f=lizzard'
     name 'Lizzard'
     homepage 'http://www.dafont.com/lizzard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lizzard.TTF'
 end

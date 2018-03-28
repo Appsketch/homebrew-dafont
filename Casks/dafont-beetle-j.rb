@@ -5,7 +5,6 @@ cask 'dafont-beetle-j' do
     url 'http://dl.dafont.com/dl/?f=beetle_j'
     name 'Beetle J'
     homepage 'http://www.dafont.com/beetle-j.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEETLE.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hostias' do
     url 'http://dl.dafont.com/dl/?f=hostias'
     name 'Hostias'
     homepage 'http://www.dafont.com/hostias.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HOSTIAS.ttf'
 end

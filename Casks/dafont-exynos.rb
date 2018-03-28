@@ -5,7 +5,6 @@ cask 'dafont-exynos' do
     url 'http://dl.dafont.com/dl/?f=exynos'
     name 'Exynos'
     homepage 'http://www.dafont.com/exynos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Exynos Reflecter.ttf'
     font 'Exynos.ttf'

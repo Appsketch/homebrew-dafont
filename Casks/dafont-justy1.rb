@@ -5,7 +5,6 @@ cask 'dafont-justy1' do
     url 'http://dl.dafont.com/dl/?f=justy1'
     name 'Justy 1'
     homepage 'http://www.dafont.com/justy1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JUSTYO_7E1.ttf'
 end

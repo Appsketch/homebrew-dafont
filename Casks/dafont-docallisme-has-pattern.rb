@@ -5,7 +5,6 @@ cask 'dafont-docallisme-has-pattern' do
     url 'http://dl.dafont.com/dl/?f=docallisme_has_pattern'
     name 'Docallisme Has Pattern'
     homepage 'http://www.dafont.com/docallisme-has-pattern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOCALLISME HAS PATTERN.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vtks-lovers-italic' do
     url 'http://dl.dafont.com/dl/?f=vtks_lovers_italic'
     name 'Vtks Lovers'
     homepage 'http://www.dafont.com/vtks-lovers-italic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Lovers Italic.ttf'
 end

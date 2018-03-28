@@ -5,7 +5,6 @@ cask 'dafont-ornamental-eric' do
     url 'http://dl.dafont.com/dl/?f=ornamental_eric'
     name 'Ornamental'
     homepage 'http://www.dafont.com/ornamental-eric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ornamental.ttf'
 end

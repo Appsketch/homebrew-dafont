@@ -5,7 +5,6 @@ cask 'dafont-marcelita-sans' do
     url 'http://dl.dafont.com/dl/?f=marcelita_sans'
     name 'Marcelita Sans'
     homepage 'http://www.dafont.com/marcelita-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marcelita Sans.ttf'
 end

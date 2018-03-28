@@ -5,7 +5,6 @@ cask 'dafont-biker-from-hell' do
     url 'http://dl.dafont.com/dl/?f=biker_from_hell'
     name 'Biker From Hell'
     homepage 'http://www.dafont.com/biker-from-hell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Biker From Hell.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gtek-caverna' do
     url 'http://dl.dafont.com/dl/?f=gtek_caverna'
     name 'Gtek Caverna'
     homepage 'http://www.dafont.com/gtek-caverna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gtek Caverna.ttf'
 end

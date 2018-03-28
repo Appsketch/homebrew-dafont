@@ -5,7 +5,6 @@ cask 'dafont-lamprey' do
     url 'http://dl.dafont.com/dl/?f=lamprey'
     name 'Lamprey'
     homepage 'http://www.dafont.com/lamprey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lamprey.ttf'
     font 'lamprey3d.ttf'

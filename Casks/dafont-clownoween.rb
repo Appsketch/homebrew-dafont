@@ -5,7 +5,6 @@ cask 'dafont-clownoween' do
     url 'http://dl.dafont.com/dl/?f=clownoween'
     name 'Clownoween'
     homepage 'http://www.dafont.com/clownoween.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clownoween.ttf'
 end

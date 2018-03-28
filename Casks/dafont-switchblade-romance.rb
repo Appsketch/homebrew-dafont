@@ -5,7 +5,6 @@ cask 'dafont-switchblade-romance' do
     url 'http://dl.dafont.com/dl/?f=switchblade_romance'
     name 'VTC Switchblade Romance'
     homepage 'http://www.dafont.com/switchblade-romance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTCSwitchbladeRomance.ttf'
     font 'VTCSwitchbladeRomanceDrunk.ttf'

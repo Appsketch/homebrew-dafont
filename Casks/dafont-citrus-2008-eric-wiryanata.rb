@@ -5,7 +5,6 @@ cask 'dafont-citrus-2008-eric-wiryanata' do
     url 'http://dl.dafont.com/dl/?f=citrus_2008_eric_wiryanata'
     name 'Citrus 2008'
     homepage 'http://www.dafont.com/citrus-2008-eric-wiryanata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CITRUS7_eric_wiryanata_2008.ttf'
 end

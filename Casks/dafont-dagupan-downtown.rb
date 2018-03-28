@@ -5,7 +5,6 @@ cask 'dafont-dagupan-downtown' do
     url 'http://dl.dafont.com/dl/?f=dagupan_downtown'
     name 'Dagupan Downtown'
     homepage 'http://www.dafont.com/dagupan-downtown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dagupan Downtown.ttf'
 end

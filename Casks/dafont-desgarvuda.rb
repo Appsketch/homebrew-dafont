@@ -5,7 +5,6 @@ cask 'dafont-desgarvuda' do
     url 'http://dl.dafont.com/dl/?f=desgarvuda'
     name 'Desgarvuda'
     homepage 'http://www.dafont.com/desgarvuda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Desgarvuda.ttf'
 end

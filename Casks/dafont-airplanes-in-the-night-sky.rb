@@ -5,7 +5,6 @@ cask 'dafont-airplanes-in-the-night-sky' do
     url 'http://dl.dafont.com/dl/?f=airplanes_in_the_night_sky'
     name 'Airplanes in the Night Sky'
     homepage 'http://www.dafont.com/airplanes-in-the-night-sky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Airplanes in the Night Sky.ttf'
 end

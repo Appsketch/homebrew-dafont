@@ -5,7 +5,6 @@ cask 'dafont-floppy-disk' do
     url 'http://dl.dafont.com/dl/?f=floppy_disk'
     name 'Floppy Disk'
     homepage 'http://www.dafont.com/floppy-disk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FLOPP___.TTF'
 end

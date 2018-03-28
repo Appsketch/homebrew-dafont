@@ -5,7 +5,6 @@ cask 'dafont-bestmarker' do
     url 'http://dl.dafont.com/dl/?f=bestmarker'
     name 'Best Marker'
     homepage 'http://www.dafont.com/bestmarker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BestMarker.ttf'
 end

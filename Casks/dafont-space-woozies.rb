@@ -5,7 +5,6 @@ cask 'dafont-space-woozies' do
     url 'http://dl.dafont.com/dl/?f=space_woozies'
     name 'Space Woozies'
     homepage 'http://www.dafont.com/space-woozies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Space Woozies 3D.ttf'
     font 'SPACW___.TTF'

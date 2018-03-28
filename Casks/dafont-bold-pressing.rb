@@ -5,7 +5,6 @@ cask 'dafont-bold-pressing' do
     url 'http://dl.dafont.com/dl/?f=bold_pressing'
     name 'Bold Pressing H3'
     homepage 'http://www.dafont.com/bold-pressing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bold-Pressing-H3_demo.otf'
 end

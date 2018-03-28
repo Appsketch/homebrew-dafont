@@ -5,7 +5,6 @@ cask 'dafont-vtks-encantar' do
     url 'http://dl.dafont.com/dl/?f=vtks_encantar'
     name 'VTKS Encantar'
     homepage 'http://www.dafont.com/vtks-encantar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks encantar.ttf'
 end

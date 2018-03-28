@@ -5,7 +5,6 @@ cask 'dafont-ringo' do
     url 'http://dl.dafont.com/dl/?f=ringo'
     name 'Ringo'
     homepage 'http://www.dafont.com/ringo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ringo-Heavy.ttf'
 end

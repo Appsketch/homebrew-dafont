@@ -5,7 +5,6 @@ cask 'dafont-drop' do
     url 'http://dl.dafont.com/dl/?f=drop'
     name 'Drop!'
     homepage 'http://www.dafont.com/drop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drop!.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-amoremio' do
     url 'http://dl.dafont.com/dl/?f=amoremio'
     name 'Amore Mio'
     homepage 'http://www.dafont.com/amoremio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmoreMIO.ttf'
 end

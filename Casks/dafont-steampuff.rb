@@ -5,7 +5,6 @@ cask 'dafont-steampuff' do
     url 'http://dl.dafont.com/dl/?f=steampuff'
     name 'Steampuff'
     homepage 'http://www.dafont.com/steampuff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Steampuff Italic.otf'
     font 'Steampuff.otf'

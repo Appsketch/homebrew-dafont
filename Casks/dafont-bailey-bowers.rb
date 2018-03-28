@@ -5,7 +5,6 @@ cask 'dafont-bailey-bowers' do
     url 'http://dl.dafont.com/dl/?f=bailey_bowers'
     name 'Bailey Bowers'
     homepage 'http://www.dafont.com/bailey-bowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bailey Bowers.ttf'
 end

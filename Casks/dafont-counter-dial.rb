@@ -5,7 +5,6 @@ cask 'dafont-counter-dial' do
     url 'http://dl.dafont.com/dl/?f=counter_dial'
     name 'Counter-Dial'
     homepage 'http://www.dafont.com/counter-dial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Counter-Dial.ttf'
 end

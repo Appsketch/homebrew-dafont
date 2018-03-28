@@ -5,7 +5,6 @@ cask 'dafont-music-warrior' do
     url 'http://dl.dafont.com/dl/?f=music_warrior'
     name 'Music Warrior'
     homepage 'http://www.dafont.com/music-warrior.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Music Warrior.ttf'
 end

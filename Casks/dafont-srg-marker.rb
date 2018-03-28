@@ -5,7 +5,6 @@ cask 'dafont-srg-marker' do
     url 'http://dl.dafont.com/dl/?f=srg_marker'
     name 'SRG Marker'
     homepage 'http://www.dafont.com/srg-marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SRG_MARKER.ttf'
 end

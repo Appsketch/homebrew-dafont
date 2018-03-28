@@ -5,7 +5,6 @@ cask 'dafont-hff-bird-stencil' do
     url 'http://dl.dafont.com/dl/?f=hff_bird_stencil'
     name 'HFF Bird Stencil'
     homepage 'http://www.dafont.com/hff-bird-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Bird Stencil.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-austin-nichols' do
     url 'http://dl.dafont.com/dl/?f=austin_nichols'
     name 'Austin Nichols'
     homepage 'http://www.dafont.com/austin-nichols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AustinNichols.otf'
 end

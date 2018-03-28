@@ -5,7 +5,6 @@ cask 'dafont-buggedbit' do
     url 'http://dl.dafont.com/dl/?f=buggedbit'
     name 'Bugged Bit'
     homepage 'http://www.dafont.com/buggedbit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BuggedBit.ttf'
 end

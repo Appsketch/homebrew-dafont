@@ -5,7 +5,6 @@ cask 'dafont-heroes-assemble-dingbats' do
     url 'http://dl.dafont.com/dl/?f=heroes_assemble_dingbats'
     name 'Heroes Assemble Dingbats'
     homepage 'http://www.dafont.com/heroes-assemble-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'heroesassembledings.ttf'
 end

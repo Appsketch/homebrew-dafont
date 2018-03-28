@@ -5,7 +5,6 @@ cask 'dafont-eyesis' do
     url 'http://dl.dafont.com/dl/?f=eyesis'
     name 'Eyesis'
     homepage 'http://www.dafont.com/eyesis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EYESIS__.TTF'
 end

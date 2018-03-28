@@ -5,7 +5,6 @@ cask 'dafont-india-snake-pixel-labyrinth-game' do
     url 'http://dl.dafont.com/dl/?f=india_snake_pixel_labyrinth_game'
     name 'India Snake Pixel Labyrinth Game'
     homepage 'http://www.dafont.com/india-snake-pixel-labyrinth-game.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'india snake pixel labyrinth game_3d.otf'
     font 'india snake pixel labyrinth game_bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-miamishades' do
     url 'http://dl.dafont.com/dl/?f=miamishades'
     name 'Miami Shades'
     homepage 'http://www.dafont.com/miamishades.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiamiShades.ttf'
 end

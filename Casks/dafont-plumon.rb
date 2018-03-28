@@ -5,7 +5,6 @@ cask 'dafont-plumon' do
     url 'http://dl.dafont.com/dl/?f=plumon'
     name 'Plumon'
     homepage 'http://www.dafont.com/plumon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'plumon cp1.ttf'
 end

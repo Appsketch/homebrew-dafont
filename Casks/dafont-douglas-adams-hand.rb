@@ -5,7 +5,6 @@ cask 'dafont-douglas-adams-hand' do
     url 'http://dl.dafont.com/dl/?f=douglas_adams_hand'
     name 'Douglas Adams Hand'
     homepage 'http://www.dafont.com/douglas-adams-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dnahand.ttf'
 end

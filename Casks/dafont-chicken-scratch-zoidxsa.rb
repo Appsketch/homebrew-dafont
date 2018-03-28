@@ -5,7 +5,6 @@ cask 'dafont-chicken-scratch-zoidxsa' do
     url 'http://dl.dafont.com/dl/?f=chicken_scratch_zoidxsa'
     name 'Chicken Scratch'
     homepage 'http://www.dafont.com/chicken-scratch-zoidxsa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chicken Scratch.ttf'
 end

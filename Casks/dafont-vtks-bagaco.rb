@@ -5,7 +5,6 @@ cask 'dafont-vtks-bagaco' do
     url 'http://dl.dafont.com/dl/?f=vtks_bagaco'
     name 'Vtks Baga&ccedil;o'
     homepage 'http://www.dafont.com/vtks-bagaco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks bagao.ttf'
 end

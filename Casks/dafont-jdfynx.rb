@@ -5,7 +5,6 @@ cask 'dafont-jdfynx' do
     url 'http://dl.dafont.com/dl/?f=jdfynx'
     name 'JD Fynx'
     homepage 'http://www.dafont.com/jdfynx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JDFynx.ttf'
 end

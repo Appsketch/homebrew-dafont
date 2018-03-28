@@ -5,7 +5,6 @@ cask 'dafont-hff-ribbon' do
     url 'http://dl.dafont.com/dl/?f=hff_ribbon'
     name 'HFF Ribbon'
     homepage 'http://www.dafont.com/hff-ribbon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Ribbon.ttf'
 end

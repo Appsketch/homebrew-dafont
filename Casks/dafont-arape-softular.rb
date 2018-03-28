@@ -5,7 +5,6 @@ cask 'dafont-arape-softular' do
     url 'http://dl.dafont.com/dl/?f=arape_softular'
     name 'aRape Softular'
     homepage 'http://www.dafont.com/arape-softular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aRape_sof.ttf'
 end

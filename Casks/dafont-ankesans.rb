@@ -5,7 +5,6 @@ cask 'dafont-ankesans' do
     url 'http://dl.dafont.com/dl/?f=ankesans'
     name 'AnkeSans'
     homepage 'http://www.dafont.com/ankesans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnkeSans.ttf'
 end

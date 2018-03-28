@@ -5,7 +5,6 @@ cask 'dafont-cartoon-bones' do
     url 'http://dl.dafont.com/dl/?f=cartoon_bones'
     name 'Cartoon Bones'
     homepage 'http://www.dafont.com/cartoon-bones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cartoon Bones.ttf'
 end

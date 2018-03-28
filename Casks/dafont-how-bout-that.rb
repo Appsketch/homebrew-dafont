@@ -5,7 +5,6 @@ cask 'dafont-how-bout-that' do
     url 'http://dl.dafont.com/dl/?f=how_bout_that'
     name 'How Bout That'
     homepage 'http://www.dafont.com/how-bout-that.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'How Bout That.ttf'
 end

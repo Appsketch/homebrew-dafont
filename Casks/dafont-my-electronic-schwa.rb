@@ -5,7 +5,6 @@ cask 'dafont-my-electronic-schwa' do
     url 'http://dl.dafont.com/dl/?f=my_electronic_schwa'
     name 'My Electronic Schwabach'
     homepage 'http://www.dafont.com/my-electronic-schwa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MyElectronicSchwabach.ttf'
 end

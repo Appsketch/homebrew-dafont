@@ -5,7 +5,6 @@ cask 'dafont-doors' do
     url 'http://dl.dafont.com/dl/?f=doors'
     name 'Densmore'
     homepage 'http://www.dafont.com/doors.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'densmore.ttf'
 end

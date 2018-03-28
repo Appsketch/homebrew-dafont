@@ -5,7 +5,6 @@ cask 'dafont-friskyvampire' do
     url 'http://dl.dafont.com/dl/?f=friskyvampire'
     name 'Frisky Vampire'
     homepage 'http://www.dafont.com/friskyvampire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FriskyVampire.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djb-sissy' do
     url 'http://dl.dafont.com/dl/?f=djb_sissy'
     name 'DJB Sissy'
     homepage 'http://www.dafont.com/djb-sissy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Sissy.ttf'
 end

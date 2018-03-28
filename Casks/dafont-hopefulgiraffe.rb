@@ -5,7 +5,6 @@ cask 'dafont-hopefulgiraffe' do
     url 'http://dl.dafont.com/dl/?f=hopefulgiraffe'
     name 'Hopeful Giraffe'
     homepage 'http://www.dafont.com/hopefulgiraffe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HopefulGiraffe-Demo.otf'
 end

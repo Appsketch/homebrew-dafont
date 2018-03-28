@@ -5,7 +5,6 @@ cask 'dafont-back-to-black' do
     url 'http://dl.dafont.com/dl/?f=back_to_black'
     name 'Back to Black'
     homepage 'http://www.dafont.com/back-to-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Back to Black Demo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-milk-run' do
     url 'http://dl.dafont.com/dl/?f=milk_run'
     name 'Milk Run'
     homepage 'http://www.dafont.com/milk-run.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'milkrun.ttf'
 end

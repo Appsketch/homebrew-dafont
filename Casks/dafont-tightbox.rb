@@ -5,7 +5,6 @@ cask 'dafont-tightbox' do
     url 'http://dl.dafont.com/dl/?f=tightbox'
     name 'TightBox'
     homepage 'http://www.dafont.com/tightbox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TightBox.ttf'
 end

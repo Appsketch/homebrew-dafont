@@ -5,7 +5,6 @@ cask 'dafont-spook' do
     url 'http://dl.dafont.com/dl/?f=spook'
     name 'Spook'
     homepage 'http://www.dafont.com/spook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spook.ttf'
 end

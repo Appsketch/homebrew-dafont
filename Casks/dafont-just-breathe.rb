@@ -5,7 +5,6 @@ cask 'dafont-just-breathe' do
     url 'http://dl.dafont.com/dl/?f=just_breathe'
     name 'Just Breathe'
     homepage 'http://www.dafont.com/just-breathe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustBreathe.otf'
     font 'JustBreatheBd.otf'

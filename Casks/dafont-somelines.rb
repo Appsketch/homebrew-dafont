@@ -5,7 +5,6 @@ cask 'dafont-somelines' do
     url 'http://dl.dafont.com/dl/?f=somelines'
     name 'Some Lines'
     homepage 'http://www.dafont.com/somelines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SomeLines.ttf'
 end

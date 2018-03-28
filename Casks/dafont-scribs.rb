@@ -5,7 +5,6 @@ cask 'dafont-scribs' do
     url 'http://dl.dafont.com/dl/?f=scribs'
     name 'Scribs'
     homepage 'http://www.dafont.com/scribs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scribs.ttf'
 end

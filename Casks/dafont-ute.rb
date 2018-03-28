@@ -5,7 +5,6 @@ cask 'dafont-ute' do
     url 'http://dl.dafont.com/dl/?f=ute'
     name 'Ute'
     homepage 'http://www.dafont.com/ute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ute-Regular.ttf'
 end

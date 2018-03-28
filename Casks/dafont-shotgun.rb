@@ -5,7 +5,6 @@ cask 'dafont-shotgun' do
     url 'http://dl.dafont.com/dl/?f=shotgun'
     name 'Shotgun'
     homepage 'http://www.dafont.com/shotgun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shotgun&aelig;.ttf'
 end

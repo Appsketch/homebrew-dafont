@@ -5,7 +5,6 @@ cask 'dafont-drakoheart-revofit' do
     url 'http://dl.dafont.com/dl/?f=drakoheart_revofit'
     name 'Drakoheart Revofit Solid'
     homepage 'http://www.dafont.com/drakoheart-revofit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drakoheart Revofit Solid.ttf'
 end

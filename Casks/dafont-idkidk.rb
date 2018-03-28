@@ -5,7 +5,6 @@ cask 'dafont-idkidk' do
     url 'http://dl.dafont.com/dl/?f=idkidk'
     name 'Idkidk'
     homepage 'http://www.dafont.com/idkidk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'idkidk.ttf'
 end

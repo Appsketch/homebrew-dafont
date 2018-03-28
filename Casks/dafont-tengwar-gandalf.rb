@@ -5,7 +5,6 @@ cask 'dafont-tengwar-gandalf' do
     url 'http://dl.dafont.com/dl/?f=tengwar_gandalf'
     name 'Tengwar Gandalf'
     homepage 'http://www.dafont.com/tengwar-gandalf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TENGWAR.TTF'
 end

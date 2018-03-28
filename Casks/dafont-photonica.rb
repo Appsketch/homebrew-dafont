@@ -5,7 +5,6 @@ cask 'dafont-photonica' do
     url 'http://dl.dafont.com/dl/?f=photonica'
     name 'Photonica'
     homepage 'http://www.dafont.com/photonica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Photonica_regular.ttf'
     font 'Photonica_straight.ttf'

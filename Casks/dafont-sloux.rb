@@ -5,7 +5,6 @@ cask 'dafont-sloux' do
     url 'http://dl.dafont.com/dl/?f=sloux'
     name 'Sloux'
     homepage 'http://www.dafont.com/sloux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sloux-Italic.ttf'
 end

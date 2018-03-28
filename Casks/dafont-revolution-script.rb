@@ -5,7 +5,6 @@ cask 'dafont-revolution-script' do
     url 'http://dl.dafont.com/dl/?f=revolution_script'
     name 'Revolution Script'
     homepage 'http://www.dafont.com/revolution-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Revolution_Script.ttf'
 end

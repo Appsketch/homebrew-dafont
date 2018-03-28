@@ -5,7 +5,6 @@ cask 'dafont-doc-nimbus-bats' do
     url 'http://dl.dafont.com/dl/?f=doc_nimbus_bats'
     name 'Doc Nimbus Bats'
     homepage 'http://www.dafont.com/doc-nimbus-bats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOCNB___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mtf-jotted' do
     url 'http://dl.dafont.com/dl/?f=mtf_jotted'
     name 'MTF Jotted'
     homepage 'http://www.dafont.com/mtf-jotted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Jotted.ttf'
 end

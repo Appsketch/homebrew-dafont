@@ -5,7 +5,6 @@ cask 'dafont-cabaretvoltaire' do
     url 'http://dl.dafont.com/dl/?f=cabaretvoltaire'
     name 'Cabaret Voltaire'
     homepage 'http://www.dafont.com/cabaretvoltaire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cabaret_voltaire.ttf'
 end

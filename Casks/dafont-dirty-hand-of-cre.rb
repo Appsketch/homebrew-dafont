@@ -5,7 +5,6 @@ cask 'dafont-dirty-hand-of-cre' do
     url 'http://dl.dafont.com/dl/?f=dirty_hand_of_cre'
     name 'Dirty Hand Of Cre'
     homepage 'http://www.dafont.com/dirty-hand-of-cre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dirty_hand_of_cre.ttf'
 end

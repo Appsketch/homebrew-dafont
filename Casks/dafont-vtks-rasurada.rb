@@ -5,7 +5,6 @@ cask 'dafont-vtks-rasurada' do
     url 'http://dl.dafont.com/dl/?f=vtks_rasurada'
     name 'VTKS Rasurada'
     homepage 'http://www.dafont.com/vtks-rasurada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS RASURADA.ttf'
 end

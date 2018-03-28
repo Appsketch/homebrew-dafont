@@ -5,7 +5,6 @@ cask 'dafont-slab-tall-x' do
     url 'http://dl.dafont.com/dl/?f=slab_tall_x'
     name 'Slab Tall X'
     homepage 'http://www.dafont.com/slab-tall-x.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SlabTallX-Medium.ttf'
     font 'SlabTallX.ttf'

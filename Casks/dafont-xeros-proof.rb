@@ -5,7 +5,6 @@ cask 'dafont-xeros-proof' do
     url 'http://dl.dafont.com/dl/?f=xeros_proof'
     name 'Xero&#039;s Proof'
     homepage 'http://www.dafont.com/xeros-proof.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xeros_proof.ttf'
 end

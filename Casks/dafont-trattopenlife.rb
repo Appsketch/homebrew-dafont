@@ -5,7 +5,6 @@ cask 'dafont-trattopenlife' do
     url 'http://dl.dafont.com/dl/?f=trattopenlife'
     name 'Trattopenlife'
     homepage 'http://www.dafont.com/trattopenlife.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trattopenlife.ttf'
 end

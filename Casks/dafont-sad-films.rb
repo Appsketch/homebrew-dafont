@@ -5,7 +5,6 @@ cask 'dafont-sad-films' do
     url 'http://dl.dafont.com/dl/?f=sad_films'
     name 'Sad Films'
     homepage 'http://www.dafont.com/sad-films.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sad films.ttf'
 end

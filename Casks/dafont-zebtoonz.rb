@@ -5,7 +5,6 @@ cask 'dafont-zebtoonz' do
     url 'http://dl.dafont.com/dl/?f=zebtoonz'
     name 'Zebtoonz'
     homepage 'http://www.dafont.com/zebtoonz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zebtoonz_b.ttf'
     font 'Zebtoonz_n.ttf'

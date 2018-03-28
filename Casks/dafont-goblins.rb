@@ -5,7 +5,6 @@ cask 'dafont-goblins' do
     url 'http://dl.dafont.com/dl/?f=goblins'
     name 'Goblins'
     homepage 'http://www.dafont.com/goblins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'goblins_.ttf'
 end

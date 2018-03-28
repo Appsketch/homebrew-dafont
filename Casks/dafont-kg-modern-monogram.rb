@@ -5,7 +5,6 @@ cask 'dafont-kg-modern-monogram' do
     url 'http://dl.dafont.com/dl/?f=kg_modern_monogram'
     name 'KG Modern Monogram'
     homepage 'http://www.dafont.com/kg-modern-monogram.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGModernMonogram.ttf'
     font 'KGModernMonogramPlain.ttf'

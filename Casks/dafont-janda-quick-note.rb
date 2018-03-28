@@ -5,7 +5,6 @@ cask 'dafont-janda-quick-note' do
     url 'http://dl.dafont.com/dl/?f=janda_quick_note'
     name 'Janda Quick Note'
     homepage 'http://www.dafont.com/janda-quick-note.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaQuickNote.ttf'
 end

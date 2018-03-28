@@ -5,7 +5,6 @@ cask 'dafont-cubic-sub' do
     url 'http://dl.dafont.com/dl/?f=cubic_sub'
     name 'Cubic Sub'
     homepage 'http://www.dafont.com/cubic-sub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CubicSub.ttf'
 end

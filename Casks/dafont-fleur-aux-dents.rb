@@ -5,7 +5,6 @@ cask 'dafont-fleur-aux-dents' do
     url 'http://dl.dafont.com/dl/?f=fleur_aux_dents'
     name 'Fleur Aux Dents'
     homepage 'http://www.dafont.com/fleur-aux-dents.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'La Fleur Aux Dents.ttf'
 end

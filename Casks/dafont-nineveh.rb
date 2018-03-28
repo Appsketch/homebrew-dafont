@@ -5,7 +5,6 @@ cask 'dafont-nineveh' do
     url 'http://dl.dafont.com/dl/?f=nineveh'
     name 'Nineveh'
     homepage 'http://www.dafont.com/nineveh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nineveh-regular-1.0.otf'
 end

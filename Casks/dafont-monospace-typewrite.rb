@@ -5,7 +5,6 @@ cask 'dafont-monospace-typewrite' do
     url 'http://dl.dafont.com/dl/?f=monospace_typewrite'
     name 'Monospace Typewriter'
     homepage 'http://www.dafont.com/monospace-typewrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MonospaceTypewriter.ttf'
 end

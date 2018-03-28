@@ -5,7 +5,6 @@ cask 'dafont-poppin-pills' do
     url 'http://dl.dafont.com/dl/?f=poppin_pills'
     name 'Poppin Pills'
     homepage 'http://www.dafont.com/poppin-pills.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'poppin_pills.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kbsourdoughbread' do
     url 'http://dl.dafont.com/dl/?f=kbsourdoughbread'
     name 'KB Sourdough Bread'
     homepage 'http://www.dafont.com/kbsourdoughbread.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBSourdoughBread.ttf'
 end

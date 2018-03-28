@@ -5,7 +5,6 @@ cask 'dafont-sml-fat-marker' do
     url 'http://dl.dafont.com/dl/?f=sml_fat_marker'
     name 'SML Fat Marker'
     homepage 'http://www.dafont.com/sml-fat-marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SMLFATMARKER.ttf'
 end

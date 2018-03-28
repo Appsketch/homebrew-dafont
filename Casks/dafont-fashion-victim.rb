@@ -5,7 +5,6 @@ cask 'dafont-fashion-victim' do
     url 'http://dl.dafont.com/dl/?f=fashion_victim'
     name 'Fashion Victim'
     homepage 'http://www.dafont.com/fashion-victim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FASHIONV.TTF'
 end

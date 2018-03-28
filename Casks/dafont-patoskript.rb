@@ -5,7 +5,6 @@ cask 'dafont-patoskript' do
     url 'http://dl.dafont.com/dl/?f=patoskript'
     name 'Patoskript'
     homepage 'http://www.dafont.com/patoskript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Patoskript.ttf'
 end

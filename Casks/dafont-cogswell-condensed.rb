@@ -5,7 +5,6 @@ cask 'dafont-cogswell-condensed' do
     url 'http://dl.dafont.com/dl/?f=cogswell_condensed'
     name 'Cogswell Condensed'
     homepage 'http://www.dafont.com/cogswell-condensed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CogswellCondensed-Regular.ttf'
 end

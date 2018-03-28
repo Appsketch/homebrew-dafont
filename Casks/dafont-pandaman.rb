@@ -5,7 +5,6 @@ cask 'dafont-pandaman' do
     url 'http://dl.dafont.com/dl/?f=pandaman'
     name 'Pandaman'
     homepage 'http://www.dafont.com/pandaman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pandaman.ttf'
 end

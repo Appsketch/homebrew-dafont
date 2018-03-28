@@ -5,7 +5,6 @@ cask 'dafont-fueled-by-schlitz' do
     url 'http://dl.dafont.com/dl/?f=fueled_by_schlitz'
     name 'Fueled by Schlitz'
     homepage 'http://www.dafont.com/fueled-by-schlitz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FBS.ttf'
 end

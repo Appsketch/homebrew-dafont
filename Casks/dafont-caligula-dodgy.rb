@@ -5,7 +5,6 @@ cask 'dafont-caligula-dodgy' do
     url 'http://dl.dafont.com/dl/?f=caligula_dodgy'
     name 'Caligula Dodgy'
     homepage 'http://www.dafont.com/caligula-dodgy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CALID___.TTF'
 end

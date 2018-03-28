@@ -5,7 +5,6 @@ cask 'dafont-pis-coffins-and-ghosts' do
     url 'http://dl.dafont.com/dl/?f=pis_coffins_and_ghosts'
     name 'PiS Coffins and Ghosts'
     homepage 'http://www.dafont.com/pis-coffins-and-ghosts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PiScoffinsandghosts.otf'
 end

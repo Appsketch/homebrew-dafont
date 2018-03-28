@@ -5,7 +5,6 @@ cask 'dafont-assign' do
     url 'http://dl.dafont.com/dl/?f=assign'
     name 'Assign'
     homepage 'http://www.dafont.com/assign.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASSIGN__.TTF'
 end

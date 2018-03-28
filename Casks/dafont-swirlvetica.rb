@@ -5,7 +5,6 @@ cask 'dafont-swirlvetica' do
     url 'http://dl.dafont.com/dl/?f=swirlvetica'
     name 'Swirlvetica'
     homepage 'http://www.dafont.com/swirlvetica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swirlvetica.ttf'
 end

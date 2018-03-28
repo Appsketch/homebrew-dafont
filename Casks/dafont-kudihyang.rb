@@ -5,7 +5,6 @@ cask 'dafont-kudihyang' do
     url 'http://dl.dafont.com/dl/?f=kudihyang'
     name 'Kudihyang'
     homepage 'http://www.dafont.com/kudihyang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kudihyang-Regular 5.ttf'
 end

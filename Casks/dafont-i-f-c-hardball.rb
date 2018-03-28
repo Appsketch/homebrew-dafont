@@ -5,7 +5,6 @@ cask 'dafont-i-f-c-hardball' do
     url 'http://dl.dafont.com/dl/?f=i_f_c_hardball'
     name 'IFC Hardball'
     homepage 'http://www.dafont.com/i-f-c-hardball.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I.F.C. HARDBALL.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rickles' do
     url 'http://dl.dafont.com/dl/?f=rickles'
     name 'Rickles'
     homepage 'http://www.dafont.com/rickles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rickles.ttf'
 end

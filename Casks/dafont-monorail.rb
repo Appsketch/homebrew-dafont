@@ -5,7 +5,6 @@ cask 'dafont-monorail' do
     url 'http://dl.dafont.com/dl/?f=monorail'
     name 'Monorail'
     homepage 'http://www.dafont.com/monorail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monorail.ttf'
 end

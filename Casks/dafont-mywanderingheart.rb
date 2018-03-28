@@ -5,7 +5,6 @@ cask 'dafont-mywanderingheart' do
     url 'http://dl.dafont.com/dl/?f=mywanderingheart'
     name 'My Wandering Heart'
     homepage 'http://www.dafont.com/mywanderingheart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mywanderingheart.ttf'
 end

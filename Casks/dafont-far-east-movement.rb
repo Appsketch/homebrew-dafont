@@ -5,7 +5,6 @@ cask 'dafont-far-east-movement' do
     url 'http://dl.dafont.com/dl/?f=far_east_movement'
     name 'Far East Movement'
     homepage 'http://www.dafont.com/far-east-movement.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FarEastMovement-Regular.ttf'
 end

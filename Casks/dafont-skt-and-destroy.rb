@@ -5,7 +5,6 @@ cask 'dafont-skt-and-destroy' do
     url 'http://dl.dafont.com/dl/?f=skt_and_destroy'
     name 'Skt and Destroy'
     homepage 'http://www.dafont.com/skt-and-destroy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SKTAN___.otf'
 end

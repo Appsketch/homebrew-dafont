@@ -5,7 +5,6 @@ cask 'dafont-pusab' do
     url 'http://dl.dafont.com/dl/?f=pusab'
     name 'Pusab'
     homepage 'http://www.dafont.com/pusab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PUSAB___.TTF'
 end

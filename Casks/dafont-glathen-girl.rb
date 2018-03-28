@@ -5,7 +5,6 @@ cask 'dafont-glathen-girl' do
     url 'http://dl.dafont.com/dl/?f=glathen_girl'
     name 'Glathen Girl'
     homepage 'http://www.dafont.com/glathen-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Glathen Girl.ttf'
 end

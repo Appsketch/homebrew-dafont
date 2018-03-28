@@ -5,7 +5,6 @@ cask 'dafont-nillies-love-letters' do
     url 'http://dl.dafont.com/dl/?f=nillies_love_letters'
     name 'Nillie&#039;s Love Letters'
     homepage 'http://www.dafont.com/nillies-love-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nillies LoveLetters.ttf'
 end

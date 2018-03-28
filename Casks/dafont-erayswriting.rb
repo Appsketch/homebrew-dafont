@@ -5,7 +5,6 @@ cask 'dafont-erayswriting' do
     url 'http://dl.dafont.com/dl/?f=erayswriting'
     name 'Erays Writing'
     homepage 'http://www.dafont.com/erayswriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EraysWriting.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-computer-aid' do
     url 'http://dl.dafont.com/dl/?f=computer_aid'
     name 'Computer Aid'
     homepage 'http://www.dafont.com/computer-aid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Computer Aid - Bold - Dker.ttf'
     font 'Computer Aid - Condensed - Dker.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-five-cents' do
     url 'http://dl.dafont.com/dl/?f=five_cents'
     name 'Five Cents'
     homepage 'http://www.dafont.com/five-cents.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fivecent.ttf'
 end

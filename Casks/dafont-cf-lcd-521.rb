@@ -5,7 +5,6 @@ cask 'dafont-cf-lcd-521' do
     url 'http://dl.dafont.com/dl/?f=cf_lcd_521'
     name 'CF LCD 521'
     homepage 'http://www.dafont.com/cf-lcd-521.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFLCD-Regular.ttf'
 end

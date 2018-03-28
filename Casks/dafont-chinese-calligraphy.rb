@@ -5,7 +5,6 @@ cask 'dafont-chinese-calligraphy' do
     url 'http://dl.dafont.com/dl/?f=chinese_calligraphy'
     name 'Chinese Calligraphy'
     homepage 'http://www.dafont.com/chinese-calligraphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chinese Calligraphy.ttf'
 end

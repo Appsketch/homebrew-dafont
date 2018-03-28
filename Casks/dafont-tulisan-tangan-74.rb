@@ -5,7 +5,6 @@ cask 'dafont-tulisan-tangan-74' do
     url 'http://dl.dafont.com/dl/?f=tulisan_tangan_74'
     name 'Tulisan Tangan 74'
     homepage 'http://www.dafont.com/tulisan-tangan-74.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tulisan Tangan 74 Italic.otf'
     font 'Tulisan Tangan 74 Regular.otf'

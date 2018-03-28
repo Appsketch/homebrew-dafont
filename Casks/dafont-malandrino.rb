@@ -5,7 +5,6 @@ cask 'dafont-malandrino' do
     url 'http://dl.dafont.com/dl/?f=malandrino'
     name 'Malandrino'
     homepage 'http://www.dafont.com/malandrino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Malandrino-bold.ttf'
     font 'Malandrino-regular.ttf'

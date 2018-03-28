@@ -5,7 +5,6 @@ cask 'dafont-kelt-caps-freehand' do
     url 'http://dl.dafont.com/dl/?f=kelt_caps_freehand'
     name 'Kelt Caps Freehand'
     homepage 'http://www.dafont.com/kelt-caps-freehand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kelt Caps Freehand.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-psuedo-saudi' do
     url 'http://dl.dafont.com/dl/?f=psuedo_saudi'
     name 'Psuedo Saudi'
     homepage 'http://www.dafont.com/psuedo-saudi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PSAUDI5.TTF'
 end

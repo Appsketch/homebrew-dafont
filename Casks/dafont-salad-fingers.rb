@@ -5,7 +5,6 @@ cask 'dafont-salad-fingers' do
     url 'http://dl.dafont.com/dl/?f=salad_fingers'
     name 'Salad Fingers'
     homepage 'http://www.dafont.com/salad-fingers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'saladfingers.ttf'
 end

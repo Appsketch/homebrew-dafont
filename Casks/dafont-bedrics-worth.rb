@@ -5,7 +5,6 @@ cask 'dafont-bedrics-worth' do
     url 'http://dl.dafont.com/dl/?f=bedrics_worth'
     name 'Bedric&#039;s Worth'
     homepage 'http://www.dafont.com/bedrics-worth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bedric&#039;s Worth.ttf'
 end

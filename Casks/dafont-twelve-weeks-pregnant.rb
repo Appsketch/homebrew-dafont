@@ -5,7 +5,6 @@ cask 'dafont-twelve-weeks-pregnant' do
     url 'http://dl.dafont.com/dl/?f=twelve_weeks_pregnant'
     name 'Twelve Weeks Pregnant'
     homepage 'http://www.dafont.com/twelve-weeks-pregnant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TwelveWeeksPregnant.ttf'
 end

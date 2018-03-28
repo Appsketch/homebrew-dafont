@@ -5,7 +5,6 @@ cask 'dafont-the-innocent-face' do
     url 'http://dl.dafont.com/dl/?f=the_innocent_face'
     name 'The Innocent Face'
     homepage 'http://www.dafont.com/the-innocent-face.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the innocent face.ttf'
 end

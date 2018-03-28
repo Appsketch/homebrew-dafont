@@ -5,7 +5,6 @@ cask 'dafont-redkost-comic' do
     url 'http://dl.dafont.com/dl/?f=redkost_comic'
     name 'Redkost Comic'
     homepage 'http://www.dafont.com/redkost-comic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Redkost.otf'
 end

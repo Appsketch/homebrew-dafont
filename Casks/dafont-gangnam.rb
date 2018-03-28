@@ -5,7 +5,6 @@ cask 'dafont-gangnam' do
     url 'http://dl.dafont.com/dl/?f=gangnam'
     name 'Gangnam'
     homepage 'http://www.dafont.com/gangnam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gangnam.ttf'
 end

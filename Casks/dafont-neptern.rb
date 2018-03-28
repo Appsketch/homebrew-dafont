@@ -5,7 +5,6 @@ cask 'dafont-neptern' do
     url 'http://dl.dafont.com/dl/?f=neptern'
     name 'Neptern'
     homepage 'http://www.dafont.com/neptern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neptern Harbour Free.ttf'
 end

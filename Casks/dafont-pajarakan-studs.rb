@@ -5,7 +5,6 @@ cask 'dafont-pajarakan-studs' do
     url 'http://dl.dafont.com/dl/?f=pajarakan_studs'
     name 'Pajarakan Studs'
     homepage 'http://www.dafont.com/pajarakan-studs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pajarakan Studs.otf'
 end

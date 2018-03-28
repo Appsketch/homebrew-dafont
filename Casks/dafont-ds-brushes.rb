@@ -5,7 +5,6 @@ cask 'dafont-ds-brushes' do
     url 'http://dl.dafont.com/dl/?f=ds_brushes'
     name 'DS Brushes'
     homepage 'http://www.dafont.com/ds-brushes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DSBrushs.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tudy1311' do
     url 'http://dl.dafont.com/dl/?f=tudy1311'
     name 'Tudy 1311'
     homepage 'http://www.dafont.com/tudy1311.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tudy1311.otf'
 end

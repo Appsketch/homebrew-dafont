@@ -5,7 +5,6 @@ cask 'dafont-azalleia-ornaments-free' do
     url 'http://dl.dafont.com/dl/?f=azalleia_ornaments_free'
     name 'Azalleia Ornaments'
     homepage 'http://www.dafont.com/azalleia-ornaments-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Azalleia Ornaments Free.ttf'
 end

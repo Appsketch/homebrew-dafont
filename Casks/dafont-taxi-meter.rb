@@ -5,7 +5,6 @@ cask 'dafont-taxi-meter' do
     url 'http://dl.dafont.com/dl/?f=taxi_meter'
     name 'Taxi Meter'
     homepage 'http://www.dafont.com/taxi-meter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'taximeter.ttf'
 end

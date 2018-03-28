@@ -5,7 +5,6 @@ cask 'dafont-psycho' do
     url 'http://dl.dafont.com/dl/?f=psycho'
     name 'Psycho'
     homepage 'http://www.dafont.com/psycho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Psycho Bold Italic.otf'
     font 'Psycho Bold.otf'

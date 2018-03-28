@@ -5,7 +5,6 @@ cask 'dafont-metrolox' do
     url 'http://dl.dafont.com/dl/?f=metrolox'
     name 'Metrolox'
     homepage 'http://www.dafont.com/metrolox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'METROLOX.ttf'
 end

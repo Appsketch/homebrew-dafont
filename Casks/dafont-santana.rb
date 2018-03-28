@@ -5,7 +5,6 @@ cask 'dafont-santana' do
     url 'http://dl.dafont.com/dl/?f=santana'
     name 'Santana'
     homepage 'http://www.dafont.com/santana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Santana-Black.ttf'
     font 'Santana-BlackCondensed.ttf'

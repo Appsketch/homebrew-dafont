@@ -5,7 +5,6 @@ cask 'dafont-sprawl' do
     url 'http://dl.dafont.com/dl/?f=sprawl'
     name 'Sprawl'
     homepage 'http://www.dafont.com/sprawl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sprawl.ttf'
     font 'SprawlSlim.ttf'

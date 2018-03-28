@@ -5,7 +5,6 @@ cask 'dafont-plaster-of-paris' do
     url 'http://dl.dafont.com/dl/?f=plaster_of_paris'
     name 'Plaster of Paris'
     homepage 'http://www.dafont.com/plaster-of-paris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plaster of Paris.ttf'
 end

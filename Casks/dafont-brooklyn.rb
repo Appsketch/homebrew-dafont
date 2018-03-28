@@ -5,7 +5,6 @@ cask 'dafont-brooklyn' do
     url 'http://dl.dafont.com/dl/?f=brooklyn'
     name 'Brooklyn'
     homepage 'http://www.dafont.com/brooklyn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brooklyn.ttf'
 end

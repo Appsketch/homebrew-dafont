@@ -5,7 +5,6 @@ cask 'dafont-dreamdaddy' do
     url 'http://dl.dafont.com/dl/?f=dreamdaddy'
     name 'Dream Daddy'
     homepage 'http://www.dafont.com/dreamdaddy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DreamDaddy-Regular.ttf'
 end

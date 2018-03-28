@@ -5,7 +5,6 @@ cask 'dafont-kr-floral-color-me' do
     url 'http://dl.dafont.com/dl/?f=kr_floral_color_me'
     name 'KR Floral Color Me'
     homepage 'http://www.dafont.com/kr-floral-color-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Floral Color Me 2.ttf'
     font 'KR Floral Color Me.ttf'

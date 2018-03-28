@@ -5,7 +5,6 @@ cask 'dafont-magicial-game' do
     url 'http://dl.dafont.com/dl/?f=magicial_game'
     name 'Magicial Game'
     homepage 'http://www.dafont.com/magicial-game.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'magicial_game.ttf'
 end

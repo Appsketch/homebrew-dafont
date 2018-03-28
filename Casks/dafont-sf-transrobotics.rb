@@ -5,7 +5,6 @@ cask 'dafont-sf-transrobotics' do
     url 'http://dl.dafont.com/dl/?f=sf_transrobotics'
     name 'SF Transrobotics'
     homepage 'http://www.dafont.com/sf-transrobotics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF TransRobotics Bold Italic.ttf'
     font 'SF TransRobotics Bold.ttf'

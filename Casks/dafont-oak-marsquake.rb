@@ -5,7 +5,6 @@ cask 'dafont-oak-marsquake' do
     url 'http://dl.dafont.com/dl/?f=oak_marsquake'
     name 'Oak Marsquake'
     homepage 'http://www.dafont.com/oak-marsquake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oak-Marsquake.ttf'
 end

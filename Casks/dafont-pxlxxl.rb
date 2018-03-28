@@ -5,7 +5,6 @@ cask 'dafont-pxlxxl' do
     url 'http://dl.dafont.com/dl/?f=pxlxxl'
     name 'Pxlxxl'
     homepage 'http://www.dafont.com/pxlxxl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pxlxxl.ttf'
 end

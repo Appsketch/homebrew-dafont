@@ -5,7 +5,6 @@ cask 'dafont-comic-spans' do
     url 'http://dl.dafont.com/dl/?f=comic_spans'
     name 'Comic Spans'
     homepage 'http://www.dafont.com/comic-spans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comic Spans.otf'
 end

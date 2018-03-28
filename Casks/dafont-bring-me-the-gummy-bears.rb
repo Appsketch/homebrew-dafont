@@ -5,7 +5,6 @@ cask 'dafont-bring-me-the-gummy-bears' do
     url 'http://dl.dafont.com/dl/?f=bring_me_the_gummy_bears'
     name 'Bring me the gummy bears'
     homepage 'http://www.dafont.com/bring-me-the-gummy-bears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bring_me_the_gummy_bears.ttf'
 end

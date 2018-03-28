@@ -5,7 +5,6 @@ cask 'dafont-struct-destruct-serif' do
     url 'http://dl.dafont.com/dl/?f=struct_destruct_serif'
     name 'Struct Destruct Serif'
     homepage 'http://www.dafont.com/struct-destruct-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'structdestruct_serif_32.ttf'
 end

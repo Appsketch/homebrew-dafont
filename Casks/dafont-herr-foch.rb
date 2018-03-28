@@ -5,7 +5,6 @@ cask 'dafont-herr-foch' do
     url 'http://dl.dafont.com/dl/?f=herr_foch'
     name 'HerrFoch'
     homepage 'http://www.dafont.com/herr-foch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HerrFoch Gradient.ttf'
     font 'HerrFoch Trash.ttf'

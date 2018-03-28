@@ -5,7 +5,6 @@ cask 'dafont-written-in-the-stars' do
     url 'http://dl.dafont.com/dl/?f=written_in_the_stars'
     name 'Written in the Stars'
     homepage 'http://www.dafont.com/written-in-the-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WrittenInTheStars.ttf'
 end

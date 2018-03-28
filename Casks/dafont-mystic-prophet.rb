@@ -5,7 +5,6 @@ cask 'dafont-mystic-prophet' do
     url 'http://dl.dafont.com/dl/?f=mystic_prophet'
     name 'Mystic Prophet'
     homepage 'http://www.dafont.com/mystic-prophet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MYSTP___.TTF'
 end

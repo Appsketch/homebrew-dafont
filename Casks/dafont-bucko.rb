@@ -5,7 +5,6 @@ cask 'dafont-bucko' do
     url 'http://dl.dafont.com/dl/?f=bucko'
     name 'Bucko'
     homepage 'http://www.dafont.com/bucko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bucko Std Regular.otf'
 end

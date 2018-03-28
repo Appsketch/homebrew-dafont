@@ -5,7 +5,6 @@ cask 'dafont-send-me-a-postcard' do
     url 'http://dl.dafont.com/dl/?f=send_me_a_postcard'
     name 'Send me a postcard'
     homepage 'http://www.dafont.com/send-me-a-postcard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Send me a postcard.ttf'
 end

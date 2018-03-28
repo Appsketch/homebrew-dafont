@@ -5,7 +5,6 @@ cask 'dafont-leafy' do
     url 'http://dl.dafont.com/dl/?f=leafy'
     name 'Leafy'
     homepage 'http://www.dafont.com/leafy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Leafy Glade.ttf'
     font 'Leafy Shade.ttf'

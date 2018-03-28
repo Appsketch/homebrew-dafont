@@ -5,7 +5,6 @@ cask 'dafont-raja-drama' do
     url 'http://dl.dafont.com/dl/?f=raja_drama'
     name 'Raja Drama'
     homepage 'http://www.dafont.com/raja-drama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RajaDrama.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-death-to-smudgey' do
     url 'http://dl.dafont.com/dl/?f=death_to_smudgey'
     name 'Death To Smudgey'
     homepage 'http://www.dafont.com/death-to-smudgey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deat.ttf'
 end

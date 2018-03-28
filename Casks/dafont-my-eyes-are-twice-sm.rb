@@ -5,7 +5,6 @@ cask 'dafont-my-eyes-are-twice-sm' do
     url 'http://dl.dafont.com/dl/?f=my_eyes_are_twice_sm'
     name 'My Eyes Are Twice'
     homepage 'http://www.dafont.com/my-eyes-are-twice-sm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MY_EYES_ARE_TWICE.ttf'
 end

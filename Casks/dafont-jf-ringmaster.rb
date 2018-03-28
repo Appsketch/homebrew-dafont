@@ -5,7 +5,6 @@ cask 'dafont-jf-ringmaster' do
     url 'http://dl.dafont.com/dl/?f=jf_ringmaster'
     name 'JF Ringmaster'
     homepage 'http://www.dafont.com/jf-ringmaster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JFRingmaster.ttf'
 end

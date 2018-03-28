@@ -5,7 +5,6 @@ cask 'dafont-trocadero' do
     url 'http://dl.dafont.com/dl/?f=trocadero'
     name 'Trocadero'
     homepage 'http://www.dafont.com/trocadero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TROCADER.TTF'
 end

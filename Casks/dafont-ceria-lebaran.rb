@@ -5,7 +5,6 @@ cask 'dafont-ceria-lebaran' do
     url 'http://dl.dafont.com/dl/?f=ceria_lebaran'
     name 'Ceria Lebaran'
     homepage 'http://www.dafont.com/ceria-lebaran.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ceria Lebaran.otf'
 end

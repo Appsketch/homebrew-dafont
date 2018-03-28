@@ -5,7 +5,6 @@ cask 'dafont-gesture-sans-points' do
     url 'http://dl.dafont.com/dl/?f=gesture_sans_points'
     name 'Gesture Sans/Points'
     homepage 'http://www.dafont.com/gesture-sans-points.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gesture Points.ttf'
     font 'Gesture Sans.ttf'

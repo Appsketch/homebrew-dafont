@@ -5,7 +5,6 @@ cask 'dafont-streamway-compact' do
     url 'http://dl.dafont.com/dl/?f=streamway_compact'
     name 'Streamway Compact'
     homepage 'http://www.dafont.com/streamway-compact.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Streamway_Compact_Font.ttf'
 end

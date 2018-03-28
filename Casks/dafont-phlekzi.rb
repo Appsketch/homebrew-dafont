@@ -5,7 +5,6 @@ cask 'dafont-phlekzi' do
     url 'http://dl.dafont.com/dl/?f=phlekzi'
     name 'Phlekzi'
     homepage 'http://www.dafont.com/phlekzi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phlekzi.ttf'
 end

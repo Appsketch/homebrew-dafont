@@ -5,7 +5,6 @@ cask 'dafont-graf' do
     url 'http://dl.dafont.com/dl/?f=graf'
     name 'Graf'
     homepage 'http://www.dafont.com/graf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRAFBB__.TTF'
     font 'GRAFC___.TTF'

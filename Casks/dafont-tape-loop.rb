@@ -5,7 +5,6 @@ cask 'dafont-tape-loop' do
     url 'http://dl.dafont.com/dl/?f=tape_loop'
     name 'Tape Loop'
     homepage 'http://www.dafont.com/tape-loop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TAPELOOP.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-deliciousfrosting' do
     url 'http://dl.dafont.com/dl/?f=deliciousfrosting'
     name 'Delicious Frosting'
     homepage 'http://www.dafont.com/deliciousfrosting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeliciousFrosting.ttf'
 end

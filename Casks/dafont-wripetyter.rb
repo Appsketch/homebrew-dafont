@@ -5,7 +5,6 @@ cask 'dafont-wripetyter' do
     url 'http://dl.dafont.com/dl/?f=wripetyter'
     name 'Wripetyter'
     homepage 'http://www.dafont.com/wripetyter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wripetyter.ttf'
 end

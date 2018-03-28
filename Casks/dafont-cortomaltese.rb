@@ -5,7 +5,6 @@ cask 'dafont-cortomaltese' do
     url 'http://dl.dafont.com/dl/?f=cortomaltese'
     name 'Corto Maltese'
     homepage 'http://www.dafont.com/cortomaltese.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CortoMaltese.ttf'
 end

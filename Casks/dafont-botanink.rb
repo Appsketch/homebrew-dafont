@@ -5,7 +5,6 @@ cask 'dafont-botanink' do
     url 'http://dl.dafont.com/dl/?f=botanink'
     name 'Botanink'
     homepage 'http://www.dafont.com/botanink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'botanink.ttf'
 end

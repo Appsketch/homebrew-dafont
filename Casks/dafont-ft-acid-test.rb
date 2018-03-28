@@ -5,7 +5,6 @@ cask 'dafont-ft-acid-test' do
     url 'http://dl.dafont.com/dl/?f=ft_acid_test'
     name 'FT Acid Test'
     homepage 'http://www.dafont.com/ft-acid-test.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTACTprogDemo.TTF'
     font 'FTACTregDemo.TTF'

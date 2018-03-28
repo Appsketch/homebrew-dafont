@@ -5,7 +5,6 @@ cask 'dafont-brava-novella' do
     url 'http://dl.dafont.com/dl/?f=brava_novella'
     name 'Brava Novella'
     homepage 'http://www.dafont.com/brava-novella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brava novella it..otf'
     font 'brava novella.otf'

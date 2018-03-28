@@ -5,7 +5,6 @@ cask 'dafont-chunky-bar' do
     url 'http://dl.dafont.com/dl/?f=chunky_bar'
     name 'Chunky Bar'
     homepage 'http://www.dafont.com/chunky-bar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHUNKY BAR.ttf'
 end

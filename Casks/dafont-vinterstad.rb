@@ -5,7 +5,6 @@ cask 'dafont-vinterstad' do
     url 'http://dl.dafont.com/dl/?f=vinterstad'
     name 'Vinterstad'
     homepage 'http://www.dafont.com/vinterstad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vinterstad.ttf'
 end

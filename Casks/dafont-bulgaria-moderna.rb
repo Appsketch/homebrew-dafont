@@ -5,7 +5,6 @@ cask 'dafont-bulgaria-moderna' do
     url 'http://dl.dafont.com/dl/?f=bulgaria_moderna'
     name 'Bulgaria Moderna'
     homepage 'http://www.dafont.com/bulgaria-moderna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bulgaria Moderna Pro.otf'
 end

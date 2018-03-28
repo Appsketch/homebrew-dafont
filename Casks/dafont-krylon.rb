@@ -5,7 +5,6 @@ cask 'dafont-krylon' do
     url 'http://dl.dafont.com/dl/?f=krylon'
     name 'Krylon'
     homepage 'http://www.dafont.com/krylon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'krylg___.ttf'
 end

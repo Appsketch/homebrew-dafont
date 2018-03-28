@@ -5,7 +5,6 @@ cask 'dafont-kbcurioussoul' do
     url 'http://dl.dafont.com/dl/?f=kbcurioussoul'
     name 'KB Curious Soul'
     homepage 'http://www.dafont.com/kbcurioussoul.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBCuriousSoul.ttf'
 end

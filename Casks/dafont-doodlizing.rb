@@ -5,7 +5,6 @@ cask 'dafont-doodlizing' do
     url 'http://dl.dafont.com/dl/?f=doodlizing'
     name 'Doodlizing'
     homepage 'http://www.dafont.com/doodlizing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doodlizing.ttf'
 end

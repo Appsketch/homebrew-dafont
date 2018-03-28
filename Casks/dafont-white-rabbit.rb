@@ -5,7 +5,6 @@ cask 'dafont-white-rabbit' do
     url 'http://dl.dafont.com/dl/?f=white_rabbit'
     name 'White Rabbit'
     homepage 'http://www.dafont.com/white-rabbit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'whitrabt.ttf'
 end

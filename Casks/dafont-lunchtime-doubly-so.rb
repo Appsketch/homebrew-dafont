@@ -5,7 +5,6 @@ cask 'dafont-lunchtime-doubly-so' do
     url 'http://dl.dafont.com/dl/?f=lunchtime_doubly_so'
     name 'Lunchtime Doubly So'
     homepage 'http://www.dafont.com/lunchtime-doubly-so.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lunchds.ttf'
 end

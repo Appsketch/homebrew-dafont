@@ -5,7 +5,6 @@ cask 'dafont-regothic' do
     url 'http://dl.dafont.com/dl/?f=regothic'
     name 'Regothic'
     homepage 'http://www.dafont.com/regothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Regothic Medieval.ttf'
 end

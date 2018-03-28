@@ -5,7 +5,6 @@ cask 'dafont-tomasz-skowronski' do
     url 'http://dl.dafont.com/dl/?f=tomasz_skowronski'
     name 'Tomasz Skowronski'
     homepage 'http://www.dafont.com/tomasz-skowronski.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TomaszSkowronski.ttf'
 end

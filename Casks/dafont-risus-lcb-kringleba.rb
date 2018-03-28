@@ -5,7 +5,6 @@ cask 'dafont-risus-lcb-kringleba' do
     url 'http://dl.dafont.com/dl/?f=risus_lcb_kringleba'
     name 'Risus LCB Kringlebats'
     homepage 'http://www.dafont.com/risus-lcb-kringleba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Risus LCB Kringlebats.ttf'
 end

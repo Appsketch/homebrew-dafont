@@ -5,7 +5,6 @@ cask 'dafont-martel' do
     url 'http://dl.dafont.com/dl/?f=martel'
     name 'Martel'
     homepage 'http://www.dafont.com/martel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'martel.ttf'
 end

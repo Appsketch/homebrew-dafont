@@ -5,7 +5,6 @@ cask 'dafont-punched-stub' do
     url 'http://dl.dafont.com/dl/?f=punched_stub'
     name 'Punched Stub'
     homepage 'http://www.dafont.com/punched-stub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PUNCH.TTF'
 end

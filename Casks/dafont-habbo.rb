@@ -5,7 +5,6 @@ cask 'dafont-habbo' do
     url 'http://dl.dafont.com/dl/?f=habbo'
     name 'Habbo'
     homepage 'http://www.dafont.com/habbo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HabboFont.ttf'
 end

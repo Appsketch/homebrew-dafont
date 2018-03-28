@@ -5,7 +5,6 @@ cask 'dafont-aez-dots' do
     url 'http://dl.dafont.com/dl/?f=aez_dots'
     name 'AEZ Dots'
     homepage 'http://www.dafont.com/aez-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AEZdots.ttf'
 end

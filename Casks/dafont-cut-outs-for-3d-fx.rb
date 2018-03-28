@@ -5,7 +5,6 @@ cask 'dafont-cut-outs-for-3d-fx' do
     url 'http://dl.dafont.com/dl/?f=cut_outs_for_3d_fx'
     name 'Cut Outs for 3D FX'
     homepage 'http://www.dafont.com/cut-outs-for-3d-fx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cutouts.ttf'
     font 'cutouts2.ttf'

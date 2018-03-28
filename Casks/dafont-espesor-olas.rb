@@ -5,7 +5,6 @@ cask 'dafont-espesor-olas' do
     url 'http://dl.dafont.com/dl/?f=espesor_olas'
     name 'Espesor Olas'
     homepage 'http://www.dafont.com/espesor-olas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EspesorOlas1.ttf'
     font 'EspesorOlas2.ttf'

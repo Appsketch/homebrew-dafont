@@ -5,7 +5,6 @@ cask 'dafont-venus-furs' do
     url 'http://dl.dafont.com/dl/?f=venus_furs'
     name 'Venus Furs'
     homepage 'http://www.dafont.com/venus-furs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Venus Furs.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-alido' do
     url 'http://dl.dafont.com/dl/?f=alido'
     name 'Alido'
     homepage 'http://www.dafont.com/alido.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alido.otf'
 end

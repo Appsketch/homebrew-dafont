@@ -5,7 +5,6 @@ cask 'dafont-hapynes' do
     url 'http://dl.dafont.com/dl/?f=hapynes'
     name 'Hapynes'
     homepage 'http://www.dafont.com/hapynes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hapynes-Regular.ttf'
 end

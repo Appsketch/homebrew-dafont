@@ -5,7 +5,6 @@ cask 'dafont-blur' do
     url 'http://dl.dafont.com/dl/?f=blur'
     name 'Blur'
     homepage 'http://www.dafont.com/blur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blur.ttf'
 end

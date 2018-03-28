@@ -5,7 +5,6 @@ cask 'dafont-cf-font-shading' do
     url 'http://dl.dafont.com/dl/?f=cf_font_shading'
     name 'CF Font Shading'
     homepage 'http://www.dafont.com/cf-font-shading.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFFontShading-Regular.ttf'
 end

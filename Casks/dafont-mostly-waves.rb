@@ -5,7 +5,6 @@ cask 'dafont-mostly-waves' do
     url 'http://dl.dafont.com/dl/?f=mostly_waves'
     name 'Mostly Waves'
     homepage 'http://www.dafont.com/mostly-waves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOW_____.TTF'
 end

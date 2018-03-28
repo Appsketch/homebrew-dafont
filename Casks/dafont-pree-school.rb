@@ -5,7 +5,6 @@ cask 'dafont-pree-school' do
     url 'http://dl.dafont.com/dl/?f=pree_school'
     name 'Pree-school'
     homepage 'http://www.dafont.com/pree-school.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pree-school.ttf'
 end

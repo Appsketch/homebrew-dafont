@@ -5,7 +5,6 @@ cask 'dafont-falling-skies' do
     url 'http://dl.dafont.com/dl/?f=falling_skies'
     name 'Falling Skies'
     homepage 'http://www.dafont.com/falling-skies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FALLING SKIES.ttf'
 end

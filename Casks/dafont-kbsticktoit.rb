@@ -5,7 +5,6 @@ cask 'dafont-kbsticktoit' do
     url 'http://dl.dafont.com/dl/?f=kbsticktoit'
     name 'KB Stick to It'
     homepage 'http://www.dafont.com/kbsticktoit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBSticktoIt.ttf'
 end

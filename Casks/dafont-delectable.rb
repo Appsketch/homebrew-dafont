@@ -5,7 +5,6 @@ cask 'dafont-delectable' do
     url 'http://dl.dafont.com/dl/?f=delectable'
     name 'Delectable'
     homepage 'http://www.dafont.com/delectable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'delectable.ttf'
 end

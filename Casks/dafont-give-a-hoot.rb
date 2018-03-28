@@ -5,7 +5,6 @@ cask 'dafont-give-a-hoot' do
     url 'http://dl.dafont.com/dl/?f=give_a_hoot'
     name 'Give A Hoot'
     homepage 'http://www.dafont.com/give-a-hoot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GiveAHoot.otf'
     font 'GiveAHootBd.otf'

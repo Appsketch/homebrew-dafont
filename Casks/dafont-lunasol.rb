@@ -5,7 +5,6 @@ cask 'dafont-lunasol' do
     url 'http://dl.dafont.com/dl/?f=lunasol'
     name 'Lunasol'
     homepage 'http://www.dafont.com/lunasol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lunasol aurora.ttf'
     font 'lunasol eclipse.ttf'

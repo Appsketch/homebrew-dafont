@@ -5,7 +5,6 @@ cask 'dafont-bitstream-vera-seri' do
     url 'http://dl.dafont.com/dl/?f=bitstream_vera_seri'
     name 'Bitstream Vera Serif'
     homepage 'http://www.dafont.com/bitstream-vera-seri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VeraSe.ttf'
     font 'VeraSeBd.ttf'

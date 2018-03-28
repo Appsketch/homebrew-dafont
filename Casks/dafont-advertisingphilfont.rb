@@ -5,7 +5,6 @@ cask 'dafont-advertisingphilfont' do
     url 'http://dl.dafont.com/dl/?f=advertisingphilfont'
     name 'Advertisingphilfont'
     homepage 'http://www.dafont.com/advertisingphilfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'advertisingphilfont-1.ttf'
 end

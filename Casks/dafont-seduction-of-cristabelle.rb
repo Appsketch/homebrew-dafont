@@ -5,7 +5,6 @@ cask 'dafont-seduction-of-cristabelle' do
     url 'http://dl.dafont.com/dl/?f=seduction_of_cristabelle'
     name 'Seduction of Cristabelle'
     homepage 'http://www.dafont.com/seduction-of-cristabelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seduction of Cristabelle.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djb-chicken-skratchez' do
     url 'http://dl.dafont.com/dl/?f=djb_chicken_skratchez'
     name 'DJB Chicken Skratchez'
     homepage 'http://www.dafont.com/djb-chicken-skratchez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Chicken Skratchez.ttf'
 end

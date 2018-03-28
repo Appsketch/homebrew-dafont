@@ -5,7 +5,6 @@ cask 'dafont-slushfaux' do
     url 'http://dl.dafont.com/dl/?f=slushfaux'
     name 'Slushfaux'
     homepage 'http://www.dafont.com/slushfaux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'slushfaux.TTF'
     font 'slushfauxunion.TTF'

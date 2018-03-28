@@ -5,7 +5,6 @@ cask 'dafont-mn-darkriver' do
     url 'http://dl.dafont.com/dl/?f=mn_darkriver'
     name 'MN Darkriver'
     homepage 'http://www.dafont.com/mn-darkriver.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MN DARKRIVER.ttf'
 end

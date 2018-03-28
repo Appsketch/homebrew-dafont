@@ -5,7 +5,6 @@ cask 'dafont-quite-blunt' do
     url 'http://dl.dafont.com/dl/?f=quite_blunt'
     name 'Quite Blunt'
     homepage 'http://www.dafont.com/quite-blunt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUITE.TTF'
 end

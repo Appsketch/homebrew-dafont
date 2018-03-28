@@ -5,7 +5,6 @@ cask 'dafont-afont' do
     url 'http://dl.dafont.com/dl/?f=afont'
     name '!Afont'
     homepage 'http://www.dafont.com/afont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '!AFONT LIGHT PERSONAL USE__.otf'
 end

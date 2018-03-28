@@ -5,7 +5,6 @@ cask 'dafont-jack-skellingtonbats' do
     url 'http://dl.dafont.com/dl/?f=jack_skellingtonbats'
     name 'Jack Skellingtonbats'
     homepage 'http://www.dafont.com/jack-skellingtonbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jack Skellingtonbats.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sf-wasabi' do
     url 'http://dl.dafont.com/dl/?f=sf_wasabi'
     name 'SF Wasabi'
     homepage 'http://www.dafont.com/sf-wasabi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Wasabi Bold Italic.ttf'
     font 'SF Wasabi Bold.ttf'

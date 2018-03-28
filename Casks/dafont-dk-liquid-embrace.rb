@@ -5,7 +5,6 @@ cask 'dafont-dk-liquid-embrace' do
     url 'http://dl.dafont.com/dl/?f=dk_liquid_embrace'
     name 'DK Liquid Embrace'
     homepage 'http://www.dafont.com/dk-liquid-embrace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Liquid Embrace.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kingthings-spike' do
     url 'http://dl.dafont.com/dl/?f=kingthings_spike'
     name 'Kingthings Spike'
     homepage 'http://www.dafont.com/kingthings-spike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Spike.ttf'
 end

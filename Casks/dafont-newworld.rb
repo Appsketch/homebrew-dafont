@@ -5,7 +5,6 @@ cask 'dafont-newworld' do
     url 'http://dl.dafont.com/dl/?f=newworld'
     name 'New World'
     homepage 'http://www.dafont.com/newworld.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NewWorld.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-concealadri' do
     url 'http://dl.dafont.com/dl/?f=concealadri'
     name 'Concealadri'
     homepage 'http://www.dafont.com/concealadri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Concealadri.ttf'
 end

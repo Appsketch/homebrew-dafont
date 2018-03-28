@@ -5,7 +5,6 @@ cask 'dafont-david-device' do
     url 'http://dl.dafont.com/dl/?f=david_device'
     name 'David Device'
     homepage 'http://www.dafont.com/david-device.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'David Device.ttf'
 end

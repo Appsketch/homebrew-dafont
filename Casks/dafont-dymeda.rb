@@ -5,7 +5,6 @@ cask 'dafont-dymeda' do
     url 'http://dl.dafont.com/dl/?f=dymeda'
     name 'Dymeda'
     homepage 'http://www.dafont.com/dymeda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dymeda Italic.ttf'
     font 'Dymeda Shadow Italic.ttf'

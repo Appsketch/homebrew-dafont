@@ -5,7 +5,6 @@ cask 'dafont-zeronero' do
     url 'http://dl.dafont.com/dl/?f=zeronero'
     name 'Zeronero'
     homepage 'http://www.dafont.com/zeronero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zeronero.ttf'
 end

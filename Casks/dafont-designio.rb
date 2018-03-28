@@ -5,7 +5,6 @@ cask 'dafont-designio' do
     url 'http://dl.dafont.com/dl/?f=designio'
     name 'Designio'
     homepage 'http://www.dafont.com/designio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Designio Bold.otf'
     font 'Designio Medium.otf'

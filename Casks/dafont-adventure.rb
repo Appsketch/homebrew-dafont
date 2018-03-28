@@ -5,7 +5,6 @@ cask 'dafont-adventure' do
     url 'http://dl.dafont.com/dl/?f=adventure'
     name 'Adventure'
     homepage 'http://www.dafont.com/adventure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adventure Hollow.otf'
     font 'Adventure.otf'

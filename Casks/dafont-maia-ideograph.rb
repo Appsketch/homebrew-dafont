@@ -5,7 +5,6 @@ cask 'dafont-maia-ideograph' do
     url 'http://dl.dafont.com/dl/?f=maia_ideograph'
     name 'Maia ideograph'
     homepage 'http://www.dafont.com/maia-ideograph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maia Ideograph.ttf'
 end

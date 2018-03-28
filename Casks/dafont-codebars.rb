@@ -5,7 +5,6 @@ cask 'dafont-codebars' do
     url 'http://dl.dafont.com/dl/?f=codebars'
     name 'Code Bars'
     homepage 'http://www.dafont.com/codebars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CodeBars.ttf'
 end

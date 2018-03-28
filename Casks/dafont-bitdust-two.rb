@@ -5,7 +5,6 @@ cask 'dafont-bitdust-two' do
     url 'http://dl.dafont.com/dl/?f=bitdust_two'
     name 'Bitdust Two'
     homepage 'http://www.dafont.com/bitdust-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bitdust2.ttf'
 end

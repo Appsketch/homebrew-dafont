@@ -5,7 +5,6 @@ cask 'dafont-to-ogle' do
     url 'http://dl.dafont.com/dl/?f=to_ogle'
     name 'To Ogle'
     homepage 'http://www.dafont.com/to-ogle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'to ogle.ttf'
 end

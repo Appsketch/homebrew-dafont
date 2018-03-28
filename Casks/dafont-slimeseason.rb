@@ -5,7 +5,6 @@ cask 'dafont-slimeseason' do
     url 'http://dl.dafont.com/dl/?f=slimeseason'
     name 'Slime Season'
     homepage 'http://www.dafont.com/slimeseason.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SlimeSeason.ttf'
 end

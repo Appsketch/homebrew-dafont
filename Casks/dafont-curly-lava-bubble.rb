@@ -5,7 +5,6 @@ cask 'dafont-curly-lava-bubble' do
     url 'http://dl.dafont.com/dl/?f=curly_lava_bubble'
     name 'Curly Lava Bubble'
     homepage 'http://www.dafont.com/curly-lava-bubble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'curly lava bubble_bold.ttf'
     font 'curly lava bubble_light.ttf'

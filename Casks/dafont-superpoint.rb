@@ -5,7 +5,6 @@ cask 'dafont-superpoint' do
     url 'http://dl.dafont.com/dl/?f=superpoint'
     name 'Superpoint'
     homepage 'http://www.dafont.com/superpoint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPERPOI_R.TTF'
     font 'SUPERPOI_S.TTF'

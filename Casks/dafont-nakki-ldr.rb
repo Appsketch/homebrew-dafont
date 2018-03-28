@@ -5,7 +5,6 @@ cask 'dafont-nakki-ldr' do
     url 'http://dl.dafont.com/dl/?f=nakki_ldr'
     name 'Nakki LDR'
     homepage 'http://www.dafont.com/nakki-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nakki_ldr.ttf'
 end

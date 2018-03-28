@@ -5,7 +5,6 @@ cask 'dafont-schweiz' do
     url 'http://dl.dafont.com/dl/?f=schweiz'
     name 'Schweiz'
     homepage 'http://www.dafont.com/schweiz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Schweiz.otf'
 end

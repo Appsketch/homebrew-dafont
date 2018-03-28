@@ -5,7 +5,6 @@ cask 'dafont-abstractthing' do
     url 'http://dl.dafont.com/dl/?f=abstractthing'
     name 'Abstract Thing'
     homepage 'http://www.dafont.com/abstractthing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AbstractThing.ttf'
 end

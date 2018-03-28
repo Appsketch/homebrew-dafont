@@ -5,7 +5,6 @@ cask 'dafont-tyedyejerky' do
     url 'http://dl.dafont.com/dl/?f=tyedyejerky'
     name 'Tye-Dye Jerky'
     homepage 'http://www.dafont.com/tyedyejerky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tye-Dye Jerky.ttf'
 end

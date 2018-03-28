@@ -5,7 +5,6 @@ cask 'dafont-pf-snowman-citadel' do
     url 'http://dl.dafont.com/dl/?f=pf_snowman_citadel'
     name 'PF Snowman Citadel'
     homepage 'http://www.dafont.com/pf-snowman-citadel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pf_snowman_citadel.ttf'
 end

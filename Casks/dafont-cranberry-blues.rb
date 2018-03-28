@@ -5,7 +5,6 @@ cask 'dafont-cranberry-blues' do
     url 'http://dl.dafont.com/dl/?f=cranberry_blues'
     name 'Cranberry Blues'
     homepage 'http://www.dafont.com/cranberry-blues.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CranberryBlues.ttf'
 end

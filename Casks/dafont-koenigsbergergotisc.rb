@@ -5,7 +5,6 @@ cask 'dafont-koenigsbergergotisc' do
     url 'http://dl.dafont.com/dl/?f=koenigsbergergotisc'
     name 'Koenigsberger Gotisch'
     homepage 'http://www.dafont.com/koenigsbergergotisc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOENG___.TTF'
 end

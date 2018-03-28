@@ -5,7 +5,6 @@ cask 'dafont-shaken' do
     url 'http://dl.dafont.com/dl/?f=shaken'
     name 'Shaken'
     homepage 'http://www.dafont.com/shaken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shaken.ttf'
 end

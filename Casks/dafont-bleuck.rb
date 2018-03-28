@@ -5,7 +5,6 @@ cask 'dafont-bleuck' do
     url 'http://dl.dafont.com/dl/?f=bleuck'
     name 'Bleuck'
     homepage 'http://www.dafont.com/bleuck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bleuck - dker.ttf'
     font 'bleuck - reversed - Dker.ttf'

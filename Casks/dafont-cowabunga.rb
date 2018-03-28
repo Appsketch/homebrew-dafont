@@ -5,7 +5,6 @@ cask 'dafont-cowabunga' do
     url 'http://dl.dafont.com/dl/?f=cowabunga'
     name 'Cowabunga'
     homepage 'http://www.dafont.com/cowabunga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COWABUNGA.ttf'
 end

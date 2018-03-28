@@ -5,7 +5,6 @@ cask 'dafont-bloque-demo' do
     url 'http://dl.dafont.com/dl/?f=bloque_demo'
     name 'Bloque Demo'
     homepage 'http://www.dafont.com/bloque-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BloqueDemo.otf'
 end

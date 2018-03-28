@@ -5,7 +5,6 @@ cask 'dafont-arape-angular' do
     url 'http://dl.dafont.com/dl/?f=arape_angular'
     name 'aRape Angular'
     homepage 'http://www.dafont.com/arape-angular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aRape_ang.ttf'
 end

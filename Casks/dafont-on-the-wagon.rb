@@ -5,7 +5,6 @@ cask 'dafont-on-the-wagon' do
     url 'http://dl.dafont.com/dl/?f=on_the_wagon'
     name 'On The Wagon'
     homepage 'http://www.dafont.com/on-the-wagon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'On The Wagon.ttf'
 end

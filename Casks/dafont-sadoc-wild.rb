@@ -5,7 +5,6 @@ cask 'dafont-sadoc-wild' do
     url 'http://dl.dafont.com/dl/?f=sadoc_wild'
     name 'Sadoc Wild'
     homepage 'http://www.dafont.com/sadoc-wild.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sadoc Wild.ttf'
 end

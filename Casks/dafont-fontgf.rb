@@ -5,7 +5,6 @@ cask 'dafont-fontgf' do
     url 'http://dl.dafont.com/dl/?f=fontgf'
     name 'Font GF'
     homepage 'http://www.dafont.com/fontgf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FontGF.ttf'
 end

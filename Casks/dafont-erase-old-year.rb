@@ -5,7 +5,6 @@ cask 'dafont-erase-old-year' do
     url 'http://dl.dafont.com/dl/?f=erase_old_year'
     name 'Erase Old Year'
     homepage 'http://www.dafont.com/erase-old-year.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Erase Old Year.ttf'
 end

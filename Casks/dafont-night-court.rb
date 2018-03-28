@@ -5,7 +5,6 @@ cask 'dafont-night-court' do
     url 'http://dl.dafont.com/dl/?f=night_court'
     name 'Night Court'
     homepage 'http://www.dafont.com/night-court.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'night court.ttf'
 end

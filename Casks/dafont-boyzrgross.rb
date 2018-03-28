@@ -5,7 +5,6 @@ cask 'dafont-boyzrgross' do
     url 'http://dl.dafont.com/dl/?f=boyzrgross'
     name 'BoyzRGross'
     homepage 'http://www.dafont.com/boyzrgross.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOYZRGRO.TTF'
 end

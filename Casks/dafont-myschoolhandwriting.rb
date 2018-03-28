@@ -5,7 +5,6 @@ cask 'dafont-myschoolhandwriting' do
     url 'http://dl.dafont.com/dl/?f=myschoolhandwriting'
     name 'My School Handwriting'
     homepage 'http://www.dafont.com/myschoolhandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MySchoolHandwriting.ttf'
 end

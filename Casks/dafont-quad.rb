@@ -5,7 +5,6 @@ cask 'dafont-quad' do
     url 'http://dl.dafont.com/dl/?f=quad'
     name 'Quad'
     homepage 'http://www.dafont.com/quad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quad Black.otf'
     font 'Quad Light.otf'

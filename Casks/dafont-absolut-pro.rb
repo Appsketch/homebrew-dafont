@@ -5,7 +5,6 @@ cask 'dafont-absolut-pro' do
     url 'http://dl.dafont.com/dl/?f=absolut_pro'
     name 'Absolut Pro'
     homepage 'http://www.dafont.com/absolut-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iF_Absolut_Pro_Condensed/Absolut_Pro_BoldCondensed.ttf'
     font 'iF_Absolut_Pro_Condensed/Absolut_Pro_BookCondensed.ttf'

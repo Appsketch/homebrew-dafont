@@ -5,7 +5,6 @@ cask 'dafont-imajix-9dot' do
     url 'http://dl.dafont.com/dl/?f=imajix_9dot'
     name 'Imajix 9dot'
     homepage 'http://www.dafont.com/imajix-9dot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IMAJN___.TTF'
 end

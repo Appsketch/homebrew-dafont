@@ -5,7 +5,6 @@ cask 'dafont-bad-bold-college' do
     url 'http://dl.dafont.com/dl/?f=bad_bold_college'
     name 'Bad Bold College'
     homepage 'http://www.dafont.com/bad-bold-college.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bad_bold_college.ttf'
 end

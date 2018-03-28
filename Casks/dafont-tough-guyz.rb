@@ -5,7 +5,6 @@ cask 'dafont-tough-guyz' do
     url 'http://dl.dafont.com/dl/?f=tough_guyz'
     name 'Tough Guyz'
     homepage 'http://www.dafont.com/tough-guyz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tough_Guys.ttf'
 end

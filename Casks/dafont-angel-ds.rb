@@ -5,7 +5,6 @@ cask 'dafont-angel-ds' do
     url 'http://dl.dafont.com/dl/?f=angel_ds'
     name 'Angel'
     homepage 'http://www.dafont.com/angel-ds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angel.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cartographer' do
     url 'http://dl.dafont.com/dl/?f=cartographer'
     name 'Cartographer'
     homepage 'http://www.dafont.com/cartographer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cartographer.ttf'
 end

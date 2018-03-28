@@ -5,7 +5,6 @@ cask 'dafont-humble-wall' do
     url 'http://dl.dafont.com/dl/?f=humble_wall'
     name 'Humble Wall'
     homepage 'http://www.dafont.com/humble-wall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Humble Wall.ttf'
 end

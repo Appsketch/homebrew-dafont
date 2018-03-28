@@ -5,7 +5,6 @@ cask 'dafont-djb-got-no-time-for-that' do
     url 'http://dl.dafont.com/dl/?f=djb_got_no_time_for_that'
     name 'DJB Got No Time For That'
     homepage 'http://www.dafont.com/djb-got-no-time-for-that.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Got No Time For That.ttf'
 end

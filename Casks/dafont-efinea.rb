@@ -5,7 +5,6 @@ cask 'dafont-efinea' do
     url 'http://dl.dafont.com/dl/?f=efinea'
     name 'Efinea'
     homepage 'http://www.dafont.com/efinea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Efinea.ttf'
 end

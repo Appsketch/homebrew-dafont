@@ -5,7 +5,6 @@ cask 'dafont-righteous-kill' do
     url 'http://dl.dafont.com/dl/?f=righteous_kill'
     name 'Righteous Kill'
     homepage 'http://www.dafont.com/righteous-kill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rkill.ttf'
     font 'rkillc.ttf'

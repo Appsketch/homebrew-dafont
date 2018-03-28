@@ -5,7 +5,6 @@ cask 'dafont-brand-new-day-midnight' do
     url 'http://dl.dafont.com/dl/?f=brand_new_day_midnight'
     name 'Brand New Day (Midnight)'
     homepage 'http://www.dafont.com/brand-new-day-midnight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brand New Day (Midnight).ttf'
 end

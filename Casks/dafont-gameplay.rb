@@ -5,7 +5,6 @@ cask 'dafont-gameplay' do
     url 'http://dl.dafont.com/dl/?f=gameplay'
     name 'Gameplay'
     homepage 'http://www.dafont.com/gameplay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gameplay.ttf'
 end

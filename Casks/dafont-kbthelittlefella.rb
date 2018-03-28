@@ -5,7 +5,6 @@ cask 'dafont-kbthelittlefella' do
     url 'http://dl.dafont.com/dl/?f=kbthelittlefella'
     name 'KB The Little Fella'
     homepage 'http://www.dafont.com/kbthelittlefella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBTheLittleFella.ttf'
 end

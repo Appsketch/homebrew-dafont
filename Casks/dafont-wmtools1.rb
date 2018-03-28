@@ -5,7 +5,6 @@ cask 'dafont-wmtools1' do
     url 'http://dl.dafont.com/dl/?f=wmtools1'
     name 'WM Tools 1'
     homepage 'http://www.dafont.com/wmtools1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmtools1.TTF'
 end

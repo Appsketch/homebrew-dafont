@@ -5,7 +5,6 @@ cask 'dafont-cramps' do
     url 'http://dl.dafont.com/dl/?f=cramps'
     name 'Cramps'
     homepage 'http://www.dafont.com/cramps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRAMPS__.TTF'
 end

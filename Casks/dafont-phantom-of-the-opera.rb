@@ -5,7 +5,6 @@ cask 'dafont-phantom-of-the-opera' do
     url 'http://dl.dafont.com/dl/?f=phantom_of_the_opera'
     name 'Phantom of the Opera'
     homepage 'http://www.dafont.com/phantom-of-the-opera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phantom of the Opera.ttf'
 end

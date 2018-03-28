@@ -5,7 +5,6 @@ cask 'dafont-aida-garmo' do
     url 'http://dl.dafont.com/dl/?f=aida_garmo'
     name 'Aida Garmo'
     homepage 'http://www.dafont.com/aida-garmo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aida Garmo - Aida.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-simpetico' do
     url 'http://dl.dafont.com/dl/?f=simpetico'
     name 'Simpetico'
     homepage 'http://www.dafont.com/simpetico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simpetico.otf'
 end

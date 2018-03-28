@@ -5,7 +5,6 @@ cask 'dafont-valiant' do
     url 'http://dl.dafont.com/dl/?f=valiant'
     name 'Valiant'
     homepage 'http://www.dafont.com/valiant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Valiant.otf'
 end

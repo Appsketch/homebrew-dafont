@@ -5,7 +5,6 @@ cask 'dafont-flotner' do
     url 'http://dl.dafont.com/dl/?f=flotner'
     name 'Flotner'
     homepage 'http://www.dafont.com/flotner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flotner.ttf'
 end

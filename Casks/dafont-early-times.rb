@@ -5,7 +5,6 @@ cask 'dafont-early-times' do
     url 'http://dl.dafont.com/dl/?f=early_times'
     name 'Early Times'
     homepage 'http://www.dafont.com/early-times.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Early Times_bold demo.otf'
     font 'Early Times_bold italic demo.otf'

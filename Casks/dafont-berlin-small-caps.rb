@@ -5,7 +5,6 @@ cask 'dafont-berlin-small-caps' do
     url 'http://dl.dafont.com/dl/?f=berlin_small_caps'
     name 'Berlin Small Caps'
     homepage 'http://www.dafont.com/berlin-small-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BerlinSmallCaps.ttf'
 end

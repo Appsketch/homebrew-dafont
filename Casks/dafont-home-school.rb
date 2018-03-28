@@ -5,7 +5,6 @@ cask 'dafont-home-school' do
     url 'http://dl.dafont.com/dl/?f=home_school'
     name 'Home School'
     homepage 'http://www.dafont.com/home-school.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Home School.otf'
 end

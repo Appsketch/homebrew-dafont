@@ -5,7 +5,6 @@ cask 'dafont-dolen-taith' do
     url 'http://dl.dafont.com/dl/?f=dolen_taith'
     name 'Dolen Taith'
     homepage 'http://www.dafont.com/dolen-taith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dolen Taith.ttf'
 end

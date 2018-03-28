@@ -5,7 +5,6 @@ cask 'dafont-actonia' do
     url 'http://dl.dafont.com/dl/?f=actonia'
     name 'Actonia'
     homepage 'http://www.dafont.com/actonia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Actonia_PERSONAL.ttf'
 end

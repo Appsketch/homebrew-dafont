@@ -5,7 +5,6 @@ cask 'dafont-millionair' do
     url 'http://dl.dafont.com/dl/?f=millionair'
     name 'MillionAir'
     homepage 'http://www.dafont.com/millionair.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Millionair.ttf'
 end

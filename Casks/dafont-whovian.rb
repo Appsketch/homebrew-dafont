@@ -5,7 +5,6 @@ cask 'dafont-whovian' do
     url 'http://dl.dafont.com/dl/?f=whovian'
     name 'Whovian'
     homepage 'http://www.dafont.com/whovian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'whovian.ttf'
 end

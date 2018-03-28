@@ -5,7 +5,6 @@ cask 'dafont-monograms-toolbox' do
     url 'http://dl.dafont.com/dl/?f=monograms_toolbox'
     name 'Monograms Toolbox'
     homepage 'http://www.dafont.com/monograms-toolbox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MonogramsToolbox.ttf'
 end

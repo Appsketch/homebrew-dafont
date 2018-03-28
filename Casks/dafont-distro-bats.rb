@@ -5,7 +5,6 @@ cask 'dafont-distro-bats' do
     url 'http://dl.dafont.com/dl/?f=distro_bats'
     name 'Distro Bats'
     homepage 'http://www.dafont.com/distro-bats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Distro2 Bats.ttf'
 end

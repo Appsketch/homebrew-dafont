@@ -5,7 +5,6 @@ cask 'dafont-whoa' do
     url 'http://dl.dafont.com/dl/?f=whoa'
     name 'Whoa!'
     homepage 'http://www.dafont.com/whoa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'whoa!.ttf'
 end

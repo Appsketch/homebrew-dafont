@@ -5,7 +5,6 @@ cask 'dafont-jocoba' do
     url 'http://dl.dafont.com/dl/?f=jocoba'
     name 'Jocoba'
     homepage 'http://www.dafont.com/jocoba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jocoba.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-urdeutsch' do
     url 'http://dl.dafont.com/dl/?f=urdeutsch'
     name 'Urdeutsch'
     homepage 'http://www.dafont.com/urdeutsch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Urdeutsch.ttf'
 end

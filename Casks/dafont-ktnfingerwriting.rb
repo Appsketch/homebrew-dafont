@@ -5,7 +5,6 @@ cask 'dafont-ktnfingerwriting' do
     url 'http://dl.dafont.com/dl/?f=ktnfingerwriting'
     name 'Ktn Fingerwriting'
     homepage 'http://www.dafont.com/ktnfingerwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KtnFingerwriting.ttf'
 end

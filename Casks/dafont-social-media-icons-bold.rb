@@ -5,7 +5,6 @@ cask 'dafont-social-media-icons-bold' do
     url 'http://dl.dafont.com/dl/?f=social_media_icons_bold'
     name 'Social Media Icons Bold'
     homepage 'http://www.dafont.com/social-media-icons-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Social Media Icons Bold.ttf'
     font 'Social Media Icons.ttf'

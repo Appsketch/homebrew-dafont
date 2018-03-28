@@ -5,7 +5,6 @@ cask 'dafont-snc-bishop' do
     url 'http://dl.dafont.com/dl/?f=snc_bishop'
     name 'SNC Bishop'
     homepage 'http://www.dafont.com/snc-bishop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SNCBISHO.TTF'
 end

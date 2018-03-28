@@ -5,7 +5,6 @@ cask 'dafont-errorize' do
     url 'http://dl.dafont.com/dl/?f=errorize'
     name 'Errorize'
     homepage 'http://www.dafont.com/errorize.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Errorize-Regular.ttf'
 end

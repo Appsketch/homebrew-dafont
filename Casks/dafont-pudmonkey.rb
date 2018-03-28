@@ -5,7 +5,6 @@ cask 'dafont-pudmonkey' do
     url 'http://dl.dafont.com/dl/?f=pudmonkey'
     name 'Pudmonkey'
     homepage 'http://www.dafont.com/pudmonkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PUD.TTF'
 end

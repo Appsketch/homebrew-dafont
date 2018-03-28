@@ -5,7 +5,6 @@ cask 'dafont-comic-tragedy' do
     url 'http://dl.dafont.com/dl/?f=comic_tragedy'
     name 'Comic Tragedy'
     homepage 'http://www.dafont.com/comic-tragedy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comic Tragedy - BC.ttf'
     font 'Comic Tragedy Base - BC.ttf'

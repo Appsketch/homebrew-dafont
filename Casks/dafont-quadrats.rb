@@ -5,7 +5,6 @@ cask 'dafont-quadrats' do
     url 'http://dl.dafont.com/dl/?f=quadrats'
     name 'Quadrats'
     homepage 'http://www.dafont.com/quadrats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quadrats.ttf'
 end

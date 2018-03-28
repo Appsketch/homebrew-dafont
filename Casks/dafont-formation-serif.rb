@@ -5,7 +5,6 @@ cask 'dafont-formation-serif' do
     url 'http://dl.dafont.com/dl/?f=formation_serif'
     name 'Formation Serif'
     homepage 'http://www.dafont.com/formation-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Formation Serif Regular.ttf'
 end

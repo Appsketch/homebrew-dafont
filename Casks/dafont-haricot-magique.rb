@@ -5,7 +5,6 @@ cask 'dafont-haricot-magique' do
     url 'http://dl.dafont.com/dl/?f=haricot_magique'
     name 'Haricot Magique'
     homepage 'http://www.dafont.com/haricot-magique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Haricot Magique.ttf'
 end

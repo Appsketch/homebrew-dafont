@@ -5,7 +5,6 @@ cask 'dafont-mf-queen-leela' do
     url 'http://dl.dafont.com/dl/?f=mf_queen_leela'
     name 'Mf Queen Leela'
     homepage 'http://www.dafont.com/mf-queen-leela.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Queen Leela.ttf'
 end

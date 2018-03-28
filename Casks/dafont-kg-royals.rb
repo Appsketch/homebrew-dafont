@@ -5,7 +5,6 @@ cask 'dafont-kg-royals' do
     url 'http://dl.dafont.com/dl/?f=kg_royals'
     name 'KG Royals'
     homepage 'http://www.dafont.com/kg-royals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGRoyals.ttf'
 end

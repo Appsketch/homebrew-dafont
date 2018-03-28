@@ -5,7 +5,6 @@ cask 'dafont-inkburrow' do
     url 'http://dl.dafont.com/dl/?f=inkburrow'
     name 'Inkburrow'
     homepage 'http://www.dafont.com/inkburrow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inkburro.ttf'
 end

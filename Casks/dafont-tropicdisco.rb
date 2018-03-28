@@ -5,7 +5,6 @@ cask 'dafont-tropicdisco' do
     url 'http://dl.dafont.com/dl/?f=tropicdisco'
     name 'Tropic Disco'
     homepage 'http://www.dafont.com/tropicdisco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TropicDisco.ttf'
 end

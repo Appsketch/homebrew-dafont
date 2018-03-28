@@ -5,7 +5,6 @@ cask 'dafont-skybird' do
     url 'http://dl.dafont.com/dl/?f=skybird'
     name 'Skybird'
     homepage 'http://www.dafont.com/skybird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skybird-Rough.ttf'
 end

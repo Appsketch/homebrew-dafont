@@ -5,7 +5,6 @@ cask 'dafont-makingideas' do
     url 'http://dl.dafont.com/dl/?f=makingideas'
     name 'Making Ideas'
     homepage 'http://www.dafont.com/makingideas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MakingIdeas.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-quickie' do
     url 'http://dl.dafont.com/dl/?f=quickie'
     name 'Quickie'
     homepage 'http://www.dafont.com/quickie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quickie.ttf'
 end

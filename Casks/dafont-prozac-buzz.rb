@@ -5,7 +5,6 @@ cask 'dafont-prozac-buzz' do
     url 'http://dl.dafont.com/dl/?f=prozac_buzz'
     name 'Prozac Buzz'
     homepage 'http://www.dafont.com/prozac-buzz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'prozak.TTF'
 end

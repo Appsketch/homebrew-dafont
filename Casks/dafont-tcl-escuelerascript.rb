@@ -5,7 +5,6 @@ cask 'dafont-tcl-escuelerascript' do
     url 'http://dl.dafont.com/dl/?f=tcl_escuelerascript'
     name 'TCLescuelerascript'
     homepage 'http://www.dafont.com/tcl-escuelerascript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TCLESCUE.TTF'
 end

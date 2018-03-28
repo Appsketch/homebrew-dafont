@@ -5,7 +5,6 @@ cask 'dafont-smoochesofyou' do
     url 'http://dl.dafont.com/dl/?f=smoochesofyou'
     name 'Smooches Of You'
     homepage 'http://www.dafont.com/smoochesofyou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SmoochesOfYou.ttf'
 end

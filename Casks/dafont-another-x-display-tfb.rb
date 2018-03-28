@@ -5,7 +5,6 @@ cask 'dafont-another-x-display-tfb' do
     url 'http://dl.dafont.com/dl/?f=another_x_display_tfb'
     name 'Another X Display TFB'
     homepage 'http://www.dafont.com/another-x-display-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Another X Display tfb.ttf'
 end

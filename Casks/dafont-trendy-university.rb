@@ -5,7 +5,6 @@ cask 'dafont-trendy-university' do
     url 'http://dl.dafont.com/dl/?f=trendy_university'
     name 'Trendy University'
     homepage 'http://www.dafont.com/trendy-university.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRENU___.TTF'
 end

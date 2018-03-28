@@ -5,7 +5,6 @@ cask 'dafont-kiwii' do
     url 'http://dl.dafont.com/dl/?f=kiwii'
     name 'Kiwii'
     homepage 'http://www.dafont.com/kiwii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kiwii__1.ttf'
 end

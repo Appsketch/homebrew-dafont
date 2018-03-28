@@ -5,7 +5,6 @@ cask 'dafont-bira' do
     url 'http://dl.dafont.com/dl/?f=bira'
     name 'Bira'
     homepage 'http://www.dafont.com/bira.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bira_PERSONAL_USE_ONLY.ttf'
 end

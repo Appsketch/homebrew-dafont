@@ -5,7 +5,6 @@ cask 'dafont-dilbertfont2' do
     url 'http://dl.dafont.com/dl/?f=dilbertfont2'
     name 'Dilbert font 2'
     homepage 'http://www.dafont.com/dilbertfont2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DILBERTFONT2.ttf'
 end

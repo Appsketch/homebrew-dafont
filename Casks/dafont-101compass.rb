@@ -5,7 +5,6 @@ cask 'dafont-101compass' do
     url 'http://dl.dafont.com/dl/?f=101compass'
     name '101! Compass'
     homepage 'http://www.dafont.com/101compass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '101Compass.ttf'
 end

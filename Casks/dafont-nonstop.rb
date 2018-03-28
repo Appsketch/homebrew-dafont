@@ -5,7 +5,6 @@ cask 'dafont-nonstop' do
     url 'http://dl.dafont.com/dl/?f=nonstop'
     name 'Nonstop'
     homepage 'http://www.dafont.com/nonstop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NONSTOP.TTF'
     font 'NONSTOPITALIC.TTF'

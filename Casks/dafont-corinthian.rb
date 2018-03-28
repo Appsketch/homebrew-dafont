@@ -5,7 +5,6 @@ cask 'dafont-corinthian' do
     url 'http://dl.dafont.com/dl/?f=corinthian'
     name 'Corinthian'
     homepage 'http://www.dafont.com/corinthian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Corv2.ttf'
 end

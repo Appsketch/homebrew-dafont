@@ -5,7 +5,6 @@ cask 'dafont-hoods-and-capers' do
     url 'http://dl.dafont.com/dl/?f=hoods_and_capers'
     name 'Hoods and Capers'
     homepage 'http://www.dafont.com/hoods-and-capers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hoodsandcapers-slab.ttf'
     font 'hoodsandcapers.ttf'

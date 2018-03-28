@@ -5,7 +5,6 @@ cask 'dafont-higherbounties' do
     url 'http://dl.dafont.com/dl/?f=higherbounties'
     name 'Higher Bounties'
     homepage 'http://www.dafont.com/higherbounties.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HigherBounties.ttf'
 end

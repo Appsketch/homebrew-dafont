@@ -5,7 +5,6 @@ cask 'dafont-justbrains' do
     url 'http://dl.dafont.com/dl/?f=justbrains'
     name 'Just Brains'
     homepage 'http://www.dafont.com/justbrains.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustBrains.ttf'
 end

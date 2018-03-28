@@ -5,7 +5,6 @@ cask 'dafont-bumbastika' do
     url 'http://dl.dafont.com/dl/?f=bumbastika'
     name 'Bumbastika'
     homepage 'http://www.dafont.com/bumbastika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUMBASTIKA.TTF'
 end

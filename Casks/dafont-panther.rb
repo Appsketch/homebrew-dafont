@@ -5,7 +5,6 @@ cask 'dafont-panther' do
     url 'http://dl.dafont.com/dl/?f=panther'
     name 'Panther'
     homepage 'http://www.dafont.com/panther.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Panther.ttf'
 end

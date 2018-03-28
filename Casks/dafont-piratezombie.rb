@@ -5,7 +5,6 @@ cask 'dafont-piratezombie' do
     url 'http://dl.dafont.com/dl/?f=piratezombie'
     name 'Pirate Zombie'
     homepage 'http://www.dafont.com/piratezombie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PirateZombie.ttf'
 end

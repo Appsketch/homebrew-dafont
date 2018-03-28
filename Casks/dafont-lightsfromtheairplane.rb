@@ -5,7 +5,6 @@ cask 'dafont-lightsfromtheairplane' do
     url 'http://dl.dafont.com/dl/?f=lightsfromtheairplane'
     name 'Lights from the airplane'
     homepage 'http://www.dafont.com/lightsfromtheairplane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lightsfromtheairplane.ttf'
 end

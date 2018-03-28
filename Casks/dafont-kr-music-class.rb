@@ -5,7 +5,6 @@ cask 'dafont-kr-music-class' do
     url 'http://dl.dafont.com/dl/?f=kr_music_class'
     name 'KR Music Class'
     homepage 'http://www.dafont.com/kr-music-class.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Music Class.ttf'
 end

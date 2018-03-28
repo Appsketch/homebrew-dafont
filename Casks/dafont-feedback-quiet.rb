@@ -5,7 +5,6 @@ cask 'dafont-feedback-quiet' do
     url 'http://dl.dafont.com/dl/?f=feedback_quiet'
     name 'Feedback Quiet'
     homepage 'http://www.dafont.com/feedback-quiet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Feedback_Quiet.ttf'
 end

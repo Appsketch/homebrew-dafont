@@ -5,7 +5,6 @@ cask 'dafont-squigglylittlewiggly' do
     url 'http://dl.dafont.com/dl/?f=squigglylittlewiggly'
     name 'Squiggly Little Wiggly'
     homepage 'http://www.dafont.com/squigglylittlewiggly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Squiggly Little Wiggly.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kr-cuori-divertenti-6' do
     url 'http://dl.dafont.com/dl/?f=kr_cuori_divertenti_6'
     name 'KR Cuori Divertenti 6'
     homepage 'http://www.dafont.com/kr-cuori-divertenti-6.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Cuori Divertenti 6.ttf'
 end

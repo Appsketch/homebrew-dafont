@@ -5,7 +5,6 @@ cask 'dafont-rocks-g' do
     url 'http://dl.dafont.com/dl/?f=rocks_g'
     name 'Rocks'
     homepage 'http://www.dafont.com/rocks-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_rocks.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-beckett' do
     url 'http://dl.dafont.com/dl/?f=beckett'
     name 'Beckett'
     homepage 'http://www.dafont.com/beckett.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BECKETT_.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-positive-reinforcement' do
     url 'http://dl.dafont.com/dl/?f=positive_reinforcement'
     name 'Positive Reinforcement'
     homepage 'http://www.dafont.com/positive-reinforcement.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Positive Reinforcement.otf'
 end

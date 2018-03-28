@@ -5,7 +5,6 @@ cask 'dafont-contrite-in-spirit' do
     url 'http://dl.dafont.com/dl/?f=contrite_in_spirit'
     name 'Contrite in spirit'
     homepage 'http://www.dafont.com/contrite-in-spirit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Contrite in spirit.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-triballaka' do
     url 'http://dl.dafont.com/dl/?f=triballaka'
     name 'Triballaka'
     homepage 'http://www.dafont.com/triballaka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Triballa.ttf'
 end

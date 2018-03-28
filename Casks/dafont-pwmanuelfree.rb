@@ -5,7 +5,6 @@ cask 'dafont-pwmanuelfree' do
     url 'http://dl.dafont.com/dl/?f=pwmanuelfree'
     name 'PW Manuel free'
     homepage 'http://www.dafont.com/pwmanuelfree.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWManuelfree.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bookietastic' do
     url 'http://dl.dafont.com/dl/?f=bookietastic'
     name 'Bookietastic'
     homepage 'http://www.dafont.com/bookietastic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bookietastic comic-style.ttf'
     font 'Bookietastic regular.ttf'

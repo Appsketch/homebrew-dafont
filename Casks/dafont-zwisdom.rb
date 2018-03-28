@@ -5,7 +5,6 @@ cask 'dafont-zwisdom' do
     url 'http://dl.dafont.com/dl/?f=zwisdom'
     name 'Z-Wisdom'
     homepage 'http://www.dafont.com/zwisdom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Z-WISDOM.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-8th-element' do
     url 'http://dl.dafont.com/dl/?f=8th_element'
     name '8th Element'
     homepage 'http://www.dafont.com/8th-element.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '8thelement.ttf'
     font '8thelement3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-mtf-peach-cobbler' do
     url 'http://dl.dafont.com/dl/?f=mtf_peach_cobbler'
     name 'MTF Peach Cobbler'
     homepage 'http://www.dafont.com/mtf-peach-cobbler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Peach Cobbler.ttf'
 end

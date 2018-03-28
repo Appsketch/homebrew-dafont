@@ -5,7 +5,6 @@ cask 'dafont-elfic-caslin' do
     url 'http://dl.dafont.com/dl/?f=elfic_caslin'
     name 'Elfic Caslin'
     homepage 'http://www.dafont.com/elfic-caslin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elfic Caslon.ttf'
 end

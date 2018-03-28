@@ -5,7 +5,6 @@ cask 'dafont-t-complana-z-1' do
     url 'http://dl.dafont.com/dl/?f=t_complana_z_1'
     name 'T Complana Z1'
     homepage 'http://www.dafont.com/t-complana-z-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OPN T Complana Z.ttf'
 end

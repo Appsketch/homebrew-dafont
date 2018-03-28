@@ -5,7 +5,6 @@ cask 'dafont-kopio-639' do
     url 'http://dl.dafont.com/dl/?f=kopio_639'
     name 'Kopio 639'
     homepage 'http://www.dafont.com/kopio-639.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kopio 639.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-evilborn' do
     url 'http://dl.dafont.com/dl/?f=evilborn'
     name 'Evilborn'
     homepage 'http://www.dafont.com/evilborn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Evilborn.ttf'
 end

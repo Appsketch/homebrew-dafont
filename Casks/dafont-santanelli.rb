@@ -5,7 +5,6 @@ cask 'dafont-santanelli' do
     url 'http://dl.dafont.com/dl/?f=santanelli'
     name 'Santanelli'
     homepage 'http://www.dafont.com/santanelli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Santanelli-PERSONAL-USE-ONLY-Medium.otf'
 end

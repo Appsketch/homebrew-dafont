@@ -5,7 +5,6 @@ cask 'dafont-typoline' do
     url 'http://dl.dafont.com/dl/?f=typoline'
     name 'Typoline'
     homepage 'http://www.dafont.com/typoline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typoline Demi Shadow._italic_demo.otf'
     font 'Typoline_Demi_Shadow_demo.otf'

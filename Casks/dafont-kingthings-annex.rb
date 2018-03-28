@@ -5,7 +5,6 @@ cask 'dafont-kingthings-annex' do
     url 'http://dl.dafont.com/dl/?f=kingthings_annex'
     name 'Kingthings Annex'
     homepage 'http://www.dafont.com/kingthings-annex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Annexx.ttf'
 end

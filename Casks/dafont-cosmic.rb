@@ -5,7 +5,6 @@ cask 'dafont-cosmic' do
     url 'http://dl.dafont.com/dl/?f=cosmic'
     name 'Cosmic'
     homepage 'http://www.dafont.com/cosmic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cosmic.ttf'
 end

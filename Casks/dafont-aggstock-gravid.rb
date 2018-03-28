@@ -5,7 +5,6 @@ cask 'dafont-aggstock-gravid' do
     url 'http://dl.dafont.com/dl/?f=aggstock_gravid'
     name 'AggstockGravid'
     homepage 'http://www.dafont.com/aggstock-gravid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aggstock.ttf'
     font 'ggstockGravid.ttf'

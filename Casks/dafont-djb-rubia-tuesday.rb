@@ -5,7 +5,6 @@ cask 'dafont-djb-rubia-tuesday' do
     url 'http://dl.dafont.com/dl/?f=djb_rubia_tuesday'
     name 'DJB Rubia Tuesday'
     homepage 'http://www.dafont.com/djb-rubia-tuesday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Rubia Tuesday.ttf'
 end

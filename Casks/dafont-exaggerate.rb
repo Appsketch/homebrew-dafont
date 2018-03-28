@@ -5,7 +5,6 @@ cask 'dafont-exaggerate' do
     url 'http://dl.dafont.com/dl/?f=exaggerate'
     name 'Exaggerate'
     homepage 'http://www.dafont.com/exaggerate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'exagger8.ttf'
 end

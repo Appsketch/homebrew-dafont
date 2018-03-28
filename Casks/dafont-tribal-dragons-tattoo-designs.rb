@@ -5,7 +5,6 @@ cask 'dafont-tribal-dragons-tattoo-designs' do
     url 'http://dl.dafont.com/dl/?f=tribal_dragons_tattoo_designs'
     name 'Tribal Dragons Tattoo Designs'
     homepage 'http://www.dafont.com/tribal-dragons-tattoo-designs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tribal Dragons Tattoo Designs.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-thriftstore' do
     url 'http://dl.dafont.com/dl/?f=thriftstore'
     name 'Thrift Store'
     homepage 'http://www.dafont.com/thriftstore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThriftStore.ttf'
 end

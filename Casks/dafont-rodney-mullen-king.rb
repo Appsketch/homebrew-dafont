@@ -5,7 +5,6 @@ cask 'dafont-rodney-mullen-king' do
     url 'http://dl.dafont.com/dl/?f=rodney_mullen_king'
     name 'Rodney Mullen King'
     homepage 'http://www.dafont.com/rodney-mullen-king.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rodney_Mullen_King.ttf'
 end

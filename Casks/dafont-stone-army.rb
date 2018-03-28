@@ -5,7 +5,6 @@ cask 'dafont-stone-army' do
     url 'http://dl.dafont.com/dl/?f=stone_army'
     name 'Stone Army'
     homepage 'http://www.dafont.com/stone-army.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stone Army.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-acute' do
     url 'http://dl.dafont.com/dl/?f=acute'
     name 'Acute'
     homepage 'http://www.dafont.com/acute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'acute.ttf'
 end

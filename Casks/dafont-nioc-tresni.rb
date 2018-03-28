@@ -5,7 +5,6 @@ cask 'dafont-nioc-tresni' do
     url 'http://dl.dafont.com/dl/?f=nioc_tresni'
     name 'Nioc Tresni'
     homepage 'http://www.dafont.com/nioc-tresni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NiocTresni.ttf'
 end

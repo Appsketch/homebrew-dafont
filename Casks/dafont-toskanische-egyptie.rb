@@ -5,7 +5,6 @@ cask 'dafont-toskanische-egyptie' do
     url 'http://dl.dafont.com/dl/?f=toskanische_egyptie'
     name 'Toskanische Egyptienne Initialen'
     homepage 'http://www.dafont.com/toskanische-egyptie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ToskanischeEgyptienneInitialen.ttf'
 end

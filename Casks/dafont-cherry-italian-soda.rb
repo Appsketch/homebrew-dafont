@@ -5,7 +5,6 @@ cask 'dafont-cherry-italian-soda' do
     url 'http://dl.dafont.com/dl/?f=cherry_italian_soda'
     name 'Cherry Italian Soda'
     homepage 'http://www.dafont.com/cherry-italian-soda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cherry Italian Soda.ttf'
 end

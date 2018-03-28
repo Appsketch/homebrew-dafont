@@ -5,7 +5,6 @@ cask 'dafont-raspoutine' do
     url 'http://dl.dafont.com/dl/?f=raspoutine'
     name 'Raspoutine'
     homepage 'http://www.dafont.com/raspoutine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RaspoutineClassic_TB.otf'
     font 'RaspoutineDemiBold_TB.otf'

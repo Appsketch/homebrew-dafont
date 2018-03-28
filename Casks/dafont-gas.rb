@@ -5,7 +5,6 @@ cask 'dafont-gas' do
     url 'http://dl.dafont.com/dl/?f=gas'
     name 'Gas'
     homepage 'http://www.dafont.com/gas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GAS_____.TTF'
 end

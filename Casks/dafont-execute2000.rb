@@ -5,7 +5,6 @@ cask 'dafont-execute2000' do
     url 'http://dl.dafont.com/dl/?f=execute2000'
     name 'Execute 2000'
     homepage 'http://www.dafont.com/execute2000.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'exec2000.ttf'
 end

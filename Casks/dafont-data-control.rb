@@ -5,7 +5,6 @@ cask 'dafont-data-control' do
     url 'http://dl.dafont.com/dl/?f=data_control'
     name 'Data Control'
     homepage 'http://www.dafont.com/data-control.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'data-latin.ttf'
     font 'data-unifon.ttf'

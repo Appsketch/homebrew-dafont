@@ -5,7 +5,6 @@ cask 'dafont-xgrid' do
     url 'http://dl.dafont.com/dl/?f=xgrid'
     name 'X-Grid'
     homepage 'http://www.dafont.com/xgrid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xgrid.ttf'
     font 'xgridi.ttf'

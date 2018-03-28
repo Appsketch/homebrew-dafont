@@ -5,7 +5,6 @@ cask 'dafont-gravicon-display' do
     url 'http://dl.dafont.com/dl/?f=gravicon_display'
     name 'Gravicon Display'
     homepage 'http://www.dafont.com/gravicon-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grd_____.ttf'
 end

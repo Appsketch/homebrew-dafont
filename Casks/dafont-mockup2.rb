@@ -5,7 +5,6 @@ cask 'dafont-mockup2' do
     url 'http://dl.dafont.com/dl/?f=mockup2'
     name 'Mockup'
     homepage 'http://www.dafont.com/mockup2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mockup-Bold.otf'
     font 'Mockup-BoldItalic.otf'

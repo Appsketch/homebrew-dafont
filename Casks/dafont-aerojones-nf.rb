@@ -5,7 +5,6 @@ cask 'dafont-aerojones-nf' do
     url 'http://dl.dafont.com/dl/?f=aerojones_nf'
     name 'Aerojones NF'
     homepage 'http://www.dafont.com/aerojones-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AERON___.TTF'
 end

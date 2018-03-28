@@ -5,7 +5,6 @@ cask 'dafont-amaya-technical' do
     url 'http://dl.dafont.com/dl/?f=amaya_technical'
     name 'Amaya Technical'
     homepage 'http://www.dafont.com/amaya-technical.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'amaya_technical_bold.ttf'
     font 'amaya_technical_curve.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-vtcbadluck' do
     url 'http://dl.dafont.com/dl/?f=vtcbadluck'
     name 'VTC Bad Luck'
     homepage 'http://www.dafont.com/vtcbadluck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC BadLuck.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jf-fair-faces' do
     url 'http://dl.dafont.com/dl/?f=jf_fair_faces'
     name 'JF Fair Faces'
     homepage 'http://www.dafont.com/jf-fair-faces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JFAuFair.ttf'
     font 'JFFerrul.ttf'

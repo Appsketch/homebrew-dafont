@@ -5,7 +5,6 @@ cask 'dafont-criminal-security' do
     url 'http://dl.dafont.com/dl/?f=criminal_security'
     name 'Criminal Security'
     homepage 'http://www.dafont.com/criminal-security.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'criminalsecuritypc.ttf'
 end

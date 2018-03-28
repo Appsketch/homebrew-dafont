@@ -5,7 +5,6 @@ cask 'dafont-cargo-bay' do
     url 'http://dl.dafont.com/dl/?f=cargo_bay'
     name 'Cargo Bay'
     homepage 'http://www.dafont.com/cargo-bay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cargo Bay.ttf'
 end

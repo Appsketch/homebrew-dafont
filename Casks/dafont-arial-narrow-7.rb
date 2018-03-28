@@ -5,7 +5,6 @@ cask 'dafont-arial-narrow-7' do
     url 'http://dl.dafont.com/dl/?f=arial_narrow_7'
     name 'Arial Narrow 7'
     homepage 'http://www.dafont.com/arial-narrow-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'arial_narrow_7.ttf'
 end

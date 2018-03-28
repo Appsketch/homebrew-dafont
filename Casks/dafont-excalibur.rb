@@ -5,7 +5,6 @@ cask 'dafont-excalibur' do
     url 'http://dl.dafont.com/dl/?f=excalibur'
     name 'Excalibur Logotype'
     homepage 'http://www.dafont.com/excalibur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'excalibur.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-cinnabar-brush' do
     url 'http://dl.dafont.com/dl/?f=dk_cinnabar_brush'
     name 'DK Cinnabar Brush'
     homepage 'http://www.dafont.com/dk-cinnabar-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Cinnabar Brush.ttf'
 end

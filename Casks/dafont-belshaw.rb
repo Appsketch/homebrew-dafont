@@ -5,7 +5,6 @@ cask 'dafont-belshaw' do
     url 'http://dl.dafont.com/dl/?f=belshaw'
     name 'Belshaw'
     homepage 'http://www.dafont.com/belshaw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BELSHAW_.TTF'
 end

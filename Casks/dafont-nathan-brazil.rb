@@ -5,7 +5,6 @@ cask 'dafont-nathan-brazil' do
     url 'http://dl.dafont.com/dl/?f=nathan_brazil'
     name 'Nathan Brazil'
     homepage 'http://www.dafont.com/nathan-brazil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nathanbrazil1_1.ttf'
     font 'nathanbrazil3d1_1.ttf'

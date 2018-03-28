@@ -5,7 +5,6 @@ cask 'dafont-scara-conquers-the-universe' do
     url 'http://dl.dafont.com/dl/?f=scara_conquers_the_universe'
     name 'Scara Conquers the Universe'
     homepage 'http://www.dafont.com/scara-conquers-the-universe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ManOfSteel.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kinky-valentine' do
     url 'http://dl.dafont.com/dl/?f=kinky_valentine'
     name 'Kinky Valentine'
     homepage 'http://www.dafont.com/kinky-valentine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kinkyv.TTF'
 end

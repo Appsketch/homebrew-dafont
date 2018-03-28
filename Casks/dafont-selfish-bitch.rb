@@ -5,7 +5,6 @@ cask 'dafont-selfish-bitch' do
     url 'http://dl.dafont.com/dl/?f=selfish_bitch'
     name 'Selfish Bitch'
     homepage 'http://www.dafont.com/selfish-bitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SELFBN__.TTF'
 end

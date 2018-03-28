@@ -5,7 +5,6 @@ cask 'dafont-art-nouveau-flowers' do
     url 'http://dl.dafont.com/dl/?f=art_nouveau_flowers'
     name 'Art Nouveau Flowers'
     homepage 'http://www.dafont.com/art-nouveau-flowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Art Nouveau Flowers.ttf'
 end

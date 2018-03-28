@@ -5,7 +5,6 @@ cask 'dafont-djb-speak-up' do
     url 'http://dl.dafont.com/dl/?f=djb_speak_up'
     name 'DJB Speak Up'
     homepage 'http://www.dafont.com/djb-speak-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Speak Up.ttf'
 end

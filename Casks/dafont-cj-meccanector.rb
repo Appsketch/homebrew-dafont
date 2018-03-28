@@ -5,7 +5,6 @@ cask 'dafont-cj-meccanector' do
     url 'http://dl.dafont.com/dl/?f=cj_meccanector'
     name 'CJ Meccanector'
     homepage 'http://www.dafont.com/cj-meccanector.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CJMeccanector.ttf'
 end

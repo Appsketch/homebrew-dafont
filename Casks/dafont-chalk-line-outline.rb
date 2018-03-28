@@ -5,7 +5,6 @@ cask 'dafont-chalk-line-outline' do
     url 'http://dl.dafont.com/dl/?f=chalk_line_outline'
     name 'Chalk Line Outline'
     homepage 'http://www.dafont.com/chalk-line-outline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chalk Line Outline.ttf'
 end

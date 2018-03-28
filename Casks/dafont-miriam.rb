@@ -5,7 +5,6 @@ cask 'dafont-miriam' do
     url 'http://dl.dafont.com/dl/?f=miriam'
     name 'Miriam'
     homepage 'http://www.dafont.com/miriam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'miriam.ttf'
 end

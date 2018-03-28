@@ -5,7 +5,6 @@ cask 'dafont-pixel-verde' do
     url 'http://dl.dafont.com/dl/?f=pixel_verde'
     name 'Pixel Verde'
     homepage 'http://www.dafont.com/pixel-verde.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel verde.ttf'
 end

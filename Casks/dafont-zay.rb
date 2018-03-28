@@ -5,7 +5,6 @@ cask 'dafont-zay' do
     url 'http://dl.dafont.com/dl/?f=zay'
     name 'Zay'
     homepage 'http://www.dafont.com/zay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zay.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-me-and-your-mother' do
     url 'http://dl.dafont.com/dl/?f=me_and_your_mother'
     name 'Me and your mother'
     homepage 'http://www.dafont.com/me-and-your-mother.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Me and your mother.ttf'
 end

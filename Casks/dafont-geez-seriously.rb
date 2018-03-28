@@ -5,7 +5,6 @@ cask 'dafont-geez-seriously' do
     url 'http://dl.dafont.com/dl/?f=geez_seriously'
     name 'Geez... Seriously??!!..'
     homepage 'http://www.dafont.com/geez-seriously.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Geez... Seriously!!....ttf'
 end

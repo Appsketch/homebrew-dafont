@@ -5,7 +5,6 @@ cask 'dafont-oravanpy-r' do
     url 'http://dl.dafont.com/dl/?f=oravanpy_r'
     name 'Oravanpy&ouml;r&auml;'
     homepage 'http://www.dafont.com/oravanpy-r.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oravanpyora.ttf'
 end

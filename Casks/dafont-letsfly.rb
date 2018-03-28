@@ -5,7 +5,6 @@ cask 'dafont-letsfly' do
     url 'http://dl.dafont.com/dl/?f=letsfly'
     name 'Lets Fly'
     homepage 'http://www.dafont.com/letsfly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LetsFly.ttf'
 end

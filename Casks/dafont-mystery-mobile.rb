@@ -5,7 +5,6 @@ cask 'dafont-mystery-mobile' do
     url 'http://dl.dafont.com/dl/?f=mystery_mobile'
     name 'Mystery Mobile'
     homepage 'http://www.dafont.com/mystery-mobile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mysterymobile.ttf'
     font 'mysterymobile3d.ttf'

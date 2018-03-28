@@ -5,7 +5,6 @@ cask 'dafont-chicago-express' do
     url 'http://dl.dafont.com/dl/?f=chicago_express'
     name 'Chicago Express'
     homepage 'http://www.dafont.com/chicago-express.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chicagoexpress.ttf'
     font 'chicagoexpress3d.ttf'

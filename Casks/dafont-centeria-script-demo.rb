@@ -5,7 +5,6 @@ cask 'dafont-centeria-script-demo' do
     url 'http://dl.dafont.com/dl/?f=centeria_script_demo'
     name 'Centeria Script'
     homepage 'http://www.dafont.com/centeria-script-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CenteriaScriptDemo.otf'
 end

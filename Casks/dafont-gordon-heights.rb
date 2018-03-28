@@ -5,7 +5,6 @@ cask 'dafont-gordon-heights' do
     url 'http://dl.dafont.com/dl/?f=gordon_heights'
     name 'Gordon Heights'
     homepage 'http://www.dafont.com/gordon-heights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gordon Heights.ttf'
 end

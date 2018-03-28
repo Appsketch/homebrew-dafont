@@ -5,7 +5,6 @@ cask 'dafont-mega-cherry' do
     url 'http://dl.dafont.com/dl/?f=mega_cherry'
     name 'Mega Cherry'
     homepage 'http://www.dafont.com/mega-cherry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MegaCherryV1.ttf'
 end

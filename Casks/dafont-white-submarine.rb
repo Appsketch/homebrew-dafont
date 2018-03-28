@@ -5,7 +5,6 @@ cask 'dafont-white-submarine' do
     url 'http://dl.dafont.com/dl/?f=white_submarine'
     name 'White Submarine'
     homepage 'http://www.dafont.com/white-submarine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'White Submarine.ttf'
 end

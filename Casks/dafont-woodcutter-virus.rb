@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-virus' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_virus'
     name 'Woodcutter Virus'
     homepage 'http://www.dafont.com/woodcutter-virus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter VIRUS.ttf'
 end

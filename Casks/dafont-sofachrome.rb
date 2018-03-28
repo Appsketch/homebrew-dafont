@@ -5,7 +5,6 @@ cask 'dafont-sofachrome' do
     url 'http://dl.dafont.com/dl/?f=sofachrome'
     name 'Sofachrome'
     homepage 'http://www.dafont.com/sofachrome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sofachrome rg it.ttf'
     font 'sofachrome rg.ttf'

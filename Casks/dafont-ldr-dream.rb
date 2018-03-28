@@ -5,7 +5,6 @@ cask 'dafont-ldr-dream' do
     url 'http://dl.dafont.com/dl/?f=ldr_dream'
     name 'LDR Dream'
     homepage 'http://www.dafont.com/ldr-dream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ldr_dream.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-creepygirl' do
     url 'http://dl.dafont.com/dl/?f=creepygirl'
     name 'Creepygirl'
     homepage 'http://www.dafont.com/creepygirl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CREEL___.TTF'
     font 'CREELO__.TTF'

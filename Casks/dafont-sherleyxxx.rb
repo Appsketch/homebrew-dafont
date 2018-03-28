@@ -5,7 +5,6 @@ cask 'dafont-sherleyxxx' do
     url 'http://dl.dafont.com/dl/?f=sherleyxxx'
     name 'Sherley XXX'
     homepage 'http://www.dafont.com/sherleyxxx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHERXN__.TTF'
 end

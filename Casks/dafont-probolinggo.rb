@@ -5,7 +5,6 @@ cask 'dafont-probolinggo' do
     url 'http://dl.dafont.com/dl/?f=probolinggo'
     name 'Probolinggo'
     homepage 'http://www.dafont.com/probolinggo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'probolinggo.ttf'
 end

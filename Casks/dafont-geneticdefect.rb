@@ -5,7 +5,6 @@ cask 'dafont-geneticdefect' do
     url 'http://dl.dafont.com/dl/?f=geneticdefect'
     name 'Genetic Defect'
     homepage 'http://www.dafont.com/geneticdefect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GENED___.TTF'
 end

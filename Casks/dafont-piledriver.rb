@@ -5,7 +5,6 @@ cask 'dafont-piledriver' do
     url 'http://dl.dafont.com/dl/?f=piledriver'
     name 'Piledriver'
     homepage 'http://www.dafont.com/piledriver.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PILEDRIV.TTF'
 end

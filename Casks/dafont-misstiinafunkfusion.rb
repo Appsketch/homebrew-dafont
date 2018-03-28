@@ -5,7 +5,6 @@ cask 'dafont-misstiinafunkfusion' do
     url 'http://dl.dafont.com/dl/?f=misstiinafunkfusion'
     name 'MTF Funk Fusion'
     homepage 'http://www.dafont.com/misstiinafunkfusion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Funk Fusion.ttf'
 end

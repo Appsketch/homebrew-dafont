@@ -5,7 +5,6 @@ cask 'dafont-horst-blackletter' do
     url 'http://dl.dafont.com/dl/?f=horst_blackletter'
     name 'Horst Blackletter'
     homepage 'http://www.dafont.com/horst-blackletter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Horst Blackletter Demo.ttf'
 end

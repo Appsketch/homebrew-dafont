@@ -5,7 +5,6 @@ cask 'dafont-bfstencil' do
     url 'http://dl.dafont.com/dl/?f=bfstencil'
     name 'BFStencil'
     homepage 'http://www.dafont.com/bfstencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BFStencil.ttf'
 end

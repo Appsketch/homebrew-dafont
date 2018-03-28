@@ -5,7 +5,6 @@ cask 'dafont-meteosat' do
     url 'http://dl.dafont.com/dl/?f=meteosat'
     name 'Meteo Sat'
     homepage 'http://www.dafont.com/meteosat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MeteoSat.ttf'
 end

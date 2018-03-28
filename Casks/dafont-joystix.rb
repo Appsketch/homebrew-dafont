@@ -5,7 +5,6 @@ cask 'dafont-joystix' do
     url 'http://dl.dafont.com/dl/?f=joystix'
     name 'Joystix'
     homepage 'http://www.dafont.com/joystix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ot/joystix monospace.otf'
 end

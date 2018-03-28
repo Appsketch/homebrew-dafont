@@ -5,7 +5,6 @@ cask 'dafont-ninjas' do
     url 'http://dl.dafont.com/dl/?f=ninjas'
     name 'Ninjas'
     homepage 'http://www.dafont.com/ninjas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NINJAS.TTF'
 end

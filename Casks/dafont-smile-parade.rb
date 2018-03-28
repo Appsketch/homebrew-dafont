@@ -5,7 +5,6 @@ cask 'dafont-smile-parade' do
     url 'http://dl.dafont.com/dl/?f=smile_parade'
     name 'Smile Parade'
     homepage 'http://www.dafont.com/smile-parade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smile Parade.ttf'
 end

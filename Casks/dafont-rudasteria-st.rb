@@ -5,7 +5,6 @@ cask 'dafont-rudasteria-st' do
     url 'http://dl.dafont.com/dl/?f=rudasteria_st'
     name 'Rudasteria St'
     homepage 'http://www.dafont.com/rudasteria-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rudasteria St.ttf'
 end

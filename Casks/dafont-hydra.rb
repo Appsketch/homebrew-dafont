@@ -5,7 +5,6 @@ cask 'dafont-hydra' do
     url 'http://dl.dafont.com/dl/?f=hydra'
     name 'Hydra'
     homepage 'http://www.dafont.com/hydra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HYDRA.TTF'
 end

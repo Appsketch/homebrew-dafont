@@ -5,7 +5,6 @@ cask 'dafont-repulsor' do
     url 'http://dl.dafont.com/dl/?f=repulsor'
     name 'Repulsor'
     homepage 'http://www.dafont.com/repulsor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'repulsor.ttf'
     font 'repulsore.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-people-diverse' do
     url 'http://dl.dafont.com/dl/?f=people_diverse'
     name 'People Diverse'
     homepage 'http://www.dafont.com/people-diverse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'people_diverse.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-peanutbutterjelly' do
     url 'http://dl.dafont.com/dl/?f=peanutbutterjelly'
     name 'Peanut Butter Jelly'
     homepage 'http://www.dafont.com/peanutbutterjelly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PeanutButterJelly.ttf'
 end

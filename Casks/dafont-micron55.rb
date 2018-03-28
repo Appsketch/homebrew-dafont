@@ -5,7 +5,6 @@ cask 'dafont-micron55' do
     url 'http://dl.dafont.com/dl/?f=micron55'
     name 'Micro N55'
     homepage 'http://www.dafont.com/micron55.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MicroN55.ttf'
 end

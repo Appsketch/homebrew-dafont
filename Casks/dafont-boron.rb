@@ -5,7 +5,6 @@ cask 'dafont-boron' do
     url 'http://dl.dafont.com/dl/?f=boron'
     name 'Boron'
     homepage 'http://www.dafont.com/boron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'boron.ttf'
 end

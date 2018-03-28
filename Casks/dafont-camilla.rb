@@ -5,7 +5,6 @@ cask 'dafont-camilla' do
     url 'http://dl.dafont.com/dl/?f=camilla'
     name 'Camilla'
     homepage 'http://www.dafont.com/camilla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'camilla.ttf'
 end

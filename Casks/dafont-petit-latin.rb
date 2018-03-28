@@ -5,7 +5,6 @@ cask 'dafont-petit-latin' do
     url 'http://dl.dafont.com/dl/?f=petit_latin'
     name 'Petit Latin'
     homepage 'http://www.dafont.com/petit-latin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PetitLatin.ttf'
 end

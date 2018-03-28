@@ -5,7 +5,6 @@ cask 'dafont-technoid' do
     url 'http://dl.dafont.com/dl/?f=technoid'
     name 'Technoid'
     homepage 'http://www.dafont.com/technoid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TECHNOID.TTF'
 end

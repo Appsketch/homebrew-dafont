@@ -5,7 +5,6 @@ cask 'dafont-dagon-gothic' do
     url 'http://dl.dafont.com/dl/?f=dagon_gothic'
     name 'Dagon Gothic'
     homepage 'http://www.dafont.com/dagon-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dagon Gothic.ttf'
 end

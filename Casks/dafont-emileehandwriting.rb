@@ -5,7 +5,6 @@ cask 'dafont-emileehandwriting' do
     url 'http://dl.dafont.com/dl/?f=emileehandwriting'
     name 'Emilee Handwriting'
     homepage 'http://www.dafont.com/emileehandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EmileeHandwriting.ttf'
 end

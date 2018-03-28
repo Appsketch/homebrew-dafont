@@ -5,7 +5,6 @@ cask 'dafont-1980-portable' do
     url 'http://dl.dafont.com/dl/?f=1980_portable'
     name '1980 Portable'
     homepage 'http://www.dafont.com/1980-portable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1980 portable.ttf'
 end

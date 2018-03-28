@@ -5,7 +5,6 @@ cask 'dafont-epilog' do
     url 'http://dl.dafont.com/dl/?f=epilog'
     name 'Epilog'
     homepage 'http://www.dafont.com/epilog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'epilog.ttf'
 end

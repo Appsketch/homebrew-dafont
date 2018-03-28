@@ -5,7 +5,6 @@ cask 'dafont-inero' do
     url 'http://dl.dafont.com/dl/?f=inero'
     name 'Inero'
     homepage 'http://www.dafont.com/inero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'inero.ttf'
 end

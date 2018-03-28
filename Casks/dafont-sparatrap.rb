@@ -5,7 +5,6 @@ cask 'dafont-sparatrap' do
     url 'http://dl.dafont.com/dl/?f=sparatrap'
     name 'Sparatrap'
     homepage 'http://www.dafont.com/sparatrap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sparatrap.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-levinaiveletter' do
     url 'http://dl.dafont.com/dl/?f=levinaiveletter'
     name 'Levi Naive Letter'
     homepage 'http://www.dafont.com/levinaiveletter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEVINAIVE.TTF'
 end

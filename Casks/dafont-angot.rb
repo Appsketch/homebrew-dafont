@@ -5,7 +5,6 @@ cask 'dafont-angot' do
     url 'http://dl.dafont.com/dl/?f=angot'
     name 'Angot'
     homepage 'http://www.dafont.com/angot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angot.ttf'
 end

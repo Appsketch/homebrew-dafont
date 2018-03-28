@@ -5,7 +5,6 @@ cask 'dafont-avidanova' do
     url 'http://dl.dafont.com/dl/?f=avidanova'
     name 'A Vida Nova'
     homepage 'http://www.dafont.com/avidanova.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AVidaNova.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fine-serif-hosomozi-g' do
     url 'http://dl.dafont.com/dl/?f=fine_serif_hosomozi_g'
     name 'Fine Serif Hosomozi G'
     homepage 'http://www.dafont.com/fine-serif-hosomozi-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_fine_serif_hosomozi.ttf'
 end

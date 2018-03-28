@@ -5,7 +5,6 @@ cask 'dafont-xenik' do
     url 'http://dl.dafont.com/dl/?f=xenik'
     name 'Xenik'
     homepage 'http://www.dafont.com/xenik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xenik free promo.ttf'
 end

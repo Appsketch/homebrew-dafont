@@ -5,7 +5,6 @@ cask 'dafont-no-clocks' do
     url 'http://dl.dafont.com/dl/?f=no_clocks'
     name 'No Clocks'
     homepage 'http://www.dafont.com/no-clocks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'no clocks.ttf'
 end

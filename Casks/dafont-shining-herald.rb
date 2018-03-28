@@ -5,7 +5,6 @@ cask 'dafont-shining-herald' do
     url 'http://dl.dafont.com/dl/?f=shining_herald'
     name 'Shining Herald'
     homepage 'http://www.dafont.com/shining-herald.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shiningherald.ttf'
     font 'shiningherald3d.ttf'

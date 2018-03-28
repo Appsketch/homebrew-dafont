@@ -5,7 +5,6 @@ cask 'dafont-poulpi-font' do
     url 'http://dl.dafont.com/dl/?f=poulpi_font'
     name 'Poulpi'
     homepage 'http://www.dafont.com/poulpi-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Poulpi Font.ttf'
 end

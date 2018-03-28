@@ -5,7 +5,6 @@ cask 'dafont-alfie-ferdinand' do
     url 'http://dl.dafont.com/dl/?f=alfie_ferdinand'
     name 'Alfie Ferdinand'
     homepage 'http://www.dafont.com/alfie-ferdinand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alfie-Ferdinand.ttf'
 end

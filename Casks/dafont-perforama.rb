@@ -5,7 +5,6 @@ cask 'dafont-perforama' do
     url 'http://dl.dafont.com/dl/?f=perforama'
     name 'Perforama'
     homepage 'http://www.dafont.com/perforama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Perforama-Italic.otf'
     font 'Perforama.otf'

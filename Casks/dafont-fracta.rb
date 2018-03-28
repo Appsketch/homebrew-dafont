@@ -5,7 +5,6 @@ cask 'dafont-fracta' do
     url 'http://dl.dafont.com/dl/?f=fracta'
     name 'Fracta'
     homepage 'http://www.dafont.com/fracta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fracta.ttf'
     font 'fractabold.ttf'

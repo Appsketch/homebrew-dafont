@@ -5,7 +5,6 @@ cask 'dafont-lazy-day' do
     url 'http://dl.dafont.com/dl/?f=lazy_day'
     name 'Lazy Day'
     homepage 'http://www.dafont.com/lazy-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LAZYDAY_.TTF'
 end

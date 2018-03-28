@@ -5,7 +5,6 @@ cask 'dafont-crackbars' do
     url 'http://dl.dafont.com/dl/?f=crackbars'
     name 'Crack Bars'
     homepage 'http://www.dafont.com/crackbars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrackBars.ttf'
 end

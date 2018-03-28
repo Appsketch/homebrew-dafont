@@ -5,7 +5,6 @@ cask 'dafont-abegnale' do
     url 'http://dl.dafont.com/dl/?f=abegnale'
     name 'Abegnale'
     homepage 'http://www.dafont.com/abegnale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abegnale-Free Version.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ji-amalgam' do
     url 'http://dl.dafont.com/dl/?f=ji_amalgam'
     name 'JI Amalgam'
     homepage 'http://www.dafont.com/ji-amalgam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amalgam.otf'
 end

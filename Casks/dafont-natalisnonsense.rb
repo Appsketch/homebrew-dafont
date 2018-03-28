@@ -5,7 +5,6 @@ cask 'dafont-natalisnonsense' do
     url 'http://dl.dafont.com/dl/?f=natalisnonsense'
     name 'Natalis Nonsense'
     homepage 'http://www.dafont.com/natalisnonsense.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NatalisNonsense.ttf'
 end

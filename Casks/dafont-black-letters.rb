@@ -5,7 +5,6 @@ cask 'dafont-black-letters' do
     url 'http://dl.dafont.com/dl/?f=black_letters'
     name 'Black Letters'
     homepage 'http://www.dafont.com/black-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black_Letters.ttf'
 end

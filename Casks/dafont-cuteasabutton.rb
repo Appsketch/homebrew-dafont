@@ -5,7 +5,6 @@ cask 'dafont-cuteasabutton' do
     url 'http://dl.dafont.com/dl/?f=cuteasabutton'
     name 'Cute As A Button'
     homepage 'http://www.dafont.com/cuteasabutton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CuteAsAButton.ttf'
 end

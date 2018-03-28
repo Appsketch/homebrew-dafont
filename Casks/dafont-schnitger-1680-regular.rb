@@ -5,7 +5,6 @@ cask 'dafont-schnitger-1680-regular' do
     url 'http://dl.dafont.com/dl/?f=schnitger_1680_regular'
     name 'Schnitger 1680'
     homepage 'http://www.dafont.com/schnitger-1680-regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Schnitger_1680_Regular.TTF'
 end

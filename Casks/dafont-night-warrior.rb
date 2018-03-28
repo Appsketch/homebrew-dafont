@@ -5,7 +5,6 @@ cask 'dafont-night-warrior' do
     url 'http://dl.dafont.com/dl/?f=night_warrior'
     name 'Night Warrior'
     homepage 'http://www.dafont.com/night-warrior.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nightwarrior.ttf'
 end

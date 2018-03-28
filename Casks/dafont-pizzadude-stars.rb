@@ -5,7 +5,6 @@ cask 'dafont-pizzadude-stars' do
     url 'http://dl.dafont.com/dl/?f=pizzadude_stars'
     name 'PizzaDude Stars'
     homepage 'http://www.dafont.com/pizzadude-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIZZADUDESTARS.ttf'
 end

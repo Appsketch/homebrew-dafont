@@ -5,7 +5,6 @@ cask 'dafont-wortellina' do
     url 'http://dl.dafont.com/dl/?f=wortellina'
     name 'Wortellina'
     homepage 'http://www.dafont.com/wortellina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wortellina.ttf'
 end

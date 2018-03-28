@@ -5,7 +5,6 @@ cask 'dafont-nero-davola' do
     url 'http://dl.dafont.com/dl/?f=nero_davola'
     name 'Nero D&#039;Avola'
     homepage 'http://www.dafont.com/nero-davola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nero D&#039;Avola.ttf'
 end

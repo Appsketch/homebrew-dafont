@@ -5,7 +5,6 @@ cask 'dafont-strongvoid' do
     url 'http://dl.dafont.com/dl/?f=strongvoid'
     name 'Strong Void '
     homepage 'http://www.dafont.com/strongvoid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StrongVoid.ttf'
 end

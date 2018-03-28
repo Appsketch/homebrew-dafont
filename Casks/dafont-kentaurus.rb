@@ -5,7 +5,6 @@ cask 'dafont-kentaurus' do
     url 'http://dl.dafont.com/dl/?f=kentaurus'
     name 'Kentaurus'
     homepage 'http://www.dafont.com/kentaurus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kentaurus Bold Italic.otf'
     font 'Kentaurus Bold.otf'

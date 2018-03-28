@@ -5,7 +5,6 @@ cask 'dafont-full-pack-2025' do
     url 'http://dl.dafont.com/dl/?f=full_pack_2025'
     name 'Full Pack 2025'
     homepage 'http://www.dafont.com/full-pack-2025.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'full Pack 2025.ttf'
 end

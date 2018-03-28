@@ -5,7 +5,6 @@ cask 'dafont-99-badboy' do
     url 'http://dl.dafont.com/dl/?f=99_badboy'
     name '99% BadbOy'
     homepage 'http://www.dafont.com/99-badboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '99%BadbOy.ttf'
 end

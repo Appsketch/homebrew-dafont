@@ -5,7 +5,6 @@ cask 'dafont-ekas-handwriting' do
     url 'http://dl.dafont.com/dl/?f=ekas_handwriting'
     name 'Eka&#039;s Handwriting'
     homepage 'http://www.dafont.com/ekas-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eka&#039;s Handwriting.ttf'
 end

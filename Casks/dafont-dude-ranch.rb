@@ -5,7 +5,6 @@ cask 'dafont-dude-ranch' do
     url 'http://dl.dafont.com/dl/?f=dude_ranch'
     name 'Dude Ranch'
     homepage 'http://www.dafont.com/dude-ranch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dude_Ranch.ttf'
 end

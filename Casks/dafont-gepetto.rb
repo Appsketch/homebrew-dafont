@@ -5,7 +5,6 @@ cask 'dafont-gepetto' do
     url 'http://dl.dafont.com/dl/?f=gepetto'
     name 'Gepetto'
     homepage 'http://www.dafont.com/gepetto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gepetto.otf'
 end

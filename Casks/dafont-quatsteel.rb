@@ -5,7 +5,6 @@ cask 'dafont-quatsteel' do
     url 'http://dl.dafont.com/dl/?f=quatsteel'
     name 'Quat Steel'
     homepage 'http://www.dafont.com/quatsteel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuatSteel Update 2015.ttf'
 end

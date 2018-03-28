@@ -5,7 +5,6 @@ cask 'dafont-flip-flop' do
     url 'http://dl.dafont.com/dl/?f=flip_flop'
     name 'Flip Flop'
     homepage 'http://www.dafont.com/flip-flop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FLIPFLOP.TTF'
 end

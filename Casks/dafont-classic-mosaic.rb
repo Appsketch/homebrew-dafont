@@ -5,7 +5,6 @@ cask 'dafont-classic-mosaic' do
     url 'http://dl.dafont.com/dl/?f=classic_mosaic'
     name 'Classic Mosaic'
     homepage 'http://www.dafont.com/classic-mosaic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ClassicMosaic.ttf'
 end

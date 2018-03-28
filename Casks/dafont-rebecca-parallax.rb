@@ -5,7 +5,6 @@ cask 'dafont-rebecca-parallax' do
     url 'http://dl.dafont.com/dl/?f=rebecca_parallax'
     name 'Rebecca'
     homepage 'http://www.dafont.com/rebecca-parallax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REBECCA_.TTF'
 end

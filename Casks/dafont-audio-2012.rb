@@ -5,7 +5,6 @@ cask 'dafont-audio-2012' do
     url 'http://dl.dafont.com/dl/?f=audio_2012'
     name 'Audio 2012'
     homepage 'http://www.dafont.com/audio-2012.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'audio_2012.ttf'
 end

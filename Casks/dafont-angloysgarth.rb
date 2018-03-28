@@ -5,7 +5,6 @@ cask 'dafont-angloysgarth' do
     url 'http://dl.dafont.com/dl/?f=angloysgarth'
     name 'Anglo Ysgarth'
     homepage 'http://www.dafont.com/angloysgarth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AngloYsgarth Bold Italic.otf'
     font 'AngloYsgarth Bold.otf'

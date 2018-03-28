@@ -5,7 +5,6 @@ cask 'dafont-toonimals' do
     url 'http://dl.dafont.com/dl/?f=toonimals'
     name 'Toonimals'
     homepage 'http://www.dafont.com/toonimals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Toonimals.ttf'
 end

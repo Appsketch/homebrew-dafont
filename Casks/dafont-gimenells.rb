@@ -5,7 +5,6 @@ cask 'dafont-gimenells' do
     url 'http://dl.dafont.com/dl/?f=gimenells'
     name 'Gimenells'
     homepage 'http://www.dafont.com/gimenells.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gimenells/GIMEI___.TTF'
     font 'gimenells/GIMENELL.TTF'

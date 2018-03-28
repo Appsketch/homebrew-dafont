@@ -5,7 +5,6 @@ cask 'dafont-mf-i-like-it-bold' do
     url 'http://dl.dafont.com/dl/?f=mf_i_like_it_bold'
     name 'Mf I like it Bold'
     homepage 'http://www.dafont.com/mf-i-like-it-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf I like it BOLD.ttf'
 end

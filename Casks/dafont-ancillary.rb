@@ -5,7 +5,6 @@ cask 'dafont-ancillary' do
     url 'http://dl.dafont.com/dl/?f=ancillary'
     name 'Ancillary'
     homepage 'http://www.dafont.com/ancillary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ancillary-Bold.otf'
     font 'Ancillary-BoldItalic.otf'

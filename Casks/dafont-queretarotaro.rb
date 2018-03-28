@@ -5,7 +5,6 @@ cask 'dafont-queretarotaro' do
     url 'http://dl.dafont.com/dl/?f=queretarotaro'
     name 'Queretarotaro'
     homepage 'http://www.dafont.com/queretarotaro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Queretaro.ttf'
 end

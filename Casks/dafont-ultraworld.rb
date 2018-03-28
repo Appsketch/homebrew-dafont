@@ -5,7 +5,6 @@ cask 'dafont-ultraworld' do
     url 'http://dl.dafont.com/dl/?f=ultraworld'
     name 'Ultraworld'
     homepage 'http://www.dafont.com/ultraworld.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ULTRAWOR.TTF'
     font 'Ultraworld black.ttf'

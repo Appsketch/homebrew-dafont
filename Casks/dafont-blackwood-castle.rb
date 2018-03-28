@@ -5,7 +5,6 @@ cask 'dafont-blackwood-castle' do
     url 'http://dl.dafont.com/dl/?f=blackwood_castle'
     name 'Blackwood Castle'
     homepage 'http://www.dafont.com/blackwood-castle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLACC___.TTF'
     font 'BLACCS__.TTF'

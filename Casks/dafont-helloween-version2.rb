@@ -5,7 +5,6 @@ cask 'dafont-helloween-version2' do
     url 'http://dl.dafont.com/dl/?f=helloween_version2'
     name 'Helloween (version 2)'
     homepage 'http://www.dafont.com/helloween-version2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HELLOWEE.TTF'
 end

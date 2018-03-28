@@ -5,7 +5,6 @@ cask 'dafont-cf-marie-eve-cartoons' do
     url 'http://dl.dafont.com/dl/?f=cf_marie_eve_cartoons'
     name 'CF Marie Eve Cartoons'
     homepage 'http://www.dafont.com/cf-marie-eve-cartoons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFMarieEveCartoons-Regular.ttf'
 end

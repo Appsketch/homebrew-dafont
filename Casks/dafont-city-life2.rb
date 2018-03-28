@@ -5,7 +5,6 @@ cask 'dafont-city-life2' do
     url 'http://dl.dafont.com/dl/?f=city_life2'
     name 'City Life'
     homepage 'http://www.dafont.com/city-life2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CITY_LIFE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-somanydetails' do
     url 'http://dl.dafont.com/dl/?f=somanydetails'
     name 'So Many Details'
     homepage 'http://www.dafont.com/somanydetails.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SoManyDetails.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-crunchy-beef' do
     url 'http://dl.dafont.com/dl/?f=crunchy_beef'
     name 'Crunchy Beef'
     homepage 'http://www.dafont.com/crunchy-beef.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrunchyBeef.ttf'
     font 'CrunchyBeefAlias.ttf'

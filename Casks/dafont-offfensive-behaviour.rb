@@ -5,7 +5,6 @@ cask 'dafont-offfensive-behaviour' do
     url 'http://dl.dafont.com/dl/?f=offfensive_behaviour'
     name 'Offfensive Behaviour'
     homepage 'http://www.dafont.com/offfensive-behaviour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Offfensive Behaviour Regular.otf'
 end

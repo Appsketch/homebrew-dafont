@@ -5,7 +5,6 @@ cask 'dafont-djb-cris-script' do
     url 'http://dl.dafont.com/dl/?f=djb_cris_script'
     name 'DJB Cris Script'
     homepage 'http://www.dafont.com/djb-cris-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB CRIS script.ttf'
 end

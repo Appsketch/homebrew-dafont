@@ -5,7 +5,6 @@ cask 'dafont-lycanthrope' do
     url 'http://dl.dafont.com/dl/?f=lycanthrope'
     name 'Lycanthrope'
     homepage 'http://www.dafont.com/lycanthrope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lycanthrope.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mete' do
     url 'http://dl.dafont.com/dl/?f=mete'
     name 'Mete'
     homepage 'http://www.dafont.com/mete.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mete.ttf'
 end

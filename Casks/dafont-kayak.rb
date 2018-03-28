@@ -5,7 +5,6 @@ cask 'dafont-kayak' do
     url 'http://dl.dafont.com/dl/?f=kayak'
     name 'Kayak'
     homepage 'http://www.dafont.com/kayak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kayak.ttf'
 end

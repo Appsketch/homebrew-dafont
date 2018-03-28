@@ -5,7 +5,6 @@ cask 'dafont-billion-stars' do
     url 'http://dl.dafont.com/dl/?f=billion_stars'
     name 'Billion Stars'
     homepage 'http://www.dafont.com/billion-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BillionStars_PersonalUse.ttf'
 end

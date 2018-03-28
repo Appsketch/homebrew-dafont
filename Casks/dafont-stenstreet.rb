@@ -5,7 +5,6 @@ cask 'dafont-stenstreet' do
     url 'http://dl.dafont.com/dl/?f=stenstreet'
     name 'Stenstreet'
     homepage 'http://www.dafont.com/stenstreet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stenstreet.ttf'
 end

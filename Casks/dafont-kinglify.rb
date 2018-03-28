@@ -5,7 +5,6 @@ cask 'dafont-kinglify' do
     url 'http://dl.dafont.com/dl/?f=kinglify'
     name 'Kinglify'
     homepage 'http://www.dafont.com/kinglify.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kinglify.ttf'
 end

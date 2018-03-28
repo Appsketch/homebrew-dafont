@@ -5,7 +5,6 @@ cask 'dafont-rotulona-hand' do
     url 'http://dl.dafont.com/dl/?f=rotulona_hand'
     name 'Rotulona Hand'
     homepage 'http://www.dafont.com/rotulona-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rotulona-Hand-FFP-font.ttf'
 end

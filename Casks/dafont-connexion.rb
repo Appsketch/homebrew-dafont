@@ -5,7 +5,6 @@ cask 'dafont-connexion' do
     url 'http://dl.dafont.com/dl/?f=connexion'
     name 'Connexion'
     homepage 'http://www.dafont.com/connexion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Connexion.ttf'
 end

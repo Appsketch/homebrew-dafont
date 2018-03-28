@@ -5,7 +5,6 @@ cask 'dafont-large-handwriting' do
     url 'http://dl.dafont.com/dl/?f=large_handwriting'
     name 'Large Handwriting'
     homepage 'http://www.dafont.com/large-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Large_Handwriting.ttf'
 end

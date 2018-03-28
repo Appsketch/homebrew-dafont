@@ -5,7 +5,6 @@ cask 'dafont-gigit-apel' do
     url 'http://dl.dafont.com/dl/?f=gigit_apel'
     name 'Gigit Apel'
     homepage 'http://www.dafont.com/gigit-apel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fontgigitapel.ttf'
 end

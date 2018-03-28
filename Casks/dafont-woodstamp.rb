@@ -5,7 +5,6 @@ cask 'dafont-woodstamp' do
     url 'http://dl.dafont.com/dl/?f=woodstamp'
     name 'Woodstamp'
     homepage 'http://www.dafont.com/woodstamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodstamp.otf'
 end

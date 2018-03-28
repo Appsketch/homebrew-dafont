@@ -5,7 +5,6 @@ cask 'dafont-just-kidding' do
     url 'http://dl.dafont.com/dl/?f=just_kidding'
     name 'Just kidding'
     homepage 'http://www.dafont.com/just-kidding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'just kidding.ttf'
 end

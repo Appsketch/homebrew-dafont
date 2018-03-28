@@ -5,7 +5,6 @@ cask 'dafont-upakarti' do
     url 'http://dl.dafont.com/dl/?f=upakarti'
     name 'Upakarti'
     homepage 'http://www.dafont.com/upakarti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Upakarti Serong.ttf'
     font 'upakarti.ttf'

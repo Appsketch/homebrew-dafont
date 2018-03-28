@@ -5,7 +5,6 @@ cask 'dafont-all-yoko' do
     url 'http://dl.dafont.com/dl/?f=all_yoko'
     name 'All Yoko'
     homepage 'http://www.dafont.com/all-yoko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'All Yoko.ttf'
 end

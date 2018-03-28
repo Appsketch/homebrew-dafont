@@ -5,7 +5,6 @@ cask 'dafont-wabene' do
     url 'http://dl.dafont.com/dl/?f=wabene'
     name 'Wabene'
     homepage 'http://www.dafont.com/wabene.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wabene.ttf'
 end

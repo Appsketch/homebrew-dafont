@@ -5,7 +5,6 @@ cask 'dafont-rolinho' do
     url 'http://dl.dafont.com/dl/?f=rolinho'
     name 'Rolinho'
     homepage 'http://www.dafont.com/rolinho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rolinho.ttf'
 end

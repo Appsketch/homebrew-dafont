@@ -5,7 +5,6 @@ cask 'dafont-tegma' do
     url 'http://dl.dafont.com/dl/?f=tegma'
     name 'Tegma'
     homepage 'http://www.dafont.com/tegma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tegma.ttf'
 end

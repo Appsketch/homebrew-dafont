@@ -5,7 +5,6 @@ cask 'dafont-goma-standard02' do
     url 'http://dl.dafont.com/dl/?f=goma_standard02'
     name 'Goma Standard 02'
     homepage 'http://www.dafont.com/goma-standard02.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_goma-standard02.ttf'
 end

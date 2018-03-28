@@ -5,7 +5,6 @@ cask 'dafont-ownthatshhhh' do
     url 'http://dl.dafont.com/dl/?f=ownthatshhhh'
     name 'Own That Shhhh'
     homepage 'http://www.dafont.com/ownthatshhhh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OwnThatShhhh.ttf'
 end

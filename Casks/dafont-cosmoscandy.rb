@@ -5,7 +5,6 @@ cask 'dafont-cosmoscandy' do
     url 'http://dl.dafont.com/dl/?f=cosmoscandy'
     name 'Cosmos Candy'
     homepage 'http://www.dafont.com/cosmoscandy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COSMOSCA.TTF'
 end

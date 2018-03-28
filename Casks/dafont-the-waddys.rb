@@ -5,7 +5,6 @@ cask 'dafont-the-waddys' do
     url 'http://dl.dafont.com/dl/?f=the_waddys'
     name 'The Waddys'
     homepage 'http://www.dafont.com/the-waddys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Waddys.ttf'
 end

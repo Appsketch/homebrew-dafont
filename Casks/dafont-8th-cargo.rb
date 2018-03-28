@@ -5,7 +5,6 @@ cask 'dafont-8th-cargo' do
     url 'http://dl.dafont.com/dl/?f=8th_cargo'
     name '8th Cargo'
     homepage 'http://www.dafont.com/8th-cargo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '8th Cargo.ttf'
 end

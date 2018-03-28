@@ -5,7 +5,6 @@ cask 'dafont-forgotten-futurist' do
     url 'http://dl.dafont.com/dl/?f=forgotten_futurist'
     name 'Forgotten Futurist'
     homepage 'http://www.dafont.com/forgotten-futurist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'forgotten futurist bd it.ttf'
     font 'forgotten futurist bd.ttf'

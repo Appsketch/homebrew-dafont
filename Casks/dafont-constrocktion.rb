@@ -5,7 +5,6 @@ cask 'dafont-constrocktion' do
     url 'http://dl.dafont.com/dl/?f=constrocktion'
     name 'Constrocktion'
     homepage 'http://www.dafont.com/constrocktion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Constrocktion.ttf'
 end

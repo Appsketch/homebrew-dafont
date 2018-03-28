@@ -5,7 +5,6 @@ cask 'dafont-insidebox' do
     url 'http://dl.dafont.com/dl/?f=insidebox'
     name 'Inside Box'
     homepage 'http://www.dafont.com/insidebox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InsideBox.ttf'
 end

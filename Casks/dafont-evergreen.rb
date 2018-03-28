@@ -5,7 +5,6 @@ cask 'dafont-evergreen' do
     url 'http://dl.dafont.com/dl/?f=evergreen'
     name 'Evergreen'
     homepage 'http://www.dafont.com/evergreen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EVERGREEN.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-phlegmy-kilmister' do
     url 'http://dl.dafont.com/dl/?f=phlegmy_kilmister'
     name 'Phlegmy Kilmister'
     homepage 'http://www.dafont.com/phlegmy-kilmister.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PHLEGM~1.TTF'
 end

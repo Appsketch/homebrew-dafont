@@ -5,7 +5,6 @@ cask 'dafont-vice-presidente' do
     url 'http://dl.dafont.com/dl/?f=vice_presidente'
     name 'Vice Presidente'
     homepage 'http://www.dafont.com/vice-presidente.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VICEP___.TTF'
 end

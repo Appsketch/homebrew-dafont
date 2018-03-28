@@ -5,7 +5,6 @@ cask 'dafont-magic-beans' do
     url 'http://dl.dafont.com/dl/?f=magic_beans'
     name 'Magic Beans'
     homepage 'http://www.dafont.com/magic-beans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mbeans.ttf'
     font 'mbeans3d.ttf'

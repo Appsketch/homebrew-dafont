@@ -5,7 +5,6 @@ cask 'dafont-janda-christmas-doodles' do
     url 'http://dl.dafont.com/dl/?f=janda_christmas_doodles'
     name 'Janda Christmas Doodles'
     homepage 'http://www.dafont.com/janda-christmas-doodles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaChristmasDoodles.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-phenomenon' do
     url 'http://dl.dafont.com/dl/?f=phenomenon'
     name 'Phenomenon'
     homepage 'http://www.dafont.com/phenomenon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PHENOMENON.ttf'
 end

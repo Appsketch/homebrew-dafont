@@ -5,7 +5,6 @@ cask 'dafont-la-kame-a-leon' do
     url 'http://dl.dafont.com/dl/?f=la_kame_a_leon'
     name 'La Kame A Leon'
     homepage 'http://www.dafont.com/la-kame-a-leon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LA KAME A LEON.ttf'
 end

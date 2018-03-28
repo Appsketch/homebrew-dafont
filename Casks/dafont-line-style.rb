@@ -5,7 +5,6 @@ cask 'dafont-line-style' do
     url 'http://dl.dafont.com/dl/?f=line_style'
     name 'Line style'
     homepage 'http://www.dafont.com/line-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Line Style BOLD.ttf'
     font 'Line Style Ultralight.ttf'

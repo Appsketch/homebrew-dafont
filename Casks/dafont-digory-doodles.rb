@@ -5,7 +5,6 @@ cask 'dafont-digory-doodles' do
     url 'http://dl.dafont.com/dl/?f=digory_doodles'
     name 'Digory Doodles'
     homepage 'http://www.dafont.com/digory-doodles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digory_Doodles_PS.ttf'
 end

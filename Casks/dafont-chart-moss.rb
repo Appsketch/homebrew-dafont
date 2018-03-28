@@ -5,7 +5,6 @@ cask 'dafont-chart-moss' do
     url 'http://dl.dafont.com/dl/?f=chart_moss'
     name 'Chart Moss'
     homepage 'http://www.dafont.com/chart-moss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chat Moss.ttf'
 end

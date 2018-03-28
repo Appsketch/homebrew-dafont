@@ -5,7 +5,6 @@ cask 'dafont-enemafont' do
     url 'http://dl.dafont.com/dl/?f=enemafont'
     name 'Enemafont'
     homepage 'http://www.dafont.com/enemafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Enemafont.ttf'
 end

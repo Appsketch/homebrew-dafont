@@ -5,7 +5,6 @@ cask 'dafont-ftf-ahlan-ve-arabez-free' do
     url 'http://dl.dafont.com/dl/?f=ftf_ahlan_ve_arabez_free'
     name 'FTF Ahlan Ve Arabez'
     homepage 'http://www.dafont.com/ftf-ahlan-ve-arabez-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Ahlan Ve Arabez FREE.ttf'
 end

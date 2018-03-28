@@ -5,7 +5,6 @@ cask 'dafont-ksafont' do
     url 'http://dl.dafont.com/dl/?f=ksafont'
     name 'Ksafont'
     homepage 'http://www.dafont.com/ksafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KSAFONT.ttf'
 end

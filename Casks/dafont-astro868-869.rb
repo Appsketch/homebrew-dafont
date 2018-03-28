@@ -5,7 +5,6 @@ cask 'dafont-astro868-869' do
     url 'http://dl.dafont.com/dl/?f=astro868_869'
     name 'Astro 868 + Astro 869'
     homepage 'http://www.dafont.com/astro868-869.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASTRO868.TTF'
     font 'ASTRO869.TTF'

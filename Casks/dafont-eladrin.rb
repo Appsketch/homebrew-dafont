@@ -5,7 +5,6 @@ cask 'dafont-eladrin' do
     url 'http://dl.dafont.com/dl/?f=eladrin'
     name 'Eladrin'
     homepage 'http://www.dafont.com/eladrin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eladrin.ttf'
 end

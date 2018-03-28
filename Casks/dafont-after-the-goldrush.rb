@@ -5,7 +5,6 @@ cask 'dafont-after-the-goldrush' do
     url 'http://dl.dafont.com/dl/?f=after_the_goldrush'
     name 'After the Goldrush'
     homepage 'http://www.dafont.com/after-the-goldrush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'After the Goldrush.ttf'
 end

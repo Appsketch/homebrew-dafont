@@ -5,7 +5,6 @@ cask 'dafont-contour-generator' do
     url 'http://dl.dafont.com/dl/?f=contour_generator'
     name 'Contour Generator'
     homepage 'http://www.dafont.com/contour-generator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'contour generator.ttf'
 end

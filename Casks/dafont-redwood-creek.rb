@@ -5,7 +5,6 @@ cask 'dafont-redwood-creek' do
     url 'http://dl.dafont.com/dl/?f=redwood_creek'
     name 'Redwood Creek'
     homepage 'http://www.dafont.com/redwood-creek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Redwood Creek.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-biscuit-pro' do
     url 'http://dl.dafont.com/dl/?f=biscuit_pro'
     name 'Biscuit Pro'
     homepage 'http://www.dafont.com/biscuit-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Biscuit_Pro_Demo.ttf'
 end

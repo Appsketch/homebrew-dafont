@@ -5,7 +5,6 @@ cask 'dafont-aha-na-masa' do
     url 'http://dl.dafont.com/dl/?f=aha_na_masa'
     name 'Aha Na Masa?'
     homepage 'http://www.dafont.com/aha-na-masa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aha_na_masa.ttf'
 end

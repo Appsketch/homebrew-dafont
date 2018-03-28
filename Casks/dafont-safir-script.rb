@@ -5,7 +5,6 @@ cask 'dafont-safir-script' do
     url 'http://dl.dafont.com/dl/?f=safir_script'
     name 'Safir Script'
     homepage 'http://www.dafont.com/safir-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SafirScript_PERSONAL_USE.ttf'
 end

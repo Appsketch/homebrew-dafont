@@ -5,7 +5,6 @@ cask 'dafont-funky-chunky' do
     url 'http://dl.dafont.com/dl/?f=funky_chunky'
     name 'Funky Chunky'
     homepage 'http://www.dafont.com/funky-chunky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'funky chunky.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bravado' do
     url 'http://dl.dafont.com/dl/?f=bravado'
     name 'Bravado'
     homepage 'http://www.dafont.com/bravado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bravado_block_thin.ttf'
     font 'bravado_block.ttf'

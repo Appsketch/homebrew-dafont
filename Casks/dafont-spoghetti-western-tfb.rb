@@ -5,7 +5,6 @@ cask 'dafont-spoghetti-western-tfb' do
     url 'http://dl.dafont.com/dl/?f=spoghetti_western_tfb'
     name 'Spoghetti Western TFB'
     homepage 'http://www.dafont.com/spoghetti-western-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spoghetti Western tfb.ttf'
 end

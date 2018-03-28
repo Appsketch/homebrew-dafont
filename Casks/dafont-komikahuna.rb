@@ -5,7 +5,6 @@ cask 'dafont-komikahuna' do
     url 'http://dl.dafont.com/dl/?f=komikahuna'
     name 'KomikaHuna'
     homepage 'http://www.dafont.com/komikahuna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKAHN.ttf'
 end

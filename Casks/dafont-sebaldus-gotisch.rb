@@ -5,7 +5,6 @@ cask 'dafont-sebaldus-gotisch' do
     url 'http://dl.dafont.com/dl/?f=sebaldus_gotisch'
     name 'Sebaldus-Gotisch'
     homepage 'http://www.dafont.com/sebaldus-gotisch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sebaldus-Gotisch.ttf'
 end

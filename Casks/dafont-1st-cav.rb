@@ -5,7 +5,6 @@ cask 'dafont-1st-cav' do
     url 'http://dl.dafont.com/dl/?f=1st_cav'
     name '1st Cav'
     homepage 'http://www.dafont.com/1st-cav.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1stcav.ttf'
     font '1stcav2.ttf'

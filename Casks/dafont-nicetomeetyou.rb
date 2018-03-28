@@ -5,7 +5,6 @@ cask 'dafont-nicetomeetyou' do
     url 'http://dl.dafont.com/dl/?f=nicetomeetyou'
     name 'Nice to Meet You'
     homepage 'http://www.dafont.com/nicetomeetyou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NicetoMeetYou.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-skylarking' do
     url 'http://dl.dafont.com/dl/?f=skylarking'
     name 'Skylarking'
     homepage 'http://www.dafont.com/skylarking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skylarking.ttf'
 end

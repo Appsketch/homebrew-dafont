@@ -5,7 +5,6 @@ cask 'dafont-neotrash' do
     url 'http://dl.dafont.com/dl/?f=neotrash'
     name 'Neo Trash'
     homepage 'http://www.dafont.com/neotrash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeoTrash (milabrya).ttf'
 end

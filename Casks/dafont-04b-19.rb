@@ -5,7 +5,6 @@ cask 'dafont-04b-19' do
     url 'http://dl.dafont.com/dl/?f=04b_19'
     name '04b_19'
     homepage 'http://www.dafont.com/04b-19.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '04B_19__.TTF'
 end

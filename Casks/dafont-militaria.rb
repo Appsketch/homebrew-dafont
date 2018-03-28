@@ -5,7 +5,6 @@ cask 'dafont-militaria' do
     url 'http://dl.dafont.com/dl/?f=militaria'
     name 'Militaria'
     homepage 'http://www.dafont.com/militaria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Militaria.ttf'
 end

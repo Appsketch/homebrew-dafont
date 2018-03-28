@@ -5,7 +5,6 @@ cask 'dafont-harley-queen' do
     url 'http://dl.dafont.com/dl/?f=harley_queen'
     name 'Harley Queen'
     homepage 'http://www.dafont.com/harley-queen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HARLEY QUEEN.ttf'
 end

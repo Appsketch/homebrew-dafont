@@ -5,7 +5,6 @@ cask 'dafont-senyum2' do
     url 'http://dl.dafont.com/dl/?f=senyum2'
     name 'Senyum'
     homepage 'http://www.dafont.com/senyum2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Senyum.ttf'
 end

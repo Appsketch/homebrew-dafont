@@ -5,7 +5,6 @@ cask 'dafont-arcanum-order' do
     url 'http://dl.dafont.com/dl/?f=arcanum_order'
     name 'Arcanum Order'
     homepage 'http://www.dafont.com/arcanum-order.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arcanum_Order.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-elsa' do
     url 'http://dl.dafont.com/dl/?f=elsa'
     name 'Elsa'
     homepage 'http://www.dafont.com/elsa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elsa-Regular.otf'
 end

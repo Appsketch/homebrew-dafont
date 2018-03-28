@@ -5,7 +5,6 @@ cask 'dafont-donkeypunch' do
     url 'http://dl.dafont.com/dl/?f=donkeypunch'
     name 'Donkey Punch'
     homepage 'http://www.dafont.com/donkeypunch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DonkeyPunch.ttf'
 end

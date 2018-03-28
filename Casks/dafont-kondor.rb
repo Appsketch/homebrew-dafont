@@ -5,7 +5,6 @@ cask 'dafont-kondor' do
     url 'http://dl.dafont.com/dl/?f=kondor'
     name 'Kondor'
     homepage 'http://www.dafont.com/kondor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kondor.ttf'
     font 'kondor3d.ttf'

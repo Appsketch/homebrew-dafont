@@ -5,7 +5,6 @@ cask 'dafont-hickory-jack' do
     url 'http://dl.dafont.com/dl/?f=hickory_jack'
     name 'Hickory Jack'
     homepage 'http://www.dafont.com/hickory-jack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hickory Jack Light.ttf'
     font 'Hickory Jack.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-break-it-sweet' do
     url 'http://dl.dafont.com/dl/?f=break_it_sweet'
     name 'Break It Sweet'
     homepage 'http://www.dafont.com/break-it-sweet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Break It Sweet.ttf'
 end

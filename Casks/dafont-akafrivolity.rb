@@ -5,7 +5,6 @@ cask 'dafont-akafrivolity' do
     url 'http://dl.dafont.com/dl/?f=akafrivolity'
     name 'Aka Frivolity'
     homepage 'http://www.dafont.com/akafrivolity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'akaFrivolity.ttf'
 end

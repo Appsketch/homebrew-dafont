@@ -5,7 +5,6 @@ cask 'dafont-pakenham' do
     url 'http://dl.dafont.com/dl/?f=pakenham'
     name 'Pakenham'
     homepage 'http://www.dafont.com/pakenham.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pakenham rg.ttf'
 end

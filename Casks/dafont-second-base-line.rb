@@ -5,7 +5,6 @@ cask 'dafont-second-base-line' do
     url 'http://dl.dafont.com/dl/?f=second_base_line'
     name 'Second Base Line'
     homepage 'http://www.dafont.com/second-base-line.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Second-Base-Line.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-morasoft' do
     url 'http://dl.dafont.com/dl/?f=morasoft'
     name 'Morasoft'
     homepage 'http://www.dafont.com/morasoft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Morasoft10.ttf'
     font 'Morasoft7.ttf'

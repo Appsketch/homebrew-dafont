@@ -5,7 +5,6 @@ cask 'dafont-ladybug-love' do
     url 'http://dl.dafont.com/dl/?f=ladybug_love'
     name 'Ladybug Love'
     homepage 'http://www.dafont.com/ladybug-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ladybug Love Demo.ttf'
 end

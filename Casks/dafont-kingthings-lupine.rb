@@ -5,7 +5,6 @@ cask 'dafont-kingthings-lupine' do
     url 'http://dl.dafont.com/dl/?f=kingthings_lupine'
     name 'Kingthings Lupine'
     homepage 'http://www.dafont.com/kingthings-lupine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Lupine1.1.ttf'
     font 'Kingthings Lupineless.ttf'

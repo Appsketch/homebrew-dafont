@@ -5,7 +5,6 @@ cask 'dafont-secret-files' do
     url 'http://dl.dafont.com/dl/?f=secret_files'
     name 'Secret Files'
     homepage 'http://www.dafont.com/secret-files.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'secretfiles.ttf'
     font 'secretfilesi.ttf'

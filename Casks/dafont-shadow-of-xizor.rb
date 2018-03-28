@@ -5,7 +5,6 @@ cask 'dafont-shadow-of-xizor' do
     url 'http://dl.dafont.com/dl/?f=shadow_of_xizor'
     name 'Shadow of Xizor'
     homepage 'http://www.dafont.com/shadow-of-xizor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHAXIZOR.TTF'
 end

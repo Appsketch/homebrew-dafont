@@ -5,7 +5,6 @@ cask 'dafont-beyond-these-things' do
     url 'http://dl.dafont.com/dl/?f=beyond_these_things'
     name 'Beyond These Things'
     homepage 'http://www.dafont.com/beyond-these-things.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beyond These Things.ttf'
 end

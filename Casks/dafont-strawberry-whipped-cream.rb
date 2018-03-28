@@ -5,7 +5,6 @@ cask 'dafont-strawberry-whipped-cream' do
     url 'http://dl.dafont.com/dl/?f=strawberry_whipped_cream'
     name 'Strawberry Whipped Cream'
     homepage 'http://www.dafont.com/strawberry-whipped-cream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strawberry Whipped Cream_2.ttf'
 end

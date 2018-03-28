@@ -5,7 +5,6 @@ cask 'dafont-pentagrams-salemica' do
     url 'http://dl.dafont.com/dl/?f=pentagrams_salemica'
     name 'PentaGram&#039;s Salemica'
     homepage 'http://www.dafont.com/pentagrams-salemica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PentaGrams Salemica.ttf'
 end

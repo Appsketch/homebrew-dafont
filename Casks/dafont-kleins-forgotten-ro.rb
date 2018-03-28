@@ -5,7 +5,6 @@ cask 'dafont-kleins-forgotten-ro' do
     url 'http://dl.dafont.com/dl/?f=kleins_forgotten_ro'
     name 'Kleins Forgotten Roman'
     homepage 'http://www.dafont.com/kleins-forgotten-ro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KleinsForgottenRoman.ttf'
 end

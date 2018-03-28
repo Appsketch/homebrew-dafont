@@ -5,7 +5,6 @@ cask 'dafont-masked-marvel' do
     url 'http://dl.dafont.com/dl/?f=masked_marvel'
     name 'Masked Marvel'
     homepage 'http://www.dafont.com/masked-marvel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mask.ttf'
     font 'maskb.ttf'

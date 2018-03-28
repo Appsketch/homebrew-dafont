@@ -5,7 +5,6 @@ cask 'dafont-dahaut' do
     url 'http://dl.dafont.com/dl/?f=dahaut'
     name 'Dahaut'
     homepage 'http://www.dafont.com/dahaut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dahaut__.ttf'
 end

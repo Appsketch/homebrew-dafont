@@ -5,7 +5,6 @@ cask 'dafont-bali-tolak-reklamasi' do
     url 'http://dl.dafont.com/dl/?f=bali_tolak_reklamasi'
     name 'Bali Tolak Reklamasi'
     homepage 'http://www.dafont.com/bali-tolak-reklamasi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BALI TOLAK REKLAMASI.ttf'
 end

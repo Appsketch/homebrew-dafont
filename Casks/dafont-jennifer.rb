@@ -5,7 +5,6 @@ cask 'dafont-jennifer' do
     url 'http://dl.dafont.com/dl/?f=jennifer'
     name 'Jennifer&#039;s hand writing'
     homepage 'http://www.dafont.com/jennifer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jennifers Hand Writing.ttf'
 end

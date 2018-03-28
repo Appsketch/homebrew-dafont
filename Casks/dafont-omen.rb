@@ -5,7 +5,6 @@ cask 'dafont-omen' do
     url 'http://dl.dafont.com/dl/?f=omen'
     name 'Omen'
     homepage 'http://www.dafont.com/omen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Omen.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-saint-valentines-day' do
     url 'http://dl.dafont.com/dl/?f=saint_valentines_day'
     name 'Saint Valentine&#039;s Day'
     homepage 'http://www.dafont.com/saint-valentines-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Saint Valentine&#039;s Day.ttf'
 end

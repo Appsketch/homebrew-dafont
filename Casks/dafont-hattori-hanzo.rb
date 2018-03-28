@@ -5,7 +5,6 @@ cask 'dafont-hattori-hanzo' do
     url 'http://dl.dafont.com/dl/?f=hattori_hanzo'
     name 'Hattori Hanzo'
     homepage 'http://www.dafont.com/hattori-hanzo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hattori Hanzo Italic.otf'
     font 'Hattori Hanzo.otf'

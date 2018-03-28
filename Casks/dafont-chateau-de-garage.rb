@@ -5,7 +5,6 @@ cask 'dafont-chateau-de-garage' do
     url 'http://dl.dafont.com/dl/?f=chateau_de_garage'
     name 'Chateau de Garage'
     homepage 'http://www.dafont.com/chateau-de-garage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChateaudeGarage_FREE_FOR_PERSONAL_USE_ONLY.ttf'
 end

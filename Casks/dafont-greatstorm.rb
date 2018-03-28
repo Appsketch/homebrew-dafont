@@ -5,7 +5,6 @@ cask 'dafont-greatstorm' do
     url 'http://dl.dafont.com/dl/?f=greatstorm'
     name 'Great Storm'
     homepage 'http://www.dafont.com/greatstorm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreatStorm.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sci-fied-bitmap' do
     url 'http://dl.dafont.com/dl/?f=sci_fied_bitmap'
     name 'Sci Fied Bitmap'
     homepage 'http://www.dafont.com/sci-fied-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scifibit.ttf'
 end

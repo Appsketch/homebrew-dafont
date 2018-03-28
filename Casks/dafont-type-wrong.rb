@@ -5,7 +5,6 @@ cask 'dafont-type-wrong' do
     url 'http://dl.dafont.com/dl/?f=type_wrong'
     name 'Type Wrong'
     homepage 'http://www.dafont.com/type-wrong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'typwrng.ttf'
 end

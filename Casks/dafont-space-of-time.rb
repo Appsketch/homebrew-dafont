@@ -5,7 +5,6 @@ cask 'dafont-space-of-time' do
     url 'http://dl.dafont.com/dl/?f=space_of_time'
     name 'Space of Time'
     homepage 'http://www.dafont.com/space-of-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'space of time.ttf'
 end

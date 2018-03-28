@@ -5,7 +5,6 @@ cask 'dafont-kr-new-astro' do
     url 'http://dl.dafont.com/dl/?f=kr_new_astro'
     name 'KR New Astro'
     homepage 'http://www.dafont.com/kr-new-astro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR New Astro.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-squareface' do
     url 'http://dl.dafont.com/dl/?f=squareface'
     name 'SquareFace'
     homepage 'http://www.dafont.com/squareface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Square face.ttf'
 end

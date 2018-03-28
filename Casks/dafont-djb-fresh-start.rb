@@ -5,7 +5,6 @@ cask 'dafont-djb-fresh-start' do
     url 'http://dl.dafont.com/dl/?f=djb_fresh_start'
     name 'DJB Fresh Start'
     homepage 'http://www.dafont.com/djb-fresh-start.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Fresh Start Bold.ttf'
     font 'DJB Fresh Start.ttf'

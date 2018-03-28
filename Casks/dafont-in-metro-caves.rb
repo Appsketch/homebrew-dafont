@@ -5,7 +5,6 @@ cask 'dafont-in-metro-caves' do
     url 'http://dl.dafont.com/dl/?f=in_metro_caves'
     name 'In Metro Caves'
     homepage 'http://www.dafont.com/in-metro-caves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'In Metro Caves.otf'
 end

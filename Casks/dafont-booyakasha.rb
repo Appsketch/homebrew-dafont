@@ -5,7 +5,6 @@ cask 'dafont-booyakasha' do
     url 'http://dl.dafont.com/dl/?f=booyakasha'
     name 'Booyakasha'
     homepage 'http://www.dafont.com/booyakasha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Booyakasha.ttf'
 end

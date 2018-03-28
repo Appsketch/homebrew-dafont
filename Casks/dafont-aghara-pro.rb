@@ -5,7 +5,6 @@ cask 'dafont-aghara-pro' do
     url 'http://dl.dafont.com/dl/?f=aghara_pro'
     name 'Aghara Pro'
     homepage 'http://www.dafont.com/aghara-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AgharaProRegular.ttf'
     font 'AgharaStdRegular.ttf'

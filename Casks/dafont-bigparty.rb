@@ -5,7 +5,6 @@ cask 'dafont-bigparty' do
     url 'http://dl.dafont.com/dl/?f=bigparty'
     name 'Big Party'
     homepage 'http://www.dafont.com/bigparty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigParty.ttf'
 end

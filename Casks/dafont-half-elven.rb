@@ -5,7 +5,6 @@ cask 'dafont-half-elven' do
     url 'http://dl.dafont.com/dl/?f=half_elven'
     name 'Half-Elven'
     homepage 'http://www.dafont.com/half-elven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'halfelven.ttf'
     font 'halfelven3d.ttf'

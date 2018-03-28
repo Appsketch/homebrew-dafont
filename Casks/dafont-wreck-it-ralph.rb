@@ -5,7 +5,6 @@ cask 'dafont-wreck-it-ralph' do
     url 'http://dl.dafont.com/dl/?f=wreck_it_ralph'
     name 'Wreck It Ralph'
     homepage 'http://www.dafont.com/wreck-it-ralph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wreck-it-ralph.ttf'
 end

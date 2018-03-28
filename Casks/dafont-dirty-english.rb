@@ -5,7 +5,6 @@ cask 'dafont-dirty-english' do
     url 'http://dl.dafont.com/dl/?f=dirty_english'
     name 'Dirty English'
     homepage 'http://www.dafont.com/dirty-english.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIRTE___.TTF'
 end

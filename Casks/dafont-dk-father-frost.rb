@@ -5,7 +5,6 @@ cask 'dafont-dk-father-frost' do
     url 'http://dl.dafont.com/dl/?f=dk_father_frost'
     name 'DK Father Frost'
     homepage 'http://www.dafont.com/dk-father-frost.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Father Frost.otf'
 end

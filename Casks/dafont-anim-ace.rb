@@ -5,7 +5,6 @@ cask 'dafont-anim-ace' do
     url 'http://dl.dafont.com/dl/?f=anim_ace'
     name 'Anime Ace BB'
     homepage 'http://www.dafont.com/anim-ace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'animeace2bb_tt/animeace2_bld.ttf'
     font 'animeace2bb_tt/animeace2_ital.ttf'

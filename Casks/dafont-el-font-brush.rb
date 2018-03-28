@@ -5,7 +5,6 @@ cask 'dafont-el-font-brush' do
     url 'http://dl.dafont.com/dl/?f=_el_font_brush'
     name '&lt;El&amp;Font! Brush&gt;'
     homepage 'http://www.dafont.com/-el-font-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'el_26font_brush_21_29.ttf'
 end

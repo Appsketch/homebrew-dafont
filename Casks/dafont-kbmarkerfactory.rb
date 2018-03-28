@@ -5,7 +5,6 @@ cask 'dafont-kbmarkerfactory' do
     url 'http://dl.dafont.com/dl/?f=kbmarkerfactory'
     name 'KB Marker Factory'
     homepage 'http://www.dafont.com/kbmarkerfactory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBMaRkerFacTorY.ttf'
 end

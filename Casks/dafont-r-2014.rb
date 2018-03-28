@@ -5,7 +5,6 @@ cask 'dafont-r-2014' do
     url 'http://dl.dafont.com/dl/?f=r_2014'
     name 'R-2014'
     homepage 'http://www.dafont.com/r-2014.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NoLicense_R-2014_Eroded.ttf'
     font 'NoLicense_R-2014.ttf'

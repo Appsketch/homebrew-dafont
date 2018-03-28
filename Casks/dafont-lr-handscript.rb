@@ -5,7 +5,6 @@ cask 'dafont-lr-handscript' do
     url 'http://dl.dafont.com/dl/?f=lr_handscript'
     name 'LR HandScript'
     homepage 'http://www.dafont.com/lr-handscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LRACASE.TTF'
     font 'LRLCASE.TTF'

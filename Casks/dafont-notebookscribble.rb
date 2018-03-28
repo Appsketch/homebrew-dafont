@@ -5,7 +5,6 @@ cask 'dafont-notebookscribble' do
     url 'http://dl.dafont.com/dl/?f=notebookscribble'
     name 'Note Book Scribble'
     homepage 'http://www.dafont.com/notebookscribble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NotebookScribble.ttf'
 end

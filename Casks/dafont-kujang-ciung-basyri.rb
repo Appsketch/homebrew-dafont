@@ -5,7 +5,6 @@ cask 'dafont-kujang-ciung-basyri' do
     url 'http://dl.dafont.com/dl/?f=kujang_ciung_basyri'
     name 'Kujang Ciung Basyri'
     homepage 'http://www.dafont.com/kujang-ciung-basyri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kujang Ciung Basyri.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kbradiowatcher' do
     url 'http://dl.dafont.com/dl/?f=kbradiowatcher'
     name 'KB Radio Watcher'
     homepage 'http://www.dafont.com/kbradiowatcher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBRadioWatcher.ttf'
 end

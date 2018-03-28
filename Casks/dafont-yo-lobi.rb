@@ -5,7 +5,6 @@ cask 'dafont-yo-lobi' do
     url 'http://dl.dafont.com/dl/?f=yo_lobi'
     name 'Yo Lobi'
     homepage 'http://www.dafont.com/yo-lobi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yo Lobi.ttf'
 end

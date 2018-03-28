@@ -5,7 +5,6 @@ cask 'dafont-nisejsrf' do
     url 'http://dl.dafont.com/dl/?f=nisejsrf'
     name 'Nise JSRF'
     homepage 'http://www.dafont.com/nisejsrf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NiseJSRF.TTF'
 end

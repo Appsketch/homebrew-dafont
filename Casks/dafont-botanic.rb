@@ -5,7 +5,6 @@ cask 'dafont-botanic' do
     url 'http://dl.dafont.com/dl/?f=botanic'
     name 'Botanic'
     homepage 'http://www.dafont.com/botanic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Botanic.ttf'
 end

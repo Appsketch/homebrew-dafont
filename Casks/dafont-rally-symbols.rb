@@ -5,7 +5,6 @@ cask 'dafont-rally-symbols' do
     url 'http://dl.dafont.com/dl/?f=rally_symbols'
     name 'Rally Symbols'
     homepage 'http://www.dafont.com/rally-symbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rally_Symbols.otf'
 end

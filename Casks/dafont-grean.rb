@@ -5,7 +5,6 @@ cask 'dafont-grean' do
     url 'http://dl.dafont.com/dl/?f=grean'
     name 'Grean'
     homepage 'http://www.dafont.com/grean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grean.ttf'
 end

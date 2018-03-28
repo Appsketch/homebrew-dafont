@@ -5,7 +5,6 @@ cask 'dafont-videobeast-80s' do
     url 'http://dl.dafont.com/dl/?f=videobeast_80s'
     name 'Videobeast 80&#039;s'
     homepage 'http://www.dafont.com/videobeast-80s.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vd__.ttf'
 end

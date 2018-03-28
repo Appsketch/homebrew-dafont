@@ -5,7 +5,6 @@ cask 'dafont-dont-waste-that-napkin' do
     url 'http://dl.dafont.com/dl/?f=dont_waste_that_napkin'
     name 'Don&#039;t Waste That Napkin'
     homepage 'http://www.dafont.com/dont-waste-that-napkin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Don&#039;t Waste That Napkin.otf'
 end

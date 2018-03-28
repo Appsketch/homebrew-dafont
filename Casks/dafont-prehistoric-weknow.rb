@@ -5,7 +5,6 @@ cask 'dafont-prehistoric-weknow' do
     url 'http://dl.dafont.com/dl/?f=prehistoric_weknow'
     name 'Prehistoric'
     homepage 'http://www.dafont.com/prehistoric-weknow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'prehistoric.ttf'
 end

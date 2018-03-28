@@ -5,7 +5,6 @@ cask 'dafont-djb-how-cute-am-i' do
     url 'http://dl.dafont.com/dl/?f=djb_how_cute_am_i'
     name 'DJB How Cute Am I'
     homepage 'http://www.dafont.com/djb-how-cute-am-i.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB How Cute Am I.ttf'
 end

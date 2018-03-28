@@ -5,7 +5,6 @@ cask 'dafont-corleone' do
     url 'http://dl.dafont.com/dl/?f=corleone'
     name 'Corleone'
     homepage 'http://www.dafont.com/corleone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Corleone.TTF'
     font 'CorleoneDue.TTF'

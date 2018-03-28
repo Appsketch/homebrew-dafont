@@ -5,7 +5,6 @@ cask 'dafont-antioch' do
     url 'http://dl.dafont.com/dl/?f=antioch'
     name 'Antioch'
     homepage 'http://www.dafont.com/antioch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANTI.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mtf-akhn' do
     url 'http://dl.dafont.com/dl/?f=mtf_akhn'
     name 'MTF Akhn'
     homepage 'http://www.dafont.com/mtf-akhn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF akhn.ttf'
 end

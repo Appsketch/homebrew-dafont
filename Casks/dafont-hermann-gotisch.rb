@@ -5,7 +5,6 @@ cask 'dafont-hermann-gotisch' do
     url 'http://dl.dafont.com/dl/?f=hermann_gotisch'
     name 'Hermann Gotisch'
     homepage 'http://www.dafont.com/hermann-gotisch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hermann-Gotisch.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hvd-poster' do
     url 'http://dl.dafont.com/dl/?f=hvd_poster'
     name 'HVD Poster'
     homepage 'http://www.dafont.com/hvd-poster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HVD Poster.ttf'
     font 'HVD_Poster_Clean.ttf'

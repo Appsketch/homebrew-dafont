@@ -5,7 +5,6 @@ cask 'dafont-ginebra' do
     url 'http://dl.dafont.com/dl/?f=ginebra'
     name 'Ginebra'
     homepage 'http://www.dafont.com/ginebra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ginebra_font.ttf'
 end

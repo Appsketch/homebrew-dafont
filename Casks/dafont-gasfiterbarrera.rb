@@ -5,7 +5,6 @@ cask 'dafont-gasfiterbarrera' do
     url 'http://dl.dafont.com/dl/?f=gasfiterbarrera'
     name 'Gasfiterbarrera'
     homepage 'http://www.dafont.com/gasfiterbarrera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GASFN___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rock-star' do
     url 'http://dl.dafont.com/dl/?f=rock_star'
     name 'Rock Star'
     homepage 'http://www.dafont.com/rock-star.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROCKS___.TTF'
     font 'RSTAR.TTF'

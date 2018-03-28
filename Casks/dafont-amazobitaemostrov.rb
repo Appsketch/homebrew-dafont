@@ -5,7 +5,6 @@ cask 'dafont-amazobitaemostrov' do
     url 'http://dl.dafont.com/dl/?f=amazobitaemostrov'
     name 'Amaz Obitaem Ostrov'
     homepage 'http://www.dafont.com/amazobitaemostrov.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmazOOSTROBBold.ttf'
     font 'AmazOOSTROVCrazy!.ttf'

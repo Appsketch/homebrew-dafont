@@ -5,7 +5,6 @@ cask 'dafont-jdwave' do
     url 'http://dl.dafont.com/dl/?f=jdwave'
     name 'JD Wave'
     homepage 'http://www.dafont.com/jdwave.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_wave.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kenney-rocket' do
     url 'http://dl.dafont.com/dl/?f=kenney_rocket'
     name 'Kenney Rocket'
     homepage 'http://www.dafont.com/kenney-rocket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kenney Rocket Square.ttf'
     font 'Kenney Rocket.ttf'

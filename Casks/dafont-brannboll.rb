@@ -5,7 +5,6 @@ cask 'dafont-brannboll' do
     url 'http://dl.dafont.com/dl/?f=brannboll'
     name 'Brannboll'
     homepage 'http://www.dafont.com/brannboll.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BrannbollFS_PERSONAL.ttf'
     font 'BrannbollSS_PERSONAL.ttf'

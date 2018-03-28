@@ -5,7 +5,6 @@ cask 'dafont-human-p-j' do
     url 'http://dl.dafont.com/dl/?f=human_p_j'
     name 'Human P.J'
     homepage 'http://www.dafont.com/human-p-j.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HumanP.J-Average.otf'
     font 'HumanP.J-Chubby.otf'

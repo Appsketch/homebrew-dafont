@@ -5,7 +5,6 @@ cask 'dafont-kingsbury' do
     url 'http://dl.dafont.com/dl/?f=kingsbury'
     name 'Kingsbury'
     homepage 'http://www.dafont.com/kingsbury.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingsbury.ttf'
 end

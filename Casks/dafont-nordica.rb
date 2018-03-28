@@ -5,7 +5,6 @@ cask 'dafont-nordica' do
     url 'http://dl.dafont.com/dl/?f=nordica'
     name 'Nordica'
     homepage 'http://www.dafont.com/nordica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NordicaBlack.otf'
     font 'NordicaHairline.otf'

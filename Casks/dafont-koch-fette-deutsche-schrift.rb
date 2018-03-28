@@ -5,7 +5,6 @@ cask 'dafont-koch-fette-deutsche-schrift' do
     url 'http://dl.dafont.com/dl/?f=koch_fette_deutsche_schrift'
     name 'Koch Fette Deutsche Schrift'
     homepage 'http://www.dafont.com/koch-fette-deutsche-schrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Koch Fraktur.ttf'
 end

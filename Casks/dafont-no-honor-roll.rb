@@ -5,7 +5,6 @@ cask 'dafont-no-honor-roll' do
     url 'http://dl.dafont.com/dl/?f=no_honor_roll'
     name 'No Honor Roll'
     homepage 'http://www.dafont.com/no-honor-roll.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NoHonorRoll-Regular.ttf'
 end

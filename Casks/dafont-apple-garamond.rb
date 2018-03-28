@@ -5,7 +5,6 @@ cask 'dafont-apple-garamond' do
     url 'http://dl.dafont.com/dl/?f=apple_garamond'
     name 'Apple Garamond'
     homepage 'http://www.dafont.com/apple-garamond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AppleGaramond-Bold.ttf'
     font 'AppleGaramond-BoldItalic.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-citaro-voor-dubbele-hoogte-midden-dubbel' do
     url 'http://dl.dafont.com/dl/?f=citaro_voor_dubbele_hoogte_midden_dubbel'
     name 'Citaro Voor (dubbele hoogte, midden/dubbel)'
     homepage 'http://www.dafont.com/citaro-voor-dubbele-hoogte-midden-dubbel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'citaro_voor_dubbele_hoogte_middendubbel.ttf'
 end

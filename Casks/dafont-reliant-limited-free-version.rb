@@ -5,7 +5,6 @@ cask 'dafont-reliant-limited-free-version' do
     url 'http://dl.dafont.com/dl/?f=reliant_limited_free_version'
     name 'Reliant'
     homepage 'http://www.dafont.com/reliant-limited-free-version.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reliant Beveled.ttf'
     font 'Reliant Limited Free Version.ttf'

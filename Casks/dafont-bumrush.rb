@@ -5,7 +5,6 @@ cask 'dafont-bumrush' do
     url 'http://dl.dafont.com/dl/?f=bumrush'
     name 'Bumrush'
     homepage 'http://www.dafont.com/bumrush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bumrush.ttf'
 end

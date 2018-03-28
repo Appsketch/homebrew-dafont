@@ -5,7 +5,6 @@ cask 'dafont-schluber' do
     url 'http://dl.dafont.com/dl/?f=schluber'
     name 'Schluber'
     homepage 'http://www.dafont.com/schluber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Schluber.ttf'
 end

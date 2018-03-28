@@ -5,7 +5,6 @@ cask 'dafont-medieval-queen' do
     url 'http://dl.dafont.com/dl/?f=medieval_queen'
     name 'Medieval Queen'
     homepage 'http://www.dafont.com/medieval-queen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Medieval Queen.ttf'
 end

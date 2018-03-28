@@ -5,7 +5,6 @@ cask 'dafont-it-wasnt-me' do
     url 'http://dl.dafont.com/dl/?f=it_wasnt_me'
     name 'It wasn&#039;t me'
     homepage 'http://www.dafont.com/it-wasnt-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'It wasn_t me.ttf'
 end

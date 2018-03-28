@@ -5,7 +5,6 @@ cask 'dafont-speed-solid' do
     url 'http://dl.dafont.com/dl/?f=speed_solid'
     name 'Speed Solid'
     homepage 'http://www.dafont.com/speed-solid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPEES___.TTF'
 end

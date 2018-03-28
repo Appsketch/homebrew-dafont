@@ -5,7 +5,6 @@ cask 'dafont-caitlyn' do
     url 'http://dl.dafont.com/dl/?f=caitlyn'
     name 'Caitlyn'
     homepage 'http://www.dafont.com/caitlyn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caitlin.ttf'
 end

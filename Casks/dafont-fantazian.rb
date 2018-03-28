@@ -5,7 +5,6 @@ cask 'dafont-fantazian' do
     url 'http://dl.dafont.com/dl/?f=fantazian'
     name 'Fantazian'
     homepage 'http://www.dafont.com/fantazian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fant.ttf'
     font 'fantb.ttf'

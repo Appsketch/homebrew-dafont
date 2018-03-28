@@ -5,7 +5,6 @@ cask 'dafont-lecteurheureux' do
     url 'http://dl.dafont.com/dl/?f=lecteurheureux'
     name 'Lecteur Heureux'
     homepage 'http://www.dafont.com/lecteurheureux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LecteurHeureux-Regular.otf'
 end

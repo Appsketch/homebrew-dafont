@@ -5,7 +5,6 @@ cask 'dafont-gym' do
     url 'http://dl.dafont.com/dl/?f=gym'
     name 'Gym'
     homepage 'http://www.dafont.com/gym.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GYM.ttf'
 end

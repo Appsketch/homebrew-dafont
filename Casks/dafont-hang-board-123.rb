@@ -5,7 +5,6 @@ cask 'dafont-hang-board-123' do
     url 'http://dl.dafont.com/dl/?f=hang_board_123'
     name 'Hang Board 123'
     homepage 'http://www.dafont.com/hang-board-123.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HANG BOARD 123.ttf'
 end

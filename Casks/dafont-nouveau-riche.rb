@@ -5,7 +5,6 @@ cask 'dafont-nouveau-riche' do
     url 'http://dl.dafont.com/dl/?f=nouveau_riche'
     name 'Nouveau Riche'
     homepage 'http://www.dafont.com/nouveau-riche.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neue_mod.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blunted' do
     url 'http://dl.dafont.com/dl/?f=blunted'
     name 'Blunted'
     homepage 'http://www.dafont.com/blunted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blunted.ttf'
 end

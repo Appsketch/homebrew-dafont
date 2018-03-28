@@ -5,7 +5,6 @@ cask 'dafont-dcc-marker-quick' do
     url 'http://dl.dafont.com/dl/?f=dcc_marker_quick'
     name 'DCC Marker Quick'
     homepage 'http://www.dafont.com/dcc-marker-quick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DCC - Marker Quick.otf'
 end

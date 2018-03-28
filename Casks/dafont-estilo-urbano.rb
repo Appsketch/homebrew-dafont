@@ -5,7 +5,6 @@ cask 'dafont-estilo-urbano' do
     url 'http://dl.dafont.com/dl/?f=estilo_urbano'
     name 'Estilo Urbano'
     homepage 'http://www.dafont.com/estilo-urbano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'estilo_urbano.ttf'
 end

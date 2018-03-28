@@ -5,7 +5,6 @@ cask 'dafont-cutthroat-clawmarks' do
     url 'http://dl.dafont.com/dl/?f=cutthroat_clawmarks'
     name 'Cutthroat Clawmarks'
     homepage 'http://www.dafont.com/cutthroat-clawmarks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CutthroatClawmarks.otf'
 end

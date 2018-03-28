@@ -5,7 +5,6 @@ cask 'dafont-le-monde-de-victor' do
     url 'http://dl.dafont.com/dl/?f=le_monde_de_victor'
     name 'Le monde de Victor'
     homepage 'http://www.dafont.com/le-monde-de-victor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'le-monde-de-victor.ttf'
 end

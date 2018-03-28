@@ -5,7 +5,6 @@ cask 'dafont-indiesellout' do
     url 'http://dl.dafont.com/dl/?f=indiesellout'
     name 'IndieSellout'
     homepage 'http://www.dafont.com/indiesellout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IndieSellout.ttf'
 end

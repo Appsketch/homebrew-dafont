@@ -5,7 +5,6 @@ cask 'dafont-kitty-face' do
     url 'http://dl.dafont.com/dl/?f=kitty_face'
     name 'Kitty face'
     homepage 'http://www.dafont.com/kitty-face.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kitty face.ttf'
 end

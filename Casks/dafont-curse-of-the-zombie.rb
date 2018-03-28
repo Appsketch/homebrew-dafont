@@ -5,7 +5,6 @@ cask 'dafont-curse-of-the-zombie' do
     url 'http://dl.dafont.com/dl/?f=curse_of_the_zombie'
     name 'Curse of the Zombie'
     homepage 'http://www.dafont.com/curse-of-the-zombie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Curse of the Zombie.ttf'
 end

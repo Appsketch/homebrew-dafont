@@ -5,7 +5,6 @@ cask 'dafont-jeviva-loca' do
     url 'http://dl.dafont.com/dl/?f=jeviva_loca'
     name 'Jeviva Loca'
     homepage 'http://www.dafont.com/jeviva-loca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jeviva Loca.ttf'
 end

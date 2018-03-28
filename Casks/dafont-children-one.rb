@@ -5,7 +5,6 @@ cask 'dafont-children-one' do
     url 'http://dl.dafont.com/dl/?f=children_one'
     name 'Children One'
     homepage 'http://www.dafont.com/children-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHILDREN-ONE.otf'
 end

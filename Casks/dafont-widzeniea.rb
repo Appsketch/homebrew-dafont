@@ -5,7 +5,6 @@ cask 'dafont-widzeniea' do
     url 'http://dl.dafont.com/dl/?f=widzeniea'
     name 'Widzeniea'
     homepage 'http://www.dafont.com/widzeniea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'widjana_boot_01.TTF'
 end

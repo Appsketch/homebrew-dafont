@@ -5,7 +5,6 @@ cask 'dafont-semphari' do
     url 'http://dl.dafont.com/dl/?f=semphari'
     name 'Semphari'
     homepage 'http://www.dafont.com/semphari.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Semphari Bold Italic.otf'
     font 'Semphari Bold.otf'

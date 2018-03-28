@@ -5,7 +5,6 @@ cask 'dafont-deroos-caps' do
     url 'http://dl.dafont.com/dl/?f=deroos_caps'
     name 'DeRoos Caps'
     homepage 'http://www.dafont.com/deroos-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deroos__.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wubdub' do
     url 'http://dl.dafont.com/dl/?f=wubdub'
     name 'WubDub'
     homepage 'http://www.dafont.com/wubdub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WubDub.ttf'
 end

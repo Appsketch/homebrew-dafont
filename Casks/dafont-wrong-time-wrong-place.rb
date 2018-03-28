@@ -5,7 +5,6 @@ cask 'dafont-wrong-time-wrong-place' do
     url 'http://dl.dafont.com/dl/?f=wrong_time_wrong_place'
     name 'Wrong time, wrong place'
     homepage 'http://www.dafont.com/wrong-time-wrong-place.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wrong time, wrong place.ttf'
 end

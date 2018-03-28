@@ -5,7 +5,6 @@ cask 'dafont-knight-of-light' do
     url 'http://dl.dafont.com/dl/?f=knight_of_light'
     name 'Knight of Light'
     homepage 'http://www.dafont.com/knight-of-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Knight of Light.ttf'
 end

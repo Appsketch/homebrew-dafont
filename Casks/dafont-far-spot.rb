@@ -5,7 +5,6 @@ cask 'dafont-far-spot' do
     url 'http://dl.dafont.com/dl/?f=far_spot'
     name 'Far Spot'
     homepage 'http://www.dafont.com/far-spot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Far Spot.ttf'
 end

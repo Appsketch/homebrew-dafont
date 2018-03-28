@@ -5,7 +5,6 @@ cask 'dafont-large9' do
     url 'http://dl.dafont.com/dl/?f=large9'
     name 'Large 9'
     homepage 'http://www.dafont.com/large9.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LARGN___.TTF'
 end

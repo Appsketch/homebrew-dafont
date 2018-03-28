@@ -5,7 +5,6 @@ cask 'dafont-ldr-manufacture' do
     url 'http://dl.dafont.com/dl/?f=ldr_manufacture'
     name 'LDR Manufacture'
     homepage 'http://www.dafont.com/ldr-manufacture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ldr_manufacture.ttf'
 end

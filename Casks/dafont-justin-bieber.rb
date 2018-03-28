@@ -5,7 +5,6 @@ cask 'dafont-justin-bieber' do
     url 'http://dl.dafont.com/dl/?f=justin_bieber'
     name 'Justin Bieber'
     homepage 'http://www.dafont.com/justin-bieber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Justin Bieber.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ethnic-abc' do
     url 'http://dl.dafont.com/dl/?f=ethnic_abc'
     name 'Ethnic ABC'
     homepage 'http://www.dafont.com/ethnic-abc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Webfont/ethnicabc-regular-webfont.ttf'
 end

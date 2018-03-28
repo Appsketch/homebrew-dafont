@@ -5,7 +5,6 @@ cask 'dafont-ahellya' do
     url 'http://dl.dafont.com/dl/?f=ahellya'
     name 'Ahellya'
     homepage 'http://www.dafont.com/ahellya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ahellya italic.ttf'
     font 'ahellya.ttf'

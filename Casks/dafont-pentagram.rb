@@ -5,7 +5,6 @@ cask 'dafont-pentagram' do
     url 'http://dl.dafont.com/dl/?f=pentagram'
     name 'Pentagram'
     homepage 'http://www.dafont.com/pentagram.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pentagram-Regular.otf'
 end

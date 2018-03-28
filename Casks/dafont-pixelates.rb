@@ -5,7 +5,6 @@ cask 'dafont-pixelates' do
     url 'http://dl.dafont.com/dl/?f=pixelates'
     name 'Pixelates'
     homepage 'http://www.dafont.com/pixelates.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixelates.ttf'
 end

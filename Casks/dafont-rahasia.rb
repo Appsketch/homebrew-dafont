@@ -5,7 +5,6 @@ cask 'dafont-rahasia' do
     url 'http://dl.dafont.com/dl/?f=rahasia'
     name 'Rahasia'
     homepage 'http://www.dafont.com/rahasia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RAHASIA.ttf'
 end

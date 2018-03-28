@@ -5,7 +5,6 @@ cask 'dafont-vtks-squizita' do
     url 'http://dl.dafont.com/dl/?f=vtks_squizita'
     name 'Vtks Squizita'
     homepage 'http://www.dafont.com/vtks-squizita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks squizita.ttf'
 end

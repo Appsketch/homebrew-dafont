@@ -5,7 +5,6 @@ cask 'dafont-incolhua' do
     url 'http://dl.dafont.com/dl/?f=incolhua'
     name 'InColhua'
     homepage 'http://www.dafont.com/incolhua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INCOLHUA_B.ttf'
     font 'INCOLHUA_L.ttf'

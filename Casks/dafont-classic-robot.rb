@@ -5,7 +5,6 @@ cask 'dafont-classic-robot' do
     url 'http://dl.dafont.com/dl/?f=classic_robot'
     name 'Classic Robot'
     homepage 'http://www.dafont.com/classic-robot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Classic Robot Bold Italic.otf'
     font 'Classic Robot Bold.otf'

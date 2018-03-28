@@ -5,7 +5,6 @@ cask 'dafont-cube-kila' do
     url 'http://dl.dafont.com/dl/?f=cube_kila'
     name 'Cube Kila'
     homepage 'http://www.dafont.com/cube-kila.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cube kila.ttf'
 end

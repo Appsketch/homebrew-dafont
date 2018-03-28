@@ -5,7 +5,6 @@ cask 'dafont-madcaps' do
     url 'http://dl.dafont.com/dl/?f=madcaps'
     name 'Mad Caps'
     homepage 'http://www.dafont.com/madcaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MadCaps.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-denne-marker' do
     url 'http://dl.dafont.com/dl/?f=denne_marker'
     name 'Denne Marker'
     homepage 'http://www.dafont.com/denne-marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Denne Marker.ttf'
 end

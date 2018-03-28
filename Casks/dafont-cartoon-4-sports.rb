@@ -5,7 +5,6 @@ cask 'dafont-cartoon-4-sports' do
     url 'http://dl.dafont.com/dl/?f=cartoon_4_sports'
     name 'Cartoon 4 Sports'
     homepage 'http://www.dafont.com/cartoon-4-sports.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cartoon 4 Sports.ttf'
 end

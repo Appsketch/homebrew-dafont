@@ -5,7 +5,6 @@ cask 'dafont-purecircles' do
     url 'http://dl.dafont.com/dl/?f=purecircles'
     name 'Pure circles'
     homepage 'http://www.dafont.com/purecircles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PURECIRC.TTF'
 end

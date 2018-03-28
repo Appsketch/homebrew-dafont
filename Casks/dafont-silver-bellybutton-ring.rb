@@ -5,7 +5,6 @@ cask 'dafont-silver-bellybutton-ring' do
     url 'http://dl.dafont.com/dl/?f=silver_bellybutton_ring'
     name 'Silver Bellybutton Ring'
     homepage 'http://www.dafont.com/silver-bellybutton-ring.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Silver Bellybutton Ring Reg_2.ttf'
 end

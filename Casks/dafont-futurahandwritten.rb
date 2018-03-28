@@ -5,7 +5,6 @@ cask 'dafont-futurahandwritten' do
     url 'http://dl.dafont.com/dl/?f=futurahandwritten'
     name 'Futura Handwritten'
     homepage 'http://www.dafont.com/futurahandwritten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FuturaHandwritten.ttf'
 end

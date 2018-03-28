@@ -5,7 +5,6 @@ cask 'dafont-dancing-vampyrish' do
     url 'http://dl.dafont.com/dl/?f=dancing_vampyrish'
     name 'Dancing Vampyrish'
     homepage 'http://www.dafont.com/dancing-vampyrish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DancingVampyrish.ttf'
 end

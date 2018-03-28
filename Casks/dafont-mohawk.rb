@@ -5,7 +5,6 @@ cask 'dafont-mohawk' do
     url 'http://dl.dafont.com/dl/?f=mohawk'
     name 'Mohawk'
     homepage 'http://www.dafont.com/mohawk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mohawk.ttf'
 end

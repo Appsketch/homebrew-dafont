@@ -5,7 +5,6 @@ cask 'dafont-alphabet-snk-by-pmpeps' do
     url 'http://dl.dafont.com/dl/?f=alphabet_snk_by_pmpeps'
     name 'Alphabet SNK by PMPEPS'
     homepage 'http://www.dafont.com/alphabet-snk-by-pmpeps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alphabet SNK by PMPEPS.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-paperclip' do
     url 'http://dl.dafont.com/dl/?f=paperclip'
     name 'Paperclip'
     homepage 'http://www.dafont.com/paperclip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'paperclip-bold.otf'
     font 'paperclip-light.otf'

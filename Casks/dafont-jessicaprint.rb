@@ -5,7 +5,6 @@ cask 'dafont-jessicaprint' do
     url 'http://dl.dafont.com/dl/?f=jessicaprint'
     name 'Jessica Print'
     homepage 'http://www.dafont.com/jessicaprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JessicaPrint.ttf'
 end

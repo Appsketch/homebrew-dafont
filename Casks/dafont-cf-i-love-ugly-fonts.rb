@@ -5,7 +5,6 @@ cask 'dafont-cf-i-love-ugly-fonts' do
     url 'http://dl.dafont.com/dl/?f=cf_i_love_ugly_fonts'
     name 'CF I Love Ugly Fonts'
     homepage 'http://www.dafont.com/cf-i-love-ugly-fonts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFILoveUglyFonts-Regular.ttf'
 end

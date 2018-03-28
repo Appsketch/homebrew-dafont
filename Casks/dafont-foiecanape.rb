@@ -5,7 +5,6 @@ cask 'dafont-foiecanape' do
     url 'http://dl.dafont.com/dl/?f=foiecanape'
     name 'Foie Canape'
     homepage 'http://www.dafont.com/foiecanape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'foiecanape.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ordinary-day' do
     url 'http://dl.dafont.com/dl/?f=ordinary_day'
     name 'Ordinary Day'
     homepage 'http://www.dafont.com/ordinary-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ordinary Day.ttf'
 end

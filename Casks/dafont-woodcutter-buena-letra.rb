@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-buena-letra' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_buena_letra'
     name 'Woodcutter Buena letra'
     homepage 'http://www.dafont.com/woodcutter-buena-letra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Buena letra.ttf'
 end

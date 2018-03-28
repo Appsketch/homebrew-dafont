@@ -5,7 +5,6 @@ cask 'dafont-circulate-brk' do
     url 'http://dl.dafont.com/dl/?f=circulate_brk'
     name 'Circulate BRK'
     homepage 'http://www.dafont.com/circulate-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'circulat.ttf'
 end

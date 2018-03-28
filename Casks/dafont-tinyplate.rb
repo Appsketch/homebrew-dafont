@@ -5,7 +5,6 @@ cask 'dafont-tinyplate' do
     url 'http://dl.dafont.com/dl/?f=tinyplate'
     name 'Tiny Plate'
     homepage 'http://www.dafont.com/tinyplate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TinyPlate_Bold_Demo.otf'
     font 'TinyPlate_Italic_Demo.otf'

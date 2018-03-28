@@ -5,7 +5,6 @@ cask 'dafont-news-of-the-world' do
     url 'http://dl.dafont.com/dl/?f=news_of_the_world'
     name 'News of the World'
     homepage 'http://www.dafont.com/news-of-the-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'News of the World italic.ttf'
     font 'News of the World regular.ttf'

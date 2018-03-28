@@ -5,7 +5,6 @@ cask 'dafont-typpea' do
     url 'http://dl.dafont.com/dl/?f=typpea'
     name 'Typpea'
     homepage 'http://www.dafont.com/typpea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typpea.ttf'
 end

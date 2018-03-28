@@ -5,7 +5,6 @@ cask 'dafont-amorino' do
     url 'http://dl.dafont.com/dl/?f=amorino'
     name 'Amorino'
     homepage 'http://www.dafont.com/amorino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amorino_beta.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-barbalicious' do
     url 'http://dl.dafont.com/dl/?f=barbalicious'
     name 'Barbalicious'
     homepage 'http://www.dafont.com/barbalicious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barbalicious.ttf'
 end

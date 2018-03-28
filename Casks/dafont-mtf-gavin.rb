@@ -5,7 +5,6 @@ cask 'dafont-mtf-gavin' do
     url 'http://dl.dafont.com/dl/?f=mtf_gavin'
     name 'MTF Gavin'
     homepage 'http://www.dafont.com/mtf-gavin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Gavin.ttf'
 end

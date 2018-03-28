@@ -5,7 +5,6 @@ cask 'dafont-a-cappella' do
     url 'http://dl.dafont.com/dl/?f=a_cappella'
     name 'A Cappella'
     homepage 'http://www.dafont.com/a-cappella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A CAPPELLA.ttf'
 end

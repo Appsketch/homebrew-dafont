@@ -5,7 +5,6 @@ cask 'dafont-oval-track' do
     url 'http://dl.dafont.com/dl/?f=oval_track'
     name 'Oval Track'
     homepage 'http://www.dafont.com/oval-track.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OvalTrack-Regular.ttf'
 end

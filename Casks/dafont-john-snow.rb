@@ -5,7 +5,6 @@ cask 'dafont-john-snow' do
     url 'http://dl.dafont.com/dl/?f=john_snow'
     name 'John Snow'
     homepage 'http://www.dafont.com/john-snow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'John Snow.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dollar-bill' do
     url 'http://dl.dafont.com/dl/?f=dollar_bill'
     name 'Dollar Bill'
     homepage 'http://www.dafont.com/dollar-bill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dollar Bill.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jey' do
     url 'http://dl.dafont.com/dl/?f=jey'
     name 'Jey'
     homepage 'http://www.dafont.com/jey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jey.ttf'
 end

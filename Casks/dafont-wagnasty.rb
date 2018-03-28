@@ -5,7 +5,6 @@ cask 'dafont-wagnasty' do
     url 'http://dl.dafont.com/dl/?f=wagnasty'
     name 'Wagnasty'
     homepage 'http://www.dafont.com/wagnasty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wagnasty.ttf'
 end

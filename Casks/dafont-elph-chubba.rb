@@ -5,7 +5,6 @@ cask 'dafont-elph-chubba' do
     url 'http://dl.dafont.com/dl/?f=elph_chubba'
     name 'Elph Chubba'
     homepage 'http://www.dafont.com/elph-chubba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chubhand.ttf'
 end

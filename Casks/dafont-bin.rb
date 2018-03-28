@@ -5,7 +5,6 @@ cask 'dafont-bin' do
     url 'http://dl.dafont.com/dl/?f=bin'
     name 'Bin'
     homepage 'http://www.dafont.com/bin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BINBold-Regular.otf'
     font 'BINOutline-Regular.otf'

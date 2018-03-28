@@ -5,7 +5,6 @@ cask 'dafont-joshua-senapelo-font' do
     url 'http://dl.dafont.com/dl/?f=joshua_senapelo_font'
     name 'Joshua Senapelo'
     homepage 'http://www.dafont.com/joshua-senapelo-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Joshua Senapelo The Font.ttf'
 end

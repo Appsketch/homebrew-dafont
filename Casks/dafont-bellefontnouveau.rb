@@ -5,7 +5,6 @@ cask 'dafont-bellefontnouveau' do
     url 'http://dl.dafont.com/dl/?f=bellefontnouveau'
     name 'Belle Font Nouveau'
     homepage 'http://www.dafont.com/bellefontnouveau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeauFont.otf'
 end

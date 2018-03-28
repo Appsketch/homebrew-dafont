@@ -5,7 +5,6 @@ cask 'dafont-pg-gene' do
     url 'http://dl.dafont.com/dl/?f=pg_gene'
     name 'PG Gene'
     homepage 'http://www.dafont.com/pg-gene.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pggene__.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-apex-lake' do
     url 'http://dl.dafont.com/dl/?f=apex_lake'
     name 'Apex Lake'
     homepage 'http://www.dafont.com/apex-lake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ApexLake-Regular.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-zitti' do
     url 'http://dl.dafont.com/dl/?f=zitti'
     name 'Zitti '
     homepage 'http://www.dafont.com/zitti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZITTI___.TTF'
 end

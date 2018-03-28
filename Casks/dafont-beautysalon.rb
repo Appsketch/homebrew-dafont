@@ -5,7 +5,6 @@ cask 'dafont-beautysalon' do
     url 'http://dl.dafont.com/dl/?f=beautysalon'
     name 'Beauty Salon'
     homepage 'http://www.dafont.com/beautysalon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeautySalon.ttf'
 end

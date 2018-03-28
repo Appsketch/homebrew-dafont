@@ -5,7 +5,6 @@ cask 'dafont-stuntman' do
     url 'http://dl.dafont.com/dl/?f=stuntman'
     name 'Stuntman'
     homepage 'http://www.dafont.com/stuntman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stuntv2.ttf'
     font 'Stuntv2c.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-jwerd' do
     url 'http://dl.dafont.com/dl/?f=jwerd'
     name 'JWerd'
     homepage 'http://www.dafont.com/jwerd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JWerd.ttf'
 end

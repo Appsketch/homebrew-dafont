@@ -5,7 +5,6 @@ cask 'dafont-amber-shaie' do
     url 'http://dl.dafont.com/dl/?f=amber_shaie'
     name 'Amber Shaie'
     homepage 'http://www.dafont.com/amber-shaie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amber Shaie.ttf'
 end

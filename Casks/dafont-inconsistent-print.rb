@@ -5,7 +5,6 @@ cask 'dafont-inconsistent-print' do
     url 'http://dl.dafont.com/dl/?f=inconsistent_print'
     name 'Inconsistent Print'
     homepage 'http://www.dafont.com/inconsistent-print.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InconsistentPrint-Regular.ttf'
 end

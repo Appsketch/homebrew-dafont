@@ -5,7 +5,6 @@ cask 'dafont-ships-in-the-night' do
     url 'http://dl.dafont.com/dl/?f=ships_in_the_night'
     name 'Ships In The Night'
     homepage 'http://www.dafont.com/ships-in-the-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ships In The Night (Bold).ttf'
     font 'Ships In The Night (Outline).ttf'

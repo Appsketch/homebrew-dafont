@@ -5,7 +5,6 @@ cask 'dafont-vigor' do
     url 'http://dl.dafont.com/dl/?f=vigor'
     name 'Vigor'
     homepage 'http://www.dafont.com/vigor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VIGOR.ttf'
 end

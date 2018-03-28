@@ -5,7 +5,6 @@ cask 'dafont-serial-mkv1' do
     url 'http://dl.dafont.com/dl/?f=serial_mkv1'
     name 'Serial MKV1'
     homepage 'http://www.dafont.com/serial-mkv1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SERIAL-MKV1-.ttf'
 end

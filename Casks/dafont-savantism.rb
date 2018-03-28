@@ -5,7 +5,6 @@ cask 'dafont-savantism' do
     url 'http://dl.dafont.com/dl/?f=savantism'
     name 'Savantism'
     homepage 'http://www.dafont.com/savantism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Savantism.otf'
 end

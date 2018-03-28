@@ -5,7 +5,6 @@ cask 'dafont-love-you-mom' do
     url 'http://dl.dafont.com/dl/?f=love_you_mom'
     name 'Love You Mom'
     homepage 'http://www.dafont.com/love-you-mom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'love you mom Bold.ttf'
     font 'love you mom Shadow.ttf'

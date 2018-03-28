@@ -5,7 +5,6 @@ cask 'dafont-ml-zigzag-kk' do
     url 'http://dl.dafont.com/dl/?f=ml_zigzag_kk'
     name 'ML ZigZag KK'
     homepage 'http://www.dafont.com/ml-zigzag-kk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ML ZigZag KK v1.2.ttf'
 end

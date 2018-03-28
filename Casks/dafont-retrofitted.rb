@@ -5,7 +5,6 @@ cask 'dafont-retrofitted' do
     url 'http://dl.dafont.com/dl/?f=retrofitted'
     name 'Retrofitted'
     homepage 'http://www.dafont.com/retrofitted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'retrofitted.ttf'
 end

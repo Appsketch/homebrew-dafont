@@ -5,7 +5,6 @@ cask 'dafont-magician' do
     url 'http://dl.dafont.com/dl/?f=magician'
     name 'Magician'
     homepage 'http://www.dafont.com/magician.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Magician.ttf'
 end

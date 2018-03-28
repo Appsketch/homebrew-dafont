@@ -5,7 +5,6 @@ cask 'dafont-pixopop-roughcut' do
     url 'http://dl.dafont.com/dl/?f=pixopop_roughcut'
     name 'Pixopop Roughcut'
     homepage 'http://www.dafont.com/pixopop-roughcut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixopop roughcut.ttf'
 end

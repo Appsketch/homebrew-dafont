@@ -5,7 +5,6 @@ cask 'dafont-5megabam' do
     url 'http://dl.dafont.com/dl/?f=5megabam'
     name '5 Megabam'
     homepage 'http://www.dafont.com/5megabam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5Megabam.ttf'
 end

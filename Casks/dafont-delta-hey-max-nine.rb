@@ -5,7 +5,6 @@ cask 'dafont-delta-hey-max-nine' do
     url 'http://dl.dafont.com/dl/?f=delta_hey_max_nine'
     name 'Delta Hey Max Nine'
     homepage 'http://www.dafont.com/delta-hey-max-nine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'delta hey max nine.ttf'
 end

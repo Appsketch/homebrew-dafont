@@ -5,7 +5,6 @@ cask 'dafont-alpha-quadrant' do
     url 'http://dl.dafont.com/dl/?f=alpha_quadrant'
     name 'Alpha Quadrant'
     homepage 'http://www.dafont.com/alpha-quadrant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaQuadrant.ttf'
 end

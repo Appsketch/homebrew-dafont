@@ -5,7 +5,6 @@ cask 'dafont-shady-lane' do
     url 'http://dl.dafont.com/dl/?f=shady_lane'
     name 'Shady Lane'
     homepage 'http://www.dafont.com/shady-lane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shady Lane.ttf'
 end

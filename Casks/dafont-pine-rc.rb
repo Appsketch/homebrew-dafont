@@ -5,7 +5,6 @@ cask 'dafont-pine-rc' do
     url 'http://dl.dafont.com/dl/?f=pine_rc'
     name 'Pine RC'
     homepage 'http://www.dafont.com/pine-rc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pine_rc.ttf'
 end

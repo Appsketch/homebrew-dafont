@@ -5,7 +5,6 @@ cask 'dafont-arek-is-so-grungey' do
     url 'http://dl.dafont.com/dl/?f=arek_is_so_grungey'
     name 'Arek Is So Grungey'
     homepage 'http://www.dafont.com/arek-is-so-grungey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arek Is So Grungey.ttf'
 end

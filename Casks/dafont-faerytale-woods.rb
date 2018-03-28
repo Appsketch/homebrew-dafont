@@ -5,7 +5,6 @@ cask 'dafont-faerytale-woods' do
     url 'http://dl.dafont.com/dl/?f=faerytale_woods'
     name 'Faerytale Woods'
     homepage 'http://www.dafont.com/faerytale-woods.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Faerytale Woods.ttf'
 end

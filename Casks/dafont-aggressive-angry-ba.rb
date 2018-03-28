@@ -5,7 +5,6 @@ cask 'dafont-aggressive-angry-ba' do
     url 'http://dl.dafont.com/dl/?f=aggressive_angry_ba'
     name 'Aggressive Angry Baby Killer'
     homepage 'http://www.dafont.com/aggressive-angry-ba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aggressive Angry Baby Killer.ttf'
 end

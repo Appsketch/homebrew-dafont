@@ -5,7 +5,6 @@ cask 'dafont-akeylah-s-handwriting' do
     url 'http://dl.dafont.com/dl/?f=akeylah_s_handwriting'
     name 'Akeylah&#039;s Handwriting'
     homepage 'http://www.dafont.com/akeylah-s-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Akeylah__s_Handwriting.ttf'
 end

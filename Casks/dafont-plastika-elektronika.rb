@@ -5,7 +5,6 @@ cask 'dafont-plastika-elektronika' do
     url 'http://dl.dafont.com/dl/?f=plastika_elektronika'
     name 'Plastika Elektronika'
     homepage 'http://www.dafont.com/plastika-elektronika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plastika Elektronika.ttf'
 end

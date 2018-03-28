@@ -5,7 +5,6 @@ cask 'dafont-despaingang-karmelle-37' do
     url 'http://dl.dafont.com/dl/?f=despaingang_karmelle_37'
     name 'DespainGang Karmelle 37'
     homepage 'http://www.dafont.com/despaingang-karmelle-37.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DespainGang_Karmelle_37.ttf'
 end

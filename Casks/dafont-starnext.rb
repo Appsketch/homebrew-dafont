@@ -5,7 +5,6 @@ cask 'dafont-starnext' do
     url 'http://dl.dafont.com/dl/?f=starnext'
     name 'Starnext'
     homepage 'http://www.dafont.com/starnext.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Star Next.ttf'
 end

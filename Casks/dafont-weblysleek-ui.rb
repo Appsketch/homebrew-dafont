@@ -5,7 +5,6 @@ cask 'dafont-weblysleek-ui' do
     url 'http://dl.dafont.com/dl/?f=weblysleek_ui'
     name 'WeblySleek UI'
     homepage 'http://www.dafont.com/weblysleek-ui.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'weblysleekuil.ttf'
     font 'weblysleekuili.ttf'

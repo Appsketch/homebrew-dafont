@@ -5,7 +5,6 @@ cask 'dafont-hotel-coral-essex' do
     url 'http://dl.dafont.com/dl/?f=hotel_coral_essex'
     name 'Hotel Coral Essex'
     homepage 'http://www.dafont.com/hotel-coral-essex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hotel Coral Essex.ttf'
 end

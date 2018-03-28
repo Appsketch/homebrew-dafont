@@ -5,7 +5,6 @@ cask 'dafont-pollito-peligroso' do
     url 'http://dl.dafont.com/dl/?f=pollito_peligroso'
     name 'Pollito Peligroso'
     homepage 'http://www.dafont.com/pollito-peligroso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pollito Peligroso.ttf'
 end

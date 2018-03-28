@@ -5,7 +5,6 @@ cask 'dafont-metal-lord' do
     url 'http://dl.dafont.com/dl/?f=metal_lord'
     name 'Metal Lord'
     homepage 'http://www.dafont.com/metal-lord.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'metal lord.ttf'
 end

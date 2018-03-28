@@ -5,7 +5,6 @@ cask 'dafont-skribbleblack' do
     url 'http://dl.dafont.com/dl/?f=skribbleblack'
     name 'Skribble Black'
     homepage 'http://www.dafont.com/skribbleblack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkribbleBlack.otf'
 end

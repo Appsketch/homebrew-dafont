@@ -5,7 +5,6 @@ cask 'dafont-milkman-conspiracy' do
     url 'http://dl.dafont.com/dl/?f=milkman_conspiracy'
     name 'Milkman Conspiracy'
     homepage 'http://www.dafont.com/milkman-conspiracy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MilkmanConspiracy.ttf'
 end

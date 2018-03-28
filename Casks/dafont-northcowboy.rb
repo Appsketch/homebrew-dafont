@@ -5,7 +5,6 @@ cask 'dafont-northcowboy' do
     url 'http://dl.dafont.com/dl/?f=northcowboy'
     name 'North Cowboy'
     homepage 'http://www.dafont.com/northcowboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NorthCowboy.ttf'
 end

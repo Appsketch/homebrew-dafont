@@ -5,7 +5,6 @@ cask 'dafont-nasal-drip' do
     url 'http://dl.dafont.com/dl/?f=nasal_drip'
     name 'Nasal Drip'
     homepage 'http://www.dafont.com/nasal-drip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nasal Drip.ttf'
 end

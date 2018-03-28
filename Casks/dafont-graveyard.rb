@@ -5,7 +5,6 @@ cask 'dafont-graveyard' do
     url 'http://dl.dafont.com/dl/?f=graveyard'
     name 'Graveyard'
     homepage 'http://www.dafont.com/graveyard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GR______.TTF'
 end

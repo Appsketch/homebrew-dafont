@@ -5,7 +5,6 @@ cask 'dafont-daisy-charming' do
     url 'http://dl.dafont.com/dl/?f=daisy_charming'
     name 'Daisy Charming'
     homepage 'http://www.dafont.com/daisy-charming.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DAISY CHARMING.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dread-ringer' do
     url 'http://dl.dafont.com/dl/?f=dread_ringer'
     name 'Dread Ringer'
     homepage 'http://www.dafont.com/dread-ringer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dreadringer.ttf'
     font 'dreadringer3d.ttf'

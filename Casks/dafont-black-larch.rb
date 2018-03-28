@@ -5,7 +5,6 @@ cask 'dafont-black-larch' do
     url 'http://dl.dafont.com/dl/?f=black_larch'
     name 'Black Larch'
     homepage 'http://www.dafont.com/black-larch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackLarch_PERSONAL_USE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ohhello' do
     url 'http://dl.dafont.com/dl/?f=ohhello'
     name 'Oh Hello'
     homepage 'http://www.dafont.com/ohhello.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OhHello.ttf'
 end

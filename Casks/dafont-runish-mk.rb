@@ -5,7 +5,6 @@ cask 'dafont-runish-mk' do
     url 'http://dl.dafont.com/dl/?f=runish_mk'
     name 'Runish MK'
     homepage 'http://www.dafont.com/runish-mk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RunishMK.ttf'
 end

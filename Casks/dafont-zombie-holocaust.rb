@@ -5,7 +5,6 @@ cask 'dafont-zombie-holocaust' do
     url 'http://dl.dafont.com/dl/?f=zombie_holocaust'
     name 'Zombie Holocaust'
     homepage 'http://www.dafont.com/zombie-holocaust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zombie_Holocaust.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-funky-muskrat' do
     url 'http://dl.dafont.com/dl/?f=funky_muskrat'
     name 'Funky Muskrat'
     homepage 'http://www.dafont.com/funky-muskrat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'funkymuskrat.ttf'
 end

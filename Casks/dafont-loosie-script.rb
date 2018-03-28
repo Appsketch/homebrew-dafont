@@ -5,7 +5,6 @@ cask 'dafont-loosie-script' do
     url 'http://dl.dafont.com/dl/?f=loosie_script'
     name 'Loosie Script'
     homepage 'http://www.dafont.com/loosie-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Loosiescript.ttf'
 end

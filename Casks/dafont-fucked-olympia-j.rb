@@ -5,7 +5,6 @@ cask 'dafont-fucked-olympia-j' do
     url 'http://dl.dafont.com/dl/?f=fucked_olympia_j'
     name 'Fucked Olympia J'
     homepage 'http://www.dafont.com/fucked-olympia-j.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '9FUKOLYM.TTF'
 end

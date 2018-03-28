@@ -5,7 +5,6 @@ cask 'dafont-celluloid-bliss' do
     url 'http://dl.dafont.com/dl/?f=celluloid_bliss'
     name 'Celluloid Bliss'
     homepage 'http://www.dafont.com/celluloid-bliss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CelluloidBliss.ttf'
     font 'CelluloidBlissCondensed.ttf'

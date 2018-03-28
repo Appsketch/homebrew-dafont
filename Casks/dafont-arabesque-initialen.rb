@@ -5,7 +5,6 @@ cask 'dafont-arabesque-initialen' do
     url 'http://dl.dafont.com/dl/?f=arabesque_initialen'
     name 'Arabesque Initialen'
     homepage 'http://www.dafont.com/arabesque-initialen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArabesqueInitialen.ttf'
 end

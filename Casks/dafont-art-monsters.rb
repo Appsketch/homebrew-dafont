@@ -5,7 +5,6 @@ cask 'dafont-art-monsters' do
     url 'http://dl.dafont.com/dl/?f=art_monsters'
     name 'Art Monsters'
     homepage 'http://www.dafont.com/art-monsters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArtMonsters.ttf'
 end

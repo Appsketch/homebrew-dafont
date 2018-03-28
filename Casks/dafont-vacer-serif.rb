@@ -5,7 +5,6 @@ cask 'dafont-vacer-serif' do
     url 'http://dl.dafont.com/dl/?f=vacer_serif'
     name 'Vacer Serif'
     homepage 'http://www.dafont.com/vacer-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VacerSerifBlackPersonal.ttf'
     font 'VacerSerifBoldPersonal.ttf'

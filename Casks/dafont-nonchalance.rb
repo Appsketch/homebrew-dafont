@@ -5,7 +5,6 @@ cask 'dafont-nonchalance' do
     url 'http://dl.dafont.com/dl/?f=nonchalance'
     name 'Nonchalance'
     homepage 'http://www.dafont.com/nonchalance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nonchalance Bold.otf'
     font 'Nonchalance Medium.otf'

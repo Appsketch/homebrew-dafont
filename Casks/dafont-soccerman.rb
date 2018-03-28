@@ -5,7 +5,6 @@ cask 'dafont-soccerman' do
     url 'http://dl.dafont.com/dl/?f=soccerman'
     name 'Soccerman'
     homepage 'http://www.dafont.com/soccerman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SOCCERMAN~FIFA.ttf'
 end

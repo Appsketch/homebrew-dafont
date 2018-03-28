@@ -5,7 +5,6 @@ cask 'dafont-sir-robins-minstrels' do
     url 'http://dl.dafont.com/dl/?f=sir_robins_minstrels'
     name 'Sir Robin&#039;s Minstrels'
     homepage 'http://www.dafont.com/sir-robins-minstrels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sir_robins_minstrels.ttf'
 end

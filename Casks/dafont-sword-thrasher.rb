@@ -5,7 +5,6 @@ cask 'dafont-sword-thrasher' do
     url 'http://dl.dafont.com/dl/?f=sword_thrasher'
     name 'Sword Thrasher'
     homepage 'http://www.dafont.com/sword-thrasher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sword Thrasher.ttf'
 end

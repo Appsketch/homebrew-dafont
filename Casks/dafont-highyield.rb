@@ -5,7 +5,6 @@ cask 'dafont-highyield' do
     url 'http://dl.dafont.com/dl/?f=highyield'
     name 'High Yield'
     homepage 'http://www.dafont.com/highyield.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighYield.ttf'
 end

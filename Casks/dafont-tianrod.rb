@@ -5,7 +5,6 @@ cask 'dafont-tianrod' do
     url 'http://dl.dafont.com/dl/?f=tianrod'
     name 'Tianrod'
     homepage 'http://www.dafont.com/tianrod.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tianrod.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-decemberice' do
     url 'http://dl.dafont.com/dl/?f=decemberice'
     name 'Decemberice'
     homepage 'http://www.dafont.com/decemberice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'december.ttf'
 end

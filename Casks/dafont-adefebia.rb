@@ -5,7 +5,6 @@ cask 'dafont-adefebia' do
     url 'http://dl.dafont.com/dl/?f=adefebia'
     name 'Adefebia'
     homepage 'http://www.dafont.com/adefebia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adefebia Free Font.ttf'
 end

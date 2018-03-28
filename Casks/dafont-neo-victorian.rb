@@ -5,7 +5,6 @@ cask 'dafont-neo-victorian' do
     url 'http://dl.dafont.com/dl/?f=neo_victorian'
     name 'Neo Victorian'
     homepage 'http://www.dafont.com/neo-victorian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neo Victorian.ttf'
 end

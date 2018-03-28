@@ -5,7 +5,6 @@ cask 'dafont-iwfx' do
     url 'http://dl.dafont.com/dl/?f=iwfx'
     name 'Iwfx'
     homepage 'http://www.dafont.com/iwfx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iwfxv02.ttf'
     font 'Iwfxv03.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-mythical-hoplite-no' do
     url 'http://dl.dafont.com/dl/?f=mythical_hoplite_no'
     name 'Mythical &amp; Hoplite Noogies'
     homepage 'http://www.dafont.com/mythical-hoplite-no.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hoplite.ttf'
 end

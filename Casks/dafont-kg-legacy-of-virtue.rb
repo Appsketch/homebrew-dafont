@@ -5,7 +5,6 @@ cask 'dafont-kg-legacy-of-virtue' do
     url 'http://dl.dafont.com/dl/?f=kg_legacy_of_virtue'
     name 'KG Legacy of Virtue'
     homepage 'http://www.dafont.com/kg-legacy-of-virtue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGLegacyofVirtue.ttf'
 end

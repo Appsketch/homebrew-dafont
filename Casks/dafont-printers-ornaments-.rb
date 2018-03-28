@@ -5,7 +5,6 @@ cask 'dafont-printers-ornaments-' do
     url 'http://dl.dafont.com/dl/?f=printers_ornaments_'
     name 'Printers Ornaments One'
     homepage 'http://www.dafont.com/printers-ornaments-.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Printorn.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-i-tell-you-all-my-secrets' do
     url 'http://dl.dafont.com/dl/?f=i_tell_you_all_my_secrets'
     name 'I tell you all my secrets'
     homepage 'http://www.dafont.com/i-tell-you-all-my-secrets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I tell you all my secrets.ttf'
 end

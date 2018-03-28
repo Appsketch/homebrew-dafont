@@ -5,7 +5,6 @@ cask 'dafont-rockingposter' do
     url 'http://dl.dafont.com/dl/?f=rockingposter'
     name 'Rocking Poster'
     homepage 'http://www.dafont.com/rockingposter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RockingPoster.ttf'
 end

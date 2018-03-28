@@ -5,7 +5,6 @@ cask 'dafont-boxmd' do
     url 'http://dl.dafont.com/dl/?f=boxmd'
     name 'Boxmd'
     homepage 'http://www.dafont.com/boxmd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'boxmd.ttf'
 end

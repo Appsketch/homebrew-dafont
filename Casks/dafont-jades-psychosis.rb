@@ -5,7 +5,6 @@ cask 'dafont-jades-psychosis' do
     url 'http://dl.dafont.com/dl/?f=jades_psychosis'
     name 'Jade&#039;s Psychosis'
     homepage 'http://www.dafont.com/jades-psychosis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JadesPsychosis.ttf'
 end

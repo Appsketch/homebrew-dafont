@@ -5,7 +5,6 @@ cask 'dafont-faltura-guerra' do
     url 'http://dl.dafont.com/dl/?f=faltura_guerra'
     name 'Faltura Guerra'
     homepage 'http://www.dafont.com/faltura-guerra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FalturaGuerra.ttf'
 end

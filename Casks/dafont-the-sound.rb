@@ -5,7 +5,6 @@ cask 'dafont-the-sound' do
     url 'http://dl.dafont.com/dl/?f=the_sound'
     name 'The Sound'
     homepage 'http://www.dafont.com/the-sound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Sound.ttf'
 end

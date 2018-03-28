@@ -5,7 +5,6 @@ cask 'dafont-veneer-extras' do
     url 'http://dl.dafont.com/dl/?f=veneer_extras'
     name 'Veneer Extras'
     homepage 'http://www.dafont.com/veneer-extras.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VeneerExtras.otf'
 end

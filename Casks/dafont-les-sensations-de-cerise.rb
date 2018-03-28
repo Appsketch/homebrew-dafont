@@ -5,7 +5,6 @@ cask 'dafont-les-sensations-de-cerise' do
     url 'http://dl.dafont.com/dl/?f=les_sensations_de_cerise'
     name 'Les Sensations de Cerise'
     homepage 'http://www.dafont.com/les-sensations-de-cerise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'les Sensations de Cerise.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nb-obese' do
     url 'http://dl.dafont.com/dl/?f=nb_obese'
     name 'Nb Obese'
     homepage 'http://www.dafont.com/nb-obese.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nb_obese.ttf'
 end

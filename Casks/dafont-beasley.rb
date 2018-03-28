@@ -5,7 +5,6 @@ cask 'dafont-beasley' do
     url 'http://dl.dafont.com/dl/?f=beasley'
     name 'Beasley'
     homepage 'http://www.dafont.com/beasley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beasley.ttf'
 end

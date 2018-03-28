@@ -5,7 +5,6 @@ cask 'dafont-foxscript' do
     url 'http://dl.dafont.com/dl/?f=foxscript'
     name 'FoxScript'
     homepage 'http://www.dafont.com/foxscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FOXSN___.TTF'
 end

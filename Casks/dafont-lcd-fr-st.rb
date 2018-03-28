@@ -5,7 +5,6 @@ cask 'dafont-lcd-fr-st' do
     url 'http://dl.dafont.com/dl/?f=lcd_fr_st'
     name 'Le Canard D&eacute;chain&eacute;'
     homepage 'http://www.dafont.com/lcd-fr-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lcd.fr.st.TTF'
 end

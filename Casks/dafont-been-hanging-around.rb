@@ -5,7 +5,6 @@ cask 'dafont-been-hanging-around' do
     url 'http://dl.dafont.com/dl/?f=been_hanging_around'
     name 'Been Hanging Around '
     homepage 'http://www.dafont.com/been-hanging-around.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Been Hanging Around.ttf'
 end

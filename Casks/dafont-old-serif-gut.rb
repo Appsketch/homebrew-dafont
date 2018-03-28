@@ -5,7 +5,6 @@ cask 'dafont-old-serif-gut' do
     url 'http://dl.dafont.com/dl/?f=old_serif_gut'
     name 'Old Serif Gut'
     homepage 'http://www.dafont.com/old-serif-gut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old Serif Gut.ttf'
 end

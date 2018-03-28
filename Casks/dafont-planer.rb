@@ -5,7 +5,6 @@ cask 'dafont-planer' do
     url 'http://dl.dafont.com/dl/?f=planer'
     name 'Planer'
     homepage 'http://www.dafont.com/planer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Planer_Reg.ttf'
 end

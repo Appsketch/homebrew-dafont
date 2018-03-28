@@ -5,7 +5,6 @@ cask 'dafont-acki-preschool' do
     url 'http://dl.dafont.com/dl/?f=acki_preschool'
     name 'Acki Preschool'
     homepage 'http://www.dafont.com/acki-preschool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AckiPreschool.ttf'
 end

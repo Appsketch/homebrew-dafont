@@ -5,7 +5,6 @@ cask 'dafont-technocracy' do
     url 'http://dl.dafont.com/dl/?f=technocracy'
     name 'Technocracy'
     homepage 'http://www.dafont.com/technocracy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Technocracy.ttf'
 end

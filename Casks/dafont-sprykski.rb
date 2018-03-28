@@ -5,7 +5,6 @@ cask 'dafont-sprykski' do
     url 'http://dl.dafont.com/dl/?f=sprykski'
     name 'Sprykski'
     homepage 'http://www.dafont.com/sprykski.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sprykski.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-im-not-lazy' do
     url 'http://dl.dafont.com/dl/?f=im_not_lazy'
     name 'Im Not Lazy'
     homepage 'http://www.dafont.com/im-not-lazy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'i_&#039;mnotlazy.ttf'
 end

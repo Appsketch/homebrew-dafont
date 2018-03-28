@@ -5,7 +5,6 @@ cask 'dafont-teutonic' do
     url 'http://dl.dafont.com/dl/?f=teutonic'
     name 'Teutonic'
     homepage 'http://www.dafont.com/teutonic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'teutonic1.ttf'
     font 'teutonic2.ttf'

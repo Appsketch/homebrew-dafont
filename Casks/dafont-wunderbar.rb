@@ -5,7 +5,6 @@ cask 'dafont-wunderbar' do
     url 'http://dl.dafont.com/dl/?f=wunderbar'
     name 'Wunderbar'
     homepage 'http://www.dafont.com/wunderbar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wunderbar.ttf'
 end

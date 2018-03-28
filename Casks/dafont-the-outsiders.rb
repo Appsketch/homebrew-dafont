@@ -5,7 +5,6 @@ cask 'dafont-the-outsiders' do
     url 'http://dl.dafont.com/dl/?f=the_outsiders'
     name 'The Outsiders'
     homepage 'http://www.dafont.com/the-outsiders.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Outsiders.ttf'
 end

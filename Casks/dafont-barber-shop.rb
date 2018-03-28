@@ -5,7 +5,6 @@ cask 'dafont-barber-shop' do
     url 'http://dl.dafont.com/dl/?f=barber_shop'
     name 'Barber Shop'
     homepage 'http://www.dafont.com/barber-shop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barber_shop.ttf'
 end

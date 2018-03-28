@@ -5,7 +5,6 @@ cask 'dafont-older-st' do
     url 'http://dl.dafont.com/dl/?f=older_st'
     name 'Older ST'
     homepage 'http://www.dafont.com/older-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Older St.ttf'
 end

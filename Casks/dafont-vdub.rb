@@ -5,7 +5,6 @@ cask 'dafont-vdub' do
     url 'http://dl.dafont.com/dl/?f=vdub'
     name 'V-Dub'
     homepage 'http://www.dafont.com/vdub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'v dub.ttf'
 end

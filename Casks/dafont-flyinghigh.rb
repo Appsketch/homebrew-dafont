@@ -5,7 +5,6 @@ cask 'dafont-flyinghigh' do
     url 'http://dl.dafont.com/dl/?f=flyinghigh'
     name 'Flying High'
     homepage 'http://www.dafont.com/flyinghigh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlyingHigh.ttf'
 end

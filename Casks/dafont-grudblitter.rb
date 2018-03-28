@@ -5,7 +5,6 @@ cask 'dafont-grudblitter' do
     url 'http://dl.dafont.com/dl/?f=grudblitter'
     name 'Grudblitter'
     homepage 'http://www.dafont.com/grudblitter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRUDBLIT.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-humeur' do
     url 'http://dl.dafont.com/dl/?f=humeur'
     name 'Humeur'
     homepage 'http://www.dafont.com/humeur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Humeur.ttf'
 end

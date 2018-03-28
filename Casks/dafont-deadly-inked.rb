@@ -5,7 +5,6 @@ cask 'dafont-deadly-inked' do
     url 'http://dl.dafont.com/dl/?f=deadly_inked'
     name 'Deadly Inked'
     homepage 'http://www.dafont.com/deadly-inked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deadly Inked.ttf'
 end

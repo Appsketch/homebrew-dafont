@@ -5,7 +5,6 @@ cask 'dafont-bruised' do
     url 'http://dl.dafont.com/dl/?f=bruised'
     name 'Bruised'
     homepage 'http://www.dafont.com/bruised.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRUI0___.TTF'
     font 'BRUI10___.TTF'

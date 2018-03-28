@@ -5,7 +5,6 @@ cask 'dafont-vtks-sabonete' do
     url 'http://dl.dafont.com/dl/?f=vtks_sabonete'
     name 'VTKS Sabonete'
     homepage 'http://www.dafont.com/vtks-sabonete.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS SABONETE.ttf'
 end

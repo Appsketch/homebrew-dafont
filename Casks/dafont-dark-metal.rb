@@ -5,7 +5,6 @@ cask 'dafont-dark-metal' do
     url 'http://dl.dafont.com/dl/?f=dark_metal'
     name 'Dark Metal'
     homepage 'http://www.dafont.com/dark-metal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dark Metal.ttf'
 end

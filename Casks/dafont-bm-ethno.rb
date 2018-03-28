@@ -5,7 +5,6 @@ cask 'dafont-bm-ethno' do
     url 'http://dl.dafont.com/dl/?f=bm_ethno'
     name 'BM Ethno'
     homepage 'http://www.dafont.com/bm-ethno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMethno.TTF'
 end

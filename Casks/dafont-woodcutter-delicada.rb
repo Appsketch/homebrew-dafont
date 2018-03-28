@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-delicada' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_delicada'
     name 'Woodcutter Delicada'
     homepage 'http://www.dafont.com/woodcutter-delicada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter DELICADA.ttf'
 end

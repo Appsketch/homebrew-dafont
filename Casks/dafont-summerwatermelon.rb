@@ -5,7 +5,6 @@ cask 'dafont-summerwatermelon' do
     url 'http://dl.dafont.com/dl/?f=summerwatermelon'
     name 'Summer Watermelon'
     homepage 'http://www.dafont.com/summerwatermelon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SummerWatermelon.ttf'
 end

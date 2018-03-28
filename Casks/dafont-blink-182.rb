@@ -5,7 +5,6 @@ cask 'dafont-blink-182' do
     url 'http://dl.dafont.com/dl/?f=blink_182'
     name 'Resurrection'
     homepage 'http://www.dafont.com/blink-182.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RESURREC.TTF'
 end

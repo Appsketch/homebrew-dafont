@@ -5,7 +5,6 @@ cask 'dafont-the-battle-continuez' do
     url 'http://dl.dafont.com/dl/?f=the_battle_continuez'
     name 'The Battle Continuez'
     homepage 'http://www.dafont.com/the-battle-continuez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheBattleCont.ttf'
 end

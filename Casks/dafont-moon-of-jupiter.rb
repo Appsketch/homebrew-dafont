@@ -5,7 +5,6 @@ cask 'dafont-moon-of-jupiter' do
     url 'http://dl.dafont.com/dl/?f=moon_of_jupiter'
     name 'Moon of Jupiter'
     homepage 'http://www.dafont.com/moon-of-jupiter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'moon_of_jupiter.ttf'
 end

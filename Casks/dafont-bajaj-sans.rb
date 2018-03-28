@@ -5,7 +5,6 @@ cask 'dafont-bajaj-sans' do
     url 'http://dl.dafont.com/dl/?f=bajaj_sans'
     name 'Bajaj Sans'
     homepage 'http://www.dafont.com/bajaj-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bajaj_sans.ttf'
 end

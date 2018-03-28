@@ -5,7 +5,6 @@ cask 'dafont-stank' do
     url 'http://dl.dafont.com/dl/?f=stank'
     name 'Stank'
     homepage 'http://www.dafont.com/stank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STANK___.TTF'
 end

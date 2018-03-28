@@ -5,7 +5,6 @@ cask 'dafont-crystalhouse' do
     url 'http://dl.dafont.com/dl/?f=crystalhouse'
     name 'Crystal House'
     homepage 'http://www.dafont.com/crystalhouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrystalHouse.ttf'
 end

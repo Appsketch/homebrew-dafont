@@ -5,7 +5,6 @@ cask 'dafont-agenda-du-directeur' do
     url 'http://dl.dafont.com/dl/?f=agenda_du_directeur'
     name 'Agenda du Directeur'
     homepage 'http://www.dafont.com/agenda-du-directeur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Agend___.ttf'
 end

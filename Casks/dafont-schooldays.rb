@@ -5,7 +5,6 @@ cask 'dafont-schooldays' do
     url 'http://dl.dafont.com/dl/?f=schooldays'
     name 'Schooldays'
     homepage 'http://www.dafont.com/schooldays.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'school.TTF'
 end

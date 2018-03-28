@@ -5,7 +5,6 @@ cask 'dafont-the-dreamer' do
     url 'http://dl.dafont.com/dl/?f=the_dreamer'
     name 'The Dreamer'
     homepage 'http://www.dafont.com/the-dreamer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THEDREAM TRIAL.ttf'
 end

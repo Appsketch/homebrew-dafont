@@ -5,7 +5,6 @@ cask 'dafont-lebowski' do
     url 'http://dl.dafont.com/dl/?f=lebowski'
     name 'Lebowski'
     homepage 'http://www.dafont.com/lebowski.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lebowski.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-zsynor' do
     url 'http://dl.dafont.com/dl/?f=zsynor'
     name 'Zsynor'
     homepage 'http://www.dafont.com/zsynor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zsynorEBO.ttf'
 end

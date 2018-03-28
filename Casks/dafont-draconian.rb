@@ -5,7 +5,6 @@ cask 'dafont-draconian' do
     url 'http://dl.dafont.com/dl/?f=draconian'
     name 'Draconian'
     homepage 'http://www.dafont.com/draconian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DraconianMicroLiner001.ttf'
 end

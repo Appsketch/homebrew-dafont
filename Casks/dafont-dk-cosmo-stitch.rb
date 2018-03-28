@@ -5,7 +5,6 @@ cask 'dafont-dk-cosmo-stitch' do
     url 'http://dl.dafont.com/dl/?f=dk_cosmo_stitch'
     name 'DK Cosmo Stitch'
     homepage 'http://www.dafont.com/dk-cosmo-stitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Cosmo Stitch.otf'
 end

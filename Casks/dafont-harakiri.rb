@@ -5,7 +5,6 @@ cask 'dafont-harakiri' do
     url 'http://dl.dafont.com/dl/?f=harakiri'
     name 'Harakiri'
     homepage 'http://www.dafont.com/harakiri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Harakiri.ttf'
 end

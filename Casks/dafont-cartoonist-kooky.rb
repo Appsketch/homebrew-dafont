@@ -5,7 +5,6 @@ cask 'dafont-cartoonist-kooky' do
     url 'http://dl.dafont.com/dl/?f=cartoonist_kooky'
     name 'Cartoonist Kooky'
     homepage 'http://www.dafont.com/cartoonist-kooky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cartoonist_kooky.ttf'
 end

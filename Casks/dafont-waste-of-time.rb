@@ -5,7 +5,6 @@ cask 'dafont-waste-of-time' do
     url 'http://dl.dafont.com/dl/?f=waste_of_time'
     name 'Waste of time'
     homepage 'http://www.dafont.com/waste-of-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Waste of time.ttf'
 end

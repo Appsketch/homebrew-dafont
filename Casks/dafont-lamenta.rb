@@ -5,7 +5,6 @@ cask 'dafont-lamenta' do
     url 'http://dl.dafont.com/dl/?f=lamenta'
     name 'Lamenta'
     homepage 'http://www.dafont.com/lamenta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dawnland.lamenta.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tags-xtreme' do
     url 'http://dl.dafont.com/dl/?f=tags_xtreme'
     name 'Tags Xtreme'
     homepage 'http://www.dafont.com/tags-xtreme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TAGSXTREME.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-time-pundits' do
     url 'http://dl.dafont.com/dl/?f=time_pundits'
     name 'Time Pundits'
     homepage 'http://www.dafont.com/time-pundits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Time Pundits.ttf'
 end

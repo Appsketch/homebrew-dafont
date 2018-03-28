@@ -5,7 +5,6 @@ cask 'dafont-zoa-elephantesque' do
     url 'http://dl.dafont.com/dl/?f=zoa_elephantesque'
     name 'Zoa Elephantesque'
     homepage 'http://www.dafont.com/zoa-elephantesque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zoa Elephantesque.ttf'
 end

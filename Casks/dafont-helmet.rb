@@ -5,7 +5,6 @@ cask 'dafont-helmet' do
     url 'http://dl.dafont.com/dl/?f=helmet'
     name 'Helmet'
     homepage 'http://www.dafont.com/helmet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HELMET.ttf'
 end

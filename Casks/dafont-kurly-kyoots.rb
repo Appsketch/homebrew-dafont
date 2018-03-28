@@ -5,7 +5,6 @@ cask 'dafont-kurly-kyoots' do
     url 'http://dl.dafont.com/dl/?f=kurly_kyoots'
     name 'Kurly Kyoots'
     homepage 'http://www.dafont.com/kurly-kyoots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kurly Kyoots Italic.otf'
     font 'Kurly Kyoots.otf'

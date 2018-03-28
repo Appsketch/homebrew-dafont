@@ -5,7 +5,6 @@ cask 'dafont-rebellion' do
     url 'http://dl.dafont.com/dl/?f=rebellion'
     name 'Rebellion'
     homepage 'http://www.dafont.com/rebellion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rebellion Italic.otf'
     font 'Rebellion.otf'

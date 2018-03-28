@@ -5,7 +5,6 @@ cask 'dafont-pomah-type' do
     url 'http://dl.dafont.com/dl/?f=pomah_type'
     name 'Pomah Type'
     homepage 'http://www.dafont.com/pomah-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pomah Type.ttf'
 end

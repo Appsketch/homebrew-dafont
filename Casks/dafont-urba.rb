@@ -5,7 +5,6 @@ cask 'dafont-urba' do
     url 'http://dl.dafont.com/dl/?f=urba'
     name 'Urba'
     homepage 'http://www.dafont.com/urba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Urba.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-letter-sseungi' do
     url 'http://dl.dafont.com/dl/?f=letter_sseungi'
     name 'Letter Sseungi'
     homepage 'http://www.dafont.com/letter-sseungi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'letter sseungi.ttf'
 end

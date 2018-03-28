@@ -5,7 +5,6 @@ cask 'dafont-usn-stencil' do
     url 'http://dl.dafont.com/dl/?f=usn_stencil'
     name 'USN Stencil'
     homepage 'http://www.dafont.com/usn-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'USN_Stencil.ttf'
 end

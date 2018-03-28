@@ -5,7 +5,6 @@ cask 'dafont-kuchibue' do
     url 'http://dl.dafont.com/dl/?f=kuchibue'
     name 'Kuchibue'
     homepage 'http://www.dafont.com/kuchibue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kuchibue.ttf'
 end

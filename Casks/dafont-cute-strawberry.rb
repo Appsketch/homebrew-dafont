@@ -5,7 +5,6 @@ cask 'dafont-cute-strawberry' do
     url 'http://dl.dafont.com/dl/?f=cute_strawberry'
     name 'Cute Strawberry'
     homepage 'http://www.dafont.com/cute-strawberry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stroberi 2 @larizkyshop.ttf'
 end

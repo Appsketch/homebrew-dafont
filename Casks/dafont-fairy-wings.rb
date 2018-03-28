@@ -5,7 +5,6 @@ cask 'dafont-fairy-wings' do
     url 'http://dl.dafont.com/dl/?f=fairy_wings'
     name 'Fairy Wings'
     homepage 'http://www.dafont.com/fairy-wings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fairy wings.ttf'
 end

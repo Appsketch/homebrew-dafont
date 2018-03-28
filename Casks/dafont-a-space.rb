@@ -5,7 +5,6 @@ cask 'dafont-a-space' do
     url 'http://dl.dafont.com/dl/?f=a_space'
     name 'A Space'
     homepage 'http://www.dafont.com/a-space.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aspace_demo.otf'
     font 'aspace_italic_demo.otf'

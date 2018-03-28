@@ -5,7 +5,6 @@ cask 'dafont-superbefok' do
     url 'http://dl.dafont.com/dl/?f=superbefok'
     name 'Super Befok'
     homepage 'http://www.dafont.com/superbefok.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'superbefok.ttf'
 end

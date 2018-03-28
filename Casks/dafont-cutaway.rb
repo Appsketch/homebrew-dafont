@@ -5,7 +5,6 @@ cask 'dafont-cutaway' do
     url 'http://dl.dafont.com/dl/?f=cutaway'
     name 'Cut Away'
     homepage 'http://www.dafont.com/cutaway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CutAway.ttf'
 end

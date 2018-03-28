@@ -5,7 +5,6 @@ cask 'dafont-mike-vallely' do
     url 'http://dl.dafont.com/dl/?f=mike_vallely'
     name 'Mike Vallely'
     homepage 'http://www.dafont.com/mike-vallely.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mike_vallely.ttf'
 end

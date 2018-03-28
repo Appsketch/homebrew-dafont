@@ -5,7 +5,6 @@ cask 'dafont-diminuendo' do
     url 'http://dl.dafont.com/dl/?f=diminuendo'
     name 'Diminuendo'
     homepage 'http://www.dafont.com/diminuendo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diminuendo-Regular.otf'
 end

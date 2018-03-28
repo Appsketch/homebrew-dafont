@@ -5,7 +5,6 @@ cask 'dafont-necrotype' do
     url 'http://dl.dafont.com/dl/?f=necrotype'
     name 'Necrotype'
     homepage 'http://www.dafont.com/necrotype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Necrotype.otf'
 end

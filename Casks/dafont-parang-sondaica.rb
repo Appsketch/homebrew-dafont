@@ -5,7 +5,6 @@ cask 'dafont-parang-sondaica' do
     url 'http://dl.dafont.com/dl/?f=parang_sondaica'
     name 'Parang Sondaica'
     homepage 'http://www.dafont.com/parang-sondaica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ParangSondaica.ttf'
 end

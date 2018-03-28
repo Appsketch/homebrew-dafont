@@ -5,7 +5,6 @@ cask 'dafont-clark' do
     url 'http://dl.dafont.com/dl/?f=clark'
     name 'Clark'
     homepage 'http://www.dafont.com/clark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clark Bold Hollow.otf'
     font 'Clark Bold Italic Hollow.otf'

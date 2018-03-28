@@ -5,7 +5,6 @@ cask 'dafont-acryle-script' do
     url 'http://dl.dafont.com/dl/?f=acryle_script'
     name 'Acryle Script'
     homepage 'http://www.dafont.com/acryle-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AcryleScript_PersonalUse.ttf'
 end

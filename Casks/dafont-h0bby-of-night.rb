@@ -5,7 +5,6 @@ cask 'dafont-h0bby-of-night' do
     url 'http://dl.dafont.com/dl/?f=h0bby_of_night'
     name 'Hobby of night'
     homepage 'http://www.dafont.com/h0bby-of-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'H0bby-of-night.ttf'
 end

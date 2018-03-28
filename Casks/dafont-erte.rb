@@ -5,7 +5,6 @@ cask 'dafont-erte' do
     url 'http://dl.dafont.com/dl/?f=erte'
     name 'Erte'
     homepage 'http://www.dafont.com/erte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Erte Bold Italic.otf'
     font 'Erte Bold.otf'

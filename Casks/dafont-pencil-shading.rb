@@ -5,7 +5,6 @@ cask 'dafont-pencil-shading' do
     url 'http://dl.dafont.com/dl/?f=pencil_shading'
     name 'Pencil Shading'
     homepage 'http://www.dafont.com/pencil-shading.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pencil Shading.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bulles-de-confiance' do
     url 'http://dl.dafont.com/dl/?f=bulles_de_confiance'
     name 'Bulles de confiance'
     homepage 'http://www.dafont.com/bulles-de-confiance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bulles de confiance.otf'
 end

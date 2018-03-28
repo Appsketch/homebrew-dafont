@@ -5,7 +5,6 @@ cask 'dafont-obelisk-mxvv' do
     url 'http://dl.dafont.com/dl/?f=obelisk_mxvv'
     name 'Obelisk MXVV'
     homepage 'http://www.dafont.com/obelisk-mxvv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Obelisk-MMXV-1-1.ttf'
 end

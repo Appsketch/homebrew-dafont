@@ -5,7 +5,6 @@ cask 'dafont-pilar-typeface' do
     url 'http://dl.dafont.com/dl/?f=pilar_typeface'
     name 'Pilar Typeface'
     homepage 'http://www.dafont.com/pilar-typeface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pilar Display Typeface.ttf'
 end

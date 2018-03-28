@@ -5,7 +5,6 @@ cask 'dafont-westfalia-sans' do
     url 'http://dl.dafont.com/dl/?f=westfalia_sans'
     name 'Westfalia Sans'
     homepage 'http://www.dafont.com/westfalia-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1284390245Westfalia_Sans.ttf'
 end

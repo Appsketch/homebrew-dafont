@@ -5,7 +5,6 @@ cask 'dafont-hff-code-deco' do
     url 'http://dl.dafont.com/dl/?f=hff_code_deco'
     name 'HFF Code Deco'
     homepage 'http://www.dafont.com/hff-code-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Code Deco.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nadir' do
     url 'http://dl.dafont.com/dl/?f=nadir'
     name 'Nadir'
     homepage 'http://www.dafont.com/nadir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nadir.ttf'
 end

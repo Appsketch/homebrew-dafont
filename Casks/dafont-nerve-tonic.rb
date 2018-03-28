@@ -5,7 +5,6 @@ cask 'dafont-nerve-tonic' do
     url 'http://dl.dafont.com/dl/?f=nerve_tonic'
     name 'Nerve Tonic'
     homepage 'http://www.dafont.com/nerve-tonic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NERVT___.TTF'
 end

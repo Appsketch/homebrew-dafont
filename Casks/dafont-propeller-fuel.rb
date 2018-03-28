@@ -5,7 +5,6 @@ cask 'dafont-propeller-fuel' do
     url 'http://dl.dafont.com/dl/?f=propeller_fuel'
     name 'Propeller Fuel'
     homepage 'http://www.dafont.com/propeller-fuel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PROPFRG_.TTF'
 end

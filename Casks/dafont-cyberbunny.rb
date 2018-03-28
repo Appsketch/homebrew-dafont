@@ -5,7 +5,6 @@ cask 'dafont-cyberbunny' do
     url 'http://dl.dafont.com/dl/?f=cyberbunny'
     name 'Cyber Bunny'
     homepage 'http://www.dafont.com/cyberbunny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CyberBunny.ttf'
 end

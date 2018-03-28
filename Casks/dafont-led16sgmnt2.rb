@@ -5,7 +5,6 @@ cask 'dafont-led16sgmnt2' do
     url 'http://dl.dafont.com/dl/?f=led16sgmnt2'
     name 'Led16sgmnt2'
     homepage 'http://www.dafont.com/led16sgmnt2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'led16sgmnt2-Italic.ttf'
     font 'led16sgmnt2-Regular.ttf'

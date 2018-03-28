@@ -5,7 +5,6 @@ cask 'dafont-font-shui' do
     url 'http://dl.dafont.com/dl/?f=font_shui'
     name 'Font Shui'
     homepage 'http://www.dafont.com/font-shui.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FONTSHUI.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-one-starry-night' do
     url 'http://dl.dafont.com/dl/?f=one_starry_night'
     name 'One Starry Night'
     homepage 'http://www.dafont.com/one-starry-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'One Starry Night.ttf'
 end

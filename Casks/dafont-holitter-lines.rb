@@ -5,7 +5,6 @@ cask 'dafont-holitter-lines' do
     url 'http://dl.dafont.com/dl/?f=holitter_lines'
     name 'Holitter Lines'
     homepage 'http://www.dafont.com/holitter-lines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Holitter_Lines.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-skrunch' do
     url 'http://dl.dafont.com/dl/?f=skrunch'
     name 'Skrunch'
     homepage 'http://www.dafont.com/skrunch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skrunch Bold Italic.ttf'
     font 'skrunch Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-joanna-s-handwriting' do
     url 'http://dl.dafont.com/dl/?f=joanna_s_handwriting'
     name 'Joanna&#039;s handwriting'
     homepage 'http://www.dafont.com/joanna-s-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Joanna__s_handwriting.ttf'
 end

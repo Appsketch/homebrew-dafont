@@ -5,7 +5,6 @@ cask 'dafont-creative-culture' do
     url 'http://dl.dafont.com/dl/?f=creative_culture'
     name 'Creative Culture'
     homepage 'http://www.dafont.com/creative-culture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Creative Culture.ttf'
 end

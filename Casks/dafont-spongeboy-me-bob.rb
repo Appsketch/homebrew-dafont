@@ -5,7 +5,6 @@ cask 'dafont-spongeboy-me-bob' do
     url 'http://dl.dafont.com/dl/?f=spongeboy_me_bob'
     name 'Spongeboy Me Bob'
     homepage 'http://www.dafont.com/spongeboy-me-bob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spongeboy Me Bob.ttf'
 end

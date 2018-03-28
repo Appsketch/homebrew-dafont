@@ -5,7 +5,6 @@ cask 'dafont-questlok' do
     url 'http://dl.dafont.com/dl/?f=questlok'
     name 'Questlok'
     homepage 'http://www.dafont.com/questlok.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quest2.ttf'
     font 'quest2i.ttf'

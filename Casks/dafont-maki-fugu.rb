@@ -5,7 +5,6 @@ cask 'dafont-maki-fugu' do
     url 'http://dl.dafont.com/dl/?f=maki_fugu'
     name 'Maki &amp; Fugu'
     homepage 'http://www.dafont.com/maki-fugu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FUGU &amp; MAKI 2.ttf'
     font 'FUGU &amp; MAKI.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-ever-after' do
     url 'http://dl.dafont.com/dl/?f=ever_after'
     name 'Ever After'
     homepage 'http://www.dafont.com/ever-after.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EVERAFTE.TTF'
 end

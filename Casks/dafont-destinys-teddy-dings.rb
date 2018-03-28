@@ -5,7 +5,6 @@ cask 'dafont-destinys-teddy-dings' do
     url 'http://dl.dafont.com/dl/?f=destinys_teddy_dings'
     name 'Destiny&#039;s Teddy Dings'
     homepage 'http://www.dafont.com/destinys-teddy-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'teddydings1_dl.ttf'
     font 'teddydings2_dl.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-aztec-kingdom' do
     url 'http://dl.dafont.com/dl/?f=aztec_kingdom'
     name 'Aztec Kingdom'
     homepage 'http://www.dafont.com/aztec-kingdom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aztec kingdom.ttf'
 end

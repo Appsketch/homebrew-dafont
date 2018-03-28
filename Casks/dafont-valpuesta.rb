@@ -5,7 +5,6 @@ cask 'dafont-valpuesta' do
     url 'http://dl.dafont.com/dl/?f=valpuesta'
     name 'Valpuesta'
     homepage 'http://www.dafont.com/valpuesta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Valpuesta.ttf'
 end

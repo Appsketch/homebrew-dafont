@@ -5,7 +5,6 @@ cask 'dafont-quaker-shade' do
     url 'http://dl.dafont.com/dl/?f=quaker_shade'
     name 'Quaker Shade'
     homepage 'http://www.dafont.com/quaker-shade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quaker-Shade.otf'
 end

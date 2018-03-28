@@ -5,7 +5,6 @@ cask 'dafont-refuse-to-bow-down' do
     url 'http://dl.dafont.com/dl/?f=refuse_to_bow_down'
     name 'Refuse to bow down'
     homepage 'http://www.dafont.com/refuse-to-bow-down.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Refuse to bow down.ttf'
 end

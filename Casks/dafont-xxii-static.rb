@@ -5,7 +5,6 @@ cask 'dafont-xxii-static' do
     url 'http://dl.dafont.com/dl/?f=xxii_static'
     name 'XXII Static'
     homepage 'http://www.dafont.com/xxii-static.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XXII STATIC.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-diamondplate' do
     url 'http://dl.dafont.com/dl/?f=diamondplate'
     name 'Diamond Plate'
     homepage 'http://www.dafont.com/diamondplate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'diamondplate.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-thinnyness' do
     url 'http://dl.dafont.com/dl/?f=thinnyness'
     name 'Thinnyness'
     homepage 'http://www.dafont.com/thinnyness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thinnyness.ttf'
 end

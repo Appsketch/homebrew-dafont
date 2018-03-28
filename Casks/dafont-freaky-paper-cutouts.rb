@@ -5,7 +5,6 @@ cask 'dafont-freaky-paper-cutouts' do
     url 'http://dl.dafont.com/dl/?f=freaky_paper_cutouts'
     name 'Freaky Paper Cutouts'
     homepage 'http://www.dafont.com/freaky-paper-cutouts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Freaky Paper Cutouts.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-newstile' do
     url 'http://dl.dafont.com/dl/?f=newstile'
     name 'Newstile'
     homepage 'http://www.dafont.com/newstile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'newstile.ttf'
 end

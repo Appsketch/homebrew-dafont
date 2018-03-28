@@ -5,7 +5,6 @@ cask 'dafont-mondo-redondo' do
     url 'http://dl.dafont.com/dl/?f=mondo_redondo'
     name 'Mondo Redondo'
     homepage 'http://www.dafont.com/mondo-redondo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mondored.TTF'
 end

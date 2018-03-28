@@ -5,7 +5,6 @@ cask 'dafont-minen-oo-kenguru' do
     url 'http://dl.dafont.com/dl/?f=minen_oo_kenguru'
     name 'Minen oo kenguru'
     homepage 'http://www.dafont.com/minen-oo-kenguru.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minen oo kenguru.ttf'
 end

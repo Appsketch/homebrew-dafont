@@ -5,7 +5,6 @@ cask 'dafont-ghost-words' do
     url 'http://dl.dafont.com/dl/?f=ghost_words'
     name 'Ghost Words'
     homepage 'http://www.dafont.com/ghost-words.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GHOSTWORDS-Regular.otf'
 end

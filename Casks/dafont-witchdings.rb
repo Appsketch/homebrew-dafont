@@ -5,7 +5,6 @@ cask 'dafont-witchdings' do
     url 'http://dl.dafont.com/dl/?f=witchdings'
     name 'WitchDings'
     homepage 'http://www.dafont.com/witchdings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WitchDings.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kata-bidalan' do
     url 'http://dl.dafont.com/dl/?f=kata_bidalan'
     name 'Kata Bidalan'
     homepage 'http://www.dafont.com/kata-bidalan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kata Bidalan/KataBidalan.ttf'
     font 'Kata Bidalan/KataBidalanBold.ttf'

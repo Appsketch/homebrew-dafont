@@ -5,7 +5,6 @@ cask 'dafont-ghosttown' do
     url 'http://dl.dafont.com/dl/?f=ghosttown'
     name 'Ghosttown'
     homepage 'http://www.dafont.com/ghosttown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gtown.ttf'
 end

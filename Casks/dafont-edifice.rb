@@ -5,7 +5,6 @@ cask 'dafont-edifice' do
     url 'http://dl.dafont.com/dl/?f=edifice'
     name 'Edifice'
     homepage 'http://www.dafont.com/edifice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EdificeClassic_TB.otf'
     font 'EdificeThin_TB.otf'

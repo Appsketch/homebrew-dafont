@@ -5,7 +5,6 @@ cask 'dafont-aliensweater' do
     url 'http://dl.dafont.com/dl/?f=aliensweater'
     name 'Alien Sweater'
     homepage 'http://www.dafont.com/aliensweater.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlienSweater.ttf'
 end

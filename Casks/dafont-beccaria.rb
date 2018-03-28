@@ -5,7 +5,6 @@ cask 'dafont-beccaria' do
     url 'http://dl.dafont.com/dl/?f=beccaria'
     name 'Beccaria'
     homepage 'http://www.dafont.com/beccaria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beccaria.ttf'
 end

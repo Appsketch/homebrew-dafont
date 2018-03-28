@@ -5,7 +5,6 @@ cask 'dafont-dker-poster' do
     url 'http://dl.dafont.com/dl/?f=dker_poster'
     name 'Dker Poster'
     homepage 'http://www.dafont.com/dker-poster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dker-Poster.ttf'
 end

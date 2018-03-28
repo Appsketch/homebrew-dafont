@@ -5,7 +5,6 @@ cask 'dafont-urbanposter' do
     url 'http://dl.dafont.com/dl/?f=urbanposter'
     name 'Urban Poster'
     homepage 'http://www.dafont.com/urbanposter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UrbanPoster.ttf'
 end

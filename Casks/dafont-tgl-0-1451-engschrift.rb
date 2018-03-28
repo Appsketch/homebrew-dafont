@@ -5,7 +5,6 @@ cask 'dafont-tgl-0-1451-engschrift' do
     url 'http://dl.dafont.com/dl/?f=tgl_0_1451_engschrift'
     name 'TGL 0-1451 Engschrift'
     homepage 'http://www.dafont.com/tgl-0-1451-engschrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TGL_0-1451Eng.ttf'
 end

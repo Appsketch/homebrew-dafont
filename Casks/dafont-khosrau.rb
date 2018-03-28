@@ -5,7 +5,6 @@ cask 'dafont-khosrau' do
     url 'http://dl.dafont.com/dl/?f=khosrau'
     name 'Khosrau'
     homepage 'http://www.dafont.com/khosrau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Khosrau.ttf'
 end

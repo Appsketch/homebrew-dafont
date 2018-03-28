@@ -5,7 +5,6 @@ cask 'dafont-fty-skradjhuwn-ncv' do
     url 'http://dl.dafont.com/dl/?f=fty_skradjhuwn_ncv'
     name 'FTY Skradjhuwn NCV'
     homepage 'http://www.dafont.com/fty-skradjhuwn-ncv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTY SKRADJHUWN NCV 1.ttf'
     font 'FTY SKRADJHUWN NCV 2.ttf'

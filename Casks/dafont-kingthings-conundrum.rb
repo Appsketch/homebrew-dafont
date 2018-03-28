@@ -5,7 +5,6 @@ cask 'dafont-kingthings-conundrum' do
     url 'http://dl.dafont.com/dl/?f=kingthings_conundrum'
     name 'Kingthings Conundrum'
     homepage 'http://www.dafont.com/kingthings-conundrum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Conundrum.ttf'
 end

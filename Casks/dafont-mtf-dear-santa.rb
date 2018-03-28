@@ -5,7 +5,6 @@ cask 'dafont-mtf-dear-santa' do
     url 'http://dl.dafont.com/dl/?f=mtf_dear_santa'
     name 'MTF Dear Santa'
     homepage 'http://www.dafont.com/mtf-dear-santa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Dear Santa.ttf'
 end

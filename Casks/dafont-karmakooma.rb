@@ -5,7 +5,6 @@ cask 'dafont-karmakooma' do
     url 'http://dl.dafont.com/dl/?f=karmakooma'
     name 'Karmakooma'
     homepage 'http://www.dafont.com/karmakooma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Karmakooma.ttf'
 end

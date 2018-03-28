@@ -5,7 +5,6 @@ cask 'dafont-punkinside' do
     url 'http://dl.dafont.com/dl/?f=punkinside'
     name 'Punk Inside'
     homepage 'http://www.dafont.com/punkinside.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PunkInside.ttf'
 end

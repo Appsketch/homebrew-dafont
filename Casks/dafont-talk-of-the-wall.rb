@@ -5,7 +5,6 @@ cask 'dafont-talk-of-the-wall' do
     url 'http://dl.dafont.com/dl/?f=talk_of_the_wall'
     name 'Talk of the wall'
     homepage 'http://www.dafont.com/talk-of-the-wall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Talk of the wall.ttf'
 end

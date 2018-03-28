@@ -5,7 +5,6 @@ cask 'dafont-bingo-bangos' do
     url 'http://dl.dafont.com/dl/?f=bingo_bangos'
     name 'Bingo Bangos'
     homepage 'http://www.dafont.com/bingo-bangos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bingo Bangos.ttf'
 end

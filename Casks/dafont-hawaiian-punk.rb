@@ -5,7 +5,6 @@ cask 'dafont-hawaiian-punk' do
     url 'http://dl.dafont.com/dl/?f=hawaiian_punk'
     name 'Hawaiian Punk'
     homepage 'http://www.dafont.com/hawaiian-punk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hpunk.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cutepickle' do
     url 'http://dl.dafont.com/dl/?f=cutepickle'
     name 'Cute Pickle'
     homepage 'http://www.dafont.com/cutepickle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cutepickle.ttf'
 end

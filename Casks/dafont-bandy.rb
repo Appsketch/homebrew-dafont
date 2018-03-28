@@ -5,7 +5,6 @@ cask 'dafont-bandy' do
     url 'http://dl.dafont.com/dl/?f=bandy'
     name 'Bandy'
     homepage 'http://www.dafont.com/bandy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CW_BANDY.TTF'
 end

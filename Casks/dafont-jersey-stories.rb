@@ -5,7 +5,6 @@ cask 'dafont-jersey-stories' do
     url 'http://dl.dafont.com/dl/?f=jersey_stories'
     name 'Jersey Stories!'
     homepage 'http://www.dafont.com/jersey-stories.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jersey_stories!.ttf'
 end

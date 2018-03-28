@@ -5,7 +5,6 @@ cask 'dafont-pixel-siggy' do
     url 'http://dl.dafont.com/dl/?f=pixel_siggy'
     name 'Pixel Siggy'
     homepage 'http://www.dafont.com/pixel-siggy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DaggerPix.ttf'
 end

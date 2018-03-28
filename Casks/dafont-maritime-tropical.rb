@@ -5,7 +5,6 @@ cask 'dafont-maritime-tropical' do
     url 'http://dl.dafont.com/dl/?f=maritime_tropical'
     name 'Maritime Tropical'
     homepage 'http://www.dafont.com/maritime-tropical.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maritime_Tropical_bold.ttf'
     font 'Maritime_Tropical_ds_bold.ttf'

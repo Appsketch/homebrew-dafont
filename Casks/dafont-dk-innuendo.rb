@@ -5,7 +5,6 @@ cask 'dafont-dk-innuendo' do
     url 'http://dl.dafont.com/dl/?f=dk_innuendo'
     name 'DK Innuendo'
     homepage 'http://www.dafont.com/dk-innuendo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Innuendo.otf'
 end

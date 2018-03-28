@@ -5,7 +5,6 @@ cask 'dafont-maxine-script' do
     url 'http://dl.dafont.com/dl/?f=maxine_script'
     name 'Maxine Script'
     homepage 'http://www.dafont.com/maxine-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'maxine.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ciudad-de-dios' do
     url 'http://dl.dafont.com/dl/?f=ciudad_de_dios'
     name 'Ciudad De Dios'
     homepage 'http://www.dafont.com/ciudad-de-dios.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ciudad De Dios.ttf'
 end

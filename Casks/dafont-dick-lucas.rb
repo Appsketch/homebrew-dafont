@@ -5,7 +5,6 @@ cask 'dafont-dick-lucas' do
     url 'http://dl.dafont.com/dl/?f=dick_lucas'
     name 'Dick Lucas'
     homepage 'http://www.dafont.com/dick-lucas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DickLucas.ttf'
 end

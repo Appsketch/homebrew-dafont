@@ -5,7 +5,6 @@ cask 'dafont-whats-love-konnamozi' do
     url 'http://dl.dafont.com/dl/?f=whats_love_konnamozi'
     name 'What&#039;s Love? Konnamozi'
     homepage 'http://www.dafont.com/whats-love-konnamozi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_whats_love.ttf'
 end

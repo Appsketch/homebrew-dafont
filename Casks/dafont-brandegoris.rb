@@ -5,7 +5,6 @@ cask 'dafont-brandegoris' do
     url 'http://dl.dafont.com/dl/?f=brandegoris'
     name 'Brandegoris'
     homepage 'http://www.dafont.com/brandegoris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'br______.ttf'
 end

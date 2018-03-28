@@ -5,7 +5,6 @@ cask 'dafont-derail' do
     url 'http://dl.dafont.com/dl/?f=derail'
     name 'Derail'
     homepage 'http://www.dafont.com/derail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'derailfont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kings-of-kings-lynn' do
     url 'http://dl.dafont.com/dl/?f=kings_of_kings_lynn'
     name 'Kings of Kings Lynn'
     homepage 'http://www.dafont.com/kings-of-kings-lynn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KingsofKingsLynn.otf'
 end

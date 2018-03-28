@@ -5,7 +5,6 @@ cask 'dafont-contour-of-duty' do
     url 'http://dl.dafont.com/dl/?f=contour_of_duty'
     name 'Contour of Duty'
     homepage 'http://www.dafont.com/contour-of-duty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'contourofduty.ttf'
     font 'contourofduty3d.ttf'

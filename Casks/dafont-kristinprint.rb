@@ -5,7 +5,6 @@ cask 'dafont-kristinprint' do
     url 'http://dl.dafont.com/dl/?f=kristinprint'
     name 'Kristinprint'
     homepage 'http://www.dafont.com/kristinprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kristinprint.ttf'
 end

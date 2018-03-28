@@ -5,7 +5,6 @@ cask 'dafont-scruffy' do
     url 'http://dl.dafont.com/dl/?f=scruffy'
     name 'Scruffy'
     homepage 'http://www.dafont.com/scruffy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scruffy.ttf'
 end

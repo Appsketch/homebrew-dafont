@@ -5,7 +5,6 @@ cask 'dafont-antkiller' do
     url 'http://dl.dafont.com/dl/?f=antkiller'
     name 'AntKiller'
     homepage 'http://www.dafont.com/antkiller.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANTKILLE.TTF'
 end

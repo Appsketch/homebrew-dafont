@@ -5,7 +5,6 @@ cask 'dafont-take-it-easy' do
     url 'http://dl.dafont.com/dl/?f=take_it_easy'
     name 'Take it Easy'
     homepage 'http://www.dafont.com/take-it-easy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TakeItEasy.ttf'
 end

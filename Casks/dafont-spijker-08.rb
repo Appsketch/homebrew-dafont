@@ -5,7 +5,6 @@ cask 'dafont-spijker-08' do
     url 'http://dl.dafont.com/dl/?f=spijker_08'
     name 'Spijker 08'
     homepage 'http://www.dafont.com/spijker-08.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spijker08 bold.ttf'
     font 'spijker08 regular.ttf'

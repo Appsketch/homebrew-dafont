@@ -5,7 +5,6 @@ cask 'dafont-sleepy-hollow' do
     url 'http://dl.dafont.com/dl/?f=sleepy_hollow'
     name 'Sleepy Hollow'
     homepage 'http://www.dafont.com/sleepy-hollow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sleepy Hollow 3.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vandal-on-the-fluid' do
     url 'http://dl.dafont.com/dl/?f=vandal_on_the_fluid'
     name 'Vandal On The Fluid'
     homepage 'http://www.dafont.com/vandal-on-the-fluid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vandal On The Fluid.ttf'
 end

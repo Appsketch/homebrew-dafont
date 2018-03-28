@@ -5,7 +5,6 @@ cask 'dafont-eleventh-square' do
     url 'http://dl.dafont.com/dl/?f=eleventh_square'
     name 'Eleventh Square'
     homepage 'http://www.dafont.com/eleventh-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eleventh-Square.otf'
 end

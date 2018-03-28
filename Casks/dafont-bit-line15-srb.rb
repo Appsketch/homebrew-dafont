@@ -5,7 +5,6 @@ cask 'dafont-bit-line15-srb' do
     url 'http://dl.dafont.com/dl/?f=bit_line15_srb'
     name 'Bit Line 15'
     homepage 'http://www.dafont.com/bit-line15-srb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BitLine15(sRB).TTF'
     font 'BitLines15(sRB).TTF'

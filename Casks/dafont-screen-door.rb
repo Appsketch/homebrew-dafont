@@ -5,7 +5,6 @@ cask 'dafont-screen-door' do
     url 'http://dl.dafont.com/dl/?f=screen_door'
     name 'Screen Door'
     homepage 'http://www.dafont.com/screen-door.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ScreenDoor-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-karora' do
     url 'http://dl.dafont.com/dl/?f=karora'
     name 'Karora'
     homepage 'http://www.dafont.com/karora.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'karora.ttf'
 end

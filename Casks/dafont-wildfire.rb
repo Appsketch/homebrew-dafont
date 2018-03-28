@@ -5,7 +5,6 @@ cask 'dafont-wildfire' do
     url 'http://dl.dafont.com/dl/?f=wildfire'
     name 'Wildfire'
     homepage 'http://www.dafont.com/wildfire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wildfire.ttf'
 end

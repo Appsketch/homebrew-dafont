@@ -5,7 +5,6 @@ cask 'dafont-bit-darling10' do
     url 'http://dl.dafont.com/dl/?f=bit_darling10'
     name 'Bit Darling 10'
     homepage 'http://www.dafont.com/bit-darling10.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BitDarling10(sRB).TTF'
 end

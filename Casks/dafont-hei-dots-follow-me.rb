@@ -5,7 +5,6 @@ cask 'dafont-hei-dots-follow-me' do
     url 'http://dl.dafont.com/dl/?f=hei_dots_follow_me'
     name 'Hei dots follow me!'
     homepage 'http://www.dafont.com/hei-dots-follow-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hei dots follow me!.ttf'
 end

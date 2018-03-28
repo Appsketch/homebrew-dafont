@@ -5,7 +5,6 @@ cask 'dafont-alienation' do
     url 'http://dl.dafont.com/dl/?f=alienation'
     name 'Alienation'
     homepage 'http://www.dafont.com/alienation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALIENATI.TTF'
     font 'Alieo.ttf'

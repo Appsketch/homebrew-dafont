@@ -5,7 +5,6 @@ cask 'dafont-comic-balloon' do
     url 'http://dl.dafont.com/dl/?f=comic_balloon'
     name 'Comic Balloon'
     homepage 'http://www.dafont.com/comic-balloon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comic Balloon.ttf'
 end

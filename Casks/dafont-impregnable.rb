@@ -5,7 +5,6 @@ cask 'dafont-impregnable' do
     url 'http://dl.dafont.com/dl/?f=impregnable'
     name 'Impregnable'
     homepage 'http://www.dafont.com/impregnable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Impregnable_Personal_Use_Only.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-officer-down' do
     url 'http://dl.dafont.com/dl/?f=officer_down'
     name 'Officer Down'
     homepage 'http://www.dafont.com/officer-down.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Officer Down.ttf'
 end

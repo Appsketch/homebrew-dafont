@@ -5,7 +5,6 @@ cask 'dafont-celines-hand' do
     url 'http://dl.dafont.com/dl/?f=celines_hand'
     name 'Celine&#039;s Hand'
     homepage 'http://www.dafont.com/celines-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Celines Hand.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-iron-brine' do
     url 'http://dl.dafont.com/dl/?f=iron_brine'
     name 'Iron &amp; Brine'
     homepage 'http://www.dafont.com/iron-brine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iron &amp; Brine.ttf'
 end

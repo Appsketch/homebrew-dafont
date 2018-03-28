@@ -5,7 +5,6 @@ cask 'dafont-halogen' do
     url 'http://dl.dafont.com/dl/?f=halogen'
     name 'Halogen'
     homepage 'http://www.dafont.com/halogen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Halogen.ttf'
 end

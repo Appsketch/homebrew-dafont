@@ -5,7 +5,6 @@ cask 'dafont-quickening' do
     url 'http://dl.dafont.com/dl/?f=quickening'
     name 'Quickening'
     homepage 'http://www.dafont.com/quickening.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quickening.ttf'
     font 'quickening3d.ttf'

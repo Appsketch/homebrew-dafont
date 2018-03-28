@@ -5,7 +5,6 @@ cask 'dafont-hollywood-hills' do
     url 'http://dl.dafont.com/dl/?f=hollywood_hills'
     name 'SF Hollywood Hills'
     homepage 'http://www.dafont.com/hollywood-hills.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Hollywood Hills Bold Italic.ttf'
     font 'SF Hollywood Hills Bold.ttf'

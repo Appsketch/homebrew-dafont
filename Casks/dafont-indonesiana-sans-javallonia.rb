@@ -5,7 +5,6 @@ cask 'dafont-indonesiana-sans-javallonia' do
     url 'http://dl.dafont.com/dl/?f=indonesiana_sans_javallonia'
     name 'FTF Indonesiana Sans Javallonia'
     homepage 'http://www.dafont.com/indonesiana-sans-javallonia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Indonesiana Sans Javallonia.ttf'
 end

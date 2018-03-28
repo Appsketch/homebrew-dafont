@@ -5,7 +5,6 @@ cask 'dafont-bobsmade-font' do
     url 'http://dl.dafont.com/dl/?f=bobsmade_font'
     name 'Bobsmade Font'
     homepage 'http://www.dafont.com/bobsmade-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bobsmade_font_by_Bobsmade.ttf'
 end

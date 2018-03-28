@@ -5,7 +5,6 @@ cask 'dafont-creditverse' do
     url 'http://dl.dafont.com/dl/?f=creditverse'
     name 'Creditverse'
     homepage 'http://www.dafont.com/creditverse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'creditverse_font.otf'
 end

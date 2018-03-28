@@ -5,7 +5,6 @@ cask 'dafont-sun-n-moon' do
     url 'http://dl.dafont.com/dl/?f=sun_n_moon'
     name 'Sun N Moon'
     homepage 'http://www.dafont.com/sun-n-moon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sunnmoon.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kinizsi' do
     url 'http://dl.dafont.com/dl/?f=kinizsi'
     name 'Kinizsi Frakturetta'
     homepage 'http://www.dafont.com/kinizsi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kinizsi Frakturetta.ttf'
 end

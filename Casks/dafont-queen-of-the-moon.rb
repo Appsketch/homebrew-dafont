@@ -5,7 +5,6 @@ cask 'dafont-queen-of-the-moon' do
     url 'http://dl.dafont.com/dl/?f=queen_of_the_moon'
     name 'Queen of the Moon'
     homepage 'http://www.dafont.com/queen-of-the-moon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Queen of the Moon Light.ttf'
     font 'Queen of the Moon.ttf'

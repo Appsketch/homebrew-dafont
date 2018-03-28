@@ -5,7 +5,6 @@ cask 'dafont-comical-smash' do
     url 'http://dl.dafont.com/dl/?f=comical_smash'
     name 'Comical Smash'
     homepage 'http://www.dafont.com/comical-smash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comical Smash.ttf'
 end

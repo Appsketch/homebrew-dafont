@@ -5,7 +5,6 @@ cask 'dafont-vtks-garota-bonita' do
     url 'http://dl.dafont.com/dl/?f=vtks_garota_bonita'
     name 'Vtks Garota Bonita'
     homepage 'http://www.dafont.com/vtks-garota-bonita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Garota Bonita.ttf'
 end

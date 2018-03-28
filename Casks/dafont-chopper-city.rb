@@ -5,7 +5,6 @@ cask 'dafont-chopper-city' do
     url 'http://dl.dafont.com/dl/?f=chopper_city'
     name 'Chopper City'
     homepage 'http://www.dafont.com/chopper-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChopperCity.otf'
 end

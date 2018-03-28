@@ -5,7 +5,6 @@ cask 'dafont-black-shadow' do
     url 'http://dl.dafont.com/dl/?f=black_shadow'
     name 'Black Shadow'
     homepage 'http://www.dafont.com/black-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black Shadow.ttf'
 end

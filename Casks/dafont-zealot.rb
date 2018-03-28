@@ -5,7 +5,6 @@ cask 'dafont-zealot' do
     url 'http://dl.dafont.com/dl/?f=zealot'
     name 'Zealot'
     homepage 'http://www.dafont.com/zealot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zealot.ttf'
     font 'zealotcol.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-neko-neko' do
     url 'http://dl.dafont.com/dl/?f=neko_neko'
     name 'Neko! Neko!'
     homepage 'http://www.dafont.com/neko-neko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Meow.ttf'
 end

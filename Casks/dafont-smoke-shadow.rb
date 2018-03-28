@@ -5,7 +5,6 @@ cask 'dafont-smoke-shadow' do
     url 'http://dl.dafont.com/dl/?f=smoke_shadow'
     name 'Smoke Shadow'
     homepage 'http://www.dafont.com/smoke-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smoke-Contour-Italic.ttf'
     font 'SmokeShadow.ttf'

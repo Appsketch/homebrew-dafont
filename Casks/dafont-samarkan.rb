@@ -5,7 +5,6 @@ cask 'dafont-samarkan' do
     url 'http://dl.dafont.com/dl/?f=samarkan'
     name 'Samarkan'
     homepage 'http://www.dafont.com/samarkan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SAMARN__.TTF'
     font 'SAMARO__.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-puppeteer' do
     url 'http://dl.dafont.com/dl/?f=puppeteer'
     name 'Puppeteer'
     homepage 'http://www.dafont.com/puppeteer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Puppeteer-Regular.ttf'
 end

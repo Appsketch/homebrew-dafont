@@ -5,7 +5,6 @@ cask 'dafont-margot' do
     url 'http://dl.dafont.com/dl/?f=margot'
     name 'Margot'
     homepage 'http://www.dafont.com/margot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Margot Bold.ttf'
     font 'Margot Small Capitals.ttf'

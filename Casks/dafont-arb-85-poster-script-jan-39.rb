@@ -5,7 +5,6 @@ cask 'dafont-arb-85-poster-script-jan-39' do
     url 'http://dl.dafont.com/dl/?f=arb_85_poster_script_jan_39'
     name 'ARB 85 Poster Script JAN-39'
     homepage 'http://www.dafont.com/arb-85-poster-script-jan-39.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARB 85 Poster Script JAN-39 FRE.ttf'
 end

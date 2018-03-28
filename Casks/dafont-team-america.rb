@@ -5,7 +5,6 @@ cask 'dafont-team-america' do
     url 'http://dl.dafont.com/dl/?f=team_america'
     name 'Team America'
     homepage 'http://www.dafont.com/team-america.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'teamamerica.ttf'
     font 'teamamerica3d.ttf'

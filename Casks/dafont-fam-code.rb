@@ -5,7 +5,6 @@ cask 'dafont-fam-code' do
     url 'http://dl.dafont.com/dl/?f=fam_code'
     name 'FAM-Code'
     homepage 'http://www.dafont.com/fam-code.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fam-code.ttf'
 end

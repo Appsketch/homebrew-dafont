@@ -5,7 +5,6 @@ cask 'dafont-bready' do
     url 'http://dl.dafont.com/dl/?f=bready'
     name 'Bready'
     homepage 'http://www.dafont.com/bready.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bready_Alternates_Demo.ttf'
     font 'Bready_C-Clockwise_Demo.ttf'

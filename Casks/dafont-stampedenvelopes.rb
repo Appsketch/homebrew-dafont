@@ -5,7 +5,6 @@ cask 'dafont-stampedenvelopes' do
     url 'http://dl.dafont.com/dl/?f=stampedenvelopes'
     name 'Stamped Envelopes'
     homepage 'http://www.dafont.com/stampedenvelopes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StampedEnvelopes.ttf'
 end

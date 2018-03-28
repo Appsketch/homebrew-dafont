@@ -5,7 +5,6 @@ cask 'dafont-erik-g-caps' do
     url 'http://dl.dafont.com/dl/?f=erik_g_caps'
     name 'ErikGCaps'
     homepage 'http://www.dafont.com/erik-g-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ErikGCapsSketches.ttf'
     font 'ErikGCapsSkInvers.ttf'

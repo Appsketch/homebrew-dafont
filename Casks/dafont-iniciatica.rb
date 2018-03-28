@@ -5,7 +5,6 @@ cask 'dafont-iniciatica' do
     url 'http://dl.dafont.com/dl/?f=iniciatica'
     name 'Iniciatica'
     homepage 'http://www.dafont.com/iniciatica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iniciatica.ttf'
 end

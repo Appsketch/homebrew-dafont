@@ -5,7 +5,6 @@ cask 'dafont-maruciel' do
     url 'http://dl.dafont.com/dl/?f=maruciel'
     name 'Maruciel'
     homepage 'http://www.dafont.com/maruciel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'maruciel.ttf'
 end

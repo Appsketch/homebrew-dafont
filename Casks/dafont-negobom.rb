@@ -5,7 +5,6 @@ cask 'dafont-negobom' do
     url 'http://dl.dafont.com/dl/?f=negobom'
     name 'Negobom'
     homepage 'http://www.dafont.com/negobom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'negobom.otf'
 end

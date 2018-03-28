@@ -5,7 +5,6 @@ cask 'dafont-crackwhore' do
     url 'http://dl.dafont.com/dl/?f=crackwhore'
     name 'Crackwhore'
     homepage 'http://www.dafont.com/crackwhore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crackwhore.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-romanacapsclassicsquares' do
     url 'http://dl.dafont.com/dl/?f=romanacapsclassicsquares'
     name 'Romana Caps Classic Squares'
     homepage 'http://www.dafont.com/romanacapsclassicsquares.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RomanaCapsClassicSquares.ttf'
 end

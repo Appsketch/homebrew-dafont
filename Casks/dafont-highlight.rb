@@ -5,7 +5,6 @@ cask 'dafont-highlight' do
     url 'http://dl.dafont.com/dl/?f=highlight'
     name 'Highlight'
     homepage 'http://www.dafont.com/highlight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'highlight.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sl-panzerkardinal' do
     url 'http://dl.dafont.com/dl/?f=sl_panzerkardinal'
     name 'SL Panzerkardinal'
     homepage 'http://www.dafont.com/sl-panzerkardinal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SL_Panzerkardinal.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jellyka-love-and-passion' do
     url 'http://dl.dafont.com/dl/?f=jellyka_love_and_passion'
     name 'Jellyka - Love and Passion'
     homepage 'http://www.dafont.com/jellyka-love-and-passion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Love_and_Passion.ttf'
 end

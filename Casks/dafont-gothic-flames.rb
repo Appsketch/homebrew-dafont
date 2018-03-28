@@ -5,7 +5,6 @@ cask 'dafont-gothic-flames' do
     url 'http://dl.dafont.com/dl/?f=gothic_flames'
     name 'Gothic Flames'
     homepage 'http://www.dafont.com/gothic-flames.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GothicFlames.ttf'
 end

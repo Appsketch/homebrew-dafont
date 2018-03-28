@@ -5,7 +5,6 @@ cask 'dafont-saintfighteraqua' do
     url 'http://dl.dafont.com/dl/?f=saintfighteraqua'
     name 'Saintfighteraqua'
     homepage 'http://www.dafont.com/saintfighteraqua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'saintfighteraqua.ttf'
 end

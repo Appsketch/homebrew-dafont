@@ -5,7 +5,6 @@ cask 'dafont-wl-entanglemental' do
     url 'http://dl.dafont.com/dl/?f=wl_entanglemental'
     name 'WL EntangleMental'
     homepage 'http://www.dafont.com/wl-entanglemental.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WLEntangleMental-Light.ttf'
     font 'WLEntangleMental.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-battleforce-5' do
     url 'http://dl.dafont.com/dl/?f=battleforce_5'
     name 'Battleforce 5'
     homepage 'http://www.dafont.com/battleforce-5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BATTLEFORCE 5.ttf'
 end

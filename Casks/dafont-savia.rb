@@ -5,7 +5,6 @@ cask 'dafont-savia' do
     url 'http://dl.dafont.com/dl/?f=savia'
     name 'Savia'
     homepage 'http://www.dafont.com/savia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'savia_outline.ttf'
     font 'savia_regular.ttf'

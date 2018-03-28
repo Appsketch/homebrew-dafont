@@ -5,7 +5,6 @@ cask 'dafont-lubeck' do
     url 'http://dl.dafont.com/dl/?f=lubeck'
     name 'Lubeck'
     homepage 'http://www.dafont.com/lubeck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LUBECK_0.TTF'
 end

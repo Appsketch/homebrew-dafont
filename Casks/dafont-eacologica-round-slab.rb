@@ -5,7 +5,6 @@ cask 'dafont-eacologica-round-slab' do
     url 'http://dl.dafont.com/dl/?f=eacologica_round_slab'
     name 'Eacologica Round Slab'
     homepage 'http://www.dafont.com/eacologica-round-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eacologica-round-slab-ffp.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lilian' do
     url 'http://dl.dafont.com/dl/?f=lilian'
     name 'Lilian'
     homepage 'http://www.dafont.com/lilian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lilian.ttf'
 end

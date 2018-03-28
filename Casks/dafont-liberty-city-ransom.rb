@@ -5,7 +5,6 @@ cask 'dafont-liberty-city-ransom' do
     url 'http://dl.dafont.com/dl/?f=liberty_city_ransom'
     name 'Liberty City Ransom'
     homepage 'http://www.dafont.com/liberty-city-ransom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Liberty City Ransom.otf'
 end

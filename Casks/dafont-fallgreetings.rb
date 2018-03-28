@@ -5,7 +5,6 @@ cask 'dafont-fallgreetings' do
     url 'http://dl.dafont.com/dl/?f=fallgreetings'
     name 'Fall Greetings'
     homepage 'http://www.dafont.com/fallgreetings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FallGreetings.ttf'
 end

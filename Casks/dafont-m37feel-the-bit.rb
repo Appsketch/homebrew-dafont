@@ -5,7 +5,6 @@ cask 'dafont-m37feel-the-bit' do
     url 'http://dl.dafont.com/dl/?f=m37feel_the_bit'
     name 'M37 Feel The Bit'
     homepage 'http://www.dafont.com/m37feel-the-bit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'm37.TTF'
 end

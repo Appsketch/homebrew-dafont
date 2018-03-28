@@ -5,7 +5,6 @@ cask 'dafont-nighthawk' do
     url 'http://dl.dafont.com/dl/?f=nighthawk'
     name 'Night Hawk'
     homepage 'http://www.dafont.com/nighthawk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NightHawk.ttf'
 end

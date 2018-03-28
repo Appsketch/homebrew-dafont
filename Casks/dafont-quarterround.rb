@@ -5,7 +5,6 @@ cask 'dafont-quarterround' do
     url 'http://dl.dafont.com/dl/?f=quarterround'
     name 'Quarterround'
     homepage 'http://www.dafont.com/quarterround.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUARS___.TTF'
     font 'QUART___.TTF'

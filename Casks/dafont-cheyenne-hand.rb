@@ -5,7 +5,6 @@ cask 'dafont-cheyenne-hand' do
     url 'http://dl.dafont.com/dl/?f=cheyenne_hand'
     name 'Cheyenne Hand'
     homepage 'http://www.dafont.com/cheyenne-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cheyenne.ttf'
     font 'cheyenneb.ttf'

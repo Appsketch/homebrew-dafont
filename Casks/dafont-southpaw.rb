@@ -5,7 +5,6 @@ cask 'dafont-southpaw' do
     url 'http://dl.dafont.com/dl/?f=southpaw'
     name 'Southpaw'
     homepage 'http://www.dafont.com/southpaw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Southpaw.otf'
 end

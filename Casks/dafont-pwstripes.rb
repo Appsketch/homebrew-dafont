@@ -5,7 +5,6 @@ cask 'dafont-pwstripes' do
     url 'http://dl.dafont.com/dl/?f=pwstripes'
     name 'PW Stripes'
     homepage 'http://www.dafont.com/pwstripes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWStripes.ttf'
 end

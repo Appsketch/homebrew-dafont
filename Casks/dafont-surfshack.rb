@@ -5,7 +5,6 @@ cask 'dafont-surfshack' do
     url 'http://dl.dafont.com/dl/?f=surfshack'
     name 'Surf Shack'
     homepage 'http://www.dafont.com/surfshack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SurfShack.ttf'
 end

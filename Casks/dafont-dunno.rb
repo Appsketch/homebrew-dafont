@@ -5,7 +5,6 @@ cask 'dafont-dunno' do
     url 'http://dl.dafont.com/dl/?f=dunno'
     name 'Dunno'
     homepage 'http://www.dafont.com/dunno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dunno.ttf'
 end

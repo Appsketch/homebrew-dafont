@@ -5,7 +5,6 @@ cask 'dafont-kb3etchingsinzinc' do
     url 'http://dl.dafont.com/dl/?f=kb3etchingsinzinc'
     name 'KB3 Etchings In Zinc'
     homepage 'http://www.dafont.com/kb3etchingsinzinc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KB3EtchingsInZinc.ttf'
 end

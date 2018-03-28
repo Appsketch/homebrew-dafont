@@ -5,7 +5,6 @@ cask 'dafont-relapse-into-madness' do
     url 'http://dl.dafont.com/dl/?f=relapse_into_madness'
     name 'Relapse Into Madness'
     homepage 'http://www.dafont.com/relapse-into-madness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Relapse Into Madness.otf'
 end

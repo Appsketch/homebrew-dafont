@@ -5,7 +5,6 @@ cask 'dafont-bob-marley' do
     url 'http://dl.dafont.com/dl/?f=bob_marley'
     name 'Bob Marley'
     homepage 'http://www.dafont.com/bob-marley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOB MARLEY/BOB MARLEY.ttf'
     font 'BOB nerver Dies/BOB Never Dies!.ttf'

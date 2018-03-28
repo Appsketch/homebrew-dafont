@@ -5,7 +5,6 @@ cask 'dafont-even-badder-mofo' do
     url 'http://dl.dafont.com/dl/?f=even_badder_mofo'
     name 'Even Badder Mofo'
     homepage 'http://www.dafont.com/even-badder-mofo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Even Badder Mofo.ttf'
 end

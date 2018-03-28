@@ -5,7 +5,6 @@ cask 'dafont-blonescha' do
     url 'http://dl.dafont.com/dl/?f=blonescha'
     name 'Blonescha'
     homepage 'http://www.dafont.com/blonescha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLONESCHA BOLD.otf'
 end

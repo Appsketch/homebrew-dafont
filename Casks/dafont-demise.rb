@@ -5,7 +5,6 @@ cask 'dafont-demise' do
     url 'http://dl.dafont.com/dl/?f=demise'
     name 'Demise'
     homepage 'http://www.dafont.com/demise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Demise.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-undertaker' do
     url 'http://dl.dafont.com/dl/?f=undertaker'
     name 'Undertaker'
     homepage 'http://www.dafont.com/undertaker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'undertaker.ttf'
 end

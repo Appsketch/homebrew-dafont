@@ -5,7 +5,6 @@ cask 'dafont-big-fish-ensemble' do
     url 'http://dl.dafont.com/dl/?f=big_fish_ensemble'
     name 'Big Fish Ensemble'
     homepage 'http://www.dafont.com/big-fish-ensemble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bigfish.ttf'
 end

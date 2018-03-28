@@ -5,7 +5,6 @@ cask 'dafont-blessings-through-raindrops' do
     url 'http://dl.dafont.com/dl/?f=blessings_through_raindrops'
     name 'Blessings through Raindrops'
     homepage 'http://www.dafont.com/blessings-through-raindrops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlessingsthroughRaindrops.ttf'
 end

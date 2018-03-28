@@ -5,7 +5,6 @@ cask 'dafont-gubblebum' do
     url 'http://dl.dafont.com/dl/?f=gubblebum'
     name 'Gubblebum'
     homepage 'http://www.dafont.com/gubblebum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GUB______.ttf'
     font 'GUBBLA___.ttf'

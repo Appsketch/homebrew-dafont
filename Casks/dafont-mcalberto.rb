@@ -5,7 +5,6 @@ cask 'dafont-mcalberto' do
     url 'http://dl.dafont.com/dl/?f=mcalberto'
     name 'McAlberto'
     homepage 'http://www.dafont.com/mcalberto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'McAlberto.ttf'
 end

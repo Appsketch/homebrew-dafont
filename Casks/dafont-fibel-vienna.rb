@@ -5,7 +5,6 @@ cask 'dafont-fibel-vienna' do
     url 'http://dl.dafont.com/dl/?f=fibel_vienna'
     name 'Fibel Vienna'
     homepage 'http://www.dafont.com/fibel-vienna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fibel Vienna.ttf'
 end

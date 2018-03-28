@@ -5,7 +5,6 @@ cask 'dafont-uni-stay-own-now' do
     url 'http://dl.dafont.com/dl/?f=uni_stay_own_now'
     name 'Uni! Stay own now!'
     homepage 'http://www.dafont.com/uni-stay-own-now.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UNI1.ttf'
 end

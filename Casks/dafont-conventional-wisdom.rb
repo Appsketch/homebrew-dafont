@@ -5,7 +5,6 @@ cask 'dafont-conventional-wisdom' do
     url 'http://dl.dafont.com/dl/?f=conventional_wisdom'
     name 'Conventional Wisdom'
     homepage 'http://www.dafont.com/conventional-wisdom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cwisdom.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-territorio' do
     url 'http://dl.dafont.com/dl/?f=territorio'
     name 'Territorio'
     homepage 'http://www.dafont.com/territorio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Territorio.ttf'
 end

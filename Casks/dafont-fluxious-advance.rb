@@ -5,7 +5,6 @@ cask 'dafont-fluxious-advance' do
     url 'http://dl.dafont.com/dl/?f=fluxious_advance'
     name 'Fluxious Advance'
     homepage 'http://www.dafont.com/fluxious-advance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fluxious Advance Bold.ttf'
 end

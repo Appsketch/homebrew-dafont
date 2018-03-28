@@ -5,7 +5,6 @@ cask 'dafont-led-lcd-123' do
     url 'http://dl.dafont.com/dl/?f=led_lcd_123'
     name 'LED LCD 123'
     homepage 'http://www.dafont.com/led-lcd-123.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LED LCD 123.ttf'
 end

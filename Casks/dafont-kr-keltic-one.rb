@@ -5,7 +5,6 @@ cask 'dafont-kr-keltic-one' do
     url 'http://dl.dafont.com/dl/?f=kr_keltic_one'
     name 'KR Keltic One'
     homepage 'http://www.dafont.com/kr-keltic-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Keltic One.TTF'
 end

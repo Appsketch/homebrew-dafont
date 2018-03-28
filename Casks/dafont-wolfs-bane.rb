@@ -5,7 +5,6 @@ cask 'dafont-wolfs-bane' do
     url 'http://dl.dafont.com/dl/?f=wolfs_bane'
     name 'Wolf&#039;s Bane'
     homepage 'http://www.dafont.com/wolfs-bane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wolfsbane2.ttf'
     font 'wolfsbane23d.ttf'

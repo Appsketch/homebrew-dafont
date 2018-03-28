@@ -5,7 +5,6 @@ cask 'dafont-chickfactor' do
     url 'http://dl.dafont.com/dl/?f=chickfactor'
     name 'Chickfactor'
     homepage 'http://www.dafont.com/chickfactor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chickfactor by IntestinoGrueso.ttf'
 end

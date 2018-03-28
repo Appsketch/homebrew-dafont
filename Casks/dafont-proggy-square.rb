@@ -5,7 +5,6 @@ cask 'dafont-proggy-square' do
     url 'http://dl.dafont.com/dl/?f=proggy_square'
     name 'Proggy Square'
     homepage 'http://www.dafont.com/proggy-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ProggySquare.fon'
     font 'ProggySquareSZ.fon'

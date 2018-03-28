@@ -5,7 +5,6 @@ cask 'dafont-signs-language-tfb' do
     url 'http://dl.dafont.com/dl/?f=signs_language_tfb'
     name 'Signs Language TFB'
     homepage 'http://www.dafont.com/signs-language-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'signs language tfb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bhineka-tunggal-ika' do
     url 'http://dl.dafont.com/dl/?f=bhineka_tunggal_ika'
     name 'Bhineka Tunggal Ika'
     homepage 'http://www.dafont.com/bhineka-tunggal-ika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BHINEKA TUNGGAL IKA.ttf'
 end

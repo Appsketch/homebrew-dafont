@@ -5,7 +5,6 @@ cask 'dafont-western-dead' do
     url 'http://dl.dafont.com/dl/?f=western_dead'
     name 'Western Dead'
     homepage 'http://www.dafont.com/western-dead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Western Dead.ttf'
 end

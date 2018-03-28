@@ -5,7 +5,6 @@ cask 'dafont-the-happy-face-smile' do
     url 'http://dl.dafont.com/dl/?f=the_happy_face_smile'
     name 'The Happy Face Smile'
     homepage 'http://www.dafont.com/the-happy-face-smile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THE HAPPY FACE SMILE.ttf'
 end

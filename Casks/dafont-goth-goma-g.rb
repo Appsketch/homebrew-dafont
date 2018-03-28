@@ -5,7 +5,6 @@ cask 'dafont-goth-goma-g' do
     url 'http://dl.dafont.com/dl/?f=goth_goma_g'
     name 'Goth Goma G'
     homepage 'http://www.dafont.com/goth-goma-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_goth_goma.ttf'
 end

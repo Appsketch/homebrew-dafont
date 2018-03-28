@@ -5,7 +5,6 @@ cask 'dafont-contipopgua' do
     url 'http://dl.dafont.com/dl/?f=contipopgua'
     name 'Contipopgua'
     homepage 'http://www.dafont.com/contipopgua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CONTIPOPGUA.ttf'
 end

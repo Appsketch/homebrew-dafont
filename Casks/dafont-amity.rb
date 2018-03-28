@@ -5,7 +5,6 @@ cask 'dafont-amity' do
     url 'http://dl.dafont.com/dl/?f=amity'
     name 'Amity'
     homepage 'http://www.dafont.com/amity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeadClownsBlack.otf'
 end

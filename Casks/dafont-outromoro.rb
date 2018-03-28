@@ -5,7 +5,6 @@ cask 'dafont-outromoro' do
     url 'http://dl.dafont.com/dl/?f=outromoro'
     name 'Outromoro'
     homepage 'http://www.dafont.com/outromoro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Outromoro.ttf'
 end

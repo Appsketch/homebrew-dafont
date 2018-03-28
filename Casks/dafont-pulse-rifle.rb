@@ -5,7 +5,6 @@ cask 'dafont-pulse-rifle' do
     url 'http://dl.dafont.com/dl/?f=pulse_rifle'
     name 'Pulse Rifle'
     homepage 'http://www.dafont.com/pulse-rifle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pulserifle.ttf'
     font 'pulserifle3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-strongbox' do
     url 'http://dl.dafont.com/dl/?f=strongbox'
     name 'Strongbox'
     homepage 'http://www.dafont.com/strongbox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STRONGBOX-Bold.otf'
 end

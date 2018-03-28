@@ -5,7 +5,6 @@ cask 'dafont-filbert-color' do
     url 'http://dl.dafont.com/dl/?f=filbert_color'
     name 'Filbert Color'
     homepage 'http://www.dafont.com/filbert-color.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FilbertColor_PersonalUse.ttf'
 end

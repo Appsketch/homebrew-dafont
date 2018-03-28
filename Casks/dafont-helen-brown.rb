@@ -5,7 +5,6 @@ cask 'dafont-helen-brown' do
     url 'http://dl.dafont.com/dl/?f=helen_brown'
     name 'Helen Brown'
     homepage 'http://www.dafont.com/helen-brown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HelenBrown.ttf'
     font 'HelenBrownSolid.ttf'

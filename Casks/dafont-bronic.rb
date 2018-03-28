@@ -5,7 +5,6 @@ cask 'dafont-bronic' do
     url 'http://dl.dafont.com/dl/?f=bronic'
     name 'Bronic'
     homepage 'http://www.dafont.com/bronic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bronic.ttf'
     font 'bronice.ttf'

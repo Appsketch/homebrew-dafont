@@ -5,7 +5,6 @@ cask 'dafont-girls-are-weird' do
     url 'http://dl.dafont.com/dl/?f=girls_are_weird'
     name 'Girls are Weird'
     homepage 'http://www.dafont.com/girls-are-weird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GIRLW___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bubbles-make-me-happy' do
     url 'http://dl.dafont.com/dl/?f=bubbles_make_me_happy'
     name 'Bubbles Make Me Happy'
     homepage 'http://www.dafont.com/bubbles-make-me-happy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bubbles_Make_Me_Happy.ttf'
 end

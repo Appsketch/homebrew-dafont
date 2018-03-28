@@ -5,7 +5,6 @@ cask 'dafont-mailbomb' do
     url 'http://dl.dafont.com/dl/?f=mailbomb'
     name 'Mailbomb'
     homepage 'http://www.dafont.com/mailbomb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAILBOMB.TTF'
 end

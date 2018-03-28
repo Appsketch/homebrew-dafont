@@ -5,7 +5,6 @@ cask 'dafont-alba' do
     url 'http://dl.dafont.com/dl/?f=alba'
     name 'Alba'
     homepage 'http://www.dafont.com/alba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALBA____.TTF'
     font 'ALBAM___.TTF'

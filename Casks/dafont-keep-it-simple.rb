@@ -5,7 +5,6 @@ cask 'dafont-keep-it-simple' do
     url 'http://dl.dafont.com/dl/?f=keep_it_simple'
     name 'Keep It Simple'
     homepage 'http://www.dafont.com/keep-it-simple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Keep It Simple.ttf'
 end

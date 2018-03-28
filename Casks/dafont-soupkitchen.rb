@@ -5,7 +5,6 @@ cask 'dafont-soupkitchen' do
     url 'http://dl.dafont.com/dl/?f=soupkitchen'
     name 'Soup Kitchen'
     homepage 'http://www.dafont.com/soupkitchen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SoupKitchen.ttf'
 end

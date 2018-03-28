@@ -5,7 +5,6 @@ cask 'dafont-ornatix' do
     url 'http://dl.dafont.com/dl/?f=ornatix'
     name 'Ornatix'
     homepage 'http://www.dafont.com/ornatix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ornatix.ttf'
 end

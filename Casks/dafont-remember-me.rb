@@ -5,7 +5,6 @@ cask 'dafont-remember-me' do
     url 'http://dl.dafont.com/dl/?f=remember_me'
     name 'Remember Me'
     homepage 'http://www.dafont.com/remember-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Remember Me.ttf'
 end

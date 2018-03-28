@@ -5,7 +5,6 @@ cask 'dafont-crotchrot' do
     url 'http://dl.dafont.com/dl/?f=crotchrot'
     name 'Crotchrot'
     homepage 'http://www.dafont.com/crotchrot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CROTCHRO.TTF'
 end

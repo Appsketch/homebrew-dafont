@@ -5,7 +5,6 @@ cask 'dafont-greifswaler-deutsche-schrift' do
     url 'http://dl.dafont.com/dl/?f=greifswaler_deutsche_schrift'
     name 'Greifswaler Deutsche Schrift'
     homepage 'http://www.dafont.com/greifswaler-deutsche-schrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Greifswalder Deutsche.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-star-jedi' do
     url 'http://dl.dafont.com/dl/?f=star_jedi'
     name 'Star Jedi'
     homepage 'http://www.dafont.com/star-jedi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'starjedi/Starjedi.ttf'
     font 'starjedi/Starjhol.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-angel-tears' do
     url 'http://dl.dafont.com/dl/?f=angel_tears'
     name 'Angel Tears'
     homepage 'http://www.dafont.com/angel-tears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANGELTEARS-trial.ttf'
 end

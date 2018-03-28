@@ -5,7 +5,6 @@ cask 'dafont-kenan-kel' do
     url 'http://dl.dafont.com/dl/?f=kenan_kel'
     name 'Kenan &amp; Kel'
     homepage 'http://www.dafont.com/kenan-kel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KEnaN &amp; keL.ttf'
 end

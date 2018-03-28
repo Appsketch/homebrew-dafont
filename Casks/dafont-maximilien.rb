@@ -5,7 +5,6 @@ cask 'dafont-maximilien' do
     url 'http://dl.dafont.com/dl/?f=maximilien'
     name 'Maximilien'
     homepage 'http://www.dafont.com/maximilien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maximilien_Regular.ttf'
 end

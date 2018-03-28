@@ -5,7 +5,6 @@ cask 'dafont-daoth' do
     url 'http://dl.dafont.com/dl/?f=daoth'
     name 'DaOth'
     homepage 'http://www.dafont.com/daoth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DAOD.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-road-trip' do
     url 'http://dl.dafont.com/dl/?f=road_trip'
     name 'Road Trip'
     homepage 'http://www.dafont.com/road-trip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Road Trip.ttf'
 end

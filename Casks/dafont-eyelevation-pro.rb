@@ -5,7 +5,6 @@ cask 'dafont-eyelevation-pro' do
     url 'http://dl.dafont.com/dl/?f=eyelevation_pro'
     name 'Eyelevation Pro'
     homepage 'http://www.dafont.com/eyelevation-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eyelevation6.ttf'
 end

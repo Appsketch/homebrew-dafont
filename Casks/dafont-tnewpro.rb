@@ -5,7 +5,6 @@ cask 'dafont-tnewpro' do
     url 'http://dl.dafont.com/dl/?f=tnewpro'
     name 'Tnewpro'
     homepage 'http://www.dafont.com/tnewpro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TNEWPRO Normal.ttf'
     font 'TNEWPRO NormalItalic.ttf'

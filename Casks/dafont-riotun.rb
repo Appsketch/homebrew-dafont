@@ -5,7 +5,6 @@ cask 'dafont-riotun' do
     url 'http://dl.dafont.com/dl/?f=riotun'
     name 'Riotun'
     homepage 'http://www.dafont.com/riotun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Riotun2.ttf'
 end

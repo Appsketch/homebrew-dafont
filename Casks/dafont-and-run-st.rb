@@ -5,7 +5,6 @@ cask 'dafont-and-run-st' do
     url 'http://dl.dafont.com/dl/?f=and_run_st'
     name 'And Run ST'
     homepage 'http://www.dafont.com/and-run-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'And Run St.ttf'
 end

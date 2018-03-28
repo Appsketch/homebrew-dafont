@@ -5,7 +5,6 @@ cask 'dafont-thrash-decision' do
     url 'http://dl.dafont.com/dl/?f=thrash_decision'
     name 'Thrash Decision'
     homepage 'http://www.dafont.com/thrash-decision.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thrash Decision.otf'
 end

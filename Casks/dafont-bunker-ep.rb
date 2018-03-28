@@ -5,7 +5,6 @@ cask 'dafont-bunker-ep' do
     url 'http://dl.dafont.com/dl/?f=bunker_ep'
     name 'Bunker'
     homepage 'http://www.dafont.com/bunker-ep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bunker.ttf'
 end

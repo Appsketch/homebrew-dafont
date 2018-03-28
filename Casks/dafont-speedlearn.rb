@@ -5,7 +5,6 @@ cask 'dafont-speedlearn' do
     url 'http://dl.dafont.com/dl/?f=speedlearn'
     name 'Speedlearn'
     homepage 'http://www.dafont.com/speedlearn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPEDLRN.ttf'
 end

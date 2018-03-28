@@ -5,7 +5,6 @@ cask 'dafont-licenz-plate' do
     url 'http://dl.dafont.com/dl/?f=licenz_plate'
     name 'Licenz Plate'
     homepage 'http://www.dafont.com/licenz-plate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LICEP___.TTF'
 end

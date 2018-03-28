@@ -5,7 +5,6 @@ cask 'dafont-globe-icons' do
     url 'http://dl.dafont.com/dl/?f=globe_icons'
     name 'Globe Icons'
     homepage 'http://www.dafont.com/globe-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Globe Icons.ttf'
 end

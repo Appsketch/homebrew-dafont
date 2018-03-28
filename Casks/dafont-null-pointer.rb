@@ -5,7 +5,6 @@ cask 'dafont-null-pointer' do
     url 'http://dl.dafont.com/dl/?f=null_pointer'
     name 'Null Pointer'
     homepage 'http://www.dafont.com/null-pointer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nullp.ttf'
 end

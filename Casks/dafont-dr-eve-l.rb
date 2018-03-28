@@ -5,7 +5,6 @@ cask 'dafont-dr-eve-l' do
     url 'http://dl.dafont.com/dl/?f=dr_eve_l'
     name 'DR. Eve L'
     homepage 'http://www.dafont.com/dr-eve-l.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dr Eve L.ttf'
 end

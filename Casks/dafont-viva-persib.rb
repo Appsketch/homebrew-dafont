@@ -5,7 +5,6 @@ cask 'dafont-viva-persib' do
     url 'http://dl.dafont.com/dl/?f=viva_persib'
     name 'Viva Persib'
     homepage 'http://www.dafont.com/viva-persib.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Viva Persib.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-future-war' do
     url 'http://dl.dafont.com/dl/?f=future_war'
     name 'Future War'
     homepage 'http://www.dafont.com/future-war.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'future war.ttf'
 end

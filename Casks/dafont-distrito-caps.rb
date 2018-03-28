@@ -5,7 +5,6 @@ cask 'dafont-distrito-caps' do
     url 'http://dl.dafont.com/dl/?f=distrito_caps'
     name 'Distrito Caps'
     homepage 'http://www.dafont.com/distrito-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Distrito-caps.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rollover' do
     url 'http://dl.dafont.com/dl/?f=rollover'
     name 'Rollover'
     homepage 'http://www.dafont.com/rollover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROLLOVER.TTF'
 end

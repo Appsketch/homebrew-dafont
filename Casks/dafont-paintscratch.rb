@@ -5,7 +5,6 @@ cask 'dafont-paintscratch' do
     url 'http://dl.dafont.com/dl/?f=paintscratch'
     name 'Paint Scratch'
     homepage 'http://www.dafont.com/paintscratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaintScratch.ttf'
 end

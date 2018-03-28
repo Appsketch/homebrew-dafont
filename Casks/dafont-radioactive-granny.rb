@@ -5,7 +5,6 @@ cask 'dafont-radioactive-granny' do
     url 'http://dl.dafont.com/dl/?f=radioactive_granny'
     name 'Radioactive Granny'
     homepage 'http://www.dafont.com/radioactive-granny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'radgranny.ttf'
 end

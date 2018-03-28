@@ -5,7 +5,6 @@ cask 'dafont-rixton' do
     url 'http://dl.dafont.com/dl/?f=rixton'
     name 'Rixton'
     homepage 'http://www.dafont.com/rixton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RIXTON.ttf'
 end

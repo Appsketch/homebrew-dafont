@@ -5,7 +5,6 @@ cask 'dafont-big' do
     url 'http://dl.dafont.com/dl/?f=big'
     name 'Big'
     homepage 'http://www.dafont.com/big.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIG.otf'
 end

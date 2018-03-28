@@ -5,7 +5,6 @@ cask 'dafont-shd-technotype' do
     url 'http://dl.dafont.com/dl/?f=shd_technotype'
     name 'SHD TechnoType'
     homepage 'http://www.dafont.com/shd-technotype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHD_Technotype_italic.ttf'
     font 'SHD_Technotype_regular.ttf'

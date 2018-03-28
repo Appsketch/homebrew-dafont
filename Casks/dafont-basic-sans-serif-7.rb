@@ -5,7 +5,6 @@ cask 'dafont-basic-sans-serif-7' do
     url 'http://dl.dafont.com/dl/?f=basic_sans_serif_7'
     name 'Basic Sans Serif 7'
     homepage 'http://www.dafont.com/basic-sans-serif-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'basic_sans_serif_7.ttf'
 end

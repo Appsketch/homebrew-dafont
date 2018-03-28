@@ -5,7 +5,6 @@ cask 'dafont-vtc-joelene-hand' do
     url 'http://dl.dafont.com/dl/?f=vtc_joelene_hand'
     name 'VTC Joelene Hand'
     homepage 'http://www.dafont.com/vtc-joelene-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC JoeleneHand Bold Italic.ttf'
     font 'VTC JoeleneHand Bold.ttf'

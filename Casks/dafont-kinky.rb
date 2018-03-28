@@ -5,7 +5,6 @@ cask 'dafont-kinky' do
     url 'http://dl.dafont.com/dl/?f=kinky'
     name 'Kinky'
     homepage 'http://www.dafont.com/kinky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kinky_vBeta2.ttf'
 end

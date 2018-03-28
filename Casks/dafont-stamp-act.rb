@@ -5,7 +5,6 @@ cask 'dafont-stamp-act' do
     url 'http://dl.dafont.com/dl/?f=stamp_act'
     name 'Stamp Act'
     homepage 'http://www.dafont.com/stamp-act.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STAMAJ__.TTF'
     font 'STAMPACT.TTF'

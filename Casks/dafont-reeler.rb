@@ -5,7 +5,6 @@ cask 'dafont-reeler' do
     url 'http://dl.dafont.com/dl/?f=reeler'
     name 'Reeler'
     homepage 'http://www.dafont.com/reeler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reeler_PersonalUse.ttf'
 end

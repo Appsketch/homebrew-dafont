@@ -5,7 +5,6 @@ cask 'dafont-miloscript' do
     url 'http://dl.dafont.com/dl/?f=miloscript'
     name 'MiloScript'
     homepage 'http://www.dafont.com/miloscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiloScript.ttf'
 end

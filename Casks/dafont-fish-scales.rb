@@ -5,7 +5,6 @@ cask 'dafont-fish-scales' do
     url 'http://dl.dafont.com/dl/?f=fish_scales'
     name 'Fish Scales'
     homepage 'http://www.dafont.com/fish-scales.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fish_scales.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-center-of-gravity' do
     url 'http://dl.dafont.com/dl/?f=center_of_gravity'
     name 'Center of Gravity'
     homepage 'http://www.dafont.com/center-of-gravity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Center of Gravity.ttf'
 end

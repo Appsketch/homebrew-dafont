@@ -5,7 +5,6 @@ cask 'dafont-olde-english' do
     url 'http://dl.dafont.com/dl/?f=olde_english'
     name 'Olde English'
     homepage 'http://www.dafont.com/olde-english.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OldeEnglish.ttf'
 end

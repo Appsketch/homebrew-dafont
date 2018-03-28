@@ -5,7 +5,6 @@ cask 'dafont-wolf-brothers' do
     url 'http://dl.dafont.com/dl/?f=wolf_brothers'
     name 'Wolf Brothers'
     homepage 'http://www.dafont.com/wolf-brothers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wolfbrothers.ttf'
     font 'wolfbrothers3d.ttf'

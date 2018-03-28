@@ -5,7 +5,6 @@ cask 'dafont-electric-hands' do
     url 'http://dl.dafont.com/dl/?f=electric_hands'
     name 'Electric Hands'
     homepage 'http://www.dafont.com/electric-hands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ELECT trial___.otf'
 end

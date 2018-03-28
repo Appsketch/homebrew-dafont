@@ -5,7 +5,6 @@ cask 'dafont-handwriting-4-by-ca' do
     url 'http://dl.dafont.com/dl/?f=handwriting_4_by_ca'
     name 'Handwriting 4 by CA'
     homepage 'http://www.dafont.com/handwriting-4-by-ca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'handwriting 4 by CA.ttf'
 end

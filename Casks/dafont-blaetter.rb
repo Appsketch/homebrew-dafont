@@ -5,7 +5,6 @@ cask 'dafont-blaetter' do
     url 'http://dl.dafont.com/dl/?f=blaetter'
     name 'Blaetter'
     homepage 'http://www.dafont.com/blaetter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blaetter.otf'
 end

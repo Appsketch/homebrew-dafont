@@ -5,7 +5,6 @@ cask 'dafont-delicacy' do
     url 'http://dl.dafont.com/dl/?f=delicacy'
     name 'Delicacy'
     homepage 'http://www.dafont.com/delicacy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Delicacy- PERSONAL USE ONLY.ttf'
 end

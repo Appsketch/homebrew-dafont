@@ -5,7 +5,6 @@ cask 'dafont-gutierrez' do
     url 'http://dl.dafont.com/dl/?f=gutierrez'
     name 'Gutierrez'
     homepage 'http://www.dafont.com/gutierrez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gutierrez .ttf'
 end

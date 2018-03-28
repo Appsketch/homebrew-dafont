@@ -5,7 +5,6 @@ cask 'dafont-nightrunner' do
     url 'http://dl.dafont.com/dl/?f=nightrunner'
     name 'Nightrunner'
     homepage 'http://www.dafont.com/nightrunner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nightrunner.ttf'
     font 'nightrunnerc.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-fette-trump-deutsch' do
     url 'http://dl.dafont.com/dl/?f=fette_trump_deutsch'
     name 'Fette Trump Deutsch'
     homepage 'http://www.dafont.com/fette-trump-deutsch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FetteTrumpDeutsch.ttf'
 end

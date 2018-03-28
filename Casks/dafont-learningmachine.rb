@@ -5,7 +5,6 @@ cask 'dafont-learningmachine' do
     url 'http://dl.dafont.com/dl/?f=learningmachine'
     name 'Learning Machine'
     homepage 'http://www.dafont.com/learningmachine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LearningMachine.ttf'
     font 'LearningMachineItalic.ttf'

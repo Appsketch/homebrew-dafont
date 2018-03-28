@@ -5,7 +5,6 @@ cask 'dafont-gar-a-mondtall' do
     url 'http://dl.dafont.com/dl/?f=gar_a_mondtall'
     name 'Gar-A-Mond Tall'
     homepage 'http://www.dafont.com/gar-a-mondtall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gar-A-MondTall-Antique.ttf'
     font 'Gar-A-MondTall.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-creampuff' do
     url 'http://dl.dafont.com/dl/?f=creampuff'
     name 'CreamPuff'
     homepage 'http://www.dafont.com/creampuff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CreamPuff.ttf'
 end

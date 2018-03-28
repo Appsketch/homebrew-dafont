@@ -5,7 +5,6 @@ cask 'dafont-cw-ciung-wanara-sejati' do
     url 'http://dl.dafont.com/dl/?f=cw_ciung_wanara_sejati'
     name 'CW Ciung Wanara Sejati'
     homepage 'http://www.dafont.com/cw-ciung-wanara-sejati.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ciung Wanara Sejati.ttf'
 end

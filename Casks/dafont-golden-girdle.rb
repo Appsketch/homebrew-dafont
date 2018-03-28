@@ -5,7 +5,6 @@ cask 'dafont-golden-girdle' do
     url 'http://dl.dafont.com/dl/?f=golden_girdle'
     name 'Golden Girdle'
     homepage 'http://www.dafont.com/golden-girdle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'golden girdle.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-aranea' do
     url 'http://dl.dafont.com/dl/?f=aranea'
     name 'Aranea'
     homepage 'http://www.dafont.com/aranea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARANEA.TTF'
 end

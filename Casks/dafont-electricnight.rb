@@ -5,7 +5,6 @@ cask 'dafont-electricnight' do
     url 'http://dl.dafont.com/dl/?f=electricnight'
     name 'Electric Night'
     homepage 'http://www.dafont.com/electricnight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ElectricNight.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-littletealsue' do
     url 'http://dl.dafont.com/dl/?f=littletealsue'
     name 'Little Teal Sue'
     homepage 'http://www.dafont.com/littletealsue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LittleTealSue.ttf'
 end

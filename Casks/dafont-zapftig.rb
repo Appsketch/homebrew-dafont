@@ -5,7 +5,6 @@ cask 'dafont-zapftig' do
     url 'http://dl.dafont.com/dl/?f=zapftig'
     name 'Zapftig'
     homepage 'http://www.dafont.com/zapftig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zapftig-Regular.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hektor' do
     url 'http://dl.dafont.com/dl/?f=hektor'
     name 'Hektor'
     homepage 'http://www.dafont.com/hektor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hektor-Bold.ttf'
     font 'Hektor-Light.ttf'

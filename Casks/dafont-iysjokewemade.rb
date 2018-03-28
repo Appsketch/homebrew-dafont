@@ -5,7 +5,6 @@ cask 'dafont-iysjokewemade' do
     url 'http://dl.dafont.com/dl/?f=iysjokewemade'
     name 'IYS Joke We Made'
     homepage 'http://www.dafont.com/iysjokewemade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IYSJokeWeMade.ttf'
 end

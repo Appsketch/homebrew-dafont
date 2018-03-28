@@ -5,7 +5,6 @@ cask 'dafont-omgwritelikewilliam' do
     url 'http://dl.dafont.com/dl/?f=omgwritelikewilliam'
     name 'OMG Write Like William'
     homepage 'http://www.dafont.com/omgwritelikewilliam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OMGWriteLikeWilliam.ttf'
 end

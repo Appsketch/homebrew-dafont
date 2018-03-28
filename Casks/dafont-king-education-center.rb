@@ -5,7 +5,6 @@ cask 'dafont-king-education-center' do
     url 'http://dl.dafont.com/dl/?f=king_education_center'
     name 'King Education Center'
     homepage 'http://www.dafont.com/king-education-center.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'King_Education_Center.ttf'
 end

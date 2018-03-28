@@ -5,7 +5,6 @@ cask 'dafont-mqsmagic' do
     url 'http://dl.dafont.com/dl/?f=mqsmagic'
     name 'MQS Magic'
     homepage 'http://www.dafont.com/mqsmagic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MQSMagic.ttf'
 end

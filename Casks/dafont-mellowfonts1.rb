@@ -5,7 +5,6 @@ cask 'dafont-mellowfonts1' do
     url 'http://dl.dafont.com/dl/?f=mellowfonts1'
     name 'Mellow Fonts 1'
     homepage 'http://www.dafont.com/mellowfonts1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mellowfonts1.ttf'
 end

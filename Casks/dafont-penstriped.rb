@@ -5,7 +5,6 @@ cask 'dafont-penstriped' do
     url 'http://dl.dafont.com/dl/?f=penstriped'
     name 'Penstriped'
     homepage 'http://www.dafont.com/penstriped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Penstriped.ttf'
 end

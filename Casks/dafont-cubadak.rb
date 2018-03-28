@@ -5,7 +5,6 @@ cask 'dafont-cubadak' do
     url 'http://dl.dafont.com/dl/?f=cubadak'
     name 'Cubadak'
     homepage 'http://www.dafont.com/cubadak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cubadak.ttf'
 end

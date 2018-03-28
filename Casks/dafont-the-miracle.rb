@@ -5,7 +5,6 @@ cask 'dafont-the-miracle' do
     url 'http://dl.dafont.com/dl/?f=the_miracle'
     name 'The Miracle'
     homepage 'http://www.dafont.com/the-miracle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the miracle.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lethal-force' do
     url 'http://dl.dafont.com/dl/?f=lethal_force'
     name 'Lethal Force'
     homepage 'http://www.dafont.com/lethal-force.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lethalforce.ttf'
     font 'lethalforce3d.ttf'

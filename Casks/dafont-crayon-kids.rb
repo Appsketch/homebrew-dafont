@@ -5,7 +5,6 @@ cask 'dafont-crayon-kids' do
     url 'http://dl.dafont.com/dl/?f=crayon_kids'
     name 'Crayon Kids'
     homepage 'http://www.dafont.com/crayon-kids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crayon Kids 1.ttf'
     font 'Crayon Kids 2.ttf'

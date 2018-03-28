@@ -5,7 +5,6 @@ cask 'dafont-saturdaylove' do
     url 'http://dl.dafont.com/dl/?f=saturdaylove'
     name 'Saturday Love'
     homepage 'http://www.dafont.com/saturdaylove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SaturdayLove.ttf'
 end

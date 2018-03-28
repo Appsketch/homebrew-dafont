@@ -5,7 +5,6 @@ cask 'dafont-vtks-love-is-everything' do
     url 'http://dl.dafont.com/dl/?f=vtks_love_is_everything'
     name 'Vtks Love is EveryThing'
     homepage 'http://www.dafont.com/vtks-love-is-everything.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Love is EveryThing.ttf'
 end

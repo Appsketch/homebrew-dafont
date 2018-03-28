@@ -5,7 +5,6 @@ cask 'dafont-twenty12' do
     url 'http://dl.dafont.com/dl/?f=twenty12'
     name 'Twenty12'
     homepage 'http://www.dafont.com/twenty12.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Twenty12.ttf'
 end

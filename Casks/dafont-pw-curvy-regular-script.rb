@@ -5,7 +5,6 @@ cask 'dafont-pw-curvy-regular-script' do
     url 'http://dl.dafont.com/dl/?f=pw_curvy_regular_script'
     name 'PW Curvy'
     homepage 'http://www.dafont.com/pw-curvy-regular-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PW Curvy regular script.ttf'
 end

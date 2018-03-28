@@ -5,7 +5,6 @@ cask 'dafont-true-crimes' do
     url 'http://dl.dafont.com/dl/?f=true_crimes'
     name 'True Crimes'
     homepage 'http://www.dafont.com/true-crimes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crimes.ttf'
 end

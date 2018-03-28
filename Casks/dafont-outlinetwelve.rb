@@ -5,7 +5,6 @@ cask 'dafont-outlinetwelve' do
     url 'http://dl.dafont.com/dl/?f=outlinetwelve'
     name 'Outline Twelve'
     homepage 'http://www.dafont.com/outlinetwelve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OutlineTwelve.ttf'
 end

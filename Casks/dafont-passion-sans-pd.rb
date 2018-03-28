@@ -5,7 +5,6 @@ cask 'dafont-passion-sans-pd' do
     url 'http://dl.dafont.com/dl/?f=passion_sans_pd'
     name 'Passion Sans'
     homepage 'http://www.dafont.com/passion-sans-pd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PassionSansPDaa-Hairline.ttf'
     font 'PassionSansPDab-HairlineI 2.ttf'

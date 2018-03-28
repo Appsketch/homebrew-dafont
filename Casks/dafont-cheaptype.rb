@@ -5,7 +5,6 @@ cask 'dafont-cheaptype' do
     url 'http://dl.dafont.com/dl/?f=cheaptype'
     name 'Cheaptype'
     homepage 'http://www.dafont.com/cheaptype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cheapty1.ttf'
     font 'CHEAPTYP.TTF'

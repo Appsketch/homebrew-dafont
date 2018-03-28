@@ -5,7 +5,6 @@ cask 'dafont-vampire-raves' do
     url 'http://dl.dafont.com/dl/?f=vampire_raves'
     name 'Vampire Raves'
     homepage 'http://www.dafont.com/vampire-raves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vampire Raves Italic.otf'
     font 'Vampire Raves.otf'

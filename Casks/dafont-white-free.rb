@@ -5,7 +5,6 @@ cask 'dafont-white-free' do
     url 'http://dl.dafont.com/dl/?f=white_free'
     name 'White Free'
     homepage 'http://www.dafont.com/white-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'White Free.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-qubix' do
     url 'http://dl.dafont.com/dl/?f=qubix'
     name 'Qubix'
     homepage 'http://www.dafont.com/qubix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Qubix.ttf'
 end

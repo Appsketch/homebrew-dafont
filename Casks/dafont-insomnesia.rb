@@ -5,7 +5,6 @@ cask 'dafont-insomnesia' do
     url 'http://dl.dafont.com/dl/?f=insomnesia'
     name 'Insomnesia'
     homepage 'http://www.dafont.com/insomnesia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'insomnesia.[fontvir.us].ttf'
 end

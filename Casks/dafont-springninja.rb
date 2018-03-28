@@ -5,7 +5,6 @@ cask 'dafont-springninja' do
     url 'http://dl.dafont.com/dl/?f=springninja'
     name 'Spring Ninja'
     homepage 'http://www.dafont.com/springninja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpringNinja.ttf'
 end

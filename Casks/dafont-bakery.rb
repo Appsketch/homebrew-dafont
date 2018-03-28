@@ -5,7 +5,6 @@ cask 'dafont-bakery' do
     url 'http://dl.dafont.com/dl/?f=bakery'
     name 'Bakery'
     homepage 'http://www.dafont.com/bakery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bakery.ttf'
 end

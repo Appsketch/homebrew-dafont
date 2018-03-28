@@ -5,7 +5,6 @@ cask 'dafont-60sekuntia' do
     url 'http://dl.dafont.com/dl/?f=60sekuntia'
     name '60 Sekuntia'
     homepage 'http://www.dafont.com/60sekuntia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '60sekuntia.ttf'
 end

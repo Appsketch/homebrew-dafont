@@ -5,7 +5,6 @@ cask 'dafont-yoo-hae-mool' do
     url 'http://dl.dafont.com/dl/?f=yoo_hae_mool'
     name 'Yoo Hae Mool'
     homepage 'http://www.dafont.com/yoo-hae-mool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yoo Hae Mool.ttf'
 end

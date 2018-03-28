@@ -5,7 +5,6 @@ cask 'dafont-batik-dayak-font' do
     url 'http://dl.dafont.com/dl/?f=batik_dayak_font'
     name 'Batik Dayak Font'
     homepage 'http://www.dafont.com/batik-dayak-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BatikDayakFont.ttf'
 end

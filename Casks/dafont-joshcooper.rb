@@ -5,7 +5,6 @@ cask 'dafont-joshcooper' do
     url 'http://dl.dafont.com/dl/?f=joshcooper'
     name 'Josh Cooper'
     homepage 'http://www.dafont.com/joshcooper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JoshCooper.ttf'
 end

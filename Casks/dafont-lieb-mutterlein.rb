@@ -5,7 +5,6 @@ cask 'dafont-lieb-mutterlein' do
     url 'http://dl.dafont.com/dl/?f=lieb_mutterlein'
     name 'Lieb M&uuml;tterlein'
     homepage 'http://www.dafont.com/lieb-mutterlein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lieb Mutterlein.ttf'
 end

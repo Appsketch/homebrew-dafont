@@ -5,7 +5,6 @@ cask 'dafont-secret-of-the-octopus' do
     url 'http://dl.dafont.com/dl/?f=secret_of_the_octopus'
     name 'Secret of the Octopus'
     homepage 'http://www.dafont.com/secret-of-the-octopus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Secret of the Octopus.ttf'
 end

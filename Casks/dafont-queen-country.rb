@@ -5,7 +5,6 @@ cask 'dafont-queen-country' do
     url 'http://dl.dafont.com/dl/?f=queen_country'
     name 'Queen &amp; Country'
     homepage 'http://www.dafont.com/queen-country.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'queencountry.ttf'
     font 'queencountry3d.ttf'

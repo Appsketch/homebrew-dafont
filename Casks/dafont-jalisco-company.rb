@@ -5,7 +5,6 @@ cask 'dafont-jalisco-company' do
     url 'http://dl.dafont.com/dl/?f=jalisco_company'
     name 'Jalisco Company'
     homepage 'http://www.dafont.com/jalisco-company.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JALISCO_COMPANY.ttf'
 end

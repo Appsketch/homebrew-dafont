@@ -5,7 +5,6 @@ cask 'dafont-sunshine-poppy' do
     url 'http://dl.dafont.com/dl/?f=sunshine_poppy'
     name 'Sunshine Poppy'
     homepage 'http://www.dafont.com/sunshine-poppy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sunshine Poppy.ttf'
 end

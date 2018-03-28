@@ -5,7 +5,6 @@ cask 'dafont-flesh-eating-comic' do
     url 'http://dl.dafont.com/dl/?f=flesh_eating_comic'
     name 'Flesh-Eating Comic'
     homepage 'http://www.dafont.com/flesh-eating-comic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'flesheating.ttf'
     font 'flesheating3d.ttf'

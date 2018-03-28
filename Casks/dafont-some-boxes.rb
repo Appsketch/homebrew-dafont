@@ -5,7 +5,6 @@ cask 'dafont-some-boxes' do
     url 'http://dl.dafont.com/dl/?f=some_boxes'
     name 'Some Boxes'
     homepage 'http://www.dafont.com/some-boxes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOXES.TTF'
 end

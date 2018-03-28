@@ -5,7 +5,6 @@ cask 'dafont-doppler' do
     url 'http://dl.dafont.com/dl/?f=doppler'
     name 'Doppler'
     homepage 'http://www.dafont.com/doppler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doppler.ttf'
 end

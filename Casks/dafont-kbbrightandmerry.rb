@@ -5,7 +5,6 @@ cask 'dafont-kbbrightandmerry' do
     url 'http://dl.dafont.com/dl/?f=kbbrightandmerry'
     name 'KB Bright and Merry'
     homepage 'http://www.dafont.com/kbbrightandmerry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBBrightandMerry.ttf'
 end

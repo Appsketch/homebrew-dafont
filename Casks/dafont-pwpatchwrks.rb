@@ -5,7 +5,6 @@ cask 'dafont-pwpatchwrks' do
     url 'http://dl.dafont.com/dl/?f=pwpatchwrks'
     name 'PW Patchwrks'
     homepage 'http://www.dafont.com/pwpatchwrks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWPatchwrks.ttf'
 end

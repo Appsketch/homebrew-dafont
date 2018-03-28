@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-somersaults' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_somersaults'
     name 'Austie Bost Somersaults'
     homepage 'http://www.dafont.com/austie-bost-somersaults.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Somersaults.ttf'
 end

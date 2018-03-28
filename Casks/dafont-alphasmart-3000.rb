@@ -5,7 +5,6 @@ cask 'dafont-alphasmart-3000' do
     url 'http://dl.dafont.com/dl/?f=alphasmart_3000'
     name 'AlphaSmart 3000'
     homepage 'http://www.dafont.com/alphasmart-3000.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaSmart3000.ttf'
 end

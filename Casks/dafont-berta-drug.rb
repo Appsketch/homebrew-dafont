@@ -5,7 +5,6 @@ cask 'dafont-berta-drug' do
     url 'http://dl.dafont.com/dl/?f=berta_drug'
     name 'Berta Drug'
     homepage 'http://www.dafont.com/berta-drug.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Berta_Drug_01.ttf'
 end

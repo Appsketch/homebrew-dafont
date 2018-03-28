@@ -5,7 +5,6 @@ cask 'dafont-planet-tricolore' do
     url 'http://dl.dafont.com/dl/?f=planet_tricolore'
     name 'Planet Tricolore'
     homepage 'http://www.dafont.com/planet-tricolore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLANTC__.TTF'
 end

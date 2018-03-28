@@ -5,7 +5,6 @@ cask 'dafont-hera' do
     url 'http://dl.dafont.com/dl/?f=hera'
     name 'Hera'
     homepage 'http://www.dafont.com/hera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hera.ttf'
 end

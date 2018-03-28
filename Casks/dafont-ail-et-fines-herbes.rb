@@ -5,7 +5,6 @@ cask 'dafont-ail-et-fines-herbes' do
     url 'http://dl.dafont.com/dl/?f=ail_et_fines_herbes'
     name 'Ail et Fines Herbes'
     homepage 'http://www.dafont.com/ail-et-fines-herbes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ail et Fines Herbes.ttf'
 end

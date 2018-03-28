@@ -5,7 +5,6 @@ cask 'dafont-kingthings-wrecktangle' do
     url 'http://dl.dafont.com/dl/?f=kingthings_wrecktangle'
     name 'Kingthings Wrecktangle'
     homepage 'http://www.dafont.com/kingthings-wrecktangle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Wrecktangle.ttf'
 end

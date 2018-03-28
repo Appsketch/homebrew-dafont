@@ -5,7 +5,6 @@ cask 'dafont-single-stroke' do
     url 'http://dl.dafont.com/dl/?f=single_stroke'
     name 'Single Stroke'
     homepage 'http://www.dafont.com/single-stroke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SINGLE.TTF'
 end

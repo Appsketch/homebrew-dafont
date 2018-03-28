@@ -5,7 +5,6 @@ cask 'dafont-ikkle' do
     url 'http://dl.dafont.com/dl/?f=ikkle'
     name 'Ikkle'
     homepage 'http://www.dafont.com/ikkle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ikkle.ttf'
 end

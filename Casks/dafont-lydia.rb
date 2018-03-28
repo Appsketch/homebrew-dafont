@@ -5,7 +5,6 @@ cask 'dafont-lydia' do
     url 'http://dl.dafont.com/dl/?f=lydia'
     name 'Lydia'
     homepage 'http://www.dafont.com/lydia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lydia.ttf'
 end

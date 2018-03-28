@@ -5,7 +5,6 @@ cask 'dafont-japonesa' do
     url 'http://dl.dafont.com/dl/?f=japonesa'
     name 'Japonesa'
     homepage 'http://www.dafont.com/japonesa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Japonesa.ttf'
     font 'JaponesaOutline.ttf'

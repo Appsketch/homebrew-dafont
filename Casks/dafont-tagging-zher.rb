@@ -5,7 +5,6 @@ cask 'dafont-tagging-zher' do
     url 'http://dl.dafont.com/dl/?f=tagging_zher'
     name 'Tagging Zher'
     homepage 'http://www.dafont.com/tagging-zher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tagging_zher1.ttf'
 end

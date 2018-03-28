@@ -5,7 +5,6 @@ cask 'dafont-serifa-comica' do
     url 'http://dl.dafont.com/dl/?f=serifa_comica'
     name 'Serifa Comica'
     homepage 'http://www.dafont.com/serifa-comica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Serifa Comica.ttf'
 end

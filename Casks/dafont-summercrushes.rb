@@ -5,7 +5,6 @@ cask 'dafont-summercrushes' do
     url 'http://dl.dafont.com/dl/?f=summercrushes'
     name 'Summer Crushes'
     homepage 'http://www.dafont.com/summercrushes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SummerCrushes.ttf'
 end

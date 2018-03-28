@@ -5,7 +5,6 @@ cask 'dafont-ji-fajita' do
     url 'http://dl.dafont.com/dl/?f=ji_fajita'
     name 'JI Fajita'
     homepage 'http://www.dafont.com/ji-fajita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JI Fajita.ttf'
 end

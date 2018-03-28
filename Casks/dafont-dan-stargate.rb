@@ -5,7 +5,6 @@ cask 'dafont-dan-stargate' do
     url 'http://dl.dafont.com/dl/?f=dan_stargate'
     name 'Dan Stargate'
     homepage 'http://www.dafont.com/dan-stargate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'danstargate.ttf'
     font 'danstargatec.ttf'

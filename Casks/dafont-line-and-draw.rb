@@ -5,7 +5,6 @@ cask 'dafont-line-and-draw' do
     url 'http://dl.dafont.com/dl/?f=line_and_draw'
     name 'Line and Draw'
     homepage 'http://www.dafont.com/line-and-draw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'line and draw.ttf'
 end

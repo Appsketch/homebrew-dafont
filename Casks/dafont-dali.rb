@@ -5,7 +5,6 @@ cask 'dafont-dali' do
     url 'http://dl.dafont.com/dl/?f=dali'
     name 'Dali'
     homepage 'http://www.dafont.com/dali.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dali____.ttf'
 end

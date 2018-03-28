@@ -5,7 +5,6 @@ cask 'dafont-modern-plate' do
     url 'http://dl.dafont.com/dl/?f=modern_plate'
     name 'Modern Plate'
     homepage 'http://www.dafont.com/modern-plate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ModernPlate - BC.ttf'
 end

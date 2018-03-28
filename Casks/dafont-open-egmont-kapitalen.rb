@@ -5,7 +5,6 @@ cask 'dafont-open-egmont-kapitalen' do
     url 'http://dl.dafont.com/dl/?f=open_egmont_kapitalen'
     name 'Open Egmont Kapitalen'
     homepage 'http://www.dafont.com/open-egmont-kapitalen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Open Egmont Kapitalen (DEMO).ttf'
 end

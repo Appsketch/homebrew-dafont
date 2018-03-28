@@ -5,7 +5,6 @@ cask 'dafont-fantombantum' do
     url 'http://dl.dafont.com/dl/?f=fantombantum'
     name 'Fantom Bantum'
     homepage 'http://www.dafont.com/fantombantum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FantomBantum.ttf'
 end

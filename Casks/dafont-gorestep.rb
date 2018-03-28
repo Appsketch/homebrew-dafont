@@ -5,7 +5,6 @@ cask 'dafont-gorestep' do
     url 'http://dl.dafont.com/dl/?f=gorestep'
     name 'Gorestep'
     homepage 'http://www.dafont.com/gorestep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gorestep.ttf'
 end

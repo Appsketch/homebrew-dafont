@@ -5,7 +5,6 @@ cask 'dafont-cocksure' do
     url 'http://dl.dafont.com/dl/?f=cocksure'
     name 'Cocksure'
     homepage 'http://www.dafont.com/cocksure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cocksure.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kickstop' do
     url 'http://dl.dafont.com/dl/?f=kickstop'
     name 'Kickstop'
     homepage 'http://www.dafont.com/kickstop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kickstop.ttf'
 end

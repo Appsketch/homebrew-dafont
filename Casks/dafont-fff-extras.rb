@@ -5,7 +5,6 @@ cask 'dafont-fff-extras' do
     url 'http://dl.dafont.com/dl/?f=fff_extras'
     name 'FFF Extras'
     homepage 'http://www.dafont.com/fff-extras.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FFFEXTRA.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sg10' do
     url 'http://dl.dafont.com/dl/?f=sg10'
     name 'SG10'
     homepage 'http://www.dafont.com/sg10.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SG10.ttf'
 end

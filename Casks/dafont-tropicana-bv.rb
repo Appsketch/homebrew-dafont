@@ -5,7 +5,6 @@ cask 'dafont-tropicana-bv' do
     url 'http://dl.dafont.com/dl/?f=tropicana_bv'
     name 'Tropicana BV'
     homepage 'http://www.dafont.com/tropicana-bv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TROPB___.TTF'
 end

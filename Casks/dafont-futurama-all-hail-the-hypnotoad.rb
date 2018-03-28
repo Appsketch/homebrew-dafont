@@ -5,7 +5,6 @@ cask 'dafont-futurama-all-hail-the-hypnotoad' do
     url 'http://dl.dafont.com/dl/?f=futurama_all_hail_the_hypnotoad'
     name 'Futurama All Hail The Hypnotoad'
     homepage 'http://www.dafont.com/futurama-all-hail-the-hypnotoad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Futurama Hypnotoad.ttf'
 end

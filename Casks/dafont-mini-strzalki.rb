@@ -5,7 +5,6 @@ cask 'dafont-mini-strzalki' do
     url 'http://dl.dafont.com/dl/?f=mini_strzalki'
     name 'MiniStrzalki'
     homepage 'http://www.dafont.com/mini-strzalki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiniStrzalki.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lauantaiaamu-7-25' do
     url 'http://dl.dafont.com/dl/?f=lauantaiaamu_7_25'
     name 'Lauantaiaamu 7:25'
     homepage 'http://www.dafont.com/lauantaiaamu-7-25.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lauantaiaamu 0725.ttf'
 end

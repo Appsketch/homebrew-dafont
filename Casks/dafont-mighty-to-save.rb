@@ -5,7 +5,6 @@ cask 'dafont-mighty-to-save' do
     url 'http://dl.dafont.com/dl/?f=mighty_to_save'
     name 'Mighty to Save'
     homepage 'http://www.dafont.com/mighty-to-save.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mighty to Save.ttf'
 end

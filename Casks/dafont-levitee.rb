@@ -5,7 +5,6 @@ cask 'dafont-levitee' do
     url 'http://dl.dafont.com/dl/?f=levitee'
     name 'Levitee'
     homepage 'http://www.dafont.com/levitee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Levitee_Demo.otf'
 end

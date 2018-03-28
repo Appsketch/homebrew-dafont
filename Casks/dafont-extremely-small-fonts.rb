@@ -5,7 +5,6 @@ cask 'dafont-extremely-small-fonts' do
     url 'http://dl.dafont.com/dl/?f=extremely_small_fonts'
     name 'Extremely Small Fonts'
     homepage 'http://www.dafont.com/extremely-small-fonts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extremely-Small-Fonts.ttf'
 end

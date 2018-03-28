@@ -5,7 +5,6 @@ cask 'dafont-shark-soft-bites' do
     url 'http://dl.dafont.com/dl/?f=shark_soft_bites'
     name 'Shark Soft Bites'
     homepage 'http://www.dafont.com/shark-soft-bites.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SharkSoftBites.ttf'
 end

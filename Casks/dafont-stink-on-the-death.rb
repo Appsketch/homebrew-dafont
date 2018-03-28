@@ -5,7 +5,6 @@ cask 'dafont-stink-on-the-death' do
     url 'http://dl.dafont.com/dl/?f=stink_on_the_death'
     name 'Stink on the Death'
     homepage 'http://www.dafont.com/stink-on-the-death.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stink on the Death.ttf'
 end

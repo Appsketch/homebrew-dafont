@@ -5,7 +5,6 @@ cask 'dafont-martin-vogels-symb' do
     url 'http://dl.dafont.com/dl/?f=martin_vogels_symb'
     name 'Martin Vogel&#039;s Symbols'
     homepage 'http://www.dafont.com/martin-vogels-symb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'marvosym.ttf'
 end

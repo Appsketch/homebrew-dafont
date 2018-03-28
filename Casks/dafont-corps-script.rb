@@ -5,7 +5,6 @@ cask 'dafont-corps-script' do
     url 'http://dl.dafont.com/dl/?f=corps_script'
     name 'Corps Script'
     homepage 'http://www.dafont.com/corps-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CoprsScript-Shadow.otf'
     font 'CoprsScript.otf'

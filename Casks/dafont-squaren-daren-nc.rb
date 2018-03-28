@@ -5,7 +5,6 @@ cask 'dafont-squaren-daren-nc' do
     url 'http://dl.dafont.com/dl/?f=squaren_daren_nc'
     name 'Squaren Daren NC'
     homepage 'http://www.dafont.com/squaren-daren-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Squaren Daren NC.ttf'
 end

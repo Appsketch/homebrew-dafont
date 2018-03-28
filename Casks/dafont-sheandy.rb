@@ -5,7 +5,6 @@ cask 'dafont-sheandy' do
     url 'http://dl.dafont.com/dl/?f=sheandy'
     name 'Sheandy'
     homepage 'http://www.dafont.com/sheandy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sheandy.ttf'
 end

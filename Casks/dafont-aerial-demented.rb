@@ -5,7 +5,6 @@ cask 'dafont-aerial-demented' do
     url 'http://dl.dafont.com/dl/?f=aerial_demented'
     name 'Aerial Demented'
     homepage 'http://www.dafont.com/aerial-demented.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aerial - Dker.ttf'
 end

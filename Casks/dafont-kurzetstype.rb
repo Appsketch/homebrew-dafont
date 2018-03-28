@@ -5,7 +5,6 @@ cask 'dafont-kurzetstype' do
     url 'http://dl.dafont.com/dl/?f=kurzetstype'
     name 'KurzetsType'
     homepage 'http://www.dafont.com/kurzetstype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kurzetsType_v1.4.ttf'
 end

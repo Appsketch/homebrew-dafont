@@ -5,7 +5,6 @@ cask 'dafont-kubrick' do
     url 'http://dl.dafont.com/dl/?f=kubrick'
     name 'Kubrick'
     homepage 'http://www.dafont.com/kubrick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kubrick.ttf'
     font 'kubrickc.ttf'

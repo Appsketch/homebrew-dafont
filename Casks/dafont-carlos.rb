@@ -5,7 +5,6 @@ cask 'dafont-carlos' do
     url 'http://dl.dafont.com/dl/?f=carlos'
     name 'Carlos'
     homepage 'http://www.dafont.com/carlos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'carlos.ttf'
 end

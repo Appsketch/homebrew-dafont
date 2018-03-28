@@ -5,7 +5,6 @@ cask 'dafont-byom' do
     url 'http://dl.dafont.com/dl/?f=byom'
     name 'Byom'
     homepage 'http://www.dafont.com/byom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Byom-Bold-Trial.ttf'
     font 'Byom-Light-Trial.ttf'

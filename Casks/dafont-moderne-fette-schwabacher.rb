@@ -5,7 +5,6 @@ cask 'dafont-moderne-fette-schwabacher' do
     url 'http://dl.dafont.com/dl/?f=moderne_fette_schwabacher'
     name 'Moderne Fette Schwabacher'
     homepage 'http://www.dafont.com/moderne-fette-schwabacher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moderne 3D Schwabacher.ttf'
     font 'Moderne Fette Schwabacher.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-milesandmilesofverticalsmiles' do
     url 'http://dl.dafont.com/dl/?f=milesandmilesofverticalsmiles'
     name 'Miles and miles of vertical smiles'
     homepage 'http://www.dafont.com/milesandmilesofverticalsmiles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Milesandmilesofverticalsmil.ttf'
 end

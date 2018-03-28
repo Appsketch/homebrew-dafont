@@ -5,7 +5,6 @@ cask 'dafont-lady-starlight' do
     url 'http://dl.dafont.com/dl/?f=lady_starlight'
     name 'Lady Starlight'
     homepage 'http://www.dafont.com/lady-starlight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lady starlight.ttf'
 end

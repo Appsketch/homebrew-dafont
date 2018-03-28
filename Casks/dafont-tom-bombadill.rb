@@ -5,7 +5,6 @@ cask 'dafont-tom-bombadill' do
     url 'http://dl.dafont.com/dl/?f=tom_bombadill'
     name 'Tom Bombadill'
     homepage 'http://www.dafont.com/tom-bombadill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tom_bombadil.ttf'
 end

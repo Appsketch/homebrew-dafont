@@ -5,7 +5,6 @@ cask 'dafont-mixed-up' do
     url 'http://dl.dafont.com/dl/?f=mixed_up'
     name 'Mixed Up'
     homepage 'http://www.dafont.com/mixed-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MIXEDUP.TTF'
 end

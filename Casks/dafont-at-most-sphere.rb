@@ -5,7 +5,6 @@ cask 'dafont-at-most-sphere' do
     url 'http://dl.dafont.com/dl/?f=at_most_sphere'
     name 'At most sphere'
     homepage 'http://www.dafont.com/at-most-sphere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'atmostsphere.ttf'
 end

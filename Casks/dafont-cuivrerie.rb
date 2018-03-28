@@ -5,7 +5,6 @@ cask 'dafont-cuivrerie' do
     url 'http://dl.dafont.com/dl/?f=cuivrerie'
     name 'Cuivrerie'
     homepage 'http://www.dafont.com/cuivrerie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cuivrerie-Demo.otf'
 end

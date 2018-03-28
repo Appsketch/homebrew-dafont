@@ -5,7 +5,6 @@ cask 'dafont-coffee-at-midnight' do
     url 'http://dl.dafont.com/dl/?f=coffee_at_midnight'
     name 'Coffee At Midnight'
     homepage 'http://www.dafont.com/coffee-at-midnight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coffee At Midnight Demo.ttf'
 end

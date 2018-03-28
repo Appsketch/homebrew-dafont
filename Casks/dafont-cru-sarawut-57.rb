@@ -5,7 +5,6 @@ cask 'dafont-cru-sarawut-57' do
     url 'http://dl.dafont.com/dl/?f=cru_sarawut_57'
     name 'CRU Sarawut 57'
     homepage 'http://www.dafont.com/cru-sarawut-57.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRU Sarawut 57.ttf'
 end

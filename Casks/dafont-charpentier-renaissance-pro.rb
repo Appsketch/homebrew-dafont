@@ -5,7 +5,6 @@ cask 'dafont-charpentier-renaissance-pro' do
     url 'http://dl.dafont.com/dl/?f=charpentier_renaissance_pro'
     name 'Charpentier Renaissance Pro'
     homepage 'http://www.dafont.com/charpentier-renaissance-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CharpentierRenRed-Demi.ttf'
     font 'CharpentierRenRed-DemiObl.ttf'

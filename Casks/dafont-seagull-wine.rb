@@ -5,7 +5,6 @@ cask 'dafont-seagull-wine' do
     url 'http://dl.dafont.com/dl/?f=seagull_wine'
     name 'Seagull Wine'
     homepage 'http://www.dafont.com/seagull-wine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seagull_Wine.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-love-in-stripes' do
     url 'http://dl.dafont.com/dl/?f=love_in_stripes'
     name 'Love in Stripes'
     homepage 'http://www.dafont.com/love-in-stripes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Love In Stripes.ttf'
 end

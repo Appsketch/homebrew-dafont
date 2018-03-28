@@ -5,7 +5,6 @@ cask 'dafont-dirt2-copperbolt' do
     url 'http://dl.dafont.com/dl/?f=dirt2_copperbolt'
     name 'Dirt2 Copperbolt'
     homepage 'http://www.dafont.com/dirt2-copperbolt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dirt2 Copperbolt DEMO.ttf'
 end

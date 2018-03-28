@@ -5,7 +5,6 @@ cask 'dafont-chess-mediaeval' do
     url 'http://dl.dafont.com/dl/?f=chess_mediaeval'
     name 'Chess Mediaeval'
     homepage 'http://www.dafont.com/chess-mediaeval.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MVALFONT.TTF'
 end

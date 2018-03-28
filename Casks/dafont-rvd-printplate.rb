@@ -5,7 +5,6 @@ cask 'dafont-rvd-printplate' do
     url 'http://dl.dafont.com/dl/?f=rvd_printplate'
     name 'RvD Printplate'
     homepage 'http://www.dafont.com/rvd-printplate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RvD_PRINTPLATE.ttf'
 end

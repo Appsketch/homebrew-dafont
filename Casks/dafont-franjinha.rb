@@ -5,7 +5,6 @@ cask 'dafont-franjinha' do
     url 'http://dl.dafont.com/dl/?f=franjinha'
     name 'Franjinha'
     homepage 'http://www.dafont.com/franjinha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fonte Franjinha - Antonia Fagnia.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-romeodn' do
     url 'http://dl.dafont.com/dl/?f=romeodn'
     name 'Romeo DN'
     homepage 'http://www.dafont.com/romeodn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RomeoDN.ttf'
 end

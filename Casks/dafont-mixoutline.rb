@@ -5,7 +5,6 @@ cask 'dafont-mixoutline' do
     url 'http://dl.dafont.com/dl/?f=mixoutline'
     name 'Mix Outline'
     homepage 'http://www.dafont.com/mixoutline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixOutline.ttf'
 end

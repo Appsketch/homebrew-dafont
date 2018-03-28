@@ -5,7 +5,6 @@ cask 'dafont-flogged' do
     url 'http://dl.dafont.com/dl/?f=flogged'
     name 'Flogged'
     homepage 'http://www.dafont.com/flogged.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flogged.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mythoschina' do
     url 'http://dl.dafont.com/dl/?f=mythoschina'
     name 'Mythos China'
     homepage 'http://www.dafont.com/mythoschina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MythosChina.ttf'
 end

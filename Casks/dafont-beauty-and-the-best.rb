@@ -5,7 +5,6 @@ cask 'dafont-beauty-and-the-best' do
     url 'http://dl.dafont.com/dl/?f=beauty_and_the_best'
     name 'Beauty And The Best'
     homepage 'http://www.dafont.com/beauty-and-the-best.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beauty and the best.ttf'
 end

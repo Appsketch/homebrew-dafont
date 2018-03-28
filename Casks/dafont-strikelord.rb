@@ -5,7 +5,6 @@ cask 'dafont-strikelord' do
     url 'http://dl.dafont.com/dl/?f=strikelord'
     name 'Strikelord '
     homepage 'http://www.dafont.com/strikelord.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'strikelord.ttf'
     font 'strikelord3d.ttf'

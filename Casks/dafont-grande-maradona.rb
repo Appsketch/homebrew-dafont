@@ -5,7 +5,6 @@ cask 'dafont-grande-maradona' do
     url 'http://dl.dafont.com/dl/?f=grande_maradona'
     name 'Grande Maradona'
     homepage 'http://www.dafont.com/grande-maradona.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grande_maradona.ttf'
 end

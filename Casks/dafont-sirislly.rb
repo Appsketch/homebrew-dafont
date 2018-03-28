@@ -5,7 +5,6 @@ cask 'dafont-sirislly' do
     url 'http://dl.dafont.com/dl/?f=sirislly'
     name 'Sirislly'
     homepage 'http://www.dafont.com/sirislly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sirislly.ttf'
 end

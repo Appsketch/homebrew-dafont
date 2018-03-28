@@ -5,7 +5,6 @@ cask 'dafont-death-from-above' do
     url 'http://dl.dafont.com/dl/?f=death_from_above'
     name 'Death From Above'
     homepage 'http://www.dafont.com/death-from-above.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeathFromAboveDEMO.ttf'
 end

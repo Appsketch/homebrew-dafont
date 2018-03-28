@@ -5,7 +5,6 @@ cask 'dafont-phonetic' do
     url 'http://dl.dafont.com/dl/?f=phonetic'
     name 'Phonetic'
     homepage 'http://www.dafont.com/phonetic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phonetic-Regular.otf'
     font 'Phonetic-Regular.ttf'

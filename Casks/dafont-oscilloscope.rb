@@ -5,7 +5,6 @@ cask 'dafont-oscilloscope' do
     url 'http://dl.dafont.com/dl/?f=oscilloscope'
     name 'Oscilloscope'
     homepage 'http://www.dafont.com/oscilloscope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OSCILLOS.TTF'
 end

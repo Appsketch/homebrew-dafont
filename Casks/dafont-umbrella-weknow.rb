@@ -5,7 +5,6 @@ cask 'dafont-umbrella-weknow' do
     url 'http://dl.dafont.com/dl/?f=umbrella_weknow'
     name 'Umbrella'
     homepage 'http://www.dafont.com/umbrella-weknow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UMBRELLA.ttf'
 end

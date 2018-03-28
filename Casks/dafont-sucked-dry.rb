@@ -5,7 +5,6 @@ cask 'dafont-sucked-dry' do
     url 'http://dl.dafont.com/dl/?f=sucked_dry'
     name 'Sucked Dry'
     homepage 'http://www.dafont.com/sucked-dry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sucked_Dry.ttf'
 end

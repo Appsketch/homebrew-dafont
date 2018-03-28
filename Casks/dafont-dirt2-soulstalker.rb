@@ -5,7 +5,6 @@ cask 'dafont-dirt2-soulstalker' do
     url 'http://dl.dafont.com/dl/?f=dirt2_soulstalker'
     name 'Dirt2 SoulStalker'
     homepage 'http://www.dafont.com/dirt2-soulstalker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dirt2 soulstalker.otf'
 end

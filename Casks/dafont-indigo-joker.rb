@@ -5,7 +5,6 @@ cask 'dafont-indigo-joker' do
     url 'http://dl.dafont.com/dl/?f=indigo_joker'
     name 'Indigo Joker'
     homepage 'http://www.dafont.com/indigo-joker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'indigojo.ttf'
 end

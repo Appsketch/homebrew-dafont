@@ -5,7 +5,6 @@ cask 'dafont-beautiful-heartbeat' do
     url 'http://dl.dafont.com/dl/?f=beautiful_heartbeat'
     name 'Beautiful Heartbeat'
     homepage 'http://www.dafont.com/beautiful-heartbeat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beautiful Heartbeat.otf'
 end

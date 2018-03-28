@@ -5,7 +5,6 @@ cask 'dafont-pixel-carnage-mono-' do
     url 'http://dl.dafont.com/dl/?f=pixel_carnage_mono_'
     name 'PixelCarnage Mono Null'
     homepage 'http://www.dafont.com/pixel-carnage-mono-.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixelCarnageMonoNull.fon'
 end

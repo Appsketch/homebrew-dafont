@@ -5,7 +5,6 @@ cask 'dafont-signoria' do
     url 'http://dl.dafont.com/dl/?f=signoria'
     name 'Signoria'
     homepage 'http://www.dafont.com/signoria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Signoria Bold Italic.ttf'
     font 'Signoria Bold.ttf'

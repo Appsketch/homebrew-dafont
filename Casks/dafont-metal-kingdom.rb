@@ -5,7 +5,6 @@ cask 'dafont-metal-kingdom' do
     url 'http://dl.dafont.com/dl/?f=metal_kingdom'
     name 'Metal Kingdom'
     homepage 'http://www.dafont.com/metal-kingdom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'METAL KINGDOM.ttf'
 end

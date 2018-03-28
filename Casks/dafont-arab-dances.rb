@@ -5,7 +5,6 @@ cask 'dafont-arab-dances' do
     url 'http://dl.dafont.com/dl/?f=arab_dances'
     name 'Arab Dances'
     homepage 'http://www.dafont.com/arab-dances.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArabDances.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djb-doodled-bits' do
     url 'http://dl.dafont.com/dl/?f=djb_doodled_bits'
     name 'DJB Doodled Bits'
     homepage 'http://www.dafont.com/djb-doodled-bits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Doodled Bits.ttf'
 end

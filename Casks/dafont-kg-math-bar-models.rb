@@ -5,7 +5,6 @@ cask 'dafont-kg-math-bar-models' do
     url 'http://dl.dafont.com/dl/?f=kg_math_bar_models'
     name 'KG Math Bar Models'
     homepage 'http://www.dafont.com/kg-math-bar-models.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGMathBarModels.ttf'
 end

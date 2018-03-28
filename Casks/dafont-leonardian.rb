@@ -5,7 +5,6 @@ cask 'dafont-leonardian' do
     url 'http://dl.dafont.com/dl/?f=leonardian'
     name 'Leonardian'
     homepage 'http://www.dafont.com/leonardian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Leonardian_sample.ttf'
 end

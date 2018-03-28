@@ -5,7 +5,6 @@ cask 'dafont-great-victorian' do
     url 'http://dl.dafont.com/dl/?f=great_victorian'
     name 'Great Victorian'
     homepage 'http://www.dafont.com/great-victorian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreatVictorian-Standard.otf'
     font 'GreatVictorian-Swashed.otf'

@@ -5,7 +5,6 @@ cask 'dafont-jailed-celts' do
     url 'http://dl.dafont.com/dl/?f=jailed_celts'
     name 'Jailed Celts'
     homepage 'http://www.dafont.com/jailed-celts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jailed Celts.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-silver-knight' do
     url 'http://dl.dafont.com/dl/?f=silver_knight'
     name 'Silver Knight'
     homepage 'http://www.dafont.com/silver-knight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'silver knight.ttf'
 end

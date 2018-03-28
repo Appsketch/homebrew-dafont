@@ -5,7 +5,6 @@ cask 'dafont-soft-addictions' do
     url 'http://dl.dafont.com/dl/?f=soft_addictions'
     name 'Soft Addictions'
     homepage 'http://www.dafont.com/soft-addictions.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SOFT ADDICTIONS.ttf'
 end

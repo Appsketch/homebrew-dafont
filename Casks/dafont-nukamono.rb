@@ -5,7 +5,6 @@ cask 'dafont-nukamono' do
     url 'http://dl.dafont.com/dl/?f=nukamono'
     name 'Nuka-Mono'
     homepage 'http://www.dafont.com/nukamono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NukaMono.ttf'
 end

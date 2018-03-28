@@ -5,7 +5,6 @@ cask 'dafont-year3000' do
     url 'http://dl.dafont.com/dl/?f=year3000'
     name 'Year 3000'
     homepage 'http://www.dafont.com/year3000.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'y3k.ttf'
     font 'y3kb.ttf'

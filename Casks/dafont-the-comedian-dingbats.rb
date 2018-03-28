@@ -5,7 +5,6 @@ cask 'dafont-the-comedian-dingbats' do
     url 'http://dl.dafont.com/dl/?f=the_comedian_dingbats'
     name 'The Comedian Dingbats'
     homepage 'http://www.dafont.com/the-comedian-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The_Comedian_dingbat.ttf'
 end

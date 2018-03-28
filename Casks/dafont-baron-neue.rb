@@ -5,7 +5,6 @@ cask 'dafont-baron-neue' do
     url 'http://dl.dafont.com/dl/?f=baron_neue'
     name 'Baron Neue'
     homepage 'http://www.dafont.com/baron-neue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baron Neue Black Italic.otf'
     font 'Baron Neue Black.otf'

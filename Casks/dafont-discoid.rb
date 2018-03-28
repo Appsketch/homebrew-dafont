@@ -5,7 +5,6 @@ cask 'dafont-discoid' do
     url 'http://dl.dafont.com/dl/?f=discoid'
     name 'Discoid'
     homepage 'http://www.dafont.com/discoid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'discoid.ttf'
 end

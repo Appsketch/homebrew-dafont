@@ -5,7 +5,6 @@ cask 'dafont-religious-symbols' do
     url 'http://dl.dafont.com/dl/?f=religious_symbols'
     name 'Religious Symbols'
     homepage 'http://www.dafont.com/religious-symbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ReligiousSymbols.ttf'
 end

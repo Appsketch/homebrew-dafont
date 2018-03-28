@@ -5,7 +5,6 @@ cask 'dafont-markies-fault' do
     url 'http://dl.dafont.com/dl/?f=markies_fault'
     name 'Markie&#039;s Fault'
     homepage 'http://www.dafont.com/markies-fault.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Markie s Fault.ttf'
 end

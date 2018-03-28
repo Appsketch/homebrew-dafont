@@ -5,7 +5,6 @@ cask 'dafont-vtks-black-label' do
     url 'http://dl.dafont.com/dl/?f=vtks_black_label'
     name 'Vtks Black Label'
     homepage 'http://www.dafont.com/vtks-black-label.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS Black Label Normal Filete.ttf'
     font 'VTKS Black Label Normal.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-xmaslite' do
     url 'http://dl.dafont.com/dl/?f=xmaslite'
     name 'Xmas Lite'
     homepage 'http://www.dafont.com/xmaslite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XmasLite.ttf'
 end

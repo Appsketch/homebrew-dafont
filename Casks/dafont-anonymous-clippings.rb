@@ -5,7 +5,6 @@ cask 'dafont-anonymous-clippings' do
     url 'http://dl.dafont.com/dl/?f=anonymous_clippings'
     name 'Anonymous Clippings'
     homepage 'http://www.dafont.com/anonymous-clippings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnonymousClippings.ttf'
 end

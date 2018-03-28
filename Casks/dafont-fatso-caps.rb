@@ -5,7 +5,6 @@ cask 'dafont-fatso-caps' do
     url 'http://dl.dafont.com/dl/?f=fatso_caps'
     name 'Fatso Caps'
     homepage 'http://www.dafont.com/fatso-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FATSOCAP.ttf'
 end

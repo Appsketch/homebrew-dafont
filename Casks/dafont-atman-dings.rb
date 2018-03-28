@@ -5,7 +5,6 @@ cask 'dafont-atman-dings' do
     url 'http://dl.dafont.com/dl/?f=atman_dings'
     name 'Atman Dings'
     homepage 'http://www.dafont.com/atman-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TT/ATMAB___.TTF'
     font 'TT/ATMAN-DI.TTF'

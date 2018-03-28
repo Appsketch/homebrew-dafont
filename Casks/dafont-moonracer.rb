@@ -5,7 +5,6 @@ cask 'dafont-moonracer' do
     url 'http://dl.dafont.com/dl/?f=moonracer'
     name 'Moonracer'
     homepage 'http://www.dafont.com/moonracer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'moonracr.ttf'
 end

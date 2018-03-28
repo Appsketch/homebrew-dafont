@@ -5,7 +5,6 @@ cask 'dafont-asiago' do
     url 'http://dl.dafont.com/dl/?f=asiago'
     name 'Asiago'
     homepage 'http://www.dafont.com/asiago.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Asiago.ttf'
 end

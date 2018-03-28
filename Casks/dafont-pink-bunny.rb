@@ -5,7 +5,6 @@ cask 'dafont-pink-bunny' do
     url 'http://dl.dafont.com/dl/?f=pink_bunny'
     name 'Pink Bunny'
     homepage 'http://www.dafont.com/pink-bunny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pink Bunny 2.ttf'
     font 'Pink Bunny.ttf'

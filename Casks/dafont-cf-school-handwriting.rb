@@ -5,7 +5,6 @@ cask 'dafont-cf-school-handwriting' do
     url 'http://dl.dafont.com/dl/?f=cf_school_handwriting'
     name 'CF School Handwriting'
     homepage 'http://www.dafont.com/cf-school-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFSchoolHandwriting-Regular.ttf'
 end

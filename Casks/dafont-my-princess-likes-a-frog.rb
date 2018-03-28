@@ -5,7 +5,6 @@ cask 'dafont-my-princess-likes-a-frog' do
     url 'http://dl.dafont.com/dl/?f=my_princess_likes_a_frog'
     name 'My princess likes a frog'
     homepage 'http://www.dafont.com/my-princess-likes-a-frog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My princess like a frog.ttf'
 end

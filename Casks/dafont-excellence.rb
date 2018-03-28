@@ -5,7 +5,6 @@ cask 'dafont-excellence' do
     url 'http://dl.dafont.com/dl/?f=excellence'
     name 'Excellence'
     homepage 'http://www.dafont.com/excellence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EXCEE___.TTF'
     font 'EXCELE__.TTF'

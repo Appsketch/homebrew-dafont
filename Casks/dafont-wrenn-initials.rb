@@ -5,7 +5,6 @@ cask 'dafont-wrenn-initials' do
     url 'http://dl.dafont.com/dl/?f=wrenn_initials'
     name 'Wrenn Initials'
     homepage 'http://www.dafont.com/wrenn-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wrenn Initials Blocked.ttf'
     font 'Wrenn Initials Bold.ttf'

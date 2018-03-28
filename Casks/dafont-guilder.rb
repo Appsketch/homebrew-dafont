@@ -5,7 +5,6 @@ cask 'dafont-guilder' do
     url 'http://dl.dafont.com/dl/?f=guilder'
     name 'Guilder'
     homepage 'http://www.dafont.com/guilder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Guilder Free.otf'
 end

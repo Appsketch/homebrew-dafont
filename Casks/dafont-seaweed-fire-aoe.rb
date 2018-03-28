@@ -5,7 +5,6 @@ cask 'dafont-seaweed-fire-aoe' do
     url 'http://dl.dafont.com/dl/?f=seaweed_fire_aoe'
     name 'Seaweed Fire AOE'
     homepage 'http://www.dafont.com/seaweed-fire-aoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEAWFA__.TTF'
 end

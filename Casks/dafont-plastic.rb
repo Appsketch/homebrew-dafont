@@ -5,7 +5,6 @@ cask 'dafont-plastic' do
     url 'http://dl.dafont.com/dl/?f=plastic'
     name 'Plastic'
     homepage 'http://www.dafont.com/plastic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kkplastc.ttf'
 end

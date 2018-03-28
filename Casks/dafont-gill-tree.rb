@@ -5,7 +5,6 @@ cask 'dafont-gill-tree' do
     url 'http://dl.dafont.com/dl/?f=gill_tree'
     name 'Gill Tree'
     homepage 'http://www.dafont.com/gill-tree.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gill Tree.ttf'
 end

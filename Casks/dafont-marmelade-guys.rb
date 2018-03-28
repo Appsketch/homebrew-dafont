@@ -5,7 +5,6 @@ cask 'dafont-marmelade-guys' do
     url 'http://dl.dafont.com/dl/?f=marmelade_guys'
     name 'Marmelade Guys'
     homepage 'http://www.dafont.com/marmelade-guys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'marmeladeguys.ttf'
 end

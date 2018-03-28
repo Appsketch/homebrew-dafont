@@ -5,7 +5,6 @@ cask 'dafont-springtyme' do
     url 'http://dl.dafont.com/dl/?f=springtyme'
     name 'Spring Tyme'
     homepage 'http://www.dafont.com/springtyme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpringTyme.ttf'
 end

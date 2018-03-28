@@ -5,7 +5,6 @@ cask 'dafont-003-mikey' do
     url 'http://dl.dafont.com/dl/?f=003_mikey'
     name '003 Mikey'
     homepage 'http://www.dafont.com/003-mikey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mikey.ttf'
 end

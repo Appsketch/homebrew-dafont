@@ -5,7 +5,6 @@ cask 'dafont-sparks-made-us' do
     url 'http://dl.dafont.com/dl/?f=sparks_made_us'
     name 'Sparks Made Us'
     homepage 'http://www.dafont.com/sparks-made-us.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPARKS MADE US.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djb-flower-power' do
     url 'http://dl.dafont.com/dl/?f=djb_flower_power'
     name 'DJB Flower Power'
     homepage 'http://www.dafont.com/djb-flower-power.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Flower Power 2.ttf'
     font 'DJB Flower Power.ttf'

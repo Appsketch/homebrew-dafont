@@ -5,7 +5,6 @@ cask 'dafont-popularculture' do
     url 'http://dl.dafont.com/dl/?f=popularculture'
     name 'Popular Culture'
     homepage 'http://www.dafont.com/popularculture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PopularCulture.ttf'
 end

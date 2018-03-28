@@ -5,7 +5,6 @@ cask 'dafont-iconian' do
     url 'http://dl.dafont.com/dl/?f=iconian'
     name 'Iconian'
     homepage 'http://www.dafont.com/iconian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'icon3d.ttf'
     font 'iconb.ttf'

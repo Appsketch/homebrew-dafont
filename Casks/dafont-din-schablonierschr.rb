@@ -5,7 +5,6 @@ cask 'dafont-din-schablonierschr' do
     url 'http://dl.dafont.com/dl/?f=din_schablonierschr'
     name 'DIN Schablonierschrift'
     homepage 'http://www.dafont.com/din-schablonierschr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DINSRG__.TTF'
 end

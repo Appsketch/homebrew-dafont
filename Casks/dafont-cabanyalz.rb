@@ -5,7 +5,6 @@ cask 'dafont-cabanyalz' do
     url 'http://dl.dafont.com/dl/?f=cabanyalz'
     name 'Cabanyal Z'
     homepage 'http://www.dafont.com/cabanyalz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cabanyal-Z.ttf'
 end

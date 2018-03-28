@@ -5,7 +5,6 @@ cask 'dafont-styleliner' do
     url 'http://dl.dafont.com/dl/?f=styleliner'
     name 'Style Liner'
     homepage 'http://www.dafont.com/styleliner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STYLL___.TTF'
 end

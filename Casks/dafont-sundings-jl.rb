@@ -5,7 +5,6 @@ cask 'dafont-sundings-jl' do
     url 'http://dl.dafont.com/dl/?f=sundings_jl'
     name 'Sundings JL'
     homepage 'http://www.dafont.com/sundings-jl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUNDINGS.TTF'
     font 'SUNDNGS2.TTF'

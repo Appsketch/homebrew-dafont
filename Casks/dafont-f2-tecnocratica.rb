@@ -5,7 +5,6 @@ cask 'dafont-f2-tecnocratica' do
     url 'http://dl.dafont.com/dl/?f=f2_tecnocratica'
     name 'F2 Tecnocr&aacute;tica'
     homepage 'http://www.dafont.com/f2-tecnocratica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'f2-tecnocratica-ffp.ttf'
 end

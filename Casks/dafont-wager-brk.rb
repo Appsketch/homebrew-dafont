@@ -5,7 +5,6 @@ cask 'dafont-wager-brk' do
     url 'http://dl.dafont.com/dl/?f=wager_brk'
     name 'Wager BRK'
     homepage 'http://www.dafont.com/wager-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wager.ttf'
     font 'wagerlos.ttf'

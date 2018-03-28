@@ -5,7 +5,6 @@ cask 'dafont-epitaph' do
     url 'http://dl.dafont.com/dl/?f=epitaph'
     name 'Epitaph'
     homepage 'http://www.dafont.com/epitaph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Epitaph-Regular.ttf'
 end

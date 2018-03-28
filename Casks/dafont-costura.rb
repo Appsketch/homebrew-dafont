@@ -5,7 +5,6 @@ cask 'dafont-costura' do
     url 'http://dl.dafont.com/dl/?f=costura'
     name 'Costura'
     homepage 'http://www.dafont.com/costura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'costura_bold.otf'
     font 'costura_demibold.otf'

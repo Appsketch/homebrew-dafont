@@ -5,7 +5,6 @@ cask 'dafont-mixcutouts' do
     url 'http://dl.dafont.com/dl/?f=mixcutouts'
     name 'Mix Cut Outs'
     homepage 'http://www.dafont.com/mixcutouts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixCutOuts.ttf'
 end

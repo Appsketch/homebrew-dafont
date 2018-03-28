@@ -5,7 +5,6 @@ cask 'dafont-angeleobardo' do
     url 'http://dl.dafont.com/dl/?f=angeleobardo'
     name 'Angeleobardo'
     homepage 'http://www.dafont.com/angeleobardo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'angeleobardo.ttf'
 end

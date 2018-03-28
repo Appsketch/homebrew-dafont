@@ -5,7 +5,6 @@ cask 'dafont-unca-pale-1' do
     url 'http://dl.dafont.com/dl/?f=unca_pale_1'
     name 'Unca Pale 1'
     homepage 'http://www.dafont.com/unca-pale-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unca2___.ttf'
     font 'Uncap___.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-universidad-2015' do
     url 'http://dl.dafont.com/dl/?f=universidad_2015'
     name 'Universidad 2015'
     homepage 'http://www.dafont.com/universidad-2015.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Universidad 2015.ttf'
 end

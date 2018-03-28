@@ -5,7 +5,6 @@ cask 'dafont-sliced-juice' do
     url 'http://dl.dafont.com/dl/?f=sliced_juice'
     name 'Sliced Juice'
     homepage 'http://www.dafont.com/sliced-juice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sliced_Juice.ttf'
 end

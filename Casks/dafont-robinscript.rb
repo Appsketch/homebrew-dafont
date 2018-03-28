@@ -5,7 +5,6 @@ cask 'dafont-robinscript' do
     url 'http://dl.dafont.com/dl/?f=robinscript'
     name 'Robin Script'
     homepage 'http://www.dafont.com/robinscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RobinScript.ttf'
 end

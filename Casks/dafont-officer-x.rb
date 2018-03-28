@@ -5,7 +5,6 @@ cask 'dafont-officer-x' do
     url 'http://dl.dafont.com/dl/?f=officer_x'
     name 'Officer X'
     homepage 'http://www.dafont.com/officer-x.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Officer X.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-rusty-cage' do
     url 'http://dl.dafont.com/dl/?f=dk_rusty_cage'
     name 'DK Rusty Cage'
     homepage 'http://www.dafont.com/dk-rusty-cage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Rusty Cage.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bandwidth' do
     url 'http://dl.dafont.com/dl/?f=bandwidth'
     name 'Bandwidth'
     homepage 'http://www.dafont.com/bandwidth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bandless.ttf'
     font 'bandmess.ttf'

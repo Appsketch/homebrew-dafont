@@ -5,7 +5,6 @@ cask 'dafont-parseltongue' do
     url 'http://dl.dafont.com/dl/?f=parseltongue'
     name 'Parseltongue'
     homepage 'http://www.dafont.com/parseltongue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PARSELTO.TTF'
 end

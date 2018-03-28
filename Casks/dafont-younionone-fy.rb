@@ -5,7 +5,6 @@ cask 'dafont-younionone-fy' do
     url 'http://dl.dafont.com/dl/?f=younionone_fy'
     name 'YounionOne FY'
     homepage 'http://www.dafont.com/younionone-fy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YounionOneFY-Regular_XS.ttf'
 end

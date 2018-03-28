@@ -5,7 +5,6 @@ cask 'dafont-sprite-comic' do
     url 'http://dl.dafont.com/dl/?f=sprite_comic'
     name 'Sprite Comic'
     homepage 'http://www.dafont.com/sprite-comic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sprite Comic.ttf'
 end

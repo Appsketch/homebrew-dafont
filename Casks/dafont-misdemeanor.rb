@@ -5,7 +5,6 @@ cask 'dafont-misdemeanor' do
     url 'http://dl.dafont.com/dl/?f=misdemeanor'
     name 'Misdemeanor'
     homepage 'http://www.dafont.com/misdemeanor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MisdemeanorDEMO-KCFonts.ttf'
 end

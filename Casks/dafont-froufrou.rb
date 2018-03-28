@@ -5,7 +5,6 @@ cask 'dafont-froufrou' do
     url 'http://dl.dafont.com/dl/?f=froufrou'
     name 'Froufrou'
     homepage 'http://www.dafont.com/froufrou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'froufrou.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cobra-on-coconut-tree' do
     url 'http://dl.dafont.com/dl/?f=cobra_on_coconut_tree'
     name 'Cobra on coconut tree'
     homepage 'http://www.dafont.com/cobra-on-coconut-tree.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COBRA on coconut tree.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-print-oldyz' do
     url 'http://dl.dafont.com/dl/?f=print_oldyz'
     name 'Print Oldyz'
     homepage 'http://www.dafont.com/print-oldyz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Print Oldyz.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tool' do
     url 'http://dl.dafont.com/dl/?f=tool'
     name 'Tool'
     homepage 'http://www.dafont.com/tool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tool.ttf'
 end

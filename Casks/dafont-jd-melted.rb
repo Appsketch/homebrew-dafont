@@ -5,7 +5,6 @@ cask 'dafont-jd-melted' do
     url 'http://dl.dafont.com/dl/?f=jd_melted'
     name 'JD Melted'
     homepage 'http://www.dafont.com/jd-melted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_melted.ttf'
 end

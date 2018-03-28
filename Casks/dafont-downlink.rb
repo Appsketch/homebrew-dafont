@@ -5,7 +5,6 @@ cask 'dafont-downlink' do
     url 'http://dl.dafont.com/dl/?f=downlink'
     name 'Downlink'
     homepage 'http://www.dafont.com/downlink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Downlink Bold Italic.otf'
     font 'Downlink Bold.otf'

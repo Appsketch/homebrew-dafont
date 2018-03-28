@@ -5,7 +5,6 @@ cask 'dafont-thwack' do
     url 'http://dl.dafont.com/dl/?f=thwack'
     name 'Thwack'
     homepage 'http://www.dafont.com/thwack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THWACK.TTF'
 end

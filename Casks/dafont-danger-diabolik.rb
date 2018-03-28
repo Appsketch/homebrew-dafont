@@ -5,7 +5,6 @@ cask 'dafont-danger-diabolik' do
     url 'http://dl.dafont.com/dl/?f=danger_diabolik'
     name 'Danger Diabolik'
     homepage 'http://www.dafont.com/danger-diabolik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Danger Diabolik.ttf'
 end

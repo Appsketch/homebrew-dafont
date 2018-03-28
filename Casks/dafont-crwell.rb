@@ -5,7 +5,6 @@ cask 'dafont-crwell' do
     url 'http://dl.dafont.com/dl/?f=crwell'
     name 'Crwell'
     homepage 'http://www.dafont.com/crwell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crwell.ttf'
 end

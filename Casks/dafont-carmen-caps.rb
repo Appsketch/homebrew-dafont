@@ -5,7 +5,6 @@ cask 'dafont-carmen-caps' do
     url 'http://dl.dafont.com/dl/?f=carmen_caps'
     name 'Carmen Caps'
     homepage 'http://www.dafont.com/carmen-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CARMC___.TTF'
     font 'CARMCI__.TTF'

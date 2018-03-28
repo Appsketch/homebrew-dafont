@@ -5,7 +5,6 @@ cask 'dafont-le-silence-des-cafards' do
     url 'http://dl.dafont.com/dl/?f=le_silence_des_cafards'
     name 'Le silence des cafards'
     homepage 'http://www.dafont.com/le-silence-des-cafards.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LE SILENCE DES CAFARDS.ttf'
 end

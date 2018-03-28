@@ -5,7 +5,6 @@ cask 'dafont-bestdayever' do
     url 'http://dl.dafont.com/dl/?f=bestdayever'
     name 'Best Day Ever'
     homepage 'http://www.dafont.com/bestdayever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BestDayEver.ttf'
 end

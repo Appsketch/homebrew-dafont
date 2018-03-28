@@ -5,7 +5,6 @@ cask 'dafont-hotflash' do
     url 'http://dl.dafont.com/dl/?f=hotflash'
     name 'Hot Flash'
     homepage 'http://www.dafont.com/hotflash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HotFlash.ttf'
 end

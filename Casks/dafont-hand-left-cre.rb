@@ -5,7 +5,6 @@ cask 'dafont-hand-left-cre' do
     url 'http://dl.dafont.com/dl/?f=hand_left_cre'
     name 'Hand Left Cre'
     homepage 'http://www.dafont.com/hand-left-cre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HAND_LEFT_CRE.ttf'
 end

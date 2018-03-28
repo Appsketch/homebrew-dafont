@@ -5,7 +5,6 @@ cask 'dafont-aerospace' do
     url 'http://dl.dafont.com/dl/?f=aerospace'
     name 'Aerospace'
     homepage 'http://www.dafont.com/aerospace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aerospace.ttf'
 end

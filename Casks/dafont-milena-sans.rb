@@ -5,7 +5,6 @@ cask 'dafont-milena-sans' do
     url 'http://dl.dafont.com/dl/?f=milena_sans'
     name 'Milena Sans'
     homepage 'http://www.dafont.com/milena-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MilenaSans 4ot.otf'
 end

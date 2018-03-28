@@ -5,7 +5,6 @@ cask 'dafont-easy-going' do
     url 'http://dl.dafont.com/dl/?f=easy_going'
     name 'Easy Going'
     homepage 'http://www.dafont.com/easy-going.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Easy Going.ttf'
 end

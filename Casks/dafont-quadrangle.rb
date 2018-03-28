@@ -5,7 +5,6 @@ cask 'dafont-quadrangle' do
     url 'http://dl.dafont.com/dl/?f=quadrangle'
     name 'Quadrangle'
     homepage 'http://www.dafont.com/quadrangle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quadrangle.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-killam' do
     url 'http://dl.dafont.com/dl/?f=killam'
     name 'Killam'
     homepage 'http://www.dafont.com/killam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Killam-Bold.ttf'
 end

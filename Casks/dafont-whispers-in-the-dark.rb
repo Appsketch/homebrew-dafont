@@ -5,7 +5,6 @@ cask 'dafont-whispers-in-the-dark' do
     url 'http://dl.dafont.com/dl/?f=whispers_in_the_dark'
     name 'Whispers in the dark'
     homepage 'http://www.dafont.com/whispers-in-the-dark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Whispers in the dark.ttf'
 end

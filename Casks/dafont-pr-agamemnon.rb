@@ -5,7 +5,6 @@ cask 'dafont-pr-agamemnon' do
     url 'http://dl.dafont.com/dl/?f=pr_agamemnon'
     name 'PR Agamemnon '
     homepage 'http://www.dafont.com/pr-agamemnon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PRAGBTL_.TTF'
 end

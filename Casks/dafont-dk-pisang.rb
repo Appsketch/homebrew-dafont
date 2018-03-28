@@ -5,7 +5,6 @@ cask 'dafont-dk-pisang' do
     url 'http://dl.dafont.com/dl/?f=dk_pisang'
     name 'DK Pisang'
     homepage 'http://www.dafont.com/dk-pisang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Pisang.otf'
 end

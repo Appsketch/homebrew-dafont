@@ -5,7 +5,6 @@ cask 'dafont-godofwar' do
     url 'http://dl.dafont.com/dl/?f=godofwar'
     name 'God Of War'
     homepage 'http://www.dafont.com/godofwar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GODOFWAR.TTF'
 end

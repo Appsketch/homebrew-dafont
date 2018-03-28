@@ -5,7 +5,6 @@ cask 'dafont-ohmu' do
     url 'http://dl.dafont.com/dl/?f=ohmu'
     name 'Ohmu'
     homepage 'http://www.dafont.com/ohmu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OHMU.ttf'
 end

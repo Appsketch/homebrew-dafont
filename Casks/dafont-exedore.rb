@@ -5,7 +5,6 @@ cask 'dafont-exedore' do
     url 'http://dl.dafont.com/dl/?f=exedore'
     name 'Exedore'
     homepage 'http://www.dafont.com/exedore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'exedore.ttf'
     font 'exedore3d.ttf'

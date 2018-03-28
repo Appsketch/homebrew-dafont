@@ -5,7 +5,6 @@ cask 'dafont-army-of-me' do
     url 'http://dl.dafont.com/dl/?f=army_of_me'
     name 'Army of me'
     homepage 'http://www.dafont.com/army-of-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'army of me.ttf'
 end

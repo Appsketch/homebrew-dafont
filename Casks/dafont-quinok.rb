@@ -5,7 +5,6 @@ cask 'dafont-quinok' do
     url 'http://dl.dafont.com/dl/?f=quinok'
     name 'Qui&ntilde;&oacute;k'
     homepage 'http://www.dafont.com/quinok.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'qui&curren;&cent;k.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-seven-swordsmen-bb' do
     url 'http://dl.dafont.com/dl/?f=seven_swordsmen_bb'
     name 'Seven Swordsmen BB'
     homepage 'http://www.dafont.com/seven-swordsmen-bb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEVESBRG.TTF'
 end

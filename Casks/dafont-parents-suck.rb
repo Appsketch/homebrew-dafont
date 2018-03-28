@@ -5,7 +5,6 @@ cask 'dafont-parents-suck' do
     url 'http://dl.dafont.com/dl/?f=parents_suck'
     name 'Parents Suck'
     homepage 'http://www.dafont.com/parents-suck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'parentssuck.ttf'
 end

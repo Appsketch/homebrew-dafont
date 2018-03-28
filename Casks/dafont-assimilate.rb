@@ -5,7 +5,6 @@ cask 'dafont-assimilate' do
     url 'http://dl.dafont.com/dl/?f=assimilate'
     name 'Assimilate'
     homepage 'http://www.dafont.com/assimilate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Assimilate.ttf'
 end

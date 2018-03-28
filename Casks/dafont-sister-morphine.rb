@@ -5,7 +5,6 @@ cask 'dafont-sister-morphine' do
     url 'http://dl.dafont.com/dl/?f=sister_morphine'
     name 'Sister Morphine'
     homepage 'http://www.dafont.com/sister-morphine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sister Morphine.ttf'
 end

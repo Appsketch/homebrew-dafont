@@ -5,7 +5,6 @@ cask 'dafont-amateur' do
     url 'http://dl.dafont.com/dl/?f=amateur'
     name 'Amateur'
     homepage 'http://www.dafont.com/amateur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amateur Dirty.ttf'
     font 'Amateur Naked.ttf'

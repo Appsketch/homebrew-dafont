@@ -5,7 +5,6 @@ cask 'dafont-cinga' do
     url 'http://dl.dafont.com/dl/?f=cinga'
     name 'Cinga'
     homepage 'http://www.dafont.com/cinga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cinga Light.otf'
     font 'Cinga Medium.otf'

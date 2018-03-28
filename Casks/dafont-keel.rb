@@ -5,7 +5,6 @@ cask 'dafont-keel' do
     url 'http://dl.dafont.com/dl/?f=keel'
     name 'Keel'
     homepage 'http://www.dafont.com/keel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KEEL.ttf'
 end

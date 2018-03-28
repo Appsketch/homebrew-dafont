@@ -5,7 +5,6 @@ cask 'dafont-ruoste' do
     url 'http://dl.dafont.com/dl/?f=ruoste'
     name 'Ruoste'
     homepage 'http://www.dafont.com/ruoste.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ruoste.ttf'
 end

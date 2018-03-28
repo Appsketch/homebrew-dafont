@@ -5,7 +5,6 @@ cask 'dafont-in-the-flesh' do
     url 'http://dl.dafont.com/dl/?f=in_the_flesh'
     name 'In The Flesh'
     homepage 'http://www.dafont.com/in-the-flesh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'intheflesh____.ttf'
 end

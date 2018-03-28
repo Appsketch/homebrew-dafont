@@ -5,7 +5,6 @@ cask 'dafont-essential-arrangement' do
     url 'http://dl.dafont.com/dl/?f=essential_arrangement'
     name 'Essential Arrangement'
     homepage 'http://www.dafont.com/essential-arrangement.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'essential arrangement.ttf'
 end

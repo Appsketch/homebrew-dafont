@@ -5,7 +5,6 @@ cask 'dafont-kleptooperagrunge' do
     url 'http://dl.dafont.com/dl/?f=kleptooperagrunge'
     name 'Klepto Opera Grunge'
     homepage 'http://www.dafont.com/kleptooperagrunge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KleptoOperaGrunge.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ransom' do
     url 'http://dl.dafont.com/dl/?f=ransom'
     name 'Ransom'
     homepage 'http://www.dafont.com/ransom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ransom.ttf'
 end

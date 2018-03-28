@@ -5,7 +5,6 @@ cask 'dafont-ckellp' do
     url 'http://dl.dafont.com/dl/?f=ckellp'
     name 'Ckellp'
     homepage 'http://www.dafont.com/ckellp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ckellip font.ttf'
 end

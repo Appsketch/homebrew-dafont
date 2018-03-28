@@ -5,7 +5,6 @@ cask 'dafont-mionta' do
     url 'http://dl.dafont.com/dl/?f=mionta'
     name 'Mionta'
     homepage 'http://www.dafont.com/mionta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mionta.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-little-big-man' do
     url 'http://dl.dafont.com/dl/?f=little_big_man'
     name 'Little Big Man'
     homepage 'http://www.dafont.com/little-big-man.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Little Big Man.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-reverend-josh' do
     url 'http://dl.dafont.com/dl/?f=reverend_josh'
     name 'Reverend Josh'
     homepage 'http://www.dafont.com/reverend-josh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REV.TTF'
 end

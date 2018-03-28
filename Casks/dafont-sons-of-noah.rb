@@ -5,7 +5,6 @@ cask 'dafont-sons-of-noah' do
     url 'http://dl.dafont.com/dl/?f=sons_of_noah'
     name 'Sons of Noah'
     homepage 'http://www.dafont.com/sons-of-noah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SonsofNoah-Italic.ttf'
     font 'SonsofNoah-Regular.ttf'

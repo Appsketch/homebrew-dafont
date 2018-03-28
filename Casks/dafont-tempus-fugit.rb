@@ -5,7 +5,6 @@ cask 'dafont-tempus-fugit' do
     url 'http://dl.dafont.com/dl/?f=tempus_fugit'
     name 'Tempus Fugit'
     homepage 'http://www.dafont.com/tempus-fugit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tempus Fugit.ttf'
 end

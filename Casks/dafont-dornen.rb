@@ -5,7 +5,6 @@ cask 'dafont-dornen' do
     url 'http://dl.dafont.com/dl/?f=dornen'
     name 'Dornen'
     homepage 'http://www.dafont.com/dornen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DORNEN__.TTF'
 end

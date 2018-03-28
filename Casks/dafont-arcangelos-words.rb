@@ -5,7 +5,6 @@ cask 'dafont-arcangelos-words' do
     url 'http://dl.dafont.com/dl/?f=arcangelos_words'
     name 'Arcangelo&#039;s Words'
     homepage 'http://www.dafont.com/arcangelos-words.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arcangelos Words.ttf'
 end

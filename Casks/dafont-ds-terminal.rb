@@ -5,7 +5,6 @@ cask 'dafont-ds-terminal' do
     url 'http://dl.dafont.com/dl/?f=ds_terminal'
     name 'DS Terminal'
     homepage 'http://www.dafont.com/ds-terminal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DS-TERM.TTF'
 end

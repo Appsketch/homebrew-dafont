@@ -5,7 +5,6 @@ cask 'dafont-plig-nova' do
     url 'http://dl.dafont.com/dl/?f=plig_nova'
     name 'Plig Nova'
     homepage 'http://www.dafont.com/plig-nova.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plig nova para dafont solo letras.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-comic-block' do
     url 'http://dl.dafont.com/dl/?f=comic_block'
     name 'Comic Block'
     homepage 'http://www.dafont.com/comic-block.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comic Block  DEMO by Marta van Eck.ttf'
 end

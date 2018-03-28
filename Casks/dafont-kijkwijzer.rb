@@ -5,7 +5,6 @@ cask 'dafont-kijkwijzer' do
     url 'http://dl.dafont.com/dl/?f=kijkwijzer'
     name 'Kijkwijzer'
     homepage 'http://www.dafont.com/kijkwijzer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KIJKB___.TTF'
 end

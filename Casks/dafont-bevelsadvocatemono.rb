@@ -5,7 +5,6 @@ cask 'dafont-bevelsadvocatemono' do
     url 'http://dl.dafont.com/dl/?f=bevelsadvocatemono'
     name 'Bevel&#039;sAdvocateMono'
     homepage 'http://www.dafont.com/bevelsadvocatemono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bevelsadvocatemono.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-thirties-relief' do
     url 'http://dl.dafont.com/dl/?f=thirties_relief'
     name 'Thirties Relief'
     homepage 'http://www.dafont.com/thirties-relief.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thirties Relief.ttf'
 end

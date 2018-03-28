@@ -5,7 +5,6 @@ cask 'dafont-endor' do
     url 'http://dl.dafont.com/dl/?f=endor'
     name 'Endor'
     homepage 'http://www.dafont.com/endor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ENDOR___.ttf'
 end

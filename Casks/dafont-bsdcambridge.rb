@@ -5,7 +5,6 @@ cask 'dafont-bsdcambridge' do
     url 'http://dl.dafont.com/dl/?f=bsdcambridge'
     name 'BSD Cambridge'
     homepage 'http://www.dafont.com/bsdcambridge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BSD Cambridge.ttf'
 end

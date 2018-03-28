@@ -5,7 +5,6 @@ cask 'dafont-receipt-paper-radiation' do
     url 'http://dl.dafont.com/dl/?f=receipt_paper_radiation'
     name 'Receipt Paper Radiation'
     homepage 'http://www.dafont.com/receipt-paper-radiation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'receipt_paper_radiation.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-groovy-fast' do
     url 'http://dl.dafont.com/dl/?f=groovy_fast'
     name 'Groovy Fast'
     homepage 'http://www.dafont.com/groovy-fast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Groovy Fast.ttf'
 end

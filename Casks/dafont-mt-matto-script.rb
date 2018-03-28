@@ -5,7 +5,6 @@ cask 'dafont-mt-matto-script' do
     url 'http://dl.dafont.com/dl/?f=mt_matto_script'
     name 'MT Matto Script'
     homepage 'http://www.dafont.com/mt-matto-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTMASB__.TTF'
     font 'MTMASN__.TTF'

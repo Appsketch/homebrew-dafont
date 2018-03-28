@@ -5,7 +5,6 @@ cask 'dafont-floating-tin-can' do
     url 'http://dl.dafont.com/dl/?f=floating_tin_can'
     name 'Floating tin can'
     homepage 'http://www.dafont.com/floating-tin-can.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Floating tin can.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-space-patrol' do
     url 'http://dl.dafont.com/dl/?f=space_patrol'
     name 'Space Patrol'
     homepage 'http://www.dafont.com/space-patrol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPACP___.TTF'
 end

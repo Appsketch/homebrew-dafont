@@ -5,7 +5,6 @@ cask 'dafont-ltr06' do
     url 'http://dl.dafont.com/dl/?f=ltr06'
     name 'LTR-06: Artcore'
     homepage 'http://www.dafont.com/ltr06.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ltr06.ttf'
 end

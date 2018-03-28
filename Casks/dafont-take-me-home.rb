@@ -5,7 +5,6 @@ cask 'dafont-take-me-home' do
     url 'http://dl.dafont.com/dl/?f=take_me_home'
     name 'Take Me Home'
     homepage 'http://www.dafont.com/take-me-home.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TAKE ME HOME.ttf'
 end

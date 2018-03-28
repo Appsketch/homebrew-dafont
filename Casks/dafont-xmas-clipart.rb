@@ -5,7 +5,6 @@ cask 'dafont-xmas-clipart' do
     url 'http://dl.dafont.com/dl/?f=xmas_clipart'
     name 'Xmas Clipart'
     homepage 'http://www.dafont.com/xmas-clipart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xmasclip.ttf'
 end

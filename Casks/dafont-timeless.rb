@@ -5,7 +5,6 @@ cask 'dafont-timeless' do
     url 'http://dl.dafont.com/dl/?f=timeless'
     name 'Timeless'
     homepage 'http://www.dafont.com/timeless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Timeless-Bold.ttf'
     font 'Timeless.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-fairly-oddfont' do
     url 'http://dl.dafont.com/dl/?f=fairly_oddfont'
     name 'Fairly OddFont'
     homepage 'http://www.dafont.com/fairly-oddfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fairlyoddfont.ttf'
 end

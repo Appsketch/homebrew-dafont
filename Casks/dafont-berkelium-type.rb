@@ -5,7 +5,6 @@ cask 'dafont-berkelium-type' do
     url 'http://dl.dafont.com/dl/?f=berkelium_type'
     name 'Berkelium Type'
     homepage 'http://www.dafont.com/berkelium-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kkberktp.ttf'
 end

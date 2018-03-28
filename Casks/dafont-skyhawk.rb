@@ -5,7 +5,6 @@ cask 'dafont-skyhawk' do
     url 'http://dl.dafont.com/dl/?f=skyhawk'
     name 'Skyhawk'
     homepage 'http://www.dafont.com/skyhawk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skyhawk.ttf'
     font 'skyhawk3d.ttf'

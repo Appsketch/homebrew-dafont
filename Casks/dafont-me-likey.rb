@@ -5,7 +5,6 @@ cask 'dafont-me-likey' do
     url 'http://dl.dafont.com/dl/?f=me_likey'
     name 'Me Likey'
     homepage 'http://www.dafont.com/me-likey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Me Likey.ttf'
 end

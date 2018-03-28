@@ -5,7 +5,6 @@ cask 'dafont-sweeep' do
     url 'http://dl.dafont.com/dl/?f=sweeep'
     name 'Sweeep'
     homepage 'http://www.dafont.com/sweeep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sweeep.ttf'
 end

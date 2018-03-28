@@ -5,7 +5,6 @@ cask 'dafont-zephiroth' do
     url 'http://dl.dafont.com/dl/?f=zephiroth'
     name 'Zephiroth'
     homepage 'http://www.dafont.com/zephiroth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zephiroth Straight.ttf'
     font 'Zephiroth.ttf'

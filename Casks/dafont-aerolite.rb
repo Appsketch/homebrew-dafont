@@ -5,7 +5,6 @@ cask 'dafont-aerolite' do
     url 'http://dl.dafont.com/dl/?f=aerolite'
     name 'Aerolite'
     homepage 'http://www.dafont.com/aerolite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aerolite Bold Italic.ttf'
     font 'Aerolite Bold.ttf'

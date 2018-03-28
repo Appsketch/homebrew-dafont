@@ -5,7 +5,6 @@ cask 'dafont-ugly-hand-writing' do
     url 'http://dl.dafont.com/dl/?f=ugly_hand_writing'
     name 'Ugly Hand Writing'
     homepage 'http://www.dafont.com/ugly-hand-writing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ugly handwriting.ttf'
 end

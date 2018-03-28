@@ -5,7 +5,6 @@ cask 'dafont-motoring' do
     url 'http://dl.dafont.com/dl/?f=motoring'
     name 'Motoring'
     homepage 'http://www.dafont.com/motoring.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Motoring.ttf'
 end

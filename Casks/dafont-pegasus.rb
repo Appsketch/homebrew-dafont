@@ -5,7 +5,6 @@ cask 'dafont-pegasus' do
     url 'http://dl.dafont.com/dl/?f=pegasus'
     name 'Pegasus'
     homepage 'http://www.dafont.com/pegasus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PEGASUS 2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-acid-dreamer' do
     url 'http://dl.dafont.com/dl/?f=acid_dreamer'
     name 'Acid Dreamer'
     homepage 'http://www.dafont.com/acid-dreamer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Acidd.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-aldo-dattoli' do
     url 'http://dl.dafont.com/dl/?f=aldo_dattoli'
     name 'Aldo Dattoli'
     homepage 'http://www.dafont.com/aldo-dattoli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aldo Dattoli.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kg-alphabet-regurgitation' do
     url 'http://dl.dafont.com/dl/?f=kg_alphabet_regurgitation'
     name 'KG Alphabet Regurgitation'
     homepage 'http://www.dafont.com/kg-alphabet-regurgitation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGAlphabetRegurgitation.otf'
 end

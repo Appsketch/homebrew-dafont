@@ -5,7 +5,6 @@ cask 'dafont-right-where-it-belongs' do
     url 'http://dl.dafont.com/dl/?f=right_where_it_belongs'
     name 'Right where it belongs'
     homepage 'http://www.dafont.com/right-where-it-belongs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Right where it belongs.ttf'
 end

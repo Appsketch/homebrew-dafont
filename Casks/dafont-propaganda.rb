@@ -5,7 +5,6 @@ cask 'dafont-propaganda' do
     url 'http://dl.dafont.com/dl/?f=propaganda'
     name 'Propaganda'
     homepage 'http://www.dafont.com/propaganda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PROPAGAN.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-home-remedy' do
     url 'http://dl.dafont.com/dl/?f=home_remedy'
     name 'Home Remedy'
     homepage 'http://www.dafont.com/home-remedy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HomeRem.ttf'
 end

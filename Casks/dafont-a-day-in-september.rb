@@ -5,7 +5,6 @@ cask 'dafont-a-day-in-september' do
     url 'http://dl.dafont.com/dl/?f=a_day_in_september'
     name 'A Day in September'
     homepage 'http://www.dafont.com/a-day-in-september.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ADayinSeptember.otf'
 end

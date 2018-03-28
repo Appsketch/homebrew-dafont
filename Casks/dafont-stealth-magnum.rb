@@ -5,7 +5,6 @@ cask 'dafont-stealth-magnum' do
     url 'http://dl.dafont.com/dl/?f=stealth_magnum'
     name 'Stealth Magnum'
     homepage 'http://www.dafont.com/stealth-magnum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stealth Magnum Bold.ttf'
     font 'Stealth Magnum.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-lightbreak' do
     url 'http://dl.dafont.com/dl/?f=lightbreak'
     name 'Light Break'
     homepage 'http://www.dafont.com/lightbreak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LightBreak.ttf'
 end

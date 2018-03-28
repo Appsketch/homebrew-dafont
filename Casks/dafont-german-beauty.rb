@@ -5,7 +5,6 @@ cask 'dafont-german-beauty' do
     url 'http://dl.dafont.com/dl/?f=german_beauty'
     name 'German Beauty'
     homepage 'http://www.dafont.com/german-beauty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'German Beauty.ttf'
 end

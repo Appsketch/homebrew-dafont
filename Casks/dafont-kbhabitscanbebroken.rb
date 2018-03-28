@@ -5,7 +5,6 @@ cask 'dafont-kbhabitscanbebroken' do
     url 'http://dl.dafont.com/dl/?f=kbhabitscanbebroken'
     name 'KB Habits Can Be Broken'
     homepage 'http://www.dafont.com/kbhabitscanbebroken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBHabitsCanBeBroken.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-scarface' do
     url 'http://dl.dafont.com/dl/?f=scarface'
     name 'Scarface'
     homepage 'http://www.dafont.com/scarface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCARFACE.ttf'
 end

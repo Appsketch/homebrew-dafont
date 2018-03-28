@@ -5,7 +5,6 @@ cask 'dafont-elbjorg' do
     url 'http://dl.dafont.com/dl/?f=elbjorg'
     name 'Elbjorg'
     homepage 'http://www.dafont.com/elbjorg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eldbjtt.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-looong-time-no-see-sam' do
     url 'http://dl.dafont.com/dl/?f=looong_time_no_see_sam'
     name 'Looong time no see Sam'
     homepage 'http://www.dafont.com/looong-time-no-see-sam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Looong time no see Sam Demo.ttf'
 end

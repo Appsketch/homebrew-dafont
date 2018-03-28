@@ -5,7 +5,6 @@ cask 'dafont-yamdum-style' do
     url 'http://dl.dafont.com/dl/?f=yamdum_style'
     name 'Yamdum Style'
     homepage 'http://www.dafont.com/yamdum-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yamdum style.ttf'
 end

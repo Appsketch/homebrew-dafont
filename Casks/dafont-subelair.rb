@@ -5,7 +5,6 @@ cask 'dafont-subelair' do
     url 'http://dl.dafont.com/dl/?f=subelair'
     name 'Subelair'
     homepage 'http://www.dafont.com/subelair.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'subel.ttf'
 end

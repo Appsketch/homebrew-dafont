@@ -5,7 +5,6 @@ cask 'dafont-corner-dark' do
     url 'http://dl.dafont.com/dl/?f=corner_dark'
     name 'Corner Dark'
     homepage 'http://www.dafont.com/corner-dark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Corner Dark Distance.ttf'
     font 'Corner Dark Just X.ttf'

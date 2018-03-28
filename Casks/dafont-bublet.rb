@@ -5,7 +5,6 @@ cask 'dafont-bublet' do
     url 'http://dl.dafont.com/dl/?f=bublet'
     name 'Bublet'
     homepage 'http://www.dafont.com/bublet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bublet 3.1.1.42.ttf'
 end

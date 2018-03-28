@@ -5,7 +5,6 @@ cask 'dafont-saint-andrew-des-kiwis' do
     url 'http://dl.dafont.com/dl/?f=saint_andrew_des_kiwis'
     name 'Saint Andrew des Kiwis'
     homepage 'http://www.dafont.com/saint-andrew-des-kiwis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SaintAndrewdesKiwis.ttf'
 end

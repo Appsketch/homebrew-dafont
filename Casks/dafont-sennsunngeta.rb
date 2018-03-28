@@ -5,7 +5,6 @@ cask 'dafont-sennsunngeta' do
     url 'http://dl.dafont.com/dl/?f=sennsunngeta'
     name 'Sennsunngeta'
     homepage 'http://www.dafont.com/sennsunngeta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sennsunngeta.ttf'
 end

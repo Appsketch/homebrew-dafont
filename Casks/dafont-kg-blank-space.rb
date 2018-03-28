@@ -5,7 +5,6 @@ cask 'dafont-kg-blank-space' do
     url 'http://dl.dafont.com/dl/?f=kg_blank_space'
     name 'KG Blank Space'
     homepage 'http://www.dafont.com/kg-blank-space.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGBlankSpaceSketch.ttf'
     font 'KGBlankSpaceSolid.ttf'

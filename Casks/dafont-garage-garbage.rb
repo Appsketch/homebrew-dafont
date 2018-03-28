@@ -5,7 +5,6 @@ cask 'dafont-garage-garbage' do
     url 'http://dl.dafont.com/dl/?f=garage_garbage'
     name 'Garage Garbage'
     homepage 'http://www.dafont.com/garage-garbage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'garage_garbage.ttf'
 end

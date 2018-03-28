@@ -5,7 +5,6 @@ cask 'dafont-berus-rambut-kuda' do
     url 'http://dl.dafont.com/dl/?f=berus_rambut_kuda'
     name 'Berus Rambut Kuda'
     homepage 'http://www.dafont.com/berus-rambut-kuda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Berus Rambut Kuda.ttf'
 end

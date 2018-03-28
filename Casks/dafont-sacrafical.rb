@@ -5,7 +5,6 @@ cask 'dafont-sacrafical' do
     url 'http://dl.dafont.com/dl/?f=sacrafical'
     name 'Sacrafical'
     homepage 'http://www.dafont.com/sacrafical.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SACRAFIC.TTF'
 end

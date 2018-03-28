@@ -5,7 +5,6 @@ cask 'dafont-paulistana-deco' do
     url 'http://dl.dafont.com/dl/?f=paulistana_deco'
     name 'Paulistana Deco'
     homepage 'http://www.dafont.com/paulistana-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'paulistana_deco.ttf'
 end

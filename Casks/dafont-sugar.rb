@@ -5,7 +5,6 @@ cask 'dafont-sugar' do
     url 'http://dl.dafont.com/dl/?f=sugar'
     name 'Sugar'
     homepage 'http://www.dafont.com/sugar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dissolve.ttf'
     font 'SUGAR.TTF'

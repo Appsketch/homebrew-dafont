@@ -5,7 +5,6 @@ cask 'dafont-oklahoma3' do
     url 'http://dl.dafont.com/dl/?f=oklahoma3'
     name 'Oklahoma'
     homepage 'http://www.dafont.com/oklahoma3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oklahoma.ttf'
 end

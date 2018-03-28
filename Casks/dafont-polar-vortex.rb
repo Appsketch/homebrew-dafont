@@ -5,7 +5,6 @@ cask 'dafont-polar-vortex' do
     url 'http://dl.dafont.com/dl/?f=polar_vortex'
     name 'Polar Vortex'
     homepage 'http://www.dafont.com/polar-vortex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POLAR VORTEX &cedil; PERSONAL USE ONLY.ttf'
 end

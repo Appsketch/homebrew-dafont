@@ -5,7 +5,6 @@ cask 'dafont-bn-suck-my-balls' do
     url 'http://dl.dafont.com/dl/?f=bn_suck_my_balls'
     name 'BN Suck My Balls'
     homepage 'http://www.dafont.com/bn-suck-my-balls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Suck My Balls.ttf'
 end

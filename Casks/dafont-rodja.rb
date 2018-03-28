@@ -5,7 +5,6 @@ cask 'dafont-rodja' do
     url 'http://dl.dafont.com/dl/?f=rodja'
     name 'Rodja'
     homepage 'http://www.dafont.com/rodja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rodja Alt End Slanted.ttf'
     font 'Rodja Alternates End.ttf'

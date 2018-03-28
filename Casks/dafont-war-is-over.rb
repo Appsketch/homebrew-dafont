@@ -5,7 +5,6 @@ cask 'dafont-war-is-over' do
     url 'http://dl.dafont.com/dl/?f=war_is_over'
     name 'War is Over'
     homepage 'http://www.dafont.com/war-is-over.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'War is Over.ttf'
 end

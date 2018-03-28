@@ -5,7 +5,6 @@ cask 'dafont-noveey' do
     url 'http://dl.dafont.com/dl/?f=noveey'
     name 'Noveey'
     homepage 'http://www.dafont.com/noveey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Noveey -Bold.ttf'
     font 'Noveey-Italic.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-elvi-esna' do
     url 'http://dl.dafont.com/dl/?f=elvi_esna'
     name 'Elvi Esna'
     homepage 'http://www.dafont.com/elvi-esna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elvi_Esna.ttf'
 end

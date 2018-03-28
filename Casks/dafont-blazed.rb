@@ -5,7 +5,6 @@ cask 'dafont-blazed' do
     url 'http://dl.dafont.com/dl/?f=blazed'
     name 'Blazed'
     homepage 'http://www.dafont.com/blazed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blazed.ttf'
 end

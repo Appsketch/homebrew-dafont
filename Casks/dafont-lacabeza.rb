@@ -5,7 +5,6 @@ cask 'dafont-lacabeza' do
     url 'http://dl.dafont.com/dl/?f=lacabeza'
     name 'Lacabeza'
     homepage 'http://www.dafont.com/lacabeza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lacabeza.ttf'
 end

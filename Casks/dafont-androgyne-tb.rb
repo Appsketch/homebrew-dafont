@@ -5,7 +5,6 @@ cask 'dafont-androgyne-tb' do
     url 'http://dl.dafont.com/dl/?f=androgyne_tb'
     name 'Androgyne'
     homepage 'http://www.dafont.com/androgyne-tb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Androgyne_TB.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pw-gothic-style' do
     url 'http://dl.dafont.com/dl/?f=pw_gothic_style'
     name 'PW Gothic Style'
     homepage 'http://www.dafont.com/pw-gothic-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PW Gothic Style.ttf'
 end

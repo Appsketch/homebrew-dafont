@@ -5,7 +5,6 @@ cask 'dafont-mougatine' do
     url 'http://dl.dafont.com/dl/?f=mougatine'
     name 'Mougatine'
     homepage 'http://www.dafont.com/mougatine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mougatine.ttf'
 end

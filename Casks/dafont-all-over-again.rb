@@ -5,7 +5,6 @@ cask 'dafont-all-over-again' do
     url 'http://dl.dafont.com/dl/?f=all_over_again'
     name 'All Over Again'
     homepage 'http://www.dafont.com/all-over-again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AllOverAgain.ttf'
     font 'AllOverAgainAllCaps.ttf'

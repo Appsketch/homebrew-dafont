@@ -5,7 +5,6 @@ cask 'dafont-hypertension' do
     url 'http://dl.dafont.com/dl/?f=hypertension'
     name 'Hypertension'
     homepage 'http://www.dafont.com/hypertension.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hypertension.ttf'
 end

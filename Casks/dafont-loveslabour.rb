@@ -5,7 +5,6 @@ cask 'dafont-loveslabour' do
     url 'http://dl.dafont.com/dl/?f=loveslabour'
     name 'Loves Labour'
     homepage 'http://www.dafont.com/loveslabour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lovlab2U.ttf'
 end

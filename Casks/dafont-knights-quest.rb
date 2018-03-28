@@ -5,7 +5,6 @@ cask 'dafont-knights-quest' do
     url 'http://dl.dafont.com/dl/?f=knights_quest'
     name 'Knight&#039;s Quest'
     homepage 'http://www.dafont.com/knights-quest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Knights Quest Callig.ttf'
     font 'Knights Quest Shielded.ttf'

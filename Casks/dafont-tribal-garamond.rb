@@ -5,7 +5,6 @@ cask 'dafont-tribal-garamond' do
     url 'http://dl.dafont.com/dl/?f=tribal_garamond'
     name 'Tribal Garamond'
     homepage 'http://www.dafont.com/tribal-garamond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tribal Garamond.ttf'
 end

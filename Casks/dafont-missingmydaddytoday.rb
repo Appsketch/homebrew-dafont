@@ -5,7 +5,6 @@ cask 'dafont-missingmydaddytoday' do
     url 'http://dl.dafont.com/dl/?f=missingmydaddytoday'
     name 'Missing My Daddy Today'
     homepage 'http://www.dafont.com/missingmydaddytoday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MissingMyDaddyToday.ttf'
 end

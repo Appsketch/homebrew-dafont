@@ -5,7 +5,6 @@ cask 'dafont-fickle' do
     url 'http://dl.dafont.com/dl/?f=fickle'
     name 'Fickle'
     homepage 'http://www.dafont.com/fickle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fickle.ttf'
 end

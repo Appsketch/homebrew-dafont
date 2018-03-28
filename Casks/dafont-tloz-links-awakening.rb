@@ -5,7 +5,6 @@ cask 'dafont-tloz-links-awakening' do
     url 'http://dl.dafont.com/dl/?f=tloz_links_awakening'
     name 'TLOZ Link&#039;s Awakening'
     homepage 'http://www.dafont.com/tloz-links-awakening.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TLOZ-Links-Awakening.ttf'
 end

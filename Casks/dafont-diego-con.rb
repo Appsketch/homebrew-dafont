@@ -5,7 +5,6 @@ cask 'dafont-diego-con' do
     url 'http://dl.dafont.com/dl/?f=diego_con'
     name 'Diego Con'
     homepage 'http://www.dafont.com/diego-con.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'diego.ttf'
     font 'diego3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-old-school-united' do
     url 'http://dl.dafont.com/dl/?f=old_school_united'
     name 'Old School United'
     homepage 'http://www.dafont.com/old-school-united.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'old_school_united_hairline_italic.ttf'
     font 'old_school_united_hairline.ttf'

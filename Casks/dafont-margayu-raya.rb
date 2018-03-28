@@ -5,7 +5,6 @@ cask 'dafont-margayu-raya' do
     url 'http://dl.dafont.com/dl/?f=margayu_raya'
     name 'Margayu Raya'
     homepage 'http://www.dafont.com/margayu-raya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MARGAYURAYA-Regular.ttf'
 end

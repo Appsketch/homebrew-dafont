@@ -5,7 +5,6 @@ cask 'dafont-gorila' do
     url 'http://dl.dafont.com/dl/?f=gorila'
     name 'Gorila'
     homepage 'http://www.dafont.com/gorila.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gorila Bold.ttf'
     font 'Gorila.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-symbolcrucifix' do
     url 'http://dl.dafont.com/dl/?f=symbolcrucifix'
     name 'Symbol Crucifix'
     homepage 'http://www.dafont.com/symbolcrucifix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrucifixSymbols.ttf'
 end

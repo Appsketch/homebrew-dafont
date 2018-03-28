@@ -5,7 +5,6 @@ cask 'dafont-hernan-heise' do
     url 'http://dl.dafont.com/dl/?f=hernan_heise'
     name 'Hern&aacute;n Heise'
     homepage 'http://www.dafont.com/hernan-heise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hern&nbsp;n Heise.ttf'
 end

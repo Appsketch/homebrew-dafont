@@ -5,7 +5,6 @@ cask 'dafont-skate-or-die2' do
     url 'http://dl.dafont.com/dl/?f=skate_or_die2'
     name 'Skate or Die'
     homepage 'http://www.dafont.com/skate-or-die2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skate Or Die.ttf'
 end

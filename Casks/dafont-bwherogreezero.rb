@@ -5,7 +5,6 @@ cask 'dafont-bwherogreezero' do
     url 'http://dl.dafont.com/dl/?f=bwherogreezero'
     name 'BwheroGreeZero'
     homepage 'http://www.dafont.com/bwherogreezero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BwheroGreeZero.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ed-gein' do
     url 'http://dl.dafont.com/dl/?f=ed_gein'
     name 'Ed Gein'
     homepage 'http://www.dafont.com/ed-gein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ed_Gein_Gwilty.otf'
     font 'Ed_Gein_Ynnocent.otf'

@@ -5,7 +5,6 @@ cask 'dafont-djb-clylerun' do
     url 'http://dl.dafont.com/dl/?f=djb_clylerun'
     name 'DJB C Lyle Run'
     homepage 'http://www.dafont.com/djb-clylerun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB CLyleRun.ttf'
 end

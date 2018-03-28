@@ -5,7 +5,6 @@ cask 'dafont-xxii-scratch' do
     url 'http://dl.dafont.com/dl/?f=xxii_scratch'
     name 'XXII Scratch'
     homepage 'http://www.dafont.com/xxii-scratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XXII SCRATCH.ttf'
 end

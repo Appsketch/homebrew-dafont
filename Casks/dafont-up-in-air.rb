@@ -5,7 +5,6 @@ cask 'dafont-up-in-air' do
     url 'http://dl.dafont.com/dl/?f=up_in_air'
     name 'Up in the Air'
     homepage 'http://www.dafont.com/up-in-air.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Up in _ Air.ttf'
 end

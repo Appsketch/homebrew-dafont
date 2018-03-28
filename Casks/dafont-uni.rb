@@ -5,7 +5,6 @@ cask 'dafont-uni' do
     url 'http://dl.dafont.com/dl/?f=uni'
     name 'Uni'
     homepage 'http://www.dafont.com/uni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Uni.ttf'
 end

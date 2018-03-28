@@ -5,7 +5,6 @@ cask 'dafont-marker-twins' do
     url 'http://dl.dafont.com/dl/?f=marker_twins'
     name 'Marker Twins'
     homepage 'http://www.dafont.com/marker-twins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TwinMarker.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-champagne-limousines' do
     url 'http://dl.dafont.com/dl/?f=champagne_limousines'
     name 'Champagne &amp; Limousines'
     homepage 'http://www.dafont.com/champagne-limousines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Champagne &amp; Limousines Bold Italic.ttf'
     font 'Champagne &amp; Limousines Bold.ttf'

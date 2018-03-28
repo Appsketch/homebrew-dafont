@@ -5,7 +5,6 @@ cask 'dafont-pixie-moon' do
     url 'http://dl.dafont.com/dl/?f=pixie_moon'
     name 'Pixie Moon'
     homepage 'http://www.dafont.com/pixie-moon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixie Moon.ttf'
 end

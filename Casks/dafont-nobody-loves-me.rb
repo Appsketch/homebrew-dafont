@@ -5,7 +5,6 @@ cask 'dafont-nobody-loves-me' do
     url 'http://dl.dafont.com/dl/?f=nobody_loves_me'
     name 'Nobody loves me'
     homepage 'http://www.dafont.com/nobody-loves-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nobody Loves Me.TTF'
 end

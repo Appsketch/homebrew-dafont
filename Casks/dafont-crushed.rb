@@ -5,7 +5,6 @@ cask 'dafont-crushed' do
     url 'http://dl.dafont.com/dl/?f=crushed'
     name 'Crushed'
     homepage 'http://www.dafont.com/crushed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRUSHED &cedil; PERSONAL USE ONLY.ttf'
 end

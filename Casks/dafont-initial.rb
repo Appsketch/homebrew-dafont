@@ -5,7 +5,6 @@ cask 'dafont-initial' do
     url 'http://dl.dafont.com/dl/?f=initial'
     name 'Initial'
     homepage 'http://www.dafont.com/initial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'initial.ttf'
 end

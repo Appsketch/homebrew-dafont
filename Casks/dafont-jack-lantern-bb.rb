@@ -5,7 +5,6 @@ cask 'dafont-jack-lantern-bb' do
     url 'http://dl.dafont.com/dl/?f=jack_lantern_bb'
     name 'Jack Lantern BB'
     homepage 'http://www.dafont.com/jack-lantern-bb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JACKLB__.TTF'
 end

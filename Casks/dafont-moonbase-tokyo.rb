@@ -5,7 +5,6 @@ cask 'dafont-moonbase-tokyo' do
     url 'http://dl.dafont.com/dl/?f=moonbase_tokyo'
     name 'Moonbase Tokyo'
     homepage 'http://www.dafont.com/moonbase-tokyo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'moonbase_tokyo.ttf'
 end

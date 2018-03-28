@@ -5,7 +5,6 @@ cask 'dafont-ridicule' do
     url 'http://dl.dafont.com/dl/?f=ridicule'
     name 'Ridicule'
     homepage 'http://www.dafont.com/ridicule.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ridicule.ttf'
 end

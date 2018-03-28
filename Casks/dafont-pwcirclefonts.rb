@@ -5,7 +5,6 @@ cask 'dafont-pwcirclefonts' do
     url 'http://dl.dafont.com/dl/?f=pwcirclefonts'
     name 'PW Circle'
     homepage 'http://www.dafont.com/pwcirclefonts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWCirclefonts.ttf'
 end

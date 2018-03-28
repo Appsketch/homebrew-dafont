@@ -5,7 +5,6 @@ cask 'dafont-addiel' do
     url 'http://dl.dafont.com/dl/?f=addiel'
     name 'Addiel'
     homepage 'http://www.dafont.com/addiel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Addiel.ttf'
 end

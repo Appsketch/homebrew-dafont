@@ -5,7 +5,6 @@ cask 'dafont-synced' do
     url 'http://dl.dafont.com/dl/?f=synced'
     name 'Synced'
     homepage 'http://www.dafont.com/synced.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'synced.ttf'
 end

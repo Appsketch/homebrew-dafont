@@ -5,7 +5,6 @@ cask 'dafont-oddbats' do
     url 'http://dl.dafont.com/dl/?f=oddbats'
     name 'OddBats'
     homepage 'http://www.dafont.com/oddbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OddBats.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stringtheory' do
     url 'http://dl.dafont.com/dl/?f=stringtheory'
     name 'String Theory'
     homepage 'http://www.dafont.com/stringtheory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StringTheory.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-metalblocktwo' do
     url 'http://dl.dafont.com/dl/?f=metalblocktwo'
     name 'Metal Block Two'
     homepage 'http://www.dafont.com/metalblocktwo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MetalBlockTwo.ttf'
 end

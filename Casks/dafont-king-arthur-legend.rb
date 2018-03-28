@@ -5,7 +5,6 @@ cask 'dafont-king-arthur-legend' do
     url 'http://dl.dafont.com/dl/?f=king_arthur_legend'
     name 'King Arthur Legend'
     homepage 'http://www.dafont.com/king-arthur-legend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'King Arthur Legend.ttf'
 end

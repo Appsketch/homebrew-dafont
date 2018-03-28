@@ -5,7 +5,6 @@ cask 'dafont-just-jessie' do
     url 'http://dl.dafont.com/dl/?f=just_jessie'
     name 'Just Jessie'
     homepage 'http://www.dafont.com/just-jessie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustJessie.ttf'
 end

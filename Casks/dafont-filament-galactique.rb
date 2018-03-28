@@ -5,7 +5,6 @@ cask 'dafont-filament-galactique' do
     url 'http://dl.dafont.com/dl/?f=filament_galactique'
     name 'Filament Galactique'
     homepage 'http://www.dafont.com/filament-galactique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Filament Galactique.ttf'
 end

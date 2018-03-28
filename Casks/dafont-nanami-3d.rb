@@ -5,7 +5,6 @@ cask 'dafont-nanami-3d' do
     url 'http://dl.dafont.com/dl/?f=nanami_3d'
     name 'Nanami 3D'
     homepage 'http://www.dafont.com/nanami-3d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nanami-3D-Medium.otf'
     font 'Nanami-3D-Thin.otf'

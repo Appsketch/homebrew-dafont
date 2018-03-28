@@ -5,7 +5,6 @@ cask 'dafont-youthanasia' do
     url 'http://dl.dafont.com/dl/?f=youthanasia'
     name 'Youthanasia'
     homepage 'http://www.dafont.com/youthanasia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YOUTHAN_.ttf'
     font 'YOUTHANI.ttf'

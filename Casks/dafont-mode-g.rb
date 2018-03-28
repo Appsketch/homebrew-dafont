@@ -5,7 +5,6 @@ cask 'dafont-mode-g' do
     url 'http://dl.dafont.com/dl/?f=mode_g'
     name 'Mode G'
     homepage 'http://www.dafont.com/mode-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ModeG.ttf'
 end

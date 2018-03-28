@@ -5,7 +5,6 @@ cask 'dafont-dk-sleepy-time' do
     url 'http://dl.dafont.com/dl/?f=dk_sleepy_time'
     name 'DK Sleepy Time'
     homepage 'http://www.dafont.com/dk-sleepy-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Sleepy Time.otf'
 end

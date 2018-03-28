@@ -5,7 +5,6 @@ cask 'dafont-highbrow' do
     url 'http://dl.dafont.com/dl/?f=highbrow'
     name 'Highbrow'
     homepage 'http://www.dafont.com/highbrow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Highbrow.ttf'
 end

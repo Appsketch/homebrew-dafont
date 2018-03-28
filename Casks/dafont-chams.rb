@@ -5,7 +5,6 @@ cask 'dafont-chams' do
     url 'http://dl.dafont.com/dl/?f=chams'
     name 'Chams '
     homepage 'http://www.dafont.com/chams.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChamsBold.ttf'
 end

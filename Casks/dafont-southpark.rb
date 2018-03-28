@@ -5,7 +5,6 @@ cask 'dafont-southpark' do
     url 'http://dl.dafont.com/dl/?f=southpark'
     name 'South Park'
     homepage 'http://www.dafont.com/southpark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'south park.ttf'
 end

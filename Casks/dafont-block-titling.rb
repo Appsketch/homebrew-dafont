@@ -5,7 +5,6 @@ cask 'dafont-block-titling' do
     url 'http://dl.dafont.com/dl/?f=block_titling'
     name 'Block Titling'
     homepage 'http://www.dafont.com/block-titling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLOCTO__.TTF'
     font 'BLOCTS__.TTF'

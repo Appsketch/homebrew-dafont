@@ -5,7 +5,6 @@ cask 'dafont-shirley' do
     url 'http://dl.dafont.com/dl/?f=shirley'
     name 'Shirley'
     homepage 'http://www.dafont.com/shirley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHIRLEY.TTF'
 end

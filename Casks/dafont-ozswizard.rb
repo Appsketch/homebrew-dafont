@@ -5,7 +5,6 @@ cask 'dafont-ozswizard' do
     url 'http://dl.dafont.com/dl/?f=ozswizard'
     name 'Oz&#039;sWizard'
     homepage 'http://www.dafont.com/ozswizard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OzsWizard-CowardlyLion.ttf'
     font 'OzsWizard-Scarecrow.ttf'

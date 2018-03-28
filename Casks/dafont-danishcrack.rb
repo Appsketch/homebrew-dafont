@@ -5,7 +5,6 @@ cask 'dafont-danishcrack' do
     url 'http://dl.dafont.com/dl/?f=danishcrack'
     name 'Danish Crack'
     homepage 'http://www.dafont.com/danishcrack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DanishCrack.ttf'
 end

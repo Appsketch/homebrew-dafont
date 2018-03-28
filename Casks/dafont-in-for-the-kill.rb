@@ -5,7 +5,6 @@ cask 'dafont-in-for-the-kill' do
     url 'http://dl.dafont.com/dl/?f=in_for_the_kill'
     name 'In for The Kill'
     homepage 'http://www.dafont.com/in-for-the-kill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'in_for_the_kill_caps.ttf'
 end

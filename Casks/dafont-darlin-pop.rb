@@ -5,7 +5,6 @@ cask 'dafont-darlin-pop' do
     url 'http://dl.dafont.com/dl/?f=darlin_pop'
     name 'Darlin&#039; Pop'
     homepage 'http://www.dafont.com/darlin-pop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Darlin&#039; Pop Bold Italics.ttf'
     font 'Darlin&#039; Pop Bold.ttf'

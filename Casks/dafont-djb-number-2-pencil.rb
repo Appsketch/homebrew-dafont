@@ -5,7 +5,6 @@ cask 'dafont-djb-number-2-pencil' do
     url 'http://dl.dafont.com/dl/?f=djb_number_2_pencil'
     name 'DJB Number 2 Pencil'
     homepage 'http://www.dafont.com/djb-number-2-pencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Number 2 Pencil Bold.ttf'
     font 'DJB Number 2 Pencil.ttf'

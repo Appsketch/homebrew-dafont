@@ -5,7 +5,6 @@ cask 'dafont-new-york-punk' do
     url 'http://dl.dafont.com/dl/?f=new_york_punk'
     name 'New York Punk'
     homepage 'http://www.dafont.com/new-york-punk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NewYorkPunk.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yava' do
     url 'http://dl.dafont.com/dl/?f=yava'
     name 'Yava'
     homepage 'http://www.dafont.com/yava.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yava.otf'
 end

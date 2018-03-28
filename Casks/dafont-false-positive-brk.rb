@@ -5,7 +5,6 @@ cask 'dafont-false-positive-brk' do
     url 'http://dl.dafont.com/dl/?f=false_positive_brk'
     name 'False Positive BRK'
     homepage 'http://www.dafont.com/false-positive-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'falsepos.ttf'
     font 'falsposr.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-c-a-gatintas' do
     url 'http://dl.dafont.com/dl/?f=c_a_gatintas'
     name 'C.A. Gatintas'
     homepage 'http://www.dafont.com/c-a-gatintas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'C.A. Gatintas.ttf'
 end

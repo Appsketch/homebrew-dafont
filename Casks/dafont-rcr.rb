@@ -5,7 +5,6 @@ cask 'dafont-rcr' do
     url 'http://dl.dafont.com/dl/?f=rcr'
     name 'RCR'
     homepage 'http://www.dafont.com/rcr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RCR.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dbxl-nightfever' do
     url 'http://dl.dafont.com/dl/?f=dbxl_nightfever'
     name 'DBXL Nightfever'
     homepage 'http://www.dafont.com/dbxl-nightfever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DBXLNEW_.TTF'
     font 'DBXLNEWI.TTF'

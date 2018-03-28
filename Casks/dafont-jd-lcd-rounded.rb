@@ -5,7 +5,6 @@ cask 'dafont-jd-lcd-rounded' do
     url 'http://dl.dafont.com/dl/?f=jd_lcd_rounded'
     name 'JD LCD Rounded'
     homepage 'http://www.dafont.com/jd-lcd-rounded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_lcd_rounded.ttf'
 end

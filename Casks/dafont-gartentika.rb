@@ -5,7 +5,6 @@ cask 'dafont-gartentika' do
     url 'http://dl.dafont.com/dl/?f=gartentika'
     name 'Gartentika'
     homepage 'http://www.dafont.com/gartentika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gartentika.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-krugmann-brush' do
     url 'http://dl.dafont.com/dl/?f=krugmann_brush'
     name 'Krugmann Brush'
     homepage 'http://www.dafont.com/krugmann-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KrugmannBrush.ttf'
 end

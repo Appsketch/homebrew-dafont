@@ -5,7 +5,6 @@ cask 'dafont-heart-shaped' do
     url 'http://dl.dafont.com/dl/?f=heart_shaped'
     name 'Heart Shaped'
     homepage 'http://www.dafont.com/heart-shaped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'heart shaped.ttf'
 end

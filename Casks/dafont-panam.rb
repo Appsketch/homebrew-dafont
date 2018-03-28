@@ -5,7 +5,6 @@ cask 'dafont-panam' do
     url 'http://dl.dafont.com/dl/?f=panam'
     name 'PanAm'
     homepage 'http://www.dafont.com/panam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PanAmLogoText.ttf'
     font 'PanAmText.ttf'

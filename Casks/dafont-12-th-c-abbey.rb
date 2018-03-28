@@ -5,7 +5,6 @@ cask 'dafont-12-th-c-abbey' do
     url 'http://dl.dafont.com/dl/?f=12_th_c_abbey'
     name '12 th c. Abbey'
     homepage 'http://www.dafont.com/12-th-c-abbey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '12thC.Abbey.ttf'
 end

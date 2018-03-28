@@ -5,7 +5,6 @@ cask 'dafont-every-little-thing-that-you-do' do
     url 'http://dl.dafont.com/dl/?f=every_little_thing_that_you_do'
     name 'Every little thing that you do'
     homepage 'http://www.dafont.com/every-little-thing-that-you-do.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Every little thing that you do or say.ttf'
 end

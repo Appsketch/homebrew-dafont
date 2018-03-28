@@ -5,7 +5,6 @@ cask 'dafont-misterbass' do
     url 'http://dl.dafont.com/dl/?f=misterbass'
     name 'MisterBass'
     homepage 'http://www.dafont.com/misterbass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MISTB___.TTF'
     font 'MISTBF__.TTF'

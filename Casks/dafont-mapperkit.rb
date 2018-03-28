@@ -5,7 +5,6 @@ cask 'dafont-mapperkit' do
     url 'http://dl.dafont.com/dl/?f=mapperkit'
     name 'Mapper Kit'
     homepage 'http://www.dafont.com/mapperkit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MapperKit.ttf'
 end

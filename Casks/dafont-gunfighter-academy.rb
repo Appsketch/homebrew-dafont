@@ -5,7 +5,6 @@ cask 'dafont-gunfighter-academy' do
     url 'http://dl.dafont.com/dl/?f=gunfighter_academy'
     name 'Gunfighter Academy'
     homepage 'http://www.dafont.com/gunfighter-academy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GunfighterAcademy-Regular.ttf'
 end

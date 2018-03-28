@@ -5,7 +5,6 @@ cask 'dafont-celtic-eels' do
     url 'http://dl.dafont.com/dl/?f=celtic_eels'
     name 'Celtic Eels'
     homepage 'http://www.dafont.com/celtic-eels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CelticEels.ttf'
 end

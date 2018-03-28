@@ -5,7 +5,6 @@ cask 'dafont-heartz' do
     url 'http://dl.dafont.com/dl/?f=heartz'
     name 'Heartz'
     homepage 'http://www.dafont.com/heartz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heartz.ttf'
 end

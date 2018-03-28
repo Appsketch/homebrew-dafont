@@ -5,7 +5,6 @@ cask 'dafont-passarela' do
     url 'http://dl.dafont.com/dl/?f=passarela'
     name 'Passarela'
     homepage 'http://www.dafont.com/passarela.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PASSAREL.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-alpha63' do
     url 'http://dl.dafont.com/dl/?f=alpha63'
     name 'Alpha 63'
     homepage 'http://www.dafont.com/alpha63.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alpha63.ttf'
 end

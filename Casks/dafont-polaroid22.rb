@@ -5,7 +5,6 @@ cask 'dafont-polaroid22' do
     url 'http://dl.dafont.com/dl/?f=polaroid22'
     name 'Polaroid 22'
     homepage 'http://www.dafont.com/polaroid22.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Polaroid.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-younger-than-me' do
     url 'http://dl.dafont.com/dl/?f=younger_than_me'
     name 'Younger Than Me'
     homepage 'http://www.dafont.com/younger-than-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Younger than me.ttf'
 end

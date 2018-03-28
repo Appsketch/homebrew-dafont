@@ -5,7 +5,6 @@ cask 'dafont-knot-brk' do
     url 'http://dl.dafont.com/dl/?f=knot_brk'
     name 'Knot BRK'
     homepage 'http://www.dafont.com/knot-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'knot.ttf'
 end

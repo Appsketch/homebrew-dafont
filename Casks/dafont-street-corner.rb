@@ -5,7 +5,6 @@ cask 'dafont-street-corner' do
     url 'http://dl.dafont.com/dl/?f=street_corner'
     name 'Street Corner'
     homepage 'http://www.dafont.com/street-corner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Street Corner Bold.ttf'
     font 'Street Corner Extend.ttf'

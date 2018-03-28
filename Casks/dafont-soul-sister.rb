@@ -5,7 +5,6 @@ cask 'dafont-soul-sister' do
     url 'http://dl.dafont.com/dl/?f=soul_sister'
     name 'Soul Sister'
     homepage 'http://www.dafont.com/soul-sister.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Soul Sister.ttf'
 end

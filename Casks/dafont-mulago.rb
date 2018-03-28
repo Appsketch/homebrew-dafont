@@ -5,7 +5,6 @@ cask 'dafont-mulago' do
     url 'http://dl.dafont.com/dl/?f=mulago'
     name 'Mulago'
     homepage 'http://www.dafont.com/mulago.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mulago.ttf'
 end

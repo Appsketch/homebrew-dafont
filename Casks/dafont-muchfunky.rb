@@ -5,7 +5,6 @@ cask 'dafont-muchfunky' do
     url 'http://dl.dafont.com/dl/?f=muchfunky'
     name 'Much Funky'
     homepage 'http://www.dafont.com/muchfunky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MuchFunky.ttf'
 end

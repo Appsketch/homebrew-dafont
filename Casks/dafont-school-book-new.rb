@@ -5,7 +5,6 @@ cask 'dafont-school-book-new' do
     url 'http://dl.dafont.com/dl/?f=school_book_new'
     name 'School Book New'
     homepage 'http://www.dafont.com/school-book-new.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'School Book New.ttf'
 end

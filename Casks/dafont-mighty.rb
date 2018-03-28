@@ -5,7 +5,6 @@ cask 'dafont-mighty' do
     url 'http://dl.dafont.com/dl/?f=mighty'
     name 'Mighty'
     homepage 'http://www.dafont.com/mighty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MightyContour.ttf'
     font 'MightyShadow.ttf'

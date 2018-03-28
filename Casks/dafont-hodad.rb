@@ -5,7 +5,6 @@ cask 'dafont-hodad' do
     url 'http://dl.dafont.com/dl/?f=hodad'
     name 'HoDad'
     homepage 'http://www.dafont.com/hodad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HoDadOne.ttf'
 end

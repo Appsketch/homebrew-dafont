@@ -5,7 +5,6 @@ cask 'dafont-crash-test-dummy' do
     url 'http://dl.dafont.com/dl/?f=crash_test_dummy'
     name 'Crash test dummy'
     homepage 'http://www.dafont.com/crash-test-dummy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crash test dummy.ttf'
 end

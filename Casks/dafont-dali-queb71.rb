@@ -5,7 +5,6 @@ cask 'dafont-dali-queb71' do
     url 'http://dl.dafont.com/dl/?f=dali_queb71'
     name 'Dali'
     homepage 'http://www.dafont.com/dali-queb71.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dali-Regular.ttf'
 end

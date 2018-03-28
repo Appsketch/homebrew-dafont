@@ -5,7 +5,6 @@ cask 'dafont-kblolalovesme' do
     url 'http://dl.dafont.com/dl/?f=kblolalovesme'
     name 'KB Lola Loves Me'
     homepage 'http://www.dafont.com/kblolalovesme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBLolaLovesMe.ttf'
 end

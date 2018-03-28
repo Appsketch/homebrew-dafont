@@ -5,7 +5,6 @@ cask 'dafont-cmoldhalftone' do
     url 'http://dl.dafont.com/dl/?f=cmoldhalftone'
     name 'CM Old Halftone'
     homepage 'http://www.dafont.com/cmoldhalftone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM_Old_Halftone.ttf'
 end

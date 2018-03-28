@@ -5,7 +5,6 @@ cask 'dafont-etched' do
     url 'http://dl.dafont.com/dl/?f=etched'
     name 'Etched'
     homepage 'http://www.dafont.com/etched.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ETCHED__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fixcystneon' do
     url 'http://dl.dafont.com/dl/?f=fixcystneon'
     name 'FixCystNeon'
     homepage 'http://www.dafont.com/fixcystneon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FixCystNeon.ttf'
 end

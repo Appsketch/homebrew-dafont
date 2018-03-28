@@ -5,7 +5,6 @@ cask 'dafont-space-game' do
     url 'http://dl.dafont.com/dl/?f=space_game'
     name 'Space Game'
     homepage 'http://www.dafont.com/space-game.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Space Game.otf'
 end

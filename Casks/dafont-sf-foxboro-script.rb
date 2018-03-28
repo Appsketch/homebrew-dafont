@@ -5,7 +5,6 @@ cask 'dafont-sf-foxboro-script' do
     url 'http://dl.dafont.com/dl/?f=sf_foxboro_script'
     name 'SF Foxboro Script'
     homepage 'http://www.dafont.com/sf-foxboro-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Foxboro Script Bold Italic.ttf'
     font 'SF Foxboro Script Bold.ttf'

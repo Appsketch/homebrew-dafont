@@ -5,7 +5,6 @@ cask 'dafont-doctor-cosmicucumber' do
     url 'http://dl.dafont.com/dl/?f=doctor_cosmicucumber'
     name 'Doctor Cosmicucumber'
     homepage 'http://www.dafont.com/doctor-cosmicucumber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doctor Cosmicucumber.ttf'
 end

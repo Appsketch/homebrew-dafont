@@ -5,7 +5,6 @@ cask 'dafont-dk-paradise-lost' do
     url 'http://dl.dafont.com/dl/?f=dk_paradise_lost'
     name 'DK Paradise Lost'
     homepage 'http://www.dafont.com/dk-paradise-lost.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Paradise Lost.otf'
 end

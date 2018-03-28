@@ -5,7 +5,6 @@ cask 'dafont-kingdom-of-heart' do
     url 'http://dl.dafont.com/dl/?f=kingdom_of_heart'
     name 'Kingdom of Heart'
     homepage 'http://www.dafont.com/kingdom-of-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingdom of Heart.ttf'
 end

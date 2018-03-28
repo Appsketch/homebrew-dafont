@@ -5,7 +5,6 @@ cask 'dafont-styllo' do
     url 'http://dl.dafont.com/dl/?f=styllo'
     name 'Styllo'
     homepage 'http://www.dafont.com/styllo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Styllo-Bold.otf'
     font 'Styllo-Regular.otf'

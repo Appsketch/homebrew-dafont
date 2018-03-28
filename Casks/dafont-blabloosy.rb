@@ -5,7 +5,6 @@ cask 'dafont-blabloosy' do
     url 'http://dl.dafont.com/dl/?f=blabloosy'
     name 'Blabloosy'
     homepage 'http://www.dafont.com/blabloosy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blabloosy.ttf'
 end

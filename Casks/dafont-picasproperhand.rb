@@ -5,7 +5,6 @@ cask 'dafont-picasproperhand' do
     url 'http://dl.dafont.com/dl/?f=picasproperhand'
     name 'Picas Proper Hand'
     homepage 'http://www.dafont.com/picasproperhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PicasProperHand.ttf'
 end

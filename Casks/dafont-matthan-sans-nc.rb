@@ -5,7 +5,6 @@ cask 'dafont-matthan-sans-nc' do
     url 'http://dl.dafont.com/dl/?f=matthan_sans_nc'
     name 'Matthan Sans'
     homepage 'http://www.dafont.com/matthan-sans-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Matthan Sans Italic.ttf'
     font 'Matthan Sans Regular.ttf'

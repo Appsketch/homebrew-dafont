@@ -5,7 +5,6 @@ cask 'dafont-green-tea' do
     url 'http://dl.dafont.com/dl/?f=green_tea'
     name 'Green Tea'
     homepage 'http://www.dafont.com/green-tea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GREEN TEA.ttf'
 end

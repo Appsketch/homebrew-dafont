@@ -5,7 +5,6 @@ cask 'dafont-wrong-board-1' do
     url 'http://dl.dafont.com/dl/?f=wrong_board_1'
     name 'Wrong Board 1'
     homepage 'http://www.dafont.com/wrong-board-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wrong Board 1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-apply-beef' do
     url 'http://dl.dafont.com/dl/?f=apply_beef'
     name 'Apply Beef'
     homepage 'http://www.dafont.com/apply-beef.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ApplyBeef.ttf'
     font 'ApplyBeefOutline.ttf'

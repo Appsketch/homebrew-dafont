@@ -5,7 +5,6 @@ cask 'dafont-covenant-forerunner' do
     url 'http://dl.dafont.com/dl/?f=covenant_forerunner'
     name 'Covenant / Forerunner'
     homepage 'http://www.dafont.com/covenant-forerunner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Covenant (Forerunner) Font.ttf'
 end

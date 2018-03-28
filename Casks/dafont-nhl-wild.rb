@@ -5,7 +5,6 @@ cask 'dafont-nhl-wild' do
     url 'http://dl.dafont.com/dl/?f=nhl_wild'
     name 'NHL Wild'
     homepage 'http://www.dafont.com/nhl-wild.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NHL Wild.ttf'
 end

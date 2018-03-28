@@ -5,7 +5,6 @@ cask 'dafont-gherotype' do
     url 'http://dl.dafont.com/dl/?f=gherotype'
     name 'Gherotype'
     homepage 'http://www.dafont.com/gherotype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GHEROTYPE-REGULAR.otf'
 end

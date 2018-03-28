@@ -5,7 +5,6 @@ cask 'dafont-edirne' do
     url 'http://dl.dafont.com/dl/?f=edirne'
     name 'Edirne'
     homepage 'http://www.dafont.com/edirne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Edirne-Normal.otf'
 end

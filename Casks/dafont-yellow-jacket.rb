@@ -5,7 +5,6 @@ cask 'dafont-yellow-jacket' do
     url 'http://dl.dafont.com/dl/?f=yellow_jacket'
     name 'Yellow Jacket'
     homepage 'http://www.dafont.com/yellow-jacket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YELLOW.TTF'
     font 'Yellowc.ttf'

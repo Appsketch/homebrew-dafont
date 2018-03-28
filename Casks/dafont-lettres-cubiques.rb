@@ -5,7 +5,6 @@ cask 'dafont-lettres-cubiques' do
     url 'http://dl.dafont.com/dl/?f=lettres_cubiques'
     name 'Lettres cubiques'
     homepage 'http://www.dafont.com/lettres-cubiques.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lettres_cubiques.ttf'
 end

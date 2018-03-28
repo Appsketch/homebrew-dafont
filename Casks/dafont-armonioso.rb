@@ -5,7 +5,6 @@ cask 'dafont-armonioso' do
     url 'http://dl.dafont.com/dl/?f=armonioso'
     name 'Armonioso'
     homepage 'http://www.dafont.com/armonioso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Armonioso-trial.otf'
 end

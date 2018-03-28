@@ -5,7 +5,6 @@ cask 'dafont-material-sans' do
     url 'http://dl.dafont.com/dl/?f=material_sans'
     name 'Material Sans'
     homepage 'http://www.dafont.com/material-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Material_Sans.ttf'
 end

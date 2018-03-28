@@ -5,7 +5,6 @@ cask 'dafont-i-f-c-hotrod-type' do
     url 'http://dl.dafont.com/dl/?f=i_f_c_hotrod_type'
     name 'IFC HotRod Type'
     homepage 'http://www.dafont.com/i-f-c-hotrod-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I.F.C. HotRod Type.ttf'
 end

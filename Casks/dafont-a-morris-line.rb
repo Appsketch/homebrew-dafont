@@ -5,7 +5,6 @@ cask 'dafont-a-morris-line' do
     url 'http://dl.dafont.com/dl/?f=a_morris_line'
     name 'A Morris Line'
     homepage 'http://www.dafont.com/a-morris-line.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AMLTRIAL.ttf'
 end

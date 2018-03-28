@@ -5,7 +5,6 @@ cask 'dafont-scarlet-river-font' do
     url 'http://dl.dafont.com/dl/?f=scarlet_river_font'
     name 'Scarlet River'
     homepage 'http://www.dafont.com/scarlet-river-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scarlet_river_font.ttf'
 end

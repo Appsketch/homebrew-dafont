@@ -5,7 +5,6 @@ cask 'dafont-sun-zoom-spark' do
     url 'http://dl.dafont.com/dl/?f=sun_zoom_spark'
     name 'Sun zoom spark'
     homepage 'http://www.dafont.com/sun-zoom-spark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sun zoom spark.ttf'
 end

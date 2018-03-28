@@ -5,7 +5,6 @@ cask 'dafont-mahjong-toy-block' do
     url 'http://dl.dafont.com/dl/?f=mahjong_toy_block'
     name 'Mahjong Toy Block'
     homepage 'http://www.dafont.com/mahjong-toy-block.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mahjong toy block.ttf'
 end

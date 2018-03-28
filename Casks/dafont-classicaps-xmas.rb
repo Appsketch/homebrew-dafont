@@ -5,7 +5,6 @@ cask 'dafont-classicaps-xmas' do
     url 'http://dl.dafont.com/dl/?f=classicaps_xmas'
     name 'ClassiCaps Xmas'
     homepage 'http://www.dafont.com/classicaps-xmas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CLASCX__.TTF'
 end

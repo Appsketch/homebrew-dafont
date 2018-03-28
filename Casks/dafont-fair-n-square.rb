@@ -5,7 +5,6 @@ cask 'dafont-fair-n-square' do
     url 'http://dl.dafont.com/dl/?f=fair_n_square'
     name 'Fair N Square'
     homepage 'http://www.dafont.com/fair-n-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FairNSquare Condensed Italic.ttf'
     font 'FairNSquare Italic.ttf'

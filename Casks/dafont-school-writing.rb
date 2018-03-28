@@ -5,7 +5,6 @@ cask 'dafont-school-writing' do
     url 'http://dl.dafont.com/dl/?f=school_writing'
     name 'School Writing'
     homepage 'http://www.dafont.com/school-writing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'School_Writing.ttf'
 end

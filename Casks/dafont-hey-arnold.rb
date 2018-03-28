@@ -5,7 +5,6 @@ cask 'dafont-hey-arnold' do
     url 'http://dl.dafont.com/dl/?f=hey_arnold'
     name 'Arnold'
     homepage 'http://www.dafont.com/hey-arnold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARNORG__.TTF'
 end

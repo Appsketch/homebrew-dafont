@@ -5,7 +5,6 @@ cask 'dafont-pontifexica' do
     url 'http://dl.dafont.com/dl/?f=pontifexica'
     name 'Pontifexica'
     homepage 'http://www.dafont.com/pontifexica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pontifexica.ttf'
 end

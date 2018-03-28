@@ -5,7 +5,6 @@ cask 'dafont-uncertain-sans' do
     url 'http://dl.dafont.com/dl/?f=uncertain_sans'
     name 'Uncertain Sans'
     homepage 'http://www.dafont.com/uncertain-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'uncertain_sans.otf'
 end

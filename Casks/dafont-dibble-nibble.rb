@@ -5,7 +5,6 @@ cask 'dafont-dibble-nibble' do
     url 'http://dl.dafont.com/dl/?f=dibble_nibble'
     name 'Dibble Nibble'
     homepage 'http://www.dafont.com/dibble-nibble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dibble nibble square.ttf'
 end

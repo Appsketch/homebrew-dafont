@@ -5,7 +5,6 @@ cask 'dafont-tricube' do
     url 'http://dl.dafont.com/dl/?f=tricube'
     name 'Tricube'
     homepage 'http://www.dafont.com/tricube.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tricube.ttf'
 end

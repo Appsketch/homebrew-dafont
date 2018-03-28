@@ -5,7 +5,6 @@ cask 'dafont-vtks-revolt' do
     url 'http://dl.dafont.com/dl/?f=vtks_revolt'
     name 'Vtks Revolt'
     homepage 'http://www.dafont.com/vtks-revolt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Revolt.ttf'
 end

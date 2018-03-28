@@ -5,7 +5,6 @@ cask 'dafont-killer-lasagna' do
     url 'http://dl.dafont.com/dl/?f=killer_lasagna'
     name 'Killer Lasagna'
     homepage 'http://www.dafont.com/killer-lasagna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'killer_lasagna.ttf'
 end

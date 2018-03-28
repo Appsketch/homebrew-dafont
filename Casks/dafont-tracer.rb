@@ -5,7 +5,6 @@ cask 'dafont-tracer' do
     url 'http://dl.dafont.com/dl/?f=tracer'
     name 'Tracer'
     homepage 'http://www.dafont.com/tracer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tracer.ttf'
     font 'tracer3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-arakphobia' do
     url 'http://dl.dafont.com/dl/?f=arakphobia'
     name 'Arakphobia'
     homepage 'http://www.dafont.com/arakphobia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arakphobia.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-resistance-is-futile' do
     url 'http://dl.dafont.com/dl/?f=resistance_is_futile'
     name 'Resistance is Futile'
     homepage 'http://www.dafont.com/resistance-is-futile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Resistance is Futile.ttf'
 end

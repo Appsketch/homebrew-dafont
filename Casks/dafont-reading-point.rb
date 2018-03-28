@@ -5,7 +5,6 @@ cask 'dafont-reading-point' do
     url 'http://dl.dafont.com/dl/?f=reading_point'
     name 'Reading point'
     homepage 'http://www.dafont.com/reading-point.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reading point.ttf'
 end

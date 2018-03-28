@@ -5,7 +5,6 @@ cask 'dafont-ebola-kikwit' do
     url 'http://dl.dafont.com/dl/?f=ebola_kikwit'
     name 'Ebola Kikwit'
     homepage 'http://www.dafont.com/ebola-kikwit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EBOLA-KI.TTF'
 end

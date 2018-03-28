@@ -5,7 +5,6 @@ cask 'dafont-onion-soup' do
     url 'http://dl.dafont.com/dl/?f=onion_soup'
     name 'Onion Soup'
     homepage 'http://www.dafont.com/onion-soup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Onion soup.ttf'
 end

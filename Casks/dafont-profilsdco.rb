@@ -5,7 +5,6 @@ cask 'dafont-profilsdco' do
     url 'http://dl.dafont.com/dl/?f=profilsdco'
     name 'Profilsdco'
     homepage 'http://www.dafont.com/profilsdco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'profilsdcoxy.ttf'
 end

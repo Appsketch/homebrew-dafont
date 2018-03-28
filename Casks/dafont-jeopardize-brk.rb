@@ -5,7 +5,6 @@ cask 'dafont-jeopardize-brk' do
     url 'http://dl.dafont.com/dl/?f=jeopardize_brk'
     name 'Jeopardize BRK'
     homepage 'http://www.dafont.com/jeopardize-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jeopardi.ttf'
     font 'jeopardt.ttf'

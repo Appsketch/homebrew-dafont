@@ -5,7 +5,6 @@ cask 'dafont-kota-surabaya' do
     url 'http://dl.dafont.com/dl/?f=kota_surabaya'
     name 'Kota Surabaya'
     homepage 'http://www.dafont.com/kota-surabaya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kota Surabaya.ttf'
 end

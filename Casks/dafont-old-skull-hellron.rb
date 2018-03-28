@@ -5,7 +5,6 @@ cask 'dafont-old-skull-hellron' do
     url 'http://dl.dafont.com/dl/?f=old_skull_hellron'
     name 'Old Skull Hellron'
     homepage 'http://www.dafont.com/old-skull-hellron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old_Skull_Hellron.ttf'
 end

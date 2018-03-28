@@ -5,7 +5,6 @@ cask 'dafont-walk-around-the-block' do
     url 'http://dl.dafont.com/dl/?f=walk_around_the_block'
     name 'Walk Around the Block'
     homepage 'http://www.dafont.com/walk-around-the-block.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Walk-Around-the-Block.ttf'
 end

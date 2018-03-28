@@ -5,7 +5,6 @@ cask 'dafont-metal-curvy' do
     url 'http://dl.dafont.com/dl/?f=metal_curvy'
     name 'Metal Curvy'
     homepage 'http://www.dafont.com/metal-curvy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Metal Curvy.ttf'
 end

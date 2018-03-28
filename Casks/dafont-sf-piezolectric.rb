@@ -5,7 +5,6 @@ cask 'dafont-sf-piezolectric' do
     url 'http://dl.dafont.com/dl/?f=sf_piezolectric'
     name 'SF Piezolectric'
     homepage 'http://www.dafont.com/sf-piezolectric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Piezolectric Condensed Oblique.ttf'
     font 'SF Piezolectric Condensed.ttf'

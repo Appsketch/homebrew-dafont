@@ -5,7 +5,6 @@ cask 'dafont-gau-font-cube' do
     url 'http://dl.dafont.com/dl/?f=gau_font_cube'
     name 'Gau Font Cube'
     homepage 'http://www.dafont.com/gau-font-cube.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GAU_cube_B.TTF'
     font 'GAU_cube_R.TTF'

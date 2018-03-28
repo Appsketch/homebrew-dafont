@@ -5,7 +5,6 @@ cask 'dafont-going-rogue' do
     url 'http://dl.dafont.com/dl/?f=going_rogue'
     name 'Going Rogue'
     homepage 'http://www.dafont.com/going-rogue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Going Rogue.otf'
 end

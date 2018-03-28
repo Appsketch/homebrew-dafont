@@ -5,7 +5,6 @@ cask 'dafont-europe-underground-worn' do
     url 'http://dl.dafont.com/dl/?f=europe_underground_worn'
     name 'Europe Underground Worn'
     homepage 'http://www.dafont.com/europe-underground-worn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EuropeUnderground_worn.ttf'
 end

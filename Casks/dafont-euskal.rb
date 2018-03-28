@@ -5,7 +5,6 @@ cask 'dafont-euskal' do
     url 'http://dl.dafont.com/dl/?f=euskal'
     name 'Euskal'
     homepage 'http://www.dafont.com/euskal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EUSKFN__.TTF'
 end

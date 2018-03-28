@@ -5,7 +5,6 @@ cask 'dafont-justcolescursive' do
     url 'http://dl.dafont.com/dl/?f=justcolescursive'
     name 'Just Coles Cursive'
     homepage 'http://www.dafont.com/justcolescursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustColesCursive.ttf'
 end

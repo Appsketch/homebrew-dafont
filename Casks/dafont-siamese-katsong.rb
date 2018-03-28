@@ -5,7 +5,6 @@ cask 'dafont-siamese-katsong' do
     url 'http://dl.dafont.com/dl/?f=siamese_katsong'
     name 'Siamese Katsong'
     homepage 'http://www.dafont.com/siamese-katsong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'siamese.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mod-gothic' do
     url 'http://dl.dafont.com/dl/?f=mod_gothic'
     name 'Mod Gothic'
     homepage 'http://www.dafont.com/mod-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mod_gothic.ttf'
 end

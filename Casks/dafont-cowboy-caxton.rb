@@ -5,7 +5,6 @@ cask 'dafont-cowboy-caxton' do
     url 'http://dl.dafont.com/dl/?f=cowboy_caxton'
     name 'Cowboy Caxton'
     homepage 'http://www.dafont.com/cowboy-caxton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COWBC___.TTF'
 end

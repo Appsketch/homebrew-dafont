@@ -5,7 +5,6 @@ cask 'dafont-ohio-collegiate' do
     url 'http://dl.dafont.com/dl/?f=ohio_collegiate'
     name 'Ohio Collegiate'
     homepage 'http://www.dafont.com/ohio-collegiate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ohio-Collegiate.ttf'
 end

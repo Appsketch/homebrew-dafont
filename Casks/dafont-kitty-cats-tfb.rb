@@ -5,7 +5,6 @@ cask 'dafont-kitty-cats-tfb' do
     url 'http://dl.dafont.com/dl/?f=kitty_cats_tfb'
     name 'Kitty Cats TFB'
     homepage 'http://www.dafont.com/kitty-cats-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kitty cats tfb.ttf'
 end

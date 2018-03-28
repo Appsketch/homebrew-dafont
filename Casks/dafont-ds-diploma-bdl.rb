@@ -5,7 +5,6 @@ cask 'dafont-ds-diploma-bdl' do
     url 'http://dl.dafont.com/dl/?f=ds_diploma_bdl'
     name 'DS Diploma BDL'
     homepage 'http://www.dafont.com/ds-diploma-bdl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DSDID___.TTF'
 end

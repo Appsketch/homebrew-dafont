@@ -5,7 +5,6 @@ cask 'dafont-erlantz' do
     url 'http://dl.dafont.com/dl/?f=erlantz'
     name 'Erlantz'
     homepage 'http://www.dafont.com/erlantz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Erlantz.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-snidane' do
     url 'http://dl.dafont.com/dl/?f=snidane'
     name 'Snidane'
     homepage 'http://www.dafont.com/snidane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snidane.ttf'
 end

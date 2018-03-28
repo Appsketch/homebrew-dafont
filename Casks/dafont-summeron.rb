@@ -5,7 +5,6 @@ cask 'dafont-summeron' do
     url 'http://dl.dafont.com/dl/?f=summeron'
     name 'Summeron'
     homepage 'http://www.dafont.com/summeron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Summeron.ttf'
 end

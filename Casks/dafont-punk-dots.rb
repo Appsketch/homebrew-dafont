@@ -5,7 +5,6 @@ cask 'dafont-punk-dots' do
     url 'http://dl.dafont.com/dl/?f=punk_dots'
     name 'Punk Dots'
     homepage 'http://www.dafont.com/punk-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Punk Dots.ttf'
 end

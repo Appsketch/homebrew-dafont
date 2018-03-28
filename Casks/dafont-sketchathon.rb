@@ -5,7 +5,6 @@ cask 'dafont-sketchathon' do
     url 'http://dl.dafont.com/dl/?f=sketchathon'
     name 'Sketchathon'
     homepage 'http://www.dafont.com/sketchathon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketchathon.ttf'
 end

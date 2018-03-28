@@ -5,7 +5,6 @@ cask 'dafont-xenotron-broadstrok' do
     url 'http://dl.dafont.com/dl/?f=xenotron_broadstrok'
     name 'Xenotron Broadstroke'
     homepage 'http://www.dafont.com/xenotron-broadstrok.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XENOBROD.TTF'
 end

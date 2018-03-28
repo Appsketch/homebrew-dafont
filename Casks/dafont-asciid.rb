@@ -5,7 +5,6 @@ cask 'dafont-asciid' do
     url 'http://dl.dafont.com/dl/?f=asciid'
     name 'Asciid'
     homepage 'http://www.dafont.com/asciid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asciid.[fontvir.us].ttf'
 end

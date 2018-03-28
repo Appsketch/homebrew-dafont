@@ -5,7 +5,6 @@ cask 'dafont-airstream' do
     url 'http://dl.dafont.com/dl/?f=airstream'
     name 'Airstream'
     homepage 'http://www.dafont.com/airstream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AIRSTREA.TTF'
 end

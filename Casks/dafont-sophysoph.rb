@@ -5,7 +5,6 @@ cask 'dafont-sophysoph' do
     url 'http://dl.dafont.com/dl/?f=sophysoph'
     name 'SophySoph'
     homepage 'http://www.dafont.com/sophysoph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SophySoph.ttf'
 end

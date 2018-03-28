@@ -5,7 +5,6 @@ cask 'dafont-ah-carbon' do
     url 'http://dl.dafont.com/dl/?f=ah_carbon'
     name 'Ah Carbon!'
     homepage 'http://www.dafont.com/ah-carbon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ah Carbon!.ttf'
 end

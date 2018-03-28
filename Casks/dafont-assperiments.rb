@@ -5,7 +5,6 @@ cask 'dafont-assperiments' do
     url 'http://dl.dafont.com/dl/?f=assperiments'
     name 'Assperiments'
     homepage 'http://www.dafont.com/assperiments.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'assperiments.ttf'
 end

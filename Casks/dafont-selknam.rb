@@ -5,7 +5,6 @@ cask 'dafont-selknam' do
     url 'http://dl.dafont.com/dl/?f=selknam'
     name 'Selknam Unicase'
     homepage 'http://www.dafont.com/selknam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Selknam Unicase.otf'
 end

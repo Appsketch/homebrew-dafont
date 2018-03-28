@@ -5,7 +5,6 @@ cask 'dafont-chronicles-of-arkmar' do
     url 'http://dl.dafont.com/dl/?f=chronicles_of_arkmar'
     name 'Chronicles of Arkmar'
     homepage 'http://www.dafont.com/chronicles-of-arkmar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chronicles_of_ArkMar.ttf'
 end

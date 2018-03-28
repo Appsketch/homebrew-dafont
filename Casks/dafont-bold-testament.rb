@@ -5,7 +5,6 @@ cask 'dafont-bold-testament' do
     url 'http://dl.dafont.com/dl/?f=bold_testament'
     name 'Bold Testament'
     homepage 'http://www.dafont.com/bold-testament.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bold Testament.otf'
 end

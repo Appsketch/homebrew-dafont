@@ -5,7 +5,6 @@ cask 'dafont-jls-smiles-sampler' do
     url 'http://dl.dafont.com/dl/?f=jls_smiles_sampler'
     name 'JLS Smiles Sampler'
     homepage 'http://www.dafont.com/jls-smiles-sampler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JLSSmilesSampler.ttf'
 end

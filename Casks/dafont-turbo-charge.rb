@@ -5,7 +5,6 @@ cask 'dafont-turbo-charge' do
     url 'http://dl.dafont.com/dl/?f=turbo_charge'
     name 'Turbo Charge'
     homepage 'http://www.dafont.com/turbo-charge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'turbocharge.ttf'
     font 'turbocharge3d.ttf'

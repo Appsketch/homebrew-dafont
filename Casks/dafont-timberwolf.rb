@@ -5,7 +5,6 @@ cask 'dafont-timberwolf' do
     url 'http://dl.dafont.com/dl/?f=timberwolf'
     name 'Timberwolf'
     homepage 'http://www.dafont.com/timberwolf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'timberwolf.ttf'
     font 'timberwolf3d.ttf'

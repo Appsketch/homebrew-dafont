@@ -5,7 +5,6 @@ cask 'dafont-uppenarmsnf' do
     url 'http://dl.dafont.com/dl/?f=uppenarmsnf'
     name 'Uppen Arms NF'
     homepage 'http://www.dafont.com/uppenarmsnf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UPPEAN__.ttf'
 end

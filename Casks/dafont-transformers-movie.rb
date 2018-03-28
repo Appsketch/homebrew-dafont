@@ -5,7 +5,6 @@ cask 'dafont-transformers-movie' do
     url 'http://dl.dafont.com/dl/?f=transformers_movie'
     name 'Transformers Movie'
     homepage 'http://www.dafont.com/transformers-movie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Transformers Movie.ttf'
 end

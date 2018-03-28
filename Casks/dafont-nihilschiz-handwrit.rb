@@ -5,7 +5,6 @@ cask 'dafont-nihilschiz-handwrit' do
     url 'http://dl.dafont.com/dl/?f=nihilschiz_handwrit'
     name 'Nihilschiz Handwriting'
     homepage 'http://www.dafont.com/nihilschiz-handwrit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nihilschiz Handwriting.ttf'
 end

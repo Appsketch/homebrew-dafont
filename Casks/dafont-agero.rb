@@ -5,7 +5,6 @@ cask 'dafont-agero' do
     url 'http://dl.dafont.com/dl/?f=agero'
     name 'Agero!'
     homepage 'http://www.dafont.com/agero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'agero!.ttf'
 end

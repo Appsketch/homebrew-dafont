@@ -5,7 +5,6 @@ cask 'dafont-drawn-faces-on-my-letters' do
     url 'http://dl.dafont.com/dl/?f=drawn_faces_on_my_letters'
     name 'Drawn faces on my letters'
     homepage 'http://www.dafont.com/drawn-faces-on-my-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'drawn faces on ma letters.ttf'
 end

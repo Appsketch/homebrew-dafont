@@ -5,7 +5,6 @@ cask 'dafont-callie-mae' do
     url 'http://dl.dafont.com/dl/?f=callie_mae'
     name 'Callie-Mae'
     homepage 'http://www.dafont.com/callie-mae.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Callie-Mae Bold Italic.otf'
     font 'Callie-Mae Bold.otf'

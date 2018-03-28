@@ -5,7 +5,6 @@ cask 'dafont-scary-monsters' do
     url 'http://dl.dafont.com/dl/?f=scary_monsters'
     name 'Scary Monsters'
     homepage 'http://www.dafont.com/scary-monsters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCARM___.TTF'
 end

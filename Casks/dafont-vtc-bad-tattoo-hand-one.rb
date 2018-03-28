@@ -5,7 +5,6 @@ cask 'dafont-vtc-bad-tattoo-hand-one' do
     url 'http://dl.dafont.com/dl/?f=vtc_bad_tattoo_hand_one'
     name 'VTC Bad Tattoo Hand One'
     homepage 'http://www.dafont.com/vtc-bad-tattoo-hand-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC-BadTattooHandOne.otf'
 end

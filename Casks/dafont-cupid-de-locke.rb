@@ -5,7 +5,6 @@ cask 'dafont-cupid-de-locke' do
     url 'http://dl.dafont.com/dl/?f=cupid_de_locke'
     name 'Cupid de Locke'
     homepage 'http://www.dafont.com/cupid-de-locke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CupiddeLocke.ttf'
 end

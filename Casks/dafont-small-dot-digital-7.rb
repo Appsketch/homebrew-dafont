@@ -5,7 +5,6 @@ cask 'dafont-small-dot-digital-7' do
     url 'http://dl.dafont.com/dl/?f=small_dot_digital_7'
     name 'Small Dot Digital-7'
     homepage 'http://www.dafont.com/small-dot-digital-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'small_dot_digital-7.ttf'
 end

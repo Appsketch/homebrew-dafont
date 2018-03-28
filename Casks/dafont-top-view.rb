@@ -5,7 +5,6 @@ cask 'dafont-top-view' do
     url 'http://dl.dafont.com/dl/?f=top_view'
     name 'Top View'
     homepage 'http://www.dafont.com/top-view.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Top View.ttf'
 end

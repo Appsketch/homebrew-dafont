@@ -5,7 +5,6 @@ cask 'dafont-hawtcomix' do
     url 'http://dl.dafont.com/dl/?f=hawtcomix'
     name 'Hawt Comix'
     homepage 'http://www.dafont.com/hawtcomix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HawtComix.ttf'
 end

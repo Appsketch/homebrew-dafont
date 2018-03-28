@@ -5,7 +5,6 @@ cask 'dafont-ebba-font' do
     url 'http://dl.dafont.com/dl/?f=ebba_font'
     name 'Ebba Font'
     homepage 'http://www.dafont.com/ebba-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ebba_Font.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hanging-letters' do
     url 'http://dl.dafont.com/dl/?f=hanging_letters'
     name 'Hanging Letters'
     homepage 'http://www.dafont.com/hanging-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hanged Letters.ttf'
 end

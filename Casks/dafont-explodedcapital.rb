@@ -5,7 +5,6 @@ cask 'dafont-explodedcapital' do
     url 'http://dl.dafont.com/dl/?f=explodedcapital'
     name 'Exploded Capital'
     homepage 'http://www.dafont.com/explodedcapital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExplodedCapital.ttf'
 end

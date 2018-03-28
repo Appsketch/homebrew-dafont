@@ -5,7 +5,6 @@ cask 'dafont-sloopy' do
     url 'http://dl.dafont.com/dl/?f=sloopy'
     name 'Sloopy'
     homepage 'http://www.dafont.com/sloopy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SLOOPY.TTF'
 end

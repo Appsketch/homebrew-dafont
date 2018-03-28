@@ -5,7 +5,6 @@ cask 'dafont-spahrty-girl' do
     url 'http://dl.dafont.com/dl/?f=spahrty_girl'
     name 'Spahrty Girl'
     homepage 'http://www.dafont.com/spahrty-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spahrtyg.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-peax-handwriting' do
     url 'http://dl.dafont.com/dl/?f=peax_handwriting'
     name 'Peax Handwriting'
     homepage 'http://www.dafont.com/peax-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peax Handwritingbold.ttf'
     font 'Peax Handwritinglight.ttf'

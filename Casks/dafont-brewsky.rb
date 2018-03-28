@@ -5,7 +5,6 @@ cask 'dafont-brewsky' do
     url 'http://dl.dafont.com/dl/?f=brewsky'
     name 'Brewsky'
     homepage 'http://www.dafont.com/brewsky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brewsky.ttf'
 end

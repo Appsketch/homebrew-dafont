@@ -5,7 +5,6 @@ cask 'dafont-littleberry' do
     url 'http://dl.dafont.com/dl/?f=littleberry'
     name 'Little Berry'
     homepage 'http://www.dafont.com/littleberry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LittleBerry.ttf'
 end

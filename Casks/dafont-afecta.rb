@@ -5,7 +5,6 @@ cask 'dafont-afecta' do
     url 'http://dl.dafont.com/dl/?f=afecta'
     name 'Afecta'
     homepage 'http://www.dafont.com/afecta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Afecta Free Version.ttf'
 end

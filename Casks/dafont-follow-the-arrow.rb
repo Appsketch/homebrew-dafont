@@ -5,7 +5,6 @@ cask 'dafont-follow-the-arrow' do
     url 'http://dl.dafont.com/dl/?f=follow_the_arrow'
     name 'Follow The Arrow'
     homepage 'http://www.dafont.com/follow-the-arrow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FollowTheArrow.ttf'
 end

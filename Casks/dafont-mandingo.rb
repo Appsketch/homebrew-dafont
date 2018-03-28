@@ -5,7 +5,6 @@ cask 'dafont-mandingo' do
     url 'http://dl.dafont.com/dl/?f=mandingo'
     name 'Mandingo'
     homepage 'http://www.dafont.com/mandingo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MANDINGO.TTF'
 end

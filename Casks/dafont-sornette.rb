@@ -5,7 +5,6 @@ cask 'dafont-sornette' do
     url 'http://dl.dafont.com/dl/?f=sornette'
     name 'Sornette'
     homepage 'http://www.dafont.com/sornette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SORNB___.TTF'
     font 'SORNBI__.TTF'

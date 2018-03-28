@@ -5,7 +5,6 @@ cask 'dafont-exoplanet' do
     url 'http://dl.dafont.com/dl/?f=exoplanet'
     name 'Exoplanet'
     homepage 'http://www.dafont.com/exoplanet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'exoplanet.ttf'
     font 'exoplanet3d.ttf'

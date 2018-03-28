@@ -5,7 +5,6 @@ cask 'dafont-sloppy-hand' do
     url 'http://dl.dafont.com/dl/?f=sloppy_hand'
     name 'Sloppy Hand'
     homepage 'http://www.dafont.com/sloppy-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sloppy_Hand.ttf'
 end

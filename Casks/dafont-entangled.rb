@@ -5,7 +5,6 @@ cask 'dafont-entangled' do
     url 'http://dl.dafont.com/dl/?f=entangled'
     name 'Entangled'
     homepage 'http://www.dafont.com/entangled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'entangle.ttf'
     font 'entlayra.ttf'

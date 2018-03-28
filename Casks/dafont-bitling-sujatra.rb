@@ -5,7 +5,6 @@ cask 'dafont-bitling-sujatra' do
     url 'http://dl.dafont.com/dl/?f=bitling_sujatra'
     name 'Bitling Sujatra'
     homepage 'http://www.dafont.com/bitling-sujatra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bitlingsujatra-Bold.ttf'
     font 'Bitlingsujatra-BoldItalic.ttf'

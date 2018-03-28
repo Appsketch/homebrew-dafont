@@ -5,7 +5,6 @@ cask 'dafont-buttonbutton-aoe' do
     url 'http://dl.dafont.com/dl/?f=buttonbutton_aoe'
     name 'ButtonButton AOE'
     homepage 'http://www.dafont.com/buttonbutton-aoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUTTBA__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gara' do
     url 'http://dl.dafont.com/dl/?f=gara'
     name 'Gara'
     homepage 'http://www.dafont.com/gara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GARABL__.TTF'
     font 'GARARG__.TTF'

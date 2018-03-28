@@ -5,7 +5,6 @@ cask 'dafont-starship-one' do
     url 'http://dl.dafont.com/dl/?f=starship_one'
     name 'Starship One'
     homepage 'http://www.dafont.com/starship-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Starship One.ttf'
 end

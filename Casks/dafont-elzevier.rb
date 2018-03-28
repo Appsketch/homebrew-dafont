@@ -5,7 +5,6 @@ cask 'dafont-elzevier' do
     url 'http://dl.dafont.com/dl/?f=elzevier'
     name 'Elzevier'
     homepage 'http://www.dafont.com/elzevier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ELZEVIER_R.TTF'
 end

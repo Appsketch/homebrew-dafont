@@ -5,7 +5,6 @@ cask 'dafont-mothership' do
     url 'http://dl.dafont.com/dl/?f=mothership'
     name 'Mothership'
     homepage 'http://www.dafont.com/mothership.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mothership.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-undergone' do
     url 'http://dl.dafont.com/dl/?f=undergone'
     name 'Undergone'
     homepage 'http://www.dafont.com/undergone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Undergone_PersonalUse.ttf'
 end

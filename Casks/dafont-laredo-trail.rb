@@ -5,7 +5,6 @@ cask 'dafont-laredo-trail' do
     url 'http://dl.dafont.com/dl/?f=laredo_trail'
     name 'Laredo Trail'
     homepage 'http://www.dafont.com/laredo-trail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'laredotrail.ttf'
     font 'laredotrail3d.ttf'

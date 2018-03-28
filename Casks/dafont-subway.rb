@@ -5,7 +5,6 @@ cask 'dafont-subway' do
     url 'http://dl.dafont.com/dl/?f=subway'
     name 'Subway'
     homepage 'http://www.dafont.com/subway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'subway.ttf'
 end

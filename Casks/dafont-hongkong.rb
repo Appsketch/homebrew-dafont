@@ -5,7 +5,6 @@ cask 'dafont-hongkong' do
     url 'http://dl.dafont.com/dl/?f=hongkong'
     name 'HongKong'
     homepage 'http://www.dafont.com/hongkong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hongkong.ttf'
 end

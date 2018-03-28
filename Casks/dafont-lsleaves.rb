@@ -5,7 +5,6 @@ cask 'dafont-lsleaves' do
     url 'http://dl.dafont.com/dl/?f=lsleaves'
     name 'LS Leaves'
     homepage 'http://www.dafont.com/lsleaves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LSLeaves.ttf'
 end

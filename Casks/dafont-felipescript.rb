@@ -5,7 +5,6 @@ cask 'dafont-felipescript' do
     url 'http://dl.dafont.com/dl/?f=felipescript'
     name 'Felipe Script'
     homepage 'http://www.dafont.com/felipescript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FelipeScriptFont-Regular.ttf'
 end

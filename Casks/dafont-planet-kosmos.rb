@@ -5,7 +5,6 @@ cask 'dafont-planet-kosmos' do
     url 'http://dl.dafont.com/dl/?f=planet_kosmos'
     name 'Planet Kosmos'
     homepage 'http://www.dafont.com/planet-kosmos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLANK___.TTF'
 end

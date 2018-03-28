@@ -5,7 +5,6 @@ cask 'dafont-against-myself' do
     url 'http://dl.dafont.com/dl/?f=against_myself'
     name 'Against Myself'
     homepage 'http://www.dafont.com/against-myself.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Against Myself.ttf'
 end

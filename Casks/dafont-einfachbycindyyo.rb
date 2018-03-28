@@ -5,7 +5,6 @@ cask 'dafont-einfachbycindyyo' do
     url 'http://dl.dafont.com/dl/?f=einfachbycindyyo'
     name 'Einfach'
     homepage 'http://www.dafont.com/einfachbycindyyo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Einfach by Cindyyo.ttf'
 end

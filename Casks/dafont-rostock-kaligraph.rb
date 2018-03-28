@@ -5,7 +5,6 @@ cask 'dafont-rostock-kaligraph' do
     url 'http://dl.dafont.com/dl/?f=rostock_kaligraph'
     name 'Rostock Kaligraph'
     homepage 'http://www.dafont.com/rostock-kaligraph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rostock Kaligraph.ttf'
 end

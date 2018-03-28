@@ -5,7 +5,6 @@ cask 'dafont-marshosbn' do
     url 'http://dl.dafont.com/dl/?f=marshosbn'
     name 'Marshosbn'
     homepage 'http://www.dafont.com/marshosbn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MARSHOSBN.ttf'
 end

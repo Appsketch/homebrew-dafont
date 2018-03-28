@@ -5,7 +5,6 @@ cask 'dafont-cul-de-sac2' do
     url 'http://dl.dafont.com/dl/?f=cul_de_sac2'
     name 'Cul de sac'
     homepage 'http://www.dafont.com/cul-de-sac2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cul de sac.ttf'
 end

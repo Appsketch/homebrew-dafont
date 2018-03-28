@@ -5,7 +5,6 @@ cask 'dafont-komikazba' do
     url 'http://dl.dafont.com/dl/?f=komikazba'
     name 'Komikazba'
     homepage 'http://www.dafont.com/komikazba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKZBA.ttf'
 end

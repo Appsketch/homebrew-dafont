@@ -5,7 +5,6 @@ cask 'dafont-wildcard' do
     url 'http://dl.dafont.com/dl/?f=wildcard'
     name 'Wildcard'
     homepage 'http://www.dafont.com/wildcard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wildcard3.ttf'
     font 'wildcard33d.ttf'

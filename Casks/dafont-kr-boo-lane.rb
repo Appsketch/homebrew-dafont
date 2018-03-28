@@ -5,7 +5,6 @@ cask 'dafont-kr-boo-lane' do
     url 'http://dl.dafont.com/dl/?f=kr_boo_lane'
     name 'KR Boo Lane'
     homepage 'http://www.dafont.com/kr-boo-lane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Boo Lane.ttf'
 end

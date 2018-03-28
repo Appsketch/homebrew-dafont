@@ -5,7 +5,6 @@ cask 'dafont-young-heart' do
     url 'http://dl.dafont.com/dl/?f=young_heart'
     name 'Young Heart'
     homepage 'http://www.dafont.com/young-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Young Heart.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lms-bloody-brujah' do
     url 'http://dl.dafont.com/dl/?f=lms_bloody_brujah'
     name 'LMS Bloody Brujah'
     homepage 'http://www.dafont.com/lms-bloody-brujah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LMS Bloody Brujah.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-double-scratch' do
     url 'http://dl.dafont.com/dl/?f=double_scratch'
     name 'Double Scratch'
     homepage 'http://www.dafont.com/double-scratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Double Scratch.ttf'
 end

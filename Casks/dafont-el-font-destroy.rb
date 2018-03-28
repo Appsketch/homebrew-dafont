@@ -5,7 +5,6 @@ cask 'dafont-el-font-destroy' do
     url 'http://dl.dafont.com/dl/?f=el_font_destroy'
     name 'El&amp;Font Destroy!'
     homepage 'http://www.dafont.com/el-font-destroy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '@El&amp;Font Destroy!.ttf'
 end

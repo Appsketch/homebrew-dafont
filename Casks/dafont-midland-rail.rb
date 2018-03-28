@@ -5,7 +5,6 @@ cask 'dafont-midland-rail' do
     url 'http://dl.dafont.com/dl/?f=midland_rail'
     name 'Midland Rail'
     homepage 'http://www.dafont.com/midland-rail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MIDLRN__.TTF'
 end

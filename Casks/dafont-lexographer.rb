@@ -5,7 +5,6 @@ cask 'dafont-lexographer' do
     url 'http://dl.dafont.com/dl/?f=lexographer'
     name 'Lexographer'
     homepage 'http://www.dafont.com/lexographer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lexo.ttf'
 end

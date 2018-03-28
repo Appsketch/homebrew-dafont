@@ -5,7 +5,6 @@ cask 'dafont-y-andermo' do
     url 'http://dl.dafont.com/dl/?f=y_andermo'
     name 'Y-Andermo'
     homepage 'http://www.dafont.com/y-andermo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yandermo.ttf'
 end

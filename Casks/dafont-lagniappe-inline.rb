@@ -5,7 +5,6 @@ cask 'dafont-lagniappe-inline' do
     url 'http://dl.dafont.com/dl/?f=lagniappe_inline'
     name 'Lagniappe Inline'
     homepage 'http://www.dafont.com/lagniappe-inline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LAGNIAPP.TTF'
 end

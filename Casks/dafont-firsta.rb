@@ -5,7 +5,6 @@ cask 'dafont-firsta' do
     url 'http://dl.dafont.com/dl/?f=firsta'
     name 'Firsta'
     homepage 'http://www.dafont.com/firsta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'firsta.ttf'
 end

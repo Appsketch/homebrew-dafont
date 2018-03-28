@@ -5,7 +5,6 @@ cask 'dafont-vieira' do
     url 'http://dl.dafont.com/dl/?f=vieira'
     name 'Vieira'
     homepage 'http://www.dafont.com/vieira.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VIEIRA__.TTF'
 end

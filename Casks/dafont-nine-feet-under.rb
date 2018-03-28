@@ -5,7 +5,6 @@ cask 'dafont-nine-feet-under' do
     url 'http://dl.dafont.com/dl/?f=nine_feet_under'
     name 'Nine Feet Under'
     homepage 'http://www.dafont.com/nine-feet-under.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nine Feet Under.ttf'
 end

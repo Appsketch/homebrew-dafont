@@ -5,7 +5,6 @@ cask 'dafont-vtctattooscriptthree' do
     url 'http://dl.dafont.com/dl/?f=vtctattooscriptthree'
     name 'VTC Tattoo Script Three'
     homepage 'http://www.dafont.com/vtctattooscriptthree.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtc-TattooScriptThree.ttf'
 end

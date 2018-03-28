@@ -5,7 +5,6 @@ cask 'dafont-almost-serious' do
     url 'http://dl.dafont.com/dl/?f=almost_serious'
     name 'Almost Serious'
     homepage 'http://www.dafont.com/almost-serious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'almostserious.ttf'
 end

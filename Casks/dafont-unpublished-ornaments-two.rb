@@ -5,7 +5,6 @@ cask 'dafont-unpublished-ornaments-two' do
     url 'http://dl.dafont.com/dl/?f=unpublished_ornaments_two'
     name 'Unpublished Ornaments Two'
     homepage 'http://www.dafont.com/unpublished-ornaments-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unpublished Ornaments Two.ttf'
 end

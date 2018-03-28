@@ -5,7 +5,6 @@ cask 'dafont-enter-sansman' do
     url 'http://dl.dafont.com/dl/?f=enter_sansman'
     name 'Enter Sansman'
     homepage 'http://www.dafont.com/enter-sansman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'entsani.ttf'
     font 'entsans.ttf'

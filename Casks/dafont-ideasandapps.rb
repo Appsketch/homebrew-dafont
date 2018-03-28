@@ -5,7 +5,6 @@ cask 'dafont-ideasandapps' do
     url 'http://dl.dafont.com/dl/?f=ideasandapps'
     name 'Ideas and Apps'
     homepage 'http://www.dafont.com/ideasandapps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ideasAndApps.ttf'
 end

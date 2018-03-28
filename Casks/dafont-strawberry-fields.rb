@@ -5,7 +5,6 @@ cask 'dafont-strawberry-fields' do
     url 'http://dl.dafont.com/dl/?f=strawberry_fields'
     name 'Strawberry Fields'
     homepage 'http://www.dafont.com/strawberry-fields.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strawberry Fields Empty.ttf'
     font 'Strawberry Fields.ttf'

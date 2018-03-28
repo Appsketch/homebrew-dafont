@@ -5,7 +5,6 @@ cask 'dafont-skirmisher' do
     url 'http://dl.dafont.com/dl/?f=skirmisher'
     name 'Skirmisher'
     homepage 'http://www.dafont.com/skirmisher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skirmisher.ttf'
     font 'skirmisher3d.ttf'

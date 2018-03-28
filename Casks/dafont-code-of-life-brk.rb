@@ -5,7 +5,6 @@ cask 'dafont-code-of-life-brk' do
     url 'http://dl.dafont.com/dl/?f=code_of_life_brk'
     name 'Code Of Life + Spheroids BRK'
     homepage 'http://www.dafont.com/code-of-life-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'codelife.ttf'
     font 'spheroid.ttf'

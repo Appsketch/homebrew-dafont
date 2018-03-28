@@ -5,7 +5,6 @@ cask 'dafont-astro-script' do
     url 'http://dl.dafont.com/dl/?f=astro_script'
     name 'Astro Script'
     homepage 'http://www.dafont.com/astro-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AstroScript-Bold.ttf'
     font 'AstroScript.ttf'

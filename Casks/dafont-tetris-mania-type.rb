@@ -5,7 +5,6 @@ cask 'dafont-tetris-mania-type' do
     url 'http://dl.dafont.com/dl/?f=tetris_mania_type'
     name 'Tetris Mania Type'
     homepage 'http://www.dafont.com/tetris-mania-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tetris Mania Type.ttf'
 end

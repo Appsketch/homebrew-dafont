@@ -5,7 +5,6 @@ cask 'dafont-tuscan-flies' do
     url 'http://dl.dafont.com/dl/?f=tuscan_flies'
     name 'Tuscan Flies'
     homepage 'http://www.dafont.com/tuscan-flies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tuscan_Flies.ttf'
 end

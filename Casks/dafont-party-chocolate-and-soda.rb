@@ -5,7 +5,6 @@ cask 'dafont-party-chocolate-and-soda' do
     url 'http://dl.dafont.com/dl/?f=party_chocolate_and_soda'
     name 'Party Chocolate and Soda'
     homepage 'http://www.dafont.com/party-chocolate-and-soda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Party Chocolate and Soda.ttf'
 end

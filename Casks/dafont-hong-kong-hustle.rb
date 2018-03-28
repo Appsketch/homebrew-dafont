@@ -5,7 +5,6 @@ cask 'dafont-hong-kong-hustle' do
     url 'http://dl.dafont.com/dl/?f=hong_kong_hustle'
     name 'Hong Kong Hustle'
     homepage 'http://www.dafont.com/hong-kong-hustle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hongkonghustle.ttf'
     font 'hongkonghustle3d.ttf'

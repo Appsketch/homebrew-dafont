@@ -5,7 +5,6 @@ cask 'dafont-odd-ethnic' do
     url 'http://dl.dafont.com/dl/?f=odd_ethnic'
     name 'Odd Ethnic'
     homepage 'http://www.dafont.com/odd-ethnic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'odd ethnic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-menuetto' do
     url 'http://dl.dafont.com/dl/?f=menuetto'
     name 'Menuetto'
     homepage 'http://www.dafont.com/menuetto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MENUETTO.TTF'
 end

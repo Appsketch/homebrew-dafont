@@ -5,7 +5,6 @@ cask 'dafont-seminole' do
     url 'http://dl.dafont.com/dl/?f=seminole'
     name 'Seminole'
     homepage 'http://www.dafont.com/seminole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seminole-Regular.otf'
 end

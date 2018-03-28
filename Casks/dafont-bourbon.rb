@@ -5,7 +5,6 @@ cask 'dafont-bourbon' do
     url 'http://dl.dafont.com/dl/?f=bourbon'
     name 'Bourbon'
     homepage 'http://www.dafont.com/bourbon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bourbon.ttf'
 end

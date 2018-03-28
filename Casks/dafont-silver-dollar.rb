@@ -5,7 +5,6 @@ cask 'dafont-silver-dollar' do
     url 'http://dl.dafont.com/dl/?f=silver_dollar'
     name 'Silver Dollar'
     homepage 'http://www.dafont.com/silver-dollar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'agdollar.ttf'
 end

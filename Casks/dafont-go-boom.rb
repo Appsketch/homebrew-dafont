@@ -5,7 +5,6 @@ cask 'dafont-go-boom' do
     url 'http://dl.dafont.com/dl/?f=go_boom'
     name 'Go Boom!'
     homepage 'http://www.dafont.com/go-boom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Go Boom!.ttf'
 end

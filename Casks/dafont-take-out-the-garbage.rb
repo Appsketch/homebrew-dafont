@@ -5,7 +5,6 @@ cask 'dafont-take-out-the-garbage' do
     url 'http://dl.dafont.com/dl/?f=take_out_the_garbage'
     name 'Take Out The Garbage'
     homepage 'http://www.dafont.com/take-out-the-garbage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'take_out_the_garbage.ttf'
 end

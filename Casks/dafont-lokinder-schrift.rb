@@ -5,7 +5,6 @@ cask 'dafont-lokinder-schrift' do
     url 'http://dl.dafont.com/dl/?f=lokinder_schrift'
     name 'Lokinder Schrift'
     homepage 'http://www.dafont.com/lokinder-schrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOKISD__.TTF'
     font 'LOKISH__.TTF'

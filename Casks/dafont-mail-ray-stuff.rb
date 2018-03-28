@@ -5,7 +5,6 @@ cask 'dafont-mail-ray-stuff' do
     url 'http://dl.dafont.com/dl/?f=mail_ray_stuff'
     name 'Mail Ray Stuff'
     homepage 'http://www.dafont.com/mail-ray-stuff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mail ray stuff.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vintage-fair' do
     url 'http://dl.dafont.com/dl/?f=vintage_fair'
     name 'Vintage Fair'
     homepage 'http://www.dafont.com/vintage-fair.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vintage_fair.ttf'
 end

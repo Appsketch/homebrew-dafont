@@ -5,7 +5,6 @@ cask 'dafont-dzr-inscription' do
     url 'http://dl.dafont.com/dl/?f=dzr_inscription'
     name 'DZR Inscription'
     homepage 'http://www.dafont.com/dzr-inscription.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DZR INSCRIPTION.ttf'
 end

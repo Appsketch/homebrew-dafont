@@ -5,7 +5,6 @@ cask 'dafont-mars-weltfremd' do
     url 'http://dl.dafont.com/dl/?f=mars_weltfremd'
     name 'Mars Weltfremd'
     homepage 'http://www.dafont.com/mars-weltfremd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MARS.ttf'
 end

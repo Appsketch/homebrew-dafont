@@ -5,7 +5,6 @@ cask 'dafont-braille-altend' do
     url 'http://dl.dafont.com/dl/?f=braille_altend'
     name 'Braille'
     homepage 'http://www.dafont.com/braille-altend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'braille.ttf'
 end

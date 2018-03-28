@@ -5,7 +5,6 @@ cask 'dafont-statement' do
     url 'http://dl.dafont.com/dl/?f=statement'
     name 'Statement'
     homepage 'http://www.dafont.com/statement.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Emboss Statement Regular.ttf'
     font 'Sans Statement Regular.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-sf-americana-dreams' do
     url 'http://dl.dafont.com/dl/?f=sf_americana_dreams'
     name 'SF Americana Dreams'
     homepage 'http://www.dafont.com/sf-americana-dreams.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Americana Dreams Bold.ttf'
     font 'SF Americana Dreams Extended Bold.ttf'

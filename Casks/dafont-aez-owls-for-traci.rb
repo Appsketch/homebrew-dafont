@@ -5,7 +5,6 @@ cask 'dafont-aez-owls-for-traci' do
     url 'http://dl.dafont.com/dl/?f=aez_owls_for_traci'
     name 'AEZ Owls for Traci'
     homepage 'http://www.dafont.com/aez-owls-for-traci.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AEZowlsfortraci.ttf'
 end

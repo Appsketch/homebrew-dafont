@@ -5,7 +5,6 @@ cask 'dafont-cool-iris' do
     url 'http://dl.dafont.com/dl/?f=cool_iris'
     name 'Cool Iris'
     homepage 'http://www.dafont.com/cool-iris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cool_iris.ttf'
 end

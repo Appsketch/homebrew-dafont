@@ -5,7 +5,6 @@ cask 'dafont-deco-freehand' do
     url 'http://dl.dafont.com/dl/?f=deco_freehand'
     name 'Deco Freehand'
     homepage 'http://www.dafont.com/deco-freehand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'decofree.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-over-sea' do
     url 'http://dl.dafont.com/dl/?f=over_sea'
     name 'Over Sea'
     homepage 'http://www.dafont.com/over-sea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Over Sea.ttf'
 end

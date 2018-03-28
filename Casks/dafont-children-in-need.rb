@@ -5,7 +5,6 @@ cask 'dafont-children-in-need' do
     url 'http://dl.dafont.com/dl/?f=children_in_need'
     name 'Children in Need'
     homepage 'http://www.dafont.com/children-in-need.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Children in Need.ttf'
 end
