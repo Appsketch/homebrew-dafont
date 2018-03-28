@@ -5,7 +5,6 @@ cask 'dafont-yr-face' do
     url 'http://dl.dafont.com/dl/?f=yr_face'
     name 'Yr Face'
     homepage 'http://www.dafont.com/yr-face.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YRFACE.ttf'
 end

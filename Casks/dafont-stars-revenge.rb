@@ -5,7 +5,6 @@ cask 'dafont-stars-revenge' do
     url 'http://dl.dafont.com/dl/?f=stars_revenge'
     name 'Stars Revenge'
     homepage 'http://www.dafont.com/stars-revenge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stars_revenge.ttf'
 end

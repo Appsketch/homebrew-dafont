@@ -5,7 +5,6 @@ cask 'dafont-on-aika-soittaa-sinfonia' do
     url 'http://dl.dafont.com/dl/?f=on_aika_soittaa_sinfonia'
     name 'On aika soittaa sinfonia'
     homepage 'http://www.dafont.com/on-aika-soittaa-sinfonia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'On aika soittaa sinfonia.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gohan' do
     url 'http://dl.dafont.com/dl/?f=gohan'
     name 'Gohan'
     homepage 'http://www.dafont.com/gohan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GOHAN___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-broadwayevent' do
     url 'http://dl.dafont.com/dl/?f=broadwayevent'
     name 'Broadway Event'
     homepage 'http://www.dafont.com/broadwayevent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BroadwayEvent.ttf'
 end

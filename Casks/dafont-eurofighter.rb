@@ -5,7 +5,6 @@ cask 'dafont-eurofighter' do
     url 'http://dl.dafont.com/dl/?f=eurofighter'
     name 'Eurofighter'
     homepage 'http://www.dafont.com/eurofighter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eurofighter.ttf'
     font 'eurofighteracad.ttf'

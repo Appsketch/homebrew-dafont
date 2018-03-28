@@ -5,7 +5,6 @@ cask 'dafont-back-to-nature' do
     url 'http://dl.dafont.com/dl/?f=back_to_nature'
     name 'Back To Nature'
     homepage 'http://www.dafont.com/back-to-nature.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BACK TO NATURE.ttf'
 end

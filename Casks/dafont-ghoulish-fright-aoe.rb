@@ -5,7 +5,6 @@ cask 'dafont-ghoulish-fright-aoe' do
     url 'http://dl.dafont.com/dl/?f=ghoulish_fright_aoe'
     name 'Ghoulish Fright AOE'
     homepage 'http://www.dafont.com/ghoulish-fright-aoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truetype/GhoulFriAOE.ttf'
 end

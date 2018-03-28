@@ -5,7 +5,6 @@ cask 'dafont-sl-mythological-sil' do
     url 'http://dl.dafont.com/dl/?f=sl_mythological_sil'
     name 'SL Mythological Silhouettes'
     homepage 'http://www.dafont.com/sl-mythological-sil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SL Mythological Silhouettes.ttf'
 end

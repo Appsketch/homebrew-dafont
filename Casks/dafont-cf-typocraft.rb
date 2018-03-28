@@ -5,7 +5,6 @@ cask 'dafont-cf-typocraft' do
     url 'http://dl.dafont.com/dl/?f=cf_typocraft'
     name 'CF TypoCraft'
     homepage 'http://www.dafont.com/cf-typocraft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFTypoCraft-Regular.ttf'
 end

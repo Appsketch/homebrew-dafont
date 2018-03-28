@@ -5,7 +5,6 @@ cask 'dafont-sketchy-times' do
     url 'http://dl.dafont.com/dl/?f=_sketchy_times'
     name '!Sketchy Times'
     homepage 'http://www.dafont.com/-sketchy-times.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '!SketchyTimes-b.ttf'
     font '!sketchytimes.ttf'

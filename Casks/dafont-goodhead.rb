@@ -5,7 +5,6 @@ cask 'dafont-goodhead' do
     url 'http://dl.dafont.com/dl/?f=goodhead'
     name 'Goodhead'
     homepage 'http://www.dafont.com/goodhead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GOODHEAD.TTF'
 end

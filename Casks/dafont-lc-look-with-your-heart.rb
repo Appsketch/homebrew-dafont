@@ -5,7 +5,6 @@ cask 'dafont-lc-look-with-your-heart' do
     url 'http://dl.dafont.com/dl/?f=lc_look_with_your_heart'
     name 'LC Look With Your Heart'
     homepage 'http://www.dafont.com/lc-look-with-your-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LC Look With Your Heart.ttf'
 end

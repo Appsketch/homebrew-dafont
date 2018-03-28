@@ -5,7 +5,6 @@ cask 'dafont-m40bitline' do
     url 'http://dl.dafont.com/dl/?f=m40bitline'
     name 'M40 Bitline'
     homepage 'http://www.dafont.com/m40bitline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'm40.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-magician-rings' do
     url 'http://dl.dafont.com/dl/?f=magician_rings'
     name 'Magician Rings'
     homepage 'http://www.dafont.com/magician-rings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Magician Rings.ttf'
 end

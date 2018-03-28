@@ -5,7 +5,6 @@ cask 'dafont-eloncommunity' do
     url 'http://dl.dafont.com/dl/?f=eloncommunity'
     name 'Elon Community'
     homepage 'http://www.dafont.com/eloncommunity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ElonCommunity.ttf'
 end

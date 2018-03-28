@@ -5,7 +5,6 @@ cask 'dafont-crowns-and-coronets' do
     url 'http://dl.dafont.com/dl/?f=crowns_and_coronets'
     name 'Crowns and Coronets'
     homepage 'http://www.dafont.com/crowns-and-coronets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crowns.ttf'
 end

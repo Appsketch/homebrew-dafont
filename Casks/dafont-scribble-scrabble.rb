@@ -5,7 +5,6 @@ cask 'dafont-scribble-scrabble' do
     url 'http://dl.dafont.com/dl/?f=scribble_scrabble'
     name 'Scribble Scrabble'
     homepage 'http://www.dafont.com/scribble-scrabble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scribble_Scrabble.ttf'
 end

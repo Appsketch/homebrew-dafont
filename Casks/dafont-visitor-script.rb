@@ -5,7 +5,6 @@ cask 'dafont-visitor-script' do
     url 'http://dl.dafont.com/dl/?f=visitor_script'
     name 'Visitor Script'
     homepage 'http://www.dafont.com/visitor-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Visitor Script Bold Italic.otf'
     font 'Visitor Script Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-caution' do
     url 'http://dl.dafont.com/dl/?f=caution'
     name 'Caution'
     homepage 'http://www.dafont.com/caution.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CAUTION.ttf'
 end

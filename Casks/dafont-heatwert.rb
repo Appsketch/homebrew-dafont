@@ -5,7 +5,6 @@ cask 'dafont-heatwert' do
     url 'http://dl.dafont.com/dl/?f=heatwert'
     name 'Heatwert'
     homepage 'http://www.dafont.com/heatwert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heatwerk DEMO.otf'
 end

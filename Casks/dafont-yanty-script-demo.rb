@@ -5,7 +5,6 @@ cask 'dafont-yanty-script-demo' do
     url 'http://dl.dafont.com/dl/?f=yanty_script_demo'
     name 'Yanty Script'
     homepage 'http://www.dafont.com/yanty-script-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YantyScript_Demo.ttf'
 end

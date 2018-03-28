@@ -5,7 +5,6 @@ cask 'dafont-slug-bug' do
     url 'http://dl.dafont.com/dl/?f=slug_bug'
     name 'Slug Bug'
     homepage 'http://www.dafont.com/slug-bug.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slug Bug Filled Regular.ttf'
     font 'Slug Bug Open Regular.ttf'

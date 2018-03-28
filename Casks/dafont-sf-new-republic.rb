@@ -5,7 +5,6 @@ cask 'dafont-sf-new-republic' do
     url 'http://dl.dafont.com/dl/?f=sf_new_republic'
     name 'SF New Republic'
     homepage 'http://www.dafont.com/sf-new-republic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF New Republic Bold Italic.ttf'
     font 'SF New Republic Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-evil-dead-ii-us' do
     url 'http://dl.dafont.com/dl/?f=evil_dead_ii_us'
     name 'Evil Deas by Dawn US'
     homepage 'http://www.dafont.com/evil-dead-ii-us.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeadbdS_.ttf'
 end

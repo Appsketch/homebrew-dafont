@@ -5,7 +5,6 @@ cask 'dafont-who-am-i' do
     url 'http://dl.dafont.com/dl/?f=who_am_i'
     name 'Who Am I'
     homepage 'http://www.dafont.com/who-am-i.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WHOAMI.ttf'
 end

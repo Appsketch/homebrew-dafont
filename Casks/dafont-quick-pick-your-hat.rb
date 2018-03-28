@@ -5,7 +5,6 @@ cask 'dafont-quick-pick-your-hat' do
     url 'http://dl.dafont.com/dl/?f=quick_pick_your_hat'
     name 'Quick Pick Your Hat'
     homepage 'http://www.dafont.com/quick-pick-your-hat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quick Pick Your Hat.ttf'
 end

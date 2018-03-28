@@ -5,7 +5,6 @@ cask 'dafont-torstai-perjantai' do
     url 'http://dl.dafont.com/dl/?f=torstai_perjantai'
     name 'Torstai Perjantai'
     homepage 'http://www.dafont.com/torstai-perjantai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Torstai perjantai.ttf'
 end

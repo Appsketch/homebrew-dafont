@@ -5,7 +5,6 @@ cask 'dafont-arkanoid' do
     url 'http://dl.dafont.com/dl/?f=arkanoid'
     name 'Iomanoid'
     homepage 'http://www.dafont.com/arkanoid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iomanoid back.ttf'
     font 'iomanoid front.ttf'

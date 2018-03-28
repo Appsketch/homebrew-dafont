@@ -5,7 +5,6 @@ cask 'dafont-dirtydeohandink' do
     url 'http://dl.dafont.com/dl/?f=dirtydeohandink'
     name 'DirtyDeoHandInk'
     homepage 'http://www.dafont.com/dirtydeohandink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dirtyDeoHandInk.ttf'
 end

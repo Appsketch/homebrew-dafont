@@ -5,7 +5,6 @@ cask 'dafont-barberpoles' do
     url 'http://dl.dafont.com/dl/?f=barberpoles'
     name 'BarberPoles'
     homepage 'http://www.dafont.com/barberpoles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BarberPoles.ttf'
 end

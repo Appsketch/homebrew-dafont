@@ -5,7 +5,6 @@ cask 'dafont-the-minion' do
     url 'http://dl.dafont.com/dl/?f=the_minion'
     name 'The Minion'
     homepage 'http://www.dafont.com/the-minion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THE MINION.ttf'
 end

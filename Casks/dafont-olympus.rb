@@ -5,7 +5,6 @@ cask 'dafont-olympus' do
     url 'http://dl.dafont.com/dl/?f=olympus'
     name 'Olympus'
     homepage 'http://www.dafont.com/olympus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OLYMB___.TTF'
     font 'OLYMRG__.TTF'

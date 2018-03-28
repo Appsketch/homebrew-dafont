@@ -5,7 +5,6 @@ cask 'dafont-paja-raja' do
     url 'http://dl.dafont.com/dl/?f=paja_raja'
     name 'Paja Raja'
     homepage 'http://www.dafont.com/paja-raja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paja Raja.ttf'
 end

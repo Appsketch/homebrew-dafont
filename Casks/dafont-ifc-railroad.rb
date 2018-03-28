@@ -5,7 +5,6 @@ cask 'dafont-ifc-railroad' do
     url 'http://dl.dafont.com/dl/?f=ifc_railroad'
     name 'IFC Rail Road'
     homepage 'http://www.dafont.com/ifc-railroad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IFC RAILROAD 2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-lampion' do
     url 'http://dl.dafont.com/dl/?f=dk_lampion'
     name 'DK Lampion'
     homepage 'http://www.dafont.com/dk-lampion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Lampion.otf'
 end

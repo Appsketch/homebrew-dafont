@@ -5,7 +5,6 @@ cask 'dafont-union-soap' do
     url 'http://dl.dafont.com/dl/?f=union_soap'
     name 'Union Soap'
     homepage 'http://www.dafont.com/union-soap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Union soap.ttf'
 end

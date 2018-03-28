@@ -5,7 +5,6 @@ cask 'dafont-goatskin-brush' do
     url 'http://dl.dafont.com/dl/?f=goatskin_brush'
     name 'Goatskin Brush'
     homepage 'http://www.dafont.com/goatskin-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GoatskinBrush_PersonalUse.ttf'
 end

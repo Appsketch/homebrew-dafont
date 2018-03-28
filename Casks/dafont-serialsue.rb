@@ -5,7 +5,6 @@ cask 'dafont-serialsue' do
     url 'http://dl.dafont.com/dl/?f=serialsue'
     name 'SerialSue'
     homepage 'http://www.dafont.com/serialsue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SERIALS_T.ttf'
 end

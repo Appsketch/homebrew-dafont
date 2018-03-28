@@ -5,7 +5,6 @@ cask 'dafont-jf-holly-dayz-nites' do
     url 'http://dl.dafont.com/dl/?f=jf_holly_dayz_nites'
     name 'JF Holly'
     homepage 'http://www.dafont.com/jf-holly-dayz-nites.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JFHolBow.ttf'
     font 'JFHolDaz.ttf'

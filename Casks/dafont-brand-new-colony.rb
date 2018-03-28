@@ -5,7 +5,6 @@ cask 'dafont-brand-new-colony' do
     url 'http://dl.dafont.com/dl/?f=brand_new_colony'
     name 'Brand New Colony'
     homepage 'http://www.dafont.com/brand-new-colony.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brand New Colony.ttf'
 end

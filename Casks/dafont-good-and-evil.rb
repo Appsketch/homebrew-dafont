@@ -5,7 +5,6 @@ cask 'dafont-good-and-evil' do
     url 'http://dl.dafont.com/dl/?f=good_and_evil'
     name 'Good and Evil'
     homepage 'http://www.dafont.com/good-and-evil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Good And Evil Day.ttf'
     font 'Good And Evil Night.ttf'

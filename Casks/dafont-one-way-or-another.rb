@@ -5,7 +5,6 @@ cask 'dafont-one-way-or-another' do
     url 'http://dl.dafont.com/dl/?f=one_way_or_another'
     name 'One Way Or Another'
     homepage 'http://www.dafont.com/one-way-or-another.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'One Way Or Another.ttf'
 end

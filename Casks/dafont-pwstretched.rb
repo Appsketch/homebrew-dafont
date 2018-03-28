@@ -5,7 +5,6 @@ cask 'dafont-pwstretched' do
     url 'http://dl.dafont.com/dl/?f=pwstretched'
     name 'PW Stretched'
     homepage 'http://www.dafont.com/pwstretched.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWStretched.ttf'
 end

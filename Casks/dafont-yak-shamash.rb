@@ -5,7 +5,6 @@ cask 'dafont-yak-shamash' do
     url 'http://dl.dafont.com/dl/?f=yak_shamash'
     name 'Yak Shamash'
     homepage 'http://www.dafont.com/yak-shamash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yak Shamash.ttf'
 end

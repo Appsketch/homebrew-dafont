@@ -5,7 +5,6 @@ cask 'dafont-disney-heroic' do
     url 'http://dl.dafont.com/dl/?f=disney_heroic'
     name 'Disney Heroic'
     homepage 'http://www.dafont.com/disney-heroic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DisneyHeroic.ttf'
 end

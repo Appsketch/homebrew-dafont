@@ -5,7 +5,6 @@ cask 'dafont-covington' do
     url 'http://dl.dafont.com/dl/?f=covington'
     name 'Covington'
     homepage 'http://www.dafont.com/covington.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coving01.ttf'
     font 'Coving02.ttf'

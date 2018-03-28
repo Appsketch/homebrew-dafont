@@ -5,7 +5,6 @@ cask 'dafont-frenchsugar' do
     url 'http://dl.dafont.com/dl/?f=frenchsugar'
     name 'French Sugar'
     homepage 'http://www.dafont.com/frenchsugar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FrenchSugar.ttf'
 end

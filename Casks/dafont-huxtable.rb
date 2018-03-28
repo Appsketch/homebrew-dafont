@@ -5,7 +5,6 @@ cask 'dafont-huxtable' do
     url 'http://dl.dafont.com/dl/?f=huxtable'
     name 'Huxtable'
     homepage 'http://www.dafont.com/huxtable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'huxtable.ttf'
 end

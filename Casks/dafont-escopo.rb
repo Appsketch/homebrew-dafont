@@ -5,7 +5,6 @@ cask 'dafont-escopo' do
     url 'http://dl.dafont.com/dl/?f=escopo'
     name 'Escopo'
     homepage 'http://www.dafont.com/escopo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ESCOPO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gotica-bastard' do
     url 'http://dl.dafont.com/dl/?f=gotica_bastard'
     name 'Gotica Bastard'
     homepage 'http://www.dafont.com/gotica-bastard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GoticaBastard.ttf'
 end

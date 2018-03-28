@@ -5,7 +5,6 @@ cask 'dafont-stereotypo' do
     url 'http://dl.dafont.com/dl/?f=stereotypo'
     name 'StereoTypo'
     homepage 'http://www.dafont.com/stereotypo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Font/StereoTypo.otf'
 end

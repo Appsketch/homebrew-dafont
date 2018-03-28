@@ -5,7 +5,6 @@ cask 'dafont-parole-script' do
     url 'http://dl.dafont.com/dl/?f=parole_script'
     name 'Parole Script'
     homepage 'http://www.dafont.com/parole-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAROLE Script Bold Demo.otf'
     font 'PAROLE Script demo.otf'

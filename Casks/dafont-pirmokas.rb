@@ -5,7 +5,6 @@ cask 'dafont-pirmokas' do
     url 'http://dl.dafont.com/dl/?f=pirmokas'
     name 'Pirmokas'
     homepage 'http://www.dafont.com/pirmokas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pirmokas_demo.otf'
 end

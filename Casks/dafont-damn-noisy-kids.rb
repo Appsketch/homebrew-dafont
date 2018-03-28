@@ -5,7 +5,6 @@ cask 'dafont-damn-noisy-kids' do
     url 'http://dl.dafont.com/dl/?f=damn_noisy_kids'
     name 'Damn Noisy Kids'
     homepage 'http://www.dafont.com/damn-noisy-kids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dnk.ttf'
 end

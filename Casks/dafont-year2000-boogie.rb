@@ -5,7 +5,6 @@ cask 'dafont-year2000-boogie' do
     url 'http://dl.dafont.com/dl/?f=year2000_boogie'
     name 'Year 2000 Boogie'
     homepage 'http://www.dafont.com/year2000-boogie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'y2kboogie.ttf'
 end

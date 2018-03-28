@@ -5,7 +5,6 @@ cask 'dafont-klein-slabserif' do
     url 'http://dl.dafont.com/dl/?f=klein_slabserif'
     name 'Klein Slabserif'
     homepage 'http://www.dafont.com/klein-slabserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KleinSlabserif-Bold.ttf'
     font 'KleinSlabserif-Light.ttf'

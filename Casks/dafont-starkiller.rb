@@ -5,7 +5,6 @@ cask 'dafont-starkiller' do
     url 'http://dl.dafont.com/dl/?f=starkiller'
     name 'Starkiller'
     homepage 'http://www.dafont.com/starkiller.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Starkiller Italic.ttf'
     font 'Starkiller Outline Italic.ttf'

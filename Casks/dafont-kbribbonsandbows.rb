@@ -5,7 +5,6 @@ cask 'dafont-kbribbonsandbows' do
     url 'http://dl.dafont.com/dl/?f=kbribbonsandbows'
     name 'KB Ribbons And Bows'
     homepage 'http://www.dafont.com/kbribbonsandbows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBRibbonsAndBows.ttf'
 end

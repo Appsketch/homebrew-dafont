@@ -5,7 +5,6 @@ cask 'dafont-vtks-sign-of-times' do
     url 'http://dl.dafont.com/dl/?f=vtks_sign_of_times'
     name 'VTKS Sign Of Times'
     homepage 'http://www.dafont.com/vtks-sign-of-times.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS SIGN OF TIMES bold.ttf'
     font 'VTKS SIGN OF TIMES.ttf'

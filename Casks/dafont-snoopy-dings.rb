@@ -5,7 +5,6 @@ cask 'dafont-snoopy-dings' do
     url 'http://dl.dafont.com/dl/?f=snoopy_dings'
     name 'Snoopy Dings'
     homepage 'http://www.dafont.com/snoopy-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snoopy_Dings.ttf'
 end

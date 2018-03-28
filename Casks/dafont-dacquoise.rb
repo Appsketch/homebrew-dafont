@@ -5,7 +5,6 @@ cask 'dafont-dacquoise' do
     url 'http://dl.dafont.com/dl/?f=dacquoise'
     name 'Dacquoise'
     homepage 'http://www.dafont.com/dacquoise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dacquoise.ttf'
 end

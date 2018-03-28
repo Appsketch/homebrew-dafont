@@ -5,7 +5,6 @@ cask 'dafont-bookworm' do
     url 'http://dl.dafont.com/dl/?f=bookworm'
     name 'Bookworm'
     homepage 'http://www.dafont.com/bookworm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bookworm_062308.ttf'
 end

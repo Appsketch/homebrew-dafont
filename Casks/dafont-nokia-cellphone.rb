@@ -5,7 +5,6 @@ cask 'dafont-nokia-cellphone' do
     url 'http://dl.dafont.com/dl/?f=nokia_cellphone'
     name 'Nokia Cellphone FC'
     homepage 'http://www.dafont.com/nokia-cellphone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nokiafc22.ttf'
 end

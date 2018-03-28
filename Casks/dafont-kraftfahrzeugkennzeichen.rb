@@ -5,7 +5,6 @@ cask 'dafont-kraftfahrzeugkennzeichen' do
     url 'http://dl.dafont.com/dl/?f=kraftfahrzeugkennzeichen'
     name 'Kraftfahrzeugkennzeichen'
     homepage 'http://www.dafont.com/kraftfahrzeugkennzeichen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kraftfahrzeugkennzeichen.ttf'
 end

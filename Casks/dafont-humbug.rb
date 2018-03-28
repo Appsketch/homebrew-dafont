@@ -5,7 +5,6 @@ cask 'dafont-humbug' do
     url 'http://dl.dafont.com/dl/?f=humbug'
     name 'Humbug'
     homepage 'http://www.dafont.com/humbug.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Humbug.ttf'
 end

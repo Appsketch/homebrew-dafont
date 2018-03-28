@@ -5,7 +5,6 @@ cask 'dafont-knife-fight-ballet' do
     url 'http://dl.dafont.com/dl/?f=knife_fight_ballet'
     name 'Knife Fight Ballet'
     homepage 'http://www.dafont.com/knife-fight-ballet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KnifeFightBallet-Italic.ttf'
     font 'KnifeFightBallet-Regular.ttf'

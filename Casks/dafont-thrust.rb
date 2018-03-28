@@ -5,7 +5,6 @@ cask 'dafont-thrust' do
     url 'http://dl.dafont.com/dl/?f=thrust'
     name 'Thrust'
     homepage 'http://www.dafont.com/thrust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THRUST__.TTF'
 end

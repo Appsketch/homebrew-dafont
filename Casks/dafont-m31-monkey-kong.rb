@@ -5,7 +5,6 @@ cask 'dafont-m31-monkey-kong' do
     url 'http://dl.dafont.com/dl/?f=m31_monkey_kong'
     name 'M31 Monkey Kong'
     homepage 'http://www.dafont.com/m31-monkey-kong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'm31.TTF'
 end

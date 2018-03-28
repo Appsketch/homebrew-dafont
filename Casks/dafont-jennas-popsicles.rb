@@ -5,7 +5,6 @@ cask 'dafont-jennas-popsicles' do
     url 'http://dl.dafont.com/dl/?f=jennas_popsicles'
     name 'Jenna&#039;s Popsicles'
     homepage 'http://www.dafont.com/jennas-popsicles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JennasPopsicles.ttf'
 end

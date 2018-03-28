@@ -5,7 +5,6 @@ cask 'dafont-soozieqs' do
     url 'http://dl.dafont.com/dl/?f=soozieqs'
     name 'SoozieQs'
     homepage 'http://www.dafont.com/soozieqs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SoozieQs.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-retro-party' do
     url 'http://dl.dafont.com/dl/?f=retro_party'
     name 'Retro Party'
     homepage 'http://www.dafont.com/retro-party.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'retro_party.ttf'
 end

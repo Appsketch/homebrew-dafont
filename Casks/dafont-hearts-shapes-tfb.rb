@@ -5,7 +5,6 @@ cask 'dafont-hearts-shapes-tfb' do
     url 'http://dl.dafont.com/dl/?f=hearts_shapes_tfb'
     name 'Hearts Shapes TFB'
     homepage 'http://www.dafont.com/hearts-shapes-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hearts Shapes Tfb.ttf'
 end

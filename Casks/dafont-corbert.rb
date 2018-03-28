@@ -5,7 +5,6 @@ cask 'dafont-corbert' do
     url 'http://dl.dafont.com/dl/?f=corbert'
     name 'Corbert'
     homepage 'http://www.dafont.com/corbert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Corbert-Italic.otf'
     font 'Corbert-Regular.otf'

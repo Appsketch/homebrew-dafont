@@ -5,7 +5,6 @@ cask 'dafont-alley-cat' do
     url 'http://dl.dafont.com/dl/?f=alley_cat'
     name 'Alley Cat'
     homepage 'http://www.dafont.com/alley-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alley Cat.ttf'
 end

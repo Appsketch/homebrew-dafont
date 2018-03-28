@@ -5,7 +5,6 @@ cask 'dafont-st-nicholas' do
     url 'http://dl.dafont.com/dl/?f=st_nicholas'
     name 'St. Nicholas'
     homepage 'http://www.dafont.com/st-nicholas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stnicholas.ttf'
 end

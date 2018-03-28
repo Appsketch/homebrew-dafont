@@ -5,7 +5,6 @@ cask 'dafont-tomorrow-people' do
     url 'http://dl.dafont.com/dl/?f=tomorrow_people'
     name 'Tomorrow People'
     homepage 'http://www.dafont.com/tomorrow-people.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOMOPRG_.TTF'
 end

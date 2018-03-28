@@ -5,7 +5,6 @@ cask 'dafont-hiragana-tfb' do
     url 'http://dl.dafont.com/dl/?f=hiragana_tfb'
     name 'Hiragana TFB'
     homepage 'http://www.dafont.com/hiragana-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hiragana tfb.ttf'
 end

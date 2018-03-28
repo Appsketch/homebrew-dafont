@@ -5,7 +5,6 @@ cask 'dafont-galapogos-brk' do
     url 'http://dl.dafont.com/dl/?f=galapogos_brk'
     name 'Galapogos BRK'
     homepage 'http://www.dafont.com/galapogos-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'galapogo.ttf'
 end

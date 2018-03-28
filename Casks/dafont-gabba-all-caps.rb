@@ -5,7 +5,6 @@ cask 'dafont-gabba-all-caps' do
     url 'http://dl.dafont.com/dl/?f=gabba_all_caps'
     name 'Gabba All Caps'
     homepage 'http://www.dafont.com/gabba-all-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gabba_All_Caps.otf'
 end

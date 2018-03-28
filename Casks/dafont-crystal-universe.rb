@@ -5,7 +5,6 @@ cask 'dafont-crystal-universe' do
     url 'http://dl.dafont.com/dl/?f=crystal_universe'
     name 'Crystal Universe'
     homepage 'http://www.dafont.com/crystal-universe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrystalUniverse-Oblique.ttf'
     font 'CrystalUniverse-Regular.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-salterio-trash' do
     url 'http://dl.dafont.com/dl/?f=salterio_trash'
     name 'Salterio Trash'
     homepage 'http://www.dafont.com/salterio-trash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Salterio Trash.ttf'
 end

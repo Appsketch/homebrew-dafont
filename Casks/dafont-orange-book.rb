@@ -5,7 +5,6 @@ cask 'dafont-orange-book' do
     url 'http://dl.dafont.com/dl/?f=orange_book'
     name 'Orange Book'
     homepage 'http://www.dafont.com/orange-book.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Orange_B.ttf'
 end

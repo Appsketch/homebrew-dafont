@@ -5,7 +5,6 @@ cask 'dafont-easter-sunrise' do
     url 'http://dl.dafont.com/dl/?f=easter_sunrise'
     name 'Easter Sunrise'
     homepage 'http://www.dafont.com/easter-sunrise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eastersunrise.TTF'
 end

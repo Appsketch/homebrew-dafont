@@ -5,7 +5,6 @@ cask 'dafont-from-me-2-you' do
     url 'http://dl.dafont.com/dl/?f=from_me_2_you'
     name 'From Me 2 You'
     homepage 'http://www.dafont.com/from-me-2-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'From Me 2 You.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-saberhusk' do
     url 'http://dl.dafont.com/dl/?f=saberhusk'
     name 'Saber Husk'
     homepage 'http://www.dafont.com/saberhusk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SaberHusk.ttf'
 end

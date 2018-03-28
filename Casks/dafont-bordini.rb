@@ -5,7 +5,6 @@ cask 'dafont-bordini' do
     url 'http://dl.dafont.com/dl/?f=bordini'
     name 'Bordini'
     homepage 'http://www.dafont.com/bordini.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bordu___.ttf'
 end

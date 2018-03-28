@@ -5,7 +5,6 @@ cask 'dafont-oleo' do
     url 'http://dl.dafont.com/dl/?f=oleo'
     name 'Oleo'
     homepage 'http://www.dafont.com/oleo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OLEO____.TTF'
 end

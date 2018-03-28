@@ -5,7 +5,6 @@ cask 'dafont-dead-secretary' do
     url 'http://dl.dafont.com/dl/?f=dead_secretary'
     name 'Dead Secretary'
     homepage 'http://www.dafont.com/dead-secretary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeadSecretary.ttf'
 end

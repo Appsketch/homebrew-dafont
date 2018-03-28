@@ -5,7 +5,6 @@ cask 'dafont-imagine-font' do
     url 'http://dl.dafont.com/dl/?f=imagine_font'
     name 'Imagine Font'
     homepage 'http://www.dafont.com/imagine-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'imagine_font.ttf'
 end

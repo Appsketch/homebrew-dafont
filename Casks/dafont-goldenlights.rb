@@ -5,7 +5,6 @@ cask 'dafont-goldenlights' do
     url 'http://dl.dafont.com/dl/?f=goldenlights'
     name 'Golden Lights'
     homepage 'http://www.dafont.com/goldenlights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GoldenLights.ttf'
 end

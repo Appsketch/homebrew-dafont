@@ -5,7 +5,6 @@ cask 'dafont-uberfriends' do
     url 'http://dl.dafont.com/dl/?f=uberfriends'
     name 'Uberfriends'
     homepage 'http://www.dafont.com/uberfriends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Uberfriends.ttf'
 end

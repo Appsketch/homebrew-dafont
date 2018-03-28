@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-mmxii' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_mmxii'
     name 'Woodcutter MMXII'
     homepage 'http://www.dafont.com/woodcutter-mmxii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter MMXII.ttf'
 end

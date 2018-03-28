@@ -5,7 +5,6 @@ cask 'dafont-gumtuckey' do
     url 'http://dl.dafont.com/dl/?f=gumtuckey'
     name 'Gumtuckey'
     homepage 'http://www.dafont.com/gumtuckey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gumtuckey.ttf'
 end

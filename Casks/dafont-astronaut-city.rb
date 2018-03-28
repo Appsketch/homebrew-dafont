@@ -5,7 +5,6 @@ cask 'dafont-astronaut-city' do
     url 'http://dl.dafont.com/dl/?f=astronaut_city'
     name 'Astronaut City'
     homepage 'http://www.dafont.com/astronaut-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Astronaut City.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sebastian-font' do
     url 'http://dl.dafont.com/dl/?f=sebastian_font'
     name 'Sebasti&aacute;n Font'
     homepage 'http://www.dafont.com/sebastian-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sebastian_Font.ttf'
 end

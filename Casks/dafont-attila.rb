@@ -5,7 +5,6 @@ cask 'dafont-attila' do
     url 'http://dl.dafont.com/dl/?f=attila'
     name 'Attila'
     homepage 'http://www.dafont.com/attila.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Attila-Regular.ttf'
     font 'Attila-ShadowRegular.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-draconianpixelsminimal' do
     url 'http://dl.dafont.com/dl/?f=draconianpixelsminimal'
     name 'Draconian Pixels Minimal'
     homepage 'http://www.dafont.com/draconianpixelsminimal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DraconianPixelsMinimal.ttf'
 end

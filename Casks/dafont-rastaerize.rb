@@ -5,7 +5,6 @@ cask 'dafont-rastaerize' do
     url 'http://dl.dafont.com/dl/?f=rastaerize'
     name 'Rastaerize'
     homepage 'http://www.dafont.com/rastaerize.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rastaerize.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vtks-classicuda' do
     url 'http://dl.dafont.com/dl/?f=vtks_classicuda'
     name 'Vtks Classicuda'
     homepage 'http://www.dafont.com/vtks-classicuda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Classicuda3.ttf'
 end

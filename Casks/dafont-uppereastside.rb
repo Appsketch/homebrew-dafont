@@ -5,7 +5,6 @@ cask 'dafont-uppereastside' do
     url 'http://dl.dafont.com/dl/?f=uppereastside'
     name 'Upper East Side'
     homepage 'http://www.dafont.com/uppereastside.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UpperEastSide.ttf'
 end

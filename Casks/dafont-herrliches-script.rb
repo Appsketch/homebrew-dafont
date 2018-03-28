@@ -5,7 +5,6 @@ cask 'dafont-herrliches-script' do
     url 'http://dl.dafont.com/dl/?f=herrliches_script'
     name 'Herrliches Script'
     homepage 'http://www.dafont.com/herrliches-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'herrliches_script.ttf'
 end

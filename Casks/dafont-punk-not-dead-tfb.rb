@@ -5,7 +5,6 @@ cask 'dafont-punk-not-dead-tfb' do
     url 'http://dl.dafont.com/dl/?f=punk_not_dead_tfb'
     name 'Punk Not Dead TFB'
     homepage 'http://www.dafont.com/punk-not-dead-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'punk not dead tfb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kbcheetahrita' do
     url 'http://dl.dafont.com/dl/?f=kbcheetahrita'
     name 'KB Cheetahrita'
     homepage 'http://www.dafont.com/kbcheetahrita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBCHEETAHRITA.ttf'
 end

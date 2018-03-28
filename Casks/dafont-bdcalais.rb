@@ -5,7 +5,6 @@ cask 'dafont-bdcalais' do
     url 'http://dl.dafont.com/dl/?f=bdcalais'
     name 'BD Calais'
     homepage 'http://www.dafont.com/bdcalais.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDCalais.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-miriamsfont' do
     url 'http://dl.dafont.com/dl/?f=miriamsfont'
     name 'Miriams Font'
     homepage 'http://www.dafont.com/miriamsfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miriamsfont.ttf'
 end

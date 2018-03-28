@@ -5,7 +5,6 @@ cask 'dafont-ginolib' do
     url 'http://dl.dafont.com/dl/?f=ginolib'
     name 'Ginolib'
     homepage 'http://www.dafont.com/ginolib.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ginolib_.ttf'
 end

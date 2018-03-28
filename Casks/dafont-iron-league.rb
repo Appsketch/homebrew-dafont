@@ -5,7 +5,6 @@ cask 'dafont-iron-league' do
     url 'http://dl.dafont.com/dl/?f=iron_league'
     name 'Iron League'
     homepage 'http://www.dafont.com/iron-league.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IRONLB__.TTF'
     font 'IRONLB.TTF'

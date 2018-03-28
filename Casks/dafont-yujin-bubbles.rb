@@ -5,7 +5,6 @@ cask 'dafont-yujin-bubbles' do
     url 'http://dl.dafont.com/dl/?f=yujin_bubbles'
     name 'Yujin Bubbles'
     homepage 'http://www.dafont.com/yujin-bubbles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yujin_Bubbles.ttf'
 end

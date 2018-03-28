@@ -5,7 +5,6 @@ cask 'dafont-cartaz' do
     url 'http://dl.dafont.com/dl/?f=cartaz'
     name 'Cartaz'
     homepage 'http://www.dafont.com/cartaz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CARTAZ__.TTF'
 end

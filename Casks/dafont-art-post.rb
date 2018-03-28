@@ -5,7 +5,6 @@ cask 'dafont-art-post' do
     url 'http://dl.dafont.com/dl/?f=art_post'
     name 'Art Post'
     homepage 'http://www.dafont.com/art-post.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Art Post black.ttf'
     font 'Art Post.ttf'

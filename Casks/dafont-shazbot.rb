@@ -5,7 +5,6 @@ cask 'dafont-shazbot' do
     url 'http://dl.dafont.com/dl/?f=shazbot'
     name 'Shazbot'
     homepage 'http://www.dafont.com/shazbot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHAZBOT_.TTF'
 end

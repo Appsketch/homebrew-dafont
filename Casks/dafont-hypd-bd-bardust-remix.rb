@@ -5,7 +5,6 @@ cask 'dafont-hypd-bd-bardust-remix' do
     url 'http://dl.dafont.com/dl/?f=hypd_bd_bardust_remix'
     name 'HYPD BD Bardust Remix'
     homepage 'http://www.dafont.com/hypd-bd-bardust-remix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HYPD_BD_Bardust_Remix_3.ttf'
 end

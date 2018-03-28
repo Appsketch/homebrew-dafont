@@ -5,7 +5,6 @@ cask 'dafont-nusantara' do
     url 'http://dl.dafont.com/dl/?f=nusantara'
     name 'Nusantara '
     homepage 'http://www.dafont.com/nusantara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NUSANTARA.ttf'
 end

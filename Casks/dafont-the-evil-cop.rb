@@ -5,7 +5,6 @@ cask 'dafont-the-evil-cop' do
     url 'http://dl.dafont.com/dl/?f=the_evil_cop'
     name 'The Evil Cop'
     homepage 'http://www.dafont.com/the-evil-cop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Evilcop.ttf'
 end

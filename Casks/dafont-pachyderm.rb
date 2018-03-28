@@ -5,7 +5,6 @@ cask 'dafont-pachyderm' do
     url 'http://dl.dafont.com/dl/?f=pachyderm'
     name 'Pachyderm'
     homepage 'http://www.dafont.com/pachyderm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PACHYDER.TTF'
 end

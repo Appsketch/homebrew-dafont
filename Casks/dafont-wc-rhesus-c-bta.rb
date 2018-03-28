@@ -5,7 +5,6 @@ cask 'dafont-wc-rhesus-c-bta' do
     url 'http://dl.dafont.com/dl/?f=wc_rhesus_c_bta'
     name 'WC Rhesus C Bta'
     homepage 'http://www.dafont.com/wc-rhesus-c-bta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WC_Rhesus_C_1.ttf'
     font 'WC_Rhesus_C_2.ttf'

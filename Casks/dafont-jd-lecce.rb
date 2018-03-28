@@ -5,7 +5,6 @@ cask 'dafont-jd-lecce' do
     url 'http://dl.dafont.com/dl/?f=jd_lecce'
     name 'JD Lecce'
     homepage 'http://www.dafont.com/jd-lecce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_lecce.ttf'
 end

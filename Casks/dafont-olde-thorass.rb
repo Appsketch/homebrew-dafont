@@ -5,7 +5,6 @@ cask 'dafont-olde-thorass' do
     url 'http://dl.dafont.com/dl/?f=olde_thorass'
     name 'Olde Thorass'
     homepage 'http://www.dafont.com/olde-thorass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Olde Thorass.otf'
 end

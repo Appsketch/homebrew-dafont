@@ -5,7 +5,6 @@ cask 'dafont-opointe' do
     url 'http://dl.dafont.com/dl/?f=opointe'
     name 'Opointe'
     homepage 'http://www.dafont.com/opointe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OpointeAfaire.ttf'
     font 'OpointeFait.ttf'

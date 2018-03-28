@@ -5,7 +5,6 @@ cask 'dafont-californiadelights' do
     url 'http://dl.dafont.com/dl/?f=californiadelights'
     name 'California Delights'
     homepage 'http://www.dafont.com/californiadelights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CaliforniaDelights.ttf'
 end

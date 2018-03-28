@@ -5,7 +5,6 @@ cask 'dafont-12th-century-caps' do
     url 'http://dl.dafont.com/dl/?f=12th_century_caps'
     name '12th c. Fancy Caps'
     homepage 'http://www.dafont.com/12th-century-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '12th_C._Fancy_Caps.ttf'
 end

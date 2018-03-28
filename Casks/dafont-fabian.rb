@@ -5,7 +5,6 @@ cask 'dafont-fabian' do
     url 'http://dl.dafont.com/dl/?f=fabian'
     name 'Fabian'
     homepage 'http://www.dafont.com/fabian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fabian.ttf'
 end

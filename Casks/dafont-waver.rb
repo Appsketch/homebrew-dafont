@@ -5,7 +5,6 @@ cask 'dafont-waver' do
     url 'http://dl.dafont.com/dl/?f=waver'
     name 'Waver'
     homepage 'http://www.dafont.com/waver.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'waver.ttf'
 end

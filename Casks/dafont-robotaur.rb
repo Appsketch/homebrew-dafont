@@ -5,7 +5,6 @@ cask 'dafont-robotaur' do
     url 'http://dl.dafont.com/dl/?f=robotaur'
     name 'Robotaur'
     homepage 'http://www.dafont.com/robotaur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'robotaur.ttf'
     font 'robotaur3d.ttf'

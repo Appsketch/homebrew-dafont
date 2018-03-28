@@ -5,7 +5,6 @@ cask 'dafont-come-with-us' do
     url 'http://dl.dafont.com/dl/?f=come_with_us'
     name 'Come With Us'
     homepage 'http://www.dafont.com/come-with-us.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Come With Us.ttf'
 end

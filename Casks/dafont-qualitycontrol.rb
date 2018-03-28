@@ -5,7 +5,6 @@ cask 'dafont-qualitycontrol' do
     url 'http://dl.dafont.com/dl/?f=qualitycontrol'
     name 'Quality Control'
     homepage 'http://www.dafont.com/qualitycontrol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QualityControl.ttf'
 end

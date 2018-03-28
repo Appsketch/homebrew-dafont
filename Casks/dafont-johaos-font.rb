@@ -5,7 +5,6 @@ cask 'dafont-johaos-font' do
     url 'http://dl.dafont.com/dl/?f=johaos_font'
     name 'Johaos font'
     homepage 'http://www.dafont.com/johaos-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'johao_s  font.ttf'
 end

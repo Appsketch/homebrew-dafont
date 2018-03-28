@@ -5,7 +5,6 @@ cask 'dafont-cf-punk-forever' do
     url 'http://dl.dafont.com/dl/?f=cf_punk_forever'
     name 'CF Punk Forever'
     homepage 'http://www.dafont.com/cf-punk-forever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFPunkForever.ttf'
 end

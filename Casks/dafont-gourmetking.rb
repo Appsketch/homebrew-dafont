@@ -5,7 +5,6 @@ cask 'dafont-gourmetking' do
     url 'http://dl.dafont.com/dl/?f=gourmetking'
     name 'Gourmet King'
     homepage 'http://www.dafont.com/gourmetking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GourmetKing.ttf'
 end

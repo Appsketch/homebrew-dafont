@@ -5,7 +5,6 @@ cask 'dafont-kleptocracy-titling' do
     url 'http://dl.dafont.com/dl/?f=kleptocracy_titling'
     name 'Kleptocracy Titling'
     homepage 'http://www.dafont.com/kleptocracy-titling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kleptocracy titling bd.ttf'
     font 'kleptocracy titling cd bd.ttf'

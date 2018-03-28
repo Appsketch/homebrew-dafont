@@ -5,7 +5,6 @@ cask 'dafont-jinkeez' do
     url 'http://dl.dafont.com/dl/?f=jinkeez'
     name 'Jinkeez'
     homepage 'http://www.dafont.com/jinkeez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jinkeez Out.ttf'
     font 'Jinkeez.ttf'

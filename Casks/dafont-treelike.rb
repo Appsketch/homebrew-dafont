@@ -5,7 +5,6 @@ cask 'dafont-treelike' do
     url 'http://dl.dafont.com/dl/?f=treelike'
     name 'Tree Like'
     homepage 'http://www.dafont.com/treelike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TreeLike.ttf'
 end

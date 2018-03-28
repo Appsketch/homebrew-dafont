@@ -5,7 +5,6 @@ cask 'dafont-georgia-belle' do
     url 'http://dl.dafont.com/dl/?f=georgia_belle'
     name 'Georgia Belle'
     homepage 'http://www.dafont.com/georgia-belle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Georgia Belle Hollow.ttf'
     font 'Georgia Belle Skinny.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-just-for-giggles' do
     url 'http://dl.dafont.com/dl/?f=just_for_giggles'
     name 'Just For Giggles'
     homepage 'http://www.dafont.com/just-for-giggles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Just For Giggles Skinny.ttf'
     font 'Just For Giggles.ttf'

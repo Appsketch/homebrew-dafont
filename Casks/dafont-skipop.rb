@@ -5,7 +5,6 @@ cask 'dafont-skipop' do
     url 'http://dl.dafont.com/dl/?f=skipop'
     name 'SkiPop'
     homepage 'http://www.dafont.com/skipop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SKIPOP__.TTF'
 end

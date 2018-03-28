@@ -5,7 +5,6 @@ cask 'dafont-hardkaze' do
     url 'http://dl.dafont.com/dl/?f=hardkaze'
     name 'Hardkaze'
     homepage 'http://www.dafont.com/hardkaze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HARDKAZE.TTF'
 end

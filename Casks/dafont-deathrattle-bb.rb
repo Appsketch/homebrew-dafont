@@ -5,7 +5,6 @@ cask 'dafont-deathrattle-bb' do
     url 'http://dl.dafont.com/dl/?f=deathrattle_bb'
     name 'DeathRattle BB'
     homepage 'http://www.dafont.com/deathrattle-bb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deathrattlebb_reg.ttf'
 end

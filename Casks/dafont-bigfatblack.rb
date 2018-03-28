@@ -5,7 +5,6 @@ cask 'dafont-bigfatblack' do
     url 'http://dl.dafont.com/dl/?f=bigfatblack'
     name 'Big Fat Black'
     homepage 'http://www.dafont.com/bigfatblack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigFatBlack.ttf'
 end

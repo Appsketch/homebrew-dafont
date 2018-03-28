@@ -5,7 +5,6 @@ cask 'dafont-ozymandias' do
     url 'http://dl.dafont.com/dl/?f=ozymandias'
     name 'Ozymandias'
     homepage 'http://www.dafont.com/ozymandias.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ozyl.ttf'
     font 'Ozyo.ttf'

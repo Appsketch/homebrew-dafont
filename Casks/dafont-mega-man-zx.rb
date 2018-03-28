@@ -5,7 +5,6 @@ cask 'dafont-mega-man-zx' do
     url 'http://dl.dafont.com/dl/?f=mega_man_zx'
     name 'Mega Man ZX'
     homepage 'http://www.dafont.com/mega-man-zx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mega-Man-ZX.ttf'
 end

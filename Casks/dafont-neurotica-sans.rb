@@ -5,7 +5,6 @@ cask 'dafont-neurotica-sans' do
     url 'http://dl.dafont.com/dl/?f=neurotica_sans'
     name 'Neurotica Sans'
     homepage 'http://www.dafont.com/neurotica-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neurotica.ttf'
 end

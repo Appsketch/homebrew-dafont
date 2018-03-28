@@ -5,7 +5,6 @@ cask 'dafont-pawluk-zibra' do
     url 'http://dl.dafont.com/dl/?f=pawluk_zibra'
     name 'Pawluk Zibra'
     homepage 'http://www.dafont.com/pawluk-zibra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAWLUK ZIBRA.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jathilan' do
     url 'http://dl.dafont.com/dl/?f=jathilan'
     name 'Jathilan'
     homepage 'http://www.dafont.com/jathilan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jathilan-Regular.ttf'
 end

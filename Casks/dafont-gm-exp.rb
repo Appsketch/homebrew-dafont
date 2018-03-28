@@ -5,7 +5,6 @@ cask 'dafont-gm-exp' do
     url 'http://dl.dafont.com/dl/?f=gm_exp'
     name 'GM Exp'
     homepage 'http://www.dafont.com/gm-exp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GMEXN___.TTF'
     font 'GMEXOD__.TTF'

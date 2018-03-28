@@ -5,7 +5,6 @@ cask 'dafont-highcastlebass' do
     url 'http://dl.dafont.com/dl/?f=highcastlebass'
     name 'High Castle Bass'
     homepage 'http://www.dafont.com/highcastlebass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighCastleBass.ttf'
 end

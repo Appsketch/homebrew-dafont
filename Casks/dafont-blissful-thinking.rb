@@ -5,7 +5,6 @@ cask 'dafont-blissful-thinking' do
     url 'http://dl.dafont.com/dl/?f=blissful_thinking'
     name 'Blissful Thinking'
     homepage 'http://www.dafont.com/blissful-thinking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlissfulThinking.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jonny-quest-classic' do
     url 'http://dl.dafont.com/dl/?f=jonny_quest_classic'
     name 'Jonny Quest Classic'
     homepage 'http://www.dafont.com/jonny-quest-classic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jonny_Quest_Classic.ttf'
 end

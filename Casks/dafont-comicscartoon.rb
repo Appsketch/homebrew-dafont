@@ -5,7 +5,6 @@ cask 'dafont-comicscartoon' do
     url 'http://dl.dafont.com/dl/?f=comicscartoon'
     name 'ComicsCarToon'
     homepage 'http://www.dafont.com/comicscartoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ComicsCarToon.ttf'
 end

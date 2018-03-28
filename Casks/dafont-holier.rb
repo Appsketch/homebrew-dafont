@@ -5,7 +5,6 @@ cask 'dafont-holier' do
     url 'http://dl.dafont.com/dl/?f=holier'
     name 'Holier'
     homepage 'http://www.dafont.com/holier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HOLIER__.TTF'
 end

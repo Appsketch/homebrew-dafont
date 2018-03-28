@@ -5,7 +5,6 @@ cask 'dafont-as-bascalc' do
     url 'http://dl.dafont.com/dl/?f=as_bascalc'
     name 'AS Bascalc'
     homepage 'http://www.dafont.com/as-bascalc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AS Bascalc.ttf'
 end

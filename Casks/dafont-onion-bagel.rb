@@ -5,7 +5,6 @@ cask 'dafont-onion-bagel' do
     url 'http://dl.dafont.com/dl/?f=onion_bagel'
     name 'Onion Bagel'
     homepage 'http://www.dafont.com/onion-bagel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ONIOB___.TTF'
 end

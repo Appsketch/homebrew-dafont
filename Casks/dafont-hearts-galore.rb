@@ -5,7 +5,6 @@ cask 'dafont-hearts-galore' do
     url 'http://dl.dafont.com/dl/?f=hearts_galore'
     name 'Hearts Galore'
     homepage 'http://www.dafont.com/hearts-galore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HEARGRG_.TTF'
 end

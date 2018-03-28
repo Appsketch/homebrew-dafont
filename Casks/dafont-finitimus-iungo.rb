@@ -5,7 +5,6 @@ cask 'dafont-finitimus-iungo' do
     url 'http://dl.dafont.com/dl/?f=finitimus_iungo'
     name 'Finitimus Iungo'
     homepage 'http://www.dafont.com/finitimus-iungo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'finitimusiungo.ttf'
 end

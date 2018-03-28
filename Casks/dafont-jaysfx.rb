@@ -5,7 +5,6 @@ cask 'dafont-jaysfx' do
     url 'http://dl.dafont.com/dl/?f=jaysfx'
     name 'JaysFX'
     homepage 'http://www.dafont.com/jaysfx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jaysFX.otf'
     font 'jaysFXBold.otf'

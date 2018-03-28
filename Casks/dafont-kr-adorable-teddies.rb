@@ -5,7 +5,6 @@ cask 'dafont-kr-adorable-teddies' do
     url 'http://dl.dafont.com/dl/?f=kr_adorable_teddies'
     name 'KR Adorable Teddies'
     homepage 'http://www.dafont.com/kr-adorable-teddies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Adorable Teddies.TTF'
 end

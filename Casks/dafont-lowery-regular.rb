@@ -5,7 +5,6 @@ cask 'dafont-lowery-regular' do
     url 'http://dl.dafont.com/dl/?f=lowery_regular'
     name 'Lowery'
     homepage 'http://www.dafont.com/lowery-regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lowery Regular.ttf'
 end

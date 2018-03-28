@@ -5,7 +5,6 @@ cask 'dafont-squareworm' do
     url 'http://dl.dafont.com/dl/?f=squareworm'
     name 'Squareworm'
     homepage 'http://www.dafont.com/squareworm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Squareworm.ttf'
 end

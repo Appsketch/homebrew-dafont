@@ -5,7 +5,6 @@ cask 'dafont-crazybludish' do
     url 'http://dl.dafont.com/dl/?f=crazybludish'
     name 'Crazy Bludish'
     homepage 'http://www.dafont.com/crazybludish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blud.ttf'
 end

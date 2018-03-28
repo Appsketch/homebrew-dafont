@@ -5,7 +5,6 @@ cask 'dafont-varbee' do
     url 'http://dl.dafont.com/dl/?f=varbee'
     name 'Varbee'
     homepage 'http://www.dafont.com/varbee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VARBEE__.TTF'
 end

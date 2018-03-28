@@ -5,7 +5,6 @@ cask 'dafont-chronicsales' do
     url 'http://dl.dafont.com/dl/?f=chronicsales'
     name 'Chronic Sales'
     homepage 'http://www.dafont.com/chronicsales.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChronicSales.ttf'
 end

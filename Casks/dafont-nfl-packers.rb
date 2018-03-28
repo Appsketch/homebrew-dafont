@@ -5,7 +5,6 @@ cask 'dafont-nfl-packers' do
     url 'http://dl.dafont.com/dl/?f=nfl_packers'
     name 'NFL Packers'
     homepage 'http://www.dafont.com/nfl-packers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NFL Packers.ttf'
 end

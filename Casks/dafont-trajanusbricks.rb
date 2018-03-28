@@ -5,7 +5,6 @@ cask 'dafont-trajanusbricks' do
     url 'http://dl.dafont.com/dl/?f=trajanusbricks'
     name 'TrajanusBricks'
     homepage 'http://www.dafont.com/trajanusbricks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TrajanusBricks.ttf'
     font 'TrajanusBricksXtra.ttf'

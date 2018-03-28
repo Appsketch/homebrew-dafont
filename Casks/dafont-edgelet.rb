@@ -5,7 +5,6 @@ cask 'dafont-edgelet' do
     url 'http://dl.dafont.com/dl/?f=edgelet'
     name 'Edgelet'
     homepage 'http://www.dafont.com/edgelet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Edgelet.otf'
 end

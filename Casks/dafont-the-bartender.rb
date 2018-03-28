@@ -5,7 +5,6 @@ cask 'dafont-the-bartender' do
     url 'http://dl.dafont.com/dl/?f=the_bartender'
     name 'The Bartender'
     homepage 'http://www.dafont.com/the-bartender.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Bartender.ttf'
 end

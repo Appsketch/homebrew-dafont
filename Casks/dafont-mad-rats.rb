@@ -5,7 +5,6 @@ cask 'dafont-mad-rats' do
     url 'http://dl.dafont.com/dl/?f=mad_rats'
     name 'Mad Rats'
     homepage 'http://www.dafont.com/mad-rats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mad Rats.ttf'
 end

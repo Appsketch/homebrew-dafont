@@ -5,7 +5,6 @@ cask 'dafont-hachicro' do
     url 'http://dl.dafont.com/dl/?f=hachicro'
     name 'Hachicro'
     homepage 'http://www.dafont.com/hachicro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hachicro.TTF'
 end

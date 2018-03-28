@@ -5,7 +5,6 @@ cask 'dafont-kbninjapower' do
     url 'http://dl.dafont.com/dl/?f=kbninjapower'
     name 'KB Ninja Power'
     homepage 'http://www.dafont.com/kbninjapower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBNINJAPOWER.ttf'
 end

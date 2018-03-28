@@ -5,7 +5,6 @@ cask 'dafont-brighton-pier' do
     url 'http://dl.dafont.com/dl/?f=brighton_pier'
     name 'Brighton Pier'
     homepage 'http://www.dafont.com/brighton-pier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brighton Pier.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mccoy-hello-lori' do
     url 'http://dl.dafont.com/dl/?f=mccoy_hello_lori'
     name 'McCoy - Hello Lori'
     homepage 'http://www.dafont.com/mccoy-hello-lori.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'McCoy_HelloLori.ttf'
 end

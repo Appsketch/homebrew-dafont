@@ -5,7 +5,6 @@ cask 'dafont-janda-love-and-rain' do
     url 'http://dl.dafont.com/dl/?f=janda_love_and_rain'
     name 'Janda Love And Rain'
     homepage 'http://www.dafont.com/janda-love-and-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JANDALoveAndRain.ttf'
 end

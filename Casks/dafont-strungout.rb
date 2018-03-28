@@ -5,7 +5,6 @@ cask 'dafont-strungout' do
     url 'http://dl.dafont.com/dl/?f=strungout'
     name 'Strungout'
     homepage 'http://www.dafont.com/strungout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'strungout.ttf'
 end

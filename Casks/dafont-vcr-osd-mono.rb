@@ -5,7 +5,6 @@ cask 'dafont-vcr-osd-mono' do
     url 'http://dl.dafont.com/dl/?f=vcr_osd_mono'
     name 'VCR OSD Mono'
     homepage 'http://www.dafont.com/vcr-osd-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VCR_OSD_MONO_1.001.ttf'
 end

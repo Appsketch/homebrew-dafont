@@ -5,7 +5,6 @@ cask 'dafont-ralph-walker' do
     url 'http://dl.dafont.com/dl/?f=ralph_walker'
     name 'Ralph Walker'
     homepage 'http://www.dafont.com/ralph-walker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ralph Walker.ttf'
 end

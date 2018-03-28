@@ -5,7 +5,6 @@ cask 'dafont-zebretica' do
     url 'http://dl.dafont.com/dl/?f=zebretica'
     name 'Zebretica'
     homepage 'http://www.dafont.com/zebretica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zebra.ttf'
 end

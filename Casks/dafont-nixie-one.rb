@@ -5,7 +5,6 @@ cask 'dafont-nixie-one' do
     url 'http://dl.dafont.com/dl/?f=nixie_one'
     name 'Nixie One'
     homepage 'http://www.dafont.com/nixie-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NixieOne.ttf'
 end

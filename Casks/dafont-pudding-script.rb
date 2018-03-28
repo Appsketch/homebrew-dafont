@@ -5,7 +5,6 @@ cask 'dafont-pudding-script' do
     url 'http://dl.dafont.com/dl/?f=pudding_script'
     name 'Pudding Script'
     homepage 'http://www.dafont.com/pudding-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pudding Script.ttf'
 end

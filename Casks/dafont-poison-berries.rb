@@ -5,7 +5,6 @@ cask 'dafont-poison-berries' do
     url 'http://dl.dafont.com/dl/?f=poison_berries'
     name 'Poison Berries'
     homepage 'http://www.dafont.com/poison-berries.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POISB___.TTF'
 end

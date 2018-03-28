@@ -5,7 +5,6 @@ cask 'dafont-play-ground' do
     url 'http://dl.dafont.com/dl/?f=play_ground'
     name 'Play Ground'
     homepage 'http://www.dafont.com/play-ground.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Play Ground.ttf'
 end

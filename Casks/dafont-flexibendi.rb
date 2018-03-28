@@ -5,7 +5,6 @@ cask 'dafont-flexibendi' do
     url 'http://dl.dafont.com/dl/?f=flexibendi'
     name 'FlexiBendi'
     homepage 'http://www.dafont.com/flexibendi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlexiBendi.ttf'
 end

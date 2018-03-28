@@ -5,7 +5,6 @@ cask 'dafont-material-science' do
     url 'http://dl.dafont.com/dl/?f=material_science'
     name 'Material Science'
     homepage 'http://www.dafont.com/material-science.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MATERIAL SCIENCE.ttf'
 end

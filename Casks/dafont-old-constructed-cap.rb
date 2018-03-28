@@ -5,7 +5,6 @@ cask 'dafont-old-constructed-cap' do
     url 'http://dl.dafont.com/dl/?f=old_constructed_cap'
     name 'Old Constructed Caps'
     homepage 'http://www.dafont.com/old-constructed-cap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OldConstructedCaps.ttf'
 end

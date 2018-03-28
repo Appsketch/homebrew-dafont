@@ -5,7 +5,6 @@ cask 'dafont-cocaine-nosejob' do
     url 'http://dl.dafont.com/dl/?f=cocaine_nosejob'
     name 'Cocaine Nosejob'
     homepage 'http://www.dafont.com/cocaine-nosejob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cocaine Nosejob.ttf'
 end

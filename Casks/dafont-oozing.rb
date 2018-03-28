@@ -5,7 +5,6 @@ cask 'dafont-oozing' do
     url 'http://dl.dafont.com/dl/?f=oozing'
     name 'Oozing'
     homepage 'http://www.dafont.com/oozing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'oozing.ttf'
 end

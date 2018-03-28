@@ -5,7 +5,6 @@ cask 'dafont-afterglow' do
     url 'http://dl.dafont.com/dl/?f=afterglow'
     name 'Afterglow'
     homepage 'http://www.dafont.com/afterglow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'afterglow.ttf'
 end

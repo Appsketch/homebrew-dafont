@@ -5,7 +5,6 @@ cask 'dafont-splash-180' do
     url 'http://dl.dafont.com/dl/?f=splash_180'
     name 'Splash 180'
     homepage 'http://www.dafont.com/splash-180.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Splash 180.ttf'
 end

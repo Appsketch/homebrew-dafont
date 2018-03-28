@@ -5,7 +5,6 @@ cask 'dafont-fast-food-logos' do
     url 'http://dl.dafont.com/dl/?f=fast_food_logos'
     name 'Fast Food logos'
     homepage 'http://www.dafont.com/fast-food-logos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fast Food logos.ttf'
 end

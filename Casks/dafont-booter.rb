@@ -5,7 +5,6 @@ cask 'dafont-booter' do
     url 'http://dl.dafont.com/dl/?f=booter'
     name 'Booter'
     homepage 'http://www.dafont.com/booter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOOTERFF.ttf'
     font 'BOOTERFO.ttf'

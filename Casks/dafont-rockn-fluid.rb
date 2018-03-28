@@ -5,7 +5,6 @@ cask 'dafont-rockn-fluid' do
     url 'http://dl.dafont.com/dl/?f=rockn_fluid'
     name 'Rock&#039;n Fluid'
     homepage 'http://www.dafont.com/rockn-fluid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rock&#039;n fluid.ttf'
 end

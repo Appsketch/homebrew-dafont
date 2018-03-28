@@ -5,7 +5,6 @@ cask 'dafont-butterbrotpapier' do
     url 'http://dl.dafont.com/dl/?f=butterbrotpapier'
     name 'Butterbrotpapier'
     homepage 'http://www.dafont.com/butterbrotpapier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'butterbrotpapier.ttf'
 end

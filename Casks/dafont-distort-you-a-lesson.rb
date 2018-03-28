@@ -5,7 +5,6 @@ cask 'dafont-distort-you-a-lesson' do
     url 'http://dl.dafont.com/dl/?f=distort_you_a_lesson'
     name 'Distort You a Lesson'
     homepage 'http://www.dafont.com/distort-you-a-lesson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Distort You a Lesson.otf'
 end

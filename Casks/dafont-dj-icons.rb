@@ -5,7 +5,6 @@ cask 'dafont-dj-icons' do
     url 'http://dl.dafont.com/dl/?f=dj_icons'
     name 'DJ Icons'
     homepage 'http://www.dafont.com/dj-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJ Icons.ttf'
 end

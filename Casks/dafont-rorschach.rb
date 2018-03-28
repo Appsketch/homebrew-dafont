@@ -5,7 +5,6 @@ cask 'dafont-rorschach' do
     url 'http://dl.dafont.com/dl/?f=rorschach'
     name 'Rorschach'
     homepage 'http://www.dafont.com/rorschach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rorschach.otf'
 end

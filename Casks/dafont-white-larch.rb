@@ -5,7 +5,6 @@ cask 'dafont-white-larch' do
     url 'http://dl.dafont.com/dl/?f=white_larch'
     name 'White Larch'
     homepage 'http://www.dafont.com/white-larch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhiteLarch_PERSONAL_USE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-maduoetra' do
     url 'http://dl.dafont.com/dl/?f=maduoetra'
     name 'Maduo Etra'
     homepage 'http://www.dafont.com/maduoetra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'maduo-etra.TTF'
 end

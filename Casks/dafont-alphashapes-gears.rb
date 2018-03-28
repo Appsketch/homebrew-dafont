@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-gears' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_gears'
     name 'AlphaShapes gears 2'
     homepage 'http://www.dafont.com/alphashapes-gears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asgears2.ttf'
 end

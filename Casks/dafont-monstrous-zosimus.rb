@@ -5,7 +5,6 @@ cask 'dafont-monstrous-zosimus' do
     url 'http://dl.dafont.com/dl/?f=monstrous_zosimus'
     name 'Monstrous Zosimus'
     homepage 'http://www.dafont.com/monstrous-zosimus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monstrous Zosimus.ttf'
 end

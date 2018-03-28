@@ -5,7 +5,6 @@ cask 'dafont-laser-gun' do
     url 'http://dl.dafont.com/dl/?f=laser_gun'
     name 'Laser Gun'
     homepage 'http://www.dafont.com/laser-gun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LASER GUN.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-maiersnr8' do
     url 'http://dl.dafont.com/dl/?f=maiersnr8'
     name 'MaiersNr8'
     homepage 'http://www.dafont.com/maiersnr8.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maiers_Nr8_Halbfett.otf'
     font 'Maiers_Nr8_Leicht.otf'

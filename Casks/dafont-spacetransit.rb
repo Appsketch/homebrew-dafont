@@ -5,7 +5,6 @@ cask 'dafont-spacetransit' do
     url 'http://dl.dafont.com/dl/?f=spacetransit'
     name 'Space Transit'
     homepage 'http://www.dafont.com/spacetransit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpaceTransit.ttf'
 end

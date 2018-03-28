@@ -5,7 +5,6 @@ cask 'dafont-pixel-power' do
     url 'http://dl.dafont.com/dl/?f=pixel_power'
     name 'Pixel Power'
     homepage 'http://www.dafont.com/pixel-power.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixlpowr.ttf'
 end

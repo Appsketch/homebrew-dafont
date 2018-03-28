@@ -5,7 +5,6 @@ cask 'dafont-coolio' do
     url 'http://dl.dafont.com/dl/?f=coolio'
     name 'Coolio'
     homepage 'http://www.dafont.com/coolio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'coolio.ttf'
 end

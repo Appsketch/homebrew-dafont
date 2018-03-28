@@ -5,7 +5,6 @@ cask 'dafont-kiddy-halloween' do
     url 'http://dl.dafont.com/dl/?f=kiddy_halloween'
     name 'Kiddy Halloween'
     homepage 'http://www.dafont.com/kiddy-halloween.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KiddyHalloween.ttf'
 end

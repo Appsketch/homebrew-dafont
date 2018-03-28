@@ -5,7 +5,6 @@ cask 'dafont-summon-the-executioner' do
     url 'http://dl.dafont.com/dl/?f=summon_the_executioner'
     name 'Summon the Executioner'
     homepage 'http://www.dafont.com/summon-the-executioner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SummontheExecutioner-Regula.ttf'
 end

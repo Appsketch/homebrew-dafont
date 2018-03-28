@@ -5,7 +5,6 @@ cask 'dafont-afgihmtv' do
     url 'http://dl.dafont.com/dl/?f=_afgihmtv'
     name '(afGiHmtV)*'
     homepage 'http://www.dafont.com/-afgihmtv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tommortel.ttf'
 end

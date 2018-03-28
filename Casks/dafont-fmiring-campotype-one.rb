@@ -5,7 +5,6 @@ cask 'dafont-fmiring-campotype-one' do
     url 'http://dl.dafont.com/dl/?f=fmiring_campotype_one'
     name 'Fmiring Campotype One'
     homepage 'http://www.dafont.com/fmiring-campotype-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'F-Miring Campotype.ttf'
 end

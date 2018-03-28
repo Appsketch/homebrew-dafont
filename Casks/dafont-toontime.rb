@@ -5,7 +5,6 @@ cask 'dafont-toontime' do
     url 'http://dl.dafont.com/dl/?f=toontime'
     name 'Toontime'
     homepage 'http://www.dafont.com/toontime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOONTIME.TTF'
 end

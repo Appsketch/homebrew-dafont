@@ -5,7 +5,6 @@ cask 'dafont-weirdmojo' do
     url 'http://dl.dafont.com/dl/?f=weirdmojo'
     name 'Weirdmojo'
     homepage 'http://www.dafont.com/weirdmojo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WEIRDMOJ.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sketch-gothic-school' do
     url 'http://dl.dafont.com/dl/?f=sketch_gothic_school'
     name 'Sketch Gothic School'
     homepage 'http://www.dafont.com/sketch-gothic-school.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketch Gothic School.ttf'
 end

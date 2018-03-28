@@ -5,7 +5,6 @@ cask 'dafont-legion-bitmap' do
     url 'http://dl.dafont.com/dl/?f=legion_bitmap'
     name 'Legion Bitmap'
     homepage 'http://www.dafont.com/legion-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEG.FON'
 end

@@ -5,7 +5,6 @@ cask 'dafont-soup-of-justice' do
     url 'http://dl.dafont.com/dl/?f=soup_of_justice'
     name 'Soup of Justice'
     homepage 'http://www.dafont.com/soup-of-justice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'soupofjustice.ttf'
 end

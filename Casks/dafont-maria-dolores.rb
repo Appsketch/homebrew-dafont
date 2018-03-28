@@ -5,7 +5,6 @@ cask 'dafont-maria-dolores' do
     url 'http://dl.dafont.com/dl/?f=maria_dolores'
     name 'Mar&iacute;a Dolores'
     homepage 'http://www.dafont.com/maria-dolores.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mar&iexcl;a_dolores.ttf'
 end

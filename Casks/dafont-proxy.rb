@@ -5,7 +5,6 @@ cask 'dafont-proxy' do
     url 'http://dl.dafont.com/dl/?f=proxy'
     name 'Proxy'
     homepage 'http://www.dafont.com/proxy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'proxy.ttf'
 end

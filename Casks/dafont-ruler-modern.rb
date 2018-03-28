@@ -5,7 +5,6 @@ cask 'dafont-ruler-modern' do
     url 'http://dl.dafont.com/dl/?f=ruler_modern'
     name 'Ruler Modern'
     homepage 'http://www.dafont.com/ruler-modern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ruler Modern.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cock-boat' do
     url 'http://dl.dafont.com/dl/?f=cock_boat'
     name 'Cock Boat'
     homepage 'http://www.dafont.com/cock-boat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cock Boat.TTF'
 end

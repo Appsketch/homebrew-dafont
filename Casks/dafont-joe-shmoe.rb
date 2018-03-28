@@ -5,7 +5,6 @@ cask 'dafont-joe-shmoe' do
     url 'http://dl.dafont.com/dl/?f=joe_shmoe'
     name 'Joe Shmoe'
     homepage 'http://www.dafont.com/joe-shmoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Joe Schmoe.otf'
 end

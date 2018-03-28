@@ -5,7 +5,6 @@ cask 'dafont-montezumas-revenge' do
     url 'http://dl.dafont.com/dl/?f=montezumas_revenge'
     name 'Montezumas Revenge'
     homepage 'http://www.dafont.com/montezumas-revenge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MONTR___.TTF'
 end

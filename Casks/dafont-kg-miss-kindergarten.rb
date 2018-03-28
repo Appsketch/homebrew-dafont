@@ -5,7 +5,6 @@ cask 'dafont-kg-miss-kindergarten' do
     url 'http://dl.dafont.com/dl/?f=kg_miss_kindergarten'
     name 'KG Miss Kindergarten'
     homepage 'http://www.dafont.com/kg-miss-kindergarten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGMissKindergarten.ttf'
 end

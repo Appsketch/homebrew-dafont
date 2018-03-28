@@ -5,7 +5,6 @@ cask 'dafont-ren-stimpy' do
     url 'http://dl.dafont.com/dl/?f=ren_stimpy'
     name 'Ren &amp; Stimpy'
     homepage 'http://www.dafont.com/ren-stimpy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REN_STIM.TTF'
 end

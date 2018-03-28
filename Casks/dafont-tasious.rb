@@ -5,7 +5,6 @@ cask 'dafont-tasious' do
     url 'http://dl.dafont.com/dl/?f=tasious'
     name 'Tasious'
     homepage 'http://www.dafont.com/tasious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tasious.ttf'
 end

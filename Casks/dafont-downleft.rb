@@ -5,7 +5,6 @@ cask 'dafont-downleft' do
     url 'http://dl.dafont.com/dl/?f=downleft'
     name 'Downleft'
     homepage 'http://www.dafont.com/downleft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Downleft.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-soul-lotion' do
     url 'http://dl.dafont.com/dl/?f=soul_lotion'
     name 'Soul Lotion'
     homepage 'http://www.dafont.com/soul-lotion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Soul Lotion_Bold-Italic.ttf'
     font 'Soul Lotion_bold.ttf'

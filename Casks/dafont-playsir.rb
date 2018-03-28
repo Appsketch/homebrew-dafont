@@ -5,7 +5,6 @@ cask 'dafont-playsir' do
     url 'http://dl.dafont.com/dl/?f=playsir'
     name 'Playsir'
     homepage 'http://www.dafont.com/playsir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLAYSIR Italic.otf'
     font 'PLAYSIR Regular.otf'

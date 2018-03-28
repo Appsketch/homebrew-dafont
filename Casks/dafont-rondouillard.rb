@@ -5,7 +5,6 @@ cask 'dafont-rondouillard' do
     url 'http://dl.dafont.com/dl/?f=rondouillard'
     name 'Rondouillard'
     homepage 'http://www.dafont.com/rondouillard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rondouillard Gras Italique.otf'
     font 'Rondouillard Gras.otf'

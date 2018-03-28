@@ -5,7 +5,6 @@ cask 'dafont-sensuroitu' do
     url 'http://dl.dafont.com/dl/?f=sensuroitu'
     name 'Sensuroitu'
     homepage 'http://www.dafont.com/sensuroitu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sensuroitu.ttf'
 end

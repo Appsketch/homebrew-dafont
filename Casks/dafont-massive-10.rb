@@ -5,7 +5,6 @@ cask 'dafont-massive-10' do
     url 'http://dl.dafont.com/dl/?f=massive_10'
     name 'Massive 10'
     homepage 'http://www.dafont.com/massive-10.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MASSIA__.TTF'
     font 'MASSIV__.TTF'

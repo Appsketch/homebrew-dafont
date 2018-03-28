@@ -5,7 +5,6 @@ cask 'dafont-queenie-beebie' do
     url 'http://dl.dafont.com/dl/?f=queenie_beebie'
     name 'Queenie Beebie'
     homepage 'http://www.dafont.com/queenie-beebie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Queenie Beebie.ttf'
 end

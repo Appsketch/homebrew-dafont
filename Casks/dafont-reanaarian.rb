@@ -5,7 +5,6 @@ cask 'dafont-reanaarian' do
     url 'http://dl.dafont.com/dl/?f=reanaarian'
     name 'Reanaarian'
     homepage 'http://www.dafont.com/reanaarian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reanaarian Bold Italic.otf'
     font 'Reanaarian Bold.otf'

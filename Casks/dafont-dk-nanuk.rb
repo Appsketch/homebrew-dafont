@@ -5,7 +5,6 @@ cask 'dafont-dk-nanuk' do
     url 'http://dl.dafont.com/dl/?f=dk_nanuk'
     name 'DK Nanuk'
     homepage 'http://www.dafont.com/dk-nanuk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Nanuk.otf'
 end

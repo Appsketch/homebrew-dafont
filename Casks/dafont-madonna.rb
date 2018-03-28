@@ -5,7 +5,6 @@ cask 'dafont-madonna' do
     url 'http://dl.dafont.com/dl/?f=madonna'
     name 'Madonna'
     homepage 'http://www.dafont.com/madonna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Confusions on a Dancefloor.ttf'
 end

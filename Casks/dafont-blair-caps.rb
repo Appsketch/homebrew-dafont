@@ -5,7 +5,6 @@ cask 'dafont-blair-caps' do
     url 'http://dl.dafont.com/dl/?f=blair_caps'
     name 'Blair Caps'
     homepage 'http://www.dafont.com/blair-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlairCaps.TTF'
 end

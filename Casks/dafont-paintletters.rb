@@ -5,7 +5,6 @@ cask 'dafont-paintletters' do
     url 'http://dl.dafont.com/dl/?f=paintletters'
     name 'Paint Letters'
     homepage 'http://www.dafont.com/paintletters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaintLetters.ttf'
 end

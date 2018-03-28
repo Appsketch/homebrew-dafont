@@ -5,7 +5,6 @@ cask 'dafont-leders-st' do
     url 'http://dl.dafont.com/dl/?f=leders_st'
     name 'Leders ST'
     homepage 'http://www.dafont.com/leders-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'leders St.ttf'
 end

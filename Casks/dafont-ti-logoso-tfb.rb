@@ -5,7 +5,6 @@ cask 'dafont-ti-logoso-tfb' do
     url 'http://dl.dafont.com/dl/?f=ti_logoso_tfb'
     name 'TI Logoso TFB'
     homepage 'http://www.dafont.com/ti-logoso-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TI logoso TFB.ttf'
 end

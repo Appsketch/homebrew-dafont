@@ -5,7 +5,6 @@ cask 'dafont-dominatrix' do
     url 'http://dl.dafont.com/dl/?f=dominatrix'
     name 'Dominatrix'
     homepage 'http://www.dafont.com/dominatrix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dominatrix.ttf'
 end

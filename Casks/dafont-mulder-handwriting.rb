@@ -5,7 +5,6 @@ cask 'dafont-mulder-handwriting' do
     url 'http://dl.dafont.com/dl/?f=mulder_handwriting'
     name 'Mulder Handwriting'
     homepage 'http://www.dafont.com/mulder-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mulder_hw.ttf'
 end

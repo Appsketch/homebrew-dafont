@@ -5,7 +5,6 @@ cask 'dafont-thin-cool' do
     url 'http://dl.dafont.com/dl/?f=thin_cool'
     name 'Thin Cool'
     homepage 'http://www.dafont.com/thin-cool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thin Cool Italic.ttf'
     font 'Thin Cool.ttf'

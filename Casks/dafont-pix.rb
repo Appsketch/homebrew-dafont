@@ -5,7 +5,6 @@ cask 'dafont-pix' do
     url 'http://dl.dafont.com/dl/?f=pix'
     name 'Pix'
     homepage 'http://www.dafont.com/pix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pix.ttf'
 end

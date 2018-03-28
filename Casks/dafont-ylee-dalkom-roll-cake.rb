@@ -5,7 +5,6 @@ cask 'dafont-ylee-dalkom-roll-cake' do
     url 'http://dl.dafont.com/dl/?f=ylee_dalkom_roll_cake'
     name 'Ylee Dalkom Roll Cake'
     homepage 'http://www.dafont.com/ylee-dalkom-roll-cake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ylee DALKOM Roll Cake.ttf'
 end

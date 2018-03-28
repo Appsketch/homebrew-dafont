@@ -5,7 +5,6 @@ cask 'dafont-two-for-juan' do
     url 'http://dl.dafont.com/dl/?f=two_for_juan'
     name 'Two For Juan NF'
     homepage 'http://www.dafont.com/two-for-juan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TWOFJN__.TTF'
 end

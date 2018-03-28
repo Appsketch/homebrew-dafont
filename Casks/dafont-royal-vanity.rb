@@ -5,7 +5,6 @@ cask 'dafont-royal-vanity' do
     url 'http://dl.dafont.com/dl/?f=royal_vanity'
     name 'Royal Vanity'
     homepage 'http://www.dafont.com/royal-vanity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Royal Vanity.ttf'
 end

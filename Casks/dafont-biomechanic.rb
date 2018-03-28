@@ -5,7 +5,6 @@ cask 'dafont-biomechanic' do
     url 'http://dl.dafont.com/dl/?f=biomechanic'
     name 'Biomechanic'
     homepage 'http://www.dafont.com/biomechanic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIOMECHA.TTF'
 end

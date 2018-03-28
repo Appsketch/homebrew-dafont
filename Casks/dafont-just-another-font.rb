@@ -5,7 +5,6 @@ cask 'dafont-just-another-font' do
     url 'http://dl.dafont.com/dl/?f=just_another_font'
     name 'Just Another Font'
     homepage 'http://www.dafont.com/just-another-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustAnotherFont.TTF'
 end

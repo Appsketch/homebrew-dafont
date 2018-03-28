@@ -5,7 +5,6 @@ cask 'dafont-apple-korea' do
     url 'http://dl.dafont.com/dl/?f=apple_korea'
     name 'Apple Korea'
     homepage 'http://www.dafont.com/apple-korea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Apple Korea.otf'
 end

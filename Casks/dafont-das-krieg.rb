@@ -5,7 +5,6 @@ cask 'dafont-das-krieg' do
     url 'http://dl.dafont.com/dl/?f=das_krieg'
     name 'Das Krieg'
     homepage 'http://www.dafont.com/das-krieg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Das Krieg.ttf'
 end

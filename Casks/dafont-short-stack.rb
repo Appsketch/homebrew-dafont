@@ -5,7 +5,6 @@ cask 'dafont-short-stack' do
     url 'http://dl.dafont.com/dl/?f=short_stack'
     name 'Short Stack'
     homepage 'http://www.dafont.com/short-stack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShortStack-Regular.ttf'
 end

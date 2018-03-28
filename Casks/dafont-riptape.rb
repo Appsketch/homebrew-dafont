@@ -5,7 +5,6 @@ cask 'dafont-riptape' do
     url 'http://dl.dafont.com/dl/?f=riptape'
     name 'RipTape'
     homepage 'http://www.dafont.com/riptape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ripTAPE_fixed.ttf'
     font 'ripTAPE.ttf'

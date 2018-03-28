@@ -5,7 +5,6 @@ cask 'dafont-spots-in-the-mirror' do
     url 'http://dl.dafont.com/dl/?f=spots_in_the_mirror'
     name 'Spots in the Mirror'
     homepage 'http://www.dafont.com/spots-in-the-mirror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spots in the Mirror.ttf'
 end

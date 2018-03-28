@@ -5,7 +5,6 @@ cask 'dafont-carnage-college' do
     url 'http://dl.dafont.com/dl/?f=carnage_college'
     name 'Carnage College'
     homepage 'http://www.dafont.com/carnage-college.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carnage College.ttf'
 end

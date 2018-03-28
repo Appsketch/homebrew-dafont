@@ -5,7 +5,6 @@ cask 'dafont-dk-downward-fall' do
     url 'http://dl.dafont.com/dl/?f=dk_downward_fall'
     name 'DK Downward Fall'
     homepage 'http://www.dafont.com/dk-downward-fall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Downward Fall.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rose-caps' do
     url 'http://dl.dafont.com/dl/?f=rose_caps'
     name 'Rose Caps'
     homepage 'http://www.dafont.com/rose-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rosecaps.TTF'
 end

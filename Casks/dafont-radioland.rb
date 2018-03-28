@@ -5,7 +5,6 @@ cask 'dafont-radioland' do
     url 'http://dl.dafont.com/dl/?f=radioland'
     name 'Radioland'
     homepage 'http://www.dafont.com/radioland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RADIOLAND.TTF'
     font 'RADIOLANDSLIM.ttf'

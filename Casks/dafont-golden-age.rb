@@ -5,7 +5,6 @@ cask 'dafont-golden-age' do
     url 'http://dl.dafont.com/dl/?f=golden_age'
     name 'Golden Age'
     homepage 'http://www.dafont.com/golden-age.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Golden Age Shad.ttf'
     font 'Golden Age.ttf'

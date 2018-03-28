@@ -5,7 +5,6 @@ cask 'dafont-double-strike' do
     url 'http://dl.dafont.com/dl/?f=double_strike'
     name 'Double Strike'
     homepage 'http://www.dafont.com/double-strike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Double Strike.ttf'
 end

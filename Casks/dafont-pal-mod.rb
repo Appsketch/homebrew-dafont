@@ -5,7 +5,6 @@ cask 'dafont-pal-mod' do
     url 'http://dl.dafont.com/dl/?f=pal_mod'
     name 'Pal Mod'
     homepage 'http://www.dafont.com/pal-mod.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pal Mod.ttf'
 end

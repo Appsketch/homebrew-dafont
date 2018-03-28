@@ -5,7 +5,6 @@ cask 'dafont-one-man-wolf-pack' do
     url 'http://dl.dafont.com/dl/?f=one_man_wolf_pack'
     name 'One man wolf pack'
     homepage 'http://www.dafont.com/one-man-wolf-pack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'one man wolf pack.ttf'
 end

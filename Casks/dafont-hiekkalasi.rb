@@ -5,7 +5,6 @@ cask 'dafont-hiekkalasi' do
     url 'http://dl.dafont.com/dl/?f=hiekkalasi'
     name 'Hiekkalasi'
     homepage 'http://www.dafont.com/hiekkalasi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hiekkalasi.ttf'
     font 'Lasihiekka.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-beestings-bats' do
     url 'http://dl.dafont.com/dl/?f=beestings_bats'
     name 'Beestings Bats'
     homepage 'http://www.dafont.com/beestings-bats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEESTING.TTF'
 end

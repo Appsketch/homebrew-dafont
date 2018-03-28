@@ -5,7 +5,6 @@ cask 'dafont-sweet-janet' do
     url 'http://dl.dafont.com/dl/?f=sweet_janet'
     name 'Sweet Janet'
     homepage 'http://www.dafont.com/sweet-janet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sweet.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-black-flowers-blossom' do
     url 'http://dl.dafont.com/dl/?f=black_flowers_blossom'
     name 'Black Flowers Blossom '
     homepage 'http://www.dafont.com/black-flowers-blossom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackFLowersBlossom.ttf'
 end

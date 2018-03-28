@@ -5,7 +5,6 @@ cask 'dafont-mtf-krystyna' do
     url 'http://dl.dafont.com/dl/?f=mtf_krystyna'
     name 'MTF Krystyna'
     homepage 'http://www.dafont.com/mtf-krystyna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Krystyna.ttf'
 end

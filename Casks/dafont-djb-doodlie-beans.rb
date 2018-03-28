@@ -5,7 +5,6 @@ cask 'dafont-djb-doodlie-beans' do
     url 'http://dl.dafont.com/dl/?f=djb_doodlie_beans'
     name 'DJB Doodlie Beans'
     homepage 'http://www.dafont.com/djb-doodlie-beans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Doodlie Beans.ttf'
 end

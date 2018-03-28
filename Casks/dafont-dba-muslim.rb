@@ -5,7 +5,6 @@ cask 'dafont-dba-muslim' do
     url 'http://dl.dafont.com/dl/?f=dba_muslim'
     name 'DBA Muslim'
     homepage 'http://www.dafont.com/dba-muslim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dba_muslim.ttf'
 end

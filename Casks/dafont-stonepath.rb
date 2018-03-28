@@ -5,7 +5,6 @@ cask 'dafont-stonepath' do
     url 'http://dl.dafont.com/dl/?f=stonepath'
     name 'Stonepath'
     homepage 'http://www.dafont.com/stonepath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stonepath.ttf'
 end

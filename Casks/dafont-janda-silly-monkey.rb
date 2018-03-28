@@ -5,7 +5,6 @@ cask 'dafont-janda-silly-monkey' do
     url 'http://dl.dafont.com/dl/?f=janda_silly_monkey'
     name 'Janda Silly Monkey'
     homepage 'http://www.dafont.com/janda-silly-monkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaSillyMonkey.ttf'
 end

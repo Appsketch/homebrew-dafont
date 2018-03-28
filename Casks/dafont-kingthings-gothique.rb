@@ -5,7 +5,6 @@ cask 'dafont-kingthings-gothique' do
     url 'http://dl.dafont.com/dl/?f=kingthings_gothique'
     name 'Kingthings Gothique + Xander'
     homepage 'http://www.dafont.com/kingthings-gothique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Gothique.ttf'
     font 'Kingthings Xander Outline.ttf'

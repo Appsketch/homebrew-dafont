@@ -5,7 +5,6 @@ cask 'dafont-lavalamp' do
     url 'http://dl.dafont.com/dl/?f=lavalamp'
     name 'Lavalamp'
     homepage 'http://www.dafont.com/lavalamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lavalamp.ttf'
 end

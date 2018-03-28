@@ -5,7 +5,6 @@ cask 'dafont-wc-mano-negra-bta' do
     url 'http://dl.dafont.com/dl/?f=wc_mano_negra_bta'
     name 'WC Mano Negra Bta'
     homepage 'http://www.dafont.com/wc-mano-negra-bta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WCManoNegraBoldBta.ttf'
     font 'WCManoNegraBta.ttf'

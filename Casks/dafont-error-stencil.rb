@@ -5,7 +5,6 @@ cask 'dafont-error-stencil' do
     url 'http://dl.dafont.com/dl/?f=error_stencil'
     name 'Error Stencil'
     homepage 'http://www.dafont.com/error-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'error_stencil.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lifecraft' do
     url 'http://dl.dafont.com/dl/?f=lifecraft'
     name 'LifeCraft'
     homepage 'http://www.dafont.com/lifecraft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LifeCraft_Font.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fenix-blacklettercaps' do
     url 'http://dl.dafont.com/dl/?f=fenix_blacklettercaps'
     name 'Fenix Blackletter Caps'
     homepage 'http://www.dafont.com/fenix-blacklettercaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fenix BlackletterCaps_It.ttf'
     font 'Fenix BlackletterCaps.ttf'

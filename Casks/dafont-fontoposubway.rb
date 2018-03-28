@@ -5,7 +5,6 @@ cask 'dafont-fontoposubway' do
     url 'http://dl.dafont.com/dl/?f=fontoposubway'
     name 'Fontopo Subway'
     homepage 'http://www.dafont.com/fontoposubway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fontopoSUBWAY-Regular.ttf'
 end

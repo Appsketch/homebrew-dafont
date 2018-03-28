@@ -5,7 +5,6 @@ cask 'dafont-linthicum' do
     url 'http://dl.dafont.com/dl/?f=linthicum'
     name 'Linthicum'
     homepage 'http://www.dafont.com/linthicum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LINTD___.TTF'
 end

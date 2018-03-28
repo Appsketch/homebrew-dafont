@@ -5,7 +5,6 @@ cask 'dafont-21-heads' do
     url 'http://dl.dafont.com/dl/?f=21_heads'
     name '21 Heads'
     homepage 'http://www.dafont.com/21-heads.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '21heads.ttf'
 end

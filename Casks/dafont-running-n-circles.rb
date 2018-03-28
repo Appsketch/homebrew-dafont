@@ -5,7 +5,6 @@ cask 'dafont-running-n-circles' do
     url 'http://dl.dafont.com/dl/?f=running_n_circles'
     name 'Running N Circles'
     homepage 'http://www.dafont.com/running-n-circles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Runnn___.ttf'
 end

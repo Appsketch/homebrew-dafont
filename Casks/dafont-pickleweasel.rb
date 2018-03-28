@@ -5,7 +5,6 @@ cask 'dafont-pickleweasel' do
     url 'http://dl.dafont.com/dl/?f=pickleweasel'
     name 'Pickleweasel'
     homepage 'http://www.dafont.com/pickleweasel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pickleweasel.ttf'
 end

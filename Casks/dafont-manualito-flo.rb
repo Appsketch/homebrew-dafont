@@ -5,7 +5,6 @@ cask 'dafont-manualito-flo' do
     url 'http://dl.dafont.com/dl/?f=manualito_flo'
     name 'Manualito Flo'
     homepage 'http://www.dafont.com/manualito-flo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Manualito-Flo.ttf'
 end

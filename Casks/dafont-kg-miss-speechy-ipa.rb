@@ -5,7 +5,6 @@ cask 'dafont-kg-miss-speechy-ipa' do
     url 'http://dl.dafont.com/dl/?f=kg_miss_speechy_ipa'
     name 'KG Miss Speechy IPA'
     homepage 'http://www.dafont.com/kg-miss-speechy-ipa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGMissSpeechyIPA.ttf'
 end

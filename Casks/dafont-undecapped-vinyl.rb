@@ -5,7 +5,6 @@ cask 'dafont-undecapped-vinyl' do
     url 'http://dl.dafont.com/dl/?f=undecapped_vinyl'
     name 'Undecapped Vinyl'
     homepage 'http://www.dafont.com/undecapped-vinyl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UNDECAPPEDvinyl.ttf'
 end

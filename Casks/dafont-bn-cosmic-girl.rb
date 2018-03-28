@@ -5,7 +5,6 @@ cask 'dafont-bn-cosmic-girl' do
     url 'http://dl.dafont.com/dl/?f=bn_cosmic_girl'
     name 'BN Cosmic Girl'
     homepage 'http://www.dafont.com/bn-cosmic-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cosmic Girl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bacon-bad' do
     url 'http://dl.dafont.com/dl/?f=bacon_bad'
     name 'Bacon Bad'
     homepage 'http://www.dafont.com/bacon-bad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bacon_Bad.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-comic-woodwork' do
     url 'http://dl.dafont.com/dl/?f=comic_woodwork'
     name 'Comic Woodwork'
     homepage 'http://www.dafont.com/comic-woodwork.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'comiceoodwork.ttf'
 end

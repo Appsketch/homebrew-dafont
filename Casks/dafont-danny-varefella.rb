@@ -5,7 +5,6 @@ cask 'dafont-danny-varefella' do
     url 'http://dl.dafont.com/dl/?f=danny_varefella'
     name 'Danny Varefella'
     homepage 'http://www.dafont.com/danny-varefella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Danny_Varefella.ttf'
 end

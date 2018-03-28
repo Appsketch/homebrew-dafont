@@ -5,7 +5,6 @@ cask 'dafont-moo' do
     url 'http://dl.dafont.com/dl/?f=moo'
     name 'Moo!'
     homepage 'http://www.dafont.com/moo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'moo_font.otf'
 end

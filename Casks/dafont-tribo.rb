@@ -5,7 +5,6 @@ cask 'dafont-tribo' do
     url 'http://dl.dafont.com/dl/?f=tribo'
     name 'Tribo'
     homepage 'http://www.dafont.com/tribo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tribo Regular.ttf'
 end

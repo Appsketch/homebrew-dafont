@@ -5,7 +5,6 @@ cask 'dafont-pixel-grafiti' do
     url 'http://dl.dafont.com/dl/?f=pixel_grafiti'
     name 'Pixel Grafiti'
     homepage 'http://www.dafont.com/pixel-grafiti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel-Grafiti.ttf'
 end

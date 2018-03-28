@@ -5,7 +5,6 @@ cask 'dafont-untarot-st' do
     url 'http://dl.dafont.com/dl/?f=untarot_st'
     name 'UnTaRot ST'
     homepage 'http://www.dafont.com/untarot-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UnTaRot ST.ttf'
 end

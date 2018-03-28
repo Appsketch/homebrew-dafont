@@ -5,7 +5,6 @@ cask 'dafont-bookends' do
     url 'http://dl.dafont.com/dl/?f=bookends'
     name 'Bookends'
     homepage 'http://www.dafont.com/bookends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bookends-BookendsWithAccents.otf'
 end

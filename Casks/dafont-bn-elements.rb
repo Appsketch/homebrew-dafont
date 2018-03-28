@@ -5,7 +5,6 @@ cask 'dafont-bn-elements' do
     url 'http://dl.dafont.com/dl/?f=bn_elements'
     name 'BN Elements'
     homepage 'http://www.dafont.com/bn-elements.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elements.ttf'
 end

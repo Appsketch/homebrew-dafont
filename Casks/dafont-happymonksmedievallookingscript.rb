@@ -5,7 +5,6 @@ cask 'dafont-happymonksmedievallookingscript' do
     url 'http://dl.dafont.com/dl/?f=happymonksmedievallookingscript'
     name 'Happy Monks Medieval Looking Script'
     homepage 'http://www.dafont.com/happymonksmedievallookingscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HappyMonksMedievalLookingScript.ttf'
 end

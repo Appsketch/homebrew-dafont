@@ -5,7 +5,6 @@ cask 'dafont-c-s' do
     url 'http://dl.dafont.com/dl/?f=c_s'
     name 'C/S'
     homepage 'http://www.dafont.com/c-s.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CS.ttf'
 end

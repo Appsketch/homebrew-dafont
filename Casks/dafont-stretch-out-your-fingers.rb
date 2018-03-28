@@ -5,7 +5,6 @@ cask 'dafont-stretch-out-your-fingers' do
     url 'http://dl.dafont.com/dl/?f=stretch_out_your_fingers'
     name 'Stretch Out Your Fingers'
     homepage 'http://www.dafont.com/stretch-out-your-fingers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketch Out Your Fingers Demo.ttf'
 end

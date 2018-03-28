@@ -5,7 +5,6 @@ cask 'dafont-littera' do
     url 'http://dl.dafont.com/dl/?f=littera'
     name 'Littera'
     homepage 'http://www.dafont.com/littera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'littera.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-husband-of-the-millennium' do
     url 'http://dl.dafont.com/dl/?f=husband_of_the_millennium'
     name 'Husband of the Millennium'
     homepage 'http://www.dafont.com/husband-of-the-millennium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Husband of the Millennium.ttf'
 end

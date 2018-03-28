@@ -5,7 +5,6 @@ cask 'dafont-regurgitation' do
     url 'http://dl.dafont.com/dl/?f=regurgitation'
     name 'Regurgitation'
     homepage 'http://www.dafont.com/regurgitation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'regurgi.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ordre-de-depart' do
     url 'http://dl.dafont.com/dl/?f=ordre_de_depart'
     name 'Ordre de Depart'
     homepage 'http://www.dafont.com/ordre-de-depart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ordre de Dpart.ttf'
 end

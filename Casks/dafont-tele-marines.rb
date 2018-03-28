@@ -5,7 +5,6 @@ cask 'dafont-tele-marines' do
     url 'http://dl.dafont.com/dl/?f=tele_marines'
     name 'Tele-Marines'
     homepage 'http://www.dafont.com/tele-marines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'telemarines1.ttf'
     font 'telemarines3d1.ttf'

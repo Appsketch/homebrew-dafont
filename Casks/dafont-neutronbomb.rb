@@ -5,7 +5,6 @@ cask 'dafont-neutronbomb' do
     url 'http://dl.dafont.com/dl/?f=neutronbomb'
     name 'NeutronBomb'
     homepage 'http://www.dafont.com/neutronbomb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEUTB___.TTF'
 end

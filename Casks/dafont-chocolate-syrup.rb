@@ -5,7 +5,6 @@ cask 'dafont-chocolate-syrup' do
     url 'http://dl.dafont.com/dl/?f=chocolate_syrup'
     name 'Chocolate Syrup'
     homepage 'http://www.dafont.com/chocolate-syrup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chocolatesyrup.TTF'
 end

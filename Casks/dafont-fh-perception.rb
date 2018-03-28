@@ -5,7 +5,6 @@ cask 'dafont-fh-perception' do
     url 'http://dl.dafont.com/dl/?f=fh_perception'
     name 'Fh Perception'
     homepage 'http://www.dafont.com/fh-perception.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fh_Perception.otf'
 end

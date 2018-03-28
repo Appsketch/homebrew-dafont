@@ -5,7 +5,6 @@ cask 'dafont-shelbyprint' do
     url 'http://dl.dafont.com/dl/?f=shelbyprint'
     name 'Shelby Print'
     homepage 'http://www.dafont.com/shelbyprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShelbyPrint.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mikrokomputer' do
     url 'http://dl.dafont.com/dl/?f=mikrokomputer'
     name 'Mikrokomputer'
     homepage 'http://www.dafont.com/mikrokomputer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MIKRC___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-i-have-bad-news' do
     url 'http://dl.dafont.com/dl/?f=i_have_bad_news'
     name 'I Have Bad News!'
     homepage 'http://www.dafont.com/i-have-bad-news.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I-Have-Bad-News.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-albura' do
     url 'http://dl.dafont.com/dl/?f=albura'
     name 'Albura'
     homepage 'http://www.dafont.com/albura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALBURA-Regular.ttf'
 end

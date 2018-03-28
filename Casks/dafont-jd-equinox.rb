@@ -5,7 +5,6 @@ cask 'dafont-jd-equinox' do
     url 'http://dl.dafont.com/dl/?f=jd_equinox'
     name 'JD Equinox'
     homepage 'http://www.dafont.com/jd-equinox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_equinox.ttf'
 end

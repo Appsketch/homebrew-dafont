@@ -5,7 +5,6 @@ cask 'dafont-suburbana' do
     url 'http://dl.dafont.com/dl/?f=suburbana'
     name 'Suburbana'
     homepage 'http://www.dafont.com/suburbana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Suburbana.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gemeteran' do
     url 'http://dl.dafont.com/dl/?f=gemeteran'
     name 'Gemeteran'
     homepage 'http://www.dafont.com/gemeteran.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GEMETERAN.ttf'
 end

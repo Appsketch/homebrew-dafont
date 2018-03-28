@@ -5,7 +5,6 @@ cask 'dafont-held-x-fast' do
     url 'http://dl.dafont.com/dl/?f=held_x_fast'
     name 'Held x Fast'
     homepage 'http://www.dafont.com/held-x-fast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeldxFast.ttf'
 end

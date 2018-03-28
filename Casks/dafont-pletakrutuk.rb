@@ -5,7 +5,6 @@ cask 'dafont-pletakrutuk' do
     url 'http://dl.dafont.com/dl/?f=pletakrutuk'
     name 'Pletakrutuk'
     homepage 'http://www.dafont.com/pletakrutuk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pletakrutuk.otf'
 end

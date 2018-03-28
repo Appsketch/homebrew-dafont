@@ -5,7 +5,6 @@ cask 'dafont-rebimboca' do
     url 'http://dl.dafont.com/dl/?f=rebimboca'
     name 'Rebimboca'
     homepage 'http://www.dafont.com/rebimboca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rebimboca Beveled.ttf'
     font 'Rebimboca Gradient.ttf'

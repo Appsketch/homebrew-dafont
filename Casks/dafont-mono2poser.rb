@@ -5,7 +5,6 @@ cask 'dafont-mono2poser' do
     url 'http://dl.dafont.com/dl/?f=mono2poser'
     name 'Mono2poser'
     homepage 'http://www.dafont.com/mono2poser.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mono2poser.ttf'
 end

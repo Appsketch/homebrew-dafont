@@ -5,7 +5,6 @@ cask 'dafont-menlotus' do
     url 'http://dl.dafont.com/dl/?f=menlotus'
     name 'Menlotus'
     homepage 'http://www.dafont.com/menlotus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'menlotus.ttf'
 end

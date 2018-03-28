@@ -5,7 +5,6 @@ cask 'dafont-moredimension' do
     url 'http://dl.dafont.com/dl/?f=moredimension'
     name 'More Dimension'
     homepage 'http://www.dafont.com/moredimension.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MoreDimension.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-streets-of-fire' do
     url 'http://dl.dafont.com/dl/?f=streets_of_fire'
     name 'Streets of Fire'
     homepage 'http://www.dafont.com/streets-of-fire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Streets of Fire.ttf'
 end

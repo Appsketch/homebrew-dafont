@@ -5,7 +5,6 @@ cask 'dafont-elegance-two' do
     url 'http://dl.dafont.com/dl/?f=elegance_two'
     name 'Elegance Two'
     homepage 'http://www.dafont.com/elegance-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elegancetwo.ttf'
 end

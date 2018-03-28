@@ -5,7 +5,6 @@ cask 'dafont-facelift' do
     url 'http://dl.dafont.com/dl/?f=facelift'
     name 'Facelift'
     homepage 'http://www.dafont.com/facelift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FACERG__.TTF'
 end

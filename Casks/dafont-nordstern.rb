@@ -5,7 +5,6 @@ cask 'dafont-nordstern' do
     url 'http://dl.dafont.com/dl/?f=nordstern'
     name 'Nordstern'
     homepage 'http://www.dafont.com/nordstern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NordsternDemo-Dunkel.ttf'
     font 'NordsternDemo-Hell.ttf'

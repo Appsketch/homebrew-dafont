@@ -5,7 +5,6 @@ cask 'dafont-maximilian' do
     url 'http://dl.dafont.com/dl/?f=maximilian'
     name 'Maximilian'
     homepage 'http://www.dafont.com/maximilian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maximilian.ttf'
     font 'MaximilianZierbuchstaben.ttf'

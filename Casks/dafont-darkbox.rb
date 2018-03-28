@@ -5,7 +5,6 @@ cask 'dafont-darkbox' do
     url 'http://dl.dafont.com/dl/?f=darkbox'
     name 'Dark Box'
     homepage 'http://www.dafont.com/darkbox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DarkBox.ttf'
 end

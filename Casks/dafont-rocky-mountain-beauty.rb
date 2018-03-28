@@ -5,7 +5,6 @@ cask 'dafont-rocky-mountain-beauty' do
     url 'http://dl.dafont.com/dl/?f=rocky_mountain_beauty'
     name 'Rocky Mountain Beauty'
     homepage 'http://www.dafont.com/rocky-mountain-beauty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rocky Mountain Beauty.ttf'
 end

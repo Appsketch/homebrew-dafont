@@ -5,7 +5,6 @@ cask 'dafont-columnion' do
     url 'http://dl.dafont.com/dl/?f=columnion'
     name 'Columnion'
     homepage 'http://www.dafont.com/columnion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Columnion.ttf'
 end

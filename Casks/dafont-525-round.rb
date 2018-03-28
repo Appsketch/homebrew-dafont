@@ -5,7 +5,6 @@ cask 'dafont-525-round' do
     url 'http://dl.dafont.com/dl/?f=525_round'
     name '525 Round + Square'
     homepage 'http://www.dafont.com/525-round.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '525-ROUN.TTF'
     font '525-SQUA.TTF'

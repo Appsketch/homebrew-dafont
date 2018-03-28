@@ -5,7 +5,6 @@ cask 'dafont-uncle-bob-mf-shadow' do
     url 'http://dl.dafont.com/dl/?f=uncle_bob_mf_shadow'
     name 'Uncle Bob MF'
     homepage 'http://www.dafont.com/uncle-bob-mf-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Uncle Bob MF.ttf'
     font 'UncleBobMF-Shadow.ttf'

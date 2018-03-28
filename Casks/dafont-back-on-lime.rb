@@ -5,7 +5,6 @@ cask 'dafont-back-on-lime' do
     url 'http://dl.dafont.com/dl/?f=back_on_lime'
     name 'Back On Lime'
     homepage 'http://www.dafont.com/back-on-lime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Back On Lime.ttf'
 end

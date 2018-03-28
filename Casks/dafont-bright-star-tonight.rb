@@ -5,7 +5,6 @@ cask 'dafont-bright-star-tonight' do
     url 'http://dl.dafont.com/dl/?f=bright_star_tonight'
     name 'Bright Star Tonight'
     homepage 'http://www.dafont.com/bright-star-tonight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bright Star Tonight.ttf'
 end

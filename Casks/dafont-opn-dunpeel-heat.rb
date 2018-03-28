@@ -5,7 +5,6 @@ cask 'dafont-opn-dunpeel-heat' do
     url 'http://dl.dafont.com/dl/?f=opn_dunpeel_heat'
     name 'OPN DunPeel Heat'
     homepage 'http://www.dafont.com/opn-dunpeel-heat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OPN DunPeel Heat.ttf'
     font 'OPN DunPeel Lust.ttf'

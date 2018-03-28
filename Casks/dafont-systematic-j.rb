@@ -5,7 +5,6 @@ cask 'dafont-systematic-j' do
     url 'http://dl.dafont.com/dl/?f=systematic_j'
     name 'Systematic J'
     homepage 'http://www.dafont.com/systematic-j.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '9SYSTEMA.TTF'
 end

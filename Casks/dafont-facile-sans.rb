@@ -5,7 +5,6 @@ cask 'dafont-facile-sans' do
     url 'http://dl.dafont.com/dl/?f=facile_sans'
     name 'Facile Sans'
     homepage 'http://www.dafont.com/facile-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Facile Sans.ttf'
 end

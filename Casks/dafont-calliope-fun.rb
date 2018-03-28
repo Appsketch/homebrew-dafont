@@ -5,7 +5,6 @@ cask 'dafont-calliope-fun' do
     url 'http://dl.dafont.com/dl/?f=calliope_fun'
     name 'Calliope Fun'
     homepage 'http://www.dafont.com/calliope-fun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Calliope fun.ttf'
 end

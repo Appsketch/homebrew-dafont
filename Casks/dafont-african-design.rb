@@ -5,7 +5,6 @@ cask 'dafont-african-design' do
     url 'http://dl.dafont.com/dl/?f=african_design'
     name 'African Design'
     homepage 'http://www.dafont.com/african-design.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AfricanDesign.ttf'
 end

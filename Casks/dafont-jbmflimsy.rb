@@ -5,7 +5,6 @@ cask 'dafont-jbmflimsy' do
     url 'http://dl.dafont.com/dl/?f=jbmflimsy'
     name 'JBM Flimsy'
     homepage 'http://www.dafont.com/jbmflimsy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JBM Flimsy.ttf'
 end

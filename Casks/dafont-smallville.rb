@@ -5,7 +5,6 @@ cask 'dafont-smallville' do
     url 'http://dl.dafont.com/dl/?f=smallville'
     name 'Smallville'
     homepage 'http://www.dafont.com/smallville.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smallville1.ttf'
 end

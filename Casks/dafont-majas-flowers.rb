@@ -5,7 +5,6 @@ cask 'dafont-majas-flowers' do
     url 'http://dl.dafont.com/dl/?f=majas_flowers'
     name 'FE Majas Flowers'
     homepage 'http://www.dafont.com/majas-flowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE Majas Flowers.otf'
 end

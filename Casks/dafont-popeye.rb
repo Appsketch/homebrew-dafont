@@ -5,7 +5,6 @@ cask 'dafont-popeye' do
     url 'http://dl.dafont.com/dl/?f=popeye'
     name 'Popeye'
     homepage 'http://www.dafont.com/popeye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Popeye.ttf'
 end

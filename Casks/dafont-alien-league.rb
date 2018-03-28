@@ -5,7 +5,6 @@ cask 'dafont-alien-league' do
     url 'http://dl.dafont.com/dl/?f=alien_league'
     name 'Alien League'
     homepage 'http://www.dafont.com/alien-league.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alienleague.ttf'
     font 'alienleague3d.ttf'

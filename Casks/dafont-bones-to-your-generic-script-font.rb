@@ -5,7 +5,6 @@ cask 'dafont-bones-to-your-generic-script-font' do
     url 'http://dl.dafont.com/dl/?f=bones_to_your_generic_script_font'
     name 'Bones to Your Generic Script Font!'
     homepage 'http://www.dafont.com/bones-to-your-generic-script-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bones to Your Generic Script Font!.otf'
 end

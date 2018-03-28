@@ -5,7 +5,6 @@ cask 'dafont-conducting-paths' do
     url 'http://dl.dafont.com/dl/?f=conducting_paths'
     name 'Conducting Paths'
     homepage 'http://www.dafont.com/conducting-paths.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ConductingPaths.otf'
 end

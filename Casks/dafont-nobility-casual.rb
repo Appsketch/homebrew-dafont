@@ -5,7 +5,6 @@ cask 'dafont-nobility-casual' do
     url 'http://dl.dafont.com/dl/?f=nobility_casual'
     name 'Nobility Casual'
     homepage 'http://www.dafont.com/nobility-casual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nobilty.ttf'
 end

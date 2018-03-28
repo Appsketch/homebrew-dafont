@@ -5,7 +5,6 @@ cask 'dafont-downboy' do
     url 'http://dl.dafont.com/dl/?f=downboy'
     name 'DownBoy'
     homepage 'http://www.dafont.com/downboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'downboy.ttf'
     font 'downdownboy.ttf'

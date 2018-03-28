@@ -5,7 +5,6 @@ cask 'dafont-geometric-black' do
     url 'http://dl.dafont.com/dl/?f=geometric_black'
     name 'Geometric Black'
     homepage 'http://www.dafont.com/geometric-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GeometricBlack.ttf'
 end

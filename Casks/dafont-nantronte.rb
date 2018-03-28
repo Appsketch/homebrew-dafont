@@ -5,7 +5,6 @@ cask 'dafont-nantronte' do
     url 'http://dl.dafont.com/dl/?f=nantronte'
     name 'Nantronte'
     homepage 'http://www.dafont.com/nantronte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nantronte.ttf'
 end

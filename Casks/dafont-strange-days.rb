@@ -5,7 +5,6 @@ cask 'dafont-strange-days' do
     url 'http://dl.dafont.com/dl/?f=strange_days'
     name 'Strange Days'
     homepage 'http://www.dafont.com/strange-days.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strange Days.ttf'
 end

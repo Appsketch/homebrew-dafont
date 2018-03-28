@@ -5,7 +5,6 @@ cask 'dafont-verily-serif-mono' do
     url 'http://dl.dafont.com/dl/?f=verily_serif_mono'
     name 'Verily Serif Mono'
     homepage 'http://www.dafont.com/verily-serif-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VerilySerifMono.otf'
 end

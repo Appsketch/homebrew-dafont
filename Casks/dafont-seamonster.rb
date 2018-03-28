@@ -5,7 +5,6 @@ cask 'dafont-seamonster' do
     url 'http://dl.dafont.com/dl/?f=seamonster'
     name 'Seamonster'
     homepage 'http://www.dafont.com/seamonster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'seamonster.ttf'
 end

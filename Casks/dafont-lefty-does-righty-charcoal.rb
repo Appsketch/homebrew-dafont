@@ -5,7 +5,6 @@ cask 'dafont-lefty-does-righty-charcoal' do
     url 'http://dl.dafont.com/dl/?f=lefty_does_righty_charcoal'
     name 'Lefty Does Righty Charcoal'
     homepage 'http://www.dafont.com/lefty-does-righty-charcoal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lefty Does Righty Charcoal.ttf'
 end

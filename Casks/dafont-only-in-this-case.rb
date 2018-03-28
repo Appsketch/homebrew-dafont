@@ -5,7 +5,6 @@ cask 'dafont-only-in-this-case' do
     url 'http://dl.dafont.com/dl/?f=only_in_this_case'
     name 'Only in this case'
     homepage 'http://www.dafont.com/only-in-this-case.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ONLY IN THIS CASE.ttf'
 end

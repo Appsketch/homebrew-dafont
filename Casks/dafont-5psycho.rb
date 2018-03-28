@@ -5,7 +5,6 @@ cask 'dafont-5psycho' do
     url 'http://dl.dafont.com/dl/?f=5psycho'
     name '5Psycho!'
     homepage 'http://www.dafont.com/5psycho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5psycho.ttf'
 end

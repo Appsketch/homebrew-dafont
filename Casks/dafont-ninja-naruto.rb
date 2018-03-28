@@ -5,7 +5,6 @@ cask 'dafont-ninja-naruto' do
     url 'http://dl.dafont.com/dl/?f=ninja_naruto'
     name 'Ninja Naruto'
     homepage 'http://www.dafont.com/ninja-naruto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'njnaruto.ttf'
 end

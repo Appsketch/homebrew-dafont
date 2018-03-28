@@ -5,7 +5,6 @@ cask 'dafont-animalia' do
     url 'http://dl.dafont.com/dl/?f=animalia'
     name 'Animalia'
     homepage 'http://www.dafont.com/animalia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Animal.otf'
 end

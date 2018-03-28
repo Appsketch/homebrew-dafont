@@ -5,7 +5,6 @@ cask 'dafont-screamo' do
     url 'http://dl.dafont.com/dl/?f=screamo'
     name 'Screamo'
     homepage 'http://www.dafont.com/screamo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'screamo.ttf'
 end

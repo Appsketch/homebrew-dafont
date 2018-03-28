@@ -5,7 +5,6 @@ cask 'dafont-djb-danielle-2-0' do
     url 'http://dl.dafont.com/dl/?f=djb_danielle_2_0'
     name 'DJB Danielle 2.0'
     homepage 'http://www.dafont.com/djb-danielle-2-0.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Danielle.ttf'
 end

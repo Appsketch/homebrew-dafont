@@ -5,7 +5,6 @@ cask 'dafont-its-a-penalty-kick' do
     url 'http://dl.dafont.com/dl/?f=its_a_penalty_kick'
     name 'It&#039;s a penalty kick!!'
     homepage 'http://www.dafont.com/its-a-penalty-kick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'it_s_a_penalty_kick.ttf'
 end

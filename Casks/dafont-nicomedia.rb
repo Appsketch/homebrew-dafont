@@ -5,7 +5,6 @@ cask 'dafont-nicomedia' do
     url 'http://dl.dafont.com/dl/?f=nicomedia'
     name 'Nicomedia'
     homepage 'http://www.dafont.com/nicomedia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nicomedia.ttf'
 end

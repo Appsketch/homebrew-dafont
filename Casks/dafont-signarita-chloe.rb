@@ -5,7 +5,6 @@ cask 'dafont-signarita-chloe' do
     url 'http://dl.dafont.com/dl/?f=signarita_chloe'
     name 'Signarita Chloe'
     homepage 'http://www.dafont.com/signarita-chloe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Signarita Chloe.ttf'
 end

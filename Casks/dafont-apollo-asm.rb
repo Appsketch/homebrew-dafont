@@ -5,7 +5,6 @@ cask 'dafont-apollo-asm' do
     url 'http://dl.dafont.com/dl/?f=apollo_asm'
     name 'Apollo ASM'
     homepage 'http://www.dafont.com/apollo-asm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ApolloASM.ttf'
 end

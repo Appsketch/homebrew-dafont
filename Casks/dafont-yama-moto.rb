@@ -5,7 +5,6 @@ cask 'dafont-yama-moto' do
     url 'http://dl.dafont.com/dl/?f=yama_moto'
     name 'Yama Moto'
     homepage 'http://www.dafont.com/yama-moto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yamamoto.ttf'
     font 'yamamoto3d.ttf'

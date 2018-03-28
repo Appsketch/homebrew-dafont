@@ -5,7 +5,6 @@ cask 'dafont-dada-antiquerist' do
     url 'http://dl.dafont.com/dl/?f=dada_antiquerist'
     name 'DaDa Antiquerist'
     homepage 'http://www.dafont.com/dada-antiquerist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DaDa Antiquerist.ttf'
 end

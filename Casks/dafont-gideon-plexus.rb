@@ -5,7 +5,6 @@ cask 'dafont-gideon-plexus' do
     url 'http://dl.dafont.com/dl/?f=gideon_plexus'
     name 'Gideon Plexus'
     homepage 'http://www.dafont.com/gideon-plexus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gideon plexus.TTF'
 end

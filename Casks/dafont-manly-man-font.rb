@@ -5,7 +5,6 @@ cask 'dafont-manly-man-font' do
     url 'http://dl.dafont.com/dl/?f=manly_man_font'
     name 'Manly Man'
     homepage 'http://www.dafont.com/manly-man-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'manly_man_font.ttf'
 end

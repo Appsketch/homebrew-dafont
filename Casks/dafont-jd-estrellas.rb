@@ -5,7 +5,6 @@ cask 'dafont-jd-estrellas' do
     url 'http://dl.dafont.com/dl/?f=jd_estrellas'
     name 'JD Estrellas'
     homepage 'http://www.dafont.com/jd-estrellas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JD-Estrellas.ttf'
 end

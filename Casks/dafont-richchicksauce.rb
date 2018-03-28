@@ -5,7 +5,6 @@ cask 'dafont-richchicksauce' do
     url 'http://dl.dafont.com/dl/?f=richchicksauce'
     name 'Rich Chick Sauce'
     homepage 'http://www.dafont.com/richchicksauce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RichChickSauce.ttf'
 end

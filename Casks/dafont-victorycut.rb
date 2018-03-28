@@ -5,7 +5,6 @@ cask 'dafont-victorycut' do
     url 'http://dl.dafont.com/dl/?f=victorycut'
     name 'Victory Cut'
     homepage 'http://www.dafont.com/victorycut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VictoryCut.ttf'
 end

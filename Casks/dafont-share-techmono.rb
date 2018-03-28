@@ -5,7 +5,6 @@ cask 'dafont-share-techmono' do
     url 'http://dl.dafont.com/dl/?f=share_techmono'
     name 'Share TechMono'
     homepage 'http://www.dafont.com/share-techmono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Share-TechMono.ttf'
 end

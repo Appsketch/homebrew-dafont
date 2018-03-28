@@ -5,7 +5,6 @@ cask 'dafont-ultimatum' do
     url 'http://dl.dafont.com/dl/?f=ultimatum'
     name 'Ultimatum'
     homepage 'http://www.dafont.com/ultimatum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ULTIMATUM.TTF'
 end

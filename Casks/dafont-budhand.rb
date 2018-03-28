@@ -5,7 +5,6 @@ cask 'dafont-budhand' do
     url 'http://dl.dafont.com/dl/?f=budhand'
     name 'Bud Hand'
     homepage 'http://www.dafont.com/budhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUDHAND2.TTF'
     font 'Budhrg__.ttf'

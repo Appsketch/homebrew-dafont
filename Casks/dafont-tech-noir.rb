@@ -5,7 +5,6 @@ cask 'dafont-tech-noir' do
     url 'http://dl.dafont.com/dl/?f=tech_noir'
     name 'Tech Noir'
     homepage 'http://www.dafont.com/tech-noir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TechNoir.ttf'
 end

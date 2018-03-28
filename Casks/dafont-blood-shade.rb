@@ -5,7 +5,6 @@ cask 'dafont-blood-shade' do
     url 'http://dl.dafont.com/dl/?f=blood_shade'
     name 'Blood Shade'
     homepage 'http://www.dafont.com/blood-shade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blood Shade.ttf'
 end

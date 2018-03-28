@@ -5,7 +5,6 @@ cask 'dafont-xmastyme' do
     url 'http://dl.dafont.com/dl/?f=xmastyme'
     name 'XmasTyme'
     homepage 'http://www.dafont.com/xmastyme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XMASTYME.TTF'
 end

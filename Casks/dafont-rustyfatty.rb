@@ -5,7 +5,6 @@ cask 'dafont-rustyfatty' do
     url 'http://dl.dafont.com/dl/?f=rustyfatty'
     name 'rustyfatty'
     homepage 'http://www.dafont.com/rustyfatty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rustyfatty.ttf'
 end

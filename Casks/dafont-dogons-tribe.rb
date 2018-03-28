@@ -5,7 +5,6 @@ cask 'dafont-dogons-tribe' do
     url 'http://dl.dafont.com/dl/?f=dogons_tribe'
     name 'Dogon&#039;s Tribe'
     homepage 'http://www.dafont.com/dogons-tribe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dogon_&#039;s tribe.ttf'
 end

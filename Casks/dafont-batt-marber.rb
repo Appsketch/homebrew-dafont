@@ -5,7 +5,6 @@ cask 'dafont-batt-marber' do
     url 'http://dl.dafont.com/dl/?f=batt_marber'
     name 'Batt Marber'
     homepage 'http://www.dafont.com/batt-marber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Batt Marber.ttf'
 end

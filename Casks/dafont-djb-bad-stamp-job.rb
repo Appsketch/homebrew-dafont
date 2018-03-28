@@ -5,7 +5,6 @@ cask 'dafont-djb-bad-stamp-job' do
     url 'http://dl.dafont.com/dl/?f=djb_bad_stamp_job'
     name 'DJB Bad Stamp Job'
     homepage 'http://www.dafont.com/djb-bad-stamp-job.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB BAD STAMP JOB 1.ttf'
     font 'DJB BAD STAMP JOB 2.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-celestial' do
     url 'http://dl.dafont.com/dl/?f=celestial'
     name 'Celestial'
     homepage 'http://www.dafont.com/celestial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Celestial.ttf'
 end

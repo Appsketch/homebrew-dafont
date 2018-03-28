@@ -5,7 +5,6 @@ cask 'dafont-pixel-operator' do
     url 'http://dl.dafont.com/dl/?f=pixel_operator'
     name 'Pixel Operator'
     homepage 'http://www.dafont.com/pixel-operator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixelOperator-Bold.ttf'
     font 'PixelOperator.ttf'

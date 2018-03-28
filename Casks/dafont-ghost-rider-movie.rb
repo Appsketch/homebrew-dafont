@@ -5,7 +5,6 @@ cask 'dafont-ghost-rider-movie' do
     url 'http://dl.dafont.com/dl/?f=ghost_rider_movie'
     name 'Ghost Rider Movie'
     homepage 'http://www.dafont.com/ghost-rider-movie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GHOST RIDER MOVIE.ttf'
 end

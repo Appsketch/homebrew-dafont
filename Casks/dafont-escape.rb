@@ -5,7 +5,6 @@ cask 'dafont-escape' do
     url 'http://dl.dafont.com/dl/?f=escape'
     name 'Escape'
     homepage 'http://www.dafont.com/escape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Escape.ttf'
 end

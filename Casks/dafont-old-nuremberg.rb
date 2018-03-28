@@ -5,7 +5,6 @@ cask 'dafont-old-nuremberg' do
     url 'http://dl.dafont.com/dl/?f=old_nuremberg'
     name 'Old Nuremberg'
     homepage 'http://www.dafont.com/old-nuremberg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old_Nuremberg.ttf'
 end

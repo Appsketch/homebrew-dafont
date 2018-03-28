@@ -5,7 +5,6 @@ cask 'dafont-seminggu-di-kota-cianjur' do
     url 'http://dl.dafont.com/dl/?f=seminggu_di_kota_cianjur'
     name 'Seminggu di kota Cianjur'
     homepage 'http://www.dafont.com/seminggu-di-kota-cianjur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'seminggu_di_kota_cianjur.ttf'
 end

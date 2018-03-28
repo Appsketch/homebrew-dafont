@@ -5,7 +5,6 @@ cask 'dafont-unai' do
     url 'http://dl.dafont.com/dl/?f=unai'
     name 'Unai'
     homepage 'http://www.dafont.com/unai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unai-Lines.ttf'
     font 'Unai-Native.ttf'

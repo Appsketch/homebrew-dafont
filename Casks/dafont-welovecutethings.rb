@@ -5,7 +5,6 @@ cask 'dafont-welovecutethings' do
     url 'http://dl.dafont.com/dl/?f=welovecutethings'
     name 'We Love Cute Things'
     homepage 'http://www.dafont.com/welovecutethings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WeLoveCuteThings.ttf'
 end

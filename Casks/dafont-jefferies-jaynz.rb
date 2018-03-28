@@ -5,7 +5,6 @@ cask 'dafont-jefferies-jaynz' do
     url 'http://dl.dafont.com/dl/?f=jefferies_jaynz'
     name 'Jefferies'
     homepage 'http://www.dafont.com/jefferies-jaynz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jefferies Bold Italic.otf'
     font 'Jefferies Bold.otf'

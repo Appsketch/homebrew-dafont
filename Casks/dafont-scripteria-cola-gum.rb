@@ -5,7 +5,6 @@ cask 'dafont-scripteria-cola-gum' do
     url 'http://dl.dafont.com/dl/?f=scripteria_cola_gum'
     name 'Scripteria Cola + Gummy + Toid'
     homepage 'http://www.dafont.com/scripteria-cola-gum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCRIC___.TTF'
     font 'SCRIG___.TTF'

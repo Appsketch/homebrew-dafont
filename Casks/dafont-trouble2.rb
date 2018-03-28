@@ -5,7 +5,6 @@ cask 'dafont-trouble2' do
     url 'http://dl.dafont.com/dl/?f=trouble2'
     name 'Trouble'
     homepage 'http://www.dafont.com/trouble2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trouble.ttf'
 end

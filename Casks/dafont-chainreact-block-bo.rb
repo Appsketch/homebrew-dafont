@@ -5,7 +5,6 @@ cask 'dafont-chainreact-block-bo' do
     url 'http://dl.dafont.com/dl/?f=chainreact_block_bo'
     name 'Chainreact Block Boxter'
     homepage 'http://www.dafont.com/chainreact-block-bo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chainreact Block Boxter.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-remington-noiseless' do
     url 'http://dl.dafont.com/dl/?f=remington_noiseless'
     name 'Remington Noiseless'
     homepage 'http://www.dafont.com/remington-noiseless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Remington-Noiseless.ttf'
 end

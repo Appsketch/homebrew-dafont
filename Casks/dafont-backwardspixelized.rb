@@ -5,7 +5,6 @@ cask 'dafont-backwardspixelized' do
     url 'http://dl.dafont.com/dl/?f=backwardspixelized'
     name 'Backwards Pixelized'
     homepage 'http://www.dafont.com/backwardspixelized.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'backwardspixelized.ttf'
 end

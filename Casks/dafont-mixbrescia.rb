@@ -5,7 +5,6 @@ cask 'dafont-mixbrescia' do
     url 'http://dl.dafont.com/dl/?f=mixbrescia'
     name 'Mix Brescia'
     homepage 'http://www.dafont.com/mixbrescia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixBrescia.ttf'
 end

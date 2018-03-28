@@ -5,7 +5,6 @@ cask 'dafont-cross-led-bold-tfb' do
     url 'http://dl.dafont.com/dl/?f=cross_led_bold_tfb'
     name 'Cross Led Bold TFB'
     homepage 'http://www.dafont.com/cross-led-bold-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cross led tfb bold cursive.ttf'
     font 'Cross led tfb bold.ttf'

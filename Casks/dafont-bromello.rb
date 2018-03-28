@@ -5,7 +5,6 @@ cask 'dafont-bromello' do
     url 'http://dl.dafont.com/dl/?f=bromello'
     name 'Bromello'
     homepage 'http://www.dafont.com/bromello.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bromello.ttf'
 end

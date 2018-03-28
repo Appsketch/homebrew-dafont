@@ -5,7 +5,6 @@ cask 'dafont-piksalet' do
     url 'http://dl.dafont.com/dl/?f=piksalet'
     name 'Piksalet'
     homepage 'http://www.dafont.com/piksalet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'piksalet.ttf'
 end

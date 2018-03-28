@@ -5,7 +5,6 @@ cask 'dafont-tamoro-script' do
     url 'http://dl.dafont.com/dl/?f=tamoro_script'
     name 'Tamoro Script'
     homepage 'http://www.dafont.com/tamoro-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TamoroScript_PersonalUseOnly.ttf'
 end

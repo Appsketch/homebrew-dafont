@@ -5,7 +5,6 @@ cask 'dafont-tuscarora' do
     url 'http://dl.dafont.com/dl/?f=tuscarora'
     name 'Tuscarora'
     homepage 'http://www.dafont.com/tuscarora.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tu______.ttf'
 end

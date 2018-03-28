@@ -5,7 +5,6 @@ cask 'dafont-johanneke' do
     url 'http://dl.dafont.com/dl/?f=johanneke'
     name 'Johanneke'
     homepage 'http://www.dafont.com/johanneke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Johanneke Black Mixed.ttf'
     font 'Johanneke Black.ttf'

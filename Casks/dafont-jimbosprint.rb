@@ -5,7 +5,6 @@ cask 'dafont-jimbosprint' do
     url 'http://dl.dafont.com/dl/?f=jimbosprint'
     name 'Jimbos Print'
     homepage 'http://www.dafont.com/jimbosprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JimbosPrint-Bold-Italic.ttf'
 end

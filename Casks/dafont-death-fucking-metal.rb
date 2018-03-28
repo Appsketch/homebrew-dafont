@@ -5,7 +5,6 @@ cask 'dafont-death-fucking-metal' do
     url 'http://dl.dafont.com/dl/?f=death_fucking_metal'
     name 'Death Fucking Metal'
     homepage 'http://www.dafont.com/death-fucking-metal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeathFuckingMetal.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-knifer' do
     url 'http://dl.dafont.com/dl/?f=knifer'
     name 'Knifer'
     homepage 'http://www.dafont.com/knifer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Knifer_100.otf'
     font 'Knifer_200.otf'

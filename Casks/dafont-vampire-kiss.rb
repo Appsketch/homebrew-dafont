@@ -5,7 +5,6 @@ cask 'dafont-vampire-kiss' do
     url 'http://dl.dafont.com/dl/?f=vampire_kiss'
     name 'Vampire Kiss'
     homepage 'http://www.dafont.com/vampire-kiss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vampire Kiss Demo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-falling-rain' do
     url 'http://dl.dafont.com/dl/?f=falling_rain'
     name 'Falling Rain'
     homepage 'http://www.dafont.com/falling-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Falling Rain.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-webs' do
     url 'http://dl.dafont.com/dl/?f=webs'
     name 'Webs'
     homepage 'http://www.dafont.com/webs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'webs_by_malre.ttf'
 end

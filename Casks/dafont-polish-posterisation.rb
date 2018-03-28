@@ -5,7 +5,6 @@ cask 'dafont-polish-posterisation' do
     url 'http://dl.dafont.com/dl/?f=polish_posterisation'
     name 'Polish Posterisation'
     homepage 'http://www.dafont.com/polish-posterisation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Polish Posterisation.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-carmencita' do
     url 'http://dl.dafont.com/dl/?f=carmencita'
     name 'Carmencita'
     homepage 'http://www.dafont.com/carmencita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CARMENCI.TTF'
 end

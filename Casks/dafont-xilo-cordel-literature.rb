@@ -5,7 +5,6 @@ cask 'dafont-xilo-cordel-literature' do
     url 'http://dl.dafont.com/dl/?f=xilo_cordel_literature'
     name 'Xilo Cordel Literature'
     homepage 'http://www.dafont.com/xilo-cordel-literature.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xilo Cordel Literature I.ttf'
     font 'Xilo Cordel Literature II.ttf'

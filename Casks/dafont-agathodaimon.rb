@@ -5,7 +5,6 @@ cask 'dafont-agathodaimon' do
     url 'http://dl.dafont.com/dl/?f=agathodaimon'
     name 'Agathodaimon'
     homepage 'http://www.dafont.com/agathodaimon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AGATHODA.TTF'
 end

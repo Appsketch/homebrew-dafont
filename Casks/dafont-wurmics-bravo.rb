@@ -5,7 +5,6 @@ cask 'dafont-wurmics-bravo' do
     url 'http://dl.dafont.com/dl/?f=wurmics_bravo'
     name 'Wurmics Bravo'
     homepage 'http://www.dafont.com/wurmics-bravo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wurmics_Bravo.ttf'
 end

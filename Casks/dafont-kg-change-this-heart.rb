@@ -5,7 +5,6 @@ cask 'dafont-kg-change-this-heart' do
     url 'http://dl.dafont.com/dl/?f=kg_change_this_heart'
     name 'KG Change This Heart'
     homepage 'http://www.dafont.com/kg-change-this-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGChangeThisHeart.ttf'
 end

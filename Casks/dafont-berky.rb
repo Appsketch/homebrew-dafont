@@ -5,7 +5,6 @@ cask 'dafont-berky' do
     url 'http://dl.dafont.com/dl/?f=berky'
     name 'Berky'
     homepage 'http://www.dafont.com/berky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BERKY.ttf'
 end

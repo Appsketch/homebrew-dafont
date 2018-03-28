@@ -5,7 +5,6 @@ cask 'dafont-theguardian' do
     url 'http://dl.dafont.com/dl/?f=theguardian'
     name 'The Guardian'
     homepage 'http://www.dafont.com/theguardian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheGuardian.ttf'
 end

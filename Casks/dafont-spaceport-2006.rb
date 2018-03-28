@@ -5,7 +5,6 @@ cask 'dafont-spaceport-2006' do
     url 'http://dl.dafont.com/dl/?f=spaceport_2006'
     name 'Spaceport 2006'
     homepage 'http://www.dafont.com/spaceport-2006.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spaceport_2006.otf'
 end

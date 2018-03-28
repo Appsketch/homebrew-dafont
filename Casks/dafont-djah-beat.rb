@@ -5,7 +5,6 @@ cask 'dafont-djah-beat' do
     url 'http://dl.dafont.com/dl/?f=djah_beat'
     name 'Djah Beat'
     homepage 'http://www.dafont.com/djah-beat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DjahBeat.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-portable-tube' do
     url 'http://dl.dafont.com/dl/?f=portable_tube'
     name 'Portable Tube'
     homepage 'http://www.dafont.com/portable-tube.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PortableTube.ttf'
     font 'PortableTubeAlia.ttf'

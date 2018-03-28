@@ -5,7 +5,6 @@ cask 'dafont-promenade-de-la-croisette' do
     url 'http://dl.dafont.com/dl/?f=promenade_de_la_croisette'
     name 'Promenade de la Croisette'
     homepage 'http://www.dafont.com/promenade-de-la-croisette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Promenade_de_la_Croisette_FREE_FOR_PERSONAL_USE_ONLY.ttf'
 end

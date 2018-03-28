@@ -5,7 +5,6 @@ cask 'dafont-typo-negative' do
     url 'http://dl.dafont.com/dl/?f=typo_negative'
     name 'Typo Negative'
     homepage 'http://www.dafont.com/typo-negative.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TYPON___.TTF'
 end

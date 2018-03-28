@@ -5,7 +5,6 @@ cask 'dafont-ursa-serif' do
     url 'http://dl.dafont.com/dl/?f=ursa_serif'
     name 'Ursa Serif'
     homepage 'http://www.dafont.com/ursa-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'URSB____.TTF'
     font 'URSE____.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-maximage-gimbadong' do
     url 'http://dl.dafont.com/dl/?f=maximage_gimbadong'
     name 'Maximage Gimbadong'
     homepage 'http://www.dafont.com/maximage-gimbadong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maximage Gimbadong.otf'
 end

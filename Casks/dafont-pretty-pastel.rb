@@ -5,7 +5,6 @@ cask 'dafont-pretty-pastel' do
     url 'http://dl.dafont.com/dl/?f=pretty_pastel'
     name 'Pretty Pastel'
     homepage 'http://www.dafont.com/pretty-pastel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pretty_Pastel.ttf'
 end

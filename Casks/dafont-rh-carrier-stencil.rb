@@ -5,7 +5,6 @@ cask 'dafont-rh-carrier-stencil' do
     url 'http://dl.dafont.com/dl/?f=rh_carrier_stencil'
     name 'RH Carrier Stencil'
     homepage 'http://www.dafont.com/rh-carrier-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RHCAS___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tartarsauce-erc' do
     url 'http://dl.dafont.com/dl/?f=tartarsauce_erc'
     name 'Tartarsauce Erc'
     homepage 'http://www.dafont.com/tartarsauce-erc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tartar_sauce_erc.ttf'
 end

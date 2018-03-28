@@ -5,7 +5,6 @@ cask 'dafont-over-the-mountain' do
     url 'http://dl.dafont.com/dl/?f=over_the_mountain'
     name 'Over the mountain'
     homepage 'http://www.dafont.com/over-the-mountain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'over the mountain.ttf'
 end

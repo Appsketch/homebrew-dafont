@@ -5,7 +5,6 @@ cask 'dafont-cafe-madrid' do
     url 'http://dl.dafont.com/dl/?f=cafe_madrid'
     name 'Caf&eacute; Madrid'
     homepage 'http://www.dafont.com/cafe-madrid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caf Madrid.ttf'
 end

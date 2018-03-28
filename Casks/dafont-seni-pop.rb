@@ -5,7 +5,6 @@ cask 'dafont-seni-pop' do
     url 'http://dl.dafont.com/dl/?f=seni_pop'
     name 'Seni Pop'
     homepage 'http://www.dafont.com/seni-pop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SeniPop.ttf'
 end

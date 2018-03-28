@@ -5,7 +5,6 @@ cask 'dafont-runenglish' do
     url 'http://dl.dafont.com/dl/?f=runenglish'
     name 'RunEnglish'
     homepage 'http://www.dafont.com/runenglish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RUNENG1.TTF'
     font 'RUNEnglish 2.ttf'

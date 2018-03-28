@@ -5,7 +5,6 @@ cask 'dafont-ll-rubber-grotesque' do
     url 'http://dl.dafont.com/dl/?f=ll_rubber_grotesque'
     name 'LL Rubber Grotesque'
     homepage 'http://www.dafont.com/ll-rubber-grotesque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLRG.ttf'
     font 'LLRUG_1_4.ttf'

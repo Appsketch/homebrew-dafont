@@ -5,7 +5,6 @@ cask 'dafont-old-stamper' do
     url 'http://dl.dafont.com/dl/?f=old_stamper'
     name 'Old Stamper'
     homepage 'http://www.dafont.com/old-stamper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'old_stamper.ttf'
 end

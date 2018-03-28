@@ -5,7 +5,6 @@ cask 'dafont-beginning-of-summer' do
     url 'http://dl.dafont.com/dl/?f=beginning_of_summer'
     name 'Beginning of Summer'
     homepage 'http://www.dafont.com/beginning-of-summer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beginning of Summer.ttf'
 end

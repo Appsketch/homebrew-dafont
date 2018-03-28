@@ -5,7 +5,6 @@ cask 'dafont-saffron' do
     url 'http://dl.dafont.com/dl/?f=saffron'
     name 'Saffron'
     homepage 'http://www.dafont.com/saffron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SAFFCW__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-la-citadelle-des-papillons' do
     url 'http://dl.dafont.com/dl/?f=la_citadelle_des_papillons'
     name 'La Citadelle des Papillons'
     homepage 'http://www.dafont.com/la-citadelle-des-papillons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'La Citadelle des Papillons.ttf'
 end

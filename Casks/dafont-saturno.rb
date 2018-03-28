@@ -5,7 +5,6 @@ cask 'dafont-saturno' do
     url 'http://dl.dafont.com/dl/?f=saturno'
     name 'Saturno'
     homepage 'http://www.dafont.com/saturno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Saturno.ttf'
 end

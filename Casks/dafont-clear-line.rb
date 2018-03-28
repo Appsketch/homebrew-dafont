@@ -5,7 +5,6 @@ cask 'dafont-clear-line' do
     url 'http://dl.dafont.com/dl/?f=clear_line'
     name 'Clear Line'
     homepage 'http://www.dafont.com/clear-line.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ClearLine_PERSONAL_USE_ONLY.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-monstres-de-poche' do
     url 'http://dl.dafont.com/dl/?f=monstres_de_poche'
     name 'Monstres de Poche'
     homepage 'http://www.dafont.com/monstres-de-poche.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monstres de Poche.ttf'
 end

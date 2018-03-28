@@ -5,7 +5,6 @@ cask 'dafont-dcc-ash' do
     url 'http://dl.dafont.com/dl/?f=dcc_ash'
     name 'DCC Ash'
     homepage 'http://www.dafont.com/dcc-ash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DCC - Ash.otf'
 end

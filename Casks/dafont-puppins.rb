@@ -5,7 +5,6 @@ cask 'dafont-puppins' do
     url 'http://dl.dafont.com/dl/?f=puppins'
     name 'Puppins'
     homepage 'http://www.dafont.com/puppins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PUPPINS_.TTF'
 end

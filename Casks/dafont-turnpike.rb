@@ -5,7 +5,6 @@ cask 'dafont-turnpike' do
     url 'http://dl.dafont.com/dl/?f=turnpike'
     name 'Turnpike'
     homepage 'http://www.dafont.com/turnpike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Turnpike.ttf'
 end

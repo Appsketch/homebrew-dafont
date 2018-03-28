@@ -5,7 +5,6 @@ cask 'dafont-buitenzorg' do
     url 'http://dl.dafont.com/dl/?f=buitenzorg'
     name 'Buitenzorg'
     homepage 'http://www.dafont.com/buitenzorg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUITENZO.ttf'
 end

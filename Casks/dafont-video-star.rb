@@ -5,7 +5,6 @@ cask 'dafont-video-star' do
     url 'http://dl.dafont.com/dl/?f=video_star'
     name 'Video Star'
     homepage 'http://www.dafont.com/video-star.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VSTAR2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-faces-plain' do
     url 'http://dl.dafont.com/dl/?f=faces_plain'
     name 'Faces Plain'
     homepage 'http://www.dafont.com/faces-plain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FacesPlain.ttf'
 end

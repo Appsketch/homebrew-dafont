@@ -5,7 +5,6 @@ cask 'dafont-dk-monsieur-le-chat' do
     url 'http://dl.dafont.com/dl/?f=dk_monsieur_le_chat'
     name 'DK Monsieur Le Chat'
     homepage 'http://www.dafont.com/dk-monsieur-le-chat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Monsieur Le Chat.ttf'
 end

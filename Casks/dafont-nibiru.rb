@@ -5,7 +5,6 @@ cask 'dafont-nibiru' do
     url 'http://dl.dafont.com/dl/?f=nibiru'
     name 'Nibiru'
     homepage 'http://www.dafont.com/nibiru.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NIBIRU.ttf'
 end

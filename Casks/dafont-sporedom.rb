@@ -5,7 +5,6 @@ cask 'dafont-sporedom' do
     url 'http://dl.dafont.com/dl/?f=sporedom'
     name 'Sporedom'
     homepage 'http://www.dafont.com/sporedom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPOREDOM.TTF'
 end

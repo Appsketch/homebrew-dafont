@@ -5,7 +5,6 @@ cask 'dafont-sexything' do
     url 'http://dl.dafont.com/dl/?f=sexything'
     name 'Sexything'
     homepage 'http://www.dafont.com/sexything.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sexything_Bold_Italic.ttf'
     font 'Sexything_Bold.ttf'

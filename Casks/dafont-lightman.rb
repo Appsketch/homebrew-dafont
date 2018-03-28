@@ -5,7 +5,6 @@ cask 'dafont-lightman' do
     url 'http://dl.dafont.com/dl/?f=lightman'
     name 'Lightman'
     homepage 'http://www.dafont.com/lightman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lightman Pixel.ttf'
     font 'Lightman.ttf'

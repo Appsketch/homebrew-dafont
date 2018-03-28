@@ -5,7 +5,6 @@ cask 'dafont-kg-candy-cane-stripe' do
     url 'http://dl.dafont.com/dl/?f=kg_candy_cane_stripe'
     name 'KG Candy Cane Stripe'
     homepage 'http://www.dafont.com/kg-candy-cane-stripe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGCandyCaneStripe.ttf'
 end

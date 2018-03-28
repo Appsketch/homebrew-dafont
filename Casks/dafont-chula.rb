@@ -5,7 +5,6 @@ cask 'dafont-chula' do
     url 'http://dl.dafont.com/dl/?f=chula'
     name 'Chula'
     homepage 'http://www.dafont.com/chula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chula.ttf'
 end

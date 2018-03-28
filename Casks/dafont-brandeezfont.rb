@@ -5,7 +5,6 @@ cask 'dafont-brandeezfont' do
     url 'http://dl.dafont.com/dl/?f=brandeezfont'
     name 'Brandeez Font'
     homepage 'http://www.dafont.com/brandeezfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRANDEEZFONTV2.ttf'
 end

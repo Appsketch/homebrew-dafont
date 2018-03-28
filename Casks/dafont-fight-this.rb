@@ -5,7 +5,6 @@ cask 'dafont-fight-this' do
     url 'http://dl.dafont.com/dl/?f=fight_this'
     name 'Fight This'
     homepage 'http://www.dafont.com/fight-this.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FIGHTT3_.ttf'
 end

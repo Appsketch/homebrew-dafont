@@ -5,7 +5,6 @@ cask 'dafont-bn-cuword' do
     url 'http://dl.dafont.com/dl/?f=bn_cuword'
     name 'BN CUWord'
     homepage 'http://www.dafont.com/bn-cuword.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bncuworb.ttf'
     font 'bncuword.ttf'

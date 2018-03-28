@@ -5,7 +5,6 @@ cask 'dafont-mtf-flower-doodles' do
     url 'http://dl.dafont.com/dl/?f=mtf_flower_doodles'
     name 'MTF Flower Doodles'
     homepage 'http://www.dafont.com/mtf-flower-doodles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Flower Doodles.ttf'
 end

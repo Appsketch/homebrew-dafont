@@ -5,7 +5,6 @@ cask 'dafont-mellogothic' do
     url 'http://dl.dafont.com/dl/?f=mellogothic'
     name 'Mellogothic'
     homepage 'http://www.dafont.com/mellogothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mellogoth.ttf'
 end

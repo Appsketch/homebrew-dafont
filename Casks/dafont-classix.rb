@@ -5,7 +5,6 @@ cask 'dafont-classix' do
     url 'http://dl.dafont.com/dl/?f=classix'
     name 'Classix'
     homepage 'http://www.dafont.com/classix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Classix.ttf'
 end

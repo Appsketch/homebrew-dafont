@@ -5,7 +5,6 @@ cask 'dafont-djb-baby-bump' do
     url 'http://dl.dafont.com/dl/?f=djb_baby_bump'
     name 'DJB Baby Bump'
     homepage 'http://www.dafont.com/djb-baby-bump.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Baby Bump Bold.ttf'
     font 'DJB Baby Bump.ttf'

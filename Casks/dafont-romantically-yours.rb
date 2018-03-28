@@ -5,7 +5,6 @@ cask 'dafont-romantically-yours' do
     url 'http://dl.dafont.com/dl/?f=romantically_yours'
     name 'Romantically Yours'
     homepage 'http://www.dafont.com/romantically-yours.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Romantically Yours.ttf'
 end

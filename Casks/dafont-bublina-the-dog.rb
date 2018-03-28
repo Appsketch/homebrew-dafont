@@ -5,7 +5,6 @@ cask 'dafont-bublina-the-dog' do
     url 'http://dl.dafont.com/dl/?f=bublina_the_dog'
     name 'Bublina the Dog'
     homepage 'http://www.dafont.com/bublina-the-dog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bublina-022.ttf'
 end

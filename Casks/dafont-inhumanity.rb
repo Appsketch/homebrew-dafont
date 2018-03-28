@@ -5,7 +5,6 @@ cask 'dafont-inhumanity' do
     url 'http://dl.dafont.com/dl/?f=inhumanity'
     name 'Inhumanity'
     homepage 'http://www.dafont.com/inhumanity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'inhumanity.ttf'
     font 'inhumanity3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-extrahighs' do
     url 'http://dl.dafont.com/dl/?f=extrahighs'
     name 'Extra Highs'
     homepage 'http://www.dafont.com/extrahighs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExtraHighs.ttf'
 end

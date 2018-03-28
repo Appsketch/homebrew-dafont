@@ -5,7 +5,6 @@ cask 'dafont-haus' do
     url 'http://dl.dafont.com/dl/?f=haus'
     name 'Haus'
     homepage 'http://www.dafont.com/haus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'haus.ttf'
 end

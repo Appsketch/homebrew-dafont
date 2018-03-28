@@ -5,7 +5,6 @@ cask 'dafont-flats' do
     url 'http://dl.dafont.com/dl/?f=flats'
     name 'Flats'
     homepage 'http://www.dafont.com/flats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FLATS.ttf'
 end

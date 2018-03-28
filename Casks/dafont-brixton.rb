@@ -5,7 +5,6 @@ cask 'dafont-brixton' do
     url 'http://dl.dafont.com/dl/?f=brixton'
     name 'Brixton'
     homepage 'http://www.dafont.com/brixton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brixton Bold Oblique.ttf'
     font 'Brixton Bold.ttf'

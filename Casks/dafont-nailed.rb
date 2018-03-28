@@ -5,7 +5,6 @@ cask 'dafont-nailed' do
     url 'http://dl.dafont.com/dl/?f=nailed'
     name 'Nailed'
     homepage 'http://www.dafont.com/nailed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NAILED.ttf'
 end

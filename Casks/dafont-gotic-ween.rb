@@ -5,7 +5,6 @@ cask 'dafont-gotic-ween' do
     url 'http://dl.dafont.com/dl/?f=gotic_ween'
     name 'Gotic Ween'
     homepage 'http://www.dafont.com/gotic-ween.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gotic ween.ttf'
 end

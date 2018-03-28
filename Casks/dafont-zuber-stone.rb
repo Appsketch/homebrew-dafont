@@ -5,7 +5,6 @@ cask 'dafont-zuber-stone' do
     url 'http://dl.dafont.com/dl/?f=zuber_stone'
     name 'Zuber Stone'
     homepage 'http://www.dafont.com/zuber-stone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zuber stone solo letras mayusculas (free promo).ttf'
 end

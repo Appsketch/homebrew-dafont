@@ -5,7 +5,6 @@ cask 'dafont-alpha-sentry' do
     url 'http://dl.dafont.com/dl/?f=alpha_sentry'
     name 'Alpha Sentry'
     homepage 'http://www.dafont.com/alpha-sentry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alphav2.ttf'
 end

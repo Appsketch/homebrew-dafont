@@ -5,7 +5,6 @@ cask 'dafont-lbc-starlight' do
     url 'http://dl.dafont.com/dl/?f=lbc_starlight'
     name 'LBC Starlight'
     homepage 'http://www.dafont.com/lbc-starlight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LBCSTARL.ttf'
 end

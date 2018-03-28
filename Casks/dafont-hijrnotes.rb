@@ -5,7 +5,6 @@ cask 'dafont-hijrnotes' do
     url 'http://dl.dafont.com/dl/?f=hijrnotes'
     name 'Hijrnotes'
     homepage 'http://www.dafont.com/hijrnotes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hijrnotes_PERSONAL_USE_ONLY.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chanl' do
     url 'http://dl.dafont.com/dl/?f=chanl'
     name 'Chanl'
     homepage 'http://www.dafont.com/chanl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHANNELS.ttf'
 end

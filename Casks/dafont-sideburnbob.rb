@@ -5,7 +5,6 @@ cask 'dafont-sideburnbob' do
     url 'http://dl.dafont.com/dl/?f=sideburnbob'
     name 'Sideburn Bob'
     homepage 'http://www.dafont.com/sideburnbob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SBBTRIAL.ttf'
 end

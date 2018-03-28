@@ -5,7 +5,6 @@ cask 'dafont-mogambo' do
     url 'http://dl.dafont.com/dl/?f=mogambo'
     name 'Mogambo!'
     homepage 'http://www.dafont.com/mogambo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOGAMBO!.ttf'
 end

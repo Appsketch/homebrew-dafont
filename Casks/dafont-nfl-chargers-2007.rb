@@ -5,7 +5,6 @@ cask 'dafont-nfl-chargers-2007' do
     url 'http://dl.dafont.com/dl/?f=nfl_chargers_2007'
     name 'NFL Chargers 2007'
     homepage 'http://www.dafont.com/nfl-chargers-2007.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NFLCHARG.TTF'
 end

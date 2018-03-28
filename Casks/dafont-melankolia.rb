@@ -5,7 +5,6 @@ cask 'dafont-melankolia' do
     url 'http://dl.dafont.com/dl/?f=melankolia'
     name 'Melankolia'
     homepage 'http://www.dafont.com/melankolia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MELANKOLIA.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-taibaijan' do
     url 'http://dl.dafont.com/dl/?f=taibaijan'
     name 'Taibaijan'
     homepage 'http://www.dafont.com/taibaijan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Taibaijan Bold Italic.otf'
     font 'Taibaijan Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-garineldo' do
     url 'http://dl.dafont.com/dl/?f=garineldo'
     name 'Garineldo'
     homepage 'http://www.dafont.com/garineldo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Garineldo.otf'
     font 'GarineldoNo01.otf'

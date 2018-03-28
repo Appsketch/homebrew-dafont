@@ -5,7 +5,6 @@ cask 'dafont-take-a-pebble' do
     url 'http://dl.dafont.com/dl/?f=take_a_pebble'
     name 'Take a Pebble'
     homepage 'http://www.dafont.com/take-a-pebble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Take a pebble.ttf'
 end

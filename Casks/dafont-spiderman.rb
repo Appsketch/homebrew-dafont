@@ -5,7 +5,6 @@ cask 'dafont-spiderman' do
     url 'http://dl.dafont.com/dl/?f=spiderman'
     name 'Homoarakhan'
     homepage 'http://www.dafont.com/spiderman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HOMOARAK.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-truma' do
     url 'http://dl.dafont.com/dl/?f=truma'
     name 'Truma'
     homepage 'http://www.dafont.com/truma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truma.ttf'
 end

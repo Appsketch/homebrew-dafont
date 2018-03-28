@@ -5,7 +5,6 @@ cask 'dafont-animal-city' do
     url 'http://dl.dafont.com/dl/?f=animal_city'
     name 'Animal City'
     homepage 'http://www.dafont.com/animal-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'animal city.ttf'
 end

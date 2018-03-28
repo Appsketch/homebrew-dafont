@@ -5,7 +5,6 @@ cask 'dafont-blue-highway' do
     url 'http://dl.dafont.com/dl/?f=blue_highway'
     name 'Blue Highway'
     homepage 'http://www.dafont.com/blue-highway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blue highway bd.ttf'
     font 'blue highway cd.ttf'

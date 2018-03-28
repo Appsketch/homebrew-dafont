@@ -5,7 +5,6 @@ cask 'dafont-ki-comic' do
     url 'http://dl.dafont.com/dl/?f=ki_comic'
     name 'Ki Comic'
     homepage 'http://www.dafont.com/ki-comic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KICOB___.TTF'
     font 'KICOBI__.TTF'

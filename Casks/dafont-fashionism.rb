@@ -5,7 +5,6 @@ cask 'dafont-fashionism' do
     url 'http://dl.dafont.com/dl/?f=fashionism'
     name 'Fashionism'
     homepage 'http://www.dafont.com/fashionism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fashi954.ttf'
     font 'fashl954.ttf'

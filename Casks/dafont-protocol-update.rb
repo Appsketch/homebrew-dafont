@@ -5,7 +5,6 @@ cask 'dafont-protocol-update' do
     url 'http://dl.dafont.com/dl/?f=protocol_update'
     name 'Protocol Update'
     homepage 'http://www.dafont.com/protocol-update.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ProtocolUpdate-Regular.otf'
 end

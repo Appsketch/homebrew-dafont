@@ -5,7 +5,6 @@ cask 'dafont-tokyo-pop-star' do
     url 'http://dl.dafont.com/dl/?f=tokyo_pop_star'
     name 'Tokyo Pop Star'
     homepage 'http://www.dafont.com/tokyo-pop-star.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tokyo Pop Star DEMO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-doggon' do
     url 'http://dl.dafont.com/dl/?f=doggon'
     name 'Doggon'
     homepage 'http://www.dafont.com/doggon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doggon.ttf'
 end

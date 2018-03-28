@@ -5,7 +5,6 @@ cask 'dafont-catatan-perjalanan' do
     url 'http://dl.dafont.com/dl/?f=catatan_perjalanan'
     name 'Catatan Perjalanan'
     homepage 'http://www.dafont.com/catatan-perjalanan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CP.ttf'
 end

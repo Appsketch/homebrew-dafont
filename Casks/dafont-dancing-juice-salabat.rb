@@ -5,7 +5,6 @@ cask 'dafont-dancing-juice-salabat' do
     url 'http://dl.dafont.com/dl/?f=dancing_juice_salabat'
     name 'Dancing Juice &amp; Salabat'
     homepage 'http://www.dafont.com/dancing-juice-salabat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dancing Juice &amp; Salabat.ttf'
 end

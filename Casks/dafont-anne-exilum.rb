@@ -5,7 +5,6 @@ cask 'dafont-anne-exilum' do
     url 'http://dl.dafont.com/dl/?f=anne_exilum'
     name 'Anne Exilum'
     homepage 'http://www.dafont.com/anne-exilum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anne Exilum.ttf'
 end

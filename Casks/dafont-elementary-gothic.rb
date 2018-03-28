@@ -5,7 +5,6 @@ cask 'dafont-elementary-gothic' do
     url 'http://dl.dafont.com/dl/?f=elementary_gothic'
     name 'Elementary Gothic '
     homepage 'http://www.dafont.com/elementary-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elementary_Gothic_Scaled.otf'
     font 'Elementary_Gothic.ttf'

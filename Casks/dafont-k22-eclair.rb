@@ -5,7 +5,6 @@ cask 'dafont-k22-eclair' do
     url 'http://dl.dafont.com/dl/?f=k22_eclair'
     name 'K22 Eclair'
     homepage 'http://www.dafont.com/k22-eclair.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K22 Eclair.ttf'
 end

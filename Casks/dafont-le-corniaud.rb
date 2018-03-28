@@ -5,7 +5,6 @@ cask 'dafont-le-corniaud' do
     url 'http://dl.dafont.com/dl/?f=le_corniaud'
     name 'Le Corniaud'
     homepage 'http://www.dafont.com/le-corniaud.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LeCorniaud.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wizzta' do
     url 'http://dl.dafont.com/dl/?f=wizzta'
     name 'Wizzta'
     homepage 'http://www.dafont.com/wizzta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wizzta.ttf'
 end

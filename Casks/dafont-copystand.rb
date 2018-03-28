@@ -5,7 +5,6 @@ cask 'dafont-copystand' do
     url 'http://dl.dafont.com/dl/?f=copystand'
     name 'CopyStand'
     homepage 'http://www.dafont.com/copystand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CopyStand hollow.ttf'
     font 'CopyStand.ttf'

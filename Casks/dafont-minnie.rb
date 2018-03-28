@@ -5,7 +5,6 @@ cask 'dafont-minnie' do
     url 'http://dl.dafont.com/dl/?f=minnie'
     name 'Minnie'
     homepage 'http://www.dafont.com/minnie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minnie.TTF'
 end

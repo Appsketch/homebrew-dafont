@@ -5,7 +5,6 @@ cask 'dafont-prosto-sans' do
     url 'http://dl.dafont.com/dl/?f=prosto_sans'
     name 'Prosto Sans'
     homepage 'http://www.dafont.com/prosto-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Prosto Sans Bold.otf'
     font 'TT-Prosto-Sans-Condensed-Bold-DEMO.otf'

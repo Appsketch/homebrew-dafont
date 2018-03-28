@@ -5,7 +5,6 @@ cask 'dafont-balok-balok-tak-sempurna' do
     url 'http://dl.dafont.com/dl/?f=balok_balok_tak_sempurna'
     name 'Balok-Balok Tak Sempurna'
     homepage 'http://www.dafont.com/balok-balok-tak-sempurna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Balok-balok tak sempurna.ttf'
 end

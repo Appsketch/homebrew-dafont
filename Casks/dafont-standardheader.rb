@@ -5,7 +5,6 @@ cask 'dafont-standardheader' do
     url 'http://dl.dafont.com/dl/?f=standardheader'
     name 'Standard Header'
     homepage 'http://www.dafont.com/standardheader.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StandardHeader.ttf'
 end

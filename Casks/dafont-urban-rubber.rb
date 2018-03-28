@@ -5,7 +5,6 @@ cask 'dafont-urban-rubber' do
     url 'http://dl.dafont.com/dl/?f=urban_rubber'
     name 'Urban Rubber'
     homepage 'http://www.dafont.com/urban-rubber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Urban Rubber.ttf'
 end

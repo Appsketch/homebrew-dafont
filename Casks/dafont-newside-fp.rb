@@ -5,7 +5,6 @@ cask 'dafont-newside-fp' do
     url 'http://dl.dafont.com/dl/?f=newside_fp'
     name 'Newside FP'
     homepage 'http://www.dafont.com/newside-fp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Newside FP Alternate Italic.ttf'
     font 'Newside FP Alternate.ttf'

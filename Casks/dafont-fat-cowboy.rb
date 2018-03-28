@@ -5,7 +5,6 @@ cask 'dafont-fat-cowboy' do
     url 'http://dl.dafont.com/dl/?f=fat_cowboy'
     name 'Fat Cowboy'
     homepage 'http://www.dafont.com/fat-cowboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fat_cowboy_square.ttf'
     font 'fat_cowboy.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-pulp-stories' do
     url 'http://dl.dafont.com/dl/?f=pulp_stories'
     name 'Pulp Stories'
     homepage 'http://www.dafont.com/pulp-stories.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pulp plain.ttf'
     font 'Pulp Stories.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-ft-scandinavian-tit' do
     url 'http://dl.dafont.com/dl/?f=ft_scandinavian_tit'
     name 'FT Scandinavian Titan'
     homepage 'http://www.dafont.com/ft-scandinavian-tit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTSCanblDemo.TTF'
     font 'FTScanwhiDemo.TTF'

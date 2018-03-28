@@ -5,7 +5,6 @@ cask 'dafont-daveulmfont' do
     url 'http://dl.dafont.com/dl/?f=daveulmfont'
     name 'Dave Ulm'
     homepage 'http://www.dafont.com/daveulmfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DaveUlmFont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-africanornamentsone' do
     url 'http://dl.dafont.com/dl/?f=africanornamentsone'
     name 'African Ornaments One'
     homepage 'http://www.dafont.com/africanornamentsone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AfricanOrnaments One_PC/AfricOrnOne.ttf'
 end

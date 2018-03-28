@@ -5,7 +5,6 @@ cask 'dafont-dk-new-beginnings' do
     url 'http://dl.dafont.com/dl/?f=dk_new_beginnings'
     name 'DK New Beginnings'
     homepage 'http://www.dafont.com/dk-new-beginnings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK New Beginnings.otf'
 end

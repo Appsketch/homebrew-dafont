@@ -5,7 +5,6 @@ cask 'dafont-mf-really-awesome' do
     url 'http://dl.dafont.com/dl/?f=mf_really_awesome'
     name 'Mf Really Awesome'
     homepage 'http://www.dafont.com/mf-really-awesome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Really Awesome.ttf'
 end

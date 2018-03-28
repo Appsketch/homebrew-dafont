@@ -5,7 +5,6 @@ cask 'dafont-flag-srb' do
     url 'http://dl.dafont.com/dl/?f=flag_srb'
     name 'Flag (sRB)'
     homepage 'http://www.dafont.com/flag-srb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flag(sRB).TTF'
 end

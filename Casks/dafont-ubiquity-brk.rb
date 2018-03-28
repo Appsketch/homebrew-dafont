@@ -5,7 +5,6 @@ cask 'dafont-ubiquity-brk' do
     url 'http://dl.dafont.com/dl/?f=ubiquity_brk'
     name 'Ubiquity BRK'
     homepage 'http://www.dafont.com/ubiquity-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ubiquity.ttf'
 end

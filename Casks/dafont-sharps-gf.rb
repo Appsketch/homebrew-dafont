@@ -5,7 +5,6 @@ cask 'dafont-sharps-gf' do
     url 'http://dl.dafont.com/dl/?f=sharps_gf'
     name 'Sharps GF'
     homepage 'http://www.dafont.com/sharps-gf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SharpsGF.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bedoy' do
     url 'http://dl.dafont.com/dl/?f=bedoy'
     name 'Bedoy'
     homepage 'http://www.dafont.com/bedoy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bedoy.ttf'
 end

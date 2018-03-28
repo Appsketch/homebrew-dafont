@@ -5,7 +5,6 @@ cask 'dafont-gelombang-radio' do
     url 'http://dl.dafont.com/dl/?f=gelombang_radio'
     name 'Gelombang Radio'
     homepage 'http://www.dafont.com/gelombang-radio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gelombang radio.ttf'
 end

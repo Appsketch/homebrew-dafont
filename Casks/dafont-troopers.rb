@@ -5,7 +5,6 @@ cask 'dafont-troopers' do
     url 'http://dl.dafont.com/dl/?f=troopers'
     name 'Troopers'
     homepage 'http://www.dafont.com/troopers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'troopers.ttf'
     font 'troopers3d.ttf'

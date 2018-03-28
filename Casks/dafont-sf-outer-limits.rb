@@ -5,7 +5,6 @@ cask 'dafont-sf-outer-limits' do
     url 'http://dl.dafont.com/dl/?f=sf_outer_limits'
     name 'SF Outer Limits'
     homepage 'http://www.dafont.com/sf-outer-limits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Outer Limits Distorted.ttf'
     font 'SF Outer Limits DistUpright.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-galactic-spaceport' do
     url 'http://dl.dafont.com/dl/?f=galactic_spaceport'
     name 'Galactic Spaceport'
     homepage 'http://www.dafont.com/galactic-spaceport.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GalacticSpaceport.otf'
 end

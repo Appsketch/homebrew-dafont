@@ -5,7 +5,6 @@ cask 'dafont-beech' do
     url 'http://dl.dafont.com/dl/?f=beech'
     name 'Beech'
     homepage 'http://www.dafont.com/beech.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEECH___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lottebyrue' do
     url 'http://dl.dafont.com/dl/?f=lottebyrue'
     name 'Lotte By Rue'
     homepage 'http://www.dafont.com/lottebyrue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LotteByRue-Regular.otf'
 end

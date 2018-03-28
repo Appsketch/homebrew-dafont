@@ -5,7 +5,6 @@ cask 'dafont-ft-anchor-yard' do
     url 'http://dl.dafont.com/dl/?f=ft_anchor_yard'
     name 'FT Anchor Yard'
     homepage 'http://www.dafont.com/ft-anchor-yard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTAnchorYard-Italic.ttf'
     font 'FTAnchorYard-Regular.ttf'

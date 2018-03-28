@@ -5,7 +5,6 @@ cask 'dafont-england' do
     url 'http://dl.dafont.com/dl/?f=england'
     name 'England'
     homepage 'http://www.dafont.com/england.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'England.ttf'
 end

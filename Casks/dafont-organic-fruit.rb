@@ -5,7 +5,6 @@ cask 'dafont-organic-fruit' do
     url 'http://dl.dafont.com/dl/?f=organic_fruit'
     name 'Organic Fruit'
     homepage 'http://www.dafont.com/organic-fruit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Organic_Fruit.ttf'
 end

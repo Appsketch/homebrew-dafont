@@ -5,7 +5,6 @@ cask 'dafont-skriik-electro-mechanical-machine' do
     url 'http://dl.dafont.com/dl/?f=skriik_electro_mechanical_machine'
     name 'Skriik! Electro-mechanical machine'
     homepage 'http://www.dafont.com/skriik-electro-mechanical-machine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skriik! Electro-mechanical machine.ttf'
 end

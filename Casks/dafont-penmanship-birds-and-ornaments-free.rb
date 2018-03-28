@@ -5,7 +5,6 @@ cask 'dafont-penmanship-birds-and-ornaments-free' do
     url 'http://dl.dafont.com/dl/?f=penmanship_birds_and_ornaments_free'
     name 'Penmanship Birds and Ornaments'
     homepage 'http://www.dafont.com/penmanship-birds-and-ornaments-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Penmanship Birds and Ornaments Free.ttf'
 end

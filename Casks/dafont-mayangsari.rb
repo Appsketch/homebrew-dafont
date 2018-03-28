@@ -5,7 +5,6 @@ cask 'dafont-mayangsari' do
     url 'http://dl.dafont.com/dl/?f=mayangsari'
     name 'Mayangsari'
     homepage 'http://www.dafont.com/mayangsari.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mayangsari.ttf'
 end

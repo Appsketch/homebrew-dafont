@@ -5,7 +5,6 @@ cask 'dafont-keroppi' do
     url 'http://dl.dafont.com/dl/?f=keroppi'
     name 'Keroppi'
     homepage 'http://www.dafont.com/keroppi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'keroppi.ttf'
 end

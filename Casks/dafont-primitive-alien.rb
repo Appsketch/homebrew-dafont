@@ -5,7 +5,6 @@ cask 'dafont-primitive-alien' do
     url 'http://dl.dafont.com/dl/?f=primitive_alien'
     name 'Primitive Alien'
     homepage 'http://www.dafont.com/primitive-alien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Primitive Alien.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-arlequin' do
     url 'http://dl.dafont.com/dl/?f=arlequin'
     name 'Arlequin'
     homepage 'http://www.dafont.com/arlequin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arlequin.ttf'
 end

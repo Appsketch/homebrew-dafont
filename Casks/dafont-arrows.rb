@@ -5,7 +5,6 @@ cask 'dafont-arrows' do
     url 'http://dl.dafont.com/dl/?f=arrows'
     name 'Arrows'
     homepage 'http://www.dafont.com/arrows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arrows.ttf'
 end

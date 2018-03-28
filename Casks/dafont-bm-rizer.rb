@@ -5,7 +5,6 @@ cask 'dafont-bm-rizer' do
     url 'http://dl.dafont.com/dl/?f=bm_rizer'
     name 'BM Rizer'
     homepage 'http://www.dafont.com/bm-rizer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMRIA___.TTF'
 end

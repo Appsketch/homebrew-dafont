@@ -5,7 +5,6 @@ cask 'dafont-rawdiet' do
     url 'http://dl.dafont.com/dl/?f=rawdiet'
     name 'Raw Diet'
     homepage 'http://www.dafont.com/rawdiet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RawDiet.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sailorette-tattoo' do
     url 'http://dl.dafont.com/dl/?f=sailorette_tattoo'
     name 'Sailorette Tattoo'
     homepage 'http://www.dafont.com/sailorette-tattoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sailorette-tattoo.ttf'
 end

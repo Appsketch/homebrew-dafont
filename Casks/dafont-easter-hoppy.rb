@@ -5,7 +5,6 @@ cask 'dafont-easter-hoppy' do
     url 'http://dl.dafont.com/dl/?f=easter_hoppy'
     name 'Easter Hoppy'
     homepage 'http://www.dafont.com/easter-hoppy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Easter Hoppy.ttf'
 end

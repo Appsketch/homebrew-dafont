@@ -5,7 +5,6 @@ cask 'dafont-sunnydale' do
     url 'http://dl.dafont.com/dl/?f=sunnydale'
     name 'Sunnydale'
     homepage 'http://www.dafont.com/sunnydale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUNNYDAL.TTF'
 end

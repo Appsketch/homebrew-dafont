@@ -5,7 +5,6 @@ cask 'dafont-timkid' do
     url 'http://dl.dafont.com/dl/?f=timkid'
     name 'TimKid'
     homepage 'http://www.dafont.com/timkid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TimKid.ttf'
 end

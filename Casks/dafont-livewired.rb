@@ -5,7 +5,6 @@ cask 'dafont-livewired' do
     url 'http://dl.dafont.com/dl/?f=livewired'
     name 'Livewired'
     homepage 'http://www.dafont.com/livewired.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'livewired.ttf'
     font 'livewired3d.ttf'

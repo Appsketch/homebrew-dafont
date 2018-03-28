@@ -5,7 +5,6 @@ cask 'dafont-snakebite' do
     url 'http://dl.dafont.com/dl/?f=snakebite'
     name 'SnakeBite'
     homepage 'http://www.dafont.com/snakebite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SnakeBite.ttf'
 end

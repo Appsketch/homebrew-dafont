@@ -5,7 +5,6 @@ cask 'dafont-jd-pictura' do
     url 'http://dl.dafont.com/dl/?f=jd_pictura'
     name 'JD Pictura'
     homepage 'http://www.dafont.com/jd-pictura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_pictura.ttf'
 end

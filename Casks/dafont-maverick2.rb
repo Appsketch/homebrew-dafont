@@ -5,7 +5,6 @@ cask 'dafont-maverick2' do
     url 'http://dl.dafont.com/dl/?f=maverick2'
     name 'Maverick'
     homepage 'http://www.dafont.com/maverick2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAVERICK.ttf'
 end

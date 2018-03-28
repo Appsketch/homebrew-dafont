@@ -5,7 +5,6 @@ cask 'dafont-the-modern-pirates' do
     url 'http://dl.dafont.com/dl/?f=the_modern_pirates'
     name 'The Modern Pirates!'
     homepage 'http://www.dafont.com/the-modern-pirates.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THE MODERN PIRATES!.ttf'
 end

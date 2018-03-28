@@ -5,7 +5,6 @@ cask 'dafont-little-miss-wonderful' do
     url 'http://dl.dafont.com/dl/?f=little_miss_wonderful'
     name 'Little Miss Wonderful'
     homepage 'http://www.dafont.com/little-miss-wonderful.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Little Miss Wonderful.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-boxing-wizards' do
     url 'http://dl.dafont.com/dl/?f=boxing_wizards'
     name 'Boxing Wizards'
     homepage 'http://www.dafont.com/boxing-wizards.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BoxingWizards-Regular.otf'
 end

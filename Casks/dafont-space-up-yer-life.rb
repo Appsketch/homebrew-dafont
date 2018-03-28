@@ -5,7 +5,6 @@ cask 'dafont-space-up-yer-life' do
     url 'http://dl.dafont.com/dl/?f=space_up_yer_life'
     name 'Space Up Yer Life'
     homepage 'http://www.dafont.com/space-up-yer-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'space up yer life.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pangraph' do
     url 'http://dl.dafont.com/dl/?f=pangraph'
     name 'Pangraph'
     homepage 'http://www.dafont.com/pangraph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pangraph-Black.otf'
     font 'Pangraph-Light.otf'

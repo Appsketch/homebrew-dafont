@@ -5,7 +5,6 @@ cask 'dafont-graffd-out' do
     url 'http://dl.dafont.com/dl/?f=graffd_out'
     name 'Graffd Out'
     homepage 'http://www.dafont.com/graffd-out.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'graffd Out.ttf'
 end

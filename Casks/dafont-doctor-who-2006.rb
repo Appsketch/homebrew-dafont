@@ -5,7 +5,6 @@ cask 'dafont-doctor-who-2006' do
     url 'http://dl.dafont.com/dl/?f=doctor_who_2006'
     name 'Doctor Who 2006'
     homepage 'http://www.dafont.com/doctor-who-2006.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOCWHO.TTF'
 end

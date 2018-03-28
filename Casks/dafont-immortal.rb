@@ -5,7 +5,6 @@ cask 'dafont-immortal' do
     url 'http://dl.dafont.com/dl/?f=immortal'
     name 'Immortal'
     homepage 'http://www.dafont.com/immortal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IMMORTAL.ttf'
     font 'IMMRTLT_.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-souvenir' do
     url 'http://dl.dafont.com/dl/?f=souvenir'
     name 'Souvenir'
     homepage 'http://www.dafont.com/souvenir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SOUVENIR.ttf'
 end

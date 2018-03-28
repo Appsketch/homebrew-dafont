@@ -5,7 +5,6 @@ cask 'dafont-kripton-a' do
     url 'http://dl.dafont.com/dl/?f=kripton_a'
     name 'Kripton A'
     homepage 'http://www.dafont.com/kripton-a.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kripton A1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-debrie' do
     url 'http://dl.dafont.com/dl/?f=debrie'
     name 'Debrie'
     homepage 'http://www.dafont.com/debrie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Debrie_Bold.ttf'
 end

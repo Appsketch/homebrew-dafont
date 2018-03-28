@@ -5,7 +5,6 @@ cask 'dafont-rope' do
     url 'http://dl.dafont.com/dl/?f=rope'
     name 'Rope'
     homepage 'http://www.dafont.com/rope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rope.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bed-and-breakfast' do
     url 'http://dl.dafont.com/dl/?f=bed_and_breakfast'
     name 'Bed and Breakfast'
     homepage 'http://www.dafont.com/bed-and-breakfast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BedandBreakfast-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wako' do
     url 'http://dl.dafont.com/dl/?f=wako'
     name 'Wako'
     homepage 'http://www.dafont.com/wako.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wako.ttf'
 end

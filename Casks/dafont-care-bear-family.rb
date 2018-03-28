@@ -5,7 +5,6 @@ cask 'dafont-care-bear-family' do
     url 'http://dl.dafont.com/dl/?f=care_bear_family'
     name 'Care Bear Family'
     homepage 'http://www.dafont.com/care-bear-family.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Care Bears Font.ttf'
 end

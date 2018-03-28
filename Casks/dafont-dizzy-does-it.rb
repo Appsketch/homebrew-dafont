@@ -5,7 +5,6 @@ cask 'dafont-dizzy-does-it' do
     url 'http://dl.dafont.com/dl/?f=dizzy_does_it'
     name 'Dizzy Does It'
     homepage 'http://www.dafont.com/dizzy-does-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dizzy Does It.ttf'
 end

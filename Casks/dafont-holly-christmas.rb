@@ -5,7 +5,6 @@ cask 'dafont-holly-christmas' do
     url 'http://dl.dafont.com/dl/?f=holly_christmas'
     name 'Holly Christmas'
     homepage 'http://www.dafont.com/holly-christmas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Holly Christmas.ttf'
 end

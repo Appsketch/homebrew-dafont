@@ -5,7 +5,6 @@ cask 'dafont-acroscript' do
     url 'http://dl.dafont.com/dl/?f=acroscript'
     name 'Acro Script'
     homepage 'http://www.dafont.com/acroscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'acrotype fixed.ttf'
 end

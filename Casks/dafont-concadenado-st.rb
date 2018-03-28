@@ -5,7 +5,6 @@ cask 'dafont-concadenado-st' do
     url 'http://dl.dafont.com/dl/?f=concadenado_st'
     name 'Concadenado ST'
     homepage 'http://www.dafont.com/concadenado-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CoNcAdEnAdo St.ttf'
 end

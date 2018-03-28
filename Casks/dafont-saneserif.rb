@@ -5,7 +5,6 @@ cask 'dafont-saneserif' do
     url 'http://dl.dafont.com/dl/?f=saneserif'
     name 'Saneserif'
     homepage 'http://www.dafont.com/saneserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sanserif.ttf'
 end

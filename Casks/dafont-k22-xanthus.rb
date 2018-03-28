@@ -5,7 +5,6 @@ cask 'dafont-k22-xanthus' do
     url 'http://dl.dafont.com/dl/?f=k22_xanthus'
     name 'K22 Xanthus'
     homepage 'http://www.dafont.com/k22-xanthus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K22 Xanthus.ttf'
 end

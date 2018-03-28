@@ -5,7 +5,6 @@ cask 'dafont-celeb-faces' do
     url 'http://dl.dafont.com/dl/?f=celeb_faces'
     name 'Celeb Faces'
     homepage 'http://www.dafont.com/celeb-faces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Celeb_Faces.ttf'
 end

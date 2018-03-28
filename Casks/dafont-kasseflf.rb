@@ -5,7 +5,6 @@ cask 'dafont-kasseflf' do
     url 'http://dl.dafont.com/dl/?f=kasseflf'
     name 'Kasse FLF'
     homepage 'http://www.dafont.com/kasseflf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KasseFLF-Bold.ttf'
     font 'KasseFLF.ttf'

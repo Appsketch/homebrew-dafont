@@ -5,7 +5,6 @@ cask 'dafont-helvetica-struggle' do
     url 'http://dl.dafont.com/dl/?f=helvetica_struggle'
     name 'Helvetica Struggle '
     homepage 'http://www.dafont.com/helvetica-struggle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HelveticaStruggleBold.ttf'
     font 'HelveticaStruggleLight.ttf'

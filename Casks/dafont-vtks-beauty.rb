@@ -5,7 +5,6 @@ cask 'dafont-vtks-beauty' do
     url 'http://dl.dafont.com/dl/?f=vtks_beauty'
     name 'VTKS Beauty'
     homepage 'http://www.dafont.com/vtks-beauty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS BEAUTY.ttf'
 end

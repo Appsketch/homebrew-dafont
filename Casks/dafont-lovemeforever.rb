@@ -5,7 +5,6 @@ cask 'dafont-lovemeforever' do
     url 'http://dl.dafont.com/dl/?f=lovemeforever'
     name 'Love Me Forever'
     homepage 'http://www.dafont.com/lovemeforever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LoveMeForever.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-street-fighter' do
     url 'http://dl.dafont.com/dl/?f=street_fighter'
     name 'Street Fighter'
     homepage 'http://www.dafont.com/street-fighter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Street Fighter.ttf'
 end

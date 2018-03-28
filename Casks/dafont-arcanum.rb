@@ -5,7 +5,6 @@ cask 'dafont-arcanum' do
     url 'http://dl.dafont.com/dl/?f=arcanum'
     name 'Arcanum'
     homepage 'http://www.dafont.com/arcanum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'arcanum_b.ttf'
     font 'arcanum_i.ttf'

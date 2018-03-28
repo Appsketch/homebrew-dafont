@@ -5,7 +5,6 @@ cask 'dafont-serial-font' do
     url 'http://dl.dafont.com/dl/?f=serial_font'
     name 'Serial Font'
     homepage 'http://www.dafont.com/serial-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Serial Font.ttf'
 end

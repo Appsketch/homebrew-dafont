@@ -5,7 +5,6 @@ cask 'dafont-let-it-be' do
     url 'http://dl.dafont.com/dl/?f=let_it_be'
     name 'Let it be'
     homepage 'http://www.dafont.com/let-it-be.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'let it be.ttf'
 end

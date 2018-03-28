@@ -5,7 +5,6 @@ cask 'dafont-patriotes1837' do
     url 'http://dl.dafont.com/dl/?f=patriotes1837'
     name 'CF Patriotes 1837'
     homepage 'http://www.dafont.com/patriotes1837.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFPatriotes-Regular.ttf'
 end

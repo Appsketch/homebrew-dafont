@@ -5,7 +5,6 @@ cask 'dafont-vermin-vibes-roundhouse' do
     url 'http://dl.dafont.com/dl/?f=vermin_vibes_roundhouse'
     name 'Vermin Vibes Roundhouse'
     homepage 'http://www.dafont.com/vermin-vibes-roundhouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vermin_vibes_roundhouse.ttf'
 end

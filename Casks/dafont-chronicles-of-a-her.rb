@@ -5,7 +5,6 @@ cask 'dafont-chronicles-of-a-her' do
     url 'http://dl.dafont.com/dl/?f=chronicles_of_a_her'
     name 'Chronicles of a Hero'
     homepage 'http://www.dafont.com/chronicles-of-a-her.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'coah.ttf'
     font 'coahb.ttf'

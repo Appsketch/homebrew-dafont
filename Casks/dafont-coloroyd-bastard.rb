@@ -5,7 +5,6 @@ cask 'dafont-coloroyd-bastard' do
     url 'http://dl.dafont.com/dl/?f=coloroyd_bastard'
     name 'Coloroyd Bastard'
     homepage 'http://www.dafont.com/coloroyd-bastard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CLRD bastard.ttf'
 end

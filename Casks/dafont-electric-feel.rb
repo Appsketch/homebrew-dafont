@@ -5,7 +5,6 @@ cask 'dafont-electric-feel' do
     url 'http://dl.dafont.com/dl/?f=electric_feel'
     name 'Electric Feel'
     homepage 'http://www.dafont.com/electric-feel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'electricfeel.otf'
 end

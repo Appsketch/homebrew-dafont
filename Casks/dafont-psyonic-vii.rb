@@ -5,7 +5,6 @@ cask 'dafont-psyonic-vii' do
     url 'http://dl.dafont.com/dl/?f=psyonic_vii'
     name 'PsYonic VII'
     homepage 'http://www.dafont.com/psyonic-vii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'psyonic.ttf'
     font 'psyonic3d.ttf'

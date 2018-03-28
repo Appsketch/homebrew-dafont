@@ -5,7 +5,6 @@ cask 'dafont-farhat' do
     url 'http://dl.dafont.com/dl/?f=farhat'
     name 'FarHat'
     homepage 'http://www.dafont.com/farhat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FarHat construccion de acordes/FarHat construccion'
     font 'farhat-acordes/FarHat-acordes.ttf'

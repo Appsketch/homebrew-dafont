@@ -5,7 +5,6 @@ cask 'dafont-glix' do
     url 'http://dl.dafont.com/dl/?f=glix'
     name 'Glix'
     homepage 'http://www.dafont.com/glix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GLIX____.TTF'
 end

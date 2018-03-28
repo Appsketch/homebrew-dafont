@@ -5,7 +5,6 @@ cask 'dafont-ballot' do
     url 'http://dl.dafont.com/dl/?f=ballot'
     name 'Ballot'
     homepage 'http://www.dafont.com/ballot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BALLOT__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-snippity-snap' do
     url 'http://dl.dafont.com/dl/?f=dk_snippity_snap'
     name 'DK Snippity Snap'
     homepage 'http://www.dafont.com/dk-snippity-snap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Snippity Snap.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-k26robotrumble' do
     url 'http://dl.dafont.com/dl/?f=k26robotrumble'
     name 'K26 Robot Rumble'
     homepage 'http://www.dafont.com/k26robotrumble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K26RobotRumble.ttf'
 end

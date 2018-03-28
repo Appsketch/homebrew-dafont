@@ -5,7 +5,6 @@ cask 'dafont-overthink' do
     url 'http://dl.dafont.com/dl/?f=overthink'
     name 'Overthink'
     homepage 'http://www.dafont.com/overthink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Overthink Demo.ttf'
 end

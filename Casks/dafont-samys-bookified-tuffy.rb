@@ -5,7 +5,6 @@ cask 'dafont-samys-bookified-tuffy' do
     url 'http://dl.dafont.com/dl/?f=samys_bookified_tuffy'
     name 'Samys Bookified Tuffy'
     homepage 'http://www.dafont.com/samys-bookified-tuffy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SamysBookifiedTuffy.ttf'
 end

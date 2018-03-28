@@ -5,7 +5,6 @@ cask 'dafont-rob-and-steal' do
     url 'http://dl.dafont.com/dl/?f=rob_and_steal'
     name 'Rob and Steal'
     homepage 'http://www.dafont.com/rob-and-steal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rob and Steal.ttf'
 end

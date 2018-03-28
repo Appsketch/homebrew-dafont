@@ -5,7 +5,6 @@ cask 'dafont-tegak-bersambung-iwk' do
     url 'http://dl.dafont.com/dl/?f=tegak_bersambung_iwk'
     name 'Tegak Bersambung IWK'
     homepage 'http://www.dafont.com/tegak-bersambung-iwk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tegak Bersambung_IWK.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-abraham-heights' do
     url 'http://dl.dafont.com/dl/?f=abraham_heights'
     name 'Abraham Heights'
     homepage 'http://www.dafont.com/abraham-heights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abraham Heights.ttf'
 end

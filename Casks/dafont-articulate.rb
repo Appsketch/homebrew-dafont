@@ -5,7 +5,6 @@ cask 'dafont-articulate' do
     url 'http://dl.dafont.com/dl/?f=articulate'
     name 'Articulate'
     homepage 'http://www.dafont.com/articulate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Articulate.ttf'
 end

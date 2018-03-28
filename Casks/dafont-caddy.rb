@@ -5,7 +5,6 @@ cask 'dafont-caddy' do
     url 'http://dl.dafont.com/dl/?f=caddy'
     name 'Caddy'
     homepage 'http://www.dafont.com/caddy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CADDY.TTF'
 end

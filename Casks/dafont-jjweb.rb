@@ -5,7 +5,6 @@ cask 'dafont-jjweb' do
     url 'http://dl.dafont.com/dl/?f=jjweb'
     name 'JJWeb'
     homepage 'http://www.dafont.com/jjweb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JJWEB-1.ttf'
 end

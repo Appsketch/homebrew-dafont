@@ -5,7 +5,6 @@ cask 'dafont-strongarm-caps' do
     url 'http://dl.dafont.com/dl/?f=strongarm_caps'
     name 'Strongarm Caps'
     homepage 'http://www.dafont.com/strongarm-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strongarm Caps.otf'
 end

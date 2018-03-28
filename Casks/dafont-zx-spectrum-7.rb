@@ -5,7 +5,6 @@ cask 'dafont-zx-spectrum-7' do
     url 'http://dl.dafont.com/dl/?f=zx_spectrum_7'
     name 'ZX Spectrum-7'
     homepage 'http://www.dafont.com/zx-spectrum-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zx_spectrum-7_bold.ttf'
     font 'zx_spectrum-7.ttf'

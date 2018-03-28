@@ -5,7 +5,6 @@ cask 'dafont-steelgohsts-handwriting' do
     url 'http://dl.dafont.com/dl/?f=steelgohsts_handwriting'
     name 'Steelgohsts Handwriting'
     homepage 'http://www.dafont.com/steelgohsts-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'steelgohsts handwriting.ttf'
 end

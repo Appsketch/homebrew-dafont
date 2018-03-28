@@ -5,7 +5,6 @@ cask 'dafont-nike-2002-04' do
     url 'http://dl.dafont.com/dl/?f=nike_2002_04'
     name 'Nike 2002-04'
     homepage 'http://www.dafont.com/nike-2002-04.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nike 2002-04.ttf'
 end

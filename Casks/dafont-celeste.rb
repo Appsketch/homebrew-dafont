@@ -5,7 +5,6 @@ cask 'dafont-celeste' do
     url 'http://dl.dafont.com/dl/?f=celeste'
     name 'Celeste'
     homepage 'http://www.dafont.com/celeste.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Celeste.ttf'
 end

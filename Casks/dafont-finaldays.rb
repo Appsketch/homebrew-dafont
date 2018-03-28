@@ -5,7 +5,6 @@ cask 'dafont-finaldays' do
     url 'http://dl.dafont.com/dl/?f=finaldays'
     name 'Final Days'
     homepage 'http://www.dafont.com/finaldays.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FinalDays.ttf'
 end

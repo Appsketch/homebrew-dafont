@@ -5,7 +5,6 @@ cask 'dafont-fixed-sans-serif' do
     url 'http://dl.dafont.com/dl/?f=fixed_sans_serif'
     name 'Fixed Sans Serif'
     homepage 'http://www.dafont.com/fixed-sans-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fixed8.fon'
 end

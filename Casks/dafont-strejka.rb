@@ -5,7 +5,6 @@ cask 'dafont-strejka' do
     url 'http://dl.dafont.com/dl/?f=strejka'
     name 'Strejka'
     homepage 'http://www.dafont.com/strejka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StrejkaRegular_FREE_FOR_PERSONAL_USE_ONLY.ttf'
 end

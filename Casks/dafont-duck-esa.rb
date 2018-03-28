@@ -5,7 +5,6 @@ cask 'dafont-duck-esa' do
     url 'http://dl.dafont.com/dl/?f=duck_esa'
     name 'Duck-esa'
     homepage 'http://www.dafont.com/duck-esa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Duck-esa.ttf'
 end

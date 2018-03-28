@@ -5,7 +5,6 @@ cask 'dafont-half-price-4-you' do
     url 'http://dl.dafont.com/dl/?f=half_price_4_you'
     name 'Half Price 4 You'
     homepage 'http://www.dafont.com/half-price-4-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Half Price 4 You.ttf'
 end

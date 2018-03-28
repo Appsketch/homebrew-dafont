@@ -5,7 +5,6 @@ cask 'dafont-capitalis-typoasis' do
     url 'http://dl.dafont.com/dl/?f=capitalis_typoasis'
     name 'Capitalis TypOasis'
     homepage 'http://www.dafont.com/capitalis-typoasis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CapitalisTypOasis.ttf'
 end

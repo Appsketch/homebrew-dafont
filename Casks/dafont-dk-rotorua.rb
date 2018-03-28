@@ -5,7 +5,6 @@ cask 'dafont-dk-rotorua' do
     url 'http://dl.dafont.com/dl/?f=dk_rotorua'
     name 'DK Rotorua'
     homepage 'http://www.dafont.com/dk-rotorua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Rotorua.otf'
 end

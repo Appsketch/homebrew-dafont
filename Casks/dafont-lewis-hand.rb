@@ -5,7 +5,6 @@ cask 'dafont-lewis-hand' do
     url 'http://dl.dafont.com/dl/?f=lewis_hand'
     name 'Lewis Hand'
     homepage 'http://www.dafont.com/lewis-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lewis hand semibold.ttf'
     font 'Lewishand.ttf'

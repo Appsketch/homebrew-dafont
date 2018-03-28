@@ -5,7 +5,6 @@ cask 'dafont-cf-old-milwaukee' do
     url 'http://dl.dafont.com/dl/?f=cf_old_milwaukee'
     name 'CF Old Milwaukee'
     homepage 'http://www.dafont.com/cf-old-milwaukee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFOldMilwaukee-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-relieve' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_relieve'
     name 'Woodcutter Relieve'
     homepage 'http://www.dafont.com/woodcutter-relieve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Relieve.ttf'
 end

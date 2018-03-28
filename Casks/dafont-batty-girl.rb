@@ -5,7 +5,6 @@ cask 'dafont-batty-girl' do
     url 'http://dl.dafont.com/dl/?f=batty_girl'
     name 'Batty Girl'
     homepage 'http://www.dafont.com/batty-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Batty Girl.ttf'
 end

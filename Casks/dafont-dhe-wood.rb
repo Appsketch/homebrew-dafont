@@ -5,7 +5,6 @@ cask 'dafont-dhe-wood' do
     url 'http://dl.dafont.com/dl/?f=dhe_wood'
     name 'Dhe Wood'
     homepage 'http://www.dafont.com/dhe-wood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dhe wood.ttf'
 end

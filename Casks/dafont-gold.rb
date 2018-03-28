@@ -5,7 +5,6 @@ cask 'dafont-gold' do
     url 'http://dl.dafont.com/dl/?f=gold'
     name 'Gold'
     homepage 'http://www.dafont.com/gold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gold.ttf'
 end

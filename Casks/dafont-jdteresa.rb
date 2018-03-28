@@ -5,7 +5,6 @@ cask 'dafont-jdteresa' do
     url 'http://dl.dafont.com/dl/?f=jdteresa'
     name 'JD Teresa'
     homepage 'http://www.dafont.com/jdteresa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_teresa.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-layeradri' do
     url 'http://dl.dafont.com/dl/?f=layeradri'
     name 'Layeradri'
     homepage 'http://www.dafont.com/layeradri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Layeradri.ttf'
 end

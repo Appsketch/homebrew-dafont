@@ -5,7 +5,6 @@ cask 'dafont-ali-air' do
     url 'http://dl.dafont.com/dl/?f=ali_air'
     name 'Ali Air'
     homepage 'http://www.dafont.com/ali-air.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ali_Air.ttf'
 end

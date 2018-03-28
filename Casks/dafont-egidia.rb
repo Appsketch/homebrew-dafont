@@ -5,7 +5,6 @@ cask 'dafont-egidia' do
     url 'http://dl.dafont.com/dl/?f=egidia'
     name 'Egidia'
     homepage 'http://www.dafont.com/egidia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Egidia.ttf'
 end

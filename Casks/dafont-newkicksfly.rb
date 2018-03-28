@@ -5,7 +5,6 @@ cask 'dafont-newkicksfly' do
     url 'http://dl.dafont.com/dl/?f=newkicksfly'
     name 'New Kicks Fly'
     homepage 'http://www.dafont.com/newkicksfly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NewKicksFly.ttf'
 end

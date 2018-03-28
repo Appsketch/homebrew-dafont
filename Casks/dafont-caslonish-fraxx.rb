@@ -5,7 +5,6 @@ cask 'dafont-caslonish-fraxx' do
     url 'http://dl.dafont.com/dl/?f=caslonish_fraxx'
     name 'Caslonish Fraxx'
     homepage 'http://www.dafont.com/caslonish-fraxx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CaslonishFraxx.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-praise-bob' do
     url 'http://dl.dafont.com/dl/?f=praise_bob'
     name 'Praise Bob'
     homepage 'http://www.dafont.com/praise-bob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOB.TTF'
 end

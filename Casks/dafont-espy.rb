@@ -5,7 +5,6 @@ cask 'dafont-espy' do
     url 'http://dl.dafont.com/dl/?f=espy'
     name 'Espy'
     homepage 'http://www.dafont.com/espy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ESPY_Font.ttf'
 end

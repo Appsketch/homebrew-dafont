@@ -5,7 +5,6 @@ cask 'dafont-gentleman-icons' do
     url 'http://dl.dafont.com/dl/?f=gentleman_icons'
     name 'Gentleman Icons'
     homepage 'http://www.dafont.com/gentleman-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gentleman Icons.ttf'
 end

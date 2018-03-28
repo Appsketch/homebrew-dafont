@@ -5,7 +5,6 @@ cask 'dafont-times-new-yorker' do
     url 'http://dl.dafont.com/dl/?f=times_new_yorker'
     name 'Times New Yorker'
     homepage 'http://www.dafont.com/times-new-yorker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'times_new_yorker.ttf'
 end

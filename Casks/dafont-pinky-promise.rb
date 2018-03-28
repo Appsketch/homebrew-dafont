@@ -5,7 +5,6 @@ cask 'dafont-pinky-promise' do
     url 'http://dl.dafont.com/dl/?f=pinky_promise'
     name 'Pinky Promise'
     homepage 'http://www.dafont.com/pinky-promise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pinky Promise.ttf'
 end

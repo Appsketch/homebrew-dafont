@@ -5,7 +5,6 @@ cask 'dafont-aint-nothing-fancy' do
     url 'http://dl.dafont.com/dl/?f=aint_nothing_fancy'
     name 'Aint Nothing Fancy'
     homepage 'http://www.dafont.com/aint-nothing-fancy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Aint Nothing Fancy.otf'
 end

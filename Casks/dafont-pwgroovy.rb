@@ -5,7 +5,6 @@ cask 'dafont-pwgroovy' do
     url 'http://dl.dafont.com/dl/?f=pwgroovy'
     name 'PW Groovy'
     homepage 'http://www.dafont.com/pwgroovy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWGroovy.ttf'
 end

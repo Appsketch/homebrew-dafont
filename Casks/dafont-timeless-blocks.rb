@@ -5,7 +5,6 @@ cask 'dafont-timeless-blocks' do
     url 'http://dl.dafont.com/dl/?f=timeless_blocks'
     name 'Timeless Blocks'
     homepage 'http://www.dafont.com/timeless-blocks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TimelessBlocks.ttf'
 end

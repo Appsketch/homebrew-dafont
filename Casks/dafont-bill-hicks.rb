@@ -5,7 +5,6 @@ cask 'dafont-bill-hicks' do
     url 'http://dl.dafont.com/dl/?f=bill_hicks'
     name 'Bill Hicks'
     homepage 'http://www.dafont.com/bill-hicks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BILLH___.TTF'
 end

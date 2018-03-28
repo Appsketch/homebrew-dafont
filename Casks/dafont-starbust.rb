@@ -5,7 +5,6 @@ cask 'dafont-starbust' do
     url 'http://dl.dafont.com/dl/?f=starbust'
     name 'Starbust'
     homepage 'http://www.dafont.com/starbust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Starburst.ttf'
 end

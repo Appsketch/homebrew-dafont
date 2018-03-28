@@ -5,7 +5,6 @@ cask 'dafont-axe-for-warrior' do
     url 'http://dl.dafont.com/dl/?f=axe_for_warrior'
     name 'Axe for warrior'
     homepage 'http://www.dafont.com/axe-for-warrior.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'axe for warrior.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ogrejuice' do
     url 'http://dl.dafont.com/dl/?f=ogrejuice'
     name '{ogrejuice}'
     homepage 'http://www.dafont.com/ogrejuice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '{ogrejuice}2.ttf'
 end

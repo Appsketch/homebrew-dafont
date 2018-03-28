@@ -5,7 +5,6 @@ cask 'dafont-f25-blacklettertypewriter' do
     url 'http://dl.dafont.com/dl/?f=f25_blacklettertypewriter'
     name 'F25 Blackletter Typewriter'
     homepage 'http://www.dafont.com/f25-blacklettertypewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'F25_BlackletterTypewriter.ttf'
 end

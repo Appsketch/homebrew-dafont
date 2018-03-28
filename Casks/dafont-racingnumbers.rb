@@ -5,7 +5,6 @@ cask 'dafont-racingnumbers' do
     url 'http://dl.dafont.com/dl/?f=racingnumbers'
     name 'Racing Numbers'
     homepage 'http://www.dafont.com/racingnumbers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RacingNumbers.ttf'
 end

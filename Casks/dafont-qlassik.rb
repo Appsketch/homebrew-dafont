@@ -5,7 +5,6 @@ cask 'dafont-qlassik' do
     url 'http://dl.dafont.com/dl/?f=qlassik'
     name 'Qlassik'
     homepage 'http://www.dafont.com/qlassik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Qlassik_TB.otf'
     font 'Qlassik_TB.ttf'

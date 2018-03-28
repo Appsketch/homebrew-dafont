@@ -5,7 +5,6 @@ cask 'dafont-starwonder' do
     url 'http://dl.dafont.com/dl/?f=starwonder'
     name 'Star Wonder'
     homepage 'http://www.dafont.com/starwonder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StarWonder.ttf'
 end

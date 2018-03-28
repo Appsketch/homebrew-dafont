@@ -5,7 +5,6 @@ cask 'dafont-graciela' do
     url 'http://dl.dafont.com/dl/?f=graciela'
     name 'Graciela'
     homepage 'http://www.dafont.com/graciela.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Graciela-Regular.otf'
 end

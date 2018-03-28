@@ -5,7 +5,6 @@ cask 'dafont-wagashi-serif' do
     url 'http://dl.dafont.com/dl/?f=wagashi_serif'
     name 'Wagashi Serif'
     homepage 'http://www.dafont.com/wagashi-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WagashiSerif_Beta1.otf'
 end

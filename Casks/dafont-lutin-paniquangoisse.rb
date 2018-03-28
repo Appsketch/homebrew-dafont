@@ -5,7 +5,6 @@ cask 'dafont-lutin-paniquangoisse' do
     url 'http://dl.dafont.com/dl/?f=lutin_paniquangoisse'
     name 'Lutin Paniquangoisse'
     homepage 'http://www.dafont.com/lutin-paniquangoisse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lutin_Paniquangoisse.ttf'
 end

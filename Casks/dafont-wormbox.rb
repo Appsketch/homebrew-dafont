@@ -5,7 +5,6 @@ cask 'dafont-wormbox' do
     url 'http://dl.dafont.com/dl/?f=wormbox'
     name 'Wormbox'
     homepage 'http://www.dafont.com/wormbox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wormbox_rounded.ttf'
     font 'wormbox_sharp.ttf'

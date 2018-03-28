@@ -5,7 +5,6 @@ cask 'dafont-kelmscott' do
     url 'http://dl.dafont.com/dl/?f=kelmscott'
     name 'Kelmscott'
     homepage 'http://www.dafont.com/kelmscott.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KELMSCOT.TTF'
 end

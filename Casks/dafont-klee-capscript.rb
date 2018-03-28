@@ -5,7 +5,6 @@ cask 'dafont-klee-capscript' do
     url 'http://dl.dafont.com/dl/?f=klee_capscript'
     name 'Klee CapScript'
     homepage 'http://www.dafont.com/klee-capscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KLEECS__.ttf'
 end

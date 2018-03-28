@@ -5,7 +5,6 @@ cask 'dafont-vespasian-caps' do
     url 'http://dl.dafont.com/dl/?f=vespasian_caps'
     name 'Vespasian Caps'
     homepage 'http://www.dafont.com/vespasian-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VespasianCaps.ttf'
 end

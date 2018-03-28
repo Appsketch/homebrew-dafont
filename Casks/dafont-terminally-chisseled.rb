@@ -5,7 +5,6 @@ cask 'dafont-terminally-chisseled' do
     url 'http://dl.dafont.com/dl/?f=terminally_chisseled'
     name 'Terminally Chisseled'
     homepage 'http://www.dafont.com/terminally-chisseled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'terminally_chisseled.ttf'
 end

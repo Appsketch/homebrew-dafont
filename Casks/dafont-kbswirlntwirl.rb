@@ -5,7 +5,6 @@ cask 'dafont-kbswirlntwirl' do
     url 'http://dl.dafont.com/dl/?f=kbswirlntwirl'
     name 'KB Swirl N Twirl'
     homepage 'http://www.dafont.com/kbswirlntwirl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBSwirlNTwirl.ttf'
 end

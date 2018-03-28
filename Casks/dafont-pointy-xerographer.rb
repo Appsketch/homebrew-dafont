@@ -5,7 +5,6 @@ cask 'dafont-pointy-xerographer' do
     url 'http://dl.dafont.com/dl/?f=pointy_xerographer'
     name 'Pointy'
     homepage 'http://www.dafont.com/pointy-xerographer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pointy solid.ttf'
     font 'pointy.ttf'

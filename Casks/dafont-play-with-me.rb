@@ -5,7 +5,6 @@ cask 'dafont-play-with-me' do
     url 'http://dl.dafont.com/dl/?f=play_with_me'
     name 'Play With Me'
     homepage 'http://www.dafont.com/play-with-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLAY WITH ME FONT.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pwfine' do
     url 'http://dl.dafont.com/dl/?f=pwfine'
     name 'PW Fine'
     homepage 'http://www.dafont.com/pwfine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWFine.ttf'
 end

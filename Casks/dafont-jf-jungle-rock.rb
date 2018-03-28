@@ -5,7 +5,6 @@ cask 'dafont-jf-jungle-rock' do
     url 'http://dl.dafont.com/dl/?f=jf_jungle_rock'
     name 'JF Jungle Rock'
     homepage 'http://www.dafont.com/jf-jungle-rock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JFJUNROC.TTF'
 end

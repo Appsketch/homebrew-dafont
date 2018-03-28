@@ -5,7 +5,6 @@ cask 'dafont-learning' do
     url 'http://dl.dafont.com/dl/?f=learning'
     name 'Learning'
     homepage 'http://www.dafont.com/learning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Learning.ttf'
 end

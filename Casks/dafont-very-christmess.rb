@@ -5,7 +5,6 @@ cask 'dafont-very-christmess' do
     url 'http://dl.dafont.com/dl/?f=very_christmess'
     name 'Very Christmess'
     homepage 'http://www.dafont.com/very-christmess.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VeryChristmess.ttf'
 end

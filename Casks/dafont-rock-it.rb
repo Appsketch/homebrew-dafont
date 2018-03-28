@@ -5,7 +5,6 @@ cask 'dafont-rock-it' do
     url 'http://dl.dafont.com/dl/?f=rock_it'
     name 'Rock it'
     homepage 'http://www.dafont.com/rock-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rockit.ttf'
 end

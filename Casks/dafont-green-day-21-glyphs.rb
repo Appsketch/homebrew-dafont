@@ -5,7 +5,6 @@ cask 'dafont-green-day-21-glyphs' do
     url 'http://dl.dafont.com/dl/?f=green_day_21_glyphs'
     name 'Green Day 21 Glyphs'
     homepage 'http://www.dafont.com/green-day-21-glyphs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '21 Glyphs.ttf'
 end

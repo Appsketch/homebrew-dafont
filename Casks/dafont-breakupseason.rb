@@ -5,7 +5,6 @@ cask 'dafont-breakupseason' do
     url 'http://dl.dafont.com/dl/?f=breakupseason'
     name 'Breakup Season'
     homepage 'http://www.dafont.com/breakupseason.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BreakupSeason.ttf'
 end

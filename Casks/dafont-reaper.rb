@@ -5,7 +5,6 @@ cask 'dafont-reaper' do
     url 'http://dl.dafont.com/dl/?f=reaper'
     name 'Reaper'
     homepage 'http://www.dafont.com/reaper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REAPER.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-handsofmumu' do
     url 'http://dl.dafont.com/dl/?f=handsofmumu'
     name 'Hands Of Mumu'
     homepage 'http://www.dafont.com/handsofmumu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HandsOfMumu.ttf'
 end

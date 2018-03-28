@@ -5,7 +5,6 @@ cask 'dafont-anak-muda' do
     url 'http://dl.dafont.com/dl/?f=anak_muda'
     name 'Anak Muda'
     homepage 'http://www.dafont.com/anak-muda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anak_Muda.ttf'
 end

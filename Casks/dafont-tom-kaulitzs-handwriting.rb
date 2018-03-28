@@ -5,7 +5,6 @@ cask 'dafont-tom-kaulitzs-handwriting' do
     url 'http://dl.dafont.com/dl/?f=tom_kaulitzs_handwriting'
     name 'Tom Kaulitz&#039;s Handwriting'
     homepage 'http://www.dafont.com/tom-kaulitzs-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tom_Kaulitz_Handwriting_Font_by_Shaiza7.ttf'
 end

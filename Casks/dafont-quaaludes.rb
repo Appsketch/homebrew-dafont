@@ -5,7 +5,6 @@ cask 'dafont-quaaludes' do
     url 'http://dl.dafont.com/dl/?f=quaaludes'
     name 'Quaaludes'
     homepage 'http://www.dafont.com/quaaludes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quaaludes-Italic.ttf'
     font 'Quaaludes-Regular.ttf'

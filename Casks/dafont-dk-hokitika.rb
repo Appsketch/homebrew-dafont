@@ -5,7 +5,6 @@ cask 'dafont-dk-hokitika' do
     url 'http://dl.dafont.com/dl/?f=dk_hokitika'
     name 'DK Hokitika'
     homepage 'http://www.dafont.com/dk-hokitika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Hokitika.otf'
 end

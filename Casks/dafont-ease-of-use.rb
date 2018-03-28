@@ -5,7 +5,6 @@ cask 'dafont-ease-of-use' do
     url 'http://dl.dafont.com/dl/?f=ease_of_use'
     name 'Ease Of Use'
     homepage 'http://www.dafont.com/ease-of-use.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EaseOfUse.ttf'
     font 'EaseOfUseOutline.ttf'

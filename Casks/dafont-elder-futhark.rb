@@ -5,7 +5,6 @@ cask 'dafont-elder-futhark' do
     url 'http://dl.dafont.com/dl/?f=elder_futhark'
     name 'Elder Futhark'
     homepage 'http://www.dafont.com/elder-futhark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RUNE.TTF'
 end

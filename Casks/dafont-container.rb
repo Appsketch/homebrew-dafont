@@ -5,7 +5,6 @@ cask 'dafont-container' do
     url 'http://dl.dafont.com/dl/?f=container'
     name 'Container'
     homepage 'http://www.dafont.com/container.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'container.ttf'
 end

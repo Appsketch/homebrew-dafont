@@ -5,7 +5,6 @@ cask 'dafont-jd-raw-script' do
     url 'http://dl.dafont.com/dl/?f=jd_raw_script'
     name 'JD Raw Script'
     homepage 'http://www.dafont.com/jd-raw-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_raw_script.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ahintofsass' do
     url 'http://dl.dafont.com/dl/?f=ahintofsass'
     name 'A Hint of Sass'
     homepage 'http://www.dafont.com/ahintofsass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AHintofSass.ttf'
 end

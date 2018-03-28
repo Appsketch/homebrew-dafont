@@ -5,7 +5,6 @@ cask 'dafont-pixxary' do
     url 'http://dl.dafont.com/dl/?f=pixxary'
     name 'PixXary'
     homepage 'http://www.dafont.com/pixxary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixxary.ttf'
 end

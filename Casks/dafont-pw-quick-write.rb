@@ -5,7 +5,6 @@ cask 'dafont-pw-quick-write' do
     url 'http://dl.dafont.com/dl/?f=pw_quick_write'
     name 'PW Quick Write'
     homepage 'http://www.dafont.com/pw-quick-write.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PW Quick Write.otf'
 end

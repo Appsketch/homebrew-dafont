@@ -5,7 +5,6 @@ cask 'dafont-in-dude-woah' do
     url 'http://dl.dafont.com/dl/?f=in_dude_woah'
     name 'In! Dude! Woah!'
     homepage 'http://www.dafont.com/in-dude-woah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IDW.ttf'
 end

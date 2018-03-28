@@ -5,7 +5,6 @@ cask 'dafont-gravity-sucks' do
     url 'http://dl.dafont.com/dl/?f=gravity_sucks'
     name 'Gravity Sucks'
     homepage 'http://www.dafont.com/gravity-sucks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GravitySucks.ttf'
 end

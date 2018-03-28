@@ -5,7 +5,6 @@ cask 'dafont-tmj' do
     url 'http://dl.dafont.com/dl/?f=tmj'
     name 'TMJ'
     homepage 'http://www.dafont.com/tmj.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TMJ.ttf'
 end

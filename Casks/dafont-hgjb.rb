@@ -5,7 +5,6 @@ cask 'dafont-hgjb' do
     url 'http://dl.dafont.com/dl/?f=hgjb'
     name 'Hgjb'
     homepage 'http://www.dafont.com/hgjb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hgjb.ttf'
 end

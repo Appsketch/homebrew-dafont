@@ -5,7 +5,6 @@ cask 'dafont-mtf-cindy' do
     url 'http://dl.dafont.com/dl/?f=mtf_cindy'
     name 'MTF Cindy'
     homepage 'http://www.dafont.com/mtf-cindy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Cindy.ttf'
 end

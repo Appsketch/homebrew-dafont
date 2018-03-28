@@ -5,7 +5,6 @@ cask 'dafont-nowharehouse' do
     url 'http://dl.dafont.com/dl/?f=nowharehouse'
     name 'Nowharehouse'
     homepage 'http://www.dafont.com/nowharehouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nowharehouse.ttf'
 end

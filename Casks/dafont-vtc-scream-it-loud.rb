@@ -5,7 +5,6 @@ cask 'dafont-vtc-scream-it-loud' do
     url 'http://dl.dafont.com/dl/?f=vtc_scream_it_loud'
     name 'VTC Scream it Loud'
     homepage 'http://www.dafont.com/vtc-scream-it-loud.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC ScreamItLoud Outline Italic.ttf'
     font 'VTC ScreamItLoud Outline Regular.ttf'

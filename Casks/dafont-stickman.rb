@@ -5,7 +5,6 @@ cask 'dafont-stickman' do
     url 'http://dl.dafont.com/dl/?f=stickman'
     name 'Stickman'
     homepage 'http://www.dafont.com/stickman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stickman.ttf'
 end

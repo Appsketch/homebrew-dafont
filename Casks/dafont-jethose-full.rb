@@ -5,7 +5,6 @@ cask 'dafont-jethose-full' do
     url 'http://dl.dafont.com/dl/?f=jethose_full'
     name 'Jethose'
     homepage 'http://www.dafont.com/jethose-full.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jethoseFULL.TTF'
     font 'jethoseLOOSE.TTF'

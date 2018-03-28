@@ -5,7 +5,6 @@ cask 'dafont-neuvo-sello' do
     url 'http://dl.dafont.com/dl/?f=neuvo_sello'
     name 'Neuvo-Sello'
     homepage 'http://www.dafont.com/neuvo-sello.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neuvo-Sello.ttf'
 end

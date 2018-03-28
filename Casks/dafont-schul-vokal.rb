@@ -5,7 +5,6 @@ cask 'dafont-schul-vokal' do
     url 'http://dl.dafont.com/dl/?f=schul_vokal'
     name 'Schul Vokal'
     homepage 'http://www.dafont.com/schul-vokal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SchulVokalDotless.ttf'
     font 'SCHUVD__.TTF'

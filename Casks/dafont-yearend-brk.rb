@@ -5,7 +5,6 @@ cask 'dafont-yearend-brk' do
     url 'http://dl.dafont.com/dl/?f=yearend_brk'
     name 'Yearend'
     homepage 'http://www.dafont.com/yearend-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yearend.ttf'
 end

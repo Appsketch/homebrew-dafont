@@ -5,7 +5,6 @@ cask 'dafont-whethers' do
     url 'http://dl.dafont.com/dl/?f=whethers'
     name 'Whethers'
     homepage 'http://www.dafont.com/whethers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WHETHERS.TTF'
 end

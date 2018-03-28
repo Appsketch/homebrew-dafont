@@ -5,7 +5,6 @@ cask 'dafont-boa' do
     url 'http://dl.dafont.com/dl/?f=boa'
     name 'Boa'
     homepage 'http://www.dafont.com/boa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'boa-&copy;_bold.ttf'
 end

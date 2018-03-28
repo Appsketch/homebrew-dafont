@@ -5,7 +5,6 @@ cask 'dafont-mf-july-sky' do
     url 'http://dl.dafont.com/dl/?f=mf_july_sky'
     name 'Mf July Sky'
     homepage 'http://www.dafont.com/mf-july-sky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf July Sky.ttf'
 end

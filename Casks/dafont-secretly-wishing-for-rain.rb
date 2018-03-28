@@ -5,7 +5,6 @@ cask 'dafont-secretly-wishing-for-rain' do
     url 'http://dl.dafont.com/dl/?f=secretly_wishing_for_rain'
     name 'Secretly wishing for rain'
     homepage 'http://www.dafont.com/secretly-wishing-for-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Secretly wishing for rain.ttf'
 end

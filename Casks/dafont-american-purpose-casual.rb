@@ -5,7 +5,6 @@ cask 'dafont-american-purpose-casual' do
     url 'http://dl.dafont.com/dl/?f=american_purpose_casual'
     name 'American Purpose Casual'
     homepage 'http://www.dafont.com/american-purpose-casual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'American Purpose Casual 01.ttf'
     font 'American Purpose Casual 02.ttf'

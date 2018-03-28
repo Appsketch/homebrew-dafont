@@ -5,7 +5,6 @@ cask 'dafont-jd-vortex' do
     url 'http://dl.dafont.com/dl/?f=jd_vortex'
     name 'JD Vortex'
     homepage 'http://www.dafont.com/jd-vortex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JD-Vortex.ttf'
 end

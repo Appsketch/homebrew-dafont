@@ -5,7 +5,6 @@ cask 'dafont-vidas-secas' do
     url 'http://dl.dafont.com/dl/?f=vidas_secas'
     name 'Vidas Secas'
     homepage 'http://www.dafont.com/vidas-secas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VIDAS_SECAS.ttf'
 end

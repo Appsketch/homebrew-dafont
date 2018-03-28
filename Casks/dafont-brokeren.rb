@@ -5,7 +5,6 @@ cask 'dafont-brokeren' do
     url 'http://dl.dafont.com/dl/?f=brokeren'
     name 'Brokeren'
     homepage 'http://www.dafont.com/brokeren.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BROKEREN MIRING.ttf'
     font 'BROKEREN.ttf'

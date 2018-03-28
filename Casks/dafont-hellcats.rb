@@ -5,7 +5,6 @@ cask 'dafont-hellcats' do
     url 'http://dl.dafont.com/dl/?f=hellcats'
     name 'Hellcats BV'
     homepage 'http://www.dafont.com/hellcats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HELLB___.TTF'
 end

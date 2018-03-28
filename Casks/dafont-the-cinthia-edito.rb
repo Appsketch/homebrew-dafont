@@ -5,7 +5,6 @@ cask 'dafont-the-cinthia-edito' do
     url 'http://dl.dafont.com/dl/?f=the_cinthia_edito'
     name 'The Cinthia Edito'
     homepage 'http://www.dafont.com/the-cinthia-edito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheCinthiaEdito.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nerko' do
     url 'http://dl.dafont.com/dl/?f=nerko'
     name 'Nerko'
     homepage 'http://www.dafont.com/nerko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NerkoOne-Regular.otf'
 end

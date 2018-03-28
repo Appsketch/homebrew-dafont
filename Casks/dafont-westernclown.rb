@@ -5,7 +5,6 @@ cask 'dafont-westernclown' do
     url 'http://dl.dafont.com/dl/?f=westernclown'
     name 'WesternClown'
     homepage 'http://www.dafont.com/westernclown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WesternClown.ttf'
 end

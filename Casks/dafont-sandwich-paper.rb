@@ -5,7 +5,6 @@ cask 'dafont-sandwich-paper' do
     url 'http://dl.dafont.com/dl/?f=sandwich_paper'
     name 'Sandwich Paper'
     homepage 'http://www.dafont.com/sandwich-paper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sandwich Paper Dark.ttf'
     font 'Sandwich Paper Light.ttf'

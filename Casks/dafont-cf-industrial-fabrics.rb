@@ -5,7 +5,6 @@ cask 'dafont-cf-industrial-fabrics' do
     url 'http://dl.dafont.com/dl/?f=cf_industrial_fabrics'
     name 'CF Industrial Fabrics'
     homepage 'http://www.dafont.com/cf-industrial-fabrics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFIndustrialFabrics-Regular.ttf'
 end

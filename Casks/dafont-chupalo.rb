@@ -5,7 +5,6 @@ cask 'dafont-chupalo' do
     url 'http://dl.dafont.com/dl/?f=chupalo'
     name 'Chupalo'
     homepage 'http://www.dafont.com/chupalo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chupalo.ttf'
 end

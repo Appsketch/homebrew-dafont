@@ -5,7 +5,6 @@ cask 'dafont-fairy-tale' do
     url 'http://dl.dafont.com/dl/?f=fairy_tale'
     name 'Fairy Tale'
     homepage 'http://www.dafont.com/fairy-tale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FairyTale-Regular.ttf'
 end

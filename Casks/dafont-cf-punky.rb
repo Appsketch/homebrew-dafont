@@ -5,7 +5,6 @@ cask 'dafont-cf-punky' do
     url 'http://dl.dafont.com/dl/?f=cf_punky'
     name 'CF Punky'
     homepage 'http://www.dafont.com/cf-punky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFPunky.ttf'
 end

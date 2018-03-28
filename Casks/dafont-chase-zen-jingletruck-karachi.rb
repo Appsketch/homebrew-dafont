@@ -5,7 +5,6 @@ cask 'dafont-chase-zen-jingletruck-karachi' do
     url 'http://dl.dafont.com/dl/?f=chase_zen_jingletruck_karachi'
     name 'Chase Zen Jingletruck Karachi'
     homepage 'http://www.dafont.com/chase-zen-jingletruck-karachi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHASEZENJINGLETRUCKKARACHI.ttf'
 end

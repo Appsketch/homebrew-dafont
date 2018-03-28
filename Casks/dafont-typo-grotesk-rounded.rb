@@ -5,7 +5,6 @@ cask 'dafont-typo-grotesk-rounded' do
     url 'http://dl.dafont.com/dl/?f=typo_grotesk_rounded'
     name 'Typo Grotesk Rounded'
     homepage 'http://www.dafont.com/typo-grotesk-rounded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typo Grotesk Rounded Demo.otf'
     font 'Typo Grotesk Rounded Italic Demo.otf'

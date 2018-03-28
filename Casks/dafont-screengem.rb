@@ -5,7 +5,6 @@ cask 'dafont-screengem' do
     url 'http://dl.dafont.com/dl/?f=screengem'
     name 'Screengem'
     homepage 'http://www.dafont.com/screengem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'screengem.ttf'
 end

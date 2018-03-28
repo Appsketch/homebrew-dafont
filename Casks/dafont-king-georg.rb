@@ -5,7 +5,6 @@ cask 'dafont-king-georg' do
     url 'http://dl.dafont.com/dl/?f=king_georg'
     name 'King Georg'
     homepage 'http://www.dafont.com/king-georg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KingGeorg-Regular.otf'
 end

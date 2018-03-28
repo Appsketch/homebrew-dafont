@@ -5,7 +5,6 @@ cask 'dafont-stucco' do
     url 'http://dl.dafont.com/dl/?f=stucco'
     name 'Stucco'
     homepage 'http://www.dafont.com/stucco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stucco-Regular.ttf'
 end

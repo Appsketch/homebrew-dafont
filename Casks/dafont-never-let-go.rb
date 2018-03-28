@@ -5,7 +5,6 @@ cask 'dafont-never-let-go' do
     url 'http://dl.dafont.com/dl/?f=never_let_go'
     name 'Never Let Go'
     homepage 'http://www.dafont.com/never-let-go.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeverLetGo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-linux-libertine' do
     url 'http://dl.dafont.com/dl/?f=linux_libertine'
     name 'Linux Libertine'
     homepage 'http://www.dafont.com/linux-libertine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LinLibertine_aBL.ttf'
     font 'LinLibertine_aBS.ttf'

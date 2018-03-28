@@ -5,7 +5,6 @@ cask 'dafont-portal' do
     url 'http://dl.dafont.com/dl/?f=portal'
     name 'Portal'
     homepage 'http://www.dafont.com/portal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Portal.ttf'
 end

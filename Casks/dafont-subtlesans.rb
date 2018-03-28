@@ -5,7 +5,6 @@ cask 'dafont-subtlesans' do
     url 'http://dl.dafont.com/dl/?f=subtlesans'
     name 'Subtle Sans'
     homepage 'http://www.dafont.com/subtlesans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SubtleSansLight.ttf'
     font 'SubtleSansRegular.ttf'

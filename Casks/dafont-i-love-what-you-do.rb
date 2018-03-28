@@ -5,7 +5,6 @@ cask 'dafont-i-love-what-you-do' do
     url 'http://dl.dafont.com/dl/?f=i_love_what_you_do'
     name 'I Love What You Do!!..'
     homepage 'http://www.dafont.com/i-love-what-you-do.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I Love What You Do!!...ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-third-party' do
     url 'http://dl.dafont.com/dl/?f=third_party'
     name 'Third Party'
     homepage 'http://www.dafont.com/third-party.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THIRDPAR.TTF'
 end

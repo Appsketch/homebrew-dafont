@@ -5,7 +5,6 @@ cask 'dafont-from-the-woods' do
     url 'http://dl.dafont.com/dl/?f=from_the_woods'
     name 'From the Woods'
     homepage 'http://www.dafont.com/from-the-woods.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'From the Woods.otf'
 end

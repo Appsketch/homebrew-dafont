@@ -5,7 +5,6 @@ cask 'dafont-panthony' do
     url 'http://dl.dafont.com/dl/?f=panthony'
     name 'Panthony'
     homepage 'http://www.dafont.com/panthony.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Panthony.ttf'
 end

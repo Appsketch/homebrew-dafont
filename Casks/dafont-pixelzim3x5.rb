@@ -5,7 +5,6 @@ cask 'dafont-pixelzim3x5' do
     url 'http://dl.dafont.com/dl/?f=pixelzim3x5'
     name 'Pixelzim 3x5'
     homepage 'http://www.dafont.com/pixelzim3x5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pzim3x5.ttf'
     font 'pzim3x5b.ttf'

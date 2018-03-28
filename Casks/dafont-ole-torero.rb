@@ -5,7 +5,6 @@ cask 'dafont-ole-torero' do
     url 'http://dl.dafont.com/dl/?f=ole_torero'
     name 'Ol&eacute; Torero'
     homepage 'http://www.dafont.com/ole-torero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ol Torero.ttf'
 end

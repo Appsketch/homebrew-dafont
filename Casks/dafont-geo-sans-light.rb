@@ -5,7 +5,6 @@ cask 'dafont-geo-sans-light' do
     url 'http://dl.dafont.com/dl/?f=geo_sans_light'
     name 'Geo Sans Light'
     homepage 'http://www.dafont.com/geo-sans-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GeosansLight-Oblique.ttf'
     font 'GeosansLight.ttf'

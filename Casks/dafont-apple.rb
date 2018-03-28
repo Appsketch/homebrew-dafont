@@ -5,7 +5,6 @@ cask 'dafont-apple' do
     url 'http://dl.dafont.com/dl/?f=apple'
     name 'Apple ]['
     homepage 'http://www.dafont.com/apple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Apple ][.ttf'
 end

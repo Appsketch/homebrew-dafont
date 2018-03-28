@@ -5,7 +5,6 @@ cask 'dafont-mousewritten' do
     url 'http://dl.dafont.com/dl/?f=mousewritten'
     name 'Mouse Written'
     homepage 'http://www.dafont.com/mousewritten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MouseWritten.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-iglook' do
     url 'http://dl.dafont.com/dl/?f=iglook'
     name 'Iglook'
     homepage 'http://www.dafont.com/iglook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iglook.ttf'
 end

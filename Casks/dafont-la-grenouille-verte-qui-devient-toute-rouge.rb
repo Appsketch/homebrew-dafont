@@ -5,7 +5,6 @@ cask 'dafont-la-grenouille-verte-qui-devient-toute-rouge' do
     url 'http://dl.dafont.com/dl/?f=la_grenouille_verte_qui_devient_toute_rouge'
     name 'La Grenouille Verte qui devient toute Rouge...'
     homepage 'http://www.dafont.com/la-grenouille-verte-qui-devient-toute-rouge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'la Grenouille verte Qui devient toute Rouge.ttf'
 end

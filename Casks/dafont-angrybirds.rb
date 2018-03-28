@@ -5,7 +5,6 @@ cask 'dafont-angrybirds' do
     url 'http://dl.dafont.com/dl/?f=angrybirds'
     name 'Angry Birds'
     homepage 'http://www.dafont.com/angrybirds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'angrybirds-regular.ttf'
 end

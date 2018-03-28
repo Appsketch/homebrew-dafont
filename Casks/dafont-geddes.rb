@@ -5,7 +5,6 @@ cask 'dafont-geddes' do
     url 'http://dl.dafont.com/dl/?f=geddes'
     name 'Geddes'
     homepage 'http://www.dafont.com/geddes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Geddes Bold Italic.otf'
     font 'Geddes Bold.otf'

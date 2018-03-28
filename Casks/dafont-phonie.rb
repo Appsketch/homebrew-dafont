@@ -5,7 +5,6 @@ cask 'dafont-phonie' do
     url 'http://dl.dafont.com/dl/?f=phonie'
     name 'Phonie'
     homepage 'http://www.dafont.com/phonie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PHONIE__.TTF'
 end

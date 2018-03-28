@@ -5,7 +5,6 @@ cask 'dafont-acme-secret-agent' do
     url 'http://dl.dafont.com/dl/?f=acme_secret_agent'
     name 'ACME Secret Agent'
     homepage 'http://www.dafont.com/acme-secret-agent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'acmesa.TTF'
     font 'acmesab.TTF'

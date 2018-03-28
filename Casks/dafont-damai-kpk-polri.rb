@@ -5,7 +5,6 @@ cask 'dafont-damai-kpk-polri' do
     url 'http://dl.dafont.com/dl/?f=damai_kpk_polri'
     name 'Damai Kpk Polri'
     homepage 'http://www.dafont.com/damai-kpk-polri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Polri Kpk Berdamailah.ttf'
 end

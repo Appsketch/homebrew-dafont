@@ -5,7 +5,6 @@ cask 'dafont-pwcartoonmarker' do
     url 'http://dl.dafont.com/dl/?f=pwcartoonmarker'
     name 'PW Cartoon Marker'
     homepage 'http://www.dafont.com/pwcartoonmarker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWCartoonMarker.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-injancromvela' do
     url 'http://dl.dafont.com/dl/?f=injancromvela'
     name 'Injancromvela'
     homepage 'http://www.dafont.com/injancromvela.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Injancromvela150.ttf'
     font 'Injancromvela222.ttf'

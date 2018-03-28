@@ -5,7 +5,6 @@ cask 'dafont-jmb' do
     url 'http://dl.dafont.com/dl/?f=jmb'
     name 'JMB'
     homepage 'http://www.dafont.com/jmb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JMB.ttf'
 end

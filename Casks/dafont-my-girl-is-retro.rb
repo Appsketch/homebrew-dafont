@@ -5,7 +5,6 @@ cask 'dafont-my-girl-is-retro' do
     url 'http://dl.dafont.com/dl/?f=my_girl_is_retro'
     name 'My Girl Is Retro'
     homepage 'http://www.dafont.com/my-girl-is-retro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MyGirlIsRetroDEMO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gile-lu-ndro' do
     url 'http://dl.dafont.com/dl/?f=gile_lu_ndro'
     name 'Gile lu Ndro'
     homepage 'http://www.dafont.com/gile-lu-ndro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gile_lu_ndro.ttf'
 end

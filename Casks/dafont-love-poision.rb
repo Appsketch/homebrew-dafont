@@ -5,7 +5,6 @@ cask 'dafont-love-poision' do
     url 'http://dl.dafont.com/dl/?f=love_poision'
     name 'Love Poision'
     homepage 'http://www.dafont.com/love-poision.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LovePoision.ttf'
 end

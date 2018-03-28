@@ -5,7 +5,6 @@ cask 'dafont-built-titling' do
     url 'http://dl.dafont.com/dl/?f=built_titling'
     name 'Built Titling'
     homepage 'http://www.dafont.com/built-titling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'built titling bd it.ttf'
     font 'built titling bd.ttf'

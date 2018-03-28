@@ -5,7 +5,6 @@ cask 'dafont-aloha' do
     url 'http://dl.dafont.com/dl/?f=aloha'
     name 'Aloha'
     homepage 'http://www.dafont.com/aloha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aloha.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-scrapoholic' do
     url 'http://dl.dafont.com/dl/?f=scrapoholic'
     name 'ScrapOHolic'
     homepage 'http://www.dafont.com/scrapoholic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scrap-o-holic.ttf'
 end

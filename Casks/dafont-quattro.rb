@@ -5,7 +5,6 @@ cask 'dafont-quattro' do
     url 'http://dl.dafont.com/dl/?f=quattro'
     name 'Quattro'
     homepage 'http://www.dafont.com/quattro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quattro Light Italic.ttf'
     font 'Quattro Light.ttf'

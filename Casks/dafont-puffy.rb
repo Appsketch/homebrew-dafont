@@ -5,7 +5,6 @@ cask 'dafont-puffy' do
     url 'http://dl.dafont.com/dl/?f=puffy'
     name 'Puffy'
     homepage 'http://www.dafont.com/puffy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'puffy.ttf'
 end

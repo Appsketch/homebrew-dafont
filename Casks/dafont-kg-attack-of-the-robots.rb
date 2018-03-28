@@ -5,7 +5,6 @@ cask 'dafont-kg-attack-of-the-robots' do
     url 'http://dl.dafont.com/dl/?f=kg_attack_of_the_robots'
     name 'KG Attack of the Robots'
     homepage 'http://www.dafont.com/kg-attack-of-the-robots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGAttackoftheRobots.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-calamity-joe' do
     url 'http://dl.dafont.com/dl/?f=calamity_joe'
     name 'Calamity Joe'
     homepage 'http://www.dafont.com/calamity-joe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CALJOETRIAL.ttf'
 end

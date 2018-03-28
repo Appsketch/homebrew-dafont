@@ -5,7 +5,6 @@ cask 'dafont-ocie' do
     url 'http://dl.dafont.com/dl/?f=ocie'
     name 'Ocie'
     homepage 'http://www.dafont.com/ocie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ocie-Bold.otf'
     font 'Ocie-BoldItalic.otf'

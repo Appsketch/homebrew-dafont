@@ -5,7 +5,6 @@ cask 'dafont-ordinatum' do
     url 'http://dl.dafont.com/dl/?f=ordinatum'
     name 'Ordinatum'
     homepage 'http://www.dafont.com/ordinatum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ordinatum_Bold.ttf'
     font 'Ordinatum_Light.ttf'

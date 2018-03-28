@@ -5,7 +5,6 @@ cask 'dafont-valium-apostrophe' do
     url 'http://dl.dafont.com/dl/?f=valium_apostrophe'
     name 'Valium'
     homepage 'http://www.dafont.com/valium-apostrophe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Valium__.ttf'
 end

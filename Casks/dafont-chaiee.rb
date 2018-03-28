@@ -5,7 +5,6 @@ cask 'dafont-chaiee' do
     url 'http://dl.dafont.com/dl/?f=chaiee'
     name 'Chaiee'
     homepage 'http://www.dafont.com/chaiee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHAIRG__.TTF'
     font 'CHAIT___.TTF'

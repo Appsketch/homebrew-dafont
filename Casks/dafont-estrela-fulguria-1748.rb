@@ -5,7 +5,6 @@ cask 'dafont-estrela-fulguria-1748' do
     url 'http://dl.dafont.com/dl/?f=estrela_fulguria_1748'
     name 'Estrela Fulguria 1748'
     homepage 'http://www.dafont.com/estrela-fulguria-1748.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Estrela Fulguria 1748.ttf'
 end

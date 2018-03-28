@@ -5,7 +5,6 @@ cask 'dafont-puente-nuevo-st' do
     url 'http://dl.dafont.com/dl/?f=puente_nuevo_st'
     name 'Puente Nuevo St'
     homepage 'http://www.dafont.com/puente-nuevo-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Puente Nuevo St.ttf'
 end

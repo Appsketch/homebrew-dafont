@@ -5,7 +5,6 @@ cask 'dafont-modraniht-runic' do
     url 'http://dl.dafont.com/dl/?f=modraniht_runic'
     name 'Modraniht Runic'
     homepage 'http://www.dafont.com/modraniht-runic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ModranihtRunic.ttf'
 end

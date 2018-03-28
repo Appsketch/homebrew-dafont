@@ -5,7 +5,6 @@ cask 'dafont-rastenburg-unz1ay' do
     url 'http://dl.dafont.com/dl/?f=rastenburg_unz1ay'
     name 'Rastenburg UNZ1AY'
     homepage 'http://www.dafont.com/rastenburg-unz1ay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rastenburg Band  U1SY.ttf'
     font 'Rastenburg Bold schraeg U1SY.ttf'

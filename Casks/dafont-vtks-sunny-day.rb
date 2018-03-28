@@ -5,7 +5,6 @@ cask 'dafont-vtks-sunny-day' do
     url 'http://dl.dafont.com/dl/?f=vtks_sunny_day'
     name 'Vtks Sunny Day'
     homepage 'http://www.dafont.com/vtks-sunny-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Sunny Day.ttf'
 end

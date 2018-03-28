@@ -5,7 +5,6 @@ cask 'dafont-tt-cottons' do
     url 'http://dl.dafont.com/dl/?f=tt_cottons'
     name 'TT Cottons'
     homepage 'http://www.dafont.com/tt-cottons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cottons Light DEMO.otf'
 end

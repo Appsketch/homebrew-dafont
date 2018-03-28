@@ -5,7 +5,6 @@ cask 'dafont-sorieno' do
     url 'http://dl.dafont.com/dl/?f=sorieno'
     name 'S&#039;orieno'
     homepage 'http://www.dafont.com/sorieno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'S_&#039;orieno.ttf'
 end

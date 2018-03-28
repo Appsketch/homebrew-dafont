@@ -5,7 +5,6 @@ cask 'dafont-zehks-handwriting' do
     url 'http://dl.dafont.com/dl/?f=zehks_handwriting'
     name 'Zehk&#039;s Handwriting'
     homepage 'http://www.dafont.com/zehks-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zehks_Handwriting.ttf'
 end

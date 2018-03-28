@@ -5,7 +5,6 @@ cask 'dafont-kremlin-grand-duke' do
     url 'http://dl.dafont.com/dl/?f=kremlin_grand_duke'
     name 'Kremlin Grand Duke'
     homepage 'http://www.dafont.com/kremlin-grand-duke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Grand Duke.ttf'
 end

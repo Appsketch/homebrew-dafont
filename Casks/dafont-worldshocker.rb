@@ -5,7 +5,6 @@ cask 'dafont-worldshocker' do
     url 'http://dl.dafont.com/dl/?f=worldshocker'
     name 'World Shocker'
     homepage 'http://www.dafont.com/worldshocker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WorldShocker.ttf'
 end

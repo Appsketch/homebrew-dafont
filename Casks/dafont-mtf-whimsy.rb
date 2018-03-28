@@ -5,7 +5,6 @@ cask 'dafont-mtf-whimsy' do
     url 'http://dl.dafont.com/dl/?f=mtf_whimsy'
     name 'MTF Whimsy'
     homepage 'http://www.dafont.com/mtf-whimsy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Whimsy.ttf'
 end

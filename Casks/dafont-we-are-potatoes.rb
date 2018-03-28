@@ -5,7 +5,6 @@ cask 'dafont-we-are-potatoes' do
     url 'http://dl.dafont.com/dl/?f=we_are_potatoes'
     name 'We are potatoes'
     homepage 'http://www.dafont.com/we-are-potatoes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wearepotatoes.ttf'
 end

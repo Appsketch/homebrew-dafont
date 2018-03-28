@@ -5,7 +5,6 @@ cask 'dafont-us-army-ii' do
     url 'http://dl.dafont.com/dl/?f=us_army_ii'
     name 'US Army II'
     homepage 'http://www.dafont.com/us-army-ii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'usarmy2nd.ttf'
 end

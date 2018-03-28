@@ -5,7 +5,6 @@ cask 'dafont-idroid' do
     url 'http://dl.dafont.com/dl/?f=idroid'
     name 'IDroid'
     homepage 'http://www.dafont.com/idroid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IDroid Bold Italic.otf'
     font 'IDroid Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-dk-poison-ivy' do
     url 'http://dl.dafont.com/dl/?f=dk_poison_ivy'
     name 'DK Poison Ivy'
     homepage 'http://www.dafont.com/dk-poison-ivy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Poison Ivy.otf'
 end

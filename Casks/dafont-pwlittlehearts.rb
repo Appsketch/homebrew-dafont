@@ -5,7 +5,6 @@ cask 'dafont-pwlittlehearts' do
     url 'http://dl.dafont.com/dl/?f=pwlittlehearts'
     name 'PW Little Hearts'
     homepage 'http://www.dafont.com/pwlittlehearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWLittleHearts.ttf'
 end

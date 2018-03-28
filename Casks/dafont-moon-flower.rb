@@ -5,7 +5,6 @@ cask 'dafont-moon-flower' do
     url 'http://dl.dafont.com/dl/?f=moon_flower'
     name 'Moon Flower'
     homepage 'http://www.dafont.com/moon-flower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moon Flower Bold.ttf'
     font 'Moon Flower.ttf'

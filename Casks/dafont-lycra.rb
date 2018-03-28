@@ -5,7 +5,6 @@ cask 'dafont-lycra' do
     url 'http://dl.dafont.com/dl/?f=lycra'
     name 'Lycra'
     homepage 'http://www.dafont.com/lycra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lycra.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-static-age-fine-tun' do
     url 'http://dl.dafont.com/dl/?f=static_age_fine_tun'
     name 'Static Age Fine Tuning'
     homepage 'http://www.dafont.com/static-age-fine-tun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stat_ft.ttf'
 end

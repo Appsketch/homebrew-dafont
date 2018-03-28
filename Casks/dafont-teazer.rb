@@ -5,7 +5,6 @@ cask 'dafont-teazer' do
     url 'http://dl.dafont.com/dl/?f=teazer'
     name 'Teazer'
     homepage 'http://www.dafont.com/teazer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'teazer.ttf'
 end

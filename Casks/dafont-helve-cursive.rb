@@ -5,7 +5,6 @@ cask 'dafont-helve-cursive' do
     url 'http://dl.dafont.com/dl/?f=helve_cursive'
     name 'Helve Cursive'
     homepage 'http://www.dafont.com/helve-cursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Helve Cursive.ttf'
 end

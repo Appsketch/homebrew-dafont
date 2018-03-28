@@ -5,7 +5,6 @@ cask 'dafont-self-righteousness' do
     url 'http://dl.dafont.com/dl/?f=self_righteousness'
     name 'Self Righteousness'
     homepage 'http://www.dafont.com/self-righteousness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SelfRighteousness-Regular.ttf'
 end

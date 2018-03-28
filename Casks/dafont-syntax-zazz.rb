@@ -5,7 +5,6 @@ cask 'dafont-syntax-zazz' do
     url 'http://dl.dafont.com/dl/?f=syntax_zazz'
     name 'Syntax Zazz'
     homepage 'http://www.dafont.com/syntax-zazz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Syntax-Zazz.ttf'
 end

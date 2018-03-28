@@ -5,7 +5,6 @@ cask 'dafont-sf-quartzite' do
     url 'http://dl.dafont.com/dl/?f=sf_quartzite'
     name 'SF Quartzite'
     homepage 'http://www.dafont.com/sf-quartzite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Quartzite Bold Oblique.ttf'
     font 'SF Quartzite Bold.ttf'

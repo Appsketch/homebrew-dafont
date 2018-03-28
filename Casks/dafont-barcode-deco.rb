@@ -5,7 +5,6 @@ cask 'dafont-barcode-deco' do
     url 'http://dl.dafont.com/dl/?f=barcode_deco'
     name 'Barcode Deco!'
     homepage 'http://www.dafont.com/barcode-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BarcodeDeco!-Regular.ttf'
 end

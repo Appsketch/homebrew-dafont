@@ -5,7 +5,6 @@ cask 'dafont-strong-line-7' do
     url 'http://dl.dafont.com/dl/?f=strong_line_7'
     name 'Strong Line 7'
     homepage 'http://www.dafont.com/strong-line-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'strong_line_7.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-annmarker' do
     url 'http://dl.dafont.com/dl/?f=annmarker'
     name 'Ann Marker'
     homepage 'http://www.dafont.com/annmarker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ann Marker.ttf'
 end

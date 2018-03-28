@@ -5,7 +5,6 @@ cask 'dafont-djb-its-my-birthday' do
     url 'http://dl.dafont.com/dl/?f=djb_its_my_birthday'
     name 'DJB It&#039;s My Birthday'
     homepage 'http://www.dafont.com/djb-its-my-birthday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB It&#039;s My Birthday.otf'
 end

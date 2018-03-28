@@ -5,7 +5,6 @@ cask 'dafont-an-apple-a-day-fruit-font' do
     url 'http://dl.dafont.com/dl/?f=an_apple_a_day_fruit_font'
     name 'An Apple A Day Fruit Font'
     homepage 'http://www.dafont.com/an-apple-a-day-fruit-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'An Apple A Day Fruit Font.ttf'
 end

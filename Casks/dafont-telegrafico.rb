@@ -5,7 +5,6 @@ cask 'dafont-telegrafico' do
     url 'http://dl.dafont.com/dl/?f=telegrafico'
     name 'Telegrafico'
     homepage 'http://www.dafont.com/telegrafico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'telegrafico.ttf'
 end

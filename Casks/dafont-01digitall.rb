@@ -5,7 +5,6 @@ cask 'dafont-01digitall' do
     url 'http://dl.dafont.com/dl/?f=01digitall'
     name '01 Digitall'
     homepage 'http://www.dafont.com/01digitall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '01 Digitall.ttf'
 end

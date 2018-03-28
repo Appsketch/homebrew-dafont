@@ -5,7 +5,6 @@ cask 'dafont-quinquennialhk' do
     url 'http://dl.dafont.com/dl/?f=quinquennialhk'
     name 'Quinquennial HK'
     homepage 'http://www.dafont.com/quinquennialhk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quinquennial HK.ttf'
 end

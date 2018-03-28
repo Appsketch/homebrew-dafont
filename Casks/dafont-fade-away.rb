@@ -5,7 +5,6 @@ cask 'dafont-fade-away' do
     url 'http://dl.dafont.com/dl/?f=fade_away'
     name 'Fade Away'
     homepage 'http://www.dafont.com/fade-away.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fade_away.ttf'
 end

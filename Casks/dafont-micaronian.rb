@@ -5,7 +5,6 @@ cask 'dafont-micaronian' do
     url 'http://dl.dafont.com/dl/?f=micaronian'
     name 'Micaronian'
     homepage 'http://www.dafont.com/micaronian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Micaronian.ttf'
 end

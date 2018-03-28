@@ -5,7 +5,6 @@ cask 'dafont-nipponlatin' do
     url 'http://dl.dafont.com/dl/?f=nipponlatin'
     name 'Nippon Latin'
     homepage 'http://www.dafont.com/nipponlatin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NipponLatin-Bold.ttf'
 end

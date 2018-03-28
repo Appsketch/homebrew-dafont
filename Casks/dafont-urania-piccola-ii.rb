@@ -5,7 +5,6 @@ cask 'dafont-urania-piccola-ii' do
     url 'http://dl.dafont.com/dl/?f=urania_piccola_ii'
     name 'Urania Piccola II'
     homepage 'http://www.dafont.com/urania-piccola-ii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Urania_Piccola_1933.ttf'
 end

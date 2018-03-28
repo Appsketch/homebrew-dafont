@@ -5,7 +5,6 @@ cask 'dafont-sarcophagus2' do
     url 'http://dl.dafont.com/dl/?f=sarcophagus2'
     name 'Sarcophagus 2'
     homepage 'http://www.dafont.com/sarcophagus2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sarcophagus2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-babys-breath-easter' do
     url 'http://dl.dafont.com/dl/?f=babys_breath_easter'
     name 'Baby&#039;s Breath Easter'
     homepage 'http://www.dafont.com/babys-breath-easter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BabysBreathEaster.ttf'
 end

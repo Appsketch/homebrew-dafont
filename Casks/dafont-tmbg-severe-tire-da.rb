@@ -5,7 +5,6 @@ cask 'dafont-tmbg-severe-tire-da' do
     url 'http://dl.dafont.com/dl/?f=tmbg_severe_tire_da'
     name 'TMBG Severe Tire Damage'
     homepage 'http://www.dafont.com/tmbg-severe-tire-da.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TMBGSTD_.TTF'
 end

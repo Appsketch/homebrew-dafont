@@ -5,7 +5,6 @@ cask 'dafont-amiga-forever' do
     url 'http://dl.dafont.com/dl/?f=amiga_forever'
     name 'Amiga Forever'
     homepage 'http://www.dafont.com/amiga-forever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'amiga4ever pro.ttf'
     font 'amiga4ever pro2.ttf'

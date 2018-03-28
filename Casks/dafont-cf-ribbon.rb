@@ -5,7 +5,6 @@ cask 'dafont-cf-ribbon' do
     url 'http://dl.dafont.com/dl/?f=cf_ribbon'
     name 'CF Ribbon'
     homepage 'http://www.dafont.com/cf-ribbon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFRibbon-Regular.ttf'
 end

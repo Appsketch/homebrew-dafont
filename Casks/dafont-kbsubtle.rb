@@ -5,7 +5,6 @@ cask 'dafont-kbsubtle' do
     url 'http://dl.dafont.com/dl/?f=kbsubtle'
     name 'KB Subtle'
     homepage 'http://www.dafont.com/kbsubtle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBSubtle.ttf'
 end

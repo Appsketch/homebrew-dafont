@@ -5,7 +5,6 @@ cask 'dafont-fascination' do
     url 'http://dl.dafont.com/dl/?f=fascination'
     name 'Fascination'
     homepage 'http://www.dafont.com/fascination.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fascination.ttf'
 end

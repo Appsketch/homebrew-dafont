@@ -5,7 +5,6 @@ cask 'dafont-rabbitmoon' do
     url 'http://dl.dafont.com/dl/?f=rabbitmoon'
     name 'Rabbit Moon'
     homepage 'http://www.dafont.com/rabbitmoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rabbitmoon.ttf'
 end

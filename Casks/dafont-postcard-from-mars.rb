@@ -5,7 +5,6 @@ cask 'dafont-postcard-from-mars' do
     url 'http://dl.dafont.com/dl/?f=postcard_from_mars'
     name 'Postcard From Mars'
     homepage 'http://www.dafont.com/postcard-from-mars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Postcard From Mars.ttf'
 end

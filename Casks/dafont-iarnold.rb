@@ -5,7 +5,6 @@ cask 'dafont-iarnold' do
     url 'http://dl.dafont.com/dl/?f=iarnold'
     name 'iArnold'
     homepage 'http://www.dafont.com/iarnold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iArnold_font.ttf'
 end

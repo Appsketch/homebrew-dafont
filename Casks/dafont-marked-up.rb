@@ -5,7 +5,6 @@ cask 'dafont-marked-up' do
     url 'http://dl.dafont.com/dl/?f=marked_up'
     name 'Marked Up'
     homepage 'http://www.dafont.com/marked-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MarkupSW.ttf'
 end

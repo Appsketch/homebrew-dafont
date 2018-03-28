@@ -5,7 +5,6 @@ cask 'dafont-djb-up-on-the-scoreboard' do
     url 'http://dl.dafont.com/dl/?f=djb_up_on_the_scoreboard'
     name 'DJB Up on the Scoreboard'
     homepage 'http://www.dafont.com/djb-up-on-the-scoreboard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Up on the Scoreboard.ttf'
 end

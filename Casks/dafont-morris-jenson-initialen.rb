@@ -5,7 +5,6 @@ cask 'dafont-morris-jenson-initialen' do
     url 'http://dl.dafont.com/dl/?f=morris_jenson_initialen'
     name 'Morris Jenson Initialen'
     homepage 'http://www.dafont.com/morris-jenson-initialen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Morris Jenson Initialen.ttf'
 end

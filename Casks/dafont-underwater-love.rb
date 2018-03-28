@@ -5,7 +5,6 @@ cask 'dafont-underwater-love' do
     url 'http://dl.dafont.com/dl/?f=underwater_love'
     name 'Underwater Love'
     homepage 'http://www.dafont.com/underwater-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ulove.TTF'
 end

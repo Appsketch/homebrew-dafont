@@ -5,7 +5,6 @@ cask 'dafont-heroes' do
     url 'http://dl.dafont.com/dl/?f=heroes'
     name 'Heroes'
     homepage 'http://www.dafont.com/heroes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HEROES.ttf'
 end

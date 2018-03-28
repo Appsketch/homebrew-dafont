@@ -5,7 +5,6 @@ cask 'dafont-hyperpunchpink' do
     url 'http://dl.dafont.com/dl/?f=hyperpunchpink'
     name 'Hyper Punch Pink'
     homepage 'http://www.dafont.com/hyperpunchpink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HyperPunchPink.ttf'
 end

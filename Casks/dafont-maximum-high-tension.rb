@@ -5,7 +5,6 @@ cask 'dafont-maximum-high-tension' do
     url 'http://dl.dafont.com/dl/?f=maximum_high_tension'
     name 'Maximum High Tension'
     homepage 'http://www.dafont.com/maximum-high-tension.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'maximum high tension.ttf'
 end

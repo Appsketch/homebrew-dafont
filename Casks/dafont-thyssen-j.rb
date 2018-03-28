@@ -5,7 +5,6 @@ cask 'dafont-thyssen-j' do
     url 'http://dl.dafont.com/dl/?f=thyssen_j'
     name 'Thyssen J'
     homepage 'http://www.dafont.com/thyssen-j.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '9THYSSEI.TTF'
     font '9THYSSEN.TTF'

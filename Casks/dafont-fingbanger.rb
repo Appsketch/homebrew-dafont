@@ -5,7 +5,6 @@ cask 'dafont-fingbanger' do
     url 'http://dl.dafont.com/dl/?f=fingbanger'
     name 'Fingbanger'
     homepage 'http://www.dafont.com/fingbanger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fingbanger.otf'
 end

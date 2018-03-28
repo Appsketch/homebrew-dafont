@@ -5,7 +5,6 @@ cask 'dafont-inheritance' do
     url 'http://dl.dafont.com/dl/?f=inheritance'
     name 'Inheritance'
     homepage 'http://www.dafont.com/inheritance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inheritance.ttf'
 end

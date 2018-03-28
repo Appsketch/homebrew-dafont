@@ -5,7 +5,6 @@ cask 'dafont-royal-serif' do
     url 'http://dl.dafont.com/dl/?f=royal_serif'
     name 'Royal Serif'
     homepage 'http://www.dafont.com/royal-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'royal-serif.ttf'
 end

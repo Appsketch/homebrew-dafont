@@ -5,7 +5,6 @@ cask 'dafont-instant-message-freak' do
     url 'http://dl.dafont.com/dl/?f=instant_message_freak'
     name 'Instant Message Freak'
     homepage 'http://www.dafont.com/instant-message-freak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IM_FrEaK.ttf'
 end

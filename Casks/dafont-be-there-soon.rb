@@ -5,7 +5,6 @@ cask 'dafont-be-there-soon' do
     url 'http://dl.dafont.com/dl/?f=be_there_soon'
     name 'Be There Soon'
     homepage 'http://www.dafont.com/be-there-soon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Be There Soon.ttf'
 end

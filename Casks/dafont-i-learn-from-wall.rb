@@ -5,7 +5,6 @@ cask 'dafont-i-learn-from-wall' do
     url 'http://dl.dafont.com/dl/?f=i_learn_from_wall'
     name 'I Learn From Wall'
     homepage 'http://www.dafont.com/i-learn-from-wall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ILearnFromWall.otf'
 end

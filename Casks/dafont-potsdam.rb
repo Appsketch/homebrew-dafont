@@ -5,7 +5,6 @@ cask 'dafont-potsdam' do
     url 'http://dl.dafont.com/dl/?f=potsdam'
     name 'Potsdam'
     homepage 'http://www.dafont.com/potsdam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Potsdam.ttf'
 end

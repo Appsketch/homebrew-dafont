@@ -5,7 +5,6 @@ cask 'dafont-temblores' do
     url 'http://dl.dafont.com/dl/?f=temblores'
     name 'Temblores'
     homepage 'http://www.dafont.com/temblores.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TEMBLORES.ttf'
 end

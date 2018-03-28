@@ -5,7 +5,6 @@ cask 'dafont-cobb-shinn-christma' do
     url 'http://dl.dafont.com/dl/?f=cobb_shinn_christma'
     name 'Cobb Shinn Christmas Cuts'
     homepage 'http://www.dafont.com/cobb-shinn-christma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CSHNXMAS.TTF'
 end

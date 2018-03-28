@@ -5,7 +5,6 @@ cask 'dafont-crappypeanuts' do
     url 'http://dl.dafont.com/dl/?f=crappypeanuts'
     name 'Crappy Peanuts'
     homepage 'http://www.dafont.com/crappypeanuts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrappyPeanuts.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mainpar' do
     url 'http://dl.dafont.com/dl/?f=mainpar'
     name 'Mainpar'
     homepage 'http://www.dafont.com/mainpar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mainpar.ttf'
 end

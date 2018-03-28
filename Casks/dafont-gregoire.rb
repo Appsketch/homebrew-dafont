@@ -5,7 +5,6 @@ cask 'dafont-gregoire' do
     url 'http://dl.dafont.com/dl/?f=gregoire'
     name 'Gregoire'
     homepage 'http://www.dafont.com/gregoire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GREGRG__.TTF'
 end

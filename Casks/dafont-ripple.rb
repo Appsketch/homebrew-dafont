@@ -5,7 +5,6 @@ cask 'dafont-ripple' do
     url 'http://dl.dafont.com/dl/?f=ripple'
     name 'Ripple'
     homepage 'http://www.dafont.com/ripple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ripple_0.ttf'
 end

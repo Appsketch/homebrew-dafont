@@ -5,7 +5,6 @@ cask 'dafont-vtks-dirty-letters' do
     url 'http://dl.dafont.com/dl/?f=vtks_dirty_letters'
     name 'Vtks Dirty Letters'
     homepage 'http://www.dafont.com/vtks-dirty-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks dirty letters.ttf'
 end

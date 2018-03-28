@@ -5,7 +5,6 @@ cask 'dafont-sinister-black' do
     url 'http://dl.dafont.com/dl/?f=sinister_black'
     name 'Sinister Black'
     homepage 'http://www.dafont.com/sinister-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sinister Black.ttf'
 end

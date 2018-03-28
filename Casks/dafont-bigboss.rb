@@ -5,7 +5,6 @@ cask 'dafont-bigboss' do
     url 'http://dl.dafont.com/dl/?f=bigboss'
     name 'Big Boss'
     homepage 'http://www.dafont.com/bigboss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIGBOSS.otf'
 end

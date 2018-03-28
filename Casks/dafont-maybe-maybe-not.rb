@@ -5,7 +5,6 @@ cask 'dafont-maybe-maybe-not' do
     url 'http://dl.dafont.com/dl/?f=maybe_maybe_not'
     name 'Maybe Maybe Not'
     homepage 'http://www.dafont.com/maybe-maybe-not.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maybe Maybe Not.ttf'
 end

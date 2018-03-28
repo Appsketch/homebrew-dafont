@@ -5,7 +5,6 @@ cask 'dafont-wide-awake' do
     url 'http://dl.dafont.com/dl/?f=wide_awake'
     name 'Wide Awake'
     homepage 'http://www.dafont.com/wide-awake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WIDEAWAKE.TTF'
     font 'WIDEAWAKEBLACK.ttf'

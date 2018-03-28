@@ -5,7 +5,6 @@ cask 'dafont-superpoz' do
     url 'http://dl.dafont.com/dl/?f=superpoz'
     name 'SuperpoZ'
     homepage 'http://www.dafont.com/superpoz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Superpoz.ttf'
 end

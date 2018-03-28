@@ -5,7 +5,6 @@ cask 'dafont-komika-axis' do
     url 'http://dl.dafont.com/dl/?f=komika_axis'
     name 'Komika Axis'
     homepage 'http://www.dafont.com/komika-axis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKAX_.ttf'
 end

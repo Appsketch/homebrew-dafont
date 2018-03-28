@@ -5,7 +5,6 @@ cask 'dafont-screech' do
     url 'http://dl.dafont.com/dl/?f=screech'
     name 'Screech'
     homepage 'http://www.dafont.com/screech.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'screech.ttf'
 end

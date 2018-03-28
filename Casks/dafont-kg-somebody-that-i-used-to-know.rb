@@ -5,7 +5,6 @@ cask 'dafont-kg-somebody-that-i-used-to-know' do
     url 'http://dl.dafont.com/dl/?f=kg_somebody_that_i_used_to_know'
     name 'KG Somebody That I Used to Know'
     homepage 'http://www.dafont.com/kg-somebody-that-i-used-to-know.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGSomebodyThatIUsedToKnow.ttf'
 end

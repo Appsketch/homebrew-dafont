@@ -5,7 +5,6 @@ cask 'dafont-respective' do
     url 'http://dl.dafont.com/dl/?f=respective'
     name 'Respective'
     homepage 'http://www.dafont.com/respective.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Respective_2.0_Swashes.ttf'
     font 'Respective_2.0.ttf'

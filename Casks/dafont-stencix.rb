@@ -5,7 +5,6 @@ cask 'dafont-stencix' do
     url 'http://dl.dafont.com/dl/?f=stencix'
     name 'Stencix'
     homepage 'http://www.dafont.com/stencix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stencix.ttf'
 end

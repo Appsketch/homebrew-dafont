@@ -5,7 +5,6 @@ cask 'dafont-perangko-wayang' do
     url 'http://dl.dafont.com/dl/?f=perangko_wayang'
     name 'Perangko Wayang'
     homepage 'http://www.dafont.com/perangko-wayang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Perangko Wayang.ttf'
 end

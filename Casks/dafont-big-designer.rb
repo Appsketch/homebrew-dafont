@@ -5,7 +5,6 @@ cask 'dafont-big-designer' do
     url 'http://dl.dafont.com/dl/?f=big_designer'
     name 'Big Designer'
     homepage 'http://www.dafont.com/big-designer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Big Designer.ttf'
 end

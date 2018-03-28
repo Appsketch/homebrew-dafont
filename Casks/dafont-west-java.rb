@@ -5,7 +5,6 @@ cask 'dafont-west-java' do
     url 'http://dl.dafont.com/dl/?f=west_java'
     name 'West Java'
     homepage 'http://www.dafont.com/west-java.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WEST JAVA.ttf'
 end

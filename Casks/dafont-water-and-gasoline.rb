@@ -5,7 +5,6 @@ cask 'dafont-water-and-gasoline' do
     url 'http://dl.dafont.com/dl/?f=water_and_gasoline'
     name 'Water and Gasoline'
     homepage 'http://www.dafont.com/water-and-gasoline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'water and gasoline.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-crazy-written' do
     url 'http://dl.dafont.com/dl/?f=crazy_written'
     name 'Crazy Written'
     homepage 'http://www.dafont.com/crazy-written.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrazyWritten.ttf'
 end

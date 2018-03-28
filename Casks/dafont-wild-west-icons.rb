@@ -5,7 +5,6 @@ cask 'dafont-wild-west-icons' do
     url 'http://dl.dafont.com/dl/?f=wild_west_icons'
     name 'Wild West Icons'
     homepage 'http://www.dafont.com/wild-west-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wild West Icons.ttf'
 end

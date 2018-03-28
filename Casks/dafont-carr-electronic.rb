@@ -5,7 +5,6 @@ cask 'dafont-carr-electronic' do
     url 'http://dl.dafont.com/dl/?f=carr_electronic'
     name 'Carr Electronic'
     homepage 'http://www.dafont.com/carr-electronic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CarrElectronicDingbats.ttf'
 end

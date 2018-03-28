@@ -5,7 +5,6 @@ cask 'dafont-americana' do
     url 'http://dl.dafont.com/dl/?f=americana'
     name 'Americana'
     homepage 'http://www.dafont.com/americana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Americana.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bon-viveur' do
     url 'http://dl.dafont.com/dl/?f=bon_viveur'
     name 'Bon Viveur'
     homepage 'http://www.dafont.com/bon-viveur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BONVV___.TTF'
 end

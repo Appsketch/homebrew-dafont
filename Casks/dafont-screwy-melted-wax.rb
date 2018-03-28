@@ -5,7 +5,6 @@ cask 'dafont-screwy-melted-wax' do
     url 'http://dl.dafont.com/dl/?f=screwy_melted_wax'
     name 'Screwy Melted Wax'
     homepage 'http://www.dafont.com/screwy-melted-wax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ScrewyMeltedWax.ttf'
 end

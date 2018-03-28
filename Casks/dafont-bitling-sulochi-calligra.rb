@@ -5,7 +5,6 @@ cask 'dafont-bitling-sulochi-calligra' do
     url 'http://dl.dafont.com/dl/?f=bitling_sulochi_calligra'
     name 'Bitling Sulochi Calligra'
     homepage 'http://www.dafont.com/bitling-sulochi-calligra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bitlingsulochicalligra-Ital.ttf'
     font 'Bitlingsulochicalligra-Reg.ttf'

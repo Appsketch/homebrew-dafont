@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-xmas-balls' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_xmas_balls'
     name 'AlphaShapes xmas balls'
     homepage 'http://www.dafont.com/alphashapes-xmas-balls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asxmasballs.ttf'
 end

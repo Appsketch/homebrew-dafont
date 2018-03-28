@@ -5,7 +5,6 @@ cask 'dafont-mischievous' do
     url 'http://dl.dafont.com/dl/?f=mischievous'
     name 'Mischievous'
     homepage 'http://www.dafont.com/mischievous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mischievous.ttf'
 end

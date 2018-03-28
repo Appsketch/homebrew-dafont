@@ -5,7 +5,6 @@ cask 'dafont-lassiter' do
     url 'http://dl.dafont.com/dl/?f=lassiter'
     name 'Lassiter'
     homepage 'http://www.dafont.com/lassiter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lassiter Bold Italic.otf'
     font 'Lassiter Bold.otf'

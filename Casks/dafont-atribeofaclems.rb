@@ -5,7 +5,6 @@ cask 'dafont-atribeofaclems' do
     url 'http://dl.dafont.com/dl/?f=atribeofaclems'
     name 'A Tribe of Aclems'
     homepage 'http://www.dafont.com/atribeofaclems.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ATribeofAclems.ttf'
 end

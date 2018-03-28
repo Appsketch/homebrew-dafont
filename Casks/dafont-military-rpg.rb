@@ -5,7 +5,6 @@ cask 'dafont-military-rpg' do
     url 'http://dl.dafont.com/dl/?f=military_rpg'
     name 'Military RPG'
     homepage 'http://www.dafont.com/military-rpg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Military_RPG.ttf'
 end

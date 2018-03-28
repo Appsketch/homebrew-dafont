@@ -5,7 +5,6 @@ cask 'dafont-evol-popdog' do
     url 'http://dl.dafont.com/dl/?f=evol_popdog'
     name 'Evol'
     homepage 'http://www.dafont.com/evol-popdog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EVOL____.TTF'
 end

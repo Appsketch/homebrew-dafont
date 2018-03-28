@@ -5,7 +5,6 @@ cask 'dafont-devils' do
     url 'http://dl.dafont.com/dl/?f=devils'
     name 'Devils'
     homepage 'http://www.dafont.com/devils.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Devils.ttf'
 end

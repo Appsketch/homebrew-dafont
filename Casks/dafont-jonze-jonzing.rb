@@ -5,7 +5,6 @@ cask 'dafont-jonze-jonzing' do
     url 'http://dl.dafont.com/dl/?f=jonze_jonzing'
     name 'Jonze &amp; Jonzing'
     homepage 'http://www.dafont.com/jonze-jonzing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jonze&amp;JonzingDEMO-KCFonts.ttf'
 end

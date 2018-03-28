@@ -5,7 +5,6 @@ cask 'dafont-testament-b-formaldhyde' do
     url 'http://dl.dafont.com/dl/?f=testament_b_formaldhyde'
     name 'Testament B / Formaldhyde'
     homepage 'http://www.dafont.com/testament-b-formaldhyde.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'testament_b__formaldhyde_1__1.ttf'
 end

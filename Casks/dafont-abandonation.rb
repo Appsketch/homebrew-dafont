@@ -5,7 +5,6 @@ cask 'dafont-abandonation' do
     url 'http://dl.dafont.com/dl/?f=abandonation'
     name 'Abandonation'
     homepage 'http://www.dafont.com/abandonation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abandonation.ttf'
 end

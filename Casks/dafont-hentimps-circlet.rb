@@ -5,7 +5,6 @@ cask 'dafont-hentimps-circlet' do
     url 'http://dl.dafont.com/dl/?f=hentimps_circlet'
     name 'Hentimps Circlet'
     homepage 'http://www.dafont.com/hentimps-circlet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hentimps_Circlet.ttf'
 end

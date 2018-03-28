@@ -5,7 +5,6 @@ cask 'dafont-coptic-eyes-coptic' do
     url 'http://dl.dafont.com/dl/?f=coptic_eyes_coptic'
     name 'Coptic Eyes Coptic'
     homepage 'http://www.dafont.com/coptic-eyes-coptic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coptic Eyes (Coptic Letters).ttf'
     font 'Coptic Eyes (Latin Letters).ttf'

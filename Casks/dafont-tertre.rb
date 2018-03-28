@@ -5,7 +5,6 @@ cask 'dafont-tertre' do
     url 'http://dl.dafont.com/dl/?f=tertre'
     name 'Tertre'
     homepage 'http://www.dafont.com/tertre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tertre-xbol.otf'
 end

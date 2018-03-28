@@ -5,7 +5,6 @@ cask 'dafont-eriksans' do
     url 'http://dl.dafont.com/dl/?f=eriksans'
     name 'Erik Sans'
     homepage 'http://www.dafont.com/eriksans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ErikSans.ttf'
 end

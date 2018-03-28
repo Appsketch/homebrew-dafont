@@ -5,7 +5,6 @@ cask 'dafont-make-them-suffer' do
     url 'http://dl.dafont.com/dl/?f=make_them_suffer'
     name 'Make them Suffer'
     homepage 'http://www.dafont.com/make-them-suffer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MakethemSuffeR-Regular.ttf'
 end

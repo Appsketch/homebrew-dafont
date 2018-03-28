@@ -5,7 +5,6 @@ cask 'dafont-cf-great-destiny' do
     url 'http://dl.dafont.com/dl/?f=cf_great_destiny'
     name 'CF Great Destiny'
     homepage 'http://www.dafont.com/cf-great-destiny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFGreatDestiny-Regular.ttf'
 end

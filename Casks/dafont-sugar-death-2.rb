@@ -5,7 +5,6 @@ cask 'dafont-sugar-death-2' do
     url 'http://dl.dafont.com/dl/?f=sugar_death_2'
     name 'Sugar Death 2'
     homepage 'http://www.dafont.com/sugar-death-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sugar Death 2 Italic.ttf'
     font 'Sugar Death2.ttf'

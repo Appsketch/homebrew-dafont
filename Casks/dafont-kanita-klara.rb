@@ -5,7 +5,6 @@ cask 'dafont-kanita-klara' do
     url 'http://dl.dafont.com/dl/?f=kanita_klara'
     name 'Kanita Klara'
     homepage 'http://www.dafont.com/kanita-klara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kanita Klara.otf'
 end

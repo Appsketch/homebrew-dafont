@@ -5,7 +5,6 @@ cask 'dafont-punk-army' do
     url 'http://dl.dafont.com/dl/?f=punk_army'
     name 'Punk Army'
     homepage 'http://www.dafont.com/punk-army.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Punk Army.ttf'
 end

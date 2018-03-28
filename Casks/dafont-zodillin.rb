@@ -5,7 +5,6 @@ cask 'dafont-zodillin' do
     url 'http://dl.dafont.com/dl/?f=zodillin'
     name 'Zodillin'
     homepage 'http://www.dafont.com/zodillin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zodillin.ttf'
 end

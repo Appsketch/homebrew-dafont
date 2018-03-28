@@ -5,7 +5,6 @@ cask 'dafont-hff-sultan-of-swat' do
     url 'http://dl.dafont.com/dl/?f=hff_sultan_of_swat'
     name 'HFF Sultan of Swat'
     homepage 'http://www.dafont.com/hff-sultan-of-swat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Sultan of Swat.ttf'
 end

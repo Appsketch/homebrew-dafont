@@ -5,7 +5,6 @@ cask 'dafont-qualified-good' do
     url 'http://dl.dafont.com/dl/?f=qualified_good'
     name 'Qualified Good'
     homepage 'http://www.dafont.com/qualified-good.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUALIFIED GOOD.ttf'
 end

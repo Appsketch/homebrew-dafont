@@ -5,7 +5,6 @@ cask 'dafont-wc-pixhole-light-bta' do
     url 'http://dl.dafont.com/dl/?f=wc_pixhole_light_bta'
     name 'WC Pixhole Light Bta'
     homepage 'http://www.dafont.com/wc-pixhole-light-bta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WC_PixHole_Light_Bta.ttf'
 end

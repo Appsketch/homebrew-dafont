@@ -5,7 +5,6 @@ cask 'dafont-stalin-one' do
     url 'http://dl.dafont.com/dl/?f=stalin_one'
     name 'Stalin One'
     homepage 'http://www.dafont.com/stalin-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stalin_TT_Hint.ttf'
 end

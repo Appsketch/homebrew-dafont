@@ -5,7 +5,6 @@ cask 'dafont-supermarket' do
     url 'http://dl.dafont.com/dl/?f=supermarket'
     name 'Supermarket'
     homepage 'http://www.dafont.com/supermarket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPERMARKET.ttf'
 end

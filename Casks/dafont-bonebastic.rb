@@ -5,7 +5,6 @@ cask 'dafont-bonebastic' do
     url 'http://dl.dafont.com/dl/?f=bonebastic'
     name 'Bonebastic'
     homepage 'http://www.dafont.com/bonebastic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonebastic_Demo.otf'
     font 'Bonebastic_outline_Demo.otf'

@@ -5,7 +5,6 @@ cask 'dafont-viper78' do
     url 'http://dl.dafont.com/dl/?f=viper78'
     name 'Viper 78'
     homepage 'http://www.dafont.com/viper78.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Viper78_march_05_year_2014.ttf'
 end

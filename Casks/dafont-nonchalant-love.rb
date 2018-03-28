@@ -5,7 +5,6 @@ cask 'dafont-nonchalant-love' do
     url 'http://dl.dafont.com/dl/?f=nonchalant_love'
     name 'Nonchalant Love'
     homepage 'http://www.dafont.com/nonchalant-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nonchalant Love.otf'
 end

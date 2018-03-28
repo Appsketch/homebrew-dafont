@@ -5,7 +5,6 @@ cask 'dafont-gang-bang-crime' do
     url 'http://dl.dafont.com/dl/?f=gang_bang_crime'
     name 'Gang Bang Crime'
     homepage 'http://www.dafont.com/gang-bang-crime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GANG BANG CRIME.ttf'
 end

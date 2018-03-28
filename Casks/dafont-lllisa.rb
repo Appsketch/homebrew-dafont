@@ -5,7 +5,6 @@ cask 'dafont-lllisa' do
     url 'http://dl.dafont.com/dl/?f=lllisa'
     name 'LL Lisa'
     homepage 'http://www.dafont.com/lllisa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLLisa.ttf'
 end

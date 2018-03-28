@@ -5,7 +5,6 @@ cask 'dafont-cloute' do
     url 'http://dl.dafont.com/dl/?f=cloute'
     name 'Clout&eacute;'
     homepage 'http://www.dafont.com/cloute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clouty.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-simplerounded' do
     url 'http://dl.dafont.com/dl/?f=simplerounded'
     name 'Simple Rounded'
     homepage 'http://www.dafont.com/simplerounded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SimpleRounded.ttf'
 end

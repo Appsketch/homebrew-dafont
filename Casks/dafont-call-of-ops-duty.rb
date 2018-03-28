@@ -5,7 +5,6 @@ cask 'dafont-call-of-ops-duty' do
     url 'http://dl.dafont.com/dl/?f=call_of_ops_duty'
     name 'Call of Ops Duty'
     homepage 'http://www.dafont.com/call-of-ops-duty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Call of Ops Duty.otf'
 end

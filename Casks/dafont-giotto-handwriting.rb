@@ -5,7 +5,6 @@ cask 'dafont-giotto-handwriting' do
     url 'http://dl.dafont.com/dl/?f=giotto_handwriting'
     name 'Giotto Handwriting'
     homepage 'http://www.dafont.com/giotto-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GiottoHandwriting.ttf'
 end

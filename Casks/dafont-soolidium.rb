@@ -5,7 +5,6 @@ cask 'dafont-soolidium' do
     url 'http://dl.dafont.com/dl/?f=soolidium'
     name 'Soolidium'
     homepage 'http://www.dafont.com/soolidium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Soolidium.ttf'
 end

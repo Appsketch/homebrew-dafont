@@ -5,7 +5,6 @@ cask 'dafont-colors-of-autumn' do
     url 'http://dl.dafont.com/dl/?f=colors_of_autumn'
     name 'Colors Of Autumn'
     homepage 'http://www.dafont.com/colors-of-autumn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Colors Of Autumn.ttf'
 end

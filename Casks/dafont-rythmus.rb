@@ -5,7 +5,6 @@ cask 'dafont-rythmus' do
     url 'http://dl.dafont.com/dl/?f=rythmus'
     name 'Rythmus'
     homepage 'http://www.dafont.com/rythmus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RythmusRegular.ttf'
 end

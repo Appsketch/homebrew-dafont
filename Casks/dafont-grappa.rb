@@ -5,7 +5,6 @@ cask 'dafont-grappa' do
     url 'http://dl.dafont.com/dl/?f=grappa'
     name 'Grappa'
     homepage 'http://www.dafont.com/grappa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRAPPA__.TTF'
 end

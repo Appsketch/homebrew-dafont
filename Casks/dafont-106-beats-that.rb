@@ -5,7 +5,6 @@ cask 'dafont-106-beats-that' do
     url 'http://dl.dafont.com/dl/?f=106_beats_that'
     name '106 Beats That'
     homepage 'http://www.dafont.com/106-beats-that.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '106beats.ttf'
 end

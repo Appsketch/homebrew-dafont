@@ -5,7 +5,6 @@ cask 'dafont-plastic-pill' do
     url 'http://dl.dafont.com/dl/?f=plastic_pill'
     name 'Plastic Pill'
     homepage 'http://www.dafont.com/plastic-pill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLASTICPILL.ttf'
 end

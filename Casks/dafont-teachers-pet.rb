@@ -5,7 +5,6 @@ cask 'dafont-teachers-pet' do
     url 'http://dl.dafont.com/dl/?f=teachers_pet'
     name 'Teachers Pet'
     homepage 'http://www.dafont.com/teachers-pet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TEACP___.TTF'
     font 'TEACPB__.TTF'

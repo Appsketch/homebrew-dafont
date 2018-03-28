@@ -5,7 +5,6 @@ cask 'dafont-bob-filled' do
     url 'http://dl.dafont.com/dl/?f=bob_filled'
     name 'Bob Filled'
     homepage 'http://www.dafont.com/bob-filled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bob.ttf'
 end

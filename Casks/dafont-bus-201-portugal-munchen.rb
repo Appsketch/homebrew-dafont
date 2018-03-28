@@ -5,7 +5,6 @@ cask 'dafont-bus-201-portugal-munchen' do
     url 'http://dl.dafont.com/dl/?f=bus_201_portugal_munchen'
     name 'Bus 201 Portugal M&uuml;nchen'
     homepage 'http://www.dafont.com/bus-201-portugal-munchen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bus_201_Portugal_Mnchen_Sh.ttf'
     font 'Bus_201_Portugal_Muenchen_Bold.ttf'

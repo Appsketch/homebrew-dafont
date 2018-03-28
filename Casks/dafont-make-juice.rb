@@ -5,7 +5,6 @@ cask 'dafont-make-juice' do
     url 'http://dl.dafont.com/dl/?f=make_juice'
     name 'Make Juice'
     homepage 'http://www.dafont.com/make-juice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Make Juice.ttf'
 end

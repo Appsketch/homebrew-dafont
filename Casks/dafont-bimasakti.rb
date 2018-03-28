@@ -5,7 +5,6 @@ cask 'dafont-bimasakti' do
     url 'http://dl.dafont.com/dl/?f=bimasakti'
     name 'Bimasakti'
     homepage 'http://www.dafont.com/bimasakti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bimasakti.ttf'
 end

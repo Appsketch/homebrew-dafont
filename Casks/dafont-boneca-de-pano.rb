@@ -5,7 +5,6 @@ cask 'dafont-boneca-de-pano' do
     url 'http://dl.dafont.com/dl/?f=boneca_de_pano'
     name 'Boneca de Pano'
     homepage 'http://www.dafont.com/boneca-de-pano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boneca_De_Panoo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-puteiroanarquista' do
     url 'http://dl.dafont.com/dl/?f=puteiroanarquista'
     name 'Puteiro Anarquista'
     homepage 'http://www.dafont.com/puteiroanarquista.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PuteiroAnarquista.ttf'
 end

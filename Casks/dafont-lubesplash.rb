@@ -5,7 +5,6 @@ cask 'dafont-lubesplash' do
     url 'http://dl.dafont.com/dl/?f=lubesplash'
     name 'Lube Splash'
     homepage 'http://www.dafont.com/lubesplash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LubeSplash.ttf'
 end

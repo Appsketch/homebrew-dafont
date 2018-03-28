@@ -5,7 +5,6 @@ cask 'dafont-si-kancil' do
     url 'http://dl.dafont.com/dl/?f=si_kancil'
     name 'Si Kancil'
     homepage 'http://www.dafont.com/si-kancil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Si Kancil.ttf'
 end

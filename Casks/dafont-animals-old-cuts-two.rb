@@ -5,7 +5,6 @@ cask 'dafont-animals-old-cuts-two' do
     url 'http://dl.dafont.com/dl/?f=animals_old_cuts_two'
     name 'Animals Old Cuts Two'
     homepage 'http://www.dafont.com/animals-old-cuts-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Animals Old Cuts Two.ttf'
 end

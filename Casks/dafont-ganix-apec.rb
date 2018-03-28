@@ -5,7 +5,6 @@ cask 'dafont-ganix-apec' do
     url 'http://dl.dafont.com/dl/?f=ganix_apec'
     name 'Ganix Apec'
     homepage 'http://www.dafont.com/ganix-apec.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ganix_Apec.ttf'
 end

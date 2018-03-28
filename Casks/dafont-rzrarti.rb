@@ -5,7 +5,6 @@ cask 'dafont-rzrarti' do
     url 'http://dl.dafont.com/dl/?f=rzrarti'
     name 'Rzrarti'
     homepage 'http://www.dafont.com/rzrarti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rzrarti.ttf'
 end

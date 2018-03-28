@@ -5,7 +5,6 @@ cask 'dafont-deedeeflowers' do
     url 'http://dl.dafont.com/dl/?f=deedeeflowers'
     name 'DeeDee Flowers'
     homepage 'http://www.dafont.com/deedeeflowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeeDeeFlowers.ttf'
 end

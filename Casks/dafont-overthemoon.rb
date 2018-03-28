@@ -5,7 +5,6 @@ cask 'dafont-overthemoon' do
     url 'http://dl.dafont.com/dl/?f=overthemoon'
     name 'Over the Moon'
     homepage 'http://www.dafont.com/overthemoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Over thE MoOn.ttf'
 end

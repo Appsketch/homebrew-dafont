@@ -5,7 +5,6 @@ cask 'dafont-bray' do
     url 'http://dl.dafont.com/dl/?f=bray'
     name 'Bray'
     homepage 'http://www.dafont.com/bray.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bray.otf'
 end

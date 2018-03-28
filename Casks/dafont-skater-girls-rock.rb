@@ -5,7 +5,6 @@ cask 'dafont-skater-girls-rock' do
     url 'http://dl.dafont.com/dl/?f=skater_girls_rock'
     name 'Skater Girls Rock'
     homepage 'http://www.dafont.com/skater-girls-rock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skater Girls Rock.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rittswood-three-oranges' do
     url 'http://dl.dafont.com/dl/?f=rittswood_three_oranges'
     name 'Rittswood Three Oranges'
     homepage 'http://www.dafont.com/rittswood-three-oranges.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'r-threeoranges_7.ttf'
 end

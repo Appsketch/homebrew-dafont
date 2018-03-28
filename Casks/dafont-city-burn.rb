@@ -5,7 +5,6 @@ cask 'dafont-city-burn' do
     url 'http://dl.dafont.com/dl/?f=city_burn'
     name 'City Burn'
     homepage 'http://www.dafont.com/city-burn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cityburn-&copy;.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pixeliza20' do
     url 'http://dl.dafont.com/dl/?f=pixeliza20'
     name 'Pixeliza 20'
     homepage 'http://www.dafont.com/pixeliza20.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixeliza20.ttf'
 end

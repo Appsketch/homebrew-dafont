@@ -5,7 +5,6 @@ cask 'dafont-super-commando' do
     url 'http://dl.dafont.com/dl/?f=super_commando'
     name 'Super Commando'
     homepage 'http://www.dafont.com/super-commando.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'supercommando.ttf'
     font 'supercommando3d.ttf'

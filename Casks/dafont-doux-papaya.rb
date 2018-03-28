@@ -5,7 +5,6 @@ cask 'dafont-doux-papaya' do
     url 'http://dl.dafont.com/dl/?f=doux_papaya'
     name 'Doux Pap&agrave;ya '
     homepage 'http://www.dafont.com/doux-papaya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doux Papya.ttf'
 end

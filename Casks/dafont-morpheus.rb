@@ -5,7 +5,6 @@ cask 'dafont-morpheus' do
     url 'http://dl.dafont.com/dl/?f=morpheus'
     name 'Morpheus'
     homepage 'http://www.dafont.com/morpheus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MORPHEUS.TTF'
 end

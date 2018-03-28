@@ -5,7 +5,6 @@ cask 'dafont-elevation' do
     url 'http://dl.dafont.com/dl/?f=elevation'
     name 'Elevation'
     homepage 'http://www.dafont.com/elevation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elevation.ttf'
 end

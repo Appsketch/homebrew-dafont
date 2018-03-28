@@ -5,7 +5,6 @@ cask 'dafont-heartbreaks' do
     url 'http://dl.dafont.com/dl/?f=heartbreaks'
     name 'Heartbreaks'
     homepage 'http://www.dafont.com/heartbreaks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heartbreaks.ttf'
 end

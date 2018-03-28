@@ -5,7 +5,6 @@ cask 'dafont-mixpartial' do
     url 'http://dl.dafont.com/dl/?f=mixpartial'
     name 'Mix Partial'
     homepage 'http://www.dafont.com/mixpartial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixPartial.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bm-maze' do
     url 'http://dl.dafont.com/dl/?f=bm_maze'
     name 'BM Maze'
     homepage 'http://www.dafont.com/bm-maze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMMAA___.TTF'
 end

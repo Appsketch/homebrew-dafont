@@ -5,7 +5,6 @@ cask 'dafont-angolmois' do
     url 'http://dl.dafont.com/dl/?f=angolmois'
     name 'Angolmois'
     homepage 'http://www.dafont.com/angolmois.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angolmois Italic.otf'
     font 'Angolmois.otf'

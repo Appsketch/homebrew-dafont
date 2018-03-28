@@ -5,7 +5,6 @@ cask 'dafont-ska-75-marul-ce' do
     url 'http://dl.dafont.com/dl/?f=ska_75_marul_ce'
     name 'SKA 75 Marul CE'
     homepage 'http://www.dafont.com/ska-75-marul-ce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SKA_75_marul_CE_extended.ttf'
     font 'SKA_75_marul_CE.ttf'

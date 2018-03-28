@@ -5,7 +5,6 @@ cask 'dafont-djb-letter-game-tiles' do
     url 'http://dl.dafont.com/dl/?f=djb_letter_game_tiles'
     name 'DJB Letter Game Tiles'
     homepage 'http://www.dafont.com/djb-letter-game-tiles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Letter Game Tiles 2.ttf'
     font 'DJB Letter Game Tiles 3.ttf'

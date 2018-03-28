@@ -5,7 +5,6 @@ cask 'dafont-kuadriculado' do
     url 'http://dl.dafont.com/dl/?f=kuadriculado'
     name 'Kuadriculado'
     homepage 'http://www.dafont.com/kuadriculado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kuadriculado_7luas.ttf'
 end

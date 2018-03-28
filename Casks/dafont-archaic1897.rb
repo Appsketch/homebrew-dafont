@@ -5,7 +5,6 @@ cask 'dafont-archaic1897' do
     url 'http://dl.dafont.com/dl/?f=archaic1897'
     name 'Archaic 1897'
     homepage 'http://www.dafont.com/archaic1897.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Archaic1897.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-basica-industrial' do
     url 'http://dl.dafont.com/dl/?f=basica_industrial'
     name 'Basica Industrial'
     homepage 'http://www.dafont.com/basica-industrial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'basica industrial free promo.ttf'
 end

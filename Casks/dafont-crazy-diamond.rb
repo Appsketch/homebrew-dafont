@@ -5,7 +5,6 @@ cask 'dafont-crazy-diamond' do
     url 'http://dl.dafont.com/dl/?f=crazy_diamond'
     name 'Crazy Diamond'
     homepage 'http://www.dafont.com/crazy-diamond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crazy_diamond.otf'
 end

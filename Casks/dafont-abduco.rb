@@ -5,7 +5,6 @@ cask 'dafont-abduco' do
     url 'http://dl.dafont.com/dl/?f=abduco'
     name 'Abduco'
     homepage 'http://www.dafont.com/abduco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abduco.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ame' do
     url 'http://dl.dafont.com/dl/?f=ame'
     name 'Ame'
     homepage 'http://www.dafont.com/ame.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ame.TTF'
 end

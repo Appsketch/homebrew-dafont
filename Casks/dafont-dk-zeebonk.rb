@@ -5,7 +5,6 @@ cask 'dafont-dk-zeebonk' do
     url 'http://dl.dafont.com/dl/?f=dk_zeebonk'
     name 'DK Zeebonk'
     homepage 'http://www.dafont.com/dk-zeebonk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Zeebonk.otf'
 end

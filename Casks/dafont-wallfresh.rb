@@ -5,7 +5,6 @@ cask 'dafont-wallfresh' do
     url 'http://dl.dafont.com/dl/?f=wallfresh'
     name 'WallFresh'
     homepage 'http://www.dafont.com/wallfresh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WallFresh.ttf'
 end

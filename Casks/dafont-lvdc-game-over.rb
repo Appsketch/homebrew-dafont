@@ -5,7 +5,6 @@ cask 'dafont-lvdc-game-over' do
     url 'http://dl.dafont.com/dl/?f=lvdc_game_over'
     name 'LVDC Game Over'
     homepage 'http://www.dafont.com/lvdc-game-over.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LVDCGO__.TTF'
 end

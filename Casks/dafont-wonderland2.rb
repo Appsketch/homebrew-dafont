@@ -5,7 +5,6 @@ cask 'dafont-wonderland2' do
     url 'http://dl.dafont.com/dl/?f=wonderland2'
     name 'Wonderland'
     homepage 'http://www.dafont.com/wonderland2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wonderland 2.otf'
 end

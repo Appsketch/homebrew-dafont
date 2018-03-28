@@ -5,7 +5,6 @@ cask 'dafont-no-messin' do
     url 'http://dl.dafont.com/dl/?f=no_messin'
     name 'No Messin'
     homepage 'http://www.dafont.com/no-messin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'No Messin.ttf'
 end

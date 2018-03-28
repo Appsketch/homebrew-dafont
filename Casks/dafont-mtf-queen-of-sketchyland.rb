@@ -5,7 +5,6 @@ cask 'dafont-mtf-queen-of-sketchyland' do
     url 'http://dl.dafont.com/dl/?f=mtf_queen_of_sketchyland'
     name 'MTF Queen Of Sketchyland'
     homepage 'http://www.dafont.com/mtf-queen-of-sketchyland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Queen Of Sketchyland.ttf'
 end

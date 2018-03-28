@@ -5,7 +5,6 @@ cask 'dafont-burtons-nightmare' do
     url 'http://dl.dafont.com/dl/?f=burtons_nightmare'
     name 'Burton&#039;s Nightmare'
     homepage 'http://www.dafont.com/burtons-nightmare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NITEMARE.TTF'
 end

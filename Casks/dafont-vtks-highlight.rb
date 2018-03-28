@@ -5,7 +5,6 @@ cask 'dafont-vtks-highlight' do
     url 'http://dl.dafont.com/dl/?f=vtks_highlight'
     name 'VTKS Highlight'
     homepage 'http://www.dafont.com/vtks-highlight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS HIGHLIGHT 2.ttf'
     font 'VTKS HIGHLIGHT 3.ttf'

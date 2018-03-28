@@ -5,7 +5,6 @@ cask 'dafont-caricaturista' do
     url 'http://dl.dafont.com/dl/?f=caricaturista'
     name 'Caricaturista'
     homepage 'http://www.dafont.com/caricaturista.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caricaturista.ttf'
 end

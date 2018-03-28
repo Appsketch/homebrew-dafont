@@ -5,7 +5,6 @@ cask 'dafont-homeblock' do
     url 'http://dl.dafont.com/dl/?f=homeblock'
     name 'Homeblock'
     homepage 'http://www.dafont.com/homeblock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'homeblock.ttf'
 end

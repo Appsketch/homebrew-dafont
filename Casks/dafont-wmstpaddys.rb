@@ -5,7 +5,6 @@ cask 'dafont-wmstpaddys' do
     url 'http://dl.dafont.com/dl/?f=wmstpaddys'
     name 'WM St Paddys'
     homepage 'http://www.dafont.com/wmstpaddys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmstpaddys.TTF'
 end

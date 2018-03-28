@@ -5,7 +5,6 @@ cask 'dafont-thin-skinned' do
     url 'http://dl.dafont.com/dl/?f=thin_skinned'
     name 'Thin Skinned'
     homepage 'http://www.dafont.com/thin-skinned.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thin Skinned.ttf'
 end

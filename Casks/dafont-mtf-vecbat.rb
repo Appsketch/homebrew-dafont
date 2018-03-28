@@ -5,7 +5,6 @@ cask 'dafont-mtf-vecbat' do
     url 'http://dl.dafont.com/dl/?f=mtf_vecbat'
     name 'MTF Vecbat'
     homepage 'http://www.dafont.com/mtf-vecbat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Vecbat Vo1.ttf'
 end

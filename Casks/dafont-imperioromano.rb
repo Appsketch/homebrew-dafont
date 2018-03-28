@@ -5,7 +5,6 @@ cask 'dafont-imperioromano' do
     url 'http://dl.dafont.com/dl/?f=imperioromano'
     name 'Imperio Romano'
     homepage 'http://www.dafont.com/imperioromano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Imperio Romano.ttf'
 end

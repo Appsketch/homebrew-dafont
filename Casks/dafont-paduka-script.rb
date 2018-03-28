@@ -5,7 +5,6 @@ cask 'dafont-paduka-script' do
     url 'http://dl.dafont.com/dl/?f=paduka_script'
     name 'Paduka Script'
     homepage 'http://www.dafont.com/paduka-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paduka Script free.ttf'
 end

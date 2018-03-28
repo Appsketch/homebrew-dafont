@@ -5,7 +5,6 @@ cask 'dafont-xmas-promotions-sym' do
     url 'http://dl.dafont.com/dl/?f=xmas_promotions_sym'
     name 'Xmas Promotions Symbols'
     homepage 'http://www.dafont.com/xmas-promotions-sym.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XmasPromotionsSymbols.ttf'
 end

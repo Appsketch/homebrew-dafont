@@ -5,7 +5,6 @@ cask 'dafont-lunchtype21' do
     url 'http://dl.dafont.com/dl/?f=lunchtype21'
     name 'Lunchtype 21'
     homepage 'http://www.dafont.com/lunchtype21.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lunchtype_21-Bold.ttf'
     font 'Lunchtype_21-BoldItalic.ttf'

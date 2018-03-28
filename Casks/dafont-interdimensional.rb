@@ -5,7 +5,6 @@ cask 'dafont-interdimensional' do
     url 'http://dl.dafont.com/dl/?f=interdimensional'
     name 'Interdimensional'
     homepage 'http://www.dafont.com/interdimensional.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INTERDIM.TTF'
 end

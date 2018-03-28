@@ -5,7 +5,6 @@ cask 'dafont-ves' do
     url 'http://dl.dafont.com/dl/?f=ves'
     name 'Ves'
     homepage 'http://www.dafont.com/ves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ves.ttf'
 end

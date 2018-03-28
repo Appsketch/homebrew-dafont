@@ -5,7 +5,6 @@ cask 'dafont-shark-fins' do
     url 'http://dl.dafont.com/dl/?f=shark_fins'
     name 'Shark Fins'
     homepage 'http://www.dafont.com/shark-fins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shark_fins.ttf'
 end

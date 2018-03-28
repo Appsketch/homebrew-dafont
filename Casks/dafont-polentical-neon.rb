@@ -5,7 +5,6 @@ cask 'dafont-polentical-neon' do
     url 'http://dl.dafont.com/dl/?f=polentical_neon'
     name 'Polentical Neon'
     homepage 'http://www.dafont.com/polentical-neon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Polentical Neon Bold italic.ttf'
     font 'Polentical Neon Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-rolina' do
     url 'http://dl.dafont.com/dl/?f=rolina'
     name 'Rolina'
     homepage 'http://www.dafont.com/rolina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rolina.ttf'
 end

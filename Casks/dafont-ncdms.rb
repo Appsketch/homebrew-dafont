@@ -5,7 +5,6 @@ cask 'dafont-ncdms' do
     url 'http://dl.dafont.com/dl/?f=ncdms'
     name 'Ncdms'
     homepage 'http://www.dafont.com/ncdms.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ncdms.ttf'
 end

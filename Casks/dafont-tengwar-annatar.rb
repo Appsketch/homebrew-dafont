@@ -5,7 +5,6 @@ cask 'dafont-tengwar-annatar' do
     url 'http://dl.dafont.com/dl/?f=tengwar_annatar'
     name 'Tengwar Annatar'
     homepage 'http://www.dafont.com/tengwar-annatar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tngan.ttf'
     font 'tnganb.ttf'

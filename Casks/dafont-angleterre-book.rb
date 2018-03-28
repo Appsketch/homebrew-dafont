@@ -5,7 +5,6 @@ cask 'dafont-angleterre-book' do
     url 'http://dl.dafont.com/dl/?f=angleterre_book'
     name 'Angleterre Book'
     homepage 'http://www.dafont.com/angleterre-book.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'angltrr.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-daniela' do
     url 'http://dl.dafont.com/dl/?f=daniela'
     name 'Daniela'
     homepage 'http://www.dafont.com/daniela.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Daniela Bold.ttf'
     font 'Daniela Italic Bold.ttf'

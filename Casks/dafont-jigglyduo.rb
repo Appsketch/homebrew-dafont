@@ -5,7 +5,6 @@ cask 'dafont-jigglyduo' do
     url 'http://dl.dafont.com/dl/?f=jigglyduo'
     name 'Jiggly Duo'
     homepage 'http://www.dafont.com/jigglyduo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JigglyEXTEND.ttf'
 end

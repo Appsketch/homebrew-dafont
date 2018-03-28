@@ -5,7 +5,6 @@ cask 'dafont-dyer-arts-and-crafts' do
     url 'http://dl.dafont.com/dl/?f=dyer_arts_and_crafts'
     name 'Dyer Arts and Crafts'
     homepage 'http://www.dafont.com/dyer-arts-and-crafts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dyer Arts and Crafts.ttf'
 end

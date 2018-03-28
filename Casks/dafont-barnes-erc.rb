@@ -5,7 +5,6 @@ cask 'dafont-barnes-erc' do
     url 'http://dl.dafont.com/dl/?f=barnes_erc'
     name 'Barnes Erc'
     homepage 'http://www.dafont.com/barnes-erc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BARNES_erc_08.ttf'
 end

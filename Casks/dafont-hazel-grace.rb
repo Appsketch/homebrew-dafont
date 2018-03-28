@@ -5,7 +5,6 @@ cask 'dafont-hazel-grace' do
     url 'http://dl.dafont.com/dl/?f=hazel_grace'
     name 'Hazel Grace'
     homepage 'http://www.dafont.com/hazel-grace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hazel grace.ttf'
 end

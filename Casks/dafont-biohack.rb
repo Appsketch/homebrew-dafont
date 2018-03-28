@@ -5,7 +5,6 @@ cask 'dafont-biohack' do
     url 'http://dl.dafont.com/dl/?f=biohack'
     name 'Biohack'
     homepage 'http://www.dafont.com/biohack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Biohack.ttf'
 end

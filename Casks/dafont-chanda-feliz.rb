@@ -5,7 +5,6 @@ cask 'dafont-chanda-feliz' do
     url 'http://dl.dafont.com/dl/?f=chanda_feliz'
     name 'Chanda Feliz'
     homepage 'http://www.dafont.com/chanda-feliz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chanda Feliz.ttf'
 end

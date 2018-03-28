@@ -5,7 +5,6 @@ cask 'dafont-teachers-pet-sans' do
     url 'http://dl.dafont.com/dl/?f=teachers_pet_sans'
     name 'Teachers Pet Sans Serif'
     homepage 'http://www.dafont.com/teachers-pet-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TEACPSS_.TTF'
     font 'TEACPSSB.TTF'

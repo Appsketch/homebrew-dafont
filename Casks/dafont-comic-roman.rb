@@ -5,7 +5,6 @@ cask 'dafont-comic-roman' do
     url 'http://dl.dafont.com/dl/?f=comic_roman'
     name 'Comic Roman'
     homepage 'http://www.dafont.com/comic-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comic Roman.ttf'
 end

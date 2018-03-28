@@ -5,7 +5,6 @@ cask 'dafont-salty' do
     url 'http://dl.dafont.com/dl/?f=salty'
     name 'Salty'
     homepage 'http://www.dafont.com/salty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SALTY.ttf'
 end

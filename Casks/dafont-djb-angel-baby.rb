@@ -5,7 +5,6 @@ cask 'dafont-djb-angel-baby' do
     url 'http://dl.dafont.com/dl/?f=djb_angel_baby'
     name 'DJB Angel Baby'
     homepage 'http://www.dafont.com/djb-angel-baby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Angel Baby.ttf'
 end

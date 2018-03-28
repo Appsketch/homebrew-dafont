@@ -5,7 +5,6 @@ cask 'dafont-wolves-ravens' do
     url 'http://dl.dafont.com/dl/?f=wolves_ravens'
     name 'Wolves and Ravens'
     homepage 'http://www.dafont.com/wolves-ravens.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wolves and Raven.ttf'
     font 'Wolves and Ruin.ttf'

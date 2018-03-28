@@ -5,7 +5,6 @@ cask 'dafont-for-a-pessimist-im-pretty-optimistic' do
     url 'http://dl.dafont.com/dl/?f=for_a_pessimist_im_pretty_optimistic'
     name 'For A Pessimist, I&#039;m Pretty Optimistic '
     homepage 'http://www.dafont.com/for-a-pessimist-im-pretty-optimistic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'For A Pessimist, I&#039;m Pretty Optimistic.ttf'
 end

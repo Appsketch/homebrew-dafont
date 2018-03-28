@@ -5,7 +5,6 @@ cask 'dafont-unocide' do
     url 'http://dl.dafont.com/dl/?f=unocide'
     name 'Unocide'
     homepage 'http://www.dafont.com/unocide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unocide.ttf'
 end

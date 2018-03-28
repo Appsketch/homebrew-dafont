@@ -5,7 +5,6 @@ cask 'dafont-graphicdream' do
     url 'http://dl.dafont.com/dl/?f=graphicdream'
     name 'Graphic Dream'
     homepage 'http://www.dafont.com/graphicdream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Graphicdream.ttf'
 end

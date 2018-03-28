@@ -5,7 +5,6 @@ cask 'dafont-philosopher' do
     url 'http://dl.dafont.com/dl/?f=philosopher'
     name 'Philosopher'
     homepage 'http://www.dafont.com/philosopher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Philosopher-Bold.ttf'
     font 'Philosopher-BoldItalic.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-thinkpositive' do
     url 'http://dl.dafont.com/dl/?f=thinkpositive'
     name 'Think Positive'
     homepage 'http://www.dafont.com/thinkpositive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThinkPositive.ttf'
 end

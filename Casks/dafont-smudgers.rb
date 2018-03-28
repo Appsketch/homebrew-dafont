@@ -5,7 +5,6 @@ cask 'dafont-smudgers' do
     url 'http://dl.dafont.com/dl/?f=smudgers'
     name 'Smudgers'
     homepage 'http://www.dafont.com/smudgers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smudgers.ttf'
 end

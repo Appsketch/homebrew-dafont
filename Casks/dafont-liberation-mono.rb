@@ -5,7 +5,6 @@ cask 'dafont-liberation-mono' do
     url 'http://dl.dafont.com/dl/?f=liberation_mono'
     name 'Liberation Mono'
     homepage 'http://www.dafont.com/liberation-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LiberationMono-Bold.ttf'
     font 'LiberationMono-BoldItalic.ttf'

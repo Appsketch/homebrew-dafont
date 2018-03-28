@@ -5,7 +5,6 @@ cask 'dafont-river-drive' do
     url 'http://dl.dafont.com/dl/?f=river_drive'
     name 'River Drive'
     homepage 'http://www.dafont.com/river-drive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'River Drive.ttf'
 end

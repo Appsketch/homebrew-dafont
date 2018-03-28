@@ -5,7 +5,6 @@ cask 'dafont-grasping' do
     url 'http://dl.dafont.com/dl/?f=grasping'
     name 'Grasping'
     homepage 'http://www.dafont.com/grasping.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grasping.ttf'
 end

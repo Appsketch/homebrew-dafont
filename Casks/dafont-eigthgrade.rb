@@ -5,7 +5,6 @@ cask 'dafont-eigthgrade' do
     url 'http://dl.dafont.com/dl/?f=eigthgrade'
     name 'Eigth Grade'
     homepage 'http://www.dafont.com/eigthgrade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EigthGrade.ttf'
 end

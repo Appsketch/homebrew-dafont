@@ -5,7 +5,6 @@ cask 'dafont-fontdizajnesrki' do
     url 'http://dl.dafont.com/dl/?f=fontdizajnesrki'
     name 'Fontdizajnesrki'
     homepage 'http://www.dafont.com/fontdizajnesrki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FONTDIZA.TTF'
 end

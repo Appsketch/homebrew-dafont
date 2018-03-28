@@ -5,7 +5,6 @@ cask 'dafont-vtks-good-vibration-2' do
     url 'http://dl.dafont.com/dl/?f=vtks_good_vibration_2'
     name 'Vtks Good Vibration 2'
     homepage 'http://www.dafont.com/vtks-good-vibration-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS Good Vibrations 2.ttf'
 end

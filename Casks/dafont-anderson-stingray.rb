@@ -5,7 +5,6 @@ cask 'dafont-anderson-stingray' do
     url 'http://dl.dafont.com/dl/?f=anderson_stingray'
     name 'Anderson Stingray'
     homepage 'http://www.dafont.com/anderson-stingray.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anderson Stingray.ttf'
 end

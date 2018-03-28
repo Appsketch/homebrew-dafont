@@ -5,7 +5,6 @@ cask 'dafont-d3euronism' do
     url 'http://dl.dafont.com/dl/?f=d3euronism'
     name 'D3 Euronism'
     homepage 'http://www.dafont.com/d3euronism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'D3Euronism_b_i.ttf'
     font 'D3Euronism_b.ttf'

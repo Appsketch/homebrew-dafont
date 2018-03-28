@@ -5,7 +5,6 @@ cask 'dafont-jen-luvs-ben-4ever' do
     url 'http://dl.dafont.com/dl/?f=jen_luvs_ben_4ever'
     name 'Jen Luvs Ben (4ever)'
     homepage 'http://www.dafont.com/jen-luvs-ben-4ever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '[Jen Luvs Ben] (4ever).ttf'
 end

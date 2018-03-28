@@ -5,7 +5,6 @@ cask 'dafont-whimsywischy' do
     url 'http://dl.dafont.com/dl/?f=whimsywischy'
     name 'Whimsy Wischy'
     homepage 'http://www.dafont.com/whimsywischy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhimsyWischy.ttf'
 end

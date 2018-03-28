@@ -5,7 +5,6 @@ cask 'dafont-come-rain-or-fall' do
     url 'http://dl.dafont.com/dl/?f=come_rain_or_fall'
     name 'Come Rain Or Fall'
     homepage 'http://www.dafont.com/come-rain-or-fall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Come Rain Or Fall.otf'
 end

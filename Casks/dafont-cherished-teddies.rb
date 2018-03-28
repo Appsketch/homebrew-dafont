@@ -5,7 +5,6 @@ cask 'dafont-cherished-teddies' do
     url 'http://dl.dafont.com/dl/?f=cherished_teddies'
     name 'Cherished Teddies'
     homepage 'http://www.dafont.com/cherished-teddies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cherished Teddies.ttf'
 end

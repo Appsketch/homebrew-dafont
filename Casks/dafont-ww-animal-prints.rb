@@ -5,7 +5,6 @@ cask 'dafont-ww-animal-prints' do
     url 'http://dl.dafont.com/dl/?f=ww_animal_prints'
     name 'WW Animal Prints'
     homepage 'http://www.dafont.com/ww-animal-prints.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WWAnimalPrints.ttf'
 end

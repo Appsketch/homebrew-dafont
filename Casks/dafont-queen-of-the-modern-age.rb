@@ -5,7 +5,6 @@ cask 'dafont-queen-of-the-modern-age' do
     url 'http://dl.dafont.com/dl/?f=queen_of_the_modern_age'
     name 'Queen Of The Modern Age'
     homepage 'http://www.dafont.com/queen-of-the-modern-age.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUEEN OF THE MODERN AGE.ttf'
 end

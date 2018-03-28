@@ -5,7 +5,6 @@ cask 'dafont-what-sound-pounds' do
     url 'http://dl.dafont.com/dl/?f=what_sound_pounds'
     name 'What Sound Pounds?'
     homepage 'http://www.dafont.com/what-sound-pounds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WHAT SOUND POUNDS.ttf'
 end

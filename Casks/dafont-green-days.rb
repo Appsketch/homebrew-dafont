@@ -5,7 +5,6 @@ cask 'dafont-green-days' do
     url 'http://dl.dafont.com/dl/?f=green_days'
     name 'Green Days'
     homepage 'http://www.dafont.com/green-days.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Green_Days.ttf'
 end

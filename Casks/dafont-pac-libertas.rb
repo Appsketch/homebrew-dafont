@@ -5,7 +5,6 @@ cask 'dafont-pac-libertas' do
     url 'http://dl.dafont.com/dl/?f=pac_libertas'
     name 'Pac Libertas'
     homepage 'http://www.dafont.com/pac-libertas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAC LIBERTAS font.ttf'
 end

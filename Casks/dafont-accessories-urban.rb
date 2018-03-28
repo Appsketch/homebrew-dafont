@@ -5,7 +5,6 @@ cask 'dafont-accessories-urban' do
     url 'http://dl.dafont.com/dl/?f=accessories_urban'
     name 'Accessories Urban'
     homepage 'http://www.dafont.com/accessories-urban.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'accessories urban.ttf'
 end

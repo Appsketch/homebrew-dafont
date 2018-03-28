@@ -5,7 +5,6 @@ cask 'dafont-windowmarkers' do
     url 'http://dl.dafont.com/dl/?f=windowmarkers'
     name 'Window Markers'
     homepage 'http://www.dafont.com/windowmarkers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WindowMarkers.ttf'
 end

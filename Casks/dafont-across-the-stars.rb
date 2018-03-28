@@ -5,7 +5,6 @@ cask 'dafont-across-the-stars' do
     url 'http://dl.dafont.com/dl/?f=across_the_stars'
     name 'Across The Stars'
     homepage 'http://www.dafont.com/across-the-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ACROTSRG.TTF'
 end

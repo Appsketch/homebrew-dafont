@@ -5,7 +5,6 @@ cask 'dafont-confussion-rng' do
     url 'http://dl.dafont.com/dl/?f=confussion_rng'
     name 'Confussion RNG'
     homepage 'http://www.dafont.com/confussion-rng.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Confusions.ttf'
 end

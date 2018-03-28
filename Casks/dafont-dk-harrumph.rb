@@ -5,7 +5,6 @@ cask 'dafont-dk-harrumph' do
     url 'http://dl.dafont.com/dl/?f=dk_harrumph'
     name 'DK Harrumph'
     homepage 'http://www.dafont.com/dk-harrumph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Harrumph.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-krampshandso' do
     url 'http://dl.dafont.com/dl/?f=krampshandso'
     name 'Kramps Handso'
     homepage 'http://www.dafont.com/krampshandso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KrampsHanso.ttf'
 end

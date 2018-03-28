@@ -5,7 +5,6 @@ cask 'dafont-thepulse' do
     url 'http://dl.dafont.com/dl/?f=thepulse'
     name 'The Pulse'
     homepage 'http://www.dafont.com/thepulse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThePulse.ttf'
 end

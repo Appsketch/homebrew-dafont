@@ -5,7 +5,6 @@ cask 'dafont-risestarhand' do
     url 'http://dl.dafont.com/dl/?f=risestarhand'
     name 'Rise Star Hand'
     homepage 'http://www.dafont.com/risestarhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RiseStarHandRegular.ttf'
 end

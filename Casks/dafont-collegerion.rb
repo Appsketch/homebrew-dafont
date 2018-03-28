@@ -5,7 +5,6 @@ cask 'dafont-collegerion' do
     url 'http://dl.dafont.com/dl/?f=collegerion'
     name 'Collegerion'
     homepage 'http://www.dafont.com/collegerion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Collegier.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cgf-arch-reactor' do
     url 'http://dl.dafont.com/dl/?f=cgf_arch_reactor'
     name 'CGF Arch Reactor'
     homepage 'http://www.dafont.com/cgf-arch-reactor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CGF Arch Reactor.ttf'
 end

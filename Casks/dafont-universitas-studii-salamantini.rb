@@ -5,7 +5,6 @@ cask 'dafont-universitas-studii-salamantini' do
     url 'http://dl.dafont.com/dl/?f=universitas_studii_salamantini'
     name 'Universitas Studii Salamantini'
     homepage 'http://www.dafont.com/universitas-studii-salamantini.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Universitas_Studii_Salamantini.ttf'
 end

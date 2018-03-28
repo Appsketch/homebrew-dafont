@@ -5,7 +5,6 @@ cask 'dafont-extra-grotesque' do
     url 'http://dl.dafont.com/dl/?f=extra_grotesque'
     name 'Extra Grotesque'
     homepage 'http://www.dafont.com/extra-grotesque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extra Grotesque.ttf'
 end

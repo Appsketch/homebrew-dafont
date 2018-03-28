@@ -5,7 +5,6 @@ cask 'dafont-bad-paintjob' do
     url 'http://dl.dafont.com/dl/?f=bad_paintjob'
     name 'Bad Paintjob'
     homepage 'http://www.dafont.com/bad-paintjob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BadPaintjob.ttf'
 end

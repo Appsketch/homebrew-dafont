@@ -5,7 +5,6 @@ cask 'dafont-feisar' do
     url 'http://dl.dafont.com/dl/?f=feisar'
     name 'Feisar'
     homepage 'http://www.dafont.com/feisar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Feisar.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-schablona-dirt' do
     url 'http://dl.dafont.com/dl/?f=schablona_dirt'
     name 'Schablona Dirt'
     homepage 'http://www.dafont.com/schablona-dirt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCHABLONA_DIRT.ttf'
 end

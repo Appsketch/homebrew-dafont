@@ -5,7 +5,6 @@ cask 'dafont-push-the-button' do
     url 'http://dl.dafont.com/dl/?f=push_the_button'
     name 'Push The Button'
     homepage 'http://www.dafont.com/push-the-button.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PUSH THE BUTTON.ttf'
 end

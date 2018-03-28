@@ -5,7 +5,6 @@ cask 'dafont-ka-boing' do
     url 'http://dl.dafont.com/dl/?f=ka_boing'
     name 'Ka-Boing!'
     homepage 'http://www.dafont.com/ka-boing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ka-Boing!.ttf'
 end

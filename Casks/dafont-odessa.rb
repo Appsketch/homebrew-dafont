@@ -5,7 +5,6 @@ cask 'dafont-odessa' do
     url 'http://dl.dafont.com/dl/?f=odessa'
     name 'Odessa'
     homepage 'http://www.dafont.com/odessa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'odessa.ttf'
 end

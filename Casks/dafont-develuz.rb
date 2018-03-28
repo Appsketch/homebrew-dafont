@@ -5,7 +5,6 @@ cask 'dafont-develuz' do
     url 'http://dl.dafont.com/dl/?f=develuz'
     name 'Develuz'
     homepage 'http://www.dafont.com/develuz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Develuz.ttf'
 end

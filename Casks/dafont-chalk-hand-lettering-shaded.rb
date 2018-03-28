@@ -5,7 +5,6 @@ cask 'dafont-chalk-hand-lettering-shaded' do
     url 'http://dl.dafont.com/dl/?f=chalk_hand_lettering_shaded'
     name 'Chalk Hand Lettering Shaded'
     homepage 'http://www.dafont.com/chalk-hand-lettering-shaded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chalk-hand-lettering-shaded_demo.ttf'
 end

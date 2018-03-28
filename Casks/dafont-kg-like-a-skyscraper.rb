@@ -5,7 +5,6 @@ cask 'dafont-kg-like-a-skyscraper' do
     url 'http://dl.dafont.com/dl/?f=kg_like_a_skyscraper'
     name 'KG Like A Skyscraper'
     homepage 'http://www.dafont.com/kg-like-a-skyscraper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGLikeASkyscraper.ttf'
     font 'KGLikeASkyscraperBold.ttf'

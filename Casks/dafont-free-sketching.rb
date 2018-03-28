@@ -5,7 +5,6 @@ cask 'dafont-free-sketching' do
     url 'http://dl.dafont.com/dl/?f=free_sketching'
     name 'Free Sketching'
     homepage 'http://www.dafont.com/free-sketching.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreeSketching_free-demo.ttf'
 end

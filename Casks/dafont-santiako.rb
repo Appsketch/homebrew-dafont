@@ -5,7 +5,6 @@ cask 'dafont-santiako' do
     url 'http://dl.dafont.com/dl/?f=santiako'
     name 'Santiako'
     homepage 'http://www.dafont.com/santiako.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Santiako2.ttf'
 end

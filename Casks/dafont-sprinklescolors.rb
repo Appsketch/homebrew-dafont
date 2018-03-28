@@ -5,7 +5,6 @@ cask 'dafont-sprinklescolors' do
     url 'http://dl.dafont.com/dl/?f=sprinklescolors'
     name 'Sprinkles Colors'
     homepage 'http://www.dafont.com/sprinklescolors.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sprinklescolors.ttf'
 end

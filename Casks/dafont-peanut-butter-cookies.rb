@@ -5,7 +5,6 @@ cask 'dafont-peanut-butter-cookies' do
     url 'http://dl.dafont.com/dl/?f=peanut_butter_cookies'
     name 'Peanut Butter Cookies'
     homepage 'http://www.dafont.com/peanut-butter-cookies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PeanutButterCookies.ttf'
 end

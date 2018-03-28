@@ -5,7 +5,6 @@ cask 'dafont-grumpy-cat' do
     url 'http://dl.dafont.com/dl/?f=grumpy_cat'
     name 'Grumpy Cat'
     homepage 'http://www.dafont.com/grumpy-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grumpy cat.ttf'
 end

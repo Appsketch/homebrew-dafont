@@ -5,7 +5,6 @@ cask 'dafont-empress' do
     url 'http://dl.dafont.com/dl/?f=empress'
     name 'Empress'
     homepage 'http://www.dafont.com/empress.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anderson_Empress_2.ttf'
 end

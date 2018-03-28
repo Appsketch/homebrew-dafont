@@ -5,7 +5,6 @@ cask 'dafont-heavy-metal-rocking' do
     url 'http://dl.dafont.com/dl/?f=heavy_metal_rocking'
     name 'Heavy Metal Rocking'
     homepage 'http://www.dafont.com/heavy-metal-rocking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heavy Metal Rocking.ttf'
 end

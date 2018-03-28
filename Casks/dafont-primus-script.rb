@@ -5,7 +5,6 @@ cask 'dafont-primus-script' do
     url 'http://dl.dafont.com/dl/?f=primus_script'
     name 'Primus Script'
     homepage 'http://www.dafont.com/primus-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'primusscript.ttf'
 end

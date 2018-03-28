@@ -5,7 +5,6 @@ cask 'dafont-gm-friends' do
     url 'http://dl.dafont.com/dl/?f=gm_friends'
     name 'Gregor Miller&#039;s Friends Font'
     homepage 'http://www.dafont.com/gm-friends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Friends.TTF'
 end

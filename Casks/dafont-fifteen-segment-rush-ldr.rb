@@ -5,7 +5,6 @@ cask 'dafont-fifteen-segment-rush-ldr' do
     url 'http://dl.dafont.com/dl/?f=fifteen_segment_rush_ldr'
     name 'Fifteen Segment Rush LDR'
     homepage 'http://www.dafont.com/fifteen-segment-rush-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fifteen_segment_rush_mono_ldr.ttf'
     font 'fifteen_segment_rush_regular_ldr.ttf'

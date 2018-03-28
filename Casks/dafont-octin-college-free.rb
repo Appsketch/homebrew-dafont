@@ -5,7 +5,6 @@ cask 'dafont-octin-college-free' do
     url 'http://dl.dafont.com/dl/?f=octin_college_free'
     name 'Octin College Free'
     homepage 'http://www.dafont.com/octin-college-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'octin college rg.ttf'
 end

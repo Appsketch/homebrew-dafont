@@ -5,7 +5,6 @@ cask 'dafont-rns-bobo-dylan' do
     url 'http://dl.dafont.com/dl/?f=rns_bobo_dylan'
     name 'RNS Bobo Dylan'
     homepage 'http://www.dafont.com/rns-bobo-dylan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rns_Bobo_Dylan.otf'
 end

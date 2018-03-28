@@ -5,7 +5,6 @@ cask 'dafont-donaldo-regrecka' do
     url 'http://dl.dafont.com/dl/?f=donaldo_regrecka'
     name 'Donaldo Regrecka'
     homepage 'http://www.dafont.com/donaldo-regrecka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Donaldo Regrecka.ttf'
 end

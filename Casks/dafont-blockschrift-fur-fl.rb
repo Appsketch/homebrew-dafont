@@ -5,7 +5,6 @@ cask 'dafont-blockschrift-fur-fl' do
     url 'http://dl.dafont.com/dl/?f=blockschrift_fur_fl'
     name 'Blockschrift f&uuml;r Flugzeuge'
     homepage 'http://www.dafont.com/blockschrift-fur-fl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blockschrift fr Flugzeuge.ttf'
 end

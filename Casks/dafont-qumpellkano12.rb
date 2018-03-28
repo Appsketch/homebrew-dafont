@@ -5,7 +5,6 @@ cask 'dafont-qumpellkano12' do
     url 'http://dl.dafont.com/dl/?f=qumpellkano12'
     name 'QumpellkaNo12'
     homepage 'http://www.dafont.com/qumpellkano12.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QumpellkaNo12.otf'
 end

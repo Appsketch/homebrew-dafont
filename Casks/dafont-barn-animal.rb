@@ -5,7 +5,6 @@ cask 'dafont-barn-animal' do
     url 'http://dl.dafont.com/dl/?f=barn_animal'
     name 'Barn Animal'
     homepage 'http://www.dafont.com/barn-animal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barn Animal.ttf'
 end

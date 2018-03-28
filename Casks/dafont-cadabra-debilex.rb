@@ -5,7 +5,6 @@ cask 'dafont-cadabra-debilex' do
     url 'http://dl.dafont.com/dl/?f=cadabra_debilex'
     name 'Cadabra Debilex'
     homepage 'http://www.dafont.com/cadabra-debilex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cadabra DEBILEX.ttf'
 end

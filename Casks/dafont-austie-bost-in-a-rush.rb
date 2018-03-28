@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-in-a-rush' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_in_a_rush'
     name 'Austie Bost In a Rush'
     homepage 'http://www.dafont.com/austie-bost-in-a-rush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost In a Rush.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-odd-weight' do
     url 'http://dl.dafont.com/dl/?f=odd_weight'
     name 'Odd Weight'
     homepage 'http://www.dafont.com/odd-weight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Odd weight.ttf'
 end

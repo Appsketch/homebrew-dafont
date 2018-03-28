@@ -5,7 +5,6 @@ cask 'dafont-anime' do
     url 'http://dl.dafont.com/dl/?f=anime'
     name 'Anime'
     homepage 'http://www.dafont.com/anime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anime Font.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-middlecase' do
     url 'http://dl.dafont.com/dl/?f=middlecase'
     name 'Middlecase'
     homepage 'http://www.dafont.com/middlecase.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MidCase BlackLine.otf'
     font 'MidCase BlackSolid.otf'

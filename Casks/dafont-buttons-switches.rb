@@ -5,7 +5,6 @@ cask 'dafont-buttons-switches' do
     url 'http://dl.dafont.com/dl/?f=buttons_switches'
     name 'Buttons and Switches'
     homepage 'http://www.dafont.com/buttons-switches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BTNSWTCH.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nfl-afc' do
     url 'http://dl.dafont.com/dl/?f=nfl_afc'
     name 'NFL AFC'
     homepage 'http://www.dafont.com/nfl-afc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NFL AFC.ttf'
 end

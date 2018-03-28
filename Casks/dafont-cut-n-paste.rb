@@ -5,7 +5,6 @@ cask 'dafont-cut-n-paste' do
     url 'http://dl.dafont.com/dl/?f=cut_n_paste'
     name 'Cut N Paste'
     homepage 'http://www.dafont.com/cut-n-paste.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cut n paste.ttf'
 end

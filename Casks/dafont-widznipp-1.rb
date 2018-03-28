@@ -5,7 +5,6 @@ cask 'dafont-widznipp-1' do
     url 'http://dl.dafont.com/dl/?f=widznipp_1'
     name 'Widznipp 1'
     homepage 'http://www.dafont.com/widznipp-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'widjana_vintage.TTF'
 end

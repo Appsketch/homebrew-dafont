@@ -5,7 +5,6 @@ cask 'dafont-juliana' do
     url 'http://dl.dafont.com/dl/?f=juliana'
     name 'Juliana'
     homepage 'http://www.dafont.com/juliana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JULIL___.TTF'
     font 'JULIRG__.TTF'

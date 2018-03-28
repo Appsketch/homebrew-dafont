@@ -5,7 +5,6 @@ cask 'dafont-tenfresh' do
     url 'http://dl.dafont.com/dl/?f=tenfresh'
     name 'Ten Fresh'
     homepage 'http://www.dafont.com/tenfresh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TenFresh.ttf'
 end

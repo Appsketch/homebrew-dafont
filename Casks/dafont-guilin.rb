@@ -5,7 +5,6 @@ cask 'dafont-guilin' do
     url 'http://dl.dafont.com/dl/?f=guilin'
     name 'Guilin'
     homepage 'http://www.dafont.com/guilin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'guilin_emboss.ttf'
     font 'guilin_shad2.ttf'

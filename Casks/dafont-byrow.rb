@@ -5,7 +5,6 @@ cask 'dafont-byrow' do
     url 'http://dl.dafont.com/dl/?f=byrow'
     name 'Byrow'
     homepage 'http://www.dafont.com/byrow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Byrow.otf'
 end

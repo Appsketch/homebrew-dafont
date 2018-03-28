@@ -5,7 +5,6 @@ cask 'dafont-pablo-narrow' do
     url 'http://dl.dafont.com/dl/?f=pablo_narrow'
     name 'Pablo Narrow'
     homepage 'http://www.dafont.com/pablo-narrow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pablo-NormalNarrowItalic .ttf'
 end

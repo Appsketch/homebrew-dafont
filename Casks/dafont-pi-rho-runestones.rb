@@ -5,7 +5,6 @@ cask 'dafont-pi-rho-runestones' do
     url 'http://dl.dafont.com/dl/?f=pi_rho_runestones'
     name 'Pi Rho Runestones'
     homepage 'http://www.dafont.com/pi-rho-runestones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RNSTONE.TTF'
 end

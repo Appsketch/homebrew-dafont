@@ -5,7 +5,6 @@ cask 'dafont-lakestreet' do
     url 'http://dl.dafont.com/dl/?f=lakestreet'
     name 'Lakestreet'
     homepage 'http://www.dafont.com/lakestreet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LAKERG__.TTF'
 end

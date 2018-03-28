@@ -5,7 +5,6 @@ cask 'dafont-kr-all-sport' do
     url 'http://dl.dafont.com/dl/?f=kr_all_sport'
     name 'KR All Sport'
     homepage 'http://www.dafont.com/kr-all-sport.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR All Sport.ttf'
 end

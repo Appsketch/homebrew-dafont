@@ -5,7 +5,6 @@ cask 'dafont-da-sei-nei' do
     url 'http://dl.dafont.com/dl/?f=da_sei_nei'
     name 'Da Sei Nei!'
     homepage 'http://www.dafont.com/da-sei-nei.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Da Sei Nei.ttf'
 end

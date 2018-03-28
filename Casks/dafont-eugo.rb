@@ -5,7 +5,6 @@ cask 'dafont-eugo' do
     url 'http://dl.dafont.com/dl/?f=eugo'
     name 'Eugo'
     homepage 'http://www.dafont.com/eugo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eugo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-geometric-serif-pw' do
     url 'http://dl.dafont.com/dl/?f=geometric_serif_pw'
     name 'Geometric Serif PW'
     homepage 'http://www.dafont.com/geometric-serif-pw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GeometricSerif.ttf'
 end

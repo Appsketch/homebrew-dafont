@@ -5,7 +5,6 @@ cask 'dafont-chremsel-serif' do
     url 'http://dl.dafont.com/dl/?f=chremsel_serif'
     name 'Chremsel Serif'
     homepage 'http://www.dafont.com/chremsel-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font ' Chremsel Serif.otf'
     font 'Chremsel Serif-Regular.otf'

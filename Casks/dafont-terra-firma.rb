@@ -5,7 +5,6 @@ cask 'dafont-terra-firma' do
     url 'http://dl.dafont.com/dl/?f=terra_firma'
     name 'Terra Firma'
     homepage 'http://www.dafont.com/terra-firma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'terrafirma.ttf'
     font 'terrafirma3d.ttf'

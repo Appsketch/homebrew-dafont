@@ -5,7 +5,6 @@ cask 'dafont-needlework-us' do
     url 'http://dl.dafont.com/dl/?f=needlework_us'
     name 'Needlework US'
     homepage 'http://www.dafont.com/needlework-us.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Needlework US.ttf'
 end

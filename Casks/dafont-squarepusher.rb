@@ -5,7 +5,6 @@ cask 'dafont-squarepusher' do
     url 'http://dl.dafont.com/dl/?f=squarepusher'
     name '[.squarepusher.]'
     homepage 'http://www.dafont.com/squarepusher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spv2.TTF'
     font 'spv3.TTF'

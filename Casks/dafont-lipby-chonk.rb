@@ -5,7 +5,6 @@ cask 'dafont-lipby-chonk' do
     url 'http://dl.dafont.com/dl/?f=lipby_chonk'
     name 'Lipby Chonk'
     homepage 'http://www.dafont.com/lipby-chonk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LipbyChonk.ttf'
     font 'LipbyChonkAlias.ttf'

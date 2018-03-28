@@ -5,7 +5,6 @@ cask 'dafont-mburnette' do
     url 'http://dl.dafont.com/dl/?f=mburnette'
     name 'MBurnette'
     homepage 'http://www.dafont.com/mburnette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MBurnette.ttf'
 end

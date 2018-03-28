@@ -5,7 +5,6 @@ cask 'dafont-post-it-penscript' do
     url 'http://dl.dafont.com/dl/?f=post_it_penscript'
     name 'Post-it Penscript'
     homepage 'http://www.dafont.com/post-it-penscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Postit-Penscript.otf'
 end

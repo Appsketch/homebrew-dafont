@@ -5,7 +5,6 @@ cask 'dafont-isl-fade-to-blak' do
     url 'http://dl.dafont.com/dl/?f=isl_fade_to_blak'
     name 'ISL Fade to Blak'
     homepage 'http://www.dafont.com/isl-fade-to-blak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ftb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-suco-de-laranja' do
     url 'http://dl.dafont.com/dl/?f=dk_suco_de_laranja'
     name 'DK Suco De Laranja'
     homepage 'http://www.dafont.com/dk-suco-de-laranja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Suco De Laranja.otf'
 end

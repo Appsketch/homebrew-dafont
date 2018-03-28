@@ -5,7 +5,6 @@ cask 'dafont-celebrater' do
     url 'http://dl.dafont.com/dl/?f=celebrater'
     name 'Celebrater'
     homepage 'http://www.dafont.com/celebrater.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Celebrater_Personal_Use_Demo.ttf'
 end

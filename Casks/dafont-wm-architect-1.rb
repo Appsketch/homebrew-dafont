@@ -5,7 +5,6 @@ cask 'dafont-wm-architect-1' do
     url 'http://dl.dafont.com/dl/?f=wm_architect_1'
     name 'WM Architect 1'
     homepage 'http://www.dafont.com/wm-architect-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmarchitect1.TTF'
 end

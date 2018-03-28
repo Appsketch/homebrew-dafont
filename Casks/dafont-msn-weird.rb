@@ -5,7 +5,6 @@ cask 'dafont-msn-weird' do
     url 'http://dl.dafont.com/dl/?f=msn_weird'
     name 'Msn Weird'
     homepage 'http://www.dafont.com/msn-weird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Msn_Weird_Font.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blinger' do
     url 'http://dl.dafont.com/dl/?f=blinger'
     name 'Blinger'
     homepage 'http://www.dafont.com/blinger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blinger.ttf'
 end

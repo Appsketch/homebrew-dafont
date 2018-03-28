@@ -5,7 +5,6 @@ cask 'dafont-5microchip-nowhere' do
     url 'http://dl.dafont.com/dl/?f=5microchip_nowhere'
     name '5Microchip Nowhere'
     homepage 'http://www.dafont.com/5microchip-nowhere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5microchip_nowhere.ttf'
 end

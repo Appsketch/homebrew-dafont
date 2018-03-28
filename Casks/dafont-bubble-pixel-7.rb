@@ -5,7 +5,6 @@ cask 'dafont-bubble-pixel-7' do
     url 'http://dl.dafont.com/dl/?f=bubble_pixel_7'
     name 'Bubble Pixel-7'
     homepage 'http://www.dafont.com/bubble-pixel-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bubble_pixel-7_bead.ttf'
     font 'bubble_pixel-7_dark.ttf'

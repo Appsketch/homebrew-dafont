@@ -5,7 +5,6 @@ cask 'dafont-cranberry-gin' do
     url 'http://dl.dafont.com/dl/?f=cranberry_gin'
     name 'Cranberry Gin'
     homepage 'http://www.dafont.com/cranberry-gin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cranberry gin.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-big-ella' do
     url 'http://dl.dafont.com/dl/?f=big_ella'
     name 'Big Ella'
     homepage 'http://www.dafont.com/big-ella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigElla.ttf'
 end

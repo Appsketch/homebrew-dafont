@@ -5,7 +5,6 @@ cask 'dafont-ks-brush' do
     url 'http://dl.dafont.com/dl/?f=ks_brush'
     name 'Ks.Brush'
     homepage 'http://www.dafont.com/ks-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ksbrush.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jomblo-ngenes' do
     url 'http://dl.dafont.com/dl/?f=jomblo_ngenes'
     name 'Jomblo Ngenes'
     homepage 'http://www.dafont.com/jomblo-ngenes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jomblo Ngenes Bold.ttf'
     font 'Jomblo Ngenes.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-st-charles' do
     url 'http://dl.dafont.com/dl/?f=st_charles'
     name 'St Charles'
     homepage 'http://www.dafont.com/st-charles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STCHARLE.TTF'
     font 'Stchd___.ttf'

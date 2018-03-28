@@ -5,7 +5,6 @@ cask 'dafont-kingthings-serifique' do
     url 'http://dl.dafont.com/dl/?f=kingthings_serifique'
     name 'Kingthings Serifique'
     homepage 'http://www.dafont.com/kingthings-serifique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Serifique Light.ttf'
     font 'Kingthings Serifique UL Wide.ttf'

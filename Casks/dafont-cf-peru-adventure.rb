@@ -5,7 +5,6 @@ cask 'dafont-cf-peru-adventure' do
     url 'http://dl.dafont.com/dl/?f=cf_peru_adventure'
     name 'CF Peru Adventure'
     homepage 'http://www.dafont.com/cf-peru-adventure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFPeruAdventure-Regular.ttf'
 end

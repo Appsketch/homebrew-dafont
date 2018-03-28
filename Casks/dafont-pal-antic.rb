@@ -5,7 +5,6 @@ cask 'dafont-pal-antic' do
     url 'http://dl.dafont.com/dl/?f=pal_antic'
     name 'Pal Antic'
     homepage 'http://www.dafont.com/pal-antic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pal Antic.ttf'
 end

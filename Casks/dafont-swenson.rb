@@ -5,7 +5,6 @@ cask 'dafont-swenson' do
     url 'http://dl.dafont.com/dl/?f=swenson'
     name 'Swenson'
     homepage 'http://www.dafont.com/swenson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SWENSON.TTF'
 end

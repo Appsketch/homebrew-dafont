@@ -5,7 +5,6 @@ cask 'dafont-gothicville' do
     url 'http://dl.dafont.com/dl/?f=gothicville'
     name 'GothicVille'
     homepage 'http://www.dafont.com/gothicville.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GothicVille font.ttf'
 end

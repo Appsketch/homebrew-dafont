@@ -5,7 +5,6 @@ cask 'dafont-horrorfind-horrorma' do
     url 'http://dl.dafont.com/dl/?f=horrorfind_horrorma'
     name 'Horrorfind + Horrormaster'
     homepage 'http://www.dafont.com/horrorfind-horrorma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Horrorfind.ttf'
     font 'Horrormaster.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-extros-backstage' do
     url 'http://dl.dafont.com/dl/?f=extros_backstage'
     name 'Extros Backstage'
     homepage 'http://www.dafont.com/extros-backstage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extros Backstage.ttf'
 end

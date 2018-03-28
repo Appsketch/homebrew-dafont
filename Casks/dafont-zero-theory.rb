@@ -5,7 +5,6 @@ cask 'dafont-zero-theory' do
     url 'http://dl.dafont.com/dl/?f=zero_theory'
     name 'Zero Theory'
     homepage 'http://www.dafont.com/zero-theory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zero-Theory.ttf'
 end

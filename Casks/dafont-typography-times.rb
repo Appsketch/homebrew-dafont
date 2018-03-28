@@ -5,7 +5,6 @@ cask 'dafont-typography-times' do
     url 'http://dl.dafont.com/dl/?f=typography_times'
     name 'Typography Times'
     homepage 'http://www.dafont.com/typography-times.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typography Times Bold Italic.ttf'
     font 'Typography Times Bold.ttf'

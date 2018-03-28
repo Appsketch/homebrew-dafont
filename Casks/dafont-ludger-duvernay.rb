@@ -5,7 +5,6 @@ cask 'dafont-ludger-duvernay' do
     url 'http://dl.dafont.com/dl/?f=ludger_duvernay'
     name 'Ludger Duvernay'
     homepage 'http://www.dafont.com/ludger-duvernay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LudgerDuvernay.ttf'
 end

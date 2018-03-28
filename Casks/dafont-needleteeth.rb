@@ -5,7 +5,6 @@ cask 'dafont-needleteeth' do
     url 'http://dl.dafont.com/dl/?f=needleteeth'
     name 'Needleteeth'
     homepage 'http://www.dafont.com/needleteeth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Needleteeth Creepy.ttf'
     font 'Needleteeth Psycho.ttf'

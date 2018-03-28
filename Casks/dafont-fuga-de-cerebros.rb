@@ -5,7 +5,6 @@ cask 'dafont-fuga-de-cerebros' do
     url 'http://dl.dafont.com/dl/?f=fuga_de_cerebros'
     name 'Fuga de cerebros'
     homepage 'http://www.dafont.com/fuga-de-cerebros.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fuga de cerebros.ttf'
 end

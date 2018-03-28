@@ -5,7 +5,6 @@ cask 'dafont-konector' do
     url 'http://dl.dafont.com/dl/?f=konector'
     name 'Konector'
     homepage 'http://www.dafont.com/konector.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'konecto1.ttf'
     font 'konecto2.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-beeyourshelf' do
     url 'http://dl.dafont.com/dl/?f=beeyourshelf'
     name 'Bee Your Shelf'
     homepage 'http://www.dafont.com/beeyourshelf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeeYourShelf.ttf'
 end

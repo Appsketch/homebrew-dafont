@@ -5,7 +5,6 @@ cask 'dafont-grimeplex' do
     url 'http://dl.dafont.com/dl/?f=grimeplex'
     name 'Grimeplex'
     homepage 'http://www.dafont.com/grimeplex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grimeplex.ttf'
 end

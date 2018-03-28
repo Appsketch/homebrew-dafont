@@ -5,7 +5,6 @@ cask 'dafont-caritons-tfb' do
     url 'http://dl.dafont.com/dl/?f=caritons_tfb'
     name 'Caritons TFB'
     homepage 'http://www.dafont.com/caritons-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caritons tfb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-veila' do
     url 'http://dl.dafont.com/dl/?f=veila'
     name 'Veila'
     homepage 'http://www.dafont.com/veila.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Veila.ttf'
 end

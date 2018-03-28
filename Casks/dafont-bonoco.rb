@@ -5,7 +5,6 @@ cask 'dafont-bonoco' do
     url 'http://dl.dafont.com/dl/?f=bonoco'
     name 'Bonoco'
     homepage 'http://www.dafont.com/bonoco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonoc.ttf'
 end

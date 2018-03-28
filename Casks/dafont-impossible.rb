@@ -5,7 +5,6 @@ cask 'dafont-impossible' do
     url 'http://dl.dafont.com/dl/?f=impossible'
     name 'Impossible'
     homepage 'http://www.dafont.com/impossible.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IMPOS-30.ttf'
     font 'IMPOS+30.ttf'

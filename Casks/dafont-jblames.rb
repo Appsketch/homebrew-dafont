@@ -5,7 +5,6 @@ cask 'dafont-jblames' do
     url 'http://dl.dafont.com/dl/?f=jblames'
     name 'JB Lames'
     homepage 'http://www.dafont.com/jblames.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JBLames-Regular.ttf'
 end

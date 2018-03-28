@@ -5,7 +5,6 @@ cask 'dafont-kakawate-font' do
     url 'http://dl.dafont.com/dl/?f=kakawate_font'
     name 'Kakawate'
     homepage 'http://www.dafont.com/kakawate-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KakawateFont.ttf'
 end

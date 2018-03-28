@@ -5,7 +5,6 @@ cask 'dafont-naive-ornaments-free' do
     url 'http://dl.dafont.com/dl/?f=naive_ornaments_free'
     name 'Naive Ornaments'
     homepage 'http://www.dafont.com/naive-ornaments-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Naive Ornaments Free.ttf'
 end

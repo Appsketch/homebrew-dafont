@@ -5,7 +5,6 @@ cask 'dafont-kings-butcher' do
     url 'http://dl.dafont.com/dl/?f=kings_butcher'
     name 'Kings Butcher'
     homepage 'http://www.dafont.com/kings-butcher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KingsButcher-Regular.ttf'
 end

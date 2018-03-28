@@ -5,7 +5,6 @@ cask 'dafont-nisaba' do
     url 'http://dl.dafont.com/dl/?f=nisaba'
     name 'Nisaba'
     homepage 'http://www.dafont.com/nisaba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nisaba.ttf'
 end

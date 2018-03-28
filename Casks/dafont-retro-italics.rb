@@ -5,7 +5,6 @@ cask 'dafont-retro-italics' do
     url 'http://dl.dafont.com/dl/?f=retro_italics'
     name 'Retro Italics'
     homepage 'http://www.dafont.com/retro-italics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'retroitalics.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kablooie' do
     url 'http://dl.dafont.com/dl/?f=kablooie'
     name 'KaBlooie!'
     homepage 'http://www.dafont.com/kablooie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KABLOOIE.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-caro2' do
     url 'http://dl.dafont.com/dl/?f=caro2'
     name 'Caro'
     homepage 'http://www.dafont.com/caro2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CARO.ttf'
 end

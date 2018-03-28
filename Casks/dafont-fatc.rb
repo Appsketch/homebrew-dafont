@@ -5,7 +5,6 @@ cask 'dafont-fatc' do
     url 'http://dl.dafont.com/dl/?f=fatc'
     name 'FatC'
     homepage 'http://www.dafont.com/fatc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FatC.ttf'
 end

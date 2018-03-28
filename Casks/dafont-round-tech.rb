@@ -5,7 +5,6 @@ cask 'dafont-round-tech' do
     url 'http://dl.dafont.com/dl/?f=round_tech'
     name 'Round Tech'
     homepage 'http://www.dafont.com/round-tech.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'round_tech.ttf'
 end

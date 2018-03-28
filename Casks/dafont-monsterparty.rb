@@ -5,7 +5,6 @@ cask 'dafont-monsterparty' do
     url 'http://dl.dafont.com/dl/?f=monsterparty'
     name 'Monster Party'
     homepage 'http://www.dafont.com/monsterparty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MONSP___.TTF'
 end

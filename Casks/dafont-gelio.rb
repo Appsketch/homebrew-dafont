@@ -5,7 +5,6 @@ cask 'dafont-gelio' do
     url 'http://dl.dafont.com/dl/?f=gelio'
     name 'Gelio  '
     homepage 'http://www.dafont.com/gelio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gelio Fasolada.ttf'
     font 'Gelio Greek Diner.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-bidan' do
     url 'http://dl.dafont.com/dl/?f=bidan'
     name 'Bidan'
     homepage 'http://www.dafont.com/bidan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bidan Bold Italic.otf'
     font 'Bidan Bold.otf'

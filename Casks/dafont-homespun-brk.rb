@@ -5,7 +5,6 @@ cask 'dafont-homespun-brk' do
     url 'http://dl.dafont.com/dl/?f=homespun_brk'
     name 'Homespun BRK'
     homepage 'http://www.dafont.com/homespun-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'homespun.ttf'
 end

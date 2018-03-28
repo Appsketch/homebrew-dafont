@@ -5,7 +5,6 @@ cask 'dafont-workout-routine' do
     url 'http://dl.dafont.com/dl/?f=workout_routine'
     name 'Workout Routine'
     homepage 'http://www.dafont.com/workout-routine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Workout Routine.ttf'
 end

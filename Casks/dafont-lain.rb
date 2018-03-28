@@ -5,7 +5,6 @@ cask 'dafont-lain' do
     url 'http://dl.dafont.com/dl/?f=lain'
     name 'Lain'
     homepage 'http://www.dafont.com/lain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LAIN.ttf'
 end

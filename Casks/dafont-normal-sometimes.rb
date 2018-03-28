@@ -5,7 +5,6 @@ cask 'dafont-normal-sometimes' do
     url 'http://dl.dafont.com/dl/?f=normal_sometimes'
     name 'Normal Sometimes'
     homepage 'http://www.dafont.com/normal-sometimes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NormalSometimes-Regular.otf'
 end

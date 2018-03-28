@@ -5,7 +5,6 @@ cask 'dafont-waters-gothic' do
     url 'http://dl.dafont.com/dl/?f=waters_gothic'
     name 'Waters Gothic'
     homepage 'http://www.dafont.com/waters-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WatGoth1.ttf'
 end

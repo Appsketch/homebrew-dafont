@@ -5,7 +5,6 @@ cask 'dafont-vigilante-sidekick' do
     url 'http://dl.dafont.com/dl/?f=vigilante_sidekick'
     name 'Vigilante Sidekick'
     homepage 'http://www.dafont.com/vigilante-sidekick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'side_k_bold.ttf'
     font 'side_k_ita.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-metalcrime' do
     url 'http://dl.dafont.com/dl/?f=metalcrime'
     name 'Metal Crime'
     homepage 'http://www.dafont.com/metalcrime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MetalCrime.ttf'
 end

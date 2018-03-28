@@ -5,7 +5,6 @@ cask 'dafont-m42flight721' do
     url 'http://dl.dafont.com/dl/?f=m42flight721'
     name 'M42 Flight 721'
     homepage 'http://www.dafont.com/m42flight721.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'm42.TTF'
 end

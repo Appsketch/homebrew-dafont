@@ -5,7 +5,6 @@ cask 'dafont-replicant' do
     url 'http://dl.dafont.com/dl/?f=replicant'
     name 'Replicant'
     homepage 'http://www.dafont.com/replicant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'replicant.ttf'
     font 'replicant3d.ttf'

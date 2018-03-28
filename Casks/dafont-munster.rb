@@ -5,7 +5,6 @@ cask 'dafont-munster' do
     url 'http://dl.dafont.com/dl/?f=munster'
     name 'Munster'
     homepage 'http://www.dafont.com/munster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Munster.ttf'
 end

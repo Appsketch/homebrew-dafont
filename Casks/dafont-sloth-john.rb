@@ -5,7 +5,6 @@ cask 'dafont-sloth-john' do
     url 'http://dl.dafont.com/dl/?f=sloth_john'
     name 'Sloth'
     homepage 'http://www.dafont.com/sloth-john.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sloth.ttf'
 end

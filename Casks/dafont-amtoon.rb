@@ -5,7 +5,6 @@ cask 'dafont-amtoon' do
     url 'http://dl.dafont.com/dl/?f=amtoon'
     name 'AM Toon'
     homepage 'http://www.dafont.com/amtoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhimseyToon.ttf'
 end

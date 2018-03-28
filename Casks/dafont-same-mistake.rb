@@ -5,7 +5,6 @@ cask 'dafont-same-mistake' do
     url 'http://dl.dafont.com/dl/?f=same_mistake'
     name 'Same Mistake'
     homepage 'http://www.dafont.com/same-mistake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Same_Mistake - Kopie.ttf'
 end

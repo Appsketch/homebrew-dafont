@@ -5,7 +5,6 @@ cask 'dafont-konquer' do
     url 'http://dl.dafont.com/dl/?f=konquer'
     name 'Konquer'
     homepage 'http://www.dafont.com/konquer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'konquer-Regular.ttf'
 end

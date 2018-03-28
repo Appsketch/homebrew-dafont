@@ -5,7 +5,6 @@ cask 'dafont-obey-series-1' do
     url 'http://dl.dafont.com/dl/?f=obey_series_1'
     name 'Obey Series 1'
     homepage 'http://www.dafont.com/obey-series-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Obey3D_caps.ttf'
     font 'Obey3DAlt_caps.ttf'

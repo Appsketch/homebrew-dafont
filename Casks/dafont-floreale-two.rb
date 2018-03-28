@@ -5,7 +5,6 @@ cask 'dafont-floreale-two' do
     url 'http://dl.dafont.com/dl/?f=floreale_two'
     name 'Floreale Two'
     homepage 'http://www.dafont.com/floreale-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Floreale Two_.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-irregular-urban' do
     url 'http://dl.dafont.com/dl/?f=irregular_urban'
     name 'Irregular Urban'
     homepage 'http://www.dafont.com/irregular-urban.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Irregular Urban.ttf'
 end

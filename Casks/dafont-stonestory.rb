@@ -5,7 +5,6 @@ cask 'dafont-stonestory' do
     url 'http://dl.dafont.com/dl/?f=stonestory'
     name 'Stone Story'
     homepage 'http://www.dafont.com/stonestory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StoneStoryEBO.ttf'
 end

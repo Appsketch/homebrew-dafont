@@ -5,7 +5,6 @@ cask 'dafont-sweetly-broken' do
     url 'http://dl.dafont.com/dl/?f=sweetly_broken'
     name 'Sweetly Broken'
     homepage 'http://www.dafont.com/sweetly-broken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sweetly Broken Bold.ttf'
     font 'Sweetly Broken SemiBold.ttf'

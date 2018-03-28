@@ -5,7 +5,6 @@ cask 'dafont-software-kit-7' do
     url 'http://dl.dafont.com/dl/?f=software_kit_7'
     name 'Software Kit 7'
     homepage 'http://www.dafont.com/software-kit-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'software_kit_7.ttf'
 end

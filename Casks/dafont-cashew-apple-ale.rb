@@ -5,7 +5,6 @@ cask 'dafont-cashew-apple-ale' do
     url 'http://dl.dafont.com/dl/?f=cashew_apple_ale'
     name 'Cashew Apple Ale'
     homepage 'http://www.dafont.com/cashew-apple-ale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cashew Apple Ale Bold.ttf'
     font 'Cashew Apple Ale.ttf'

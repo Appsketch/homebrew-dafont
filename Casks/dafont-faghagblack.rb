@@ -5,7 +5,6 @@ cask 'dafont-faghagblack' do
     url 'http://dl.dafont.com/dl/?f=faghagblack'
     name 'Fag Hag Black'
     homepage 'http://www.dafont.com/faghagblack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FagHagBlack2.otf'
 end

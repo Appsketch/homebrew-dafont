@@ -5,7 +5,6 @@ cask 'dafont-the-glitch-mob' do
     url 'http://dl.dafont.com/dl/?f=the_glitch_mob'
     name 'The Glitch Mob'
     homepage 'http://www.dafont.com/the-glitch-mob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THE_GLITCH_MOB.ttf'
 end

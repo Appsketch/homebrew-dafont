@@ -5,7 +5,6 @@ cask 'dafont-twerkingnasty' do
     url 'http://dl.dafont.com/dl/?f=twerkingnasty'
     name 'Twerking Nasty'
     homepage 'http://www.dafont.com/twerkingnasty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TwerkingNasty.ttf'
 end

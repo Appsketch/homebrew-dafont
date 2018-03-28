@@ -5,7 +5,6 @@ cask 'dafont-kg-piece-by-piece' do
     url 'http://dl.dafont.com/dl/?f=kg_piece_by_piece'
     name 'KG Piece by Piece'
     homepage 'http://www.dafont.com/kg-piece-by-piece.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGPiecebyPiece.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-outline-pixel-7' do
     url 'http://dl.dafont.com/dl/?f=outline_pixel_7'
     name 'Outline Pixel 7'
     homepage 'http://www.dafont.com/outline-pixel-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'outline_pixel-7_solid.ttf'
     font 'outline_pixel-7.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-rough-script' do
     url 'http://dl.dafont.com/dl/?f=rough_script'
     name 'Rough Script'
     homepage 'http://www.dafont.com/rough-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rough Script.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kingthings-trypewriter' do
     url 'http://dl.dafont.com/dl/?f=kingthings_trypewriter'
     name 'Kingthings Trypewriter'
     homepage 'http://www.dafont.com/kingthings-trypewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Trypewriter 2.ttf'
 end

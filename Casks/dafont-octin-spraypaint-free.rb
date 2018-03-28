@@ -5,7 +5,6 @@ cask 'dafont-octin-spraypaint-free' do
     url 'http://dl.dafont.com/dl/?f=octin_spraypaint_free'
     name 'Octin Spraypaint Free'
     homepage 'http://www.dafont.com/octin-spraypaint-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'octin spraypaint a rg.ttf'
 end

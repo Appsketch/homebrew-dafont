@@ -5,7 +5,6 @@ cask 'dafont-freeze' do
     url 'http://dl.dafont.com/dl/?f=freeze'
     name 'Freeze'
     homepage 'http://www.dafont.com/freeze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'freeze.ttf'
 end

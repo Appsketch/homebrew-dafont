@@ -5,7 +5,6 @@ cask 'dafont-taylor' do
     url 'http://dl.dafont.com/dl/?f=taylor'
     name 'Taylor'
     homepage 'http://www.dafont.com/taylor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'taylor-Regular.ttf'
     font 'tayloritalic-Regular.ttf'

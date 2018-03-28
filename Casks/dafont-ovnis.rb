@@ -5,7 +5,6 @@ cask 'dafont-ovnis' do
     url 'http://dl.dafont.com/dl/?f=ovnis'
     name 'Ovnis'
     homepage 'http://www.dafont.com/ovnis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ovnis.ttf'
 end

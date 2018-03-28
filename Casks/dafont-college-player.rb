@@ -5,7 +5,6 @@ cask 'dafont-college-player' do
     url 'http://dl.dafont.com/dl/?f=college_player'
     name 'College Player'
     homepage 'http://www.dafont.com/college-player.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'College Player_demo.otf'
 end

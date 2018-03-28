@@ -5,7 +5,6 @@ cask 'dafont-scorchflash' do
     url 'http://dl.dafont.com/dl/?f=scorchflash'
     name 'Scorch Flash'
     homepage 'http://www.dafont.com/scorchflash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scochflashfont.ttf'
 end

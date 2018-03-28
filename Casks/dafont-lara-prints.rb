@@ -5,7 +5,6 @@ cask 'dafont-lara-prints' do
     url 'http://dl.dafont.com/dl/?f=lara_prints'
     name 'Lara Prints'
     homepage 'http://www.dafont.com/lara-prints.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lara Prints.ttf'
 end

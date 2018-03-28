@@ -5,7 +5,6 @@ cask 'dafont-akhenaton' do
     url 'http://dl.dafont.com/dl/?f=akhenaton'
     name 'Akhenaton'
     homepage 'http://www.dafont.com/akhenaton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Akhenaton.ttf'
 end

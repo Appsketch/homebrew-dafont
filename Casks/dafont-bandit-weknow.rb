@@ -5,7 +5,6 @@ cask 'dafont-bandit-weknow' do
     url 'http://dl.dafont.com/dl/?f=bandit_weknow'
     name 'Bandit'
     homepage 'http://www.dafont.com/bandit-weknow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BANDIT.ttf'
 end

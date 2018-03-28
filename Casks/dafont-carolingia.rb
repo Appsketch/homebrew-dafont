@@ -5,7 +5,6 @@ cask 'dafont-carolingia' do
     url 'http://dl.dafont.com/dl/?f=carolingia'
     name 'Carolingia'
     homepage 'http://www.dafont.com/carolingia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'carolingia.ttf'
 end

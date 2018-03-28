@@ -5,7 +5,6 @@ cask 'dafont-bdp-birgula' do
     url 'http://dl.dafont.com/dl/?f=bdp_birgula'
     name 'BDP Birgula'
     homepage 'http://www.dafont.com/bdp-birgula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDPBIRGULA.ttf'
 end

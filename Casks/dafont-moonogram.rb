@@ -5,7 +5,6 @@ cask 'dafont-moonogram' do
     url 'http://dl.dafont.com/dl/?f=moonogram'
     name 'Moonogram'
     homepage 'http://www.dafont.com/moonogram.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moonogram.ttf'
 end

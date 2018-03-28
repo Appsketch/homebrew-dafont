@@ -5,7 +5,6 @@ cask 'dafont-tnt-x-plosion' do
     url 'http://dl.dafont.com/dl/?f=tnt_x_plosion'
     name 'TNT X Plosion'
     homepage 'http://www.dafont.com/tnt-x-plosion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TNT X Plosion.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tagdo' do
     url 'http://dl.dafont.com/dl/?f=tagdo'
     name 'TagDo'
     homepage 'http://www.dafont.com/tagdo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tag.ttf'
 end

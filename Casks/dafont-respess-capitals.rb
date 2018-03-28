@@ -5,7 +5,6 @@ cask 'dafont-respess-capitals' do
     url 'http://dl.dafont.com/dl/?f=respess_capitals'
     name 'Respess Capitals'
     homepage 'http://www.dafont.com/respess-capitals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Respess Caps Excessive.ttf'
     font 'Respess Caps Heavy.ttf'

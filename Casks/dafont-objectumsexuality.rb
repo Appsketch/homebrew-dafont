@@ -5,7 +5,6 @@ cask 'dafont-objectumsexuality' do
     url 'http://dl.dafont.com/dl/?f=objectumsexuality'
     name 'Objectum Sexuality'
     homepage 'http://www.dafont.com/objectumsexuality.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ObjectumSexuality.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-westernracing' do
     url 'http://dl.dafont.com/dl/?f=westernracing'
     name 'Western Racing'
     homepage 'http://www.dafont.com/westernracing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WesternRacing.ttf'
 end

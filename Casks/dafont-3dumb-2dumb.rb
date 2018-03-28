@@ -5,7 +5,6 @@ cask 'dafont-3dumb-2dumb' do
     url 'http://dl.dafont.com/dl/?f=3dumb_2dumb'
     name '3Dumb &amp; 2Dumb'
     homepage 'http://www.dafont.com/3dumb-2dumb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '2Dumb.ttf'
     font '3Dumb Pro 03.ttf'

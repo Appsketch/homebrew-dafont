@@ -5,7 +5,6 @@ cask 'dafont-fitness-silhouettes' do
     url 'http://dl.dafont.com/dl/?f=fitness_silhouettes'
     name 'Fitness Silhouettes'
     homepage 'http://www.dafont.com/fitness-silhouettes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FitnessSilhouettes.ttf'
 end

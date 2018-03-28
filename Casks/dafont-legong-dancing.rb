@@ -5,7 +5,6 @@ cask 'dafont-legong-dancing' do
     url 'http://dl.dafont.com/dl/?f=legong_dancing'
     name 'Legong Dancing'
     homepage 'http://www.dafont.com/legong-dancing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Legong-DancingFont.ttf'
 end

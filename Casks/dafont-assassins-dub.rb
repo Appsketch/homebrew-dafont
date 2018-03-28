@@ -5,7 +5,6 @@ cask 'dafont-assassins-dub' do
     url 'http://dl.dafont.com/dl/?f=assassins_dub'
     name 'Assassins Dub'
     homepage 'http://www.dafont.com/assassins-dub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Assassins Dub.ttf'
 end

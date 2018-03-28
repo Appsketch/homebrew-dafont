@@ -5,7 +5,6 @@ cask 'dafont-bakesaurus' do
     url 'http://dl.dafont.com/dl/?f=bakesaurus'
     name 'Bakesaurus'
     homepage 'http://www.dafont.com/bakesaurus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bakesaurus.ttf'
 end

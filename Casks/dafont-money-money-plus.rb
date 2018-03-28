@@ -5,7 +5,6 @@ cask 'dafont-money-money-plus' do
     url 'http://dl.dafont.com/dl/?f=money_money_plus'
     name 'Money Money Plus'
     homepage 'http://www.dafont.com/money-money-plus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Money Money Plus.ttf'
 end

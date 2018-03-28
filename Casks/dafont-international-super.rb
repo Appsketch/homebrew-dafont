@@ -5,7 +5,6 @@ cask 'dafont-international-super' do
     url 'http://dl.dafont.com/dl/?f=international_super'
     name 'International Super Hero'
     homepage 'http://www.dafont.com/international-super.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'intsh.ttf'
     font 'intshc.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-ds-point' do
     url 'http://dl.dafont.com/dl/?f=ds_point'
     name 'DS Point'
     homepage 'http://www.dafont.com/ds-point.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DS-POINT.TTF'
 end

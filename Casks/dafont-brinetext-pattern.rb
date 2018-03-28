@@ -5,7 +5,6 @@ cask 'dafont-brinetext-pattern' do
     url 'http://dl.dafont.com/dl/?f=brinetext_pattern'
     name 'Brinetext Pattern'
     homepage 'http://www.dafont.com/brinetext-pattern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brinetext Pattern.ttf'
 end

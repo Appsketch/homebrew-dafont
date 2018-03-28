@@ -5,7 +5,6 @@ cask 'dafont-armwrestler' do
     url 'http://dl.dafont.com/dl/?f=armwrestler'
     name 'Arm Wrestler'
     homepage 'http://www.dafont.com/armwrestler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArmWrestler.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-unicorn' do
     url 'http://dl.dafont.com/dl/?f=unicorn'
     name 'Unicorn'
     homepage 'http://www.dafont.com/unicorn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UNICORN_REGULAR.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-moiser-techno' do
     url 'http://dl.dafont.com/dl/?f=moiser_techno'
     name 'Moiser Techno'
     homepage 'http://www.dafont.com/moiser-techno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typo moiser techno.ttf'
 end

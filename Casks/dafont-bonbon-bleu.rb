@@ -5,7 +5,6 @@ cask 'dafont-bonbon-bleu' do
     url 'http://dl.dafont.com/dl/?f=bonbon_bleu'
     name 'Bonbon Bleu'
     homepage 'http://www.dafont.com/bonbon-bleu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'holyrose-bonbongothique.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-anger-is-a-gift' do
     url 'http://dl.dafont.com/dl/?f=anger_is_a_gift'
     name 'Anger is a gift'
     homepage 'http://www.dafont.com/anger-is-a-gift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anger is a gift.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ozarks' do
     url 'http://dl.dafont.com/dl/?f=ozarks'
     name 'Ozarks'
     homepage 'http://www.dafont.com/ozarks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ozarks-Bold.otf'
     font 'Ozarks-Normal.otf'

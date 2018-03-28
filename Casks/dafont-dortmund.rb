@@ -5,7 +5,6 @@ cask 'dafont-dortmund' do
     url 'http://dl.dafont.com/dl/?f=dortmund'
     name 'Dortmund'
     homepage 'http://www.dafont.com/dortmund.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dortmund Outline.TTF'
     font 'Dortmund.TTF'

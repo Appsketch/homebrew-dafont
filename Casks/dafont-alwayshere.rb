@@ -5,7 +5,6 @@ cask 'dafont-alwayshere' do
     url 'http://dl.dafont.com/dl/?f=alwayshere'
     name 'Always Here'
     homepage 'http://www.dafont.com/alwayshere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlwaysHere.ttf'
 end

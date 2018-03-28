@@ -5,7 +5,6 @@ cask 'dafont-ophelia-script' do
     url 'http://dl.dafont.com/dl/?f=ophelia_script'
     name 'Oph&eacute;lia Script'
     homepage 'http://www.dafont.com/ophelia-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ophlia Script Light.ttf'
     font 'Ophlia Script.ttf'

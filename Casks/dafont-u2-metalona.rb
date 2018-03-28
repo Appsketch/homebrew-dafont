@@ -5,7 +5,6 @@ cask 'dafont-u2-metalona' do
     url 'http://dl.dafont.com/dl/?f=u2_metalona'
     name 'U2 Metalona'
     homepage 'http://www.dafont.com/u2-metalona.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'U2-Metalona.ttf'
 end

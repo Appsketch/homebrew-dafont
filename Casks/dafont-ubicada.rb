@@ -5,7 +5,6 @@ cask 'dafont-ubicada' do
     url 'http://dl.dafont.com/dl/?f=ubicada'
     name 'Ubicada'
     homepage 'http://www.dafont.com/ubicada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ubicada-bold-ffp.ttf'
     font 'Ubicada-regular-ffp.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-wings-of-wind-tfb' do
     url 'http://dl.dafont.com/dl/?f=wings_of_wind_tfb'
     name 'Wings of Wind TFB'
     homepage 'http://www.dafont.com/wings-of-wind-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wings of wind tfb.ttf'
 end

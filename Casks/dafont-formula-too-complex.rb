@@ -5,7 +5,6 @@ cask 'dafont-formula-too-complex' do
     url 'http://dl.dafont.com/dl/?f=formula_too_complex'
     name 'Formula Too Complex'
     homepage 'http://www.dafont.com/formula-too-complex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'formplex12.ttf'
 end

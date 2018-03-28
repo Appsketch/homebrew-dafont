@@ -5,7 +5,6 @@ cask 'dafont-hellmuth' do
     url 'http://dl.dafont.com/dl/?f=hellmuth'
     name 'Hellmuth'
     homepage 'http://www.dafont.com/hellmuth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hellmuth.ttf'
 end

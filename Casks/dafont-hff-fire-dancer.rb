@@ -5,7 +5,6 @@ cask 'dafont-hff-fire-dancer' do
     url 'http://dl.dafont.com/dl/?f=hff_fire_dancer'
     name 'HFF Fire Dancer'
     homepage 'http://www.dafont.com/hff-fire-dancer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Fire Dancer.ttf'
 end

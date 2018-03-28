@@ -5,7 +5,6 @@ cask 'dafont-n-o-movement' do
     url 'http://dl.dafont.com/dl/?f=n_o_movement'
     name 'N.O. - Movement'
     homepage 'http://www.dafont.com/n-o-movement.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'No-move.ttf'
 end

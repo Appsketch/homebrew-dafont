@@ -5,7 +5,6 @@ cask 'dafont-london-graffiti-alphabet' do
     url 'http://dl.dafont.com/dl/?f=london_graffiti_alphabet'
     name 'London Graffiti Alphabet'
     homepage 'http://www.dafont.com/london-graffiti-alphabet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LondonGraffitiAlphabet-v1.ttf'
 end

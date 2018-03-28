@@ -5,7 +5,6 @@ cask 'dafont-the-super-ryal-2015' do
     url 'http://dl.dafont.com/dl/?f=the_super_ryal_2015'
     name 'The Super Ryal 2015'
     homepage 'http://www.dafont.com/the-super-ryal-2015.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Super Ryal 2015.ttf'
 end

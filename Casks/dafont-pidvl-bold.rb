@@ -5,7 +5,6 @@ cask 'dafont-pidvl-bold' do
     url 'http://dl.dafont.com/dl/?f=pidvl_bold'
     name 'PIDvl bold'
     homepage 'http://www.dafont.com/pidvl-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIDvl bold.ttf'
 end

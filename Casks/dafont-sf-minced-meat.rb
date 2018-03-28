@@ -5,7 +5,6 @@ cask 'dafont-sf-minced-meat' do
     url 'http://dl.dafont.com/dl/?f=sf_minced_meat'
     name 'SF Minced Meat'
     homepage 'http://www.dafont.com/sf-minced-meat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Minced Meat Bold Oblique.ttf'
     font 'SF Minced Meat Bold.ttf'

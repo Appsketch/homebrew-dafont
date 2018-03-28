@@ -5,7 +5,6 @@ cask 'dafont-furiousracing' do
     url 'http://dl.dafont.com/dl/?f=furiousracing'
     name 'Furious Racing'
     homepage 'http://www.dafont.com/furiousracing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FuriousRacing.ttf'
 end

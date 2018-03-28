@@ -5,7 +5,6 @@ cask 'dafont-evil-bible' do
     url 'http://dl.dafont.com/dl/?f=evil_bible'
     name 'Evil Bible'
     homepage 'http://www.dafont.com/evil-bible.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Evil Bible.ttf'
 end

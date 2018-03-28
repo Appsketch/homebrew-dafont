@@ -5,7 +5,6 @@ cask 'dafont-sucesion-slab' do
     url 'http://dl.dafont.com/dl/?f=sucesion_slab'
     name 'Sucesi&oacute;n Slab'
     homepage 'http://www.dafont.com/sucesion-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sucesion-slab-font-FFP.otf'
 end

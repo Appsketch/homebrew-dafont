@@ -5,7 +5,6 @@ cask 'dafont-rough-draught' do
     url 'http://dl.dafont.com/dl/?f=rough_draught'
     name 'Rough Draught'
     homepage 'http://www.dafont.com/rough-draught.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RoughDraught.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kubrubi' do
     url 'http://dl.dafont.com/dl/?f=kubrubi'
     name 'Kubrubi'
     homepage 'http://www.dafont.com/kubrubi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kubrubi.ttf'
 end

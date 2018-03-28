@@ -5,7 +5,6 @@ cask 'dafont-easter-eggs-st' do
     url 'http://dl.dafont.com/dl/?f=easter_eggs_st'
     name 'Easter Eggs ST'
     homepage 'http://www.dafont.com/easter-eggs-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Easter eggs ST.ttf'
 end

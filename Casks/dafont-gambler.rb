@@ -5,7 +5,6 @@ cask 'dafont-gambler' do
     url 'http://dl.dafont.com/dl/?f=gambler'
     name 'Gambler'
     homepage 'http://www.dafont.com/gambler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GAMBLER.TTF'
 end

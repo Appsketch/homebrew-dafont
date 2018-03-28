@@ -5,7 +5,6 @@ cask 'dafont-weigl' do
     url 'http://dl.dafont.com/dl/?f=weigl'
     name 'Weigl'
     homepage 'http://www.dafont.com/weigl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Weigl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-beach-type' do
     url 'http://dl.dafont.com/dl/?f=beach_type'
     name 'Beach Type'
     homepage 'http://www.dafont.com/beach-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEACHTYP.TTF'
 end

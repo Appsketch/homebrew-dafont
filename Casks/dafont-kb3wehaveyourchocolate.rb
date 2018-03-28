@@ -5,7 +5,6 @@ cask 'dafont-kb3wehaveyourchocolate' do
     url 'http://dl.dafont.com/dl/?f=kb3wehaveyourchocolate'
     name 'KB3 We Have Your Chocolate'
     homepage 'http://www.dafont.com/kb3wehaveyourchocolate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KB3WeHaveYourChocolate.ttf'
 end

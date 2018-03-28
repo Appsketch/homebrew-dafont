@@ -5,7 +5,6 @@ cask 'dafont-indie-queen' do
     url 'http://dl.dafont.com/dl/?f=indie_queen'
     name 'Indie Queen'
     homepage 'http://www.dafont.com/indie-queen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'indie queen.ttf'
 end

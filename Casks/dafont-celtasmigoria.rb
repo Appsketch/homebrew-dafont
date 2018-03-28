@@ -5,7 +5,6 @@ cask 'dafont-celtasmigoria' do
     url 'http://dl.dafont.com/dl/?f=celtasmigoria'
     name 'Celtasmigoria'
     homepage 'http://www.dafont.com/celtasmigoria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Celtasmigoria.ttf'
 end

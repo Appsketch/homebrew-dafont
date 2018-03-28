@@ -5,7 +5,6 @@ cask 'dafont-alphabeta' do
     url 'http://dl.dafont.com/dl/?f=alphabeta'
     name 'Alphabeta'
     homepage 'http://www.dafont.com/alphabeta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alphabeta.ttf'
 end

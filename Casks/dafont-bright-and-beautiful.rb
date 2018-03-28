@@ -5,7 +5,6 @@ cask 'dafont-bright-and-beautiful' do
     url 'http://dl.dafont.com/dl/?f=bright_and_beautiful'
     name 'Bright and Beautiful'
     homepage 'http://www.dafont.com/bright-and-beautiful.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bright and Beautiful.otf'
 end

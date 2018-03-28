@@ -5,7 +5,6 @@ cask 'dafont-littlemisspriss' do
     url 'http://dl.dafont.com/dl/?f=littlemisspriss'
     name 'Little Miss Priss'
     homepage 'http://www.dafont.com/littlemisspriss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LittleMissPriss.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-aha-experience' do
     url 'http://dl.dafont.com/dl/?f=aha_experience'
     name 'Aha Experience'
     homepage 'http://www.dafont.com/aha-experience.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aha experience.ttf'
 end

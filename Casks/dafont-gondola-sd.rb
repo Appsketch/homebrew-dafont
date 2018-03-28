@@ -5,7 +5,6 @@ cask 'dafont-gondola-sd' do
     url 'http://dl.dafont.com/dl/?f=gondola_sd'
     name 'Gondola SD'
     homepage 'http://www.dafont.com/gondola-sd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gondola SD - Swash.ttf'
     font 'Gondola SD.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-alicione' do
     url 'http://dl.dafont.com/dl/?f=alicione'
     name 'AliciOne'
     homepage 'http://www.dafont.com/alicione.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AliciOne Demo.otf'
 end

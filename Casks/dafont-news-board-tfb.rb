@@ -5,7 +5,6 @@ cask 'dafont-news-board-tfb' do
     url 'http://dl.dafont.com/dl/?f=news_board_tfb'
     name 'News Board TFB'
     homepage 'http://www.dafont.com/news-board-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'News Board Tfb.ttf'
 end

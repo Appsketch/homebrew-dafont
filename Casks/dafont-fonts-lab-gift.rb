@@ -5,7 +5,6 @@ cask 'dafont-fonts-lab-gift' do
     url 'http://dl.dafont.com/dl/?f=fonts_lab_gift'
     name 'Fonts-lab Gift'
     homepage 'http://www.dafont.com/fonts-lab-gift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fonts-lab-gift.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-freshtrack' do
     url 'http://dl.dafont.com/dl/?f=freshtrack'
     name 'Fresh Track'
     homepage 'http://www.dafont.com/freshtrack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreshTrack.ttf'
 end

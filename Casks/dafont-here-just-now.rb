@@ -5,7 +5,6 @@ cask 'dafont-here-just-now' do
     url 'http://dl.dafont.com/dl/?f=here_just_now'
     name 'Here Just Now'
     homepage 'http://www.dafont.com/here-just-now.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Here Just Now Black.ttf'
     font 'Here Just Now Out.ttf'

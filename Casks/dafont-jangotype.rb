@@ -5,7 +5,6 @@ cask 'dafont-jangotype' do
     url 'http://dl.dafont.com/dl/?f=jangotype'
     name 'Jangotype'
     homepage 'http://www.dafont.com/jangotype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jangotype.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-twinklefingers' do
     url 'http://dl.dafont.com/dl/?f=twinklefingers'
     name 'Twinkle Fingers'
     homepage 'http://www.dafont.com/twinklefingers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TwinkleFingers.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blackletter-hand' do
     url 'http://dl.dafont.com/dl/?f=blackletter_hand'
     name 'Blackletter Hand'
     homepage 'http://www.dafont.com/blackletter-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackletterHand.ttf'
 end

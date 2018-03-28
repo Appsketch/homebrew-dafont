@@ -5,7 +5,6 @@ cask 'dafont-superscript' do
     url 'http://dl.dafont.com/dl/?f=superscript'
     name 'Superscript'
     homepage 'http://www.dafont.com/superscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPERSCR.TTF'
 end

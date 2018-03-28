@@ -5,7 +5,6 @@ cask 'dafont-cf-i-want-to-believe' do
     url 'http://dl.dafont.com/dl/?f=cf_i_want_to_believe'
     name 'CF I want to believe'
     homepage 'http://www.dafont.com/cf-i-want-to-believe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFIwanttobelieve-Compressed.ttf'
 end

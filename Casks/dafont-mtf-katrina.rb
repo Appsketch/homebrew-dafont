@@ -5,7 +5,6 @@ cask 'dafont-mtf-katrina' do
     url 'http://dl.dafont.com/dl/?f=mtf_katrina'
     name 'MTF Katrina'
     homepage 'http://www.dafont.com/mtf-katrina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Katrina.ttf'
 end

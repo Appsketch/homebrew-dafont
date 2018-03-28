@@ -5,7 +5,6 @@ cask 'dafont-sgk100' do
     url 'http://dl.dafont.com/dl/?f=sgk100'
     name 'SGK100'
     homepage 'http://www.dafont.com/sgk100.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SGK100.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-typeecanoe' do
     url 'http://dl.dafont.com/dl/?f=typeecanoe'
     name 'Typeecanoe'
     homepage 'http://www.dafont.com/typeecanoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typee2.ttf'
     font 'Typee2l.ttf'

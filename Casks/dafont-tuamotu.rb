@@ -5,7 +5,6 @@ cask 'dafont-tuamotu' do
     url 'http://dl.dafont.com/dl/?f=tuamotu'
     name 'Tuamotu'
     homepage 'http://www.dafont.com/tuamotu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tuamotu.ttf'
 end

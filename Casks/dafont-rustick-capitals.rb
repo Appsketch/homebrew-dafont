@@ -5,7 +5,6 @@ cask 'dafont-rustick-capitals' do
     url 'http://dl.dafont.com/dl/?f=rustick_capitals'
     name 'Rustick Capitals'
     homepage 'http://www.dafont.com/rustick-capitals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RUSTICK.TTF'
 end

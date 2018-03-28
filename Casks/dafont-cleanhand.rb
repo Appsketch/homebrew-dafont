@@ -5,7 +5,6 @@ cask 'dafont-cleanhand' do
     url 'http://dl.dafont.com/dl/?f=cleanhand'
     name 'Clean Hand'
     homepage 'http://www.dafont.com/cleanhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CleanHand.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bandstand' do
     url 'http://dl.dafont.com/dl/?f=bandstand'
     name 'Band Stand'
     homepage 'http://www.dafont.com/bandstand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BandStand.ttf'
 end

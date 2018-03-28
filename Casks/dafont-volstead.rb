@@ -5,7 +5,6 @@ cask 'dafont-volstead' do
     url 'http://dl.dafont.com/dl/?f=volstead'
     name 'Volstead'
     homepage 'http://www.dafont.com/volstead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Volstead.ttf'
 end

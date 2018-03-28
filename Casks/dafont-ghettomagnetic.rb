@@ -5,7 +5,6 @@ cask 'dafont-ghettomagnetic' do
     url 'http://dl.dafont.com/dl/?f=ghettomagnetic'
     name 'Ghetto Magnetic'
     homepage 'http://www.dafont.com/ghettomagnetic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GhettoMagnetic.ttf'
 end

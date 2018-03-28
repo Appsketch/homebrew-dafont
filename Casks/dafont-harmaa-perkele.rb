@@ -5,7 +5,6 @@ cask 'dafont-harmaa-perkele' do
     url 'http://dl.dafont.com/dl/?f=harmaa_perkele'
     name 'Harmaa Perkele'
     homepage 'http://www.dafont.com/harmaa-perkele.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Harmaa Perkele.ttf'
 end

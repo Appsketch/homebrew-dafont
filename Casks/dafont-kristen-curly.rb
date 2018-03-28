@@ -5,7 +5,6 @@ cask 'dafont-kristen-curly' do
     url 'http://dl.dafont.com/dl/?f=kristen_curly'
     name 'Kristen Curly YOFF'
     homepage 'http://www.dafont.com/kristen-curly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KristenCurlyYOFF.ttf'
 end

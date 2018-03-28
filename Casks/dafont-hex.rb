@@ -5,7 +5,6 @@ cask 'dafont-hex' do
     url 'http://dl.dafont.com/dl/?f=hex'
     name 'Hex'
     homepage 'http://www.dafont.com/hex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hex-monograms.otf'
     font 'Hex-ornate.otf'

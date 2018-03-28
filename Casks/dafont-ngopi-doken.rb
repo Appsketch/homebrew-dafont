@@ -5,7 +5,6 @@ cask 'dafont-ngopi-doken' do
     url 'http://dl.dafont.com/dl/?f=ngopi_doken'
     name 'Ngopi Doken'
     homepage 'http://www.dafont.com/ngopi-doken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NgopiDoken-Regular.otf'
 end

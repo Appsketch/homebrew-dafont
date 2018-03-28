@@ -5,7 +5,6 @@ cask 'dafont-benny-benassi-font-remake' do
     url 'http://dl.dafont.com/dl/?f=benny_benassi_font_remake'
     name 'Benny Benassi Font Remake'
     homepage 'http://www.dafont.com/benny-benassi-font-remake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Benny-Benasi-Font-Remake.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-oloron' do
     url 'http://dl.dafont.com/dl/?f=oloron'
     name 'Oloron'
     homepage 'http://www.dafont.com/oloron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OLORT___.TTF'
 end

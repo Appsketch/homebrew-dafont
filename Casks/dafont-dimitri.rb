@@ -5,7 +5,6 @@ cask 'dafont-dimitri' do
     url 'http://dl.dafont.com/dl/?f=dimitri'
     name 'Dimitri'
     homepage 'http://www.dafont.com/dimitri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIMIS___.TTF'
     font 'DIMITRI_.TTF'

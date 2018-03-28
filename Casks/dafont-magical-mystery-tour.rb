@@ -5,7 +5,6 @@ cask 'dafont-magical-mystery-tour' do
     url 'http://dl.dafont.com/dl/?f=magical_mystery_tour'
     name 'Magical Mystery Tour'
     homepage 'http://www.dafont.com/magical-mystery-tour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MagicalMysteryTour.ttf'
     font 'MagicalMysteryTourOutlineSh.ttf'

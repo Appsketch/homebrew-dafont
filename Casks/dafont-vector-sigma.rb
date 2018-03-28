@@ -5,7 +5,6 @@ cask 'dafont-vector-sigma' do
     url 'http://dl.dafont.com/dl/?f=vector_sigma'
     name 'Vector Sigma'
     homepage 'http://www.dafont.com/vector-sigma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vector Sigma Condensed Italic.ttf'
     font 'Vector Sigma Condensed.ttf'

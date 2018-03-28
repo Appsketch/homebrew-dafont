@@ -5,7 +5,6 @@ cask 'dafont-kbquipster' do
     url 'http://dl.dafont.com/dl/?f=kbquipster'
     name 'KB Quipster'
     homepage 'http://www.dafont.com/kbquipster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBQuipster.ttf'
     font 'KBQuipstersFool.ttf'

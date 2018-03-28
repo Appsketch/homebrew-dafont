@@ -5,7 +5,6 @@ cask 'dafont-sauerkraut' do
     url 'http://dl.dafont.com/dl/?f=sauerkraut'
     name 'Sauerkraut'
     homepage 'http://www.dafont.com/sauerkraut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SAUERKRA.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wiffles' do
     url 'http://dl.dafont.com/dl/?f=wiffles'
     name 'Wiffles'
     homepage 'http://www.dafont.com/wiffles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WIFFLES_.TTF'
 end

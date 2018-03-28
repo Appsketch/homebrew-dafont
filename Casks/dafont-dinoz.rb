@@ -5,7 +5,6 @@ cask 'dafont-dinoz' do
     url 'http://dl.dafont.com/dl/?f=dinoz'
     name 'Dinoz'
     homepage 'http://www.dafont.com/dinoz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dinoz.ttf'
 end

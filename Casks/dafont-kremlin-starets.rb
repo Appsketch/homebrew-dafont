@@ -5,7 +5,6 @@ cask 'dafont-kremlin-starets' do
     url 'http://dl.dafont.com/dl/?f=kremlin_starets'
     name 'Kremlin Starets'
     homepage 'http://www.dafont.com/kremlin-starets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Starets.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kg-god-gave-me-you' do
     url 'http://dl.dafont.com/dl/?f=kg_god_gave_me_you'
     name 'KG God Gave Me You'
     homepage 'http://www.dafont.com/kg-god-gave-me-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGGodGaveMeYou.ttf'
 end

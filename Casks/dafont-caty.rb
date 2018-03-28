@@ -5,7 +5,6 @@ cask 'dafont-caty' do
     url 'http://dl.dafont.com/dl/?f=caty'
     name 'Caty'
     homepage 'http://www.dafont.com/caty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'caty.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-droeming' do
     url 'http://dl.dafont.com/dl/?f=droeming'
     name 'Droeming'
     homepage 'http://www.dafont.com/droeming.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Droeming.ttf'
 end

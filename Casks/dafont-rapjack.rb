@@ -5,7 +5,6 @@ cask 'dafont-rapjack' do
     url 'http://dl.dafont.com/dl/?f=rapjack'
     name 'RapJack'
     homepage 'http://www.dafont.com/rapjack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RAPJACK_.TTF'
 end

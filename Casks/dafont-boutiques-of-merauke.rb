@@ -5,7 +5,6 @@ cask 'dafont-boutiques-of-merauke' do
     url 'http://dl.dafont.com/dl/?f=boutiques_of_merauke'
     name 'Boutiques of Merauke'
     homepage 'http://www.dafont.com/boutiques-of-merauke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boutiques of Merauke.ttf'
 end

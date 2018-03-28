@@ -5,7 +5,6 @@ cask 'dafont-novlang' do
     url 'http://dl.dafont.com/dl/?f=novlang'
     name 'Novlang'
     homepage 'http://www.dafont.com/novlang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Novlang.ttf'
 end

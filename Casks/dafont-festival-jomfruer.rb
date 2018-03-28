@@ -5,7 +5,6 @@ cask 'dafont-festival-jomfruer' do
     url 'http://dl.dafont.com/dl/?f=festival_jomfruer'
     name 'Festival Jomfruer'
     homepage 'http://www.dafont.com/festival-jomfruer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Festivaljomfruer.ttf'
 end

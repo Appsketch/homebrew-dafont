@@ -5,7 +5,6 @@ cask 'dafont-newbie-serif' do
     url 'http://dl.dafont.com/dl/?f=newbie_serif'
     name 'Newbie Serif'
     homepage 'http://www.dafont.com/newbie-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'newbie sherif.ttf'
 end

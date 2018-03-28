@@ -5,7 +5,6 @@ cask 'dafont-intimacy' do
     url 'http://dl.dafont.com/dl/?f=intimacy'
     name 'Intimacy'
     homepage 'http://www.dafont.com/intimacy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'intimacy.ttf'
     font 'intimcy2.ttf'

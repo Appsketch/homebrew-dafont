@@ -5,7 +5,6 @@ cask 'dafont-prince-valiant' do
     url 'http://dl.dafont.com/dl/?f=prince_valiant'
     name 'Prince Valiant'
     homepage 'http://www.dafont.com/prince-valiant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrinceValiant.ttf'
 end

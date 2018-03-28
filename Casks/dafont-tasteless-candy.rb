@@ -5,7 +5,6 @@ cask 'dafont-tasteless-candy' do
     url 'http://dl.dafont.com/dl/?f=tasteless_candy'
     name 'Tasteless  Candy'
     homepage 'http://www.dafont.com/tasteless-candy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TASTELESSCANDY.ttf'
 end

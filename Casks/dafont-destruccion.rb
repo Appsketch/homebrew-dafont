@@ -5,7 +5,6 @@ cask 'dafont-destruccion' do
     url 'http://dl.dafont.com/dl/?f=destruccion'
     name 'Destruccion'
     homepage 'http://www.dafont.com/destruccion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DESTRUCCION.ttf'
 end

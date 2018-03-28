@@ -5,7 +5,6 @@ cask 'dafont-remsporen' do
     url 'http://dl.dafont.com/dl/?f=remsporen'
     name 'Remsporen'
     homepage 'http://www.dafont.com/remsporen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Remsporen.ttf'
 end

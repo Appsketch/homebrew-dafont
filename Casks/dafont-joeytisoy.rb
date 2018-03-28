@@ -5,7 +5,6 @@ cask 'dafont-joeytisoy' do
     url 'http://dl.dafont.com/dl/?f=joeytisoy'
     name 'Joeytisoy'
     homepage 'http://www.dafont.com/joeytisoy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEW.ttf'
 end

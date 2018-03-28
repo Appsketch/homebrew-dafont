@@ -5,7 +5,6 @@ cask 'dafont-fonesia' do
     url 'http://dl.dafont.com/dl/?f=fonesia'
     name 'Fonesia'
     homepage 'http://www.dafont.com/fonesia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fonesia-Bold.ttf'
     font 'Fonesia-Light.ttf'

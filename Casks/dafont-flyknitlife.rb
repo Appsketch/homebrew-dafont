@@ -5,7 +5,6 @@ cask 'dafont-flyknitlife' do
     url 'http://dl.dafont.com/dl/?f=flyknitlife'
     name 'Flyknit Life'
     homepage 'http://www.dafont.com/flyknitlife.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlyknitLife.ttf'
 end

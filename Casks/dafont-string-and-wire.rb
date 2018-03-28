@@ -5,7 +5,6 @@ cask 'dafont-string-and-wire' do
     url 'http://dl.dafont.com/dl/?f=string_and_wire'
     name 'String and Wire'
     homepage 'http://www.dafont.com/string-and-wire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'string_and_wire.ttf'
 end

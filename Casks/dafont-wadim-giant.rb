@@ -5,7 +5,6 @@ cask 'dafont-wadim-giant' do
     url 'http://dl.dafont.com/dl/?f=wadim_giant'
     name 'Wadim Giant'
     homepage 'http://www.dafont.com/wadim-giant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wadim giant italic.ttf'
     font 'wadim giant lines.ttf'

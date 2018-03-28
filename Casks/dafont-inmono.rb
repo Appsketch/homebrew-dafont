@@ -5,7 +5,6 @@ cask 'dafont-inmono' do
     url 'http://dl.dafont.com/dl/?f=inmono'
     name 'InMono'
     homepage 'http://www.dafont.com/inmono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InMono-Regular.otf'
 end

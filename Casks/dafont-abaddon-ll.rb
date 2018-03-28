@@ -5,7 +5,6 @@ cask 'dafont-abaddon-ll' do
     url 'http://dl.dafont.com/dl/?f=abaddon_ll'
     name 'Abaddon II'
     homepage 'http://www.dafont.com/abaddon-ll.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abaddon ll jeda.ttf'
 end

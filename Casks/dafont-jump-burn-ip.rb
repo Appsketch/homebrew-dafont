@@ -5,7 +5,6 @@ cask 'dafont-jump-burn-ip' do
     url 'http://dl.dafont.com/dl/?f=jump_burn_ip'
     name 'Jump Burn IP'
     homepage 'http://www.dafont.com/jump-burn-ip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JUMP BURN IP 2012.ttf'
 end

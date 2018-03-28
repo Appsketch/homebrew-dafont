@@ -5,7 +5,6 @@ cask 'dafont-rediscovered' do
     url 'http://dl.dafont.com/dl/?f=rediscovered'
     name 'Rediscovered'
     homepage 'http://www.dafont.com/rediscovered.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rediscovered.ttf'
 end

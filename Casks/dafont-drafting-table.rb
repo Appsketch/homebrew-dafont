@@ -5,7 +5,6 @@ cask 'dafont-drafting-table' do
     url 'http://dl.dafont.com/dl/?f=drafting_table'
     name 'Drafting Table'
     homepage 'http://www.dafont.com/drafting-table.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'draftingboard.ttf'
     font 'draftingboard3d.ttf'

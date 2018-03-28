@@ -5,7 +5,6 @@ cask 'dafont-alexis2' do
     url 'http://dl.dafont.com/dl/?f=alexis2'
     name 'Alexis'
     homepage 'http://www.dafont.com/alexis2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alexisv2.ttf'
 end

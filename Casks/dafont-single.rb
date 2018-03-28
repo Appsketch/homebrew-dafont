@@ -5,7 +5,6 @@ cask 'dafont-single' do
     url 'http://dl.dafont.com/dl/?f=single'
     name 'Single'
     homepage 'http://www.dafont.com/single.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'single.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sagan' do
     url 'http://dl.dafont.com/dl/?f=sagan'
     name 'Sagan'
     homepage 'http://www.dafont.com/sagan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sagan.ttf'
     font 'sagani.ttf'

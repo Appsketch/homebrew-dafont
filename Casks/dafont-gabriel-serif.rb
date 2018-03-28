@@ -5,7 +5,6 @@ cask 'dafont-gabriel-serif' do
     url 'http://dl.dafont.com/dl/?f=gabriel_serif'
     name 'Gabriel Serif'
     homepage 'http://www.dafont.com/gabriel-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gabriel Serif Bold Italic.ttf'
     font 'Gabriel Serif Bold.ttf'

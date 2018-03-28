@@ -5,7 +5,6 @@ cask 'dafont-bm-harry' do
     url 'http://dl.dafont.com/dl/?f=bm_harry'
     name 'BM Harry'
     homepage 'http://www.dafont.com/bm-harry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMHAA___.TTF'
 end

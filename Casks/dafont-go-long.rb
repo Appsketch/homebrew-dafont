@@ -5,7 +5,6 @@ cask 'dafont-go-long' do
     url 'http://dl.dafont.com/dl/?f=go_long'
     name 'Go Long'
     homepage 'http://www.dafont.com/go-long.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'golong.ttf'
 end

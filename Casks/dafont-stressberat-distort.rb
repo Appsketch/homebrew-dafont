@@ -5,7 +5,6 @@ cask 'dafont-stressberat-distort' do
     url 'http://dl.dafont.com/dl/?f=stressberat_distort'
     name 'Stressberat Distort'
     homepage 'http://www.dafont.com/stressberat-distort.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stressberat distort.ttf'
 end

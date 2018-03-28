@@ -5,7 +5,6 @@ cask 'dafont-cherif' do
     url 'http://dl.dafont.com/dl/?f=cherif'
     name 'Cherif'
     homepage 'http://www.dafont.com/cherif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cherif.ttf'
 end

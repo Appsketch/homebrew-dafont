@@ -5,7 +5,6 @@ cask 'dafont-kbradiowizard' do
     url 'http://dl.dafont.com/dl/?f=kbradiowizard'
     name 'KB Radio Wizard'
     homepage 'http://www.dafont.com/kbradiowizard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBRadioWizard.ttf'
 end

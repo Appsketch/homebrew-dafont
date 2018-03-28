@@ -5,7 +5,6 @@ cask 'dafont-aez-wedding-dings' do
     url 'http://dl.dafont.com/dl/?f=aez_wedding_dings'
     name 'AEZ Wedding Dings'
     homepage 'http://www.dafont.com/aez-wedding-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AEZweddingdings.ttf'
 end

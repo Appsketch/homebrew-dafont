@@ -5,7 +5,6 @@ cask 'dafont-prestige-script' do
     url 'http://dl.dafont.com/dl/?f=prestige_script'
     name 'Prestige Script'
     homepage 'http://www.dafont.com/prestige-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrestigeScriptAlt.ttf'
 end

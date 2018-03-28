@@ -5,7 +5,6 @@ cask 'dafont-pwflymetothemoon' do
     url 'http://dl.dafont.com/dl/?f=pwflymetothemoon'
     name 'PW Fly me to the moon'
     homepage 'http://www.dafont.com/pwflymetothemoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWFlymetothemoon.ttf'
 end

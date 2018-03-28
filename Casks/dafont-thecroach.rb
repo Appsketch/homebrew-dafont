@@ -5,7 +5,6 @@ cask 'dafont-thecroach' do
     url 'http://dl.dafont.com/dl/?f=thecroach'
     name 'The Croach'
     homepage 'http://www.dafont.com/thecroach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thecroach.ttf'
 end

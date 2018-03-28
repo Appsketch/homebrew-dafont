@@ -5,7 +5,6 @@ cask 'dafont-adornada-st' do
     url 'http://dl.dafont.com/dl/?f=adornada_st'
     name 'Adornada ST'
     homepage 'http://www.dafont.com/adornada-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AdOrNaDa St.ttf'
 end

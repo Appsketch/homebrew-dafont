@@ -5,7 +5,6 @@ cask 'dafont-smoking-tequila' do
     url 'http://dl.dafont.com/dl/?f=smoking_tequila'
     name 'Smoking Tequila'
     homepage 'http://www.dafont.com/smoking-tequila.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smoking Tequila.ttf'
 end

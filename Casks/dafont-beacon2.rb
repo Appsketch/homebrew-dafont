@@ -5,7 +5,6 @@ cask 'dafont-beacon2' do
     url 'http://dl.dafont.com/dl/?f=beacon2'
     name 'Beacon'
     homepage 'http://www.dafont.com/beacon2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beacon.ttf'
 end

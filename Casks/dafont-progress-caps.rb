@@ -5,7 +5,6 @@ cask 'dafont-progress-caps' do
     url 'http://dl.dafont.com/dl/?f=progress_caps'
     name 'Progress Caps'
     homepage 'http://www.dafont.com/progress-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Progress-CAPS_WIN.otf'
 end

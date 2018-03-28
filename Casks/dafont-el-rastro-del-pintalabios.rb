@@ -5,7 +5,6 @@ cask 'dafont-el-rastro-del-pintalabios' do
     url 'http://dl.dafont.com/dl/?f=el_rastro_del_pintalabios'
     name 'El rastro del pintalabios'
     homepage 'http://www.dafont.com/el-rastro-del-pintalabios.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PINTALABIOS.ttf'
 end

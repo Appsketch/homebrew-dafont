@@ -5,7 +5,6 @@ cask 'dafont-typo-grotesk' do
     url 'http://dl.dafont.com/dl/?f=typo_grotesk'
     name 'Typo Grotesk'
     homepage 'http://www.dafont.com/typo-grotesk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typo Grotesk Black Demo.otf'
     font 'Typo Grotesk Black Italic Demo.otf'

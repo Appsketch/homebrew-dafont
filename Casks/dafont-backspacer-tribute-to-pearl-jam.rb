@@ -5,7 +5,6 @@ cask 'dafont-backspacer-tribute-to-pearl-jam' do
     url 'http://dl.dafont.com/dl/?f=backspacer_tribute_to_pearl_jam'
     name 'Backspacer Tribute To Pearl Jam'
     homepage 'http://www.dafont.com/backspacer-tribute-to-pearl-jam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Backspacer tribute to Pearl Jam.ttf'
 end

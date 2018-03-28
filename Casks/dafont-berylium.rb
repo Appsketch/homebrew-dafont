@@ -5,7 +5,6 @@ cask 'dafont-berylium' do
     url 'http://dl.dafont.com/dl/?f=berylium'
     name 'Berylium'
     homepage 'http://www.dafont.com/berylium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'berylium bd it.ttf'
     font 'berylium bd.ttf'

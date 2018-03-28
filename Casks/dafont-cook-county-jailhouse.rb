@@ -5,7 +5,6 @@ cask 'dafont-cook-county-jailhouse' do
     url 'http://dl.dafont.com/dl/?f=cook_county_jailhouse'
     name 'Cook County Jailhouse'
     homepage 'http://www.dafont.com/cook-county-jailhouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CookCountyJailhouse-Regular.ttf'
 end

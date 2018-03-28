@@ -5,7 +5,6 @@ cask 'dafont-grunt-reaper' do
     url 'http://dl.dafont.com/dl/?f=grunt_reaper'
     name 'Grunt Reaper'
     homepage 'http://www.dafont.com/grunt-reaper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRUNTREAPER.ttf'
 end

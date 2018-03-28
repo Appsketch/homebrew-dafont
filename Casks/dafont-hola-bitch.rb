@@ -5,7 +5,6 @@ cask 'dafont-hola-bitch' do
     url 'http://dl.dafont.com/dl/?f=hola_bitch'
     name 'Hola Bitch!'
     homepage 'http://www.dafont.com/hola-bitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hola_Bitch!.ttf'
 end

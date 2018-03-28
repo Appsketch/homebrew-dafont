@@ -5,7 +5,6 @@ cask 'dafont-fruitopia' do
     url 'http://dl.dafont.com/dl/?f=fruitopia'
     name 'Fruitopia'
     homepage 'http://www.dafont.com/fruitopia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fruitopia.ttf'
 end

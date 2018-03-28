@@ -5,7 +5,6 @@ cask 'dafont-anothertry' do
     url 'http://dl.dafont.com/dl/?f=anothertry'
     name 'Another try'
     homepage 'http://www.dafont.com/anothertry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anothertry.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ellianarelles-path' do
     url 'http://dl.dafont.com/dl/?f=ellianarelles_path'
     name 'Ellianarelle&#039;s Path'
     homepage 'http://www.dafont.com/ellianarelles-path.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ellianarelle s Path.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pwverticalized' do
     url 'http://dl.dafont.com/dl/?f=pwverticalized'
     name 'PW Verticalized'
     homepage 'http://www.dafont.com/pwverticalized.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWVerticalized.ttf'
 end

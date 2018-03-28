@@ -5,7 +5,6 @@ cask 'dafont-putain' do
     url 'http://dl.dafont.com/dl/?f=putain'
     name 'Putain'
     homepage 'http://www.dafont.com/putain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'putain.ttf'
 end

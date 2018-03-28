@@ -5,7 +5,6 @@ cask 'dafont-morena' do
     url 'http://dl.dafont.com/dl/?f=morena'
     name 'Morena'
     homepage 'http://www.dafont.com/morena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'morena.ttf'
 end

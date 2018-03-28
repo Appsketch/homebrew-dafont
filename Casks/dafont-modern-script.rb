@@ -5,7 +5,6 @@ cask 'dafont-modern-script' do
     url 'http://dl.dafont.com/dl/?f=modern_script'
     name 'Modern Script'
     homepage 'http://www.dafont.com/modern-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Modern Script.ttf'
 end

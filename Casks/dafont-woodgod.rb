@@ -5,7 +5,6 @@ cask 'dafont-woodgod' do
     url 'http://dl.dafont.com/dl/?f=woodgod'
     name 'Woodgod'
     homepage 'http://www.dafont.com/woodgod.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodgod.ttf'
     font 'woodgod3d.ttf'

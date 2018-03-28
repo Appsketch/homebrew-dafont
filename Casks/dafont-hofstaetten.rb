@@ -5,7 +5,6 @@ cask 'dafont-hofstaetten' do
     url 'http://dl.dafont.com/dl/?f=hofstaetten'
     name 'Hofstaetten'
     homepage 'http://www.dafont.com/hofstaetten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hofstaetten.ttf'
     font 'Kleinsemmering.ttf'

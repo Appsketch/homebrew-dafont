@@ -5,7 +5,6 @@ cask 'dafont-cancan-de-bois' do
     url 'http://dl.dafont.com/dl/?f=cancan_de_bois'
     name 'CanCan de Bois'
     homepage 'http://www.dafont.com/cancan-de-bois.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CanCandB_free.ttf'
 end

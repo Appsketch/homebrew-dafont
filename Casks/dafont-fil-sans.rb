@@ -5,7 +5,6 @@ cask 'dafont-fil-sans' do
     url 'http://dl.dafont.com/dl/?f=fil_sans'
     name 'Fil Sans'
     homepage 'http://www.dafont.com/fil-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fil_01.ttf'
 end

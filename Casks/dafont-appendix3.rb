@@ -5,7 +5,6 @@ cask 'dafont-appendix3' do
     url 'http://dl.dafont.com/dl/?f=appendix3'
     name 'Appendix 3'
     homepage 'http://www.dafont.com/appendix3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'APPENDI3.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-shark-formal-funnyness' do
     url 'http://dl.dafont.com/dl/?f=shark_formal_funnyness'
     name 'Shark Formal Funnyness'
     homepage 'http://www.dafont.com/shark-formal-funnyness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sharkformalfunnyness.ttf'
 end

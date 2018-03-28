@@ -5,7 +5,6 @@ cask 'dafont-catharsis-espresso' do
     url 'http://dl.dafont.com/dl/?f=catharsis_espresso'
     name 'Catharsis Espresso'
     homepage 'http://www.dafont.com/catharsis-espresso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CAE_____.TTF'
 end

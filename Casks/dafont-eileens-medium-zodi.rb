@@ -5,7 +5,6 @@ cask 'dafont-eileens-medium-zodi' do
     url 'http://dl.dafont.com/dl/?f=eileens_medium_zodi'
     name 'Eileens Medium Zodiac'
     homepage 'http://www.dafont.com/eileens-medium-zodi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EIMZR.TTF'
 end

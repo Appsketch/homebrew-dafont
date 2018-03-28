@@ -5,7 +5,6 @@ cask 'dafont-regulators' do
     url 'http://dl.dafont.com/dl/?f=regulators'
     name 'Regulators'
     homepage 'http://www.dafont.com/regulators.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'regv2.ttf'
     font 'regv2c.ttf'

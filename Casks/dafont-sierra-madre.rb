@@ -5,7 +5,6 @@ cask 'dafont-sierra-madre' do
     url 'http://dl.dafont.com/dl/?f=sierra_madre'
     name 'Sierra Madre'
     homepage 'http://www.dafont.com/sierra-madre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sierra Madre Bold Italic.otf'
     font 'Sierra Madre Bold.otf'

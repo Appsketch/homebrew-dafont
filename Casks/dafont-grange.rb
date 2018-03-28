@@ -5,7 +5,6 @@ cask 'dafont-grange' do
     url 'http://dl.dafont.com/dl/?f=grange'
     name 'Grange'
     homepage 'http://www.dafont.com/grange.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grange.ttf'
 end

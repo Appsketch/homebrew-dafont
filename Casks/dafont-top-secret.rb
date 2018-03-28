@@ -5,7 +5,6 @@ cask 'dafont-top-secret' do
     url 'http://dl.dafont.com/dl/?f=top_secret'
     name 'Top Secret'
     homepage 'http://www.dafont.com/top-secret.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'top_secret.otf'
 end

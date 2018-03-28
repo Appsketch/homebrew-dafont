@@ -5,7 +5,6 @@ cask 'dafont-green-eggs-and-spam' do
     url 'http://dl.dafont.com/dl/?f=green_eggs_and_spam'
     name 'Green Eggs and Spam'
     homepage 'http://www.dafont.com/green-eggs-and-spam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Green Eggs and Spam Outline.ttf'
     font 'Green Eggs and Spam Regular.ttf'

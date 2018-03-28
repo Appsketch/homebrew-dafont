@@ -5,7 +5,6 @@ cask 'dafont-demolition-crack' do
     url 'http://dl.dafont.com/dl/?f=demolition_crack'
     name 'Demolition Crack'
     homepage 'http://www.dafont.com/demolition-crack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Demolition Crack Black.ttf'
     font 'Demolition Crack Shadow.ttf'

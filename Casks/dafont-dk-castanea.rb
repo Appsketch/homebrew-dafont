@@ -5,7 +5,6 @@ cask 'dafont-dk-castanea' do
     url 'http://dl.dafont.com/dl/?f=dk_castanea'
     name 'DK Castanea'
     homepage 'http://www.dafont.com/dk-castanea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Castanea.otf'
 end

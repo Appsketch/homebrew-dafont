@@ -5,7 +5,6 @@ cask 'dafont-jambetica' do
     url 'http://dl.dafont.com/dl/?f=jambetica'
     name 'Jambetica'
     homepage 'http://www.dafont.com/jambetica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jambetica Bold Italic.ttf'
     font 'Jambetica Bold.ttf'

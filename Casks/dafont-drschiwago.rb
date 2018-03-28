@@ -5,7 +5,6 @@ cask 'dafont-drschiwago' do
     url 'http://dl.dafont.com/dl/?f=drschiwago'
     name 'Dr Schiwago'
     homepage 'http://www.dafont.com/drschiwago.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DrSchiwago.otf'
 end

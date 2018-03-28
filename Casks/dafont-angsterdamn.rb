@@ -5,7 +5,6 @@ cask 'dafont-angsterdamn' do
     url 'http://dl.dafont.com/dl/?f=angsterdamn'
     name 'Angsterdamn'
     homepage 'http://www.dafont.com/angsterdamn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angsterdamn.ttf'
 end

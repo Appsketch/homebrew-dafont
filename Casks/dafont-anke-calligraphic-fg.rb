@@ -5,7 +5,6 @@ cask 'dafont-anke-calligraphic-fg' do
     url 'http://dl.dafont.com/dl/?f=anke_calligraphic_fg'
     name 'Anke Calligraphic FG'
     homepage 'http://www.dafont.com/anke-calligraphic-fg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ankecallig-fg.ttf'
 end

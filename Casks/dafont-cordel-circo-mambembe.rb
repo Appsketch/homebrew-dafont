@@ -5,7 +5,6 @@ cask 'dafont-cordel-circo-mambembe' do
     url 'http://dl.dafont.com/dl/?f=cordel_circo_mambembe'
     name 'Cordel Circo Mambembe'
     homepage 'http://www.dafont.com/cordel-circo-mambembe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cordel Circo Mambembe Outline.ttf'
     font 'Cordel Circo Mambembe Soft.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-orbit-racer' do
     url 'http://dl.dafont.com/dl/?f=orbit_racer'
     name 'Orbit Racer'
     homepage 'http://www.dafont.com/orbit-racer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Orbitracer.ttf'
 end

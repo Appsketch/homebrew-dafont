@@ -5,7 +5,6 @@ cask 'dafont-ohdoad' do
     url 'http://dl.dafont.com/dl/?f=ohdoad'
     name 'Ohdoad'
     homepage 'http://www.dafont.com/ohdoad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ohdoad.ttf'
 end

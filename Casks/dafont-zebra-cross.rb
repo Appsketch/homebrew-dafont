@@ -5,7 +5,6 @@ cask 'dafont-zebra-cross' do
     url 'http://dl.dafont.com/dl/?f=zebra_cross'
     name 'Zebra Cross'
     homepage 'http://www.dafont.com/zebra-cross.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zebra CROSS.ttf'
 end

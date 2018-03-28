@@ -5,7 +5,6 @@ cask 'dafont-emmis' do
     url 'http://dl.dafont.com/dl/?f=emmis'
     name 'Emmis'
     homepage 'http://www.dafont.com/emmis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Emmis.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-planeta-zero' do
     url 'http://dl.dafont.com/dl/?f=planeta_zero'
     name 'Planeta Zero'
     homepage 'http://www.dafont.com/planeta-zero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Planeta Zero.ttf'
 end

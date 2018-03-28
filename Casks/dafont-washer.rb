@@ -5,7 +5,6 @@ cask 'dafont-washer' do
     url 'http://dl.dafont.com/dl/?f=washer'
     name 'Washer'
     homepage 'http://www.dafont.com/washer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'washer.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-coats' do
     url 'http://dl.dafont.com/dl/?f=coats'
     name 'Coats'
     homepage 'http://www.dafont.com/coats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TT Coats Light DEMO.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mascaras-de-veneza' do
     url 'http://dl.dafont.com/dl/?f=mascaras_de_veneza'
     name 'M&aacute;scaras de Veneza'
     homepage 'http://www.dafont.com/mascaras-de-veneza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'M_E1scaras_venezianas..Naty_e_Bell.ttf'
 end

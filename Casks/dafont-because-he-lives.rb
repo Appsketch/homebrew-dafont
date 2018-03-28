@@ -5,7 +5,6 @@ cask 'dafont-because-he-lives' do
     url 'http://dl.dafont.com/dl/?f=because_he_lives'
     name 'Because He Lives'
     homepage 'http://www.dafont.com/because-he-lives.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Because He Lives.ttf'
 end

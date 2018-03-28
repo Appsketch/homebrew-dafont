@@ -5,7 +5,6 @@ cask 'dafont-baragaki' do
     url 'http://dl.dafont.com/dl/?f=baragaki'
     name 'Baragaki'
     homepage 'http://www.dafont.com/baragaki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baragaki Demo Mix.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-narrow-rectangle-7' do
     url 'http://dl.dafont.com/dl/?f=narrow_rectangle_7'
     name 'Narrow Rectangle-7'
     homepage 'http://www.dafont.com/narrow-rectangle-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'narrow_rectangle-7.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mauro-grossi' do
     url 'http://dl.dafont.com/dl/?f=mauro_grossi'
     name 'Mauro Grossi'
     homepage 'http://www.dafont.com/mauro-grossi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mauro Grossi.ttf'
 end

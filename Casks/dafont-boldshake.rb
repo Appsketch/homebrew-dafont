@@ -5,7 +5,6 @@ cask 'dafont-boldshake' do
     url 'http://dl.dafont.com/dl/?f=boldshake'
     name 'Bold Shake'
     homepage 'http://www.dafont.com/boldshake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BoldShake.ttf'
 end

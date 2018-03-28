@@ -5,7 +5,6 @@ cask 'dafont-free-nights-weekend' do
     url 'http://dl.dafont.com/dl/?f=free_nights_weekend'
     name 'Free Nights and Weekends'
     homepage 'http://www.dafont.com/free-nights-weekend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Free Nights &amp; Weekends.ttf'
 end

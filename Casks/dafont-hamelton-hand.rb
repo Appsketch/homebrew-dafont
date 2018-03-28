@@ -5,7 +5,6 @@ cask 'dafont-hamelton-hand' do
     url 'http://dl.dafont.com/dl/?f=hamelton_hand'
     name 'Hamelton Hand'
     homepage 'http://www.dafont.com/hamelton-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HM_hamelton_hand.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-duepuntozero' do
     url 'http://dl.dafont.com/dl/?f=duepuntozero'
     name 'Duepuntozero'
     homepage 'http://www.dafont.com/duepuntozero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'duepuntozero_black.otf'
     font 'duepuntozero_bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-muonline' do
     url 'http://dl.dafont.com/dl/?f=muonline'
     name 'MuOnline'
     homepage 'http://www.dafont.com/muonline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Font By Bacardi.ttf'
 end

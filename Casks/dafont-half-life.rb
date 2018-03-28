@@ -5,7 +5,6 @@ cask 'dafont-half-life' do
     url 'http://dl.dafont.com/dl/?f=half_life'
     name 'Half-Life'
     homepage 'http://www.dafont.com/half-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hl1.fon'
     font 'HL2.FON'

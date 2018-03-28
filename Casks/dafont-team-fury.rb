@@ -5,7 +5,6 @@ cask 'dafont-team-fury' do
     url 'http://dl.dafont.com/dl/?f=team_fury'
     name 'Team Fury'
     homepage 'http://www.dafont.com/team-fury.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Team-Fury.ttf'
 end

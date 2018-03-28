@@ -5,7 +5,6 @@ cask 'dafont-jokewood' do
     url 'http://dl.dafont.com/dl/?f=jokewood'
     name 'Jokewood'
     homepage 'http://www.dafont.com/jokewood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JOKEWOOD.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jackrunner' do
     url 'http://dl.dafont.com/dl/?f=jackrunner'
     name 'Jack Runner'
     homepage 'http://www.dafont.com/jackrunner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlterDeco-JackRunner.ttf'
 end

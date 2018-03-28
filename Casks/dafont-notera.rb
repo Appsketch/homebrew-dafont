@@ -5,7 +5,6 @@ cask 'dafont-notera' do
     url 'http://dl.dafont.com/dl/?f=notera'
     name 'Notera'
     homepage 'http://www.dafont.com/notera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Notera_PersonalUseOnly.ttf'
 end

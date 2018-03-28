@@ -5,7 +5,6 @@ cask 'dafont-pkmn-rbygsc' do
     url 'http://dl.dafont.com/dl/?f=pkmn_rbygsc'
     name 'PKMN RBYGSC'
     homepage 'http://www.dafont.com/pkmn-rbygsc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PKMN RBYGSC.ttf'
 end

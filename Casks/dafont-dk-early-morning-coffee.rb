@@ -5,7 +5,6 @@ cask 'dafont-dk-early-morning-coffee' do
     url 'http://dl.dafont.com/dl/?f=dk_early_morning_coffee'
     name 'DK Early Morning Coffee'
     homepage 'http://www.dafont.com/dk-early-morning-coffee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Early Morning Coffee.ttf'
 end

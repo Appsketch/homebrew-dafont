@@ -5,7 +5,6 @@ cask 'dafont-grand-stylus' do
     url 'http://dl.dafont.com/dl/?f=grand_stylus'
     name 'Grand Stylus'
     homepage 'http://www.dafont.com/grand-stylus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grand Stylus.ttf'
 end

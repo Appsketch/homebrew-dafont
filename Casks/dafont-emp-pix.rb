@@ -5,7 +5,6 @@ cask 'dafont-emp-pix' do
     url 'http://dl.dafont.com/dl/?f=emp_pix'
     name 'Emp_Pix'
     homepage 'http://www.dafont.com/emp-pix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'emp_pix.ttf'
 end

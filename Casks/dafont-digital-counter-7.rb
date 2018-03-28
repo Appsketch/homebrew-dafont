@@ -5,7 +5,6 @@ cask 'dafont-digital-counter-7' do
     url 'http://dl.dafont.com/dl/?f=digital_counter_7'
     name 'Digital Counter 7'
     homepage 'http://www.dafont.com/digital-counter-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'digital_counter_7_italic.ttf'
     font 'digital_counter_7.ttf'

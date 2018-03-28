@@ -5,7 +5,6 @@ cask 'dafont-hun-legion' do
     url 'http://dl.dafont.com/dl/?f=hun_legion'
     name 'Hun Legion'
     homepage 'http://www.dafont.com/hun-legion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hun Legion.ttf'
 end

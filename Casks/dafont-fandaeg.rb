@@ -5,7 +5,6 @@ cask 'dafont-fandaeg' do
     url 'http://dl.dafont.com/dl/?f=fandaeg'
     name 'Fandaeg'
     homepage 'http://www.dafont.com/fandaeg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fandaeg.ttf'
 end

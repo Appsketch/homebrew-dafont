@@ -5,7 +5,6 @@ cask 'dafont-pixopopkawaiigirls' do
     url 'http://dl.dafont.com/dl/?f=pixopopkawaiigirls'
     name 'Pixopop Kawaii Girls'
     homepage 'http://www.dafont.com/pixopopkawaiigirls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixopopKawaiiGirls.ttf'
 end

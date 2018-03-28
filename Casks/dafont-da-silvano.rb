@@ -5,7 +5,6 @@ cask 'dafont-da-silvano' do
     url 'http://dl.dafont.com/dl/?f=da_silvano'
     name 'Da Silvano'
     homepage 'http://www.dafont.com/da-silvano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'da silvano.ttf'
 end

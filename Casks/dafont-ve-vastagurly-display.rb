@@ -5,7 +5,6 @@ cask 'dafont-ve-vastagurly-display' do
     url 'http://dl.dafont.com/dl/?f=ve_vastagurly_display'
     name 'VE Vastagurly Display'
     homepage 'http://www.dafont.com/ve-vastagurly-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SA_0294_vastagurly_display.ttf'
 end

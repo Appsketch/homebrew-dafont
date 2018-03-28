@@ -5,7 +5,6 @@ cask 'dafont-mob-concrete' do
     url 'http://dl.dafont.com/dl/?f=mob_concrete'
     name 'Mob Concrete'
     homepage 'http://www.dafont.com/mob-concrete.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mob concrete.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-supertrooper' do
     url 'http://dl.dafont.com/dl/?f=supertrooper'
     name 'Super Trooper'
     homepage 'http://www.dafont.com/supertrooper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPET___.TTF'
 end

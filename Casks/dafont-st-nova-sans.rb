@@ -5,7 +5,6 @@ cask 'dafont-st-nova-sans' do
     url 'http://dl.dafont.com/dl/?f=st_nova_sans'
     name 'St Nova Sans'
     homepage 'http://www.dafont.com/st-nova-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'st novasans.otf'
 end

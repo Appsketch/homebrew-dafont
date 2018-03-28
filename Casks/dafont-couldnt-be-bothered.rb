@@ -5,7 +5,6 @@ cask 'dafont-couldnt-be-bothered' do
     url 'http://dl.dafont.com/dl/?f=couldnt_be_bothered'
     name 'Couldnt Be Bothered'
     homepage 'http://www.dafont.com/couldnt-be-bothered.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CouldntBeBothered.ttf'
 end

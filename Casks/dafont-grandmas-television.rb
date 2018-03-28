@@ -5,7 +5,6 @@ cask 'dafont-grandmas-television' do
     url 'http://dl.dafont.com/dl/?f=grandmas_television'
     name 'Grandma&#039;s Television'
     homepage 'http://www.dafont.com/grandmas-television.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grandma&#039;s Television.otf'
 end

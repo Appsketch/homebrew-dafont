@@ -5,7 +5,6 @@ cask 'dafont-friedbread' do
     url 'http://dl.dafont.com/dl/?f=friedbread'
     name 'Fried Bread'
     homepage 'http://www.dafont.com/friedbread.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FriedBread.ttf'
 end

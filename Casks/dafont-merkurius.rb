@@ -5,7 +5,6 @@ cask 'dafont-merkurius' do
     url 'http://dl.dafont.com/dl/?f=merkurius'
     name 'Merkurius'
     homepage 'http://www.dafont.com/merkurius.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Merkurius.ttf'
 end

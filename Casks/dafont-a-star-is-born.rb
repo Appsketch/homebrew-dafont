@@ -5,7 +5,6 @@ cask 'dafont-a-star-is-born' do
     url 'http://dl.dafont.com/dl/?f=a_star_is_born'
     name 'A star is born'
     homepage 'http://www.dafont.com/a-star-is-born.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASTAB___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-renegade' do
     url 'http://dl.dafont.com/dl/?f=renegade'
     name 'Renegade'
     homepage 'http://www.dafont.com/renegade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Renegade Italic.otf'
     font 'Renegade.otf'

@@ -5,7 +5,6 @@ cask 'dafont-the-green-life' do
     url 'http://dl.dafont.com/dl/?f=the_green_life'
     name 'The Green Life'
     homepage 'http://www.dafont.com/the-green-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Green Life.ttf'
 end

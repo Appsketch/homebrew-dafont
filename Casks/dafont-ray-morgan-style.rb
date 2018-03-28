@@ -5,7 +5,6 @@ cask 'dafont-ray-morgan-style' do
     url 'http://dl.dafont.com/dl/?f=ray_morgan_style'
     name 'Ray Morgan Style'
     homepage 'http://www.dafont.com/ray-morgan-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RayMorganStyle.ttf'
 end

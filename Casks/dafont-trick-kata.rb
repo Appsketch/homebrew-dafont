@@ -5,7 +5,6 @@ cask 'dafont-trick-kata' do
     url 'http://dl.dafont.com/dl/?f=trick_kata'
     name 'Trick Kata'
     homepage 'http://www.dafont.com/trick-kata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRICRG__.TTF'
 end

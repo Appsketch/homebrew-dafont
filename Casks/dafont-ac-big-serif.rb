@@ -5,7 +5,6 @@ cask 'dafont-ac-big-serif' do
     url 'http://dl.dafont.com/dl/?f=ac_big_serif'
     name 'AC Big Serif'
     homepage 'http://www.dafont.com/ac-big-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AC_BigSerif_One.otf'
     font 'AC_BigSerif_Two.otf'

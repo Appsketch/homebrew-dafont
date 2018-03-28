@@ -5,7 +5,6 @@ cask 'dafont-pepgenious10' do
     url 'http://dl.dafont.com/dl/?f=pepgenious10'
     name 'PEPgenious10'
     homepage 'http://www.dafont.com/pepgenious10.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pepgenius10.ttf'
 end

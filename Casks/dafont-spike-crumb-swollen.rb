@@ -5,7 +5,6 @@ cask 'dafont-spike-crumb-swollen' do
     url 'http://dl.dafont.com/dl/?f=spike_crumb_swollen'
     name 'Spike Crumb'
     homepage 'http://www.dafont.com/spike-crumb-swollen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPIKCG__.TTF'
     font 'SPIKCS__.TTF'

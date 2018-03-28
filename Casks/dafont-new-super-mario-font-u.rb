@@ -5,7 +5,6 @@ cask 'dafont-new-super-mario-font-u' do
     url 'http://dl.dafont.com/dl/?f=new_super_mario_font_u'
     name 'New Super Mario Font U'
     homepage 'http://www.dafont.com/new-super-mario-font-u.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New Super Mario Font U.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-huruf-miranti' do
     url 'http://dl.dafont.com/dl/?f=huruf_miranti'
     name 'Huruf Miranti'
     homepage 'http://www.dafont.com/huruf-miranti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Huruf Miranti Bold.ttf'
     font 'Huruf Miranti.ttf'

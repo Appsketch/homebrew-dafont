@@ -5,7 +5,6 @@ cask 'dafont-american-dad-good-morning-usa' do
     url 'http://dl.dafont.com/dl/?f=american_dad_good_morning_usa'
     name 'American Dad Good Morning USA'
     homepage 'http://www.dafont.com/american-dad-good-morning-usa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AMERICAN DAD GOOD MORNING USA.ttf'
 end

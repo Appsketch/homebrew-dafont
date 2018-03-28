@@ -5,7 +5,6 @@ cask 'dafont-american-purpose-stripe-1' do
     url 'http://dl.dafont.com/dl/?f=american_purpose_stripe_1'
     name 'American Purpose'
     homepage 'http://www.dafont.com/american-purpose-stripe-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'American Purpose STRIPE 1 Bold Italic.ttf'
     font 'American Purpose STRIPE 1 Bold.ttf'

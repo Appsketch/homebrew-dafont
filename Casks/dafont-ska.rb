@@ -5,7 +5,6 @@ cask 'dafont-ska' do
     url 'http://dl.dafont.com/dl/?f=ska'
     name 'Ska+'
     homepage 'http://www.dafont.com/ska.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ska+.ttf'
 end

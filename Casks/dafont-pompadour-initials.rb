@@ -5,7 +5,6 @@ cask 'dafont-pompadour-initials' do
     url 'http://dl.dafont.com/dl/?f=pompadour_initials'
     name 'Pompadour Initials'
     homepage 'http://www.dafont.com/pompadour-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POMPADOU.TTF'
 end

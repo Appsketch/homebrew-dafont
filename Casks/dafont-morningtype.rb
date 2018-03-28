@@ -5,7 +5,6 @@ cask 'dafont-morningtype' do
     url 'http://dl.dafont.com/dl/?f=morningtype'
     name 'Morningtype'
     homepage 'http://www.dafont.com/morningtype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Morningtype Bold.ttf'
     font 'Morningtype Light.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-idk-tumblr' do
     url 'http://dl.dafont.com/dl/?f=idk_tumblr'
     name 'IDK Tumblr'
     homepage 'http://www.dafont.com/idk-tumblr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'idk-tumblr.ttf'
 end

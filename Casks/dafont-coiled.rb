@@ -5,7 +5,6 @@ cask 'dafont-coiled' do
     url 'http://dl.dafont.com/dl/?f=coiled'
     name 'Coiled Uncial'
     homepage 'http://www.dafont.com/coiled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COILED.TTF'
 end

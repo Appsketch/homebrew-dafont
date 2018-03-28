@@ -5,7 +5,6 @@ cask 'dafont-round-343930' do
     url 'http://dl.dafont.com/dl/?f=round_343930'
     name 'Round'
     homepage 'http://www.dafont.com/round-343930.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Round Bold.ttf'
     font 'Round Italic.ttf'

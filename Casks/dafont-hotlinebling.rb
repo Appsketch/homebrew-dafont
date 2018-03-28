@@ -5,7 +5,6 @@ cask 'dafont-hotlinebling' do
     url 'http://dl.dafont.com/dl/?f=hotlinebling'
     name 'Hotline Bling'
     homepage 'http://www.dafont.com/hotlinebling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HotlineBling.ttf'
 end

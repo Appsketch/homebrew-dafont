@@ -5,7 +5,6 @@ cask 'dafont-srinova' do
     url 'http://dl.dafont.com/dl/?f=srinova'
     name 'Srinova'
     homepage 'http://www.dafont.com/srinova.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Srinova.ttf'
 end

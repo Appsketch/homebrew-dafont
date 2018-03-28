@@ -5,7 +5,6 @@ cask 'dafont-drakolomb' do
     url 'http://dl.dafont.com/dl/?f=drakolomb'
     name 'Drakolomb'
     homepage 'http://www.dafont.com/drakolomb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drakolomb.otf'
 end

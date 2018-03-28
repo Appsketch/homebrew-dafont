@@ -5,7 +5,6 @@ cask 'dafont-gling' do
     url 'http://dl.dafont.com/dl/?f=gling'
     name 'Gling'
     homepage 'http://www.dafont.com/gling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gling.ttf'
 end

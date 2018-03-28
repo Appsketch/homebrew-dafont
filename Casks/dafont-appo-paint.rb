@@ -5,7 +5,6 @@ cask 'dafont-appo-paint' do
     url 'http://dl.dafont.com/dl/?f=appo_paint'
     name 'Appo Paint'
     homepage 'http://www.dafont.com/appo-paint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'appo_paint-new.otf'
 end

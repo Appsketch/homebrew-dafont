@@ -5,7 +5,6 @@ cask 'dafont-kelissa' do
     url 'http://dl.dafont.com/dl/?f=kelissa'
     name 'Kelissa'
     homepage 'http://www.dafont.com/kelissa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kelissa.ttf'
 end

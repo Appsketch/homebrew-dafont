@@ -5,7 +5,6 @@ cask 'dafont-elementalend' do
     url 'http://dl.dafont.com/dl/?f=elementalend'
     name 'Elemental End'
     homepage 'http://www.dafont.com/elementalend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elemental End italic.ttf'
     font 'Elemental End.ttf'

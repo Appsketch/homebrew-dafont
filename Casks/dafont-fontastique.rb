@@ -5,7 +5,6 @@ cask 'dafont-fontastique' do
     url 'http://dl.dafont.com/dl/?f=fontastique'
     name 'Fontastique'
     homepage 'http://www.dafont.com/fontastique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fontastique.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-allan-rooster' do
     url 'http://dl.dafont.com/dl/?f=allan_rooster'
     name 'Allan Rooster'
     homepage 'http://www.dafont.com/allan-rooster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Allan Rooster.ttf'
 end

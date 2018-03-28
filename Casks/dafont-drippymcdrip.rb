@@ -5,7 +5,6 @@ cask 'dafont-drippymcdrip' do
     url 'http://dl.dafont.com/dl/?f=drippymcdrip'
     name 'Drippy McDrip'
     homepage 'http://www.dafont.com/drippymcdrip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DrippyMcDrip_NM.ttf'
 end

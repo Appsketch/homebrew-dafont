@@ -5,7 +5,6 @@ cask 'dafont-pawprints' do
     url 'http://dl.dafont.com/dl/?f=pawprints'
     name 'Paw Prints'
     homepage 'http://www.dafont.com/pawprints.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PawPrints.ttf'
 end

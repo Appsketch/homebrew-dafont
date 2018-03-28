@@ -5,7 +5,6 @@ cask 'dafont-schwabstrasse' do
     url 'http://dl.dafont.com/dl/?f=schwabstrasse'
     name 'Schwabstrasse'
     homepage 'http://www.dafont.com/schwabstrasse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'schwabstrasse.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mosaical' do
     url 'http://dl.dafont.com/dl/?f=mosaical'
     name 'Mosaical'
     homepage 'http://www.dafont.com/mosaical.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mosaical.ttf'
 end

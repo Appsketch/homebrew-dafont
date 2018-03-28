@@ -5,7 +5,6 @@ cask 'dafont-easyromance' do
     url 'http://dl.dafont.com/dl/?f=easyromance'
     name 'Easy Romance'
     homepage 'http://www.dafont.com/easyromance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EasyRomance.ttf'
 end

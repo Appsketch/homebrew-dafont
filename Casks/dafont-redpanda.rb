@@ -5,7 +5,6 @@ cask 'dafont-redpanda' do
     url 'http://dl.dafont.com/dl/?f=redpanda'
     name 'Red Panda'
     homepage 'http://www.dafont.com/redpanda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RedPanda.ttf'
 end

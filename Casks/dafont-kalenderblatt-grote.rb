@@ -5,7 +5,6 @@ cask 'dafont-kalenderblatt-grote' do
     url 'http://dl.dafont.com/dl/?f=kalenderblatt_grote'
     name 'Kalenderblatt Grotesk'
     homepage 'http://www.dafont.com/kalenderblatt-grote.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KalenderblattGrotesk.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ryja' do
     url 'http://dl.dafont.com/dl/?f=ryja'
     name 'Ryja'
     homepage 'http://www.dafont.com/ryja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ryja.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-radioactive' do
     url 'http://dl.dafont.com/dl/?f=radioactive'
     name 'Radioactive'
     homepage 'http://www.dafont.com/radioactive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'radioactive.ttf'
 end

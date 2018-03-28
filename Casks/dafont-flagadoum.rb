@@ -5,7 +5,6 @@ cask 'dafont-flagadoum' do
     url 'http://dl.dafont.com/dl/?f=flagadoum'
     name 'Flagadoum'
     homepage 'http://www.dafont.com/flagadoum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flagadoum.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-plantiya-2' do
     url 'http://dl.dafont.com/dl/?f=plantiya_2'
     name 'Plantiya'
     homepage 'http://www.dafont.com/plantiya-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DFH-DIN1.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nulshock' do
     url 'http://dl.dafont.com/dl/?f=nulshock'
     name 'Nulshock'
     homepage 'http://www.dafont.com/nulshock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nulshock bd.ttf'
 end

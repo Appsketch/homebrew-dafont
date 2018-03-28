@@ -5,7 +5,6 @@ cask 'dafont-hillside-vista' do
     url 'http://dl.dafont.com/dl/?f=hillside_vista'
     name 'Hillside Vista'
     homepage 'http://www.dafont.com/hillside-vista.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hillside Vista.otf'
 end

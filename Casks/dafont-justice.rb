@@ -5,7 +5,6 @@ cask 'dafont-justice' do
     url 'http://dl.dafont.com/dl/?f=justice'
     name 'Justice'
     homepage 'http://www.dafont.com/justice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'justice.ttf'
     font 'justice3d.ttf'

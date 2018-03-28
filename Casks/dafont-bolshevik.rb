@@ -5,7 +5,6 @@ cask 'dafont-bolshevik' do
     url 'http://dl.dafont.com/dl/?f=bolshevik'
     name 'Bolshevik'
     homepage 'http://www.dafont.com/bolshevik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bolshevik.otf'
     font 'BolshevikBd.otf'

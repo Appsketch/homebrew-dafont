@@ -5,7 +5,6 @@ cask 'dafont-super' do
     url 'http://dl.dafont.com/dl/?f=super'
     name 'Super'
     homepage 'http://www.dafont.com/super.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPER !!.ttf'
 end

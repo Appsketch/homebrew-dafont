@@ -5,7 +5,6 @@ cask 'dafont-uwjack8' do
     url 'http://dl.dafont.com/dl/?f=uwjack8'
     name 'UWJack8'
     homepage 'http://www.dafont.com/uwjack8.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UWJACK_beta.TTF'
 end

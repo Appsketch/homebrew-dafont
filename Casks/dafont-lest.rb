@@ -5,7 +5,6 @@ cask 'dafont-lest' do
     url 'http://dl.dafont.com/dl/?f=lest'
     name 'Lest'
     homepage 'http://www.dafont.com/lest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lest.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-echinos-park-script' do
     url 'http://dl.dafont.com/dl/?f=echinos_park_script'
     name 'Echinos Park Script'
     homepage 'http://www.dafont.com/echinos-park-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EchinosParkScript_PERSONAL_USE_ONLY.ttf'
 end

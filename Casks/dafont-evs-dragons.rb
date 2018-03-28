@@ -5,7 +5,6 @@ cask 'dafont-evs-dragons' do
     url 'http://dl.dafont.com/dl/?f=evs_dragons'
     name 'Ev&#039;s Dragons'
     homepage 'http://www.dafont.com/evs-dragons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Evs Dragons.ttf'
 end

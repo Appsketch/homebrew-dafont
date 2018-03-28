@@ -5,7 +5,6 @@ cask 'dafont-pwserifscratch' do
     url 'http://dl.dafont.com/dl/?f=pwserifscratch'
     name 'PW Serif Scratch'
     homepage 'http://www.dafont.com/pwserifscratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWSerifScratch.ttf'
 end

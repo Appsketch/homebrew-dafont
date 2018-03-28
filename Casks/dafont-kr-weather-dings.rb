@@ -5,7 +5,6 @@ cask 'dafont-kr-weather-dings' do
     url 'http://dl.dafont.com/dl/?f=kr_weather_dings'
     name 'KR Weather Dings'
     homepage 'http://www.dafont.com/kr-weather-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Weather Dings.ttf'
 end

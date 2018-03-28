@@ -5,7 +5,6 @@ cask 'dafont-ludico' do
     url 'http://dl.dafont.com/dl/?f=ludico'
     name 'Ludico'
     homepage 'http://www.dafont.com/ludico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LUDICO.otf'
 end

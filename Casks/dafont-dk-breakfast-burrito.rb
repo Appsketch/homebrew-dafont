@@ -5,7 +5,6 @@ cask 'dafont-dk-breakfast-burrito' do
     url 'http://dl.dafont.com/dl/?f=dk_breakfast_burrito'
     name 'DK Breakfast Burrito'
     homepage 'http://www.dafont.com/dk-breakfast-burrito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Breakfast Burrito.otf'
 end

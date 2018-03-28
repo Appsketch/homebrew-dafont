@@ -5,7 +5,6 @@ cask 'dafont-alleghieri' do
     url 'http://dl.dafont.com/dl/?f=alleghieri'
     name 'Alleghieri'
     homepage 'http://www.dafont.com/alleghieri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALLED___.TTF'
 end

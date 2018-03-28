@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-electric' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_electric'
     name 'Woodcutter Electric'
     homepage 'http://www.dafont.com/woodcutter-electric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter Electric.ttf'
 end

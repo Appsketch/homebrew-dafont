@@ -5,7 +5,6 @@ cask 'dafont-space-comics' do
     url 'http://dl.dafont.com/dl/?f=space_comics'
     name 'Space Comics'
     homepage 'http://www.dafont.com/space-comics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Space Comics.ttf'
 end

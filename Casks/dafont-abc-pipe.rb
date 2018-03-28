@@ -5,7 +5,6 @@ cask 'dafont-abc-pipe' do
     url 'http://dl.dafont.com/dl/?f=abc_pipe'
     name 'ABC, pipe'
     homepage 'http://www.dafont.com/abc-pipe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'abc_pipe.ttf'
 end

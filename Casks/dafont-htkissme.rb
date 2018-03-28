@@ -5,7 +5,6 @@ cask 'dafont-htkissme' do
     url 'http://dl.dafont.com/dl/?f=htkissme'
     name 'Ht Kiss Me'
     homepage 'http://www.dafont.com/htkissme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'htKissMe.ttf'
 end

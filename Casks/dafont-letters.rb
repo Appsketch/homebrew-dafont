@@ -5,7 +5,6 @@ cask 'dafont-letters' do
     url 'http://dl.dafont.com/dl/?f=letters'
     name 'Letters'
     homepage 'http://www.dafont.com/letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LETTERS_.TTF'
     font 'LETTIF__.TTF'

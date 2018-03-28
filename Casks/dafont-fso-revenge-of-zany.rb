@@ -5,7 +5,6 @@ cask 'dafont-fso-revenge-of-zany' do
     url 'http://dl.dafont.com/dl/?f=fso_revenge_of_zany'
     name 'FSO Revenge of Zany'
     homepage 'http://www.dafont.com/fso-revenge-of-zany.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FSOREVEN.TTF'
 end

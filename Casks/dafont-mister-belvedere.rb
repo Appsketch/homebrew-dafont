@@ -5,7 +5,6 @@ cask 'dafont-mister-belvedere' do
     url 'http://dl.dafont.com/dl/?f=mister_belvedere'
     name 'Mister Belvedere'
     homepage 'http://www.dafont.com/mister-belvedere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'machauer.ttf'
 end

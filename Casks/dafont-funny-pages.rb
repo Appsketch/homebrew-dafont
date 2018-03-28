@@ -5,7 +5,6 @@ cask 'dafont-funny-pages' do
     url 'http://dl.dafont.com/dl/?f=funny_pages'
     name 'Funny Pages'
     homepage 'http://www.dafont.com/funny-pages.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Funny2.ttf'
     font 'Funny2s.ttf'

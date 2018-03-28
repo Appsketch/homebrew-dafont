@@ -5,7 +5,6 @@ cask 'dafont-sugarspice' do
     url 'http://dl.dafont.com/dl/?f=sugarspice'
     name 'Sugar Spice'
     homepage 'http://www.dafont.com/sugarspice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sugar &amp; Spice.ttf'
 end

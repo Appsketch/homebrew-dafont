@@ -5,7 +5,6 @@ cask 'dafont-apocalypse2' do
     url 'http://dl.dafont.com/dl/?f=apocalypse2'
     name 'Apocalypse'
     homepage 'http://www.dafont.com/apocalypse2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Apocalypse.ttf'
 end

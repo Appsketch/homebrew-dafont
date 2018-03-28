@@ -5,7 +5,6 @@ cask 'dafont-razing' do
     url 'http://dl.dafont.com/dl/?f=razing'
     name 'Razing'
     homepage 'http://www.dafont.com/razing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Razing.ttf'
 end

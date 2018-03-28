@@ -5,7 +5,6 @@ cask 'dafont-geomancy' do
     url 'http://dl.dafont.com/dl/?f=geomancy'
     name 'Geomancy'
     homepage 'http://www.dafont.com/geomancy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Geomancy - Extra Bold.otf'
     font 'Geomancy - Hairline.otf'

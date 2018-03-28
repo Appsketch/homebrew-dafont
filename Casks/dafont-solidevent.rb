@@ -5,7 +5,6 @@ cask 'dafont-solidevent' do
     url 'http://dl.dafont.com/dl/?f=solidevent'
     name 'Solid Event'
     homepage 'http://www.dafont.com/solidevent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SolidEvent.ttf'
 end

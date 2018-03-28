@@ -5,7 +5,6 @@ cask 'dafont-fka-font' do
     url 'http://dl.dafont.com/dl/?f=fka_font'
     name 'FKA Font'
     homepage 'http://www.dafont.com/fka-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fkafont_.ttf'
 end

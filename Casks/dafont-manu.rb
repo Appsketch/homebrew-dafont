@@ -5,7 +5,6 @@ cask 'dafont-manu' do
     url 'http://dl.dafont.com/dl/?f=manu'
     name 'Manu'
     homepage 'http://www.dafont.com/manu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'manu_v1.ttf'
 end

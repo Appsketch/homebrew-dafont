@@ -5,7 +5,6 @@ cask 'dafont-dk-brush-crush' do
     url 'http://dl.dafont.com/dl/?f=dk_brush_crush'
     name 'DK Brush Crush'
     homepage 'http://www.dafont.com/dk-brush-crush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Brush Crush.otf'
 end

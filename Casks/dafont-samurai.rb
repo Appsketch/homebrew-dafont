@@ -5,7 +5,6 @@ cask 'dafont-samurai' do
     url 'http://dl.dafont.com/dl/?f=samurai'
     name 'Samurai'
     homepage 'http://www.dafont.com/samurai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'samurai.ttf'
 end

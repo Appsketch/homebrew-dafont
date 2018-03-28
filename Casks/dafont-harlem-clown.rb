@@ -5,7 +5,6 @@ cask 'dafont-harlem-clown' do
     url 'http://dl.dafont.com/dl/?f=harlem_clown'
     name 'Harlem Clown'
     homepage 'http://www.dafont.com/harlem-clown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HARLC___.TTF'
 end

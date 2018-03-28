@@ -5,7 +5,6 @@ cask 'dafont-ptits-pirates' do
     url 'http://dl.dafont.com/dl/?f=ptits_pirates'
     name 'Ptits Pirates'
     homepage 'http://www.dafont.com/ptits-pirates.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ptits Pirates.ttf'
 end

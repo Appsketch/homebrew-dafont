@@ -5,7 +5,6 @@ cask 'dafont-jette' do
     url 'http://dl.dafont.com/dl/?f=jette'
     name 'Jette'
     homepage 'http://www.dafont.com/jette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jette.ttf'
 end

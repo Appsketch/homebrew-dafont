@@ -5,7 +5,6 @@ cask 'dafont-musa-ornata' do
     url 'http://dl.dafont.com/dl/?f=musa_ornata'
     name 'Musa Ornata'
     homepage 'http://www.dafont.com/musa-ornata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nuornata.ttf'
 end

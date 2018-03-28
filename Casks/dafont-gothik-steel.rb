@@ -5,7 +5,6 @@ cask 'dafont-gothik-steel' do
     url 'http://dl.dafont.com/dl/?f=gothik_steel'
     name 'Gothik Steel'
     homepage 'http://www.dafont.com/gothik-steel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gothik Steel.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-the-lost-paintings' do
     url 'http://dl.dafont.com/dl/?f=the_lost_paintings'
     name 'The Lost Paintings'
     homepage 'http://www.dafont.com/the-lost-paintings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Lost Paintings.ttf'
 end

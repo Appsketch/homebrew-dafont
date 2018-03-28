@@ -5,7 +5,6 @@ cask 'dafont-kbtheendisbroken' do
     url 'http://dl.dafont.com/dl/?f=kbtheendisbroken'
     name 'Kb Theend Is Broken'
     homepage 'http://www.dafont.com/kbtheendisbroken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBTHEENDisBROKEN.ttf'
 end

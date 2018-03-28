@@ -5,7 +5,6 @@ cask 'dafont-fontco-fences' do
     url 'http://dl.dafont.com/dl/?f=fontco_fences'
     name 'FontCo Fences'
     homepage 'http://www.dafont.com/fontco-fences.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FcoFences.ttf'
 end

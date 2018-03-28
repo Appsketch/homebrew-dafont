@@ -5,7 +5,6 @@ cask 'dafont-winetasting' do
     url 'http://dl.dafont.com/dl/?f=winetasting'
     name 'Wine Tasting'
     homepage 'http://www.dafont.com/winetasting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WineTasting.ttf'
 end

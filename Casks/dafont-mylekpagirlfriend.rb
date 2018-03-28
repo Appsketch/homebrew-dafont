@@ -5,7 +5,6 @@ cask 'dafont-mylekpagirlfriend' do
     url 'http://dl.dafont.com/dl/?f=mylekpagirlfriend'
     name 'My Lekpa Girlfriend'
     homepage 'http://www.dafont.com/mylekpagirlfriend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My Lekpa Girlfriend.ttf'
 end

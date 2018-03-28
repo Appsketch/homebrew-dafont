@@ -5,7 +5,6 @@ cask 'dafont-swagmasta' do
     url 'http://dl.dafont.com/dl/?f=swagmasta'
     name 'Swagmasta'
     homepage 'http://www.dafont.com/swagmasta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swagmasta.ttf'
 end

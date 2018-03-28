@@ -5,7 +5,6 @@ cask 'dafont-manuscrite' do
     url 'http://dl.dafont.com/dl/?f=manuscrite'
     name 'Manuscrite'
     homepage 'http://www.dafont.com/manuscrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MANUSCRITE.ttf'
 end

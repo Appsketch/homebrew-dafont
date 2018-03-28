@@ -5,7 +5,6 @@ cask 'dafont-question-of-time' do
     url 'http://dl.dafont.com/dl/?f=question_of_time'
     name 'Question of Time'
     homepage 'http://www.dafont.com/question-of-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUESTIONOFTIME.TTF'
     font 'QUESTIONOFTIMESIMPLE.TTF'

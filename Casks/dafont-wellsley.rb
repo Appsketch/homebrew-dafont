@@ -5,7 +5,6 @@ cask 'dafont-wellsley' do
     url 'http://dl.dafont.com/dl/?f=wellsley'
     name 'Wellsley'
     homepage 'http://www.dafont.com/wellsley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WELLSLEY.TTF'
 end

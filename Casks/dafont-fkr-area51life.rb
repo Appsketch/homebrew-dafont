@@ -5,7 +5,6 @@ cask 'dafont-fkr-area51life' do
     url 'http://dl.dafont.com/dl/?f=fkr_area51life'
     name 'FKR Area51Life'
     homepage 'http://www.dafont.com/fkr-area51life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fkr_area51life.ttf'
 end

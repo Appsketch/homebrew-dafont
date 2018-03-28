@@ -5,7 +5,6 @@ cask 'dafont-the-defiler' do
     url 'http://dl.dafont.com/dl/?f=the_defiler'
     name 'The Defiler'
     homepage 'http://www.dafont.com/the-defiler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheDefiler.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-remanence' do
     url 'http://dl.dafont.com/dl/?f=remanence'
     name 'Remanence'
     homepage 'http://www.dafont.com/remanence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Remanence.ttf'
 end

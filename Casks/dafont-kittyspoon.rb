@@ -5,7 +5,6 @@ cask 'dafont-kittyspoon' do
     url 'http://dl.dafont.com/dl/?f=kittyspoon'
     name 'Kittyspoon'
     homepage 'http://www.dafont.com/kittyspoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kittyspoon.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yay14' do
     url 'http://dl.dafont.com/dl/?f=yay14'
     name 'yay 14'
     homepage 'http://www.dafont.com/yay14.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yay14.ttf'
 end

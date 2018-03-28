@@ -5,7 +5,6 @@ cask 'dafont-earthheart' do
     url 'http://dl.dafont.com/dl/?f=earthheart'
     name 'Earth Heart'
     homepage 'http://www.dafont.com/earthheart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'earthheart.ttf'
 end

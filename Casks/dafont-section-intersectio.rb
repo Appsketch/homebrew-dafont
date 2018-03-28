@@ -5,7 +5,6 @@ cask 'dafont-section-intersectio' do
     url 'http://dl.dafont.com/dl/?f=section_intersectio'
     name 'Section Intersection'
     homepage 'http://www.dafont.com/section-intersectio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SectiI00.ttf'
 end

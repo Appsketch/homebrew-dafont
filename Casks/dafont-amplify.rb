@@ -5,7 +5,6 @@ cask 'dafont-amplify' do
     url 'http://dl.dafont.com/dl/?f=amplify'
     name 'Amplify'
     homepage 'http://www.dafont.com/amplify.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amplify_PersonalUseOnly.ttf'
 end

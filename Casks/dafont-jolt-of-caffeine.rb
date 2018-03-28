@@ -5,7 +5,6 @@ cask 'dafont-jolt-of-caffeine' do
     url 'http://dl.dafont.com/dl/?f=jolt_of_caffeine'
     name 'Jolt Of Caffeine'
     homepage 'http://www.dafont.com/jolt-of-caffeine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'joltcaff.ttf'
 end

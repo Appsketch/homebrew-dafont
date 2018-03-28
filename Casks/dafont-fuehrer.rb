@@ -5,7 +5,6 @@ cask 'dafont-fuehrer' do
     url 'http://dl.dafont.com/dl/?f=fuehrer'
     name 'Fuehrer'
     homepage 'http://www.dafont.com/fuehrer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fuehrer.ttf'
 end

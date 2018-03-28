@@ -5,7 +5,6 @@ cask 'dafont-blondie' do
     url 'http://dl.dafont.com/dl/?f=blondie'
     name 'Blondie'
     homepage 'http://www.dafont.com/blondie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blondie_29.ttf'
 end

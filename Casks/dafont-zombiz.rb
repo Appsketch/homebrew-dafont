@@ -5,7 +5,6 @@ cask 'dafont-zombiz' do
     url 'http://dl.dafont.com/dl/?f=zombiz'
     name 'Zombiz'
     homepage 'http://www.dafont.com/zombiz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zombiz.ttf'
 end

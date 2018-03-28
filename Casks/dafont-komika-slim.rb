@@ -5,7 +5,6 @@ cask 'dafont-komika-slim' do
     url 'http://dl.dafont.com/dl/?f=komika_slim'
     name 'Komika Slick + Slim'
     homepage 'http://www.dafont.com/komika-slim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKASK.ttf'
     font 'KOMIKASL.ttf'

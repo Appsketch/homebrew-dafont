@@ -5,7 +5,6 @@ cask 'dafont-flower-in-the-window' do
     url 'http://dl.dafont.com/dl/?f=flower_in_the_window'
     name 'Flower In The Window'
     homepage 'http://www.dafont.com/flower-in-the-window.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flower In The Window.ttf'
 end

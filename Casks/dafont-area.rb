@@ -5,7 +5,6 @@ cask 'dafont-area' do
     url 'http://dl.dafont.com/dl/?f=area'
     name 'Area'
     homepage 'http://www.dafont.com/area.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AREAL___.TTF'
     font 'AREAO___.TTF'

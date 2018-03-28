@@ -5,7 +5,6 @@ cask 'dafont-corporate-suit' do
     url 'http://dl.dafont.com/dl/?f=corporate_suit'
     name 'Corporate Suit'
     homepage 'http://www.dafont.com/corporate-suit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'corpoaratesdw.ttf'
 end

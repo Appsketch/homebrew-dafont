@@ -5,7 +5,6 @@ cask 'dafont-sibling-rivalry' do
     url 'http://dl.dafont.com/dl/?f=sibling_rivalry'
     name 'Sibling Rivalry'
     homepage 'http://www.dafont.com/sibling-rivalry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sibling Rivalry.ttf'
 end

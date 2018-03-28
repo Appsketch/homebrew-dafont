@@ -5,7 +5,6 @@ cask 'dafont-mr-fuglesang' do
     url 'http://dl.dafont.com/dl/?f=mr_fuglesang'
     name 'Mr Fuglesang'
     homepage 'http://www.dafont.com/mr-fuglesang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MRFUGLESANG_CLEAN.ttf'
     font 'MRFUGLESANG_OUTLINE.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-musicals' do
     url 'http://dl.dafont.com/dl/?f=musicals'
     name 'Musicals'
     homepage 'http://www.dafont.com/musicals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Musicals.ttf'
 end

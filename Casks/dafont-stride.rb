@@ -5,7 +5,6 @@ cask 'dafont-stride' do
     url 'http://dl.dafont.com/dl/?f=stride'
     name 'Stride'
     homepage 'http://www.dafont.com/stride.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stride.ttf'
 end

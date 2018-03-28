@@ -5,7 +5,6 @@ cask 'dafont-dawner' do
     url 'http://dl.dafont.com/dl/?f=dawner'
     name 'Dawner'
     homepage 'http://www.dafont.com/dawner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dawner Bold.ttf'
     font 'Dawner Light.ttf'

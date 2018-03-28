@@ -5,7 +5,6 @@ cask 'dafont-new-space' do
     url 'http://dl.dafont.com/dl/?f=new_space'
     name 'New Space'
     homepage 'http://www.dafont.com/new-space.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New Space.ttf'
 end

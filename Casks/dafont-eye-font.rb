@@ -5,7 +5,6 @@ cask 'dafont-eye-font' do
     url 'http://dl.dafont.com/dl/?f=eye_font'
     name 'Eye Font'
     homepage 'http://www.dafont.com/eye-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EYEfont.ttf'
 end

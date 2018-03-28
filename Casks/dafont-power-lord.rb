@@ -5,7 +5,6 @@ cask 'dafont-power-lord' do
     url 'http://dl.dafont.com/dl/?f=power_lord'
     name 'Power Lord'
     homepage 'http://www.dafont.com/power-lord.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'powerlord.ttf'
     font 'powerlord3d.ttf'

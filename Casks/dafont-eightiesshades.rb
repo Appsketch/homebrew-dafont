@@ -5,7 +5,6 @@ cask 'dafont-eightiesshades' do
     url 'http://dl.dafont.com/dl/?f=eightiesshades'
     name 'Eighties Shades'
     homepage 'http://www.dafont.com/eightiesshades.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EightiesShades.ttf'
 end

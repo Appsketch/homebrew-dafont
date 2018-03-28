@@ -5,7 +5,6 @@ cask 'dafont-prociono' do
     url 'http://dl.dafont.com/dl/?f=prociono'
     name 'Prociono'
     homepage 'http://www.dafont.com/prociono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Prociono-Regular.otf'
 end

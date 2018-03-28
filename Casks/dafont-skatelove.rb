@@ -5,7 +5,6 @@ cask 'dafont-skatelove' do
     url 'http://dl.dafont.com/dl/?f=skatelove'
     name 'Skatelove'
     homepage 'http://www.dafont.com/skatelove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skatelove_28tour2009_29.ttf'
     font 'SKATELOVE.ttf'

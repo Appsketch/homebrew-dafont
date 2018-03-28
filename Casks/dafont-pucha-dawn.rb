@@ -5,7 +5,6 @@ cask 'dafont-pucha-dawn' do
     url 'http://dl.dafont.com/dl/?f=pucha_dawn'
     name 'Pucha Dawn'
     homepage 'http://www.dafont.com/pucha-dawn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pucha DAWN.ttf'
 end

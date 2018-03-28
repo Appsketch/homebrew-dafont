@@ -5,7 +5,6 @@ cask 'dafont-jack-the-hipper' do
     url 'http://dl.dafont.com/dl/?f=jack_the_hipper'
     name 'Jack the Hipper'
     homepage 'http://www.dafont.com/jack-the-hipper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JacktHip.otf'
 end

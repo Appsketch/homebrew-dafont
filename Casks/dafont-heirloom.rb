@@ -5,7 +5,6 @@ cask 'dafont-heirloom' do
     url 'http://dl.dafont.com/dl/?f=heirloom'
     name 'Heirloom'
     homepage 'http://www.dafont.com/heirloom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heirloom.ttf'
 end

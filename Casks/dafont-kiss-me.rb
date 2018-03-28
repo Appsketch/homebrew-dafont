@@ -5,7 +5,6 @@ cask 'dafont-kiss-me' do
     url 'http://dl.dafont.com/dl/?f=kiss_me'
     name 'KissMeKissMeKissMe'
     homepage 'http://www.dafont.com/kiss-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KISSMKMK.TTF'
 end

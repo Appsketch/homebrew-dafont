@@ -5,7 +5,6 @@ cask 'dafont-mariko-chan' do
     url 'http://dl.dafont.com/dl/?f=mariko_chan'
     name 'Mariko Chan'
     homepage 'http://www.dafont.com/mariko-chan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mariko Chan Thin.ttf'
     font 'Mariko Chan.ttf'

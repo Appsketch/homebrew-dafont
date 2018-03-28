@@ -5,7 +5,6 @@ cask 'dafont-kl1monocase' do
     url 'http://dl.dafont.com/dl/?f=kl1monocase'
     name 'KL1MonoCase'
     homepage 'http://www.dafont.com/kl1monocase.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KL1MonoCase.ttf'
 end

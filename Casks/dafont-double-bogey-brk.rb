@@ -5,7 +5,6 @@ cask 'dafont-double-bogey-brk' do
     url 'http://dl.dafont.com/dl/?f=double_bogey_brk'
     name 'Double Bogey + DB Layer + 18 Holes BRK'
     homepage 'http://www.dafont.com/double-bogey-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '18holes.ttf'
     font 'dblayer1.ttf'

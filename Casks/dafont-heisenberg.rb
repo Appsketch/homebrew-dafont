@@ -5,7 +5,6 @@ cask 'dafont-heisenberg' do
     url 'http://dl.dafont.com/dl/?f=heisenberg'
     name 'Heisenberg'
     homepage 'http://www.dafont.com/heisenberg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heisenberg-Regular.otf'
 end

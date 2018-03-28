@@ -5,7 +5,6 @@ cask 'dafont-diskopia' do
     url 'http://dl.dafont.com/dl/?f=diskopia'
     name 'Diskopia'
     homepage 'http://www.dafont.com/diskopia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DISKOPIA2.0.ttf'
 end

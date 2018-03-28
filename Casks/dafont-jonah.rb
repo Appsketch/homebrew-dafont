@@ -5,7 +5,6 @@ cask 'dafont-jonah' do
     url 'http://dl.dafont.com/dl/?f=jonah'
     name 'Jonah'
     homepage 'http://www.dafont.com/jonah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jonah_DEMO-Regular.ttf'
 end

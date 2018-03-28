@@ -5,7 +5,6 @@ cask 'dafont-earth-kid' do
     url 'http://dl.dafont.com/dl/?f=earth_kid'
     name 'Earth Kid'
     homepage 'http://www.dafont.com/earth-kid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Earth Kid.ttf'
 end

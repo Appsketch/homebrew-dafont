@@ -5,7 +5,6 @@ cask 'dafont-latian' do
     url 'http://dl.dafont.com/dl/?f=latian'
     name 'Latian'
     homepage 'http://www.dafont.com/latian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'latian.ttf'
 end

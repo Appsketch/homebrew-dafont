@@ -5,7 +5,6 @@ cask 'dafont-sonny-moore' do
     url 'http://dl.dafont.com/dl/?f=sonny_moore'
     name 'Sonny Moore'
     homepage 'http://www.dafont.com/sonny-moore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sonny_Moore.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pwghost' do
     url 'http://dl.dafont.com/dl/?f=pwghost'
     name 'PW Ghost'
     homepage 'http://www.dafont.com/pwghost.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWGhost.ttf'
 end

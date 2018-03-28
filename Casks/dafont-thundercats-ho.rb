@@ -5,7 +5,6 @@ cask 'dafont-thundercats-ho' do
     url 'http://dl.dafont.com/dl/?f=thundercats_ho'
     name 'ThunderCats-Ho!'
     homepage 'http://www.dafont.com/thundercats-ho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThunderCats-Ho!.ttf'
 end

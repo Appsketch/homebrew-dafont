@@ -5,7 +5,6 @@ cask 'dafont-flamingo2' do
     url 'http://dl.dafont.com/dl/?f=flamingo2'
     name 'Flamingo'
     homepage 'http://www.dafont.com/flamingo2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlamingoLicht.otf'
     font 'FlamingoSolide.otf'

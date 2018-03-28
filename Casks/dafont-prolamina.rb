@@ -5,7 +5,6 @@ cask 'dafont-prolamina' do
     url 'http://dl.dafont.com/dl/?f=prolamina'
     name 'Pro Lamina'
     homepage 'http://www.dafont.com/prolamina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CT ProLamina.ttf'
 end

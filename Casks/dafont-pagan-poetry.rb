@@ -5,7 +5,6 @@ cask 'dafont-pagan-poetry' do
     url 'http://dl.dafont.com/dl/?f=pagan_poetry'
     name 'Pagan Poetry'
     homepage 'http://www.dafont.com/pagan-poetry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAGAP___.TTF'
 end

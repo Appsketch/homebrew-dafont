@@ -5,7 +5,6 @@ cask 'dafont-dk-hasty-tasty' do
     url 'http://dl.dafont.com/dl/?f=dk_hasty_tasty'
     name 'DK Hasty Tasty'
     homepage 'http://www.dafont.com/dk-hasty-tasty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK HastyTasty.ttf'
 end

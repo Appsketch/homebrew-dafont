@@ -5,7 +5,6 @@ cask 'dafont-xephyr' do
     url 'http://dl.dafont.com/dl/?f=xephyr'
     name 'Xephyr'
     homepage 'http://www.dafont.com/xephyr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XEPH.TTF'
     font 'Xephc.ttf'

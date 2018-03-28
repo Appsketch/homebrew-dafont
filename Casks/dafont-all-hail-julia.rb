@@ -5,7 +5,6 @@ cask 'dafont-all-hail-julia' do
     url 'http://dl.dafont.com/dl/?f=all_hail_julia'
     name 'All Hail Julia'
     homepage 'http://www.dafont.com/all-hail-julia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'all hail julia.ttf'
 end

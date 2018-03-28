@@ -5,7 +5,6 @@ cask 'dafont-onciale-phf' do
     url 'http://dl.dafont.com/dl/?f=onciale_phf'
     name 'Onciale PhF'
     homepage 'http://www.dafont.com/onciale-phf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Onciale PhF01.ttf'
 end

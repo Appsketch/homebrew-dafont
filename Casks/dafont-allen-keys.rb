@@ -5,7 +5,6 @@ cask 'dafont-allen-keys' do
     url 'http://dl.dafont.com/dl/?f=allen_keys'
     name 'Allen Keys'
     homepage 'http://www.dafont.com/allen-keys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Allen Keys_beta01.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lettrisme' do
     url 'http://dl.dafont.com/dl/?f=lettrisme'
     name 'Lettrisme'
     homepage 'http://www.dafont.com/lettrisme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lettrisme.ttf'
 end

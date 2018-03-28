@@ -5,7 +5,6 @@ cask 'dafont-little-monster' do
     url 'http://dl.dafont.com/dl/?f=little_monster'
     name 'Little Monster'
     homepage 'http://www.dafont.com/little-monster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Little-Monster.ttf'
 end

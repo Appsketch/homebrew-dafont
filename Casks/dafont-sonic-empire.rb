@@ -5,7 +5,6 @@ cask 'dafont-sonic-empire' do
     url 'http://dl.dafont.com/dl/?f=sonic_empire'
     name 'Sonic Empire'
     homepage 'http://www.dafont.com/sonic-empire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sonic Empire v2 Italic.ttf'
     font 'Sonic Empire v2.ttf'

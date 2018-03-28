@@ -5,7 +5,6 @@ cask 'dafont-taira-k-s-messynezz' do
     url 'http://dl.dafont.com/dl/?f=taira_k_s_messynezz'
     name 'Taira K.&#039;s Messynezz'
     homepage 'http://www.dafont.com/taira-k-s-messynezz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TairaK.smessynezz.ttf'
 end

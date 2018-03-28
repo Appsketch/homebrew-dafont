@@ -5,7 +5,6 @@ cask 'dafont-one-smear' do
     url 'http://dl.dafont.com/dl/?f=one_smear'
     name 'One Smear'
     homepage 'http://www.dafont.com/one-smear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'One Smear.ttf'
 end

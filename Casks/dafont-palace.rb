@@ -5,7 +5,6 @@ cask 'dafont-palace' do
     url 'http://dl.dafont.com/dl/?f=palace'
     name 'Palace'
     homepage 'http://www.dafont.com/palace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Palace.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tf-karma' do
     url 'http://dl.dafont.com/dl/?f=tf_karma'
     name 'TF Karma'
     homepage 'http://www.dafont.com/tf-karma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TF_KARMA.TTF'
 end

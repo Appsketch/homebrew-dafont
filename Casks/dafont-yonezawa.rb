@@ -5,7 +5,6 @@ cask 'dafont-yonezawa' do
     url 'http://dl.dafont.com/dl/?f=yonezawa'
     name 'Yonezawa'
     homepage 'http://www.dafont.com/yonezawa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yonezawa.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-secondo' do
     url 'http://dl.dafont.com/dl/?f=secondo'
     name 'Secondo'
     homepage 'http://www.dafont.com/secondo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Secondo.otf'
 end

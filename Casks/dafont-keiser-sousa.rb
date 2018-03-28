@@ -5,7 +5,6 @@ cask 'dafont-keiser-sousa' do
     url 'http://dl.dafont.com/dl/?f=keiser_sousa'
     name 'Keiser Sousa'
     homepage 'http://www.dafont.com/keiser-sousa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KeiserSousa.ttf'
 end

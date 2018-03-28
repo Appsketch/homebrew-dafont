@@ -5,7 +5,6 @@ cask 'dafont-sparks-scrapbook' do
     url 'http://dl.dafont.com/dl/?f=sparks_scrapbook'
     name 'SPARKS Scrapbook'
     homepage 'http://www.dafont.com/sparks-scrapbook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPARKS Scrapbook.TTF'
 end

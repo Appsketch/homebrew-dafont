@@ -5,7 +5,6 @@ cask 'dafont-plop' do
     url 'http://dl.dafont.com/dl/?f=plop'
     name 'Plop'
     homepage 'http://www.dafont.com/plop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLOP.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-90-stars-brk' do
     url 'http://dl.dafont.com/dl/?f=90_stars_brk'
     name '90 Stars BRK'
     homepage 'http://www.dafont.com/90-stars-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '90stars.ttf'
 end

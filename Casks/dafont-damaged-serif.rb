@@ -5,7 +5,6 @@ cask 'dafont-damaged-serif' do
     url 'http://dl.dafont.com/dl/?f=damaged_serif'
     name 'Damaged Serif'
     homepage 'http://www.dafont.com/damaged-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Damaged Serif.ttf'
 end

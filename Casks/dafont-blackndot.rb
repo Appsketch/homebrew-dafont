@@ -5,7 +5,6 @@ cask 'dafont-blackndot' do
     url 'http://dl.dafont.com/dl/?f=blackndot'
     name 'Black N Dot'
     homepage 'http://www.dafont.com/blackndot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackNdot.ttf'
 end

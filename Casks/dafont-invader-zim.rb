@@ -5,7 +5,6 @@ cask 'dafont-invader-zim' do
     url 'http://dl.dafont.com/dl/?f=invader_zim'
     name 'Invader Zim'
     homepage 'http://www.dafont.com/invader-zim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INVADER.TTF'
 end

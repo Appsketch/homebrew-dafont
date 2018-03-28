@@ -5,7 +5,6 @@ cask 'dafont-hello-copters' do
     url 'http://dl.dafont.com/dl/?f=hello_copters'
     name 'Hello Copters'
     homepage 'http://www.dafont.com/hello-copters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hellocopters2.ttf'
     font 'hellocopters2b.ttf'

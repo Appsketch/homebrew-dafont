@@ -5,7 +5,6 @@ cask 'dafont-abstrec-font-tfb' do
     url 'http://dl.dafont.com/dl/?f=abstrec_font_tfb'
     name 'Abstrec font TFB'
     homepage 'http://www.dafont.com/abstrec-font-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abstrec font tfb.ttf'
 end

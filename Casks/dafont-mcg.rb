@@ -5,7 +5,6 @@ cask 'dafont-mcg' do
     url 'http://dl.dafont.com/dl/?f=mcg'
     name 'MCG'
     homepage 'http://www.dafont.com/mcg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MCG.ttf'
 end

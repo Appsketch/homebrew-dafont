@@ -5,7 +5,6 @@ cask 'dafont-bonney-lass' do
     url 'http://dl.dafont.com/dl/?f=bonney_lass'
     name 'Bonney Lass'
     homepage 'http://www.dafont.com/bonney-lass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonney Lass.ttf'
 end

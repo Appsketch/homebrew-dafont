@@ -5,7 +5,6 @@ cask 'dafont-goobascript' do
     url 'http://dl.dafont.com/dl/?f=goobascript'
     name 'Goobascript'
     homepage 'http://www.dafont.com/goobascript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Goobascript.ttf'
 end

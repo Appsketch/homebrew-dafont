@@ -5,7 +5,6 @@ cask 'dafont-lionheart' do
     url 'http://dl.dafont.com/dl/?f=lionheart'
     name 'Lionheart'
     homepage 'http://www.dafont.com/lionheart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lionv2.ttf'
     font 'lionv2b.ttf'

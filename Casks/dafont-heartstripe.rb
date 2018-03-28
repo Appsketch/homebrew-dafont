@@ -5,7 +5,6 @@ cask 'dafont-heartstripe' do
     url 'http://dl.dafont.com/dl/?f=heartstripe'
     name 'Heart Stripe'
     homepage 'http://www.dafont.com/heartstripe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeartStripe.ttf'
 end

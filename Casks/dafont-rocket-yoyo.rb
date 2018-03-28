@@ -5,7 +5,6 @@ cask 'dafont-rocket-yoyo' do
     url 'http://dl.dafont.com/dl/?f=rocket_yoyo'
     name 'Rocket YoYo'
     homepage 'http://www.dafont.com/rocket-yoyo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rocket YoYo.TTF'
 end

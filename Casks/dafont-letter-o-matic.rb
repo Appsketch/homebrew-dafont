@@ -5,7 +5,6 @@ cask 'dafont-letter-o-matic' do
     url 'http://dl.dafont.com/dl/?f=letter_o_matic'
     name 'Letter O Matic'
     homepage 'http://www.dafont.com/letter-o-matic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ltromatic bold.ttf'
     font 'ltromatic italic.ttf'

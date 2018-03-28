@@ -5,7 +5,6 @@ cask 'dafont-griffin-kara' do
     url 'http://dl.dafont.com/dl/?f=griffin_kara'
     name 'Griffin'
     homepage 'http://www.dafont.com/griffin-kara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'griffin.ttf'
 end

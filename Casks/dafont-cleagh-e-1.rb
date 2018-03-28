@@ -5,7 +5,6 @@ cask 'dafont-cleagh-e-1' do
     url 'http://dl.dafont.com/dl/?f=cleagh_e_1'
     name 'OPN Cleagh E'
     homepage 'http://www.dafont.com/cleagh-e-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OPN Cleagh E.ttf'
 end

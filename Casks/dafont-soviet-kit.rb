@@ -5,7 +5,6 @@ cask 'dafont-soviet-kit' do
     url 'http://dl.dafont.com/dl/?f=soviet_kit'
     name 'Soviet Kit'
     homepage 'http://www.dafont.com/soviet-kit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SOVKIT.TTF'
 end

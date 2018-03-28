@@ -5,7 +5,6 @@ cask 'dafont-viejo-oeste' do
     url 'http://dl.dafont.com/dl/?f=viejo_oeste'
     name 'Viejo Oeste'
     homepage 'http://www.dafont.com/viejo-oeste.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Viejo Oeste.ttf'
 end

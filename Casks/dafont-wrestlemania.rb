@@ -5,7 +5,6 @@ cask 'dafont-wrestlemania' do
     url 'http://dl.dafont.com/dl/?f=wrestlemania'
     name 'Wrestlemania'
     homepage 'http://www.dafont.com/wrestlemania.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WRESTLEMANIA.ttf'
 end

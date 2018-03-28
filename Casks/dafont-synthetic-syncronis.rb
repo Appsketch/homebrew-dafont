@@ -5,7 +5,6 @@ cask 'dafont-synthetic-syncronis' do
     url 'http://dl.dafont.com/dl/?f=synthetic_syncronis'
     name 'Synthetic Syncronism'
     homepage 'http://www.dafont.com/synthetic-syncronis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SYNTHETICSYNCRONISM.ttf'
 end

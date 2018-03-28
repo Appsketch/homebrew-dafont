@@ -5,7 +5,6 @@ cask 'dafont-killers-move' do
     url 'http://dl.dafont.com/dl/?f=killers_move'
     name 'Killer&#039;s Move'
     homepage 'http://www.dafont.com/killers-move.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Killer_&#039;s Move.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-beppofet' do
     url 'http://dl.dafont.com/dl/?f=beppofet'
     name 'Beppofet'
     homepage 'http://www.dafont.com/beppofet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beppofet.ttf'
 end

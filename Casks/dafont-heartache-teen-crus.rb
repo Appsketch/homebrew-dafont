@@ -5,7 +5,6 @@ cask 'dafont-heartache-teen-crus' do
     url 'http://dl.dafont.com/dl/?f=heartache_teen_crus'
     name 'Heartache Teen Crush'
     homepage 'http://www.dafont.com/heartache-teen-crus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HARTACHE.TTF'
 end

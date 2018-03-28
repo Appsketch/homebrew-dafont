@@ -5,7 +5,6 @@ cask 'dafont-brenoelle' do
     url 'http://dl.dafont.com/dl/?f=brenoelle'
     name 'Bre Noelle'
     homepage 'http://www.dafont.com/brenoelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BreNoelle.ttf'
 end

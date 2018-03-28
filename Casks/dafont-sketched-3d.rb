@@ -5,7 +5,6 @@ cask 'dafont-sketched-3d' do
     url 'http://dl.dafont.com/dl/?f=sketched_3d'
     name 'Sketched 3d'
     homepage 'http://www.dafont.com/sketched-3d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketched3ddemoMVE.otf'
 end

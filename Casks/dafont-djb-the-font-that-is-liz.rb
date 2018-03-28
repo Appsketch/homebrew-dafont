@@ -5,7 +5,6 @@ cask 'dafont-djb-the-font-that-is-liz' do
     url 'http://dl.dafont.com/dl/?f=djb_the_font_that_is_liz'
     name 'DJB The Font that is Liz'
     homepage 'http://www.dafont.com/djb-the-font-that-is-liz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB The Font that is Liz.ttf'
 end

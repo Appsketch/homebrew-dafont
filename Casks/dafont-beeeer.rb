@@ -5,7 +5,6 @@ cask 'dafont-beeeer' do
     url 'http://dl.dafont.com/dl/?f=beeeer'
     name 'Beeeer'
     homepage 'http://www.dafont.com/beeeer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beeeer.ttf'
 end

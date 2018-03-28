@@ -5,7 +5,6 @@ cask 'dafont-soundgarnden-badmotorfont' do
     url 'http://dl.dafont.com/dl/?f=soundgarnden_badmotorfont'
     name 'Soundgarnden Badmotorfont'
     homepage 'http://www.dafont.com/soundgarnden-badmotorfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Soundgarden Badmotorfont.ttf'
 end

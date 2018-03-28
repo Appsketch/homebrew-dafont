@@ -5,7 +5,6 @@ cask 'dafont-blackout-x' do
     url 'http://dl.dafont.com/dl/?f=blackout_x'
     name 'Blackout X'
     homepage 'http://www.dafont.com/blackout-x.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blackout.fon'
 end

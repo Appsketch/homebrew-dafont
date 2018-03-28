@@ -5,7 +5,6 @@ cask 'dafont-navz' do
     url 'http://dl.dafont.com/dl/?f=navz'
     name 'Navz'
     homepage 'http://www.dafont.com/navz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NAVZ.ttf'
 end

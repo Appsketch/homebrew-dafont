@@ -5,7 +5,6 @@ cask 'dafont-kr-cute-as-a-bug' do
     url 'http://dl.dafont.com/dl/?f=kr_cute_as_a_bug'
     name 'KR Cute As A Bug'
     homepage 'http://www.dafont.com/kr-cute-as-a-bug.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Cute As A Bug.ttf'
 end

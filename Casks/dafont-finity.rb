@@ -5,7 +5,6 @@ cask 'dafont-finity' do
     url 'http://dl.dafont.com/dl/?f=finity'
     name 'Finity'
     homepage 'http://www.dafont.com/finity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Finity.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vintage-cre' do
     url 'http://dl.dafont.com/dl/?f=vintage_cre'
     name 'Vintage Cre'
     homepage 'http://www.dafont.com/vintage-cre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VINTAGE_CRE.ttf'
 end

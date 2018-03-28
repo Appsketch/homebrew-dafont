@@ -5,7 +5,6 @@ cask 'dafont-radio-trust' do
     url 'http://dl.dafont.com/dl/?f=radio_trust'
     name 'Radio Trust'
     homepage 'http://www.dafont.com/radio-trust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Radio Trust.ttf'
 end

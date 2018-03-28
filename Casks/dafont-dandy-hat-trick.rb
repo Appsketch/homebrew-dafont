@@ -5,7 +5,6 @@ cask 'dafont-dandy-hat-trick' do
     url 'http://dl.dafont.com/dl/?f=dandy_hat_trick'
     name 'Dandy Hat Trick'
     homepage 'http://www.dafont.com/dandy-hat-trick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dandy Hat Trick.ttf'
 end

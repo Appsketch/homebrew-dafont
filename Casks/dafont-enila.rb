@@ -5,7 +5,6 @@ cask 'dafont-enila' do
     url 'http://dl.dafont.com/dl/?f=enila'
     name 'Enila'
     homepage 'http://www.dafont.com/enila.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Enila.otf'
 end

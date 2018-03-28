@@ -5,7 +5,6 @@ cask 'dafont-meegoreng' do
     url 'http://dl.dafont.com/dl/?f=meegoreng'
     name 'Meegoreng'
     homepage 'http://www.dafont.com/meegoreng.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEEGOREN.TTF'
 end

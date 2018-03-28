@@ -5,7 +5,6 @@ cask 'dafont-xxii-arabian-onenightstand' do
     url 'http://dl.dafont.com/dl/?f=xxii_arabian_onenightstand'
     name 'XXII Arabian Onenightstand'
     homepage 'http://www.dafont.com/xxii-arabian-onenightstand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XXII ARABIAN-ONENIGHTSTAND.ttf'
 end

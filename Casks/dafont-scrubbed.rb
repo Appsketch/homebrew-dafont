@@ -5,7 +5,6 @@ cask 'dafont-scrubbed' do
     url 'http://dl.dafont.com/dl/?f=scrubbed'
     name 'Scrubbed'
     homepage 'http://www.dafont.com/scrubbed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCRUBBED.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-led-real' do
     url 'http://dl.dafont.com/dl/?f=led_real'
     name 'LED Real'
     homepage 'http://www.dafont.com/led-real.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'led_real.ttf'
     font 'led_sas.ttf'

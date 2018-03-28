@@ -5,7 +5,6 @@ cask 'dafont-adine-kirnberg' do
     url 'http://dl.dafont.com/dl/?f=adine_kirnberg'
     name 'Adine Kirnberg Script'
     homepage 'http://www.dafont.com/adine-kirnberg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'adinekir.ttf'
 end

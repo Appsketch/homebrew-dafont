@@ -5,7 +5,6 @@ cask 'dafont-unborn-editrion' do
     url 'http://dl.dafont.com/dl/?f=unborn_editrion'
     name 'Unborn Editrion'
     homepage 'http://www.dafont.com/unborn-editrion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'unborneditrion.ttf'
 end

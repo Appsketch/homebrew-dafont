@@ -5,7 +5,6 @@ cask 'dafont-cloudhome' do
     url 'http://dl.dafont.com/dl/?f=cloudhome'
     name 'Cloud Home'
     homepage 'http://www.dafont.com/cloudhome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CloudHome.ttf'
 end

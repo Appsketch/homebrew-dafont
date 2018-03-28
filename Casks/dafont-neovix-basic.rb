@@ -5,7 +5,6 @@ cask 'dafont-neovix-basic' do
     url 'http://dl.dafont.com/dl/?f=neovix_basic'
     name 'Neovix Basic'
     homepage 'http://www.dafont.com/neovix-basic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neovix Basic Bold.otf'
     font 'Neovix Basic.otf'

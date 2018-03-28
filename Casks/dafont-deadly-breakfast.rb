@@ -5,7 +5,6 @@ cask 'dafont-deadly-breakfast' do
     url 'http://dl.dafont.com/dl/?f=deadly_breakfast'
     name 'Deadly Breakfast'
     homepage 'http://www.dafont.com/deadly-breakfast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DdlyBrkfst.ttf'
 end

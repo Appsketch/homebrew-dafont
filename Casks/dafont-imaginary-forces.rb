@@ -5,7 +5,6 @@ cask 'dafont-imaginary-forces' do
     url 'http://dl.dafont.com/dl/?f=imaginary_forces'
     name 'Imaginary Forces'
     homepage 'http://www.dafont.com/imaginary-forces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iforces.ttf'
 end

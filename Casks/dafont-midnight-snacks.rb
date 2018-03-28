@@ -5,7 +5,6 @@ cask 'dafont-midnight-snacks' do
     url 'http://dl.dafont.com/dl/?f=midnight_snacks'
     name 'Midnight Snacks'
     homepage 'http://www.dafont.com/midnight-snacks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'midnight snacks.ttf'
 end

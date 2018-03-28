@@ -5,7 +5,6 @@ cask 'dafont-julifesta' do
     url 'http://dl.dafont.com/dl/?f=julifesta'
     name 'Julifesta'
     homepage 'http://www.dafont.com/julifesta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JULIFB__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cf-alone-on-the-earth' do
     url 'http://dl.dafont.com/dl/?f=cf_alone_on_the_earth'
     name 'CF Alone on the Earth'
     homepage 'http://www.dafont.com/cf-alone-on-the-earth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFAloneontheEarthDEMO-Regul.ttf'
 end

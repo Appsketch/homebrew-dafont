@@ -5,7 +5,6 @@ cask 'dafont-border-cats' do
     url 'http://dl.dafont.com/dl/?f=border_cats'
     name 'Border Cats'
     homepage 'http://www.dafont.com/border-cats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BORDC___.TTF'
 end

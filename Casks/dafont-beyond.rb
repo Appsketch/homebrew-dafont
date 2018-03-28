@@ -5,7 +5,6 @@ cask 'dafont-beyond' do
     url 'http://dl.dafont.com/dl/?f=beyond'
     name 'Beyond'
     homepage 'http://www.dafont.com/beyond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beyond.ttf'
 end

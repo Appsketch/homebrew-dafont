@@ -5,7 +5,6 @@ cask 'dafont-gunju' do
     url 'http://dl.dafont.com/dl/?f=gunju'
     name 'Gunju'
     homepage 'http://www.dafont.com/gunju.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gunju__.ttf'
 end

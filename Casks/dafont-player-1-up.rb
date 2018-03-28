@@ -5,7 +5,6 @@ cask 'dafont-player-1-up' do
     url 'http://dl.dafont.com/dl/?f=player_1_up'
     name 'Player 1 Up'
     homepage 'http://www.dafont.com/player-1-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'player1up.ttf'
     font 'player1up3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-sofia-handwritten' do
     url 'http://dl.dafont.com/dl/?f=sofia_handwritten'
     name 'Sofia Handwritten'
     homepage 'http://www.dafont.com/sofia-handwritten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sofia_Handwritten.otf'
 end

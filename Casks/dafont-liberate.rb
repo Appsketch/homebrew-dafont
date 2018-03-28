@@ -5,7 +5,6 @@ cask 'dafont-liberate' do
     url 'http://dl.dafont.com/dl/?f=liberate'
     name 'Liberate'
     homepage 'http://www.dafont.com/liberate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Liberate.ttf'
 end

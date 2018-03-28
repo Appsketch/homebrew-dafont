@@ -5,7 +5,6 @@ cask 'dafont-al-kisah' do
     url 'http://dl.dafont.com/dl/?f=al_kisah'
     name 'Al Kisah'
     homepage 'http://www.dafont.com/al-kisah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'al kisah.ttf'
 end

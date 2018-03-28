@@ -5,7 +5,6 @@ cask 'dafont-as-long-as-i-can-hold-my-breath' do
     url 'http://dl.dafont.com/dl/?f=as_long_as_i_can_hold_my_breath'
     name 'As long as I can hold my breath'
     homepage 'http://www.dafont.com/as-long-as-i-can-hold-my-breath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'As long as I can hold my breath.ttf'
 end

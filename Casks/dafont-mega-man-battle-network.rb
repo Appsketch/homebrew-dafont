@@ -5,7 +5,6 @@ cask 'dafont-mega-man-battle-network' do
     url 'http://dl.dafont.com/dl/?f=mega_man_battle_network'
     name 'Mega Man Battle Network'
     homepage 'http://www.dafont.com/mega-man-battle-network.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mega-Man-Battle-Network.ttf'
 end

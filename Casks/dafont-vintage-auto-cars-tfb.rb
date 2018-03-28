@@ -5,7 +5,6 @@ cask 'dafont-vintage-auto-cars-tfb' do
     url 'http://dl.dafont.com/dl/?f=vintage_auto_cars_tfb'
     name 'Vintage Auto Cars TFB'
     homepage 'http://www.dafont.com/vintage-auto-cars-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vintage auto cars tfb.ttf'
 end

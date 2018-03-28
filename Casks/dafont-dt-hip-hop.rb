@@ -5,7 +5,6 @@ cask 'dafont-dt-hip-hop' do
     url 'http://dl.dafont.com/dl/?f=dt_hip_hop'
     name 'DT Hip Hop'
     homepage 'http://www.dafont.com/dt-hip-hop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DT Hip Hop.ttf'
 end

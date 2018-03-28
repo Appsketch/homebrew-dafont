@@ -5,7 +5,6 @@ cask 'dafont-rs-moroma' do
     url 'http://dl.dafont.com/dl/?f=rs_moroma'
     name 'RS Moroma'
     homepage 'http://www.dafont.com/rs-moroma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RSMOROMA.TTF'
 end

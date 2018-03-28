@@ -5,7 +5,6 @@ cask 'dafont-necropsy' do
     url 'http://dl.dafont.com/dl/?f=necropsy'
     name 'Necropsy'
     homepage 'http://www.dafont.com/necropsy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Necropsia.ttf'
 end

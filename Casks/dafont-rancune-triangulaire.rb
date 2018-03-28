@@ -5,7 +5,6 @@ cask 'dafont-rancune-triangulaire' do
     url 'http://dl.dafont.com/dl/?f=rancune_triangulaire'
     name 'Rancune Triangulaire'
     homepage 'http://www.dafont.com/rancune-triangulaire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rancune triangulaire.otf'
 end

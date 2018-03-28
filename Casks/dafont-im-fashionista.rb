@@ -5,7 +5,6 @@ cask 'dafont-im-fashionista' do
     url 'http://dl.dafont.com/dl/?f=im_fashionista'
     name 'I&#039;m fashionista!'
     homepage 'http://www.dafont.com/im-fashionista.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I&#039;m fashionista!_DEMO-version.ttf'
 end

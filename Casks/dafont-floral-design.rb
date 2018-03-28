@@ -5,7 +5,6 @@ cask 'dafont-floral-design' do
     url 'http://dl.dafont.com/dl/?f=floral_design'
     name 'Floral Design'
     homepage 'http://www.dafont.com/floral-design.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FLORD___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gpkn' do
     url 'http://dl.dafont.com/dl/?f=gpkn'
     name 'Gpkn'
     homepage 'http://www.dafont.com/gpkn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gpkn.ttf'
 end

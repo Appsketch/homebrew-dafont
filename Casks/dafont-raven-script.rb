@@ -5,7 +5,6 @@ cask 'dafont-raven-script' do
     url 'http://dl.dafont.com/dl/?f=raven_script'
     name 'Raven Script'
     homepage 'http://www.dafont.com/raven-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raven Script DEMO.ttf'
 end

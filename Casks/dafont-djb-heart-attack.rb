@@ -5,7 +5,6 @@ cask 'dafont-djb-heart-attack' do
     url 'http://dl.dafont.com/dl/?f=djb_heart_attack'
     name 'DJB Heart Attack'
     homepage 'http://www.dafont.com/djb-heart-attack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Heart Attack 2.ttf'
     font 'DJB Heart Attack.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-meiry' do
     url 'http://dl.dafont.com/dl/?f=meiry'
     name 'Meiry'
     homepage 'http://www.dafont.com/meiry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEIRRG__.TTF'
 end

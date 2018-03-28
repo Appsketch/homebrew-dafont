@@ -5,7 +5,6 @@ cask 'dafont-dave-the-eagle' do
     url 'http://dl.dafont.com/dl/?f=dave_the_eagle'
     name 'Dave the Eagle'
     homepage 'http://www.dafont.com/dave-the-eagle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dave the Eagle.ttf'
 end

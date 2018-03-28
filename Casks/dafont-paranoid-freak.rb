@@ -5,7 +5,6 @@ cask 'dafont-paranoid-freak' do
     url 'http://dl.dafont.com/dl/?f=paranoid_freak'
     name 'Paranoid Freak'
     homepage 'http://www.dafont.com/paranoid-freak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paranoid Freak.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cordel-encarnado' do
     url 'http://dl.dafont.com/dl/?f=cordel_encarnado'
     name 'Cordel Encarnado'
     homepage 'http://www.dafont.com/cordel-encarnado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cordel Encarnado.ttf'
     font 'Cordel_Encarnado I.ttf'

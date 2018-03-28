@@ -5,7 +5,6 @@ cask 'dafont-berion' do
     url 'http://dl.dafont.com/dl/?f=berion'
     name 'Berion'
     homepage 'http://www.dafont.com/berion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'berirg__.ttf'
 end

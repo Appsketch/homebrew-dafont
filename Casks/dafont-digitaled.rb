@@ -5,7 +5,6 @@ cask 'dafont-digitaled' do
     url 'http://dl.dafont.com/dl/?f=digitaled'
     name 'Digitaled'
     homepage 'http://www.dafont.com/digitaled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digitaled.ttf'
 end

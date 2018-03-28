@@ -5,7 +5,6 @@ cask 'dafont-times-no-roman' do
     url 'http://dl.dafont.com/dl/?f=times_no_roman'
     name 'Times No Roman'
     homepage 'http://www.dafont.com/times-no-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TIMENR__.TTF'
 end

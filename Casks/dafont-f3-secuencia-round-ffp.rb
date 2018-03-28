@@ -5,7 +5,6 @@ cask 'dafont-f3-secuencia-round-ffp' do
     url 'http://dl.dafont.com/dl/?f=f3_secuencia_round_ffp'
     name 'F3 Secuencia Round FFP'
     homepage 'http://www.dafont.com/f3-secuencia-round-ffp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'f3-Secuencia-round-italic-ffp.ttf'
     font 'f3-Secuencia-round-regular-ffp.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-please-hold-the-line' do
     url 'http://dl.dafont.com/dl/?f=please_hold_the_line'
     name 'Please hold the line'
     homepage 'http://www.dafont.com/please-hold-the-line.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'please_hold_the_line.ttf'
 end

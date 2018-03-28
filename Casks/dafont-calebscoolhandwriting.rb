@@ -5,7 +5,6 @@ cask 'dafont-calebscoolhandwriting' do
     url 'http://dl.dafont.com/dl/?f=calebscoolhandwriting'
     name 'Calebs Cool Handwriting'
     homepage 'http://www.dafont.com/calebscoolhandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extreme Coolness.ttf'
 end

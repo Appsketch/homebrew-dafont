@@ -5,7 +5,6 @@ cask 'dafont-mar-lizzy' do
     url 'http://dl.dafont.com/dl/?f=mar_lizzy'
     name 'Mar Lizzy'
     homepage 'http://www.dafont.com/mar-lizzy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mar Lizzy.ttf'
 end

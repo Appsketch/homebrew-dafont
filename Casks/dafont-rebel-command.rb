@@ -5,7 +5,6 @@ cask 'dafont-rebel-command' do
     url 'http://dl.dafont.com/dl/?f=rebel_command'
     name 'Rebel Command'
     homepage 'http://www.dafont.com/rebel-command.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rebelcommand.ttf'
     font 'rebelcommand3d.ttf'

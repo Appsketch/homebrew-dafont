@@ -5,7 +5,6 @@ cask 'dafont-niceomi' do
     url 'http://dl.dafont.com/dl/?f=niceomi'
     name 'Niceomi'
     homepage 'http://www.dafont.com/niceomi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NICEOMI-FREE.ttf'
 end

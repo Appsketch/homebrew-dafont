@@ -5,7 +5,6 @@ cask 'dafont-cheap-fire' do
     url 'http://dl.dafont.com/dl/?f=cheap_fire'
     name 'Cheap Fire'
     homepage 'http://www.dafont.com/cheap-fire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chp-fire.ttf'
 end

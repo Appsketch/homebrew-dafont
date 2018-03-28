@@ -5,7 +5,6 @@ cask 'dafont-oeillet' do
     url 'http://dl.dafont.com/dl/?f=oeillet'
     name 'Oeillet'
     homepage 'http://www.dafont.com/oeillet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oeillet.ttf'
 end

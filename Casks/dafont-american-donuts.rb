@@ -5,7 +5,6 @@ cask 'dafont-american-donuts' do
     url 'http://dl.dafont.com/dl/?f=american_donuts'
     name 'American Donuts'
     homepage 'http://www.dafont.com/american-donuts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'American Donuts.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-borracho' do
     url 'http://dl.dafont.com/dl/?f=borracho'
     name 'Borracho'
     homepage 'http://www.dafont.com/borracho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Borracho.TTF'
 end

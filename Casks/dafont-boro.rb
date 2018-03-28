@@ -5,7 +5,6 @@ cask 'dafont-boro' do
     url 'http://dl.dafont.com/dl/?f=boro'
     name 'Boro'
     homepage 'http://www.dafont.com/boro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boro.ttf'
 end

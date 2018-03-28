@@ -5,7 +5,6 @@ cask 'dafont-the-grim-raiders' do
     url 'http://dl.dafont.com/dl/?f=the_grim_raiders'
     name 'The Grim Raiders'
     homepage 'http://www.dafont.com/the-grim-raiders.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheGrimRaiders-Regular.ttf'
 end

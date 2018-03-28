@@ -5,7 +5,6 @@ cask 'dafont-shift-type-basic' do
     url 'http://dl.dafont.com/dl/?f=shift_type_basic'
     name 'Shift Type Basic'
     homepage 'http://www.dafont.com/shift-type-basic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shift Type Basic.ttf'
 end

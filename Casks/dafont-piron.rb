@@ -5,7 +5,6 @@ cask 'dafont-piron' do
     url 'http://dl.dafont.com/dl/?f=piron'
     name 'Piron'
     homepage 'http://www.dafont.com/piron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'piron_italic.otf'
     font 'piron.otf'

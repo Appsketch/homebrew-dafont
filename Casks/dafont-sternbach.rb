@@ -5,7 +5,6 @@ cask 'dafont-sternbach' do
     url 'http://dl.dafont.com/dl/?f=sternbach'
     name 'Sternbach'
     homepage 'http://www.dafont.com/sternbach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sternbach Bold Italic.otf'
     font 'Sternbach Bold.otf'

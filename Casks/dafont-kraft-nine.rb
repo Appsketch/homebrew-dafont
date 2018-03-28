@@ -5,7 +5,6 @@ cask 'dafont-kraft-nine' do
     url 'http://dl.dafont.com/dl/?f=kraft_nine'
     name 'Kraft Nine'
     homepage 'http://www.dafont.com/kraft-nine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KraftNineDEMO.ttf'
 end

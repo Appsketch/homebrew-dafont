@@ -5,7 +5,6 @@ cask 'dafont-absurdsans' do
     url 'http://dl.dafont.com/dl/?f=absurdsans'
     name 'AbsurdSans'
     homepage 'http://www.dafont.com/absurdsans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Absurdsans FP.ttf'
 end

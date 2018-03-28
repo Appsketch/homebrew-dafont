@@ -5,7 +5,6 @@ cask 'dafont-sneakerhead' do
     url 'http://dl.dafont.com/dl/?f=sneakerhead'
     name 'Sneakerhead'
     homepage 'http://www.dafont.com/sneakerhead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sneakerhead.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pwodissey' do
     url 'http://dl.dafont.com/dl/?f=pwodissey'
     name 'PW Odissey'
     homepage 'http://www.dafont.com/pwodissey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWOdissey.ttf'
 end

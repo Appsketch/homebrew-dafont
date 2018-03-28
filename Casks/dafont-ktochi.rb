@@ -5,7 +5,6 @@ cask 'dafont-ktochi' do
     url 'http://dl.dafont.com/dl/?f=ktochi'
     name 'Ktochi'
     homepage 'http://www.dafont.com/ktochi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ktochi.ttf'
 end

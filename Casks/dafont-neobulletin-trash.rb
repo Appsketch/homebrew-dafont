@@ -5,7 +5,6 @@ cask 'dafont-neobulletin-trash' do
     url 'http://dl.dafont.com/dl/?f=neobulletin_trash'
     name 'NeoBulletin Trash'
     homepage 'http://www.dafont.com/neobulletin-trash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeoBulletin Trash.ttf'
 end

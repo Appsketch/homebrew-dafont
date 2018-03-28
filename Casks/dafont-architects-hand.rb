@@ -5,7 +5,6 @@ cask 'dafont-architects-hand' do
     url 'http://dl.dafont.com/dl/?f=architects_hand'
     name 'Architect&#039;s Hand'
     homepage 'http://www.dafont.com/architects-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Architect_&#039;s Hand.ttf'
 end

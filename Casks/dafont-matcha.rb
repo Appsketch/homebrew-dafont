@@ -5,7 +5,6 @@ cask 'dafont-matcha' do
     url 'http://dl.dafont.com/dl/?f=matcha'
     name 'Matcha'
     homepage 'http://www.dafont.com/matcha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Matcha.ttf'
 end

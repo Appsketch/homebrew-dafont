@@ -5,7 +5,6 @@ cask 'dafont-caribbean-tool' do
     url 'http://dl.dafont.com/dl/?f=caribbean_tool'
     name 'Caribbean Tool'
     homepage 'http://www.dafont.com/caribbean-tool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CARIB___.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-elizacat' do
     url 'http://dl.dafont.com/dl/?f=elizacat'
     name 'Elizacat '
     homepage 'http://www.dafont.com/elizacat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'elizacat.ttf'
 end

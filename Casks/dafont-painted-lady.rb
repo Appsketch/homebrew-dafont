@@ -5,7 +5,6 @@ cask 'dafont-painted-lady' do
     url 'http://dl.dafont.com/dl/?f=painted_lady'
     name 'Painted Lady'
     homepage 'http://www.dafont.com/painted-lady.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Painted Lady.otf'
 end

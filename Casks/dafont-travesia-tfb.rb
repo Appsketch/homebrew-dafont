@@ -5,7 +5,6 @@ cask 'dafont-travesia-tfb' do
     url 'http://dl.dafont.com/dl/?f=travesia_tfb'
     name 'Travesia TFB'
     homepage 'http://www.dafont.com/travesia-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'travesia tfb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cf-far-west' do
     url 'http://dl.dafont.com/dl/?f=cf_far_west'
     name 'CF Far West'
     homepage 'http://www.dafont.com/cf-far-west.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFFarWest-Regular.ttf'
 end

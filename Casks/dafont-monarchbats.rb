@@ -5,7 +5,6 @@ cask 'dafont-monarchbats' do
     url 'http://dl.dafont.com/dl/?f=monarchbats'
     name 'Monarchbats'
     homepage 'http://www.dafont.com/monarchbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MONARCHB.TTF'
 end

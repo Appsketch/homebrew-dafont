@@ -5,7 +5,6 @@ cask 'dafont-alfabilder' do
     url 'http://dl.dafont.com/dl/?f=alfabilder'
     name 'Alfabilder'
     homepage 'http://www.dafont.com/alfabilder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alfabilder.ttf'
 end

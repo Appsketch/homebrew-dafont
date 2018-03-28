@@ -5,7 +5,6 @@ cask 'dafont-castamere-sans' do
     url 'http://dl.dafont.com/dl/?f=castamere_sans'
     name 'Castamere Sans'
     homepage 'http://www.dafont.com/castamere-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'castameresansregular.ttf'
 end

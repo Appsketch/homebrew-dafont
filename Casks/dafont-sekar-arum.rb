@@ -5,7 +5,6 @@ cask 'dafont-sekar-arum' do
     url 'http://dl.dafont.com/dl/?f=sekar_arum'
     name 'Sekar Arum'
     homepage 'http://www.dafont.com/sekar-arum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sekar Arum.ttf'
 end

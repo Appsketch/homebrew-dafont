@@ -5,7 +5,6 @@ cask 'dafont-slaytanic' do
     url 'http://dl.dafont.com/dl/?f=slaytanic'
     name 'Slaytanic'
     homepage 'http://www.dafont.com/slaytanic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slaytanic.ttf'
 end

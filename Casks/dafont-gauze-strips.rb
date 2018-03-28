@@ -5,7 +5,6 @@ cask 'dafont-gauze-strips' do
     url 'http://dl.dafont.com/dl/?f=gauze_strips'
     name 'Gauze Strips'
     homepage 'http://www.dafont.com/gauze-strips.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gauze Strips.ttf'
 end

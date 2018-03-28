@@ -5,7 +5,6 @@ cask 'dafont-piranha2' do
     url 'http://dl.dafont.com/dl/?f=piranha2'
     name 'Piranha'
     homepage 'http://www.dafont.com/piranha2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Piranha.ttf'
 end

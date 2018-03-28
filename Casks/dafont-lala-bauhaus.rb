@@ -5,7 +5,6 @@ cask 'dafont-lala-bauhaus' do
     url 'http://dl.dafont.com/dl/?f=lala_bauhaus'
     name 'Lala Bauhaus'
     homepage 'http://www.dafont.com/lala-bauhaus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lala bauhaus.ttf'
 end

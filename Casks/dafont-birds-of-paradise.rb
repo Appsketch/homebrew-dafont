@@ -5,7 +5,6 @@ cask 'dafont-birds-of-paradise' do
     url 'http://dl.dafont.com/dl/?f=birds_of_paradise'
     name 'Birds of Paradise'
     homepage 'http://www.dafont.com/birds-of-paradise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Birds of Paradise &cedil; PERSONAL USE ONLY.ttf'
 end

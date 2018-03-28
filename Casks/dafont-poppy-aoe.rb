@@ -5,7 +5,6 @@ cask 'dafont-poppy-aoe' do
     url 'http://dl.dafont.com/dl/?f=poppy_aoe'
     name 'Poppy AOE'
     homepage 'http://www.dafont.com/poppy-aoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truetype/PoppyAOE.ttf'
 end

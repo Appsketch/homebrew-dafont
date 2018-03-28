@@ -5,7 +5,6 @@ cask 'dafont-rolling-no-one' do
     url 'http://dl.dafont.com/dl/?f=rolling_no_one'
     name 'Rolling No One'
     homepage 'http://www.dafont.com/rolling-no-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RollingNoOne-ExtraBold.ttf'
 end

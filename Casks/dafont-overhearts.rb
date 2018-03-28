@@ -5,7 +5,6 @@ cask 'dafont-overhearts' do
     url 'http://dl.dafont.com/dl/?f=overhearts'
     name 'Overhearts'
     homepage 'http://www.dafont.com/overhearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Overhearts.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mejiko' do
     url 'http://dl.dafont.com/dl/?f=mejiko'
     name 'Mejiko'
     homepage 'http://www.dafont.com/mejiko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mejiko.ttf'
 end

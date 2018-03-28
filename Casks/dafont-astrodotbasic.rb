@@ -5,7 +5,6 @@ cask 'dafont-astrodotbasic' do
     url 'http://dl.dafont.com/dl/?f=astrodotbasic'
     name 'Astro Dot Basic'
     homepage 'http://www.dafont.com/astrodotbasic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AstroDotBasic.ttf'
 end

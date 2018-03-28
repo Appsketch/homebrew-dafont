@@ -5,7 +5,6 @@ cask 'dafont-melee' do
     url 'http://dl.dafont.com/dl/?f=melee'
     name 'Melee'
     homepage 'http://www.dafont.com/melee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'melee.ttf'
 end

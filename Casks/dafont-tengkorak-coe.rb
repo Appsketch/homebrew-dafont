@@ -5,7 +5,6 @@ cask 'dafont-tengkorak-coe' do
     url 'http://dl.dafont.com/dl/?f=tengkorak_coe'
     name 'Tengkorak COE'
     homepage 'http://www.dafont.com/tengkorak-coe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tengkorak_font_by_creatureofearth-COE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kidfromhell' do
     url 'http://dl.dafont.com/dl/?f=kidfromhell'
     name 'Kid From Hell'
     homepage 'http://www.dafont.com/kidfromhell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KidFromHell.ttf'
 end

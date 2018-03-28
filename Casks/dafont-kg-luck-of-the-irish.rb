@@ -5,7 +5,6 @@ cask 'dafont-kg-luck-of-the-irish' do
     url 'http://dl.dafont.com/dl/?f=kg_luck_of_the_irish'
     name 'KG Luck of the Irish'
     homepage 'http://www.dafont.com/kg-luck-of-the-irish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGLuckoftheIrish.ttf'
 end

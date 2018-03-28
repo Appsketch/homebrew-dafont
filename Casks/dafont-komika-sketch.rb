@@ -5,7 +5,6 @@ cask 'dafont-komika-sketch' do
     url 'http://dl.dafont.com/dl/?f=komika_sketch'
     name 'Komika Sketch'
     homepage 'http://www.dafont.com/komika-sketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKSKT.ttf'
 end

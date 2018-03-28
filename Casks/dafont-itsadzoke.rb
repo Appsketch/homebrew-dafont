@@ -5,7 +5,6 @@ cask 'dafont-itsadzoke' do
     url 'http://dl.dafont.com/dl/?f=itsadzoke'
     name 'Itsadzoke'
     homepage 'http://www.dafont.com/itsadzoke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'itsadzoke-046.otf'
     font 'itsadzokeS01-046.otf'

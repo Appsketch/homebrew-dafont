@@ -5,7 +5,6 @@ cask 'dafont-dk-pundak' do
     url 'http://dl.dafont.com/dl/?f=dk_pundak'
     name 'DK Pundak'
     homepage 'http://www.dafont.com/dk-pundak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Pundak.otf'
 end

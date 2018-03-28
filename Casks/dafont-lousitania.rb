@@ -5,7 +5,6 @@ cask 'dafont-lousitania' do
     url 'http://dl.dafont.com/dl/?f=lousitania'
     name 'Lousitania'
     homepage 'http://www.dafont.com/lousitania.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOUSITAN.TTF'
 end

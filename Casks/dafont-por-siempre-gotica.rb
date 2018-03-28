@@ -5,7 +5,6 @@ cask 'dafont-por-siempre-gotica' do
     url 'http://dl.dafont.com/dl/?f=por_siempre_gotica'
     name 'Por Siempre G&oacute;tica'
     homepage 'http://www.dafont.com/por-siempre-gotica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Por Siempre G&cent;tica.ttf'
 end

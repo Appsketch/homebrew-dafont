@@ -5,7 +5,6 @@ cask 'dafont-mb-gothic-spell' do
     url 'http://dl.dafont.com/dl/?f=mb_gothic_spell'
     name 'MB Gothic Spell'
     homepage 'http://www.dafont.com/mb-gothic-spell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB_Gothic_Spell.ttf'
 end

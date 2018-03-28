@@ -5,7 +5,6 @@ cask 'dafont-terry-richarson-world' do
     url 'http://dl.dafont.com/dl/?f=terry_richarson_world'
     name 'Terry Richarson World'
     homepage 'http://www.dafont.com/terry-richarson-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Terry Richardson World.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cookielove' do
     url 'http://dl.dafont.com/dl/?f=cookielove'
     name 'Cookielove'
     homepage 'http://www.dafont.com/cookielove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cookielove.ttf'
 end

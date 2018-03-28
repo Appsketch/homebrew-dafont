@@ -5,7 +5,6 @@ cask 'dafont-spotlight-typewriter-nc' do
     url 'http://dl.dafont.com/dl/?f=spotlight_typewriter_nc'
     name 'Spotlight Typewriter NC'
     homepage 'http://www.dafont.com/spotlight-typewriter-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spotlight Typewriter NC.ttf'
 end

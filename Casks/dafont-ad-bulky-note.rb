@@ -5,7 +5,6 @@ cask 'dafont-ad-bulky-note' do
     url 'http://dl.dafont.com/dl/?f=ad_bulky_note'
     name 'AD Bulky Note'
     homepage 'http://www.dafont.com/ad-bulky-note.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AD_Bulky-Note.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-goodmorningafternoon' do
     url 'http://dl.dafont.com/dl/?f=goodmorningafternoon'
     name 'Good Morning Afternoon'
     homepage 'http://www.dafont.com/goodmorningafternoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GoodMorningAfternoon.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cursive-digits' do
     url 'http://dl.dafont.com/dl/?f=cursive_digits'
     name 'Cursive Digits'
     homepage 'http://www.dafont.com/cursive-digits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '96_cursive_digits.ttf'
 end

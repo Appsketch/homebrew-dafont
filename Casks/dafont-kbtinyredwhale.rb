@@ -5,7 +5,6 @@ cask 'dafont-kbtinyredwhale' do
     url 'http://dl.dafont.com/dl/?f=kbtinyredwhale'
     name 'KB Tiny Red Whale'
     homepage 'http://www.dafont.com/kbtinyredwhale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBTinyRedWhale.ttf'
 end

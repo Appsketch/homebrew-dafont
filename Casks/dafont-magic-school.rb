@@ -5,7 +5,6 @@ cask 'dafont-magic-school' do
     url 'http://dl.dafont.com/dl/?f=magic_school'
     name 'Magic School'
     homepage 'http://www.dafont.com/magic-school.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MagicSchoolOne.ttf'
     font 'MagicSchoolTwo.ttf'

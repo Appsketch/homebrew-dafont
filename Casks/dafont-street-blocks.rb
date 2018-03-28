@@ -5,7 +5,6 @@ cask 'dafont-street-blocks' do
     url 'http://dl.dafont.com/dl/?f=street_blocks'
     name 'Street Blocks'
     homepage 'http://www.dafont.com/street-blocks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Street_Block_1.0.ttf'
 end

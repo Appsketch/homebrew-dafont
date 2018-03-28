@@ -5,7 +5,6 @@ cask 'dafont-reaganaldscript' do
     url 'http://dl.dafont.com/dl/?f=reaganaldscript'
     name 'Reaganald Script'
     homepage 'http://www.dafont.com/reaganaldscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ReaganaldScript.ttf'
 end

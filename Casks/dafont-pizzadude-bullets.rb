@@ -5,7 +5,6 @@ cask 'dafont-pizzadude-bullets' do
     url 'http://dl.dafont.com/dl/?f=pizzadude_bullets'
     name 'PizzaDude Bullets'
     homepage 'http://www.dafont.com/pizzadude-bullets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIZZADUDEBULLETS.ttf'
 end

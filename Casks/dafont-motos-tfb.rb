@@ -5,7 +5,6 @@ cask 'dafont-motos-tfb' do
     url 'http://dl.dafont.com/dl/?f=motos_tfb'
     name 'Motos TFB'
     homepage 'http://www.dafont.com/motos-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'motos tfb.ttf'
 end

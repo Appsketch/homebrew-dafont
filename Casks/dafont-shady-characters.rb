@@ -5,7 +5,6 @@ cask 'dafont-shady-characters' do
     url 'http://dl.dafont.com/dl/?f=shady_characters'
     name 'Shady Characters'
     homepage 'http://www.dafont.com/shady-characters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shady Characters.ttf'
 end

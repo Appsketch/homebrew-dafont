@@ -5,7 +5,6 @@ cask 'dafont-totally-oilsome' do
     url 'http://dl.dafont.com/dl/?f=totally_oilsome'
     name 'Totally Oilsome'
     homepage 'http://www.dafont.com/totally-oilsome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Totally Oilsome.ttf'
 end

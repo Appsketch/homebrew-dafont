@@ -5,7 +5,6 @@ cask 'dafont-veggiemars' do
     url 'http://dl.dafont.com/dl/?f=veggiemars'
     name 'Veggie Mars'
     homepage 'http://www.dafont.com/veggiemars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VeggieMars.ttf'
 end

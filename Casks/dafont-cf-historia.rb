@@ -5,7 +5,6 @@ cask 'dafont-cf-historia' do
     url 'http://dl.dafont.com/dl/?f=cf_historia'
     name 'CF Historia'
     homepage 'http://www.dafont.com/cf-historia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFHistoria-Regular.ttf'
 end

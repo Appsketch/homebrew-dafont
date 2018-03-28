@@ -5,7 +5,6 @@ cask 'dafont-everglow' do
     url 'http://dl.dafont.com/dl/?f=everglow'
     name 'Everglow'
     homepage 'http://www.dafont.com/everglow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'everglow.ttf'
 end

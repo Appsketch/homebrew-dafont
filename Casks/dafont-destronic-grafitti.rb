@@ -5,7 +5,6 @@ cask 'dafont-destronic-grafitti' do
     url 'http://dl.dafont.com/dl/?f=destronic_grafitti'
     name 'Destronic Grafitti'
     homepage 'http://www.dafont.com/destronic-grafitti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Destronic Grafitti.ttf'
 end

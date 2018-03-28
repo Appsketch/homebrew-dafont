@@ -5,7 +5,6 @@ cask 'dafont-where-stars-shine-the-brightest' do
     url 'http://dl.dafont.com/dl/?f=where_stars_shine_the_brightest'
     name 'Where stars shine the brightest'
     homepage 'http://www.dafont.com/where-stars-shine-the-brightest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'where stars shine the brightest.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blocktastic' do
     url 'http://dl.dafont.com/dl/?f=blocktastic'
     name 'Blocktastic'
     homepage 'http://www.dafont.com/blocktastic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blocktastic-itl.otf'
     font 'blocktastic.otf'

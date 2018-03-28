@@ -5,7 +5,6 @@ cask 'dafont-gg-signdings' do
     url 'http://dl.dafont.com/dl/?f=gg_signdings'
     name 'GG SignDings'
     homepage 'http://www.dafont.com/gg-signdings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GGSID___.TTF'
 end

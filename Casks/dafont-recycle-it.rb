@@ -5,7 +5,6 @@ cask 'dafont-recycle-it' do
     url 'http://dl.dafont.com/dl/?f=recycle_it'
     name 'Recycle It'
     homepage 'http://www.dafont.com/recycle-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RecycleIt.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hundo' do
     url 'http://dl.dafont.com/dl/?f=hundo'
     name 'Hundo'
     homepage 'http://www.dafont.com/hundo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hundo.ttf'
 end

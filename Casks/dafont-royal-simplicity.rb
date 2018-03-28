@@ -5,7 +5,6 @@ cask 'dafont-royal-simplicity' do
     url 'http://dl.dafont.com/dl/?f=royal_simplicity'
     name 'Royal Simplicity'
     homepage 'http://www.dafont.com/royal-simplicity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'royalsimp.ttf'
 end

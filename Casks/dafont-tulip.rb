@@ -5,7 +5,6 @@ cask 'dafont-tulip' do
     url 'http://dl.dafont.com/dl/?f=tulip'
     name 'Tulip'
     homepage 'http://www.dafont.com/tulip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tulip.otf'
 end

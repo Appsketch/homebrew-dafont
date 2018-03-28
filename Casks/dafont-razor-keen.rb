@@ -5,7 +5,6 @@ cask 'dafont-razor-keen' do
     url 'http://dl.dafont.com/dl/?f=razor_keen'
     name 'Razor Keen'
     homepage 'http://www.dafont.com/razor-keen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'razor keen.ttf'
 end

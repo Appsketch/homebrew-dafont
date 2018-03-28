@@ -5,7 +5,6 @@ cask 'dafont-extrablur' do
     url 'http://dl.dafont.com/dl/?f=extrablur'
     name 'ExtraBlur'
     homepage 'http://www.dafont.com/extrablur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExtraBlur.ttf'
 end

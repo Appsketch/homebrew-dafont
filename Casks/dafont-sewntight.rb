@@ -5,7 +5,6 @@ cask 'dafont-sewntight' do
     url 'http://dl.dafont.com/dl/?f=sewntight'
     name 'Sewn Tight'
     homepage 'http://www.dafont.com/sewntight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SewnTight.ttf'
 end

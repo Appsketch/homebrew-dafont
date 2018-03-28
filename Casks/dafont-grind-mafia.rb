@@ -5,7 +5,6 @@ cask 'dafont-grind-mafia' do
     url 'http://dl.dafont.com/dl/?f=grind_mafia'
     name 'Grind Mafia'
     homepage 'http://www.dafont.com/grind-mafia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrindMafia.ttf'
 end

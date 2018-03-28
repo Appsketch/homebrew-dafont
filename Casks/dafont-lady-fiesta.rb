@@ -5,7 +5,6 @@ cask 'dafont-lady-fiesta' do
     url 'http://dl.dafont.com/dl/?f=lady_fiesta'
     name 'Lady Fiesta'
     homepage 'http://www.dafont.com/lady-fiesta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lady Fiesta.ttf'
 end

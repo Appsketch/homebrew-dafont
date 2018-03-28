@@ -5,7 +5,6 @@ cask 'dafont-bitmirror' do
     url 'http://dl.dafont.com/dl/?f=bitmirror'
     name 'BitMirror'
     homepage 'http://www.dafont.com/bitmirror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BitMirror.ttf'
 end

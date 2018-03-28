@@ -5,7 +5,6 @@ cask 'dafont-dinski-casual-condensed' do
     url 'http://dl.dafont.com/dl/?f=dinski_casual_condensed'
     name 'Dinski Casual Condensed'
     homepage 'http://www.dafont.com/dinski-casual-condensed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DINSKI_CASUAL_CONDENSED.ttf'
 end

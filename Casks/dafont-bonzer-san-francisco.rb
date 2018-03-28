@@ -5,7 +5,6 @@ cask 'dafont-bonzer-san-francisco' do
     url 'http://dl.dafont.com/dl/?f=bonzer_san_francisco'
     name 'Bonzer - San Francisco'
     homepage 'http://www.dafont.com/bonzer-san-francisco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonzer - San Francisco.ttf'
 end

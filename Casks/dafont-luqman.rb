@@ -5,7 +5,6 @@ cask 'dafont-luqman' do
     url 'http://dl.dafont.com/dl/?f=luqman'
     name 'Luqman'
     homepage 'http://www.dafont.com/luqman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'box.ttf'
 end

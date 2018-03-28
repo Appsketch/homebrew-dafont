@@ -5,7 +5,6 @@ cask 'dafont-jamiroquai' do
     url 'http://dl.dafont.com/dl/?f=jamiroquai'
     name 'Jamiroquai'
     homepage 'http://www.dafont.com/jamiroquai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JAMIROQUAI_pl.ttf'
 end

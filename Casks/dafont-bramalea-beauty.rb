@@ -5,7 +5,6 @@ cask 'dafont-bramalea-beauty' do
     url 'http://dl.dafont.com/dl/?f=bramalea_beauty'
     name 'Bramalea Beauty'
     homepage 'http://www.dafont.com/bramalea-beauty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bramalea beauty.ttf'
 end

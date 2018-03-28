@@ -5,7 +5,6 @@ cask 'dafont-tramlib' do
     url 'http://dl.dafont.com/dl/?f=tramlib'
     name 'Tramlib'
     homepage 'http://www.dafont.com/tramlib.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tramlib.ttf'
 end

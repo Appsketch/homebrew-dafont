@@ -5,7 +5,6 @@ cask 'dafont-striped-edges' do
     url 'http://dl.dafont.com/dl/?f=striped_edges'
     name 'Striped Edges'
     homepage 'http://www.dafont.com/striped-edges.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eka&#039;s Striped Edges.ttf'
 end

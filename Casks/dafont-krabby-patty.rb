@@ -5,7 +5,6 @@ cask 'dafont-krabby-patty' do
     url 'http://dl.dafont.com/dl/?f=krabby_patty'
     name 'Krabby Patty'
     homepage 'http://www.dafont.com/krabby-patty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Krabby Patty.ttf'
 end

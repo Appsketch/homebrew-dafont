@@ -5,7 +5,6 @@ cask 'dafont-fat-bross' do
     url 'http://dl.dafont.com/dl/?f=fat_bross'
     name 'Fat Bross'
     homepage 'http://www.dafont.com/fat-bross.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FAT BROSS.ttf'
 end

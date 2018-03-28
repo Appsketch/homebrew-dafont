@@ -5,7 +5,6 @@ cask 'dafont-barbarian' do
     url 'http://dl.dafont.com/dl/?f=barbarian'
     name 'Barbarian'
     homepage 'http://www.dafont.com/barbarian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barbarian.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-charms-bv' do
     url 'http://dl.dafont.com/dl/?f=charms_bv'
     name 'Charms BV'
     homepage 'http://www.dafont.com/charms-bv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHARMSBV.TTF'
 end

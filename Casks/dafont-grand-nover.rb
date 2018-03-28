@@ -5,7 +5,6 @@ cask 'dafont-grand-nover' do
     url 'http://dl.dafont.com/dl/?f=grand_nover'
     name 'Grand Nover'
     homepage 'http://www.dafont.com/grand-nover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrandNover.otf'
     font 'GrandNover2.otf'

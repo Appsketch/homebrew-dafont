@@ -5,7 +5,6 @@ cask 'dafont-usang' do
     url 'http://dl.dafont.com/dl/?f=usang'
     name 'Usang'
     homepage 'http://www.dafont.com/usang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'usang.ttf'
 end

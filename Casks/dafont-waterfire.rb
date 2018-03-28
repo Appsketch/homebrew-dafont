@@ -5,7 +5,6 @@ cask 'dafont-waterfire' do
     url 'http://dl.dafont.com/dl/?f=waterfire'
     name 'WaterFire'
     homepage 'http://www.dafont.com/waterfire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WaterFire.otf'
     font 'WaterFireObl.otf'

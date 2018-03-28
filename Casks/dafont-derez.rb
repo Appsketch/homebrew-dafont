@@ -5,7 +5,6 @@ cask 'dafont-derez' do
     url 'http://dl.dafont.com/dl/?f=derez'
     name 'deRez'
     homepage 'http://www.dafont.com/derez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEREZ___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vtks-money-2' do
     url 'http://dl.dafont.com/dl/?f=vtks_money_2'
     name 'Vtks Money 2'
     homepage 'http://www.dafont.com/vtks-money-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Money2.ttf'
 end

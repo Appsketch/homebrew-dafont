@@ -5,7 +5,6 @@ cask 'dafont-ventilla-stone' do
     url 'http://dl.dafont.com/dl/?f=ventilla_stone'
     name 'Ventilla Stone'
     homepage 'http://www.dafont.com/ventilla-stone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ventilla Stone.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-staubiges-vergnugen' do
     url 'http://dl.dafont.com/dl/?f=staubiges_vergnugen'
     name 'Staubiges Vergn&uuml;gen'
     homepage 'http://www.dafont.com/staubiges-vergnugen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Staubiges Vergngen.ttf'
 end

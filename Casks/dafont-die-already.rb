@@ -5,7 +5,6 @@ cask 'dafont-die-already' do
     url 'http://dl.dafont.com/dl/?f=die_already'
     name 'Die Already'
     homepage 'http://www.dafont.com/die-already.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustDieAlready.ttf'
 end

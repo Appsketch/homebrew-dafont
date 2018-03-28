@@ -5,7 +5,6 @@ cask 'dafont-dead-wood' do
     url 'http://dl.dafont.com/dl/?f=dead_wood'
     name 'Dead Wood'
     homepage 'http://www.dafont.com/dead-wood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dead Wood.otf'
 end

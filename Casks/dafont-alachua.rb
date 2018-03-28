@@ -5,7 +5,6 @@ cask 'dafont-alachua' do
     url 'http://dl.dafont.com/dl/?f=alachua'
     name 'Alachua'
     homepage 'http://www.dafont.com/alachua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlachuaBold.ttf'
     font 'AlachuaRegular.ttf'

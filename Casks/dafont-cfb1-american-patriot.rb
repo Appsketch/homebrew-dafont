@@ -5,7 +5,6 @@ cask 'dafont-cfb1-american-patriot' do
     url 'http://dl.dafont.com/dl/?f=cfb1_american_patriot'
     name 'CFB1 American Patriot'
     homepage 'http://www.dafont.com/cfb1-american-patriot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFB1 American Patriot Normal.ttf'
     font 'CFB1 American Patriot SOLID 2 Bold Italic.ttf'

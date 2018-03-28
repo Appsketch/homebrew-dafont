@@ -5,7 +5,6 @@ cask 'dafont-natalia-colleen' do
     url 'http://dl.dafont.com/dl/?f=natalia_colleen'
     name 'Natalia Colleen'
     homepage 'http://www.dafont.com/natalia-colleen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'natalia_colleen.ttf'
 end

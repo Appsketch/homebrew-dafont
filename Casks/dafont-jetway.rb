@@ -5,7 +5,6 @@ cask 'dafont-jetway' do
     url 'http://dl.dafont.com/dl/?f=jetway'
     name 'Jetway'
     homepage 'http://www.dafont.com/jetway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jetway.ttf'
     font 'jetway3d.ttf'

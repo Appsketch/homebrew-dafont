@@ -5,7 +5,6 @@ cask 'dafont-human-error' do
     url 'http://dl.dafont.com/dl/?f=human_error'
     name 'Human Error'
     homepage 'http://www.dafont.com/human-error.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Human Error Dark.ttf'
     font 'Human Error Echo.ttf'

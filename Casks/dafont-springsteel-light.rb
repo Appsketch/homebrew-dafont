@@ -5,7 +5,6 @@ cask 'dafont-springsteel-light' do
     url 'http://dl.dafont.com/dl/?f=springsteel_light'
     name 'Springsteel Light'
     homepage 'http://www.dafont.com/springsteel-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'springsteel-lig.otf'
 end

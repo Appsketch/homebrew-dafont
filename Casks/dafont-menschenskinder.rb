@@ -5,7 +5,6 @@ cask 'dafont-menschenskinder' do
     url 'http://dl.dafont.com/dl/?f=menschenskinder'
     name 'Menschenskinder'
     homepage 'http://www.dafont.com/menschenskinder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Menschenskinder.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tall-boy-west' do
     url 'http://dl.dafont.com/dl/?f=tall_boy_west'
     name 'Tall Boy West'
     homepage 'http://www.dafont.com/tall-boy-west.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tall-Boy-West.ttf'
 end

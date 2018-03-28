@@ -5,7 +5,6 @@ cask 'dafont-fatman' do
     url 'http://dl.dafont.com/dl/?f=fatman'
     name 'Fatman'
     homepage 'http://www.dafont.com/fatman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fatman 1.0.ttf'
 end

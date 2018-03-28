@@ -5,7 +5,6 @@ cask 'dafont-bayday' do
     url 'http://dl.dafont.com/dl/?f=bayday'
     name 'Bayday'
     homepage 'http://www.dafont.com/bayday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bayday.ttf'
 end

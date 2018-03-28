@@ -5,7 +5,6 @@ cask 'dafont-q-bo' do
     url 'http://dl.dafont.com/dl/?f=q_bo'
     name 'Q-Bo'
     homepage 'http://www.dafont.com/q-bo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Q-bo.ttf'
 end

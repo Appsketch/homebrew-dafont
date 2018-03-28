@@ -5,7 +5,6 @@ cask 'dafont-navy-cadet' do
     url 'http://dl.dafont.com/dl/?f=navy_cadet'
     name 'Navy Cadet'
     homepage 'http://www.dafont.com/navy-cadet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'navycadet.ttf'
     font 'navycadet3d.ttf'

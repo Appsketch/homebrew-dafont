@@ -5,7 +5,6 @@ cask 'dafont-read-between-the-lines' do
     url 'http://dl.dafont.com/dl/?f=read_between_the_lines'
     name 'Read between the lines'
     homepage 'http://www.dafont.com/read-between-the-lines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Read between the lines.ttf'
 end

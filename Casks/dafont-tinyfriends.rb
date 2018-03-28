@@ -5,7 +5,6 @@ cask 'dafont-tinyfriends' do
     url 'http://dl.dafont.com/dl/?f=tinyfriends'
     name 'Tiny Friends'
     homepage 'http://www.dafont.com/tinyfriends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TinyFriends.ttf'
 end

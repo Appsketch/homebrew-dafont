@@ -5,7 +5,6 @@ cask 'dafont-rockbiter' do
     url 'http://dl.dafont.com/dl/?f=rockbiter'
     name 'Rock Biter'
     homepage 'http://www.dafont.com/rockbiter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RockBiter.ttf'
 end

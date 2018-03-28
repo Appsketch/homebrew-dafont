@@ -5,7 +5,6 @@ cask 'dafont-slidfis' do
     url 'http://dl.dafont.com/dl/?f=slidfis'
     name 'Slidfis'
     homepage 'http://www.dafont.com/slidfis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slidfis.ttf'
     font 'SLIDFISK.TTF'

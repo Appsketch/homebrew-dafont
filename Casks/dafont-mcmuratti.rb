@@ -5,7 +5,6 @@ cask 'dafont-mcmuratti' do
     url 'http://dl.dafont.com/dl/?f=mcmuratti'
     name 'McMuratti'
     homepage 'http://www.dafont.com/mcmuratti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'McMuratti.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-suppenkasper' do
     url 'http://dl.dafont.com/dl/?f=suppenkasper'
     name 'Suppenkasper'
     homepage 'http://www.dafont.com/suppenkasper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'suppenkasper.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-burbin-casual-nc' do
     url 'http://dl.dafont.com/dl/?f=burbin_casual_nc'
     name 'Burbin Casual NC'
     homepage 'http://www.dafont.com/burbin-casual-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Burbin Casual NC.ttf'
 end

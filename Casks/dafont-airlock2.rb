@@ -5,7 +5,6 @@ cask 'dafont-airlock2' do
     url 'http://dl.dafont.com/dl/?f=airlock2'
     name 'Airlock'
     homepage 'http://www.dafont.com/airlock2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AIRLOCK.ttf'
 end

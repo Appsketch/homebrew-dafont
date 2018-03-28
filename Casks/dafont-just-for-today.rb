@@ -5,7 +5,6 @@ cask 'dafont-just-for-today' do
     url 'http://dl.dafont.com/dl/?f=just_for_today'
     name 'Just for today'
     homepage 'http://www.dafont.com/just-for-today.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Just for today.ttf'
 end

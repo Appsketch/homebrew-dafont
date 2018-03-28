@@ -5,7 +5,6 @@ cask 'dafont-exp-font' do
     url 'http://dl.dafont.com/dl/?f=exp_font'
     name 'EXP Font'
     homepage 'http://www.dafont.com/exp-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EXP Font.ttf'
 end

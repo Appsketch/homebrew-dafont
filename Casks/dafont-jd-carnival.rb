@@ -5,7 +5,6 @@ cask 'dafont-jd-carnival' do
     url 'http://dl.dafont.com/dl/?f=jd_carnival'
     name 'JD Carnival'
     homepage 'http://www.dafont.com/jd-carnival.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_carnival_black.ttf'
     font 'jd_carnival.ttf'

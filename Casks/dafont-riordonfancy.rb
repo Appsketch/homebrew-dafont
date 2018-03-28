@@ -5,7 +5,6 @@ cask 'dafont-riordonfancy' do
     url 'http://dl.dafont.com/dl/?f=riordonfancy'
     name 'Riordon Fancy'
     homepage 'http://www.dafont.com/riordonfancy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RiordonFancy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tapedeck' do
     url 'http://dl.dafont.com/dl/?f=tapedeck'
     name 'Tapedeck'
     homepage 'http://www.dafont.com/tapedeck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tapedeck.ttf'
     font 'Tapedeckbold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-keetano-kg' do
     url 'http://dl.dafont.com/dl/?f=keetano_kg'
     name 'Keetano Gaijin + Katakana'
     homepage 'http://www.dafont.com/keetano-kg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'keetano_gaijin.ttf'
     font 'keetano_katakana.ttf'

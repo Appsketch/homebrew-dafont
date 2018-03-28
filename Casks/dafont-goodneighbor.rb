@@ -5,7 +5,6 @@ cask 'dafont-goodneighbor' do
     url 'http://dl.dafont.com/dl/?f=goodneighbor'
     name 'Good Neighbor'
     homepage 'http://www.dafont.com/goodneighbor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GoodNeighbor.ttf'
 end

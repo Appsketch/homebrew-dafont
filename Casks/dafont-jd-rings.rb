@@ -5,7 +5,6 @@ cask 'dafont-jd-rings' do
     url 'http://dl.dafont.com/dl/?f=jd_rings'
     name 'JD Rings'
     homepage 'http://www.dafont.com/jd-rings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_rings.ttf'
 end

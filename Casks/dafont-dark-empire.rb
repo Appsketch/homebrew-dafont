@@ -5,7 +5,6 @@ cask 'dafont-dark-empire' do
     url 'http://dl.dafont.com/dl/?f=dark_empire'
     name 'Dark Empire'
     homepage 'http://www.dafont.com/dark-empire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DARK EMPIRE.ttf'
 end

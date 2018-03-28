@@ -5,7 +5,6 @@ cask 'dafont-avojaloin' do
     url 'http://dl.dafont.com/dl/?f=avojaloin'
     name 'Avojaloin'
     homepage 'http://www.dafont.com/avojaloin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Avojaloin.ttf'
 end

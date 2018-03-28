@@ -5,7 +5,6 @@ cask 'dafont-staubach' do
     url 'http://dl.dafont.com/dl/?f=staubach'
     name 'Staubach'
     homepage 'http://www.dafont.com/staubach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Staubach.ttf'
 end

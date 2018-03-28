@@ -5,7 +5,6 @@ cask 'dafont-pwschoolsout' do
     url 'http://dl.dafont.com/dl/?f=pwschoolsout'
     name 'PW Schools Out'
     homepage 'http://www.dafont.com/pwschoolsout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWSchoolsOut.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-groteskia' do
     url 'http://dl.dafont.com/dl/?f=groteskia'
     name 'Groteskia'
     homepage 'http://www.dafont.com/groteskia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GROTESKIA OBLIQUE.otf'
     font 'GROTESKIA.otf'

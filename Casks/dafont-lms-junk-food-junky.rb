@@ -5,7 +5,6 @@ cask 'dafont-lms-junk-food-junky' do
     url 'http://dl.dafont.com/dl/?f=lms_junk_food_junky'
     name 'LMS Junk Food Junky'
     homepage 'http://www.dafont.com/lms-junk-food-junky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LMS Junk Food Junky Ding Bat.ttf'
 end

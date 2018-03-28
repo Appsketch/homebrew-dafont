@@ -5,7 +5,6 @@ cask 'dafont-turntablz-bb' do
     url 'http://dl.dafont.com/dl/?f=turntablz_bb'
     name 'Turntablz BB'
     homepage 'http://www.dafont.com/turntablz-bb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TURNB___.TTF'
     font 'TURNBB__.TTF'

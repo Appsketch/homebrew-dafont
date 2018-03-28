@@ -5,7 +5,6 @@ cask 'dafont-99-occupy' do
     url 'http://dl.dafont.com/dl/?f=99_occupy'
     name '99% Occupy'
     homepage 'http://www.dafont.com/99-occupy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '99_percent_OCCUPY.ttf'
 end

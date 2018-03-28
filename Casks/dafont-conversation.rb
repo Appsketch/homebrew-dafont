@@ -5,7 +5,6 @@ cask 'dafont-conversation' do
     url 'http://dl.dafont.com/dl/?f=conversation'
     name 'Conversation'
     homepage 'http://www.dafont.com/conversation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Converation.ttf'
 end

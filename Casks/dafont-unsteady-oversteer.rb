@@ -5,7 +5,6 @@ cask 'dafont-unsteady-oversteer' do
     url 'http://dl.dafont.com/dl/?f=unsteady_oversteer'
     name 'Unsteady Oversteer'
     homepage 'http://www.dafont.com/unsteady-oversteer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'unsteady oversteer.ttf'
 end

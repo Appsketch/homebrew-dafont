@@ -5,7 +5,6 @@ cask 'dafont-sugarpie2' do
     url 'http://dl.dafont.com/dl/?f=sugarpie2'
     name 'Sugarpie'
     homepage 'http://www.dafont.com/sugarpie2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sugarpie.ttf'
 end

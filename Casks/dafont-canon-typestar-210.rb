@@ -5,7 +5,6 @@ cask 'dafont-canon-typestar-210' do
     url 'http://dl.dafont.com/dl/?f=canon_typestar_210'
     name 'Canon TypeStar 210'
     homepage 'http://www.dafont.com/canon-typestar-210.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Canon TypeStar 210.ttf'
 end

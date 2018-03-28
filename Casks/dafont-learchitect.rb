@@ -5,7 +5,6 @@ cask 'dafont-learchitect' do
     url 'http://dl.dafont.com/dl/?f=learchitect'
     name 'LeArchitect'
     homepage 'http://www.dafont.com/learchitect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LeArchitect.ttf'
 end

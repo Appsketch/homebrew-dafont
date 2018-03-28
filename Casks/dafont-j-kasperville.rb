@@ -5,7 +5,6 @@ cask 'dafont-j-kasperville' do
     url 'http://dl.dafont.com/dl/?f=j_kasperville'
     name 'J. Kasperville'
     homepage 'http://www.dafont.com/j-kasperville.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jkasperville.ttf'
 end

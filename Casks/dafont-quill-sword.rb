@@ -5,7 +5,6 @@ cask 'dafont-quill-sword' do
     url 'http://dl.dafont.com/dl/?f=quill_sword'
     name 'Quill Sword'
     homepage 'http://www.dafont.com/quill-sword.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quillsword.ttf'
     font 'quillswordbold.ttf'

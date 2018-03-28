@@ -5,7 +5,6 @@ cask 'dafont-karate2' do
     url 'http://dl.dafont.com/dl/?f=karate2'
     name 'Karate'
     homepage 'http://www.dafont.com/karate2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KARATE.ttf'
 end

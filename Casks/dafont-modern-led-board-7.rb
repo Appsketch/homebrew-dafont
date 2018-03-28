@@ -5,7 +5,6 @@ cask 'dafont-modern-led-board-7' do
     url 'http://dl.dafont.com/dl/?f=modern_led_board_7'
     name 'Modern LED Board-7'
     homepage 'http://www.dafont.com/modern-led-board-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'modern_led_board-7.ttf'
 end

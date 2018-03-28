@@ -5,7 +5,6 @@ cask 'dafont-pale-horse' do
     url 'http://dl.dafont.com/dl/?f=pale_horse'
     name 'Pale Horse'
     homepage 'http://www.dafont.com/pale-horse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaleHorse.ttf'
 end

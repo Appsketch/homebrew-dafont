@@ -5,7 +5,6 @@ cask 'dafont-gelpen' do
     url 'http://dl.dafont.com/dl/?f=gelpen'
     name 'GelPen'
     homepage 'http://www.dafont.com/gelpen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GelPen.ttf'
     font 'GelPenHeavy.ttf'

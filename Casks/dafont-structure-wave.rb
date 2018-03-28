@@ -5,7 +5,6 @@ cask 'dafont-structure-wave' do
     url 'http://dl.dafont.com/dl/?f=structure_wave'
     name 'Structure Wave'
     homepage 'http://www.dafont.com/structure-wave.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Structure Wave.ttf'
 end

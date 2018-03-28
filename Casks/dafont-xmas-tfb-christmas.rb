@@ -5,7 +5,6 @@ cask 'dafont-xmas-tfb-christmas' do
     url 'http://dl.dafont.com/dl/?f=xmas_tfb_christmas'
     name 'Xmas TFB Christmas'
     homepage 'http://www.dafont.com/xmas-tfb-christmas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xmas tfb Christmas.ttf'
 end

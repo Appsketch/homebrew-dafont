@@ -5,7 +5,6 @@ cask 'dafont-van-helsing' do
     url 'http://dl.dafont.com/dl/?f=van_helsing'
     name 'Van Helsing'
     homepage 'http://www.dafont.com/van-helsing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vanhelsing.ttf'
 end

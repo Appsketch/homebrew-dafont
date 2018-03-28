@@ -5,7 +5,6 @@ cask 'dafont-clocker' do
     url 'http://dl.dafont.com/dl/?f=clocker'
     name 'Clocker'
     homepage 'http://www.dafont.com/clocker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clocker Bold Italic.ttf'
     font 'Clocker Bold.ttf'

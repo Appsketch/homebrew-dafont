@@ -5,7 +5,6 @@ cask 'dafont-king-commando' do
     url 'http://dl.dafont.com/dl/?f=king_commando'
     name 'King Commando'
     homepage 'http://www.dafont.com/king-commando.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kcommando.ttf'
     font 'kcommandocond.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-drop-your-anchor' do
     url 'http://dl.dafont.com/dl/?f=drop_your_anchor'
     name 'Drop your anchor'
     homepage 'http://www.dafont.com/drop-your-anchor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drop your anchor.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cf-tissus' do
     url 'http://dl.dafont.com/dl/?f=cf_tissus'
     name 'CF Tissus'
     homepage 'http://www.dafont.com/cf-tissus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFTissus-Regular.ttf'
 end

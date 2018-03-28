@@ -5,7 +5,6 @@ cask 'dafont-mezzanine' do
     url 'http://dl.dafont.com/dl/?f=mezzanine'
     name 'Mezzanine'
     homepage 'http://www.dafont.com/mezzanine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mezzanine.ttf'
 end

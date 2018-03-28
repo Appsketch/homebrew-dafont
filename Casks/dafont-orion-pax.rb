@@ -5,7 +5,6 @@ cask 'dafont-orion-pax' do
     url 'http://dl.dafont.com/dl/?f=orion_pax'
     name 'Orion Pax'
     homepage 'http://www.dafont.com/orion-pax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Orion Pax Bold Italic.otf'
     font 'Orion Pax Bold.otf'

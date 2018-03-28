@@ -5,7 +5,6 @@ cask 'dafont-ace-attorney' do
     url 'http://dl.dafont.com/dl/?f=ace_attorney'
     name 'Ace Attorney'
     homepage 'http://www.dafont.com/ace-attorney.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ace-Attorney.ttf'
 end

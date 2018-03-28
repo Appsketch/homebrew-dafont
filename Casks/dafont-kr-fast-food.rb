@@ -5,7 +5,6 @@ cask 'dafont-kr-fast-food' do
     url 'http://dl.dafont.com/dl/?f=kr_fast_food'
     name 'KR Fast Food'
     homepage 'http://www.dafont.com/kr-fast-food.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Fast Food.ttf'
 end

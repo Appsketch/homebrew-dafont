@@ -5,7 +5,6 @@ cask 'dafont-akvaleir' do
     url 'http://dl.dafont.com/dl/?f=akvaleir'
     name 'Akval&eacute;ir'
     homepage 'http://www.dafont.com/akvaleir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Akvalir_Normal_v2007.ttf'
 end

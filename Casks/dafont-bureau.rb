@@ -5,7 +5,6 @@ cask 'dafont-bureau' do
     url 'http://dl.dafont.com/dl/?f=bureau'
     name 'Bureau'
     homepage 'http://www.dafont.com/bureau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bureau Distressed.ttf'
     font 'Bureau Regular.ttf'

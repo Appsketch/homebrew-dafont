@@ -5,7 +5,6 @@ cask 'dafont-havent-slept-in-two-days' do
     url 'http://dl.dafont.com/dl/?f=havent_slept_in_two_days'
     name 'Havent Slept in Two Days'
     homepage 'http://www.dafont.com/havent-slept-in-two-days.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Havent Slept in Two Days Bold.ttf'
     font 'Havent Slept in Two Days.ttf'

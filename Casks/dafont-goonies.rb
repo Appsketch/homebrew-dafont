@@ -5,7 +5,6 @@ cask 'dafont-goonies' do
     url 'http://dl.dafont.com/dl/?f=goonies'
     name 'Goonies'
     homepage 'http://www.dafont.com/goonies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Goonies.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bart-handschrift' do
     url 'http://dl.dafont.com/dl/?f=bart_handschrift'
     name 'Bart Handschrift'
     homepage 'http://www.dafont.com/bart-handschrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BART Handschrift.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lovestruck' do
     url 'http://dl.dafont.com/dl/?f=lovestruck'
     name 'Love Struck'
     homepage 'http://www.dafont.com/lovestruck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LoveStruck.ttf'
 end

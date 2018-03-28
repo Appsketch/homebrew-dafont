@@ -5,7 +5,6 @@ cask 'dafont-scratchtimes' do
     url 'http://dl.dafont.com/dl/?f=scratchtimes'
     name 'Scratch Times'
     homepage 'http://www.dafont.com/scratchtimes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ScratchTimes.ttf'
 end

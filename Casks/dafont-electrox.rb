@@ -5,7 +5,6 @@ cask 'dafont-electrox' do
     url 'http://dl.dafont.com/dl/?f=electrox'
     name 'Electrox'
     homepage 'http://www.dafont.com/electrox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'electrox.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fiesta-time' do
     url 'http://dl.dafont.com/dl/?f=fiesta_time'
     name 'Fiesta Time'
     homepage 'http://www.dafont.com/fiesta-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fiesta Time.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mercury' do
     url 'http://dl.dafont.com/dl/?f=mercury'
     name 'Mercury'
     homepage 'http://www.dafont.com/mercury.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MERCURY.ttf'
 end

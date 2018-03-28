@@ -5,7 +5,6 @@ cask 'dafont-metal-up-your-ear' do
     url 'http://dl.dafont.com/dl/?f=metal_up_your_ear'
     name 'Metal Up Your Ear'
     homepage 'http://www.dafont.com/metal-up-your-ear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Metal-Up-Your-Ear.ttf'
 end

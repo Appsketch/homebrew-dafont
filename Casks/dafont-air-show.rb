@@ -5,7 +5,6 @@ cask 'dafont-air-show' do
     url 'http://dl.dafont.com/dl/?f=air_show'
     name 'Air Show'
     homepage 'http://www.dafont.com/air-show.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'air show.ttf'
 end

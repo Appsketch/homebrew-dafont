@@ -5,7 +5,6 @@ cask 'dafont-kg-skinny-latte' do
     url 'http://dl.dafont.com/dl/?f=kg_skinny_latte'
     name 'KG Skinny Latte'
     homepage 'http://www.dafont.com/kg-skinny-latte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGSkinnyLatte.ttf'
 end

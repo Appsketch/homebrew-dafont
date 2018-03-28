@@ -5,7 +5,6 @@ cask 'dafont-keetano-atl-my-gangsta' do
     url 'http://dl.dafont.com/dl/?f=keetano_atl_my_gangsta'
     name 'Keetano ATL My Gangsta'
     homepage 'http://www.dafont.com/keetano-atl-my-gangsta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Keetano-ATL-MyGangsta.ttf'
 end

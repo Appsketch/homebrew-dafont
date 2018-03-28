@@ -5,7 +5,6 @@ cask 'dafont-lake-toba' do
     url 'http://dl.dafont.com/dl/?f=lake_toba'
     name 'Lake Toba'
     homepage 'http://www.dafont.com/lake-toba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lake Toba.otf'
 end

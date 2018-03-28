@@ -5,7 +5,6 @@ cask 'dafont-chonker' do
     url 'http://dl.dafont.com/dl/?f=chonker'
     name 'Chonker'
     homepage 'http://www.dafont.com/chonker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chonker.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gb-boot' do
     url 'http://dl.dafont.com/dl/?f=gb_boot'
     name 'G.B.Boot'
     homepage 'http://www.dafont.com/gb-boot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gbb__.ttf'
 end

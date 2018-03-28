@@ -5,7 +5,6 @@ cask 'dafont-roundedbrush' do
     url 'http://dl.dafont.com/dl/?f=roundedbrush'
     name 'Rounded Brush'
     homepage 'http://www.dafont.com/roundedbrush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RoundedBrush.ttf'
 end

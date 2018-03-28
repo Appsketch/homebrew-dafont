@@ -5,7 +5,6 @@ cask 'dafont-universum-invenire' do
     url 'http://dl.dafont.com/dl/?f=universum_invenire'
     name 'Universum Invenire'
     homepage 'http://www.dafont.com/universum-invenire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Universum Invenire.ttf'
 end

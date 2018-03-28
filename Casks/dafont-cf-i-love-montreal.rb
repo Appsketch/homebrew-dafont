@@ -5,7 +5,6 @@ cask 'dafont-cf-i-love-montreal' do
     url 'http://dl.dafont.com/dl/?f=cf_i_love_montreal'
     name 'CF I love Montreal'
     homepage 'http://www.dafont.com/cf-i-love-montreal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFIloveMontreal-Regular.ttf'
 end

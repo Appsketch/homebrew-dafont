@@ -5,7 +5,6 @@ cask 'dafont-citrusgrapefruit' do
     url 'http://dl.dafont.com/dl/?f=citrusgrapefruit'
     name 'Citrus Grapefruit'
     homepage 'http://www.dafont.com/citrusgrapefruit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CitrusGrapefruit.ttf'
 end

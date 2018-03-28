@@ -5,7 +5,6 @@ cask 'dafont-sf-sports-night' do
     url 'http://dl.dafont.com/dl/?f=sf_sports_night'
     name 'SF Sports Night'
     homepage 'http://www.dafont.com/sf-sports-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Sports Night Alternate.ttf'
     font 'SF Sports Night AltUpright.ttf'

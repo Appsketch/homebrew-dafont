@@ -5,7 +5,6 @@ cask 'dafont-collegebytes' do
     url 'http://dl.dafont.com/dl/?f=collegebytes'
     name 'College Bytes'
     homepage 'http://www.dafont.com/collegebytes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CollegeBytes.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fucking-hostile' do
     url 'http://dl.dafont.com/dl/?f=fucking_hostile'
     name 'Fucking Hostile'
     homepage 'http://www.dafont.com/fucking-hostile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fucking Hostile.ttf'
 end

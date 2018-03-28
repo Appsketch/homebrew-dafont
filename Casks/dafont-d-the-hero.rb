@@ -5,7 +5,6 @@ cask 'dafont-d-the-hero' do
     url 'http://dl.dafont.com/dl/?f=d_the_hero'
     name 'D the Hero'
     homepage 'http://www.dafont.com/d-the-hero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'D the hero.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-baby-moons' do
     url 'http://dl.dafont.com/dl/?f=baby_moons'
     name 'Baby Moons'
     homepage 'http://www.dafont.com/baby-moons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baby Moons Bold.ttf'
 end

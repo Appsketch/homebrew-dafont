@@ -5,7 +5,6 @@ cask 'dafont-necktie' do
     url 'http://dl.dafont.com/dl/?f=necktie'
     name 'Necktie'
     homepage 'http://www.dafont.com/necktie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Necktie-Black.ttf'
     font 'Necktie-Stripes.ttf'

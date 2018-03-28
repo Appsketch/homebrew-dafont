@@ -5,7 +5,6 @@ cask 'dafont-megan-serif' do
     url 'http://dl.dafont.com/dl/?f=megan_serif'
     name 'Megan Serif'
     homepage 'http://www.dafont.com/megan-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Megan_Serif.ttf'
 end

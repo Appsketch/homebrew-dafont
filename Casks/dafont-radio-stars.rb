@@ -5,7 +5,6 @@ cask 'dafont-radio-stars' do
     url 'http://dl.dafont.com/dl/?f=radio_stars'
     name 'Radio Stars'
     homepage 'http://www.dafont.com/radio-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'radio stars.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fucked-plate' do
     url 'http://dl.dafont.com/dl/?f=fucked_plate'
     name 'Fucked Plate'
     homepage 'http://www.dafont.com/fucked-plate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fucked_Plate.ttf'
 end

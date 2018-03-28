@@ -5,7 +5,6 @@ cask 'dafont-retrodings' do
     url 'http://dl.dafont.com/dl/?f=retrodings'
     name 'Retrodings'
     homepage 'http://www.dafont.com/retrodings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Retrodings.ttf'
 end

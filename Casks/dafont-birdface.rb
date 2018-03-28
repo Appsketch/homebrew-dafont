@@ -5,7 +5,6 @@ cask 'dafont-birdface' do
     url 'http://dl.dafont.com/dl/?f=birdface'
     name 'BirdFace'
     homepage 'http://www.dafont.com/birdface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'birdtype.ttf'
 end

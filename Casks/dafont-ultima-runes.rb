@@ -5,7 +5,6 @@ cask 'dafont-ultima-runes' do
     url 'http://dl.dafont.com/dl/?f=ultima_runes'
     name 'Ultima Runes'
     homepage 'http://www.dafont.com/ultima-runes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Runes-C.ttf'
     font 'Runes.ttf'

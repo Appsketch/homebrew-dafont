@@ -5,7 +5,6 @@ cask 'dafont-westrider-2057' do
     url 'http://dl.dafont.com/dl/?f=westrider_2057'
     name 'Westrider 2057'
     homepage 'http://www.dafont.com/westrider-2057.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Freehand Profit - Westrider2057.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-big-surprise' do
     url 'http://dl.dafont.com/dl/?f=big_surprise'
     name 'Big Surprise'
     homepage 'http://www.dafont.com/big-surprise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Big Surprise.ttf'
 end

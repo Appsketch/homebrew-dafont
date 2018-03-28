@@ -5,7 +5,6 @@ cask 'dafont-crashed-scoreboard' do
     url 'http://dl.dafont.com/dl/?f=crashed_scoreboard'
     name 'Crashed Scoreboard'
     homepage 'http://www.dafont.com/crashed-scoreboard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crashed Scoreboard.ttf'
 end

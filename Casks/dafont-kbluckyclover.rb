@@ -5,7 +5,6 @@ cask 'dafont-kbluckyclover' do
     url 'http://dl.dafont.com/dl/?f=kbluckyclover'
     name 'KB Lucky Clover'
     homepage 'http://www.dafont.com/kbluckyclover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBLuckyClover.ttf'
 end

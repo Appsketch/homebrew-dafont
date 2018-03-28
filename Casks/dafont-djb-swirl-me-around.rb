@@ -5,7 +5,6 @@ cask 'dafont-djb-swirl-me-around' do
     url 'http://dl.dafont.com/dl/?f=djb_swirl_me_around'
     name 'DJB Swirl Me Around'
     homepage 'http://www.dafont.com/djb-swirl-me-around.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB SWIRL ME AROUND.ttf'
 end

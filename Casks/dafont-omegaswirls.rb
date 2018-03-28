@@ -5,7 +5,6 @@ cask 'dafont-omegaswirls' do
     url 'http://dl.dafont.com/dl/?f=omegaswirls'
     name 'Omega Swirls'
     homepage 'http://www.dafont.com/omegaswirls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OMEGA___.TTF'
 end

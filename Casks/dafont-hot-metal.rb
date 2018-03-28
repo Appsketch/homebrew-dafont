@@ -5,7 +5,6 @@ cask 'dafont-hot-metal' do
     url 'http://dl.dafont.com/dl/?f=hot_metal'
     name 'Hot Metal'
     homepage 'http://www.dafont.com/hot-metal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HOTME___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-spastic-brk' do
     url 'http://dl.dafont.com/dl/?f=spastic_brk'
     name 'Spastic BRK'
     homepage 'http://www.dafont.com/spastic-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spastic2.ttf'
 end

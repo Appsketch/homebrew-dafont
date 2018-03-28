@@ -5,7 +5,6 @@ cask 'dafont-k22-gadget' do
     url 'http://dl.dafont.com/dl/?f=k22_gadget'
     name 'K22 Gadget'
     homepage 'http://www.dafont.com/k22-gadget.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K22 Gadget.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gloogun' do
     url 'http://dl.dafont.com/dl/?f=gloogun'
     name 'Gloo-Gun'
     homepage 'http://www.dafont.com/gloogun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GLOO-GUN.TTF'
 end

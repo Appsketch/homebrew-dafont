@@ -5,7 +5,6 @@ cask 'dafont-symtext' do
     url 'http://dl.dafont.com/dl/?f=symtext'
     name 'Symtext'
     homepage 'http://www.dafont.com/symtext.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Symtext.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-licking-drops' do
     url 'http://dl.dafont.com/dl/?f=licking_drops'
     name 'Licking Drops'
     homepage 'http://www.dafont.com/licking-drops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Licking Drops.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-applejuiced' do
     url 'http://dl.dafont.com/dl/?f=applejuiced'
     name 'Applejuiced'
     homepage 'http://www.dafont.com/applejuiced.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'applejuc.ttf'
 end

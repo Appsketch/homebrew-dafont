@@ -5,7 +5,6 @@ cask 'dafont-triad' do
     url 'http://dl.dafont.com/dl/?f=triad'
     name 'Triad'
     homepage 'http://www.dafont.com/triad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Triad_xs.ttf'
     font 'Triad.ttf'

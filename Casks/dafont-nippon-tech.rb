@@ -5,7 +5,6 @@ cask 'dafont-nippon-tech' do
     url 'http://dl.dafont.com/dl/?f=nippon_tech'
     name 'Nippon Tech'
     homepage 'http://www.dafont.com/nippon-tech.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nippon Tech Bold Italic.otf'
     font 'Nippon Tech Bold.otf'

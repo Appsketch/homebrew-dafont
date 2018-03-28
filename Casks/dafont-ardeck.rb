@@ -5,7 +5,6 @@ cask 'dafont-ardeck' do
     url 'http://dl.dafont.com/dl/?f=ardeck'
     name 'ArDeck'
     homepage 'http://www.dafont.com/ardeck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArDeck Italic.ttf'
     font 'ArDeck Regular.ttf'

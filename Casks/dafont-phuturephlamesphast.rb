@@ -5,7 +5,6 @@ cask 'dafont-phuturephlamesphast' do
     url 'http://dl.dafont.com/dl/?f=phuturephlamesphast'
     name 'Phuture Phlames Phast'
     homepage 'http://www.dafont.com/phuturephlamesphast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PHuturePHlamesPHAST.ttf'
 end

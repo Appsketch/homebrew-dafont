@@ -5,7 +5,6 @@ cask 'dafont-sams-town' do
     url 'http://dl.dafont.com/dl/?f=sams_town'
     name 'Sam&#039;s Town'
     homepage 'http://www.dafont.com/sams-town.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SAM_5C_27TRG_.TTF'
 end

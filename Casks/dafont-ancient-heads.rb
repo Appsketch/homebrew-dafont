@@ -5,7 +5,6 @@ cask 'dafont-ancient-heads' do
     url 'http://dl.dafont.com/dl/?f=ancient_heads'
     name 'Ancient Heads'
     homepage 'http://www.dafont.com/ancient-heads.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANCIH___.TTF'
 end

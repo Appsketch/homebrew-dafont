@@ -5,7 +5,6 @@ cask 'dafont-round-irregularity' do
     url 'http://dl.dafont.com/dl/?f=round_irregularity'
     name 'Round Irregularity'
     homepage 'http://www.dafont.com/round-irregularity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'roundirregularity.ttf'
 end

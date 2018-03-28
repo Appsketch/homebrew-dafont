@@ -5,7 +5,6 @@ cask 'dafont-wassimo-graffiti' do
     url 'http://dl.dafont.com/dl/?f=wassimo_graffiti'
     name 'Wassimo Graffiti'
     homepage 'http://www.dafont.com/wassimo-graffiti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'graffii wassimo.ttf'
 end

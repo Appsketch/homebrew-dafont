@@ -5,7 +5,6 @@ cask 'dafont-boldyhead' do
     url 'http://dl.dafont.com/dl/?f=boldyhead'
     name 'BoldyHead'
     homepage 'http://www.dafont.com/boldyhead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BoldyHead-Bold.ttf'
     font 'BoldyHead-College.ttf'

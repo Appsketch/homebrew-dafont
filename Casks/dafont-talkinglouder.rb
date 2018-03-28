@@ -5,7 +5,6 @@ cask 'dafont-talkinglouder' do
     url 'http://dl.dafont.com/dl/?f=talkinglouder'
     name 'Talking Louder'
     homepage 'http://www.dafont.com/talkinglouder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TalkingLouder.ttf'
 end

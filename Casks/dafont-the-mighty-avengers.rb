@@ -5,7 +5,6 @@ cask 'dafont-the-mighty-avengers' do
     url 'http://dl.dafont.com/dl/?f=the_mighty_avengers'
     name 'The Mighty Avengers'
     homepage 'http://www.dafont.com/the-mighty-avengers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Mighty Avengers.ttf'
 end

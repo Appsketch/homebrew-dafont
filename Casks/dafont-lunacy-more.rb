@@ -5,7 +5,6 @@ cask 'dafont-lunacy-more' do
     url 'http://dl.dafont.com/dl/?f=lunacy_more'
     name 'Lunacy More'
     homepage 'http://www.dafont.com/lunacy-more.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LunacyMore.ttf'
 end

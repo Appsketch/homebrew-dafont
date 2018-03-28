@@ -5,7 +5,6 @@ cask 'dafont-gotfaded' do
     url 'http://dl.dafont.com/dl/?f=gotfaded'
     name 'Gotfaded'
     homepage 'http://www.dafont.com/gotfaded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GotFaded.ttf'
 end

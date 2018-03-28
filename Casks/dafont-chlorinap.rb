@@ -5,7 +5,6 @@ cask 'dafont-chlorinap' do
     url 'http://dl.dafont.com/dl/?f=chlorinap'
     name 'Chlorinap'
     homepage 'http://www.dafont.com/chlorinap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHLORINP.TTF'
 end

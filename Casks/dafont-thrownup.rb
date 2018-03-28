@@ -5,7 +5,6 @@ cask 'dafont-thrownup' do
     url 'http://dl.dafont.com/dl/?f=thrownup'
     name 'Thrownup'
     homepage 'http://www.dafont.com/thrownup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thrownupreal.otf'
 end

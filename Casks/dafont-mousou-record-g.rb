@@ -5,7 +5,6 @@ cask 'dafont-mousou-record-g' do
     url 'http://dl.dafont.com/dl/?f=mousou_record_g'
     name 'Mousou Record G'
     homepage 'http://www.dafont.com/mousou-record-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_mousou_record.ttf'
 end

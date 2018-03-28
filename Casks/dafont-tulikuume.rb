@@ -5,7 +5,6 @@ cask 'dafont-tulikuume' do
     url 'http://dl.dafont.com/dl/?f=tulikuume'
     name 'Tulikuume'
     homepage 'http://www.dafont.com/tulikuume.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tulihuuma.ttf'
     font 'Tulikuume.ttf'

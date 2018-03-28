@@ -5,7 +5,6 @@ cask 'dafont-tauro' do
     url 'http://dl.dafont.com/dl/?f=tauro'
     name 'Tauro'
     homepage 'http://www.dafont.com/tauro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tauro1_1.ttf'
     font 'tauro3d1_1.ttf'

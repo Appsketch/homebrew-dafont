@@ -5,7 +5,6 @@ cask 'dafont-hurtmold' do
     url 'http://dl.dafont.com/dl/?f=hurtmold'
     name 'Hurtmold'
     homepage 'http://www.dafont.com/hurtmold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HURTM___.otf'
 end

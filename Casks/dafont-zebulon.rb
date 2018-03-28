@@ -5,7 +5,6 @@ cask 'dafont-zebulon' do
     url 'http://dl.dafont.com/dl/?f=zebulon'
     name 'Zebulon'
     homepage 'http://www.dafont.com/zebulon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zebulon Bold Italic.otf'
     font 'Zebulon Bold.otf'

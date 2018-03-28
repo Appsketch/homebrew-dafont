@@ -5,7 +5,6 @@ cask 'dafont-bitbold' do
     url 'http://dl.dafont.com/dl/?f=bitbold'
     name 'BitBold'
     homepage 'http://www.dafont.com/bitbold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BitBold.ttf'
 end

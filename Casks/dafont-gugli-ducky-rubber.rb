@@ -5,7 +5,6 @@ cask 'dafont-gugli-ducky-rubber' do
     url 'http://dl.dafont.com/dl/?f=gugli_ducky_rubber'
     name 'Gugli Ducky Rubber'
     homepage 'http://www.dafont.com/gugli-ducky-rubber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gugli_Ducky_Rubber.ttf'
 end

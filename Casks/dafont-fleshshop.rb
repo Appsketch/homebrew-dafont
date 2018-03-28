@@ -5,7 +5,6 @@ cask 'dafont-fleshshop' do
     url 'http://dl.dafont.com/dl/?f=fleshshop'
     name 'Flesh Shop'
     homepage 'http://www.dafont.com/fleshshop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FleshShop.ttf'
 end

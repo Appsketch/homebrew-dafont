@@ -5,7 +5,6 @@ cask 'dafont-heinas-hurry' do
     url 'http://dl.dafont.com/dl/?f=heinas_hurry'
     name 'Heina&#039;s hurry'
     homepage 'http://www.dafont.com/heinas-hurry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heina_&#039;s hurry.ttf'
 end

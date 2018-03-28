@@ -5,7 +5,6 @@ cask 'dafont-break' do
     url 'http://dl.dafont.com/dl/?f=break'
     name 'Break'
     homepage 'http://www.dafont.com/break.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BREAK___.TTF'
 end

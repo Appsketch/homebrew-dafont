@@ -5,7 +5,6 @@ cask 'dafont-luciferius' do
     url 'http://dl.dafont.com/dl/?f=luciferius'
     name 'Luciferius'
     homepage 'http://www.dafont.com/luciferius.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LUCIFER_.ttf'
     font 'LUCIFERI.ttf'

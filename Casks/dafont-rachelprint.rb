@@ -5,7 +5,6 @@ cask 'dafont-rachelprint' do
     url 'http://dl.dafont.com/dl/?f=rachelprint'
     name 'Rachel Print'
     homepage 'http://www.dafont.com/rachelprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RachelPrint.otf'
 end

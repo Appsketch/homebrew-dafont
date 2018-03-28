@@ -5,7 +5,6 @@ cask 'dafont-meatmarket' do
     url 'http://dl.dafont.com/dl/?f=meatmarket'
     name 'MeatMarket'
     homepage 'http://www.dafont.com/meatmarket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MeatMarket.ttf'
 end

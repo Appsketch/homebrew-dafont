@@ -5,7 +5,6 @@ cask 'dafont-oreos' do
     url 'http://dl.dafont.com/dl/?f=oreos'
     name 'Oreos'
     homepage 'http://www.dafont.com/oreos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'oreos.ttf'
 end

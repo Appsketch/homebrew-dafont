@@ -5,7 +5,6 @@ cask 'dafont-middle-cove-beach-rocks' do
     url 'http://dl.dafont.com/dl/?f=middle_cove_beach_rocks'
     name 'Middle Cove Beach Rocks'
     homepage 'http://www.dafont.com/middle-cove-beach-rocks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'middle-cove-beach-rocks-1.0.ttf'
 end

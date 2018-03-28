@@ -5,7 +5,6 @@ cask 'dafont-quirk33' do
     url 'http://dl.dafont.com/dl/?f=quirk33'
     name 'Quirk 33'
     homepage 'http://www.dafont.com/quirk33.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quirk33.ttf'
 end

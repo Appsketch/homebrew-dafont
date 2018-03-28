@@ -5,7 +5,6 @@ cask 'dafont-auldmagick' do
     url 'http://dl.dafont.com/dl/?f=auldmagick'
     name 'AuldMagick'
     homepage 'http://www.dafont.com/auldmagick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AuldMagick Bold Italic.ttf'
     font 'AuldMagick Bold.ttf'

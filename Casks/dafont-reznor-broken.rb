@@ -5,7 +5,6 @@ cask 'dafont-reznor-broken' do
     url 'http://dl.dafont.com/dl/?f=reznor_broken'
     name 'Reznor Broken'
     homepage 'http://www.dafont.com/reznor-broken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REZB____.TTF'
 end

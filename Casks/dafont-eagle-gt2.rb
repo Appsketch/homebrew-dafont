@@ -5,7 +5,6 @@ cask 'dafont-eagle-gt2' do
     url 'http://dl.dafont.com/dl/?f=eagle_gt2'
     name 'Eagle GT II'
     homepage 'http://www.dafont.com/eagle-gt2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EagleGTII.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-batmos' do
     url 'http://dl.dafont.com/dl/?f=batmos'
     name 'Batmos'
     homepage 'http://www.dafont.com/batmos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BATMOS.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-biru-htam-biru' do
     url 'http://dl.dafont.com/dl/?f=biru_htam_biru'
     name 'Biru-htam-biru'
     homepage 'http://www.dafont.com/biru-htam-biru.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIRU-HTAM-BIRU.ttf'
 end

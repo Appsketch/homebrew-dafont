@@ -5,7 +5,6 @@ cask 'dafont-elite-hacker-corroded' do
     url 'http://dl.dafont.com/dl/?f=elite_hacker_corroded'
     name 'Elite Hacker Corroded'
     homepage 'http://www.dafont.com/elite-hacker-corroded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elite Hacker (Corroded).ttf'
 end

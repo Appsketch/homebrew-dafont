@@ -5,7 +5,6 @@ cask 'dafont-goth-ball-crap' do
     url 'http://dl.dafont.com/dl/?f=goth_ball_crap'
     name 'Goth Ball Crap'
     homepage 'http://www.dafont.com/goth-ball-crap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GothBallCrap.ttf'
 end

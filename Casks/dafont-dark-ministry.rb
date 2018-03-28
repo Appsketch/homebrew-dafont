@@ -5,7 +5,6 @@ cask 'dafont-dark-ministry' do
     url 'http://dl.dafont.com/dl/?f=dark_ministry'
     name 'Dark Ministry'
     homepage 'http://www.dafont.com/dark-ministry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dark Ministry.ttf'
 end

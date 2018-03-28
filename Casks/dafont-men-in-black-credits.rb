@@ -5,7 +5,6 @@ cask 'dafont-men-in-black-credits' do
     url 'http://dl.dafont.com/dl/?f=men_in_black_credits'
     name 'Men In Black Credits'
     homepage 'http://www.dafont.com/men-in-black-credits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Men In Black.ttf'
 end

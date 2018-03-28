@@ -5,7 +5,6 @@ cask 'dafont-genocide' do
     url 'http://dl.dafont.com/dl/?f=genocide'
     name 'Genocide'
     homepage 'http://www.dafont.com/genocide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GENOCIDE.TTF'
 end

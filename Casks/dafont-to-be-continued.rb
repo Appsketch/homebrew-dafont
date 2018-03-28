@@ -5,7 +5,6 @@ cask 'dafont-to-be-continued' do
     url 'http://dl.dafont.com/dl/?f=to_be_continued'
     name 'To Be Continued'
     homepage 'http://www.dafont.com/to-be-continued.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tobec___.ttf'
 end

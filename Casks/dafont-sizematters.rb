@@ -5,7 +5,6 @@ cask 'dafont-sizematters' do
     url 'http://dl.dafont.com/dl/?f=sizematters'
     name 'Size Matters'
     homepage 'http://www.dafont.com/sizematters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SizeMatters.ttf'
 end

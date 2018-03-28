@@ -5,7 +5,6 @@ cask 'dafont-shinobi-ninja' do
     url 'http://dl.dafont.com/dl/?f=shinobi_ninja'
     name 'Shinobi Ninja'
     homepage 'http://www.dafont.com/shinobi-ninja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shinobi ninja.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-now-you-see-me-now-you-dont' do
     url 'http://dl.dafont.com/dl/?f=now_you_see_me_now_you_dont'
     name 'Now you see me, now you don&#039;t'
     homepage 'http://www.dafont.com/now-you-see-me-now-you-dont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'now you see me, now you don_t.ttf'
 end

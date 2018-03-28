@@ -5,7 +5,6 @@ cask 'dafont-ledsitex-st' do
     url 'http://dl.dafont.com/dl/?f=ledsitex_st'
     name 'Ledsitex ST'
     homepage 'http://www.dafont.com/ledsitex-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ledsitex St.ttf'
 end

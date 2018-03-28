@@ -5,7 +5,6 @@ cask 'dafont-surrendered-heart' do
     url 'http://dl.dafont.com/dl/?f=surrendered_heart'
     name 'Surrendered Heart'
     homepage 'http://www.dafont.com/surrendered-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Surrendered Heart.ttf'
 end

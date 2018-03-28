@@ -5,7 +5,6 @@ cask 'dafont-gotika' do
     url 'http://dl.dafont.com/dl/?f=gotika'
     name 'Gotika'
     homepage 'http://www.dafont.com/gotika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gotika Apvalus.ttf'
     font 'Gotika Brokas.ttf'

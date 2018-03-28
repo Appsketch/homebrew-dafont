@@ -5,7 +5,6 @@ cask 'dafont-vtks-white-page' do
     url 'http://dl.dafont.com/dl/?f=vtks_white_page'
     name 'VTKS White Page'
     homepage 'http://www.dafont.com/vtks-white-page.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks white page 3d.ttf'
     font 'vtks white page.ttf'

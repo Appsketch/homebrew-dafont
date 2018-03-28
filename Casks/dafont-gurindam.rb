@@ -5,7 +5,6 @@ cask 'dafont-gurindam' do
     url 'http://dl.dafont.com/dl/?f=gurindam'
     name 'Gurindam'
     homepage 'http://www.dafont.com/gurindam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gurindam Serong.ttf'
     font 'Gurindam Tebal.ttf'

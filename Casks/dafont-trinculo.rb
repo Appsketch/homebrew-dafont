@@ -5,7 +5,6 @@ cask 'dafont-trinculo' do
     url 'http://dl.dafont.com/dl/?f=trinculo'
     name 'Trinculo'
     homepage 'http://www.dafont.com/trinculo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tr______.ttf'
 end

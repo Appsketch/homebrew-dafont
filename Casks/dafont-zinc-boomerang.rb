@@ -5,7 +5,6 @@ cask 'dafont-zinc-boomerang' do
     url 'http://dl.dafont.com/dl/?f=zinc_boomerang'
     name 'Zinc Boomerang'
     homepage 'http://www.dafont.com/zinc-boomerang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zincboom.ttf'
 end

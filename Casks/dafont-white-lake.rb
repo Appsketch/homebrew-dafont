@@ -5,7 +5,6 @@ cask 'dafont-white-lake' do
     url 'http://dl.dafont.com/dl/?f=white_lake'
     name 'White Lake'
     homepage 'http://www.dafont.com/white-lake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'white lake.ttf'
 end

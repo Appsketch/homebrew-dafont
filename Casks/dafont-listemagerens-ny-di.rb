@@ -5,7 +5,6 @@ cask 'dafont-listemagerens-ny-di' do
     url 'http://dl.dafont.com/dl/?f=listemagerens_ny_di'
     name 'Listemagerens Ny Dingbats'
     homepage 'http://www.dafont.com/listemagerens-ny-di.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LISTND__.TTF'
 end

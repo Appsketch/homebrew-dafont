@@ -5,7 +5,6 @@ cask 'dafont-ecto-blaster' do
     url 'http://dl.dafont.com/dl/?f=ecto_blaster'
     name 'Ecto Blaster'
     homepage 'http://www.dafont.com/ecto-blaster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ECTOBLST.TTF'
 end

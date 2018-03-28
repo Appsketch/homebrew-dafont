@@ -5,7 +5,6 @@ cask 'dafont-font-for-erin' do
     url 'http://dl.dafont.com/dl/?f=font_for_erin'
     name 'Font for Erin'
     homepage 'http://www.dafont.com/font-for-erin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FontForErin.ttf'
 end

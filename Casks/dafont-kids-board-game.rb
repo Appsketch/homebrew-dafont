@@ -5,7 +5,6 @@ cask 'dafont-kids-board-game' do
     url 'http://dl.dafont.com/dl/?f=kids_board_game'
     name 'Kids Board Game'
     homepage 'http://www.dafont.com/kids-board-game.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kidsboardgamefont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-garanimals' do
     url 'http://dl.dafont.com/dl/?f=garanimals'
     name 'Garanimals'
     homepage 'http://www.dafont.com/garanimals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GARANIMA.TTF'
 end

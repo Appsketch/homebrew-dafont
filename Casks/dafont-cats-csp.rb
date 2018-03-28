@@ -5,7 +5,6 @@ cask 'dafont-cats-csp' do
     url 'http://dl.dafont.com/dl/?f=cats_csp'
     name 'Cats CSP'
     homepage 'http://www.dafont.com/cats-csp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cats_csp.ttf'
 end

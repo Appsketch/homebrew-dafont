@@ -5,7 +5,6 @@ cask 'dafont-majorminus' do
     url 'http://dl.dafont.com/dl/?f=majorminus'
     name 'Major Minus'
     homepage 'http://www.dafont.com/majorminus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MajorMinus.ttf'
 end

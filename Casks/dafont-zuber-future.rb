@@ -5,7 +5,6 @@ cask 'dafont-zuber-future' do
     url 'http://dl.dafont.com/dl/?f=zuber_future'
     name 'Zuber Future'
     homepage 'http://www.dafont.com/zuber-future.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zuber future free promo.ttf'
 end

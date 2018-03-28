@@ -5,7 +5,6 @@ cask 'dafont-kg-cold-coffee' do
     url 'http://dl.dafont.com/dl/?f=kg_cold_coffee'
     name 'KG Cold Coffee'
     homepage 'http://www.dafont.com/kg-cold-coffee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGColdCoffee.ttf'
 end

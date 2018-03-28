@@ -5,7 +5,6 @@ cask 'dafont-abc-3d' do
     url 'http://dl.dafont.com/dl/?f=abc_3d'
     name 'Abc 3D'
     homepage 'http://www.dafont.com/abc-3d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'abc 3D.ttf'
 end

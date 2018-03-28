@@ -5,7 +5,6 @@ cask 'dafont-la-babaca' do
     url 'http://dl.dafont.com/dl/?f=la_babaca'
     name 'La Babaca'
     homepage 'http://www.dafont.com/la-babaca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'La-Babaca-ffp.ttf'
 end

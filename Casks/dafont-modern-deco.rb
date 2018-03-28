@@ -5,7 +5,6 @@ cask 'dafont-modern-deco' do
     url 'http://dl.dafont.com/dl/?f=modern_deco'
     name 'Modern Deco'
     homepage 'http://www.dafont.com/modern-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Modern Deco.ttf'
 end

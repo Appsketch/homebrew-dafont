@@ -5,7 +5,6 @@ cask 'dafont-are-you-awake-neo' do
     url 'http://dl.dafont.com/dl/?f=are_you_awake_neo'
     name 'Are you awake Neo?'
     homepage 'http://www.dafont.com/are-you-awake-neo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'areyouaw_neo.ttf'
 end

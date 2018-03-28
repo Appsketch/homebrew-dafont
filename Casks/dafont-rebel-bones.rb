@@ -5,7 +5,6 @@ cask 'dafont-rebel-bones' do
     url 'http://dl.dafont.com/dl/?f=rebel_bones'
     name 'Rebel Bones'
     homepage 'http://www.dafont.com/rebel-bones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rebel bones..ttf'
 end

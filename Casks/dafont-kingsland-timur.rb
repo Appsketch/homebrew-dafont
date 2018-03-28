@@ -5,7 +5,6 @@ cask 'dafont-kingsland-timur' do
     url 'http://dl.dafont.com/dl/?f=kingsland_timur'
     name 'Kingsland Timur'
     homepage 'http://www.dafont.com/kingsland-timur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingsland Timur.otf'
 end

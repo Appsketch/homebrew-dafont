@@ -5,7 +5,6 @@ cask 'dafont-sixties-queb71' do
     url 'http://dl.dafont.com/dl/?f=sixties_queb71'
     name 'Sixties'
     homepage 'http://www.dafont.com/sixties-queb71.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sixties-Regular.ttf'
 end

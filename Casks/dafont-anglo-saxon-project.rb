@@ -5,7 +5,6 @@ cask 'dafont-anglo-saxon-project' do
     url 'http://dl.dafont.com/dl/?f=anglo_saxon_project'
     name 'Anglo-Saxon Project'
     homepage 'http://www.dafont.com/anglo-saxon-project.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASPROJ1.TTF'
 end

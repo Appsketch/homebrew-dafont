@@ -5,7 +5,6 @@ cask 'dafont-irresponsible-direction' do
     url 'http://dl.dafont.com/dl/?f=irresponsible_direction'
     name 'Irresponsible Direction'
     homepage 'http://www.dafont.com/irresponsible-direction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Irresponsible Direction.ttf'
 end

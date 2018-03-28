@@ -5,7 +5,6 @@ cask 'dafont-sand' do
     url 'http://dl.dafont.com/dl/?f=sand'
     name 'Sand'
     homepage 'http://www.dafont.com/sand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SAND____.TTF'
 end

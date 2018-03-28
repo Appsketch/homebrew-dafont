@@ -5,7 +5,6 @@ cask 'dafont-voor' do
     url 'http://dl.dafont.com/dl/?f=voor'
     name 'Voor'
     homepage 'http://www.dafont.com/voor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VoorReg.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-monster-unleashed' do
     url 'http://dl.dafont.com/dl/?f=monster_unleashed'
     name 'Monster Unleashed'
     homepage 'http://www.dafont.com/monster-unleashed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monster Unleashed.ttf'
 end

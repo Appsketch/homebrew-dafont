@@ -5,7 +5,6 @@ cask 'dafont-lost-world' do
     url 'http://dl.dafont.com/dl/?f=lost_world'
     name 'Lost World'
     homepage 'http://www.dafont.com/lost-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOSTW___.TTF'
 end

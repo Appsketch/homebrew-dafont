@@ -5,7 +5,6 @@ cask 'dafont-tilez' do
     url 'http://dl.dafont.com/dl/?f=tilez'
     name 'Tilez'
     homepage 'http://www.dafont.com/tilez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tilez.TTF'
 end

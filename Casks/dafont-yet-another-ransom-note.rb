@@ -5,7 +5,6 @@ cask 'dafont-yet-another-ransom-note' do
     url 'http://dl.dafont.com/dl/?f=yet_another_ransom_note'
     name 'Yet Another Ransom Note'
     homepage 'http://www.dafont.com/yet-another-ransom-note.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yet Another Ransom Note.ttf'
 end

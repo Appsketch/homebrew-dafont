@@ -5,7 +5,6 @@ cask 'dafont-lacartoonerie' do
     url 'http://dl.dafont.com/dl/?f=lacartoonerie'
     name 'La Cartoonerie'
     homepage 'http://www.dafont.com/lacartoonerie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'laCartoonerie.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fancysauce' do
     url 'http://dl.dafont.com/dl/?f=fancysauce'
     name 'Fancy Sauce'
     homepage 'http://www.dafont.com/fancysauce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FancySauce.ttf'
 end

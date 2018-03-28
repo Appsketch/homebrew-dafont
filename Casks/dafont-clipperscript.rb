@@ -5,7 +5,6 @@ cask 'dafont-clipperscript' do
     url 'http://dl.dafont.com/dl/?f=clipperscript'
     name 'Clipper Script'
     homepage 'http://www.dafont.com/clipperscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PersonalUse_Clipper_Script_fat.ttf'
     font 'PersonalUse_Clipper_Script.ttf'

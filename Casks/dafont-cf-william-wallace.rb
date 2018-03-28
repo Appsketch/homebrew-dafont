@@ -5,7 +5,6 @@ cask 'dafont-cf-william-wallace' do
     url 'http://dl.dafont.com/dl/?f=cf_william_wallace'
     name 'CF William Wallace'
     homepage 'http://www.dafont.com/cf-william-wallace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFWilliamWallace-Regular.ttf'
 end

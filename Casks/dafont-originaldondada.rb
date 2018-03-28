@@ -5,7 +5,6 @@ cask 'dafont-originaldondada' do
     url 'http://dl.dafont.com/dl/?f=originaldondada'
     name 'Original Don Dada'
     homepage 'http://www.dafont.com/originaldondada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OriginalDonDada.ttf'
 end

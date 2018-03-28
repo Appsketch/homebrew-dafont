@@ -5,7 +5,6 @@ cask 'dafont-pelida' do
     url 'http://dl.dafont.com/dl/?f=pelida'
     name 'Pelida'
     homepage 'http://www.dafont.com/pelida.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pelida Bold.ttf'
     font 'Pelida Italic Bold.ttf'

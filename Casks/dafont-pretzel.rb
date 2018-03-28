@@ -5,7 +5,6 @@ cask 'dafont-pretzel' do
     url 'http://dl.dafont.com/dl/?f=pretzel'
     name 'Pretzel'
     homepage 'http://www.dafont.com/pretzel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pretzel Regular.ttf'
 end

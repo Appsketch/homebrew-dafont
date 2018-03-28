@@ -5,7 +5,6 @@ cask 'dafont-pure' do
     url 'http://dl.dafont.com/dl/?f=pure'
     name 'Pure'
     homepage 'http://www.dafont.com/pure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pure-Capital.ttf'
     font 'Pure-CircuitCap.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-gamaliel' do
     url 'http://dl.dafont.com/dl/?f=gamaliel'
     name 'Gamaliel'
     homepage 'http://www.dafont.com/gamaliel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gamaliel.otf'
 end

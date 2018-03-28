@@ -5,7 +5,6 @@ cask 'dafont-inside' do
     url 'http://dl.dafont.com/dl/?f=inside'
     name 'Inside'
     homepage 'http://www.dafont.com/inside.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'inside.ttf'
 end

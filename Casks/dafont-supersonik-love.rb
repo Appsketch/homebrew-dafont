@@ -5,7 +5,6 @@ cask 'dafont-supersonik-love' do
     url 'http://dl.dafont.com/dl/?f=supersonik_love'
     name 'Supersonik Love'
     homepage 'http://www.dafont.com/supersonik-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Supersonik Love.otf'
 end

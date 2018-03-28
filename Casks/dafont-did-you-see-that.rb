@@ -5,7 +5,6 @@ cask 'dafont-did-you-see-that' do
     url 'http://dl.dafont.com/dl/?f=did_you_see_that'
     name 'Did you see that'
     homepage 'http://www.dafont.com/did-you-see-that.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DYST.ttf'
 end

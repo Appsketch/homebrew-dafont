@@ -5,7 +5,6 @@ cask 'dafont-germanica-family' do
     url 'http://dl.dafont.com/dl/?f=germanica_family'
     name 'Germanica'
     homepage 'http://www.dafont.com/germanica-family.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Embossed Germanica.ttf'
     font 'Fluted Germanica.ttf'

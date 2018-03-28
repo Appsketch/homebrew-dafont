@@ -5,7 +5,6 @@ cask 'dafont-dumbledor' do
     url 'http://dl.dafont.com/dl/?f=dumbledor'
     name 'Dumbledor'
     homepage 'http://www.dafont.com/dumbledor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dum1/dum1.ttf'
     font 'dum1/dum13d.ttf'

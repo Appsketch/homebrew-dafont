@@ -5,7 +5,6 @@ cask 'dafont-sf-ironsides' do
     url 'http://dl.dafont.com/dl/?f=sf_ironsides'
     name 'SF Ironsides'
     homepage 'http://www.dafont.com/sf-ironsides.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Ironsides Bold Italic.ttf'
     font 'SF Ironsides Bold.ttf'

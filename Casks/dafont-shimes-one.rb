@@ -5,7 +5,6 @@ cask 'dafont-shimes-one' do
     url 'http://dl.dafont.com/dl/?f=shimes_one'
     name 'Shimes One'
     homepage 'http://www.dafont.com/shimes-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShimesOne_PERSONAL.ttf'
 end

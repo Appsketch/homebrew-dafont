@@ -5,7 +5,6 @@ cask 'dafont-unrealised' do
     url 'http://dl.dafont.com/dl/?f=unrealised'
     name 'Unrealised'
     homepage 'http://www.dafont.com/unrealised.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unrealised.ttf'
 end

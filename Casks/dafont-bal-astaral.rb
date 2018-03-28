@@ -5,7 +5,6 @@ cask 'dafont-bal-astaral' do
     url 'http://dl.dafont.com/dl/?f=bal_astaral'
     name 'Bal-Astaral'
     homepage 'http://www.dafont.com/bal-astaral.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'balastaragchrome.ttf'
     font 'balastaragchromeital.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-hulkbusters' do
     url 'http://dl.dafont.com/dl/?f=hulkbusters'
     name 'Hulkbusters'
     homepage 'http://www.dafont.com/hulkbusters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hulk.ttf'
     font 'hulk3d2.ttf'

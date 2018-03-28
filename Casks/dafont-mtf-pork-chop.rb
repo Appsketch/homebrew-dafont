@@ -5,7 +5,6 @@ cask 'dafont-mtf-pork-chop' do
     url 'http://dl.dafont.com/dl/?f=mtf_pork_chop'
     name 'MTF Pork Chop'
     homepage 'http://www.dafont.com/mtf-pork-chop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Pork Chop.ttf'
 end

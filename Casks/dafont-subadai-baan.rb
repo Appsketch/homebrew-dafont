@@ -5,7 +5,6 @@ cask 'dafont-subadai-baan' do
     url 'http://dl.dafont.com/dl/?f=subadai_baan'
     name 'Subadai Baan'
     homepage 'http://www.dafont.com/subadai-baan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'subadai.ttf'
     font 'subadai3d.ttf'

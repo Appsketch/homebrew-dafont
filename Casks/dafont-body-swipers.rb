@@ -5,7 +5,6 @@ cask 'dafont-body-swipers' do
     url 'http://dl.dafont.com/dl/?f=body_swipers'
     name 'Body Swipers'
     homepage 'http://www.dafont.com/body-swipers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bodyswipers.ttf'
     font 'bodyswipers3d.ttf'

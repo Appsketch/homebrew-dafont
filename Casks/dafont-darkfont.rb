@@ -5,7 +5,6 @@ cask 'dafont-darkfont' do
     url 'http://dl.dafont.com/dl/?f=darkfont'
     name 'DarkFont'
     homepage 'http://www.dafont.com/darkfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DarkFont.ttf'
 end

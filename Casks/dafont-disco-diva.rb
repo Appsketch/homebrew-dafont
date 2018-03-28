@@ -5,7 +5,6 @@ cask 'dafont-disco-diva' do
     url 'http://dl.dafont.com/dl/?f=disco_diva'
     name 'Disco Diva'
     homepage 'http://www.dafont.com/disco-diva.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DiscoDiva.ttf'
 end

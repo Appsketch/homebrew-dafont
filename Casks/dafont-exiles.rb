@@ -5,7 +5,6 @@ cask 'dafont-exiles' do
     url 'http://dl.dafont.com/dl/?f=exiles'
     name 'Exiles'
     homepage 'http://www.dafont.com/exiles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Exiles.otf'
 end

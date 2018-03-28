@@ -5,7 +5,6 @@ cask 'dafont-iconos-skate' do
     url 'http://dl.dafont.com/dl/?f=iconos_skate'
     name 'Iconos Skate'
     homepage 'http://www.dafont.com/iconos-skate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'icon.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-smb-deluxe' do
     url 'http://dl.dafont.com/dl/?f=smb_deluxe'
     name 'SMB Deluxe'
     homepage 'http://www.dafont.com/smb-deluxe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SMB-Deluxe.ttf'
 end

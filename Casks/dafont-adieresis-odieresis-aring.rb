@@ -5,7 +5,6 @@ cask 'dafont-adieresis-odieresis-aring' do
     url 'http://dl.dafont.com/dl/?f=adieresis_odieresis_aring'
     name 'Adieresis, Odieresis &amp; Aring'
     homepage 'http://www.dafont.com/adieresis-odieresis-aring.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adieresis, Odieresis &amp; Aring 2.ttf'
     font 'Adieresis, Odieresis &amp; Aring.ttf'

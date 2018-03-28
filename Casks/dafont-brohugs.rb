@@ -5,7 +5,6 @@ cask 'dafont-brohugs' do
     url 'http://dl.dafont.com/dl/?f=brohugs'
     name 'Bro Hugs'
     homepage 'http://www.dafont.com/brohugs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BroHugs.ttf'
 end

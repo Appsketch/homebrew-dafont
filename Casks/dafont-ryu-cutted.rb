@@ -5,7 +5,6 @@ cask 'dafont-ryu-cutted' do
     url 'http://dl.dafont.com/dl/?f=ryu_cutted'
     name 'Ryu Cutted'
     homepage 'http://www.dafont.com/ryu-cutted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ryu_cutted.ttf'
 end

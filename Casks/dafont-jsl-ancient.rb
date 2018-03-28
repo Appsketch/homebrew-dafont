@@ -5,7 +5,6 @@ cask 'dafont-jsl-ancient' do
     url 'http://dl.dafont.com/dl/?f=jsl_ancient'
     name 'JSL Ancient'
     homepage 'http://www.dafont.com/jsl-ancient.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jancieni.ttf'
     font 'jancient.ttf'

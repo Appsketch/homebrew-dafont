@@ -5,7 +5,6 @@ cask 'dafont-astrodramatic' do
     url 'http://dl.dafont.com/dl/?f=astrodramatic'
     name 'Astrodramatic'
     homepage 'http://www.dafont.com/astrodramatic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASTRODRAMATIC.ttf'
 end

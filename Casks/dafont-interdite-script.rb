@@ -5,7 +5,6 @@ cask 'dafont-interdite-script' do
     url 'http://dl.dafont.com/dl/?f=interdite_script'
     name 'Interdite Script'
     homepage 'http://www.dafont.com/interdite-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Interdite Script.ttf'
 end

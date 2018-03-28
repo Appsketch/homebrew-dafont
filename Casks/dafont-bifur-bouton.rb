@@ -5,7 +5,6 @@ cask 'dafont-bifur-bouton' do
     url 'http://dl.dafont.com/dl/?f=bifur_bouton'
     name 'Bifur Fondation + Overlay'
     homepage 'http://www.dafont.com/bifur-bouton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bifur Foundation.otf'
     font 'Bifur Overlay.otf'

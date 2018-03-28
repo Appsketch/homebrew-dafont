@@ -5,7 +5,6 @@ cask 'dafont-rittswood-office-lg' do
     url 'http://dl.dafont.com/dl/?f=rittswood_office_lg'
     name 'Rittswood Office Lg'
     homepage 'http://www.dafont.com/rittswood-office-lg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'r-office_l_8.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-francisco-lucas' do
     url 'http://dl.dafont.com/dl/?f=francisco_lucas'
     name 'Francisco Lucas'
     homepage 'http://www.dafont.com/francisco-lucas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FLbriosa/FLbrsa1.ttf'
     font 'FLllana/FLllana1.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-viiden-pennin-operetti' do
     url 'http://dl.dafont.com/dl/?f=viiden_pennin_operetti'
     name 'Viiden pennin operetti'
     homepage 'http://www.dafont.com/viiden-pennin-operetti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Viiden pennin operetti.ttf'
 end

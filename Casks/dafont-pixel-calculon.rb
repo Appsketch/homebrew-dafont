@@ -5,7 +5,6 @@ cask 'dafont-pixel-calculon' do
     url 'http://dl.dafont.com/dl/?f=pixel_calculon'
     name 'Pixel Calculon'
     homepage 'http://www.dafont.com/pixel-calculon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel Calculon Italic.otf'
     font 'Pixel Calculon.otf'

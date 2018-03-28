@@ -5,7 +5,6 @@ cask 'dafont-astounding-news' do
     url 'http://dl.dafont.com/dl/?f=astounding_news'
     name 'Astounding news'
     homepage 'http://www.dafont.com/astounding-news.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Astounding news.ttf'
 end

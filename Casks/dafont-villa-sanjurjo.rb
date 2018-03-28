@@ -5,7 +5,6 @@ cask 'dafont-villa-sanjurjo' do
     url 'http://dl.dafont.com/dl/?f=villa_sanjurjo'
     name 'Villa Sanjurjo'
     homepage 'http://www.dafont.com/villa-sanjurjo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Villa Sanjurjo.ttf'
 end

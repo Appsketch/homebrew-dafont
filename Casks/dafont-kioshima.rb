@@ -5,7 +5,6 @@ cask 'dafont-kioshima' do
     url 'http://dl.dafont.com/dl/?f=kioshima'
     name 'Kioshima'
     homepage 'http://www.dafont.com/kioshima.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kioshima.ttf'
 end

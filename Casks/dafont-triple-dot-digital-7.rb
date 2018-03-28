@@ -5,7 +5,6 @@ cask 'dafont-triple-dot-digital-7' do
     url 'http://dl.dafont.com/dl/?f=triple_dot_digital_7'
     name 'Triple Dot Digital-7'
     homepage 'http://www.dafont.com/triple-dot-digital-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'triple_dot_digital-7.ttf'
 end

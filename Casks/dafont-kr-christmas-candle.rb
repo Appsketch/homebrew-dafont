@@ -5,7 +5,6 @@ cask 'dafont-kr-christmas-candle' do
     url 'http://dl.dafont.com/dl/?f=kr_christmas_candle'
     name 'KR Christmas Candles'
     homepage 'http://www.dafont.com/kr-christmas-candle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Christmas Candles.ttf'
 end

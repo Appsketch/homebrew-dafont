@@ -5,7 +5,6 @@ cask 'dafont-maya-calendric' do
     url 'http://dl.dafont.com/dl/?f=maya_calendric'
     name 'Maya Calendric'
     homepage 'http://www.dafont.com/maya-calendric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAYA_CAL15.TTF'
 end

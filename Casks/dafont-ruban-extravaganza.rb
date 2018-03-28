@@ -5,7 +5,6 @@ cask 'dafont-ruban-extravaganza' do
     url 'http://dl.dafont.com/dl/?f=ruban_extravaganza'
     name 'Ruban Extravaganza'
     homepage 'http://www.dafont.com/ruban-extravaganza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ruban Extravaganza.ttf'
 end

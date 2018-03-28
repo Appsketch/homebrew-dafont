@@ -5,7 +5,6 @@ cask 'dafont-sketch-script-cool' do
     url 'http://dl.dafont.com/dl/?f=sketch_script_cool'
     name 'Sketch Script Cool'
     homepage 'http://www.dafont.com/sketch-script-cool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketch Script Cool.otf'
 end

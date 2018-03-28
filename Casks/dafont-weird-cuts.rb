@@ -5,7 +5,6 @@ cask 'dafont-weird-cuts' do
     url 'http://dl.dafont.com/dl/?f=weird_cuts'
     name 'Weird Cuts'
     homepage 'http://www.dafont.com/weird-cuts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caution - Very heavy to load/Weird Cuts.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-beijing' do
     url 'http://dl.dafont.com/dl/?f=beijing'
     name 'Beijing'
     homepage 'http://www.dafont.com/beijing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beijing.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dedecus' do
     url 'http://dl.dafont.com/dl/?f=dedecus'
     name 'Dedecus'
     homepage 'http://www.dafont.com/dedecus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dedecus-BoldItalic.ttf'
 end

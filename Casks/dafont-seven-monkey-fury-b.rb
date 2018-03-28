@@ -5,7 +5,6 @@ cask 'dafont-seven-monkey-fury-b' do
     url 'http://dl.dafont.com/dl/?f=seven_monkey_fury_b'
     name 'Seven Monkey Fury BB'
     homepage 'http://www.dafont.com/seven-monkey-fury-b.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEVEMFBR.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vectroid' do
     url 'http://dl.dafont.com/dl/?f=vectroid'
     name 'Vectroid'
     homepage 'http://www.dafont.com/vectroid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vectroia.ttf'
     font 'vectroic.ttf'

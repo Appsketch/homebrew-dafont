@@ -5,7 +5,6 @@ cask 'dafont-shadow-boxing' do
     url 'http://dl.dafont.com/dl/?f=shadow_boxing'
     name 'Shadow Boxing'
     homepage 'http://www.dafont.com/shadow-boxing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shadow Boxing.ttf'
 end

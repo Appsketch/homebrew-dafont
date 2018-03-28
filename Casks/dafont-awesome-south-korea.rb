@@ -5,7 +5,6 @@ cask 'dafont-awesome-south-korea' do
     url 'http://dl.dafont.com/dl/?f=awesome_south_korea'
     name 'Awesome South Korea'
     homepage 'http://www.dafont.com/awesome-south-korea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Awesome South Korea.ttf'
 end

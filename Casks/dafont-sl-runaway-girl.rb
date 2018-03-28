@@ -5,7 +5,6 @@ cask 'dafont-sl-runaway-girl' do
     url 'http://dl.dafont.com/dl/?f=sl_runaway_girl'
     name 'SL Runaway Girl'
     homepage 'http://www.dafont.com/sl-runaway-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SL_RG.ttf'
 end

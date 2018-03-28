@@ -5,7 +5,6 @@ cask 'dafont-genocide-rmx-2' do
     url 'http://dl.dafont.com/dl/?f=genocide_rmx_2'
     name 'Genocide Rmx 2'
     homepage 'http://www.dafont.com/genocide-rmx-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LVDCG___.TTF'
 end

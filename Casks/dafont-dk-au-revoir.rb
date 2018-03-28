@@ -5,7 +5,6 @@ cask 'dafont-dk-au-revoir' do
     url 'http://dl.dafont.com/dl/?f=dk_au_revoir'
     name 'DK Au Revoir'
     homepage 'http://www.dafont.com/dk-au-revoir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Au Revoir.otf'
 end

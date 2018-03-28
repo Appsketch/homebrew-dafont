@@ -5,7 +5,6 @@ cask 'dafont-nevermore' do
     url 'http://dl.dafont.com/dl/?f=nevermore'
     name 'Nevermore'
     homepage 'http://www.dafont.com/nevermore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nevermore.otf'
 end

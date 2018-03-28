@@ -5,7 +5,6 @@ cask 'dafont-wade' do
     url 'http://dl.dafont.com/dl/?f=wade'
     name 'Wade'
     homepage 'http://www.dafont.com/wade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wade.ttf'
 end

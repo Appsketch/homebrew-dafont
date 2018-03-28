@@ -5,7 +5,6 @@ cask 'dafont-tears-of-joy' do
     url 'http://dl.dafont.com/dl/?f=tears_of_joy'
     name 'Tears Of Joy'
     homepage 'http://www.dafont.com/tears-of-joy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TearsOfJoy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chipchap' do
     url 'http://dl.dafont.com/dl/?f=chipchap'
     name 'Chipchap'
     homepage 'http://www.dafont.com/chipchap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chipchap.ttf'
 end

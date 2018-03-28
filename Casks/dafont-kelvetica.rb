@@ -5,7 +5,6 @@ cask 'dafont-kelvetica' do
     url 'http://dl.dafont.com/dl/?f=kelvetica'
     name 'Kelvetica'
     homepage 'http://www.dafont.com/kelvetica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kelvetica.otf'
 end

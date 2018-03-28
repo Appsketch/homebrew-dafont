@@ -5,7 +5,6 @@ cask 'dafont-genetic-engine' do
     url 'http://dl.dafont.com/dl/?f=genetic_engine'
     name 'Genetic Engine'
     homepage 'http://www.dafont.com/genetic-engine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'genetic engine.TTF'
 end

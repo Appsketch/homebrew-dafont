@@ -5,7 +5,6 @@ cask 'dafont-happy-offsprings-of' do
     url 'http://dl.dafont.com/dl/?f=happy_offsprings_of'
     name 'Happy Offsprings of Plankton'
     homepage 'http://www.dafont.com/happy-offsprings-of.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'happyoffsprings.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-baseball-icons' do
     url 'http://dl.dafont.com/dl/?f=baseball_icons'
     name 'Baseball Icons'
     homepage 'http://www.dafont.com/baseball-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baseball Icons.ttf'
 end

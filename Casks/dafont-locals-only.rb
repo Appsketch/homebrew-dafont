@@ -5,7 +5,6 @@ cask 'dafont-locals-only' do
     url 'http://dl.dafont.com/dl/?f=locals_only'
     name 'Locals Only'
     homepage 'http://www.dafont.com/locals-only.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Locals Only Balls.ttf'
     font 'Locals Only Distressed.ttf'

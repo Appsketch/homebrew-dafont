@@ -5,7 +5,6 @@ cask 'dafont-hawaii-killer' do
     url 'http://dl.dafont.com/dl/?f=hawaii_killer'
     name 'Hawaii Killer'
     homepage 'http://www.dafont.com/hawaii-killer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hawaii Killer (v1.2).ttf'
 end

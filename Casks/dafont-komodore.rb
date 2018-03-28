@@ -5,7 +5,6 @@ cask 'dafont-komodore' do
     url 'http://dl.dafont.com/dl/?f=komodore'
     name 'Komodore'
     homepage 'http://www.dafont.com/komodore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMOD___.TTF'
     font 'KOMON___.TTF'

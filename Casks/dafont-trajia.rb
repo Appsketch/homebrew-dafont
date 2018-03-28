@@ -5,7 +5,6 @@ cask 'dafont-trajia' do
     url 'http://dl.dafont.com/dl/?f=trajia'
     name 'Trajia'
     homepage 'http://www.dafont.com/trajia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trajia.ttf'
     font 'trajiac.ttf'

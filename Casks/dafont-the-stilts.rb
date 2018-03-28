@@ -5,7 +5,6 @@ cask 'dafont-the-stilts' do
     url 'http://dl.dafont.com/dl/?f=the_stilts'
     name 'The Stilts'
     homepage 'http://www.dafont.com/the-stilts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THESTILTS_erc_2006.ttf'
 end

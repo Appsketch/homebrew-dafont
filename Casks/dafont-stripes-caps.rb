@@ -5,7 +5,6 @@ cask 'dafont-stripes-caps' do
     url 'http://dl.dafont.com/dl/?f=stripes_caps'
     name 'Stripes Caps'
     homepage 'http://www.dafont.com/stripes-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StripesCaps.ttf'
 end

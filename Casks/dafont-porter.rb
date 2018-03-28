@@ -5,7 +5,6 @@ cask 'dafont-porter' do
     url 'http://dl.dafont.com/dl/?f=porter'
     name 'Porter'
     homepage 'http://www.dafont.com/porter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Porter Bold.ttf'
 end

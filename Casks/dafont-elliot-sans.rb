@@ -5,7 +5,6 @@ cask 'dafont-elliot-sans' do
     url 'http://dl.dafont.com/dl/?f=elliot_sans'
     name 'Elliot Sans'
     homepage 'http://www.dafont.com/elliot-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ElliotSans-Bold.ttf'
     font 'ElliotSans-BoldItalic.ttf'

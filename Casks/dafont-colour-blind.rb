@@ -5,7 +5,6 @@ cask 'dafont-colour-blind' do
     url 'http://dl.dafont.com/dl/?f=colour_blind'
     name 'Colour Blind'
     homepage 'http://www.dafont.com/colour-blind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clrblnd.ttf'
 end

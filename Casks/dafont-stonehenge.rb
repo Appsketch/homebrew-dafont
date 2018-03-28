@@ -5,7 +5,6 @@ cask 'dafont-stonehenge' do
     url 'http://dl.dafont.com/dl/?f=stonehenge'
     name 'Stonehenge'
     homepage 'http://www.dafont.com/stonehenge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stonehen.ttf'
 end

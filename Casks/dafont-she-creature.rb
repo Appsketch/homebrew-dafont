@@ -5,7 +5,6 @@ cask 'dafont-she-creature' do
     url 'http://dl.dafont.com/dl/?f=she_creature'
     name 'She Creature'
     homepage 'http://www.dafont.com/she-creature.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'She-Creature.ttf'
 end

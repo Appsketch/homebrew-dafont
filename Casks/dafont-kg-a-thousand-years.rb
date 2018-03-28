@@ -5,7 +5,6 @@ cask 'dafont-kg-a-thousand-years' do
     url 'http://dl.dafont.com/dl/?f=kg_a_thousand_years'
     name 'KG A Thousand Years'
     homepage 'http://www.dafont.com/kg-a-thousand-years.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGAThousandYears.ttf'
 end

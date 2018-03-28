@@ -5,7 +5,6 @@ cask 'dafont-mgs4brush' do
     url 'http://dl.dafont.com/dl/?f=mgs4brush'
     name 'MGS 4 Brush'
     homepage 'http://www.dafont.com/mgs4brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MGS4 Brush.ttf'
 end

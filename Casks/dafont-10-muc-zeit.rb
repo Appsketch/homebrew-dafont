@@ -5,7 +5,6 @@ cask 'dafont-10-muc-zeit' do
     url 'http://dl.dafont.com/dl/?f=10_muc_zeit'
     name '10 Muc Zeit'
     homepage 'http://www.dafont.com/10-muc-zeit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Muc-Zeit-Medium.ttf'
 end

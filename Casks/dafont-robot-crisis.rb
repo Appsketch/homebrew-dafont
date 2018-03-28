@@ -5,7 +5,6 @@ cask 'dafont-robot-crisis' do
     url 'http://dl.dafont.com/dl/?f=robot_crisis'
     name 'Robot Crisis'
     homepage 'http://www.dafont.com/robot-crisis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'robotcrisis.TTF'
 end

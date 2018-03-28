@@ -5,7 +5,6 @@ cask 'dafont-crissco-fp' do
     url 'http://dl.dafont.com/dl/?f=crissco_fp'
     name 'Crissco FP'
     homepage 'http://www.dafont.com/crissco-fp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crissco FP.ttf'
 end

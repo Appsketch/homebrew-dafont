@@ -5,7 +5,6 @@ cask 'dafont-kbquietstories' do
     url 'http://dl.dafont.com/dl/?f=kbquietstories'
     name 'KB Quiet Stories'
     homepage 'http://www.dafont.com/kbquietstories.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBQuietStories.ttf'
 end

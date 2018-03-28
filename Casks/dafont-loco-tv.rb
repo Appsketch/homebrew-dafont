@@ -5,7 +5,6 @@ cask 'dafont-loco-tv' do
     url 'http://dl.dafont.com/dl/?f=loco_tv'
     name 'Loco TV'
     homepage 'http://www.dafont.com/loco-tv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'loco_tv.ttf'
 end

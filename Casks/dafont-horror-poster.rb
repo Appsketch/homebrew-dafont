@@ -5,7 +5,6 @@ cask 'dafont-horror-poster' do
     url 'http://dl.dafont.com/dl/?f=horror_poster'
     name 'Horror Poster'
     homepage 'http://www.dafont.com/horror-poster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Horror Poster.ttf'
 end

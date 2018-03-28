@@ -5,7 +5,6 @@ cask 'dafont-iqq' do
     url 'http://dl.dafont.com/dl/?f=iqq'
     name 'Iqq'
     homepage 'http://www.dafont.com/iqq.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iqq-regular.ttf'
 end

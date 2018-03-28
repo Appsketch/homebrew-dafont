@@ -5,7 +5,6 @@ cask 'dafont-26alco' do
     url 'http://dl.dafont.com/dl/?f=26alco'
     name '26 Alco'
     homepage 'http://www.dafont.com/26alco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '26_Alco_dingbats.ttf'
 end

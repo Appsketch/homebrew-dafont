@@ -5,7 +5,6 @@ cask 'dafont-des-pot' do
     url 'http://dl.dafont.com/dl/?f=des_pot'
     name 'Des Pot'
     homepage 'http://www.dafont.com/des-pot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Des Pot.otf'
 end

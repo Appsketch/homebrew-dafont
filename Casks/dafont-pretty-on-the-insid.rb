@@ -5,7 +5,6 @@ cask 'dafont-pretty-on-the-insid' do
     url 'http://dl.dafont.com/dl/?f=pretty_on_the_insid'
     name 'Pretty On The Inside'
     homepage 'http://www.dafont.com/pretty-on-the-insid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'poti.ttf'
 end

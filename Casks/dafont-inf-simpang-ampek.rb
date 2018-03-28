@@ -5,7 +5,6 @@ cask 'dafont-inf-simpang-ampek' do
     url 'http://dl.dafont.com/dl/?f=inf_simpang_ampek'
     name 'INF Simpang Ampek'
     homepage 'http://www.dafont.com/inf-simpang-ampek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INF Simpang Ampek.otf'
 end

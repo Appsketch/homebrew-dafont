@@ -5,7 +5,6 @@ cask 'dafont-grand-national' do
     url 'http://dl.dafont.com/dl/?f=grand_national'
     name 'Grand National'
     homepage 'http://www.dafont.com/grand-national.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grandnational.ttf'
     font 'grandnational3d.ttf'

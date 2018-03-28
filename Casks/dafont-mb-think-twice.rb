@@ -5,7 +5,6 @@ cask 'dafont-mb-think-twice' do
     url 'http://dl.dafont.com/dl/?f=mb_think_twice'
     name 'MB Think Twice'
     homepage 'http://www.dafont.com/mb-think-twice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-ThinkTwice_Regular.ttf'
 end

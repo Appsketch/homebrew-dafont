@@ -5,7 +5,6 @@ cask 'dafont-slammer-tag' do
     url 'http://dl.dafont.com/dl/?f=slammer_tag'
     name 'Slammer Tag'
     homepage 'http://www.dafont.com/slammer-tag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'slammertag.ttf'
 end

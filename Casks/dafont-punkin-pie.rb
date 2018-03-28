@@ -5,7 +5,6 @@ cask 'dafont-punkin-pie' do
     url 'http://dl.dafont.com/dl/?f=punkin_pie'
     name 'Punkin Pie'
     homepage 'http://www.dafont.com/punkin-pie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Punkin Pie.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dispute' do
     url 'http://dl.dafont.com/dl/?f=dispute'
     name 'Dispute'
     homepage 'http://www.dafont.com/dispute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dispute.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dolor-de-muelas' do
     url 'http://dl.dafont.com/dl/?f=dolor_de_muelas'
     name 'Dolor de Muelas'
     homepage 'http://www.dafont.com/dolor-de-muelas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dolor de Muelas.ttf'
 end

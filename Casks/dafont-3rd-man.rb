@@ -5,7 +5,6 @@ cask 'dafont-3rd-man' do
     url 'http://dl.dafont.com/dl/?f=3rd_man'
     name '3rd Man'
     homepage 'http://www.dafont.com/3rd-man.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '3rd Man.otf'
 end

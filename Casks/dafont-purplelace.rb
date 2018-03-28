@@ -5,7 +5,6 @@ cask 'dafont-purplelace' do
     url 'http://dl.dafont.com/dl/?f=purplelace'
     name 'Purplelace'
     homepage 'http://www.dafont.com/purplelace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Purplelace.ttf'
 end

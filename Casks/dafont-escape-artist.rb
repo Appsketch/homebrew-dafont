@@ -5,7 +5,6 @@ cask 'dafont-escape-artist' do
     url 'http://dl.dafont.com/dl/?f=escape_artist'
     name 'Escape Artist'
     homepage 'http://www.dafont.com/escape-artist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'escapeartist.ttf'
     font 'escapeartist3d.ttf'

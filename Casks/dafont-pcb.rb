@@ -5,7 +5,6 @@ cask 'dafont-pcb' do
     url 'http://dl.dafont.com/dl/?f=pcb'
     name 'PCB'
     homepage 'http://www.dafont.com/pcb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PCB.ttf'
 end

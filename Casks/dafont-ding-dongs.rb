@@ -5,7 +5,6 @@ cask 'dafont-ding-dongs' do
     url 'http://dl.dafont.com/dl/?f=ding_dongs'
     name 'Ding Dongs signs o&#039;the times'
     homepage 'http://www.dafont.com/ding-dongs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DDSIGNS.TTF'
 end

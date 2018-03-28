@@ -5,7 +5,6 @@ cask 'dafont-annie-use-your-telescope' do
     url 'http://dl.dafont.com/dl/?f=annie_use_your_telescope'
     name 'Annie Use Your Telescope'
     homepage 'http://www.dafont.com/annie-use-your-telescope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnnieUseYourTelescope.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-commodore-64' do
     url 'http://dl.dafont.com/dl/?f=commodore_64'
     name 'Commodore 64'
     homepage 'http://www.dafont.com/commodore-64.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Commodore Angled v1.2.ttf'
     font 'Commodore Rounded v1.2.ttf'

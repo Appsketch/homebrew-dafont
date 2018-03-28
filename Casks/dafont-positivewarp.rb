@@ -5,7 +5,6 @@ cask 'dafont-positivewarp' do
     url 'http://dl.dafont.com/dl/?f=positivewarp'
     name 'Positive Warp'
     homepage 'http://www.dafont.com/positivewarp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PositiveWarp.ttf'
 end

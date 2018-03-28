@@ -5,7 +5,6 @@ cask 'dafont-tastebomb' do
     url 'http://dl.dafont.com/dl/?f=tastebomb'
     name 'Taste Bomb'
     homepage 'http://www.dafont.com/tastebomb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TasteBomb.ttf'
 end

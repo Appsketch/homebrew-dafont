@@ -5,7 +5,6 @@ cask 'dafont-aldo-the-apache' do
     url 'http://dl.dafont.com/dl/?f=aldo_the_apache'
     name 'Aldo the Apache'
     homepage 'http://www.dafont.com/aldo-the-apache.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AldotheApache.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lovescratch' do
     url 'http://dl.dafont.com/dl/?f=lovescratch'
     name 'Love Scratch'
     homepage 'http://www.dafont.com/lovescratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LoveScratch.ttf'
 end

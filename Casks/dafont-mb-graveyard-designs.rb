@@ -5,7 +5,6 @@ cask 'dafont-mb-graveyard-designs' do
     url 'http://dl.dafont.com/dl/?f=mb_graveyard_designs'
     name 'MB Graveyard Designs'
     homepage 'http://www.dafont.com/mb-graveyard-designs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-Graveyard_Designs.ttf'
 end

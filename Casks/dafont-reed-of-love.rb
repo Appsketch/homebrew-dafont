@@ -5,7 +5,6 @@ cask 'dafont-reed-of-love' do
     url 'http://dl.dafont.com/dl/?f=reed_of_love'
     name 'Reed of Love'
     homepage 'http://www.dafont.com/reed-of-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reed of Love.ttf'
 end

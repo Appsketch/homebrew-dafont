@@ -5,7 +5,6 @@ cask 'dafont-syzygy-hand' do
     url 'http://dl.dafont.com/dl/?f=syzygy_hand'
     name 'Syzygy Hand'
     homepage 'http://www.dafont.com/syzygy-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Syzygy_Hand.otf'
 end

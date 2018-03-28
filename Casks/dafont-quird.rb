@@ -5,7 +5,6 @@ cask 'dafont-quird' do
     url 'http://dl.dafont.com/dl/?f=quird'
     name 'Quird'
     homepage 'http://www.dafont.com/quird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quird Italic.ttf'
 end

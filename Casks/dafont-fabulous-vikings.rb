@@ -5,7 +5,6 @@ cask 'dafont-fabulous-vikings' do
     url 'http://dl.dafont.com/dl/?f=fabulous_vikings'
     name 'Fabulous Vikings'
     homepage 'http://www.dafont.com/fabulous-vikings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fabulous Vikings.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bm-germar' do
     url 'http://dl.dafont.com/dl/?f=bm_germar'
     name 'BM Germar'
     homepage 'http://www.dafont.com/bm-germar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BM_germar/BMgermar.TTF'
 end

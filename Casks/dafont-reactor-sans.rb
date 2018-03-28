@@ -5,7 +5,6 @@ cask 'dafont-reactor-sans' do
     url 'http://dl.dafont.com/dl/?f=reactor_sans'
     name 'Reactor Sans'
     homepage 'http://www.dafont.com/reactor-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reactor-Sans.ttf'
 end

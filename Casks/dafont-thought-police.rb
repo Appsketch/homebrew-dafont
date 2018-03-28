@@ -5,7 +5,6 @@ cask 'dafont-thought-police' do
     url 'http://dl.dafont.com/dl/?f=thought_police'
     name 'Thought Police'
     homepage 'http://www.dafont.com/thought-police.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThPolreg.ttf'
     font 'ThPoluna.ttf'

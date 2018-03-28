@@ -5,7 +5,6 @@ cask 'dafont-franz-kafka' do
     url 'http://dl.dafont.com/dl/?f=franz_kafka'
     name 'Franz Kafka'
     homepage 'http://www.dafont.com/franz-kafka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kafka.ttf'
 end

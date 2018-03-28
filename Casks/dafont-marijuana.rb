@@ -5,7 +5,6 @@ cask 'dafont-marijuana' do
     url 'http://dl.dafont.com/dl/?f=marijuana'
     name 'Marijuana'
     homepage 'http://www.dafont.com/marijuana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marijuana.ttf'
 end

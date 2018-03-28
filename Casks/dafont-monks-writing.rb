@@ -5,7 +5,6 @@ cask 'dafont-monks-writing' do
     url 'http://dl.dafont.com/dl/?f=monks_writing'
     name 'Monks Writing'
     homepage 'http://www.dafont.com/monks-writing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MonksWriting.ttf'
 end

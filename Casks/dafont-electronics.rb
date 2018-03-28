@@ -5,7 +5,6 @@ cask 'dafont-electronics' do
     url 'http://dl.dafont.com/dl/?f=electronics'
     name 'Electronics'
     homepage 'http://www.dafont.com/electronics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ELLO____.TTF'
 end

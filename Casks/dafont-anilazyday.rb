@@ -5,7 +5,6 @@ cask 'dafont-anilazyday' do
     url 'http://dl.dafont.com/dl/?f=anilazyday'
     name 'Ani Lazy Day'
     homepage 'http://www.dafont.com/anilazyday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AniLazyDay.ttf'
 end

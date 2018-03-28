@@ -5,7 +5,6 @@ cask 'dafont-gabriels-angels' do
     url 'http://dl.dafont.com/dl/?f=gabriels_angels'
     name 'Gabriel&#039;s Angels'
     homepage 'http://www.dafont.com/gabriels-angels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GABRA___.TTF'
 end

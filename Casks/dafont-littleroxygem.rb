@@ -5,7 +5,6 @@ cask 'dafont-littleroxygem' do
     url 'http://dl.dafont.com/dl/?f=littleroxygem'
     name 'Little Roxy Gem'
     homepage 'http://www.dafont.com/littleroxygem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LittleRoxyGem.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-atchy' do
     url 'http://dl.dafont.com/dl/?f=atchy'
     name 'Atchy'
     homepage 'http://www.dafont.com/atchy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Atchy.ttf'
 end

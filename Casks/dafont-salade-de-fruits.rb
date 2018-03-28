@@ -5,7 +5,6 @@ cask 'dafont-salade-de-fruits' do
     url 'http://dl.dafont.com/dl/?f=salade_de_fruits'
     name 'Salade De Fruits'
     homepage 'http://www.dafont.com/salade-de-fruits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SaladeDeFruitsCerise.ttf'
     font 'SaladeDeFruitsOrange.ttf'

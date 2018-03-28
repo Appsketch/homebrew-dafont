@@ -5,7 +5,6 @@ cask 'dafont-zoomrunner' do
     url 'http://dl.dafont.com/dl/?f=zoomrunner'
     name 'Zoomrunner'
     homepage 'http://www.dafont.com/zoomrunner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zoomrunner.ttf'
     font 'zoomrunner3d.ttf'

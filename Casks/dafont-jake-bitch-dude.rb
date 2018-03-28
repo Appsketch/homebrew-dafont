@@ -5,7 +5,6 @@ cask 'dafont-jake-bitch-dude' do
     url 'http://dl.dafont.com/dl/?f=jake_bitch_dude'
     name 'Jake Bitch Dude'
     homepage 'http://www.dafont.com/jake-bitch-dude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JakeBitchDude.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-openlounge' do
     url 'http://dl.dafont.com/dl/?f=openlounge'
     name 'Open Lounge'
     homepage 'http://www.dafont.com/openlounge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OpenLounge.ttf'
 end

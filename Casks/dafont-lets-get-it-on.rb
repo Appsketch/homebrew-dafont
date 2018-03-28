@@ -5,7 +5,6 @@ cask 'dafont-lets-get-it-on' do
     url 'http://dl.dafont.com/dl/?f=lets_get_it_on'
     name 'Lets get it on'
     homepage 'http://www.dafont.com/lets-get-it-on.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lets get it on.ttf'
 end

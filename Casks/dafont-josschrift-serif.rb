@@ -5,7 +5,6 @@ cask 'dafont-josschrift-serif' do
     url 'http://dl.dafont.com/dl/?f=josschrift_serif'
     name 'Josschrift Serif'
     homepage 'http://www.dafont.com/josschrift-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Josschrift Serif.ttf'
 end

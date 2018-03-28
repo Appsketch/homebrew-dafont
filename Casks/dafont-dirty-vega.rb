@@ -5,7 +5,6 @@ cask 'dafont-dirty-vega' do
     url 'http://dl.dafont.com/dl/?f=dirty_vega'
     name 'Dirty Vega'
     homepage 'http://www.dafont.com/dirty-vega.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIRTY VEGA.ttf'
 end

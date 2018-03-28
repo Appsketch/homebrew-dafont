@@ -5,7 +5,6 @@ cask 'dafont-love-ya-like-a-sister' do
     url 'http://dl.dafont.com/dl/?f=love_ya_like_a_sister'
     name 'Love Ya Like A Sister'
     homepage 'http://www.dafont.com/love-ya-like-a-sister.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LoveYaLikeASister.ttf'
     font 'LoveYaLikeASisterSolid.ttf'

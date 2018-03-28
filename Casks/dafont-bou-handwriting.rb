@@ -5,7 +5,6 @@ cask 'dafont-bou-handwriting' do
     url 'http://dl.dafont.com/dl/?f=bou_handwriting'
     name 'Bou Handwriting'
     homepage 'http://www.dafont.com/bou-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOUHAND.ttf'
     font 'BOUHNTI.ttf'

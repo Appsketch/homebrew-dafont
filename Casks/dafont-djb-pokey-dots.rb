@@ -5,7 +5,6 @@ cask 'dafont-djb-pokey-dots' do
     url 'http://dl.dafont.com/dl/?f=djb_pokey_dots'
     name 'DJB Pokey Dots'
     homepage 'http://www.dafont.com/djb-pokey-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Pokey Dots.ttf'
 end

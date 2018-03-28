@@ -5,7 +5,6 @@ cask 'dafont-love-romance' do
     url 'http://dl.dafont.com/dl/?f=love_romance'
     name 'Love Romance'
     homepage 'http://www.dafont.com/love-romance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'love_romance_tt.ttf'
 end

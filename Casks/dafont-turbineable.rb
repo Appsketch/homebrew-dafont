@@ -5,7 +5,6 @@ cask 'dafont-turbineable' do
     url 'http://dl.dafont.com/dl/?f=turbineable'
     name 'Turbineable'
     homepage 'http://www.dafont.com/turbineable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Turbineable.ttf'
 end

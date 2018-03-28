@@ -5,7 +5,6 @@ cask 'dafont-mr-poppey' do
     url 'http://dl.dafont.com/dl/?f=mr_poppey'
     name 'Mr.Poppey'
     homepage 'http://www.dafont.com/mr-poppey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mr.Poppey Blod.ttf'
     font 'Mr.Poppey.ttf'

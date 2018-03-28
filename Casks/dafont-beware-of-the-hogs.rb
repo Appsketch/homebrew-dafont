@@ -5,7 +5,6 @@ cask 'dafont-beware-of-the-hogs' do
     url 'http://dl.dafont.com/dl/?f=beware_of_the_hogs'
     name 'Beware of the Hogs'
     homepage 'http://www.dafont.com/beware-of-the-hogs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beware of the Hogs.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gurrrrl' do
     url 'http://dl.dafont.com/dl/?f=gurrrrl'
     name 'Gurrrrl'
     homepage 'http://www.dafont.com/gurrrrl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gurrrrl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-sheepman' do
     url 'http://dl.dafont.com/dl/?f=dk_sheepman'
     name 'DK Sheepman'
     homepage 'http://www.dafont.com/dk-sheepman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Sheepman.ttf'
 end

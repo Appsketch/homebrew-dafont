@@ -5,7 +5,6 @@ cask 'dafont-petlove' do
     url 'http://dl.dafont.com/dl/?f=petlove'
     name 'Pet Love'
     homepage 'http://www.dafont.com/petlove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PetLove.ttf'
 end

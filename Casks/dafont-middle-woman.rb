@@ -5,7 +5,6 @@ cask 'dafont-middle-woman' do
     url 'http://dl.dafont.com/dl/?f=middle_woman'
     name 'Middle Woman'
     homepage 'http://www.dafont.com/middle-woman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiddleWoman-Regular.otf'
 end

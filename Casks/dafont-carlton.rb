@@ -5,7 +5,6 @@ cask 'dafont-carlton' do
     url 'http://dl.dafont.com/dl/?f=carlton'
     name 'Carlton'
     homepage 'http://www.dafont.com/carlton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carlton Bold Italic.otf'
     font 'Carlton Bold.otf'

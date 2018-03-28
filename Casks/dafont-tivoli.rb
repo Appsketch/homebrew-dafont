@@ -5,7 +5,6 @@ cask 'dafont-tivoli' do
     url 'http://dl.dafont.com/dl/?f=tivoli'
     name 'Tivoli'
     homepage 'http://www.dafont.com/tivoli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TIVOLI__.TTF'
 end

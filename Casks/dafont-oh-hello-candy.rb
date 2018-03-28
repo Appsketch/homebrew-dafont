@@ -5,7 +5,6 @@ cask 'dafont-oh-hello-candy' do
     url 'http://dl.dafont.com/dl/?f=oh_hello_candy'
     name 'Oh Hello Candy'
     homepage 'http://www.dafont.com/oh-hello-candy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oh_Hello_Candy.ttf'
 end

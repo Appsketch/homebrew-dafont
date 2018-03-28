@@ -5,7 +5,6 @@ cask 'dafont-fleshdigster' do
     url 'http://dl.dafont.com/dl/?f=fleshdigster'
     name 'Flesh Digster'
     homepage 'http://www.dafont.com/fleshdigster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FleshDigster.ttf'
 end

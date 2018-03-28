@@ -5,7 +5,6 @@ cask 'dafont-littlemuffins' do
     url 'http://dl.dafont.com/dl/?f=littlemuffins'
     name 'Little Muffins'
     homepage 'http://www.dafont.com/littlemuffins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LittleMuffins.ttf'
 end

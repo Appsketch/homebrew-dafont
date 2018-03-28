@@ -5,7 +5,6 @@ cask 'dafont-morbid-fixation' do
     url 'http://dl.dafont.com/dl/?f=morbid_fixation'
     name 'Morbid Fixation'
     homepage 'http://www.dafont.com/morbid-fixation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'morbidfx.ttf'
 end

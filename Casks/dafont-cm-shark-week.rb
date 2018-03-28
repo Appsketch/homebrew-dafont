@@ -5,7 +5,6 @@ cask 'dafont-cm-shark-week' do
     url 'http://dl.dafont.com/dl/?f=cm_shark_week'
     name 'CM Shark Week'
     homepage 'http://www.dafont.com/cm-shark-week.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM Shark Week.ttf'
 end

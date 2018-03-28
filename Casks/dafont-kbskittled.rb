@@ -5,7 +5,6 @@ cask 'dafont-kbskittled' do
     url 'http://dl.dafont.com/dl/?f=kbskittled'
     name 'KB Skittled'
     homepage 'http://www.dafont.com/kbskittled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBSkittled.ttf'
     font 'KBSkittledUp.ttf'

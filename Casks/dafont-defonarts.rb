@@ -5,7 +5,6 @@ cask 'dafont-defonarts' do
     url 'http://dl.dafont.com/dl/?f=defonarts'
     name 'Defonarts'
     homepage 'http://www.dafont.com/defonarts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeFonarts Bold.otf'
     font 'DeFonarts Italic.otf'

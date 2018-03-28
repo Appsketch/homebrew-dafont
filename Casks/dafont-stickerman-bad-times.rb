@@ -5,7 +5,6 @@ cask 'dafont-stickerman-bad-times' do
     url 'http://dl.dafont.com/dl/?f=stickerman_bad_times'
     name 'Stickerman bad times'
     homepage 'http://www.dafont.com/stickerman-bad-times.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stickerman bad times.ttf'
 end

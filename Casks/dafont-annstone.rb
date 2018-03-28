@@ -5,7 +5,6 @@ cask 'dafont-annstone' do
     url 'http://dl.dafont.com/dl/?f=annstone'
     name 'AnnStone'
     homepage 'http://www.dafont.com/annstone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnnStone.ttf'
 end

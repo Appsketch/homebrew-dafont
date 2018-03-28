@@ -5,7 +5,6 @@ cask 'dafont-print-bv' do
     url 'http://dl.dafont.com/dl/?f=print_bv'
     name 'Print Clearly'
     homepage 'http://www.dafont.com/print-bv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PRINC___.TTF'
     font 'PRIND___.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-ersatz-quality' do
     url 'http://dl.dafont.com/dl/?f=ersatz_quality'
     name 'Ersatz Quality'
     homepage 'http://www.dafont.com/ersatz-quality.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ErsatzQuality.ttf'
 end

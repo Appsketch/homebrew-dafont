@@ -5,7 +5,6 @@ cask 'dafont-yo-mama' do
     url 'http://dl.dafont.com/dl/?f=yo_mama'
     name 'Yo Mama'
     homepage 'http://www.dafont.com/yo-mama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yo-mama.ttf'
 end

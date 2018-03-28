@@ -5,7 +5,6 @@ cask 'dafont-locked-window' do
     url 'http://dl.dafont.com/dl/?f=locked_window'
     name 'Locked Window'
     homepage 'http://www.dafont.com/locked-window.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LockedWindow.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-xlmonoalt' do
     url 'http://dl.dafont.com/dl/?f=xlmonoalt'
     name 'XLMonoAlt'
     homepage 'http://www.dafont.com/xlmonoalt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xlmonoalt.ttf'
 end

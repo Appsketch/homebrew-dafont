@@ -5,7 +5,6 @@ cask 'dafont-raise-your-flag' do
     url 'http://dl.dafont.com/dl/?f=raise_your_flag'
     name 'Raise Your Flag'
     homepage 'http://www.dafont.com/raise-your-flag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ryflag1_1.ttf'
 end

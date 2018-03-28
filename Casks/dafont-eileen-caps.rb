@@ -5,7 +5,6 @@ cask 'dafont-eileen-caps' do
     url 'http://dl.dafont.com/dl/?f=eileen_caps'
     name 'Eileen Caps'
     homepage 'http://www.dafont.com/eileen-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eicap___.TTF'
     font 'EICBL___.TTF'

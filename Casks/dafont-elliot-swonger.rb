@@ -5,7 +5,6 @@ cask 'dafont-elliot-swonger' do
     url 'http://dl.dafont.com/dl/?f=elliot_swonger'
     name 'Elliot Swonger'
     homepage 'http://www.dafont.com/elliot-swonger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ELLIS___.TTF'
 end

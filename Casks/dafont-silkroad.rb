@@ -5,7 +5,6 @@ cask 'dafont-silkroad' do
     url 'http://dl.dafont.com/dl/?f=silkroad'
     name 'SilkRoad'
     homepage 'http://www.dafont.com/silkroad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SilkRoad.ttf'
 end

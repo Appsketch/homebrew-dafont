@@ -5,7 +5,6 @@ cask 'dafont-janda-celebration-script' do
     url 'http://dl.dafont.com/dl/?f=janda_celebration_script'
     name 'Janda Celebration Script'
     homepage 'http://www.dafont.com/janda-celebration-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaCelebrationScript.ttf'
 end

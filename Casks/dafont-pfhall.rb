@@ -5,7 +5,6 @@ cask 'dafont-pfhall' do
     url 'http://dl.dafont.com/dl/?f=pfhall'
     name 'PFHall'
     homepage 'http://www.dafont.com/pfhall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PFHALL.ttf'
 end

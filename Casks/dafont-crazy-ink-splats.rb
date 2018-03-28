@@ -5,7 +5,6 @@ cask 'dafont-crazy-ink-splats' do
     url 'http://dl.dafont.com/dl/?f=crazy_ink_splats'
     name 'Crazy Ink Splats'
     homepage 'http://www.dafont.com/crazy-ink-splats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crazy Ink Splats Italic.otf'
     font 'Crazy Ink Splats.otf'

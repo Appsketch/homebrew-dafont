@@ -5,7 +5,6 @@ cask 'dafont-deutscher-schmuck' do
     url 'http://dl.dafont.com/dl/?f=deutscher_schmuck'
     name 'Deutscher Schmuck'
     homepage 'http://www.dafont.com/deutscher-schmuck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeutscherSchmuck.ttf'
 end

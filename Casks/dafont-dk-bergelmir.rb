@@ -5,7 +5,6 @@ cask 'dafont-dk-bergelmir' do
     url 'http://dl.dafont.com/dl/?f=dk_bergelmir'
     name 'DK Bergelmir'
     homepage 'http://www.dafont.com/dk-bergelmir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Bergelmir.ttf'
 end

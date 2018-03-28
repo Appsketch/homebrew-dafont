@@ -5,7 +5,6 @@ cask 'dafont-achille-nzoda' do
     url 'http://dl.dafont.com/dl/?f=achille_nzoda'
     name 'Achille Nzoda'
     homepage 'http://www.dafont.com/achille-nzoda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nzoda.ttf'
 end

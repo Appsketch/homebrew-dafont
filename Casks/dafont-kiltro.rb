@@ -5,7 +5,6 @@ cask 'dafont-kiltro' do
     url 'http://dl.dafont.com/dl/?f=kiltro'
     name 'Kiltro'
     homepage 'http://www.dafont.com/kiltro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KILTRO_1.ttf'
 end

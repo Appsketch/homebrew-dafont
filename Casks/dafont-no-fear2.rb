@@ -5,7 +5,6 @@ cask 'dafont-no-fear2' do
     url 'http://dl.dafont.com/dl/?f=no_fear2'
     name 'No Fear'
     homepage 'http://www.dafont.com/no-fear2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'No Fear.ttf'
 end

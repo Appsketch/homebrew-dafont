@@ -5,7 +5,6 @@ cask 'dafont-mura-knockout' do
     url 'http://dl.dafont.com/dl/?f=mura_knockout'
     name 'Mura Knockout'
     homepage 'http://www.dafont.com/mura-knockout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MURA-KNOCKOUT_Regular.ttf'
 end

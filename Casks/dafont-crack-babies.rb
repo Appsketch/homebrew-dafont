@@ -5,7 +5,6 @@ cask 'dafont-crack-babies' do
     url 'http://dl.dafont.com/dl/?f=crack_babies'
     name 'Crack Babies'
     homepage 'http://www.dafont.com/crack-babies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEWCRACK.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-famous-folks' do
     url 'http://dl.dafont.com/dl/?f=famous_folks'
     name 'Famous Folks'
     homepage 'http://www.dafont.com/famous-folks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FAMOUSFR.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-halcion' do
     url 'http://dl.dafont.com/dl/?f=halcion'
     name 'Halcion'
     homepage 'http://www.dafont.com/halcion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HALCION_.ttf'
     font 'HALCIT__.ttf'

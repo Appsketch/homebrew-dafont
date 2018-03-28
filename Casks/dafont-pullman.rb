@@ -5,7 +5,6 @@ cask 'dafont-pullman' do
     url 'http://dl.dafont.com/dl/?f=pullman'
     name 'Pullman'
     homepage 'http://www.dafont.com/pullman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PULLD___.TTF'
 end

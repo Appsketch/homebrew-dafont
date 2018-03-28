@@ -5,7 +5,6 @@ cask 'dafont-5geomedings' do
     url 'http://dl.dafont.com/dl/?f=5geomedings'
     name '5 Geomedings'
     homepage 'http://www.dafont.com/5geomedings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5Geomedings.ttf'
 end

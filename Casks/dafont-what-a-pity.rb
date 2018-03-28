@@ -5,7 +5,6 @@ cask 'dafont-what-a-pity' do
     url 'http://dl.dafont.com/dl/?f=what_a_pity'
     name 'What a pity'
     homepage 'http://www.dafont.com/what-a-pity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'what_a_pity.ttf'
 end

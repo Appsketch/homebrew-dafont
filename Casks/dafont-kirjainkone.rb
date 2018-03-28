@@ -5,7 +5,6 @@ cask 'dafont-kirjainkone' do
     url 'http://dl.dafont.com/dl/?f=kirjainkone'
     name 'Kirjainkone'
     homepage 'http://www.dafont.com/kirjainkone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kirjainkone.ttf'
 end

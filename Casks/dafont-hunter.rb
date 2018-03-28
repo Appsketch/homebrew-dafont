@@ -5,7 +5,6 @@ cask 'dafont-hunter' do
     url 'http://dl.dafont.com/dl/?f=hunter'
     name 'Hunter'
     homepage 'http://www.dafont.com/hunter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HUNTER__.TTF'
 end

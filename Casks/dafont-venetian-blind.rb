@@ -5,7 +5,6 @@ cask 'dafont-venetian-blind' do
     url 'http://dl.dafont.com/dl/?f=venetian_blind'
     name 'Venetian Blind'
     homepage 'http://www.dafont.com/venetian-blind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VenetianBlind.ttf'
     font 'VenetianBlindInverse.ttf'

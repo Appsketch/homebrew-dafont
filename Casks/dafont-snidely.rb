@@ -5,7 +5,6 @@ cask 'dafont-snidely' do
     url 'http://dl.dafont.com/dl/?f=snidely'
     name 'Snidely'
     homepage 'http://www.dafont.com/snidely.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'snidely.ttf'
 end

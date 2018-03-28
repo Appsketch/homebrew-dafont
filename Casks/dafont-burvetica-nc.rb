@@ -5,7 +5,6 @@ cask 'dafont-burvetica-nc' do
     url 'http://dl.dafont.com/dl/?f=burvetica_nc'
     name 'Burvetica NC'
     homepage 'http://www.dafont.com/burvetica-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Burvetica NC.ttf'
     font 'Burvetica Thick NC.ttf'

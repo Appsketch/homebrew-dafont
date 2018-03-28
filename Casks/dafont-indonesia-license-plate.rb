@@ -5,7 +5,6 @@ cask 'dafont-indonesia-license-plate' do
     url 'http://dl.dafont.com/dl/?f=indonesia_license_plate'
     name 'Indonesia License Plate'
     homepage 'http://www.dafont.com/indonesia-license-plate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Indonesia License Plate.ttf'
 end

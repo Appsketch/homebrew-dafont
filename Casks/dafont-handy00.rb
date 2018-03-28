@@ -5,7 +5,6 @@ cask 'dafont-handy00' do
     url 'http://dl.dafont.com/dl/?f=handy00'
     name 'Handy'
     homepage 'http://www.dafont.com/handy00.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'handy00.ttf'
 end

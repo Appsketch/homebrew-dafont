@@ -5,7 +5,6 @@ cask 'dafont-aerosol-menace' do
     url 'http://dl.dafont.com/dl/?f=aerosol_menace'
     name 'Aerosol Menace'
     homepage 'http://www.dafont.com/aerosol-menace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AEROSOLM.TTF'
 end

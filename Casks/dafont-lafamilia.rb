@@ -5,7 +5,6 @@ cask 'dafont-lafamilia' do
     url 'http://dl.dafont.com/dl/?f=lafamilia'
     name 'La Familia'
     homepage 'http://www.dafont.com/lafamilia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaFamilia.ttf'
 end

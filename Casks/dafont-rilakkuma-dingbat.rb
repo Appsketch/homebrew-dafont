@@ -5,7 +5,6 @@ cask 'dafont-rilakkuma-dingbat' do
     url 'http://dl.dafont.com/dl/?f=rilakkuma_dingbat'
     name 'Rilakkuma'
     homepage 'http://www.dafont.com/rilakkuma-dingbat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rilakkumadingbat-Bold.ttf'
 end

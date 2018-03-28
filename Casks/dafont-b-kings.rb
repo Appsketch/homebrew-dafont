@@ -5,7 +5,6 @@ cask 'dafont-b-kings' do
     url 'http://dl.dafont.com/dl/?f=b_kings'
     name 'B Kings'
     homepage 'http://www.dafont.com/b-kings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BKings.ttf'
 end

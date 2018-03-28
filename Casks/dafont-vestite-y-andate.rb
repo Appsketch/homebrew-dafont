@@ -5,7 +5,6 @@ cask 'dafont-vestite-y-andate' do
     url 'http://dl.dafont.com/dl/?f=vestite_y_andate'
     name 'Vestite y Andate!'
     homepage 'http://www.dafont.com/vestite-y-andate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'levantate_y_andate.ttf'
 end

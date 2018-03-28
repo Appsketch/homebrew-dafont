@@ -5,7 +5,6 @@ cask 'dafont-ray-johnson' do
     url 'http://dl.dafont.com/dl/?f=ray_johnson'
     name 'Ray Johnson'
     homepage 'http://www.dafont.com/ray-johnson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RAYJOHNS.ttf'
 end

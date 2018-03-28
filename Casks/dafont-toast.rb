@@ -5,7 +5,6 @@ cask 'dafont-toast' do
     url 'http://dl.dafont.com/dl/?f=toast'
     name 'Toast'
     homepage 'http://www.dafont.com/toast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'toast.ttf'
 end

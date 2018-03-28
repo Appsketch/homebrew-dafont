@@ -5,7 +5,6 @@ cask 'dafont-election-day' do
     url 'http://dl.dafont.com/dl/?f=election_day'
     name 'Election Day'
     homepage 'http://www.dafont.com/election-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'elecday.ttf'
     font 'elecday3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-qebrada' do
     url 'http://dl.dafont.com/dl/?f=qebrada'
     name 'Qebrada'
     homepage 'http://www.dafont.com/qebrada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Qebrada.ttf'
 end

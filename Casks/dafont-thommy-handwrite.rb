@@ -5,7 +5,6 @@ cask 'dafont-thommy-handwrite' do
     url 'http://dl.dafont.com/dl/?f=thommy_handwrite'
     name 'Thommy Handwrite'
     homepage 'http://www.dafont.com/thommy-handwrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thommy_handwrite.ttf'
 end

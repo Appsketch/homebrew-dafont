@@ -5,7 +5,6 @@ cask 'dafont-all-purpose-signs' do
     url 'http://dl.dafont.com/dl/?f=all_purpose_signs'
     name 'All Purpose Signs JL'
     homepage 'http://www.dafont.com/all-purpose-signs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALLSIGNS.TTF'
 end

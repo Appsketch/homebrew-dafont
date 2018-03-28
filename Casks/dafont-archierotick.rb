@@ -5,7 +5,6 @@ cask 'dafont-archierotick' do
     url 'http://dl.dafont.com/dl/?f=archierotick'
     name 'Archierotick'
     homepage 'http://www.dafont.com/archierotick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'architom.ttf'
 end

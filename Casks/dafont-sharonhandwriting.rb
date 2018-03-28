@@ -5,7 +5,6 @@ cask 'dafont-sharonhandwriting' do
     url 'http://dl.dafont.com/dl/?f=sharonhandwriting'
     name 'Sharon Handwriting'
     homepage 'http://www.dafont.com/sharonhandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SharonHandwriting.ttf'
 end

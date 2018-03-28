@@ -5,7 +5,6 @@ cask 'dafont-bear-balling' do
     url 'http://dl.dafont.com/dl/?f=bear_balling'
     name 'Bear Balling / Ball Bearings'
     homepage 'http://www.dafont.com/bear-balling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ballbearings.ttf'
     font 'bear balling.ttf'

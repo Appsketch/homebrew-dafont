@@ -5,7 +5,6 @@ cask 'dafont-ayherre' do
     url 'http://dl.dafont.com/dl/?f=ayherre'
     name 'Ayherre'
     homepage 'http://www.dafont.com/ayherre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ayherre.ttf'
 end

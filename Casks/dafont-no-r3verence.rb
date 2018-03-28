@@ -5,7 +5,6 @@ cask 'dafont-no-r3verence' do
     url 'http://dl.dafont.com/dl/?f=no_r3verence'
     name 'No R3verence'
     homepage 'http://www.dafont.com/no-r3verence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NoRverence-Regular.ttf'
 end

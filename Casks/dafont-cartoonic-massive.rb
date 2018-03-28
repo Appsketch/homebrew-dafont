@@ -5,7 +5,6 @@ cask 'dafont-cartoonic-massive' do
     url 'http://dl.dafont.com/dl/?f=cartoonic_massive'
     name 'Cartoonic Massive'
     homepage 'http://www.dafont.com/cartoonic-massive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cartoonic Massive 3D.ttf'
     font 'Cartoonic Massive Collage.ttf'

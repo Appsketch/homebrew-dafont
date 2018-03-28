@@ -5,7 +5,6 @@ cask 'dafont-fontaniolo-beveled' do
     url 'http://dl.dafont.com/dl/?f=fontaniolo_beveled'
     name 'Fontaniolo Beveled'
     homepage 'http://www.dafont.com/fontaniolo-beveled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fontaniolo Beveled.ttf'
 end

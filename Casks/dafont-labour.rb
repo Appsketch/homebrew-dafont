@@ -5,7 +5,6 @@ cask 'dafont-labour' do
     url 'http://dl.dafont.com/dl/?f=labour'
     name 'Labour'
     homepage 'http://www.dafont.com/labour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Labour.ttf'
 end

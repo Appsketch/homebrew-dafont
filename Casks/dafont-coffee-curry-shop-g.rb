@@ -5,7 +5,6 @@ cask 'dafont-coffee-curry-shop-g' do
     url 'http://dl.dafont.com/dl/?f=coffee_curry_shop_g'
     name 'Coffee &amp; Curry Shop G'
     homepage 'http://www.dafont.com/coffee-curry-shop-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_coffee_and_curry_shop.ttf'
 end

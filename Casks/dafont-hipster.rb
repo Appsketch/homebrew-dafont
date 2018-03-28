@@ -5,7 +5,6 @@ cask 'dafont-hipster' do
     url 'http://dl.dafont.com/dl/?f=hipster'
     name 'Hipster'
     homepage 'http://www.dafont.com/hipster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hipster.ttf'
 end

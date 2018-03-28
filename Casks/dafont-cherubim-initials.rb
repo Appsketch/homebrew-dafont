@@ -5,7 +5,6 @@ cask 'dafont-cherubim-initials' do
     url 'http://dl.dafont.com/dl/?f=cherubim_initials'
     name 'Cherubim Initials'
     homepage 'http://www.dafont.com/cherubim-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cherubim.ttf'
 end

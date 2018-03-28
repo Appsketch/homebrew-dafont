@@ -5,7 +5,6 @@ cask 'dafont-beatnik-hayseed' do
     url 'http://dl.dafont.com/dl/?f=beatnik_hayseed'
     name 'Beatnik Hayseed'
     homepage 'http://www.dafont.com/beatnik-hayseed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeatnikHayseed.ttf'
 end

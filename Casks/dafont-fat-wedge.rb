@@ -5,7 +5,6 @@ cask 'dafont-fat-wedge' do
     url 'http://dl.dafont.com/dl/?f=fat_wedge'
     name 'Fat Wedge'
     homepage 'http://www.dafont.com/fat-wedge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swift Wedge.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-colwell' do
     url 'http://dl.dafont.com/dl/?f=colwell'
     name 'Colwell'
     homepage 'http://www.dafont.com/colwell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COLWELL_.ttf'
 end

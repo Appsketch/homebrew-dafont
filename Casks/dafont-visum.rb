@@ -5,7 +5,6 @@ cask 'dafont-visum' do
     url 'http://dl.dafont.com/dl/?f=visum'
     name 'Visum'
     homepage 'http://www.dafont.com/visum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Visum.otf'
 end

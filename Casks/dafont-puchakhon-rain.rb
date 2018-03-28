@@ -5,7 +5,6 @@ cask 'dafont-puchakhon-rain' do
     url 'http://dl.dafont.com/dl/?f=puchakhon_rain'
     name 'Puchakhon Rain'
     homepage 'http://www.dafont.com/puchakhon-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Puchakhon RAIN.ttf'
 end

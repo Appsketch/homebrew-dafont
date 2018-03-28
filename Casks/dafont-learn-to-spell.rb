@@ -5,7 +5,6 @@ cask 'dafont-learn-to-spell' do
     url 'http://dl.dafont.com/dl/?f=learn_to_spell'
     name 'Learn To Spell'
     homepage 'http://www.dafont.com/learn-to-spell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Learn To Spell.ttf'
 end

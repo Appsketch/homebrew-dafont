@@ -5,7 +5,6 @@ cask 'dafont-cubee' do
     url 'http://dl.dafont.com/dl/?f=cubee'
     name 'Cubee'
     homepage 'http://www.dafont.com/cubee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cubee-Regular.ttf'
 end

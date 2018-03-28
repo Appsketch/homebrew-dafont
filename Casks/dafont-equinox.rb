@@ -5,7 +5,6 @@ cask 'dafont-equinox' do
     url 'http://dl.dafont.com/dl/?f=equinox'
     name 'Equinox'
     homepage 'http://www.dafont.com/equinox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Equinox.otf'
 end

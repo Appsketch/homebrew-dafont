@@ -5,7 +5,6 @@ cask 'dafont-never-ending-maze' do
     url 'http://dl.dafont.com/dl/?f=never_ending_maze'
     name 'Never Ending Maze'
     homepage 'http://www.dafont.com/never-ending-maze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'never ending maze.ttf'
 end

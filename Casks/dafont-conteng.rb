@@ -5,7 +5,6 @@ cask 'dafont-conteng' do
     url 'http://dl.dafont.com/dl/?f=conteng'
     name 'ContenG'
     homepage 'http://www.dafont.com/conteng.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ContenG.ttf'
 end

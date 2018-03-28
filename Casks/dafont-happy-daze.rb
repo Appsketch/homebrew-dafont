@@ -5,7 +5,6 @@ cask 'dafont-happy-daze' do
     url 'http://dl.dafont.com/dl/?f=happy_daze'
     name 'Happy Daze'
     homepage 'http://www.dafont.com/happy-daze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HAPPY___.TTF'
 end

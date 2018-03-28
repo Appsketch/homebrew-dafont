@@ -5,7 +5,6 @@ cask 'dafont-nina-script-demo' do
     url 'http://dl.dafont.com/dl/?f=nina_script_demo'
     name 'Nina Script'
     homepage 'http://www.dafont.com/nina-script-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NinaScriptDemo.ttf'
 end

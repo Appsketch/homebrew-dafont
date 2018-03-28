@@ -5,7 +5,6 @@ cask 'dafont-bn3rd-place' do
     url 'http://dl.dafont.com/dl/?f=bn3rd_place'
     name 'BN 3rd Place'
     homepage 'http://www.dafont.com/bn3rd-place.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BN 3rd Place.ttf'
 end

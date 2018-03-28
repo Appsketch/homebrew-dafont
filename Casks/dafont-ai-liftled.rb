@@ -5,7 +5,6 @@ cask 'dafont-ai-liftled' do
     url 'http://dl.dafont.com/dl/?f=ai_liftled'
     name 'AI Liftled'
     homepage 'http://www.dafont.com/ai-liftled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AILIFTLE.TTF'
 end

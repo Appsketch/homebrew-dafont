@@ -5,7 +5,6 @@ cask 'dafont-rat-scratch-tall' do
     url 'http://dl.dafont.com/dl/?f=rat_scratch_tall'
     name 'Rat Scratch Tall'
     homepage 'http://www.dafont.com/rat-scratch-tall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rat Scratch Tall.ttf'
 end

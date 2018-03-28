@@ -5,7 +5,6 @@ cask 'dafont-it-must-be-destroyed' do
     url 'http://dl.dafont.com/dl/?f=it_must_be_destroyed'
     name 'It Must Be Destroyed'
     homepage 'http://www.dafont.com/it-must-be-destroyed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RW-IMBD.ttf'
 end

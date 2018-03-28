@@ -5,7 +5,6 @@ cask 'dafont-malibu' do
     url 'http://dl.dafont.com/dl/?f=malibu'
     name 'Malibu'
     homepage 'http://www.dafont.com/malibu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Malibu.otf'
 end

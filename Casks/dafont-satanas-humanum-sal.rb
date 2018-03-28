@@ -5,7 +5,6 @@ cask 'dafont-satanas-humanum-sal' do
     url 'http://dl.dafont.com/dl/?f=satanas_humanum_sal'
     name 'Satanas Humanum Salvator'
     homepage 'http://www.dafont.com/satanas-humanum-sal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'satan_hum_sav.ttf'
 end

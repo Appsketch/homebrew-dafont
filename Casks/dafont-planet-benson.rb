@@ -5,7 +5,6 @@ cask 'dafont-planet-benson' do
     url 'http://dl.dafont.com/dl/?f=planet_benson'
     name 'Planet Benson'
     homepage 'http://www.dafont.com/planet-benson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'planet benson 2.ttf'
 end

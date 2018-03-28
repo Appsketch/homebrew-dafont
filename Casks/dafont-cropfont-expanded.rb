@@ -5,7 +5,6 @@ cask 'dafont-cropfont-expanded' do
     url 'http://dl.dafont.com/dl/?f=cropfont_expanded'
     name 'Cropfont Expanded'
     homepage 'http://www.dafont.com/cropfont-expanded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cropfont expanded.ttf'
 end

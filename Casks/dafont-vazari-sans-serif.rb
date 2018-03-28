@@ -5,7 +5,6 @@ cask 'dafont-vazari-sans-serif' do
     url 'http://dl.dafont.com/dl/?f=vazari_sans_serif'
     name 'Vazari Sans Serif'
     homepage 'http://www.dafont.com/vazari-sans-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vazari_Sans_Serif.ttf'
 end

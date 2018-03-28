@@ -5,7 +5,6 @@ cask 'dafont-gravepain' do
     url 'http://dl.dafont.com/dl/?f=gravepain'
     name 'Grave Pain'
     homepage 'http://www.dafont.com/gravepain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GravePain.ttf'
 end

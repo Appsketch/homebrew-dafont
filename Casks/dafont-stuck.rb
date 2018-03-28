@@ -5,7 +5,6 @@ cask 'dafont-stuck' do
     url 'http://dl.dafont.com/dl/?f=stuck'
     name 'Stuck'
     homepage 'http://www.dafont.com/stuck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stuck Font.ttf'
 end

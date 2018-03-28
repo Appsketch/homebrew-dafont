@@ -5,7 +5,6 @@ cask 'dafont-rustproof-body' do
     url 'http://dl.dafont.com/dl/?f=rustproof_body'
     name 'Rustproof Body'
     homepage 'http://www.dafont.com/rustproof-body.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rustproof body.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-black-ornaments-free' do
     url 'http://dl.dafont.com/dl/?f=black_ornaments_free'
     name 'Black Ornaments'
     homepage 'http://www.dafont.com/black-ornaments-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black Ornaments Free.ttf'
 end

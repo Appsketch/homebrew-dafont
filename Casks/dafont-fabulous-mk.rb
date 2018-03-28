@@ -5,7 +5,6 @@ cask 'dafont-fabulous-mk' do
     url 'http://dl.dafont.com/dl/?f=fabulous_mk'
     name 'Fabulous'
     homepage 'http://www.dafont.com/fabulous-mk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fabulous.ttf'
 end

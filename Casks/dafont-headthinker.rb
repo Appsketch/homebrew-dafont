@@ -5,7 +5,6 @@ cask 'dafont-headthinker' do
     url 'http://dl.dafont.com/dl/?f=headthinker'
     name 'Headthinker'
     homepage 'http://www.dafont.com/headthinker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'headthinker 1.001.ttf'
 end

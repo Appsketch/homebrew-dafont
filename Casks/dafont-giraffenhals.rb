@@ -5,7 +5,6 @@ cask 'dafont-giraffenhals' do
     url 'http://dl.dafont.com/dl/?f=giraffenhals'
     name 'Giraffenhals'
     homepage 'http://www.dafont.com/giraffenhals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Giraffenhals_bold.otf'
     font 'Giraffenhals_condensed.otf'

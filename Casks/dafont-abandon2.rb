@@ -5,7 +5,6 @@ cask 'dafont-abandon2' do
     url 'http://dl.dafont.com/dl/?f=abandon2'
     name 'Abandon'
     homepage 'http://www.dafont.com/abandon2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AbandoN.ttf'
 end

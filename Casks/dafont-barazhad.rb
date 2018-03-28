@@ -5,7 +5,6 @@ cask 'dafont-barazhad' do
     url 'http://dl.dafont.com/dl/?f=barazhad'
     name 'Barazhad'
     homepage 'http://www.dafont.com/barazhad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barazhad Bold Italic.otf'
     font 'Barazhad Bold.otf'

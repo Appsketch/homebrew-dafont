@@ -5,7 +5,6 @@ cask 'dafont-octas' do
     url 'http://dl.dafont.com/dl/?f=octas'
     name 'Octas'
     homepage 'http://www.dafont.com/octas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TT-Octas-Thin-Italic-DEMO.otf'
 end

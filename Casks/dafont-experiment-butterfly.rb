@@ -5,7 +5,6 @@ cask 'dafont-experiment-butterfly' do
     url 'http://dl.dafont.com/dl/?f=experiment_butterfly'
     name 'Experiment Butterfly'
     homepage 'http://www.dafont.com/experiment-butterfly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EXPERIMENT BUTTERFLY.ttf'
 end

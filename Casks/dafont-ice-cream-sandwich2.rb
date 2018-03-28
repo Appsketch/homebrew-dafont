@@ -5,7 +5,6 @@ cask 'dafont-ice-cream-sandwich2' do
     url 'http://dl.dafont.com/dl/?f=ice_cream_sandwich2'
     name 'Ice Cream Sandwich'
     homepage 'http://www.dafont.com/ice-cream-sandwich2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ice Cream Sandwich.ttf'
 end

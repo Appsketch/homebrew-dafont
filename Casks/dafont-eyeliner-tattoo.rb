@@ -5,7 +5,6 @@ cask 'dafont-eyeliner-tattoo' do
     url 'http://dl.dafont.com/dl/?f=eyeliner_tattoo'
     name 'Eyeliner Tattoo'
     homepage 'http://www.dafont.com/eyeliner-tattoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eyeliner Tattoo.ttf'
 end

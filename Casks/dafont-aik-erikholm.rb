@@ -5,7 +5,6 @@ cask 'dafont-aik-erikholm' do
     url 'http://dl.dafont.com/dl/?f=aik_erikholm'
     name 'AIK ErikHolm'
     homepage 'http://www.dafont.com/aik-erikholm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AIK-ErikHolm.otf'
 end

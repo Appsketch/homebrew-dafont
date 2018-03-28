@@ -5,7 +5,6 @@ cask 'dafont-librium' do
     url 'http://dl.dafont.com/dl/?f=librium'
     name 'Librium + Libritabs'
     homepage 'http://www.dafont.com/librium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LIBRIT__.ttf'
     font 'LIBRIUM_.ttf'

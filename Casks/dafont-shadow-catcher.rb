@@ -5,7 +5,6 @@ cask 'dafont-shadow-catcher' do
     url 'http://dl.dafont.com/dl/?f=shadow_catcher'
     name 'Shadow Catcher'
     homepage 'http://www.dafont.com/shadow-catcher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shadow Catcher.ttf'
 end

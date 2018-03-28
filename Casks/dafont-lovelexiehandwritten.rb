@@ -5,7 +5,6 @@ cask 'dafont-lovelexiehandwritten' do
     url 'http://dl.dafont.com/dl/?f=lovelexiehandwritten'
     name 'Lovelexie Handwritten'
     homepage 'http://www.dafont.com/lovelexiehandwritten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LovelexieHandwritten.ttf'
 end

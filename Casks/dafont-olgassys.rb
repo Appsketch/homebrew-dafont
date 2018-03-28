@@ -5,7 +5,6 @@ cask 'dafont-olgassys' do
     url 'http://dl.dafont.com/dl/?f=olgassys'
     name 'Olgassys'
     homepage 'http://www.dafont.com/olgassys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Olgassys.ttf'
 end

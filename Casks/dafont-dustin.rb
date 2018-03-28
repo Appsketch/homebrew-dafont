@@ -5,7 +5,6 @@ cask 'dafont-dustin' do
     url 'http://dl.dafont.com/dl/?f=dustin'
     name 'Dustin'
     homepage 'http://www.dafont.com/dustin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dustin_scribble.ttf'
 end

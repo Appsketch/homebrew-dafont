@@ -5,7 +5,6 @@ cask 'dafont-grand-lethals' do
     url 'http://dl.dafont.com/dl/?f=grand_lethals'
     name 'Grand Lethals'
     homepage 'http://www.dafont.com/grand-lethals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grandlethals.ttf'
 end

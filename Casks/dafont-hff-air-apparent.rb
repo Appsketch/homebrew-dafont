@@ -5,7 +5,6 @@ cask 'dafont-hff-air-apparent' do
     url 'http://dl.dafont.com/dl/?f=hff_air_apparent'
     name 'HFF Air Apparent'
     homepage 'http://www.dafont.com/hff-air-apparent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Air Apparent.ttf'
 end

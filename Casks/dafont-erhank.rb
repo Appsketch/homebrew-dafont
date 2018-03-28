@@ -5,7 +5,6 @@ cask 'dafont-erhank' do
     url 'http://dl.dafont.com/dl/?f=erhank'
     name 'Erhank'
     homepage 'http://www.dafont.com/erhank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ERHANK.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-morohashi' do
     url 'http://dl.dafont.com/dl/?f=morohashi'
     name 'Morohashi'
     homepage 'http://www.dafont.com/morohashi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'morohashi.ttf'
 end

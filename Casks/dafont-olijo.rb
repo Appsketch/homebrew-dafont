@@ -5,7 +5,6 @@ cask 'dafont-olijo' do
     url 'http://dl.dafont.com/dl/?f=olijo'
     name 'Olijo'
     homepage 'http://www.dafont.com/olijo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OliJo-Bold.ttf'
 end

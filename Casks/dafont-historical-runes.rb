@@ -5,7 +5,6 @@ cask 'dafont-historical-runes' do
     url 'http://dl.dafont.com/dl/?f=historical_runes'
     name 'Germanic + Dwarf + AngloSaxon'
     homepage 'http://www.dafont.com/historical-runes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RUNE_A.TTF'
     font 'RUNE_A1.TTF'

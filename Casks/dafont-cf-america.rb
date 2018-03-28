@@ -5,7 +5,6 @@ cask 'dafont-cf-america' do
     url 'http://dl.dafont.com/dl/?f=cf_america'
     name 'CF America'
     homepage 'http://www.dafont.com/cf-america.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFAmerica-Regular.ttf'
 end

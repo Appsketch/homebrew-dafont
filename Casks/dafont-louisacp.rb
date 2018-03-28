@@ -5,7 +5,6 @@ cask 'dafont-louisacp' do
     url 'http://dl.dafont.com/dl/?f=louisacp'
     name 'Louisa CP'
     homepage 'http://www.dafont.com/louisacp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LouisaCP.otf'
 end

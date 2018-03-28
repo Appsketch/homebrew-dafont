@@ -5,7 +5,6 @@ cask 'dafont-electroman' do
     url 'http://dl.dafont.com/dl/?f=electroman'
     name 'ElectroMan'
     homepage 'http://www.dafont.com/electroman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ElectroMan.ttf'
 end

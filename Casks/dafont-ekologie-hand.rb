@@ -5,7 +5,6 @@ cask 'dafont-ekologie-hand' do
     url 'http://dl.dafont.com/dl/?f=ekologie_hand'
     name 'Ekologie Hand'
     homepage 'http://www.dafont.com/ekologie-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EkologieHand_PERSONAL_USE_ONLY.ttf'
 end

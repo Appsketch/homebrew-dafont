@@ -5,7 +5,6 @@ cask 'dafont-handrelief' do
     url 'http://dl.dafont.com/dl/?f=handrelief'
     name 'Handrelief'
     homepage 'http://www.dafont.com/handrelief.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'handrelief.ttf'
 end

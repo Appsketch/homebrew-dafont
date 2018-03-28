@@ -5,7 +5,6 @@ cask 'dafont-jd-cereus' do
     url 'http://dl.dafont.com/dl/?f=jd_cereus'
     name 'JD Cereus'
     homepage 'http://www.dafont.com/jd-cereus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_cereus.ttf'
 end

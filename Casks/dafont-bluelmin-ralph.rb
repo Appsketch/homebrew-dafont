@@ -5,7 +5,6 @@ cask 'dafont-bluelmin-ralph' do
     url 'http://dl.dafont.com/dl/?f=bluelmin_ralph'
     name 'Bluelmin Ralph'
     homepage 'http://www.dafont.com/bluelmin-ralph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bluelmin Ralph.ttf'
 end

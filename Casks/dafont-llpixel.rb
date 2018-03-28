@@ -5,7 +5,6 @@ cask 'dafont-llpixel' do
     url 'http://dl.dafont.com/dl/?f=llpixel'
     name 'LL Pixel'
     homepage 'http://www.dafont.com/llpixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLPIXEL3.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-roof-runners' do
     url 'http://dl.dafont.com/dl/?f=roof_runners'
     name 'Roof Runners'
     homepage 'http://www.dafont.com/roof-runners.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PG_Roof Runners_bold.ttf'
     font 'PG_Roof Runners_ital.ttf'

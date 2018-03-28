@@ -5,7 +5,6 @@ cask 'dafont-tf2-build' do
     url 'http://dl.dafont.com/dl/?f=tf2_build'
     name 'TF2 Build'
     homepage 'http://www.dafont.com/tf2-build.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tf2build.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tsachi' do
     url 'http://dl.dafont.com/dl/?f=tsachi'
     name 'Tsachi'
     homepage 'http://www.dafont.com/tsachi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tsachi.ttf'
 end

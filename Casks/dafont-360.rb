@@ -5,7 +5,6 @@ cask 'dafont-360' do
     url 'http://dl.dafont.com/dl/?f=360'
     name '360&deg;'
     homepage 'http://www.dafont.com/360.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '360_font.ttf'
 end

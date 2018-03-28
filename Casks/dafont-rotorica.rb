@@ -5,7 +5,6 @@ cask 'dafont-rotorica' do
     url 'http://dl.dafont.com/dl/?f=rotorica'
     name 'Rotorica'
     homepage 'http://www.dafont.com/rotorica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rotorica.ttf'
 end

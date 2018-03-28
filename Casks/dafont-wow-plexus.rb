@@ -5,7 +5,6 @@ cask 'dafont-wow-plexus' do
     url 'http://dl.dafont.com/dl/?f=wow_plexus'
     name 'WoW Plexus'
     homepage 'http://www.dafont.com/wow-plexus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WoW-plexus.ttf'
 end

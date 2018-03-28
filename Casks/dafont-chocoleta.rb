@@ -5,7 +5,6 @@ cask 'dafont-chocoleta' do
     url 'http://dl.dafont.com/dl/?f=chocoleta'
     name 'Chocoleta'
     homepage 'http://www.dafont.com/chocoleta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chocoleta.ttf'
 end

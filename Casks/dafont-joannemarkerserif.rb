@@ -5,7 +5,6 @@ cask 'dafont-joannemarkerserif' do
     url 'http://dl.dafont.com/dl/?f=joannemarkerserif'
     name 'Joanne Marker Serif'
     homepage 'http://www.dafont.com/joannemarkerserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JoanneMarkerSerif.otf'
 end

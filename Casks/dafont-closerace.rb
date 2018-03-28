@@ -5,7 +5,6 @@ cask 'dafont-closerace' do
     url 'http://dl.dafont.com/dl/?f=closerace'
     name 'Close Race'
     homepage 'http://www.dafont.com/closerace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CloseRace.ttf'
 end

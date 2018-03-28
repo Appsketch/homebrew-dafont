@@ -5,7 +5,6 @@ cask 'dafont-currency' do
     url 'http://dl.dafont.com/dl/?f=currency'
     name 'Currency'
     homepage 'http://www.dafont.com/currency.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CURRENCY_REG.ttf'
     font 'CURRENCY_SLANTED.ttf'

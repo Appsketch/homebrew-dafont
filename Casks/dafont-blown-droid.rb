@@ -5,7 +5,6 @@ cask 'dafont-blown-droid' do
     url 'http://dl.dafont.com/dl/?f=blown_droid'
     name 'Blown Droid'
     homepage 'http://www.dafont.com/blown-droid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blowndroid.ttf'
 end

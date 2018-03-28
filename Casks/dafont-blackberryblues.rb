@@ -5,7 +5,6 @@ cask 'dafont-blackberryblues' do
     url 'http://dl.dafont.com/dl/?f=blackberryblues'
     name 'Blackberry Blues'
     homepage 'http://www.dafont.com/blackberryblues.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackberryBlues.ttf'
 end

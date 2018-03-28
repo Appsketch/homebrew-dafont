@@ -5,7 +5,6 @@ cask 'dafont-urban-constructed' do
     url 'http://dl.dafont.com/dl/?f=urban_constructed'
     name 'Urban Constructed'
     homepage 'http://www.dafont.com/urban-constructed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Urban Constructed-Cutter.ttf'
     font 'Urban Constructed-Outline.ttf'

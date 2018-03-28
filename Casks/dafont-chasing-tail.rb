@@ -5,7 +5,6 @@ cask 'dafont-chasing-tail' do
     url 'http://dl.dafont.com/dl/?f=chasing_tail'
     name 'Chasing Tail'
     homepage 'http://www.dafont.com/chasing-tail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHASING TAIL.ttf'
 end

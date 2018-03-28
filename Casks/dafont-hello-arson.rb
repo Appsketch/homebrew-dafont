@@ -5,7 +5,6 @@ cask 'dafont-hello-arson' do
     url 'http://dl.dafont.com/dl/?f=hello_arson'
     name 'Hello Arson'
     homepage 'http://www.dafont.com/hello-arson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'helloarson.ttf'
 end

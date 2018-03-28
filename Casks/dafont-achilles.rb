@@ -5,7 +5,6 @@ cask 'dafont-achilles' do
     url 'http://dl.dafont.com/dl/?f=achilles'
     name 'Achilles'
     homepage 'http://www.dafont.com/achilles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'achv2.ttf'
     font 'achv2i.ttf'

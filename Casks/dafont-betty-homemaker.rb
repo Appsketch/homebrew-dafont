@@ -5,7 +5,6 @@ cask 'dafont-betty-homemaker' do
     url 'http://dl.dafont.com/dl/?f=betty_homemaker'
     name 'Betty Homemaker'
     homepage 'http://www.dafont.com/betty-homemaker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bettyhomemaker.ttf'
 end

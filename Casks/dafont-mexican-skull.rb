@@ -5,7 +5,6 @@ cask 'dafont-mexican-skull' do
     url 'http://dl.dafont.com/dl/?f=mexican_skull'
     name 'Mexican Skull'
     homepage 'http://www.dafont.com/mexican-skull.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mexican Skull.ttf'
 end

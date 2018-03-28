@@ -5,7 +5,6 @@ cask 'dafont-ws-simple-gallifreyan' do
     url 'http://dl.dafont.com/dl/?f=ws_simple_gallifreyan'
     name 'WS Simple Gallifreyan'
     homepage 'http://www.dafont.com/ws-simple-gallifreyan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ws_simple_gallifreyan.ttf'
 end

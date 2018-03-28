@@ -5,7 +5,6 @@ cask 'dafont-groovy-baby' do
     url 'http://dl.dafont.com/dl/?f=groovy_baby'
     name 'Groovy Baby'
     homepage 'http://www.dafont.com/groovy-baby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jessica Groovy Baby FINAL2.ttf'
 end

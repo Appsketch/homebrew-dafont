@@ -5,7 +5,6 @@ cask 'dafont-zombie-party' do
     url 'http://dl.dafont.com/dl/?f=zombie_party'
     name 'Zombie Party'
     homepage 'http://www.dafont.com/zombie-party.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tipografia.zombie..ttf'
 end

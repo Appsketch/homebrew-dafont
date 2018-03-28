@@ -5,7 +5,6 @@ cask 'dafont-barbed-ink' do
     url 'http://dl.dafont.com/dl/?f=barbed_ink'
     name 'Barbed Ink'
     homepage 'http://www.dafont.com/barbed-ink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InkBarb.ttf'
 end

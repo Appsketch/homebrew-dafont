@@ -5,7 +5,6 @@ cask 'dafont-sanctuary2' do
     url 'http://dl.dafont.com/dl/?f=sanctuary2'
     name 'Sanctuary'
     homepage 'http://www.dafont.com/sanctuary2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sanctuary_type.ttf'
 end

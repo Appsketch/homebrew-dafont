@@ -5,7 +5,6 @@ cask 'dafont-seriallover' do
     url 'http://dl.dafont.com/dl/?f=seriallover'
     name 'Serial Lover'
     homepage 'http://www.dafont.com/seriallover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SerialLover.ttf'
 end

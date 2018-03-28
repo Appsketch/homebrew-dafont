@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-grids' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_grids'
     name 'AlphaShapes grids'
     homepage 'http://www.dafont.com/alphashapes-grids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asgrids.ttf'
 end

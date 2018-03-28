@@ -5,7 +5,6 @@ cask 'dafont-gamma-sentry' do
     url 'http://dl.dafont.com/dl/?f=gamma_sentry'
     name 'Gamma Sentry'
     homepage 'http://www.dafont.com/gamma-sentry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gamma.ttf'
 end

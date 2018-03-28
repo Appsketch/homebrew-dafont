@@ -5,7 +5,6 @@ cask 'dafont-vengeance' do
     url 'http://dl.dafont.com/dl/?f=vengeance'
     name 'Vengeance'
     homepage 'http://www.dafont.com/vengeance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vengeance.ttf'
 end

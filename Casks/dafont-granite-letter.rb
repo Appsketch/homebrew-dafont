@@ -5,7 +5,6 @@ cask 'dafont-granite-letter' do
     url 'http://dl.dafont.com/dl/?f=granite_letter'
     name 'Granite Letter'
     homepage 'http://www.dafont.com/granite-letter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Granite Letter.ttf'
 end

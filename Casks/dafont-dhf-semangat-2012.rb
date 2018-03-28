@@ -5,7 +5,6 @@ cask 'dafont-dhf-semangat-2012' do
     url 'http://dl.dafont.com/dl/?f=dhf_semangat_2012'
     name 'DHF Semangat 2012'
     homepage 'http://www.dafont.com/dhf-semangat-2012.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DHF Semangat 2012 Bold Demo.ttf'
     font 'DHF Semangat 2012 Demo.ttf'

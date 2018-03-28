@@ -5,7 +5,6 @@ cask 'dafont-the-line-up' do
     url 'http://dl.dafont.com/dl/?f=the_line_up'
     name 'The Line-Up'
     homepage 'http://www.dafont.com/the-line-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheLine-UpDEMO-KCFonts.ttf'
 end

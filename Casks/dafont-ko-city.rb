@@ -5,7 +5,6 @@ cask 'dafont-ko-city' do
     url 'http://dl.dafont.com/dl/?f=ko_city'
     name 'Ko City'
     homepage 'http://www.dafont.com/ko-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kocity.ttf'
 end

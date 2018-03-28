@@ -5,7 +5,6 @@ cask 'dafont-gorillaz1' do
     url 'http://dl.dafont.com/dl/?f=gorillaz1'
     name 'Gorillaz 1'
     homepage 'http://www.dafont.com/gorillaz1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gorillaz_1.ttf'
 end

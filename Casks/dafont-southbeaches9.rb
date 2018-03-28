@@ -5,7 +5,6 @@ cask 'dafont-southbeaches9' do
     url 'http://dl.dafont.com/dl/?f=southbeaches9'
     name 'South Beaches 9'
     homepage 'http://www.dafont.com/southbeaches9.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SouthBeaches9.ttf'
 end

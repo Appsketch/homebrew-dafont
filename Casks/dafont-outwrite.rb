@@ -5,7 +5,6 @@ cask 'dafont-outwrite' do
     url 'http://dl.dafont.com/dl/?f=outwrite'
     name 'Outwrite'
     homepage 'http://www.dafont.com/outwrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Outwrite.ttf'
 end

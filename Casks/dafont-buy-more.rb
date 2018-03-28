@@ -5,7 +5,6 @@ cask 'dafont-buy-more' do
     url 'http://dl.dafont.com/dl/?f=buy_more'
     name 'Buy More'
     homepage 'http://www.dafont.com/buy-more.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Buy More.ttf'
 end

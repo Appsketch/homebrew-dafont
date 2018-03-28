@@ -5,7 +5,6 @@ cask 'dafont-black-ball' do
     url 'http://dl.dafont.com/dl/?f=black_ball'
     name 'Black Ball'
     homepage 'http://www.dafont.com/black-ball.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black Ball.ttf'
 end

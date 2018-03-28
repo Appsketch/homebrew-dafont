@@ -5,7 +5,6 @@ cask 'dafont-pinho' do
     url 'http://dl.dafont.com/dl/?f=pinho'
     name 'Pinho'
     homepage 'http://www.dafont.com/pinho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pinho.ttf'
 end

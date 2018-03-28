@@ -5,7 +5,6 @@ cask 'dafont-lovenessthree' do
     url 'http://dl.dafont.com/dl/?f=lovenessthree'
     name 'LoveNess Three'
     homepage 'http://www.dafont.com/lovenessthree.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lovenessthree.ttf'
 end

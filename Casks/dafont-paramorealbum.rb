@@ -5,7 +5,6 @@ cask 'dafont-paramorealbum' do
     url 'http://dl.dafont.com/dl/?f=paramorealbum'
     name 'Paramore Album'
     homepage 'http://www.dafont.com/paramorealbum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ParamoreAlbum.ttf'
 end

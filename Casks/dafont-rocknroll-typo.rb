@@ -5,7 +5,6 @@ cask 'dafont-rocknroll-typo' do
     url 'http://dl.dafont.com/dl/?f=rocknroll_typo'
     name 'RocknRoll Typo'
     homepage 'http://www.dafont.com/rocknroll-typo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rocknroll_typo_bevel.ttf'
     font 'rocknroll_typo_bold.ttf'

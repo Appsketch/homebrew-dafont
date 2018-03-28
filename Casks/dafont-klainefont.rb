@@ -5,7 +5,6 @@ cask 'dafont-klainefont' do
     url 'http://dl.dafont.com/dl/?f=klainefont'
     name 'Klaine'
     homepage 'http://www.dafont.com/klainefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KlaineFont.ttf'
 end

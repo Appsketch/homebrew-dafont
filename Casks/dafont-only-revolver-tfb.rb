@@ -5,7 +5,6 @@ cask 'dafont-only-revolver-tfb' do
     url 'http://dl.dafont.com/dl/?f=only_revolver_tfb'
     name 'Only Revolver TFB'
     homepage 'http://www.dafont.com/only-revolver-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'only revolver tfb.ttf'
 end

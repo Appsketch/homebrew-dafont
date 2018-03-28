@@ -5,7 +5,6 @@ cask 'dafont-have-nothing-to-do-with' do
     url 'http://dl.dafont.com/dl/?f=have_nothing_to_do_with'
     name 'Have nothing to do with'
     homepage 'http://www.dafont.com/have-nothing-to-do-with.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Have nothing to do with.ttf'
 end

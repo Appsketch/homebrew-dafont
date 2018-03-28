@@ -5,7 +5,6 @@ cask 'dafont-macilynn-marie' do
     url 'http://dl.dafont.com/dl/?f=macilynn_marie'
     name 'Macilynn Marie'
     homepage 'http://www.dafont.com/macilynn-marie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Macilynn Marie.ttf'
 end

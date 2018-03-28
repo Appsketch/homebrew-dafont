@@ -5,7 +5,6 @@ cask 'dafont-potassium-scandal' do
     url 'http://dl.dafont.com/dl/?f=potassium_scandal'
     name 'Potassium Scandal'
     homepage 'http://www.dafont.com/potassium-scandal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scandal.ttf'
 end

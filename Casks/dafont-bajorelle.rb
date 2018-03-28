@@ -5,7 +5,6 @@ cask 'dafont-bajorelle' do
     url 'http://dl.dafont.com/dl/?f=bajorelle'
     name 'Bajorelle'
     homepage 'http://www.dafont.com/bajorelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barjorelle.ttf'
 end

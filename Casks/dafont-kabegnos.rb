@@ -5,7 +5,6 @@ cask 'dafont-kabegnos' do
     url 'http://dl.dafont.com/dl/?f=kabegnos'
     name 'Kabegnos'
     homepage 'http://www.dafont.com/kabegnos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kabegnos.ttf'
 end

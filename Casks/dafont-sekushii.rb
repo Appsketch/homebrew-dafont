@@ -5,7 +5,6 @@ cask 'dafont-sekushii' do
     url 'http://dl.dafont.com/dl/?f=sekushii'
     name 'Sekushii'
     homepage 'http://www.dafont.com/sekushii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEKUSHII.TTF'
 end

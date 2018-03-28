@@ -5,7 +5,6 @@ cask 'dafont-gulag-decay' do
     url 'http://dl.dafont.com/dl/?f=gulag_decay'
     name 'Gulag Decay'
     homepage 'http://www.dafont.com/gulag-decay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GulagDecay.ttf'
 end

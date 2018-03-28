@@ -5,7 +5,6 @@ cask 'dafont-comeovertonite' do
     url 'http://dl.dafont.com/dl/?f=comeovertonite'
     name 'Come Over Tonite'
     homepage 'http://www.dafont.com/comeovertonite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ComeOverTonite.ttf'
 end

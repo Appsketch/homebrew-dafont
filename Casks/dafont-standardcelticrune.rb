@@ -5,7 +5,6 @@ cask 'dafont-standardcelticrune' do
     url 'http://dl.dafont.com/dl/?f=standardcelticrune'
     name 'Standard Celtic Rune'
     homepage 'http://www.dafont.com/standardcelticrune.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StandardCelticRune.ttf'
 end

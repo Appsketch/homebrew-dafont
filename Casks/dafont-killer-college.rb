@@ -5,7 +5,6 @@ cask 'dafont-killer-college' do
     url 'http://dl.dafont.com/dl/?f=killer_college'
     name 'Killer College'
     homepage 'http://www.dafont.com/killer-college.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Killer College.otf'
 end

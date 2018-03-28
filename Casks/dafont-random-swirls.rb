@@ -5,7 +5,6 @@ cask 'dafont-random-swirls' do
     url 'http://dl.dafont.com/dl/?f=random_swirls'
     name 'Random Swirls'
     homepage 'http://www.dafont.com/random-swirls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Random Swirls.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-patchwork-angel' do
     url 'http://dl.dafont.com/dl/?f=patchwork_angel'
     name 'Patchwork Angel'
     homepage 'http://www.dafont.com/patchwork-angel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PATCA___.TTF'
 end

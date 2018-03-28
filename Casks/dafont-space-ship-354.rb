@@ -5,7 +5,6 @@ cask 'dafont-space-ship-354' do
     url 'http://dl.dafont.com/dl/?f=space_ship_354'
     name 'Space-ship 354'
     homepage 'http://www.dafont.com/space-ship-354.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'space354.ttf'
 end

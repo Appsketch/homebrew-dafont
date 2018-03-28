@@ -5,7 +5,6 @@ cask 'dafont-fluoride-beings' do
     url 'http://dl.dafont.com/dl/?f=fluoride_beings'
     name 'Fluoride Beings'
     homepage 'http://www.dafont.com/fluoride-beings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fluoride beings.ttf'
 end

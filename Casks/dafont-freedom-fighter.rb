@@ -5,7 +5,6 @@ cask 'dafont-freedom-fighter' do
     url 'http://dl.dafont.com/dl/?f=freedom_fighter'
     name 'Freedom Fighter'
     homepage 'http://www.dafont.com/freedom-fighter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'freedomfighter.ttf'
     font 'freedomfighter3d.ttf'

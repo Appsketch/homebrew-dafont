@@ -5,7 +5,6 @@ cask 'dafont-christmaspeopleding' do
     url 'http://dl.dafont.com/dl/?f=christmaspeopleding'
     name 'Christmas People Ding'
     homepage 'http://www.dafont.com/christmaspeopleding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChristmasPeople Ding.ttf'
 end

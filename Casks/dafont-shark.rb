@@ -5,7 +5,6 @@ cask 'dafont-shark' do
     url 'http://dl.dafont.com/dl/?f=shark'
     name 'Shark'
     homepage 'http://www.dafont.com/shark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shark___.ttf'
 end

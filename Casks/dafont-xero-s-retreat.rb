@@ -5,7 +5,6 @@ cask 'dafont-xero-s-retreat' do
     url 'http://dl.dafont.com/dl/?f=xero_s_retreat'
     name 'Xero&#039;s Retreat'
     homepage 'http://www.dafont.com/xero-s-retreat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xero&#039;s Retreat.otf'
 end

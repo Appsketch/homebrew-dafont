@@ -5,7 +5,6 @@ cask 'dafont-fabrik' do
     url 'http://dl.dafont.com/dl/?f=fabrik'
     name 'Fabrik'
     homepage 'http://www.dafont.com/fabrik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fabrik.ttf'
 end

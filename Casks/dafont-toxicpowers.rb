@@ -5,7 +5,6 @@ cask 'dafont-toxicpowers' do
     url 'http://dl.dafont.com/dl/?f=toxicpowers'
     name 'Toxic Powers'
     homepage 'http://www.dafont.com/toxicpowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ToxicPowers.ttf'
 end

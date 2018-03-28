@@ -5,7 +5,6 @@ cask 'dafont-zachery' do
     url 'http://dl.dafont.com/dl/?f=zachery'
     name 'Zachery'
     homepage 'http://www.dafont.com/zachery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zachery.otf'
 end

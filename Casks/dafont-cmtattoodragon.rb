@@ -5,7 +5,6 @@ cask 'dafont-cmtattoodragon' do
     url 'http://dl.dafont.com/dl/?f=cmtattoodragon'
     name 'CM Tattoo Dragon'
     homepage 'http://www.dafont.com/cmtattoodragon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CMTattooDragon.ttf'
 end

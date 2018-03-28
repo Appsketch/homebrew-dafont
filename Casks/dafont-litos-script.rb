@@ -5,7 +5,6 @@ cask 'dafont-litos-script' do
     url 'http://dl.dafont.com/dl/?f=litos_script'
     name 'Litos Script'
     homepage 'http://www.dafont.com/litos-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Litos Script BOLD.otf'
     font 'Litos Script Italic.otf'

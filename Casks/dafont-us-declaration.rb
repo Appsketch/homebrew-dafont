@@ -5,7 +5,6 @@ cask 'dafont-us-declaration' do
     url 'http://dl.dafont.com/dl/?f=us_declaration'
     name 'US Declaration'
     homepage 'http://www.dafont.com/us-declaration.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'USDeclaration.ttf'
 end

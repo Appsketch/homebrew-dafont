@@ -5,7 +5,6 @@ cask 'dafont-sacha-sharpie' do
     url 'http://dl.dafont.com/dl/?f=sacha_sharpie'
     name 'Sacha Sharpie'
     homepage 'http://www.dafont.com/sacha-sharpie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sacha_Sharpy.otf'
 end

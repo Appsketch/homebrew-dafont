@@ -5,7 +5,6 @@ cask 'dafont-vinylcuts' do
     url 'http://dl.dafont.com/dl/?f=vinylcuts'
     name 'VinylCuts'
     homepage 'http://www.dafont.com/vinylcuts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VinylCuts.ttf'
 end

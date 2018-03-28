@@ -5,7 +5,6 @@ cask 'dafont-dupstep-dungeons' do
     url 'http://dl.dafont.com/dl/?f=dupstep_dungeons'
     name 'Dupstep Dungeons'
     homepage 'http://www.dafont.com/dupstep-dungeons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dubstep Dungeons.otf'
 end

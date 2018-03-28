@@ -5,7 +5,6 @@ cask 'dafont-hardly-worthit' do
     url 'http://dl.dafont.com/dl/?f=hardly_worthit'
     name 'Hardly Worthit'
     homepage 'http://www.dafont.com/hardly-worthit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HARDW___.TTF'
 end

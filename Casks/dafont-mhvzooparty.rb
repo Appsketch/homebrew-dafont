@@ -5,7 +5,6 @@ cask 'dafont-mhvzooparty' do
     url 'http://dl.dafont.com/dl/?f=mhvzooparty'
     name 'MHV Zoo Party'
     homepage 'http://www.dafont.com/mhvzooparty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MHVZooParty.ttf'
 end

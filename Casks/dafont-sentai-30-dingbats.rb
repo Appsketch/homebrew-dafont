@@ -5,7 +5,6 @@ cask 'dafont-sentai-30-dingbats' do
     url 'http://dl.dafont.com/dl/?f=sentai_30_dingbats'
     name 'Sentai 30 Dingbats'
     homepage 'http://www.dafont.com/sentai-30-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sentai 30 Dingbats.ttf'
 end

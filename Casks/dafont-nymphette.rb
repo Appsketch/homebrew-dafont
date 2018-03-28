@@ -5,7 +5,6 @@ cask 'dafont-nymphette' do
     url 'http://dl.dafont.com/dl/?f=nymphette'
     name 'Nymphette'
     homepage 'http://www.dafont.com/nymphette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nymphette.ttf'
 end

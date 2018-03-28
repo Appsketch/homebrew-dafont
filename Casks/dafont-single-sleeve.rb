@@ -5,7 +5,6 @@ cask 'dafont-single-sleeve' do
     url 'http://dl.dafont.com/dl/?f=single_sleeve'
     name 'Single Sleeve'
     homepage 'http://www.dafont.com/single-sleeve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sing_14l.ttf'
 end

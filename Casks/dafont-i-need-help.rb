@@ -5,7 +5,6 @@ cask 'dafont-i-need-help' do
     url 'http://dl.dafont.com/dl/?f=i_need_help'
     name 'I Need Help'
     homepage 'http://www.dafont.com/i-need-help.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I_NEED_HELP.ttf'
 end

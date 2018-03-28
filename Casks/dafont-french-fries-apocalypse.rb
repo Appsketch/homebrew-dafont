@@ -5,7 +5,6 @@ cask 'dafont-french-fries-apocalypse' do
     url 'http://dl.dafont.com/dl/?f=french_fries_apocalypse'
     name 'French Fries Apocalypse'
     homepage 'http://www.dafont.com/french-fries-apocalypse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'french_fries_apocalypse.ttf'
 end

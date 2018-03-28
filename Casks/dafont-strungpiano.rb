@@ -5,7 +5,6 @@ cask 'dafont-strungpiano' do
     url 'http://dl.dafont.com/dl/?f=strungpiano'
     name 'Strung Piano'
     homepage 'http://www.dafont.com/strungpiano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StrungPiano.ttf'
 end

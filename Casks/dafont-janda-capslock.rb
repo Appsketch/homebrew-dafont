@@ -5,7 +5,6 @@ cask 'dafont-janda-capslock' do
     url 'http://dl.dafont.com/dl/?f=janda_capslock'
     name 'Janda Capslock'
     homepage 'http://www.dafont.com/janda-capslock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaCapslock.ttf'
 end

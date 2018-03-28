@@ -5,7 +5,6 @@ cask 'dafont-classic-trash-brk' do
     url 'http://dl.dafont.com/dl/?f=classic_trash_brk'
     name 'Classic Trash BRK'
     homepage 'http://www.dafont.com/classic-trash-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'clasict1.ttf'
     font 'clasict2.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-jacinto-sans' do
     url 'http://dl.dafont.com/dl/?f=jacinto_sans'
     name 'Jacinto Sans'
     homepage 'http://www.dafont.com/jacinto-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jacinto Sans.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sleipnir-runic' do
     url 'http://dl.dafont.com/dl/?f=sleipnir_runic'
     name 'Sleipnir Runic'
     homepage 'http://www.dafont.com/sleipnir-runic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SleipnirRunic.ttf'
 end

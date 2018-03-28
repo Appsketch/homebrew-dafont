@@ -5,7 +5,6 @@ cask 'dafont-initialized' do
     url 'http://dl.dafont.com/dl/?f=initialized'
     name 'Initialized'
     homepage 'http://www.dafont.com/initialized.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Initialized.ttf'
 end

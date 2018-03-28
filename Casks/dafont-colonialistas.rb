@@ -5,7 +5,6 @@ cask 'dafont-colonialistas' do
     url 'http://dl.dafont.com/dl/?f=colonialistas'
     name 'Colonialistas'
     homepage 'http://www.dafont.com/colonialistas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COLOI___.TTF'
 end

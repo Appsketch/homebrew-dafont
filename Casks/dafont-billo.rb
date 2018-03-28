@@ -5,7 +5,6 @@ cask 'dafont-billo' do
     url 'http://dl.dafont.com/dl/?f=billo'
     name 'Billo'
     homepage 'http://www.dafont.com/billo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BILLO___.TTF'
 end

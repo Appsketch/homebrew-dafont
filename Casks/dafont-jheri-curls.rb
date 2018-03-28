@@ -5,7 +5,6 @@ cask 'dafont-jheri-curls' do
     url 'http://dl.dafont.com/dl/?f=jheri_curls'
     name 'Jheri Curls'
     homepage 'http://www.dafont.com/jheri-curls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jheri Curls.ttf'
 end

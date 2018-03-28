@@ -5,7 +5,6 @@ cask 'dafont-odissey' do
     url 'http://dl.dafont.com/dl/?f=odissey'
     name 'Odissey'
     homepage 'http://www.dafont.com/odissey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Odyssey.otf'
 end

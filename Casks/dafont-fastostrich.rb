@@ -5,7 +5,6 @@ cask 'dafont-fastostrich' do
     url 'http://dl.dafont.com/dl/?f=fastostrich'
     name 'Fast Ostrich'
     homepage 'http://www.dafont.com/fastostrich.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FastOstrich.ttf'
 end

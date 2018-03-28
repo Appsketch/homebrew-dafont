@@ -5,7 +5,6 @@ cask 'dafont-tribal-butterflies' do
     url 'http://dl.dafont.com/dl/?f=tribal_butterflies'
     name 'Tribal Butterflies'
     homepage 'http://www.dafont.com/tribal-butterflies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tribal Butterflies.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-twostick' do
     url 'http://dl.dafont.com/dl/?f=twostick'
     name 'Two Stick'
     homepage 'http://www.dafont.com/twostick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'twostick.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tpf-display' do
     url 'http://dl.dafont.com/dl/?f=tpf_display'
     name 'TPF Display'
     homepage 'http://www.dafont.com/tpf-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TPF Display Symbol.ttf'
     font 'TPF Display.ttf'

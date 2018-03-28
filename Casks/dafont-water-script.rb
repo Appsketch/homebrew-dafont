@@ -5,7 +5,6 @@ cask 'dafont-water-script' do
     url 'http://dl.dafont.com/dl/?f=water_script'
     name 'Water script'
     homepage 'http://www.dafont.com/water-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Water script.ttf'
 end

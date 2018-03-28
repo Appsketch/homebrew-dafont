@@ -5,7 +5,6 @@ cask 'dafont-nikodecs' do
     url 'http://dl.dafont.com/dl/?f=nikodecs'
     name 'Nikodecs'
     homepage 'http://www.dafont.com/nikodecs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nikodecs.otf'
 end

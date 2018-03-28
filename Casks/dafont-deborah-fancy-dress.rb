@@ -5,7 +5,6 @@ cask 'dafont-deborah-fancy-dress' do
     url 'http://dl.dafont.com/dl/?f=deborah_fancy_dress'
     name 'Deborah'
     homepage 'http://www.dafont.com/deborah-fancy-dress.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deborah Condensed.ttf'
     font 'Deborah Extras-Ornaments.ttf'

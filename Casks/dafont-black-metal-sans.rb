@@ -5,7 +5,6 @@ cask 'dafont-black-metal-sans' do
     url 'http://dl.dafont.com/dl/?f=black_metal_sans'
     name 'Black Metal Sans'
     homepage 'http://www.dafont.com/black-metal-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackMetalSans.ttf'
 end

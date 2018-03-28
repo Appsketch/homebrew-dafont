@@ -5,7 +5,6 @@ cask 'dafont-draughts-ultrecht' do
     url 'http://dl.dafont.com/dl/?f=draughts_ultrecht'
     name 'Draughts Ultrecht'
     homepage 'http://www.dafont.com/draughts-ultrecht.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'draughts.ttf'
 end

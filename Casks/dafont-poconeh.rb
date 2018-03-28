@@ -5,7 +5,6 @@ cask 'dafont-poconeh' do
     url 'http://dl.dafont.com/dl/?f=poconeh'
     name 'Poconeh'
     homepage 'http://www.dafont.com/poconeh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Poconeh.ttf'
 end

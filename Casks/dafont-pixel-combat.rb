@@ -5,7 +5,6 @@ cask 'dafont-pixel-combat' do
     url 'http://dl.dafont.com/dl/?f=pixel_combat'
     name 'Pixel Combat'
     homepage 'http://www.dafont.com/pixel-combat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel Combat.otf'
 end

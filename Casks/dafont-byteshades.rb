@@ -5,7 +5,6 @@ cask 'dafont-byteshades' do
     url 'http://dl.dafont.com/dl/?f=byteshades'
     name 'Byte Shades'
     homepage 'http://www.dafont.com/byteshades.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ByteShades.ttf'
 end

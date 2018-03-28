@@ -5,7 +5,6 @@ cask 'dafont-19-000-paarmaa' do
     url 'http://dl.dafont.com/dl/?f=19_000_paarmaa'
     name '19 000 Paarmaa'
     homepage 'http://www.dafont.com/19-000-paarmaa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '19 000 paarmaa.ttf'
 end

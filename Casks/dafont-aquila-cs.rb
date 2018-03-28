@@ -5,7 +5,6 @@ cask 'dafont-aquila-cs' do
     url 'http://dl.dafont.com/dl/?f=aquila_cs'
     name 'Aquila Cs'
     homepage 'http://www.dafont.com/aquila-cs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aquila Cs.ttf'
 end

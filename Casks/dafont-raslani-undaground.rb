@@ -5,7 +5,6 @@ cask 'dafont-raslani-undaground' do
     url 'http://dl.dafont.com/dl/?f=raslani_undaground'
     name 'Raslani Undaground'
     homepage 'http://www.dafont.com/raslani-undaground.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raslani Undaground.ttf'
 end

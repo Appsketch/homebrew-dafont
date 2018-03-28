@@ -5,7 +5,6 @@ cask 'dafont-thirty-months-of-victory' do
     url 'http://dl.dafont.com/dl/?f=thirty_months_of_victory'
     name 'Thirty Months of Victory'
     homepage 'http://www.dafont.com/thirty-months-of-victory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THIRMV__.TTF'
 end

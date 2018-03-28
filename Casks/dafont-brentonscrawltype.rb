@@ -5,7 +5,6 @@ cask 'dafont-brentonscrawltype' do
     url 'http://dl.dafont.com/dl/?f=brentonscrawltype'
     name 'BrentonscrawlType'
     homepage 'http://www.dafont.com/brentonscrawltype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bwptype.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sandra-weknow' do
     url 'http://dl.dafont.com/dl/?f=sandra_weknow'
     name 'Sandra'
     homepage 'http://www.dafont.com/sandra-weknow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sandra.ttf'
 end

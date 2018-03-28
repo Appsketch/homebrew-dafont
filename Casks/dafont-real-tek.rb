@@ -5,7 +5,6 @@ cask 'dafont-real-tek' do
     url 'http://dl.dafont.com/dl/?f=real_tek'
     name 'Real Tek'
     homepage 'http://www.dafont.com/real-tek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Real_Tek.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-imacool' do
     url 'http://dl.dafont.com/dl/?f=imacool'
     name 'ImaCool'
     homepage 'http://www.dafont.com/imacool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ImaCool-Regular.ttf'
 end

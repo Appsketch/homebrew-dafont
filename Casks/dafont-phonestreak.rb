@@ -5,7 +5,6 @@ cask 'dafont-phonestreak' do
     url 'http://dl.dafont.com/dl/?f=phonestreak'
     name 'Phone Streak'
     homepage 'http://www.dafont.com/phonestreak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PhoneStreak.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fast-money' do
     url 'http://dl.dafont.com/dl/?f=fast_money'
     name 'Fast Money'
     homepage 'http://www.dafont.com/fast-money.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fast_money.ttf'
 end

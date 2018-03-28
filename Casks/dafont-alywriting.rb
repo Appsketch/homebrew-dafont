@@ -5,7 +5,6 @@ cask 'dafont-alywriting' do
     url 'http://dl.dafont.com/dl/?f=alywriting'
     name 'Alywriting'
     homepage 'http://www.dafont.com/alywriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alywriting.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cauterise' do
     url 'http://dl.dafont.com/dl/?f=cauterise'
     name 'Cauterise'
     homepage 'http://www.dafont.com/cauterise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cauterise.otf'
 end

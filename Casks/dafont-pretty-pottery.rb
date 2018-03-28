@@ -5,7 +5,6 @@ cask 'dafont-pretty-pottery' do
     url 'http://dl.dafont.com/dl/?f=pretty_pottery'
     name 'Pretty Pottery'
     homepage 'http://www.dafont.com/pretty-pottery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pots.TTF'
 end

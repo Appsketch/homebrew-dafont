@@ -5,7 +5,6 @@ cask 'dafont-one-percent' do
     url 'http://dl.dafont.com/dl/?f=one_percent'
     name 'One Percent'
     homepage 'http://www.dafont.com/one-percent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'one percent font.ttf'
 end

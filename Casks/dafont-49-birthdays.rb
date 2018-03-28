@@ -5,7 +5,6 @@ cask 'dafont-49-birthdays' do
     url 'http://dl.dafont.com/dl/?f=49_birthdays'
     name '49 birthdays'
     homepage 'http://www.dafont.com/49-birthdays.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '49 birthdays.ttf'
 end

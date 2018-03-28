@@ -5,7 +5,6 @@ cask 'dafont-urban-jungle' do
     url 'http://dl.dafont.com/dl/?f=urban_jungle'
     name 'Urban Jungle'
     homepage 'http://www.dafont.com/urban-jungle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UrbanJungleDEMO.otf'
 end

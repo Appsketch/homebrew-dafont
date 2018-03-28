@@ -5,7 +5,6 @@ cask 'dafont-cartoon-east' do
     url 'http://dl.dafont.com/dl/?f=cartoon_east'
     name 'Cartoon East'
     homepage 'http://www.dafont.com/cartoon-east.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cartoon East Outline.ttf'
     font 'Cartoon East.ttf'

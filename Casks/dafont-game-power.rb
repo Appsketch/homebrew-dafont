@@ -5,7 +5,6 @@ cask 'dafont-game-power' do
     url 'http://dl.dafont.com/dl/?f=game_power'
     name 'Game Power'
     homepage 'http://www.dafont.com/game-power.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'game_power.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-crazy-curlz' do
     url 'http://dl.dafont.com/dl/?f=crazy_curlz'
     name 'Crazy Curlz'
     homepage 'http://www.dafont.com/crazy-curlz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrazyCurlz.ttf'
 end

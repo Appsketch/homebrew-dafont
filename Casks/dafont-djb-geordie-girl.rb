@@ -5,7 +5,6 @@ cask 'dafont-djb-geordie-girl' do
     url 'http://dl.dafont.com/dl/?f=djb_geordie_girl'
     name 'Geordie Girl'
     homepage 'http://www.dafont.com/djb-geordie-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Geordie Girl.ttf'
 end

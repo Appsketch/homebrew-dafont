@@ -5,7 +5,6 @@ cask 'dafont-king-lion' do
     url 'http://dl.dafont.com/dl/?f=king_lion'
     name 'King Lion'
     homepage 'http://www.dafont.com/king-lion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'King Lion.ttf'
 end

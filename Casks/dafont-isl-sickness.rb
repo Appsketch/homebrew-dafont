@@ -5,7 +5,6 @@ cask 'dafont-isl-sickness' do
     url 'http://dl.dafont.com/dl/?f=isl_sickness'
     name 'ISL Sickness'
     homepage 'http://www.dafont.com/isl-sickness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sickness.ttf'
 end

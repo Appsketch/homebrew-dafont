@@ -5,7 +5,6 @@ cask 'dafont-velcro' do
     url 'http://dl.dafont.com/dl/?f=velcro'
     name 'Velcro'
     homepage 'http://www.dafont.com/velcro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VELCRO__.TTF'
 end

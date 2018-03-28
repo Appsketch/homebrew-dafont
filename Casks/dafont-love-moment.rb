@@ -5,7 +5,6 @@ cask 'dafont-love-moment' do
     url 'http://dl.dafont.com/dl/?f=love_moment'
     name 'Love Moment'
     homepage 'http://www.dafont.com/love-moment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Love Moment.otf'
 end

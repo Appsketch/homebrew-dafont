@@ -5,7 +5,6 @@ cask 'dafont-throwupz' do
     url 'http://dl.dafont.com/dl/?f=throwupz'
     name 'Throwupz'
     homepage 'http://www.dafont.com/throwupz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'throwupz.ttf'
 end

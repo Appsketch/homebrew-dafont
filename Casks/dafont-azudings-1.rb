@@ -5,7 +5,6 @@ cask 'dafont-azudings-1' do
     url 'http://dl.dafont.com/dl/?f=azudings_1'
     name 'Azudings 1'
     homepage 'http://www.dafont.com/azudings-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'azu1.ttf'
 end

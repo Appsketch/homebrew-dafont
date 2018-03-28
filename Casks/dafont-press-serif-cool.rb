@@ -5,7 +5,6 @@ cask 'dafont-press-serif-cool' do
     url 'http://dl.dafont.com/dl/?f=press_serif_cool'
     name 'Press Serif Cool'
     homepage 'http://www.dafont.com/press-serif-cool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Press Serif Cool.ttf'
 end

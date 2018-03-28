@@ -5,7 +5,6 @@ cask 'dafont-sail-away' do
     url 'http://dl.dafont.com/dl/?f=sail_away'
     name 'Sail Away'
     homepage 'http://www.dafont.com/sail-away.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SailAway.ttf'
 end

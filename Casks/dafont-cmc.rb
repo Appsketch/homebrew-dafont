@@ -5,7 +5,6 @@ cask 'dafont-cmc' do
     url 'http://dl.dafont.com/dl/?f=cmc'
     name 'CMC'
     homepage 'http://www.dafont.com/cmc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CMC.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-quadrata-preciosa' do
     url 'http://dl.dafont.com/dl/?f=quadrata_preciosa'
     name 'Quadrata Preciosa'
     homepage 'http://www.dafont.com/quadrata-preciosa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quadrata Preciosa Extended.ttf'
     font 'quadrata preciosa.ttf'

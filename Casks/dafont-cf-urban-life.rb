@@ -5,7 +5,6 @@ cask 'dafont-cf-urban-life' do
     url 'http://dl.dafont.com/dl/?f=cf_urban_life'
     name 'CF Urban Life'
     homepage 'http://www.dafont.com/cf-urban-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFUrbanLife-Regular.ttf'
 end

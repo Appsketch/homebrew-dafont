@@ -5,7 +5,6 @@ cask 'dafont-medicobats' do
     url 'http://dl.dafont.com/dl/?f=medicobats'
     name 'Medicobats'
     homepage 'http://www.dafont.com/medicobats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Medicobats.ttf'
 end

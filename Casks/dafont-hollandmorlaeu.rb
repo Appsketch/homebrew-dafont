@@ -5,7 +5,6 @@ cask 'dafont-hollandmorlaeu' do
     url 'http://dl.dafont.com/dl/?f=hollandmorlaeu'
     name 'Holland Morlaeu'
     homepage 'http://www.dafont.com/hollandmorlaeu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HollandMorlaeu.ttf'
 end

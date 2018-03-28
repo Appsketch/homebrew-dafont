@@ -5,7 +5,6 @@ cask 'dafont-strings-and-things' do
     url 'http://dl.dafont.com/dl/?f=strings_and_things'
     name 'Strings and Things'
     homepage 'http://www.dafont.com/strings-and-things.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strings and Things.ttf'
 end

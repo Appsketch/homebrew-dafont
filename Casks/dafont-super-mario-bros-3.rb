@@ -5,7 +5,6 @@ cask 'dafont-super-mario-bros-3' do
     url 'http://dl.dafont.com/dl/?f=super_mario_bros_3'
     name 'Super Mario Bros. 3'
     homepage 'http://www.dafont.com/super-mario-bros-3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Super-Mario-Bros--3.ttf'
 end

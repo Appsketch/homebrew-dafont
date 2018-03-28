@@ -5,7 +5,6 @@ cask 'dafont-ergono' do
     url 'http://dl.dafont.com/dl/?f=ergono'
     name 'Ergono'
     homepage 'http://www.dafont.com/ergono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ergono-Regular.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-alice' do
     url 'http://dl.dafont.com/dl/?f=alice'
     name 'Alice'
     homepage 'http://www.dafont.com/alice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alice.ttf'
 end

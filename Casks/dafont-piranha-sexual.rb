@@ -5,7 +5,6 @@ cask 'dafont-piranha-sexual' do
     url 'http://dl.dafont.com/dl/?f=piranha_sexual'
     name 'Piranha Sexual'
     homepage 'http://www.dafont.com/piranha-sexual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PiranhaSexual.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-downtown-elegance' do
     url 'http://dl.dafont.com/dl/?f=downtown_elegance'
     name 'Downtown Elegance'
     homepage 'http://www.dafont.com/downtown-elegance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Downtown Elegance Bold Italic.ttf'
     font 'Downtown Elegance Bold.ttf'

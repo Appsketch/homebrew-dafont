@@ -5,7 +5,6 @@ cask 'dafont-thicker-than' do
     url 'http://dl.dafont.com/dl/?f=thicker_than'
     name 'Thicker Than...'
     homepage 'http://www.dafont.com/thicker-than.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThickerThan.otf'
     font 'ThickerThanIta.otf'

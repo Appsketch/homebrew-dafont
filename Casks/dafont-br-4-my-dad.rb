@@ -5,7 +5,6 @@ cask 'dafont-br-4-my-dad' do
     url 'http://dl.dafont.com/dl/?f=br_4_my_dad'
     name 'BR 4 My Dad'
     homepage 'http://www.dafont.com/br-4-my-dad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'br_4mydad.ttf'
 end

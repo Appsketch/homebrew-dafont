@@ -5,7 +5,6 @@ cask 'dafont-whimsical-wilma' do
     url 'http://dl.dafont.com/dl/?f=whimsical_wilma'
     name 'Whimsical Wilma'
     homepage 'http://www.dafont.com/whimsical-wilma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Whimsical_Wilma.otf'
 end

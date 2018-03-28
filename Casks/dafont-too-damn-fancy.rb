@@ -5,7 +5,6 @@ cask 'dafont-too-damn-fancy' do
     url 'http://dl.dafont.com/dl/?f=too_damn_fancy'
     name 'Too Damn Fancy'
     homepage 'http://www.dafont.com/too-damn-fancy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Too Damn Fancy v1.2.ttf'
 end

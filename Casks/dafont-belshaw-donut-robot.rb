@@ -5,7 +5,6 @@ cask 'dafont-belshaw-donut-robot' do
     url 'http://dl.dafont.com/dl/?f=belshaw_donut_robot'
     name 'Belshaw Donut Robot'
     homepage 'http://www.dafont.com/belshaw-donut-robot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BelshawDonutRobot.ttf'
 end

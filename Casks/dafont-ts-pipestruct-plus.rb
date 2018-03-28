@@ -5,7 +5,6 @@ cask 'dafont-ts-pipestruct-plus' do
     url 'http://dl.dafont.com/dl/?f=ts_pipestruct_plus'
     name 'TS PipeStruct Plus'
     homepage 'http://www.dafont.com/ts-pipestruct-plus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ts_pipestruct_plus.ttf'
 end

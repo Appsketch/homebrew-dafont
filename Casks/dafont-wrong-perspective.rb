@@ -5,7 +5,6 @@ cask 'dafont-wrong-perspective' do
     url 'http://dl.dafont.com/dl/?f=wrong_perspective'
     name 'Wrong Perspective'
     homepage 'http://www.dafont.com/wrong-perspective.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wrong Perspective.ttf'
 end

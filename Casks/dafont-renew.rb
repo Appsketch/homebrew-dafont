@@ -5,7 +5,6 @@ cask 'dafont-renew' do
     url 'http://dl.dafont.com/dl/?f=renew'
     name 'Renew'
     homepage 'http://www.dafont.com/renew.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'renew.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-meltdowns' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_meltdowns'
     name 'AlphaShapes meltdowns'
     homepage 'http://www.dafont.com/alphashapes-meltdowns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asmeltdowns.ttf'
     font 'asmeltdownsreverse.ttf'

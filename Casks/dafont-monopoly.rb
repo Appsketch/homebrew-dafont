@@ -5,7 +5,6 @@ cask 'dafont-monopoly' do
     url 'http://dl.dafont.com/dl/?f=monopoly'
     name 'Monopoly'
     homepage 'http://www.dafont.com/monopoly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monopoly Bold.ttf'
     font 'Monopoly Regular.ttf'

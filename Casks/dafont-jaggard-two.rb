@@ -5,7 +5,6 @@ cask 'dafont-jaggard-two' do
     url 'http://dl.dafont.com/dl/?f=jaggard_two'
     name 'Jaggard Two'
     homepage 'http://www.dafont.com/jaggard-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jaggard Two.ttf'
 end

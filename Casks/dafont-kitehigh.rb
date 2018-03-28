@@ -5,7 +5,6 @@ cask 'dafont-kitehigh' do
     url 'http://dl.dafont.com/dl/?f=kitehigh'
     name 'Kite High'
     homepage 'http://www.dafont.com/kitehigh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KiteHigh.ttf'
 end

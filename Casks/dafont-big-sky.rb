@@ -5,7 +5,6 @@ cask 'dafont-big-sky' do
     url 'http://dl.dafont.com/dl/?f=big_sky'
     name 'Big Sky'
     homepage 'http://www.dafont.com/big-sky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigSky.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-norules' do
     url 'http://dl.dafont.com/dl/?f=norules'
     name 'NoRules'
     homepage 'http://www.dafont.com/norules.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NoRules.ttf'
 end

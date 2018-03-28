@@ -5,7 +5,6 @@ cask 'dafont-intellectabodoned-beveled' do
     url 'http://dl.dafont.com/dl/?f=intellectabodoned_beveled'
     name 'Intellecta Bodoned Beveled'
     homepage 'http://www.dafont.com/intellectabodoned-beveled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IntellectaBodoned Beveled.ttf'
 end

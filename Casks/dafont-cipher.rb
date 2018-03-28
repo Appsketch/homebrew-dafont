@@ -5,7 +5,6 @@ cask 'dafont-cipher' do
     url 'http://dl.dafont.com/dl/?f=cipher'
     name 'Cipher'
     homepage 'http://www.dafont.com/cipher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cipher__.ttf'
 end

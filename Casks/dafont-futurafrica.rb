@@ -5,7 +5,6 @@ cask 'dafont-futurafrica' do
     url 'http://dl.dafont.com/dl/?f=futurafrica'
     name 'Futurafrica'
     homepage 'http://www.dafont.com/futurafrica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Futurafrica.ttf'
 end

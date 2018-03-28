@@ -5,7 +5,6 @@ cask 'dafont-3x3-font-for-nerds' do
     url 'http://dl.dafont.com/dl/?f=3x3_font_for_nerds'
     name '3x3 Font for Nerds'
     homepage 'http://www.dafont.com/3x3-font-for-nerds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '3x3_font_for_nerds.ttf'
 end

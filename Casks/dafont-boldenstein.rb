@@ -5,7 +5,6 @@ cask 'dafont-boldenstein' do
     url 'http://dl.dafont.com/dl/?f=boldenstein'
     name 'Boldenstein'
     homepage 'http://www.dafont.com/boldenstein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boldenstein BLACK.ttf'
     font 'Boldenstein SOLID.ttf'

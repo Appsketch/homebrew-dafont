@@ -5,7 +5,6 @@ cask 'dafont-amelia-pond' do
     url 'http://dl.dafont.com/dl/?f=amelia_pond'
     name 'Amelia Pond'
     homepage 'http://www.dafont.com/amelia-pond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AMELIA POND.ttf'
 end

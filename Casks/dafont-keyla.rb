@@ -5,7 +5,6 @@ cask 'dafont-keyla' do
     url 'http://dl.dafont.com/dl/?f=keyla'
     name 'Keyla'
     homepage 'http://www.dafont.com/keyla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Keyla bold.ttf'
     font 'Keyla.otf'

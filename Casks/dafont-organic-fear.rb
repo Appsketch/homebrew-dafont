@@ -5,7 +5,6 @@ cask 'dafont-organic-fear' do
     url 'http://dl.dafont.com/dl/?f=organic_fear'
     name 'Organic Fear'
     homepage 'http://www.dafont.com/organic-fear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Organic Fear.otf'
 end

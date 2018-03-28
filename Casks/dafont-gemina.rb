@@ -5,7 +5,6 @@ cask 'dafont-gemina' do
     url 'http://dl.dafont.com/dl/?f=gemina'
     name 'Gemina'
     homepage 'http://www.dafont.com/gemina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gemina.ttf'
     font 'gemina3d.ttf'

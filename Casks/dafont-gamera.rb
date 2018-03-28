@@ -5,7 +5,6 @@ cask 'dafont-gamera' do
     url 'http://dl.dafont.com/dl/?f=gamera'
     name 'Gamera'
     homepage 'http://www.dafont.com/gamera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GAMERA__.TTF'
 end

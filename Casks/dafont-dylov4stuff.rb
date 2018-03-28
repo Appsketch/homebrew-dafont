@@ -5,7 +5,6 @@ cask 'dafont-dylov4stuff' do
     url 'http://dl.dafont.com/dl/?f=dylov4stuff'
     name 'Dylov4stuff'
     homepage 'http://www.dafont.com/dylov4stuff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DYLOV4STUFF.ttf'
 end

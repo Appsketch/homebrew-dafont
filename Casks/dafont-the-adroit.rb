@@ -5,7 +5,6 @@ cask 'dafont-the-adroit' do
     url 'http://dl.dafont.com/dl/?f=the_adroit'
     name 'The Adroit'
     homepage 'http://www.dafont.com/the-adroit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rebbiya.ttf'
 end

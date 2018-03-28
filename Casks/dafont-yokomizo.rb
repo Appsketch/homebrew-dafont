@@ -5,7 +5,6 @@ cask 'dafont-yokomizo' do
     url 'http://dl.dafont.com/dl/?f=yokomizo'
     name 'Yokomizo'
     homepage 'http://www.dafont.com/yokomizo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yokomizo.ttf'
 end

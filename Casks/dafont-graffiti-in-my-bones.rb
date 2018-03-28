@@ -5,7 +5,6 @@ cask 'dafont-graffiti-in-my-bones' do
     url 'http://dl.dafont.com/dl/?f=graffiti_in_my_bones'
     name 'Graffiti in my Bones'
     homepage 'http://www.dafont.com/graffiti-in-my-bones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Graffiti_in_my_Bones.ttf'
 end

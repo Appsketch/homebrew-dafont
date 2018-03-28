@@ -5,7 +5,6 @@ cask 'dafont-trubik77' do
     url 'http://dl.dafont.com/dl/?f=trubik77'
     name 'Trubik 77'
     homepage 'http://www.dafont.com/trubik77.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trubik77.ttf'
 end

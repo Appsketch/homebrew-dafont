@@ -5,7 +5,6 @@ cask 'dafont-fenrir-runic' do
     url 'http://dl.dafont.com/dl/?f=fenrir_runic'
     name 'Fenrir Runic'
     homepage 'http://www.dafont.com/fenrir-runic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FenrirRunic.ttf'
 end

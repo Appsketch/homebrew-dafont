@@ -5,7 +5,6 @@ cask 'dafont-wireframe-weknow' do
     url 'http://dl.dafont.com/dl/?f=wireframe_weknow'
     name 'Wireframe'
     homepage 'http://www.dafont.com/wireframe-weknow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wireframe.ttf'
 end

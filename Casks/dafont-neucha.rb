@@ -5,7 +5,6 @@ cask 'dafont-neucha' do
     url 'http://dl.dafont.com/dl/?f=neucha'
     name 'Neucha'
     homepage 'http://www.dafont.com/neucha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'neucha.otf'
 end

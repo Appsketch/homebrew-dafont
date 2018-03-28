@@ -5,7 +5,6 @@ cask 'dafont-cartoons-abstract' do
     url 'http://dl.dafont.com/dl/?f=cartoons_abstract'
     name 'Cartoons Abstract'
     homepage 'http://www.dafont.com/cartoons-abstract.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cartoons Abstract.otf'
 end

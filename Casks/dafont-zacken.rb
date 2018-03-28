@@ -5,7 +5,6 @@ cask 'dafont-zacken' do
     url 'http://dl.dafont.com/dl/?f=zacken'
     name 'Zacken'
     homepage 'http://www.dafont.com/zacken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zacken Normal.ttf'
 end

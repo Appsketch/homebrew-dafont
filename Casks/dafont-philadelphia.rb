@@ -5,7 +5,6 @@ cask 'dafont-philadelphia' do
     url 'http://dl.dafont.com/dl/?f=philadelphia'
     name 'Philadelphia'
     homepage 'http://www.dafont.com/philadelphia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'philadelphia.ttf'
     font 'philadelphia3d.ttf'

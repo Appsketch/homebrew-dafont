@@ -5,7 +5,6 @@ cask 'dafont-scar-bleed' do
     url 'http://dl.dafont.com/dl/?f=scar_bleed'
     name 'Scar Bleed'
     homepage 'http://www.dafont.com/scar-bleed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scar Bleed.ttf'
 end

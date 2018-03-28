@@ -5,7 +5,6 @@ cask 'dafont-deat-deat' do
     url 'http://dl.dafont.com/dl/?f=deat_deat'
     name 'Deat+Deat'
     homepage 'http://www.dafont.com/deat-deat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEAT+DEAT.ttf'
 end

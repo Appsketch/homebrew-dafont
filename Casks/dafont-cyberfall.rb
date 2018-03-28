@@ -5,7 +5,6 @@ cask 'dafont-cyberfall' do
     url 'http://dl.dafont.com/dl/?f=cyberfall'
     name 'Cyberfall'
     homepage 'http://www.dafont.com/cyberfall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cyberfall Italic.otf'
     font 'Cyberfall.otf'

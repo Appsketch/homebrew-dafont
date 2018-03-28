@@ -5,7 +5,6 @@ cask 'dafont-kaus-tripa' do
     url 'http://dl.dafont.com/dl/?f=kaus_tripa'
     name 'Kaus Tripa'
     homepage 'http://www.dafont.com/kaus-tripa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fonte_Kaus.ttf'
 end

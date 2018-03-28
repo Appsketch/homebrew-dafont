@@ -5,7 +5,6 @@ cask 'dafont-krugovis' do
     url 'http://dl.dafont.com/dl/?f=krugovis'
     name 'Krugovis'
     homepage 'http://www.dafont.com/krugovis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Krugovi-Regular.ttf'
     font 'Krugovis-Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-grundy' do
     url 'http://dl.dafont.com/dl/?f=grundy'
     name 'Grundy'
     homepage 'http://www.dafont.com/grundy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grundy.ttf'
 end

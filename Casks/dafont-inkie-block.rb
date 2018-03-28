@@ -5,7 +5,6 @@ cask 'dafont-inkie-block' do
     url 'http://dl.dafont.com/dl/?f=inkie_block'
     name 'Inkie Block'
     homepage 'http://www.dafont.com/inkie-block.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InkieBlock-Regular.ttf'
 end

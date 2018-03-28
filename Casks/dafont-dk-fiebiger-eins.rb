@@ -5,7 +5,6 @@ cask 'dafont-dk-fiebiger-eins' do
     url 'http://dl.dafont.com/dl/?f=dk_fiebiger_eins'
     name 'DK Fiebiger Eins'
     homepage 'http://www.dafont.com/dk-fiebiger-eins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Fiebiger Eins.otf'
 end

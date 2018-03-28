@@ -5,7 +5,6 @@ cask 'dafont-bodoflo' do
     url 'http://dl.dafont.com/dl/?f=bodoflo'
     name 'BodoFlo'
     homepage 'http://www.dafont.com/bodoflo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BodoFlo 1.2 - FREE FOR PERSONAL USE ONLY.ttf'
 end

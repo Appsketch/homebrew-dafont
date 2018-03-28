@@ -5,7 +5,6 @@ cask 'dafont-pwbrusheez' do
     url 'http://dl.dafont.com/dl/?f=pwbrusheez'
     name 'PW Brusheez'
     homepage 'http://www.dafont.com/pwbrusheez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWBrusheez.ttf'
 end

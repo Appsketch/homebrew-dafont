@@ -5,7 +5,6 @@ cask 'dafont-underwood1913' do
     url 'http://dl.dafont.com/dl/?f=underwood1913'
     name 'Underwood 1913'
     homepage 'http://www.dafont.com/underwood1913.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Underwood_Etendu_1913.TTF'
 end

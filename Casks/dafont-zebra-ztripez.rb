@@ -5,7 +5,6 @@ cask 'dafont-zebra-ztripez' do
     url 'http://dl.dafont.com/dl/?f=zebra_ztripez'
     name 'Zebra Ztripez'
     homepage 'http://www.dafont.com/zebra-ztripez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zebra-Ztripez.ttf'
 end

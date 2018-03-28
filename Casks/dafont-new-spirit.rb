@@ -5,7 +5,6 @@ cask 'dafont-new-spirit' do
     url 'http://dl.dafont.com/dl/?f=new_spirit'
     name 'New Spirit'
     homepage 'http://www.dafont.com/new-spirit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New Spirit.otf'
 end

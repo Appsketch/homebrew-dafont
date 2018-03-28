@@ -5,7 +5,6 @@ cask 'dafont-i-did-it-my-way' do
     url 'http://dl.dafont.com/dl/?f=i_did_it_my_way'
     name 'I Did It My Way'
     homepage 'http://www.dafont.com/i-did-it-my-way.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I Did It My Way.ttf'
 end

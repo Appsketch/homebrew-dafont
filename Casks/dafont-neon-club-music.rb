@@ -5,7 +5,6 @@ cask 'dafont-neon-club-music' do
     url 'http://dl.dafont.com/dl/?f=neon_club_music'
     name 'Neon Club Music'
     homepage 'http://www.dafont.com/neon-club-music.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEON CLUB MUSIC_bold.otf'
     font 'NEON CLUB MUSIC_italic.otf'

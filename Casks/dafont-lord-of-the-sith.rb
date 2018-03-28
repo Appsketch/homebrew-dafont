@@ -5,7 +5,6 @@ cask 'dafont-lord-of-the-sith' do
     url 'http://dl.dafont.com/dl/?f=lord_of_the_sith'
     name 'Lord of the Sith'
     homepage 'http://www.dafont.com/lord-of-the-sith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lordsith3.ttf'
     font 'lordsith33d.ttf'

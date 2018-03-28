@@ -5,7 +5,6 @@ cask 'dafont-universedge' do
     url 'http://dl.dafont.com/dl/?f=universedge'
     name 'Universedge'
     homepage 'http://www.dafont.com/universedge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Universedge.ttf'
 end

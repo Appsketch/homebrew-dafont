@@ -5,7 +5,6 @@ cask 'dafont-amandarae' do
     url 'http://dl.dafont.com/dl/?f=amandarae'
     name 'Amanda Rae'
     homepage 'http://www.dafont.com/amandarae.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'amandarae.ttf'
 end

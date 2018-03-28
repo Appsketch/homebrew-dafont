@@ -5,7 +5,6 @@ cask 'dafont-ribbon-in-the-sky' do
     url 'http://dl.dafont.com/dl/?f=ribbon_in_the_sky'
     name 'Ribbon in the Sky'
     homepage 'http://www.dafont.com/ribbon-in-the-sky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ribbon in the Sky.ttf'
 end

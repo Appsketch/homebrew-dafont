@@ -5,7 +5,6 @@ cask 'dafont-plump' do
     url 'http://dl.dafont.com/dl/?f=plump'
     name 'Plump'
     homepage 'http://www.dafont.com/plump.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plump.ttf'
 end

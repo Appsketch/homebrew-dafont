@@ -5,7 +5,6 @@ cask 'dafont-vtks-good-luck-for-you' do
     url 'http://dl.dafont.com/dl/?f=vtks_good_luck_for_you'
     name 'Vtks Good Luck for You'
     homepage 'http://www.dafont.com/vtks-good-luck-for-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks good luck for you.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-franks' do
     url 'http://dl.dafont.com/dl/?f=franks'
     name 'Franks'
     homepage 'http://www.dafont.com/franks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Franks-Regular.otf'
 end

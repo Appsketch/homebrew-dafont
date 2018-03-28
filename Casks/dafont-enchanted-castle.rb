@@ -5,7 +5,6 @@ cask 'dafont-enchanted-castle' do
     url 'http://dl.dafont.com/dl/?f=enchanted_castle'
     name 'Enchanted Castle'
     homepage 'http://www.dafont.com/enchanted-castle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Enchanted Castle.ttf'
 end

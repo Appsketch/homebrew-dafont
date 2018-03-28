@@ -5,7 +5,6 @@ cask 'dafont-zebradisco' do
     url 'http://dl.dafont.com/dl/?f=zebradisco'
     name 'Zebra Disco'
     homepage 'http://www.dafont.com/zebradisco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZebraDisco.ttf'
 end

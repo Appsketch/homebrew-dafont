@@ -5,7 +5,6 @@ cask 'dafont-doodledings-2-retroflowers' do
     url 'http://dl.dafont.com/dl/?f=doodledings_2_retroflowers'
     name 'Doodle Dings 2 Retro Flowers'
     homepage 'http://www.dafont.com/doodledings-2-retroflowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DoodleDings 2 RetroFlowers.ttf'
 end

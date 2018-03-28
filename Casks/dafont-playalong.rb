@@ -5,7 +5,6 @@ cask 'dafont-playalong' do
     url 'http://dl.dafont.com/dl/?f=playalong'
     name 'Play Along'
     homepage 'http://www.dafont.com/playalong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PlayAlong.ttf'
 end

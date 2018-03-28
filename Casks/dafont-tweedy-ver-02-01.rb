@@ -5,7 +5,6 @@ cask 'dafont-tweedy-ver-02-01' do
     url 'http://dl.dafont.com/dl/?f=tweedy_ver_02_01'
     name 'Tweedy Ver.02.01'
     homepage 'http://www.dafont.com/tweedy-ver-02-01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tweedy_ver02_11_2010_thunderpanda.ttf'
     font 'Tweedy_ver02_22_2010_thunderpanda.ttf'

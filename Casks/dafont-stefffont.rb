@@ -5,7 +5,6 @@ cask 'dafont-stefffont' do
     url 'http://dl.dafont.com/dl/?f=stefffont'
     name 'Stefffont'
     homepage 'http://www.dafont.com/stefffont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StefffontSetA.otf'
     font 'StefffontSetB.otf'

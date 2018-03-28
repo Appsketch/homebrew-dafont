@@ -5,7 +5,6 @@ cask 'dafont-neue-rudelskopf' do
     url 'http://dl.dafont.com/dl/?f=neue_rudelskopf'
     name 'Neue Rudelskopf'
     homepage 'http://www.dafont.com/neue-rudelskopf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neue Rudelskopf Stark Schraeg.ttf'
     font 'Neue Rudelskopf Stark.ttf'

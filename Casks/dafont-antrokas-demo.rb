@@ -5,7 +5,6 @@ cask 'dafont-antrokas-demo' do
     url 'http://dl.dafont.com/dl/?f=antrokas_demo'
     name 'Antrokas'
     homepage 'http://www.dafont.com/antrokas-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'antrokas_demo.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-globtastic' do
     url 'http://dl.dafont.com/dl/?f=globtastic'
     name 'Globtastic'
     homepage 'http://www.dafont.com/globtastic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Globtastic.ttf'
 end

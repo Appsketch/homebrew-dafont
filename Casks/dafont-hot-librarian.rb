@@ -5,7 +5,6 @@ cask 'dafont-hot-librarian' do
     url 'http://dl.dafont.com/dl/?f=hot_librarian'
     name 'Hot Librarian'
     homepage 'http://www.dafont.com/hot-librarian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HotLibrarian.ttf'
 end

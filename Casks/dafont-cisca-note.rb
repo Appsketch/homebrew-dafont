@@ -5,7 +5,6 @@ cask 'dafont-cisca-note' do
     url 'http://dl.dafont.com/dl/?f=cisca_note'
     name 'Cisca Note'
     homepage 'http://www.dafont.com/cisca-note.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cisca Note light.ttf'
     font 'Cisca Note regular.ttf'

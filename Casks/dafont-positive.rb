@@ -5,7 +5,6 @@ cask 'dafont-positive' do
     url 'http://dl.dafont.com/dl/?f=positive'
     name 'Positive'
     homepage 'http://www.dafont.com/positive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Positive.ttf'
 end

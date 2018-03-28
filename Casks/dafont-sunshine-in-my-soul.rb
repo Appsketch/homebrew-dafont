@@ -5,7 +5,6 @@ cask 'dafont-sunshine-in-my-soul' do
     url 'http://dl.dafont.com/dl/?f=sunshine_in_my_soul'
     name 'Sunshine In My Soul'
     homepage 'http://www.dafont.com/sunshine-in-my-soul.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sunshine in my Soul.ttf'
 end

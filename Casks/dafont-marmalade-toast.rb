@@ -5,7 +5,6 @@ cask 'dafont-marmalade-toast' do
     url 'http://dl.dafont.com/dl/?f=marmalade_toast'
     name 'Marmalade Toast'
     homepage 'http://www.dafont.com/marmalade-toast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marmalade Toast.ttf'
 end

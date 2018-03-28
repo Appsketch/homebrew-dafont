@@ -5,7 +5,6 @@ cask 'dafont-hand-of-joe' do
     url 'http://dl.dafont.com/dl/?f=hand_of_joe'
     name 'Hand of Joe'
     homepage 'http://www.dafont.com/hand-of-joe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hand of Joe.ttf'
 end

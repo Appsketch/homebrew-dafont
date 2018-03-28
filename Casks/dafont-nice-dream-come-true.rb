@@ -5,7 +5,6 @@ cask 'dafont-nice-dream-come-true' do
     url 'http://dl.dafont.com/dl/?f=nice_dream_come_true'
     name 'Nice Dream Come True'
     homepage 'http://www.dafont.com/nice-dream-come-true.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nice Dream Come True.ttf'
 end

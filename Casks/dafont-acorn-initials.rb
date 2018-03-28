@@ -5,7 +5,6 @@ cask 'dafont-acorn-initials' do
     url 'http://dl.dafont.com/dl/?f=acorn_initials'
     name 'Acorn Initials'
     homepage 'http://www.dafont.com/acorn-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'acorninitials.TTF'
 end

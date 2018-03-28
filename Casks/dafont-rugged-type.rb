@@ -5,7 +5,6 @@ cask 'dafont-rugged-type' do
     url 'http://dl.dafont.com/dl/?f=rugged_type'
     name 'Rugged Type'
     homepage 'http://www.dafont.com/rugged-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rugged type.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-i-love-grunge' do
     url 'http://dl.dafont.com/dl/?f=i_love_grunge'
     name 'I love Grunge'
     homepage 'http://www.dafont.com/i-love-grunge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'i_love_grunge.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-booklet-cordel' do
     url 'http://dl.dafont.com/dl/?f=booklet_cordel'
     name 'Booklet Cordel'
     homepage 'http://www.dafont.com/booklet-cordel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Booklet Cordel.ttf'
 end

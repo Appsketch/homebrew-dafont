@@ -5,7 +5,6 @@ cask 'dafont-aaaiight' do
     url 'http://dl.dafont.com/dl/?f=aaaiight'
     name 'Aaaiight!'
     homepage 'http://www.dafont.com/aaaiight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aaaiight-fat.ttf'
     font 'aaaiight.ttf'

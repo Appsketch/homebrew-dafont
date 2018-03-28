@@ -5,7 +5,6 @@ cask 'dafont-robin' do
     url 'http://dl.dafont.com/dl/?f=robin'
     name 'Robin'
     homepage 'http://www.dafont.com/robin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Robin.ttf'
 end

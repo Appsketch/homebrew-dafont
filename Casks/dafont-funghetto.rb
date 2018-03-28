@@ -5,7 +5,6 @@ cask 'dafont-funghetto' do
     url 'http://dl.dafont.com/dl/?f=funghetto'
     name 'FunGhetto'
     homepage 'http://www.dafont.com/funghetto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FunGhetto Trial.ttf'
 end

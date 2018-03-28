@@ -5,7 +5,6 @@ cask 'dafont-monommm-5' do
     url 'http://dl.dafont.com/dl/?f=monommm_5'
     name 'Mono MMM 5'
     homepage 'http://www.dafont.com/monommm-5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monoMMM_5.ttf'
 end

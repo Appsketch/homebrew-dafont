@@ -5,7 +5,6 @@ cask 'dafont-kerater' do
     url 'http://dl.dafont.com/dl/?f=kerater'
     name 'Kerater'
     homepage 'http://www.dafont.com/kerater.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NoLicense_KeraterBlack.ttf'
     font 'NoLicense_KeraterMedium.ttf'

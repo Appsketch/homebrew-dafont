@@ -5,7 +5,6 @@ cask 'dafont-84-rock' do
     url 'http://dl.dafont.com/dl/?f=84_rock'
     name '84 Rock!'
     homepage 'http://www.dafont.com/84-rock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '84_rock.ttf'
 end

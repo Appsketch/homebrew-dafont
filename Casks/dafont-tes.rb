@@ -5,7 +5,6 @@ cask 'dafont-tes' do
     url 'http://dl.dafont.com/dl/?f=tes'
     name 'Tes'
     homepage 'http://www.dafont.com/tes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tes_bold-&copy;.ttf'
     font 'tes_ultrablack.ttf'

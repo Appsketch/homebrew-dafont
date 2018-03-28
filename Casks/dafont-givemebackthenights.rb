@@ -5,7 +5,6 @@ cask 'dafont-givemebackthenights' do
     url 'http://dl.dafont.com/dl/?f=givemebackthenights'
     name 'Give Me Back The Nights'
     homepage 'http://www.dafont.com/givemebackthenights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GiveMeBackTheNights.ttf'
 end

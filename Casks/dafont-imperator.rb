@@ -5,7 +5,6 @@ cask 'dafont-imperator' do
     url 'http://dl.dafont.com/dl/?f=imperator'
     name 'Imperator'
     homepage 'http://www.dafont.com/imperator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Imperator Bold.ttf'
     font 'Imperator.ttf'

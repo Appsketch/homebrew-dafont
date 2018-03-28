@@ -5,7 +5,6 @@ cask 'dafont-tigertails' do
     url 'http://dl.dafont.com/dl/?f=tigertails'
     name 'Tiger Tails'
     homepage 'http://www.dafont.com/tigertails.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TigerTails.ttf'
 end

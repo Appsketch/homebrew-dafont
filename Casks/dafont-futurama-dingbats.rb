@@ -5,7 +5,6 @@ cask 'dafont-futurama-dingbats' do
     url 'http://dl.dafont.com/dl/?f=futurama_dingbats'
     name 'Futurama Dingbats'
     homepage 'http://www.dafont.com/futurama-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'futurama characters.ttf'
 end

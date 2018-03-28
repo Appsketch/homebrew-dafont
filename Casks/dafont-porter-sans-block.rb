@@ -5,7 +5,6 @@ cask 'dafont-porter-sans-block' do
     url 'http://dl.dafont.com/dl/?f=porter_sans_block'
     name 'Porter Sans Block'
     homepage 'http://www.dafont.com/porter-sans-block.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'porter-sans-inline-block.ttf'
 end

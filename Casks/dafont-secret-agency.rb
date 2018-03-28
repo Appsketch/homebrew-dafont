@@ -5,7 +5,6 @@ cask 'dafont-secret-agency' do
     url 'http://dl.dafont.com/dl/?f=secret_agency'
     name 'Secret Agency'
     homepage 'http://www.dafont.com/secret-agency.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Secret Agency.ttf'
 end

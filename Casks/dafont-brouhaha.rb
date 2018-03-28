@@ -5,7 +5,6 @@ cask 'dafont-brouhaha' do
     url 'http://dl.dafont.com/dl/?f=brouhaha'
     name 'Brouhaha'
     homepage 'http://www.dafont.com/brouhaha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brouhaha_one.ttf'
     font 'brouhaha_two.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-evil-dead-ii-uk' do
     url 'http://dl.dafont.com/dl/?f=evil_dead_ii_uk'
     name 'Evil Dead II UK'
     homepage 'http://www.dafont.com/evil-dead-ii-uk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeadbdK_.ttf'
 end

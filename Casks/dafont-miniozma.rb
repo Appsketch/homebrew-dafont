@@ -5,7 +5,6 @@ cask 'dafont-miniozma' do
     url 'http://dl.dafont.com/dl/?f=miniozma'
     name 'Miniozma'
     homepage 'http://www.dafont.com/miniozma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miniozma.ttf'
 end

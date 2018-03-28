@@ -5,7 +5,6 @@ cask 'dafont-peep' do
     url 'http://dl.dafont.com/dl/?f=peep'
     name 'Peep'
     homepage 'http://www.dafont.com/peep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peep.ttf'
 end

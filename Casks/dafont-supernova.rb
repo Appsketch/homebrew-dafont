@@ -5,7 +5,6 @@ cask 'dafont-supernova' do
     url 'http://dl.dafont.com/dl/?f=supernova'
     name 'Supernova'
     homepage 'http://www.dafont.com/supernova.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Supernova.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-be-happy' do
     url 'http://dl.dafont.com/dl/?f=be_happy'
     name 'Be Happy'
     homepage 'http://www.dafont.com/be-happy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeHappy.otf'
 end

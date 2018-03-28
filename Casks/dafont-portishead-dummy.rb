@@ -5,7 +5,6 @@ cask 'dafont-portishead-dummy' do
     url 'http://dl.dafont.com/dl/?f=portishead_dummy'
     name 'Portishead Dummy'
     homepage 'http://www.dafont.com/portishead-dummy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'portd___.ttf'
 end

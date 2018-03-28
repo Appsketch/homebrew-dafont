@@ -5,7 +5,6 @@ cask 'dafont-into-the-wild' do
     url 'http://dl.dafont.com/dl/?f=into_the_wild'
     name 'Into the Wild'
     homepage 'http://www.dafont.com/into-the-wild.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Into the Wild Demo Version.ttf'
 end

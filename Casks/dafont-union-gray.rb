@@ -5,7 +5,6 @@ cask 'dafont-union-gray' do
     url 'http://dl.dafont.com/dl/?f=union_gray'
     name 'Union Gray'
     homepage 'http://www.dafont.com/union-gray.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'uniongray.ttf'
     font 'uniongray3d.ttf'

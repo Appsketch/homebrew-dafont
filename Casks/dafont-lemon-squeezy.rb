@@ -5,7 +5,6 @@ cask 'dafont-lemon-squeezy' do
     url 'http://dl.dafont.com/dl/?f=lemon_squeezy'
     name 'Lemon Squeezy'
     homepage 'http://www.dafont.com/lemon-squeezy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lemon squeezy .ttf'
 end

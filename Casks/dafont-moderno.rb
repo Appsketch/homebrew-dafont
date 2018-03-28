@@ -5,7 +5,6 @@ cask 'dafont-moderno' do
     url 'http://dl.dafont.com/dl/?f=moderno'
     name 'Moderno'
     homepage 'http://www.dafont.com/moderno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MODEO___.TTF'
     font 'MODERNO_.TTF'

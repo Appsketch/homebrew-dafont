@@ -5,7 +5,6 @@ cask 'dafont-vtks-sabado-de-chuva' do
     url 'http://dl.dafont.com/dl/?f=vtks_sabado_de_chuva'
     name 'Vtks S&aacute;bado de Chuva'
     homepage 'http://www.dafont.com/vtks-sabado-de-chuva.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks s&nbsp;bado de chuva.ttf'
 end

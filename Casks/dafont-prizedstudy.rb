@@ -5,7 +5,6 @@ cask 'dafont-prizedstudy' do
     url 'http://dl.dafont.com/dl/?f=prizedstudy'
     name 'Prized Study'
     homepage 'http://www.dafont.com/prizedstudy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrizedStudy.ttf'
 end

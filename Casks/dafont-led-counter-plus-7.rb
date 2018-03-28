@@ -5,7 +5,6 @@ cask 'dafont-led-counter-plus-7' do
     url 'http://dl.dafont.com/dl/?f=led_counter_plus_7'
     name 'LED Counter Plus 7'
     homepage 'http://www.dafont.com/led-counter-plus-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'led_counter_plus_7_italic.ttf'
     font 'led_counter_plus_7.ttf'

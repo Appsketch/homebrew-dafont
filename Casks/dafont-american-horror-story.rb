@@ -5,7 +5,6 @@ cask 'dafont-american-horror-story' do
     url 'http://dl.dafont.com/dl/?f=american_horror_story'
     name 'American Horror Story'
     homepage 'http://www.dafont.com/american-horror-story.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AMERICAN_HORROR_STORY%281%29.ttf'
 end

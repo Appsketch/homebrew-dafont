@@ -5,7 +5,6 @@ cask 'dafont-duase-light-display' do
     url 'http://dl.dafont.com/dl/?f=duase_light_display'
     name 'Duase Light Display'
     homepage 'http://www.dafont.com/duase-light-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Duase-LightDisplay.otf'
 end

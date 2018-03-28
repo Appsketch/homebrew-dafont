@@ -5,7 +5,6 @@ cask 'dafont-chaillot' do
     url 'http://dl.dafont.com/dl/?f=chaillot'
     name 'Chaillot'
     homepage 'http://www.dafont.com/chaillot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chaillot.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gourdie-cursive' do
     url 'http://dl.dafont.com/dl/?f=gourdie_cursive'
     name 'Gourdie Cursive'
     homepage 'http://www.dafont.com/gourdie-cursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GCursiv2.ttf'
     font 'GCursive.ttf'

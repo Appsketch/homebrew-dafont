@@ -5,7 +5,6 @@ cask 'dafont-cirus-quamtum-solace' do
     url 'http://dl.dafont.com/dl/?f=cirus_quamtum_solace'
     name 'Cirus Quamtum Solace'
     homepage 'http://www.dafont.com/cirus-quamtum-solace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cirus Qamtum Solace.ttf'
 end

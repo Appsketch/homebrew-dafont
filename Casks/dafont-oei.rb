@@ -5,7 +5,6 @@ cask 'dafont-oei' do
     url 'http://dl.dafont.com/dl/?f=oei'
     name 'Oei'
     homepage 'http://www.dafont.com/oei.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oei.ttf'
 end

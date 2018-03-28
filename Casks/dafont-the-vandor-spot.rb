@@ -5,7 +5,6 @@ cask 'dafont-the-vandor-spot' do
     url 'http://dl.dafont.com/dl/?f=the_vandor_spot'
     name 'The Vandor Spot'
     homepage 'http://www.dafont.com/the-vandor-spot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the_vandor_spot.ttf'
 end

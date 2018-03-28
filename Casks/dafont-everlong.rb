@@ -5,7 +5,6 @@ cask 'dafont-everlong' do
     url 'http://dl.dafont.com/dl/?f=everlong'
     name 'Everlong'
     homepage 'http://www.dafont.com/everlong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Everlong 2.0.otf'
 end

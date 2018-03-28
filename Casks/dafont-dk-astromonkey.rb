@@ -5,7 +5,6 @@ cask 'dafont-dk-astromonkey' do
     url 'http://dl.dafont.com/dl/?f=dk_astromonkey'
     name 'DK Astromonkey'
     homepage 'http://www.dafont.com/dk-astromonkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Astromonkey.otf'
 end

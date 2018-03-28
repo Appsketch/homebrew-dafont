@@ -5,7 +5,6 @@ cask 'dafont-urbantrails' do
     url 'http://dl.dafont.com/dl/?f=urbantrails'
     name 'Urban Trails'
     homepage 'http://www.dafont.com/urbantrails.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UrbanTrails.ttf'
 end

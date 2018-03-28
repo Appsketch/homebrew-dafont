@@ -5,7 +5,6 @@ cask 'dafont-wendelin' do
     url 'http://dl.dafont.com/dl/?f=wendelin'
     name 'Wendelin'
     homepage 'http://www.dafont.com/wendelin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WendelinReduced_45Leicht.ttf'
     font 'WendelinReduced_46LeichtKursiv.ttf'

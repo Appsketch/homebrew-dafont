@@ -5,7 +5,6 @@ cask 'dafont-djb-geeks-who-wear-glasses' do
     url 'http://dl.dafont.com/dl/?f=djb_geeks_who_wear_glasses'
     name 'DJB Geeks Who Wear Glasses'
     homepage 'http://www.dafont.com/djb-geeks-who-wear-glasses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Geeks Who Wear Glasses.ttf'
 end

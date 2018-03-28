@@ -5,7 +5,6 @@ cask 'dafont-native-alien' do
     url 'http://dl.dafont.com/dl/?f=native_alien'
     name 'Native Alien'
     homepage 'http://www.dafont.com/native-alien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'native.ttf'
     font 'nativee.ttf'

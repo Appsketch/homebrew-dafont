@@ -5,7 +5,6 @@ cask 'dafont-clover-things' do
     url 'http://dl.dafont.com/dl/?f=clover_things'
     name 'Clover Things'
     homepage 'http://www.dafont.com/clover-things.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cloverthings.ttf'
 end

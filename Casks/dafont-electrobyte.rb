@@ -5,7 +5,6 @@ cask 'dafont-electrobyte' do
     url 'http://dl.dafont.com/dl/?f=electrobyte'
     name 'Electrobyte'
     homepage 'http://www.dafont.com/electrobyte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'electrobyte.ttf'
 end

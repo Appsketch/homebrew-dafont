@@ -5,7 +5,6 @@ cask 'dafont-illumino' do
     url 'http://dl.dafont.com/dl/?f=illumino'
     name 'Illumino'
     homepage 'http://www.dafont.com/illumino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'illumino.ttf'
     font 'illumino3d.ttf'

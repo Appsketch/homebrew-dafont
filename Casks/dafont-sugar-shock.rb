@@ -5,7 +5,6 @@ cask 'dafont-sugar-shock' do
     url 'http://dl.dafont.com/dl/?f=sugar_shock'
     name 'DJB Sugar Shock'
     homepage 'http://www.dafont.com/sugar-shock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB SUGAR SHOCK MAX.ttf'
     font 'DJB SUGAR SHOCK.ttf'

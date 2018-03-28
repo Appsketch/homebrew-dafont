@@ -5,7 +5,6 @@ cask 'dafont-maternellecolor-cre' do
     url 'http://dl.dafont.com/dl/?f=maternellecolor_cre'
     name 'Maternellecolor Creuse'
     homepage 'http://www.dafont.com/maternellecolor-cre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maternellecolor creuse.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chess-condal' do
     url 'http://dl.dafont.com/dl/?f=chess_condal'
     name 'Chess Condal'
     homepage 'http://www.dafont.com/chess-condal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CONDFONT.TTF'
 end

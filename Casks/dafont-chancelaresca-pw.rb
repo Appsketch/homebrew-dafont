@@ -5,7 +5,6 @@ cask 'dafont-chancelaresca-pw' do
     url 'http://dl.dafont.com/dl/?f=chancelaresca_pw'
     name 'Chancelaresca PW'
     homepage 'http://www.dafont.com/chancelaresca-pw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pw_chancelaresca.ttf'
 end

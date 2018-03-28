@@ -5,7 +5,6 @@ cask 'dafont-grumbling-effect' do
     url 'http://dl.dafont.com/dl/?f=grumbling_effect'
     name 'Grumbling Effect'
     homepage 'http://www.dafont.com/grumbling-effect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grmblng_Efct.ttf'
 end

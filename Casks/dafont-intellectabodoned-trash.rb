@@ -5,7 +5,6 @@ cask 'dafont-intellectabodoned-trash' do
     url 'http://dl.dafont.com/dl/?f=intellectabodoned_trash'
     name 'Intellecta Bodoned Trash'
     homepage 'http://www.dafont.com/intellectabodoned-trash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IntellectaBodoned Trash.ttf'
 end

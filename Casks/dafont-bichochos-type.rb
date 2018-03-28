@@ -5,7 +5,6 @@ cask 'dafont-bichochos-type' do
     url 'http://dl.dafont.com/dl/?f=bichochos_type'
     name 'Bichochos Type'
     homepage 'http://www.dafont.com/bichochos-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BICHOCHOS_TYPE.ttf'
 end

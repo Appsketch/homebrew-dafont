@@ -5,7 +5,6 @@ cask 'dafont-balballa' do
     url 'http://dl.dafont.com/dl/?f=balballa'
     name 'Balballa'
     homepage 'http://www.dafont.com/balballa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Balballa.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-teen-spirit' do
     url 'http://dl.dafont.com/dl/?f=teen_spirit'
     name 'Teen Spirit'
     homepage 'http://www.dafont.com/teen-spirit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'teenspir.ttf'
 end

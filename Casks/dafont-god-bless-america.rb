@@ -5,7 +5,6 @@ cask 'dafont-god-bless-america' do
     url 'http://dl.dafont.com/dl/?f=god_bless_america'
     name 'God Bless America'
     homepage 'http://www.dafont.com/god-bless-america.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'God Bless America.ttf'
 end

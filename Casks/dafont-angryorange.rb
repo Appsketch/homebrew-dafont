@@ -5,7 +5,6 @@ cask 'dafont-angryorange' do
     url 'http://dl.dafont.com/dl/?f=angryorange'
     name 'Angry Orange'
     homepage 'http://www.dafont.com/angryorange.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AngryOrange .ttf'
 end

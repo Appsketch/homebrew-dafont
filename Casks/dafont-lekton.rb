@@ -5,7 +5,6 @@ cask 'dafont-lekton' do
     url 'http://dl.dafont.com/dl/?f=lekton'
     name 'Lekton'
     homepage 'http://www.dafont.com/lekton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lekton005_l.otf'
 end

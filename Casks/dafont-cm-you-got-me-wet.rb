@@ -5,7 +5,6 @@ cask 'dafont-cm-you-got-me-wet' do
     url 'http://dl.dafont.com/dl/?f=cm_you_got_me_wet'
     name 'CM You Got Me Wet'
     homepage 'http://www.dafont.com/cm-you-got-me-wet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM You Got Me Wet.ttf'
 end

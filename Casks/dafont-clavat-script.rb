@@ -5,7 +5,6 @@ cask 'dafont-clavat-script' do
     url 'http://dl.dafont.com/dl/?f=clavat_script'
     name 'Clavat Script'
     homepage 'http://www.dafont.com/clavat-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ClavatScript.ttf'
 end

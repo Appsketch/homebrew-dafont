@@ -5,7 +5,6 @@ cask 'dafont-bionic-kid' do
     url 'http://dl.dafont.com/dl/?f=bionic_kid'
     name 'Bionic Kid'
     homepage 'http://www.dafont.com/bionic-kid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIONICKIDSIMPLE.ttf'
     font 'BIONICKIDSIMPLESLANTED.ttf'

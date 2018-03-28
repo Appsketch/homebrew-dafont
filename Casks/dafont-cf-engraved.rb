@@ -5,7 +5,6 @@ cask 'dafont-cf-engraved' do
     url 'http://dl.dafont.com/dl/?f=cf_engraved'
     name 'CF Engraved'
     homepage 'http://www.dafont.com/cf-engraved.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFEngraved-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nosmoking' do
     url 'http://dl.dafont.com/dl/?f=nosmoking'
     name 'No Smoking'
     homepage 'http://www.dafont.com/nosmoking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOSMOKIN.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-bumblebee' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_bumblebee'
     name 'Austie Bost Bumblebee'
     homepage 'http://www.dafont.com/austie-bost-bumblebee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Bumblebee.ttf'
 end

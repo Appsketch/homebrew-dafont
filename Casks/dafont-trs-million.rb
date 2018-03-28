@@ -5,7 +5,6 @@ cask 'dafont-trs-million' do
     url 'http://dl.dafont.com/dl/?f=trs_million'
     name 'TRS Million'
     homepage 'http://www.dafont.com/trs-million.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trs-million rg.ttf'
 end

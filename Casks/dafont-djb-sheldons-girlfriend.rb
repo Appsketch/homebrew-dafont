@@ -5,7 +5,6 @@ cask 'dafont-djb-sheldons-girlfriend' do
     url 'http://dl.dafont.com/dl/?f=djb_sheldons_girlfriend'
     name 'DJB Sheldon&#039;s Girlfriend'
     homepage 'http://www.dafont.com/djb-sheldons-girlfriend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Sheldon&#039;s Girlfriend.ttf'
 end

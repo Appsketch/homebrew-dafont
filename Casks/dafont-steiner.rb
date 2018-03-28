@@ -5,7 +5,6 @@ cask 'dafont-steiner' do
     url 'http://dl.dafont.com/dl/?f=steiner'
     name 'Steiner'
     homepage 'http://www.dafont.com/steiner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Steinerlight.ttf'
 end

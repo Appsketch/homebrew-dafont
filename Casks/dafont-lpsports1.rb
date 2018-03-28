@@ -5,7 +5,6 @@ cask 'dafont-lpsports1' do
     url 'http://dl.dafont.com/dl/?f=lpsports1'
     name 'LP Sports 1'
     homepage 'http://www.dafont.com/lpsports1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lpsports1.ttf'
 end

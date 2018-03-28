@@ -5,7 +5,6 @@ cask 'dafont-maternellecolor-tra' do
     url 'http://dl.dafont.com/dl/?f=maternellecolor_tra'
     name 'Maternellecolor Trace Cursive'
     homepage 'http://www.dafont.com/maternellecolor-tra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maternellecolor_trace_cursive3.ttf'
 end

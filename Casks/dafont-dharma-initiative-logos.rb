@@ -5,7 +5,6 @@ cask 'dafont-dharma-initiative-logos' do
     url 'http://dl.dafont.com/dl/?f=dharma_initiative_logos'
     name 'Dharma Initiative Logos'
     homepage 'http://www.dafont.com/dharma-initiative-logos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dharma Initiative Logos.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bubblegum-baby-s' do
     url 'http://dl.dafont.com/dl/?f=bubblegum_baby_s'
     name 'Bubblegum Baby'
     homepage 'http://www.dafont.com/bubblegum-baby-s.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUBBLEGUM_BABY_s.ttf'
 end

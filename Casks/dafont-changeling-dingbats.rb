@@ -5,7 +5,6 @@ cask 'dafont-changeling-dingbats' do
     url 'http://dl.dafont.com/dl/?f=changeling_dingbats'
     name 'Changeling Dingbats'
     homepage 'http://www.dafont.com/changeling-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHAND___.TTF'
 end

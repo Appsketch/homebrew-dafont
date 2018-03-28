@@ -5,7 +5,6 @@ cask 'dafont-future-rot' do
     url 'http://dl.dafont.com/dl/?f=future_rot'
     name 'Future Rot'
     homepage 'http://www.dafont.com/future-rot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Futurot.ttf'
 end

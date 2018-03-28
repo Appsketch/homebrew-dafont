@@ -5,7 +5,6 @@ cask 'dafont-contrary-mary' do
     url 'http://dl.dafont.com/dl/?f=contrary_mary'
     name 'Contrary Mary'
     homepage 'http://www.dafont.com/contrary-mary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ContraryMary.ttf'
 end

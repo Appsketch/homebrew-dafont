@@ -5,7 +5,6 @@ cask 'dafont-mr-marcoozie' do
     url 'http://dl.dafont.com/dl/?f=mr_marcoozie'
     name 'Mr Marcoozie'
     homepage 'http://www.dafont.com/mr-marcoozie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mr_Marcoozie_MEDIUM.ttf'
 end

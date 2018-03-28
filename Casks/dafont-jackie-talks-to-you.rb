@@ -5,7 +5,6 @@ cask 'dafont-jackie-talks-to-you' do
     url 'http://dl.dafont.com/dl/?f=jackie_talks_to_you'
     name 'Jackie talks to you!'
     homepage 'http://www.dafont.com/jackie-talks-to-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JACKIE TALKS TO YOU !.ttf'
 end

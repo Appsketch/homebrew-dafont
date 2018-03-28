@@ -5,7 +5,6 @@ cask 'dafont-drawing-pad' do
     url 'http://dl.dafont.com/dl/?f=drawing_pad'
     name 'Drawing Pad'
     homepage 'http://www.dafont.com/drawing-pad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drawing Pad.ttf'
 end

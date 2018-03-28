@@ -5,7 +5,6 @@ cask 'dafont-tapefont' do
     url 'http://dl.dafont.com/dl/?f=tapefont'
     name 'TapeFont'
     homepage 'http://www.dafont.com/tapefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TapeFont.ttf'
 end

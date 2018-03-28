@@ -5,7 +5,6 @@ cask 'dafont-tammyrae' do
     url 'http://dl.dafont.com/dl/?f=tammyrae'
     name 'Tammy Rae'
     homepage 'http://www.dafont.com/tammyrae.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TammyRae.ttf'
 end

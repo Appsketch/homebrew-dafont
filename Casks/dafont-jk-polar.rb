@@ -5,7 +5,6 @@ cask 'dafont-jk-polar' do
     url 'http://dl.dafont.com/dl/?f=jk_polar'
     name 'JK Polar'
     homepage 'http://www.dafont.com/jk-polar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JKPolarDemo.otf'
 end

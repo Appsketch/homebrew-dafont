@@ -5,7 +5,6 @@ cask 'dafont-greatwinter' do
     url 'http://dl.dafont.com/dl/?f=greatwinter'
     name 'Great Winter'
     homepage 'http://www.dafont.com/greatwinter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreatWinter.ttf'
 end

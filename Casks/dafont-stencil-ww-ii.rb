@@ -5,7 +5,6 @@ cask 'dafont-stencil-ww-ii' do
     url 'http://dl.dafont.com/dl/?f=stencil_ww_ii'
     name 'Stencil WW II'
     homepage 'http://www.dafont.com/stencil-ww-ii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stencil WW II.ttf'
 end

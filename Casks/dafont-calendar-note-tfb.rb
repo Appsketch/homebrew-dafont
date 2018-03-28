@@ -5,7 +5,6 @@ cask 'dafont-calendar-note-tfb' do
     url 'http://dl.dafont.com/dl/?f=calendar_note_tfb'
     name 'Calendar Note TFB'
     homepage 'http://www.dafont.com/calendar-note-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'calendar note tfb.ttf'
 end

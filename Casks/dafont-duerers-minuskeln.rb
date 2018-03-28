@@ -5,7 +5,6 @@ cask 'dafont-duerers-minuskeln' do
     url 'http://dl.dafont.com/dl/?f=duerers_minuskeln'
     name 'Duerers Minuskeln'
     homepage 'http://www.dafont.com/duerers-minuskeln.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DuerersMinuskeln.ttf'
 end

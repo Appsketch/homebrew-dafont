@@ -5,7 +5,6 @@ cask 'dafont-cm-sans-serif-2012' do
     url 'http://dl.dafont.com/dl/?f=cm_sans_serif_2012'
     name 'CM Sans Serif 2012'
     homepage 'http://www.dafont.com/cm-sans-serif-2012.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM Sans Serif 2012.ttf'
 end

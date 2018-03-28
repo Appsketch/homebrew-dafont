@@ -5,7 +5,6 @@ cask 'dafont-one-day-in-malangbong' do
     url 'http://dl.dafont.com/dl/?f=one_day_in_malangbong'
     name 'One day in Malangbong'
     homepage 'http://www.dafont.com/one-day-in-malangbong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'One Day in Malangbong.otf'
 end

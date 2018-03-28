@@ -5,7 +5,6 @@ cask 'dafont-parmapetit' do
     url 'http://dl.dafont.com/dl/?f=parmapetit'
     name 'ParmaPetit'
     homepage 'http://www.dafont.com/parmapetit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ParmaPetit-HeavySwinging.ttf'
     font 'ParmaPetit-Italic.ttf'

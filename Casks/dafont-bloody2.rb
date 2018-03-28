@@ -5,7 +5,6 @@ cask 'dafont-bloody2' do
     url 'http://dl.dafont.com/dl/?f=bloody2'
     name 'Bloody'
     homepage 'http://www.dafont.com/bloody2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bloody.ttf'
 end

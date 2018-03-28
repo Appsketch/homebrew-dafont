@@ -5,7 +5,6 @@ cask 'dafont-nyet-bitmap' do
     url 'http://dl.dafont.com/dl/?f=nyet_bitmap'
     name 'Nyet Bitmap'
     homepage 'http://www.dafont.com/nyet-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NYETBM.FON'
 end

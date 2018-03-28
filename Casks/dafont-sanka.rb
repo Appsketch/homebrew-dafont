@@ -5,7 +5,6 @@ cask 'dafont-sanka' do
     url 'http://dl.dafont.com/dl/?f=sanka'
     name 'Sanka'
     homepage 'http://www.dafont.com/sanka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SANKA___.TTF'
 end

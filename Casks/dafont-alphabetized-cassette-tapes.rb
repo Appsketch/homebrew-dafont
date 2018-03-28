@@ -5,7 +5,6 @@ cask 'dafont-alphabetized-cassette-tapes' do
     url 'http://dl.dafont.com/dl/?f=alphabetized_cassette_tapes'
     name 'Alphabetized Cassette Tapes'
     homepage 'http://www.dafont.com/alphabetized-cassette-tapes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alphabetized cassette tapes.ttf'
 end

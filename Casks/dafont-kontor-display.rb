@@ -5,7 +5,6 @@ cask 'dafont-kontor-display' do
     url 'http://dl.dafont.com/dl/?f=kontor_display'
     name 'Kontor Display'
     homepage 'http://www.dafont.com/kontor-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KONTD___.TTF'
 end

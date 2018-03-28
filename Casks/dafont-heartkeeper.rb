@@ -5,7 +5,6 @@ cask 'dafont-heartkeeper' do
     url 'http://dl.dafont.com/dl/?f=heartkeeper'
     name 'Heart Keeper'
     homepage 'http://www.dafont.com/heartkeeper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeartKeeper.ttf'
 end

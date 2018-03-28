@@ -5,7 +5,6 @@ cask 'dafont-capitalis-goreanis' do
     url 'http://dl.dafont.com/dl/?f=capitalis_goreanis'
     name 'Capitalis Goreanis'
     homepage 'http://www.dafont.com/capitalis-goreanis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'capitalis_goreanis.ttf'
 end

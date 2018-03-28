@@ -5,7 +5,6 @@ cask 'dafont-halion' do
     url 'http://dl.dafont.com/dl/?f=halion'
     name 'Halion'
     homepage 'http://www.dafont.com/halion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Halion.otf'
 end

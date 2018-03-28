@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-prison-tattoo' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_prison_tattoo'
     name 'Woodcutter Prison Tattoo'
     homepage 'http://www.dafont.com/woodcutter-prison-tattoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Prison Tattoo.ttf'
 end

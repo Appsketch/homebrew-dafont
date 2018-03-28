@@ -5,7 +5,6 @@ cask 'dafont-chile' do
     url 'http://dl.dafont.com/dl/?f=chile'
     name 'Chile'
     homepage 'http://www.dafont.com/chile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chile.ttf'
 end

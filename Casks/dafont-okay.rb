@@ -5,7 +5,6 @@ cask 'dafont-okay' do
     url 'http://dl.dafont.com/dl/?f=okay'
     name 'Okay'
     homepage 'http://www.dafont.com/okay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Okay.ttf'
 end

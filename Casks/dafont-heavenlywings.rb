@@ -5,7 +5,6 @@ cask 'dafont-heavenlywings' do
     url 'http://dl.dafont.com/dl/?f=heavenlywings'
     name 'Heavenly Wings'
     homepage 'http://www.dafont.com/heavenlywings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeavenlyWings.ttf'
 end

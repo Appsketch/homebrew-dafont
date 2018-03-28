@@ -5,7 +5,6 @@ cask 'dafont-yukathin-n-conte-smile' do
     url 'http://dl.dafont.com/dl/?f=yukathin_n_conte_smile'
     name 'Yukathin N.Conte Smile'
     homepage 'http://www.dafont.com/yukathin-n-conte-smile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YUKASMILE.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-comic-zine' do
     url 'http://dl.dafont.com/dl/?f=comic_zine'
     name 'Comic Zine'
     homepage 'http://www.dafont.com/comic-zine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COMIZ___.TTF'
 end

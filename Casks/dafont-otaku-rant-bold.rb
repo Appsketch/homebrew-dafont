@@ -5,7 +5,6 @@ cask 'dafont-otaku-rant-bold' do
     url 'http://dl.dafont.com/dl/?f=otaku_rant_bold'
     name 'Otaku Rant Bold'
     homepage 'http://www.dafont.com/otaku-rant-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Otaku Rant Bold.ttf'
     font 'Otaku Rant italbold.ttf'

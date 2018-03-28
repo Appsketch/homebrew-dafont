@@ -5,7 +5,6 @@ cask 'dafont-medabots' do
     url 'http://dl.dafont.com/dl/?f=medabots'
     name 'Medabots'
     homepage 'http://www.dafont.com/medabots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Medabots Italic.otf'
     font 'Medabots.otf'

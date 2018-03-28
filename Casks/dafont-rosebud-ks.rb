@@ -5,7 +5,6 @@ cask 'dafont-rosebud-ks' do
     url 'http://dl.dafont.com/dl/?f=rosebud_ks'
     name 'Rosebud'
     homepage 'http://www.dafont.com/rosebud-ks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rosebud.ttf'
 end

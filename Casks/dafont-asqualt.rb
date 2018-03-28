@@ -5,7 +5,6 @@ cask 'dafont-asqualt' do
     url 'http://dl.dafont.com/dl/?f=asqualt'
     name 'Asqualt'
     homepage 'http://www.dafont.com/asqualt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asqualt.ttf'
 end

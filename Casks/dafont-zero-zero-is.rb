@@ -5,7 +5,6 @@ cask 'dafont-zero-zero-is' do
     url 'http://dl.dafont.com/dl/?f=zero_zero_is'
     name 'Zero &amp; Zero Is'
     homepage 'http://www.dafont.com/zero-zero-is.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zero&amp;.ttf'
 end

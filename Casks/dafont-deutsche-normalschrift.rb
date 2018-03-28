@@ -5,7 +5,6 @@ cask 'dafont-deutsche-normalschrift' do
     url 'http://dl.dafont.com/dl/?f=deutsche_normalschrift'
     name 'Deutsche Normalschrift'
     homepage 'http://www.dafont.com/deutsche-normalschrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deutsche Normalschrift a.ttf'
     font 'Deutsche Normalschrift b.ttf'

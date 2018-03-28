@@ -5,7 +5,6 @@ cask 'dafont-edgebat-tfb' do
     url 'http://dl.dafont.com/dl/?f=edgebat_tfb'
     name 'Edgebat TFB'
     homepage 'http://www.dafont.com/edgebat-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'edgebat tfb.ttf'
 end

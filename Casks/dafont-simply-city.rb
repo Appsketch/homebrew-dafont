@@ -5,7 +5,6 @@ cask 'dafont-simply-city' do
     url 'http://dl.dafont.com/dl/?f=simply_city'
     name 'Simply City'
     homepage 'http://www.dafont.com/simply-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'siml023.ttf'
     font 'simm023.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-zing-easy' do
     url 'http://dl.dafont.com/dl/?f=zing_easy'
     name 'Zing Easy'
     homepage 'http://www.dafont.com/zing-easy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zing Easy.ttf'
 end

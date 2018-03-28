@@ -5,7 +5,6 @@ cask 'dafont-hvd-comic-serif' do
     url 'http://dl.dafont.com/dl/?f=hvd_comic_serif'
     name 'HVD Comic Serif'
     homepage 'http://www.dafont.com/hvd-comic-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HVD_Comic_Serif_Pro.otf'
 end

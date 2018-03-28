@@ -5,7 +5,6 @@ cask 'dafont-dreamerone' do
     url 'http://dl.dafont.com/dl/?f=dreamerone'
     name 'DreamerOne'
     homepage 'http://www.dafont.com/dreamerone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dfdro__b.TTF'
     font 'dfdro__i.TTF'

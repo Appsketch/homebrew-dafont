@@ -5,7 +5,6 @@ cask 'dafont-micro-fleurons-free' do
     url 'http://dl.dafont.com/dl/?f=micro_fleurons_free'
     name 'Micro Fleurons'
     homepage 'http://www.dafont.com/micro-fleurons-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Micro Fleurons Free.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-heraldsquare' do
     url 'http://dl.dafont.com/dl/?f=heraldsquare'
     name 'HeraldSquare'
     homepage 'http://www.dafont.com/heraldsquare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HERAS___.TTF'
 end

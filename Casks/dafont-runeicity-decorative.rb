@@ -5,7 +5,6 @@ cask 'dafont-runeicity-decorative' do
     url 'http://dl.dafont.com/dl/?f=runeicity_decorative'
     name 'Runeicity Decorative'
     homepage 'http://www.dafont.com/runeicity-decorative.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Runeicity Decorative001.ttf'
 end

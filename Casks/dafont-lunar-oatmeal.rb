@@ -5,7 +5,6 @@ cask 'dafont-lunar-oatmeal' do
     url 'http://dl.dafont.com/dl/?f=lunar_oatmeal'
     name 'Lunar Oatmeal'
     homepage 'http://www.dafont.com/lunar-oatmeal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lunar Oatmeal.otf'
 end

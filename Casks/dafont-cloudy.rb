@@ -5,7 +5,6 @@ cask 'dafont-cloudy' do
     url 'http://dl.dafont.com/dl/?f=cloudy'
     name 'Cloudy'
     homepage 'http://www.dafont.com/cloudy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CLOUDY FONT.ttf'
 end

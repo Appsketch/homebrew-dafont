@@ -5,7 +5,6 @@ cask 'dafont-bold-universe' do
     url 'http://dl.dafont.com/dl/?f=bold_universe'
     name 'Bold Universe'
     homepage 'http://www.dafont.com/bold-universe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bold Universe.otf'
 end

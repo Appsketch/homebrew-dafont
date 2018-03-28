@@ -5,7 +5,6 @@ cask 'dafont-light-tfb' do
     url 'http://dl.dafont.com/dl/?f=light_tfb'
     name 'Light TFB'
     homepage 'http://www.dafont.com/light-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Light tfb.ttf'
 end

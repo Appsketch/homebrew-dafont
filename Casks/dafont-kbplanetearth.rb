@@ -5,7 +5,6 @@ cask 'dafont-kbplanetearth' do
     url 'http://dl.dafont.com/dl/?f=kbplanetearth'
     name 'KB Planet Earth'
     homepage 'http://www.dafont.com/kbplanetearth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBPlanetEarth.ttf'
 end

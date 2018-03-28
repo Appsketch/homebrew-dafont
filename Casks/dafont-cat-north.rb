@@ -5,7 +5,6 @@ cask 'dafont-cat-north' do
     url 'http://dl.dafont.com/dl/?f=cat_north'
     name 'CAT North'
     homepage 'http://www.dafont.com/cat-north.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CAT North Licht.ttf'
     font 'CAT North Shadow.ttf'

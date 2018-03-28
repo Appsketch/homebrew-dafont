@@ -5,7 +5,6 @@ cask 'dafont-josschrift' do
     url 'http://dl.dafont.com/dl/?f=josschrift'
     name 'Josschrift'
     homepage 'http://www.dafont.com/josschrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Josschrift.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-zack-and-sarah' do
     url 'http://dl.dafont.com/dl/?f=zack_and_sarah'
     name 'Zack and Sarah'
     homepage 'http://www.dafont.com/zack-and-sarah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zack and Sarah.ttf'
 end

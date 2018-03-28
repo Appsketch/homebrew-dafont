@@ -5,7 +5,6 @@ cask 'dafont-yahren' do
     url 'http://dl.dafont.com/dl/?f=yahren'
     name 'Yahren'
     homepage 'http://www.dafont.com/yahren.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yahrenv2.ttf'
     font 'Yahrenv2b.ttf'

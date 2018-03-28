@@ -5,7 +5,6 @@ cask 'dafont-bn-maxi' do
     url 'http://dl.dafont.com/dl/?f=bn_maxi'
     name 'BN-Maxi'
     homepage 'http://www.dafont.com/bn-maxi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BN-Maxi.ttf'
 end

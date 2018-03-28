@@ -5,7 +5,6 @@ cask 'dafont-viking-younger-runes' do
     url 'http://dl.dafont.com/dl/?f=viking_younger_runes'
     name 'Viking Younger Runes'
     homepage 'http://www.dafont.com/viking-younger-runes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'viking_younger_runes_.ttf'
     font 'viking_younger_runes_bold.ttf'

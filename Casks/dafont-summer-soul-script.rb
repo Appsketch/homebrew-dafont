@@ -5,7 +5,6 @@ cask 'dafont-summer-soul-script' do
     url 'http://dl.dafont.com/dl/?f=summer_soul_script'
     name 'Summer Soul Script'
     homepage 'http://www.dafont.com/summer-soul-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'summer soul script.ttf'
 end

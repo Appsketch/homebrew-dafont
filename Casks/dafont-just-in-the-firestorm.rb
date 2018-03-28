@@ -5,7 +5,6 @@ cask 'dafont-just-in-the-firestorm' do
     url 'http://dl.dafont.com/dl/?f=just_in_the_firestorm'
     name 'Just In The Firestorm'
     homepage 'http://www.dafont.com/just-in-the-firestorm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'just_in_the_firestorm.ttf'
 end

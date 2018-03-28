@@ -5,7 +5,6 @@ cask 'dafont-arro-terminal' do
     url 'http://dl.dafont.com/dl/?f=arro_terminal'
     name 'Arro Terminal'
     homepage 'http://www.dafont.com/arro-terminal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'arro_terminal.ttf'
 end

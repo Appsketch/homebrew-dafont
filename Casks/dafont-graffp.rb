@@ -5,7 +5,6 @@ cask 'dafont-graffp' do
     url 'http://dl.dafont.com/dl/?f=graffp'
     name 'Graffp'
     homepage 'http://www.dafont.com/graffp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'graffp.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-diminuto' do
     url 'http://dl.dafont.com/dl/?f=diminuto'
     name 'Diminuto'
     homepage 'http://www.dafont.com/diminuto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diminuto.ttf'
 end

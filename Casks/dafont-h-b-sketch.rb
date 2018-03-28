@@ -5,7 +5,6 @@ cask 'dafont-h-b-sketch' do
     url 'http://dl.dafont.com/dl/?f=h_b_sketch'
     name 'H&amp;B Sketch'
     homepage 'http://www.dafont.com/h-b-sketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HB Sketch Demo.otf'
 end

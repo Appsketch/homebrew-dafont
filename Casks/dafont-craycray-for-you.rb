@@ -5,7 +5,6 @@ cask 'dafont-craycray-for-you' do
     url 'http://dl.dafont.com/dl/?f=craycray_for_you'
     name 'Craycray For You'
     homepage 'http://www.dafont.com/craycray-for-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRAYCRAY FOR YOU ALPHA.ttf'
 end

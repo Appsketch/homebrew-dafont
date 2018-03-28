@@ -5,7 +5,6 @@ cask 'dafont-carmenta' do
     url 'http://dl.dafont.com/dl/?f=carmenta'
     name 'Carmenta'
     homepage 'http://www.dafont.com/carmenta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carmenta Italic 2.00.ttf'
     font 'Carmenta Regular 2.00.ttf'

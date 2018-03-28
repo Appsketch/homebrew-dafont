@@ -5,7 +5,6 @@ cask 'dafont-mtf-janag' do
     url 'http://dl.dafont.com/dl/?f=mtf_janag'
     name 'MTF Jana G'
     homepage 'http://www.dafont.com/mtf-janag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF JanaG.ttf'
 end

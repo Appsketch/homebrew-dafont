@@ -5,7 +5,6 @@ cask 'dafont-limh' do
     url 'http://dl.dafont.com/dl/?f=limh'
     name 'Limh'
     homepage 'http://www.dafont.com/limh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'limh.ttf'
 end

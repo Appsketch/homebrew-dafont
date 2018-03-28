@@ -5,7 +5,6 @@ cask 'dafont-partin' do
     url 'http://dl.dafont.com/dl/?f=partin'
     name 'Partin'
     homepage 'http://www.dafont.com/partin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PARTIN.ttf'
 end

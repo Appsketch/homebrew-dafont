@@ -5,7 +5,6 @@ cask 'dafont-gaeilge' do
     url 'http://dl.dafont.com/dl/?f=gaeilge'
     name 'Gaeilge'
     homepage 'http://www.dafont.com/gaeilge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gaeilge.ttf'
 end

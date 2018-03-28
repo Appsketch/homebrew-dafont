@@ -5,7 +5,6 @@ cask 'dafont-banned-world' do
     url 'http://dl.dafont.com/dl/?f=banned_world'
     name 'Banned World'
     homepage 'http://www.dafont.com/banned-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BannedWorld.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-walker-bot-ldr' do
     url 'http://dl.dafont.com/dl/?f=walker_bot_ldr'
     name 'Walker Bot LDR'
     homepage 'http://www.dafont.com/walker-bot-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'walker_bot_ldr.ttf'
 end

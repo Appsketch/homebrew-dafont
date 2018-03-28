@@ -5,7 +5,6 @@ cask 'dafont-gruenewald-va' do
     url 'http://dl.dafont.com/dl/?f=gruenewald_va'
     name 'Gruenewald VA'
     homepage 'http://www.dafont.com/gruenewald-va.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gruenewald VA normal.ttf'
 end

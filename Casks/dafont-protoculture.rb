@@ -5,7 +5,6 @@ cask 'dafont-protoculture' do
     url 'http://dl.dafont.com/dl/?f=protoculture'
     name 'Protoculture'
     homepage 'http://www.dafont.com/protoculture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Protoculture Bold Italic.otf'
     font 'Protoculture Bold.otf'

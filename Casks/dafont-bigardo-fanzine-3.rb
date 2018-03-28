@@ -5,7 +5,6 @@ cask 'dafont-bigardo-fanzine-3' do
     url 'http://dl.dafont.com/dl/?f=bigardo_fanzine_3'
     name 'Bigardo Fanzine 3'
     homepage 'http://www.dafont.com/bigardo-fanzine-3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigardoFanzine3.ttf'
 end

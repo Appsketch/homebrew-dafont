@@ -5,7 +5,6 @@ cask 'dafont-gastada' do
     url 'http://dl.dafont.com/dl/?f=gastada'
     name 'Gastada'
     homepage 'http://www.dafont.com/gastada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GASTADA_.TTF'
 end

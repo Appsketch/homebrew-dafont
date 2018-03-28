@@ -5,7 +5,6 @@ cask 'dafont-deliberation' do
     url 'http://dl.dafont.com/dl/?f=deliberation'
     name 'Deliberation'
     homepage 'http://www.dafont.com/deliberation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deliberation.ttf'
 end

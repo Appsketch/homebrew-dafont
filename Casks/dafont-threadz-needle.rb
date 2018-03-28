@@ -5,7 +5,6 @@ cask 'dafont-threadz-needle' do
     url 'http://dl.dafont.com/dl/?f=threadz_needle'
     name 'Threadz Needle'
     homepage 'http://www.dafont.com/threadz-needle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Threadz Needle.ttf'
 end

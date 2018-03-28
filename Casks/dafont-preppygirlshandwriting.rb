@@ -5,7 +5,6 @@ cask 'dafont-preppygirlshandwriting' do
     url 'http://dl.dafont.com/dl/?f=preppygirlshandwriting'
     name 'Preppy Girls Handwriting'
     homepage 'http://www.dafont.com/preppygirlshandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PreppyGirlsHandwriting.ttf'
 end

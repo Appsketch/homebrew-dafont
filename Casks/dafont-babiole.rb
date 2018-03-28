@@ -5,7 +5,6 @@ cask 'dafont-babiole' do
     url 'http://dl.dafont.com/dl/?f=babiole'
     name 'Babiole'
     homepage 'http://www.dafont.com/babiole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BABIB___.TTF'
     font 'BABIE___.TTF'

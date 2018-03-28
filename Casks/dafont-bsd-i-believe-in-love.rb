@@ -5,7 +5,6 @@ cask 'dafont-bsd-i-believe-in-love' do
     url 'http://dl.dafont.com/dl/?f=bsd_i_believe_in_love'
     name 'BSD I Believe In Love'
     homepage 'http://www.dafont.com/bsd-i-believe-in-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BSD I Believe In Love.ttf'
 end

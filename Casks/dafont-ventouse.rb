@@ -5,7 +5,6 @@ cask 'dafont-ventouse' do
     url 'http://dl.dafont.com/dl/?f=ventouse'
     name 'Ventouse'
     homepage 'http://www.dafont.com/ventouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ventouse.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hyper2000' do
     url 'http://dl.dafont.com/dl/?f=hyper2000'
     name 'Hyper 2000'
     homepage 'http://www.dafont.com/hyper2000.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hyper_2000.ttf'
 end

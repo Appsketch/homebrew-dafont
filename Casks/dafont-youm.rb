@@ -5,7 +5,6 @@ cask 'dafont-youm' do
     url 'http://dl.dafont.com/dl/?f=youm'
     name 'Youm'
     homepage 'http://www.dafont.com/youm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Youm.ttf'
 end

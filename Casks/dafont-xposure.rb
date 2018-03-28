@@ -5,7 +5,6 @@ cask 'dafont-xposure' do
     url 'http://dl.dafont.com/dl/?f=xposure'
     name 'Xposure'
     homepage 'http://www.dafont.com/xposure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xposure.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mouth-breather-bb' do
     url 'http://dl.dafont.com/dl/?f=mouth_breather_bb'
     name 'Mouth Breather BB'
     homepage 'http://www.dafont.com/mouth-breather-bb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mouthbrebb_b.ttf'
     font 'mouthbrebb.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-albatross' do
     url 'http://dl.dafont.com/dl/?f=albatross'
     name 'Albatross'
     homepage 'http://www.dafont.com/albatross.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'albatross.ttf'
 end

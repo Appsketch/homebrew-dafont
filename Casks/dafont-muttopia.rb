@@ -5,7 +5,6 @@ cask 'dafont-muttopia' do
     url 'http://dl.dafont.com/dl/?f=muttopia'
     name 'Muttopia'
     homepage 'http://www.dafont.com/muttopia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MUTTOPIA.ttf'
 end

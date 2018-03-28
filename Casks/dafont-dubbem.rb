@@ -5,7 +5,6 @@ cask 'dafont-dubbem' do
     url 'http://dl.dafont.com/dl/?f=dubbem'
     name 'Dubbem'
     homepage 'http://www.dafont.com/dubbem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dubbem_2.ttf'
 end

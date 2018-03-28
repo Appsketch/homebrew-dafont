@@ -5,7 +5,6 @@ cask 'dafont-llcalligraphy' do
     url 'http://dl.dafont.com/dl/?f=llcalligraphy'
     name 'LL Calligraphy'
     homepage 'http://www.dafont.com/llcalligraphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLCARG__.TTF'
 end

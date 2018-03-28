@@ -5,7 +5,6 @@ cask 'dafont-distinctly-dan' do
     url 'http://dl.dafont.com/dl/?f=distinctly_dan'
     name 'Distinctly Dan'
     homepage 'http://www.dafont.com/distinctly-dan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Distinctly Dan.ttf'
 end

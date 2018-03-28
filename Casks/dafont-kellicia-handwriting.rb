@@ -5,7 +5,6 @@ cask 'dafont-kellicia-handwriting' do
     url 'http://dl.dafont.com/dl/?f=kellicia_handwriting'
     name 'Kellicia Handwriting'
     homepage 'http://www.dafont.com/kellicia-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KelliciaHandwriting.ttf'
 end

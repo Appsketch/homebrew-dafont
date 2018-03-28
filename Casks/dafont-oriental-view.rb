@@ -5,7 +5,6 @@ cask 'dafont-oriental-view' do
     url 'http://dl.dafont.com/dl/?f=oriental_view'
     name 'Oriental View'
     homepage 'http://www.dafont.com/oriental-view.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oriental View.ttf'
 end

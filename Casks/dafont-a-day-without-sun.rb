@@ -5,7 +5,6 @@ cask 'dafont-a-day-without-sun' do
     url 'http://dl.dafont.com/dl/?f=a_day_without_sun'
     name 'A Day Without Sun'
     homepage 'http://www.dafont.com/a-day-without-sun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A DAY WITHOUT SUN.otf'
 end

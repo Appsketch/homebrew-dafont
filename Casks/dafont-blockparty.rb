@@ -5,7 +5,6 @@ cask 'dafont-blockparty' do
     url 'http://dl.dafont.com/dl/?f=blockparty'
     name 'Block Party'
     homepage 'http://www.dafont.com/blockparty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlockParty.ttf'
 end

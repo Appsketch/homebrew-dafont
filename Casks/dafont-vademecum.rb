@@ -5,7 +5,6 @@ cask 'dafont-vademecum' do
     url 'http://dl.dafont.com/dl/?f=vademecum'
     name 'Vademecum'
     homepage 'http://www.dafont.com/vademecum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vademecum.ttf'
 end

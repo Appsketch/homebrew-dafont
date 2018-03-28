@@ -5,7 +5,6 @@ cask 'dafont-arcticexplorer' do
     url 'http://dl.dafont.com/dl/?f=arcticexplorer'
     name 'Arctic Explorer'
     homepage 'http://www.dafont.com/arcticexplorer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArcticExplorer.ttf'
 end

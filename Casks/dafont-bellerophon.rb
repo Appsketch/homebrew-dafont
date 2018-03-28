@@ -5,7 +5,6 @@ cask 'dafont-bellerophon' do
     url 'http://dl.dafont.com/dl/?f=bellerophon'
     name 'Bellerophon'
     homepage 'http://www.dafont.com/bellerophon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bellerophon.ttf'
 end

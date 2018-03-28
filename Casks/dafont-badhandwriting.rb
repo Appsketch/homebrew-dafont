@@ -5,7 +5,6 @@ cask 'dafont-badhandwriting' do
     url 'http://dl.dafont.com/dl/?f=badhandwriting'
     name 'Bad handwriting'
     homepage 'http://www.dafont.com/badhandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Badhandwriting-1.ttf'
 end

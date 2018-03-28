@@ -5,7 +5,6 @@ cask 'dafont-blessed-assurance' do
     url 'http://dl.dafont.com/dl/?f=blessed_assurance'
     name 'Blessed Assurance'
     homepage 'http://www.dafont.com/blessed-assurance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blessed Assurance.ttf'
 end

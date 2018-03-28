@@ -5,7 +5,6 @@ cask 'dafont-kaplah' do
     url 'http://dl.dafont.com/dl/?f=kaplah'
     name 'Kaplah'
     homepage 'http://www.dafont.com/kaplah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kaplah Italic.otf'
     font 'Kaplah.otf'

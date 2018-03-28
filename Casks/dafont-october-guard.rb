@@ -5,7 +5,6 @@ cask 'dafont-october-guard' do
     url 'http://dl.dafont.com/dl/?f=october_guard'
     name 'October Guard'
     homepage 'http://www.dafont.com/october-guard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'octoberguard.ttf'
     font 'octoberguard3d.ttf'

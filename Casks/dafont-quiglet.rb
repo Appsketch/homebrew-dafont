@@ -5,7 +5,6 @@ cask 'dafont-quiglet' do
     url 'http://dl.dafont.com/dl/?f=quiglet'
     name 'Quiglet'
     homepage 'http://www.dafont.com/quiglet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quiglet free.otf'
 end

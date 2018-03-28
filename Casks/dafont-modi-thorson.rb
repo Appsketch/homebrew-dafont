@@ -5,7 +5,6 @@ cask 'dafont-modi-thorson' do
     url 'http://dl.dafont.com/dl/?f=modi_thorson'
     name 'Modi Thorson'
     homepage 'http://www.dafont.com/modi-thorson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'modithorson.ttf'
     font 'modithorson3d.ttf'

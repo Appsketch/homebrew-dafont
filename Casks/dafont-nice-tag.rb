@@ -5,7 +5,6 @@ cask 'dafont-nice-tag' do
     url 'http://dl.dafont.com/dl/?f=nice_tag'
     name 'N!ce Tag'
     homepage 'http://www.dafont.com/nice-tag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'N!CE_Tag.TTF'
 end

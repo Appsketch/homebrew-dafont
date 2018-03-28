@@ -5,7 +5,6 @@ cask 'dafont-blobify' do
     url 'http://dl.dafont.com/dl/?f=blobify'
     name 'Blobify'
     homepage 'http://www.dafont.com/blobify.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blobify.ttf'
 end

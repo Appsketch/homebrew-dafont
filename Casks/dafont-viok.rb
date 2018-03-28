@@ -5,7 +5,6 @@ cask 'dafont-viok' do
     url 'http://dl.dafont.com/dl/?f=viok'
     name 'Viok'
     homepage 'http://www.dafont.com/viok.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'viok.ttf'
 end

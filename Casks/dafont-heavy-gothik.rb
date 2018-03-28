@@ -5,7 +5,6 @@ cask 'dafont-heavy-gothik' do
     url 'http://dl.dafont.com/dl/?f=heavy_gothik'
     name 'Heavy Gothik'
     homepage 'http://www.dafont.com/heavy-gothik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heavy Gothik.ttf'
 end

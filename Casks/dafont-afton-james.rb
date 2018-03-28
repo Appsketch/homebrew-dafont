@@ -5,7 +5,6 @@ cask 'dafont-afton-james' do
     url 'http://dl.dafont.com/dl/?f=afton_james'
     name 'Afton James'
     homepage 'http://www.dafont.com/afton-james.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Afton James.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-prowler' do
     url 'http://dl.dafont.com/dl/?f=prowler'
     name 'Prowler'
     homepage 'http://www.dafont.com/prowler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'prowler.ttf'
     font 'prowler3d.ttf'

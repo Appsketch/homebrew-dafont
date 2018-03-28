@@ -5,7 +5,6 @@ cask 'dafont-arab-tv-logos' do
     url 'http://dl.dafont.com/dl/?f=arab_tv_logos'
     name 'Arab TV logos'
     homepage 'http://www.dafont.com/arab-tv-logos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArabTVlogos.ttf'
 end

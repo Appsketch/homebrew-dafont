@@ -5,7 +5,6 @@ cask 'dafont-moreparty' do
     url 'http://dl.dafont.com/dl/?f=moreparty'
     name 'More Party'
     homepage 'http://www.dafont.com/moreparty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MoreParty.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-viktors-littl-creepy-horror' do
     url 'http://dl.dafont.com/dl/?f=viktors_littl_creepy_horror'
     name 'Viktors Littl Creepy Horror'
     homepage 'http://www.dafont.com/viktors-littl-creepy-horror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Viktors Littl Creepy Horror.ttf'
 end

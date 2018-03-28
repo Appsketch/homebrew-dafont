@@ -5,7 +5,6 @@ cask 'dafont-virgin-mary' do
     url 'http://dl.dafont.com/dl/?f=virgin_mary'
     name 'Virgin Mary'
     homepage 'http://www.dafont.com/virgin-mary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Virgin Mary.ttf'
 end

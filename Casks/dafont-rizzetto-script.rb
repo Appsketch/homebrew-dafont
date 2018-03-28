@@ -5,7 +5,6 @@ cask 'dafont-rizzetto-script' do
     url 'http://dl.dafont.com/dl/?f=rizzetto_script'
     name 'Rizzetto Script'
     homepage 'http://www.dafont.com/rizzetto-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rizzetto Script.ttf'
 end

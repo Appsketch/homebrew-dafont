@@ -5,7 +5,6 @@ cask 'dafont-romaji-mincho' do
     url 'http://dl.dafont.com/dl/?f=romaji_mincho'
     name 'Romaji Mincho'
     homepage 'http://www.dafont.com/romaji-mincho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RomajiMincho.otf'
 end

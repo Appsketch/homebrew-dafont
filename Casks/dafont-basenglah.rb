@@ -5,7 +5,6 @@ cask 'dafont-basenglah' do
     url 'http://dl.dafont.com/dl/?f=basenglah'
     name 'Basenglah'
     homepage 'http://www.dafont.com/basenglah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Basenglah-Shadow OTF.otf'
 end

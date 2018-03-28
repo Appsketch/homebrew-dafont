@@ -5,7 +5,6 @@ cask 'dafont-briarwood' do
     url 'http://dl.dafont.com/dl/?f=briarwood'
     name 'Briarwood'
     homepage 'http://www.dafont.com/briarwood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Briarwood.ttf'
 end

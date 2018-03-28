@@ -5,7 +5,6 @@ cask 'dafont-brief-moment-between' do
     url 'http://dl.dafont.com/dl/?f=brief_moment_between'
     name 'Brief Moment Between'
     homepage 'http://www.dafont.com/brief-moment-between.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brief Moment Between.ttf'
 end

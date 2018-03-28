@@ -5,7 +5,6 @@ cask 'dafont-draughtwork' do
     url 'http://dl.dafont.com/dl/?f=draughtwork'
     name 'Draughtwork'
     homepage 'http://www.dafont.com/draughtwork.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DRAUD___.TTF'
 end

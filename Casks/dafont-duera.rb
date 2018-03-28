@@ -5,7 +5,6 @@ cask 'dafont-duera' do
     url 'http://dl.dafont.com/dl/?f=duera'
     name 'Duera'
     homepage 'http://www.dafont.com/duera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Duera-CondBlac-PERSONAL.ttf'
     font 'Duera-CondBold-PERSONAL.ttf'

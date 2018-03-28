@@ -5,7 +5,6 @@ cask 'dafont-rocks-death' do
     url 'http://dl.dafont.com/dl/?f=rocks_death'
     name 'Rock&#039;s Death'
     homepage 'http://www.dafont.com/rocks-death.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rock_&#039;s Death.ttf'
 end

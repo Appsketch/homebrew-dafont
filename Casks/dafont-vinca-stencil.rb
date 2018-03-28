@@ -5,7 +5,6 @@ cask 'dafont-vinca-stencil' do
     url 'http://dl.dafont.com/dl/?f=vinca_stencil'
     name 'Vinca Stencil'
     homepage 'http://www.dafont.com/vinca-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vinca_stencil.ttf'
 end

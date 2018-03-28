@@ -5,7 +5,6 @@ cask 'dafont-vtks-solucao-criativa' do
     url 'http://dl.dafont.com/dl/?f=vtks_soluCAo_criativa'
     name 'VTKS Solu&ccedil;&atilde;o Criativa'
     homepage 'http://www.dafont.com/vtks-soluCAo-criativa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS SOLU&Ccedil;O CRIATIVA DOIS.ttf'
     font 'VTKS SOLU&Ccedil;O CRIATIVA.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-prettyinpinks' do
     url 'http://dl.dafont.com/dl/?f=prettyinpinks'
     name 'Pretty In Pinks'
     homepage 'http://www.dafont.com/prettyinpinks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrettyInPinks.ttf'
 end

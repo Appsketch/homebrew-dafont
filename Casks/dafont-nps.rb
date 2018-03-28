@@ -5,7 +5,6 @@ cask 'dafont-nps' do
     url 'http://dl.dafont.com/dl/?f=nps'
     name 'NPS 1935'
     homepage 'http://www.dafont.com/nps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NPS_1935.ttf'
 end

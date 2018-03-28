@@ -5,7 +5,6 @@ cask 'dafont-reflet-electrik' do
     url 'http://dl.dafont.com/dl/?f=reflet_Electrik'
     name 'Reflet &Eacute;lectrik'
     homepage 'http://www.dafont.com/reflet-Electrik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'electrikz.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fantasy-clipart' do
     url 'http://dl.dafont.com/dl/?f=fantasy_clipart'
     name 'Fantasy Clipart'
     homepage 'http://www.dafont.com/fantasy-clipart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fantclip.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-magical-wands' do
     url 'http://dl.dafont.com/dl/?f=magical_wands'
     name 'Magical Wands'
     homepage 'http://www.dafont.com/magical-wands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'magical_wands.ttf'
 end

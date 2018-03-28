@@ -5,7 +5,6 @@ cask 'dafont-rough-simple' do
     url 'http://dl.dafont.com/dl/?f=rough_simple'
     name 'Rough Simple'
     homepage 'http://www.dafont.com/rough-simple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rough Simple.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-this-is-electronik' do
     url 'http://dl.dafont.com/dl/?f=this_is_electronik'
     name 'This is Electronik'
     homepage 'http://www.dafont.com/this-is-electronik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'electronik.ttf'
 end

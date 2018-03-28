@@ -5,7 +5,6 @@ cask 'dafont-basex' do
     url 'http://dl.dafont.com/dl/?f=basex'
     name 'Base 4-5-6'
     homepage 'http://www.dafont.com/basex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'base4.ttf'
     font 'base5.ttf'

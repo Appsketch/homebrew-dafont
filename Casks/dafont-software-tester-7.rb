@@ -5,7 +5,6 @@ cask 'dafont-software-tester-7' do
     url 'http://dl.dafont.com/dl/?f=software_tester_7'
     name 'Software Tester 7'
     homepage 'http://www.dafont.com/software-tester-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'software_tester_7.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-princesse-muffin' do
     url 'http://dl.dafont.com/dl/?f=princesse_muffin'
     name 'Princesse Muffin'
     homepage 'http://www.dafont.com/princesse-muffin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrincesseMuffin.ttf'
 end

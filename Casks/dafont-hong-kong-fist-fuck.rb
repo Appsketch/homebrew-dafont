@@ -5,7 +5,6 @@ cask 'dafont-hong-kong-fist-fuck' do
     url 'http://dl.dafont.com/dl/?f=hong_kong_fist_fuck'
     name 'Hong Kong Fist Fuck'
     homepage 'http://www.dafont.com/hong-kong-fist-fuck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HONGKFF_.TTF'
 end

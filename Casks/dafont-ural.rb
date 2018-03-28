@@ -5,7 +5,6 @@ cask 'dafont-ural' do
     url 'http://dl.dafont.com/dl/?f=ural'
     name 'Ural'
     homepage 'http://www.dafont.com/ural.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'URAL-___.TTF'
     font 'URAL-PHA.TTF'

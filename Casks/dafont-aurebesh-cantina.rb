@@ -5,7 +5,6 @@ cask 'dafont-aurebesh-cantina' do
     url 'http://dl.dafont.com/dl/?f=aurebesh_cantina'
     name 'Aurebesh Cantina'
     homepage 'http://www.dafont.com/aurebesh-cantina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aurebesh Cantina Bold Italic.otf'
     font 'Aurebesh Cantina Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-chlorenuf' do
     url 'http://dl.dafont.com/dl/?f=chlorenuf'
     name 'Chlorenuf'
     homepage 'http://www.dafont.com/chlorenuf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHLORENF.TTF'
 end

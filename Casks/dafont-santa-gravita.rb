@@ -5,7 +5,6 @@ cask 'dafont-santa-gravita' do
     url 'http://dl.dafont.com/dl/?f=santa_gravita'
     name 'Santa Gravita'
     homepage 'http://www.dafont.com/santa-gravita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BFF Santa Gravita/Santa Gravita.ttf'
 end

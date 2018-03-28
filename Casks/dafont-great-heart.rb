@@ -5,7 +5,6 @@ cask 'dafont-great-heart' do
     url 'http://dl.dafont.com/dl/?f=great_heart'
     name 'Great Heart'
     homepage 'http://www.dafont.com/great-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GREAT HEART.ttf'
 end

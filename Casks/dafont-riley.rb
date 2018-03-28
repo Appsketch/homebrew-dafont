@@ -5,7 +5,6 @@ cask 'dafont-riley' do
     url 'http://dl.dafont.com/dl/?f=riley'
     name 'Riley'
     homepage 'http://www.dafont.com/riley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Riley.otf'
 end

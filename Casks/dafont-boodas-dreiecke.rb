@@ -5,7 +5,6 @@ cask 'dafont-boodas-dreiecke' do
     url 'http://dl.dafont.com/dl/?f=boodas_dreiecke'
     name 'Boodas Dreiecke'
     homepage 'http://www.dafont.com/boodas-dreiecke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOODAS.DE l DREIECKE.ttf'
 end

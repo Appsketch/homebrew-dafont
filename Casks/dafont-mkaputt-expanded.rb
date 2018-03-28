@@ -5,7 +5,6 @@ cask 'dafont-mkaputt-expanded' do
     url 'http://dl.dafont.com/dl/?f=mkaputt_expanded'
     name 'MKaputt Expanded'
     homepage 'http://www.dafont.com/mkaputt-expanded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MKaputt-Expanded.ttf'
 end

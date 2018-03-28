@@ -5,7 +5,6 @@ cask 'dafont-slimeball' do
     url 'http://dl.dafont.com/dl/?f=slimeball'
     name 'Slimeball'
     homepage 'http://www.dafont.com/slimeball.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slimeball.ttf'
 end

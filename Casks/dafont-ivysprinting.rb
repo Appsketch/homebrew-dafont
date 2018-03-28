@@ -5,7 +5,6 @@ cask 'dafont-ivysprinting' do
     url 'http://dl.dafont.com/dl/?f=ivysprinting'
     name 'Ivys Printing'
     homepage 'http://www.dafont.com/ivysprinting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IvysPrinting.ttf'
 end

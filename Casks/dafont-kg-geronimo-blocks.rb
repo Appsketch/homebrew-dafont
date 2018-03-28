@@ -5,7 +5,6 @@ cask 'dafont-kg-geronimo-blocks' do
     url 'http://dl.dafont.com/dl/?f=kg_geronimo_blocks'
     name 'KG Geronimo Blocks'
     homepage 'http://www.dafont.com/kg-geronimo-blocks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGGeronimoBlocks.ttf'
 end

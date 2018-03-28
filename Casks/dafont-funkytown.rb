@@ -5,7 +5,6 @@ cask 'dafont-funkytown' do
     url 'http://dl.dafont.com/dl/?f=funkytown'
     name 'Funkytown'
     homepage 'http://www.dafont.com/funkytown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Funkytown.ttf'
 end

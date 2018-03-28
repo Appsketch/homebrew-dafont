@@ -5,7 +5,6 @@ cask 'dafont-old-n-new-media' do
     url 'http://dl.dafont.com/dl/?f=old_n_new_media'
     name 'Old N New Media'
     homepage 'http://www.dafont.com/old-n-new-media.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old N New Media.ttf'
 end

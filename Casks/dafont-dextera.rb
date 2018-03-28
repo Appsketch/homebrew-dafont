@@ -5,7 +5,6 @@ cask 'dafont-dextera' do
     url 'http://dl.dafont.com/dl/?f=dextera'
     name 'Dextera'
     homepage 'http://www.dafont.com/dextera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DXTA_TRIAL.ttf'
 end

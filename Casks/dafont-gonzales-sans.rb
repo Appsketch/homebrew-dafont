@@ -5,7 +5,6 @@ cask 'dafont-gonzales-sans' do
     url 'http://dl.dafont.com/dl/?f=gonzales_sans'
     name 'Gonzales Sans'
     homepage 'http://www.dafont.com/gonzales-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GonzalesSans.ttf'
 end

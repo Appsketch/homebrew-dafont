@@ -5,7 +5,6 @@ cask 'dafont-lsd-junior' do
     url 'http://dl.dafont.com/dl/?f=lsd_junior'
     name 'LSD Junior'
     homepage 'http://www.dafont.com/lsd-junior.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter LSD junior.ttf'
 end

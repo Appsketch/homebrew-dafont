@@ -5,7 +5,6 @@ cask 'dafont-pota' do
     url 'http://dl.dafont.com/dl/?f=pota'
     name 'Pota'
     homepage 'http://www.dafont.com/pota.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pota.ttf'
 end

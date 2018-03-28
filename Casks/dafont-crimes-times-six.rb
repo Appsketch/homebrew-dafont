@@ -5,7 +5,6 @@ cask 'dafont-crimes-times-six' do
     url 'http://dl.dafont.com/dl/?f=crimes_times_six'
     name 'Crimes Times Six'
     homepage 'http://www.dafont.com/crimes-times-six.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crimes Times Six.ttf'
 end

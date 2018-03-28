@@ -5,7 +5,6 @@ cask 'dafont-tricky-christine' do
     url 'http://dl.dafont.com/dl/?f=tricky_christine'
     name 'Tricky Christine'
     homepage 'http://www.dafont.com/tricky-christine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tricky Christine.ttf'
 end

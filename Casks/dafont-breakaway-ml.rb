@@ -5,7 +5,6 @@ cask 'dafont-breakaway-ml' do
     url 'http://dl.dafont.com/dl/?f=breakaway_ml'
     name 'Breakaway'
     homepage 'http://www.dafont.com/breakaway-ml.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Breakaway.ttf'
 end

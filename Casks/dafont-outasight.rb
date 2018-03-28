@@ -5,7 +5,6 @@ cask 'dafont-outasight' do
     url 'http://dl.dafont.com/dl/?f=outasight'
     name 'Outasight'
     homepage 'http://www.dafont.com/outasight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Outasight.ttf'
 end

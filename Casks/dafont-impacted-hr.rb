@@ -5,7 +5,6 @@ cask 'dafont-impacted-hr' do
     url 'http://dl.dafont.com/dl/?f=impacted_hr'
     name 'Impacted'
     homepage 'http://www.dafont.com/impacted-hr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IMPACTED.ttf'
 end

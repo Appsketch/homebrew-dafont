@@ -5,7 +5,6 @@ cask 'dafont-take-cover' do
     url 'http://dl.dafont.com/dl/?f=take_cover'
     name 'Take Cover'
     homepage 'http://www.dafont.com/take-cover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Take cover.ttf'
 end

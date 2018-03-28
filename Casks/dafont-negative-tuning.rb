@@ -5,7 +5,6 @@ cask 'dafont-negative-tuning' do
     url 'http://dl.dafont.com/dl/?f=negative_tuning'
     name 'Negative Tuning'
     homepage 'http://www.dafont.com/negative-tuning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'negat___.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-phank' do
     url 'http://dl.dafont.com/dl/?f=phank'
     name 'Phank'
     homepage 'http://www.dafont.com/phank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PHANRG__.TTF'
 end

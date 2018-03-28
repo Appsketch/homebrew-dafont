@@ -5,7 +5,6 @@ cask 'dafont-regupix' do
     url 'http://dl.dafont.com/dl/?f=regupix'
     name 'Regupix'
     homepage 'http://www.dafont.com/regupix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REGUB___.TTF'
     font 'REGUPIX_.TTF'

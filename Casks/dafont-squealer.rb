@@ -5,7 +5,6 @@ cask 'dafont-squealer' do
     url 'http://dl.dafont.com/dl/?f=squealer'
     name 'Squealer'
     homepage 'http://www.dafont.com/squealer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'squealer embossed.ttf'
     font 'squealer.ttf'

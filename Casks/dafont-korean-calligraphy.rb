@@ -5,7 +5,6 @@ cask 'dafont-korean-calligraphy' do
     url 'http://dl.dafont.com/dl/?f=korean_calligraphy'
     name 'Korean Calligraphy'
     homepage 'http://www.dafont.com/korean-calligraphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Korean_Calligraphy.ttf'
 end

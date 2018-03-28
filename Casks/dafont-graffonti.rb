@@ -5,7 +5,6 @@ cask 'dafont-graffonti' do
     url 'http://dl.dafont.com/dl/?f=graffonti'
     name 'Graffonti'
     homepage 'http://www.dafont.com/graffonti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'graffonti.3d.drop.[fontvir.us].ttf'
     font 'graffonti.atomic.bomb.[fontvir.us].ttf'

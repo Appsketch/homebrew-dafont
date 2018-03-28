@@ -5,7 +5,6 @@ cask 'dafont-roda' do
     url 'http://dl.dafont.com/dl/?f=roda'
     name 'Roda'
     homepage 'http://www.dafont.com/roda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Roda.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-creature-feature' do
     url 'http://dl.dafont.com/dl/?f=creature_feature'
     name 'Creature Feature'
     homepage 'http://www.dafont.com/creature-feature.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Creature Feature.ttf'
 end

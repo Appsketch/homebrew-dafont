@@ -5,7 +5,6 @@ cask 'dafont-bestioles' do
     url 'http://dl.dafont.com/dl/?f=bestioles'
     name 'Bestioles'
     homepage 'http://www.dafont.com/bestioles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bestioles.TTF'
 end

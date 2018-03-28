@@ -5,7 +5,6 @@ cask 'dafont-chess-cases' do
     url 'http://dl.dafont.com/dl/?f=chess_cases'
     name 'Chess Cases'
     homepage 'http://www.dafont.com/chess-cases.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CASEFONT.TTF'
 end

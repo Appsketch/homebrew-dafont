@@ -5,7 +5,6 @@ cask 'dafont-kg-always-a-good-time' do
     url 'http://dl.dafont.com/dl/?f=kg_always_a_good_time'
     name 'KG Always A Good Time'
     homepage 'http://www.dafont.com/kg-always-a-good-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGAlwaysAGoodTime.ttf'
 end

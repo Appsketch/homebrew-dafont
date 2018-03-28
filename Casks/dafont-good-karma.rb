@@ -5,7 +5,6 @@ cask 'dafont-good-karma' do
     url 'http://dl.dafont.com/dl/?f=good_karma'
     name 'Good Karma'
     homepage 'http://www.dafont.com/good-karma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Good Karma demo.ttf'
 end

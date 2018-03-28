@@ -5,7 +5,6 @@ cask 'dafont-bumpy-road' do
     url 'http://dl.dafont.com/dl/?f=bumpy_road'
     name 'Bumpy Road'
     homepage 'http://www.dafont.com/bumpy-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bumpyroad.ttf'
 end

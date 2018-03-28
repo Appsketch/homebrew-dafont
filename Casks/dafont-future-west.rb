@@ -5,7 +5,6 @@ cask 'dafont-future-west' do
     url 'http://dl.dafont.com/dl/?f=future_west'
     name 'Future West'
     homepage 'http://www.dafont.com/future-west.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Future West.ttf'
 end

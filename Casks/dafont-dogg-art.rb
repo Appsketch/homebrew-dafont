@@ -5,7 +5,6 @@ cask 'dafont-dogg-art' do
     url 'http://dl.dafont.com/dl/?f=dogg_art'
     name 'Dogg Art'
     homepage 'http://www.dafont.com/dogg-art.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doggart.ttf'
 end

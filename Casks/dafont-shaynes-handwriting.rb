@@ -5,7 +5,6 @@ cask 'dafont-shaynes-handwriting' do
     url 'http://dl.dafont.com/dl/?f=shaynes_handwriting'
     name 'Shaynes Handwriting'
     homepage 'http://www.dafont.com/shaynes-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shaynes_Handwriting.ttf'
 end

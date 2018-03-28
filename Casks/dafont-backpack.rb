@@ -5,7 +5,6 @@ cask 'dafont-backpack' do
     url 'http://dl.dafont.com/dl/?f=backpack'
     name 'Backpack'
     homepage 'http://www.dafont.com/backpack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Backpack_PersonalUse.ttf'
 end

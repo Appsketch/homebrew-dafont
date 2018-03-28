@@ -5,7 +5,6 @@ cask 'dafont-franciie' do
     url 'http://dl.dafont.com/dl/?f=franciie'
     name 'Franciie'
     homepage 'http://www.dafont.com/franciie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'franciie.ttf'
 end

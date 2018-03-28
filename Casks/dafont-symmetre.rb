@@ -5,7 +5,6 @@ cask 'dafont-symmetre' do
     url 'http://dl.dafont.com/dl/?f=symmetre'
     name 'Symmetre'
     homepage 'http://www.dafont.com/symmetre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Symmetre.ttf'
 end

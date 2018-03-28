@@ -5,7 +5,6 @@ cask 'dafont-julia-black' do
     url 'http://dl.dafont.com/dl/?f=julia_black'
     name 'Julia Black'
     homepage 'http://www.dafont.com/julia-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Julia Black Extended.ttf'
 end

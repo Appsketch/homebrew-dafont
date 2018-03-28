@@ -5,7 +5,6 @@ cask 'dafont-liitu' do
     url 'http://dl.dafont.com/dl/?f=liitu'
     name 'Liitu'
     homepage 'http://www.dafont.com/liitu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'liitu.ttf'
 end

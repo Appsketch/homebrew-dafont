@@ -5,7 +5,6 @@ cask 'dafont-techno-hideo' do
     url 'http://dl.dafont.com/dl/?f=techno_hideo'
     name 'Techno Hideo'
     homepage 'http://www.dafont.com/techno-hideo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'techno_hideo_bold.ttf'
     font 'techno_hideo.ttf'

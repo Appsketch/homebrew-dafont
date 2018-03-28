@@ -5,7 +5,6 @@ cask 'dafont-runez-of-omega' do
     url 'http://dl.dafont.com/dl/?f=runez_of_omega'
     name 'Runez of Omega'
     homepage 'http://www.dafont.com/runez-of-omega.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Runez of Omega Three.ttf'
     font 'Runez of Omega Two.ttf'

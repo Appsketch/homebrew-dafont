@@ -5,7 +5,6 @@ cask 'dafont-dk-okiku' do
     url 'http://dl.dafont.com/dl/?f=dk_okiku'
     name 'DK Okiku'
     homepage 'http://www.dafont.com/dk-okiku.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Okiku.otf'
 end

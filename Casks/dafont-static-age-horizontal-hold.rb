@@ -5,7 +5,6 @@ cask 'dafont-static-age-horizontal-hold' do
     url 'http://dl.dafont.com/dl/?f=static_age_horizontal_hold'
     name 'Static Age Horizontal Hold'
     homepage 'http://www.dafont.com/static-age-horizontal-hold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stat_hh.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-easter-fun-by-tom' do
     url 'http://dl.dafont.com/dl/?f=easter_fun_by_tom'
     name 'Easter Fun by Tom'
     homepage 'http://www.dafont.com/easter-fun-by-tom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EasterFunbyTom.ttf'
 end

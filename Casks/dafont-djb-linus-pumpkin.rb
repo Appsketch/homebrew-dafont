@@ -5,7 +5,6 @@ cask 'dafont-djb-linus-pumpkin' do
     url 'http://dl.dafont.com/dl/?f=djb_linus_pumpkin'
     name 'DJB Linus&#039; Pumpkin'
     homepage 'http://www.dafont.com/djb-linus-pumpkin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Linus&#039; Pumpkin 2.ttf'
     font 'DJB Linus&#039; Pumpkin.ttf'

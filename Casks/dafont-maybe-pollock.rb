@@ -5,7 +5,6 @@ cask 'dafont-maybe-pollock' do
     url 'http://dl.dafont.com/dl/?f=maybe_pollock'
     name 'Maybe Pollock'
     homepage 'http://www.dafont.com/maybe-pollock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maybe Pollock.ttf'
 end

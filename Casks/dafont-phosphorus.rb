@@ -5,7 +5,6 @@ cask 'dafont-phosphorus' do
     url 'http://dl.dafont.com/dl/?f=phosphorus'
     name 'Phosphorus Family'
     homepage 'http://www.dafont.com/phosphorus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phosb___.ttf'
     font 'Phosc___.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-kingthings-exeter' do
     url 'http://dl.dafont.com/dl/?f=kingthings_exeter'
     name 'Kingthings Exeter'
     homepage 'http://www.dafont.com/kingthings-exeter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Exeter.ttf'
     font 'Kingthings Facetype.ttf'

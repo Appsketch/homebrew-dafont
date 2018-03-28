@@ -5,7 +5,6 @@ cask 'dafont-parahyangan' do
     url 'http://dl.dafont.com/dl/?f=parahyangan'
     name 'Parahyangan'
     homepage 'http://www.dafont.com/parahyangan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'parahyangan space.ttf'
 end

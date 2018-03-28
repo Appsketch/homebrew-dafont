@@ -5,7 +5,6 @@ cask 'dafont-we-are-in-love' do
     url 'http://dl.dafont.com/dl/?f=we_are_in_love'
     name 'We Are In Love'
     homepage 'http://www.dafont.com/we-are-in-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'We Are In Love (Heartless).ttf'
     font 'We Are In Love.ttf'

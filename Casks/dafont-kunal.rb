@@ -5,7 +5,6 @@ cask 'dafont-kunal' do
     url 'http://dl.dafont.com/dl/?f=kunal'
     name 'Kunal'
     homepage 'http://www.dafont.com/kunal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kunal.ttf'
 end

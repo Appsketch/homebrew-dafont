@@ -5,7 +5,6 @@ cask 'dafont-cutie-patootie' do
     url 'http://dl.dafont.com/dl/?f=cutie_patootie'
     name 'Cutie Patootie'
     homepage 'http://www.dafont.com/cutie-patootie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cutie Patootie Hollow.ttf'
     font 'Cutie Patootie Skinny.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-new-press-eroded' do
     url 'http://dl.dafont.com/dl/?f=new_press_eroded'
     name 'New Press Eroded'
     homepage 'http://www.dafont.com/new-press-eroded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New Press Eroded.ttf'
 end

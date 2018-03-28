@@ -5,7 +5,6 @@ cask 'dafont-sumdumgoi' do
     url 'http://dl.dafont.com/dl/?f=sumdumgoi'
     name 'Sumdumgoi'
     homepage 'http://www.dafont.com/sumdumgoi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUMDUMGO.TTF'
 end

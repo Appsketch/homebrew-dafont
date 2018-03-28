@@ -5,7 +5,6 @@ cask 'dafont-dk-bungehuis' do
     url 'http://dl.dafont.com/dl/?f=dk_bungehuis'
     name 'DK Bungehuis'
     homepage 'http://www.dafont.com/dk-bungehuis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Bungehuis.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ardagh' do
     url 'http://dl.dafont.com/dl/?f=ardagh'
     name 'Ardagh'
     homepage 'http://www.dafont.com/ardagh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ardagh.ttf'
 end

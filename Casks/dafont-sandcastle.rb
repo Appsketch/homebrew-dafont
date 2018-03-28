@@ -5,7 +5,6 @@ cask 'dafont-sandcastle' do
     url 'http://dl.dafont.com/dl/?f=sandcastle'
     name 'Sandcastle'
     homepage 'http://www.dafont.com/sandcastle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SandcastleMedium_TTF.ttf'
 end

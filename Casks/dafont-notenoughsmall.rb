@@ -5,7 +5,6 @@ cask 'dafont-notenoughsmall' do
     url 'http://dl.dafont.com/dl/?f=notenoughsmall'
     name 'Not Enough Small'
     homepage 'http://www.dafont.com/notenoughsmall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NotEnoughSmall.ttf'
 end

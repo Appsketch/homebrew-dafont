@@ -5,7 +5,6 @@ cask 'dafont-carybe' do
     url 'http://dl.dafont.com/dl/?f=carybe'
     name 'Carybe'
     homepage 'http://www.dafont.com/carybe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carybe.otf'
 end

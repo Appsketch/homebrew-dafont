@@ -5,7 +5,6 @@ cask 'dafont-techno-wanker' do
     url 'http://dl.dafont.com/dl/?f=techno_wanker'
     name 'Techno Wanker'
     homepage 'http://www.dafont.com/techno-wanker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TechnoWanker.ttf'
 end

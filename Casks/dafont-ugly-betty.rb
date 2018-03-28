@@ -5,7 +5,6 @@ cask 'dafont-ugly-betty' do
     url 'http://dl.dafont.com/dl/?f=ugly_betty'
     name 'Ugly Betty'
     homepage 'http://www.dafont.com/ugly-betty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ugly_betty vol 0.2.ttf'
 end

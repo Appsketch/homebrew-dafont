@@ -5,7 +5,6 @@ cask 'dafont-odd-press' do
     url 'http://dl.dafont.com/dl/?f=odd_press'
     name 'Odd Press'
     homepage 'http://www.dafont.com/odd-press.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Odd Press.ttf'
 end

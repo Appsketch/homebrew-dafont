@@ -5,7 +5,6 @@ cask 'dafont-djb-boyfriend-jeans' do
     url 'http://dl.dafont.com/dl/?f=djb_boyfriend_jeans'
     name 'DJB Boyfriend Jeans'
     homepage 'http://www.dafont.com/djb-boyfriend-jeans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB BOYFRIEND JEANS.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mb-the-great-reaper' do
     url 'http://dl.dafont.com/dl/?f=mb_the_great_reaper'
     name 'MB The Great Reaper'
     homepage 'http://www.dafont.com/mb-the-great-reaper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-The_Great_Reaper.ttf'
 end

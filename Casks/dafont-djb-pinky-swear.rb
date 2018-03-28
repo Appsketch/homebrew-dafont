@@ -5,7 +5,6 @@ cask 'dafont-djb-pinky-swear' do
     url 'http://dl.dafont.com/dl/?f=djb_pinky_swear'
     name 'DJB Pinky Swear'
     homepage 'http://www.dafont.com/djb-pinky-swear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Pinky Swear.ttf'
 end

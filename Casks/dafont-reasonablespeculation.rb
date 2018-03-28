@@ -5,7 +5,6 @@ cask 'dafont-reasonablespeculation' do
     url 'http://dl.dafont.com/dl/?f=reasonablespeculation'
     name 'Reasonable Speculation'
     homepage 'http://www.dafont.com/reasonablespeculation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ReasonableSpeculation.ttf'
 end

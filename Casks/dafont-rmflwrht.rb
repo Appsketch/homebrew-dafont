@@ -5,7 +5,6 @@ cask 'dafont-rmflwrht' do
     url 'http://dl.dafont.com/dl/?f=rmflwrht'
     name 'RMFlwrHt'
     homepage 'http://www.dafont.com/rmflwrht.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rmflwrht.ttf'
 end

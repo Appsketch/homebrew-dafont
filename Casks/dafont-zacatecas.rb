@@ -5,7 +5,6 @@ cask 'dafont-zacatecas' do
     url 'http://dl.dafont.com/dl/?f=zacatecas'
     name 'Zacatecas'
     homepage 'http://www.dafont.com/zacatecas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zacatecas-ffp.ttf'
 end

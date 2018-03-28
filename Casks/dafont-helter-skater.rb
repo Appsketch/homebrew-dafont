@@ -5,7 +5,6 @@ cask 'dafont-helter-skater' do
     url 'http://dl.dafont.com/dl/?f=helter_skater'
     name 'Helter Skater'
     homepage 'http://www.dafont.com/helter-skater.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HELTSN__.TTF'
 end

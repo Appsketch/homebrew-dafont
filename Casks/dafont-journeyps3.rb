@@ -5,7 +5,6 @@ cask 'dafont-journeyps3' do
     url 'http://dl.dafont.com/dl/?f=journeyps3'
     name 'Journey PS3'
     homepage 'http://www.dafont.com/journeyps3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JourneyPS3.ttf'
 end

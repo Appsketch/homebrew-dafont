@@ -5,7 +5,6 @@ cask 'dafont-bellefine' do
     url 'http://dl.dafont.com/dl/?f=bellefine'
     name 'Bellefine'
     homepage 'http://www.dafont.com/bellefine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bellefine - BC.ttf'
 end

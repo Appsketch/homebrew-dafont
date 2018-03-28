@@ -5,7 +5,6 @@ cask 'dafont-timetoparty' do
     url 'http://dl.dafont.com/dl/?f=timetoparty'
     name 'Time To Party'
     homepage 'http://www.dafont.com/timetoparty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TimeToParty.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fragment-core' do
     url 'http://dl.dafont.com/dl/?f=fragment_core'
     name 'Fragment Core'
     homepage 'http://www.dafont.com/fragment-core.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fragmentcore.otf'
 end

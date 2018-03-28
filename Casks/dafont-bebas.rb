@@ -5,7 +5,6 @@ cask 'dafont-bebas' do
     url 'http://dl.dafont.com/dl/?f=bebas'
     name 'Bebas'
     homepage 'http://www.dafont.com/bebas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEBAS___.TTF'
 end

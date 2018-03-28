@@ -5,7 +5,6 @@ cask 'dafont-tulisan-tanganku' do
     url 'http://dl.dafont.com/dl/?f=tulisan_tanganku'
     name 'Tulisan Tanganku'
     homepage 'http://www.dafont.com/tulisan-tanganku.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tulisan_tanganku.ttf'
 end

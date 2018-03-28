@@ -5,7 +5,6 @@ cask 'dafont-mayumi-gumi' do
     url 'http://dl.dafont.com/dl/?f=mayumi_gumi'
     name 'Mayumi Gumi'
     homepage 'http://www.dafont.com/mayumi-gumi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mayumi Gumi.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-trekarrowheads' do
     url 'http://dl.dafont.com/dl/?f=trekarrowheads'
     name 'Trek Arrowheads'
     homepage 'http://www.dafont.com/trekarrowheads.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trek Arrowheads.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mawns-graffiti' do
     url 'http://dl.dafont.com/dl/?f=mawns_graffiti'
     name 'Mawns Graffiti'
     homepage 'http://www.dafont.com/mawns-graffiti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAWNS Graffiti Filled.ttf'
 end

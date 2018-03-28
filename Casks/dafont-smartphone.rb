@@ -5,7 +5,6 @@ cask 'dafont-smartphone' do
     url 'http://dl.dafont.com/dl/?f=smartphone'
     name 'Smartphone'
     homepage 'http://www.dafont.com/smartphone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'smartphone.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-whipsmart' do
     url 'http://dl.dafont.com/dl/?f=whipsmart'
     name 'Whipsmart'
     homepage 'http://www.dafont.com/whipsmart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Whipsmart Bold.ttf'
     font 'Whipsmart.ttf'

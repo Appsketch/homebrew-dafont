@@ -5,7 +5,6 @@ cask 'dafont-asdf' do
     url 'http://dl.dafont.com/dl/?f=asdf'
     name 'Asdf'
     homepage 'http://www.dafont.com/asdf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asdf.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yunapixel' do
     url 'http://dl.dafont.com/dl/?f=yunapixel'
     name 'Yunapixel'
     homepage 'http://www.dafont.com/yunapixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yunapixel.ttf'
 end

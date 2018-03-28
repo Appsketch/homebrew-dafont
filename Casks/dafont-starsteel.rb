@@ -5,7 +5,6 @@ cask 'dafont-starsteel' do
     url 'http://dl.dafont.com/dl/?f=starsteel'
     name 'Starsteel'
     homepage 'http://www.dafont.com/starsteel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Starsteel.ttf'
 end

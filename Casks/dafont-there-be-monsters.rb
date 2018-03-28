@@ -5,7 +5,6 @@ cask 'dafont-there-be-monsters' do
     url 'http://dl.dafont.com/dl/?f=there_be_monsters'
     name 'There be monsters'
     homepage 'http://www.dafont.com/there-be-monsters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Therebemonsters.ttf'
 end

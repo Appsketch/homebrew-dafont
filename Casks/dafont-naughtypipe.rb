@@ -5,7 +5,6 @@ cask 'dafont-naughtypipe' do
     url 'http://dl.dafont.com/dl/?f=naughtypipe'
     name 'Naughty Pipe'
     homepage 'http://www.dafont.com/naughtypipe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NaughtyPipe.ttf'
 end

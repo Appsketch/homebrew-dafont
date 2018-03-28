@@ -5,7 +5,6 @@ cask 'dafont-astral-wave' do
     url 'http://dl.dafont.com/dl/?f=astral_wave'
     name 'Astral Wave'
     homepage 'http://www.dafont.com/astral-wave.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Astral Wave.ttf'
 end

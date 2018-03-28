@@ -5,7 +5,6 @@ cask 'dafont-cf-simon-marchessault' do
     url 'http://dl.dafont.com/dl/?f=cf_simon_marchessault'
     name 'CF Simon Marchessault'
     homepage 'http://www.dafont.com/cf-simon-marchessault.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFSimeonMarchessault-Regula.ttf'
 end

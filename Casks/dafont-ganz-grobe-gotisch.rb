@@ -5,7 +5,6 @@ cask 'dafont-ganz-grobe-gotisch' do
     url 'http://dl.dafont.com/dl/?f=ganz_grobe_gotisch'
     name 'Ganz Grobe Gotisch'
     homepage 'http://www.dafont.com/ganz-grobe-gotisch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GanzGrobeGotisch.ttf'
 end

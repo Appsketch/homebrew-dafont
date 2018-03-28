@@ -5,7 +5,6 @@ cask 'dafont-blacklightning' do
     url 'http://dl.dafont.com/dl/?f=blacklightning'
     name 'Black Lightning'
     homepage 'http://www.dafont.com/blacklightning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackLightning.ttf'
 end

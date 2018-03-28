@@ -5,7 +5,6 @@ cask 'dafont-battlemage' do
     url 'http://dl.dafont.com/dl/?f=battlemage'
     name 'BattleMage'
     homepage 'http://www.dafont.com/battlemage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Battle Mage.ttf'
 end

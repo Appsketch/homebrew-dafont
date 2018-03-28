@@ -5,7 +5,6 @@ cask 'dafont-razzle-dazzle' do
     url 'http://dl.dafont.com/dl/?f=razzle_dazzle'
     name 'Razzle Dazzle'
     homepage 'http://www.dafont.com/razzle-dazzle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'razzle.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tafelschrift' do
     url 'http://dl.dafont.com/dl/?f=tafelschrift'
     name 'Tafelschrift'
     homepage 'http://www.dafont.com/tafelschrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tafelschrift.ttf'
 end

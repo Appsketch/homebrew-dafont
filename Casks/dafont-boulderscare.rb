@@ -5,7 +5,6 @@ cask 'dafont-boulderscare' do
     url 'http://dl.dafont.com/dl/?f=boulderscare'
     name 'Boulder Scare'
     homepage 'http://www.dafont.com/boulderscare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BoulderScare.ttf'
 end

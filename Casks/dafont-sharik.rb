@@ -5,7 +5,6 @@ cask 'dafont-sharik' do
     url 'http://dl.dafont.com/dl/?f=sharik'
     name 'Sharik'
     homepage 'http://www.dafont.com/sharik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sharik.ttf'
 end

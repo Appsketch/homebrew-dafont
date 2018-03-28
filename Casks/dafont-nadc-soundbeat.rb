@@ -5,7 +5,6 @@ cask 'dafont-nadc-soundbeat' do
     url 'http://dl.dafont.com/dl/?f=nadc_soundbeat'
     name 'NADC Soundbeat'
     homepage 'http://www.dafont.com/nadc-soundbeat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NADC_soundbeat.ttf'
 end

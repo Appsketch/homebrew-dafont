@@ -5,7 +5,6 @@ cask 'dafont-auricom' do
     url 'http://dl.dafont.com/dl/?f=auricom'
     name 'Auricom'
     homepage 'http://www.dafont.com/auricom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'auricom_filled.ttf'
     font 'auricom_regular.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-man-flu' do
     url 'http://dl.dafont.com/dl/?f=man_flu'
     name 'Man Flu'
     homepage 'http://www.dafont.com/man-flu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Man Flu.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-careless' do
     url 'http://dl.dafont.com/dl/?f=careless'
     name 'Careless'
     homepage 'http://www.dafont.com/careless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'careless.ttf'
 end

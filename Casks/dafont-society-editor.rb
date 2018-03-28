@@ -5,7 +5,6 @@ cask 'dafont-society-editor' do
     url 'http://dl.dafont.com/dl/?f=society_editor'
     name 'Society Editor'
     homepage 'http://www.dafont.com/society-editor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SocietyEditor_Personal_Use.ttf'
 end

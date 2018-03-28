@@ -5,7 +5,6 @@ cask 'dafont-cheap-stealer' do
     url 'http://dl.dafont.com/dl/?f=cheap_stealer'
     name 'Cheap Stealer'
     homepage 'http://www.dafont.com/cheap-stealer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHEAPSTE.ttf'
 end

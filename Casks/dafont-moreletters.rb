@@ -5,7 +5,6 @@ cask 'dafont-moreletters' do
     url 'http://dl.dafont.com/dl/?f=moreletters'
     name 'More Letters'
     homepage 'http://www.dafont.com/moreletters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MoreLetters.ttf'
 end

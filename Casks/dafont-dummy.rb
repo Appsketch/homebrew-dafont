@@ -5,7 +5,6 @@ cask 'dafont-dummy' do
     url 'http://dl.dafont.com/dl/?f=dummy'
     name 'Dummy'
     homepage 'http://www.dafont.com/dummy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DUMMY.TTF'
 end

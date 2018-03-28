@@ -5,7 +5,6 @@ cask 'dafont-magnitude' do
     url 'http://dl.dafont.com/dl/?f=magnitude'
     name 'Magnitude'
     homepage 'http://www.dafont.com/magnitude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAGNITUDE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-joejack' do
     url 'http://dl.dafont.com/dl/?f=joejack'
     name 'JoeJack'
     homepage 'http://www.dafont.com/joejack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JoeJack.ttf'
 end

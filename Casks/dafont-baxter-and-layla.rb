@@ -5,7 +5,6 @@ cask 'dafont-baxter-and-layla' do
     url 'http://dl.dafont.com/dl/?f=baxter_and_layla'
     name 'Baxter and Layla'
     homepage 'http://www.dafont.com/baxter-and-layla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baxter and Layla.ttf'
 end

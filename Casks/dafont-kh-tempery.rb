@@ -5,7 +5,6 @@ cask 'dafont-kh-tempery' do
     url 'http://dl.dafont.com/dl/?f=kh_tempery'
     name 'KH Tempery'
     homepage 'http://www.dafont.com/kh-tempery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kh_t_fss.ttf'
     font 'kh_t_hss.ttf'

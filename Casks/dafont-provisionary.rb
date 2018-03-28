@@ -5,7 +5,6 @@ cask 'dafont-provisionary' do
     url 'http://dl.dafont.com/dl/?f=provisionary'
     name 'Provisionary'
     homepage 'http://www.dafont.com/provisionary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Provisionary.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cm-western-woodblock-no2' do
     url 'http://dl.dafont.com/dl/?f=cm_western_woodblock_no2'
     name 'CM Western Woodblock No2'
     homepage 'http://www.dafont.com/cm-western-woodblock-no2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CMWesWoodNo2.ttf'
 end

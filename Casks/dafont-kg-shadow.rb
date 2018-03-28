@@ -5,7 +5,6 @@ cask 'dafont-kg-shadow' do
     url 'http://dl.dafont.com/dl/?f=kg_shadow'
     name 'KG Shadow'
     homepage 'http://www.dafont.com/kg-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGShadowOfTheDay.ttf'
     font 'KGShadowOfTheNight.ttf'

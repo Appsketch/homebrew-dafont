@@ -5,7 +5,6 @@ cask 'dafont-traditional-gothic-' do
     url 'http://dl.dafont.com/dl/?f=traditional_gothic_'
     name 'Traditional Gothic, 17th c.'
     homepage 'http://www.dafont.com/traditional-gothic-.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Traditional Gothic, 17th c..TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-house-of-horror' do
     url 'http://dl.dafont.com/dl/?f=house_of_horror'
     name 'House of Horror'
     homepage 'http://www.dafont.com/house-of-horror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'house of horror.ttf'
 end

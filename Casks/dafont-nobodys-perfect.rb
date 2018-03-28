@@ -5,7 +5,6 @@ cask 'dafont-nobodys-perfect' do
     url 'http://dl.dafont.com/dl/?f=nobodys_perfect'
     name 'Nobody&#039;s Perfect'
     homepage 'http://www.dafont.com/nobodys-perfect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nobody_&#039;s Perfect.ttf'
 end

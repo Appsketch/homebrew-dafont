@@ -5,7 +5,6 @@ cask 'dafont-sans-plate-caps' do
     url 'http://dl.dafont.com/dl/?f=sans_plate_caps'
     name 'Sans Plate Caps'
     homepage 'http://www.dafont.com/sans-plate-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SansPlateCaps.ttf'
 end

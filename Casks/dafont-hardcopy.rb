@@ -5,7 +5,6 @@ cask 'dafont-hardcopy' do
     url 'http://dl.dafont.com/dl/?f=hardcopy'
     name 'Hardcopy'
     homepage 'http://www.dafont.com/hardcopy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HARDCOPYFONT.ttf'
 end

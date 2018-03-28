@@ -5,7 +5,6 @@ cask 'dafont-new-gothic-textura' do
     url 'http://dl.dafont.com/dl/?f=new_gothic_textura'
     name 'New Gothic Textura'
     homepage 'http://www.dafont.com/new-gothic-textura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New_Gothic_Textura.ttf'
 end

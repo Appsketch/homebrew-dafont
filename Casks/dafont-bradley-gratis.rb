@@ -5,7 +5,6 @@ cask 'dafont-bradley-gratis' do
     url 'http://dl.dafont.com/dl/?f=bradley_gratis'
     name 'Bradley Gratis'
     homepage 'http://www.dafont.com/bradley-gratis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bradley Gratis.ttf'
 end

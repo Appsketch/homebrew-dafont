@@ -5,7 +5,6 @@ cask 'dafont-gabachita-ffp' do
     url 'http://dl.dafont.com/dl/?f=gabachita_ffp'
     name 'Gabachita FFP'
     homepage 'http://www.dafont.com/gabachita-ffp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gAbAcHiTA-personal-use.ttf'
 end

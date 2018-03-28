@@ -5,7 +5,6 @@ cask 'dafont-hauser' do
     url 'http://dl.dafont.com/dl/?f=hauser'
     name 'Hauser'
     homepage 'http://www.dafont.com/hauser.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hauser Bold Italic.otf'
     font 'Hauser Bold.otf'

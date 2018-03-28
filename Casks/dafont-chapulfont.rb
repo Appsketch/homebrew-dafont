@@ -5,7 +5,6 @@ cask 'dafont-chapulfont' do
     url 'http://dl.dafont.com/dl/?f=chapulfont'
     name 'Chapul'
     homepage 'http://www.dafont.com/chapulfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChapulFont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-avispa' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_avispa'
     name 'Woodcutter Avispa'
     homepage 'http://www.dafont.com/woodcutter-avispa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Avispa.ttf'
 end

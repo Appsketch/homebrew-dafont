@@ -5,7 +5,6 @@ cask 'dafont-praying-angel' do
     url 'http://dl.dafont.com/dl/?f=praying_angel'
     name 'Praying Angel'
     homepage 'http://www.dafont.com/praying-angel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Praying Angel.ttf'
 end

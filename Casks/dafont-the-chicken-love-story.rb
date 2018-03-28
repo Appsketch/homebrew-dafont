@@ -5,7 +5,6 @@ cask 'dafont-the-chicken-love-story' do
     url 'http://dl.dafont.com/dl/?f=the_chicken_love_story'
     name 'The Chicken love Story'
     homepage 'http://www.dafont.com/the-chicken-love-story.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Chicken love Story.ttf'
 end

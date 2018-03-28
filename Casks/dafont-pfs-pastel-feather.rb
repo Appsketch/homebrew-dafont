@@ -5,7 +5,6 @@ cask 'dafont-pfs-pastel-feather' do
     url 'http://dl.dafont.com/dl/?f=pfs_pastel_feather'
     name 'PFS Pastel Feather'
     homepage 'http://www.dafont.com/pfs-pastel-feather.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PFS Pastel Feather.ttf'
 end

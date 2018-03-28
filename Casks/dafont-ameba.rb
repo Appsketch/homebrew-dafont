@@ -5,7 +5,6 @@ cask 'dafont-ameba' do
     url 'http://dl.dafont.com/dl/?f=ameba'
     name 'Ameba'
     homepage 'http://www.dafont.com/ameba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ameba solo letras y numeros.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bouncing-on-the-walls' do
     url 'http://dl.dafont.com/dl/?f=bouncing_on_the_walls'
     name 'Bouncing on the Walls'
     homepage 'http://www.dafont.com/bouncing-on-the-walls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bouncing on the Walls.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-borrowdale' do
     url 'http://dl.dafont.com/dl/?f=dk_borrowdale'
     name 'DK Borrowdale'
     homepage 'http://www.dafont.com/dk-borrowdale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Borrowdale.otf'
 end

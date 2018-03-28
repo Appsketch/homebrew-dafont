@@ -5,7 +5,6 @@ cask 'dafont-catholic-school-gir' do
     url 'http://dl.dafont.com/dl/?f=catholic_school_gir'
     name 'Catholic School Girls BB'
     homepage 'http://www.dafont.com/catholic-school-gir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CATHSGBR.TTF'
 end

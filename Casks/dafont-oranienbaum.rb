@@ -5,7 +5,6 @@ cask 'dafont-oranienbaum' do
     url 'http://dl.dafont.com/dl/?f=oranienbaum'
     name 'Oranienbaum'
     homepage 'http://www.dafont.com/oranienbaum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oranienbaum.ttf'
 end

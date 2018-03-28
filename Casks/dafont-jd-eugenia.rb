@@ -5,7 +5,6 @@ cask 'dafont-jd-eugenia' do
     url 'http://dl.dafont.com/dl/?f=jd_eugenia'
     name 'JD Eugenia'
     homepage 'http://www.dafont.com/jd-eugenia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_eugenia.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-road-movie' do
     url 'http://dl.dafont.com/dl/?f=road_movie'
     name 'Road Movie'
     homepage 'http://www.dafont.com/road-movie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROADMOVIE TRIAL___.ttf'
 end

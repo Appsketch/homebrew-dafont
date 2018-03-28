@@ -5,7 +5,6 @@ cask 'dafont-hang-the-dj' do
     url 'http://dl.dafont.com/dl/?f=hang_the_dj'
     name 'Hang the DJ'
     homepage 'http://www.dafont.com/hang-the-dj.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HANGTHEDJ.ttf'
 end

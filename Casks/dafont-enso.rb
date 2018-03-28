@@ -5,7 +5,6 @@ cask 'dafont-enso' do
     url 'http://dl.dafont.com/dl/?f=enso'
     name 'Enso'
     homepage 'http://www.dafont.com/enso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'enso.ttf'
 end

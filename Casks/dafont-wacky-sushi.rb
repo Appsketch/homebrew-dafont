@@ -5,7 +5,6 @@ cask 'dafont-wacky-sushi' do
     url 'http://dl.dafont.com/dl/?f=wacky_sushi'
     name 'Wacky Sushi'
     homepage 'http://www.dafont.com/wacky-sushi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wacky Sushi.ttf'
 end

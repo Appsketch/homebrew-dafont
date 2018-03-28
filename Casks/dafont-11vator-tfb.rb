@@ -5,7 +5,6 @@ cask 'dafont-11vator-tfb' do
     url 'http://dl.dafont.com/dl/?f=11vator_tfb'
     name '11 Vator TFB'
     homepage 'http://www.dafont.com/11vator-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '11vator tfb.ttf'
 end

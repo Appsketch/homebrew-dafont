@@ -5,7 +5,6 @@ cask 'dafont-altera2' do
     url 'http://dl.dafont.com/dl/?f=altera2'
     name 'Altera'
     homepage 'http://www.dafont.com/altera2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Altera 6.0.0.140.ttf'
 end

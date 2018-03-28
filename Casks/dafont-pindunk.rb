@@ -5,7 +5,6 @@ cask 'dafont-pindunk' do
     url 'http://dl.dafont.com/dl/?f=pindunk'
     name 'Pindunk'
     homepage 'http://www.dafont.com/pindunk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pindunk-Regular-Free.ttf'
 end

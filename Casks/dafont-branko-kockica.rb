@@ -5,7 +5,6 @@ cask 'dafont-branko-kockica' do
     url 'http://dl.dafont.com/dl/?f=branko_kockica'
     name 'Branko Kockica'
     homepage 'http://www.dafont.com/branko-kockica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BrankoKockica.ttf'
 end

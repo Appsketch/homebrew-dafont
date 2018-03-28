@@ -5,7 +5,6 @@ cask 'dafont-metalblocktheta' do
     url 'http://dl.dafont.com/dl/?f=metalblocktheta'
     name 'MetalBlock Theta'
     homepage 'http://www.dafont.com/metalblocktheta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MetalBlockTheta.ttf'
 end

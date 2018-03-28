@@ -5,7 +5,6 @@ cask 'dafont-dribbleguts' do
     url 'http://dl.dafont.com/dl/?f=dribbleguts'
     name 'Dribble Guts'
     homepage 'http://www.dafont.com/dribbleguts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DribbleGuts.ttf'
 end

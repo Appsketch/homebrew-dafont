@@ -5,7 +5,6 @@ cask 'dafont-qts' do
     url 'http://dl.dafont.com/dl/?f=qts'
     name 'QT&#039;s'
     homepage 'http://www.dafont.com/qts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'qties.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-insight-issue' do
     url 'http://dl.dafont.com/dl/?f=insight_issue'
     name 'Insight Issue'
     homepage 'http://www.dafont.com/insight-issue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Insight Issue.ttf'
 end

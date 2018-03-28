@@ -5,7 +5,6 @@ cask 'dafont-los-santos' do
     url 'http://dl.dafont.com/dl/?f=los_santos'
     name 'Los Santos'
     homepage 'http://www.dafont.com/los-santos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Los Santos.otf'
 end

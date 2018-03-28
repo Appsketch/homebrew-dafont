@@ -5,7 +5,6 @@ cask 'dafont-jd-gina' do
     url 'http://dl.dafont.com/dl/?f=jd_gina'
     name 'JD Gina'
     homepage 'http://www.dafont.com/jd-gina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_gina.ttf'
 end

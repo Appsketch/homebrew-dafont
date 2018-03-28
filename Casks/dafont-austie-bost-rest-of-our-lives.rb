@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-rest-of-our-lives' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_rest_of_our_lives'
     name 'Austie Bost Rest of Our Lives'
     homepage 'http://www.dafont.com/austie-bost-rest-of-our-lives.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Rest of Our Lives.ttf'
 end

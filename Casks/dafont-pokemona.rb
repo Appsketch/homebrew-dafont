@@ -5,7 +5,6 @@ cask 'dafont-pokemona' do
     url 'http://dl.dafont.com/dl/?f=pokemona'
     name 'Pokemona'
     homepage 'http://www.dafont.com/pokemona.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POKEMONA.ttf'
 end

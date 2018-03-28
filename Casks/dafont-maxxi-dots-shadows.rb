@@ -5,7 +5,6 @@ cask 'dafont-maxxi-dots-shadows' do
     url 'http://dl.dafont.com/dl/?f=maxxi_dots_shadows'
     name 'Maxxi Dots Shadows'
     homepage 'http://www.dafont.com/maxxi-dots-shadows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maxxi Dots Shadows.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-anatole-france-if' do
     url 'http://dl.dafont.com/dl/?f=anatole_france_if'
     name 'Anatole France'
     homepage 'http://www.dafont.com/anatole-france-if.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnatoleFrance.otf'
 end

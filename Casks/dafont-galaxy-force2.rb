@@ -5,7 +5,6 @@ cask 'dafont-galaxy-force2' do
     url 'http://dl.dafont.com/dl/?f=galaxy_force2'
     name 'Galaxy Force'
     homepage 'http://www.dafont.com/galaxy-force2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'galaxyforce.ttf'
     font 'galaxyforce3d.ttf'

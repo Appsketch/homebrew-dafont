@@ -5,7 +5,6 @@ cask 'dafont-matchbook' do
     url 'http://dl.dafont.com/dl/?f=matchbook'
     name 'Matchbook'
     homepage 'http://www.dafont.com/matchbook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Matchbook.ttf'
 end

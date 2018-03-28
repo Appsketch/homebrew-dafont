@@ -5,7 +5,6 @@ cask 'dafont-victor-moscoso' do
     url 'http://dl.dafont.com/dl/?f=victor_moscoso'
     name 'Victor Moscoso'
     homepage 'http://www.dafont.com/victor-moscoso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VICTM___.TTF'
 end

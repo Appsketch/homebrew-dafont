@@ -5,7 +5,6 @@ cask 'dafont-insula' do
     url 'http://dl.dafont.com/dl/?f=insula'
     name 'Insula'
     homepage 'http://www.dafont.com/insula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INSULA__.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cantebriggia' do
     url 'http://dl.dafont.com/dl/?f=cantebriggia'
     name 'Cantebriggia'
     homepage 'http://www.dafont.com/cantebriggia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cantebriggia.ttf'
 end

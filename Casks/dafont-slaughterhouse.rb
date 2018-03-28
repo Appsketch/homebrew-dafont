@@ -5,7 +5,6 @@ cask 'dafont-slaughterhouse' do
     url 'http://dl.dafont.com/dl/?f=slaughterhouse'
     name 'Slaughterhouse'
     homepage 'http://www.dafont.com/slaughterhouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'slaughterhouse.ttf'
 end

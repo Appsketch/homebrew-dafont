@@ -5,7 +5,6 @@ cask 'dafont-moltors' do
     url 'http://dl.dafont.com/dl/?f=moltors'
     name 'Moltors'
     homepage 'http://www.dafont.com/moltors.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moltorv2.ttf'
     font 'Moltorv2i.ttf'

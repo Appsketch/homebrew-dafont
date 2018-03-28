@@ -5,7 +5,6 @@ cask 'dafont-bayou-cowboy' do
     url 'http://dl.dafont.com/dl/?f=bayou_cowboy'
     name 'Bayou Cowboy'
     homepage 'http://www.dafont.com/bayou-cowboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BAYOC___.TTF'
 end

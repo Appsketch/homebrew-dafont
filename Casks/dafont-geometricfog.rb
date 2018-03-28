@@ -5,7 +5,6 @@ cask 'dafont-geometricfog' do
     url 'http://dl.dafont.com/dl/?f=geometricfog'
     name 'GeometricFog'
     homepage 'http://www.dafont.com/geometricfog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GeometricFog.ttf'
 end

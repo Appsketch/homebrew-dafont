@@ -5,7 +5,6 @@ cask 'dafont-daimonion' do
     url 'http://dl.dafont.com/dl/?f=daimonion'
     name 'Daimonion'
     homepage 'http://www.dafont.com/daimonion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Daimonion-Regular.otf'
 end

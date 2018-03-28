@@ -5,7 +5,6 @@ cask 'dafont-olimpic-icons-1' do
     url 'http://dl.dafont.com/dl/?f=olimpic_icons_1'
     name 'Olimpic Icons 1'
     homepage 'http://www.dafont.com/olimpic-icons-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Olimpic Icons 1.ttf'
 end

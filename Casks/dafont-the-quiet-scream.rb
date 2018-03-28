@@ -5,7 +5,6 @@ cask 'dafont-the-quiet-scream' do
     url 'http://dl.dafont.com/dl/?f=the_quiet_scream'
     name 'The Quiet Scream'
     homepage 'http://www.dafont.com/the-quiet-scream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the_quiet_scream.ttf'
 end

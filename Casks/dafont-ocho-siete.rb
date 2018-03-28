@@ -5,7 +5,6 @@ cask 'dafont-ocho-siete' do
     url 'http://dl.dafont.com/dl/?f=ocho_siete'
     name 'Ocho Siete'
     homepage 'http://www.dafont.com/ocho-siete.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ocho Siete.ttf'
 end

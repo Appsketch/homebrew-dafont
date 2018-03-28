@@ -5,7 +5,6 @@ cask 'dafont-ponderatta' do
     url 'http://dl.dafont.com/dl/?f=ponderatta'
     name 'Ponderatta'
     homepage 'http://www.dafont.com/ponderatta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ponderatta.ttf'
 end

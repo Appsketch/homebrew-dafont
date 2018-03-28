@@ -5,7 +5,6 @@ cask 'dafont-try-type' do
     url 'http://dl.dafont.com/dl/?f=try_type'
     name 'Try Type'
     homepage 'http://www.dafont.com/try-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trytype_v1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-running-on-empty' do
     url 'http://dl.dafont.com/dl/?f=running_on_empty'
     name 'Running On Empty'
     homepage 'http://www.dafont.com/running-on-empty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RUNNING ON EMPTY.ttf'
 end

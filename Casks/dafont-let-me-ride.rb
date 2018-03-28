@@ -5,7 +5,6 @@ cask 'dafont-let-me-ride' do
     url 'http://dl.dafont.com/dl/?f=let_me_ride'
     name 'Let Me Ride'
     homepage 'http://www.dafont.com/let-me-ride.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LetMeRide.ttf'
 end

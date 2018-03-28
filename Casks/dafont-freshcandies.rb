@@ -5,7 +5,6 @@ cask 'dafont-freshcandies' do
     url 'http://dl.dafont.com/dl/?f=freshcandies'
     name 'Fresh Candies'
     homepage 'http://www.dafont.com/freshcandies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreshCandies.ttf'
 end

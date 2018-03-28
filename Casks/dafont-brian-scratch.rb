@@ -5,7 +5,6 @@ cask 'dafont-brian-scratch' do
     url 'http://dl.dafont.com/dl/?f=brian_scratch'
     name 'Brian Scratch'
     homepage 'http://www.dafont.com/brian-scratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRIASRG_.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-antisocial' do
     url 'http://dl.dafont.com/dl/?f=antisocial'
     name 'Antisocial'
     homepage 'http://www.dafont.com/antisocial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANTI-SOC.TTF'
 end

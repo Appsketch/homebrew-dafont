@@ -5,7 +5,6 @@ cask 'dafont-helium-heaven' do
     url 'http://dl.dafont.com/dl/?f=helium_heaven'
     name 'Helium Heaven'
     homepage 'http://www.dafont.com/helium-heaven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Helium Heaven.ttf'
 end

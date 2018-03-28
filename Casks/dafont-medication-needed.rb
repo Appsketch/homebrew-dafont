@@ -5,7 +5,6 @@ cask 'dafont-medication-needed' do
     url 'http://dl.dafont.com/dl/?f=medication_needed'
     name 'Medication Needed'
     homepage 'http://www.dafont.com/medication-needed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'medicati.ttf'
 end

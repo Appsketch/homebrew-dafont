@@ -5,7 +5,6 @@ cask 'dafont-xack' do
     url 'http://dl.dafont.com/dl/?f=xack'
     name 'Xack'
     homepage 'http://www.dafont.com/xack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xack.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-deedeescribble' do
     url 'http://dl.dafont.com/dl/?f=deedeescribble'
     name 'DeeDee Scribble'
     homepage 'http://www.dafont.com/deedeescribble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeeDeeScribble.ttf'
 end

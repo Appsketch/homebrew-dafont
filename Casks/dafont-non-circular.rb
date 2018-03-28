@@ -5,7 +5,6 @@ cask 'dafont-non-circular' do
     url 'http://dl.dafont.com/dl/?f=non_circular'
     name 'Non Circular'
     homepage 'http://www.dafont.com/non-circular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Non Circular.ttf'
 end

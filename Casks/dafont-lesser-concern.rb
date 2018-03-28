@@ -5,7 +5,6 @@ cask 'dafont-lesser-concern' do
     url 'http://dl.dafont.com/dl/?f=lesser_concern'
     name 'Lesser Concern'
     homepage 'http://www.dafont.com/lesser-concern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lesser concern shadow.ttf'
     font 'lesser concern.ttf'

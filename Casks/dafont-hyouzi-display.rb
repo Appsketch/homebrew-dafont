@@ -5,7 +5,6 @@ cask 'dafont-hyouzi-display' do
     url 'http://dl.dafont.com/dl/?f=hyouzi_display'
     name 'Hyouzi Display'
     homepage 'http://www.dafont.com/hyouzi-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_hyouzi_display.ttf'
     font 'gomarice_hyouzi_display2.ttf'

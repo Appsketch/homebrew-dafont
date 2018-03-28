@@ -5,7 +5,6 @@ cask 'dafont-girl-characters' do
     url 'http://dl.dafont.com/dl/?f=girl_characters'
     name 'Girl Characters'
     homepage 'http://www.dafont.com/girl-characters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Girl Characters.ttf'
 end

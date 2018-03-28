@@ -5,7 +5,6 @@ cask 'dafont-korneuburg-slab' do
     url 'http://dl.dafont.com/dl/?f=korneuburg_slab'
     name 'Korneuburg Slab'
     homepage 'http://www.dafont.com/korneuburg-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Korneuburg-Slab-Bold_Slanted.ttf'
     font 'Korneuburg-Slab-Bold.ttf'

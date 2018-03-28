@@ -5,7 +5,6 @@ cask 'dafont-mls-west' do
     url 'http://dl.dafont.com/dl/?f=mls_west'
     name 'MLS West'
     homepage 'http://www.dafont.com/mls-west.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MLS WEST.ttf'
 end

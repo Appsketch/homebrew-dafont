@@ -5,7 +5,6 @@ cask 'dafont-shockvetica' do
     url 'http://dl.dafont.com/dl/?f=shockvetica'
     name 'Shockvetica'
     homepage 'http://www.dafont.com/shockvetica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shockvetica.ttf'
 end

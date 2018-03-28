@@ -5,7 +5,6 @@ cask 'dafont-eden-mills' do
     url 'http://dl.dafont.com/dl/?f=eden_mills'
     name 'Eden Mills'
     homepage 'http://www.dafont.com/eden-mills.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eden mills bd it.ttf'
     font 'eden mills bd.ttf'

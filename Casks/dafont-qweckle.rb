@@ -5,7 +5,6 @@ cask 'dafont-qweckle' do
     url 'http://dl.dafont.com/dl/?f=qweckle'
     name 'Qweckle'
     homepage 'http://www.dafont.com/qweckle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrystalWiesner-Qweckle.ttf'
 end

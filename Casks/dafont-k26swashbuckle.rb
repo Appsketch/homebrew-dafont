@@ -5,7 +5,6 @@ cask 'dafont-k26swashbuckle' do
     url 'http://dl.dafont.com/dl/?f=k26swashbuckle'
     name 'K26 Swashbuckle'
     homepage 'http://www.dafont.com/k26swashbuckle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K26Swashbuckle.ttf'
 end

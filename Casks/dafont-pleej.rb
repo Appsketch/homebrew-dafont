@@ -5,7 +5,6 @@ cask 'dafont-pleej' do
     url 'http://dl.dafont.com/dl/?f=pleej'
     name 'Pleej'
     homepage 'http://www.dafont.com/pleej.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pleej.ttf'
 end

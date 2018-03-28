@@ -5,7 +5,6 @@ cask 'dafont-hastygrass-vl' do
     url 'http://dl.dafont.com/dl/?f=hastygrass_vl'
     name 'Hasty Grass VL'
     homepage 'http://www.dafont.com/hastygrass-vl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HastyGrass_VL.ttf'
 end

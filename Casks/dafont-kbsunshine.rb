@@ -5,7 +5,6 @@ cask 'dafont-kbsunshine' do
     url 'http://dl.dafont.com/dl/?f=kbsunshine'
     name 'KB Sunshine'
     homepage 'http://www.dafont.com/kbsunshine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBSunshine.ttf'
     font 'KBSunshineBold.ttf'

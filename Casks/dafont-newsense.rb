@@ -5,7 +5,6 @@ cask 'dafont-newsense' do
     url 'http://dl.dafont.com/dl/?f=newsense'
     name 'Newsense'
     homepage 'http://www.dafont.com/newsense.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Newsense.otf'
 end

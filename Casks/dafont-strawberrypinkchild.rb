@@ -5,7 +5,6 @@ cask 'dafont-strawberrypinkchild' do
     url 'http://dl.dafont.com/dl/?f=strawberrypinkchild'
     name 'Strawberry Pink Child'
     homepage 'http://www.dafont.com/strawberrypinkchild.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StrawberryPinkChild.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vaio-con-dios' do
     url 'http://dl.dafont.com/dl/?f=vaio_con_dios'
     name 'Vaio Con Dios'
     homepage 'http://www.dafont.com/vaio-con-dios.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '_IO CON DIOS.otf'
 end

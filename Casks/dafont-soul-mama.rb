@@ -5,7 +5,6 @@ cask 'dafont-soul-mama' do
     url 'http://dl.dafont.com/dl/?f=soul_mama'
     name 'Soul Mama'
     homepage 'http://www.dafont.com/soul-mama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SOULMAMA.TTF'
 end

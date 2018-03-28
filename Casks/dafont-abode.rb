@@ -5,7 +5,6 @@ cask 'dafont-abode' do
     url 'http://dl.dafont.com/dl/?f=abode'
     name 'Abode'
     homepage 'http://www.dafont.com/abode.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JKAbode-Demo.ttf'
     font 'JKAbode-LightDemo.ttf'

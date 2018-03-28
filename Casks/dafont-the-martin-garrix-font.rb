@@ -5,7 +5,6 @@ cask 'dafont-the-martin-garrix-font' do
     url 'http://dl.dafont.com/dl/?f=the_martin_garrix_font'
     name 'The Martin Garrix Font'
     homepage 'http://www.dafont.com/the-martin-garrix-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheMartinGarrixFont.ttf'
 end

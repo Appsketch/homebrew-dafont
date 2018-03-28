@@ -5,7 +5,6 @@ cask 'dafont-djb-my-mood-ring-says-blah' do
     url 'http://dl.dafont.com/dl/?f=djb_my_mood_ring_says_blah'
     name 'DJB My Mood Ring Says Blah'
     homepage 'http://www.dafont.com/djb-my-mood-ring-says-blah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB My Mood Ring Says Blah.ttf'
 end

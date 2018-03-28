@@ -5,7 +5,6 @@ cask 'dafont-vtks-curve' do
     url 'http://dl.dafont.com/dl/?f=vtks_curve'
     name 'VTKS Curve'
     homepage 'http://www.dafont.com/vtks-curve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS CURVE.ttf'
 end

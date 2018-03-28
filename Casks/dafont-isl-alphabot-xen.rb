@@ -5,7 +5,6 @@ cask 'dafont-isl-alphabot-xen' do
     url 'http://dl.dafont.com/dl/?f=isl_alphabot_xen'
     name 'ISL AlphaBot Xen'
     homepage 'http://www.dafont.com/isl-alphabot-xen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alphabot.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-saraband' do
     url 'http://dl.dafont.com/dl/?f=saraband'
     name 'Saraband'
     homepage 'http://www.dafont.com/saraband.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SarabandInitials.ttf'
     font 'SarabandLettering.ttf'

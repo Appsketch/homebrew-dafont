@@ -5,7 +5,6 @@ cask 'dafont-menjelajah-halmahera' do
     url 'http://dl.dafont.com/dl/?f=menjelajah_halmahera'
     name 'Menjelajah Halmahera'
     homepage 'http://www.dafont.com/menjelajah-halmahera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Menjelajah Halmahera.ttf'
 end

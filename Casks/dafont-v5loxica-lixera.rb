@@ -5,7 +5,6 @@ cask 'dafont-v5loxica-lixera' do
     url 'http://dl.dafont.com/dl/?f=v5loxica_lixera'
     name 'V5 Loxica Lixera / Robusta'
     homepage 'http://www.dafont.com/v5loxica-lixera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'v5loxical.ttf'
     font 'v5loxicar.ttf'

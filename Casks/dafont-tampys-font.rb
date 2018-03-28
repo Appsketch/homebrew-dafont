@@ -5,7 +5,6 @@ cask 'dafont-tampys-font' do
     url 'http://dl.dafont.com/dl/?f=tampys_font'
     name 'Tampy&#039;s Font'
     homepage 'http://www.dafont.com/tampys-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tampy_s.ttf'
 end

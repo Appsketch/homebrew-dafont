@@ -5,7 +5,6 @@ cask 'dafont-pwroughs' do
     url 'http://dl.dafont.com/dl/?f=pwroughs'
     name 'PW Roughs'
     homepage 'http://www.dafont.com/pwroughs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWRoughs.ttf'
 end

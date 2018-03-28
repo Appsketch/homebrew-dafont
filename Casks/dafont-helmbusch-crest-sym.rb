@@ -5,7 +5,6 @@ cask 'dafont-helmbusch-crest-sym' do
     url 'http://dl.dafont.com/dl/?f=helmbusch_crest_sym'
     name 'Helmbusch Crest Symbols'
     homepage 'http://www.dafont.com/helmbusch-crest-sym.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HelmbuschCrestSymbols.ttf'
 end

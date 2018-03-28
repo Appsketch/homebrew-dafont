@@ -5,7 +5,6 @@ cask 'dafont-santas-big-secret' do
     url 'http://dl.dafont.com/dl/?f=santas_big_secret'
     name 'Santas Big Secret BB'
     homepage 'http://www.dafont.com/santas-big-secret.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SANTBSB_.TTF'
 end

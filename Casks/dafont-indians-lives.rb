@@ -5,7 +5,6 @@ cask 'dafont-indians-lives' do
     url 'http://dl.dafont.com/dl/?f=indians_lives'
     name 'Indians Lives'
     homepage 'http://www.dafont.com/indians-lives.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Indians Lives.ttf'
 end

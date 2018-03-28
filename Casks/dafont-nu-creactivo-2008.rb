@@ -5,7 +5,6 @@ cask 'dafont-nu-creactivo-2008' do
     url 'http://dl.dafont.com/dl/?f=nu_creactivo_2008'
     name 'N&uuml;*Creactivo 2008'
     homepage 'http://www.dafont.com/nu-creactivo-2008.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'N_FC_Creactivo_2008.ttf'
 end

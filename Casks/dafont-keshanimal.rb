@@ -5,7 +5,6 @@ cask 'dafont-keshanimal' do
     url 'http://dl.dafont.com/dl/?f=keshanimal'
     name 'Ke$hanimal'
     homepage 'http://www.dafont.com/keshanimal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ke$hAnimal - Made By MidnightRemedy.ttf'
     font 'Ke$hAnimal 2.ttf'

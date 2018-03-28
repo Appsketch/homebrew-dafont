@@ -5,7 +5,6 @@ cask 'dafont-cf-atlantide' do
     url 'http://dl.dafont.com/dl/?f=cf_atlantide'
     name 'CF Atlantide'
     homepage 'http://www.dafont.com/cf-atlantide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFAtlantide-Regular.ttf'
 end

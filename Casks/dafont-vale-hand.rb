@@ -5,7 +5,6 @@ cask 'dafont-vale-hand' do
     url 'http://dl.dafont.com/dl/?f=vale_hand'
     name 'Vale Hand'
     homepage 'http://www.dafont.com/vale-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'valefont.ttf'
 end

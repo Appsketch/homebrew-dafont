@@ -5,7 +5,6 @@ cask 'dafont-new-media' do
     url 'http://dl.dafont.com/dl/?f=new_media'
     name 'New Media'
     homepage 'http://www.dafont.com/new-media.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NewMedia Fett Kursiv.ttf'
     font 'NewMedia Fett.ttf'

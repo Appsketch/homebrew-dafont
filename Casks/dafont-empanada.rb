@@ -5,7 +5,6 @@ cask 'dafont-empanada' do
     url 'http://dl.dafont.com/dl/?f=empanada'
     name 'Empanada'
     homepage 'http://www.dafont.com/empanada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Empanada Bold Italic.otf'
     font 'Empanada Bold.otf'

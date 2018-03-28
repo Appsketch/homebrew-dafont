@@ -5,7 +5,6 @@ cask 'dafont-titiktapettf' do
     url 'http://dl.dafont.com/dl/?f=titiktapettf'
     name 'Titik Tapettf'
     homepage 'http://www.dafont.com/titiktapettf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TitikTapettf.ttf'
 end

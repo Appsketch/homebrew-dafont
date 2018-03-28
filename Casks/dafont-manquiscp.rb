@@ -5,7 +5,6 @@ cask 'dafont-manquiscp' do
     url 'http://dl.dafont.com/dl/?f=manquiscp'
     name 'Manquis CP'
     homepage 'http://www.dafont.com/manquiscp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ManquisCP.otf'
 end

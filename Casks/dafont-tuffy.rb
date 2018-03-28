@@ -5,7 +5,6 @@ cask 'dafont-tuffy' do
     url 'http://dl.dafont.com/dl/?f=tuffy'
     name 'Tuffy'
     homepage 'http://www.dafont.com/tuffy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Improved version/Tuffy-Bold.ttf'
     font 'Improved version/Tuffy-BoldItalic.ttf'

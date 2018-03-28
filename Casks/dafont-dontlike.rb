@@ -5,7 +5,6 @@ cask 'dafont-dontlike' do
     url 'http://dl.dafont.com/dl/?f=dontlike'
     name 'Dont Like'
     homepage 'http://www.dafont.com/dontlike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DontLike.ttf'
 end

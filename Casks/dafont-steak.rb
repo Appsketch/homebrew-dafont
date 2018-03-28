@@ -5,7 +5,6 @@ cask 'dafont-steak' do
     url 'http://dl.dafont.com/dl/?f=steak'
     name 'Steak'
     homepage 'http://www.dafont.com/steak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STEAK.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wasabi-gum-g' do
     url 'http://dl.dafont.com/dl/?f=wasabi_gum_g'
     name 'Wasabi-Gum G'
     homepage 'http://www.dafont.com/wasabi-gum-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_wasabi_gum.ttf'
 end

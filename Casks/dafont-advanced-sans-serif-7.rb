@@ -5,7 +5,6 @@ cask 'dafont-advanced-sans-serif-7' do
     url 'http://dl.dafont.com/dl/?f=advanced_sans_serif_7'
     name 'Advanced Sans Serif 7'
     homepage 'http://www.dafont.com/advanced-sans-serif-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'advanced_sans_serif_7_bold.ttf'
     font 'advanced_sans_serif_7.ttf'

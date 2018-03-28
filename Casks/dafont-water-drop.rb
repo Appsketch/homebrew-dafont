@@ -5,7 +5,6 @@ cask 'dafont-water-drop' do
     url 'http://dl.dafont.com/dl/?f=water_drop'
     name 'Water Drop'
     homepage 'http://www.dafont.com/water-drop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'water drop.ttf'
 end

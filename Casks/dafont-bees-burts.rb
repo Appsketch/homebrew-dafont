@@ -5,7 +5,6 @@ cask 'dafont-bees-burts' do
     url 'http://dl.dafont.com/dl/?f=bees_burts'
     name 'Bees Burts'
     homepage 'http://www.dafont.com/bees-burts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bees Burts.ttf'
 end

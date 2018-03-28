@@ -5,7 +5,6 @@ cask 'dafont-www-happyloverstown-eu-discofat' do
     url 'http://dl.dafont.com/dl/?f=www_happyloverstown_eu_discofat'
     name 'www.happyloverstown.eu DiscoFat'
     homepage 'http://www.dafont.com/www-happyloverstown-eu-discofat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'www.happyloverstown.eu_DiscoFat.ttf'
 end

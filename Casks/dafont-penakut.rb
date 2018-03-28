@@ -5,7 +5,6 @@ cask 'dafont-penakut' do
     url 'http://dl.dafont.com/dl/?f=penakut'
     name 'Penakut'
     homepage 'http://www.dafont.com/penakut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'penakut.ttf'
 end

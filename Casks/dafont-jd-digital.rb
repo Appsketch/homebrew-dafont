@@ -5,7 +5,6 @@ cask 'dafont-jd-digital' do
     url 'http://dl.dafont.com/dl/?f=jd_digital'
     name 'JD Digital'
     homepage 'http://www.dafont.com/jd-digital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_digital.ttf'
 end

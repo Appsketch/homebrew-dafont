@@ -5,7 +5,6 @@ cask 'dafont-rocky' do
     url 'http://dl.dafont.com/dl/?f=rocky'
     name 'Rocky AOE'
     homepage 'http://www.dafont.com/rocky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truetype/ROCKYAOE.ttf'
 end

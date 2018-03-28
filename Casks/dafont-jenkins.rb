@@ -5,7 +5,6 @@ cask 'dafont-jenkins' do
     url 'http://dl.dafont.com/dl/?f=jenkins'
     name 'Jenkins'
     homepage 'http://www.dafont.com/jenkins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jenkins.ttf'
 end

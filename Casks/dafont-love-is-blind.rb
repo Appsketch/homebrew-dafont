@@ -5,7 +5,6 @@ cask 'dafont-love-is-blind' do
     url 'http://dl.dafont.com/dl/?f=love_is_blind'
     name 'Love Is Blind'
     homepage 'http://www.dafont.com/love-is-blind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOVE IS BLIND.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-caligrafica-arito' do
     url 'http://dl.dafont.com/dl/?f=caligrafica_arito'
     name 'Caligrafica Arito'
     homepage 'http://www.dafont.com/caligrafica-arito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caligrafica Arito.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sl-pixl' do
     url 'http://dl.dafont.com/dl/?f=sl_pixl'
     name 'SL PiXL'
     homepage 'http://www.dafont.com/sl-pixl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sl_pixl_regular_v1.ttf'
 end

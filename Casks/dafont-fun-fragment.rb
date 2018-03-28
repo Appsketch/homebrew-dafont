@@ -5,7 +5,6 @@ cask 'dafont-fun-fragment' do
     url 'http://dl.dafont.com/dl/?f=fun_fragment'
     name 'fun fragment'
     homepage 'http://www.dafont.com/fun-fragment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fun fragment.ttf'
 end

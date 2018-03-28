@@ -5,7 +5,6 @@ cask 'dafont-trackmania' do
     url 'http://dl.dafont.com/dl/?f=trackmania'
     name 'TrackMania'
     homepage 'http://www.dafont.com/trackmania.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trackmania.ttf'
 end

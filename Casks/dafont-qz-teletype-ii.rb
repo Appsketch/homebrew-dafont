@@ -5,7 +5,6 @@ cask 'dafont-qz-teletype-ii' do
     url 'http://dl.dafont.com/dl/?f=qz_teletype_ii'
     name 'QZ Teletype II'
     homepage 'http://www.dafont.com/qz-teletype-ii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QZ TeletypeII.ttf'
 end

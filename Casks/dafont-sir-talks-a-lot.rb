@@ -5,7 +5,6 @@ cask 'dafont-sir-talks-a-lot' do
     url 'http://dl.dafont.com/dl/?f=sir_talks_a_lot'
     name 'Sir Talks A Lot'
     homepage 'http://www.dafont.com/sir-talks-a-lot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SirTalksALot.TTF'
 end

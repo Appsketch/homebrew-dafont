@@ -5,7 +5,6 @@ cask 'dafont-this-font-is-empty' do
     url 'http://dl.dafont.com/dl/?f=this_font_is_empty'
     name 'This Font is Empty'
     homepage 'http://www.dafont.com/this-font-is-empty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THIS FONT IS EMPTY1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jump-start' do
     url 'http://dl.dafont.com/dl/?f=jump_start'
     name 'Jump Start'
     homepage 'http://www.dafont.com/jump-start.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jstart.ttf'
 end

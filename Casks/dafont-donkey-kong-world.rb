@@ -5,7 +5,6 @@ cask 'dafont-donkey-kong-world' do
     url 'http://dl.dafont.com/dl/?f=donkey_kong_world'
     name 'Donkey Kong World'
     homepage 'http://www.dafont.com/donkey-kong-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DKW.TTF'
 end

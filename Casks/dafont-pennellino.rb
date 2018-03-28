@@ -5,7 +5,6 @@ cask 'dafont-pennellino' do
     url 'http://dl.dafont.com/dl/?f=pennellino'
     name 'Pennellino'
     homepage 'http://www.dafont.com/pennellino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pennellino.ttf'
 end

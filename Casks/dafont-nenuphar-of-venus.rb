@@ -5,7 +5,6 @@ cask 'dafont-nenuphar-of-venus' do
     url 'http://dl.dafont.com/dl/?f=nenuphar_of_venus'
     name 'Nenuphar of Venus'
     homepage 'http://www.dafont.com/nenuphar-of-venus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nenuphar of Venus.otf'
 end

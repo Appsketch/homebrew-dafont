@@ -5,7 +5,6 @@ cask 'dafont-sixties' do
     url 'http://dl.dafont.com/dl/?f=sixties'
     name 'Sixties'
     homepage 'http://www.dafont.com/sixties.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sixties.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fp-third-hand' do
     url 'http://dl.dafont.com/dl/?f=fp_third_hand'
     name 'FP Third Hand'
     homepage 'http://www.dafont.com/fp-third-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FP_third_hand.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-frenchpirates' do
     url 'http://dl.dafont.com/dl/?f=frenchpirates'
     name 'French Pirates'
     homepage 'http://www.dafont.com/frenchpirates.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FrenchPirates.ttf'
 end

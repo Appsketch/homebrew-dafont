@@ -5,7 +5,6 @@ cask 'dafont-vanlose-booktype' do
     url 'http://dl.dafont.com/dl/?f=vanlose_booktype'
     name 'Vanlose BookType'
     homepage 'http://www.dafont.com/vanlose-booktype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vanlose_BookType Normal.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mentone' do
     url 'http://dl.dafont.com/dl/?f=mentone'
     name 'Mentone'
     homepage 'http://www.dafont.com/mentone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mentone-semibol.otf'
 end

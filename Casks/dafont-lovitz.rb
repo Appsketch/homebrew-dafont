@@ -5,7 +5,6 @@ cask 'dafont-lovitz' do
     url 'http://dl.dafont.com/dl/?f=lovitz'
     name 'Lovitz'
     homepage 'http://www.dafont.com/lovitz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOVITZ__.TTF'
 end

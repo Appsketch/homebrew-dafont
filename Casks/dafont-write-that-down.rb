@@ -5,7 +5,6 @@ cask 'dafont-write-that-down' do
     url 'http://dl.dafont.com/dl/?f=write_that_down'
     name 'Write that down'
     homepage 'http://www.dafont.com/write-that-down.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'write_that_down.ttf'
 end

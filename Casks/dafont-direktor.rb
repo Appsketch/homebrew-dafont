@@ -5,7 +5,6 @@ cask 'dafont-direktor' do
     url 'http://dl.dafont.com/dl/?f=direktor'
     name 'Direktor'
     homepage 'http://www.dafont.com/direktor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'direktor.ttf'
     font 'direktor3d.ttf'

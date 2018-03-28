@@ -5,7 +5,6 @@ cask 'dafont-electronic-highway-sign' do
     url 'http://dl.dafont.com/dl/?f=electronic_highway_sign'
     name 'Electronic Highway Sign'
     homepage 'http://www.dafont.com/electronic-highway-sign.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EHSMB.TTF'
 end

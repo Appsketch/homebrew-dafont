@@ -5,7 +5,6 @@ cask 'dafont-jailbird-jenna' do
     url 'http://dl.dafont.com/dl/?f=jailbird_jenna'
     name 'Jailbird Jenna'
     homepage 'http://www.dafont.com/jailbird-jenna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jenna.ttf'
 end

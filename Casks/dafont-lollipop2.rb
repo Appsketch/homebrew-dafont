@@ -5,7 +5,6 @@ cask 'dafont-lollipop2' do
     url 'http://dl.dafont.com/dl/?f=lollipop2'
     name 'Lollipop'
     homepage 'http://www.dafont.com/lollipop2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lollipop.ttf'
 end

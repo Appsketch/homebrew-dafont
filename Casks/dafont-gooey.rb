@@ -5,7 +5,6 @@ cask 'dafont-gooey' do
     url 'http://dl.dafont.com/dl/?f=gooey'
     name 'Gooey'
     homepage 'http://www.dafont.com/gooey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gooey.ttf'
 end

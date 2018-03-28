@@ -5,7 +5,6 @@ cask 'dafont-ridiculousarts' do
     url 'http://dl.dafont.com/dl/?f=ridiculousarts'
     name 'Ridiculous Arts'
     homepage 'http://www.dafont.com/ridiculousarts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RidiculousArts.ttf'
 end

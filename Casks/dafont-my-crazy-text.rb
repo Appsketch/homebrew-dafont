@@ -5,7 +5,6 @@ cask 'dafont-my-crazy-text' do
     url 'http://dl.dafont.com/dl/?f=my_crazy_text'
     name 'My Crazy Text'
     homepage 'http://www.dafont.com/my-crazy-text.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My Crazy Text.ttf'
 end

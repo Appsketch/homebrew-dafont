@@ -5,7 +5,6 @@ cask 'dafont-stereofunk' do
     url 'http://dl.dafont.com/dl/?f=stereofunk'
     name 'Stereofunk'
     homepage 'http://www.dafont.com/stereofunk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stereofunk.ttf'
 end

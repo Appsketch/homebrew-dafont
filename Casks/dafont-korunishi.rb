@@ -5,7 +5,6 @@ cask 'dafont-korunishi' do
     url 'http://dl.dafont.com/dl/?f=korunishi'
     name 'Korunishi'
     homepage 'http://www.dafont.com/korunishi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KORUNISH.TTF'
 end

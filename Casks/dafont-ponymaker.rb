@@ -5,7 +5,6 @@ cask 'dafont-ponymaker' do
     url 'http://dl.dafont.com/dl/?f=ponymaker'
     name 'Pony Maker'
     homepage 'http://www.dafont.com/ponymaker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PonyMaker.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hauptbahnhof' do
     url 'http://dl.dafont.com/dl/?f=hauptbahnhof'
     name 'Hauptbahnhof'
     homepage 'http://www.dafont.com/hauptbahnhof.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hauptbahnhof_reverse.ttf'
     font 'hauptbahnhof.ttf'

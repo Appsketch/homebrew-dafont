@@ -5,7 +5,6 @@ cask 'dafont-karens-kitties' do
     url 'http://dl.dafont.com/dl/?f=karens_kitties'
     name 'Karen&#039;s Kitties'
     homepage 'http://www.dafont.com/karens-kitties.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Karens Kitties.ttf'
 end

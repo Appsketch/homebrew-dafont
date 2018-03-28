@@ -5,7 +5,6 @@ cask 'dafont-dk-kurkuma' do
     url 'http://dl.dafont.com/dl/?f=dk_kurkuma'
     name 'DK Kurkuma'
     homepage 'http://www.dafont.com/dk-kurkuma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Kurkuma.otf'
 end

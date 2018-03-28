@@ -5,7 +5,6 @@ cask 'dafont-antipasto' do
     url 'http://dl.dafont.com/dl/?f=antipasto'
     name 'Antipasto'
     homepage 'http://www.dafont.com/antipasto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Antipasto_extrabold.otf'
     font 'Antipasto_extralight.otf'

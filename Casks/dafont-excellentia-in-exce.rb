@@ -5,7 +5,6 @@ cask 'dafont-excellentia-in-exce' do
     url 'http://dl.dafont.com/dl/?f=excellentia_in_exce'
     name 'Excellentia in excelsis'
     homepage 'http://www.dafont.com/excellentia-in-exce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Excellentia.ttf'
 end

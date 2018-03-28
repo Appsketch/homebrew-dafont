@@ -5,7 +5,6 @@ cask 'dafont-sinder' do
     url 'http://dl.dafont.com/dl/?f=sinder'
     name 'Sinder '
     homepage 'http://www.dafont.com/sinder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sinder FREEBIE FINAL.ttf'
 end

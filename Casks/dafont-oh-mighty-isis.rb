@@ -5,7 +5,6 @@ cask 'dafont-oh-mighty-isis' do
     url 'http://dl.dafont.com/dl/?f=oh_mighty_isis'
     name 'Oh Mighty Isis'
     homepage 'http://www.dafont.com/oh-mighty-isis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ohmightyisis.ttf'
     font 'ohmightyisis3d.ttf'

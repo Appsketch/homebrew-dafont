@@ -5,7 +5,6 @@ cask 'dafont-xeliard' do
     url 'http://dl.dafont.com/dl/?f=xeliard'
     name 'Xeliard'
     homepage 'http://www.dafont.com/xeliard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xeliard.ttf'
 end

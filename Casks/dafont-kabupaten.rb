@@ -5,7 +5,6 @@ cask 'dafont-kabupaten' do
     url 'http://dl.dafont.com/dl/?f=kabupaten'
     name 'Kabupaten'
     homepage 'http://www.dafont.com/kabupaten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kabupaten.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pixelicious' do
     url 'http://dl.dafont.com/dl/?f=pixelicious'
     name 'Pixelicious'
     homepage 'http://www.dafont.com/pixelicious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixelicious.ttf'
 end

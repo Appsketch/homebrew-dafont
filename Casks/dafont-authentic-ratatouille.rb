@@ -5,7 +5,6 @@ cask 'dafont-authentic-ratatouille' do
     url 'http://dl.dafont.com/dl/?f=authentic_ratatouille'
     name 'Authentic Ratatouille'
     homepage 'http://www.dafont.com/authentic-ratatouille.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Authentic Ratatouille.otf'
 end

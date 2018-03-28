@@ -5,7 +5,6 @@ cask 'dafont-sf-gushing-meadow' do
     url 'http://dl.dafont.com/dl/?f=sf_gushing_meadow'
     name 'SF Gushing Meadow'
     homepage 'http://www.dafont.com/sf-gushing-meadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Gushing Meadow SC.ttf'
     font 'SF Gushing Meadow.ttf'

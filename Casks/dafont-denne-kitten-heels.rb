@@ -5,7 +5,6 @@ cask 'dafont-denne-kitten-heels' do
     url 'http://dl.dafont.com/dl/?f=denne_kitten_heels'
     name 'Denne Kitten Heels'
     homepage 'http://www.dafont.com/denne-kitten-heels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Denne Kitten Heels.ttf'
 end

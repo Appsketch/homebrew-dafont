@@ -5,7 +5,6 @@ cask 'dafont-dk-honey-dew' do
     url 'http://dl.dafont.com/dl/?f=dk_honey_dew'
     name 'DK Honey Dew'
     homepage 'http://www.dafont.com/dk-honey-dew.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Honey Dew.otf'
 end

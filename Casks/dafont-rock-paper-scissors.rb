@@ -5,7 +5,6 @@ cask 'dafont-rock-paper-scissors' do
     url 'http://dl.dafont.com/dl/?f=rock_paper_scissors'
     name 'Rock Paper Scissors'
     homepage 'http://www.dafont.com/rock-paper-scissors.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RockPaperScissors-Regular.otf'
 end

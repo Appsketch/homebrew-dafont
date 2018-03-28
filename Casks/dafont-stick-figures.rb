@@ -5,7 +5,6 @@ cask 'dafont-stick-figures' do
     url 'http://dl.dafont.com/dl/?f=stick_figures'
     name 'Stick Figures'
     homepage 'http://www.dafont.com/stick-figures.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StickFigures.ttf'
 end

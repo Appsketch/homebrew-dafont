@@ -5,7 +5,6 @@ cask 'dafont-marker-monkey-fw' do
     url 'http://dl.dafont.com/dl/?f=marker_monkey_fw'
     name 'Marker Monkey FW'
     homepage 'http://www.dafont.com/marker-monkey-fw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MarkerMonkey.ttf'
 end

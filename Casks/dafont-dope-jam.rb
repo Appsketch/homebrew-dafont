@@ -5,7 +5,6 @@ cask 'dafont-dope-jam' do
     url 'http://dl.dafont.com/dl/?f=dope_jam'
     name 'Dope Jam'
     homepage 'http://www.dafont.com/dope-jam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOPEJAM.TTF'
 end

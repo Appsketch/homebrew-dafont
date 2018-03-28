@@ -5,7 +5,6 @@ cask 'dafont-jalane-light' do
     url 'http://dl.dafont.com/dl/?f=jalane_light'
     name 'Jalane Light'
     homepage 'http://www.dafont.com/jalane-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jalane_light.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dirtywastebuckets' do
     url 'http://dl.dafont.com/dl/?f=dirtywastebuckets'
     name 'Dirty Wastebuckets'
     homepage 'http://www.dafont.com/dirtywastebuckets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dirty Wastebuckets.ttf'
 end

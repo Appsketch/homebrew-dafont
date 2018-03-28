@@ -5,7 +5,6 @@ cask 'dafont-notperfect' do
     url 'http://dl.dafont.com/dl/?f=notperfect'
     name 'Not Perfect'
     homepage 'http://www.dafont.com/notperfect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'notperfect regular.otf'
 end

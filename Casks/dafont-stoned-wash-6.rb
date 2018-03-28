@@ -5,7 +5,6 @@ cask 'dafont-stoned-wash-6' do
     url 'http://dl.dafont.com/dl/?f=stoned_wash_6'
     name 'Stoned Wash 6'
     homepage 'http://www.dafont.com/stoned-wash-6.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stoned_wash_6.ttf'
 end

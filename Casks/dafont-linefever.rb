@@ -5,7 +5,6 @@ cask 'dafont-linefever' do
     url 'http://dl.dafont.com/dl/?f=linefever'
     name 'Line Fever'
     homepage 'http://www.dafont.com/linefever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LineFever.ttf'
 end

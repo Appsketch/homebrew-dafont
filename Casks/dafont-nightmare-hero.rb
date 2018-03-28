@@ -5,7 +5,6 @@ cask 'dafont-nightmare-hero' do
     url 'http://dl.dafont.com/dl/?f=nightmare_hero'
     name 'Nightmare Hero'
     homepage 'http://www.dafont.com/nightmare-hero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nightmare_Hero_Normal.ttf'
 end

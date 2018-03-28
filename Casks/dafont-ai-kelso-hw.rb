@@ -5,7 +5,6 @@ cask 'dafont-ai-kelso-hw' do
     url 'http://dl.dafont.com/dl/?f=ai_kelso_hw'
     name 'AI kelso HW'
     homepage 'http://www.dafont.com/ai-kelso-hw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AIKELSO-HW.TTF'
 end

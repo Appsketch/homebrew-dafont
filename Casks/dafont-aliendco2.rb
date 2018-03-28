@@ -5,7 +5,6 @@ cask 'dafont-aliendco2' do
     url 'http://dl.dafont.com/dl/?f=aliendco2'
     name 'Alien dco 2'
     homepage 'http://www.dafont.com/aliendco2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aliendcoxy2.ttf'
 end

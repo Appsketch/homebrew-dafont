@@ -5,7 +5,6 @@ cask 'dafont-uchiyama' do
     url 'http://dl.dafont.com/dl/?f=uchiyama'
     name 'Uchiyama'
     homepage 'http://www.dafont.com/uchiyama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'uchiyama.ttf'
 end

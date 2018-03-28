@@ -5,7 +5,6 @@ cask 'dafont-code-new-roman' do
     url 'http://dl.dafont.com/dl/?f=code_new_roman'
     name 'Code New Roman'
     homepage 'http://www.dafont.com/code-new-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Code New Roman b.otf'
     font 'Code New Roman i.otf'

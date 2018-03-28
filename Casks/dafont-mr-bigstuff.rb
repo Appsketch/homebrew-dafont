@@ -5,7 +5,6 @@ cask 'dafont-mr-bigstuff' do
     url 'http://dl.dafont.com/dl/?f=mr_bigstuff'
     name 'Mr. Big Stuff'
     homepage 'http://www.dafont.com/mr-bigstuff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mr.BigStuff.ttf'
 end

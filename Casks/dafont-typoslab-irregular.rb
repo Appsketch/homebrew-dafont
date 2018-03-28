@@ -5,7 +5,6 @@ cask 'dafont-typoslab-irregular' do
     url 'http://dl.dafont.com/dl/?f=typoslab_irregular'
     name 'Typo Slab Irregular'
     homepage 'http://www.dafont.com/typoslab-irregular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TypoSlab Irregular Demo.otf'
     font 'TypoSlab Irregular shadowed_demo.otf'

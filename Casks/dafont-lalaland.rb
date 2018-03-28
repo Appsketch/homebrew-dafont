@@ -5,7 +5,6 @@ cask 'dafont-lalaland' do
     url 'http://dl.dafont.com/dl/?f=lalaland'
     name 'Lalaland'
     homepage 'http://www.dafont.com/lalaland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lalaland.ttf'
 end

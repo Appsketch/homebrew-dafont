@@ -5,7 +5,6 @@ cask 'dafont-delta-universe' do
     url 'http://dl.dafont.com/dl/?f=delta_universe'
     name 'Delta Universe'
     homepage 'http://www.dafont.com/delta-universe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Delta Universe.otf'
 end

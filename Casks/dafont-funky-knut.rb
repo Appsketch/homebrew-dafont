@@ -5,7 +5,6 @@ cask 'dafont-funky-knut' do
     url 'http://dl.dafont.com/dl/?f=funky_knut'
     name 'Funky Knut'
     homepage 'http://www.dafont.com/funky-knut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Funknus.ttf'
     font 'FUNKNUT.TTF'

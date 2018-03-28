@@ -5,7 +5,6 @@ cask 'dafont-wrong-ink' do
     url 'http://dl.dafont.com/dl/?f=wrong_ink'
     name 'Wrong Ink'
     homepage 'http://www.dafont.com/wrong-ink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wrong Ink.ttf'
 end

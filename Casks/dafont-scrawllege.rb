@@ -5,7 +5,6 @@ cask 'dafont-scrawllege' do
     url 'http://dl.dafont.com/dl/?f=scrawllege'
     name 'Scrawllege'
     homepage 'http://www.dafont.com/scrawllege.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCRAWL.TTF'
 end

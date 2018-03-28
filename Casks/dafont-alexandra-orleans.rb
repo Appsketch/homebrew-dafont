@@ -5,7 +5,6 @@ cask 'dafont-alexandra-orleans' do
     url 'http://dl.dafont.com/dl/?f=alexandra_orleans'
     name 'Alexandra Orl&eacute;ans'
     homepage 'http://www.dafont.com/alexandra-orleans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alexandra Orlans.ttf'
 end

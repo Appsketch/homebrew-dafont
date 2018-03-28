@@ -5,7 +5,6 @@ cask 'dafont-tomas-massu' do
     url 'http://dl.dafont.com/dl/?f=tomas_massu'
     name 'Tomas Massu'
     homepage 'http://www.dafont.com/tomas-massu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TomasMassu.ttf'
 end

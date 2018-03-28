@@ -5,7 +5,6 @@ cask 'dafont-loosydings-expert' do
     url 'http://dl.dafont.com/dl/?f=loosydings_expert'
     name 'Loosydings Expert'
     homepage 'http://www.dafont.com/loosydings-expert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'loosydings-expert.ttf'
 end

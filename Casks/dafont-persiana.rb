@@ -5,7 +5,6 @@ cask 'dafont-persiana' do
     url 'http://dl.dafont.com/dl/?f=persiana'
     name 'Persiana'
     homepage 'http://www.dafont.com/persiana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Persiana.ttf'
 end

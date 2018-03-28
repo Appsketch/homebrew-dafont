@@ -5,7 +5,6 @@ cask 'dafont-analfabet' do
     url 'http://dl.dafont.com/dl/?f=analfabet'
     name 'Analfabet'
     homepage 'http://www.dafont.com/analfabet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Analfabet.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mala' do
     url 'http://dl.dafont.com/dl/?f=mala'
     name 'Mala'
     homepage 'http://www.dafont.com/mala.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mala.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-elementary-my-dear' do
     url 'http://dl.dafont.com/dl/?f=elementary_my_dear'
     name 'Elementary, My dear'
     homepage 'http://www.dafont.com/elementary-my-dear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elementary, My dear.ttf'
 end

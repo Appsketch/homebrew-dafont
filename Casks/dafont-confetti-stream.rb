@@ -5,7 +5,6 @@ cask 'dafont-confetti-stream' do
     url 'http://dl.dafont.com/dl/?f=confetti_stream'
     name 'Confetti Stream'
     homepage 'http://www.dafont.com/confetti-stream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Confetti Stream.ttf'
 end

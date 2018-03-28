@@ -5,7 +5,6 @@ cask 'dafont-kg-fall-for-you' do
     url 'http://dl.dafont.com/dl/?f=kg_fall_for_you'
     name 'KG Fall For You'
     homepage 'http://www.dafont.com/kg-fall-for-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGFallForYou.ttf'
     font 'KGFallForYouBold.ttf'

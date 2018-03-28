@@ -5,7 +5,6 @@ cask 'dafont-kr-lots-of-hearts' do
     url 'http://dl.dafont.com/dl/?f=kr_lots_of_hearts'
     name 'KR Lots of Hearts'
     homepage 'http://www.dafont.com/kr-lots-of-hearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Lots Of Hearts.TTF'
 end

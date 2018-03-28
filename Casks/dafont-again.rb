@@ -5,7 +5,6 @@ cask 'dafont-again' do
     url 'http://dl.dafont.com/dl/?f=again'
     name 'Again'
     homepage 'http://www.dafont.com/again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'again - Dker.ttf'
 end

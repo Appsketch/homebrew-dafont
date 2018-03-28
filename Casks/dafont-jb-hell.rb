@@ -5,7 +5,6 @@ cask 'dafont-jb-hell' do
     url 'http://dl.dafont.com/dl/?f=jb_hell'
     name 'JB Hell'
     homepage 'http://www.dafont.com/jb-hell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jb_hell.ttf'
 end

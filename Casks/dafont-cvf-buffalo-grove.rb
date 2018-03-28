@@ -5,7 +5,6 @@ cask 'dafont-cvf-buffalo-grove' do
     url 'http://dl.dafont.com/dl/?f=cvf_buffalo_grove'
     name 'CVF Buffalo Grove'
     homepage 'http://www.dafont.com/cvf-buffalo-grove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CVFBuffaloGrove.ttf'
 end

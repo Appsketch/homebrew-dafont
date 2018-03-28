@@ -5,7 +5,6 @@ cask 'dafont-munir' do
     url 'http://dl.dafont.com/dl/?f=munir'
     name 'Munir'
     homepage 'http://www.dafont.com/munir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Munir.ttf'
 end

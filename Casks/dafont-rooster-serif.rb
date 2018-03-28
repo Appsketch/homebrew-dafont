@@ -5,7 +5,6 @@ cask 'dafont-rooster-serif' do
     url 'http://dl.dafont.com/dl/?f=rooster_serif'
     name 'Rooster Serif'
     homepage 'http://www.dafont.com/rooster-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RoosterSerif.ttf'
 end

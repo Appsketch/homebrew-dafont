@@ -5,7 +5,6 @@ cask 'dafont-quantumfuture' do
     url 'http://dl.dafont.com/dl/?f=quantumfuture'
     name 'Quantum Future'
     homepage 'http://www.dafont.com/quantumfuture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuantumFuture.ttf'
 end

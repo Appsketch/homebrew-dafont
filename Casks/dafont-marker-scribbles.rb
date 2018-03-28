@@ -5,7 +5,6 @@ cask 'dafont-marker-scribbles' do
     url 'http://dl.dafont.com/dl/?f=marker_scribbles'
     name 'Marker Scribbles'
     homepage 'http://www.dafont.com/marker-scribbles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MarkerScribbles.ttf'
 end

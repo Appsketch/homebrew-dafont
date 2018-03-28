@@ -5,7 +5,6 @@ cask 'dafont-elegantly-simple' do
     url 'http://dl.dafont.com/dl/?f=elegantly_simple'
     name 'Elegantly Simple'
     homepage 'http://www.dafont.com/elegantly-simple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'elegantly simple .ttf'
 end

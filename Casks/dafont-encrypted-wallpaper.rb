@@ -5,7 +5,6 @@ cask 'dafont-encrypted-wallpaper' do
     url 'http://dl.dafont.com/dl/?f=encrypted_wallpaper'
     name 'Encrypted Wallpaper'
     homepage 'http://www.dafont.com/encrypted-wallpaper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EncryptedWallpaper.ttf'
 end

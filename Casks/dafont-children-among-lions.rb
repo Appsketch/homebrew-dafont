@@ -5,7 +5,6 @@ cask 'dafont-children-among-lions' do
     url 'http://dl.dafont.com/dl/?f=children_among_lions'
     name 'Children Among Lions'
     homepage 'http://www.dafont.com/children-among-lions.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChildrenAmongLions-Italic.ttf'
     font 'ChildrenAmongLions-Regular.ttf'

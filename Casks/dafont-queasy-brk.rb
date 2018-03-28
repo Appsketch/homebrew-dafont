@@ -5,7 +5,6 @@ cask 'dafont-queasy-brk' do
     url 'http://dl.dafont.com/dl/?f=queasy_brk'
     name 'Queasy BRK'
     homepage 'http://www.dafont.com/queasy-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'queasy.ttf'
     font 'queasyol.ttf'

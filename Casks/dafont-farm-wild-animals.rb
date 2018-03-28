@@ -5,7 +5,6 @@ cask 'dafont-farm-wild-animals' do
     url 'http://dl.dafont.com/dl/?f=farm_wild_animals'
     name 'Farm &amp; Wild Animals'
     homepage 'http://www.dafont.com/farm-wild-animals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'farmwildanimals_csp.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hello-brady' do
     url 'http://dl.dafont.com/dl/?f=hello_brady'
     name 'Hello Brady !'
     homepage 'http://www.dafont.com/hello-brady.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HelloBrady.ttf'
     font 'HelloBradysDad.ttf'

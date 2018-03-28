@@ -5,7 +5,6 @@ cask 'dafont-theangelafont' do
     url 'http://dl.dafont.com/dl/?f=theangelafont'
     name 'The Angela Font'
     homepage 'http://www.dafont.com/theangelafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheAngelaFont.ttf'
 end

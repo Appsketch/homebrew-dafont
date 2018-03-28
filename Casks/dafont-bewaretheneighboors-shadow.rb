@@ -5,7 +5,6 @@ cask 'dafont-bewaretheneighboors-shadow' do
     url 'http://dl.dafont.com/dl/?f=bewaretheneighboors_shadow'
     name 'Beware The Neighboors Shadow'
     homepage 'http://www.dafont.com/bewaretheneighboors-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BewareThe Neighbors Shadow.ttf'
 end

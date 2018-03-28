@@ -5,7 +5,6 @@ cask 'dafont-mex' do
     url 'http://dl.dafont.com/dl/?f=mex'
     name 'Mex'
     homepage 'http://www.dafont.com/mex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mex-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-saltpeter-n-fungus' do
     url 'http://dl.dafont.com/dl/?f=saltpeter_n_fungus'
     name 'Saltpeter N Fungus'
     homepage 'http://www.dafont.com/saltpeter-n-fungus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Saltpeter N Fungus.ttf'
 end

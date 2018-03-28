@@ -5,7 +5,6 @@ cask 'dafont-sensation' do
     url 'http://dl.dafont.com/dl/?f=sensation'
     name 'Sensation'
     homepage 'http://www.dafont.com/sensation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SENSATION.ttf'
 end

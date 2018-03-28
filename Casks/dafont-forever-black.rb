@@ -5,7 +5,6 @@ cask 'dafont-forever-black' do
     url 'http://dl.dafont.com/dl/?f=forever_black'
     name 'Forever Black'
     homepage 'http://www.dafont.com/forever-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Forever_Black.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pwbubbles' do
     url 'http://dl.dafont.com/dl/?f=pwbubbles'
     name 'PW Bubbles'
     homepage 'http://www.dafont.com/pwbubbles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWBubbles.ttf'
 end

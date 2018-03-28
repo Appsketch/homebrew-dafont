@@ -5,7 +5,6 @@ cask 'dafont-march-madness-nf' do
     url 'http://dl.dafont.com/dl/?f=march_madness_nf'
     name 'March Madness NF'
     homepage 'http://www.dafont.com/march-madness-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MARCMN__.TTF'
 end

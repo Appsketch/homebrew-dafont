@@ -5,7 +5,6 @@ cask 'dafont-shin-akiba-punx' do
     url 'http://dl.dafont.com/dl/?f=shin_akiba_punx'
     name 'Shin Akiba Punx'
     homepage 'http://www.dafont.com/shin-akiba-punx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shinAkibapunx_bold.ttf'
     font 'shinAkibapunx_bolital.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-nottke' do
     url 'http://dl.dafont.com/dl/?f=nottke'
     name 'Nottke'
     homepage 'http://www.dafont.com/nottke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOTTB___.TTF'
     font 'NOTTBL__.TTF'

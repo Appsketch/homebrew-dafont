@@ -5,7 +5,6 @@ cask 'dafont-koly-handwriting' do
     url 'http://dl.dafont.com/dl/?f=koly_handwriting'
     name 'Koly Handwriting'
     homepage 'http://www.dafont.com/koly-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'koly-Handwriting.ttf'
 end

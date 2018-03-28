@@ -5,7 +5,6 @@ cask 'dafont-animaline' do
     url 'http://dl.dafont.com/dl/?f=animaline'
     name 'Animaline'
     homepage 'http://www.dafont.com/animaline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'animal line.ttf'
 end

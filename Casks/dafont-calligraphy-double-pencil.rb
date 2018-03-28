@@ -5,7 +5,6 @@ cask 'dafont-calligraphy-double-pencil' do
     url 'http://dl.dafont.com/dl/?f=calligraphy_double_pencil'
     name 'Calligraphy Double Pencil'
     homepage 'http://www.dafont.com/calligraphy-double-pencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Calligraphy Double Pencil.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mixconnectdots' do
     url 'http://dl.dafont.com/dl/?f=mixconnectdots'
     name 'Mix Connect Dots'
     homepage 'http://www.dafont.com/mixconnectdots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixConnectDots.ttf'
 end

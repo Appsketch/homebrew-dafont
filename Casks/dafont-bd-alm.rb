@@ -5,7 +5,6 @@ cask 'dafont-bd-alm' do
     url 'http://dl.dafont.com/dl/?f=bd_alm'
     name 'BD Alm'
     homepage 'http://www.dafont.com/bd-alm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDALM___.TTF'
 end

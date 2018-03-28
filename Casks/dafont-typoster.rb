@@ -5,7 +5,6 @@ cask 'dafont-typoster' do
     url 'http://dl.dafont.com/dl/?f=typoster'
     name 'Typoster'
     homepage 'http://www.dafont.com/typoster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typoster_demo.otf'
     font 'Typoster_italic_demo.otf'

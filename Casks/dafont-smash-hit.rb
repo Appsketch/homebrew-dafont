@@ -5,7 +5,6 @@ cask 'dafont-smash-hit' do
     url 'http://dl.dafont.com/dl/?f=smash_hit'
     name 'Smash Hit'
     homepage 'http://www.dafont.com/smash-hit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smash Hit light.ttf'
     font 'Smash Hit thin.ttf'

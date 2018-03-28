@@ -5,7 +5,6 @@ cask 'dafont-ayres' do
     url 'http://dl.dafont.com/dl/?f=ayres'
     name 'Ayres'
     homepage 'http://www.dafont.com/ayres.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ayres.ttf'
 end

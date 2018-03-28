@@ -5,7 +5,6 @@ cask 'dafont-kr-easter-bunnies' do
     url 'http://dl.dafont.com/dl/?f=kr_easter_bunnies'
     name 'KR Easter Bunnies'
     homepage 'http://www.dafont.com/kr-easter-bunnies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Easter Bunnies.TTF'
 end

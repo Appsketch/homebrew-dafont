@@ -5,7 +5,6 @@ cask 'dafont-schneider-buch-deutsch' do
     url 'http://dl.dafont.com/dl/?f=schneider_buch_deutsch'
     name 'Schneider Buch Deutsch'
     homepage 'http://www.dafont.com/schneider-buch-deutsch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Schneider Buch Deutsch Beveled Free.ttf'
     font 'Schneider Buch Deutsch Shadow Two.ttf'

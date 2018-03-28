@@ -5,7 +5,6 @@ cask 'dafont-hff-aqua-stencil' do
     url 'http://dl.dafont.com/dl/?f=hff_aqua_stencil'
     name 'HFF Aqua Stencil'
     homepage 'http://www.dafont.com/hff-aqua-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Aqua Stencil.ttf'
 end

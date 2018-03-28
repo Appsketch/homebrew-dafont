@@ -5,7 +5,6 @@ cask 'dafont-kemuri' do
     url 'http://dl.dafont.com/dl/?f=kemuri'
     name 'Kemuri'
     homepage 'http://www.dafont.com/kemuri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KEMURI__.TTF'
 end

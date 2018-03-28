@@ -5,7 +5,6 @@ cask 'dafont-type-wheel' do
     url 'http://dl.dafont.com/dl/?f=type_wheel'
     name 'Type Wheel'
     homepage 'http://www.dafont.com/type-wheel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TYPEW___.TTF'
 end

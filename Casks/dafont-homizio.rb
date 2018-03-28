@@ -5,7 +5,6 @@ cask 'dafont-homizio' do
     url 'http://dl.dafont.com/dl/?f=homizio'
     name 'Homizio'
     homepage 'http://www.dafont.com/homizio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'black.ttf'
     font 'bold.ttf'

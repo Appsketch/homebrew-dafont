@@ -5,7 +5,6 @@ cask 'dafont-arborisfolium' do
     url 'http://dl.dafont.com/dl/?f=arborisfolium'
     name 'Arboris Folium'
     homepage 'http://www.dafont.com/arborisfolium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARBOF___.TTF'
 end

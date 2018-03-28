@@ -5,7 +5,6 @@ cask 'dafont-mini-kaliber' do
     url 'http://dl.dafont.com/dl/?f=mini_kaliber'
     name 'Mini Kaliber'
     homepage 'http://www.dafont.com/mini-kaliber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'minikott.ttf'
     font 'minikstt.ttf'

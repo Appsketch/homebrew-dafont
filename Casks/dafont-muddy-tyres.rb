@@ -5,7 +5,6 @@ cask 'dafont-muddy-tyres' do
     url 'http://dl.dafont.com/dl/?f=muddy_tyres'
     name 'Muddy Tyres'
     homepage 'http://www.dafont.com/muddy-tyres.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MUDDYTYRES.ttf'
 end

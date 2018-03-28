@@ -5,7 +5,6 @@ cask 'dafont-once-upon-a-dream' do
     url 'http://dl.dafont.com/dl/?f=once_upon_a_dream'
     name 'Once Upon A Dream'
     homepage 'http://www.dafont.com/once-upon-a-dream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Once Upon A Dream Bold.ttf'
     font 'Once Upon A Dream.ttf'

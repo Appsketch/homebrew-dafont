@@ -5,7 +5,6 @@ cask 'dafont-petal' do
     url 'http://dl.dafont.com/dl/?f=petal'
     name 'Petal'
     homepage 'http://www.dafont.com/petal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Petal.ttf'
 end

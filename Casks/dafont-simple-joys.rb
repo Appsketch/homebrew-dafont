@@ -5,7 +5,6 @@ cask 'dafont-simple-joys' do
     url 'http://dl.dafont.com/dl/?f=simple_joys'
     name 'Simple Joys'
     homepage 'http://www.dafont.com/simple-joys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'simple joys.ttf'
 end

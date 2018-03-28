@@ -5,7 +5,6 @@ cask 'dafont-slumlord-eviction' do
     url 'http://dl.dafont.com/dl/?f=slumlord_eviction'
     name 'Slumlord Eviction'
     homepage 'http://www.dafont.com/slumlord-eviction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slumlord Eviction.ttf'
 end

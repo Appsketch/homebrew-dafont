@@ -5,7 +5,6 @@ cask 'dafont-anxiety' do
     url 'http://dl.dafont.com/dl/?f=anxiety'
     name 'Anxiety'
     homepage 'http://www.dafont.com/anxiety.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anxiety.ttf'
 end

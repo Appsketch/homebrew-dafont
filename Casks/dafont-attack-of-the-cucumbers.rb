@@ -5,7 +5,6 @@ cask 'dafont-attack-of-the-cucumbers' do
     url 'http://dl.dafont.com/dl/?f=attack_of_the_cucumbers'
     name 'Attack of the Cucumbers'
     homepage 'http://www.dafont.com/attack-of-the-cucumbers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'attack of the cucumbers.ttf'
 end

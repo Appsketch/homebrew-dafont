@@ -5,7 +5,6 @@ cask 'dafont-dot-matrix' do
     url 'http://dl.dafont.com/dl/?f=dot_matrix'
     name 'Dot Matrix'
     homepage 'http://www.dafont.com/dot-matrix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOTMATRI.TTF'
     font 'DOTMBold.TTF'

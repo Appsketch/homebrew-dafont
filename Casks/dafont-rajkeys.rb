@@ -5,7 +5,6 @@ cask 'dafont-rajkeys' do
     url 'http://dl.dafont.com/dl/?f=rajkeys'
     name 'Rajkeys'
     homepage 'http://www.dafont.com/rajkeys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rajkeys.ttf'
 end

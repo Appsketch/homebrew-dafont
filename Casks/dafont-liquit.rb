@@ -5,7 +5,6 @@ cask 'dafont-liquit' do
     url 'http://dl.dafont.com/dl/?f=liquit'
     name 'Liquit Colour'
     homepage 'http://www.dafont.com/liquit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'liquit colour.ttf'
 end

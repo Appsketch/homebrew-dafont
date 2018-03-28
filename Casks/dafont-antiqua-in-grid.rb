@@ -5,7 +5,6 @@ cask 'dafont-antiqua-in-grid' do
     url 'http://dl.dafont.com/dl/?f=antiqua_in_grid'
     name 'Antiqua In Grid'
     homepage 'http://www.dafont.com/antiqua-in-grid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AntiquaInGrid.ttf'
     font 'AntiquaInGridBalloons.ttf'

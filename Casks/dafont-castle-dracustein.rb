@@ -5,7 +5,6 @@ cask 'dafont-castle-dracustein' do
     url 'http://dl.dafont.com/dl/?f=castle_dracustein'
     name 'Castle Dracustein'
     homepage 'http://www.dafont.com/castle-dracustein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Castle_Dracustein.ttf'
 end

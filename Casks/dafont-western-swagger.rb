@@ -5,7 +5,6 @@ cask 'dafont-western-swagger' do
     url 'http://dl.dafont.com/dl/?f=western_swagger'
     name 'Western Swagger'
     homepage 'http://www.dafont.com/western-swagger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WesternSwaggerDEMO.ttf'
 end

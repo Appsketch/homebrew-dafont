@@ -5,7 +5,6 @@ cask 'dafont-wintermute' do
     url 'http://dl.dafont.com/dl/?f=wintermute'
     name 'Wintermute'
     homepage 'http://www.dafont.com/wintermute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wintermute.ttf'
 end

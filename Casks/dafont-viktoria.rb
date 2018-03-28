@@ -5,7 +5,6 @@ cask 'dafont-viktoria' do
     url 'http://dl.dafont.com/dl/?f=viktoria'
     name 'Viktoria'
     homepage 'http://www.dafont.com/viktoria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'viktoria.ttf'
 end

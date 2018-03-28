@@ -5,7 +5,6 @@ cask 'dafont-athabasca' do
     url 'http://dl.dafont.com/dl/?f=athabasca'
     name 'Athabasca'
     homepage 'http://www.dafont.com/athabasca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'athabasca-bd-it.ttf'
     font 'athabasca-bd.ttf'

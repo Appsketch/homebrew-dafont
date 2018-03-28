@@ -5,7 +5,6 @@ cask 'dafont-matias' do
     url 'http://dl.dafont.com/dl/?f=matias'
     name 'Matias'
     homepage 'http://www.dafont.com/matias.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Matias.ttf'
 end

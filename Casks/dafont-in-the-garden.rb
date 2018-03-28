@@ -5,7 +5,6 @@ cask 'dafont-in-the-garden' do
     url 'http://dl.dafont.com/dl/?f=in_the_garden'
     name 'In The Garden'
     homepage 'http://www.dafont.com/in-the-garden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InTheGardenDEMO.ttf'
 end

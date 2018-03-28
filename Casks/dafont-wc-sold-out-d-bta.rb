@@ -5,7 +5,6 @@ cask 'dafont-wc-sold-out-d-bta' do
     url 'http://dl.dafont.com/dl/?f=wc_sold_out_d_bta'
     name 'WC Sold Out D Bta'
     homepage 'http://www.dafont.com/wc-sold-out-d-bta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WC_Sold_Out_D_Bta.ttf'
 end

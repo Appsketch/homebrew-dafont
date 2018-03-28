@@ -5,7 +5,6 @@ cask 'dafont-davy-francis' do
     url 'http://dl.dafont.com/dl/?f=davy_francis'
     name 'Davy Francis'
     homepage 'http://www.dafont.com/davy-francis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Davy_Francis.ttf'
 end

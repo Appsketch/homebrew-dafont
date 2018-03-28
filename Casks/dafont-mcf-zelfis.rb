@@ -5,7 +5,6 @@ cask 'dafont-mcf-zelfis' do
     url 'http://dl.dafont.com/dl/?f=mcf_zelfis'
     name 'MCF Zelfis'
     homepage 'http://www.dafont.com/mcf-zelfis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MCF_zelfis.ttf'
 end

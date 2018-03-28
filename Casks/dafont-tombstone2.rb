@@ -5,7 +5,6 @@ cask 'dafont-tombstone2' do
     url 'http://dl.dafont.com/dl/?f=tombstone2'
     name 'Tombstone'
     homepage 'http://www.dafont.com/tombstone2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TO______.TTF'
 end

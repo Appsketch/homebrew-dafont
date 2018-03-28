@@ -5,7 +5,6 @@ cask 'dafont-blanchard-inland' do
     url 'http://dl.dafont.com/dl/?f=blanchard_inland'
     name 'Blanchard Inland'
     homepage 'http://www.dafont.com/blanchard-inland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blanchard Inland.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-amezes-font' do
     url 'http://dl.dafont.com/dl/?f=amezes_font'
     name 'Ameze&#039;s Font'
     homepage 'http://www.dafont.com/amezes-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ameze.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gotische-majuskel' do
     url 'http://dl.dafont.com/dl/?f=gotische_majuskel'
     name 'Gotische Majuskel'
     homepage 'http://www.dafont.com/gotische-majuskel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GotischeMajuskel.ttf'
 end

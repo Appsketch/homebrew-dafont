@@ -5,7 +5,6 @@ cask 'dafont-halffaded' do
     url 'http://dl.dafont.com/dl/?f=halffaded'
     name 'Half Faded'
     homepage 'http://www.dafont.com/halffaded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HalfFaded.ttf'
 end

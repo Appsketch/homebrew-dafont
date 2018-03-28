@@ -5,7 +5,6 @@ cask 'dafont-larke-neue' do
     url 'http://dl.dafont.com/dl/?f=larke_neue'
     name 'Larke Neue'
     homepage 'http://www.dafont.com/larke-neue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Larke Neue Bold.ttf'
     font 'Larke Neue Regular.ttf'

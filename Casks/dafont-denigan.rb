@@ -5,7 +5,6 @@ cask 'dafont-denigan' do
     url 'http://dl.dafont.com/dl/?f=denigan'
     name 'Denigan'
     homepage 'http://www.dafont.com/denigan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Denigan.ttf'
     font 'DeniganOblique.ttf'

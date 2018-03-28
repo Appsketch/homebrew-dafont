@@ -5,7 +5,6 @@ cask 'dafont-chickenandwaffles' do
     url 'http://dl.dafont.com/dl/?f=chickenandwaffles'
     name 'Chicken And Waffles'
     homepage 'http://www.dafont.com/chickenandwaffles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChickenAndWaffles.ttf'
 end

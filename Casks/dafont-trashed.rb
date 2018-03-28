@@ -5,7 +5,6 @@ cask 'dafont-trashed' do
     url 'http://dl.dafont.com/dl/?f=trashed'
     name 'Trashed'
     homepage 'http://www.dafont.com/trashed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRASHED.ttf'
 end

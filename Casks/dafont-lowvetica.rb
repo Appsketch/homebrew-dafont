@@ -5,7 +5,6 @@ cask 'dafont-lowvetica' do
     url 'http://dl.dafont.com/dl/?f=lowvetica'
     name 'Lowvetica'
     homepage 'http://www.dafont.com/lowvetica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lowvetica-UltraThin.ttf'
     font 'Lowvetica.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-athletes' do
     url 'http://dl.dafont.com/dl/?f=athletes'
     name 'Athletes'
     homepage 'http://www.dafont.com/athletes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Athletes.ttf'
 end

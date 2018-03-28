@@ -5,7 +5,6 @@ cask 'dafont-jbcourbes' do
     url 'http://dl.dafont.com/dl/?f=jbcourbes'
     name 'JB Courbes'
     homepage 'http://www.dafont.com/jbcourbes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JBCourbes-Regular.ttf'
 end

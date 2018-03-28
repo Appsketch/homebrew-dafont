@@ -5,7 +5,6 @@ cask 'dafont-anastasia' do
     url 'http://dl.dafont.com/dl/?f=anastasia'
     name 'Anastasia'
     homepage 'http://www.dafont.com/anastasia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anastasia.otf'
 end

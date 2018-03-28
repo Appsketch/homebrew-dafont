@@ -5,7 +5,6 @@ cask 'dafont-desperate-for-you' do
     url 'http://dl.dafont.com/dl/?f=desperate_for_you'
     name 'Desperate For You'
     homepage 'http://www.dafont.com/desperate-for-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Desperate For You.ttf'
 end

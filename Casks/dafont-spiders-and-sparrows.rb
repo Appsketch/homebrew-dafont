@@ -5,7 +5,6 @@ cask 'dafont-spiders-and-sparrows' do
     url 'http://dl.dafont.com/dl/?f=spiders_and_sparrows'
     name 'Spiders and Sparrows'
     homepage 'http://www.dafont.com/spiders-and-sparrows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spidersandsparrows-demo.ttf'
 end

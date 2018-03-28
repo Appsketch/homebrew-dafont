@@ -5,7 +5,6 @@ cask 'dafont-fontesda-tfb' do
     url 'http://dl.dafont.com/dl/?f=fontesda_tfb'
     name 'Fontesda TFB'
     homepage 'http://www.dafont.com/fontesda-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FONTESDA TFB.ttf'
 end

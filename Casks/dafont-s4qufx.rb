@@ -5,7 +5,6 @@ cask 'dafont-s4qufx' do
     url 'http://dl.dafont.com/dl/?f=s4qufx'
     name 'S4QUFX'
     homepage 'http://www.dafont.com/s4qufx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'S4QUFX.otf'
 end

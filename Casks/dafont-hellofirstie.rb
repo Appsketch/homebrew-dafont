@@ -5,7 +5,6 @@ cask 'dafont-hellofirstie' do
     url 'http://dl.dafont.com/dl/?f=hellofirstie'
     name 'Hello Firstie'
     homepage 'http://www.dafont.com/hellofirstie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HelloFirstie.ttf'
 end

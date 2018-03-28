@@ -5,7 +5,6 @@ cask 'dafont-ahnberg' do
     url 'http://dl.dafont.com/dl/?f=ahnberg'
     name 'Ahnberg'
     homepage 'http://www.dafont.com/ahnberg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AHNBERG_.TTF'
 end

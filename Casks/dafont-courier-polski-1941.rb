@@ -5,7 +5,6 @@ cask 'dafont-courier-polski-1941' do
     url 'http://dl.dafont.com/dl/?f=courier_polski_1941'
     name 'Courier Polski 1941'
     homepage 'http://www.dafont.com/courier-polski-1941.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zai_CourierPolski1941.ttf'
 end

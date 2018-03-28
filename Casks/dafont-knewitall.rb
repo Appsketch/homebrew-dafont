@@ -5,7 +5,6 @@ cask 'dafont-knewitall' do
     url 'http://dl.dafont.com/dl/?f=knewitall'
     name 'Knew It All'
     homepage 'http://www.dafont.com/knewitall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KnewItAll.ttf'
 end

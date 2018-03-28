@@ -5,7 +5,6 @@ cask 'dafont-brick-by-boring-brick' do
     url 'http://dl.dafont.com/dl/?f=brick_by_boring_brick'
     name 'Brick by Boring Brick'
     homepage 'http://www.dafont.com/brick-by-boring-brick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BrickbyBoringBrick.ttf'
 end

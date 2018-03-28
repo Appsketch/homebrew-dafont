@@ -5,7 +5,6 @@ cask 'dafont-cocomat' do
     url 'http://dl.dafont.com/dl/?f=cocomat'
     name 'Cocomat'
     homepage 'http://www.dafont.com/cocomat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cocomat Light-trial.ttf'
     font 'Cocomat Ultralight-trial.ttf'

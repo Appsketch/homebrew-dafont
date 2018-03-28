@@ -5,7 +5,6 @@ cask 'dafont-mahawa' do
     url 'http://dl.dafont.com/dl/?f=mahawa'
     name 'Mahawa'
     homepage 'http://www.dafont.com/mahawa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAHAWA__.TTF'
 end

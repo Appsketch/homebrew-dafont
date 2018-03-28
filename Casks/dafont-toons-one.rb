@@ -5,7 +5,6 @@ cask 'dafont-toons-one' do
     url 'http://dl.dafont.com/dl/?f=toons_one'
     name 'Toons One'
     homepage 'http://www.dafont.com/toons-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'toonsone.ttf'
 end

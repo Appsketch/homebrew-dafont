@@ -5,7 +5,6 @@ cask 'dafont-bobotoh' do
     url 'http://dl.dafont.com/dl/?f=bobotoh'
     name 'Bobotoh'
     homepage 'http://www.dafont.com/bobotoh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bobotoh.ttf'
 end

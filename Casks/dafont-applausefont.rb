@@ -5,7 +5,6 @@ cask 'dafont-applausefont' do
     url 'http://dl.dafont.com/dl/?f=applausefont'
     name 'Applause'
     homepage 'http://www.dafont.com/applausefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ApplauseFont.ttf'
 end

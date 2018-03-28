@@ -5,7 +5,6 @@ cask 'dafont-slapstick-dental-in' do
     url 'http://dl.dafont.com/dl/?f=slapstick_dental_in'
     name 'Slapstick Dental Inc.'
     homepage 'http://www.dafont.com/slapstick-dental-in.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slapstick Dental Inc..ttf'
 end

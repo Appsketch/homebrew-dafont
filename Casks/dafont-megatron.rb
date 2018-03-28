@@ -5,7 +5,6 @@ cask 'dafont-megatron' do
     url 'http://dl.dafont.com/dl/?f=megatron'
     name 'Megatron'
     homepage 'http://www.dafont.com/megatron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Megatron Condensed Italic.otf'
     font 'Megatron Condensed.otf'

@@ -5,7 +5,6 @@ cask 'dafont-stone-edge' do
     url 'http://dl.dafont.com/dl/?f=stone_edge'
     name 'Stone Edge'
     homepage 'http://www.dafont.com/stone-edge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stone edge.ttf'
 end

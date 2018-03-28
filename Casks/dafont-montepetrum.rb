@@ -5,7 +5,6 @@ cask 'dafont-montepetrum' do
     url 'http://dl.dafont.com/dl/?f=montepetrum'
     name 'Montepetrum'
     homepage 'http://www.dafont.com/montepetrum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Montepetrum bold.ttf'
     font 'Montepetrum regular.ttf'

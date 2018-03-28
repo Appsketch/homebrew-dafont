@@ -5,7 +5,6 @@ cask 'dafont-ad-polaquita' do
     url 'http://dl.dafont.com/dl/?f=ad_polaquita'
     name 'AD Polaquita'
     homepage 'http://www.dafont.com/ad-polaquita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AD_Polaquita.ttf'
 end

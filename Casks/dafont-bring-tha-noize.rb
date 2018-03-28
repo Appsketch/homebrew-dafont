@@ -5,7 +5,6 @@ cask 'dafont-bring-tha-noize' do
     url 'http://dl.dafont.com/dl/?f=bring_tha_noize'
     name 'Bring Tha Noize'
     homepage 'http://www.dafont.com/bring-tha-noize.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRINGTHANOIZE.TTF'
 end

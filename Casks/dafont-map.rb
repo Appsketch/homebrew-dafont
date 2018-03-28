@@ -5,7 +5,6 @@ cask 'dafont-map' do
     url 'http://dl.dafont.com/dl/?f=map'
     name 'Map'
     homepage 'http://www.dafont.com/map.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAP.ttf'
 end

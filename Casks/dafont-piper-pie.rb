@@ -5,7 +5,6 @@ cask 'dafont-piper-pie' do
     url 'http://dl.dafont.com/dl/?f=piper_pie'
     name 'Piper Pie'
     homepage 'http://www.dafont.com/piper-pie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'piper.ttf'
     font 'piper3d.ttf'

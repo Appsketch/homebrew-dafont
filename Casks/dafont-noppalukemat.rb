@@ -5,7 +5,6 @@ cask 'dafont-noppalukemat' do
     url 'http://dl.dafont.com/dl/?f=noppalukemat'
     name 'Noppalukemat'
     homepage 'http://www.dafont.com/noppalukemat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Noppalukemat.ttf'
 end

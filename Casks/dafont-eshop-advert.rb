@@ -5,7 +5,6 @@ cask 'dafont-eshop-advert' do
     url 'http://dl.dafont.com/dl/?f=eshop_advert'
     name 'Eshop Advert'
     homepage 'http://www.dafont.com/eshop-advert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eshop Advert.ttf'
 end

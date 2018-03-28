@@ -5,7 +5,6 @@ cask 'dafont-okc-font' do
     url 'http://dl.dafont.com/dl/?f=okc_font'
     name 'OKC'
     homepage 'http://www.dafont.com/okc-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OKC.ttf'
 end

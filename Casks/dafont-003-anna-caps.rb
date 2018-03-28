@@ -5,7 +5,6 @@ cask 'dafont-003-anna-caps' do
     url 'http://dl.dafont.com/dl/?f=003_anna_caps'
     name '003 Anna Caps'
     homepage 'http://www.dafont.com/003-anna-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '003 Anna Caps.ttf'
 end

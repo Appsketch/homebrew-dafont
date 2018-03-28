@@ -5,7 +5,6 @@ cask 'dafont-richs-riting' do
     url 'http://dl.dafont.com/dl/?f=richs_riting'
     name 'Rich&#039;s Riting'
     homepage 'http://www.dafont.com/richs-riting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rich_&#039;s Riting.ttf'
 end

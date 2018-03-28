@@ -5,7 +5,6 @@ cask 'dafont-freebooter-script' do
     url 'http://dl.dafont.com/dl/?f=freebooter_script'
     name 'Freebooter Script'
     homepage 'http://www.dafont.com/freebooter-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FREEBSC_.ttf'
 end

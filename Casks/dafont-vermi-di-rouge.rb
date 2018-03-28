@@ -5,7 +5,6 @@ cask 'dafont-vermi-di-rouge' do
     url 'http://dl.dafont.com/dl/?f=vermi_di_rouge'
     name 'Vermi di Rouge'
     homepage 'http://www.dafont.com/vermi-di-rouge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vermidirouge 1.0.ttf'
 end

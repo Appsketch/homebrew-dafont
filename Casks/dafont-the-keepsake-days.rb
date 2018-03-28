@@ -5,7 +5,6 @@ cask 'dafont-the-keepsake-days' do
     url 'http://dl.dafont.com/dl/?f=the_keepsake_days'
     name 'The Keepsake Days'
     homepage 'http://www.dafont.com/the-keepsake-days.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the_keepsake_days.ttf'
 end

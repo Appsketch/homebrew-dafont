@@ -5,7 +5,6 @@ cask 'dafont-nd-urban-ii' do
     url 'http://dl.dafont.com/dl/?f=nd_urban_ii'
     name 'ND Urban II'
     homepage 'http://www.dafont.com/nd-urban-ii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ND_Urban II.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-anthology' do
     url 'http://dl.dafont.com/dl/?f=anthology'
     name 'AnthologY'
     homepage 'http://www.dafont.com/anthology.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnthologY.ttf'
 end

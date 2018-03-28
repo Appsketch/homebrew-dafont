@@ -5,7 +5,6 @@ cask 'dafont-grotrough' do
     url 'http://dl.dafont.com/dl/?f=grotrough'
     name 'GrotRough'
     homepage 'http://www.dafont.com/grotrough.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GROTR___.TTF'
 end

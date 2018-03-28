@@ -5,7 +5,6 @@ cask 'dafont-ultrastyle1312' do
     url 'http://dl.dafont.com/dl/?f=ultrastyle1312'
     name 'Ultra Style 1312'
     homepage 'http://www.dafont.com/ultrastyle1312.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UltraStyle1312.ttf'
 end

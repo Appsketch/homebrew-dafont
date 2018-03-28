@@ -5,7 +5,6 @@ cask 'dafont-romb' do
     url 'http://dl.dafont.com/dl/?f=romb'
     name 'Romb'
     homepage 'http://www.dafont.com/romb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROMB-Regular.ttf'
 end

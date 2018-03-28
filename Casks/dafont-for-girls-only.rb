@@ -5,7 +5,6 @@ cask 'dafont-for-girls-only' do
     url 'http://dl.dafont.com/dl/?f=for_girls_only'
     name 'For Girls Only'
     homepage 'http://www.dafont.com/for-girls-only.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'For Girls Only.ttf'
 end

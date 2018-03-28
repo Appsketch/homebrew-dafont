@@ -5,7 +5,6 @@ cask 'dafont-armageda' do
     url 'http://dl.dafont.com/dl/?f=armageda'
     name 'Armageda'
     homepage 'http://www.dafont.com/armageda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Armageda Wide.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tinue-road' do
     url 'http://dl.dafont.com/dl/?f=tinue_road'
     name 'Tinu&euml; Road'
     homepage 'http://www.dafont.com/tinue-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tinu Road.ttf'
 end

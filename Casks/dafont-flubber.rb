@@ -5,7 +5,6 @@ cask 'dafont-flubber' do
     url 'http://dl.dafont.com/dl/?f=flubber'
     name 'Flubber'
     homepage 'http://www.dafont.com/flubber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FLUBBER_.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-big-fat-ugly-cow' do
     url 'http://dl.dafont.com/dl/?f=big_fat_ugly_cow'
     name 'Big Fat Ugly Cow'
     homepage 'http://www.dafont.com/big-fat-ugly-cow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Big_Fat_Ugly_Cow.ttf'
 end

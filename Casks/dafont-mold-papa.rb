@@ -5,7 +5,6 @@ cask 'dafont-mold-papa' do
     url 'http://dl.dafont.com/dl/?f=mold_papa'
     name 'Mold Papa'
     homepage 'http://www.dafont.com/mold-papa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mold papa.ttf'
 end

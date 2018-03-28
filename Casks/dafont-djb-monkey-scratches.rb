@@ -5,7 +5,6 @@ cask 'dafont-djb-monkey-scratches' do
     url 'http://dl.dafont.com/dl/?f=djb_monkey_scratches'
     name 'DJB Monkey Scratches'
     homepage 'http://www.dafont.com/djb-monkey-scratches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Monkey Scratches.ttf'
 end

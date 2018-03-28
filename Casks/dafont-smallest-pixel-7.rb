@@ -5,7 +5,6 @@ cask 'dafont-smallest-pixel-7' do
     url 'http://dl.dafont.com/dl/?f=smallest_pixel_7'
     name 'Smallest Pixel-7'
     homepage 'http://www.dafont.com/smallest-pixel-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'smallest_pixel-7.ttf'
 end

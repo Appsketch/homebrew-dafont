@@ -5,7 +5,6 @@ cask 'dafont-eutemia-ornaments' do
     url 'http://dl.dafont.com/dl/?f=eutemia_ornaments'
     name 'Eutemia Ornaments'
     homepage 'http://www.dafont.com/eutemia-ornaments.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eutemia Ornaments.ttf'
 end

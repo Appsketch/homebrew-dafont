@@ -5,7 +5,6 @@ cask 'dafont-e4-2017' do
     url 'http://dl.dafont.com/dl/?f=e4_2017'
     name 'E4 2017'
     homepage 'http://www.dafont.com/e4-2017.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'E4 2017.ttf'
 end

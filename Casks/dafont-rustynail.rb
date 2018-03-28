@@ -5,7 +5,6 @@ cask 'dafont-rustynail' do
     url 'http://dl.dafont.com/dl/?f=rustynail'
     name 'Rusty Nail'
     homepage 'http://www.dafont.com/rustynail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RustyNail.ttf'
 end

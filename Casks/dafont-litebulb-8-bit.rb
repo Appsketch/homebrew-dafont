@@ -5,7 +5,6 @@ cask 'dafont-litebulb-8-bit' do
     url 'http://dl.dafont.com/dl/?f=litebulb_8_bit'
     name 'Litebulb 8-bit'
     homepage 'http://www.dafont.com/litebulb-8-bit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Litebulb 8-bit.ttf'
 end

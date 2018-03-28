@@ -5,7 +5,6 @@ cask 'dafont-flynn' do
     url 'http://dl.dafont.com/dl/?f=flynn'
     name 'Flynn'
     homepage 'http://www.dafont.com/flynn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flynn Bold Italic.otf'
     font 'Flynn Bold.otf'

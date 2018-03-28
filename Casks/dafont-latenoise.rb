@@ -5,7 +5,6 @@ cask 'dafont-latenoise' do
     url 'http://dl.dafont.com/dl/?f=latenoise'
     name 'Late Noise'
     homepage 'http://www.dafont.com/latenoise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LateNoise.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bumblebees-demo' do
     url 'http://dl.dafont.com/dl/?f=bumblebees_demo'
     name 'Bumblebees'
     homepage 'http://www.dafont.com/bumblebees-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bumblebees_Demo.ttf'
 end

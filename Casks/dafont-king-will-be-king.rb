@@ -5,7 +5,6 @@ cask 'dafont-king-will-be-king' do
     url 'http://dl.dafont.com/dl/?f=king_will_be_king'
     name 'King Will Be King'
     homepage 'http://www.dafont.com/king-will-be-king.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'King Will Be King.ttf'
 end

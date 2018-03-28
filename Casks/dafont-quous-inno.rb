@@ -5,7 +5,6 @@ cask 'dafont-quous-inno' do
     url 'http://dl.dafont.com/dl/?f=quous_inno'
     name 'Quous Inno'
     homepage 'http://www.dafont.com/quous-inno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quous_inno.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cry-kitty' do
     url 'http://dl.dafont.com/dl/?f=cry_kitty'
     name 'Cry Kitty'
     homepage 'http://www.dafont.com/cry-kitty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crykitty.ttf'
 end

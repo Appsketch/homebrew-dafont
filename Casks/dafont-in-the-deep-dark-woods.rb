@@ -5,7 +5,6 @@ cask 'dafont-in-the-deep-dark-woods' do
     url 'http://dl.dafont.com/dl/?f=in_the_deep_dark_woods'
     name 'In the deep dark woods'
     homepage 'http://www.dafont.com/in-the-deep-dark-woods.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'In the deep dark woods.ttf'
 end

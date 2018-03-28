@@ -5,7 +5,6 @@ cask 'dafont-dk-louise' do
     url 'http://dl.dafont.com/dl/?f=dk_louise'
     name 'DK Louise'
     homepage 'http://www.dafont.com/dk-louise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Louise.otf'
 end

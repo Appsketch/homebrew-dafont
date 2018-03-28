@@ -5,7 +5,6 @@ cask 'dafont-je-naime-pas-le-lundi' do
     url 'http://dl.dafont.com/dl/?f=je_naime_pas_le_lundi'
     name 'Je n&#039;aime pas le lundi'
     homepage 'http://www.dafont.com/je-naime-pas-le-lundi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Je n&#039;aime pas le lundi Bold.ttf'
     font 'Je n&#039;aime pas le lundi.ttf'

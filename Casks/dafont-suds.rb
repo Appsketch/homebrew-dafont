@@ -5,7 +5,6 @@ cask 'dafont-suds' do
     url 'http://dl.dafont.com/dl/?f=suds'
     name 'Suds'
     homepage 'http://www.dafont.com/suds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUDS.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-winebasement' do
     url 'http://dl.dafont.com/dl/?f=winebasement'
     name 'Wine Basement'
     homepage 'http://www.dafont.com/winebasement.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Winebasement.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nice-written' do
     url 'http://dl.dafont.com/dl/?f=nice_written'
     name 'Nice Written'
     homepage 'http://www.dafont.com/nice-written.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nice Written.ttf'
 end

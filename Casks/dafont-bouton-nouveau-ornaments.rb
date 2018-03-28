@@ -5,7 +5,6 @@ cask 'dafont-bouton-nouveau-ornaments' do
     url 'http://dl.dafont.com/dl/?f=bouton_nouveau_ornaments'
     name 'Bouton Nouveau Ornaments'
     homepage 'http://www.dafont.com/bouton-nouveau-ornaments.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bouton Nouveau II.otf'
 end

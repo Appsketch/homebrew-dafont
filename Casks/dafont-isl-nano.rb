@@ -5,7 +5,6 @@ cask 'dafont-isl-nano' do
     url 'http://dl.dafont.com/dl/?f=isl_nano'
     name 'ISL Nano'
     homepage 'http://www.dafont.com/isl-nano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nano.ttf'
 end

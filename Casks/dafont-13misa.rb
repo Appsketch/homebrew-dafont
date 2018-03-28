@@ -5,7 +5,6 @@ cask 'dafont-13misa' do
     url 'http://dl.dafont.com/dl/?f=13misa'
     name '13 Misa'
     homepage 'http://www.dafont.com/13misa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '13_Misa.TTF'
 end

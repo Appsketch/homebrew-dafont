@@ -5,7 +5,6 @@ cask 'dafont-manifest' do
     url 'http://dl.dafont.com/dl/?f=manifest'
     name 'Manifest'
     homepage 'http://www.dafont.com/manifest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Manifest.ttf'
     font 'Manifest2.ttf'

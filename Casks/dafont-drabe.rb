@@ -5,7 +5,6 @@ cask 'dafont-drabe' do
     url 'http://dl.dafont.com/dl/?f=drabe'
     name 'Drabe'
     homepage 'http://www.dafont.com/drabe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drabe.ttf'
 end

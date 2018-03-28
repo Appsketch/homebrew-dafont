@@ -5,7 +5,6 @@ cask 'dafont-spartakus-round' do
     url 'http://dl.dafont.com/dl/?f=spartakus_round'
     name 'SparTakus Round'
     homepage 'http://www.dafont.com/spartakus-round.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SparTakus Round.ttf'
 end

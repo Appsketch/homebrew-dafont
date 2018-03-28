@@ -5,7 +5,6 @@ cask 'dafont-pinstripe-limo' do
     url 'http://dl.dafont.com/dl/?f=pinstripe_limo'
     name 'Pinstripe Limo'
     homepage 'http://www.dafont.com/pinstripe-limo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pinstripe Limo.ttf'
 end

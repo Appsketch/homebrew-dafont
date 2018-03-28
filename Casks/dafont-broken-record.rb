@@ -5,7 +5,6 @@ cask 'dafont-broken-record' do
     url 'http://dl.dafont.com/dl/?f=broken_record'
     name 'Broken Record'
     homepage 'http://www.dafont.com/broken-record.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BROKR___.TTF'
 end

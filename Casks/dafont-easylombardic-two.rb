@@ -5,7 +5,6 @@ cask 'dafont-easylombardic-two' do
     url 'http://dl.dafont.com/dl/?f=easylombardic_two'
     name 'Easy Lombardic Two'
     homepage 'http://www.dafont.com/easylombardic-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EasyLombardicTwo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-barlos-random' do
     url 'http://dl.dafont.com/dl/?f=barlos_random'
     name 'Barlos-Random'
     homepage 'http://www.dafont.com/barlos-random.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barlos-Random.ttf'
 end

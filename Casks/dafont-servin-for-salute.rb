@@ -5,7 +5,6 @@ cask 'dafont-servin-for-salute' do
     url 'http://dl.dafont.com/dl/?f=servin_for_salute'
     name 'Servin&#039; For Salute'
     homepage 'http://www.dafont.com/servin-for-salute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ServinForSalute_Clean.ttf'
     font 'ServinForSalute.ttf'

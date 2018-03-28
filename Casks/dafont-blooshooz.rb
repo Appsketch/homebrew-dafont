@@ -5,7 +5,6 @@ cask 'dafont-blooshooz' do
     url 'http://dl.dafont.com/dl/?f=blooshooz'
     name 'Blooshooz'
     homepage 'http://www.dafont.com/blooshooz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blooshooz.ttf'
 end

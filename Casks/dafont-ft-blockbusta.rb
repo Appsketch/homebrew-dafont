@@ -5,7 +5,6 @@ cask 'dafont-ft-blockbusta' do
     url 'http://dl.dafont.com/dl/?f=ft_blockbusta'
     name 'FT Blockbusta'
     homepage 'http://www.dafont.com/ft-blockbusta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTBLOCKB.TTF'
 end

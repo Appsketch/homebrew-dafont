@@ -5,7 +5,6 @@ cask 'dafont-rygarde' do
     url 'http://dl.dafont.com/dl/?f=rygarde'
     name 'Rygarde'
     homepage 'http://www.dafont.com/rygarde.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rygarde.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-xilo-prosa' do
     url 'http://dl.dafont.com/dl/?f=xilo_prosa'
     name 'Xilo Prosa'
     homepage 'http://www.dafont.com/xilo-prosa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xilo Prosa.ttf'
 end

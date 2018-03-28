@@ -5,7 +5,6 @@ cask 'dafont-d3pipism' do
     url 'http://dl.dafont.com/dl/?f=d3pipism'
     name 'D3 Pipism'
     homepage 'http://www.dafont.com/d3pipism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'D3PipismS.ttf'
     font 'D3PipismW.ttf'

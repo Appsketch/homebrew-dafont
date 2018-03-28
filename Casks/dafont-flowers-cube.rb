@@ -5,7 +5,6 @@ cask 'dafont-flowers-cube' do
     url 'http://dl.dafont.com/dl/?f=flowers_cube'
     name 'Flowers Cube'
     homepage 'http://www.dafont.com/flowers-cube.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlowersCube.ttf'
 end

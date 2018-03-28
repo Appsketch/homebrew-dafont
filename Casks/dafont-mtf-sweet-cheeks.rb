@@ -5,7 +5,6 @@ cask 'dafont-mtf-sweet-cheeks' do
     url 'http://dl.dafont.com/dl/?f=mtf_sweet_cheeks'
     name 'MTF Sweet Cheeks'
     homepage 'http://www.dafont.com/mtf-sweet-cheeks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Sweet Cheeks.ttf'
 end

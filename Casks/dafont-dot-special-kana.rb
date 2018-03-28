@@ -5,7 +5,6 @@ cask 'dafont-dot-special-kana' do
     url 'http://dl.dafont.com/dl/?f=dot_special_kana'
     name 'Dot Special + Kana'
     homepage 'http://www.dafont.com/dot-special-kana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dot_kana_win/DOT6282K.TTF'
     font 'dot_special_win/DOTSPECI.TTF'

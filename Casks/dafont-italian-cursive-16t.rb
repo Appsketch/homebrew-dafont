@@ -5,7 +5,6 @@ cask 'dafont-italian-cursive-16t' do
     url 'http://dl.dafont.com/dl/?f=italian_cursive_16t'
     name 'Italian Cursive, 16th c.'
     homepage 'http://www.dafont.com/italian-cursive-16t.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Italian Cursive, 14th c.TTF'
 end

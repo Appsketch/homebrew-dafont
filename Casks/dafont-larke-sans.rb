@@ -5,7 +5,6 @@ cask 'dafont-larke-sans' do
     url 'http://dl.dafont.com/dl/?f=larke_sans'
     name 'Larke Sans Light'
     homepage 'http://www.dafont.com/larke-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Larke Sans Bold.ttf'
     font 'Larke Sans Light 2.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-edamame-western' do
     url 'http://dl.dafont.com/dl/?f=edamame_western'
     name 'Edamame Western'
     homepage 'http://www.dafont.com/edamame-western.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_edamame_western.ttf'
 end

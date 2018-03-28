@@ -5,7 +5,6 @@ cask 'dafont-artistica' do
     url 'http://dl.dafont.com/dl/?f=artistica'
     name 'Artistica'
     homepage 'http://www.dafont.com/artistica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Artistica.ttf'
 end

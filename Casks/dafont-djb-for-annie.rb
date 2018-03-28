@@ -5,7 +5,6 @@ cask 'dafont-djb-for-annie' do
     url 'http://dl.dafont.com/dl/?f=djb_for_annie'
     name 'DJB For Annie'
     homepage 'http://www.dafont.com/djb-for-annie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB FOR ANNIE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-neontech' do
     url 'http://dl.dafont.com/dl/?f=neontech'
     name 'Neon Tech'
     homepage 'http://www.dafont.com/neontech.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeonTech.ttf'
 end

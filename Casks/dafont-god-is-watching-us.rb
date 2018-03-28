@@ -5,7 +5,6 @@ cask 'dafont-god-is-watching-us' do
     url 'http://dl.dafont.com/dl/?f=god_is_watching_us'
     name 'God Is Watching Us'
     homepage 'http://www.dafont.com/god-is-watching-us.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'God Is Watching Us.ttf'
 end

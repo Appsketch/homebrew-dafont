@@ -5,7 +5,6 @@ cask 'dafont-g-i-incognito' do
     url 'http://dl.dafont.com/dl/?f=g_i_incognito'
     name 'G.I. Incognito'
     homepage 'http://www.dafont.com/g-i-incognito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gi_incognito.ttf'
     font 'gi_incognito3d.ttf'

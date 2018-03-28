@@ -5,7 +5,6 @@ cask 'dafont-angie-in-love' do
     url 'http://dl.dafont.com/dl/?f=angie_in_love'
     name 'Angie in Love'
     homepage 'http://www.dafont.com/angie-in-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angie in Love.ttf'
 end

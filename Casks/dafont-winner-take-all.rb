@@ -5,7 +5,6 @@ cask 'dafont-winner-take-all' do
     url 'http://dl.dafont.com/dl/?f=winner_take_all'
     name 'Winner take all JL'
     homepage 'http://www.dafont.com/winner-take-all.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WINNER.TTF'
 end

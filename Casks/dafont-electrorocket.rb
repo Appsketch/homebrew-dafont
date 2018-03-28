@@ -5,7 +5,6 @@ cask 'dafont-electrorocket' do
     url 'http://dl.dafont.com/dl/?f=electrorocket'
     name 'Electrorocket'
     homepage 'http://www.dafont.com/electrorocket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Electrorocket Bold Italic.otf'
     font 'Electrorocket Bold.otf'

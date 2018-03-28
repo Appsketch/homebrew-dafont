@@ -5,7 +5,6 @@ cask 'dafont-blueberry-foxhound' do
     url 'http://dl.dafont.com/dl/?f=blueberry_foxhound'
     name 'Blueberry Foxhound'
     homepage 'http://www.dafont.com/blueberry-foxhound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blueberry Foxhound.ttf'
 end

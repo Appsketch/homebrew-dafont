@@ -5,7 +5,6 @@ cask 'dafont-d-h-hand-scribblies' do
     url 'http://dl.dafont.com/dl/?f=d_h_hand_scribblies'
     name 'DH Hand Scribblies'
     homepage 'http://www.dafont.com/d-h-hand-scribblies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DH Hand Scribblies.ttf'
 end

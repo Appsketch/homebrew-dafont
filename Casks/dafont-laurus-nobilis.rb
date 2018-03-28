@@ -5,7 +5,6 @@ cask 'dafont-laurus-nobilis' do
     url 'http://dl.dafont.com/dl/?f=laurus_nobilis'
     name 'Laurus Nobilis'
     homepage 'http://www.dafont.com/laurus-nobilis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Laurel wreath.ttf'
 end

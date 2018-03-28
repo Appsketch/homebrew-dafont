@@ -5,7 +5,6 @@ cask 'dafont-pelkistettya-todellisuutta' do
     url 'http://dl.dafont.com/dl/?f=pelkistettya_todellisuutta'
     name 'Pelkistettya todellisuutta'
     homepage 'http://www.dafont.com/pelkistettya-todellisuutta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pelkistettya todellisuutta.ttf'
 end

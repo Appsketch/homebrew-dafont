@@ -5,7 +5,6 @@ cask 'dafont-rabbid-highway-sign-ii' do
     url 'http://dl.dafont.com/dl/?f=rabbid_highway_sign_ii'
     name 'Rabbid Highway Sign II'
     homepage 'http://www.dafont.com/rabbid-highway-sign-ii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RabbidHighwaySignII.otf'
     font 'RabbidHighwaySignIIObl.otf'

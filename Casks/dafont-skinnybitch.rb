@@ -5,7 +5,6 @@ cask 'dafont-skinnybitch' do
     url 'http://dl.dafont.com/dl/?f=skinnybitch'
     name 'Skinny Bitch'
     homepage 'http://www.dafont.com/skinnybitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkinnyBitch.ttf'
 end

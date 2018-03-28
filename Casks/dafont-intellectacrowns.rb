@@ -5,7 +5,6 @@ cask 'dafont-intellectacrowns' do
     url 'http://dl.dafont.com/dl/?f=intellectacrowns'
     name 'Intellecta Crowns'
     homepage 'http://www.dafont.com/intellectacrowns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IntellectaCrowns.ttf'
 end

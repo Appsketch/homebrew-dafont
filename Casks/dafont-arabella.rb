@@ -5,7 +5,6 @@ cask 'dafont-arabella' do
     url 'http://dl.dafont.com/dl/?f=arabella'
     name 'Arabella'
     homepage 'http://www.dafont.com/arabella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arabella.ttf'
 end

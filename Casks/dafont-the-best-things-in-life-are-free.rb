@@ -5,7 +5,6 @@ cask 'dafont-the-best-things-in-life-are-free' do
     url 'http://dl.dafont.com/dl/?f=the_best_things_in_life_are_free'
     name 'The best things in life are free'
     homepage 'http://www.dafont.com/the-best-things-in-life-are-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THE BEST THINGS IN LIFE ARE FREE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-shooting-stars' do
     url 'http://dl.dafont.com/dl/?f=shooting_stars'
     name 'Shooting Stars'
     homepage 'http://www.dafont.com/shooting-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shooting Stars.ttf'
 end

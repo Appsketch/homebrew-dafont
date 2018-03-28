@@ -5,7 +5,6 @@ cask 'dafont-signarita-anne' do
     url 'http://dl.dafont.com/dl/?f=signarita_anne'
     name 'Signarita Anne'
     homepage 'http://www.dafont.com/signarita-anne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SignaritaAnneDemo.ttf'
 end

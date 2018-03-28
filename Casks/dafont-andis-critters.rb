@@ -5,7 +5,6 @@ cask 'dafont-andis-critters' do
     url 'http://dl.dafont.com/dl/?f=andis_critters'
     name 'Andi&#039;s Critters'
     homepage 'http://www.dafont.com/andis-critters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Andis Critters.ttf'
 end

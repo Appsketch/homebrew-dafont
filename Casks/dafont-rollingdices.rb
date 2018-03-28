@@ -5,7 +5,6 @@ cask 'dafont-rollingdices' do
     url 'http://dl.dafont.com/dl/?f=rollingdices'
     name 'Rolling Dices'
     homepage 'http://www.dafont.com/rollingdices.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RollingDices.ttf'
 end

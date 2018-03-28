@@ -5,7 +5,6 @@ cask 'dafont-silenthunteriii-font' do
     url 'http://dl.dafont.com/dl/?f=silenthunteriii_font'
     name 'Silent Hunter III'
     homepage 'http://www.dafont.com/silenthunteriii-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SilentHunterIII Font.ttf'
 end

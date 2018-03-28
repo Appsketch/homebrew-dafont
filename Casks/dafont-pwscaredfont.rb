@@ -5,7 +5,6 @@ cask 'dafont-pwscaredfont' do
     url 'http://dl.dafont.com/dl/?f=pwscaredfont'
     name 'PW Scared Font'
     homepage 'http://www.dafont.com/pwscaredfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWScaredFont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ibm-logo' do
     url 'http://dl.dafont.com/dl/?f=ibm_logo'
     name 'IBM Logo'
     homepage 'http://www.dafont.com/ibm-logo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IBM-Logo.ttf'
 end

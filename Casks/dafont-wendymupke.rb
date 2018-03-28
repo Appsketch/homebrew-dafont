@@ -5,7 +5,6 @@ cask 'dafont-wendymupke' do
     url 'http://dl.dafont.com/dl/?f=wendymupke'
     name 'Wendy Mupke'
     homepage 'http://www.dafont.com/wendymupke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wendymupke.ttf'
 end

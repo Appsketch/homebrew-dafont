@@ -5,7 +5,6 @@ cask 'dafont-ramada-1' do
     url 'http://dl.dafont.com/dl/?f=ramada_1'
     name 'Ramada 1'
     homepage 'http://www.dafont.com/ramada-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ramada1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-anejo' do
     url 'http://dl.dafont.com/dl/?f=anejo'
     name 'A&ntilde;ejo'
     homepage 'http://www.dafont.com/anejo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A&curren;ejo.ttf'
 end

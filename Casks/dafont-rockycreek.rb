@@ -5,7 +5,6 @@ cask 'dafont-rockycreek' do
     url 'http://dl.dafont.com/dl/?f=rockycreek'
     name 'Rocky Creek'
     homepage 'http://www.dafont.com/rockycreek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rocky Creek.ttf'
 end

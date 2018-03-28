@@ -5,7 +5,6 @@ cask 'dafont-action-jackson' do
     url 'http://dl.dafont.com/dl/?f=action_jackson'
     name 'Action Jackson'
     homepage 'http://www.dafont.com/action-jackson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'actionj.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-geist-knt' do
     url 'http://dl.dafont.com/dl/?f=geist_knt'
     name 'Geist Knt'
     homepage 'http://www.dafont.com/geist-knt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GEIST_KNT.ttf'
 end

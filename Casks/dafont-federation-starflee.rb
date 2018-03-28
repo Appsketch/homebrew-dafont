@@ -5,7 +5,6 @@ cask 'dafont-federation-starflee' do
     url 'http://dl.dafont.com/dl/?f=federation_starflee'
     name 'Federation Starfleet Hull 23rd'
     homepage 'http://www.dafont.com/federation-starflee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Federation_Starfleet_Hull_23rd.ttf'
 end

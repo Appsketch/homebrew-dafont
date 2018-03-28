@@ -5,7 +5,6 @@ cask 'dafont-springharder' do
     url 'http://dl.dafont.com/dl/?f=springharder'
     name 'Spring Harder'
     homepage 'http://www.dafont.com/springharder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpringHarder.ttf'
 end

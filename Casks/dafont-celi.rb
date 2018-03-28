@@ -5,7 +5,6 @@ cask 'dafont-celi' do
     url 'http://dl.dafont.com/dl/?f=celi'
     name 'Celi'
     homepage 'http://www.dafont.com/celi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Celi.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-color-basic' do
     url 'http://dl.dafont.com/dl/?f=color_basic'
     name 'Color Basic'
     homepage 'http://www.dafont.com/color-basic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'color basic.ttf'
 end

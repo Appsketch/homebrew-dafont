@@ -5,7 +5,6 @@ cask 'dafont-batik-indo' do
     url 'http://dl.dafont.com/dl/?f=batik_indo'
     name 'Batik Indo'
     homepage 'http://www.dafont.com/batik-indo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BatikIndo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-spinach' do
     url 'http://dl.dafont.com/dl/?f=spinach'
     name 'Spinach'
     homepage 'http://www.dafont.com/spinach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spinach Outline.ttf'
     font 'Spinach.ttf'

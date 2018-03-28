@@ -5,7 +5,6 @@ cask 'dafont-throwback' do
     url 'http://dl.dafont.com/dl/?f=throwback'
     name 'Throwback'
     homepage 'http://www.dafont.com/throwback.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'throwback.ttf'
 end

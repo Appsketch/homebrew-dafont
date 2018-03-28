@@ -5,7 +5,6 @@ cask 'dafont-anishoulder' do
     url 'http://dl.dafont.com/dl/?f=anishoulder'
     name 'Ani Shoulder'
     homepage 'http://www.dafont.com/anishoulder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AniShoulder.ttf'
 end

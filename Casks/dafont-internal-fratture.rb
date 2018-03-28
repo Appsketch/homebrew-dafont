@@ -5,7 +5,6 @@ cask 'dafont-internal-fratture' do
     url 'http://dl.dafont.com/dl/?f=internal_fratture'
     name 'Internal Fratture'
     homepage 'http://www.dafont.com/internal-fratture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Internal Fratture.ttf'
 end

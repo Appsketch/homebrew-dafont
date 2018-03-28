@@ -5,7 +5,6 @@ cask 'dafont-wickedseventies' do
     url 'http://dl.dafont.com/dl/?f=wickedseventies'
     name 'Wicked Seventies'
     homepage 'http://www.dafont.com/wickedseventies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WickedSeventies.ttf'
 end

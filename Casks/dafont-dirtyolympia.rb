@@ -5,7 +5,6 @@ cask 'dafont-dirtyolympia' do
     url 'http://dl.dafont.com/dl/?f=dirtyolympia'
     name 'Dirty Olympia'
     homepage 'http://www.dafont.com/dirtyolympia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DirtyOlympia.ttf'
 end

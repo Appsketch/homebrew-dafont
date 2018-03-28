@@ -5,7 +5,6 @@ cask 'dafont-ornamental-versals' do
     url 'http://dl.dafont.com/dl/?f=ornamental_versals'
     name 'Ornamental Versals'
     homepage 'http://www.dafont.com/ornamental-versals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OrnamentalVersals_Black.ttf'
     font 'OrnamentalVersals.ttf'

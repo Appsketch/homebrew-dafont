@@ -5,7 +5,6 @@ cask 'dafont-cubics' do
     url 'http://dl.dafont.com/dl/?f=cubics'
     name 'Cubics'
     homepage 'http://www.dafont.com/cubics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cubics.otf'
 end

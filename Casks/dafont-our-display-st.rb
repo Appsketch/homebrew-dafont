@@ -5,7 +5,6 @@ cask 'dafont-our-display-st' do
     url 'http://dl.dafont.com/dl/?f=our_display_st'
     name 'Our Display ST'
     homepage 'http://www.dafont.com/our-display-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Our Display St.ttf'
 end

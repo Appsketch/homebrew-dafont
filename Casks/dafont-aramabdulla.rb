@@ -5,7 +5,6 @@ cask 'dafont-aramabdulla' do
     url 'http://dl.dafont.com/dl/?f=aramabdulla'
     name 'Aram Abdulla'
     homepage 'http://www.dafont.com/aramabdulla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AramAbdulla.ttf'
 end

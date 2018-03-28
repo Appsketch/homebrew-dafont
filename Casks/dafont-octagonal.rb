@@ -5,7 +5,6 @@ cask 'dafont-octagonal' do
     url 'http://dl.dafont.com/dl/?f=octagonal'
     name 'Octagonal'
     homepage 'http://www.dafont.com/octagonal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'octab-017.ttf'
     font 'octal-017.ttf'

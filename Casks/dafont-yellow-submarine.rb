@@ -5,7 +5,6 @@ cask 'dafont-yellow-submarine' do
     url 'http://dl.dafont.com/dl/?f=yellow_submarine'
     name 'Yellow Submarine'
     homepage 'http://www.dafont.com/yellow-submarine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beatles.TTF'
 end

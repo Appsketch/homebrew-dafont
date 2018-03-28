@@ -5,7 +5,6 @@ cask 'dafont-supermolot' do
     url 'http://dl.dafont.com/dl/?f=supermolot'
     name 'Supermolot'
     homepage 'http://www.dafont.com/supermolot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Supermolot Light.otf'
 end

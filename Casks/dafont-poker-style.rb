@@ -5,7 +5,6 @@ cask 'dafont-poker-style' do
     url 'http://dl.dafont.com/dl/?f=poker_style'
     name 'Poker style'
     homepage 'http://www.dafont.com/poker-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Poker style.ttf'
 end

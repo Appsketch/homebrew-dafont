@@ -5,7 +5,6 @@ cask 'dafont-sf-fedora' do
     url 'http://dl.dafont.com/dl/?f=sf_fedora'
     name 'SF Fedora'
     homepage 'http://www.dafont.com/sf-fedora.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Fedora Outline.ttf'
     font 'SF Fedora Shadow.ttf'

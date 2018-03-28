@@ -5,7 +5,6 @@ cask 'dafont-lilliput-steps' do
     url 'http://dl.dafont.com/dl/?f=lilliput_steps'
     name 'Lilliput Steps'
     homepage 'http://www.dafont.com/lilliput-steps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ot/lilliput steps.otf'
 end

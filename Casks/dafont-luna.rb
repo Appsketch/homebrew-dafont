@@ -5,7 +5,6 @@ cask 'dafont-luna' do
     url 'http://dl.dafont.com/dl/?f=luna'
     name 'Luna'
     homepage 'http://www.dafont.com/luna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Luna.ttf'
 end

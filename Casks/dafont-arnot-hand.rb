@@ -5,7 +5,6 @@ cask 'dafont-arnot-hand' do
     url 'http://dl.dafont.com/dl/?f=arnot_hand'
     name 'Arnot Hand'
     homepage 'http://www.dafont.com/arnot-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arnot Hand.ttf'
 end

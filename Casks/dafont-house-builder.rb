@@ -5,7 +5,6 @@ cask 'dafont-house-builder' do
     url 'http://dl.dafont.com/dl/?f=house_builder'
     name 'house builder'
     homepage 'http://www.dafont.com/house-builder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'house builder.ttf'
 end

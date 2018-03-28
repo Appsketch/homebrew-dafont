@@ -5,7 +5,6 @@ cask 'dafont-midnight-show' do
     url 'http://dl.dafont.com/dl/?f=midnight_show'
     name 'Midnight Show'
     homepage 'http://www.dafont.com/midnight-show.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'midnightshow.ttf'
 end

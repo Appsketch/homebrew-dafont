@@ -5,7 +5,6 @@ cask 'dafont-reconstruct' do
     url 'http://dl.dafont.com/dl/?f=reconstruct'
     name 'Reconstruct'
     homepage 'http://www.dafont.com/reconstruct.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reconstruct.ttf'
 end

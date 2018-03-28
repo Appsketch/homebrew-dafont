@@ -5,7 +5,6 @@ cask 'dafont-pieces-of-eight' do
     url 'http://dl.dafont.com/dl/?f=pieces_of_eight'
     name 'Pieces of Eight'
     homepage 'http://www.dafont.com/pieces-of-eight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pieces of Eight Alt.ttf'
     font 'Pieces of Eight.ttf'

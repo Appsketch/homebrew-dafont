@@ -5,7 +5,6 @@ cask 'dafont-kg-eyes-wide-open' do
     url 'http://dl.dafont.com/dl/?f=kg_eyes_wide_open'
     name 'KG Eyes Wide Open'
     homepage 'http://www.dafont.com/kg-eyes-wide-open.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGEyesWideOpen.ttf'
 end

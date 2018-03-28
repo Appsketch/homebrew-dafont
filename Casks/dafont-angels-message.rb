@@ -5,7 +5,6 @@ cask 'dafont-angels-message' do
     url 'http://dl.dafont.com/dl/?f=angels_message'
     name 'Angels Message'
     homepage 'http://www.dafont.com/angels-message.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angels Message.ttf'
 end

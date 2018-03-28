@@ -5,7 +5,6 @@ cask 'dafont-pigrules' do
     url 'http://dl.dafont.com/dl/?f=pigrules'
     name 'Pig Rules'
     homepage 'http://www.dafont.com/pigrules.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PigRules.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-shining-pearl' do
     url 'http://dl.dafont.com/dl/?f=shining_pearl'
     name 'Shining Pearl'
     homepage 'http://www.dafont.com/shining-pearl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shining pearl.ttf'
 end

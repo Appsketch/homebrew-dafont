@@ -5,7 +5,6 @@ cask 'dafont-swingingswan' do
     url 'http://dl.dafont.com/dl/?f=swingingswan'
     name 'Swingingswan'
     homepage 'http://www.dafont.com/swingingswan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'swingingswan.ttf'
 end

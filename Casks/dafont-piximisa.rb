@@ -5,7 +5,6 @@ cask 'dafont-piximisa' do
     url 'http://dl.dafont.com/dl/?f=piximisa'
     name 'Piximisa'
     homepage 'http://www.dafont.com/piximisa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Piximisa.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-welfare-brat' do
     url 'http://dl.dafont.com/dl/?f=welfare_brat'
     name 'Welfare Brat'
     homepage 'http://www.dafont.com/welfare-brat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'welfare brat.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-end-of-the-dream' do
     url 'http://dl.dafont.com/dl/?f=end_of_the_dream'
     name 'End of the dream'
     homepage 'http://www.dafont.com/end-of-the-dream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'End of the dream.ttf'
 end

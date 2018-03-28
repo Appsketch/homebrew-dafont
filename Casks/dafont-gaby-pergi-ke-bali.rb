@@ -5,7 +5,6 @@ cask 'dafont-gaby-pergi-ke-bali' do
     url 'http://dl.dafont.com/dl/?f=gaby_pergi_ke_bali'
     name 'Gaby Pergi Ke Bali'
     homepage 'http://www.dafont.com/gaby-pergi-ke-bali.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gaby_pergi_ke_bali.ttf'
 end

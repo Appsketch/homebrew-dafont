@@ -5,7 +5,6 @@ cask 'dafont-ethon' do
     url 'http://dl.dafont.com/dl/?f=ethon'
     name 'Ethon'
     homepage 'http://www.dafont.com/ethon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ETH Sans Large/EthBlackExtended.ttf'
     font 'ETH Sans Large/EthExtended.ttf'

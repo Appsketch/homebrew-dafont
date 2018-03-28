@@ -5,7 +5,6 @@ cask 'dafont-novamono' do
     url 'http://dl.dafont.com/dl/?f=novamono'
     name 'NovaMono'
     homepage 'http://www.dafont.com/novamono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'novamono.ttf'
 end

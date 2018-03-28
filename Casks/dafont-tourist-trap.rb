@@ -5,7 +5,6 @@ cask 'dafont-tourist-trap' do
     url 'http://dl.dafont.com/dl/?f=tourist_trap'
     name 'Tourist Trap'
     homepage 'http://www.dafont.com/tourist-trap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TouristTrap.ttf'
 end

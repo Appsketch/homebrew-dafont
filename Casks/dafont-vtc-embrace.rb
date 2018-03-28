@@ -5,7 +5,6 @@ cask 'dafont-vtc-embrace' do
     url 'http://dl.dafont.com/dl/?f=vtc_embrace'
     name 'VTC Embrace'
     homepage 'http://www.dafont.com/vtc-embrace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC Embrace.ttf'
 end

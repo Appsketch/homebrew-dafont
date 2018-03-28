@@ -5,7 +5,6 @@ cask 'dafont-old-ornaments' do
     url 'http://dl.dafont.com/dl/?f=old_ornaments'
     name 'Old Ornaments'
     homepage 'http://www.dafont.com/old-ornaments.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'old ornaments.ttf'
 end

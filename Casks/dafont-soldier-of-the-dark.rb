@@ -5,7 +5,6 @@ cask 'dafont-soldier-of-the-dark' do
     url 'http://dl.dafont.com/dl/?f=soldier_of_the_dark'
     name 'Soldier of the Dark'
     homepage 'http://www.dafont.com/soldier-of-the-dark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'soldier_of_the_dark.ttf'
 end

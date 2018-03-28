@@ -5,7 +5,6 @@ cask 'dafont-isamu' do
     url 'http://dl.dafont.com/dl/?f=isamu'
     name 'Isamu'
     homepage 'http://www.dafont.com/isamu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Isamu.ttf'
 end

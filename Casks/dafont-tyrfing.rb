@@ -5,7 +5,6 @@ cask 'dafont-tyrfing' do
     url 'http://dl.dafont.com/dl/?f=tyrfing'
     name 'Tyrfing'
     homepage 'http://www.dafont.com/tyrfing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TYD_____.TTF'
 end

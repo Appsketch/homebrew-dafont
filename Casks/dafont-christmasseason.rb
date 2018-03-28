@@ -5,7 +5,6 @@ cask 'dafont-christmasseason' do
     url 'http://dl.dafont.com/dl/?f=christmasseason'
     name 'Christmas Season'
     homepage 'http://www.dafont.com/christmasseason.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChristmasSeason.ttf'
 end

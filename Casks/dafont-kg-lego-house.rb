@@ -5,7 +5,6 @@ cask 'dafont-kg-lego-house' do
     url 'http://dl.dafont.com/dl/?f=kg_lego_house'
     name 'KG Lego House'
     homepage 'http://www.dafont.com/kg-lego-house.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGLegoHouse.ttf'
 end

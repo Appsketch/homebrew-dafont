@@ -5,7 +5,6 @@ cask 'dafont-knochen' do
     url 'http://dl.dafont.com/dl/?f=knochen'
     name 'Knochen'
     homepage 'http://www.dafont.com/knochen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Knochen-3D Outlined.ttf'
     font 'Knochen-3D Regular.ttf'

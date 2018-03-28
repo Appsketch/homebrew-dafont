@@ -5,7 +5,6 @@ cask 'dafont-chillstyle' do
     url 'http://dl.dafont.com/dl/?f=chillstyle'
     name 'ChillStyle'
     homepage 'http://www.dafont.com/chillstyle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChillStyle.ttf'
 end

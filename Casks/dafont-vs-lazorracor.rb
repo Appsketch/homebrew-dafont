@@ -5,7 +5,6 @@ cask 'dafont-vs-lazorracor' do
     url 'http://dl.dafont.com/dl/?f=vs_lazorracor'
     name 'VS Lazor Racor'
     homepage 'http://www.dafont.com/vs-lazorracor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VS_LazorRacor.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djb-crazy-goofy-cool' do
     url 'http://dl.dafont.com/dl/?f=djb_crazy_goofy_cool'
     name 'DJB Crazy Goofy Cool'
     homepage 'http://www.dafont.com/djb-crazy-goofy-cool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Crazy Goofy Cool.ttf'
 end

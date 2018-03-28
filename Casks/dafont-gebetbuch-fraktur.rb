@@ -5,7 +5,6 @@ cask 'dafont-gebetbuch-fraktur' do
     url 'http://dl.dafont.com/dl/?f=gebetbuch_fraktur'
     name 'Gebetbuch Fraktur'
     homepage 'http://www.dafont.com/gebetbuch-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GebetbuchFraktur.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jd-ducky' do
     url 'http://dl.dafont.com/dl/?f=jd_ducky'
     name 'JD Ducky'
     homepage 'http://www.dafont.com/jd-ducky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_ducky.ttf'
 end

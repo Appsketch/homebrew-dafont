@@ -5,7 +5,6 @@ cask 'dafont-sliced-by-hand' do
     url 'http://dl.dafont.com/dl/?f=sliced_by_hand'
     name 'Sliced by Hand'
     homepage 'http://www.dafont.com/sliced-by-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sliced by Hand.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-penwar' do
     url 'http://dl.dafont.com/dl/?f=penwar'
     name 'Pen War'
     homepage 'http://www.dafont.com/penwar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PenWar.ttf'
 end

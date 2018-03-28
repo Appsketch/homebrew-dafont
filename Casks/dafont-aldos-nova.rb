@@ -5,7 +5,6 @@ cask 'dafont-aldos-nova' do
     url 'http://dl.dafont.com/dl/?f=aldos_nova'
     name 'Aldo&#039;s Nova'
     homepage 'http://www.dafont.com/aldos-nova.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALDO6.TTF'
 end

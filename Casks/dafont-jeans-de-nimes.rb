@@ -5,7 +5,6 @@ cask 'dafont-jeans-de-nimes' do
     url 'http://dl.dafont.com/dl/?f=jeans_de_nimes'
     name 'Jeans de N&icirc;mes'
     homepage 'http://www.dafont.com/jeans-de-nimes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jeans de nimes.ttf'
 end

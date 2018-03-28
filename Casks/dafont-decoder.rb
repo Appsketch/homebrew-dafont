@@ -5,7 +5,6 @@ cask 'dafont-decoder' do
     url 'http://dl.dafont.com/dl/?f=decoder'
     name 'Decoder'
     homepage 'http://www.dafont.com/decoder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'decoder.ttf'
 end

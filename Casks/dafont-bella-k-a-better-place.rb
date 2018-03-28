@@ -5,7 +5,6 @@ cask 'dafont-bella-k-a-better-place' do
     url 'http://dl.dafont.com/dl/?f=bella_k_a_better_place'
     name 'Bella K. A Better Place'
     homepage 'http://www.dafont.com/bella-k-a-better-place.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bella k a better place alts.ttf'
     font 'bella k a better place.ttf'

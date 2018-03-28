@@ -5,7 +5,6 @@ cask 'dafont-cuadradex-simple-st' do
     url 'http://dl.dafont.com/dl/?f=cuadradex_simple_st'
     name 'Cuadradex Simple ST'
     homepage 'http://www.dafont.com/cuadradex-simple-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cuadradex.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-distant-stroke' do
     url 'http://dl.dafont.com/dl/?f=distant_stroke'
     name 'Distant Stroke'
     homepage 'http://www.dafont.com/distant-stroke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Distant_Stroke_Medium.otf'
     font 'Distant_Stroke.otf'

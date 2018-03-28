@@ -5,7 +5,6 @@ cask 'dafont-big-mister-c' do
     url 'http://dl.dafont.com/dl/?f=big_mister_c'
     name 'Big Mister C'
     homepage 'http://www.dafont.com/big-mister-c.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bigmcn__.ttf'
 end

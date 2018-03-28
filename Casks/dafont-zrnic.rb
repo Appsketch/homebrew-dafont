@@ -5,7 +5,6 @@ cask 'dafont-zrnic' do
     url 'http://dl.dafont.com/dl/?f=zrnic'
     name 'Zrnic'
     homepage 'http://www.dafont.com/zrnic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zrnic rg.ttf'
 end

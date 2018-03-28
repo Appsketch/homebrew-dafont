@@ -5,7 +5,6 @@ cask 'dafont-gunship-bitmap' do
     url 'http://dl.dafont.com/dl/?f=gunship_bitmap'
     name 'Gunship Bitmap'
     homepage 'http://www.dafont.com/gunship-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GUNV2BM.FON'
 end

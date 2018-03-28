@@ -5,7 +5,6 @@ cask 'dafont-m12-match-biker' do
     url 'http://dl.dafont.com/dl/?f=m12_match_biker'
     name 'M12 Match Biker'
     homepage 'http://www.dafont.com/m12-match-biker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'm12.TTF'
 end

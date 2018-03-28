@@ -5,7 +5,6 @@ cask 'dafont-igniteme' do
     url 'http://dl.dafont.com/dl/?f=igniteme'
     name 'IgniteMe '
     homepage 'http://www.dafont.com/igniteme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IgniteMe Bold.ttf'
 end

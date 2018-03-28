@@ -5,7 +5,6 @@ cask 'dafont-blackties' do
     url 'http://dl.dafont.com/dl/?f=blackties'
     name 'Black Ties'
     homepage 'http://www.dafont.com/blackties.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackTies.ttf'
 end

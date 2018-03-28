@@ -5,7 +5,6 @@ cask 'dafont-frankentype' do
     url 'http://dl.dafont.com/dl/?f=frankentype'
     name 'Frankentype'
     homepage 'http://www.dafont.com/frankentype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frankentype_Personal_Use_Only.otf'
 end

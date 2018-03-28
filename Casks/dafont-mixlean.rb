@@ -5,7 +5,6 @@ cask 'dafont-mixlean' do
     url 'http://dl.dafont.com/dl/?f=mixlean'
     name 'Mix Lean'
     homepage 'http://www.dafont.com/mixlean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixLean.ttf'
 end

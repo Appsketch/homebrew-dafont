@@ -5,7 +5,6 @@ cask 'dafont-wild-ride' do
     url 'http://dl.dafont.com/dl/?f=wild_ride'
     name 'Wild Ride'
     homepage 'http://www.dafont.com/wild-ride.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WildRide.ttf'
     font 'WildRideBackfill.ttf'

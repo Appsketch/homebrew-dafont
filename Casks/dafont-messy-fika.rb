@@ -5,7 +5,6 @@ cask 'dafont-messy-fika' do
     url 'http://dl.dafont.com/dl/?f=messy_fika'
     name 'Messy Fika'
     homepage 'http://www.dafont.com/messy-fika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'messy_fika.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cracked-dendrite' do
     url 'http://dl.dafont.com/dl/?f=cracked_dendrite'
     name 'Cracked Dendrite'
     homepage 'http://www.dafont.com/cracked-dendrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crack_dendrite.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-panophobia' do
     url 'http://dl.dafont.com/dl/?f=panophobia'
     name 'Panophobia'
     homepage 'http://www.dafont.com/panophobia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Panophobia.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hl-thuphap-4bk' do
     url 'http://dl.dafont.com/dl/?f=hl_thuphap_4bk'
     name 'HL Thuphap 4BK'
     homepage 'http://www.dafont.com/hl-thuphap-4bk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hltfap4e.ttf'
 end

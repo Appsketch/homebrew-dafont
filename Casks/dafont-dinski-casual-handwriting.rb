@@ -5,7 +5,6 @@ cask 'dafont-dinski-casual-handwriting' do
     url 'http://dl.dafont.com/dl/?f=dinski_casual_handwriting'
     name 'Dinski Casual Handwriting'
     homepage 'http://www.dafont.com/dinski-casual-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DINSKI__.TTF'
     font 'DINSKI_CASUAL_HANDWRITING.ttf'

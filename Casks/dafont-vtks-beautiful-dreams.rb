@@ -5,7 +5,6 @@ cask 'dafont-vtks-beautiful-dreams' do
     url 'http://dl.dafont.com/dl/?f=vtks_beautiful_dreams'
     name 'Vtks Beautiful Dreams'
     homepage 'http://www.dafont.com/vtks-beautiful-dreams.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Beautiful Dreams.ttf'
 end

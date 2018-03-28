@@ -5,7 +5,6 @@ cask 'dafont-spinner' do
     url 'http://dl.dafont.com/dl/?f=spinner'
     name 'Spinner'
     homepage 'http://www.dafont.com/spinner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPINNER_.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wicked' do
     url 'http://dl.dafont.com/dl/?f=wicked'
     name 'Wicked'
     homepage 'http://www.dafont.com/wicked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WICKED_B_3rd.ttf'
     font 'WICKED_R_3rd.ttf'

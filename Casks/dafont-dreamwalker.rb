@@ -5,7 +5,6 @@ cask 'dafont-dreamwalker' do
     url 'http://dl.dafont.com/dl/?f=dreamwalker'
     name 'Dreamwalker'
     homepage 'http://www.dafont.com/dreamwalker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dreamwalker.otf'
 end

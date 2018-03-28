@@ -5,7 +5,6 @@ cask 'dafont-aladdin' do
     url 'http://dl.dafont.com/dl/?f=aladdin'
     name 'Aladdin'
     homepage 'http://www.dafont.com/aladdin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aladdin.ttf'
 end

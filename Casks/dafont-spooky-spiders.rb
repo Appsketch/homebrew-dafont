@@ -5,7 +5,6 @@ cask 'dafont-spooky-spiders' do
     url 'http://dl.dafont.com/dl/?f=spooky_spiders'
     name 'Spooky Spiders'
     homepage 'http://www.dafont.com/spooky-spiders.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spooky Spiders.ttf'
 end

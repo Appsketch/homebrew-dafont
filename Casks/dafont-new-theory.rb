@@ -5,7 +5,6 @@ cask 'dafont-new-theory' do
     url 'http://dl.dafont.com/dl/?f=new_theory'
     name 'New Theory'
     homepage 'http://www.dafont.com/new-theory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NewTheory.ttf'
 end

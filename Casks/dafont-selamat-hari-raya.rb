@@ -5,7 +5,6 @@ cask 'dafont-selamat-hari-raya' do
     url 'http://dl.dafont.com/dl/?f=selamat_hari_raya'
     name 'Selamat Hari Raya'
     homepage 'http://www.dafont.com/selamat-hari-raya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Selamat Hari Raya.ttf'
 end

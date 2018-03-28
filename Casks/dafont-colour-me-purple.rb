@@ -5,7 +5,6 @@ cask 'dafont-colour-me-purple' do
     url 'http://dl.dafont.com/dl/?f=colour_me_purple'
     name 'Colour me purple'
     homepage 'http://www.dafont.com/colour-me-purple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Colour Me Purple.ttf'
 end

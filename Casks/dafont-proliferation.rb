@@ -5,7 +5,6 @@ cask 'dafont-proliferation' do
     url 'http://dl.dafont.com/dl/?f=proliferation'
     name 'Proliferation'
     homepage 'http://www.dafont.com/proliferation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'proliferation.otf'
 end

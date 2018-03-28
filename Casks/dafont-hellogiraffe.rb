@@ -5,7 +5,6 @@ cask 'dafont-hellogiraffe' do
     url 'http://dl.dafont.com/dl/?f=hellogiraffe'
     name 'Hello Giraffe'
     homepage 'http://www.dafont.com/hellogiraffe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hellogiraffe.ttf'
 end

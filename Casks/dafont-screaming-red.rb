@@ -5,7 +5,6 @@ cask 'dafont-screaming-red' do
     url 'http://dl.dafont.com/dl/?f=screaming_red'
     name 'Screaming Red'
     homepage 'http://www.dafont.com/screaming-red.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Screaming Red 2.ttf'
     font 'Screaming Red.ttf'

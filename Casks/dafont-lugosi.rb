@@ -5,7 +5,6 @@ cask 'dafont-lugosi' do
     url 'http://dl.dafont.com/dl/?f=lugosi'
     name 'Lugosi'
     homepage 'http://www.dafont.com/lugosi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lugosi.ttf'
 end

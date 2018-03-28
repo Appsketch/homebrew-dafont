@@ -5,7 +5,6 @@ cask 'dafont-taring-serigala' do
     url 'http://dl.dafont.com/dl/?f=taring_serigala'
     name 'Taring Serigala'
     homepage 'http://www.dafont.com/taring-serigala.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TARING SERIGALA.ttf'
 end

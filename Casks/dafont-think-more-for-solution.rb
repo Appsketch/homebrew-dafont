@@ -5,7 +5,6 @@ cask 'dafont-think-more-for-solution' do
     url 'http://dl.dafont.com/dl/?f=think_more_for_solution'
     name 'Think More for Solution'
     homepage 'http://www.dafont.com/think-more-for-solution.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Think More For Solution.ttf'
 end

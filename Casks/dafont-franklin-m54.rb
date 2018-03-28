@@ -5,7 +5,6 @@ cask 'dafont-franklin-m54' do
     url 'http://dl.dafont.com/dl/?f=franklin_m54'
     name 'Franklin M54'
     homepage 'http://www.dafont.com/franklin-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Franklin Italic M54.ttf'
     font 'Franklin M54.ttf'

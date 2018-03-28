@@ -5,7 +5,6 @@ cask 'dafont-animalcracker' do
     url 'http://dl.dafont.com/dl/?f=animalcracker'
     name 'Animal Cracker'
     homepage 'http://www.dafont.com/animalcracker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnimalCracker.ttf'
 end

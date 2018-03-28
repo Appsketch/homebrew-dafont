@@ -5,7 +5,6 @@ cask 'dafont-moa' do
     url 'http://dl.dafont.com/dl/?f=moa'
     name 'Moa'
     homepage 'http://www.dafont.com/moa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOA1.ttf'
     font 'MOA2.ttf'

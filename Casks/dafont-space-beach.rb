@@ -5,7 +5,6 @@ cask 'dafont-space-beach' do
     url 'http://dl.dafont.com/dl/?f=space_beach'
     name 'Space Beach'
     homepage 'http://www.dafont.com/space-beach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPACEBEA.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-deleo' do
     url 'http://dl.dafont.com/dl/?f=deleo'
     name 'DeLeo'
     homepage 'http://www.dafont.com/deleo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeLeo.ttf'
 end

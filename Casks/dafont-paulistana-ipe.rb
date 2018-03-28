@@ -5,7 +5,6 @@ cask 'dafont-paulistana-ipe' do
     url 'http://dl.dafont.com/dl/?f=paulistana_ipe'
     name 'Paulistana Ipe'
     homepage 'http://www.dafont.com/paulistana-ipe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaulistanaIpe-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-broken-detroit' do
     url 'http://dl.dafont.com/dl/?f=broken_detroit'
     name 'Broken Detroit'
     homepage 'http://www.dafont.com/broken-detroit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Broken-Detroit - PERSONAL USE ONLY.ttf'
 end

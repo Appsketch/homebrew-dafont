@@ -5,7 +5,6 @@ cask 'dafont-canker-sore' do
     url 'http://dl.dafont.com/dl/?f=canker_sore'
     name 'Canker Sore'
     homepage 'http://www.dafont.com/canker-sore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'canker!.ttf'
 end

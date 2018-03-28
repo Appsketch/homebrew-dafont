@@ -5,7 +5,6 @@ cask 'dafont-pineapples-dont-have-sleeves' do
     url 'http://dl.dafont.com/dl/?f=pineapples_dont_have_sleeves'
     name 'Pineapples Don&#039;t Have Sleeves'
     homepage 'http://www.dafont.com/pineapples-dont-have-sleeves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pineapples_don&#039;t_have_sleeves_bold.ttf'
     font 'pineapples_don&#039;t_have_sleeves.ttf'

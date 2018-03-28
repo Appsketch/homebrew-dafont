@@ -5,7 +5,6 @@ cask 'dafont-relish-gargler' do
     url 'http://dl.dafont.com/dl/?f=relish_gargler'
     name 'Relish Gargler'
     homepage 'http://www.dafont.com/relish-gargler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'relish gargler.ttf'
 end

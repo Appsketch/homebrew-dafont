@@ -5,7 +5,6 @@ cask 'dafont-cerena' do
     url 'http://dl.dafont.com/dl/?f=cerena'
     name 'Cerena'
     homepage 'http://www.dafont.com/cerena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cerena_version free.ttf'
 end

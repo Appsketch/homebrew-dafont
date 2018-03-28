@@ -5,7 +5,6 @@ cask 'dafont-dipanegara-dhf' do
     url 'http://dl.dafont.com/dl/?f=dipanegara_dhf'
     name 'Dipanegara Dhf'
     homepage 'http://www.dafont.com/dipanegara-dhf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dipanegara dhf.ttf'
 end

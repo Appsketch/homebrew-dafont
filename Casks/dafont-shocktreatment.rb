@@ -5,7 +5,6 @@ cask 'dafont-shocktreatment' do
     url 'http://dl.dafont.com/dl/?f=shocktreatment'
     name 'Shock Treatment'
     homepage 'http://www.dafont.com/shocktreatment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShockTreatment.ttf'
 end

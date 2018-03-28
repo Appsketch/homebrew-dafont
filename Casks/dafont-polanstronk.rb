@@ -5,7 +5,6 @@ cask 'dafont-polanstronk' do
     url 'http://dl.dafont.com/dl/?f=polanstronk'
     name 'PolanStronk'
     homepage 'http://www.dafont.com/polanstronk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PolanStronk.otf'
     font 'PolanStronkIta.otf'

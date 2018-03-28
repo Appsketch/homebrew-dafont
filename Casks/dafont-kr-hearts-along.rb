@@ -5,7 +5,6 @@ cask 'dafont-kr-hearts-along' do
     url 'http://dl.dafont.com/dl/?f=kr_hearts_along'
     name 'KR Hearts Along'
     homepage 'http://www.dafont.com/kr-hearts-along.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Hearts Along.ttf'
 end

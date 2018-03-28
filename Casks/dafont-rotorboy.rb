@@ -5,7 +5,6 @@ cask 'dafont-rotorboy' do
     url 'http://dl.dafont.com/dl/?f=rotorboy'
     name 'RotorBoy'
     homepage 'http://www.dafont.com/rotorboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROTORboy.ttf'
 end

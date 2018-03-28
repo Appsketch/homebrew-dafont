@@ -5,7 +5,6 @@ cask 'dafont-chubby-gothic' do
     url 'http://dl.dafont.com/dl/?f=chubby_gothic'
     name 'Chubby Gothic'
     homepage 'http://www.dafont.com/chubby-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chubby Gothic.ttf'
 end

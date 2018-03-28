@@ -5,7 +5,6 @@ cask 'dafont-80-decibels' do
     url 'http://dl.dafont.com/dl/?f=80_decibels'
     name '80 Decibels'
     homepage 'http://www.dafont.com/80-decibels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '80db.ttf'
 end

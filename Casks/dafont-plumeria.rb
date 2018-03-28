@@ -5,7 +5,6 @@ cask 'dafont-plumeria' do
     url 'http://dl.dafont.com/dl/?f=plumeria'
     name 'Plumeria'
     homepage 'http://www.dafont.com/plumeria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plumeria.ttf'
 end

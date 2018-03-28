@@ -5,7 +5,6 @@ cask 'dafont-roid-rage' do
     url 'http://dl.dafont.com/dl/?f=roid_rage'
     name 'Roid Rage'
     homepage 'http://www.dafont.com/roid-rage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROID.TTF'
     font 'ROIDC.TTF'

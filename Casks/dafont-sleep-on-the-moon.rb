@@ -5,7 +5,6 @@ cask 'dafont-sleep-on-the-moon' do
     url 'http://dl.dafont.com/dl/?f=sleep_on_the_moon'
     name 'Sleep on the moon'
     homepage 'http://www.dafont.com/sleep-on-the-moon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sleep on the moon.ttf'
 end

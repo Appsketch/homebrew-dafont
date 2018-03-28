@@ -5,7 +5,6 @@ cask 'dafont-brin-athyn' do
     url 'http://dl.dafont.com/dl/?f=brin_athyn'
     name 'Brin Athyn'
     homepage 'http://www.dafont.com/brin-athyn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brinathyn.ttf'
     font 'brinathynb.ttf'

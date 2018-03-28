@@ -5,7 +5,6 @@ cask 'dafont-modernism' do
     url 'http://dl.dafont.com/dl/?f=modernism'
     name 'Modernism'
     homepage 'http://www.dafont.com/modernism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Modernism-Bold.ttf'
     font 'Modernism-Disco.ttf'

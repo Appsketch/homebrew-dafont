@@ -5,7 +5,6 @@ cask 'dafont-glukmixer' do
     url 'http://dl.dafont.com/dl/?f=glukmixer'
     name 'GlukMixer'
     homepage 'http://www.dafont.com/glukmixer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GlukMixer.ttf'
 end

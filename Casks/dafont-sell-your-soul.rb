@@ -5,7 +5,6 @@ cask 'dafont-sell-your-soul' do
     url 'http://dl.dafont.com/dl/?f=sell_your_soul'
     name 'Sell Your Soul'
     homepage 'http://www.dafont.com/sell-your-soul.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sell Your Soul.ttf'
 end

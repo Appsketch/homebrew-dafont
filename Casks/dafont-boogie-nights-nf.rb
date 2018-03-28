@@ -5,7 +5,6 @@ cask 'dafont-boogie-nights-nf' do
     url 'http://dl.dafont.com/dl/?f=boogie_nights_nf'
     name 'Boogie Nights NF'
     homepage 'http://www.dafont.com/boogie-nights-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOOGNN__.TTF'
 end

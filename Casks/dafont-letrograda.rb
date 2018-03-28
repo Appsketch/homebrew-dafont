@@ -5,7 +5,6 @@ cask 'dafont-letrograda' do
     url 'http://dl.dafont.com/dl/?f=letrograda'
     name 'Letrograda'
     homepage 'http://www.dafont.com/letrograda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Letrograda.TTF'
 end

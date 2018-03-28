@@ -5,7 +5,6 @@ cask 'dafont-ornamental-initial' do
     url 'http://dl.dafont.com/dl/?f=ornamental_initial'
     name 'Ornamental Initial'
     homepage 'http://www.dafont.com/ornamental-initial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OrnamentalInitial.ttf'
     font 'OrnamentalInitialButtons.ttf'

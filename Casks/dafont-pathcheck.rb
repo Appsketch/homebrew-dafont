@@ -5,7 +5,6 @@ cask 'dafont-pathcheck' do
     url 'http://dl.dafont.com/dl/?f=pathcheck'
     name 'Path Check'
     homepage 'http://www.dafont.com/pathcheck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PathCheck.ttf'
 end

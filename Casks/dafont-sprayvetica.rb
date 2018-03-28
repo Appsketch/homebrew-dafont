@@ -5,7 +5,6 @@ cask 'dafont-sprayvetica' do
     url 'http://dl.dafont.com/dl/?f=sprayvetica'
     name 'Sprayvetica'
     homepage 'http://www.dafont.com/sprayvetica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sprayvetica-33third.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-silly-pixel' do
     url 'http://dl.dafont.com/dl/?f=silly_pixel'
     name 'Silly Pixel'
     homepage 'http://www.dafont.com/silly-pixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'silly_pixel.ttf'
 end

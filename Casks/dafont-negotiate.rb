@@ -5,7 +5,6 @@ cask 'dafont-negotiate' do
     url 'http://dl.dafont.com/dl/?f=negotiate'
     name 'Negotiate'
     homepage 'http://www.dafont.com/negotiate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'negotiate rg.ttf'
 end

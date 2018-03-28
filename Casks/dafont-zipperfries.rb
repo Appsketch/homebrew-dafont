@@ -5,7 +5,6 @@ cask 'dafont-zipperfries' do
     url 'http://dl.dafont.com/dl/?f=zipperfries'
     name 'Zipper Fries'
     homepage 'http://www.dafont.com/zipperfries.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZipperFries.ttf'
 end

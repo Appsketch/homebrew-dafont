@@ -5,7 +5,6 @@ cask 'dafont-red-mamba' do
     url 'http://dl.dafont.com/dl/?f=red_mamba'
     name 'Red Mamba'
     homepage 'http://www.dafont.com/red-mamba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'red_mamba.ttf'
 end

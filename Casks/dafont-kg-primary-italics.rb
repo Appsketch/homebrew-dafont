@@ -5,7 +5,6 @@ cask 'dafont-kg-primary-italics' do
     url 'http://dl.dafont.com/dl/?f=kg_primary_italics'
     name 'KG Primary Italics'
     homepage 'http://www.dafont.com/kg-primary-italics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGPrimaryItalics.ttf'
     font 'KGPrimaryItalicsLined.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-tightsjays' do
     url 'http://dl.dafont.com/dl/?f=tightsjays'
     name 'Tights Jays'
     homepage 'http://www.dafont.com/tightsjays.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TightsJays.ttf'
 end

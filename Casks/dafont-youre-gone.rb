@@ -5,7 +5,6 @@ cask 'dafont-youre-gone' do
     url 'http://dl.dafont.com/dl/?f=youre_gone'
     name 'You&#039;re Gone'
     homepage 'http://www.dafont.com/youre-gone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'youre gone it.ttf'
     font 'youre gone.ttf'

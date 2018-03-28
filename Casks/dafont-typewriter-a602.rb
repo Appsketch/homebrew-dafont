@@ -5,7 +5,6 @@ cask 'dafont-typewriter-a602' do
     url 'http://dl.dafont.com/dl/?f=typewriter_a602'
     name 'Typewriter - a602'
     homepage 'http://www.dafont.com/typewriter-a602.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'typewriterA602_________.ttf'
 end

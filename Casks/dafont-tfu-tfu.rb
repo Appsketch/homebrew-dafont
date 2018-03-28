@@ -5,7 +5,6 @@ cask 'dafont-tfu-tfu' do
     url 'http://dl.dafont.com/dl/?f=tfu_tfu'
     name 'Tfu Tfu'
     homepage 'http://www.dafont.com/tfu-tfu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TFUTFU__.TTF'
 end

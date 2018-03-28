@@ -5,7 +5,6 @@ cask 'dafont-veggi-terra' do
     url 'http://dl.dafont.com/dl/?f=veggi_terra'
     name 'Veggi Terra'
     homepage 'http://www.dafont.com/veggi-terra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Veggi_Terra.TTF'
 end

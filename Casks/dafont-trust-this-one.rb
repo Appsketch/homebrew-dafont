@@ -5,7 +5,6 @@ cask 'dafont-trust-this-one' do
     url 'http://dl.dafont.com/dl/?f=trust_this_one'
     name 'Trust this one'
     homepage 'http://www.dafont.com/trust-this-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRUSTO__.TTF'
 end

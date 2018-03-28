@@ -5,7 +5,6 @@ cask 'dafont-world-word' do
     url 'http://dl.dafont.com/dl/?f=world_word'
     name 'World Word'
     homepage 'http://www.dafont.com/world-word.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'world word.ttf'
 end

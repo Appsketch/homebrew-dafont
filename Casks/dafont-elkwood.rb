@@ -5,7 +5,6 @@ cask 'dafont-elkwood' do
     url 'http://dl.dafont.com/dl/?f=elkwood'
     name 'Elkwood'
     homepage 'http://www.dafont.com/elkwood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elkwood - Free.ttf'
 end

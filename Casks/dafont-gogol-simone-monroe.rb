@@ -5,7 +5,6 @@ cask 'dafont-gogol-simone-monroe' do
     url 'http://dl.dafont.com/dl/?f=gogol_simone_monroe'
     name 'Gogol, Simone &amp; Monroe'
     homepage 'http://www.dafont.com/gogol-simone-monroe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gogol, Simone &amp; Monroe.ttf'
 end

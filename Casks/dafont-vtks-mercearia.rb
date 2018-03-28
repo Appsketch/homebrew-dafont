@@ -5,7 +5,6 @@ cask 'dafont-vtks-mercearia' do
     url 'http://dl.dafont.com/dl/?f=vtks_mercearia'
     name 'Vtks Mercearia'
     homepage 'http://www.dafont.com/vtks-mercearia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Mercearia.ttf'
 end

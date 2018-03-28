@@ -5,7 +5,6 @@ cask 'dafont-manga' do
     url 'http://dl.dafont.com/dl/?f=manga'
     name 'Manga'
     homepage 'http://www.dafont.com/manga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Manga Bold Italic.otf'
     font 'Manga Bold.otf'

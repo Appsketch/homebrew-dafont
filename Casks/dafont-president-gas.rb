@@ -5,7 +5,6 @@ cask 'dafont-president-gas' do
     url 'http://dl.dafont.com/dl/?f=president_gas'
     name 'President Gas'
     homepage 'http://www.dafont.com/president-gas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'president gas.ttf'
 end

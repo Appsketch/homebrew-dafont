@@ -5,7 +5,6 @@ cask 'dafont-catharsis-requiem' do
     url 'http://dl.dafont.com/dl/?f=catharsis_requiem'
     name 'Catharsis Requiem'
     homepage 'http://www.dafont.com/catharsis-requiem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CAR_____.TTF'
     font 'CARB____.TTF'

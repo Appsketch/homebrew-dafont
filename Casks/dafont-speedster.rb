@@ -5,7 +5,6 @@ cask 'dafont-speedster' do
     url 'http://dl.dafont.com/dl/?f=speedster'
     name 'Speedster'
     homepage 'http://www.dafont.com/speedster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPEERG__.TTF'
 end

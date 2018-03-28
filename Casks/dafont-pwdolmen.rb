@@ -5,7 +5,6 @@ cask 'dafont-pwdolmen' do
     url 'http://dl.dafont.com/dl/?f=pwdolmen'
     name 'PW Dolmen'
     homepage 'http://www.dafont.com/pwdolmen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWDolmen.ttf'
 end

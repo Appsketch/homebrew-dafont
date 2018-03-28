@@ -5,7 +5,6 @@ cask 'dafont-kbpaythelady' do
     url 'http://dl.dafont.com/dl/?f=kbpaythelady'
     name 'KB Pay The Lady'
     homepage 'http://www.dafont.com/kbpaythelady.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBPayTheLady.ttf'
 end

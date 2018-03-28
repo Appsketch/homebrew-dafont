@@ -5,7 +5,6 @@ cask 'dafont-mk-zodnig-square' do
     url 'http://dl.dafont.com/dl/?f=mk_zodnig_square'
     name 'MK Zodnig Square'
     homepage 'http://www.dafont.com/mk-zodnig-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mkzodsqu.ttf'
 end

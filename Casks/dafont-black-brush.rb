@@ -5,7 +5,6 @@ cask 'dafont-black-brush' do
     url 'http://dl.dafont.com/dl/?f=black_brush'
     name 'Black Brush'
     homepage 'http://www.dafont.com/black-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackBrush.otf'
 end

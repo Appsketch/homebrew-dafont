@@ -5,7 +5,6 @@ cask 'dafont-faber-sans-pro' do
     url 'http://dl.dafont.com/dl/?f=faber_sans_pro'
     name 'Faber Sans Pro'
     homepage 'http://www.dafont.com/faber-sans-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FaberSansPro45reduced.ttf'
     font 'FaberSansPro46reduced.ttf'

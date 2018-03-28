@@ -5,7 +5,6 @@ cask 'dafont-pincoyablack' do
     url 'http://dl.dafont.com/dl/?f=pincoyablack'
     name 'Pincoya Black'
     homepage 'http://www.dafont.com/pincoyablack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pincoyablack.otf'
 end

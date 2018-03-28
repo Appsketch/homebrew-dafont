@@ -5,7 +5,6 @@ cask 'dafont-icono-bmx' do
     url 'http://dl.dafont.com/dl/?f=icono_bmx'
     name 'Icono BMX'
     homepage 'http://www.dafont.com/icono-bmx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Icono BMX.ttf'
 end

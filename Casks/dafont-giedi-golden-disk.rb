@@ -5,7 +5,6 @@ cask 'dafont-giedi-golden-disk' do
     url 'http://dl.dafont.com/dl/?f=giedi_golden_disk'
     name 'Giedi Golden Disk'
     homepage 'http://www.dafont.com/giedi-golden-disk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Giedi Golden Disk.otf'
 end

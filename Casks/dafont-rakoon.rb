@@ -5,7 +5,6 @@ cask 'dafont-rakoon' do
     url 'http://dl.dafont.com/dl/?f=rakoon'
     name 'Rakoon'
     homepage 'http://www.dafont.com/rakoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rakoon_PersonalUse.ttf'
 end

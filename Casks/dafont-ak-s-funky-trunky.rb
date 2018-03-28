@@ -5,7 +5,6 @@ cask 'dafont-ak-s-funky-trunky' do
     url 'http://dl.dafont.com/dl/?f=ak_s_funky_trunky'
     name 'Aks funky trunky'
     homepage 'http://www.dafont.com/ak-s-funky-trunky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ak__s_funky_trunky.ttf'
 end

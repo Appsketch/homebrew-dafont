@@ -5,7 +5,6 @@ cask 'dafont-witless' do
     url 'http://dl.dafont.com/dl/?f=witless'
     name 'Witless'
     homepage 'http://www.dafont.com/witless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Witless.ttf'
 end

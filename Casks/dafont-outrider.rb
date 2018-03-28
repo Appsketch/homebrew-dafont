@@ -5,7 +5,6 @@ cask 'dafont-outrider' do
     url 'http://dl.dafont.com/dl/?f=outrider'
     name 'Outrider'
     homepage 'http://www.dafont.com/outrider.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'outrider.ttf'
     font 'outrider3d.ttf'

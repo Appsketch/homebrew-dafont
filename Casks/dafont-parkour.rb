@@ -5,7 +5,6 @@ cask 'dafont-parkour' do
     url 'http://dl.dafont.com/dl/?f=parkour'
     name 'Parkour'
     homepage 'http://www.dafont.com/parkour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Parkour.ttf'
 end

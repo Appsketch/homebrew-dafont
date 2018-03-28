@@ -5,7 +5,6 @@ cask 'dafont-indy-pimp' do
     url 'http://dl.dafont.com/dl/?f=indy_pimp'
     name 'Indy Pimp'
     homepage 'http://www.dafont.com/indy-pimp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'indiepimptbs_bold.ttf'
     font 'indiepimptbs_ital.ttf'

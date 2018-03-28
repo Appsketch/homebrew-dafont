@@ -5,7 +5,6 @@ cask 'dafont-critters-1-dc' do
     url 'http://dl.dafont.com/dl/?f=critters_1_dc'
     name 'Critters 1 DC'
     homepage 'http://www.dafont.com/critters-1-dc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRITDSB_.TTF'
 end

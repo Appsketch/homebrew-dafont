@@ -5,7 +5,6 @@ cask 'dafont-planet-space' do
     url 'http://dl.dafont.com/dl/?f=planet_space'
     name 'Planet Space'
     homepage 'http://www.dafont.com/planet-space.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLANS___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-false-advertising' do
     url 'http://dl.dafont.com/dl/?f=false_advertising'
     name 'False Advertising'
     homepage 'http://www.dafont.com/false-advertising.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'False_Advertising.ttf'
 end

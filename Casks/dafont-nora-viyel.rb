@@ -5,7 +5,6 @@ cask 'dafont-nora-viyel' do
     url 'http://dl.dafont.com/dl/?f=nora_viyel'
     name 'Nora Viyel'
     homepage 'http://www.dafont.com/nora-viyel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'noraviyel.otf'
 end

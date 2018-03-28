@@ -5,7 +5,6 @@ cask 'dafont-molecular' do
     url 'http://dl.dafont.com/dl/?f=molecular'
     name 'Molecular'
     homepage 'http://www.dafont.com/molecular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Molecular.ttf'
 end

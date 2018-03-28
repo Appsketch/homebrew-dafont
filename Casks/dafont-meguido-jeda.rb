@@ -5,7 +5,6 @@ cask 'dafont-meguido-jeda' do
     url 'http://dl.dafont.com/dl/?f=meguido_jeda'
     name 'Meguido Jed@'
     homepage 'http://www.dafont.com/meguido-jeda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Meguido-jed@.ttf'
 end

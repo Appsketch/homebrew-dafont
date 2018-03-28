@@ -5,7 +5,6 @@ cask 'dafont-blnk-taper-lucker' do
     url 'http://dl.dafont.com/dl/?f=blnk_taper_lucker'
     name 'BLNK Taper Lucker'
     homepage 'http://www.dafont.com/blnk-taper-lucker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLNKTaperLucker.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kakawa' do
     url 'http://dl.dafont.com/dl/?f=kakawa'
     name 'Kakawa'
     homepage 'http://www.dafont.com/kakawa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kakawa.ttf'
 end

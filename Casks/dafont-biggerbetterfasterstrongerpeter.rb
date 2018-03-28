@@ -5,7 +5,6 @@ cask 'dafont-biggerbetterfasterstrongerpeter' do
     url 'http://dl.dafont.com/dl/?f=biggerbetterfasterstrongerpeter'
     name 'Bigger Better Faster Stronger Peter'
     homepage 'http://www.dafont.com/biggerbetterfasterstrongerpeter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'biggerbetterfasterstrongerpeter.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hottropics' do
     url 'http://dl.dafont.com/dl/?f=hottropics'
     name 'Hot Tropics'
     homepage 'http://www.dafont.com/hottropics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HotTropics.ttf'
 end

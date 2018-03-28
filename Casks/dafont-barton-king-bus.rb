@@ -5,7 +5,6 @@ cask 'dafont-barton-king-bus' do
     url 'http://dl.dafont.com/dl/?f=barton_king_bus'
     name 'Barton &amp; King Bus'
     homepage 'http://www.dafont.com/barton-king-bus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BartonBus.ttf'
     font 'KingBus.ttf'

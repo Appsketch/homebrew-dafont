@@ -5,7 +5,6 @@ cask 'dafont-kidnapped-at-old-times-free' do
     url 'http://dl.dafont.com/dl/?f=kidnapped_at_old_times_free'
     name 'Kidnapped at Old Times'
     homepage 'http://www.dafont.com/kidnapped-at-old-times-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KidnapedAtOldTimes Free Two.ttf'
     font 'Kidnapped At Old Times Free 4.ttf'

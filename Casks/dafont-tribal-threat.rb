@@ -5,7 +5,6 @@ cask 'dafont-tribal-threat' do
     url 'http://dl.dafont.com/dl/?f=tribal_threat'
     name 'Tribal Threat'
     homepage 'http://www.dafont.com/tribal-threat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tribal Threat.otf'
 end

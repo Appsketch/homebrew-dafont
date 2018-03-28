@@ -5,7 +5,6 @@ cask 'dafont-mager' do
     url 'http://dl.dafont.com/dl/?f=mager'
     name 'Mager'
     homepage 'http://www.dafont.com/mager.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mager Fat Italic.otf'
     font 'Mager Fat.otf'

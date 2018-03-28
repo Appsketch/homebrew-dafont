@@ -5,7 +5,6 @@ cask 'dafont-mtf-base' do
     url 'http://dl.dafont.com/dl/?f=mtf_base'
     name 'MTF Base'
     homepage 'http://www.dafont.com/mtf-base.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Base Outline.ttf'
     font 'MTF Base.ttf'

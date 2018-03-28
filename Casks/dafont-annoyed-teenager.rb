@@ -5,7 +5,6 @@ cask 'dafont-annoyed-teenager' do
     url 'http://dl.dafont.com/dl/?f=annoyed_teenager'
     name 'Annoyed Teenager'
     homepage 'http://www.dafont.com/annoyed-teenager.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Annoyed Teenager.ttf'
 end

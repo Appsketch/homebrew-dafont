@@ -5,7 +5,6 @@ cask 'dafont-laizziercomic' do
     url 'http://dl.dafont.com/dl/?f=laizziercomic'
     name 'Laizzier Comic'
     homepage 'http://www.dafont.com/laizziercomic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaIzzIerComiC.ttf'
 end

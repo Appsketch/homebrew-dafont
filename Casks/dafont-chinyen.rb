@@ -5,7 +5,6 @@ cask 'dafont-chinyen' do
     url 'http://dl.dafont.com/dl/?f=chinyen'
     name 'Chinyen'
     homepage 'http://www.dafont.com/chinyen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chinyen Hollow.otf'
     font 'Chinyen.otf'

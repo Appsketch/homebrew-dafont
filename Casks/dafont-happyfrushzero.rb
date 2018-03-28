@@ -5,7 +5,6 @@ cask 'dafont-happyfrushzero' do
     url 'http://dl.dafont.com/dl/?f=happyfrushzero'
     name 'Happy Frush Zero'
     homepage 'http://www.dafont.com/happyfrushzero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'happyfrushzero.ttf'
 end

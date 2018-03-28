@@ -5,7 +5,6 @@ cask 'dafont-before-i-fall' do
     url 'http://dl.dafont.com/dl/?f=before_i_fall'
     name 'Before I Fall'
     homepage 'http://www.dafont.com/before-i-fall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Before I Fall Demo.ttf'
 end

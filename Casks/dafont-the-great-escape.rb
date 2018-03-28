@@ -5,7 +5,6 @@ cask 'dafont-the-great-escape' do
     url 'http://dl.dafont.com/dl/?f=the_great_escape'
     name 'The Great Escape'
     homepage 'http://www.dafont.com/the-great-escape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheGreatEscape.ttf'
     font 'TheGreatEscapeBold.ttf'

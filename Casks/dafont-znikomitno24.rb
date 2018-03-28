@@ -5,7 +5,6 @@ cask 'dafont-znikomitno24' do
     url 'http://dl.dafont.com/dl/?f=znikomitno24'
     name 'Znikomit No24'
     homepage 'http://www.dafont.com/znikomitno24.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZnikomitNo24.otf'
     font 'ZnikomitNo24Thin.otf'

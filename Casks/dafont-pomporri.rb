@@ -5,7 +5,6 @@ cask 'dafont-pomporri' do
     url 'http://dl.dafont.com/dl/?f=pomporri'
     name 'Pomporri'
     homepage 'http://www.dafont.com/pomporri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pomporri Demo.ttf'
 end

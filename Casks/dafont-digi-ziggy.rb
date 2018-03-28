@@ -5,7 +5,6 @@ cask 'dafont-digi-ziggy' do
     url 'http://dl.dafont.com/dl/?f=digi_ziggy'
     name 'Digi Ziggy'
     homepage 'http://www.dafont.com/digi-ziggy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digi Ziggy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-top-gun' do
     url 'http://dl.dafont.com/dl/?f=top_gun'
     name 'Top Gun'
     homepage 'http://www.dafont.com/top-gun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOP GUN.ttf'
 end

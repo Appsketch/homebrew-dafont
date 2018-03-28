@@ -5,7 +5,6 @@ cask 'dafont-3-strokes' do
     url 'http://dl.dafont.com/dl/?f=3_strokes'
     name '3 Strokes'
     homepage 'http://www.dafont.com/3-strokes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '3_strokes.ttf'
 end

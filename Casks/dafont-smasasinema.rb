@@ -5,7 +5,6 @@ cask 'dafont-smasasinema' do
     url 'http://dl.dafont.com/dl/?f=smasasinema'
     name 'Smasasinema'
     homepage 'http://www.dafont.com/smasasinema.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'smasasinema.ttf'
 end

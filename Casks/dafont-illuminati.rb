@@ -5,7 +5,6 @@ cask 'dafont-illuminati' do
     url 'http://dl.dafont.com/dl/?f=illuminati'
     name 'Illuminati'
     homepage 'http://www.dafont.com/illuminati.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'illum.ttf'
 end

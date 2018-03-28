@@ -5,7 +5,6 @@ cask 'dafont-fibography' do
     url 'http://dl.dafont.com/dl/?f=fibography'
     name 'Fibography'
     homepage 'http://www.dafont.com/fibography.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fibography_PersonalUse.ttf'
 end

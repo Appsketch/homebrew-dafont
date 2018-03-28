@@ -5,7 +5,6 @@ cask 'dafont-collectionofjays' do
     url 'http://dl.dafont.com/dl/?f=collectionofjays'
     name 'Collection Of Jays'
     homepage 'http://www.dafont.com/collectionofjays.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CollectionOfJays.ttf'
 end

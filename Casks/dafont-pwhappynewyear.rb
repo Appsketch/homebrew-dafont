@@ -5,7 +5,6 @@ cask 'dafont-pwhappynewyear' do
     url 'http://dl.dafont.com/dl/?f=pwhappynewyear'
     name 'PW Happy New Year'
     homepage 'http://www.dafont.com/pwhappynewyear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWHappyNewYear.ttf'
 end

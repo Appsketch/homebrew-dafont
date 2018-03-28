@@ -5,7 +5,6 @@ cask 'dafont-system' do
     url 'http://dl.dafont.com/dl/?f=system'
     name 'System'
     homepage 'http://www.dafont.com/system.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'System.ttf'
 end

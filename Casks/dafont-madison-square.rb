@@ -5,7 +5,6 @@ cask 'dafont-madison-square' do
     url 'http://dl.dafont.com/dl/?f=madison_square'
     name 'Madison Square'
     homepage 'http://www.dafont.com/madison-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MADISI__.TTF'
 end

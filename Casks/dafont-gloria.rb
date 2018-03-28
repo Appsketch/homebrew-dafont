@@ -5,7 +5,6 @@ cask 'dafont-gloria' do
     url 'http://dl.dafont.com/dl/?f=gloria'
     name 'Gloria'
     homepage 'http://www.dafont.com/gloria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gloria.ttf'
 end

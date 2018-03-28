@@ -5,7 +5,6 @@ cask 'dafont-gotische-missalschrift' do
     url 'http://dl.dafont.com/dl/?f=gotische_missalschrift'
     name 'Gotische Missalschrift'
     homepage 'http://www.dafont.com/gotische-missalschrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GotischeMissalschrift.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-quarter-sans' do
     url 'http://dl.dafont.com/dl/?f=quarter_sans'
     name 'Quarter Sans'
     homepage 'http://www.dafont.com/quarter-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quarter_bold.ttf'
     font 'Quarter_light.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-cyborg45' do
     url 'http://dl.dafont.com/dl/?f=cyborg45'
     name 'Cyborg 45'
     homepage 'http://www.dafont.com/cyborg45.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CYBORG__.TTF'
 end

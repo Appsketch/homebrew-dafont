@@ -5,7 +5,6 @@ cask 'dafont-raw-denim-audacity' do
     url 'http://dl.dafont.com/dl/?f=raw_denim_audacity'
     name 'Raw Denim Audacity'
     homepage 'http://www.dafont.com/raw-denim-audacity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raw-Denim-Audacity.ttf'
 end

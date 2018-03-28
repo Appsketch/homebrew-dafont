@@ -5,7 +5,6 @@ cask 'dafont-barrakuda' do
     url 'http://dl.dafont.com/dl/?f=barrakuda'
     name 'Barrakuda&#039;z FontZamba'
     homepage 'http://www.dafont.com/barrakuda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BARRA.TTF'
 end

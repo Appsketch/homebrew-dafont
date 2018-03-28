@@ -5,7 +5,6 @@ cask 'dafont-esplanade-script' do
     url 'http://dl.dafont.com/dl/?f=esplanade_script'
     name 'Esplanade Script'
     homepage 'http://www.dafont.com/esplanade-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EsplanadeScript_PersonalUse.ttf'
 end

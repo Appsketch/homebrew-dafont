@@ -5,7 +5,6 @@ cask 'dafont-handcapzz' do
     url 'http://dl.dafont.com/dl/?f=handcapzz'
     name 'HandCapzz'
     homepage 'http://www.dafont.com/handcapzz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HandCapzz.ttf'
 end

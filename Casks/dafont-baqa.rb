@@ -5,7 +5,6 @@ cask 'dafont-baqa' do
     url 'http://dl.dafont.com/dl/?f=baqa'
     name 'Baqa'
     homepage 'http://www.dafont.com/baqa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baqa.otf'
 end

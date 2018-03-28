@@ -5,7 +5,6 @@ cask 'dafont-jengle-jungallery' do
     url 'http://dl.dafont.com/dl/?f=jengle_jungallery'
     name 'Jengle Jungallery'
     homepage 'http://www.dafont.com/jengle-jungallery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jengle Jungallery.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-think-techno' do
     url 'http://dl.dafont.com/dl/?f=think_techno'
     name 'Think Techno'
     homepage 'http://www.dafont.com/think-techno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'think techno.ttf'
 end

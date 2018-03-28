@@ -5,7 +5,6 @@ cask 'dafont-trigun' do
     url 'http://dl.dafont.com/dl/?f=trigun'
     name 'Trigun'
     homepage 'http://www.dafont.com/trigun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trigun.ttf'
 end

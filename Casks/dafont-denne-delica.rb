@@ -5,7 +5,6 @@ cask 'dafont-denne-delica' do
     url 'http://dl.dafont.com/dl/?f=denne_delica'
     name 'Denne Delica'
     homepage 'http://www.dafont.com/denne-delica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DenneDelica.ttf'
 end

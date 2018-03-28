@@ -5,7 +5,6 @@ cask 'dafont-guttural' do
     url 'http://dl.dafont.com/dl/?f=guttural'
     name 'Guttural'
     homepage 'http://www.dafont.com/guttural.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'guttural.ttf'
 end

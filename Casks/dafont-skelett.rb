@@ -5,7 +5,6 @@ cask 'dafont-skelett' do
     url 'http://dl.dafont.com/dl/?f=skelett'
     name 'Skelett'
     homepage 'http://www.dafont.com/skelett.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skelett-Bold.ttf'
     font 'Skelett.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-cursor' do
     url 'http://dl.dafont.com/dl/?f=cursor'
     name 'Cursor'
     homepage 'http://www.dafont.com/cursor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cursor.fon'
 end

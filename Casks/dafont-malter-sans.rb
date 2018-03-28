@@ -5,7 +5,6 @@ cask 'dafont-malter-sans' do
     url 'http://dl.dafont.com/dl/?f=malter_sans'
     name 'Malter Sans'
     homepage 'http://www.dafont.com/malter-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Malter Sans Bold Demo.otf'
     font 'Malter Sans Bold_Italic Demo.otf'

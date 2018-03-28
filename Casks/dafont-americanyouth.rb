@@ -5,7 +5,6 @@ cask 'dafont-americanyouth' do
     url 'http://dl.dafont.com/dl/?f=americanyouth'
     name 'American Youth'
     homepage 'http://www.dafont.com/americanyouth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmericanYouth.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-slim-pickins' do
     url 'http://dl.dafont.com/dl/?f=slim_pickins'
     name 'Slim Pickins'
     homepage 'http://www.dafont.com/slim-pickins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slim Pickins.ttf'
 end

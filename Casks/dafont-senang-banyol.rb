@@ -5,7 +5,6 @@ cask 'dafont-senang-banyol' do
     url 'http://dl.dafont.com/dl/?f=senang_banyol'
     name 'Senang Banyol'
     homepage 'http://www.dafont.com/senang-banyol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Senang Banyol.ttf'
 end

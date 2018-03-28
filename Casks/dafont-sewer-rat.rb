@@ -5,7 +5,6 @@ cask 'dafont-sewer-rat' do
     url 'http://dl.dafont.com/dl/?f=sewer_rat'
     name 'Sewer Rat'
     homepage 'http://www.dafont.com/sewer-rat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sewer_rat.ttf'
 end

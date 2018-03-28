@@ -5,7 +5,6 @@ cask 'dafont-dirty-ames' do
     url 'http://dl.dafont.com/dl/?f=dirty_ames'
     name 'Dirty Ames'
     homepage 'http://www.dafont.com/dirty-ames.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dirty_Ames_0.1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-neutron' do
     url 'http://dl.dafont.com/dl/?f=neutron'
     name 'Neutron'
     homepage 'http://www.dafont.com/neutron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'neutrond.ttf'
 end

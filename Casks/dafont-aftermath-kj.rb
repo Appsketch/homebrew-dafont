@@ -5,7 +5,6 @@ cask 'dafont-aftermath-kj' do
     url 'http://dl.dafont.com/dl/?f=aftermath_kj'
     name 'Aftermath'
     homepage 'http://www.dafont.com/aftermath-kj.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aftermath.ttf'
 end

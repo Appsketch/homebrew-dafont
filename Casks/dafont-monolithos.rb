@@ -5,7 +5,6 @@ cask 'dafont-monolithos' do
     url 'http://dl.dafont.com/dl/?f=monolithos'
     name 'Monolithos'
     homepage 'http://www.dafont.com/monolithos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monolithos.ttf'
 end

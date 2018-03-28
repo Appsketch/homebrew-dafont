@@ -5,7 +5,6 @@ cask 'dafont-psychotic-elephant' do
     url 'http://dl.dafont.com/dl/?f=psychotic_elephant'
     name 'Psychotic Elephant'
     homepage 'http://www.dafont.com/psychotic-elephant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Psyceh__.ttf'
     font 'Psycet__.ttf'

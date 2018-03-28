@@ -5,7 +5,6 @@ cask 'dafont-xposed' do
     url 'http://dl.dafont.com/dl/?f=xposed'
     name 'Xposed'
     homepage 'http://www.dafont.com/xposed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xposed.ttf'
 end

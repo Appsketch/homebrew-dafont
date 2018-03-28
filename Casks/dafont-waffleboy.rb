@@ -5,7 +5,6 @@ cask 'dafont-waffleboy' do
     url 'http://dl.dafont.com/dl/?f=waffleboy'
     name 'Waffleboy'
     homepage 'http://www.dafont.com/waffleboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WAFFLEBOY.ttf'
 end

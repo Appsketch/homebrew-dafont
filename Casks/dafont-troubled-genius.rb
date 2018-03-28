@@ -5,7 +5,6 @@ cask 'dafont-troubled-genius' do
     url 'http://dl.dafont.com/dl/?f=troubled_genius'
     name 'Troubled Genius'
     homepage 'http://www.dafont.com/troubled-genius.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TROUG___.TTF'
 end

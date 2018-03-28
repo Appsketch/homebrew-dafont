@@ -5,7 +5,6 @@ cask 'dafont-kbhearmeplay' do
     url 'http://dl.dafont.com/dl/?f=kbhearmeplay'
     name 'KB hear me play'
     homepage 'http://www.dafont.com/kbhearmeplay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBhearmeplay.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yello' do
     url 'http://dl.dafont.com/dl/?f=yello'
     name 'Yello'
     homepage 'http://www.dafont.com/yello.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yello.ttf'
 end

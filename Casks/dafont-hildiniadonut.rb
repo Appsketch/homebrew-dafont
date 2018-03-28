@@ -5,7 +5,6 @@ cask 'dafont-hildiniadonut' do
     url 'http://dl.dafont.com/dl/?f=hildiniadonut'
     name 'Hildinia Donut'
     homepage 'http://www.dafont.com/hildiniadonut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HDONTRIAL.ttf'
 end

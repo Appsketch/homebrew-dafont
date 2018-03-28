@@ -5,7 +5,6 @@ cask 'dafont-trinista-grf' do
     url 'http://dl.dafont.com/dl/?f=trinista_grf'
     name 'Trinista GRF'
     homepage 'http://www.dafont.com/trinista-grf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRINISTA GRF.ttf'
 end

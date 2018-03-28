@@ -5,7 +5,6 @@ cask 'dafont-intellectaheraldics' do
     url 'http://dl.dafont.com/dl/?f=intellectaheraldics'
     name 'Intellecta Heraldics'
     homepage 'http://www.dafont.com/intellectaheraldics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IntellectaHeraldics.ttf'
 end

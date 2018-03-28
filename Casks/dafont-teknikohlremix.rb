@@ -5,7 +5,6 @@ cask 'dafont-teknikohlremix' do
     url 'http://dl.dafont.com/dl/?f=teknikohlremix'
     name 'TeknikohlRemix'
     homepage 'http://www.dafont.com/teknikohlremix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TEKNRN__.TTF'
     font 'TEKNRO__.TTF'

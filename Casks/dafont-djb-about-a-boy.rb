@@ -5,7 +5,6 @@ cask 'dafont-djb-about-a-boy' do
     url 'http://dl.dafont.com/dl/?f=djb_about_a_boy'
     name 'DJB About a Boy'
     homepage 'http://www.dafont.com/djb-about-a-boy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB About a Boy.ttf'
 end

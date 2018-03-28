@@ -5,7 +5,6 @@ cask 'dafont-cardigan-titling' do
     url 'http://dl.dafont.com/dl/?f=cardigan_titling'
     name 'Cardigan Titling'
     homepage 'http://www.dafont.com/cardigan-titling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cardigan titling bd it.ttf'
     font 'cardigan titling bd.ttf'

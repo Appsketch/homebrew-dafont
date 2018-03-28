@@ -5,7 +5,6 @@ cask 'dafont-nextlevel' do
     url 'http://dl.dafont.com/dl/?f=nextlevel'
     name 'Next Level'
     homepage 'http://www.dafont.com/nextlevel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NextLevel.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-terran' do
     url 'http://dl.dafont.com/dl/?f=terran'
     name 'Terran'
     homepage 'http://www.dafont.com/terran.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'terran.ttf'
     font 'terran3d.ttf'

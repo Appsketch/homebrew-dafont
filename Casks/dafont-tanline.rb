@@ -5,7 +5,6 @@ cask 'dafont-tanline' do
     url 'http://dl.dafont.com/dl/?f=tanline'
     name 'Tanline'
     homepage 'http://www.dafont.com/tanline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TANLINE.TTF'
 end

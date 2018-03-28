@@ -5,7 +5,6 @@ cask 'dafont-greatpoints' do
     url 'http://dl.dafont.com/dl/?f=greatpoints'
     name 'Great Points'
     homepage 'http://www.dafont.com/greatpoints.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreatPoints.ttf'
 end

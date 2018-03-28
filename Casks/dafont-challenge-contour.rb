@@ -5,7 +5,6 @@ cask 'dafont-challenge-contour' do
     url 'http://dl.dafont.com/dl/?f=challenge_contour'
     name 'Challenge Contour'
     homepage 'http://www.dafont.com/challenge-contour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChallengeContour.ttf'
     font 'ChallengeShadow.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-hff-fourth-rock' do
     url 'http://dl.dafont.com/dl/?f=hff_fourth_rock'
     name 'HFF Fourth Rock'
     homepage 'http://www.dafont.com/hff-fourth-rock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Fourth Rock.ttf'
 end

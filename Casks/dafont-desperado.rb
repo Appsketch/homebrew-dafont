@@ -5,7 +5,6 @@ cask 'dafont-desperado' do
     url 'http://dl.dafont.com/dl/?f=desperado'
     name 'Desperado!'
     homepage 'http://www.dafont.com/desperado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'desperado.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-space-punk' do
     url 'http://dl.dafont.com/dl/?f=space_punk'
     name 'Space Punk'
     homepage 'http://www.dafont.com/space-punk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'space punk Bold Italic.ttf'
     font 'space punk Bold.ttf'

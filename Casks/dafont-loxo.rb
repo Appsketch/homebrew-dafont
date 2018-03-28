@@ -5,7 +5,6 @@ cask 'dafont-loxo' do
     url 'http://dl.dafont.com/dl/?f=loxo'
     name 'Loxo'
     homepage 'http://www.dafont.com/loxo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOXO.ttf'
 end

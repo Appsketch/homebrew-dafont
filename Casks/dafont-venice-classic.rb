@@ -5,7 +5,6 @@ cask 'dafont-venice-classic' do
     url 'http://dl.dafont.com/dl/?f=venice_classic'
     name 'Venice Classic'
     homepage 'http://www.dafont.com/venice-classic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VeniceClassic.ttf'
 end

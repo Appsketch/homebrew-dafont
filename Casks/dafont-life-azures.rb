@@ -5,7 +5,6 @@ cask 'dafont-life-azures' do
     url 'http://dl.dafont.com/dl/?f=life_azures'
     name 'Life Azures'
     homepage 'http://www.dafont.com/life-azures.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Life Azures.ttf'
 end

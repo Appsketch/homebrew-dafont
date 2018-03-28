@@ -5,7 +5,6 @@ cask 'dafont-1001head-font' do
     url 'http://dl.dafont.com/dl/?f=1001head_font'
     name '1001Head'
     homepage 'http://www.dafont.com/1001head-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1001head Font.ttf'
 end

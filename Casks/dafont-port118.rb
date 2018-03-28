@@ -5,7 +5,6 @@ cask 'dafont-port118' do
     url 'http://dl.dafont.com/dl/?f=port118'
     name 'Port 118'
     homepage 'http://www.dafont.com/port118.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PORT118.ttf'
 end

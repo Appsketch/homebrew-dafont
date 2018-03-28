@@ -5,7 +5,6 @@ cask 'dafont-imsogay' do
     url 'http://dl.dafont.com/dl/?f=imsogay'
     name 'Imsogay'
     homepage 'http://www.dafont.com/imsogay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'imsogay.ttf'
 end

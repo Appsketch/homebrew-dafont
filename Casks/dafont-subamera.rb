@@ -5,7 +5,6 @@ cask 'dafont-subamera' do
     url 'http://dl.dafont.com/dl/?f=subamera'
     name 'Subamera'
     homepage 'http://www.dafont.com/subamera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Subamera.ttf'
 end

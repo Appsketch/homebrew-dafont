@@ -5,7 +5,6 @@ cask 'dafont-seeds' do
     url 'http://dl.dafont.com/dl/?f=seeds'
     name 'Seeds'
     homepage 'http://www.dafont.com/seeds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEEDS.TTF'
 end

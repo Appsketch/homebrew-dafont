@@ -5,7 +5,6 @@ cask 'dafont-hangover-monday' do
     url 'http://dl.dafont.com/dl/?f=hangover_monday'
     name 'Hangover Monday'
     homepage 'http://www.dafont.com/hangover-monday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hangover monday.ttf'
     font 'hangover mondayBDIT.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-rixon' do
     url 'http://dl.dafont.com/dl/?f=rixon'
     name 'Rixon'
     homepage 'http://www.dafont.com/rixon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rixon free promo.ttf'
 end

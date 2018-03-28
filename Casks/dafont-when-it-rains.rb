@@ -5,7 +5,6 @@ cask 'dafont-when-it-rains' do
     url 'http://dl.dafont.com/dl/?f=when_it_rains'
     name 'When it rains'
     homepage 'http://www.dafont.com/when-it-rains.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'when it rains.ttf'
 end

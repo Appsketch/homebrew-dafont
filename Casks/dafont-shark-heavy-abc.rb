@@ -5,7 +5,6 @@ cask 'dafont-shark-heavy-abc' do
     url 'http://dl.dafont.com/dl/?f=shark_heavy_abc'
     name 'Shark Heavy ABC'
     homepage 'http://www.dafont.com/shark-heavy-abc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sharkheavyabc.ttf'
 end

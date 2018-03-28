@@ -5,7 +5,6 @@ cask 'dafont-chiffonbows' do
     url 'http://dl.dafont.com/dl/?f=chiffonbows'
     name 'Chiffon&amp;Bows'
     homepage 'http://www.dafont.com/chiffonbows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chiffon &amp; Bows.ttf'
 end

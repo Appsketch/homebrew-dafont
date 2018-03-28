@@ -5,7 +5,6 @@ cask 'dafont-uncle-salsa' do
     url 'http://dl.dafont.com/dl/?f=uncle_salsa'
     name 'Uncle Salsa'
     homepage 'http://www.dafont.com/uncle-salsa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'uncle salsa.ttf'
 end

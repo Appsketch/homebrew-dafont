@@ -5,7 +5,6 @@ cask 'dafont-savaro-stencil' do
     url 'http://dl.dafont.com/dl/?f=savaro_stencil'
     name 'Savaro Stencil'
     homepage 'http://www.dafont.com/savaro-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SAVARO_STENCIL_demo.otf'
 end

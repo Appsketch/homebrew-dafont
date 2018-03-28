@@ -5,7 +5,6 @@ cask 'dafont-frozenrita' do
     url 'http://dl.dafont.com/dl/?f=frozenrita'
     name 'Frozen Rita'
     homepage 'http://www.dafont.com/frozenrita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FrozenRita.ttf'
 end

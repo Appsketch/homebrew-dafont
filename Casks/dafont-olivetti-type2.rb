@@ -5,7 +5,6 @@ cask 'dafont-olivetti-type2' do
     url 'http://dl.dafont.com/dl/?f=olivetti_type2'
     name 'Olivetti Type 2'
     homepage 'http://www.dafont.com/olivetti-type2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Olivetti Type2.ttf'
 end

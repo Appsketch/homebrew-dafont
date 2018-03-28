@@ -5,7 +5,6 @@ cask 'dafont-califaschisel' do
     url 'http://dl.dafont.com/dl/?f=califaschisel'
     name 'Califas Chisel'
     homepage 'http://www.dafont.com/califaschisel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CalifasChisel_FREE.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-opificio-neue' do
     url 'http://dl.dafont.com/dl/?f=opificio_neue'
     name 'Opificio Neue'
     homepage 'http://www.dafont.com/opificio-neue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Opificio_neue-regular.ttf'
 end

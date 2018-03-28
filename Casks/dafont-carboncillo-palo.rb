@@ -5,7 +5,6 @@ cask 'dafont-carboncillo-palo' do
     url 'http://dl.dafont.com/dl/?f=carboncillo_palo'
     name 'Carboncillo Palo'
     homepage 'http://www.dafont.com/carboncillo-palo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CARBONCILLO PALO   Normal.ttf'
     font 'CARBONCILLO PALO Italic.ttf'

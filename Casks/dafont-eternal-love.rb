@@ -5,7 +5,6 @@ cask 'dafont-eternal-love' do
     url 'http://dl.dafont.com/dl/?f=eternal_love'
     name 'Eternal Love'
     homepage 'http://www.dafont.com/eternal-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ETERNAL LOVE.ttf'
 end

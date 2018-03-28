@@ -5,7 +5,6 @@ cask 'dafont-whitestone' do
     url 'http://dl.dafont.com/dl/?f=whitestone'
     name 'Whitestone'
     homepage 'http://www.dafont.com/whitestone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Whitestone Bold Italic.otf'
     font 'Whitestone Bold.otf'

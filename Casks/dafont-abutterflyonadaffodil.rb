@@ -5,7 +5,6 @@ cask 'dafont-abutterflyonadaffodil' do
     url 'http://dl.dafont.com/dl/?f=abutterflyonadaffodil'
     name 'A Butterfly On a Daffodil'
     homepage 'http://www.dafont.com/abutterflyonadaffodil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AButterflyOnaDaffodil.ttf'
 end

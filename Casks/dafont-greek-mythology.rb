@@ -5,7 +5,6 @@ cask 'dafont-greek-mythology' do
     url 'http://dl.dafont.com/dl/?f=greek_mythology'
     name 'Greek Mythology'
     homepage 'http://www.dafont.com/greek-mythology.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Greek Mythology.ttf'
 end

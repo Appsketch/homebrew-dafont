@@ -5,7 +5,6 @@ cask 'dafont-peaches-en-regalia' do
     url 'http://dl.dafont.com/dl/?f=peaches_en_regalia'
     name 'Peaches en Regalia'
     homepage 'http://www.dafont.com/peaches-en-regalia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peaches en Regalia.ttf'
 end

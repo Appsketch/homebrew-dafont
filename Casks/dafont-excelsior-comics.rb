@@ -5,7 +5,6 @@ cask 'dafont-excelsior-comics' do
     url 'http://dl.dafont.com/dl/?f=excelsior_comics'
     name 'Excelsior Comics'
     homepage 'http://www.dafont.com/excelsior-comics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'excelsiorcomics.ttf'
     font 'excelsiorcomics3d.ttf'

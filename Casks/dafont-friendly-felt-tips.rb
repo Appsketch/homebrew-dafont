@@ -5,7 +5,6 @@ cask 'dafont-friendly-felt-tips' do
     url 'http://dl.dafont.com/dl/?f=friendly_felt_tips'
     name 'Friendly Felt Tips'
     homepage 'http://www.dafont.com/friendly-felt-tips.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Friendly Felt Tips Italic.otf'
     font 'Friendly Felt Tips.otf'

@@ -5,7 +5,6 @@ cask 'dafont-ribambelle' do
     url 'http://dl.dafont.com/dl/?f=ribambelle'
     name 'Ribambelle'
     homepage 'http://www.dafont.com/ribambelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ribambelle.ttf'
 end

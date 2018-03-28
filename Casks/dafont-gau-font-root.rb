@@ -5,7 +5,6 @@ cask 'dafont-gau-font-root' do
     url 'http://dl.dafont.com/dl/?f=gau_font_root'
     name 'Gau Font Root'
     homepage 'http://www.dafont.com/gau-font-root.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GAU_root_N.TTF'
 end

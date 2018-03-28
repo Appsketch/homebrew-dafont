@@ -5,7 +5,6 @@ cask 'dafont-alot-of-love' do
     url 'http://dl.dafont.com/dl/?f=alot_of_love'
     name 'A lot of love'
     homepage 'http://www.dafont.com/alot-of-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alot of love.ttf'
 end

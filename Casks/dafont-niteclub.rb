@@ -5,7 +5,6 @@ cask 'dafont-niteclub' do
     url 'http://dl.dafont.com/dl/?f=niteclub'
     name 'Niteclub'
     homepage 'http://www.dafont.com/niteclub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Niteclub.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-alice-and-the-wicked-monster' do
     url 'http://dl.dafont.com/dl/?f=alice_and_the_wicked_monster'
     name 'Alice and the Wicked Monster'
     homepage 'http://www.dafont.com/alice-and-the-wicked-monster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alice and the Wicked Monster.ttf'
 end

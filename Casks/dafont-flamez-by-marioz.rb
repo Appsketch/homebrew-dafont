@@ -5,7 +5,6 @@ cask 'dafont-flamez-by-marioz' do
     url 'http://dl.dafont.com/dl/?f=flamez_by_marioz'
     name 'Flamez'
     homepage 'http://www.dafont.com/flamez-by-marioz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FLAMEZBY.TTF'
 end

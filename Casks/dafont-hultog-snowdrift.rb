@@ -5,7 +5,6 @@ cask 'dafont-hultog-snowdrift' do
     url 'http://dl.dafont.com/dl/?f=hultog_snowdrift'
     name 'Hultog Snowdrift'
     homepage 'http://www.dafont.com/hultog-snowdrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hultog Snowdrift.ttf'
 end

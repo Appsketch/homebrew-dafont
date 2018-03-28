@@ -5,7 +5,6 @@ cask 'dafont-aircloud' do
     url 'http://dl.dafont.com/dl/?f=aircloud'
     name 'Aircloud'
     homepage 'http://www.dafont.com/aircloud.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aircloud.ttf'
 end

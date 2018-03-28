@@ -5,7 +5,6 @@ cask 'dafont-powerchord' do
     url 'http://dl.dafont.com/dl/?f=powerchord'
     name 'Power Chord'
     homepage 'http://www.dafont.com/powerchord.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PowerChord.ttf'
 end

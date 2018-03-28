@@ -5,7 +5,6 @@ cask 'dafont-hearts-brk' do
     url 'http://dl.dafont.com/dl/?f=hearts_brk'
     name 'Hearts BRK'
     homepage 'http://www.dafont.com/hearts-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hearts_brk.ttf'
 end

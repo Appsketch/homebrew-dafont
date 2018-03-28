@@ -5,7 +5,6 @@ cask 'dafont-extragna-rara-st' do
     url 'http://dl.dafont.com/dl/?f=extragna_rara_st'
     name 'Extragna Rara ST'
     homepage 'http://www.dafont.com/extragna-rara-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extragna Rara St.ttf'
 end

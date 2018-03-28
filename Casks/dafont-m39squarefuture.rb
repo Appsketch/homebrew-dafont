@@ -5,7 +5,6 @@ cask 'dafont-m39squarefuture' do
     url 'http://dl.dafont.com/dl/?f=m39squarefuture'
     name 'M39 Squarefuture'
     homepage 'http://www.dafont.com/m39squarefuture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'm39.TTF'
 end

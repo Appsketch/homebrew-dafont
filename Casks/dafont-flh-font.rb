@@ -5,7 +5,6 @@ cask 'dafont-flh-font' do
     url 'http://dl.dafont.com/dl/?f=flh_font'
     name 'FLH-Font'
     homepage 'http://www.dafont.com/flh-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'flh-font.ttf'
 end

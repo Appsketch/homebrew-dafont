@@ -5,7 +5,6 @@ cask 'dafont-distillers' do
     url 'http://dl.dafont.com/dl/?f=distillers'
     name 'ADIstiLleRS Font'
     homepage 'http://www.dafont.com/distillers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'distl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-prognostic' do
     url 'http://dl.dafont.com/dl/?f=prognostic'
     name 'Prognostic'
     homepage 'http://www.dafont.com/prognostic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'prognostic.ttf'
 end

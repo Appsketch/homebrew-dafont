@@ -5,7 +5,6 @@ cask 'dafont-plateaux' do
     url 'http://dl.dafont.com/dl/?f=plateaux'
     name 'Plateaux'
     homepage 'http://www.dafont.com/plateaux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plateaux.ttf'
 end

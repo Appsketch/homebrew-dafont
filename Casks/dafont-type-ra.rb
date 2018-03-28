@@ -5,7 +5,6 @@ cask 'dafont-type-ra' do
     url 'http://dl.dafont.com/dl/?f=type_ra'
     name 'Type-Ra'
     homepage 'http://www.dafont.com/type-ra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'type-ra.ttf'
 end

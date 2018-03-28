@@ -5,7 +5,6 @@ cask 'dafont-chunkster-jamz' do
     url 'http://dl.dafont.com/dl/?f=chunkster_jamz'
     name 'Chunkster Jamz'
     homepage 'http://www.dafont.com/chunkster-jamz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chunkster Jamz.ttf'
 end

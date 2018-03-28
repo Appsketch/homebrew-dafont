@@ -5,7 +5,6 @@ cask 'dafont-chrome' do
     url 'http://dl.dafont.com/dl/?f=chrome'
     name 'Chrome'
     homepage 'http://www.dafont.com/chrome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chrome-Normal.ttf'
     font 'ChromeBlack-Normal.ttf'

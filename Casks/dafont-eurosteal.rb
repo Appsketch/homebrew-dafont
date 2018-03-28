@@ -5,7 +5,6 @@ cask 'dafont-eurosteal' do
     url 'http://dl.dafont.com/dl/?f=eurosteal'
     name 'Eurosteal'
     homepage 'http://www.dafont.com/eurosteal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eurosteal-Big-Caps.ttf'
     font 'Eurosteal.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-deliciouswould' do
     url 'http://dl.dafont.com/dl/?f=deliciouswould'
     name 'Delicious Would'
     homepage 'http://www.dafont.com/deliciouswould.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeliciousWould.ttf'
 end

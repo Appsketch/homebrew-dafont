@@ -5,7 +5,6 @@ cask 'dafont-hexotic-ldr' do
     url 'http://dl.dafont.com/dl/?f=hexotic_ldr'
     name 'Hexotic LDR'
     homepage 'http://www.dafont.com/hexotic-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hexotic_ldr.ttf'
 end

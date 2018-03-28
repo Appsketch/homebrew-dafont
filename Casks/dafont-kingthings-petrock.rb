@@ -5,7 +5,6 @@ cask 'dafont-kingthings-petrock' do
     url 'http://dl.dafont.com/dl/?f=kingthings_petrock'
     name 'Kingthings Petrock'
     homepage 'http://www.dafont.com/kingthings-petrock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Petrock light.ttf'
     font 'Kingthings Petrock.ttf'

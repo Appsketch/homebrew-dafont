@@ -5,7 +5,6 @@ cask 'dafont-janda-scrapgirl-dots' do
     url 'http://dl.dafont.com/dl/?f=janda_scrapgirl_dots'
     name 'Janda Scrapgirl Dots'
     homepage 'http://www.dafont.com/janda-scrapgirl-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaScrapgirlDots.ttf'
 end

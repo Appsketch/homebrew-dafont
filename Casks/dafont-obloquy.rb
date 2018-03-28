@@ -5,7 +5,6 @@ cask 'dafont-obloquy' do
     url 'http://dl.dafont.com/dl/?f=obloquy'
     name 'Obloquy'
     homepage 'http://www.dafont.com/obloquy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'obloquyo.ttf'
     font 'obloquys.ttf'

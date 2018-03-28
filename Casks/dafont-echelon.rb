@@ -5,7 +5,6 @@ cask 'dafont-echelon' do
     url 'http://dl.dafont.com/dl/?f=echelon'
     name 'Echelon'
     homepage 'http://www.dafont.com/echelon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'echelon it.ttf'
     font 'echelon rg.ttf'

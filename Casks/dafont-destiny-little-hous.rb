@@ -5,7 +5,6 @@ cask 'dafont-destiny-little-hous' do
     url 'http://dl.dafont.com/dl/?f=destiny_little_hous'
     name 'Destiny Little Houses'
     homepage 'http://www.dafont.com/destiny-little-hous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DESTLH__.TTF'
 end

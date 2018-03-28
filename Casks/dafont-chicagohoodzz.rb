@@ -5,7 +5,6 @@ cask 'dafont-chicagohoodzz' do
     url 'http://dl.dafont.com/dl/?f=chicagohoodzz'
     name 'ChicagoHoodZZ'
     homepage 'http://www.dafont.com/chicagohoodzz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chicago_HoodZZ_2.0.ttf'
     font 'ChicagoHoodZZ.ttf'

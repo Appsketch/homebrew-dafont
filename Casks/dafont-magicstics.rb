@@ -5,7 +5,6 @@ cask 'dafont-magicstics' do
     url 'http://dl.dafont.com/dl/?f=magicstics'
     name 'Magicstics'
     homepage 'http://www.dafont.com/magicstics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Magicstics.ttf'
 end

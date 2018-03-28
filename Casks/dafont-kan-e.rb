@@ -5,7 +5,6 @@ cask 'dafont-kan-e' do
     url 'http://dl.dafont.com/dl/?f=kan_e'
     name 'Kan'
     homepage 'http://www.dafont.com/kan-e.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KAN-E___.TTF'
     font 'KAN-K___.TTF'

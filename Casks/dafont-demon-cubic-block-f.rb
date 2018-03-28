@@ -5,7 +5,6 @@ cask 'dafont-demon-cubic-block-f' do
     url 'http://dl.dafont.com/dl/?f=demon_cubic_block_f'
     name 'Demon Cubic Block Font'
     homepage 'http://www.dafont.com/demon-cubic-block-f.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cubicblock_b.ttf'
     font 'cubicblock_d.ttf'

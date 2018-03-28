@@ -5,7 +5,6 @@ cask 'dafont-salterio' do
     url 'http://dl.dafont.com/dl/?f=salterio'
     name 'Salterio'
     homepage 'http://www.dafont.com/salterio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Salterio Gradient.ttf'
     font 'Salterio Shadow Two.ttf'

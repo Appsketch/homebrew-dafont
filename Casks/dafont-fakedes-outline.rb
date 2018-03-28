@@ -5,7 +5,6 @@ cask 'dafont-fakedes-outline' do
     url 'http://dl.dafont.com/dl/?f=fakedes_outline'
     name 'Fakedes Outline'
     homepage 'http://www.dafont.com/fakedes-outline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fakedes Outline Bold.otf'
     font 'Fakedes Outline.otf'

@@ -5,7 +5,6 @@ cask 'dafont-all-around' do
     url 'http://dl.dafont.com/dl/?f=all_around'
     name 'All Around'
     homepage 'http://www.dafont.com/all-around.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'All-Around.ttf'
 end

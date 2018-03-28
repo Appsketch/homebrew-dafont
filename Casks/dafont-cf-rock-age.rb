@@ -5,7 +5,6 @@ cask 'dafont-cf-rock-age' do
     url 'http://dl.dafont.com/dl/?f=cf_rock_age'
     name 'CF Rock Age'
     homepage 'http://www.dafont.com/cf-rock-age.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFRockAge-Regular.ttf'
 end

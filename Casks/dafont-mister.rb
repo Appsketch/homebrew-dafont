@@ -5,7 +5,6 @@ cask 'dafont-mister' do
     url 'http://dl.dafont.com/dl/?f=mister'
     name 'Mister Dope + Easy'
     homepage 'http://www.dafont.com/mister.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MISTD___.TTF'
     font 'MISTE___.TTF'

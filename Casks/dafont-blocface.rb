@@ -5,7 +5,6 @@ cask 'dafont-blocface' do
     url 'http://dl.dafont.com/dl/?f=blocface'
     name 'Bloc Face'
     homepage 'http://www.dafont.com/blocface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blocface.ttf'
 end

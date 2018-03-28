@@ -5,7 +5,6 @@ cask 'dafont-tunnepinta' do
     url 'http://dl.dafont.com/dl/?f=tunnepinta'
     name 'Tunnepinta'
     homepage 'http://www.dafont.com/tunnepinta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tunnepinta.ttf'
 end

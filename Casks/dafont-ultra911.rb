@@ -5,7 +5,6 @@ cask 'dafont-ultra911' do
     url 'http://dl.dafont.com/dl/?f=ultra911'
     name 'Ultra 911'
     homepage 'http://www.dafont.com/ultra911.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ultrav2.ttf'
     font 'Ultrav2i.ttf'

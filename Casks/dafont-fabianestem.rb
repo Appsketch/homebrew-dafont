@@ -5,7 +5,6 @@ cask 'dafont-fabianestem' do
     url 'http://dl.dafont.com/dl/?f=fabianestem'
     name 'Fabianestem'
     homepage 'http://www.dafont.com/fabianestem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FABIN___.TTF'
 end

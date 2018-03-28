@@ -5,7 +5,6 @@ cask 'dafont-ravenia' do
     url 'http://dl.dafont.com/dl/?f=ravenia'
     name 'Ravenia'
     homepage 'http://www.dafont.com/ravenia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ravenia.ttf'
 end

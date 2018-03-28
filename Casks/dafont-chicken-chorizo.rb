@@ -5,7 +5,6 @@ cask 'dafont-chicken-chorizo' do
     url 'http://dl.dafont.com/dl/?f=chicken_chorizo'
     name 'Chicken Chorizo'
     homepage 'http://www.dafont.com/chicken-chorizo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHICKEN CHORIZO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kaligraf-latin' do
     url 'http://dl.dafont.com/dl/?f=kaligraf_latin'
     name 'Kaligraf Latin + Cyr'
     homepage 'http://www.dafont.com/kaligraf-latin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kaligraf Cyr.ttf'
     font 'Kaligraf_Latin.ttf'

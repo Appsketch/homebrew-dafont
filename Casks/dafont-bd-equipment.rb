@@ -5,7 +5,6 @@ cask 'dafont-bd-equipment' do
     url 'http://dl.dafont.com/dl/?f=bd_equipment'
     name 'BD Equipment'
     homepage 'http://www.dafont.com/bd-equipment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bd_equipment.otf'
 end

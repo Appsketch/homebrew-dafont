@@ -5,7 +5,6 @@ cask 'dafont-troglodyte' do
     url 'http://dl.dafont.com/dl/?f=troglodyte'
     name 'Troglodyte'
     homepage 'http://www.dafont.com/troglodyte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Troglodyte.ttf'
 end

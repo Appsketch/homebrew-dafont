@@ -5,7 +5,6 @@ cask 'dafont-isl-xen' do
     url 'http://dl.dafont.com/dl/?f=isl_xen'
     name 'ISL Xen'
     homepage 'http://www.dafont.com/isl-xen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xen3.ttf'
 end

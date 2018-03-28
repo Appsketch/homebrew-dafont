@@ -5,7 +5,6 @@ cask 'dafont-arb-187-modern-caps' do
     url 'http://dl.dafont.com/dl/?f=arb_187_modern_caps'
     name 'ARB-187 Modern Caps'
     homepage 'http://www.dafont.com/arb-187-modern-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARB-187 Modern Caps.ttf'
 end

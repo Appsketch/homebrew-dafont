@@ -5,7 +5,6 @@ cask 'dafont-square-dance' do
     url 'http://dl.dafont.com/dl/?f=square_dance'
     name 'Square Dance'
     homepage 'http://www.dafont.com/square-dance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'squaredance00.ttf'
     font 'squaredance03.ttf'

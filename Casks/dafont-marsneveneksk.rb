@@ -5,7 +5,6 @@ cask 'dafont-marsneveneksk' do
     url 'http://dl.dafont.com/dl/?f=marsneveneksk'
     name 'Marsneveneksk'
     homepage 'http://www.dafont.com/marsneveneksk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MARSNEVENEKSK.otf'
 end

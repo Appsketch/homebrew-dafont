@@ -5,7 +5,6 @@ cask 'dafont-trees-friends' do
     url 'http://dl.dafont.com/dl/?f=trees_friends'
     name 'Trees Friends'
     homepage 'http://www.dafont.com/trees-friends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trees Friends.ttf'
 end

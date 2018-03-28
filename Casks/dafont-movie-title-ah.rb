@@ -5,7 +5,6 @@ cask 'dafont-movie-title-ah' do
     url 'http://dl.dafont.com/dl/?f=movie_title_ah'
     name 'Movie Title AH'
     homepage 'http://www.dafont.com/movie-title-ah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Movie Title_AH.ttf'
 end

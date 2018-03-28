@@ -5,7 +5,6 @@ cask 'dafont-barrelhouse-all-cap' do
     url 'http://dl.dafont.com/dl/?f=barrelhouse_all_cap'
     name 'Barrelhouse All Caps'
     homepage 'http://www.dafont.com/barrelhouse-all-cap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barrelhouse All Caps.ttf'
 end

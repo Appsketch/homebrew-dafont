@@ -5,7 +5,6 @@ cask 'dafont-dhf-dexgraffiti-return' do
     url 'http://dl.dafont.com/dl/?f=dhf_dexgraffiti_return'
     name 'DHF Dexgraffiti Return'
     homepage 'http://www.dafont.com/dhf-dexgraffiti-return.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DHF Dexgraffiti Return.otf'
 end

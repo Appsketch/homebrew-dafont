@@ -5,7 +5,6 @@ cask 'dafont-james-fajardo' do
     url 'http://dl.dafont.com/dl/?f=james_fajardo'
     name 'James Fajardo'
     homepage 'http://www.dafont.com/james-fajardo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'James_Fajardo.ttf'
 end

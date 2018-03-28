@@ -5,7 +5,6 @@ cask 'dafont-the-hands-of-deaf' do
     url 'http://dl.dafont.com/dl/?f=the_hands_of_deaf'
     name 'The Hands of Deaf'
     homepage 'http://www.dafont.com/the-hands-of-deaf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Hands of Deaf.ttf'
 end

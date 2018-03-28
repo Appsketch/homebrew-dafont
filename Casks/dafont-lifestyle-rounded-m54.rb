@@ -5,7 +5,6 @@ cask 'dafont-lifestyle-rounded-m54' do
     url 'http://dl.dafont.com/dl/?f=lifestyle_rounded_m54'
     name 'Lifestyle Rounded M54'
     homepage 'http://www.dafont.com/lifestyle-rounded-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lifestyle Rounded M54.ttf'
 end

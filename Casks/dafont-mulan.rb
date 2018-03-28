@@ -5,7 +5,6 @@ cask 'dafont-mulan' do
     url 'http://dl.dafont.com/dl/?f=mulan'
     name 'Mulan'
     homepage 'http://www.dafont.com/mulan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mulan.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fillet-o-fish' do
     url 'http://dl.dafont.com/dl/?f=fillet_o_fish'
     name 'Fillet O Fish'
     homepage 'http://www.dafont.com/fillet-o-fish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FILLET O FISH.ttf'
 end

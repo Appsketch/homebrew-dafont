@@ -5,7 +5,6 @@ cask 'dafont-chocolate-windows' do
     url 'http://dl.dafont.com/dl/?f=chocolate_windows'
     name 'Chocolate Windows'
     homepage 'http://www.dafont.com/chocolate-windows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chocolate windows.ttf'
 end

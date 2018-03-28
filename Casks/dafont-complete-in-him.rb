@@ -5,7 +5,6 @@ cask 'dafont-complete-in-him' do
     url 'http://dl.dafont.com/dl/?f=complete_in_him'
     name 'Complete in Him'
     homepage 'http://www.dafont.com/complete-in-him.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Complete in Him.ttf'
 end

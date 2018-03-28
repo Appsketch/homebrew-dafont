@@ -5,7 +5,6 @@ cask 'dafont-kazmann-sans' do
     url 'http://dl.dafont.com/dl/?f=kazmann_sans'
     name 'Kazmann Sans'
     homepage 'http://www.dafont.com/kazmann-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kazmann Sans.ttf'
 end

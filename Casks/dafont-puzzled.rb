@@ -5,7 +5,6 @@ cask 'dafont-puzzled' do
     url 'http://dl.dafont.com/dl/?f=puzzled'
     name 'Puzzled'
     homepage 'http://www.dafont.com/puzzled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Puzzled.ttf'
 end

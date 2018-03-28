@@ -5,7 +5,6 @@ cask 'dafont-conformyst' do
     url 'http://dl.dafont.com/dl/?f=conformyst'
     name 'Conformyst'
     homepage 'http://www.dafont.com/conformyst.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'conformy.ttf'
 end

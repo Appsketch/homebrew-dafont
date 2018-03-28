@@ -5,7 +5,6 @@ cask 'dafont-tall-films' do
     url 'http://dl.dafont.com/dl/?f=tall_films'
     name 'Tall Films'
     homepage 'http://www.dafont.com/tall-films.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tall Film Fine.ttf'
     font 'Tall Film Oblique.ttf'

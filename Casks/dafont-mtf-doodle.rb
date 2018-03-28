@@ -5,7 +5,6 @@ cask 'dafont-mtf-doodle' do
     url 'http://dl.dafont.com/dl/?f=mtf_doodle'
     name 'MTF Doodle'
     homepage 'http://www.dafont.com/mtf-doodle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Doodle.ttf'
 end

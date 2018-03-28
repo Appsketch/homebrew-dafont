@@ -5,7 +5,6 @@ cask 'dafont-clear-metal-7' do
     url 'http://dl.dafont.com/dl/?f=clear_metal_7'
     name 'Clear Metal 7'
     homepage 'http://www.dafont.com/clear-metal-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'clear_metal_7.ttf'
 end

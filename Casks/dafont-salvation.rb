@@ -5,7 +5,6 @@ cask 'dafont-salvation' do
     url 'http://dl.dafont.com/dl/?f=salvation'
     name 'Salvation'
     homepage 'http://www.dafont.com/salvation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SALVATIO.TTF'
 end

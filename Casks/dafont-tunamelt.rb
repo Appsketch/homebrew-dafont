@@ -5,7 +5,6 @@ cask 'dafont-tunamelt' do
     url 'http://dl.dafont.com/dl/?f=tunamelt'
     name 'Tuna Melt'
     homepage 'http://www.dafont.com/tunamelt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TunaMelt.ttf'
 end

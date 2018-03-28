@@ -5,7 +5,6 @@ cask 'dafont-mochary' do
     url 'http://dl.dafont.com/dl/?f=mochary'
     name 'Mochary'
     homepage 'http://www.dafont.com/mochary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mochary_PERSONAL_USE_ONLY.ttf'
 end

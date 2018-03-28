@@ -5,7 +5,6 @@ cask 'dafont-visual-establishment' do
     url 'http://dl.dafont.com/dl/?f=visual_establishment'
     name 'Visual Establishment'
     homepage 'http://www.dafont.com/visual-establishment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'visual_establishment.ttf'
 end

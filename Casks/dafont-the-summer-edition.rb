@@ -5,7 +5,6 @@ cask 'dafont-the-summer-edition' do
     url 'http://dl.dafont.com/dl/?f=the_summer_edition'
     name 'The Summer Edition'
     homepage 'http://www.dafont.com/the-summer-edition.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THESUMME.TTF'
 end

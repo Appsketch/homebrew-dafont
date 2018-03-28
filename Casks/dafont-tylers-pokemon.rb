@@ -5,7 +5,6 @@ cask 'dafont-tylers-pokemon' do
     url 'http://dl.dafont.com/dl/?f=tylers_pokemon'
     name 'Tyler&#039;s Pokemon'
     homepage 'http://www.dafont.com/tylers-pokemon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TylersPokemon.ttf'
 end

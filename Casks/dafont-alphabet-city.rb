@@ -5,7 +5,6 @@ cask 'dafont-alphabet-city' do
     url 'http://dl.dafont.com/dl/?f=alphabet_city'
     name 'Alphabet City'
     homepage 'http://www.dafont.com/alphabet-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alphabet Black.ttf'
     font 'Alphabet City.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-music-for-a-while' do
     url 'http://dl.dafont.com/dl/?f=music_for_a_while'
     name 'Music for a while'
     homepage 'http://www.dafont.com/music-for-a-while.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'music.TTF'
 end

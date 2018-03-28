@@ -5,7 +5,6 @@ cask 'dafont-juliagbooth' do
     url 'http://dl.dafont.com/dl/?f=juliagbooth'
     name 'Julia G. Booth'
     homepage 'http://www.dafont.com/juliagbooth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JuliaGBooth.ttf'
 end

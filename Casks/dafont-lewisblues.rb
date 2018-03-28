@@ -5,7 +5,6 @@ cask 'dafont-lewisblues' do
     url 'http://dl.dafont.com/dl/?f=lewisblues'
     name 'Lewis Blues'
     homepage 'http://www.dafont.com/lewisblues.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LewisBlues.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ice-cream-for-crow' do
     url 'http://dl.dafont.com/dl/?f=ice_cream_for_crow'
     name 'Ice cream for crow'
     homepage 'http://www.dafont.com/ice-cream-for-crow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ice cream for crow.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-usenet' do
     url 'http://dl.dafont.com/dl/?f=usenet'
     name 'Usenet'
     homepage 'http://www.dafont.com/usenet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'USENET_.ttf'
     font 'USENETA.ttf'

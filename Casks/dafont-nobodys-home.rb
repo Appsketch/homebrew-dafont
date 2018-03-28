@@ -5,7 +5,6 @@ cask 'dafont-nobodys-home' do
     url 'http://dl.dafont.com/dl/?f=nobodys_home'
     name 'Nobody&#039;s Home'
     homepage 'http://www.dafont.com/nobodys-home.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nobodyhome.ttf'
     font 'nobodyhome3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-beam-weapon' do
     url 'http://dl.dafont.com/dl/?f=beam_weapon'
     name 'Beam Weapon'
     homepage 'http://www.dafont.com/beam-weapon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beamweapon.ttf'
     font 'beamweapon3d.ttf'

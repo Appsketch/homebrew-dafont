@@ -5,7 +5,6 @@ cask 'dafont-as-pedras-da-belle-' do
     url 'http://dl.dafont.com/dl/?f=as_pedras_da_belle_'
     name 'As pedras da Belle Otero'
     homepage 'http://www.dafont.com/as-pedras-da-belle-.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'otero.ttf'
 end

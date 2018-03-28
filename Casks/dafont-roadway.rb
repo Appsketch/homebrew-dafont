@@ -5,7 +5,6 @@ cask 'dafont-roadway' do
     url 'http://dl.dafont.com/dl/?f=roadway'
     name 'Roadway'
     homepage 'http://www.dafont.com/roadway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROADWAY_.ttf'
 end

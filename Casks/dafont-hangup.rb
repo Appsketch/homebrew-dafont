@@ -5,7 +5,6 @@ cask 'dafont-hangup' do
     url 'http://dl.dafont.com/dl/?f=hangup'
     name 'Hangup'
     homepage 'http://www.dafont.com/hangup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HANGUP.otf'
 end

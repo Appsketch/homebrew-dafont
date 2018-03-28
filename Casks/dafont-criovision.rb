@@ -5,7 +5,6 @@ cask 'dafont-criovision' do
     url 'http://dl.dafont.com/dl/?f=criovision'
     name 'Criovision'
     homepage 'http://www.dafont.com/criovision.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Criovision-Font.ttf'
 end

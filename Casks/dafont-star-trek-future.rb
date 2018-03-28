@@ -5,7 +5,6 @@ cask 'dafont-star-trek-future' do
     url 'http://dl.dafont.com/dl/?f=star_trek_future'
     name 'Star Trek Future'
     homepage 'http://www.dafont.com/star-trek-future.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Star Trek Enterprise Future.ttf'
     font 'Star Trek_future.ttf'

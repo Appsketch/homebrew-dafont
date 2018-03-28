@@ -5,7 +5,6 @@ cask 'dafont-asian-girl' do
     url 'http://dl.dafont.com/dl/?f=asian_girl'
     name 'Asian Girl'
     homepage 'http://www.dafont.com/asian-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Asian Girl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-punk-rawk' do
     url 'http://dl.dafont.com/dl/?f=punk_rawk'
     name 'Punk Rawk'
     homepage 'http://www.dafont.com/punk-rawk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'punkrawk.[fontvir.us].ttf'
 end

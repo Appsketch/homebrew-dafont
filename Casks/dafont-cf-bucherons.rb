@@ -5,7 +5,6 @@ cask 'dafont-cf-bucherons' do
     url 'http://dl.dafont.com/dl/?f=cf_bucherons'
     name 'CF Bucherons'
     homepage 'http://www.dafont.com/cf-bucherons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFBucherons-Regular.ttf'
 end

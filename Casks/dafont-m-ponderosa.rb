@@ -5,7 +5,6 @@ cask 'dafont-m-ponderosa' do
     url 'http://dl.dafont.com/dl/?f=m_ponderosa'
     name 'M Ponderosa'
     homepage 'http://www.dafont.com/m-ponderosa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MPonderosa.otf'
 end

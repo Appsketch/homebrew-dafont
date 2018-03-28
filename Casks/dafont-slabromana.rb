@@ -5,7 +5,6 @@ cask 'dafont-slabromana' do
     url 'http://dl.dafont.com/dl/?f=slabromana'
     name 'Slab Romana'
     homepage 'http://www.dafont.com/slabromana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SlabRomana-Bold.ttf'
     font 'SlabRomana-BoldOblique.ttf'

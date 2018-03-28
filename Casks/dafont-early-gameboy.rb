@@ -5,7 +5,6 @@ cask 'dafont-early-gameboy' do
     url 'http://dl.dafont.com/dl/?f=early_gameboy'
     name 'Early GameBoy'
     homepage 'http://www.dafont.com/early-gameboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Early GameBoy.ttf'
 end

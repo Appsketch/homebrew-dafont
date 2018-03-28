@@ -5,7 +5,6 @@ cask 'dafont-trasher-2' do
     url 'http://dl.dafont.com/dl/?f=trasher_2'
     name 'Trasher 2'
     homepage 'http://www.dafont.com/trasher-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRASHER-.TTF'
 end

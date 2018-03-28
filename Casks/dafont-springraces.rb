@@ -5,7 +5,6 @@ cask 'dafont-springraces' do
     url 'http://dl.dafont.com/dl/?f=springraces'
     name 'Spring Races'
     homepage 'http://www.dafont.com/springraces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpringRaces.ttf'
 end

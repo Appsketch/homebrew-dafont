@@ -5,7 +5,6 @@ cask 'dafont-the-smurfs-large-font' do
     url 'http://dl.dafont.com/dl/?f=the_smurfs_large_font'
     name 'The Smurfs Large Font'
     homepage 'http://www.dafont.com/the-smurfs-large-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The-Smurfs---Large-Font.ttf'
 end

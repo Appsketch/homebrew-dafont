@@ -5,7 +5,6 @@ cask 'dafont-mallary' do
     url 'http://dl.dafont.com/dl/?f=mallary'
     name 'Mallary'
     homepage 'http://www.dafont.com/mallary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mallary.ttf'
 end

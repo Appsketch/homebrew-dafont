@@ -5,7 +5,6 @@ cask 'dafont-brilliant' do
     url 'http://dl.dafont.com/dl/?f=brilliant'
     name 'BriLliant'
     homepage 'http://www.dafont.com/brilliant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BriLliant.ttf'
 end

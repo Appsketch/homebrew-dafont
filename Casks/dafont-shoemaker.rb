@@ -5,7 +5,6 @@ cask 'dafont-shoemaker' do
     url 'http://dl.dafont.com/dl/?f=shoemaker'
     name 'Shoemaker'
     homepage 'http://www.dafont.com/shoemaker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shoemaker.ttf'
 end

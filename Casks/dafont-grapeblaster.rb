@@ -5,7 +5,6 @@ cask 'dafont-grapeblaster' do
     url 'http://dl.dafont.com/dl/?f=grapeblaster'
     name 'Grape Blaster'
     homepage 'http://www.dafont.com/grapeblaster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrapeBlaster.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-business-suit' do
     url 'http://dl.dafont.com/dl/?f=business_suit'
     name 'Business Suit'
     homepage 'http://www.dafont.com/business-suit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUSIS___.TTF'
 end

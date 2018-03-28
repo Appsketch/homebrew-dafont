@@ -5,7 +5,6 @@ cask 'dafont-shibuya-zero' do
     url 'http://dl.dafont.com/dl/?f=shibuya_zero'
     name 'Shibuya Zero'
     homepage 'http://www.dafont.com/shibuya-zero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_shibuya_zero.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-runes-the-elder-scroll' do
     url 'http://dl.dafont.com/dl/?f=runes_the_elder_scroll'
     name 'Runes - The elder scroll'
     homepage 'http://www.dafont.com/runes-the-elder-scroll.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Runes_-_The_elder_scroll.ttf'
 end

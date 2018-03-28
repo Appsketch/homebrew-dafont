@@ -5,7 +5,6 @@ cask 'dafont-bog-beast' do
     url 'http://dl.dafont.com/dl/?f=bog_beast'
     name 'Bog Beast'
     homepage 'http://www.dafont.com/bog-beast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bogbeast.ttf'
     font 'bogbeast3d.ttf'

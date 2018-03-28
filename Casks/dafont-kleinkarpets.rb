@@ -5,7 +5,6 @@ cask 'dafont-kleinkarpets' do
     url 'http://dl.dafont.com/dl/?f=kleinkarpets'
     name 'KleinKarpets'
     homepage 'http://www.dafont.com/kleinkarpets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KleinKarpets1.ttf'
     font 'KleinKarpets2.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-sorority' do
     url 'http://dl.dafont.com/dl/?f=sorority'
     name 'Sorority'
     homepage 'http://www.dafont.com/sorority.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sorority.ttf'
 end

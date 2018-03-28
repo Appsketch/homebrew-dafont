@@ -5,7 +5,6 @@ cask 'dafont-aku-kamu' do
     url 'http://dl.dafont.com/dl/?f=aku_kamu'
     name 'Aku &amp; Kamu'
     homepage 'http://www.dafont.com/aku-kamu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aku&amp;Kamu.otf'
 end

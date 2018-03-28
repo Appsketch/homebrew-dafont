@@ -5,7 +5,6 @@ cask 'dafont-diffuse-away' do
     url 'http://dl.dafont.com/dl/?f=diffuse_away'
     name 'Diffuse away'
     homepage 'http://www.dafont.com/diffuse-away.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diffuse-Away.ttf'
 end

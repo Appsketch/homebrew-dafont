@@ -5,7 +5,6 @@ cask 'dafont-benjaminfranklin-beveled' do
     url 'http://dl.dafont.com/dl/?f=benjaminfranklin_beveled'
     name 'Benjamin Franklin Beveled'
     homepage 'http://www.dafont.com/benjaminfranklin-beveled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BenjaminFranklin Beveled.ttf'
 end

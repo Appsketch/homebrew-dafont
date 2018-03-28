@@ -5,7 +5,6 @@ cask 'dafont-alphabetsoup' do
     url 'http://dl.dafont.com/dl/?f=alphabetsoup'
     name 'Alphabet Soup'
     homepage 'http://www.dafont.com/alphabetsoup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alphabet Soup.ttf'
 end

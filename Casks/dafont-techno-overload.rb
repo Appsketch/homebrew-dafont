@@ -5,7 +5,6 @@ cask 'dafont-techno-overload' do
     url 'http://dl.dafont.com/dl/?f=techno_overload'
     name 'Techno Overload'
     homepage 'http://www.dafont.com/techno-overload.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'techover.ttf'
 end

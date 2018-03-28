@@ -5,7 +5,6 @@ cask 'dafont-bats-dragons-abaddon' do
     url 'http://dl.dafont.com/dl/?f=bats_dragons_abaddon'
     name 'Bats &amp; Dragons - Abaddon'
     homepage 'http://www.dafont.com/bats-dragons-abaddon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BATS_26DRAGONS-ABADDON.ttf'
 end

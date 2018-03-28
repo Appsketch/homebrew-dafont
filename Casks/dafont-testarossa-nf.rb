@@ -5,7 +5,6 @@ cask 'dafont-testarossa-nf' do
     url 'http://dl.dafont.com/dl/?f=testarossa_nf'
     name 'Testarossa NF'
     homepage 'http://www.dafont.com/testarossa-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TESTN___.TTF'
 end

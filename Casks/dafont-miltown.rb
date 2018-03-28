@@ -5,7 +5,6 @@ cask 'dafont-miltown' do
     url 'http://dl.dafont.com/dl/?f=miltown'
     name 'Miltown'
     homepage 'http://www.dafont.com/miltown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miltown/Miltown_.ttf'
     font 'Miltown2/MLTWNII_.ttf'

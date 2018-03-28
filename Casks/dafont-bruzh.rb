@@ -5,7 +5,6 @@ cask 'dafont-bruzh' do
     url 'http://dl.dafont.com/dl/?f=bruzh'
     name 'Bruzh'
     homepage 'http://www.dafont.com/bruzh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bruzh.ttf'
 end

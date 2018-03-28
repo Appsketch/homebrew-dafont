@@ -5,7 +5,6 @@ cask 'dafont-uknowjack' do
     url 'http://dl.dafont.com/dl/?f=uknowjack'
     name 'Uknowjack'
     homepage 'http://www.dafont.com/uknowjack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UKNOWJACK.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-factor' do
     url 'http://dl.dafont.com/dl/?f=factor'
     name 'Factor'
     homepage 'http://www.dafont.com/factor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'factor.ttf'
     font 'factor3d.ttf'

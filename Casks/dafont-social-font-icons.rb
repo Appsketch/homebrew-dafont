@@ -5,7 +5,6 @@ cask 'dafont-social-font-icons' do
     url 'http://dl.dafont.com/dl/?f=social_font_icons'
     name 'Social Font Icons'
     homepage 'http://www.dafont.com/social-font-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SOCIAL FONT ICONS.ttf'
     font 'SOCIAL OUTLINE ICONS.ttf'

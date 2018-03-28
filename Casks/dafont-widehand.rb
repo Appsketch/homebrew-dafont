@@ -5,7 +5,6 @@ cask 'dafont-widehand' do
     url 'http://dl.dafont.com/dl/?f=widehand'
     name 'Widehand'
     homepage 'http://www.dafont.com/widehand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'widehand.ttf'
 end

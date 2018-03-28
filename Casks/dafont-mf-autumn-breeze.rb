@@ -5,7 +5,6 @@ cask 'dafont-mf-autumn-breeze' do
     url 'http://dl.dafont.com/dl/?f=mf_autumn_breeze'
     name 'Mf Autumn Breeze'
     homepage 'http://www.dafont.com/mf-autumn-breeze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Autumn Breeze.ttf'
 end

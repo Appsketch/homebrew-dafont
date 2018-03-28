@@ -5,7 +5,6 @@ cask 'dafont-edoms-handwritting-' do
     url 'http://dl.dafont.com/dl/?f=edoms_handwritting_'
     name 'Edoms Handwritting'
     homepage 'http://www.dafont.com/edoms-handwritting-.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EDOMHN__.TTF'
 end

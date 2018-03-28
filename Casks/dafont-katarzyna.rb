@@ -5,7 +5,6 @@ cask 'dafont-katarzyna' do
     url 'http://dl.dafont.com/dl/?f=katarzyna'
     name 'Katarzyna'
     homepage 'http://www.dafont.com/katarzyna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Katarzyna.ttf'
 end

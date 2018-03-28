@@ -5,7 +5,6 @@ cask 'dafont-leles-scribadoo' do
     url 'http://dl.dafont.com/dl/?f=leles_scribadoo'
     name 'Lele&#039;s Scribadoo'
     homepage 'http://www.dafont.com/leles-scribadoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lele s-scribadoo.ttf'
 end

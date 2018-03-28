@@ -5,7 +5,6 @@ cask 'dafont-delarocca' do
     url 'http://dl.dafont.com/dl/?f=delarocca'
     name 'Delarocca'
     homepage 'http://www.dafont.com/delarocca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DELAROCCA.ttf'
 end

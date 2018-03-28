@@ -5,7 +5,6 @@ cask 'dafont-rainboy-in-love' do
     url 'http://dl.dafont.com/dl/?f=rainboy_in_love'
     name 'Rainboy in love'
     homepage 'http://www.dafont.com/rainboy-in-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rainboy In Love.ttf'
 end

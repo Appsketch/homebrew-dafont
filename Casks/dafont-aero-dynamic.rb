@@ -5,7 +5,6 @@ cask 'dafont-aero-dynamic' do
     url 'http://dl.dafont.com/dl/?f=aero_dynamic'
     name 'Aero Dynamic'
     homepage 'http://www.dafont.com/aero-dynamic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AERO DYNAMIC.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sulatko' do
     url 'http://dl.dafont.com/dl/?f=sulatko'
     name 'Sulatko'
     homepage 'http://www.dafont.com/sulatko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sulatko.ttf'
 end

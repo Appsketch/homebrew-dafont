@@ -5,7 +5,6 @@ cask 'dafont-bloodblocks' do
     url 'http://dl.dafont.com/dl/?f=bloodblocks'
     name 'Blood Blocks'
     homepage 'http://www.dafont.com/bloodblocks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BloodBlocks Project.ttf'
 end

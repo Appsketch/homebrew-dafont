@@ -5,7 +5,6 @@ cask 'dafont-m04fatal-fury' do
     url 'http://dl.dafont.com/dl/?f=m04fatal_fury'
     name 'M04 Fatal Fury'
     homepage 'http://www.dafont.com/m04fatal-fury.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'm04.TTF'
     font 'm04b.TTF'

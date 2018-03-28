@@ -5,7 +5,6 @@ cask 'dafont-viney-times' do
     url 'http://dl.dafont.com/dl/?f=viney_times'
     name 'Viney Times'
     homepage 'http://www.dafont.com/viney-times.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vineytimes.ttf'
 end

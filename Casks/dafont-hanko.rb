@@ -5,7 +5,6 @@ cask 'dafont-hanko' do
     url 'http://dl.dafont.com/dl/?f=hanko'
     name 'Hanko'
     homepage 'http://www.dafont.com/hanko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HANKO.TTF'
 end

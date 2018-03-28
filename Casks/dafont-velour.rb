@@ -5,7 +5,6 @@ cask 'dafont-velour' do
     url 'http://dl.dafont.com/dl/?f=velour'
     name 'Velour'
     homepage 'http://www.dafont.com/velour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'velour__.ttf'
 end

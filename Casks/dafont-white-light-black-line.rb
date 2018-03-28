@@ -5,7 +5,6 @@ cask 'dafont-white-light-black-line' do
     url 'http://dl.dafont.com/dl/?f=white_light_black_line'
     name 'White light, black line'
     homepage 'http://www.dafont.com/white-light-black-line.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'White light, black line.ttf'
 end

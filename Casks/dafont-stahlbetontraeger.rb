@@ -5,7 +5,6 @@ cask 'dafont-stahlbetontraeger' do
     url 'http://dl.dafont.com/dl/?f=stahlbetontraeger'
     name 'Stahlbetontraeger'
     homepage 'http://www.dafont.com/stahlbetontraeger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stahlbetontraeger-College.ttf'
     font 'Stahlbetontraeger-Compressed.ttf'

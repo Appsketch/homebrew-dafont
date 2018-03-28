@@ -5,7 +5,6 @@ cask 'dafont-negative-xerographer' do
     url 'http://dl.dafont.com/dl/?f=negative_xerographer'
     name 'Negative'
     homepage 'http://www.dafont.com/negative-xerographer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'negative.ttf'
 end

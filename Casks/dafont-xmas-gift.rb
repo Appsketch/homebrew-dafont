@@ -5,7 +5,6 @@ cask 'dafont-xmas-gift' do
     url 'http://dl.dafont.com/dl/?f=xmas_gift'
     name 'Xmas Gift'
     homepage 'http://www.dafont.com/xmas-gift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xmas Gift.ttf'
 end

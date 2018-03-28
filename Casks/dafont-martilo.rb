@@ -5,7 +5,6 @@ cask 'dafont-martilo' do
     url 'http://dl.dafont.com/dl/?f=martilo'
     name 'Martilo'
     homepage 'http://www.dafont.com/martilo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Martilo Regular.ttf'
 end

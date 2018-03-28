@@ -5,7 +5,6 @@ cask 'dafont-orial' do
     url 'http://dl.dafont.com/dl/?f=orial'
     name 'Orial'
     homepage 'http://www.dafont.com/orial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Orial.ttf'
 end

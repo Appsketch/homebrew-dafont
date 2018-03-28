@@ -5,7 +5,6 @@ cask 'dafont-sf-distant-symbols' do
     url 'http://dl.dafont.com/dl/?f=sf_distant_symbols'
     name 'SF Distant Galaxy Symbols'
     homepage 'http://www.dafont.com/sf-distant-symbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Distant Galaxy Alternate Italic.ttf'
     font 'SF Distant Galaxy Alternate.ttf'

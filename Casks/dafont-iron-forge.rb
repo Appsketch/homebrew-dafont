@@ -5,7 +5,6 @@ cask 'dafont-iron-forge' do
     url 'http://dl.dafont.com/dl/?f=iron_forge'
     name 'Iron Forge'
     homepage 'http://www.dafont.com/iron-forge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ironforge.ttf'
     font 'ironforge3d.ttf'

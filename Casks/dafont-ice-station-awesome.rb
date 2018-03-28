@@ -5,7 +5,6 @@ cask 'dafont-ice-station-awesome' do
     url 'http://dl.dafont.com/dl/?f=ice_station_awesome'
     name 'Ice Station Awesome'
     homepage 'http://www.dafont.com/ice-station-awesome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ice Station Awesome.ttf'
 end

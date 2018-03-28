@@ -5,7 +5,6 @@ cask 'dafont-bubble-club' do
     url 'http://dl.dafont.com/dl/?f=bubble_club'
     name 'Bubble Club'
     homepage 'http://www.dafont.com/bubble-club.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUBBCB__.TTF'
     font 'BUBBCC__.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-ruined-serif' do
     url 'http://dl.dafont.com/dl/?f=ruined_serif'
     name 'Ruined Serif'
     homepage 'http://www.dafont.com/ruined-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RuinedSerif.otf'
     font 'RuinedSerifIta.otf'

@@ -5,7 +5,6 @@ cask 'dafont-ace-gaffigan' do
     url 'http://dl.dafont.com/dl/?f=ace_gaffigan'
     name 'Ace Gaffigan'
     homepage 'http://www.dafont.com/ace-gaffigan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ace gaffigan.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-oh-mega-sigh' do
     url 'http://dl.dafont.com/dl/?f=oh_mega_sigh'
     name 'Oh Mega Sigh'
     homepage 'http://www.dafont.com/oh-mega-sigh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OMS.TTF'
 end

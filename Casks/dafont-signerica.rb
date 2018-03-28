@@ -5,7 +5,6 @@ cask 'dafont-signerica' do
     url 'http://dl.dafont.com/dl/?f=signerica'
     name 'Signerica'
     homepage 'http://www.dafont.com/signerica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Signerica_Fat.ttf'
     font 'Signerica_Medium.ttf'

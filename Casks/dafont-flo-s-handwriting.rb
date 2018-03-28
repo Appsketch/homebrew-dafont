@@ -5,7 +5,6 @@ cask 'dafont-flo-s-handwriting' do
     url 'http://dl.dafont.com/dl/?f=flo_s_handwriting'
     name 'Flo&#039;s Handwriting'
     homepage 'http://www.dafont.com/flo-s-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flo__s_Handwriting.ttf'
 end

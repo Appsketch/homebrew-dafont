@@ -5,7 +5,6 @@ cask 'dafont-flaming-june' do
     url 'http://dl.dafont.com/dl/?f=flaming_june'
     name 'Flaming June'
     homepage 'http://www.dafont.com/flaming-june.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlamingJune.ttf'
 end

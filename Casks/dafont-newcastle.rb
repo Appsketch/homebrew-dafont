@@ -5,7 +5,6 @@ cask 'dafont-newcastle' do
     url 'http://dl.dafont.com/dl/?f=newcastle'
     name 'Newcastle'
     homepage 'http://www.dafont.com/newcastle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Newcastle SoliD.ttf'
     font 'NewcastlE.ttf'

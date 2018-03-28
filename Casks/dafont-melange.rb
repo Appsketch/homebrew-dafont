@@ -5,7 +5,6 @@ cask 'dafont-melange' do
     url 'http://dl.dafont.com/dl/?f=melange'
     name 'Melange'
     homepage 'http://www.dafont.com/melange.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Melange.ttf'
 end

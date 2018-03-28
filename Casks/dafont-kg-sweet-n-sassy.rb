@@ -5,7 +5,6 @@ cask 'dafont-kg-sweet-n-sassy' do
     url 'http://dl.dafont.com/dl/?f=kg_sweet_n_sassy'
     name 'KG Sweet N Sassy'
     homepage 'http://www.dafont.com/kg-sweet-n-sassy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGSweetNSassy.ttf'
 end

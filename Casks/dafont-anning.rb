@@ -5,7 +5,6 @@ cask 'dafont-anning' do
     url 'http://dl.dafont.com/dl/?f=anning'
     name 'Anning'
     homepage 'http://www.dafont.com/anning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anning.ttf'
 end

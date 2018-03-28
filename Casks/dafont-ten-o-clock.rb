@@ -5,7 +5,6 @@ cask 'dafont-ten-o-clock' do
     url 'http://dl.dafont.com/dl/?f=ten_o_clock'
     name 'Ten O Clock'
     homepage 'http://www.dafont.com/ten-o-clock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TENOCLOCK-Regular.ttf'
 end

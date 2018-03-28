@@ -5,7 +5,6 @@ cask 'dafont-black-olives' do
     url 'http://dl.dafont.com/dl/?f=black_olives'
     name 'Black Olives'
     homepage 'http://www.dafont.com/black-olives.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black Olives demo.ttf'
 end

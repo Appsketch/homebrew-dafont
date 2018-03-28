@@ -5,7 +5,6 @@ cask 'dafont-mb-horrorhouse' do
     url 'http://dl.dafont.com/dl/?f=mb_horrorhouse'
     name 'MB Horror House'
     homepage 'http://www.dafont.com/mb-horrorhouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-HorrorHouse_Font.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-flags-of-europe' do
     url 'http://dl.dafont.com/dl/?f=flags_of_europe'
     name 'Flags of Europe'
     homepage 'http://www.dafont.com/flags-of-europe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flags of Europe 1.ttf'
 end

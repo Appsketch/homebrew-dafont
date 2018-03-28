@@ -5,7 +5,6 @@ cask 'dafont-typewriterhand' do
     url 'http://dl.dafont.com/dl/?f=typewriterhand'
     name 'Typewriter Hand'
     homepage 'http://www.dafont.com/typewriterhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typewriterhand.ttf'
 end

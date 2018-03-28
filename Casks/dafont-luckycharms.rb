@@ -5,7 +5,6 @@ cask 'dafont-luckycharms' do
     url 'http://dl.dafont.com/dl/?f=luckycharms'
     name 'Lucky Charms'
     homepage 'http://www.dafont.com/luckycharms.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LuckyCharms.ttf'
 end

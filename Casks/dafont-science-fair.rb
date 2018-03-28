@@ -5,7 +5,6 @@ cask 'dafont-science-fair' do
     url 'http://dl.dafont.com/dl/?f=science_fair'
     name 'Science Fair'
     homepage 'http://www.dafont.com/science-fair.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Science Fair Italic.otf'
     font 'Science Fair Light Italic.otf'

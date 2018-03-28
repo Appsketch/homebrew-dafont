@@ -5,7 +5,6 @@ cask 'dafont-smalltall' do
     url 'http://dl.dafont.com/dl/?f=smalltall'
     name 'Small Tall'
     homepage 'http://www.dafont.com/smalltall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SmallTall.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fineomite' do
     url 'http://dl.dafont.com/dl/?f=fineomite'
     name 'FineOMite'
     homepage 'http://www.dafont.com/fineomite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FINEO___.TTF'
 end

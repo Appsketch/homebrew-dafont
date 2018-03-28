@@ -5,7 +5,6 @@ cask 'dafont-liquidism' do
     url 'http://dl.dafont.com/dl/?f=liquidism'
     name 'Liquidism'
     homepage 'http://www.dafont.com/liquidism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Liquidism.ttf'
     font 'LIQUIDISMPART2.TTF'

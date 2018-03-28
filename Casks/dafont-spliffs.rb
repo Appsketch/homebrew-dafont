@@ -5,7 +5,6 @@ cask 'dafont-spliffs' do
     url 'http://dl.dafont.com/dl/?f=spliffs'
     name 'Spliffs'
     homepage 'http://www.dafont.com/spliffs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spliffs.ttf'
 end

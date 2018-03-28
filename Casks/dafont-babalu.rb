@@ -5,7 +5,6 @@ cask 'dafont-babalu' do
     url 'http://dl.dafont.com/dl/?f=babalu'
     name 'Babalu'
     homepage 'http://www.dafont.com/babalu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Babalu.ttf'
     font 'BabaluGradient.ttf'

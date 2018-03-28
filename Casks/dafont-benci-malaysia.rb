@@ -5,7 +5,6 @@ cask 'dafont-benci-malaysia' do
     url 'http://dl.dafont.com/dl/?f=benci_malaysia'
     name 'Benci Malaysia'
     homepage 'http://www.dafont.com/benci-malaysia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'benci_malaysia.ttf'
 end

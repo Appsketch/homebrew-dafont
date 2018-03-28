@@ -5,7 +5,6 @@ cask 'dafont-arsle-gothic' do
     url 'http://dl.dafont.com/dl/?f=arsle_gothic'
     name 'Arsle Gothic'
     homepage 'http://www.dafont.com/arsle-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArsleGothic.ttf'
 end

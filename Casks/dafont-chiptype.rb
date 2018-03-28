@@ -5,7 +5,6 @@ cask 'dafont-chiptype' do
     url 'http://dl.dafont.com/dl/?f=chiptype'
     name 'Chiptype'
     homepage 'http://www.dafont.com/chiptype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chiptype.ttf'
 end

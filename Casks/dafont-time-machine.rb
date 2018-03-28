@@ -5,7 +5,6 @@ cask 'dafont-time-machine' do
     url 'http://dl.dafont.com/dl/?f=time_machine'
     name 'Time Machine '
     homepage 'http://www.dafont.com/time-machine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Time Machine.ttf'
 end

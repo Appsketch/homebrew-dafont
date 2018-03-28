@@ -5,7 +5,6 @@ cask 'dafont-goodbye-cruel-world' do
     url 'http://dl.dafont.com/dl/?f=goodbye_cruel_world'
     name 'Goodbye Cruel World'
     homepage 'http://www.dafont.com/goodbye-cruel-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Goodbye.ttf'
 end

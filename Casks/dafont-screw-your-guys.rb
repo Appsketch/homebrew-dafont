@@ -5,7 +5,6 @@ cask 'dafont-screw-your-guys' do
     url 'http://dl.dafont.com/dl/?f=screw_your_guys'
     name 'Screw your guys!'
     homepage 'http://www.dafont.com/screw-your-guys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SYG.ttf'
 end

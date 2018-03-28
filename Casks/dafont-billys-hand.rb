@@ -5,7 +5,6 @@ cask 'dafont-billys-hand' do
     url 'http://dl.dafont.com/dl/?f=billys_hand'
     name 'Billy&#039;s Hand'
     homepage 'http://www.dafont.com/billys-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Billys_Hand.ttf'
 end

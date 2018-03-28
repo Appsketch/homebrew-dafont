@@ -5,7 +5,6 @@ cask 'dafont-willis' do
     url 'http://dl.dafont.com/dl/?f=willis'
     name 'Willis'
     homepage 'http://www.dafont.com/willis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Willis.ttf'
 end

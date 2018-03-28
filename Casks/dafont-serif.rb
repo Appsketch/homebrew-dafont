@@ -5,7 +5,6 @@ cask 'dafont-serif' do
     url 'http://dl.dafont.com/dl/?f=serif'
     name 'Serif'
     homepage 'http://www.dafont.com/serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SERIBL__.ttf'
     font 'SERIBLI_.ttf'

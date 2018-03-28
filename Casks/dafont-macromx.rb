@@ -5,7 +5,6 @@ cask 'dafont-macromx' do
     url 'http://dl.dafont.com/dl/?f=macromx'
     name 'MacroMX'
     homepage 'http://www.dafont.com/macromx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'macroMX.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-xerker-fw' do
     url 'http://dl.dafont.com/dl/?f=xerker_fw'
     name 'Xerker FW'
     homepage 'http://www.dafont.com/xerker-fw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xerker.ttf'
 end

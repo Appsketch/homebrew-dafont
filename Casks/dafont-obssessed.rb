@@ -5,7 +5,6 @@ cask 'dafont-obssessed' do
     url 'http://dl.dafont.com/dl/?f=obssessed'
     name 'Obssessed'
     homepage 'http://www.dafont.com/obssessed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'obssessed_TBS.ttf'
 end

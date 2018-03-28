@@ -5,7 +5,6 @@ cask 'dafont-exacta' do
     url 'http://dl.dafont.com/dl/?f=exacta'
     name 'Exacta'
     homepage 'http://www.dafont.com/exacta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Exacta-Bold-Italic.ttf'
     font 'Exacta-Bold.ttf'

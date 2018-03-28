@@ -5,7 +5,6 @@ cask 'dafont-type-knight' do
     url 'http://dl.dafont.com/dl/?f=type_knight'
     name 'Type Knight'
     homepage 'http://www.dafont.com/type-knight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TYPEK___.TTF'
 end

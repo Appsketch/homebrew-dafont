@@ -5,7 +5,6 @@ cask 'dafont-caprica-sans' do
     url 'http://dl.dafont.com/dl/?f=caprica_sans'
     name 'Caprica Sans'
     homepage 'http://www.dafont.com/caprica-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CapricaSansItalicPersonalUse.ttf'
     font 'CapricaSansPersonalUse.ttf'

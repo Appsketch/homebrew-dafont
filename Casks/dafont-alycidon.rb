@@ -5,7 +5,6 @@ cask 'dafont-alycidon' do
     url 'http://dl.dafont.com/dl/?f=alycidon'
     name 'Alycidon'
     homepage 'http://www.dafont.com/alycidon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alycidon-Condensed.otf'
 end

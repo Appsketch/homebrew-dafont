@@ -5,7 +5,6 @@ cask 'dafont-dafter-harder-better-stronger' do
     url 'http://dl.dafont.com/dl/?f=dafter_harder_better_stronger'
     name 'Dafter Harder Better Stronger'
     homepage 'http://www.dafont.com/dafter-harder-better-stronger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dafter Harder Better Stronger &cedil; by Duncan Wick.ttf'
 end

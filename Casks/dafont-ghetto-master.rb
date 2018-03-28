@@ -5,7 +5,6 @@ cask 'dafont-ghetto-master' do
     url 'http://dl.dafont.com/dl/?f=ghetto_master'
     name 'Ghetto Master'
     homepage 'http://www.dafont.com/ghetto-master.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ghetto Master.otf'
 end

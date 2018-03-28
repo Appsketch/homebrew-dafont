@@ -5,7 +5,6 @@ cask 'dafont-moro-seneng' do
     url 'http://dl.dafont.com/dl/?f=moro_seneng'
     name 'Moro Seneng'
     homepage 'http://www.dafont.com/moro-seneng.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moro Seneng.otf'
 end

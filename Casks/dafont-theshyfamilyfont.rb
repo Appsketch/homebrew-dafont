@@ -5,7 +5,6 @@ cask 'dafont-theshyfamilyfont' do
     url 'http://dl.dafont.com/dl/?f=theshyfamilyfont'
     name 'The Shy Family'
     homepage 'http://www.dafont.com/theshyfamilyfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheShyFamilyfont.ttf'
     font 'TheShyFamilyoutlinefont.ttf'

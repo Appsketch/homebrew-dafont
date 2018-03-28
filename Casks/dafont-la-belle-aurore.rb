@@ -5,7 +5,6 @@ cask 'dafont-la-belle-aurore' do
     url 'http://dl.dafont.com/dl/?f=la_belle_aurore'
     name 'La Belle Aurore'
     homepage 'http://www.dafont.com/la-belle-aurore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'La Belle Aurore.ttf'
 end

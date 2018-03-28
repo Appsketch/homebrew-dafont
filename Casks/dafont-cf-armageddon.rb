@@ -5,7 +5,6 @@ cask 'dafont-cf-armageddon' do
     url 'http://dl.dafont.com/dl/?f=cf_armageddon'
     name 'CF Armageddon'
     homepage 'http://www.dafont.com/cf-armageddon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFArmageddon-Regular.ttf'
 end

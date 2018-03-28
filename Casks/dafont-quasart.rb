@@ -5,7 +5,6 @@ cask 'dafont-quasart' do
     url 'http://dl.dafont.com/dl/?f=quasart'
     name 'Quasart'
     homepage 'http://www.dafont.com/quasart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quasart.ttf'
 end

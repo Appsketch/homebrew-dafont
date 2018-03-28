@@ -5,7 +5,6 @@ cask 'dafont-chic-chak-zubra' do
     url 'http://dl.dafont.com/dl/?f=chic_chak_zubra'
     name 'Chic chak zubra'
     homepage 'http://www.dafont.com/chic-chak-zubra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chic chak zubra.ttf'
 end

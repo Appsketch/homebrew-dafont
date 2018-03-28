@@ -5,7 +5,6 @@ cask 'dafont-kr-with-heart' do
     url 'http://dl.dafont.com/dl/?f=kr_with_heart'
     name 'KR With Heart'
     homepage 'http://www.dafont.com/kr-with-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR With Heart.ttf'
 end

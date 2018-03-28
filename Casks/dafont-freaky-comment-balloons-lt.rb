@@ -5,7 +5,6 @@ cask 'dafont-freaky-comment-balloons-lt' do
     url 'http://dl.dafont.com/dl/?f=freaky_comment_balloons_lt'
     name 'Freaky Comment Balloons LT'
     homepage 'http://www.dafont.com/freaky-comment-balloons-lt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreakyCommentBalloonsLT.ttf'
 end

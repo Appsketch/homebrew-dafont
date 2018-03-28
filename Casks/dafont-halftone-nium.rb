@@ -5,7 +5,6 @@ cask 'dafont-halftone-nium' do
     url 'http://dl.dafont.com/dl/?f=halftone_nium'
     name 'Halftone Nium'
     homepage 'http://www.dafont.com/halftone-nium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Halftone Nium.ttf'
 end

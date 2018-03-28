@@ -5,7 +5,6 @@ cask 'dafont-octin-sports-free' do
     url 'http://dl.dafont.com/dl/?f=octin_sports_free'
     name 'Octin Sports Free'
     homepage 'http://www.dafont.com/octin-sports-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'octin sports rg.ttf'
 end

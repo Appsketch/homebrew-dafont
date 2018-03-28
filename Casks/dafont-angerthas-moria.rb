@@ -5,7 +5,6 @@ cask 'dafont-angerthas-moria' do
     url 'http://dl.dafont.com/dl/?f=angerthas_moria'
     name 'Angerthas Moria'
     homepage 'http://www.dafont.com/angerthas-moria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CIRTH.TTF'
 end

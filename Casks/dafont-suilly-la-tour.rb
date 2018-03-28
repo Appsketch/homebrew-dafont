@@ -5,7 +5,6 @@ cask 'dafont-suilly-la-tour' do
     url 'http://dl.dafont.com/dl/?f=suilly_la_tour'
     name 'Suilly la Tour'
     homepage 'http://www.dafont.com/suilly-la-tour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuillylaTourDemo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-revolution-saji' do
     url 'http://dl.dafont.com/dl/?f=revolution_saji'
     name 'Revolution'
     homepage 'http://www.dafont.com/revolution-saji.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REVOLUTION.ttf'
 end

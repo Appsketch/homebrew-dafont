@@ -5,7 +5,6 @@ cask 'dafont-elementary-gothic-bookhand' do
     url 'http://dl.dafont.com/dl/?f=elementary_gothic_bookhand'
     name 'Elementary Gothic Bookhand'
     homepage 'http://www.dafont.com/elementary-gothic-bookhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elementary_Gothic_Bookhand.ttf'
 end

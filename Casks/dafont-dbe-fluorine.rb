@@ -5,7 +5,6 @@ cask 'dafont-dbe-fluorine' do
     url 'http://dl.dafont.com/dl/?f=dbe_fluorine'
     name 'DBE Fluorine'
     homepage 'http://www.dafont.com/dbe-fluorine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DBE-Fluorine.ttf'
 end

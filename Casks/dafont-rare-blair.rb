@@ -5,7 +5,6 @@ cask 'dafont-rare-blair' do
     url 'http://dl.dafont.com/dl/?f=rare_blair'
     name 'Rare Blair'
     homepage 'http://www.dafont.com/rare-blair.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RareBlair-Regular.otf'
 end

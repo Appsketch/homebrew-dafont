@@ -5,7 +5,6 @@ cask 'dafont-pwsmokey' do
     url 'http://dl.dafont.com/dl/?f=pwsmokey'
     name 'PW Smokey'
     homepage 'http://www.dafont.com/pwsmokey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWSmokey.ttf'
 end

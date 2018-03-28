@@ -5,7 +5,6 @@ cask 'dafont-watermelon' do
     url 'http://dl.dafont.com/dl/?f=watermelon'
     name 'Watermelon'
     homepage 'http://www.dafont.com/watermelon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Watermelon.ttf'
 end

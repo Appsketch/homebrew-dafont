@@ -5,7 +5,6 @@ cask 'dafont-hammers-and-strings' do
     url 'http://dl.dafont.com/dl/?f=hammers_and_strings'
     name 'Hammers and Strings'
     homepage 'http://www.dafont.com/hammers-and-strings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hammers.and.strings.ttf'
 end

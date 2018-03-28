@@ -5,7 +5,6 @@ cask 'dafont-c39hrp36dltt' do
     url 'http://dl.dafont.com/dl/?f=c39hrp36dltt'
     name 'c39hrp36dltt'
     homepage 'http://www.dafont.com/c39hrp36dltt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'c39hrp36dltt.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-crumble' do
     url 'http://dl.dafont.com/dl/?f=crumble'
     name 'Crumble'
     homepage 'http://www.dafont.com/crumble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRUMBLE_.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-aspargo' do
     url 'http://dl.dafont.com/dl/?f=aspargo'
     name 'Aspargo'
     homepage 'http://www.dafont.com/aspargo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aspargo.ttf'
 end

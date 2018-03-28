@@ -5,7 +5,6 @@ cask 'dafont-byronblock' do
     url 'http://dl.dafont.com/dl/?f=byronblock'
     name 'Byron Block'
     homepage 'http://www.dafont.com/byronblock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ByronBlock.ttf'
 end

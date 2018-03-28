@@ -5,7 +5,6 @@ cask 'dafont-evanescente' do
     url 'http://dl.dafont.com/dl/?f=evanescente'
     name 'Evanescente'
     homepage 'http://www.dafont.com/evanescente.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Evanescente.ttf'
 end

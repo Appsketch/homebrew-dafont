@@ -5,7 +5,6 @@ cask 'dafont-heavitas' do
     url 'http://dl.dafont.com/dl/?f=heavitas'
     name 'Heavitas'
     homepage 'http://www.dafont.com/heavitas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heavitas.ttf'
 end

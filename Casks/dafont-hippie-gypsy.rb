@@ -5,7 +5,6 @@ cask 'dafont-hippie-gypsy' do
     url 'http://dl.dafont.com/dl/?f=hippie_gypsy'
     name 'Hippie Gypsy'
     homepage 'http://www.dafont.com/hippie-gypsy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HippieGypsy-Regular.ttf'
 end

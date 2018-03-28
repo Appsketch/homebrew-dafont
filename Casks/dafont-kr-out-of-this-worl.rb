@@ -5,7 +5,6 @@ cask 'dafont-kr-out-of-this-worl' do
     url 'http://dl.dafont.com/dl/?f=kr_out_of_this_worl'
     name 'KR Out of this World'
     homepage 'http://www.dafont.com/kr-out-of-this-worl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Out Of This World.ttf'
 end

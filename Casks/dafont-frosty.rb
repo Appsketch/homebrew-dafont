@@ -5,7 +5,6 @@ cask 'dafont-frosty' do
     url 'http://dl.dafont.com/dl/?f=frosty'
     name 'Frosty'
     homepage 'http://www.dafont.com/frosty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FROSTY__.TTF'
 end

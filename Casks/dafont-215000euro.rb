@@ -5,7 +5,6 @@ cask 'dafont-215000euro' do
     url 'http://dl.dafont.com/dl/?f=215000euro'
     name '215000Euro'
     homepage 'http://www.dafont.com/215000euro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '215000E.ttf'
 end

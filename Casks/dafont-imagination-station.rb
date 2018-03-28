@@ -5,7 +5,6 @@ cask 'dafont-imagination-station' do
     url 'http://dl.dafont.com/dl/?f=imagination_station'
     name 'Imagination Station'
     homepage 'http://www.dafont.com/imagination-station.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Imagination Station.ttf'
 end

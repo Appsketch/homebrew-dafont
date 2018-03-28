@@ -5,7 +5,6 @@ cask 'dafont-dynamite' do
     url 'http://dl.dafont.com/dl/?f=dynamite'
     name 'Dynamite'
     homepage 'http://www.dafont.com/dynamite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dynamite.ttf'
 end

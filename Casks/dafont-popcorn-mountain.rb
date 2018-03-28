@@ -5,7 +5,6 @@ cask 'dafont-popcorn-mountain' do
     url 'http://dl.dafont.com/dl/?f=popcorn_mountain'
     name 'Popcorn Mountain'
     homepage 'http://www.dafont.com/popcorn-mountain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Popcorn_Mountain--Condensed_Thin.otf'
     font 'Popcorn_Mountain--Condensed.otf'

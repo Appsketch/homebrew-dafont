@@ -5,7 +5,6 @@ cask 'dafont-zekton' do
     url 'http://dl.dafont.com/dl/?f=zekton'
     name 'Zekton'
     homepage 'http://www.dafont.com/zekton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zekton rg.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-regular' do
     url 'http://dl.dafont.com/dl/?f=regular'
     name 'Square One Jenna!'
     homepage 'http://www.dafont.com/regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Square_One_Jenna_.ttf'
 end

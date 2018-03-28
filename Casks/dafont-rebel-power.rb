@@ -5,7 +5,6 @@ cask 'dafont-rebel-power' do
     url 'http://dl.dafont.com/dl/?f=rebel_power'
     name 'Rebel Power'
     homepage 'http://www.dafont.com/rebel-power.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REBEL POWER.ttf'
 end

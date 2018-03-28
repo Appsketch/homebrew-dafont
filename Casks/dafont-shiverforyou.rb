@@ -5,7 +5,6 @@ cask 'dafont-shiverforyou' do
     url 'http://dl.dafont.com/dl/?f=shiverforyou'
     name 'Shiver for you'
     homepage 'http://www.dafont.com/shiverforyou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shiverforyou.ttf'
 end

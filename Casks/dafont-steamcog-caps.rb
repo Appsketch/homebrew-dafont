@@ -5,7 +5,6 @@ cask 'dafont-steamcog-caps' do
     url 'http://dl.dafont.com/dl/?f=steamcog_caps'
     name 'Steamcog Caps'
     homepage 'http://www.dafont.com/steamcog-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Steamcog Caps.otf'
 end

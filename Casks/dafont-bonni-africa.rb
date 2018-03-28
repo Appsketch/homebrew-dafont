@@ -5,7 +5,6 @@ cask 'dafont-bonni-africa' do
     url 'http://dl.dafont.com/dl/?f=bonni_africa'
     name 'Bonni Africa'
     homepage 'http://www.dafont.com/bonni-africa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonni-Africa.ttf'
 end

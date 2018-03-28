@@ -5,7 +5,6 @@ cask 'dafont-mtf-kim' do
     url 'http://dl.dafont.com/dl/?f=mtf_kim'
     name 'MTF Kim'
     homepage 'http://www.dafont.com/mtf-kim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Kim.ttf'
 end

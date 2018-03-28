@@ -5,7 +5,6 @@ cask 'dafont-tokyo-drifter' do
     url 'http://dl.dafont.com/dl/?f=tokyo_drifter'
     name 'Tokyo Drifter'
     homepage 'http://www.dafont.com/tokyo-drifter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tokyodrifter.ttf'
     font 'tokyodrifter3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-dk-samhain' do
     url 'http://dl.dafont.com/dl/?f=dk_samhain'
     name 'DK Samhain'
     homepage 'http://www.dafont.com/dk-samhain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Samhain.ttf'
 end

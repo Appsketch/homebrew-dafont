@@ -5,7 +5,6 @@ cask 'dafont-ghost-everywhere' do
     url 'http://dl.dafont.com/dl/?f=ghost_everywhere'
     name 'Ghost Everywhere'
     homepage 'http://www.dafont.com/ghost-everywhere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ghost everywhere.ttf'
 end

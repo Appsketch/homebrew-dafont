@@ -5,7 +5,6 @@ cask 'dafont-amery-brush' do
     url 'http://dl.dafont.com/dl/?f=amery_brush'
     name 'Amery Brush'
     homepage 'http://www.dafont.com/amery-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmeryBrush.otf'
 end

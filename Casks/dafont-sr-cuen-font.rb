@@ -5,7 +5,6 @@ cask 'dafont-sr-cuen-font' do
     url 'http://dl.dafont.com/dl/?f=sr_cuen_font'
     name 'SR Cuen Font'
     homepage 'http://www.dafont.com/sr-cuen-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'srcuen_font.ttf'
 end

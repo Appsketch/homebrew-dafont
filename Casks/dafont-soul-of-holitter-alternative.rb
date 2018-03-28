@@ -5,7 +5,6 @@ cask 'dafont-soul-of-holitter-alternative' do
     url 'http://dl.dafont.com/dl/?f=soul_of_holitter_alternative'
     name 'Soul Of Holitter Alternative'
     homepage 'http://www.dafont.com/soul-of-holitter-alternative.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Soul of Holitter Alternative.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-caractere-doublet' do
     url 'http://dl.dafont.com/dl/?f=caractere_doublet'
     name 'Caractere Doublet'
     homepage 'http://www.dafont.com/caractere-doublet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CaractereDoublet Beveled.ttf'
     font 'CaractereDoublet Limited Version.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-punkassbitch' do
     url 'http://dl.dafont.com/dl/?f=punkassbitch'
     name 'Punkassbitch'
     homepage 'http://www.dafont.com/punkassbitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'punkass_.ttf'
 end

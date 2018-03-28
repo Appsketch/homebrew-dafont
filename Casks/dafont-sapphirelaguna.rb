@@ -5,7 +5,6 @@ cask 'dafont-sapphirelaguna' do
     url 'http://dl.dafont.com/dl/?f=sapphirelaguna'
     name 'Sapphire Laguna'
     homepage 'http://www.dafont.com/sapphirelaguna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SapphireLaguna.ttf'
 end

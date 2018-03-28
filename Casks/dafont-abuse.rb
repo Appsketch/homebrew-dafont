@@ -5,7 +5,6 @@ cask 'dafont-abuse' do
     url 'http://dl.dafont.com/dl/?f=abuse'
     name 'Abuse'
     homepage 'http://www.dafont.com/abuse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abuse.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-caf-norden' do
     url 'http://dl.dafont.com/dl/?f=caf_norden'
     name 'Caf&eacute; Norden'
     homepage 'http://www.dafont.com/caf-norden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cafenorden.ttf'
 end

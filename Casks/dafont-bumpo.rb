@@ -5,7 +5,6 @@ cask 'dafont-bumpo' do
     url 'http://dl.dafont.com/dl/?f=bumpo'
     name 'Bumpo'
     homepage 'http://www.dafont.com/bumpo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bumpo.ttf'
 end

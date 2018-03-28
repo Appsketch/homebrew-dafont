@@ -5,7 +5,6 @@ cask 'dafont-jupiter-crash' do
     url 'http://dl.dafont.com/dl/?f=jupiter_crash'
     name 'Jupiter Crash'
     homepage 'http://www.dafont.com/jupiter-crash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jupiterc.ttf'
 end

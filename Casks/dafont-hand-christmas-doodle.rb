@@ -5,7 +5,6 @@ cask 'dafont-hand-christmas-doodle' do
     url 'http://dl.dafont.com/dl/?f=hand_christmas_doodle'
     name 'Hand Christmas Doodle'
     homepage 'http://www.dafont.com/hand-christmas-doodle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HandChristmasDoodle_DEMO.otf'
 end

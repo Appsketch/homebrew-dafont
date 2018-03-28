@@ -5,7 +5,6 @@ cask 'dafont-engelberg' do
     url 'http://dl.dafont.com/dl/?f=engelberg'
     name 'Engelberg'
     homepage 'http://www.dafont.com/engelberg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Engelberg.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-coolin-cheer' do
     url 'http://dl.dafont.com/dl/?f=coolin_cheer'
     name 'Coolin Cheer'
     homepage 'http://www.dafont.com/coolin-cheer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'coolin cheer.ttf'
 end

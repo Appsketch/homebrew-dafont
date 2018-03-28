@@ -5,7 +5,6 @@ cask 'dafont-pharaoh-glyph' do
     url 'http://dl.dafont.com/dl/?f=pharaoh_glyph'
     name 'Pharaoh Glyph'
     homepage 'http://www.dafont.com/pharaoh-glyph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pharoah Glyph Medium.ttf'
 end

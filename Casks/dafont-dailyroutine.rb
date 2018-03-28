@@ -5,7 +5,6 @@ cask 'dafont-dailyroutine' do
     url 'http://dl.dafont.com/dl/?f=dailyroutine'
     name 'Daily Routine'
     homepage 'http://www.dafont.com/dailyroutine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DAILYROUTINE.ttf'
 end

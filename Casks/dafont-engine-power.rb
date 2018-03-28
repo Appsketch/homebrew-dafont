@@ -5,7 +5,6 @@ cask 'dafont-engine-power' do
     url 'http://dl.dafont.com/dl/?f=engine_power'
     name 'Engine Power'
     homepage 'http://www.dafont.com/engine-power.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Engine Power.ttf'
 end

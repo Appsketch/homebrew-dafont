@@ -5,7 +5,6 @@ cask 'dafont-return-of-ganon' do
     url 'http://dl.dafont.com/dl/?f=return_of_ganon'
     name 'Return of Ganon'
     homepage 'http://www.dafont.com/return-of-ganon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RetGanon.ttf'
 end

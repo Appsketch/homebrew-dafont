@@ -5,7 +5,6 @@ cask 'dafont-leteske' do
     url 'http://dl.dafont.com/dl/?f=leteske'
     name 'Leteske'
     homepage 'http://www.dafont.com/leteske.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'leteske Final.otf'
 end

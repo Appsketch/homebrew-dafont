@@ -5,7 +5,6 @@ cask 'dafont-pmsmallcrew' do
     url 'http://dl.dafont.com/dl/?f=pmsmallcrew'
     name 'PM Small Crew'
     homepage 'http://www.dafont.com/pmsmallcrew.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PMSmallCrew.ttf'
 end

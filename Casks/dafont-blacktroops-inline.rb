@@ -5,7 +5,6 @@ cask 'dafont-blacktroops-inline' do
     url 'http://dl.dafont.com/dl/?f=blacktroops_inline'
     name 'Blacktroops Inline'
     homepage 'http://www.dafont.com/blacktroops-inline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blacktroops Inline.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-superheterodyne' do
     url 'http://dl.dafont.com/dl/?f=superheterodyne'
     name 'Superheterodyne'
     homepage 'http://www.dafont.com/superheterodyne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'superheterodyne.ttf'
 end

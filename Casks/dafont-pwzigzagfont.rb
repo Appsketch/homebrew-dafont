@@ -5,7 +5,6 @@ cask 'dafont-pwzigzagfont' do
     url 'http://dl.dafont.com/dl/?f=pwzigzagfont'
     name 'PW Zigzag'
     homepage 'http://www.dafont.com/pwzigzagfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWZigzagfont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cm-corruged' do
     url 'http://dl.dafont.com/dl/?f=cm_corruged'
     name 'CM Corruged'
     homepage 'http://www.dafont.com/cm-corruged.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CMCORRUG.TTF'
 end

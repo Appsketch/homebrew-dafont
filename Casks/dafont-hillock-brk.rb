@@ -5,7 +5,6 @@ cask 'dafont-hillock-brk' do
     url 'http://dl.dafont.com/dl/?f=hillock_brk'
     name 'Hillock BRK'
     homepage 'http://www.dafont.com/hillock-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hillock.ttf'
 end

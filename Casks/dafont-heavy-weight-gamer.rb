@@ -5,7 +5,6 @@ cask 'dafont-heavy-weight-gamer' do
     url 'http://dl.dafont.com/dl/?f=heavy_weight_gamer'
     name 'Heavy Weight Gamer'
     homepage 'http://www.dafont.com/heavy-weight-gamer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gamer.ttf'
 end

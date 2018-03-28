@@ -5,7 +5,6 @@ cask 'dafont-sketch-scoring-font' do
     url 'http://dl.dafont.com/dl/?f=sketch_scoring_font'
     name 'Sketch Scoring Font'
     homepage 'http://www.dafont.com/sketch-scoring-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketch_Scoring_Font.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-moi-non-plus' do
     url 'http://dl.dafont.com/dl/?f=moi_non_plus'
     name 'Moi Non Plus'
     homepage 'http://www.dafont.com/moi-non-plus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Moi Non Plus.otf'
 end

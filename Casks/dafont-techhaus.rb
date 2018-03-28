@@ -5,7 +5,6 @@ cask 'dafont-techhaus' do
     url 'http://dl.dafont.com/dl/?f=techhaus'
     name 'Tech Haus'
     homepage 'http://www.dafont.com/techhaus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TechHaus.ttf'
 end

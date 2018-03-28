@@ -5,7 +5,6 @@ cask 'dafont-marivi-handwriting' do
     url 'http://dl.dafont.com/dl/?f=marivi_handwriting'
     name 'Marivi handwriting'
     homepage 'http://www.dafont.com/marivi-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'marivi handwriting.ttf'
 end

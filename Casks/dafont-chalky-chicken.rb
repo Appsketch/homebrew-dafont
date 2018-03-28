@@ -5,7 +5,6 @@ cask 'dafont-chalky-chicken' do
     url 'http://dl.dafont.com/dl/?f=chalky_chicken'
     name 'Chalky Chicken'
     homepage 'http://www.dafont.com/chalky-chicken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chalky Chicken.ttf'
 end

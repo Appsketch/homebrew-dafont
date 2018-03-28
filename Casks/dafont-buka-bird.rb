@@ -5,7 +5,6 @@ cask 'dafont-buka-bird' do
     url 'http://dl.dafont.com/dl/?f=buka_bird'
     name 'Buka Bird'
     homepage 'http://www.dafont.com/buka-bird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Buka Bird.ttf'
 end

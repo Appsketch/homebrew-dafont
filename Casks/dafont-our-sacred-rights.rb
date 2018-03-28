@@ -5,7 +5,6 @@ cask 'dafont-our-sacred-rights' do
     url 'http://dl.dafont.com/dl/?f=our_sacred_rights'
     name 'Our Sacred Rights'
     homepage 'http://www.dafont.com/our-sacred-rights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sacred Rights.ttf'
 end

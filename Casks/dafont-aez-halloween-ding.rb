@@ -5,7 +5,6 @@ cask 'dafont-aez-halloween-ding' do
     url 'http://dl.dafont.com/dl/?f=aez_halloween_ding'
     name 'AEZ Halloween Dingbats'
     homepage 'http://www.dafont.com/aez-halloween-ding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AEZ halloween dingbats.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-toubibdemo' do
     url 'http://dl.dafont.com/dl/?f=toubibdemo'
     name 'Toubib'
     homepage 'http://www.dafont.com/toubibdemo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ToubibDemo-Bold.ttf'
     font 'ToubibDemo-Light.ttf'

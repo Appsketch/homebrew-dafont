@@ -5,7 +5,6 @@ cask 'dafont-scrappy-looking-demo' do
     url 'http://dl.dafont.com/dl/?f=scrappy_looking_demo'
     name 'Scrappy Looking'
     homepage 'http://www.dafont.com/scrappy-looking-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scrappy-looking_demo.ttf'
 end

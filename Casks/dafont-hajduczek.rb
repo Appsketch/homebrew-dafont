@@ -5,7 +5,6 @@ cask 'dafont-hajduczek' do
     url 'http://dl.dafont.com/dl/?f=hajduczek'
     name 'Hajduczek'
     homepage 'http://www.dafont.com/hajduczek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hajduczek.ttf'
 end

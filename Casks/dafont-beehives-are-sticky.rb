@@ -5,7 +5,6 @@ cask 'dafont-beehives-are-sticky' do
     url 'http://dl.dafont.com/dl/?f=beehives_are_sticky'
     name 'Beehives Are Sticky'
     homepage 'http://www.dafont.com/beehives-are-sticky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beehives Are Sticky.ttf'
 end

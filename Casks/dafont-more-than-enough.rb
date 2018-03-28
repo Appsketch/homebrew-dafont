@@ -5,7 +5,6 @@ cask 'dafont-more-than-enough' do
     url 'http://dl.dafont.com/dl/?f=more_than_enough'
     name 'More than Enough'
     homepage 'http://www.dafont.com/more-than-enough.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MoreThanEnough.ttf'
 end

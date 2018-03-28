@@ -5,7 +5,6 @@ cask 'dafont-telephasic-brk' do
     url 'http://dl.dafont.com/dl/?f=telephasic_brk'
     name 'Telephasic BRK'
     homepage 'http://www.dafont.com/telephasic-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'telephas.ttf'
 end

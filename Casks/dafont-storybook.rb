@@ -5,7 +5,6 @@ cask 'dafont-storybook' do
     url 'http://dl.dafont.com/dl/?f=storybook'
     name 'Storybook'
     homepage 'http://www.dafont.com/storybook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Storyboo.TTF'
 end

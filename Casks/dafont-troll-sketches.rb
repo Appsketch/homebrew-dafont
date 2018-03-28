@@ -5,7 +5,6 @@ cask 'dafont-troll-sketches' do
     url 'http://dl.dafont.com/dl/?f=troll_sketches'
     name 'Troll Sketches'
     homepage 'http://www.dafont.com/troll-sketches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Troll Sketches.ttf'
 end

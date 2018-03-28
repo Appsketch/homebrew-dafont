@@ -5,7 +5,6 @@ cask 'dafont-gunblade' do
     url 'http://dl.dafont.com/dl/?f=gunblade'
     name 'Gunblade'
     homepage 'http://www.dafont.com/gunblade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gunblade.ttf'
 end

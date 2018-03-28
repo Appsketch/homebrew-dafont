@@ -5,7 +5,6 @@ cask 'dafont-paint-peel-initials' do
     url 'http://dl.dafont.com/dl/?f=paint_peel_initials'
     name 'Paint Peel Initials'
     homepage 'http://www.dafont.com/paint-peel-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paint_pe.ttf'
 end

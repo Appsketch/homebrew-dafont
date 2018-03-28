@@ -5,7 +5,6 @@ cask 'dafont-pixleft-5' do
     url 'http://dl.dafont.com/dl/?f=pixleft_5'
     name 'PIXleft_5'
     homepage 'http://www.dafont.com/pixleft-5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIXleft_5.ttf'
 end

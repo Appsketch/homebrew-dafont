@@ -5,7 +5,6 @@ cask 'dafont-st-andrew' do
     url 'http://dl.dafont.com/dl/?f=st_andrew'
     name 'St. Andrew'
     homepage 'http://www.dafont.com/st-andrew.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StAndrew.ttf'
 end

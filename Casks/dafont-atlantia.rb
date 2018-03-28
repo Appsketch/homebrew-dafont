@@ -5,7 +5,6 @@ cask 'dafont-atlantia' do
     url 'http://dl.dafont.com/dl/?f=atlantia'
     name 'Atlantia'
     homepage 'http://www.dafont.com/atlantia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'atlantia.ttf'
     font 'atlantia3d.ttf'

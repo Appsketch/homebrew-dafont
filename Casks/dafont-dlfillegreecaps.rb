@@ -5,7 +5,6 @@ cask 'dafont-dlfillegreecaps' do
     url 'http://dl.dafont.com/dl/?f=dlfillegreecaps'
     name 'DLFillegreeCaps'
     homepage 'http://www.dafont.com/dlfillegreecaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DLFillegreeCaps.ttf'
 end

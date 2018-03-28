@@ -5,7 +5,6 @@ cask 'dafont-daddy2' do
     url 'http://dl.dafont.com/dl/?f=daddy2'
     name 'Daddy 2'
     homepage 'http://www.dafont.com/daddy2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'daddy2.ttf'
 end

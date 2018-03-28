@@ -5,7 +5,6 @@ cask 'dafont-old-bob-junior' do
     url 'http://dl.dafont.com/dl/?f=old_bob_junior'
     name 'Old Bob Junior'
     homepage 'http://www.dafont.com/old-bob-junior.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OLD BOB DEMO JUNIOR.otf'
 end

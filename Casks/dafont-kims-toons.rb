@@ -5,7 +5,6 @@ cask 'dafont-kims-toons' do
     url 'http://dl.dafont.com/dl/?f=kims_toons'
     name 'Kims Toons'
     homepage 'http://www.dafont.com/kims-toons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KIMST___.TTF'
 end

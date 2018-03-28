@@ -5,7 +5,6 @@ cask 'dafont-sablon-washed' do
     url 'http://dl.dafont.com/dl/?f=sablon_washed'
     name 'Sablon Washed'
     homepage 'http://www.dafont.com/sablon-washed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sablon_Washed_Demo.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jambajuicy' do
     url 'http://dl.dafont.com/dl/?f=jambajuicy'
     name 'Jamba Juicy'
     homepage 'http://www.dafont.com/jambajuicy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JambaJuicy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-whiskylickers' do
     url 'http://dl.dafont.com/dl/?f=whiskylickers'
     name 'Whisky Lickers'
     homepage 'http://www.dafont.com/whiskylickers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhiskyLickers.ttf'
 end

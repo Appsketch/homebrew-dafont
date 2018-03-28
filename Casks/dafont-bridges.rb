@@ -5,7 +5,6 @@ cask 'dafont-bridges' do
     url 'http://dl.dafont.com/dl/?f=bridges'
     name 'Bridges'
     homepage 'http://www.dafont.com/bridges.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bridges.ttf'
 end

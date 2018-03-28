@@ -5,7 +5,6 @@ cask 'dafont-skaterdudes' do
     url 'http://dl.dafont.com/dl/?f=skaterdudes'
     name 'Skater Dudes'
     homepage 'http://www.dafont.com/skaterdudes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SKATERDUDES.ttf'
 end

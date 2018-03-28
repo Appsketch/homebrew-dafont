@@ -5,7 +5,6 @@ cask 'dafont-valdero' do
     url 'http://dl.dafont.com/dl/?f=valdero'
     name 'Valdero'
     homepage 'http://www.dafont.com/valdero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'valdero.ttf'
 end

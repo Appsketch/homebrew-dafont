@@ -5,7 +5,6 @@ cask 'dafont-superrocket' do
     url 'http://dl.dafont.com/dl/?f=superrocket'
     name 'Super Rocket'
     homepage 'http://www.dafont.com/superrocket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuperRocket.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-big-writer' do
     url 'http://dl.dafont.com/dl/?f=big_writer'
     name 'Big Writer'
     homepage 'http://www.dafont.com/big-writer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIGwriter.otf'
 end

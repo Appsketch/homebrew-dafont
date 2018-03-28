@@ -5,7 +5,6 @@ cask 'dafont-stickons2' do
     url 'http://dl.dafont.com/dl/?f=stickons2'
     name 'Stickons'
     homepage 'http://www.dafont.com/stickons2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STICK.TTF'
 end

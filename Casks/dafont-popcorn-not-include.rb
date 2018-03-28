@@ -5,7 +5,6 @@ cask 'dafont-popcorn-not-include' do
     url 'http://dl.dafont.com/dl/?f=popcorn_not_include'
     name 'Popcorn not included'
     homepage 'http://www.dafont.com/popcorn-not-include.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Popcorn NOT included.ttf'
 end

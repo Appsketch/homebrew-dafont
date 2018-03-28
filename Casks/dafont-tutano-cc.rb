@@ -5,7 +5,6 @@ cask 'dafont-tutano-cc' do
     url 'http://dl.dafont.com/dl/?f=tutano_cc'
     name 'Tutano.cc'
     homepage 'http://www.dafont.com/tutano-cc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tutano_cc_v2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tibitto' do
     url 'http://dl.dafont.com/dl/?f=tibitto'
     name 'Tibitto'
     homepage 'http://www.dafont.com/tibitto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TIBITTO_.TTF'
 end

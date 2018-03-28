@@ -5,7 +5,6 @@ cask 'dafont-satisfaction' do
     url 'http://dl.dafont.com/dl/?f=satisfaction'
     name 'Satisfaction'
     homepage 'http://www.dafont.com/satisfaction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Satisfaction PERSONAL USE.otf'
 end

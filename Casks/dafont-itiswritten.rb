@@ -5,7 +5,6 @@ cask 'dafont-itiswritten' do
     url 'http://dl.dafont.com/dl/?f=itiswritten'
     name 'It Is Written'
     homepage 'http://www.dafont.com/itiswritten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ItIsWritten.ttf'
 end

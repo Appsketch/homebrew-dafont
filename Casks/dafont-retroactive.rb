@@ -5,7 +5,6 @@ cask 'dafont-retroactive' do
     url 'http://dl.dafont.com/dl/?f=retroactive'
     name 'Retroactive'
     homepage 'http://www.dafont.com/retroactive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Retroactive_demo-version.ttf'
 end

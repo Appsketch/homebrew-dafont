@@ -5,7 +5,6 @@ cask 'dafont-old-dog-new-tricks-' do
     url 'http://dl.dafont.com/dl/?f=old_dog_new_tricks_'
     name 'Old Dog, New Tricks Caps'
     homepage 'http://www.dafont.com/old-dog-new-tricks-.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'odnt.ttf'
 end

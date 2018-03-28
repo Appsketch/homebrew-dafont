@@ -5,7 +5,6 @@ cask 'dafont-dominik' do
     url 'http://dl.dafont.com/dl/?f=dominik'
     name 'Dominik'
     homepage 'http://www.dafont.com/dominik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dominik Italic.ttf'
     font 'Dominik Thin Italic.ttf'

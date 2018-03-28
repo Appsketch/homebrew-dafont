@@ -5,7 +5,6 @@ cask 'dafont-dk-double-quick' do
     url 'http://dl.dafont.com/dl/?f=dk_double_quick'
     name 'DK Double Quick'
     homepage 'http://www.dafont.com/dk-double-quick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Double Quick.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-illinois-block' do
     url 'http://dl.dafont.com/dl/?f=illinois_block'
     name 'Illinois Block'
     homepage 'http://www.dafont.com/illinois-block.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ILLINOIS.ttf'
 end

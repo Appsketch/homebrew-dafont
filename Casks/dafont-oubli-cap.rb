@@ -5,7 +5,6 @@ cask 'dafont-oubli-cap' do
     url 'http://dl.dafont.com/dl/?f=oubli_cap'
     name 'Oubli Cap'
     homepage 'http://www.dafont.com/oubli-cap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oubli_CAP.ttf'
 end

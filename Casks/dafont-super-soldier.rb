@@ -5,7 +5,6 @@ cask 'dafont-super-soldier' do
     url 'http://dl.dafont.com/dl/?f=super_soldier'
     name 'Super Soldier'
     homepage 'http://www.dafont.com/super-soldier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'supersoldier.ttf'
 end

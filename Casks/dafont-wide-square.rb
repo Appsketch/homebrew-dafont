@@ -5,7 +5,6 @@ cask 'dafont-wide-square' do
     url 'http://dl.dafont.com/dl/?f=wide_square'
     name 'Wide Square'
     homepage 'http://www.dafont.com/wide-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wide Square.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djsslantserif' do
     url 'http://dl.dafont.com/dl/?f=djsslantserif'
     name 'DJs Slant Serif'
     homepage 'http://www.dafont.com/djsslantserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJsSlantSerif.ttf'
 end

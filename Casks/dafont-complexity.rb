@@ -5,7 +5,6 @@ cask 'dafont-complexity' do
     url 'http://dl.dafont.com/dl/?f=complexity'
     name 'Complexity'
     homepage 'http://www.dafont.com/complexity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Complexity.ttf'
 end

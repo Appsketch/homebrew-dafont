@@ -5,7 +5,6 @@ cask 'dafont-russianline' do
     url 'http://dl.dafont.com/dl/?f=russianline'
     name 'Russian Line'
     homepage 'http://www.dafont.com/russianline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RussianLine.ttf'
 end

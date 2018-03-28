@@ -5,7 +5,6 @@ cask 'dafont-cupra' do
     url 'http://dl.dafont.com/dl/?f=cupra'
     name 'Cupra'
     homepage 'http://www.dafont.com/cupra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cupra.ttf'
 end

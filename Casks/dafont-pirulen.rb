@@ -5,7 +5,6 @@ cask 'dafont-pirulen' do
     url 'http://dl.dafont.com/dl/?f=pirulen'
     name 'Pirulen'
     homepage 'http://www.dafont.com/pirulen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pirulen rg.ttf'
 end

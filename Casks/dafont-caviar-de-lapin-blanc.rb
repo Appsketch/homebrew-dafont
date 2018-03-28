@@ -5,7 +5,6 @@ cask 'dafont-caviar-de-lapin-blanc' do
     url 'http://dl.dafont.com/dl/?f=caviar_de_lapin_blanc'
     name 'Caviar De Lapin Blanc'
     homepage 'http://www.dafont.com/caviar-de-lapin-blanc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CAVIAR DE LAPIN BLANC.ttf'
 end

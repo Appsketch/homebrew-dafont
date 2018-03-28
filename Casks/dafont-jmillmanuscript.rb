@@ -5,7 +5,6 @@ cask 'dafont-jmillmanuscript' do
     url 'http://dl.dafont.com/dl/?f=jmillmanuscript'
     name 'JMillmanuscript'
     homepage 'http://www.dafont.com/jmillmanuscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JMillmanuscript.ttf'
 end

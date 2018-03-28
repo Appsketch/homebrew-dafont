@@ -5,7 +5,6 @@ cask 'dafont-dia-de-los-muertos' do
     url 'http://dl.dafont.com/dl/?f=dia_de_los_muertos'
     name 'D&iacute;a de los muertos'
     homepage 'http://www.dafont.com/dia-de-los-muertos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIADLMB_.TTF'
 end

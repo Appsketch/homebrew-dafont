@@ -5,7 +5,6 @@ cask 'dafont-fatty-heart-filled' do
     url 'http://dl.dafont.com/dl/?f=fatty_heart_filled'
     name 'Fatty Heart Filled'
     homepage 'http://www.dafont.com/fatty-heart-filled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fatty Heart Filled.ttf'
 end

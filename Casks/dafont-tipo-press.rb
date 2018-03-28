@@ -5,7 +5,6 @@ cask 'dafont-tipo-press' do
     url 'http://dl.dafont.com/dl/?f=tipo_press'
     name 'Tipo Press'
     homepage 'http://www.dafont.com/tipo-press.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TipoPRESS_demo.otf'
     font 'TipoPRESS_italic_demo.otf'

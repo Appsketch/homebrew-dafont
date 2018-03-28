@@ -5,7 +5,6 @@ cask 'dafont-sf-intermosaic' do
     url 'http://dl.dafont.com/dl/?f=sf_intermosaic'
     name 'SF Intermosaic'
     homepage 'http://www.dafont.com/sf-intermosaic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Intermosaic B Bold.ttf'
     font 'SF Intermosaic B.ttf'

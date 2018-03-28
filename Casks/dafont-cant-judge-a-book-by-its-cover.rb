@@ -5,7 +5,6 @@ cask 'dafont-cant-judge-a-book-by-its-cover' do
     url 'http://dl.dafont.com/dl/?f=cant_judge_a_book_by_its_cover'
     name 'Can&#039;t judge a book by its cover'
     homepage 'http://www.dafont.com/cant-judge-a-book-by-its-cover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Can&#039;t Judge A Book by Its Cover.ttf'
 end

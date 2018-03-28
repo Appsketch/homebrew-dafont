@@ -5,7 +5,6 @@ cask 'dafont-iec5000' do
     url 'http://dl.dafont.com/dl/?f=iec5000'
     name 'IEC5000'
     homepage 'http://www.dafont.com/iec5000.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IEC5000.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-deadly-black-chain' do
     url 'http://dl.dafont.com/dl/?f=deadly_black_chain'
     name 'Deadly Black Chain'
     homepage 'http://www.dafont.com/deadly-black-chain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deadly Black Chain Extended.ttf'
     font 'Deadly Black Chain.ttf'

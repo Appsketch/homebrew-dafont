@@ -5,7 +5,6 @@ cask 'dafont-roundhand-free' do
     url 'http://dl.dafont.com/dl/?f=roundhand_free'
     name 'RoundHand Free'
     homepage 'http://www.dafont.com/roundhand-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RoundHand Free.ttf'
 end

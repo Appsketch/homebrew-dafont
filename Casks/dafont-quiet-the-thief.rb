@@ -5,7 +5,6 @@ cask 'dafont-quiet-the-thief' do
     url 'http://dl.dafont.com/dl/?f=quiet_the_thief'
     name 'Quiet the Thief'
     homepage 'http://www.dafont.com/quiet-the-thief.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quietthief.otf'
     font 'quietthiefbold.otf'

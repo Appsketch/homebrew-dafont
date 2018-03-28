@@ -5,7 +5,6 @@ cask 'dafont-jelusic-dizajn' do
     url 'http://dl.dafont.com/dl/?f=jelusic_dizajn'
     name 'Jelusic Dizajn'
     homepage 'http://www.dafont.com/jelusic-dizajn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JELUDN__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-times-are-hard' do
     url 'http://dl.dafont.com/dl/?f=times_are_hard'
     name 'Times are Hard'
     homepage 'http://www.dafont.com/times-are-hard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Times are Hard.otf'
 end

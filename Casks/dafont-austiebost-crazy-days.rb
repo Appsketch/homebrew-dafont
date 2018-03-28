@@ -5,7 +5,6 @@ cask 'dafont-austiebost-crazy-days' do
     url 'http://dl.dafont.com/dl/?f=austiebost_crazy_days'
     name 'Austiebost Crazy Days'
     homepage 'http://www.dafont.com/austiebost-crazy-days.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'austiebost Crazy Days.ttf'
 end

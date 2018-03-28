@@ -5,7 +5,6 @@ cask 'dafont-q-switch-ax' do
     url 'http://dl.dafont.com/dl/?f=q_switch_ax'
     name 'Q-Switch Ax'
     homepage 'http://www.dafont.com/q-switch-ax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QSWITCHA.TTF'
 end

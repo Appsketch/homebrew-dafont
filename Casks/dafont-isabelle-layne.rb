@@ -5,7 +5,6 @@ cask 'dafont-isabelle-layne' do
     url 'http://dl.dafont.com/dl/?f=isabelle_layne'
     name 'Isabelle Layne'
     homepage 'http://www.dafont.com/isabelle-layne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Isabelle Layne Bold.ttf'
     font 'Isabelle Layne.ttf'

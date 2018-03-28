@@ -5,7 +5,6 @@ cask 'dafont-budbird' do
     url 'http://dl.dafont.com/dl/?f=budbird'
     name 'BudBird'
     homepage 'http://www.dafont.com/budbird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Budbn___.ttf'
 end

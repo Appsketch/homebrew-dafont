@@ -5,7 +5,6 @@ cask 'dafont-asphyxiate-regular' do
     url 'http://dl.dafont.com/dl/?f=asphyxiate_regular'
     name 'Asphyxiate'
     homepage 'http://www.dafont.com/asphyxiate-regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asphyxiate.ttf'
 end

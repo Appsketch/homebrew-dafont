@@ -5,7 +5,6 @@ cask 'dafont-i-f-c-boothill' do
     url 'http://dl.dafont.com/dl/?f=i_f_c_boothill'
     name 'IFC Boothill'
     homepage 'http://www.dafont.com/i-f-c-boothill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I.F.C. BOOTHILL.ttf'
 end

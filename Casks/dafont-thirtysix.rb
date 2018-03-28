@@ -5,7 +5,6 @@ cask 'dafont-thirtysix' do
     url 'http://dl.dafont.com/dl/?f=thirtysix'
     name 'Thirtysix'
     homepage 'http://www.dafont.com/thirtysix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thirtysix.ttf'
 end

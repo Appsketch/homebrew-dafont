@@ -5,7 +5,6 @@ cask 'dafont-denistina' do
     url 'http://dl.dafont.com/dl/?f=denistina'
     name 'Denistina'
     homepage 'http://www.dafont.com/denistina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'denistina_en.ttf'
 end

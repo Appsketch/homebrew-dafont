@@ -5,7 +5,6 @@ cask 'dafont-coolvetica' do
     url 'http://dl.dafont.com/dl/?f=coolvetica'
     name 'Coolvetica'
     homepage 'http://www.dafont.com/coolvetica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'coolvetica rg.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cajun-boogie' do
     url 'http://dl.dafont.com/dl/?f=cajun_boogie'
     name 'Cajun Boogie'
     homepage 'http://www.dafont.com/cajun-boogie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cajunboogie.ttf'
 end

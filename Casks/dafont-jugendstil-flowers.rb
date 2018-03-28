@@ -5,7 +5,6 @@ cask 'dafont-jugendstil-flowers' do
     url 'http://dl.dafont.com/dl/?f=jugendstil_flowers'
     name 'JugendStil Flowers'
     homepage 'http://www.dafont.com/jugendstil-flowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JugendStil Flowers Free.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wedding-chardonnay' do
     url 'http://dl.dafont.com/dl/?f=wedding_chardonnay'
     name 'Wedding Chardonnay'
     homepage 'http://www.dafont.com/wedding-chardonnay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wedding Chardonnay.ttf'
 end

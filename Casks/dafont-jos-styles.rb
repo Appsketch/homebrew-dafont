@@ -5,7 +5,6 @@ cask 'dafont-jos-styles' do
     url 'http://dl.dafont.com/dl/?f=jos_styles'
     name 'Jo&#039;s Styles'
     homepage 'http://www.dafont.com/jos-styles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jo_&#039;s Styles.ttf'
 end

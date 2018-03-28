@@ -5,7 +5,6 @@ cask 'dafont-starcraft' do
     url 'http://dl.dafont.com/dl/?f=starcraft'
     name 'Starcraft'
     homepage 'http://www.dafont.com/starcraft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Starcraft Normal.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tattoo-lettering' do
     url 'http://dl.dafont.com/dl/?f=tattoo_lettering'
     name 'Tattoo Lettering'
     homepage 'http://www.dafont.com/tattoo-lettering.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TattooLetteringBlack.ttf'
     font 'TattooLetteringOpen.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-orkahaug' do
     url 'http://dl.dafont.com/dl/?f=orkahaug'
     name 'Orkahaug'
     homepage 'http://www.dafont.com/orkahaug.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Orkahaug/Orkahaug.otf'
 end

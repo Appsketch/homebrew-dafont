@@ -5,7 +5,6 @@ cask 'dafont-xmasterpiece' do
     url 'http://dl.dafont.com/dl/?f=xmasterpiece'
     name 'XmasTerpiece'
     homepage 'http://www.dafont.com/xmasterpiece.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XmasTerpiece.ttf'
     font 'XmasTerpieceSwashes.ttf'

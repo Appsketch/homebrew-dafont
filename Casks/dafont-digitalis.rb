@@ -5,7 +5,6 @@ cask 'dafont-digitalis' do
     url 'http://dl.dafont.com/dl/?f=digitalis'
     name 'Digitalis'
     homepage 'http://www.dafont.com/digitalis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'digitalis.ttf'
 end

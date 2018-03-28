@@ -5,7 +5,6 @@ cask 'dafont-michaelfont' do
     url 'http://dl.dafont.com/dl/?f=michaelfont'
     name 'Michael'
     homepage 'http://www.dafont.com/michaelfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MichaelFont.ttf'
 end

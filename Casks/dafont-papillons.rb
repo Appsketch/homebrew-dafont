@@ -5,7 +5,6 @@ cask 'dafont-papillons' do
     url 'http://dl.dafont.com/dl/?f=papillons'
     name 'Papillons'
     homepage 'http://www.dafont.com/papillons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Papillons_demo.otf'
     font 'Papillons_italic_demo.otf'

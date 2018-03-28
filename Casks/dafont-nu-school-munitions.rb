@@ -5,7 +5,6 @@ cask 'dafont-nu-school-munitions' do
     url 'http://dl.dafont.com/dl/?f=nu_school_munitions'
     name 'Nu School Munitions'
     homepage 'http://www.dafont.com/nu-school-munitions.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nuschoolmunitions.ttf'
 end

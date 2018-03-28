@@ -5,7 +5,6 @@ cask 'dafont-atelas' do
     url 'http://dl.dafont.com/dl/?f=atelas'
     name 'Atelas'
     homepage 'http://www.dafont.com/atelas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Atelas_PersonalUseOnly.ttf'
 end

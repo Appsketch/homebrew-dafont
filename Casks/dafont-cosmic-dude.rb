@@ -5,7 +5,6 @@ cask 'dafont-cosmic-dude' do
     url 'http://dl.dafont.com/dl/?f=cosmic_dude'
     name 'Cosmic Dude'
     homepage 'http://www.dafont.com/cosmic-dude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COSMDD__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lcr-cutesy-cupid' do
     url 'http://dl.dafont.com/dl/?f=lcr_cutesy_cupid'
     name 'LCR Cutesy Cupid'
     homepage 'http://www.dafont.com/lcr-cutesy-cupid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LCR Cutesy Cupid.TTF'
 end

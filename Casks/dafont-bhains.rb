@@ -5,7 +5,6 @@ cask 'dafont-bhains' do
     url 'http://dl.dafont.com/dl/?f=bhains'
     name 'Bhains'
     homepage 'http://www.dafont.com/bhains.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bhains.otf'
 end

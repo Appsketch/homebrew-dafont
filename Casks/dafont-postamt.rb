@@ -5,7 +5,6 @@ cask 'dafont-postamt' do
     url 'http://dl.dafont.com/dl/?f=postamt'
     name 'Postamt'
     homepage 'http://www.dafont.com/postamt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Postamt.ttf'
 end

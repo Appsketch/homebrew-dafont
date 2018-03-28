@@ -5,7 +5,6 @@ cask 'dafont-80er-teenie-demo' do
     url 'http://dl.dafont.com/dl/?f=80er_teenie_demo'
     name '80er Teenie Demo'
     homepage 'http://www.dafont.com/80er-teenie-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '80erfinaldemo.ttf'
 end

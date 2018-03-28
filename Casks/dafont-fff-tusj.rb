@@ -5,7 +5,6 @@ cask 'dafont-fff-tusj' do
     url 'http://dl.dafont.com/dl/?f=fff_tusj'
     name 'FFF Tusj'
     homepage 'http://www.dafont.com/fff-tusj.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FFF Tusj.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-synthetic-sharps' do
     url 'http://dl.dafont.com/dl/?f=synthetic_sharps'
     name 'Synthetic Sharps'
     homepage 'http://www.dafont.com/synthetic-sharps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Synthetic Sharps Italic.otf'
     font 'Synthetic Sharps.otf'

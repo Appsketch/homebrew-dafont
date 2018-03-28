@@ -5,7 +5,6 @@ cask 'dafont-csnpwdt' do
     url 'http://dl.dafont.com/dl/?f=csnpwdt'
     name 'Children should not play with dead things'
     homepage 'http://www.dafont.com/csnpwdt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'csnpwdt.ttf'
 end

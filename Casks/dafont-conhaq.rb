@@ -5,7 +5,6 @@ cask 'dafont-conhaq' do
     url 'http://dl.dafont.com/dl/?f=conhaq'
     name 'Conhaq'
     homepage 'http://www.dafont.com/conhaq.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'conhaq.ttf'
 end

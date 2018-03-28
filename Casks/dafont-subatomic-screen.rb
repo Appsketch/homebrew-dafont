@@ -5,7 +5,6 @@ cask 'dafont-subatomic-screen' do
     url 'http://dl.dafont.com/dl/?f=subatomic_screen'
     name 'Subatomic Screen'
     homepage 'http://www.dafont.com/subatomic-screen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'atomics.TTF'
     font 'atomicsc.TTF'

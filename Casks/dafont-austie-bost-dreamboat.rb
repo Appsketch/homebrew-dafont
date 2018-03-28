@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-dreamboat' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_dreamboat'
     name 'Austie Bost Dreamboat'
     homepage 'http://www.dafont.com/austie-bost-dreamboat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Dreamboat.ttf'
 end

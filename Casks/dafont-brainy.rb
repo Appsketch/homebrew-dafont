@@ -5,7 +5,6 @@ cask 'dafont-brainy' do
     url 'http://dl.dafont.com/dl/?f=brainy'
     name 'Brainy'
     homepage 'http://www.dafont.com/brainy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brainy.ttf'
 end

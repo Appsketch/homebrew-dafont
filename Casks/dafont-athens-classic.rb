@@ -5,7 +5,6 @@ cask 'dafont-athens-classic' do
     url 'http://dl.dafont.com/dl/?f=athens_classic'
     name 'Athens Classic'
     homepage 'http://www.dafont.com/athens-classic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AthensClassic.ttf'
 end

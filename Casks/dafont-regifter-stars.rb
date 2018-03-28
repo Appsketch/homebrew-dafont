@@ -5,7 +5,6 @@ cask 'dafont-regifter-stars' do
     url 'http://dl.dafont.com/dl/?f=regifter_stars'
     name 'ReGifter'
     homepage 'http://www.dafont.com/regifter-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Re-Gifter Stars.TTF'
     font 'Re-Gifter.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-preciousmoments' do
     url 'http://dl.dafont.com/dl/?f=preciousmoments'
     name 'Precious Moments'
     homepage 'http://www.dafont.com/preciousmoments.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PreciousMoments.ttf'
 end

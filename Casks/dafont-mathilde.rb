@@ -5,7 +5,6 @@ cask 'dafont-mathilde' do
     url 'http://dl.dafont.com/dl/?f=mathilde'
     name 'Mathilde'
     homepage 'http://www.dafont.com/mathilde.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mathilde.otf'
 end

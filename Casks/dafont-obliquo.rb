@@ -5,7 +5,6 @@ cask 'dafont-obliquo' do
     url 'http://dl.dafont.com/dl/?f=obliquo'
     name 'Obliquo'
     homepage 'http://www.dafont.com/obliquo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Obliquo.ttf'
 end

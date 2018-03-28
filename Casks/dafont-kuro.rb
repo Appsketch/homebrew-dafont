@@ -5,7 +5,6 @@ cask 'dafont-kuro' do
     url 'http://dl.dafont.com/dl/?f=kuro'
     name 'Kuro'
     homepage 'http://www.dafont.com/kuro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kuro-Regular.ttf'
 end

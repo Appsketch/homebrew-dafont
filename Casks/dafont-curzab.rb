@@ -5,7 +5,6 @@ cask 'dafont-curzab' do
     url 'http://dl.dafont.com/dl/?f=curzab'
     name 'Curzab '
     homepage 'http://www.dafont.com/curzab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Curzab.ttf'
 end

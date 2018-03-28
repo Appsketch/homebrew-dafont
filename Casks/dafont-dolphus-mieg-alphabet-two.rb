@@ -5,7 +5,6 @@ cask 'dafont-dolphus-mieg-alphabet-two' do
     url 'http://dl.dafont.com/dl/?f=dolphus_mieg_alphabet_two'
     name 'Dolphus-Mieg Alphabet Two'
     homepage 'http://www.dafont.com/dolphus-mieg-alphabet-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dolphus-Mieg Alphabet Two.ttf'
 end

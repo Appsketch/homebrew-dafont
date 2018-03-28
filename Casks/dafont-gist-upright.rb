@@ -5,7 +5,6 @@ cask 'dafont-gist-upright' do
     url 'http://dl.dafont.com/dl/?f=gist_upright'
     name 'Gist Upright'
     homepage 'http://www.dafont.com/gist-upright.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GistUprightExtraboldDemo.otf'
 end

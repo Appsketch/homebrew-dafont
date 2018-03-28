@@ -5,7 +5,6 @@ cask 'dafont-lt-white-fang' do
     url 'http://dl.dafont.com/dl/?f=lt_white_fang'
     name 'LRT White Fang'
     homepage 'http://www.dafont.com/lt-white-fang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LRT White Fang.ttf'
 end

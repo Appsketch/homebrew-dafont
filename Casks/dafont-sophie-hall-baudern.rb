@@ -5,7 +5,6 @@ cask 'dafont-sophie-hall-baudern' do
     url 'http://dl.dafont.com/dl/?f=sophie_hall_baudern'
     name 'Sophie Hall Baudern'
     homepage 'http://www.dafont.com/sophie-hall-baudern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sophie hall baudern fontlab.ttf'
 end

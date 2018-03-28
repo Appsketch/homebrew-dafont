@@ -5,7 +5,6 @@ cask 'dafont-da-streets' do
     url 'http://dl.dafont.com/dl/?f=da_streets'
     name 'Da Streets'
     homepage 'http://www.dafont.com/da-streets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Da Streets.ttf'
 end

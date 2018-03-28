@@ -5,7 +5,6 @@ cask 'dafont-comodorepapers' do
     url 'http://dl.dafont.com/dl/?f=comodorepapers'
     name 'Comodorepapers'
     homepage 'http://www.dafont.com/comodorepapers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'comodorepaper.ttf'
 end

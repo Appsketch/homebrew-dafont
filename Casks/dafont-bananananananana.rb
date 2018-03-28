@@ -5,7 +5,6 @@ cask 'dafont-bananananananana' do
     url 'http://dl.dafont.com/dl/?f=bananananananana'
     name 'Bananananananana'
     homepage 'http://www.dafont.com/bananananananana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bananananananana.ttf'
 end

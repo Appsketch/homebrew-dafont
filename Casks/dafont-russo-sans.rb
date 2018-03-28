@@ -5,7 +5,6 @@ cask 'dafont-russo-sans' do
     url 'http://dl.dafont.com/dl/?f=russo_sans'
     name 'Russo Sans'
     homepage 'http://www.dafont.com/russo-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Russo Sans Bold.otf'
 end

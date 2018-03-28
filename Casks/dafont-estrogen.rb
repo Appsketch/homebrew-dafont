@@ -5,7 +5,6 @@ cask 'dafont-estrogen' do
     url 'http://dl.dafont.com/dl/?f=estrogen'
     name 'Estrogen'
     homepage 'http://www.dafont.com/estrogen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ESTROG__.ttf'
     font 'ESTROGP_.ttf'

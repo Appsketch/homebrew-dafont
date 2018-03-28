@@ -5,7 +5,6 @@ cask 'dafont-karmatic-revolution' do
     url 'http://dl.dafont.com/dl/?f=karmatic_revolution'
     name 'Karmatic Revolution'
     homepage 'http://www.dafont.com/karmatic-revolution.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kr1.ttf'
 end

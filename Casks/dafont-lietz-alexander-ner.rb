@@ -5,7 +5,6 @@ cask 'dafont-lietz-alexander-ner' do
     url 'http://dl.dafont.com/dl/?f=lietz_alexander_ner'
     name 'Lietz Alexander Nero'
     homepage 'http://www.dafont.com/lietz-alexander-ner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lietzalexandernero.ttf'
 end

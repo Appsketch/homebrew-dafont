@@ -5,7 +5,6 @@ cask 'dafont-pines' do
     url 'http://dl.dafont.com/dl/?f=pines'
     name 'Pines'
     homepage 'http://www.dafont.com/pines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TT Pines Bold Italic DEMO.otf'
 end

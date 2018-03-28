@@ -5,7 +5,6 @@ cask 'dafont-df-charliego' do
     url 'http://dl.dafont.com/dl/?f=df_charliego'
     name 'DF Charlie go!'
     homepage 'http://www.dafont.com/df-charliego.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DF-Charlie_go!.ttf'
 end

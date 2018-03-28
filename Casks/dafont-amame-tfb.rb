@@ -5,7 +5,6 @@ cask 'dafont-amame-tfb' do
     url 'http://dl.dafont.com/dl/?f=amame_tfb'
     name 'Amame TFB'
     homepage 'http://www.dafont.com/amame-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amame tfb.ttf'
 end

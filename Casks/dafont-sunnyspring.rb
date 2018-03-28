@@ -5,7 +5,6 @@ cask 'dafont-sunnyspring' do
     url 'http://dl.dafont.com/dl/?f=sunnyspring'
     name 'Sunny Spring'
     homepage 'http://www.dafont.com/sunnyspring.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SunnySpring.ttf'
 end

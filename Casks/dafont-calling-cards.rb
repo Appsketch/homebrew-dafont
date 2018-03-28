@@ -5,7 +5,6 @@ cask 'dafont-calling-cards' do
     url 'http://dl.dafont.com/dl/?f=calling_cards'
     name 'Calling Cards'
     homepage 'http://www.dafont.com/calling-cards.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CallingCards_Bold_sample.ttf'
     font 'CallingCards_It_sample.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-ladybug-dings' do
     url 'http://dl.dafont.com/dl/?f=ladybug_dings'
     name 'Ladybug Dings'
     homepage 'http://www.dafont.com/ladybug-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ladybug_Dings.ttf'
 end

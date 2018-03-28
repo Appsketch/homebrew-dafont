@@ -5,7 +5,6 @@ cask 'dafont-goodbye-crewel-world-nf' do
     url 'http://dl.dafont.com/dl/?f=goodbye_crewel_world_nf'
     name 'Goodbye Crewel World NF'
     homepage 'http://www.dafont.com/goodbye-crewel-world-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Goodbye Crewel World NF.ttf'
 end

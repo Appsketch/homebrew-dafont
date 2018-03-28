@@ -5,7 +5,6 @@ cask 'dafont-lacuna' do
     url 'http://dl.dafont.com/dl/?f=lacuna'
     name 'Lacuna'
     homepage 'http://www.dafont.com/lacuna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LACUI___.TTF'
     font 'LACURG__.TTF'

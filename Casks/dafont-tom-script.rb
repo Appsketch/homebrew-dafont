@@ -5,7 +5,6 @@ cask 'dafont-tom-script' do
     url 'http://dl.dafont.com/dl/?f=tom_script'
     name 'Tom Script'
     homepage 'http://www.dafont.com/tom-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tom script.ttf'
 end

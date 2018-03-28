@@ -5,7 +5,6 @@ cask 'dafont-awe' do
     url 'http://dl.dafont.com/dl/?f=awe'
     name 'Awe'
     homepage 'http://www.dafont.com/awe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dawnland.awe.ttf'
 end

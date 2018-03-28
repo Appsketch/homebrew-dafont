@@ -5,7 +5,6 @@ cask 'dafont-the-lovers' do
     url 'http://dl.dafont.com/dl/?f=the_lovers'
     name 'The Lovers '
     homepage 'http://www.dafont.com/the-lovers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Lovers.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-carillas-tfb' do
     url 'http://dl.dafont.com/dl/?f=carillas_tfb'
     name 'Carillas TFB'
     homepage 'http://www.dafont.com/carillas-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'carillas tfb.ttf'
 end

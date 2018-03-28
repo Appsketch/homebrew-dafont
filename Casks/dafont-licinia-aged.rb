@@ -5,7 +5,6 @@ cask 'dafont-licinia-aged' do
     url 'http://dl.dafont.com/dl/?f=licinia_aged'
     name 'Licinia Aged'
     homepage 'http://www.dafont.com/licinia-aged.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Licinia Aged.ttf'
 end

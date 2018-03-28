@@ -5,7 +5,6 @@ cask 'dafont-little-bird' do
     url 'http://dl.dafont.com/dl/?f=little_bird'
     name 'Little Bird'
     homepage 'http://www.dafont.com/little-bird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Little bird.ttf'
 end

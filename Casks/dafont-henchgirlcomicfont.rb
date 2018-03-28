@@ -5,7 +5,6 @@ cask 'dafont-henchgirlcomicfont' do
     url 'http://dl.dafont.com/dl/?f=henchgirlcomicfont'
     name 'Henchgirl Comic'
     homepage 'http://www.dafont.com/henchgirlcomicfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HenchgirlComicFont.ttf'
 end

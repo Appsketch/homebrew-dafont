@@ -5,7 +5,6 @@ cask 'dafont-jack-o' do
     url 'http://dl.dafont.com/dl/?f=jack_o'
     name 'Jack O'
     homepage 'http://www.dafont.com/jack-o.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jack O.ttf'
 end

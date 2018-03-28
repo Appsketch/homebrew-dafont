@@ -5,7 +5,6 @@ cask 'dafont-horror-sketch' do
     url 'http://dl.dafont.com/dl/?f=horror_sketch'
     name 'Horror Sketch'
     homepage 'http://www.dafont.com/horror-sketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Horror Sketch.ttf'
 end

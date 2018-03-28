@@ -5,7 +5,6 @@ cask 'dafont-hooverville' do
     url 'http://dl.dafont.com/dl/?f=hooverville'
     name 'Hooverville'
     homepage 'http://www.dafont.com/hooverville.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hooverville DEMO.ttf'
 end

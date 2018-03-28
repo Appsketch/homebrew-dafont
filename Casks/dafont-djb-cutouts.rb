@@ -5,7 +5,6 @@ cask 'dafont-djb-cutouts' do
     url 'http://dl.dafont.com/dl/?f=djb_cutouts'
     name 'DJB Cutouts'
     homepage 'http://www.dafont.com/djb-cutouts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Cutouts-Flowers.ttf'
     font 'DJB Cutouts-Hearts.ttf'

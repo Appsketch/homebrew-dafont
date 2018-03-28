@@ -5,7 +5,6 @@ cask 'dafont-panic' do
     url 'http://dl.dafont.com/dl/?f=panic'
     name 'Panic'
     homepage 'http://www.dafont.com/panic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Panic.ttf'
 end

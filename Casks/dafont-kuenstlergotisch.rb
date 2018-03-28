@@ -5,7 +5,6 @@ cask 'dafont-kuenstlergotisch' do
     url 'http://dl.dafont.com/dl/?f=kuenstlergotisch'
     name 'Kuenstler Gotisch'
     homepage 'http://www.dafont.com/kuenstlergotisch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KuenstlerGotisch.ttf'
 end

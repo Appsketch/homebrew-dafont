@@ -5,7 +5,6 @@ cask 'dafont-middle-management' do
     url 'http://dl.dafont.com/dl/?f=middle_management'
     name 'Middle Management'
     homepage 'http://www.dafont.com/middle-management.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiddleManagement.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-highsales' do
     url 'http://dl.dafont.com/dl/?f=highsales'
     name 'High Sales'
     homepage 'http://www.dafont.com/highsales.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighSales.ttf'
 end

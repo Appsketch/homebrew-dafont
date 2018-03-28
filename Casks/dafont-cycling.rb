@@ -5,7 +5,6 @@ cask 'dafont-cycling' do
     url 'http://dl.dafont.com/dl/?f=cycling'
     name 'Cycling'
     homepage 'http://www.dafont.com/cycling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CYCLING_.TTF'
 end

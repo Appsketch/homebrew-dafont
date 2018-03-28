@@ -5,7 +5,6 @@ cask 'dafont-kerata' do
     url 'http://dl.dafont.com/dl/?f=kerata'
     name 'Kerata'
     homepage 'http://www.dafont.com/kerata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kerata.ttf'
 end

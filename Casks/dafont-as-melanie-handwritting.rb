@@ -5,7 +5,6 @@ cask 'dafont-as-melanie-handwritting' do
     url 'http://dl.dafont.com/dl/?f=as_melanie_handwritting'
     name 'AS Melanie Handwritting'
     homepage 'http://www.dafont.com/as-melanie-handwritting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AS Melanie Handwritting.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-beat-my-guest' do
     url 'http://dl.dafont.com/dl/?f=beat_my_guest'
     name 'Beat My Guest'
     homepage 'http://www.dafont.com/beat-my-guest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beat my guest.ttf'
 end

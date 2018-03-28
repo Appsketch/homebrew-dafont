@@ -5,7 +5,6 @@ cask 'dafont-uneasy' do
     url 'http://dl.dafont.com/dl/?f=uneasy'
     name 'Uneasy'
     homepage 'http://www.dafont.com/uneasy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Uneasy.ttf'
 end

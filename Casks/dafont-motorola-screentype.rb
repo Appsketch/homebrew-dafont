@@ -5,7 +5,6 @@ cask 'dafont-motorola-screentype' do
     url 'http://dl.dafont.com/dl/?f=motorola_screentype'
     name 'Motorola ScreenType'
     homepage 'http://www.dafont.com/motorola-screentype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MotorolaScreentype.ttf'
 end

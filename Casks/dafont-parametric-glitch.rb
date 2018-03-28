@@ -5,7 +5,6 @@ cask 'dafont-parametric-glitch' do
     url 'http://dl.dafont.com/dl/?f=parametric_glitch'
     name 'Parametric Glitch'
     homepage 'http://www.dafont.com/parametric-glitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Parametric Glitch Bold.ttf'
     font 'Parametric Glitch.ttf'

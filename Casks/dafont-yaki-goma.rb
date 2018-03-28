@@ -5,7 +5,6 @@ cask 'dafont-yaki-goma' do
     url 'http://dl.dafont.com/dl/?f=yaki_goma'
     name 'Yaki Goma'
     homepage 'http://www.dafont.com/yaki-goma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_font_yaki_goma.ttf'
 end

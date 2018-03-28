@@ -5,7 +5,6 @@ cask 'dafont-old-school-toons' do
     url 'http://dl.dafont.com/dl/?f=old_school_toons'
     name 'Old School Toons'
     homepage 'http://www.dafont.com/old-school-toons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old School Toons.ttf'
 end

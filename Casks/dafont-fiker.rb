@@ -5,7 +5,6 @@ cask 'dafont-fiker' do
     url 'http://dl.dafont.com/dl/?f=fiker'
     name 'Fiker'
     homepage 'http://www.dafont.com/fiker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fiker regular free promo.ttf'
 end

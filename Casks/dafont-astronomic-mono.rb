@@ -5,7 +5,6 @@ cask 'dafont-astronomic-mono' do
     url 'http://dl.dafont.com/dl/?f=astronomic_mono'
     name 'Astronomic Mono'
     homepage 'http://www.dafont.com/astronomic-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Astronomic Mono.otf'
 end

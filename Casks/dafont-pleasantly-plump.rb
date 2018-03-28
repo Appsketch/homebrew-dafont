@@ -5,7 +5,6 @@ cask 'dafont-pleasantly-plump' do
     url 'http://dl.dafont.com/dl/?f=pleasantly_plump'
     name 'Pleasantly Plump'
     homepage 'http://www.dafont.com/pleasantly-plump.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLUMP.TTF'
 end

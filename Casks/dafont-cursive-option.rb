@@ -5,7 +5,6 @@ cask 'dafont-cursive-option' do
     url 'http://dl.dafont.com/dl/?f=cursive_option'
     name 'Cursive Option'
     homepage 'http://www.dafont.com/cursive-option.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cursive Option.ttf'
 end

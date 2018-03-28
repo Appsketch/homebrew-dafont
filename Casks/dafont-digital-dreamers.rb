@@ -5,7 +5,6 @@ cask 'dafont-digital-dreamers' do
     url 'http://dl.dafont.com/dl/?f=digital_dreamers'
     name 'Digital Dreamers'
     homepage 'http://www.dafont.com/digital-dreamers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digital Dreamers.otf'
 end

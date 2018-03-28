@@ -5,7 +5,6 @@ cask 'dafont-beware' do
     url 'http://dl.dafont.com/dl/?f=beware'
     name 'Beware'
     homepage 'http://www.dafont.com/beware.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEWARE__.TTF'
 end

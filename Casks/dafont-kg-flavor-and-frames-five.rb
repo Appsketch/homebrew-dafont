@@ -5,7 +5,6 @@ cask 'dafont-kg-flavor-and-frames-five' do
     url 'http://dl.dafont.com/dl/?f=kg_flavor_and_frames_five'
     name 'KG Flavor and Frames Five'
     homepage 'http://www.dafont.com/kg-flavor-and-frames-five.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGFlavorAndFramesFive.ttf'
 end

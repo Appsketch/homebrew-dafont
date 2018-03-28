@@ -5,7 +5,6 @@ cask 'dafont-ai-pointe' do
     url 'http://dl.dafont.com/dl/?f=ai_pointe'
     name 'AI pointe'
     homepage 'http://www.dafont.com/ai-pointe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AIPOINTE.TTF'
 end

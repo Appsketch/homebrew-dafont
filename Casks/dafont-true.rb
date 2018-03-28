@@ -5,7 +5,6 @@ cask 'dafont-true' do
     url 'http://dl.dafont.com/dl/?f=true'
     name 'True'
     homepage 'http://www.dafont.com/true.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'True.ttf'
 end

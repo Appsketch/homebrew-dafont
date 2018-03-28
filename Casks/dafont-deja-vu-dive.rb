@@ -5,7 +5,6 @@ cask 'dafont-deja-vu-dive' do
     url 'http://dl.dafont.com/dl/?f=deja_vu_dive'
     name 'D&eacute;j&agrave;-vu dive'
     homepage 'http://www.dafont.com/deja-vu-dive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dj-vu dive.ttf'
 end

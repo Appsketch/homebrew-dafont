@@ -5,7 +5,6 @@ cask 'dafont-tabletron' do
     url 'http://dl.dafont.com/dl/?f=tabletron'
     name 'Tabletron'
     homepage 'http://www.dafont.com/tabletron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TABLETRO.TTF'
 end

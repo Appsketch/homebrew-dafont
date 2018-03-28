@@ -5,7 +5,6 @@ cask 'dafont-shancalluna' do
     url 'http://dl.dafont.com/dl/?f=shancalluna'
     name 'Shancalluna'
     homepage 'http://www.dafont.com/shancalluna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shancalluna_regular.ttf'
 end

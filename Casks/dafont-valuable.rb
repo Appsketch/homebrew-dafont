@@ -5,7 +5,6 @@ cask 'dafont-valuable' do
     url 'http://dl.dafont.com/dl/?f=valuable'
     name 'Valuable'
     homepage 'http://www.dafont.com/valuable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Valuable.ttf'
 end

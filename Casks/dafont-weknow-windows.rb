@@ -5,7 +5,6 @@ cask 'dafont-weknow-windows' do
     url 'http://dl.dafont.com/dl/?f=weknow_windows'
     name 'Weknow Windows'
     homepage 'http://www.dafont.com/weknow-windows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Weknow Windows.ttf'
 end

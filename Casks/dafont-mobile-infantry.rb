@@ -5,7 +5,6 @@ cask 'dafont-mobile-infantry' do
     url 'http://dl.dafont.com/dl/?f=mobile_infantry'
     name 'Mobile Infantry'
     homepage 'http://www.dafont.com/mobile-infantry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mobileinfantry.ttf'
     font 'mobileinfantry3d.ttf'

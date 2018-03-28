@@ -5,7 +5,6 @@ cask 'dafont-delizioso' do
     url 'http://dl.dafont.com/dl/?f=delizioso'
     name 'Delizioso'
     homepage 'http://www.dafont.com/delizioso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'delizioso/Delizioso.ttf'
 end

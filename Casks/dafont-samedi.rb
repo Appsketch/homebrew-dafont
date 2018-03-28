@@ -5,7 +5,6 @@ cask 'dafont-samedi' do
     url 'http://dl.dafont.com/dl/?f=samedi'
     name 'Samedi'
     homepage 'http://www.dafont.com/samedi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sad_____.ttf'
 end

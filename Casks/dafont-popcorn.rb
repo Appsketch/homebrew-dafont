@@ -5,7 +5,6 @@ cask 'dafont-popcorn' do
     url 'http://dl.dafont.com/dl/?f=popcorn'
     name 'Popcorn'
     homepage 'http://www.dafont.com/popcorn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POPCO SCKETCH trial___.otf'
     font 'POPCORN trial_.otf'

@@ -5,7 +5,6 @@ cask 'dafont-hetkea-myohemmin' do
     url 'http://dl.dafont.com/dl/?f=hetkea_myohemmin'
     name 'Hetkea Myohemmin'
     homepage 'http://www.dafont.com/hetkea-myohemmin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hetkea Myohemmin.ttf'
 end

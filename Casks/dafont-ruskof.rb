@@ -5,7 +5,6 @@ cask 'dafont-ruskof' do
     url 'http://dl.dafont.com/dl/?f=ruskof'
     name 'Ruskof'
     homepage 'http://www.dafont.com/ruskof.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RUSKOF LIGHT.ttf'
     font 'RUSKOF.ttf'

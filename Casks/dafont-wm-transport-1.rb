@@ -5,7 +5,6 @@ cask 'dafont-wm-transport-1' do
     url 'http://dl.dafont.com/dl/?f=wm_transport_1'
     name 'WM Transport 1'
     homepage 'http://www.dafont.com/wm-transport-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmtransport1.TTF'
 end

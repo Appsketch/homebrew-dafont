@@ -5,7 +5,6 @@ cask 'dafont-unic-calligraphy' do
     url 'http://dl.dafont.com/dl/?f=unic_calligraphy'
     name 'Unic Calligraphy'
     homepage 'http://www.dafont.com/unic-calligraphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unic Calligraphy.ttf'
 end

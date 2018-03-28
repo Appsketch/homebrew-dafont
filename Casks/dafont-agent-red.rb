@@ -5,7 +5,6 @@ cask 'dafont-agent-red' do
     url 'http://dl.dafont.com/dl/?f=agent_red'
     name 'Agent Red'
     homepage 'http://www.dafont.com/agent-red.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AGENTRED.TTF'
 end

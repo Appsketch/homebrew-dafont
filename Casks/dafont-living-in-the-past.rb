@@ -5,7 +5,6 @@ cask 'dafont-living-in-the-past' do
     url 'http://dl.dafont.com/dl/?f=living_in_the_past'
     name 'Living in the Past'
     homepage 'http://www.dafont.com/living-in-the-past.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Living in the Past.ttf'
 end

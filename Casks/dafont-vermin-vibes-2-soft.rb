@@ -5,7 +5,6 @@ cask 'dafont-vermin-vibes-2-soft' do
     url 'http://dl.dafont.com/dl/?f=vermin_vibes_2_soft'
     name 'Vermin Vibes 2 Soft'
     homepage 'http://www.dafont.com/vermin-vibes-2-soft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vermin Vibes 2 Soft.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-summerscare' do
     url 'http://dl.dafont.com/dl/?f=summerscare'
     name 'Summer Scare'
     homepage 'http://www.dafont.com/summerscare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SummerScare.ttf'
 end

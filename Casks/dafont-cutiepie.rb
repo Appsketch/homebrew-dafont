@@ -5,7 +5,6 @@ cask 'dafont-cutiepie' do
     url 'http://dl.dafont.com/dl/?f=cutiepie'
     name 'Cutiepie'
     homepage 'http://www.dafont.com/cutiepie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cutiepie.ttf'
 end

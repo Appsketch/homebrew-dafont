@@ -5,7 +5,6 @@ cask 'dafont-andiron-outline' do
     url 'http://dl.dafont.com/dl/?f=andiron_outline'
     name 'Andiron Outline'
     homepage 'http://www.dafont.com/andiron-outline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANDIRONO.TTF'
 end

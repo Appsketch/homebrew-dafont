@@ -5,7 +5,6 @@ cask 'dafont-tribalisticafigures' do
     url 'http://dl.dafont.com/dl/?f=tribalisticafigures'
     name 'Tribalistica Figures'
     homepage 'http://www.dafont.com/tribalisticafigures.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TribalFigTwo.ttf'
     font 'TribalisticaFigures.ttf'

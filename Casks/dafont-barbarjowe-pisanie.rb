@@ -5,7 +5,6 @@ cask 'dafont-barbarjowe-pisanie' do
     url 'http://dl.dafont.com/dl/?f=barbarjowe_pisanie'
     name 'Barbarjowe Pisanie'
     homepage 'http://www.dafont.com/barbarjowe-pisanie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BARBARJA-1.ttf'
 end

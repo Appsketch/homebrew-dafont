@@ -5,7 +5,6 @@ cask 'dafont-tomipop-g' do
     url 'http://dl.dafont.com/dl/?f=tomipop_g'
     name 'Tomipop G'
     homepage 'http://www.dafont.com/tomipop-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_tomipop.ttf'
 end

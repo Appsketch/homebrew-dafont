@@ -5,7 +5,6 @@ cask 'dafont-droid-lover' do
     url 'http://dl.dafont.com/dl/?f=droid_lover'
     name 'Droid Lover'
     homepage 'http://www.dafont.com/droid-lover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'droidlover.ttf'
     font 'droidlover3d.ttf'

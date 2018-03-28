@@ -5,7 +5,6 @@ cask 'dafont-dendritic-voltage' do
     url 'http://dl.dafont.com/dl/?f=dendritic_voltage'
     name 'Dendritic Voltage'
     homepage 'http://www.dafont.com/dendritic-voltage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dendritic voltage.ttf'
 end

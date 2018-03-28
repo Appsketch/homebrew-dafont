@@ -5,7 +5,6 @@ cask 'dafont-tight-writer' do
     url 'http://dl.dafont.com/dl/?f=tight_writer'
     name 'Tight Writer'
     homepage 'http://www.dafont.com/tight-writer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TightWriter.otf'
 end

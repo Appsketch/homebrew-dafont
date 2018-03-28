@@ -5,7 +5,6 @@ cask 'dafont-albertino' do
     url 'http://dl.dafont.com/dl/?f=albertino'
     name 'Albertino'
     homepage 'http://www.dafont.com/albertino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Albertino_1.0.ttf'
 end

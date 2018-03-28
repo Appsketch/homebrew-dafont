@@ -5,7 +5,6 @@ cask 'dafont-jackiek' do
     url 'http://dl.dafont.com/dl/?f=jackiek'
     name 'Jackie K'
     homepage 'http://www.dafont.com/jackiek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JackieK.ttf'
 end

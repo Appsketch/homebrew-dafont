@@ -5,7 +5,6 @@ cask 'dafont-fontalicious-thingb' do
     url 'http://dl.dafont.com/dl/?f=fontalicious_thingb'
     name 'Fontalicious Thingbats'
     homepage 'http://www.dafont.com/fontalicious-thingb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FONTT___.TTF'
 end

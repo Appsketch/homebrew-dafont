@@ -5,7 +5,6 @@ cask 'dafont-mtf-hoo-rah' do
     url 'http://dl.dafont.com/dl/?f=mtf_hoo_rah'
     name 'MTF Hoo Rah'
     homepage 'http://www.dafont.com/mtf-hoo-rah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Hoo Rah.ttf'
 end

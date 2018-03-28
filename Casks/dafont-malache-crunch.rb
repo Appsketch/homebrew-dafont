@@ -5,7 +5,6 @@ cask 'dafont-malache-crunch' do
     url 'http://dl.dafont.com/dl/?f=malache_crunch'
     name 'Malache Crunch'
     homepage 'http://www.dafont.com/malache-crunch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'malache crunch.ttf'
 end

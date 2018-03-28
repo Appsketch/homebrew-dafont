@@ -5,7 +5,6 @@ cask 'dafont-sundays-are-boring' do
     url 'http://dl.dafont.com/dl/?f=sundays_are_boring'
     name 'Sundays are Boring'
     homepage 'http://www.dafont.com/sundays-are-boring.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUNDBN__.TTF'
 end

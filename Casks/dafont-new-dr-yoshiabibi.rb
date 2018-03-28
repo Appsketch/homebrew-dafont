@@ -5,7 +5,6 @@ cask 'dafont-new-dr-yoshiabibi' do
     url 'http://dl.dafont.com/dl/?f=new_dr_yoshiabibi'
     name 'New Dr. Yoshiabibi'
     homepage 'http://www.dafont.com/new-dr-yoshiabibi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dryoshiabibi.ttf'
 end

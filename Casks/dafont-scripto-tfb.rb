@@ -5,7 +5,6 @@ cask 'dafont-scripto-tfb' do
     url 'http://dl.dafont.com/dl/?f=scripto_tfb'
     name 'Scripto TFB'
     homepage 'http://www.dafont.com/scripto-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scripto tfb.ttf'
 end

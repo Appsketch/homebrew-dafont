@@ -5,7 +5,6 @@ cask 'dafont-fivedollar' do
     url 'http://dl.dafont.com/dl/?f=fivedollar'
     name 'Five Dollar'
     homepage 'http://www.dafont.com/fivedollar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FiveDollar.ttf'
 end

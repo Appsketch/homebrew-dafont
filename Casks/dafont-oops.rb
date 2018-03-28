@@ -5,7 +5,6 @@ cask 'dafont-oops' do
     url 'http://dl.dafont.com/dl/?f=oops'
     name 'Oops'
     homepage 'http://www.dafont.com/oops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oops.ttf'
 end

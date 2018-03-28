@@ -5,7 +5,6 @@ cask 'dafont-as-i-lay-dying' do
     url 'http://dl.dafont.com/dl/?f=as_i_lay_dying'
     name 'As I Lay Dying'
     homepage 'http://www.dafont.com/as-i-lay-dying.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'As_I_Lay_Dying.ttf'
 end

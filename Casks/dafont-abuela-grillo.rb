@@ -5,7 +5,6 @@ cask 'dafont-abuela-grillo' do
     url 'http://dl.dafont.com/dl/?f=abuela_grillo'
     name 'Abuela Grillo'
     homepage 'http://www.dafont.com/abuela-grillo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abuela Grillo.ttf'
 end

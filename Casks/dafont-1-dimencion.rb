@@ -5,7 +5,6 @@ cask 'dafont-1-dimencion' do
     url 'http://dl.dafont.com/dl/?f=1_dimencion'
     name '1 Dimencion'
     homepage 'http://www.dafont.com/1-dimencion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1 DIMENCION.ttf'
 end

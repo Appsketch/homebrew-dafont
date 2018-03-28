@@ -5,7 +5,6 @@ cask 'dafont-ranaqatarii' do
     url 'http://dl.dafont.com/dl/?f=ranaqatarii'
     name 'Rana Qatarii'
     homepage 'http://www.dafont.com/ranaqatarii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RanaQatarii.ttf'
 end

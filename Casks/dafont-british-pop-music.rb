@@ -5,7 +5,6 @@ cask 'dafont-british-pop-music' do
     url 'http://dl.dafont.com/dl/?f=british_pop_music'
     name 'British Pop Music'
     homepage 'http://www.dafont.com/british-pop-music.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'British Pop Music.ttf'
 end

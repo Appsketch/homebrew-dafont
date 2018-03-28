@@ -5,7 +5,6 @@ cask 'dafont-alicia-marie' do
     url 'http://dl.dafont.com/dl/?f=alicia_marie'
     name 'Alicia Marie'
     homepage 'http://www.dafont.com/alicia-marie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alicia_marie.ttf'
 end

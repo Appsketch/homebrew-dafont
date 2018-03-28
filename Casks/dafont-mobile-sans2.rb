@@ -5,7 +5,6 @@ cask 'dafont-mobile-sans2' do
     url 'http://dl.dafont.com/dl/?f=mobile_sans2'
     name 'Mobile Sans'
     homepage 'http://www.dafont.com/mobile-sans2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mobile Sans.ttf'
 end

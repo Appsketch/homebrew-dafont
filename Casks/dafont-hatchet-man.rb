@@ -5,7 +5,6 @@ cask 'dafont-hatchet-man' do
     url 'http://dl.dafont.com/dl/?f=hatchet_man'
     name 'Hatchet Man'
     homepage 'http://www.dafont.com/hatchet-man.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hatchetm.ttf'
 end

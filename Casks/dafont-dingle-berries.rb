@@ -5,7 +5,6 @@ cask 'dafont-dingle-berries' do
     url 'http://dl.dafont.com/dl/?f=dingle_berries'
     name 'Dingle Berries'
     homepage 'http://www.dafont.com/dingle-berries.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dingleSW.ttf'
 end

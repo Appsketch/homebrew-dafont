@@ -5,7 +5,6 @@ cask 'dafont-antilles' do
     url 'http://dl.dafont.com/dl/?f=antilles'
     name 'Antilles'
     homepage 'http://www.dafont.com/antilles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'antilles.ttf'
     font 'antilles3d.ttf'

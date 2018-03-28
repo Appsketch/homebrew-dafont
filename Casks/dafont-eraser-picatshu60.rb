@@ -5,7 +5,6 @@ cask 'dafont-eraser-picatshu60' do
     url 'http://dl.dafont.com/dl/?f=eraser_picatshu60'
     name 'Eraser'
     homepage 'http://www.dafont.com/eraser-picatshu60.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eraser.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-feronia' do
     url 'http://dl.dafont.com/dl/?f=feronia'
     name 'Feronia'
     homepage 'http://www.dafont.com/feronia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Feronia.ttf'
 end

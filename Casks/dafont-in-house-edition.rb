@@ -5,7 +5,6 @@ cask 'dafont-in-house-edition' do
     url 'http://dl.dafont.com/dl/?f=in_house_edition'
     name 'In-House Edition'
     homepage 'http://www.dafont.com/in-house-edition.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'inhouseedition.ttf'
     font 'inhouseedition3d.ttf'

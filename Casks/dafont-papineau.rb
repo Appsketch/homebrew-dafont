@@ -5,7 +5,6 @@ cask 'dafont-papineau' do
     url 'http://dl.dafont.com/dl/?f=papineau'
     name 'Papineau'
     homepage 'http://www.dafont.com/papineau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Papineau-Regular.ttf'
 end

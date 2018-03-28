@@ -5,7 +5,6 @@ cask 'dafont-kg-summer-storm' do
     url 'http://dl.dafont.com/dl/?f=kg_summer_storm'
     name 'KG Summer Storm'
     homepage 'http://www.dafont.com/kg-summer-storm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGSummerStormRough.ttf'
     font 'KGSummerStormSmooth.ttf'

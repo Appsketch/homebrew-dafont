@@ -5,7 +5,6 @@ cask 'dafont-nihat' do
     url 'http://dl.dafont.com/dl/?f=nihat'
     name 'Nihat'
     homepage 'http://www.dafont.com/nihat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nihat.ttf'
 end

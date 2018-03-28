@@ -5,7 +5,6 @@ cask 'dafont-sexyrexy-smitten' do
     url 'http://dl.dafont.com/dl/?f=sexyrexy_smitten'
     name 'Sexy Rexy Smitten'
     homepage 'http://www.dafont.com/sexyrexy-smitten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SexyRexy-Smitten.ttf'
 end

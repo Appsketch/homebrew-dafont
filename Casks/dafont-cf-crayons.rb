@@ -5,7 +5,6 @@ cask 'dafont-cf-crayons' do
     url 'http://dl.dafont.com/dl/?f=cf_crayons'
     name 'CF Crayons'
     homepage 'http://www.dafont.com/cf-crayons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFCrayons-Regular.ttf'
 end

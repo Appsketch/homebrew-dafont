@@ -5,7 +5,6 @@ cask 'dafont-technique' do
     url 'http://dl.dafont.com/dl/?f=technique'
     name 'Technique'
     homepage 'http://www.dafont.com/technique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TECHNIQUE.ttf'
 end

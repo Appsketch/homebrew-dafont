@@ -5,7 +5,6 @@ cask 'dafont-bright-line-7' do
     url 'http://dl.dafont.com/dl/?f=bright_line_7'
     name 'Bright Line 7'
     homepage 'http://www.dafont.com/bright-line-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bright_line_7.ttf'
 end

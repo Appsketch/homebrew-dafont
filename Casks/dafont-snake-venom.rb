@@ -5,7 +5,6 @@ cask 'dafont-snake-venom' do
     url 'http://dl.dafont.com/dl/?f=snake_venom'
     name 'Snake Venom'
     homepage 'http://www.dafont.com/snake-venom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SNAKV___.TTF'
 end

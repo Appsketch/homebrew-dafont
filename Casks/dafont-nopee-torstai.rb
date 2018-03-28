@@ -5,7 +5,6 @@ cask 'dafont-nopee-torstai' do
     url 'http://dl.dafont.com/dl/?f=nopee_torstai'
     name 'Nopee Torstai'
     homepage 'http://www.dafont.com/nopee-torstai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nopee Torstai.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-heart-becker' do
     url 'http://dl.dafont.com/dl/?f=heart_becker'
     name 'Heart Becker'
     homepage 'http://www.dafont.com/heart-becker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeartBlack Becker.ttf'
     font 'HeartWhiteBecker.ttf'

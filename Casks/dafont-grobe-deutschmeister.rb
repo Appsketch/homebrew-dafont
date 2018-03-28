@@ -5,7 +5,6 @@ cask 'dafont-grobe-deutschmeister' do
     url 'http://dl.dafont.com/dl/?f=grobe_deutschmeister'
     name 'Grobe Deutschmeister'
     homepage 'http://www.dafont.com/grobe-deutschmeister.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrobeDeutschmeister.ttf'
 end

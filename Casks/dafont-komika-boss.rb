@@ -5,7 +5,6 @@ cask 'dafont-komika-boss' do
     url 'http://dl.dafont.com/dl/?f=komika_boss'
     name 'Komika Boss'
     homepage 'http://www.dafont.com/komika-boss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKABS.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-basket-of-hammers' do
     url 'http://dl.dafont.com/dl/?f=_basket_of_hammers'
     name '!Basket of Hammers'
     homepage 'http://www.dafont.com/-basket-of-hammers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '!BoH-b.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-original-olinda-style' do
     url 'http://dl.dafont.com/dl/?f=original_olinda_style'
     name 'Original Olinda Style'
     homepage 'http://www.dafont.com/original-olinda-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Original_Olinda_Style.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-samys-keysnkeys' do
     url 'http://dl.dafont.com/dl/?f=samys_keysnkeys'
     name 'Samys Keys&#039;N&#039;Keys'
     homepage 'http://www.dafont.com/samys-keysnkeys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SamysKeysNKeys.ttf'
 end

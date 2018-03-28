@@ -5,7 +5,6 @@ cask 'dafont-sekooo' do
     url 'http://dl.dafont.com/dl/?f=sekooo'
     name 'Sekooo'
     homepage 'http://www.dafont.com/sekooo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sekooo.otf'
 end

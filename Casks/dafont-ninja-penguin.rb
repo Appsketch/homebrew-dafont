@@ -5,7 +5,6 @@ cask 'dafont-ninja-penguin' do
     url 'http://dl.dafont.com/dl/?f=ninja_penguin'
     name 'Ninja Penguin'
     homepage 'http://www.dafont.com/ninja-penguin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NINJP___.TTF'
 end

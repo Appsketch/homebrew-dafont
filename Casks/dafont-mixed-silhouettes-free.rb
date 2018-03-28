@@ -5,7 +5,6 @@ cask 'dafont-mixed-silhouettes-free' do
     url 'http://dl.dafont.com/dl/?f=mixed_silhouettes_free'
     name 'Mixed Silhouettes Free'
     homepage 'http://www.dafont.com/mixed-silhouettes-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mixed Silhouettes Free.ttf'
 end

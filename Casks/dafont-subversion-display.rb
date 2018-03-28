@@ -5,7 +5,6 @@ cask 'dafont-subversion-display' do
     url 'http://dl.dafont.com/dl/?f=subversion_display'
     name 'Subversion Display'
     homepage 'http://www.dafont.com/subversion-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Subversion.otf'
 end

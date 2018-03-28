@@ -5,7 +5,6 @@ cask 'dafont-djb-just-dont-call-me-crazy' do
     url 'http://dl.dafont.com/dl/?f=djb_just_dont_call_me_crazy'
     name 'DJB Just Don&#039;t Call Me Crazy'
     homepage 'http://www.dafont.com/djb-just-dont-call-me-crazy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Just Don&#039;t Call Me Crazy.ttf'
 end

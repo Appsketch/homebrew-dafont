@@ -5,7 +5,6 @@ cask 'dafont-kr-scrappin-squares' do
     url 'http://dl.dafont.com/dl/?f=kr_scrappin_squares'
     name 'KR Scrappin Squares'
     homepage 'http://www.dafont.com/kr-scrappin-squares.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Scrappin Squares.ttf'
 end

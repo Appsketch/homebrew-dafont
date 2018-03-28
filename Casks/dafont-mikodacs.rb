@@ -5,7 +5,6 @@ cask 'dafont-mikodacs' do
     url 'http://dl.dafont.com/dl/?f=mikodacs'
     name 'Mikodacs'
     homepage 'http://www.dafont.com/mikodacs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mikodacs.otf'
     font 'MikodacsPCS.otf'

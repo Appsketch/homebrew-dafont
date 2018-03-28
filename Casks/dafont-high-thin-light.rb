@@ -5,7 +5,6 @@ cask 'dafont-high-thin-light' do
     url 'http://dl.dafont.com/dl/?f=high_thin_light'
     name 'High Thin Light'
     homepage 'http://www.dafont.com/high-thin-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'High Thin LIGHT.ttf'
 end

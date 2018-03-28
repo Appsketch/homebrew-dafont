@@ -5,7 +5,6 @@ cask 'dafont-wishbone' do
     url 'http://dl.dafont.com/dl/?f=wishbone'
     name 'Wishbone'
     homepage 'http://www.dafont.com/wishbone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wishbone_fontlab.ttf'
 end

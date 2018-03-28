@@ -5,7 +5,6 @@ cask 'dafont-jh-titles' do
     url 'http://dl.dafont.com/dl/?f=jh_titles'
     name 'JH Titles'
     homepage 'http://www.dafont.com/jh-titles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JH_TITLES.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lithium' do
     url 'http://dl.dafont.com/dl/?f=lithium'
     name 'Lithium'
     homepage 'http://www.dafont.com/lithium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LITHIUM_.TTF'
 end

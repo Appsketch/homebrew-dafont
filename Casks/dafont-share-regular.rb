@@ -5,7 +5,6 @@ cask 'dafont-share-regular' do
     url 'http://dl.dafont.com/dl/?f=share_regular'
     name 'Share'
     homepage 'http://www.dafont.com/share-regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Share-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gipsiero' do
     url 'http://dl.dafont.com/dl/?f=gipsiero'
     name 'Gipsiero'
     homepage 'http://www.dafont.com/gipsiero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gipsiero Kracxed.otf'
     font 'Gipsiero OwtLine.otf'

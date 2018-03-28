@@ -5,7 +5,6 @@ cask 'dafont-mklammer-affen' do
     url 'http://dl.dafont.com/dl/?f=mklammer_affen'
     name 'MKlammer Affen'
     homepage 'http://www.dafont.com/mklammer-affen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Klammeraffen-Italic.ttf'
     font 'MKlammerAffen.ttf'

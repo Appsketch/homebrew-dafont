@@ -5,7 +5,6 @@ cask 'dafont-english-football-club-badges' do
     url 'http://dl.dafont.com/dl/?f=english_football_club_badges'
     name 'English Football Club Badges'
     homepage 'http://www.dafont.com/english-football-club-badges.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EnglishFootballClubBadges.ttf'
 end

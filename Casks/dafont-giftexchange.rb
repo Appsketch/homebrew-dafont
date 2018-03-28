@@ -5,7 +5,6 @@ cask 'dafont-giftexchange' do
     url 'http://dl.dafont.com/dl/?f=giftexchange'
     name 'Gift Exchange'
     homepage 'http://www.dafont.com/giftexchange.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GiftExchange.ttf'
 end

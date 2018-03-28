@@ -5,7 +5,6 @@ cask 'dafont-crystal-radio-kit' do
     url 'http://dl.dafont.com/dl/?f=crystal_radio_kit'
     name 'Crystal Radio Kit'
     homepage 'http://www.dafont.com/crystal-radio-kit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crystal radio kit.ttf'
 end

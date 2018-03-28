@@ -5,7 +5,6 @@ cask 'dafont-fuck-you-las-vegas' do
     url 'http://dl.dafont.com/dl/?f=fuck_you_las_vegas'
     name 'Fuck you Las Vegas'
     homepage 'http://www.dafont.com/fuck-you-las-vegas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FUCKY___.TTF'
 end

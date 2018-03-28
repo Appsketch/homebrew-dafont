@@ -5,7 +5,6 @@ cask 'dafont-handingover' do
     url 'http://dl.dafont.com/dl/?f=handingover'
     name 'Handing Over'
     homepage 'http://www.dafont.com/handingover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HandingOver.ttf'
 end

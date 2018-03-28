@@ -5,7 +5,6 @@ cask 'dafont-strassburg-fraktur' do
     url 'http://dl.dafont.com/dl/?f=strassburg_fraktur'
     name 'Strassburg Fraktur'
     homepage 'http://www.dafont.com/strassburg-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'strassburg fraktur.ttf'
 end

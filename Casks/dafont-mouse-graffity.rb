@@ -5,7 +5,6 @@ cask 'dafont-mouse-graffity' do
     url 'http://dl.dafont.com/dl/?f=mouse_graffity'
     name 'Mouse Graffity'
     homepage 'http://www.dafont.com/mouse-graffity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MouseGrafitty.ttf'
 end

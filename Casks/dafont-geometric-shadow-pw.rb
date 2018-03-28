@@ -5,7 +5,6 @@ cask 'dafont-geometric-shadow-pw' do
     url 'http://dl.dafont.com/dl/?f=geometric_shadow_pw'
     name 'Geometric Shadow PW'
     homepage 'http://www.dafont.com/geometric-shadow-pw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'geometric_pw_shadow.ttf'
 end

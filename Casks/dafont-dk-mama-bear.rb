@@ -5,7 +5,6 @@ cask 'dafont-dk-mama-bear' do
     url 'http://dl.dafont.com/dl/?f=dk_mama_bear'
     name 'DK Mama Bear'
     homepage 'http://www.dafont.com/dk-mama-bear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Mama Bear.otf'
 end

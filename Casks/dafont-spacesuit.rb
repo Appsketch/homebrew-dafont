@@ -5,7 +5,6 @@ cask 'dafont-spacesuit' do
     url 'http://dl.dafont.com/dl/?f=spacesuit'
     name 'Spacesuit'
     homepage 'http://www.dafont.com/spacesuit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPACESUI.TTF'
 end

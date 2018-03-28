@@ -5,7 +5,6 @@ cask 'dafont-norfolk' do
     url 'http://dl.dafont.com/dl/?f=norfolk'
     name 'Norfolk'
     homepage 'http://www.dafont.com/norfolk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Norfolk Bold Italic.otf'
     font 'Norfolk Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-flex-display' do
     url 'http://dl.dafont.com/dl/?f=flex_display'
     name 'Flex Display'
     homepage 'http://www.dafont.com/flex-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlexDisplay-Thin.otf'
 end

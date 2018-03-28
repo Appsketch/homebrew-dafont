@@ -5,7 +5,6 @@ cask 'dafont-vtks-38' do
     url 'http://dl.dafont.com/dl/?f=vtks_38'
     name 'Vtks 38'
     homepage 'http://www.dafont.com/vtks-38.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS 38.ttf'
 end

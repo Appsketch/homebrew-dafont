@@ -5,7 +5,6 @@ cask 'dafont-royal-rumble' do
     url 'http://dl.dafont.com/dl/?f=royal_rumble'
     name 'Royal Rumble'
     homepage 'http://www.dafont.com/royal-rumble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Royal Rumble.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-penguin' do
     url 'http://dl.dafont.com/dl/?f=penguin'
     name 'Penguin'
     homepage 'http://www.dafont.com/penguin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Penguin.ttf'
 end

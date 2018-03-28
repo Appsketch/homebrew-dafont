@@ -5,7 +5,6 @@ cask 'dafont-pixolde' do
     url 'http://dl.dafont.com/dl/?f=pixolde'
     name 'Pixolde'
     homepage 'http://www.dafont.com/pixolde.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixolde.ttf'
 end

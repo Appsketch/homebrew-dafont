@@ -5,7 +5,6 @@ cask 'dafont-maras-eye' do
     url 'http://dl.dafont.com/dl/?f=maras_eye'
     name 'Mara&#039;s Eye'
     homepage 'http://www.dafont.com/maras-eye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mara&#039;s Eye.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-eskargot' do
     url 'http://dl.dafont.com/dl/?f=eskargot'
     name 'Eskargot'
     homepage 'http://www.dafont.com/eskargot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ESKARGOT.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hsfcuartomenguante' do
     url 'http://dl.dafont.com/dl/?f=hsfcuartomenguante'
     name 'Hsf Cuarto Menguante'
     homepage 'http://www.dafont.com/hsfcuartomenguante.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HsfCuartoMenguante.ttf'
 end

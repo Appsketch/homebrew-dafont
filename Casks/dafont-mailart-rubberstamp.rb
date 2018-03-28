@@ -5,7 +5,6 @@ cask 'dafont-mailart-rubberstamp' do
     url 'http://dl.dafont.com/dl/?f=mailart_rubberstamp'
     name 'Mailart Rubberstamp'
     homepage 'http://www.dafont.com/mailart-rubberstamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MailartRubberstamp-Regular.otf'
 end

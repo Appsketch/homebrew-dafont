@@ -5,7 +5,6 @@ cask 'dafont-arthus-hightone' do
     url 'http://dl.dafont.com/dl/?f=arthus_hightone'
     name 'Arthus Hightone'
     homepage 'http://www.dafont.com/arthus-hightone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arthus1 Hig6htone.ttf'
 end

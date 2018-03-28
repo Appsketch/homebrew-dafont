@@ -5,7 +5,6 @@ cask 'dafont-vbdings' do
     url 'http://dl.dafont.com/dl/?f=vbdings'
     name 'VBdings'
     homepage 'http://www.dafont.com/vbdings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VBdings.ttf'
 end

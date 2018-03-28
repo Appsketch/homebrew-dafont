@@ -5,7 +5,6 @@ cask 'dafont-last-king-quest' do
     url 'http://dl.dafont.com/dl/?f=last_king_quest'
     name 'Last King Quest'
     homepage 'http://www.dafont.com/last-king-quest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Last King Quest.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sabor' do
     url 'http://dl.dafont.com/dl/?f=sabor'
     name 'Sabor'
     homepage 'http://www.dafont.com/sabor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sabor Limited Free Version.ttf'
 end

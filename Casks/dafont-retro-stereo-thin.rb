@@ -5,7 +5,6 @@ cask 'dafont-retro-stereo-thin' do
     url 'http://dl.dafont.com/dl/?f=retro_stereo_thin'
     name 'Retro Stereo Thin'
     homepage 'http://www.dafont.com/retro-stereo-thin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Retro Stereo Thin Alternate.ttf'
     font 'Retro_Stereo_Thin.ttf'

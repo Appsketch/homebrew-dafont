@@ -5,7 +5,6 @@ cask 'dafont-thunderhead' do
     url 'http://dl.dafont.com/dl/?f=thunderhead'
     name 'Thunder Head'
     homepage 'http://www.dafont.com/thunderhead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThunderHead.ttf'
 end

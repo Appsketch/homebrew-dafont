@@ -5,7 +5,6 @@ cask 'dafont-infierno' do
     url 'http://dl.dafont.com/dl/?f=infierno'
     name 'Infierno'
     homepage 'http://www.dafont.com/infierno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'infierno.ttf'
 end

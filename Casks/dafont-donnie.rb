@@ -5,7 +5,6 @@ cask 'dafont-donnie' do
     url 'http://dl.dafont.com/dl/?f=donnie'
     name 'Donnie'
     homepage 'http://www.dafont.com/donnie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DONNIENN.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dock-11' do
     url 'http://dl.dafont.com/dl/?f=dock_11'
     name 'Dock 11'
     homepage 'http://www.dafont.com/dock-11.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'heavy_dock11.otf'
 end

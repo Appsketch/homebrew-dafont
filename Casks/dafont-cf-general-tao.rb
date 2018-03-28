@@ -5,7 +5,6 @@ cask 'dafont-cf-general-tao' do
     url 'http://dl.dafont.com/dl/?f=cf_general_tao'
     name 'CF General Tao'
     homepage 'http://www.dafont.com/cf-general-tao.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFGeneralTao-Regular.ttf'
 end

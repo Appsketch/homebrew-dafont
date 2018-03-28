@@ -5,7 +5,6 @@ cask 'dafont-unscreen-mk' do
     url 'http://dl.dafont.com/dl/?f=unscreen_mk'
     name 'Unscreen MK'
     homepage 'http://www.dafont.com/unscreen-mk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UnscreenMK.ttf'
 end

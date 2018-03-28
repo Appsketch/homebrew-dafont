@@ -5,7 +5,6 @@ cask 'dafont-kick-to-the-face' do
     url 'http://dl.dafont.com/dl/?f=kick_to_the_face'
     name 'Kick To The Face'
     homepage 'http://www.dafont.com/kick-to-the-face.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KickToTheFace.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mtf-oopsie' do
     url 'http://dl.dafont.com/dl/?f=mtf_oopsie'
     name 'MTF Oopsie'
     homepage 'http://www.dafont.com/mtf-oopsie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Oopsie Daisie.ttf'
     font 'MTF Oopsie.ttf'

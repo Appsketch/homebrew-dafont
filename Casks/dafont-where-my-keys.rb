@@ -5,7 +5,6 @@ cask 'dafont-where-my-keys' do
     url 'http://dl.dafont.com/dl/?f=where_my_keys'
     name 'Where My Keys'
     homepage 'http://www.dafont.com/where-my-keys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Where My Keys.otf'
 end

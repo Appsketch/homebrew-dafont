@@ -5,7 +5,6 @@ cask 'dafont-serpentis-black' do
     url 'http://dl.dafont.com/dl/?f=serpentis_black'
     name 'Serpentis Black'
     homepage 'http://www.dafont.com/serpentis-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SerpentisBlack.ttf'
 end

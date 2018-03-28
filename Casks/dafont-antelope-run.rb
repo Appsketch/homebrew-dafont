@@ -5,7 +5,6 @@ cask 'dafont-antelope-run' do
     url 'http://dl.dafont.com/dl/?f=antelope_run'
     name 'Antelope Run'
     homepage 'http://www.dafont.com/antelope-run.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Antelope Run.ttf'
 end

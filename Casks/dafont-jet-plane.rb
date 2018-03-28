@@ -5,7 +5,6 @@ cask 'dafont-jet-plane' do
     url 'http://dl.dafont.com/dl/?f=jet_plane'
     name 'Jet Plane'
     homepage 'http://www.dafont.com/jet-plane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JETPLANE.TTF'
 end

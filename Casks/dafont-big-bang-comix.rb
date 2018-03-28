@@ -5,7 +5,6 @@ cask 'dafont-big-bang-comix' do
     url 'http://dl.dafont.com/dl/?f=big_bang_comix'
     name 'Big Bang Comix'
     homepage 'http://www.dafont.com/big-bang-comix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigBangComix.ttf'
 end

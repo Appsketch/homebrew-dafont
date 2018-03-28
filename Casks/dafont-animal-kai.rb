@@ -5,7 +5,6 @@ cask 'dafont-animal-kai' do
     url 'http://dl.dafont.com/dl/?f=animal_kai'
     name 'Animal Kai'
     homepage 'http://www.dafont.com/animal-kai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'animal_kai.ttf'
 end

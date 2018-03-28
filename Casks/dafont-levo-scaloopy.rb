@@ -5,7 +5,6 @@ cask 'dafont-levo-scaloopy' do
     url 'http://dl.dafont.com/dl/?f=levo_scaloopy'
     name 'LEVO Scaloopy'
     homepage 'http://www.dafont.com/levo-scaloopy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEVO Scaloopy FRE.ttf'
 end

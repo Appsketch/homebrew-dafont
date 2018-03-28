@@ -5,7 +5,6 @@ cask 'dafont-wood2' do
     url 'http://dl.dafont.com/dl/?f=wood2'
     name 'Wood 2'
     homepage 'http://www.dafont.com/wood2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wood 2.ttf'
 end

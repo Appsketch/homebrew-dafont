@@ -5,7 +5,6 @@ cask 'dafont-olho-de-boi' do
     url 'http://dl.dafont.com/dl/?f=olho_de_boi'
     name 'Olho de Boi'
     homepage 'http://www.dafont.com/olho-de-boi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Olho de Boi.ttf'
 end

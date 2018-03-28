@@ -5,7 +5,6 @@ cask 'dafont-accion-dingbat-tipografia' do
     url 'http://dl.dafont.com/dl/?f=accion_dingbat_tipografia'
     name 'Accion Dingbat Tipografia'
     homepage 'http://www.dafont.com/accion-dingbat-tipografia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'accion dingbat tipografia.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ghostlight' do
     url 'http://dl.dafont.com/dl/?f=ghostlight'
     name 'Ghostlight'
     homepage 'http://www.dafont.com/ghostlight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ghostlight-Bold.ttf'
     font 'Ghostlight-BoldItalic.ttf'

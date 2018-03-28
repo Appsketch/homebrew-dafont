@@ -5,7 +5,6 @@ cask 'dafont-x-prism' do
     url 'http://dl.dafont.com/dl/?f=x_prism'
     name 'X-Prism'
     homepage 'http://www.dafont.com/x-prism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'X-PRISM.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mbchickenscratch' do
     url 'http://dl.dafont.com/dl/?f=mbchickenscratch'
     name 'MB Chicken Scratch'
     homepage 'http://www.dafont.com/mbchickenscratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MBChickenScratch.ttf'
 end

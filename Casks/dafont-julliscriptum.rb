@@ -5,7 +5,6 @@ cask 'dafont-julliscriptum' do
     url 'http://dl.dafont.com/dl/?f=julliscriptum'
     name 'Julliscriptum'
     homepage 'http://www.dafont.com/julliscriptum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Julliscriptum2.ttf'
 end

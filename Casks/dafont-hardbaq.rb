@@ -5,7 +5,6 @@ cask 'dafont-hardbaq' do
     url 'http://dl.dafont.com/dl/?f=hardbaq'
     name 'Hardbaq'
     homepage 'http://www.dafont.com/hardbaq.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hardbaq-bold.ttf'
     font 'hardbaq-regular.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-meccano-font' do
     url 'http://dl.dafont.com/dl/?f=meccano_font'
     name 'Meccano Font'
     homepage 'http://www.dafont.com/meccano-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Meccano Font.ttf'
 end

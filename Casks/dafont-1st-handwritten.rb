@@ -5,7 +5,6 @@ cask 'dafont-1st-handwritten' do
     url 'http://dl.dafont.com/dl/?f=1st_handwritten'
     name '1st Handwritten'
     homepage 'http://www.dafont.com/1st-handwritten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1stHandwrittenRAB1DRABB1T.ttf'
 end

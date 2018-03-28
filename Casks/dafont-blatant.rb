@@ -5,7 +5,6 @@ cask 'dafont-blatant' do
     url 'http://dl.dafont.com/dl/?f=blatant'
     name 'Blatant'
     homepage 'http://www.dafont.com/blatant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLATANT.TTF'
 end

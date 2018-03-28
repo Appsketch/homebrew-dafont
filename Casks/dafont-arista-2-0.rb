@@ -5,7 +5,6 @@ cask 'dafont-arista-2-0' do
     url 'http://dl.dafont.com/dl/?f=arista_2_0'
     name 'Arista 2.0'
     homepage 'http://www.dafont.com/arista-2-0.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arista2.0 Alternate light.ttf'
     font 'Arista2.0 light.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-dk-rum-doodle' do
     url 'http://dl.dafont.com/dl/?f=dk_rum_doodle'
     name 'DK Rum Doodle'
     homepage 'http://www.dafont.com/dk-rum-doodle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Rum Doodle.otf'
 end

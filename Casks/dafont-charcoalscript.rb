@@ -5,7 +5,6 @@ cask 'dafont-charcoalscript' do
     url 'http://dl.dafont.com/dl/?f=charcoalscript'
     name 'Charcoal Script'
     homepage 'http://www.dafont.com/charcoalscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CharcoalScript.ttf'
 end

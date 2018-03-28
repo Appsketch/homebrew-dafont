@@ -5,7 +5,6 @@ cask 'dafont-ktf-roadbrush' do
     url 'http://dl.dafont.com/dl/?f=ktf_roadbrush'
     name 'KTF Roadbrush'
     homepage 'http://www.dafont.com/ktf-roadbrush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KTF-Roadbrush.ttf'
 end

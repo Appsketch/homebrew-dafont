@@ -5,7 +5,6 @@ cask 'dafont-vaca' do
     url 'http://dl.dafont.com/dl/?f=vaca'
     name 'Vaca'
     homepage 'http://www.dafont.com/vaca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vaca.ttf'
 end

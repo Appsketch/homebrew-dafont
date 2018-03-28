@@ -5,7 +5,6 @@ cask 'dafont-realprizes' do
     url 'http://dl.dafont.com/dl/?f=realprizes'
     name 'Real Prizes'
     homepage 'http://www.dafont.com/realprizes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RealPrizes-Italic.ttf'
     font 'RealPrizes-VeryItalic.ttf'

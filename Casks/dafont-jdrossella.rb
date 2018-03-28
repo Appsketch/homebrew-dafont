@@ -5,7 +5,6 @@ cask 'dafont-jdrossella' do
     url 'http://dl.dafont.com/dl/?f=jdrossella'
     name 'JDRossella'
     homepage 'http://www.dafont.com/jdrossella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_rossella.ttf'
 end

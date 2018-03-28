@@ -5,7 +5,6 @@ cask 'dafont-brennan' do
     url 'http://dl.dafont.com/dl/?f=brennan'
     name 'Brennan'
     homepage 'http://www.dafont.com/brennan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brennan.ttf'
 end

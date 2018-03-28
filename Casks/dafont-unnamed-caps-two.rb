@@ -5,7 +5,6 @@ cask 'dafont-unnamed-caps-two' do
     url 'http://dl.dafont.com/dl/?f=unnamed_caps_two'
     name 'Unnamed Caps Two'
     homepage 'http://www.dafont.com/unnamed-caps-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unnamed Caps Two.ttf'
 end

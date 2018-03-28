@@ -5,7 +5,6 @@ cask 'dafont-drakoheart-leiend' do
     url 'http://dl.dafont.com/dl/?f=drakoheart_leiend'
     name 'Drakoheart Leiend'
     homepage 'http://www.dafont.com/drakoheart-leiend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drakoheart Leiend Bold Italic.ttf'
     font 'Drakoheart Leiend Bold.ttf'

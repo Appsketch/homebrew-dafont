@@ -5,7 +5,6 @@ cask 'dafont-fha-condensed-french-nc' do
     url 'http://dl.dafont.com/dl/?f=fha_condensed_french_nc'
     name 'FHA Condensed French NC'
     homepage 'http://www.dafont.com/fha-condensed-french-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FHACondFrenchNC.otf'
     font 'FHACondFrenchShadedNC.otf'

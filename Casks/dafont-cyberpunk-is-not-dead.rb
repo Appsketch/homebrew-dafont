@@ -5,7 +5,6 @@ cask 'dafont-cyberpunk-is-not-dead' do
     url 'http://dl.dafont.com/dl/?f=cyberpunk_is_not_dead'
     name 'Cyberpunk Is Not Dead'
     homepage 'http://www.dafont.com/cyberpunk-is-not-dead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CIND.otf'
 end

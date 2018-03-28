@@ -5,7 +5,6 @@ cask 'dafont-hff-chinese-dragon' do
     url 'http://dl.dafont.com/dl/?f=hff_chinese_dragon'
     name 'HFF Chinese Dragon'
     homepage 'http://www.dafont.com/hff-chinese-dragon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Chinese Dragon.ttf'
 end

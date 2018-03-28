@@ -5,7 +5,6 @@ cask 'dafont-florabetic' do
     url 'http://dl.dafont.com/dl/?f=florabetic'
     name 'Florabetic'
     homepage 'http://www.dafont.com/florabetic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Florabetic.ttf'
 end

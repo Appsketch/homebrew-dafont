@@ -5,7 +5,6 @@ cask 'dafont-bublemuble' do
     url 'http://dl.dafont.com/dl/?f=bublemuble'
     name 'Buble Muble'
     homepage 'http://www.dafont.com/bublemuble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BubleMuble.ttf'
 end

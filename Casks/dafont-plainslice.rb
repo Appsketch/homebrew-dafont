@@ -5,7 +5,6 @@ cask 'dafont-plainslice' do
     url 'http://dl.dafont.com/dl/?f=plainslice'
     name 'Plain Slice'
     homepage 'http://www.dafont.com/plainslice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PlainSlice.ttf'
 end

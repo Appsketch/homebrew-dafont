@@ -5,7 +5,6 @@ cask 'dafont-arminsfrozenpeas' do
     url 'http://dl.dafont.com/dl/?f=arminsfrozenpeas'
     name 'ArminsFrozenPeas'
     homepage 'http://www.dafont.com/arminsfrozenpeas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArminsFrozenPeas.ttf'
 end

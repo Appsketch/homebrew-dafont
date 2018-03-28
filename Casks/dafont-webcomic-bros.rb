@@ -5,7 +5,6 @@ cask 'dafont-webcomic-bros' do
     url 'http://dl.dafont.com/dl/?f=webcomic_bros'
     name 'Webcomic Bros'
     homepage 'http://www.dafont.com/webcomic-bros.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Webcomic Bros_bold.ttf'
     font 'Webcomic Bros_boldital.ttf'

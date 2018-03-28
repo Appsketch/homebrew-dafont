@@ -5,7 +5,6 @@ cask 'dafont-mp-switchy' do
     url 'http://dl.dafont.com/dl/?f=mp_switchy'
     name 'MP SwitchY'
     homepage 'http://www.dafont.com/mp-switchy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MPSwitchY.ttf'
 end

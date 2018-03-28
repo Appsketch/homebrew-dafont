@@ -5,7 +5,6 @@ cask 'dafont-letsgo' do
     url 'http://dl.dafont.com/dl/?f=letsgo'
     name 'Lets Go'
     homepage 'http://www.dafont.com/letsgo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LetsGo.ttf'
 end

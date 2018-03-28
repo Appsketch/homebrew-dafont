@@ -5,7 +5,6 @@ cask 'dafont-kz-excel' do
     url 'http://dl.dafont.com/dl/?f=kz_excel'
     name 'KZ Excel'
     homepage 'http://www.dafont.com/kz-excel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KZEXCEL.TTF'
 end

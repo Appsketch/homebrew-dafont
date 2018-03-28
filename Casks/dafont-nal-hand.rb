@@ -5,7 +5,6 @@ cask 'dafont-nal-hand' do
     url 'http://dl.dafont.com/dl/?f=nal_hand'
     name 'NAL Hand'
     homepage 'http://www.dafont.com/nal-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NAL Hand.otf'
 end

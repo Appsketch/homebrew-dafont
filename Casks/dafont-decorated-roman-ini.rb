@@ -5,7 +5,6 @@ cask 'dafont-decorated-roman-ini' do
     url 'http://dl.dafont.com/dl/?f=decorated_roman_ini'
     name 'Decorated Roman Initials'
     homepage 'http://www.dafont.com/decorated-roman-ini.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DecoratedRomanInitials.ttf'
 end

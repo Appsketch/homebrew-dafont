@@ -5,7 +5,6 @@ cask 'dafont-kg-all-of-the-stars' do
     url 'http://dl.dafont.com/dl/?f=kg_all_of_the_stars'
     name 'KG All of the Stars'
     homepage 'http://www.dafont.com/kg-all-of-the-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGAlloftheStars.ttf'
 end

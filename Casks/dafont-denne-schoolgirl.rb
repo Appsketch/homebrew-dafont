@@ -5,7 +5,6 @@ cask 'dafont-denne-schoolgirl' do
     url 'http://dl.dafont.com/dl/?f=denne_schoolgirl'
     name 'Denne schooLgirL'
     homepage 'http://www.dafont.com/denne-schoolgirl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DENNE-schooLgirL.ttf'
 end

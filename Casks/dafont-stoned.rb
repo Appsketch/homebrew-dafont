@@ -5,7 +5,6 @@ cask 'dafont-stoned' do
     url 'http://dl.dafont.com/dl/?f=stoned'
     name 'Stoned'
     homepage 'http://www.dafont.com/stoned.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stoned.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-new-mars' do
     url 'http://dl.dafont.com/dl/?f=new_mars'
     name 'New Mars'
     homepage 'http://www.dafont.com/new-mars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'newmars.ttf'
     font 'newmars3d.ttf'

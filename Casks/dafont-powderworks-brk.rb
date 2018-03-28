@@ -5,7 +5,6 @@ cask 'dafont-powderworks-brk' do
     url 'http://dl.dafont.com/dl/?f=powderworks_brk'
     name 'Powderworks BRK'
     homepage 'http://www.dafont.com/powderworks-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'powdwrk5.ttf'
 end

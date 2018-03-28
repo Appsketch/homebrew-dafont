@@ -5,7 +5,6 @@ cask 'dafont-always-together' do
     url 'http://dl.dafont.com/dl/?f=always_together'
     name 'Always Together'
     homepage 'http://www.dafont.com/always-together.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Always Together.otf'
 end

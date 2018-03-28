@@ -5,7 +5,6 @@ cask 'dafont-pwperspective' do
     url 'http://dl.dafont.com/dl/?f=pwperspective'
     name 'PW Perspective'
     homepage 'http://www.dafont.com/pwperspective.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWPerspective.ttf'
 end

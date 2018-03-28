@@ -5,7 +5,6 @@ cask 'dafont-black-roses' do
     url 'http://dl.dafont.com/dl/?f=black_roses'
     name 'Black Roses'
     homepage 'http://www.dafont.com/black-roses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLACR___.TTF'
 end

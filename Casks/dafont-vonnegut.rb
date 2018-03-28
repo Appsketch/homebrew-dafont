@@ -5,7 +5,6 @@ cask 'dafont-vonnegut' do
     url 'http://dl.dafont.com/dl/?f=vonnegut'
     name 'Vonnegut'
     homepage 'http://www.dafont.com/vonnegut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vonnegut.ttf'
 end

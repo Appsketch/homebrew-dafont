@@ -5,7 +5,6 @@ cask 'dafont-5railway-script' do
     url 'http://dl.dafont.com/dl/?f=5railway_script'
     name '5 Railway Script'
     homepage 'http://www.dafont.com/5railway-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5railway_script.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mac-dingbats' do
     url 'http://dl.dafont.com/dl/?f=mac_dingbats'
     name 'Mac Dingbats'
     homepage 'http://www.dafont.com/mac-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAC_DING.ttf'
 end

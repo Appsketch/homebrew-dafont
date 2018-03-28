@@ -5,7 +5,6 @@ cask 'dafont-bombu' do
     url 'http://dl.dafont.com/dl/?f=bombu'
     name 'Bombu'
     homepage 'http://www.dafont.com/bombu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bombu.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-right-balance' do
     url 'http://dl.dafont.com/dl/?f=right_balance'
     name 'Right Balance'
     homepage 'http://www.dafont.com/right-balance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RightBalance.ttf'
 end

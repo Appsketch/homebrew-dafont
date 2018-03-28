@@ -5,7 +5,6 @@ cask 'dafont-rocky-road' do
     url 'http://dl.dafont.com/dl/?f=rocky_road'
     name 'Rocky Road'
     homepage 'http://www.dafont.com/rocky-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rocky Road.otf'
 end

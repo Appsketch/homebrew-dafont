@@ -5,7 +5,6 @@ cask 'dafont-historian' do
     url 'http://dl.dafont.com/dl/?f=historian'
     name 'Historian'
     homepage 'http://www.dafont.com/historian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Historian.ttf'
     font 'HistorianBold.ttf'

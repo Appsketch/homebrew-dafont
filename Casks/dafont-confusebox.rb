@@ -5,7 +5,6 @@ cask 'dafont-confusebox' do
     url 'http://dl.dafont.com/dl/?f=confusebox'
     name 'Confusebox'
     homepage 'http://www.dafont.com/confusebox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CONFUSE.TTF'
 end

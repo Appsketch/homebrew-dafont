@@ -5,7 +5,6 @@ cask 'dafont-scoder-hand' do
     url 'http://dl.dafont.com/dl/?f=scoder_hand'
     name 'Scoder Hand'
     homepage 'http://www.dafont.com/scoder-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scoder Hand.ttf'
 end

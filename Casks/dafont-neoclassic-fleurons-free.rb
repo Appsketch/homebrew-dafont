@@ -5,7 +5,6 @@ cask 'dafont-neoclassic-fleurons-free' do
     url 'http://dl.dafont.com/dl/?f=neoclassic_fleurons_free'
     name 'Neoclassic Fleurons'
     homepage 'http://www.dafont.com/neoclassic-fleurons-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeoclassicFleuronsFree.otf'
 end

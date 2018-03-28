@@ -5,7 +5,6 @@ cask 'dafont-ashby' do
     url 'http://dl.dafont.com/dl/?f=ashby'
     name 'Ashby'
     homepage 'http://www.dafont.com/ashby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASHBB___.ttf'
     font 'ASHBBI__.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-enya' do
     url 'http://dl.dafont.com/dl/?f=enya'
     name 'Enya'
     homepage 'http://www.dafont.com/enya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ENP_____.TTF'
     font 'enyalogo.ttf'

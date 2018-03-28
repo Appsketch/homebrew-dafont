@@ -5,7 +5,6 @@ cask 'dafont-visionaries' do
     url 'http://dl.dafont.com/dl/?f=visionaries'
     name 'Visionaries'
     homepage 'http://www.dafont.com/visionaries.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Visionaries 2.ttf'
     font 'Visionaries.ttf'

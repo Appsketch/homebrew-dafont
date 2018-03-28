@@ -5,7 +5,6 @@ cask 'dafont-you-know-it' do
     url 'http://dl.dafont.com/dl/?f=you_know_it'
     name 'You Know It'
     homepage 'http://www.dafont.com/you-know-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YouKnowIt.ttf'
 end

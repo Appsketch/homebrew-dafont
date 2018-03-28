@@ -5,7 +5,6 @@ cask 'dafont-hand-textur' do
     url 'http://dl.dafont.com/dl/?f=hand_textur'
     name 'Hand Textur'
     homepage 'http://www.dafont.com/hand-textur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HandTextur.ttf'
 end

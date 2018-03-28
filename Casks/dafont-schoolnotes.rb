@@ -5,7 +5,6 @@ cask 'dafont-schoolnotes' do
     url 'http://dl.dafont.com/dl/?f=schoolnotes'
     name 'School Notes'
     homepage 'http://www.dafont.com/schoolnotes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SchoolNotes.ttf'
 end

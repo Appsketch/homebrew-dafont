@@ -5,7 +5,6 @@ cask 'dafont-jessica-and-alex' do
     url 'http://dl.dafont.com/dl/?f=jessica_and_alex'
     name 'Jessica and Alex'
     homepage 'http://www.dafont.com/jessica-and-alex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jessica and Alex.ttf'
 end

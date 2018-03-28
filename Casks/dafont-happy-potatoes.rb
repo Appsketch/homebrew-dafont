@@ -5,7 +5,6 @@ cask 'dafont-happy-potatoes' do
     url 'http://dl.dafont.com/dl/?f=happy_potatoes'
     name 'Happy Potatoes'
     homepage 'http://www.dafont.com/happy-potatoes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Happy Potatoes.ttf'
 end

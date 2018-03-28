@@ -5,7 +5,6 @@ cask 'dafont-cheveuxdange' do
     url 'http://dl.dafont.com/dl/?f=cheveuxdange'
     name 'Cheveuxdange'
     homepage 'http://www.dafont.com/cheveuxdange.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cheveuxdange.ttf'
 end

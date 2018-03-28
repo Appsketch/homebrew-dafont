@@ -5,7 +5,6 @@ cask 'dafont-you-can-make-your-o' do
     url 'http://dl.dafont.com/dl/?f=you_can_make_your_o'
     name 'You can make your own font'
     homepage 'http://www.dafont.com/you-can-make-your-o.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'youcan__.TTF'
 end

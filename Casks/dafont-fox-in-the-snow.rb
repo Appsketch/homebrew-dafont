@@ -5,7 +5,6 @@ cask 'dafont-fox-in-the-snow' do
     url 'http://dl.dafont.com/dl/?f=fox_in_the_snow'
     name 'Fox in the snow'
     homepage 'http://www.dafont.com/fox-in-the-snow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fox in the snow.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-deathe-maach-ncv' do
     url 'http://dl.dafont.com/dl/?f=deathe_maach_ncv'
     name 'Deathe Maach NCV'
     homepage 'http://www.dafont.com/deathe-maach-ncv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deathe Maach NCV.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-heyro-fun' do
     url 'http://dl.dafont.com/dl/?f=heyro_fun'
     name 'Heyro Fun'
     homepage 'http://www.dafont.com/heyro-fun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HEYRO fun.ttf'
 end

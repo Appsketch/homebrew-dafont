@@ -5,7 +5,6 @@ cask 'dafont-blockman' do
     url 'http://dl.dafont.com/dl/?f=blockman'
     name 'Blockman'
     homepage 'http://www.dafont.com/blockman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blockman-outlined.ttf'
     font 'blockman-solid.ttf'

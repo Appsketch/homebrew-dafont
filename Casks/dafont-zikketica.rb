@@ -5,7 +5,6 @@ cask 'dafont-zikketica' do
     url 'http://dl.dafont.com/dl/?f=zikketica'
     name 'Zikketica'
     homepage 'http://www.dafont.com/zikketica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zikketica.ttf'
 end

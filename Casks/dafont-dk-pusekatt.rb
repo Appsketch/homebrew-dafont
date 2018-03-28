@@ -5,7 +5,6 @@ cask 'dafont-dk-pusekatt' do
     url 'http://dl.dafont.com/dl/?f=dk_pusekatt'
     name 'DK Pusekatt'
     homepage 'http://www.dafont.com/dk-pusekatt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Pusekatt.otf'
 end

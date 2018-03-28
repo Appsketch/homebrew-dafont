@@ -5,7 +5,6 @@ cask 'dafont-moonlight-shadow' do
     url 'http://dl.dafont.com/dl/?f=moonlight_shadow'
     name 'Moonlight Shadow'
     homepage 'http://www.dafont.com/moonlight-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Moonlight Shadow.ttf'
 end

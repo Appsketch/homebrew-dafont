@@ -5,7 +5,6 @@ cask 'dafont-helios' do
     url 'http://dl.dafont.com/dl/?f=helios'
     name 'Helios'
     homepage 'http://www.dafont.com/helios.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Helios Regular.ttf'
 end

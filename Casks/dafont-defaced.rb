@@ -5,7 +5,6 @@ cask 'dafont-defaced' do
     url 'http://dl.dafont.com/dl/?f=defaced'
     name 'Defaced'
     homepage 'http://www.dafont.com/defaced.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deFacedSW.ttf'
 end

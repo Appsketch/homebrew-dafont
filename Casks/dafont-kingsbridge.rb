@@ -5,7 +5,6 @@ cask 'dafont-kingsbridge' do
     url 'http://dl.dafont.com/dl/?f=kingsbridge'
     name 'Kingsbridge'
     homepage 'http://www.dafont.com/kingsbridge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kingsbridge bd it.ttf'
     font 'kingsbridge bd.ttf'

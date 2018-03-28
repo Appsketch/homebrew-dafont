@@ -5,7 +5,6 @@ cask 'dafont-national-express' do
     url 'http://dl.dafont.com/dl/?f=national_express'
     name 'National Express'
     homepage 'http://www.dafont.com/national-express.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nexprese.ttf'
     font 'Nexpresei.ttf'

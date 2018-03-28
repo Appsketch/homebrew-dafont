@@ -5,7 +5,6 @@ cask 'dafont-aracne-condensed' do
     url 'http://dl.dafont.com/dl/?f=aracne_condensed'
     name 'Aracne Condensed'
     homepage 'http://www.dafont.com/aracne-condensed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARACNE-CONDENSED_light_italic.otf'
     font 'ARACNE-CONDENSED_light.otf'

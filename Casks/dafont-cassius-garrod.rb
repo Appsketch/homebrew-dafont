@@ -5,7 +5,6 @@ cask 'dafont-cassius-garrod' do
     url 'http://dl.dafont.com/dl/?f=cassius_garrod'
     name 'Cassius Garrod'
     homepage 'http://www.dafont.com/cassius-garrod.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cassius Garrod.otf'
 end

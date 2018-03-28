@@ -5,7 +5,6 @@ cask 'dafont-vanilla-twilight' do
     url 'http://dl.dafont.com/dl/?f=vanilla_twilight'
     name 'Vanilla Twilight'
     homepage 'http://www.dafont.com/vanilla-twilight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vanilla twilight.ttf'
 end

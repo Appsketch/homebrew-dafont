@@ -5,7 +5,6 @@ cask 'dafont-zebra-deco' do
     url 'http://dl.dafont.com/dl/?f=zebra_deco'
     name 'Zebra Deco'
     homepage 'http://www.dafont.com/zebra-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zebra deco.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-woodenhead' do
     url 'http://dl.dafont.com/dl/?f=woodenhead'
     name 'Woodenhead'
     homepage 'http://www.dafont.com/woodenhead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodenhead.ttf'
 end

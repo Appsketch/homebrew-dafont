@@ -5,7 +5,6 @@ cask 'dafont-gesture-stroke' do
     url 'http://dl.dafont.com/dl/?f=gesture_stroke'
     name 'Gesture Stroke'
     homepage 'http://www.dafont.com/gesture-stroke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gesture Stroke.ttf'
 end

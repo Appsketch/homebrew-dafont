@@ -5,7 +5,6 @@ cask 'dafont-universalfreaky' do
     url 'http://dl.dafont.com/dl/?f=universalfreaky'
     name 'Universal Freaky'
     homepage 'http://www.dafont.com/universalfreaky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UniversalFreaky.ttf'
 end

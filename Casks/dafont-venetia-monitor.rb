@@ -5,7 +5,6 @@ cask 'dafont-venetia-monitor' do
     url 'http://dl.dafont.com/dl/?f=venetia_monitor'
     name 'Venetia Monitor'
     homepage 'http://www.dafont.com/venetia-monitor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vmonitor.ttf'
 end

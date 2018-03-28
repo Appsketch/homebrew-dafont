@@ -5,7 +5,6 @@ cask 'dafont-code-xero' do
     url 'http://dl.dafont.com/dl/?f=code_xero'
     name 'Code Xero'
     homepage 'http://www.dafont.com/code-xero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'code.xero.[fontvir.us].ttf'
 end

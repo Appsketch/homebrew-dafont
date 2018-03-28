@@ -5,7 +5,6 @@ cask 'dafont-hot-secretary' do
     url 'http://dl.dafont.com/dl/?f=hot_secretary'
     name 'Hot Secretary'
     homepage 'http://www.dafont.com/hot-secretary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hotsecretary.ttf'
 end

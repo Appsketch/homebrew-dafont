@@ -5,7 +5,6 @@ cask 'dafont-old-english-hearts' do
     url 'http://dl.dafont.com/dl/?f=old_english_hearts'
     name 'Old English Hearts'
     homepage 'http://www.dafont.com/old-english-hearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'old_english_hearts.ttf'
 end

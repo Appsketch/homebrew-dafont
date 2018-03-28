@@ -5,7 +5,6 @@ cask 'dafont-graphic-design' do
     url 'http://dl.dafont.com/dl/?f=graphic_design'
     name 'Graphic Design'
     homepage 'http://www.dafont.com/graphic-design.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'graphic design.ttf'
 end

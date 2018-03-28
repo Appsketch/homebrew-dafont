@@ -5,7 +5,6 @@ cask 'dafont-evil-bunny' do
     url 'http://dl.dafont.com/dl/?f=evil_bunny'
     name 'Evil Bunny'
     homepage 'http://www.dafont.com/evil-bunny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Evil Bunny.ttf'
 end

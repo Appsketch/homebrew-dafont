@@ -5,7 +5,6 @@ cask 'dafont-spiiikey' do
     url 'http://dl.dafont.com/dl/?f=spiiikey'
     name 'Spiiikey'
     homepage 'http://www.dafont.com/spiiikey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spiiikey.ttf'
 end

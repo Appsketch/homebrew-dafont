@@ -5,7 +5,6 @@ cask 'dafont-charbroil' do
     url 'http://dl.dafont.com/dl/?f=charbroil'
     name 'Charbroil'
     homepage 'http://www.dafont.com/charbroil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Charbroil.ttf'
 end

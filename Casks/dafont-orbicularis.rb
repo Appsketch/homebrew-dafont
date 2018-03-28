@@ -5,7 +5,6 @@ cask 'dafont-orbicularis' do
     url 'http://dl.dafont.com/dl/?f=orbicularis'
     name 'Orbicularis'
     homepage 'http://www.dafont.com/orbicularis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Orbicularis.otf'
 end

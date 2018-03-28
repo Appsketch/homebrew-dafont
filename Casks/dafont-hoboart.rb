@@ -5,7 +5,6 @@ cask 'dafont-hoboart' do
     url 'http://dl.dafont.com/dl/?f=hoboart'
     name 'Hoboart'
     homepage 'http://www.dafont.com/hoboart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hoboart.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-anorexia' do
     url 'http://dl.dafont.com/dl/?f=anorexia'
     name 'Anorexia'
     homepage 'http://www.dafont.com/anorexia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anorexia.ttf'
 end

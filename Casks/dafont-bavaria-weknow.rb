@@ -5,7 +5,6 @@ cask 'dafont-bavaria-weknow' do
     url 'http://dl.dafont.com/dl/?f=bavaria_weknow'
     name 'Bavaria'
     homepage 'http://www.dafont.com/bavaria-weknow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BAVARIA.ttf'
 end

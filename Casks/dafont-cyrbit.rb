@@ -5,7 +5,6 @@ cask 'dafont-cyrbit' do
     url 'http://dl.dafont.com/dl/?f=cyrbit'
     name 'CyrBit'
     homepage 'http://www.dafont.com/cyrbit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CyrBit.ttf'
 end

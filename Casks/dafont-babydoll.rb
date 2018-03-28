@@ -5,7 +5,6 @@ cask 'dafont-babydoll' do
     url 'http://dl.dafont.com/dl/?f=babydoll'
     name 'Baby Doll'
     homepage 'http://www.dafont.com/babydoll.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BabyDoll.ttf'
 end

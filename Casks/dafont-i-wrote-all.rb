@@ -5,7 +5,6 @@ cask 'dafont-i-wrote-all' do
     url 'http://dl.dafont.com/dl/?f=i_wrote_all'
     name 'I Wrote All'
     homepage 'http://www.dafont.com/i-wrote-all.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I Wrote All.ttf'
 end

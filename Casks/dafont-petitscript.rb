@@ -5,7 +5,6 @@ cask 'dafont-petitscript' do
     url 'http://dl.dafont.com/dl/?f=petitscript'
     name 'Petitscript'
     homepage 'http://www.dafont.com/petitscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Petitscript-Italic.ttf'
     font 'Petitscript.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-zarathustra' do
     url 'http://dl.dafont.com/dl/?f=zarathustra'
     name 'Zarathustra'
     homepage 'http://www.dafont.com/zarathustra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zarathustra.ttf'
 end

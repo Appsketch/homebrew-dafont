@@ -5,7 +5,6 @@ cask 'dafont-patriceshandwriting' do
     url 'http://dl.dafont.com/dl/?f=patriceshandwriting'
     name 'Patrices Handwriting'
     homepage 'http://www.dafont.com/patriceshandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PatricesHandwriting.ttf'
 end

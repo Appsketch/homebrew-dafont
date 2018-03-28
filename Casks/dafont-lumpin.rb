@@ -5,7 +5,6 @@ cask 'dafont-lumpin' do
     url 'http://dl.dafont.com/dl/?f=lumpin'
     name 'Lumpin'
     homepage 'http://www.dafont.com/lumpin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lumpin.ttf'
 end

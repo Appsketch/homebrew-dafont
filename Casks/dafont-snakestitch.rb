@@ -5,7 +5,6 @@ cask 'dafont-snakestitch' do
     url 'http://dl.dafont.com/dl/?f=snakestitch'
     name 'Snake Stitch'
     homepage 'http://www.dafont.com/snakestitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SnakeStitch.ttf'
 end

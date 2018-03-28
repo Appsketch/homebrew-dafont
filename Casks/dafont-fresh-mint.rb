@@ -5,7 +5,6 @@ cask 'dafont-fresh-mint' do
     url 'http://dl.dafont.com/dl/?f=fresh_mint'
     name 'Fresh Mint'
     homepage 'http://www.dafont.com/fresh-mint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fresh mint.ttf'
 end

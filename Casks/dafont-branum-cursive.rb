@@ -5,7 +5,6 @@ cask 'dafont-branum-cursive' do
     url 'http://dl.dafont.com/dl/?f=branum_cursive'
     name 'Branum Cursive'
     homepage 'http://www.dafont.com/branum-cursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BranumCursive.ttf'
 end

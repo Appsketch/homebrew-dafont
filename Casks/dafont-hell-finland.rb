@@ -5,7 +5,6 @@ cask 'dafont-hell-finland' do
     url 'http://dl.dafont.com/dl/?f=hell_finland'
     name 'Hell Finland'
     homepage 'http://www.dafont.com/hell-finland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hell Finland.ttf'
 end

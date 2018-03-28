@@ -5,7 +5,6 @@ cask 'dafont-ribbon2' do
     url 'http://dl.dafont.com/dl/?f=ribbon2'
     name 'Ribbon'
     homepage 'http://www.dafont.com/ribbon2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RIBBM.TTF'
 end

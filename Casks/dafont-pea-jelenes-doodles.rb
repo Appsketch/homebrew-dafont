@@ -5,7 +5,6 @@ cask 'dafont-pea-jelenes-doodles' do
     url 'http://dl.dafont.com/dl/?f=pea_jelenes_doodles'
     name 'Pea Jelene&#039;s Doodles'
     homepage 'http://www.dafont.com/pea-jelenes-doodles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'peajelenedoodles.ttf'
 end

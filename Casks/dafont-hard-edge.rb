@@ -5,7 +5,6 @@ cask 'dafont-hard-edge' do
     url 'http://dl.dafont.com/dl/?f=hard_edge'
     name 'Hard Hedge'
     homepage 'http://www.dafont.com/hard-edge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HARD EDGE.ttf'
 end

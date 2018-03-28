@@ -5,7 +5,6 @@ cask 'dafont-traveling-through' do
     url 'http://dl.dafont.com/dl/?f=traveling_through'
     name 'Traveling Through'
     homepage 'http://www.dafont.com/traveling-through.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Traveling Through.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yellowllama' do
     url 'http://dl.dafont.com/dl/?f=yellowllama'
     name 'Yellow Llama'
     homepage 'http://www.dafont.com/yellowllama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YellowLlama.ttf'
 end

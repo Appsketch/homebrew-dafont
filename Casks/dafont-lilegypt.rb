@@ -5,7 +5,6 @@ cask 'dafont-lilegypt' do
     url 'http://dl.dafont.com/dl/?f=lilegypt'
     name 'Lil Egypt'
     homepage 'http://www.dafont.com/lilegypt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LilEgypt.ttf'
 end

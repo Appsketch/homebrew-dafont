@@ -5,7 +5,6 @@ cask 'dafont-chromium' do
     url 'http://dl.dafont.com/dl/?f=chromium'
     name 'Chromium'
     homepage 'http://www.dafont.com/chromium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chromium.ttf'
 end

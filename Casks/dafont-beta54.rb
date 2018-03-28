@@ -5,7 +5,6 @@ cask 'dafont-beta54' do
     url 'http://dl.dafont.com/dl/?f=beta54'
     name 'Beta 54'
     homepage 'http://www.dafont.com/beta54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beta54.ttf'
 end

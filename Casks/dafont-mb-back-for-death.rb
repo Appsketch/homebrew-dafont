@@ -5,7 +5,6 @@ cask 'dafont-mb-back-for-death' do
     url 'http://dl.dafont.com/dl/?f=mb_back_for_death'
     name 'MB Back for Death'
     homepage 'http://www.dafont.com/mb-back-for-death.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-Back_for_Death_Font.ttf'
 end

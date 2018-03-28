@@ -5,7 +5,6 @@ cask 'dafont-spherism' do
     url 'http://dl.dafont.com/dl/?f=spherism'
     name 'Spherism'
     homepage 'http://www.dafont.com/spherism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spherism.ttf'
 end

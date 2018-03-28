@@ -5,7 +5,6 @@ cask 'dafont-lund' do
     url 'http://dl.dafont.com/dl/?f=lund'
     name 'Lund'
     homepage 'http://www.dafont.com/lund.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lund.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-picasa' do
     url 'http://dl.dafont.com/dl/?f=picasa'
     name 'Picasa'
     homepage 'http://www.dafont.com/picasa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Picasa.ttf'
 end

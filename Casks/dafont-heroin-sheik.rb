@@ -5,7 +5,6 @@ cask 'dafont-heroin-sheik' do
     url 'http://dl.dafont.com/dl/?f=heroin_sheik'
     name 'Heroin Sheik'
     homepage 'http://www.dafont.com/heroin-sheik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HEROS___.TTF'
 end

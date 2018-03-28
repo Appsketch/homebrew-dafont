@@ -5,7 +5,6 @@ cask 'dafont-squarea' do
     url 'http://dl.dafont.com/dl/?f=squarea'
     name 'Squarea'
     homepage 'http://www.dafont.com/squarea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Squarea Expanded Oblique.ttf'
     font 'Squarea Regular.ttf'

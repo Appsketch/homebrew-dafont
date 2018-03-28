@@ -5,7 +5,6 @@ cask 'dafont-coelnische-current' do
     url 'http://dl.dafont.com/dl/?f=coelnische_current'
     name 'Coelnische Current Fraktur'
     homepage 'http://www.dafont.com/coelnische-current.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COELCF__.TTF'
 end

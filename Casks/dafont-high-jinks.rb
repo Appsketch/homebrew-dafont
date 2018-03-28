@@ -5,7 +5,6 @@ cask 'dafont-high-jinks' do
     url 'http://dl.dafont.com/dl/?f=high_jinks'
     name 'High Jinks'
     homepage 'http://www.dafont.com/high-jinks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'High Jinks.otf'
 end

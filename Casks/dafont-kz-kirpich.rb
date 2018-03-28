@@ -5,7 +5,6 @@ cask 'dafont-kz-kirpich' do
     url 'http://dl.dafont.com/dl/?f=kz_kirpich'
     name 'KZ Kirpich'
     homepage 'http://www.dafont.com/kz-kirpich.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KZKirpich-Regular.otf'
 end

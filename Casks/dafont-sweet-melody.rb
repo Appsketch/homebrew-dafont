@@ -5,7 +5,6 @@ cask 'dafont-sweet-melody' do
     url 'http://dl.dafont.com/dl/?f=sweet_melody'
     name 'Sweet Melody'
     homepage 'http://www.dafont.com/sweet-melody.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SweetMelody-Bold-Demo.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mouse-trap' do
     url 'http://dl.dafont.com/dl/?f=mouse_trap'
     name 'Mouse Trap!'
     homepage 'http://www.dafont.com/mouse-trap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOUSE TRAP!.otf'
 end

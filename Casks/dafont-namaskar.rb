@@ -5,7 +5,6 @@ cask 'dafont-namaskar' do
     url 'http://dl.dafont.com/dl/?f=namaskar'
     name 'Namaskar'
     homepage 'http://www.dafont.com/namaskar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'namaskar.ttf'
 end

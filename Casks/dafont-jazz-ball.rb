@@ -5,7 +5,6 @@ cask 'dafont-jazz-ball' do
     url 'http://dl.dafont.com/dl/?f=jazz_ball'
     name 'Jazz Ball'
     homepage 'http://www.dafont.com/jazz-ball.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jazz_Ball_Bold.ttf'
     font 'Jazz_Ball_Regular.ttf'

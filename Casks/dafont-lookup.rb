@@ -5,7 +5,6 @@ cask 'dafont-lookup' do
     url 'http://dl.dafont.com/dl/?f=lookup'
     name 'Look Up'
     homepage 'http://www.dafont.com/lookup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'look-up.ttf'
 end

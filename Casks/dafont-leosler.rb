@@ -5,7 +5,6 @@ cask 'dafont-leosler' do
     url 'http://dl.dafont.com/dl/?f=leosler'
     name 'LeOsler'
     homepage 'http://www.dafont.com/leosler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LeOsler_Rough-Light.ttf'
     font 'LeOsler_Rough-Regular.ttf'

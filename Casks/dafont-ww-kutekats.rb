@@ -5,7 +5,6 @@ cask 'dafont-ww-kutekats' do
     url 'http://dl.dafont.com/dl/?f=ww_kutekats'
     name 'WW KuteKats'
     homepage 'http://www.dafont.com/ww-kutekats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WWKuteKats.ttf'
 end

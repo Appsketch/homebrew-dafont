@@ -5,7 +5,6 @@ cask 'dafont-coming-soon' do
     url 'http://dl.dafont.com/dl/?f=coming_soon'
     name 'Coming Soon'
     homepage 'http://www.dafont.com/coming-soon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ComingSoon.ttf'
 end

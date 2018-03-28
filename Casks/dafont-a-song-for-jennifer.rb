@@ -5,7 +5,6 @@ cask 'dafont-a-song-for-jennifer' do
     url 'http://dl.dafont.com/dl/?f=a_song_for_jennifer'
     name 'A song for Jennifer'
     homepage 'http://www.dafont.com/a-song-for-jennifer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'a song for jennifer bold.ttf'
     font 'a song for jennifer.ttf'

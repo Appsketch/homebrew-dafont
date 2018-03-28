@@ -5,7 +5,6 @@ cask 'dafont-brassiere' do
     url 'http://dl.dafont.com/dl/?f=brassiere'
     name 'Brassiere'
     homepage 'http://www.dafont.com/brassiere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRASSI__.ttf'
     font 'BRASSL__.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-halny' do
     url 'http://dl.dafont.com/dl/?f=halny'
     name 'Halny'
     homepage 'http://www.dafont.com/halny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Halny.ttf'
 end

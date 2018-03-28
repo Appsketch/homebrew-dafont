@@ -5,7 +5,6 @@ cask 'dafont-yorkville' do
     url 'http://dl.dafont.com/dl/?f=yorkville'
     name 'Yorkville'
     homepage 'http://www.dafont.com/yorkville.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yorkville.ttf'
 end

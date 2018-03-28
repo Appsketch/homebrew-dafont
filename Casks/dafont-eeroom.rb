@@ -5,7 +5,6 @@ cask 'dafont-eeroom' do
     url 'http://dl.dafont.com/dl/?f=eeroom'
     name 'Eeroom'
     homepage 'http://www.dafont.com/eeroom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eeroom.ttf'
 end

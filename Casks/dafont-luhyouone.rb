@@ -5,7 +5,6 @@ cask 'dafont-luhyouone' do
     url 'http://dl.dafont.com/dl/?f=luhyouone'
     name 'Luhyouone'
     homepage 'http://www.dafont.com/luhyouone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Luhyouone.ttf'
 end

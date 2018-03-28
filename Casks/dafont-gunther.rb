@@ -5,7 +5,6 @@ cask 'dafont-gunther' do
     url 'http://dl.dafont.com/dl/?f=gunther'
     name 'Gunther'
     homepage 'http://www.dafont.com/gunther.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GUNTHER_.TTF'
 end

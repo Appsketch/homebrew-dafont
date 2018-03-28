@@ -5,7 +5,6 @@ cask 'dafont-pistoleer' do
     url 'http://dl.dafont.com/dl/?f=pistoleer'
     name 'Pistoleer'
     homepage 'http://www.dafont.com/pistoleer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pistoleer.ttf'
     font 'pistoleer3d.ttf'

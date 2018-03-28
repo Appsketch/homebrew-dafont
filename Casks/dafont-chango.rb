@@ -5,7 +5,6 @@ cask 'dafont-chango' do
     url 'http://dl.dafont.com/dl/?f=chango'
     name 'Chango'
     homepage 'http://www.dafont.com/chango.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chann___.TTF'
 end

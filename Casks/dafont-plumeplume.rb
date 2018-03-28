@@ -5,7 +5,6 @@ cask 'dafont-plumeplume' do
     url 'http://dl.dafont.com/dl/?f=plumeplume'
     name 'Plume Plume'
     homepage 'http://www.dafont.com/plumeplume.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PlumePLUME.ttf'
 end

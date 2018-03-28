@@ -5,7 +5,6 @@ cask 'dafont-aposiopesis-dwarfed' do
     url 'http://dl.dafont.com/dl/?f=aposiopesis_dwarfed'
     name 'Aposiopesis Dwarfed'
     homepage 'http://www.dafont.com/aposiopesis-dwarfed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aposiopesis Dwarfed Stroked.ttf'
     font 'Aposiopesis Dwarfed.ttf'

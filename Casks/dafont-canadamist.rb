@@ -5,7 +5,6 @@ cask 'dafont-canadamist' do
     url 'http://dl.dafont.com/dl/?f=canadamist'
     name 'Canada Mist'
     homepage 'http://www.dafont.com/canadamist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CanadaMist.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nothing-you-could-say' do
     url 'http://dl.dafont.com/dl/?f=nothing_you_could_say'
     name 'Nothing You Could Say'
     homepage 'http://www.dafont.com/nothing-you-could-say.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NothingYouCouldSay.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lastwaerk' do
     url 'http://dl.dafont.com/dl/?f=lastwaerk'
     name 'Lastwaerk'
     homepage 'http://www.dafont.com/lastwaerk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lastwaerk black oblique.ttf'
     font 'Lastwaerk black.ttf'

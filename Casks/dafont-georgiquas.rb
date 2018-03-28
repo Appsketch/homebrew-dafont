@@ -5,7 +5,6 @@ cask 'dafont-georgiquas' do
     url 'http://dl.dafont.com/dl/?f=georgiquas'
     name 'Georgiquas'
     homepage 'http://www.dafont.com/georgiquas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GEOGIQUAS.ttf'
 end

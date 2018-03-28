@@ -5,7 +5,6 @@ cask 'dafont-palimpus' do
     url 'http://dl.dafont.com/dl/?f=palimpus'
     name 'Palimpus'
     homepage 'http://www.dafont.com/palimpus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PALIMPUS.TTF'
 end

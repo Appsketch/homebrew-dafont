@@ -5,7 +5,6 @@ cask 'dafont-jaycons' do
     url 'http://dl.dafont.com/dl/?f=jaycons'
     name 'Jaycons'
     homepage 'http://www.dafont.com/jaycons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jaycons.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ohmai' do
     url 'http://dl.dafont.com/dl/?f=ohmai'
     name 'Ohmai'
     homepage 'http://www.dafont.com/ohmai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ohmai.ttf'
 end

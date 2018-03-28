@@ -5,7 +5,6 @@ cask 'dafont-tripleled-st' do
     url 'http://dl.dafont.com/dl/?f=tripleled_st'
     name 'Tripleled ST'
     homepage 'http://www.dafont.com/tripleled-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tripleled ST.ttf'
 end

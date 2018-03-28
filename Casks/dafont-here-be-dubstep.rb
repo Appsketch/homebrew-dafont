@@ -5,7 +5,6 @@ cask 'dafont-here-be-dubstep' do
     url 'http://dl.dafont.com/dl/?f=here_be_dubstep'
     name 'Here Be Dubstep'
     homepage 'http://www.dafont.com/here-be-dubstep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'here_be_dubstep.ttf'
 end

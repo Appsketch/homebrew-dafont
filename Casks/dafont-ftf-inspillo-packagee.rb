@@ -5,7 +5,6 @@ cask 'dafont-ftf-inspillo-packagee' do
     url 'http://dl.dafont.com/dl/?f=ftf_inspillo_packagee'
     name 'FTF Inspillo Packagee'
     homepage 'http://www.dafont.com/ftf-inspillo-packagee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Inspillo Packagee-.ttf'
 end

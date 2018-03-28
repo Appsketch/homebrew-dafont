@@ -5,7 +5,6 @@ cask 'dafont-mario-kart-ds' do
     url 'http://dl.dafont.com/dl/?f=mario_kart_ds'
     name 'Mario Kart DS'
     homepage 'http://www.dafont.com/mario-kart-ds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mario-Kart-DS.ttf'
 end

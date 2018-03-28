@@ -5,7 +5,6 @@ cask 'dafont-soulmate' do
     url 'http://dl.dafont.com/dl/?f=soulmate'
     name 'Soulmate'
     homepage 'http://www.dafont.com/soulmate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'soulmate.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-shrapnel' do
     url 'http://dl.dafont.com/dl/?f=shrapnel'
     name 'Shrapnel'
     homepage 'http://www.dafont.com/shrapnel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shrapnel.otf'
 end

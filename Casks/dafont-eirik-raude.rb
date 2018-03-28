@@ -5,7 +5,6 @@ cask 'dafont-eirik-raude' do
     url 'http://dl.dafont.com/dl/?f=eirik_raude'
     name 'Eirik Raude'
     homepage 'http://www.dafont.com/eirik-raude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eirik Raude.ttf'
 end

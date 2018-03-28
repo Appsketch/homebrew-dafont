@@ -5,7 +5,6 @@ cask 'dafont-konstytucja-polska-cleaned' do
     url 'http://dl.dafont.com/dl/?f=konstytucja_polska_cleaned'
     name 'Konstytucja Polska cleaned'
     homepage 'http://www.dafont.com/konstytucja-polska-cleaned.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zai_KonstytucjaPolskaCleaned.ttf'
 end

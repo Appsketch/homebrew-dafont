@@ -5,7 +5,6 @@ cask 'dafont-riders-font' do
     url 'http://dl.dafont.com/dl/?f=riders_font'
     name 'Riders Font'
     homepage 'http://www.dafont.com/riders-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Riders Font.ttf'
 end

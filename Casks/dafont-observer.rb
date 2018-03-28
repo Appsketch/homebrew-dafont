@@ -5,7 +5,6 @@ cask 'dafont-observer' do
     url 'http://dl.dafont.com/dl/?f=observer'
     name 'Observer'
     homepage 'http://www.dafont.com/observer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fringe Observer Font.ttf'
 end

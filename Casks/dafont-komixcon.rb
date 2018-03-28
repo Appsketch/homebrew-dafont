@@ -5,7 +5,6 @@ cask 'dafont-komixcon' do
     url 'http://dl.dafont.com/dl/?f=komixcon'
     name 'Komix Con'
     homepage 'http://www.dafont.com/komixcon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KomixCon Italic .ttf'
     font 'KomixCon-Bold .ttf'

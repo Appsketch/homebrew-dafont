@@ -5,7 +5,6 @@ cask 'dafont-shark-made-in-japan' do
     url 'http://dl.dafont.com/dl/?f=shark_made_in_japan'
     name 'Shark Made In Japan'
     homepage 'http://www.dafont.com/shark-made-in-japan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sharkmadeinjapan.ttf'
 end

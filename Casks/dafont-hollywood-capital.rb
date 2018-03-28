@@ -5,7 +5,6 @@ cask 'dafont-hollywood-capital' do
     url 'http://dl.dafont.com/dl/?f=hollywood_capital'
     name 'Hollywood Capital'
     homepage 'http://www.dafont.com/hollywood-capital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hollywood Capital Blank.ttf'
     font 'Hollywood Capital Hills (Final).ttf'

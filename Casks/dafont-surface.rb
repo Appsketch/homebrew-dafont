@@ -5,7 +5,6 @@ cask 'dafont-surface' do
     url 'http://dl.dafont.com/dl/?f=surface'
     name 'Surface'
     homepage 'http://www.dafont.com/surface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Surface-Medium.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kickflip-brk' do
     url 'http://dl.dafont.com/dl/?f=kickflip_brk'
     name 'Kickflip BRK'
     homepage 'http://www.dafont.com/kickflip-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kickflip.ttf'
 end

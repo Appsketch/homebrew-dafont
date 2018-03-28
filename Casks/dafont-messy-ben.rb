@@ -5,7 +5,6 @@ cask 'dafont-messy-ben' do
     url 'http://dl.dafont.com/dl/?f=messy_ben'
     name 'Messy Ben'
     homepage 'http://www.dafont.com/messy-ben.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Messy_Ben.ttf'
 end

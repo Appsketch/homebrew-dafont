@@ -5,7 +5,6 @@ cask 'dafont-burnt-paper' do
     url 'http://dl.dafont.com/dl/?f=burnt_paper'
     name 'Burnt Paper'
     homepage 'http://www.dafont.com/burnt-paper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BURNT PAPER.ttf'
 end

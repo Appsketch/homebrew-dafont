@@ -5,7 +5,6 @@ cask 'dafont-kbpeppy' do
     url 'http://dl.dafont.com/dl/?f=kbpeppy'
     name 'KB Peppy'
     homepage 'http://www.dafont.com/kbpeppy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBPeppy.ttf'
 end

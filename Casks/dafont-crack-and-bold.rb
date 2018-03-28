@@ -5,7 +5,6 @@ cask 'dafont-crack-and-bold' do
     url 'http://dl.dafont.com/dl/?f=crack_and_bold'
     name 'CF Crack and Bold'
     homepage 'http://www.dafont.com/crack-and-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFCrackandBold.ttf'
 end

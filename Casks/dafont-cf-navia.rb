@@ -5,7 +5,6 @@ cask 'dafont-cf-navia' do
     url 'http://dl.dafont.com/dl/?f=cf_navia'
     name 'CF NaVia'
     homepage 'http://www.dafont.com/cf-navia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFNaVia-Regular.ttf'
 end

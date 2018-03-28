@@ -5,7 +5,6 @@ cask 'dafont-docktrin' do
     url 'http://dl.dafont.com/dl/?f=docktrin'
     name 'Docktrin'
     homepage 'http://www.dafont.com/docktrin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'docktrin.ttf'
 end

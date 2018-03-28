@@ -5,7 +5,6 @@ cask 'dafont-hello-goodbye' do
     url 'http://dl.dafont.com/dl/?f=hello_goodbye'
     name 'Hello Goodbye'
     homepage 'http://www.dafont.com/hello-goodbye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hellogoodbye.otf'
 end

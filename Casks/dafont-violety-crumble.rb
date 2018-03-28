@@ -5,7 +5,6 @@ cask 'dafont-violety-crumble' do
     url 'http://dl.dafont.com/dl/?f=violety_crumble'
     name 'Violety Crumble'
     homepage 'http://www.dafont.com/violety-crumble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Violety Crumble.ttf'
 end

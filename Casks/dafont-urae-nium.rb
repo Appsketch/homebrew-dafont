@@ -5,7 +5,6 @@ cask 'dafont-urae-nium' do
     url 'http://dl.dafont.com/dl/?f=urae_nium'
     name 'Urae Nium'
     homepage 'http://www.dafont.com/urae-nium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'urae_nium.ttf'
 end

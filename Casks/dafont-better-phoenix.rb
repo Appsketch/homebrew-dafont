@@ -5,7 +5,6 @@ cask 'dafont-better-phoenix' do
     url 'http://dl.dafont.com/dl/?f=better_phoenix'
     name 'Better Phoenix'
     homepage 'http://www.dafont.com/better-phoenix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'better_phoenix_sample.ttf'
 end

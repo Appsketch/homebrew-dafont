@@ -5,7 +5,6 @@ cask 'dafont-kingthings-whizzbang' do
     url 'http://dl.dafont.com/dl/?f=kingthings_whizzbang'
     name 'Kingthings Whizzbang'
     homepage 'http://www.dafont.com/kingthings-whizzbang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Whizzbang.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mostlios' do
     url 'http://dl.dafont.com/dl/?f=mostlios'
     name 'Mostlios'
     homepage 'http://www.dafont.com/mostlios.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOSTLIOS.TTF'
 end

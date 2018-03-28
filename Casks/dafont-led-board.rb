@@ -5,7 +5,6 @@ cask 'dafont-led-board' do
     url 'http://dl.dafont.com/dl/?f=led_board'
     name 'Led Board'
     homepage 'http://www.dafont.com/led-board.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEDBDREV.TTF'
     font 'LEDBOARD.TTF'

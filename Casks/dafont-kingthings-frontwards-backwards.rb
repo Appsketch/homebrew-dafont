@@ -5,7 +5,6 @@ cask 'dafont-kingthings-frontwards-backwards' do
     url 'http://dl.dafont.com/dl/?f=kingthings_frontwards_backwards'
     name 'Kingthings Frontwards / Backwards'
     homepage 'http://www.dafont.com/kingthings-frontwards-backwards.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Backwards.ttf'
     font 'Kingthings Frontwards.ttf'

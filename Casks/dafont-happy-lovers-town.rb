@@ -5,7 +5,6 @@ cask 'dafont-happy-lovers-town' do
     url 'http://dl.dafont.com/dl/?f=happy_lovers_town'
     name 'Happy Lovers Town'
     homepage 'http://www.dafont.com/happy-lovers-town.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'happyloverstown.eu_Lovers_Square.ttf'
 end

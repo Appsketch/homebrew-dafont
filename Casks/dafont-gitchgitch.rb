@@ -5,7 +5,6 @@ cask 'dafont-gitchgitch' do
     url 'http://dl.dafont.com/dl/?f=gitchgitch'
     name 'Gitchgitch'
     homepage 'http://www.dafont.com/gitchgitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gitchgitch.ttf'
 end

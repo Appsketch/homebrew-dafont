@@ -5,7 +5,6 @@ cask 'dafont-rvd-microcode' do
     url 'http://dl.dafont.com/dl/?f=rvd_microcode'
     name 'RvD Microcode'
     homepage 'http://www.dafont.com/rvd-microcode.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RvD_MICROCODE.ttf'
 end

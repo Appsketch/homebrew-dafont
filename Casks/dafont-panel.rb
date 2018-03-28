@@ -5,7 +5,6 @@ cask 'dafont-panel' do
     url 'http://dl.dafont.com/dl/?f=panel'
     name 'Panel'
     homepage 'http://www.dafont.com/panel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'panel.ttf'
 end

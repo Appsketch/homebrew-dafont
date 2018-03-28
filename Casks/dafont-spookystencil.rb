@@ -5,7 +5,6 @@ cask 'dafont-spookystencil' do
     url 'http://dl.dafont.com/dl/?f=spookystencil'
     name 'Spooky Stencil'
     homepage 'http://www.dafont.com/spookystencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpookyStencil.ttf'
 end

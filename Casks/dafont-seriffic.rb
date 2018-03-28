@@ -5,7 +5,6 @@ cask 'dafont-seriffic' do
     url 'http://dl.dafont.com/dl/?f=seriffic'
     name 'Seriffic'
     homepage 'http://www.dafont.com/seriffic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seriffic.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hlmt-rounded' do
     url 'http://dl.dafont.com/dl/?f=hlmt_rounded'
     name 'Hlmt Rounded'
     homepage 'http://www.dafont.com/hlmt-rounded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hlmt-rounded.ttf'
 end

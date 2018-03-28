@@ -5,7 +5,6 @@ cask 'dafont-saint-saji' do
     url 'http://dl.dafont.com/dl/?f=saint_saji'
     name 'Saint'
     homepage 'http://www.dafont.com/saint-saji.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SAINT.ttf'
 end

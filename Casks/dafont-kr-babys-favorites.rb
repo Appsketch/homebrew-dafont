@@ -5,7 +5,6 @@ cask 'dafont-kr-babys-favorites' do
     url 'http://dl.dafont.com/dl/?f=kr_babys_favorites'
     name 'KR Baby&#039;s Favorites'
     homepage 'http://www.dafont.com/kr-babys-favorites.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Babys Favorites.TTF'
 end

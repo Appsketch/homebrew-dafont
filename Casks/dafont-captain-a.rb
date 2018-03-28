@@ -5,7 +5,6 @@ cask 'dafont-captain-a' do
     url 'http://dl.dafont.com/dl/?f=captain_a'
     name 'Captain A'
     homepage 'http://www.dafont.com/captain-a.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Captain A Bold.otf'
     font 'Captain A.otf'

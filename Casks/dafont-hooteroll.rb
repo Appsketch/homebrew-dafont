@@ -5,7 +5,6 @@ cask 'dafont-hooteroll' do
     url 'http://dl.dafont.com/dl/?f=hooteroll'
     name 'Hooteroll'
     homepage 'http://www.dafont.com/hooteroll.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hootj___.ttf'
     font 'hootl___.ttf'

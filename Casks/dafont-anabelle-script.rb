@@ -5,7 +5,6 @@ cask 'dafont-anabelle-script' do
     url 'http://dl.dafont.com/dl/?f=anabelle_script'
     name 'Anabelle Script'
     homepage 'http://www.dafont.com/anabelle-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anabelle Script Light.ttf'
     font 'Anabelle Script.ttf'

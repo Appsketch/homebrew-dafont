@@ -5,7 +5,6 @@ cask 'dafont-barely-handwritten' do
     url 'http://dl.dafont.com/dl/?f=barely_handwritten'
     name 'Barely Handwritten'
     homepage 'http://www.dafont.com/barely-handwritten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barely_Handwritten.ttf'
 end

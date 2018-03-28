@@ -5,7 +5,6 @@ cask 'dafont-fabeldyr' do
     url 'http://dl.dafont.com/dl/?f=fabeldyr'
     name 'Fabeldyr'
     homepage 'http://www.dafont.com/fabeldyr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FABELDYR.TTF'
 end

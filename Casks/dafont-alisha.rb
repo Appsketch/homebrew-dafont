@@ -5,7 +5,6 @@ cask 'dafont-alisha' do
     url 'http://dl.dafont.com/dl/?f=alisha'
     name 'Alisha'
     homepage 'http://www.dafont.com/alisha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alisha.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-st-moviehead' do
     url 'http://dl.dafont.com/dl/?f=st_moviehead'
     name 'ST Moviehead'
     homepage 'http://www.dafont.com/st-moviehead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'st_moviehead_bold.ttf'
     font 'st_moviehead_book.ttf'

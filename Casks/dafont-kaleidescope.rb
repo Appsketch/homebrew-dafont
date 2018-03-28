@@ -5,7 +5,6 @@ cask 'dafont-kaleidescope' do
     url 'http://dl.dafont.com/dl/?f=kaleidescope'
     name 'Kaleidescope'
     homepage 'http://www.dafont.com/kaleidescope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kaleidescope.ttf'
 end

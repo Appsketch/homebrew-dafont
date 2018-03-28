@@ -5,7 +5,6 @@ cask 'dafont-encapsulate' do
     url 'http://dl.dafont.com/dl/?f=encapsulate'
     name 'Encapsulate'
     homepage 'http://www.dafont.com/encapsulate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'encappln.ttf'
     font 'encapsul.ttf'

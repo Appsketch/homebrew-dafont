@@ -5,7 +5,6 @@ cask 'dafont-sport-relief' do
     url 'http://dl.dafont.com/dl/?f=sport_relief'
     name 'Sport Relief'
     homepage 'http://www.dafont.com/sport-relief.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPORT RELIEF.ttf'
 end

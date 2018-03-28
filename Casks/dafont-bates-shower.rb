@@ -5,7 +5,6 @@ cask 'dafont-bates-shower' do
     url 'http://dl.dafont.com/dl/?f=bates_shower'
     name 'Bates Shower'
     homepage 'http://www.dafont.com/bates-shower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bates Shower.ttf'
 end

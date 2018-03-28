@@ -5,7 +5,6 @@ cask 'dafont-department' do
     url 'http://dl.dafont.com/dl/?f=department'
     name 'Department H + K'
     homepage 'http://www.dafont.com/department.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEPT.TTF'
     font 'deptk.ttf'

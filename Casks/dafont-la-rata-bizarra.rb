@@ -5,7 +5,6 @@ cask 'dafont-la-rata-bizarra' do
     url 'http://dl.dafont.com/dl/?f=la_rata_bizarra'
     name 'La Rata Bizarra'
     homepage 'http://www.dafont.com/la-rata-bizarra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LA_RATA_BIZARRA.ttf'
 end

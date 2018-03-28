@@ -5,7 +5,6 @@ cask 'dafont-taco-truck-militia' do
     url 'http://dl.dafont.com/dl/?f=taco_truck_militia'
     name 'Taco Truck Militia'
     homepage 'http://www.dafont.com/taco-truck-militia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TacoTruckMilitia.ttf'
 end

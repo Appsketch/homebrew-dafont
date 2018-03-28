@@ -5,7 +5,6 @@ cask 'dafont-spin-cycle' do
     url 'http://dl.dafont.com/dl/?f=spin_cycle'
     name 'Spin Cycle'
     homepage 'http://www.dafont.com/spin-cycle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPINC___.TTF'
 end

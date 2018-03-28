@@ -5,7 +5,6 @@ cask 'dafont-cf-back-to-school' do
     url 'http://dl.dafont.com/dl/?f=cf_back_to_school'
     name 'CF Back to School'
     homepage 'http://www.dafont.com/cf-back-to-school.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFBacktoSchool-Regular.ttf'
 end

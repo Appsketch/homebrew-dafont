@@ -5,7 +5,6 @@ cask 'dafont-odin-spear' do
     url 'http://dl.dafont.com/dl/?f=odin_spear'
     name 'Odin Spear'
     homepage 'http://www.dafont.com/odin-spear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Odins Spear Ragged Hollow.TTF'
     font 'odins spear.TTF'

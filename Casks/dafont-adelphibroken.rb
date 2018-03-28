@@ -5,7 +5,6 @@ cask 'dafont-adelphibroken' do
     url 'http://dl.dafont.com/dl/?f=adelphibroken'
     name 'Adelphi Broken'
     homepage 'http://www.dafont.com/adelphibroken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ADELB___.TTF'
 end

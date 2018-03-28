@@ -5,7 +5,6 @@ cask 'dafont-dare' do
     url 'http://dl.dafont.com/dl/?f=dare'
     name 'Dare'
     homepage 'http://www.dafont.com/dare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DARE.ttf'
 end

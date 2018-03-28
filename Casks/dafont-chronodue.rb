@@ -5,7 +5,6 @@ cask 'dafont-chronodue' do
     url 'http://dl.dafont.com/dl/?f=chronodue'
     name 'Chronodue'
     homepage 'http://www.dafont.com/chronodue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chronodue.otf'
     font 'Chronodue.ttf'

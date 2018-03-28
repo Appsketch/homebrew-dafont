@@ -5,7 +5,6 @@ cask 'dafont-fine-n-tall' do
     url 'http://dl.dafont.com/dl/?f=fine_n_tall'
     name 'Fine N Tall'
     homepage 'http://www.dafont.com/fine-n-tall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fine N Tall.ttf'
 end

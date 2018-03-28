@@ -5,7 +5,6 @@ cask 'dafont-sudbury-basin' do
     url 'http://dl.dafont.com/dl/?f=sudbury_basin'
     name 'Sudbury Basin'
     homepage 'http://www.dafont.com/sudbury-basin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sudbury basin 3d.ttf'
     font 'sudbury basin.ttf'

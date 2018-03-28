@@ -5,7 +5,6 @@ cask 'dafont-hilarious' do
     url 'http://dl.dafont.com/dl/?f=hilarious'
     name 'Hilarious'
     homepage 'http://www.dafont.com/hilarious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hilarious.ttf'
     font 'HilariousComics.ttf'

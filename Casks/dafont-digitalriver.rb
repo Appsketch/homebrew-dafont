@@ -5,7 +5,6 @@ cask 'dafont-digitalriver' do
     url 'http://dl.dafont.com/dl/?f=digitalriver'
     name 'Digital River'
     homepage 'http://www.dafont.com/digitalriver.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DigitalRiver.ttf'
 end

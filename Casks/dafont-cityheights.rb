@@ -5,7 +5,6 @@ cask 'dafont-cityheights' do
     url 'http://dl.dafont.com/dl/?f=cityheights'
     name 'City Heights'
     homepage 'http://www.dafont.com/cityheights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CityHeights.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-font-for-the-dumped' do
     url 'http://dl.dafont.com/dl/?f=font_for_the_dumped'
     name 'Font for the dumped'
     homepage 'http://www.dafont.com/font-for-the-dumped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fontftd_.ttf'
     font 'fontftdo.ttf'

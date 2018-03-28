@@ -5,7 +5,6 @@ cask 'dafont-far-chehre' do
     url 'http://dl.dafont.com/dl/?f=far_chehre'
     name 'Far.Chehre'
     homepage 'http://www.dafont.com/far-chehre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Far_Chehre.ttf'
 end

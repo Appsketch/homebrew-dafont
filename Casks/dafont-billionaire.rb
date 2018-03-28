@@ -5,7 +5,6 @@ cask 'dafont-billionaire' do
     url 'http://dl.dafont.com/dl/?f=billionaire'
     name 'Billionaire'
     homepage 'http://www.dafont.com/billionaire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Billionaire.ttf'
 end

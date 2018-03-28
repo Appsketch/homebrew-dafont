@@ -5,7 +5,6 @@ cask 'dafont-ernst' do
     url 'http://dl.dafont.com/dl/?f=ernst'
     name 'Ernst'
     homepage 'http://www.dafont.com/ernst.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ernst-Regular.ttf'
     font 'Ernst-RegularBackg.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-crosslink' do
     url 'http://dl.dafont.com/dl/?f=crosslink'
     name 'Crosslink'
     homepage 'http://www.dafont.com/crosslink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crosslink.ttf'
 end

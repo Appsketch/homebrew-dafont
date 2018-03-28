@@ -5,7 +5,6 @@ cask 'dafont-specialdelivery' do
     url 'http://dl.dafont.com/dl/?f=specialdelivery'
     name 'Special Delivery'
     homepage 'http://www.dafont.com/specialdelivery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpecialDelivery.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-smoke-on-the-water' do
     url 'http://dl.dafont.com/dl/?f=smoke_on_the_water'
     name 'Smoke on the water'
     homepage 'http://www.dafont.com/smoke-on-the-water.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'smoke on the water.ttf'
 end

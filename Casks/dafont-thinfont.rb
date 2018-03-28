@@ -5,7 +5,6 @@ cask 'dafont-thinfont' do
     url 'http://dl.dafont.com/dl/?f=thinfont'
     name 'Thinfont'
     homepage 'http://www.dafont.com/thinfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thinfon-bold.otf'
     font 'thinfont-thin.ttf'

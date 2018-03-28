@@ -5,7 +5,6 @@ cask 'dafont-sorry-luthi' do
     url 'http://dl.dafont.com/dl/?f=sorry_luthi'
     name 'Sorry Luthi'
     homepage 'http://www.dafont.com/sorry-luthi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sorry_Luthi_V1_0_by_oOo_n3o_oOo.ttf'
 end

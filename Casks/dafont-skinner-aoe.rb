@@ -5,7 +5,6 @@ cask 'dafont-skinner-aoe' do
     url 'http://dl.dafont.com/dl/?f=skinner_aoe'
     name 'Skinner AOE'
     homepage 'http://www.dafont.com/skinner-aoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SKINA___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-alfredos-dance' do
     url 'http://dl.dafont.com/dl/?f=alfredos_dance'
     name 'Alfredo&#039;s Dance'
     homepage 'http://www.dafont.com/alfredos-dance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALFREDO.TTF'
 end

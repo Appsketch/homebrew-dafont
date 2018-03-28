@@ -5,7 +5,6 @@ cask 'dafont-viva-la-vida' do
     url 'http://dl.dafont.com/dl/?f=viva_la_vida'
     name 'Viva La Vida'
     homepage 'http://www.dafont.com/viva-la-vida.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VivaLaVida.ttf'
 end

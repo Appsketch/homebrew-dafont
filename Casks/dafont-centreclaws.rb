@@ -5,7 +5,6 @@ cask 'dafont-centreclaws' do
     url 'http://dl.dafont.com/dl/?f=centreclaws'
     name 'Centre Claws'
     homepage 'http://www.dafont.com/centreclaws.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CentreClaws.ttf'
     font 'CentreClawsBeam.ttf'

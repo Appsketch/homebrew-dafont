@@ -5,7 +5,6 @@ cask 'dafont-zerohype' do
     url 'http://dl.dafont.com/dl/?f=zerohype'
     name 'Zero Hype'
     homepage 'http://www.dafont.com/zerohype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZeroHype.ttf'
 end

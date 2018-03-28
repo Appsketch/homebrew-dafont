@@ -5,7 +5,6 @@ cask 'dafont-texas-ranger' do
     url 'http://dl.dafont.com/dl/?f=texas_ranger'
     name 'Texas Ranger'
     homepage 'http://www.dafont.com/texas-ranger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'texasranger.ttf'
     font 'texasranger3d.ttf'

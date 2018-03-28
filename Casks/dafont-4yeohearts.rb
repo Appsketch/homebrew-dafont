@@ -5,7 +5,6 @@ cask 'dafont-4yeohearts' do
     url 'http://dl.dafont.com/dl/?f=4yeohearts'
     name '4YEOhearts'
     homepage 'http://www.dafont.com/4yeohearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '4yeohearts.ttf'
 end

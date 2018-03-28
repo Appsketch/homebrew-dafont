@@ -5,7 +5,6 @@ cask 'dafont-jon-sans' do
     url 'http://dl.dafont.com/dl/?f=jon_sans'
     name 'Jon Sans'
     homepage 'http://www.dafont.com/jon-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jon Sans.ttf'
 end

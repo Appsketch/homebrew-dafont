@@ -5,7 +5,6 @@ cask 'dafont-minguarana' do
     url 'http://dl.dafont.com/dl/?f=minguarana'
     name 'Minguarana'
     homepage 'http://www.dafont.com/minguarana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minguarana.ttf'
 end

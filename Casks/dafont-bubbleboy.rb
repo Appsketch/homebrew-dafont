@@ -5,7 +5,6 @@ cask 'dafont-bubbleboy' do
     url 'http://dl.dafont.com/dl/?f=bubbleboy'
     name 'Bubbleboy'
     homepage 'http://www.dafont.com/bubbleboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUBBLEBO.TTF'
     font 'BUBBLEBOY2.ttf'

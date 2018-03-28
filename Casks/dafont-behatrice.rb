@@ -5,7 +5,6 @@ cask 'dafont-behatrice' do
     url 'http://dl.dafont.com/dl/?f=behatrice'
     name 'Behatrice'
     homepage 'http://www.dafont.com/behatrice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEHATRICE.ttf'
 end

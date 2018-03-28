@@ -5,7 +5,6 @@ cask 'dafont-chickweed-titling' do
     url 'http://dl.dafont.com/dl/?f=chickweed_titling'
     name 'Chickweed Titling'
     homepage 'http://www.dafont.com/chickweed-titling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chickweed titling.ttf'
 end

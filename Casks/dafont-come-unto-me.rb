@@ -5,7 +5,6 @@ cask 'dafont-come-unto-me' do
     url 'http://dl.dafont.com/dl/?f=come_unto_me'
     name 'Come Unto Me'
     homepage 'http://www.dafont.com/come-unto-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ComeUntoMe.ttf'
 end

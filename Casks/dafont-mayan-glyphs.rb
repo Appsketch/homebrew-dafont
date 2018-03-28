@@ -5,7 +5,6 @@ cask 'dafont-mayan-glyphs' do
     url 'http://dl.dafont.com/dl/?f=mayan_glyphs'
     name 'Mayan Glyphs'
     homepage 'http://www.dafont.com/mayan-glyphs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mayanglyphsfill-Regular.ttf'
     font 'mayanglyphsoutline-Regular.ttf'

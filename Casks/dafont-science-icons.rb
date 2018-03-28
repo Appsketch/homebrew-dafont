@@ -5,7 +5,6 @@ cask 'dafont-science-icons' do
     url 'http://dl.dafont.com/dl/?f=science_icons'
     name 'Science Icons'
     homepage 'http://www.dafont.com/science-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Science Icons.ttf'
 end

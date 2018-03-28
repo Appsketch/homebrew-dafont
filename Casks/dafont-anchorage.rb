@@ -5,7 +5,6 @@ cask 'dafont-anchorage' do
     url 'http://dl.dafont.com/dl/?f=anchorage'
     name 'Anchorage'
     homepage 'http://www.dafont.com/anchorage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'anchorage-regular.ttf'
 end

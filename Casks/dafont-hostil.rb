@@ -5,7 +5,6 @@ cask 'dafont-hostil' do
     url 'http://dl.dafont.com/dl/?f=hostil'
     name 'Hostil'
     homepage 'http://www.dafont.com/hostil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hostil Beveled.ttf'
     font 'Hostil Gradient.ttf'

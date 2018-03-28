@@ -5,7 +5,6 @@ cask 'dafont-tabarra' do
     url 'http://dl.dafont.com/dl/?f=tabarra'
     name 'Tabarra'
     homepage 'http://www.dafont.com/tabarra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TabarraPro-Black-FFP.ttf'
     font 'TabarraPro-Light-FFP.ttf'

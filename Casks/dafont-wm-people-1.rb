@@ -5,7 +5,6 @@ cask 'dafont-wm-people-1' do
     url 'http://dl.dafont.com/dl/?f=wm_people_1'
     name 'WM People 1'
     homepage 'http://www.dafont.com/wm-people-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmpeople1.TTF'
 end

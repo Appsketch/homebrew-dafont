@@ -5,7 +5,6 @@ cask 'dafont-thunder-thighs' do
     url 'http://dl.dafont.com/dl/?f=thunder_thighs'
     name 'Thunder Thighs'
     homepage 'http://www.dafont.com/thunder-thighs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thunder Thighs  Shadow.ttf'
     font 'Thunder Thighs.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-fanfarone' do
     url 'http://dl.dafont.com/dl/?f=fanfarone'
     name 'Fanfarone'
     homepage 'http://www.dafont.com/fanfarone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fanfarone-bold.ttf'
     font 'fanfarone-italique.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-chomage' do
     url 'http://dl.dafont.com/dl/?f=chomage'
     name 'Chomage'
     homepage 'http://www.dafont.com/chomage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chomage.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djb-nouveau' do
     url 'http://dl.dafont.com/dl/?f=djb_nouveau'
     name 'DJB Nouveau'
     homepage 'http://www.dafont.com/djb-nouveau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Nouveau Light.ttf'
     font 'DJB Nouveau.ttf'

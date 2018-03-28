@@ -5,7 +5,6 @@ cask 'dafont-purple-shadow' do
     url 'http://dl.dafont.com/dl/?f=purple_shadow'
     name 'Purple shadow'
     homepage 'http://www.dafont.com/purple-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Purpleshadow.ttf'
 end

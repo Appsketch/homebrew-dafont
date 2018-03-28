@@ -5,7 +5,6 @@ cask 'dafont-i-love-80s' do
     url 'http://dl.dafont.com/dl/?f=i_love_80s'
     name 'I Love 80&#039;s'
     homepage 'http://www.dafont.com/i-love-80s.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I Love 80s.ttf'
 end

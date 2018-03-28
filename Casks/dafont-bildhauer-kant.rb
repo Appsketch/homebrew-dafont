@@ -5,7 +5,6 @@ cask 'dafont-bildhauer-kant' do
     url 'http://dl.dafont.com/dl/?f=bildhauer_kant'
     name 'Bildhauer Kant'
     homepage 'http://www.dafont.com/bildhauer-kant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bildhauer_Kant_BLOCKTYPO.otf'
 end

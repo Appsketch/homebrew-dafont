@@ -5,7 +5,6 @@ cask 'dafont-hollow-hills' do
     url 'http://dl.dafont.com/dl/?f=hollow_hills'
     name 'Hollow Hills'
     homepage 'http://www.dafont.com/hollow-hills.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hollow Hills.ttf'
 end

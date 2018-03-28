@@ -5,7 +5,6 @@ cask 'dafont-baddit' do
     url 'http://dl.dafont.com/dl/?f=baddit'
     name 'Baddit'
     homepage 'http://www.dafont.com/baddit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baddit.ttf'
 end

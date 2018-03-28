@@ -5,7 +5,6 @@ cask 'dafont-spot-monkey' do
     url 'http://dl.dafont.com/dl/?f=spot_monkey'
     name 'Spot Monkey'
     homepage 'http://www.dafont.com/spot-monkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spot Monkey.otf'
 end

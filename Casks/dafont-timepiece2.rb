@@ -5,7 +5,6 @@ cask 'dafont-timepiece2' do
     url 'http://dl.dafont.com/dl/?f=timepiece2'
     name 'Timepiece'
     homepage 'http://www.dafont.com/timepiece2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Timepiece Italic.otf'
     font 'Timepiece.otf'

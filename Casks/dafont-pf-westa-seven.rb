@@ -5,7 +5,6 @@ cask 'dafont-pf-westa-seven' do
     url 'http://dl.dafont.com/dl/?f=pf_westa_seven'
     name 'PF Westa Seven'
     homepage 'http://www.dafont.com/pf-westa-seven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pf_westa_seven_condensed.ttf'
     font 'pf_westa_seven.ttf'

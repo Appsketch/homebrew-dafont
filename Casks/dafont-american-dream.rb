@@ -5,7 +5,6 @@ cask 'dafont-american-dream' do
     url 'http://dl.dafont.com/dl/?f=american_dream'
     name 'American Dream'
     homepage 'http://www.dafont.com/american-dream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AMERD___.TTF'
 end

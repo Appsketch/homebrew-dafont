@@ -5,7 +5,6 @@ cask 'dafont-code-s' do
     url 'http://dl.dafont.com/dl/?f=code_s'
     name 'Code S'
     homepage 'http://www.dafont.com/code-s.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CodeS-Regular.ttf'
 end

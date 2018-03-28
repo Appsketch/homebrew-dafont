@@ -5,7 +5,6 @@ cask 'dafont-sadana-square' do
     url 'http://dl.dafont.com/dl/?f=sadana_square'
     name 'Sadana Square'
     homepage 'http://www.dafont.com/sadana-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SadanaSquare.ttf'
 end

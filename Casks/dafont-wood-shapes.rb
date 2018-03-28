@@ -5,7 +5,6 @@ cask 'dafont-wood-shapes' do
     url 'http://dl.dafont.com/dl/?f=wood_shapes'
     name 'Wood Shapes'
     homepage 'http://www.dafont.com/wood-shapes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wood Shapes.ttf'
 end

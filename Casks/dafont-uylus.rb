@@ -5,7 +5,6 @@ cask 'dafont-uylus' do
     url 'http://dl.dafont.com/dl/?f=uylus'
     name 'Uylus'
     homepage 'http://www.dafont.com/uylus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UYLUS.TTF'
 end

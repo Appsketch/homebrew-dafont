@@ -5,7 +5,6 @@ cask 'dafont-red-moon-rising' do
     url 'http://dl.dafont.com/dl/?f=red_moon_rising'
     name 'Red Moon Rising'
     homepage 'http://www.dafont.com/red-moon-rising.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Red Moon Rising.otf'
 end

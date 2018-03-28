@@ -5,7 +5,6 @@ cask 'dafont-vonfont' do
     url 'http://dl.dafont.com/dl/?f=vonfont'
     name 'VonFont'
     homepage 'http://www.dafont.com/vonfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VonFont.ttf'
 end

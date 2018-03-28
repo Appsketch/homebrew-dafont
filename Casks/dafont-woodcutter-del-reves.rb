@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-del-reves' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_del_reves'
     name 'Woodcutter del reves'
     homepage 'http://www.dafont.com/woodcutter-del-reves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter del revs.ttf'
 end

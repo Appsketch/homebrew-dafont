@@ -5,7 +5,6 @@ cask 'dafont-fawn-script' do
     url 'http://dl.dafont.com/dl/?f=fawn_script'
     name 'Fawn Script'
     homepage 'http://www.dafont.com/fawn-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fawn.ttf'
 end

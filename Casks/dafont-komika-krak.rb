@@ -5,7 +5,6 @@ cask 'dafont-komika-krak' do
     url 'http://dl.dafont.com/dl/?f=komika_krak'
     name 'Komika Krak'
     homepage 'http://www.dafont.com/komika-krak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKRAK.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gantz-font' do
     url 'http://dl.dafont.com/dl/?f=gantz_font'
     name 'Gantz'
     homepage 'http://www.dafont.com/gantz-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gantz.ttf'
 end

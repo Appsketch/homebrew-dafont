@@ -5,7 +5,6 @@ cask 'dafont-i-love-you-monkey' do
     url 'http://dl.dafont.com/dl/?f=i_love_you_monkey'
     name 'I Love You, Monkey'
     homepage 'http://www.dafont.com/i-love-you-monkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I Love You, Monkey (Hearted).ttf'
     font 'I Love You, Monkey.ttf'

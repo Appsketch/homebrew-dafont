@@ -5,7 +5,6 @@ cask 'dafont-recognition' do
     url 'http://dl.dafont.com/dl/?f=recognition'
     name 'Recognition'
     homepage 'http://www.dafont.com/recognition.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RECOGNITION.ttf'
 end

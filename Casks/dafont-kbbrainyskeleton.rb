@@ -5,7 +5,6 @@ cask 'dafont-kbbrainyskeleton' do
     url 'http://dl.dafont.com/dl/?f=kbbrainyskeleton'
     name 'KB Brainy Skeleton'
     homepage 'http://www.dafont.com/kbbrainyskeleton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBBrainySkeleton.ttf'
 end

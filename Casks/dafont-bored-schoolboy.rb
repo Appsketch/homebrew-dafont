@@ -5,7 +5,6 @@ cask 'dafont-bored-schoolboy' do
     url 'http://dl.dafont.com/dl/?f=bored_schoolboy'
     name 'Bored Schoolboy'
     homepage 'http://www.dafont.com/bored-schoolboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOREDSB.TTF'
 end

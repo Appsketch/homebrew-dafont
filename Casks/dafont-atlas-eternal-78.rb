@@ -5,7 +5,6 @@ cask 'dafont-atlas-eternal-78' do
     url 'http://dl.dafont.com/dl/?f=atlas_eternal_78'
     name 'Atlas Eternal 78'
     homepage 'http://www.dafont.com/atlas-eternal-78.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Atlas Eternal 78 star.ttf'
     font 'Atlas Eternal 78.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-tioem-handwritten' do
     url 'http://dl.dafont.com/dl/?f=tioem_handwritten'
     name 'Tioem Handwritten'
     homepage 'http://www.dafont.com/tioem-handwritten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tioem-Handwritten.ttf'
 end

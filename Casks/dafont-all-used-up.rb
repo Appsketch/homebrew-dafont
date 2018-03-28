@@ -5,7 +5,6 @@ cask 'dafont-all-used-up' do
     url 'http://dl.dafont.com/dl/?f=all_used_up'
     name 'All Used Up'
     homepage 'http://www.dafont.com/all-used-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'all_used_up.ttf'
 end

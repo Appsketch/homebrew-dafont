@@ -5,7 +5,6 @@ cask 'dafont-eryxrenniemacintosh' do
     url 'http://dl.dafont.com/dl/?f=eryxrenniemacintosh'
     name 'Eryx Rennie Macintosh'
     homepage 'http://www.dafont.com/eryxrenniemacintosh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EryxRennieMacintosh.ttf'
 end

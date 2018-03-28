@@ -5,7 +5,6 @@ cask 'dafont-freestyler-ancient-f6' do
     url 'http://dl.dafont.com/dl/?f=freestyler_ancient_f6'
     name 'Freestyler Ancient F6'
     homepage 'http://www.dafont.com/freestyler-ancient-f6.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'freestyler ancient f6(modified).ttf'
 end

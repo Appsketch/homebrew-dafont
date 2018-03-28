@@ -5,7 +5,6 @@ cask 'dafont-sanz-query' do
     url 'http://dl.dafont.com/dl/?f=sanz_query'
     name 'Sanz Query'
     homepage 'http://www.dafont.com/sanz-query.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sanz query.ttf'
 end

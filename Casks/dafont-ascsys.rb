@@ -5,7 +5,6 @@ cask 'dafont-ascsys' do
     url 'http://dl.dafont.com/dl/?f=ascsys'
     name 'Ascsys'
     homepage 'http://www.dafont.com/ascsys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ascsys.ttf'
 end

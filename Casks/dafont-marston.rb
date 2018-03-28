@@ -5,7 +5,6 @@ cask 'dafont-marston' do
     url 'http://dl.dafont.com/dl/?f=marston'
     name 'Marston'
     homepage 'http://www.dafont.com/marston.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marston Bold Italic.otf'
     font 'Marston Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-tsunami' do
     url 'http://dl.dafont.com/dl/?f=tsunami'
     name 'Tsunami'
     homepage 'http://www.dafont.com/tsunami.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tsunami.ttf'
 end

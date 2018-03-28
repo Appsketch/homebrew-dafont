@@ -5,7 +5,6 @@ cask 'dafont-krakle' do
     url 'http://dl.dafont.com/dl/?f=krakle'
     name 'Krakle!'
     homepage 'http://www.dafont.com/krakle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Krakle!.ttf'
 end

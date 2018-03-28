@@ -5,7 +5,6 @@ cask 'dafont-vidok-fy' do
     url 'http://dl.dafont.com/dl/?f=vidok_fy'
     name 'Vidok FY'
     homepage 'http://www.dafont.com/vidok-fy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VidokFY-Regular_XS.ttf'
 end

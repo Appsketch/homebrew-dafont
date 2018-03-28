@@ -5,7 +5,6 @@ cask 'dafont-poste' do
     url 'http://dl.dafont.com/dl/?f=poste'
     name 'Poste'
     homepage 'http://www.dafont.com/poste.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'poste_wired.ttf'
 end

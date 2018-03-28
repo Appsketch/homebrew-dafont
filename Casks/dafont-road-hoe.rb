@@ -5,7 +5,6 @@ cask 'dafont-road-hoe' do
     url 'http://dl.dafont.com/dl/?f=road_hoe'
     name 'Road Hoe'
     homepage 'http://www.dafont.com/road-hoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROADHOE_.TTF'
 end

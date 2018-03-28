@@ -5,7 +5,6 @@ cask 'dafont-fazings-one' do
     url 'http://dl.dafont.com/dl/?f=fazings_one'
     name 'Fazings One'
     homepage 'http://www.dafont.com/fazings-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FAZINGSONE.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sanchez-mustache' do
     url 'http://dl.dafont.com/dl/?f=sanchez_mustache'
     name 'Sanchez Mustache'
     homepage 'http://www.dafont.com/sanchez-mustache.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mustache.ttf'
 end

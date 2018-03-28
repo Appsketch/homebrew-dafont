@@ -5,7 +5,6 @@ cask 'dafont-izabela' do
     url 'http://dl.dafont.com/dl/?f=izabela'
     name 'Izabela'
     homepage 'http://www.dafont.com/izabela.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Izabela.ttf'
 end

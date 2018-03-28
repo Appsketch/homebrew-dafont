@@ -5,7 +5,6 @@ cask 'dafont-cardinal' do
     url 'http://dl.dafont.com/dl/?f=cardinal'
     name 'Cardinal'
     homepage 'http://www.dafont.com/cardinal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cardinal-Alternate.ttf'
     font 'Cardinal.ttf'

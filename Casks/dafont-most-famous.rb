@@ -5,7 +5,6 @@ cask 'dafont-most-famous' do
     url 'http://dl.dafont.com/dl/?f=most_famous'
     name 'Most Famous'
     homepage 'http://www.dafont.com/most-famous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOST FAMOUS.ttf'
 end

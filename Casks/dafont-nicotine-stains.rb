@@ -5,7 +5,6 @@ cask 'dafont-nicotine-stains' do
     url 'http://dl.dafont.com/dl/?f=nicotine_stains'
     name 'Nicotine Stains'
     homepage 'http://www.dafont.com/nicotine-stains.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nicotine Stains.ttf'
 end

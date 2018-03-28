@@ -5,7 +5,6 @@ cask 'dafont-el-pececito' do
     url 'http://dl.dafont.com/dl/?f=el_pececito'
     name 'e-Pececito'
     homepage 'http://www.dafont.com/el-pececito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'e-Pececito-font.ttf'
 end

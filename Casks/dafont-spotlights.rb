@@ -5,7 +5,6 @@ cask 'dafont-spotlights' do
     url 'http://dl.dafont.com/dl/?f=spotlights'
     name 'Spot Lights'
     homepage 'http://www.dafont.com/spotlights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpotLights.ttf'
 end

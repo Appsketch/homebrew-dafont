@@ -5,7 +5,6 @@ cask 'dafont-tradizione' do
     url 'http://dl.dafont.com/dl/?f=tradizione'
     name 'Tradizione'
     homepage 'http://www.dafont.com/tradizione.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tradizione Slim.ttf'
     font 'Tradizione.ttf'

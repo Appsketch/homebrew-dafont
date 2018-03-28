@@ -5,7 +5,6 @@ cask 'dafont-synthek-ldr' do
     url 'http://dl.dafont.com/dl/?f=synthek_ldr'
     name 'Synthek LDR'
     homepage 'http://www.dafont.com/synthek-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'synthek_kana_ldr.ttf'
     font 'synthek_ldr.ttf'

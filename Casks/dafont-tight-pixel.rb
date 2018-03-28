@@ -5,7 +5,6 @@ cask 'dafont-tight-pixel' do
     url 'http://dl.dafont.com/dl/?f=tight_pixel'
     name 'Tight Pixel'
     homepage 'http://www.dafont.com/tight-pixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tight_pixel.ttf'
 end

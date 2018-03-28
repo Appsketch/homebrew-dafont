@@ -5,7 +5,6 @@ cask 'dafont-ds-goose' do
     url 'http://dl.dafont.com/dl/?f=ds_goose'
     name 'DS Goose'
     homepage 'http://www.dafont.com/ds-goose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ds_goose.ttf'
 end

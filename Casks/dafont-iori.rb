@@ -5,7 +5,6 @@ cask 'dafont-iori' do
     url 'http://dl.dafont.com/dl/?f=iori'
     name 'Iori'
     homepage 'http://www.dafont.com/iori.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iori Bold Italic.otf'
     font 'Iori Bold.otf'

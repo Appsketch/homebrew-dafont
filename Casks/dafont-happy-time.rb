@@ -5,7 +5,6 @@ cask 'dafont-happy-time' do
     url 'http://dl.dafont.com/dl/?f=happy_time'
     name 'Happy Time'
     homepage 'http://www.dafont.com/happy-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HappyTime.otf'
     font 'HappyTimeThree.otf'

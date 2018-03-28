@@ -5,7 +5,6 @@ cask 'dafont-toolbox' do
     url 'http://dl.dafont.com/dl/?f=toolbox'
     name 'ToolBox'
     homepage 'http://www.dafont.com/toolbox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'toolbox.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-henri-modeste' do
     url 'http://dl.dafont.com/dl/?f=henri_modeste'
     name 'Henri Modeste'
     homepage 'http://www.dafont.com/henri-modeste.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HenriModeste-Demo.otf'
 end

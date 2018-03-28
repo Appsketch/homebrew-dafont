@@ -5,7 +5,6 @@ cask 'dafont-forced-reentry' do
     url 'http://dl.dafont.com/dl/?f=forced_reentry'
     name 'Forced Reentry'
     homepage 'http://www.dafont.com/forced-reentry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FORCR___.TTF'
 end

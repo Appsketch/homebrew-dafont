@@ -5,7 +5,6 @@ cask 'dafont-cool-weekdays' do
     url 'http://dl.dafont.com/dl/?f=cool_weekdays'
     name 'Cool Weekdays'
     homepage 'http://www.dafont.com/cool-weekdays.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cool Weekdays Bold Demo.ttf'
 end

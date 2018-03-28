@@ -5,7 +5,6 @@ cask 'dafont-kblikepinkstars' do
     url 'http://dl.dafont.com/dl/?f=kblikepinkstars'
     name 'KB Like Pink Stars'
     homepage 'http://www.dafont.com/kblikepinkstars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBLikePinkStars.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-murrx' do
     url 'http://dl.dafont.com/dl/?f=murrx'
     name 'Murrx'
     homepage 'http://www.dafont.com/murrx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Murrx.ttf'
 end

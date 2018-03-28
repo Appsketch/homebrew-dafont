@@ -5,7 +5,6 @@ cask 'dafont-eyes-see-souls' do
     url 'http://dl.dafont.com/dl/?f=eyes_see_souls'
     name 'Eyes See Souls'
     homepage 'http://www.dafont.com/eyes-see-souls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eyes_see_souls-2.ttf'
 end

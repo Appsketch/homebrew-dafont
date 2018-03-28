@@ -5,7 +5,6 @@ cask 'dafont-sinner' do
     url 'http://dl.dafont.com/dl/?f=sinner'
     name 'Sinner'
     homepage 'http://www.dafont.com/sinner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SINNER__.TTF'
 end

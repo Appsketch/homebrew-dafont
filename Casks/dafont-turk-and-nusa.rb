@@ -5,7 +5,6 @@ cask 'dafont-turk-and-nusa' do
     url 'http://dl.dafont.com/dl/?f=turk_and_nusa'
     name 'Turk and Nusa'
     homepage 'http://www.dafont.com/turk-and-nusa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'turk_and_nusa.ttf'
 end

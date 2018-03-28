@@ -5,7 +5,6 @@ cask 'dafont-the-dark-ages' do
     url 'http://dl.dafont.com/dl/?f=the_dark_ages'
     name 'The Dark Ages'
     homepage 'http://www.dafont.com/the-dark-ages.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the_dark_ages.ttf'
 end

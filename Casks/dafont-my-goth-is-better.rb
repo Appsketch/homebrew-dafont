@@ -5,7 +5,6 @@ cask 'dafont-my-goth-is-better' do
     url 'http://dl.dafont.com/dl/?f=my_goth_is_better'
     name 'My Goth is better'
     homepage 'http://www.dafont.com/my-goth-is-better.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'my_goth_is__better.ttf'
 end

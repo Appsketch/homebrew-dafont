@@ -5,7 +5,6 @@ cask 'dafont-braeside' do
     url 'http://dl.dafont.com/dl/?f=braeside'
     name 'Braeside'
     homepage 'http://www.dafont.com/braeside.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'braeside lumberboy.ttf'
     font 'braeside outline.ttf'

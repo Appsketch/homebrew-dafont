@@ -5,7 +5,6 @@ cask 'dafont-foxes-in-love' do
     url 'http://dl.dafont.com/dl/?f=foxes_in_love'
     name 'Foxes In Love'
     homepage 'http://www.dafont.com/foxes-in-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Foxes In Love.ttf'
 end

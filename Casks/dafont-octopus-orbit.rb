@@ -5,7 +5,6 @@ cask 'dafont-octopus-orbit' do
     url 'http://dl.dafont.com/dl/?f=octopus_orbit'
     name 'Octopus Orbit'
     homepage 'http://www.dafont.com/octopus-orbit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OCTOPUSORBIT-Regular.ttf'
 end

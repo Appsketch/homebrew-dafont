@@ -5,7 +5,6 @@ cask 'dafont-on-a-run' do
     url 'http://dl.dafont.com/dl/?f=on_a_run'
     name 'On a Run'
     homepage 'http://www.dafont.com/on-a-run.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'On_a_Run.ttf'
 end

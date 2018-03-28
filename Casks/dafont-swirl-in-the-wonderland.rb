@@ -5,7 +5,6 @@ cask 'dafont-swirl-in-the-wonderland' do
     url 'http://dl.dafont.com/dl/?f=swirl_in_the_wonderland'
     name 'Swirl in the Wonderland'
     homepage 'http://www.dafont.com/swirl-in-the-wonderland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SwirlintheWonderland-Regular.ttf'
 end

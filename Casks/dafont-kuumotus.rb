@@ -5,7 +5,6 @@ cask 'dafont-kuumotus' do
     url 'http://dl.dafont.com/dl/?f=kuumotus'
     name 'Kuumotus'
     homepage 'http://www.dafont.com/kuumotus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kuumotus.ttf'
 end

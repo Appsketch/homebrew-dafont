@@ -5,7 +5,6 @@ cask 'dafont-variol' do
     url 'http://dl.dafont.com/dl/?f=variol'
     name 'Variol'
     homepage 'http://www.dafont.com/variol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Variol.TTF'
 end

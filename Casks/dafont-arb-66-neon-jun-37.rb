@@ -5,7 +5,6 @@ cask 'dafont-arb-66-neon-jun-37' do
     url 'http://dl.dafont.com/dl/?f=arb_66_neon_jun_37'
     name 'ARB-66 Neon JUN-37'
     homepage 'http://www.dafont.com/arb-66-neon-jun-37.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARB 66 Neon Block JUN-37.ttf'
     font 'ARB 66 Neon Line JUN-37.ttf'

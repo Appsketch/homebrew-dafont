@@ -5,7 +5,6 @@ cask 'dafont-komika-tread' do
     url 'http://dl.dafont.com/dl/?f=komika_tread'
     name 'Komika Tread'
     homepage 'http://www.dafont.com/komika-tread.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKATR.ttf'
 end

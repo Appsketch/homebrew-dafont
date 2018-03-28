@@ -5,7 +5,6 @@ cask 'dafont-elite' do
     url 'http://dl.dafont.com/dl/?f=elite'
     name 'Elite'
     homepage 'http://www.dafont.com/elite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elitemedium.ttf'
 end

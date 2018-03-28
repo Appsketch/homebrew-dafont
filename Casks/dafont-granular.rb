@@ -5,7 +5,6 @@ cask 'dafont-granular' do
     url 'http://dl.dafont.com/dl/?f=granular'
     name 'Granular'
     homepage 'http://www.dafont.com/granular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'granular.ttf'
 end

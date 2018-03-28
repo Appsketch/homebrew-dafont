@@ -5,7 +5,6 @@ cask 'dafont-gemelli' do
     url 'http://dl.dafont.com/dl/?f=gemelli'
     name 'Gemelli'
     homepage 'http://www.dafont.com/gemelli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GEMELLI_.TTF'
 end

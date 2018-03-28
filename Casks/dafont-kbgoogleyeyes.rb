@@ -5,7 +5,6 @@ cask 'dafont-kbgoogleyeyes' do
     url 'http://dl.dafont.com/dl/?f=kbgoogleyeyes'
     name 'KB Googley Eyes'
     homepage 'http://www.dafont.com/kbgoogleyeyes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBGoogleyEyes.ttf'
 end

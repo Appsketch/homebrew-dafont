@@ -5,7 +5,6 @@ cask 'dafont-infinity-media' do
     url 'http://dl.dafont.com/dl/?f=infinity_media'
     name 'Infinity Media'
     homepage 'http://www.dafont.com/infinity-media.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'infmedia.ttf'
 end

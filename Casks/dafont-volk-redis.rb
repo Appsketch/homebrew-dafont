@@ -5,7 +5,6 @@ cask 'dafont-volk-redis' do
     url 'http://dl.dafont.com/dl/?f=volk_redis'
     name 'Volk Redis'
     homepage 'http://www.dafont.com/volk-redis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VolkRedis Fett.ttf'
     font 'VolkRedis Fette Verkehrsschift.ttf'

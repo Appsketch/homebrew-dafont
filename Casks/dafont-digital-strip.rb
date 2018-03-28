@@ -5,7 +5,6 @@ cask 'dafont-digital-strip' do
     url 'http://dl.dafont.com/dl/?f=digital_strip'
     name 'Digital Strip'
     homepage 'http://www.dafont.com/digital-strip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'digistrip_b.ttf'
     font 'digistrip_i.ttf'

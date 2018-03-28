@@ -5,7 +5,6 @@ cask 'dafont-bopollux' do
     url 'http://dl.dafont.com/dl/?f=bopollux'
     name 'BoPollux'
     homepage 'http://www.dafont.com/bopollux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bopollux.ttf'
     font 'Neo Bopollux.ttf'

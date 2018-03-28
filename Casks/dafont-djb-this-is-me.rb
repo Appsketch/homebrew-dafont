@@ -5,7 +5,6 @@ cask 'dafont-djb-this-is-me' do
     url 'http://dl.dafont.com/dl/?f=djb_this_is_me'
     name 'DJB This is Me'
     homepage 'http://www.dafont.com/djb-this-is-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB This is Me 2.ttf'
     font 'DJB This is Me.ttf'

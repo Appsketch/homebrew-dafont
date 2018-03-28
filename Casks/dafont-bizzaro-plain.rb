@@ -5,7 +5,6 @@ cask 'dafont-bizzaro-plain' do
     url 'http://dl.dafont.com/dl/?f=bizzaro_plain'
     name 'Bizaro Plain'
     homepage 'http://www.dafont.com/bizzaro-plain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bikids.TTF'
 end

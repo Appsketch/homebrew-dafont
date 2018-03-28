@@ -5,7 +5,6 @@ cask 'dafont-own-written' do
     url 'http://dl.dafont.com/dl/?f=own_written'
     name 'Own Written'
     homepage 'http://www.dafont.com/own-written.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Own Written.ttf'
 end

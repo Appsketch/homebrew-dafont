@@ -5,7 +5,6 @@ cask 'dafont-gangland-style' do
     url 'http://dl.dafont.com/dl/?f=gangland_style'
     name 'Gangland Style'
     homepage 'http://www.dafont.com/gangland-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gangland.ttf'
 end

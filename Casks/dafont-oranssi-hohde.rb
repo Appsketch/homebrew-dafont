@@ -5,7 +5,6 @@ cask 'dafont-oranssi-hohde' do
     url 'http://dl.dafont.com/dl/?f=oranssi_hohde'
     name 'Oranssi hohde'
     homepage 'http://www.dafont.com/oranssi-hohde.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oranssi hohde.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-umbra' do
     url 'http://dl.dafont.com/dl/?f=umbra'
     name 'Umbra'
     homepage 'http://www.dafont.com/umbra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UMBRA Bold.ttf'
     font 'UMBRA Light.ttf'

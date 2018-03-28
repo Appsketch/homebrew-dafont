@@ -5,7 +5,6 @@ cask 'dafont-sport-4-ever' do
     url 'http://dl.dafont.com/dl/?f=sport_4_ever'
     name 'Sport 4 Ever'
     homepage 'http://www.dafont.com/sport-4-ever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sport 4 Ever.ttf'
 end

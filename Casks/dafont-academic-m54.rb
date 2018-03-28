@@ -5,7 +5,6 @@ cask 'dafont-academic-m54' do
     url 'http://dl.dafont.com/dl/?f=academic_m54'
     name 'Academic M54'
     homepage 'http://www.dafont.com/academic-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Academic M54.ttf'
 end

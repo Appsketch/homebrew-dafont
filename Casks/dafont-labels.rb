@@ -5,7 +5,6 @@ cask 'dafont-labels' do
     url 'http://dl.dafont.com/dl/?f=labels'
     name 'Labels'
     homepage 'http://www.dafont.com/labels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Labels Outline.ttf'
     font 'Labels.ttf'

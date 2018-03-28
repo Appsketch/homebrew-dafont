@@ -5,7 +5,6 @@ cask 'dafont-dk-lemon-yellow-sun' do
     url 'http://dl.dafont.com/dl/?f=dk_lemon_yellow_sun'
     name 'DK Lemon Yellow Sun'
     homepage 'http://www.dafont.com/dk-lemon-yellow-sun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Lemon Yellow Sun.otf'
 end

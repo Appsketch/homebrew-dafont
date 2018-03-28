@@ -5,7 +5,6 @@ cask 'dafont-spaceflight' do
     url 'http://dl.dafont.com/dl/?f=spaceflight'
     name 'Space Flight'
     homepage 'http://www.dafont.com/spaceflight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpaceFlight.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-janda-everyday-casual' do
     url 'http://dl.dafont.com/dl/?f=janda_everyday_casual'
     name 'Janda Everyday Casual'
     homepage 'http://www.dafont.com/janda-everyday-casual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaEverydayCasual.ttf'
 end

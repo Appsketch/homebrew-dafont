@@ -5,7 +5,6 @@ cask 'dafont-fombre' do
     url 'http://dl.dafont.com/dl/?f=fombre'
     name 'Fombre'
     homepage 'http://www.dafont.com/fombre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HM_Fombre.ttf'
 end

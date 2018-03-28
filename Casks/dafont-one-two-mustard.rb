@@ -5,7 +5,6 @@ cask 'dafont-one-two-mustard' do
     url 'http://dl.dafont.com/dl/?f=one_two_mustard'
     name 'One Two Mustard'
     homepage 'http://www.dafont.com/one-two-mustard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'one_two_mustard_hot.ttf'
     font 'one_two_mustard_regular.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-new-detroit' do
     url 'http://dl.dafont.com/dl/?f=new_detroit'
     name 'New Detroit'
     homepage 'http://www.dafont.com/new-detroit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'new detroit.ttf'
 end

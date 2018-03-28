@@ -5,7 +5,6 @@ cask 'dafont-scrawlywawly' do
     url 'http://dl.dafont.com/dl/?f=scrawlywawly'
     name 'Scrawly Wawly'
     homepage 'http://www.dafont.com/scrawlywawly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ScrawlyWawly.ttf'
 end

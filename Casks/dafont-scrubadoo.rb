@@ -5,7 +5,6 @@ cask 'dafont-scrubadoo' do
     url 'http://dl.dafont.com/dl/?f=scrubadoo'
     name 'Scrubadoo'
     homepage 'http://www.dafont.com/scrubadoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCRUBADO.TTF'
 end

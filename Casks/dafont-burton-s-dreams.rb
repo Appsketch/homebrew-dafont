@@ -5,7 +5,6 @@ cask 'dafont-burton-s-dreams' do
     url 'http://dl.dafont.com/dl/?f=burton_s_dreams'
     name 'Burton&#039;s Dreams'
     homepage 'http://www.dafont.com/burton-s-dreams.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Burton&#039;s Dreams by Jeniffer Z..ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-potted-balls' do
     url 'http://dl.dafont.com/dl/?f=potted_balls'
     name 'Potted Balls'
     homepage 'http://www.dafont.com/potted-balls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Potted Balls.ttf'
 end

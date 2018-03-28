@@ -5,7 +5,6 @@ cask 'dafont-lunas-handwriting' do
     url 'http://dl.dafont.com/dl/?f=lunas_handwriting'
     name 'Luna&#039;s Handwriting '
     homepage 'http://www.dafont.com/lunas-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Luna&#039;s Handwriting V1.1.ttf'
 end

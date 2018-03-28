@@ -5,7 +5,6 @@ cask 'dafont-my-hand-fights' do
     url 'http://dl.dafont.com/dl/?f=my_hand_fights'
     name 'My Hand Fights'
     homepage 'http://www.dafont.com/my-hand-fights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My-Hand-Fights-LS.ttf'
 end

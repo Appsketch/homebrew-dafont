@@ -5,7 +5,6 @@ cask 'dafont-headline-crack' do
     url 'http://dl.dafont.com/dl/?f=headline_crack'
     name 'Headline Crack'
     homepage 'http://www.dafont.com/headline-crack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Headline Crack.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-giraffe2' do
     url 'http://dl.dafont.com/dl/?f=giraffe2'
     name 'Giraffe'
     homepage 'http://www.dafont.com/giraffe2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Giraffe.ttf'
 end

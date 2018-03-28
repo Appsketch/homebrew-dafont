@@ -5,7 +5,6 @@ cask 'dafont-djb-sticky-tape-labels' do
     url 'http://dl.dafont.com/dl/?f=djb_sticky_tape_labels'
     name 'DJB Sticky Tape Labels'
     homepage 'http://www.dafont.com/djb-sticky-tape-labels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Sticky Tape Labels Spaced.ttf'
     font 'DJB Sticky Tape Labels Strips.ttf'

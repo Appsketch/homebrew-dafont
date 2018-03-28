@@ -5,7 +5,6 @@ cask 'dafont-human-brown-eye' do
     url 'http://dl.dafont.com/dl/?f=human_brown_eye'
     name 'Human Brown Eye'
     homepage 'http://www.dafont.com/human-brown-eye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HUMAN.TTF'
 end

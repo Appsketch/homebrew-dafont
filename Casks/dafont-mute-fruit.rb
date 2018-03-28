@@ -5,7 +5,6 @@ cask 'dafont-mute-fruit' do
     url 'http://dl.dafont.com/dl/?f=mute_fruit'
     name 'Mute Fruit'
     homepage 'http://www.dafont.com/mute-fruit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MUTEFRUIT.ttf'
     font 'MUTEFRUITBLACKCRASH.ttf'

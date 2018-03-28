@@ -5,7 +5,6 @@ cask 'dafont-notice-2-std' do
     url 'http://dl.dafont.com/dl/?f=notice_2_std'
     name 'Notice 2 Std'
     homepage 'http://www.dafont.com/notice-2-std.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Notice2Std.otf'
 end

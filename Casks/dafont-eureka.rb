@@ -5,7 +5,6 @@ cask 'dafont-eureka' do
     url 'http://dl.dafont.com/dl/?f=eureka'
     name 'Eureka'
     homepage 'http://www.dafont.com/eureka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eureka.ttf'
 end

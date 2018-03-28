@@ -5,7 +5,6 @@ cask 'dafont-knight-nifty-9' do
     url 'http://dl.dafont.com/dl/?f=knight_nifty_9'
     name 'Knight Nifty 9'
     homepage 'http://www.dafont.com/knight-nifty-9.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Knight Nifty 9.ttf'
 end

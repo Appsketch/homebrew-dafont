@@ -5,7 +5,6 @@ cask 'dafont-phrixus' do
     url 'http://dl.dafont.com/dl/?f=phrixus'
     name 'Phrixus'
     homepage 'http://www.dafont.com/phrixus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'phrixus.ttf'
 end

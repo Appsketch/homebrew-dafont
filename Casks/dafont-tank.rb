@@ -5,7 +5,6 @@ cask 'dafont-tank' do
     url 'http://dl.dafont.com/dl/?f=tank'
     name 'Tank'
     homepage 'http://www.dafont.com/tank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tank.ttf'
 end

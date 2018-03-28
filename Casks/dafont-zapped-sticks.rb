@@ -5,7 +5,6 @@ cask 'dafont-zapped-sticks' do
     url 'http://dl.dafont.com/dl/?f=zapped_sticks'
     name 'Zapped Sticks'
     homepage 'http://www.dafont.com/zapped-sticks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zapped Sticks.ttf'
 end

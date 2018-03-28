@@ -5,7 +5,6 @@ cask 'dafont-fonts-bomb-skipper' do
     url 'http://dl.dafont.com/dl/?f=fonts_bomb_skipper'
     name 'Fonts Bomb Skipper'
     homepage 'http://www.dafont.com/fonts-bomb-skipper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fonts Bomb Skipper.ttf'
 end

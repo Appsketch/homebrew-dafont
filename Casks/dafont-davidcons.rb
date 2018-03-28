@@ -5,7 +5,6 @@ cask 'dafont-davidcons' do
     url 'http://dl.dafont.com/dl/?f=davidcons'
     name 'DavidCons'
     homepage 'http://www.dafont.com/davidcons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DAVCON10.FON'
 end

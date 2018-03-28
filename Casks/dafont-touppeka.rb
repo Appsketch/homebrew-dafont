@@ -5,7 +5,6 @@ cask 'dafont-touppeka' do
     url 'http://dl.dafont.com/dl/?f=touppeka'
     name 'Touppeka'
     homepage 'http://www.dafont.com/touppeka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Touppeka.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ghostginger' do
     url 'http://dl.dafont.com/dl/?f=ghostginger'
     name 'Ghost Ginger'
     homepage 'http://www.dafont.com/ghostginger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ghostginger.ttf'
 end

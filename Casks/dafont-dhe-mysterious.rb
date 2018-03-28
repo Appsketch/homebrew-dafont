@@ -5,7 +5,6 @@ cask 'dafont-dhe-mysterious' do
     url 'http://dl.dafont.com/dl/?f=dhe_mysterious'
     name 'Dhe Mysterious'
     homepage 'http://www.dafont.com/dhe-mysterious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dhe Mysteri full.ttf'
 end

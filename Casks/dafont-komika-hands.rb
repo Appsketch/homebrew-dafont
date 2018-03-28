@@ -5,7 +5,6 @@ cask 'dafont-komika-hands' do
     url 'http://dl.dafont.com/dl/?f=komika_hands'
     name 'Komika Hands'
     homepage 'http://www.dafont.com/komika-hands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOMIKAH_.ttf'
     font 'KOMIKAHB.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-hyva-voittaa-pahan' do
     url 'http://dl.dafont.com/dl/?f=hyva_voittaa_pahan'
     name 'Hyv&auml; voittaa pahan'
     homepage 'http://www.dafont.com/hyva-voittaa-pahan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hyva voittaa pahan 6-0.ttf'
 end

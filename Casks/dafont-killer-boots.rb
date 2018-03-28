@@ -5,7 +5,6 @@ cask 'dafont-killer-boots' do
     url 'http://dl.dafont.com/dl/?f=killer_boots'
     name 'Killer Boots'
     homepage 'http://www.dafont.com/killer-boots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KILLERBOOTS.TTF'
 end

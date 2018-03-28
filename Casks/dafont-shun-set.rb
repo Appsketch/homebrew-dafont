@@ -5,7 +5,6 @@ cask 'dafont-shun-set' do
     url 'http://dl.dafont.com/dl/?f=shun_set'
     name 'Shun Set'
     homepage 'http://www.dafont.com/shun-set.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShunSet-Regular.ttf'
 end

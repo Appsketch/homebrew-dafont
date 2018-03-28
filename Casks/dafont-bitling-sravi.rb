@@ -5,7 +5,6 @@ cask 'dafont-bitling-sravi' do
     url 'http://dl.dafont.com/dl/?f=bitling_sravi'
     name 'Bitling Sravi'
     homepage 'http://www.dafont.com/bitling-sravi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bitlingSravi-Italic.ttf'
     font 'bitlingSravi-Regular.ttf'

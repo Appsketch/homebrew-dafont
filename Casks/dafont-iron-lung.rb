@@ -5,7 +5,6 @@ cask 'dafont-iron-lung' do
     url 'http://dl.dafont.com/dl/?f=iron_lung'
     name 'Iron Lung'
     homepage 'http://www.dafont.com/iron-lung.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iron Lung.ttf'
 end

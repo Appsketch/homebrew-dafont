@@ -5,7 +5,6 @@ cask 'dafont-baudot-5' do
     url 'http://dl.dafont.com/dl/?f=baudot_5'
     name 'Baudot 5'
     homepage 'http://www.dafont.com/baudot-5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'baudot5.ttf'
 end

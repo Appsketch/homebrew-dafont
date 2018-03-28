@@ -5,7 +5,6 @@ cask 'dafont-step-forward' do
     url 'http://dl.dafont.com/dl/?f=step_forward'
     name 'Step Forward'
     homepage 'http://www.dafont.com/step-forward.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'step forward.ttf'
 end

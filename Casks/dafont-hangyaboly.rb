@@ -5,7 +5,6 @@ cask 'dafont-hangyaboly' do
     url 'http://dl.dafont.com/dl/?f=hangyaboly'
     name 'Hangyaboly'
     homepage 'http://www.dafont.com/hangyaboly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hangyaboly.ttf'
 end

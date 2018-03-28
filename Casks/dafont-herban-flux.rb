@@ -5,7 +5,6 @@ cask 'dafont-herban-flux' do
     url 'http://dl.dafont.com/dl/?f=herban_flux'
     name 'Herban Flux'
     homepage 'http://www.dafont.com/herban-flux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HERBAN FLUX TYPE.ttf'
 end

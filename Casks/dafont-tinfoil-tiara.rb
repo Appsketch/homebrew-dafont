@@ -5,7 +5,6 @@ cask 'dafont-tinfoil-tiara' do
     url 'http://dl.dafont.com/dl/?f=tinfoil_tiara'
     name 'Tinfoil Tiara'
     homepage 'http://www.dafont.com/tinfoil-tiara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tinfoil Tiara DEMO.otf'
 end

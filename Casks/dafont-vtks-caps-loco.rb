@@ -5,7 +5,6 @@ cask 'dafont-vtks-caps-loco' do
     url 'http://dl.dafont.com/dl/?f=vtks_caps_loco'
     name 'Vtks Caps Loco'
     homepage 'http://www.dafont.com/vtks-caps-loco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Caps Loco.ttf'
 end

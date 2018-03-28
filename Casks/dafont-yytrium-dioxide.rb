@@ -5,7 +5,6 @@ cask 'dafont-yytrium-dioxide' do
     url 'http://dl.dafont.com/dl/?f=yytrium_dioxide'
     name 'Yytrium Dioxide'
     homepage 'http://www.dafont.com/yytrium-dioxide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tt/yytrium back.ttf'
     font 'tt/yytrium front.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-finnish-rock-painti' do
     url 'http://dl.dafont.com/dl/?f=finnish_rock_painti'
     name 'Finnish Rock Paintings'
     homepage 'http://www.dafont.com/finnish-rock-painti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Finnish Rock Paintings.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dots' do
     url 'http://dl.dafont.com/dl/?f=dots'
     name 'Dots'
     homepage 'http://www.dafont.com/dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOTS 6.0.otf'
 end

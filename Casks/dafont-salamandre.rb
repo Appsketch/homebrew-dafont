@@ -5,7 +5,6 @@ cask 'dafont-salamandre' do
     url 'http://dl.dafont.com/dl/?f=salamandre'
     name 'Salamandre'
     homepage 'http://www.dafont.com/salamandre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Salamandre.otf'
 end

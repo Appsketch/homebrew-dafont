@@ -5,7 +5,6 @@ cask 'dafont-ulusalokul-com-cizg' do
     url 'http://dl.dafont.com/dl/?f=ulusalokul_com_Cizg'
     name 'UlusalOkul.Com &Ccedil;izgili'
     homepage 'http://www.dafont.com/ulusalokul-com-Cizg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ulusalokul.com_cizgili.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bv-rondes' do
     url 'http://dl.dafont.com/dl/?f=bv_rondes'
     name 'BV Rondes'
     homepage 'http://www.dafont.com/bv-rondes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bvcursive.ttf'
     font 'bvrondit.ttf'

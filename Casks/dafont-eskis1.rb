@@ -5,7 +5,6 @@ cask 'dafont-eskis1' do
     url 'http://dl.dafont.com/dl/?f=eskis1'
     name 'Eskis'
     homepage 'http://www.dafont.com/eskis1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eskis.ttf'
 end

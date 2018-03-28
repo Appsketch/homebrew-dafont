@@ -5,7 +5,6 @@ cask 'dafont-dusty-pro' do
     url 'http://dl.dafont.com/dl/?f=dusty_pro'
     name 'Dusty Pro'
     homepage 'http://www.dafont.com/dusty-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dusty Pro.ttf'
 end

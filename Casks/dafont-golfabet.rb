@@ -5,7 +5,6 @@ cask 'dafont-golfabet' do
     url 'http://dl.dafont.com/dl/?f=golfabet'
     name 'Golfabet'
     homepage 'http://www.dafont.com/golfabet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GOLFABET.ttf'
 end

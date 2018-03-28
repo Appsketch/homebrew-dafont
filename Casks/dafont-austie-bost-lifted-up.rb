@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-lifted-up' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_lifted_up'
     name 'Austie Bost Lifted Up'
     homepage 'http://www.dafont.com/austie-bost-lifted-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Lifted Up.ttf'
 end

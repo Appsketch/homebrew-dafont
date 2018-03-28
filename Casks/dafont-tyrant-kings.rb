@@ -5,7 +5,6 @@ cask 'dafont-tyrant-kings' do
     url 'http://dl.dafont.com/dl/?f=tyrant_kings'
     name 'Tyrant Kings'
     homepage 'http://www.dafont.com/tyrant-kings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tyrant Kings.ttf'
 end

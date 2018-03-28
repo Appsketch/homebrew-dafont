@@ -5,7 +5,6 @@ cask 'dafont-majusculesbd' do
     url 'http://dl.dafont.com/dl/?f=majusculesbd'
     name 'Majuscules BD'
     homepage 'http://www.dafont.com/majusculesbd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'majusculesBD.ttf'
 end

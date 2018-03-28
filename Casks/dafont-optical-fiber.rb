@@ -5,7 +5,6 @@ cask 'dafont-optical-fiber' do
     url 'http://dl.dafont.com/dl/?f=optical_fiber'
     name 'Optical Fiber'
     homepage 'http://www.dafont.com/optical-fiber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Optical Fiber.ttf'
 end

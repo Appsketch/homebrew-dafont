@@ -5,7 +5,6 @@ cask 'dafont-typewriter-from-hel' do
     url 'http://dl.dafont.com/dl/?f=typewriter_from_hel'
     name 'Typewriter from Hell'
     homepage 'http://www.dafont.com/typewriter-from-hel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TYPEWRITERFROMHELL.ttf'
 end

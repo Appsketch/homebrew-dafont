@@ -5,7 +5,6 @@ cask 'dafont-summr-sketch' do
     url 'http://dl.dafont.com/dl/?f=summr_sketch'
     name 'Summr Sketch'
     homepage 'http://www.dafont.com/summr-sketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'summr_sketch.ttf'
 end

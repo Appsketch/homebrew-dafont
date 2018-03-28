@@ -5,7 +5,6 @@ cask 'dafont-pasta-palazzo' do
     url 'http://dl.dafont.com/dl/?f=pasta_palazzo'
     name 'Pasta Palazzo'
     homepage 'http://www.dafont.com/pasta-palazzo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pasta Palazzo.ttf'
 end

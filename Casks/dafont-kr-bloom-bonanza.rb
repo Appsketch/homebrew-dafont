@@ -5,7 +5,6 @@ cask 'dafont-kr-bloom-bonanza' do
     url 'http://dl.dafont.com/dl/?f=kr_bloom_bonanza'
     name 'KR Bloom Bonanza'
     homepage 'http://www.dafont.com/kr-bloom-bonanza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Bloom Bonanza.ttf'
 end

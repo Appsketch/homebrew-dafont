@@ -5,7 +5,6 @@ cask 'dafont-la-mamucha' do
     url 'http://dl.dafont.com/dl/?f=la_mamucha'
     name 'La Mamucha'
     homepage 'http://www.dafont.com/la-mamucha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'La_Mamucha.ttf'
 end

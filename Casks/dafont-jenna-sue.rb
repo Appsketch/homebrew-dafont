@@ -5,7 +5,6 @@ cask 'dafont-jenna-sue' do
     url 'http://dl.dafont.com/dl/?f=jenna_sue'
     name 'Jenna Sue'
     homepage 'http://www.dafont.com/jenna-sue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JennaSue.ttf'
 end

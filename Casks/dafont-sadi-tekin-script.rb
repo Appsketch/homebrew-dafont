@@ -5,7 +5,6 @@ cask 'dafont-sadi-tekin-script' do
     url 'http://dl.dafont.com/dl/?f=sadi_tekin_script'
     name 'Sadi Tekin Script'
     homepage 'http://www.dafont.com/sadi-tekin-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SadiTekinScript-Regular.ttf'
 end

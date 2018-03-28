@@ -5,7 +5,6 @@ cask 'dafont-dk-toverheks' do
     url 'http://dl.dafont.com/dl/?f=dk_toverheks'
     name 'DK Toverheks'
     homepage 'http://www.dafont.com/dk-toverheks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Toverheks.otf'
 end

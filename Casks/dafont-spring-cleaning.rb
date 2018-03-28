@@ -5,7 +5,6 @@ cask 'dafont-spring-cleaning' do
     url 'http://dl.dafont.com/dl/?f=spring_cleaning'
     name 'Spring Cleaning'
     homepage 'http://www.dafont.com/spring-cleaning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spring Cleaning.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-monstapix' do
     url 'http://dl.dafont.com/dl/?f=monstapix'
     name 'MonstaPix'
     homepage 'http://www.dafont.com/monstapix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monstapix.ttf'
 end

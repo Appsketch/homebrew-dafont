@@ -5,7 +5,6 @@ cask 'dafont-cirth-erebor' do
     url 'http://dl.dafont.com/dl/?f=cirth_erebor'
     name 'Cirth Erebor'
     homepage 'http://www.dafont.com/cirth-erebor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Erebcap.ttf'
     font 'Erebcap1.ttf'

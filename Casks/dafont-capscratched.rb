@@ -5,7 +5,6 @@ cask 'dafont-capscratched' do
     url 'http://dl.dafont.com/dl/?f=capscratched'
     name 'Cap Scratched'
     homepage 'http://www.dafont.com/capscratched.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CapScratched.ttf'
 end

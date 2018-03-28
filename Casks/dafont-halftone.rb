@@ -5,7 +5,6 @@ cask 'dafont-halftone' do
     url 'http://dl.dafont.com/dl/?f=halftone'
     name 'Halftone'
     homepage 'http://www.dafont.com/halftone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Halftone.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chasingtime' do
     url 'http://dl.dafont.com/dl/?f=chasingtime'
     name 'Chasing Time'
     homepage 'http://www.dafont.com/chasingtime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChasingTime.ttf'
 end

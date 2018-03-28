@@ -5,7 +5,6 @@ cask 'dafont-europarty' do
     url 'http://dl.dafont.com/dl/?f=europarty'
     name 'EuroParty'
     homepage 'http://www.dafont.com/europarty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EuroParty.ttf'
 end

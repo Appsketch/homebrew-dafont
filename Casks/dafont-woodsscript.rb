@@ -5,7 +5,6 @@ cask 'dafont-woodsscript' do
     url 'http://dl.dafont.com/dl/?f=woodsscript'
     name 'Woods Script'
     homepage 'http://www.dafont.com/woodsscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WoodsScript.ttf'
 end

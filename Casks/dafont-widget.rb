@@ -5,7 +5,6 @@ cask 'dafont-widget' do
     url 'http://dl.dafont.com/dl/?f=widget'
     name 'Widget'
     homepage 'http://www.dafont.com/widget.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Widget-Bold.ttf'
     font 'Widget-ExtraBold.ttf'

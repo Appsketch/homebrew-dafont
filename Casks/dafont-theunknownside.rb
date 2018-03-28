@@ -5,7 +5,6 @@ cask 'dafont-theunknownside' do
     url 'http://dl.dafont.com/dl/?f=theunknownside'
     name 'The Unknown Side'
     homepage 'http://www.dafont.com/theunknownside.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Unknown Side.ttf'
 end

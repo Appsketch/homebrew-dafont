@@ -5,7 +5,6 @@ cask 'dafont-dicishandwrite' do
     url 'http://dl.dafont.com/dl/?f=dicishandwrite'
     name 'Dicis Handwrite'
     homepage 'http://www.dafont.com/dicishandwrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dici&#039;s Handwrite.ttf'
 end

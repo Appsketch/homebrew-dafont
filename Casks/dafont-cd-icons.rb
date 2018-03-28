@@ -5,7 +5,6 @@ cask 'dafont-cd-icons' do
     url 'http://dl.dafont.com/dl/?f=cd_icons'
     name 'CD-Icons'
     homepage 'http://www.dafont.com/cd-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CD-IconsPC.ttf'
 end

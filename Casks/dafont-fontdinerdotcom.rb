@@ -5,7 +5,6 @@ cask 'dafont-fontdinerdotcom' do
     url 'http://dl.dafont.com/dl/?f=fontdinerdotcom'
     name 'Fontdinerdotcom'
     homepage 'http://www.dafont.com/fontdinerdotcom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fontdinerdotcom.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-heritage' do
     url 'http://dl.dafont.com/dl/?f=heritage'
     name 'Heritage'
     homepage 'http://www.dafont.com/heritage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heritage.ttf'
 end

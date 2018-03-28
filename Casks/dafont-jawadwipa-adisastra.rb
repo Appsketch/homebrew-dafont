@@ -5,7 +5,6 @@ cask 'dafont-jawadwipa-adisastra' do
     url 'http://dl.dafont.com/dl/?f=jawadwipa_adisastra'
     name 'Jawadwipa Adisastra'
     homepage 'http://www.dafont.com/jawadwipa-adisastra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jawadwipa.ttf'
 end

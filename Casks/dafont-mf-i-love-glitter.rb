@@ -5,7 +5,6 @@ cask 'dafont-mf-i-love-glitter' do
     url 'http://dl.dafont.com/dl/?f=mf_i_love_glitter'
     name 'Mf I Love Glitter'
     homepage 'http://www.dafont.com/mf-i-love-glitter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf I Love Glitter.ttf'
 end

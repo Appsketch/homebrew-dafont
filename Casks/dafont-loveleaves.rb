@@ -5,7 +5,6 @@ cask 'dafont-loveleaves' do
     url 'http://dl.dafont.com/dl/?f=loveleaves'
     name 'Loveleaves'
     homepage 'http://www.dafont.com/loveleaves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'loveleaves.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-charming-symbols' do
     url 'http://dl.dafont.com/dl/?f=charming_symbols'
     name 'Charming Symbols'
     homepage 'http://www.dafont.com/charming-symbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CharmingSymbols.ttf'
 end

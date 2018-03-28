@@ -5,7 +5,6 @@ cask 'dafont-villajuarez-son-display' do
     url 'http://dl.dafont.com/dl/?f=villajuarez_son_display'
     name 'Villajuarez Son Display'
     homepage 'http://www.dafont.com/villajuarez-son-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VILLAJUAREZ SON DISPLAY.ttf'
 end

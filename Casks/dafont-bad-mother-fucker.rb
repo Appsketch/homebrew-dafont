@@ -5,7 +5,6 @@ cask 'dafont-bad-mother-fucker' do
     url 'http://dl.dafont.com/dl/?f=bad_mother_fucker'
     name 'Bad Mother Fucker'
     homepage 'http://www.dafont.com/bad-mother-fucker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BAD MOTHER FUCKER.ttf'
 end

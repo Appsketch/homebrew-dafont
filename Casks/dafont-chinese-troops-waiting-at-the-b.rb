@@ -5,7 +5,6 @@ cask 'dafont-chinese-troops-waiting-at-the-b' do
     url 'http://dl.dafont.com/dl/?f=chinese_troops_waiting_at_the_b'
     name 'Chinese troops waiting at the border'
     homepage 'http://www.dafont.com/chinese-troops-waiting-at-the-b.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chinese_troops.ttf'
 end

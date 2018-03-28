@@ -5,7 +5,6 @@ cask 'dafont-passingnotes' do
     url 'http://dl.dafont.com/dl/?f=passingnotes'
     name 'Passing Notes'
     homepage 'http://www.dafont.com/passingnotes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Passing Notes.ttf'
 end

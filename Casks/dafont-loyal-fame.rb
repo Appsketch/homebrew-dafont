@@ -5,7 +5,6 @@ cask 'dafont-loyal-fame' do
     url 'http://dl.dafont.com/dl/?f=loyal_fame'
     name 'Loyal Fame'
     homepage 'http://www.dafont.com/loyal-fame.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'loyalfame-v1-1.ttf'
 end

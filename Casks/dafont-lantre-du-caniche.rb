@@ -5,7 +5,6 @@ cask 'dafont-lantre-du-caniche' do
     url 'http://dl.dafont.com/dl/?f=lantre_du_caniche'
     name 'L&#039;antre du Caniche'
     homepage 'http://www.dafont.com/lantre-du-caniche.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'L&#039;antre du Caniche doux.ttf'
     font 'L&#039;antre du Caniche.ttf'

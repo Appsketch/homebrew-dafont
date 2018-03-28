@@ -5,7 +5,6 @@ cask 'dafont-mrf-freckled-lemonade' do
     url 'http://dl.dafont.com/dl/?f=mrf_freckled_lemonade'
     name 'MRF Freckled Lemonade'
     homepage 'http://www.dafont.com/mrf-freckled-lemonade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MRF FreckledLemonade Demo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dead-hardy' do
     url 'http://dl.dafont.com/dl/?f=dead_hardy'
     name 'Dead Hardy'
     homepage 'http://www.dafont.com/dead-hardy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deadhardy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-byron-daze' do
     url 'http://dl.dafont.com/dl/?f=byron_daze'
     name 'Byron Daze'
     homepage 'http://www.dafont.com/byron-daze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Byron Daze.ttf'
 end

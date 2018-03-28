@@ -5,7 +5,6 @@ cask 'dafont-qrealib' do
     url 'http://dl.dafont.com/dl/?f=qrealib'
     name 'Qr&eacute;alib'
     homepage 'http://www.dafont.com/qrealib.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'qralib.ttf'
 end

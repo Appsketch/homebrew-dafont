@@ -5,7 +5,6 @@ cask 'dafont-stanberry' do
     url 'http://dl.dafont.com/dl/?f=stanberry'
     name 'Stanberry'
     homepage 'http://www.dafont.com/stanberry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stanberry.ttf'
 end

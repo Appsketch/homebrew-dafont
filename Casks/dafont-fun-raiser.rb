@@ -5,7 +5,6 @@ cask 'dafont-fun-raiser' do
     url 'http://dl.dafont.com/dl/?f=fun_raiser'
     name 'Fun Raiser'
     homepage 'http://www.dafont.com/fun-raiser.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fun Raiser.ttf'
 end

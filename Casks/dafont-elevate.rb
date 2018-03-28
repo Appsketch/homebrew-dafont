@@ -5,7 +5,6 @@ cask 'dafont-elevate' do
     url 'http://dl.dafont.com/dl/?f=elevate'
     name 'Elevate'
     homepage 'http://www.dafont.com/elevate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elevate_PersonalUse.ttf'
 end

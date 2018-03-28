@@ -5,7 +5,6 @@ cask 'dafont-liquid-crystal' do
     url 'http://dl.dafont.com/dl/?f=liquid_crystal'
     name 'Liquid Crystal'
     homepage 'http://www.dafont.com/liquid-crystal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LiquidCrystal-Bold.otf'
     font 'LiquidCrystal-BoldItalic.otf'

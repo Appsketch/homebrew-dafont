@@ -5,7 +5,6 @@ cask 'dafont-prime-directive' do
     url 'http://dl.dafont.com/dl/?f=prime_directive'
     name 'Prime Directive'
     homepage 'http://www.dafont.com/prime-directive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PRIMD___.TTF'
 end

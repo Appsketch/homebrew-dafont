@@ -5,7 +5,6 @@ cask 'dafont-iron-katakana' do
     url 'http://dl.dafont.com/dl/?f=iron_katakana'
     name 'Iron Katakana'
     homepage 'http://www.dafont.com/iron-katakana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IronkatakanaBlack.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-grande-andretti' do
     url 'http://dl.dafont.com/dl/?f=grande_andretti'
     name 'Grande Andretti'
     homepage 'http://www.dafont.com/grande-andretti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grande Andretti bold v1.0 _ limited charset.ttf'
     font 'Grande Andretti regular v1.0_ limited charset.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-holstein' do
     url 'http://dl.dafont.com/dl/?f=holstein'
     name 'Holstein'
     homepage 'http://www.dafont.com/holstein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'holsb___.ttf'
     font 'holstein.ttf'

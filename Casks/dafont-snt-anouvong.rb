@@ -5,7 +5,6 @@ cask 'dafont-snt-anouvong' do
     url 'http://dl.dafont.com/dl/?f=snt_anouvong'
     name 'SNT Anouvong'
     homepage 'http://www.dafont.com/snt-anouvong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SNT Anouvong Bold Regular Italic.ttf'
     font 'SNT Anouvong Bold Regular.ttf'

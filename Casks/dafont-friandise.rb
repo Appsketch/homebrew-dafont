@@ -5,7 +5,6 @@ cask 'dafont-friandise' do
     url 'http://dl.dafont.com/dl/?f=friandise'
     name 'Friandise'
     homepage 'http://www.dafont.com/friandise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FriandiseNormalDemo.otf'
     font 'FriandiseSwashDemo.otf'

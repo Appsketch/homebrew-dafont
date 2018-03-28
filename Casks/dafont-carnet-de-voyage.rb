@@ -5,7 +5,6 @@ cask 'dafont-carnet-de-voyage' do
     url 'http://dl.dafont.com/dl/?f=carnet_de_voyage'
     name 'Carnet de voyage'
     homepage 'http://www.dafont.com/carnet-de-voyage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carnet de voyage.ttf'
 end

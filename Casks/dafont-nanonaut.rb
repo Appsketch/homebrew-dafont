@@ -5,7 +5,6 @@ cask 'dafont-nanonaut' do
     url 'http://dl.dafont.com/dl/?f=nanonaut'
     name 'Nanonaut'
     homepage 'http://www.dafont.com/nanonaut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NANONAUT.TTF'
 end

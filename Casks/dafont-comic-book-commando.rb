@@ -5,7 +5,6 @@ cask 'dafont-comic-book-commando' do
     url 'http://dl.dafont.com/dl/?f=comic_book_commando'
     name 'Comic Book Commando'
     homepage 'http://www.dafont.com/comic-book-commando.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comicv23D.ttf'
     font 'Comicv2d.ttf'

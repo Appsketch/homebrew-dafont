@@ -5,7 +5,6 @@ cask 'dafont-webpixel-bitmap' do
     url 'http://dl.dafont.com/dl/?f=webpixel_bitmap'
     name 'Webpixel Bitmap'
     homepage 'http://www.dafont.com/webpixel-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'webpixel bitmap_regular.otf'
 end

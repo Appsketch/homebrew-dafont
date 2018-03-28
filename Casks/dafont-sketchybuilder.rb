@@ -5,7 +5,6 @@ cask 'dafont-sketchybuilder' do
     url 'http://dl.dafont.com/dl/?f=sketchybuilder'
     name 'Sketchy Builder'
     homepage 'http://www.dafont.com/sketchybuilder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SketchyBuilder.ttf'
 end

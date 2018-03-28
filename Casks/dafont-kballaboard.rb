@@ -5,7 +5,6 @@ cask 'dafont-kballaboard' do
     url 'http://dl.dafont.com/dl/?f=kballaboard'
     name 'KB All Aboard'
     homepage 'http://www.dafont.com/kballaboard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBAllAboard.ttf'
 end

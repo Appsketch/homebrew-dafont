@@ -5,7 +5,6 @@ cask 'dafont-zerohour' do
     url 'http://dl.dafont.com/dl/?f=zerohour'
     name 'Zero Hour'
     homepage 'http://www.dafont.com/zerohour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zero hour.ttf'
 end

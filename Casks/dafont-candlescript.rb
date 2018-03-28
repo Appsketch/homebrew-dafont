@@ -5,7 +5,6 @@ cask 'dafont-candlescript' do
     url 'http://dl.dafont.com/dl/?f=candlescript'
     name 'Candlescript'
     homepage 'http://www.dafont.com/candlescript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Candlescript Demo Version.otf'
 end

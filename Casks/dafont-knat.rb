@@ -5,7 +5,6 @@ cask 'dafont-knat' do
     url 'http://dl.dafont.com/dl/?f=knat'
     name 'Knat'
     homepage 'http://www.dafont.com/knat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Knat.ttf'
 end

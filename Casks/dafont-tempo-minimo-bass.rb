@@ -5,7 +5,6 @@ cask 'dafont-tempo-minimo-bass' do
     url 'http://dl.dafont.com/dl/?f=tempo_minimo_bass'
     name 'Tempo Minimo Bass'
     homepage 'http://www.dafont.com/tempo-minimo-bass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tempo Minimo Bass.ttf'
 end

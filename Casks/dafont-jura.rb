@@ -5,7 +5,6 @@ cask 'dafont-jura' do
     url 'http://dl.dafont.com/dl/?f=jura'
     name 'Jura'
     homepage 'http://www.dafont.com/jura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JuraBook.ttf'
     font 'JuraDemiBold.ttf'

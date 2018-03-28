@@ -5,7 +5,6 @@ cask 'dafont-masterstrike' do
     url 'http://dl.dafont.com/dl/?f=masterstrike'
     name 'Master Strike'
     homepage 'http://www.dafont.com/masterstrike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MasterStrike.ttf'
 end

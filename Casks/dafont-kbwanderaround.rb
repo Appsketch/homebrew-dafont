@@ -5,7 +5,6 @@ cask 'dafont-kbwanderaround' do
     url 'http://dl.dafont.com/dl/?f=kbwanderaround'
     name 'KB Wander Around'
     homepage 'http://www.dafont.com/kbwanderaround.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBWanderAround.ttf'
 end

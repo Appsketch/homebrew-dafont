@@ -5,7 +5,6 @@ cask 'dafont-alpenkreuzer' do
     url 'http://dl.dafont.com/dl/?f=alpenkreuzer'
     name 'Alpenkreuzer'
     homepage 'http://www.dafont.com/alpenkreuzer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alpenkreuzer.ttf'
 end

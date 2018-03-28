@@ -5,7 +5,6 @@ cask 'dafont-hard-talk' do
     url 'http://dl.dafont.com/dl/?f=hard_talk'
     name 'Hard Talk'
     homepage 'http://www.dafont.com/hard-talk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HardTalk.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gnuolane' do
     url 'http://dl.dafont.com/dl/?f=gnuolane'
     name 'Gnuolane'
     homepage 'http://www.dafont.com/gnuolane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gnuolane rg.ttf'
 end

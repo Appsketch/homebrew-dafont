@@ -5,7 +5,6 @@ cask 'dafont-mixspotted' do
     url 'http://dl.dafont.com/dl/?f=mixspotted'
     name 'Mix Spotted'
     homepage 'http://www.dafont.com/mixspotted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixSpotted.ttf'
 end

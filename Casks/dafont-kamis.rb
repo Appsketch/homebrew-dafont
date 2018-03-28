@@ -5,7 +5,6 @@ cask 'dafont-kamis' do
     url 'http://dl.dafont.com/dl/?f=kamis'
     name 'Kamis'
     homepage 'http://www.dafont.com/kamis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kamis.ttf'
 end

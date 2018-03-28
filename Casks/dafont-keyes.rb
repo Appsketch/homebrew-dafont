@@ -5,7 +5,6 @@ cask 'dafont-keyes' do
     url 'http://dl.dafont.com/dl/?f=keyes'
     name 'Keyes'
     homepage 'http://www.dafont.com/keyes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'keyes.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-cherry-cola' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_cherry_cola'
     name 'Austie Bost Cherry Cola'
     homepage 'http://www.dafont.com/austie-bost-cherry-cola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Cherry Cola.ttf'
 end

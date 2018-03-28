@@ -5,7 +5,6 @@ cask 'dafont-planned-obsolescenc' do
     url 'http://dl.dafont.com/dl/?f=planned_obsolescenc'
     name 'Planned Obsolescence'
     homepage 'http://www.dafont.com/planned-obsolescenc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'planob1.ttf'
 end

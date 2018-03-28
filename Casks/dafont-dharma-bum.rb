@@ -5,7 +5,6 @@ cask 'dafont-dharma-bum' do
     url 'http://dl.dafont.com/dl/?f=dharma_bum'
     name 'Dharma Bum'
     homepage 'http://www.dafont.com/dharma-bum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dharma Bum.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bitling-moksh' do
     url 'http://dl.dafont.com/dl/?f=bitling_moksh'
     name 'Bitling Moksh'
     homepage 'http://www.dafont.com/bitling-moksh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bitlingmoksh-Italic.ttf'
     font 'Bitlingmoksh-Regular.otf'

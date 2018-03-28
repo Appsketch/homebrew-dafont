@@ -5,7 +5,6 @@ cask 'dafont-acadian-runes' do
     url 'http://dl.dafont.com/dl/?f=acadian_runes'
     name 'Acadian Runes'
     homepage 'http://www.dafont.com/acadian-runes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Acadian_Runes-Regular_PERSONAL_USE.ttf'
 end

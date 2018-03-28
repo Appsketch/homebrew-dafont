@@ -5,7 +5,6 @@ cask 'dafont-dire-wolf' do
     url 'http://dl.dafont.com/dl/?f=dire_wolf'
     name 'Dire Wolf'
     homepage 'http://www.dafont.com/dire-wolf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'direwolf.ttf'
     font 'direwolf3d.ttf'

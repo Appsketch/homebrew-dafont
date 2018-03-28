@@ -5,7 +5,6 @@ cask 'dafont-colour-brush' do
     url 'http://dl.dafont.com/dl/?f=colour_brush'
     name 'Colour Brush'
     homepage 'http://www.dafont.com/colour-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'colour.ttf'
 end

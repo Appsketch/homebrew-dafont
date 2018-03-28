@@ -5,7 +5,6 @@ cask 'dafont-beowulf-runic' do
     url 'http://dl.dafont.com/dl/?f=beowulf_runic'
     name 'Beowulf Runic'
     homepage 'http://www.dafont.com/beowulf-runic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeowulfRunic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-raparperitaivas' do
     url 'http://dl.dafont.com/dl/?f=raparperitaivas'
     name 'Raparperitaivas'
     homepage 'http://www.dafont.com/raparperitaivas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raparperitaivas.ttf'
 end

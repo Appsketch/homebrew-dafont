@@ -5,7 +5,6 @@ cask 'dafont-erasaur' do
     url 'http://dl.dafont.com/dl/?f=erasaur'
     name 'Erasaur'
     homepage 'http://www.dafont.com/erasaur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Erasaur.otf'
 end

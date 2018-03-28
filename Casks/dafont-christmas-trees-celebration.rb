@@ -5,7 +5,6 @@ cask 'dafont-christmas-trees-celebration' do
     url 'http://dl.dafont.com/dl/?f=christmas_trees_celebration'
     name 'Christmas Trees Celebration'
     homepage 'http://www.dafont.com/christmas-trees-celebration.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Christmas Trees Celebration.otf'
 end

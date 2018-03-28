@@ -5,7 +5,6 @@ cask 'dafont-rankhaus' do
     url 'http://dl.dafont.com/dl/?f=rankhaus'
     name 'Rankhaus'
     homepage 'http://www.dafont.com/rankhaus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RANKHAUS SUPER.ttf'
 end

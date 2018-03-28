@@ -5,7 +5,6 @@ cask 'dafont-hanatasya-sans' do
     url 'http://dl.dafont.com/dl/?f=hanatasya_sans'
     name 'Hanatasya Sans'
     homepage 'http://www.dafont.com/hanatasya-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hanatasya Sans.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pwbarbecue' do
     url 'http://dl.dafont.com/dl/?f=pwbarbecue'
     name 'PW Barbecue'
     homepage 'http://www.dafont.com/pwbarbecue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWBarbecue.ttf'
 end

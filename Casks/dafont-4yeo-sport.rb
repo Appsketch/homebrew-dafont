@@ -5,7 +5,6 @@ cask 'dafont-4yeo-sport' do
     url 'http://dl.dafont.com/dl/?f=4yeo_sport'
     name '4yeo Sport'
     homepage 'http://www.dafont.com/4yeo-sport.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '4YEOSP___.TTF'
 end

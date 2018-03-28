@@ -5,7 +5,6 @@ cask 'dafont-cargo-crate' do
     url 'http://dl.dafont.com/dl/?f=cargo_crate'
     name 'Cargo Crate'
     homepage 'http://www.dafont.com/cargo-crate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CARGC___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-operation' do
     url 'http://dl.dafont.com/dl/?f=operation'
     name 'Operation'
     homepage 'http://www.dafont.com/operation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'operation.otf'
 end

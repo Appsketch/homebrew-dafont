@@ -5,7 +5,6 @@ cask 'dafont-kremlin-orthodox-church' do
     url 'http://dl.dafont.com/dl/?f=kremlin_orthodox_church'
     name 'Kremlin Orthodox Church'
     homepage 'http://www.dafont.com/kremlin-orthodox-church.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Orthodox Church.ttf'
 end

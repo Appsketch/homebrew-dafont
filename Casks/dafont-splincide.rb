@@ -5,7 +5,6 @@ cask 'dafont-splincide' do
     url 'http://dl.dafont.com/dl/?f=splincide'
     name 'Splincide'
     homepage 'http://www.dafont.com/splincide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Splincide.ttf'
 end

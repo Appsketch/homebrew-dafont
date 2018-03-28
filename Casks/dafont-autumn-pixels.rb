@@ -5,7 +5,6 @@ cask 'dafont-autumn-pixels' do
     url 'http://dl.dafont.com/dl/?f=autumn_pixels'
     name 'Autumn Pixels'
     homepage 'http://www.dafont.com/autumn-pixels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'autumnpixels-regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nic' do
     url 'http://dl.dafont.com/dl/?f=nic'
     name 'Nic'
     homepage 'http://www.dafont.com/nic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nic.ttf'
 end

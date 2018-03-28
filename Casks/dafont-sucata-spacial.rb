@@ -5,7 +5,6 @@ cask 'dafont-sucata-spacial' do
     url 'http://dl.dafont.com/dl/?f=sucata_spacial'
     name 'Sucata Spacial'
     homepage 'http://www.dafont.com/sucata-spacial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUCAS___.TTF'
 end

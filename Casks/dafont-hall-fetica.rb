@@ -5,7 +5,6 @@ cask 'dafont-hall-fetica' do
     url 'http://dl.dafont.com/dl/?f=hall_fetica'
     name 'Hall Fetica'
     homepage 'http://www.dafont.com/hall-fetica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hall Fetica Decompose Italic.ttf'
     font 'Hall Fetica Decompose.ttf'

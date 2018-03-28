@@ -5,7 +5,6 @@ cask 'dafont-gastro-intestinal-c' do
     url 'http://dl.dafont.com/dl/?f=gastro_intestinal_c'
     name 'Gastro Intestinal Confluent'
     homepage 'http://www.dafont.com/gastro-intestinal-c.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'giconfl-demo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bolt-cutter' do
     url 'http://dl.dafont.com/dl/?f=bolt_cutter'
     name 'Bolt Cutter'
     homepage 'http://www.dafont.com/bolt-cutter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bolt cutter light.TTF'
     font 'bolt cutter nasty.TTF'

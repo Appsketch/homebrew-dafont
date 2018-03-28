@@ -5,7 +5,6 @@ cask 'dafont-mafla' do
     url 'http://dl.dafont.com/dl/?f=mafla'
     name 'Mafla'
     homepage 'http://www.dafont.com/mafla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mafla.ttf'
 end

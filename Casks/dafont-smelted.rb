@@ -5,7 +5,6 @@ cask 'dafont-smelted' do
     url 'http://dl.dafont.com/dl/?f=smelted'
     name 'Smelted'
     homepage 'http://www.dafont.com/smelted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'smeltDemo.ttf'
 end

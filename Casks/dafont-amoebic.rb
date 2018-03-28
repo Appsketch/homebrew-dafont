@@ -5,7 +5,6 @@ cask 'dafont-amoebic' do
     url 'http://dl.dafont.com/dl/?f=amoebic'
     name 'Amoebic'
     homepage 'http://www.dafont.com/amoebic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amoebic.TTF'
 end

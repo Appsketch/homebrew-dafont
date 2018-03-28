@@ -5,7 +5,6 @@ cask 'dafont-pwboldscript' do
     url 'http://dl.dafont.com/dl/?f=pwboldscript'
     name 'PW Bold Script'
     homepage 'http://www.dafont.com/pwboldscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWBoldScript.ttf'
 end

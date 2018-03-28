@@ -5,7 +5,6 @@ cask 'dafont-kbseriouslyintoher' do
     url 'http://dl.dafont.com/dl/?f=kbseriouslyintoher'
     name 'KB Seriously Into Her'
     homepage 'http://www.dafont.com/kbseriouslyintoher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBSeriouslyIntoHer.ttf'
 end

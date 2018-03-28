@@ -5,7 +5,6 @@ cask 'dafont-symmetry' do
     url 'http://dl.dafont.com/dl/?f=symmetry'
     name 'Symmetry'
     homepage 'http://www.dafont.com/symmetry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'symmetry.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-erotokritos' do
     url 'http://dl.dafont.com/dl/?f=erotokritos'
     name 'Erotokritos'
     homepage 'http://www.dafont.com/erotokritos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'erotokritos.ttf'
 end

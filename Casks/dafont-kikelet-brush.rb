@@ -5,7 +5,6 @@ cask 'dafont-kikelet-brush' do
     url 'http://dl.dafont.com/dl/?f=kikelet_brush'
     name 'Kikelet Brush'
     homepage 'http://www.dafont.com/kikelet-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kikelet Brush.ttf'
 end

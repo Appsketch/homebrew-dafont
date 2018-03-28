@@ -5,7 +5,6 @@ cask 'dafont-junkos-typewriter' do
     url 'http://dl.dafont.com/dl/?f=junkos_typewriter'
     name 'Junko&#039;s Typewriter'
     homepage 'http://www.dafont.com/junkos-typewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'junkos typewriter.ttf'
 end

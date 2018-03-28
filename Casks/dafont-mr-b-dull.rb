@@ -5,7 +5,6 @@ cask 'dafont-mr-b-dull' do
     url 'http://dl.dafont.com/dl/?f=mr_b_dull'
     name 'Mr.B Dull'
     homepage 'http://www.dafont.com/mr-b-dull.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MrBDull2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-zamrud-khatulistiwa' do
     url 'http://dl.dafont.com/dl/?f=zamrud_khatulistiwa'
     name 'Zamrud &amp; Khatulistiwa'
     homepage 'http://www.dafont.com/zamrud-khatulistiwa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zamrud &amp; Khatulistiwa.ttf'
 end

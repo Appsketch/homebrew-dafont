@@ -5,7 +5,6 @@ cask 'dafont-meditation' do
     url 'http://dl.dafont.com/dl/?f=meditation'
     name 'Meditation'
     homepage 'http://www.dafont.com/meditation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Meditation.ttf'
 end

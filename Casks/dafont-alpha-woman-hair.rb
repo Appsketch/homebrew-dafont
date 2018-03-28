@@ -5,7 +5,6 @@ cask 'dafont-alpha-woman-hair' do
     url 'http://dl.dafont.com/dl/?f=alpha_woman_hair'
     name 'Alpha Woman Hair'
     homepage 'http://www.dafont.com/alpha-woman-hair.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaWomanHair.ttf'
 end

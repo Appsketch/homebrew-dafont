@@ -5,7 +5,6 @@ cask 'dafont-konata' do
     url 'http://dl.dafont.com/dl/?f=konata'
     name 'Konata'
     homepage 'http://www.dafont.com/konata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Konata.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fruit-sale' do
     url 'http://dl.dafont.com/dl/?f=fruit_sale'
     name 'Fruit Sale'
     homepage 'http://www.dafont.com/fruit-sale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FruitSale.ttf'
 end

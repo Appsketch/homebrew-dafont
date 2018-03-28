@@ -5,7 +5,6 @@ cask 'dafont-neon-serif' do
     url 'http://dl.dafont.com/dl/?f=neon_serif'
     name 'Neon Serif'
     homepage 'http://www.dafont.com/neon-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEONSERIF-Regular.otf'
 end

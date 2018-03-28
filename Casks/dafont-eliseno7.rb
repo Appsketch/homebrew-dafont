@@ -5,7 +5,6 @@ cask 'dafont-eliseno7' do
     url 'http://dl.dafont.com/dl/?f=eliseno7'
     name 'Elise No7'
     homepage 'http://www.dafont.com/eliseno7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EliseNo7.otf'
 end

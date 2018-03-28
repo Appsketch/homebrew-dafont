@@ -5,7 +5,6 @@ cask 'dafont-cantreach' do
     url 'http://dl.dafont.com/dl/?f=cantreach'
     name 'Cantreach'
     homepage 'http://www.dafont.com/cantreach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cantreach.ttf'
 end

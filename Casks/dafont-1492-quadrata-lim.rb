@@ -5,7 +5,6 @@ cask 'dafont-1492-quadrata-lim' do
     url 'http://dl.dafont.com/dl/?f=1492_quadrata_lim'
     name '1492 Quadrata Lim'
     homepage 'http://www.dafont.com/1492-quadrata-lim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1492_Quadrata_lim.TTF'
 end

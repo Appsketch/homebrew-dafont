@@ -5,7 +5,6 @@ cask 'dafont-forestlakes' do
     url 'http://dl.dafont.com/dl/?f=forestlakes'
     name 'Forest Lakes'
     homepage 'http://www.dafont.com/forestlakes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ForestLakes.ttf'
 end

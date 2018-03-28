@@ -5,7 +5,6 @@ cask 'dafont-harsh' do
     url 'http://dl.dafont.com/dl/?f=harsh'
     name 'Harsh'
     homepage 'http://www.dafont.com/harsh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Harsh - Black.ttf'
     font 'Harsh - Bold.ttf'

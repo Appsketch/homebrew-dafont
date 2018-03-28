@@ -5,7 +5,6 @@ cask 'dafont-swirlinsertion' do
     url 'http://dl.dafont.com/dl/?f=swirlinsertion'
     name 'Swirl Insertion'
     homepage 'http://www.dafont.com/swirlinsertion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SwirlInsertion.ttf'
 end

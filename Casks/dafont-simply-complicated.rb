@@ -5,7 +5,6 @@ cask 'dafont-simply-complicated' do
     url 'http://dl.dafont.com/dl/?f=simply_complicated'
     name 'Simply Complicated'
     homepage 'http://www.dafont.com/simply-complicated.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simply Complicated.ttf'
 end

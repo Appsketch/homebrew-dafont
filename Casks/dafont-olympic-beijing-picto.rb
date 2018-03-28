@@ -5,7 +5,6 @@ cask 'dafont-olympic-beijing-picto' do
     url 'http://dl.dafont.com/dl/?f=olympic_beijing_picto'
     name 'Olympic Beijing Picto'
     homepage 'http://www.dafont.com/olympic-beijing-picto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Olympic_Beijing_Pictos.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-crazyeyes' do
     url 'http://dl.dafont.com/dl/?f=crazyeyes'
     name 'Crazy Eyes'
     homepage 'http://www.dafont.com/crazyeyes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrazyEyes.ttf'
 end

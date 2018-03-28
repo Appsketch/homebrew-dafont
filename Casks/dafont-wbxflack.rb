@@ -5,7 +5,6 @@ cask 'dafont-wbxflack' do
     url 'http://dl.dafont.com/dl/?f=wbxflack'
     name 'WBX Flack'
     homepage 'http://www.dafont.com/wbxflack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WBXflack.ttf'
 end

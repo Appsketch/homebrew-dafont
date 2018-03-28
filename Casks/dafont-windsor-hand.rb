@@ -5,7 +5,6 @@ cask 'dafont-windsor-hand' do
     url 'http://dl.dafont.com/dl/?f=windsor_hand'
     name 'Windsor Hand'
     homepage 'http://www.dafont.com/windsor-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Windsor-Hand.otf'
 end

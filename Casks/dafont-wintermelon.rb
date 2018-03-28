@@ -5,7 +5,6 @@ cask 'dafont-wintermelon' do
     url 'http://dl.dafont.com/dl/?f=wintermelon'
     name 'Wintermelon'
     homepage 'http://www.dafont.com/wintermelon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Denne-Wintermelon.ttf'
 end

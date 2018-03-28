@@ -5,7 +5,6 @@ cask 'dafont-sf-grandezza' do
     url 'http://dl.dafont.com/dl/?f=sf_grandezza'
     name 'SF Grandezza'
     homepage 'http://www.dafont.com/sf-grandezza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Grandezza Heavy Oblique.ttf'
     font 'SF Grandezza Heavy.ttf'

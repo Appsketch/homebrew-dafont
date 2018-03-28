@@ -5,7 +5,6 @@ cask 'dafont-hitman-aj' do
     url 'http://dl.dafont.com/dl/?f=hitman_aj'
     name 'Hitman'
     homepage 'http://www.dafont.com/hitman-aj.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HITMAN__.TTF'
 end

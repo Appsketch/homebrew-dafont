@@ -5,7 +5,6 @@ cask 'dafont-cassatta-zig' do
     url 'http://dl.dafont.com/dl/?f=cassatta_zig'
     name 'Cassatta Zig'
     homepage 'http://www.dafont.com/cassatta-zig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CASSZ___.TTF'
 end

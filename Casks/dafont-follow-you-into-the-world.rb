@@ -5,7 +5,6 @@ cask 'dafont-follow-you-into-the-world' do
     url 'http://dl.dafont.com/dl/?f=follow_you_into_the_world'
     name 'Follow You Into the World'
     homepage 'http://www.dafont.com/follow-you-into-the-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FollowYouIntotheWorld.ttf'
 end

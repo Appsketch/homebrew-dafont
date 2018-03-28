@@ -5,7 +5,6 @@ cask 'dafont-wc-schlaasss' do
     url 'http://dl.dafont.com/dl/?f=wc_schlaasss'
     name 'WC Schlaasss'
     homepage 'http://www.dafont.com/wc-schlaasss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Classic_Version/WC_Schlaasss_Classic.ttf'
 end

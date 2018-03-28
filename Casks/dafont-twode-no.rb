@@ -5,7 +5,6 @@ cask 'dafont-twode-no' do
     url 'http://dl.dafont.com/dl/?f=twode_no'
     name 'Twode.no'
     homepage 'http://www.dafont.com/twode-no.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Twode.no.ttf'
 end

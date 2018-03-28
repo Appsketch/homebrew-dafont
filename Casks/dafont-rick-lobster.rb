@@ -5,7 +5,6 @@ cask 'dafont-rick-lobster' do
     url 'http://dl.dafont.com/dl/?f=rick_lobster'
     name 'Rick Lobster'
     homepage 'http://www.dafont.com/rick-lobster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rick_lobster.ttf'
 end

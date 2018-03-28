@@ -5,7 +5,6 @@ cask 'dafont-co2' do
     url 'http://dl.dafont.com/dl/?f=co2'
     name 'Co2'
     homepage 'http://www.dafont.com/co2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Co2.ttf'
 end

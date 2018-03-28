@@ -5,7 +5,6 @@ cask 'dafont-santiago-sans-st' do
     url 'http://dl.dafont.com/dl/?f=santiago_sans_st'
     name 'Santiago Sans ST'
     homepage 'http://www.dafont.com/santiago-sans-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Santiago Sans St.ttf'
 end

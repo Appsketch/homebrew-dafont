@@ -5,7 +5,6 @@ cask 'dafont-aquacolor' do
     url 'http://dl.dafont.com/dl/?f=aquacolor'
     name 'AquaColor'
     homepage 'http://www.dafont.com/aquacolor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AquaColor.ttf'
 end

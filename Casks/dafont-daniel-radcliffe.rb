@@ -5,7 +5,6 @@ cask 'dafont-daniel-radcliffe' do
     url 'http://dl.dafont.com/dl/?f=daniel_radcliffe'
     name 'Daniel Radcliffe'
     homepage 'http://www.dafont.com/daniel-radcliffe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Daniel Radcliffe.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-borneo' do
     url 'http://dl.dafont.com/dl/?f=borneo'
     name 'Borneo'
     homepage 'http://www.dafont.com/borneo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BORNEO__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-joker' do
     url 'http://dl.dafont.com/dl/?f=joker'
     name 'Joker'
     homepage 'http://www.dafont.com/joker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JOKER.ttf'
 end

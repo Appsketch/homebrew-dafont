@@ -5,7 +5,6 @@ cask 'dafont-stripeattack' do
     url 'http://dl.dafont.com/dl/?f=stripeattack'
     name 'Stripe Attack'
     homepage 'http://www.dafont.com/stripeattack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StripeAttack.ttf'
 end

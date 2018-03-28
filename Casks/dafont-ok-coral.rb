@@ -5,7 +5,6 @@ cask 'dafont-ok-coral' do
     url 'http://dl.dafont.com/dl/?f=ok_coral'
     name 'Ok Coral'
     homepage 'http://www.dafont.com/ok-coral.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'okcoral.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bloody-chrapnel' do
     url 'http://dl.dafont.com/dl/?f=bloody_chrapnel'
     name 'Bloody Chrapnel?'
     homepage 'http://www.dafont.com/bloody-chrapnel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLOOS___.TTF'
 end

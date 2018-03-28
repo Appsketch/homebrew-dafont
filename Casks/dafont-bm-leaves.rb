@@ -5,7 +5,6 @@ cask 'dafont-bm-leaves' do
     url 'http://dl.dafont.com/dl/?f=bm_leaves'
     name 'BM Leaves'
     homepage 'http://www.dafont.com/bm-leaves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMLEA___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-barnacle' do
     url 'http://dl.dafont.com/dl/?f=barnacle'
     name 'Barnacle'
     homepage 'http://www.dafont.com/barnacle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'barnacle.ttf'
 end

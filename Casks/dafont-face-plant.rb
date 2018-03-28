@@ -5,7 +5,6 @@ cask 'dafont-face-plant' do
     url 'http://dl.dafont.com/dl/?f=face_plant'
     name 'Face Plant'
     homepage 'http://www.dafont.com/face-plant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FACEhi.TTF'
     font 'FACEI___.TTF'

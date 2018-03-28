@@ -5,7 +5,6 @@ cask 'dafont-jabjai' do
     url 'http://dl.dafont.com/dl/?f=jabjai'
     name 'Jabjai'
     homepage 'http://www.dafont.com/jabjai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jabjai_heavy.TTF'
     font 'jabjai_light.TTF'

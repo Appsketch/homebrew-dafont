@@ -5,7 +5,6 @@ cask 'dafont-metropolian2' do
     url 'http://dl.dafont.com/dl/?f=metropolian2'
     name 'Metropolian'
     homepage 'http://www.dafont.com/metropolian2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Metropolian-Display.ttf'
     font 'Metropolian-Text.ttf'

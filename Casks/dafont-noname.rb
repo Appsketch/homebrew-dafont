@@ -5,7 +5,6 @@ cask 'dafont-noname' do
     url 'http://dl.dafont.com/dl/?f=noname'
     name 'No Name'
     homepage 'http://www.dafont.com/noname.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NONAME.ttf'
     font 'NONAMEHD.ttf'

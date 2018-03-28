@@ -5,7 +5,6 @@ cask 'dafont-humannature' do
     url 'http://dl.dafont.com/dl/?f=humannature'
     name 'Human Nature'
     homepage 'http://www.dafont.com/humannature.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HumanNature.ttf'
 end

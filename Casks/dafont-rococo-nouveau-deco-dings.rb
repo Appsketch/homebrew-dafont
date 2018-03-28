@@ -5,7 +5,6 @@ cask 'dafont-rococo-nouveau-deco-dings' do
     url 'http://dl.dafont.com/dl/?f=rococo_nouveau_deco_dings'
     name 'Rococo Nouveau Deco Dings'
     homepage 'http://www.dafont.com/rococo-nouveau-deco-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rococo Nouveau Deco dings.otf'
 end

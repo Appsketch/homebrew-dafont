@@ -5,7 +5,6 @@ cask 'dafont-hff-modern-strand' do
     url 'http://dl.dafont.com/dl/?f=hff_modern_strand'
     name 'HFF Modern Strand'
     homepage 'http://www.dafont.com/hff-modern-strand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Modern Strand.ttf'
 end

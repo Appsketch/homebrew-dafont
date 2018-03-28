@@ -5,7 +5,6 @@ cask 'dafont-east-west' do
     url 'http://dl.dafont.com/dl/?f=east_west'
     name 'East-West'
     homepage 'http://www.dafont.com/east-west.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eastwest.ttf'
     font 'eastwest3d.ttf'

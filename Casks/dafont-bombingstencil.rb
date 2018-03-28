@@ -5,7 +5,6 @@ cask 'dafont-bombingstencil' do
     url 'http://dl.dafont.com/dl/?f=bombingstencil'
     name 'Bombing Stencil'
     homepage 'http://www.dafont.com/bombingstencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BombingStencil.ttf'
 end

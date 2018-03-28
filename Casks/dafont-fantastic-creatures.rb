@@ -5,7 +5,6 @@ cask 'dafont-fantastic-creatures' do
     url 'http://dl.dafont.com/dl/?f=fantastic_creatures'
     name 'Fantastic Creatures'
     homepage 'http://www.dafont.com/fantastic-creatures.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fantastic.ttf'
 end

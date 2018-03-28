@@ -5,7 +5,6 @@ cask 'dafont-holyscriptacular' do
     url 'http://dl.dafont.com/dl/?f=holyscriptacular'
     name 'Holy Scriptacular'
     homepage 'http://www.dafont.com/holyscriptacular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HolyScriptacular.ttf'
 end

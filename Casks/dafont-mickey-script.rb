@@ -5,7 +5,6 @@ cask 'dafont-mickey-script' do
     url 'http://dl.dafont.com/dl/?f=mickey_script'
     name 'Mickey Script'
     homepage 'http://www.dafont.com/mickey-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mickey_script.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-marisol' do
     url 'http://dl.dafont.com/dl/?f=marisol'
     name 'Marisol'
     homepage 'http://www.dafont.com/marisol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marisol.ttf'
 end

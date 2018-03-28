@@ -5,7 +5,6 @@ cask 'dafont-vtks-sonho' do
     url 'http://dl.dafont.com/dl/?f=vtks_sonho'
     name 'Vtks Sonho'
     homepage 'http://www.dafont.com/vtks-sonho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Sonho.ttf'
 end

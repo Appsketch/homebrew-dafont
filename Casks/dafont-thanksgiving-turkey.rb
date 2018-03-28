@@ -5,7 +5,6 @@ cask 'dafont-thanksgiving-turkey' do
     url 'http://dl.dafont.com/dl/?f=thanksgiving_turkey'
     name 'Thanksgiving Turkey'
     homepage 'http://www.dafont.com/thanksgiving-turkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thanksgiving turkey.ttf'
 end

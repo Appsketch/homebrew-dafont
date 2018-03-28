@@ -5,7 +5,6 @@ cask 'dafont-siple' do
     url 'http://dl.dafont.com/dl/?f=siple'
     name 'Siple'
     homepage 'http://www.dafont.com/siple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SIPLDB__.TTF'
     font 'SIPLDBO_.TTF'

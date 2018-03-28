@@ -5,7 +5,6 @@ cask 'dafont-aux-dotbitc' do
     url 'http://dl.dafont.com/dl/?f=aux_dotbitc'
     name 'Aux DotBitC'
     homepage 'http://www.dafont.com/aux-dotbitc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'adbxtra.ttf'
     font 'adbxtsc.ttf'

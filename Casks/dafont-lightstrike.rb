@@ -5,7 +5,6 @@ cask 'dafont-lightstrike' do
     url 'http://dl.dafont.com/dl/?f=lightstrike'
     name 'Lightstrike'
     homepage 'http://www.dafont.com/lightstrike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lightstrike_Trial.ttf'
 end

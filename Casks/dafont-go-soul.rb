@@ -5,7 +5,6 @@ cask 'dafont-go-soul' do
     url 'http://dl.dafont.com/dl/?f=go_soul'
     name 'Go Soul'
     homepage 'http://www.dafont.com/go-soul.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GOSOUL__.TTF'
 end

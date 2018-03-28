@@ -5,7 +5,6 @@ cask 'dafont-endlesstype' do
     url 'http://dl.dafont.com/dl/?f=endlesstype'
     name 'Endlesstype'
     homepage 'http://www.dafont.com/endlesstype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Endlesstype.ttf'
 end

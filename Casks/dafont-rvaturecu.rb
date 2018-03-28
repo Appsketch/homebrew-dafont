@@ -5,7 +5,6 @@ cask 'dafont-rvaturecu' do
     url 'http://dl.dafont.com/dl/?f=rvaturecu'
     name 'Rvaturecu'
     homepage 'http://www.dafont.com/rvaturecu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rvaturecu.ttf'
 end

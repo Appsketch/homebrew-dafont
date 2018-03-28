@@ -5,7 +5,6 @@ cask 'dafont-mtf-drgnldy' do
     url 'http://dl.dafont.com/dl/?f=mtf_drgnldy'
     name 'MTF Drgnldy'
     homepage 'http://www.dafont.com/mtf-drgnldy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF drgnldy.ttf'
 end

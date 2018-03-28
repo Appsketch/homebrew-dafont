@@ -5,7 +5,6 @@ cask 'dafont-pleiades' do
     url 'http://dl.dafont.com/dl/?f=pleiades'
     name 'Pleiades'
     homepage 'http://www.dafont.com/pleiades.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pleiades.TTF'
 end

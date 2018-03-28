@@ -5,7 +5,6 @@ cask 'dafont-typos' do
     url 'http://dl.dafont.com/dl/?f=typos'
     name 'Typos'
     homepage 'http://www.dafont.com/typos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typos-Regular.ttf'
 end

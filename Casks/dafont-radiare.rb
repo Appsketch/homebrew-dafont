@@ -5,7 +5,6 @@ cask 'dafont-radiare' do
     url 'http://dl.dafont.com/dl/?f=radiare'
     name 'Radiare'
     homepage 'http://www.dafont.com/radiare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'radiare.ttf'
 end

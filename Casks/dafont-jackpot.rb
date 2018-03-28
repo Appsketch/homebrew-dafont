@@ -5,7 +5,6 @@ cask 'dafont-jackpot' do
     url 'http://dl.dafont.com/dl/?f=jackpot'
     name 'Jackpot'
     homepage 'http://www.dafont.com/jackpot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jackpot Demo.ttf'
 end

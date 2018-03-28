@@ -5,7 +5,6 @@ cask 'dafont-myboothang' do
     url 'http://dl.dafont.com/dl/?f=myboothang'
     name 'My Boo Thang'
     homepage 'http://www.dafont.com/myboothang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MyBooThang.ttf'
 end

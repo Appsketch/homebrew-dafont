@@ -5,7 +5,6 @@ cask 'dafont-blockline' do
     url 'http://dl.dafont.com/dl/?f=blockline'
     name 'Blockline'
     homepage 'http://www.dafont.com/blockline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blockline.ttf'
 end

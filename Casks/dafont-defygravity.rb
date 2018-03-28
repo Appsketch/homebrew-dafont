@@ -5,7 +5,6 @@ cask 'dafont-defygravity' do
     url 'http://dl.dafont.com/dl/?f=defygravity'
     name 'Defy Gravity'
     homepage 'http://www.dafont.com/defygravity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DefyGravity.ttf'
 end

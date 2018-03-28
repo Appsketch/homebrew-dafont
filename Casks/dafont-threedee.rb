@@ -5,7 +5,6 @@ cask 'dafont-threedee' do
     url 'http://dl.dafont.com/dl/?f=threedee'
     name 'Three Dee'
     homepage 'http://www.dafont.com/threedee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThreeDee.ttf'
 end

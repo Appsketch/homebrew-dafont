@@ -5,7 +5,6 @@ cask 'dafont-djb-drives-me-dotty' do
     url 'http://dl.dafont.com/dl/?f=djb_drives_me_dotty'
     name 'DJB Drives Me Dotty'
     homepage 'http://www.dafont.com/djb-drives-me-dotty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Drives Me Dotty.ttf'
 end

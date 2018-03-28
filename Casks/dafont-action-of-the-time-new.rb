@@ -5,7 +5,6 @@ cask 'dafont-action-of-the-time-new' do
     url 'http://dl.dafont.com/dl/?f=action_of_the_time_new'
     name 'Action of the Time New'
     homepage 'http://www.dafont.com/action-of-the-time-new.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Action of the Time New.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-daily-natalie' do
     url 'http://dl.dafont.com/dl/?f=daily_natalie'
     name 'Daily Natalie'
     homepage 'http://www.dafont.com/daily-natalie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Daily_Natalie.ttf'
 end

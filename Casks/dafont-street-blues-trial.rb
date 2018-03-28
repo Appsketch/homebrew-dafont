@@ -5,7 +5,6 @@ cask 'dafont-street-blues-trial' do
     url 'http://dl.dafont.com/dl/?f=street_blues_trial'
     name 'Street Blues Trial'
     homepage 'http://www.dafont.com/street-blues-trial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Street_Blues.ttf'
 end

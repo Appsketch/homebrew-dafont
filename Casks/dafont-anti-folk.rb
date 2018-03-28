@@ -5,7 +5,6 @@ cask 'dafont-anti-folk' do
     url 'http://dl.dafont.com/dl/?f=anti_folk'
     name 'Anti Folk'
     homepage 'http://www.dafont.com/anti-folk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'anti folk_pk.ttf'
     font 'anti folk.ttf'

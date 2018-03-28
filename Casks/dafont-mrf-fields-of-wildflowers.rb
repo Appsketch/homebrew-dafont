@@ -5,7 +5,6 @@ cask 'dafont-mrf-fields-of-wildflowers' do
     url 'http://dl.dafont.com/dl/?f=mrf_fields_of_wildflowers'
     name 'MRF Fields of Wildflowers'
     homepage 'http://www.dafont.com/mrf-fields-of-wildflowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MRF- fields of wildflowers.ttf'
 end

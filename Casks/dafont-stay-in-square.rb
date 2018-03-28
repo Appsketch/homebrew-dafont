@@ -5,7 +5,6 @@ cask 'dafont-stay-in-square' do
     url 'http://dl.dafont.com/dl/?f=stay_in_square'
     name 'Stay In Square'
     homepage 'http://www.dafont.com/stay-in-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stay in square.ttf'
 end

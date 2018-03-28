@@ -5,7 +5,6 @@ cask 'dafont-no-running-in-the-halls' do
     url 'http://dl.dafont.com/dl/?f=no_running_in_the_halls'
     name 'No Running In The Halls'
     homepage 'http://www.dafont.com/no-running-in-the-halls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'No Running In The Halls.ttf'
 end

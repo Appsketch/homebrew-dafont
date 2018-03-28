@@ -5,7 +5,6 @@ cask 'dafont-marathon' do
     url 'http://dl.dafont.com/dl/?f=marathon'
     name 'Marathon'
     homepage 'http://www.dafont.com/marathon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mara2v2.ttf'
 end

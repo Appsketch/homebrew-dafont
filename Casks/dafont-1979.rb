@@ -5,7 +5,6 @@ cask 'dafont-1979' do
     url 'http://dl.dafont.com/dl/?f=1979'
     name '1979'
     homepage 'http://www.dafont.com/1979.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1979rg__.ttf'
 end

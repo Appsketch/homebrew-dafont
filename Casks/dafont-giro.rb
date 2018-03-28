@@ -5,7 +5,6 @@ cask 'dafont-giro' do
     url 'http://dl.dafont.com/dl/?f=giro'
     name 'Giro'
     homepage 'http://www.dafont.com/giro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'girolight001.otf'
     font 'girooutline001.otf'

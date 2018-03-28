@@ -5,7 +5,6 @@ cask 'dafont-szwederowo' do
     url 'http://dl.dafont.com/dl/?f=szwederowo'
     name 'Szwederowo'
     homepage 'http://www.dafont.com/szwederowo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Szwederowo Typeface.otf'
 end

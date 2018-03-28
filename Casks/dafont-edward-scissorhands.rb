@@ -5,7 +5,6 @@ cask 'dafont-edward-scissorhands' do
     url 'http://dl.dafont.com/dl/?f=edward_scissorhands'
     name 'Edward Scissorhands '
     homepage 'http://www.dafont.com/edward-scissorhands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Edward Scissorhands.ttf'
 end

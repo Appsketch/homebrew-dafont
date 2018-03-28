@@ -5,7 +5,6 @@ cask 'dafont-obeytyrant' do
     url 'http://dl.dafont.com/dl/?f=obeytyrant'
     name 'Obey Tyrant'
     homepage 'http://www.dafont.com/obeytyrant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ObeyTyrant_caps.ttf'
 end

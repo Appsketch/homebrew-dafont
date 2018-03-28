@@ -5,7 +5,6 @@ cask 'dafont-smoolthan' do
     url 'http://dl.dafont.com/dl/?f=smoolthan'
     name 'Smoolthan'
     homepage 'http://www.dafont.com/smoolthan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smoolthan Bold-Italic.otf'
     font 'Smoolthan Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-caslon' do
     url 'http://dl.dafont.com/dl/?f=caslon'
     name 'Caslon'
     homepage 'http://www.dafont.com/caslon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CAS_INIT.TTF'
     font 'Caslon_Calligraphic.ttf'

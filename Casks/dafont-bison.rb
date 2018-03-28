@@ -5,7 +5,6 @@ cask 'dafont-bison' do
     url 'http://dl.dafont.com/dl/?f=bison'
     name 'Bison'
     homepage 'http://www.dafont.com/bison.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BISONPRR.TTF'
 end

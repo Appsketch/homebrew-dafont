@@ -5,7 +5,6 @@ cask 'dafont-jam-session' do
     url 'http://dl.dafont.com/dl/?f=jam_session'
     name 'Jam Session'
     homepage 'http://www.dafont.com/jam-session.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JAM SESSION.ttf'
 end

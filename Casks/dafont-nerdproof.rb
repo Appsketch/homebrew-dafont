@@ -5,7 +5,6 @@ cask 'dafont-nerdproof' do
     url 'http://dl.dafont.com/dl/?f=nerdproof'
     name 'Nerdproof'
     homepage 'http://www.dafont.com/nerdproof.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nerdproof.ttf'
 end

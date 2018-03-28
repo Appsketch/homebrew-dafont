@@ -5,7 +5,6 @@ cask 'dafont-critter-is-rad' do
     url 'http://dl.dafont.com/dl/?f=critter_is_rad'
     name 'Critter is rad'
     homepage 'http://www.dafont.com/critter-is-rad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRITTER.TTF'
 end

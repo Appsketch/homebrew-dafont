@@ -5,7 +5,6 @@ cask 'dafont-vargas' do
     url 'http://dl.dafont.com/dl/?f=vargas'
     name 'Vargas'
     homepage 'http://www.dafont.com/vargas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VARGAS__.TTF'
 end

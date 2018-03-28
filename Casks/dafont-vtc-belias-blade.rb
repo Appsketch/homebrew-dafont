@@ -5,7 +5,6 @@ cask 'dafont-vtc-belias-blade' do
     url 'http://dl.dafont.com/dl/?f=vtc_belias_blade'
     name 'VTC Belias Blade'
     homepage 'http://www.dafont.com/vtc-belias-blade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTCBelialsBlade.ttf'
     font 'VTCBelialsBlade3d.ttf'

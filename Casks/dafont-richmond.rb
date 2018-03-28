@@ -5,7 +5,6 @@ cask 'dafont-richmond' do
     url 'http://dl.dafont.com/dl/?f=richmond'
     name 'Richmond'
     homepage 'http://www.dafont.com/richmond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RICHMOND.ttf'
 end

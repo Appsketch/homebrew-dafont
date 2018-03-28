@@ -5,7 +5,6 @@ cask 'dafont-celine-dion-handwriting' do
     url 'http://dl.dafont.com/dl/?f=celine_dion_handwriting'
     name 'Celine Dion Handwriting'
     homepage 'http://www.dafont.com/celine-dion-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Celine_Dion_Handwriting.ttf'
 end

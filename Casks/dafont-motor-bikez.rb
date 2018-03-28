@@ -5,7 +5,6 @@ cask 'dafont-motor-bikez' do
     url 'http://dl.dafont.com/dl/?f=motor_bikez'
     name 'Motor Bikez'
     homepage 'http://www.dafont.com/motor-bikez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOTOB___.TTF'
 end

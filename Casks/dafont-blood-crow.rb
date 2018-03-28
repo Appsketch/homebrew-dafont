@@ -5,7 +5,6 @@ cask 'dafont-blood-crow' do
     url 'http://dl.dafont.com/dl/?f=blood_crow'
     name 'Blood Crow'
     homepage 'http://www.dafont.com/blood-crow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bloodcrow.ttf'
     font 'bloodcrowc.ttf'

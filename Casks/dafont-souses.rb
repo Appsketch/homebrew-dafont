@@ -5,7 +5,6 @@ cask 'dafont-souses' do
     url 'http://dl.dafont.com/dl/?f=souses'
     name 'Souses'
     homepage 'http://www.dafont.com/souses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Souses.otf'
 end

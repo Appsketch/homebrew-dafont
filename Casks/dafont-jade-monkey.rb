@@ -5,7 +5,6 @@ cask 'dafont-jade-monkey' do
     url 'http://dl.dafont.com/dl/?f=jade_monkey'
     name 'Jade Monkey'
     homepage 'http://www.dafont.com/jade-monkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jadem___.ttf'
 end

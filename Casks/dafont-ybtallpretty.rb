@@ -5,7 +5,6 @@ cask 'dafont-ybtallpretty' do
     url 'http://dl.dafont.com/dl/?f=ybtallpretty'
     name 'YB Tall Pretty'
     homepage 'http://www.dafont.com/ybtallpretty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YBTallPretty.ttf'
 end

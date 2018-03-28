@@ -5,7 +5,6 @@ cask 'dafont-never-say-never' do
     url 'http://dl.dafont.com/dl/?f=never_say_never'
     name 'Never Say Never'
     homepage 'http://www.dafont.com/never-say-never.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeverSayNever.ttf'
 end

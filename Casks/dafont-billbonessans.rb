@@ -5,7 +5,6 @@ cask 'dafont-billbonessans' do
     url 'http://dl.dafont.com/dl/?f=billbonessans'
     name 'Billbones Sans'
     homepage 'http://www.dafont.com/billbonessans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'billbonessans.ttf'
 end

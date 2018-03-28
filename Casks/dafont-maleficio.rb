@@ -5,7 +5,6 @@ cask 'dafont-maleficio' do
     url 'http://dl.dafont.com/dl/?f=maleficio'
     name 'Maleficio'
     homepage 'http://www.dafont.com/maleficio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maleficio.ttf'
 end

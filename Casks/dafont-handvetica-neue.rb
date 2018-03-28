@@ -5,7 +5,6 @@ cask 'dafont-handvetica-neue' do
     url 'http://dl.dafont.com/dl/?f=handvetica_neue'
     name 'Handvetica Neue'
     homepage 'http://www.dafont.com/handvetica-neue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Handvetica Neue Regular Trial.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-social-circles' do
     url 'http://dl.dafont.com/dl/?f=social_circles'
     name 'Social Circles'
     homepage 'http://www.dafont.com/social-circles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Social Circles.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wired-saji' do
     url 'http://dl.dafont.com/dl/?f=wired_saji'
     name 'Wired Saji'
     homepage 'http://www.dafont.com/wired-saji.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WIREDsaji.ttf'
 end

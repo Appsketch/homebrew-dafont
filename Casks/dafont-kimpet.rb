@@ -5,7 +5,6 @@ cask 'dafont-kimpet' do
     url 'http://dl.dafont.com/dl/?f=kimpet'
     name 'Kimpet'
     homepage 'http://www.dafont.com/kimpet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kimpet-Bold.ttf'
 end

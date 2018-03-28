@@ -5,7 +5,6 @@ cask 'dafont-sweat-hearts-bv' do
     url 'http://dl.dafont.com/dl/?f=sweat_hearts_bv'
     name 'Sweat Hearts BV'
     homepage 'http://www.dafont.com/sweat-hearts-bv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SWEEHB__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-confusion-girl' do
     url 'http://dl.dafont.com/dl/?f=confusion_girl'
     name 'Confusion Girl'
     homepage 'http://www.dafont.com/confusion-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CONFUSION GIRL.ttf'
 end

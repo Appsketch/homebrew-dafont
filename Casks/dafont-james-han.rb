@@ -5,7 +5,6 @@ cask 'dafont-james-han' do
     url 'http://dl.dafont.com/dl/?f=james_han'
     name 'James Han'
     homepage 'http://www.dafont.com/james-han.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JAMES HAN.ttf'
 end

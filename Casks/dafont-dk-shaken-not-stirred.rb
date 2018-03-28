@@ -5,7 +5,6 @@ cask 'dafont-dk-shaken-not-stirred' do
     url 'http://dl.dafont.com/dl/?f=dk_shaken_not_stirred'
     name 'DK Shaken Not Stirred'
     homepage 'http://www.dafont.com/dk-shaken-not-stirred.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Shaken Not Stirred.otf'
 end

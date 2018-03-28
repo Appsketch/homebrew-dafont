@@ -5,7 +5,6 @@ cask 'dafont-red-snapper' do
     url 'http://dl.dafont.com/dl/?f=red_snapper'
     name 'Red Snapper'
     homepage 'http://www.dafont.com/red-snapper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Red Snapper.otf'
 end

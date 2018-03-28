@@ -5,7 +5,6 @@ cask 'dafont-half-curve' do
     url 'http://dl.dafont.com/dl/?f=half_curve'
     name 'Half Curve'
     homepage 'http://www.dafont.com/half-curve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Half Curve.ttf'
 end

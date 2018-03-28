@@ -5,7 +5,6 @@ cask 'dafont-riding-the-world' do
     url 'http://dl.dafont.com/dl/?f=riding_the_world'
     name 'Riding The World'
     homepage 'http://www.dafont.com/riding-the-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RIDING THE WORLD.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-type-right' do
     url 'http://dl.dafont.com/dl/?f=type_right'
     name 'Type right!'
     homepage 'http://www.dafont.com/type-right.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'type_right.ttf'
 end

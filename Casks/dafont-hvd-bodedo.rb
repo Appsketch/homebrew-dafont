@@ -5,7 +5,6 @@ cask 'dafont-hvd-bodedo' do
     url 'http://dl.dafont.com/dl/?f=hvd_bodedo'
     name 'HVD Bodedo'
     homepage 'http://www.dafont.com/hvd-bodedo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HVD_Bodedo.ttf'
 end

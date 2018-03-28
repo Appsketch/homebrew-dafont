@@ -5,7 +5,6 @@ cask 'dafont-krooked' do
     url 'http://dl.dafont.com/dl/?f=krooked'
     name 'KrooKed'
     homepage 'http://www.dafont.com/krooked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KrooKed.ttf'
 end

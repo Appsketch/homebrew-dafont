@@ -5,7 +5,6 @@ cask 'dafont-dot28' do
     url 'http://dl.dafont.com/dl/?f=dot28'
     name 'Dot 28'
     homepage 'http://www.dafont.com/dot28.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dot.TTF'
 end

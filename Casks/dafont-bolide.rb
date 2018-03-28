@@ -5,7 +5,6 @@ cask 'dafont-bolide' do
     url 'http://dl.dafont.com/dl/?f=bolide'
     name 'Bolide'
     homepage 'http://www.dafont.com/bolide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bolide-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-equis' do
     url 'http://dl.dafont.com/dl/?f=equis'
     name 'Equis'
     homepage 'http://www.dafont.com/equis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Equis.ttf'
 end

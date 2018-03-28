@@ -5,7 +5,6 @@ cask 'dafont-articulada' do
     url 'http://dl.dafont.com/dl/?f=articulada'
     name 'Articulada'
     homepage 'http://www.dafont.com/articulada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Articulada.ttf'
 end

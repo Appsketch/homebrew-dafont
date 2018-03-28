@@ -5,7 +5,6 @@ cask 'dafont-wurmfun' do
     url 'http://dl.dafont.com/dl/?f=wurmfun'
     name 'Wurm Fun'
     homepage 'http://www.dafont.com/wurmfun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WurmFun.ttf'
 end

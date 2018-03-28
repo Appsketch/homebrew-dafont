@@ -5,7 +5,6 @@ cask 'dafont-crabsalad' do
     url 'http://dl.dafont.com/dl/?f=crabsalad'
     name 'Crab Salad'
     homepage 'http://www.dafont.com/crabsalad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrabSalad.ttf'
 end

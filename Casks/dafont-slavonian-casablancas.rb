@@ -5,7 +5,6 @@ cask 'dafont-slavonian-casablancas' do
     url 'http://dl.dafont.com/dl/?f=slavonian_casablancas'
     name 'Slavonian Casablancas'
     homepage 'http://www.dafont.com/slavonian-casablancas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slavonian_Casablancas.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-susanna' do
     url 'http://dl.dafont.com/dl/?f=susanna'
     name 'Susanna'
     homepage 'http://www.dafont.com/susanna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUSANNA_.ttf'
 end

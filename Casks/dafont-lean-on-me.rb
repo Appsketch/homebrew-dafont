@@ -5,7 +5,6 @@ cask 'dafont-lean-on-me' do
     url 'http://dl.dafont.com/dl/?f=lean_on_me'
     name 'Lean On Me'
     homepage 'http://www.dafont.com/lean-on-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lean on me 2.ttf'
     font 'Lean on me.ttf'

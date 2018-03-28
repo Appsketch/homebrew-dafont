@@ -5,7 +5,6 @@ cask 'dafont-gingko-fraktur' do
     url 'http://dl.dafont.com/dl/?f=gingko_fraktur'
     name 'Gingko Fraktur'
     homepage 'http://www.dafont.com/gingko-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GingkoFraktur.ttf'
 end

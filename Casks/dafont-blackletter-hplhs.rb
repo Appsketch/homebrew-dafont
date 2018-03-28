@@ -5,7 +5,6 @@ cask 'dafont-blackletter-hplhs' do
     url 'http://dl.dafont.com/dl/?f=blackletter_hplhs'
     name 'Blackletter'
     homepage 'http://www.dafont.com/blackletter-hplhs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLACH___.TTF'
 end

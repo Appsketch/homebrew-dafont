@@ -5,7 +5,6 @@ cask 'dafont-pentagron' do
     url 'http://dl.dafont.com/dl/?f=pentagron'
     name 'Pentagron'
     homepage 'http://www.dafont.com/pentagron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pentagron.TTF'
 end

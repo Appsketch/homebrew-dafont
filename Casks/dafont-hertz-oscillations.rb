@@ -5,7 +5,6 @@ cask 'dafont-hertz-oscillations' do
     url 'http://dl.dafont.com/dl/?f=hertz_oscillations'
     name 'Hertz Oscillations'
     homepage 'http://www.dafont.com/hertz-oscillations.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hertz Oscillations.ttf'
 end

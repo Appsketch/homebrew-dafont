@@ -5,7 +5,6 @@ cask 'dafont-bad-coma' do
     url 'http://dl.dafont.com/dl/?f=bad_coma'
     name 'Bad Coma'
     homepage 'http://www.dafont.com/bad-coma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bad Coma.ttf'
 end

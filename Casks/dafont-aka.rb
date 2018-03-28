@@ -5,7 +5,6 @@ cask 'dafont-aka' do
     url 'http://dl.dafont.com/dl/?f=aka'
     name '&agrave;ka'
     homepage 'http://www.dafont.com/aka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aKa.ttf'
 end

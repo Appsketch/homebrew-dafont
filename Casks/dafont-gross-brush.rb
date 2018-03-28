@@ -5,7 +5,6 @@ cask 'dafont-gross-brush' do
     url 'http://dl.dafont.com/dl/?f=gross_brush'
     name 'Gross Brush'
     homepage 'http://www.dafont.com/gross-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrossBrush.ttf'
 end

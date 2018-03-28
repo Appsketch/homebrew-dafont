@@ -5,7 +5,6 @@ cask 'dafont-breve-sc' do
     url 'http://dl.dafont.com/dl/?f=breve_sc'
     name 'Breve SC'
     homepage 'http://www.dafont.com/breve-sc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BREVE2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lickspittle' do
     url 'http://dl.dafont.com/dl/?f=lickspittle'
     name 'Lickspittle'
     homepage 'http://www.dafont.com/lickspittle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LICKSPIT.TTF'
 end

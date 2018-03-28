@@ -5,7 +5,6 @@ cask 'dafont-antwerp' do
     url 'http://dl.dafont.com/dl/?f=antwerp'
     name 'Antwerp'
     homepage 'http://www.dafont.com/antwerp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Antwerp.ttf'
 end

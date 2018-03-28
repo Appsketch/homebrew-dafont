@@ -5,7 +5,6 @@ cask 'dafont-crown-doodle-denne' do
     url 'http://dl.dafont.com/dl/?f=crown_doodle_denne'
     name 'Crown Doodle'
     homepage 'http://www.dafont.com/crown-doodle-denne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CROWNDOODLE{denne}.ttf'
 end

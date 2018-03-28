@@ -5,7 +5,6 @@ cask 'dafont-videophreak' do
     url 'http://dl.dafont.com/dl/?f=videophreak'
     name 'Videophreak'
     homepage 'http://www.dafont.com/videophreak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VIDEOPHREAK.ttf'
 end

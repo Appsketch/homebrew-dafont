@@ -5,7 +5,6 @@ cask 'dafont-italian-revolution' do
     url 'http://dl.dafont.com/dl/?f=italian_revolution'
     name 'Italian Revolution'
     homepage 'http://www.dafont.com/italian-revolution.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Italian Revolution.ttf'
 end

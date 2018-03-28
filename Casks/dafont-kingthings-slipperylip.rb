@@ -5,7 +5,6 @@ cask 'dafont-kingthings-slipperylip' do
     url 'http://dl.dafont.com/dl/?f=kingthings_slipperylip'
     name 'Kingthings Slipperylip'
     homepage 'http://www.dafont.com/kingthings-slipperylip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Slipperylip.ttf'
 end

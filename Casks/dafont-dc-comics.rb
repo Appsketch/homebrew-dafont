@@ -5,7 +5,6 @@ cask 'dafont-dc-comics' do
     url 'http://dl.dafont.com/dl/?f=dc_comics'
     name 'DC Comics'
     homepage 'http://www.dafont.com/dc-comics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DC Comics.ttf'
 end

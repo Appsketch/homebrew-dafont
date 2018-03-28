@@ -5,7 +5,6 @@ cask 'dafont-random-dingbats' do
     url 'http://dl.dafont.com/dl/?f=random_dingbats'
     name 'Random Dingbats'
     homepage 'http://www.dafont.com/random-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Random Dingbats.ttf'
 end

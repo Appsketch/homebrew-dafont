@@ -5,7 +5,6 @@ cask 'dafont-sesquipedalian' do
     url 'http://dl.dafont.com/dl/?f=sesquipedalian'
     name 'Sesquipedalian'
     homepage 'http://www.dafont.com/sesquipedalian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SESQUIPE.TTF'
 end

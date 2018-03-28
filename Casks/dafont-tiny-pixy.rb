@@ -5,7 +5,6 @@ cask 'dafont-tiny-pixy' do
     url 'http://dl.dafont.com/dl/?f=tiny_pixy'
     name 'Tiny Pixy'
     homepage 'http://www.dafont.com/tiny-pixy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TinyPixy.ttf'
 end

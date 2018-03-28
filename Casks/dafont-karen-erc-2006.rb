@@ -5,7 +5,6 @@ cask 'dafont-karen-erc-2006' do
     url 'http://dl.dafont.com/dl/?f=karen_erc_2006'
     name 'Karen Erc 2006'
     homepage 'http://www.dafont.com/karen-erc-2006.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Karen_erc_2006.ttf'
 end

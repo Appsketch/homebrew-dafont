@@ -5,7 +5,6 @@ cask 'dafont-crusades' do
     url 'http://dl.dafont.com/dl/?f=crusades'
     name 'Crusades'
     homepage 'http://www.dafont.com/crusades.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crusades.ttf'
 end

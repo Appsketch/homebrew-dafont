@@ -5,7 +5,6 @@ cask 'dafont-persis' do
     url 'http://dl.dafont.com/dl/?f=persis'
     name 'Persis'
     homepage 'http://www.dafont.com/persis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Persis Bold Italic.otf'
     font 'Persis Bold.otf'

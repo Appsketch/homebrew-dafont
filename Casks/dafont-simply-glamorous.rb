@@ -5,7 +5,6 @@ cask 'dafont-simply-glamorous' do
     url 'http://dl.dafont.com/dl/?f=simply_glamorous'
     name 'Simply Glamorous'
     homepage 'http://www.dafont.com/simply-glamorous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simply Glamorous.ttf'
 end

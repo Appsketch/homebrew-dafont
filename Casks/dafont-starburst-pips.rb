@@ -5,7 +5,6 @@ cask 'dafont-starburst-pips' do
     url 'http://dl.dafont.com/dl/?f=starburst_pips'
     name 'Starburst Pips'
     homepage 'http://www.dafont.com/starburst-pips.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Starburst Pips.otf'
 end

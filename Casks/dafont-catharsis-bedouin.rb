@@ -5,7 +5,6 @@ cask 'dafont-catharsis-bedouin' do
     url 'http://dl.dafont.com/dl/?f=catharsis_bedouin'
     name 'Catharsis Bedouin'
     homepage 'http://www.dafont.com/catharsis-bedouin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CAB_____.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wild-show' do
     url 'http://dl.dafont.com/dl/?f=wild_show'
     name 'Wild Show'
     homepage 'http://www.dafont.com/wild-show.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wild Show.ttf'
 end

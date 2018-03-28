@@ -5,7 +5,6 @@ cask 'dafont-gollan-bill' do
     url 'http://dl.dafont.com/dl/?f=gollan_bill'
     name 'GollanBill'
     homepage 'http://www.dafont.com/gollan-bill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gollanbil.ttf'
 end

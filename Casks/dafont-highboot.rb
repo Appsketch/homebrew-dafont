@@ -5,7 +5,6 @@ cask 'dafont-highboot' do
     url 'http://dl.dafont.com/dl/?f=highboot'
     name 'Highboot'
     homepage 'http://www.dafont.com/highboot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HIGHBOOT.TTF'
 end

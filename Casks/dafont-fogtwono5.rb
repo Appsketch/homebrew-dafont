@@ -5,7 +5,6 @@ cask 'dafont-fogtwono5' do
     url 'http://dl.dafont.com/dl/?f=fogtwono5'
     name 'Fogtwo No5'
     homepage 'http://www.dafont.com/fogtwono5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FogtwoNo5.ttf'
 end

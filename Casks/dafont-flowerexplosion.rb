@@ -5,7 +5,6 @@ cask 'dafont-flowerexplosion' do
     url 'http://dl.dafont.com/dl/?f=flowerexplosion'
     name 'Flower Explosion'
     homepage 'http://www.dafont.com/flowerexplosion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlowerExplosion.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mexicano-chili-sauce' do
     url 'http://dl.dafont.com/dl/?f=mexicano_chili_sauce'
     name 'Mexicano Chili Sauce'
     homepage 'http://www.dafont.com/mexicano-chili-sauce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mexicano chili sauce.ttf'
 end

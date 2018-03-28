@@ -5,7 +5,6 @@ cask 'dafont-keveat-sandaalit' do
     url 'http://dl.dafont.com/dl/?f=keveat_sandaalit'
     name 'Keveat sandaalit'
     homepage 'http://www.dafont.com/keveat-sandaalit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Keveat sandaalit.ttf'
 end

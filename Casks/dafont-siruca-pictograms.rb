@@ -5,7 +5,6 @@ cask 'dafont-siruca-pictograms' do
     url 'http://dl.dafont.com/dl/?f=siruca_pictograms'
     name 'Siruca Pictograms'
     homepage 'http://www.dafont.com/siruca-pictograms.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SirucaPictograms1.1.ttf'
 end

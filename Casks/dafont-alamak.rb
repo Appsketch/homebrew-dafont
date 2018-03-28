@@ -5,7 +5,6 @@ cask 'dafont-alamak' do
     url 'http://dl.dafont.com/dl/?f=alamak'
     name 'Alamak!'
     homepage 'http://www.dafont.com/alamak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alamak.ttf'
 end

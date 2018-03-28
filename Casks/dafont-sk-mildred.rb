@@ -5,7 +5,6 @@ cask 'dafont-sk-mildred' do
     url 'http://dl.dafont.com/dl/?f=sk_mildred'
     name 'SK Mildred'
     homepage 'http://www.dafont.com/sk-mildred.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SK_MILDRED.ttf'
 end

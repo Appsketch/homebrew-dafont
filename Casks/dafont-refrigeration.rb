@@ -5,7 +5,6 @@ cask 'dafont-refrigeration' do
     url 'http://dl.dafont.com/dl/?f=refrigeration'
     name 'Refrigeration'
     homepage 'http://www.dafont.com/refrigeration.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'refrig2.ttf'
 end

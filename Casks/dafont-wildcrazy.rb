@@ -5,7 +5,6 @@ cask 'dafont-wildcrazy' do
     url 'http://dl.dafont.com/dl/?f=wildcrazy'
     name 'Wild Crazy'
     homepage 'http://www.dafont.com/wildcrazy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WildCrazy.ttf'
 end

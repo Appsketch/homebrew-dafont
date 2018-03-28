@@ -5,7 +5,6 @@ cask 'dafont-hibernate' do
     url 'http://dl.dafont.com/dl/?f=hibernate'
     name 'Hibernate'
     homepage 'http://www.dafont.com/hibernate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HIBERNAT.TTF'
 end

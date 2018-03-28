@@ -5,7 +5,6 @@ cask 'dafont-corona-4-typewriter' do
     url 'http://dl.dafont.com/dl/?f=corona_4_typewriter'
     name 'Corona 4 Typewriter'
     homepage 'http://www.dafont.com/corona-4-typewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Corona 4 Typewriter.ttf'
 end

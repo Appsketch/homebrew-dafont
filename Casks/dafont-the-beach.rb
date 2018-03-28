@@ -5,7 +5,6 @@ cask 'dafont-the-beach' do
     url 'http://dl.dafont.com/dl/?f=the_beach'
     name 'The Beach'
     homepage 'http://www.dafont.com/the-beach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Beach.otf'
 end

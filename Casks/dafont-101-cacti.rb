@@ -5,7 +5,6 @@ cask 'dafont-101-cacti' do
     url 'http://dl.dafont.com/dl/?f=101_cacti'
     name '101! Cacti'
     homepage 'http://www.dafont.com/101-cacti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '101! Cacti.ttf'
 end

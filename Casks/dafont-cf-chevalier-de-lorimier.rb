@@ -5,7 +5,6 @@ cask 'dafont-cf-chevalier-de-lorimier' do
     url 'http://dl.dafont.com/dl/?f=cf_chevalier_de_lorimier'
     name 'CF Chevalier de Lorimier'
     homepage 'http://www.dafont.com/cf-chevalier-de-lorimier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFChevalierdeLorimier-Regul.ttf'
 end

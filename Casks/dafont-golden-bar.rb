@@ -5,7 +5,6 @@ cask 'dafont-golden-bar' do
     url 'http://dl.dafont.com/dl/?f=golden_bar'
     name 'golden bar'
     homepage 'http://www.dafont.com/golden-bar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'golden bar.ttf'
 end

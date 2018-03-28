@@ -5,7 +5,6 @@ cask 'dafont-po-h-pixels' do
     url 'http://dl.dafont.com/dl/?f=po_h_pixels'
     name 'Po$h Pixels'
     homepage 'http://www.dafont.com/po-h-pixels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'poh_pixels.ttf'
 end

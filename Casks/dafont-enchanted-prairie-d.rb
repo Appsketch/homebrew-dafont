@@ -5,7 +5,6 @@ cask 'dafont-enchanted-prairie-d' do
     url 'http://dl.dafont.com/dl/?f=enchanted_prairie_d'
     name 'Enchanted Prairie Dog'
     homepage 'http://www.dafont.com/enchanted-prairie-d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EnchantedPrairieDog.TTF'
     font 'MoreEnchanted.TTF'

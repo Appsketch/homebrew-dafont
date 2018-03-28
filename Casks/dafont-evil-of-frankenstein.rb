@@ -5,7 +5,6 @@ cask 'dafont-evil-of-frankenstein' do
     url 'http://dl.dafont.com/dl/?f=evil_of_frankenstein'
     name 'Evil of Frankenstein'
     homepage 'http://www.dafont.com/evil-of-frankenstein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EvilofFrankenstein.ttf'
 end

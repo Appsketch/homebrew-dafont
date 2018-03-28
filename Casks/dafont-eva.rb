@@ -5,7 +5,6 @@ cask 'dafont-eva' do
     url 'http://dl.dafont.com/dl/?f=eva'
     name 'Eva'
     homepage 'http://www.dafont.com/eva.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EVA_____.TTF'
 end

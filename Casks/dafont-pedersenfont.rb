@@ -5,7 +5,6 @@ cask 'dafont-pedersenfont' do
     url 'http://dl.dafont.com/dl/?f=pedersenfont'
     name 'Pedersen'
     homepage 'http://www.dafont.com/pedersenfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PedersenFont.ttf'
 end

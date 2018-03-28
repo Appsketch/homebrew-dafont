@@ -5,7 +5,6 @@ cask 'dafont-skygge' do
     url 'http://dl.dafont.com/dl/?f=skygge'
     name 'Skygge'
     homepage 'http://www.dafont.com/skygge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skygge.ttf'
 end

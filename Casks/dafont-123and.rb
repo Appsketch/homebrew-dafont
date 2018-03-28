@@ -5,7 +5,6 @@ cask 'dafont-123and' do
     url 'http://dl.dafont.com/dl/?f=123and'
     name '123 and...'
     homepage 'http://www.dafont.com/123and.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '123and.ttf'
 end

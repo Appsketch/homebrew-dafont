@@ -5,7 +5,6 @@ cask 'dafont-kountry-kodes' do
     url 'http://dl.dafont.com/dl/?f=kountry_kodes'
     name 'Kountry Kodes'
     homepage 'http://www.dafont.com/kountry-kodes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kkodes.ttf'
 end

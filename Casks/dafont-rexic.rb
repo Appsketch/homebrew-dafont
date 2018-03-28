@@ -5,7 +5,6 @@ cask 'dafont-rexic' do
     url 'http://dl.dafont.com/dl/?f=rexic'
     name 'Rexic'
     homepage 'http://www.dafont.com/rexic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rexic-Regular.otf'
 end

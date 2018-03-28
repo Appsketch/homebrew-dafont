@@ -5,7 +5,6 @@ cask 'dafont-tmtonite' do
     url 'http://dl.dafont.com/dl/?f=tmtonite'
     name 'TM Tonite'
     homepage 'http://www.dafont.com/tmtonite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TMTonite.ttf'
 end

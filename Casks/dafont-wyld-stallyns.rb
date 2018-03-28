@@ -5,7 +5,6 @@ cask 'dafont-wyld-stallyns' do
     url 'http://dl.dafont.com/dl/?f=wyld_stallyns'
     name 'Wyld Stallyns'
     homepage 'http://www.dafont.com/wyld-stallyns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wyld2.ttf'
     font 'wyldb.ttf'

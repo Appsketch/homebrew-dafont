@@ -5,7 +5,6 @@ cask 'dafont-comicker' do
     url 'http://dl.dafont.com/dl/?f=comicker'
     name 'Comicker'
     homepage 'http://www.dafont.com/comicker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COMICKER.TTF'
 end

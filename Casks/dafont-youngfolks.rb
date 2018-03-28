@@ -5,7 +5,6 @@ cask 'dafont-youngfolks' do
     url 'http://dl.dafont.com/dl/?f=youngfolks'
     name 'Young Folks'
     homepage 'http://www.dafont.com/youngfolks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YoungFolks.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-riesling' do
     url 'http://dl.dafont.com/dl/?f=riesling'
     name 'Riesling'
     homepage 'http://www.dafont.com/riesling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'riesling.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-une-sale-histoire-de-yak' do
     url 'http://dl.dafont.com/dl/?f=une_sale_histoire_de_yak'
     name 'Une Sale Histoire de Yak'
     homepage 'http://www.dafont.com/une-sale-histoire-de-yak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Une Sale Histoire de Yak.ttf'
 end

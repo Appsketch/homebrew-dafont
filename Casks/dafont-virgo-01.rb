@@ -5,7 +5,6 @@ cask 'dafont-virgo-01' do
     url 'http://dl.dafont.com/dl/?f=virgo_01'
     name 'Virgo.01'
     homepage 'http://www.dafont.com/virgo-01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'virgo.ttf'
 end

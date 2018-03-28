@@ -5,7 +5,6 @@ cask 'dafont-shanked' do
     url 'http://dl.dafont.com/dl/?f=shanked'
     name 'Shanked'
     homepage 'http://www.dafont.com/shanked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShAnKed.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-show-boat' do
     url 'http://dl.dafont.com/dl/?f=show_boat'
     name 'Show Boat'
     homepage 'http://www.dafont.com/show-boat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHOWBOA_.TTF'
     font 'shwboat.ttf'

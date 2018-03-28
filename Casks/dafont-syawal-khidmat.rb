@@ -5,7 +5,6 @@ cask 'dafont-syawal-khidmat' do
     url 'http://dl.dafont.com/dl/?f=syawal_khidmat'
     name 'Syawal Khidmat'
     homepage 'http://www.dafont.com/syawal-khidmat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Syawal Khidmat.ttf'
 end

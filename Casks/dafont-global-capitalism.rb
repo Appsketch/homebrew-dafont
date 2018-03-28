@@ -5,7 +5,6 @@ cask 'dafont-global-capitalism' do
     url 'http://dl.dafont.com/dl/?f=global_capitalism'
     name 'Global Capitalism'
     homepage 'http://www.dafont.com/global-capitalism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GLOBAL CAPITALISM.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blowbrush' do
     url 'http://dl.dafont.com/dl/?f=blowbrush'
     name 'BlowBrush'
     homepage 'http://www.dafont.com/blowbrush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blowbrush.ttf'
 end

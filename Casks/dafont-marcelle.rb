@@ -5,7 +5,6 @@ cask 'dafont-marcelle' do
     url 'http://dl.dafont.com/dl/?f=marcelle'
     name 'Marcelle'
     homepage 'http://www.dafont.com/marcelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MARCS___.ttf'
     font 'Marcsc___.ttf'

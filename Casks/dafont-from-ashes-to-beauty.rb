@@ -5,7 +5,6 @@ cask 'dafont-from-ashes-to-beauty' do
     url 'http://dl.dafont.com/dl/?f=from_ashes_to_beauty'
     name 'From ashes to beauty'
     homepage 'http://www.dafont.com/from-ashes-to-beauty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'From ashes to beauty.ttf'
 end

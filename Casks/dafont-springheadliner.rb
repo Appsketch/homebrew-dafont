@@ -5,7 +5,6 @@ cask 'dafont-springheadliner' do
     url 'http://dl.dafont.com/dl/?f=springheadliner'
     name 'Spring Headliner'
     homepage 'http://www.dafont.com/springheadliner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpringHeadliner.ttf'
 end

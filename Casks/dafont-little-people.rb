@@ -5,7 +5,6 @@ cask 'dafont-little-people' do
     url 'http://dl.dafont.com/dl/?f=little_people'
     name 'Little People'
     homepage 'http://www.dafont.com/little-people.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LITTLEPE.TTF'
 end

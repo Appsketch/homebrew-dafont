@@ -5,7 +5,6 @@ cask 'dafont-knives-and-pens' do
     url 'http://dl.dafont.com/dl/?f=knives_and_pens'
     name 'Knives and Pens'
     homepage 'http://www.dafont.com/knives-and-pens.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Knives and Pens.ttf'
 end

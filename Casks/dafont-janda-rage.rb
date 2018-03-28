@@ -5,7 +5,6 @@ cask 'dafont-janda-rage' do
     url 'http://dl.dafont.com/dl/?f=janda_rage'
     name 'Janda Rage'
     homepage 'http://www.dafont.com/janda-rage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Janda Rage.ttf'
 end

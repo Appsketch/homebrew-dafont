@@ -5,7 +5,6 @@ cask 'dafont-today' do
     url 'http://dl.dafont.com/dl/?f=today'
     name 'Today'
     homepage 'http://www.dafont.com/today.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'today.TTF'
 end

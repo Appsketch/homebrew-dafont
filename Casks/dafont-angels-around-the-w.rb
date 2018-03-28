@@ -5,7 +5,6 @@ cask 'dafont-angels-around-the-w' do
     url 'http://dl.dafont.com/dl/?f=angels_around_the_w'
     name 'Angels around the world'
     homepage 'http://www.dafont.com/angels-around-the-w.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angels around the world.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-spiral-initials' do
     url 'http://dl.dafont.com/dl/?f=spiral_initials'
     name 'Spiral Initials'
     homepage 'http://www.dafont.com/spiral-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPIRI___.TTF'
 end

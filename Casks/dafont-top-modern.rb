@@ -5,7 +5,6 @@ cask 'dafont-top-modern' do
     url 'http://dl.dafont.com/dl/?f=top_modern'
     name 'Top Modern'
     homepage 'http://www.dafont.com/top-modern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Top Modern.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-neatte' do
     url 'http://dl.dafont.com/dl/?f=neatte'
     name 'Neatte'
     homepage 'http://www.dafont.com/neatte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neatte.ttf'
 end

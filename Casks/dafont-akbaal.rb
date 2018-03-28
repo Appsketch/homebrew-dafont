@@ -5,7 +5,6 @@ cask 'dafont-akbaal' do
     url 'http://dl.dafont.com/dl/?f=akbaal'
     name 'Akbaal'
     homepage 'http://www.dafont.com/akbaal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'akbaal.ttf'
 end

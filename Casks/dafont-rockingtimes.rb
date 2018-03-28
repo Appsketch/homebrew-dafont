@@ -5,7 +5,6 @@ cask 'dafont-rockingtimes' do
     url 'http://dl.dafont.com/dl/?f=rockingtimes'
     name 'Rocking Times'
     homepage 'http://www.dafont.com/rockingtimes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RockingTimes.ttf'
 end

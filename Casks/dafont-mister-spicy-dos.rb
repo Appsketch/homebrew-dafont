@@ -5,7 +5,6 @@ cask 'dafont-mister-spicy-dos' do
     url 'http://dl.dafont.com/dl/?f=mister_spicy_dos'
     name 'Mister Spicy Dos'
     homepage 'http://www.dafont.com/mister-spicy-dos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MisterSpicyDos.ttf'
 end

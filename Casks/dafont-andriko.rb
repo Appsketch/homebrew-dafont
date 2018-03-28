@@ -5,7 +5,6 @@ cask 'dafont-andriko' do
     url 'http://dl.dafont.com/dl/?f=andriko'
     name 'Andriko'
     homepage 'http://www.dafont.com/andriko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Andriko.ttf'
 end

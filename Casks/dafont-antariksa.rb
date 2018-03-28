@@ -5,7 +5,6 @@ cask 'dafont-antariksa' do
     url 'http://dl.dafont.com/dl/?f=antariksa'
     name 'Antariksa'
     homepage 'http://www.dafont.com/antariksa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'antariksa.ttf'
 end

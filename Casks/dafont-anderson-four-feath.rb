@@ -5,7 +5,6 @@ cask 'dafont-anderson-four-feath' do
     url 'http://dl.dafont.com/dl/?f=anderson_four_feath'
     name 'Anderson Four Feather Falls'
     homepage 'http://www.dafont.com/anderson-four-feath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anderson Four Feather Falls.ttf'
 end

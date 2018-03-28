@@ -5,7 +5,6 @@ cask 'dafont-springparty' do
     url 'http://dl.dafont.com/dl/?f=springparty'
     name 'Spring Party'
     homepage 'http://www.dafont.com/springparty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpringParty.ttf'
 end

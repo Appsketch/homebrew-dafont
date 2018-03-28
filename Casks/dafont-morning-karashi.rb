@@ -5,7 +5,6 @@ cask 'dafont-morning-karashi' do
     url 'http://dl.dafont.com/dl/?f=morning_karashi'
     name 'Morning Karashi'
     homepage 'http://www.dafont.com/morning-karashi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_morning_karashi.ttf'
 end

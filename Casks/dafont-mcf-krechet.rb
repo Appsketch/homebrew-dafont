@@ -5,7 +5,6 @@ cask 'dafont-mcf-krechet' do
     url 'http://dl.dafont.com/dl/?f=mcf_krechet'
     name 'MCF Krechet'
     homepage 'http://www.dafont.com/mcf-krechet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MCF_Krechet.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blods' do
     url 'http://dl.dafont.com/dl/?f=blods'
     name 'Blods'
     homepage 'http://www.dafont.com/blods.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blods.ttf'
 end

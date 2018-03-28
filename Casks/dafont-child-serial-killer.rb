@@ -5,7 +5,6 @@ cask 'dafont-child-serial-killer' do
     url 'http://dl.dafont.com/dl/?f=child_serial_killer'
     name 'Child Serial Killer'
     homepage 'http://www.dafont.com/child-serial-killer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Child_Serial_Killer.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-war-wound' do
     url 'http://dl.dafont.com/dl/?f=war_wound'
     name 'War Wound'
     homepage 'http://www.dafont.com/war-wound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WarWound.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-poundcake69' do
     url 'http://dl.dafont.com/dl/?f=poundcake69'
     name 'Pound Cake 69'
     homepage 'http://www.dafont.com/poundcake69.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PoundCake69.ttf'
 end

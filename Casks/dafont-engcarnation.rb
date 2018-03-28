@@ -5,7 +5,6 @@ cask 'dafont-engcarnation' do
     url 'http://dl.dafont.com/dl/?f=engcarnation'
     name 'Engcarnation'
     homepage 'http://www.dafont.com/engcarnation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'engcarnation_demo.otf'
 end

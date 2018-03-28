@@ -5,7 +5,6 @@ cask 'dafont-karamuruh' do
     url 'http://dl.dafont.com/dl/?f=karamuruh'
     name 'Karamuruh'
     homepage 'http://www.dafont.com/karamuruh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Karamuruh.ttf'
 end

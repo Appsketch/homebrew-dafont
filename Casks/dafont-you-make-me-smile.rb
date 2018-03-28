@@ -5,7 +5,6 @@ cask 'dafont-you-make-me-smile' do
     url 'http://dl.dafont.com/dl/?f=you_make_me_smile'
     name 'You Make Me Smile'
     homepage 'http://www.dafont.com/you-make-me-smile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'You Make Me Smile.ttf'
 end

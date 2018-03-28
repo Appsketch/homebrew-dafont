@@ -5,7 +5,6 @@ cask 'dafont-crystal-lightning' do
     url 'http://dl.dafont.com/dl/?f=crystal_lightning'
     name 'Crystal Lightning'
     homepage 'http://www.dafont.com/crystal-lightning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crystallightning.ttf'
 end

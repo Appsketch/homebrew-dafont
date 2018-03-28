@@ -5,7 +5,6 @@ cask 'dafont-isis-dings' do
     url 'http://dl.dafont.com/dl/?f=isis_dings'
     name 'Isis Dings'
     homepage 'http://www.dafont.com/isis-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IsisDings.ttf'
 end

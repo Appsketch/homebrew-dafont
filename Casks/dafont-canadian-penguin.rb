@@ -5,7 +5,6 @@ cask 'dafont-canadian-penguin' do
     url 'http://dl.dafont.com/dl/?f=canadian_penguin'
     name 'Canadian Penguin'
     homepage 'http://www.dafont.com/canadian-penguin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Canadian Penguin.ttf'
 end

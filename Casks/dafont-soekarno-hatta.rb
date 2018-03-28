@@ -5,7 +5,6 @@ cask 'dafont-soekarno-hatta' do
     url 'http://dl.dafont.com/dl/?f=soekarno_hatta'
     name 'Soekarno Hatta'
     homepage 'http://www.dafont.com/soekarno-hatta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SOEKARNO HATTA.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-solidmarker' do
     url 'http://dl.dafont.com/dl/?f=solidmarker'
     name 'Solid Marker'
     homepage 'http://www.dafont.com/solidmarker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SolidMarker.ttf'
 end

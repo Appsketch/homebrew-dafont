@@ -5,7 +5,6 @@ cask 'dafont-moonlight-prism' do
     url 'http://dl.dafont.com/dl/?f=moonlight_prism'
     name 'Moonlight Prism'
     homepage 'http://www.dafont.com/moonlight-prism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'moonlightprism.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mad-marker' do
     url 'http://dl.dafont.com/dl/?f=mad_marker'
     name 'Mad Marker'
     homepage 'http://www.dafont.com/mad-marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MADV2.TTF'
 end

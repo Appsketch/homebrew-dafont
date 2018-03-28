@@ -5,7 +5,6 @@ cask 'dafont-breezi-icon-set' do
     url 'http://dl.dafont.com/dl/?f=breezi_icon_set'
     name 'Breezi Icon Set'
     homepage 'http://www.dafont.com/breezi-icon-set.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'breezi_font-webfont.ttf'
 end

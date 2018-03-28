@@ -5,7 +5,6 @@ cask 'dafont-my-fair-cody' do
     url 'http://dl.dafont.com/dl/?f=my_fair_cody'
     name 'My Fair Cody'
     homepage 'http://www.dafont.com/my-fair-cody.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MyFairCody.otf'
 end

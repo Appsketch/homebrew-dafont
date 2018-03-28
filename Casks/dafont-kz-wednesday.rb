@@ -5,7 +5,6 @@ cask 'dafont-kz-wednesday' do
     url 'http://dl.dafont.com/dl/?f=kz_wednesday'
     name 'K7 Wednesday'
     homepage 'http://www.dafont.com/kz-wednesday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KZWEDA__.TTF'
 end

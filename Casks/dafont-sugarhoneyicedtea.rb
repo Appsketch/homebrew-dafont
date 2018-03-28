@@ -5,7 +5,6 @@ cask 'dafont-sugarhoneyicedtea' do
     url 'http://dl.dafont.com/dl/?f=sugarhoneyicedtea'
     name 'Sugar Honey Iced Tea'
     homepage 'http://www.dafont.com/sugarhoneyicedtea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SugarHoneyIcedTea.ttf'
 end

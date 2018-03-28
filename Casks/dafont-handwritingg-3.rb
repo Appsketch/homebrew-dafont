@@ -5,7 +5,6 @@ cask 'dafont-handwritingg-3' do
     url 'http://dl.dafont.com/dl/?f=_handwritingg_3'
     name '!!! Handwritingg Custom previewFonts102050100&nbsp;Show variantsSizeTinySmallMediumLargeSort byNamePopularityNewer first&nbsp; More&nbsp;options&nbsp;Only as  &nbsp;Public domain / GPL / OFL &nbsp;100% Free &nbsp;Free for person'
     homepage 'http://www.dafont.com/-handwritingg-3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '!!! Handwritingg _3.ttf.ttf'
 end

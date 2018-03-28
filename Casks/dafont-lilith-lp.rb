@@ -5,7 +5,6 @@ cask 'dafont-lilith-lp' do
     url 'http://dl.dafont.com/dl/?f=lilith_lp'
     name 'Lilith'
     homepage 'http://www.dafont.com/lilith-lp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fuente lilith.ttf'
 end

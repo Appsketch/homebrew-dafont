@@ -5,7 +5,6 @@ cask 'dafont-iysdeadendstreet' do
     url 'http://dl.dafont.com/dl/?f=iysdeadendstreet'
     name 'IYS Dead End Street'
     homepage 'http://www.dafont.com/iysdeadendstreet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IYSDeadEndStreet.ttf'
 end

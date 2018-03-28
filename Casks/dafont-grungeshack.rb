@@ -5,7 +5,6 @@ cask 'dafont-grungeshack' do
     url 'http://dl.dafont.com/dl/?f=grungeshack'
     name 'Grunge Shack'
     homepage 'http://www.dafont.com/grungeshack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrungeShack.ttf'
 end

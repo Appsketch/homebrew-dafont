@@ -5,7 +5,6 @@ cask 'dafont-without-a-trace' do
     url 'http://dl.dafont.com/dl/?f=without_a_trace'
     name 'Without a Trace'
     homepage 'http://www.dafont.com/without-a-trace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Without a Trace.ttf'
 end

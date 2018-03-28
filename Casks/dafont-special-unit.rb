@@ -5,7 +5,6 @@ cask 'dafont-special-unit' do
     url 'http://dl.dafont.com/dl/?f=special_unit'
     name 'Special Unit'
     homepage 'http://www.dafont.com/special-unit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPECIAL UNIT.ttf'
 end

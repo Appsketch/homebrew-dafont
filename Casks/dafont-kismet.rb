@@ -5,7 +5,6 @@ cask 'dafont-kismet' do
     url 'http://dl.dafont.com/dl/?f=kismet'
     name 'Kismet'
     homepage 'http://www.dafont.com/kismet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KISMETFONT.ttf'
 end

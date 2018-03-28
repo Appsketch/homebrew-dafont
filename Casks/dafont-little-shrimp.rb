@@ -5,7 +5,6 @@ cask 'dafont-little-shrimp' do
     url 'http://dl.dafont.com/dl/?f=little_shrimp'
     name 'Little Shrimp'
     homepage 'http://www.dafont.com/little-shrimp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'little shrimp.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hff-splintered-dream' do
     url 'http://dl.dafont.com/dl/?f=hff_splintered_dream'
     name 'HFF Splintered Dream'
     homepage 'http://www.dafont.com/hff-splintered-dream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Splintered Dream.ttf'
 end

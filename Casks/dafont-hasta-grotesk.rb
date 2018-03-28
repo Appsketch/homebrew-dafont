@@ -5,7 +5,6 @@ cask 'dafont-hasta-grotesk' do
     url 'http://dl.dafont.com/dl/?f=hasta_grotesk'
     name 'Hasta Grotesk'
     homepage 'http://www.dafont.com/hasta-grotesk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hasta grotesk.ttf'
 end

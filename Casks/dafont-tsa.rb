@@ -5,7 +5,6 @@ cask 'dafont-tsa' do
     url 'http://dl.dafont.com/dl/?f=tsa'
     name 'TSA'
     homepage 'http://www.dafont.com/tsa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tsa.ttf'
 end

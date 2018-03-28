@@ -5,7 +5,6 @@ cask 'dafont-anirandy' do
     url 'http://dl.dafont.com/dl/?f=anirandy'
     name 'Ani Randy'
     homepage 'http://www.dafont.com/anirandy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AniRandy.ttf'
 end

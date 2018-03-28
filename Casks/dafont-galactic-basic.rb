@@ -5,7 +5,6 @@ cask 'dafont-galactic-basic' do
     url 'http://dl.dafont.com/dl/?f=galactic_basic'
     name 'Galactic Basic'
     homepage 'http://www.dafont.com/galactic-basic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'galbasic.ttf'
 end

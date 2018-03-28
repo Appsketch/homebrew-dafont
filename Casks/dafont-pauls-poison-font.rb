@@ -5,7 +5,6 @@ cask 'dafont-pauls-poison-font' do
     url 'http://dl.dafont.com/dl/?f=pauls_poison_font'
     name 'Pauls Poison'
     homepage 'http://www.dafont.com/pauls-poison-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pauls Poison Font.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-forgotten-uncial' do
     url 'http://dl.dafont.com/dl/?f=forgotten_uncial'
     name 'Forgotten Uncial'
     homepage 'http://www.dafont.com/forgotten-uncial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'forgotten_uncial.ttf'
 end

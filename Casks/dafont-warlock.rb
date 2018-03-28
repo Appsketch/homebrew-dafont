@@ -5,7 +5,6 @@ cask 'dafont-warlock' do
     url 'http://dl.dafont.com/dl/?f=warlock'
     name 'Warlock'
     homepage 'http://www.dafont.com/warlock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WARLOCK_.TTF'
 end

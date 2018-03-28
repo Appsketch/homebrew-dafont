@@ -5,7 +5,6 @@ cask 'dafont-cutetumblrfont' do
     url 'http://dl.dafont.com/dl/?f=cutetumblrfont'
     name 'CuteTumblrFont'
     homepage 'http://www.dafont.com/cutetumblrfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CuteTumblrFont.ttf'
 end

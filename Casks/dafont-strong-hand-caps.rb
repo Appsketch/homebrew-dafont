@@ -5,7 +5,6 @@ cask 'dafont-strong-hand-caps' do
     url 'http://dl.dafont.com/dl/?f=strong_hand_caps'
     name 'Strong Hand Caps'
     homepage 'http://www.dafont.com/strong-hand-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strong Hand Caps.ttf'
 end

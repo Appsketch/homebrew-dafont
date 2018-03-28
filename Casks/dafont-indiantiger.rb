@@ -5,7 +5,6 @@ cask 'dafont-indiantiger' do
     url 'http://dl.dafont.com/dl/?f=indiantiger'
     name 'Indian Tiger'
     homepage 'http://www.dafont.com/indiantiger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IndianTiger.ttf'
 end

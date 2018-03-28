@@ -5,7 +5,6 @@ cask 'dafont-knits-and-scraps' do
     url 'http://dl.dafont.com/dl/?f=knits_and_scraps'
     name 'Knits and Scraps'
     homepage 'http://www.dafont.com/knits-and-scraps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Knits and Scraps.ttf'
 end

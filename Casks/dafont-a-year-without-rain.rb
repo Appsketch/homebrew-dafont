@@ -5,7 +5,6 @@ cask 'dafont-a-year-without-rain' do
     url 'http://dl.dafont.com/dl/?f=a_year_without_rain'
     name 'A Year Without Rain'
     homepage 'http://www.dafont.com/a-year-without-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AYearWithoutRain.ttf'
 end

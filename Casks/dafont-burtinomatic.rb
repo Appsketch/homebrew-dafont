@@ -5,7 +5,6 @@ cask 'dafont-burtinomatic' do
     url 'http://dl.dafont.com/dl/?f=burtinomatic'
     name 'Burtinomatic'
     homepage 'http://www.dafont.com/burtinomatic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Burtinomatic-DemiBold.ttf'
     font 'Burtinomatic.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-highscore-hero' do
     url 'http://dl.dafont.com/dl/?f=highscore_hero'
     name 'Highscore Hero'
     homepage 'http://www.dafont.com/highscore-hero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighscoreHero.ttf'
 end

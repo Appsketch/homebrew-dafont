@@ -5,7 +5,6 @@ cask 'dafont-afl-font-pespaye-no' do
     url 'http://dl.dafont.com/dl/?f=afl_font_pespaye_no'
     name 'AFL Font Pespaye Nonmetric'
     homepage 'http://www.dafont.com/afl-font-pespaye-no.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aflfont.TTF'
 end

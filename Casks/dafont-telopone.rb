@@ -5,7 +5,6 @@ cask 'dafont-telopone' do
     url 'http://dl.dafont.com/dl/?f=telopone'
     name 'Telopone'
     homepage 'http://www.dafont.com/telopone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'telopone.ttf'
 end

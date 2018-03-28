@@ -5,7 +5,6 @@ cask 'dafont-kg-faith-hope-and-love' do
     url 'http://dl.dafont.com/dl/?f=kg_faith_hope_and_love'
     name 'KG Faith Hope and Love'
     homepage 'http://www.dafont.com/kg-faith-hope-and-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGFaithHopeAndLove.ttf'
 end

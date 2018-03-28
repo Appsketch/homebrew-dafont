@@ -5,7 +5,6 @@ cask 'dafont-sl-square-ornaments' do
     url 'http://dl.dafont.com/dl/?f=sl_square_ornaments'
     name 'SL Square Ornaments'
     homepage 'http://www.dafont.com/sl-square-ornaments.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SL Square Ornaments.ttf'
 end

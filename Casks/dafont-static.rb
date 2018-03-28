@@ -5,7 +5,6 @@ cask 'dafont-static' do
     url 'http://dl.dafont.com/dl/?f=static'
     name 'Static'
     homepage 'http://www.dafont.com/static.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Static-2.ttf'
 end

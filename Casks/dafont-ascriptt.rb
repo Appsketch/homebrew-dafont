@@ -5,7 +5,6 @@ cask 'dafont-ascriptt' do
     url 'http://dl.dafont.com/dl/?f=ascriptt'
     name 'Ascriptt'
     homepage 'http://www.dafont.com/ascriptt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ascriptt.ttf'
 end

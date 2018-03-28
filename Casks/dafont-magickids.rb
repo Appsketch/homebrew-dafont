@@ -5,7 +5,6 @@ cask 'dafont-magickids' do
     url 'http://dl.dafont.com/dl/?f=magickids'
     name 'Magic Kids'
     homepage 'http://www.dafont.com/magickids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MagicKids.ttf'
 end

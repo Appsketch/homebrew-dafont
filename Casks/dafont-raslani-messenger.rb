@@ -5,7 +5,6 @@ cask 'dafont-raslani-messenger' do
     url 'http://dl.dafont.com/dl/?f=raslani_messenger'
     name 'Raslani Messenger'
     homepage 'http://www.dafont.com/raslani-messenger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raslani Messenger.ttf'
 end

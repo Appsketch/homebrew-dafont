@@ -5,7 +5,6 @@ cask 'dafont-fusion' do
     url 'http://dl.dafont.com/dl/?f=fusion'
     name 'Fusion'
     homepage 'http://www.dafont.com/fusion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fusion.ttf'
     font 'fusioni.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-epittazio' do
     url 'http://dl.dafont.com/dl/?f=epittazio'
     name 'Epittazio'
     homepage 'http://www.dafont.com/epittazio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Epittazio.ttf'
 end

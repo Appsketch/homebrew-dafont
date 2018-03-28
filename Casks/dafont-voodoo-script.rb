@@ -5,7 +5,6 @@ cask 'dafont-voodoo-script' do
     url 'http://dl.dafont.com/dl/?f=voodoo_script'
     name 'Voodoo Script'
     homepage 'http://www.dafont.com/voodoo-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCRIPT1 Voodoo Script FREEWARE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kari' do
     url 'http://dl.dafont.com/dl/?f=kari'
     name 'Kari'
     homepage 'http://www.dafont.com/kari.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kari.ttf'
 end

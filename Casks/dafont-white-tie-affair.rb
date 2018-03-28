@@ -5,7 +5,6 @@ cask 'dafont-white-tie-affair' do
     url 'http://dl.dafont.com/dl/?f=white_tie_affair'
     name 'White Tie Affair'
     homepage 'http://www.dafont.com/white-tie-affair.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'White Tie Affair.ttf'
 end

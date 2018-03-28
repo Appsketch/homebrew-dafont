@@ -5,7 +5,6 @@ cask 'dafont-star-waves' do
     url 'http://dl.dafont.com/dl/?f=star_waves'
     name 'Star Waves'
     homepage 'http://www.dafont.com/star-waves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Star Waves Black.ttf'
     font 'Star Waves.ttf'

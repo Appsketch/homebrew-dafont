@@ -5,7 +5,6 @@ cask 'dafont-californian-cars' do
     url 'http://dl.dafont.com/dl/?f=californian_cars'
     name 'Californian cars'
     homepage 'http://www.dafont.com/californian-cars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Californian Cars.ttf'
 end

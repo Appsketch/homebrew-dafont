@@ -5,7 +5,6 @@ cask 'dafont-madalen-letter' do
     url 'http://dl.dafont.com/dl/?f=madalen_letter'
     name 'Madalen Letter'
     homepage 'http://www.dafont.com/madalen-letter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Madalen Letter.otf'
 end

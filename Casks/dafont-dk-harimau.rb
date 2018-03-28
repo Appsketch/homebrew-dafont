@@ -5,7 +5,6 @@ cask 'dafont-dk-harimau' do
     url 'http://dl.dafont.com/dl/?f=dk_harimau'
     name 'DK Harimau'
     homepage 'http://www.dafont.com/dk-harimau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Harimau.otf'
 end

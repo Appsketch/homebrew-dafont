@@ -5,7 +5,6 @@ cask 'dafont-wmroadsigns' do
     url 'http://dl.dafont.com/dl/?f=wmroadsigns'
     name 'WM Roadsigns'
     homepage 'http://www.dafont.com/wmroadsigns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmroadsigns.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sohoma' do
     url 'http://dl.dafont.com/dl/?f=sohoma'
     name 'Sohoma'
     homepage 'http://www.dafont.com/sohoma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sohoma_extrabold.ttf'
     font 'sohoma_light.ttf'

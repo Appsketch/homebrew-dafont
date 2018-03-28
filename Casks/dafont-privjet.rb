@@ -5,7 +5,6 @@ cask 'dafont-privjet' do
     url 'http://dl.dafont.com/dl/?f=privjet'
     name 'Privjet'
     homepage 'http://www.dafont.com/privjet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Privjet.ttf'
 end

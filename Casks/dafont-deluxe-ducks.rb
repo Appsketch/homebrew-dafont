@@ -5,7 +5,6 @@ cask 'dafont-deluxe-ducks' do
     url 'http://dl.dafont.com/dl/?f=deluxe_ducks'
     name 'Deluxe Ducks'
     homepage 'http://www.dafont.com/deluxe-ducks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deluxe ducks.ttf'
 end

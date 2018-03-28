@@ -5,7 +5,6 @@ cask 'dafont-brigada-ramona-parra' do
     url 'http://dl.dafont.com/dl/?f=brigada_ramona_parra'
     name 'Brigada Ramona Parra'
     homepage 'http://www.dafont.com/brigada-ramona-parra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRIGADA.ttf'
 end

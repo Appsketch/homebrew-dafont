@@ -5,7 +5,6 @@ cask 'dafont-alpha-male-modern' do
     url 'http://dl.dafont.com/dl/?f=alpha_male_modern'
     name 'Alpha Male Modern'
     homepage 'http://www.dafont.com/alpha-male-modern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaMaleModern.ttf'
 end

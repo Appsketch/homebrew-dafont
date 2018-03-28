@@ -5,7 +5,6 @@ cask 'dafont-distraught' do
     url 'http://dl.dafont.com/dl/?f=distraught'
     name 'Distraught'
     homepage 'http://www.dafont.com/distraught.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Distraught.otf'
     font 'DistraughtIta.otf'

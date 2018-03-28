@@ -5,7 +5,6 @@ cask 'dafont-zapdeal' do
     url 'http://dl.dafont.com/dl/?f=zapdeal'
     name 'ZapDeal'
     homepage 'http://www.dafont.com/zapdeal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZapDeal.ttf'
 end

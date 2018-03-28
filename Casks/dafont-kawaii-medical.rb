@@ -5,7 +5,6 @@ cask 'dafont-kawaii-medical' do
     url 'http://dl.dafont.com/dl/?f=kawaii_medical'
     name 'Kawaii Medical'
     homepage 'http://www.dafont.com/kawaii-medical.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kawaii Medical.ttf'
 end

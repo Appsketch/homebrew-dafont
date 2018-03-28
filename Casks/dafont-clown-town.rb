@@ -5,7 +5,6 @@ cask 'dafont-clown-town' do
     url 'http://dl.dafont.com/dl/?f=clown_town'
     name 'Clown Town'
     homepage 'http://www.dafont.com/clown-town.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clown Town.ttf'
 end

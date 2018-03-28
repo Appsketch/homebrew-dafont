@@ -5,7 +5,6 @@ cask 'dafont-hollow-point' do
     url 'http://dl.dafont.com/dl/?f=hollow_point'
     name 'Hollow Point'
     homepage 'http://www.dafont.com/hollow-point.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hollowpoint.ttf'
     font 'hollowpoint3d.ttf'

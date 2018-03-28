@@ -5,7 +5,6 @@ cask 'dafont-lcr-lesleys-crafts' do
     url 'http://dl.dafont.com/dl/?f=lcr_lesleys_crafts'
     name 'LCR Lesleys Crafts'
     homepage 'http://www.dafont.com/lcr-lesleys-crafts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LCR Lesleys Crafts.ttf'
 end

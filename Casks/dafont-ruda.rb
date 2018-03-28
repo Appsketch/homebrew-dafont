@@ -5,7 +5,6 @@ cask 'dafont-ruda' do
     url 'http://dl.dafont.com/dl/?f=ruda'
     name 'Ruda'
     homepage 'http://www.dafont.com/ruda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RUDA.otf'
 end

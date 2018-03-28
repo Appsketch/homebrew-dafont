@@ -5,7 +5,6 @@ cask 'dafont-djb-elliephont' do
     url 'http://dl.dafont.com/dl/?f=djb_elliephont'
     name 'DJB Elliephont'
     homepage 'http://www.dafont.com/djb-elliephont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Elliephont.ttf'
 end

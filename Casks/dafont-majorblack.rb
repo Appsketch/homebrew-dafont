@@ -5,7 +5,6 @@ cask 'dafont-majorblack' do
     url 'http://dl.dafont.com/dl/?f=majorblack'
     name 'Major Black'
     homepage 'http://www.dafont.com/majorblack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MajorBlack.ttf'
 end

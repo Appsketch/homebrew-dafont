@@ -5,7 +5,6 @@ cask 'dafont-lazy-writer' do
     url 'http://dl.dafont.com/dl/?f=lazy_writer'
     name 'Lazy Writer'
     homepage 'http://www.dafont.com/lazy-writer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lazy writer.ttf'
 end

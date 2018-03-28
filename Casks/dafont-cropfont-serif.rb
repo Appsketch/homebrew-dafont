@@ -5,7 +5,6 @@ cask 'dafont-cropfont-serif' do
     url 'http://dl.dafont.com/dl/?f=cropfont_serif'
     name 'Cropfont Serif'
     homepage 'http://www.dafont.com/cropfont-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cropfontserif.ttf'
 end

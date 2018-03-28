@@ -5,7 +5,6 @@ cask 'dafont-angleblock' do
     url 'http://dl.dafont.com/dl/?f=angleblock'
     name 'Angleblock'
     homepage 'http://www.dafont.com/angleblock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'angleblock.ttf'
 end

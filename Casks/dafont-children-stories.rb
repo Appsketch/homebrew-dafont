@@ -5,7 +5,6 @@ cask 'dafont-children-stories' do
     url 'http://dl.dafont.com/dl/?f=children_stories'
     name 'Children Stories'
     homepage 'http://www.dafont.com/children-stories.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'children stories.ttf'
 end

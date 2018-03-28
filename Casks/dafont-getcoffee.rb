@@ -5,7 +5,6 @@ cask 'dafont-getcoffee' do
     url 'http://dl.dafont.com/dl/?f=getcoffee'
     name 'Get Coffee'
     homepage 'http://www.dafont.com/getcoffee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'getcoffee regular.ttf'
 end

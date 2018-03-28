@@ -5,7 +5,6 @@ cask 'dafont-simple-kind-of-girl' do
     url 'http://dl.dafont.com/dl/?f=simple_kind_of_girl'
     name 'Simple Kind Of Girl'
     homepage 'http://www.dafont.com/simple-kind-of-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simple Kind Of Girl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-evaow' do
     url 'http://dl.dafont.com/dl/?f=evaow'
     name 'Evaow'
     homepage 'http://www.dafont.com/evaow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Evaow.otf'
 end

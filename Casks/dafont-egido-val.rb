@@ -5,7 +5,6 @@ cask 'dafont-egido-val' do
     url 'http://dl.dafont.com/dl/?f=egido_val'
     name 'Egido Val'
     homepage 'http://www.dafont.com/egido-val.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EgidoVal_Handstyle_1.ttf'
 end

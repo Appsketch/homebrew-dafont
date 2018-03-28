@@ -5,7 +5,6 @@ cask 'dafont-pixel-chaos' do
     url 'http://dl.dafont.com/dl/?f=pixel_chaos'
     name 'Pixel Chaos'
     homepage 'http://www.dafont.com/pixel-chaos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel Chaos.ttf'
 end

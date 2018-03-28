@@ -5,7 +5,6 @@ cask 'dafont-safe-from-harm' do
     url 'http://dl.dafont.com/dl/?f=safe_from_harm'
     name 'Safe from harm'
     homepage 'http://www.dafont.com/safe-from-harm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Safe from harm.ttf'
 end

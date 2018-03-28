@@ -5,7 +5,6 @@ cask 'dafont-viceroy' do
     url 'http://dl.dafont.com/dl/?f=viceroy'
     name 'Viceroy'
     homepage 'http://www.dafont.com/viceroy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Viceroy.ttf'
 end

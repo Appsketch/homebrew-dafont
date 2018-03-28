@@ -5,7 +5,6 @@ cask 'dafont-edit-undo-dot' do
     url 'http://dl.dafont.com/dl/?f=edit_undo_dot'
     name 'Edit Undo Dot'
     homepage 'http://www.dafont.com/edit-undo-dot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'edundot.ttf'
 end

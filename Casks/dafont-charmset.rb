@@ -5,7 +5,6 @@ cask 'dafont-charmset' do
     url 'http://dl.dafont.com/dl/?f=charmset'
     name 'Charmset'
     homepage 'http://www.dafont.com/charmset.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Charmset.ttf'
 end

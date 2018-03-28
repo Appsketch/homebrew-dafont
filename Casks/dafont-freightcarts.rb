@@ -5,7 +5,6 @@ cask 'dafont-freightcarts' do
     url 'http://dl.dafont.com/dl/?f=freightcarts'
     name 'Freight Carts'
     homepage 'http://www.dafont.com/freightcarts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreightCarts.ttf'
 end

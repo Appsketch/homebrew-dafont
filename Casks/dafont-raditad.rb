@@ -5,7 +5,6 @@ cask 'dafont-raditad' do
     url 'http://dl.dafont.com/dl/?f=raditad'
     name 'Raditad'
     homepage 'http://www.dafont.com/raditad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raditad.ttf'
 end

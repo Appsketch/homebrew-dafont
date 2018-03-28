@@ -5,7 +5,6 @@ cask 'dafont-printed-circuit-board-7' do
     url 'http://dl.dafont.com/dl/?f=printed_circuit_board_7'
     name 'Printed Circuit Board-7'
     homepage 'http://www.dafont.com/printed-circuit-board-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'printed_circuit_board-7.ttf'
 end

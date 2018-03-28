@@ -5,7 +5,6 @@ cask 'dafont-cuneiform' do
     url 'http://dl.dafont.com/dl/?f=cuneiform'
     name 'Cuneiform'
     homepage 'http://www.dafont.com/cuneiform.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cuneiform.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-v-open' do
     url 'http://dl.dafont.com/dl/?f=v_open'
     name 'VOpen'
     homepage 'http://www.dafont.com/v-open.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'V-open__.ttf'
 end

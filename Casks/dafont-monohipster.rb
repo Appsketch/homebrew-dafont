@@ -5,7 +5,6 @@ cask 'dafont-monohipster' do
     url 'http://dl.dafont.com/dl/?f=monohipster'
     name 'Monohipster'
     homepage 'http://www.dafont.com/monohipster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monohipster.otf'
 end

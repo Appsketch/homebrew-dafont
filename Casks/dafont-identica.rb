@@ -5,7 +5,6 @@ cask 'dafont-identica' do
     url 'http://dl.dafont.com/dl/?f=identica'
     name 'Identica'
     homepage 'http://www.dafont.com/identica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Identica-Regular.ttf'
 end

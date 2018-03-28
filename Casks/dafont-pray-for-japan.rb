@@ -5,7 +5,6 @@ cask 'dafont-pray-for-japan' do
     url 'http://dl.dafont.com/dl/?f=pray_for_japan'
     name 'Pray for Japan'
     homepage 'http://www.dafont.com/pray-for-japan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pray_for_japan.ttf'
 end

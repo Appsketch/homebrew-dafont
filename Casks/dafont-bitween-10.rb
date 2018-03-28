@@ -5,7 +5,6 @@ cask 'dafont-bitween-10' do
     url 'http://dl.dafont.com/dl/?f=bitween_10'
     name 'Bitween 10'
     homepage 'http://www.dafont.com/bitween-10.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BITWA___.TTF'
     font 'BITWA2___.TTF'

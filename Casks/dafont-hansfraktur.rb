@@ -5,7 +5,6 @@ cask 'dafont-hansfraktur' do
     url 'http://dl.dafont.com/dl/?f=hansfraktur'
     name 'HansFraktur'
     homepage 'http://www.dafont.com/hansfraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HansFraktur.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-radiance' do
     url 'http://dl.dafont.com/dl/?f=radiance'
     name 'Radiance'
     homepage 'http://www.dafont.com/radiance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'radiance.otf'
 end

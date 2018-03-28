@@ -5,7 +5,6 @@ cask 'dafont-don-giovonni' do
     url 'http://dl.dafont.com/dl/?f=don_giovonni'
     name 'Don Giovonni'
     homepage 'http://www.dafont.com/don-giovonni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Don Giovanni Makin Enemies.ttf'
     font 'Don Giovanni.ttf'

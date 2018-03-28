@@ -5,7 +5,6 @@ cask 'dafont-littlelego' do
     url 'http://dl.dafont.com/dl/?f=littlelego'
     name 'LittleLego'
     homepage 'http://www.dafont.com/littlelego.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'littlelego.ttf'
 end

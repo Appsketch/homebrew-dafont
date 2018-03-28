@@ -5,7 +5,6 @@ cask 'dafont-picto' do
     url 'http://dl.dafont.com/dl/?f=picto'
     name 'Picto'
     homepage 'http://www.dafont.com/picto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'glifos.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-veneto' do
     url 'http://dl.dafont.com/dl/?f=veneto'
     name 'Veneto'
     homepage 'http://www.dafont.com/veneto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VENETO__.TTF'
 end

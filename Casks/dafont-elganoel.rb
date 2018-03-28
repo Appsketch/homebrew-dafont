@@ -5,7 +5,6 @@ cask 'dafont-elganoel' do
     url 'http://dl.dafont.com/dl/?f=elganoel'
     name 'Elganoel'
     homepage 'http://www.dafont.com/elganoel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elganoel.ttf'
 end

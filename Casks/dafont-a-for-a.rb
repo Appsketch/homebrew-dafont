@@ -5,7 +5,6 @@ cask 'dafont-a-for-a' do
     url 'http://dl.dafont.com/dl/?f=a_for_a'
     name 'A For A'
     homepage 'http://www.dafont.com/a-for-a.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A FOR A.ttf'
 end

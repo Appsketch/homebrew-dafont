@@ -5,7 +5,6 @@ cask 'dafont-marshal-risk' do
     url 'http://dl.dafont.com/dl/?f=marshal_risk'
     name 'Marshal Risk'
     homepage 'http://www.dafont.com/marshal-risk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marshal Risk.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-mixed-icons-vol2' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_mixed_icons_vol2'
     name 'Woodcutter Mixed Icons vol2'
     homepage 'http://www.dafont.com/woodcutter-mixed-icons-vol2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter Mixed Icons vol2.ttf'
 end

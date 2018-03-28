@@ -5,7 +5,6 @@ cask 'dafont-inumocca' do
     url 'http://dl.dafont.com/dl/?f=inumocca'
     name 'Inumocca'
     homepage 'http://www.dafont.com/inumocca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'inumocca_belut Listrik.ttf'
 end

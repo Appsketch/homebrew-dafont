@@ -5,7 +5,6 @@ cask 'dafont-robinne' do
     url 'http://dl.dafont.com/dl/?f=robinne'
     name 'Robinne'
     homepage 'http://www.dafont.com/robinne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Robinne Truecase.ttf'
     font 'Robinne.ttf'

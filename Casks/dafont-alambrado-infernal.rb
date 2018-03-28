@@ -5,7 +5,6 @@ cask 'dafont-alambrado-infernal' do
     url 'http://dl.dafont.com/dl/?f=alambrado_infernal'
     name 'Alambrado Infernal'
     homepage 'http://www.dafont.com/alambrado-infernal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALAMBRADO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-my-seven-ts' do
     url 'http://dl.dafont.com/dl/?f=my_seven_ts'
     name 'My seven Ts'
     homepage 'http://www.dafont.com/my-seven-ts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My seven T_&#039;s.ttf'
 end

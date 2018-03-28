@@ -5,7 +5,6 @@ cask 'dafont-quota' do
     url 'http://dl.dafont.com/dl/?f=quota'
     name 'Quota'
     homepage 'http://www.dafont.com/quota.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quota bold.otf'
 end

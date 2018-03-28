@@ -5,7 +5,6 @@ cask 'dafont-mtf-i-heart-sketches' do
     url 'http://dl.dafont.com/dl/?f=mtf_i_heart_sketches'
     name 'MTF I Heart Sketches'
     homepage 'http://www.dafont.com/mtf-i-heart-sketches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF i heart Sketches.ttf'
 end

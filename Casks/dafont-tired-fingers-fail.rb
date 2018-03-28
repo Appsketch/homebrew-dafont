@@ -5,7 +5,6 @@ cask 'dafont-tired-fingers-fail' do
     url 'http://dl.dafont.com/dl/?f=tired_fingers_fail'
     name 'Tired Fingers Fail'
     homepage 'http://www.dafont.com/tired-fingers-fail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tired Fingers Fail.ttf'
 end

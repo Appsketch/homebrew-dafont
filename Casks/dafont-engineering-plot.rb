@@ -5,7 +5,6 @@ cask 'dafont-engineering-plot' do
     url 'http://dl.dafont.com/dl/?f=engineering_plot'
     name 'Engineering Plot'
     homepage 'http://www.dafont.com/engineering-plot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Engplot.TTF'
 end

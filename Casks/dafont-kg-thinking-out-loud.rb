@@ -5,7 +5,6 @@ cask 'dafont-kg-thinking-out-loud' do
     url 'http://dl.dafont.com/dl/?f=kg_thinking_out_loud'
     name 'KG Thinking Out Loud'
     homepage 'http://www.dafont.com/kg-thinking-out-loud.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGThinkingOutLoud.ttf'
 end

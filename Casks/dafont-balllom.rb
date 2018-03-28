@@ -5,7 +5,6 @@ cask 'dafont-balllom' do
     url 'http://dl.dafont.com/dl/?f=balllom'
     name 'Ballom'
     homepage 'http://www.dafont.com/balllom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BALLOM__.TTF'
 end

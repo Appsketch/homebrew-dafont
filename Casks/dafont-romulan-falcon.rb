@@ -5,7 +5,6 @@ cask 'dafont-romulan-falcon' do
     url 'http://dl.dafont.com/dl/?f=romulan_falcon'
     name 'Romulan Falcon'
     homepage 'http://www.dafont.com/romulan-falcon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROF____&amp;.ttf'
 end

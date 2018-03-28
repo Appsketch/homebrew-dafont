@@ -5,7 +5,6 @@ cask 'dafont-fall-is-still-like-summer-in-ca' do
     url 'http://dl.dafont.com/dl/?f=fall_is_still_like_summer_in_ca'
     name 'Fall is still like Summer in California'
     homepage 'http://www.dafont.com/fall-is-still-like-summer-in-ca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fall is still like Summer in California.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cf-same-old-story' do
     url 'http://dl.dafont.com/dl/?f=cf_same_old_story'
     name 'CF Same Old Story'
     homepage 'http://www.dafont.com/cf-same-old-story.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFSameOldStory-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pagani' do
     url 'http://dl.dafont.com/dl/?f=pagani'
     name 'Pagani'
     homepage 'http://www.dafont.com/pagani.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pagani.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-majestrick' do
     url 'http://dl.dafont.com/dl/?f=majestrick'
     name 'Majestrick'
     homepage 'http://www.dafont.com/majestrick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Majestrick.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-belladona' do
     url 'http://dl.dafont.com/dl/?f=belladona'
     name 'Belladona'
     homepage 'http://www.dafont.com/belladona.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Belladona.ttf'
 end

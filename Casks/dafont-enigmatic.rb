@@ -5,7 +5,6 @@ cask 'dafont-enigmatic' do
     url 'http://dl.dafont.com/dl/?f=enigmatic'
     name 'Enigmatic'
     homepage 'http://www.dafont.com/enigmatic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EnigRegu/Enigma__2.TTF'
     font 'EnigRegu/Enigma_2i.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-soft-lines-7' do
     url 'http://dl.dafont.com/dl/?f=soft_lines_7'
     name 'Soft Lines 7'
     homepage 'http://www.dafont.com/soft-lines-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'soft_lines_7.ttf'
 end

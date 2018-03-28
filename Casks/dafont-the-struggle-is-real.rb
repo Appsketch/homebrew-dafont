@@ -5,7 +5,6 @@ cask 'dafont-the-struggle-is-real' do
     url 'http://dl.dafont.com/dl/?f=the_struggle_is_real'
     name 'The Struggle is Real'
     homepage 'http://www.dafont.com/the-struggle-is-real.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheStruggleIsReal.ttf'
 end

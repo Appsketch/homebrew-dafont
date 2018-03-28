@@ -5,7 +5,6 @@ cask 'dafont-nantoka-western' do
     url 'http://dl.dafont.com/dl/?f=nantoka_western'
     name 'Nantoka Western'
     homepage 'http://www.dafont.com/nantoka-western.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_nantoka_western.ttf'
 end

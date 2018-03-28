@@ -5,7 +5,6 @@ cask 'dafont-dupix' do
     url 'http://dl.dafont.com/dl/?f=dupix'
     name 'Dupix'
     homepage 'http://www.dafont.com/dupix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dupix.ttf'
 end

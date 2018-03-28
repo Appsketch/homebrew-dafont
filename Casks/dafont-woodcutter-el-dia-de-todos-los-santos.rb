@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-el-dia-de-todos-los-santos' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_el_dia_de_todos_los_santos'
     name 'Woodcutter El D&iacute;a De Todos Los Santos'
     homepage 'http://www.dafont.com/woodcutter-el-dia-de-todos-los-santos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WOODCUTTER EL D&Ouml;A DE TODOS LOS SANTOS.ttf'
 end

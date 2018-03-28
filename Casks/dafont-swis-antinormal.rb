@@ -5,7 +5,6 @@ cask 'dafont-swis-antinormal' do
     url 'http://dl.dafont.com/dl/?f=swis_antinormal'
     name 'Swis AntiNormal'
     homepage 'http://www.dafont.com/swis-antinormal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SWISANCN.TTF'
 end

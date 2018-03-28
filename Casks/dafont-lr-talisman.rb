@@ -5,7 +5,6 @@ cask 'dafont-lr-talisman' do
     url 'http://dl.dafont.com/dl/?f=lr_talisman'
     name 'LR Talisman'
     homepage 'http://www.dafont.com/lr-talisman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LRTALISM.ttf'
 end

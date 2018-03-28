@@ -5,7 +5,6 @@ cask 'dafont-betty' do
     url 'http://dl.dafont.com/dl/?f=betty'
     name 'Betty'
     homepage 'http://www.dafont.com/betty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Betty Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-abc-logos-xyz' do
     url 'http://dl.dafont.com/dl/?f=abc_logos_xyz'
     name 'ABC Logos XYZ'
     homepage 'http://www.dafont.com/abc-logos-xyz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ABCLogosXYZ.ttf'
     font 'ABCLogosXYZCrazy.ttf'

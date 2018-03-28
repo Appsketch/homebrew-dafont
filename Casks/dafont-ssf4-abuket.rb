@@ -5,7 +5,6 @@ cask 'dafont-ssf4-abuket' do
     url 'http://dl.dafont.com/dl/?f=ssf4_abuket'
     name 'SSF4 Abuket'
     homepage 'http://www.dafont.com/ssf4-abuket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SSF4 ABUKET.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hint-retro' do
     url 'http://dl.dafont.com/dl/?f=hint_retro'
     name 'Hint Retro'
     homepage 'http://www.dafont.com/hint-retro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hint-retr_free-version.ttf'
 end

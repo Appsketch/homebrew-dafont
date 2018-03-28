@@ -5,7 +5,6 @@ cask 'dafont-fette-unz-fraktur' do
     url 'http://dl.dafont.com/dl/?f=fette_unz_fraktur'
     name 'Fette Unz Fraktur'
     homepage 'http://www.dafont.com/fette-unz-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FetteClassicUNZFraktur.ttf'
     font 'FetteUNZFraktur.ttf'

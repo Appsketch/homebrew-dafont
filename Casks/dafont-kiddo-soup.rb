@@ -5,7 +5,6 @@ cask 'dafont-kiddo-soup' do
     url 'http://dl.dafont.com/dl/?f=kiddo_soup'
     name 'Kiddo-soup'
     homepage 'http://www.dafont.com/kiddo-soup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kiddo-soup-bold.ttf'
     font 'Kiddo-soup.ttf'

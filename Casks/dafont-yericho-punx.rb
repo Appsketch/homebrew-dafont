@@ -5,7 +5,6 @@ cask 'dafont-yericho-punx' do
     url 'http://dl.dafont.com/dl/?f=yericho_punx'
     name 'Yericho Punx'
     homepage 'http://www.dafont.com/yericho-punx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yericho Punx.ttf'
 end

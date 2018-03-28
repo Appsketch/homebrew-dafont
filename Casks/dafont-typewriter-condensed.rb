@@ -5,7 +5,6 @@ cask 'dafont-typewriter-condensed' do
     url 'http://dl.dafont.com/dl/?f=typewriter_condensed'
     name 'Typewriter Condensed'
     homepage 'http://www.dafont.com/typewriter-condensed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'typewcond_demi.otf'
 end

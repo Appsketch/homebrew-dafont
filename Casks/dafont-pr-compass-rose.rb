@@ -5,7 +5,6 @@ cask 'dafont-pr-compass-rose' do
     url 'http://dl.dafont.com/dl/?f=pr_compass_rose'
     name 'PR Compass Rose'
     homepage 'http://www.dafont.com/pr-compass-rose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PRCORN__.TTF'
 end

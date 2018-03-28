@@ -5,7 +5,6 @@ cask 'dafont-denne-at-the-tea-party' do
     url 'http://dl.dafont.com/dl/?f=denne_at_the_tea_party'
     name 'Denne At The Tea Party'
     homepage 'http://www.dafont.com/denne-at-the-tea-party.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Denne At The Tea Party.ttf'
 end

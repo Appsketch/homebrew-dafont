@@ -5,7 +5,6 @@ cask 'dafont-dionisia' do
     url 'http://dl.dafont.com/dl/?f=dionisia'
     name 'Dionisia'
     homepage 'http://www.dafont.com/dionisia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dionisia-Regular.ttf'
 end

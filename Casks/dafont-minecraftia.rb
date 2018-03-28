@@ -5,7 +5,6 @@ cask 'dafont-minecraftia' do
     url 'http://dl.dafont.com/dl/?f=minecraftia'
     name 'Minecraftia'
     homepage 'http://www.dafont.com/minecraftia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minecraftia-Regular.ttf'
 end

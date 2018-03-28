@@ -5,7 +5,6 @@ cask 'dafont-peanutbutter-smoothies' do
     url 'http://dl.dafont.com/dl/?f=peanutbutter_smoothies'
     name 'Peanutbutter Smoothies'
     homepage 'http://www.dafont.com/peanutbutter-smoothies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peanutbutter Smoothies_2.ttf'
 end

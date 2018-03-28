@@ -5,7 +5,6 @@ cask 'dafont-arcaderfs' do
     url 'http://dl.dafont.com/dl/?f=arcaderfs'
     name 'Arcader FS'
     homepage 'http://www.dafont.com/arcaderfs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArcaderFS.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-me-too-pixzi' do
     url 'http://dl.dafont.com/dl/?f=me_too_pixzi'
     name 'Me Too Pixzi'
     homepage 'http://www.dafont.com/me-too-pixzi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'METOOPIXZI.TTF'
 end

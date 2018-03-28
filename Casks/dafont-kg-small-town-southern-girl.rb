@@ -5,7 +5,6 @@ cask 'dafont-kg-small-town-southern-girl' do
     url 'http://dl.dafont.com/dl/?f=kg_small_town_southern_girl'
     name 'KG Small Town Southern Girl'
     homepage 'http://www.dafont.com/kg-small-town-southern-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGSmallTownSouthernGirl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-square-route-brk' do
     url 'http://dl.dafont.com/dl/?f=square_route_brk'
     name 'Square Route BRK'
     homepage 'http://www.dafont.com/square-route-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sqroute.ttf'
 end

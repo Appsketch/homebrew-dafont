@@ -5,7 +5,6 @@ cask 'dafont-bastarda' do
     url 'http://dl.dafont.com/dl/?f=bastarda'
     name 'Bastarda'
     homepage 'http://www.dafont.com/bastarda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BastardaPlain.ttf'
 end

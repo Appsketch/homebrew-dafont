@@ -5,7 +5,6 @@ cask 'dafont-sterling-keys' do
     url 'http://dl.dafont.com/dl/?f=sterling_keys'
     name 'Sterling Keys'
     homepage 'http://www.dafont.com/sterling-keys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sterling Keys.ttf'
 end

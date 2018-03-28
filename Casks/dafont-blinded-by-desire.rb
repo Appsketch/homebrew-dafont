@@ -5,7 +5,6 @@ cask 'dafont-blinded-by-desire' do
     url 'http://dl.dafont.com/dl/?f=blinded_by_desire'
     name 'Blinded by desire'
     homepage 'http://www.dafont.com/blinded-by-desire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blinded by desire.ttf'
 end

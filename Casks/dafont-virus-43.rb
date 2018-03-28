@@ -5,7 +5,6 @@ cask 'dafont-virus-43' do
     url 'http://dl.dafont.com/dl/?f=virus_43'
     name 'Virus 43'
     homepage 'http://www.dafont.com/virus-43.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'virus43.ttf'
 end

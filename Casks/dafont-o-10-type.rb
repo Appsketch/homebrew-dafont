@@ -5,7 +5,6 @@ cask 'dafont-o-10-type' do
     url 'http://dl.dafont.com/dl/?f=o_10_type'
     name 'O 10 Type'
     homepage 'http://www.dafont.com/o-10-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'O 10 Type.ttf'
 end

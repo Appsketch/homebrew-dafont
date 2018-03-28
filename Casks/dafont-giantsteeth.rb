@@ -5,7 +5,6 @@ cask 'dafont-giantsteeth' do
     url 'http://dl.dafont.com/dl/?f=giantsteeth'
     name 'Giants Teeth'
     homepage 'http://www.dafont.com/giantsteeth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GiantsTeeth.otf'
 end

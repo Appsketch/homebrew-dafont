@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-army-stencil' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_army_stencil'
     name 'Woodcutter Army (stencil)'
     homepage 'http://www.dafont.com/woodcutter-army-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WOODCUTTER ARMY (Stencil).ttf.ttf'
 end

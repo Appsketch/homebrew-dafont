@@ -5,7 +5,6 @@ cask 'dafont-evol' do
     url 'http://dl.dafont.com/dl/?f=evol'
     name 'Evol'
     homepage 'http://www.dafont.com/evol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'evol.[fontvir.us].ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-typo-college' do
     url 'http://dl.dafont.com/dl/?f=typo_college'
     name 'Typo College'
     homepage 'http://www.dafont.com/typo-college.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typo College Demo.otf'
     font 'Typo College Destroyed Demo.otf'

@@ -5,7 +5,6 @@ cask 'dafont-winnersparade' do
     url 'http://dl.dafont.com/dl/?f=winnersparade'
     name 'Winners Parade'
     homepage 'http://www.dafont.com/winnersparade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WinnersParade.ttf'
 end

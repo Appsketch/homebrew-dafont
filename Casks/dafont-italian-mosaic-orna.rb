@@ -5,7 +5,6 @@ cask 'dafont-italian-mosaic-orna' do
     url 'http://dl.dafont.com/dl/?f=italian_mosaic_orna'
     name 'Italian Mosaic Ornaments'
     homepage 'http://www.dafont.com/italian-mosaic-orna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Italian Mosaic Ornaments.ttf'
 end

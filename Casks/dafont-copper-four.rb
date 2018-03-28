@@ -5,7 +5,6 @@ cask 'dafont-copper-four' do
     url 'http://dl.dafont.com/dl/?f=copper_four'
     name 'Copper Four'
     homepage 'http://www.dafont.com/copper-four.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Copper-Four.ttf'
 end

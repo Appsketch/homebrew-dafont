@@ -5,7 +5,6 @@ cask 'dafont-loopy-brk' do
     url 'http://dl.dafont.com/dl/?f=loopy_brk'
     name 'Loopy BRK'
     homepage 'http://www.dafont.com/loopy-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'loopy.ttf'
 end

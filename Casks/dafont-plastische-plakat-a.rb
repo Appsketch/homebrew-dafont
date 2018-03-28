@@ -5,7 +5,6 @@ cask 'dafont-plastische-plakat-a' do
     url 'http://dl.dafont.com/dl/?f=plastische_plakat_a'
     name 'Plastische Plakat Antiqua'
     homepage 'http://www.dafont.com/plastische-plakat-a.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PlastischePlakatAntiqua.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yippy-skippy' do
     url 'http://dl.dafont.com/dl/?f=yippy_skippy'
     name 'Yippy Skippy'
     homepage 'http://www.dafont.com/yippy-skippy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yippy Skippy.ttf'
     font 'Yippy.ttf'

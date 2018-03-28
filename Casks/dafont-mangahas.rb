@@ -5,7 +5,6 @@ cask 'dafont-mangahas' do
     url 'http://dl.dafont.com/dl/?f=mangahas'
     name 'Mangahas'
     homepage 'http://www.dafont.com/mangahas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mangahas.ttf'
 end

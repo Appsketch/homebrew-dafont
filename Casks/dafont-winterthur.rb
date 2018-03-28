@@ -5,7 +5,6 @@ cask 'dafont-winterthur' do
     url 'http://dl.dafont.com/dl/?f=winterthur'
     name 'Winterthur Condensed'
     homepage 'http://www.dafont.com/winterthur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WinterthurCondensed.ttf'
     font 'WinterthurCondensedOblique.ttf'

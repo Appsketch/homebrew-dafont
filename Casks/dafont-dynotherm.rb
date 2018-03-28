@@ -5,7 +5,6 @@ cask 'dafont-dynotherm' do
     url 'http://dl.dafont.com/dl/?f=dynotherm'
     name 'Dynotherm'
     homepage 'http://www.dafont.com/dynotherm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dynotherm Bold Italic.otf'
     font 'Dynotherm Bold.otf'

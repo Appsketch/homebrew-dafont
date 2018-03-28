@@ -5,7 +5,6 @@ cask 'dafont-stencilcase' do
     url 'http://dl.dafont.com/dl/?f=stencilcase'
     name 'Stencilcase'
     homepage 'http://www.dafont.com/stencilcase.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STENB___.TTF'
     font 'STENCILC.TTF'

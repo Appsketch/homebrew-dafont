@@ -5,7 +5,6 @@ cask 'dafont-cutblox' do
     url 'http://dl.dafont.com/dl/?f=cutblox'
     name 'Cut Blox'
     homepage 'http://www.dafont.com/cutblox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CutBlox.ttf'
 end

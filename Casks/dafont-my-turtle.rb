@@ -5,7 +5,6 @@ cask 'dafont-my-turtle' do
     url 'http://dl.dafont.com/dl/?f=my_turtle'
     name 'My Turtle'
     homepage 'http://www.dafont.com/my-turtle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MYTURTLE.TTF'
 end

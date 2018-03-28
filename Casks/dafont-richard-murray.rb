@@ -5,7 +5,6 @@ cask 'dafont-richard-murray' do
     url 'http://dl.dafont.com/dl/?f=richard_murray'
     name 'Richard Murray'
     homepage 'http://www.dafont.com/richard-murray.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'richardm.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-garfield2' do
     url 'http://dl.dafont.com/dl/?f=garfield2'
     name 'Garfield'
     homepage 'http://www.dafont.com/garfield2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Garfield.ttf'
 end

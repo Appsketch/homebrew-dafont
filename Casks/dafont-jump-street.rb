@@ -5,7 +5,6 @@ cask 'dafont-jump-street' do
     url 'http://dl.dafont.com/dl/?f=jump_street'
     name 'Jump Street'
     homepage 'http://www.dafont.com/jump-street.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jump Street.ttf'
 end

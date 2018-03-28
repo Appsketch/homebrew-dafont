@@ -5,7 +5,6 @@ cask 'dafont-the-juke-box' do
     url 'http://dl.dafont.com/dl/?f=the_juke_box'
     name 'The Juke Box'
     homepage 'http://www.dafont.com/the-juke-box.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The_Juke_Box-FFP.ttf'
 end

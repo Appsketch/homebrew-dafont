@@ -5,7 +5,6 @@ cask 'dafont-quadaptor' do
     url 'http://dl.dafont.com/dl/?f=quadaptor'
     name 'Quadaptor'
     homepage 'http://www.dafont.com/quadaptor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quadaptor.ttf'
 end

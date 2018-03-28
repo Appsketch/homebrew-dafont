@@ -5,7 +5,6 @@ cask 'dafont-future-now' do
     url 'http://dl.dafont.com/dl/?f=future_now'
     name 'Future Now'
     homepage 'http://www.dafont.com/future-now.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Future Now.ttf'
 end

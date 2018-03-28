@@ -5,7 +5,6 @@ cask 'dafont-extrastring' do
     url 'http://dl.dafont.com/dl/?f=extrastring'
     name 'Extra String'
     homepage 'http://www.dafont.com/extrastring.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExtraString.ttf'
 end

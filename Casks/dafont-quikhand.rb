@@ -5,7 +5,6 @@ cask 'dafont-quikhand' do
     url 'http://dl.dafont.com/dl/?f=quikhand'
     name 'Quikhand'
     homepage 'http://www.dafont.com/quikhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quikhand.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-solitude' do
     url 'http://dl.dafont.com/dl/?f=solitude'
     name 'Solitude'
     homepage 'http://www.dafont.com/solitude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Solitude.ttf'
 end

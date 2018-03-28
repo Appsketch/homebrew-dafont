@@ -5,7 +5,6 @@ cask 'dafont-lost-in-the-sound' do
     url 'http://dl.dafont.com/dl/?f=lost_in_the_sound'
     name 'Lost in the Sound'
     homepage 'http://www.dafont.com/lost-in-the-sound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lost in the Sound.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hff-quick-draw' do
     url 'http://dl.dafont.com/dl/?f=hff_quick_draw'
     name 'HFF Quick Draw'
     homepage 'http://www.dafont.com/hff-quick-draw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Quick Draw.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tara' do
     url 'http://dl.dafont.com/dl/?f=tara'
     name 'Tara'
     homepage 'http://www.dafont.com/tara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tara.ttf'
 end

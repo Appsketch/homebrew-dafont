@@ -5,7 +5,6 @@ cask 'dafont-mtf-toast' do
     url 'http://dl.dafont.com/dl/?f=mtf_toast'
     name 'MTF Toast'
     homepage 'http://www.dafont.com/mtf-toast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Toast.ttf'
 end

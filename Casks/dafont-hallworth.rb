@@ -5,7 +5,6 @@ cask 'dafont-hallworth' do
     url 'http://dl.dafont.com/dl/?f=hallworth'
     name 'Hallworth'
     homepage 'http://www.dafont.com/hallworth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hallworth.ttf'
 end

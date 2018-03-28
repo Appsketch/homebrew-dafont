@@ -5,7 +5,6 @@ cask 'dafont-zaun' do
     url 'http://dl.dafont.com/dl/?f=zaun'
     name 'Zaun'
     homepage 'http://www.dafont.com/zaun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zaun.ttf'
 end

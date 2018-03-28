@@ -5,7 +5,6 @@ cask 'dafont-zombie-shooting' do
     url 'http://dl.dafont.com/dl/?f=zombie_shooting'
     name 'Zombie Shooting'
     homepage 'http://www.dafont.com/zombie-shooting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_zombie_shooting.ttf'
 end

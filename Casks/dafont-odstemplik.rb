@@ -5,7 +5,6 @@ cask 'dafont-odstemplik' do
     url 'http://dl.dafont.com/dl/?f=odstemplik'
     name 'Odstemplik'
     homepage 'http://www.dafont.com/odstemplik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'odstemplik.otf'
     font 'odstemplikBold.otf'

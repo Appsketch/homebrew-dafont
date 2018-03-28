@@ -5,7 +5,6 @@ cask 'dafont-headshots' do
     url 'http://dl.dafont.com/dl/?f=headshots'
     name 'Headshots'
     homepage 'http://www.dafont.com/headshots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Headshots.otf'
 end

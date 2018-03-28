@@ -5,7 +5,6 @@ cask 'dafont-zooeys-diary' do
     url 'http://dl.dafont.com/dl/?f=zooeys_diary'
     name 'Zooeys Diary'
     homepage 'http://www.dafont.com/zooeys-diary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zooeys Diary.ttf'
 end

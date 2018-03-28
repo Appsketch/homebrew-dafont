@@ -5,7 +5,6 @@ cask 'dafont-victorian-parlor' do
     url 'http://dl.dafont.com/dl/?f=victorian_parlor'
     name 'Victorian Parlor'
     homepage 'http://www.dafont.com/victorian-parlor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Victorian Parlor Vintage Alternate_free.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-black-mark' do
     url 'http://dl.dafont.com/dl/?f=dk_black_mark'
     name 'DK Black Mark'
     homepage 'http://www.dafont.com/dk-black-mark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Black Mark.ttf'
 end

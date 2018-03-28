@@ -5,7 +5,6 @@ cask 'dafont-midroba' do
     url 'http://dl.dafont.com/dl/?f=midroba'
     name 'Midroba'
     homepage 'http://www.dafont.com/midroba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Midroba.ttf'
     font 'MidrobaSchatten.ttf'

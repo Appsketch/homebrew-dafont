@@ -5,7 +5,6 @@ cask 'dafont-mb-slavonic-minsk' do
     url 'http://dl.dafont.com/dl/?f=mb_slavonic_minsk'
     name 'MB Slavonic Minsk'
     homepage 'http://www.dafont.com/mb-slavonic-minsk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-Slavonic_Minsk.ttf'
 end

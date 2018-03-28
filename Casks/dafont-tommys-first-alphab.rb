@@ -5,7 +5,6 @@ cask 'dafont-tommys-first-alphab' do
     url 'http://dl.dafont.com/dl/?f=tommys_first_alphab'
     name 'Tommy&#039;s first alphabet'
     homepage 'http://www.dafont.com/tommys-first-alphab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tommys.ttf'
 end

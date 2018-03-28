@@ -5,7 +5,6 @@ cask 'dafont-jollysight-sans' do
     url 'http://dl.dafont.com/dl/?f=jollysight_sans'
     name 'Jollysight Sans'
     homepage 'http://www.dafont.com/jollysight-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JollysightSans_FREE_FOR_PERSONAL_USE_ONLY.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pwfluidhand' do
     url 'http://dl.dafont.com/dl/?f=pwfluidhand'
     name 'PW Fluidhand'
     homepage 'http://www.dafont.com/pwfluidhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWFluidhand.ttf'
 end

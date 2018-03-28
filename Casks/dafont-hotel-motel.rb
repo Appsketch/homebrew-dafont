@@ -5,7 +5,6 @@ cask 'dafont-hotel-motel' do
     url 'http://dl.dafont.com/dl/?f=hotel_motel'
     name 'Hotel Motel'
     homepage 'http://www.dafont.com/hotel-motel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hotel Motel.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kg-when-oceans-rise' do
     url 'http://dl.dafont.com/dl/?f=kg_when_oceans_rise'
     name 'KG When Oceans Rise'
     homepage 'http://www.dafont.com/kg-when-oceans-rise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGWhenOceansRise.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-she-paints-me-blue' do
     url 'http://dl.dafont.com/dl/?f=she_paints_me_blue'
     name 'She Paints Me Blue'
     homepage 'http://www.dafont.com/she-paints-me-blue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShePaintsMeBlue.ttf'
 end

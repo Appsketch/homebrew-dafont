@@ -5,7 +5,6 @@ cask 'dafont-signarita-zhai' do
     url 'http://dl.dafont.com/dl/?f=signarita_zhai'
     name 'Signarita Zhai'
     homepage 'http://www.dafont.com/signarita-zhai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Signarita Zhai Rhianne.ttf'
 end

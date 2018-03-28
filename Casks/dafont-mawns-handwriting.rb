@@ -5,7 +5,6 @@ cask 'dafont-mawns-handwriting' do
     url 'http://dl.dafont.com/dl/?f=mawns_handwriting'
     name 'Mawns Handwriting '
     homepage 'http://www.dafont.com/mawns-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mawns_Handwriting.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-comic-andy' do
     url 'http://dl.dafont.com/dl/?f=comic_andy'
     name 'Comic Andy'
     homepage 'http://www.dafont.com/comic-andy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comic_Andy.ttf'
 end

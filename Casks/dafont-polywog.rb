@@ -5,7 +5,6 @@ cask 'dafont-polywog' do
     url 'http://dl.dafont.com/dl/?f=polywog'
     name 'Polywog'
     homepage 'http://www.dafont.com/polywog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POLYWOG_.TTF'
 end

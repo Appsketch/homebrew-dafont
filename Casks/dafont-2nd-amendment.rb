@@ -5,7 +5,6 @@ cask 'dafont-2nd-amendment' do
     url 'http://dl.dafont.com/dl/?f=2nd_amendment'
     name '2nd Amendment'
     homepage 'http://www.dafont.com/2nd-amendment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '2ndamend.ttf'
 end

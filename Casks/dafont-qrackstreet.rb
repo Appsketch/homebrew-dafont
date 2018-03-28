@@ -5,7 +5,6 @@ cask 'dafont-qrackstreet' do
     url 'http://dl.dafont.com/dl/?f=qrackstreet'
     name 'Qrackstreet'
     homepage 'http://www.dafont.com/qrackstreet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'qrackstreet free.otf'
 end

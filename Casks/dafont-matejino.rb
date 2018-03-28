@@ -5,7 +5,6 @@ cask 'dafont-matejino' do
     url 'http://dl.dafont.com/dl/?f=matejino'
     name 'Matejino'
     homepage 'http://www.dafont.com/matejino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MATEJINO.TTF'
 end

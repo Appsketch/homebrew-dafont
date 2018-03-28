@@ -5,7 +5,6 @@ cask 'dafont-big-winks' do
     url 'http://dl.dafont.com/dl/?f=big_winks'
     name 'Big Winks'
     homepage 'http://www.dafont.com/big-winks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Big Winks.ttf'
 end

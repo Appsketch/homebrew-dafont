@@ -5,7 +5,6 @@ cask 'dafont-hammerandnails' do
     url 'http://dl.dafont.com/dl/?f=hammerandnails'
     name 'Hammer and Nails'
     homepage 'http://www.dafont.com/hammerandnails.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HammersAndNails.ttf'
 end

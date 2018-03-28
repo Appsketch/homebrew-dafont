@@ -5,7 +5,6 @@ cask 'dafont-minami' do
     url 'http://dl.dafont.com/dl/?f=minami'
     name 'Minami'
     homepage 'http://www.dafont.com/minami.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'minami.ttf'
 end

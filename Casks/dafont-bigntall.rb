@@ -5,7 +5,6 @@ cask 'dafont-bigntall' do
     url 'http://dl.dafont.com/dl/?f=bigntall'
     name 'Bigntall'
     homepage 'http://www.dafont.com/bigntall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bigntall-2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-honey-bee' do
     url 'http://dl.dafont.com/dl/?f=honey_bee'
     name 'Honey Bee'
     homepage 'http://www.dafont.com/honey-bee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HONEY BEE.ttf'
 end

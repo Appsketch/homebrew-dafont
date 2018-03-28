@@ -5,7 +5,6 @@ cask 'dafont-abdomentality' do
     url 'http://dl.dafont.com/dl/?f=abdomentality'
     name 'Abdomentality'
     homepage 'http://www.dafont.com/abdomentality.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Abdomentality.ttf'
 end

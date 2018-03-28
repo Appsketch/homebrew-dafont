@@ -5,7 +5,6 @@ cask 'dafont-hyena' do
     url 'http://dl.dafont.com/dl/?f=hyena'
     name 'Hyena'
     homepage 'http://www.dafont.com/hyena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HYENA.TTF'
 end

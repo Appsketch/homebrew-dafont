@@ -5,7 +5,6 @@ cask 'dafont-gramius-blizzard' do
     url 'http://dl.dafont.com/dl/?f=gramius_blizzard'
     name 'Gramius &#039;Blizzard&#039;'
     homepage 'http://www.dafont.com/gramius-blizzard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GramiusBlizzard.ttf'
 end

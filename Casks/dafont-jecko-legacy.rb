@@ -5,7 +5,6 @@ cask 'dafont-jecko-legacy' do
     url 'http://dl.dafont.com/dl/?f=jecko_legacy'
     name 'Jecko Legacy'
     homepage 'http://www.dafont.com/jecko-legacy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jecko_legacy.ttf'
 end

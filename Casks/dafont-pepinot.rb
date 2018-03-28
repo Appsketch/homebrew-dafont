@@ -5,7 +5,6 @@ cask 'dafont-pepinot' do
     url 'http://dl.dafont.com/dl/?f=pepinot'
     name 'Pepinot'
     homepage 'http://www.dafont.com/pepinot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pepinot.otf'
 end

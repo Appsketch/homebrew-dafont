@@ -5,7 +5,6 @@ cask 'dafont-areo' do
     url 'http://dl.dafont.com/dl/?f=areo'
     name 'Areo'
     homepage 'http://www.dafont.com/areo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AREO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-speedwagon' do
     url 'http://dl.dafont.com/dl/?f=speedwagon'
     name 'Speedwagon'
     homepage 'http://www.dafont.com/speedwagon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'speedwagon.ttf'
     font 'speedwagon3d.ttf'

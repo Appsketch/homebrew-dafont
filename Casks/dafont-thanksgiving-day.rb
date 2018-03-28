@@ -5,7 +5,6 @@ cask 'dafont-thanksgiving-day' do
     url 'http://dl.dafont.com/dl/?f=thanksgiving_day'
     name 'Thanksgiving Day'
     homepage 'http://www.dafont.com/thanksgiving-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thanksgiving Day.ttf'
 end

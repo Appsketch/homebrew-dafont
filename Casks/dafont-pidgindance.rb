@@ -5,7 +5,6 @@ cask 'dafont-pidgindance' do
     url 'http://dl.dafont.com/dl/?f=pidgindance'
     name 'Pidgin Dance'
     homepage 'http://www.dafont.com/pidgindance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pidgin Dance.ttf'
 end

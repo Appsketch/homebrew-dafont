@@ -5,7 +5,6 @@ cask 'dafont-duane' do
     url 'http://dl.dafont.com/dl/?f=duane'
     name 'Duane'
     homepage 'http://www.dafont.com/duane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Duane.ttf'
 end

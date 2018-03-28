@@ -5,7 +5,6 @@ cask 'dafont-aircruiser' do
     url 'http://dl.dafont.com/dl/?f=aircruiser'
     name 'Aircruiser'
     homepage 'http://www.dafont.com/aircruiser.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aircruiser.ttf'
     font 'aircruiser3d.ttf'

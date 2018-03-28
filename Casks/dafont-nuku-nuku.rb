@@ -5,7 +5,6 @@ cask 'dafont-nuku-nuku' do
     url 'http://dl.dafont.com/dl/?f=nuku_nuku'
     name 'Nuku Nuku'
     homepage 'http://www.dafont.com/nuku-nuku.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nuku1.ttf'
 end

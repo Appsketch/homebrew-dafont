@@ -5,7 +5,6 @@ cask 'dafont-technine' do
     url 'http://dl.dafont.com/dl/?f=technine'
     name 'Technine'
     homepage 'http://www.dafont.com/technine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'technine.ttf'
 end

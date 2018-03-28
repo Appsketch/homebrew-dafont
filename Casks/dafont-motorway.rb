@@ -5,7 +5,6 @@ cask 'dafont-motorway' do
     url 'http://dl.dafont.com/dl/?f=motorway'
     name 'Motorway'
     homepage 'http://www.dafont.com/motorway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'motorway.ttf'
 end

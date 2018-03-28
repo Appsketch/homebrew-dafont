@@ -5,7 +5,6 @@ cask 'dafont-alpha-kufi-regular' do
     url 'http://dl.dafont.com/dl/?f=alpha_kufi_regular'
     name 'Alpha Kufi'
     homepage 'http://www.dafont.com/alpha-kufi-regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alpha kufi regular.ttf'
 end

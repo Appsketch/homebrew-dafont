@@ -5,7 +5,6 @@ cask 'dafont-disco-never-dies' do
     url 'http://dl.dafont.com/dl/?f=disco_never_dies'
     name 'Disco never dies'
     homepage 'http://www.dafont.com/disco-never-dies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Disco never dies.ttf'
 end

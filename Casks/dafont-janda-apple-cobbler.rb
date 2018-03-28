@@ -5,7 +5,6 @@ cask 'dafont-janda-apple-cobbler' do
     url 'http://dl.dafont.com/dl/?f=janda_apple_cobbler'
     name 'Janda Apple Cobbler'
     homepage 'http://www.dafont.com/janda-apple-cobbler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaAppleCobbler.ttf'
     font 'JandaAppleCobblerSolid.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-skinz' do
     url 'http://dl.dafont.com/dl/?f=skinz'
     name 'Skinz'
     homepage 'http://www.dafont.com/skinz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skinz.ttf'
 end

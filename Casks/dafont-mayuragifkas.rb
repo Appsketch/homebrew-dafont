@@ -5,7 +5,6 @@ cask 'dafont-mayuragifkas' do
     url 'http://dl.dafont.com/dl/?f=mayuragifkas'
     name 'Mayuragifkas'
     homepage 'http://www.dafont.com/mayuragifkas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mayuragifkas Italic.ttf'
     font 'Mayuragifkas150.ttf'

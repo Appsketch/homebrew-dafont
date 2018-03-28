@@ -5,7 +5,6 @@ cask 'dafont-dani-donne' do
     url 'http://dl.dafont.com/dl/?f=dani_donne'
     name 'Dan&iuml; Donne'
     homepage 'http://www.dafont.com/dani-donne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dan Donne.otf'
     font 'Dan Donne.ttf'

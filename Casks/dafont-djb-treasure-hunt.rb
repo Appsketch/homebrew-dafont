@@ -5,7 +5,6 @@ cask 'dafont-djb-treasure-hunt' do
     url 'http://dl.dafont.com/dl/?f=djb_treasure_hunt'
     name 'DJB Treasure Hunt'
     homepage 'http://www.dafont.com/djb-treasure-hunt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB TREASURE HUNT.ttf'
 end

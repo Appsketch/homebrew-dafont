@@ -5,7 +5,6 @@ cask 'dafont-infix' do
     url 'http://dl.dafont.com/dl/?f=infix'
     name 'Infix'
     homepage 'http://www.dafont.com/infix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'infix.ttf'
 end

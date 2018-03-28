@@ -5,7 +5,6 @@ cask 'dafont-cyrodiil' do
     url 'http://dl.dafont.com/dl/?f=cyrodiil'
     name 'Cyrodiil'
     homepage 'http://www.dafont.com/cyrodiil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cyrodiil Bold Italic.otf'
     font 'Cyrodiil Bold.otf'

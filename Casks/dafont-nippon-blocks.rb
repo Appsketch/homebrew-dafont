@@ -5,7 +5,6 @@ cask 'dafont-nippon-blocks' do
     url 'http://dl.dafont.com/dl/?f=nippon_blocks'
     name 'Nippon Blocks'
     homepage 'http://www.dafont.com/nippon-blocks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NIPPONBL.TTF'
 end

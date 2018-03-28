@@ -5,7 +5,6 @@ cask 'dafont-townsfolk' do
     url 'http://dl.dafont.com/dl/?f=townsfolk'
     name 'Townsfolk'
     homepage 'http://www.dafont.com/townsfolk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'townsfolk.ttf'
 end

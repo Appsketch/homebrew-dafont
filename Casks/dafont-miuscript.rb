@@ -5,7 +5,6 @@ cask 'dafont-miuscript' do
     url 'http://dl.dafont.com/dl/?f=miuscript'
     name 'MiuScript'
     homepage 'http://www.dafont.com/miuscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MiuScript.otf'
 end

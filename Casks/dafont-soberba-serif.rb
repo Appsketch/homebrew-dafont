@@ -5,7 +5,6 @@ cask 'dafont-soberba-serif' do
     url 'http://dl.dafont.com/dl/?f=soberba_serif'
     name 'Soberba Serif'
     homepage 'http://www.dafont.com/soberba-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SoberbaSerif-Regular.ttf'
 end

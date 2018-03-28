@@ -5,7 +5,6 @@ cask 'dafont-neon-like' do
     url 'http://dl.dafont.com/dl/?f=neon_like'
     name 'Neon Like'
     homepage 'http://www.dafont.com/neon-like.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEONLIKE.TTF'
 end

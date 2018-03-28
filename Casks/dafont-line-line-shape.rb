@@ -5,7 +5,6 @@ cask 'dafont-line-line-shape' do
     url 'http://dl.dafont.com/dl/?f=line_line_shape'
     name 'Line Line Shape'
     homepage 'http://www.dafont.com/line-line-shape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LineLineShapeClean.ttf'
     font 'LineLineShapeDirty.ttf'

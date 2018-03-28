@@ -5,7 +5,6 @@ cask 'dafont-raslens-shaa-szayel-abedossen' do
     url 'http://dl.dafont.com/dl/?f=raslens_shaa_szayel_abedossen'
     name 'Raslens Abedossen'
     homepage 'http://www.dafont.com/raslens-shaa-szayel-abedossen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raslens Shaa Abedossen.ttf'
     font 'Raslens Szayel Abedossen.ttf'

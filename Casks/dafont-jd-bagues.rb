@@ -5,7 +5,6 @@ cask 'dafont-jd-bagues' do
     url 'http://dl.dafont.com/dl/?f=jd_bagues'
     name 'JD Bagues'
     homepage 'http://www.dafont.com/jd-bagues.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_bagues.ttf'
 end

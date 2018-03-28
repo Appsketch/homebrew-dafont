@@ -5,7 +5,6 @@ cask 'dafont-harald-runic-demo' do
     url 'http://dl.dafont.com/dl/?f=harald_runic_demo'
     name 'Harald Runic'
     homepage 'http://www.dafont.com/harald-runic-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HaraldRunic.ttf'
 end

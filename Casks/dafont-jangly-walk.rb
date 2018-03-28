@@ -5,7 +5,6 @@ cask 'dafont-jangly-walk' do
     url 'http://dl.dafont.com/dl/?f=jangly_walk'
     name 'Jangly Walk'
     homepage 'http://www.dafont.com/jangly-walk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JANGLYWALK.TTF'
 end

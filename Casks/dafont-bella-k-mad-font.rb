@@ -5,7 +5,6 @@ cask 'dafont-bella-k-mad-font' do
     url 'http://dl.dafont.com/dl/?f=bella_k_mad_font'
     name 'Bella K. Mad'
     homepage 'http://www.dafont.com/bella-k-mad-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BellaKfont.ttf'
 end

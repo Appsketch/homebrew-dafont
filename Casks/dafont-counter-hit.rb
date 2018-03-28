@@ -5,7 +5,6 @@ cask 'dafont-counter-hit' do
     url 'http://dl.dafont.com/dl/?f=counter_hit'
     name 'Counter Hit!'
     homepage 'http://www.dafont.com/counter-hit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'counter hit! Bold Italic.ttf'
     font 'counter hit! Bold.ttf'

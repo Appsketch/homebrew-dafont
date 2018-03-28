@@ -5,7 +5,6 @@ cask 'dafont-neopangaia' do
     url 'http://dl.dafont.com/dl/?f=neopangaia'
     name 'NeoPangaia'
     homepage 'http://www.dafont.com/neopangaia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEO-P___.TTF'
     font 'NeoPanButtons.ttf'

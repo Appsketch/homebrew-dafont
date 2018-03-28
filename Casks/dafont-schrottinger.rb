@@ -5,7 +5,6 @@ cask 'dafont-schrottinger' do
     url 'http://dl.dafont.com/dl/?f=schrottinger'
     name 'Schrottinger'
     homepage 'http://www.dafont.com/schrottinger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Schrottinger_Justus Schrotte.ttf'
 end

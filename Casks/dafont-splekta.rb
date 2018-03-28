@@ -5,7 +5,6 @@ cask 'dafont-splekta' do
     url 'http://dl.dafont.com/dl/?f=splekta'
     name 'Splekta'
     homepage 'http://www.dafont.com/splekta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'splekta.ttf'
 end

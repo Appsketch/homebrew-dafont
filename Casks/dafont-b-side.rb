@@ -5,7 +5,6 @@ cask 'dafont-b-side' do
     url 'http://dl.dafont.com/dl/?f=b_side'
     name 'B Side'
     homepage 'http://www.dafont.com/b-side.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BSIDE___.ttf'
 end

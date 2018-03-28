@@ -5,7 +5,6 @@ cask 'dafont-easycore' do
     url 'http://dl.dafont.com/dl/?f=easycore'
     name 'Easycore'
     homepage 'http://www.dafont.com/easycore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Easycore.ttf'
 end

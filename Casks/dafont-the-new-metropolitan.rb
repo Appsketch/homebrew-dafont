@@ -5,7 +5,6 @@ cask 'dafont-the-new-metropolitan' do
     url 'http://dl.dafont.com/dl/?f=the_new_metropolitan'
     name 'The New Metropolitan'
     homepage 'http://www.dafont.com/the-new-metropolitan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The_New_Metropolitan_trial.ttf'
 end

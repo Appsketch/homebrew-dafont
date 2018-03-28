@@ -5,7 +5,6 @@ cask 'dafont-dist-inking' do
     url 'http://dl.dafont.com/dl/?f=dist_inking'
     name 'Dist Inking'
     homepage 'http://www.dafont.com/dist-inking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DISTInking-Bold.otf'
     font 'DISTInking-Regular.otf'

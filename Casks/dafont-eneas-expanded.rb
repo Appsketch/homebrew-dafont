@@ -5,7 +5,6 @@ cask 'dafont-eneas-expanded' do
     url 'http://dl.dafont.com/dl/?f=eneas_expanded'
     name 'Eneas Expanded'
     homepage 'http://www.dafont.com/eneas-expanded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EneasExpanded Bold_.ttf'
     font 'EneasExpanded Regular_.ttf'

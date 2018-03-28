@@ -5,7 +5,6 @@ cask 'dafont-anneke' do
     url 'http://dl.dafont.com/dl/?f=anneke'
     name 'Anneke'
     homepage 'http://www.dafont.com/anneke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anneke.ttf'
     font 'AnnekeBold.ttf'

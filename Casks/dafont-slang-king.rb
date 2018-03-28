@@ -5,7 +5,6 @@ cask 'dafont-slang-king' do
     url 'http://dl.dafont.com/dl/?f=slang_king'
     name 'Slang King'
     homepage 'http://www.dafont.com/slang-king.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SLANK___.TTF'
     font 'SLANKB__.TTF'

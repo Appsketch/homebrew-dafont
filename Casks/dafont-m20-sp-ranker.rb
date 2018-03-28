@@ -5,7 +5,6 @@ cask 'dafont-m20-sp-ranker' do
     url 'http://dl.dafont.com/dl/?f=m20_sp_ranker'
     name 'M20 SP-Ranker'
     homepage 'http://www.dafont.com/m20-sp-ranker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'm20.TTF'
 end

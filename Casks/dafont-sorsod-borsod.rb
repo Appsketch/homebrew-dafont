@@ -5,7 +5,6 @@ cask 'dafont-sorsod-borsod' do
     url 'http://dl.dafont.com/dl/?f=sorsod_borsod'
     name 'Sorsod Borsod'
     homepage 'http://www.dafont.com/sorsod-borsod.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sorsod Borsod.ttf'
 end

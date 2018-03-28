@@ -5,7 +5,6 @@ cask 'dafont-virtual-bliss' do
     url 'http://dl.dafont.com/dl/?f=virtual_bliss'
     name 'Virtual Bliss'
     homepage 'http://www.dafont.com/virtual-bliss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VirtualBliss.ttf'
 end

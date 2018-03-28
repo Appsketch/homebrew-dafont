@@ -5,7 +5,6 @@ cask 'dafont-fluid-spiral' do
     url 'http://dl.dafont.com/dl/?f=fluid_spiral'
     name 'Fluid Spiral'
     homepage 'http://www.dafont.com/fluid-spiral.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fluid Spiral.ttf'
 end

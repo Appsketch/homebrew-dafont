@@ -5,7 +5,6 @@ cask 'dafont-lookin-like-diamonds' do
     url 'http://dl.dafont.com/dl/?f=lookin_like_diamonds'
     name 'Lookin&#039; Like Diamonds'
     homepage 'http://www.dafont.com/lookin-like-diamonds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lookin-&#039; Like Diamonds.ttf'
 end

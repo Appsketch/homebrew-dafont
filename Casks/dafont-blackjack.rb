@@ -5,7 +5,6 @@ cask 'dafont-blackjack' do
     url 'http://dl.dafont.com/dl/?f=blackjack'
     name 'Blackjack'
     homepage 'http://www.dafont.com/blackjack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLACKJAC.TTF'
     font 'BLACR___.TTF'

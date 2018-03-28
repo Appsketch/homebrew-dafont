@@ -5,7 +5,6 @@ cask 'dafont-notype' do
     url 'http://dl.dafont.com/dl/?f=notype'
     name 'No Type'
     homepage 'http://www.dafont.com/notype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NoType.ttf'
 end

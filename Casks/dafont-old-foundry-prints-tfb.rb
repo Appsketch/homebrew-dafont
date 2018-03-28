@@ -5,7 +5,6 @@ cask 'dafont-old-foundry-prints-tfb' do
     url 'http://dl.dafont.com/dl/?f=old_foundry_prints_tfb'
     name 'Old Foundry Prints TFB'
     homepage 'http://www.dafont.com/old-foundry-prints-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'old foundry prints tfb.ttf'
 end

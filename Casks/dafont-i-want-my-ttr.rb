@@ -5,7 +5,6 @@ cask 'dafont-i-want-my-ttr' do
     url 'http://dl.dafont.com/dl/?f=i_want_my_ttr'
     name 'I Want My TTR !'
     homepage 'http://www.dafont.com/i-want-my-ttr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iwantv2.ttf'
     font 'iwantv2b.ttf'

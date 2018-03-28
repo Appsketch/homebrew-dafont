@@ -5,7 +5,6 @@ cask 'dafont-chlorinar' do
     url 'http://dl.dafont.com/dl/?f=chlorinar'
     name 'Chlorinar'
     homepage 'http://www.dafont.com/chlorinar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHLORINR.TTF'
 end

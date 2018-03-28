@@ -5,7 +5,6 @@ cask 'dafont-zalienz' do
     url 'http://dl.dafont.com/dl/?f=zalienz'
     name 'ZalienZ'
     homepage 'http://www.dafont.com/zalienz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZalienZ.ttf'
 end

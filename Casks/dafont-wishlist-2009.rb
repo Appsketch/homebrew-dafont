@@ -5,7 +5,6 @@ cask 'dafont-wishlist-2009' do
     url 'http://dl.dafont.com/dl/?f=wishlist_2009'
     name 'Wishlist 2009'
     homepage 'http://www.dafont.com/wishlist-2009.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wishlist2009Bold.ttf'
 end

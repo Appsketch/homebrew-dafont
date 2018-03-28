@@ -5,7 +5,6 @@ cask 'dafont-ar-techni' do
     url 'http://dl.dafont.com/dl/?f=ar_techni'
     name 'AR Techni'
     homepage 'http://www.dafont.com/ar-techni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AR Techni.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nollapiste' do
     url 'http://dl.dafont.com/dl/?f=nollapiste'
     name 'Nollapiste'
     homepage 'http://www.dafont.com/nollapiste.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nollapiste.ttf'
 end

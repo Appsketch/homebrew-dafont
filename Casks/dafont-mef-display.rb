@@ -5,7 +5,6 @@ cask 'dafont-mef-display' do
     url 'http://dl.dafont.com/dl/?f=mef_display'
     name 'MEF Display'
     homepage 'http://www.dafont.com/mef-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEF-Display.ttf'
 end

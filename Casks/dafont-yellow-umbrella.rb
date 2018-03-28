@@ -5,7 +5,6 @@ cask 'dafont-yellow-umbrella' do
     url 'http://dl.dafont.com/dl/?f=yellow_umbrella'
     name 'Yellow Umbrella'
     homepage 'http://www.dafont.com/yellow-umbrella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yellow umbrella thin.ttf'
     font 'yellow umbrella.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-bodoni-mutant' do
     url 'http://dl.dafont.com/dl/?f=bodoni_mutant'
     name 'Bodoni Mutant'
     homepage 'http://www.dafont.com/bodoni-mutant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BODOM___.TTF'
 end

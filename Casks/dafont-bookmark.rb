@@ -5,7 +5,6 @@ cask 'dafont-bookmark' do
     url 'http://dl.dafont.com/dl/?f=bookmark'
     name 'Bookmark'
     homepage 'http://www.dafont.com/bookmark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bookmark.ttf'
 end

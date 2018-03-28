@@ -5,7 +5,6 @@ cask 'dafont-riven' do
     url 'http://dl.dafont.com/dl/?f=riven'
     name 'Riven'
     homepage 'http://www.dafont.com/riven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Riven.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-led-stadion-7' do
     url 'http://dl.dafont.com/dl/?f=led_stadion_7'
     name 'LED Stadion 7'
     homepage 'http://www.dafont.com/led-stadion-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'led_stadion_7_italic.ttf'
     font 'led_stadion_7.ttf'

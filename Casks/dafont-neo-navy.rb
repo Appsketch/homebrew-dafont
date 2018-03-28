@@ -5,7 +5,6 @@ cask 'dafont-neo-navy' do
     url 'http://dl.dafont.com/dl/?f=neo_navy'
     name 'Neo-Navy'
     homepage 'http://www.dafont.com/neo-navy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'neonavy.ttf'
     font 'neonavy3d.ttf'

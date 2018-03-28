@@ -5,7 +5,6 @@ cask 'dafont-pannetje-10' do
     url 'http://dl.dafont.com/dl/?f=pannetje_10'
     name 'Pannetje 10'
     homepage 'http://www.dafont.com/pannetje-10.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PANNETJE.TTF'
 end

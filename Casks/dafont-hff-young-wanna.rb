@@ -5,7 +5,6 @@ cask 'dafont-hff-young-wanna' do
     url 'http://dl.dafont.com/dl/?f=hff_young_wanna'
     name 'HFF Young Wanna'
     homepage 'http://www.dafont.com/hff-young-wanna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Young Wanna Plain/HFF Young Wanna Plain.ttf'
     font 'HFF Young Wanna/HFF Young Wanna.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-chubby-cheeks' do
     url 'http://dl.dafont.com/dl/?f=chubby_cheeks'
     name 'Chubby Cheeks'
     homepage 'http://www.dafont.com/chubby-cheeks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHUBBY.TTF'
 end

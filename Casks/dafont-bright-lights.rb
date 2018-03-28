@@ -5,7 +5,6 @@ cask 'dafont-bright-lights' do
     url 'http://dl.dafont.com/dl/?f=bright_lights'
     name 'Bright Lights'
     homepage 'http://www.dafont.com/bright-lights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brightlights.ttf'
 end

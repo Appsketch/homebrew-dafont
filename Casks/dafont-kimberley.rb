@@ -5,7 +5,6 @@ cask 'dafont-kimberley' do
     url 'http://dl.dafont.com/dl/?f=kimberley'
     name 'Kimberley'
     homepage 'http://www.dafont.com/kimberley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kimberley bl.ttf'
 end

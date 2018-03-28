@@ -5,7 +5,6 @@ cask 'dafont-kr-starry-eyed' do
     url 'http://dl.dafont.com/dl/?f=kr_starry_eyed'
     name 'KR Starry Eyed'
     homepage 'http://www.dafont.com/kr-starry-eyed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Starry Eyed.ttf'
 end

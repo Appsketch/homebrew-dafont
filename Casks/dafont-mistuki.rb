@@ -5,7 +5,6 @@ cask 'dafont-mistuki' do
     url 'http://dl.dafont.com/dl/?f=mistuki'
     name 'Mistuki'
     homepage 'http://www.dafont.com/mistuki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mistuki1_PERSONAL_USE.ttf'
     font 'Mistuki4_PERSONAL_USE.ttf'

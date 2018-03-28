@@ -5,7 +5,6 @@ cask 'dafont-gabo4' do
     url 'http://dl.dafont.com/dl/?f=gabo4'
     name 'Gabo 4'
     homepage 'http://www.dafont.com/gabo4.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gabo4.ttf'
 end

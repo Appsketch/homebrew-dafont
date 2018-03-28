@@ -5,7 +5,6 @@ cask 'dafont-earlyscare' do
     url 'http://dl.dafont.com/dl/?f=earlyscare'
     name 'Early Scare'
     homepage 'http://www.dafont.com/earlyscare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EarlyScare.ttf'
 end

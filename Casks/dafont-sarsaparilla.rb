@@ -5,7 +5,6 @@ cask 'dafont-sarsaparilla' do
     url 'http://dl.dafont.com/dl/?f=sarsaparilla'
     name 'Sarsaparilla'
     homepage 'http://www.dafont.com/sarsaparilla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SARSAPAR.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-powerweld' do
     url 'http://dl.dafont.com/dl/?f=powerweld'
     name 'Powerweld'
     homepage 'http://www.dafont.com/powerweld.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Powerweld.ttf'
 end

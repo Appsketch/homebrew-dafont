@@ -5,7 +5,6 @@ cask 'dafont-the-angels' do
     url 'http://dl.dafont.com/dl/?f=the_angels'
     name 'The Angels'
     homepage 'http://www.dafont.com/the-angels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Angels.ttf'
 end

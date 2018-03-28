@@ -5,7 +5,6 @@ cask 'dafont-easyhorror' do
     url 'http://dl.dafont.com/dl/?f=easyhorror'
     name 'Easy Horror'
     homepage 'http://www.dafont.com/easyhorror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EasyHorror.ttf'
 end

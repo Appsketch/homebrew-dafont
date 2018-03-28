@@ -5,7 +5,6 @@ cask 'dafont-pansies-4-sheila' do
     url 'http://dl.dafont.com/dl/?f=pansies_4_sheila'
     name 'Pansies 4 Sheila'
     homepage 'http://www.dafont.com/pansies-4-sheila.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pansies4Sheila2.ttf'
 end

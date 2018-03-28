@@ -5,7 +5,6 @@ cask 'dafont-df-stromboli' do
     url 'http://dl.dafont.com/dl/?f=df_stromboli'
     name 'DF Stromboli'
     homepage 'http://www.dafont.com/df-stromboli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DF-Stromboli.otf'
 end

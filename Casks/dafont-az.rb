@@ -5,7 +5,6 @@ cask 'dafont-az' do
     url 'http://dl.dafont.com/dl/?f=az'
     name 'AZ'
     homepage 'http://www.dafont.com/az.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AZ.ttf'
 end

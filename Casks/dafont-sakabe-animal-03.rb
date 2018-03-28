@@ -5,7 +5,6 @@ cask 'dafont-sakabe-animal-03' do
     url 'http://dl.dafont.com/dl/?f=sakabe_animal_03'
     name 'Sakabe Animal 03'
     homepage 'http://www.dafont.com/sakabe-animal-03.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sakabe-Animal03.ttf'
 end

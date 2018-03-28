@@ -5,7 +5,6 @@ cask 'dafont-sexsmith' do
     url 'http://dl.dafont.com/dl/?f=sexsmith'
     name 'Sexsmith'
     homepage 'http://www.dafont.com/sexsmith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sexsmith.ttf'
 end

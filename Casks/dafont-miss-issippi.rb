@@ -5,7 +5,6 @@ cask 'dafont-miss-issippi' do
     url 'http://dl.dafont.com/dl/?f=miss_issippi'
     name 'Miss Issippi'
     homepage 'http://www.dafont.com/miss-issippi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miss Issippi Demo.ttf'
 end

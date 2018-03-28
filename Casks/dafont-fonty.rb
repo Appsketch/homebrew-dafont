@@ -5,7 +5,6 @@ cask 'dafont-fonty' do
     url 'http://dl.dafont.com/dl/?f=fonty'
     name 'Fonty'
     homepage 'http://www.dafont.com/fonty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fonty.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-geometos' do
     url 'http://dl.dafont.com/dl/?f=geometos'
     name 'Geometos'
     homepage 'http://www.dafont.com/geometos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Geometos.ttf'
 end

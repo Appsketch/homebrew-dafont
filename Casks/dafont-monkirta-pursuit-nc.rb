@@ -5,7 +5,6 @@ cask 'dafont-monkirta-pursuit-nc' do
     url 'http://dl.dafont.com/dl/?f=monkirta_pursuit_nc'
     name 'Monkirta Pursuit NC'
     homepage 'http://www.dafont.com/monkirta-pursuit-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monkirta Pursuit NC.ttf'
 end

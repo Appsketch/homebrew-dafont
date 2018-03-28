@@ -5,7 +5,6 @@ cask 'dafont-plastic-pets' do
     url 'http://dl.dafont.com/dl/?f=plastic_pets'
     name 'Plastic Pets'
     homepage 'http://www.dafont.com/plastic-pets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'plasticpets.ttf'
 end

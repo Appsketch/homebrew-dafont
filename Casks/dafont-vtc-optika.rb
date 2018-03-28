@@ -5,7 +5,6 @@ cask 'dafont-vtc-optika' do
     url 'http://dl.dafont.com/dl/?f=vtc_optika'
     name 'VTC Optika'
     homepage 'http://www.dafont.com/vtc-optika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC Optika Bold Italic.ttf'
     font 'VTC Optika Bold.ttf'

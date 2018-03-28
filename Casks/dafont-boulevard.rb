@@ -5,7 +5,6 @@ cask 'dafont-boulevard' do
     url 'http://dl.dafont.com/dl/?f=boulevard'
     name 'Boulevard'
     homepage 'http://www.dafont.com/boulevard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boulevard.ttf'
 end

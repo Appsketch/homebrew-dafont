@@ -5,7 +5,6 @@ cask 'dafont-airbrush' do
     url 'http://dl.dafont.com/dl/?f=airbrush'
     name 'Airbrush'
     homepage 'http://www.dafont.com/airbrush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Airbrush.ttf'
 end

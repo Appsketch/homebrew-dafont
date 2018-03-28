@@ -5,7 +5,6 @@ cask 'dafont-cailloux' do
     url 'http://dl.dafont.com/dl/?f=cailloux'
     name 'Cailloux'
     homepage 'http://www.dafont.com/cailloux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cailloux.otf'
 end

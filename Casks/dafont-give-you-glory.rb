@@ -5,7 +5,6 @@ cask 'dafont-give-you-glory' do
     url 'http://dl.dafont.com/dl/?f=give_you_glory'
     name 'Give You Glory'
     homepage 'http://www.dafont.com/give-you-glory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GiveYouGlory.ttf'
 end

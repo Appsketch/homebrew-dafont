@@ -5,7 +5,6 @@ cask 'dafont-heydings-icons' do
     url 'http://dl.dafont.com/dl/?f=heydings_icons'
     name 'Heydings Icons'
     homepage 'http://www.dafont.com/heydings-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'heydings_icons.ttf'
 end

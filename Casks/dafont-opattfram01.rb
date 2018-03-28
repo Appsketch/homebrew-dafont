@@ -5,7 +5,6 @@ cask 'dafont-opattfram01' do
     url 'http://dl.dafont.com/dl/?f=opattfram01'
     name 'Opattfram01'
     homepage 'http://www.dafont.com/opattfram01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Opattfram01.otf'
 end

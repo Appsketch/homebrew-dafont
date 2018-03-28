@@ -5,7 +5,6 @@ cask 'dafont-idautomationhc39m' do
     url 'http://dl.dafont.com/dl/?f=idautomationhc39m'
     name 'IDAutomationHC39M'
     homepage 'http://www.dafont.com/idautomationhc39m.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IDAutomationHC39M Code 39 Barcode.ttf'
 end

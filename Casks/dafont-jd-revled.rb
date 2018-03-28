@@ -5,7 +5,6 @@ cask 'dafont-jd-revled' do
     url 'http://dl.dafont.com/dl/?f=jd_revled'
     name 'JD RevLED'
     homepage 'http://www.dafont.com/jd-revled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JD-RevLED.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-laurent-hw' do
     url 'http://dl.dafont.com/dl/?f=laurent_hw'
     name 'Laurent HW'
     homepage 'http://www.dafont.com/laurent-hw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Laurent_HW_by_oOo_n3o_oOo.ttf'
 end

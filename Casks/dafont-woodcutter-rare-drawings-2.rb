@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-rare-drawings-2' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_rare_drawings_2'
     name 'Woodcutter Rare Drawings 2'
     homepage 'http://www.dafont.com/woodcutter-rare-drawings-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter rare drawings 2.ttf'
 end

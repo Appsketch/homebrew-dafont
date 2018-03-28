@@ -5,7 +5,6 @@ cask 'dafont-invalid' do
     url 'http://dl.dafont.com/dl/?f=invalid'
     name 'Invalid'
     homepage 'http://www.dafont.com/invalid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INVALID_.TTF'
 end

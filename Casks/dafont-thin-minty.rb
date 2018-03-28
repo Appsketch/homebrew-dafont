@@ -5,7 +5,6 @@ cask 'dafont-thin-minty' do
     url 'http://dl.dafont.com/dl/?f=thin_minty'
     name 'Thin Minty'
     homepage 'http://www.dafont.com/thin-minty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thin Minty.otf'
 end

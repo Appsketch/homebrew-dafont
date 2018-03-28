@@ -5,7 +5,6 @@ cask 'dafont-patrickscratch' do
     url 'http://dl.dafont.com/dl/?f=patrickscratch'
     name 'Patrick Scratch'
     homepage 'http://www.dafont.com/patrickscratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PatrickScratch.ttf'
 end

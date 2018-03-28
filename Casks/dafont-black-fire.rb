@@ -5,7 +5,6 @@ cask 'dafont-black-fire' do
     url 'http://dl.dafont.com/dl/?f=black_fire'
     name 'Black Fire'
     homepage 'http://www.dafont.com/black-fire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'black fire.ttf'
 end

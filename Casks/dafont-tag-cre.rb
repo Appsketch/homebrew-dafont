@@ -5,7 +5,6 @@ cask 'dafont-tag-cre' do
     url 'http://dl.dafont.com/dl/?f=tag_cre'
     name 'Tag Cre'
     homepage 'http://www.dafont.com/tag-cre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TAG_CRE.ttf'
 end

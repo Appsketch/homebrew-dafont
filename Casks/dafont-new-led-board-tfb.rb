@@ -5,7 +5,6 @@ cask 'dafont-new-led-board-tfb' do
     url 'http://dl.dafont.com/dl/?f=new_led_board_tfb'
     name 'New Led Board TFB'
     homepage 'http://www.dafont.com/new-led-board-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New Led Board tfb.ttf'
 end

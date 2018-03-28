@@ -5,7 +5,6 @@ cask 'dafont-nirepnirun' do
     url 'http://dl.dafont.com/dl/?f=nirepnirun'
     name 'Nirepnirun'
     homepage 'http://www.dafont.com/nirepnirun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nirepnirun atsum.ttf'
     font 'Nirepnirun oivuk.ttf'

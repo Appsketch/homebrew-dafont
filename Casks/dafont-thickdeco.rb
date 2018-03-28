@@ -5,7 +5,6 @@ cask 'dafont-thickdeco' do
     url 'http://dl.dafont.com/dl/?f=thickdeco'
     name 'Thick Deco'
     homepage 'http://www.dafont.com/thickdeco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThickDeco.ttf'
 end

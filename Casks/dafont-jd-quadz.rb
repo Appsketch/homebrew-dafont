@@ -5,7 +5,6 @@ cask 'dafont-jd-quadz' do
     url 'http://dl.dafont.com/dl/?f=jd_quadz'
     name 'JD Quadz'
     homepage 'http://www.dafont.com/jd-quadz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_quadz/jd_quadz.ttf'
 end

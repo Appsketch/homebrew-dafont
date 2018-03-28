@@ -5,7 +5,6 @@ cask 'dafont-codex' do
     url 'http://dl.dafont.com/dl/?f=codex'
     name 'Codex'
     homepage 'http://www.dafont.com/codex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'codex.ttf'
 end

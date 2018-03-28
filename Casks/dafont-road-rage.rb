@@ -5,7 +5,6 @@ cask 'dafont-road-rage' do
     url 'http://dl.dafont.com/dl/?f=road_rage'
     name 'Road Rage'
     homepage 'http://www.dafont.com/road-rage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Road_Rage.otf'
 end

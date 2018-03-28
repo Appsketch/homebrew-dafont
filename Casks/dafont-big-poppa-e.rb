@@ -5,7 +5,6 @@ cask 'dafont-big-poppa-e' do
     url 'http://dl.dafont.com/dl/?f=big_poppa_e'
     name 'Big Poppa E'
     homepage 'http://www.dafont.com/big-poppa-e.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigPoppaE-Regular.ttf'
 end

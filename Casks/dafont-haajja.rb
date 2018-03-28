@@ -5,7 +5,6 @@ cask 'dafont-haajja' do
     url 'http://dl.dafont.com/dl/?f=haajja'
     name 'haAJJA'
     homepage 'http://www.dafont.com/haajja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zeddan.ttf'
 end

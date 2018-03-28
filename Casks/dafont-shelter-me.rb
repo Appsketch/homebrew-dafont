@@ -5,7 +5,6 @@ cask 'dafont-shelter-me' do
     url 'http://dl.dafont.com/dl/?f=shelter_me'
     name 'Shelter Me'
     homepage 'http://www.dafont.com/shelter-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shelter Me.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vineyard-magazines' do
     url 'http://dl.dafont.com/dl/?f=vineyard_magazines'
     name 'Vineyard Magazines'
     homepage 'http://www.dafont.com/vineyard-magazines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vineyard Magazines.ttf'
 end

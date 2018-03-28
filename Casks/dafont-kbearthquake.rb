@@ -5,7 +5,6 @@ cask 'dafont-kbearthquake' do
     url 'http://dl.dafont.com/dl/?f=kbearthquake'
     name 'KB Earth Quake'
     homepage 'http://www.dafont.com/kbearthquake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBEarthQuake.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-patriot-anthem' do
     url 'http://dl.dafont.com/dl/?f=patriot_anthem'
     name 'Patriot Anthem'
     homepage 'http://www.dafont.com/patriot-anthem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Patriot Anthem.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-deko-if' do
     url 'http://dl.dafont.com/dl/?f=deko_if'
     name 'Deko'
     homepage 'http://www.dafont.com/deko-if.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deko_Blakk.otf'
     font 'Deko_Yello.otf'

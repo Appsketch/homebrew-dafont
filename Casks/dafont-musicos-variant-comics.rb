@@ -5,7 +5,6 @@ cask 'dafont-musicos-variant-comics' do
     url 'http://dl.dafont.com/dl/?f=musicos_variant_comics'
     name 'Musicos Variant Comics'
     homepage 'http://www.dafont.com/musicos-variant-comics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'musicos_variant_comics.ttf'
 end

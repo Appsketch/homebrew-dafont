@@ -5,7 +5,6 @@ cask 'dafont-every-day' do
     url 'http://dl.dafont.com/dl/?f=every_day'
     name 'Every Day'
     homepage 'http://www.dafont.com/every-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Every Day.ttf'
 end

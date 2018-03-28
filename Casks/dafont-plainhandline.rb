@@ -5,7 +5,6 @@ cask 'dafont-plainhandline' do
     url 'http://dl.dafont.com/dl/?f=plainhandline'
     name 'Plain Handline'
     homepage 'http://www.dafont.com/plainhandline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PlainHandline.ttf'
 end

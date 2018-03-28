@@ -5,7 +5,6 @@ cask 'dafont-daisys-delights' do
     url 'http://dl.dafont.com/dl/?f=daisys_delights'
     name 'Daisy&#039;s Delights'
     homepage 'http://www.dafont.com/daisys-delights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Daisy&#039;s Delights.ttf'
 end

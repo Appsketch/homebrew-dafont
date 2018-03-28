@@ -5,7 +5,6 @@ cask 'dafont-hildecaps' do
     url 'http://dl.dafont.com/dl/?f=hildecaps'
     name 'Hilde Caps'
     homepage 'http://www.dafont.com/hildecaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HCAPSTRIAL.ttf'
 end

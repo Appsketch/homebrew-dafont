@@ -5,7 +5,6 @@ cask 'dafont-zou70s' do
     url 'http://dl.dafont.com/dl/?f=zou70s'
     name 'Zou 70s'
     homepage 'http://www.dafont.com/zou70s.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zou70s.ttf'
 end

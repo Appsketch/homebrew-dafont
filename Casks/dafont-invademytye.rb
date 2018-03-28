@@ -5,7 +5,6 @@ cask 'dafont-invademytye' do
     url 'http://dl.dafont.com/dl/?f=invademytye'
     name 'InvadeMytye'
     homepage 'http://www.dafont.com/invademytye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'invademytye.ttf'
 end

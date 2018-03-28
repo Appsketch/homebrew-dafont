@@ -5,7 +5,6 @@ cask 'dafont-flattie' do
     url 'http://dl.dafont.com/dl/?f=flattie'
     name 'Flattie'
     homepage 'http://www.dafont.com/flattie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flattie.ttf'
 end

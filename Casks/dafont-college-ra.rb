@@ -5,7 +5,6 @@ cask 'dafont-college-ra' do
     url 'http://dl.dafont.com/dl/?f=college_ra'
     name 'College RA'
     homepage 'http://www.dafont.com/college-ra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'College RA.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-times-old-attic' do
     url 'http://dl.dafont.com/dl/?f=times_old_attic'
     name 'Times Old Attic'
     homepage 'http://www.dafont.com/times-old-attic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Times Old Attic.TTF'
 end

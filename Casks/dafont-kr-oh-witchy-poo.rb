@@ -5,7 +5,6 @@ cask 'dafont-kr-oh-witchy-poo' do
     url 'http://dl.dafont.com/dl/?f=kr_oh_witchy_poo'
     name 'KR Oh Witchy Poo'
     homepage 'http://www.dafont.com/kr-oh-witchy-poo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Oh Witchy Poo!.ttf'
 end

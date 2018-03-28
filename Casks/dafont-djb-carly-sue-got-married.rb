@@ -5,7 +5,6 @@ cask 'dafont-djb-carly-sue-got-married' do
     url 'http://dl.dafont.com/dl/?f=djb_carly_sue_got_married'
     name 'DJB Carly Sue Got Married'
     homepage 'http://www.dafont.com/djb-carly-sue-got-married.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Carly Sue Got Married.ttf'
 end

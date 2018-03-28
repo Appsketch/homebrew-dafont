@@ -5,7 +5,6 @@ cask 'dafont-ol-cowboy' do
     url 'http://dl.dafont.com/dl/?f=ol_cowboy'
     name 'Ol&#039; Cowboy'
     homepage 'http://www.dafont.com/ol-cowboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ol Cowboy DEMO.ttf'
 end

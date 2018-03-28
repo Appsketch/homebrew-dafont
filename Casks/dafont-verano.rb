@@ -5,7 +5,6 @@ cask 'dafont-verano' do
     url 'http://dl.dafont.com/dl/?f=verano'
     name 'Verano'
     homepage 'http://www.dafont.com/verano.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Verano.otf'
 end

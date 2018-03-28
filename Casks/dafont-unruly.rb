@@ -5,7 +5,6 @@ cask 'dafont-unruly' do
     url 'http://dl.dafont.com/dl/?f=unruly'
     name 'Unruly'
     homepage 'http://www.dafont.com/unruly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unruly Regular.otf'
     font 'Unruly. Light.otf'

@@ -5,7 +5,6 @@ cask 'dafont-pheanis-wickey' do
     url 'http://dl.dafont.com/dl/?f=pheanis_wickey'
     name 'Pheanis Wickey'
     homepage 'http://www.dafont.com/pheanis-wickey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PheanisWickey.ttf'
 end

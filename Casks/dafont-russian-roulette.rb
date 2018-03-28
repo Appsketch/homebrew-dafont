@@ -5,7 +5,6 @@ cask 'dafont-russian-roulette' do
     url 'http://dl.dafont.com/dl/?f=russian_roulette'
     name 'Russian Roulette'
     homepage 'http://www.dafont.com/russian-roulette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Russian Roulette.ttf'
 end

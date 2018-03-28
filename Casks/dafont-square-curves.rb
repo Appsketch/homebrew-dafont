@@ -5,7 +5,6 @@ cask 'dafont-square-curves' do
     url 'http://dl.dafont.com/dl/?f=square_curves'
     name 'Square Curves'
     homepage 'http://www.dafont.com/square-curves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Square_Curves.ttf'
 end

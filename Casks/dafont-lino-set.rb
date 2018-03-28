@@ -5,7 +5,6 @@ cask 'dafont-lino-set' do
     url 'http://dl.dafont.com/dl/?f=lino_set'
     name 'Lino Set'
     homepage 'http://www.dafont.com/lino-set.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lino-set.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pykes-peak-zero' do
     url 'http://dl.dafont.com/dl/?f=pykes_peak_zero'
     name 'Pyke&#039;s Peak Zero'
     homepage 'http://www.dafont.com/pykes-peak-zero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pykes_peak_zero.otf'
 end

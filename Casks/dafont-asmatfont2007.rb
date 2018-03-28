@@ -5,7 +5,6 @@ cask 'dafont-asmatfont2007' do
     url 'http://dl.dafont.com/dl/?f=asmatfont2007'
     name 'Asmat Font 2007'
     homepage 'http://www.dafont.com/asmatfont2007.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AsmatFont2007.ttf'
 end

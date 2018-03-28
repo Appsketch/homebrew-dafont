@@ -5,7 +5,6 @@ cask 'dafont-lemonadejuice' do
     url 'http://dl.dafont.com/dl/?f=lemonadejuice'
     name 'Lemonade Juice'
     homepage 'http://www.dafont.com/lemonadejuice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LemonadeJuice.ttf'
 end

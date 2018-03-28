@@ -5,7 +5,6 @@ cask 'dafont-cartoonero' do
     url 'http://dl.dafont.com/dl/?f=cartoonero'
     name 'Cartoonero'
     homepage 'http://www.dafont.com/cartoonero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cartoonero.ttf'
 end

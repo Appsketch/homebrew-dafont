@@ -5,7 +5,6 @@ cask 'dafont-web-serveroff' do
     url 'http://dl.dafont.com/dl/?f=web_serveroff'
     name 'Web Serveroff'
     homepage 'http://www.dafont.com/web-serveroff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Web Serveroff-Italic.ttf'
     font 'Web Serveroff.ttf'

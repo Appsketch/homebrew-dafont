@@ -5,7 +5,6 @@ cask 'dafont-dollie-script' do
     url 'http://dl.dafont.com/dl/?f=dollie_script'
     name 'Dollie Script'
     homepage 'http://www.dafont.com/dollie-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DollieScript_PersonalUse.ttf'
 end

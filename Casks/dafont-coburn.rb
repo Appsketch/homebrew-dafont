@@ -5,7 +5,6 @@ cask 'dafont-coburn' do
     url 'http://dl.dafont.com/dl/?f=coburn'
     name 'Coburn'
     homepage 'http://www.dafont.com/coburn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coburn Italic.otf'
     font 'Coburn.otf'

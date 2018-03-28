@@ -5,7 +5,6 @@ cask 'dafont-from-where-you-are' do
     url 'http://dl.dafont.com/dl/?f=from_where_you_are'
     name 'From Where You Are'
     homepage 'http://www.dafont.com/from-where-you-are.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FromWhereYouAre.ttf'
 end

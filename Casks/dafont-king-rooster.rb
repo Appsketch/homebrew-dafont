@@ -5,7 +5,6 @@ cask 'dafont-king-rooster' do
     url 'http://dl.dafont.com/dl/?f=king_rooster'
     name 'King &amp; Rooster'
     homepage 'http://www.dafont.com/king-rooster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KING&amp;ROOSTER.ttf'
     font 'ROOSTER.ttf'

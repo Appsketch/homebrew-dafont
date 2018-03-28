@@ -5,7 +5,6 @@ cask 'dafont-bamboo-shoot' do
     url 'http://dl.dafont.com/dl/?f=bamboo_shoot'
     name 'Bamboo shoot'
     homepage 'http://www.dafont.com/bamboo-shoot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bamboo shoot.ttf'
 end

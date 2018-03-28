@@ -5,7 +5,6 @@ cask 'dafont-electronica' do
     url 'http://dl.dafont.com/dl/?f=electronica'
     name 'Electronica'
     homepage 'http://www.dafont.com/electronica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Electronica.ttf'
 end

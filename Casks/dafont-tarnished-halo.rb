@@ -5,7 +5,6 @@ cask 'dafont-tarnished-halo' do
     url 'http://dl.dafont.com/dl/?f=tarnished_halo'
     name 'Tarnished Halo'
     homepage 'http://www.dafont.com/tarnished-halo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tarnh___.ttf'
 end

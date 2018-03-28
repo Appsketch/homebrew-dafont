@@ -5,7 +5,6 @@ cask 'dafont-b-prahara-th' do
     url 'http://dl.dafont.com/dl/?f=b_prahara_th'
     name 'B Prahara TH'
     homepage 'http://www.dafont.com/b-prahara-th.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fonts 3_B Prahara TH/B Prahara TH_Tlsn Tgn_Bold Italic.ttf'
     font 'Fonts 3_B Prahara TH/B Prahara TH_Tlsn Tgn_Bold.ttf'

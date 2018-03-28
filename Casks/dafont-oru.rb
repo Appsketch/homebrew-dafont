@@ -5,7 +5,6 @@ cask 'dafont-oru' do
     url 'http://dl.dafont.com/dl/?f=oru'
     name 'Oru'
     homepage 'http://www.dafont.com/oru.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'oru.ttf'
 end

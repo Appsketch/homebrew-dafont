@@ -5,7 +5,6 @@ cask 'dafont-raw-delta-hand-street' do
     url 'http://dl.dafont.com/dl/?f=raw_delta_hand_street'
     name 'Raw Delta Hand Street'
     homepage 'http://www.dafont.com/raw-delta-hand-street.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'raw delta hand street.otf'
 end

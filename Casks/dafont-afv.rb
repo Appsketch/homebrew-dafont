@@ -5,7 +5,6 @@ cask 'dafont-afv' do
     url 'http://dl.dafont.com/dl/?f=afv'
     name 'AFV 1+2'
     homepage 'http://www.dafont.com/afv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AFV1.ttf'
     font 'AFV2.ttf'

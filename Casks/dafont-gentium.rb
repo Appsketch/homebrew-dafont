@@ -5,7 +5,6 @@ cask 'dafont-gentium' do
     url 'http://dl.dafont.com/dl/?f=gentium'
     name 'Gentium'
     homepage 'http://www.dafont.com/gentium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GenAI102.TTF'
     font 'GenAR102.TTF'

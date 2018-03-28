@@ -5,7 +5,6 @@ cask 'dafont-nextwave' do
     url 'http://dl.dafont.com/dl/?f=nextwave'
     name 'Next Wave'
     homepage 'http://www.dafont.com/nextwave.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NextWave.ttf'
 end

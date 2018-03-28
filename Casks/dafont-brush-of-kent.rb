@@ -5,7 +5,6 @@ cask 'dafont-brush-of-kent' do
     url 'http://dl.dafont.com/dl/?f=brush_of_kent'
     name 'Brush of Kent'
     homepage 'http://www.dafont.com/brush-of-kent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brush Of Kent.ttf'
 end

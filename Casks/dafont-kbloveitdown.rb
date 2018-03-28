@@ -5,7 +5,6 @@ cask 'dafont-kbloveitdown' do
     url 'http://dl.dafont.com/dl/?f=kbloveitdown'
     name 'KB Love it down'
     homepage 'http://www.dafont.com/kbloveitdown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBLOVEITDOWN.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-neuton' do
     url 'http://dl.dafont.com/dl/?f=neuton'
     name 'Neuton'
     homepage 'http://www.dafont.com/neuton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neuton-Extrabold.ttf'
     font 'Neuton-Extralight.ttf'

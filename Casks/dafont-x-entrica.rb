@@ -5,7 +5,6 @@ cask 'dafont-x-entrica' do
     url 'http://dl.dafont.com/dl/?f=x_entrica'
     name 'X-&eacute;ntrica'
     homepage 'http://www.dafont.com/x-entrica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'X-ntricA.ttf'
 end

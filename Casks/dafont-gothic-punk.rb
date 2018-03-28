@@ -5,7 +5,6 @@ cask 'dafont-gothic-punk' do
     url 'http://dl.dafont.com/dl/?f=gothic_punk'
     name 'Gothic Punk'
     homepage 'http://www.dafont.com/gothic-punk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gothic Punk.ttf'
 end

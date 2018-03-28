@@ -5,7 +5,6 @@ cask 'dafont-elliot' do
     url 'http://dl.dafont.com/dl/?f=elliot'
     name 'Elliot'
     homepage 'http://www.dafont.com/elliot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elliot.ttf'
 end

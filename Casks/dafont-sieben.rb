@@ -5,7 +5,6 @@ cask 'dafont-sieben' do
     url 'http://dl.dafont.com/dl/?f=sieben'
     name 'Sieben'
     homepage 'http://www.dafont.com/sieben.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SIEBB___.TTF'
     font 'SIEBRG__.TTF'

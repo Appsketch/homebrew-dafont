@@ -5,7 +5,6 @@ cask 'dafont-scuffle' do
     url 'http://dl.dafont.com/dl/?f=scuffle'
     name 'Scuffle'
     homepage 'http://www.dafont.com/scuffle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scuffle.otf'
 end

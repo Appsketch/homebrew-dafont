@@ -5,7 +5,6 @@ cask 'dafont-dunkirk' do
     url 'http://dl.dafont.com/dl/?f=dunkirk'
     name 'Dunkirk'
     homepage 'http://www.dafont.com/dunkirk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dunkirk.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dj-coinage' do
     url 'http://dl.dafont.com/dl/?f=dj_coinage'
     name 'DJ Coinage'
     homepage 'http://www.dafont.com/dj-coinage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJ_Coinage.ttf'
 end

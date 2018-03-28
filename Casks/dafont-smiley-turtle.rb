@@ -5,7 +5,6 @@ cask 'dafont-smiley-turtle' do
     url 'http://dl.dafont.com/dl/?f=smiley_turtle'
     name 'Smiley Turtle'
     homepage 'http://www.dafont.com/smiley-turtle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SMILEY.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bassist' do
     url 'http://dl.dafont.com/dl/?f=bassist'
     name 'Bassist'
     homepage 'http://www.dafont.com/bassist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bassist.ttf'
 end

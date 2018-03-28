@@ -5,7 +5,6 @@ cask 'dafont-extrafine' do
     url 'http://dl.dafont.com/dl/?f=extrafine'
     name 'Extrafine'
     homepage 'http://www.dafont.com/extrafine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extrafine.ttf'
 end

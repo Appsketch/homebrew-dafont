@@ -5,7 +5,6 @@ cask 'dafont-puente-bueno-st' do
     url 'http://dl.dafont.com/dl/?f=puente_bueno_st'
     name 'Puente Bueno ST'
     homepage 'http://www.dafont.com/puente-bueno-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Puente Bueno St.ttf'
 end

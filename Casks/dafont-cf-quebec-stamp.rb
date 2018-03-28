@@ -5,7 +5,6 @@ cask 'dafont-cf-quebec-stamp' do
     url 'http://dl.dafont.com/dl/?f=cf_quebec_stamp'
     name 'CF Quebec Stamp'
     homepage 'http://www.dafont.com/cf-quebec-stamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFQuebecStamp-Regular.ttf'
 end

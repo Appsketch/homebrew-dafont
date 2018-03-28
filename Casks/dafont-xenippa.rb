@@ -5,7 +5,6 @@ cask 'dafont-xenippa' do
     url 'http://dl.dafont.com/dl/?f=xenippa'
     name 'Xenippa'
     homepage 'http://www.dafont.com/xenippa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xenippa1.ttf'
 end

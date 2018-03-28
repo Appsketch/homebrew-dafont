@@ -5,7 +5,6 @@ cask 'dafont-nasdaqer' do
     url 'http://dl.dafont.com/dl/?f=nasdaqer'
     name 'Nasdaqer'
     homepage 'http://www.dafont.com/nasdaqer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NASDAQER.ttf'
 end

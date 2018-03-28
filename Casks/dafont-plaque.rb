@@ -5,7 +5,6 @@ cask 'dafont-plaque' do
     url 'http://dl.dafont.com/dl/?f=plaque'
     name 'PLAQUE'
     homepage 'http://www.dafont.com/plaque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLAQUE.ttf'
     font 'PLAQUEZIP.ttf'

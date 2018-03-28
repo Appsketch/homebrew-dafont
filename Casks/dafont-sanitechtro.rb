@@ -5,7 +5,6 @@ cask 'dafont-sanitechtro' do
     url 'http://dl.dafont.com/dl/?f=sanitechtro'
     name 'Sanitechtro'
     homepage 'http://www.dafont.com/sanitechtro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sanitechtro.ttf'
 end

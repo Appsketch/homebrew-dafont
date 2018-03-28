@@ -5,7 +5,6 @@ cask 'dafont-rubbing-font' do
     url 'http://dl.dafont.com/dl/?f=rubbing_font'
     name 'Rubbing Font'
     homepage 'http://www.dafont.com/rubbing-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rubbf___.ttf'
 end

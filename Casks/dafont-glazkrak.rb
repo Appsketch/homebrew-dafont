@@ -5,7 +5,6 @@ cask 'dafont-glazkrak' do
     url 'http://dl.dafont.com/dl/?f=glazkrak'
     name 'GlazKrak'
     homepage 'http://www.dafont.com/glazkrak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'glazkrak.ttf'
 end

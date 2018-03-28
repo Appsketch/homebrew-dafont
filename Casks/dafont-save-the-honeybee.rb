@@ -5,7 +5,6 @@ cask 'dafont-save-the-honeybee' do
     url 'http://dl.dafont.com/dl/?f=save_the_honeybee'
     name 'Save The Honeybee'
     homepage 'http://www.dafont.com/save-the-honeybee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SAVE THE HONEYBEE.ttf'
 end

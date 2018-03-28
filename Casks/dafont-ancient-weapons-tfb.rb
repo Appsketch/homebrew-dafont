@@ -5,7 +5,6 @@ cask 'dafont-ancient-weapons-tfb' do
     url 'http://dl.dafont.com/dl/?f=ancient_weapons_tfb'
     name 'Ancient Weapons TFB'
     homepage 'http://www.dafont.com/ancient-weapons-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ancient Weapons tfb.ttf'
 end

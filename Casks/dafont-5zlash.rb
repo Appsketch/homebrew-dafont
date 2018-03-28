@@ -5,7 +5,6 @@ cask 'dafont-5zlash' do
     url 'http://dl.dafont.com/dl/?f=5zlash'
     name '5 Zlash'
     homepage 'http://www.dafont.com/5zlash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5zlash.ttf'
 end

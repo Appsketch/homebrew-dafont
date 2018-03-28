@@ -5,7 +5,6 @@ cask 'dafont-ambo' do
     url 'http://dl.dafont.com/dl/?f=ambo'
     name 'Ambo'
     homepage 'http://www.dafont.com/ambo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ambo__free_ttf_font__by_loosy-d4wz0ug.ttf'
 end

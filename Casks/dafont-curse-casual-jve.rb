@@ -5,7 +5,6 @@ cask 'dafont-curse-casual-jve' do
     url 'http://dl.dafont.com/dl/?f=curse_casual_jve'
     name 'Curse Casual'
     homepage 'http://www.dafont.com/curse-casual-jve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Curse Casual.ttf'
 end

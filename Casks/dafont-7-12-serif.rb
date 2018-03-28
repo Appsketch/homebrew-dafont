@@ -5,7 +5,6 @@ cask 'dafont-7-12-serif' do
     url 'http://dl.dafont.com/dl/?f=7_12_serif'
     name '7:12 Serif'
     homepage 'http://www.dafont.com/7-12-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '712_serif.ttf'
 end

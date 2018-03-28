@@ -5,7 +5,6 @@ cask 'dafont-ultima-campagnoli' do
     url 'http://dl.dafont.com/dl/?f=ultima_campagnoli'
     name 'Ultima Campagnoli'
     homepage 'http://www.dafont.com/ultima-campagnoli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ultima_Campagnoli_bold.otf'
     font 'Ultima_Campagnoli.otf'

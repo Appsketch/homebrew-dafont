@@ -5,7 +5,6 @@ cask 'dafont-odum-odum' do
     url 'http://dl.dafont.com/dl/?f=odum_odum'
     name 'Odum Odum'
     homepage 'http://www.dafont.com/odum-odum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Odum Odum.ttf'
 end

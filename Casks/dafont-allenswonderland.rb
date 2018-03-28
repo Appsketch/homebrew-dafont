@@ -5,7 +5,6 @@ cask 'dafont-allenswonderland' do
     url 'http://dl.dafont.com/dl/?f=allenswonderland'
     name 'Allens Wonderland'
     homepage 'http://www.dafont.com/allenswonderland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AllensWonderland.ttf'
 end

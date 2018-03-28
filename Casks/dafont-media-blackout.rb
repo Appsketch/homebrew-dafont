@@ -5,7 +5,6 @@ cask 'dafont-media-blackout' do
     url 'http://dl.dafont.com/dl/?f=media_blackout'
     name 'Media Blackout'
     homepage 'http://www.dafont.com/media-blackout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MediaBlackoutDEMO.otf'
 end

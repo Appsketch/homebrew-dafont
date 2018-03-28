@@ -5,7 +5,6 @@ cask 'dafont-lcdaisy' do
     url 'http://dl.dafont.com/dl/?f=lcdaisy'
     name 'LC Daisy'
     homepage 'http://www.dafont.com/lcdaisy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LCDaisy.ttf'
 end

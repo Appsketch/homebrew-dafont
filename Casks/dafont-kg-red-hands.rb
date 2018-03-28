@@ -5,7 +5,6 @@ cask 'dafont-kg-red-hands' do
     url 'http://dl.dafont.com/dl/?f=kg_red_hands'
     name 'KG Red Hands'
     homepage 'http://www.dafont.com/kg-red-hands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGRedHands.ttf'
     font 'KGRedHandsOutline.ttf'

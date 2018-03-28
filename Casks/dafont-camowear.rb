@@ -5,7 +5,6 @@ cask 'dafont-camowear' do
     url 'http://dl.dafont.com/dl/?f=camowear'
     name 'Camo Wear'
     homepage 'http://www.dafont.com/camowear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CamoWear.ttf'
 end

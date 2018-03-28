@@ -5,7 +5,6 @@ cask 'dafont-jenn-bee' do
     url 'http://dl.dafont.com/dl/?f=jenn_bee'
     name 'Jenn Bee'
     homepage 'http://www.dafont.com/jenn-bee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jenn Bee.ttf'
 end

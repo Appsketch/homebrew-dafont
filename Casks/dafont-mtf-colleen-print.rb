@@ -5,7 +5,6 @@ cask 'dafont-mtf-colleen-print' do
     url 'http://dl.dafont.com/dl/?f=mtf_colleen_print'
     name 'MTF Colleen Print'
     homepage 'http://www.dafont.com/mtf-colleen-print.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Colleen Print.ttf'
 end

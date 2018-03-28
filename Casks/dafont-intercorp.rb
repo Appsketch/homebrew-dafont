@@ -5,7 +5,6 @@ cask 'dafont-intercorp' do
     url 'http://dl.dafont.com/dl/?f=intercorp'
     name 'Intercorp'
     homepage 'http://www.dafont.com/intercorp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Intercorp Original.ttf'
 end

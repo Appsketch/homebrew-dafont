@@ -5,7 +5,6 @@ cask 'dafont-tightscript' do
     url 'http://dl.dafont.com/dl/?f=tightscript'
     name 'Tight Script'
     homepage 'http://www.dafont.com/tightscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TightScript.ttf'
 end

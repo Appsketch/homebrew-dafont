@@ -5,7 +5,6 @@ cask 'dafont-feed-the-bears' do
     url 'http://dl.dafont.com/dl/?f=feed_the_bears'
     name 'Feed The Bears'
     homepage 'http://www.dafont.com/feed-the-bears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Feed The Bears.ttf'
 end

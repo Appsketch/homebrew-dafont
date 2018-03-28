@@ -5,7 +5,6 @@ cask 'dafont-lumos' do
     url 'http://dl.dafont.com/dl/?f=lumos'
     name 'Lumos'
     homepage 'http://www.dafont.com/lumos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LUMOS.TTF'
 end

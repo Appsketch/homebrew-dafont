@@ -5,7 +5,6 @@ cask 'dafont-turmoil-brk' do
     url 'http://dl.dafont.com/dl/?f=turmoil_brk'
     name 'Turmoil BRK'
     homepage 'http://www.dafont.com/turmoil-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'turmoil.ttf'
 end

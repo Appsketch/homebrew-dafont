@@ -5,7 +5,6 @@ cask 'dafont-gemcut' do
     url 'http://dl.dafont.com/dl/?f=gemcut'
     name 'Gemcut'
     homepage 'http://www.dafont.com/gemcut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gemcut Bold Italic.otf'
     font 'Gemcut Bold.otf'

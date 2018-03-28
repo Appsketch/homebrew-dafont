@@ -5,7 +5,6 @@ cask 'dafont-seleneshandwriting1' do
     url 'http://dl.dafont.com/dl/?f=seleneshandwriting1'
     name 'Selenes Handwriting'
     homepage 'http://www.dafont.com/seleneshandwriting1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SelenesHandwriting1.ttf'
 end

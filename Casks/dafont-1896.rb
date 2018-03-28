@@ -5,7 +5,6 @@ cask 'dafont-1896' do
     url 'http://dl.dafont.com/dl/?f=1896'
     name '1896'
     homepage 'http://www.dafont.com/1896.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1896.ttf'
 end

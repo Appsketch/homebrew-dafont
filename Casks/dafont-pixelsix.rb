@@ -5,7 +5,6 @@ cask 'dafont-pixelsix' do
     url 'http://dl.dafont.com/dl/?f=pixelsix'
     name 'PixelSix'
     homepage 'http://www.dafont.com/pixelsix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixelsix00.ttf'
     font 'pixelsix10.ttf'

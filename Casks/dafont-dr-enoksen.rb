@@ -5,7 +5,6 @@ cask 'dafont-dr-enoksen' do
     url 'http://dl.dafont.com/dl/?f=dr_enoksen'
     name 'Dr. Enoksen'
     homepage 'http://www.dafont.com/dr-enoksen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Enoksen.ttf'
 end

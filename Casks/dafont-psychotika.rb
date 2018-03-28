@@ -5,7 +5,6 @@ cask 'dafont-psychotika' do
     url 'http://dl.dafont.com/dl/?f=psychotika'
     name 'Psychotika'
     homepage 'http://www.dafont.com/psychotika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Psychotika_by_FlowerByDeath.ttf'
 end

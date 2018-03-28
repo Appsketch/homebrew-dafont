@@ -5,7 +5,6 @@ cask 'dafont-brothers-of-metal' do
     url 'http://dl.dafont.com/dl/?f=brothers_of_metal'
     name 'Brothers of Metal'
     homepage 'http://www.dafont.com/brothers-of-metal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brothers_of_metal.ttf'
 end

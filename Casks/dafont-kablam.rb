@@ -5,7 +5,6 @@ cask 'dafont-kablam' do
     url 'http://dl.dafont.com/dl/?f=kablam'
     name 'KaBlam !'
     homepage 'http://www.dafont.com/kablam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kablam!_.ttf'
 end

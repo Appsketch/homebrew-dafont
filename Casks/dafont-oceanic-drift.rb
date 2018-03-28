@@ -5,7 +5,6 @@ cask 'dafont-oceanic-drift' do
     url 'http://dl.dafont.com/dl/?f=oceanic_drift'
     name 'Oceanic Drift'
     homepage 'http://www.dafont.com/oceanic-drift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'oceanicdrift.ttf'
     font 'oceanicdrift3d.ttf'

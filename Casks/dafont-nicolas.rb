@@ -5,7 +5,6 @@ cask 'dafont-nicolas' do
     url 'http://dl.dafont.com/dl/?f=nicolas'
     name 'Nicolas'
     homepage 'http://www.dafont.com/nicolas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nicolas Rose Script.ttf'
 end

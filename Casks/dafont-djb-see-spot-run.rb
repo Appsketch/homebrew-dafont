@@ -5,7 +5,6 @@ cask 'dafont-djb-see-spot-run' do
     url 'http://dl.dafont.com/dl/?f=djb_see_spot_run'
     name 'DJB See Spot Run'
     homepage 'http://www.dafont.com/djb-see-spot-run.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB See Spot Run.ttf'
 end

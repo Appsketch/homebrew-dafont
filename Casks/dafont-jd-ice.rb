@@ -5,7 +5,6 @@ cask 'dafont-jd-ice' do
     url 'http://dl.dafont.com/dl/?f=jd_ice'
     name 'JD Ice'
     homepage 'http://www.dafont.com/jd-ice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_ice/jd_ice.ttf'
 end

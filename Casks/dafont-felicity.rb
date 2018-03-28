@@ -5,7 +5,6 @@ cask 'dafont-felicity' do
     url 'http://dl.dafont.com/dl/?f=felicity'
     name 'Felicity'
     homepage 'http://www.dafont.com/felicity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Felicity.ttf'
 end

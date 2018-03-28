@@ -5,7 +5,6 @@ cask 'dafont-bunga-cengkih' do
     url 'http://dl.dafont.com/dl/?f=bunga_cengkih'
     name 'Bunga Cengkih'
     homepage 'http://www.dafont.com/bunga-cengkih.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BungaCengkih.ttf'
     font 'BungaCengkihBold.ttf'

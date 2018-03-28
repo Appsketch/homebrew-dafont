@@ -5,7 +5,6 @@ cask 'dafont-3x3-dots' do
     url 'http://dl.dafont.com/dl/?f=3x3_dots'
     name '3x3 Dots'
     homepage 'http://www.dafont.com/3x3-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '3x3dots.ttf'
     font '3x3dotsb.ttf'

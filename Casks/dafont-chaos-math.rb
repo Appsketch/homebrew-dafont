@@ -5,7 +5,6 @@ cask 'dafont-chaos-math' do
     url 'http://dl.dafont.com/dl/?f=chaos_math'
     name 'Chaos Math'
     homepage 'http://www.dafont.com/chaos-math.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chaos Math.ttf'
 end

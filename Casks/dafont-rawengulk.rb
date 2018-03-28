@@ -5,7 +5,6 @@ cask 'dafont-rawengulk' do
     url 'http://dl.dafont.com/dl/?f=rawengulk'
     name 'Rawengulk'
     homepage 'http://www.dafont.com/rawengulk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ttf/RawengulkBold.ttf'
     font 'ttf/RawengulkDemibold.ttf'

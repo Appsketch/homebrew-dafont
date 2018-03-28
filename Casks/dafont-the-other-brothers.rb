@@ -5,7 +5,6 @@ cask 'dafont-the-other-brothers' do
     url 'http://dl.dafont.com/dl/?f=the_other_brothers'
     name 'The Other Brothers'
     homepage 'http://www.dafont.com/the-other-brothers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Other Brothers.ttf'
 end

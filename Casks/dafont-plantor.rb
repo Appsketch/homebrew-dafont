@@ -5,7 +5,6 @@ cask 'dafont-plantor' do
     url 'http://dl.dafont.com/dl/?f=plantor'
     name 'Plantor'
     homepage 'http://www.dafont.com/plantor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plantor.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sexy-spanish-erasmus-girls-v-2-0' do
     url 'http://dl.dafont.com/dl/?f=sexy_spanish_erasmus_girls_v_2_0'
     name 'Sexy Spanish Erasmus Girls'
     homepage 'http://www.dafont.com/sexy-spanish-erasmus-girls-v-2-0.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEXYS_ES_.TTF'
 end

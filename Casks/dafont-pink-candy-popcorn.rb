@@ -5,7 +5,6 @@ cask 'dafont-pink-candy-popcorn' do
     url 'http://dl.dafont.com/dl/?f=pink_candy_popcorn'
     name 'Pink Candy Popcorn'
     homepage 'http://www.dafont.com/pink-candy-popcorn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PinkCandyPopcornBats.ttf'
     font 'PinkCandyPopcornFont.ttf'

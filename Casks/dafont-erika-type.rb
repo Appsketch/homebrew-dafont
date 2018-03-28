@@ -5,7 +5,6 @@ cask 'dafont-erika-type' do
     url 'http://dl.dafont.com/dl/?f=erika_type'
     name 'Erika Type'
     homepage 'http://www.dafont.com/erika-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Erika Type_B.ttf'
     font 'Erika Type.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-cm-pradaesque' do
     url 'http://dl.dafont.com/dl/?f=cm_pradaesque'
     name 'CM Pradaesque'
     homepage 'http://www.dafont.com/cm-pradaesque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cm_pradaesque.ttf'
 end

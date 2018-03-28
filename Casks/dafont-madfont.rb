@@ -5,7 +5,6 @@ cask 'dafont-madfont' do
     url 'http://dl.dafont.com/dl/?f=madfont'
     name 'Madfont'
     homepage 'http://www.dafont.com/madfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MADFONT.TTF'
 end

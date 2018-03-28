@@ -5,7 +5,6 @@ cask 'dafont-halits-font' do
     url 'http://dl.dafont.com/dl/?f=halits_font'
     name 'Halit&#039;s Font'
     homepage 'http://www.dafont.com/halits-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Halit_s_Font_21.ttf'
 end

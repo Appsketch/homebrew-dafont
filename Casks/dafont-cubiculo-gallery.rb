@@ -5,7 +5,6 @@ cask 'dafont-cubiculo-gallery' do
     url 'http://dl.dafont.com/dl/?f=cubiculo_gallery'
     name 'Cubiculo Gallery'
     homepage 'http://www.dafont.com/cubiculo-gallery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CUBIC___.TTF'
 end

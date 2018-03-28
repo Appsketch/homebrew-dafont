@@ -5,7 +5,6 @@ cask 'dafont-star-things' do
     url 'http://dl.dafont.com/dl/?f=star_things'
     name 'Star Things'
     homepage 'http://www.dafont.com/star-things.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'starthings.ttf'
     font 'starthings2.ttf'

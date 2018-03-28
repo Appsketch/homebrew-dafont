@@ -5,7 +5,6 @@ cask 'dafont-secesja-pl' do
     url 'http://dl.dafont.com/dl/?f=secesja_pl'
     name 'Secesja PL'
     homepage 'http://www.dafont.com/secesja-pl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Secesja.ttf'
 end

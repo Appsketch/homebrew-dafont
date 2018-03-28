@@ -5,7 +5,6 @@ cask 'dafont-skrewdupsoulz' do
     url 'http://dl.dafont.com/dl/?f=skrewdupsoulz'
     name 'SkrewdUpSoulz'
     homepage 'http://www.dafont.com/skrewdupsoulz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skrewdupsoulz.ttf'
 end

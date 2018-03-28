@@ -5,7 +5,6 @@ cask 'dafont-grimace' do
     url 'http://dl.dafont.com/dl/?f=grimace'
     name 'Grimace'
     homepage 'http://www.dafont.com/grimace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRIMACE.TTF'
 end

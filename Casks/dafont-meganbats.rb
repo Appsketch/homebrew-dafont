@@ -5,7 +5,6 @@ cask 'dafont-meganbats' do
     url 'http://dl.dafont.com/dl/?f=meganbats'
     name 'MeganBats'
     homepage 'http://www.dafont.com/meganbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MeganBats.ttf'
 end

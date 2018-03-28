@@ -5,7 +5,6 @@ cask 'dafont-ono-display' do
     url 'http://dl.dafont.com/dl/?f=ono_display'
     name 'OnO Display'
     homepage 'http://www.dafont.com/ono-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OnO_display regular.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-triac-71' do
     url 'http://dl.dafont.com/dl/?f=triac_71'
     name 'Triac 71'
     homepage 'http://www.dafont.com/triac-71.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'triac 71.ttf'
 end

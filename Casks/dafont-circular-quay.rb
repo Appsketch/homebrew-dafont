@@ -5,7 +5,6 @@ cask 'dafont-circular-quay' do
     url 'http://dl.dafont.com/dl/?f=circular_quay'
     name 'Circular Quay'
     homepage 'http://www.dafont.com/circular-quay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Circular Quay.ttf'
 end

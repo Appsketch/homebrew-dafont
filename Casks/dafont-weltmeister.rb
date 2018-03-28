@@ -5,7 +5,6 @@ cask 'dafont-weltmeister' do
     url 'http://dl.dafont.com/dl/?f=weltmeister'
     name 'Weltmeister'
     homepage 'http://www.dafont.com/weltmeister.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'weltmeister.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wanted-m54' do
     url 'http://dl.dafont.com/dl/?f=wanted_m54'
     name 'Wanted M54'
     homepage 'http://www.dafont.com/wanted-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wanted M54.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-niere' do
     url 'http://dl.dafont.com/dl/?f=niere'
     name 'Niere'
     homepage 'http://www.dafont.com/niere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Niere.ttf'
 end

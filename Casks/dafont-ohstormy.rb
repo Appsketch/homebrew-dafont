@@ -5,7 +5,6 @@ cask 'dafont-ohstormy' do
     url 'http://dl.dafont.com/dl/?f=ohstormy'
     name 'Oh Stormy'
     homepage 'http://www.dafont.com/ohstormy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OhStormy.ttf'
 end

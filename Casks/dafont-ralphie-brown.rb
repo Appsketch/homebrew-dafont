@@ -5,7 +5,6 @@ cask 'dafont-ralphie-brown' do
     url 'http://dl.dafont.com/dl/?f=ralphie_brown'
     name 'Ralphie Brown'
     homepage 'http://www.dafont.com/ralphie-brown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ralphie Brown Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-deutsche-zierschrif' do
     url 'http://dl.dafont.com/dl/?f=deutsche_zierschrif'
     name 'Deutsche Zierschrift'
     homepage 'http://www.dafont.com/deutsche-zierschrif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeutscheZierschrift.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-equalizer' do
     url 'http://dl.dafont.com/dl/?f=equalizer'
     name 'Equalizer'
     homepage 'http://www.dafont.com/equalizer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'equalizer.ttf'
 end

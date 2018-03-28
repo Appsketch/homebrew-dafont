@@ -5,7 +5,6 @@ cask 'dafont-pussycat' do
     url 'http://dl.dafont.com/dl/?f=pussycat'
     name 'Pussycat'
     homepage 'http://www.dafont.com/pussycat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PUSSS___.TTF'
     font 'PUSSSA__.TTF'

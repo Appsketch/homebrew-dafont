@@ -5,7 +5,6 @@ cask 'dafont-wildstyle' do
     url 'http://dl.dafont.com/dl/?f=wildstyle'
     name 'WildStyle'
     homepage 'http://www.dafont.com/wildstyle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WildBasic_free.otf'
 end

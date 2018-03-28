@@ -5,7 +5,6 @@ cask 'dafont-basicheader' do
     url 'http://dl.dafont.com/dl/?f=basicheader'
     name 'Basic Header'
     homepage 'http://www.dafont.com/basicheader.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BasicHeader.ttf'
 end

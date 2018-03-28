@@ -5,7 +5,6 @@ cask 'dafont-bonez' do
     url 'http://dl.dafont.com/dl/?f=bonez'
     name 'Bonez'
     homepage 'http://www.dafont.com/bonez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonez.ttf'
 end

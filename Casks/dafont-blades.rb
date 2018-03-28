@@ -5,7 +5,6 @@ cask 'dafont-blades' do
     url 'http://dl.dafont.com/dl/?f=blades'
     name 'Blades'
     homepage 'http://www.dafont.com/blades.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLADES.TTF'
 end

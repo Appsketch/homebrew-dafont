@@ -5,7 +5,6 @@ cask 'dafont-cerulean-nights' do
     url 'http://dl.dafont.com/dl/?f=cerulean_nights'
     name 'Cerulean Nights'
     homepage 'http://www.dafont.com/cerulean-nights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cerulean Nights.otf'
 end

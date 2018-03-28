@@ -5,7 +5,6 @@ cask 'dafont-potato-press' do
     url 'http://dl.dafont.com/dl/?f=potato_press'
     name 'Potato Press'
     homepage 'http://www.dafont.com/potato-press.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'potatpress__.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tagettes' do
     url 'http://dl.dafont.com/dl/?f=tagettes'
     name 'Tagettes'
     homepage 'http://www.dafont.com/tagettes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tagettP2_U.ttf'
     font 'tagetts2_U.ttf'

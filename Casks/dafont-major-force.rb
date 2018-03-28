@@ -5,7 +5,6 @@ cask 'dafont-major-force' do
     url 'http://dl.dafont.com/dl/?f=major_force'
     name 'Major Force'
     homepage 'http://www.dafont.com/major-force.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'majorforce.ttf'
     font 'majorforce3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-jellyka-beesantique-handwriting' do
     url 'http://dl.dafont.com/dl/?f=jellyka_beesantique_handwriting'
     name 'Jellyka BeesAntique Handwriting'
     homepage 'http://www.dafont.com/jellyka-beesantique-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jellyka Bees Antique Handwriting.ttf'
 end

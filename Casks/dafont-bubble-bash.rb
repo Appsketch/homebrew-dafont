@@ -5,7 +5,6 @@ cask 'dafont-bubble-bash' do
     url 'http://dl.dafont.com/dl/?f=bubble_bash'
     name 'Bubble Bash'
     homepage 'http://www.dafont.com/bubble-bash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bubble Bash.otf'
 end

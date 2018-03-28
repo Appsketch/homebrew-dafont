@@ -5,7 +5,6 @@ cask 'dafont-lovesweets' do
     url 'http://dl.dafont.com/dl/?f=lovesweets'
     name 'Love Sweets'
     homepage 'http://www.dafont.com/lovesweets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LoveSweets.ttf'
 end

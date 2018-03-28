@@ -5,7 +5,6 @@ cask 'dafont-hursheys' do
     url 'http://dl.dafont.com/dl/?f=hursheys'
     name 'Hursheys'
     homepage 'http://www.dafont.com/hursheys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hursheys.ttf'
 end

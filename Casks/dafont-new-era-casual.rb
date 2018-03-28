@@ -5,7 +5,6 @@ cask 'dafont-new-era-casual' do
     url 'http://dl.dafont.com/dl/?f=new_era_casual'
     name 'New Era Casual'
     homepage 'http://www.dafont.com/new-era-casual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New Era Casual Bold Italic.ttf'
     font 'New Era Casual Bold.ttf'

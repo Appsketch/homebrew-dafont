@@ -5,7 +5,6 @@ cask 'dafont-artmartinez' do
     url 'http://dl.dafont.com/dl/?f=artmartinez'
     name 'Art Martinez'
     homepage 'http://www.dafont.com/artmartinez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArtMartinez.ttf'
 end

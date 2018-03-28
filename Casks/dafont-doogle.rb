@@ -5,7 +5,6 @@ cask 'dafont-doogle' do
     url 'http://dl.dafont.com/dl/?f=doogle'
     name 'Doogle'
     homepage 'http://www.dafont.com/doogle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'doogle.ttf'
 end

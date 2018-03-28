@@ -5,7 +5,6 @@ cask 'dafont-bastard' do
     url 'http://dl.dafont.com/dl/?f=bastard'
     name 'Bastard'
     homepage 'http://www.dafont.com/bastard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BASTARD.TTF'
 end

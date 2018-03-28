@@ -5,7 +5,6 @@ cask 'dafont-happyphantom' do
     url 'http://dl.dafont.com/dl/?f=happyphantom'
     name 'Happy Phantom'
     homepage 'http://www.dafont.com/happyphantom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Happy Phantom Bold-ITALIC.ttf'
     font 'Happy Phantom-Bold.ttf'

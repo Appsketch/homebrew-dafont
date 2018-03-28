@@ -5,7 +5,6 @@ cask 'dafont-cf-dallas-stars' do
     url 'http://dl.dafont.com/dl/?f=cf_dallas_stars'
     name 'CF Dallas Stars'
     homepage 'http://www.dafont.com/cf-dallas-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFDallasStars.ttf'
 end

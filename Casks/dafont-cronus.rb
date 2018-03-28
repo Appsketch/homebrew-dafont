@@ -5,7 +5,6 @@ cask 'dafont-cronus' do
     url 'http://dl.dafont.com/dl/?f=cronus'
     name 'Cronus'
     homepage 'http://www.dafont.com/cronus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cronus Italic.otf'
     font 'Cronus Round.otf'

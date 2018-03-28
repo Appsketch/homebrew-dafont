@@ -5,7 +5,6 @@ cask 'dafont-the-deadliest-saloon' do
     url 'http://dl.dafont.com/dl/?f=the_deadliest_saloon'
     name 'The Deadliest Saloon'
     homepage 'http://www.dafont.com/the-deadliest-saloon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheDeadliestSaloon.ttf'
 end

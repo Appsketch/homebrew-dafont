@@ -5,7 +5,6 @@ cask 'dafont-lower-lay' do
     url 'http://dl.dafont.com/dl/?f=lower_lay'
     name 'Lower-Lay'
     homepage 'http://www.dafont.com/lower-lay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lowerlay.ttf'
 end

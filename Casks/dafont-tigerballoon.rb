@@ -5,7 +5,6 @@ cask 'dafont-tigerballoon' do
     url 'http://dl.dafont.com/dl/?f=tigerballoon'
     name 'Tiger Balloon'
     homepage 'http://www.dafont.com/tigerballoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TigerBalloon-Regular.ttf'
 end

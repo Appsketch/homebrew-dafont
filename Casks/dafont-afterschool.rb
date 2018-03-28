@@ -5,7 +5,6 @@ cask 'dafont-afterschool' do
     url 'http://dl.dafont.com/dl/?f=afterschool'
     name 'After School'
     homepage 'http://www.dafont.com/afterschool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AfterSchool.ttf'
 end

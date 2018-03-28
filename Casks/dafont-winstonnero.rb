@@ -5,7 +5,6 @@ cask 'dafont-winstonnero' do
     url 'http://dl.dafont.com/dl/?f=winstonnero'
     name 'Winston Nero'
     homepage 'http://www.dafont.com/winstonnero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WinstonNero TRIAL/WINSTN_T.ttf'
 end

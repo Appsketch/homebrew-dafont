@@ -5,7 +5,6 @@ cask 'dafont-no-color' do
     url 'http://dl.dafont.com/dl/?f=no_color'
     name 'No Color'
     homepage 'http://www.dafont.com/no-color.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'No_Color.ttf'
 end

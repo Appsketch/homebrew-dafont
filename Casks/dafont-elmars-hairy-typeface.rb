@@ -5,7 +5,6 @@ cask 'dafont-elmars-hairy-typeface' do
     url 'http://dl.dafont.com/dl/?f=elmars_hairy_typeface'
     name 'Elmars Hairy Typeface'
     homepage 'http://www.dafont.com/elmars-hairy-typeface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elmars Hairy Typeface.ttf'
 end

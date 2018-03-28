@@ -5,7 +5,6 @@ cask 'dafont-liniga' do
     url 'http://dl.dafont.com/dl/?f=liniga'
     name 'Liniga'
     homepage 'http://www.dafont.com/liniga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Liniga.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djb-zora-prints' do
     url 'http://dl.dafont.com/dl/?f=djb_zora_prints'
     name 'DJB Zora Prints'
     homepage 'http://www.dafont.com/djb-zora-prints.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Zora Prints.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-capital' do
     url 'http://dl.dafont.com/dl/?f=capital'
     name 'Capital'
     homepage 'http://www.dafont.com/capital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typo Capital regular solo letras para dafont.ttf'
 end

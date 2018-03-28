@@ -5,7 +5,6 @@ cask 'dafont-crispywu' do
     url 'http://dl.dafont.com/dl/?f=crispywu'
     name 'Crispy Wu'
     homepage 'http://www.dafont.com/crispywu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrispyWu.ttf'
 end

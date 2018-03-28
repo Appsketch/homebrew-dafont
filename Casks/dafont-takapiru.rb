@@ -5,7 +5,6 @@ cask 'dafont-takapiru' do
     url 'http://dl.dafont.com/dl/?f=takapiru'
     name 'Takapiru'
     homepage 'http://www.dafont.com/takapiru.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Takapiru.ttf'
     font 'Takapiru2.ttf'

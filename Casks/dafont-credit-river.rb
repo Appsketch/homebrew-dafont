@@ -5,7 +5,6 @@ cask 'dafont-credit-river' do
     url 'http://dl.dafont.com/dl/?f=credit_river'
     name 'Credit River'
     homepage 'http://www.dafont.com/credit-river.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'credit river.ttf'
 end

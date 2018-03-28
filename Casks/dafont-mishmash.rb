@@ -5,7 +5,6 @@ cask 'dafont-mishmash' do
     url 'http://dl.dafont.com/dl/?f=mishmash'
     name 'Mishmash'
     homepage 'http://www.dafont.com/mishmash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mima4x4i.ttf'
     font 'mima4x4o.ttf'

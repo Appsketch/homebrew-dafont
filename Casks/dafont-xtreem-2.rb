@@ -5,7 +5,6 @@ cask 'dafont-xtreem-2' do
     url 'http://dl.dafont.com/dl/?f=xtreem_2'
     name 'Xtreem 2'
     homepage 'http://www.dafont.com/xtreem-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xtreem_2_PersonalUse.ttf'
 end

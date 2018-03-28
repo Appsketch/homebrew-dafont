@@ -5,7 +5,6 @@ cask 'dafont-rqsthinnyandthicky' do
     url 'http://dl.dafont.com/dl/?f=rqsthinnyandthicky'
     name 'RQS Thinny and Thicky'
     homepage 'http://www.dafont.com/rqsthinnyandthicky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RQSThinnyandThicky.ttf'
 end

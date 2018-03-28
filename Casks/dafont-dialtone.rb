@@ -5,7 +5,6 @@ cask 'dafont-dialtone' do
     url 'http://dl.dafont.com/dl/?f=dialtone'
     name 'Dialtone'
     homepage 'http://www.dafont.com/dialtone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIALTONE.TTF'
 end

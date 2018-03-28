@@ -5,7 +5,6 @@ cask 'dafont-need-for-font' do
     url 'http://dl.dafont.com/dl/?f=need_for_font'
     name 'Need for Font'
     homepage 'http://www.dafont.com/need-for-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Need for Font.ttf'
 end

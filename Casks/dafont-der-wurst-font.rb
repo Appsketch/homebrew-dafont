@@ -5,7 +5,6 @@ cask 'dafont-der-wurst-font' do
     url 'http://dl.dafont.com/dl/?f=der_wurst_font'
     name 'Der Wurst Font'
     homepage 'http://www.dafont.com/der-wurst-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Der Wurst Font.ttf'
 end

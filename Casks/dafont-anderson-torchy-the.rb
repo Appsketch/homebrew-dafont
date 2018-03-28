@@ -5,7 +5,6 @@ cask 'dafont-anderson-torchy-the' do
     url 'http://dl.dafont.com/dl/?f=anderson_torchy_the'
     name 'Anderson Torchy the Battery Boy'
     homepage 'http://www.dafont.com/anderson-torchy-the.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anderson Torchy The Battery Boy.ttf'
 end

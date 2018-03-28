@@ -5,7 +5,6 @@ cask 'dafont-opificio-serif' do
     url 'http://dl.dafont.com/dl/?f=opificio_serif'
     name 'Opificio Serif'
     homepage 'http://www.dafont.com/opificio-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Opificio-Serif-Bold.ttf'
     font 'Opificio-Serif-regular.ttf'

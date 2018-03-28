@@ -5,7 +5,6 @@ cask 'dafont-rightbrew' do
     url 'http://dl.dafont.com/dl/?f=rightbrew'
     name 'Right Brew'
     homepage 'http://www.dafont.com/rightbrew.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RightBrew.ttf'
 end

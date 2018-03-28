@@ -5,7 +5,6 @@ cask 'dafont-rns-underwood' do
     url 'http://dl.dafont.com/dl/?f=rns_underwood'
     name 'RNS Underwood'
     homepage 'http://www.dafont.com/rns-underwood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RNS_Underwood.otf'
 end

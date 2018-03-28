@@ -5,7 +5,6 @@ cask 'dafont-coverack' do
     url 'http://dl.dafont.com/dl/?f=coverack'
     name 'Coverack'
     homepage 'http://www.dafont.com/coverack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COD_____.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pizzadude-fat-outli' do
     url 'http://dl.dafont.com/dl/?f=pizzadude_fat_outli'
     name 'Pizzadude Fat Outline'
     homepage 'http://www.dafont.com/pizzadude-fat-outli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIZZADUDEFATOUTLINE.ttf'
 end

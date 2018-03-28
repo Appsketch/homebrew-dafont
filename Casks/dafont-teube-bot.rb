@@ -5,7 +5,6 @@ cask 'dafont-teube-bot' do
     url 'http://dl.dafont.com/dl/?f=teube_bot'
     name 'Teub&eacute; Bot'
     homepage 'http://www.dafont.com/teube-bot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'teubbot.ttf'
 end

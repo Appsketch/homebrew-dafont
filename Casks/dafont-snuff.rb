@@ -5,7 +5,6 @@ cask 'dafont-snuff' do
     url 'http://dl.dafont.com/dl/?f=snuff'
     name 'Snuff'
     homepage 'http://www.dafont.com/snuff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snuff.ttf'
 end

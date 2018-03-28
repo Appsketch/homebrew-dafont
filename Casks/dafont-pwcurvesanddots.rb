@@ -5,7 +5,6 @@ cask 'dafont-pwcurvesanddots' do
     url 'http://dl.dafont.com/dl/?f=pwcurvesanddots'
     name 'PW Curves And Dots'
     homepage 'http://www.dafont.com/pwcurvesanddots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWCurvesAndDots.ttf'
 end

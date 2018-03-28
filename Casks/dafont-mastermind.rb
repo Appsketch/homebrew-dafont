@@ -5,7 +5,6 @@ cask 'dafont-mastermind' do
     url 'http://dl.dafont.com/dl/?f=mastermind'
     name 'Mastermind'
     homepage 'http://www.dafont.com/mastermind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mastermind.ttf'
 end

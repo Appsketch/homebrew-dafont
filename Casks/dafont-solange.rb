@@ -5,7 +5,6 @@ cask 'dafont-solange' do
     url 'http://dl.dafont.com/dl/?f=solange'
     name 'Solange'
     homepage 'http://www.dafont.com/solange.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Solange C.ttf'
     font 'Solange seethrough.ttf'

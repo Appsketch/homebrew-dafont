@@ -5,7 +5,6 @@ cask 'dafont-mikeodial' do
     url 'http://dl.dafont.com/dl/?f=mikeodial'
     name 'Mikeodial'
     homepage 'http://www.dafont.com/mikeodial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mikeodial.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blzee' do
     url 'http://dl.dafont.com/dl/?f=blzee'
     name 'Blzee'
     homepage 'http://www.dafont.com/blzee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blzee.ttf'
 end

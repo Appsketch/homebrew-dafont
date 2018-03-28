@@ -5,7 +5,6 @@ cask 'dafont-ml-roxy-initials-kk' do
     url 'http://dl.dafont.com/dl/?f=ml_roxy_initials_kk'
     name 'ML Roxy Initials KK'
     homepage 'http://www.dafont.com/ml-roxy-initials-kk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ML Roxy Initials KK.ttf'
 end

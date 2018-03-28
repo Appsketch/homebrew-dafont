@@ -5,7 +5,6 @@ cask 'dafont-grind-zero' do
     url 'http://dl.dafont.com/dl/?f=grind_zero'
     name 'Grind Zero'
     homepage 'http://www.dafont.com/grind-zero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grind Zero Bold Italic.ttf'
     font 'Grind Zero.ttf'

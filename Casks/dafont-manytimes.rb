@@ -5,7 +5,6 @@ cask 'dafont-manytimes' do
     url 'http://dl.dafont.com/dl/?f=manytimes'
     name 'Many Times'
     homepage 'http://www.dafont.com/manytimes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ManyTimes.ttf'
 end

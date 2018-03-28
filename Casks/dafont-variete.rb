@@ -5,7 +5,6 @@ cask 'dafont-variete' do
     url 'http://dl.dafont.com/dl/?f=variete'
     name 'Vari&eacute;t&eacute;'
     homepage 'http://www.dafont.com/variete.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'barnroof.ttf'
     font 'Variet Artist.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-toms-handwritten-new' do
     url 'http://dl.dafont.com/dl/?f=toms_handwritten_new'
     name 'Toms Handwritten'
     homepage 'http://www.dafont.com/toms-handwritten-new.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'toms handwritten new.ttf'
 end

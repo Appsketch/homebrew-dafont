@@ -5,7 +5,6 @@ cask 'dafont-stereo-hifi' do
     url 'http://dl.dafont.com/dl/?f=stereo_hifi'
     name 'Stereo Hi-Fi'
     homepage 'http://www.dafont.com/stereo-hifi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STEREOHI.TTF'
 end

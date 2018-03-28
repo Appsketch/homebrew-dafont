@@ -5,7 +5,6 @@ cask 'dafont-cloutierscript' do
     url 'http://dl.dafont.com/dl/?f=cloutierscript'
     name 'Cloutier Script'
     homepage 'http://www.dafont.com/cloutierscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CloutierScript-Regular.ttf'
 end

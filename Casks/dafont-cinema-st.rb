@@ -5,7 +5,6 @@ cask 'dafont-cinema-st' do
     url 'http://dl.dafont.com/dl/?f=cinema_st'
     name 'Cinema ST'
     homepage 'http://www.dafont.com/cinema-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cinema_st.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-argel-font' do
     url 'http://dl.dafont.com/dl/?f=argel_font'
     name 'Argel Font'
     homepage 'http://www.dafont.com/argel-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Argel Font Trial.otf'
 end

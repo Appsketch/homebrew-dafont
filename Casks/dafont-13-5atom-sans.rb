@@ -5,7 +5,6 @@ cask 'dafont-13-5atom-sans' do
     url 'http://dl.dafont.com/dl/?f=13_5atom_sans'
     name '13/5 Atom Sans'
     homepage 'http://www.dafont.com/13-5atom-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '135atom_sans.ttf'
 end

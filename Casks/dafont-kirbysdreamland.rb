@@ -5,7 +5,6 @@ cask 'dafont-kirbysdreamland' do
     url 'http://dl.dafont.com/dl/?f=kirbysdreamland'
     name 'Kirbys Dreamland'
     homepage 'http://www.dafont.com/kirbysdreamland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KirbysDreamland.ttf'
 end

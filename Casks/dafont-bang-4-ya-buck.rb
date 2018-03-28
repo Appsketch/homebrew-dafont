@@ -5,7 +5,6 @@ cask 'dafont-bang-4-ya-buck' do
     url 'http://dl.dafont.com/dl/?f=bang_4_ya_buck'
     name 'Bang 4 Ya Buck'
     homepage 'http://www.dafont.com/bang-4-ya-buck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bang 4 Ya Buck.ttf'
 end

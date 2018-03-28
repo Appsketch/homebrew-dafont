@@ -5,7 +5,6 @@ cask 'dafont-arcade-video-games' do
     url 'http://dl.dafont.com/dl/?f=arcade_video_games'
     name 'Arcade Video Games'
     homepage 'http://www.dafont.com/arcade-video-games.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArcadeVideoGames.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jasmine-reminiscentse' do
     url 'http://dl.dafont.com/dl/?f=jasmine_reminiscentse'
     name 'Jasmine Reminiscentse'
     homepage 'http://www.dafont.com/jasmine-reminiscentse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jasmine Reminiscentse Bold.ttf'
     font 'Jasmine Reminiscentse Light.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-chalk-marks' do
     url 'http://dl.dafont.com/dl/?f=chalk_marks'
     name 'Chalk Marks'
     homepage 'http://www.dafont.com/chalk-marks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chalkmars_bold_sample.otf'
     font 'chalkmars_regular_sample.otf'

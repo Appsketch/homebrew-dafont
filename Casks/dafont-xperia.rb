@@ -5,7 +5,6 @@ cask 'dafont-xperia' do
     url 'http://dl.dafont.com/dl/?f=xperia'
     name 'Xperia'
     homepage 'http://www.dafont.com/xperia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xperia.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rise-inside' do
     url 'http://dl.dafont.com/dl/?f=rise_inside'
     name 'Rise Inside'
     homepage 'http://www.dafont.com/rise-inside.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RiseInsidE-Regular.otf'
 end

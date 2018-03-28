@@ -5,7 +5,6 @@ cask 'dafont-crossroads' do
     url 'http://dl.dafont.com/dl/?f=crossroads'
     name 'Crossroads'
     homepage 'http://www.dafont.com/crossroads.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crossroads.ttf'
 end

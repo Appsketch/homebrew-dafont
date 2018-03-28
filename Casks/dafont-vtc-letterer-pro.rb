@@ -5,7 +5,6 @@ cask 'dafont-vtc-letterer-pro' do
     url 'http://dl.dafont.com/dl/?f=vtc_letterer_pro'
     name 'VTC Letterer Pro'
     homepage 'http://www.dafont.com/vtc-letterer-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC Letterer Pro Regular.ttf'
 end

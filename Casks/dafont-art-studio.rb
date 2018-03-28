@@ -5,7 +5,6 @@ cask 'dafont-art-studio' do
     url 'http://dl.dafont.com/dl/?f=art_studio'
     name 'Art Studio'
     homepage 'http://www.dafont.com/art-studio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Art Studio.ttf'
 end

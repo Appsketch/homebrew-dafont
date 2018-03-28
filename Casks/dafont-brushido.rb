@@ -5,7 +5,6 @@ cask 'dafont-brushido' do
     url 'http://dl.dafont.com/dl/?f=brushido'
     name 'Brushido'
     homepage 'http://www.dafont.com/brushido.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brushido.ttf'
 end

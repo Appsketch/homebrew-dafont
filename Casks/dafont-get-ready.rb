@@ -5,7 +5,6 @@ cask 'dafont-get-ready' do
     url 'http://dl.dafont.com/dl/?f=get_ready'
     name 'Get Ready'
     homepage 'http://www.dafont.com/get-ready.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GET READY.ttf'
 end

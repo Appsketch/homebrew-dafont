@@ -5,7 +5,6 @@ cask 'dafont-berlin-email-serif' do
     url 'http://dl.dafont.com/dl/?f=berlin_email_serif'
     name 'Berlin Email Serif'
     homepage 'http://www.dafont.com/berlin-email-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Berlin Email Serif Semibold.ttf'
     font 'Berlin Email Serif Shadow.ttf'

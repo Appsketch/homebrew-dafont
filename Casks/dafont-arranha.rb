@@ -5,7 +5,6 @@ cask 'dafont-arranha' do
     url 'http://dl.dafont.com/dl/?f=arranha'
     name 'Arranha'
     homepage 'http://www.dafont.com/arranha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARRANHA_.TTF'
 end

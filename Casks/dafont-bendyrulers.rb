@@ -5,7 +5,6 @@ cask 'dafont-bendyrulers' do
     url 'http://dl.dafont.com/dl/?f=bendyrulers'
     name 'Bendy Rulers'
     homepage 'http://www.dafont.com/bendyrulers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BendyRulers.ttf'
 end

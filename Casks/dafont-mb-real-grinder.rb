@@ -5,7 +5,6 @@ cask 'dafont-mb-real-grinder' do
     url 'http://dl.dafont.com/dl/?f=mb_real_grinder'
     name 'MB Real Grinder'
     homepage 'http://www.dafont.com/mb-real-grinder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-Real_Grinder.ttf'
 end

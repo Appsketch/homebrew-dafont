@@ -5,7 +5,6 @@ cask 'dafont-ornamind' do
     url 'http://dl.dafont.com/dl/?f=ornamind'
     name 'Ornamind'
     homepage 'http://www.dafont.com/ornamind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ornamind.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ghostly-prints' do
     url 'http://dl.dafont.com/dl/?f=ghostly_prints'
     name 'Ghostly Prints'
     homepage 'http://www.dafont.com/ghostly-prints.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ghostly Prints Italic.otf'
     font 'Ghostly Prints.otf'

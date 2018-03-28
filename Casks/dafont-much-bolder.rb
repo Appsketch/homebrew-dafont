@@ -5,7 +5,6 @@ cask 'dafont-much-bolder' do
     url 'http://dl.dafont.com/dl/?f=much_bolder'
     name 'Much Bolder'
     homepage 'http://www.dafont.com/much-bolder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'muchbolder.otf'
 end

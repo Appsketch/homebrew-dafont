@@ -5,7 +5,6 @@ cask 'dafont-hidden-meanings' do
     url 'http://dl.dafont.com/dl/?f=hidden_meanings'
     name 'Hidden meanings'
     homepage 'http://www.dafont.com/hidden-meanings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hidden meanings.ttf'
 end

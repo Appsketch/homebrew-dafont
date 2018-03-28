@@ -5,7 +5,6 @@ cask 'dafont-rundschrift-cat' do
     url 'http://dl.dafont.com/dl/?f=rundschrift_cat'
     name 'Rundschrift CAT'
     homepage 'http://www.dafont.com/rundschrift-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rundschrift.ttf'
 end

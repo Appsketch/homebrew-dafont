@@ -5,7 +5,6 @@ cask 'dafont-blackinitialtext' do
     url 'http://dl.dafont.com/dl/?f=blackinitialtext'
     name 'Black Initial Text'
     homepage 'http://www.dafont.com/blackinitialtext.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackInitialText.ttf'
 end

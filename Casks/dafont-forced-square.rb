@@ -5,7 +5,6 @@ cask 'dafont-forced-square' do
     url 'http://dl.dafont.com/dl/?f=forced_square'
     name 'Forced Square'
     homepage 'http://www.dafont.com/forced-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FORCED SQUARE.ttf'
 end

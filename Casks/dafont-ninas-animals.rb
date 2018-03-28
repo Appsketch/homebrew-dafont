@@ -5,7 +5,6 @@ cask 'dafont-ninas-animals' do
     url 'http://dl.dafont.com/dl/?f=ninas_animals'
     name 'Nina&#039;s Animals'
     homepage 'http://www.dafont.com/ninas-animals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ninas.ttf'
 end

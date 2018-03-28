@@ -5,7 +5,6 @@ cask 'dafont-freakymanor' do
     url 'http://dl.dafont.com/dl/?f=freakymanor'
     name 'Freaky Manor'
     homepage 'http://www.dafont.com/freakymanor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreakyManor.ttf'
 end

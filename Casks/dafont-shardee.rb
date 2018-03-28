@@ -5,7 +5,6 @@ cask 'dafont-shardee' do
     url 'http://dl.dafont.com/dl/?f=shardee'
     name 'Shardee'
     homepage 'http://www.dafont.com/shardee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shardee.ttf'
 end

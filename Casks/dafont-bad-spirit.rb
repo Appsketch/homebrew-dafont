@@ -5,7 +5,6 @@ cask 'dafont-bad-spirit' do
     url 'http://dl.dafont.com/dl/?f=bad_spirit'
     name 'Bad Spirit'
     homepage 'http://www.dafont.com/bad-spirit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BADSPIRIT.ttf'
     font 'SPIRIT &amp; GHOST.ttf'

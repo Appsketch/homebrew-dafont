@@ -5,7 +5,6 @@ cask 'dafont-magario' do
     url 'http://dl.dafont.com/dl/?f=magario'
     name 'Magario'
     homepage 'http://www.dafont.com/magario.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Magario.ttf'
 end

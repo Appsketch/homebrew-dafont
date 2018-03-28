@@ -5,7 +5,6 @@ cask 'dafont-flowers-for-you' do
     url 'http://dl.dafont.com/dl/?f=flowers_for_you'
     name 'Flowers for you'
     homepage 'http://www.dafont.com/flowers-for-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flowersforyou.otf'
 end

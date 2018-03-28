@@ -5,7 +5,6 @@ cask 'dafont-potama' do
     url 'http://dl.dafont.com/dl/?f=potama'
     name 'Potama'
     homepage 'http://www.dafont.com/potama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'potama.otf'
 end

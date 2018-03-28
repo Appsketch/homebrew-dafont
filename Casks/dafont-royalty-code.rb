@@ -5,7 +5,6 @@ cask 'dafont-royalty-code' do
     url 'http://dl.dafont.com/dl/?f=royalty_code'
     name 'Royalty Code'
     homepage 'http://www.dafont.com/royalty-code.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Royalty-Code.ttf'
 end

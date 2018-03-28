@@ -5,7 +5,6 @@ cask 'dafont-duster-ab' do
     url 'http://dl.dafont.com/dl/?f=duster_ab'
     name 'Duster AB'
     homepage 'http://www.dafont.com/duster-ab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Duster Regular.ttf'
     font 'Duster Thick.ttf'

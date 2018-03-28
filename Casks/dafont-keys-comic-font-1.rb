@@ -5,7 +5,6 @@ cask 'dafont-keys-comic-font-1' do
     url 'http://dl.dafont.com/dl/?f=keys_comic_font_1'
     name 'Key&#039;s Comic'
     homepage 'http://www.dafont.com/keys-comic-font-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Key Comic.ttf'
 end

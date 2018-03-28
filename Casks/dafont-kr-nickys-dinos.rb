@@ -5,7 +5,6 @@ cask 'dafont-kr-nickys-dinos' do
     url 'http://dl.dafont.com/dl/?f=kr_nickys_dinos'
     name 'KR Nicky&#039;s Dinos'
     homepage 'http://www.dafont.com/kr-nickys-dinos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Nickys Dinos.ttf'
 end

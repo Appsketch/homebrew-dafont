@@ -5,7 +5,6 @@ cask 'dafont-helvetifrankdingbats' do
     url 'http://dl.dafont.com/dl/?f=helvetifrankdingbats'
     name 'Helvetifrank Dingbats'
     homepage 'http://www.dafont.com/helvetifrankdingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HelvetifrankDingbats.ttf'
 end

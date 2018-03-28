@@ -5,7 +5,6 @@ cask 'dafont-newunderground' do
     url 'http://dl.dafont.com/dl/?f=newunderground'
     name 'New Underground'
     homepage 'http://www.dafont.com/newunderground.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NewUnderground.ttf'
 end

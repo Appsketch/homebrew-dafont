@@ -5,7 +5,6 @@ cask 'dafont-paper-plane' do
     url 'http://dl.dafont.com/dl/?f=paper_plane'
     name 'Paper Plane'
     homepage 'http://www.dafont.com/paper-plane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paper Plane Hollow.ttf'
     font 'Paper Plane Light.ttf'

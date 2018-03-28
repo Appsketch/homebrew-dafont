@@ -5,7 +5,6 @@ cask 'dafont-rokyodil' do
     url 'http://dl.dafont.com/dl/?f=rokyodil'
     name 'Rokyodil'
     homepage 'http://www.dafont.com/rokyodil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rokyodil.ttf'
 end

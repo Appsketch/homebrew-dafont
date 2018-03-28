@@ -5,7 +5,6 @@ cask 'dafont-bittersweet' do
     url 'http://dl.dafont.com/dl/?f=bittersweet'
     name 'Bittersweet NF'
     homepage 'http://www.dafont.com/bittersweet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bittersweet NF.ttf'
 end

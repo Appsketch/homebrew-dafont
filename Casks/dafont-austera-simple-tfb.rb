@@ -5,7 +5,6 @@ cask 'dafont-austera-simple-tfb' do
     url 'http://dl.dafont.com/dl/?f=austera_simple_tfb'
     name 'Austera Simple TFB'
     homepage 'http://www.dafont.com/austera-simple-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austera Simple tfb.ttf'
 end

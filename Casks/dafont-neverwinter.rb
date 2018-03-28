@@ -5,7 +5,6 @@ cask 'dafont-neverwinter' do
     url 'http://dl.dafont.com/dl/?f=neverwinter'
     name 'Neverwinter'
     homepage 'http://www.dafont.com/neverwinter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neverwinter Bold Italic.otf'
     font 'Neverwinter Bold.otf'

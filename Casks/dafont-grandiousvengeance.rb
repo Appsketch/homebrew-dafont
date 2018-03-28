@@ -5,7 +5,6 @@ cask 'dafont-grandiousvengeance' do
     url 'http://dl.dafont.com/dl/?f=grandiousvengeance'
     name 'Grandious Vengeance'
     homepage 'http://www.dafont.com/grandiousvengeance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrandiousVengeance.ttf'
 end

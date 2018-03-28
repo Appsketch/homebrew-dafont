@@ -5,7 +5,6 @@ cask 'dafont-dubstep-cadence' do
     url 'http://dl.dafont.com/dl/?f=dubstep_cadence'
     name 'Dubstep Cadence'
     homepage 'http://www.dafont.com/dubstep-cadence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dubstep Cadence.otf'
 end

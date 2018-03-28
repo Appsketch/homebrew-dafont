@@ -5,7 +5,6 @@ cask 'dafont-throrian' do
     url 'http://dl.dafont.com/dl/?f=throrian'
     name 'Throrian'
     homepage 'http://www.dafont.com/throrian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Throrian_Commonface.ttf'
     font 'Throrian_Formal.ttf'

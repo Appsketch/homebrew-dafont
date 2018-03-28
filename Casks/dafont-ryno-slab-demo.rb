@@ -5,7 +5,6 @@ cask 'dafont-ryno-slab-demo' do
     url 'http://dl.dafont.com/dl/?f=ryno_slab_demo'
     name 'Ryno Slab'
     homepage 'http://www.dafont.com/ryno-slab-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ryno slab caps.ttf'
 end

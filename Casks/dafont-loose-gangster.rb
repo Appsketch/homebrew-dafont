@@ -5,7 +5,6 @@ cask 'dafont-loose-gangster' do
     url 'http://dl.dafont.com/dl/?f=loose_gangster'
     name 'LoOse Gangster'
     homepage 'http://www.dafont.com/loose-gangster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mafia.ttf'
 end

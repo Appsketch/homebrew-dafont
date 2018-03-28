@@ -5,7 +5,6 @@ cask 'dafont-autodestruction' do
     url 'http://dl.dafont.com/dl/?f=autodestruction'
     name 'AutoDestruction'
     homepage 'http://www.dafont.com/autodestruction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AutoDestruction.ttf'
 end

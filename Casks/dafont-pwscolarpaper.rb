@@ -5,7 +5,6 @@ cask 'dafont-pwscolarpaper' do
     url 'http://dl.dafont.com/dl/?f=pwscolarpaper'
     name 'PW Scolarpaper'
     homepage 'http://www.dafont.com/pwscolarpaper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWScolarpaper.ttf'
 end

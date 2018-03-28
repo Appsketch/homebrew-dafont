@@ -5,7 +5,6 @@ cask 'dafont-prasent-60' do
     url 'http://dl.dafont.com/dl/?f=prasent_60'
     name 'Pr&auml;sent 60'
     homepage 'http://www.dafont.com/prasent-60.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Praesent 60.ttf'
 end

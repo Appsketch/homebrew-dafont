@@ -5,7 +5,6 @@ cask 'dafont-manolete' do
     url 'http://dl.dafont.com/dl/?f=manolete'
     name 'Manolete'
     homepage 'http://www.dafont.com/manolete.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MANOLETE.ttf'
 end

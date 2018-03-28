@@ -5,7 +5,6 @@ cask 'dafont-y2k-analog-legacy' do
     url 'http://dl.dafont.com/dl/?f=y2k_analog_legacy'
     name 'Y2K Analog Legacy'
     homepage 'http://www.dafont.com/y2k-analog-legacy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Y2K_analog_legacy_italic.ttf'
     font 'Y2K_analog_legacy.ttf'

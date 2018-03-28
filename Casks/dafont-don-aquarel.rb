@@ -5,7 +5,6 @@ cask 'dafont-don-aquarel' do
     url 'http://dl.dafont.com/dl/?f=don_aquarel'
     name 'Don Aquarel'
     homepage 'http://www.dafont.com/don-aquarel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Don Aquarel.ttf'
 end

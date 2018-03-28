@@ -5,7 +5,6 @@ cask 'dafont-nationalyze' do
     url 'http://dl.dafont.com/dl/?f=nationalyze'
     name 'Nationalyze'
     homepage 'http://www.dafont.com/nationalyze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nationalyze-ALP.ttf'
 end

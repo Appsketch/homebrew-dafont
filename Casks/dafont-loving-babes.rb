@@ -5,7 +5,6 @@ cask 'dafont-loving-babes' do
     url 'http://dl.dafont.com/dl/?f=loving_babes'
     name 'Loving Babes'
     homepage 'http://www.dafont.com/loving-babes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOVBABE_.TTF'
 end

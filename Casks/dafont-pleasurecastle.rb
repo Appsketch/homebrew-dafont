@@ -5,7 +5,6 @@ cask 'dafont-pleasurecastle' do
     url 'http://dl.dafont.com/dl/?f=pleasurecastle'
     name 'Pleasure Castle'
     homepage 'http://www.dafont.com/pleasurecastle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PleasureCastleMarble.ttf'
     font 'PleasureCastleStandard.ttf'

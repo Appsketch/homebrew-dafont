@@ -5,7 +5,6 @@ cask 'dafont-carnevalee-freakshow' do
     url 'http://dl.dafont.com/dl/?f=carnevalee_freakshow'
     name 'Carnevalee Freakshow'
     homepage 'http://www.dafont.com/carnevalee-freakshow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carnevalee Freakshow.ttf'
 end

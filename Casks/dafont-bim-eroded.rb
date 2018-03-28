@@ -5,7 +5,6 @@ cask 'dafont-bim-eroded' do
     url 'http://dl.dafont.com/dl/?f=bim_eroded'
     name 'Bim eroded'
     homepage 'http://www.dafont.com/bim-eroded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bim eroded free promo.ttf'
 end

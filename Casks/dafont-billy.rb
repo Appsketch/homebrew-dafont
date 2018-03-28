@@ -5,7 +5,6 @@ cask 'dafont-billy' do
     url 'http://dl.dafont.com/dl/?f=billy'
     name 'Billy'
     homepage 'http://www.dafont.com/billy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simvip Billy.ttf'
 end

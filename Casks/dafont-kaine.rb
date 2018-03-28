@@ -5,7 +5,6 @@ cask 'dafont-kaine' do
     url 'http://dl.dafont.com/dl/?f=kaine'
     name 'Kaine Block'
     homepage 'http://www.dafont.com/kaine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kaine_block.ttf'
 end

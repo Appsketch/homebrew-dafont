@@ -5,7 +5,6 @@ cask 'dafont-mucha' do
     url 'http://dl.dafont.com/dl/?f=mucha'
     name 'Mucha'
     homepage 'http://www.dafont.com/mucha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mucha.ttf'
 end

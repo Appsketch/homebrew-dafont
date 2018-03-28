@@ -5,7 +5,6 @@ cask 'dafont-libertysails' do
     url 'http://dl.dafont.com/dl/?f=libertysails'
     name 'Liberty Sails'
     homepage 'http://www.dafont.com/libertysails.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LibertySails.ttf'
 end

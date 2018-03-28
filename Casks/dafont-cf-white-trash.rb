@@ -5,7 +5,6 @@ cask 'dafont-cf-white-trash' do
     url 'http://dl.dafont.com/dl/?f=cf_white_trash'
     name 'CF White Trash'
     homepage 'http://www.dafont.com/cf-white-trash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFWhiteTrash-Regular.ttf'
 end

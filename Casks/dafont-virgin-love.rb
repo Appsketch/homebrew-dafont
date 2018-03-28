@@ -5,7 +5,6 @@ cask 'dafont-virgin-love' do
     url 'http://dl.dafont.com/dl/?f=virgin_love'
     name 'Virgin Love'
     homepage 'http://www.dafont.com/virgin-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'virginlo.ttf'
 end

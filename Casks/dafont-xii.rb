@@ -5,7 +5,6 @@ cask 'dafont-xii' do
     url 'http://dl.dafont.com/dl/?f=xii'
     name 'Xii'
     homepage 'http://www.dafont.com/xii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xii.ttf'
 end

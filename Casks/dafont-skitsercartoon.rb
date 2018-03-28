@@ -5,7 +5,6 @@ cask 'dafont-skitsercartoon' do
     url 'http://dl.dafont.com/dl/?f=skitsercartoon'
     name 'Skitser Cartoon'
     homepage 'http://www.dafont.com/skitsercartoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkitserCartoon.ttf'
 end

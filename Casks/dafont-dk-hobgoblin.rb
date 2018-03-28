@@ -5,7 +5,6 @@ cask 'dafont-dk-hobgoblin' do
     url 'http://dl.dafont.com/dl/?f=dk_hobgoblin'
     name 'DK Hobgoblin'
     homepage 'http://www.dafont.com/dk-hobgoblin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Hobgoblin.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-a-stitch-plus-nine' do
     url 'http://dl.dafont.com/dl/?f=a_stitch_plus_nine'
     name 'A Stitch Plus Nine'
     homepage 'http://www.dafont.com/a-stitch-plus-nine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A Stitch Plus Nine.ttf'
 end

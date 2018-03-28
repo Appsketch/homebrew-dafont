@@ -5,7 +5,6 @@ cask 'dafont-running-scared' do
     url 'http://dl.dafont.com/dl/?f=running_scared'
     name 'Running Scared'
     homepage 'http://www.dafont.com/running-scared.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Running Scared.otf'
 end

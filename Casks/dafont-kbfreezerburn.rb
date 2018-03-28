@@ -5,7 +5,6 @@ cask 'dafont-kbfreezerburn' do
     url 'http://dl.dafont.com/dl/?f=kbfreezerburn'
     name 'KB Freezer Burn'
     homepage 'http://www.dafont.com/kbfreezerburn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBFreezerBurn.ttf'
 end

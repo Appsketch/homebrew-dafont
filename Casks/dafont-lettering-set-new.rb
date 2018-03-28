@@ -5,7 +5,6 @@ cask 'dafont-lettering-set-new' do
     url 'http://dl.dafont.com/dl/?f=lettering_set_new'
     name 'Lettering Set New'
     homepage 'http://www.dafont.com/lettering-set-new.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lettering Set New.ttf'
     font 'LetteringSetNew-Italic.otf'

@@ -5,7 +5,6 @@ cask 'dafont-spdr02' do
     url 'http://dl.dafont.com/dl/?f=spdr02'
     name 'Spdr02'
     homepage 'http://www.dafont.com/spdr02.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPDR02__.TTF'
 end

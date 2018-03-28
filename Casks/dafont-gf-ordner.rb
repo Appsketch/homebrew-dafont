@@ -5,7 +5,6 @@ cask 'dafont-gf-ordner' do
     url 'http://dl.dafont.com/dl/?f=gf_ordner'
     name 'GF Ordner'
     homepage 'http://www.dafont.com/gf-ordner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ordner_n.ttf'
     font 'Ordnerin.ttf'

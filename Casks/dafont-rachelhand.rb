@@ -5,7 +5,6 @@ cask 'dafont-rachelhand' do
     url 'http://dl.dafont.com/dl/?f=rachelhand'
     name 'Rachelhand'
     homepage 'http://www.dafont.com/rachelhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rachelhand.ttf'
 end

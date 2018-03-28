@@ -5,7 +5,6 @@ cask 'dafont-dk-pinkus' do
     url 'http://dl.dafont.com/dl/?f=dk_pinkus'
     name 'DK Pinkus'
     homepage 'http://www.dafont.com/dk-pinkus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Pinkus.otf'
 end

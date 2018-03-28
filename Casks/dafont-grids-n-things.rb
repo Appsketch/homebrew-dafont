@@ -5,7 +5,6 @@ cask 'dafont-grids-n-things' do
     url 'http://dl.dafont.com/dl/?f=grids_n_things'
     name 'Grids n Things'
     homepage 'http://www.dafont.com/grids-n-things.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gridsnthings.ttf'
     font 'gridsnthings2.ttf'

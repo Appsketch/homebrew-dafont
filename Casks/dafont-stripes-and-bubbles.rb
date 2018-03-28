@@ -5,7 +5,6 @@ cask 'dafont-stripes-and-bubbles' do
     url 'http://dl.dafont.com/dl/?f=stripes_and_bubbles'
     name 'Stripes and bubbles'
     homepage 'http://www.dafont.com/stripes-and-bubbles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stripes_and_bubbles.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chokoshtroko' do
     url 'http://dl.dafont.com/dl/?f=chokoshtroko'
     name 'Chokoshtroko'
     homepage 'http://www.dafont.com/chokoshtroko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chokoshtroko.ttf'
 end

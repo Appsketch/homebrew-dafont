@@ -5,7 +5,6 @@ cask 'dafont-flottflott' do
     url 'http://dl.dafont.com/dl/?f=flottflott'
     name 'Flottflott'
     homepage 'http://www.dafont.com/flottflott.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flottflott.ttf'
 end

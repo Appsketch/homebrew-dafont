@@ -5,7 +5,6 @@ cask 'dafont-hipchick' do
     url 'http://dl.dafont.com/dl/?f=hipchick'
     name 'Hipchick'
     homepage 'http://www.dafont.com/hipchick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HipChick.ttf'
 end

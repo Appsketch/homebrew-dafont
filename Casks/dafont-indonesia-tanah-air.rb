@@ -5,7 +5,6 @@ cask 'dafont-indonesia-tanah-air' do
     url 'http://dl.dafont.com/dl/?f=indonesia_tanah_air'
     name 'Indonesia Tanah Air'
     homepage 'http://www.dafont.com/indonesia-tanah-air.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Indonesia Tanah Air Beta.ttf'
 end

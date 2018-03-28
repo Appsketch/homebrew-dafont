@@ -5,7 +5,6 @@ cask 'dafont-rose-charming' do
     url 'http://dl.dafont.com/dl/?f=rose_charming'
     name 'Rose Charming'
     homepage 'http://www.dafont.com/rose-charming.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROSE CHARMING.ttf'
 end

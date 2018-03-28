@@ -5,7 +5,6 @@ cask 'dafont-diane-de-france' do
     url 'http://dl.dafont.com/dl/?f=diane_de_france'
     name 'Diane de France'
     homepage 'http://www.dafont.com/diane-de-france.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diane de France.ttf'
 end

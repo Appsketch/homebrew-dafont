@@ -5,7 +5,6 @@ cask 'dafont-scoolar-tfb' do
     url 'http://dl.dafont.com/dl/?f=scoolar_tfb'
     name 'Scoolar TFB'
     homepage 'http://www.dafont.com/scoolar-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scoolar tfb.ttf'
 end

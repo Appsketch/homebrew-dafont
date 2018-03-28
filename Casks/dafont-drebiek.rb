@@ -5,7 +5,6 @@ cask 'dafont-drebiek' do
     url 'http://dl.dafont.com/dl/?f=drebiek'
     name 'Drebiek'
     homepage 'http://www.dafont.com/drebiek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drebiek Expanded Italic.otf'
     font 'Drebiek Expanded Outline Italic.otf'

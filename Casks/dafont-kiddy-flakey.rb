@@ -5,7 +5,6 @@ cask 'dafont-kiddy-flakey' do
     url 'http://dl.dafont.com/dl/?f=kiddy_flakey'
     name 'Kiddy Flakey'
     homepage 'http://www.dafont.com/kiddy-flakey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kiddy Flakey.ttf'
 end

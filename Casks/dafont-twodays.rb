@@ -5,7 +5,6 @@ cask 'dafont-twodays' do
     url 'http://dl.dafont.com/dl/?f=twodays'
     name 'Twodays'
     homepage 'http://www.dafont.com/twodays.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'twodays.ttf'
 end

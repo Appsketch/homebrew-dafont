@@ -5,7 +5,6 @@ cask 'dafont-jelly-belly' do
     url 'http://dl.dafont.com/dl/?f=jelly_belly'
     name 'Jelly Belly'
     homepage 'http://www.dafont.com/jelly-belly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JELLYBELLY.TTF'
 end

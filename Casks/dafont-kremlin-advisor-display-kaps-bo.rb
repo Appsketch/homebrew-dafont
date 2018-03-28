@@ -5,7 +5,6 @@ cask 'dafont-kremlin-advisor-display-kaps-bo' do
     url 'http://dl.dafont.com/dl/?f=kremlin_advisor_display_kaps_bo'
     name 'Kremlin Advisor Display Kaps'
     homepage 'http://www.dafont.com/kremlin-advisor-display-kaps-bo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Advisor Display Kaps Bold.ttf'
 end

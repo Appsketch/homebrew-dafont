@@ -5,7 +5,6 @@ cask 'dafont-platoon' do
     url 'http://dl.dafont.com/dl/?f=platoon'
     name 'Platoon'
     homepage 'http://www.dafont.com/platoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLATOoN.ttf'
 end

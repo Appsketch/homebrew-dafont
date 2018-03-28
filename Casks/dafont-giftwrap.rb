@@ -5,7 +5,6 @@ cask 'dafont-giftwrap' do
     url 'http://dl.dafont.com/dl/?f=giftwrap'
     name 'Gift Wrap'
     homepage 'http://www.dafont.com/giftwrap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GiftWrap.ttf'
 end

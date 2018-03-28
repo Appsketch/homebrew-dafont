@@ -5,7 +5,6 @@ cask 'dafont-transuranium' do
     url 'http://dl.dafont.com/dl/?f=transuranium'
     name 'Transuranium'
     homepage 'http://www.dafont.com/transuranium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trans___.ttf'
 end

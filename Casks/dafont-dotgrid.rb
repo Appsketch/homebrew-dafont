@@ -5,7 +5,6 @@ cask 'dafont-dotgrid' do
     url 'http://dl.dafont.com/dl/?f=dotgrid'
     name 'Dotgrid'
     homepage 'http://www.dafont.com/dotgrid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dotgrid.ttf'
 end

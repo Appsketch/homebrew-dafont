@@ -5,7 +5,6 @@ cask 'dafont-berry-rotunda' do
     url 'http://dl.dafont.com/dl/?f=berry_rotunda'
     name 'Berry Rotunda'
     homepage 'http://www.dafont.com/berry-rotunda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Berry Rotunda.ttf'
 end

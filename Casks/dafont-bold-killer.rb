@@ -5,7 +5,6 @@ cask 'dafont-bold-killer' do
     url 'http://dl.dafont.com/dl/?f=bold_killer'
     name 'Bold Killer'
     homepage 'http://www.dafont.com/bold-killer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bold Killer.ttf'
 end

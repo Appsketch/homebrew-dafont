@@ -5,7 +5,6 @@ cask 'dafont-gtek' do
     url 'http://dl.dafont.com/dl/?f=gtek'
     name 'Gtek'
     homepage 'http://www.dafont.com/gtek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gtek Regular (inclinadas).ttf'
 end

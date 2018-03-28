@@ -5,7 +5,6 @@ cask 'dafont-vtks-skulls' do
     url 'http://dl.dafont.com/dl/?f=vtks_skulls'
     name 'VTKS Skulls'
     homepage 'http://www.dafont.com/vtks-skulls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS skulls.ttf'
 end

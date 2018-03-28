@@ -5,7 +5,6 @@ cask 'dafont-vintage-college-dept-worn' do
     url 'http://dl.dafont.com/dl/?f=vintage_college_dept_worn'
     name 'Vintage College Dept Worn'
     homepage 'http://www.dafont.com/vintage-college-dept-worn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VINTAGE COLLEGE DEPT_worn.otf'
 end

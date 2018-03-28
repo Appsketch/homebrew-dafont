@@ -5,7 +5,6 @@ cask 'dafont-pwroundedscratch' do
     url 'http://dl.dafont.com/dl/?f=pwroundedscratch'
     name 'PW Rounded Scratch'
     homepage 'http://www.dafont.com/pwroundedscratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWRoundedScratch.ttf'
 end

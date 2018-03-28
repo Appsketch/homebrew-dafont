@@ -5,7 +5,6 @@ cask 'dafont-aliencons-two' do
     url 'http://dl.dafont.com/dl/?f=aliencons_two'
     name 'Aliencons Two'
     homepage 'http://www.dafont.com/aliencons-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aliencons two.ttf'
 end

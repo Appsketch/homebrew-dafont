@@ -5,7 +5,6 @@ cask 'dafont-mince' do
     url 'http://dl.dafont.com/dl/?f=mince'
     name 'Mince'
     homepage 'http://www.dafont.com/mince.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mince.ttf'
 end

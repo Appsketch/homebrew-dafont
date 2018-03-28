@@ -5,7 +5,6 @@ cask 'dafont-designersskulls' do
     url 'http://dl.dafont.com/dl/?f=designersskulls'
     name 'Designers Skulls'
     homepage 'http://www.dafont.com/designersskulls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Designers Skulls.TTF'
 end

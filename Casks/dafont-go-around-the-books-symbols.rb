@@ -5,7 +5,6 @@ cask 'dafont-go-around-the-books-symbols' do
     url 'http://dl.dafont.com/dl/?f=go_around_the_books_symbols'
     name 'Go around the books - Symbols'
     homepage 'http://www.dafont.com/go-around-the-books-symbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'go around the books - symbols.ttf'
 end

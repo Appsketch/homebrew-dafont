@@ -5,7 +5,6 @@ cask 'dafont-day-dreamer' do
     url 'http://dl.dafont.com/dl/?f=day_dreamer'
     name 'Day Dreamer'
     homepage 'http://www.dafont.com/day-dreamer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'daydreamer.ttf'
 end

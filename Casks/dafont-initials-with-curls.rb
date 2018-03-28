@@ -5,7 +5,6 @@ cask 'dafont-initials-with-curls' do
     url 'http://dl.dafont.com/dl/?f=initials_with_curls'
     name 'Initials With Curls'
     homepage 'http://www.dafont.com/initials-with-curls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InitialsWithACurl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-crass' do
     url 'http://dl.dafont.com/dl/?f=crass'
     name 'Crass'
     homepage 'http://www.dafont.com/crass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crass.ttf'
 end

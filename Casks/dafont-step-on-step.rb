@@ -5,7 +5,6 @@ cask 'dafont-step-on-step' do
     url 'http://dl.dafont.com/dl/?f=step_on_step'
     name 'Step On Step'
     homepage 'http://www.dafont.com/step-on-step.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'step_on_step.ttf'
 end

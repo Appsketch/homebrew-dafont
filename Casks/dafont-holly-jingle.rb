@@ -5,7 +5,6 @@ cask 'dafont-holly-jingle' do
     url 'http://dl.dafont.com/dl/?f=holly_jingle'
     name 'Holly Jingle'
     homepage 'http://www.dafont.com/holly-jingle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hollyjingle.ttf'
     font 'hollyjingle3d.ttf'

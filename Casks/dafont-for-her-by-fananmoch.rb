@@ -5,7 +5,6 @@ cask 'dafont-for-her-by-fananmoch' do
     url 'http://dl.dafont.com/dl/?f=for_her_by_fananmoch'
     name 'For Her By @fananmoch'
     homepage 'http://www.dafont.com/for-her-by-fananmoch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'For Her.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-almonte-snow' do
     url 'http://dl.dafont.com/dl/?f=almonte_snow'
     name 'Almonte Snow'
     homepage 'http://www.dafont.com/almonte-snow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'almonte snow.ttf'
 end

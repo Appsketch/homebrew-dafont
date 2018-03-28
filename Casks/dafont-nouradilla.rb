@@ -5,7 +5,6 @@ cask 'dafont-nouradilla' do
     url 'http://dl.dafont.com/dl/?f=nouradilla'
     name 'Nouradilla'
     homepage 'http://www.dafont.com/nouradilla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nouradilla Personal Use.ttf'
 end

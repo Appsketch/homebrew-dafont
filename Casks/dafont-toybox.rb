@@ -5,7 +5,6 @@ cask 'dafont-toybox' do
     url 'http://dl.dafont.com/dl/?f=toybox'
     name 'Toybox'
     homepage 'http://www.dafont.com/toybox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOYBOX__.TTF'
 end

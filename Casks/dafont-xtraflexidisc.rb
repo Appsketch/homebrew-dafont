@@ -5,7 +5,6 @@ cask 'dafont-xtraflexidisc' do
     url 'http://dl.dafont.com/dl/?f=xtraflexidisc'
     name 'Xtraflexidisc'
     homepage 'http://www.dafont.com/xtraflexidisc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XTRAFLEX.TTF'
 end

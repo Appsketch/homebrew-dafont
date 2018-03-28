@@ -5,7 +5,6 @@ cask 'dafont-orthotopes' do
     url 'http://dl.dafont.com/dl/?f=orthotopes'
     name 'Orthotopes'
     homepage 'http://www.dafont.com/orthotopes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ORT-IT.ttf'
     font 'ORT-RE.ttf'

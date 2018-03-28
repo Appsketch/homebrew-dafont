@@ -5,7 +5,6 @@ cask 'dafont-dock-51' do
     url 'http://dl.dafont.com/dl/?f=dock_51'
     name 'Dock 51'
     homepage 'http://www.dafont.com/dock-51.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dock_51.ttf'
 end

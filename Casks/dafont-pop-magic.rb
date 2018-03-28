@@ -5,7 +5,6 @@ cask 'dafont-pop-magic' do
     url 'http://dl.dafont.com/dl/?f=pop_magic'
     name 'Pop Magic'
     homepage 'http://www.dafont.com/pop-magic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GAU_pop_magic.TTF'
 end

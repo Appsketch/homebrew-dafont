@@ -5,7 +5,6 @@ cask 'dafont-dinasti' do
     url 'http://dl.dafont.com/dl/?f=dinasti'
     name 'Dinasti'
     homepage 'http://www.dafont.com/dinasti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DINASTI-Bold.otf'
     font 'DINASTI-Regular.otf'

@@ -5,7 +5,6 @@ cask 'dafont-godhong' do
     url 'http://dl.dafont.com/dl/?f=godhong'
     name 'Godhong'
     homepage 'http://www.dafont.com/godhong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Godhong-Regular-Free.ttf'
 end

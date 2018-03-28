@@ -5,7 +5,6 @@ cask 'dafont-kr-starry-night' do
     url 'http://dl.dafont.com/dl/?f=kr_starry_night'
     name 'KR Starry Night'
     homepage 'http://www.dafont.com/kr-starry-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Starry Night.ttf'
 end

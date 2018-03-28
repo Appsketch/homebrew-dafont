@@ -5,7 +5,6 @@ cask 'dafont-djb-curlie-wurlie' do
     url 'http://dl.dafont.com/dl/?f=djb_curlie_wurlie'
     name 'DJB Curlie Wurlie'
     homepage 'http://www.dafont.com/djb-curlie-wurlie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB CURLIE WURLIE.ttf'
 end

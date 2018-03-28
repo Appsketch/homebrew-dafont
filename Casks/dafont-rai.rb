@@ -5,7 +5,6 @@ cask 'dafont-rai' do
     url 'http://dl.dafont.com/dl/?f=rai'
     name 'Rai'
     homepage 'http://www.dafont.com/rai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RAI_____.TTF'
 end

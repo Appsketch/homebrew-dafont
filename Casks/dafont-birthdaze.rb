@@ -5,7 +5,6 @@ cask 'dafont-birthdaze' do
     url 'http://dl.dafont.com/dl/?f=birthdaze'
     name 'Birthdaze'
     homepage 'http://www.dafont.com/birthdaze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Birthdaze.ttf'
 end

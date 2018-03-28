@@ -5,7 +5,6 @@ cask 'dafont-kakuji1' do
     url 'http://dl.dafont.com/dl/?f=kakuji1'
     name 'Kakuji 1'
     homepage 'http://www.dafont.com/kakuji1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kakuji1.ttf'
 end

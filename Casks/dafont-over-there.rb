@@ -5,7 +5,6 @@ cask 'dafont-over-there' do
     url 'http://dl.dafont.com/dl/?f=over_there'
     name 'Over There'
     homepage 'http://www.dafont.com/over-there.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Over There.ttf'
 end

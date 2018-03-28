@@ -5,7 +5,6 @@ cask 'dafont-remember-reiner-fs' do
     url 'http://dl.dafont.com/dl/?f=remember_reiner_fs'
     name 'Remember Reiner FS'
     homepage 'http://www.dafont.com/remember-reiner-fs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RememberReinerFS.ttf'
 end

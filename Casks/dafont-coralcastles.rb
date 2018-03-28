@@ -5,7 +5,6 @@ cask 'dafont-coralcastles' do
     url 'http://dl.dafont.com/dl/?f=coralcastles'
     name 'Coral Castles'
     homepage 'http://www.dafont.com/coralcastles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CoralCastles.ttf'
 end

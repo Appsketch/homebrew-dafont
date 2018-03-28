@@ -5,7 +5,6 @@ cask 'dafont-deavantgar' do
     url 'http://dl.dafont.com/dl/?f=deavantgar'
     name 'Deavantgar'
     homepage 'http://www.dafont.com/deavantgar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deavantgar.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vulgar-display-of-p' do
     url 'http://dl.dafont.com/dl/?f=vulgar_display_of_p'
     name 'Vulgar Display Of Power'
     homepage 'http://www.dafont.com/vulgar-display-of-p.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VULGARDISPLAYOFPOWER.ttf'
 end

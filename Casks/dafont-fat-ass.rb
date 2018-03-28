@@ -5,7 +5,6 @@ cask 'dafont-fat-ass' do
     url 'http://dl.dafont.com/dl/?f=fat_ass'
     name 'Fat Ass'
     homepage 'http://www.dafont.com/fat-ass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FATASSFI.TTF'
     font 'FATASSOU.TTF'

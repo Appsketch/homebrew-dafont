@@ -5,7 +5,6 @@ cask 'dafont-i-am-online-with-u' do
     url 'http://dl.dafont.com/dl/?f=i_am_online_with_u'
     name 'I am online with u'
     homepage 'http://www.dafont.com/i-am-online-with-u.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iamonlinewithu-Dashed.otf'
     font 'Iamonlinewithu-Dotted2.otf'

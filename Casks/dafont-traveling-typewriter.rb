@@ -5,7 +5,6 @@ cask 'dafont-traveling-typewriter' do
     url 'http://dl.dafont.com/dl/?f=traveling_typewriter'
     name 'Traveling Typewriter'
     homepage 'http://www.dafont.com/traveling-typewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TravelingTypewriter.ttf'
 end

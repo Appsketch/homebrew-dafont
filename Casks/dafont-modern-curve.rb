@@ -5,7 +5,6 @@ cask 'dafont-modern-curve' do
     url 'http://dl.dafont.com/dl/?f=modern_curve'
     name 'Modern Curve'
     homepage 'http://www.dafont.com/modern-curve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Modern Curve.ttf'
 end

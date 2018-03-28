@@ -5,7 +5,6 @@ cask 'dafont-men-nefer' do
     url 'http://dl.dafont.com/dl/?f=men_nefer'
     name 'Men Nefer'
     homepage 'http://www.dafont.com/men-nefer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Men Nefer Black.ttf'
     font 'Men Nefer.ttf'

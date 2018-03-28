@@ -5,7 +5,6 @@ cask 'dafont-fha-modernized-ideal-classicnc' do
     url 'http://dl.dafont.com/dl/?f=fha_modernized_ideal_classicnc'
     name 'FHA Modernized Ideal ClassicNC'
     homepage 'http://www.dafont.com/fha-modernized-ideal-classicnc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FHA ModernIdealClassic_NC.ttf'
 end

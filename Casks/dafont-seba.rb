@@ -5,7 +5,6 @@ cask 'dafont-seba' do
     url 'http://dl.dafont.com/dl/?f=seba'
     name 'Seba'
     homepage 'http://www.dafont.com/seba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'seba.ttf'
 end

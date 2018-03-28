@@ -5,7 +5,6 @@ cask 'dafont-lomax' do
     url 'http://dl.dafont.com/dl/?f=lomax'
     name 'Lomax'
     homepage 'http://www.dafont.com/lomax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lomax.ttf'
 end

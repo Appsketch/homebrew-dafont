@@ -5,7 +5,6 @@ cask 'dafont-bn-matan' do
     url 'http://dl.dafont.com/dl/?f=bn_matan'
     name 'BN M@tan'
     homepage 'http://www.dafont.com/bn-matan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BN_M@TAN.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mountain' do
     url 'http://dl.dafont.com/dl/?f=mountain'
     name 'Mountain'
     homepage 'http://www.dafont.com/mountain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mountain.ttf'
 end

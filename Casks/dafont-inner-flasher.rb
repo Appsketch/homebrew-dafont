@@ -5,7 +5,6 @@ cask 'dafont-inner-flasher' do
     url 'http://dl.dafont.com/dl/?f=inner_flasher'
     name 'Inner Flasher'
     homepage 'http://www.dafont.com/inner-flasher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'flasher.ttf'
     font 'flasher2.ttf'

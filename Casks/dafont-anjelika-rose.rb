@@ -5,7 +5,6 @@ cask 'dafont-anjelika-rose' do
     url 'http://dl.dafont.com/dl/?f=anjelika_rose'
     name 'Anjelika Rose'
     homepage 'http://www.dafont.com/anjelika-rose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anjelika Rose Hollow.ttf'
     font 'Anjelika Rose Thin.ttf'

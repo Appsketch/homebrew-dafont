@@ -5,7 +5,6 @@ cask 'dafont-almost-cartoon' do
     url 'http://dl.dafont.com/dl/?f=almost_cartoon'
     name 'Almost Cartoon'
     homepage 'http://www.dafont.com/almost-cartoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Almost Cartoon.ttf'
 end

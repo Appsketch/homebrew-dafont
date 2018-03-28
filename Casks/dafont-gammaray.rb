@@ -5,7 +5,6 @@ cask 'dafont-gammaray' do
     url 'http://dl.dafont.com/dl/?f=gammaray'
     name 'Gamma Ray'
     homepage 'http://www.dafont.com/gammaray.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GammaRay.ttf'
 end

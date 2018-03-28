@@ -5,7 +5,6 @@ cask 'dafont-a2-script' do
     url 'http://dl.dafont.com/dl/?f=a2_script'
     name 'A2 Script'
     homepage 'http://www.dafont.com/a2-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A2_Script.ttf'
 end

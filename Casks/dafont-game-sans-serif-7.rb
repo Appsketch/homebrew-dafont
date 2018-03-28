@@ -5,7 +5,6 @@ cask 'dafont-game-sans-serif-7' do
     url 'http://dl.dafont.com/dl/?f=game_sans_serif_7'
     name 'Game Sans Serif 7'
     homepage 'http://www.dafont.com/game-sans-serif-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'game_sans_serif_7.ttf'
 end

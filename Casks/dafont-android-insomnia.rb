@@ -5,7 +5,6 @@ cask 'dafont-android-insomnia' do
     url 'http://dl.dafont.com/dl/?f=android_insomnia'
     name 'Android Insomnia'
     homepage 'http://www.dafont.com/android-insomnia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Android Insomnia Regular.ttf'
 end

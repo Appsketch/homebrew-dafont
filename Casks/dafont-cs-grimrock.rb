@@ -5,7 +5,6 @@ cask 'dafont-cs-grimrock' do
     url 'http://dl.dafont.com/dl/?f=cs_grimrock'
     name 'CS Grimrock'
     homepage 'http://www.dafont.com/cs-grimrock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CS Grimrock.ttf'
 end

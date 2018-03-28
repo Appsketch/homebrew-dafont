@@ -5,7 +5,6 @@ cask 'dafont-secret-code' do
     url 'http://dl.dafont.com/dl/?f=secret_code'
     name 'Secret Code'
     homepage 'http://www.dafont.com/secret-code.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'secrcode.ttf'
 end

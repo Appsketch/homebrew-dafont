@@ -5,7 +5,6 @@ cask 'dafont-imbroglio' do
     url 'http://dl.dafont.com/dl/?f=imbroglio'
     name 'Imbroglio'
     homepage 'http://www.dafont.com/imbroglio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IMBRRG__.TTF'
 end

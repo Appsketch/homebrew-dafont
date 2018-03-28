@@ -5,7 +5,6 @@ cask 'dafont-octicity' do
     url 'http://dl.dafont.com/dl/?f=octicity'
     name 'Octicity'
     homepage 'http://www.dafont.com/octicity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OCTICITY.TTF'
 end

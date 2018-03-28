@@ -5,7 +5,6 @@ cask 'dafont-strongarm' do
     url 'http://dl.dafont.com/dl/?f=strongarm'
     name 'Strongarm'
     homepage 'http://www.dafont.com/strongarm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strongarm Bold Italic.otf'
     font 'Strongarm Bold.otf'

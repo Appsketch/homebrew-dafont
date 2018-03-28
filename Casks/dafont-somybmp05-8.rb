@@ -5,7 +5,6 @@ cask 'dafont-somybmp05-8' do
     url 'http://dl.dafont.com/dl/?f=somybmp05_8'
     name 'somybmp05_8'
     homepage 'http://www.dafont.com/somybmp05-8.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'somybmp05_8.ttf'
 end

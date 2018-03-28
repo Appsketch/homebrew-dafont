@@ -5,7 +5,6 @@ cask 'dafont-denise-s-manuscript' do
     url 'http://dl.dafont.com/dl/?f=denise_s_manuscript'
     name 'Denise&#039;s Manuscript'
     homepage 'http://www.dafont.com/denise-s-manuscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Denise__s_Manuscript.ttf'
 end

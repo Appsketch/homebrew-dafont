@@ -5,7 +5,6 @@ cask 'dafont-seriesorbit' do
     url 'http://dl.dafont.com/dl/?f=seriesorbit'
     name 'Series Orbit'
     homepage 'http://www.dafont.com/seriesorbit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SERIO___.TTF'
 end

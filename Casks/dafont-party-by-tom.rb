@@ -5,7 +5,6 @@ cask 'dafont-party-by-tom' do
     url 'http://dl.dafont.com/dl/?f=party_by_tom'
     name 'Party by Tom'
     homepage 'http://www.dafont.com/party-by-tom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PartybyTom.TTF'
 end

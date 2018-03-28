@@ -5,7 +5,6 @@ cask 'dafont-new-motor' do
     url 'http://dl.dafont.com/dl/?f=new_motor'
     name 'New Motor'
     homepage 'http://www.dafont.com/new-motor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New-MOTOR PERSONAL USE ONLY.ttf'
 end

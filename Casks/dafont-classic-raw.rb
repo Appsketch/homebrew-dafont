@@ -5,7 +5,6 @@ cask 'dafont-classic-raw' do
     url 'http://dl.dafont.com/dl/?f=classic_raw'
     name 'Classic Raw'
     homepage 'http://www.dafont.com/classic-raw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ClassicRaw.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mrdiamond' do
     url 'http://dl.dafont.com/dl/?f=mrdiamond'
     name 'Mr Diamond'
     homepage 'http://www.dafont.com/mrdiamond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MrDiamond.ttf'
 end

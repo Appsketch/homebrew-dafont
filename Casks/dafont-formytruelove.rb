@@ -5,7 +5,6 @@ cask 'dafont-formytruelove' do
     url 'http://dl.dafont.com/dl/?f=formytruelove'
     name 'For My True Love'
     homepage 'http://www.dafont.com/formytruelove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ForMyTrueLove.ttf'
 end

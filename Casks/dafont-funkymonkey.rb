@@ -5,7 +5,6 @@ cask 'dafont-funkymonkey' do
     url 'http://dl.dafont.com/dl/?f=funkymonkey'
     name 'Funky Monkey'
     homepage 'http://www.dafont.com/funkymonkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FunkyMonkey.ttf'
 end

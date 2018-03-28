@@ -5,7 +5,6 @@ cask 'dafont-bernardo-beveled' do
     url 'http://dl.dafont.com/dl/?f=bernardo_beveled'
     name 'Bernardo Beveled'
     homepage 'http://www.dafont.com/bernardo-beveled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bernardo Beveled.ttf'
 end

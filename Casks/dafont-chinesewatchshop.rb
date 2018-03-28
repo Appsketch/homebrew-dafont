@@ -5,7 +5,6 @@ cask 'dafont-chinesewatchshop' do
     url 'http://dl.dafont.com/dl/?f=chinesewatchshop'
     name 'Chinese Watch Shop'
     homepage 'http://www.dafont.com/chinesewatchshop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChineseWatchShop.ttf'
 end

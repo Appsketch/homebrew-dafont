@@ -5,7 +5,6 @@ cask 'dafont-buttons-the-bear' do
     url 'http://dl.dafont.com/dl/?f=buttons_the_bear'
     name 'Buttons the Bear'
     homepage 'http://www.dafont.com/buttons-the-bear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'buttons.ttf'
     font 'buttons3d.ttf'

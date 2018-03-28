@@ -5,7 +5,6 @@ cask 'dafont-truck-conky-choo-dr' do
     url 'http://dl.dafont.com/dl/?f=truck_conky_choo_dr'
     name 'Truck Conky Choo Driver'
     homepage 'http://www.dafont.com/truck-conky-choo-dr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRUCK-ConkyChooDriver.ttf'
 end

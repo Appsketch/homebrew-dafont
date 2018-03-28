@@ -5,7 +5,6 @@ cask 'dafont-swan' do
     url 'http://dl.dafont.com/dl/?f=swan'
     name 'Swan'
     homepage 'http://www.dafont.com/swan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swan.ttf'
 end

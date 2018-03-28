@@ -5,7 +5,6 @@ cask 'dafont-derivia' do
     url 'http://dl.dafont.com/dl/?f=derivia'
     name 'Derivia'
     homepage 'http://www.dafont.com/derivia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Derivia.TTF'
 end

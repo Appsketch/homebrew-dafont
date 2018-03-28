@@ -5,7 +5,6 @@ cask 'dafont-spleen-machine' do
     url 'http://dl.dafont.com/dl/?f=spleen_machine'
     name 'Spleen Machine'
     homepage 'http://www.dafont.com/spleen-machine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spleen Machine Az.ttf'
     font 'spleen machine pk.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-post-office' do
     url 'http://dl.dafont.com/dl/?f=post_office'
     name 'Post Office'
     homepage 'http://www.dafont.com/post-office.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POSTOFFICE.ttf'
 end

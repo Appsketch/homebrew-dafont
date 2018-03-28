@@ -5,7 +5,6 @@ cask 'dafont-mean-26-serif' do
     url 'http://dl.dafont.com/dl/?f=mean_26_serif'
     name 'Mean 26 Serif'
     homepage 'http://www.dafont.com/mean-26-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEANI___.TTF'
     font 'MEANSERI.TTF'

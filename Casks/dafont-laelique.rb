@@ -5,7 +5,6 @@ cask 'dafont-laelique' do
     url 'http://dl.dafont.com/dl/?f=laelique'
     name 'LaElique'
     homepage 'http://www.dafont.com/laelique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaElique.ttf'
 end

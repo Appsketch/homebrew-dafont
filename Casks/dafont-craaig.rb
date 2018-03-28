@@ -5,7 +5,6 @@ cask 'dafont-craaig' do
     url 'http://dl.dafont.com/dl/?f=craaig'
     name 'Craaig'
     homepage 'http://www.dafont.com/craaig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Craaig.otf'
 end

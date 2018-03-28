@@ -5,7 +5,6 @@ cask 'dafont-modern-runic' do
     url 'http://dl.dafont.com/dl/?f=modern_runic'
     name 'Modern Runic'
     homepage 'http://www.dafont.com/modern-runic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ModernRunic-Regular.ttf'
 end

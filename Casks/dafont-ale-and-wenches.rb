@@ -5,7 +5,6 @@ cask 'dafont-ale-and-wenches' do
     url 'http://dl.dafont.com/dl/?f=ale_and_wenches'
     name 'Ale and Wenches BB'
     homepage 'http://www.dafont.com/ale-and-wenches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALEAWB__.TTF'
     font 'ALEAWBB_.TTF'

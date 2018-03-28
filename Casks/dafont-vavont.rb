@@ -5,7 +5,6 @@ cask 'dafont-vavont' do
     url 'http://dl.dafont.com/dl/?f=vavont'
     name 'Vavont'
     homepage 'http://www.dafont.com/vavont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vavont.ttf'
 end

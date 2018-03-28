@@ -5,7 +5,6 @@ cask 'dafont-mb-arcane' do
     url 'http://dl.dafont.com/dl/?f=mb_arcane'
     name 'MB Arcane'
     homepage 'http://www.dafont.com/mb-arcane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-Arcane_Font.ttf'
 end

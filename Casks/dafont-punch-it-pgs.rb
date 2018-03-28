@@ -5,7 +5,6 @@ cask 'dafont-punch-it-pgs' do
     url 'http://dl.dafont.com/dl/?f=punch_it_pgs'
     name 'Punch It PGS'
     homepage 'http://www.dafont.com/punch-it-pgs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'punch it PGS Bold Italic.ttf'
     font 'punch it PGS Italic.ttf'

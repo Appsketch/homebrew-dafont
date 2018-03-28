@@ -5,7 +5,6 @@ cask 'dafont-three' do
     url 'http://dl.dafont.com/dl/?f=three'
     name '3'
     homepage 'http://www.dafont.com/three.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '3.[fontvir.us].ttf'
 end

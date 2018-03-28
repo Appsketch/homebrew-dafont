@@ -5,7 +5,6 @@ cask 'dafont-pokemon-x-and-y' do
     url 'http://dl.dafont.com/dl/?f=pokemon_x_and_y'
     name 'Pokemon X and Y'
     homepage 'http://www.dafont.com/pokemon-x-and-y.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pokemon X and Y.ttf'
 end

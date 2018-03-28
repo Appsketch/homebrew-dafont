@@ -5,7 +5,6 @@ cask 'dafont-cogtan' do
     url 'http://dl.dafont.com/dl/?f=cogtan'
     name 'Cogtan'
     homepage 'http://www.dafont.com/cogtan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cogtan_shadow_regular.otf'
 end

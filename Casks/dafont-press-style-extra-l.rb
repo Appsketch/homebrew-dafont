@@ -5,7 +5,6 @@ cask 'dafont-press-style-extra-l' do
     url 'http://dl.dafont.com/dl/?f=press_style_extra_l'
     name 'Press Style Extra L'
     homepage 'http://www.dafont.com/press-style-extra-l.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Press Style Extra L.ttf'
 end

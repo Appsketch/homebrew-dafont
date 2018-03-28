@@ -5,7 +5,6 @@ cask 'dafont-dolores' do
     url 'http://dl.dafont.com/dl/?f=dolores'
     name 'Dolores'
     homepage 'http://www.dafont.com/dolores.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOLORES.ttf'
 end

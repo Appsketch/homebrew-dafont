@@ -5,7 +5,6 @@ cask 'dafont-d-la-cruz' do
     url 'http://dl.dafont.com/dl/?f=d_la_cruz'
     name 'd La Cruz'
     homepage 'http://www.dafont.com/d-la-cruz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'd-la-cruz-font.ttf'
 end

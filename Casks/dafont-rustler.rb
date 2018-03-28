@@ -5,7 +5,6 @@ cask 'dafont-rustler' do
     url 'http://dl.dafont.com/dl/?f=rustler'
     name 'Rustler'
     homepage 'http://www.dafont.com/rustler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RUSTF___.TTF'
     font 'RUSTLER_.TTF'

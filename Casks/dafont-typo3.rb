@@ -5,7 +5,6 @@ cask 'dafont-typo3' do
     url 'http://dl.dafont.com/dl/?f=typo3'
     name 'Typo 3'
     homepage 'http://www.dafont.com/typo3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typo3-Medium.ttf'
     font 'typo3Normal.ttf'

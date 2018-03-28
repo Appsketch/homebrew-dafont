@@ -5,7 +5,6 @@ cask 'dafont-chloe' do
     url 'http://dl.dafont.com/dl/?f=chloe'
     name 'Chloe'
     homepage 'http://www.dafont.com/chloe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chloe.ttf'
 end

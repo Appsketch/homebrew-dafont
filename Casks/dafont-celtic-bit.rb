@@ -5,7 +5,6 @@ cask 'dafont-celtic-bit' do
     url 'http://dl.dafont.com/dl/?f=celtic_bit'
     name 'Celtic Bit'
     homepage 'http://www.dafont.com/celtic-bit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'celtic-bit-thin.ttf'
     font 'celtic-bit.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-gingersnaps' do
     url 'http://dl.dafont.com/dl/?f=gingersnaps'
     name 'Gingersnaps'
     homepage 'http://www.dafont.com/gingersnaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gingersnaps.ttf'
 end

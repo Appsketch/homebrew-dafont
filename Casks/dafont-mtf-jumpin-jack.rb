@@ -5,7 +5,6 @@ cask 'dafont-mtf-jumpin-jack' do
     url 'http://dl.dafont.com/dl/?f=mtf_jumpin_jack'
     name 'MTF Jumpin&#039; Jack'
     homepage 'http://www.dafont.com/mtf-jumpin-jack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Jumpin&#039; Jack.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mister-haddaris' do
     url 'http://dl.dafont.com/dl/?f=mister_haddaris'
     name 'Mister Haddaris'
     homepage 'http://www.dafont.com/mister-haddaris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MISTER.TTF'
 end

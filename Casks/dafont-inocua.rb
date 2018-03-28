@@ -5,7 +5,6 @@ cask 'dafont-inocua' do
     url 'http://dl.dafont.com/dl/?f=inocua'
     name 'Inocua'
     homepage 'http://www.dafont.com/inocua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inocua.ttf'
 end

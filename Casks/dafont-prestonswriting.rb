@@ -5,7 +5,6 @@ cask 'dafont-prestonswriting' do
     url 'http://dl.dafont.com/dl/?f=prestonswriting'
     name 'Prestons Writing'
     homepage 'http://www.dafont.com/prestonswriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrestonsWriting.ttf'
 end

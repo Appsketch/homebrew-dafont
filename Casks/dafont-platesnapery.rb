@@ -5,7 +5,6 @@ cask 'dafont-platesnapery' do
     url 'http://dl.dafont.com/dl/?f=platesnapery'
     name 'Plates Napery'
     homepage 'http://www.dafont.com/platesnapery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PlatesNapery_PersonalUse.ttf'
 end

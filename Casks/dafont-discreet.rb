@@ -5,7 +5,6 @@ cask 'dafont-discreet' do
     url 'http://dl.dafont.com/dl/?f=discreet'
     name 'Discreet'
     homepage 'http://www.dafont.com/discreet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Discreet-Bold.ttf'
     font 'Discreet-BoldInclined.ttf'

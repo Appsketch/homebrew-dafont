@@ -5,7 +5,6 @@ cask 'dafont-milk-chocolate-g' do
     url 'http://dl.dafont.com/dl/?f=milk_chocolate_g'
     name 'Milk Chocolate G'
     homepage 'http://www.dafont.com/milk-chocolate-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_milk_chocolate.ttf'
 end

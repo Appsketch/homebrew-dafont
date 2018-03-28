@@ -5,7 +5,6 @@ cask 'dafont-paper-for-your-ass' do
     url 'http://dl.dafont.com/dl/?f=paper_for_your_ass'
     name 'Paper For Your Ass'
     homepage 'http://www.dafont.com/paper-for-your-ass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAPER FOR YOUR ASS.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-squared-hand' do
     url 'http://dl.dafont.com/dl/?f=squared_hand'
     name 'Squared Hand'
     homepage 'http://www.dafont.com/squared-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SquaredHand.otf'
     font 'SquaredHandObl.otf'

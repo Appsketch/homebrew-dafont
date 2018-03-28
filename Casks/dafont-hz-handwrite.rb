@@ -5,7 +5,6 @@ cask 'dafont-hz-handwrite' do
     url 'http://dl.dafont.com/dl/?f=hz_handwrite'
     name 'HZHandwrite'
     homepage 'http://www.dafont.com/hz-handwrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HZHandwrite.ttf'
 end

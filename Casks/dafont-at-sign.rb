@@ -5,7 +5,6 @@ cask 'dafont-at-sign' do
     url 'http://dl.dafont.com/dl/?f=at_sign'
     name 'At Sign'
     homepage 'http://www.dafont.com/at-sign.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'At Sign Regular.ttf'
 end

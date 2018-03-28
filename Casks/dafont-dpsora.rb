@@ -5,7 +5,6 @@ cask 'dafont-dpsora' do
     url 'http://dl.dafont.com/dl/?f=dpsora'
     name 'DP Sora'
     homepage 'http://www.dafont.com/dpsora.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DPSora.ttf'
 end

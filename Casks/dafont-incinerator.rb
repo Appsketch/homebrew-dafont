@@ -5,7 +5,6 @@ cask 'dafont-incinerator' do
     url 'http://dl.dafont.com/dl/?f=incinerator'
     name 'Incinerator'
     homepage 'http://www.dafont.com/incinerator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INCINERA.TTF'
 end

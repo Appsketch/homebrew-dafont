@@ -5,7 +5,6 @@ cask 'dafont-kokan' do
     url 'http://dl.dafont.com/dl/?f=kokan'
     name 'Kokan'
     homepage 'http://www.dafont.com/kokan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kokan.ttf'
 end

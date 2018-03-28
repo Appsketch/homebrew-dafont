@@ -5,7 +5,6 @@ cask 'dafont-safaricolorway' do
     url 'http://dl.dafont.com/dl/?f=safaricolorway'
     name 'Safari Colorway'
     homepage 'http://www.dafont.com/safaricolorway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SafariColorway.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-candy-kisses' do
     url 'http://dl.dafont.com/dl/?f=candy_kisses'
     name 'Candy Kisses'
     homepage 'http://www.dafont.com/candy-kisses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Candk___.ttf'
 end

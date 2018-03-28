@@ -5,7 +5,6 @@ cask 'dafont-mixtapemike' do
     url 'http://dl.dafont.com/dl/?f=mixtapemike'
     name 'Mixtape Mike'
     homepage 'http://www.dafont.com/mixtapemike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MIXTMK_T.ttf'
 end

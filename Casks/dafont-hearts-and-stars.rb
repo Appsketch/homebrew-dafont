@@ -5,7 +5,6 @@ cask 'dafont-hearts-and-stars' do
     url 'http://dl.dafont.com/dl/?f=hearts_and_stars'
     name 'Hearts and Stars'
     homepage 'http://www.dafont.com/hearts-and-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hearts and Stars.ttf'
 end

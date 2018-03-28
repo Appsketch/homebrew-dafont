@@ -5,7 +5,6 @@ cask 'dafont-c7nazara' do
     url 'http://dl.dafont.com/dl/?f=c7nazara'
     name 'C7nazara'
     homepage 'http://www.dafont.com/c7nazara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'c7nazara.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mael' do
     url 'http://dl.dafont.com/dl/?f=mael'
     name 'Mael'
     homepage 'http://www.dafont.com/mael.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAEL____.TTF'
 end

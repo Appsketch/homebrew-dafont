@@ -5,7 +5,6 @@ cask 'dafont-mastodon' do
     url 'http://dl.dafont.com/dl/?f=mastodon'
     name 'Mastodon'
     homepage 'http://www.dafont.com/mastodon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MASTOD__.ttf'
     font 'MASTODB_.ttf'

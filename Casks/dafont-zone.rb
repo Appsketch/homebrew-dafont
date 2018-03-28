@@ -5,7 +5,6 @@ cask 'dafont-zone' do
     url 'http://dl.dafont.com/dl/?f=zone'
     name 'Zone'
     homepage 'http://www.dafont.com/zone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZOR_____.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dimelthoz-11x96' do
     url 'http://dl.dafont.com/dl/?f=dimelthoz_11x96'
     name 'Dimelthoz 11x96'
     homepage 'http://www.dafont.com/dimelthoz-11x96.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dimelthoz_11x96.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-clobot' do
     url 'http://dl.dafont.com/dl/?f=clobot'
     name 'Clobot'
     homepage 'http://www.dafont.com/clobot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clobot-Regular-Free.ttf'
 end

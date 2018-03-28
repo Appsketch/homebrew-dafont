@@ -5,7 +5,6 @@ cask 'dafont-transfer-window' do
     url 'http://dl.dafont.com/dl/?f=transfer_window'
     name 'Transfer Window'
     homepage 'http://www.dafont.com/transfer-window.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TransferWindow-Regular.otf'
 end

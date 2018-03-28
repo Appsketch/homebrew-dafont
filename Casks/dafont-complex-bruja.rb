@@ -5,7 +5,6 @@ cask 'dafont-complex-bruja' do
     url 'http://dl.dafont.com/dl/?f=complex_bruja'
     name 'Complex bruja'
     homepage 'http://www.dafont.com/complex-bruja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'complex bruja free promo___.ttf'
 end

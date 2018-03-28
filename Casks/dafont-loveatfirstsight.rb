@@ -5,7 +5,6 @@ cask 'dafont-loveatfirstsight' do
     url 'http://dl.dafont.com/dl/?f=loveatfirstsight'
     name 'Love At First Sight'
     homepage 'http://www.dafont.com/loveatfirstsight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LoveAtFirstSight.ttf'
 end

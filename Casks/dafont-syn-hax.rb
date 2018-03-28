@@ -5,7 +5,6 @@ cask 'dafont-syn-hax' do
     url 'http://dl.dafont.com/dl/?f=syn_hax'
     name 'Syn Hax'
     homepage 'http://www.dafont.com/syn-hax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SYN_HAX.ttf'
 end

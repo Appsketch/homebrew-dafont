@@ -5,7 +5,6 @@ cask 'dafont-fantastic-pete' do
     url 'http://dl.dafont.com/dl/?f=fantastic_pete'
     name 'Fantastic Pete'
     homepage 'http://www.dafont.com/fantastic-pete.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FantasticPete3.03.ttf'
 end

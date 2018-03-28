@@ -5,7 +5,6 @@ cask 'dafont-cabold-comic' do
     url 'http://dl.dafont.com/dl/?f=cabold_comic'
     name 'Cabold Comic'
     homepage 'http://www.dafont.com/cabold-comic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cabold Comic demo.otf'
     font 'Cabold Comic Outline demo.otf'

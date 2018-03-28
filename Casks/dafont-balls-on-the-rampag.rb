@@ -5,7 +5,6 @@ cask 'dafont-balls-on-the-rampag' do
     url 'http://dl.dafont.com/dl/?f=balls_on_the_rampag'
     name 'Balls on the Rampage'
     homepage 'http://www.dafont.com/balls-on-the-rampag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BALLSONTHERAMPAGE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-oval' do
     url 'http://dl.dafont.com/dl/?f=oval'
     name 'Oval'
     homepage 'http://www.dafont.com/oval.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oval.ttf'
 end

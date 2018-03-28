@@ -5,7 +5,6 @@ cask 'dafont-blimpixels' do
     url 'http://dl.dafont.com/dl/?f=blimpixels'
     name 'Blimpixels'
     homepage 'http://www.dafont.com/blimpixels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blimpixels.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-paraaminobenzoic' do
     url 'http://dl.dafont.com/dl/?f=paraaminobenzoic'
     name 'ParaAminobenzoic'
     homepage 'http://www.dafont.com/paraaminobenzoic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'paraaminobenzoic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-angstrom' do
     url 'http://dl.dafont.com/dl/?f=angstrom'
     name 'Angstrom'
     homepage 'http://www.dafont.com/angstrom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'angstrom.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-5muta-sans' do
     url 'http://dl.dafont.com/dl/?f=5muta_sans'
     name '5 Muta Sans'
     homepage 'http://www.dafont.com/5muta-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5muta_sans.ttf'
 end

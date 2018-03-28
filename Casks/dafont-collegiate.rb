@@ -5,7 +5,6 @@ cask 'dafont-collegiate' do
     url 'http://dl.dafont.com/dl/?f=collegiate'
     name 'Collegiate'
     homepage 'http://www.dafont.com/collegiate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COLLEGIA.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-micro-mieps' do
     url 'http://dl.dafont.com/dl/?f=micro_mieps'
     name 'Micro Mieps'
     homepage 'http://www.dafont.com/micro-mieps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MicroMbd.TTF'
     font 'MicroMdt.ttf'

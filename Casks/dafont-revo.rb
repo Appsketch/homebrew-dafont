@@ -5,7 +5,6 @@ cask 'dafont-revo' do
     url 'http://dl.dafont.com/dl/?f=revo'
     name 'Revo'
     homepage 'http://www.dafont.com/revo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Revo-.ttf'
     font 'RevoPop-.ttf'

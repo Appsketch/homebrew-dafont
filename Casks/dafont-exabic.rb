@@ -5,7 +5,6 @@ cask 'dafont-exabic' do
     url 'http://dl.dafont.com/dl/?f=exabic'
     name 'Exabic'
     homepage 'http://www.dafont.com/exabic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EXABF___.TTF'
 end

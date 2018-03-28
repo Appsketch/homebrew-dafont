@@ -5,7 +5,6 @@ cask 'dafont-thisfontlookslikegiraffe' do
     url 'http://dl.dafont.com/dl/?f=thisfontlookslikegiraffe'
     name 'This font looks like giraffe'
     homepage 'http://www.dafont.com/thisfontlookslikegiraffe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thisfontlookslikegiraffe.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stencil-cargo-army' do
     url 'http://dl.dafont.com/dl/?f=stencil_cargo_army'
     name 'Stencil Cargo Army'
     homepage 'http://www.dafont.com/stencil-cargo-army.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stencil Cargo Army.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pixel-invaders' do
     url 'http://dl.dafont.com/dl/?f=pixel_invaders'
     name 'Pixel Invaders'
     homepage 'http://www.dafont.com/pixel-invaders.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixel_invaders.ttf'
 end

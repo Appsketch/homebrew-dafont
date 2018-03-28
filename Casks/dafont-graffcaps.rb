@@ -5,7 +5,6 @@ cask 'dafont-graffcaps' do
     url 'http://dl.dafont.com/dl/?f=graffcaps'
     name 'Graff Caps'
     homepage 'http://www.dafont.com/graffcaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GraffCaps.ttf'
 end

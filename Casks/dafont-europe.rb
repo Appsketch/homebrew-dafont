@@ -5,7 +5,6 @@ cask 'dafont-europe' do
     url 'http://dl.dafont.com/dl/?f=europe'
     name 'Europe'
     homepage 'http://www.dafont.com/europe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Europe.ttf'
 end

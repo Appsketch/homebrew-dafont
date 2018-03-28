@@ -5,7 +5,6 @@ cask 'dafont-crop-circle-dingbat' do
     url 'http://dl.dafont.com/dl/?f=crop_circle_dingbat'
     name 'Crop Circle Dingbats'
     homepage 'http://www.dafont.com/crop-circle-dingbat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CROPDING.TTF'
 end

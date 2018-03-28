@@ -5,7 +5,6 @@ cask 'dafont-hucris' do
     url 'http://dl.dafont.com/dl/?f=hucris'
     name 'Hucris'
     homepage 'http://www.dafont.com/hucris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hucris.ttf'
 end

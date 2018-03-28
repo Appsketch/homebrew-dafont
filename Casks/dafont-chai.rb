@@ -5,7 +5,6 @@ cask 'dafont-chai' do
     url 'http://dl.dafont.com/dl/?f=chai'
     name 'Chai'
     homepage 'http://www.dafont.com/chai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chai.ttf'
 end

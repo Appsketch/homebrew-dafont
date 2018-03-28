@@ -5,7 +5,6 @@ cask 'dafont-justcolesblockoutlines' do
     url 'http://dl.dafont.com/dl/?f=justcolesblockoutlines'
     name 'Just Coles Block Outlines'
     homepage 'http://www.dafont.com/justcolesblockoutlines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustColesBlockOutlines.ttf'
 end

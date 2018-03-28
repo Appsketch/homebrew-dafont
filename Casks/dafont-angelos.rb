@@ -5,7 +5,6 @@ cask 'dafont-angelos' do
     url 'http://dl.dafont.com/dl/?f=angelos'
     name 'Angel&#039;Os'
     homepage 'http://www.dafont.com/angelos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANGEO___.TTF'
 end

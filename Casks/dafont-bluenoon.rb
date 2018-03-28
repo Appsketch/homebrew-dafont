@@ -5,7 +5,6 @@ cask 'dafont-bluenoon' do
     url 'http://dl.dafont.com/dl/?f=bluenoon'
     name 'Blue Noon'
     homepage 'http://www.dafont.com/bluenoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlueNoon.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-swag2' do
     url 'http://dl.dafont.com/dl/?f=swag2'
     name 'Swag'
     homepage 'http://www.dafont.com/swag2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'swag.ttf'
 end

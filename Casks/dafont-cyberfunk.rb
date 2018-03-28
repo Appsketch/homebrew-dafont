@@ -5,7 +5,6 @@ cask 'dafont-cyberfunk' do
     url 'http://dl.dafont.com/dl/?f=cyberfunk'
     name 'Cyberfunk'
     homepage 'http://www.dafont.com/cyberfunk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cyberfunk.ttf'
 end

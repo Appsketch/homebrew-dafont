@@ -5,7 +5,6 @@ cask 'dafont-trashbutterfly' do
     url 'http://dl.dafont.com/dl/?f=trashbutterfly'
     name 'Trash Butterfly'
     homepage 'http://www.dafont.com/trashbutterfly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TrashButterfly.ttf'
 end

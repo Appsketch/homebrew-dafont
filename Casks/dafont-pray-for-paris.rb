@@ -5,7 +5,6 @@ cask 'dafont-pray-for-paris' do
     url 'http://dl.dafont.com/dl/?f=pray_for_paris'
     name 'Pray For Paris'
     homepage 'http://www.dafont.com/pray-for-paris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PRAY FOR PARIS.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-saved-by-zero' do
     url 'http://dl.dafont.com/dl/?f=saved_by_zero'
     name 'Saved by Zero'
     homepage 'http://www.dafont.com/saved-by-zero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'saved by zero rg.ttf'
 end

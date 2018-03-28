@@ -5,7 +5,6 @@ cask 'dafont-canidae-hand' do
     url 'http://dl.dafont.com/dl/?f=canidae_hand'
     name 'Canidae Hand'
     homepage 'http://www.dafont.com/canidae-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Canidae Hand.ttf'
 end

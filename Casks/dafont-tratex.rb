@@ -5,7 +5,6 @@ cask 'dafont-tratex' do
     url 'http://dl.dafont.com/dl/?f=tratex'
     name 'Tratex'
     homepage 'http://www.dafont.com/tratex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TratexSvart/TRATS___.TTF'
     font 'TratexVit/TRATV___.TTF'

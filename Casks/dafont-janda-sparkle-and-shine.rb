@@ -5,7 +5,6 @@ cask 'dafont-janda-sparkle-and-shine' do
     url 'http://dl.dafont.com/dl/?f=janda_sparkle_and_shine'
     name 'Janda Sparkle and Shine'
     homepage 'http://www.dafont.com/janda-sparkle-and-shine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaSparkleandShine.ttf'
     font 'JandaSparkleandShineBold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-cartoon-silhouettes' do
     url 'http://dl.dafont.com/dl/?f=cartoon_silhouettes'
     name 'Cartoon Silhouettes'
     homepage 'http://www.dafont.com/cartoon-silhouettes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cartoon Silhouettes.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-home-sweet-home' do
     url 'http://dl.dafont.com/dl/?f=home_sweet_home'
     name 'Home Sweet Home'
     homepage 'http://www.dafont.com/home-sweet-home.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'home sweet home outline.ttf'
     font 'home sweet home.ttf'

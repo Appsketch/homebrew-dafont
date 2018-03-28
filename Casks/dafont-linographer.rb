@@ -5,7 +5,6 @@ cask 'dafont-linographer' do
     url 'http://dl.dafont.com/dl/?f=linographer'
     name 'Linographer'
     homepage 'http://www.dafont.com/linographer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Linographer.ttf'
 end

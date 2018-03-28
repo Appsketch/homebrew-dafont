@@ -5,7 +5,6 @@ cask 'dafont-phone-scan' do
     url 'http://dl.dafont.com/dl/?f=phone_scan'
     name 'Phone Scan'
     homepage 'http://www.dafont.com/phone-scan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'phone scan.otf'
 end

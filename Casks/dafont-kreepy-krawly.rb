@@ -5,7 +5,6 @@ cask 'dafont-kreepy-krawly' do
     url 'http://dl.dafont.com/dl/?f=kreepy_krawly'
     name 'Kreepy Krawly'
     homepage 'http://www.dafont.com/kreepy-krawly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kreepy Krawly.ttf'
 end

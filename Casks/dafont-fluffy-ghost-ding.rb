@@ -5,7 +5,6 @@ cask 'dafont-fluffy-ghost-ding' do
     url 'http://dl.dafont.com/dl/?f=fluffy_ghost_ding'
     name 'Fluffy Ghost Ding'
     homepage 'http://www.dafont.com/fluffy-ghost-ding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fluffy Ghost Ding.ttf'
 end

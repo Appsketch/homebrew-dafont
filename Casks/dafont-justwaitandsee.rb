@@ -5,7 +5,6 @@ cask 'dafont-justwaitandsee' do
     url 'http://dl.dafont.com/dl/?f=justwaitandsee'
     name 'Just Wait And See'
     homepage 'http://www.dafont.com/justwaitandsee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustWaitAndSee.ttf'
 end

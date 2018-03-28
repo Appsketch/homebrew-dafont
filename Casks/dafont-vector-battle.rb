@@ -5,7 +5,6 @@ cask 'dafont-vector-battle' do
     url 'http://dl.dafont.com/dl/?f=vector_battle'
     name 'Vector Battle'
     homepage 'http://www.dafont.com/vector-battle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vectorb.ttf'
 end

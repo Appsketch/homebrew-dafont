@@ -5,7 +5,6 @@ cask 'dafont-the-quick' do
     url 'http://dl.dafont.com/dl/?f=the_quick'
     name 'The Quick'
     homepage 'http://www.dafont.com/the-quick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the quick.ttf'
 end

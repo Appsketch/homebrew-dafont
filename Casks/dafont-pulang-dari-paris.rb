@@ -5,7 +5,6 @@ cask 'dafont-pulang-dari-paris' do
     url 'http://dl.dafont.com/dl/?f=pulang_dari_paris'
     name 'Pulang dari Paris'
     homepage 'http://www.dafont.com/pulang-dari-paris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pulang dari paris.ttf'
 end

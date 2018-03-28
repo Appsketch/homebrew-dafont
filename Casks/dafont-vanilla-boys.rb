@@ -5,7 +5,6 @@ cask 'dafont-vanilla-boys' do
     url 'http://dl.dafont.com/dl/?f=vanilla_boys'
     name 'Vanilla Boys'
     homepage 'http://www.dafont.com/vanilla-boys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vanilla Boys.ttf'
 end

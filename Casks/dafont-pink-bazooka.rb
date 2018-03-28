@@ -5,7 +5,6 @@ cask 'dafont-pink-bazooka' do
     url 'http://dl.dafont.com/dl/?f=pink_bazooka'
     name 'Pink Bazooka'
     homepage 'http://www.dafont.com/pink-bazooka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PinkBazooka.ttf'
 end

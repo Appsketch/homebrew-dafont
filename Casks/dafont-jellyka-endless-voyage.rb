@@ -5,7 +5,6 @@ cask 'dafont-jellyka-endless-voyage' do
     url 'http://dl.dafont.com/dl/?f=jellyka_endless_voyage'
     name 'Jellyka Endless Voyage'
     homepage 'http://www.dafont.com/jellyka-endless-voyage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jellyka Endless Voyage.ttf'
 end

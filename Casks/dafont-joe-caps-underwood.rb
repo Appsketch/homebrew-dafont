@@ -5,7 +5,6 @@ cask 'dafont-joe-caps-underwood' do
     url 'http://dl.dafont.com/dl/?f=joe_caps_underwood'
     name 'Joe &quot;Caps&quot; Underwood'
     homepage 'http://www.dafont.com/joe-caps-underwood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Joe Caps Underwood.ttf'
 end

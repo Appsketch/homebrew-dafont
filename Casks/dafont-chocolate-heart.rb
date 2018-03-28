@@ -5,7 +5,6 @@ cask 'dafont-chocolate-heart' do
     url 'http://dl.dafont.com/dl/?f=chocolate_heart'
     name 'Chocolate Heart'
     homepage 'http://www.dafont.com/chocolate-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chocolate Heart Free.ttf'
 end

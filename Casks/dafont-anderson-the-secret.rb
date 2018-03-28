@@ -5,7 +5,6 @@ cask 'dafont-anderson-the-secret' do
     url 'http://dl.dafont.com/dl/?f=anderson_the_secret'
     name 'Anderson The Secret Service'
     homepage 'http://www.dafont.com/anderson-the-secret.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anderson The Secret Service.ttf'
 end

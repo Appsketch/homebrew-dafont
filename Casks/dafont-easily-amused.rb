@@ -5,7 +5,6 @@ cask 'dafont-easily-amused' do
     url 'http://dl.dafont.com/dl/?f=easily_amused'
     name 'Easily Amused'
     homepage 'http://www.dafont.com/easily-amused.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EASILYAMUSED.TTF'
 end

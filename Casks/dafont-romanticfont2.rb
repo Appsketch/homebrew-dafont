@@ -5,7 +5,6 @@ cask 'dafont-romanticfont2' do
     url 'http://dl.dafont.com/dl/?f=romanticfont2'
     name 'Romantic Font 2'
     homepage 'http://www.dafont.com/romanticfont2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'romanticfont2.ttf'
 end

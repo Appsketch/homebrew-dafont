@@ -5,7 +5,6 @@ cask 'dafont-adelfy' do
     url 'http://dl.dafont.com/dl/?f=adelfy'
     name 'Adelfy'
     homepage 'http://www.dafont.com/adelfy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adelfy_free-version.ttf'
 end

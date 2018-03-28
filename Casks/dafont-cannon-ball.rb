@@ -5,7 +5,6 @@ cask 'dafont-cannon-ball' do
     url 'http://dl.dafont.com/dl/?f=cannon_ball'
     name 'Cannon Ball'
     homepage 'http://www.dafont.com/cannon-ball.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cannon BALL.ttf'
 end

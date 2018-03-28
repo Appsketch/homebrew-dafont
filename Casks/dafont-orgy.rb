@@ -5,7 +5,6 @@ cask 'dafont-orgy' do
     url 'http://dl.dafont.com/dl/?f=orgy'
     name 'Orgy'
     homepage 'http://www.dafont.com/orgy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'orgy.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ll-dot' do
     url 'http://dl.dafont.com/dl/?f=ll_dot'
     name 'LL Dot'
     homepage 'http://www.dafont.com/ll-dot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLDOT2__.TTF'
 end

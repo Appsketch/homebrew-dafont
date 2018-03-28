@@ -5,7 +5,6 @@ cask 'dafont-angerthas' do
     url 'http://dl.dafont.com/dl/?f=angerthas'
     name 'Angerthas'
     homepage 'http://www.dafont.com/angerthas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANGERTH.TTF'
 end

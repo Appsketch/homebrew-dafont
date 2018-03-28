@@ -5,7 +5,6 @@ cask 'dafont-candy-time' do
     url 'http://dl.dafont.com/dl/?f=candy_time'
     name 'Candy Time'
     homepage 'http://www.dafont.com/candy-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CandyTime.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lalex-big-badaboum' do
     url 'http://dl.dafont.com/dl/?f=lalex_big_badaboum'
     name 'Lalex Big Badaboum'
     homepage 'http://www.dafont.com/lalex-big-badaboum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lalex.ttf'
 end

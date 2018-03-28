@@ -5,7 +5,6 @@ cask 'dafont-neocat' do
     url 'http://dl.dafont.com/dl/?f=neocat'
     name 'Neocat'
     homepage 'http://www.dafont.com/neocat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neocat-Regular_3.0.ttf'
 end

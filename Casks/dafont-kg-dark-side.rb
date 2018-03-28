@@ -5,7 +5,6 @@ cask 'dafont-kg-dark-side' do
     url 'http://dl.dafont.com/dl/?f=kg_dark_side'
     name 'KG Dark Side'
     homepage 'http://www.dafont.com/kg-dark-side.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGDarkSide.ttf'
 end

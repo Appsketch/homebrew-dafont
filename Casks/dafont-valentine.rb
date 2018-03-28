@@ -5,7 +5,6 @@ cask 'dafont-valentine' do
     url 'http://dl.dafont.com/dl/?f=valentine'
     name 'Valentine'
     homepage 'http://www.dafont.com/valentine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Valentine.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-smile2' do
     url 'http://dl.dafont.com/dl/?f=smile2'
     name 'Smile'
     homepage 'http://www.dafont.com/smile2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smile.otf'
 end

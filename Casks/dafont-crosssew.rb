@@ -5,7 +5,6 @@ cask 'dafont-crosssew' do
     url 'http://dl.dafont.com/dl/?f=crosssew'
     name 'Cross Sew'
     homepage 'http://www.dafont.com/crosssew.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrossSew.ttf'
 end

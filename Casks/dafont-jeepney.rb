@@ -5,7 +5,6 @@ cask 'dafont-jeepney' do
     url 'http://dl.dafont.com/dl/?f=jeepney'
     name 'Jeepney'
     homepage 'http://www.dafont.com/jeepney.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JEEPNEY.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-preussischeiv44ausgabe3' do
     url 'http://dl.dafont.com/dl/?f=preussischeiv44ausgabe3'
     name 'Preussische IV 44 Ausgabe 3'
     homepage 'http://www.dafont.com/preussischeiv44ausgabe3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pr_IV_44_Ausg3.otf'
 end

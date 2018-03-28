@@ -5,7 +5,6 @@ cask 'dafont-tipo-capital1-st' do
     url 'http://dl.dafont.com/dl/?f=tipo_capital1_st'
     name 'Tipo Capital1 St'
     homepage 'http://www.dafont.com/tipo-capital1-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tipo Capital1 St.ttf'
 end

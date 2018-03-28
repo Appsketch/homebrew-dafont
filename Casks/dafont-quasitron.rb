@@ -5,7 +5,6 @@ cask 'dafont-quasitron' do
     url 'http://dl.dafont.com/dl/?f=quasitron'
     name 'Quasitron'
     homepage 'http://www.dafont.com/quasitron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quasitron.ttf'
     font 'quasitron3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-ferret-face' do
     url 'http://dl.dafont.com/dl/?f=ferret_face'
     name 'Ferret Face'
     homepage 'http://www.dafont.com/ferret-face.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ferretface.ttf'
     font 'ferretface3d.ttf'

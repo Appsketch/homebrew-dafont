@@ -5,7 +5,6 @@ cask 'dafont-pixel-twist' do
     url 'http://dl.dafont.com/dl/?f=pixel_twist'
     name 'Pixel Twist'
     homepage 'http://www.dafont.com/pixel-twist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixelTwist.ttf'
 end

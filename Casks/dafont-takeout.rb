@@ -5,7 +5,6 @@ cask 'dafont-takeout' do
     url 'http://dl.dafont.com/dl/?f=takeout'
     name 'Takeout'
     homepage 'http://www.dafont.com/takeout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TAKE.TTF'
 end

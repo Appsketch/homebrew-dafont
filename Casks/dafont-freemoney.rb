@@ -5,7 +5,6 @@ cask 'dafont-freemoney' do
     url 'http://dl.dafont.com/dl/?f=freemoney'
     name 'Free Money'
     homepage 'http://www.dafont.com/freemoney.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Free Money.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-the-cats-whiskers' do
     url 'http://dl.dafont.com/dl/?f=dk_the_cats_whiskers'
     name 'DK The Cats Whiskers'
     homepage 'http://www.dafont.com/dk-the-cats-whiskers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK The Cats Whiskers.otf'
 end

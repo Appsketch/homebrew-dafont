@@ -5,7 +5,6 @@ cask 'dafont-kr-seems-fishy-to-me' do
     url 'http://dl.dafont.com/dl/?f=kr_seems_fishy_to_me'
     name 'KR Seems Fishy To Me'
     homepage 'http://www.dafont.com/kr-seems-fishy-to-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Seems Fishy To Me.ttf'
 end

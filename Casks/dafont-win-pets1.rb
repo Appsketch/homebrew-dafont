@@ -5,7 +5,6 @@ cask 'dafont-win-pets1' do
     url 'http://dl.dafont.com/dl/?f=win_pets1'
     name 'FE Win Pets 1'
     homepage 'http://www.dafont.com/win-pets1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE Win Pets 1.otf'
 end

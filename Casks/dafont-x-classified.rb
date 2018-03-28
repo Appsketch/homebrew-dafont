@@ -5,7 +5,6 @@ cask 'dafont-x-classified' do
     url 'http://dl.dafont.com/dl/?f=x_classified'
     name 'X-Classified'
     homepage 'http://www.dafont.com/x-classified.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'X-Classified Italic.ttf'
     font 'X-Classified.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-the-curious-cat' do
     url 'http://dl.dafont.com/dl/?f=the_curious_cat'
     name 'The Curious Cat'
     homepage 'http://www.dafont.com/the-curious-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Curious Cat.ttf'
 end

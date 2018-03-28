@@ -5,7 +5,6 @@ cask 'dafont-banten-unfamous' do
     url 'http://dl.dafont.com/dl/?f=banten_unfamous'
     name 'Banten Unfamous'
     homepage 'http://www.dafont.com/banten-unfamous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Banten Unfamous.ttf'
 end

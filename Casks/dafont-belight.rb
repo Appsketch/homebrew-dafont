@@ -5,7 +5,6 @@ cask 'dafont-belight' do
     url 'http://dl.dafont.com/dl/?f=belight'
     name 'Belight'
     homepage 'http://www.dafont.com/belight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bellight.otf'
 end

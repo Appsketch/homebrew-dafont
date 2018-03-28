@@ -5,7 +5,6 @@ cask 'dafont-unity-dances' do
     url 'http://dl.dafont.com/dl/?f=unity_dances'
     name 'Unity Dances'
     homepage 'http://www.dafont.com/unity-dances.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UnityDances.ttf'
 end

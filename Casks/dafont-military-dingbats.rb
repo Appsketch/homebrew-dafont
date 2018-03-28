@@ -5,7 +5,6 @@ cask 'dafont-military-dingbats' do
     url 'http://dl.dafont.com/dl/?f=military_dingbats'
     name 'Military Dingbats'
     homepage 'http://www.dafont.com/military-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MILIF___.TTF'
 end

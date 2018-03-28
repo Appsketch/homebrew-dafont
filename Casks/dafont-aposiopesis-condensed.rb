@@ -5,7 +5,6 @@ cask 'dafont-aposiopesis-condensed' do
     url 'http://dl.dafont.com/dl/?f=aposiopesis_condensed'
     name 'Aposiopesis Condensed'
     homepage 'http://www.dafont.com/aposiopesis-condensed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aposiopesis Condensed.ttf'
 end

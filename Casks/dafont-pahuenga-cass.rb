@@ -5,7 +5,6 @@ cask 'dafont-pahuenga-cass' do
     url 'http://dl.dafont.com/dl/?f=pahuenga_cass'
     name 'Pahuenga Cass'
     homepage 'http://www.dafont.com/pahuenga-cass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pahuenga Cass.otf'
 end

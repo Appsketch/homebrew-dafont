@@ -5,7 +5,6 @@ cask 'dafont-retro-stereo-wide' do
     url 'http://dl.dafont.com/dl/?f=retro_stereo_wide'
     name 'Retro Mono/Stereo Wide'
     homepage 'http://www.dafont.com/retro-stereo-wide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Retro Mono Wide.ttf'
     font 'Retro Stereo Wide.ttf'

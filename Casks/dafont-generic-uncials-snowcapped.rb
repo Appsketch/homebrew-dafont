@@ -5,7 +5,6 @@ cask 'dafont-generic-uncials-snowcapped' do
     url 'http://dl.dafont.com/dl/?f=generic_uncials_snowcapped'
     name 'Generic Uncials SnowCapped'
     homepage 'http://www.dafont.com/generic-uncials-snowcapped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GenericUncialsSnowCapped.ttf'
 end

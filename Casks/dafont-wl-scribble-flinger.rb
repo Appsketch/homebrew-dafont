@@ -5,7 +5,6 @@ cask 'dafont-wl-scribble-flinger' do
     url 'http://dl.dafont.com/dl/?f=wl_scribble_flinger'
     name 'WL Scribble Flinger'
     homepage 'http://www.dafont.com/wl-scribble-flinger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WLScribbleFlinger.ttf'
 end

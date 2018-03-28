@@ -5,7 +5,6 @@ cask 'dafont-floraless' do
     url 'http://dl.dafont.com/dl/?f=floraless'
     name 'Floraless'
     homepage 'http://www.dafont.com/floraless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Floraless.ttf'
 end

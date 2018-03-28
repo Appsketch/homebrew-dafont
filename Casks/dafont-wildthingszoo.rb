@@ -5,7 +5,6 @@ cask 'dafont-wildthingszoo' do
     url 'http://dl.dafont.com/dl/?f=wildthingszoo'
     name 'Wild Things Zoo'
     homepage 'http://www.dafont.com/wildthingszoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WildThingsZoo.ttf'
 end

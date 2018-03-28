@@ -5,7 +5,6 @@ cask 'dafont-sierra-nevada-road' do
     url 'http://dl.dafont.com/dl/?f=sierra_nevada_road'
     name 'Sierra Nevada Road'
     homepage 'http://www.dafont.com/sierra-nevada-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sierra Nevada Road SC.ttf'
     font 'Sierra Nevada Road.ttf'

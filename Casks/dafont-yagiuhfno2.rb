@@ -5,7 +5,6 @@ cask 'dafont-yagiuhfno2' do
     url 'http://dl.dafont.com/dl/?f=yagiuhfno2'
     name 'YagiUhfNo2'
     homepage 'http://www.dafont.com/yagiuhfno2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YagiUhfNo2.otf'
 end

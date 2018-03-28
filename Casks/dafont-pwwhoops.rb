@@ -5,7 +5,6 @@ cask 'dafont-pwwhoops' do
     url 'http://dl.dafont.com/dl/?f=pwwhoops'
     name 'PW Whoops'
     homepage 'http://www.dafont.com/pwwhoops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWWhoops.ttf'
 end

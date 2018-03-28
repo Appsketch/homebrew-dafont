@@ -5,7 +5,6 @@ cask 'dafont-wide-noise' do
     url 'http://dl.dafont.com/dl/?f=wide_noise'
     name 'Wide Noise'
     homepage 'http://www.dafont.com/wide-noise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WideNoise.otf'
 end

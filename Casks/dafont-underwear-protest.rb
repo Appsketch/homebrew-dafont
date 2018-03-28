@@ -5,7 +5,6 @@ cask 'dafont-underwear-protest' do
     url 'http://dl.dafont.com/dl/?f=underwear_protest'
     name 'Underwear Protest'
     homepage 'http://www.dafont.com/underwear-protest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Underwear Protest.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-caracura' do
     url 'http://dl.dafont.com/dl/?f=caracura'
     name 'Caracura'
     homepage 'http://www.dafont.com/caracura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CARACURA.TTF'
 end

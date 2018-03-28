@@ -5,7 +5,6 @@ cask 'dafont-mega-slant-line' do
     url 'http://dl.dafont.com/dl/?f=mega_slant_line'
     name 'Mega Slant Line'
     homepage 'http://www.dafont.com/mega-slant-line.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEGA SLANT LINE_3D.ttf'
     font 'MEGA SLANT LINE.otf'

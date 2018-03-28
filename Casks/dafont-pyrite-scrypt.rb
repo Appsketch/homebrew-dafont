@@ -5,7 +5,6 @@ cask 'dafont-pyrite-scrypt' do
     url 'http://dl.dafont.com/dl/?f=pyrite_scrypt'
     name 'Pyrite Scrypt'
     homepage 'http://www.dafont.com/pyrite-scrypt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pyrite Scrypt.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-droido' do
     url 'http://dl.dafont.com/dl/?f=droido'
     name 'Droido'
     homepage 'http://www.dafont.com/droido.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Droido-Medium.otf'
 end

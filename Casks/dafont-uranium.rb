@@ -5,7 +5,6 @@ cask 'dafont-uranium' do
     url 'http://dl.dafont.com/dl/?f=uranium'
     name 'Uranium'
     homepage 'http://www.dafont.com/uranium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'uranium.ttf'
 end

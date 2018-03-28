@@ -5,7 +5,6 @@ cask 'dafont-tetraclericton' do
     url 'http://dl.dafont.com/dl/?f=tetraclericton'
     name 'Tetraclericton'
     homepage 'http://www.dafont.com/tetraclericton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tetraclericton.ttf'
 end

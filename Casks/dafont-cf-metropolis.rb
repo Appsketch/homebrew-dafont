@@ -5,7 +5,6 @@ cask 'dafont-cf-metropolis' do
     url 'http://dl.dafont.com/dl/?f=cf_metropolis'
     name 'CF Metropolis'
     homepage 'http://www.dafont.com/cf-metropolis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFMetropolis.ttf'
 end

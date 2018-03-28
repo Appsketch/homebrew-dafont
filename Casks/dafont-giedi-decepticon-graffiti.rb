@@ -5,7 +5,6 @@ cask 'dafont-giedi-decepticon-graffiti' do
     url 'http://dl.dafont.com/dl/?f=giedi_decepticon_graffiti'
     name 'Giedi Decepticon Graffiti'
     homepage 'http://www.dafont.com/giedi-decepticon-graffiti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Giedi Decepticon Graffiti.otf'
 end

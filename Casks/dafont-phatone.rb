@@ -5,7 +5,6 @@ cask 'dafont-phatone' do
     url 'http://dl.dafont.com/dl/?f=phatone'
     name 'Phatone'
     homepage 'http://www.dafont.com/phatone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phatone-Regular.otf'
 end

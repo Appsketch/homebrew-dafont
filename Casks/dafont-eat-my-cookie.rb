@@ -5,7 +5,6 @@ cask 'dafont-eat-my-cookie' do
     url 'http://dl.dafont.com/dl/?f=eat_my_cookie'
     name 'Eat My Cookie'
     homepage 'http://www.dafont.com/eat-my-cookie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EatMyCookie.ttf'
 end

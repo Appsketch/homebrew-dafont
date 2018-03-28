@@ -5,7 +5,6 @@ cask 'dafont-bouwsma-uncial' do
     url 'http://dl.dafont.com/dl/?f=bouwsma_uncial'
     name 'Bouwsma Uncial'
     homepage 'http://www.dafont.com/bouwsma-uncial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BouwsUnc.ttf'
 end

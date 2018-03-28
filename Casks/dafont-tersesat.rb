@@ -5,7 +5,6 @@ cask 'dafont-tersesat' do
     url 'http://dl.dafont.com/dl/?f=tersesat'
     name 'Tersesat'
     homepage 'http://www.dafont.com/tersesat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tersesat.ttf'
 end

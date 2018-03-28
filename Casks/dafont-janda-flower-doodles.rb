@@ -5,7 +5,6 @@ cask 'dafont-janda-flower-doodles' do
     url 'http://dl.dafont.com/dl/?f=janda_flower_doodles'
     name 'Janda Flower Doodles'
     homepage 'http://www.dafont.com/janda-flower-doodles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaFlowerDoodles.ttf'
 end

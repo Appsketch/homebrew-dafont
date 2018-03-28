@@ -5,7 +5,6 @@ cask 'dafont-gordon' do
     url 'http://dl.dafont.com/dl/?f=gordon'
     name 'Gordon'
     homepage 'http://www.dafont.com/gordon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gordon.ttf'
 end

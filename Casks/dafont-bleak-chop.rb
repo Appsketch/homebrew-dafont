@@ -5,7 +5,6 @@ cask 'dafont-bleak-chop' do
     url 'http://dl.dafont.com/dl/?f=bleak_chop'
     name 'Bleak Chop'
     homepage 'http://www.dafont.com/bleak-chop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bleak Chop.ttf'
 end

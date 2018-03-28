@@ -5,7 +5,6 @@ cask 'dafont-bd-wakarimasu' do
     url 'http://dl.dafont.com/dl/?f=bd_wakarimasu'
     name 'BD Wakarimasu'
     homepage 'http://www.dafont.com/bd-wakarimasu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDWAK___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-milk-shake-fraise' do
     url 'http://dl.dafont.com/dl/?f=milk_shake_fraise'
     name 'Milk Shake Fraise'
     homepage 'http://www.dafont.com/milk-shake-fraise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Milk Shake Fraise.ttf'
 end

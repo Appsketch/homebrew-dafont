@@ -5,7 +5,6 @@ cask 'dafont-coming-home' do
     url 'http://dl.dafont.com/dl/?f=coming_home'
     name 'Coming Home'
     homepage 'http://www.dafont.com/coming-home.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ComingHome.ttf'
 end

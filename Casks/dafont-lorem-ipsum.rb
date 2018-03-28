@@ -5,7 +5,6 @@ cask 'dafont-lorem-ipsum' do
     url 'http://dl.dafont.com/dl/?f=lorem_ipsum'
     name 'Lorem Ipsum'
     homepage 'http://www.dafont.com/lorem-ipsum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LoremIpsum.ttf'
 end

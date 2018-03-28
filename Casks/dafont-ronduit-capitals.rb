@@ -5,7 +5,6 @@ cask 'dafont-ronduit-capitals' do
     url 'http://dl.dafont.com/dl/?f=ronduit_capitals'
     name 'Ronduit Capitals'
     homepage 'http://www.dafont.com/ronduit-capitals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RonduitCapitals-Light.otf'
 end

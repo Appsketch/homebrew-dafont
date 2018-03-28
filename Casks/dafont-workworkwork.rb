@@ -5,7 +5,6 @@ cask 'dafont-workworkwork' do
     url 'http://dl.dafont.com/dl/?f=workworkwork'
     name 'Work Work Work'
     homepage 'http://www.dafont.com/workworkwork.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WorkWorkWork Beta.ttf'
 end

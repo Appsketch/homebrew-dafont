@@ -5,7 +5,6 @@ cask 'dafont-sandwich' do
     url 'http://dl.dafont.com/dl/?f=sandwich'
     name 'Sandwich'
     homepage 'http://www.dafont.com/sandwich.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sandwich.ttf'
 end

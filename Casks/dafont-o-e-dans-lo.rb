@@ -5,7 +5,6 @@ cask 'dafont-o-e-dans-lo' do
     url 'http://dl.dafont.com/dl/?f=o_e_dans_lo'
     name 'OE dans l&#039;O'
     homepage 'http://www.dafont.com/o-e-dans-lo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'O E dans l O.ttf'
 end

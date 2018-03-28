@@ -5,7 +5,6 @@ cask 'dafont-journal' do
     url 'http://dl.dafont.com/dl/?f=journal'
     name 'Journal'
     homepage 'http://www.dafont.com/journal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JOURNAL.TTF'
 end

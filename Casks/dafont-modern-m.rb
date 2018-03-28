@@ -5,7 +5,6 @@ cask 'dafont-modern-m' do
     url 'http://dl.dafont.com/dl/?f=modern_m'
     name 'Modern M'
     homepage 'http://www.dafont.com/modern-m.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'modern M.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dited' do
     url 'http://dl.dafont.com/dl/?f=dited'
     name 'Dited'
     homepage 'http://www.dafont.com/dited.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dited.otf'
 end

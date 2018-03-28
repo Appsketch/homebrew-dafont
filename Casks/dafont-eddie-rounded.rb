@@ -5,7 +5,6 @@ cask 'dafont-eddie-rounded' do
     url 'http://dl.dafont.com/dl/?f=eddie_rounded'
     name 'Eddie Rounded'
     homepage 'http://www.dafont.com/eddie-rounded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eddie Rounded.ttf'
 end

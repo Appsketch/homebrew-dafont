@@ -5,7 +5,6 @@ cask 'dafont-almanac' do
     url 'http://dl.dafont.com/dl/?f=almanac'
     name 'Almanac'
     homepage 'http://www.dafont.com/almanac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'almanac italic grunge.ttf'
 end

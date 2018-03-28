@@ -5,7 +5,6 @@ cask 'dafont-clawripper' do
     url 'http://dl.dafont.com/dl/?f=clawripper'
     name 'Clawripper'
     homepage 'http://www.dafont.com/clawripper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ripperclaw.ttf'
 end

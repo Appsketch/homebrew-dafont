@@ -5,7 +5,6 @@ cask 'dafont-fettecke' do
     url 'http://dl.dafont.com/dl/?f=fettecke'
     name 'Fettecke'
     homepage 'http://www.dafont.com/fettecke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fettecke.ttf'
 end

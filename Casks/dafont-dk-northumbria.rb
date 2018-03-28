@@ -5,7 +5,6 @@ cask 'dafont-dk-northumbria' do
     url 'http://dl.dafont.com/dl/?f=dk_northumbria'
     name 'DK Northumbria'
     homepage 'http://www.dafont.com/dk-northumbria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Northumbria.otf'
 end

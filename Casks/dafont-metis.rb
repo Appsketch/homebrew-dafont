@@ -5,7 +5,6 @@ cask 'dafont-metis' do
     url 'http://dl.dafont.com/dl/?f=metis'
     name 'Metis'
     homepage 'http://www.dafont.com/metis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Metis.ttf'
 end

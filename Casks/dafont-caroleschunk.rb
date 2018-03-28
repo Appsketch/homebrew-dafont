@@ -5,7 +5,6 @@ cask 'dafont-caroleschunk' do
     url 'http://dl.dafont.com/dl/?f=caroleschunk'
     name 'Caroles Chunk'
     homepage 'http://www.dafont.com/caroleschunk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'carolchk.ttf'
 end

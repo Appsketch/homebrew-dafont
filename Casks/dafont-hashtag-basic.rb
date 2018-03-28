@@ -5,7 +5,6 @@ cask 'dafont-hashtag-basic' do
     url 'http://dl.dafont.com/dl/?f=hashtag_basic'
     name 'Hashtag Basic'
     homepage 'http://www.dafont.com/hashtag-basic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HashtagBasic.otf'
 end

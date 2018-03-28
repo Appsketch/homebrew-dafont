@@ -5,7 +5,6 @@ cask 'dafont-another-name-for' do
     url 'http://dl.dafont.com/dl/?f=another_name_for'
     name 'Another name for'
     homepage 'http://www.dafont.com/another-name-for.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Another name for.ttf'
 end

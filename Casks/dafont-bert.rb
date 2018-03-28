@@ -5,7 +5,6 @@ cask 'dafont-bert' do
     url 'http://dl.dafont.com/dl/?f=bert'
     name 'Bert'
     homepage 'http://www.dafont.com/bert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BERT____.TTF'
 end

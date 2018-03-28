@@ -5,7 +5,6 @@ cask 'dafont-lazing-on-a-sunny-afternoon' do
     url 'http://dl.dafont.com/dl/?f=lazing_on_a_sunny_afternoon'
     name 'Lazing on a sunny afternoon'
     homepage 'http://www.dafont.com/lazing-on-a-sunny-afternoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lazing_on_a_sunny_afternoon.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-zacharybinx' do
     url 'http://dl.dafont.com/dl/?f=zacharybinx'
     name 'Zachary Binx'
     homepage 'http://www.dafont.com/zacharybinx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZacharyBinx.ttf'
 end

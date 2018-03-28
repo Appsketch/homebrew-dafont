@@ -5,7 +5,6 @@ cask 'dafont-hearthole' do
     url 'http://dl.dafont.com/dl/?f=hearthole'
     name 'Heart Hole'
     homepage 'http://www.dafont.com/hearthole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeartHole.ttf'
 end

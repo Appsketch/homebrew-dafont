@@ -5,7 +5,6 @@ cask 'dafont-akaposse' do
     url 'http://dl.dafont.com/dl/?f=akaposse'
     name 'Aka Posse'
     homepage 'http://www.dafont.com/akaposse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'akaPosse.ttf'
 end

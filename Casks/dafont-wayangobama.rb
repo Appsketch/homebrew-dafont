@@ -5,7 +5,6 @@ cask 'dafont-wayangobama' do
     url 'http://dl.dafont.com/dl/?f=wayangobama'
     name 'Wayang Obama'
     homepage 'http://www.dafont.com/wayangobama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WayangObama2009b.ttf'
 end

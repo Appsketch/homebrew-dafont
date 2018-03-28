@@ -5,7 +5,6 @@ cask 'dafont-happy-brown-cat' do
     url 'http://dl.dafont.com/dl/?f=happy_brown_cat'
     name 'Happy brown cat'
     homepage 'http://www.dafont.com/happy-brown-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Happy_brown_cat_shadow.ttf'
     font 'Happy_brown_cat.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-claireshand' do
     url 'http://dl.dafont.com/dl/?f=claireshand'
     name 'Claires Hand'
     homepage 'http://www.dafont.com/claireshand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ClairesHand.ttf'
 end

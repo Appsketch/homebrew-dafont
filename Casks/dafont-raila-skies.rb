@@ -5,7 +5,6 @@ cask 'dafont-raila-skies' do
     url 'http://dl.dafont.com/dl/?f=raila_skies'
     name 'Raila Skies'
     homepage 'http://www.dafont.com/raila-skies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raila Skies.ttf'
 end

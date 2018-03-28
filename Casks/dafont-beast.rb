@@ -5,7 +5,6 @@ cask 'dafont-beast' do
     url 'http://dl.dafont.com/dl/?f=beast'
     name 'Beast'
     homepage 'http://www.dafont.com/beast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEAST___.TTF'
 end

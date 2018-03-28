@@ -5,7 +5,6 @@ cask 'dafont-terrotunda' do
     url 'http://dl.dafont.com/dl/?f=terrotunda'
     name 'Terrotunda'
     homepage 'http://www.dafont.com/terrotunda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Terrotunda.ttf'
 end

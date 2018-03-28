@@ -5,7 +5,6 @@ cask 'dafont-pink-ladies-and-peanutbutte' do
     url 'http://dl.dafont.com/dl/?f=pink_ladies_and_peanutbutte'
     name 'Pink Ladies and Peanutbutte'
     homepage 'http://www.dafont.com/pink-ladies-and-peanutbutte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pink Ladies and Peanutbutter Regular.ttf'
 end

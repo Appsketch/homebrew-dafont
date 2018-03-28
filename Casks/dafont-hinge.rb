@@ -5,7 +5,6 @@ cask 'dafont-hinge' do
     url 'http://dl.dafont.com/dl/?f=hinge'
     name 'Hinge'
     homepage 'http://www.dafont.com/hinge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hinge.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-landi-echo' do
     url 'http://dl.dafont.com/dl/?f=landi_echo'
     name 'Landi Echo'
     homepage 'http://www.dafont.com/landi-echo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Landi_Echo.otf'
 end

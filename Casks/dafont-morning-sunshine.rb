@@ -5,7 +5,6 @@ cask 'dafont-morning-sunshine' do
     url 'http://dl.dafont.com/dl/?f=morning_sunshine'
     name 'Morning Sunshine'
     homepage 'http://www.dafont.com/morning-sunshine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'morning sunshine.ttf'
 end

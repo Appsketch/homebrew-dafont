@@ -5,7 +5,6 @@ cask 'dafont-k22-lawenta' do
     url 'http://dl.dafont.com/dl/?f=k22_lawenta'
     name 'K22 Lawenta'
     homepage 'http://www.dafont.com/k22-lawenta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K22 Lawenta.ttf'
 end

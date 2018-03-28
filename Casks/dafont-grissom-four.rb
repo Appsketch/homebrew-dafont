@@ -5,7 +5,6 @@ cask 'dafont-grissom-four' do
     url 'http://dl.dafont.com/dl/?f=grissom_four'
     name 'Grissom Four'
     homepage 'http://www.dafont.com/grissom-four.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grissom Four.ttf'
 end

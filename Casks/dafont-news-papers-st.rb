@@ -5,7 +5,6 @@ cask 'dafont-news-papers-st' do
     url 'http://dl.dafont.com/dl/?f=news_papers_st'
     name 'News papers ST'
     homepage 'http://www.dafont.com/news-papers-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'News papers st.ttf'
 end

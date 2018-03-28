@@ -5,7 +5,6 @@ cask 'dafont-dreadlox' do
     url 'http://dl.dafont.com/dl/?f=dreadlox'
     name 'DreadLox'
     homepage 'http://www.dafont.com/dreadlox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dreadSW.ttf'
 end

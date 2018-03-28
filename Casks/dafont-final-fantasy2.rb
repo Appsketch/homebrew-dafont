@@ -5,7 +5,6 @@ cask 'dafont-final-fantasy2' do
     url 'http://dl.dafont.com/dl/?f=final_fantasy2'
     name 'Final Fantasy'
     homepage 'http://www.dafont.com/final-fantasy2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Final-Fantasy.ttf'
 end

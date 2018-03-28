@@ -5,7 +5,6 @@ cask 'dafont-morgante' do
     url 'http://dl.dafont.com/dl/?f=morgante'
     name 'Morgante'
     homepage 'http://www.dafont.com/morgante.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Morgante.ttf'
 end

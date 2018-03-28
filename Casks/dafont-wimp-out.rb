@@ -5,7 +5,6 @@ cask 'dafont-wimp-out' do
     url 'http://dl.dafont.com/dl/?f=wimp_out'
     name 'Wimp-Out'
     homepage 'http://www.dafont.com/wimp-out.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wimp.ttf'
     font 'wimp3d.ttf'

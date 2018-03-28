@@ -5,7 +5,6 @@ cask 'dafont-zombilaria' do
     url 'http://dl.dafont.com/dl/?f=zombilaria'
     name 'Zombilaria'
     homepage 'http://www.dafont.com/zombilaria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZOMBILAR.TTF'
 end

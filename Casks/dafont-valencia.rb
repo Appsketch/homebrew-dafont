@@ -5,7 +5,6 @@ cask 'dafont-valencia' do
     url 'http://dl.dafont.com/dl/?f=valencia'
     name 'Valencia'
     homepage 'http://www.dafont.com/valencia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Valencia.ttf'
 end

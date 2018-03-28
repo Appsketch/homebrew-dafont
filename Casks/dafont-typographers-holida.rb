@@ -5,7 +5,6 @@ cask 'dafont-typographers-holida' do
     url 'http://dl.dafont.com/dl/?f=typographers_holida'
     name 'Typographers Holidayfont'
     homepage 'http://www.dafont.com/typographers-holida.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Holidayfont.ttf'
 end

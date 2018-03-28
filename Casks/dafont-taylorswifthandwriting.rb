@@ -5,7 +5,6 @@ cask 'dafont-taylorswifthandwriting' do
     url 'http://dl.dafont.com/dl/?f=taylorswifthandwriting'
     name 'Taylor Swift Handwriting'
     homepage 'http://www.dafont.com/taylorswifthandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Taylor Swift Handwriting.ttf'
 end

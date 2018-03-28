@@ -5,7 +5,6 @@ cask 'dafont-fecske' do
     url 'http://dl.dafont.com/dl/?f=fecske'
     name 'Fecske'
     homepage 'http://www.dafont.com/fecske.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fecske.ttf'
 end

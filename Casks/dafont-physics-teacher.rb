@@ -5,7 +5,6 @@ cask 'dafont-physics-teacher' do
     url 'http://dl.dafont.com/dl/?f=physics_teacher'
     name 'Physics Teacher'
     homepage 'http://www.dafont.com/physics-teacher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Physics Teacher.ttf'
 end

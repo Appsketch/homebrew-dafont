@@ -5,7 +5,6 @@ cask 'dafont-plavsky' do
     url 'http://dl.dafont.com/dl/?f=plavsky'
     name 'Plavsky'
     homepage 'http://www.dafont.com/plavsky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plavsky Bold Italic.otf'
     font 'Plavsky Bold.otf'

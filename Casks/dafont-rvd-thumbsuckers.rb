@@ -5,7 +5,6 @@ cask 'dafont-rvd-thumbsuckers' do
     url 'http://dl.dafont.com/dl/?f=rvd_thumbsuckers'
     name 'RvD Thumbsuckers'
     homepage 'http://www.dafont.com/rvd-thumbsuckers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RvD_THUMBSUCKERS.ttf'
 end

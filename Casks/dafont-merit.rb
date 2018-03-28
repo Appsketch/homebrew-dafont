@@ -5,7 +5,6 @@ cask 'dafont-merit' do
     url 'http://dl.dafont.com/dl/?f=merit'
     name 'Merit'
     homepage 'http://www.dafont.com/merit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'merit4.ttf'
     font 'merititalic4.ttf'

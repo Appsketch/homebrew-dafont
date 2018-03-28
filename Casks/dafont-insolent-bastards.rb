@@ -5,7 +5,6 @@ cask 'dafont-insolent-bastards' do
     url 'http://dl.dafont.com/dl/?f=insolent_bastards'
     name 'Insolent Bastards'
     homepage 'http://www.dafont.com/insolent-bastards.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Insolent_Bastards.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-k-o-d-e-39-hidden' do
     url 'http://dl.dafont.com/dl/?f=k_o_d_e_39_hidden'
     name 'K-o-d-e-39 Hidden'
     homepage 'http://www.dafont.com/k-o-d-e-39-hidden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K-O-D-E-39 Hidden.ttf'
 end

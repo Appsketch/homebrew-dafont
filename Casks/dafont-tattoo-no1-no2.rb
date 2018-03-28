@@ -5,7 +5,6 @@ cask 'dafont-tattoo-no1-no2' do
     url 'http://dl.dafont.com/dl/?f=tattoo_no1_no2'
     name 'FE Tattoo'
     homepage 'http://www.dafont.com/tattoo-no1-no2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE Tattoo No.1.otf'
     font 'FE Tattoo No.2.otf'

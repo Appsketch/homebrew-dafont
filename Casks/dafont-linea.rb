@@ -5,7 +5,6 @@ cask 'dafont-linea' do
     url 'http://dl.dafont.com/dl/?f=linea'
     name 'Linea'
     homepage 'http://www.dafont.com/linea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'linea01.ttf'
 end

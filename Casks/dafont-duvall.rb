@@ -5,7 +5,6 @@ cask 'dafont-duvall' do
     url 'http://dl.dafont.com/dl/?f=duvall'
     name 'Duvall'
     homepage 'http://www.dafont.com/duvall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Duvall Bold.ttf'
     font 'Duvall.ttf'

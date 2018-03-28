@@ -5,7 +5,6 @@ cask 'dafont-harristoon' do
     url 'http://dl.dafont.com/dl/?f=harristoon'
     name 'Harristoon'
     homepage 'http://www.dafont.com/harristoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Harristoon.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-block-code' do
     url 'http://dl.dafont.com/dl/?f=block_code'
     name 'Block Code'
     homepage 'http://www.dafont.com/block-code.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '003 Block Code.ttf'
 end

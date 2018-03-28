@@ -5,7 +5,6 @@ cask 'dafont-low-gun-screen' do
     url 'http://dl.dafont.com/dl/?f=low_gun_screen'
     name 'Low Gun Screen'
     homepage 'http://www.dafont.com/low-gun-screen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lgs.ttf'
     font 'lgsb.ttf'

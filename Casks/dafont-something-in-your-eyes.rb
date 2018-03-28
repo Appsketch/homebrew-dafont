@@ -5,7 +5,6 @@ cask 'dafont-something-in-your-eyes' do
     url 'http://dl.dafont.com/dl/?f=something_in_your_eyes'
     name 'Something in your eyes'
     homepage 'http://www.dafont.com/something-in-your-eyes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'something in your eyes.ttf'
 end

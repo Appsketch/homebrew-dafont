@@ -5,7 +5,6 @@ cask 'dafont-somebercum-sans-serif' do
     url 'http://dl.dafont.com/dl/?f=somebercum_sans_serif'
     name 'Somebercum Sans Serif'
     homepage 'http://www.dafont.com/somebercum-sans-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Somebercum_Sans_Serif.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-moebius' do
     url 'http://dl.dafont.com/dl/?f=moebius'
     name 'Moebius'
     homepage 'http://www.dafont.com/moebius.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moebius.ttf'
 end

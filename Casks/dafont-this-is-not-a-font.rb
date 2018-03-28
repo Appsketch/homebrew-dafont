@@ -5,7 +5,6 @@ cask 'dafont-this-is-not-a-font' do
     url 'http://dl.dafont.com/dl/?f=this_is_not_a_font'
     name 'This is not a font'
     homepage 'http://www.dafont.com/this-is-not-a-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'This not a font.ttf'
 end

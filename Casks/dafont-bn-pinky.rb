@@ -5,7 +5,6 @@ cask 'dafont-bn-pinky' do
     url 'http://dl.dafont.com/dl/?f=bn_pinky'
     name 'BN Pinky'
     homepage 'http://www.dafont.com/bn-pinky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BN Pinky Bold.ttf'
     font 'BN Pinky.ttf'

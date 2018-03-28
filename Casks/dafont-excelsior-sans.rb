@@ -5,7 +5,6 @@ cask 'dafont-excelsior-sans' do
     url 'http://dl.dafont.com/dl/?f=excelsior_sans'
     name 'Excelsior Sans'
     homepage 'http://www.dafont.com/excelsior-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExcelsiorSans.ttf'
 end

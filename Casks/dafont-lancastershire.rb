@@ -5,7 +5,6 @@ cask 'dafont-lancastershire' do
     url 'http://dl.dafont.com/dl/?f=lancastershire'
     name 'Lancastershire'
     homepage 'http://www.dafont.com/lancastershire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lancastershire.ttf'
 end

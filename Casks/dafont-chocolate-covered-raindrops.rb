@@ -5,7 +5,6 @@ cask 'dafont-chocolate-covered-raindrops' do
     url 'http://dl.dafont.com/dl/?f=chocolate_covered_raindrops'
     name 'Chocolate Covered Raindrops'
     homepage 'http://www.dafont.com/chocolate-covered-raindrops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chocolate Covered Raindrops BOLD.ttf'
     font 'Chocolate Covered Raindrops Hollow.ttf'

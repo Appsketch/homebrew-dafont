@@ -5,7 +5,6 @@ cask 'dafont-tha-boukagnes' do
     url 'http://dl.dafont.com/dl/?f=tha_boukagnes'
     name 'Tha Boukagne&#039;s'
     homepage 'http://www.dafont.com/tha-boukagnes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tha Boukagnes (extra).ttf'
 end

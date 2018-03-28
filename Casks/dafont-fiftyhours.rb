@@ -5,7 +5,6 @@ cask 'dafont-fiftyhours' do
     url 'http://dl.dafont.com/dl/?f=fiftyhours'
     name 'Fifty Hours'
     homepage 'http://www.dafont.com/fiftyhours.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FiftyHours.ttf'
 end

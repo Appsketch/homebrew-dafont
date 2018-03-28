@@ -5,7 +5,6 @@ cask 'dafont-lugina' do
     url 'http://dl.dafont.com/dl/?f=lugina'
     name 'Lugina'
     homepage 'http://www.dafont.com/lugina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lugina FP-Heavy.ttf'
     font 'Lugina FP-Light.ttf'

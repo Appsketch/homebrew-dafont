@@ -5,7 +5,6 @@ cask 'dafont-unisketch' do
     url 'http://dl.dafont.com/dl/?f=unisketch'
     name 'Unisketch'
     homepage 'http://www.dafont.com/unisketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unisketch-bold_limited.ttf'
     font 'Unisketch-light_limited.ttf'

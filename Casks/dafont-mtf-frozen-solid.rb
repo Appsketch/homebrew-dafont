@@ -5,7 +5,6 @@ cask 'dafont-mtf-frozen-solid' do
     url 'http://dl.dafont.com/dl/?f=mtf_frozen_solid'
     name 'MTF Frozen Solid'
     homepage 'http://www.dafont.com/mtf-frozen-solid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Frozen Solid.ttf'
 end

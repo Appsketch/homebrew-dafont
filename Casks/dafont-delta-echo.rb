@@ -5,7 +5,6 @@ cask 'dafont-delta-echo' do
     url 'http://dl.dafont.com/dl/?f=delta_echo'
     name 'Delta Echo'
     homepage 'http://www.dafont.com/delta-echo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'delta.ttf'
 end

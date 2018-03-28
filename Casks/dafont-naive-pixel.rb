@@ -5,7 +5,6 @@ cask 'dafont-naive-pixel' do
     url 'http://dl.dafont.com/dl/?f=naive_pixel'
     name 'Na&iuml;ve Pixel'
     homepage 'http://www.dafont.com/naive-pixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'naivepx.fon'
 end

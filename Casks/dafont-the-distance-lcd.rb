@@ -5,7 +5,6 @@ cask 'dafont-the-distance-lcd' do
     url 'http://dl.dafont.com/dl/?f=the_distance_lcd'
     name 'The Distance LCD'
     homepage 'http://www.dafont.com/the-distance-lcd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The-Distance-Lcd.ttf'
 end

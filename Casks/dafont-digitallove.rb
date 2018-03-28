@@ -5,7 +5,6 @@ cask 'dafont-digitallove' do
     url 'http://dl.dafont.com/dl/?f=digitallove'
     name 'Digital Love'
     homepage 'http://www.dafont.com/digitallove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DigitalLove.ttf'
 end

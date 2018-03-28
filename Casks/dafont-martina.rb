@@ -5,7 +5,6 @@ cask 'dafont-martina' do
     url 'http://dl.dafont.com/dl/?f=martina'
     name 'Martina'
     homepage 'http://www.dafont.com/martina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'martinaFont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sun-rain' do
     url 'http://dl.dafont.com/dl/?f=sun_rain'
     name 'Sun &amp; Rain'
     homepage 'http://www.dafont.com/sun-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sun &amp; Rain.ttf'
 end

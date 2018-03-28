@@ -5,7 +5,6 @@ cask 'dafont-never-ending' do
     url 'http://dl.dafont.com/dl/?f=never_ending'
     name 'Never Ending'
     homepage 'http://www.dafont.com/never-ending.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'never_ending.ttf'
 end

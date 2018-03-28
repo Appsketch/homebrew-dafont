@@ -5,7 +5,6 @@ cask 'dafont-tall-lean' do
     url 'http://dl.dafont.com/dl/?f=tall_lean'
     name 'Tall &amp; Lean'
     homepage 'http://www.dafont.com/tall-lean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tall &amp; Lean.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cementeria' do
     url 'http://dl.dafont.com/dl/?f=cementeria'
     name 'Cementeria'
     homepage 'http://www.dafont.com/cementeria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cementeria.TTF'
 end

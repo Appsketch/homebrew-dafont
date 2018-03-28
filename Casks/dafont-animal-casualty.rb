@@ -5,7 +5,6 @@ cask 'dafont-animal-casualty' do
     url 'http://dl.dafont.com/dl/?f=animal_casualty'
     name 'Animal Casualty'
     homepage 'http://www.dafont.com/animal-casualty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnimalCasualty.ttf'
 end

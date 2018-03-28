@@ -5,7 +5,6 @@ cask 'dafont-versitia' do
     url 'http://dl.dafont.com/dl/?f=versitia'
     name 'Versitia'
     homepage 'http://www.dafont.com/versitia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Versitia.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-healthcare-symbols' do
     url 'http://dl.dafont.com/dl/?f=healthcare_symbols'
     name 'Healthcare Symbols'
     homepage 'http://www.dafont.com/healthcare-symbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'healtsym.ttf'
 end

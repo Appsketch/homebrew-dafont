@@ -5,7 +5,6 @@ cask 'dafont-haze' do
     url 'http://dl.dafont.com/dl/?f=haze'
     name 'Haze'
     homepage 'http://www.dafont.com/haze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Haze Dark Demo.otf'
     font 'Haze Light Demo.otf'

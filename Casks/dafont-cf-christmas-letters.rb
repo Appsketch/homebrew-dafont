@@ -5,7 +5,6 @@ cask 'dafont-cf-christmas-letters' do
     url 'http://dl.dafont.com/dl/?f=cf_christmas_letters'
     name 'CF Christmas Letters'
     homepage 'http://www.dafont.com/cf-christmas-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFChritsmasLetters.ttf'
 end

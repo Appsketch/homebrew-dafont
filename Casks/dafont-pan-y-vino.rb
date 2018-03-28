@@ -5,7 +5,6 @@ cask 'dafont-pan-y-vino' do
     url 'http://dl.dafont.com/dl/?f=pan_y_vino'
     name 'Pan Y Vino'
     homepage 'http://www.dafont.com/pan-y-vino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAN y VINO.ttf'
 end

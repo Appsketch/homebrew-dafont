@@ -5,7 +5,6 @@ cask 'dafont-accedent' do
     url 'http://dl.dafont.com/dl/?f=accedent'
     name 'Accedent'
     homepage 'http://www.dafont.com/accedent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Accedent_v1.1.ttf'
 end

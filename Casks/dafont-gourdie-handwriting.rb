@@ -5,7 +5,6 @@ cask 'dafont-gourdie-handwriting' do
     url 'http://dl.dafont.com/dl/?f=gourdie_handwriting'
     name 'Gourdie Handwriting'
     homepage 'http://www.dafont.com/gourdie-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GourHand.ttf'
 end

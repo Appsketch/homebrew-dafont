@@ -5,7 +5,6 @@ cask 'dafont-master' do
     url 'http://dl.dafont.com/dl/?f=master'
     name 'Master'
     homepage 'http://www.dafont.com/master.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MASTER.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-occoluchi' do
     url 'http://dl.dafont.com/dl/?f=occoluchi'
     name 'Occoluchi'
     homepage 'http://www.dafont.com/occoluchi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Occoluchi Italic Outline.ttf'
     font 'Occoluchi Italic.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-mobilesfont' do
     url 'http://dl.dafont.com/dl/?f=mobilesfont'
     name 'Mobiles'
     homepage 'http://www.dafont.com/mobilesfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MobilesFont.ttf'
 end

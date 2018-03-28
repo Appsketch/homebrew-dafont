@@ -5,7 +5,6 @@ cask 'dafont-cm-chipped-paint' do
     url 'http://dl.dafont.com/dl/?f=cm_chipped_paint'
     name 'CM Chipped Paint'
     homepage 'http://www.dafont.com/cm-chipped-paint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM Chipped Paint.ttf'
 end

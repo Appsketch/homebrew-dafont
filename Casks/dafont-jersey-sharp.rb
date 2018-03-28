@@ -5,7 +5,6 @@ cask 'dafont-jersey-sharp' do
     url 'http://dl.dafont.com/dl/?f=jersey_sharp'
     name 'Jersey Sharp'
     homepage 'http://www.dafont.com/jersey-sharp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jersey Sharp.ttf'
 end

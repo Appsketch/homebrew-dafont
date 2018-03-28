@@ -5,7 +5,6 @@ cask 'dafont-postcrypt' do
     url 'http://dl.dafont.com/dl/?f=postcrypt'
     name 'PostCrypt'
     homepage 'http://www.dafont.com/postcrypt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'postcryp.ttf'
 end

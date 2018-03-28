@@ -5,7 +5,6 @@ cask 'dafont-darius-gardner' do
     url 'http://dl.dafont.com/dl/?f=darius_gardner'
     name 'Darius Gardner'
     homepage 'http://www.dafont.com/darius-gardner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Darius Gardner_&#039;s Handwriting Regular_3.ttf'
 end

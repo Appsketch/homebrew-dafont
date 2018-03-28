@@ -5,7 +5,6 @@ cask 'dafont-hff-xmas-hoedown' do
     url 'http://dl.dafont.com/dl/?f=hff_xmas_hoedown'
     name 'HFF Xmas Hoedown'
     homepage 'http://www.dafont.com/hff-xmas-hoedown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Xmas Hoedown.ttf'
 end

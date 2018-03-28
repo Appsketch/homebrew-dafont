@@ -5,7 +5,6 @@ cask 'dafont-rysky-lines' do
     url 'http://dl.dafont.com/dl/?f=rysky_lines'
     name 'Rysky Lines'
     homepage 'http://www.dafont.com/rysky-lines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rysky Lines.ttf'
 end

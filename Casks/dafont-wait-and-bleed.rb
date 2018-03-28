@@ -5,7 +5,6 @@ cask 'dafont-wait-and-bleed' do
     url 'http://dl.dafont.com/dl/?f=wait_and_bleed'
     name 'Wait and Bleed'
     homepage 'http://www.dafont.com/wait-and-bleed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WAITAB__.TTF'
 end

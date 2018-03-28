@@ -5,7 +5,6 @@ cask 'dafont-artifice-rs' do
     url 'http://dl.dafont.com/dl/?f=artifice_rs'
     name 'Artifice.rs'
     homepage 'http://www.dafont.com/artifice-rs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'artifice.rs-Regular.otf'
 end

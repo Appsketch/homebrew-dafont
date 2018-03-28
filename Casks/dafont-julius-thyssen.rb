@@ -5,7 +5,6 @@ cask 'dafont-julius-thyssen' do
     url 'http://dl.dafont.com/dl/?f=julius_thyssen'
     name 'Julius Thyssen'
     homepage 'http://www.dafont.com/julius-thyssen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '9JULIUST.TTF'
 end

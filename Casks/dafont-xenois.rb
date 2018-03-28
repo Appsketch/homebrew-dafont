@@ -5,7 +5,6 @@ cask 'dafont-xenois' do
     url 'http://dl.dafont.com/dl/?f=xenois'
     name 'Xenois'
     homepage 'http://www.dafont.com/xenois.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xenois.ttf'
 end

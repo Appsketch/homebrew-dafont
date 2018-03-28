@@ -5,7 +5,6 @@ cask 'dafont-oh-mai-mai' do
     url 'http://dl.dafont.com/dl/?f=oh_mai_mai'
     name 'Oh! Mai Mai!'
     homepage 'http://www.dafont.com/oh-mai-mai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OMM.ttf'
 end

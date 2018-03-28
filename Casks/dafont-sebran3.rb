@@ -5,7 +5,6 @@ cask 'dafont-sebran3' do
     url 'http://dl.dafont.com/dl/?f=sebran3'
     name 'Sebran 3'
     homepage 'http://www.dafont.com/sebran3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEBRAN3_.TTF'
 end

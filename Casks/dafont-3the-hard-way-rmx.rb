@@ -5,7 +5,6 @@ cask 'dafont-3the-hard-way-rmx' do
     url 'http://dl.dafont.com/dl/?f=3the_hard_way_rmx'
     name '3 the Hard Way Rmx'
     homepage 'http://www.dafont.com/3the-hard-way-rmx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '3 theHard way RMX.ttf'
 end

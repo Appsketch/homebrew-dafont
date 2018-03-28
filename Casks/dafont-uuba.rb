@@ -5,7 +5,6 @@ cask 'dafont-uuba' do
     url 'http://dl.dafont.com/dl/?f=uuba'
     name 'UUBA'
     homepage 'http://www.dafont.com/uuba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UUBAStraight.ttf'
 end

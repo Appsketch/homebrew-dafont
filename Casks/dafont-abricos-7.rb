@@ -5,7 +5,6 @@ cask 'dafont-abricos-7' do
     url 'http://dl.dafont.com/dl/?f=abricos_7'
     name 'Abricos 7'
     homepage 'http://www.dafont.com/abricos-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'abricos_7.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-art-decor' do
     url 'http://dl.dafont.com/dl/?f=art_decor'
     name 'Art decor'
     homepage 'http://www.dafont.com/art-decor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Art_decor.ttf'
 end

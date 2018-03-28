@@ -5,7 +5,6 @@ cask 'dafont-dawning-of-a-new-day' do
     url 'http://dl.dafont.com/dl/?f=dawning_of_a_new_day'
     name 'Dawning of a New Day'
     homepage 'http://www.dafont.com/dawning-of-a-new-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DawningofaNewDay.ttf'
 end

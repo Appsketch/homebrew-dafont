@@ -5,7 +5,6 @@ cask 'dafont-zyphyte' do
     url 'http://dl.dafont.com/dl/?f=zyphyte'
     name 'Zyphyte'
     homepage 'http://www.dafont.com/zyphyte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zyphyte.ttf'
     font 'ZyphyteCondense.ttf'

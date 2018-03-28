@@ -5,7 +5,6 @@ cask 'dafont-palm-of-buddha' do
     url 'http://dl.dafont.com/dl/?f=palm_of_buddha'
     name 'Palm of Buddha'
     homepage 'http://www.dafont.com/palm-of-buddha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PalmofBuddha.ttf'
 end

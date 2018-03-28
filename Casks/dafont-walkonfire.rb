@@ -5,7 +5,6 @@ cask 'dafont-walkonfire' do
     url 'http://dl.dafont.com/dl/?f=walkonfire'
     name 'Walk On Fire'
     homepage 'http://www.dafont.com/walkonfire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WalkonFire.ttf'
 end

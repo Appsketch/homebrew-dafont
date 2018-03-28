@@ -5,7 +5,6 @@ cask 'dafont-mad-potato-bill' do
     url 'http://dl.dafont.com/dl/?f=mad_potato_bill'
     name 'Mad Potato Bill'
     homepage 'http://www.dafont.com/mad-potato-bill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mad Potato Bill.ttf'
 end

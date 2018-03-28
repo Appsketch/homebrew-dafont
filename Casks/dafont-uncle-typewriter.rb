@@ -5,7 +5,6 @@ cask 'dafont-uncle-typewriter' do
     url 'http://dl.dafont.com/dl/?f=uncle_typewriter'
     name 'Uncle Typewriter'
     homepage 'http://www.dafont.com/uncle-typewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UNCLETYP.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-resagnicto' do
     url 'http://dl.dafont.com/dl/?f=resagnicto'
     name 'Resagnicto'
     homepage 'http://www.dafont.com/resagnicto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Resagnicto.ttf'
     font 'ResagnictoBold.ttf'

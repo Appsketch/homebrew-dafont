@@ -5,7 +5,6 @@ cask 'dafont-buteco' do
     url 'http://dl.dafont.com/dl/?f=buteco'
     name 'Buteco'
     homepage 'http://www.dafont.com/buteco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUTECO__.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-decibel-dingbats' do
     url 'http://dl.dafont.com/dl/?f=decibel_dingbats'
     name 'Decibel Dingbats'
     homepage 'http://www.dafont.com/decibel-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'decibel_dingbats.ttf'
 end

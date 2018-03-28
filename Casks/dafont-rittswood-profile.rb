@@ -5,7 +5,6 @@ cask 'dafont-rittswood-profile' do
     url 'http://dl.dafont.com/dl/?f=rittswood_profile'
     name 'Rittswood Profile'
     homepage 'http://www.dafont.com/rittswood-profile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'r-profil_6_bld.ttf'
     font 'r-profil_6.ttf'

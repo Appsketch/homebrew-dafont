@@ -5,7 +5,6 @@ cask 'dafont-pwchalk' do
     url 'http://dl.dafont.com/dl/?f=pwchalk'
     name 'PW Chalk'
     homepage 'http://www.dafont.com/pwchalk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWChalk.ttf'
 end

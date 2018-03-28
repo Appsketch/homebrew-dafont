@@ -5,7 +5,6 @@ cask 'dafont-kb3sugarplumswirls' do
     url 'http://dl.dafont.com/dl/?f=kb3sugarplumswirls'
     name 'KB3 Sugarplum Swirls'
     homepage 'http://www.dafont.com/kb3sugarplumswirls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KB3SugarplumSwirls.ttf'
 end

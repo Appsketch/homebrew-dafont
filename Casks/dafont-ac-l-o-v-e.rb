@@ -5,7 +5,6 @@ cask 'dafont-ac-l-o-v-e' do
     url 'http://dl.dafont.com/dl/?f=ac_l_o_v_e'
     name 'AC Love'
     homepage 'http://www.dafont.com/ac-l-o-v-e.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AC L O V E.ttf'
 end

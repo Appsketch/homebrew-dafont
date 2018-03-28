@@ -5,7 +5,6 @@ cask 'dafont-grandmas-garden' do
     url 'http://dl.dafont.com/dl/?f=grandmas_garden'
     name 'Grandma&#039;s Garden'
     homepage 'http://www.dafont.com/grandmas-garden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grandma&#039;s Garden.ttf'
 end

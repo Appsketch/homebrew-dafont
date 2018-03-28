@@ -5,7 +5,6 @@ cask 'dafont-code3x' do
     url 'http://dl.dafont.com/dl/?f=code3x'
     name 'Code 3X'
     homepage 'http://www.dafont.com/code3x.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CODE3X-D.TTF'
     font 'CODE3X-R.TTF'

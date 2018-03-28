@@ -5,7 +5,6 @@ cask 'dafont-people-per-square-kilometer' do
     url 'http://dl.dafont.com/dl/?f=people_per_square_kilometer'
     name 'People per square kilometer'
     homepage 'http://www.dafont.com/people-per-square-kilometer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'People per square kilometer.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-springsteel-serif' do
     url 'http://dl.dafont.com/dl/?f=springsteel_serif'
     name 'Springsteel Serif'
     homepage 'http://www.dafont.com/springsteel-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpringsteelSerif-Thin.otf'
 end

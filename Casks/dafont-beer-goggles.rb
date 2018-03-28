@@ -5,7 +5,6 @@ cask 'dafont-beer-goggles' do
     url 'http://dl.dafont.com/dl/?f=beer_goggles'
     name 'Beer Goggles'
     homepage 'http://www.dafont.com/beer-goggles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEERG___.TTF'
 end

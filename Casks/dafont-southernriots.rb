@@ -5,7 +5,6 @@ cask 'dafont-southernriots' do
     url 'http://dl.dafont.com/dl/?f=southernriots'
     name 'Southern Riots'
     homepage 'http://www.dafont.com/southernriots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SouthernRiots.ttf'
 end

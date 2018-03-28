@@ -5,7 +5,6 @@ cask 'dafont-what-fish-died' do
     url 'http://dl.dafont.com/dl/?f=what_fish_died'
     name 'What...fish died?'
     homepage 'http://www.dafont.com/what-fish-died.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'What...fish died.ttf'
 end

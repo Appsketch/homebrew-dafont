@@ -5,7 +5,6 @@ cask 'dafont-scriptycaps' do
     url 'http://dl.dafont.com/dl/?f=scriptycaps'
     name 'Scripty Caps'
     homepage 'http://www.dafont.com/scriptycaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ScriptyCaps.ttf'
 end

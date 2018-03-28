@@ -5,7 +5,6 @@ cask 'dafont-nechao-sharp' do
     url 'http://dl.dafont.com/dl/?f=nechao_sharp'
     name 'Nechao Sharp'
     homepage 'http://www.dafont.com/nechao-sharp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nechao Sharp.ttf'
 end

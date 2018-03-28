@@ -5,7 +5,6 @@ cask 'dafont-riscada-doodle' do
     url 'http://dl.dafont.com/dl/?f=riscada_doodle'
     name 'Riscada Doodle'
     homepage 'http://www.dafont.com/riscada-doodle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Riscada Doodle.ttf'
 end

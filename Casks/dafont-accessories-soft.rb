@@ -5,7 +5,6 @@ cask 'dafont-accessories-soft' do
     url 'http://dl.dafont.com/dl/?f=accessories_soft'
     name 'Accessories Soft'
     homepage 'http://www.dafont.com/accessories-soft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'accessories soft.ttf'
 end

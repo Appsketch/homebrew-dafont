@@ -5,7 +5,6 @@ cask 'dafont-aka-acidgr-chubby' do
     url 'http://dl.dafont.com/dl/?f=aka_acidgr_chubby'
     name 'Aka Acid GR Chubby'
     homepage 'http://www.dafont.com/aka-acidgr-chubby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AC-Chubby_Unicode.ttf'
 end

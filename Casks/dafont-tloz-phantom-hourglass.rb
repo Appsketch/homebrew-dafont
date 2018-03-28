@@ -5,7 +5,6 @@ cask 'dafont-tloz-phantom-hourglass' do
     url 'http://dl.dafont.com/dl/?f=tloz_phantom_hourglass'
     name 'TLOZ Phantom Hourglass'
     homepage 'http://www.dafont.com/tloz-phantom-hourglass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TLOZ-Phantom-Hourglass.ttf'
 end

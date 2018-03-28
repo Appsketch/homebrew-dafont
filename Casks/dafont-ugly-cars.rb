@@ -5,7 +5,6 @@ cask 'dafont-ugly-cars' do
     url 'http://dl.dafont.com/dl/?f=ugly_cars'
     name 'Ugly Cars'
     homepage 'http://www.dafont.com/ugly-cars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ugly Cars.ttf'
 end

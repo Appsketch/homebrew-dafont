@@ -5,7 +5,6 @@ cask 'dafont-pikku-julmuri' do
     url 'http://dl.dafont.com/dl/?f=pikku_julmuri'
     name 'Pikku Julmuri'
     homepage 'http://www.dafont.com/pikku-julmuri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pikku Julmuri.ttf'
 end

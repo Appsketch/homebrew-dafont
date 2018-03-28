@@ -5,7 +5,6 @@ cask 'dafont-effortless-tattoo' do
     url 'http://dl.dafont.com/dl/?f=effortless_tattoo'
     name 'Effortless Tattoo'
     homepage 'http://www.dafont.com/effortless-tattoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Effortless Tattoo.otf'
 end

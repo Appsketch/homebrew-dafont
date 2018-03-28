@@ -5,7 +5,6 @@ cask 'dafont-johndaly' do
     url 'http://dl.dafont.com/dl/?f=johndaly'
     name 'John Daly'
     homepage 'http://www.dafont.com/johndaly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JohnDaly.ttf'
 end

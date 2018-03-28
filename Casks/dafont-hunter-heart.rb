@@ -5,7 +5,6 @@ cask 'dafont-hunter-heart' do
     url 'http://dl.dafont.com/dl/?f=hunter_heart'
     name 'Hunter Heart'
     homepage 'http://www.dafont.com/hunter-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hunter Heart - Free Font.ttf'
 end

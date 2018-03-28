@@ -5,7 +5,6 @@ cask 'dafont-dk-pardesi' do
     url 'http://dl.dafont.com/dl/?f=dk_pardesi'
     name 'DK Pardesi'
     homepage 'http://www.dafont.com/dk-pardesi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Pardesi.otf'
 end

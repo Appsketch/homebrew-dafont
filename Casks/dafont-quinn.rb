@@ -5,7 +5,6 @@ cask 'dafont-quinn' do
     url 'http://dl.dafont.com/dl/?f=quinn'
     name 'Quinn'
     homepage 'http://www.dafont.com/quinn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quinn.ttf'
 end

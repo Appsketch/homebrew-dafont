@@ -5,7 +5,6 @@ cask 'dafont-untouchables' do
     url 'http://dl.dafont.com/dl/?f=untouchables'
     name 'KoRnNet.too.it'
     homepage 'http://www.dafont.com/untouchables.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kornnet-too-it_FTL.ttf'
     font 'kornnet-too-it_TALITM.ttf'

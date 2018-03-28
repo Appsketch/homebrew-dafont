@@ -5,7 +5,6 @@ cask 'dafont-onomatoshark' do
     url 'http://dl.dafont.com/dl/?f=onomatoshark'
     name 'Onomato Shark!'
     homepage 'http://www.dafont.com/onomatoshark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'onomatoshark.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-anasparavec' do
     url 'http://dl.dafont.com/dl/?f=anasparavec'
     name 'Ana Sparavec'
     homepage 'http://www.dafont.com/anasparavec.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANASPARA.TTF'
 end

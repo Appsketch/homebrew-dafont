@@ -5,7 +5,6 @@ cask 'dafont-anderson-captain-sc' do
     url 'http://dl.dafont.com/dl/?f=anderson_captain_sc'
     name 'Anderson Captain Scarlet'
     homepage 'http://www.dafont.com/anderson-captain-sc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anderson_Captain_Scarlet.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-qxi' do
     url 'http://dl.dafont.com/dl/?f=qxi'
     name 'Qxi'
     homepage 'http://www.dafont.com/qxi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QXI.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-budapest-markets' do
     url 'http://dl.dafont.com/dl/?f=budapest_markets'
     name 'Budapest Markets'
     homepage 'http://www.dafont.com/budapest-markets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'budapest_markets_hd.ttf'
     font 'budapest_markets.ttf'

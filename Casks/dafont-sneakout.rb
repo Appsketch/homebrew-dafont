@@ -5,7 +5,6 @@ cask 'dafont-sneakout' do
     url 'http://dl.dafont.com/dl/?f=sneakout'
     name 'Sneakout'
     homepage 'http://www.dafont.com/sneakout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sneakout.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dig-dug' do
     url 'http://dl.dafont.com/dl/?f=dig_dug'
     name 'Dig Dug'
     homepage 'http://www.dafont.com/dig-dug.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIG DUG.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bsd-nantucket' do
     url 'http://dl.dafont.com/dl/?f=bsd_nantucket'
     name 'BSD Nantucket'
     homepage 'http://www.dafont.com/bsd-nantucket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BSD Nantucket.ttf'
 end

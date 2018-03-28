@@ -5,7 +5,6 @@ cask 'dafont-kg-say-something' do
     url 'http://dl.dafont.com/dl/?f=kg_say_something'
     name 'KG Say Something'
     homepage 'http://www.dafont.com/kg-say-something.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGSaySomething.ttf'
 end

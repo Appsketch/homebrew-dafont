@@ -5,7 +5,6 @@ cask 'dafont-zothique' do
     url 'http://dl.dafont.com/dl/?f=zothique'
     name 'Zothique'
     homepage 'http://www.dafont.com/zothique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZOD_____.TTF'
 end

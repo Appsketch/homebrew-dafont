@@ -5,7 +5,6 @@ cask 'dafont-brian-cary' do
     url 'http://dl.dafont.com/dl/?f=brian_cary'
     name 'Brian Cary'
     homepage 'http://www.dafont.com/brian-cary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRIAC___.TTF'
 end

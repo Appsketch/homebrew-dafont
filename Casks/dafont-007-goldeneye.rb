@@ -5,7 +5,6 @@ cask 'dafont-007-goldeneye' do
     url 'http://dl.dafont.com/dl/?f=007_goldeneye'
     name '007 GoldenEye'
     homepage 'http://www.dafont.com/007-goldeneye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '007 GoldenEye.ttf'
 end

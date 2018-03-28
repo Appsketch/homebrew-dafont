@@ -5,7 +5,6 @@ cask 'dafont-zakenstein' do
     url 'http://dl.dafont.com/dl/?f=zakenstein'
     name 'Zakenstein '
     homepage 'http://www.dafont.com/zakenstein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zakenstein.ttf'
     font 'zakenstein3d.ttf'

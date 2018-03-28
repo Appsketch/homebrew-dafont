@@ -5,7 +5,6 @@ cask 'dafont-zebraliner' do
     url 'http://dl.dafont.com/dl/?f=zebraliner'
     name 'Zebraliner'
     homepage 'http://www.dafont.com/zebraliner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zebraliner.ttf'
 end

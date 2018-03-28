@@ -5,7 +5,6 @@ cask 'dafont-mtf-skinny-jeans' do
     url 'http://dl.dafont.com/dl/?f=mtf_skinny_jeans'
     name 'MTF Skinny Jeans'
     homepage 'http://www.dafont.com/mtf-skinny-jeans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Skinny Jeans.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-playing-cards' do
     url 'http://dl.dafont.com/dl/?f=playing_cards'
     name 'Playing Cards'
     homepage 'http://www.dafont.com/playing-cards.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CARDS.TTF'
 end

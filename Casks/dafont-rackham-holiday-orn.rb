@@ -5,7 +5,6 @@ cask 'dafont-rackham-holiday-orn' do
     url 'http://dl.dafont.com/dl/?f=rackham_holiday_orn'
     name 'Rackham Holiday Ornament'
     homepage 'http://www.dafont.com/rackham-holiday-orn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RAC-HOLI.TTF'
 end

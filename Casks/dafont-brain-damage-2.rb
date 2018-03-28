@@ -5,7 +5,6 @@ cask 'dafont-brain-damage-2' do
     url 'http://dl.dafont.com/dl/?f=brain_damage_2'
     name 'Brain Damage'
     homepage 'http://www.dafont.com/brain-damage-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BrainDamage.ttf'
 end

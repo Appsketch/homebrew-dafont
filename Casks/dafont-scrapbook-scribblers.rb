@@ -5,7 +5,6 @@ cask 'dafont-scrapbook-scribblers' do
     url 'http://dl.dafont.com/dl/?f=scrapbook_scribblers'
     name 'Scrapbook Scribblers'
     homepage 'http://www.dafont.com/scrapbook-scribblers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scrapbook Scribblers.ttf'
 end

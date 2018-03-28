@@ -5,7 +5,6 @@ cask 'dafont-peyori' do
     url 'http://dl.dafont.com/dl/?f=peyori'
     name 'Peyori'
     homepage 'http://www.dafont.com/peyori.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peyoriregular.ttf'
 end

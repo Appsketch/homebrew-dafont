@@ -5,7 +5,6 @@ cask 'dafont-sikakusimen-g' do
     url 'http://dl.dafont.com/dl/?f=sikakusimen_g'
     name 'Sikakusimen G'
     homepage 'http://www.dafont.com/sikakusimen-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_sikakusimen.ttf'
 end

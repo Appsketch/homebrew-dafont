@@ -5,7 +5,6 @@ cask 'dafont-4mini' do
     url 'http://dl.dafont.com/dl/?f=4mini'
     name '4 Mini'
     homepage 'http://www.dafont.com/4mini.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '4mini.ttf'
 end

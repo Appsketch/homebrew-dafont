@@ -5,7 +5,6 @@ cask 'dafont-border-corners-2' do
     url 'http://dl.dafont.com/dl/?f=border_corners_2'
     name 'Border Corners 2'
     homepage 'http://www.dafont.com/border-corners-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BORDC___.TTF'
 end

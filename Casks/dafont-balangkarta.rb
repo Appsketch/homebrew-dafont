@@ -5,7 +5,6 @@ cask 'dafont-balangkarta' do
     url 'http://dl.dafont.com/dl/?f=balangkarta'
     name 'Balangkarta'
     homepage 'http://www.dafont.com/balangkarta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Balangkarta Font.ttf'
 end

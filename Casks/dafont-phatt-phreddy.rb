@@ -5,7 +5,6 @@ cask 'dafont-phatt-phreddy' do
     url 'http://dl.dafont.com/dl/?f=phatt_phreddy'
     name 'Phatt Phreddy'
     homepage 'http://www.dafont.com/phatt-phreddy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PHATP___.TTF'
 end

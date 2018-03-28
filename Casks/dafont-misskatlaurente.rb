@@ -5,7 +5,6 @@ cask 'dafont-misskatlaurente' do
     url 'http://dl.dafont.com/dl/?f=misskatlaurente'
     name 'Miss Kat Laurente'
     homepage 'http://www.dafont.com/misskatlaurente.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MissKatLaurente.ttf'
 end

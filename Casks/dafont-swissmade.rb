@@ -5,7 +5,6 @@ cask 'dafont-swissmade' do
     url 'http://dl.dafont.com/dl/?f=swissmade'
     name 'Swissmade'
     homepage 'http://www.dafont.com/swissmade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SWISSMADE.TTF'
 end

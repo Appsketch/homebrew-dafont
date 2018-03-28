@@ -5,7 +5,6 @@ cask 'dafont-peachjamz' do
     url 'http://dl.dafont.com/dl/?f=peachjamz'
     name 'Peach Jamz'
     homepage 'http://www.dafont.com/peachjamz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PeachJamz.ttf'
 end

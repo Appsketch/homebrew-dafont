@@ -5,7 +5,6 @@ cask 'dafont-strobo' do
     url 'http://dl.dafont.com/dl/?f=strobo'
     name 'Strobo'
     homepage 'http://www.dafont.com/strobo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STROBO__.TTF'
 end

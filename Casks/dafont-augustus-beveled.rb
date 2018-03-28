@@ -5,7 +5,6 @@ cask 'dafont-augustus-beveled' do
     url 'http://dl.dafont.com/dl/?f=augustus_beveled'
     name 'Augustus Beveled'
     homepage 'http://www.dafont.com/augustus-beveled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Augustus Beveled.ttf'
 end

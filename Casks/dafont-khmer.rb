@@ -5,7 +5,6 @@ cask 'dafont-khmer' do
     url 'http://dl.dafont.com/dl/?f=khmer'
     name 'Khmer'
     homepage 'http://www.dafont.com/khmer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Khmer.ttf'
     font 'KhmerItalic.ttf'

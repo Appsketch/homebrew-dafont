@@ -5,7 +5,6 @@ cask 'dafont-komix' do
     url 'http://dl.dafont.com/dl/?f=komix'
     name 'Komix'
     homepage 'http://www.dafont.com/komix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Komix.ttf'
 end

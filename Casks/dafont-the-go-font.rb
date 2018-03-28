@@ -5,7 +5,6 @@ cask 'dafont-the-go-font' do
     url 'http://dl.dafont.com/dl/?f=the_go_font'
     name 'The Go Font'
     homepage 'http://www.dafont.com/the-go-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheGoFont.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dj-football' do
     url 'http://dl.dafont.com/dl/?f=dj_football'
     name 'DJ Football'
     homepage 'http://www.dafont.com/dj-football.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJ Football.ttf'
 end

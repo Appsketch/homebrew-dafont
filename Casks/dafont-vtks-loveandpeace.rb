@@ -5,7 +5,6 @@ cask 'dafont-vtks-loveandpeace' do
     url 'http://dl.dafont.com/dl/?f=vtks_loveandpeace'
     name 'VTKS Love and Peace'
     homepage 'http://www.dafont.com/vtks-loveandpeace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS LOVEANDPEACE.ttf'
 end

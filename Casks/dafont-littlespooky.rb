@@ -5,7 +5,6 @@ cask 'dafont-littlespooky' do
     url 'http://dl.dafont.com/dl/?f=littlespooky'
     name 'Little Spooky'
     homepage 'http://www.dafont.com/littlespooky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LittleSpooky.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-brickletter' do
     url 'http://dl.dafont.com/dl/?f=brickletter'
     name 'Brickletter'
     homepage 'http://www.dafont.com/brickletter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRICKLET.TTF'
 end

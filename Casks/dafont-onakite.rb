@@ -5,7 +5,6 @@ cask 'dafont-onakite' do
     url 'http://dl.dafont.com/dl/?f=onakite'
     name 'Onakite'
     homepage 'http://www.dafont.com/onakite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'onakite Bold.ttf'
     font 'onakite Thin.ttf'

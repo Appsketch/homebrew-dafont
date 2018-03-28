@@ -5,7 +5,6 @@ cask 'dafont-rave' do
     url 'http://dl.dafont.com/dl/?f=rave'
     name 'Rave'
     homepage 'http://www.dafont.com/rave.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RAVE.TTF'
 end

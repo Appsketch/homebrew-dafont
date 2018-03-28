@@ -5,7 +5,6 @@ cask 'dafont-stardots' do
     url 'http://dl.dafont.com/dl/?f=stardots'
     name 'Stardots'
     homepage 'http://www.dafont.com/stardots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stardots.ttf'
 end

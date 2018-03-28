@@ -5,7 +5,6 @@ cask 'dafont-stoneflint' do
     url 'http://dl.dafont.com/dl/?f=stoneflint'
     name 'Stoneflint'
     homepage 'http://www.dafont.com/stoneflint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stoneflint.ttf'
 end

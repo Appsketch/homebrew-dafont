@@ -5,7 +5,6 @@ cask 'dafont-anderson-dings-1' do
     url 'http://dl.dafont.com/dl/?f=anderson_dings_1'
     name 'Anderson Dings 1'
     homepage 'http://www.dafont.com/anderson-dings-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anderson Dings 1.ttf'
 end

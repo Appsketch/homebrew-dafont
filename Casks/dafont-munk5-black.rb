@@ -5,7 +5,6 @@ cask 'dafont-munk5-black' do
     url 'http://dl.dafont.com/dl/?f=munk5_black'
     name 'Munk5 Black'
     homepage 'http://www.dafont.com/munk5-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Munk5 Black.ttf'
 end

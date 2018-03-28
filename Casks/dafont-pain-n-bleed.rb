@@ -5,7 +5,6 @@ cask 'dafont-pain-n-bleed' do
     url 'http://dl.dafont.com/dl/?f=pain_n_bleed'
     name 'Pain N Bleed'
     homepage 'http://www.dafont.com/pain-n-bleed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pain N Bleed.ttf'
 end

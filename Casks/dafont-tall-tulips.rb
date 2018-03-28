@@ -5,7 +5,6 @@ cask 'dafont-tall-tulips' do
     url 'http://dl.dafont.com/dl/?f=tall_tulips'
     name 'Tall Tulips'
     homepage 'http://www.dafont.com/tall-tulips.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TallTulips.ttf'
 end

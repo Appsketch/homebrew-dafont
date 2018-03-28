@@ -5,7 +5,6 @@ cask 'dafont-doraemon-slalala' do
     url 'http://dl.dafont.com/dl/?f=doraemon_slalala'
     name 'Doraemon Slalala'
     homepage 'http://www.dafont.com/doraemon-slalala.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doraemon slalala.ttf'
 end

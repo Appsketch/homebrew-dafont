@@ -5,7 +5,6 @@ cask 'dafont-pcap-terminal' do
     url 'http://dl.dafont.com/dl/?f=pcap_terminal'
     name 'PCap Terminal'
     homepage 'http://www.dafont.com/pcap-terminal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PCap Terminal Bold Italic.otf'
     font 'PCap Terminal Bold.otf'

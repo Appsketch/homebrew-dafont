@@ -5,7 +5,6 @@ cask 'dafont-vtks-furious' do
     url 'http://dl.dafont.com/dl/?f=vtks_furious'
     name 'VTKS Furious'
     homepage 'http://www.dafont.com/vtks-furious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS FURIOUS.ttf'
 end

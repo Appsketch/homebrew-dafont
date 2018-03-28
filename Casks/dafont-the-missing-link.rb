@@ -5,7 +5,6 @@ cask 'dafont-the-missing-link' do
     url 'http://dl.dafont.com/dl/?f=the_missing_link'
     name 'The Missing Link'
     homepage 'http://www.dafont.com/the-missing-link.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the_missing_link.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lost-in-future' do
     url 'http://dl.dafont.com/dl/?f=lost_in_future'
     name 'Lost in Future'
     homepage 'http://www.dafont.com/lost-in-future.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lost_in_future_0.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cancranacancarnaca' do
     url 'http://dl.dafont.com/dl/?f=cancranacancarnaca'
     name 'Cancranacancarnaca '
     homepage 'http://www.dafont.com/cancranacancarnaca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cancranacancarnaca.ttf'
 end

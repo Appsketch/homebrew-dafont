@@ -5,7 +5,6 @@ cask 'dafont-kitchen-police' do
     url 'http://dl.dafont.com/dl/?f=kitchen_police'
     name 'Kitchen Police'
     homepage 'http://www.dafont.com/kitchen-police.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KITCHENPOLICE.TTF'
 end

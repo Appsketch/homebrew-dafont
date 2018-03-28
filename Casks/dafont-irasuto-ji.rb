@@ -5,7 +5,6 @@ cask 'dafont-irasuto-ji' do
     url 'http://dl.dafont.com/dl/?f=irasuto_ji'
     name 'Irasuto Ji'
     homepage 'http://www.dafont.com/irasuto-ji.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Irasuto Ji - TrueType.otf'
 end

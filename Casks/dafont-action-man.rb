@@ -5,7 +5,6 @@ cask 'dafont-action-man' do
     url 'http://dl.dafont.com/dl/?f=action_man'
     name 'Action Man'
     homepage 'http://www.dafont.com/action-man.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Action Man Bold Italic.ttf'
     font 'Action Man Bold.ttf'

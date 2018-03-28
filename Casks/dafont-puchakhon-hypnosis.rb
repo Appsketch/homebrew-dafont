@@ -5,7 +5,6 @@ cask 'dafont-puchakhon-hypnosis' do
     url 'http://dl.dafont.com/dl/?f=puchakhon_hypnosis'
     name 'Puchakhon Hypnosis'
     homepage 'http://www.dafont.com/puchakhon-hypnosis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Puchakhon Hypnosis.ttf'
 end

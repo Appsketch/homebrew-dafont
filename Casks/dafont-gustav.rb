@@ -5,7 +5,6 @@ cask 'dafont-gustav' do
     url 'http://dl.dafont.com/dl/?f=gustav'
     name 'Gustav'
     homepage 'http://www.dafont.com/gustav.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gustav-Black.ttf'
 end

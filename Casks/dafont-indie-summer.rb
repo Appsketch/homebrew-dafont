@@ -5,7 +5,6 @@ cask 'dafont-indie-summer' do
     url 'http://dl.dafont.com/dl/?f=indie_summer'
     name 'Indie Summer'
     homepage 'http://www.dafont.com/indie-summer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Indie_Summer.ttf'
     font 'Indie_SummerBold.ttf'

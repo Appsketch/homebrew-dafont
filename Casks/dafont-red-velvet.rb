@@ -5,7 +5,6 @@ cask 'dafont-red-velvet' do
     url 'http://dl.dafont.com/dl/?f=red_velvet'
     name 'Red Velvet '
     homepage 'http://www.dafont.com/red-velvet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'red velvet.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-envelopes-print' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_envelopes_print'
     name 'Austie Bost Envelopes Print'
     homepage 'http://www.dafont.com/austie-bost-envelopes-print.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Envelopes Print.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-font-untuk-ibu' do
     url 'http://dl.dafont.com/dl/?f=font_untuk_ibu'
     name 'Font Untuk Ibu'
     homepage 'http://www.dafont.com/font-untuk-ibu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Font untuk Ibu.ttf'
 end

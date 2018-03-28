@@ -5,7 +5,6 @@ cask 'dafont-wolven-script' do
     url 'http://dl.dafont.com/dl/?f=wolven_script'
     name 'Wolven Script'
     homepage 'http://www.dafont.com/wolven-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wolven.ttf'
 end

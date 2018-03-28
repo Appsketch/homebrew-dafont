@@ -5,7 +5,6 @@ cask 'dafont-reisenberg' do
     url 'http://dl.dafont.com/dl/?f=reisenberg'
     name 'Reisenberg'
     homepage 'http://www.dafont.com/reisenberg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reisenberg Italic.otf'
     font 'Reisenberg.otf'

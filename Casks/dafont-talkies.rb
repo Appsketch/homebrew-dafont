@@ -5,7 +5,6 @@ cask 'dafont-talkies' do
     url 'http://dl.dafont.com/dl/?f=talkies'
     name 'Talkies'
     homepage 'http://www.dafont.com/talkies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'talkies.ttf'
 end

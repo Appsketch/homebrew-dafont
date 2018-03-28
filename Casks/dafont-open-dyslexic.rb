@@ -5,7 +5,6 @@ cask 'dafont-open-dyslexic' do
     url 'http://dl.dafont.com/dl/?f=open_dyslexic'
     name 'Open-Dyslexic'
     homepage 'http://www.dafont.com/open-dyslexic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OpenDyslexic-Bold.otf'
     font 'OpenDyslexic-BoldItalic.otf'

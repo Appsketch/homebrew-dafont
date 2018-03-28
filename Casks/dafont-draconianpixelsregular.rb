@@ -5,7 +5,6 @@ cask 'dafont-draconianpixelsregular' do
     url 'http://dl.dafont.com/dl/?f=draconianpixelsregular'
     name 'DraconianPixelsRegular'
     homepage 'http://www.dafont.com/draconianpixelsregular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DraconianPixelsRegular.ttf'
 end

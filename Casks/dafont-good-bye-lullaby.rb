@@ -5,7 +5,6 @@ cask 'dafont-good-bye-lullaby' do
     url 'http://dl.dafont.com/dl/?f=good_bye_lullaby'
     name 'Good bye lullaby'
     homepage 'http://www.dafont.com/good-bye-lullaby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'goodbylullaby.ttf'
 end

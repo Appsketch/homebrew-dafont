@@ -5,7 +5,6 @@ cask 'dafont-orb' do
     url 'http://dl.dafont.com/dl/?f=orb'
     name 'Orb!'
     homepage 'http://www.dafont.com/orb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Orb!.ttf'
 end

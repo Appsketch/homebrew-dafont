@@ -5,7 +5,6 @@ cask 'dafont-llmountain' do
     url 'http://dl.dafont.com/dl/?f=llmountain'
     name 'LL Mountain'
     homepage 'http://www.dafont.com/llmountain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLMOUNTA.TTF'
 end

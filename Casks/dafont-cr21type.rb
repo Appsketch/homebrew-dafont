@@ -5,7 +5,6 @@ cask 'dafont-cr21type' do
     url 'http://dl.dafont.com/dl/?f=cr21type'
     name 'CR21 Type'
     homepage 'http://www.dafont.com/cr21type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CR21TYPE.ttf'
 end

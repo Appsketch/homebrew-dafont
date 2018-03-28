@@ -5,7 +5,6 @@ cask 'dafont-pwcinderblox' do
     url 'http://dl.dafont.com/dl/?f=pwcinderblox'
     name 'PW Cinderblox'
     homepage 'http://www.dafont.com/pwcinderblox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWCINDERBLOX.ttf'
 end

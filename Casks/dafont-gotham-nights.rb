@@ -5,7 +5,6 @@ cask 'dafont-gotham-nights' do
     url 'http://dl.dafont.com/dl/?f=gotham_nights'
     name 'Gotham Nights'
     homepage 'http://www.dafont.com/gotham-nights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gotham Nights Bold Italic.otf'
     font 'Gotham Nights Bold.otf'

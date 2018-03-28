@@ -5,7 +5,6 @@ cask 'dafont-console-wars-console-yourself' do
     url 'http://dl.dafont.com/dl/?f=console_wars_console_yourself'
     name 'Console Wars Console Yourself'
     homepage 'http://www.dafont.com/console-wars-console-yourself.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Console Wars.ttf'
 end

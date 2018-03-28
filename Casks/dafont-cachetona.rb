@@ -5,7 +5,6 @@ cask 'dafont-cachetona' do
     url 'http://dl.dafont.com/dl/?f=cachetona'
     name 'Cachetona'
     homepage 'http://www.dafont.com/cachetona.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cachetona_llena.ttf'
     font 'cachetona.ttf'

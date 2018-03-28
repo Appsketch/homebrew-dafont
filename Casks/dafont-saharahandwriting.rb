@@ -5,7 +5,6 @@ cask 'dafont-saharahandwriting' do
     url 'http://dl.dafont.com/dl/?f=saharahandwriting'
     name 'Sahara Handwriting'
     homepage 'http://www.dafont.com/saharahandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sahara__s_handwriting__D_by_SaharaKnoblauch.ttf'
 end

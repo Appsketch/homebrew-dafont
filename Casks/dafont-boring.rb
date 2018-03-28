@@ -5,7 +5,6 @@ cask 'dafont-boring' do
     url 'http://dl.dafont.com/dl/?f=boring'
     name 'Boring'
     homepage 'http://www.dafont.com/boring.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'boring.ttf'
 end

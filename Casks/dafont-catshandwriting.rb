@@ -5,7 +5,6 @@ cask 'dafont-catshandwriting' do
     url 'http://dl.dafont.com/dl/?f=catshandwriting'
     name 'Cats Handwriting'
     homepage 'http://www.dafont.com/catshandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CatsHandwriting.ttf'
 end

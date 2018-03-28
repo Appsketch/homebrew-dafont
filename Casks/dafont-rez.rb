@@ -5,7 +5,6 @@ cask 'dafont-rez' do
     url 'http://dl.dafont.com/dl/?f=rez'
     name 'Rez'
     homepage 'http://www.dafont.com/rez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rez.ttf'
 end

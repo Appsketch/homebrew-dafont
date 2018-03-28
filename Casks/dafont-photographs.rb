@@ -5,7 +5,6 @@ cask 'dafont-photographs' do
     url 'http://dl.dafont.com/dl/?f=photographs'
     name 'Photographs'
     homepage 'http://www.dafont.com/photographs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Photographs.ttf'
 end

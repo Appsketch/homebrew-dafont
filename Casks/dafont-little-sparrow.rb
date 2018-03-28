@@ -5,7 +5,6 @@ cask 'dafont-little-sparrow' do
     url 'http://dl.dafont.com/dl/?f=little_sparrow'
     name 'Little Sparrow'
     homepage 'http://www.dafont.com/little-sparrow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LittleSparrow.ttf'
 end

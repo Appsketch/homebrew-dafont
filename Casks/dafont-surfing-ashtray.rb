@@ -5,7 +5,6 @@ cask 'dafont-surfing-ashtray' do
     url 'http://dl.dafont.com/dl/?f=surfing_ashtray'
     name 'Surfing Ashtray'
     homepage 'http://www.dafont.com/surfing-ashtray.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Surfing Ashtray DEMO.otf'
 end

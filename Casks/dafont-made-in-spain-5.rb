@@ -5,7 +5,6 @@ cask 'dafont-made-in-spain-5' do
     url 'http://dl.dafont.com/dl/?f=made_in_spain_5'
     name 'Made in Spain 5'
     homepage 'http://www.dafont.com/made-in-spain-5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MADE IN SPAIN 5.ttf'
 end

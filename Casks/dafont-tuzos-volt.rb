@@ -5,7 +5,6 @@ cask 'dafont-tuzos-volt' do
     url 'http://dl.dafont.com/dl/?f=tuzos_volt'
     name 'Tuzos Volt'
     homepage 'http://www.dafont.com/tuzos-volt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TUZOS VOLT.ttf'
 end

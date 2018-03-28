@@ -5,7 +5,6 @@ cask 'dafont-jellyka-estrya-s-handwriting' do
     url 'http://dl.dafont.com/dl/?f=jellyka_estrya_s_handwriting'
     name 'Jellyka - Estrya&#039;s Handwriting'
     homepage 'http://www.dafont.com/jellyka-estrya-s-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jellyka_Estrya_Handwriting.ttf'
 end

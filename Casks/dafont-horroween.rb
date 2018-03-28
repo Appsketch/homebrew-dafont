@@ -5,7 +5,6 @@ cask 'dafont-horroween' do
     url 'http://dl.dafont.com/dl/?f=horroween'
     name 'Horroween'
     homepage 'http://www.dafont.com/horroween.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'horroween.ttf'
     font 'horroween3d.ttf'

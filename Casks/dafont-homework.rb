@@ -5,7 +5,6 @@ cask 'dafont-homework' do
     url 'http://dl.dafont.com/dl/?f=homework'
     name 'Homework'
     homepage 'http://www.dafont.com/homework.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'homework normal.TTF'
     font 'homework smart.TTF'

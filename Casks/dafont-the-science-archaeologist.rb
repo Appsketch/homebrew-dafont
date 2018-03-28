@@ -5,7 +5,6 @@ cask 'dafont-the-science-archaeologist' do
     url 'http://dl.dafont.com/dl/?f=the_science_archaeologist'
     name 'The Science Archaeologist'
     homepage 'http://www.dafont.com/the-science-archaeologist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The SCIENCE ARCHAEOLOGIST.ttf'
 end

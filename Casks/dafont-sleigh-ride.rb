@@ -5,7 +5,6 @@ cask 'dafont-sleigh-ride' do
     url 'http://dl.dafont.com/dl/?f=sleigh_ride'
     name 'Sleigh Ride'
     homepage 'http://www.dafont.com/sleigh-ride.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SleighRide.ttf'
 end

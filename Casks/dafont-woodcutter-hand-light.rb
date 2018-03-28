@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-hand-light' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_hand_light'
     name 'Woodcutter Hand Light'
     homepage 'http://www.dafont.com/woodcutter-hand-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter hand light.ttf'
 end

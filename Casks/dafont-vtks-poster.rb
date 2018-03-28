@@ -5,7 +5,6 @@ cask 'dafont-vtks-poster' do
     url 'http://dl.dafont.com/dl/?f=vtks_poster'
     name 'Vtks Poster'
     homepage 'http://www.dafont.com/vtks-poster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Poster.ttf'
 end

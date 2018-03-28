@@ -5,7 +5,6 @@ cask 'dafont-will-grace' do
     url 'http://dl.dafont.com/dl/?f=will_grace'
     name 'Will &amp; Grace'
     homepage 'http://www.dafont.com/will-grace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WILLG___.TTF'
 end

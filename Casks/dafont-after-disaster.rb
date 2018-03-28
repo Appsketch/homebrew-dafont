@@ -5,7 +5,6 @@ cask 'dafont-after-disaster' do
     url 'http://dl.dafont.com/dl/?f=after_disaster'
     name 'After Disaster'
     homepage 'http://www.dafont.com/after-disaster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'After_Disaster.ttf'
 end

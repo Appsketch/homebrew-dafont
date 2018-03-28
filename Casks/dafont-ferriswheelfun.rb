@@ -5,7 +5,6 @@ cask 'dafont-ferriswheelfun' do
     url 'http://dl.dafont.com/dl/?f=ferriswheelfun'
     name 'Ferris Wheel Fun'
     homepage 'http://www.dafont.com/ferriswheelfun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FerrisWheelFun.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cat-childs' do
     url 'http://dl.dafont.com/dl/?f=cat_childs'
     name 'CAT Childs'
     homepage 'http://www.dafont.com/cat-childs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CATChilds.ttf'
 end

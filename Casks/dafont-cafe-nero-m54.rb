@@ -5,7 +5,6 @@ cask 'dafont-cafe-nero-m54' do
     url 'http://dl.dafont.com/dl/?f=cafe_nero_m54'
     name 'Cafe Nero M54'
     homepage 'http://www.dafont.com/cafe-nero-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cafe Nero M54.ttf'
 end

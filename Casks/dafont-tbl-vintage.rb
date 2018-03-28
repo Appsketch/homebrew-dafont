@@ -5,7 +5,6 @@ cask 'dafont-tbl-vintage' do
     url 'http://dl.dafont.com/dl/?f=tbl_vintage'
     name 'TBL Vintage'
     homepage 'http://www.dafont.com/tbl-vintage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TBL_Vintage.ttf'
 end

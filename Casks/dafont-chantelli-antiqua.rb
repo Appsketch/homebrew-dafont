@@ -5,7 +5,6 @@ cask 'dafont-chantelli-antiqua' do
     url 'http://dl.dafont.com/dl/?f=chantelli_antiqua'
     name 'Chantelli Antiqua'
     homepage 'http://www.dafont.com/chantelli-antiqua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chantelli_Antiqua.ttf'
 end

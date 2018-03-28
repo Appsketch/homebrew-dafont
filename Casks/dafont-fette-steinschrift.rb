@@ -5,7 +5,6 @@ cask 'dafont-fette-steinschrift' do
     url 'http://dl.dafont.com/dl/?f=fette_steinschrift'
     name 'Fette Steinschrift'
     homepage 'http://www.dafont.com/fette-steinschrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FetteSteinschrift.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-swamp-type' do
     url 'http://dl.dafont.com/dl/?f=swamp_type'
     name 'Swamp Type'
     homepage 'http://www.dafont.com/swamp-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swamp Type.ttf'
 end

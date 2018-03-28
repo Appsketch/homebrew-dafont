@@ -5,7 +5,6 @@ cask 'dafont-advent' do
     url 'http://dl.dafont.com/dl/?f=advent'
     name 'Advent'
     homepage 'http://www.dafont.com/advent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'advent-Bd1.otf'
     font 'advent-Bd2.otf'

@@ -5,7 +5,6 @@ cask 'dafont-move-x' do
     url 'http://dl.dafont.com/dl/?f=move_x'
     name 'Move-X'
     homepage 'http://www.dafont.com/move-x.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Move-X Bold demo.otf'
     font 'Move-X Bold Italic demo.otf'

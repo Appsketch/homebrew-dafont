@@ -5,7 +5,6 @@ cask 'dafont-tranquila' do
     url 'http://dl.dafont.com/dl/?f=tranquila'
     name 'Tranquila'
     homepage 'http://www.dafont.com/tranquila.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tranquila DEMO.otf'
 end

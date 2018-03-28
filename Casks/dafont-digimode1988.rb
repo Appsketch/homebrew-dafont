@@ -5,7 +5,6 @@ cask 'dafont-digimode1988' do
     url 'http://dl.dafont.com/dl/?f=digimode1988'
     name 'DigiMode 1988'
     homepage 'http://www.dafont.com/digimode1988.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIGIMRG.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pwfilament' do
     url 'http://dl.dafont.com/dl/?f=pwfilament'
     name 'PW Filament'
     homepage 'http://www.dafont.com/pwfilament.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWFilament.ttf'
 end

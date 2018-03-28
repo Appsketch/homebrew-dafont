@@ -5,7 +5,6 @@ cask 'dafont-melbylon' do
     url 'http://dl.dafont.com/dl/?f=melbylon'
     name 'Melbylon'
     homepage 'http://www.dafont.com/melbylon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MELBYLON.TTF'
 end

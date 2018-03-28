@@ -5,7 +5,6 @@ cask 'dafont-queer' do
     url 'http://dl.dafont.com/dl/?f=queer'
     name 'Queer'
     homepage 'http://www.dafont.com/queer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUEER___.TTF'
 end

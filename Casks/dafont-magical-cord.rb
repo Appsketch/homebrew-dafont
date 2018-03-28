@@ -5,7 +5,6 @@ cask 'dafont-magical-cord' do
     url 'http://dl.dafont.com/dl/?f=magical_cord'
     name 'Magical Cord'
     homepage 'http://www.dafont.com/magical-cord.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Magical Cord.ttf'
 end

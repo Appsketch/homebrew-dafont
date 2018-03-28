@@ -5,7 +5,6 @@ cask 'dafont-the-ikea-uniform' do
     url 'http://dl.dafont.com/dl/?f=the_ikea_uniform'
     name 'The Ikea Uniform'
     homepage 'http://www.dafont.com/the-ikea-uniform.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheIkeaUniform.ttf'
 end

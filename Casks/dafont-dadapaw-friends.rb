@@ -5,7 +5,6 @@ cask 'dafont-dadapaw-friends' do
     url 'http://dl.dafont.com/dl/?f=dadapaw_friends'
     name 'Dadapaw Friends'
     homepage 'http://www.dafont.com/dadapaw-friends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dadapaw friends.ttf'
 end

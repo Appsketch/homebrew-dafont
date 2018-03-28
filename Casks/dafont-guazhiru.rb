@@ -5,7 +5,6 @@ cask 'dafont-guazhiru' do
     url 'http://dl.dafont.com/dl/?f=guazhiru'
     name 'Guazhiru'
     homepage 'http://www.dafont.com/guazhiru.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Guazhiru Italic Outlined.ttf'
     font 'Guazhiru Italic.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-adventures-overlanders' do
     url 'http://dl.dafont.com/dl/?f=adventures_overlanders'
     name 'Adventures &amp; Overlanders'
     homepage 'http://www.dafont.com/adventures-overlanders.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adventures &amp; Overlanders.ttf'
 end

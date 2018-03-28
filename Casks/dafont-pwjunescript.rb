@@ -5,7 +5,6 @@ cask 'dafont-pwjunescript' do
     url 'http://dl.dafont.com/dl/?f=pwjunescript'
     name 'PW June script'
     homepage 'http://www.dafont.com/pwjunescript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWJunescript.ttf'
 end

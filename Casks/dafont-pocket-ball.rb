@@ -5,7 +5,6 @@ cask 'dafont-pocket-ball' do
     url 'http://dl.dafont.com/dl/?f=pocket_ball'
     name 'Pocket Ball'
     homepage 'http://www.dafont.com/pocket-ball.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pocketball.ttf'
     font 'pocketball3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-swiggity' do
     url 'http://dl.dafont.com/dl/?f=swiggity'
     name 'Swiggity'
     homepage 'http://www.dafont.com/swiggity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swiggity.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-5computerized' do
     url 'http://dl.dafont.com/dl/?f=5computerized'
     name '5 Computerized'
     homepage 'http://www.dafont.com/5computerized.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5computerized.ttf'
 end

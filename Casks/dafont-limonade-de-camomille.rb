@@ -5,7 +5,6 @@ cask 'dafont-limonade-de-camomille' do
     url 'http://dl.dafont.com/dl/?f=limonade_de_camomille'
     name 'Limonade de Camomille'
     homepage 'http://www.dafont.com/limonade-de-camomille.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LimonadedeCamomille.ttf'
 end

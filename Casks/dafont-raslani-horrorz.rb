@@ -5,7 +5,6 @@ cask 'dafont-raslani-horrorz' do
     url 'http://dl.dafont.com/dl/?f=raslani_horrorz'
     name 'Raslani Horrorz'
     homepage 'http://www.dafont.com/raslani-horrorz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raslani Horrorz.ttf'
 end

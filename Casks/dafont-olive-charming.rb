@@ -5,7 +5,6 @@ cask 'dafont-olive-charming' do
     url 'http://dl.dafont.com/dl/?f=olive_charming'
     name 'Olive Charming'
     homepage 'http://www.dafont.com/olive-charming.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OLIVE CHARMING.ttf'
 end

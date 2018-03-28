@@ -5,7 +5,6 @@ cask 'dafont-cf-goliath' do
     url 'http://dl.dafont.com/dl/?f=cf_goliath'
     name 'CF Goliath'
     homepage 'http://www.dafont.com/cf-goliath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFGoliathDemo-Regular.ttf'
 end

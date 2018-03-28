@@ -5,7 +5,6 @@ cask 'dafont-stampede-st-rachan' do
     url 'http://dl.dafont.com/dl/?f=stampede_st_rachan'
     name 'Stampede'
     homepage 'http://www.dafont.com/stampede-st-rachan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stampede.ttf'
 end

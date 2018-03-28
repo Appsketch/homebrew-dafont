@@ -5,7 +5,6 @@ cask 'dafont-brawl' do
     url 'http://dl.dafont.com/dl/?f=brawl'
     name 'Brawl'
     homepage 'http://www.dafont.com/brawl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brawl.ttf'
 end

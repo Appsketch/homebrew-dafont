@@ -5,7 +5,6 @@ cask 'dafont-homekoro' do
     url 'http://dl.dafont.com/dl/?f=homekoro'
     name 'Homekoro'
     homepage 'http://www.dafont.com/homekoro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Homekorro.ttf'
 end

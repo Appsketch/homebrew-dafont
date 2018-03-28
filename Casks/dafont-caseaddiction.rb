@@ -5,7 +5,6 @@ cask 'dafont-caseaddiction' do
     url 'http://dl.dafont.com/dl/?f=caseaddiction'
     name 'Case Addiction'
     homepage 'http://www.dafont.com/caseaddiction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CaseAddiction.ttf'
 end

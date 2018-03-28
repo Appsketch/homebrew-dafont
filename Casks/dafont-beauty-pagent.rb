@@ -5,7 +5,6 @@ cask 'dafont-beauty-pagent' do
     url 'http://dl.dafont.com/dl/?f=beauty_pagent'
     name 'Beauty Pagent'
     homepage 'http://www.dafont.com/beauty-pagent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beauty Pagent.ttf'
 end

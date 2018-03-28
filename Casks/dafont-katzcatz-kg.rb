@@ -5,7 +5,6 @@ cask 'dafont-katzcatz-kg' do
     url 'http://dl.dafont.com/dl/?f=katzcatz_kg'
     name 'Katzcatz KG'
     homepage 'http://www.dafont.com/katzcatz-kg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KATZCK__.TTF'
 end

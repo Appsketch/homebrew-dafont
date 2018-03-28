@@ -5,7 +5,6 @@ cask 'dafont-werdnasreturn' do
     url 'http://dl.dafont.com/dl/?f=werdnasreturn'
     name 'Werdnas Return'
     homepage 'http://www.dafont.com/werdnasreturn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WerdnasReturn.ttf'
 end

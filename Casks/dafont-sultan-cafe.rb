@@ -5,7 +5,6 @@ cask 'dafont-sultan-cafe' do
     url 'http://dl.dafont.com/dl/?f=sultan_cafe'
     name 'Sultan Cafe'
     homepage 'http://www.dafont.com/sultan-cafe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SultanCafe_PERSONAL_USE.ttf'
     font 'SultanCafeDecor_PERSONAL_USE.ttf'

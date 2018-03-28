@@ -5,7 +5,6 @@ cask 'dafont-back-to-school3' do
     url 'http://dl.dafont.com/dl/?f=back_to_school3'
     name 'Back to School'
     homepage 'http://www.dafont.com/back-to-school3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Back to School.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-direct-du-gauche' do
     url 'http://dl.dafont.com/dl/?f=direct_du_gauche'
     name 'Direct du Gauche'
     homepage 'http://www.dafont.com/direct-du-gauche.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Direct du Gauche.ttf'
 end

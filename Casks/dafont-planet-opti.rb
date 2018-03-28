@@ -5,7 +5,6 @@ cask 'dafont-planet-opti' do
     url 'http://dl.dafont.com/dl/?f=planet_opti'
     name 'Planet Opti'
     homepage 'http://www.dafont.com/planet-opti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLANO___.TTF'
 end

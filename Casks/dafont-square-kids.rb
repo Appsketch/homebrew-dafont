@@ -5,7 +5,6 @@ cask 'dafont-square-kids' do
     url 'http://dl.dafont.com/dl/?f=square_kids'
     name 'Square Kids'
     homepage 'http://www.dafont.com/square-kids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SQUAREKI.TTF'
 end

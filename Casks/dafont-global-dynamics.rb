@@ -5,7 +5,6 @@ cask 'dafont-global-dynamics' do
     url 'http://dl.dafont.com/dl/?f=global_dynamics'
     name 'Global Dynamics'
     homepage 'http://www.dafont.com/global-dynamics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'globaldynamics.ttf'
     font 'globaldynamics3d.ttf'

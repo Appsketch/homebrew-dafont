@@ -5,7 +5,6 @@ cask 'dafont-badopus-tfb' do
     url 'http://dl.dafont.com/dl/?f=badopus_tfb'
     name 'Badopus TFB'
     homepage 'http://www.dafont.com/badopus-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Badopus tfb.ttf'
 end

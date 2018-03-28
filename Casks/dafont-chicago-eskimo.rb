@@ -5,7 +5,6 @@ cask 'dafont-chicago-eskimo' do
     url 'http://dl.dafont.com/dl/?f=chicago_eskimo'
     name 'Chicago Eskimo'
     homepage 'http://www.dafont.com/chicago-eskimo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chicago Eskimo.ttf'
 end

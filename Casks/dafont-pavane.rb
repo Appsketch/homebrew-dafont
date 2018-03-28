@@ -5,7 +5,6 @@ cask 'dafont-pavane' do
     url 'http://dl.dafont.com/dl/?f=pavane'
     name 'Pavane'
     homepage 'http://www.dafont.com/pavane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAVANE__.TTF'
 end

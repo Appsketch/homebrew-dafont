@@ -5,7 +5,6 @@ cask 'dafont-monicagalaxy' do
     url 'http://dl.dafont.com/dl/?f=monicagalaxy'
     name 'Monica Galaxy'
     homepage 'http://www.dafont.com/monicagalaxy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monica Galaxy.ttf'
 end

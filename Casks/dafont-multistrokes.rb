@@ -5,7 +5,6 @@ cask 'dafont-multistrokes' do
     url 'http://dl.dafont.com/dl/?f=multistrokes'
     name 'Multistrokes'
     homepage 'http://www.dafont.com/multistrokes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Multistrokes.ttf'
 end

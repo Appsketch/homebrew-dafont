@@ -5,7 +5,6 @@ cask 'dafont-just-sayin' do
     url 'http://dl.dafont.com/dl/?f=just_sayin'
     name 'Just Sayin&#039;'
     homepage 'http://www.dafont.com/just-sayin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Just Sayin&#039;.ttf'
 end

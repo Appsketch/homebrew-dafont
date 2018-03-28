@@ -5,7 +5,6 @@ cask 'dafont-dornspitz-grotesk' do
     url 'http://dl.dafont.com/dl/?f=dornspitz_grotesk'
     name 'Dornspitz Grotesk'
     homepage 'http://www.dafont.com/dornspitz-grotesk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DornspitzGrotesk.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ringworm' do
     url 'http://dl.dafont.com/dl/?f=ringworm'
     name 'Ringworm'
     homepage 'http://www.dafont.com/ringworm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ringworm-Regular.otf'
 end

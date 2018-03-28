@@ -5,7 +5,6 @@ cask 'dafont-branching-mouse' do
     url 'http://dl.dafont.com/dl/?f=branching_mouse'
     name 'Branching Mouse'
     homepage 'http://www.dafont.com/branching-mouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dbbrnms.ttf'
 end

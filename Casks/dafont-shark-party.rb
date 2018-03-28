@@ -5,7 +5,6 @@ cask 'dafont-shark-party' do
     url 'http://dl.dafont.com/dl/?f=shark_party'
     name 'Shark Party'
     homepage 'http://www.dafont.com/shark-party.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shark party.ttf'
 end

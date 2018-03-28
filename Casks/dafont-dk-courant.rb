@@ -5,7 +5,6 @@ cask 'dafont-dk-courant' do
     url 'http://dl.dafont.com/dl/?f=dk_courant'
     name 'DK Courant'
     homepage 'http://www.dafont.com/dk-courant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Courant.ttf'
 end

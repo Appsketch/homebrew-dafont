@@ -5,7 +5,6 @@ cask 'dafont-darah-erc' do
     url 'http://dl.dafont.com/dl/?f=darah_erc'
     name 'Darah Erc '
     homepage 'http://www.dafont.com/darah-erc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'darah_thunderpanda_erc.ttf'
 end

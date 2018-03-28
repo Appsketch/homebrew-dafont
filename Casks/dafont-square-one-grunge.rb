@@ -5,7 +5,6 @@ cask 'dafont-square-one-grunge' do
     url 'http://dl.dafont.com/dl/?f=square_one_grunge'
     name 'Square One Grunge'
     homepage 'http://www.dafont.com/square-one-grunge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SquareOneGrunge.ttf'
 end

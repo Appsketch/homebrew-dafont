@@ -5,7 +5,6 @@ cask 'dafont-typenoksidi' do
     url 'http://dl.dafont.com/dl/?f=typenoksidi'
     name 'Typenoksidi'
     homepage 'http://www.dafont.com/typenoksidi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'typenoksidi.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-experitypo5' do
     url 'http://dl.dafont.com/dl/?f=experitypo5'
     name 'ExperiTypo5'
     homepage 'http://www.dafont.com/experitypo5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExperiTypo5.ttf'
 end

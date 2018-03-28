@@ -5,7 +5,6 @@ cask 'dafont-safarizebra' do
     url 'http://dl.dafont.com/dl/?f=safarizebra'
     name 'Safari Zebra'
     homepage 'http://www.dafont.com/safarizebra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SafariZebra.ttf'
 end

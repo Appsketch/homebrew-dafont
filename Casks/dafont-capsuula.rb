@@ -5,7 +5,6 @@ cask 'dafont-capsuula' do
     url 'http://dl.dafont.com/dl/?f=capsuula'
     name 'Capsuula'
     homepage 'http://www.dafont.com/capsuula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Capsuula.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-majetto' do
     url 'http://dl.dafont.com/dl/?f=majetto'
     name 'Majetto'
     homepage 'http://www.dafont.com/majetto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Majetto.ttf'
 end

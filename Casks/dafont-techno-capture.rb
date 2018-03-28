@@ -5,7 +5,6 @@ cask 'dafont-techno-capture' do
     url 'http://dl.dafont.com/dl/?f=techno_capture'
     name 'Techno Capture'
     homepage 'http://www.dafont.com/techno-capture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TECHNO CAPTURE.ttf'
 end

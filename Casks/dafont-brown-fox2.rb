@@ -5,7 +5,6 @@ cask 'dafont-brown-fox2' do
     url 'http://dl.dafont.com/dl/?f=brown_fox2'
     name 'Brown Fox'
     homepage 'http://www.dafont.com/brown-fox2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brown Fox.ttf'
 end

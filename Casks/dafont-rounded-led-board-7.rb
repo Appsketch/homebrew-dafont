@@ -5,7 +5,6 @@ cask 'dafont-rounded-led-board-7' do
     url 'http://dl.dafont.com/dl/?f=rounded_led_board_7'
     name 'Rounded LED Board-7'
     homepage 'http://www.dafont.com/rounded-led-board-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rounded_led_board-7.ttf'
 end

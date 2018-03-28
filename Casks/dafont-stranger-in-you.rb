@@ -5,7 +5,6 @@ cask 'dafont-stranger-in-you' do
     url 'http://dl.dafont.com/dl/?f=stranger_in_you'
     name 'Stranger In You'
     homepage 'http://www.dafont.com/stranger-in-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stranger In You.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-love-and-hate' do
     url 'http://dl.dafont.com/dl/?f=love_and_hate'
     name 'Love and Hate'
     homepage 'http://www.dafont.com/love-and-hate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Love and Hate.ttf'
 end

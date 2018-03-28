@@ -5,7 +5,6 @@ cask 'dafont-centi' do
     url 'http://dl.dafont.com/dl/?f=centi'
     name 'Centi'
     homepage 'http://www.dafont.com/centi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Centi.otf'
 end

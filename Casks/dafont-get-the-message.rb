@@ -5,7 +5,6 @@ cask 'dafont-get-the-message' do
     url 'http://dl.dafont.com/dl/?f=get_the_message'
     name 'Get the Message'
     homepage 'http://www.dafont.com/get-the-message.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gettheme.ttf'
 end

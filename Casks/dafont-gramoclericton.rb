@@ -5,7 +5,6 @@ cask 'dafont-gramoclericton' do
     url 'http://dl.dafont.com/dl/?f=gramoclericton'
     name 'Gramoclericton'
     homepage 'http://www.dafont.com/gramoclericton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gramoclericton.ttf'
 end

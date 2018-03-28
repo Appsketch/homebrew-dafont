@@ -5,7 +5,6 @@ cask 'dafont-realize-my-passion' do
     url 'http://dl.dafont.com/dl/?f=realize_my_passion'
     name 'Realize My Passion'
     homepage 'http://www.dafont.com/realize-my-passion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Realize My Passion.otf'
 end

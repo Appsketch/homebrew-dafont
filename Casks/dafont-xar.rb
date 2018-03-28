@@ -5,7 +5,6 @@ cask 'dafont-xar' do
     url 'http://dl.dafont.com/dl/?f=xar'
     name 'Xar'
     homepage 'http://www.dafont.com/xar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xar.ttf'
 end

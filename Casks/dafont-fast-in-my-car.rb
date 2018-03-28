@@ -5,7 +5,6 @@ cask 'dafont-fast-in-my-car' do
     url 'http://dl.dafont.com/dl/?f=fast_in_my_car'
     name 'Fast In My Car'
     homepage 'http://www.dafont.com/fast-in-my-car.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fast In My Car.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-springfield-mugshot' do
     url 'http://dl.dafont.com/dl/?f=springfield_mugshot'
     name 'Springfield Mugshots'
     homepage 'http://www.dafont.com/springfield-mugshot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mugshots.TTF'
 end

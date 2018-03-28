@@ -5,7 +5,6 @@ cask 'dafont-vipond-angular' do
     url 'http://dl.dafont.com/dl/?f=vipond_angular'
     name 'Vipond Angular'
     homepage 'http://www.dafont.com/vipond-angular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vipond_angular.ttf'
 end

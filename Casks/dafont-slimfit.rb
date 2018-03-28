@@ -5,7 +5,6 @@ cask 'dafont-slimfit' do
     url 'http://dl.dafont.com/dl/?f=slimfit'
     name 'SlimFit'
     homepage 'http://www.dafont.com/slimfit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'slimfit_college_demo.otf'
     font 'slimfit_demo.otf'

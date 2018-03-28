@@ -5,7 +5,6 @@ cask 'dafont-relierlespoints' do
     url 'http://dl.dafont.com/dl/?f=relierlespoints'
     name 'Relier les points'
     homepage 'http://www.dafont.com/relierlespoints.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RELIERLESPOINTS.ttf'
 end

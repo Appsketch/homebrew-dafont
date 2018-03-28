@@ -5,7 +5,6 @@ cask 'dafont-fondi-kpz' do
     url 'http://dl.dafont.com/dl/?f=fondi_kpz'
     name 'Fondi KPZ'
     homepage 'http://www.dafont.com/fondi-kpz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fondi_kpz.ttf'
 end

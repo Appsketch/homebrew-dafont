@@ -5,7 +5,6 @@ cask 'dafont-sears-tower' do
     url 'http://dl.dafont.com/dl/?f=sears_tower'
     name 'Sears Tower'
     homepage 'http://www.dafont.com/sears-tower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sears Tower.ttf'
 end

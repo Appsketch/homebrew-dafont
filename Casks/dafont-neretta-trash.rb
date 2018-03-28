@@ -5,7 +5,6 @@ cask 'dafont-neretta-trash' do
     url 'http://dl.dafont.com/dl/?f=neretta_trash'
     name 'Neretta Trash'
     homepage 'http://www.dafont.com/neretta-trash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neretta Trash.ttf'
 end

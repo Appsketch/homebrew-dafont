@@ -5,7 +5,6 @@ cask 'dafont-dynamic' do
     url 'http://dl.dafont.com/dl/?f=dynamic'
     name 'Dynamic'
     homepage 'http://www.dafont.com/dynamic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dynamic.ttf'
 end

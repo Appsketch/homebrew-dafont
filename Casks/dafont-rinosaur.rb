@@ -5,7 +5,6 @@ cask 'dafont-rinosaur' do
     url 'http://dl.dafont.com/dl/?f=rinosaur'
     name 'Rinosaur'
     homepage 'http://www.dafont.com/rinosaur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fonts Bomb rinosaur.ttf'
 end

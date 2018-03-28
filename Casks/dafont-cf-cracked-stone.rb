@@ -5,7 +5,6 @@ cask 'dafont-cf-cracked-stone' do
     url 'http://dl.dafont.com/dl/?f=cf_cracked_stone'
     name 'CF Cracked Stone'
     homepage 'http://www.dafont.com/cf-cracked-stone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFCrackedStone.ttf'
 end

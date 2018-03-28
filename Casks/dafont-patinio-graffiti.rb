@@ -5,7 +5,6 @@ cask 'dafont-patinio-graffiti' do
     url 'http://dl.dafont.com/dl/?f=patinio_graffiti'
     name 'Patinio Graffiti'
     homepage 'http://www.dafont.com/patinio-graffiti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Patinio Graffiti.ttf'
 end

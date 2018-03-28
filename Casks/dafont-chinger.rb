@@ -5,7 +5,6 @@ cask 'dafont-chinger' do
     url 'http://dl.dafont.com/dl/?f=chinger'
     name 'Chinger'
     homepage 'http://www.dafont.com/chinger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chinger.ttf'
 end

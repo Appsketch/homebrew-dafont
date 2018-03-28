@@ -5,7 +5,6 @@ cask 'dafont-iregula-to' do
     url 'http://dl.dafont.com/dl/?f=iregula_to'
     name 'Iregula To'
     homepage 'http://www.dafont.com/iregula-to.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iregula To.otf'
 end

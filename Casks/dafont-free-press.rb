@@ -5,7 +5,6 @@ cask 'dafont-free-press' do
     url 'http://dl.dafont.com/dl/?f=free_press'
     name 'Free press'
     homepage 'http://www.dafont.com/free-press.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Free press.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-elminster' do
     url 'http://dl.dafont.com/dl/?f=elminster'
     name 'Elminster'
     homepage 'http://www.dafont.com/elminster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elminster.otf'
 end

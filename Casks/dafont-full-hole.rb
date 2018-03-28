@@ -5,7 +5,6 @@ cask 'dafont-full-hole' do
     url 'http://dl.dafont.com/dl/?f=full_hole'
     name 'Full Hole'
     homepage 'http://www.dafont.com/full-hole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'full hole.ttf'
 end

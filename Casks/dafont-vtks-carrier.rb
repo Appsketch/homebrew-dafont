@@ -5,7 +5,6 @@ cask 'dafont-vtks-carrier' do
     url 'http://dl.dafont.com/dl/?f=vtks_carrier'
     name 'Vtks Carrier'
     homepage 'http://www.dafont.com/vtks-carrier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks carrier.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-scrages-handwrite' do
     url 'http://dl.dafont.com/dl/?f=scrages_handwrite'
     name 'Scrages Handwrite'
     homepage 'http://www.dafont.com/scrages-handwrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scrages handwrite.ttf'
 end

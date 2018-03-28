@@ -5,7 +5,6 @@ cask 'dafont-pwdoublescript' do
     url 'http://dl.dafont.com/dl/?f=pwdoublescript'
     name 'PW Double Script'
     homepage 'http://www.dafont.com/pwdoublescript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWDoubleScript.ttf'
 end

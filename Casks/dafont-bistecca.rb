@@ -5,7 +5,6 @@ cask 'dafont-bistecca' do
     url 'http://dl.dafont.com/dl/?f=bistecca'
     name 'Bistecca'
     homepage 'http://www.dafont.com/bistecca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bistecca.ttf'
 end

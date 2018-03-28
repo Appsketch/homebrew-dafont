@@ -5,7 +5,6 @@ cask 'dafont-farewell-eternity' do
     url 'http://dl.dafont.com/dl/?f=farewell_eternity'
     name 'Farewell Eternity'
     homepage 'http://www.dafont.com/farewell-eternity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Farewell Eternity.ttf'
 end

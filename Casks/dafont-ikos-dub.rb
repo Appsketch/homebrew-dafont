@@ -5,7 +5,6 @@ cask 'dafont-ikos-dub' do
     url 'http://dl.dafont.com/dl/?f=ikos_dub'
     name 'Ikos Dub'
     homepage 'http://www.dafont.com/ikos-dub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ikos Dub Outline.ttf'
     font 'Ikos Dub Solid.ttf'

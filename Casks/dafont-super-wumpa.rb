@@ -5,7 +5,6 @@ cask 'dafont-super-wumpa' do
     url 'http://dl.dafont.com/dl/?f=super_wumpa'
     name 'Super Wumpa'
     homepage 'http://www.dafont.com/super-wumpa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Super Wumpa.ttf'
 end

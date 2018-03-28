@@ -5,7 +5,6 @@ cask 'dafont-sirkhular' do
     url 'http://dl.dafont.com/dl/?f=sirkhular'
     name 'Sirkhular'
     homepage 'http://www.dafont.com/sirkhular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sirkhular.TTF'
 end

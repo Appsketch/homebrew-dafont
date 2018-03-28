@@ -5,7 +5,6 @@ cask 'dafont-sports-tfb' do
     url 'http://dl.dafont.com/dl/?f=sports_tfb'
     name 'Sports TFB'
     homepage 'http://www.dafont.com/sports-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sports tfb.ttf'
 end

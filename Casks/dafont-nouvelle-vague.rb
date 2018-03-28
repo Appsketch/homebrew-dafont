@@ -5,7 +5,6 @@ cask 'dafont-nouvelle-vague' do
     url 'http://dl.dafont.com/dl/?f=nouvelle_vague'
     name 'Nouvelle Vague'
     homepage 'http://www.dafont.com/nouvelle-vague.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nouvelle_vague_final.ttf'
 end

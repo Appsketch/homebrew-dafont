@@ -5,7 +5,6 @@ cask 'dafont-ubiqita-europa' do
     url 'http://dl.dafont.com/dl/?f=ubiqita_europa'
     name 'Ubiqita Europa'
     homepage 'http://www.dafont.com/ubiqita-europa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ubiqita_Europa.ttf'
 end

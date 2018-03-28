@@ -5,7 +5,6 @@ cask 'dafont-tall-slim' do
     url 'http://dl.dafont.com/dl/?f=tall_slim'
     name 'Tall &amp; Slim'
     homepage 'http://www.dafont.com/tall-slim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TALL and SLIM.ttf'
 end

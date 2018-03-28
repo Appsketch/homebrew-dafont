@@ -5,7 +5,6 @@ cask 'dafont-the-valley' do
     url 'http://dl.dafont.com/dl/?f=the_valley'
     name 'The Valley'
     homepage 'http://www.dafont.com/the-valley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Valley.otf'
 end

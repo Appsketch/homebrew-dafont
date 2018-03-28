@@ -5,7 +5,6 @@ cask 'dafont-sketch-book' do
     url 'http://dl.dafont.com/dl/?f=sketch_book'
     name 'Sketch Book'
     homepage 'http://www.dafont.com/sketch-book.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketch Book.ttf'
 end

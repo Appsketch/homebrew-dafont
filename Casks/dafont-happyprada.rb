@@ -5,7 +5,6 @@ cask 'dafont-happyprada' do
     url 'http://dl.dafont.com/dl/?f=happyprada'
     name 'Happy Prada'
     homepage 'http://www.dafont.com/happyprada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HappyPrada.ttf'
 end

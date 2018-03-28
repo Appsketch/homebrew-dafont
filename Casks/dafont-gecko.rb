@@ -5,7 +5,6 @@ cask 'dafont-gecko' do
     url 'http://dl.dafont.com/dl/?f=gecko'
     name 'Gecko'
     homepage 'http://www.dafont.com/gecko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gecko_0_9.ttf'
 end

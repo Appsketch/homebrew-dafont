@@ -5,7 +5,6 @@ cask 'dafont-gristled-font' do
     url 'http://dl.dafont.com/dl/?f=gristled_font'
     name 'Gristled Font'
     homepage 'http://www.dafont.com/gristled-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GristledFont-Regular.ttf'
 end

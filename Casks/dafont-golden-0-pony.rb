@@ -5,7 +5,6 @@ cask 'dafont-golden-0-pony' do
     url 'http://dl.dafont.com/dl/?f=golden_0_pony'
     name 'Golden 0 Pony'
     homepage 'http://www.dafont.com/golden-0-pony.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'golden_0_pony.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-disorient-pixels' do
     url 'http://dl.dafont.com/dl/?f=disorient_pixels'
     name 'Disorient Pixels'
     homepage 'http://www.dafont.com/disorient-pixels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Disorient Pixels.ttf'
 end

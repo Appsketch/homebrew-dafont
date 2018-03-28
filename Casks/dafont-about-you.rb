@@ -5,7 +5,6 @@ cask 'dafont-about-you' do
     url 'http://dl.dafont.com/dl/?f=about_you'
     name 'About you'
     homepage 'http://www.dafont.com/about-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'About You.ttf'
 end

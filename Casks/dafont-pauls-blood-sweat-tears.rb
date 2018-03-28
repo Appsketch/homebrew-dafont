@@ -5,7 +5,6 @@ cask 'dafont-pauls-blood-sweat-tears' do
     url 'http://dl.dafont.com/dl/?f=pauls_blood_sweat_tears'
     name 'Pauls Blood Sweat &amp; Tears'
     homepage 'http://www.dafont.com/pauls-blood-sweat-tears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pauls Blood Sweat.ttf'
 end

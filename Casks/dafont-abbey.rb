@@ -5,7 +5,6 @@ cask 'dafont-abbey' do
     url 'http://dl.dafont.com/dl/?f=abbey'
     name 'Abbey'
     homepage 'http://www.dafont.com/abbey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'abbey_m1.ttf'
 end

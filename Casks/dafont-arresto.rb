@@ -5,7 +5,6 @@ cask 'dafont-arresto' do
     url 'http://dl.dafont.com/dl/?f=arresto'
     name 'Arresto'
     homepage 'http://www.dafont.com/arresto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arresto.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-poeticjustice' do
     url 'http://dl.dafont.com/dl/?f=poeticjustice'
     name 'Poetic Justice'
     homepage 'http://www.dafont.com/poeticjustice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PoeticJustice.ttf'
 end

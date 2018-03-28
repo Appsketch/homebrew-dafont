@@ -5,7 +5,6 @@ cask 'dafont-loosing-memory' do
     url 'http://dl.dafont.com/dl/?f=loosing_memory'
     name 'Loosing Memory'
     homepage 'http://www.dafont.com/loosing-memory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Loosing Memory.ttf'
 end

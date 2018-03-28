@@ -5,7 +5,6 @@ cask 'dafont-verticaps' do
     url 'http://dl.dafont.com/dl/?f=verticaps'
     name 'VertiCaps'
     homepage 'http://www.dafont.com/verticaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VertiCaps.ttf'
 end

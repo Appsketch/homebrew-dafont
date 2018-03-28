@@ -5,7 +5,6 @@ cask 'dafont-maxxi-dots' do
     url 'http://dl.dafont.com/dl/?f=maxxi_dots'
     name 'Maxxi Dots'
     homepage 'http://www.dafont.com/maxxi-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maxxi Dots.ttf'
 end

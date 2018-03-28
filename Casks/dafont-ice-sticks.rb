@@ -5,7 +5,6 @@ cask 'dafont-ice-sticks' do
     url 'http://dl.dafont.com/dl/?f=ice_sticks'
     name 'Ice Sticks'
     homepage 'http://www.dafont.com/ice-sticks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ice_sticks.ttf'
 end

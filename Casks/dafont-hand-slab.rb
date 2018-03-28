@@ -5,7 +5,6 @@ cask 'dafont-hand-slab' do
     url 'http://dl.dafont.com/dl/?f=hand_slab'
     name 'Hand Slab'
     homepage 'http://www.dafont.com/hand-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hand Slab.ttf'
 end

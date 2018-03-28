@@ -5,7 +5,6 @@ cask 'dafont-jeannette' do
     url 'http://dl.dafont.com/dl/?f=jeannette'
     name 'Jeannette'
     homepage 'http://www.dafont.com/jeannette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jeannette.ttf'
 end

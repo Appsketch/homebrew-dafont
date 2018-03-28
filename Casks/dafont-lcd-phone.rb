@@ -5,7 +5,6 @@ cask 'dafont-lcd-phone' do
     url 'http://dl.dafont.com/dl/?f=lcd_phone'
     name 'LCD Phone'
     homepage 'http://www.dafont.com/lcd-phone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LCDPHONE.ttf'
 end

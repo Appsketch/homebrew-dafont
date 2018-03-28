@@ -5,7 +5,6 @@ cask 'dafont-williamshandneat' do
     url 'http://dl.dafont.com/dl/?f=williamshandneat'
     name 'Williams Hand Neat'
     homepage 'http://www.dafont.com/williamshandneat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WilliamsHandNeat.ttf'
 end

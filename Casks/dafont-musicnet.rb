@@ -5,7 +5,6 @@ cask 'dafont-musicnet' do
     url 'http://dl.dafont.com/dl/?f=musicnet'
     name 'Musicnet'
     homepage 'http://www.dafont.com/musicnet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MUSICNET.ttf'
 end

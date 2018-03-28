@@ -5,7 +5,6 @@ cask 'dafont-5pixwriter' do
     url 'http://dl.dafont.com/dl/?f=5pixwriter'
     name '5Pixwriter'
     homepage 'http://www.dafont.com/5pixwriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5pixwriter.ttf'
 end

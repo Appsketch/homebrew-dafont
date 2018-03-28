@@ -5,7 +5,6 @@ cask 'dafont-elvish-ring-nfi' do
     url 'http://dl.dafont.com/dl/?f=elvish_ring_nfi'
     name 'Elvish Ring NFI'
     homepage 'http://www.dafont.com/elvish-ring-nfi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'elvish ring nfi.ttf'
 end

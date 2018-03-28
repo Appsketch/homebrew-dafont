@@ -5,7 +5,6 @@ cask 'dafont-averia' do
     url 'http://dl.dafont.com/dl/?f=averia'
     name 'Averia'
     homepage 'http://www.dafont.com/averia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Averia-Bold.ttf'
     font 'Averia-BoldItalic.ttf'

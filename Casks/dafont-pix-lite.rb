@@ -5,7 +5,6 @@ cask 'dafont-pix-lite' do
     url 'http://dl.dafont.com/dl/?f=pix_lite'
     name 'PIX lite'
     homepage 'http://www.dafont.com/pix-lite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIX_lite.ttf'
 end

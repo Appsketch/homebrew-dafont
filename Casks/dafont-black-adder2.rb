@@ -5,7 +5,6 @@ cask 'dafont-black-adder2' do
     url 'http://dl.dafont.com/dl/?f=black_adder2'
     name 'Black Adder II'
     homepage 'http://www.dafont.com/black-adder2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLACKADD.TTF'
 end

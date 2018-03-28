@@ -5,7 +5,6 @@ cask 'dafont-noble-notes' do
     url 'http://dl.dafont.com/dl/?f=noble_notes'
     name 'Noble Notes'
     homepage 'http://www.dafont.com/noble-notes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Noble Notes.ttf'
 end

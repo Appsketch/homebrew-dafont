@@ -5,7 +5,6 @@ cask 'dafont-typo-garden-demo' do
     url 'http://dl.dafont.com/dl/?f=typo_garden_demo'
     name 'Typo Garden Demo'
     homepage 'http://www.dafont.com/typo-garden-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'typogarden-demo.ttf'
 end

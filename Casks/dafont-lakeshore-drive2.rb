@@ -5,7 +5,6 @@ cask 'dafont-lakeshore-drive2' do
     url 'http://dl.dafont.com/dl/?f=lakeshore_drive2'
     name 'Lakeshore Drive'
     homepage 'http://www.dafont.com/lakeshore-drive2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lakeshore Drive.otf'
 end

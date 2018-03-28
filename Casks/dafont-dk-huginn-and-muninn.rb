@@ -5,7 +5,6 @@ cask 'dafont-dk-huginn-and-muninn' do
     url 'http://dl.dafont.com/dl/?f=dk_huginn_and_muninn'
     name 'DK Huginn And Muninn'
     homepage 'http://www.dafont.com/dk-huginn-and-muninn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Huginn And Muninn.otf'
 end

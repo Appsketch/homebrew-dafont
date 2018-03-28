@@ -5,7 +5,6 @@ cask 'dafont-universal-accreditation' do
     url 'http://dl.dafont.com/dl/?f=universal_accreditation'
     name 'Universal Accreditation'
     homepage 'http://www.dafont.com/universal-accreditation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Uni_acc_Italic.ttf'
     font 'Uni_acc.ttf'

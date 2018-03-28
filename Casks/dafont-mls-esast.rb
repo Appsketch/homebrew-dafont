@@ -5,7 +5,6 @@ cask 'dafont-mls-esast' do
     url 'http://dl.dafont.com/dl/?f=mls_esast'
     name 'MLS Esast'
     homepage 'http://www.dafont.com/mls-esast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MLS ESAST.ttf'
 end

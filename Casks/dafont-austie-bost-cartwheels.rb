@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-cartwheels' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_cartwheels'
     name 'Austie Bost Cartwheels'
     homepage 'http://www.dafont.com/austie-bost-cartwheels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Cartwheels.ttf'
 end

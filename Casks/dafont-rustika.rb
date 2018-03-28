@@ -5,7 +5,6 @@ cask 'dafont-rustika' do
     url 'http://dl.dafont.com/dl/?f=rustika'
     name 'Rustika'
     homepage 'http://www.dafont.com/rustika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rustika.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stencil-pra-vender-coco' do
     url 'http://dl.dafont.com/dl/?f=stencil_pra_vender_coco'
     name 'Stencil Pra Vender C&ocirc;co'
     homepage 'http://www.dafont.com/stencil-pra-vender-coco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stencil_pra_vender_c_F4co.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dob-file-type' do
     url 'http://dl.dafont.com/dl/?f=dob_file_type'
     name 'Dob File Type'
     homepage 'http://www.dafont.com/dob-file-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dobfilet.ttf'
 end

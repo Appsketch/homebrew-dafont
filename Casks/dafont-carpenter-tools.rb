@@ -5,7 +5,6 @@ cask 'dafont-carpenter-tools' do
     url 'http://dl.dafont.com/dl/?f=carpenter_tools'
     name 'Carpenter Tools'
     homepage 'http://www.dafont.com/carpenter-tools.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carpenter Tools.ttf'
 end

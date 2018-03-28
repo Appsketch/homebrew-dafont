@@ -5,7 +5,6 @@ cask 'dafont-fantaseaaquababe' do
     url 'http://dl.dafont.com/dl/?f=fantaseaaquababe'
     name 'Fantasea Aqua Babe'
     homepage 'http://www.dafont.com/fantaseaaquababe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FantaseaAquaBabe.ttf'
 end

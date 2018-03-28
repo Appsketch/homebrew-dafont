@@ -5,7 +5,6 @@ cask 'dafont-space-station-hokus' do
     url 'http://dl.dafont.com/dl/?f=space_station_hokus'
     name 'Space Station Hokuspokus'
     homepage 'http://www.dafont.com/space-station-hokus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpaceStationHokuspokus.ttf'
 end

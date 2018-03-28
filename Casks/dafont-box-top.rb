@@ -5,7 +5,6 @@ cask 'dafont-box-top' do
     url 'http://dl.dafont.com/dl/?f=box_top'
     name 'Box Top'
     homepage 'http://www.dafont.com/box-top.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boxtop__.ttf'
 end

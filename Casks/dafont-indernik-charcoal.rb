@@ -5,7 +5,6 @@ cask 'dafont-indernik-charcoal' do
     url 'http://dl.dafont.com/dl/?f=indernik_charcoal'
     name 'Indernik Charcoal'
     homepage 'http://www.dafont.com/indernik-charcoal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Indernik_Charcoal.ttf'
 end

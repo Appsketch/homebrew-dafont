@@ -5,7 +5,6 @@ cask 'dafont-sleeping-in-lecture' do
     url 'http://dl.dafont.com/dl/?f=sleeping_in_lecture'
     name 'Sleeping in Lecture'
     homepage 'http://www.dafont.com/sleeping-in-lecture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sleeping in lecture.ttf'
 end

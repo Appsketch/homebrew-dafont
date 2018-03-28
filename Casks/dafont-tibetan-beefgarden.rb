@@ -5,7 +5,6 @@ cask 'dafont-tibetan-beefgarden' do
     url 'http://dl.dafont.com/dl/?f=tibetan_beefgarden'
     name 'Tibetan Beefgarden AOE'
     homepage 'http://www.dafont.com/tibetan-beefgarden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truetype/TibetBeeAOE.ttf'
 end

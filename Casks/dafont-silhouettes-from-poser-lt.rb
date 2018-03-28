@@ -5,7 +5,6 @@ cask 'dafont-silhouettes-from-poser-lt' do
     url 'http://dl.dafont.com/dl/?f=silhouettes_from_poser_lt'
     name 'Silhouettes from Poser LT'
     homepage 'http://www.dafont.com/silhouettes-from-poser-lt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'silhouettesfromposerLT.ttf'
 end

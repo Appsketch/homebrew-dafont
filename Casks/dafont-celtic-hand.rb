@@ -5,7 +5,6 @@ cask 'dafont-celtic-hand' do
     url 'http://dl.dafont.com/dl/?f=celtic_hand'
     name 'Celtic Hand'
     homepage 'http://www.dafont.com/celtic-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CELTICHD.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ghost-punk-smileys' do
     url 'http://dl.dafont.com/dl/?f=ghost_punk_smileys'
     name 'Ghost &amp; Punk Smileys'
     homepage 'http://www.dafont.com/ghost-punk-smileys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ghostsmileys.ttf'
     font 'punksmileys.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-brioche-au-potiron' do
     url 'http://dl.dafont.com/dl/?f=brioche_au_potiron'
     name 'Brioche au Potiron'
     homepage 'http://www.dafont.com/brioche-au-potiron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brioche au Potiron.ttf'
 end

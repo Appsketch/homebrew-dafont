@@ -5,7 +5,6 @@ cask 'dafont-syntax-error' do
     url 'http://dl.dafont.com/dl/?f=syntax_error'
     name 'Syntax Error'
     homepage 'http://www.dafont.com/syntax-error.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Syntax Error.ttf'
 end

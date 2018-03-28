@@ -5,7 +5,6 @@ cask 'dafont-problematic-piercer' do
     url 'http://dl.dafont.com/dl/?f=problematic_piercer'
     name 'Problematic Piercer'
     homepage 'http://www.dafont.com/problematic-piercer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Problematic Piercer.ttf'
 end

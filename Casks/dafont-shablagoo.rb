@@ -5,7 +5,6 @@ cask 'dafont-shablagoo' do
     url 'http://dl.dafont.com/dl/?f=shablagoo'
     name 'Shablagoo'
     homepage 'http://www.dafont.com/shablagoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shablagoo.ttf'
     font 'shablagoo3d.ttf'

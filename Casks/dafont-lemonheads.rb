@@ -5,7 +5,6 @@ cask 'dafont-lemonheads' do
     url 'http://dl.dafont.com/dl/?f=lemonheads'
     name 'Lemonheads'
     homepage 'http://www.dafont.com/lemonheads.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lemonfnt.ttf'
 end

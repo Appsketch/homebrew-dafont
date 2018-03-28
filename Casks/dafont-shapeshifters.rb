@@ -5,7 +5,6 @@ cask 'dafont-shapeshifters' do
     url 'http://dl.dafont.com/dl/?f=shapeshifters'
     name 'Shapeshifters'
     homepage 'http://www.dafont.com/shapeshifters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shapeshifters.otf'
 end

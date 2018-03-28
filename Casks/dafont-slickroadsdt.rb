@@ -5,7 +5,6 @@ cask 'dafont-slickroadsdt' do
     url 'http://dl.dafont.com/dl/?f=slickroadsdt'
     name 'Slick Roads DT'
     homepage 'http://www.dafont.com/slickroadsdt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SlickRoadsDT.ttf'
 end

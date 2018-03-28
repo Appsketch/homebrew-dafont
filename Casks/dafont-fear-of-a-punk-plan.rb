@@ -5,7 +5,6 @@ cask 'dafont-fear-of-a-punk-plan' do
     url 'http://dl.dafont.com/dl/?f=fear_of_a_punk_plan'
     name 'Fear of a Punk Planet'
     homepage 'http://www.dafont.com/fear-of-a-punk-plan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fearofapunkplanet.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-distrogrunge-tfb' do
     url 'http://dl.dafont.com/dl/?f=distrogrunge_tfb'
     name 'Distrogrunge TFB'
     homepage 'http://www.dafont.com/distrogrunge-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'distrogrunge tfb.ttf'
 end

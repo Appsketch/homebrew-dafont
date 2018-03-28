@@ -5,7 +5,6 @@ cask 'dafont-mancitecture' do
     url 'http://dl.dafont.com/dl/?f=mancitecture'
     name 'Mancitecture'
     homepage 'http://www.dafont.com/mancitecture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mancitecture.ttf'
 end

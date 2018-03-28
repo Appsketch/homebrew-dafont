@@ -5,7 +5,6 @@ cask 'dafont-maeninaja' do
     url 'http://dl.dafont.com/dl/?f=maeninaja'
     name 'Maeninaja'
     homepage 'http://www.dafont.com/maeninaja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maeninaja.ttf'
 end

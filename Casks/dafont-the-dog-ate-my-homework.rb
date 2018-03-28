@@ -5,7 +5,6 @@ cask 'dafont-the-dog-ate-my-homework' do
     url 'http://dl.dafont.com/dl/?f=the_dog_ate_my_homework'
     name 'The Dog Ate My Homework'
     homepage 'http://www.dafont.com/the-dog-ate-my-homework.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheDogAteMyHomework.otf'
     font 'TheDogAteMyHomeworkBold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-cleaneasy' do
     url 'http://dl.dafont.com/dl/?f=cleaneasy'
     name 'Clean Easy'
     homepage 'http://www.dafont.com/cleaneasy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CleanEasy.ttf'
 end

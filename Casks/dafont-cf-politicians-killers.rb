@@ -5,7 +5,6 @@ cask 'dafont-cf-politicians-killers' do
     url 'http://dl.dafont.com/dl/?f=cf_politicians_killers'
     name 'CF Politicians Killers'
     homepage 'http://www.dafont.com/cf-politicians-killers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFPoliticiansKillers-Regula.ttf'
 end

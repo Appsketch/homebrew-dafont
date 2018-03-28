@@ -5,7 +5,6 @@ cask 'dafont-strange-rituals' do
     url 'http://dl.dafont.com/dl/?f=strange_rituals'
     name 'Strange Rituals'
     homepage 'http://www.dafont.com/strange-rituals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strange Rituals.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rounded-display-st' do
     url 'http://dl.dafont.com/dl/?f=rounded_display_st'
     name 'Rounded Display ST'
     homepage 'http://www.dafont.com/rounded-display-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rounded display St.ttf'
 end

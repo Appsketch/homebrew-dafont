@@ -5,7 +5,6 @@ cask 'dafont-shaunhand' do
     url 'http://dl.dafont.com/dl/?f=shaunhand'
     name 'Shaun Hand'
     homepage 'http://www.dafont.com/shaunhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShaunHand.ttf'
 end

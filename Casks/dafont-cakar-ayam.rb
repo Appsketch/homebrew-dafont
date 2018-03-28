@@ -5,7 +5,6 @@ cask 'dafont-cakar-ayam' do
     url 'http://dl.dafont.com/dl/?f=cakar_ayam'
     name 'Cakar Ayam'
     homepage 'http://www.dafont.com/cakar-ayam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CakarAyam.ttf'
 end

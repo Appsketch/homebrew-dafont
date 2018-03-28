@@ -5,7 +5,6 @@ cask 'dafont-eat-more-chocolate' do
     url 'http://dl.dafont.com/dl/?f=eat_more_chocolate'
     name 'Eat More Chocolate'
     homepage 'http://www.dafont.com/eat-more-chocolate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EatMoreChocolate.ttf'
 end

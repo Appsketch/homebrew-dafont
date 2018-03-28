@@ -5,7 +5,6 @@ cask 'dafont-shock-rock' do
     url 'http://dl.dafont.com/dl/?f=shock_rock'
     name 'Shock Rock'
     homepage 'http://www.dafont.com/shock-rock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shock_Rock_font.ttf'
 end

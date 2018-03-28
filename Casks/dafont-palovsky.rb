@@ -5,7 +5,6 @@ cask 'dafont-palovsky' do
     url 'http://dl.dafont.com/dl/?f=palovsky'
     name 'Palovsky'
     homepage 'http://www.dafont.com/palovsky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'palovsky.ttf'
 end

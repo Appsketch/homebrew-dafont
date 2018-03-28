@@ -5,7 +5,6 @@ cask 'dafont-bifur' do
     url 'http://dl.dafont.com/dl/?f=bifur'
     name 'Bifur'
     homepage 'http://www.dafont.com/bifur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIFUR___.TTF'
 end

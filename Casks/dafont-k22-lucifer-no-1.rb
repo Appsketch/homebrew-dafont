@@ -5,7 +5,6 @@ cask 'dafont-k22-lucifer-no-1' do
     url 'http://dl.dafont.com/dl/?f=k22_lucifer_no_1'
     name 'K22 Lucifer No. 1'
     homepage 'http://www.dafont.com/k22-lucifer-no-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K22 Lucifer No. 1.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-british-museum-14th' do
     url 'http://dl.dafont.com/dl/?f=british_museum_14th'
     name 'British Museum, 14th c.'
     homepage 'http://www.dafont.com/british-museum-14th.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'British Museum, 14th c.TTF'
 end

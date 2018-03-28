@@ -5,7 +5,6 @@ cask 'dafont-straight-face' do
     url 'http://dl.dafont.com/dl/?f=straight_face'
     name 'Straight Face'
     homepage 'http://www.dafont.com/straight-face.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Straight faced.ttf'
 end

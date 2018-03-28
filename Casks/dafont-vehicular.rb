@@ -5,7 +5,6 @@ cask 'dafont-vehicular' do
     url 'http://dl.dafont.com/dl/?f=vehicular'
     name 'Vehicular'
     homepage 'http://www.dafont.com/vehicular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vehicular.ttf'
 end

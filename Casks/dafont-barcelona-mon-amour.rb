@@ -5,7 +5,6 @@ cask 'dafont-barcelona-mon-amour' do
     url 'http://dl.dafont.com/dl/?f=barcelona_mon_amour'
     name 'Barcelona Mon Amour'
     homepage 'http://www.dafont.com/barcelona-mon-amour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barcelona Mon Amour.ttf'
 end

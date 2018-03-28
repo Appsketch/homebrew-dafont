@@ -5,7 +5,6 @@ cask 'dafont-sunantara' do
     url 'http://dl.dafont.com/dl/?f=sunantara'
     name 'Sunantara'
     homepage 'http://www.dafont.com/sunantara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sunantara.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kg-primary-whimsy' do
     url 'http://dl.dafont.com/dl/?f=kg_primary_whimsy'
     name 'KG Primary Whimsy'
     homepage 'http://www.dafont.com/kg-primary-whimsy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGPrimaryWhimsy.ttf'
 end

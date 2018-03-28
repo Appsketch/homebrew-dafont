@@ -5,7 +5,6 @@ cask 'dafont-defused' do
     url 'http://dl.dafont.com/dl/?f=defused'
     name 'Defused'
     homepage 'http://www.dafont.com/defused.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'defused.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-metronauts' do
     url 'http://dl.dafont.com/dl/?f=metronauts'
     name 'Metronauts'
     homepage 'http://www.dafont.com/metronauts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'metronauts.ttf'
     font 'metronauts3d.ttf'

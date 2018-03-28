@@ -5,7 +5,6 @@ cask 'dafont-aracme-waround' do
     url 'http://dl.dafont.com/dl/?f=aracme_waround'
     name 'Aracme Waround'
     homepage 'http://www.dafont.com/aracme-waround.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aracme Waround Light.ttf'
     font 'Aracme Waround.ttf'

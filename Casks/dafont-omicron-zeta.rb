@@ -5,7 +5,6 @@ cask 'dafont-omicron-zeta' do
     url 'http://dl.dafont.com/dl/?f=omicron_zeta'
     name 'Omicron Zeta'
     homepage 'http://www.dafont.com/omicron-zeta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Omicz___.ttf'
     font 'Omiczh__.ttf'

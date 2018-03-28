@@ -5,7 +5,6 @@ cask 'dafont-roboto' do
     url 'http://dl.dafont.com/dl/?f=roboto'
     name 'Roboto'
     homepage 'http://www.dafont.com/roboto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Roboto-Black.ttf'
     font 'Roboto-BlackItalic.ttf'

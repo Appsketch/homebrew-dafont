@@ -5,7 +5,6 @@ cask 'dafont-bad-robot' do
     url 'http://dl.dafont.com/dl/?f=bad_robot'
     name 'Bad Robot'
     homepage 'http://www.dafont.com/bad-robot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'badrobot.ttf'
     font 'badrobot3d.ttf'

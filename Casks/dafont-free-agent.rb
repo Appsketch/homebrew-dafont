@@ -5,7 +5,6 @@ cask 'dafont-free-agent' do
     url 'http://dl.dafont.com/dl/?f=free_agent'
     name 'Free Agent'
     homepage 'http://www.dafont.com/free-agent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'freeagent.ttf'
     font 'freeagent3d.ttf'

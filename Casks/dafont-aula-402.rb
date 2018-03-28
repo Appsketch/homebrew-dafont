@@ -5,7 +5,6 @@ cask 'dafont-aula-402' do
     url 'http://dl.dafont.com/dl/?f=_aula_402'
     name 'Aula 402'
     homepage 'http://www.dafont.com/-aula-402.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aula 402.ttf'
 end

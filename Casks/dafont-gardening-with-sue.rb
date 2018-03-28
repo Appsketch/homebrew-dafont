@@ -5,7 +5,6 @@ cask 'dafont-gardening-with-sue' do
     url 'http://dl.dafont.com/dl/?f=gardening_with_sue'
     name 'Gardening With Sue'
     homepage 'http://www.dafont.com/gardening-with-sue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gardening With Sue.ttf'
 end

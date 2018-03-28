@@ -5,7 +5,6 @@ cask 'dafont-whats-happened' do
     url 'http://dl.dafont.com/dl/?f=whats_happened'
     name 'Whats Happened'
     homepage 'http://www.dafont.com/whats-happened.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhatsHappened.ttf'
 end

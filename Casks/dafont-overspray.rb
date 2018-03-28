@@ -5,7 +5,6 @@ cask 'dafont-overspray' do
     url 'http://dl.dafont.com/dl/?f=overspray'
     name 'Overspray'
     homepage 'http://www.dafont.com/overspray.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Overspray.ttf'
 end

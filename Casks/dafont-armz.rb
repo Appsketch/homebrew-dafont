@@ -5,7 +5,6 @@ cask 'dafont-armz' do
     url 'http://dl.dafont.com/dl/?f=armz'
     name 'Armz'
     homepage 'http://www.dafont.com/armz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Armz.ttf'
 end

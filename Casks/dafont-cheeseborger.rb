@@ -5,7 +5,6 @@ cask 'dafont-cheeseborger' do
     url 'http://dl.dafont.com/dl/?f=cheeseborger'
     name 'Cheeseborger'
     homepage 'http://www.dafont.com/cheeseborger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cheeseborger.ttf'
 end

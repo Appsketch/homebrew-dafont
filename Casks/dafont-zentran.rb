@@ -5,7 +5,6 @@ cask 'dafont-zentran' do
     url 'http://dl.dafont.com/dl/?f=zentran'
     name 'Zentran'
     homepage 'http://www.dafont.com/zentran.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zentran Italic.otf'
     font 'Zentran.otf'

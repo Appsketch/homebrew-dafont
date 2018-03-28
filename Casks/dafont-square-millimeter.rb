@@ -5,7 +5,6 @@ cask 'dafont-square-millimeter' do
     url 'http://dl.dafont.com/dl/?f=square_millimeter'
     name 'Square-Millimeter'
     homepage 'http://www.dafont.com/square-millimeter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mm2__.ttf'
 end

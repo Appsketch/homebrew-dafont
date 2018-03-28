@@ -5,7 +5,6 @@ cask 'dafont-asian-guy' do
     url 'http://dl.dafont.com/dl/?f=asian_guy'
     name 'Asian Guy'
     homepage 'http://www.dafont.com/asian-guy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Asian Guy.ttf'
 end

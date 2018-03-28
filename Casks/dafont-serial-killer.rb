@@ -5,7 +5,6 @@ cask 'dafont-serial-killer' do
     url 'http://dl.dafont.com/dl/?f=serial_killer'
     name 'Serial Killer'
     homepage 'http://www.dafont.com/serial-killer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'serial killer.ttf'
 end

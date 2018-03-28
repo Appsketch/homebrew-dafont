@@ -5,7 +5,6 @@ cask 'dafont-barker-allcaps' do
     url 'http://dl.dafont.com/dl/?f=barker_allcaps'
     name 'Barker AllCaps'
     homepage 'http://www.dafont.com/barker-allcaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barker-AllCapsDemo.otf'
 end

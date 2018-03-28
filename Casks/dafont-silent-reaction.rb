@@ -5,7 +5,6 @@ cask 'dafont-silent-reaction' do
     url 'http://dl.dafont.com/dl/?f=silent_reaction'
     name 'Silent Reaction'
     homepage 'http://www.dafont.com/silent-reaction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Silent Reaction.ttf'
 end

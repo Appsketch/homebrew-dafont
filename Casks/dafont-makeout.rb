@@ -5,7 +5,6 @@ cask 'dafont-makeout' do
     url 'http://dl.dafont.com/dl/?f=makeout'
     name 'MakeOut'
     homepage 'http://www.dafont.com/makeout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MakeOut.ttf'
 end

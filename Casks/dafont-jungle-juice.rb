@@ -5,7 +5,6 @@ cask 'dafont-jungle-juice' do
     url 'http://dl.dafont.com/dl/?f=jungle_juice'
     name 'Jungle Juice'
     homepage 'http://www.dafont.com/jungle-juice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JUNGJ___.TTF'
 end

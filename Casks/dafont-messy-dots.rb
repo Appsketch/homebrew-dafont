@@ -5,7 +5,6 @@ cask 'dafont-messy-dots' do
     url 'http://dl.dafont.com/dl/?f=messy_dots'
     name 'Messy Dots'
     homepage 'http://www.dafont.com/messy-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'messydots.TTF'
 end

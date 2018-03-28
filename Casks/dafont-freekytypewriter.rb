@@ -5,7 +5,6 @@ cask 'dafont-freekytypewriter' do
     url 'http://dl.dafont.com/dl/?f=freekytypewriter'
     name 'Freeky Typewriter'
     homepage 'http://www.dafont.com/freekytypewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreekyTypewriter.ttf'
 end

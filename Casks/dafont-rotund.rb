@@ -5,7 +5,6 @@ cask 'dafont-rotund' do
     url 'http://dl.dafont.com/dl/?f=rotund'
     name 'Rotund'
     homepage 'http://www.dafont.com/rotund.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rotund.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cgf-locust-resistance' do
     url 'http://dl.dafont.com/dl/?f=cgf_locust_resistance'
     name 'CGF Locust Resistance'
     homepage 'http://www.dafont.com/cgf-locust-resistance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CGF Locust Resistance.ttf'
 end

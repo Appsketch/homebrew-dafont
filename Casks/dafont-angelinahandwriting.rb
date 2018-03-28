@@ -5,7 +5,6 @@ cask 'dafont-angelinahandwriting' do
     url 'http://dl.dafont.com/dl/?f=angelinahandwriting'
     name 'Angelina Handwriting'
     homepage 'http://www.dafont.com/angelinahandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AngelinaHandwriting.ttf'
 end

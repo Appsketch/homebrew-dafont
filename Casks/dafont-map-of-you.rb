@@ -5,7 +5,6 @@ cask 'dafont-map-of-you' do
     url 'http://dl.dafont.com/dl/?f=map_of_you'
     name 'Map Of You'
     homepage 'http://www.dafont.com/map-of-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'map of you.ttf'
 end

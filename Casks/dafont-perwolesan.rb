@@ -5,7 +5,6 @@ cask 'dafont-perwolesan' do
     url 'http://dl.dafont.com/dl/?f=perwolesan'
     name 'Perwolesan'
     homepage 'http://www.dafont.com/perwolesan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Perwolesan.ttf'
 end

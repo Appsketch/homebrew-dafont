@@ -5,7 +5,6 @@ cask 'dafont-surfsup' do
     url 'http://dl.dafont.com/dl/?f=surfsup'
     name 'SurfsUp'
     homepage 'http://www.dafont.com/surfsup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SurfsUp.TTF'
 end

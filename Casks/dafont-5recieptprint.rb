@@ -5,7 +5,6 @@ cask 'dafont-5recieptprint' do
     url 'http://dl.dafont.com/dl/?f=5recieptprint'
     name '5 Recieptprint'
     homepage 'http://www.dafont.com/5recieptprint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5Recieptprint.ttf'
 end

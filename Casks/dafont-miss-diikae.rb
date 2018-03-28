@@ -5,7 +5,6 @@ cask 'dafont-miss-diikae' do
     url 'http://dl.dafont.com/dl/?f=miss_diikae'
     name 'Miss Diikae'
     homepage 'http://www.dafont.com/miss-diikae.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miss_Diikae__s_Handwriting___by_Diikae.ttf'
 end

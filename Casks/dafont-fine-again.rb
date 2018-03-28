@@ -5,7 +5,6 @@ cask 'dafont-fine-again' do
     url 'http://dl.dafont.com/dl/?f=fine_again'
     name 'Mf Fine Again'
     homepage 'http://www.dafont.com/fine-again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Fine Again Italic.ttf'
     font 'Mf Fine Again.ttf'

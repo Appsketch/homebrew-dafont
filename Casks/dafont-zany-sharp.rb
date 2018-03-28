@@ -5,7 +5,6 @@ cask 'dafont-zany-sharp' do
     url 'http://dl.dafont.com/dl/?f=zany_sharp'
     name 'Zany Sharp'
     homepage 'http://www.dafont.com/zany-sharp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zany Sharp.ttf'
 end

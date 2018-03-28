@@ -5,7 +5,6 @@ cask 'dafont-peixe-frito' do
     url 'http://dl.dafont.com/dl/?f=peixe_frito'
     name 'Peixe Frito'
     homepage 'http://www.dafont.com/peixe-frito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PEIXE___.ttf'
 end

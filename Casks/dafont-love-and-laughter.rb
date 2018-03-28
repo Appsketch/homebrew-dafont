@@ -5,7 +5,6 @@ cask 'dafont-love-and-laughter' do
     url 'http://dl.dafont.com/dl/?f=love_and_laughter'
     name 'Love and laughter'
     homepage 'http://www.dafont.com/love-and-laughter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Love and laughter.ttf'
 end

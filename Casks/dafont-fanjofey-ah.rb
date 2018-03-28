@@ -5,7 +5,6 @@ cask 'dafont-fanjofey-ah' do
     url 'http://dl.dafont.com/dl/?f=fanjofey_ah'
     name 'Fanjofey AH'
     homepage 'http://www.dafont.com/fanjofey-ah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fanjo-leoda.ttf'
     font 'fanjofey.ttf'

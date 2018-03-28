@@ -5,7 +5,6 @@ cask 'dafont-terror-byte-true' do
     url 'http://dl.dafont.com/dl/?f=terror_byte_true'
     name 'Terror Byte True'
     homepage 'http://www.dafont.com/terror-byte-true.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TeRRoR_ByTe_True.ttf'
 end

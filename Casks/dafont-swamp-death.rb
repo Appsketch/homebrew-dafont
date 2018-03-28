@@ -5,7 +5,6 @@ cask 'dafont-swamp-death' do
     url 'http://dl.dafont.com/dl/?f=swamp_death'
     name 'Swamp Death'
     homepage 'http://www.dafont.com/swamp-death.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swamp Death.ttf'
 end

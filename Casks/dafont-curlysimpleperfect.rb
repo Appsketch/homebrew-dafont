@@ -5,7 +5,6 @@ cask 'dafont-curlysimpleperfect' do
     url 'http://dl.dafont.com/dl/?f=curlysimpleperfect'
     name 'Curly Simple Perfect'
     homepage 'http://www.dafont.com/curlysimpleperfect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CurlySimplePerfect.ttf'
 end

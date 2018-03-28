@@ -5,7 +5,6 @@ cask 'dafont-inkabod' do
     url 'http://dl.dafont.com/dl/?f=inkabod'
     name 'InkaBod'
     homepage 'http://www.dafont.com/inkabod.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INKABOD.TTF'
 end

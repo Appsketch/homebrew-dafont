@@ -5,7 +5,6 @@ cask 'dafont-a-sogra-ruth' do
     url 'http://dl.dafont.com/dl/?f=a_sogra_ruth'
     name 'A Sogra Ruth'
     homepage 'http://www.dafont.com/a-sogra-ruth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A_sogra_Ruth-FFP.ttf'
 end

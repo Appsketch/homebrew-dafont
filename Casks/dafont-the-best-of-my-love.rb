@@ -5,7 +5,6 @@ cask 'dafont-the-best-of-my-love' do
     url 'http://dl.dafont.com/dl/?f=the_best_of_my_love'
     name 'The best of my love'
     homepage 'http://www.dafont.com/the-best-of-my-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thebestofmylovebold.ttf'
     font 'thebestofmylovelight.ttf'

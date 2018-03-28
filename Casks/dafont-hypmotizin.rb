@@ -5,7 +5,6 @@ cask 'dafont-hypmotizin' do
     url 'http://dl.dafont.com/dl/?f=hypmotizin'
     name 'Hypmotizin'
     homepage 'http://www.dafont.com/hypmotizin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hypmotizin.ttf'
 end

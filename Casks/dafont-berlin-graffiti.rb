@@ -5,7 +5,6 @@ cask 'dafont-berlin-graffiti' do
     url 'http://dl.dafont.com/dl/?f=berlin_graffiti'
     name 'Berlin Graffiti'
     homepage 'http://www.dafont.com/berlin-graffiti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Berlin_Graffiti.ttf'
 end

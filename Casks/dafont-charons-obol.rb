@@ -5,7 +5,6 @@ cask 'dafont-charons-obol' do
     url 'http://dl.dafont.com/dl/?f=charons_obol'
     name 'Charons Obol'
     homepage 'http://www.dafont.com/charons-obol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Charons Obol.ttf'
 end

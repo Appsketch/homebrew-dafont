@@ -5,7 +5,6 @@ cask 'dafont-pwtoonz' do
     url 'http://dl.dafont.com/dl/?f=pwtoonz'
     name 'PW Toonz'
     homepage 'http://www.dafont.com/pwtoonz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWToonz.ttf'
 end

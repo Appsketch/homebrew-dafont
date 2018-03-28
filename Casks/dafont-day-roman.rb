@@ -5,7 +5,6 @@ cask 'dafont-day-roman' do
     url 'http://dl.dafont.com/dl/?f=day_roman'
     name 'Day Roman'
     homepage 'http://www.dafont.com/day-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DAYROM__.ttf'
     font 'DAYROM_X.ttf'

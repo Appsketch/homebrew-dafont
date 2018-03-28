@@ -5,7 +5,6 @@ cask 'dafont-shortbrush' do
     url 'http://dl.dafont.com/dl/?f=shortbrush'
     name 'Shortbrush'
     homepage 'http://www.dafont.com/shortbrush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shortbrush.ttf'
 end

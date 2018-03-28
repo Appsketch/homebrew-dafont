@@ -5,7 +5,6 @@ cask 'dafont-numero-10-clean' do
     url 'http://dl.dafont.com/dl/?f=numero_10_clean'
     name 'Numero 10 Clean'
     homepage 'http://www.dafont.com/numero-10-clean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Numero 10 Clean.ttf'
 end

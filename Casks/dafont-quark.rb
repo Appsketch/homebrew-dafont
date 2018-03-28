@@ -5,7 +5,6 @@ cask 'dafont-quark' do
     url 'http://dl.dafont.com/dl/?f=quark'
     name 'Quark'
     homepage 'http://www.dafont.com/quark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quark.ttf'
     font 'Quarki.ttf'

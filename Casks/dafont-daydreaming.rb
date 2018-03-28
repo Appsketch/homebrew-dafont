@@ -5,7 +5,6 @@ cask 'dafont-daydreaming' do
     url 'http://dl.dafont.com/dl/?f=daydreaming'
     name 'Day Dreaming'
     homepage 'http://www.dafont.com/daydreaming.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DayDreaming.ttf'
 end

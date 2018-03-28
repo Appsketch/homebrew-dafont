@@ -5,7 +5,6 @@ cask 'dafont-purple-deco' do
     url 'http://dl.dafont.com/dl/?f=purple_deco'
     name 'Purple Deco'
     homepage 'http://www.dafont.com/purple-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PurpleDecoDemo.ttf'
 end

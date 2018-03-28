@@ -5,7 +5,6 @@ cask 'dafont-electron8f' do
     url 'http://dl.dafont.com/dl/?f=electron8f'
     name 'Electron 8F'
     homepage 'http://www.dafont.com/electron8f.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'electron 8f.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-delarge' do
     url 'http://dl.dafont.com/dl/?f=delarge'
     name 'DeLarge'
     homepage 'http://www.dafont.com/delarge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeLarge.ttf'
     font 'DeLargeOutline.ttf'

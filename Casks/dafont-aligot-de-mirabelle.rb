@@ -5,7 +5,6 @@ cask 'dafont-aligot-de-mirabelle' do
     url 'http://dl.dafont.com/dl/?f=aligot_de_mirabelle'
     name 'Aligot de Mirabelle'
     homepage 'http://www.dafont.com/aligot-de-mirabelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aligot de Mirabelle.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vintage-panels-014' do
     url 'http://dl.dafont.com/dl/?f=vintage_panels_014'
     name 'Vintage Panels 014'
     homepage 'http://www.dafont.com/vintage-panels-014.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vintage Panels_014.ttf'
 end

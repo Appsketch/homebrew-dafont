@@ -5,7 +5,6 @@ cask 'dafont-andre-gestauchtbold' do
     url 'http://dl.dafont.com/dl/?f=andre_gestauchtbold'
     name 'Andre Gestauchtbold'
     homepage 'http://www.dafont.com/andre-gestauchtbold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'andregestauchtbold.ttf'
 end

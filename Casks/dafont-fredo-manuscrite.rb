@@ -5,7 +5,6 @@ cask 'dafont-fredo-manuscrite' do
     url 'http://dl.dafont.com/dl/?f=fredo_manuscrite'
     name 'Fredo Manuscrite'
     homepage 'http://www.dafont.com/fredo-manuscrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fredo_manuscrite.ttf'
 end

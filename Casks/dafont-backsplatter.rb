@@ -5,7 +5,6 @@ cask 'dafont-backsplatter' do
     url 'http://dl.dafont.com/dl/?f=backsplatter'
     name 'BackSplatter'
     homepage 'http://www.dafont.com/backsplatter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BACK.TTF'
 end

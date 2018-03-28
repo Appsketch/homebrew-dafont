@@ -5,7 +5,6 @@ cask 'dafont-walter-goes-to-america' do
     url 'http://dl.dafont.com/dl/?f=walter_goes_to_america'
     name 'Walter Goes To America'
     homepage 'http://www.dafont.com/walter-goes-to-america.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'walter_goes_to_america.ttf'
 end

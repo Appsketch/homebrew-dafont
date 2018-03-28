@@ -5,7 +5,6 @@ cask 'dafont-ketchum' do
     url 'http://dl.dafont.com/dl/?f=ketchum'
     name 'Ketchum'
     homepage 'http://www.dafont.com/ketchum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ketchum Italic.otf'
     font 'Ketchum.otf'

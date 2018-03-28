@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-tinta-china' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_tinta_china'
     name 'Woodcutter Tinta China'
     homepage 'http://www.dafont.com/woodcutter-tinta-china.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'woodcutter TINTA CHINA.ttf'
 end

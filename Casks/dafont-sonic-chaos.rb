@@ -5,7 +5,6 @@ cask 'dafont-sonic-chaos' do
     url 'http://dl.dafont.com/dl/?f=sonic_chaos'
     name 'Sonic Chaos'
     homepage 'http://www.dafont.com/sonic-chaos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SonicChaos.ttf'
 end

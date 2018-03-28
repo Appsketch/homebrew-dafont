@@ -5,7 +5,6 @@ cask 'dafont-pumpkins2006' do
     url 'http://dl.dafont.com/dl/?f=pumpkins2006'
     name 'Pumpkins 2006'
     homepage 'http://www.dafont.com/pumpkins2006.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pumpkins2006.ttf'
 end

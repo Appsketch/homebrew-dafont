@@ -5,7 +5,6 @@ cask 'dafont-toscanienne' do
     url 'http://dl.dafont.com/dl/?f=toscanienne'
     name 'Toscanienne'
     homepage 'http://www.dafont.com/toscanienne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Toscanienne.ttf'
 end

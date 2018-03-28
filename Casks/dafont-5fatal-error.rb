@@ -5,7 +5,6 @@ cask 'dafont-5fatal-error' do
     url 'http://dl.dafont.com/dl/?f=5fatal_error'
     name '5 Fatal Error'
     homepage 'http://www.dafont.com/5fatal-error.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5Fatal-Error.ttf'
 end

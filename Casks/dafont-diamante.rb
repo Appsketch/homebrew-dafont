@@ -5,7 +5,6 @@ cask 'dafont-diamante' do
     url 'http://dl.dafont.com/dl/?f=diamante'
     name 'Diamante'
     homepage 'http://www.dafont.com/diamante.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIAMANTE.ttf'
 end

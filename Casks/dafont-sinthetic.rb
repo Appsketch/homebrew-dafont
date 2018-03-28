@@ -5,7 +5,6 @@ cask 'dafont-sinthetic' do
     url 'http://dl.dafont.com/dl/?f=sinthetic'
     name 'Sinthetic'
     homepage 'http://www.dafont.com/sinthetic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sinthetic-Regular.ttf'
 end

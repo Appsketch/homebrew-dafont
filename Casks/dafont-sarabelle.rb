@@ -5,7 +5,6 @@ cask 'dafont-sarabelle' do
     url 'http://dl.dafont.com/dl/?f=sarabelle'
     name 'Sarabelle'
     homepage 'http://www.dafont.com/sarabelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sarabelle.ttf'
 end

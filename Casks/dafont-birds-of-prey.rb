@@ -5,7 +5,6 @@ cask 'dafont-birds-of-prey' do
     url 'http://dl.dafont.com/dl/?f=birds_of_prey'
     name 'Unofficial BoP Font'
     homepage 'http://www.dafont.com/birds-of-prey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOP.TTF'
 end

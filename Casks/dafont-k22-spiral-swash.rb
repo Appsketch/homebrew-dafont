@@ -5,7 +5,6 @@ cask 'dafont-k22-spiral-swash' do
     url 'http://dl.dafont.com/dl/?f=k22_spiral_swash'
     name 'K22 Spiral Swash'
     homepage 'http://www.dafont.com/k22-spiral-swash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K22 Spiral Swash Shadow.otf'
     font 'K22 Spiral Swash.ttf'

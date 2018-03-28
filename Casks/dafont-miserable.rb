@@ -5,7 +5,6 @@ cask 'dafont-miserable' do
     url 'http://dl.dafont.com/dl/?f=miserable'
     name 'Miserable'
     homepage 'http://www.dafont.com/miserable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MISERABLE.TTF'
 end

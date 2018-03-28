@@ -5,7 +5,6 @@ cask 'dafont-speedball' do
     url 'http://dl.dafont.com/dl/?f=speedball'
     name 'Speedball'
     homepage 'http://www.dafont.com/speedball.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPEENS__.TTF'
 end

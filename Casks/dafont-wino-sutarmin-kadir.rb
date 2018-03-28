@@ -5,7 +5,6 @@ cask 'dafont-wino-sutarmin-kadir' do
     url 'http://dl.dafont.com/dl/?f=wino_sutarmin_kadir'
     name 'Wino Sutarmin Kadir'
     homepage 'http://www.dafont.com/wino-sutarmin-kadir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wino sutarmin kadir.ttf'
 end

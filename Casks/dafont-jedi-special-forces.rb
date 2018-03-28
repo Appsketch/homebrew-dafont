@@ -5,7 +5,6 @@ cask 'dafont-jedi-special-forces' do
     url 'http://dl.dafont.com/dl/?f=jedi_special_forces'
     name 'Jedi Special Forces'
     homepage 'http://www.dafont.com/jedi-special-forces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jedisf.ttf'
     font 'jedisf3d.ttf'

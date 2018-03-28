@@ -5,7 +5,6 @@ cask 'dafont-spanish-stencil' do
     url 'http://dl.dafont.com/dl/?f=spanish_stencil'
     name 'Spanish Stencil'
     homepage 'http://www.dafont.com/spanish-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpanishStencil.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tepeno-sans' do
     url 'http://dl.dafont.com/dl/?f=tepeno_sans'
     name 'Tepeno Sans'
     homepage 'http://www.dafont.com/tepeno-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tepeno Sans Bold Italic.ttf'
     font 'Tepeno Sans Bold.ttf'

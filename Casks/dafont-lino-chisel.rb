@@ -5,7 +5,6 @@ cask 'dafont-lino-chisel' do
     url 'http://dl.dafont.com/dl/?f=lino_chisel'
     name 'Lino Chisel'
     homepage 'http://www.dafont.com/lino-chisel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'linochsl.ttf'
 end

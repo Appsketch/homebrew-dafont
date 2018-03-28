@@ -5,7 +5,6 @@ cask 'dafont-impossibilium' do
     url 'http://dl.dafont.com/dl/?f=impossibilium'
     name 'Impossibilium BRK'
     homepage 'http://www.dafont.com/impossibilium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Improved version by Wengus/imposs_accents.ttf'
 end

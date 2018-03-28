@@ -5,7 +5,6 @@ cask 'dafont-spazbatz' do
     url 'http://dl.dafont.com/dl/?f=spazbatz'
     name 'Sp&auml;zBatz'
     homepage 'http://www.dafont.com/spazbatz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpzBatz.ttf'
 end

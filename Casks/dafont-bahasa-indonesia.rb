@@ -5,7 +5,6 @@ cask 'dafont-bahasa-indonesia' do
     url 'http://dl.dafont.com/dl/?f=bahasa_indonesia'
     name 'Bahasa Indonesia'
     homepage 'http://www.dafont.com/bahasa-indonesia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bahasa Indonesia.ttf'
 end

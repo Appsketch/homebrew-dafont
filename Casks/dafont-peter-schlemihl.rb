@@ -5,7 +5,6 @@ cask 'dafont-peter-schlemihl' do
     url 'http://dl.dafont.com/dl/?f=peter_schlemihl'
     name 'Peter Schlemihl'
     homepage 'http://www.dafont.com/peter-schlemihl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PeterSchlemihl.ttf'
 end

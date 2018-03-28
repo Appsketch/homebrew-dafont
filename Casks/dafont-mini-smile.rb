@@ -5,7 +5,6 @@ cask 'dafont-mini-smile' do
     url 'http://dl.dafont.com/dl/?f=mini_smile'
     name 'Mini Smile'
     homepage 'http://www.dafont.com/mini-smile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mini Smile.ttf'
 end

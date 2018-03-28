@@ -5,7 +5,6 @@ cask 'dafont-just-the-way-you-are' do
     url 'http://dl.dafont.com/dl/?f=just_the_way_you_are'
     name 'Just The Way You Are'
     homepage 'http://www.dafont.com/just-the-way-you-are.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustTheWayYouAre.ttf'
 end

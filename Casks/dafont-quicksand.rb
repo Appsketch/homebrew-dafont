@@ -5,7 +5,6 @@ cask 'dafont-quicksand' do
     url 'http://dl.dafont.com/dl/?f=quicksand'
     name 'Quicksand'
     homepage 'http://www.dafont.com/quicksand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quicksand_Bold_Oblique.otf'
     font 'Quicksand_Bold.otf'

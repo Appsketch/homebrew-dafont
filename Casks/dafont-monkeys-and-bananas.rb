@@ -5,7 +5,6 @@ cask 'dafont-monkeys-and-bananas' do
     url 'http://dl.dafont.com/dl/?f=monkeys_and_bananas'
     name 'Monkeys and Bananas'
     homepage 'http://www.dafont.com/monkeys-and-bananas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monkeys and bananas.ttf'
 end

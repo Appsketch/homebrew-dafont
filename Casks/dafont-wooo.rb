@@ -5,7 +5,6 @@ cask 'dafont-wooo' do
     url 'http://dl.dafont.com/dl/?f=wooo'
     name 'Wooo'
     homepage 'http://www.dafont.com/wooo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wooo_CE_kern.ttf'
 end

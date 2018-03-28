@@ -5,7 +5,6 @@ cask 'dafont-babycakes' do
     url 'http://dl.dafont.com/dl/?f=babycakes'
     name 'Babycakes'
     homepage 'http://www.dafont.com/babycakes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BABYCAKE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-2nd-brigade' do
     url 'http://dl.dafont.com/dl/?f=2nd_brigade'
     name '2nd Brigade'
     homepage 'http://www.dafont.com/2nd-brigade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '2nd-Brigade.ttf'
 end

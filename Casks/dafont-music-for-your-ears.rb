@@ -5,7 +5,6 @@ cask 'dafont-music-for-your-ears' do
     url 'http://dl.dafont.com/dl/?f=music_for_your_ears'
     name 'Music For Your Ears'
     homepage 'http://www.dafont.com/music-for-your-ears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Music For Your Ears.ttf'
 end

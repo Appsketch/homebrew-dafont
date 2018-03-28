@@ -5,7 +5,6 @@ cask 'dafont-kr-winds-of-change' do
     url 'http://dl.dafont.com/dl/?f=kr_winds_of_change'
     name 'KR Winds of Change'
     homepage 'http://www.dafont.com/kr-winds-of-change.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Winds Of Change.TTF'
 end

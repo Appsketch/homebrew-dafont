@@ -5,7 +5,6 @@ cask 'dafont-humanoid' do
     url 'http://dl.dafont.com/dl/?f=humanoid'
     name 'Humanoid'
     homepage 'http://www.dafont.com/humanoid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'humanoid.ttf'
 end

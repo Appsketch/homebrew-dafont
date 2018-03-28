@@ -5,7 +5,6 @@ cask 'dafont-stab' do
     url 'http://dl.dafont.com/dl/?f=stab'
     name 'Stab'
     homepage 'http://www.dafont.com/stab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stab.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pixelrunes' do
     url 'http://dl.dafont.com/dl/?f=pixelrunes'
     name 'PixelRunes'
     homepage 'http://www.dafont.com/pixelrunes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixelRunes.ttf'
 end

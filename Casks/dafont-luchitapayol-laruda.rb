@@ -5,7 +5,6 @@ cask 'dafont-luchitapayol-laruda' do
     url 'http://dl.dafont.com/dl/?f=luchitapayol_laruda'
     name 'LuchitaPayol LaRuda'
     homepage 'http://www.dafont.com/luchitapayol-laruda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LuchitaPayol-LaRuda.ttf'
 end

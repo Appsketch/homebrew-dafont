@@ -5,7 +5,6 @@ cask 'dafont-betazed' do
     url 'http://dl.dafont.com/dl/?f=betazed'
     name 'Betazed'
     homepage 'http://www.dafont.com/betazed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Betazed Bold Italic.otf'
     font 'Betazed Bold.otf'

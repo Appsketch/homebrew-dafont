@@ -5,7 +5,6 @@ cask 'dafont-jsl-blackletter' do
     url 'http://dl.dafont.com/dl/?f=jsl_blackletter'
     name 'JSL Blackletter'
     homepage 'http://www.dafont.com/jsl-blackletter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JBLACK.TTF'
 end

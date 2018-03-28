@@ -5,7 +5,6 @@ cask 'dafont-beebop' do
     url 'http://dl.dafont.com/dl/?f=beebop'
     name 'Beebop'
     homepage 'http://www.dafont.com/beebop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEBOP.TTF'
 end

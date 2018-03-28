@@ -5,7 +5,6 @@ cask 'dafont-dk-sammy-boy' do
     url 'http://dl.dafont.com/dl/?f=dk_sammy_boy'
     name 'DK Sammy Boy'
     homepage 'http://www.dafont.com/dk-sammy-boy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Sammy Boy.ttf'
 end

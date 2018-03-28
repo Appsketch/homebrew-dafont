@@ -5,7 +5,6 @@ cask 'dafont-booday' do
     url 'http://dl.dafont.com/dl/?f=booday'
     name 'Booday'
     homepage 'http://www.dafont.com/booday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Booday.ttf'
 end

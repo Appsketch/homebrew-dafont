@@ -5,7 +5,6 @@ cask 'dafont-drippywatercolor' do
     url 'http://dl.dafont.com/dl/?f=drippywatercolor'
     name 'Drippy Watercolor'
     homepage 'http://www.dafont.com/drippywatercolor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DrippyWatercolor.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-abberancy' do
     url 'http://dl.dafont.com/dl/?f=abberancy'
     name 'Abberancy'
     homepage 'http://www.dafont.com/abberancy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'abberancy.ttf'
 end

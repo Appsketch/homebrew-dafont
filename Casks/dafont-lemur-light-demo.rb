@@ -5,7 +5,6 @@ cask 'dafont-lemur-light-demo' do
     url 'http://dl.dafont.com/dl/?f=lemur_light_demo'
     name 'Lemur Light'
     homepage 'http://www.dafont.com/lemur-light-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lemur_light_DEMO.ttf'
 end

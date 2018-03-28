@@ -5,7 +5,6 @@ cask 'dafont-mixedthirty' do
     url 'http://dl.dafont.com/dl/?f=mixedthirty'
     name 'Mixed Thirty'
     homepage 'http://www.dafont.com/mixedthirty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixedThirty.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-spartaco' do
     url 'http://dl.dafont.com/dl/?f=spartaco'
     name 'Spartaco'
     homepage 'http://www.dafont.com/spartaco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spartaco.ttf'
     font 'spartaco3d.ttf'

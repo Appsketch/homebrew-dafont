@@ -5,7 +5,6 @@ cask 'dafont-tigre' do
     url 'http://dl.dafont.com/dl/?f=tigre'
     name 'Tigre'
     homepage 'http://www.dafont.com/tigre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tigre.ttf'
 end

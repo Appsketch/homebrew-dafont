@@ -5,7 +5,6 @@ cask 'dafont-equestria' do
     url 'http://dl.dafont.com/dl/?f=equestria'
     name 'Equestria'
     homepage 'http://www.dafont.com/equestria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Equestria Bold Italic.otf'
     font 'Equestria Bold.otf'

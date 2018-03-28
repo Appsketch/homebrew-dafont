@@ -5,7 +5,6 @@ cask 'dafont-atlantic-cruise' do
     url 'http://dl.dafont.com/dl/?f=atlantic_cruise'
     name 'Atlantic Cruise'
     homepage 'http://www.dafont.com/atlantic-cruise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Atlantic_Cruise-Demo.ttf'
 end

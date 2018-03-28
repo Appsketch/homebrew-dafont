@@ -5,7 +5,6 @@ cask 'dafont-djb-standardized-test' do
     url 'http://dl.dafont.com/dl/?f=djb_standardized_test'
     name 'DJB Standardized Test'
     homepage 'http://www.dafont.com/djb-standardized-test.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Standardized Test 2.ttf'
     font 'DJB Standardized Test.ttf'

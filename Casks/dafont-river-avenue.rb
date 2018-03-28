@@ -5,7 +5,6 @@ cask 'dafont-river-avenue' do
     url 'http://dl.dafont.com/dl/?f=river_avenue'
     name 'River Avenue'
     homepage 'http://www.dafont.com/river-avenue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'riverave.ttf'
 end

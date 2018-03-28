@@ -5,7 +5,6 @@ cask 'dafont-zapadni' do
     url 'http://dl.dafont.com/dl/?f=zapadni'
     name 'Zapadni'
     homepage 'http://www.dafont.com/zapadni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zapadni_capitals.ttf'
     font 'zapadni.ttf'

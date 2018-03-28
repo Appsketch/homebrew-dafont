@@ -5,7 +5,6 @@ cask 'dafont-toxic-waist' do
     url 'http://dl.dafont.com/dl/?f=toxic_waist'
     name 'Toxic Waist'
     homepage 'http://www.dafont.com/toxic-waist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOXICWAIST.TTF'
 end

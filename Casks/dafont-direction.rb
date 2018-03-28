@@ -5,7 +5,6 @@ cask 'dafont-direction' do
     url 'http://dl.dafont.com/dl/?f=direction'
     name 'Direction'
     homepage 'http://www.dafont.com/direction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'direction.ttf'
 end

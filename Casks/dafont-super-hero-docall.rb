@@ -5,7 +5,6 @@ cask 'dafont-super-hero-docall' do
     url 'http://dl.dafont.com/dl/?f=super_hero_docall'
     name 'Super Hero Docall'
     homepage 'http://www.dafont.com/super-hero-docall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Super Hero Docall.ttf'
 end

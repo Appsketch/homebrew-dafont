@@ -5,7 +5,6 @@ cask 'dafont-lignum-melle' do
     url 'http://dl.dafont.com/dl/?f=lignum_melle'
     name 'Lignum Melle'
     homepage 'http://www.dafont.com/lignum-melle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LignumMelle-Regular.ttf'
 end

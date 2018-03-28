@@ -5,7 +5,6 @@ cask 'dafont-tiesto' do
     url 'http://dl.dafont.com/dl/?f=tiesto'
     name 'Ti&euml;sto'
     homepage 'http://www.dafont.com/tiesto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tisto_font.ttf'
 end

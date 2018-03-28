@@ -5,7 +5,6 @@ cask 'dafont-sf-collegiate' do
     url 'http://dl.dafont.com/dl/?f=sf_collegiate'
     name 'SF Collegiate'
     homepage 'http://www.dafont.com/sf-collegiate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Collegiate Italic.ttf'
     font 'SF Collegiate Solid Bold Italic.ttf'

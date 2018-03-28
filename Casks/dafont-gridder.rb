@@ -5,7 +5,6 @@ cask 'dafont-gridder' do
     url 'http://dl.dafont.com/dl/?f=gridder'
     name 'Gridder'
     homepage 'http://www.dafont.com/gridder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gridder_bold.ttf'
     font 'gridder_box.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-tarimtired' do
     url 'http://dl.dafont.com/dl/?f=tarimtired'
     name 'TAR Im Tired'
     homepage 'http://www.dafont.com/tarimtired.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TARImTired.ttf'
 end

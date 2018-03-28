@@ -5,7 +5,6 @@ cask 'dafont-fairy-strange' do
     url 'http://dl.dafont.com/dl/?f=fairy_strange'
     name 'Fairy Strange'
     homepage 'http://www.dafont.com/fairy-strange.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fairy Strange.ttf'
 end

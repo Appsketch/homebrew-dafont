@@ -5,7 +5,6 @@ cask 'dafont-skratch-punk' do
     url 'http://dl.dafont.com/dl/?f=skratch_punk'
     name 'Skratch Punk'
     homepage 'http://www.dafont.com/skratch-punk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skratch_Punk.ttf'
 end

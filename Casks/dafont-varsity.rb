@@ -5,7 +5,6 @@ cask 'dafont-varsity' do
     url 'http://dl.dafont.com/dl/?f=varsity'
     name 'Varsity'
     homepage 'http://www.dafont.com/varsity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Varsity.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-beaverscratches' do
     url 'http://dl.dafont.com/dl/?f=beaverscratches'
     name 'Beaver Scratches'
     homepage 'http://www.dafont.com/beaverscratches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeaverScratches.ttf'
 end

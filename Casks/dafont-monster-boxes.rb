@@ -5,7 +5,6 @@ cask 'dafont-monster-boxes' do
     url 'http://dl.dafont.com/dl/?f=monster_boxes'
     name 'Monster Boxes'
     homepage 'http://www.dafont.com/monster-boxes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MonsterBoxes.ttf'
 end

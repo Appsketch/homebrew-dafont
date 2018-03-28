@@ -5,7 +5,6 @@ cask 'dafont-colossus' do
     url 'http://dl.dafont.com/dl/?f=colossus'
     name 'Colossus'
     homepage 'http://www.dafont.com/colossus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'colossus.ttf'
     font 'colossus3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-liquorbank' do
     url 'http://dl.dafont.com/dl/?f=liquorbank'
     name 'Liquor Bank'
     homepage 'http://www.dafont.com/liquorbank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LiquorBank.ttf'
 end

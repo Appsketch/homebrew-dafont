@@ -5,7 +5,6 @@ cask 'dafont-bigbobs' do
     url 'http://dl.dafont.com/dl/?f=bigbobs'
     name 'Bigbobs'
     homepage 'http://www.dafont.com/bigbobs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIGBOBSBIG.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-poltergeist-thick' do
     url 'http://dl.dafont.com/dl/?f=poltergeist_thick'
     name 'Poltergeist Thick'
     homepage 'http://www.dafont.com/poltergeist-thick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POLTT___.TTF'
 end

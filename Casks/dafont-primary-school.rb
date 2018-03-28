@@ -5,7 +5,6 @@ cask 'dafont-primary-school' do
     url 'http://dl.dafont.com/dl/?f=primary_school'
     name 'Primary School'
     homepage 'http://www.dafont.com/primary-school.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PrimarySchool.otf'
 end

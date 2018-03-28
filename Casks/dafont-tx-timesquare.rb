@@ -5,7 +5,6 @@ cask 'dafont-tx-timesquare' do
     url 'http://dl.dafont.com/dl/?f=tx_timesquare'
     name 'TX Timesquare'
     homepage 'http://www.dafont.com/tx-timesquare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TX_Timesquare.ttf'
 end

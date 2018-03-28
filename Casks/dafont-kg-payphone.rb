@@ -5,7 +5,6 @@ cask 'dafont-kg-payphone' do
     url 'http://dl.dafont.com/dl/?f=kg_payphone'
     name 'KG Payphone'
     homepage 'http://www.dafont.com/kg-payphone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGPayphone.ttf'
 end

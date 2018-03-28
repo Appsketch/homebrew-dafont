@@ -5,7 +5,6 @@ cask 'dafont-early-bird' do
     url 'http://dl.dafont.com/dl/?f=early_bird'
     name 'Early Bird'
     homepage 'http://www.dafont.com/early-bird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Early Bird.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-eridanus' do
     url 'http://dl.dafont.com/dl/?f=eridanus'
     name 'Eridanus'
     homepage 'http://www.dafont.com/eridanus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eridanus.ttf'
     font 'eridanus3d.ttf'

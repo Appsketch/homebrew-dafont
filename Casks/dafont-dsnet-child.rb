@@ -5,7 +5,6 @@ cask 'dafont-dsnet-child' do
     url 'http://dl.dafont.com/dl/?f=dsnet_child'
     name 'DSnet Child'
     homepage 'http://www.dafont.com/dsnet-child.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DSnet Child.ttf'
 end

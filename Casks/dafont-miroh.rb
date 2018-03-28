@@ -5,7 +5,6 @@ cask 'dafont-miroh' do
     url 'http://dl.dafont.com/dl/?f=miroh'
     name 'Miroh'
     homepage 'http://www.dafont.com/miroh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miroh.ttf'
 end

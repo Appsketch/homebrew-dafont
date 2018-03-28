@@ -5,7 +5,6 @@ cask 'dafont-the-cuban-wrestler' do
     url 'http://dl.dafont.com/dl/?f=the_cuban_wrestler'
     name 'The Cuban Wrestler'
     homepage 'http://www.dafont.com/the-cuban-wrestler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Cuban Wrestler.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-banshee-pilot' do
     url 'http://dl.dafont.com/dl/?f=banshee_pilot'
     name 'Banshee Pilot'
     homepage 'http://www.dafont.com/banshee-pilot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bansheepilot.ttf'
     font 'bansheepilot3d.ttf'

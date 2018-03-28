@@ -5,7 +5,6 @@ cask 'dafont-chopstickfont' do
     url 'http://dl.dafont.com/dl/?f=chopstickfont'
     name 'Chopstickfont'
     homepage 'http://www.dafont.com/chopstickfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chopstickfont.ttf'
 end

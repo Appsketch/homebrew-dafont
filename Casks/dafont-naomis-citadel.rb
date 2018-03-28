@@ -5,7 +5,6 @@ cask 'dafont-naomis-citadel' do
     url 'http://dl.dafont.com/dl/?f=naomis_citadel'
     name 'Naomis Citadel'
     homepage 'http://www.dafont.com/naomis-citadel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Naomis Citadel.ttf'
 end

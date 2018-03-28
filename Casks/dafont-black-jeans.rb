@@ -5,7 +5,6 @@ cask 'dafont-black-jeans' do
     url 'http://dl.dafont.com/dl/?f=black_jeans'
     name 'Black Jeans'
     homepage 'http://www.dafont.com/black-jeans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black Jeans.ttf'
 end

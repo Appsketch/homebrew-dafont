@@ -5,7 +5,6 @@ cask 'dafont-mystik-orbs' do
     url 'http://dl.dafont.com/dl/?f=mystik_orbs'
     name 'Mystik Orbs'
     homepage 'http://www.dafont.com/mystik-orbs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MystikOrbs.ttf'
 end

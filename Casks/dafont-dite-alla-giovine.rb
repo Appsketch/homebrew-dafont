@@ -5,7 +5,6 @@ cask 'dafont-dite-alla-giovine' do
     url 'http://dl.dafont.com/dl/?f=dite_alla_giovine'
     name 'Dite Alla Giovine'
     homepage 'http://www.dafont.com/dite-alla-giovine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dite Alla Giovine.ttf'
 end

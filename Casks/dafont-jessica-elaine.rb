@@ -5,7 +5,6 @@ cask 'dafont-jessica-elaine' do
     url 'http://dl.dafont.com/dl/?f=jessica_elaine'
     name 'Jessica Elaine'
     homepage 'http://www.dafont.com/jessica-elaine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jessica Elaine Thin.ttf'
     font 'Jessica Elaine.ttf'

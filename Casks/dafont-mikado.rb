@@ -5,7 +5,6 @@ cask 'dafont-mikado' do
     url 'http://dl.dafont.com/dl/?f=mikado'
     name 'Mikado'
     homepage 'http://www.dafont.com/mikado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MikadoBold_DEMO.otf'
 end

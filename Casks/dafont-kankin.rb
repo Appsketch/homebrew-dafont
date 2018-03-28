@@ -5,7 +5,6 @@ cask 'dafont-kankin' do
     url 'http://dl.dafont.com/dl/?f=kankin'
     name 'Kankin'
     homepage 'http://www.dafont.com/kankin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K&nbsp;nkin&cedil; FREE FONT.ttf'
 end

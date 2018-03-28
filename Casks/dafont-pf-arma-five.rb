@@ -5,7 +5,6 @@ cask 'dafont-pf-arma-five' do
     url 'http://dl.dafont.com/dl/?f=pf_arma_five'
     name 'PF Arma Five'
     homepage 'http://www.dafont.com/pf-arma-five.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pf_arma_five.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-sugary-pancake' do
     url 'http://dl.dafont.com/dl/?f=dk_sugary_pancake'
     name 'DK Sugary Pancake'
     homepage 'http://www.dafont.com/dk-sugary-pancake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Sugary Pancake.otf'
 end

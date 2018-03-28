@@ -5,7 +5,6 @@ cask 'dafont-flight-sterwadess' do
     url 'http://dl.dafont.com/dl/?f=flight_sterwadess'
     name 'Flight Sterwadess'
     homepage 'http://www.dafont.com/flight-sterwadess.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FLIGHT STERWADESS.ttf'
 end

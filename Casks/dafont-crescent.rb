@@ -5,7 +5,6 @@ cask 'dafont-crescent' do
     url 'http://dl.dafont.com/dl/?f=crescent'
     name 'Crescent'
     homepage 'http://www.dafont.com/crescent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crescent-Regular.ttf'
 end

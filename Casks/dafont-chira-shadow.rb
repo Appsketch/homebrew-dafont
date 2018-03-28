@@ -5,7 +5,6 @@ cask 'dafont-chira-shadow' do
     url 'http://dl.dafont.com/dl/?f=chira_shadow'
     name 'Chira Shadow'
     homepage 'http://www.dafont.com/chira-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chiratype.otf'
 end

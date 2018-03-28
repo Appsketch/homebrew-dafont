@@ -5,7 +5,6 @@ cask 'dafont-djb-color-me-chic' do
     url 'http://dl.dafont.com/dl/?f=djb_color_me_chic'
     name 'DJB Color Me Chic'
     homepage 'http://www.dafont.com/djb-color-me-chic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Color Me Chic.ttf'
 end

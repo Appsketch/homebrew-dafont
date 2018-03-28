@@ -5,7 +5,6 @@ cask 'dafont-fujita-ray' do
     url 'http://dl.dafont.com/dl/?f=fujita_ray'
     name 'Fujita Ray'
     homepage 'http://www.dafont.com/fujita-ray.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fujita Ray.ttf'
 end

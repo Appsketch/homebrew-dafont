@@ -5,7 +5,6 @@ cask 'dafont-dirty-macadam' do
     url 'http://dl.dafont.com/dl/?f=dirty_macadam'
     name 'Dirty Macadam'
     homepage 'http://www.dafont.com/dirty-macadam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DirtyMacadam.ttf'
 end

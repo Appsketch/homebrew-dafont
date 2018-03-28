@@ -5,7 +5,6 @@ cask 'dafont-rose-difont' do
     url 'http://dl.dafont.com/dl/?f=rose_difont'
     name 'Rose DiFont'
     homepage 'http://www.dafont.com/rose-difont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RoseDiFont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pixelminimal' do
     url 'http://dl.dafont.com/dl/?f=pixelminimal'
     name 'Pixelminimal'
     homepage 'http://www.dafont.com/pixelminimal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixelminimal.ttf'
 end

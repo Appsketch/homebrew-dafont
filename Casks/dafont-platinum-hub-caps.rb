@@ -5,7 +5,6 @@ cask 'dafont-platinum-hub-caps' do
     url 'http://dl.dafont.com/dl/?f=platinum_hub_caps'
     name 'Platinum Hub Caps'
     homepage 'http://www.dafont.com/platinum-hub-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PlatinumHubCaps.ttf'
     font 'PlatinumHubCapsPolished.ttf'

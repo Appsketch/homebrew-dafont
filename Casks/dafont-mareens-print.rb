@@ -5,7 +5,6 @@ cask 'dafont-mareens-print' do
     url 'http://dl.dafont.com/dl/?f=mareens_print'
     name 'Mareen&#039;s Print'
     homepage 'http://www.dafont.com/mareens-print.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mareensprint_next.ttf'
 end

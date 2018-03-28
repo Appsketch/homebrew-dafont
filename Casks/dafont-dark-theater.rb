@@ -5,7 +5,6 @@ cask 'dafont-dark-theater' do
     url 'http://dl.dafont.com/dl/?f=dark_theater'
     name 'Dark Theater'
     homepage 'http://www.dafont.com/dark-theater.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dark Theater.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-imperium-serif' do
     url 'http://dl.dafont.com/dl/?f=imperium_serif'
     name 'Imperium Serif'
     homepage 'http://www.dafont.com/imperium-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ImperiumSerif.ttf'
 end

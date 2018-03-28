@@ -5,7 +5,6 @@ cask 'dafont-shapes-st' do
     url 'http://dl.dafont.com/dl/?f=shapes_st'
     name 'Shapes St'
     homepage 'http://www.dafont.com/shapes-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shapes St.ttf'
 end

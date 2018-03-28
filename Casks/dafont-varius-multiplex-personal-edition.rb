@@ -5,7 +5,6 @@ cask 'dafont-varius-multiplex-personal-edition' do
     url 'http://dl.dafont.com/dl/?f=varius_multiplex_personal_edition'
     name 'Varius Multiplex'
     homepage 'http://www.dafont.com/varius-multiplex-personal-edition.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Varius Multiplex Personal Edition.ttf'
 end

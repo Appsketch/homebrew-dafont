@@ -5,7 +5,6 @@ cask 'dafont-beijing-redux' do
     url 'http://dl.dafont.com/dl/?f=beijing_redux'
     name 'Beijing Redux'
     homepage 'http://www.dafont.com/beijing-redux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beijing Redux Thick.ttf'
     font 'Beijing Redux Thin.ttf'

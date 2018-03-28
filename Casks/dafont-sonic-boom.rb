@@ -5,7 +5,6 @@ cask 'dafont-sonic-boom' do
     url 'http://dl.dafont.com/dl/?f=sonic_boom'
     name 'Sonic Boom'
     homepage 'http://www.dafont.com/sonic-boom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sonic Boom Regular.ttf'
 end

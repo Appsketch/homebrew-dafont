@@ -5,7 +5,6 @@ cask 'dafont-pixerif' do
     url 'http://dl.dafont.com/dl/?f=pixerif'
     name 'Pixerif'
     homepage 'http://www.dafont.com/pixerif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixerif.ttf'
 end

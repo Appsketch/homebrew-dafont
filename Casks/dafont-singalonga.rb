@@ -5,7 +5,6 @@ cask 'dafont-singalonga' do
     url 'http://dl.dafont.com/dl/?f=singalonga'
     name 'Singalonga'
     homepage 'http://www.dafont.com/singalonga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Singalonga.ttf'
 end

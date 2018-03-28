@@ -5,7 +5,6 @@ cask 'dafont-pastel-crayon' do
     url 'http://dl.dafont.com/dl/?f=pastel_crayon'
     name 'Pastel Crayon'
     homepage 'http://www.dafont.com/pastel-crayon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pastel crayon.ttf'
 end

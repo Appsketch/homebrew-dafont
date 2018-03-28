@@ -5,7 +5,6 @@ cask 'dafont-loverboy' do
     url 'http://dl.dafont.com/dl/?f=loverboy'
     name 'Loverboy'
     homepage 'http://www.dafont.com/loverboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOVERBOY.TTF'
 end

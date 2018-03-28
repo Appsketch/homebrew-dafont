@@ -5,7 +5,6 @@ cask 'dafont-rock-and-roll-street' do
     url 'http://dl.dafont.com/dl/?f=rock_and_roll_street'
     name 'Rock and Roll Street'
     homepage 'http://www.dafont.com/rock-and-roll-street.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rock and Roll Street.ttf'
 end

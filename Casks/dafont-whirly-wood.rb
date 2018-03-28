@@ -5,7 +5,6 @@ cask 'dafont-whirly-wood' do
     url 'http://dl.dafont.com/dl/?f=whirly_wood'
     name 'Whirly Wood'
     homepage 'http://www.dafont.com/whirly-wood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhirlyWood.ttf'
 end

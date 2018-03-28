@@ -5,7 +5,6 @@ cask 'dafont-monument' do
     url 'http://dl.dafont.com/dl/?f=monument'
     name 'Monument'
     homepage 'http://www.dafont.com/monument.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monument.ttf'
 end

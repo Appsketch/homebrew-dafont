@@ -5,7 +5,6 @@ cask 'dafont-no-corners' do
     url 'http://dl.dafont.com/dl/?f=no_corners'
     name 'No Corners '
     homepage 'http://www.dafont.com/no-corners.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NoCorners.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-detonate-brk' do
     url 'http://dl.dafont.com/dl/?f=detonate_brk'
     name 'Detonate BRK'
     homepage 'http://www.dafont.com/detonate-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'detonate.ttf'
 end

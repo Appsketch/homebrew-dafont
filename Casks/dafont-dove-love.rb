@@ -5,7 +5,6 @@ cask 'dafont-dove-love' do
     url 'http://dl.dafont.com/dl/?f=dove_love'
     name 'Dove Love'
     homepage 'http://www.dafont.com/dove-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOVELOVE trial.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-barthowheel' do
     url 'http://dl.dafont.com/dl/?f=barthowheel'
     name 'Barthowheel'
     homepage 'http://www.dafont.com/barthowheel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barthowheel Italic.ttf'
     font 'Barthowheel Regular.ttf'

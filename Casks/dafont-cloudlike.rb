@@ -5,7 +5,6 @@ cask 'dafont-cloudlike' do
     url 'http://dl.dafont.com/dl/?f=cloudlike'
     name 'Cloudlike'
     homepage 'http://www.dafont.com/cloudlike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cloudlike.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-discotrap' do
     url 'http://dl.dafont.com/dl/?f=discotrap'
     name 'Disco Trap'
     homepage 'http://www.dafont.com/discotrap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DiscoTrap.ttf'
 end

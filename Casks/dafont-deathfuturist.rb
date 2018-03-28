@@ -5,7 +5,6 @@ cask 'dafont-deathfuturist' do
     url 'http://dl.dafont.com/dl/?f=deathfuturist'
     name 'Death Futurist'
     homepage 'http://www.dafont.com/deathfuturist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeathFuturist.ttf'
 end

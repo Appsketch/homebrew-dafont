@@ -5,7 +5,6 @@ cask 'dafont-petty1-0' do
     url 'http://dl.dafont.com/dl/?f=petty1_0'
     name 'Petty1.0'
     homepage 'http://www.dafont.com/petty1-0.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'petty.ttf'
 end

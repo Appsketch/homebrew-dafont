@@ -5,7 +5,6 @@ cask 'dafont-forbid-nothing' do
     url 'http://dl.dafont.com/dl/?f=forbid_nothing'
     name 'Forbid Nothing'
     homepage 'http://www.dafont.com/forbid-nothing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Forbid Nothing.otf'
 end

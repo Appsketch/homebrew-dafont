@@ -5,7 +5,6 @@ cask 'dafont-poppl-fraktur-cat' do
     url 'http://dl.dafont.com/dl/?f=poppl_fraktur_cat'
     name 'Poppl Fraktur CAT'
     homepage 'http://www.dafont.com/poppl-fraktur-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Poppl  Fraktur CAT.ttf'
 end

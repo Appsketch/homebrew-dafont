@@ -5,7 +5,6 @@ cask 'dafont-empire-straight' do
     url 'http://dl.dafont.com/dl/?f=empire_straight'
     name 'Empire Straight'
     homepage 'http://www.dafont.com/empire-straight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Empire Straight.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tract' do
     url 'http://dl.dafont.com/dl/?f=tract'
     name 'Tract'
     homepage 'http://www.dafont.com/tract.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tract.ttf'
 end

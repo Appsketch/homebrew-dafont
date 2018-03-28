@@ -5,7 +5,6 @@ cask 'dafont-linux-biolinum' do
     url 'http://dl.dafont.com/dl/?f=linux_biolinum'
     name 'Linux Biolinum'
     homepage 'http://www.dafont.com/linux-biolinum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LinBiolinum_aBL.ttf'
     font 'LinBiolinum_aRL.ttf'

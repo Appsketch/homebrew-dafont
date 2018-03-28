@@ -5,7 +5,6 @@ cask 'dafont-text-inside-tfb' do
     url 'http://dl.dafont.com/dl/?f=text_inside_tfb'
     name 'Text Inside TFB'
     homepage 'http://www.dafont.com/text-inside-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'text INSIDE tfb.ttf'
 end

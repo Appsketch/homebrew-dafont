@@ -5,7 +5,6 @@ cask 'dafont-witchesstuff' do
     url 'http://dl.dafont.com/dl/?f=witchesstuff'
     name 'Witches Stuff'
     homepage 'http://www.dafont.com/witchesstuff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WitchesStuff.ttf'
 end

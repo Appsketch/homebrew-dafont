@@ -5,7 +5,6 @@ cask 'dafont-quand-tu-nes-pas-la' do
     url 'http://dl.dafont.com/dl/?f=quand_tu_nes_pas_la'
     name 'Quand tu n&#039;es pas l&agrave;'
     homepage 'http://www.dafont.com/quand-tu-nes-pas-la.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quand tu n&#039;es pas l.ttf'
 end

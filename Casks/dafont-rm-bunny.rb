@@ -5,7 +5,6 @@ cask 'dafont-rm-bunny' do
     url 'http://dl.dafont.com/dl/?f=rm_bunny'
     name 'RM Bunny'
     homepage 'http://www.dafont.com/rm-bunny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rmbunny_.ttf'
 end

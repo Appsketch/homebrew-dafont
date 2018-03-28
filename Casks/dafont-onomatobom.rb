@@ -5,7 +5,6 @@ cask 'dafont-onomatobom' do
     url 'http://dl.dafont.com/dl/?f=onomatobom'
     name 'OnomatoBom'
     homepage 'http://www.dafont.com/onomatobom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OnomatoBom.ttf'
 end

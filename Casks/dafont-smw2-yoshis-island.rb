@@ -5,7 +5,6 @@ cask 'dafont-smw2-yoshis-island' do
     url 'http://dl.dafont.com/dl/?f=smw2_yoshis_island'
     name 'SMW2: Yoshi&#039;s Island'
     homepage 'http://www.dafont.com/smw2-yoshis-island.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SMW2-Yoshis-Island.ttf'
 end

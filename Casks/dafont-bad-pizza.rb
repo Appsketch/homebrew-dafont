@@ -5,7 +5,6 @@ cask 'dafont-bad-pizza' do
     url 'http://dl.dafont.com/dl/?f=bad_pizza'
     name 'Bad Pizza'
     homepage 'http://www.dafont.com/bad-pizza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bad Pizza wth Pepperoni.ttf'
     font 'Bad Pizza.ttf'

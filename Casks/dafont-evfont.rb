@@ -5,7 +5,6 @@ cask 'dafont-evfont' do
     url 'http://dl.dafont.com/dl/?f=evfont'
     name 'Evfont'
     homepage 'http://www.dafont.com/evfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'evfon.ttf'
 end

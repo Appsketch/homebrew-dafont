@@ -5,7 +5,6 @@ cask 'dafont-blemished' do
     url 'http://dl.dafont.com/dl/?f=blemished'
     name 'Blemished'
     homepage 'http://www.dafont.com/blemished.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blemished.ttf'
 end

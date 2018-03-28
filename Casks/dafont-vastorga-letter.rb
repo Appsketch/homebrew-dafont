@@ -5,7 +5,6 @@ cask 'dafont-vastorga-letter' do
     url 'http://dl.dafont.com/dl/?f=vastorga_letter'
     name 'Vastorga Letter'
     homepage 'http://www.dafont.com/vastorga-letter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vastorga.ttf'
 end

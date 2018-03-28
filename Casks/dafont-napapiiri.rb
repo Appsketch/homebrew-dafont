@@ -5,7 +5,6 @@ cask 'dafont-napapiiri' do
     url 'http://dl.dafont.com/dl/?f=napapiiri'
     name 'Napapiiri'
     homepage 'http://www.dafont.com/napapiiri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Napapiiri.ttf'
 end

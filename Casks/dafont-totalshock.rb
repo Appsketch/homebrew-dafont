@@ -5,7 +5,6 @@ cask 'dafont-totalshock' do
     url 'http://dl.dafont.com/dl/?f=totalshock'
     name 'Total Shock'
     homepage 'http://www.dafont.com/totalshock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TotalShock.ttf'
 end

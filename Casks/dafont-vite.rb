@@ -5,7 +5,6 @@ cask 'dafont-vite' do
     url 'http://dl.dafont.com/dl/?f=vite'
     name 'Vite'
     homepage 'http://www.dafont.com/vite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vite.ttf'
 end

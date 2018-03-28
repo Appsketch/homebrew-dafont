@@ -5,7 +5,6 @@ cask 'dafont-arbre' do
     url 'http://dl.dafont.com/dl/?f=arbre'
     name 'CF Arbre'
     homepage 'http://www.dafont.com/arbre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFArbre.ttf'
 end

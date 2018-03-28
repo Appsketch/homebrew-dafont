@@ -5,7 +5,6 @@ cask 'dafont-hemigraphy' do
     url 'http://dl.dafont.com/dl/?f=hemigraphy'
     name 'Hemigraphy'
     homepage 'http://www.dafont.com/hemigraphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hemigraphy-Regular.otf'
 end

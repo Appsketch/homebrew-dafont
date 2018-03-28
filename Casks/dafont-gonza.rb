@@ -5,7 +5,6 @@ cask 'dafont-gonza' do
     url 'http://dl.dafont.com/dl/?f=gonza'
     name 'Gonza!'
     homepage 'http://www.dafont.com/gonza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gonza!.ttf'
 end

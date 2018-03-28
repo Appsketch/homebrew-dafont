@@ -5,7 +5,6 @@ cask 'dafont-streetwise-buddy' do
     url 'http://dl.dafont.com/dl/?f=streetwise_buddy'
     name 'Streetwise Buddy'
     homepage 'http://www.dafont.com/streetwise-buddy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STREETWISEBUDDY.TTF'
 end

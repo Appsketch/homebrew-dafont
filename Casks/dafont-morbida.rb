@@ -5,7 +5,6 @@ cask 'dafont-morbida' do
     url 'http://dl.dafont.com/dl/?f=morbida'
     name 'Morbida'
     homepage 'http://www.dafont.com/morbida.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MORBIDA.ttf'
 end

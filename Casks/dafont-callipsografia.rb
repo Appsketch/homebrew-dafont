@@ -5,7 +5,6 @@ cask 'dafont-callipsografia' do
     url 'http://dl.dafont.com/dl/?f=callipsografia'
     name 'Callipsografia'
     homepage 'http://www.dafont.com/callipsografia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CalliPsoGrafia  Italic.ttf'
     font 'CalliPsoGrafia  Medium.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-cm-cold-request' do
     url 'http://dl.dafont.com/dl/?f=cm_cold_request'
     name 'CM Cold Request'
     homepage 'http://www.dafont.com/cm-cold-request.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CMColdRequest.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ingleby' do
     url 'http://dl.dafont.com/dl/?f=ingleby'
     name 'Ingleby'
     homepage 'http://www.dafont.com/ingleby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ingleby_bold_italic.ttf'
     font 'Ingleby_bold.ttf'

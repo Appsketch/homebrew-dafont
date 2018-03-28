@@ -5,7 +5,6 @@ cask 'dafont-doublespeak' do
     url 'http://dl.dafont.com/dl/?f=doublespeak'
     name 'Doublespeak'
     homepage 'http://www.dafont.com/doublespeak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'doublespeak-font-by-elling-lien.otf'
 end

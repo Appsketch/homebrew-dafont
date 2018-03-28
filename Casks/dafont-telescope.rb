@@ -5,7 +5,6 @@ cask 'dafont-telescope' do
     url 'http://dl.dafont.com/dl/?f=telescope'
     name 'Telescope'
     homepage 'http://www.dafont.com/telescope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TELESCOPE.ttf'
 end

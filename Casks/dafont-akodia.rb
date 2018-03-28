@@ -5,7 +5,6 @@ cask 'dafont-akodia' do
     url 'http://dl.dafont.com/dl/?f=akodia'
     name 'Akodia'
     homepage 'http://www.dafont.com/akodia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Akodia.ttf'
 end

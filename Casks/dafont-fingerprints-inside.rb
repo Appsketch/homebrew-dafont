@@ -5,7 +5,6 @@ cask 'dafont-fingerprints-inside' do
     url 'http://dl.dafont.com/dl/?f=fingerprints_inside'
     name 'FE Fingerprints Inside'
     homepage 'http://www.dafont.com/fingerprints-inside.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE Fingerprints Inside.otf'
 end

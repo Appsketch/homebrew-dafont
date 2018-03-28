@@ -5,7 +5,6 @@ cask 'dafont-rigidia' do
     url 'http://dl.dafont.com/dl/?f=rigidia'
     name 'Rigidia'
     homepage 'http://www.dafont.com/rigidia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spellweaver Nodes.otf'
 end

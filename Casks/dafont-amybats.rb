@@ -5,7 +5,6 @@ cask 'dafont-amybats' do
     url 'http://dl.dafont.com/dl/?f=amybats'
     name 'AmyBats'
     homepage 'http://www.dafont.com/amybats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmyBats1.ttf'
     font 'AmyBats2.ttf'

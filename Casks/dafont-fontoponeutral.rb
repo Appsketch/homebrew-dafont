@@ -5,7 +5,6 @@ cask 'dafont-fontoponeutral' do
     url 'http://dl.dafont.com/dl/?f=fontoponeutral'
     name 'Fontopo Neutral'
     homepage 'http://www.dafont.com/fontoponeutral.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fontopoNEUTRAL-Regular.ttf'
 end

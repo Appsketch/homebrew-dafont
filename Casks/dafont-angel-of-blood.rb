@@ -5,7 +5,6 @@ cask 'dafont-angel-of-blood' do
     url 'http://dl.dafont.com/dl/?f=angel_of_blood'
     name 'Angel of Blood'
     homepage 'http://www.dafont.com/angel-of-blood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angel of Blood Light.ttf'
     font 'Angel of Blood.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-sl-thank-you-for-th' do
     url 'http://dl.dafont.com/dl/?f=sl_thank_you_for_th'
     name 'SL Thank You For The Venom'
     homepage 'http://www.dafont.com/sl-thank-you-for-th.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SL_tyftv.ttf'
 end

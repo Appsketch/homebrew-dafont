@@ -5,7 +5,6 @@ cask 'dafont-lanitta' do
     url 'http://dl.dafont.com/dl/?f=lanitta'
     name 'Lanitta'
     homepage 'http://www.dafont.com/lanitta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lanitta.ttf'
 end

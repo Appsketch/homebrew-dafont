@@ -5,7 +5,6 @@ cask 'dafont-mechanic2' do
     url 'http://dl.dafont.com/dl/?f=mechanic2'
     name 'Mechanic'
     homepage 'http://www.dafont.com/mechanic2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mechanic.ttf'
 end

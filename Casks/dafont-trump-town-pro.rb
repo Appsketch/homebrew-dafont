@@ -5,7 +5,6 @@ cask 'dafont-trump-town-pro' do
     url 'http://dl.dafont.com/dl/?f=trump_town_pro'
     name 'Trump Town Pro'
     homepage 'http://www.dafont.com/trump-town-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trump Town Pro.otf'
 end

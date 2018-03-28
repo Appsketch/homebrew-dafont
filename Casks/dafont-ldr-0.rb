@@ -5,7 +5,6 @@ cask 'dafont-ldr-0' do
     url 'http://dl.dafont.com/dl/?f=ldr_0'
     name 'LDR#0'
     homepage 'http://www.dafont.com/ldr-0.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ldr0.ttf'
 end

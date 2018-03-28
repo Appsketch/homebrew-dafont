@@ -5,7 +5,6 @@ cask 'dafont-code2' do
     url 'http://dl.dafont.com/dl/?f=code2'
     name 'Code'
     homepage 'http://www.dafont.com/code2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Code.ttf'
 end

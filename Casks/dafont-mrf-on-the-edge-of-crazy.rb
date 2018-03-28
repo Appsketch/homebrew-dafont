@@ -5,7 +5,6 @@ cask 'dafont-mrf-on-the-edge-of-crazy' do
     url 'http://dl.dafont.com/dl/?f=mrf_on_the_edge_of_crazy'
     name 'MRF On the Edge of Crazy'
     homepage 'http://www.dafont.com/mrf-on-the-edge-of-crazy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MRF_ On the Edge of Crazy.ttf'
 end

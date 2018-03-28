@@ -5,7 +5,6 @@ cask 'dafont-mtv2c' do
     url 'http://dl.dafont.com/dl/?f=mtv2c'
     name 'MTV2C'
     homepage 'http://www.dafont.com/mtv2c.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTV2C___.TTF'
 end

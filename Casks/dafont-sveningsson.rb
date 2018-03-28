@@ -5,7 +5,6 @@ cask 'dafont-sveningsson' do
     url 'http://dl.dafont.com/dl/?f=sveningsson'
     name 'Sveningsson'
     homepage 'http://www.dafont.com/sveningsson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'svenings.ttf'
 end

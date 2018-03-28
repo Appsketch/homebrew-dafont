@@ -5,7 +5,6 @@ cask 'dafont-mars-police' do
     url 'http://dl.dafont.com/dl/?f=mars_police'
     name 'Mars Police'
     homepage 'http://www.dafont.com/mars-police.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'marspolice_i.ttf'
     font 'marspolice.ttf'

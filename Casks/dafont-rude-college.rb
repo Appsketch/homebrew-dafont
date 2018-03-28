@@ -5,7 +5,6 @@ cask 'dafont-rude-college' do
     url 'http://dl.dafont.com/dl/?f=rude_college'
     name 'Rude College'
     homepage 'http://www.dafont.com/rude-college.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rude College.ttf'
 end

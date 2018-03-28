@@ -5,7 +5,6 @@ cask 'dafont-beautifulthangs' do
     url 'http://dl.dafont.com/dl/?f=beautifulthangs'
     name 'Beautiful Thangs'
     homepage 'http://www.dafont.com/beautifulthangs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeautifulThangsAB.ttf'
 end

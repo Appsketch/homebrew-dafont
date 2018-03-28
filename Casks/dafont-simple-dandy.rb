@@ -5,7 +5,6 @@ cask 'dafont-simple-dandy' do
     url 'http://dl.dafont.com/dl/?f=simple_dandy'
     name 'Simple Dandy'
     homepage 'http://www.dafont.com/simple-dandy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bold.ttf'
     font 'Light.ttf'

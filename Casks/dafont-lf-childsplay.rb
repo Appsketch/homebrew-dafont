@@ -5,7 +5,6 @@ cask 'dafont-lf-childsplay' do
     url 'http://dl.dafont.com/dl/?f=lf_childsplay'
     name 'LF Childsplay'
     homepage 'http://www.dafont.com/lf-childsplay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LF_Childsplay.ttf'
 end

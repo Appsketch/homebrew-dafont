@@ -5,7 +5,6 @@ cask 'dafont-zany-races' do
     url 'http://dl.dafont.com/dl/?f=zany_races'
     name 'Zany Races'
     homepage 'http://www.dafont.com/zany-races.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zany Races.otf'
 end

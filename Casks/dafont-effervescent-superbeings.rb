@@ -5,7 +5,6 @@ cask 'dafont-effervescent-superbeings' do
     url 'http://dl.dafont.com/dl/?f=effervescent_superbeings'
     name 'Effervescent Superbeings'
     homepage 'http://www.dafont.com/effervescent-superbeings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Effervescent Superbeings.otf'
 end

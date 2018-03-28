@@ -5,7 +5,6 @@ cask 'dafont-wrktag' do
     url 'http://dl.dafont.com/dl/?f=wrktag'
     name 'Wrktag'
     homepage 'http://www.dafont.com/wrktag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wrktag.ttf'
 end

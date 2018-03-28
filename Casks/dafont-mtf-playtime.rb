@@ -5,7 +5,6 @@ cask 'dafont-mtf-playtime' do
     url 'http://dl.dafont.com/dl/?f=mtf_playtime'
     name 'MTF Playtime'
     homepage 'http://www.dafont.com/mtf-playtime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Playtime.ttf'
 end

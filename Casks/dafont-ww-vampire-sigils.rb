@@ -5,7 +5,6 @@ cask 'dafont-ww-vampire-sigils' do
     url 'http://dl.dafont.com/dl/?f=ww_vampire_sigils'
     name 'WW Vampire Sigils'
     homepage 'http://www.dafont.com/ww-vampire-sigils.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vampiresigils.ttf'
 end

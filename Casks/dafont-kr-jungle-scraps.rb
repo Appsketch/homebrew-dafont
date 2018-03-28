@@ -5,7 +5,6 @@ cask 'dafont-kr-jungle-scraps' do
     url 'http://dl.dafont.com/dl/?f=kr_jungle_scraps'
     name 'KR Jungle Scraps'
     homepage 'http://www.dafont.com/kr-jungle-scraps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Jungle Scraps.ttf'
 end

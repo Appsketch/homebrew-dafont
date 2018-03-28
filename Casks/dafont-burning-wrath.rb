@@ -5,7 +5,6 @@ cask 'dafont-burning-wrath' do
     url 'http://dl.dafont.com/dl/?f=burning_wrath'
     name 'Burning Wrath'
     homepage 'http://www.dafont.com/burning-wrath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'b_wrath.ttf'
 end

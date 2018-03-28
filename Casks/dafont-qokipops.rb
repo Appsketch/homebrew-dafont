@@ -5,7 +5,6 @@ cask 'dafont-qokipops' do
     url 'http://dl.dafont.com/dl/?f=qokipops'
     name 'Qokipops'
     homepage 'http://www.dafont.com/qokipops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Qokipops free.otf'
 end

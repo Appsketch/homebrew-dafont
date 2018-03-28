@@ -5,7 +5,6 @@ cask 'dafont-c-fone' do
     url 'http://dl.dafont.com/dl/?f=c_fone'
     name 'C-Fone'
     homepage 'http://www.dafont.com/c-fone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'C- FONE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dirty-liar' do
     url 'http://dl.dafont.com/dl/?f=dirty_liar'
     name 'Dirty Liar'
     homepage 'http://www.dafont.com/dirty-liar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIRTL___.TTF'
 end

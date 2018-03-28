@@ -5,7 +5,6 @@ cask 'dafont-vehicle-decals-flames-art' do
     url 'http://dl.dafont.com/dl/?f=vehicle_decals_flames_art'
     name 'Vehicle Decals &#039;Flames &amp; Art&#039;'
     homepage 'http://www.dafont.com/vehicle-decals-flames-art.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vehicle Decals Flames &amp; Art.ttf'
 end

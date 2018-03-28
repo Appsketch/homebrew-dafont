@@ -5,7 +5,6 @@ cask 'dafont-dhe-balon' do
     url 'http://dl.dafont.com/dl/?f=dhe_balon'
     name 'Dhe Balon'
     homepage 'http://www.dafont.com/dhe-balon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dhe balon.ttf'
 end

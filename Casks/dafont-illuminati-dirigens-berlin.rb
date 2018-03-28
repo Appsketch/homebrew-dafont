@@ -5,7 +5,6 @@ cask 'dafont-illuminati-dirigens-berlin' do
     url 'http://dl.dafont.com/dl/?f=illuminati_dirigens_berlin'
     name 'Illuminati Dirigens Berlin'
     homepage 'http://www.dafont.com/illuminati-dirigens-berlin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'illluminati-dirigens-berlin/illluminati-dirigens-berlin.ttf'
 end

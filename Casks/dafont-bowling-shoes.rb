@@ -5,7 +5,6 @@ cask 'dafont-bowling-shoes' do
     url 'http://dl.dafont.com/dl/?f=bowling_shoes'
     name 'Bowling Shoes'
     homepage 'http://www.dafont.com/bowling-shoes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BowlingShoes.ttf'
 end

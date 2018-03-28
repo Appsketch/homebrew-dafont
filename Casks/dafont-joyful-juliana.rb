@@ -5,7 +5,6 @@ cask 'dafont-joyful-juliana' do
     url 'http://dl.dafont.com/dl/?f=joyful_juliana'
     name 'Joyful Juliana'
     homepage 'http://www.dafont.com/joyful-juliana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Joyful Juliana.ttf'
 end

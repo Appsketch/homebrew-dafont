@@ -5,7 +5,6 @@ cask 'dafont-lontara' do
     url 'http://dl.dafont.com/dl/?f=lontara'
     name 'Lontara'
     homepage 'http://www.dafont.com/lontara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lontara.ttf'
 end

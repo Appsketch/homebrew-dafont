@@ -5,7 +5,6 @@ cask 'dafont-augusta' do
     url 'http://dl.dafont.com/dl/?f=augusta'
     name 'Augusta'
     homepage 'http://www.dafont.com/augusta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Augusta-Shadow.ttf'
     font 'Augusta.ttf'

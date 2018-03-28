@@ -5,7 +5,6 @@ cask 'dafont-5computers-in-love' do
     url 'http://dl.dafont.com/dl/?f=5computers_in_love'
     name '5 Computers In Love'
     homepage 'http://www.dafont.com/5computers-in-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5Computers-In-Love.ttf'
 end

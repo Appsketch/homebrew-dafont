@@ -5,7 +5,6 @@ cask 'dafont-shwedybawls' do
     url 'http://dl.dafont.com/dl/?f=shwedybawls'
     name 'Shwedy Bawls'
     homepage 'http://www.dafont.com/shwedybawls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShwedyBawls.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-squareheads' do
     url 'http://dl.dafont.com/dl/?f=squareheads'
     name 'Squareheads'
     homepage 'http://www.dafont.com/squareheads.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SQUAREHEADS.TTF'
 end

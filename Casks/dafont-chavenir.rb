@@ -5,7 +5,6 @@ cask 'dafont-chavenir' do
     url 'http://dl.dafont.com/dl/?f=chavenir'
     name 'Chavenir'
     homepage 'http://www.dafont.com/chavenir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chavenir_bold_italic.ttf'
     font 'chavenir_bold.ttf'

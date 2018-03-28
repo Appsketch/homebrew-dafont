@@ -5,7 +5,6 @@ cask 'dafont-greatband' do
     url 'http://dl.dafont.com/dl/?f=greatband'
     name 'Great Band'
     homepage 'http://www.dafont.com/greatband.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GreatBand.ttf'
 end

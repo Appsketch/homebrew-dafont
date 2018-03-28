@@ -5,7 +5,6 @@ cask 'dafont-jamon-del-mar' do
     url 'http://dl.dafont.com/dl/?f=jamon_del_mar'
     name 'Jamon del Mar'
     homepage 'http://www.dafont.com/jamon-del-mar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JDM.ttf'
 end

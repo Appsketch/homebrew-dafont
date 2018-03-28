@@ -5,7 +5,6 @@ cask 'dafont-fortunatus' do
     url 'http://dl.dafont.com/dl/?f=fortunatus'
     name 'Fortunatus'
     homepage 'http://www.dafont.com/fortunatus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fortunatus.ttf'
 end

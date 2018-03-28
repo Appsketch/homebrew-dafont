@@ -5,7 +5,6 @@ cask 'dafont-grass-hopper' do
     url 'http://dl.dafont.com/dl/?f=grass_hopper'
     name 'Grass Hopper'
     homepage 'http://www.dafont.com/grass-hopper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grasshopper.ttf'
 end

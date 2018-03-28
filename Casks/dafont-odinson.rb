@@ -5,7 +5,6 @@ cask 'dafont-odinson' do
     url 'http://dl.dafont.com/dl/?f=odinson'
     name 'Odinson'
     homepage 'http://www.dafont.com/odinson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Odinson Light.ttf'
     font 'Odinson Outline.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-the-fat-store' do
     url 'http://dl.dafont.com/dl/?f=the_fat_store'
     name 'The Fat Store'
     homepage 'http://www.dafont.com/the-fat-store.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Fat Store.ttf'
 end

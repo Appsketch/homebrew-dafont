@@ -5,7 +5,6 @@ cask 'dafont-at-risk-youth' do
     url 'http://dl.dafont.com/dl/?f=at_risk_youth'
     name 'at risk youth'
     homepage 'http://www.dafont.com/at-risk-youth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'at risk youth Bold.ttf'
     font 'at risk youth Italic.ttf'

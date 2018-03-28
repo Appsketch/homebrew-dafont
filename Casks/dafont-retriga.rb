@@ -5,7 +5,6 @@ cask 'dafont-retriga' do
     url 'http://dl.dafont.com/dl/?f=retriga'
     name 'Retriga'
     homepage 'http://www.dafont.com/retriga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Retriga.ttf'
 end

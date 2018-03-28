@@ -5,7 +5,6 @@ cask 'dafont-dameron' do
     url 'http://dl.dafont.com/dl/?f=dameron'
     name 'Dameron'
     homepage 'http://www.dafont.com/dameron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dameron.ttf'
     font 'dameron3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-tussle' do
     url 'http://dl.dafont.com/dl/?f=tussle'
     name 'Tussle'
     homepage 'http://www.dafont.com/tussle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tussle.ttf'
     font 'tusslee.ttf'

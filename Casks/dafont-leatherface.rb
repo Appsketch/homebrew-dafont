@@ -5,7 +5,6 @@ cask 'dafont-leatherface' do
     url 'http://dl.dafont.com/dl/?f=leatherface'
     name 'Leatherface '
     homepage 'http://www.dafont.com/leatherface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'leatherface.ttf'
     font 'leatherface3d.ttf'

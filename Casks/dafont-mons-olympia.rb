@@ -5,7 +5,6 @@ cask 'dafont-mons-olympia' do
     url 'http://dl.dafont.com/dl/?f=mons_olympia'
     name 'Mons Olympia'
     homepage 'http://www.dafont.com/mons-olympia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mons Olympia Bold Italic.otf'
     font 'Mons Olympia Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-patipe' do
     url 'http://dl.dafont.com/dl/?f=patipe'
     name 'PatiPe'
     homepage 'http://www.dafont.com/patipe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PatiPe.ttf'
 end

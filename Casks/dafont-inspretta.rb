@@ -5,7 +5,6 @@ cask 'dafont-inspretta' do
     url 'http://dl.dafont.com/dl/?f=inspretta'
     name 'Inspretta'
     homepage 'http://www.dafont.com/inspretta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inspretta.ttf'
 end

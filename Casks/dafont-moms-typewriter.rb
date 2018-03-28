@@ -5,7 +5,6 @@ cask 'dafont-moms-typewriter' do
     url 'http://dl.dafont.com/dl/?f=moms_typewriter'
     name 'Mom&#039;s Typewriter'
     homepage 'http://www.dafont.com/moms-typewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mom&reg;t___.ttf'
 end

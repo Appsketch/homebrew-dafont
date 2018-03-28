@@ -5,7 +5,6 @@ cask 'dafont-apostate-cancer' do
     url 'http://dl.dafont.com/dl/?f=apostate_cancer'
     name 'Apostate Cancer'
     homepage 'http://www.dafont.com/apostate-cancer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Apostate Cancer.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pf-wreath' do
     url 'http://dl.dafont.com/dl/?f=pf_wreath'
     name 'PF Wreath'
     homepage 'http://www.dafont.com/pf-wreath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pf_wreath.ttf'
 end

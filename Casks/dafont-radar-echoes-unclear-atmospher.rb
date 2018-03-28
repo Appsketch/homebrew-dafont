@@ -5,7 +5,6 @@ cask 'dafont-radar-echoes-unclear-atmospher' do
     url 'http://dl.dafont.com/dl/?f=radar_echoes_unclear_atmospher'
     name 'Radar Echoes, Unclear Atmospher'
     homepage 'http://www.dafont.com/radar-echoes-unclear-atmospher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Radar Echoes, Unclear Atmosphere.ttf'
 end

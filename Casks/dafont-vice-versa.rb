@@ -5,7 +5,6 @@ cask 'dafont-vice-versa' do
     url 'http://dl.dafont.com/dl/?f=vice_versa'
     name 'Vice Versa'
     homepage 'http://www.dafont.com/vice-versa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VICE VERSA.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jack-the-ripper' do
     url 'http://dl.dafont.com/dl/?f=jack_the_ripper'
     name 'Jack the Ripper'
     homepage 'http://www.dafont.com/jack-the-ripper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ripper.ttf'
 end

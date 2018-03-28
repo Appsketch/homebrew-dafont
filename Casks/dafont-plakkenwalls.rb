@@ -5,7 +5,6 @@ cask 'dafont-plakkenwalls' do
     url 'http://dl.dafont.com/dl/?f=plakkenwalls'
     name 'PlakkenWalls'
     homepage 'http://www.dafont.com/plakkenwalls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PlakkenWalls.otf'
 end

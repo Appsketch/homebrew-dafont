@@ -5,7 +5,6 @@ cask 'dafont-rubber-stamp' do
     url 'http://dl.dafont.com/dl/?f=rubber_stamp'
     name 'Rubber Stamp'
     homepage 'http://www.dafont.com/rubber-stamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RUBBERSTAMP.otf'
 end

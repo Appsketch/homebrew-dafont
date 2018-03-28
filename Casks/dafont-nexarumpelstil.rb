@@ -5,7 +5,6 @@ cask 'dafont-nexarumpelstil' do
     url 'http://dl.dafont.com/dl/?f=nexarumpelstil'
     name 'Nexarumpelstil'
     homepage 'http://www.dafont.com/nexarumpelstil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nexarumpelstil.ttf'
 end

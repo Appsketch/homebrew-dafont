@@ -5,7 +5,6 @@ cask 'dafont-xxii-army' do
     url 'http://dl.dafont.com/dl/?f=xxii_army'
     name 'XXII Army'
     homepage 'http://www.dafont.com/xxii-army.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XXII DIRTY-ARMY.ttf'
     font 'XXII STRAIGHT-ARMY.ttf'

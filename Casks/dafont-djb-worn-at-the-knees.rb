@@ -5,7 +5,6 @@ cask 'dafont-djb-worn-at-the-knees' do
     url 'http://dl.dafont.com/dl/?f=djb_worn_at_the_knees'
     name 'DJB Worn at the Knees'
     homepage 'http://www.dafont.com/djb-worn-at-the-knees.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Worn at the Knees.ttf'
 end

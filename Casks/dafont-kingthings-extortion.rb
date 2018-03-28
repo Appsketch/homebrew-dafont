@@ -5,7 +5,6 @@ cask 'dafont-kingthings-extortion' do
     url 'http://dl.dafont.com/dl/?f=kingthings_extortion'
     name 'Kingthings Extortion '
     homepage 'http://www.dafont.com/kingthings-extortion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Extortion.ttf'
 end

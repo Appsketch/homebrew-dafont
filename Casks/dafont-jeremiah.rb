@@ -5,7 +5,6 @@ cask 'dafont-jeremiah' do
     url 'http://dl.dafont.com/dl/?f=jeremiah'
     name 'Jeremiah'
     homepage 'http://www.dafont.com/jeremiah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jrmiah.ttf'
 end

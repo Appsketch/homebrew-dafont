@@ -5,7 +5,6 @@ cask 'dafont-radion' do
     url 'http://dl.dafont.com/dl/?f=radion'
     name 'Radion'
     homepage 'http://www.dafont.com/radion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'radion.otf'
 end

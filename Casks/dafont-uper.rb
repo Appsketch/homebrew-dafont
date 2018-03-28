@@ -5,7 +5,6 @@ cask 'dafont-uper' do
     url 'http://dl.dafont.com/dl/?f=uper'
     name 'Uper'
     homepage 'http://www.dafont.com/uper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Uper.ttf'
 end

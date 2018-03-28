@@ -5,7 +5,6 @@ cask 'dafont-ultima-pd' do
     url 'http://dl.dafont.com/dl/?f=ultima_pd'
     name 'Ultima'
     homepage 'http://www.dafont.com/ultima-pd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UltimaPDaa-Hairline.ttf'
     font 'UltimaPDab-HairlineItalic.ttf'

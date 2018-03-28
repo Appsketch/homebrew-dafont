@@ -5,7 +5,6 @@ cask 'dafont-sci-fi-logos' do
     url 'http://dl.dafont.com/dl/?f=sci_fi_logos'
     name 'Sci-Fi-Logos'
     homepage 'http://www.dafont.com/sci-fi-logos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sci-Fi-Logos.ttf'
 end

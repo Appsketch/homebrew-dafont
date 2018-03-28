@@ -5,7 +5,6 @@ cask 'dafont-hospital-icons' do
     url 'http://dl.dafont.com/dl/?f=hospital_icons'
     name 'Hospital Icons'
     homepage 'http://www.dafont.com/hospital-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hospital ICONS.ttf'
 end

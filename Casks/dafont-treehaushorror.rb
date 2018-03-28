@@ -5,7 +5,6 @@ cask 'dafont-treehaushorror' do
     url 'http://dl.dafont.com/dl/?f=treehaushorror'
     name 'Treehaus Horror'
     homepage 'http://www.dafont.com/treehaushorror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TreeHausHorror.ttf'
 end

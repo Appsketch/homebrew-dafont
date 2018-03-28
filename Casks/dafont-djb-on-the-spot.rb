@@ -5,7 +5,6 @@ cask 'dafont-djb-on-the-spot' do
     url 'http://dl.dafont.com/dl/?f=djb_on_the_spot'
     name 'DJB On the Spot'
     homepage 'http://www.dafont.com/djb-on-the-spot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB On the Spot.ttf'
 end

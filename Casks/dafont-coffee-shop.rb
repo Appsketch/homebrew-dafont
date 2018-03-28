@@ -5,7 +5,6 @@ cask 'dafont-coffee-shop' do
     url 'http://dl.dafont.com/dl/?f=coffee_shop'
     name 'Coffee Shop'
     homepage 'http://www.dafont.com/coffee-shop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coffee Shop Bold_Trial Version.ttf'
 end

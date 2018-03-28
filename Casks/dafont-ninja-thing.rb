@@ -5,7 +5,6 @@ cask 'dafont-ninja-thing' do
     url 'http://dl.dafont.com/dl/?f=ninja_thing'
     name 'Ninja Thing'
     homepage 'http://www.dafont.com/ninja-thing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ninja Thing.ttf'
 end

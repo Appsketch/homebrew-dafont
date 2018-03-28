@@ -5,7 +5,6 @@ cask 'dafont-dontlookback' do
     url 'http://dl.dafont.com/dl/?f=dontlookback'
     name 'Dont Look Back'
     homepage 'http://www.dafont.com/dontlookback.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DontLookBack.ttf'
 end

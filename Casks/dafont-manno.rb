@@ -5,7 +5,6 @@ cask 'dafont-manno' do
     url 'http://dl.dafont.com/dl/?f=manno'
     name 'Manno'
     homepage 'http://www.dafont.com/manno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'manno.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-queenamor' do
     url 'http://dl.dafont.com/dl/?f=queenamor'
     name 'Queenamor'
     homepage 'http://www.dafont.com/queenamor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Queenamor.otf'
 end

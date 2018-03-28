@@ -5,7 +5,6 @@ cask 'dafont-cerca-of-skulls' do
     url 'http://dl.dafont.com/dl/?f=cerca_of_skulls'
     name 'Cerca Of Skulls'
     homepage 'http://www.dafont.com/cerca-of-skulls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CERCA OF SKULLS.ttf'
 end

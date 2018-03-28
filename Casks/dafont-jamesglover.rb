@@ -5,7 +5,6 @@ cask 'dafont-jamesglover' do
     url 'http://dl.dafont.com/dl/?f=jamesglover'
     name 'James Glover'
     homepage 'http://www.dafont.com/jamesglover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jamesglover.ttf'
 end

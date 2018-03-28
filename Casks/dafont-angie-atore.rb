@@ -5,7 +5,6 @@ cask 'dafont-angie-atore' do
     url 'http://dl.dafont.com/dl/?f=angie_atore'
     name 'Angie Atore'
     homepage 'http://www.dafont.com/angie-atore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'angie_atore.ttf'
 end

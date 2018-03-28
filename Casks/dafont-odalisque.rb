@@ -5,7 +5,6 @@ cask 'dafont-odalisque' do
     url 'http://dl.dafont.com/dl/?f=odalisque'
     name 'Odalisque'
     homepage 'http://www.dafont.com/odalisque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ODALISQU.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chinese-takeaway2' do
     url 'http://dl.dafont.com/dl/?f=chinese_takeaway2'
     name 'Chinese Takeaway'
     homepage 'http://www.dafont.com/chinese-takeaway2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chinese Takeaway.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-neoprint-m319' do
     url 'http://dl.dafont.com/dl/?f=neoprint_m319'
     name 'NeoPrint M319'
     homepage 'http://www.dafont.com/neoprint-m319.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeoPrintM319.otf'
 end

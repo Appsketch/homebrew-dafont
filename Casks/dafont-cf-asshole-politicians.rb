@@ -5,7 +5,6 @@ cask 'dafont-cf-asshole-politicians' do
     url 'http://dl.dafont.com/dl/?f=cf_asshole_politicians'
     name 'CF Asshole Politicians'
     homepage 'http://www.dafont.com/cf-asshole-politicians.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFAssholePoliticians-Regula.ttf'
 end

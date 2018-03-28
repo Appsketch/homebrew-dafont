@@ -5,7 +5,6 @@ cask 'dafont-silky-written' do
     url 'http://dl.dafont.com/dl/?f=silky_written'
     name 'Silky Written'
     homepage 'http://www.dafont.com/silky-written.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SilkyWritten.ttf'
 end

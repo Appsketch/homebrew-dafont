@@ -5,7 +5,6 @@ cask 'dafont-not-really' do
     url 'http://dl.dafont.com/dl/?f=not_really'
     name 'Not Really'
     homepage 'http://www.dafont.com/not-really.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Not Really.ttf'
 end

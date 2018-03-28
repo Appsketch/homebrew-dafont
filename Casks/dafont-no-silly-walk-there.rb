@@ -5,7 +5,6 @@ cask 'dafont-no-silly-walk-there' do
     url 'http://dl.dafont.com/dl/?f=no_silly_walk_there'
     name 'No Silly Walk There'
     homepage 'http://www.dafont.com/no-silly-walk-there.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'No Silly Walk There.ttf'
 end

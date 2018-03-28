@@ -5,7 +5,6 @@ cask 'dafont-marsh-thing' do
     url 'http://dl.dafont.com/dl/?f=marsh_thing'
     name 'Marsh Thing'
     homepage 'http://www.dafont.com/marsh-thing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'marshthing.ttf'
     font 'marshthing3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-lead' do
     url 'http://dl.dafont.com/dl/?f=lead'
     name 'Lead'
     homepage 'http://www.dafont.com/lead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lead.ttf'
 end

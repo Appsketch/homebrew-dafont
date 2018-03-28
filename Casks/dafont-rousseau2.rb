@@ -5,7 +5,6 @@ cask 'dafont-rousseau2' do
     url 'http://dl.dafont.com/dl/?f=rousseau2'
     name 'Rousseau'
     homepage 'http://www.dafont.com/rousseau2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rousseau.ttf'
 end

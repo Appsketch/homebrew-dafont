@@ -5,7 +5,6 @@ cask 'dafont-cjfont1' do
     url 'http://dl.dafont.com/dl/?f=cjfont1'
     name 'CjFont1'
     homepage 'http://www.dafont.com/cjfont1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CjFont1.ttf'
 end

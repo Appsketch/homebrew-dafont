@@ -5,7 +5,6 @@ cask 'dafont-djb-bean-pole' do
     url 'http://dl.dafont.com/dl/?f=djb_bean_pole'
     name 'DJB Bean Pole'
     homepage 'http://www.dafont.com/djb-bean-pole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB BEANPOLE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-egyptian-nights' do
     url 'http://dl.dafont.com/dl/?f=egyptian_nights'
     name 'Egyptian Nights'
     homepage 'http://www.dafont.com/egyptian-nights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Egyptian Nights.ttf'
 end

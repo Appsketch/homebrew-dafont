@@ -5,7 +5,6 @@ cask 'dafont-gibbard-erc-01' do
     url 'http://dl.dafont.com/dl/?f=gibbard_erc_01'
     name 'Gibbard Erc 01'
     homepage 'http://www.dafont.com/gibbard-erc-01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gibbard_erc_01.ttf'
 end

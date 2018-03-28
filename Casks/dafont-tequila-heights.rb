@@ -5,7 +5,6 @@ cask 'dafont-tequila-heights' do
     url 'http://dl.dafont.com/dl/?f=tequila_heights'
     name 'Tequila Heights Sobria Borracha'
     homepage 'http://www.dafont.com/tequila-heights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TequilaHeightsSobriaBorrach.ttf'
 end

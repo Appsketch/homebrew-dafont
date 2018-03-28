@@ -5,7 +5,6 @@ cask 'dafont-blackfly-mambo' do
     url 'http://dl.dafont.com/dl/?f=blackfly_mambo'
     name 'Blackfly Mambo'
     homepage 'http://www.dafont.com/blackfly-mambo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLACM___.TTF'
 end

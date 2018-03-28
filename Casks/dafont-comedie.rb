@@ -5,7 +5,6 @@ cask 'dafont-comedie' do
     url 'http://dl.dafont.com/dl/?f=comedie'
     name 'Com&eacute;die'
     homepage 'http://www.dafont.com/comedie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comdie.otf'
 end

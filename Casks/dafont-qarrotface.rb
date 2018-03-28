@@ -5,7 +5,6 @@ cask 'dafont-qarrotface' do
     url 'http://dl.dafont.com/dl/?f=qarrotface'
     name 'Qarrotface '
     homepage 'http://www.dafont.com/qarrotface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'qarrotface free.otf'
 end

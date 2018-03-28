@@ -5,7 +5,6 @@ cask 'dafont-kiyomifont' do
     url 'http://dl.dafont.com/dl/?f=kiyomifont'
     name 'Kiyomi Font'
     homepage 'http://www.dafont.com/kiyomifont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KiyomiFont.ttf'
 end

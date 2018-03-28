@@ -5,7 +5,6 @@ cask 'dafont-varial-hellflip' do
     url 'http://dl.dafont.com/dl/?f=varial_hellflip'
     name 'Varial Hellflip'
     homepage 'http://www.dafont.com/varial-hellflip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VARIAL HELLFLIP.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rueck' do
     url 'http://dl.dafont.com/dl/?f=rueck'
     name 'Rueck'
     homepage 'http://www.dafont.com/rueck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rueck Left.ttf'
     font 'Rueck Licht.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-magic-sound' do
     url 'http://dl.dafont.com/dl/?f=magic_sound'
     name 'Magic Sound'
     homepage 'http://www.dafont.com/magic-sound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Magic Sound.ttf'
 end

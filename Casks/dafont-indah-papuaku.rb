@@ -5,7 +5,6 @@ cask 'dafont-indah-papuaku' do
     url 'http://dl.dafont.com/dl/?f=indah_papuaku'
     name 'Indah Papuaku'
     homepage 'http://www.dafont.com/indah-papuaku.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INDAH PAPUAKU.ttf'
 end

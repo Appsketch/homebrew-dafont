@@ -5,7 +5,6 @@ cask 'dafont-ikarus' do
     url 'http://dl.dafont.com/dl/?f=ikarus'
     name 'Ikarus'
     homepage 'http://www.dafont.com/ikarus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IKARRG__.TTF'
     font 'IKART___.TTF'

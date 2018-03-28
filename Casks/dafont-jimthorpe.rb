@@ -5,7 +5,6 @@ cask 'dafont-jimthorpe' do
     url 'http://dl.dafont.com/dl/?f=jimthorpe'
     name 'JimThorpe'
     homepage 'http://www.dafont.com/jimthorpe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JIMTH___.TTF'
 end

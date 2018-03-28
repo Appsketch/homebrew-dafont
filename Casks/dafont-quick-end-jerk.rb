@@ -5,7 +5,6 @@ cask 'dafont-quick-end-jerk' do
     url 'http://dl.dafont.com/dl/?f=quick_end_jerk'
     name 'Quick End Jerk'
     homepage 'http://www.dafont.com/quick-end-jerk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quickend.ttf'
 end

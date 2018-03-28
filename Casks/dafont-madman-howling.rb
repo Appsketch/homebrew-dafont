@@ -5,7 +5,6 @@ cask 'dafont-madman-howling' do
     url 'http://dl.dafont.com/dl/?f=madman_howling'
     name 'Madman Howling'
     homepage 'http://www.dafont.com/madman-howling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Madman Howling.ttf'
 end

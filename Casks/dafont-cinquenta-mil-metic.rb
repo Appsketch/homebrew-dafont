@@ -5,7 +5,6 @@ cask 'dafont-cinquenta-mil-metic' do
     url 'http://dl.dafont.com/dl/?f=cinquenta_mil_metic'
     name 'Cinquenta Mil Meticais'
     homepage 'http://www.dafont.com/cinquenta-mil-metic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CINQMM__.TTF'
 end

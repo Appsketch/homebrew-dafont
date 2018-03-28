@@ -5,7 +5,6 @@ cask 'dafont-monovirus' do
     url 'http://dl.dafont.com/dl/?f=monovirus'
     name 'Monovirus'
     homepage 'http://www.dafont.com/monovirus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MONOVIRUS.ttf'
 end

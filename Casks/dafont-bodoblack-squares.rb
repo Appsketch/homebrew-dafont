@@ -5,7 +5,6 @@ cask 'dafont-bodoblack-squares' do
     url 'http://dl.dafont.com/dl/?f=bodoblack_squares'
     name 'Bodoblack Squares'
     homepage 'http://www.dafont.com/bodoblack-squares.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BodoblackSquares.ttf'
     font 'BodoblackSquaresInvers.ttf'

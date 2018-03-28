@@ -5,7 +5,6 @@ cask 'dafont-pointfree' do
     url 'http://dl.dafont.com/dl/?f=pointfree'
     name 'Pointfree'
     homepage 'http://www.dafont.com/pointfree.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pointfree.ttf'
 end

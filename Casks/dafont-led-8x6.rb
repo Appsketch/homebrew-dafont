@@ -5,7 +5,6 @@ cask 'dafont-led-8x6' do
     url 'http://dl.dafont.com/dl/?f=led_8x6'
     name 'Led 8x6'
     homepage 'http://www.dafont.com/led-8x6.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'led_8x6.ttf'
 end

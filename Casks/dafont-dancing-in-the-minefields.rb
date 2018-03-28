@@ -5,7 +5,6 @@ cask 'dafont-dancing-in-the-minefields' do
     url 'http://dl.dafont.com/dl/?f=dancing_in_the_minefields'
     name 'Dancing in the Minefields'
     homepage 'http://www.dafont.com/dancing-in-the-minefields.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DancingintheMinefields.ttf'
 end

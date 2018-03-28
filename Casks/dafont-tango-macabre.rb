@@ -5,7 +5,6 @@ cask 'dafont-tango-macabre' do
     url 'http://dl.dafont.com/dl/?f=tango_macabre'
     name 'Tango Macabre'
     homepage 'http://www.dafont.com/tango-macabre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TangoMacabre.ttf'
 end

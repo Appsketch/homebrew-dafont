@@ -5,7 +5,6 @@ cask 'dafont-harvey' do
     url 'http://dl.dafont.com/dl/?f=harvey'
     name 'Harvey'
     homepage 'http://www.dafont.com/harvey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Harvey.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-montana' do
     url 'http://dl.dafont.com/dl/?f=montana'
     name 'Montana'
     homepage 'http://www.dafont.com/montana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Montana2.ttf'
 end

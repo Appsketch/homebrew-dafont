@@ -5,7 +5,6 @@ cask 'dafont-mrs-monster' do
     url 'http://dl.dafont.com/dl/?f=mrs_monster'
     name 'Mrs. Monster'
     homepage 'http://www.dafont.com/mrs-monster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mrsmonster.ttf'
     font 'mrsmonster3d.ttf'

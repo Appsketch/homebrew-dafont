@@ -5,7 +5,6 @@ cask 'dafont-linnette' do
     url 'http://dl.dafont.com/dl/?f=linnette'
     name 'Linnette'
     homepage 'http://www.dafont.com/linnette.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'linnette.ttf'
 end

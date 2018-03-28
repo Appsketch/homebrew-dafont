@@ -5,7 +5,6 @@ cask 'dafont-metalic-avacodo' do
     url 'http://dl.dafont.com/dl/?f=metalic_avacodo'
     name 'Metalic Avacodo'
     homepage 'http://www.dafont.com/metalic-avacodo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'metali~1.ttf'
 end

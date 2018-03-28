@@ -5,7 +5,6 @@ cask 'dafont-cynical-hills' do
     url 'http://dl.dafont.com/dl/?f=cynical_hills'
     name 'Cynical Hills'
     homepage 'http://www.dafont.com/cynical-hills.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CynicalHills-Regular.ttf'
 end

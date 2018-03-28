@@ -5,7 +5,6 @@ cask 'dafont-stencildisco' do
     url 'http://dl.dafont.com/dl/?f=stencildisco'
     name 'Stencil Disco'
     homepage 'http://www.dafont.com/stencildisco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StencilDisco.ttf'
 end

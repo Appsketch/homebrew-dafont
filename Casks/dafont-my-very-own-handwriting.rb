@@ -5,7 +5,6 @@ cask 'dafont-my-very-own-handwriting' do
     url 'http://dl.dafont.com/dl/?f=my_very_own_handwriting'
     name 'My very own handwriting'
     homepage 'http://www.dafont.com/my-very-own-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My very own handwriting..ttf'
 end

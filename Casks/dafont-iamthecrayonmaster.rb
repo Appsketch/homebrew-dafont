@@ -5,7 +5,6 @@ cask 'dafont-iamthecrayonmaster' do
     url 'http://dl.dafont.com/dl/?f=iamthecrayonmaster'
     name 'I Am The Crayon Master'
     homepage 'http://www.dafont.com/iamthecrayonmaster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IAmTheCrayonMaster.ttf'
 end

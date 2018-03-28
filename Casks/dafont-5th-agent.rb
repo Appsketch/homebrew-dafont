@@ -5,7 +5,6 @@ cask 'dafont-5th-agent' do
     url 'http://dl.dafont.com/dl/?f=5th_agent'
     name '5th Agent'
     homepage 'http://www.dafont.com/5th-agent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5thagent.ttf'
     font '5thagenti.ttf'

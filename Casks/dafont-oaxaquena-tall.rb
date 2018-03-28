@@ -5,7 +5,6 @@ cask 'dafont-oaxaquena-tall' do
     url 'http://dl.dafont.com/dl/?f=oaxaquena_tall'
     name 'Oaxaque&ntilde;a Tall'
     homepage 'http://www.dafont.com/oaxaquena-tall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oaxaquena Tall.ttf'
 end

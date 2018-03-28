@@ -5,7 +5,6 @@ cask 'dafont-kg-something-to-believe-in' do
     url 'http://dl.dafont.com/dl/?f=kg_something_to_believe_in'
     name 'KG Something to Believe In'
     homepage 'http://www.dafont.com/kg-something-to-believe-in.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGSomethingtoBelieveIn.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-today-is-the-oldest-and-younges' do
     url 'http://dl.dafont.com/dl/?f=today_is_the_oldest_and_younges'
     name 'Today is the Oldest and Younges'
     homepage 'http://www.dafont.com/today-is-the-oldest-and-younges.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Today is the Oldest and Youngest You Will Ever Be.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bernard' do
     url 'http://dl.dafont.com/dl/?f=bernard'
     name 'Bernard'
     homepage 'http://www.dafont.com/bernard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bernard.ttf'
 end

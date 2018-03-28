@@ -5,7 +5,6 @@ cask 'dafont-graffogie' do
     url 'http://dl.dafont.com/dl/?f=graffogie'
     name 'Graffogie'
     homepage 'http://www.dafont.com/graffogie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Graffogie.otf'
 end

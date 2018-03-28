@@ -5,7 +5,6 @@ cask 'dafont-kg-camden-market-script' do
     url 'http://dl.dafont.com/dl/?f=kg_camden_market_script'
     name 'KG Camden Market Script'
     homepage 'http://www.dafont.com/kg-camden-market-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGCamdenMarketScript.ttf'
 end

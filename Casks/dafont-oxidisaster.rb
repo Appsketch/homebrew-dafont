@@ -5,7 +5,6 @@ cask 'dafont-oxidisaster' do
     url 'http://dl.dafont.com/dl/?f=oxidisaster'
     name 'Oxidisaster'
     homepage 'http://www.dafont.com/oxidisaster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OXIDISASTER.ttf'
 end

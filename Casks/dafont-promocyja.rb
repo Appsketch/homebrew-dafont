@@ -5,7 +5,6 @@ cask 'dafont-promocyja' do
     url 'http://dl.dafont.com/dl/?f=promocyja'
     name 'Promocyja'
     homepage 'http://www.dafont.com/promocyja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Promocyja096.ttf'
 end

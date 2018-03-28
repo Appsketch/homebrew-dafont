@@ -5,7 +5,6 @@ cask 'dafont-another-america' do
     url 'http://dl.dafont.com/dl/?f=another_america'
     name 'Another America'
     homepage 'http://www.dafont.com/another-america.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Another America.ttf'
 end

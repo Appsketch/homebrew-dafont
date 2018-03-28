@@ -5,7 +5,6 @@ cask 'dafont-omega-sentry' do
     url 'http://dl.dafont.com/dl/?f=omega_sentry'
     name 'Omega Sentry'
     homepage 'http://www.dafont.com/omega-sentry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Omegav2.ttf'
 end

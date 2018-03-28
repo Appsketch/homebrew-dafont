@@ -5,7 +5,6 @@ cask 'dafont-ultramarine' do
     url 'http://dl.dafont.com/dl/?f=ultramarine'
     name 'Ultramarine'
     homepage 'http://www.dafont.com/ultramarine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ultramarine.otf'
 end

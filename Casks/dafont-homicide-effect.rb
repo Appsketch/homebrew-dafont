@@ -5,7 +5,6 @@ cask 'dafont-homicide-effect' do
     url 'http://dl.dafont.com/dl/?f=homicide_effect'
     name 'HoMicIDE EFfeCt'
     homepage 'http://www.dafont.com/homicide-effect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HoMicIDE EFfeCt.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bubble-soap' do
     url 'http://dl.dafont.com/dl/?f=bubble_soap'
     name 'Bubble &amp; Soap'
     homepage 'http://www.dafont.com/bubble-soap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bubble &amp; soap.ttf'
 end

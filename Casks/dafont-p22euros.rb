@@ -5,7 +5,6 @@ cask 'dafont-p22euros' do
     url 'http://dl.dafont.com/dl/?f=p22euros'
     name 'P22 Euros'
     homepage 'http://www.dafont.com/p22euros.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'P22EUROS.TTF'
 end

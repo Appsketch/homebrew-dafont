@@ -5,7 +5,6 @@ cask 'dafont-bordados' do
     url 'http://dl.dafont.com/dl/?f=bordados'
     name 'Bordados'
     homepage 'http://www.dafont.com/bordados.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BORDADOS DEMO.otf'
 end

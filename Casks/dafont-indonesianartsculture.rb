@@ -5,7 +5,6 @@ cask 'dafont-indonesianartsculture' do
     url 'http://dl.dafont.com/dl/?f=indonesianartsculture'
     name 'Indonesian Arts Culture'
     homepage 'http://www.dafont.com/indonesianartsculture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IndonesianArtsCulture.ttf'
 end

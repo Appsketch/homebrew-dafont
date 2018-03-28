@@ -5,7 +5,6 @@ cask 'dafont-dripping-cool' do
     url 'http://dl.dafont.com/dl/?f=dripping_cool'
     name 'Dripping Cool'
     homepage 'http://www.dafont.com/dripping-cool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DrippingCool.ttf'
 end

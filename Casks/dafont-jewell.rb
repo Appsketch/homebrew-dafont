@@ -5,7 +5,6 @@ cask 'dafont-jewell' do
     url 'http://dl.dafont.com/dl/?f=jewell'
     name 'Jewell'
     homepage 'http://www.dafont.com/jewell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jewell.ttf'
 end

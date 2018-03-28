@@ -5,7 +5,6 @@ cask 'dafont-dingpartment-store' do
     url 'http://dl.dafont.com/dl/?f=dingpartment_store'
     name 'Dingpartment Store'
     homepage 'http://www.dafont.com/dingpartment-store.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dingpartment store.ttf'
 end

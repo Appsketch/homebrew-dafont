@@ -5,7 +5,6 @@ cask 'dafont-chouchou' do
     url 'http://dl.dafont.com/dl/?f=chouchou'
     name 'Chouchou'
     homepage 'http://www.dafont.com/chouchou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chouchou.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ave-giulio' do
     url 'http://dl.dafont.com/dl/?f=ave_giulio'
     name 'Ave Giulio'
     homepage 'http://www.dafont.com/ave-giulio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ave Giulioo.ttf'
 end

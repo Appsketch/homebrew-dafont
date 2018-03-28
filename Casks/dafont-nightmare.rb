@@ -5,7 +5,6 @@ cask 'dafont-nightmare' do
     url 'http://dl.dafont.com/dl/?f=nightmare'
     name 'Nightmare AOE'
     homepage 'http://www.dafont.com/nightmare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truetype/NightAOE.ttf'
 end

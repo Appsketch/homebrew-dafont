@@ -5,7 +5,6 @@ cask 'dafont-rubber-boy' do
     url 'http://dl.dafont.com/dl/?f=rubber_boy'
     name 'Rubber Boy'
     homepage 'http://www.dafont.com/rubber-boy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rubberboy.ttf'
     font 'rubberboy3d.ttf'

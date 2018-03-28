@@ -5,7 +5,6 @@ cask 'dafont-badass' do
     url 'http://dl.dafont.com/dl/?f=badass'
     name 'Badass'
     homepage 'http://www.dafont.com/badass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BadassTypography-Regular.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tresor-eins' do
     url 'http://dl.dafont.com/dl/?f=tresor_eins'
     name 'Tresor Eins'
     homepage 'http://www.dafont.com/tresor-eins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRESE___.TTF'
 end

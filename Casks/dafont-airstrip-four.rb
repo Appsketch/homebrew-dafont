@@ -5,7 +5,6 @@ cask 'dafont-airstrip-four' do
     url 'http://dl.dafont.com/dl/?f=airstrip_four'
     name 'Airstrip Four'
     homepage 'http://www.dafont.com/airstrip-four.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'airstrip.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lakmus' do
     url 'http://dl.dafont.com/dl/?f=lakmus'
     name 'Lakmus'
     homepage 'http://www.dafont.com/lakmus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lakmus.ttf'
 end

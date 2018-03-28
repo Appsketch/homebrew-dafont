@@ -5,7 +5,6 @@ cask 'dafont-gnomes' do
     url 'http://dl.dafont.com/dl/?f=gnomes'
     name 'Gnomes'
     homepage 'http://www.dafont.com/gnomes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GNOMES__.TTF'
 end

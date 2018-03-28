@@ -5,7 +5,6 @@ cask 'dafont-aver' do
     url 'http://dl.dafont.com/dl/?f=aver'
     name 'Aver'
     homepage 'http://www.dafont.com/aver.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aver Bold Italic.ttf'
     font 'Aver Bold.ttf'

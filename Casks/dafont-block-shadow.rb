@@ -5,7 +5,6 @@ cask 'dafont-block-shadow' do
     url 'http://dl.dafont.com/dl/?f=block_shadow'
     name 'Block Shadow'
     homepage 'http://www.dafont.com/block-shadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlockShadow-Bold.ttf'
     font 'BlockShadow-BoldItalic.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-fighting-wordz' do
     url 'http://dl.dafont.com/dl/?f=fighting_wordz'
     name 'Fighting Wordz'
     homepage 'http://www.dafont.com/fighting-wordz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fighting wordz Bold Italic.otf'
     font 'Fighting wordz Bold.otf'

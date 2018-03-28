@@ -5,7 +5,6 @@ cask 'dafont-jeh' do
     url 'http://dl.dafont.com/dl/?f=jeh'
     name 'JEH'
     homepage 'http://www.dafont.com/jeh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JH.php.ttf'
 end

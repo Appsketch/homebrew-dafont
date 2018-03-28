@@ -5,7 +5,6 @@ cask 'dafont-renegado' do
     url 'http://dl.dafont.com/dl/?f=renegado'
     name 'Renegado'
     homepage 'http://www.dafont.com/renegado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'renegado.ttf'
     font 'renegado3d.ttf'

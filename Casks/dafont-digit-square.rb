@@ -5,7 +5,6 @@ cask 'dafont-digit-square' do
     url 'http://dl.dafont.com/dl/?f=digit_square'
     name 'Digit Square'
     homepage 'http://www.dafont.com/digit-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digit-Square.ttf'
 end

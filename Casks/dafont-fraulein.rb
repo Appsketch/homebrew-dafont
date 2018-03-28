@@ -5,7 +5,6 @@ cask 'dafont-fraulein' do
     url 'http://dl.dafont.com/dl/?f=fraulein'
     name 'Fraulein'
     homepage 'http://www.dafont.com/fraulein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'frau-hex.ttf'
     font 'frau.ttf'

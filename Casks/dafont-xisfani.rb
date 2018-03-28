@@ -5,7 +5,6 @@ cask 'dafont-xisfani' do
     url 'http://dl.dafont.com/dl/?f=xisfani'
     name 'Xisfani'
     homepage 'http://www.dafont.com/xisfani.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xisfani.ttf'
 end

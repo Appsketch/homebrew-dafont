@@ -5,7 +5,6 @@ cask 'dafont-gotyk-poszarpany' do
     url 'http://dl.dafont.com/dl/?f=gotyk_poszarpany'
     name 'Gotyk Poszarpany'
     homepage 'http://www.dafont.com/gotyk-poszarpany.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gotyk.ttf'
 end

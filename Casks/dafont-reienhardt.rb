@@ -5,7 +5,6 @@ cask 'dafont-reienhardt' do
     url 'http://dl.dafont.com/dl/?f=reienhardt'
     name 'Reienhardt'
     homepage 'http://www.dafont.com/reienhardt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reienhardt.TTF'
 end

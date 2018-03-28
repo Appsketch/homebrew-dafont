@@ -5,7 +5,6 @@ cask 'dafont-chronicalscript' do
     url 'http://dl.dafont.com/dl/?f=chronicalscript'
     name 'Chronical Script'
     homepage 'http://www.dafont.com/chronicalscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChronicalScript.ttf'
 end

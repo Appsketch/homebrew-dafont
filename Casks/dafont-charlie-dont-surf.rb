@@ -5,7 +5,6 @@ cask 'dafont-charlie-dont-surf' do
     url 'http://dl.dafont.com/dl/?f=charlie_dont_surf'
     name 'Charlie don&#039;t surf!'
     homepage 'http://www.dafont.com/charlie-dont-surf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Charlie don&#039;t surf.ttf'
 end

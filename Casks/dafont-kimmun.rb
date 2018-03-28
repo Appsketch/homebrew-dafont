@@ -5,7 +5,6 @@ cask 'dafont-kimmun' do
     url 'http://dl.dafont.com/dl/?f=kimmun'
     name 'Kimmun'
     homepage 'http://www.dafont.com/kimmun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kimmun.ttf'
 end

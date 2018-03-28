@@ -5,7 +5,6 @@ cask 'dafont-dear-baby' do
     url 'http://dl.dafont.com/dl/?f=dear_baby'
     name 'Dear Baby'
     homepage 'http://www.dafont.com/dear-baby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dear Baby.ttf'
 end

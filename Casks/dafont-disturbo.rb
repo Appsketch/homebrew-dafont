@@ -5,7 +5,6 @@ cask 'dafont-disturbo' do
     url 'http://dl.dafont.com/dl/?f=disturbo'
     name 'Disturbo'
     homepage 'http://www.dafont.com/disturbo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Disturbo.ttf'
 end

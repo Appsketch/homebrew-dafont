@@ -5,7 +5,6 @@ cask 'dafont-bd-renaissance' do
     url 'http://dl.dafont.com/dl/?f=bd_renaissance'
     name 'BD Renaissance'
     homepage 'http://www.dafont.com/bd-renaissance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDRENAIS.TTF'
 end

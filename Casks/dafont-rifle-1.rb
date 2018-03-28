@@ -5,7 +5,6 @@ cask 'dafont-rifle-1' do
     url 'http://dl.dafont.com/dl/?f=rifle_1'
     name 'Rifle 1'
     homepage 'http://www.dafont.com/rifle-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rifle 1.ttf'
 end

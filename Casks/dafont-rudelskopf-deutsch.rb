@@ -5,7 +5,6 @@ cask 'dafont-rudelskopf-deutsch' do
     url 'http://dl.dafont.com/dl/?f=rudelskopf_deutsch'
     name 'Rudelskopf Deutsch'
     homepage 'http://www.dafont.com/rudelskopf-deutsch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rudelskopf Deutsch.ttf'
 end

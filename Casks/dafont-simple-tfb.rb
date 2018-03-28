@@ -5,7 +5,6 @@ cask 'dafont-simple-tfb' do
     url 'http://dl.dafont.com/dl/?f=simple_tfb'
     name 'Simple Tfb'
     homepage 'http://www.dafont.com/simple-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simple tfb.ttf'
 end

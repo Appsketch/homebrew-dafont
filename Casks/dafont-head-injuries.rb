@@ -5,7 +5,6 @@ cask 'dafont-head-injuries' do
     url 'http://dl.dafont.com/dl/?f=head_injuries'
     name 'Head Injuries'
     homepage 'http://www.dafont.com/head-injuries.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'headinj____.ttf'
 end

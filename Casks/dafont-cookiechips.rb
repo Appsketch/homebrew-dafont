@@ -5,7 +5,6 @@ cask 'dafont-cookiechips' do
     url 'http://dl.dafont.com/dl/?f=cookiechips'
     name 'Cookie Chips'
     homepage 'http://www.dafont.com/cookiechips.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CookieChips.ttf'
 end

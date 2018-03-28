@@ -5,7 +5,6 @@ cask 'dafont-rustic-heavy-metal' do
     url 'http://dl.dafont.com/dl/?f=rustic_heavy_metal'
     name 'Rustic Heavy Metal'
     homepage 'http://www.dafont.com/rustic-heavy-metal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rustic heavy metal.ttf'
 end

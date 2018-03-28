@@ -5,7 +5,6 @@ cask 'dafont-oldgatelaneoutline' do
     url 'http://dl.dafont.com/dl/?f=oldgatelaneoutline'
     name 'Oldgate Lane Outline'
     homepage 'http://www.dafont.com/oldgatelaneoutline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OLDGATEL.TTF'
 end

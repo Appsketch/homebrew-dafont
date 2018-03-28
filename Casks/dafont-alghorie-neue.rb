@@ -5,7 +5,6 @@ cask 'dafont-alghorie-neue' do
     url 'http://dl.dafont.com/dl/?f=alghorie_neue'
     name 'Alghorie Neue'
     homepage 'http://www.dafont.com/alghorie-neue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alghorie neue.ttf'
 end

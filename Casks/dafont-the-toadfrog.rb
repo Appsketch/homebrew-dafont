@@ -5,7 +5,6 @@ cask 'dafont-the-toadfrog' do
     url 'http://dl.dafont.com/dl/?f=the_toadfrog'
     name 'The Toadfrog'
     homepage 'http://www.dafont.com/the-toadfrog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the TOADFROG.ttf'
 end

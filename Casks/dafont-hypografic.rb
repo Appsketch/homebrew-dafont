@@ -5,7 +5,6 @@ cask 'dafont-hypografic' do
     url 'http://dl.dafont.com/dl/?f=hypografic'
     name 'Hypografic'
     homepage 'http://www.dafont.com/hypografic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hypografic.ttf'
 end

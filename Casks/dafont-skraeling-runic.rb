@@ -5,7 +5,6 @@ cask 'dafont-skraeling-runic' do
     url 'http://dl.dafont.com/dl/?f=skraeling_runic'
     name 'Skraeling Runic'
     homepage 'http://www.dafont.com/skraeling-runic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkraelingRunic.ttf'
 end

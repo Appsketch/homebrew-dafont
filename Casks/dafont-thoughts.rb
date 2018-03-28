@@ -5,7 +5,6 @@ cask 'dafont-thoughts' do
     url 'http://dl.dafont.com/dl/?f=thoughts'
     name 'Thoughts'
     homepage 'http://www.dafont.com/thoughts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THOUGHTS.ttf'
 end

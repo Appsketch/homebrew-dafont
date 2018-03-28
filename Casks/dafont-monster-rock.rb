@@ -5,7 +5,6 @@ cask 'dafont-monster-rock' do
     url 'http://dl.dafont.com/dl/?f=monster_rock'
     name 'Monster Rock'
     homepage 'http://www.dafont.com/monster-rock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monster rock.ttf'
 end

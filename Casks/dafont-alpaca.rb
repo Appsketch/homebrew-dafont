@@ -5,7 +5,6 @@ cask 'dafont-alpaca' do
     url 'http://dl.dafont.com/dl/?f=alpaca'
     name 'Alpaca'
     homepage 'http://www.dafont.com/alpaca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alpaca Scarlett Demo.ttf'
     font 'Alpaca Solidify.ttf'

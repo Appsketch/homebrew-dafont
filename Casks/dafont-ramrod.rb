@@ -5,7 +5,6 @@ cask 'dafont-ramrod' do
     url 'http://dl.dafont.com/dl/?f=ramrod'
     name 'RamRod'
     homepage 'http://www.dafont.com/ramrod.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RamRod.ttf'
 end

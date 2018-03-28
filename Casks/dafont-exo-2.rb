@@ -5,7 +5,6 @@ cask 'dafont-exo-2' do
     url 'http://dl.dafont.com/dl/?f=exo_2'
     name 'Exo 2'
     homepage 'http://www.dafont.com/exo-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Exo2-Black.otf'
     font 'Exo2-BlackItalic.otf'

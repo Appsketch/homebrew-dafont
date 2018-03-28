@@ -5,7 +5,6 @@ cask 'dafont-comic-douche' do
     url 'http://dl.dafont.com/dl/?f=comic_douche'
     name 'Comic Douche'
     homepage 'http://www.dafont.com/comic-douche.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'comicdouche Bold.otf'
     font 'comicdouche.otf'

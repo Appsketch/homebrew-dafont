@@ -5,7 +5,6 @@ cask 'dafont-mission-gt-r' do
     url 'http://dl.dafont.com/dl/?f=mission_gt_r'
     name 'Mission GT-R'
     homepage 'http://www.dafont.com/mission-gt-r.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mission GT-R Condensed Hollow Italic.ttf'
     font 'Mission GT-R Condensed Hollow.ttf'

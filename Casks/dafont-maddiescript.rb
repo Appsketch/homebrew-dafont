@@ -5,7 +5,6 @@ cask 'dafont-maddiescript' do
     url 'http://dl.dafont.com/dl/?f=maddiescript'
     name 'Maddie Script'
     homepage 'http://www.dafont.com/maddiescript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MaddieScript.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-submerged' do
     url 'http://dl.dafont.com/dl/?f=submerged'
     name 'Submerged'
     homepage 'http://www.dafont.com/submerged.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'submerged.ttf'
 end

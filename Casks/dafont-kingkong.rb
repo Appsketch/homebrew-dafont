@@ -5,7 +5,6 @@ cask 'dafont-kingkong' do
     url 'http://dl.dafont.com/dl/?f=kingkong'
     name 'Kingk&ouml;ng'
     homepage 'http://www.dafont.com/kingkong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingkng Alternative.ttf'
     font 'Kingkng.ttf'

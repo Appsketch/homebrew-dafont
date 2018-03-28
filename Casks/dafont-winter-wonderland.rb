@@ -5,7 +5,6 @@ cask 'dafont-winter-wonderland' do
     url 'http://dl.dafont.com/dl/?f=winter_wonderland'
     name 'Winter Wonderland'
     homepage 'http://www.dafont.com/winter-wonderland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WinterWonderland.ttf'
 end

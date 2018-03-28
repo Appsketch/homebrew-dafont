@@ -5,7 +5,6 @@ cask 'dafont-sentencia' do
     url 'http://dl.dafont.com/dl/?f=sentencia'
     name 'Sentencia'
     homepage 'http://www.dafont.com/sentencia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sentencia.ttf'
 end

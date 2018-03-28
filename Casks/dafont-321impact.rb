@@ -5,7 +5,6 @@ cask 'dafont-321impact' do
     url 'http://dl.dafont.com/dl/?f=321impact'
     name '321 Impact'
     homepage 'http://www.dafont.com/321impact.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '321impact.ttf'
 end

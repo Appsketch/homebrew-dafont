@@ -5,7 +5,6 @@ cask 'dafont-bang-whack-pow' do
     url 'http://dl.dafont.com/dl/?f=bang_whack_pow'
     name 'Bang Whack Pow'
     homepage 'http://www.dafont.com/bang-whack-pow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bang whack pow.ttf'
 end

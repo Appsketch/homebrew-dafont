@@ -5,7 +5,6 @@ cask 'dafont-spray-me' do
     url 'http://dl.dafont.com/dl/?f=spray_me'
     name 'Spray Me'
     homepage 'http://www.dafont.com/spray-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sprayme.ttf'
 end

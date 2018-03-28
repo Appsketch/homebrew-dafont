@@ -5,7 +5,6 @@ cask 'dafont-fatalitys-edge' do
     url 'http://dl.dafont.com/dl/?f=fatalitys_edge'
     name 'Fatality&#039;s Edge'
     homepage 'http://www.dafont.com/fatalitys-edge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fatalitys-Edge.ttf'
 end

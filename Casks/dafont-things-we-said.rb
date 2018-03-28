@@ -5,7 +5,6 @@ cask 'dafont-things-we-said' do
     url 'http://dl.dafont.com/dl/?f=things_we_said'
     name 'Things We Said'
     homepage 'http://www.dafont.com/things-we-said.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Things We Said.ttf'
 end

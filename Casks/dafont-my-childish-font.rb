@@ -5,7 +5,6 @@ cask 'dafont-my-childish-font' do
     url 'http://dl.dafont.com/dl/?f=my_childish_font'
     name 'My Childish Font'
     homepage 'http://www.dafont.com/my-childish-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My Childish Font.ttf'
 end

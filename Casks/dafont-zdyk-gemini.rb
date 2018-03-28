@@ -5,7 +5,6 @@ cask 'dafont-zdyk-gemini' do
     url 'http://dl.dafont.com/dl/?f=zdyk_gemini'
     name 'Zdyk Gemini'
     homepage 'http://www.dafont.com/zdyk-gemini.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zdyk Gemini.ttf'
 end

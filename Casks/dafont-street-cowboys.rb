@@ -5,7 +5,6 @@ cask 'dafont-street-cowboys' do
     url 'http://dl.dafont.com/dl/?f=street_cowboys'
     name 'Street Cowboys'
     homepage 'http://www.dafont.com/street-cowboys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Street Cowboys regular.ttf'
 end

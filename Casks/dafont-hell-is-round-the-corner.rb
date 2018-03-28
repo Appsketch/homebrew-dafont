@@ -5,7 +5,6 @@ cask 'dafont-hell-is-round-the-corner' do
     url 'http://dl.dafont.com/dl/?f=hell_is_round_the_corner'
     name 'Hell is round the corner'
     homepage 'http://www.dafont.com/hell-is-round-the-corner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hell is round the corner.ttf'
 end

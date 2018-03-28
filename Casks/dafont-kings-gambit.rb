@@ -5,7 +5,6 @@ cask 'dafont-kings-gambit' do
     url 'http://dl.dafont.com/dl/?f=kings_gambit'
     name 'King&#039;s Gambit'
     homepage 'http://www.dafont.com/kings-gambit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kingsgmb.ttf'
 end

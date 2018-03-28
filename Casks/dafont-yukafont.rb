@@ -5,7 +5,6 @@ cask 'dafont-yukafont' do
     url 'http://dl.dafont.com/dl/?f=yukafont'
     name 'Yukafont'
     homepage 'http://www.dafont.com/yukafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YUKAFONTSMILE.otf'
 end

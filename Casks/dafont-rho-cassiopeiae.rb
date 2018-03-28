@@ -5,7 +5,6 @@ cask 'dafont-rho-cassiopeiae' do
     url 'http://dl.dafont.com/dl/?f=rho_cassiopeiae'
     name 'Rho Cassiopeiae'
     homepage 'http://www.dafont.com/rho-cassiopeiae.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rho Cassiopeiae.ttf'
 end

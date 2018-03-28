@@ -5,7 +5,6 @@ cask 'dafont-double-bubble' do
     url 'http://dl.dafont.com/dl/?f=double_bubble'
     name 'Double Bubble'
     homepage 'http://www.dafont.com/double-bubble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Double_Bubble_shadow_italic.otf'
     font 'Double_Bubble_shadow.otf'

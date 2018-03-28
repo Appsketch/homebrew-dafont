@@ -5,7 +5,6 @@ cask 'dafont-soerjaputera' do
     url 'http://dl.dafont.com/dl/?f=soerjaputera'
     name 'Soerjaputera'
     homepage 'http://www.dafont.com/soerjaputera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Soerjaputera.ttf'
 end

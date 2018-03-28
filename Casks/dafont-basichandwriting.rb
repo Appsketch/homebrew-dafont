@@ -5,7 +5,6 @@ cask 'dafont-basichandwriting' do
     url 'http://dl.dafont.com/dl/?f=basichandwriting'
     name 'Basic Handwriting'
     homepage 'http://www.dafont.com/basichandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BasicHandwritingDefault.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-spirit-ritual' do
     url 'http://dl.dafont.com/dl/?f=spirit_ritual'
     name 'Spirit Ritual'
     homepage 'http://www.dafont.com/spirit-ritual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spirit Ritual.ttf'
 end

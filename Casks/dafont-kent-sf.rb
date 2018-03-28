@@ -5,7 +5,6 @@ cask 'dafont-kent-sf' do
     url 'http://dl.dafont.com/dl/?f=kent_sf'
     name 'Kent SF'
     homepage 'http://www.dafont.com/kent-sf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kent SF.ttf'
 end

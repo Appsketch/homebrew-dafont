@@ -5,7 +5,6 @@ cask 'dafont-gm-hiptop' do
     url 'http://dl.dafont.com/dl/?f=gm_hiptop'
     name 'GM Hiptop'
     homepage 'http://www.dafont.com/gm-hiptop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gmhightop DEMO.ttf'
 end

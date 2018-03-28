@@ -5,7 +5,6 @@ cask 'dafont-dk-hyggelig' do
     url 'http://dl.dafont.com/dl/?f=dk_hyggelig'
     name 'DK Hyggelig'
     homepage 'http://www.dafont.com/dk-hyggelig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Hyggelig.otf'
 end

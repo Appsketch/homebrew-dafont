@@ -5,7 +5,6 @@ cask 'dafont-inkspecial' do
     url 'http://dl.dafont.com/dl/?f=inkspecial'
     name 'Ink Special'
     homepage 'http://www.dafont.com/inkspecial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InkSpecial.ttf'
 end

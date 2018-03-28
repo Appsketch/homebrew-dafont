@@ -5,7 +5,6 @@ cask 'dafont-annihilate' do
     url 'http://dl.dafont.com/dl/?f=annihilate'
     name 'Annihilate'
     homepage 'http://www.dafont.com/annihilate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANNIHILATE.ttf'
 end

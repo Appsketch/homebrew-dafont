@@ -5,7 +5,6 @@ cask 'dafont-reason-to-see-evil' do
     url 'http://dl.dafont.com/dl/?f=reason_to_see_evil'
     name 'Reason to see Evil'
     homepage 'http://www.dafont.com/reason-to-see-evil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ReasontoseeEvil.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-data-transfert' do
     url 'http://dl.dafont.com/dl/?f=data_transfert'
     name 'Data Transfert'
     homepage 'http://www.dafont.com/data-transfert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Data.ttf'
 end

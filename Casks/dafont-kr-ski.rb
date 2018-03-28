@@ -5,7 +5,6 @@ cask 'dafont-kr-ski' do
     url 'http://dl.dafont.com/dl/?f=kr_ski'
     name 'KR Ski'
     homepage 'http://www.dafont.com/kr-ski.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Ski.ttf'
 end

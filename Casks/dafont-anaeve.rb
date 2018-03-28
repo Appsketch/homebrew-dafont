@@ -5,7 +5,6 @@ cask 'dafont-anaeve' do
     url 'http://dl.dafont.com/dl/?f=anaeve'
     name 'AnaEve'
     homepage 'http://www.dafont.com/anaeve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnaEve-Regular.ttf'
 end

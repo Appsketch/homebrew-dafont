@@ -5,7 +5,6 @@ cask 'dafont-monochrome' do
     url 'http://dl.dafont.com/dl/?f=monochrome'
     name 'Monochrome'
     homepage 'http://www.dafont.com/monochrome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MONOCHROME.ttf'
 end

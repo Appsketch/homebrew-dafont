@@ -5,7 +5,6 @@ cask 'dafont-beffle' do
     url 'http://dl.dafont.com/dl/?f=beffle'
     name 'Beffle'
     homepage 'http://www.dafont.com/beffle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beffle Medium.ttf'
 end

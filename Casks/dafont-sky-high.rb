@@ -5,7 +5,6 @@ cask 'dafont-sky-high' do
     url 'http://dl.dafont.com/dl/?f=sky_high'
     name 'Sky High'
     homepage 'http://www.dafont.com/sky-high.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkyHigh-Regular.otf'
 end

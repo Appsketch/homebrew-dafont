@@ -5,7 +5,6 @@ cask 'dafont-strawberrylongcake' do
     url 'http://dl.dafont.com/dl/?f=strawberrylongcake'
     name 'Strawberry Longcake'
     homepage 'http://www.dafont.com/strawberrylongcake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StrawberryLongcake.ttf'
 end

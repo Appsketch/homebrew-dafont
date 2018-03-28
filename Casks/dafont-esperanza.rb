@@ -5,7 +5,6 @@ cask 'dafont-esperanza' do
     url 'http://dl.dafont.com/dl/?f=esperanza'
     name 'Esperanza'
     homepage 'http://www.dafont.com/esperanza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Esperanza.ttf'
 end

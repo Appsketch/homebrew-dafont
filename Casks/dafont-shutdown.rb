@@ -5,7 +5,6 @@ cask 'dafont-shutdown' do
     url 'http://dl.dafont.com/dl/?f=shutdown'
     name 'Shutdown!'
     homepage 'http://www.dafont.com/shutdown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shutdown!.ttf'
 end

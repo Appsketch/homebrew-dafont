@@ -5,7 +5,6 @@ cask 'dafont-giant-tigers' do
     url 'http://dl.dafont.com/dl/?f=giant_tigers'
     name 'Giant Tigers'
     homepage 'http://www.dafont.com/giant-tigers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'giant tigers.ttf'
 end

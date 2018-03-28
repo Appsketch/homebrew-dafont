@@ -5,7 +5,6 @@ cask 'dafont-dr-benway' do
     url 'http://dl.dafont.com/dl/?f=dr_benway'
     name 'Dr Benway'
     homepage 'http://www.dafont.com/dr-benway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Drbenway.ttf'
 end

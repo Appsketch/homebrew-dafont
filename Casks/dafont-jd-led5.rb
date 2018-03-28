@@ -5,7 +5,6 @@ cask 'dafont-jd-led5' do
     url 'http://dl.dafont.com/dl/?f=jd_led5'
     name 'JD LED5'
     homepage 'http://www.dafont.com/jd-led5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_led5.ttf'
 end

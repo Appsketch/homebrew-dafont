@@ -5,7 +5,6 @@ cask 'dafont-hopefulgrasshopper' do
     url 'http://dl.dafont.com/dl/?f=hopefulgrasshopper'
     name 'Hopeful Grasshopper'
     homepage 'http://www.dafont.com/hopefulgrasshopper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HopefulGrasshopper-Demo.otf'
 end

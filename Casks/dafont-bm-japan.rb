@@ -5,7 +5,6 @@ cask 'dafont-bm-japan' do
     url 'http://dl.dafont.com/dl/?f=bm_japan'
     name 'BM Japan'
     homepage 'http://www.dafont.com/bm-japan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMjapan.TTF'
 end

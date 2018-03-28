@@ -5,7 +5,6 @@ cask 'dafont-alcatraz' do
     url 'http://dl.dafont.com/dl/?f=alcatraz'
     name 'Alcatraz'
     homepage 'http://www.dafont.com/alcatraz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALCATRAZ.ttf'
 end

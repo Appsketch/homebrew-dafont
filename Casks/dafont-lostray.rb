@@ -5,7 +5,6 @@ cask 'dafont-lostray' do
     url 'http://dl.dafont.com/dl/?f=lostray'
     name 'Lost Ray'
     homepage 'http://www.dafont.com/lostray.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LostRay.ttf'
 end

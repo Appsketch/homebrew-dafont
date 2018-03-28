@@ -5,7 +5,6 @@ cask 'dafont-brainstorm' do
     url 'http://dl.dafont.com/dl/?f=brainstorm'
     name 'Brainstorm'
     homepage 'http://www.dafont.com/brainstorm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brainstorm Bold Italic.otf'
     font 'Brainstorm Bold.otf'

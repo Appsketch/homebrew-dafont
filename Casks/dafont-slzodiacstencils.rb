@@ -5,7 +5,6 @@ cask 'dafont-slzodiacstencils' do
     url 'http://dl.dafont.com/dl/?f=slzodiacstencils'
     name 'SL Zodiac Stencils'
     homepage 'http://www.dafont.com/slzodiacstencils.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SLZodiacStencils.ttf'
 end

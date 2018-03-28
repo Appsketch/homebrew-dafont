@@ -5,7 +5,6 @@ cask 'dafont-featured' do
     url 'http://dl.dafont.com/dl/?f=featured'
     name 'Featured'
     homepage 'http://www.dafont.com/featured.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FEATURED.ttf'
 end

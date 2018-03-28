@@ -5,7 +5,6 @@ cask 'dafont-halo' do
     url 'http://dl.dafont.com/dl/?f=halo'
     name 'Halo'
     homepage 'http://www.dafont.com/halo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Halo Outline.ttf'
     font 'Halo.ttf'

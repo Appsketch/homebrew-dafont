@@ -5,7 +5,6 @@ cask 'dafont-rusticus-std' do
     url 'http://dl.dafont.com/dl/?f=rusticus_std'
     name 'Rusticus STD'
     homepage 'http://www.dafont.com/rusticus-std.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RusticusStd.otf'
 end

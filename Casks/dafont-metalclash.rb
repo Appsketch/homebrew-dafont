@@ -5,7 +5,6 @@ cask 'dafont-metalclash' do
     url 'http://dl.dafont.com/dl/?f=metalclash'
     name 'Metal Clash'
     homepage 'http://www.dafont.com/metalclash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MetalClash.ttf'
 end

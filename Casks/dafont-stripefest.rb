@@ -5,7 +5,6 @@ cask 'dafont-stripefest' do
     url 'http://dl.dafont.com/dl/?f=stripefest'
     name 'Stripefest'
     homepage 'http://www.dafont.com/stripefest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stripefest.ttf'
 end

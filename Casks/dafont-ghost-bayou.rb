@@ -5,7 +5,6 @@ cask 'dafont-ghost-bayou' do
     url 'http://dl.dafont.com/dl/?f=ghost_bayou'
     name 'Ghost Bayou'
     homepage 'http://www.dafont.com/ghost-bayou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ghostbay.ttf'
 end

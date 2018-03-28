@@ -5,7 +5,6 @@ cask 'dafont-fantastique-cars' do
     url 'http://dl.dafont.com/dl/?f=fantastique_cars'
     name 'FE Fantastique Cars'
     homepage 'http://www.dafont.com/fantastique-cars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE Fantastique Cars.otf'
 end

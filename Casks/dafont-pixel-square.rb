@@ -5,7 +5,6 @@ cask 'dafont-pixel-square' do
     url 'http://dl.dafont.com/dl/?f=pixel_square'
     name 'Pixel Square'
     homepage 'http://www.dafont.com/pixel-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel Square 10.ttf'
     font 'Pixel Square Bold10.ttf'

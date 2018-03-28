@@ -5,7 +5,6 @@ cask 'dafont-decorissimant-viper78' do
     url 'http://dl.dafont.com/dl/?f=decorissimant_viper78'
     name 'Decorissimant Viper 78'
     homepage 'http://www.dafont.com/decorissimant-viper78.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Decorissimant_viper78.ttf'
 end

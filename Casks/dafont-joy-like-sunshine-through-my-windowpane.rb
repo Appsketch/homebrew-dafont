@@ -5,7 +5,6 @@ cask 'dafont-joy-like-sunshine-through-my-windowpane' do
     url 'http://dl.dafont.com/dl/?f=joy_like_sunshine_through_my_windowpane'
     name 'Joy Like Sunshine Through My Windowpane'
     homepage 'http://www.dafont.com/joy-like-sunshine-through-my-windowpane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Joy Like Sunshine Through My Windowpane.ttf'
 end

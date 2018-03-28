@@ -5,7 +5,6 @@ cask 'dafont-whiskey-bravo-victor' do
     url 'http://dl.dafont.com/dl/?f=whiskey_bravo_victor'
     name 'Whiskey Bravo Victor'
     homepage 'http://www.dafont.com/whiskey-bravo-victor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wbv5.ttf'
     font 'wbv53d.ttf'

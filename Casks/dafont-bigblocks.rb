@@ -5,7 +5,6 @@ cask 'dafont-bigblocks' do
     url 'http://dl.dafont.com/dl/?f=bigblocks'
     name 'Big Blocks'
     homepage 'http://www.dafont.com/bigblocks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bigblocks.ttf'
 end

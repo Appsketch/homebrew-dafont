@@ -5,7 +5,6 @@ cask 'dafont-jenetoublieraijamais' do
     url 'http://dl.dafont.com/dl/?f=jenetoublieraijamais'
     name 'Je Ne TOublierai Jamais'
     homepage 'http://www.dafont.com/jenetoublieraijamais.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JeNeTOublieraiJamais.ttf'
 end

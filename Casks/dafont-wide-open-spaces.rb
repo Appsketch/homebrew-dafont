@@ -5,7 +5,6 @@ cask 'dafont-wide-open-spaces' do
     url 'http://dl.dafont.com/dl/?f=wide_open_spaces'
     name 'Wide Open Spaces'
     homepage 'http://www.dafont.com/wide-open-spaces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wide Open Spaces.ttf'
 end

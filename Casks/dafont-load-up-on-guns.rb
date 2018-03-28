@@ -5,7 +5,6 @@ cask 'dafont-load-up-on-guns' do
     url 'http://dl.dafont.com/dl/?f=load_up_on_guns'
     name 'Load Up On Guns'
     homepage 'http://www.dafont.com/load-up-on-guns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LoadUpOnGuns-kcfontsDEMO.ttf'
 end

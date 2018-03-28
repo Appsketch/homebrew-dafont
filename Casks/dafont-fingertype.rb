@@ -5,7 +5,6 @@ cask 'dafont-fingertype' do
     url 'http://dl.dafont.com/dl/?f=fingertype'
     name 'Finger Type'
     homepage 'http://www.dafont.com/fingertype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FingerType.ttf'
 end

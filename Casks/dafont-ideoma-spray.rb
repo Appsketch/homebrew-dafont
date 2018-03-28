@@ -5,7 +5,6 @@ cask 'dafont-ideoma-spray' do
     url 'http://dl.dafont.com/dl/?f=ideoma_spray'
     name 'Ideoma Spray'
     homepage 'http://www.dafont.com/ideoma-spray.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ideoma_SPRAY.otf'
 end

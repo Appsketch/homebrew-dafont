@@ -5,7 +5,6 @@ cask 'dafont-zorus-serif' do
     url 'http://dl.dafont.com/dl/?f=zorus_serif'
     name 'Zorus Serif'
     homepage 'http://www.dafont.com/zorus-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zorus_Serif_Italic.otf'
     font 'Zorus_Serif.otf'

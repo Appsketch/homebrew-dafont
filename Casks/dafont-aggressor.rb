@@ -5,7 +5,6 @@ cask 'dafont-aggressor' do
     url 'http://dl.dafont.com/dl/?f=aggressor'
     name 'Aggressor'
     homepage 'http://www.dafont.com/aggressor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aggressor Outline.ttf'
     font 'Aggressor.ttf'

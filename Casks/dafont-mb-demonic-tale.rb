@@ -5,7 +5,6 @@ cask 'dafont-mb-demonic-tale' do
     url 'http://dl.dafont.com/dl/?f=mb_demonic_tale'
     name 'MB Demonic Tale'
     homepage 'http://www.dafont.com/mb-demonic-tale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-Demonic_Tale.ttf'
 end

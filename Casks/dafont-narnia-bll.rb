@@ -5,7 +5,6 @@ cask 'dafont-narnia-bll' do
     url 'http://dl.dafont.com/dl/?f=narnia_bll'
     name 'Narnia BLL'
     homepage 'http://www.dafont.com/narnia-bll.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NarniaBLL.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cyrus-the-virus' do
     url 'http://dl.dafont.com/dl/?f=cyrus_the_virus'
     name 'Cyrus the Virus'
     homepage 'http://www.dafont.com/cyrus-the-virus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cyrus.ttf'
     font 'cyrus3d.ttf'

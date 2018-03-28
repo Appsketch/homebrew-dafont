@@ -5,7 +5,6 @@ cask 'dafont-beyond-wonderland' do
     url 'http://dl.dafont.com/dl/?f=beyond_wonderland'
     name 'Beyond Wonderland'
     homepage 'http://www.dafont.com/beyond-wonderland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beyond Wonderland.ttf'
 end

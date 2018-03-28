@@ -5,7 +5,6 @@ cask 'dafont-el-arropeiro' do
     url 'http://dl.dafont.com/dl/?f=el_arropeiro'
     name 'El Arropeiro'
     homepage 'http://www.dafont.com/el-arropeiro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'El Arropeiro.ttf'
 end

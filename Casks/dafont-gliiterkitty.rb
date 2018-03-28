@@ -5,7 +5,6 @@ cask 'dafont-gliiterkitty' do
     url 'http://dl.dafont.com/dl/?f=gliiterkitty'
     name 'Gliiter Kitty'
     homepage 'http://www.dafont.com/gliiterkitty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GliiterKitty.ttf'
 end

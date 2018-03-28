@@ -5,7 +5,6 @@ cask 'dafont-emoticons' do
     url 'http://dl.dafont.com/dl/?f=emoticons'
     name 'Emoticons'
     homepage 'http://www.dafont.com/emoticons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'emoticons_outline.ttf'
     font 'emoticons.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-hurufo-numero' do
     url 'http://dl.dafont.com/dl/?f=hurufo_numero'
     name 'Hurufo &amp; Numero'
     homepage 'http://www.dafont.com/hurufo-numero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hurufo &amp; Numero Bold Italic.ttf'
     font 'Hurufo &amp; Numero Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-recorda-script' do
     url 'http://dl.dafont.com/dl/?f=recorda_script'
     name 'Recorda Script'
     homepage 'http://www.dafont.com/recorda-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RecordaScript_Personal_Use_Only.ttf'
 end

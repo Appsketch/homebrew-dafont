@@ -5,7 +5,6 @@ cask 'dafont-vintage-mixed-vol1' do
     url 'http://dl.dafont.com/dl/?f=vintage_mixed_vol1'
     name 'Vintage Mixed vol1'
     homepage 'http://www.dafont.com/vintage-mixed-vol1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vintage Mixed vol1.ttf'
 end

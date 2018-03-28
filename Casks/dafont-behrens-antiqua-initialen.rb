@@ -5,7 +5,6 @@ cask 'dafont-behrens-antiqua-initialen' do
     url 'http://dl.dafont.com/dl/?f=behrens_antiqua_initialen'
     name 'Behrens Antiqua Initialen'
     homepage 'http://www.dafont.com/behrens-antiqua-initialen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Behrens Antiqua Initialen.ttf'
 end

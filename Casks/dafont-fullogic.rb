@@ -5,7 +5,6 @@ cask 'dafont-fullogic' do
     url 'http://dl.dafont.com/dl/?f=fullogic'
     name 'Fullogic'
     homepage 'http://www.dafont.com/fullogic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fullogic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-24boughs-different' do
     url 'http://dl.dafont.com/dl/?f=24boughs_different'
     name '24 Boughs Different'
     homepage 'http://www.dafont.com/24boughs-different.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '24 Boughs Different.ttf'
 end

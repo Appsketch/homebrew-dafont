@@ -5,7 +5,6 @@ cask 'dafont-lemon' do
     url 'http://dl.dafont.com/dl/?f=lemon'
     name 'Lemon'
     homepage 'http://www.dafont.com/lemon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lemon.ttf'
 end

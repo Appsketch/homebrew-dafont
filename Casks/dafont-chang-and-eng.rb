@@ -5,7 +5,6 @@ cask 'dafont-chang-and-eng' do
     url 'http://dl.dafont.com/dl/?f=chang_and_eng'
     name 'Chang and  Eng'
     homepage 'http://www.dafont.com/chang-and-eng.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chane___.ttf'
 end

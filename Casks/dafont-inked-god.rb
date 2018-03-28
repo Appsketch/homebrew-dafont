@@ -5,7 +5,6 @@ cask 'dafont-inked-god' do
     url 'http://dl.dafont.com/dl/?f=inked_god'
     name 'Inked God'
     homepage 'http://www.dafont.com/inked-god.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iNked God.ttf'
 end

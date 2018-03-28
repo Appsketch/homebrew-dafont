@@ -5,7 +5,6 @@ cask 'dafont-ignis-et-glacies-extra-sharp' do
     url 'http://dl.dafont.com/dl/?f=ignis_et_glacies_extra_sharp'
     name 'Ignis et Glacies Extra Sharp'
     homepage 'http://www.dafont.com/ignis-et-glacies-extra-sharp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ignis et Glacies Extra Sharp Bold.ttf'
     font 'Ignis et Glacies Extra Sharp BoldItalic.ttf'

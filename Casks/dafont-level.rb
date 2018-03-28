@@ -5,7 +5,6 @@ cask 'dafont-level' do
     url 'http://dl.dafont.com/dl/?f=level'
     name 'Level'
     homepage 'http://www.dafont.com/level.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEVEL___.TTF'
 end

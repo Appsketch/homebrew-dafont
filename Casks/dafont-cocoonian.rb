@@ -5,7 +5,6 @@ cask 'dafont-cocoonian' do
     url 'http://dl.dafont.com/dl/?f=cocoonian'
     name 'Cocoonian'
     homepage 'http://www.dafont.com/cocoonian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cocoonian.ttf'
 end

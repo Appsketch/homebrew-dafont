@@ -5,7 +5,6 @@ cask 'dafont-sv-basic-manual' do
     url 'http://dl.dafont.com/dl/?f=sv_basic_manual'
     name 'SV Basic Manual'
     homepage 'http://www.dafont.com/sv-basic-manual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SVBasicManual-Bold.ttf'
     font 'SVBasicManual.ttf'

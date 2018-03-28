@@ -5,7 +5,6 @@ cask 'dafont-cutelove' do
     url 'http://dl.dafont.com/dl/?f=cutelove'
     name 'Cute Love'
     homepage 'http://www.dafont.com/cutelove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CuteLove.ttf'
 end

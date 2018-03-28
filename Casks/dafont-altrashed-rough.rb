@@ -5,7 +5,6 @@ cask 'dafont-altrashed-rough' do
     url 'http://dl.dafont.com/dl/?f=altrashed_rough'
     name 'Altrashed-Rough'
     homepage 'http://www.dafont.com/altrashed-rough.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALTRASHED-broken.ttf'
 end

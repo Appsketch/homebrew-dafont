@@ -5,7 +5,6 @@ cask 'dafont-virginia-sky' do
     url 'http://dl.dafont.com/dl/?f=virginia_sky'
     name 'Virginia Sky'
     homepage 'http://www.dafont.com/virginia-sky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Viriginia Sky.ttf'
 end

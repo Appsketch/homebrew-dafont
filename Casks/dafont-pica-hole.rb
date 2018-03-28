@@ -5,7 +5,6 @@ cask 'dafont-pica-hole' do
     url 'http://dl.dafont.com/dl/?f=pica_hole'
     name 'Pica Hole'
     homepage 'http://www.dafont.com/pica-hole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PICAHMR_.ttf'
     font 'PICAHMS_.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-catalogue' do
     url 'http://dl.dafont.com/dl/?f=catalogue'
     name 'Catalogue'
     homepage 'http://www.dafont.com/catalogue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Catalogue 2.0.ttf'
 end

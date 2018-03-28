@@ -5,7 +5,6 @@ cask 'dafont-ft-nihilist-philoso' do
     url 'http://dl.dafont.com/dl/?f=ft_nihilist_philoso'
     name 'FT Nihilist Philosophy'
     homepage 'http://www.dafont.com/ft-nihilist-philoso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTNIPD__.TTF'
 end

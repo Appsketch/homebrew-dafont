@@ -5,7 +5,6 @@ cask 'dafont-cf-creature-of-darkness' do
     url 'http://dl.dafont.com/dl/?f=cf_creature_of_darkness'
     name 'CF Creature of Darkness'
     homepage 'http://www.dafont.com/cf-creature-of-darkness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFCreatureofDarkness-Regula.ttf'
 end

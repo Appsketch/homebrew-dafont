@@ -5,7 +5,6 @@ cask 'dafont-dsiodrer' do
     url 'http://dl.dafont.com/dl/?f=dsiodrer'
     name 'Dsiodrer'
     homepage 'http://www.dafont.com/dsiodrer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DSIODRER2.ttf'
 end

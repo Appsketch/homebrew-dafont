@@ -5,7 +5,6 @@ cask 'dafont-arb-218-big-blunt' do
     url 'http://dl.dafont.com/dl/?f=arb_218_big_blunt'
     name 'ARB-218 Big&amp;Blunt'
     homepage 'http://www.dafont.com/arb-218-big-blunt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARB-218 finished FREEWARE.ttf'
     font 'ARB-218 NB finished FREEWARE AN.ttf'

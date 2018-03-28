@@ -5,7 +5,6 @@ cask 'dafont-compressedhand' do
     url 'http://dl.dafont.com/dl/?f=compressedhand'
     name 'Compressed hand'
     homepage 'http://www.dafont.com/compressedhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Compressedhand.ttf'
 end

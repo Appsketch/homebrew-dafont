@@ -5,7 +5,6 @@ cask 'dafont-xsotik' do
     url 'http://dl.dafont.com/dl/?f=xsotik'
     name 'Xsotik'
     homepage 'http://www.dafont.com/xsotik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xsotik.otf'
 end

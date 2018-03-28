@@ -5,7 +5,6 @@ cask 'dafont-paper-mache' do
     url 'http://dl.dafont.com/dl/?f=paper_mache'
     name 'Paper-Mache'
     homepage 'http://www.dafont.com/paper-mache.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paper-Mache.ttf'
 end

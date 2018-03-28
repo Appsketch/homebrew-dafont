@@ -5,7 +5,6 @@ cask 'dafont-makimango' do
     url 'http://dl.dafont.com/dl/?f=makimango'
     name 'Makimango'
     homepage 'http://www.dafont.com/makimango.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAKIMANG.TTF'
     font 'MAKIO___.TTF'

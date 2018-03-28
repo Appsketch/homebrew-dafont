@@ -5,7 +5,6 @@ cask 'dafont-monkeylove' do
     url 'http://dl.dafont.com/dl/?f=monkeylove'
     name 'Monkey Love'
     homepage 'http://www.dafont.com/monkeylove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MonkeyLove.ttf'
 end

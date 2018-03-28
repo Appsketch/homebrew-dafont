@@ -5,7 +5,6 @@ cask 'dafont-minecraft-evenings' do
     url 'http://dl.dafont.com/dl/?f=minecraft_evenings'
     name 'Minecraft Evenings'
     homepage 'http://www.dafont.com/minecraft-evenings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minecraft Evenings.otf'
 end

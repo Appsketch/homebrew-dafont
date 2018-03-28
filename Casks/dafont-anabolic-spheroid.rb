@@ -5,7 +5,6 @@ cask 'dafont-anabolic-spheroid' do
     url 'http://dl.dafont.com/dl/?f=anabolic_spheroid'
     name 'Anabolic Spheroid'
     homepage 'http://www.dafont.com/anabolic-spheroid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANABS___.TTF'
 end

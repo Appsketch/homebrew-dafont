@@ -5,7 +5,6 @@ cask 'dafont-water-park' do
     url 'http://dl.dafont.com/dl/?f=water_park'
     name 'Water Park'
     homepage 'http://www.dafont.com/water-park.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Water Park.ttf'
 end

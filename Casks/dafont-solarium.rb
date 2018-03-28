@@ -5,7 +5,6 @@ cask 'dafont-solarium' do
     url 'http://dl.dafont.com/dl/?f=solarium'
     name 'Solarium'
     homepage 'http://www.dafont.com/solarium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Solarium.ttf'
 end

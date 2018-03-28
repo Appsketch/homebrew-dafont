@@ -5,7 +5,6 @@ cask 'dafont-ultraviolet' do
     url 'http://dl.dafont.com/dl/?f=ultraviolet'
     name 'Ultra Violet'
     homepage 'http://www.dafont.com/ultraviolet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UltraViolet.ttf'
 end

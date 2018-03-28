@@ -5,7 +5,6 @@ cask 'dafont-kg-tightrope' do
     url 'http://dl.dafont.com/dl/?f=kg_tightrope'
     name 'KG Tightrope'
     homepage 'http://www.dafont.com/kg-tightrope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGTightrope.ttf'
 end

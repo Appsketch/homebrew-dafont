@@ -5,7 +5,6 @@ cask 'dafont-gram-wmscottsimpsonjr' do
     url 'http://dl.dafont.com/dl/?f=gram_wmscottsimpsonjr'
     name 'Gram'
     homepage 'http://www.dafont.com/gram-wmscottsimpsonjr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gram italic.ttf'
     font 'Gram.ttf'

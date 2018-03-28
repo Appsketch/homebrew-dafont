@@ -5,7 +5,6 @@ cask 'dafont-yorstat' do
     url 'http://dl.dafont.com/dl/?f=yorstat'
     name 'Yorstat'
     homepage 'http://www.dafont.com/yorstat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YOR.TTF'
 end

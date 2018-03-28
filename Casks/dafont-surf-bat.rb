@@ -5,7 +5,6 @@ cask 'dafont-surf-bat' do
     url 'http://dl.dafont.com/dl/?f=surf_bat'
     name 'Surf Bat'
     homepage 'http://www.dafont.com/surf-bat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'surf.ttf'
 end

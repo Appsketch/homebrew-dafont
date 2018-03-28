@@ -5,7 +5,6 @@ cask 'dafont-rithondinmin' do
     url 'http://dl.dafont.com/dl/?f=rithondinmin'
     name 'Rithondinmin'
     homepage 'http://www.dafont.com/rithondinmin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rithondinmin.ttf'
 end

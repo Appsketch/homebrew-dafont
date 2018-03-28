@@ -5,7 +5,6 @@ cask 'dafont-etharnig' do
     url 'http://dl.dafont.com/dl/?f=etharnig'
     name 'Etharnig'
     homepage 'http://www.dafont.com/etharnig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EtharnigNo12.otf'
     font 'EtharnigSc.otf'

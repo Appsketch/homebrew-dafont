@@ -5,7 +5,6 @@ cask 'dafont-gm-no1' do
     url 'http://dl.dafont.com/dl/?f=gm_no1'
     name 'GM No1'
     homepage 'http://www.dafont.com/gm-no1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gm_no1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-street-vendetta' do
     url 'http://dl.dafont.com/dl/?f=street_vendetta'
     name 'Street Vendetta'
     homepage 'http://www.dafont.com/street-vendetta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Street Vendetta (Demo).ttf'
 end

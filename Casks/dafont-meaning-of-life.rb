@@ -5,7 +5,6 @@ cask 'dafont-meaning-of-life' do
     url 'http://dl.dafont.com/dl/?f=meaning_of_life'
     name 'Meaning Of Life'
     homepage 'http://www.dafont.com/meaning-of-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MeaningOfLife.ttf'
 end

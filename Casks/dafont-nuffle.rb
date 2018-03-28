@@ -5,7 +5,6 @@ cask 'dafont-nuffle' do
     url 'http://dl.dafont.com/dl/?f=nuffle'
     name 'Nuffle'
     homepage 'http://www.dafont.com/nuffle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nuffle Dice.otf'
     font 'Nuffle Italic.otf'

@@ -5,7 +5,6 @@ cask 'dafont-knights-who-say-ni' do
     url 'http://dl.dafont.com/dl/?f=knights_who_say_ni'
     name 'Knights Who Say Ni'
     homepage 'http://www.dafont.com/knights-who-say-ni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Knights Who Say Ni.ttf'
 end

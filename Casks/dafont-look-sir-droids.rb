@@ -5,7 +5,6 @@ cask 'dafont-look-sir-droids' do
     url 'http://dl.dafont.com/dl/?f=look_sir_droids'
     name 'Look Sir, Droids'
     homepage 'http://www.dafont.com/look-sir-droids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'look sir, droids.ttf'
 end

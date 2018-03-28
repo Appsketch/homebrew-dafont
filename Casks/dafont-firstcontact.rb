@@ -5,7 +5,6 @@ cask 'dafont-firstcontact' do
     url 'http://dl.dafont.com/dl/?f=firstcontact'
     name 'First Contact'
     homepage 'http://www.dafont.com/firstcontact.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FirstContact.ttf'
 end

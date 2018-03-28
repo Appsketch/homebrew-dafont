@@ -5,7 +5,6 @@ cask 'dafont-blankenship' do
     url 'http://dl.dafont.com/dl/?f=blankenship'
     name 'Blankenship'
     homepage 'http://www.dafont.com/blankenship.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blankenship_final_type.ttf'
 end

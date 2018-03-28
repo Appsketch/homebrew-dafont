@@ -5,7 +5,6 @@ cask 'dafont-pyromaani' do
     url 'http://dl.dafont.com/dl/?f=pyromaani'
     name 'Pyromaani'
     homepage 'http://www.dafont.com/pyromaani.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pyromaani.ttf'
 end

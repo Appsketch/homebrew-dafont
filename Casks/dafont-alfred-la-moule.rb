@@ -5,7 +5,6 @@ cask 'dafont-alfred-la-moule' do
     url 'http://dl.dafont.com/dl/?f=alfred_la_moule'
     name 'Alfred La Moule'
     homepage 'http://www.dafont.com/alfred-la-moule.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALFRED LA MOULE.ttf'
 end

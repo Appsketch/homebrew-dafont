@@ -5,7 +5,6 @@ cask 'dafont-florum-ipsum' do
     url 'http://dl.dafont.com/dl/?f=florum_ipsum'
     name 'Florum Ipsum'
     homepage 'http://www.dafont.com/florum-ipsum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'florum ipsum.ttf'
 end

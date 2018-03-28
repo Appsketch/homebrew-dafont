@@ -5,7 +5,6 @@ cask 'dafont-lmao2' do
     url 'http://dl.dafont.com/dl/?f=lmao2'
     name 'LMAO'
     homepage 'http://www.dafont.com/lmao2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LMAO!.ttf'
 end

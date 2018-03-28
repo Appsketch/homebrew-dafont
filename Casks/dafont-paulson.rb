@@ -5,7 +5,6 @@ cask 'dafont-paulson' do
     url 'http://dl.dafont.com/dl/?f=paulson'
     name 'Paulson'
     homepage 'http://www.dafont.com/paulson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAULSON_.TTF'
 end

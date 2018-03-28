@@ -5,7 +5,6 @@ cask 'dafont-californiaskies' do
     url 'http://dl.dafont.com/dl/?f=californiaskies'
     name 'California Skies'
     homepage 'http://www.dafont.com/californiaskies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CaliforniaSkies.ttf'
 end

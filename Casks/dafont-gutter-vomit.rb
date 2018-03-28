@@ -5,7 +5,6 @@ cask 'dafont-gutter-vomit' do
     url 'http://dl.dafont.com/dl/?f=gutter_vomit'
     name 'Gutter Vomit'
     homepage 'http://www.dafont.com/gutter-vomit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gutter.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hff-eye-sore' do
     url 'http://dl.dafont.com/dl/?f=hff_eye_sore'
     name 'HFF Eye Sore'
     homepage 'http://www.dafont.com/hff-eye-sore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Eye Sore.ttf'
 end

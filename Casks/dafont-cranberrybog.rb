@@ -5,7 +5,6 @@ cask 'dafont-cranberrybog' do
     url 'http://dl.dafont.com/dl/?f=cranberrybog'
     name 'Cranberry Bog'
     homepage 'http://www.dafont.com/cranberrybog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BSD Cranberry Bog.ttf'
 end

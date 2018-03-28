@@ -5,7 +5,6 @@ cask 'dafont-holloweenie-bats' do
     url 'http://dl.dafont.com/dl/?f=holloweenie_bats'
     name 'Holloweenie Bats'
     homepage 'http://www.dafont.com/holloweenie-bats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HollowWeenie Bats.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sl-kids-alphabet' do
     url 'http://dl.dafont.com/dl/?f=sl_kids_alphabet'
     name 'SL Kids Alphabet'
     homepage 'http://www.dafont.com/sl-kids-alphabet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SL Kids Alphabet.ttf'
 end

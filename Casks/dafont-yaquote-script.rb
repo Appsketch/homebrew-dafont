@@ -5,7 +5,6 @@ cask 'dafont-yaquote-script' do
     url 'http://dl.dafont.com/dl/?f=yaquote_script'
     name 'Yaquote Script'
     homepage 'http://www.dafont.com/yaquote-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YaquoteScript_PersonalUse.ttf'
 end

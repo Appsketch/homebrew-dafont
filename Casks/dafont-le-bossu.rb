@@ -5,7 +5,6 @@ cask 'dafont-le-bossu' do
     url 'http://dl.dafont.com/dl/?f=le_bossu'
     name 'Le Bossu'
     homepage 'http://www.dafont.com/le-bossu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Le_Bossu.ttf'
 end

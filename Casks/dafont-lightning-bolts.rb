@@ -5,7 +5,6 @@ cask 'dafont-lightning-bolts' do
     url 'http://dl.dafont.com/dl/?f=lightning_bolts'
     name 'Lightning Bolts'
     homepage 'http://www.dafont.com/lightning-bolts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lightningbolts.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-proofreader' do
     url 'http://dl.dafont.com/dl/?f=proofreader'
     name 'Proofreader'
     homepage 'http://www.dafont.com/proofreader.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Proofreader.ttf'
 end

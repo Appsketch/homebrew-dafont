@@ -5,7 +5,6 @@ cask 'dafont-ringlead' do
     url 'http://dl.dafont.com/dl/?f=ringlead'
     name 'Ringlead'
     homepage 'http://www.dafont.com/ringlead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ringlead.ttf'
 end

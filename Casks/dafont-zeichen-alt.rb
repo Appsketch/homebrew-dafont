@@ -5,7 +5,6 @@ cask 'dafont-zeichen-alt' do
     url 'http://dl.dafont.com/dl/?f=zeichen_alt'
     name 'Zeichen Alt'
     homepage 'http://www.dafont.com/zeichen-alt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zeichen Dreihundert Alt.ttf'
     font 'Zeichen Hundert Alt.ttf'

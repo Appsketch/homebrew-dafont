@@ -5,7 +5,6 @@ cask 'dafont-script-soft' do
     url 'http://dl.dafont.com/dl/?f=script_soft'
     name 'Script Soft'
     homepage 'http://www.dafont.com/script-soft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'script soft normal.ttf'
 end

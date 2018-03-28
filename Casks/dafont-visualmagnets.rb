@@ -5,7 +5,6 @@ cask 'dafont-visualmagnets' do
     url 'http://dl.dafont.com/dl/?f=visualmagnets'
     name 'Visual Magnets'
     homepage 'http://www.dafont.com/visualmagnets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VisualMagnets.ttf'
 end

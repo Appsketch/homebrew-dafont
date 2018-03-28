@@ -5,7 +5,6 @@ cask 'dafont-affection-ldr' do
     url 'http://dl.dafont.com/dl/?f=affection_ldr'
     name 'Affection LDR'
     homepage 'http://www.dafont.com/affection-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'affection_ldr.ttf'
     font 'insane_affection_ldr.ttf'

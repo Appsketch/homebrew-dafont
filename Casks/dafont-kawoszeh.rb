@@ -5,7 +5,6 @@ cask 'dafont-kawoszeh' do
     url 'http://dl.dafont.com/dl/?f=kawoszeh'
     name 'Kawoszeh'
     homepage 'http://www.dafont.com/kawoszeh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kawoszeh.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-marigold-wild' do
     url 'http://dl.dafont.com/dl/?f=marigold_wild'
     name 'Marigold Wild'
     homepage 'http://www.dafont.com/marigold-wild.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'marigoldwild.ttf'
 end

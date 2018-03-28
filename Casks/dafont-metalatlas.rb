@@ -5,7 +5,6 @@ cask 'dafont-metalatlas' do
     url 'http://dl.dafont.com/dl/?f=metalatlas'
     name 'Metal Atlas'
     homepage 'http://www.dafont.com/metalatlas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MetalAtlas.ttf'
 end

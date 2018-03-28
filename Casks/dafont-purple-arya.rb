@@ -5,7 +5,6 @@ cask 'dafont-purple-arya' do
     url 'http://dl.dafont.com/dl/?f=purple_arya'
     name 'Purple Arya'
     homepage 'http://www.dafont.com/purple-arya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Purple_Arya.ttf'
 end

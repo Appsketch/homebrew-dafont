@@ -5,7 +5,6 @@ cask 'dafont-chanfrada' do
     url 'http://dl.dafont.com/dl/?f=chanfrada'
     name 'Chanfrada'
     homepage 'http://www.dafont.com/chanfrada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chanfrada.ttf'
 end

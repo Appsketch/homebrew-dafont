@@ -5,7 +5,6 @@ cask 'dafont-12ounces' do
     url 'http://dl.dafont.com/dl/?f=12ounces'
     name '12 Ounces'
     homepage 'http://www.dafont.com/12ounces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '12Ounces.ttf'
 end

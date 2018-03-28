@@ -5,7 +5,6 @@ cask 'dafont-dk-pimpernel' do
     url 'http://dl.dafont.com/dl/?f=dk_pimpernel'
     name 'DK Pimpernel'
     homepage 'http://www.dafont.com/dk-pimpernel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Pimpernel.otf'
 end

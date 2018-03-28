@@ -5,7 +5,6 @@ cask 'dafont-braillefont' do
     url 'http://dl.dafont.com/dl/?f=braillefont'
     name 'Braillefont'
     homepage 'http://www.dafont.com/braillefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Braillefont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vtks-animal-2' do
     url 'http://dl.dafont.com/dl/?f=vtks_animal_2'
     name 'Vtks Animal 2'
     homepage 'http://www.dafont.com/vtks-animal-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS ANIMAL 2.ttf'
 end

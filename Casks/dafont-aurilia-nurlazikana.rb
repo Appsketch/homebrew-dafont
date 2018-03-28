@@ -5,7 +5,6 @@ cask 'dafont-aurilia-nurlazikana' do
     url 'http://dl.dafont.com/dl/?f=aurilia_nurlazikana'
     name 'Aurilia Nurlazikana'
     homepage 'http://www.dafont.com/aurilia-nurlazikana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AURILIA NURLAZIKANA.ttf'
 end

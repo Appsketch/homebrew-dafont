@@ -5,7 +5,6 @@ cask 'dafont-airline-logos-past' do
     url 'http://dl.dafont.com/dl/?f=airline_logos_past'
     name 'Airline Logos Past and Present'
     homepage 'http://www.dafont.com/airline-logos-past.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Airline Logos.ttf'
 end

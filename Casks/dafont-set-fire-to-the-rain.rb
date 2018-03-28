@@ -5,7 +5,6 @@ cask 'dafont-set-fire-to-the-rain' do
     url 'http://dl.dafont.com/dl/?f=set_fire_to_the_rain'
     name 'Set Fire to the Rain'
     homepage 'http://www.dafont.com/set-fire-to-the-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SetFireToTheRain.ttf'
 end

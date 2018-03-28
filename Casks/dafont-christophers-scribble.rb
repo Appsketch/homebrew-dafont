@@ -5,7 +5,6 @@ cask 'dafont-christophers-scribble' do
     url 'http://dl.dafont.com/dl/?f=christophers_scribble'
     name 'Christopher&#039;s Scribble'
     homepage 'http://www.dafont.com/christophers-scribble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Christopher&#039;s Scribble.otf'
 end

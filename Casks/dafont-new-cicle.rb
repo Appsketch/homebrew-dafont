@@ -5,7 +5,6 @@ cask 'dafont-new-cicle' do
     url 'http://dl.dafont.com/dl/?f=new_cicle'
     name 'New Cicle'
     homepage 'http://www.dafont.com/new-cicle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New Cicle Fina Italic.ttf'
     font 'New Cicle Fina.ttf'

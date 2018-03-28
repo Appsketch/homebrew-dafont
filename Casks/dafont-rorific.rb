@@ -5,7 +5,6 @@ cask 'dafont-rorific' do
     url 'http://dl.dafont.com/dl/?f=rorific'
     name 'Rorific'
     homepage 'http://www.dafont.com/rorific.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rorific.ttf'
 end

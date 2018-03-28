@@ -5,7 +5,6 @@ cask 'dafont-old-cave' do
     url 'http://dl.dafont.com/dl/?f=old_cave'
     name 'Old Cave'
     homepage 'http://www.dafont.com/old-cave.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old Cave.otf'
 end

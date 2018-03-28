@@ -5,7 +5,6 @@ cask 'dafont-luxurious-sexy' do
     url 'http://dl.dafont.com/dl/?f=luxurious_sexy'
     name 'Luxurious Sexy'
     homepage 'http://www.dafont.com/luxurious-sexy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'luxurious sexy.ttf'
 end

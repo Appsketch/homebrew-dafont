@@ -5,7 +5,6 @@ cask 'dafont-qube' do
     url 'http://dl.dafont.com/dl/?f=qube'
     name 'Qube'
     homepage 'http://www.dafont.com/qube.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Qube.ttf'
 end

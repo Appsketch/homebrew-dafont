@@ -5,7 +5,6 @@ cask 'dafont-bn-intaglios' do
     url 'http://dl.dafont.com/dl/?f=bn_intaglios'
     name 'BN Intaglios'
     homepage 'http://www.dafont.com/bn-intaglios.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Intaglios.ttf'
 end

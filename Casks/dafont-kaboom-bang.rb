@@ -5,7 +5,6 @@ cask 'dafont-kaboom-bang' do
     url 'http://dl.dafont.com/dl/?f=kaboom_bang'
     name 'Kaboom &amp; Bang'
     homepage 'http://www.dafont.com/kaboom-bang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kaboom&amp;Bang$.ttf'
 end

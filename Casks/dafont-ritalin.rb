@@ -5,7 +5,6 @@ cask 'dafont-ritalin' do
     url 'http://dl.dafont.com/dl/?f=ritalin'
     name 'Ritalin'
     homepage 'http://www.dafont.com/ritalin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RITABD__.ttf'
     font 'RITAEXB_.ttf'

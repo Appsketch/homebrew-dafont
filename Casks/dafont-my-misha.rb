@@ -5,7 +5,6 @@ cask 'dafont-my-misha' do
     url 'http://dl.dafont.com/dl/?f=my_misha'
     name 'My Misha'
     homepage 'http://www.dafont.com/my-misha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'my_misha.ttf'
 end

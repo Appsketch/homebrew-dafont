@@ -5,7 +5,6 @@ cask 'dafont-ormont' do
     url 'http://dl.dafont.com/dl/?f=ormont'
     name 'Ormont'
     homepage 'http://www.dafont.com/ormont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ormont_Light.otf'
     font 'Ormont_Outline.otf'

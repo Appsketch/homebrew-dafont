@@ -5,7 +5,6 @@ cask 'dafont-walshes' do
     url 'http://dl.dafont.com/dl/?f=walshes'
     name 'Walshes'
     homepage 'http://www.dafont.com/walshes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'walshes.ttf'
 end

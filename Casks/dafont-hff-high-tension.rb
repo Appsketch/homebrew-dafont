@@ -5,7 +5,6 @@ cask 'dafont-hff-high-tension' do
     url 'http://dl.dafont.com/dl/?f=hff_high_tension'
     name 'HFF High Tension'
     homepage 'http://www.dafont.com/hff-high-tension.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF High Tension.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-motherland' do
     url 'http://dl.dafont.com/dl/?f=motherland'
     name 'Motherland'
     homepage 'http://www.dafont.com/motherland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'motherland.ttf'
 end

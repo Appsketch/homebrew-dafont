@@ -5,7 +5,6 @@ cask 'dafont-coggers-tariqa' do
     url 'http://dl.dafont.com/dl/?f=coggers_tariqa'
     name 'Coggers Tariqa'
     homepage 'http://www.dafont.com/coggers-tariqa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CoggersTariqa.ttf'
 end

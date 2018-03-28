@@ -5,7 +5,6 @@ cask 'dafont-allo-tas-pas-de-shampoing' do
     url 'http://dl.dafont.com/dl/?f=allo_tas_pas_de_shampoing'
     name 'Allo t&#039;as pas de shampoing'
     homepage 'http://www.dafont.com/allo-tas-pas-de-shampoing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'allo t&#039;as pas de shampoing.ttf'
 end

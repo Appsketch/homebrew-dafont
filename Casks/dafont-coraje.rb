@@ -5,7 +5,6 @@ cask 'dafont-coraje' do
     url 'http://dl.dafont.com/dl/?f=coraje'
     name 'Coraje Leve'
     homepage 'http://www.dafont.com/coraje.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'coraje_leve.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cuddlebugs' do
     url 'http://dl.dafont.com/dl/?f=cuddlebugs'
     name 'Cuddlebugs'
     homepage 'http://www.dafont.com/cuddlebugs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cuddlebugs bug.ttf'
     font 'cuddlebugs.ttf'

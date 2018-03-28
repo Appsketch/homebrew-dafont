@@ -5,7 +5,6 @@ cask 'dafont-worthwhile' do
     url 'http://dl.dafont.com/dl/?f=worthwhile'
     name 'Worthwhile'
     homepage 'http://www.dafont.com/worthwhile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Worthwhile.otf'
 end

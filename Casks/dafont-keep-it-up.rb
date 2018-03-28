@@ -5,7 +5,6 @@ cask 'dafont-keep-it-up' do
     url 'http://dl.dafont.com/dl/?f=keep_it_up'
     name 'Keep It Up'
     homepage 'http://www.dafont.com/keep-it-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Keep It Up.ttf'
 end

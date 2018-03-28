@@ -5,7 +5,6 @@ cask 'dafont-10lil-ghosts' do
     url 'http://dl.dafont.com/dl/?f=10lil_ghosts'
     name 'FE 10 Lil Ghosts'
     homepage 'http://www.dafont.com/10lil-ghosts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE 10 Lil Ghosts.otf'
 end

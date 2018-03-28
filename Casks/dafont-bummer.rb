@@ -5,7 +5,6 @@ cask 'dafont-bummer' do
     url 'http://dl.dafont.com/dl/?f=bummer'
     name 'Bummer'
     homepage 'http://www.dafont.com/bummer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bummer.ttf'
     font 'bummer3d.ttf'

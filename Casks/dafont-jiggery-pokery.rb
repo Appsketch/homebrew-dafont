@@ -5,7 +5,6 @@ cask 'dafont-jiggery-pokery' do
     url 'http://dl.dafont.com/dl/?f=jiggery_pokery'
     name 'Jiggery Pokery'
     homepage 'http://www.dafont.com/jiggery-pokery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JIGGERYPOKERY.TTF'
 end

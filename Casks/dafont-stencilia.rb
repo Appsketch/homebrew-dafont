@@ -5,7 +5,6 @@ cask 'dafont-stencilia' do
     url 'http://dl.dafont.com/dl/?f=stencilia'
     name 'Stencilia'
     homepage 'http://www.dafont.com/stencilia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stencilia-A.ttf'
     font 'Stencilia-Bold.ttf'

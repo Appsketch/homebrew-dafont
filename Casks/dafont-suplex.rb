@@ -5,7 +5,6 @@ cask 'dafont-suplex' do
     url 'http://dl.dafont.com/dl/?f=suplex'
     name 'Suplex'
     homepage 'http://www.dafont.com/suplex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPLEX__.TTF'
 end

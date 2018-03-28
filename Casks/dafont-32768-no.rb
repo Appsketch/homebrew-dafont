@@ -5,7 +5,6 @@ cask 'dafont-32768-no' do
     url 'http://dl.dafont.com/dl/?f=32768_no'
     name '32768 NO'
     homepage 'http://www.dafont.com/32768-no.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '32768no.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-art-icons-and-tools' do
     url 'http://dl.dafont.com/dl/?f=art_icons_and_tools'
     name 'Art Icons and Tools'
     homepage 'http://www.dafont.com/art-icons-and-tools.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Art Icons and Tools.ttf'
 end

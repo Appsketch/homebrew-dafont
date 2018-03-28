@@ -5,7 +5,6 @@ cask 'dafont-gabbishandwriting' do
     url 'http://dl.dafont.com/dl/?f=gabbishandwriting'
     name 'Gabbi&#039;s Handwriting'
     homepage 'http://www.dafont.com/gabbishandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gabbi-&#039;s handwriting.ttf'
 end

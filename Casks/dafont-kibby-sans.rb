@@ -5,7 +5,6 @@ cask 'dafont-kibby-sans' do
     url 'http://dl.dafont.com/dl/?f=kibby_sans'
     name 'Kibby Sans'
     homepage 'http://www.dafont.com/kibby-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kibby_sans.ttf'
 end

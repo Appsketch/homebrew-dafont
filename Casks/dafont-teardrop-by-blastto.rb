@@ -5,7 +5,6 @@ cask 'dafont-teardrop-by-blastto' do
     url 'http://dl.dafont.com/dl/?f=teardrop_by_blastto'
     name 'Teardrop'
     homepage 'http://www.dafont.com/teardrop-by-blastto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'teardrop by Blastto.ttf'
 end

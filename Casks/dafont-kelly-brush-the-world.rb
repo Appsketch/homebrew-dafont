@@ -5,7 +5,6 @@ cask 'dafont-kelly-brush-the-world' do
     url 'http://dl.dafont.com/dl/?f=kelly_brush_the_world'
     name 'Kelly Brush The World'
     homepage 'http://www.dafont.com/kelly-brush-the-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kelly brush.ttf'
 end

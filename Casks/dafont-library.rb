@@ -5,7 +5,6 @@ cask 'dafont-library' do
     url 'http://dl.dafont.com/dl/?f=library'
     name 'Library'
     homepage 'http://www.dafont.com/library.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Library.ttf'
 end

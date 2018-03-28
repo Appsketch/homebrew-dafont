@@ -5,7 +5,6 @@ cask 'dafont-senseless' do
     url 'http://dl.dafont.com/dl/?f=senseless'
     name 'Senseless'
     homepage 'http://www.dafont.com/senseless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Senseless.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mudshovel' do
     url 'http://dl.dafont.com/dl/?f=mudshovel'
     name 'Mudshovel'
     homepage 'http://www.dafont.com/mudshovel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MUDSHOVE.TTF'
 end

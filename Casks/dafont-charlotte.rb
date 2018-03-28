@@ -5,7 +5,6 @@ cask 'dafont-charlotte' do
     url 'http://dl.dafont.com/dl/?f=charlotte'
     name 'Charlotte'
     homepage 'http://www.dafont.com/charlotte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'charlotte.ttf'
 end

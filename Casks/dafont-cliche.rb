@@ -5,7 +5,6 @@ cask 'dafont-cliche' do
     url 'http://dl.dafont.com/dl/?f=cliche'
     name 'Cliche'
     homepage 'http://www.dafont.com/cliche.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cliche-Regular.otf'
 end

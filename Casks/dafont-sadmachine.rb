@@ -5,7 +5,6 @@ cask 'dafont-sadmachine' do
     url 'http://dl.dafont.com/dl/?f=sadmachine'
     name 'SadMachine'
     homepage 'http://www.dafont.com/sadmachine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SadMachine.ttf'
 end

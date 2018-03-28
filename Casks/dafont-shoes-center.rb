@@ -5,7 +5,6 @@ cask 'dafont-shoes-center' do
     url 'http://dl.dafont.com/dl/?f=shoes_center'
     name 'Shoes Center'
     homepage 'http://www.dafont.com/shoes-center.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shoes center.ttf'
 end

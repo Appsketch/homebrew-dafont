@@ -5,7 +5,6 @@ cask 'dafont-cindyyobold' do
     url 'http://dl.dafont.com/dl/?f=cindyyobold'
     name 'Cindyyo Bold'
     homepage 'http://www.dafont.com/cindyyobold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CindyyoBold.ttf'
 end

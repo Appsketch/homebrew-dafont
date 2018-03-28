@@ -5,7 +5,6 @@ cask 'dafont-counter-flipper' do
     url 'http://dl.dafont.com/dl/?f=counter_flipper'
     name 'Counter Flipper'
     homepage 'http://www.dafont.com/counter-flipper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flipper_Font_New.ttf'
 end

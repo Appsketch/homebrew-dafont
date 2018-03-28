@@ -5,7 +5,6 @@ cask 'dafont-tet-de-mor' do
     url 'http://dl.dafont.com/dl/?f=tet_de_mor'
     name 'Tet de mor'
     homepage 'http://www.dafont.com/tet-de-mor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tet de mor.ttf'
 end

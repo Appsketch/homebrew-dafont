@@ -5,7 +5,6 @@ cask 'dafont-dimestore-hooker' do
     url 'http://dl.dafont.com/dl/?f=dimestore_hooker'
     name 'Dimestore Hooker'
     homepage 'http://www.dafont.com/dimestore-hooker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIMEH___.TTF'
 end

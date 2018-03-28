@@ -5,7 +5,6 @@ cask 'dafont-why-so-serious' do
     url 'http://dl.dafont.com/dl/?f=why_so_serious'
     name 'Why so serious'
     homepage 'http://www.dafont.com/why-so-serious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'whysoserious.ttf'
 end

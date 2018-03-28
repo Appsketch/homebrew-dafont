@@ -5,7 +5,6 @@ cask 'dafont-nostalgic' do
     url 'http://dl.dafont.com/dl/?f=nostalgic'
     name 'Nostalgic'
     homepage 'http://www.dafont.com/nostalgic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nostalgic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-paulklein' do
     url 'http://dl.dafont.com/dl/?f=paulklein'
     name 'Paul Klein'
     homepage 'http://www.dafont.com/paulklein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaulKlein.ttf'
     font 'PaulKleinTwo.ttf'

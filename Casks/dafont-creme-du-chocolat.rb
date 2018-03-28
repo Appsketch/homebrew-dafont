@@ -5,7 +5,6 @@ cask 'dafont-creme-du-chocolat' do
     url 'http://dl.dafont.com/dl/?f=creme_du_chocolat'
     name 'Creme du Chocolat'
     homepage 'http://www.dafont.com/creme-du-chocolat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cremeduchocolat.ttf'
 end

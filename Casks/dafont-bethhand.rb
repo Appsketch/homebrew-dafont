@@ -5,7 +5,6 @@ cask 'dafont-bethhand' do
     url 'http://dl.dafont.com/dl/?f=bethhand'
     name 'Beth Hand'
     homepage 'http://www.dafont.com/bethhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bethhrg_.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-promenadenmischung' do
     url 'http://dl.dafont.com/dl/?f=promenadenmischung'
     name 'Promenadenmischung'
     homepage 'http://www.dafont.com/promenadenmischung.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Promenadenmischung.ttf'
 end

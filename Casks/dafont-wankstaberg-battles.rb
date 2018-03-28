@@ -5,7 +5,6 @@ cask 'dafont-wankstaberg-battles' do
     url 'http://dl.dafont.com/dl/?f=wankstaberg_battles'
     name 'Wankstaberg Battles'
     homepage 'http://www.dafont.com/wankstaberg-battles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WankstabergBattles.ttf'
 end

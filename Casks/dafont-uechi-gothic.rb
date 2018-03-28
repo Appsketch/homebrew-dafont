@@ -5,7 +5,6 @@ cask 'dafont-uechi-gothic' do
     url 'http://dl.dafont.com/dl/?f=uechi_gothic'
     name 'Uechi Gothic'
     homepage 'http://www.dafont.com/uechi-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UECHIGOT.TTF'
 end

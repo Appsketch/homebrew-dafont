@@ -5,7 +5,6 @@ cask 'dafont-not-tuned-tv' do
     url 'http://dl.dafont.com/dl/?f=not_tuned_tv'
     name 'Not Tuned TV'
     homepage 'http://www.dafont.com/not-tuned-tv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Not Tuned TV.ttf'
 end

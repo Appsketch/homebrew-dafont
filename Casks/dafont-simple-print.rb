@@ -5,7 +5,6 @@ cask 'dafont-simple-print' do
     url 'http://dl.dafont.com/dl/?f=simple_print'
     name 'Simple Print'
     homepage 'http://www.dafont.com/simple-print.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simple Print.ttf'
 end

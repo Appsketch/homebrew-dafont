@@ -5,7 +5,6 @@ cask 'dafont-futurism-light' do
     url 'http://dl.dafont.com/dl/?f=futurism_light'
     name 'Futurism'
     homepage 'http://www.dafont.com/futurism-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'futurism.ttf'
 end

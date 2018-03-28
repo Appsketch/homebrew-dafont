@@ -5,7 +5,6 @@ cask 'dafont-seans-other-hand' do
     url 'http://dl.dafont.com/dl/?f=seans_other_hand'
     name 'Seans Other Hand'
     homepage 'http://www.dafont.com/seans-other-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SeanHand.ttf'
 end

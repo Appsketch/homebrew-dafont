@@ -5,7 +5,6 @@ cask 'dafont-header-ornament' do
     url 'http://dl.dafont.com/dl/?f=header_ornament'
     name 'Header Ornament'
     homepage 'http://www.dafont.com/header-ornament.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeaderOrnament.ttf'
 end

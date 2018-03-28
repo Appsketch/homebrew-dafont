@@ -5,7 +5,6 @@ cask 'dafont-zelda-dx' do
     url 'http://dl.dafont.com/dl/?f=zelda_dx'
     name 'Zelda DX'
     homepage 'http://www.dafont.com/zelda-dx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zeldadxt.ttf'
 end

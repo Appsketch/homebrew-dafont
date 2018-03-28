@@ -5,7 +5,6 @@ cask 'dafont-commy' do
     url 'http://dl.dafont.com/dl/?f=commy'
     name 'Commy'
     homepage 'http://www.dafont.com/commy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Commy.ttf'
 end

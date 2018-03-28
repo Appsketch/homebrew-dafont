@@ -5,7 +5,6 @@ cask 'dafont-brett-and-beer' do
     url 'http://dl.dafont.com/dl/?f=brett_and_beer'
     name 'Brett and Beer'
     homepage 'http://www.dafont.com/brett-and-beer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brett and Beer.ttf'
 end

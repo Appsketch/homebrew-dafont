@@ -5,7 +5,6 @@ cask 'dafont-kg-sunny-afternoon' do
     url 'http://dl.dafont.com/dl/?f=kg_sunny_afternoon'
     name 'KG Sunny Afternoon'
     homepage 'http://www.dafont.com/kg-sunny-afternoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGSunnyAfternoon.ttf'
 end

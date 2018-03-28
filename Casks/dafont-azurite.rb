@@ -5,7 +5,6 @@ cask 'dafont-azurite' do
     url 'http://dl.dafont.com/dl/?f=azurite'
     name 'Azurite'
     homepage 'http://www.dafont.com/azurite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Azurite.ttf'
 end

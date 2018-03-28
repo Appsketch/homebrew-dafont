@@ -5,7 +5,6 @@ cask 'dafont-the-urban-way' do
     url 'http://dl.dafont.com/dl/?f=the_urban_way'
     name 'The Urban Way'
     homepage 'http://www.dafont.com/the-urban-way.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Urban Way Hollow.ttf'
     font 'The Urban Way Italic.ttf'

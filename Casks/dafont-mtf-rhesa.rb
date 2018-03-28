@@ -5,7 +5,6 @@ cask 'dafont-mtf-rhesa' do
     url 'http://dl.dafont.com/dl/?f=mtf_rhesa'
     name 'MTF Rhesa'
     homepage 'http://www.dafont.com/mtf-rhesa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Rhesa.ttf'
 end

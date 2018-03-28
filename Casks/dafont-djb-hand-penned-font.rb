@@ -5,7 +5,6 @@ cask 'dafont-djb-hand-penned-font' do
     url 'http://dl.dafont.com/dl/?f=djb_hand_penned_font'
     name 'DJB Hand Penned Font'
     homepage 'http://www.dafont.com/djb-hand-penned-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Hand Penned Font.ttf'
 end

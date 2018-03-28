@@ -5,7 +5,6 @@ cask 'dafont-bitnanov33' do
     url 'http://dl.dafont.com/dl/?f=bitnanov33'
     name 'BitNanov33'
     homepage 'http://www.dafont.com/bitnanov33.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BitNano v3 3.ttf'
 end

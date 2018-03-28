@@ -5,7 +5,6 @@ cask 'dafont-zev' do
     url 'http://dl.dafont.com/dl/?f=zev'
     name 'Zev'
     homepage 'http://www.dafont.com/zev.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zev.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-keetano-katana' do
     url 'http://dl.dafont.com/dl/?f=keetano_katana'
     name 'Keetano Katana'
     homepage 'http://www.dafont.com/keetano-katana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'keetano_katana_killbill.ttf'
     font 'keetano_katana.ttf'

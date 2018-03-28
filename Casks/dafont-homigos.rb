@@ -5,7 +5,6 @@ cask 'dafont-homigos' do
     url 'http://dl.dafont.com/dl/?f=homigos'
     name 'Homigos'
     homepage 'http://www.dafont.com/homigos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HOMIGOS.ttf'
 end

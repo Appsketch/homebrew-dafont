@@ -5,7 +5,6 @@ cask 'dafont-cake-frosting' do
     url 'http://dl.dafont.com/dl/?f=cake_frosting'
     name 'Cake Frosting'
     homepage 'http://www.dafont.com/cake-frosting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CakeFrostingDecorative.ttf'
 end

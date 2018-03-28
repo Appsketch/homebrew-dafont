@@ -5,7 +5,6 @@ cask 'dafont-vtc-goblin-hand' do
     url 'http://dl.dafont.com/dl/?f=vtc_goblin_hand'
     name 'VTC Goblin Hand'
     homepage 'http://www.dafont.com/vtc-goblin-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTCGoblinHand.ttf'
     font 'VTCGoblinHandBold.ttf'

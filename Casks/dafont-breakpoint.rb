@@ -5,7 +5,6 @@ cask 'dafont-breakpoint' do
     url 'http://dl.dafont.com/dl/?f=breakpoint'
     name 'Break Point'
     homepage 'http://www.dafont.com/breakpoint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BreakPoint.ttf'
 end

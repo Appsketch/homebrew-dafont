@@ -5,7 +5,6 @@ cask 'dafont-libre' do
     url 'http://dl.dafont.com/dl/?f=libre'
     name 'Libre'
     homepage 'http://www.dafont.com/libre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mido_igual.ttf'
 end

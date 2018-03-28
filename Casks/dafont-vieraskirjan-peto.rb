@@ -5,7 +5,6 @@ cask 'dafont-vieraskirjan-peto' do
     url 'http://dl.dafont.com/dl/?f=vieraskirjan_peto'
     name 'Vieraskirjan Peto'
     homepage 'http://www.dafont.com/vieraskirjan-peto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vieraskirjanpeto.ttf'
 end

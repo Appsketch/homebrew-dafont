@@ -5,7 +5,6 @@ cask 'dafont-maxsdreamland' do
     url 'http://dl.dafont.com/dl/?f=maxsdreamland'
     name 'Maxs Dreamland'
     homepage 'http://www.dafont.com/maxsdreamland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MaxsDreamland.ttf'
 end

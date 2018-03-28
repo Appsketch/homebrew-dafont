@@ -5,7 +5,6 @@ cask 'dafont-resistance-until-the-end' do
     url 'http://dl.dafont.com/dl/?f=resistance_until_the_end'
     name 'Resistance Until The End'
     homepage 'http://www.dafont.com/resistance-until-the-end.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Resistance Until The End.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-by-the-throat' do
     url 'http://dl.dafont.com/dl/?f=by_the_throat'
     name 'By The Throat'
     homepage 'http://www.dafont.com/by-the-throat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ByTheThroat-DEMO.ttf'
 end

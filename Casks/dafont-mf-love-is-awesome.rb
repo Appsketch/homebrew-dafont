@@ -5,7 +5,6 @@ cask 'dafont-mf-love-is-awesome' do
     url 'http://dl.dafont.com/dl/?f=mf_love_is_awesome'
     name 'Mf Love Is Awesome'
     homepage 'http://www.dafont.com/mf-love-is-awesome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Love Is Awesome 2.ttf'
     font 'Mf Love Is Awesome.ttf'

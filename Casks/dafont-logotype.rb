@@ -5,7 +5,6 @@ cask 'dafont-logotype' do
     url 'http://dl.dafont.com/dl/?f=logotype'
     name 'Logotype'
     homepage 'http://www.dafont.com/logotype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'logotype.ttf'
 end

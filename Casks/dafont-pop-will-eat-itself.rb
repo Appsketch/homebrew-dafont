@@ -5,7 +5,6 @@ cask 'dafont-pop-will-eat-itself' do
     url 'http://dl.dafont.com/dl/?f=pop_will_eat_itself'
     name 'Pop Will Eat Itself'
     homepage 'http://www.dafont.com/pop-will-eat-itself.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POPWEI__.TTF'
 end

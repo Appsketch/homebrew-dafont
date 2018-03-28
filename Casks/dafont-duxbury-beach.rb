@@ -5,7 +5,6 @@ cask 'dafont-duxbury-beach' do
     url 'http://dl.dafont.com/dl/?f=duxbury_beach'
     name 'Duxbury Beach'
     homepage 'http://www.dafont.com/duxbury-beach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Duxbury Beach.ttf'
 end

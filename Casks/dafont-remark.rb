@@ -5,7 +5,6 @@ cask 'dafont-remark' do
     url 'http://dl.dafont.com/dl/?f=remark'
     name 'Remark'
     homepage 'http://www.dafont.com/remark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REMARK.ttf'
 end

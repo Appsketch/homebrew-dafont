@@ -5,7 +5,6 @@ cask 'dafont-face-of-yesterday' do
     url 'http://dl.dafont.com/dl/?f=face_of_yesterday'
     name 'Face of Yesterday'
     homepage 'http://www.dafont.com/face-of-yesterday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Face of Yesterday.ttf'
 end

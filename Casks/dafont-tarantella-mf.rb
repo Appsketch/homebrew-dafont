@@ -5,7 +5,6 @@ cask 'dafont-tarantella-mf' do
     url 'http://dl.dafont.com/dl/?f=tarantella_mf'
     name 'Tarantella MF'
     homepage 'http://www.dafont.com/tarantella-mf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tarantella MF.ttf'
 end

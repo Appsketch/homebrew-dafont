@@ -5,7 +5,6 @@ cask 'dafont-betsy-flanagan' do
     url 'http://dl.dafont.com/dl/?f=betsy_flanagan'
     name 'Betsy Flanagan'
     homepage 'http://www.dafont.com/betsy-flanagan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'betsy flanagan 2.ttf'
     font 'betsy flanagan.ttf'

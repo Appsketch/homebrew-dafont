@@ -5,7 +5,6 @@ cask 'dafont-easybricks' do
     url 'http://dl.dafont.com/dl/?f=easybricks'
     name 'Easy Bricks'
     homepage 'http://www.dafont.com/easybricks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EasyBricks.ttf'
 end

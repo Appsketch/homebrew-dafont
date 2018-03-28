@@ -5,7 +5,6 @@ cask 'dafont-johanna-biais' do
     url 'http://dl.dafont.com/dl/?f=johanna_biais'
     name 'Johanna'
     homepage 'http://www.dafont.com/johanna-biais.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Johanna Italic.ttf'
     font 'Johanna.ttf'

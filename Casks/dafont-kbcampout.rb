@@ -5,7 +5,6 @@ cask 'dafont-kbcampout' do
     url 'http://dl.dafont.com/dl/?f=kbcampout'
     name 'KB Camp Out'
     homepage 'http://www.dafont.com/kbcampout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBCampOut.ttf'
 end

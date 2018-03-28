@@ -5,7 +5,6 @@ cask 'dafont-kbwarmherup' do
     url 'http://dl.dafont.com/dl/?f=kbwarmherup'
     name 'KB Warm Her Up'
     homepage 'http://www.dafont.com/kbwarmherup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBWarmHerUp.ttf'
 end

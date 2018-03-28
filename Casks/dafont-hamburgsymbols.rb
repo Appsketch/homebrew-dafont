@@ -5,7 +5,6 @@ cask 'dafont-hamburgsymbols' do
     url 'http://dl.dafont.com/dl/?f=hamburgsymbols'
     name 'HamburgSymbols'
     homepage 'http://www.dafont.com/hamburgsymbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HamburgSymbols.ttf'
 end

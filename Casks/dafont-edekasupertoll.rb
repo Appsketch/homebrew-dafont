@@ -5,7 +5,6 @@ cask 'dafont-edekasupertoll' do
     url 'http://dl.dafont.com/dl/?f=edekasupertoll'
     name 'Edeka Supertoll'
     homepage 'http://www.dafont.com/edekasupertoll.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EdekaSupertoll.ttf'
 end

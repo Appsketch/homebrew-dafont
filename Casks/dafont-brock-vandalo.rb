@@ -5,7 +5,6 @@ cask 'dafont-brock-vandalo' do
     url 'http://dl.dafont.com/dl/?f=brock_vandalo'
     name 'Brock Vandalo'
     homepage 'http://www.dafont.com/brock-vandalo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brock Vandalo.ttf'
 end

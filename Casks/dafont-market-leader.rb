@@ -5,7 +5,6 @@ cask 'dafont-market-leader' do
     url 'http://dl.dafont.com/dl/?f=market_leader'
     name 'Market Leader'
     homepage 'http://www.dafont.com/market-leader.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Market Leader.ttf'
 end

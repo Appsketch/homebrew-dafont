@@ -5,7 +5,6 @@ cask 'dafont-kobarapi' do
     url 'http://dl.dafont.com/dl/?f=kobarapi'
     name 'Kobarapi'
     homepage 'http://www.dafont.com/kobarapi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kobarapi.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sl-drops-of-moonlig' do
     url 'http://dl.dafont.com/dl/?f=sl_drops_of_moonlig'
     name 'SL Drops Of Moonlight'
     homepage 'http://www.dafont.com/sl-drops-of-moonlig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SL_DROPSOM.ttf'
 end

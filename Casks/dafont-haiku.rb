@@ -5,7 +5,6 @@ cask 'dafont-haiku' do
     url 'http://dl.dafont.com/dl/?f=haiku'
     name 'Haiku'
     homepage 'http://www.dafont.com/haiku.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HAIKU___.TTF'
 end

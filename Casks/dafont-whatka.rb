@@ -5,7 +5,6 @@ cask 'dafont-whatka' do
     url 'http://dl.dafont.com/dl/?f=whatka'
     name 'Whatka'
     homepage 'http://www.dafont.com/whatka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Whatka!.ttf'
 end

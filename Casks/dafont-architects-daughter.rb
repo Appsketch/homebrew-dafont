@@ -5,7 +5,6 @@ cask 'dafont-architects-daughter' do
     url 'http://dl.dafont.com/dl/?f=architects_daughter'
     name 'Architect&#039;s Daughter'
     homepage 'http://www.dafont.com/architects-daughter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArchitectsDaughter.ttf'
 end

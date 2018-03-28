@@ -5,7 +5,6 @@ cask 'dafont-malgecito' do
     url 'http://dl.dafont.com/dl/?f=malgecito'
     name 'Malgecito'
     homepage 'http://www.dafont.com/malgecito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Malgecito.ttf'
 end

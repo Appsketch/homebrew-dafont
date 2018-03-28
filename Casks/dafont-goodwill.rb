@@ -5,7 +5,6 @@ cask 'dafont-goodwill' do
     url 'http://dl.dafont.com/dl/?f=goodwill'
     name 'Goodwill'
     homepage 'http://www.dafont.com/goodwill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Goodwill_Y2011_M10_D11.otf'
 end

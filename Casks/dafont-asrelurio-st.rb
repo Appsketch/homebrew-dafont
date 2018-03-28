@@ -5,7 +5,6 @@ cask 'dafont-asrelurio-st' do
     url 'http://dl.dafont.com/dl/?f=asrelurio_st'
     name 'Asrelurio ST'
     homepage 'http://www.dafont.com/asrelurio-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Asrelurio_st.ttf'
 end

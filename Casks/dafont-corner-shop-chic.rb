@@ -5,7 +5,6 @@ cask 'dafont-corner-shop-chic' do
     url 'http://dl.dafont.com/dl/?f=corner_shop_chic'
     name 'Corner Shop Chic'
     homepage 'http://www.dafont.com/corner-shop-chic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CornerShopChic.ttf'
 end

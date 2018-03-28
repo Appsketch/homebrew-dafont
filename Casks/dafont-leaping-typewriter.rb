@@ -5,7 +5,6 @@ cask 'dafont-leaping-typewriter' do
     url 'http://dl.dafont.com/dl/?f=leaping_typewriter'
     name 'Leaping Typewriter'
     homepage 'http://www.dafont.com/leaping-typewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'leaping typewriter .ttf'
 end

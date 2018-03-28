@@ -5,7 +5,6 @@ cask 'dafont-justifymylove' do
     url 'http://dl.dafont.com/dl/?f=justifymylove'
     name 'Justify My Love'
     homepage 'http://www.dafont.com/justifymylove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustifyMyLove.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-recycled-bit' do
     url 'http://dl.dafont.com/dl/?f=recycled_bit'
     name 'Recycled Bit'
     homepage 'http://www.dafont.com/recycled-bit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Recycled Bit.ttf'
 end

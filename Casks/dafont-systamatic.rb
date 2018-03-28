@@ -5,7 +5,6 @@ cask 'dafont-systamatic' do
     url 'http://dl.dafont.com/dl/?f=systamatic'
     name 'Systamatic'
     homepage 'http://www.dafont.com/systamatic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Systamatic.ttf'
 end

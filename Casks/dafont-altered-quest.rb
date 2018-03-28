@@ -5,7 +5,6 @@ cask 'dafont-altered-quest' do
     url 'http://dl.dafont.com/dl/?f=altered_quest'
     name 'Altered Quest'
     homepage 'http://www.dafont.com/altered-quest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Altered Quest.otf'
 end

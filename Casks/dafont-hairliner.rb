@@ -5,7 +5,6 @@ cask 'dafont-hairliner' do
     url 'http://dl.dafont.com/dl/?f=hairliner'
     name 'Hairliner'
     homepage 'http://www.dafont.com/hairliner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hairliner.otf'
 end

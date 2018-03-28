@@ -5,7 +5,6 @@ cask 'dafont-enduratize' do
     url 'http://dl.dafont.com/dl/?f=enduratize'
     name 'Enduratize'
     homepage 'http://www.dafont.com/enduratize.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Enduratize.ttf'
 end

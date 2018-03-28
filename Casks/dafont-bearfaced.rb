@@ -5,7 +5,6 @@ cask 'dafont-bearfaced' do
     url 'http://dl.dafont.com/dl/?f=bearfaced'
     name 'Bearfaced'
     homepage 'http://www.dafont.com/bearfaced.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '#bearfaced.otf'
 end

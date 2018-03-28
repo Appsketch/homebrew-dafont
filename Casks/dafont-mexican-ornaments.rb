@@ -5,7 +5,6 @@ cask 'dafont-mexican-ornaments' do
     url 'http://dl.dafont.com/dl/?f=mexican_ornaments'
     name 'Mexican Ornaments'
     homepage 'http://www.dafont.com/mexican-ornaments.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEXIO___.TTF'
 end

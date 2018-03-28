@@ -5,7 +5,6 @@ cask 'dafont-closure' do
     url 'http://dl.dafont.com/dl/?f=closure'
     name 'Closure'
     homepage 'http://www.dafont.com/closure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ClosureDEMO.ttf'
 end

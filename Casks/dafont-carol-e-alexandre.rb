@@ -5,7 +5,6 @@ cask 'dafont-carol-e-alexandre' do
     url 'http://dl.dafont.com/dl/?f=carol_e_alexandre'
     name 'Carol e Alexandre'
     homepage 'http://www.dafont.com/carol-e-alexandre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carol e Al.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-science-fiction' do
     url 'http://dl.dafont.com/dl/?f=science_fiction'
     name 'Science Fiction'
     homepage 'http://www.dafont.com/science-fiction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCIENCE FICTION.ttf'
 end

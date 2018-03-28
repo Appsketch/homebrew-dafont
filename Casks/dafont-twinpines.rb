@@ -5,7 +5,6 @@ cask 'dafont-twinpines' do
     url 'http://dl.dafont.com/dl/?f=twinpines'
     name 'Twinpines'
     homepage 'http://www.dafont.com/twinpines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TWINPINE.ttf'
 end

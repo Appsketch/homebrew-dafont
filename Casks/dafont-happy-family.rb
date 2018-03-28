@@ -5,7 +5,6 @@ cask 'dafont-happy-family' do
     url 'http://dl.dafont.com/dl/?f=happy_family'
     name 'Happy Family'
     homepage 'http://www.dafont.com/happy-family.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HAPPY trial___.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-onemiguel-shaded' do
     url 'http://dl.dafont.com/dl/?f=onemiguel_shaded'
     name 'One Miguel Shaded'
     homepage 'http://www.dafont.com/onemiguel-shaded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OneMiguel Shaded.ttf'
 end

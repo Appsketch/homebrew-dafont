@@ -5,7 +5,6 @@ cask 'dafont-diego-hands' do
     url 'http://dl.dafont.com/dl/?f=diego_hands'
     name 'Diego Hands'
     homepage 'http://www.dafont.com/diego-hands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diego Hands.ttf'
 end

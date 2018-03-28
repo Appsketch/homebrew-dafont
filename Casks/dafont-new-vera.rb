@@ -5,7 +5,6 @@ cask 'dafont-new-vera' do
     url 'http://dl.dafont.com/dl/?f=new_vera'
     name 'New Vera'
     homepage 'http://www.dafont.com/new-vera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New Vera.ttf'
 end

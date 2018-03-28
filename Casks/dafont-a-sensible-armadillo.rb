@@ -5,7 +5,6 @@ cask 'dafont-a-sensible-armadillo' do
     url 'http://dl.dafont.com/dl/?f=a_sensible_armadillo'
     name 'A Sensible Armadillo'
     homepage 'http://www.dafont.com/a-sensible-armadillo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A_Sensible_Armadillo.ttf'
 end

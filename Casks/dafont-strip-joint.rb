@@ -5,7 +5,6 @@ cask 'dafont-strip-joint' do
     url 'http://dl.dafont.com/dl/?f=strip_joint'
     name 'Strip Joint'
     homepage 'http://www.dafont.com/strip-joint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'strip joint.ttf'
 end

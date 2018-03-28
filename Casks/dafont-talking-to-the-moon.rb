@@ -5,7 +5,6 @@ cask 'dafont-talking-to-the-moon' do
     url 'http://dl.dafont.com/dl/?f=talking_to_the_moon'
     name 'Talking to the Moon'
     homepage 'http://www.dafont.com/talking-to-the-moon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TalkingToTheMoon.ttf'
 end

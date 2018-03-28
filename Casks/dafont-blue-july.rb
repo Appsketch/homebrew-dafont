@@ -5,7 +5,6 @@ cask 'dafont-blue-july' do
     url 'http://dl.dafont.com/dl/?f=blue_july'
     name 'Blue July'
     homepage 'http://www.dafont.com/blue-july.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bluejuly.ttf'
     font 'bluejuly3d.ttf'

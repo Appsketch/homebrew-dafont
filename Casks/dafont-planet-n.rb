@@ -5,7 +5,6 @@ cask 'dafont-planet-n' do
     url 'http://dl.dafont.com/dl/?f=planet_n'
     name 'Planet N'
     homepage 'http://www.dafont.com/planet-n.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'planetn3d.ttf'
     font 'planetn3dital.ttf'

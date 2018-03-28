@@ -5,7 +5,6 @@ cask 'dafont-chinchan' do
     url 'http://dl.dafont.com/dl/?f=chinchan'
     name 'ChinChan'
     homepage 'http://www.dafont.com/chinchan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChinChan.ttf'
 end

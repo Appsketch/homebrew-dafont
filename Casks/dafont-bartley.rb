@@ -5,7 +5,6 @@ cask 'dafont-bartley' do
     url 'http://dl.dafont.com/dl/?f=bartley'
     name 'Bartley'
     homepage 'http://www.dafont.com/bartley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bartley.ttf'
 end

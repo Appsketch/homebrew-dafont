@@ -5,7 +5,6 @@ cask 'dafont-authentic-hilton' do
     url 'http://dl.dafont.com/dl/?f=authentic_hilton'
     name 'Authentic Hilton'
     homepage 'http://www.dafont.com/authentic-hilton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Authentic Hilton.ttf'
 end

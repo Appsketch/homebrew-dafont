@@ -5,7 +5,6 @@ cask 'dafont-solgas' do
     url 'http://dl.dafont.com/dl/?f=solgas'
     name 'Solgas'
     homepage 'http://www.dafont.com/solgas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'solgas.ttf'
 end

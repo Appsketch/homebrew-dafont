@@ -5,7 +5,6 @@ cask 'dafont-bernardino' do
     url 'http://dl.dafont.com/dl/?f=bernardino'
     name 'Bernardino'
     homepage 'http://www.dafont.com/bernardino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BERNARDI.TTF'
 end

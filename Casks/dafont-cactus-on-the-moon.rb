@@ -5,7 +5,6 @@ cask 'dafont-cactus-on-the-moon' do
     url 'http://dl.dafont.com/dl/?f=cactus_on_the_moon'
     name 'Cactus On The Moon'
     homepage 'http://www.dafont.com/cactus-on-the-moon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cactus_on_the_moon.ttf'
 end

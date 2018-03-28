@@ -5,7 +5,6 @@ cask 'dafont-overload' do
     url 'http://dl.dafont.com/dl/?f=overload'
     name 'Overload'
     homepage 'http://www.dafont.com/overload.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'overload burn.ttf'
     font 'overload.ttf'

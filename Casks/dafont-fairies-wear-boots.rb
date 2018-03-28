@@ -5,7 +5,6 @@ cask 'dafont-fairies-wear-boots' do
     url 'http://dl.dafont.com/dl/?f=fairies_wear_boots'
     name 'Fairies Wear Boots'
     homepage 'http://www.dafont.com/fairies-wear-boots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TTF/Fairies Wear Boots.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cleavers-juvenia' do
     url 'http://dl.dafont.com/dl/?f=cleavers_juvenia'
     name 'Cleaver&#039;s Juvenia'
     homepage 'http://www.dafont.com/cleavers-juvenia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cleavers_Juvenia_Blocked.ttf'
     font 'Cleavers_Juvenia_Embossed.ttf'

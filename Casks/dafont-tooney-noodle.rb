@@ -5,7 +5,6 @@ cask 'dafont-tooney-noodle' do
     url 'http://dl.dafont.com/dl/?f=tooney_noodle'
     name 'Tooney Noodle'
     homepage 'http://www.dafont.com/tooney-noodle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOONEYNO.TTF'
 end

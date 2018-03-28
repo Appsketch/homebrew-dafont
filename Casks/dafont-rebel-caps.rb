@@ -5,7 +5,6 @@ cask 'dafont-rebel-caps' do
     url 'http://dl.dafont.com/dl/?f=rebel_caps'
     name 'Rebel Caps'
     homepage 'http://www.dafont.com/rebel-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rebel Caps_2010.ttf'
 end

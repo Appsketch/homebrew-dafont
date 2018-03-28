@@ -5,7 +5,6 @@ cask 'dafont-maquina-pneumatica' do
     url 'http://dl.dafont.com/dl/?f=maquina_pneumatica'
     name 'Maquina Pneumatica'
     homepage 'http://www.dafont.com/maquina-pneumatica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maquina Pneumatica.ttf'
 end

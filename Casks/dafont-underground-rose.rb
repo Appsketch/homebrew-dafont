@@ -5,7 +5,6 @@ cask 'dafont-underground-rose' do
     url 'http://dl.dafont.com/dl/?f=underground_rose'
     name 'Underground Rose'
     homepage 'http://www.dafont.com/underground-rose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'undergroundrose.ttf'
     font 'undergroundrose3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-serifadow' do
     url 'http://dl.dafont.com/dl/?f=serifadow'
     name 'Serifadow'
     homepage 'http://www.dafont.com/serifadow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Serifadow.ttf'
 end

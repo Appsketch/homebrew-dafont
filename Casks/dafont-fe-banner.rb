@@ -5,7 +5,6 @@ cask 'dafont-fe-banner' do
     url 'http://dl.dafont.com/dl/?f=fe_banner'
     name 'FE Banner'
     homepage 'http://www.dafont.com/fe-banner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FE Banner.otf'
 end

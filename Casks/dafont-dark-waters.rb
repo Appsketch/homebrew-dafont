@@ -5,7 +5,6 @@ cask 'dafont-dark-waters' do
     url 'http://dl.dafont.com/dl/?f=dark_waters'
     name 'Dark Waters'
     homepage 'http://www.dafont.com/dark-waters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DarkWaters-Regular.ttf'
 end

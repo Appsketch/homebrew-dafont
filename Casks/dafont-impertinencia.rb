@@ -5,7 +5,6 @@ cask 'dafont-impertinencia' do
     url 'http://dl.dafont.com/dl/?f=impertinencia'
     name 'Impertinencia'
     homepage 'http://www.dafont.com/impertinencia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Impertinencia.ttf'
 end

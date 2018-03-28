@@ -5,7 +5,6 @@ cask 'dafont-teenishly-beautiful' do
     url 'http://dl.dafont.com/dl/?f=teenishly_beautiful'
     name 'Teenishly beautiful'
     homepage 'http://www.dafont.com/teenishly-beautiful.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Teenishly beautiful.ttf'
 end

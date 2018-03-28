@@ -5,7 +5,6 @@ cask 'dafont-puoli-ihminen' do
     url 'http://dl.dafont.com/dl/?f=puoli_ihminen'
     name 'Puoli Ihminen'
     homepage 'http://www.dafont.com/puoli-ihminen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'puoli-ihminen.ttf'
 end

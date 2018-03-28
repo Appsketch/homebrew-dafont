@@ -5,7 +5,6 @@ cask 'dafont-rosebud-sweet' do
     url 'http://dl.dafont.com/dl/?f=rosebud_sweet'
     name 'Rosebud Sweet'
     homepage 'http://www.dafont.com/rosebud-sweet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rose Bud Sweet.ttf'
 end

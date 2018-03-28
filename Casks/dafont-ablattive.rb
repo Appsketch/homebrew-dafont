@@ -5,7 +5,6 @@ cask 'dafont-ablattive' do
     url 'http://dl.dafont.com/dl/?f=ablattive'
     name 'Ablattive'
     homepage 'http://www.dafont.com/ablattive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ablattive-Bold.ttf'
     font 'Ablattive-Shadow.ttf'

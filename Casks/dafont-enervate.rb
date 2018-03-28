@@ -5,7 +5,6 @@ cask 'dafont-enervate' do
     url 'http://dl.dafont.com/dl/?f=enervate'
     name 'Enervate'
     homepage 'http://www.dafont.com/enervate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'enervate.ttf'
 end

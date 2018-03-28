@@ -5,7 +5,6 @@ cask 'dafont-deathmetal-logo' do
     url 'http://dl.dafont.com/dl/?f=deathmetal_logo'
     name 'DeathMetal Logo'
     homepage 'http://www.dafont.com/deathmetal-logo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeathMetal logo.ttf'
 end

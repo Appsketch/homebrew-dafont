@@ -5,7 +5,6 @@ cask 'dafont-lunch' do
     url 'http://dl.dafont.com/dl/?f=lunch'
     name 'Lunch'
     homepage 'http://www.dafont.com/lunch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LUNCH___.TTF'
 end

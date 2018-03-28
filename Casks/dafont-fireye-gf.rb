@@ -5,7 +5,6 @@ cask 'dafont-fireye-gf' do
     url 'http://dl.dafont.com/dl/?f=fireye_gf'
     name 'Fireye GF'
     homepage 'http://www.dafont.com/fireye-gf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FireyeGF_3_Bold.ttf'
     font 'FireyeGF_3_Headline_condensed.ttf'

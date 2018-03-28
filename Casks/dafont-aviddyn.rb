@@ -5,7 +5,6 @@ cask 'dafont-aviddyn' do
     url 'http://dl.dafont.com/dl/?f=aviddyn'
     name 'Aviddyn'
     homepage 'http://www.dafont.com/aviddyn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aviddyn Bold.ttf'
     font 'Aviddyn Regular.ttf'

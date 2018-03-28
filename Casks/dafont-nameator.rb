@@ -5,7 +5,6 @@ cask 'dafont-nameator' do
     url 'http://dl.dafont.com/dl/?f=nameator'
     name 'Nameator'
     homepage 'http://www.dafont.com/nameator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nameator.ttf'
 end

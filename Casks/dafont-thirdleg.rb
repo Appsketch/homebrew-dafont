@@ -5,7 +5,6 @@ cask 'dafont-thirdleg' do
     url 'http://dl.dafont.com/dl/?f=thirdleg'
     name 'Third Leg'
     homepage 'http://www.dafont.com/thirdleg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThirdLeg.ttf'
 end

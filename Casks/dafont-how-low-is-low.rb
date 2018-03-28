@@ -5,7 +5,6 @@ cask 'dafont-how-low-is-low' do
     url 'http://dl.dafont.com/dl/?f=how_low_is_low'
     name 'How low is low?'
     homepage 'http://www.dafont.com/how-low-is-low.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'How low is low.ttf'
 end

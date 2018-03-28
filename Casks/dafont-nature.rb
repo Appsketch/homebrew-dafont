@@ -5,7 +5,6 @@ cask 'dafont-nature' do
     url 'http://dl.dafont.com/dl/?f=nature'
     name 'Nature'
     homepage 'http://www.dafont.com/nature.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nature.ttf'
 end

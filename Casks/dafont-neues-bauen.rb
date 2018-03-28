@@ -5,7 +5,6 @@ cask 'dafont-neues-bauen' do
     url 'http://dl.dafont.com/dl/?f=neues_bauen'
     name 'Neues Bauen'
     homepage 'http://www.dafont.com/neues-bauen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neues Bauen.ttf'
 end

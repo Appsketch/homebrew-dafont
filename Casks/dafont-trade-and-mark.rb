@@ -5,7 +5,6 @@ cask 'dafont-trade-and-mark' do
     url 'http://dl.dafont.com/dl/?f=trade_and_mark'
     name 'Trade And Mark'
     homepage 'http://www.dafont.com/trade-and-mark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trade and Mark.ttf'
 end

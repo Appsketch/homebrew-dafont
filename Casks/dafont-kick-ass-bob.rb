@@ -5,7 +5,6 @@ cask 'dafont-kick-ass-bob' do
     url 'http://dl.dafont.com/dl/?f=kick_ass_bob'
     name 'Kick Ass Bob'
     homepage 'http://www.dafont.com/kick-ass-bob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kickassbob_erc_2008.ttf'
 end

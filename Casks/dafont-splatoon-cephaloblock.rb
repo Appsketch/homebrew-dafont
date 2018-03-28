@@ -5,7 +5,6 @@ cask 'dafont-splatoon-cephaloblock' do
     url 'http://dl.dafont.com/dl/?f=splatoon_cephaloblock'
     name 'Splatoon - Cephaloblock'
     homepage 'http://www.dafont.com/splatoon-cephaloblock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Splatoon_-_Cephaloblock.ttf'
 end

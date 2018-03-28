@@ -5,7 +5,6 @@ cask 'dafont-flutsaus' do
     url 'http://dl.dafont.com/dl/?f=flutsaus'
     name 'Flut Saus'
     homepage 'http://www.dafont.com/flutsaus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FSAUSTRIAL.ttf'
 end

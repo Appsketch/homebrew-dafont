@@ -5,7 +5,6 @@ cask 'dafont-faded-moviestar' do
     url 'http://dl.dafont.com/dl/?f=faded_moviestar'
     name 'Faded MovieStar'
     homepage 'http://www.dafont.com/faded-moviestar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FdMvieStr.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-steppers' do
     url 'http://dl.dafont.com/dl/?f=steppers'
     name 'Steppers'
     homepage 'http://www.dafont.com/steppers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Steppers.otf'
 end

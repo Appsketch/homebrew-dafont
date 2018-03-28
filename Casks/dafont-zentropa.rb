@@ -5,7 +5,6 @@ cask 'dafont-zentropa' do
     url 'http://dl.dafont.com/dl/?f=zentropa'
     name 'Zentropa'
     homepage 'http://www.dafont.com/zentropa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zentropa.ttf'
 end

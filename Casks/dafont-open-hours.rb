@@ -5,7 +5,6 @@ cask 'dafont-open-hours' do
     url 'http://dl.dafont.com/dl/?f=open_hours'
     name 'Open Hours'
     homepage 'http://www.dafont.com/open-hours.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Open Hours.otf'
 end

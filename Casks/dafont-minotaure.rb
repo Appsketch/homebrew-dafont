@@ -5,7 +5,6 @@ cask 'dafont-minotaure' do
     url 'http://dl.dafont.com/dl/?f=minotaure'
     name 'Minotaure'
     homepage 'http://www.dafont.com/minotaure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MINOTAURE_shadow.ttf'
     font 'MINOTAURE.ttf'

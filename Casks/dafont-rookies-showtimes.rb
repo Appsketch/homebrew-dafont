@@ -5,7 +5,6 @@ cask 'dafont-rookies-showtimes' do
     url 'http://dl.dafont.com/dl/?f=rookies_showtimes'
     name 'Rookies Showtimes'
     homepage 'http://www.dafont.com/rookies-showtimes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rookies Showtimes.otf'
 end

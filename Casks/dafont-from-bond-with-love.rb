@@ -5,7 +5,6 @@ cask 'dafont-from-bond-with-love' do
     url 'http://dl.dafont.com/dl/?f=from_bond_with_love'
     name 'From Bond With Love'
     homepage 'http://www.dafont.com/from-bond-with-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'frombondwithlove.ttf'
     font 'frombondwithlove3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-firstday' do
     url 'http://dl.dafont.com/dl/?f=firstday'
     name 'First Day'
     homepage 'http://www.dafont.com/firstday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FirstDay.ttf'
 end

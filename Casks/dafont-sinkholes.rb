@@ -5,7 +5,6 @@ cask 'dafont-sinkholes' do
     url 'http://dl.dafont.com/dl/?f=sinkholes'
     name 'Sink Holes'
     homepage 'http://www.dafont.com/sinkholes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SinkHoles.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-score-board' do
     url 'http://dl.dafont.com/dl/?f=score_board'
     name 'Score Board'
     homepage 'http://www.dafont.com/score-board.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scoreboard.ttf'
 end

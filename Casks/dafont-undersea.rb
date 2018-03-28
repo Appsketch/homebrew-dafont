@@ -5,7 +5,6 @@ cask 'dafont-undersea' do
     url 'http://dl.dafont.com/dl/?f=undersea'
     name 'Undersea'
     homepage 'http://www.dafont.com/undersea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Undersea-Medium.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-banana-yeti' do
     url 'http://dl.dafont.com/dl/?f=banana_yeti'
     name 'Banana Yeti'
     homepage 'http://www.dafont.com/banana-yeti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BananaYeti-Extrabold Trial.ttf'
 end

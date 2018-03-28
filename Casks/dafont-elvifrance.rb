@@ -5,7 +5,6 @@ cask 'dafont-elvifrance' do
     url 'http://dl.dafont.com/dl/?f=elvifrance'
     name 'Elvifrance'
     homepage 'http://www.dafont.com/elvifrance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'elvifrance.ttf'
 end

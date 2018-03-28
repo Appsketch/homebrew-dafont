@@ -5,7 +5,6 @@ cask 'dafont-mf-love-dings' do
     url 'http://dl.dafont.com/dl/?f=mf_love_dings'
     name 'MF Love Dings'
     homepage 'http://www.dafont.com/mf-love-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MF Love Dings.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bracelet' do
     url 'http://dl.dafont.com/dl/?f=bracelet'
     name 'Bracelet'
     homepage 'http://www.dafont.com/bracelet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BRACELET.ttf'
 end

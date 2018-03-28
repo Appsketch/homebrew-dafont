@@ -5,7 +5,6 @@ cask 'dafont-major-snafu' do
     url 'http://dl.dafont.com/dl/?f=major_snafu'
     name 'Major Snafu'
     homepage 'http://www.dafont.com/major-snafu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'major.ttf'
 end

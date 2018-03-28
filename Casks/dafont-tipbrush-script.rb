@@ -5,7 +5,6 @@ cask 'dafont-tipbrush-script' do
     url 'http://dl.dafont.com/dl/?f=tipbrush_script'
     name 'Tipbrush Script'
     homepage 'http://www.dafont.com/tipbrush-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tipbrush1_Slanted.ttf'
     font 'Tipbrush1.ttf'

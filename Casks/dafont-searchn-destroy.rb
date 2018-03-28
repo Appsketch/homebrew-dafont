@@ -5,7 +5,6 @@ cask 'dafont-searchn-destroy' do
     url 'http://dl.dafont.com/dl/?f=searchn_destroy'
     name 'Search&#039;n Destroy'
     homepage 'http://www.dafont.com/searchn-destroy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Search&#039;n Destroy.ttf'
 end

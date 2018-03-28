@@ -5,7 +5,6 @@ cask 'dafont-dead-island' do
     url 'http://dl.dafont.com/dl/?f=dead_island'
     name 'Dead Island'
     homepage 'http://www.dafont.com/dead-island.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dead Island.ttf'
 end

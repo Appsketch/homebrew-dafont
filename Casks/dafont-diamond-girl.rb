@@ -5,7 +5,6 @@ cask 'dafont-diamond-girl' do
     url 'http://dl.dafont.com/dl/?f=diamond_girl'
     name 'Diamond Girl'
     homepage 'http://www.dafont.com/diamond-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diamond Girl Hollow.ttf'
     font 'Diamond Girl Skinny.ttf'

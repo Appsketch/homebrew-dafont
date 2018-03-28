@@ -5,7 +5,6 @@ cask 'dafont-ritviksfont' do
     url 'http://dl.dafont.com/dl/?f=ritviksfont'
     name 'Ritviks'
     homepage 'http://www.dafont.com/ritviksfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RitviksFont.ttf'
 end

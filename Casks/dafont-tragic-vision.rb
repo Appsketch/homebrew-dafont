@@ -5,7 +5,6 @@ cask 'dafont-tragic-vision' do
     url 'http://dl.dafont.com/dl/?f=tragic_vision'
     name 'Tragic Vision'
     homepage 'http://www.dafont.com/tragic-vision.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TragicVisionDEMO-KCFONTS.ttf'
 end

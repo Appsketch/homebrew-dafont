@@ -5,7 +5,6 @@ cask 'dafont-annapolis' do
     url 'http://dl.dafont.com/dl/?f=annapolis'
     name 'Annapolis'
     homepage 'http://www.dafont.com/annapolis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'annapolis.ttf'
     font 'annapolis3d.ttf'

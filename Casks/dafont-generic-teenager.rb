@@ -5,7 +5,6 @@ cask 'dafont-generic-teenager' do
     url 'http://dl.dafont.com/dl/?f=generic_teenager'
     name 'Generic Teenager'
     homepage 'http://www.dafont.com/generic-teenager.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Generic_Teenager.ttf'
 end

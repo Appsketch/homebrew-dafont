@@ -5,7 +5,6 @@ cask 'dafont-tiny-box' do
     url 'http://dl.dafont.com/dl/?f=tiny_box'
     name 'Tiny Box'
     homepage 'http://www.dafont.com/tiny-box.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TINYBBA_.TTF'
     font 'TINYBBBA.TTF'

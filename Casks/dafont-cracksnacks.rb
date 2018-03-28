@@ -5,7 +5,6 @@ cask 'dafont-cracksnacks' do
     url 'http://dl.dafont.com/dl/?f=cracksnacks'
     name 'CrackSnacks'
     homepage 'http://www.dafont.com/cracksnacks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrackSnacks.ttf'
 end

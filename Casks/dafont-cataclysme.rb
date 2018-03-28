@@ -5,7 +5,6 @@ cask 'dafont-cataclysme' do
     url 'http://dl.dafont.com/dl/?f=cataclysme'
     name 'Cataclysme'
     homepage 'http://www.dafont.com/cataclysme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cataclysme-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hells-kittchen-devil-god' do
     url 'http://dl.dafont.com/dl/?f=hells_kittchen_devil_god'
     name 'Hells Kittchen Devil God'
     homepage 'http://www.dafont.com/hells-kittchen-devil-god.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hells Kittchen Devil God.ttf'
 end

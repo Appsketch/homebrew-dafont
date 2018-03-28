@@ -5,7 +5,6 @@ cask 'dafont-ussr-army' do
     url 'http://dl.dafont.com/dl/?f=ussr_army'
     name 'USSR Army'
     homepage 'http://www.dafont.com/ussr-army.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'USSR Army.ttf'
 end

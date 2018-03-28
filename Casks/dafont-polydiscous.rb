@@ -5,7 +5,6 @@ cask 'dafont-polydiscous' do
     url 'http://dl.dafont.com/dl/?f=polydiscous'
     name 'Polydiscous'
     homepage 'http://www.dafont.com/polydiscous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POLYDISC.TTF'
     font 'POLYDISI.TTF'

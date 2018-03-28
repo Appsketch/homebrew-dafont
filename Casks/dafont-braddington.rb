@@ -5,7 +5,6 @@ cask 'dafont-braddington' do
     url 'http://dl.dafont.com/dl/?f=braddington'
     name 'Braddington'
     homepage 'http://www.dafont.com/braddington.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Braddington Italic.otf'
     font 'Braddington.otf'

@@ -5,7 +5,6 @@ cask 'dafont-whysoskinny' do
     url 'http://dl.dafont.com/dl/?f=whysoskinny'
     name 'Why So Skinny'
     homepage 'http://www.dafont.com/whysoskinny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhySoSkinny.ttf'
 end

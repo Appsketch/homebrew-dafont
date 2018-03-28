@@ -5,7 +5,6 @@ cask 'dafont-dazebuna' do
     url 'http://dl.dafont.com/dl/?f=dazebuna'
     name 'DazeBuna'
     homepage 'http://www.dafont.com/dazebuna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DazeBuna.ttf'
 end

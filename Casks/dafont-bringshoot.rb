@@ -5,7 +5,6 @@ cask 'dafont-bringshoot' do
     url 'http://dl.dafont.com/dl/?f=bringshoot'
     name 'Bringshoot'
     homepage 'http://www.dafont.com/bringshoot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bringshoot.ttf'
 end

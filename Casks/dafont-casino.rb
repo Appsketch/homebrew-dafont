@@ -5,7 +5,6 @@ cask 'dafont-casino' do
     url 'http://dl.dafont.com/dl/?f=casino'
     name 'Casino'
     homepage 'http://www.dafont.com/casino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Casino.ttf'
 end

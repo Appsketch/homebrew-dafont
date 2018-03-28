@@ -5,7 +5,6 @@ cask 'dafont-jd-stripex' do
     url 'http://dl.dafont.com/dl/?f=jd_stripex'
     name 'JD Stripex'
     homepage 'http://www.dafont.com/jd-stripex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_stripex.ttf'
 end

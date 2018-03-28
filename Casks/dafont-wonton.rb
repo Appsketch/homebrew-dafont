@@ -5,7 +5,6 @@ cask 'dafont-wonton' do
     url 'http://dl.dafont.com/dl/?f=wonton'
     name 'Wonton'
     homepage 'http://www.dafont.com/wonton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wonton.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-totalfreak' do
     url 'http://dl.dafont.com/dl/?f=totalfreak'
     name 'Total Freak'
     homepage 'http://www.dafont.com/totalfreak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TotalFreak.ttf'
 end

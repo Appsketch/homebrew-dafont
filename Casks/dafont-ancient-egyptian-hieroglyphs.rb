@@ -5,7 +5,6 @@ cask 'dafont-ancient-egyptian-hieroglyphs' do
     url 'http://dl.dafont.com/dl/?f=ancient_egyptian_hieroglyphs'
     name 'Ancient Egyptian Hieroglyphs'
     homepage 'http://www.dafont.com/ancient-egyptian-hieroglyphs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AncientEgyptianHieroglyphs.otf'
 end

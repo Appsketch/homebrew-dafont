@@ -5,7 +5,6 @@ cask 'dafont-dustyhotels' do
     url 'http://dl.dafont.com/dl/?f=dustyhotels'
     name 'Dusty Hotels'
     homepage 'http://www.dafont.com/dustyhotels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DustyHotels.ttf'
 end

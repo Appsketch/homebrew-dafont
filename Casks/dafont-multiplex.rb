@@ -5,7 +5,6 @@ cask 'dafont-multiplex' do
     url 'http://dl.dafont.com/dl/?f=multiplex'
     name 'Multiplex'
     homepage 'http://www.dafont.com/multiplex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Multiplex.ttf'
 end

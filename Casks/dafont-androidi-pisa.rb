@@ -5,7 +5,6 @@ cask 'dafont-androidi-pisa' do
     url 'http://dl.dafont.com/dl/?f=androidi_pisa'
     name 'Androidi Pisa'
     homepage 'http://www.dafont.com/androidi-pisa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Androidi Pisa.ttf'
 end

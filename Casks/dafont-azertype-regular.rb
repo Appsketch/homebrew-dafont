@@ -5,7 +5,6 @@ cask 'dafont-azertype-regular' do
     url 'http://dl.dafont.com/dl/?f=azertype_regular'
     name 'Azertype'
     homepage 'http://www.dafont.com/azertype-regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'azertyperegular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-protoplasm' do
     url 'http://dl.dafont.com/dl/?f=protoplasm'
     name 'Protoplasm'
     homepage 'http://www.dafont.com/protoplasm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'protov2.ttf'
     font 'protov2b.ttf'

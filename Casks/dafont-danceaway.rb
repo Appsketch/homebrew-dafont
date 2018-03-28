@@ -5,7 +5,6 @@ cask 'dafont-danceaway' do
     url 'http://dl.dafont.com/dl/?f=danceaway'
     name 'Dance Away'
     homepage 'http://www.dafont.com/danceaway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DanceAway.ttf'
 end

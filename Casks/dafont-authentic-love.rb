@@ -5,7 +5,6 @@ cask 'dafont-authentic-love' do
     url 'http://dl.dafont.com/dl/?f=authentic_love'
     name 'Authentic Love'
     homepage 'http://www.dafont.com/authentic-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AUTHENTIC LOVE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-handgley' do
     url 'http://dl.dafont.com/dl/?f=handgley'
     name 'Handgley'
     homepage 'http://www.dafont.com/handgley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Handgley Italic.otf'
     font 'Handgley Regular.otf'

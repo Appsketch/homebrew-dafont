@@ -5,7 +5,6 @@ cask 'dafont-logostile' do
     url 'http://dl.dafont.com/dl/?f=logostile'
     name 'Logostile'
     homepage 'http://www.dafont.com/logostile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Logostile.ttf'
 end

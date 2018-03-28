@@ -5,7 +5,6 @@ cask 'dafont-sloth-rounded' do
     url 'http://dl.dafont.com/dl/?f=sloth_rounded'
     name 'Sloth Rounded'
     homepage 'http://www.dafont.com/sloth-rounded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sloth_rounded.ttf'
 end

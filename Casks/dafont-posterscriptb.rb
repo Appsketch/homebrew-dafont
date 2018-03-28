@@ -5,7 +5,6 @@ cask 'dafont-posterscriptb' do
     url 'http://dl.dafont.com/dl/?f=posterscriptb'
     name 'Poster Script B'
     homepage 'http://www.dafont.com/posterscriptb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PosterScriptB.ttf'
 end

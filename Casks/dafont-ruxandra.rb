@@ -5,7 +5,6 @@ cask 'dafont-ruxandra' do
     url 'http://dl.dafont.com/dl/?f=ruxandra'
     name 'Ruxandra'
     homepage 'http://www.dafont.com/ruxandra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ruxandra.ttf'
 end

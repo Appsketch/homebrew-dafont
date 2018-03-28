@@ -5,7 +5,6 @@ cask 'dafont-remember' do
     url 'http://dl.dafont.com/dl/?f=remember'
     name 'Remember'
     homepage 'http://www.dafont.com/remember.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Remember.ttf'
 end

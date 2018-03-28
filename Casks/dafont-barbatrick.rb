@@ -5,7 +5,6 @@ cask 'dafont-barbatrick' do
     url 'http://dl.dafont.com/dl/?f=barbatrick'
     name 'Barbatrick'
     homepage 'http://www.dafont.com/barbatrick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'barbatrick.ttf'
 end

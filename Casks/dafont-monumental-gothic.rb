@@ -5,7 +5,6 @@ cask 'dafont-monumental-gothic' do
     url 'http://dl.dafont.com/dl/?f=monumental_gothic'
     name 'Monumental Gothic'
     homepage 'http://www.dafont.com/monumental-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MONUGD__.TTF'
 end

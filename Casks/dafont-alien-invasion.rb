@@ -5,7 +5,6 @@ cask 'dafont-alien-invasion' do
     url 'http://dl.dafont.com/dl/?f=alien_invasion'
     name 'Alien Invasion'
     homepage 'http://www.dafont.com/alien-invasion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alien_invasion.ttf'
 end

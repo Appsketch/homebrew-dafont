@@ -5,7 +5,6 @@ cask 'dafont-mirella-script' do
     url 'http://dl.dafont.com/dl/?f=mirella_script'
     name 'Mirella Script'
     homepage 'http://www.dafont.com/mirella-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mirella Script Limited Free Version.ttf'
 end

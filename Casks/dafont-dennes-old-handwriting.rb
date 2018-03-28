@@ -5,7 +5,6 @@ cask 'dafont-dennes-old-handwriting' do
     url 'http://dl.dafont.com/dl/?f=dennes_old_handwriting'
     name 'Denne&#039;s Old Handwriting'
     homepage 'http://www.dafont.com/dennes-old-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Denne s Old Handwriting.ttf'
 end

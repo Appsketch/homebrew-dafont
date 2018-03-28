@@ -5,7 +5,6 @@ cask 'dafont-the-blurry-effect' do
     url 'http://dl.dafont.com/dl/?f=the_blurry_effect'
     name 'The Blurry Effect'
     homepage 'http://www.dafont.com/the-blurry-effect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheBlurryEffect.ttf'
 end

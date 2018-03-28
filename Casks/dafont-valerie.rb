@@ -5,7 +5,6 @@ cask 'dafont-valerie' do
     url 'http://dl.dafont.com/dl/?f=valerie'
     name 'Val&eacute;rie'
     homepage 'http://www.dafont.com/valerie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'valerie.ttf'
 end

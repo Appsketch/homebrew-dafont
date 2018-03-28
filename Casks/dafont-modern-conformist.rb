@@ -5,7 +5,6 @@ cask 'dafont-modern-conformist' do
     url 'http://dl.dafont.com/dl/?f=modern_conformist'
     name 'Modern Conformist'
     homepage 'http://www.dafont.com/modern-conformist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ModernConformist.ttf'
 end

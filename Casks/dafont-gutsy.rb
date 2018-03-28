@@ -5,7 +5,6 @@ cask 'dafont-gutsy' do
     url 'http://dl.dafont.com/dl/?f=gutsy'
     name 'Gutsy'
     homepage 'http://www.dafont.com/gutsy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gutsy-Bold.ttf'
     font 'Gutsy-BoldItalic.ttf'

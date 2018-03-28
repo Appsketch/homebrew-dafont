@@ -5,7 +5,6 @@ cask 'dafont-corporea' do
     url 'http://dl.dafont.com/dl/?f=corporea'
     name 'Corporea'
     homepage 'http://www.dafont.com/corporea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CORPOREA.TTF'
 end

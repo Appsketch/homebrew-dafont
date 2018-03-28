@@ -5,7 +5,6 @@ cask 'dafont-calligraphunk' do
     url 'http://dl.dafont.com/dl/?f=calligraphunk'
     name 'Calligraphunk'
     homepage 'http://www.dafont.com/calligraphunk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cAlLiGrApHuNk Trial.ttf'
 end

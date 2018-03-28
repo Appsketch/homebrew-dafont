@@ -5,7 +5,6 @@ cask 'dafont-integration' do
     url 'http://dl.dafont.com/dl/?f=integration'
     name 'Integration'
     homepage 'http://www.dafont.com/integration.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Integration.ttf'
 end

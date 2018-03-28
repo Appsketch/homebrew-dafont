@@ -5,7 +5,6 @@ cask 'dafont-cherrybomb' do
     url 'http://dl.dafont.com/dl/?f=cherrybomb'
     name 'CherryBomb'
     homepage 'http://www.dafont.com/cherrybomb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHERB___.TTF'
 end

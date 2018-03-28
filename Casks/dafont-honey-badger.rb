@@ -5,7 +5,6 @@ cask 'dafont-honey-badger' do
     url 'http://dl.dafont.com/dl/?f=honey_badger'
     name 'Honey Badger'
     homepage 'http://www.dafont.com/honey-badger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Honey Badger.ttf'
 end

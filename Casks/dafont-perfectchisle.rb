@@ -5,7 +5,6 @@ cask 'dafont-perfectchisle' do
     url 'http://dl.dafont.com/dl/?f=perfectchisle'
     name 'Perfect Chisle'
     homepage 'http://www.dafont.com/perfectchisle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PerfectChisle.ttf'
 end

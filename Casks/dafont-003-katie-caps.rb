@@ -5,7 +5,6 @@ cask 'dafont-003-katie-caps' do
     url 'http://dl.dafont.com/dl/?f=003_katie_caps'
     name '003 Katie Caps'
     homepage 'http://www.dafont.com/003-katie-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '003 Katie Caps.ttf'
 end

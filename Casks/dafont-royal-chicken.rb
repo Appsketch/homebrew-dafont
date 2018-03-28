@@ -5,7 +5,6 @@ cask 'dafont-royal-chicken' do
     url 'http://dl.dafont.com/dl/?f=royal_chicken'
     name 'Royal Chicken'
     homepage 'http://www.dafont.com/royal-chicken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Royal Chicken.otf'
 end

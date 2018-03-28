@@ -5,7 +5,6 @@ cask 'dafont-cable-guy' do
     url 'http://dl.dafont.com/dl/?f=cable_guy'
     name 'Cable Guy'
     homepage 'http://www.dafont.com/cable-guy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cable Guy.ttf'
 end

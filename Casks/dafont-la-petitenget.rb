@@ -5,7 +5,6 @@ cask 'dafont-la-petitenget' do
     url 'http://dl.dafont.com/dl/?f=la_petitenget'
     name 'La Petitenget'
     homepage 'http://www.dafont.com/la-petitenget.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'La Petitenget.otf'
     font 'La Petitenget.ttf'

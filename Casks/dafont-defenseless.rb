@@ -5,7 +5,6 @@ cask 'dafont-defenseless' do
     url 'http://dl.dafont.com/dl/?f=defenseless'
     name 'Defenseless'
     homepage 'http://www.dafont.com/defenseless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Defenseless.ttf'
 end

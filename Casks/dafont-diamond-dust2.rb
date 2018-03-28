@@ -5,7 +5,6 @@ cask 'dafont-diamond-dust2' do
     url 'http://dl.dafont.com/dl/?f=diamond_dust2'
     name 'Diamond Dust'
     homepage 'http://www.dafont.com/diamond-dust2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diamond Dust - PERSONAL USE ONLY.ttf'
 end

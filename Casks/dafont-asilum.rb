@@ -5,7 +5,6 @@ cask 'dafont-asilum' do
     url 'http://dl.dafont.com/dl/?f=asilum'
     name 'Asilum'
     homepage 'http://www.dafont.com/asilum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASILUM.otf'
 end

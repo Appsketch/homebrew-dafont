@@ -5,7 +5,6 @@ cask 'dafont-magrilinha' do
     url 'http://dl.dafont.com/dl/?f=magrilinha'
     name 'Magrilinha'
     homepage 'http://www.dafont.com/magrilinha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAGRILINHA.ttf'
 end

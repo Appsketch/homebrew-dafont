@@ -5,7 +5,6 @@ cask 'dafont-kr-silly-art' do
     url 'http://dl.dafont.com/dl/?f=kr_silly_art'
     name 'KR Silly Art'
     homepage 'http://www.dafont.com/kr-silly-art.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Silly Art Dings.TTF'
     font 'KR Silly Art Holiday.TTF'

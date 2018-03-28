@@ -5,7 +5,6 @@ cask 'dafont-moulin-rouge2' do
     url 'http://dl.dafont.com/dl/?f=moulin_rouge2'
     name 'Moulin Rouge'
     homepage 'http://www.dafont.com/moulin-rouge2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moulin Rouge.ttf'
 end

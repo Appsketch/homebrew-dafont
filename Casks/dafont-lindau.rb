@@ -5,7 +5,6 @@ cask 'dafont-lindau' do
     url 'http://dl.dafont.com/dl/?f=lindau'
     name 'Lindau'
     homepage 'http://www.dafont.com/lindau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LinBld.otf'
     font 'LinBlk.otf'

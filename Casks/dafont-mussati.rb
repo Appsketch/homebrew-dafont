@@ -5,7 +5,6 @@ cask 'dafont-mussati' do
     url 'http://dl.dafont.com/dl/?f=mussati'
     name 'Mussati'
     homepage 'http://www.dafont.com/mussati.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MUSSATI.otf'
 end

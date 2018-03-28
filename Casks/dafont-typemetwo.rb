@@ -5,7 +5,6 @@ cask 'dafont-typemetwo' do
     url 'http://dl.dafont.com/dl/?f=typemetwo'
     name 'Type Me Two'
     homepage 'http://www.dafont.com/typemetwo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TypeMeTwo.ttf'
 end

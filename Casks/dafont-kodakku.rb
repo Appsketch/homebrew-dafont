@@ -5,7 +5,6 @@ cask 'dafont-kodakku' do
     url 'http://dl.dafont.com/dl/?f=kodakku'
     name 'Kodakku'
     homepage 'http://www.dafont.com/kodakku.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kodakku.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-amutham' do
     url 'http://dl.dafont.com/dl/?f=amutham'
     name 'Amutham'
     homepage 'http://www.dafont.com/amutham.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'amutham.ttf'
 end

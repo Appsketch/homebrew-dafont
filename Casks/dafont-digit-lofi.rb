@@ -5,7 +5,6 @@ cask 'dafont-digit-lofi' do
     url 'http://dl.dafont.com/dl/?f=digit_lofi'
     name 'Digit Lo-Fi'
     homepage 'http://www.dafont.com/digit-lofi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIGILF__.TTF'
     font 'DIGILFS_.TTF'

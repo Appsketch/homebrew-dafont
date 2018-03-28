@@ -5,7 +5,6 @@ cask 'dafont-the-not-so-miserable' do
     url 'http://dl.dafont.com/dl/?f=the_not_so_miserable'
     name 'The Not So Miserable'
     homepage 'http://www.dafont.com/the-not-so-miserable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The_Not_So_Miserable.otf'
 end

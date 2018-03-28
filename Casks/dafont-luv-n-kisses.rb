@@ -5,7 +5,6 @@ cask 'dafont-luv-n-kisses' do
     url 'http://dl.dafont.com/dl/?f=luv_n_kisses'
     name 'Luv N Kisses'
     homepage 'http://www.dafont.com/luv-n-kisses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Luvnkiss.ttf'
 end

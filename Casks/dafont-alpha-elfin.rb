@@ -5,7 +5,6 @@ cask 'dafont-alpha-elfin' do
     url 'http://dl.dafont.com/dl/?f=alpha_elfin'
     name 'AlphaElfin'
     homepage 'http://www.dafont.com/alpha-elfin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaElfin.ttf'
 end

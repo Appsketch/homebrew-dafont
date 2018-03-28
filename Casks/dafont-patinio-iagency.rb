@@ -5,7 +5,6 @@ cask 'dafont-patinio-iagency' do
     url 'http://dl.dafont.com/dl/?f=patinio_iagency'
     name 'Patinio iAgency'
     homepage 'http://www.dafont.com/patinio-iagency.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Patinio iAgency Rounded.ttf'
     font 'Patinio iAgency.ttf'

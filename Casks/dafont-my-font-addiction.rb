@@ -5,7 +5,6 @@ cask 'dafont-my-font-addiction' do
     url 'http://dl.dafont.com/dl/?f=my_font_addiction'
     name 'My Font Addiction '
     homepage 'http://www.dafont.com/my-font-addiction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My Font Addiction by Misti&#039;s Fonts.ttf'
 end

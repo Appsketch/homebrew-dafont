@@ -5,7 +5,6 @@ cask 'dafont-hydro-squad' do
     url 'http://dl.dafont.com/dl/?f=hydro_squad'
     name 'Hydro Squad'
     homepage 'http://www.dafont.com/hydro-squad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hydrosquad.ttf'
     font 'hydrosquad3d.ttf'

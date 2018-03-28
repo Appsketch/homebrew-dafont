@@ -5,7 +5,6 @@ cask 'dafont-fafers-irregular-serif-font' do
     url 'http://dl.dafont.com/dl/?f=fafers_irregular_serif_font'
     name 'Fafers Irregular Serif'
     homepage 'http://www.dafont.com/fafers-irregular-serif-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FAFERS_Irregular_Serif_font.ttf'
 end

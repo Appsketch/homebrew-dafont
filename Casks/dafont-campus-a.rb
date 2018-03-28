@@ -5,7 +5,6 @@ cask 'dafont-campus-a' do
     url 'http://dl.dafont.com/dl/?f=campus_a'
     name 'Campus A'
     homepage 'http://www.dafont.com/campus-a.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Campus A.ttf'
 end

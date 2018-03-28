@@ -5,7 +5,6 @@ cask 'dafont-kg-thank-you-stamp' do
     url 'http://dl.dafont.com/dl/?f=kg_thank_you_stamp'
     name 'KG Thank You Stamp'
     homepage 'http://www.dafont.com/kg-thank-you-stamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGThankYouStamp.ttf'
 end

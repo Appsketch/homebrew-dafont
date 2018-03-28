@@ -5,7 +5,6 @@ cask 'dafont-specialcase' do
     url 'http://dl.dafont.com/dl/?f=specialcase'
     name 'Special Case'
     homepage 'http://www.dafont.com/specialcase.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpecialCase.ttf'
 end

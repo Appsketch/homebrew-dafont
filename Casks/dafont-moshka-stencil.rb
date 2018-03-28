@@ -5,7 +5,6 @@ cask 'dafont-moshka-stencil' do
     url 'http://dl.dafont.com/dl/?f=moshka_stencil'
     name 'Moshka Stencil'
     homepage 'http://www.dafont.com/moshka-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moshka Stencil.otf'
 end

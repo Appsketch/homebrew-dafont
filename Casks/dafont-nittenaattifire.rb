@@ -5,7 +5,6 @@ cask 'dafont-nittenaattifire' do
     url 'http://dl.dafont.com/dl/?f=nittenaattifire'
     name 'Nittenaattifire'
     homepage 'http://www.dafont.com/nittenaattifire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nittenaattifire.otf'
 end

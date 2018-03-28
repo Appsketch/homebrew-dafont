@@ -5,7 +5,6 @@ cask 'dafont-mabella' do
     url 'http://dl.dafont.com/dl/?f=mabella'
     name 'Mabella'
     homepage 'http://www.dafont.com/mabella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mabella.TTF'
 end

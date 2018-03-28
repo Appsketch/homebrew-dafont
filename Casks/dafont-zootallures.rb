@@ -5,7 +5,6 @@ cask 'dafont-zootallures' do
     url 'http://dl.dafont.com/dl/?f=zootallures'
     name 'Zoot Allures'
     homepage 'http://www.dafont.com/zootallures.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZootAllures.ttf'
 end

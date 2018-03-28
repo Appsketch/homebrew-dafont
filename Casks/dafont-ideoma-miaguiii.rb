@@ -5,7 +5,6 @@ cask 'dafont-ideoma-miaguiii' do
     url 'http://dl.dafont.com/dl/?f=ideoma_miaguiii'
     name 'Ideoma Miaguiii'
     homepage 'http://www.dafont.com/ideoma-miaguiii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ideomaMIAGUIII.otf'
 end

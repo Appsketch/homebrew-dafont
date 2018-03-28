@@ -5,7 +5,6 @@ cask 'dafont-openlogos' do
     url 'http://dl.dafont.com/dl/?f=openlogos'
     name 'Open Logos'
     homepage 'http://www.dafont.com/openlogos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'openlogos.ttf'
 end

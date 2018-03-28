@@ -5,7 +5,6 @@ cask 'dafont-turds' do
     url 'http://dl.dafont.com/dl/?f=turds'
     name 'Turds'
     homepage 'http://www.dafont.com/turds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'turds soft.ttf'
     font 'turds.ttf'

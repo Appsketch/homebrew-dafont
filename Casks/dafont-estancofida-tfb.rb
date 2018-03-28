@@ -5,7 +5,6 @@ cask 'dafont-estancofida-tfb' do
     url 'http://dl.dafont.com/dl/?f=estancofida_tfb'
     name 'Estancofida TFB'
     homepage 'http://www.dafont.com/estancofida-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Estancofida tfb.ttf'
 end

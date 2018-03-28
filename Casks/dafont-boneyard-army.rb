@@ -5,7 +5,6 @@ cask 'dafont-boneyard-army' do
     url 'http://dl.dafont.com/dl/?f=boneyard_army'
     name 'Boneyard Army'
     homepage 'http://www.dafont.com/boneyard-army.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boneyard Army.ttf'
 end

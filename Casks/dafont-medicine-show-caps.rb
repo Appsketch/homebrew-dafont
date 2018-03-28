@@ -5,7 +5,6 @@ cask 'dafont-medicine-show-caps' do
     url 'http://dl.dafont.com/dl/?f=medicine_show_caps'
     name 'Medicine Show Caps'
     homepage 'http://www.dafont.com/medicine-show-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEDICINE SHOW CAPS.ttf'
 end

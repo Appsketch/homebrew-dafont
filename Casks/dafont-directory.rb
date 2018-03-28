@@ -5,7 +5,6 @@ cask 'dafont-directory' do
     url 'http://dl.dafont.com/dl/?f=directory'
     name 'Directory'
     homepage 'http://www.dafont.com/directory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Directory.ttf'
 end

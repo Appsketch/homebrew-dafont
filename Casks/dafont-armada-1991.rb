@@ -5,7 +5,6 @@ cask 'dafont-armada-1991' do
     url 'http://dl.dafont.com/dl/?f=armada_1991'
     name 'Armada/1991'
     homepage 'http://www.dafont.com/armada-1991.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'armada1991.ttf'
 end

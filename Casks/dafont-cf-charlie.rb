@@ -5,7 +5,6 @@ cask 'dafont-cf-charlie' do
     url 'http://dl.dafont.com/dl/?f=cf_charlie'
     name 'CF Charlie'
     homepage 'http://www.dafont.com/cf-charlie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFCharlie.ttf'
 end

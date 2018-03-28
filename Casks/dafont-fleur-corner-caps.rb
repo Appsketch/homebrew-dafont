@@ -5,7 +5,6 @@ cask 'dafont-fleur-corner-caps' do
     url 'http://dl.dafont.com/dl/?f=fleur_corner_caps'
     name 'Fleur Corner Caps'
     homepage 'http://www.dafont.com/fleur-corner-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FleurCornerCaps.ttf'
 end

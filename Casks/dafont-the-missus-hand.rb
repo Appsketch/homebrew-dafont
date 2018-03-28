@@ -5,7 +5,6 @@ cask 'dafont-the-missus-hand' do
     url 'http://dl.dafont.com/dl/?f=the_missus_hand'
     name 'The Missus Hand '
     homepage 'http://www.dafont.com/the-missus-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Missus Hand Normal.ttf'
     font 'The Missus Hand Strong.ttf'

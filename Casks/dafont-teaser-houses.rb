@@ -5,7 +5,6 @@ cask 'dafont-teaser-houses' do
     url 'http://dl.dafont.com/dl/?f=teaser_houses'
     name 'Teaser Houses'
     homepage 'http://www.dafont.com/teaser-houses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Teaser Houses.ttf'
 end

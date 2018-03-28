@@ -5,7 +5,6 @@ cask 'dafont-brucedoublepica-beveled' do
     url 'http://dl.dafont.com/dl/?f=brucedoublepica_beveled'
     name 'Bruce Double Pica Beveled'
     homepage 'http://www.dafont.com/brucedoublepica-beveled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BruceDoublePica Beveled.ttf'
 end

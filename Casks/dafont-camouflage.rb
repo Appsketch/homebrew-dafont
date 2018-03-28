@@ -5,7 +5,6 @@ cask 'dafont-camouflage' do
     url 'http://dl.dafont.com/dl/?f=camouflage'
     name 'Camouflage'
     homepage 'http://www.dafont.com/camouflage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CamouflageD.ttf'
     font 'CamouflageJ.ttf'

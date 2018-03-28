@@ -5,7 +5,6 @@ cask 'dafont-theodista-decally' do
     url 'http://dl.dafont.com/dl/?f=theodista_decally'
     name 'Theodista Decally'
     homepage 'http://www.dafont.com/theodista-decally.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Theodista Decally Italic.otf'
     font 'Theodista Decally.otf'

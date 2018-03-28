@@ -5,7 +5,6 @@ cask 'dafont-maris-handwriting' do
     url 'http://dl.dafont.com/dl/?f=maris_handwriting'
     name 'Mari&#039;s Handwriting'
     homepage 'http://www.dafont.com/maris-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mariposa.ttf'
 end

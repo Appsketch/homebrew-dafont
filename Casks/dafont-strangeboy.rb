@@ -5,7 +5,6 @@ cask 'dafont-strangeboy' do
     url 'http://dl.dafont.com/dl/?f=strangeboy'
     name 'Strange Boy'
     homepage 'http://www.dafont.com/strangeboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StrangeBoy.ttf'
 end

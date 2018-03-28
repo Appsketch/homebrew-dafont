@@ -5,7 +5,6 @@ cask 'dafont-sanseriffic' do
     url 'http://dl.dafont.com/dl/?f=sanseriffic'
     name 'Sanseriffic'
     homepage 'http://www.dafont.com/sanseriffic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sanseriffic.otf'
 end

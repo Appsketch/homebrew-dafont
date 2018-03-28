@@ -5,7 +5,6 @@ cask 'dafont-rat-infested-mailbox' do
     url 'http://dl.dafont.com/dl/?f=rat_infested_mailbox'
     name 'Rat Infested Mailbox'
     homepage 'http://www.dafont.com/rat-infested-mailbox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Rat Infested Mailbox.ttf'
 end

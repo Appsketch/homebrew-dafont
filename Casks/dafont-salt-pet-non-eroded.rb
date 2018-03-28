@@ -5,7 +5,6 @@ cask 'dafont-salt-pet-non-eroded' do
     url 'http://dl.dafont.com/dl/?f=salt_pet_non_eroded'
     name 'Salt Pet Non Eroded'
     homepage 'http://www.dafont.com/salt-pet-non-eroded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Salt Pet Non Eroded.ttf'
 end

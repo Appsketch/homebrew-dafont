@@ -5,7 +5,6 @@ cask 'dafont-ry-tha' do
     url 'http://dl.dafont.com/dl/?f=ry_tha'
     name 'Ry-Tha'
     homepage 'http://www.dafont.com/ry-tha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RY-THA.ttf'
 end

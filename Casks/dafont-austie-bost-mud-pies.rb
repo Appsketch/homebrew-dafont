@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-mud-pies' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_mud_pies'
     name 'Austie Bost Mud Pies'
     homepage 'http://www.dafont.com/austie-bost-mud-pies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Mud Pies.ttf'
 end

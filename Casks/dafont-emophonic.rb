@@ -5,7 +5,6 @@ cask 'dafont-emophonic' do
     url 'http://dl.dafont.com/dl/?f=emophonic'
     name 'Emophonic'
     homepage 'http://www.dafont.com/emophonic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Emophonic.ttf'
 end

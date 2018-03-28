@@ -5,7 +5,6 @@ cask 'dafont-cancranacancarnaca-redux' do
     url 'http://dl.dafont.com/dl/?f=cancranacancarnaca_redux'
     name 'Cancranacancarnaca Redux'
     homepage 'http://www.dafont.com/cancranacancarnaca-redux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cancranacancarnaca Redux Sans Soft.ttf'
     font 'Cancranacancarnaca Redux Sans.ttf'

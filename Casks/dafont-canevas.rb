@@ -5,7 +5,6 @@ cask 'dafont-canevas' do
     url 'http://dl.dafont.com/dl/?f=canevas'
     name 'Canevas'
     homepage 'http://www.dafont.com/canevas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CANEVAS.ttf'
 end

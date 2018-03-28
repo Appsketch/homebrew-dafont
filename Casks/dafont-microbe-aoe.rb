@@ -5,7 +5,6 @@ cask 'dafont-microbe-aoe' do
     url 'http://dl.dafont.com/dl/?f=microbe_aoe'
     name 'Microbe AOE'
     homepage 'http://www.dafont.com/microbe-aoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MICRA___.TTF'
     font 'MICRCA__.TTF'

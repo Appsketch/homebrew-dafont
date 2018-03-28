@@ -5,7 +5,6 @@ cask 'dafont-stark' do
     url 'http://dl.dafont.com/dl/?f=stark'
     name 'Stark'
     homepage 'http://www.dafont.com/stark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stark Bold Italic.otf'
     font 'Stark Bold.otf'

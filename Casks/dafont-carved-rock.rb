@@ -5,7 +5,6 @@ cask 'dafont-carved-rock' do
     url 'http://dl.dafont.com/dl/?f=carved_rock'
     name 'Carved Rock'
     homepage 'http://www.dafont.com/carved-rock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carved Rock.ttf'
 end

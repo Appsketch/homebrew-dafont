@@ -5,7 +5,6 @@ cask 'dafont-fff-atlantis' do
     url 'http://dl.dafont.com/dl/?f=fff_atlantis'
     name 'FFF Atlantis'
     homepage 'http://www.dafont.com/fff-atlantis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FFFAT___.TTF'
 end

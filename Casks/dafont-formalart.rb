@@ -5,7 +5,6 @@ cask 'dafont-formalart' do
     url 'http://dl.dafont.com/dl/?f=formalart'
     name 'Formalart'
     homepage 'http://www.dafont.com/formalart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'formalart.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-eryxcartoon' do
     url 'http://dl.dafont.com/dl/?f=eryxcartoon'
     name 'Eryx Cartoon'
     homepage 'http://www.dafont.com/eryxcartoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EryxCartoon.ttf'
 end

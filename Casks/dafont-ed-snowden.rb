@@ -5,7 +5,6 @@ cask 'dafont-ed-snowden' do
     url 'http://dl.dafont.com/dl/?f=ed_snowden'
     name 'Ed Snowden'
     homepage 'http://www.dafont.com/ed-snowden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ed_Snowden.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chromeyellow' do
     url 'http://dl.dafont.com/dl/?f=chromeyellow'
     name 'Chrome Yellow'
     homepage 'http://www.dafont.com/chromeyellow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHROY___.TTF'
 end

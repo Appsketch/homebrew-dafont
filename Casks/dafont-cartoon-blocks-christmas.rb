@@ -5,7 +5,6 @@ cask 'dafont-cartoon-blocks-christmas' do
     url 'http://dl.dafont.com/dl/?f=cartoon_blocks_christmas'
     name 'Cartoon Blocks Christmas'
     homepage 'http://www.dafont.com/cartoon-blocks-christmas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cartoon Blocks Christmas.ttf'
 end

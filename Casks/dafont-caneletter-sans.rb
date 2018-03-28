@@ -5,7 +5,6 @@ cask 'dafont-caneletter-sans' do
     url 'http://dl.dafont.com/dl/?f=caneletter_sans'
     name 'Caneletter Sans'
     homepage 'http://www.dafont.com/caneletter-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CaneletterSans_PersonalUse.otf'
     font 'CaneletterSansThin_PersonalUse.otf'

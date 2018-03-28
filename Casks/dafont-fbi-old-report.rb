@@ -5,7 +5,6 @@ cask 'dafont-fbi-old-report' do
     url 'http://dl.dafont.com/dl/?f=fbi_old_report'
     name 'FBI Old Report'
     homepage 'http://www.dafont.com/fbi-old-report.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FBI Old Report-Regular.ttf'
 end

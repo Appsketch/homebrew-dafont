@@ -5,7 +5,6 @@ cask 'dafont-guilttrip' do
     url 'http://dl.dafont.com/dl/?f=guilttrip'
     name 'Guilt Trip'
     homepage 'http://www.dafont.com/guilttrip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GuiltTrip.ttf'
 end

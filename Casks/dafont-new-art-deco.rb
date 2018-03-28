@@ -5,7 +5,6 @@ cask 'dafont-new-art-deco' do
     url 'http://dl.dafont.com/dl/?f=new_art_deco'
     name 'New Art Deco'
     homepage 'http://www.dafont.com/new-art-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New Art Deco.ttf'
 end

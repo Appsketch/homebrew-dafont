@@ -5,7 +5,6 @@ cask 'dafont-i-am-simplified' do
     url 'http://dl.dafont.com/dl/?f=i_am_simplified'
     name 'I am simplified'
     homepage 'http://www.dafont.com/i-am-simplified.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IAMSB___.TTF'
     font 'IAMSIMPL.TTF'

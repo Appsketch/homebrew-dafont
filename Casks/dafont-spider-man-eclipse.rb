@@ -5,7 +5,6 @@ cask 'dafont-spider-man-eclipse' do
     url 'http://dl.dafont.com/dl/?f=spider_man_eclipse'
     name 'Spider-Man Eclipse'
     homepage 'http://www.dafont.com/spider-man-eclipse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPIDER-MAN ECLIPSE.ttf'
 end

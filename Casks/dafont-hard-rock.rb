@@ -5,7 +5,6 @@ cask 'dafont-hard-rock' do
     url 'http://dl.dafont.com/dl/?f=hard_rock'
     name 'Hard Rock'
     homepage 'http://www.dafont.com/hard-rock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HARD_ROCK.ttf'
 end

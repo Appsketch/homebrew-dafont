@@ -5,7 +5,6 @@ cask 'dafont-eclectic2' do
     url 'http://dl.dafont.com/dl/?f=eclectic2'
     name 'Eclectic'
     homepage 'http://www.dafont.com/eclectic2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eclectic.ttf'
 end

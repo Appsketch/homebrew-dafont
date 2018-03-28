@@ -5,7 +5,6 @@ cask 'dafont-hot-chocolate-latte' do
     url 'http://dl.dafont.com/dl/?f=hot_chocolate_latte'
     name 'Hot Chocolate Latte'
     homepage 'http://www.dafont.com/hot-chocolate-latte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hot Chocolate Latte.ttf'
 end

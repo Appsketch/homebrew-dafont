@@ -5,7 +5,6 @@ cask 'dafont-savage3' do
     url 'http://dl.dafont.com/dl/?f=savage3'
     name 'Savage'
     homepage 'http://www.dafont.com/savage3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Savage.ttf'
 end

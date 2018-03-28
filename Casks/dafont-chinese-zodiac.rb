@@ -5,7 +5,6 @@ cask 'dafont-chinese-zodiac' do
     url 'http://dl.dafont.com/dl/?f=chinese_zodiac'
     name 'Chinese Zodiac'
     homepage 'http://www.dafont.com/chinese-zodiac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chinese Zodiac.ttf'
 end

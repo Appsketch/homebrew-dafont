@@ -5,7 +5,6 @@ cask 'dafont-total-hammer' do
     url 'http://dl.dafont.com/dl/?f=total_hammer'
     name 'Total Hammer'
     homepage 'http://www.dafont.com/total-hammer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOTAL HAMMER.ttf'
 end

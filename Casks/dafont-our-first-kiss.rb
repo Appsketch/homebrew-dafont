@@ -5,7 +5,6 @@ cask 'dafont-our-first-kiss' do
     url 'http://dl.dafont.com/dl/?f=our_first_kiss'
     name 'Our First Kiss'
     homepage 'http://www.dafont.com/our-first-kiss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Our First Kiss.otf'
 end

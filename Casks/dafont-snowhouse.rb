@@ -5,7 +5,6 @@ cask 'dafont-snowhouse' do
     url 'http://dl.dafont.com/dl/?f=snowhouse'
     name 'Snowhouse'
     homepage 'http://www.dafont.com/snowhouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snowhouse_demo.otf'
 end

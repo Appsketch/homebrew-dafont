@@ -5,7 +5,6 @@ cask 'dafont-summer-swirl' do
     url 'http://dl.dafont.com/dl/?f=summer_swirl'
     name 'Summer Swirl'
     homepage 'http://www.dafont.com/summer-swirl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Summer-Swirl Demo.otf'
 end

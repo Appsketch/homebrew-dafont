@@ -5,7 +5,6 @@ cask 'dafont-albion' do
     url 'http://dl.dafont.com/dl/?f=albion'
     name 'Albion'
     homepage 'http://www.dafont.com/albion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Albion.ttf'
 end

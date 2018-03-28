@@ -5,7 +5,6 @@ cask 'dafont-mixdemisans' do
     url 'http://dl.dafont.com/dl/?f=mixdemisans'
     name 'Mix Demi Sans'
     homepage 'http://www.dafont.com/mixdemisans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixDemiSans.ttf'
 end

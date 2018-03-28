@@ -5,7 +5,6 @@ cask 'dafont-gang-of-three' do
     url 'http://dl.dafont.com/dl/?f=gang_of_three'
     name 'Gang of Three'
     homepage 'http://www.dafont.com/gang-of-three.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'go3v2.ttf'
 end

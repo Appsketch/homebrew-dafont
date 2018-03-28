@@ -5,7 +5,6 @@ cask 'dafont-a25-squanova' do
     url 'http://dl.dafont.com/dl/?f=a25_squanova'
     name 'A25-Squanova'
     homepage 'http://www.dafont.com/a25-squanova.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A25-SQUANOVA.ttf'
 end

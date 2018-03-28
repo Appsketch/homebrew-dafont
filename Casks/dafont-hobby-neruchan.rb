@@ -5,7 +5,6 @@ cask 'dafont-hobby-neruchan' do
     url 'http://dl.dafont.com/dl/?f=hobby_neruchan'
     name 'Hobby NeruChan'
     homepage 'http://www.dafont.com/hobby-neruchan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hobby_NeruChan.ttf'
 end

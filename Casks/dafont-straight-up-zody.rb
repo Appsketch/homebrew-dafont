@@ -5,7 +5,6 @@ cask 'dafont-straight-up-zody' do
     url 'http://dl.dafont.com/dl/?f=straight_up_zody'
     name 'Straight Up Zody'
     homepage 'http://www.dafont.com/straight-up-zody.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Straight Up Zody.ttf'
 end

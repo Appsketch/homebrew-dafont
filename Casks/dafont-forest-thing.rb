@@ -5,7 +5,6 @@ cask 'dafont-forest-thing' do
     url 'http://dl.dafont.com/dl/?f=forest_thing'
     name 'Forest Thing'
     homepage 'http://www.dafont.com/forest-thing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FOREST THING.ttf'
 end

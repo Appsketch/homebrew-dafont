@@ -5,7 +5,6 @@ cask 'dafont-gouldentreatise' do
     url 'http://dl.dafont.com/dl/?f=gouldentreatise'
     name 'Goulden Treatise'
     homepage 'http://www.dafont.com/gouldentreatise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GouldenTreatise.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-action-comics' do
     url 'http://dl.dafont.com/dl/?f=action_comics'
     name 'Action Comics'
     homepage 'http://www.dafont.com/action-comics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Action Comcs Black.ttf'
     font 'Action Comics.ttf'

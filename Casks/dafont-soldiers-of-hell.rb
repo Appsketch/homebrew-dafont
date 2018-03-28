@@ -5,7 +5,6 @@ cask 'dafont-soldiers-of-hell' do
     url 'http://dl.dafont.com/dl/?f=soldiers_of_hell'
     name 'Soldiers of Hell'
     homepage 'http://www.dafont.com/soldiers-of-hell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Soldiers of Hell.ttf'
 end

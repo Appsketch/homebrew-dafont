@@ -5,7 +5,6 @@ cask 'dafont-ifc-los-banditos' do
     url 'http://dl.dafont.com/dl/?f=ifc_los_banditos'
     name 'IFC Los Banditos'
     homepage 'http://www.dafont.com/ifc-los-banditos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IFC LOS BANDITOS.ttf'
 end

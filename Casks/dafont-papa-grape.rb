@@ -5,7 +5,6 @@ cask 'dafont-papa-grape' do
     url 'http://dl.dafont.com/dl/?f=papa_grape'
     name 'Papa Grape'
     homepage 'http://www.dafont.com/papa-grape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Papa Grape.ttf'
 end

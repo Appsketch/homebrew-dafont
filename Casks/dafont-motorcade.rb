@@ -5,7 +5,6 @@ cask 'dafont-motorcade' do
     url 'http://dl.dafont.com/dl/?f=motorcade'
     name 'Motorcade'
     homepage 'http://www.dafont.com/motorcade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'motorcade.ttf'
 end

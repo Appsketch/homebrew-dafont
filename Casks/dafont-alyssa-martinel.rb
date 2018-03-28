@@ -5,7 +5,6 @@ cask 'dafont-alyssa-martinel' do
     url 'http://dl.dafont.com/dl/?f=alyssa_martinel'
     name 'Alyssa Martinel'
     homepage 'http://www.dafont.com/alyssa-martinel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alyssa Martinel.ttf'
 end

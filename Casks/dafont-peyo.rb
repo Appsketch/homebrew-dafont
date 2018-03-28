@@ -5,7 +5,6 @@ cask 'dafont-peyo' do
     url 'http://dl.dafont.com/dl/?f=peyo'
     name 'Peyo'
     homepage 'http://www.dafont.com/peyo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PeyoRegular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-romance-fatal-serif' do
     url 'http://dl.dafont.com/dl/?f=romance_fatal_serif'
     name 'Romance Fatal Serif'
     homepage 'http://www.dafont.com/romance-fatal-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'romance fatal serif JC Fonts.ttf'
 end

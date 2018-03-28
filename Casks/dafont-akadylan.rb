@@ -5,7 +5,6 @@ cask 'dafont-akadylan' do
     url 'http://dl.dafont.com/dl/?f=akadylan'
     name 'Aka Dylan'
     homepage 'http://www.dafont.com/akadylan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'akaDylan Collage.ttf'
     font 'akaDylan Open.ttf'

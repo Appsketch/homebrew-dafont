@@ -5,7 +5,6 @@ cask 'dafont-new-society' do
     url 'http://dl.dafont.com/dl/?f=new_society'
     name 'New Society'
     homepage 'http://www.dafont.com/new-society.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New Society.ttf'
 end

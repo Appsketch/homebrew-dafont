@@ -5,7 +5,6 @@ cask 'dafont-pxlxxlcond' do
     url 'http://dl.dafont.com/dl/?f=pxlxxlcond'
     name 'Pxlxxl Cond'
     homepage 'http://www.dafont.com/pxlxxlcond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pxlxxlcond.ttf'
 end

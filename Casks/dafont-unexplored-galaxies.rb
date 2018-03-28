@@ -5,7 +5,6 @@ cask 'dafont-unexplored-galaxies' do
     url 'http://dl.dafont.com/dl/?f=unexplored_galaxies'
     name 'Unexplored Galaxies'
     homepage 'http://www.dafont.com/unexplored-galaxies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unxgala.ttf'
     font 'Unxgalaw.ttf'

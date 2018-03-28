@@ -5,7 +5,6 @@ cask 'dafont-parkinsons' do
     url 'http://dl.dafont.com/dl/?f=parkinsons'
     name 'Parkinson&#039;s'
     homepage 'http://www.dafont.com/parkinsons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Parkinsons.ttf'
 end

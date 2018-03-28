@@ -5,7 +5,6 @@ cask 'dafont-logotronik' do
     url 'http://dl.dafont.com/dl/?f=logotronik'
     name 'Logotronik'
     homepage 'http://www.dafont.com/logotronik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Logotronik.ttf'
 end

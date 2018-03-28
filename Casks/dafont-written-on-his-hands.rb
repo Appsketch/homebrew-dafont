@@ -5,7 +5,6 @@ cask 'dafont-written-on-his-hands' do
     url 'http://dl.dafont.com/dl/?f=written_on_his_hands'
     name 'Written on His Hands'
     homepage 'http://www.dafont.com/written-on-his-hands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'writtenonhishands.ttf'
 end

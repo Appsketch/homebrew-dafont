@@ -5,7 +5,6 @@ cask 'dafont-7linedigital' do
     url 'http://dl.dafont.com/dl/?f=7linedigital'
     name '7LineDigital'
     homepage 'http://www.dafont.com/7linedigital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '7linedigital.ttf'
 end

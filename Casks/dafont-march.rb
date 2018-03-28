@@ -5,7 +5,6 @@ cask 'dafont-march' do
     url 'http://dl.dafont.com/dl/?f=march'
     name 'March'
     homepage 'http://www.dafont.com/march.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'March Font.ttf'
 end

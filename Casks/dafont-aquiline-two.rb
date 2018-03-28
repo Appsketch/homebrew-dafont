@@ -5,7 +5,6 @@ cask 'dafont-aquiline-two' do
     url 'http://dl.dafont.com/dl/?f=aquiline_two'
     name 'Aquiline Two'
     homepage 'http://www.dafont.com/aquiline-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AquilineTwo.ttf'
 end

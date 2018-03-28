@@ -5,7 +5,6 @@ cask 'dafont-soljik-dambaek' do
     url 'http://dl.dafont.com/dl/?f=soljik_dambaek'
     name 'Soljik Dambaek'
     homepage 'http://www.dafont.com/soljik-dambaek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Soljik-Dambaek.ttf'
 end

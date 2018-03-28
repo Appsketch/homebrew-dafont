@@ -5,7 +5,6 @@ cask 'dafont-love-is-a-many-complicated-thing' do
     url 'http://dl.dafont.com/dl/?f=love_is_a_many_complicated_thing'
     name 'Love Is A Many Complicated Thing'
     homepage 'http://www.dafont.com/love-is-a-many-complicated-thing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Love Is A Many Complicated Thing.ttf'
 end

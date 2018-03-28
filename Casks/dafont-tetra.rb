@@ -5,7 +5,6 @@ cask 'dafont-tetra' do
     url 'http://dl.dafont.com/dl/?f=tetra'
     name 'Tetra'
     homepage 'http://www.dafont.com/tetra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tetra.ttf'
 end

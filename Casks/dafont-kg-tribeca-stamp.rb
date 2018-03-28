@@ -5,7 +5,6 @@ cask 'dafont-kg-tribeca-stamp' do
     url 'http://dl.dafont.com/dl/?f=kg_tribeca_stamp'
     name 'KG Tribeca Stamp'
     homepage 'http://www.dafont.com/kg-tribeca-stamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGTribecaStamp.ttf'
 end

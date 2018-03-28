@@ -5,7 +5,6 @@ cask 'dafont-lpmyth' do
     url 'http://dl.dafont.com/dl/?f=lpmyth'
     name 'LP Myth'
     homepage 'http://www.dafont.com/lpmyth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lpmyth.ttf'
     font 'lpmyth2.ttf'

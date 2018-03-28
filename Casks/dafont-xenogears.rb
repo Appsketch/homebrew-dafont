@@ -5,7 +5,6 @@ cask 'dafont-xenogears' do
     url 'http://dl.dafont.com/dl/?f=_xenogears'
     name 'Xenogears'
     homepage 'http://www.dafont.com/-xenogears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xenogears_font.ttf'
 end

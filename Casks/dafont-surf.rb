@@ -5,7 +5,6 @@ cask 'dafont-surf' do
     url 'http://dl.dafont.com/dl/?f=surf'
     name 'Surf'
     homepage 'http://www.dafont.com/surf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Surf.ttf'
 end

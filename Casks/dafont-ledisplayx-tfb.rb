@@ -5,7 +5,6 @@ cask 'dafont-ledisplayx-tfb' do
     url 'http://dl.dafont.com/dl/?f=ledisplayx_tfb'
     name 'Ledisplayx TFB'
     homepage 'http://www.dafont.com/ledisplayx-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ledisplayx tfb.ttf'
 end

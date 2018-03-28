@@ -5,7 +5,6 @@ cask 'dafont-minecraft-enchantment' do
     url 'http://dl.dafont.com/dl/?f=minecraft_enchantment'
     name 'Minecraft Enchantment'
     homepage 'http://www.dafont.com/minecraft-enchantment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'minecraft-enchantment.ttf'
 end

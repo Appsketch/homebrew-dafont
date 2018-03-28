@@ -5,7 +5,6 @@ cask 'dafont-starbrite' do
     url 'http://dl.dafont.com/dl/?f=starbrite'
     name 'Starbrite'
     homepage 'http://www.dafont.com/starbrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Starbrite.ttf'
 end

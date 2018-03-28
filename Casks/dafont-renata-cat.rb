@@ -5,7 +5,6 @@ cask 'dafont-renata-cat' do
     url 'http://dl.dafont.com/dl/?f=renata_cat'
     name 'Renata CAT'
     homepage 'http://www.dafont.com/renata-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Renata CAT.ttf'
 end

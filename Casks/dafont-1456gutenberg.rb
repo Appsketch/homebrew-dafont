@@ -5,7 +5,6 @@ cask 'dafont-1456gutenberg' do
     url 'http://dl.dafont.com/dl/?f=1456gutenberg'
     name '1456 Gutenberg'
     homepage 'http://www.dafont.com/1456gutenberg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1456Gutenberg.TTF'
 end

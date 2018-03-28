@@ -5,7 +5,6 @@ cask 'dafont-billy-boy' do
     url 'http://dl.dafont.com/dl/?f=billy_boy'
     name 'BillyBoy'
     homepage 'http://www.dafont.com/billy-boy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BillyBoy-Regular.otf'
 end

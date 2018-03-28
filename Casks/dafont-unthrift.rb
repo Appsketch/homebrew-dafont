@@ -5,7 +5,6 @@ cask 'dafont-unthrift' do
     url 'http://dl.dafont.com/dl/?f=unthrift'
     name 'Unthrift'
     homepage 'http://www.dafont.com/unthrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UnthriftFirPersonal.ttf'
     font 'UnthriftSecPersonal.ttf'

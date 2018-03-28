@@ -5,7 +5,6 @@ cask 'dafont-mb-blackbook-type' do
     url 'http://dl.dafont.com/dl/?f=mb_blackbook_type'
     name 'MB BlackBook Type'
     homepage 'http://www.dafont.com/mb-blackbook-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-BlackBook_Font.ttf'
 end

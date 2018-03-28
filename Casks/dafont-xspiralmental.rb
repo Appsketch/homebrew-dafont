@@ -5,7 +5,6 @@ cask 'dafont-xspiralmental' do
     url 'http://dl.dafont.com/dl/?f=xspiralmental'
     name 'XSpiralmental'
     homepage 'http://www.dafont.com/xspiralmental.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'X-SPIRAL.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blue-chucks' do
     url 'http://dl.dafont.com/dl/?f=blue_chucks'
     name 'Blue Chucks'
     homepage 'http://www.dafont.com/blue-chucks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLUE CHUCKS.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mtf-magical-marilyn' do
     url 'http://dl.dafont.com/dl/?f=mtf_magical_marilyn'
     name 'MTF Magical Marilyn'
     homepage 'http://www.dafont.com/mtf-magical-marilyn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Magical Marilyn.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-droid-robot' do
     url 'http://dl.dafont.com/dl/?f=droid_robot'
     name 'Droid Robot'
     homepage 'http://www.dafont.com/droid-robot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'doridrobot.ttf'
 end

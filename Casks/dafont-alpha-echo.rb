@@ -5,7 +5,6 @@ cask 'dafont-alpha-echo' do
     url 'http://dl.dafont.com/dl/?f=alpha_echo'
     name 'Alpha Echo'
     homepage 'http://www.dafont.com/alpha-echo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alph.ttf'
 end

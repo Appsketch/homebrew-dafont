@@ -5,7 +5,6 @@ cask 'dafont-joia' do
     url 'http://dl.dafont.com/dl/?f=joia'
     name 'Joia'
     homepage 'http://www.dafont.com/joia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JOIA LIGHT.ttf'
     font 'JOIA_BOLD.ttf'

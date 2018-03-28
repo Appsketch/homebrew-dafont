@@ -5,7 +5,6 @@ cask 'dafont-greko-deco' do
     url 'http://dl.dafont.com/dl/?f=greko_deco'
     name 'Greko Deco'
     homepage 'http://www.dafont.com/greko-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GREKDB__.TTF'
     font 'greko__n.ttf'

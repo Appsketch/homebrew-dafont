@@ -5,7 +5,6 @@ cask 'dafont-cubs-led-tfb' do
     url 'http://dl.dafont.com/dl/?f=cubs_led_tfb'
     name 'Cubs Led TFB'
     homepage 'http://www.dafont.com/cubs-led-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CUBS LED TFB.ttf'
 end

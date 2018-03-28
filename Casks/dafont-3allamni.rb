@@ -5,7 +5,6 @@ cask 'dafont-3allamni' do
     url 'http://dl.dafont.com/dl/?f=3allamni'
     name '3 Allamni'
     homepage 'http://www.dafont.com/3allamni.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '3allamni.ttf'
 end

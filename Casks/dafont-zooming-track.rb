@@ -5,7 +5,6 @@ cask 'dafont-zooming-track' do
     url 'http://dl.dafont.com/dl/?f=zooming_track'
     name 'Zooming Track'
     homepage 'http://www.dafont.com/zooming-track.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZOOMING track.ttf'
 end

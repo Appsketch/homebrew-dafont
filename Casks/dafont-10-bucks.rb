@@ -5,7 +5,6 @@ cask 'dafont-10-bucks' do
     url 'http://dl.dafont.com/dl/?f=10_bucks'
     name '10 Bucks'
     homepage 'http://www.dafont.com/10-bucks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '10 Bucks.ttf'
 end

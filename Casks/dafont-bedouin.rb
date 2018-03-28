@@ -5,7 +5,6 @@ cask 'dafont-bedouin' do
     url 'http://dl.dafont.com/dl/?f=bedouin'
     name 'Bedouin'
     homepage 'http://www.dafont.com/bedouin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEDOUIN.otf'
 end

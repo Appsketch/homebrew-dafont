@@ -5,7 +5,6 @@ cask 'dafont-you-rook-marbelous' do
     url 'http://dl.dafont.com/dl/?f=you_rook_marbelous'
     name 'You Rook Marbelous'
     homepage 'http://www.dafont.com/you-rook-marbelous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YouRookMarbelous.ttf'
 end

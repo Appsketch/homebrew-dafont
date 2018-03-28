@@ -5,7 +5,6 @@ cask 'dafont-radiometry' do
     url 'http://dl.dafont.com/dl/?f=radiometry'
     name 'Radiometry'
     homepage 'http://www.dafont.com/radiometry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'radiometry.ttf'
 end

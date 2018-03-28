@@ -5,7 +5,6 @@ cask 'dafont-fairfax-station' do
     url 'http://dl.dafont.com/dl/?f=fairfax_station'
     name 'Fairfax Station'
     homepage 'http://www.dafont.com/fairfax-station.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FAIRFAXS.TTF'
 end

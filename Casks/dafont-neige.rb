@@ -5,7 +5,6 @@ cask 'dafont-neige' do
     url 'http://dl.dafont.com/dl/?f=neige'
     name 'Neige'
     homepage 'http://www.dafont.com/neige.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEIGE.TTF'
     font 'Neige2__.ttf'

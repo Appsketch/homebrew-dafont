@@ -5,7 +5,6 @@ cask 'dafont-fleftex-mono' do
     url 'http://dl.dafont.com/dl/?f=fleftex_mono'
     name 'Fleftex Mono'
     homepage 'http://www.dafont.com/fleftex-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fleftex_M.ttf'
 end

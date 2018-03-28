@@ -5,7 +5,6 @@ cask 'dafont-cf-paradise-city' do
     url 'http://dl.dafont.com/dl/?f=cf_paradise_city'
     name 'CF Paradise City'
     homepage 'http://www.dafont.com/cf-paradise-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFParadiseCity-Regular.ttf'
 end

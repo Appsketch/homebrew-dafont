@@ -5,7 +5,6 @@ cask 'dafont-alphabet05' do
     url 'http://dl.dafont.com/dl/?f=alphabet05'
     name 'Alphabet 05'
     homepage 'http://www.dafont.com/alphabet05.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alpha05.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bule' do
     url 'http://dl.dafont.com/dl/?f=bule'
     name 'Bule'
     homepage 'http://www.dafont.com/bule.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bule_bold.ttf'
     font 'bule.ttf'

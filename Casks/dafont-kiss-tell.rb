@@ -5,7 +5,6 @@ cask 'dafont-kiss-tell' do
     url 'http://dl.dafont.com/dl/?f=kiss_tell'
     name 'Kiss &amp; Tell'
     homepage 'http://www.dafont.com/kiss-tell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kiss &amp; Tell.ttf'
 end

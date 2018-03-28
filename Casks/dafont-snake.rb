@@ -5,7 +5,6 @@ cask 'dafont-snake' do
     url 'http://dl.dafont.com/dl/?f=snake'
     name 'Snake'
     homepage 'http://www.dafont.com/snake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snake.ttf'
 end

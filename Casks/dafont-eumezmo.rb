@@ -5,7 +5,6 @@ cask 'dafont-eumezmo' do
     url 'http://dl.dafont.com/dl/?f=eumezmo'
     name 'Eu mezmo!'
     homepage 'http://www.dafont.com/eumezmo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eu_mezmo.ttf'
 end

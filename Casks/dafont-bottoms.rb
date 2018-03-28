@@ -5,7 +5,6 @@ cask 'dafont-bottoms' do
     url 'http://dl.dafont.com/dl/?f=bottoms'
     name 'Bottoms'
     homepage 'http://www.dafont.com/bottoms.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bottoms.ttf'
 end

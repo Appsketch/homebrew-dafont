@@ -5,7 +5,6 @@ cask 'dafont-vtks-colagem' do
     url 'http://dl.dafont.com/dl/?f=vtks_colagem'
     name 'VTKS Colagem'
     homepage 'http://www.dafont.com/vtks-colagem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS COLAGEM.ttf'
 end

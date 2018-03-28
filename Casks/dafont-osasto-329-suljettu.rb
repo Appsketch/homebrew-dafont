@@ -5,7 +5,6 @@ cask 'dafont-osasto-329-suljettu' do
     url 'http://dl.dafont.com/dl/?f=osasto_329_suljettu'
     name 'Osasto 329 Suljettu'
     homepage 'http://www.dafont.com/osasto-329-suljettu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Osasto 329 suljettu.ttf'
 end

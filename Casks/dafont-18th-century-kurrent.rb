@@ -5,7 +5,6 @@ cask 'dafont-18th-century-kurrent' do
     url 'http://dl.dafont.com/dl/?f=18th_century_kurrent'
     name '18th Century Kurrent'
     homepage 'http://www.dafont.com/18th-century-kurrent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '18thCtrInit.ttf'
     font '18thCtrKurStart.ttf'

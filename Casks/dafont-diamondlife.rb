@@ -5,7 +5,6 @@ cask 'dafont-diamondlife' do
     url 'http://dl.dafont.com/dl/?f=diamondlife'
     name 'Diamond Life'
     homepage 'http://www.dafont.com/diamondlife.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DiamondLife.ttf'
 end

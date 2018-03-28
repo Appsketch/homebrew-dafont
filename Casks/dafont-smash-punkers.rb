@@ -5,7 +5,6 @@ cask 'dafont-smash-punkers' do
     url 'http://dl.dafont.com/dl/?f=smash_punkers'
     name 'Smash Punkers'
     homepage 'http://www.dafont.com/smash-punkers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smash Punkers1.ttf'
 end

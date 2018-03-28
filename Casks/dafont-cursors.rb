@@ -5,7 +5,6 @@ cask 'dafont-cursors' do
     url 'http://dl.dafont.com/dl/?f=cursors'
     name 'Cursors'
     homepage 'http://www.dafont.com/cursors.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cursors.ttf'
 end

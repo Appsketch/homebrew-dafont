@@ -5,7 +5,6 @@ cask 'dafont-crazy-writerz' do
     url 'http://dl.dafont.com/dl/?f=crazy_writerz'
     name 'crAzy-WRiterZ'
     homepage 'http://www.dafont.com/crazy-writerz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crazy Writerz.ttf'
 end

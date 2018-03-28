@@ -5,7 +5,6 @@ cask 'dafont-white-sock' do
     url 'http://dl.dafont.com/dl/?f=white_sock'
     name 'White Sock'
     homepage 'http://www.dafont.com/white-sock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'white sock.ttf'
 end

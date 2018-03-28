@@ -5,7 +5,6 @@ cask 'dafont-icecream-soda' do
     url 'http://dl.dafont.com/dl/?f=icecream_soda'
     name 'Ice Cream Soda'
     homepage 'http://www.dafont.com/icecream-soda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ICE-CS__.TTF'
 end

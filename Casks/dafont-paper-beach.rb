@@ -5,7 +5,6 @@ cask 'dafont-paper-beach' do
     url 'http://dl.dafont.com/dl/?f=paper_beach'
     name 'Paper Beach'
     homepage 'http://www.dafont.com/paper-beach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paper_Beach.ttf'
 end

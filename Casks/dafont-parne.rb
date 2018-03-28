@@ -5,7 +5,6 @@ cask 'dafont-parne' do
     url 'http://dl.dafont.com/dl/?f=parne'
     name 'Parne'
     homepage 'http://www.dafont.com/parne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'parne.ttf'
 end

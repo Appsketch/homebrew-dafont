@@ -5,7 +5,6 @@ cask 'dafont-cf-jack-story' do
     url 'http://dl.dafont.com/dl/?f=cf_jack_story'
     name 'CF Jack Story'
     homepage 'http://www.dafont.com/cf-jack-story.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFJackStory-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-quid-pro-quo' do
     url 'http://dl.dafont.com/dl/?f=quid_pro_quo'
     name 'Quid Pro Quo'
     homepage 'http://www.dafont.com/quid-pro-quo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Quid Pro Quo.ttf'
 end

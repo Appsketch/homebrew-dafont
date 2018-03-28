@@ -5,7 +5,6 @@ cask 'dafont-field-day' do
     url 'http://dl.dafont.com/dl/?f=field_day'
     name 'Field Day'
     homepage 'http://www.dafont.com/field-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FieldDay-Regular.otf'
 end

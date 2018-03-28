@@ -5,7 +5,6 @@ cask 'dafont-cutscript' do
     url 'http://dl.dafont.com/dl/?f=cutscript'
     name 'Cutscript'
     homepage 'http://www.dafont.com/cutscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cutscript.ttf'
 end

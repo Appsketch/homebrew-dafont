@@ -5,7 +5,6 @@ cask 'dafont-when-the-eagles-dare' do
     url 'http://dl.dafont.com/dl/?f=when_the_eagles_dare'
     name 'When The Eagles Dare'
     homepage 'http://www.dafont.com/when-the-eagles-dare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'When The Eagles Dare.ttf'
 end

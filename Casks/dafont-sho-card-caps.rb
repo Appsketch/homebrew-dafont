@@ -5,7 +5,6 @@ cask 'dafont-sho-card-caps' do
     url 'http://dl.dafont.com/dl/?f=sho_card_caps'
     name 'Sho-Card-Caps'
     homepage 'http://www.dafont.com/sho-card-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHO-CARD.TTF'
 end

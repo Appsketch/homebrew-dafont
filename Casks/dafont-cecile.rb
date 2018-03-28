@@ -5,7 +5,6 @@ cask 'dafont-cecile' do
     url 'http://dl.dafont.com/dl/?f=cecile'
     name 'C&eacute;cile'
     homepage 'http://www.dafont.com/cecile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CECILE.ttf'
 end

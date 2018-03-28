@@ -5,7 +5,6 @@ cask 'dafont-slice' do
     url 'http://dl.dafont.com/dl/?f=slice'
     name 'Slice'
     homepage 'http://www.dafont.com/slice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'slice.ttf'
 end

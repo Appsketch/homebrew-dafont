@@ -5,7 +5,6 @@ cask 'dafont-avengeance' do
     url 'http://dl.dafont.com/dl/?f=avengeance'
     name 'Avengeance Heroic Avenger'
     homepage 'http://www.dafont.com/avengeance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AVENGEANCE HEROIC AVENGER AT.ttf'
     font 'AVENGEANCE HEROIC AVENGER BD.ttf'

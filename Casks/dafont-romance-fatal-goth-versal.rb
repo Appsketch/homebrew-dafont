@@ -5,7 +5,6 @@ cask 'dafont-romance-fatal-goth-versal' do
     url 'http://dl.dafont.com/dl/?f=romance_fatal_goth_versal'
     name 'Romance Fatal Goth'
     homepage 'http://www.dafont.com/romance-fatal-goth-versal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rom_Fatl _Gth_Prm.ttf'
     font 'Rom_Ftl _Gth_Vrsl.ttf'

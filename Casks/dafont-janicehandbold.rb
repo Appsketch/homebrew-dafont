@@ -5,7 +5,6 @@ cask 'dafont-janicehandbold' do
     url 'http://dl.dafont.com/dl/?f=janicehandbold'
     name 'Janice Hand Bold'
     homepage 'http://www.dafont.com/janicehandbold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JaniceHandBold.ttf'
 end

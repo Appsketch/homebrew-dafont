@@ -5,7 +5,6 @@ cask 'dafont-eulogy' do
     url 'http://dl.dafont.com/dl/?f=eulogy'
     name 'Eulogy'
     homepage 'http://www.dafont.com/eulogy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EULOGY.TTF'
 end

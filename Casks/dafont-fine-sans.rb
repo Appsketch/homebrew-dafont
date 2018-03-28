@@ -5,7 +5,6 @@ cask 'dafont-fine-sans' do
     url 'http://dl.dafont.com/dl/?f=fine_sans'
     name 'Fine Sans'
     homepage 'http://www.dafont.com/fine-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fine Sans Bold.ttf'
     font 'Fine Sans Italic.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-abokidreadlockjamsuya' do
     url 'http://dl.dafont.com/dl/?f=abokidreadlockjamsuya'
     name 'Aboki Dreadlock Jam Suya'
     homepage 'http://www.dafont.com/abokidreadlockjamsuya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AbokiDreadlockJamSuya.ttf'
 end

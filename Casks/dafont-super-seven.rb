@@ -5,7 +5,6 @@ cask 'dafont-super-seven' do
     url 'http://dl.dafont.com/dl/?f=super_seven'
     name 'Super Seven'
     homepage 'http://www.dafont.com/super-seven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPER SEVEN_shadowed_demo.otf'
 end

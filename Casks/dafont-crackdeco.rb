@@ -5,7 +5,6 @@ cask 'dafont-crackdeco' do
     url 'http://dl.dafont.com/dl/?f=crackdeco'
     name 'Crack Deco'
     homepage 'http://www.dafont.com/crackdeco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrackDeco.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-realpolitik' do
     url 'http://dl.dafont.com/dl/?f=realpolitik'
     name 'Realpolitik'
     homepage 'http://www.dafont.com/realpolitik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'realpolv2.ttf'
     font 'realpolv2c.ttf'

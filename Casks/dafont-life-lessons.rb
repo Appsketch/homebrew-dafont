@@ -5,7 +5,6 @@ cask 'dafont-life-lessons' do
     url 'http://dl.dafont.com/dl/?f=life_lessons'
     name 'Life Lessons'
     homepage 'http://www.dafont.com/life-lessons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Life-Lessons.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-words' do
     url 'http://dl.dafont.com/dl/?f=words'
     name 'Words'
     homepage 'http://www.dafont.com/words.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Words.ttf'
 end

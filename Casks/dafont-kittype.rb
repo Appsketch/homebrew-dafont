@@ -5,7 +5,6 @@ cask 'dafont-kittype' do
     url 'http://dl.dafont.com/dl/?f=kittype'
     name 'Kit Type'
     homepage 'http://www.dafont.com/kittype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kitType.ttf'
 end

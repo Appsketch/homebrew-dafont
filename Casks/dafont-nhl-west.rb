@@ -5,7 +5,6 @@ cask 'dafont-nhl-west' do
     url 'http://dl.dafont.com/dl/?f=nhl_west'
     name 'NHL West'
     homepage 'http://www.dafont.com/nhl-west.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NHL WEST.ttf'
 end

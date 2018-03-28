@@ -5,7 +5,6 @@ cask 'dafont-lp-flowers' do
     url 'http://dl.dafont.com/dl/?f=lp_flowers'
     name 'LP Flowers 1'
     homepage 'http://www.dafont.com/lp-flowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lpflowers.ttf'
 end

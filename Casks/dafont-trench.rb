@@ -5,7 +5,6 @@ cask 'dafont-trench' do
     url 'http://dl.dafont.com/dl/?f=trench'
     name 'Trench'
     homepage 'http://www.dafont.com/trench.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trench100free.otf'
 end

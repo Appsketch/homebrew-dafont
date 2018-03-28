@@ -5,7 +5,6 @@ cask 'dafont-tat-style' do
     url 'http://dl.dafont.com/dl/?f=tat_style'
     name 'Tat Style'
     homepage 'http://www.dafont.com/tat-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TAT.ttf'
 end

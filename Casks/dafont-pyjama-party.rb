@@ -5,7 +5,6 @@ cask 'dafont-pyjama-party' do
     url 'http://dl.dafont.com/dl/?f=pyjama_party'
     name 'Pyjama Party'
     homepage 'http://www.dafont.com/pyjama-party.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pyjama Party.ttf'
 end

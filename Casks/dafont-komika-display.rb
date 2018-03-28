@@ -5,7 +5,6 @@ cask 'dafont-komika-display' do
     url 'http://dl.dafont.com/dl/?f=komika_display'
     name 'Komika Display'
     homepage 'http://www.dafont.com/komika-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KMKDSKBW.ttf'
     font 'KMKDSP__.ttf'

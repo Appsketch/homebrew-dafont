@@ -5,7 +5,6 @@ cask 'dafont-alanus' do
     url 'http://dl.dafont.com/dl/?f=alanus'
     name 'Alanus'
     homepage 'http://www.dafont.com/alanus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alanus.ttf'
 end

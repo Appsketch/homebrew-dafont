@@ -5,7 +5,6 @@ cask 'dafont-b20-sans' do
     url 'http://dl.dafont.com/dl/?f=b20_sans'
     name 'B20 Sans'
     homepage 'http://www.dafont.com/b20-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'B20Sans.ttf'
 end

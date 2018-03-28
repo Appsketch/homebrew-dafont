@@ -5,7 +5,6 @@ cask 'dafont-kg-sorry-not-sorry' do
     url 'http://dl.dafont.com/dl/?f=kg_sorry_not_sorry'
     name 'KG Sorry Not Sorry'
     homepage 'http://www.dafont.com/kg-sorry-not-sorry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGSorryNotSorry.ttf'
     font 'KGSorryNotSorryChub.ttf'

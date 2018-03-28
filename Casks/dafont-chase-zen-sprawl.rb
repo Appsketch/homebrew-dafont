@@ -5,7 +5,6 @@ cask 'dafont-chase-zen-sprawl' do
     url 'http://dl.dafont.com/dl/?f=chase_zen_sprawl'
     name 'Chase Zen Sprawl'
     homepage 'http://www.dafont.com/chase-zen-sprawl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHASEZENSPRAWL.ttf'
 end

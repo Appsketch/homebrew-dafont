@@ -5,7 +5,6 @@ cask 'dafont-crazy-cookies' do
     url 'http://dl.dafont.com/dl/?f=crazy_cookies'
     name 'Crazy Cookies'
     homepage 'http://www.dafont.com/crazy-cookies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crazy COokies.ttf'
 end

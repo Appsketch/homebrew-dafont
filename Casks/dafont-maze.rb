@@ -5,7 +5,6 @@ cask 'dafont-maze' do
     url 'http://dl.dafont.com/dl/?f=maze'
     name 'Maze'
     homepage 'http://www.dafont.com/maze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maze.ttf'
 end

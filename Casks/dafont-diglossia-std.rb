@@ -5,7 +5,6 @@ cask 'dafont-diglossia-std' do
     url 'http://dl.dafont.com/dl/?f=diglossia_std'
     name 'Diglossia Std'
     homepage 'http://www.dafont.com/diglossia-std.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'diglossia_std.otf'
 end

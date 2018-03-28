@@ -5,7 +5,6 @@ cask 'dafont-gvb-bus-pid-5x3' do
     url 'http://dl.dafont.com/dl/?f=gvb_bus_pid_5x3'
     name 'GVB Bus PID 5x3'
     homepage 'http://www.dafont.com/gvb-bus-pid-5x3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gvb_bus_pid_5x3.ttf'
 end

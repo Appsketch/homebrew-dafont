@@ -5,7 +5,6 @@ cask 'dafont-barefootbluejeannight' do
     url 'http://dl.dafont.com/dl/?f=barefootbluejeannight'
     name 'Barefoot blue jean night'
     homepage 'http://www.dafont.com/barefootbluejeannight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'barefootbluejeannight.ttf'
 end

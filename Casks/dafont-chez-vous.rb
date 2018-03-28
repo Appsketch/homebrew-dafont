@@ -5,7 +5,6 @@ cask 'dafont-chez-vous' do
     url 'http://dl.dafont.com/dl/?f=chez_vous'
     name 'Chez Vous'
     homepage 'http://www.dafont.com/chez-vous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChezVous-Regular.otf'
 end

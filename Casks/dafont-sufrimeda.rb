@@ -5,7 +5,6 @@ cask 'dafont-sufrimeda' do
     url 'http://dl.dafont.com/dl/?f=sufrimeda'
     name 'Sufrimeda'
     homepage 'http://www.dafont.com/sufrimeda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sufrimeda.ttf'
 end

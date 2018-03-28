@@ -5,7 +5,6 @@ cask 'dafont-minimum-wage' do
     url 'http://dl.dafont.com/dl/?f=minimum_wage'
     name 'Minimum Wage'
     homepage 'http://www.dafont.com/minimum-wage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MINIMUN.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stackyard' do
     url 'http://dl.dafont.com/dl/?f=stackyard'
     name 'Stackyard'
     homepage 'http://www.dafont.com/stackyard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stackyard_PERSONAL_USE.ttf'
 end

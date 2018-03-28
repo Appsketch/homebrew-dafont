@@ -5,7 +5,6 @@ cask 'dafont-blackleafs' do
     url 'http://dl.dafont.com/dl/?f=blackleafs'
     name 'Blackleafs'
     homepage 'http://www.dafont.com/blackleafs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blackleafs.ttf'
 end

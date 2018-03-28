@@ -5,7 +5,6 @@ cask 'dafont-numbbunny' do
     url 'http://dl.dafont.com/dl/?f=numbbunny'
     name 'NumbBunny'
     homepage 'http://www.dafont.com/numbbunny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NumbBunny.otf'
     font 'NumbBunnyBd.otf'

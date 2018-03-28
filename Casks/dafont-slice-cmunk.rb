@@ -5,7 +5,6 @@ cask 'dafont-slice-cmunk' do
     url 'http://dl.dafont.com/dl/?f=slice_cmunk'
     name 'Slice'
     homepage 'http://www.dafont.com/slice-cmunk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'slice.ttf'
 end

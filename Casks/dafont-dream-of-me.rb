@@ -5,7 +5,6 @@ cask 'dafont-dream-of-me' do
     url 'http://dl.dafont.com/dl/?f=dream_of_me'
     name 'Dream of me'
     homepage 'http://www.dafont.com/dream-of-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DREAMOFM.TTF'
 end

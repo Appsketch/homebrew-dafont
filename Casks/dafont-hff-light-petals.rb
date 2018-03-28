@@ -5,7 +5,6 @@ cask 'dafont-hff-light-petals' do
     url 'http://dl.dafont.com/dl/?f=hff_light_petals'
     name 'HFF Light Petals'
     homepage 'http://www.dafont.com/hff-light-petals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Light Petals.ttf'
 end

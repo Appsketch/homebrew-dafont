@@ -5,7 +5,6 @@ cask 'dafont-convoy' do
     url 'http://dl.dafont.com/dl/?f=convoy'
     name 'Convoy'
     homepage 'http://www.dafont.com/convoy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Convoy Bold Italic.otf'
     font 'Convoy Bold.otf'

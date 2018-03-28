@@ -5,7 +5,6 @@ cask 'dafont-standing-tall' do
     url 'http://dl.dafont.com/dl/?f=standing_tall'
     name 'Standing Tall'
     homepage 'http://www.dafont.com/standing-tall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Standing Tall.ttf'
 end

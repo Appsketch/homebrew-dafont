@@ -5,7 +5,6 @@ cask 'dafont-superpower-synonym' do
     url 'http://dl.dafont.com/dl/?f=superpower_synonym'
     name 'Superpower Synonym'
     homepage 'http://www.dafont.com/superpower-synonym.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Superpower Synonym.otf'
 end

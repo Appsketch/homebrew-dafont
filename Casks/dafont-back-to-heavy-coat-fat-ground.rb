@@ -5,7 +5,6 @@ cask 'dafont-back-to-heavy-coat-fat-ground' do
     url 'http://dl.dafont.com/dl/?f=back_to_heavy_coat_fat_ground'
     name 'Back to heavy coat fat ground'
     homepage 'http://www.dafont.com/back-to-heavy-coat-fat-ground.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'back_to_heavy_coat_fat_ground_grid.ttf'
     font 'back_to_heavy_coat_fat_ground_lineh.ttf'

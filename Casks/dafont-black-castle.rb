@@ -5,7 +5,6 @@ cask 'dafont-black-castle' do
     url 'http://dl.dafont.com/dl/?f=black_castle'
     name 'Black Castle'
     homepage 'http://www.dafont.com/black-castle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackCastleMF.ttf'
 end

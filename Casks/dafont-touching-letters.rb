@@ -5,7 +5,6 @@ cask 'dafont-touching-letters' do
     url 'http://dl.dafont.com/dl/?f=touching_letters'
     name 'Touching Letters'
     homepage 'http://www.dafont.com/touching-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TouchingLetters.ttf'
 end

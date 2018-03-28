@@ -5,7 +5,6 @@ cask 'dafont-katalyst' do
     url 'http://dl.dafont.com/dl/?f=katalyst'
     name 'Katalyst'
     homepage 'http://www.dafont.com/katalyst.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kataacti.ttf'
     font 'katainac.ttf'

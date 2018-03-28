@@ -5,7 +5,6 @@ cask 'dafont-cobac' do
     url 'http://dl.dafont.com/dl/?f=cobac'
     name 'Cobac'
     homepage 'http://www.dafont.com/cobac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cobac.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-comingkiddo' do
     url 'http://dl.dafont.com/dl/?f=comingkiddo'
     name 'Coming kiddo'
     homepage 'http://www.dafont.com/comingkiddo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'coming kiddo.ttf'
 end

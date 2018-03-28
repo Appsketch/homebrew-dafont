@@ -5,7 +5,6 @@ cask 'dafont-funk-machine' do
     url 'http://dl.dafont.com/dl/?f=funk_machine'
     name 'Funk Machine'
     homepage 'http://www.dafont.com/funk-machine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'funkmachine.ttf'
     font 'funkmachine3d.ttf'

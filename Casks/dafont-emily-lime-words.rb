@@ -5,7 +5,6 @@ cask 'dafont-emily-lime-words' do
     url 'http://dl.dafont.com/dl/?f=emily_lime_words'
     name 'Emily Lime Words'
     homepage 'http://www.dafont.com/emily-lime-words.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Emily Lime Words.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-breath2' do
     url 'http://dl.dafont.com/dl/?f=breath2'
     name 'Breath'
     homepage 'http://www.dafont.com/breath2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BREATH.ttf'
 end

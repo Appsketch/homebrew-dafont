@@ -5,7 +5,6 @@ cask 'dafont-regularjoe' do
     url 'http://dl.dafont.com/dl/?f=regularjoe'
     name 'Regular Joe'
     homepage 'http://www.dafont.com/regularjoe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RJOETRIAL.ttf'
 end

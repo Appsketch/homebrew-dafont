@@ -5,7 +5,6 @@ cask 'dafont-goodjean' do
     url 'http://dl.dafont.com/dl/?f=goodjean'
     name 'Goodjean'
     homepage 'http://www.dafont.com/goodjean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Goodjean.ttf'
     font 'GoodjeanShad.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-creaticredad' do
     url 'http://dl.dafont.com/dl/?f=creaticredad'
     name 'CreatiCredad'
     homepage 'http://www.dafont.com/creaticredad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CreatiCredad.ttf'
 end

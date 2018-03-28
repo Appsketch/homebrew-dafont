@@ -5,7 +5,6 @@ cask 'dafont-softline' do
     url 'http://dl.dafont.com/dl/?f=softline'
     name 'Soft Line'
     homepage 'http://www.dafont.com/softline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SoftLine.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-palo-santo' do
     url 'http://dl.dafont.com/dl/?f=palo_santo'
     name 'Palo Santo'
     homepage 'http://www.dafont.com/palo-santo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PALO SANTO.ttf'
 end

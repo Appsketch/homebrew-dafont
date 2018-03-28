@@ -5,7 +5,6 @@ cask 'dafont-macho' do
     url 'http://dl.dafont.com/dl/?f=macho'
     name 'Macho'
     homepage 'http://www.dafont.com/macho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MACHO.ttf'
 end

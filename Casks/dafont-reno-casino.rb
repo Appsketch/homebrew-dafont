@@ -5,7 +5,6 @@ cask 'dafont-reno-casino' do
     url 'http://dl.dafont.com/dl/?f=reno_casino'
     name 'Reno Casino'
     homepage 'http://www.dafont.com/reno-casino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reno Casino.ttf'
 end

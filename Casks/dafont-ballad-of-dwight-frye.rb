@@ -5,7 +5,6 @@ cask 'dafont-ballad-of-dwight-frye' do
     url 'http://dl.dafont.com/dl/?f=ballad_of_dwight_frye'
     name 'Ballad of Dwight Frye'
     homepage 'http://www.dafont.com/ballad-of-dwight-frye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ballad of Dwight Frye.ttf'
 end

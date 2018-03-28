@@ -5,7 +5,6 @@ cask 'dafont-antidotes' do
     url 'http://dl.dafont.com/dl/?f=antidotes'
     name 'Antidotes'
     homepage 'http://www.dafont.com/antidotes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Antidote.ttf'
 end

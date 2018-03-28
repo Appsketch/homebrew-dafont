@@ -5,7 +5,6 @@ cask 'dafont-hangen-henki' do
     url 'http://dl.dafont.com/dl/?f=hangen_henki'
     name 'Hangen henki'
     homepage 'http://www.dafont.com/hangen-henki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hangen henki.ttf'
 end

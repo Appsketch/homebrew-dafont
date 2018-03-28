@@ -5,7 +5,6 @@ cask 'dafont-dyno-sans' do
     url 'http://dl.dafont.com/dl/?f=dyno_sans'
     name 'Dyno Sans'
     homepage 'http://www.dafont.com/dyno-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dyno Bold Italic.ttf'
     font 'Dyno Bold.ttf'

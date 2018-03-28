@@ -5,7 +5,6 @@ cask 'dafont-cosmonautica' do
     url 'http://dl.dafont.com/dl/?f=cosmonautica'
     name 'Cosmonautica'
     homepage 'http://www.dafont.com/cosmonautica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cosmonautica.ttf'
 end

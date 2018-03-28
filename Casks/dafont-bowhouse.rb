@@ -5,7 +5,6 @@ cask 'dafont-bowhouse' do
     url 'http://dl.dafont.com/dl/?f=bowhouse'
     name 'Bowhouse'
     homepage 'http://www.dafont.com/bowhouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bowhouse-Black.otf'
     font 'Bowhouse-Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-coloscobik' do
     url 'http://dl.dafont.com/dl/?f=coloscobik'
     name 'Coloscobik'
     homepage 'http://www.dafont.com/coloscobik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COLOSCOBIK.ttf'
 end

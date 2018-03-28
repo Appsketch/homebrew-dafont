@@ -5,7 +5,6 @@ cask 'dafont-pazuzu' do
     url 'http://dl.dafont.com/dl/?f=pazuzu'
     name 'Pazuzu'
     homepage 'http://www.dafont.com/pazuzu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pazuzu.ttf'
 end

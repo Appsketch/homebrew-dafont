@@ -5,7 +5,6 @@ cask 'dafont-terrortoons' do
     url 'http://dl.dafont.com/dl/?f=terrortoons'
     name 'Terror Toons'
     homepage 'http://www.dafont.com/terrortoons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TerrorToons.ttf'
 end

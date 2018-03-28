@@ -5,7 +5,6 @@ cask 'dafont-angella' do
     url 'http://dl.dafont.com/dl/?f=angella'
     name 'Angella'
     homepage 'http://www.dafont.com/angella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angella_demo.otf'
     font 'Angella_Italic_demo.otf'

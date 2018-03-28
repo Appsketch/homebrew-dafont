@@ -5,7 +5,6 @@ cask 'dafont-think-me-wicked' do
     url 'http://dl.dafont.com/dl/?f=think_me_wicked'
     name 'Think Me Wicked'
     homepage 'http://www.dafont.com/think-me-wicked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THINK_ME_WICKED_DEMO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nano-weknow' do
     url 'http://dl.dafont.com/dl/?f=nano_weknow'
     name 'Nano'
     homepage 'http://www.dafont.com/nano-weknow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nano.ttf'
 end

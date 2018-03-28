@@ -5,7 +5,6 @@ cask 'dafont-djb-pookiedoo' do
     url 'http://dl.dafont.com/dl/?f=djb_pookiedoo'
     name 'DJB Pookiedoo'
     homepage 'http://www.dafont.com/djb-pookiedoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Pookie Doo.ttf'
 end

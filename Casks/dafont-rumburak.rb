@@ -5,7 +5,6 @@ cask 'dafont-rumburak' do
     url 'http://dl.dafont.com/dl/?f=rumburak'
     name 'Rumburak'
     homepage 'http://www.dafont.com/rumburak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rumburak.ttf'
 end

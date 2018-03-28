@@ -5,7 +5,6 @@ cask 'dafont-elvis' do
     url 'http://dl.dafont.com/dl/?f=elvis'
     name 'Elvis'
     homepage 'http://www.dafont.com/elvis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ELVIS___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stridslysten' do
     url 'http://dl.dafont.com/dl/?f=stridslysten'
     name 'Stridslysten'
     homepage 'http://www.dafont.com/stridslysten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stridslysten_medium.TTF'
 end

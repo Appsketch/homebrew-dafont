@@ -5,7 +5,6 @@ cask 'dafont-mini-pop-g' do
     url 'http://dl.dafont.com/dl/?f=mini_pop_g'
     name 'Minipop G'
     homepage 'http://www.dafont.com/mini-pop-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_mini_pop.ttf'
 end

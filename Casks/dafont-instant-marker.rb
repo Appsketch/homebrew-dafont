@@ -5,7 +5,6 @@ cask 'dafont-instant-marker' do
     url 'http://dl.dafont.com/dl/?f=instant_marker'
     name 'Instant Marker'
     homepage 'http://www.dafont.com/instant-marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Instant Marker.ttf'
 end

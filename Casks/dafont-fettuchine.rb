@@ -5,7 +5,6 @@ cask 'dafont-fettuchine' do
     url 'http://dl.dafont.com/dl/?f=fettuchine'
     name 'Fettuchine'
     homepage 'http://www.dafont.com/fettuchine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fettuchine.ttf'
 end

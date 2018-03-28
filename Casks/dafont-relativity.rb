@@ -5,7 +5,6 @@ cask 'dafont-relativity' do
     url 'http://dl.dafont.com/dl/?f=relativity'
     name 'Relativity'
     homepage 'http://www.dafont.com/relativity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Relativity Thin Short.ttf'
     font 'Relativity Thin.ttf'

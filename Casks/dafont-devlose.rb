@@ -5,7 +5,6 @@ cask 'dafont-devlose' do
     url 'http://dl.dafont.com/dl/?f=devlose'
     name 'Devlose'
     homepage 'http://www.dafont.com/devlose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Devlose.ttf'
 end

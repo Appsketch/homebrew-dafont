@@ -5,7 +5,6 @@ cask 'dafont-radagund' do
     url 'http://dl.dafont.com/dl/?f=radagund'
     name 'Radagund'
     homepage 'http://www.dafont.com/radagund.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Radagund.ttf'
 end

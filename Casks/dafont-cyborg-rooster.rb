@@ -5,7 +5,6 @@ cask 'dafont-cyborg-rooster' do
     url 'http://dl.dafont.com/dl/?f=cyborg_rooster'
     name 'Cyborg Rooster'
     homepage 'http://www.dafont.com/cyborg-rooster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cyborgrooster.ttf'
     font 'cyborgrooster3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-alpha-teen' do
     url 'http://dl.dafont.com/dl/?f=alpha_teen'
     name 'Alpha Teen'
     homepage 'http://www.dafont.com/alpha-teen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaSevenTeen.ttf'
     font 'AlphaSixTeen.ttf'

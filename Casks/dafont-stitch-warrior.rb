@@ -5,7 +5,6 @@ cask 'dafont-stitch-warrior' do
     url 'http://dl.dafont.com/dl/?f=stitch_warrior'
     name 'Stitch Warrior'
     homepage 'http://www.dafont.com/stitch-warrior.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StitchWarrior demo.ttf'
 end

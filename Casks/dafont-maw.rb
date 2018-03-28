@@ -5,7 +5,6 @@ cask 'dafont-maw' do
     url 'http://dl.dafont.com/dl/?f=maw'
     name 'Maw'
     homepage 'http://www.dafont.com/maw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAW.ttf'
 end

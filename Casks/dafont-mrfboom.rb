@@ -5,7 +5,6 @@ cask 'dafont-mrfboom' do
     url 'http://dl.dafont.com/dl/?f=mrfboom'
     name 'Mrfboom'
     homepage 'http://www.dafont.com/mrfboom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MRFBOOM.ttf'
 end

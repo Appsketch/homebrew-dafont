@@ -5,7 +5,6 @@ cask 'dafont-janda-happy-day' do
     url 'http://dl.dafont.com/dl/?f=janda_happy_day'
     name 'Janda Happy Day'
     homepage 'http://www.dafont.com/janda-happy-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaHappyDay.ttf'
 end

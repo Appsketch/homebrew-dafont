@@ -5,7 +5,6 @@ cask 'dafont-garter-max' do
     url 'http://dl.dafont.com/dl/?f=garter_max'
     name 'Garter Max'
     homepage 'http://www.dafont.com/garter-max.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'garter_max.ttf'
 end

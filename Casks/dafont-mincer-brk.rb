@@ -5,7 +5,6 @@ cask 'dafont-mincer-brk' do
     url 'http://dl.dafont.com/dl/?f=mincer_brk'
     name 'Mincer BRK'
     homepage 'http://www.dafont.com/mincer-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mincer.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-honey-i-stole-your-' do
     url 'http://dl.dafont.com/dl/?f=honey_i_stole_your_'
     name 'Honey I Stole Your Jumper'
     homepage 'http://www.dafont.com/honey-i-stole-your-.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HONEY.TTF'
 end

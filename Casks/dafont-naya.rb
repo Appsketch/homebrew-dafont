@@ -5,7 +5,6 @@ cask 'dafont-naya' do
     url 'http://dl.dafont.com/dl/?f=naya'
     name 'Naya'
     homepage 'http://www.dafont.com/naya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Naya.ttf'
 end

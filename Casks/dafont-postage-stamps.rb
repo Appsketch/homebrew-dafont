@@ -5,7 +5,6 @@ cask 'dafont-postage-stamps' do
     url 'http://dl.dafont.com/dl/?f=postage_stamps'
     name 'Postage Stamps'
     homepage 'http://www.dafont.com/postage-stamps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'postagestamps.ttf'
 end

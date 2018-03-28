@@ -5,7 +5,6 @@ cask 'dafont-lane' do
     url 'http://dl.dafont.com/dl/?f=lane'
     name 'Lane'
     homepage 'http://www.dafont.com/lane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LANECANE.ttf'
     font 'LANENAR_.ttf'

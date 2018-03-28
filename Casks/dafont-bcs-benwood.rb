@@ -5,7 +5,6 @@ cask 'dafont-bcs-benwood' do
     url 'http://dl.dafont.com/dl/?f=bcs_benwood'
     name 'BCS Benwood'
     homepage 'http://www.dafont.com/bcs-benwood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BCS Benwood.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-shaun-the-sheep' do
     url 'http://dl.dafont.com/dl/?f=shaun_the_sheep'
     name 'Shaun the Sheep'
     homepage 'http://www.dafont.com/shaun-the-sheep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shaun_the_Sheep.ttf'
 end

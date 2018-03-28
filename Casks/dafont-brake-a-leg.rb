@@ -5,7 +5,6 @@ cask 'dafont-brake-a-leg' do
     url 'http://dl.dafont.com/dl/?f=brake_a_leg'
     name 'Brake a leg!'
     homepage 'http://www.dafont.com/brake-a-leg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brake a leg!.ttf'
 end

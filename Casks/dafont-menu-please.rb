@@ -5,7 +5,6 @@ cask 'dafont-menu-please' do
     url 'http://dl.dafont.com/dl/?f=menu_please'
     name 'Menu Please'
     homepage 'http://www.dafont.com/menu-please.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MenuPlease.ttf'
 end

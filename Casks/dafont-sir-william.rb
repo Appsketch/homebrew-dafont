@@ -5,7 +5,6 @@ cask 'dafont-sir-william' do
     url 'http://dl.dafont.com/dl/?f=sir_william'
     name 'Sir William'
     homepage 'http://www.dafont.com/sir-william.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sir_william_hyperbold.ttf'
 end

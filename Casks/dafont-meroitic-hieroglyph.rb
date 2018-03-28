@@ -5,7 +5,6 @@ cask 'dafont-meroitic-hieroglyph' do
     url 'http://dl.dafont.com/dl/?f=meroitic_hieroglyph'
     name 'Meroitic Hieroglyphics'
     homepage 'http://www.dafont.com/meroitic-hieroglyph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MERO_HIE.TTF'
 end

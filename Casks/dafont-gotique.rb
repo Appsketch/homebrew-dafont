@@ -5,7 +5,6 @@ cask 'dafont-gotique' do
     url 'http://dl.dafont.com/dl/?f=gotique'
     name 'Gotique'
     homepage 'http://www.dafont.com/gotique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gotique.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-swordofthegiant' do
     url 'http://dl.dafont.com/dl/?f=swordofthegiant'
     name 'Sword of the Giant'
     homepage 'http://www.dafont.com/swordofthegiant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SwordoftheGiant.ttf'
 end

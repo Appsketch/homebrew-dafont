@@ -5,7 +5,6 @@ cask 'dafont-offenbach-chancery' do
     url 'http://dl.dafont.com/dl/?f=offenbach_chancery'
     name 'Offenbach Chancery'
     homepage 'http://www.dafont.com/offenbach-chancery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ofc_____.ttf'
 end

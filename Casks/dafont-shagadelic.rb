@@ -5,7 +5,6 @@ cask 'dafont-shagadelic' do
     url 'http://dl.dafont.com/dl/?f=shagadelic'
     name 'Shagadelic'
     homepage 'http://www.dafont.com/shagadelic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shagade.ttf'
 end

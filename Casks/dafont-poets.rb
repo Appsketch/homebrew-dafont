@@ -5,7 +5,6 @@ cask 'dafont-poets' do
     url 'http://dl.dafont.com/dl/?f=poets'
     name 'Poets'
     homepage 'http://www.dafont.com/poets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Poets_bold.ttf'
     font 'Poets_italic.ttf'

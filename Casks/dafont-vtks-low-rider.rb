@@ -5,7 +5,6 @@ cask 'dafont-vtks-low-rider' do
     url 'http://dl.dafont.com/dl/?f=vtks_low_rider'
     name 'VTKS Low Rider'
     homepage 'http://www.dafont.com/vtks-low-rider.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS LowRider.ttf'
     font 'VTKS LowRiderBox.ttf'

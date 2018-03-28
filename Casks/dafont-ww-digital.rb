@@ -5,7 +5,6 @@ cask 'dafont-ww-digital' do
     url 'http://dl.dafont.com/dl/?f=ww_digital'
     name 'WW Digital'
     homepage 'http://www.dafont.com/ww-digital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wwDigital.ttf'
 end

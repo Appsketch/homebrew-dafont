@@ -5,7 +5,6 @@ cask 'dafont-blocko-typeface' do
     url 'http://dl.dafont.com/dl/?f=blocko_typeface'
     name 'Blocko Typeface'
     homepage 'http://www.dafont.com/blocko-typeface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLOCKO_typeface.ttf'
 end

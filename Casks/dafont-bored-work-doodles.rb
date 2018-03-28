@@ -5,7 +5,6 @@ cask 'dafont-bored-work-doodles' do
     url 'http://dl.dafont.com/dl/?f=bored_work_doodles'
     name 'Bored Work Doodles'
     homepage 'http://www.dafont.com/bored-work-doodles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bored_Work_Doodles.ttf'
 end

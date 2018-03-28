@@ -5,7 +5,6 @@ cask 'dafont-faded-memory' do
     url 'http://dl.dafont.com/dl/?f=faded_memory'
     name 'Faded Memory'
     homepage 'http://www.dafont.com/faded-memory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FadedMemoryDEMO.ttf'
 end

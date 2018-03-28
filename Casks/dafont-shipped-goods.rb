@@ -5,7 +5,6 @@ cask 'dafont-shipped-goods' do
     url 'http://dl.dafont.com/dl/?f=shipped_goods'
     name 'Shipped Goods'
     homepage 'http://www.dafont.com/shipped-goods.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PersonalUse_ShippedGoods1.ttf'
     font 'PersonalUse_ShippedGoods2.ttf'

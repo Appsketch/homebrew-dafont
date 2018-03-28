@@ -5,7 +5,6 @@ cask 'dafont-fine-stencil' do
     url 'http://dl.dafont.com/dl/?f=fine_stencil'
     name 'Fine Stencil'
     homepage 'http://www.dafont.com/fine-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fine-stencil - Dker.ttf'
 end

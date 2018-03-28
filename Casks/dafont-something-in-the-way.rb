@@ -5,7 +5,6 @@ cask 'dafont-something-in-the-way' do
     url 'http://dl.dafont.com/dl/?f=something_in_the_way'
     name 'Something in the way'
     homepage 'http://www.dafont.com/something-in-the-way.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Something in the way.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-horros' do
     url 'http://dl.dafont.com/dl/?f=horros'
     name 'Horros'
     homepage 'http://www.dafont.com/horros.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'horros.ttf'
 end

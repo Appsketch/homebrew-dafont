@@ -5,7 +5,6 @@ cask 'dafont-love-til-killed' do
     url 'http://dl.dafont.com/dl/?f=love_til_killed'
     name 'Love Til Killed'
     homepage 'http://www.dafont.com/love-til-killed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOVE til KILLED.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-keyboard-plaque' do
     url 'http://dl.dafont.com/dl/?f=keyboard_plaque'
     name 'Keyboard Plaque'
     homepage 'http://www.dafont.com/keyboard-plaque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'keybp___.ttf'
 end

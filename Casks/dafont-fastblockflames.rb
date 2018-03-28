@@ -5,7 +5,6 @@ cask 'dafont-fastblockflames' do
     url 'http://dl.dafont.com/dl/?f=fastblockflames'
     name 'Fast Block Flames'
     homepage 'http://www.dafont.com/fastblockflames.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FastBlockFlames.ttf'
 end

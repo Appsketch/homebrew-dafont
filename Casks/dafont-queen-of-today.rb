@@ -5,7 +5,6 @@ cask 'dafont-queen-of-today' do
     url 'http://dl.dafont.com/dl/?f=queen_of_today'
     name 'Queen of today'
     homepage 'http://www.dafont.com/queen-of-today.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Queen of today Bold.ttf'
     font 'Queen of today.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-pwbroderie' do
     url 'http://dl.dafont.com/dl/?f=pwbroderie'
     name 'PW Broderie'
     homepage 'http://www.dafont.com/pwbroderie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWBroderie.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-callejera' do
     url 'http://dl.dafont.com/dl/?f=callejera'
     name 'Callejera'
     homepage 'http://www.dafont.com/callejera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'callejera_carona.otf'
     font 'callejera_filete.otf'

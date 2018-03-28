@@ -5,7 +5,6 @@ cask 'dafont-barbera-twisted' do
     url 'http://dl.dafont.com/dl/?f=barbera_twisted'
     name 'Barbera Twisted'
     homepage 'http://www.dafont.com/barbera-twisted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BarberaTwisted-Opaque.otf'
     font 'BarbTwistedBlocks .otf'

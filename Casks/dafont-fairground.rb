@@ -5,7 +5,6 @@ cask 'dafont-fairground' do
     url 'http://dl.dafont.com/dl/?f=fairground'
     name 'Fairground'
     homepage 'http://www.dafont.com/fairground.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fairground.ttf'
 end

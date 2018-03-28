@@ -5,7 +5,6 @@ cask 'dafont-yiggivoo' do
     url 'http://dl.dafont.com/dl/?f=yiggivoo'
     name 'Yiggivoo'
     homepage 'http://www.dafont.com/yiggivoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yiggivoo UC 3D.ttf'
     font 'Yiggivoo UC_I_3D.ttf'

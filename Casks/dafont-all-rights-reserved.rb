@@ -5,7 +5,6 @@ cask 'dafont-all-rights-reserved' do
     url 'http://dl.dafont.com/dl/?f=all_rights_reserved'
     name 'All Rights Reserved'
     homepage 'http://www.dafont.com/all-rights-reserved.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'All rights reserved.ttf'
 end

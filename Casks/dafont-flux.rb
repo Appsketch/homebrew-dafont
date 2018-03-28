@@ -5,7 +5,6 @@ cask 'dafont-flux' do
     url 'http://dl.dafont.com/dl/?f=flux'
     name 'Flux Architect'
     homepage 'http://www.dafont.com/flux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flux Architect Bold Italic.ttf'
     font 'Flux Architect Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-mashy-valentine' do
     url 'http://dl.dafont.com/dl/?f=mashy_valentine'
     name 'Mashy Valentine'
     homepage 'http://www.dafont.com/mashy-valentine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mashyval.ttf'
 end

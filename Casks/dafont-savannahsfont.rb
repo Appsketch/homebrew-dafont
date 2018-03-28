@@ -5,7 +5,6 @@ cask 'dafont-savannahsfont' do
     url 'http://dl.dafont.com/dl/?f=savannahsfont'
     name 'Savannahs'
     homepage 'http://www.dafont.com/savannahsfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SavannahsFont.ttf'
 end

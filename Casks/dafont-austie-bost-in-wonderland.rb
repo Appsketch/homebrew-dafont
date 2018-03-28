@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-in-wonderland' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_in_wonderland'
     name 'Austie Bost in Wonderland'
     homepage 'http://www.dafont.com/austie-bost-in-wonderland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost in Wonderland.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cuxhaven-times' do
     url 'http://dl.dafont.com/dl/?f=cuxhaven_times'
     name 'Cuxhaven Times'
     homepage 'http://www.dafont.com/cuxhaven-times.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CuxhavenTimes.ttf'
 end

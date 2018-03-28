@@ -5,7 +5,6 @@ cask 'dafont-prophet' do
     url 'http://dl.dafont.com/dl/?f=prophet'
     name 'Prophet'
     homepage 'http://www.dafont.com/prophet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Prophet.ttf'
 end

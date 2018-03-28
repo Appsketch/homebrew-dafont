@@ -5,7 +5,6 @@ cask 'dafont-dk-blue-sheep' do
     url 'http://dl.dafont.com/dl/?f=dk_blue_sheep'
     name 'DK Blue Sheep'
     homepage 'http://www.dafont.com/dk-blue-sheep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Blue Sheep.otf'
 end

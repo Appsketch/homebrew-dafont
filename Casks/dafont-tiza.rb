@@ -5,7 +5,6 @@ cask 'dafont-tiza' do
     url 'http://dl.dafont.com/dl/?f=tiza'
     name 'Tiza'
     homepage 'http://www.dafont.com/tiza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tiza.ttf'
 end

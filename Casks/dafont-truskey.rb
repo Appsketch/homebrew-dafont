@@ -5,7 +5,6 @@ cask 'dafont-truskey' do
     url 'http://dl.dafont.com/dl/?f=truskey'
     name 'Truskey'
     homepage 'http://www.dafont.com/truskey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truskey.otf'
 end

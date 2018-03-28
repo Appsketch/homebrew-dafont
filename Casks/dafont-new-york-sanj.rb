@@ -5,7 +5,6 @@ cask 'dafont-new-york-sanj' do
     url 'http://dl.dafont.com/dl/?f=new_york_sanj'
     name 'New York Sanj'
     homepage 'http://www.dafont.com/new-york-sanj.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'new_york_sanj.TTF'
 end

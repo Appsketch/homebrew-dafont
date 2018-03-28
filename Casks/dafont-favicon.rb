@@ -5,7 +5,6 @@ cask 'dafont-favicon' do
     url 'http://dl.dafont.com/dl/?f=favicon'
     name 'Favicon'
     homepage 'http://www.dafont.com/favicon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Favicon.ttf'
 end

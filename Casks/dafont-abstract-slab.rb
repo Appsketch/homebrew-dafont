@@ -5,7 +5,6 @@ cask 'dafont-abstract-slab' do
     url 'http://dl.dafont.com/dl/?f=abstract_slab'
     name 'Abstract Slab'
     homepage 'http://www.dafont.com/abstract-slab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'abstract_slab.ttf'
 end

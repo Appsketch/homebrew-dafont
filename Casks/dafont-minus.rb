@@ -5,7 +5,6 @@ cask 'dafont-minus' do
     url 'http://dl.dafont.com/dl/?f=minus'
     name 'Minus'
     homepage 'http://www.dafont.com/minus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MINUS___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pwirregular' do
     url 'http://dl.dafont.com/dl/?f=pwirregular'
     name 'PW Irregular'
     homepage 'http://www.dafont.com/pwirregular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWIrregular.ttf'
 end

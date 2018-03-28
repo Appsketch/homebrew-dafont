@@ -5,7 +5,6 @@ cask 'dafont-creatinin-pap' do
     url 'http://dl.dafont.com/dl/?f=creatinin_pap'
     name 'Creatinin'
     homepage 'http://www.dafont.com/creatinin-pap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'creatinin-pro.otf'
 end

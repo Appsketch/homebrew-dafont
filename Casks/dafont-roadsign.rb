@@ -5,7 +5,6 @@ cask 'dafont-roadsign' do
     url 'http://dl.dafont.com/dl/?f=roadsign'
     name 'RoadSign + Warning'
     homepage 'http://www.dafont.com/roadsign.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RD_SGN_W.TTF'
     font 'ROADSIGN.TTF'

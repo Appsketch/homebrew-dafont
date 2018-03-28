@@ -5,7 +5,6 @@ cask 'dafont-bodoni-xt' do
     url 'http://dl.dafont.com/dl/?f=bodoni_xt'
     name 'Bodoni XT'
     homepage 'http://www.dafont.com/bodoni-xt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BodoniXT.ttf'
 end

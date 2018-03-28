@@ -5,7 +5,6 @@ cask 'dafont-commotion-business' do
     url 'http://dl.dafont.com/dl/?f=commotion_business'
     name 'Commotion Business'
     homepage 'http://www.dafont.com/commotion-business.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Commotion_Business.ttf'
 end

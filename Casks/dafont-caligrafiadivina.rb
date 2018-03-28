@@ -5,7 +5,6 @@ cask 'dafont-caligrafiadivina' do
     url 'http://dl.dafont.com/dl/?f=caligrafiadivina'
     name 'Caligrafia Divina'
     homepage 'http://www.dafont.com/caligrafiadivina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CaligrafiaDivina.ttf'
 end

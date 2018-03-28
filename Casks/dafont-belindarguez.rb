@@ -5,7 +5,6 @@ cask 'dafont-belindarguez' do
     url 'http://dl.dafont.com/dl/?f=belindarguez'
     name 'Belinda RGuez'
     homepage 'http://www.dafont.com/belindarguez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'belindaRGUEZ.ttf'
 end

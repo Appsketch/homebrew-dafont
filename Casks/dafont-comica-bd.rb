@@ -5,7 +5,6 @@ cask 'dafont-comica-bd' do
     url 'http://dl.dafont.com/dl/?f=comica_bd'
     name 'Comica BD'
     homepage 'http://www.dafont.com/comica-bd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comica BD Bold.ttf'
     font 'Comica BD.ttf'

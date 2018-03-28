@@ -5,7 +5,6 @@ cask 'dafont-pataques' do
     url 'http://dl.dafont.com/dl/?f=pataques'
     name 'Pataques'
     homepage 'http://www.dafont.com/pataques.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pataques.ttf'
     font 'PataquesBrush.ttf'

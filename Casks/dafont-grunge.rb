@@ -5,7 +5,6 @@ cask 'dafont-grunge' do
     url 'http://dl.dafont.com/dl/?f=grunge'
     name 'Grunge'
     homepage 'http://www.dafont.com/grunge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRUNGE.TTF'
 end

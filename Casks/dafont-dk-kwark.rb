@@ -5,7 +5,6 @@ cask 'dafont-dk-kwark' do
     url 'http://dl.dafont.com/dl/?f=dk_kwark'
     name 'DK Kwark'
     homepage 'http://www.dafont.com/dk-kwark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Kwark.otf'
 end

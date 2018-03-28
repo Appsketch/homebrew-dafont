@@ -5,7 +5,6 @@ cask 'dafont-scrapicons' do
     url 'http://dl.dafont.com/dl/?f=scrapicons'
     name 'ScrapiCons'
     homepage 'http://www.dafont.com/scrapicons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ScrapiCons.ttf'
 end

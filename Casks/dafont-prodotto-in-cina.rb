@@ -5,7 +5,6 @@ cask 'dafont-prodotto-in-cina' do
     url 'http://dl.dafont.com/dl/?f=prodotto_in_cina'
     name 'Prodotto In Cina'
     homepage 'http://www.dafont.com/prodotto-in-cina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Prodotto In Cina.ttf'
 end

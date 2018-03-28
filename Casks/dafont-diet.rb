@@ -5,7 +5,6 @@ cask 'dafont-diet' do
     url 'http://dl.dafont.com/dl/?f=diet'
     name 'Diet'
     homepage 'http://www.dafont.com/diet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diet_Fat.otf'
 end

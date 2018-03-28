@@ -5,7 +5,6 @@ cask 'dafont-go-2-old-western' do
     url 'http://dl.dafont.com/dl/?f=go_2_old_western'
     name 'Go 2 Old Western'
     homepage 'http://www.dafont.com/go-2-old-western.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Go 2 Old Western Italic.ttf'
     font 'Go 2 Old Western.ttf'

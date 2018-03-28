@@ -5,7 +5,6 @@ cask 'dafont-ruritania' do
     url 'http://dl.dafont.com/dl/?f=ruritania'
     name 'Ruritania'
     homepage 'http://www.dafont.com/ruritania.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ruritania-Outline.ttf'
     font 'Ruritania.ttf'

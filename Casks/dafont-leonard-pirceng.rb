@@ -5,7 +5,6 @@ cask 'dafont-leonard-pirceng' do
     url 'http://dl.dafont.com/dl/?f=leonard_pirceng'
     name 'Leonard Pirceng'
     homepage 'http://www.dafont.com/leonard-pirceng.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'leonard_pirceng.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-runescape-uf' do
     url 'http://dl.dafont.com/dl/?f=runescape_uf'
     name 'RuneScape UF'
     homepage 'http://www.dafont.com/runescape-uf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'runescape_uf.ttf'
 end

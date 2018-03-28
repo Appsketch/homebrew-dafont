@@ -5,7 +5,6 @@ cask 'dafont-strenuous' do
     url 'http://dl.dafont.com/dl/?f=strenuous'
     name 'Strenuous'
     homepage 'http://www.dafont.com/strenuous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'strenuous 3d.ttf'
     font 'strenuous bl.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-blackboard-ultra' do
     url 'http://dl.dafont.com/dl/?f=blackboard_ultra'
     name 'Blackboard Ultra'
     homepage 'http://www.dafont.com/blackboard-ultra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blackboardultra.otf'
 end

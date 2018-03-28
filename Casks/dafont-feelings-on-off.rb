@@ -5,7 +5,6 @@ cask 'dafont-feelings-on-off' do
     url 'http://dl.dafont.com/dl/?f=feelings_on_off'
     name 'Feelings On / Off'
     homepage 'http://www.dafont.com/feelings-on-off.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Feelings On Off.ttf'
 end

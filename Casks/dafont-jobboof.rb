@@ -5,7 +5,6 @@ cask 'dafont-jobboof' do
     url 'http://dl.dafont.com/dl/?f=jobboof'
     name 'JobBoof'
     homepage 'http://www.dafont.com/jobboof.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JobBoof.ttf'
 end

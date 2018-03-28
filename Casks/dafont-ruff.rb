@@ -5,7 +5,6 @@ cask 'dafont-ruff' do
     url 'http://dl.dafont.com/dl/?f=ruff'
     name 'Ruff'
     homepage 'http://www.dafont.com/ruff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ruff.ttf'
 end

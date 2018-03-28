@@ -5,7 +5,6 @@ cask 'dafont-gabriele-bad-ah' do
     url 'http://dl.dafont.com/dl/?f=gabriele_bad_ah'
     name 'Gabriele Bad AH'
     homepage 'http://www.dafont.com/gabriele-bad-ah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gabriele-bad.ttf'
 end

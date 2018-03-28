@@ -5,7 +5,6 @@ cask 'dafont-it-started-here' do
     url 'http://dl.dafont.com/dl/?f=it_started_here'
     name 'It started here'
     homepage 'http://www.dafont.com/it-started-here.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'It started here, again.ttf'
     font 'It started here.ttf'

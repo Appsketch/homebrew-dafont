@@ -5,7 +5,6 @@ cask 'dafont-kopleng' do
     url 'http://dl.dafont.com/dl/?f=kopleng'
     name 'Kopleng'
     homepage 'http://www.dafont.com/kopleng.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kopleng.ttf'
 end

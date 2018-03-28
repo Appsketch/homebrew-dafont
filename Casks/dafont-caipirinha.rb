@@ -5,7 +5,6 @@ cask 'dafont-caipirinha' do
     url 'http://dl.dafont.com/dl/?f=caipirinha'
     name 'Caipirinha'
     homepage 'http://www.dafont.com/caipirinha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CAIPIRINHA.ttf'
 end

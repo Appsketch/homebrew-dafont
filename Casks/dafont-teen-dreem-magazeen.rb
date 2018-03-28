@@ -5,7 +5,6 @@ cask 'dafont-teen-dreem-magazeen' do
     url 'http://dl.dafont.com/dl/?f=teen_dreem_magazeen'
     name 'Teen Dreem Magazeen'
     homepage 'http://www.dafont.com/teen-dreem-magazeen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kktdmag.ttf'
 end

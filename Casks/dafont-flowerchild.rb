@@ -5,7 +5,6 @@ cask 'dafont-flowerchild' do
     url 'http://dl.dafont.com/dl/?f=flowerchild'
     name 'Flowerchild'
     homepage 'http://www.dafont.com/flowerchild.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flowerchild-Plain.ttf'
 end

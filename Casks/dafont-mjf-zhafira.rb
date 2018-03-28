@@ -5,7 +5,6 @@ cask 'dafont-mjf-zhafira' do
     url 'http://dl.dafont.com/dl/?f=mjf_zhafira'
     name 'MJF Zhafira'
     homepage 'http://www.dafont.com/mjf-zhafira.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MJF Zhafira Demo.ttf'
 end

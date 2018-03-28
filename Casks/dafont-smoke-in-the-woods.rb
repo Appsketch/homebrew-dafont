@@ -5,7 +5,6 @@ cask 'dafont-smoke-in-the-woods' do
     url 'http://dl.dafont.com/dl/?f=smoke_in_the_woods'
     name 'Smoke In The Woods'
     homepage 'http://www.dafont.com/smoke-in-the-woods.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SmokeInTheWoodsDEMO.otf'
 end

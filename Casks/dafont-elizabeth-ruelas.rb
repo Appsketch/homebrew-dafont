@@ -5,7 +5,6 @@ cask 'dafont-elizabeth-ruelas' do
     url 'http://dl.dafont.com/dl/?f=elizabeth_ruelas'
     name 'Elizabeth Ruelas'
     homepage 'http://www.dafont.com/elizabeth-ruelas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'elizabeth CURSIVA.ttf'
     font 'Elizabeth.ttf'

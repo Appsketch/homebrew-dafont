@@ -5,7 +5,6 @@ cask 'dafont-kg-a-teeny-tiny-font' do
     url 'http://dl.dafont.com/dl/?f=kg_a_teeny_tiny_font'
     name 'KG A Teeny Tiny Font'
     homepage 'http://www.dafont.com/kg-a-teeny-tiny-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGATeenyTinyFont.ttf'
     font 'KGATeenyTinyHeart.ttf'

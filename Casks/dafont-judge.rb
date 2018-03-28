@@ -5,7 +5,6 @@ cask 'dafont-judge' do
     url 'http://dl.dafont.com/dl/?f=judge'
     name 'Judge'
     homepage 'http://www.dafont.com/judge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'judgev2.ttf'
     font 'judgev23d.ttf'

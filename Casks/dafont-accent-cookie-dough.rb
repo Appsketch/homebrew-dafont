@@ -5,7 +5,6 @@ cask 'dafont-accent-cookie-dough' do
     url 'http://dl.dafont.com/dl/?f=accent_cookie_dough'
     name 'Accent Cookie Dough'
     homepage 'http://www.dafont.com/accent-cookie-dough.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Accent Cookie Dough.ttf'
 end

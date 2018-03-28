@@ -5,7 +5,6 @@ cask 'dafont-ruthless-one' do
     url 'http://dl.dafont.com/dl/?f=ruthless_one'
     name 'Ruthless One'
     homepage 'http://www.dafont.com/ruthless-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RuthlessDrippin1.ttf'
     font 'RuthlessWreckin1.ttf'

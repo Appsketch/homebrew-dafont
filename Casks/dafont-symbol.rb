@@ -5,7 +5,6 @@ cask 'dafont-symbol' do
     url 'http://dl.dafont.com/dl/?f=symbol'
     name 'Symbol'
     homepage 'http://www.dafont.com/symbol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'symbol.ttf'
 end

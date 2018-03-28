@@ -5,7 +5,6 @@ cask 'dafont-tahtelbahir-komik' do
     url 'http://dl.dafont.com/dl/?f=tahtelbahir_komik'
     name 'Tahtelbahir komik'
     homepage 'http://www.dafont.com/tahtelbahir-komik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tahtelbahirkomik-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-absender' do
     url 'http://dl.dafont.com/dl/?f=absender'
     name 'Absender'
     homepage 'http://www.dafont.com/absender.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'absender1.ttf'
 end

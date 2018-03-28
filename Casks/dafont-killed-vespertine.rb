@@ -5,7 +5,6 @@ cask 'dafont-killed-vespertine' do
     url 'http://dl.dafont.com/dl/?f=killed_vespertine'
     name 'Killed Vespertine'
     homepage 'http://www.dafont.com/killed-vespertine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Killed Vespertine.ttf'
 end

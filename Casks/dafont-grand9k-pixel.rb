@@ -5,7 +5,6 @@ cask 'dafont-grand9k-pixel' do
     url 'http://dl.dafont.com/dl/?f=grand9k_pixel'
     name 'Grand9K Pixel'
     homepage 'http://www.dafont.com/grand9k-pixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grand9K Pixel.ttf'
 end

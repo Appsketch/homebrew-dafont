@@ -5,7 +5,6 @@ cask 'dafont-janinos-juosta' do
     url 'http://dl.dafont.com/dl/?f=janinos_juosta'
     name 'Janinos Juosta'
     homepage 'http://www.dafont.com/janinos-juosta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'janinosjuosta.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-latinia' do
     url 'http://dl.dafont.com/dl/?f=latinia'
     name 'Latinia'
     homepage 'http://www.dafont.com/latinia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Latinia.ttf'
     font 'LatiniaBlack.ttf'

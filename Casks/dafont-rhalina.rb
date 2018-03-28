@@ -5,7 +5,6 @@ cask 'dafont-rhalina' do
     url 'http://dl.dafont.com/dl/?f=rhalina'
     name 'Rhalina'
     homepage 'http://www.dafont.com/rhalina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rhalina.ttf'
     font 'rhalinab.ttf'

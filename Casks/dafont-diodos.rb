@@ -5,7 +5,6 @@ cask 'dafont-diodos' do
     url 'http://dl.dafont.com/dl/?f=diodos'
     name 'Diodos'
     homepage 'http://www.dafont.com/diodos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diodos.ttf'
 end

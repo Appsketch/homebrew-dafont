@@ -5,7 +5,6 @@ cask 'dafont-void-pixel-7' do
     url 'http://dl.dafont.com/dl/?f=void_pixel_7'
     name 'Void Pixel-7'
     homepage 'http://www.dafont.com/void-pixel-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'void_pixel-7.ttf'
 end

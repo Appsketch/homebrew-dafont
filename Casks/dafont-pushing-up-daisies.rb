@@ -5,7 +5,6 @@ cask 'dafont-pushing-up-daisies' do
     url 'http://dl.dafont.com/dl/?f=pushing_up_daisies'
     name 'Pushing Up Daisies'
     homepage 'http://www.dafont.com/pushing-up-daisies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pushing Up Daisies .ttf'
 end

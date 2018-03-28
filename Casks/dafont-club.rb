@@ -5,7 +5,6 @@ cask 'dafont-club' do
     url 'http://dl.dafont.com/dl/?f=club'
     name 'Club'
     homepage 'http://www.dafont.com/club.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CLUB____.TTF'
 end

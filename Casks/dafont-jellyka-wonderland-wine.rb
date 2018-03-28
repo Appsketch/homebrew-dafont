@@ -5,7 +5,6 @@ cask 'dafont-jellyka-wonderland-wine' do
     url 'http://dl.dafont.com/dl/?f=jellyka_wonderland_wine'
     name 'Jellyka Wonderland Wine'
     homepage 'http://www.dafont.com/jellyka-wonderland-wine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JellykaWonderlandWine.ttf'
 end

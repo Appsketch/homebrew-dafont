@@ -5,7 +5,6 @@ cask 'dafont-ufont' do
     url 'http://dl.dafont.com/dl/?f=ufont'
     name 'UFont'
     homepage 'http://www.dafont.com/ufont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UFont Sans Medium.ttf'
 end

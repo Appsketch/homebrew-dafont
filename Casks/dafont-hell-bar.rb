@@ -5,7 +5,6 @@ cask 'dafont-hell-bar' do
     url 'http://dl.dafont.com/dl/?f=hell_bar'
     name 'Hell Bar'
     homepage 'http://www.dafont.com/hell-bar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hell Bar.ttf'
 end

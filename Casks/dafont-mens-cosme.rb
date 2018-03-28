@@ -5,7 +5,6 @@ cask 'dafont-mens-cosme' do
     url 'http://dl.dafont.com/dl/?f=mens_cosme'
     name 'Men&#039;s Cosme'
     homepage 'http://www.dafont.com/mens-cosme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mc__.ttf'
 end

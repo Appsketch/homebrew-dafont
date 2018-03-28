@@ -5,7 +5,6 @@ cask 'dafont-asman' do
     url 'http://dl.dafont.com/dl/?f=asman'
     name 'Asman'
     homepage 'http://www.dafont.com/asman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASMAN.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jackiekcursive' do
     url 'http://dl.dafont.com/dl/?f=jackiekcursive'
     name 'Jackie K Cursive'
     homepage 'http://www.dafont.com/jackiekcursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JackieKCursive.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hakee2' do
     url 'http://dl.dafont.com/dl/?f=hakee2'
     name 'Hakee 2'
     homepage 'http://www.dafont.com/hakee2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hakee2.ttf'
 end

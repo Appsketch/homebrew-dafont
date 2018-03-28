@@ -5,7 +5,6 @@ cask 'dafont-black-rodeo' do
     url 'http://dl.dafont.com/dl/?f=black_rodeo'
     name 'Black Rodeo'
     homepage 'http://www.dafont.com/black-rodeo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black Rodeo.ttf'
 end

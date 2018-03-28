@@ -5,7 +5,6 @@ cask 'dafont-sf-movie-poster' do
     url 'http://dl.dafont.com/dl/?f=sf_movie_poster'
     name 'SF Movie Poster'
     homepage 'http://www.dafont.com/sf-movie-poster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Movie Poster Bold Oblique.ttf'
     font 'SF Movie Poster Bold.ttf'

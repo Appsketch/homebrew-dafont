@@ -5,7 +5,6 @@ cask 'dafont-nataliesfont' do
     url 'http://dl.dafont.com/dl/?f=nataliesfont'
     name 'NataliesFont'
     homepage 'http://www.dafont.com/nataliesfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NataliesFont.ttf'
 end

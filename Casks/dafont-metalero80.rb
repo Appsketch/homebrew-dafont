@@ -5,7 +5,6 @@ cask 'dafont-metalero80' do
     url 'http://dl.dafont.com/dl/?f=metalero80'
     name 'Metalero80'
     homepage 'http://www.dafont.com/metalero80.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Metalero80.ttf'
 end

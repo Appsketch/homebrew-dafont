@@ -5,7 +5,6 @@ cask 'dafont-purge' do
     url 'http://dl.dafont.com/dl/?f=purge'
     name 'Purge'
     homepage 'http://www.dafont.com/purge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'purge.[fontvir.us].ttf'
 end

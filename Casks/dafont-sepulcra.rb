@@ -5,7 +5,6 @@ cask 'dafont-sepulcra' do
     url 'http://dl.dafont.com/dl/?f=sepulcra'
     name 'Sepulcra'
     homepage 'http://www.dafont.com/sepulcra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sepulcra.ttf'
 end

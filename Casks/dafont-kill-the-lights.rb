@@ -5,7 +5,6 @@ cask 'dafont-kill-the-lights' do
     url 'http://dl.dafont.com/dl/?f=kill_the_lights'
     name 'Mf Kill The Lights'
     homepage 'http://www.dafont.com/kill-the-lights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Kill The Lights.ttf'
 end

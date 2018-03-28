@@ -5,7 +5,6 @@ cask 'dafont-supreme-fontaliciou' do
     url 'http://dl.dafont.com/dl/?f=supreme_fontaliciou'
     name 'Supreme'
     homepage 'http://www.dafont.com/supreme-fontaliciou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPREME_.TTF'
 end

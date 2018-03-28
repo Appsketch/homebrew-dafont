@@ -5,7 +5,6 @@ cask 'dafont-caramella' do
     url 'http://dl.dafont.com/dl/?f=caramella'
     name 'Caramella'
     homepage 'http://www.dafont.com/caramella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caramella_Regular.ttf'
 end

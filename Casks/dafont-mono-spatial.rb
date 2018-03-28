@@ -5,7 +5,6 @@ cask 'dafont-mono-spatial' do
     url 'http://dl.dafont.com/dl/?f=mono_spatial'
     name 'Mono Spatial'
     homepage 'http://www.dafont.com/mono-spatial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MonoSpatial.ttf'
 end

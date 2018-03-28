@@ -5,7 +5,6 @@ cask 'dafont-alleana-script' do
     url 'http://dl.dafont.com/dl/?f=alleana_script'
     name 'Alleana Script'
     homepage 'http://www.dafont.com/alleana-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alleana Script.otf'
 end

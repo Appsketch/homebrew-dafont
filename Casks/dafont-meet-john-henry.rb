@@ -5,7 +5,6 @@ cask 'dafont-meet-john-henry' do
     url 'http://dl.dafont.com/dl/?f=meet_john_henry'
     name 'Meet John Henry'
     homepage 'http://www.dafont.com/meet-john-henry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEETJH__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-keep-out' do
     url 'http://dl.dafont.com/dl/?f=keep_out'
     name 'Keep Out'
     homepage 'http://www.dafont.com/keep-out.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Keep Out.ttf'
 end

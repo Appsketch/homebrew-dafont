@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-wibbly' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_wibbly'
     name 'Austie Bost Wibbly'
     homepage 'http://www.dafont.com/austie-bost-wibbly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Wibbly.ttf'
 end

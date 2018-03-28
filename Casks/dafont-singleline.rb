@@ -5,7 +5,6 @@ cask 'dafont-singleline' do
     url 'http://dl.dafont.com/dl/?f=singleline'
     name 'SingleLine'
     homepage 'http://www.dafont.com/singleline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SingleLine.ttf'
 end

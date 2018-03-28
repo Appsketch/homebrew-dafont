@@ -5,7 +5,6 @@ cask 'dafont-incopins-clusters' do
     url 'http://dl.dafont.com/dl/?f=incopins_clusters'
     name 'Incopins Clusters'
     homepage 'http://www.dafont.com/incopins-clusters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Incopins Clusters b.ttf'
     font 'Incopins Clusters Bi.ttf'

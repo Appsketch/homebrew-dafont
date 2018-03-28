@@ -5,7 +5,6 @@ cask 'dafont-this-font-is-bold' do
     url 'http://dl.dafont.com/dl/?f=this_font_is_bold'
     name 'This Font Is Bold'
     homepage 'http://www.dafont.com/this-font-is-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THIS FONT IS BOLD.ttf'
 end

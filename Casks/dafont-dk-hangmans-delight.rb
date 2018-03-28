@@ -5,7 +5,6 @@ cask 'dafont-dk-hangmans-delight' do
     url 'http://dl.dafont.com/dl/?f=dk_hangmans_delight'
     name 'DK Hangman&#039;s Delight'
     homepage 'http://www.dafont.com/dk-hangmans-delight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Hangman&#039;s Delight.otf'
 end

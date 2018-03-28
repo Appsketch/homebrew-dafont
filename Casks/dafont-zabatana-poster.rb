@@ -5,7 +5,6 @@ cask 'dafont-zabatana-poster' do
     url 'http://dl.dafont.com/dl/?f=zabatana_poster'
     name 'Zabatana Poster'
     homepage 'http://www.dafont.com/zabatana-poster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zabatana-Poster.otf'
 end

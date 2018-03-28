@@ -5,7 +5,6 @@ cask 'dafont-crazy-thoughts' do
     url 'http://dl.dafont.com/dl/?f=crazy_thoughts'
     name 'Crazy Thoughts'
     homepage 'http://www.dafont.com/crazy-thoughts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crazy Thoughts.otf'
 end

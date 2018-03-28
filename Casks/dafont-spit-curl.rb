@@ -5,7 +5,6 @@ cask 'dafont-spit-curl' do
     url 'http://dl.dafont.com/dl/?f=spit_curl'
     name 'Spit Curl'
     homepage 'http://www.dafont.com/spit-curl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPITCURL.TTF'
 end

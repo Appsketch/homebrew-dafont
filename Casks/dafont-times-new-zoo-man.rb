@@ -5,7 +5,6 @@ cask 'dafont-times-new-zoo-man' do
     url 'http://dl.dafont.com/dl/?f=times_new_zoo_man'
     name 'Times New Zoo-Man'
     homepage 'http://www.dafont.com/times-new-zoo-man.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TimesZoo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gelatina-elemente' do
     url 'http://dl.dafont.com/dl/?f=gelatina_elemente'
     name 'Gelatina Elemente'
     homepage 'http://www.dafont.com/gelatina-elemente.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gelatina Elemente.ttf'
     font 'Geltina Elemente trash.ttf'

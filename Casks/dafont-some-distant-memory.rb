@@ -5,7 +5,6 @@ cask 'dafont-some-distant-memory' do
     url 'http://dl.dafont.com/dl/?f=some_distant_memory'
     name 'Some Distant Memory'
     homepage 'http://www.dafont.com/some-distant-memory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Some Distant Memory Dark.ttf'
     font 'Some Distant Memory.ttf'

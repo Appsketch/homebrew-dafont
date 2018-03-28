@@ -5,7 +5,6 @@ cask 'dafont-black-spiral' do
     url 'http://dl.dafont.com/dl/?f=black_spiral'
     name 'Black spiral'
     homepage 'http://www.dafont.com/black-spiral.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'black spiral.ttf'
 end

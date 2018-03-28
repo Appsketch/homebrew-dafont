@@ -5,7 +5,6 @@ cask 'dafont-overdose' do
     url 'http://dl.dafont.com/dl/?f=overdose'
     name 'Overdose'
     homepage 'http://www.dafont.com/overdose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Overdose.ttf'
 end

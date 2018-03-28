@@ -5,7 +5,6 @@ cask 'dafont-essene-dingbats' do
     url 'http://dl.dafont.com/dl/?f=essene_dingbats'
     name 'Essene Dingbats'
     homepage 'http://www.dafont.com/essene-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ESSED___.TTF'
 end

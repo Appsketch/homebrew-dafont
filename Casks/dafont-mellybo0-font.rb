@@ -5,7 +5,6 @@ cask 'dafont-mellybo0-font' do
     url 'http://dl.dafont.com/dl/?f=mellybo0_font'
     name 'Mellyboo Font'
     homepage 'http://www.dafont.com/mellybo0-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEllybO0fONt.ttf'
 end

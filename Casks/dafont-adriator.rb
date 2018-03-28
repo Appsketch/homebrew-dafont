@@ -5,7 +5,6 @@ cask 'dafont-adriator' do
     url 'http://dl.dafont.com/dl/?f=adriator'
     name 'Adriator'
     homepage 'http://www.dafont.com/adriator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'adriator.ttf'
 end

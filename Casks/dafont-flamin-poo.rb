@@ -5,7 +5,6 @@ cask 'dafont-flamin-poo' do
     url 'http://dl.dafont.com/dl/?f=flamin_poo'
     name 'Flamin Poo'
     homepage 'http://www.dafont.com/flamin-poo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FLAMINPO.TTF'
 end

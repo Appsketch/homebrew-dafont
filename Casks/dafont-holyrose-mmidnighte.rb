@@ -5,7 +5,6 @@ cask 'dafont-holyrose-mmidnighte' do
     url 'http://dl.dafont.com/dl/?f=holyrose_mmidnighte'
     name 'Holyrose Mmidnight Tea'
     homepage 'http://www.dafont.com/holyrose-mmidnighte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'holyrose-midnighttea.ttf'
 end

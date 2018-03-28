@@ -5,7 +5,6 @@ cask 'dafont-iapetus' do
     url 'http://dl.dafont.com/dl/?f=iapetus'
     name 'Iapetus'
     homepage 'http://www.dafont.com/iapetus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'iapetus.ttf'
     font 'iapetus3d.ttf'

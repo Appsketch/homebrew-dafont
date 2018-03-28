@@ -5,7 +5,6 @@ cask 'dafont-slbookarts' do
     url 'http://dl.dafont.com/dl/?f=slbookarts'
     name 'SL Book Arts'
     homepage 'http://www.dafont.com/slbookarts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SLBookArts.ttf'
 end

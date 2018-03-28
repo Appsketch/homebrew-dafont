@@ -5,7 +5,6 @@ cask 'dafont-zipperheart' do
     url 'http://dl.dafont.com/dl/?f=zipperheart'
     name 'Zipper Heart'
     homepage 'http://www.dafont.com/zipperheart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZipperHeart.ttf'
 end

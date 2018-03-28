@@ -5,7 +5,6 @@ cask 'dafont-botsn-droids' do
     url 'http://dl.dafont.com/dl/?f=botsn_droids'
     name 'Bots&#039;n Droids'
     homepage 'http://www.dafont.com/botsn-droids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bots_&#039;n Droids.ttf'
 end

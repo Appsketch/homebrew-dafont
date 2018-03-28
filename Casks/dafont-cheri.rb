@@ -5,7 +5,6 @@ cask 'dafont-cheri' do
     url 'http://dl.dafont.com/dl/?f=cheri'
     name 'Cheri'
     homepage 'http://www.dafont.com/cheri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHERI___.TTF'
     font 'CHERL___.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-blck' do
     url 'http://dl.dafont.com/dl/?f=blck'
     name 'Blck'
     homepage 'http://www.dafont.com/blck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blck Plain.ttf'
     font 'Blck.ttf'

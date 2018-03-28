@@ -5,7 +5,6 @@ cask 'dafont-walkingcrowd' do
     url 'http://dl.dafont.com/dl/?f=walkingcrowd'
     name 'Walking Crowd'
     homepage 'http://www.dafont.com/walkingcrowd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WalkingCrowd.ttf'
 end

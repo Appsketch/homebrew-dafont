@@ -5,7 +5,6 @@ cask 'dafont-estuque' do
     url 'http://dl.dafont.com/dl/?f=estuque'
     name 'Estuque'
     homepage 'http://www.dafont.com/estuque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ESTUH___.TTF'
 end

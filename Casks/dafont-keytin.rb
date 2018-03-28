@@ -5,7 +5,6 @@ cask 'dafont-keytin' do
     url 'http://dl.dafont.com/dl/?f=keytin'
     name 'Keytin Light'
     homepage 'http://www.dafont.com/keytin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Keytin-Light.ttf'
 end

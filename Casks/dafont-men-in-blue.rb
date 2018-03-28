@@ -5,7 +5,6 @@ cask 'dafont-men-in-blue' do
     url 'http://dl.dafont.com/dl/?f=men_in_blue'
     name 'Men In Blue'
     homepage 'http://www.dafont.com/men-in-blue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MIB.ttf'
 end

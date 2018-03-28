@@ -5,7 +5,6 @@ cask 'dafont-fish-in-the-bathroo' do
     url 'http://dl.dafont.com/dl/?f=fish_in_the_bathroo'
     name 'Fish in the bathroom'
     homepage 'http://www.dafont.com/fish-in-the-bathroo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FISHINTH.TTF'
 end

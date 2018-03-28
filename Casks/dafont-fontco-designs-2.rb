@@ -5,7 +5,6 @@ cask 'dafont-fontco-designs-2' do
     url 'http://dl.dafont.com/dl/?f=fontco_designs_2'
     name 'FontCo Designs'
     homepage 'http://www.dafont.com/fontco-designs-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FontCo1__.TTF'
     font 'FontCo2__.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-the-unknown' do
     url 'http://dl.dafont.com/dl/?f=the_unknown'
     name 'The Unknown'
     homepage 'http://www.dafont.com/the-unknown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheUnknown-Regular.otf'
 end

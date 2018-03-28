@@ -5,7 +5,6 @@ cask 'dafont-northstar' do
     url 'http://dl.dafont.com/dl/?f=northstar'
     name 'Northstar'
     homepage 'http://www.dafont.com/northstar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'northstar.ttf'
     font 'northstar3d.ttf'

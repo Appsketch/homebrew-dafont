@@ -5,7 +5,6 @@ cask 'dafont-addstandardbitmap' do
     url 'http://dl.dafont.com/dl/?f=addstandardbitmap'
     name 'Add Standard Bitmap'
     homepage 'http://www.dafont.com/addstandardbitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ADDSBP__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-metrique' do
     url 'http://dl.dafont.com/dl/?f=metrique'
     name 'Metrique'
     homepage 'http://www.dafont.com/metrique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Metrique.ttf'
 end

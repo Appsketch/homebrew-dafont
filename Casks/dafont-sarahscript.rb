@@ -5,7 +5,6 @@ cask 'dafont-sarahscript' do
     url 'http://dl.dafont.com/dl/?f=sarahscript'
     name 'Sarah Script'
     homepage 'http://www.dafont.com/sarahscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SarahScript.ttf'
 end

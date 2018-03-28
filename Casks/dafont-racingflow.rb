@@ -5,7 +5,6 @@ cask 'dafont-racingflow' do
     url 'http://dl.dafont.com/dl/?f=racingflow'
     name 'Racing Flow'
     homepage 'http://www.dafont.com/racingflow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RaceFlow.ttf'
 end

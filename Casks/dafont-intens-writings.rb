@@ -5,7 +5,6 @@ cask 'dafont-intens-writings' do
     url 'http://dl.dafont.com/dl/?f=intens_writings'
     name 'Intens Writings'
     homepage 'http://www.dafont.com/intens-writings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Intense_writings.ttf'
 end

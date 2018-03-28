@@ -5,7 +5,6 @@ cask 'dafont-chardin-doihle' do
     url 'http://dl.dafont.com/dl/?f=chardin_doihle'
     name 'Chardin Doihle'
     homepage 'http://www.dafont.com/chardin-doihle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chardin.ttf'
     font 'chardinb.ttf'

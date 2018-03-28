@@ -5,7 +5,6 @@ cask 'dafont-jakejarkor-locura' do
     url 'http://dl.dafont.com/dl/?f=jakejarkor_locura'
     name 'Jakejarkor Locura'
     homepage 'http://www.dafont.com/jakejarkor-locura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JAKEJARKOR - LOCURA.ttf'
 end

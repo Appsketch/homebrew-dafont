@@ -5,7 +5,6 @@ cask 'dafont-katchymarkers' do
     url 'http://dl.dafont.com/dl/?f=katchymarkers'
     name 'Katchy Markers'
     homepage 'http://www.dafont.com/katchymarkers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KatchyMarkers.ttf'
 end

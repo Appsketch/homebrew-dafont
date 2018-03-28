@@ -5,7 +5,6 @@ cask 'dafont-lula' do
     url 'http://dl.dafont.com/dl/?f=lula'
     name 'Lula'
     homepage 'http://www.dafont.com/lula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lula.ttf'
 end

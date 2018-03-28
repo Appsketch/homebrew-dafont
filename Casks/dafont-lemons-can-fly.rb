@@ -5,7 +5,6 @@ cask 'dafont-lemons-can-fly' do
     url 'http://dl.dafont.com/dl/?f=lemons_can_fly'
     name 'Lemons Can Fly'
     homepage 'http://www.dafont.com/lemons-can-fly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lemons Can Fly.ttf'
 end

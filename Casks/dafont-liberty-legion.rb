@@ -5,7 +5,6 @@ cask 'dafont-liberty-legion' do
     url 'http://dl.dafont.com/dl/?f=liberty_legion'
     name 'Liberty Legion'
     homepage 'http://www.dafont.com/liberty-legion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'libertylegion.ttf'
     font 'libertylegion3d.ttf'

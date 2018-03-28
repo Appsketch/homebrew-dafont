@@ -5,7 +5,6 @@ cask 'dafont-cotocity' do
     url 'http://dl.dafont.com/dl/?f=cotocity'
     name 'CotoCity'
     homepage 'http://www.dafont.com/cotocity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CotoCity Bold.ttf'
     font 'CotoCity Italic.ttf'

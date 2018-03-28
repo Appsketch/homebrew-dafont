@@ -5,7 +5,6 @@ cask 'dafont-above' do
     url 'http://dl.dafont.com/dl/?f=above'
     name 'Above'
     homepage 'http://www.dafont.com/above.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ABOVE  - PERSONAL USE ONLY.ttf'
 end

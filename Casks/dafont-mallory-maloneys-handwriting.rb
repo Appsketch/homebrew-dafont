@@ -5,7 +5,6 @@ cask 'dafont-mallory-maloneys-handwriting' do
     url 'http://dl.dafont.com/dl/?f=mallory_maloneys_handwriting'
     name 'Mallory Maloney&#039;s Handwriting'
     homepage 'http://www.dafont.com/mallory-maloneys-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mallorymaloneyshandwriting.ttf'
 end

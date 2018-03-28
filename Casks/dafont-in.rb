@@ -5,7 +5,6 @@ cask 'dafont-in' do
     url 'http://dl.dafont.com/dl/?f=in'
     name 'In'
     homepage 'http://www.dafont.com/in.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IN_ALPHA.TTF'
     font 'IN_KANJI.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-faith' do
     url 'http://dl.dafont.com/dl/?f=faith'
     name 'Faith'
     homepage 'http://www.dafont.com/faith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Faith.ttf'
 end

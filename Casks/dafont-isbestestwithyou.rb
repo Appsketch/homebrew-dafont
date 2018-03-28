@@ -5,7 +5,6 @@ cask 'dafont-isbestestwithyou' do
     url 'http://dl.dafont.com/dl/?f=isbestestwithyou'
     name 'Is Bestest With You'
     homepage 'http://www.dafont.com/isbestestwithyou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IsBestestWithYou.ttf'
 end

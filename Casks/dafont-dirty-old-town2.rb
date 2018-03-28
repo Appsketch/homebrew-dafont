@@ -5,7 +5,6 @@ cask 'dafont-dirty-old-town2' do
     url 'http://dl.dafont.com/dl/?f=dirty_old_town2'
     name 'Dirty Old Town'
     homepage 'http://www.dafont.com/dirty-old-town2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dirty Old Town.ttf'
 end

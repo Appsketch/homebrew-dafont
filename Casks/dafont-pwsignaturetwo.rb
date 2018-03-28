@@ -5,7 +5,6 @@ cask 'dafont-pwsignaturetwo' do
     url 'http://dl.dafont.com/dl/?f=pwsignaturetwo'
     name 'PW Signature two'
     homepage 'http://www.dafont.com/pwsignaturetwo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWSignaturetwo.ttf'
 end

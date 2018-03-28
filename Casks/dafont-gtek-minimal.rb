@@ -5,7 +5,6 @@ cask 'dafont-gtek-minimal' do
     url 'http://dl.dafont.com/dl/?f=gtek_minimal'
     name 'Gtek Minimal'
     homepage 'http://www.dafont.com/gtek-minimal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gtek Minimal.ttf'
 end

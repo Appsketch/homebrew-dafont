@@ -5,7 +5,6 @@ cask 'dafont-bubblebaz' do
     url 'http://dl.dafont.com/dl/?f=bubblebaz'
     name 'BubbleBaZ'
     homepage 'http://www.dafont.com/bubblebaz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bubblebaz.ttf'
 end

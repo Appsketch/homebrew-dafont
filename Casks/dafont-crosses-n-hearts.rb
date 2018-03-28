@@ -5,7 +5,6 @@ cask 'dafont-crosses-n-hearts' do
     url 'http://dl.dafont.com/dl/?f=crosses_n_hearts'
     name 'Crosses n Hearts'
     homepage 'http://www.dafont.com/crosses-n-hearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crossesnhearts.ttf'
 end

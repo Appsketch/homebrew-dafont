@@ -5,7 +5,6 @@ cask 'dafont-running-smobble' do
     url 'http://dl.dafont.com/dl/?f=running_smobble'
     name 'Running Smobble'
     homepage 'http://www.dafont.com/running-smobble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Running Smobble.ttf'
 end

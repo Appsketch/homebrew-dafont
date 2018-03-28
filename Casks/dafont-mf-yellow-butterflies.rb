@@ -5,7 +5,6 @@ cask 'dafont-mf-yellow-butterflies' do
     url 'http://dl.dafont.com/dl/?f=mf_yellow_butterflies'
     name 'Mf Yellow Butterflies'
     homepage 'http://www.dafont.com/mf-yellow-butterflies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Yellow Butterflies.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-handpen' do
     url 'http://dl.dafont.com/dl/?f=handpen'
     name 'Handpen'
     homepage 'http://www.dafont.com/handpen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Handpen.ttf'
 end

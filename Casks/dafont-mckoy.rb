@@ -5,7 +5,6 @@ cask 'dafont-mckoy' do
     url 'http://dl.dafont.com/dl/?f=mckoy'
     name 'McKoy'
     homepage 'http://www.dafont.com/mckoy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MCKOY___.TTF'
 end

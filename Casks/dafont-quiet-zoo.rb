@@ -5,7 +5,6 @@ cask 'dafont-quiet-zoo' do
     url 'http://dl.dafont.com/dl/?f=quiet_zoo'
     name 'Quiet Zoo'
     homepage 'http://www.dafont.com/quiet-zoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quiet Zoo.ttf'
 end

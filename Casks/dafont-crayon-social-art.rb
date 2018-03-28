@@ -5,7 +5,6 @@ cask 'dafont-crayon-social-art' do
     url 'http://dl.dafont.com/dl/?f=crayon_social_art'
     name 'Crayon Social Art'
     homepage 'http://www.dafont.com/crayon-social-art.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crayon Social Art.ttf'
 end

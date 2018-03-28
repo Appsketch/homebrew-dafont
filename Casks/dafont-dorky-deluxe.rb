@@ -5,7 +5,6 @@ cask 'dafont-dorky-deluxe' do
     url 'http://dl.dafont.com/dl/?f=dorky_deluxe'
     name 'Dorky Deluxe'
     homepage 'http://www.dafont.com/dorky-deluxe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dorky Deluxe.ttf'
 end

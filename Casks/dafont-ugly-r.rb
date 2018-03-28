@@ -5,7 +5,6 @@ cask 'dafont-ugly-r' do
     url 'http://dl.dafont.com/dl/?f=ugly_r'
     name 'Ugly R'
     homepage 'http://www.dafont.com/ugly-r.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UGLYR___.TTF'
 end

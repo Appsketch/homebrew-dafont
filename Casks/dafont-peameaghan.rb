@@ -5,7 +5,6 @@ cask 'dafont-peameaghan' do
     url 'http://dl.dafont.com/dl/?f=peameaghan'
     name 'Pea Meaghan'
     homepage 'http://www.dafont.com/peameaghan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PeaMeaghan.ttf'
 end

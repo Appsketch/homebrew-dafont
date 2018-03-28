@@ -5,7 +5,6 @@ cask 'dafont-pure-and-simple-everytime' do
     url 'http://dl.dafont.com/dl/?f=pure_and_simple_everytime'
     name 'Pure and simple everytime'
     homepage 'http://www.dafont.com/pure-and-simple-everytime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pure_and_simple_everytime.ttf'
 end

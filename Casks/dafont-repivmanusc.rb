@@ -5,7 +5,6 @@ cask 'dafont-repivmanusc' do
     url 'http://dl.dafont.com/dl/?f=repivmanusc'
     name 'Repivmanusc'
     homepage 'http://www.dafont.com/repivmanusc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Repivmanusc Bold.ttf'
     font 'Repivmanusc.ttf'

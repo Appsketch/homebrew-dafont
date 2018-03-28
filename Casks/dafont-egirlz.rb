@@ -5,7 +5,6 @@ cask 'dafont-egirlz' do
     url 'http://dl.dafont.com/dl/?f=egirlz'
     name 'Egirlz'
     homepage 'http://www.dafont.com/egirlz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Egirlz.ttf'
 end

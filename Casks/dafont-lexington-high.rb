@@ -5,7 +5,6 @@ cask 'dafont-lexington-high' do
     url 'http://dl.dafont.com/dl/?f=lexington_high'
     name 'Lexington High'
     homepage 'http://www.dafont.com/lexington-high.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lexington_high_font_by_asianpride7625-d2xph8r.ttf'
 end

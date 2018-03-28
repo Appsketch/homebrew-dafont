@@ -5,7 +5,6 @@ cask 'dafont-spirituality' do
     url 'http://dl.dafont.com/dl/?f=spirituality'
     name 'Spirituality'
     homepage 'http://www.dafont.com/spirituality.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spirituality.otf'
 end

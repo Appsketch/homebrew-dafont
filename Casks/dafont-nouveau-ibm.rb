@@ -5,7 +5,6 @@ cask 'dafont-nouveau-ibm' do
     url 'http://dl.dafont.com/dl/?f=nouveau_ibm'
     name 'Nouveau IBM'
     homepage 'http://www.dafont.com/nouveau-ibm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nouveau_IBM_Stretch.ttf'
     font 'Nouveau_IBM.ttf'

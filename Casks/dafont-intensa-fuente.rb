@@ -5,7 +5,6 @@ cask 'dafont-intensa-fuente' do
     url 'http://dl.dafont.com/dl/?f=intensa_fuente'
     name 'Intensa Fuente'
     homepage 'http://www.dafont.com/intensa-fuente.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Intensa Fuente.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cisf-camouflage-kit' do
     url 'http://dl.dafont.com/dl/?f=cisf_camouflage_kit'
     name 'CISF Camouflage Kit'
     homepage 'http://www.dafont.com/cisf-camouflage-kit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CISFCamouflageKit.otf'
     font 'CISFCamouflageKitOuLn.otf'

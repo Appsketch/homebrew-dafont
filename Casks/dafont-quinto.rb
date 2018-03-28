@@ -5,7 +5,6 @@ cask 'dafont-quinto' do
     url 'http://dl.dafont.com/dl/?f=quinto'
     name 'Quinto'
     homepage 'http://www.dafont.com/quinto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quinto.ttf'
 end

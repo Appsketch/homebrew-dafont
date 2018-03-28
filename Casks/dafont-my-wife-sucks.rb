@@ -5,7 +5,6 @@ cask 'dafont-my-wife-sucks' do
     url 'http://dl.dafont.com/dl/?f=my_wife_sucks'
     name 'My Wife Sucks'
     homepage 'http://www.dafont.com/my-wife-sucks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MYWIFESU.TTF'
 end

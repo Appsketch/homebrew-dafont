@@ -5,7 +5,6 @@ cask 'dafont-socal' do
     url 'http://dl.dafont.com/dl/?f=socal'
     name 'SoCal'
     homepage 'http://www.dafont.com/socal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SoCal-Regular.otf'
 end

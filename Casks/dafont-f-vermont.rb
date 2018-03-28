@@ -5,7 +5,6 @@ cask 'dafont-f-vermont' do
     url 'http://dl.dafont.com/dl/?f=f_vermont'
     name 'F... Vermont'
     homepage 'http://www.dafont.com/f-vermont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'F...VERMONT.ttf'
 end

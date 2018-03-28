@@ -5,7 +5,6 @@ cask 'dafont-vtc-sunday-komix' do
     url 'http://dl.dafont.com/dl/?f=vtc_sunday_komix'
     name 'VTC Sunday Komix'
     homepage 'http://www.dafont.com/vtc-sunday-komix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTCSundaykomix.ttf'
     font 'VTCSundaykomixBold.ttf'

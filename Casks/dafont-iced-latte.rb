@@ -5,7 +5,6 @@ cask 'dafont-iced-latte' do
     url 'http://dl.dafont.com/dl/?f=iced_latte'
     name 'Iced Latte'
     homepage 'http://www.dafont.com/iced-latte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iced Latte.ttf'
 end

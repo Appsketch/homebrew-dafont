@@ -5,7 +5,6 @@ cask 'dafont-overwork' do
     url 'http://dl.dafont.com/dl/?f=overwork'
     name 'Overwork'
     homepage 'http://www.dafont.com/overwork.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OVERWORK.TTF'
 end

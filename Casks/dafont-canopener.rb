@@ -5,7 +5,6 @@ cask 'dafont-canopener' do
     url 'http://dl.dafont.com/dl/?f=canopener'
     name 'Can Opener'
     homepage 'http://www.dafont.com/canopener.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CanOpener.ttf'
 end

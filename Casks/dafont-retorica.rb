@@ -5,7 +5,6 @@ cask 'dafont-retorica' do
     url 'http://dl.dafont.com/dl/?f=retorica'
     name 'Retorica'
     homepage 'http://www.dafont.com/retorica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Retorica.otf'
 end

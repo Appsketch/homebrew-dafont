@@ -5,7 +5,6 @@ cask 'dafont-pounds-of-violence' do
     url 'http://dl.dafont.com/dl/?f=pounds_of_violence'
     name 'Pounds of Violence'
     homepage 'http://www.dafont.com/pounds-of-violence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pounds of Violence.otf'
 end

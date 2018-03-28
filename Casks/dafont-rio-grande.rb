@@ -5,7 +5,6 @@ cask 'dafont-rio-grande' do
     url 'http://dl.dafont.com/dl/?f=rio_grande'
     name 'Rio Grande'
     homepage 'http://www.dafont.com/rio-grande.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RioGrande Striped.ttf'
     font 'RioGrande.ttf'

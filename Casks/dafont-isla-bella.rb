@@ -5,7 +5,6 @@ cask 'dafont-isla-bella' do
     url 'http://dl.dafont.com/dl/?f=isla_bella'
     name 'Isla Bella'
     homepage 'http://www.dafont.com/isla-bella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Islabell.ttf'
 end

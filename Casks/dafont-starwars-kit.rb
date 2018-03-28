@@ -5,7 +5,6 @@ cask 'dafont-starwars-kit' do
     url 'http://dl.dafont.com/dl/?f=starwars_kit'
     name 'StarWars Kit'
     homepage 'http://www.dafont.com/starwars-kit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StarWars.ttf'
 end

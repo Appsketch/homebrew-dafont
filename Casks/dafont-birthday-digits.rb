@@ -5,7 +5,6 @@ cask 'dafont-birthday-digits' do
     url 'http://dl.dafont.com/dl/?f=birthday_digits'
     name 'Birthday Digits'
     homepage 'http://www.dafont.com/birthday-digits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BirthdayDigits.ttf'
 end

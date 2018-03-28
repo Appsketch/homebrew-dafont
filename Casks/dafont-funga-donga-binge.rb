@@ -5,7 +5,6 @@ cask 'dafont-funga-donga-binge' do
     url 'http://dl.dafont.com/dl/?f=funga_donga_binge'
     name 'Funga Donga Binge'
     homepage 'http://www.dafont.com/funga-donga-binge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Funga Donga Binge.ttf'
 end

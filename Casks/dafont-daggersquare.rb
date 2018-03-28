@@ -5,7 +5,6 @@ cask 'dafont-daggersquare' do
     url 'http://dl.dafont.com/dl/?f=daggersquare'
     name 'Daggersquare'
     homepage 'http://www.dafont.com/daggersquare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DAGGERSQUARE OBLIQUE.otf'
     font 'DAGGERSQUARE.otf'

@@ -5,7 +5,6 @@ cask 'dafont-munch-munch' do
     url 'http://dl.dafont.com/dl/?f=munch_munch'
     name 'Munch Munch'
     homepage 'http://www.dafont.com/munch-munch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Munch Munch.ttf'
 end

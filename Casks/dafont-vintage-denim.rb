@@ -5,7 +5,6 @@ cask 'dafont-vintage-denim' do
     url 'http://dl.dafont.com/dl/?f=vintage_denim'
     name 'Vintage Denim'
     homepage 'http://www.dafont.com/vintage-denim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VintageDenim-SetA.otf'
     font 'VintageDenim-SetB.otf'

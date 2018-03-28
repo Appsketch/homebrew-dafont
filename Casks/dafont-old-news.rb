@@ -5,7 +5,6 @@ cask 'dafont-old-news' do
     url 'http://dl.dafont.com/dl/?f=old_news'
     name 'Old news'
     homepage 'http://www.dafont.com/old-news.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old News.ttf'
 end

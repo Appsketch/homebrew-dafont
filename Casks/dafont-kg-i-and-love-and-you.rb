@@ -5,7 +5,6 @@ cask 'dafont-kg-i-and-love-and-you' do
     url 'http://dl.dafont.com/dl/?f=kg_i_and_love_and_you'
     name 'KG I And Love And You'
     homepage 'http://www.dafont.com/kg-i-and-love-and-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGIAndLoveAndYou.ttf'
 end

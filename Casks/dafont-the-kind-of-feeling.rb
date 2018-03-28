@@ -5,7 +5,6 @@ cask 'dafont-the-kind-of-feeling' do
     url 'http://dl.dafont.com/dl/?f=the_kind_of_feeling'
     name 'The Kind Of Feeling'
     homepage 'http://www.dafont.com/the-kind-of-feeling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Kind Of felling.ttf'
 end

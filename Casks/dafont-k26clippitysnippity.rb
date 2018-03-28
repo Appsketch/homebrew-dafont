@@ -5,7 +5,6 @@ cask 'dafont-k26clippitysnippity' do
     url 'http://dl.dafont.com/dl/?f=k26clippitysnippity'
     name 'K26 Clippity Snippity'
     homepage 'http://www.dafont.com/k26clippitysnippity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K26ClippitySnippity.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-funmeatsdt' do
     url 'http://dl.dafont.com/dl/?f=funmeatsdt'
     name 'Fun Meats DT'
     homepage 'http://www.dafont.com/funmeatsdt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FunMeatsDT.ttf'
 end

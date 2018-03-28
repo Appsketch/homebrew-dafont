@@ -5,7 +5,6 @@ cask 'dafont-roundy3' do
     url 'http://dl.dafont.com/dl/?f=roundy3'
     name 'Roundy'
     homepage 'http://www.dafont.com/roundy3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Roundy.ttf'
 end

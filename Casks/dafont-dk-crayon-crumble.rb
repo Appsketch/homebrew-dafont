@@ -5,7 +5,6 @@ cask 'dafont-dk-crayon-crumble' do
     url 'http://dl.dafont.com/dl/?f=dk_crayon_crumble'
     name 'DK Crayon Crumble'
     homepage 'http://www.dafont.com/dk-crayon-crumble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Crayon Crumble.ttf'
 end

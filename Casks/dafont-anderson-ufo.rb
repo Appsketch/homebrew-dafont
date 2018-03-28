@@ -5,7 +5,6 @@ cask 'dafont-anderson-ufo' do
     url 'http://dl.dafont.com/dl/?f=anderson_ufo'
     name 'Anderson UFO'
     homepage 'http://www.dafont.com/anderson-ufo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anderson UFO Ding.ttf'
 end

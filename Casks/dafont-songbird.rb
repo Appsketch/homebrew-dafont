@@ -5,7 +5,6 @@ cask 'dafont-songbird' do
     url 'http://dl.dafont.com/dl/?f=songbird'
     name 'Songbird'
     homepage 'http://www.dafont.com/songbird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Songbird.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-matejo' do
     url 'http://dl.dafont.com/dl/?f=matejo'
     name 'Matejo'
     homepage 'http://www.dafont.com/matejo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MATEJO__.TTF'
 end

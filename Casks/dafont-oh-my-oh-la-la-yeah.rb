@@ -5,7 +5,6 @@ cask 'dafont-oh-my-oh-la-la-yeah' do
     url 'http://dl.dafont.com/dl/?f=oh_my_oh_la_la_yeah'
     name 'Oh My Oh La La Yeah'
     homepage 'http://www.dafont.com/oh-my-oh-la-la-yeah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'oh_my_oh_la_la_yeah_1.ttf'
     font 'oh_my_oh_la_la_yeah_2.ttf'

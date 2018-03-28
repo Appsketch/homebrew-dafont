@@ -5,7 +5,6 @@ cask 'dafont-energy-dimension' do
     url 'http://dl.dafont.com/dl/?f=energy_dimension'
     name 'Energy Dimension'
     homepage 'http://www.dafont.com/energy-dimension.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Energydimension.ttf'
 end

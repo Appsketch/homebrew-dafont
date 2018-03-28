@@ -5,7 +5,6 @@ cask 'dafont-cat-basah-kental' do
     url 'http://dl.dafont.com/dl/?f=cat_basah_kental'
     name 'Cat Basah Kental!!!'
     homepage 'http://www.dafont.com/cat-basah-kental.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cat Basah Kental Menetes.ttf'
     font 'Cat Basah Kental.ttf'

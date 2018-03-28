@@ -5,7 +5,6 @@ cask 'dafont-confessions-of-a-sinner' do
     url 'http://dl.dafont.com/dl/?f=confessions_of_a_sinner'
     name 'Confessions Of A Sinner'
     homepage 'http://www.dafont.com/confessions-of-a-sinner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Confessions-of-a-Sinner.ttf'
 end

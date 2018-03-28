@@ -5,7 +5,6 @@ cask 'dafont-the-pits' do
     url 'http://dl.dafont.com/dl/?f=the_pits'
     name 'The Pits'
     homepage 'http://www.dafont.com/the-pits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Pits.otf'
 end

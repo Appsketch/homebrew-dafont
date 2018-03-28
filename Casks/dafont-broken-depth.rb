@@ -5,7 +5,6 @@ cask 'dafont-broken-depth' do
     url 'http://dl.dafont.com/dl/?f=broken_depth'
     name 'Broken Depth'
     homepage 'http://www.dafont.com/broken-depth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BROKEN DEPTH demo.otf'
 end

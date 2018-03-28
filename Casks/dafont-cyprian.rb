@@ -5,7 +5,6 @@ cask 'dafont-cyprian' do
     url 'http://dl.dafont.com/dl/?f=cyprian'
     name 'Cyprian'
     homepage 'http://www.dafont.com/cyprian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CYPRIAN.TTF'
 end

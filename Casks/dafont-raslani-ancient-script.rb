@@ -5,7 +5,6 @@ cask 'dafont-raslani-ancient-script' do
     url 'http://dl.dafont.com/dl/?f=raslani_ancient_script'
     name 'Raslani Ancient Script'
     homepage 'http://www.dafont.com/raslani-ancient-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raslani Ancient Script.ttf'
 end

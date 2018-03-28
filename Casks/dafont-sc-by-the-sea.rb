@@ -5,7 +5,6 @@ cask 'dafont-sc-by-the-sea' do
     url 'http://dl.dafont.com/dl/?f=sc_by_the_sea'
     name 'SC By The Sea'
     homepage 'http://www.dafont.com/sc-by-the-sea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SC By The Sea.ttf'
 end

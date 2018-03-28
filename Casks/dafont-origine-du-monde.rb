@@ -5,7 +5,6 @@ cask 'dafont-origine-du-monde' do
     url 'http://dl.dafont.com/dl/?f=origine_du_monde'
     name 'Origine du Monde'
     homepage 'http://www.dafont.com/origine-du-monde.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Origine du Monde.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nyc-zone-123' do
     url 'http://dl.dafont.com/dl/?f=nyc_zone_123'
     name 'NYC Zone 123'
     homepage 'http://www.dafont.com/nyc-zone-123.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NYC Zone 123.ttf'
 end

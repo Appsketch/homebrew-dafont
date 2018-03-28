@@ -5,7 +5,6 @@ cask 'dafont-arabian-lamb' do
     url 'http://dl.dafont.com/dl/?f=arabian_lamb'
     name 'Arabian Lamb'
     homepage 'http://www.dafont.com/arabian-lamb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARABIAN_LAMP.ttf'
 end

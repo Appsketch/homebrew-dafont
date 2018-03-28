@@ -5,7 +5,6 @@ cask 'dafont-half-project-logo' do
     url 'http://dl.dafont.com/dl/?f=half_project_logo'
     name 'Half Project Logo'
     homepage 'http://www.dafont.com/half-project-logo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HALFPROJECT.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bikang-struck' do
     url 'http://dl.dafont.com/dl/?f=bikang_struck'
     name 'Bikang Struck'
     homepage 'http://www.dafont.com/bikang-struck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bikang_struck.ttf'
 end

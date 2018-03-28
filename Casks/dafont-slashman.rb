@@ -5,7 +5,6 @@ cask 'dafont-slashman' do
     url 'http://dl.dafont.com/dl/?f=slashman'
     name 'Slashman'
     homepage 'http://www.dafont.com/slashman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'slashman.ttf'
 end

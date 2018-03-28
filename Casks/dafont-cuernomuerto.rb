@@ -5,7 +5,6 @@ cask 'dafont-cuernomuerto' do
     url 'http://dl.dafont.com/dl/?f=cuernomuerto'
     name 'Cuernomuerto'
     homepage 'http://www.dafont.com/cuernomuerto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CUERNOMUERTO.ttf'
 end

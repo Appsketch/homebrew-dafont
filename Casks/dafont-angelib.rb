@@ -5,7 +5,6 @@ cask 'dafont-angelib' do
     url 'http://dl.dafont.com/dl/?f=angelib'
     name 'Angelib'
     homepage 'http://www.dafont.com/angelib.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'angelib.ttf'
 end

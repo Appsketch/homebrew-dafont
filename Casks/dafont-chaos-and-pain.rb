@@ -5,7 +5,6 @@ cask 'dafont-chaos-and-pain' do
     url 'http://dl.dafont.com/dl/?f=chaos_and_pain'
     name 'Chaos and Pain'
     homepage 'http://www.dafont.com/chaos-and-pain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChaosandPain-CnP.ttf'
 end

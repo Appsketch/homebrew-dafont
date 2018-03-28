@@ -5,7 +5,6 @@ cask 'dafont-rafika' do
     url 'http://dl.dafont.com/dl/?f=rafika'
     name 'Rafika'
     homepage 'http://www.dafont.com/rafika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rafika.ttf'
 end

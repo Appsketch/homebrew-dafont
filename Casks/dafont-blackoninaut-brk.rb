@@ -5,7 +5,6 @@ cask 'dafont-blackoninaut-brk' do
     url 'http://dl.dafont.com/dl/?f=blackoninaut_brk'
     name 'Blackoninaut BRK'
     homepage 'http://www.dafont.com/blackoninaut-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blackoni.ttf'
     font 'blonibld.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-48ver-lost' do
     url 'http://dl.dafont.com/dl/?f=48ver_lost'
     name '48 Ver Lost'
     homepage 'http://www.dafont.com/48ver-lost.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '48ver lost.ttf'
 end

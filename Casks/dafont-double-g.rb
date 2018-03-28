@@ -5,7 +5,6 @@ cask 'dafont-double-g' do
     url 'http://dl.dafont.com/dl/?f=double_g'
     name 'Double G'
     homepage 'http://www.dafont.com/double-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Double_G.ttf'
 end

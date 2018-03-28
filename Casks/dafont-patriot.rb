@@ -5,7 +5,6 @@ cask 'dafont-patriot' do
     url 'http://dl.dafont.com/dl/?f=patriot'
     name 'Patriot'
     homepage 'http://www.dafont.com/patriot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Patriot.ttf'
 end

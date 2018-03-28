@@ -5,7 +5,6 @@ cask 'dafont-sprungbreakers' do
     url 'http://dl.dafont.com/dl/?f=sprungbreakers'
     name 'Sprung Breakers'
     homepage 'http://www.dafont.com/sprungbreakers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SprungBreakers.ttf'
 end

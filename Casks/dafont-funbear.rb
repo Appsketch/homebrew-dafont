@@ -5,7 +5,6 @@ cask 'dafont-funbear' do
     url 'http://dl.dafont.com/dl/?f=funbear'
     name 'Fun Bear'
     homepage 'http://www.dafont.com/funbear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FunBear.ttf'
 end

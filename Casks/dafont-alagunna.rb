@@ -5,7 +5,6 @@ cask 'dafont-alagunna' do
     url 'http://dl.dafont.com/dl/?f=alagunna'
     name 'Alagunna'
     homepage 'http://www.dafont.com/alagunna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alagunna.ttf'
 end

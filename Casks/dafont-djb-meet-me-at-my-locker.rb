@@ -5,7 +5,6 @@ cask 'dafont-djb-meet-me-at-my-locker' do
     url 'http://dl.dafont.com/dl/?f=djb_meet_me_at_my_locker'
     name 'DJB Meet Me at My Locker'
     homepage 'http://www.dafont.com/djb-meet-me-at-my-locker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Meet Me at My Locker.ttf'
 end

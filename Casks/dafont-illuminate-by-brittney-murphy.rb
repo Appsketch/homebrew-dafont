@@ -5,7 +5,6 @@ cask 'dafont-illuminate-by-brittney-murphy' do
     url 'http://dl.dafont.com/dl/?f=illuminate_by_brittney_murphy'
     name 'Illuminate'
     homepage 'http://www.dafont.com/illuminate-by-brittney-murphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'illuminate with accents.ttf'
 end

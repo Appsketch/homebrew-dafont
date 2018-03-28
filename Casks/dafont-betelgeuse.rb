@@ -5,7 +5,6 @@ cask 'dafont-betelgeuse' do
     url 'http://dl.dafont.com/dl/?f=betelgeuse'
     name 'Betelgeuse'
     homepage 'http://www.dafont.com/betelgeuse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Betelgeuse.ttf'
 end

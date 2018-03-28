@@ -5,7 +5,6 @@ cask 'dafont-danzin' do
     url 'http://dl.dafont.com/dl/?f=danzin'
     name 'Danzin'
     homepage 'http://www.dafont.com/danzin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Danzin.ttf'
 end

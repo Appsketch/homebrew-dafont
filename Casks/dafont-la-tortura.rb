@@ -5,7 +5,6 @@ cask 'dafont-la-tortura' do
     url 'http://dl.dafont.com/dl/?f=la_tortura'
     name 'La Tortura'
     homepage 'http://www.dafont.com/la-tortura.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'La Tortura.ttf'
 end

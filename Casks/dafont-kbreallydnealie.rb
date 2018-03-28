@@ -5,7 +5,6 @@ cask 'dafont-kbreallydnealie' do
     url 'http://dl.dafont.com/dl/?f=kbreallydnealie'
     name 'KB Really Dnealie'
     homepage 'http://www.dafont.com/kbreallydnealie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBReallyDnealie.ttf'
 end

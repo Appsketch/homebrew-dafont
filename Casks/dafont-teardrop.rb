@@ -5,7 +5,6 @@ cask 'dafont-teardrop' do
     url 'http://dl.dafont.com/dl/?f=teardrop'
     name 'Teardrop'
     homepage 'http://www.dafont.com/teardrop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TEAR.TTF'
 end

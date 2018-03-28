@@ -5,7 +5,6 @@ cask 'dafont-kitchen-kapers' do
     url 'http://dl.dafont.com/dl/?f=kitchen_kapers'
     name 'Kitchen Kapers'
     homepage 'http://www.dafont.com/kitchen-kapers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kitchen Kapers 1.ttf'
     font 'Kitchen Kapers 2.ttf'

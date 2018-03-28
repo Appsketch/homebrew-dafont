@@ -5,7 +5,6 @@ cask 'dafont-superstar-m54' do
     url 'http://dl.dafont.com/dl/?f=superstar_m54'
     name 'Superstar M54'
     homepage 'http://www.dafont.com/superstar-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Superstar M54.ttf'
 end

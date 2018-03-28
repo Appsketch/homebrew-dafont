@@ -5,7 +5,6 @@ cask 'dafont-font-in-a-red-suit' do
     url 'http://dl.dafont.com/dl/?f=font_in_a_red_suit'
     name 'Font in a Red Suit'
     homepage 'http://www.dafont.com/font-in-a-red-suit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FONTRSTC.TTF'
 end

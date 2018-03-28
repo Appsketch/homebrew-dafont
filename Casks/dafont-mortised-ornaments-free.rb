@@ -5,7 +5,6 @@ cask 'dafont-mortised-ornaments-free' do
     url 'http://dl.dafont.com/dl/?f=mortised_ornaments_free'
     name 'Mortised Ornaments'
     homepage 'http://www.dafont.com/mortised-ornaments-free.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mortised Ornaments Free.ttf'
 end

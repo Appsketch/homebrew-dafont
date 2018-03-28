@@ -5,7 +5,6 @@ cask 'dafont-kanno' do
     url 'http://dl.dafont.com/dl/?f=kanno'
     name 'Kanno'
     homepage 'http://www.dafont.com/kanno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kanno Bold Italic.otf'
     font 'Kanno Bold.otf'

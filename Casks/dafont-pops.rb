@@ -5,7 +5,6 @@ cask 'dafont-pops' do
     url 'http://dl.dafont.com/dl/?f=pops'
     name 'Pops'
     homepage 'http://www.dafont.com/pops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pops_08_BOLD.ttf'
     font 'pops_08_REGULAR.ttf'

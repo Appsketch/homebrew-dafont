@@ -5,7 +5,6 @@ cask 'dafont-volt' do
     url 'http://dl.dafont.com/dl/?f=volt'
     name 'Volt'
     homepage 'http://www.dafont.com/volt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'volt____.ttf'
 end

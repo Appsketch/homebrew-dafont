@@ -5,7 +5,6 @@ cask 'dafont-enchiridion' do
     url 'http://dl.dafont.com/dl/?f=enchiridion'
     name 'Enchiridion'
     homepage 'http://www.dafont.com/enchiridion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Enchiridion.ttf'
 end

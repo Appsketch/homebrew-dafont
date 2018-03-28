@@ -5,7 +5,6 @@ cask 'dafont-iced-earth' do
     url 'http://dl.dafont.com/dl/?f=iced_earth'
     name 'Iced Earth'
     homepage 'http://www.dafont.com/iced-earth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'icedeart.ttf'
 end

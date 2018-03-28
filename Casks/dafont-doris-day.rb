@@ -5,7 +5,6 @@ cask 'dafont-doris-day' do
     url 'http://dl.dafont.com/dl/?f=doris_day'
     name 'Doris Day'
     homepage 'http://www.dafont.com/doris-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DorisDay.otf'
 end

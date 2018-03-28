@@ -5,7 +5,6 @@ cask 'dafont-sebastiana' do
     url 'http://dl.dafont.com/dl/?f=sebastiana'
     name 'Sebastiana'
     homepage 'http://www.dafont.com/sebastiana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sebastiana personal use.otf'
 end

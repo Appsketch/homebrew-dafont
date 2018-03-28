@@ -5,7 +5,6 @@ cask 'dafont-pooplatter' do
     url 'http://dl.dafont.com/dl/?f=pooplatter'
     name 'Pooplatter'
     homepage 'http://www.dafont.com/pooplatter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pooplatter.ttf'
 end

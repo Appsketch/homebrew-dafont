@@ -5,7 +5,6 @@ cask 'dafont-flaming-stars-splat' do
     url 'http://dl.dafont.com/dl/?f=flaming_stars_splat'
     name 'Flaming Stars &amp; Splatters'
     homepage 'http://www.dafont.com/flaming-stars-splat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flaming_Stars__26_Splatters.ttf'
 end

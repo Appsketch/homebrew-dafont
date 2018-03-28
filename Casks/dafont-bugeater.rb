@@ -5,7 +5,6 @@ cask 'dafont-bugeater' do
     url 'http://dl.dafont.com/dl/?f=bugeater'
     name 'Bugeater'
     homepage 'http://www.dafont.com/bugeater.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bugeater.ttf'
 end

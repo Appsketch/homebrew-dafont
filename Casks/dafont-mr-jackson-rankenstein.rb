@@ -5,7 +5,6 @@ cask 'dafont-mr-jackson-rankenstein' do
     url 'http://dl.dafont.com/dl/?f=mr_jackson_rankenstein'
     name 'Mr.Jackson Rankenstein'
     homepage 'http://www.dafont.com/mr-jackson-rankenstein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mr.Jackson Rankenstein.ttf'
 end

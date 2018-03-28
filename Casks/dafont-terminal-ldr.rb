@@ -5,7 +5,6 @@ cask 'dafont-terminal-ldr' do
     url 'http://dl.dafont.com/dl/?f=terminal_ldr'
     name 'Terminal LDR'
     homepage 'http://www.dafont.com/terminal-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'terminal_ldr.ttf'
 end

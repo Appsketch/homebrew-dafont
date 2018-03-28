@@ -5,7 +5,6 @@ cask 'dafont-why-do-we-blink-so-frequently' do
     url 'http://dl.dafont.com/dl/?f=why_do_we_blink_so_frequently'
     name 'Why do we blink so frequently'
     homepage 'http://www.dafont.com/why-do-we-blink-so-frequently.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Why do we blink so frequently, Dark.ttf'
     font 'Why do we blink so frequently, Jungle.ttf'

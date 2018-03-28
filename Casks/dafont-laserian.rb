@@ -5,7 +5,6 @@ cask 'dafont-laserian' do
     url 'http://dl.dafont.com/dl/?f=laserian'
     name 'Laserian'
     homepage 'http://www.dafont.com/laserian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LASER4.TTF'
 end

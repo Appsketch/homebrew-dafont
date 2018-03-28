@@ -5,7 +5,6 @@ cask 'dafont-luismi-murder' do
     url 'http://dl.dafont.com/dl/?f=luismi_murder'
     name 'Luismi Murder '
     homepage 'http://www.dafont.com/luismi-murder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lsmimrdr.ttf'
 end

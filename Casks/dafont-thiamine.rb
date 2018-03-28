@@ -5,7 +5,6 @@ cask 'dafont-thiamine' do
     url 'http://dl.dafont.com/dl/?f=thiamine'
     name 'Thiamine'
     homepage 'http://www.dafont.com/thiamine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thiamine.ttf'
 end

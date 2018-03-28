@@ -5,7 +5,6 @@ cask 'dafont-overdue' do
     url 'http://dl.dafont.com/dl/?f=overdue'
     name 'Overdue'
     homepage 'http://www.dafont.com/overdue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Overdue.ttf'
 end

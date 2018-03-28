@@ -5,7 +5,6 @@ cask 'dafont-astera' do
     url 'http://dl.dafont.com/dl/?f=astera'
     name 'Astera'
     homepage 'http://www.dafont.com/astera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASTERA v2.ttf'
 end

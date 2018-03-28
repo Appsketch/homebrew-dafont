@@ -5,7 +5,6 @@ cask 'dafont-foglihtenno07' do
     url 'http://dl.dafont.com/dl/?f=foglihtenno07'
     name 'Foglihten No07'
     homepage 'http://www.dafont.com/foglihtenno07.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FoglihtenNo07.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-imelda' do
     url 'http://dl.dafont.com/dl/?f=imelda'
     name 'Imelda'
     homepage 'http://www.dafont.com/imelda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Imelda Italic.ttf'
     font 'Imelda Light Italic.ttf'

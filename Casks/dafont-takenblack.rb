@@ -5,7 +5,6 @@ cask 'dafont-takenblack' do
     url 'http://dl.dafont.com/dl/?f=takenblack'
     name 'Taken Black'
     homepage 'http://www.dafont.com/takenblack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TakenBlack.ttf'
     font 'TakenBlackItalic.ttf'

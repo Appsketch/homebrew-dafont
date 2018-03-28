@@ -5,7 +5,6 @@ cask 'dafont-whatdowedoallday' do
     url 'http://dl.dafont.com/dl/?f=whatdowedoallday'
     name 'What Do We Do All Day'
     homepage 'http://www.dafont.com/whatdowedoallday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhatDoWeDoAllDay.ttf'
 end

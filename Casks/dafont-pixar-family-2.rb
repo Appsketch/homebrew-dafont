@@ -5,7 +5,6 @@ cask 'dafont-pixar-family-2' do
     url 'http://dl.dafont.com/dl/?f=pixar_family_2'
     name 'Pixar family 2'
     homepage 'http://www.dafont.com/pixar-family-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixar family 2.ttf'
 end

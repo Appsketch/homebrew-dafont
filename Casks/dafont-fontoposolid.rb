@@ -5,7 +5,6 @@ cask 'dafont-fontoposolid' do
     url 'http://dl.dafont.com/dl/?f=fontoposolid'
     name 'Fontopo Solid'
     homepage 'http://www.dafont.com/fontoposolid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FontopoSOLID-Regular.ttf'
 end

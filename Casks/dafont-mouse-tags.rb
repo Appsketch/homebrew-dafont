@@ -5,7 +5,6 @@ cask 'dafont-mouse-tags' do
     url 'http://dl.dafont.com/dl/?f=mouse_tags'
     name 'Mouse Tags'
     homepage 'http://www.dafont.com/mouse-tags.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mouse Tags.ttf'
 end

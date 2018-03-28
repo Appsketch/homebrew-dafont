@@ -5,7 +5,6 @@ cask 'dafont-mawns-rock' do
     url 'http://dl.dafont.com/dl/?f=mawns_rock'
     name 'Mawns Rock'
     homepage 'http://www.dafont.com/mawns-rock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAWNSrock1.ttf'
 end

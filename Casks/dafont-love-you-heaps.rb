@@ -5,7 +5,6 @@ cask 'dafont-love-you-heaps' do
     url 'http://dl.dafont.com/dl/?f=love_you_heaps'
     name 'Love You Heaps'
     homepage 'http://www.dafont.com/love-you-heaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Love You Heaps.ttf'
 end

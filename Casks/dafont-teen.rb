@@ -5,7 +5,6 @@ cask 'dafont-teen' do
     url 'http://dl.dafont.com/dl/?f=teen'
     name 'Teen'
     homepage 'http://www.dafont.com/teen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'teen bd it.ttf'
     font 'teen bd.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-bizarrerie' do
     url 'http://dl.dafont.com/dl/?f=bizarrerie'
     name 'Bizarrerie'
     homepage 'http://www.dafont.com/bizarrerie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bizarrerie.otf'
 end

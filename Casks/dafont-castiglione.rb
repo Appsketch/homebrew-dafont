@@ -5,7 +5,6 @@ cask 'dafont-castiglione' do
     url 'http://dl.dafont.com/dl/?f=castiglione'
     name 'Castiglione'
     homepage 'http://www.dafont.com/castiglione.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'castiglione.ttf'
 end

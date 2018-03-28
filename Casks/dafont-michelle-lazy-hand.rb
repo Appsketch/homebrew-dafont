@@ -5,7 +5,6 @@ cask 'dafont-michelle-lazy-hand' do
     url 'http://dl.dafont.com/dl/?f=michelle_lazy_hand'
     name 'Michelle Lazy Hand'
     homepage 'http://www.dafont.com/michelle-lazy-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'michelle lazy hand.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-webletterer-bb' do
     url 'http://dl.dafont.com/dl/?f=webletterer_bb'
     name 'WebLetterer BB'
     homepage 'http://www.dafont.com/webletterer-bb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WEBLBB__.TTF'
     font 'WEBLBRG_.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-soli-deo-gloria' do
     url 'http://dl.dafont.com/dl/?f=soli_deo_gloria'
     name 'Soli Deo Gloria'
     homepage 'http://www.dafont.com/soli-deo-gloria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Soli Deo Gloria.ttf'
 end

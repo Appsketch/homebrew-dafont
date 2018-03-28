@@ -5,7 +5,6 @@ cask 'dafont-molienda-de-piedra' do
     url 'http://dl.dafont.com/dl/?f=molienda_de_piedra'
     name 'Molienda de piedra'
     homepage 'http://www.dafont.com/molienda-de-piedra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Molienda de piedra.ttf'
 end

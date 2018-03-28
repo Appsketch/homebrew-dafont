@@ -5,7 +5,6 @@ cask 'dafont-crappy-gothic' do
     url 'http://dl.dafont.com/dl/?f=crappy_gothic'
     name 'Crappy Gothic'
     homepage 'http://www.dafont.com/crappy-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRAPG___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-snowstreet' do
     url 'http://dl.dafont.com/dl/?f=snowstreet'
     name 'Snowstreet'
     homepage 'http://www.dafont.com/snowstreet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snowstreet_PersonalUse.ttf'
     font 'SnowstreetThin_PersonalUse.ttf'

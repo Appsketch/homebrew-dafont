@@ -5,7 +5,6 @@ cask 'dafont-coulson' do
     url 'http://dl.dafont.com/dl/?f=coulson'
     name 'Coulson'
     homepage 'http://www.dafont.com/coulson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coulson Condensed Italic.otf'
     font 'Coulson Condensed.otf'

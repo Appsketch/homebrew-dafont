@@ -5,7 +5,6 @@ cask 'dafont-dutch-harley' do
     url 'http://dl.dafont.com/dl/?f=dutch_harley'
     name 'Dutch &amp; Harley'
     homepage 'http://www.dafont.com/dutch-harley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dutch &amp; Harley alt.ttf'
     font 'Dutch &amp; Harley.ttf'

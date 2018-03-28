@@ -5,7 +5,6 @@ cask 'dafont-baris-cerin' do
     url 'http://dl.dafont.com/dl/?f=baris_cerin'
     name 'Baris Cerin'
     homepage 'http://www.dafont.com/baris-cerin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baris_Cerin.ttf'
 end

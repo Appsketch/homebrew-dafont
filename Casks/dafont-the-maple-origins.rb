@@ -5,7 +5,6 @@ cask 'dafont-the-maple-origins' do
     url 'http://dl.dafont.com/dl/?f=the_maple_origins'
     name 'The Maple Origins'
     homepage 'http://www.dafont.com/the-maple-origins.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THE MAPLE ORIGINS.ttf'
 end

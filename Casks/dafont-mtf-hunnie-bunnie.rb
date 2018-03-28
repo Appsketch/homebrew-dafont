@@ -5,7 +5,6 @@ cask 'dafont-mtf-hunnie-bunnie' do
     url 'http://dl.dafont.com/dl/?f=mtf_hunnie_bunnie'
     name 'MTF Hunnie Bunnie'
     homepage 'http://www.dafont.com/mtf-hunnie-bunnie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Hunnie.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-winter-night' do
     url 'http://dl.dafont.com/dl/?f=winter_night'
     name 'WinterNight'
     homepage 'http://www.dafont.com/winter-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'winternite.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-honey-script' do
     url 'http://dl.dafont.com/dl/?f=honey_script'
     name 'Honey Script'
     homepage 'http://www.dafont.com/honey-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HoneyScript-Light.ttf'
     font 'HoneyScript-SemiBold.ttf'

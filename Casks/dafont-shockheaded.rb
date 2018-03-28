@@ -5,7 +5,6 @@ cask 'dafont-shockheaded' do
     url 'http://dl.dafont.com/dl/?f=shockheaded'
     name 'Shockheaded'
     homepage 'http://www.dafont.com/shockheaded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SHOCKHEA.TTF'
 end

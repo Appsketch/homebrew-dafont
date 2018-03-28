@@ -5,7 +5,6 @@ cask 'dafont-stretchy-rubber' do
     url 'http://dl.dafont.com/dl/?f=stretchy_rubber'
     name 'Stretchy Rubber'
     homepage 'http://www.dafont.com/stretchy-rubber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stretchy rubber.ttf'
 end

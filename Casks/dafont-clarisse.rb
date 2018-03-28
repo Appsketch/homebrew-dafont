@@ -5,7 +5,6 @@ cask 'dafont-clarisse' do
     url 'http://dl.dafont.com/dl/?f=clarisse'
     name 'Clarisse'
     homepage 'http://www.dafont.com/clarisse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clarisse.ttf'
 end

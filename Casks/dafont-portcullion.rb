@@ -5,7 +5,6 @@ cask 'dafont-portcullion' do
     url 'http://dl.dafont.com/dl/?f=portcullion'
     name 'Portcullion'
     homepage 'http://www.dafont.com/portcullion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Portcullion.ttf'
 end

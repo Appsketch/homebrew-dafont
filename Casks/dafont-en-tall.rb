@@ -5,7 +5,6 @@ cask 'dafont-en-tall' do
     url 'http://dl.dafont.com/dl/?f=en_tall'
     name 'En Tall'
     homepage 'http://www.dafont.com/en-tall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'en_tall.ttf'
 end

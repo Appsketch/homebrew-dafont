@@ -5,7 +5,6 @@ cask 'dafont-herbert' do
     url 'http://dl.dafont.com/dl/?f=herbert'
     name 'Herbert'
     homepage 'http://www.dafont.com/herbert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HERBERT_.TTF'
 end

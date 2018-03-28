@@ -5,7 +5,6 @@ cask 'dafont-bolton-sans' do
     url 'http://dl.dafont.com/dl/?f=bolton_sans'
     name 'Bolton Sans'
     homepage 'http://www.dafont.com/bolton-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bolton_sans_embossed.ttf'
     font 'Bolton_sans.ttf'

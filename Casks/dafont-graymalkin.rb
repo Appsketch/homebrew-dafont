@@ -5,7 +5,6 @@ cask 'dafont-graymalkin' do
     url 'http://dl.dafont.com/dl/?f=graymalkin'
     name 'Graymalkin '
     homepage 'http://www.dafont.com/graymalkin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'graymalkin.ttf'
     font 'graymalkin3d.ttf'

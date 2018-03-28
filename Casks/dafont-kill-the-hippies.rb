@@ -5,7 +5,6 @@ cask 'dafont-kill-the-hippies' do
     url 'http://dl.dafont.com/dl/?f=kill_the_hippies'
     name 'Kill The Hippies'
     homepage 'http://www.dafont.com/kill-the-hippies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'killhippies.ttf'
 end

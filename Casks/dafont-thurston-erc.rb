@@ -5,7 +5,6 @@ cask 'dafont-thurston-erc' do
     url 'http://dl.dafont.com/dl/?f=thurston_erc'
     name 'Thurston Erc'
     homepage 'http://www.dafont.com/thurston-erc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THURSTON_erc_002.ttf'
 end

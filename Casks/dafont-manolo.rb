@@ -5,7 +5,6 @@ cask 'dafont-manolo' do
     url 'http://dl.dafont.com/dl/?f=manolo'
     name 'Manolo'
     homepage 'http://www.dafont.com/manolo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MANOLO.ttf'
 end

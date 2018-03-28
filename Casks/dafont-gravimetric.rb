@@ -5,7 +5,6 @@ cask 'dafont-gravimetric' do
     url 'http://dl.dafont.com/dl/?f=gravimetric'
     name 'Gravimetric'
     homepage 'http://www.dafont.com/gravimetric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GravimetricBeta.ttf'
 end

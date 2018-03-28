@@ -5,7 +5,6 @@ cask 'dafont-emoticomic' do
     url 'http://dl.dafont.com/dl/?f=emoticomic'
     name 'Emoticomic'
     homepage 'http://www.dafont.com/emoticomic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Emoticomic.ttf'
 end

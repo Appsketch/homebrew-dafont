@@ -5,7 +5,6 @@ cask 'dafont-gunnar-runic' do
     url 'http://dl.dafont.com/dl/?f=gunnar_runic'
     name 'Gunnar Runic'
     homepage 'http://www.dafont.com/gunnar-runic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GunnarRunic.ttf'
 end

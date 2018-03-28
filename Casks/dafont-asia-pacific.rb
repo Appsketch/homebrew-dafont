@@ -5,7 +5,6 @@ cask 'dafont-asia-pacific' do
     url 'http://dl.dafont.com/dl/?f=asia_pacific'
     name 'Asia Pacific'
     homepage 'http://www.dafont.com/asia-pacific.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASIA PACIFIC.ttf'
 end

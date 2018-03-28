@@ -5,7 +5,6 @@ cask 'dafont-soul-reaver' do
     url 'http://dl.dafont.com/dl/?f=soul_reaver'
     name 'Soul Reaver'
     homepage 'http://www.dafont.com/soul-reaver.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'soul_reaver.ttf'
 end

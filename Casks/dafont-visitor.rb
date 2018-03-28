@@ -5,7 +5,6 @@ cask 'dafont-visitor' do
     url 'http://dl.dafont.com/dl/?f=visitor'
     name 'Visitor'
     homepage 'http://www.dafont.com/visitor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'visitor1.ttf'
 end

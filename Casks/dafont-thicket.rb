@@ -5,7 +5,6 @@ cask 'dafont-thicket' do
     url 'http://dl.dafont.com/dl/?f=thicket'
     name 'Thicket'
     homepage 'http://www.dafont.com/thicket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THICKET_.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-handystencil' do
     url 'http://dl.dafont.com/dl/?f=handystencil'
     name 'Handy Stencil'
     homepage 'http://www.dafont.com/handystencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HandyStencil.ttf'
 end

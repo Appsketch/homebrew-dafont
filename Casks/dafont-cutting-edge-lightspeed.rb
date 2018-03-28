@@ -5,7 +5,6 @@ cask 'dafont-cutting-edge-lightspeed' do
     url 'http://dl.dafont.com/dl/?f=cutting_edge_lightspeed'
     name 'Cutting Edge Lightspeed'
     homepage 'http://www.dafont.com/cutting-edge-lightspeed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cutting Edge  Lightspeed.ttf'
     font 'Cutting Edge  Lightspeed2.ttf'

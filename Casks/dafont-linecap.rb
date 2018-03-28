@@ -5,7 +5,6 @@ cask 'dafont-linecap' do
     url 'http://dl.dafont.com/dl/?f=linecap'
     name 'Linecap'
     homepage 'http://www.dafont.com/linecap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Linecap.ttf'
 end

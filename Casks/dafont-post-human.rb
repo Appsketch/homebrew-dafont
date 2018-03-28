@@ -5,7 +5,6 @@ cask 'dafont-post-human' do
     url 'http://dl.dafont.com/dl/?f=post_human'
     name 'Post Human'
     homepage 'http://www.dafont.com/post-human.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'posthuman.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lilspider' do
     url 'http://dl.dafont.com/dl/?f=lilspider'
     name 'Lil Spider'
     homepage 'http://www.dafont.com/lilspider.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LilSpider.ttf'
 end

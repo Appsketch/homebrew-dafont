@@ -5,7 +5,6 @@ cask 'dafont-white-army' do
     url 'http://dl.dafont.com/dl/?f=white_army'
     name 'White Army'
     homepage 'http://www.dafont.com/white-army.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'White Army.ttf'
 end

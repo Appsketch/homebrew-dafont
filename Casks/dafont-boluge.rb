@@ -5,7 +5,6 @@ cask 'dafont-boluge' do
     url 'http://dl.dafont.com/dl/?f=boluge'
     name 'Boluge'
     homepage 'http://www.dafont.com/boluge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'boluge.ttf'
 end

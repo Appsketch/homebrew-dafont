@@ -5,7 +5,6 @@ cask 'dafont-the-alistaren' do
     url 'http://dl.dafont.com/dl/?f=the_alistaren'
     name 'The Alistaren'
     homepage 'http://www.dafont.com/the-alistaren.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THE_ALISTAREN.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-probably-yes' do
     url 'http://dl.dafont.com/dl/?f=probably_yes'
     name 'Probably Yes'
     homepage 'http://www.dafont.com/probably-yes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'probably yes.ttf'
 end

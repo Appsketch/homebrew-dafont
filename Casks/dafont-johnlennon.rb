@@ -5,7 +5,6 @@ cask 'dafont-johnlennon' do
     url 'http://dl.dafont.com/dl/?f=johnlennon'
     name 'John Lennon'
     homepage 'http://www.dafont.com/johnlennon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lennon.ttf'
 end

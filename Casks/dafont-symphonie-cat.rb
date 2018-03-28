@@ -5,7 +5,6 @@ cask 'dafont-symphonie-cat' do
     url 'http://dl.dafont.com/dl/?f=symphonie_cat'
     name 'Symphonie CAT'
     homepage 'http://www.dafont.com/symphonie-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SymphonieCAT.ttf'
 end

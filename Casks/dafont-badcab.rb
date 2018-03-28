@@ -5,7 +5,6 @@ cask 'dafont-badcab' do
     url 'http://dl.dafont.com/dl/?f=badcab'
     name 'Badcab'
     homepage 'http://www.dafont.com/badcab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Badcab.ttf'
 end

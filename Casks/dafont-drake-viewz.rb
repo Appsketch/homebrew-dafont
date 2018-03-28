@@ -5,7 +5,6 @@ cask 'dafont-drake-viewz' do
     url 'http://dl.dafont.com/dl/?f=drake_viewz'
     name 'Drake Viewz'
     homepage 'http://www.dafont.com/drake-viewz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DrakeViewz-Regular.otf'
 end

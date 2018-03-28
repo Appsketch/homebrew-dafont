@@ -5,7 +5,6 @@ cask 'dafont-vtks-fresh-mint' do
     url 'http://dl.dafont.com/dl/?f=vtks_fresh_mint'
     name 'Vtks Fresh Mint'
     homepage 'http://www.dafont.com/vtks-fresh-mint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Fresh Mint.ttf'
 end

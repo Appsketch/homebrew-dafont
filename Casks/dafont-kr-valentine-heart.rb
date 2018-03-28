@@ -5,7 +5,6 @@ cask 'dafont-kr-valentine-heart' do
     url 'http://dl.dafont.com/dl/?f=kr_valentine_heart'
     name 'KR Valentine Heart'
     homepage 'http://www.dafont.com/kr-valentine-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KRVAH___.TTF'
 end

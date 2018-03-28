@@ -5,7 +5,6 @@ cask 'dafont-stephanieeeserif' do
     url 'http://dl.dafont.com/dl/?f=stephanieeeserif'
     name 'Stephanieee Serif'
     homepage 'http://www.dafont.com/stephanieeeserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stephanieeeserif.ttf'
 end

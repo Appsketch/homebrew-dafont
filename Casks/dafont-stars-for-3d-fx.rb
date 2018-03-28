@@ -5,7 +5,6 @@ cask 'dafont-stars-for-3d-fx' do
     url 'http://dl.dafont.com/dl/?f=stars_for_3d_fx'
     name 'Stars for 3D FX'
     homepage 'http://www.dafont.com/stars-for-3d-fx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stars3d.ttf'
 end

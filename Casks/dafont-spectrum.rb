@@ -5,7 +5,6 @@ cask 'dafont-spectrum' do
     url 'http://dl.dafont.com/dl/?f=spectrum'
     name 'Spectrum'
     homepage 'http://www.dafont.com/spectrum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spectrum.ttf'
 end

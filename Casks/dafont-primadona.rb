@@ -5,7 +5,6 @@ cask 'dafont-primadona' do
     url 'http://dl.dafont.com/dl/?f=primadona'
     name 'Primadona'
     homepage 'http://www.dafont.com/primadona.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Primadona Bold.ttf'
     font 'Primadona Italic Bold.ttf'

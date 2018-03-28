@@ -5,7 +5,6 @@ cask 'dafont-goonberry2' do
     url 'http://dl.dafont.com/dl/?f=goonberry2'
     name 'Goonberry 2'
     homepage 'http://www.dafont.com/goonberry2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Goonberry Light2.ttf'
 end

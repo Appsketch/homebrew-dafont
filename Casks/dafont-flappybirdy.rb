@@ -5,7 +5,6 @@ cask 'dafont-flappybirdy' do
     url 'http://dl.dafont.com/dl/?f=flappybirdy'
     name 'Flappy Birdy'
     homepage 'http://www.dafont.com/flappybirdy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlappyBirdy.ttf'
 end

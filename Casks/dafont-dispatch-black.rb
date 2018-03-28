@@ -5,7 +5,6 @@ cask 'dafont-dispatch-black' do
     url 'http://dl.dafont.com/dl/?f=dispatch_black'
     name 'Dispatch Black'
     homepage 'http://www.dafont.com/dispatch-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dispatch_Black.ttf'
 end

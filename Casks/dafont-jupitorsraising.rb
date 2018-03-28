@@ -5,7 +5,6 @@ cask 'dafont-jupitorsraising' do
     url 'http://dl.dafont.com/dl/?f=jupitorsraising'
     name 'Jupitors Raising'
     homepage 'http://www.dafont.com/jupitorsraising.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JupitorsRaising.ttf'
 end

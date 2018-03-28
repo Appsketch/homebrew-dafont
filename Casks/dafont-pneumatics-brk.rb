@@ -5,7 +5,6 @@ cask 'dafont-pneumatics-brk' do
     url 'http://dl.dafont.com/dl/?f=pneumatics_brk'
     name 'Pneumatics BRK'
     homepage 'http://www.dafont.com/pneumatics-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pneumati.ttf'
     font 'pneutall.ttf'

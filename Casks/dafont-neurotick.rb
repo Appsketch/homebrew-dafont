@@ -5,7 +5,6 @@ cask 'dafont-neurotick' do
     url 'http://dl.dafont.com/dl/?f=neurotick'
     name 'NeuroTick'
     homepage 'http://www.dafont.com/neurotick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeuroTick.ttf'
 end

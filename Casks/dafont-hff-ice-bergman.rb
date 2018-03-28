@@ -5,7 +5,6 @@ cask 'dafont-hff-ice-bergman' do
     url 'http://dl.dafont.com/dl/?f=hff_ice_bergman'
     name 'HFF Ice Bergman'
     homepage 'http://www.dafont.com/hff-ice-bergman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Ice Bergman.ttf'
 end

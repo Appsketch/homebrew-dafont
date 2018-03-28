@@ -5,7 +5,6 @@ cask 'dafont-lightning' do
     url 'http://dl.dafont.com/dl/?f=lightning'
     name 'Lightning'
     homepage 'http://www.dafont.com/lightning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lightning-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cymptums' do
     url 'http://dl.dafont.com/dl/?f=cymptums'
     name 'Cymptums'
     homepage 'http://www.dafont.com/cymptums.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cymptum.ttf'
 end

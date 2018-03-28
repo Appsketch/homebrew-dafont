@@ -5,7 +5,6 @@ cask 'dafont-monica' do
     url 'http://dl.dafont.com/dl/?f=monica'
     name 'Monica'
     homepage 'http://www.dafont.com/monica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monica.ttf'
 end

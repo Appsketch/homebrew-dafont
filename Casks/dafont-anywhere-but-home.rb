@@ -5,7 +5,6 @@ cask 'dafont-anywhere-but-home' do
     url 'http://dl.dafont.com/dl/?f=anywhere_but_home'
     name 'Anywhere but Home'
     homepage 'http://www.dafont.com/anywhere-but-home.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'abh1.ttf'
 end

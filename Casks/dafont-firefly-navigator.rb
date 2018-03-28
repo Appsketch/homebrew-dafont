@@ -5,7 +5,6 @@ cask 'dafont-firefly-navigator' do
     url 'http://dl.dafont.com/dl/?f=firefly_navigator'
     name 'Firefly Navigator'
     homepage 'http://www.dafont.com/firefly-navigator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Firefly Navigator.otf'
 end

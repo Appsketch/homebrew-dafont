@@ -5,7 +5,6 @@ cask 'dafont-rampung' do
     url 'http://dl.dafont.com/dl/?f=rampung'
     name 'Rampung'
     homepage 'http://www.dafont.com/rampung.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rampung.ttf'
 end

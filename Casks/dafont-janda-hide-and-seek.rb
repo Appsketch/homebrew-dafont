@@ -5,7 +5,6 @@ cask 'dafont-janda-hide-and-seek' do
     url 'http://dl.dafont.com/dl/?f=janda_hide_and_seek'
     name 'Janda Hide And Seek'
     homepage 'http://www.dafont.com/janda-hide-and-seek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaHideAndSeek.ttf'
 end

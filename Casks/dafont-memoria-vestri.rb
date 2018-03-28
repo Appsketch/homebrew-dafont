@@ -5,7 +5,6 @@ cask 'dafont-memoria-vestri' do
     url 'http://dl.dafont.com/dl/?f=memoria_vestri'
     name 'Memoria Vestri'
     homepage 'http://www.dafont.com/memoria-vestri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Memoria vestri.ttf'
 end

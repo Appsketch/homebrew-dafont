@@ -5,7 +5,6 @@ cask 'dafont-dust-scratches' do
     url 'http://dl.dafont.com/dl/?f=dust_scratches'
     name 'Dust Scratches'
     homepage 'http://www.dafont.com/dust-scratches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dust Scratches light.ttf'
     font 'dust scratches.ttf'

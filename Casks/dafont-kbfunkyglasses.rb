@@ -5,7 +5,6 @@ cask 'dafont-kbfunkyglasses' do
     url 'http://dl.dafont.com/dl/?f=kbfunkyglasses'
     name 'KB Funky Glasses'
     homepage 'http://www.dafont.com/kbfunkyglasses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBFunkyGlasses.ttf'
 end

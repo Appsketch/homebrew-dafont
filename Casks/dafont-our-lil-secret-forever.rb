@@ -5,7 +5,6 @@ cask 'dafont-our-lil-secret-forever' do
     url 'http://dl.dafont.com/dl/?f=our_lil_secret_forever'
     name 'Our lil secret forever'
     homepage 'http://www.dafont.com/our-lil-secret-forever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'our lil secret forever.ttf'
 end

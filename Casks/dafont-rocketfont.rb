@@ -5,7 +5,6 @@ cask 'dafont-rocketfont' do
     url 'http://dl.dafont.com/dl/?f=rocketfont'
     name 'Rocketfont'
     homepage 'http://www.dafont.com/rocketfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rocketfont.ttf'
 end

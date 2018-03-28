@@ -5,7 +5,6 @@ cask 'dafont-dacian-donarium' do
     url 'http://dl.dafont.com/dl/?f=dacian_donarium'
     name 'Dacian Donarium'
     homepage 'http://www.dafont.com/dacian-donarium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DacianDonarium.ttf'
 end

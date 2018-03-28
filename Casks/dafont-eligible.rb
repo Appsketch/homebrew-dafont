@@ -5,7 +5,6 @@ cask 'dafont-eligible' do
     url 'http://dl.dafont.com/dl/?f=eligible'
     name 'Eligible'
     homepage 'http://www.dafont.com/eligible.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eligible-Bold-Italic.ttf'
     font 'Eligible-Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-tournicoti' do
     url 'http://dl.dafont.com/dl/?f=tournicoti'
     name 'Tournicoti'
     homepage 'http://www.dafont.com/tournicoti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tournicoti.ttf'
 end

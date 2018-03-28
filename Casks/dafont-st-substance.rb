@@ -5,7 +5,6 @@ cask 'dafont-st-substance' do
     url 'http://dl.dafont.com/dl/?f=st_substance'
     name 'ST Substance'
     homepage 'http://www.dafont.com/st-substance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'st_sbustance_regular.ttf'
 end

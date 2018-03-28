@@ -5,7 +5,6 @@ cask 'dafont-fd-bateek' do
     url 'http://dl.dafont.com/dl/?f=fd_bateek'
     name 'FD Bateek'
     homepage 'http://www.dafont.com/fd-bateek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fd-bateek.otf'
 end

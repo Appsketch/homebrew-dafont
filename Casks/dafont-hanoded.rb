@@ -5,7 +5,6 @@ cask 'dafont-hanoded' do
     url 'http://dl.dafont.com/dl/?f=hanoded'
     name 'Hanoded'
     homepage 'http://www.dafont.com/hanoded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hanoded-Heavy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djb-sand-shoes-and-a-fez' do
     url 'http://dl.dafont.com/dl/?f=djb_sand_shoes_and_a_fez'
     name 'DJB Sand Shoes and a Fez'
     homepage 'http://www.dafont.com/djb-sand-shoes-and-a-fez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Sand Shoes and a Fez Bold.ttf'
     font 'DJB Sand Shoes and a Fez.ttf'

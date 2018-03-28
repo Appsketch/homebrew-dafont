@@ -5,7 +5,6 @@ cask 'dafont-dality' do
     url 'http://dl.dafont.com/dl/?f=dality'
     name 'Dality'
     homepage 'http://www.dafont.com/dality.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dality.ttf'
 end

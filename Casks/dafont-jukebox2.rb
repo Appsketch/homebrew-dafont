@@ -5,7 +5,6 @@ cask 'dafont-jukebox2' do
     url 'http://dl.dafont.com/dl/?f=jukebox2'
     name 'Jukebox'
     homepage 'http://www.dafont.com/jukebox2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jukebox.ttf'
 end

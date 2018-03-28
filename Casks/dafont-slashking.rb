@@ -5,7 +5,6 @@ cask 'dafont-slashking' do
     url 'http://dl.dafont.com/dl/?f=slashking'
     name 'Slash King'
     homepage 'http://www.dafont.com/slashking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SlashKing.ttf'
 end

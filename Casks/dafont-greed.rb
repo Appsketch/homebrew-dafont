@@ -5,7 +5,6 @@ cask 'dafont-greed' do
     url 'http://dl.dafont.com/dl/?f=greed'
     name 'Greed'
     homepage 'http://www.dafont.com/greed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Greed.otf'
 end

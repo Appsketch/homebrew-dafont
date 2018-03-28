@@ -5,7 +5,6 @@ cask 'dafont-supernaturalthing' do
     url 'http://dl.dafont.com/dl/?f=supernaturalthing'
     name 'Supernatural Thing'
     homepage 'http://www.dafont.com/supernaturalthing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SupernaturalThing.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sandy-ravage' do
     url 'http://dl.dafont.com/dl/?f=sandy_ravage'
     name 'Sandy Ravage'
     homepage 'http://www.dafont.com/sandy-ravage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SandyRavage-Regular.ttf'
 end

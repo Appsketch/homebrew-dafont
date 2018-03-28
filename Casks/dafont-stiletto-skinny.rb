@@ -5,7 +5,6 @@ cask 'dafont-stiletto-skinny' do
     url 'http://dl.dafont.com/dl/?f=stiletto_skinny'
     name 'Stiletto Skinny'
     homepage 'http://www.dafont.com/stiletto-skinny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stiletto skinny.vfb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-libertango' do
     url 'http://dl.dafont.com/dl/?f=libertango'
     name 'Libertango'
     homepage 'http://www.dafont.com/libertango.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Libertango.ttf'
 end

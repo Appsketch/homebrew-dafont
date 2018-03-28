@@ -5,7 +5,6 @@ cask 'dafont-thinkhigher' do
     url 'http://dl.dafont.com/dl/?f=thinkhigher'
     name 'Think Higher'
     homepage 'http://www.dafont.com/thinkhigher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThinkHigher.ttf'
 end

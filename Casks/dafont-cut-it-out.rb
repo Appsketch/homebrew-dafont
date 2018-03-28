@@ -5,7 +5,6 @@ cask 'dafont-cut-it-out' do
     url 'http://dl.dafont.com/dl/?f=cut_it_out'
     name 'Cut It Out'
     homepage 'http://www.dafont.com/cut-it-out.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CUT.TTF'
 end

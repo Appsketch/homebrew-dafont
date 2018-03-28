@@ -5,7 +5,6 @@ cask 'dafont-pwroundedscript' do
     url 'http://dl.dafont.com/dl/?f=pwroundedscript'
     name 'PW Rounded Script'
     homepage 'http://www.dafont.com/pwroundedscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWRoundedScript.ttf'
 end

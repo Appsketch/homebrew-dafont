@@ -5,7 +5,6 @@ cask 'dafont-beach-bats' do
     url 'http://dl.dafont.com/dl/?f=beach_bats'
     name 'Beach Bats'
     homepage 'http://www.dafont.com/beach-bats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeachBats.ttf'
 end

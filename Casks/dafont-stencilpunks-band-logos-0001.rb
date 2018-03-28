@@ -5,7 +5,6 @@ cask 'dafont-stencilpunks-band-logos-0001' do
     url 'http://dl.dafont.com/dl/?f=stencilpunks_band_logos_0001'
     name 'Stencil Punks Band Logos'
     homepage 'http://www.dafont.com/stencilpunks-band-logos-0001.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STENCIL PUNKS DINGS.ttf'
 end

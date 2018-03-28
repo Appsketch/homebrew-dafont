@@ -5,7 +5,6 @@ cask 'dafont-alphabits' do
     url 'http://dl.dafont.com/dl/?f=alphabits'
     name 'Alphabits'
     homepage 'http://www.dafont.com/alphabits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alphabits-Fat.ttf'
     font 'Alphabits-Light.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-enjoy-the-time' do
     url 'http://dl.dafont.com/dl/?f=enjoy_the_time'
     name 'Enjoy the time'
     homepage 'http://www.dafont.com/enjoy-the-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'enjoy the time.ttf'
 end

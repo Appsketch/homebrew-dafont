@@ -5,7 +5,6 @@ cask 'dafont-shibuya-now' do
     url 'http://dl.dafont.com/dl/?f=shibuya_now'
     name 'Shibuya Now!'
     homepage 'http://www.dafont.com/shibuya-now.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShibuyaNow!.ttf'
 end

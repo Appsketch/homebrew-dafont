@@ -5,7 +5,6 @@ cask 'dafont-prester-john' do
     url 'http://dl.dafont.com/dl/?f=prester_john'
     name 'Prester John'
     homepage 'http://www.dafont.com/prester-john.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Prester John.ttf'
 end

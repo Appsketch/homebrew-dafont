@@ -5,7 +5,6 @@ cask 'dafont-the-skinny' do
     url 'http://dl.dafont.com/dl/?f=the_skinny'
     name 'The Skinny'
     homepage 'http://www.dafont.com/the-skinny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheSkinny-bold.otf'
     font 'TheSkinny.otf'

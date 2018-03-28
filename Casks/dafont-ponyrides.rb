@@ -5,7 +5,6 @@ cask 'dafont-ponyrides' do
     url 'http://dl.dafont.com/dl/?f=ponyrides'
     name 'PonyRides'
     homepage 'http://www.dafont.com/ponyrides.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PonyRides.ttf'
 end

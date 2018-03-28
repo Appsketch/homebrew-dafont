@@ -5,7 +5,6 @@ cask 'dafont-redcat' do
     url 'http://dl.dafont.com/dl/?f=redcat'
     name 'Redcat'
     homepage 'http://www.dafont.com/redcat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Redcat.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mathilde-castleland' do
     url 'http://dl.dafont.com/dl/?f=mathilde_castleland'
     name 'Mathilde Castleland'
     homepage 'http://www.dafont.com/mathilde-castleland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mathilde Castleland.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gaellenumber4' do
     url 'http://dl.dafont.com/dl/?f=gaellenumber4'
     name 'Gaelle Number 4'
     homepage 'http://www.dafont.com/gaellenumber4.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GaelleNumber4.ttf'
 end

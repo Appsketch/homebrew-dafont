@@ -5,7 +5,6 @@ cask 'dafont-brown-bag' do
     url 'http://dl.dafont.com/dl/?f=brown_bag'
     name 'Brown Bag'
     homepage 'http://www.dafont.com/brown-bag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brown Bag.otf'
 end

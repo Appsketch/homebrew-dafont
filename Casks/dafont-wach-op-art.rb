@@ -5,7 +5,6 @@ cask 'dafont-wach-op-art' do
     url 'http://dl.dafont.com/dl/?f=wach_op_art'
     name 'Wach Op-Art'
     homepage 'http://www.dafont.com/wach-op-art.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wach-Op-art-symbols.ttf'
 end

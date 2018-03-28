@@ -5,7 +5,6 @@ cask 'dafont-tripserif-ce' do
     url 'http://dl.dafont.com/dl/?f=tripserif_ce'
     name 'TripSerif CE'
     homepage 'http://www.dafont.com/tripserif-ce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TripSerifCE_Bold.ttf'
     font 'TripSerifCE_BoldItalic.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-bricks' do
     url 'http://dl.dafont.com/dl/?f=bricks'
     name 'Bricks'
     homepage 'http://www.dafont.com/bricks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TT Bricks Medium Italic.ttf'
 end

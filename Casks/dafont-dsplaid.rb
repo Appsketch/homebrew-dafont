@@ -5,7 +5,6 @@ cask 'dafont-dsplaid' do
     url 'http://dl.dafont.com/dl/?f=dsplaid'
     name 'Dsplaid'
     homepage 'http://www.dafont.com/dsplaid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DSPLAID.ttf'
 end

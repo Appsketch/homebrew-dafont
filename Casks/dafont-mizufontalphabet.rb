@@ -5,7 +5,6 @@ cask 'dafont-mizufontalphabet' do
     url 'http://dl.dafont.com/dl/?f=mizufontalphabet'
     name 'Mizu Font Alphabet'
     homepage 'http://www.dafont.com/mizufontalphabet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mizufalp.ttf'
 end

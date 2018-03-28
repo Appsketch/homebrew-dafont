@@ -5,7 +5,6 @@ cask 'dafont-ice-lolly-ding' do
     url 'http://dl.dafont.com/dl/?f=ice_lolly_ding'
     name 'Ice Lolly Ding'
     homepage 'http://www.dafont.com/ice-lolly-ding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ice Lolly Ding.otf'
 end

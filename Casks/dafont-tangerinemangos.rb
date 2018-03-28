@@ -5,7 +5,6 @@ cask 'dafont-tangerinemangos' do
     url 'http://dl.dafont.com/dl/?f=tangerinemangos'
     name 'Tangerine Mangos'
     homepage 'http://www.dafont.com/tangerinemangos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TangerineMangos.ttf'
 end

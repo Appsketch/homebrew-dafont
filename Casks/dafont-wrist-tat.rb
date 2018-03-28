@@ -5,7 +5,6 @@ cask 'dafont-wrist-tat' do
     url 'http://dl.dafont.com/dl/?f=wrist_tat'
     name 'Wrist Tat'
     homepage 'http://www.dafont.com/wrist-tat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wrist Tat.ttf'
 end

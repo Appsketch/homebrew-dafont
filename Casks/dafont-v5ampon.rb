@@ -5,7 +5,6 @@ cask 'dafont-v5ampon' do
     url 'http://dl.dafont.com/dl/?f=v5ampon'
     name 'V5 Ampon'
     homepage 'http://www.dafont.com/v5ampon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'v5amsl__.ttf'
     font 'v5amu___.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-jack-and-the-beanstalk' do
     url 'http://dl.dafont.com/dl/?f=jack_and_the_beanstalk'
     name 'Jack and the Beanstalk'
     homepage 'http://www.dafont.com/jack-and-the-beanstalk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jack and the Beanstalk line.ttf'
     font 'Jack and the Beanstalk.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-darth-gonzo' do
     url 'http://dl.dafont.com/dl/?f=darth_gonzo'
     name 'Darth Gonzo'
     homepage 'http://www.dafont.com/darth-gonzo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'darth gonzo.ttf'
 end

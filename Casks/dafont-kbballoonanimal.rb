@@ -5,7 +5,6 @@ cask 'dafont-kbballoonanimal' do
     url 'http://dl.dafont.com/dl/?f=kbballoonanimal'
     name 'KB Balloon Animal'
     homepage 'http://www.dafont.com/kbballoonanimal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBBalloonAnimal.ttf'
 end

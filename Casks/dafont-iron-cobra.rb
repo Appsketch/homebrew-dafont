@@ -5,7 +5,6 @@ cask 'dafont-iron-cobra' do
     url 'http://dl.dafont.com/dl/?f=iron_cobra'
     name 'Iron Cobra'
     homepage 'http://www.dafont.com/iron-cobra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ironcobra.ttf'
     font 'ironcobra3d.ttf'

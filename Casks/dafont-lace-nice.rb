@@ -5,7 +5,6 @@ cask 'dafont-lace-nice' do
     url 'http://dl.dafont.com/dl/?f=lace_nice'
     name 'Lace Nice'
     homepage 'http://www.dafont.com/lace-nice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lace Nice.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ldc-paraplegia' do
     url 'http://dl.dafont.com/dl/?f=ldc_paraplegia'
     name 'LDC Paraplegia'
     homepage 'http://www.dafont.com/ldc-paraplegia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LDC_orthopedia.ttf'
 end

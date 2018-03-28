@@ -5,7 +5,6 @@ cask 'dafont-fh-faith' do
     url 'http://dl.dafont.com/dl/?f=fh_faith'
     name 'Fh Faith'
     homepage 'http://www.dafont.com/fh-faith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fh_Faith.otf'
 end

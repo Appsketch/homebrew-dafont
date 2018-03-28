@@ -5,7 +5,6 @@ cask 'dafont-dusthomeman' do
     url 'http://dl.dafont.com/dl/?f=dusthomeman'
     name 'DustHomeMan'
     homepage 'http://www.dafont.com/dusthomeman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DustHomeManMedium.ttf'
 end

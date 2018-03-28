@@ -5,7 +5,6 @@ cask 'dafont-aragon' do
     url 'http://dl.dafont.com/dl/?f=aragon'
     name 'Aragon'
     homepage 'http://www.dafont.com/aragon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aragon_solid.ttf'
     font 'ARAGON.ttf'

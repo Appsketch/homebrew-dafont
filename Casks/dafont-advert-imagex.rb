@@ -5,7 +5,6 @@ cask 'dafont-advert-imagex' do
     url 'http://dl.dafont.com/dl/?f=advert_imagex'
     name 'Advert'
     homepage 'http://www.dafont.com/advert-imagex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Advert.ttf'
 end

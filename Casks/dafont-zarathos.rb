@@ -5,7 +5,6 @@ cask 'dafont-zarathos' do
     url 'http://dl.dafont.com/dl/?f=zarathos'
     name 'Zarathos'
     homepage 'http://www.dafont.com/zarathos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zarathos Bold Italic.otf'
     font 'Zarathos Bold.otf'

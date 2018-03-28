@@ -5,7 +5,6 @@ cask 'dafont-providenceri' do
     url 'http://dl.dafont.com/dl/?f=providenceri'
     name 'Providence RI'
     homepage 'http://www.dafont.com/providenceri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ProvidenceRI-Regular.otf'
 end

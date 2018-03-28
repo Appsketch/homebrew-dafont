@@ -5,7 +5,6 @@ cask 'dafont-social-shapes' do
     url 'http://dl.dafont.com/dl/?f=social_shapes'
     name 'Social Shapes'
     homepage 'http://www.dafont.com/social-shapes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'social_shapes.ttf'
 end

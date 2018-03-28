@@ -5,7 +5,6 @@ cask 'dafont-ucu-charles-script' do
     url 'http://dl.dafont.com/dl/?f=ucu_charles_script'
     name 'UCU Charles Script'
     homepage 'http://www.dafont.com/ucu-charles-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UCU charles script.ttf'
 end

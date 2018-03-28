@@ -5,7 +5,6 @@ cask 'dafont-djb-play-misty-for-me' do
     url 'http://dl.dafont.com/dl/?f=djb_play_misty_for_me'
     name 'DJB Play Misty For Me'
     homepage 'http://www.dafont.com/djb-play-misty-for-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Play Misty for Me.ttf'
 end

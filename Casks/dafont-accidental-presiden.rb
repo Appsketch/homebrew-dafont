@@ -5,7 +5,6 @@ cask 'dafont-accidental-presiden' do
     url 'http://dl.dafont.com/dl/?f=accidental_presiden'
     name 'Accidental Presidency'
     homepage 'http://www.dafont.com/accidental-presiden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'accid___.ttf'
 end

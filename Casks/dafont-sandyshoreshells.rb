@@ -5,7 +5,6 @@ cask 'dafont-sandyshoreshells' do
     url 'http://dl.dafont.com/dl/?f=sandyshoreshells'
     name 'Sandy Shore Shells'
     homepage 'http://www.dafont.com/sandyshoreshells.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SandyShoreShells.ttf'
 end

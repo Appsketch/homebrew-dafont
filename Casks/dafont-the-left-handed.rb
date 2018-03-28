@@ -5,7 +5,6 @@ cask 'dafont-the-left-handed' do
     url 'http://dl.dafont.com/dl/?f=the_left_handed'
     name 'The Left-Handed Regular'
     homepage 'http://www.dafont.com/the-left-handed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The_Left-Handed_-_Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-selari' do
     url 'http://dl.dafont.com/dl/?f=selari'
     name 'Selari'
     homepage 'http://www.dafont.com/selari.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'selari 3D.ttf'
     font 'selari regular.ttf'

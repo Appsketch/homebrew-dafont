@@ -5,7 +5,6 @@ cask 'dafont-seaside-heights' do
     url 'http://dl.dafont.com/dl/?f=seaside_heights'
     name 'Seaside Heights'
     homepage 'http://www.dafont.com/seaside-heights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seaside Heights.ttf'
 end

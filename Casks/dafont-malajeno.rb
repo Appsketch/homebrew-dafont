@@ -5,7 +5,6 @@ cask 'dafont-malajeno' do
     url 'http://dl.dafont.com/dl/?f=malajeno'
     name 'Malajeno'
     homepage 'http://www.dafont.com/malajeno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MALAJENO-UltraWide.otf'
 end

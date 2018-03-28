@@ -5,7 +5,6 @@ cask 'dafont-la-chatte-a-maman' do
     url 'http://dl.dafont.com/dl/?f=la_chatte_a_maman'
     name 'La Chatte &agrave; Maman'
     homepage 'http://www.dafont.com/la-chatte-a-maman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'la Chatte a Maman.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bring-me-that-glyph' do
     url 'http://dl.dafont.com/dl/?f=bring_me_that_glyph'
     name 'Bring me That Glyph'
     homepage 'http://www.dafont.com/bring-me-that-glyph.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bring me That Glyph 2.ttf'
     font 'Bring me That Glyph.ttf'

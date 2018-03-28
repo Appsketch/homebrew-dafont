@@ -5,7 +5,6 @@ cask 'dafont-dragon-ball-tfb' do
     url 'http://dl.dafont.com/dl/?f=dragon_ball_tfb'
     name 'Dragon Ball TFB'
     homepage 'http://www.dafont.com/dragon-ball-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dragon ball tfb.ttf'
 end

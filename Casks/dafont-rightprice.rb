@@ -5,7 +5,6 @@ cask 'dafont-rightprice' do
     url 'http://dl.dafont.com/dl/?f=rightprice'
     name 'Right Price'
     homepage 'http://www.dafont.com/rightprice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RightPrice.ttf'
 end

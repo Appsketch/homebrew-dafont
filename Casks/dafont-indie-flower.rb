@@ -5,7 +5,6 @@ cask 'dafont-indie-flower' do
     url 'http://dl.dafont.com/dl/?f=indie_flower'
     name 'Indie Flower'
     homepage 'http://www.dafont.com/indie-flower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IndieFlower.ttf'
 end

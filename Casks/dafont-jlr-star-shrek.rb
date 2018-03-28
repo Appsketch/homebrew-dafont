@@ -5,7 +5,6 @@ cask 'dafont-jlr-star-shrek' do
     url 'http://dl.dafont.com/dl/?f=jlr_star_shrek'
     name 'JLR Star Shrek'
     homepage 'http://www.dafont.com/jlr-star-shrek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JLR Star Shrek.ttf'
 end

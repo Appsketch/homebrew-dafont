@@ -5,7 +5,6 @@ cask 'dafont-distressed-ransom-note' do
     url 'http://dl.dafont.com/dl/?f=distressed_ransom_note'
     name 'Distressed Ransom Note'
     homepage 'http://www.dafont.com/distressed-ransom-note.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Distressed Ransom Note.ttf'
 end

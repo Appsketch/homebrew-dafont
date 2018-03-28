@@ -5,7 +5,6 @@ cask 'dafont-oh-no-not-again' do
     url 'http://dl.dafont.com/dl/?f=oh_no_not_again'
     name 'Oh No Not Again'
     homepage 'http://www.dafont.com/oh-no-not-again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oh No Not Again.ttf'
 end

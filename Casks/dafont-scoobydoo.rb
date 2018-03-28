@@ -5,7 +5,6 @@ cask 'dafont-scoobydoo' do
     url 'http://dl.dafont.com/dl/?f=scoobydoo'
     name 'Scooby Doo'
     homepage 'http://www.dafont.com/scoobydoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scoobydoo.ttf'
 end

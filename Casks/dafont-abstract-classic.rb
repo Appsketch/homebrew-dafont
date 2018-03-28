@@ -5,7 +5,6 @@ cask 'dafont-abstract-classic' do
     url 'http://dl.dafont.com/dl/?f=abstract_classic'
     name 'Abstract Classic'
     homepage 'http://www.dafont.com/abstract-classic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AbstractClassicFont.ttf'
 end

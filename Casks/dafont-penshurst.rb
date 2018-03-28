@@ -5,7 +5,6 @@ cask 'dafont-penshurst' do
     url 'http://dl.dafont.com/dl/?f=penshurst'
     name 'Penshurst'
     homepage 'http://www.dafont.com/penshurst.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PENHURSB.TTF'
     font 'PENHURSS.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-burst-my-bubble' do
     url 'http://dl.dafont.com/dl/?f=burst_my_bubble'
     name 'Burst My Bubble'
     homepage 'http://www.dafont.com/burst-my-bubble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BurstMyBubble.ttf'
     font 'BurstMyBubbleBold.ttf'

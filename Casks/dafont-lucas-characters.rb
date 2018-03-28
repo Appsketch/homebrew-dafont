@@ -5,7 +5,6 @@ cask 'dafont-lucas-characters' do
     url 'http://dl.dafont.com/dl/?f=lucas_characters'
     name 'Lucas characters'
     homepage 'http://www.dafont.com/lucas-characters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lucas characters.ttf'
 end

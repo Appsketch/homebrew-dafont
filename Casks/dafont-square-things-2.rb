@@ -5,7 +5,6 @@ cask 'dafont-square-things-2' do
     url 'http://dl.dafont.com/dl/?f=square_things_2'
     name 'Square Things 2'
     homepage 'http://www.dafont.com/square-things-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'squarethings2.ttf'
 end

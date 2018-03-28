@@ -5,7 +5,6 @@ cask 'dafont-palacio' do
     url 'http://dl.dafont.com/dl/?f=palacio'
     name 'Palacio'
     homepage 'http://www.dafont.com/palacio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Palacio Book.ttf'
     font 'Palacio.ttf'

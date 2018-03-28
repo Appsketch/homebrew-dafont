@@ -5,7 +5,6 @@ cask 'dafont-andrefist' do
     url 'http://dl.dafont.com/dl/?f=andrefist'
     name 'Andrefist'
     homepage 'http://www.dafont.com/andrefist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'andre fist shdw.ttf'
     font 'andre fist.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-uptightc' do
     url 'http://dl.dafont.com/dl/?f=uptightc'
     name 'UptightC'
     homepage 'http://www.dafont.com/uptightc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UptightC.otf'
 end

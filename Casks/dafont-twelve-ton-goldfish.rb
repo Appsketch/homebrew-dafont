@@ -5,7 +5,6 @@ cask 'dafont-twelve-ton-goldfish' do
     url 'http://dl.dafont.com/dl/?f=twelve_ton_goldfish'
     name 'Twelve Ton Goldfish'
     homepage 'http://www.dafont.com/twelve-ton-goldfish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '12tonfishstick.ttf'
     font '12tonsushi.ttf'

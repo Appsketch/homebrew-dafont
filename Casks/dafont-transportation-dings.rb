@@ -5,7 +5,6 @@ cask 'dafont-transportation-dings' do
     url 'http://dl.dafont.com/dl/?f=transportation_dings'
     name 'Transportation Dings'
     homepage 'http://www.dafont.com/transportation-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Transportation Dings.ttf'
 end

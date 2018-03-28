@@ -5,7 +5,6 @@ cask 'dafont-kargi' do
     url 'http://dl.dafont.com/dl/?f=kargi'
     name 'Kargi'
     homepage 'http://www.dafont.com/kargi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kargi.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dodge' do
     url 'http://dl.dafont.com/dl/?f=dodge'
     name 'Dodge'
     homepage 'http://www.dafont.com/dodge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DODGE.ttf'
 end

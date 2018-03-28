@@ -5,7 +5,6 @@ cask 'dafont-nix' do
     url 'http://dl.dafont.com/dl/?f=nix'
     name 'Nix'
     homepage 'http://www.dafont.com/nix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NIX_____.OTF'
 end

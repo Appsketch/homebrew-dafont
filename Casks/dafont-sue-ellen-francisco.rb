@@ -5,7 +5,6 @@ cask 'dafont-sue-ellen-francisco' do
     url 'http://dl.dafont.com/dl/?f=sue_ellen_francisco'
     name 'Sue Ellen Francisco'
     homepage 'http://www.dafont.com/sue-ellen-francisco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sue Ellen Francisco.ttf'
 end

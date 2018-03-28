@@ -5,7 +5,6 @@ cask 'dafont-rough-linen' do
     url 'http://dl.dafont.com/dl/?f=rough_linen'
     name 'Rough Linen'
     homepage 'http://www.dafont.com/rough-linen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rough_linen.ttf'
 end

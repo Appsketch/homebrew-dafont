@@ -5,7 +5,6 @@ cask 'dafont-kids-from-snow-hill' do
     url 'http://dl.dafont.com/dl/?f=kids_from_snow_hill'
     name 'Kids From Snow Hill'
     homepage 'http://www.dafont.com/kids-from-snow-hill.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kids From Snow Hill.ttf'
 end

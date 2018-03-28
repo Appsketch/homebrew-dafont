@@ -5,7 +5,6 @@ cask 'dafont-troll-bait' do
     url 'http://dl.dafont.com/dl/?f=troll_bait'
     name 'Troll Bait'
     homepage 'http://www.dafont.com/troll-bait.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'troll bait.ttf'
 end

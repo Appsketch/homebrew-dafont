@@ -5,7 +5,6 @@ cask 'dafont-willywonka' do
     url 'http://dl.dafont.com/dl/?f=willywonka'
     name 'Willy Wonka'
     homepage 'http://www.dafont.com/willywonka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WillyWonka.ttf'
 end

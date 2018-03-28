@@ -5,7 +5,6 @@ cask 'dafont-dark-is-the-night' do
     url 'http://dl.dafont.com/dl/?f=dark_is_the_night'
     name 'Dark is the Night'
     homepage 'http://www.dafont.com/dark-is-the-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DarkistheNight.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-unek' do
     url 'http://dl.dafont.com/dl/?f=unek'
     name 'Unek'
     homepage 'http://www.dafont.com/unek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'unek.ttf'
 end

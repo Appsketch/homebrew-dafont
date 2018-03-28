@@ -5,7 +5,6 @@ cask 'dafont-modeccio' do
     url 'http://dl.dafont.com/dl/?f=modeccio'
     name 'Modeccio'
     homepage 'http://www.dafont.com/modeccio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Modeccio.ttf'
 end

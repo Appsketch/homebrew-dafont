@@ -5,7 +5,6 @@ cask 'dafont-dk-weltschmerz' do
     url 'http://dl.dafont.com/dl/?f=dk_weltschmerz'
     name 'DK Weltschmerz'
     homepage 'http://www.dafont.com/dk-weltschmerz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Weltschmerz.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hamarama' do
     url 'http://dl.dafont.com/dl/?f=hamarama'
     name 'Hamarama'
     homepage 'http://www.dafont.com/hamarama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hamarama.ttf'
 end

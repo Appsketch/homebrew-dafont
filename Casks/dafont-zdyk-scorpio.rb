@@ -5,7 +5,6 @@ cask 'dafont-zdyk-scorpio' do
     url 'http://dl.dafont.com/dl/?f=zdyk_scorpio'
     name 'Zdyk Scorpio'
     homepage 'http://www.dafont.com/zdyk-scorpio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zdyk Scorpio.otf'
 end

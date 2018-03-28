@@ -5,7 +5,6 @@ cask 'dafont-mrf-funky-fresh' do
     url 'http://dl.dafont.com/dl/?f=mrf_funky_fresh'
     name 'MRF Funky Fresh'
     homepage 'http://www.dafont.com/mrf-funky-fresh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MRF funkyfresh.ttf'
 end

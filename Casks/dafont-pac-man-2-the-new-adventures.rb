@@ -5,7 +5,6 @@ cask 'dafont-pac-man-2-the-new-adventures' do
     url 'http://dl.dafont.com/dl/?f=pac_man_2_the_new_adventures'
     name 'Pac-Man 2 The New Adventures'
     homepage 'http://www.dafont.com/pac-man-2-the-new-adventures.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pacman.ttf'
 end

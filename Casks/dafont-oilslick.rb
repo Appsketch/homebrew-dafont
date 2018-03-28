@@ -5,7 +5,6 @@ cask 'dafont-oilslick' do
     url 'http://dl.dafont.com/dl/?f=oilslick'
     name 'Oilslick'
     homepage 'http://www.dafont.com/oilslick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oilslick Italic.otf'
     font 'Oilslick.otf'

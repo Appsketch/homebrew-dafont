@@ -5,7 +5,6 @@ cask 'dafont-stowaway' do
     url 'http://dl.dafont.com/dl/?f=stowaway'
     name 'Stowaway'
     homepage 'http://www.dafont.com/stowaway.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stowaway.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-filaturestd' do
     url 'http://dl.dafont.com/dl/?f=filaturestd'
     name 'Filature'
     homepage 'http://www.dafont.com/filaturestd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FilatureStd-Light.ttf'
 end

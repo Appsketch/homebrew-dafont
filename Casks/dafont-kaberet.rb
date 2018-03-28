@@ -5,7 +5,6 @@ cask 'dafont-kaberet' do
     url 'http://dl.dafont.com/dl/?f=kaberet'
     name 'Kaberet'
     homepage 'http://www.dafont.com/kaberet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kaberet.ttf'
 end

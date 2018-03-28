@@ -5,7 +5,6 @@ cask 'dafont-zipdown' do
     url 'http://dl.dafont.com/dl/?f=zipdown'
     name 'Zip Down'
     homepage 'http://www.dafont.com/zipdown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZipDown.ttf'
 end

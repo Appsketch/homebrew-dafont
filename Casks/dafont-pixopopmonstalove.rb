@@ -5,7 +5,6 @@ cask 'dafont-pixopopmonstalove' do
     url 'http://dl.dafont.com/dl/?f=pixopopmonstalove'
     name 'Pixopop Monstalove'
     homepage 'http://www.dafont.com/pixopopmonstalove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixopopMonstalove.ttf'
 end

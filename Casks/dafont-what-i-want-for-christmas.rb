@@ -5,7 +5,6 @@ cask 'dafont-what-i-want-for-christmas' do
     url 'http://dl.dafont.com/dl/?f=what_i_want_for_christmas'
     name 'What I Want For Christmas'
     homepage 'http://www.dafont.com/what-i-want-for-christmas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'What I Want For Christmas.ttf'
 end

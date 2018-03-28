@@ -5,7 +5,6 @@ cask 'dafont-writerline' do
     url 'http://dl.dafont.com/dl/?f=writerline'
     name 'Writer Line'
     homepage 'http://www.dafont.com/writerline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WriterLine.ttf'
 end

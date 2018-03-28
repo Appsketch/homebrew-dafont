@@ -5,7 +5,6 @@ cask 'dafont-pwcactus' do
     url 'http://dl.dafont.com/dl/?f=pwcactus'
     name 'PW Cactus'
     homepage 'http://www.dafont.com/pwcactus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWCactus.ttf'
 end

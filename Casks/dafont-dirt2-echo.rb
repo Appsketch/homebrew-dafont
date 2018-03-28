@@ -5,7 +5,6 @@ cask 'dafont-dirt2-echo' do
     url 'http://dl.dafont.com/dl/?f=dirt2_echo'
     name 'Dirt2 Echo'
     homepage 'http://www.dafont.com/dirt2-echo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dirt2 Echo.ttf'
 end

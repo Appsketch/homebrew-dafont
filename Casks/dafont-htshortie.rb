@@ -5,7 +5,6 @@ cask 'dafont-htshortie' do
     url 'http://dl.dafont.com/dl/?f=htshortie'
     name 'Ht Shortie'
     homepage 'http://www.dafont.com/htshortie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'htShortie.ttf'
 end

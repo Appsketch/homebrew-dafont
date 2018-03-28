@@ -5,7 +5,6 @@ cask 'dafont-lansbury-fg' do
     url 'http://dl.dafont.com/dl/?f=lansbury_fg'
     name 'Lansbury FG'
     homepage 'http://www.dafont.com/lansbury-fg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lansbury.ttf'
 end

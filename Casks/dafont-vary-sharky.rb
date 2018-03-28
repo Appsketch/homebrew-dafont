@@ -5,7 +5,6 @@ cask 'dafont-vary-sharky' do
     url 'http://dl.dafont.com/dl/?f=vary_sharky'
     name 'Vary Sharky'
     homepage 'http://www.dafont.com/vary-sharky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VarySharky-Regular.ttf'
 end

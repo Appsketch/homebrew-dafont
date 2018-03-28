@@ -5,7 +5,6 @@ cask 'dafont-future-flash' do
     url 'http://dl.dafont.com/dl/?f=future_flash'
     name 'Future Flash'
     homepage 'http://www.dafont.com/future-flash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FUTUFRG_.TTF'
 end

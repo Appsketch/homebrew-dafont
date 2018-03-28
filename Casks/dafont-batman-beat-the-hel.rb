@@ -5,7 +5,6 @@ cask 'dafont-batman-beat-the-hel' do
     url 'http://dl.dafont.com/dl/?f=batman_beat_the_hel'
     name 'Batman Beat the hell Outta Me'
     homepage 'http://www.dafont.com/batman-beat-the-hel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BATMAN.TTF'
 end

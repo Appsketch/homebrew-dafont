@@ -5,7 +5,6 @@ cask 'dafont-batmanstrip' do
     url 'http://dl.dafont.com/dl/?f=batmanstrip'
     name 'Batmans Trip'
     homepage 'http://www.dafont.com/batmanstrip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BatmansBadTrip.ttf'
     font 'BatmansTrip.ttf'

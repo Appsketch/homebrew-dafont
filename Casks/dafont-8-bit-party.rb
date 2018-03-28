@@ -5,7 +5,6 @@ cask 'dafont-8-bit-party' do
     url 'http://dl.dafont.com/dl/?f=8_bit_party'
     name '8 Bit Party'
     homepage 'http://www.dafont.com/8-bit-party.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '8_bit_party.ttf'
 end

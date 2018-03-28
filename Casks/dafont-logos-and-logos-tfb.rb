@@ -5,7 +5,6 @@ cask 'dafont-logos-and-logos-tfb' do
     url 'http://dl.dafont.com/dl/?f=logos_and_logos_tfb'
     name 'Logos And Logos TFB'
     homepage 'http://www.dafont.com/logos-and-logos-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'logos and logos tfb.ttf'
 end

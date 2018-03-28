@@ -5,7 +5,6 @@ cask 'dafont-vadims-writing' do
     url 'http://dl.dafont.com/dl/?f=vadims_writing'
     name 'Vadim&#039;s writing'
     homepage 'http://www.dafont.com/vadims-writing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VadimsWriting.ttf'
 end

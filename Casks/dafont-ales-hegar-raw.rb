@@ -5,7 +5,6 @@ cask 'dafont-ales-hegar-raw' do
     url 'http://dl.dafont.com/dl/?f=ales_hegar_raw'
     name 'Ales &amp; Hegar Raw'
     homepage 'http://www.dafont.com/ales-hegar-raw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ales-hegar-r18.ttf'
 end

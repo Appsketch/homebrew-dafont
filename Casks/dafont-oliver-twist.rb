@@ -5,7 +5,6 @@ cask 'dafont-oliver-twist' do
     url 'http://dl.dafont.com/dl/?f=oliver_twist'
     name 'Oliver Twist'
     homepage 'http://www.dafont.com/oliver-twist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oliver Twist.otf'
 end

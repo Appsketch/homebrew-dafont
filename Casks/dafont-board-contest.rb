@@ -5,7 +5,6 @@ cask 'dafont-board-contest' do
     url 'http://dl.dafont.com/dl/?f=board_contest'
     name 'Board Contest'
     homepage 'http://www.dafont.com/board-contest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Board Contest.ttf'
 end

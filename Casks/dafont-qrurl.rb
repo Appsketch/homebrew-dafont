@@ -5,7 +5,6 @@ cask 'dafont-qrurl' do
     url 'http://dl.dafont.com/dl/?f=qrurl'
     name 'Qrurl'
     homepage 'http://www.dafont.com/qrurl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QRURL.ttf'
 end

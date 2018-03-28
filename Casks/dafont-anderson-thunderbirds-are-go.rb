@@ -5,7 +5,6 @@ cask 'dafont-anderson-thunderbirds-are-go' do
     url 'http://dl.dafont.com/dl/?f=anderson_thunderbirds_are_go'
     name 'Anderson Thunderbirds Are GO!'
     homepage 'http://www.dafont.com/anderson-thunderbirds-are-go.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anderson Thunderbirds Are GO!.ttf'
 end

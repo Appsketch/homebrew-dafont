@@ -5,7 +5,6 @@ cask 'dafont-too-damn-drunk' do
     url 'http://dl.dafont.com/dl/?f=too_damn_drunk'
     name 'Too Damn Drunk'
     homepage 'http://www.dafont.com/too-damn-drunk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOODD___.TTF'
 end

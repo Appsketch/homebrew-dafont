@@ -5,7 +5,6 @@ cask 'dafont-jellyka-le-grand-saut-textual' do
     url 'http://dl.dafont.com/dl/?f=jellyka_le_grand_saut_textual'
     name 'Jellyka - le Grand Saut'
     homepage 'http://www.dafont.com/jellyka-le-grand-saut-textual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'le_Grand_Saut_TEXTUAL.ttf'
     font 'le_Grand_Saut.ttf'

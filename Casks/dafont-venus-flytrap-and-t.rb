@@ -5,7 +5,6 @@ cask 'dafont-venus-flytrap-and-t' do
     url 'http://dl.dafont.com/dl/?f=venus_flytrap_and_t'
     name 'Venus flytrap and the bug'
     homepage 'http://www.dafont.com/venus-flytrap-and-t.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VENUSFLYTRAPANDTHEBUG.TTF'
 end

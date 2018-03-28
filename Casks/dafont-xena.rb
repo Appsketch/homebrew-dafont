@@ -5,7 +5,6 @@ cask 'dafont-xena' do
     url 'http://dl.dafont.com/dl/?f=xena'
     name 'Xena'
     homepage 'http://www.dafont.com/xena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xena.ttf'
 end

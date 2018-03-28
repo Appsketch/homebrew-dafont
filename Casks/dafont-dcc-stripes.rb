@@ -5,7 +5,6 @@ cask 'dafont-dcc-stripes' do
     url 'http://dl.dafont.com/dl/?f=dcc_stripes'
     name 'DCC Stripes'
     homepage 'http://www.dafont.com/dcc-stripes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dcc-stripes_new.otf'
 end

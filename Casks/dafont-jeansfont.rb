@@ -5,7 +5,6 @@ cask 'dafont-jeansfont' do
     url 'http://dl.dafont.com/dl/?f=jeansfont'
     name 'JeansFont'
     homepage 'http://www.dafont.com/jeansfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JeansFont.ttf'
 end

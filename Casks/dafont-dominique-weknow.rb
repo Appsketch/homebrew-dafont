@@ -5,7 +5,6 @@ cask 'dafont-dominique-weknow' do
     url 'http://dl.dafont.com/dl/?f=dominique_weknow'
     name 'Dominique'
     homepage 'http://www.dafont.com/dominique-weknow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dominique.ttf'
 end

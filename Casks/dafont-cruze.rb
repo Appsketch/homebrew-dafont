@@ -5,7 +5,6 @@ cask 'dafont-cruze' do
     url 'http://dl.dafont.com/dl/?f=cruze'
     name 'Cruze'
     homepage 'http://www.dafont.com/cruze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRUZE.TTF'
 end

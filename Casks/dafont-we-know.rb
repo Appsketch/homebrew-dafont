@@ -5,7 +5,6 @@ cask 'dafont-we-know' do
     url 'http://dl.dafont.com/dl/?f=we_know'
     name 'We know'
     homepage 'http://www.dafont.com/we-know.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'we know.ttf'
 end

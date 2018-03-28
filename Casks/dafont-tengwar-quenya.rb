@@ -5,7 +5,6 @@ cask 'dafont-tengwar-quenya' do
     url 'http://dl.dafont.com/dl/?f=tengwar_quenya'
     name 'Tengwar Quenya'
     homepage 'http://www.dafont.com/tengwar-quenya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUENCAP1.TTF'
     font 'QUENCAP2.TTF'

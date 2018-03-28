@@ -5,7 +5,6 @@ cask 'dafont-dutchschoolwriting' do
     url 'http://dl.dafont.com/dl/?f=dutchschoolwriting'
     name 'Dutch school writing'
     homepage 'http://www.dafont.com/dutchschoolwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dutchschoolwriting.ttf'
 end

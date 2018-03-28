@@ -5,7 +5,6 @@ cask 'dafont-jocko-mongo' do
     url 'http://dl.dafont.com/dl/?f=jocko_mongo'
     name 'Jocko Mongo'
     homepage 'http://www.dafont.com/jocko-mongo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jocko_mongo.ttf'
 end

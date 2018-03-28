@@ -5,7 +5,6 @@ cask 'dafont-valentine-day-norma' do
     url 'http://dl.dafont.com/dl/?f=valentine_day_norma'
     name 'Valentine Day'
     homepage 'http://www.dafont.com/valentine-day-norma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VALEDN__.TTF'
 end

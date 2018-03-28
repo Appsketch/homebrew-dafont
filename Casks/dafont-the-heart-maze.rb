@@ -5,7 +5,6 @@ cask 'dafont-the-heart-maze' do
     url 'http://dl.dafont.com/dl/?f=the_heart_maze'
     name 'The Heart Maze'
     homepage 'http://www.dafont.com/the-heart-maze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Heart Maze Demo.ttf'
 end

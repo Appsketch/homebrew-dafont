@@ -5,7 +5,6 @@ cask 'dafont-squarebox' do
     url 'http://dl.dafont.com/dl/?f=squarebox'
     name 'SquareBox'
     homepage 'http://www.dafont.com/squarebox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SquareBox.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gillescomic-handwriting' do
     url 'http://dl.dafont.com/dl/?f=gillescomic_handwriting'
     name 'Gilles&#039; Comic Handwriting'
     homepage 'http://www.dafont.com/gillescomic-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gilles_Handwriting.ttf'
 end

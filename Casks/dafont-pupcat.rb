@@ -5,7 +5,6 @@ cask 'dafont-pupcat' do
     url 'http://dl.dafont.com/dl/?f=pupcat'
     name 'Pupcat'
     homepage 'http://www.dafont.com/pupcat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pupcat rg.ttf'
 end

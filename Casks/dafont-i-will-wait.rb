@@ -5,7 +5,6 @@ cask 'dafont-i-will-wait' do
     url 'http://dl.dafont.com/dl/?f=i_will_wait'
     name 'I Will Wait'
     homepage 'http://www.dafont.com/i-will-wait.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I WILL WAIT.ttf'
 end

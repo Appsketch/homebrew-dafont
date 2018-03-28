@@ -5,7 +5,6 @@ cask 'dafont-trace-of-rough' do
     url 'http://dl.dafont.com/dl/?f=trace_of_rough'
     name 'Trace of Rough'
     homepage 'http://www.dafont.com/trace-of-rough.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trace of Rough.ttf'
 end

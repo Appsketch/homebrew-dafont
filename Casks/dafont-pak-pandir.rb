@@ -5,7 +5,6 @@ cask 'dafont-pak-pandir' do
     url 'http://dl.dafont.com/dl/?f=pak_pandir'
     name 'PakPandir'
     homepage 'http://www.dafont.com/pak-pandir.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PakPandir.ttf'
     font 'PakPandirShake.ttf'

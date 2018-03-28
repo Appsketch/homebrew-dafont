@@ -5,7 +5,6 @@ cask 'dafont-questra' do
     url 'http://dl.dafont.com/dl/?f=questra'
     name 'Questra'
     homepage 'http://www.dafont.com/questra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuestraDoodle.ttf'
     font 'QuestraHollow.ttf'

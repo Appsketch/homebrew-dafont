@@ -5,7 +5,6 @@ cask 'dafont-beboline' do
     url 'http://dl.dafont.com/dl/?f=beboline'
     name 'Beboline'
     homepage 'http://www.dafont.com/beboline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beboline.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-agent-c' do
     url 'http://dl.dafont.com/dl/?f=agent_c'
     name 'Agent &#039;C&#039;'
     homepage 'http://www.dafont.com/agent-c.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Agent &#039;C&#039;.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-grandeecp' do
     url 'http://dl.dafont.com/dl/?f=grandeecp'
     name 'Grandee CP'
     homepage 'http://www.dafont.com/grandeecp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrandeeCP.otf'
 end

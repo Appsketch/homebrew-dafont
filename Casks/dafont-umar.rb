@@ -5,7 +5,6 @@ cask 'dafont-umar' do
     url 'http://dl.dafont.com/dl/?f=umar'
     name 'Umar'
     homepage 'http://www.dafont.com/umar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Umar Base.ttf'
     font 'Umar College.otf'

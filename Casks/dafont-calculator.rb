@@ -5,7 +5,6 @@ cask 'dafont-calculator' do
     url 'http://dl.dafont.com/dl/?f=calculator'
     name 'Calculator'
     homepage 'http://www.dafont.com/calculator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Calculator.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-webster' do
     url 'http://dl.dafont.com/dl/?f=webster'
     name 'Webster'
     homepage 'http://www.dafont.com/webster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WEBSTER_.TTF'
 end

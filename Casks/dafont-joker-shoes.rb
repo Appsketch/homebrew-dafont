@@ -5,7 +5,6 @@ cask 'dafont-joker-shoes' do
     url 'http://dl.dafont.com/dl/?f=joker_shoes'
     name 'Joker Shoes'
     homepage 'http://www.dafont.com/joker-shoes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Joker Shoes.ttf'
 end

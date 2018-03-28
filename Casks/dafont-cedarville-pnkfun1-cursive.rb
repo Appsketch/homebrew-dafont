@@ -5,7 +5,6 @@ cask 'dafont-cedarville-pnkfun1-cursive' do
     url 'http://dl.dafont.com/dl/?f=cedarville_pnkfun1_cursive'
     name 'Cedarville Pnkfun1 Cursive'
     homepage 'http://www.dafont.com/cedarville-pnkfun1-cursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cedarville PnkFun 1 Cursive.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-flowprou' do
     url 'http://dl.dafont.com/dl/?f=flowprou'
     name 'Flow Prou'
     homepage 'http://www.dafont.com/flowprou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'flowprou.ttf'
 end

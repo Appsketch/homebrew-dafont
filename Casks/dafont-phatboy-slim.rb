@@ -5,7 +5,6 @@ cask 'dafont-phatboy-slim' do
     url 'http://dl.dafont.com/dl/?f=phatboy_slim'
     name 'PhatBoy Slim'
     homepage 'http://www.dafont.com/phatboy-slim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PhatBoy Slim Bold.otf'
     font 'PhatBoy Slim BoldItalic.otf'

@@ -5,7 +5,6 @@ cask 'dafont-mister-pixel-16' do
     url 'http://dl.dafont.com/dl/?f=mister_pixel_16'
     name 'Mister Pixel 16'
     homepage 'http://www.dafont.com/mister-pixel-16.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MP16OSF.ttf'
     font 'MP16REG.ttf'

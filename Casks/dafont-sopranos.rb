@@ -5,7 +5,6 @@ cask 'dafont-sopranos' do
     url 'http://dl.dafont.com/dl/?f=sopranos'
     name 'Mobsters'
     homepage 'http://www.dafont.com/sopranos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mobsters.ttf'
 end

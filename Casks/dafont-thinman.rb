@@ -5,7 +5,6 @@ cask 'dafont-thinman' do
     url 'http://dl.dafont.com/dl/?f=thinman'
     name 'Thinman'
     homepage 'http://www.dafont.com/thinman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thinman.ttf'
 end

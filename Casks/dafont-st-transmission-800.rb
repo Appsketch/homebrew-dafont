@@ -5,7 +5,6 @@ cask 'dafont-st-transmission-800' do
     url 'http://dl.dafont.com/dl/?f=st_transmission_800'
     name 'St Transmission 800'
     homepage 'http://www.dafont.com/st-transmission-800.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StTransmission-800-ExtraBold.otf'
 end

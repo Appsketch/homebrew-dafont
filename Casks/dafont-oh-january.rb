@@ -5,7 +5,6 @@ cask 'dafont-oh-january' do
     url 'http://dl.dafont.com/dl/?f=oh_january'
     name 'Oh January'
     homepage 'http://www.dafont.com/oh-january.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oh January.ttf'
 end

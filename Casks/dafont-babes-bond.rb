@@ -5,7 +5,6 @@ cask 'dafont-babes-bond' do
     url 'http://dl.dafont.com/dl/?f=babes_bond'
     name 'Babes &amp; Bond'
     homepage 'http://www.dafont.com/babes-bond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'babesandbond.ttf'
 end

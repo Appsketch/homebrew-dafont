@@ -5,7 +5,6 @@ cask 'dafont-country-button' do
     url 'http://dl.dafont.com/dl/?f=country_button'
     name 'Country Button'
     homepage 'http://www.dafont.com/country-button.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COUNB___.TTF'
 end

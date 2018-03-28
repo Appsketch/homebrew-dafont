@@ -5,7 +5,6 @@ cask 'dafont-dickhop' do
     url 'http://dl.dafont.com/dl/?f=dickhop'
     name 'Dickhop'
     homepage 'http://www.dafont.com/dickhop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dickhop.ttf'
 end

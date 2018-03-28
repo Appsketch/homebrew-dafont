@@ -5,7 +5,6 @@ cask 'dafont-black-bishop' do
     url 'http://dl.dafont.com/dl/?f=black_bishop'
     name 'Black Bishop'
     homepage 'http://www.dafont.com/black-bishop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blackbishop.ttf'
     font 'blackbishop3d.ttf'

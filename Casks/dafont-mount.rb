@@ -5,7 +5,6 @@ cask 'dafont-mount' do
     url 'http://dl.dafont.com/dl/?f=mount'
     name 'Mount'
     homepage 'http://www.dafont.com/mount.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MountItalic_PersonalUse.ttf'
     font 'MountRegular_PersonalUse.ttf'

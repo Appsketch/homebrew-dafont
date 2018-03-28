@@ -5,7 +5,6 @@ cask 'dafont-dcc-stained-aliens' do
     url 'http://dl.dafont.com/dl/?f=dcc_stained_aliens'
     name 'DCC Stained Aliens'
     homepage 'http://www.dafont.com/dcc-stained-aliens.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DCC - Stained Aliens.otf'
 end

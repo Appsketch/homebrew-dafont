@@ -5,7 +5,6 @@ cask 'dafont-alburquerque' do
     url 'http://dl.dafont.com/dl/?f=alburquerque'
     name 'Alburquerque'
     homepage 'http://www.dafont.com/alburquerque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alburquerque.ttf'
 end

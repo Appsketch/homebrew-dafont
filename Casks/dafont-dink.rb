@@ -5,7 +5,6 @@ cask 'dafont-dink' do
     url 'http://dl.dafont.com/dl/?f=dink'
     name 'Dink'
     homepage 'http://www.dafont.com/dink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DINk.ttf'
 end

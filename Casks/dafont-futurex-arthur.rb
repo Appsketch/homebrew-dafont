@@ -5,7 +5,6 @@ cask 'dafont-futurex-arthur' do
     url 'http://dl.dafont.com/dl/?f=futurex_arthur'
     name 'Futurex Arthur'
     homepage 'http://www.dafont.com/futurex-arthur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Futurex Arthur Bold Italic.ttf'
     font 'Futurex Arthur Bold.ttf'

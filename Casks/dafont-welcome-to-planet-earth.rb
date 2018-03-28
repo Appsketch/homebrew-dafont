@@ -5,7 +5,6 @@ cask 'dafont-welcome-to-planet-earth' do
     url 'http://dl.dafont.com/dl/?f=welcome_to_planet_earth'
     name 'Welcome To Planet Earth'
     homepage 'http://www.dafont.com/welcome-to-planet-earth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Welcome To Planet Earth.ttf'
 end

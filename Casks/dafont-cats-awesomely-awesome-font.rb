@@ -5,7 +5,6 @@ cask 'dafont-cats-awesomely-awesome-font' do
     url 'http://dl.dafont.com/dl/?f=cats_awesomely_awesome_font'
     name 'Cat&#039;s Awesomely Awesome Font'
     homepage 'http://www.dafont.com/cats-awesomely-awesome-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cat_s_Awesomely_Awesome_Font.ttf'
 end

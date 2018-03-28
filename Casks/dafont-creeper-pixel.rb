@@ -5,7 +5,6 @@ cask 'dafont-creeper-pixel' do
     url 'http://dl.dafont.com/dl/?f=creeper_pixel'
     name 'Creeper Pixel'
     homepage 'http://www.dafont.com/creeper-pixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'creeper_pixel.ttf'
 end

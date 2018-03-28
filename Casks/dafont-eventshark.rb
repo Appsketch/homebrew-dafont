@@ -5,7 +5,6 @@ cask 'dafont-eventshark' do
     url 'http://dl.dafont.com/dl/?f=eventshark'
     name 'Event Shark'
     homepage 'http://www.dafont.com/eventshark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EventShark.ttf'
 end

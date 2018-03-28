@@ -5,7 +5,6 @@ cask 'dafont-yedra-purpurea' do
     url 'http://dl.dafont.com/dl/?f=yedra_purpurea'
     name 'Yedra Purpurea'
     homepage 'http://www.dafont.com/yedra-purpurea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yedra Purpurea.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pw-arrow-font' do
     url 'http://dl.dafont.com/dl/?f=pw_arrow_font'
     name 'PW Arrow font'
     homepage 'http://www.dafont.com/pw-arrow-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PW Arrow font.ttf'
 end

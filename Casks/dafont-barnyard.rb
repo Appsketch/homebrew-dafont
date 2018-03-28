@@ -5,7 +5,6 @@ cask 'dafont-barnyard' do
     url 'http://dl.dafont.com/dl/?f=barnyard'
     name 'Barnyard'
     homepage 'http://www.dafont.com/barnyard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BARNYRD1.TTF'
 end

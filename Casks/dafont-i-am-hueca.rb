@@ -5,7 +5,6 @@ cask 'dafont-i-am-hueca' do
     url 'http://dl.dafont.com/dl/?f=i_am_hueca'
     name 'I am Hueca'
     homepage 'http://www.dafont.com/i-am-hueca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I am Hueca.otf'
 end

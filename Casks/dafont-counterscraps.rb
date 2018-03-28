@@ -5,7 +5,6 @@ cask 'dafont-counterscraps' do
     url 'http://dl.dafont.com/dl/?f=counterscraps'
     name 'Counterscraps'
     homepage 'http://www.dafont.com/counterscraps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'counterscraps.ttf'
 end

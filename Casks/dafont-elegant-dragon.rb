@@ -5,7 +5,6 @@ cask 'dafont-elegant-dragon' do
     url 'http://dl.dafont.com/dl/?f=elegant_dragon'
     name 'Elegant Dragon'
     homepage 'http://www.dafont.com/elegant-dragon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elegant Dragon Bold.ttf'
     font 'Elegant Dragon Italic.ttf'

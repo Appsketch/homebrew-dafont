@@ -5,7 +5,6 @@ cask 'dafont-sweet-water' do
     url 'http://dl.dafont.com/dl/?f=sweet_water'
     name 'Sweet Water'
     homepage 'http://www.dafont.com/sweet-water.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sweet-Water Demo.otf'
 end

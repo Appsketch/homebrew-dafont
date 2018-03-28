@@ -5,7 +5,6 @@ cask 'dafont-electramaniacal' do
     url 'http://dl.dafont.com/dl/?f=electramaniacal'
     name 'Electramaniacal'
     homepage 'http://www.dafont.com/electramaniacal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'electramaniacal.ttf'
 end

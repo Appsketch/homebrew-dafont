@@ -5,7 +5,6 @@ cask 'dafont-911porscha' do
     url 'http://dl.dafont.com/dl/?f=911porscha'
     name '911 Porscha'
     homepage 'http://www.dafont.com/911porscha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '911porschav3.ttf'
     font '911porschav33d.ttf'

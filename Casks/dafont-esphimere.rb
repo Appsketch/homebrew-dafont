@@ -5,7 +5,6 @@ cask 'dafont-esphimere' do
     url 'http://dl.dafont.com/dl/?f=esphimere'
     name 'Esphimere'
     homepage 'http://www.dafont.com/esphimere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Esphimere Bold Italic.otf'
     font 'Esphimere Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-illegal-curves' do
     url 'http://dl.dafont.com/dl/?f=illegal_curves'
     name 'Illegal Curves'
     homepage 'http://www.dafont.com/illegal-curves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Illegal Curves Bold.otf'
 end

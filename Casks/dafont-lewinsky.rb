@@ -5,7 +5,6 @@ cask 'dafont-lewinsky' do
     url 'http://dl.dafont.com/dl/?f=lewinsky'
     name 'Lewinsky'
     homepage 'http://www.dafont.com/lewinsky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lewinsky.ttf'
 end

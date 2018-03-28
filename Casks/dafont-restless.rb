@@ -5,7 +5,6 @@ cask 'dafont-restless' do
     url 'http://dl.dafont.com/dl/?f=restless'
     name 'Restless'
     homepage 'http://www.dafont.com/restless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Restless.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hire-a-cowboy' do
     url 'http://dl.dafont.com/dl/?f=hire_a_cowboy'
     name 'Hire a Cowboy'
     homepage 'http://www.dafont.com/hire-a-cowboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HireaCowboy-Regular.otf'
     font 'HireaCowboy-Regular.ttf'

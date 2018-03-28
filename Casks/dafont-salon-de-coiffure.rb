@@ -5,7 +5,6 @@ cask 'dafont-salon-de-coiffure' do
     url 'http://dl.dafont.com/dl/?f=salon_de_coiffure'
     name 'Salon de Coiffure'
     homepage 'http://www.dafont.com/salon-de-coiffure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Salon de Coiffure.ttf'
 end

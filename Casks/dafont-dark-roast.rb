@@ -5,7 +5,6 @@ cask 'dafont-dark-roast' do
     url 'http://dl.dafont.com/dl/?f=dark_roast'
     name 'Dark Roast'
     homepage 'http://www.dafont.com/dark-roast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dark Roast.ttf'
 end

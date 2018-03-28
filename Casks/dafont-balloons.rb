@@ -5,7 +5,6 @@ cask 'dafont-balloons' do
     url 'http://dl.dafont.com/dl/?f=balloons'
     name 'Balloons'
     homepage 'http://www.dafont.com/balloons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Balloons.ttf'
 end

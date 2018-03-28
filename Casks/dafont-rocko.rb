@@ -5,7 +5,6 @@ cask 'dafont-rocko' do
     url 'http://dl.dafont.com/dl/?f=rocko'
     name 'Rocko'
     homepage 'http://www.dafont.com/rocko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rocko.ttf'
 end

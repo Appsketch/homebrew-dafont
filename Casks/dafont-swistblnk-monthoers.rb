@@ -5,7 +5,6 @@ cask 'dafont-swistblnk-monthoers' do
     url 'http://dl.dafont.com/dl/?f=swistblnk_monthoers'
     name 'Swistblnk Monthoers'
     homepage 'http://www.dafont.com/swistblnk-monthoers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monthoers.ttf'
 end

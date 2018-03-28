@@ -5,7 +5,6 @@ cask 'dafont-7led' do
     url 'http://dl.dafont.com/dl/?f=7led'
     name '7 LED'
     homepage 'http://www.dafont.com/7led.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '7LED.ttf'
     font '7LEDitalic.ttf'

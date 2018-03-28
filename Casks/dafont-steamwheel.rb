@@ -5,7 +5,6 @@ cask 'dafont-steamwheel' do
     url 'http://dl.dafont.com/dl/?f=steamwheel'
     name 'Steamwheel'
     homepage 'http://www.dafont.com/steamwheel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Steamwheel Italic.otf'
     font 'Steamwheel.otf'

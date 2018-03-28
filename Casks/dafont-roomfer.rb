@@ -5,7 +5,6 @@ cask 'dafont-roomfer' do
     url 'http://dl.dafont.com/dl/?f=roomfer'
     name 'Roomfer'
     homepage 'http://www.dafont.com/roomfer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Roomfer.ttf'
 end

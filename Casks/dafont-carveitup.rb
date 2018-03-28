@@ -5,7 +5,6 @@ cask 'dafont-carveitup' do
     url 'http://dl.dafont.com/dl/?f=carveitup'
     name 'Carve It Up'
     homepage 'http://www.dafont.com/carveitup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CarveItUp.ttf'
 end

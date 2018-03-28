@@ -5,7 +5,6 @@ cask 'dafont-yesterday' do
     url 'http://dl.dafont.com/dl/?f=yesterday'
     name 'Yesterday'
     homepage 'http://www.dafont.com/yesterday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yesterday.ttf'
 end

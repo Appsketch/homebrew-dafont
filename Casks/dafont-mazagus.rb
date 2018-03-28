@@ -5,7 +5,6 @@ cask 'dafont-mazagus' do
     url 'http://dl.dafont.com/dl/?f=mazagus'
     name 'Mazagus'
     homepage 'http://www.dafont.com/mazagus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreeMAZ.ttf'
 end

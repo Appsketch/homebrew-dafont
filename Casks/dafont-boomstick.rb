@@ -5,7 +5,6 @@ cask 'dafont-boomstick' do
     url 'http://dl.dafont.com/dl/?f=boomstick'
     name 'Boomstick'
     homepage 'http://www.dafont.com/boomstick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'boomstick.ttf'
     font 'boomstick3d.ttf'

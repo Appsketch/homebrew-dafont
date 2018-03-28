@@ -5,7 +5,6 @@ cask 'dafont-bm-space' do
     url 'http://dl.dafont.com/dl/?f=bm_space'
     name 'BM Space'
     homepage 'http://www.dafont.com/bm-space.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMSPA___.TTF'
 end

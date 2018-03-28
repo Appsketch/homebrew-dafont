@@ -5,7 +5,6 @@ cask 'dafont-kg-les-bouquinistes-de-paris' do
     url 'http://dl.dafont.com/dl/?f=kg_les_bouquinistes_de_paris'
     name 'KG Les Bouquinistes de Paris'
     homepage 'http://www.dafont.com/kg-les-bouquinistes-de-paris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGLesBouquinistesdeParis.ttf'
 end

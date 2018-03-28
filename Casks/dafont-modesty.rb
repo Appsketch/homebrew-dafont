@@ -5,7 +5,6 @@ cask 'dafont-modesty' do
     url 'http://dl.dafont.com/dl/?f=modesty'
     name 'Modesty'
     homepage 'http://www.dafont.com/modesty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ModestyFreshStyle.otf'
 end

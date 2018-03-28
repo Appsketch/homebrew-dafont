@@ -5,7 +5,6 @@ cask 'dafont-sequel' do
     url 'http://dl.dafont.com/dl/?f=sequel'
     name 'Sequel'
     homepage 'http://www.dafont.com/sequel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sequel-Regular.ttf'
 end

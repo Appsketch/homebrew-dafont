@@ -5,7 +5,6 @@ cask 'dafont-is-there-anybody-out-there' do
     url 'http://dl.dafont.com/dl/?f=is_there_anybody_out_there'
     name 'Is there anybody out there?'
     homepage 'http://www.dafont.com/is-there-anybody-out-there.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Is there anybody out there.ttf'
 end

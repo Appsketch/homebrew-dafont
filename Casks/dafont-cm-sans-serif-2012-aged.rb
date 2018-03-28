@@ -5,7 +5,6 @@ cask 'dafont-cm-sans-serif-2012-aged' do
     url 'http://dl.dafont.com/dl/?f=cm_sans_serif_2012_aged'
     name 'CM Sans Serif 2012 Aged'
     homepage 'http://www.dafont.com/cm-sans-serif-2012-aged.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM Sans Serif 2012 Aged.ttf'
 end

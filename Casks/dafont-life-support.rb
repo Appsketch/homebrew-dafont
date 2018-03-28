@@ -5,7 +5,6 @@ cask 'dafont-life-support' do
     url 'http://dl.dafont.com/dl/?f=life_support'
     name 'Life Support'
     homepage 'http://www.dafont.com/life-support.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lifesubi.ttf'
     font 'lifesupb.ttf'

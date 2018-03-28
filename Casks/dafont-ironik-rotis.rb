@@ -5,7 +5,6 @@ cask 'dafont-ironik-rotis' do
     url 'http://dl.dafont.com/dl/?f=ironik_rotis'
     name 'Ironik Rotis'
     homepage 'http://www.dafont.com/ironik-rotis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ironik_rotis.ttf'
 end

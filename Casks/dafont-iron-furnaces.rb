@@ -5,7 +5,6 @@ cask 'dafont-iron-furnaces' do
     url 'http://dl.dafont.com/dl/?f=iron_furnaces'
     name 'Iron Furnaces'
     homepage 'http://www.dafont.com/iron-furnaces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iron Furnaces.otf'
 end

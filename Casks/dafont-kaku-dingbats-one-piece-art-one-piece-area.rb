@@ -5,7 +5,6 @@ cask 'dafont-kaku-dingbats-one-piece-art-one-piece-area' do
     url 'http://dl.dafont.com/dl/?f=kaku_dingbats_one_piece_art_one_piece_area'
     name 'Kaku Dingbats One Piece Art One Piece Area'
     homepage 'http://www.dafont.com/kaku-dingbats-one-piece-art-one-piece-area.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kaku_Dingbats.ttf'
 end

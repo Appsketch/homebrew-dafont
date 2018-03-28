@@ -5,7 +5,6 @@ cask 'dafont-ernest' do
     url 'http://dl.dafont.com/dl/?f=ernest'
     name 'Ernest'
     homepage 'http://www.dafont.com/ernest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ernest.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-daubed' do
     url 'http://dl.dafont.com/dl/?f=daubed'
     name 'Daubed'
     homepage 'http://www.dafont.com/daubed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'daubed.ttf'
 end

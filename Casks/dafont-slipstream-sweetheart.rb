@@ -5,7 +5,6 @@ cask 'dafont-slipstream-sweetheart' do
     url 'http://dl.dafont.com/dl/?f=slipstream_sweetheart'
     name 'Slipstream Sweetheart'
     homepage 'http://www.dafont.com/slipstream-sweetheart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SlipstreamSweetheart.ttf'
 end

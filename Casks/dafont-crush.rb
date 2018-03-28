@@ -5,7 +5,6 @@ cask 'dafont-crush' do
     url 'http://dl.dafont.com/dl/?f=crush'
     name 'Crush'
     homepage 'http://www.dafont.com/crush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crush.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-star-dust' do
     url 'http://dl.dafont.com/dl/?f=star_dust'
     name 'Star Dust'
     homepage 'http://www.dafont.com/star-dust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Star Dust Condensed Italic.ttf'
     font 'SF Star Dust Condensed.ttf'

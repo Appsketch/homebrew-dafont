@@ -5,7 +5,6 @@ cask 'dafont-twinkle' do
     url 'http://dl.dafont.com/dl/?f=twinkle'
     name 'Twinkle'
     homepage 'http://www.dafont.com/twinkle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Twinkle.ttf'
 end

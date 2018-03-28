@@ -5,7 +5,6 @@ cask 'dafont-free-writer' do
     url 'http://dl.dafont.com/dl/?f=free_writer'
     name 'Free Writer'
     homepage 'http://www.dafont.com/free-writer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Free Writer.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dampfplatz' do
     url 'http://dl.dafont.com/dl/?f=dampfplatz'
     name 'DampfPlatz'
     homepage 'http://www.dafont.com/dampfplatz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DampfPlatz.ttf'
     font 'DampfPlatzs.ttf'

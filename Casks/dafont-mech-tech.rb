@@ -5,7 +5,6 @@ cask 'dafont-mech-tech' do
     url 'http://dl.dafont.com/dl/?f=mech_tech'
     name 'Mech Tech'
     homepage 'http://www.dafont.com/mech-tech.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mech Tech Bold Italic.otf'
     font 'Mech Tech Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-stickfig' do
     url 'http://dl.dafont.com/dl/?f=stickfig'
     name 'Stickfig'
     homepage 'http://www.dafont.com/stickfig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stickfig.ttf'
 end

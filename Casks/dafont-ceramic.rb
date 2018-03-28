@@ -5,7 +5,6 @@ cask 'dafont-ceramic' do
     url 'http://dl.dafont.com/dl/?f=ceramic'
     name 'Ceramic'
     homepage 'http://www.dafont.com/ceramic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CERAMIC.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-neuropol' do
     url 'http://dl.dafont.com/dl/?f=neuropol'
     name 'Neuropol'
     homepage 'http://www.dafont.com/neuropol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'neuropol.ttf'
 end

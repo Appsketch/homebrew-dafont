@@ -5,7 +5,6 @@ cask 'dafont-batik-gangster' do
     url 'http://dl.dafont.com/dl/?f=batik_gangster'
     name 'Batik Gangster'
     homepage 'http://www.dafont.com/batik-gangster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'batik_gangster.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-city-contrasts' do
     url 'http://dl.dafont.com/dl/?f=city_contrasts'
     name 'City Contrasts'
     homepage 'http://www.dafont.com/city-contrasts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'contrast.ttf'
 end

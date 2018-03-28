@@ -5,7 +5,6 @@ cask 'dafont-armorhide' do
     url 'http://dl.dafont.com/dl/?f=armorhide'
     name 'Armorhide'
     homepage 'http://www.dafont.com/armorhide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Armorhide Bold Italic.otf'
     font 'Armorhide Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-circuit-board' do
     url 'http://dl.dafont.com/dl/?f=circuit_board'
     name 'Circuit board'
     homepage 'http://www.dafont.com/circuit-board.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'circuit_board.ttf'
 end

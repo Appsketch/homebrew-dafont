@@ -5,7 +5,6 @@ cask 'dafont-fretine' do
     url 'http://dl.dafont.com/dl/?f=fretine'
     name 'Fretine'
     homepage 'http://www.dafont.com/fretine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fretine.ttf'
 end

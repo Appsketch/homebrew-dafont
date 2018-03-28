@@ -5,7 +5,6 @@ cask 'dafont-aurulent-sans' do
     url 'http://dl.dafont.com/dl/?f=aurulent_sans'
     name 'Aurulent Sans'
     homepage 'http://www.dafont.com/aurulent-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AurulentSans-Bold.otf'
     font 'AurulentSans-BoldItalic.otf'

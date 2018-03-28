@@ -5,7 +5,6 @@ cask 'dafont-number-one-mreel' do
     url 'http://dl.dafont.com/dl/?f=number_one_mreel'
     name 'Number One'
     homepage 'http://www.dafont.com/number-one-mreel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'number_one.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-king-of-the-world' do
     url 'http://dl.dafont.com/dl/?f=king_of_the_world'
     name 'King Of The World'
     homepage 'http://www.dafont.com/king-of-the-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'King Of The World.ttf'
 end

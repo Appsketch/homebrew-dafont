@@ -5,7 +5,6 @@ cask 'dafont-woodys' do
     url 'http://dl.dafont.com/dl/?f=woodys'
     name 'Woodys'
     homepage 'http://www.dafont.com/woodys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodys.ttf'
 end

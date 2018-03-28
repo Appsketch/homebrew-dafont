@@ -5,7 +5,6 @@ cask 'dafont-whatup' do
     url 'http://dl.dafont.com/dl/?f=whatup'
     name 'WhatUP'
     homepage 'http://www.dafont.com/whatup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhatUP.ttf'
 end

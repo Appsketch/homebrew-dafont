@@ -5,7 +5,6 @@ cask 'dafont-left-hand-comic' do
     url 'http://dl.dafont.com/dl/?f=left_hand_comic'
     name 'Left Hand Comic'
     homepage 'http://www.dafont.com/left-hand-comic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'left hand comic.ttf'
 end

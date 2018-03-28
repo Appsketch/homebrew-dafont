@@ -5,7 +5,6 @@ cask 'dafont-canon' do
     url 'http://dl.dafont.com/dl/?f=canon'
     name 'Canon'
     homepage 'http://www.dafont.com/canon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CANON.ttf'
 end

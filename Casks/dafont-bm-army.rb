@@ -5,7 +5,6 @@ cask 'dafont-bm-army' do
     url 'http://dl.dafont.com/dl/?f=bm_army'
     name 'BM Army'
     homepage 'http://www.dafont.com/bm-army.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMarmy.TTF'
 end

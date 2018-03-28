@@ -5,7 +5,6 @@ cask 'dafont-extra-hot' do
     url 'http://dl.dafont.com/dl/?f=extra_hot'
     name 'Extra Hot'
     homepage 'http://www.dafont.com/extra-hot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'extrahot.ttf'
 end

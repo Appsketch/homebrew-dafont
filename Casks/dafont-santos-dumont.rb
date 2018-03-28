@@ -5,7 +5,6 @@ cask 'dafont-santos-dumont' do
     url 'http://dl.dafont.com/dl/?f=santos_dumont'
     name 'Santos Dumont'
     homepage 'http://www.dafont.com/santos-dumont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SANTO___.otf'
 end

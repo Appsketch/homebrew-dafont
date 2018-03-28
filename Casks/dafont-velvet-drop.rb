@@ -5,7 +5,6 @@ cask 'dafont-velvet-drop' do
     url 'http://dl.dafont.com/dl/?f=velvet_drop'
     name 'Velvet Drop'
     homepage 'http://www.dafont.com/velvet-drop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VelvetDrop.otf'
     font 'VelvetDrop2.otf'

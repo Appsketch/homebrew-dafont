@@ -5,7 +5,6 @@ cask 'dafont-ode-2-paste-up' do
     url 'http://dl.dafont.com/dl/?f=ode_2_paste_up'
     name 'Ode 2 Paste Up'
     homepage 'http://www.dafont.com/ode-2-paste-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ode 2 Paste Up Heavy.ttf'
     font 'Ode 2 Paste Up Plus.ttf'

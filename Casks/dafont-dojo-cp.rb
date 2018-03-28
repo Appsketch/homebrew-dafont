@@ -5,7 +5,6 @@ cask 'dafont-dojo-cp' do
     url 'http://dl.dafont.com/dl/?f=dojo_cp'
     name 'Dojo CP'
     homepage 'http://www.dafont.com/dojo-cp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DojoCP.otf'
 end

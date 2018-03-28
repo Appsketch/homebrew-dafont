@@ -5,7 +5,6 @@ cask 'dafont-bitmicro01' do
     url 'http://dl.dafont.com/dl/?f=bitmicro01'
     name 'BitMicro01'
     homepage 'http://www.dafont.com/bitmicro01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BitMicro01.ttf'
 end

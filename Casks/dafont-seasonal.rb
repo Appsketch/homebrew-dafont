@@ -5,7 +5,6 @@ cask 'dafont-seasonal' do
     url 'http://dl.dafont.com/dl/?f=seasonal'
     name 'Seasonal'
     homepage 'http://www.dafont.com/seasonal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seasonal-Leaves.ttf'
     font 'Seasonal-Trees.ttf'

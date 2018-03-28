@@ -5,7 +5,6 @@ cask 'dafont-genikas' do
     url 'http://dl.dafont.com/dl/?f=genikas'
     name 'Genikas'
     homepage 'http://www.dafont.com/genikas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Genikas.ttf'
 end

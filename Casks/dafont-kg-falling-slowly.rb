@@ -5,7 +5,6 @@ cask 'dafont-kg-falling-slowly' do
     url 'http://dl.dafont.com/dl/?f=kg_falling_slowly'
     name 'KG Falling Slowly'
     homepage 'http://www.dafont.com/kg-falling-slowly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGFallingSlowly.ttf'
 end

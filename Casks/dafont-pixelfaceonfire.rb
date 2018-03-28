@@ -5,7 +5,6 @@ cask 'dafont-pixelfaceonfire' do
     url 'http://dl.dafont.com/dl/?f=pixelfaceonfire'
     name 'PixelFaceOnFire'
     homepage 'http://www.dafont.com/pixelfaceonfire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pixelfaceonfire.ttf'
 end

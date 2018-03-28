@@ -5,7 +5,6 @@ cask 'dafont-tattoo-vieja-escuela-3' do
     url 'http://dl.dafont.com/dl/?f=tattoo_vieja_escuela_3'
     name 'Tattoo Vieja Escuela 3'
     homepage 'http://www.dafont.com/tattoo-vieja-escuela-3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tattoo Vieja Escuela 3.ttf'
 end

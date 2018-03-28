@@ -5,7 +5,6 @@ cask 'dafont-typoslab-inline' do
     url 'http://dl.dafont.com/dl/?f=typoslab_inline'
     name 'Typo Slab Inline'
     homepage 'http://www.dafont.com/typoslab-inline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TypoSlab_inline Demo.otf'
 end

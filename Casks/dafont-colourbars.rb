@@ -5,7 +5,6 @@ cask 'dafont-colourbars' do
     url 'http://dl.dafont.com/dl/?f=colourbars'
     name 'Colourbars'
     homepage 'http://www.dafont.com/colourbars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'colourbars bd.ttf'
     font 'colourbars.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-world-cup-logos' do
     url 'http://dl.dafont.com/dl/?f=world_cup_logos'
     name 'World Cup logos'
     homepage 'http://www.dafont.com/world-cup-logos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'World Cup logos.ttf'
 end

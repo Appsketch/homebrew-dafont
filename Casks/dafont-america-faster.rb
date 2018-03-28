@@ -5,7 +5,6 @@ cask 'dafont-america-faster' do
     url 'http://dl.dafont.com/dl/?f=america_faster'
     name 'America Faster'
     homepage 'http://www.dafont.com/america-faster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'America Faster 3D.ttf'
     font 'America Faster Gradient.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-aaron-with-a-marker' do
     url 'http://dl.dafont.com/dl/?f=aaron_with_a_marker'
     name 'Aaron with a Marker'
     homepage 'http://www.dafont.com/aaron-with-a-marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AaronMarker.ttf'
 end

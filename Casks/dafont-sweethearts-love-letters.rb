@@ -5,7 +5,6 @@ cask 'dafont-sweethearts-love-letters' do
     url 'http://dl.dafont.com/dl/?f=sweethearts_love_letters'
     name 'Sweethearts Love Letters'
     homepage 'http://www.dafont.com/sweethearts-love-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sweethearts Love Letters_2.ttf'
 end

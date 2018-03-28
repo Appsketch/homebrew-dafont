@@ -5,7 +5,6 @@ cask 'dafont-anayanka' do
     url 'http://dl.dafont.com/dl/?f=anayanka'
     name 'Anayanka'
     homepage 'http://www.dafont.com/anayanka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anayanka Bold Italic.otf'
     font 'Anayanka Bold.otf'

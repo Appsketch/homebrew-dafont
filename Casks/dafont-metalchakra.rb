@@ -5,7 +5,6 @@ cask 'dafont-metalchakra' do
     url 'http://dl.dafont.com/dl/?f=metalchakra'
     name 'Metal Chakra'
     homepage 'http://www.dafont.com/metalchakra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MetalChakra.ttf'
 end

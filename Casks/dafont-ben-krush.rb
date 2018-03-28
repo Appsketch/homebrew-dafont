@@ -5,7 +5,6 @@ cask 'dafont-ben-krush' do
     url 'http://dl.dafont.com/dl/?f=ben_krush'
     name 'Ben Krush'
     homepage 'http://www.dafont.com/ben-krush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KRUSH.TTF'
 end

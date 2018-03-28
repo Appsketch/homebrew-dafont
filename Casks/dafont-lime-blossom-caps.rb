@@ -5,7 +5,6 @@ cask 'dafont-lime-blossom-caps' do
     url 'http://dl.dafont.com/dl/?f=lime_blossom_caps'
     name 'Lime Blossom Caps'
     homepage 'http://www.dafont.com/lime-blossom-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lime Blossom Caps.ttf'
 end

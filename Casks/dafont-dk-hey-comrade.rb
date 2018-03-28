@@ -5,7 +5,6 @@ cask 'dafont-dk-hey-comrade' do
     url 'http://dl.dafont.com/dl/?f=dk_hey_comrade'
     name 'DK Hey Comrade'
     homepage 'http://www.dafont.com/dk-hey-comrade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Hey Comrade.otf'
 end

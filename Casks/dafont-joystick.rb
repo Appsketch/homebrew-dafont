@@ -5,7 +5,6 @@ cask 'dafont-joystick' do
     url 'http://dl.dafont.com/dl/?f=joystick'
     name 'Joystick'
     homepage 'http://www.dafont.com/joystick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Joystick Bold Italic.otf'
     font 'Joystick Bold.otf'

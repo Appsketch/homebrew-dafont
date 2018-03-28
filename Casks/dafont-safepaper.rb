@@ -5,7 +5,6 @@ cask 'dafont-safepaper' do
     url 'http://dl.dafont.com/dl/?f=safepaper'
     name 'Safe Paper'
     homepage 'http://www.dafont.com/safepaper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SafePaper.ttf'
 end

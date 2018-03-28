@@ -5,7 +5,6 @@ cask 'dafont-kingdom-come' do
     url 'http://dl.dafont.com/dl/?f=kingdom_come'
     name 'Kingdom Come'
     homepage 'http://www.dafont.com/kingdom-come.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KINGC___.TTF'
 end

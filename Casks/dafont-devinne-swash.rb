@@ -5,7 +5,6 @@ cask 'dafont-devinne-swash' do
     url 'http://dl.dafont.com/dl/?f=devinne_swash'
     name 'Devinne Swash'
     homepage 'http://www.dafont.com/devinne-swash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DevinneSwash.ttf'
     font 'DevinneSwashShadow.ttf'

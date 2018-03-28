@@ -5,7 +5,6 @@ cask 'dafont-headstone' do
     url 'http://dl.dafont.com/dl/?f=headstone'
     name 'Headstone'
     homepage 'http://www.dafont.com/headstone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HE______.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cracked' do
     url 'http://dl.dafont.com/dl/?f=cracked'
     name 'Cracked'
     homepage 'http://www.dafont.com/cracked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cracked-Narrow.ttf'
     font 'Cracked-NarrowItalic.ttf'

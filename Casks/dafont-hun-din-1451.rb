@@ -5,7 +5,6 @@ cask 'dafont-hun-din-1451' do
     url 'http://dl.dafont.com/dl/?f=hun_din_1451'
     name 'HUN-din 1451'
     homepage 'http://www.dafont.com/hun-din-1451.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HunDIN1451.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-daemonesque' do
     url 'http://dl.dafont.com/dl/?f=daemonesque'
     name 'Daemonesque'
     homepage 'http://www.dafont.com/daemonesque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DAEMONES.TTF'
 end

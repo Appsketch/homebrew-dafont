@@ -5,7 +5,6 @@ cask 'dafont-der-damonschriftkeg' do
     url 'http://dl.dafont.com/dl/?f=der_damonschriftkeg'
     name 'Der D&auml;monschriftkegel'
     homepage 'http://www.dafont.com/der-damonschriftkeg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'demon.ttf'
 end

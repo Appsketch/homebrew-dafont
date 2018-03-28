@@ -5,7 +5,6 @@ cask 'dafont-la-chim-de-23-50' do
     url 'http://dl.dafont.com/dl/?f=la_chim_de_23_50'
     name 'La Chim de 23:50'
     homepage 'http://www.dafont.com/la-chim-de-23-50.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'La Chim de 23h50.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yolks-emoticons' do
     url 'http://dl.dafont.com/dl/?f=yolks_emoticons'
     name 'DIST Yolks Emoticons'
     homepage 'http://www.dafont.com/yolks-emoticons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YolksEmoticons.otf'
 end

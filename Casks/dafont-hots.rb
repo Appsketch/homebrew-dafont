@@ -5,7 +5,6 @@ cask 'dafont-hots' do
     url 'http://dl.dafont.com/dl/?f=hots'
     name 'Hots'
     homepage 'http://www.dafont.com/hots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HOTS.TTF'
 end

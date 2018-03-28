@@ -5,7 +5,6 @@ cask 'dafont-blambot-custom' do
     url 'http://dl.dafont.com/dl/?f=blambot_custom'
     name 'Blambot Custom'
     homepage 'http://www.dafont.com/blambot-custom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blambot Custom.ttf'
 end

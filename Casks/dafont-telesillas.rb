@@ -5,7 +5,6 @@ cask 'dafont-telesillas' do
     url 'http://dl.dafont.com/dl/?f=telesillas'
     name 'Telesillas'
     homepage 'http://www.dafont.com/telesillas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TELESILLAS.ttf'
 end

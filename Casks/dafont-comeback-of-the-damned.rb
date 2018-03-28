@@ -5,7 +5,6 @@ cask 'dafont-comeback-of-the-damned' do
     url 'http://dl.dafont.com/dl/?f=comeback_of_the_damned'
     name 'Comeback Of The Damned'
     homepage 'http://www.dafont.com/comeback-of-the-damned.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Comeback Of The Damned.otf'
 end

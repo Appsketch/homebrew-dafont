@@ -5,7 +5,6 @@ cask 'dafont-packin' do
     url 'http://dl.dafont.com/dl/?f=packin'
     name 'Pack&#039;In'
     homepage 'http://www.dafont.com/packin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pack In.ttf'
 end

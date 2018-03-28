@@ -5,7 +5,6 @@ cask 'dafont-labrit' do
     url 'http://dl.dafont.com/dl/?f=labrit'
     name 'LaBrit'
     homepage 'http://www.dafont.com/labrit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LABRIT__.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sharpcurve' do
     url 'http://dl.dafont.com/dl/?f=sharpcurve'
     name 'Sharp Curve'
     homepage 'http://www.dafont.com/sharpcurve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SharpCurve.ttf'
 end

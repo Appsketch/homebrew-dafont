@@ -5,7 +5,6 @@ cask 'dafont-djb-this-moment' do
     url 'http://dl.dafont.com/dl/?f=djb_this_moment'
     name 'DJB This Moment'
     homepage 'http://www.dafont.com/djb-this-moment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB THIS MOMENT.ttf'
 end

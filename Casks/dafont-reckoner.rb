@@ -5,7 +5,6 @@ cask 'dafont-reckoner' do
     url 'http://dl.dafont.com/dl/?f=reckoner'
     name 'Reckoner'
     homepage 'http://www.dafont.com/reckoner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reckoner_Bold.ttf'
     font 'Reckoner.ttf'

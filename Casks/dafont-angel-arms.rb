@@ -5,7 +5,6 @@ cask 'dafont-angel-arms' do
     url 'http://dl.dafont.com/dl/?f=angel_arms'
     name 'Angel Arms'
     homepage 'http://www.dafont.com/angel-arms.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angel Arms Italic.otf'
     font 'Angel Arms.otf'

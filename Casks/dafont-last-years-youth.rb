@@ -5,7 +5,6 @@ cask 'dafont-last-years-youth' do
     url 'http://dl.dafont.com/dl/?f=last_years_youth'
     name 'Last Years Youth'
     homepage 'http://www.dafont.com/last-years-youth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Last Years Youth_DEMO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-paradise' do
     url 'http://dl.dafont.com/dl/?f=paradise'
     name 'Paradise'
     homepage 'http://www.dafont.com/paradise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'paradise.ttf'
 end

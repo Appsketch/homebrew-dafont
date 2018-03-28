@@ -5,7 +5,6 @@ cask 'dafont-pride-of-the-young' do
     url 'http://dl.dafont.com/dl/?f=pride_of_the_young'
     name 'Pride Of The Young'
     homepage 'http://www.dafont.com/pride-of-the-young.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pride Of The Young.ttf'
 end

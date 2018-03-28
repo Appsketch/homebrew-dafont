@@ -5,7 +5,6 @@ cask 'dafont-kr-easter-squares' do
     url 'http://dl.dafont.com/dl/?f=kr_easter_squares'
     name 'KR Easter Squares'
     homepage 'http://www.dafont.com/kr-easter-squares.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Easter Squares.ttf'
 end

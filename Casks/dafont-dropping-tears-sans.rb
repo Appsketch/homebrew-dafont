@@ -5,7 +5,6 @@ cask 'dafont-dropping-tears-sans' do
     url 'http://dl.dafont.com/dl/?f=dropping_tears_sans'
     name 'Dropping tears sans'
     homepage 'http://www.dafont.com/dropping-tears-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dropping tears sans.ttf'
 end

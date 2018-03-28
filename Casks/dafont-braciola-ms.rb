@@ -5,7 +5,6 @@ cask 'dafont-braciola-ms' do
     url 'http://dl.dafont.com/dl/?f=braciola_ms'
     name 'Braciola MS'
     homepage 'http://www.dafont.com/braciola-ms.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Braciola MS ExB Ascii.ttf'
     font 'Braciola MS ExB Stencil.ttf'

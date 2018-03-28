@@ -5,7 +5,6 @@ cask 'dafont-pilotllj' do
     url 'http://dl.dafont.com/dl/?f=pilotllj'
     name 'Pilot LLJ'
     homepage 'http://www.dafont.com/pilotllj.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PilotLLJ.ttf'
 end

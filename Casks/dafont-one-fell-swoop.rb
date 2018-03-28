@@ -5,7 +5,6 @@ cask 'dafont-one-fell-swoop' do
     url 'http://dl.dafont.com/dl/?f=one_fell_swoop'
     name 'One Fell Swoop'
     homepage 'http://www.dafont.com/one-fell-swoop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ONEFS___.TTF'
 end

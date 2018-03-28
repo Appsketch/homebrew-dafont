@@ -5,7 +5,6 @@ cask 'dafont-angelinos' do
     url 'http://dl.dafont.com/dl/?f=angelinos'
     name 'Angelinos'
     homepage 'http://www.dafont.com/angelinos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Angelinos.ttf'
 end

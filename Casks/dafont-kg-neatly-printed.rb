@@ -5,7 +5,6 @@ cask 'dafont-kg-neatly-printed' do
     url 'http://dl.dafont.com/dl/?f=kg_neatly_printed'
     name 'KG Neatly Printed'
     homepage 'http://www.dafont.com/kg-neatly-printed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGNeatlyPrinted.ttf'
     font 'KGNeatlyPrintedSpaced.ttf'

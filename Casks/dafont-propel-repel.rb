@@ -5,7 +5,6 @@ cask 'dafont-propel-repel' do
     url 'http://dl.dafont.com/dl/?f=propel_repel'
     name 'Propel Repel'
     homepage 'http://www.dafont.com/propel-repel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PropelRepel.ttf'
     font 'PropelRepelAlias.ttf'

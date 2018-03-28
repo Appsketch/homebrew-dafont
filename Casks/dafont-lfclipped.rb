@@ -5,7 +5,6 @@ cask 'dafont-lfclipped' do
     url 'http://dl.dafont.com/dl/?f=lfclipped'
     name 'LF Clipped'
     homepage 'http://www.dafont.com/lfclipped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LFclipped.ttf'
 end

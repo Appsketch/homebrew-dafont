@@ -5,7 +5,6 @@ cask 'dafont-neons' do
     url 'http://dl.dafont.com/dl/?f=neons'
     name 'Neons'
     homepage 'http://www.dafont.com/neons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neons_demo.otf'
 end

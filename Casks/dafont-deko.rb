@@ -5,7 +5,6 @@ cask 'dafont-deko' do
     url 'http://dl.dafont.com/dl/?f=deko'
     name 'Deko'
     homepage 'http://www.dafont.com/deko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deko.ttf'
 end

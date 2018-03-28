@@ -5,7 +5,6 @@ cask 'dafont-once-upon-a-time' do
     url 'http://dl.dafont.com/dl/?f=once_upon_a_time'
     name 'Once Upon a Time'
     homepage 'http://www.dafont.com/once-upon-a-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Once upon a time.ttf'
 end

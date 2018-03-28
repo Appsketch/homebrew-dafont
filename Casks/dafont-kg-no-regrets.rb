@@ -5,7 +5,6 @@ cask 'dafont-kg-no-regrets' do
     url 'http://dl.dafont.com/dl/?f=kg_no_regrets'
     name 'KG No Regrets'
     homepage 'http://www.dafont.com/kg-no-regrets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGNoRegretsSketch.ttf'
     font 'KGNoRegretsSolid.ttf'

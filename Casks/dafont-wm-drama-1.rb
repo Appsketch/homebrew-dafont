@@ -5,7 +5,6 @@ cask 'dafont-wm-drama-1' do
     url 'http://dl.dafont.com/dl/?f=wm_drama_1'
     name 'WM Drama 1'
     homepage 'http://www.dafont.com/wm-drama-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmdrama1.TTF'
 end

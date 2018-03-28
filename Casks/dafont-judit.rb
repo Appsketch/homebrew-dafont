@@ -5,7 +5,6 @@ cask 'dafont-judit' do
     url 'http://dl.dafont.com/dl/?f=judit'
     name 'Judit'
     homepage 'http://www.dafont.com/judit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Judit.ttf'
 end

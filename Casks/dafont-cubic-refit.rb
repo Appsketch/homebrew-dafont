@@ -5,7 +5,6 @@ cask 'dafont-cubic-refit' do
     url 'http://dl.dafont.com/dl/?f=cubic_refit'
     name 'Cubic Refit'
     homepage 'http://www.dafont.com/cubic-refit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cubic Refit.ttf'
 end

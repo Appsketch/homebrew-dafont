@@ -5,7 +5,6 @@ cask 'dafont-alpha-smoke' do
     url 'http://dl.dafont.com/dl/?f=alpha_smoke'
     name 'Alpha Smoke'
     homepage 'http://www.dafont.com/alpha-smoke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaSmoke.TTF'
 end

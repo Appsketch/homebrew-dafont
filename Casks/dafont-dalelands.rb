@@ -5,7 +5,6 @@ cask 'dafont-dalelands' do
     url 'http://dl.dafont.com/dl/?f=dalelands'
     name 'Dalelands'
     homepage 'http://www.dafont.com/dalelands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dalelands Uncial Bold Italic.otf'
     font 'Dalelands Uncial Bold.otf'

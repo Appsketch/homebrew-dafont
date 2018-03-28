@@ -5,7 +5,6 @@ cask 'dafont-gopnai' do
     url 'http://dl.dafont.com/dl/?f=gopnai'
     name 'Gopnai Droogie'
     homepage 'http://www.dafont.com/gopnai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gopnai - Regular.ttf'
 end

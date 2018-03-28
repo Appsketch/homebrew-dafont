@@ -5,7 +5,6 @@ cask 'dafont-copilme' do
     url 'http://dl.dafont.com/dl/?f=copilme'
     name 'Copilme'
     homepage 'http://www.dafont.com/copilme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COPILME_B.ttf'
     font 'COPILME_L.ttf'

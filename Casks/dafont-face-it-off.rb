@@ -5,7 +5,6 @@ cask 'dafont-face-it-off' do
     url 'http://dl.dafont.com/dl/?f=face_it_off'
     name 'Face'
     homepage 'http://www.dafont.com/face-it-off.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Face it!.ttf'
     font 'Face off!.ttf'

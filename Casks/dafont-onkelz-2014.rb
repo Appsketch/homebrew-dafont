@@ -5,7 +5,6 @@ cask 'dafont-onkelz-2014' do
     url 'http://dl.dafont.com/dl/?f=onkelz_2014'
     name 'Onkelz 2014'
     homepage 'http://www.dafont.com/onkelz-2014.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ONKELZ 2014.ttf'
 end

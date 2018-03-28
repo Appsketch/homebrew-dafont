@@ -5,7 +5,6 @@ cask 'dafont-quick-writing' do
     url 'http://dl.dafont.com/dl/?f=quick_writing'
     name 'Quick Writing'
     homepage 'http://www.dafont.com/quick-writing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quick Writing Bold Italic.ttf'
     font 'Quick Writing Bold.ttf'

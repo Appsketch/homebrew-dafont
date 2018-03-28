@@ -5,7 +5,6 @@ cask 'dafont-growly-grin' do
     url 'http://dl.dafont.com/dl/?f=growly_grin'
     name 'Growly Grin'
     homepage 'http://www.dafont.com/growly-grin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Growly Grin.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hippy-stamps' do
     url 'http://dl.dafont.com/dl/?f=hippy_stamps'
     name 'Hippy Stamps'
     homepage 'http://www.dafont.com/hippy-stamps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hippy.ttf'
 end

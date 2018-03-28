@@ -5,7 +5,6 @@ cask 'dafont-gang-wolfik' do
     url 'http://dl.dafont.com/dl/?f=gang_wolfik'
     name 'Gang Wolfik'
     homepage 'http://www.dafont.com/gang-wolfik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gang_wolfik.ttf'
 end

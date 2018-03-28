@@ -5,7 +5,6 @@ cask 'dafont-kingthings-bloone' do
     url 'http://dl.dafont.com/dl/?f=kingthings_bloone'
     name 'Kingthings Bloone!'
     homepage 'http://www.dafont.com/kingthings-bloone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Bloone!.TTF'
 end

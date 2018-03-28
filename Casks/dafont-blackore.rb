@@ -5,7 +5,6 @@ cask 'dafont-blackore' do
     url 'http://dl.dafont.com/dl/?f=blackore'
     name 'Blackore'
     homepage 'http://www.dafont.com/blackore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blackore.ttf'
 end

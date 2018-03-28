@@ -5,7 +5,6 @@ cask 'dafont-metal-macabre' do
     url 'http://dl.dafont.com/dl/?f=metal_macabre'
     name 'Metal  Macabre'
     homepage 'http://www.dafont.com/metal-macabre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MetalMacabre.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jamaistevie' do
     url 'http://dl.dafont.com/dl/?f=jamaistevie'
     name 'Jamaistevie'
     homepage 'http://www.dafont.com/jamaistevie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jamaistevie.ttf'
 end

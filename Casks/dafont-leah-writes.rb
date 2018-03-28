@@ -5,7 +5,6 @@ cask 'dafont-leah-writes' do
     url 'http://dl.dafont.com/dl/?f=leah_writes'
     name 'Leah Writes'
     homepage 'http://www.dafont.com/leah-writes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Leah_Writes.ttf'
 end

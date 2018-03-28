@@ -5,7 +5,6 @@ cask 'dafont-kbanditslipsmymind' do
     url 'http://dl.dafont.com/dl/?f=kbanditslipsmymind'
     name 'KB And it slips my mind'
     homepage 'http://www.dafont.com/kbanditslipsmymind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBAnditslipsmymind.ttf'
 end

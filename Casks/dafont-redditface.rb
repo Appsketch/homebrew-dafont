@@ -5,7 +5,6 @@ cask 'dafont-redditface' do
     url 'http://dl.dafont.com/dl/?f=redditface'
     name 'Reddit Face'
     homepage 'http://www.dafont.com/redditface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'melsions son.ttf'
 end

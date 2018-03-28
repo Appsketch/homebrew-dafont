@@ -5,7 +5,6 @@ cask 'dafont-alexandras-stempelk' do
     url 'http://dl.dafont.com/dl/?f=alexandras_stempelk'
     name 'Alexandras Stempelkasten'
     homepage 'http://www.dafont.com/alexandras-stempelk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alexandras Stempelkasten.TTF'
 end

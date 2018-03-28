@@ -5,7 +5,6 @@ cask 'dafont-anaperestrelo' do
     url 'http://dl.dafont.com/dl/?f=anaperestrelo'
     name 'Ana Perestrelo'
     homepage 'http://www.dafont.com/anaperestrelo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnaPerestrelo.ttf'
 end

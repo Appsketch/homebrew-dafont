@@ -5,7 +5,6 @@ cask 'dafont-rimouski' do
     url 'http://dl.dafont.com/dl/?f=rimouski'
     name 'Rimouski'
     homepage 'http://www.dafont.com/rimouski.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rimouski sb.ttf'
 end

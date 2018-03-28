@@ -5,7 +5,6 @@ cask 'dafont-k26argento' do
     url 'http://dl.dafont.com/dl/?f=k26argento'
     name 'K26 Argento'
     homepage 'http://www.dafont.com/k26argento.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K26Argento.ttf'
 end

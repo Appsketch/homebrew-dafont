@@ -5,7 +5,6 @@ cask 'dafont-bradbury-oblique' do
     url 'http://dl.dafont.com/dl/?f=bradbury_oblique'
     name 'Bradbury Oblique'
     homepage 'http://www.dafont.com/bradbury-oblique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bradbury-Oblique.ttf'
 end

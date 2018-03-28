@@ -5,7 +5,6 @@ cask 'dafont-saisa' do
     url 'http://dl.dafont.com/dl/?f=saisa'
     name 'Saisa'
     homepage 'http://www.dafont.com/saisa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Saisa.ttf'
 end

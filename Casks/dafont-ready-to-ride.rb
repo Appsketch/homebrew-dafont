@@ -5,7 +5,6 @@ cask 'dafont-ready-to-ride' do
     url 'http://dl.dafont.com/dl/?f=ready_to_ride'
     name 'Ready to Ride'
     homepage 'http://www.dafont.com/ready-to-ride.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ready to Ride.ttf'
 end

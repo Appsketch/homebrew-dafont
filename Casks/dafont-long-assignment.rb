@@ -5,7 +5,6 @@ cask 'dafont-long-assignment' do
     url 'http://dl.dafont.com/dl/?f=long_assignment'
     name 'Long Assignment'
     homepage 'http://www.dafont.com/long-assignment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Long Assignment.ttf'
 end

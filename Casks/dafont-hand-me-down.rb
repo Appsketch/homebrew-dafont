@@ -5,7 +5,6 @@ cask 'dafont-hand-me-down' do
     url 'http://dl.dafont.com/dl/?f=hand_me_down'
     name 'Hand Me Down'
     homepage 'http://www.dafont.com/hand-me-down.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'handmedo.ttf'
     font 'handmeds.ttf'

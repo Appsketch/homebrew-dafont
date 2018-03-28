@@ -5,7 +5,6 @@ cask 'dafont-katakana-tfb' do
     url 'http://dl.dafont.com/dl/?f=katakana_tfb'
     name 'Katakana TFB'
     homepage 'http://www.dafont.com/katakana-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'katakana tfb.ttf'
 end

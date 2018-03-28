@@ -5,7 +5,6 @@ cask 'dafont-bill-gates-windows' do
     url 'http://dl.dafont.com/dl/?f=bill_gates_windows'
     name 'Bill Gates Windows'
     homepage 'http://www.dafont.com/bill-gates-windows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bill gates windows.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-reformation-sans' do
     url 'http://dl.dafont.com/dl/?f=reformation_sans'
     name 'ReFormation Sans'
     homepage 'http://www.dafont.com/reformation-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ReFormation Sans Regular.ttf'
 end

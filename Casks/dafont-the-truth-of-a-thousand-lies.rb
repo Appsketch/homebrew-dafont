@@ -5,7 +5,6 @@ cask 'dafont-the-truth-of-a-thousand-lies' do
     url 'http://dl.dafont.com/dl/?f=the_truth_of_a_thousand_lies'
     name 'The Truth of a Thousand Lies'
     homepage 'http://www.dafont.com/the-truth-of-a-thousand-lies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Truth of a Thousand Lies.ttf'
 end

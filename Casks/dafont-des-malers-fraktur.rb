@@ -5,7 +5,6 @@ cask 'dafont-des-malers-fraktur' do
     url 'http://dl.dafont.com/dl/?f=des_malers_fraktur'
     name 'Des Malers Fraktur'
     homepage 'http://www.dafont.com/des-malers-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Des Malers Fraktur.ttf'
 end

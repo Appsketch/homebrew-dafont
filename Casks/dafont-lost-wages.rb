@@ -5,7 +5,6 @@ cask 'dafont-lost-wages' do
     url 'http://dl.dafont.com/dl/?f=lost_wages'
     name 'Lost Wages'
     homepage 'http://www.dafont.com/lost-wages.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOSTWAGE.TTF'
 end

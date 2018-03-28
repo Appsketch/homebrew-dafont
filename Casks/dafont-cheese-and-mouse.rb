@@ -5,7 +5,6 @@ cask 'dafont-cheese-and-mouse' do
     url 'http://dl.dafont.com/dl/?f=cheese_and_mouse'
     name 'Cheese and Mouse'
     homepage 'http://www.dafont.com/cheese-and-mouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cheese and Mouse.ttf'
 end

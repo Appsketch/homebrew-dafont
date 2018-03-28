@@ -5,7 +5,6 @@ cask 'dafont-back-to-1982' do
     url 'http://dl.dafont.com/dl/?f=back_to_1982'
     name 'Back to 1982'
     homepage 'http://www.dafont.com/back-to-1982.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BACKTO1982.TTF'
 end

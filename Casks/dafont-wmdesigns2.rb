@@ -5,7 +5,6 @@ cask 'dafont-wmdesigns2' do
     url 'http://dl.dafont.com/dl/?f=wmdesigns2'
     name 'WM Designs 2'
     homepage 'http://www.dafont.com/wmdesigns2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmdesigns2.TTF'
 end

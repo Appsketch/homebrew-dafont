@@ -5,7 +5,6 @@ cask 'dafont-kill-switch' do
     url 'http://dl.dafont.com/dl/?f=kill_switch'
     name 'Kill Switch'
     homepage 'http://www.dafont.com/kill-switch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kill.ttf'
 end

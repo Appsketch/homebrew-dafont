@@ -5,7 +5,6 @@ cask 'dafont-a-15-bit' do
     url 'http://dl.dafont.com/dl/?f=a_15_bit'
     name 'A-15-Bit'
     homepage 'http://www.dafont.com/a-15-bit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A-15-BIT.ttf'
 end

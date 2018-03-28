@@ -5,7 +5,6 @@ cask 'dafont-lotharus' do
     url 'http://dl.dafont.com/dl/?f=lotharus'
     name 'Lotharus'
     homepage 'http://www.dafont.com/lotharus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lotharus Wide Top.ttf'
     font 'Lotharus.ttf'

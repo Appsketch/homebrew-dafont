@@ -5,7 +5,6 @@ cask 'dafont-eryxfreeform' do
     url 'http://dl.dafont.com/dl/?f=eryxfreeform'
     name 'Eryx Freeform'
     homepage 'http://www.dafont.com/eryxfreeform.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EryxFreeform.ttf'
 end

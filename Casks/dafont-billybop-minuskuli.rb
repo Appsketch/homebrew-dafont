@@ -5,7 +5,6 @@ cask 'dafont-billybop-minuskuli' do
     url 'http://dl.dafont.com/dl/?f=billybop_minuskuli'
     name 'BillyBop MinusKuli'
     homepage 'http://www.dafont.com/billybop-minuskuli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BillyBop_MinusKuli.ttf'
 end

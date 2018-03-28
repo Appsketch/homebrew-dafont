@@ -5,7 +5,6 @@ cask 'dafont-untrazuko' do
     url 'http://dl.dafont.com/dl/?f=untrazuko'
     name 'Untrazuko'
     homepage 'http://www.dafont.com/untrazuko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'untrazuko.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-letsdobrunch' do
     url 'http://dl.dafont.com/dl/?f=letsdobrunch'
     name 'Lets Do Brunch'
     homepage 'http://www.dafont.com/letsdobrunch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LetsDoBrunch.ttf'
 end

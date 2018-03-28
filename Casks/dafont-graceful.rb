@@ -5,7 +5,6 @@ cask 'dafont-graceful' do
     url 'http://dl.dafont.com/dl/?f=graceful'
     name 'Graceful'
     homepage 'http://www.dafont.com/graceful.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'graceful regular.ttf'
 end

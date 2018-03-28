@@ -5,7 +5,6 @@ cask 'dafont-she-is-beautiful' do
     url 'http://dl.dafont.com/dl/?f=she_is_beautiful'
     name 'She is Beautiful'
     homepage 'http://www.dafont.com/she-is-beautiful.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'she is beautiful.ttf'
 end

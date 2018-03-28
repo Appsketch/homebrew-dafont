@@ -5,7 +5,6 @@ cask 'dafont-solve' do
     url 'http://dl.dafont.com/dl/?f=solve'
     name 'Solve'
     homepage 'http://www.dafont.com/solve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Solve.ttf'
 end

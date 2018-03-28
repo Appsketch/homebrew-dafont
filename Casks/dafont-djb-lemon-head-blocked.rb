@@ -5,7 +5,6 @@ cask 'dafont-djb-lemon-head-blocked' do
     url 'http://dl.dafont.com/dl/?f=djb_lemon_head_blocked'
     name 'DJB Lemon Head Blocked'
     homepage 'http://www.dafont.com/djb-lemon-head-blocked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Lemon Head Blocked.ttf'
 end

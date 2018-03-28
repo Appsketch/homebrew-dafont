@@ -5,7 +5,6 @@ cask 'dafont-redcomet' do
     url 'http://dl.dafont.com/dl/?f=redcomet'
     name 'Redcomet'
     homepage 'http://www.dafont.com/redcomet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REDCFM__.TTF'
 end

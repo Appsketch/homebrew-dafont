@@ -5,7 +5,6 @@ cask 'dafont-mcdonalds' do
     url 'http://dl.dafont.com/dl/?f=mcdonalds'
     name 'McDonalds'
     homepage 'http://www.dafont.com/mcdonalds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'McDonalds-Regular.otf'
 end

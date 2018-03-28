@@ -5,7 +5,6 @@ cask 'dafont-loki-cola' do
     url 'http://dl.dafont.com/dl/?f=loki_cola'
     name 'Loki Cola'
     homepage 'http://www.dafont.com/loki-cola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOKICOLA.TTF'
 end

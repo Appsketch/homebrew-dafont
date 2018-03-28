@@ -5,7 +5,6 @@ cask 'dafont-rugbats' do
     url 'http://dl.dafont.com/dl/?f=rugbats'
     name 'RugBats'
     homepage 'http://www.dafont.com/rugbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RugBats.ttf'
 end

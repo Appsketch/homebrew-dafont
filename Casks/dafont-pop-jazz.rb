@@ -5,7 +5,6 @@ cask 'dafont-pop-jazz' do
     url 'http://dl.dafont.com/dl/?f=pop_jazz'
     name 'Pop &amp; Jazz'
     homepage 'http://www.dafont.com/pop-jazz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pop&amp;Jazz.ttf'
 end

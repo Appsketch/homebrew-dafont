@@ -5,7 +5,6 @@ cask 'dafont-ringer' do
     url 'http://dl.dafont.com/dl/?f=ringer'
     name 'Ringer'
     homepage 'http://www.dafont.com/ringer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ringer_Bold.ttf'
     font 'Ringer_ExtraBold.ttf'

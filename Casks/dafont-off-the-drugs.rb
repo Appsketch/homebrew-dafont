@@ -5,7 +5,6 @@ cask 'dafont-off-the-drugs' do
     url 'http://dl.dafont.com/dl/?f=off_the_drugs'
     name 'Off The Drugs'
     homepage 'http://www.dafont.com/off-the-drugs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'offthedrugs.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-university2' do
     url 'http://dl.dafont.com/dl/?f=university2'
     name 'University'
     homepage 'http://www.dafont.com/university2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'University.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bn-fontboy' do
     url 'http://dl.dafont.com/dl/?f=bn_fontboy'
     name 'BN FontBoy'
     homepage 'http://www.dafont.com/bn-fontboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BN FontBoy 3D.ttf'
     font 'BN FontBoy.ttf'

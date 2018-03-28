@@ -5,7 +5,6 @@ cask 'dafont-love-hue' do
     url 'http://dl.dafont.com/dl/?f=love_hue'
     name 'Love Hue'
     homepage 'http://www.dafont.com/love-hue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Love Hue.ttf'
 end

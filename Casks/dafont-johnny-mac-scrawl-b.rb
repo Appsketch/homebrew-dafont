@@ -5,7 +5,6 @@ cask 'dafont-johnny-mac-scrawl-b' do
     url 'http://dl.dafont.com/dl/?f=johnny_mac_scrawl_b'
     name 'Johnny Mac Scrawl BRK'
     homepage 'http://www.dafont.com/johnny-mac-scrawl-b.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jmacscrl.ttf'
 end

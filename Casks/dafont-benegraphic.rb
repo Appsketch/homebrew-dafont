@@ -5,7 +5,6 @@ cask 'dafont-benegraphic' do
     url 'http://dl.dafont.com/dl/?f=benegraphic'
     name 'Benegraphic'
     homepage 'http://www.dafont.com/benegraphic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'beneg___.ttf'
 end

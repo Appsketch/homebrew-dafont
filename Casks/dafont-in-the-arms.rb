@@ -5,7 +5,6 @@ cask 'dafont-in-the-arms' do
     url 'http://dl.dafont.com/dl/?f=in_the_arms'
     name 'In the Arms of Sleep'
     homepage 'http://www.dafont.com/in-the-arms.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INTHEARMSOFSLEEP.TTF'
 end

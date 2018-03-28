@@ -5,7 +5,6 @@ cask 'dafont-grantham' do
     url 'http://dl.dafont.com/dl/?f=grantham'
     name 'Grantham'
     homepage 'http://www.dafont.com/grantham.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grantham Bold.ttf'
     font 'Grantham Roman.ttf'

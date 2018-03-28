@@ -5,7 +5,6 @@ cask 'dafont-august-sans' do
     url 'http://dl.dafont.com/dl/?f=august_sans'
     name 'August Sans'
     homepage 'http://www.dafont.com/august-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AugustSans-45Light.ttf'
     font 'AugustSans-46LightItalic.ttf'

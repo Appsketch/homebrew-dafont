@@ -5,7 +5,6 @@ cask 'dafont-henryrodeocircus-demo' do
     url 'http://dl.dafont.com/dl/?f=henryrodeocircus_demo'
     name 'Henry Rodeo Circus'
     homepage 'http://www.dafont.com/henryrodeocircus-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HenryRodeoCircus_demo.ttf'
 end

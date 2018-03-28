@@ -5,7 +5,6 @@ cask 'dafont-edwards-wedding' do
     url 'http://dl.dafont.com/dl/?f=edwards_wedding'
     name 'Edward&#039;s Wedding'
     homepage 'http://www.dafont.com/edwards-wedding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Edward s Wedding.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-df-temple' do
     url 'http://dl.dafont.com/dl/?f=df_temple'
     name 'DF Temple'
     homepage 'http://www.dafont.com/df-temple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DFTEH___.ttf'
 end

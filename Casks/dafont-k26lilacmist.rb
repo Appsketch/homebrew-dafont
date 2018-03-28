@@ -5,7 +5,6 @@ cask 'dafont-k26lilacmist' do
     url 'http://dl.dafont.com/dl/?f=k26lilacmist'
     name 'K26 Lilac Mist'
     homepage 'http://www.dafont.com/k26lilacmist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K26LilacMist.ttf'
 end

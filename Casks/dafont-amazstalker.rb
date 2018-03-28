@@ -5,7 +5,6 @@ cask 'dafont-amazstalker' do
     url 'http://dl.dafont.com/dl/?f=amazstalker'
     name 'Amaz Stalker'
     homepage 'http://www.dafont.com/amazstalker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmazS.T.A.L.K.E.R.Italic.ttf'
     font 'AmazS.T.A.L.K.E.R.v.3.0.ttf'

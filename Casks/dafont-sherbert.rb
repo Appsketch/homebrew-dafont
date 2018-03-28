@@ -5,7 +5,6 @@ cask 'dafont-sherbert' do
     url 'http://dl.dafont.com/dl/?f=sherbert'
     name 'Sherbert'
     homepage 'http://www.dafont.com/sherbert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sherbert.ttf'
 end

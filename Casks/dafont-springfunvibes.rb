@@ -5,7 +5,6 @@ cask 'dafont-springfunvibes' do
     url 'http://dl.dafont.com/dl/?f=springfunvibes'
     name 'Spring Fun Vibes'
     homepage 'http://www.dafont.com/springfunvibes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpringFunVibes.ttf'
 end

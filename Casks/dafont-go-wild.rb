@@ -5,7 +5,6 @@ cask 'dafont-go-wild' do
     url 'http://dl.dafont.com/dl/?f=go_wild'
     name 'Go Wild'
     homepage 'http://www.dafont.com/go-wild.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Go Wild.ttf'
 end

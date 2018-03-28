@@ -5,7 +5,6 @@ cask 'dafont-lefty-monster' do
     url 'http://dl.dafont.com/dl/?f=lefty_monster'
     name 'Lefty Monster'
     homepage 'http://www.dafont.com/lefty-monster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lefty-Monster.ttf'
 end

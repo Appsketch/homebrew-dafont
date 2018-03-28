@@ -5,7 +5,6 @@ cask 'dafont-gabi-sans-irregular' do
     url 'http://dl.dafont.com/dl/?f=gabi_sans_irregular'
     name 'Gabi Sans Irregular'
     homepage 'http://www.dafont.com/gabi-sans-irregular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gabi_sans_irregular.ttf'
 end

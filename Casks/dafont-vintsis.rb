@@ -5,7 +5,6 @@ cask 'dafont-vintsis' do
     url 'http://dl.dafont.com/dl/?f=vintsis'
     name 'Vintsis'
     homepage 'http://www.dafont.com/vintsis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vintsis.ttf'
 end

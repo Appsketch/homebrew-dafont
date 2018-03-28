@@ -5,7 +5,6 @@ cask 'dafont-viande-fumee' do
     url 'http://dl.dafont.com/dl/?f=viande_fumee'
     name 'Viande Fum&eacute;e'
     homepage 'http://www.dafont.com/viande-fumee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ViandeFumee.ttf'
 end

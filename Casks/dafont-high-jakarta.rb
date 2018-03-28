@@ -5,7 +5,6 @@ cask 'dafont-high-jakarta' do
     url 'http://dl.dafont.com/dl/?f=high_jakarta'
     name 'High Jakarta'
     homepage 'http://www.dafont.com/high-jakarta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighJakarta.ttf'
 end

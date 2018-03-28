@@ -5,7 +5,6 @@ cask 'dafont-tribal-tattoo-addict' do
     url 'http://dl.dafont.com/dl/?f=tribal_tattoo_addict'
     name 'Tribal Tattoo Addict'
     homepage 'http://www.dafont.com/tribal-tattoo-addict.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TribalTattooAddict.ttf'
 end

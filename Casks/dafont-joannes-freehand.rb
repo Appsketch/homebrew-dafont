@@ -5,7 +5,6 @@ cask 'dafont-joannes-freehand' do
     url 'http://dl.dafont.com/dl/?f=joannes_freehand'
     name 'Joanne&#039;s Freehand'
     homepage 'http://www.dafont.com/joannes-freehand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JoannesFreehand.ttf'
 end

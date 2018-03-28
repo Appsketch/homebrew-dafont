@@ -5,7 +5,6 @@ cask 'dafont-damaged-sata' do
     url 'http://dl.dafont.com/dl/?f=damaged_sata'
     name 'Damaged Sata'
     homepage 'http://www.dafont.com/damaged-sata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DamagedSataLight.ttf'
     font 'DamagedSataLightExtended.ttf'

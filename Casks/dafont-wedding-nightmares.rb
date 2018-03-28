@@ -5,7 +5,6 @@ cask 'dafont-wedding-nightmares' do
     url 'http://dl.dafont.com/dl/?f=wedding_nightmares'
     name 'Wedding Nightmares'
     homepage 'http://www.dafont.com/wedding-nightmares.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WEDDI___.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-purky-handwriting' do
     url 'http://dl.dafont.com/dl/?f=purky_handwriting'
     name 'Purky Handwriting'
     homepage 'http://www.dafont.com/purky-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Purky Handwriting.ttf'
 end

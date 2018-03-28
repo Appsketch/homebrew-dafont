@@ -5,7 +5,6 @@ cask 'dafont-cartouche' do
     url 'http://dl.dafont.com/dl/?f=cartouche'
     name 'Cartouche'
     homepage 'http://www.dafont.com/cartouche.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cartouche.TTF'
 end

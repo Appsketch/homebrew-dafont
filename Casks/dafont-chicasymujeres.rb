@@ -5,7 +5,6 @@ cask 'dafont-chicasymujeres' do
     url 'http://dl.dafont.com/dl/?f=chicasymujeres'
     name 'Chicas y Mujeres'
     homepage 'http://www.dafont.com/chicasymujeres.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHICASyMUJERES.ttf'
 end

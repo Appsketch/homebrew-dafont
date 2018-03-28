@@ -5,7 +5,6 @@ cask 'dafont-dk-boris-brush' do
     url 'http://dl.dafont.com/dl/?f=dk_boris_brush'
     name 'DK Boris Brush'
     homepage 'http://www.dafont.com/dk-boris-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Boris Brush.ttf'
 end

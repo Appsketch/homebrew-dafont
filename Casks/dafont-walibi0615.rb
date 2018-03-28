@@ -5,7 +5,6 @@ cask 'dafont-walibi0615' do
     url 'http://dl.dafont.com/dl/?f=walibi0615'
     name 'Walibi 0615'
     homepage 'http://www.dafont.com/walibi0615.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'walibi-holland.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vamp-kitten' do
     url 'http://dl.dafont.com/dl/?f=vamp_kitten'
     name 'Vamp Kitten'
     homepage 'http://www.dafont.com/vamp-kitten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vamp Kitten.ttf'
 end

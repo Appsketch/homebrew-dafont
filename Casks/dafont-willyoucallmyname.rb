@@ -5,7 +5,6 @@ cask 'dafont-willyoucallmyname' do
     url 'http://dl.dafont.com/dl/?f=willyoucallmyname'
     name 'Will You Call My Name'
     homepage 'http://www.dafont.com/willyoucallmyname.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WillyouCallmyName.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wsopenipad' do
     url 'http://dl.dafont.com/dl/?f=wsopenipad'
     name 'WS Open iPad'
     homepage 'http://www.dafont.com/wsopenipad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WSOpeniPad.ttf'
 end

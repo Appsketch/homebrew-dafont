@@ -5,7 +5,6 @@ cask 'dafont-sickfuture' do
     url 'http://dl.dafont.com/dl/?f=sickfuture'
     name 'Sick Future'
     homepage 'http://www.dafont.com/sickfuture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sickfuture.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-digital-cognitive' do
     url 'http://dl.dafont.com/dl/?f=digital_cognitive'
     name 'Digital cognitive'
     homepage 'http://www.dafont.com/digital-cognitive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digital_cognitive free promo.ttf'
 end

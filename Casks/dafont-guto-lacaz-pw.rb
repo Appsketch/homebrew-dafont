@@ -5,7 +5,6 @@ cask 'dafont-guto-lacaz-pw' do
     url 'http://dl.dafont.com/dl/?f=guto_lacaz_pw'
     name 'Guto Lacaz PW'
     homepage 'http://www.dafont.com/guto-lacaz-pw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'guto_lacaz_pw.ttf'
 end

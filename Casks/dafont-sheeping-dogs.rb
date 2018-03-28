@@ -5,7 +5,6 @@ cask 'dafont-sheeping-dogs' do
     url 'http://dl.dafont.com/dl/?f=sheeping_dogs'
     name 'Sheeping Dogs'
     homepage 'http://www.dafont.com/sheeping-dogs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sheeping Dogs.ttf'
 end

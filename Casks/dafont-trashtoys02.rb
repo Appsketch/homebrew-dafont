@@ -5,7 +5,6 @@ cask 'dafont-trashtoys02' do
     url 'http://dl.dafont.com/dl/?f=trashtoys02'
     name 'Trash Toys 02'
     homepage 'http://www.dafont.com/trashtoys02.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TrashToys02.ttf'
 end

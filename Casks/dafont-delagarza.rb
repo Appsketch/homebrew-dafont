@@ -5,7 +5,6 @@ cask 'dafont-delagarza' do
     url 'http://dl.dafont.com/dl/?f=delagarza'
     name 'Dela Garza'
     homepage 'http://www.dafont.com/delagarza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DelaGarza.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-the-70-greatest-directors-of-all-time' do
     url 'http://dl.dafont.com/dl/?f=the_70_greatest_directors_of_all_time'
     name 'The 70 Greatest Directors of All Time'
     homepage 'http://www.dafont.com/the-70-greatest-directors-of-all-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Directors.ttf'
 end

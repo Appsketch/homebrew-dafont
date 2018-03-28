@@ -5,7 +5,6 @@ cask 'dafont-sharkyspot' do
     url 'http://dl.dafont.com/dl/?f=sharkyspot'
     name 'Sharkyspot'
     homepage 'http://www.dafont.com/sharkyspot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sharkyspot Demo.ttf'
 end

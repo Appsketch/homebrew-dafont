@@ -5,7 +5,6 @@ cask 'dafont-flame' do
     url 'http://dl.dafont.com/dl/?f=flame'
     name 'Flame'
     homepage 'http://www.dafont.com/flame.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flame.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-you-me-everyone-else' do
     url 'http://dl.dafont.com/dl/?f=you_me_everyone_else'
     name 'You &amp; Me &amp; Everyone Else'
     homepage 'http://www.dafont.com/you-me-everyone-else.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'you and me and everyone else.ttf'
 end

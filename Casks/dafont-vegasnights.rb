@@ -5,7 +5,6 @@ cask 'dafont-vegasnights' do
     url 'http://dl.dafont.com/dl/?f=vegasnights'
     name 'Vegas Nights'
     homepage 'http://www.dafont.com/vegasnights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VegasNights.ttf'
 end

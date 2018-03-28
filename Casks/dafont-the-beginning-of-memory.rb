@@ -5,7 +5,6 @@ cask 'dafont-the-beginning-of-memory' do
     url 'http://dl.dafont.com/dl/?f=the_beginning_of_memory'
     name 'The Beginning Of Memory'
     homepage 'http://www.dafont.com/the-beginning-of-memory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Beginning Of Memory.ttf'
 end

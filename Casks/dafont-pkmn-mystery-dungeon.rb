@@ -5,7 +5,6 @@ cask 'dafont-pkmn-mystery-dungeon' do
     url 'http://dl.dafont.com/dl/?f=pkmn_mystery_dungeon'
     name 'PKMN Mystery Dungeon'
     homepage 'http://www.dafont.com/pkmn-mystery-dungeon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PKMN-Mystery-Dungeon.ttf'
 end

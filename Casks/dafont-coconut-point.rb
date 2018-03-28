@@ -5,7 +5,6 @@ cask 'dafont-coconut-point' do
     url 'http://dl.dafont.com/dl/?f=coconut_point'
     name 'Coconut Point'
     homepage 'http://www.dafont.com/coconut-point.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coconut Point.otf'
 end

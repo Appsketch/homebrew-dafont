@@ -5,7 +5,6 @@ cask 'dafont-not-posterman' do
     url 'http://dl.dafont.com/dl/?f=not_posterman'
     name 'Not Posterman'
     homepage 'http://www.dafont.com/not-posterman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NotPosterman-Regular.otf'
 end

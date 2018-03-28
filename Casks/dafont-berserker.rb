@@ -5,7 +5,6 @@ cask 'dafont-berserker' do
     url 'http://dl.dafont.com/dl/?f=berserker'
     name 'Berserker'
     homepage 'http://www.dafont.com/berserker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'berserker.ttf'
     font 'berserkerc.ttf'

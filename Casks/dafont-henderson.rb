@@ -5,7 +5,6 @@ cask 'dafont-henderson' do
     url 'http://dl.dafont.com/dl/?f=henderson'
     name 'Henderson'
     homepage 'http://www.dafont.com/henderson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'henderson.ttf'
 end

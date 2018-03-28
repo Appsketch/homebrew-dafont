@@ -5,7 +5,6 @@ cask 'dafont-demoi' do
     url 'http://dl.dafont.com/dl/?f=demoi'
     name 'Demoi'
     homepage 'http://www.dafont.com/demoi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'demoi.ttf'
 end

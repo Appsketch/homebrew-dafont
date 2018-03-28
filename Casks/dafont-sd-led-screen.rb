@@ -5,7 +5,6 @@ cask 'dafont-sd-led-screen' do
     url 'http://dl.dafont.com/dl/?f=sd_led_screen'
     name 'SD LED Screen'
     homepage 'http://www.dafont.com/sd-led-screen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sd_led_screen.ttf'
 end

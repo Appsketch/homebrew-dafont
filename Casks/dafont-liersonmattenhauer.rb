@@ -5,7 +5,6 @@ cask 'dafont-liersonmattenhauer' do
     url 'http://dl.dafont.com/dl/?f=liersonmattenhauer'
     name 'Lierson Mattenhauer'
     homepage 'http://www.dafont.com/liersonmattenhauer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LiersonMattenhauer.ttf'
 end

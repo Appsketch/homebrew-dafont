@@ -5,7 +5,6 @@ cask 'dafont-grafiti-jedagraphicx' do
     url 'http://dl.dafont.com/dl/?f=grafiti_jedagraphicx'
     name 'Grafiti Jedagraphicx'
     homepage 'http://www.dafont.com/grafiti-jedagraphicx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRAFITI - jedagraphicx.ttf'
 end

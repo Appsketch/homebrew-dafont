@@ -5,7 +5,6 @@ cask 'dafont-tigershark' do
     url 'http://dl.dafont.com/dl/?f=tigershark'
     name 'Tigershark'
     homepage 'http://www.dafont.com/tigershark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tigershark.ttf'
     font 'tigershark3d.ttf'

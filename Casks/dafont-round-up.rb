@@ -5,7 +5,6 @@ cask 'dafont-round-up' do
     url 'http://dl.dafont.com/dl/?f=round_up'
     name 'Round Up'
     homepage 'http://www.dafont.com/round-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Roundup.ttf'
 end

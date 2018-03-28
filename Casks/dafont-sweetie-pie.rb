@@ -5,7 +5,6 @@ cask 'dafont-sweetie-pie' do
     url 'http://dl.dafont.com/dl/?f=sweetie_pie'
     name 'Sweetie Pie'
     homepage 'http://www.dafont.com/sweetie-pie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sweetie Pie.ttf'
 end

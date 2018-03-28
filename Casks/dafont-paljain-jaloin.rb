@@ -5,7 +5,6 @@ cask 'dafont-paljain-jaloin' do
     url 'http://dl.dafont.com/dl/?f=paljain_jaloin'
     name 'Paljain jaloin'
     homepage 'http://www.dafont.com/paljain-jaloin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paljain jaloin.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-buttons-patches' do
     url 'http://dl.dafont.com/dl/?f=buttons_patches'
     name 'Buttons &amp; Patches'
     homepage 'http://www.dafont.com/buttons-patches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Buttons.ttf'
 end

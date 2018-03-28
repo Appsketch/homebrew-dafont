@@ -5,7 +5,6 @@ cask 'dafont-grimeswade' do
     url 'http://dl.dafont.com/dl/?f=grimeswade'
     name 'Grimeswade'
     homepage 'http://www.dafont.com/grimeswade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grimeswade.ttf'
 end

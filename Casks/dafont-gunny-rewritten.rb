@@ -5,7 +5,6 @@ cask 'dafont-gunny-rewritten' do
     url 'http://dl.dafont.com/dl/?f=gunny_rewritten'
     name 'Gunny Rewritten'
     homepage 'http://www.dafont.com/gunny-rewritten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gnyrwn971.ttf'
 end

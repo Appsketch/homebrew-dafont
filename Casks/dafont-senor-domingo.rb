@@ -5,7 +5,6 @@ cask 'dafont-senor-domingo' do
     url 'http://dl.dafont.com/dl/?f=senor_domingo'
     name 'Se&ntilde;or Domingo'
     homepage 'http://www.dafont.com/senor-domingo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Se&curren;or Domingo.ttf'
 end

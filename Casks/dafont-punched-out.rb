@@ -5,7 +5,6 @@ cask 'dafont-punched-out' do
     url 'http://dl.dafont.com/dl/?f=punched_out'
     name 'Punched Out'
     homepage 'http://www.dafont.com/punched-out.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'punched_out.ttf'
 end

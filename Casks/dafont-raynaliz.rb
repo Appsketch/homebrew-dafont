@@ -5,7 +5,6 @@ cask 'dafont-raynaliz' do
     url 'http://dl.dafont.com/dl/?f=raynaliz'
     name 'Raynaliz'
     homepage 'http://www.dafont.com/raynaliz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'raynaliz.ttf'
 end

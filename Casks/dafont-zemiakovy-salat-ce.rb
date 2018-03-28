@@ -5,7 +5,6 @@ cask 'dafont-zemiakovy-salat-ce' do
     url 'http://dl.dafont.com/dl/?f=zemiakovy_salat_ce'
     name 'Zemiakovy Salat CE'
     homepage 'http://www.dafont.com/zemiakovy-salat-ce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zemiakovy_salat_CE.ttf'
 end

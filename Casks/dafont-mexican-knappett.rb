@@ -5,7 +5,6 @@ cask 'dafont-mexican-knappett' do
     url 'http://dl.dafont.com/dl/?f=mexican_knappett'
     name 'Mexican Knappett'
     homepage 'http://www.dafont.com/mexican-knappett.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mexican_knappett.ttf'
 end

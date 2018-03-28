@@ -5,7 +5,6 @@ cask 'dafont-fifa-welcome' do
     url 'http://dl.dafont.com/dl/?f=fifa_welcome'
     name 'FIFA Welcome'
     homepage 'http://www.dafont.com/fifa-welcome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fifawelcome1.3.ttf'
 end

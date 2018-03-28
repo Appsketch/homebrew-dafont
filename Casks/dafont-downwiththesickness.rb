@@ -5,7 +5,6 @@ cask 'dafont-downwiththesickness' do
     url 'http://dl.dafont.com/dl/?f=downwiththesickness'
     name 'Down With The Sickness'
     homepage 'http://www.dafont.com/downwiththesickness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Down With The Sickness V2.ttf'
 end

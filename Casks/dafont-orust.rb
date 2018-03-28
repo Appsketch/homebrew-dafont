@@ -5,7 +5,6 @@ cask 'dafont-orust' do
     url 'http://dl.dafont.com/dl/?f=orust'
     name 'Orust'
     homepage 'http://www.dafont.com/orust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'orust.ttf'
 end

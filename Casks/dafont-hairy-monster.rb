@@ -5,7 +5,6 @@ cask 'dafont-hairy-monster' do
     url 'http://dl.dafont.com/dl/?f=hairy_monster'
     name 'Hairy Monster'
     homepage 'http://www.dafont.com/hairy-monster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hairy Monster Solid.ttf'
     font 'Hairy Monster.ttf'

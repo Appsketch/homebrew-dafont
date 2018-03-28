@@ -5,7 +5,6 @@ cask 'dafont-popo' do
     url 'http://dl.dafont.com/dl/?f=popo'
     name 'Popo'
     homepage 'http://www.dafont.com/popo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'popo.ttf'
 end

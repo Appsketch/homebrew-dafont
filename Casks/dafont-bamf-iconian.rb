@@ -5,7 +5,6 @@ cask 'dafont-bamf-iconian' do
     url 'http://dl.dafont.com/dl/?f=bamf_iconian'
     name 'Bamf'
     homepage 'http://www.dafont.com/bamf-iconian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bamf2.ttf'
     font 'bamfb.ttf'

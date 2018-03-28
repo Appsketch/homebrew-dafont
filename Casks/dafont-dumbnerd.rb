@@ -5,7 +5,6 @@ cask 'dafont-dumbnerd' do
     url 'http://dl.dafont.com/dl/?f=dumbnerd'
     name 'Dumbnerd'
     homepage 'http://www.dafont.com/dumbnerd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dumbnerd.ttf'
 end

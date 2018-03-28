@@ -5,7 +5,6 @@ cask 'dafont-clovis-cheury' do
     url 'http://dl.dafont.com/dl/?f=clovis_cheury'
     name 'Clovis Cheury'
     homepage 'http://www.dafont.com/clovis-cheury.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clovis Cheury V2.ttf'
 end

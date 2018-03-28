@@ -5,7 +5,6 @@ cask 'dafont-ginkgocut' do
     url 'http://dl.dafont.com/dl/?f=ginkgocut'
     name 'GinkgoCut'
     homepage 'http://www.dafont.com/ginkgocut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GinkgoCut.ttf'
 end

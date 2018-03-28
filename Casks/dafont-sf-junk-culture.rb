@@ -5,7 +5,6 @@ cask 'dafont-sf-junk-culture' do
     url 'http://dl.dafont.com/dl/?f=sf_junk_culture'
     name 'SF Junk Culture'
     homepage 'http://www.dafont.com/sf-junk-culture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Junk Culture Bold Oblique.ttf'
     font 'SF Junk Culture Bold.ttf'

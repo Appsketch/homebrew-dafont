@@ -5,7 +5,6 @@ cask 'dafont-angilla-tattoo' do
     url 'http://dl.dafont.com/dl/?f=angilla_tattoo'
     name 'Angilla Tattoo'
     homepage 'http://www.dafont.com/angilla-tattoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AngillaTattoo_PERSONAL_USE_ONLY.ttf'
 end

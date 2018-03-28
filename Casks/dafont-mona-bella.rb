@@ -5,7 +5,6 @@ cask 'dafont-mona-bella' do
     url 'http://dl.dafont.com/dl/?f=mona_bella'
     name 'Mona Bella'
     homepage 'http://www.dafont.com/mona-bella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MonaBella Demo.otf'
     font 'MonaBella_Italic_Demo.otf'

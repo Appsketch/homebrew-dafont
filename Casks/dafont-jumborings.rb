@@ -5,7 +5,6 @@ cask 'dafont-jumborings' do
     url 'http://dl.dafont.com/dl/?f=jumborings'
     name 'Jumbo Rings'
     homepage 'http://www.dafont.com/jumborings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JumboRings.ttf'
 end

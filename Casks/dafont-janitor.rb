@@ -5,7 +5,6 @@ cask 'dafont-janitor' do
     url 'http://dl.dafont.com/dl/?f=janitor'
     name 'Janitor'
     homepage 'http://www.dafont.com/janitor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Janitor.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-duralith' do
     url 'http://dl.dafont.com/dl/?f=duralith'
     name 'Duralith'
     homepage 'http://www.dafont.com/duralith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DURALITH.ttf'
 end

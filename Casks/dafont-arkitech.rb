@@ -5,7 +5,6 @@ cask 'dafont-arkitech' do
     url 'http://dl.dafont.com/dl/?f=arkitech'
     name 'Arkitech'
     homepage 'http://www.dafont.com/arkitech.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arkitech Light.ttf'
     font 'Arkitech Medium.ttf'

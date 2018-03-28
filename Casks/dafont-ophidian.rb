@@ -5,7 +5,6 @@ cask 'dafont-ophidian' do
     url 'http://dl.dafont.com/dl/?f=ophidian'
     name 'Ophidian'
     homepage 'http://www.dafont.com/ophidian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ophidian Bold Italic.otf'
     font 'Ophidian Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-mb-underground' do
     url 'http://dl.dafont.com/dl/?f=mb_underground'
     name 'MB Underground'
     homepage 'http://www.dafont.com/mb-underground.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB_Underground.ttf'
 end

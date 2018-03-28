@@ -5,7 +5,6 @@ cask 'dafont-guakala' do
     url 'http://dl.dafont.com/dl/?f=guakala'
     name 'Guakala'
     homepage 'http://www.dafont.com/guakala.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Guakala.otf'
 end

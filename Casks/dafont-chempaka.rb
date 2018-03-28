@@ -5,7 +5,6 @@ cask 'dafont-chempaka' do
     url 'http://dl.dafont.com/dl/?f=chempaka'
     name 'Chempaka'
     homepage 'http://www.dafont.com/chempaka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chempaka Ranting bold.ttf'
     font 'Chempaka Ranting Outline.ttf'

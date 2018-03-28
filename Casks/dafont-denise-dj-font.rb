@@ -5,7 +5,6 @@ cask 'dafont-denise-dj-font' do
     url 'http://dl.dafont.com/dl/?f=denise_dj_font'
     name 'Denise DJ'
     homepage 'http://www.dafont.com/denise-dj-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deejay_Font.ttf'
 end

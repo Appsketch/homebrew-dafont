@@ -5,7 +5,6 @@ cask 'dafont-chocolate-box' do
     url 'http://dl.dafont.com/dl/?f=chocolate_box'
     name 'Chocolate Box'
     homepage 'http://www.dafont.com/chocolate-box.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'C_BOX_D.TTF'
     font 'C_BOX.TTF'

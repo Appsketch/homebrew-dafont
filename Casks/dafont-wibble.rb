@@ -5,7 +5,6 @@ cask 'dafont-wibble' do
     url 'http://dl.dafont.com/dl/?f=wibble'
     name 'Wibble'
     homepage 'http://www.dafont.com/wibble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wibble__.ttf'
 end

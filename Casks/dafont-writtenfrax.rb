@@ -5,7 +5,6 @@ cask 'dafont-writtenfrax' do
     url 'http://dl.dafont.com/dl/?f=writtenfrax'
     name 'Written Frax'
     homepage 'http://www.dafont.com/writtenfrax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WrittenFrax.ttf'
 end

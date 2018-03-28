@@ -5,7 +5,6 @@ cask 'dafont-jerrys-handwriting' do
     url 'http://dl.dafont.com/dl/?f=jerrys_handwriting'
     name 'Jerry&#039;s handwriting'
     homepage 'http://www.dafont.com/jerrys-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jerry_B4s_handwriting.ttf'
 end

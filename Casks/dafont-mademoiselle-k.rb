@@ -5,7 +5,6 @@ cask 'dafont-mademoiselle-k' do
     url 'http://dl.dafont.com/dl/?f=mademoiselle_k'
     name 'Mademoiselle K'
     homepage 'http://www.dafont.com/mademoiselle-k.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mademoiselle &uacute;K&uacute;.ttf'
 end

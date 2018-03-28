@@ -5,7 +5,6 @@ cask 'dafont-egregio-script' do
     url 'http://dl.dafont.com/dl/?f=egregio_script'
     name 'Egregio Script'
     homepage 'http://www.dafont.com/egregio-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EgregioScript_demo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-senta-schreibmaschine' do
     url 'http://dl.dafont.com/dl/?f=senta_schreibmaschine'
     name 'Senta Schreibmaschine'
     homepage 'http://www.dafont.com/senta-schreibmaschine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SENTA_MartavanEckDEMO.ttf'
 end

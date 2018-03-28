@@ -5,7 +5,6 @@ cask 'dafont-botellas-2004' do
     url 'http://dl.dafont.com/dl/?f=botellas_2004'
     name 'Botellas 2004'
     homepage 'http://www.dafont.com/botellas-2004.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOTEN__4.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stitch-font' do
     url 'http://dl.dafont.com/dl/?f=stitch_font'
     name 'Stitch'
     homepage 'http://www.dafont.com/stitch-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stitch font.ttf'
 end

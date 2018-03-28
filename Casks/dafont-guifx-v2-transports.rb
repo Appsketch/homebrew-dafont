@@ -5,7 +5,6 @@ cask 'dafont-guifx-v2-transports' do
     url 'http://dl.dafont.com/dl/?f=guifx_v2_transports'
     name 'Guifx v2 Transports'
     homepage 'http://www.dafont.com/guifx-v2-transports.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Guifx v2 Transports.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-theantitype' do
     url 'http://dl.dafont.com/dl/?f=theantitype'
     name 'The Anti Type'
     homepage 'http://www.dafont.com/theantitype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheAntiType.ttf'
 end

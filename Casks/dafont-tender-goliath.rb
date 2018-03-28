@@ -5,7 +5,6 @@ cask 'dafont-tender-goliath' do
     url 'http://dl.dafont.com/dl/?f=tender_goliath'
     name 'Tender Goliath'
     homepage 'http://www.dafont.com/tender-goliath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tender Goliath Small-Caps.ttf'
     font 'Tender Goliath.ttf'

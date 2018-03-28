@@ -5,7 +5,6 @@ cask 'dafont-namskout' do
     url 'http://dl.dafont.com/dl/?f=namskout'
     name 'Namskout'
     homepage 'http://www.dafont.com/namskout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Namskin.otf'
     font 'Namskout.otf'

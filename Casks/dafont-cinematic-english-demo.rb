@@ -5,7 +5,6 @@ cask 'dafont-cinematic-english-demo' do
     url 'http://dl.dafont.com/dl/?f=cinematic_english_demo'
     name 'Cinematic English'
     homepage 'http://www.dafont.com/cinematic-english-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cinematicenglish_demo_www.mirco-zett.de.ttf'
 end

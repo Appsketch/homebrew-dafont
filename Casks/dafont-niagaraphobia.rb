@@ -5,7 +5,6 @@ cask 'dafont-niagaraphobia' do
     url 'http://dl.dafont.com/dl/?f=niagaraphobia'
     name 'Niagaraphobia'
     homepage 'http://www.dafont.com/niagaraphobia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Niagaraphobia.otf'
 end

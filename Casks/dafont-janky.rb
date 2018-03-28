@@ -5,7 +5,6 @@ cask 'dafont-janky' do
     url 'http://dl.dafont.com/dl/?f=janky'
     name 'Janky'
     homepage 'http://www.dafont.com/janky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Janky.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-water-street-detour' do
     url 'http://dl.dafont.com/dl/?f=water_street_detour'
     name 'Water Street Detour'
     homepage 'http://www.dafont.com/water-street-detour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'waterst.ttf'
     font 'waterst2.ttf'

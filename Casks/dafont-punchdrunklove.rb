@@ -5,7 +5,6 @@ cask 'dafont-punchdrunklove' do
     url 'http://dl.dafont.com/dl/?f=punchdrunklove'
     name 'Punch Drunk Love'
     homepage 'http://www.dafont.com/punchdrunklove.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PunchDrunkLove.ttf'
 end

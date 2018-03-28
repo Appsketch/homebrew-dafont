@@ -5,7 +5,6 @@ cask 'dafont-missmelancholy' do
     url 'http://dl.dafont.com/dl/?f=missmelancholy'
     name 'Miss Melancholy'
     homepage 'http://www.dafont.com/missmelancholy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MissMelancholy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sassy-molassy' do
     url 'http://dl.dafont.com/dl/?f=sassy_molassy'
     name 'Sassy Molassy'
     homepage 'http://www.dafont.com/sassy-molassy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sassy Molassy.ttf'
 end

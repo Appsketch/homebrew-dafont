@@ -5,7 +5,6 @@ cask 'dafont-gnatfont' do
     url 'http://dl.dafont.com/dl/?f=gnatfont'
     name 'Gnatfont'
     homepage 'http://www.dafont.com/gnatfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gnatfont.ttf'
 end

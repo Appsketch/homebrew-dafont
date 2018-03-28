@@ -5,7 +5,6 @@ cask 'dafont-rodgauer' do
     url 'http://dl.dafont.com/dl/?f=rodgauer'
     name 'Rodgauer'
     homepage 'http://www.dafont.com/rodgauer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FishEyeButtons2.ttf'
     font 'Rodgauer1Round.ttf'

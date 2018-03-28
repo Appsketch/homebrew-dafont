@@ -5,7 +5,6 @@ cask 'dafont-liberty-island' do
     url 'http://dl.dafont.com/dl/?f=liberty_island'
     name 'Liberty Island'
     homepage 'http://www.dafont.com/liberty-island.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'libertyisland.ttf'
     font 'libertyisland3d.ttf'

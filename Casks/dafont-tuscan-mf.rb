@@ -5,7 +5,6 @@ cask 'dafont-tuscan-mf' do
     url 'http://dl.dafont.com/dl/?f=tuscan_mf'
     name 'Tuscan MF'
     homepage 'http://www.dafont.com/tuscan-mf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tuscan MF Narrow.ttf'
 end

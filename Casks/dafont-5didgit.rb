@@ -5,7 +5,6 @@ cask 'dafont-5didgit' do
     url 'http://dl.dafont.com/dl/?f=5didgit'
     name '5 Didgit'
     homepage 'http://www.dafont.com/5didgit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5didgit_solid.ttf'
     font '5didgit_stencil.ttf'

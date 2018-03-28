@@ -5,7 +5,6 @@ cask 'dafont-iron-amore' do
     url 'http://dl.dafont.com/dl/?f=iron_amore'
     name 'Iron Amore'
     homepage 'http://www.dafont.com/iron-amore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iron Amore.ttf'
 end

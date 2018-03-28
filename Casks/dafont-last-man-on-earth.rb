@@ -5,7 +5,6 @@ cask 'dafont-last-man-on-earth' do
     url 'http://dl.dafont.com/dl/?f=last_man_on_earth'
     name 'Last Man on Earth'
     homepage 'http://www.dafont.com/last-man-on-earth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lastman.ttf'
 end

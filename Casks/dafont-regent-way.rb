@@ -5,7 +5,6 @@ cask 'dafont-regent-way' do
     url 'http://dl.dafont.com/dl/?f=regent_way'
     name 'Regent Way'
     homepage 'http://www.dafont.com/regent-way.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Regent Way.otf'
 end

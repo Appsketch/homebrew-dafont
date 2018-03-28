@@ -5,7 +5,6 @@ cask 'dafont-wappen' do
     url 'http://dl.dafont.com/dl/?f=wappen'
     name 'Wappen'
     homepage 'http://www.dafont.com/wappen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wappen.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-zilverstone-eye' do
     url 'http://dl.dafont.com/dl/?f=zilverstone_eye'
     name 'Zilverstone Eye'
     homepage 'http://www.dafont.com/zilverstone-eye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zilverstone_eyefs.ttf'
 end

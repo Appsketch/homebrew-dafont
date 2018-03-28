@@ -5,7 +5,6 @@ cask 'dafont-onedirection' do
     url 'http://dl.dafont.com/dl/?f=onedirection'
     name 'One Direction'
     homepage 'http://www.dafont.com/onedirection.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OneDirection.ttf'
 end

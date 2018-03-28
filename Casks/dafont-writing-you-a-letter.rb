@@ -5,7 +5,6 @@ cask 'dafont-writing-you-a-letter' do
     url 'http://dl.dafont.com/dl/?f=writing_you_a_letter'
     name 'Writing You A Letter'
     homepage 'http://www.dafont.com/writing-you-a-letter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Writing_You_A_Letter_update.ttf'
 end

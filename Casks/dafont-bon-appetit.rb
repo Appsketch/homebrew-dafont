@@ -5,7 +5,6 @@ cask 'dafont-bon-appetit' do
     url 'http://dl.dafont.com/dl/?f=bon_appetit'
     name 'Bon Appetit'
     homepage 'http://www.dafont.com/bon-appetit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bon Appetit.ttf'
 end

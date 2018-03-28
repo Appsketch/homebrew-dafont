@@ -5,7 +5,6 @@ cask 'dafont-drako-heart' do
     url 'http://dl.dafont.com/dl/?f=drako_heart'
     name 'Drako Heart'
     homepage 'http://www.dafont.com/drako-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DRAKO HEART.ttf'
 end

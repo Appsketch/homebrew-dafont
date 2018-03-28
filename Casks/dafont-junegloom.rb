@@ -5,7 +5,6 @@ cask 'dafont-junegloom' do
     url 'http://dl.dafont.com/dl/?f=junegloom'
     name 'June Gloom'
     homepage 'http://www.dafont.com/junegloom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JuneGloom.ttf'
 end

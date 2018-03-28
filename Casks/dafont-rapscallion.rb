@@ -5,7 +5,6 @@ cask 'dafont-rapscallion' do
     url 'http://dl.dafont.com/dl/?f=rapscallion'
     name 'Rapscallion'
     homepage 'http://www.dafont.com/rapscallion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RAPSCALL.TTF'
 end

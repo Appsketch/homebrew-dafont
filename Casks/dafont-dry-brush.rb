@@ -5,7 +5,6 @@ cask 'dafont-dry-brush' do
     url 'http://dl.dafont.com/dl/?f=dry_brush'
     name 'Dry Brush'
     homepage 'http://www.dafont.com/dry-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dry Brush.ttf'
 end

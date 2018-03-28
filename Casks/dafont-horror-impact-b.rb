@@ -5,7 +5,6 @@ cask 'dafont-horror-impact-b' do
     url 'http://dl.dafont.com/dl/?f=horror_impact_b'
     name 'Horror Impact B'
     homepage 'http://www.dafont.com/horror-impact-b.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hib__.ttf'
 end

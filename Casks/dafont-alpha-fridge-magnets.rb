@@ -5,7 +5,6 @@ cask 'dafont-alpha-fridge-magnets' do
     url 'http://dl.dafont.com/dl/?f=alpha_fridge_magnets'
     name 'Alpha Fridge Magnets'
     homepage 'http://www.dafont.com/alpha-fridge-magnets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaFridgeMagnets.ttf'
     font 'AlphaFridgeMagnetsAllCaps.ttf'

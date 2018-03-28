@@ -5,7 +5,6 @@ cask 'dafont-brig-maven' do
     url 'http://dl.dafont.com/dl/?f=brig_maven'
     name 'Brig Maven'
     homepage 'http://www.dafont.com/brig-maven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brig Maven.ttf'
 end

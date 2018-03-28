@@ -5,7 +5,6 @@ cask 'dafont-mesa-analog' do
     url 'http://dl.dafont.com/dl/?f=mesa_analog'
     name 'Mesa Analog'
     homepage 'http://www.dafont.com/mesa-analog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mesaam__.ttf'
 end

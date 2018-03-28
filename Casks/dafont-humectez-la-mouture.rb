@@ -5,7 +5,6 @@ cask 'dafont-humectez-la-mouture' do
     url 'http://dl.dafont.com/dl/?f=humectez_la_mouture'
     name 'Humectez La Mouture'
     homepage 'http://www.dafont.com/humectez-la-mouture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Humectez La Mouture.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-syllabus' do
     url 'http://dl.dafont.com/dl/?f=syllabus'
     name 'Syllabus'
     homepage 'http://www.dafont.com/syllabus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Syllabus.ttf'
 end

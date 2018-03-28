@@ -5,7 +5,6 @@ cask 'dafont-gear' do
     url 'http://dl.dafont.com/dl/?f=gear'
     name 'Gear'
     homepage 'http://www.dafont.com/gear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gear Proportion.TTF'
     font 'Gear.TTF'

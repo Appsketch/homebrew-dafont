@@ -5,7 +5,6 @@ cask 'dafont-eight-days-a-week' do
     url 'http://dl.dafont.com/dl/?f=eight_days_a_week'
     name 'Eight Days A Week'
     homepage 'http://www.dafont.com/eight-days-a-week.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eight Days A Week.ttf'
 end

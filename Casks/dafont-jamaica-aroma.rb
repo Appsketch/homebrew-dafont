@@ -5,7 +5,6 @@ cask 'dafont-jamaica-aroma' do
     url 'http://dl.dafont.com/dl/?f=jamaica_aroma'
     name 'Jamaica Aroma'
     homepage 'http://www.dafont.com/jamaica-aroma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jamaica Aroma.ttf'
 end

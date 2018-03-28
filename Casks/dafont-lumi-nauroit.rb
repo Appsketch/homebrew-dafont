@@ -5,7 +5,6 @@ cask 'dafont-lumi-nauroit' do
     url 'http://dl.dafont.com/dl/?f=lumi_nauroit'
     name 'Lumi, nauroit'
     homepage 'http://www.dafont.com/lumi-nauroit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lumi, nauroit.ttf'
 end

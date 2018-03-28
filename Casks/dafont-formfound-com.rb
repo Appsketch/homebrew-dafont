@@ -5,7 +5,6 @@ cask 'dafont-formfound-com' do
     url 'http://dl.dafont.com/dl/?f=formfound_com'
     name 'Formfound.com'
     homepage 'http://www.dafont.com/formfound-com.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'formfoundcom.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-novello-pro' do
     url 'http://dl.dafont.com/dl/?f=novello_pro'
     name 'Novello Pro'
     homepage 'http://www.dafont.com/novello-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Novello_Pro_Bold.otf'
     font 'Novello_Pro_Italic.otf'

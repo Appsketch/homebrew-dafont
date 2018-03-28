@@ -5,7 +5,6 @@ cask 'dafont-gala-script' do
     url 'http://dl.dafont.com/dl/?f=gala_script'
     name 'Gala Script'
     homepage 'http://www.dafont.com/gala-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'galascript.ttf'
 end

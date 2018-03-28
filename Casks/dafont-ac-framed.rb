@@ -5,7 +5,6 @@ cask 'dafont-ac-framed' do
     url 'http://dl.dafont.com/dl/?f=ac_framed'
     name 'AC Framed'
     homepage 'http://www.dafont.com/ac-framed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ACFramed.otf'
     font 'ACFramedInverted.otf'

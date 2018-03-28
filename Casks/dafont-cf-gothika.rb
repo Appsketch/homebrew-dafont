@@ -5,7 +5,6 @@ cask 'dafont-cf-gothika' do
     url 'http://dl.dafont.com/dl/?f=cf_gothika'
     name 'CF Gothika'
     homepage 'http://www.dafont.com/cf-gothika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFGothika-Regular.ttf'
 end

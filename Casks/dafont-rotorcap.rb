@@ -5,7 +5,6 @@ cask 'dafont-rotorcap' do
     url 'http://dl.dafont.com/dl/?f=rotorcap'
     name 'Rotorcap'
     homepage 'http://www.dafont.com/rotorcap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROTORB__.TTF'
     font 'ROTORCAP.TTF'

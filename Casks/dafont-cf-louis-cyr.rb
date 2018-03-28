@@ -5,7 +5,6 @@ cask 'dafont-cf-louis-cyr' do
     url 'http://dl.dafont.com/dl/?f=cf_louis_cyr'
     name 'CF Louis Cyr'
     homepage 'http://www.dafont.com/cf-louis-cyr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFLouisCyrDemo-Regular.ttf'
 end

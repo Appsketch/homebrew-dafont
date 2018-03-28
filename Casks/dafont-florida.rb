@@ -5,7 +5,6 @@ cask 'dafont-florida' do
     url 'http://dl.dafont.com/dl/?f=florida'
     name 'Florida'
     homepage 'http://www.dafont.com/florida.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Florida.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-squizzlie' do
     url 'http://dl.dafont.com/dl/?f=squizzlie'
     name 'Squizzlie'
     homepage 'http://www.dafont.com/squizzlie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SQUIZZLI.TTF'
 end

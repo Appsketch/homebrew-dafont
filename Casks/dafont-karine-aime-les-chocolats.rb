@@ -5,7 +5,6 @@ cask 'dafont-karine-aime-les-chocolats' do
     url 'http://dl.dafont.com/dl/?f=karine_aime_les_chocolats'
     name 'Karine aime les Chocolats'
     homepage 'http://www.dafont.com/karine-aime-les-chocolats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Karine aime les Chocolats.ttf'
 end

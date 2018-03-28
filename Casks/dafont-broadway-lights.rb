@@ -5,7 +5,6 @@ cask 'dafont-broadway-lights' do
     url 'http://dl.dafont.com/dl/?f=broadway_lights'
     name 'Broadway Lights'
     homepage 'http://www.dafont.com/broadway-lights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Broadway lights.ttf'
 end

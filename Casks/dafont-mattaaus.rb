@@ -5,7 +5,6 @@ cask 'dafont-mattaaus' do
     url 'http://dl.dafont.com/dl/?f=mattaaus'
     name 'Mattaaus'
     homepage 'http://www.dafont.com/mattaaus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mattaaus.ttf'
 end

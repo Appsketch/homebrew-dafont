@@ -5,7 +5,6 @@ cask 'dafont-blrrpix-strict' do
     url 'http://dl.dafont.com/dl/?f=blrrpix_strict'
     name 'Blrrpix Strict'
     homepage 'http://www.dafont.com/blrrpix-strict.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blrrpixs016.ttf'
 end

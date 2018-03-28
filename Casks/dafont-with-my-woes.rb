@@ -5,7 +5,6 @@ cask 'dafont-with-my-woes' do
     url 'http://dl.dafont.com/dl/?f=with_my_woes'
     name 'With My Woes'
     homepage 'http://www.dafont.com/with-my-woes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WithMyWoes.ttf'
 end

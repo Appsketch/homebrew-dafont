@@ -5,7 +5,6 @@ cask 'dafont-federico' do
     url 'http://dl.dafont.com/dl/?f=federico'
     name 'Federico'
     homepage 'http://www.dafont.com/federico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FEDERICO.ttf'
 end

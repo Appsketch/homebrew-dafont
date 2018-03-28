@@ -5,7 +5,6 @@ cask 'dafont-redpower' do
     url 'http://dl.dafont.com/dl/?f=redpower'
     name 'Redpower'
     homepage 'http://www.dafont.com/redpower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REDPOWER.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vtks-rude-metal' do
     url 'http://dl.dafont.com/dl/?f=vtks_rude_metal'
     name 'VTKS Rude Metal'
     homepage 'http://www.dafont.com/vtks-rude-metal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks Rude Metal Shadow.ttf'
     font 'vtks Rude Metal.ttf'

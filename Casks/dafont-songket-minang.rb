@@ -5,7 +5,6 @@ cask 'dafont-songket-minang' do
     url 'http://dl.dafont.com/dl/?f=songket_minang'
     name 'Songket Minang'
     homepage 'http://www.dafont.com/songket-minang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SONGKET.ttf'
 end

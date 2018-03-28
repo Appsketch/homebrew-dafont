@@ -5,7 +5,6 @@ cask 'dafont-8-octav' do
     url 'http://dl.dafont.com/dl/?f=8_octav'
     name '8 Octav'
     homepage 'http://www.dafont.com/8-octav.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '8 Octave.ttf'
 end

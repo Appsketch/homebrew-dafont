@@ -5,7 +5,6 @@ cask 'dafont-arrow-crafter' do
     url 'http://dl.dafont.com/dl/?f=arrow_crafter'
     name 'Arrow Crafter'
     homepage 'http://www.dafont.com/arrow-crafter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arrow Crafter.otf'
 end

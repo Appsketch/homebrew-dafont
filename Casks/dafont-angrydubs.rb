@@ -5,7 +5,6 @@ cask 'dafont-angrydubs' do
     url 'http://dl.dafont.com/dl/?f=angrydubs'
     name 'Angrydubs'
     homepage 'http://www.dafont.com/angrydubs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANGRYDUBS.ttf'
 end

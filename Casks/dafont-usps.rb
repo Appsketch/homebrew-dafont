@@ -5,7 +5,6 @@ cask 'dafont-usps' do
     url 'http://dl.dafont.com/dl/?f=usps'
     name 'Postmaster'
     homepage 'http://www.dafont.com/usps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'postmaster.ttf'
     font 'postmaster3d.ttf'

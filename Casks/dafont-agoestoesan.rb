@@ -5,7 +5,6 @@ cask 'dafont-agoestoesan' do
     url 'http://dl.dafont.com/dl/?f=agoestoesan'
     name 'Agoestoesan'
     homepage 'http://www.dafont.com/agoestoesan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'agoestoesan.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vintage-frames3' do
     url 'http://dl.dafont.com/dl/?f=vintage_frames3'
     name 'Vintage Frames'
     homepage 'http://www.dafont.com/vintage-frames3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vintage Frames.ttf'
 end

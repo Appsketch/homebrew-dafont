@@ -5,7 +5,6 @@ cask 'dafont-ithornet' do
     url 'http://dl.dafont.com/dl/?f=ithornet'
     name 'Ithorn&euml;t'
     homepage 'http://www.dafont.com/ithornet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NON COMMERCIAL USE/Ithornt.ttf'
 end

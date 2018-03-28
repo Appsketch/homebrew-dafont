@@ -5,7 +5,6 @@ cask 'dafont-everlasting-song' do
     url 'http://dl.dafont.com/dl/?f=everlasting_song'
     name 'Everlasting Song'
     homepage 'http://www.dafont.com/everlasting-song.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'everlasting song.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-patient-paige' do
     url 'http://dl.dafont.com/dl/?f=patient_paige'
     name 'Patient Paige'
     homepage 'http://www.dafont.com/patient-paige.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Patient Paige.ttf'
 end

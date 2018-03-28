@@ -5,7 +5,6 @@ cask 'dafont-bright-young-things' do
     url 'http://dl.dafont.com/dl/?f=bright_young_things'
     name 'Bright Young Things'
     homepage 'http://www.dafont.com/bright-young-things.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bright Young Things.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-remeslo-std' do
     url 'http://dl.dafont.com/dl/?f=remeslo_std'
     name 'Remeslo STD'
     homepage 'http://www.dafont.com/remeslo-std.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RemesloSTD.otf'
 end

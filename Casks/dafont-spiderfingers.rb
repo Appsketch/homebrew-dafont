@@ -5,7 +5,6 @@ cask 'dafont-spiderfingers' do
     url 'http://dl.dafont.com/dl/?f=spiderfingers'
     name 'Spiderfingers'
     homepage 'http://www.dafont.com/spiderfingers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spiderfingers.ttf'
 end

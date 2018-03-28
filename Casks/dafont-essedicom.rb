@@ -5,7 +5,6 @@ cask 'dafont-essedicom' do
     url 'http://dl.dafont.com/dl/?f=essedicom'
     name 'Essedicom'
     homepage 'http://www.dafont.com/essedicom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'essedicom.ttf'
 end

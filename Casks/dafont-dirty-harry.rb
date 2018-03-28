@@ -5,7 +5,6 @@ cask 'dafont-dirty-harry' do
     url 'http://dl.dafont.com/dl/?f=dirty_harry'
     name 'Dirty Harry'
     homepage 'http://www.dafont.com/dirty-harry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dirty Harry.ttf'
 end

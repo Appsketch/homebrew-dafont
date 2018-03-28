@@ -5,7 +5,6 @@ cask 'dafont-mexican-pride' do
     url 'http://dl.dafont.com/dl/?f=mexican_pride'
     name 'Mexican Pride'
     homepage 'http://www.dafont.com/mexican-pride.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mexican-pride-by-aspekhndz.ttf'
 end

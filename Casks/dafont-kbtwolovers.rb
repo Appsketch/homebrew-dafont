@@ -5,7 +5,6 @@ cask 'dafont-kbtwolovers' do
     url 'http://dl.dafont.com/dl/?f=kbtwolovers'
     name 'KB Two Lovers'
     homepage 'http://www.dafont.com/kbtwolovers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBTwoLovers.ttf'
 end

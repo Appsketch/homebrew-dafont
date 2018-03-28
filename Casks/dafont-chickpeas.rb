@@ -5,7 +5,6 @@ cask 'dafont-chickpeas' do
     url 'http://dl.dafont.com/dl/?f=chickpeas'
     name 'Chickpeas'
     homepage 'http://www.dafont.com/chickpeas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chickpeas demo.ttf'
 end

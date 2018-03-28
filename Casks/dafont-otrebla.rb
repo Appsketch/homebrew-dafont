@@ -5,7 +5,6 @@ cask 'dafont-otrebla' do
     url 'http://dl.dafont.com/dl/?f=otrebla'
     name 'Otrebla'
     homepage 'http://www.dafont.com/otrebla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Otrebla.ttf'
 end

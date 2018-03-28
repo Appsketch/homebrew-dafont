@@ -5,7 +5,6 @@ cask 'dafont-diamondlux' do
     url 'http://dl.dafont.com/dl/?f=diamondlux'
     name 'Diamond Lux'
     homepage 'http://www.dafont.com/diamondlux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DiamondLux.ttf'
 end

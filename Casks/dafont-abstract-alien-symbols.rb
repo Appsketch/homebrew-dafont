@@ -5,7 +5,6 @@ cask 'dafont-abstract-alien-symbols' do
     url 'http://dl.dafont.com/dl/?f=abstract_alien_symbols'
     name 'Abstract Alien Symbols'
     homepage 'http://www.dafont.com/abstract-alien-symbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aliens.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-trainstation' do
     url 'http://dl.dafont.com/dl/?f=trainstation'
     name 'Train Station'
     homepage 'http://www.dafont.com/trainstation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TrainStation.ttf'
 end

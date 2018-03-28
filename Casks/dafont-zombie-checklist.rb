@@ -5,7 +5,6 @@ cask 'dafont-zombie-checklist' do
     url 'http://dl.dafont.com/dl/?f=zombie_checklist'
     name 'Zombie Checklist'
     homepage 'http://www.dafont.com/zombie-checklist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZombieChecklistV2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-apollyon' do
     url 'http://dl.dafont.com/dl/?f=apollyon'
     name 'Apollyon'
     homepage 'http://www.dafont.com/apollyon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'apollyon.ttf'
 end

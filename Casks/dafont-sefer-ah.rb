@@ -5,7 +5,6 @@ cask 'dafont-sefer-ah' do
     url 'http://dl.dafont.com/dl/?f=sefer_ah'
     name 'Sefer AH'
     homepage 'http://www.dafont.com/sefer-ah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sefer.ttf'
 end

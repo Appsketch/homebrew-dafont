@@ -5,7 +5,6 @@ cask 'dafont-im-fell-types' do
     url 'http://dl.dafont.com/dl/?f=im_fell_types'
     name 'IM Fell Types'
     homepage 'http://www.dafont.com/im-fell-types.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IM Fell Double Pica/FeDPit2.ttf'
     font 'IM Fell Double Pica/FeDPrm2.ttf'

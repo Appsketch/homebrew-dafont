@@ -5,7 +5,6 @@ cask 'dafont-readymade' do
     url 'http://dl.dafont.com/dl/?f=readymade'
     name 'Ready Made'
     homepage 'http://www.dafont.com/readymade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ReadyMade.ttf'
 end

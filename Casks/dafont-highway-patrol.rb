@@ -5,7 +5,6 @@ cask 'dafont-highway-patrol' do
     url 'http://dl.dafont.com/dl/?f=highway_patrol'
     name 'Highway Patrol'
     homepage 'http://www.dafont.com/highway-patrol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HIGHWAY PATROL.ttf'
 end

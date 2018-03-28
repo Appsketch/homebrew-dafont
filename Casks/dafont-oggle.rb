@@ -5,7 +5,6 @@ cask 'dafont-oggle' do
     url 'http://dl.dafont.com/dl/?f=oggle'
     name 'Oggle'
     homepage 'http://www.dafont.com/oggle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OGGLE___.TTF'
     font 'TOGGLE__.TTF'

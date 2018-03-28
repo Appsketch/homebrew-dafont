@@ -5,7 +5,6 @@ cask 'dafont-djb-dear-mr-claus' do
     url 'http://dl.dafont.com/dl/?f=djb_dear_mr_claus'
     name 'DJB Dear Mr Claus'
     homepage 'http://www.dafont.com/djb-dear-mr-claus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Dear Mr Claus.ttf'
 end

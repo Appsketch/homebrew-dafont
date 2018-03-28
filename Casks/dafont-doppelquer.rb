@@ -5,7 +5,6 @@ cask 'dafont-doppelquer' do
     url 'http://dl.dafont.com/dl/?f=doppelquer'
     name 'Doppelquer'
     homepage 'http://www.dafont.com/doppelquer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doppelquer.ttf'
 end

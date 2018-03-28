@@ -5,7 +5,6 @@ cask 'dafont-ini-budi' do
     url 'http://dl.dafont.com/dl/?f=ini_budi'
     name 'Ini Budi'
     homepage 'http://www.dafont.com/ini-budi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INI-BUDI.ttf'
 end

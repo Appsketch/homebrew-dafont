@@ -5,7 +5,6 @@ cask 'dafont-superbly' do
     url 'http://dl.dafont.com/dl/?f=superbly'
     name 'Superbly'
     homepage 'http://www.dafont.com/superbly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPERBLY1001.TTF'
     font 'SUPERBLY1002.TTF'

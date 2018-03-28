@@ -5,7 +5,6 @@ cask 'dafont-simulata' do
     url 'http://dl.dafont.com/dl/?f=simulata'
     name 'Simulata'
     homepage 'http://www.dafont.com/simulata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simulata.otf'
 end

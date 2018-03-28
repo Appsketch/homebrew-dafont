@@ -5,7 +5,6 @@ cask 'dafont-valu-old-caps' do
     url 'http://dl.dafont.com/dl/?f=valu_old_caps'
     name 'Valu Old Caps'
     homepage 'http://www.dafont.com/valu-old-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'valuoldcaps.ttf'
 end

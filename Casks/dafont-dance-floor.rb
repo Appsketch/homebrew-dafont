@@ -5,7 +5,6 @@ cask 'dafont-dance-floor' do
     url 'http://dl.dafont.com/dl/?f=dance_floor'
     name 'Dance Floor'
     homepage 'http://www.dafont.com/dance-floor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DanceFloor.ttf'
 end

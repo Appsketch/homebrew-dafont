@@ -5,7 +5,6 @@ cask 'dafont-culita' do
     url 'http://dl.dafont.com/dl/?f=culita'
     name 'Culita'
     homepage 'http://www.dafont.com/culita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'culita.ttf'
 end

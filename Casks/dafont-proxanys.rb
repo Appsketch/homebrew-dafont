@@ -5,7 +5,6 @@ cask 'dafont-proxanys' do
     url 'http://dl.dafont.com/dl/?f=proxanys'
     name 'Proxanys'
     homepage 'http://www.dafont.com/proxanys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Proxanys.ttf'
 end

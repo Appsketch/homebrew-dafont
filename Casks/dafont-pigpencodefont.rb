@@ -5,7 +5,6 @@ cask 'dafont-pigpencodefont' do
     url 'http://dl.dafont.com/dl/?f=pigpencodefont'
     name 'PigPen Code Font'
     homepage 'http://www.dafont.com/pigpencodefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PigPenCodeFont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mop-top' do
     url 'http://dl.dafont.com/dl/?f=mop_top'
     name 'Mop Top'
     homepage 'http://www.dafont.com/mop-top.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MopTop.ttf'
 end

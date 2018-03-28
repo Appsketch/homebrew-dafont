@@ -5,7 +5,6 @@ cask 'dafont-zilluncial' do
     url 'http://dl.dafont.com/dl/?f=zilluncial'
     name 'Zilluncial'
     homepage 'http://www.dafont.com/zilluncial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zilluncial.TTF'
 end

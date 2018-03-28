@@ -5,7 +5,6 @@ cask 'dafont-lightdot-11x6' do
     url 'http://dl.dafont.com/dl/?f=lightdot_11x6'
     name 'Lightdot 11x6'
     homepage 'http://www.dafont.com/lightdot-11x6.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lightdot-11x6.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mecha-cf' do
     url 'http://dl.dafont.com/dl/?f=mecha_cf'
     name 'Mecha'
     homepage 'http://www.dafont.com/mecha-cf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mecha_Bold.ttf'
     font 'Mecha_Condensed_Bold.ttf'

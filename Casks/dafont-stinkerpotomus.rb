@@ -5,7 +5,6 @@ cask 'dafont-stinkerpotomus' do
     url 'http://dl.dafont.com/dl/?f=stinkerpotomus'
     name 'Stinkerpotomus'
     homepage 'http://www.dafont.com/stinkerpotomus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stinkerpotomus.ttf'
 end

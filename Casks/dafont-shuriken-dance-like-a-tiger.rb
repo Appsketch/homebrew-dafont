@@ -5,7 +5,6 @@ cask 'dafont-shuriken-dance-like-a-tiger' do
     url 'http://dl.dafont.com/dl/?f=shuriken_dance_like_a_tiger'
     name 'Shuriken dance like a Tiger'
     homepage 'http://www.dafont.com/shuriken-dance-like-a-tiger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShurikendancelikeaTiger.ttf'
 end

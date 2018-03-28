@@ -5,7 +5,6 @@ cask 'dafont-jesterday-demo' do
     url 'http://dl.dafont.com/dl/?f=jesterday_demo'
     name 'Jesterday'
     homepage 'http://www.dafont.com/jesterday-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JesterdayDemo.otf'
 end

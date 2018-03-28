@@ -5,7 +5,6 @@ cask 'dafont-smargana' do
     url 'http://dl.dafont.com/dl/?f=smargana'
     name 'Smargana'
     homepage 'http://www.dafont.com/smargana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'smard___.ttf'
     font 'smarw___.ttf'

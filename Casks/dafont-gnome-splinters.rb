@@ -5,7 +5,6 @@ cask 'dafont-gnome-splinters' do
     url 'http://dl.dafont.com/dl/?f=gnome_splinters'
     name 'Gnome Splinters'
     homepage 'http://www.dafont.com/gnome-splinters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gnome_splinters.ttf'
 end

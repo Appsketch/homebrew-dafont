@@ -5,7 +5,6 @@ cask 'dafont-handdrawn-pipe' do
     url 'http://dl.dafont.com/dl/?f=handdrawn_pipe'
     name 'Handdrawn Pipe'
     homepage 'http://www.dafont.com/handdrawn-pipe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HanddrawnPipe-Regular.otf'
     font 'HanddrawnPipeX-Regular.otf'

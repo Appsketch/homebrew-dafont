@@ -5,7 +5,6 @@ cask 'dafont-plague-death' do
     url 'http://dl.dafont.com/dl/?f=plague_death'
     name 'Plague Death'
     homepage 'http://www.dafont.com/plague-death.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PlAGuEdEaTH.ttf'
 end

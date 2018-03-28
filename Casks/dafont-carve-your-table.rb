@@ -5,7 +5,6 @@ cask 'dafont-carve-your-table' do
     url 'http://dl.dafont.com/dl/?f=carve_your_table'
     name 'Carve Your Table'
     homepage 'http://www.dafont.com/carve-your-table.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carve Your Table.ttf'
 end

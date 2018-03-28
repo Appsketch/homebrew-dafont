@@ -5,7 +5,6 @@ cask 'dafont-resurrection' do
     url 'http://dl.dafont.com/dl/?f=resurrection'
     name 'Resurrection'
     homepage 'http://www.dafont.com/resurrection.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RESURREC.TTF'
 end

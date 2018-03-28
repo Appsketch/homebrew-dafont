@@ -5,7 +5,6 @@ cask 'dafont-deutschische' do
     url 'http://dl.dafont.com/dl/?f=deutschische'
     name 'Deutschische'
     homepage 'http://www.dafont.com/deutschische.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deutschische.otf'
 end

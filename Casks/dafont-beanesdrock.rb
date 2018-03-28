@@ -5,7 +5,6 @@ cask 'dafont-beanesdrock' do
     url 'http://dl.dafont.com/dl/?f=beanesdrock'
     name 'Beanesdrock'
     homepage 'http://www.dafont.com/beanesdrock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beanesdrock.ttf'
 end

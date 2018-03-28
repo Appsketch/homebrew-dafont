@@ -5,7 +5,6 @@ cask 'dafont-dennes-aliens' do
     url 'http://dl.dafont.com/dl/?f=dennes_aliens'
     name 'Denne&#039;s Aliens'
     homepage 'http://www.dafont.com/dennes-aliens.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DenneAliens.ttf'
 end

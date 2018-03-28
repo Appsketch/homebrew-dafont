@@ -5,7 +5,6 @@ cask 'dafont-cooking-set' do
     url 'http://dl.dafont.com/dl/?f=cooking_set'
     name 'Cooking Set'
     homepage 'http://www.dafont.com/cooking-set.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CookingSet.ttf'
 end

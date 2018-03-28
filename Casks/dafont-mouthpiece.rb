@@ -5,7 +5,6 @@ cask 'dafont-mouthpiece' do
     url 'http://dl.dafont.com/dl/?f=mouthpiece'
     name 'Mouthpiece'
     homepage 'http://www.dafont.com/mouthpiece.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mouthpiece_FREE_FOR_PERSONAL_USE_ONLY.ttf'
 end

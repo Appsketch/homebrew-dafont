@@ -5,7 +5,6 @@ cask 'dafont-yeseva-one' do
     url 'http://dl.dafont.com/dl/?f=yeseva_one'
     name 'Yeseva One'
     homepage 'http://www.dafont.com/yeseva-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YesevaOne-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-radioaktivitet' do
     url 'http://dl.dafont.com/dl/?f=radioaktivitet'
     name 'Radioaktivitet'
     homepage 'http://www.dafont.com/radioaktivitet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RADIOAKTIVITET.TTF'
 end

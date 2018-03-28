@@ -5,7 +5,6 @@ cask 'dafont-cousin' do
     url 'http://dl.dafont.com/dl/?f=cousin'
     name 'Cousin'
     homepage 'http://www.dafont.com/cousin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cousin.ttf'
 end

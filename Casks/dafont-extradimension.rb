@@ -5,7 +5,6 @@ cask 'dafont-extradimension' do
     url 'http://dl.dafont.com/dl/?f=extradimension'
     name 'Extra Dimension'
     homepage 'http://www.dafont.com/extradimension.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExtraDimension.ttf'
 end

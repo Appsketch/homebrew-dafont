@@ -5,7 +5,6 @@ cask 'dafont-ground-control' do
     url 'http://dl.dafont.com/dl/?f=ground_control'
     name 'Ground Control'
     homepage 'http://www.dafont.com/ground-control.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GroundControl_FREE_FOR_PERSONAL_USE_ONLY.ttf'
 end

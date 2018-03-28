@@ -5,7 +5,6 @@ cask 'dafont-defonte' do
     url 'http://dl.dafont.com/dl/?f=defonte'
     name 'DeFonte'
     homepage 'http://www.dafont.com/defonte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeFonteDemiGras.ttf'
     font 'DeFonteGros.ttf'

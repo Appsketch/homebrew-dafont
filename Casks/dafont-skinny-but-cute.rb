@@ -5,7 +5,6 @@ cask 'dafont-skinny-but-cute' do
     url 'http://dl.dafont.com/dl/?f=skinny_but_cute'
     name 'Skinny But Cute'
     homepage 'http://www.dafont.com/skinny-but-cute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skinny But Cute.ttf'
 end

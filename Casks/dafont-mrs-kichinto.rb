@@ -5,7 +5,6 @@ cask 'dafont-mrs-kichinto' do
     url 'http://dl.dafont.com/dl/?f=mrs_kichinto'
     name 'Mrs Kichinto'
     homepage 'http://www.dafont.com/mrs-kichinto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mrs_Kichinto_6px.ttf'
 end

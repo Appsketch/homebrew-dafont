@@ -5,7 +5,6 @@ cask 'dafont-acogessic' do
     url 'http://dl.dafont.com/dl/?f=acogessic'
     name 'Acogessic'
     homepage 'http://www.dafont.com/acogessic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'acogessic.ttf'
 end

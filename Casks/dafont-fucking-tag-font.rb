@@ -5,7 +5,6 @@ cask 'dafont-fucking-tag-font' do
     url 'http://dl.dafont.com/dl/?f=fucking_tag_font'
     name 'Fucking Tag'
     homepage 'http://www.dafont.com/fucking-tag-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fucking tag font.ttf'
 end

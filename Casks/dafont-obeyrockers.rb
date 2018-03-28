@@ -5,7 +5,6 @@ cask 'dafont-obeyrockers' do
     url 'http://dl.dafont.com/dl/?f=obeyrockers'
     name 'Obey Rockers'
     homepage 'http://www.dafont.com/obeyrockers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ObeyRockers_caps.ttf'
 end

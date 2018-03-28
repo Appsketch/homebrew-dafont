@@ -5,7 +5,6 @@ cask 'dafont-marker-sd' do
     url 'http://dl.dafont.com/dl/?f=marker_sd'
     name 'Marker SD'
     homepage 'http://www.dafont.com/marker-sd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marker SD Italic.ttf'
     font 'Marker SD.ttf'

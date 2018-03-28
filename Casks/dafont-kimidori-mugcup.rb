@@ -5,7 +5,6 @@ cask 'dafont-kimidori-mugcup' do
     url 'http://dl.dafont.com/dl/?f=kimidori_mugcup'
     name 'Kimidori Mugcup'
     homepage 'http://www.dafont.com/kimidori-mugcup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kimidori mugcup.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nuevodisco' do
     url 'http://dl.dafont.com/dl/?f=nuevodisco'
     name 'Nuevo Disco'
     homepage 'http://www.dafont.com/nuevodisco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NuevoDisco.ttf'
 end

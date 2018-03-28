@@ -5,7 +5,6 @@ cask 'dafont-zagreb-underground' do
     url 'http://dl.dafont.com/dl/?f=_zagreb_underground'
     name 'Zagreb Underground'
     homepage 'http://www.dafont.com/-zagreb-underground.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zagreb_underground.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-graffont' do
     url 'http://dl.dafont.com/dl/?f=graffont'
     name 'Graffont'
     homepage 'http://www.dafont.com/graffont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'graffont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cardenio-modern' do
     url 'http://dl.dafont.com/dl/?f=cardenio_modern'
     name 'Cardenio Modern'
     homepage 'http://www.dafont.com/cardenio-modern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cardenio Modern Bold.ttf'
     font 'Cardenio Modern Std.ttf'

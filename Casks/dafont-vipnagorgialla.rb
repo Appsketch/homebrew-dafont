@@ -5,7 +5,6 @@ cask 'dafont-vipnagorgialla' do
     url 'http://dl.dafont.com/dl/?f=vipnagorgialla'
     name 'Vipnagorgialla'
     homepage 'http://www.dafont.com/vipnagorgialla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vipnagorgialla.ttf'
 end

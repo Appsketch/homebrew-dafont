@@ -5,7 +5,6 @@ cask 'dafont-scab' do
     url 'http://dl.dafont.com/dl/?f=scab'
     name 'Scab'
     homepage 'http://www.dafont.com/scab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scab.ttf'
 end

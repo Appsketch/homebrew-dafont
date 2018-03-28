@@ -5,7 +5,6 @@ cask 'dafont-trinigan-fg' do
     url 'http://dl.dafont.com/dl/?f=trinigan_fg'
     name 'Trinigan FG'
     homepage 'http://www.dafont.com/trinigan-fg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trinigan.ttf'
 end

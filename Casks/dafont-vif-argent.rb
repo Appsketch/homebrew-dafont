@@ -5,7 +5,6 @@ cask 'dafont-vif-argent' do
     url 'http://dl.dafont.com/dl/?f=vif_argent'
     name 'Vif Argent'
     homepage 'http://www.dafont.com/vif-argent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vif Argent.ttf'
 end

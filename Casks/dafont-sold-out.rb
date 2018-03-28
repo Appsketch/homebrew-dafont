@@ -5,7 +5,6 @@ cask 'dafont-sold-out' do
     url 'http://dl.dafont.com/dl/?f=sold_out'
     name 'Sold out'
     homepage 'http://www.dafont.com/sold-out.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sold out.ttf'
 end

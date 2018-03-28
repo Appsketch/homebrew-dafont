@@ -5,7 +5,6 @@ cask 'dafont-stardancing' do
     url 'http://dl.dafont.com/dl/?f=stardancing'
     name 'Star Dancing'
     homepage 'http://www.dafont.com/stardancing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StarDancing.ttf'
 end

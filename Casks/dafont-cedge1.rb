@@ -5,7 +5,6 @@ cask 'dafont-cedge1' do
     url 'http://dl.dafont.com/dl/?f=cedge1'
     name 'Cedge 1'
     homepage 'http://www.dafont.com/cedge1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cedge1.ttf'
 end

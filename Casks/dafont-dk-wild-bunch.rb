@@ -5,7 +5,6 @@ cask 'dafont-dk-wild-bunch' do
     url 'http://dl.dafont.com/dl/?f=dk_wild_bunch'
     name 'DK Wild Bunch'
     homepage 'http://www.dafont.com/dk-wild-bunch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Wild Bunch.otf'
 end

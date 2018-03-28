@@ -5,7 +5,6 @@ cask 'dafont-ventura-edding' do
     url 'http://dl.dafont.com/dl/?f=ventura_edding'
     name 'Ventura Edding'
     homepage 'http://www.dafont.com/ventura-edding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ventura_Edding_Bold.otf'
     font 'Ventura_Edding.otf'

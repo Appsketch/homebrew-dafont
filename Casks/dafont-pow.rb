@@ -5,7 +5,6 @@ cask 'dafont-pow' do
     url 'http://dl.dafont.com/dl/?f=pow'
     name 'Pow'
     homepage 'http://www.dafont.com/pow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pow.ttf'
 end

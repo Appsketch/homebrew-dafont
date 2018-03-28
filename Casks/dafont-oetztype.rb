@@ -5,7 +5,6 @@ cask 'dafont-oetztype' do
     url 'http://dl.dafont.com/dl/?f=oetztype'
     name 'Oetztype'
     homepage 'http://www.dafont.com/oetztype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OETZTYP_.TTF'
 end

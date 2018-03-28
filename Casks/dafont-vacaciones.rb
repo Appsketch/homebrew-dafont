@@ -5,7 +5,6 @@ cask 'dafont-vacaciones' do
     url 'http://dl.dafont.com/dl/?f=vacaciones'
     name 'Vacaciones'
     homepage 'http://www.dafont.com/vacaciones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vacaciones-font-ffp-defharo.ttf'
 end

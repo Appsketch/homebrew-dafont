@@ -5,7 +5,6 @@ cask 'dafont-katy-berry' do
     url 'http://dl.dafont.com/dl/?f=katy_berry'
     name 'Katy Berry'
     homepage 'http://www.dafont.com/katy-berry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kberry.ttf'
 end

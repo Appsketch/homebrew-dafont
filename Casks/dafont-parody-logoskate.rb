@@ -5,7 +5,6 @@ cask 'dafont-parody-logoskate' do
     url 'http://dl.dafont.com/dl/?f=parody_logoskate'
     name 'Parody Logoskate'
     homepage 'http://www.dafont.com/parody-logoskate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PARODY_LOGOSKATE.ttf'
 end

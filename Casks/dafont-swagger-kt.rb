@@ -5,7 +5,6 @@ cask 'dafont-swagger-kt' do
     url 'http://dl.dafont.com/dl/?f=swagger_kt'
     name 'Swagger'
     homepage 'http://www.dafont.com/swagger-kt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swagger.ttf'
     font 'SwaggerBold.ttf'

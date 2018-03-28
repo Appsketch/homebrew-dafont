@@ -5,7 +5,6 @@ cask 'dafont-annbrush' do
     url 'http://dl.dafont.com/dl/?f=annbrush'
     name 'Ann Brush'
     homepage 'http://www.dafont.com/annbrush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnnBrush.ttf'
 end

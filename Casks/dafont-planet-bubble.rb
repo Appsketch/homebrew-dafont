@@ -5,7 +5,6 @@ cask 'dafont-planet-bubble' do
     url 'http://dl.dafont.com/dl/?f=planet_bubble'
     name 'Planet Bubble'
     homepage 'http://www.dafont.com/planet-bubble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLANB___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-creaky-frank' do
     url 'http://dl.dafont.com/dl/?f=creaky_frank'
     name 'Creaky Frank'
     homepage 'http://www.dafont.com/creaky-frank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CreakyFrank.ttf'
 end

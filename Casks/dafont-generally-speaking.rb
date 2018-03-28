@@ -5,7 +5,6 @@ cask 'dafont-generally-speaking' do
     url 'http://dl.dafont.com/dl/?f=generally_speaking'
     name 'Generally Speaking'
     homepage 'http://www.dafont.com/generally-speaking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Generally Speaking Alternate Endcaps.ttf'
     font 'Generally Speaking.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-jd-persegi' do
     url 'http://dl.dafont.com/dl/?f=jd_persegi'
     name 'JD Persegi'
     homepage 'http://www.dafont.com/jd-persegi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JD-Persegi.ttf'
 end

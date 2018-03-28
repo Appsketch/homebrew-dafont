@@ -5,7 +5,6 @@ cask 'dafont-ecran-monochrome' do
     url 'http://dl.dafont.com/dl/?f=ecran_monochrome'
     name '&Eacute;cran Monochrome'
     homepage 'http://www.dafont.com/ecran-monochrome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ecran-monochrome---monochrome-display.ttf'
 end

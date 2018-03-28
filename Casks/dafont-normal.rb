@@ -5,7 +5,6 @@ cask 'dafont-normal' do
     url 'http://dl.dafont.com/dl/?f=normal'
     name 'Normal'
     homepage 'http://www.dafont.com/normal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NORMAL__.otf'
 end

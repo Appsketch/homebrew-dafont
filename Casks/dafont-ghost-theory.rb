@@ -5,7 +5,6 @@ cask 'dafont-ghost-theory' do
     url 'http://dl.dafont.com/dl/?f=ghost_theory'
     name 'Ghost Theory'
     homepage 'http://www.dafont.com/ghost-theory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ghost theory 1.ttf'
     font 'Ghost theory 2.ttf'

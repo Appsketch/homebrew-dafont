@@ -5,7 +5,6 @@ cask 'dafont-forgotten-junk' do
     url 'http://dl.dafont.com/dl/?f=forgotten_junk'
     name 'Forgotten Junk'
     homepage 'http://www.dafont.com/forgotten-junk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Forgotten Junk.ttf'
 end

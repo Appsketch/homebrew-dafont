@@ -5,7 +5,6 @@ cask 'dafont-victualia' do
     url 'http://dl.dafont.com/dl/?f=victualia'
     name 'Victualia'
     homepage 'http://www.dafont.com/victualia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dawnland.victualia.ttf'
 end

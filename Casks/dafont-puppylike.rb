@@ -5,7 +5,6 @@ cask 'dafont-puppylike' do
     url 'http://dl.dafont.com/dl/?f=puppylike'
     name 'Puppylike'
     homepage 'http://www.dafont.com/puppylike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Puppy___.ttf'
 end

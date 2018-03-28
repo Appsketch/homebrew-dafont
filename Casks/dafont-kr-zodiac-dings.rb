@@ -5,7 +5,6 @@ cask 'dafont-kr-zodiac-dings' do
     url 'http://dl.dafont.com/dl/?f=kr_zodiac_dings'
     name 'KR Zodiac Dings'
     homepage 'http://www.dafont.com/kr-zodiac-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Zodiac Dings.ttf'
 end

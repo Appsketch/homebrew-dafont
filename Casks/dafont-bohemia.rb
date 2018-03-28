@@ -5,7 +5,6 @@ cask 'dafont-bohemia' do
     url 'http://dl.dafont.com/dl/?f=bohemia'
     name 'Bohemia'
     homepage 'http://www.dafont.com/bohemia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bohemia.TTF'
 end

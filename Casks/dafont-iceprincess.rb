@@ -5,7 +5,6 @@ cask 'dafont-iceprincess' do
     url 'http://dl.dafont.com/dl/?f=iceprincess'
     name 'Ice Princess'
     homepage 'http://www.dafont.com/iceprincess.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IcePrincess.ttf'
 end

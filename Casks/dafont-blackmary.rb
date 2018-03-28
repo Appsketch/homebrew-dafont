@@ -5,7 +5,6 @@ cask 'dafont-blackmary' do
     url 'http://dl.dafont.com/dl/?f=blackmary'
     name 'BlackMary'
     homepage 'http://www.dafont.com/blackmary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackMary.ttf'
 end

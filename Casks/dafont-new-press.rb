@@ -5,7 +5,6 @@ cask 'dafont-new-press' do
     url 'http://dl.dafont.com/dl/?f=new_press'
     name 'New Press'
     homepage 'http://www.dafont.com/new-press.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NewPress.otf'
 end

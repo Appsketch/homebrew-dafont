@@ -5,7 +5,6 @@ cask 'dafont-maria' do
     url 'http://dl.dafont.com/dl/?f=maria'
     name 'Maria'
     homepage 'http://www.dafont.com/maria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maria_by_KreativFont.com.ttf'
 end

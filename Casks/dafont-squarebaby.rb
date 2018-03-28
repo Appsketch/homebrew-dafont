@@ -5,7 +5,6 @@ cask 'dafont-squarebaby' do
     url 'http://dl.dafont.com/dl/?f=squarebaby'
     name 'Square Baby'
     homepage 'http://www.dafont.com/squarebaby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SQUAREBABY.ttf'
 end

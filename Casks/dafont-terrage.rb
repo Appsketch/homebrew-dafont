@@ -5,7 +5,6 @@ cask 'dafont-terrage' do
     url 'http://dl.dafont.com/dl/?f=terrage'
     name 'Terrage'
     homepage 'http://www.dafont.com/terrage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'terrage.ttf'
 end

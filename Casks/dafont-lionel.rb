@@ -5,7 +5,6 @@ cask 'dafont-lionel' do
     url 'http://dl.dafont.com/dl/?f=lionel'
     name 'Lionel'
     homepage 'http://www.dafont.com/lionel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lionel.ttf'
     font 'lionela.ttf'

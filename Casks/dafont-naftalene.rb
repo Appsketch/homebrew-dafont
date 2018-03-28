@@ -5,7 +5,6 @@ cask 'dafont-naftalene' do
     url 'http://dl.dafont.com/dl/?f=naftalene'
     name 'Naftalene'
     homepage 'http://www.dafont.com/naftalene.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'naftalene.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-star-hound' do
     url 'http://dl.dafont.com/dl/?f=star_hound'
     name 'Star Hound'
     homepage 'http://www.dafont.com/star-hound.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Star-Hnd.ttf'
 end

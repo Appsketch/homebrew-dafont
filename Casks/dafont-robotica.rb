@@ -5,7 +5,6 @@ cask 'dafont-robotica' do
     url 'http://dl.dafont.com/dl/?f=robotica'
     name 'Robotica'
     homepage 'http://www.dafont.com/robotica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROBOTICA.TTF'
 end

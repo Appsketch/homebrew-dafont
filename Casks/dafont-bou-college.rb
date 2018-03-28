@@ -5,7 +5,6 @@ cask 'dafont-bou-college' do
     url 'http://dl.dafont.com/dl/?f=bou_college'
     name 'Bou College'
     homepage 'http://www.dafont.com/bou-college.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BouCollege.ttf'
 end

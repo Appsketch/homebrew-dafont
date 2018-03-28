@@ -5,7 +5,6 @@ cask 'dafont-dpoly' do
     url 'http://dl.dafont.com/dl/?f=dpoly'
     name 'dPoly'
     homepage 'http://www.dafont.com/dpoly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DPoly Eight-Sider.otf'
     font 'DPoly Four-Sider.otf'

@@ -5,7 +5,6 @@ cask 'dafont-quer' do
     url 'http://dl.dafont.com/dl/?f=quer'
     name 'Quer'
     homepage 'http://www.dafont.com/quer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUER____.TTF'
 end

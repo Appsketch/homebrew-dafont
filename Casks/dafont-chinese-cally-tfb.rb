@@ -5,7 +5,6 @@ cask 'dafont-chinese-cally-tfb' do
     url 'http://dl.dafont.com/dl/?f=chinese_cally_tfb'
     name 'Chinese Cally TFB'
     homepage 'http://www.dafont.com/chinese-cally-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chinese Cally TFB.ttf'
 end

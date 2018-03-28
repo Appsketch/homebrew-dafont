@@ -5,7 +5,6 @@ cask 'dafont-ds-digital' do
     url 'http://dl.dafont.com/dl/?f=ds_digital'
     name 'DS-Digital'
     homepage 'http://www.dafont.com/ds-digital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DS-DIGI.TTF'
     font 'DS-DIGIB.TTF'

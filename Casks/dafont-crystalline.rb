@@ -5,7 +5,6 @@ cask 'dafont-crystalline' do
     url 'http://dl.dafont.com/dl/?f=crystalline'
     name 'Crystalline'
     homepage 'http://www.dafont.com/crystalline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrystallineNegative.ttf'
     font 'CrystallineOutline.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-jasna-p' do
     url 'http://dl.dafont.com/dl/?f=jasna_p'
     name 'Jasna P'
     homepage 'http://www.dafont.com/jasna-p.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JASNA_P_.TTF'
 end

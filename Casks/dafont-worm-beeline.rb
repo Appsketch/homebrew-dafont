@@ -5,7 +5,6 @@ cask 'dafont-worm-beeline' do
     url 'http://dl.dafont.com/dl/?f=worm_beeline'
     name 'Worm Beeline'
     homepage 'http://www.dafont.com/worm-beeline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WormBeeline.ttf'
 end

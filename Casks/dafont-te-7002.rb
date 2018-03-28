@@ -5,7 +5,6 @@ cask 'dafont-te-7002' do
     url 'http://dl.dafont.com/dl/?f=te_7002'
     name 'TE-700.2'
     homepage 'http://www.dafont.com/te-7002.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TE-7002.ttf'
 end

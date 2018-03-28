@@ -5,7 +5,6 @@ cask 'dafont-expletive-deleted' do
     url 'http://dl.dafont.com/dl/?f=expletive_deleted'
     name 'Expletive Deleted'
     homepage 'http://www.dafont.com/expletive-deleted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExpletiveDeleted.ttf'
 end

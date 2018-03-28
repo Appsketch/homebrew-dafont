@@ -5,7 +5,6 @@ cask 'dafont-always-take-a-bath-and-dont-be-stinky' do
     url 'http://dl.dafont.com/dl/?f=always_take_a_bath_and_dont_be_stinky'
     name 'Always take a bath, and don&#039;t be stinky'
     homepage 'http://www.dafont.com/always-take-a-bath-and-dont-be-stinky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Always take a bath, and don&#039;t be stinky.ttf'
 end

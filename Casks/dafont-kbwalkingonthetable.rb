@@ -5,7 +5,6 @@ cask 'dafont-kbwalkingonthetable' do
     url 'http://dl.dafont.com/dl/?f=kbwalkingonthetable'
     name 'KB Walking on the Table'
     homepage 'http://www.dafont.com/kbwalkingonthetable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBWalkingontheTable.ttf'
 end

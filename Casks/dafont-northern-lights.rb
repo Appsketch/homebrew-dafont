@@ -5,7 +5,6 @@ cask 'dafont-northern-lights' do
     url 'http://dl.dafont.com/dl/?f=northern_lights'
     name 'Northern Lights'
     homepage 'http://www.dafont.com/northern-lights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Northern Lights.ttf'
 end

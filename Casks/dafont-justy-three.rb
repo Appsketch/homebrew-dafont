@@ -5,7 +5,6 @@ cask 'dafont-justy-three' do
     url 'http://dl.dafont.com/dl/?f=justy_three'
     name 'Justy Three'
     homepage 'http://www.dafont.com/justy-three.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Justy3_b.ttf'
 end

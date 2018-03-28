@@ -5,7 +5,6 @@ cask 'dafont-lucysscribblings' do
     url 'http://dl.dafont.com/dl/?f=lucysscribblings'
     name 'Lucys Scribblings'
     homepage 'http://www.dafont.com/lucysscribblings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LucysScribblings.ttf'
 end

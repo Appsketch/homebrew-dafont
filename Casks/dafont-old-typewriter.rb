@@ -5,7 +5,6 @@ cask 'dafont-old-typewriter' do
     url 'http://dl.dafont.com/dl/?f=old_typewriter'
     name 'Old Typewriter'
     homepage 'http://www.dafont.com/old-typewriter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old Typewriter2.0.ttf'
 end

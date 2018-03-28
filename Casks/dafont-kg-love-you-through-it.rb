@@ -5,7 +5,6 @@ cask 'dafont-kg-love-you-through-it' do
     url 'http://dl.dafont.com/dl/?f=kg_love_you_through_it'
     name 'KG Love You Through It'
     homepage 'http://www.dafont.com/kg-love-you-through-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGLoveYouThroughIt.ttf'
     font 'KGLoveYouThroughIt2.ttf'

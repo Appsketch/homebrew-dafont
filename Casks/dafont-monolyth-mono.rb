@@ -5,7 +5,6 @@ cask 'dafont-monolyth-mono' do
     url 'http://dl.dafont.com/dl/?f=monolyth_mono'
     name 'Monolyth Mono'
     homepage 'http://www.dafont.com/monolyth-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monolyth-Monospaced_WIN.otf'
 end

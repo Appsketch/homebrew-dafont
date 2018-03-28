@@ -5,7 +5,6 @@ cask 'dafont-uzbek-neue-luxation' do
     url 'http://dl.dafont.com/dl/?f=uzbek_neue_luxation'
     name 'Uzbek Neue Luxation'
     homepage 'http://www.dafont.com/uzbek-neue-luxation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'uzbek_neue_luxation.ttf'
 end

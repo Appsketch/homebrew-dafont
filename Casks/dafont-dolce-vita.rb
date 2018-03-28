@@ -5,7 +5,6 @@ cask 'dafont-dolce-vita' do
     url 'http://dl.dafont.com/dl/?f=dolce_vita'
     name 'Dolce Vita'
     homepage 'http://www.dafont.com/dolce-vita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dolce Vita Heavy Bold.ttf'
     font 'Dolce Vita Light.ttf'

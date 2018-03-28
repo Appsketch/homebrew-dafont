@@ -5,7 +5,6 @@ cask 'dafont-chinatoo' do
     url 'http://dl.dafont.com/dl/?f=chinatoo'
     name 'Chinatoo'
     homepage 'http://www.dafont.com/chinatoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chinatoo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-burning-man' do
     url 'http://dl.dafont.com/dl/?f=burning_man'
     name 'Burning Man'
     homepage 'http://www.dafont.com/burning-man.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BURNING MAN.ttf'
 end

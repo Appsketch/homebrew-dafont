@@ -5,7 +5,6 @@ cask 'dafont-mb-an-old-witch' do
     url 'http://dl.dafont.com/dl/?f=mb_an_old_witch'
     name 'MB An Old Witch'
     homepage 'http://www.dafont.com/mb-an-old-witch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MB-An_Old_Witch.ttf'
 end

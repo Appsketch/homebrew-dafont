@@ -5,7 +5,6 @@ cask 'dafont-my-grandpas-farm' do
     url 'http://dl.dafont.com/dl/?f=my_grandpas_farm'
     name 'My Grandpa&#039;s Farm'
     homepage 'http://www.dafont.com/my-grandpas-farm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'My Grandpa&#039;s Farm.ttf'
 end

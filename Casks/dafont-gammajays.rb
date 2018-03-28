@@ -5,7 +5,6 @@ cask 'dafont-gammajays' do
     url 'http://dl.dafont.com/dl/?f=gammajays'
     name 'Gamma Jays'
     homepage 'http://www.dafont.com/gammajays.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GammaJays.ttf'
 end

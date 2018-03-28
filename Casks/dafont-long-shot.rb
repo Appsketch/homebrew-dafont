@@ -5,7 +5,6 @@ cask 'dafont-long-shot' do
     url 'http://dl.dafont.com/dl/?f=long_shot'
     name 'Long Shot'
     homepage 'http://www.dafont.com/long-shot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Long_Shot.ttf'
 end

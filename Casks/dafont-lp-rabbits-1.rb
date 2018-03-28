@@ -5,7 +5,6 @@ cask 'dafont-lp-rabbits-1' do
     url 'http://dl.dafont.com/dl/?f=lp_rabbits_1'
     name 'LP Rabbits 1'
     homepage 'http://www.dafont.com/lp-rabbits-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lprabbits1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nominal5' do
     url 'http://dl.dafont.com/dl/?f=nominal5'
     name 'Nominal 5'
     homepage 'http://www.dafont.com/nominal5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOMINAL5.TTF'
 end

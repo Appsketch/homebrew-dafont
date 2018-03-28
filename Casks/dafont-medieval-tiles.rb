@@ -5,7 +5,6 @@ cask 'dafont-medieval-tiles' do
     url 'http://dl.dafont.com/dl/?f=medieval_tiles'
     name 'Medieval Tiles'
     homepage 'http://www.dafont.com/medieval-tiles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEDITI__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-cool-crayon' do
     url 'http://dl.dafont.com/dl/?f=dk_cool_crayon'
     name 'DK Cool Crayon'
     homepage 'http://www.dafont.com/dk-cool-crayon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Cool Crayon.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-toyzarux' do
     url 'http://dl.dafont.com/dl/?f=toyzarux'
     name 'Toyzarux'
     homepage 'http://www.dafont.com/toyzarux.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOYZARUX.ttf'
 end

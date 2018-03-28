@@ -5,7 +5,6 @@ cask 'dafont-metshige' do
     url 'http://dl.dafont.com/dl/?f=metshige'
     name 'Metshige'
     homepage 'http://www.dafont.com/metshige.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'METSN___.TTF'
 end

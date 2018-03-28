@@ -5,7 +5,6 @@ cask 'dafont-mr-mogollon' do
     url 'http://dl.dafont.com/dl/?f=mr_mogollon'
     name 'Mr. Mogollon'
     homepage 'http://www.dafont.com/mr-mogollon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mr. Mogollon.ttf'
 end

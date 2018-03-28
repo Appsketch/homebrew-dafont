@@ -5,7 +5,6 @@ cask 'dafont-toilet-dsnp' do
     url 'http://dl.dafont.com/dl/?f=toilet_dsnp'
     name 'Toilet DNSP'
     homepage 'http://www.dafont.com/toilet-dsnp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOILET-dsnp.TTF'
 end

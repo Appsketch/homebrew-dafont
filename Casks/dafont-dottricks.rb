@@ -5,7 +5,6 @@ cask 'dafont-dottricks' do
     url 'http://dl.dafont.com/dl/?f=dottricks'
     name 'Dot Tricks'
     homepage 'http://www.dafont.com/dottricks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DotTricks.ttf'
 end

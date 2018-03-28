@@ -5,7 +5,6 @@ cask 'dafont-pawn-shop-pretty' do
     url 'http://dl.dafont.com/dl/?f=pawn_shop_pretty'
     name 'Pawn Shop Pretty'
     homepage 'http://www.dafont.com/pawn-shop-pretty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PawnShopPretty.ttf'
 end

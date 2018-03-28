@@ -5,7 +5,6 @@ cask 'dafont-reclaim-the-streets' do
     url 'http://dl.dafont.com/dl/?f=reclaim_the_streets'
     name 'Reclaim the Streets'
     homepage 'http://www.dafont.com/reclaim-the-streets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'reclaimthestreets.ttf'
 end

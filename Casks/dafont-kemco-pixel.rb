@@ -5,7 +5,6 @@ cask 'dafont-kemco-pixel' do
     url 'http://dl.dafont.com/dl/?f=kemco_pixel'
     name 'Kemco Pixel'
     homepage 'http://www.dafont.com/kemco-pixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kemco Pixel Bold.ttf'
 end

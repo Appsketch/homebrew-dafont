@@ -5,7 +5,6 @@ cask 'dafont-kb-lime' do
     url 'http://dl.dafont.com/dl/?f=kb_lime'
     name 'KB Lime'
     homepage 'http://www.dafont.com/kb-lime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBLimeLight.ttf'
 end

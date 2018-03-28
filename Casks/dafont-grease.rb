@@ -5,7 +5,6 @@ cask 'dafont-grease' do
     url 'http://dl.dafont.com/dl/?f=grease'
     name 'Grease'
     homepage 'http://www.dafont.com/grease.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grease__.ttf'
 end

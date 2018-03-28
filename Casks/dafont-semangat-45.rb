@@ -5,7 +5,6 @@ cask 'dafont-semangat-45' do
     url 'http://dl.dafont.com/dl/?f=semangat_45'
     name 'Semangat 45'
     homepage 'http://www.dafont.com/semangat-45.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEMANGAT 45.ttf'
 end

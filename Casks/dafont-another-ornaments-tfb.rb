@@ -5,7 +5,6 @@ cask 'dafont-another-ornaments-tfb' do
     url 'http://dl.dafont.com/dl/?f=another_ornaments_tfb'
     name 'Another Ornaments TFB'
     homepage 'http://www.dafont.com/another-ornaments-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'another ornaments tfb.ttf'
 end

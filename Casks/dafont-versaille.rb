@@ -5,7 +5,6 @@ cask 'dafont-versaille' do
     url 'http://dl.dafont.com/dl/?f=versaille'
     name 'Versaille'
     homepage 'http://www.dafont.com/versaille.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'versaille.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-radicalblock' do
     url 'http://dl.dafont.com/dl/?f=radicalblock'
     name 'Radicalblock'
     homepage 'http://www.dafont.com/radicalblock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'radicalblock.ttf'
 end

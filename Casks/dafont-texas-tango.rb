@@ -5,7 +5,6 @@ cask 'dafont-texas-tango' do
     url 'http://dl.dafont.com/dl/?f=texas_tango'
     name 'Texas Tango'
     homepage 'http://www.dafont.com/texas-tango.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TEXAT BOLD PERSONAL USE___.otf'
 end

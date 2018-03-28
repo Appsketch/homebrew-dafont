@@ -5,7 +5,6 @@ cask 'dafont-stencil-8bit' do
     url 'http://dl.dafont.com/dl/?f=stencil_8bit'
     name 'Stencil 8bit'
     homepage 'http://www.dafont.com/stencil-8bit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stencil8bit-Regular.otf'
 end

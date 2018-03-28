@@ -5,7 +5,6 @@ cask 'dafont-darkwoodbeveled' do
     url 'http://dl.dafont.com/dl/?f=darkwoodbeveled'
     name 'Dark Wood Beveled'
     homepage 'http://www.dafont.com/darkwoodbeveled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DarkWoodBeveled.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pwtornado' do
     url 'http://dl.dafont.com/dl/?f=pwtornado'
     name 'PW Tornado'
     homepage 'http://www.dafont.com/pwtornado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWTornado.ttf'
 end

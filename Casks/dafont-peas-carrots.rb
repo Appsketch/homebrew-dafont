@@ -5,7 +5,6 @@ cask 'dafont-peas-carrots' do
     url 'http://dl.dafont.com/dl/?f=peas_carrots'
     name 'Peas &amp; Carrots'
     homepage 'http://www.dafont.com/peas-carrots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peas &amp; Carrots Extras.ttf'
     font 'Peas &amp; Carrots.ttf'

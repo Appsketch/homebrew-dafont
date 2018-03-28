@@ -5,7 +5,6 @@ cask 'dafont-indira-k' do
     url 'http://dl.dafont.com/dl/?f=indira_k'
     name 'Indira K'
     homepage 'http://www.dafont.com/indira-k.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Indira_K.ttf'
 end

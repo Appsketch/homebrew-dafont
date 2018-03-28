@@ -5,7 +5,6 @@ cask 'dafont-postnuclear' do
     url 'http://dl.dafont.com/dl/?f=postnuclear'
     name 'Postnuclear'
     homepage 'http://www.dafont.com/postnuclear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'postnuclear2.ttf'
 end

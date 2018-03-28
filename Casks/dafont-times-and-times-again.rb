@@ -5,7 +5,6 @@ cask 'dafont-times-and-times-again' do
     url 'http://dl.dafont.com/dl/?f=times_and_times_again'
     name 'Times and Times again'
     homepage 'http://www.dafont.com/times-and-times-again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Times and Times again.ttf'
 end

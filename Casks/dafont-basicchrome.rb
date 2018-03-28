@@ -5,7 +5,6 @@ cask 'dafont-basicchrome' do
     url 'http://dl.dafont.com/dl/?f=basicchrome'
     name 'Basic Chrome'
     homepage 'http://www.dafont.com/basicchrome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BasicChrome.ttf'
 end

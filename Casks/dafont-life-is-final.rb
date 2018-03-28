@@ -5,7 +5,6 @@ cask 'dafont-life-is-final' do
     url 'http://dl.dafont.com/dl/?f=life_is_final'
     name 'Life is final'
     homepage 'http://www.dafont.com/life-is-final.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LIFE IS FINAL.ttf'
 end

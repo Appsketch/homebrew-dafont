@@ -5,7 +5,6 @@ cask 'dafont-blofeld' do
     url 'http://dl.dafont.com/dl/?f=blofeld'
     name 'Blofeld'
     homepage 'http://www.dafont.com/blofeld.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blofeld Italic.otf'
     font 'Blofeld.otf'

@@ -5,7 +5,6 @@ cask 'dafont-the-others-are-here' do
     url 'http://dl.dafont.com/dl/?f=the_others_are_here'
     name 'The Others Are Here'
     homepage 'http://www.dafont.com/the-others-are-here.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Others Are Here.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-brinetext-black' do
     url 'http://dl.dafont.com/dl/?f=brinetext_black'
     name 'Brinetext Black'
     homepage 'http://www.dafont.com/brinetext-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brinetext Black.otf'
 end

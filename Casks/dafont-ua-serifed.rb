@@ -5,7 +5,6 @@ cask 'dafont-ua-serifed' do
     url 'http://dl.dafont.com/dl/?f=ua_serifed'
     name 'UA Serifed'
     homepage 'http://www.dafont.com/ua-serifed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UASERIFE.TTF'
 end

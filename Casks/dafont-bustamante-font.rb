@@ -5,7 +5,6 @@ cask 'dafont-bustamante-font' do
     url 'http://dl.dafont.com/dl/?f=bustamante_font'
     name 'Bustamante'
     homepage 'http://www.dafont.com/bustamante-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bustamante_font.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-typomoderno' do
     url 'http://dl.dafont.com/dl/?f=typomoderno'
     name 'Typomoderno'
     homepage 'http://www.dafont.com/typomoderno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typomoderno bold.ttf'
 end

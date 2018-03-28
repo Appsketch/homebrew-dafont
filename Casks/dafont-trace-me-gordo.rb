@@ -5,7 +5,6 @@ cask 'dafont-trace-me-gordo' do
     url 'http://dl.dafont.com/dl/?f=trace_me_gordo'
     name 'Trace Me Gordo'
     homepage 'http://www.dafont.com/trace-me-gordo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TraceMe.ttf'
 end

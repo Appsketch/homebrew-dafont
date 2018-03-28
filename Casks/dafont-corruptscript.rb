@@ -5,7 +5,6 @@ cask 'dafont-corruptscript' do
     url 'http://dl.dafont.com/dl/?f=corruptscript'
     name 'Corrupt Script'
     homepage 'http://www.dafont.com/corruptscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CorruptScript.ttf'
 end

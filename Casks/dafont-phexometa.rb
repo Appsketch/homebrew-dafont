@@ -5,7 +5,6 @@ cask 'dafont-phexometa' do
     url 'http://dl.dafont.com/dl/?f=phexometa'
     name 'Phexometa'
     homepage 'http://www.dafont.com/phexometa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Phexometa-Regular.ttf'
 end

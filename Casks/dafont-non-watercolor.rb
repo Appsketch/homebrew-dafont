@@ -5,7 +5,6 @@ cask 'dafont-non-watercolor' do
     url 'http://dl.dafont.com/dl/?f=non_watercolor'
     name 'Non watercolor'
     homepage 'http://www.dafont.com/non-watercolor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Non watercolor.ttf'
 end

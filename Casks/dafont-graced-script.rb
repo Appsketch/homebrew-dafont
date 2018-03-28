@@ -5,7 +5,6 @@ cask 'dafont-graced-script' do
     url 'http://dl.dafont.com/dl/?f=graced_script'
     name 'Graced Script'
     homepage 'http://www.dafont.com/graced-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GracedScript_PersonalUseOnly.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-galberik' do
     url 'http://dl.dafont.com/dl/?f=galberik'
     name 'Galberik'
     homepage 'http://www.dafont.com/galberik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Galberik.otf'
 end

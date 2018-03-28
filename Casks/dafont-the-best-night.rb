@@ -5,7 +5,6 @@ cask 'dafont-the-best-night' do
     url 'http://dl.dafont.com/dl/?f=the_best_night'
     name 'The Best Night'
     homepage 'http://www.dafont.com/the-best-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Best Night.ttf'
 end

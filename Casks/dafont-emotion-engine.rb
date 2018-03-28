@@ -5,7 +5,6 @@ cask 'dafont-emotion-engine' do
     url 'http://dl.dafont.com/dl/?f=emotion_engine'
     name 'Emotion Engine'
     homepage 'http://www.dafont.com/emotion-engine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Emotion Engine Bold Italic.otf'
     font 'Emotion Engine Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-macumbats' do
     url 'http://dl.dafont.com/dl/?f=macumbats'
     name 'Macumbats'
     homepage 'http://www.dafont.com/macumbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MACUMBAT.TTF'
 end

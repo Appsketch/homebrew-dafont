@@ -5,7 +5,6 @@ cask 'dafont-head-ding-maker' do
     url 'http://dl.dafont.com/dl/?f=head_ding_maker'
     name 'Head Ding Maker'
     homepage 'http://www.dafont.com/head-ding-maker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hdmaker.ttf'
 end

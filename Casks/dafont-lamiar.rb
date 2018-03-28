@@ -5,7 +5,6 @@ cask 'dafont-lamiar' do
     url 'http://dl.dafont.com/dl/?f=lamiar'
     name 'Lamiar'
     homepage 'http://www.dafont.com/lamiar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lamiar_Bold.ttf'
     font 'Lamiar_Light.ttf'

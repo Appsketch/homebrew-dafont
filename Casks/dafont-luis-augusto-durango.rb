@@ -5,7 +5,6 @@ cask 'dafont-luis-augusto-durango' do
     url 'http://dl.dafont.com/dl/?f=luis_augusto_durango'
     name 'Luis Augusto Durango'
     homepage 'http://www.dafont.com/luis-augusto-durango.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LuisAugusto.ttf'
 end

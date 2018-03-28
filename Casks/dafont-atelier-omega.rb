@@ -5,7 +5,6 @@ cask 'dafont-atelier-omega' do
     url 'http://dl.dafont.com/dl/?f=atelier_omega'
     name 'Atelier Omega'
     homepage 'http://www.dafont.com/atelier-omega.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Atelier Omega.ttf'
 end

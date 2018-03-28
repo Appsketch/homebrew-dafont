@@ -5,7 +5,6 @@ cask 'dafont-wooden-nickel-black' do
     url 'http://dl.dafont.com/dl/?f=wooden_nickel_black'
     name 'Wooden Nickel Black'
     homepage 'http://www.dafont.com/wooden-nickel-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WOODENNI.TTF'
 end

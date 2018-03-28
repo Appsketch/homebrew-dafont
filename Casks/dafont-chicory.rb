@@ -5,7 +5,6 @@ cask 'dafont-chicory' do
     url 'http://dl.dafont.com/dl/?f=chicory'
     name 'Chicory'
     homepage 'http://www.dafont.com/chicory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHICORY_.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-display-otf' do
     url 'http://dl.dafont.com/dl/?f=display_otf'
     name 'Display'
     homepage 'http://www.dafont.com/display-otf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Display3dOTF.otf'
     font 'DisplayOTF.otf'

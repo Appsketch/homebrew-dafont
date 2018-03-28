@@ -5,7 +5,6 @@ cask 'dafont-i-still-know' do
     url 'http://dl.dafont.com/dl/?f=i_still_know'
     name 'I still know'
     homepage 'http://www.dafont.com/i-still-know.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I Still Know.ttf'
 end

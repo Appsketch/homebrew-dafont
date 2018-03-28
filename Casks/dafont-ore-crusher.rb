@@ -5,7 +5,6 @@ cask 'dafont-ore-crusher' do
     url 'http://dl.dafont.com/dl/?f=ore_crusher'
     name 'Ore Crusher'
     homepage 'http://www.dafont.com/ore-crusher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'orecrusher.ttf'
     font 'orecrusher3d.ttf'

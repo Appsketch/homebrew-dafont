@@ -5,7 +5,6 @@ cask 'dafont-satin-stitch' do
     url 'http://dl.dafont.com/dl/?f=satin_stitch'
     name 'Satin Stitch'
     homepage 'http://www.dafont.com/satin-stitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Satin_Stitch.ttf'
 end

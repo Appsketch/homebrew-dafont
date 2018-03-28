@@ -5,7 +5,6 @@ cask 'dafont-daiichi' do
     url 'http://dl.dafont.com/dl/?f=daiichi'
     name 'Daiichi'
     homepage 'http://www.dafont.com/daiichi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Daiichi.ttf'
 end

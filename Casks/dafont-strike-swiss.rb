@@ -5,7 +5,6 @@ cask 'dafont-strike-swiss' do
     url 'http://dl.dafont.com/dl/?f=strike_swiss'
     name 'Strike Swiss'
     homepage 'http://www.dafont.com/strike-swiss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strike Swiss.ttf'
 end

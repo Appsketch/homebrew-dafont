@@ -5,7 +5,6 @@ cask 'dafont-dhf-quintas-diary-demo' do
     url 'http://dl.dafont.com/dl/?f=dhf_quintas_diary_demo'
     name 'DHF Quinta&#039;s Diary'
     homepage 'http://www.dafont.com/dhf-quintas-diary-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DHF Quinta&#039;s Diary.otf'
 end

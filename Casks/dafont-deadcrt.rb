@@ -5,7 +5,6 @@ cask 'dafont-deadcrt' do
     url 'http://dl.dafont.com/dl/?f=deadcrt'
     name 'DeadCRT'
     homepage 'http://www.dafont.com/deadcrt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEADCRT.ttf'
 end

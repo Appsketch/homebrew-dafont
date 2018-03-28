@@ -5,7 +5,6 @@ cask 'dafont-something2' do
     url 'http://dl.dafont.com/dl/?f=something2'
     name 'Something'
     homepage 'http://www.dafont.com/something2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Something In The Air.ttf'
 end

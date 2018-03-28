@@ -5,7 +5,6 @@ cask 'dafont-lonesomefont' do
     url 'http://dl.dafont.com/dl/?f=lonesomefont'
     name 'Lonesome'
     homepage 'http://www.dafont.com/lonesomefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LonesomeFont.ttf'
 end

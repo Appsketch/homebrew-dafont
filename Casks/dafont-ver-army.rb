@@ -5,7 +5,6 @@ cask 'dafont-ver-army' do
     url 'http://dl.dafont.com/dl/?f=ver_army'
     name 'Ver Army'
     homepage 'http://www.dafont.com/ver-army.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ver_Army.ttf'
 end

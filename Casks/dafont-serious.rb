@@ -5,7 +5,6 @@ cask 'dafont-serious' do
     url 'http://dl.dafont.com/dl/?f=serious'
     name 'Serious'
     homepage 'http://www.dafont.com/serious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Serious-1.ttf'
     font 'Serious-2.ttf'

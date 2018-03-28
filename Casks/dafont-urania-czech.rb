@@ -5,7 +5,6 @@ cask 'dafont-urania-czech' do
     url 'http://dl.dafont.com/dl/?f=urania_czech'
     name 'Urania Czech'
     homepage 'http://www.dafont.com/urania-czech.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'URANIA CZECH.ttf'
 end

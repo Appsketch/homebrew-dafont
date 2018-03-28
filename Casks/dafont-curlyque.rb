@@ -5,7 +5,6 @@ cask 'dafont-curlyque' do
     url 'http://dl.dafont.com/dl/?f=curlyque'
     name 'CurlyQue'
     homepage 'http://www.dafont.com/curlyque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CurlyQue.ttf'
 end

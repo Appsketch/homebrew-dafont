@@ -5,7 +5,6 @@ cask 'dafont-childwood' do
     url 'http://dl.dafont.com/dl/?f=childwood'
     name 'Childwood'
     homepage 'http://www.dafont.com/childwood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Childwood (milabrya).ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dk-petit-oiseau' do
     url 'http://dl.dafont.com/dl/?f=dk_petit_oiseau'
     name 'DK Petit Oiseau'
     homepage 'http://www.dafont.com/dk-petit-oiseau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Petit Oiseau.otf'
 end

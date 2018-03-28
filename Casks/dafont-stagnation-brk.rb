@@ -5,7 +5,6 @@ cask 'dafont-stagnation-brk' do
     url 'http://dl.dafont.com/dl/?f=stagnation_brk'
     name 'Stagnation BRK'
     homepage 'http://www.dafont.com/stagnation-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stagnati.ttf'
 end

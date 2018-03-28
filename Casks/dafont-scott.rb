@@ -5,7 +5,6 @@ cask 'dafont-scott' do
     url 'http://dl.dafont.com/dl/?f=scott'
     name 'Scott'
     homepage 'http://www.dafont.com/scott.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCOTT___.TTF'
 end

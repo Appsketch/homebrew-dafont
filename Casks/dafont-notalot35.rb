@@ -5,7 +5,6 @@ cask 'dafont-notalot35' do
     url 'http://dl.dafont.com/dl/?f=notalot35'
     name 'Notalot35'
     homepage 'http://www.dafont.com/notalot35.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'notalot35.ttf'
 end

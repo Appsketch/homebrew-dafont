@@ -5,7 +5,6 @@ cask 'dafont-kitchen-tile' do
     url 'http://dl.dafont.com/dl/?f=kitchen_tile'
     name 'Kitchen Tile'
     homepage 'http://www.dafont.com/kitchen-tile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kitchent.ttf'
 end

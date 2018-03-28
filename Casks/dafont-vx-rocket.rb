@@ -5,7 +5,6 @@ cask 'dafont-vx-rocket' do
     url 'http://dl.dafont.com/dl/?f=vx_rocket'
     name 'VX Rocket'
     homepage 'http://www.dafont.com/vx-rocket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vxrocket1_1.ttf'
     font 'vxrocket3d2.ttf'

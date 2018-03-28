@@ -5,7 +5,6 @@ cask 'dafont-suberp' do
     url 'http://dl.dafont.com/dl/?f=suberp'
     name 'Suberp'
     homepage 'http://www.dafont.com/suberp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'suberp black.ttf'
     font 'suberp Light.ttf'

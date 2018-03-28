@@ -5,7 +5,6 @@ cask 'dafont-nobby' do
     url 'http://dl.dafont.com/dl/?f=nobby'
     name 'Nobby'
     homepage 'http://www.dafont.com/nobby.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nobby___.ttf'
 end

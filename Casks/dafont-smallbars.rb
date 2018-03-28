@@ -5,7 +5,6 @@ cask 'dafont-smallbars' do
     url 'http://dl.dafont.com/dl/?f=smallbars'
     name 'SmallBars'
     homepage 'http://www.dafont.com/smallbars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'smallbars.ttf'
 end

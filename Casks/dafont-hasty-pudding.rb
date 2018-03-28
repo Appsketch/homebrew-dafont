@@ -5,7 +5,6 @@ cask 'dafont-hasty-pudding' do
     url 'http://dl.dafont.com/dl/?f=hasty_pudding'
     name 'Hasty Pudding'
     homepage 'http://www.dafont.com/hasty-pudding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HASTP___.TTF'
 end

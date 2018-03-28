@@ -5,7 +5,6 @@ cask 'dafont-triangle' do
     url 'http://dl.dafont.com/dl/?f=triangle'
     name 'Triangle'
     homepage 'http://www.dafont.com/triangle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRIANGLE.FON'
 end

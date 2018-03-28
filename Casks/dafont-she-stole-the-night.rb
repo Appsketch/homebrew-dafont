@@ -5,7 +5,6 @@ cask 'dafont-she-stole-the-night' do
     url 'http://dl.dafont.com/dl/?f=she_stole_the_night'
     name 'She Stole the Night'
     homepage 'http://www.dafont.com/she-stole-the-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'She-Stole-the-Night.ttf'
 end

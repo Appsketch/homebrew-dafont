@@ -5,7 +5,6 @@ cask 'dafont-tallest' do
     url 'http://dl.dafont.com/dl/?f=tallest'
     name 'Tallest'
     homepage 'http://www.dafont.com/tallest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tollest.ttf'
 end

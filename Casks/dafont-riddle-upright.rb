@@ -5,7 +5,6 @@ cask 'dafont-riddle-upright' do
     url 'http://dl.dafont.com/dl/?f=riddle_upright'
     name 'Riddle Upright'
     homepage 'http://www.dafont.com/riddle-upright.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Riddle-Upright.otf'
 end

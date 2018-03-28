@@ -5,7 +5,6 @@ cask 'dafont-bits-indian-calligra' do
     url 'http://dl.dafont.com/dl/?f=bits_indian_calligra'
     name 'Bits Indian Calligra'
     homepage 'http://www.dafont.com/bits-indian-calligra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bitsindiancalligra-Bold.ttf'
     font 'bitsindiancalligra-BoldItal.ttf'

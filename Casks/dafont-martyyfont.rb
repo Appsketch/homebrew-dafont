@@ -5,7 +5,6 @@ cask 'dafont-martyyfont' do
     url 'http://dl.dafont.com/dl/?f=martyyfont'
     name 'Martyy Font'
     homepage 'http://www.dafont.com/martyyfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MartyyFont.ttf'
 end

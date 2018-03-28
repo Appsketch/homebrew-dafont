@@ -5,7 +5,6 @@ cask 'dafont-knick-o-teen' do
     url 'http://dl.dafont.com/dl/?f=knick_o_teen'
     name 'Knick O Teen'
     homepage 'http://www.dafont.com/knick-o-teen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KNICO___.TTF'
 end

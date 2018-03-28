@@ -5,7 +5,6 @@ cask 'dafont-kavaler-kursive' do
     url 'http://dl.dafont.com/dl/?f=kavaler_kursive'
     name 'Kavaler Kursive'
     homepage 'http://www.dafont.com/kavaler-kursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kavaler Kursive.ttf'
 end

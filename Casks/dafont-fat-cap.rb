@@ -5,7 +5,6 @@ cask 'dafont-fat-cap' do
     url 'http://dl.dafont.com/dl/?f=fat_cap'
     name 'Fat&amp;Cap'
     homepage 'http://www.dafont.com/fat-cap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FAT&amp;CAP.ttf'
 end

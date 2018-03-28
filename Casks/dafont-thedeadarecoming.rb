@@ -5,7 +5,6 @@ cask 'dafont-thedeadarecoming' do
     url 'http://dl.dafont.com/dl/?f=thedeadarecoming'
     name 'The Dead Are Coming'
     homepage 'http://www.dafont.com/thedeadarecoming.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheDeadAreComing.otf'
 end

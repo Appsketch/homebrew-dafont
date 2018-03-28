@@ -5,7 +5,6 @@ cask 'dafont-you' do
     url 'http://dl.dafont.com/dl/?f=you'
     name 'You'
     homepage 'http://www.dafont.com/you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'You-Regular.otf'
 end

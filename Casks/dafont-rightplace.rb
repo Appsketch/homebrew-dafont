@@ -5,7 +5,6 @@ cask 'dafont-rightplace' do
     url 'http://dl.dafont.com/dl/?f=rightplace'
     name 'Right Place'
     homepage 'http://www.dafont.com/rightplace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RightPlace.ttf'
 end

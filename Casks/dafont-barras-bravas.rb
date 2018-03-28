@@ -5,7 +5,6 @@ cask 'dafont-barras-bravas' do
     url 'http://dl.dafont.com/dl/?f=barras_bravas'
     name 'Barras-Bravas'
     homepage 'http://www.dafont.com/barras-bravas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'barras-bravas.ttf'
 end

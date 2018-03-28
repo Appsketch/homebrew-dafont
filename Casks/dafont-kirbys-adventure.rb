@@ -5,7 +5,6 @@ cask 'dafont-kirbys-adventure' do
     url 'http://dl.dafont.com/dl/?f=kirbys_adventure'
     name 'Kirby&#039;s Adventure'
     homepage 'http://www.dafont.com/kirbys-adventure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kirbys-Adventure.ttf'
 end

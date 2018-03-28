@@ -5,7 +5,6 @@ cask 'dafont-mers' do
     url 'http://dl.dafont.com/dl/?f=mers'
     name 'Mers'
     homepage 'http://www.dafont.com/mers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mers Bold.ttf'
     font 'Mers Shadow.ttf'

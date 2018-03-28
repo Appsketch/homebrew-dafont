@@ -5,7 +5,6 @@ cask 'dafont-48ways' do
     url 'http://dl.dafont.com/dl/?f=48ways'
     name '48 ways'
     homepage 'http://www.dafont.com/48ways.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '48ways.TTF'
 end

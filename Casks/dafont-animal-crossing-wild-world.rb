@@ -5,7 +5,6 @@ cask 'dafont-animal-crossing-wild-world' do
     url 'http://dl.dafont.com/dl/?f=animal_crossing_wild_world'
     name 'Animal Crossing: Wild World'
     homepage 'http://www.dafont.com/animal-crossing-wild-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Animal-Crossing-Wild-World.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-deconditioned-reflex' do
     url 'http://dl.dafont.com/dl/?f=deconditioned_reflex'
     name 'Deconditioned Reflex'
     homepage 'http://www.dafont.com/deconditioned-reflex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deconditioned-Reflex-version-0-3.otf'
 end

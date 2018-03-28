@@ -5,7 +5,6 @@ cask 'dafont-buen-dia' do
     url 'http://dl.dafont.com/dl/?f=buen_dia'
     name 'Buen Dia'
     homepage 'http://www.dafont.com/buen-dia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUEN DIA DEMO.ttf'
 end

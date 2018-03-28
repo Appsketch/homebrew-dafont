@@ -5,7 +5,6 @@ cask 'dafont-inavel-storebror' do
     url 'http://dl.dafont.com/dl/?f=inavel_storebror'
     name 'Inavel Storebror'
     homepage 'http://www.dafont.com/inavel-storebror.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InavelStorebror.ttf'
 end

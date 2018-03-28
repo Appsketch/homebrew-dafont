@@ -5,7 +5,6 @@ cask 'dafont-insaniburger' do
     url 'http://dl.dafont.com/dl/?f=insaniburger'
     name 'Insaniburger'
     homepage 'http://www.dafont.com/insaniburger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Insanibc.ttf'
     font 'Insanibu.ttf'

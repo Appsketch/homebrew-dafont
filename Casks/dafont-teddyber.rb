@@ -5,7 +5,6 @@ cask 'dafont-teddyber' do
     url 'http://dl.dafont.com/dl/?f=teddyber'
     name 'Teddyber'
     homepage 'http://www.dafont.com/teddyber.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Teddyber V1.1.ttf'
     font 'Teddybers Too.ttf'

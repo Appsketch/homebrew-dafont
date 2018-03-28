@@ -5,7 +5,6 @@ cask 'dafont-bubblii' do
     url 'http://dl.dafont.com/dl/?f=bubblii'
     name 'Bubblii'
     homepage 'http://www.dafont.com/bubblii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bubblii.ttf'
 end

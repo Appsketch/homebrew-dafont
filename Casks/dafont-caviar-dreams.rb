@@ -5,7 +5,6 @@ cask 'dafont-caviar-dreams' do
     url 'http://dl.dafont.com/dl/?f=caviar_dreams'
     name 'Caviar Dreams'
     homepage 'http://www.dafont.com/caviar-dreams.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CaviarDreams_Bold.ttf'
     font 'CaviarDreams_BoldItalic.ttf'

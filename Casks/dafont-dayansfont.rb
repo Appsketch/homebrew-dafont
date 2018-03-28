@@ -5,7 +5,6 @@ cask 'dafont-dayansfont' do
     url 'http://dl.dafont.com/dl/?f=dayansfont'
     name 'Dayans Font'
     homepage 'http://www.dafont.com/dayansfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DayansFont.ttf'
 end

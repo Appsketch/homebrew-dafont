@@ -5,7 +5,6 @@ cask 'dafont-cm-bank-tower-college' do
     url 'http://dl.dafont.com/dl/?f=cm_bank_tower_college'
     name 'CM Bank Tower College'
     homepage 'http://www.dafont.com/cm-bank-tower-college.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM Bank Tower College.ttf'
 end

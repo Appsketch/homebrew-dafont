@@ -5,7 +5,6 @@ cask 'dafont-vanilla-whale' do
     url 'http://dl.dafont.com/dl/?f=vanilla_whale'
     name 'Vanilla Whale'
     homepage 'http://www.dafont.com/vanilla-whale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vanilla whale.ttf'
 end

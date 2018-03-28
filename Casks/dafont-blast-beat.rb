@@ -5,7 +5,6 @@ cask 'dafont-blast-beat' do
     url 'http://dl.dafont.com/dl/?f=blast_beat'
     name 'Blast Beat'
     homepage 'http://www.dafont.com/blast-beat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blastbeat_6.ttf'
 end

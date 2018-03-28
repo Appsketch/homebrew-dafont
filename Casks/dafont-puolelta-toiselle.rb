@@ -5,7 +5,6 @@ cask 'dafont-puolelta-toiselle' do
     url 'http://dl.dafont.com/dl/?f=puolelta_toiselle'
     name 'Puolelta toiselle'
     homepage 'http://www.dafont.com/puolelta-toiselle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Puolelta toiselle.ttf'
 end

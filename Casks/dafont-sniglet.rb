@@ -5,7 +5,6 @@ cask 'dafont-sniglet' do
     url 'http://dl.dafont.com/dl/?f=sniglet'
     name 'Sniglet'
     homepage 'http://www.dafont.com/sniglet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sniglet.ttf'
 end

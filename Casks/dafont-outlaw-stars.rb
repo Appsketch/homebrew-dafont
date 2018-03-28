@@ -5,7 +5,6 @@ cask 'dafont-outlaw-stars' do
     url 'http://dl.dafont.com/dl/?f=outlaw_stars'
     name 'Outlaw Stars'
     homepage 'http://www.dafont.com/outlaw-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Outlaw Stars.ttf'
 end

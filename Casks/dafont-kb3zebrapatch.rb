@@ -5,7 +5,6 @@ cask 'dafont-kb3zebrapatch' do
     url 'http://dl.dafont.com/dl/?f=kb3zebrapatch'
     name 'KB3 Zebra Patch'
     homepage 'http://www.dafont.com/kb3zebrapatch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KB3ZebraPatch.ttf'
 end

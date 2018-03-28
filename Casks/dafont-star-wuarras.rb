@@ -5,7 +5,6 @@ cask 'dafont-star-wuarras' do
     url 'http://dl.dafont.com/dl/?f=star_wuarras'
     name 'Star Wuarras'
     homepage 'http://www.dafont.com/star-wuarras.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Star Wuarras.ttf'
 end

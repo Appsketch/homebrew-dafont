@@ -5,7 +5,6 @@ cask 'dafont-uberholme' do
     url 'http://dl.dafont.com/dl/?f=uberholme'
     name 'Uberh&ouml;lme'
     homepage 'http://www.dafont.com/uberholme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'uberlav2.ttf'
     font 'uberlav2c.ttf'

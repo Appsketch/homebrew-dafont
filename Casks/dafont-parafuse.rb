@@ -5,7 +5,6 @@ cask 'dafont-parafuse' do
     url 'http://dl.dafont.com/dl/?f=parafuse'
     name 'Parafuse'
     homepage 'http://www.dafont.com/parafuse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ParafuseUltraBlack.ttf'
     font 'ParafuseUltraBlackOutline.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-rockharder' do
     url 'http://dl.dafont.com/dl/?f=rockharder'
     name 'Rock Harder'
     homepage 'http://www.dafont.com/rockharder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RockHarder.ttf'
 end

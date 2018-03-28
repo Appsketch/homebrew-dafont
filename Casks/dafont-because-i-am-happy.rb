@@ -5,7 +5,6 @@ cask 'dafont-because-i-am-happy' do
     url 'http://dl.dafont.com/dl/?f=because_i_am_happy'
     name 'Because I am Happy'
     homepage 'http://www.dafont.com/because-i-am-happy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Because I am Happy Regular.ttf'
 end

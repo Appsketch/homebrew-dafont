@@ -5,7 +5,6 @@ cask 'dafont-thirsty-for-souls' do
     url 'http://dl.dafont.com/dl/?f=thirsty_for_souls'
     name 'Thirsty for Souls'
     homepage 'http://www.dafont.com/thirsty-for-souls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thirsty for Souls.ttf'
 end

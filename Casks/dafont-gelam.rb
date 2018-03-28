@@ -5,7 +5,6 @@ cask 'dafont-gelam' do
     url 'http://dl.dafont.com/dl/?f=gelam'
     name 'Gelam'
     homepage 'http://www.dafont.com/gelam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GELAM.ttf'
 end

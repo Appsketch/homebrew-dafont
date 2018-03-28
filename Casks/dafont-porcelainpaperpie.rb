@@ -5,7 +5,6 @@ cask 'dafont-porcelainpaperpie' do
     url 'http://dl.dafont.com/dl/?f=porcelainpaperpie'
     name 'Porcelain Paper Pie'
     homepage 'http://www.dafont.com/porcelainpaperpie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PorcelainPaperPie.ttf'
 end

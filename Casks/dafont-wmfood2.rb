@@ -5,7 +5,6 @@ cask 'dafont-wmfood2' do
     url 'http://dl.dafont.com/dl/?f=wmfood2'
     name 'WM Food 2'
     homepage 'http://www.dafont.com/wmfood2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmfood2.TTF'
 end

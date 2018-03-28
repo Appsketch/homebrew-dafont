@@ -5,7 +5,6 @@ cask 'dafont-alexis-bitmap' do
     url 'http://dl.dafont.com/dl/?f=alexis_bitmap'
     name 'Alexis Bitmap'
     homepage 'http://www.dafont.com/alexis-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALEXBM.FON'
 end

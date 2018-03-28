@@ -5,7 +5,6 @@ cask 'dafont-lotte-paperfang' do
     url 'http://dl.dafont.com/dl/?f=lotte_paperfang'
     name 'Lotte Paperfang'
     homepage 'http://www.dafont.com/lotte-paperfang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lottepaperfang.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dimension2' do
     url 'http://dl.dafont.com/dl/?f=dimension2'
     name 'Dimension'
     homepage 'http://www.dafont.com/dimension2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dimension.ttf'
 end

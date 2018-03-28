@@ -5,7 +5,6 @@ cask 'dafont-spacedock' do
     url 'http://dl.dafont.com/dl/?f=spacedock'
     name 'Spacedock Stencil'
     homepage 'http://www.dafont.com/spacedock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spacedock Stencil.ttf'
 end

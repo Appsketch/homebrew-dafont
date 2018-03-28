@@ -5,7 +5,6 @@ cask 'dafont-symphony-in-abc' do
     url 'http://dl.dafont.com/dl/?f=symphony_in_abc'
     name 'Symphony in ABC'
     homepage 'http://www.dafont.com/symphony-in-abc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'symphony.ttf'
 end

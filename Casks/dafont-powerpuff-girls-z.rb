@@ -5,7 +5,6 @@ cask 'dafont-powerpuff-girls-z' do
     url 'http://dl.dafont.com/dl/?f=powerpuff_girls_z'
     name 'Powerpuff Girls Z'
     homepage 'http://www.dafont.com/powerpuff-girls-z.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PowerPuff Z V.4,00 (Oficial) By PKFS.ttf'
 end

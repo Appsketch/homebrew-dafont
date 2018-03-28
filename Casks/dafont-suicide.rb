@@ -5,7 +5,6 @@ cask 'dafont-suicide' do
     url 'http://dl.dafont.com/dl/?f=suicide'
     name 'Suicide'
     homepage 'http://www.dafont.com/suicide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Suicide.ttf'
 end

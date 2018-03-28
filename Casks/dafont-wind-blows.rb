@@ -5,7 +5,6 @@ cask 'dafont-wind-blows' do
     url 'http://dl.dafont.com/dl/?f=wind_blows'
     name 'Wind Blows'
     homepage 'http://www.dafont.com/wind-blows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wind Blows.ttf'
 end

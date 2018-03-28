@@ -5,7 +5,6 @@ cask 'dafont-entropy' do
     url 'http://dl.dafont.com/dl/?f=entropy'
     name 'Entropy'
     homepage 'http://www.dafont.com/entropy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ENTROPY_.TTF'
 end

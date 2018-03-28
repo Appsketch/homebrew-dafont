@@ -5,7 +5,6 @@ cask 'dafont-lovely-capsules' do
     url 'http://dl.dafont.com/dl/?f=lovely_capsules'
     name 'Lovely Capsules'
     homepage 'http://www.dafont.com/lovely-capsules.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LovelyCapsules.ttf'
 end

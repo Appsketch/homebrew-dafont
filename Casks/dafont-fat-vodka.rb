@@ -5,7 +5,6 @@ cask 'dafont-fat-vodka' do
     url 'http://dl.dafont.com/dl/?f=fat_vodka'
     name 'Fat Vodka'
     homepage 'http://www.dafont.com/fat-vodka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fat Vodka.ttf'
 end

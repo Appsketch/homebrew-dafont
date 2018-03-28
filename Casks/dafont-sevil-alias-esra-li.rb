@@ -5,7 +5,6 @@ cask 'dafont-sevil-alias-esra-li' do
     url 'http://dl.dafont.com/dl/?f=sevil_alias_esra_li'
     name 'Sevil alias Esra lite'
     homepage 'http://www.dafont.com/sevil-alias-esra-li.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sevil Lite.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-retrospective' do
     url 'http://dl.dafont.com/dl/?f=retrospective'
     name 'Retrospective'
     homepage 'http://www.dafont.com/retrospective.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Retrospective-Regular.otf'
 end

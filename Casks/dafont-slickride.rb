@@ -5,7 +5,6 @@ cask 'dafont-slickride' do
     url 'http://dl.dafont.com/dl/?f=slickride'
     name 'Slick Ride'
     homepage 'http://www.dafont.com/slickride.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SlickRide.ttf'
 end

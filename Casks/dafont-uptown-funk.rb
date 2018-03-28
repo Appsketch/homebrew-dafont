@@ -5,7 +5,6 @@ cask 'dafont-uptown-funk' do
     url 'http://dl.dafont.com/dl/?f=uptown_funk'
     name 'Uptown Funk'
     homepage 'http://www.dafont.com/uptown-funk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Uptown Funk.ttf'
 end

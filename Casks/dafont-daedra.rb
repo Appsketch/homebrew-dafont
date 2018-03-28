@@ -5,7 +5,6 @@ cask 'dafont-daedra' do
     url 'http://dl.dafont.com/dl/?f=daedra'
     name 'Daedra'
     homepage 'http://www.dafont.com/daedra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Daedra Bold Italic.otf'
     font 'Daedra Bold.otf'

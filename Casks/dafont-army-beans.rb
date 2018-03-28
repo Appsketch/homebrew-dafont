@@ -5,7 +5,6 @@ cask 'dafont-army-beans' do
     url 'http://dl.dafont.com/dl/?f=army_beans'
     name 'Army Beans'
     homepage 'http://www.dafont.com/army-beans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'armybeans.ttf'
 end

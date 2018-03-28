@@ -5,7 +5,6 @@ cask 'dafont-republica-minor' do
     url 'http://dl.dafont.com/dl/?f=republica_minor'
     name 'Republica Minor'
     homepage 'http://www.dafont.com/republica-minor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Republica Minor Bold Italic.ttf'
     font 'Republica Minor Regular.ttf'

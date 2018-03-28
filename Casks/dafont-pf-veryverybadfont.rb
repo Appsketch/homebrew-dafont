@@ -5,7 +5,6 @@ cask 'dafont-pf-veryverybadfont' do
     url 'http://dl.dafont.com/dl/?f=pf_veryverybadfont'
     name 'PFveryverybadfont'
     homepage 'http://www.dafont.com/pf-veryverybadfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pf_veryverybadfont19.ttf'
     font 'pf_veryverybadfont20.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-pointy-solid' do
     url 'http://dl.dafont.com/dl/?f=pointy_solid'
     name 'Pointy Solid'
     homepage 'http://www.dafont.com/pointy-solid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pointy Solid.ttf'
 end

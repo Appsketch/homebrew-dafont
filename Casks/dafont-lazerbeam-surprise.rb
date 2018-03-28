@@ -5,7 +5,6 @@ cask 'dafont-lazerbeam-surprise' do
     url 'http://dl.dafont.com/dl/?f=lazerbeam_surprise'
     name 'Lazerbeam Surprise'
     homepage 'http://www.dafont.com/lazerbeam-surprise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LAZERBEAMSURPRISE.TTF'
 end

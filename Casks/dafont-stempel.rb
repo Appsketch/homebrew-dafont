@@ -5,7 +5,6 @@ cask 'dafont-stempel' do
     url 'http://dl.dafont.com/dl/?f=stempel'
     name 'Stempel'
     homepage 'http://www.dafont.com/stempel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stempel.ttf'
 end

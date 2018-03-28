@@ -5,7 +5,6 @@ cask 'dafont-novation-box-st' do
     url 'http://dl.dafont.com/dl/?f=novation_box_st'
     name 'Novation Box St'
     homepage 'http://www.dafont.com/novation-box-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Novation Box st.ttf'
 end

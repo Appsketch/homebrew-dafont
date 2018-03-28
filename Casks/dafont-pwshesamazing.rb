@@ -5,7 +5,6 @@ cask 'dafont-pwshesamazing' do
     url 'http://dl.dafont.com/dl/?f=pwshesamazing'
     name 'PW Shes Amazing'
     homepage 'http://www.dafont.com/pwshesamazing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWShesAmazing.ttf'
 end

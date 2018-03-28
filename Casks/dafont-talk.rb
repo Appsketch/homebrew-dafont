@@ -5,7 +5,6 @@ cask 'dafont-talk' do
     url 'http://dl.dafont.com/dl/?f=talk'
     name 'Talk'
     homepage 'http://www.dafont.com/talk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tab_____.ttf'
 end

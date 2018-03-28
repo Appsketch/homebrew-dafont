@@ -5,7 +5,6 @@ cask 'dafont-extra-large' do
     url 'http://dl.dafont.com/dl/?f=extra_large'
     name 'Extra Large'
     homepage 'http://www.dafont.com/extra-large.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EXTRA LARGE.ttf'
 end

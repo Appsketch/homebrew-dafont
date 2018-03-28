@@ -5,7 +5,6 @@ cask 'dafont-undo' do
     url 'http://dl.dafont.com/dl/?f=undo'
     name 'Undo35'
     homepage 'http://www.dafont.com/undo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UNDO35__.TTF'
     font 'UNDO36__.TTF'

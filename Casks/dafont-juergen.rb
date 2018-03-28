@@ -5,7 +5,6 @@ cask 'dafont-juergen' do
     url 'http://dl.dafont.com/dl/?f=juergen'
     name 'Juergen'
     homepage 'http://www.dafont.com/juergen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Juergen Bold Kursiv.ttf'
     font 'Juergen Italic.ttf'

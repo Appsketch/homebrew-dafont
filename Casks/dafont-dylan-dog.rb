@@ -5,7 +5,6 @@ cask 'dafont-dylan-dog' do
     url 'http://dl.dafont.com/dl/?f=dylan_dog'
     name 'Dylan Dog'
     homepage 'http://www.dafont.com/dylan-dog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DYLAN DOG.otf'
 end

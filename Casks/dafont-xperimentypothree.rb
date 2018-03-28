@@ -5,7 +5,6 @@ cask 'dafont-xperimentypothree' do
     url 'http://dl.dafont.com/dl/?f=xperimentypothree'
     name 'XperimentypoThree'
     homepage 'http://www.dafont.com/xperimentypothree.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XperimentypoThree-B-Square.ttf'
     font 'XperimentypoThree-C-Square.ttf'

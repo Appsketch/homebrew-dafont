@@ -5,7 +5,6 @@ cask 'dafont-breathe-fire' do
     url 'http://dl.dafont.com/dl/?f=breathe_fire'
     name 'Breathe Fire'
     homepage 'http://www.dafont.com/breathe-fire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Breathe Fire.otf'
 end

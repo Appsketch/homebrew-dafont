@@ -5,7 +5,6 @@ cask 'dafont-stenha' do
     url 'http://dl.dafont.com/dl/?f=stenha'
     name 'Stenha'
     homepage 'http://www.dafont.com/stenha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stenha.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-amptmann-script' do
     url 'http://dl.dafont.com/dl/?f=amptmann_script'
     name 'Amptmann Script'
     homepage 'http://www.dafont.com/amptmann-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amptmann Script.ttf'
 end

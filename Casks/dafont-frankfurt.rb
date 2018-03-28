@@ -5,7 +5,6 @@ cask 'dafont-frankfurt' do
     url 'http://dl.dafont.com/dl/?f=frankfurt'
     name 'Frankfurt'
     homepage 'http://www.dafont.com/frankfurt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'frankfrt.ttf'
 end

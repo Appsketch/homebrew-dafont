@@ -5,7 +5,6 @@ cask 'dafont-extraordinary-craft' do
     url 'http://dl.dafont.com/dl/?f=extraordinary_craft'
     name 'Extraordinary Craft'
     homepage 'http://www.dafont.com/extraordinary-craft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EXTRAORDINARI CRAFT.ttf'
 end

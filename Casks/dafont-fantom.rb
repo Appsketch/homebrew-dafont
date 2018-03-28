@@ -5,7 +5,6 @@ cask 'dafont-fantom' do
     url 'http://dl.dafont.com/dl/?f=fantom'
     name 'Fantom'
     homepage 'http://www.dafont.com/fantom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fantom.ttf'
     font 'fantom3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-kbtalkingloudly' do
     url 'http://dl.dafont.com/dl/?f=kbtalkingloudly'
     name 'KB Talking Loudly'
     homepage 'http://www.dafont.com/kbtalkingloudly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBTalkingLoudly.ttf'
 end

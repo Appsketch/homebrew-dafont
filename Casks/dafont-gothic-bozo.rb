@@ -5,7 +5,6 @@ cask 'dafont-gothic-bozo' do
     url 'http://dl.dafont.com/dl/?f=gothic_bozo'
     name 'Gothic Bozo'
     homepage 'http://www.dafont.com/gothic-bozo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gothic Bozo.ttf'
 end

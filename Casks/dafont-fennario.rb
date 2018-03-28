@@ -5,7 +5,6 @@ cask 'dafont-fennario' do
     url 'http://dl.dafont.com/dl/?f=fennario'
     name 'Fennario'
     homepage 'http://www.dafont.com/fennario.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fennl___.ttf'
     font 'fennrg__.ttf'

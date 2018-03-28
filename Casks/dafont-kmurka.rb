@@ -5,7 +5,6 @@ cask 'dafont-kmurka' do
     url 'http://dl.dafont.com/dl/?f=kmurka'
     name 'Kmurka'
     homepage 'http://www.dafont.com/kmurka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kmurka.ttf'
 end

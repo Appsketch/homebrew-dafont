@@ -5,7 +5,6 @@ cask 'dafont-puravida' do
     url 'http://dl.dafont.com/dl/?f=puravida'
     name 'Pura Vida'
     homepage 'http://www.dafont.com/puravida.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PuraVidaNB.ttf'
 end

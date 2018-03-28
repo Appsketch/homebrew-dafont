@@ -5,7 +5,6 @@ cask 'dafont-cf-haunted-house' do
     url 'http://dl.dafont.com/dl/?f=cf_haunted_house'
     name 'CF Haunted House'
     homepage 'http://www.dafont.com/cf-haunted-house.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFHauntedHouse-Regular.ttf'
 end

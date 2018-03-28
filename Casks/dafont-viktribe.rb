@@ -5,7 +5,6 @@ cask 'dafont-viktribe' do
     url 'http://dl.dafont.com/dl/?f=viktribe'
     name 'Viktribe'
     homepage 'http://www.dafont.com/viktribe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'viktribe.ttf'
 end

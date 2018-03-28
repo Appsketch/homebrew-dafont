@@ -5,7 +5,6 @@ cask 'dafont-endless-boss-battle' do
     url 'http://dl.dafont.com/dl/?f=endless_boss_battle'
     name 'Endless Boss Battle'
     homepage 'http://www.dafont.com/endless-boss-battle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Endless Boss Battle.ttf'
 end

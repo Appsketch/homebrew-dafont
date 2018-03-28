@@ -5,7 +5,6 @@ cask 'dafont-country-cuties' do
     url 'http://dl.dafont.com/dl/?f=country_cuties'
     name 'Country Cuties'
     homepage 'http://www.dafont.com/country-cuties.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Country Cuties.ttf'
 end

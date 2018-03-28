@@ -5,7 +5,6 @@ cask 'dafont-paranoid-orange' do
     url 'http://dl.dafont.com/dl/?f=paranoid_orange'
     name 'Paranoid Orange'
     homepage 'http://www.dafont.com/paranoid-orange.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paranoid Orange.ttf'
 end

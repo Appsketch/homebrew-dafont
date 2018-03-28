@@ -5,7 +5,6 @@ cask 'dafont-enjoy-the-alien' do
     url 'http://dl.dafont.com/dl/?f=enjoy_the_alien'
     name 'Enjoy The Alien'
     homepage 'http://www.dafont.com/enjoy-the-alien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Enjoy The Alien.otf'
 end

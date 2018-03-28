@@ -5,7 +5,6 @@ cask 'dafont-1945' do
     url 'http://dl.dafont.com/dl/?f=1945'
     name '1945'
     homepage 'http://www.dafont.com/1945.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1945.ttf'
 end

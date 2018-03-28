@@ -5,7 +5,6 @@ cask 'dafont-slabthing' do
     url 'http://dl.dafont.com/dl/?f=slabthing'
     name 'Slab Thing'
     homepage 'http://www.dafont.com/slabthing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SlabThing.ttf'
 end

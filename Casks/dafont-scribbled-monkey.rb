@@ -5,7 +5,6 @@ cask 'dafont-scribbled-monkey' do
     url 'http://dl.dafont.com/dl/?f=scribbled_monkey'
     name 'Scribbled Monkey'
     homepage 'http://www.dafont.com/scribbled-monkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCRIM___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pwsavane' do
     url 'http://dl.dafont.com/dl/?f=pwsavane'
     name 'PW Savane'
     homepage 'http://www.dafont.com/pwsavane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWSavane.ttf'
 end

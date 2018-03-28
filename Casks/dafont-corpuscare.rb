@@ -5,7 +5,6 @@ cask 'dafont-corpuscare' do
     url 'http://dl.dafont.com/dl/?f=corpuscare'
     name 'CorpusCare'
     homepage 'http://www.dafont.com/corpuscare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'corpuscare_light.ttf'
     font 'corpuscare.ttf'

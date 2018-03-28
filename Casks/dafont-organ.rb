@@ -5,7 +5,6 @@ cask 'dafont-organ' do
     url 'http://dl.dafont.com/dl/?f=organ'
     name 'Organ'
     homepage 'http://www.dafont.com/organ.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ORGAN___.TTF'
 end

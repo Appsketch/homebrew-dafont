@@ -5,7 +5,6 @@ cask 'dafont-bountiful' do
     url 'http://dl.dafont.com/dl/?f=bountiful'
     name 'Bountiful'
     homepage 'http://www.dafont.com/bountiful.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bountifl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sci-fi-box' do
     url 'http://dl.dafont.com/dl/?f=sci_fi_box'
     name 'Sci-Fi Box'
     homepage 'http://www.dafont.com/sci-fi-box.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SCI FI BOX.ttf'
 end

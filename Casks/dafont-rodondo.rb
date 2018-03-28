@@ -5,7 +5,6 @@ cask 'dafont-rodondo' do
     url 'http://dl.dafont.com/dl/?f=rodondo'
     name 'Rodondo'
     homepage 'http://www.dafont.com/rodondo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rodondo.otf'
 end

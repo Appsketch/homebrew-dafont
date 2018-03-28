@@ -5,7 +5,6 @@ cask 'dafont-fine-homage' do
     url 'http://dl.dafont.com/dl/?f=fine_homage'
     name 'Fine Homage'
     homepage 'http://www.dafont.com/fine-homage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fine Homage.ttf'
 end

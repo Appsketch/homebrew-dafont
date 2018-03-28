@@ -5,7 +5,6 @@ cask 'dafont-kbplaydate' do
     url 'http://dl.dafont.com/dl/?f=kbplaydate'
     name 'KB Play Date'
     homepage 'http://www.dafont.com/kbplaydate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBPlayDate.ttf'
 end

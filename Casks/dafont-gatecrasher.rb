@@ -5,7 +5,6 @@ cask 'dafont-gatecrasher' do
     url 'http://dl.dafont.com/dl/?f=gatecrasher'
     name 'Gatecrasher'
     homepage 'http://www.dafont.com/gatecrasher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GATECRAS.TTF'
 end

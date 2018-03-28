@@ -5,7 +5,6 @@ cask 'dafont-el-rio-lobo' do
     url 'http://dl.dafont.com/dl/?f=el_rio_lobo'
     name 'El Rio Lobo'
     homepage 'http://www.dafont.com/el-rio-lobo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ELRIOTT2.TTF'
 end

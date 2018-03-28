@@ -5,7 +5,6 @@ cask 'dafont-saveaprayer' do
     url 'http://dl.dafont.com/dl/?f=saveaprayer'
     name 'Save A Prayer'
     homepage 'http://www.dafont.com/saveaprayer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SaveAPrayer.ttf'
 end

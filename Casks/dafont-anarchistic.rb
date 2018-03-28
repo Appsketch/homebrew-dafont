@@ -5,7 +5,6 @@ cask 'dafont-anarchistic' do
     url 'http://dl.dafont.com/dl/?f=anarchistic'
     name 'Anarchistic'
     homepage 'http://www.dafont.com/anarchistic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anarchistic&copy;.ttf'
 end

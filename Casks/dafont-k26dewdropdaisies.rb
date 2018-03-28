@@ -5,7 +5,6 @@ cask 'dafont-k26dewdropdaisies' do
     url 'http://dl.dafont.com/dl/?f=k26dewdropdaisies'
     name 'K26 Dewdrop Daisies'
     homepage 'http://www.dafont.com/k26dewdropdaisies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K26DewdropDaisies.ttf'
 end

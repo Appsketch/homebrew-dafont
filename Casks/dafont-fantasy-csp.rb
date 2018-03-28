@@ -5,7 +5,6 @@ cask 'dafont-fantasy-csp' do
     url 'http://dl.dafont.com/dl/?f=fantasy_csp'
     name 'Fantasy CSP'
     homepage 'http://www.dafont.com/fantasy-csp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fantasy_csp.ttf'
 end

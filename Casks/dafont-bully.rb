@@ -5,7 +5,6 @@ cask 'dafont-bully' do
     url 'http://dl.dafont.com/dl/?f=bully'
     name 'Bully'
     homepage 'http://www.dafont.com/bully.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bully.otf'
 end

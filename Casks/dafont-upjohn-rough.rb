@@ -5,7 +5,6 @@ cask 'dafont-upjohn-rough' do
     url 'http://dl.dafont.com/dl/?f=upjohn_rough'
     name 'Upjohn Rough'
     homepage 'http://www.dafont.com/upjohn-rough.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Upjohn-Rough.ttf'
 end

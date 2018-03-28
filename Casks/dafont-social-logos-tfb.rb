@@ -5,7 +5,6 @@ cask 'dafont-social-logos-tfb' do
     url 'http://dl.dafont.com/dl/?f=social_logos_tfb'
     name 'Social Logos TFB'
     homepage 'http://www.dafont.com/social-logos-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Social logos tfb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-decompositionphase1' do
     url 'http://dl.dafont.com/dl/?f=decompositionphase1'
     name 'Decomposition phase 1'
     homepage 'http://www.dafont.com/decompositionphase1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Decompositionphase1.ttf'
 end

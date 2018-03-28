@@ -5,7 +5,6 @@ cask 'dafont-rebucked' do
     url 'http://dl.dafont.com/dl/?f=rebucked'
     name 'Rebucked'
     homepage 'http://www.dafont.com/rebucked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rebucked.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rasterman' do
     url 'http://dl.dafont.com/dl/?f=rasterman'
     name 'Rasterman'
     homepage 'http://www.dafont.com/rasterman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rasterman.ttf'
 end

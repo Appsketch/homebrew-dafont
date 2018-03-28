@@ -5,7 +5,6 @@ cask 'dafont-cigar' do
     url 'http://dl.dafont.com/dl/?f=cigar'
     name 'Cigar'
     homepage 'http://www.dafont.com/cigar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cigar.ttf'
 end

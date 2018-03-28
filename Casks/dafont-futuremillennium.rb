@@ -5,7 +5,6 @@ cask 'dafont-futuremillennium' do
     url 'http://dl.dafont.com/dl/?f=futuremillennium'
     name 'Future Millennium'
     homepage 'http://www.dafont.com/futuremillennium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FutureMillennium Black.ttf'
     font 'FutureMillennium Italic.ttf'

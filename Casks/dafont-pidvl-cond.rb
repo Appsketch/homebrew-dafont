@@ -5,7 +5,6 @@ cask 'dafont-pidvl-cond' do
     url 'http://dl.dafont.com/dl/?f=pidvl_cond'
     name 'PIDvl cond'
     homepage 'http://www.dafont.com/pidvl-cond.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIDvl cond.ttf'
 end

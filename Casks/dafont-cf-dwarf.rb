@@ -5,7 +5,6 @@ cask 'dafont-cf-dwarf' do
     url 'http://dl.dafont.com/dl/?f=cf_dwarf'
     name 'CF Dwarf'
     homepage 'http://www.dafont.com/cf-dwarf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFDwarf-Regular.ttf'
 end

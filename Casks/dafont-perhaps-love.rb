@@ -5,7 +5,6 @@ cask 'dafont-perhaps-love' do
     url 'http://dl.dafont.com/dl/?f=perhaps_love'
     name 'Perhaps Love'
     homepage 'http://www.dafont.com/perhaps-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Perhaps Love.ttf'
 end

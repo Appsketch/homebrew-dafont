@@ -5,7 +5,6 @@ cask 'dafont-die-hund' do
     url 'http://dl.dafont.com/dl/?f=die_hund'
     name 'Die Hund'
     homepage 'http://www.dafont.com/die-hund.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIEHN___.TTF'
 end

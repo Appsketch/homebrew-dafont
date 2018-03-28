@@ -5,7 +5,6 @@ cask 'dafont-triforce' do
     url 'http://dl.dafont.com/dl/?f=triforce'
     name 'Triforce'
     homepage 'http://www.dafont.com/triforce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Triforce.ttf'
 end

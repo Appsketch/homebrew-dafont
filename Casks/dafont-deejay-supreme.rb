@@ -5,7 +5,6 @@ cask 'dafont-deejay-supreme' do
     url 'http://dl.dafont.com/dl/?f=deejay_supreme'
     name 'Deejay Supreme'
     homepage 'http://www.dafont.com/deejay-supreme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEEJS___.TTF'
 end

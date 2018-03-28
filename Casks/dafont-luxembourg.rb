@@ -5,7 +5,6 @@ cask 'dafont-luxembourg' do
     url 'http://dl.dafont.com/dl/?f=luxembourg'
     name 'Luxembourg'
     homepage 'http://www.dafont.com/luxembourg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LUXEMBOU.TTF'
 end

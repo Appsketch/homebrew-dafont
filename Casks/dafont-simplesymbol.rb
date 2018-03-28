@@ -5,7 +5,6 @@ cask 'dafont-simplesymbol' do
     url 'http://dl.dafont.com/dl/?f=simplesymbol'
     name 'Simplesymbol'
     homepage 'http://www.dafont.com/simplesymbol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simplesnails ver 4.0 only symbols.ttf'
 end

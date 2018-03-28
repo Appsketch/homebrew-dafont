@@ -5,7 +5,6 @@ cask 'dafont-berger-berger-caps' do
     url 'http://dl.dafont.com/dl/?f=berger_berger_caps'
     name 'Berger &amp; Berger Caps'
     homepage 'http://www.dafont.com/berger-berger-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Berger&amp;BergerCaps.otf'
 end

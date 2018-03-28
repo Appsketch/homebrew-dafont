@@ -5,7 +5,6 @@ cask 'dafont-quite-chocolatey' do
     url 'http://dl.dafont.com/dl/?f=quite_chocolatey'
     name 'Quite Chocolatey'
     homepage 'http://www.dafont.com/quite-chocolatey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quite Chocolatey.ttf'
 end

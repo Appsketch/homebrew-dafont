@@ -5,7 +5,6 @@ cask 'dafont-banana-split' do
     url 'http://dl.dafont.com/dl/?f=banana_split'
     name 'Banana Split'
     homepage 'http://www.dafont.com/banana-split.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Banana Split.ttf'
 end

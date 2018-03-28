@@ -5,7 +5,6 @@ cask 'dafont-rip-off' do
     url 'http://dl.dafont.com/dl/?f=rip_off'
     name 'Rip-off'
     homepage 'http://www.dafont.com/rip-off.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ripoff.ttf'
 end

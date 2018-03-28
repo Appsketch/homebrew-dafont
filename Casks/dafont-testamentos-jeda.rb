@@ -5,7 +5,6 @@ cask 'dafont-testamentos-jeda' do
     url 'http://dl.dafont.com/dl/?f=testamentos_jeda'
     name 'Testamentos Jed@'
     homepage 'http://www.dafont.com/testamentos-jeda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Testamento-Jed@.ttf'
 end

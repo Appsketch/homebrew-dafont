@@ -5,7 +5,6 @@ cask 'dafont-spiral' do
     url 'http://dl.dafont.com/dl/?f=spiral'
     name 'Spiral'
     homepage 'http://www.dafont.com/spiral.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spiral.ttf'
 end

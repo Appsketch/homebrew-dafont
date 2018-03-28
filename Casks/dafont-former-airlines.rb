@@ -5,7 +5,6 @@ cask 'dafont-former-airlines' do
     url 'http://dl.dafont.com/dl/?f=former_airlines'
     name 'Former Airlines'
     homepage 'http://www.dafont.com/former-airlines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'former.ttf'
 end

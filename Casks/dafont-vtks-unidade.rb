@@ -5,7 +5,6 @@ cask 'dafont-vtks-unidade' do
     url 'http://dl.dafont.com/dl/?f=vtks_unidade'
     name 'Vtks Unidade'
     homepage 'http://www.dafont.com/vtks-unidade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks unidade bold.ttf'
     font 'vtks unidade ultra bold.ttf'

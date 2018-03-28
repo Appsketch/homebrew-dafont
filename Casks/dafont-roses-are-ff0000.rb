@@ -5,7 +5,6 @@ cask 'dafont-roses-are-ff0000' do
     url 'http://dl.dafont.com/dl/?f=roses_are_ff0000'
     name 'Roses are FF0000'
     homepage 'http://www.dafont.com/roses-are-ff0000.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RosesareFF0000.ttf'
 end

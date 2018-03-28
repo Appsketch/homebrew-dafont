@@ -5,7 +5,6 @@ cask 'dafont-pixarrows' do
     url 'http://dl.dafont.com/dl/?f=pixarrows'
     name 'PixArrows'
     homepage 'http://www.dafont.com/pixarrows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixArrows.ttf'
 end

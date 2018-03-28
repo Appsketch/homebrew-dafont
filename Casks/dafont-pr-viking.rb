@@ -5,7 +5,6 @@ cask 'dafont-pr-viking' do
     url 'http://dl.dafont.com/dl/?f=pr_viking'
     name 'PR Viking'
     homepage 'http://www.dafont.com/pr-viking.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PR Viking Alternates.ttf'
     font 'PR Viking.ttf'

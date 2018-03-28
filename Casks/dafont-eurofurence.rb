@@ -5,7 +5,6 @@ cask 'dafont-eurofurence' do
     url 'http://dl.dafont.com/dl/?f=eurofurence'
     name 'Eurofurence'
     homepage 'http://www.dafont.com/eurofurence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eurof35.ttf'
     font 'eurof36.ttf'

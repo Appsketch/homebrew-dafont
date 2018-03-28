@@ -5,7 +5,6 @@ cask 'dafont-imperfetta' do
     url 'http://dl.dafont.com/dl/?f=imperfetta'
     name 'Imperfetta'
     homepage 'http://www.dafont.com/imperfetta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Imperfetta.ttf'
 end

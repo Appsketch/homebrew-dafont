@@ -5,7 +5,6 @@ cask 'dafont-lighthead' do
     url 'http://dl.dafont.com/dl/?f=lighthead'
     name 'Lighthead'
     homepage 'http://www.dafont.com/lighthead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lighthead.ttf'
 end

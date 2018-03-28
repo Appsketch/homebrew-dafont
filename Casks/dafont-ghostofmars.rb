@@ -5,7 +5,6 @@ cask 'dafont-ghostofmars' do
     url 'http://dl.dafont.com/dl/?f=ghostofmars'
     name 'Ghost Of Mars'
     homepage 'http://www.dafont.com/ghostofmars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GhostOfMars.ttf'
 end

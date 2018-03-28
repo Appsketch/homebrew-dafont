@@ -5,7 +5,6 @@ cask 'dafont-kleenblades-ldr' do
     url 'http://dl.dafont.com/dl/?f=kleenblades_ldr'
     name 'KleenBlades LDR'
     homepage 'http://www.dafont.com/kleenblades-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kleenblades_ldr.ttf'
 end

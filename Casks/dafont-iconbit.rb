@@ -5,7 +5,6 @@ cask 'dafont-iconbit' do
     url 'http://dl.dafont.com/dl/?f=iconbit'
     name 'IconBit'
     homepage 'http://www.dafont.com/iconbit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IconBitOne.ttf'
     font 'IconBitTwo.ttf'

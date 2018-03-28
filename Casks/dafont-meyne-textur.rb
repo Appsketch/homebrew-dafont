@@ -5,7 +5,6 @@ cask 'dafont-meyne-textur' do
     url 'http://dl.dafont.com/dl/?f=meyne_textur'
     name 'Meyne Textur'
     homepage 'http://www.dafont.com/meyne-textur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'meyne_textur.ttf'
 end

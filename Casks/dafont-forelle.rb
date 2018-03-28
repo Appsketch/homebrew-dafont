@@ -5,7 +5,6 @@ cask 'dafont-forelle' do
     url 'http://dl.dafont.com/dl/?f=forelle'
     name 'Forelle'
     homepage 'http://www.dafont.com/forelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Forelle.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cuecafont' do
     url 'http://dl.dafont.com/dl/?f=cuecafont'
     name 'Cuecafont'
     homepage 'http://www.dafont.com/cuecafont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cuecafont.ttf'
 end

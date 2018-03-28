@@ -5,7 +5,6 @@ cask 'dafont-zillah' do
     url 'http://dl.dafont.com/dl/?f=zillah'
     name 'Zillah Modern'
     homepage 'http://www.dafont.com/zillah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZILLM___.ttf'
     font 'ZILLME__.ttf'

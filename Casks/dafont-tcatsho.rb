@@ -5,7 +5,6 @@ cask 'dafont-tcatsho' do
     url 'http://dl.dafont.com/dl/?f=tcatsho'
     name 'TcatsHo'
     homepage 'http://www.dafont.com/tcatsho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TcatsHo.ttf'
 end

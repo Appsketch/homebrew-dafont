@@ -5,7 +5,6 @@ cask 'dafont-futurelines' do
     url 'http://dl.dafont.com/dl/?f=futurelines'
     name 'Future Lines'
     homepage 'http://www.dafont.com/futurelines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FutureLines.ttf'
 end

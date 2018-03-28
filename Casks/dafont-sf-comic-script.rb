@@ -5,7 +5,6 @@ cask 'dafont-sf-comic-script' do
     url 'http://dl.dafont.com/dl/?f=sf_comic_script'
     name 'SF Comic Script'
     homepage 'http://www.dafont.com/sf-comic-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Comic Script Bold.ttf'
     font 'SF Comic Script Condensed.ttf'

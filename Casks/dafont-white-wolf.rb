@@ -5,7 +5,6 @@ cask 'dafont-white-wolf' do
     url 'http://dl.dafont.com/dl/?f=white_wolf'
     name 'White Wolf'
     homepage 'http://www.dafont.com/white-wolf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhiteWolf.ttf'
 end

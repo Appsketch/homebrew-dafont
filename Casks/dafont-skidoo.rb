@@ -5,7 +5,6 @@ cask 'dafont-skidoo' do
     url 'http://dl.dafont.com/dl/?f=skidoo'
     name 'Skidoo'
     homepage 'http://www.dafont.com/skidoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkidooFat_RH.ttf'
     font 'SkidooMedium_RH.ttf'

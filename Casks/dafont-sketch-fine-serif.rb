@@ -5,7 +5,6 @@ cask 'dafont-sketch-fine-serif' do
     url 'http://dl.dafont.com/dl/?f=sketch_fine_serif'
     name 'Sketch Fine Serif'
     homepage 'http://www.dafont.com/sketch-fine-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketch Fine Serif.otf'
 end

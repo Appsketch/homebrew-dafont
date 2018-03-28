@@ -5,7 +5,6 @@ cask 'dafont-anal-probe' do
     url 'http://dl.dafont.com/dl/?f=anal_probe'
     name 'Anal-probe'
     homepage 'http://www.dafont.com/anal-probe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anal_probe_2012x.ttf'
 end

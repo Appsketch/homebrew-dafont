@@ -5,7 +5,6 @@ cask 'dafont-dotphoria' do
     url 'http://dl.dafont.com/dl/?f=dotphoria'
     name 'Dotphoria'
     homepage 'http://www.dafont.com/dotphoria.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dotphoria.TTF'
 end

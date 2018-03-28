@@ -5,7 +5,6 @@ cask 'dafont-sunset-gp' do
     url 'http://dl.dafont.com/dl/?f=sunset_gp'
     name 'Sunset GP'
     homepage 'http://www.dafont.com/sunset-gp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sunset GP.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-extra-fat' do
     url 'http://dl.dafont.com/dl/?f=extra_fat'
     name 'Extra Fat'
     homepage 'http://www.dafont.com/extra-fat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extra Fat.ttf'
 end

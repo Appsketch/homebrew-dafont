@@ -5,7 +5,6 @@ cask 'dafont-jd-neos' do
     url 'http://dl.dafont.com/dl/?f=jd_neos'
     name 'JD Neos'
     homepage 'http://www.dafont.com/jd-neos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_neos.ttf'
 end

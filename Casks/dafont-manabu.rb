@@ -5,7 +5,6 @@ cask 'dafont-manabu' do
     url 'http://dl.dafont.com/dl/?f=manabu'
     name 'Manabu'
     homepage 'http://www.dafont.com/manabu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MANABU.otf'
 end

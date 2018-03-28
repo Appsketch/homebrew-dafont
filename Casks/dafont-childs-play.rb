@@ -5,7 +5,6 @@ cask 'dafont-childs-play' do
     url 'http://dl.dafont.com/dl/?f=childs_play'
     name 'Child&#039;s Play'
     homepage 'http://www.dafont.com/childs-play.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHILD.TTF'
 end

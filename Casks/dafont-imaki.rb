@@ -5,7 +5,6 @@ cask 'dafont-imaki' do
     url 'http://dl.dafont.com/dl/?f=imaki'
     name 'Imaki'
     homepage 'http://www.dafont.com/imaki.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Imaki Bold Italic.otf'
     font 'Imaki Bold.otf'

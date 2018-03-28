@@ -5,7 +5,6 @@ cask 'dafont-kanzlei-initialen' do
     url 'http://dl.dafont.com/dl/?f=kanzlei_initialen'
     name 'Kanzlei Initialen'
     homepage 'http://www.dafont.com/kanzlei-initialen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kanzlei-Initialen.ttf'
 end

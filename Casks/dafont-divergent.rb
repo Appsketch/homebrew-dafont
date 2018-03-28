@@ -5,7 +5,6 @@ cask 'dafont-divergent' do
     url 'http://dl.dafont.com/dl/?f=divergent'
     name 'Divergent'
     homepage 'http://www.dafont.com/divergent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIVERGENT.ttf'
 end

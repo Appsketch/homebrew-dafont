@@ -5,7 +5,6 @@ cask 'dafont-auribus-tenere-lupum' do
     url 'http://dl.dafont.com/dl/?f=auribus_tenere_lupum'
     name 'Auribus tenere lupum'
     homepage 'http://www.dafont.com/auribus-tenere-lupum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Auribus tenere lupum.ttf'
 end

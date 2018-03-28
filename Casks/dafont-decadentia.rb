@@ -5,7 +5,6 @@ cask 'dafont-decadentia' do
     url 'http://dl.dafont.com/dl/?f=decadentia'
     name 'Decadentia'
     homepage 'http://www.dafont.com/decadentia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Decadentia.ttf'
 end

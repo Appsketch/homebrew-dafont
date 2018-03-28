@@ -5,7 +5,6 @@ cask 'dafont-ave-betwan' do
     url 'http://dl.dafont.com/dl/?f=ave_betwan'
     name 'Ave Betwan'
     homepage 'http://www.dafont.com/ave-betwan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AveBetwan_PERSONAL_USE.ttf'
 end

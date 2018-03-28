@@ -5,7 +5,6 @@ cask 'dafont-splendid66' do
     url 'http://dl.dafont.com/dl/?f=splendid66'
     name 'Splendid 66'
     homepage 'http://www.dafont.com/splendid66.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SplendidB.ttf'
     font 'SplendidI.ttf'

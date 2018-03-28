@@ -5,7 +5,6 @@ cask 'dafont-nox' do
     url 'http://dl.dafont.com/dl/?f=nox'
     name 'Nox'
     homepage 'http://www.dafont.com/nox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nox.ttf'
 end

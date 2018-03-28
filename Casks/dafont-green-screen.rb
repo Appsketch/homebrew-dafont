@@ -5,7 +5,6 @@ cask 'dafont-green-screen' do
     url 'http://dl.dafont.com/dl/?f=green_screen'
     name 'Green Screen'
     homepage 'http://www.dafont.com/green-screen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Greenscr.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-neuezierschrift' do
     url 'http://dl.dafont.com/dl/?f=neuezierschrift'
     name 'Neue Zier Schrift'
     homepage 'http://www.dafont.com/neuezierschrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeueZierSchrift.ttf'
 end

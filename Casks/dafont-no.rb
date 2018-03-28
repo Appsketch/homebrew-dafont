@@ -5,7 +5,6 @@ cask 'dafont-no' do
     url 'http://dl.dafont.com/dl/?f=no'
     name 'No'
     homepage 'http://www.dafont.com/no.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'No-Regular-InLine.ttf'
 end

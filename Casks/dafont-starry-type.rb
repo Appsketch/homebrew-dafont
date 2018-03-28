@@ -5,7 +5,6 @@ cask 'dafont-starry-type' do
     url 'http://dl.dafont.com/dl/?f=starry_type'
     name 'Starry Type'
     homepage 'http://www.dafont.com/starry-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StarryType.ttf'
     font 'StarryTypeLA.ttf'

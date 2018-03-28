@@ -5,7 +5,6 @@ cask 'dafont-xiphos' do
     url 'http://dl.dafont.com/dl/?f=xiphos'
     name 'Xiphos'
     homepage 'http://www.dafont.com/xiphos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xiphos.ttf'
     font 'xiphos3d.ttf'

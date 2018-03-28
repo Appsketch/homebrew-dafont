@@ -5,7 +5,6 @@ cask 'dafont-vintage-porn' do
     url 'http://dl.dafont.com/dl/?f=vintage_porn'
     name 'Vintage Porn'
     homepage 'http://www.dafont.com/vintage-porn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vintage Porn.ttf'
 end

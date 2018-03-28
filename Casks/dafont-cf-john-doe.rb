@@ -5,7 +5,6 @@ cask 'dafont-cf-john-doe' do
     url 'http://dl.dafont.com/dl/?f=cf_john_doe'
     name 'CF John Doe'
     homepage 'http://www.dafont.com/cf-john-doe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFJohnDoePERSONALUSE-Regula.ttf'
 end

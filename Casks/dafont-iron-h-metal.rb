@@ -5,7 +5,6 @@ cask 'dafont-iron-h-metal' do
     url 'http://dl.dafont.com/dl/?f=iron_h_metal'
     name 'Iron H Metal'
     homepage 'http://www.dafont.com/iron-h-metal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iron H Metal Outline.ttf'
     font 'Iron H Metal.ttf'

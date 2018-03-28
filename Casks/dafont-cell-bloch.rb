@@ -5,7 +5,6 @@ cask 'dafont-cell-bloch' do
     url 'http://dl.dafont.com/dl/?f=cell_bloch'
     name 'Cell Bloch'
     homepage 'http://www.dafont.com/cell-bloch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CellBloch-Regular.ttf'
 end

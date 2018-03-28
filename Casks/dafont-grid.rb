@@ -5,7 +5,6 @@ cask 'dafont-grid' do
     url 'http://dl.dafont.com/dl/?f=grid'
     name 'Grid'
     homepage 'http://www.dafont.com/grid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRID.ttf'
 end

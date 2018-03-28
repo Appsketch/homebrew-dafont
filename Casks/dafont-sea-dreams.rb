@@ -5,7 +5,6 @@ cask 'dafont-sea-dreams' do
     url 'http://dl.dafont.com/dl/?f=sea_dreams'
     name 'Sea Dreams'
     homepage 'http://www.dafont.com/sea-dreams.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SeaDreams.ttf'
 end

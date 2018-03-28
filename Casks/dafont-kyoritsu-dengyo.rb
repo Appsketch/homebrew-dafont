@@ -5,7 +5,6 @@ cask 'dafont-kyoritsu-dengyo' do
     url 'http://dl.dafont.com/dl/?f=kyoritsu_dengyo'
     name 'Kyoritsu Dengyo'
     homepage 'http://www.dafont.com/kyoritsu-dengyo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kyoritsu dengyo.ttf'
 end

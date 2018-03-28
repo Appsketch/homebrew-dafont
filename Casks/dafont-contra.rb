@@ -5,7 +5,6 @@ cask 'dafont-contra' do
     url 'http://dl.dafont.com/dl/?f=contra'
     name 'Contra'
     homepage 'http://www.dafont.com/contra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CONTRA__.ttf'
     font 'CONTRAI_.ttf'

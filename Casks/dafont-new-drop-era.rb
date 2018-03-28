@@ -5,7 +5,6 @@ cask 'dafont-new-drop-era' do
     url 'http://dl.dafont.com/dl/?f=new_drop_era'
     name 'New Drop Era'
     homepage 'http://www.dafont.com/new-drop-era.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEW DROP ERA.ttf'
 end

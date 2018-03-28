@@ -5,7 +5,6 @@ cask 'dafont-amandes-salees' do
     url 'http://dl.dafont.com/dl/?f=amandes_salees'
     name 'Amandes Sal&eacute;es'
     homepage 'http://www.dafont.com/amandes-salees.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amandes Sales.ttf'
 end

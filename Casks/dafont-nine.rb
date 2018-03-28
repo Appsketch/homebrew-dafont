@@ -5,7 +5,6 @@ cask 'dafont-nine' do
     url 'http://dl.dafont.com/dl/?f=nine'
     name 'Nine'
     homepage 'http://www.dafont.com/nine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NINE.TTF'
 end

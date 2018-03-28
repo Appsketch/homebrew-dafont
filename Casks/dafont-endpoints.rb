@@ -5,7 +5,6 @@ cask 'dafont-endpoints' do
     url 'http://dl.dafont.com/dl/?f=endpoints'
     name 'Endpoints'
     homepage 'http://www.dafont.com/endpoints.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Endpoints.ttf'
 end

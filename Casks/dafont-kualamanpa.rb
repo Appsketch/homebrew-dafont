@@ -5,7 +5,6 @@ cask 'dafont-kualamanpa' do
     url 'http://dl.dafont.com/dl/?f=kualamanpa'
     name 'Kualamanpa'
     homepage 'http://www.dafont.com/kualamanpa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kualamanpa Font.ttf'
 end

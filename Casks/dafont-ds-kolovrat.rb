@@ -5,7 +5,6 @@ cask 'dafont-ds-kolovrat' do
     url 'http://dl.dafont.com/dl/?f=ds_kolovrat'
     name 'DS Kolovrat'
     homepage 'http://www.dafont.com/ds-kolovrat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kolovrat.ttf'
 end

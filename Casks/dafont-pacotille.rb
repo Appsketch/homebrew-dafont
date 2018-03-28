@@ -5,7 +5,6 @@ cask 'dafont-pacotille' do
     url 'http://dl.dafont.com/dl/?f=pacotille'
     name 'Pacotille'
     homepage 'http://www.dafont.com/pacotille.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PACOTILL-bold.TTF'
     font 'PACOTILL-ital-bold.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-amelialilykt' do
     url 'http://dl.dafont.com/dl/?f=amelialilykt'
     name 'Amelia Lily KT'
     homepage 'http://www.dafont.com/amelialilykt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmeliaLilyKT.ttf'
 end

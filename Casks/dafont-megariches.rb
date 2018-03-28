@@ -5,7 +5,6 @@ cask 'dafont-megariches' do
     url 'http://dl.dafont.com/dl/?f=megariches'
     name 'Mega Riches'
     homepage 'http://www.dafont.com/megariches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MegaRiches.ttf'
 end

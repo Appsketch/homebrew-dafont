@@ -5,7 +5,6 @@ cask 'dafont-raditas-cartoon' do
     url 'http://dl.dafont.com/dl/?f=raditas_cartoon'
     name 'Raditas Cartoon'
     homepage 'http://www.dafont.com/raditas-cartoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RADITAS CARTOON.ttf'
 end

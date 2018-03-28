@@ -5,7 +5,6 @@ cask 'dafont-gunny-manual' do
     url 'http://dl.dafont.com/dl/?f=gunny_manual'
     name 'Gunny Manual'
     homepage 'http://www.dafont.com/gunny-manual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gunnymal-v36.ttf'
     font 'gunnyman-v36.ttf'

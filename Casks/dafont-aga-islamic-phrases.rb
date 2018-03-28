@@ -5,7 +5,6 @@ cask 'dafont-aga-islamic-phrases' do
     url 'http://dl.dafont.com/dl/?f=aga_islamic_phrases'
     name 'AGA Islamic Phrases'
     homepage 'http://www.dafont.com/aga-islamic-phrases.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AGA_Islamic_Phrases.TTF'
 end

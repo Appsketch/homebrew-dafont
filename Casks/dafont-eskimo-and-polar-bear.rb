@@ -5,7 +5,6 @@ cask 'dafont-eskimo-and-polar-bear' do
     url 'http://dl.dafont.com/dl/?f=eskimo_and_polar_bear'
     name 'Eskimo and Polar Bear'
     homepage 'http://www.dafont.com/eskimo-and-polar-bear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eskimo and Polar Bear.ttf'
 end

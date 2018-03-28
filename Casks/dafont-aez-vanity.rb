@@ -5,7 +5,6 @@ cask 'dafont-aez-vanity' do
     url 'http://dl.dafont.com/dl/?f=aez_vanity'
     name 'AEZ Vanity'
     homepage 'http://www.dafont.com/aez-vanity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AEZ Vanity.ttf'
 end

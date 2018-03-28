@@ -5,7 +5,6 @@ cask 'dafont-console' do
     url 'http://dl.dafont.com/dl/?f=console'
     name 'Console'
     homepage 'http://www.dafont.com/console.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Console Input.ttf'
     font 'Console Output.ttf'

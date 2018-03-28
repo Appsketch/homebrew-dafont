@@ -5,7 +5,6 @@ cask 'dafont-speed' do
     url 'http://dl.dafont.com/dl/?f=speed'
     name 'Speed+'
     homepage 'http://www.dafont.com/speed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'speed+.ttf'
     font 'speed+2.ttf'

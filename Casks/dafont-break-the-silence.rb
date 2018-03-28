@@ -5,7 +5,6 @@ cask 'dafont-break-the-silence' do
     url 'http://dl.dafont.com/dl/?f=break_the_silence'
     name 'Break the Silence'
     homepage 'http://www.dafont.com/break-the-silence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BreakTheSilence.ttf'
 end

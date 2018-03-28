@@ -5,7 +5,6 @@ cask 'dafont-anderson-fireball-x' do
     url 'http://dl.dafont.com/dl/?f=anderson_fireball_x'
     name 'Anderson Fireball XL5'
     homepage 'http://www.dafont.com/anderson-fireball-x.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anderson Fireball XL5.ttf'
     font 'Anderson_Fireball_XL5_Shadow.ttf'

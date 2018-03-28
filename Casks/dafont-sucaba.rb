@@ -5,7 +5,6 @@ cask 'dafont-sucaba' do
     url 'http://dl.dafont.com/dl/?f=sucaba'
     name 'Sucaba'
     homepage 'http://www.dafont.com/sucaba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sucaba.ttf'
 end

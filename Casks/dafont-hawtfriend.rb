@@ -5,7 +5,6 @@ cask 'dafont-hawtfriend' do
     url 'http://dl.dafont.com/dl/?f=hawtfriend'
     name 'Hawt Friend'
     homepage 'http://www.dafont.com/hawtfriend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HawtFriend.ttf'
 end

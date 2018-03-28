@@ -5,7 +5,6 @@ cask 'dafont-westranga-st' do
     url 'http://dl.dafont.com/dl/?f=westranga_st'
     name 'Westranga ST'
     homepage 'http://www.dafont.com/westranga-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'westranga st.ttf'
 end

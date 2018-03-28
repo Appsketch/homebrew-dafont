@@ -5,7 +5,6 @@ cask 'dafont-baltimoretypewriterbold-beveled' do
     url 'http://dl.dafont.com/dl/?f=baltimoretypewriterbold_beveled'
     name 'Baltimore Typewriter Beveled'
     homepage 'http://www.dafont.com/baltimoretypewriterbold-beveled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BaltimoreTypewriterBold Beveled.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mjletter2' do
     url 'http://dl.dafont.com/dl/?f=mjletter2'
     name 'MJ Letter 2'
     homepage 'http://www.dafont.com/mjletter2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MJletter2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-red-list' do
     url 'http://dl.dafont.com/dl/?f=red_list'
     name 'Red List'
     homepage 'http://www.dafont.com/red-list.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'red list.ttf'
 end

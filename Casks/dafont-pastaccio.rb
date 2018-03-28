@@ -5,7 +5,6 @@ cask 'dafont-pastaccio' do
     url 'http://dl.dafont.com/dl/?f=pastaccio'
     name 'Pastaccio'
     homepage 'http://www.dafont.com/pastaccio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pastaccio.ttf'
 end

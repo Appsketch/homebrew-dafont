@@ -5,7 +5,6 @@ cask 'dafont-edito-mi-hijo' do
     url 'http://dl.dafont.com/dl/?f=edito_mi_hijo'
     name 'Edito mi hijo'
     homepage 'http://www.dafont.com/edito-mi-hijo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'edito mi hijo.ttf'
 end

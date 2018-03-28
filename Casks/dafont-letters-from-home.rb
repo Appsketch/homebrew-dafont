@@ -5,7 +5,6 @@ cask 'dafont-letters-from-home' do
     url 'http://dl.dafont.com/dl/?f=letters_from_home'
     name 'Letters From Home'
     homepage 'http://www.dafont.com/letters-from-home.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Letters From Home.ttf'
 end

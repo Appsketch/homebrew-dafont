@@ -5,7 +5,6 @@ cask 'dafont-lipstick-traces' do
     url 'http://dl.dafont.com/dl/?f=lipstick_traces'
     name 'Lipstick Traces'
     homepage 'http://www.dafont.com/lipstick-traces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lipst___.ttf'
 end

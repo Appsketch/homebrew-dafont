@@ -5,7 +5,6 @@ cask 'dafont-barbeque-jr' do
     url 'http://dl.dafont.com/dl/?f=barbeque_jr'
     name 'Barbeque Jr'
     homepage 'http://www.dafont.com/barbeque-jr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'barbecuejr.ttf'
 end

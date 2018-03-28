@@ -5,7 +5,6 @@ cask 'dafont-quilted-butterfly' do
     url 'http://dl.dafont.com/dl/?f=quilted_butterfly'
     name 'Quilted Butterfly'
     homepage 'http://www.dafont.com/quilted-butterfly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Quilted Butterfly.ttf'
 end

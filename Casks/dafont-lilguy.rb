@@ -5,7 +5,6 @@ cask 'dafont-lilguy' do
     url 'http://dl.dafont.com/dl/?f=lilguy'
     name 'Lil Guy'
     homepage 'http://www.dafont.com/lilguy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'lilguy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-garuda' do
     url 'http://dl.dafont.com/dl/?f=garuda'
     name 'Garuda'
     homepage 'http://www.dafont.com/garuda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GARUDA.ttf'
 end

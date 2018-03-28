@@ -5,7 +5,6 @@ cask 'dafont-fireguns-tfb' do
     url 'http://dl.dafont.com/dl/?f=fireguns_tfb'
     name 'Fireguns TFB'
     homepage 'http://www.dafont.com/fireguns-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fireguns tfb.ttf'
 end

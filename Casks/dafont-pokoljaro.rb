@@ -5,7 +5,6 @@ cask 'dafont-pokoljaro' do
     url 'http://dl.dafont.com/dl/?f=pokoljaro'
     name 'Pokoljaro'
     homepage 'http://www.dafont.com/pokoljaro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pokoljaro.otf'
 end

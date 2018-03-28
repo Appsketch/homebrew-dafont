@@ -5,7 +5,6 @@ cask 'dafont-outlander' do
     url 'http://dl.dafont.com/dl/?f=outlander'
     name 'Outlander'
     homepage 'http://www.dafont.com/outlander.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Outlander Bold Italic.ttf'
     font 'Outlander Italic.ttf'

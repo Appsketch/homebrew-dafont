@@ -5,7 +5,6 @@ cask 'dafont-monsters-of-stone' do
     url 'http://dl.dafont.com/dl/?f=monsters_of_stone'
     name 'Monsters of Stone'
     homepage 'http://www.dafont.com/monsters-of-stone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MONSS___.TTF'
 end

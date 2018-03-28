@@ -5,7 +5,6 @@ cask 'dafont-drama-type' do
     url 'http://dl.dafont.com/dl/?f=drama_type'
     name 'Drama Type'
     homepage 'http://www.dafont.com/drama-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dramatype.ttf'
 end

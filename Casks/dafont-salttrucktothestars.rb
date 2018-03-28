@@ -5,7 +5,6 @@ cask 'dafont-salttrucktothestars' do
     url 'http://dl.dafont.com/dl/?f=salttrucktothestars'
     name 'Salt Truck To The Stars'
     homepage 'http://www.dafont.com/salttrucktothestars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SaltTruckToTheStars-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-eg-dragon-caps' do
     url 'http://dl.dafont.com/dl/?f=eg_dragon_caps'
     name 'EG Dragon Caps'
     homepage 'http://www.dafont.com/eg-dragon-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EG_Dragon_Caps.otf'
     font 'EG_Dragon_Caps.ttf'

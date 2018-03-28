@@ -5,7 +5,6 @@ cask 'dafont-jellodings' do
     url 'http://dl.dafont.com/dl/?f=jellodings'
     name 'Jellodings'
     homepage 'http://www.dafont.com/jellodings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TTF/Jellodings.ttf'
 end

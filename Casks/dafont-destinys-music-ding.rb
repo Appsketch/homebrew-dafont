@@ -5,7 +5,6 @@ cask 'dafont-destinys-music-ding' do
     url 'http://dl.dafont.com/dl/?f=destinys_music_ding'
     name 'Destiny&#039;s Music Dings'
     homepage 'http://www.dafont.com/destinys-music-ding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DESTMD__.TTF'
 end

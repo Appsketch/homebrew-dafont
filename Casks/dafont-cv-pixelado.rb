@@ -5,7 +5,6 @@ cask 'dafont-cv-pixelado' do
     url 'http://dl.dafont.com/dl/?f=cv_pixelado'
     name 'CV Pixelado'
     homepage 'http://www.dafont.com/cv-pixelado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cv pixelado.ttf'
 end

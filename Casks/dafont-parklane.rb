@@ -5,7 +5,6 @@ cask 'dafont-parklane' do
     url 'http://dl.dafont.com/dl/?f=parklane'
     name 'Park Lane NF'
     homepage 'http://www.dafont.com/parklane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Park Lane NF.ttf'
 end

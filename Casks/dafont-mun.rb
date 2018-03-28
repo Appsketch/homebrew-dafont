@@ -5,7 +5,6 @@ cask 'dafont-mun' do
     url 'http://dl.dafont.com/dl/?f=mun'
     name 'Mun'
     homepage 'http://www.dafont.com/mun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mun circled.ttf'
     font 'Mun regular.ttf'

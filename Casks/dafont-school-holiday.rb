@@ -5,7 +5,6 @@ cask 'dafont-school-holiday' do
     url 'http://dl.dafont.com/dl/?f=school_holiday'
     name 'School Holiday'
     homepage 'http://www.dafont.com/school-holiday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'School Holiday.ttf'
 end

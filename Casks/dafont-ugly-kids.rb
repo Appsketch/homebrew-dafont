@@ -5,7 +5,6 @@ cask 'dafont-ugly-kids' do
     url 'http://dl.dafont.com/dl/?f=ugly_kids'
     name 'Ugly Kids'
     homepage 'http://www.dafont.com/ugly-kids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UglyKids-Italic.ttf'
     font 'UglyKids-Regular.ttf'

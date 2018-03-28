@@ -5,7 +5,6 @@ cask 'dafont-hotsweat' do
     url 'http://dl.dafont.com/dl/?f=hotsweat'
     name 'HotSweat'
     homepage 'http://www.dafont.com/hotsweat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HotSweat.ttf'
 end

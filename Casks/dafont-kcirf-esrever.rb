@@ -5,7 +5,6 @@ cask 'dafont-kcirf-esrever' do
     url 'http://dl.dafont.com/dl/?f=kcirf_esrever'
     name 'kcirF esreveR'
     homepage 'http://www.dafont.com/kcirf-esrever.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kcirF esreveR.ttf'
 end

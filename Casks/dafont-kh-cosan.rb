@@ -5,7 +5,6 @@ cask 'dafont-kh-cosan' do
     url 'http://dl.dafont.com/dl/?f=kh_cosan'
     name 'KH Cosan'
     homepage 'http://www.dafont.com/kh-cosan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KH_Cosan1.ttf'
     font 'KH_Cosan2.ttf'

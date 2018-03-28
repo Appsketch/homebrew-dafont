@@ -5,7 +5,6 @@ cask 'dafont-south-afirkas-2100' do
     url 'http://dl.dafont.com/dl/?f=south_afirkas_2100'
     name 'South Afirkas 2100'
     homepage 'http://www.dafont.com/south-afirkas-2100.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'south afirkas 2100.ttf'
 end

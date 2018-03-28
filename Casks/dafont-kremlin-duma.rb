@@ -5,7 +5,6 @@ cask 'dafont-kremlin-duma' do
     url 'http://dl.dafont.com/dl/?f=kremlin_duma'
     name 'Kremlin Duma'
     homepage 'http://www.dafont.com/kremlin-duma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Duma Bold.ttf'
 end

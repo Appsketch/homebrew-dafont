@@ -5,7 +5,6 @@ cask 'dafont-winsgate-a' do
     url 'http://dl.dafont.com/dl/?f=winsgate_a'
     name 'Winsgate A'
     homepage 'http://www.dafont.com/winsgate-a.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Winsgate A.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-alpha-fitness' do
     url 'http://dl.dafont.com/dl/?f=alpha_fitness'
     name 'Alpha Fitness'
     homepage 'http://www.dafont.com/alpha-fitness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlphaFitness.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-omikron' do
     url 'http://dl.dafont.com/dl/?f=omikron'
     name 'Omikron'
     homepage 'http://www.dafont.com/omikron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Omikron.TTF'
 end

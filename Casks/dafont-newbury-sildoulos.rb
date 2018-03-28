@@ -5,7 +5,6 @@ cask 'dafont-newbury-sildoulos' do
     url 'http://dl.dafont.com/dl/?f=newbury_sildoulos'
     name 'Newbury SILDoulos'
     homepage 'http://www.dafont.com/newbury-sildoulos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEWNEDR.TTF'
 end

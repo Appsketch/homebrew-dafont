@@ -5,7 +5,6 @@ cask 'dafont-roller-blade' do
     url 'http://dl.dafont.com/dl/?f=roller_blade'
     name 'Roller Blade'
     homepage 'http://www.dafont.com/roller-blade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROLLER BLADE.ttf'
 end

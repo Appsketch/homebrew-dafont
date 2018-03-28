@@ -5,7 +5,6 @@ cask 'dafont-mont-royal' do
     url 'http://dl.dafont.com/dl/?f=mont_royal'
     name 'Mont Royal'
     homepage 'http://www.dafont.com/mont-royal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mont Royal.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-times-new-romance' do
     url 'http://dl.dafont.com/dl/?f=times_new_romance'
     name 'Times New Romance'
     homepage 'http://www.dafont.com/times-new-romance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Times-New-Romance.ttf'
 end

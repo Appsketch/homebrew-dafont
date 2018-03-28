@@ -5,7 +5,6 @@ cask 'dafont-ditch-the-logical' do
     url 'http://dl.dafont.com/dl/?f=ditch_the_logical'
     name 'Ditch The Logical'
     homepage 'http://www.dafont.com/ditch-the-logical.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kkdtchlg.ttf'
 end

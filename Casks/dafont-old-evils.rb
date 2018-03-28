@@ -5,7 +5,6 @@ cask 'dafont-old-evils' do
     url 'http://dl.dafont.com/dl/?f=old_evils'
     name 'Old Evils'
     homepage 'http://www.dafont.com/old-evils.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'old evils.ttf'
 end

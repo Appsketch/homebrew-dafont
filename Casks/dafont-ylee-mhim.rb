@@ -5,7 +5,6 @@ cask 'dafont-ylee-mhim' do
     url 'http://dl.dafont.com/dl/?f=ylee_mhim'
     name 'Ylee MHIM'
     homepage 'http://www.dafont.com/ylee-mhim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ylee Mortal Heart, Immortal Memory v.1.1 (TTF).ttf'
 end

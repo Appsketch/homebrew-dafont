@@ -5,7 +5,6 @@ cask 'dafont-grazing-on-grass' do
     url 'http://dl.dafont.com/dl/?f=grazing_on_grass'
     name 'Grazing on grass'
     homepage 'http://www.dafont.com/grazing-on-grass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grazing On Grass.ttf'
 end

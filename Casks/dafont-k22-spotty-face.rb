@@ -5,7 +5,6 @@ cask 'dafont-k22-spotty-face' do
     url 'http://dl.dafont.com/dl/?f=k22_spotty_face'
     name 'K22 Spotty Face'
     homepage 'http://www.dafont.com/k22-spotty-face.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K22 Spotty Face.ttf'
 end

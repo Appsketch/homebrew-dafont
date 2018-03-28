@@ -5,7 +5,6 @@ cask 'dafont-requiem2' do
     url 'http://dl.dafont.com/dl/?f=requiem2'
     name 'Requiem'
     homepage 'http://www.dafont.com/requiem2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Requiem-Italic.otf'
     font 'Requiem.otf'

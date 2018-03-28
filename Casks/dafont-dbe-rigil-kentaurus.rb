@@ -5,7 +5,6 @@ cask 'dafont-dbe-rigil-kentaurus' do
     url 'http://dl.dafont.com/dl/?f=dbe_rigil_kentaurus'
     name 'DBE-Rigil Kentaurus'
     homepage 'http://www.dafont.com/dbe-rigil-kentaurus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dbe-rigil_kentaurus.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-frozen-ice' do
     url 'http://dl.dafont.com/dl/?f=frozen_ice'
     name 'Frozen Ice'
     homepage 'http://www.dafont.com/frozen-ice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'frozen ice.ttf'
 end

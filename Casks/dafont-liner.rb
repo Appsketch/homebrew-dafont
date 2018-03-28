@@ -5,7 +5,6 @@ cask 'dafont-liner' do
     url 'http://dl.dafont.com/dl/?f=liner'
     name 'Liner'
     homepage 'http://www.dafont.com/liner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LINER___.TTF'
 end

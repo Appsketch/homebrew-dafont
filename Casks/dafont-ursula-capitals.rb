@@ -5,7 +5,6 @@ cask 'dafont-ursula-capitals' do
     url 'http://dl.dafont.com/dl/?f=ursula_capitals'
     name 'Ursula Capitals'
     homepage 'http://www.dafont.com/ursula-capitals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Capitals.ttf'
 end

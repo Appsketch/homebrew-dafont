@@ -5,7 +5,6 @@ cask 'dafont-gaston' do
     url 'http://dl.dafont.com/dl/?f=gaston'
     name 'Gaston'
     homepage 'http://www.dafont.com/gaston.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GastonDemo.otf'
 end

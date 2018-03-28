@@ -5,7 +5,6 @@ cask 'dafont-rye-field' do
     url 'http://dl.dafont.com/dl/?f=rye_field'
     name 'Rye Field'
     homepage 'http://www.dafont.com/rye-field.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rye field.ttf'
 end

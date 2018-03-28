@@ -5,7 +5,6 @@ cask 'dafont-prime-minister-of-canada' do
     url 'http://dl.dafont.com/dl/?f=prime_minister_of_canada'
     name 'Prime Minister of Canada'
     homepage 'http://www.dafont.com/prime-minister-of-canada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'prime minister of canada.ttf'
 end

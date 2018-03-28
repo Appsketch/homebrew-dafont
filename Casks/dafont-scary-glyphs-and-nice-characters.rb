@@ -5,7 +5,6 @@ cask 'dafont-scary-glyphs-and-nice-characters' do
     url 'http://dl.dafont.com/dl/?f=scary_glyphs_and_nice_characters'
     name 'Scary Glyphs and Nice Characters'
     homepage 'http://www.dafont.com/scary-glyphs-and-nice-characters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scary_glyphs_and_nice_characters.ttf'
 end

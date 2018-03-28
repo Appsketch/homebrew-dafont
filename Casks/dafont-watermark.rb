@@ -5,7 +5,6 @@ cask 'dafont-watermark' do
     url 'http://dl.dafont.com/dl/?f=watermark'
     name 'Watermark'
     homepage 'http://www.dafont.com/watermark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'watermark.ttf'
 end

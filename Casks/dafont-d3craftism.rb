@@ -5,7 +5,6 @@ cask 'dafont-d3craftism' do
     url 'http://dl.dafont.com/dl/?f=d3craftism'
     name 'D3 Craftism'
     homepage 'http://www.dafont.com/d3craftism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'D3Craftism.ttf'
 end

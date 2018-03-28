@@ -5,7 +5,6 @@ cask 'dafont-fragile-bombers' do
     url 'http://dl.dafont.com/dl/?f=fragile_bombers'
     name 'Fragile Bombers'
     homepage 'http://www.dafont.com/fragile-bombers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fragile bombers.ttf'
 end

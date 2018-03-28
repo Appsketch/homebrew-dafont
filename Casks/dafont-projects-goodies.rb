@@ -5,7 +5,6 @@ cask 'dafont-projects-goodies' do
     url 'http://dl.dafont.com/dl/?f=projects_goodies'
     name 'Project&#039;s Goodies'
     homepage 'http://www.dafont.com/projects-goodies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Goodies.ttf'
 end

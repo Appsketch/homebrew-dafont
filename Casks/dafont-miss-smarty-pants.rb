@@ -5,7 +5,6 @@ cask 'dafont-miss-smarty-pants' do
     url 'http://dl.dafont.com/dl/?f=miss_smarty_pants'
     name 'Miss Smarty Pants'
     homepage 'http://www.dafont.com/miss-smarty-pants.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miss Smarty Pants Skinny.ttf'
     font 'Miss Smarty Pants.ttf'

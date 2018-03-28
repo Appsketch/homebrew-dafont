@@ -5,7 +5,6 @@ cask 'dafont-delarge-marker-pen' do
     url 'http://dl.dafont.com/dl/?f=delarge_marker_pen'
     name 'Delarge Marker Pen'
     homepage 'http://www.dafont.com/delarge-marker-pen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DELARGE_.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-puppypooky' do
     url 'http://dl.dafont.com/dl/?f=puppypooky'
     name 'Puppy Pooky'
     homepage 'http://www.dafont.com/puppypooky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PuppyPooky.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-isl-andvari' do
     url 'http://dl.dafont.com/dl/?f=isl_andvari'
     name 'ISL Andvari'
     homepage 'http://www.dafont.com/isl-andvari.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'andvari.ttf'
 end

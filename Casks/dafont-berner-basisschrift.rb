@@ -5,7 +5,6 @@ cask 'dafont-berner-basisschrift' do
     url 'http://dl.dafont.com/dl/?f=berner_basisschrift'
     name 'Berner Basisschrift'
     homepage 'http://www.dafont.com/berner-basisschrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BernerBasisschrift1.ttf'
     font 'BernerBasisschrift2.ttf'

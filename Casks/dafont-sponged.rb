@@ -5,7 +5,6 @@ cask 'dafont-sponged' do
     url 'http://dl.dafont.com/dl/?f=sponged'
     name 'Sponged'
     homepage 'http://www.dafont.com/sponged.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPONGED_.TTF'
 end

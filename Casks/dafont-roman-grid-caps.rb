@@ -5,7 +5,6 @@ cask 'dafont-roman-grid-caps' do
     url 'http://dl.dafont.com/dl/?f=roman_grid_caps'
     name 'Roman Grid Caps'
     homepage 'http://www.dafont.com/roman-grid-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RomanGridCaps.ttf'
 end

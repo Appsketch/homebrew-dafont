@@ -5,7 +5,6 @@ cask 'dafont-contgen-kanzley' do
     url 'http://dl.dafont.com/dl/?f=contgen_kanzley'
     name 'C&ouml;ntgen Kanzley'
     homepage 'http://www.dafont.com/contgen-kanzley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coentgen_Kanzley Aufrecht.ttf'
     font 'Coentgen_Kanzley.ttf'

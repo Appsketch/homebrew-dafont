@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-shells' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_shells'
     name 'AlphaShapes shells'
     homepage 'http://www.dafont.com/alphashapes-shells.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asshells.ttf'
 end

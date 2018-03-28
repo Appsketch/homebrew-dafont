@@ -5,7 +5,6 @@ cask 'dafont-winslett' do
     url 'http://dl.dafont.com/dl/?f=winslett'
     name 'Winslett'
     homepage 'http://www.dafont.com/winslett.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Winslett Bold Italic.otf'
     font 'Winslett Bold.otf'

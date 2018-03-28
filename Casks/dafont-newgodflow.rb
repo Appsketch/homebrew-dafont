@@ -5,7 +5,6 @@ cask 'dafont-newgodflow' do
     url 'http://dl.dafont.com/dl/?f=newgodflow'
     name 'New God Flow'
     homepage 'http://www.dafont.com/newgodflow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NewGodFlow.ttf'
 end

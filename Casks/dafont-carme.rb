@@ -5,7 +5,6 @@ cask 'dafont-carme' do
     url 'http://dl.dafont.com/dl/?f=carme'
     name 'Carme'
     homepage 'http://www.dafont.com/carme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'carme-regular.ttf'
 end

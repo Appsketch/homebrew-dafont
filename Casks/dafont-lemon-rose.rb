@@ -5,7 +5,6 @@ cask 'dafont-lemon-rose' do
     url 'http://dl.dafont.com/dl/?f=lemon_rose'
     name 'Lemon Rose'
     homepage 'http://www.dafont.com/lemon-rose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lemon Rose.ttf'
 end

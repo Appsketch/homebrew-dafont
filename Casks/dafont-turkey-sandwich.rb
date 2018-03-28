@@ -5,7 +5,6 @@ cask 'dafont-turkey-sandwich' do
     url 'http://dl.dafont.com/dl/?f=turkey_sandwich'
     name 'Turkey Sandwich'
     homepage 'http://www.dafont.com/turkey-sandwich.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'turkeys.ttf'
 end

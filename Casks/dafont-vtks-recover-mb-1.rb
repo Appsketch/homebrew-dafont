@@ -5,7 +5,6 @@ cask 'dafont-vtks-recover-mb-1' do
     url 'http://dl.dafont.com/dl/?f=vtks_recover_mb_1'
     name 'VTKS Recover MB 1'
     homepage 'http://www.dafont.com/vtks-recover-mb-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS RECOVER MB 1.ttf'
 end

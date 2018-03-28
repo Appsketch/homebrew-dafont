@@ -5,7 +5,6 @@ cask 'dafont-stentiga' do
     url 'http://dl.dafont.com/dl/?f=stentiga'
     name 'Stentiga'
     homepage 'http://www.dafont.com/stentiga.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stentiga.ttf'
 end

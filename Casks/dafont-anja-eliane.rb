@@ -5,7 +5,6 @@ cask 'dafont-anja-eliane' do
     url 'http://dl.dafont.com/dl/?f=anja_eliane'
     name 'Anja Eliane'
     homepage 'http://www.dafont.com/anja-eliane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Improved version by Alex/Anja Eliane accent002.ttf'
 end

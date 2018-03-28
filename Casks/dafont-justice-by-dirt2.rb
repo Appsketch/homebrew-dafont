@@ -5,7 +5,6 @@ cask 'dafont-justice-by-dirt2' do
     url 'http://dl.dafont.com/dl/?f=justice_by_dirt2'
     name 'Justice'
     homepage 'http://www.dafont.com/justice-by-dirt2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Justice by Dirt2.ttf'
 end

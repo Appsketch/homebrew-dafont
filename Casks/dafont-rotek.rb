@@ -5,7 +5,6 @@ cask 'dafont-rotek' do
     url 'http://dl.dafont.com/dl/?f=rotek'
     name 'Rotek'
     homepage 'http://www.dafont.com/rotek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rotek.ttf'
 end

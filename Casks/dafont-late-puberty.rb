@@ -5,7 +5,6 @@ cask 'dafont-late-puberty' do
     url 'http://dl.dafont.com/dl/?f=late_puberty'
     name 'Late Puberty'
     homepage 'http://www.dafont.com/late-puberty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LatePuberty-Regular 2.otf'
 end

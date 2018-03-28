@@ -5,7 +5,6 @@ cask 'dafont-kylie-x-font' do
     url 'http://dl.dafont.com/dl/?f=kylie_x_font'
     name 'Kylie X'
     homepage 'http://www.dafont.com/kylie-x-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'X Font.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-opilio' do
     url 'http://dl.dafont.com/dl/?f=opilio'
     name 'Opilio'
     homepage 'http://www.dafont.com/opilio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'opilio.ttf'
     font 'opiliobold.ttf'

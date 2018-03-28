@@ -5,7 +5,6 @@ cask 'dafont-maskingtype' do
     url 'http://dl.dafont.com/dl/?f=maskingtype'
     name 'Masking Type'
     homepage 'http://www.dafont.com/maskingtype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MaskingType.ttf'
 end

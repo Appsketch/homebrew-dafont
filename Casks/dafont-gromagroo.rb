@@ -5,7 +5,6 @@ cask 'dafont-gromagroo' do
     url 'http://dl.dafont.com/dl/?f=gromagroo'
     name 'Gromagroo'
     homepage 'http://www.dafont.com/gromagroo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gromagroo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-halvar' do
     url 'http://dl.dafont.com/dl/?f=halvar'
     name 'Halvar'
     homepage 'http://www.dafont.com/halvar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HALVAR__.TTF'
 end

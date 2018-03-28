@@ -5,7 +5,6 @@ cask 'dafont-ariapenciroman' do
     url 'http://dl.dafont.com/dl/?f=ariapenciroman'
     name 'Aria Penci Roman'
     homepage 'http://www.dafont.com/ariapenciroman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'arian.ttf'
 end

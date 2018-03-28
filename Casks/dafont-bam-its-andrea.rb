@@ -5,7 +5,6 @@ cask 'dafont-bam-its-andrea' do
     url 'http://dl.dafont.com/dl/?f=bam_its_andrea'
     name 'BAM It&#039;s Andrea!'
     homepage 'http://www.dafont.com/bam-its-andrea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BamIt_&#039;sAndrea.ttf'
 end

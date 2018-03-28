@@ -5,7 +5,6 @@ cask 'dafont-morning-crescent' do
     url 'http://dl.dafont.com/dl/?f=morning_crescent'
     name 'Morning Crescent'
     homepage 'http://www.dafont.com/morning-crescent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MorningCrescent-Regular.otf'
 end

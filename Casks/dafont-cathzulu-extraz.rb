@@ -5,7 +5,6 @@ cask 'dafont-cathzulu-extraz' do
     url 'http://dl.dafont.com/dl/?f=cathzulu_extraz'
     name 'Cathzulu Extraz'
     homepage 'http://www.dafont.com/cathzulu-extraz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CATHE___.TTF'
 end

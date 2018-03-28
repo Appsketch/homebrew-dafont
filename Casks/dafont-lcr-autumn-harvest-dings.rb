@@ -5,7 +5,6 @@ cask 'dafont-lcr-autumn-harvest-dings' do
     url 'http://dl.dafont.com/dl/?f=lcr_autumn_harvest_dings'
     name 'LCR Autumn Harvest Dings'
     homepage 'http://www.dafont.com/lcr-autumn-harvest-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LCR Autumn Harvest Dings.ttf'
 end

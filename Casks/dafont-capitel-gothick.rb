@@ -5,7 +5,6 @@ cask 'dafont-capitel-gothick' do
     url 'http://dl.dafont.com/dl/?f=capitel_gothick'
     name 'Capitel Gothick'
     homepage 'http://www.dafont.com/capitel-gothick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CapitelGothick-Regular.ttf'
 end

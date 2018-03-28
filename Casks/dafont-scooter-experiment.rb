@@ -5,7 +5,6 @@ cask 'dafont-scooter-experiment' do
     url 'http://dl.dafont.com/dl/?f=scooter_experiment'
     name 'Scooter Experiment'
     homepage 'http://www.dafont.com/scooter-experiment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'scooter experiment.ttf'
 end

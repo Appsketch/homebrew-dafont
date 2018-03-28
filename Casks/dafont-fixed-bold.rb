@@ -5,7 +5,6 @@ cask 'dafont-fixed-bold' do
     url 'http://dl.dafont.com/dl/?f=fixed_bold'
     name 'Fixed_bold'
     homepage 'http://www.dafont.com/fixed-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FIXED_BO.TTF'
 end

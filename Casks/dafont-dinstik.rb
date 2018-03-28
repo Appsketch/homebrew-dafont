@@ -5,7 +5,6 @@ cask 'dafont-dinstik' do
     url 'http://dl.dafont.com/dl/?f=dinstik'
     name 'Dinstik'
     homepage 'http://www.dafont.com/dinstik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dinstik.ttf'
 end

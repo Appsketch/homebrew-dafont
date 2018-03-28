@@ -5,7 +5,6 @@ cask 'dafont-zodiac03' do
     url 'http://dl.dafont.com/dl/?f=zodiac03'
     name 'Zodiac 03'
     homepage 'http://www.dafont.com/zodiac03.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZODIAC03.TTF'
 end

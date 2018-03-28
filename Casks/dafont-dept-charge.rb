@@ -5,7 +5,6 @@ cask 'dafont-dept-charge' do
     url 'http://dl.dafont.com/dl/?f=dept_charge'
     name 'Dept Charge'
     homepage 'http://www.dafont.com/dept-charge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEPTCSP_.TTF'
 end

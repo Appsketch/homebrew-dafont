@@ -5,7 +5,6 @@ cask 'dafont-larabie-font' do
     url 'http://dl.dafont.com/dl/?f=larabie_font'
     name 'Larabie Font'
     homepage 'http://www.dafont.com/larabie-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'larabiefont rg.ttf'
 end

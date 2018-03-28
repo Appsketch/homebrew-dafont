@@ -5,7 +5,6 @@ cask 'dafont-ajputmefirst' do
     url 'http://dl.dafont.com/dl/?f=ajputmefirst'
     name 'AJ Put Me First'
     homepage 'http://www.dafont.com/ajputmefirst.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AJPutMeFirst.ttf'
 end

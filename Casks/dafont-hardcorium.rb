@@ -5,7 +5,6 @@ cask 'dafont-hardcorium' do
     url 'http://dl.dafont.com/dl/?f=hardcorium'
     name 'Hardcorium'
     homepage 'http://www.dafont.com/hardcorium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hardcorium.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-znowwhite' do
     url 'http://dl.dafont.com/dl/?f=znowwhite'
     name 'Znowwhite'
     homepage 'http://www.dafont.com/znowwhite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'znowwhite.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gun-show' do
     url 'http://dl.dafont.com/dl/?f=gun_show'
     name 'Gun Show'
     homepage 'http://www.dafont.com/gun-show.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gun_Show.ttf'
 end

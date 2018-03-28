@@ -5,7 +5,6 @@ cask 'dafont-shabby-ball-point' do
     url 'http://dl.dafont.com/dl/?f=shabby_ball_point'
     name 'Shabby Ball Point'
     homepage 'http://www.dafont.com/shabby-ball-point.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shabby Ball Point.ttf'
 end

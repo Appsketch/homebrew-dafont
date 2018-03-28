@@ -5,7 +5,6 @@ cask 'dafont-hairbows' do
     url 'http://dl.dafont.com/dl/?f=hairbows'
     name 'Hair Bows'
     homepage 'http://www.dafont.com/hairbows.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HairBows.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ixsdrastica' do
     url 'http://dl.dafont.com/dl/?f=ixsdrastica'
     name 'ixsDrastica'
     homepage 'http://www.dafont.com/ixsdrastica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ixs_drastica.ttf'
 end

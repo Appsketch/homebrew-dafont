@@ -5,7 +5,6 @@ cask 'dafont-penn-station' do
     url 'http://dl.dafont.com/dl/?f=penn_station'
     name 'Penn Station'
     homepage 'http://www.dafont.com/penn-station.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pennstat.ttf'
 end

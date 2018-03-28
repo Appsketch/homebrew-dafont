@@ -5,7 +5,6 @@ cask 'dafont-jonas' do
     url 'http://dl.dafont.com/dl/?f=Jonas'
     name 'Jonas'
     homepage 'http://www.dafont.com/Jonas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jonas-Bold.ttf'
     font 'Jonas.ttf'

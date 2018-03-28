@@ -5,7 +5,6 @@ cask 'dafont-catcrypt' do
     url 'http://dl.dafont.com/dl/?f=catcrypt'
     name 'CatCrypt'
     homepage 'http://www.dafont.com/catcrypt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'catcrypt.ttf'
 end

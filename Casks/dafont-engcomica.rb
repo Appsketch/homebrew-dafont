@@ -5,7 +5,6 @@ cask 'dafont-engcomica' do
     url 'http://dl.dafont.com/dl/?f=engcomica'
     name 'Engcomica'
     homepage 'http://www.dafont.com/engcomica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Engcomica.otf'
 end

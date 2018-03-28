@@ -5,7 +5,6 @@ cask 'dafont-atari' do
     url 'http://dl.dafont.com/dl/?f=atari'
     name 'Atari'
     homepage 'http://www.dafont.com/atari.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AtariSmall.ttf'
 end

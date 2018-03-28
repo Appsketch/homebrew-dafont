@@ -5,7 +5,6 @@ cask 'dafont-ecolier2' do
     url 'http://dl.dafont.com/dl/?f=ecolier2'
     name 'Ecolier'
     homepage 'http://www.dafont.com/ecolier2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ecolier.ttf'
 end

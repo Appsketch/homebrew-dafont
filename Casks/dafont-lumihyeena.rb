@@ -5,7 +5,6 @@ cask 'dafont-lumihyeena' do
     url 'http://dl.dafont.com/dl/?f=lumihyeena'
     name 'Lumihyeena'
     homepage 'http://www.dafont.com/lumihyeena.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hyeenan haukotus.ttf'
     font 'Lumihyeena.ttf'

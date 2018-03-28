@@ -5,7 +5,6 @@ cask 'dafont-ennobled-pet' do
     url 'http://dl.dafont.com/dl/?f=ennobled_pet'
     name 'Ennobled Pet'
     homepage 'http://www.dafont.com/ennobled-pet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ennobled pet.ttf'
 end

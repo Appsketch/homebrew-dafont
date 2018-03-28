@@ -5,7 +5,6 @@ cask 'dafont-wipeout-hd-fury' do
     url 'http://dl.dafont.com/dl/?f=wipeout_hd_fury'
     name 'Wipeout HD Fury'
     homepage 'http://www.dafont.com/wipeout-hd-fury.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fury/Wipeout HD Fury.ttf'
     font 'HD/Wipeout HD.ttf'

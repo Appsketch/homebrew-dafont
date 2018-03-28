@@ -5,7 +5,6 @@ cask 'dafont-swirlsandcurls' do
     url 'http://dl.dafont.com/dl/?f=swirlsandcurls'
     name 'Swirls and Curls'
     homepage 'http://www.dafont.com/swirlsandcurls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SwirlsandCurls.ttf'
 end

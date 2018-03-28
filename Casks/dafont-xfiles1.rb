@@ -5,7 +5,6 @@ cask 'dafont-xfiles1' do
     url 'http://dl.dafont.com/dl/?f=xfiles1'
     name 'X-Files'
     homepage 'http://www.dafont.com/xfiles1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'x-files.ttf'
 end

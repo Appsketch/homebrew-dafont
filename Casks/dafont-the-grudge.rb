@@ -5,7 +5,6 @@ cask 'dafont-the-grudge' do
     url 'http://dl.dafont.com/dl/?f=the_grudge'
     name 'The Grudge'
     homepage 'http://www.dafont.com/the-grudge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Grudge.ttf'
 end

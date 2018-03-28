@@ -5,7 +5,6 @@ cask 'dafont-colt-font' do
     url 'http://dl.dafont.com/dl/?f=colt_font'
     name 'Colt Font'
     homepage 'http://www.dafont.com/colt-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COLTFONT.otf'
 end

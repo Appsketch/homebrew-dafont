@@ -5,7 +5,6 @@ cask 'dafont-peoni-patterns' do
     url 'http://dl.dafont.com/dl/?f=peoni_patterns'
     name 'Peoni Patterns'
     homepage 'http://www.dafont.com/peoni-patterns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peoni Patterns.ttf'
 end

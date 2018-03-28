@@ -5,7 +5,6 @@ cask 'dafont-ventography' do
     url 'http://dl.dafont.com/dl/?f=ventography'
     name 'Ventography'
     homepage 'http://www.dafont.com/ventography.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ventography_Personal_Use_Only.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dark-horse' do
     url 'http://dl.dafont.com/dl/?f=dark_horse'
     name 'Dark Horse'
     homepage 'http://www.dafont.com/dark-horse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Darkh4.ttf'
     font 'Darkhc.ttf'

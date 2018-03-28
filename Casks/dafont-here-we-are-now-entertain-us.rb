@@ -5,7 +5,6 @@ cask 'dafont-here-we-are-now-entertain-us' do
     url 'http://dl.dafont.com/dl/?f=here_we_are_now_entertain_us'
     name 'Here we are now, entertain us'
     homepage 'http://www.dafont.com/here-we-are-now-entertain-us.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Here we are now, entertain us.ttf'
 end

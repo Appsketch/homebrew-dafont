@@ -5,7 +5,6 @@ cask 'dafont-pwaugust' do
     url 'http://dl.dafont.com/dl/?f=pwaugust'
     name 'PW August'
     homepage 'http://www.dafont.com/pwaugust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWAugust.ttf'
     font 'PWAugustbold.ttf'

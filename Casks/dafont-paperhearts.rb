@@ -5,7 +5,6 @@ cask 'dafont-paperhearts' do
     url 'http://dl.dafont.com/dl/?f=paperhearts'
     name 'Paper Hearts'
     homepage 'http://www.dafont.com/paperhearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaperHearts.ttf'
 end

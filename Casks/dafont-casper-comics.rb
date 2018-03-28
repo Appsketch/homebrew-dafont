@@ -5,7 +5,6 @@ cask 'dafont-casper-comics' do
     url 'http://dl.dafont.com/dl/?f=casper_comics'
     name 'Casper Comics'
     homepage 'http://www.dafont.com/casper-comics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CASPER.TTF'
     font 'Casps2.ttf'

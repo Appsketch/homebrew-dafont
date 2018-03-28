@@ -5,7 +5,6 @@ cask 'dafont-caged-prisoner' do
     url 'http://dl.dafont.com/dl/?f=caged_prisoner'
     name 'Caged Prisoner'
     homepage 'http://www.dafont.com/caged-prisoner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caged Prisoner.ttf'
 end

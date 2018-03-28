@@ -5,7 +5,6 @@ cask 'dafont-a-font-with-serifs' do
     url 'http://dl.dafont.com/dl/?f=a_font_with_serifs'
     name 'A Font with Serifs'
     homepage 'http://www.dafont.com/a-font-with-serifs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A_Font_with_Serifs._Disordered.ttf'
     font 'A_Font_with_Serifs.ttf'

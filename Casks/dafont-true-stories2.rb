@@ -5,7 +5,6 @@ cask 'dafont-true-stories2' do
     url 'http://dl.dafont.com/dl/?f=true_stories2'
     name 'True Stories'
     homepage 'http://www.dafont.com/true-stories2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'True Stories.ttf'
 end

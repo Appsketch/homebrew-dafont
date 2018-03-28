@@ -5,7 +5,6 @@ cask 'dafont-hambone' do
     url 'http://dl.dafont.com/dl/?f=hambone'
     name 'Hambone'
     homepage 'http://www.dafont.com/hambone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ham.ttf'
 end

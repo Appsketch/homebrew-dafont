@@ -5,7 +5,6 @@ cask 'dafont-djb-fan-girl' do
     url 'http://dl.dafont.com/dl/?f=djb_fan_girl'
     name 'DJB Fan Girl'
     homepage 'http://www.dafont.com/djb-fan-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Fan Girl.ttf'
 end

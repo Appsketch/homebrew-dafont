@@ -5,7 +5,6 @@ cask 'dafont-kdizzle' do
     url 'http://dl.dafont.com/dl/?f=kdizzle'
     name 'Kdizzle'
     homepage 'http://www.dafont.com/kdizzle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kdizzle.ttf'
 end

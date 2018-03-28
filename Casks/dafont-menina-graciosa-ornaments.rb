@@ -5,7 +5,6 @@ cask 'dafont-menina-graciosa-ornaments' do
     url 'http://dl.dafont.com/dl/?f=menina_graciosa_ornaments'
     name 'Menina Graciosa Ornaments Two'
     homepage 'http://www.dafont.com/menina-graciosa-ornaments.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Menina Graciosa Ornaments Two.ttf'
 end

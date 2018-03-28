@@ -5,7 +5,6 @@ cask 'dafont-preussische-vi-9' do
     url 'http://dl.dafont.com/dl/?f=preussische_vi_9'
     name 'Preussische VI 9'
     homepage 'http://www.dafont.com/preussische-vi-9.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PreussischeVI9Ag2.ttf'
     font 'PreussischeVI9Ag2Linie.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-callie-hand' do
     url 'http://dl.dafont.com/dl/?f=callie_hand'
     name 'Callie Hand'
     homepage 'http://www.dafont.com/callie-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Callie_Hand-Trial_Version.otf'
 end

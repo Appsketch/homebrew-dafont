@@ -5,7 +5,6 @@ cask 'dafont-bergamot-ornaments' do
     url 'http://dl.dafont.com/dl/?f=bergamot_ornaments'
     name 'Bergamot Ornaments'
     homepage 'http://www.dafont.com/bergamot-ornaments.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bergamot Ornaments.ttf'
 end

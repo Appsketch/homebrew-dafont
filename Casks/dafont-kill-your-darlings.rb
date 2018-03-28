@@ -5,7 +5,6 @@ cask 'dafont-kill-your-darlings' do
     url 'http://dl.dafont.com/dl/?f=kill_your_darlings'
     name 'Kill your darlings'
     homepage 'http://www.dafont.com/kill-your-darlings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kill your darlings AC.ttf'
     font 'Kill your darlings.ttf'

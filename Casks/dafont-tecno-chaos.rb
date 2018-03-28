@@ -5,7 +5,6 @@ cask 'dafont-tecno-chaos' do
     url 'http://dl.dafont.com/dl/?f=tecno_chaos'
     name 'Tecno Chaos'
     homepage 'http://www.dafont.com/tecno-chaos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tecno Chaos.ttf'
 end

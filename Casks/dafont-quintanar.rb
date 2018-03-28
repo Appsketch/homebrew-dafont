@@ -5,7 +5,6 @@ cask 'dafont-quintanar' do
     url 'http://dl.dafont.com/dl/?f=quintanar'
     name 'Quintanar'
     homepage 'http://www.dafont.com/quintanar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quintanar Hollow Italic.otf'
     font 'Quintanar Hollow.otf'

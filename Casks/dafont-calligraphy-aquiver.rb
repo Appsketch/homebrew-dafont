@@ -5,7 +5,6 @@ cask 'dafont-calligraphy-aquiver' do
     url 'http://dl.dafont.com/dl/?f=calligraphy_aquiver'
     name 'Calligraphy Aquiver'
     homepage 'http://www.dafont.com/calligraphy-aquiver.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'calligraphy_aquiver.ttf'
 end

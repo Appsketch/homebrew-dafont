@@ -5,7 +5,6 @@ cask 'dafont-hieroglify' do
     url 'http://dl.dafont.com/dl/?f=hieroglify'
     name 'Hieroglify'
     homepage 'http://www.dafont.com/hieroglify.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hieroglify.ttf'
 end

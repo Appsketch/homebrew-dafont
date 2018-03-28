@@ -5,7 +5,6 @@ cask 'dafont-oak-lawn' do
     url 'http://dl.dafont.com/dl/?f=oak_lawn'
     name 'Oak Lawn'
     homepage 'http://www.dafont.com/oak-lawn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OakLawn-Regular.ttf'
 end

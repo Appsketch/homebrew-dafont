@@ -5,7 +5,6 @@ cask 'dafont-mf-houston-paris-budapest' do
     url 'http://dl.dafont.com/dl/?f=mf_houston_paris_budapest'
     name 'Mf Houston Paris Budapest'
     homepage 'http://www.dafont.com/mf-houston-paris-budapest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Houston Paris Budapest.ttf'
 end

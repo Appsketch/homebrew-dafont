@@ -5,7 +5,6 @@ cask 'dafont-robofan-symbol' do
     url 'http://dl.dafont.com/dl/?f=robofan_symbol'
     name 'Robofan Symbol'
     homepage 'http://www.dafont.com/robofan-symbol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Robofan Symbol.otf'
 end

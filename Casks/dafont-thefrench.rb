@@ -5,7 +5,6 @@ cask 'dafont-thefrench' do
     url 'http://dl.dafont.com/dl/?f=thefrench'
     name 'The French'
     homepage 'http://www.dafont.com/thefrench.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheFrench.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nucleo-md' do
     url 'http://dl.dafont.com/dl/?f=nucleo_md'
     name 'Nucleo MD'
     homepage 'http://www.dafont.com/nucleo-md.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NucleoMD.ttf'
 end

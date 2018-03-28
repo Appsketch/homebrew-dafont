@@ -5,7 +5,6 @@ cask 'dafont-kaden' do
     url 'http://dl.dafont.com/dl/?f=kaden'
     name 'Kaden'
     homepage 'http://www.dafont.com/kaden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KADEN___.TTF'
 end

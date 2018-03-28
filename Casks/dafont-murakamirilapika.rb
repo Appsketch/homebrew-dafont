@@ -5,7 +5,6 @@ cask 'dafont-murakamirilapika' do
     url 'http://dl.dafont.com/dl/?f=murakamirilapika'
     name 'Murakami Rilapika'
     homepage 'http://www.dafont.com/murakamirilapika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MurakamiRilapika.ttf'
 end

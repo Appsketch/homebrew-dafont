@@ -5,7 +5,6 @@ cask 'dafont-tattooed-wedding' do
     url 'http://dl.dafont.com/dl/?f=tattooed_wedding'
     name 'Tattooed Wedding'
     homepage 'http://www.dafont.com/tattooed-wedding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tattoed_Wedding.ttf'
 end

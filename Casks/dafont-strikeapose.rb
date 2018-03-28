@@ -5,7 +5,6 @@ cask 'dafont-strikeapose' do
     url 'http://dl.dafont.com/dl/?f=strikeapose'
     name 'Strike A Pose'
     homepage 'http://www.dafont.com/strikeapose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StrikeAPose.ttf'
 end

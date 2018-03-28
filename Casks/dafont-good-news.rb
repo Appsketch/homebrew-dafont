@@ -5,7 +5,6 @@ cask 'dafont-good-news' do
     url 'http://dl.dafont.com/dl/?f=good_news'
     name 'Good News'
     homepage 'http://www.dafont.com/good-news.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GOOD NEWS PERSONAL USE.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-foughtknight-victory' do
     url 'http://dl.dafont.com/dl/?f=foughtknight_victory'
     name 'FoughtKnight Victory'
     homepage 'http://www.dafont.com/foughtknight-victory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FKV.otf'
 end

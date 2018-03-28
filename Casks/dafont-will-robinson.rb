@@ -5,7 +5,6 @@ cask 'dafont-will-robinson' do
     url 'http://dl.dafont.com/dl/?f=will_robinson'
     name 'Will Robinson'
     homepage 'http://www.dafont.com/will-robinson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WillRobinson.ttf'
 end

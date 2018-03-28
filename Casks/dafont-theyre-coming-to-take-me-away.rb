@@ -5,7 +5,6 @@ cask 'dafont-theyre-coming-to-take-me-away' do
     url 'http://dl.dafont.com/dl/?f=theyre_coming_to_take_me_away'
     name 'They&#039;re coming to take me away'
     homepage 'http://www.dafont.com/theyre-coming-to-take-me-away.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'theyrecomingtotakemeaway.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-compaq' do
     url 'http://dl.dafont.com/dl/?f=compaq'
     name 'Masque'
     homepage 'http://www.dafont.com/compaq.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MASQUE__.ttf'
 end

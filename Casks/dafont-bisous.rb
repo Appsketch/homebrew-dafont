@@ -5,7 +5,6 @@ cask 'dafont-bisous' do
     url 'http://dl.dafont.com/dl/?f=bisous'
     name 'Bisous'
     homepage 'http://www.dafont.com/bisous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bisous.ttf'
 end

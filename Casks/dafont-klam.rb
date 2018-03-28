@@ -5,7 +5,6 @@ cask 'dafont-klam' do
     url 'http://dl.dafont.com/dl/?f=klam'
     name 'Klam'
     homepage 'http://www.dafont.com/klam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'klam.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-king-of-font-and-typography' do
     url 'http://dl.dafont.com/dl/?f=king_of_font_and_typography'
     name 'King Of Font And Typography'
     homepage 'http://www.dafont.com/king-of-font-and-typography.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KING of Typography And Font.ttf'
 end

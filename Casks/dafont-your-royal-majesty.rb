@@ -5,7 +5,6 @@ cask 'dafont-your-royal-majesty' do
     url 'http://dl.dafont.com/dl/?f=your_royal_majesty'
     name 'Your Royal Majesty'
     homepage 'http://www.dafont.com/your-royal-majesty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Your Royal Majesty Fancy.ttf'
 end

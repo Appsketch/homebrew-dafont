@@ -5,7 +5,6 @@ cask 'dafont-salvage' do
     url 'http://dl.dafont.com/dl/?f=salvage'
     name 'Salvage'
     homepage 'http://www.dafont.com/salvage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'salvagetype.ttf'
 end

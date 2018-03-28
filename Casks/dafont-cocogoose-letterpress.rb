@@ -5,7 +5,6 @@ cask 'dafont-cocogoose-letterpress' do
     url 'http://dl.dafont.com/dl/?f=cocogoose_letterpress'
     name 'Cocogoose Letterpress'
     homepage 'http://www.dafont.com/cocogoose-letterpress.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COCOGOOSELETTERPRESS TRIAL.ttf'
 end

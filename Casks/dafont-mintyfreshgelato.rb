@@ -5,7 +5,6 @@ cask 'dafont-mintyfreshgelato' do
     url 'http://dl.dafont.com/dl/?f=mintyfreshgelato'
     name 'Minty Fresh Gelato'
     homepage 'http://www.dafont.com/mintyfreshgelato.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minty Fresh Gelato.ttf'
 end

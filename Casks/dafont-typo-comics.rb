@@ -5,7 +5,6 @@ cask 'dafont-typo-comics' do
     url 'http://dl.dafont.com/dl/?f=typo_comics'
     name 'Typo Comics'
     homepage 'http://www.dafont.com/typo-comics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TYPO_COMICS_bold_demo.otf'
     font 'TYPO_COMICS_bold_italic_demo.otf'

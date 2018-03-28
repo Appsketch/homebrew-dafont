@@ -5,7 +5,6 @@ cask 'dafont-kenteken' do
     url 'http://dl.dafont.com/dl/?f=kenteken'
     name 'Kenteken'
     homepage 'http://www.dafont.com/kenteken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kenteken.ttf'
 end

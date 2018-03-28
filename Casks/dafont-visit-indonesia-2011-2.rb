@@ -5,7 +5,6 @@ cask 'dafont-visit-indonesia-2011-2' do
     url 'http://dl.dafont.com/dl/?f=visit_indonesia_2011_2'
     name 'Visit Indonesia 2011'
     homepage 'http://www.dafont.com/visit-indonesia-2011-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Visit Indonesia 2011 2upd.ttf'
 end

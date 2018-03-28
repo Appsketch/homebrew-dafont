@@ -5,7 +5,6 @@ cask 'dafont-rt-screenloft8' do
     url 'http://dl.dafont.com/dl/?f=rt_screenloft8'
     name 'RT Screenloft8'
     homepage 'http://www.dafont.com/rt-screenloft8.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rt_screenloft8_bold.ttf'
     font 'rt_screenloft8_regular.ttf'

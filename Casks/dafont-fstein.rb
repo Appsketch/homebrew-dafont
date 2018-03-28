@@ -5,7 +5,6 @@ cask 'dafont-fstein' do
     url 'http://dl.dafont.com/dl/?f=fstein'
     name 'F-Stein'
     homepage 'http://www.dafont.com/fstein.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'F-STEIN_.TTF'
 end

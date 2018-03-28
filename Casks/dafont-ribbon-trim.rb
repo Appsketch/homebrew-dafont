@@ -5,7 +5,6 @@ cask 'dafont-ribbon-trim' do
     url 'http://dl.dafont.com/dl/?f=ribbon_trim'
     name 'Ribbon Trim'
     homepage 'http://www.dafont.com/ribbon-trim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ribbon_trim.ttf'
 end

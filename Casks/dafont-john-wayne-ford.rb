@@ -5,7 +5,6 @@ cask 'dafont-john-wayne-ford' do
     url 'http://dl.dafont.com/dl/?f=john_wayne_ford'
     name 'John Wayne Ford'
     homepage 'http://www.dafont.com/john-wayne-ford.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'john wayne ford.ttf'
 end

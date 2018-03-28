@@ -5,7 +5,6 @@ cask 'dafont-corrupt-government' do
     url 'http://dl.dafont.com/dl/?f=corrupt_government'
     name 'Corrupt Government'
     homepage 'http://www.dafont.com/corrupt-government.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'corrupt_dot_gov.ttf'
 end

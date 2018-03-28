@@ -5,7 +5,6 @@ cask 'dafont-mens-romance' do
     url 'http://dl.dafont.com/dl/?f=mens_romance'
     name 'Mens Romance'
     homepage 'http://www.dafont.com/mens-romance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mens Romance.otf'
 end

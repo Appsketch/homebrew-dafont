@@ -5,7 +5,6 @@ cask 'dafont-tall-dark-and-hands' do
     url 'http://dl.dafont.com/dl/?f=tall_dark_and_hands'
     name 'Tall Dark And Handsome'
     homepage 'http://www.dafont.com/tall-dark-and-hands.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'talldark.ttf'
 end

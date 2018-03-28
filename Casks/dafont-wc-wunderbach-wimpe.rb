@@ -5,7 +5,6 @@ cask 'dafont-wc-wunderbach-wimpe' do
     url 'http://dl.dafont.com/dl/?f=wc_wunderbach_wimpe'
     name 'WC Wunderbach Wimpern Bta'
     homepage 'http://www.dafont.com/wc-wunderbach-wimpe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WC_Wunderbach_Wimpern.ttf'
 end

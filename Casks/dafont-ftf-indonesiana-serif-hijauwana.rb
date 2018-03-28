@@ -5,7 +5,6 @@ cask 'dafont-ftf-indonesiana-serif-hijauwana' do
     url 'http://dl.dafont.com/dl/?f=ftf_indonesiana_serif_hijauwana'
     name 'FTF Indonesiana Serif Hijauwana'
     homepage 'http://www.dafont.com/ftf-indonesiana-serif-hijauwana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Indonesiana Serif Hijauwana Vol.2 FREE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-adore-you' do
     url 'http://dl.dafont.com/dl/?f=adore_you'
     name 'Adore You'
     homepage 'http://www.dafont.com/adore-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adore You.ttf'
 end

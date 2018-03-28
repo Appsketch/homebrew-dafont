@@ -5,7 +5,6 @@ cask 'dafont-goldenteddys' do
     url 'http://dl.dafont.com/dl/?f=goldenteddys'
     name 'Golden Teddys'
     homepage 'http://www.dafont.com/goldenteddys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GoldenTeddys.ttf'
 end

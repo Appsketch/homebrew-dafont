@@ -5,7 +5,6 @@ cask 'dafont-vetamaton' do
     url 'http://dl.dafont.com/dl/?f=vetamaton'
     name 'Vet&auml;m&auml;t&ouml;n'
     homepage 'http://www.dafont.com/vetamaton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vetmtn.ttf'
 end

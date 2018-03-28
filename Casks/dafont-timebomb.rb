@@ -5,7 +5,6 @@ cask 'dafont-timebomb' do
     url 'http://dl.dafont.com/dl/?f=timebomb'
     name 'TimeBomb'
     homepage 'http://www.dafont.com/timebomb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TIMEBOMB.TTF'
 end

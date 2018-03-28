@@ -5,7 +5,6 @@ cask 'dafont-drive-thru' do
     url 'http://dl.dafont.com/dl/?f=drive_thru'
     name 'Drive-Thru'
     homepage 'http://www.dafont.com/drive-thru.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DRIVE-TH.TTF'
 end

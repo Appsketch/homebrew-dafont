@@ -5,7 +5,6 @@ cask 'dafont-do-you-like-my-font-andy' do
     url 'http://dl.dafont.com/dl/?f=do_you_like_my_font_andy'
     name 'Do You Like My Font Andy'
     homepage 'http://www.dafont.com/do-you-like-my-font-andy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Do_you_like_my_font_andy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mtf-memory' do
     url 'http://dl.dafont.com/dl/?f=mtf_memory'
     name 'MTF Memory'
     homepage 'http://www.dafont.com/mtf-memory.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Memory.ttf'
 end

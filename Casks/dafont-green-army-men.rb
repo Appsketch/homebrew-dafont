@@ -5,7 +5,6 @@ cask 'dafont-green-army-men' do
     url 'http://dl.dafont.com/dl/?f=green_army_men'
     name 'Green Army Men'
     homepage 'http://www.dafont.com/green-army-men.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Green Army Men.ttf'
 end

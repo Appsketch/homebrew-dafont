@@ -5,7 +5,6 @@ cask 'dafont-internerd' do
     url 'http://dl.dafont.com/dl/?f=internerd'
     name 'Internerd'
     homepage 'http://www.dafont.com/internerd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Internerd.ttf'
 end

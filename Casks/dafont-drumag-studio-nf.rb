@@ -5,7 +5,6 @@ cask 'dafont-drumag-studio-nf' do
     url 'http://dl.dafont.com/dl/?f=drumag_studio_nf'
     name 'Drumag Studio NF'
     homepage 'http://www.dafont.com/drumag-studio-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DRUMSN__.TTF'
 end

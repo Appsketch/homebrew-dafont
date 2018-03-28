@@ -5,7 +5,6 @@ cask 'dafont-spread-bita10' do
     url 'http://dl.dafont.com/dl/?f=spread_bita10'
     name 'Spread BitA10'
     homepage 'http://www.dafont.com/spread-bita10.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPREBA__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nb' do
     url 'http://dl.dafont.com/dl/?f=nb'
     name 'NB'
     homepage 'http://www.dafont.com/nb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NB-1.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-i-wanna-be-your-dog' do
     url 'http://dl.dafont.com/dl/?f=i_wanna_be_your_dog'
     name 'I Wanna Be Your Dog'
     homepage 'http://www.dafont.com/i-wanna-be-your-dog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I Wanna Be Your Dog.ttf'
 end

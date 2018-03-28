@@ -5,7 +5,6 @@ cask 'dafont-denise-sans' do
     url 'http://dl.dafont.com/dl/?f=denise_sans'
     name 'Denise Sans'
     homepage 'http://www.dafont.com/denise-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Denise Sans.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bored' do
     url 'http://dl.dafont.com/dl/?f=bored'
     name 'Bored'
     homepage 'http://www.dafont.com/bored.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BORED-RE.TTF'
 end

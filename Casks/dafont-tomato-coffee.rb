@@ -5,7 +5,6 @@ cask 'dafont-tomato-coffee' do
     url 'http://dl.dafont.com/dl/?f=tomato_coffee'
     name 'Tomato Coffee'
     homepage 'http://www.dafont.com/tomato-coffee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tomato coffee.TTF'
 end

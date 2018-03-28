@@ -5,7 +5,6 @@ cask 'dafont-mtf-notebook' do
     url 'http://dl.dafont.com/dl/?f=mtf_notebook'
     name 'MTF Notebook'
     homepage 'http://www.dafont.com/mtf-notebook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Notebook.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-carolus-roman' do
     url 'http://dl.dafont.com/dl/?f=carolus_roman'
     name 'Carolus Roman'
     homepage 'http://www.dafont.com/carolus-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'carolusi.ttf'
     font 'carolusr.ttf'

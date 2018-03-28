@@ -5,7 +5,6 @@ cask 'dafont-feel-the-universe' do
     url 'http://dl.dafont.com/dl/?f=feel_the_universe'
     name 'Feel the universe'
     homepage 'http://www.dafont.com/feel-the-universe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Feel the universe.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-denne-milk-tea' do
     url 'http://dl.dafont.com/dl/?f=denne_milk_tea'
     name 'Denne Milk Tea'
     homepage 'http://www.dafont.com/denne-milk-tea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Denne Milk Tea.ttf'
 end

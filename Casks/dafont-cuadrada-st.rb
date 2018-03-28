@@ -5,7 +5,6 @@ cask 'dafont-cuadrada-st' do
     url 'http://dl.dafont.com/dl/?f=cuadrada_st'
     name 'Cuadrada St'
     homepage 'http://www.dafont.com/cuadrada-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cuadrada St.ttf'
 end

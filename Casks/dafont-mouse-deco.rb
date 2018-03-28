@@ -5,7 +5,6 @@ cask 'dafont-mouse-deco' do
     url 'http://dl.dafont.com/dl/?f=mouse_deco'
     name 'Mouse Deco'
     homepage 'http://www.dafont.com/mouse-deco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mouse_Deco.ttf'
 end

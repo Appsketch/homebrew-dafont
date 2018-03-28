@@ -5,7 +5,6 @@ cask 'dafont-guignols-band' do
     url 'http://dl.dafont.com/dl/?f=guignols_band'
     name 'Guignol&#039;s Band'
     homepage 'http://www.dafont.com/guignols-band.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Guignols_Band.ttf'
 end

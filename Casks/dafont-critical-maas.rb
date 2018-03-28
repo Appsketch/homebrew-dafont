@@ -5,7 +5,6 @@ cask 'dafont-critical-maas' do
     url 'http://dl.dafont.com/dl/?f=critical_maas'
     name 'Critical Maas'
     homepage 'http://www.dafont.com/critical-maas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRITM___.TTF'
 end

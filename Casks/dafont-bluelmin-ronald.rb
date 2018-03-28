@@ -5,7 +5,6 @@ cask 'dafont-bluelmin-ronald' do
     url 'http://dl.dafont.com/dl/?f=bluelmin_ronald'
     name 'Bluelmin Ronald'
     homepage 'http://www.dafont.com/bluelmin-ronald.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bluelmin Ronald.ttf'
 end

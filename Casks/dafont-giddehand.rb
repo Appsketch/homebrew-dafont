@@ -5,7 +5,6 @@ cask 'dafont-giddehand' do
     url 'http://dl.dafont.com/dl/?f=giddehand'
     name 'Giddehand'
     homepage 'http://www.dafont.com/giddehand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Giddehand.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-anonymous' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_anonymous'
     name 'Woodcutter Anonymous'
     homepage 'http://www.dafont.com/woodcutter-anonymous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Anonymous.ttf'
 end

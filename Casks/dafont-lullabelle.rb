@@ -5,7 +5,6 @@ cask 'dafont-lullabelle' do
     url 'http://dl.dafont.com/dl/?f=lullabelle'
     name 'Lulla Belle'
     homepage 'http://www.dafont.com/lullabelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LullaBelle.ttf'
 end

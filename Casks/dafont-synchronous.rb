@@ -5,7 +5,6 @@ cask 'dafont-synchronous' do
     url 'http://dl.dafont.com/dl/?f=synchronous'
     name 'Synchronous'
     homepage 'http://www.dafont.com/synchronous.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SYNCHR.TTF'
 end

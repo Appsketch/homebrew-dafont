@@ -5,7 +5,6 @@ cask 'dafont-dragonwick' do
     url 'http://dl.dafont.com/dl/?f=dragonwick'
     name 'Dragonwick FG'
     homepage 'http://www.dafont.com/dragonwick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dragonwick-fg.ttf'
 end

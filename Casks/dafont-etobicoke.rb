@@ -5,7 +5,6 @@ cask 'dafont-etobicoke' do
     url 'http://dl.dafont.com/dl/?f=etobicoke'
     name 'Etobicoke'
     homepage 'http://www.dafont.com/etobicoke.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'etobicoke.ttf'
 end

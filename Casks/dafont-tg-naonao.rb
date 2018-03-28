@@ -5,7 +5,6 @@ cask 'dafont-tg-naonao' do
     url 'http://dl.dafont.com/dl/?f=tg_naonao'
     name 'TG Naonao'
     homepage 'http://www.dafont.com/tg-naonao.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TG Naonao .ttf'
 end

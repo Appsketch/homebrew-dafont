@@ -5,7 +5,6 @@ cask 'dafont-mr-men-kf' do
     url 'http://dl.dafont.com/dl/?f=mr_men_kf'
     name 'Mr Men'
     homepage 'http://www.dafont.com/mr-men-kf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mr Men.ttf'
 end

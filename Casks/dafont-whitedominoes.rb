@@ -5,7 +5,6 @@ cask 'dafont-whitedominoes' do
     url 'http://dl.dafont.com/dl/?f=whitedominoes'
     name 'White Dominoes'
     homepage 'http://www.dafont.com/whitedominoes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhiteDominoes.ttf'
 end

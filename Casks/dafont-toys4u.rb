@@ -5,7 +5,6 @@ cask 'dafont-toys4u' do
     url 'http://dl.dafont.com/dl/?f=toys4u'
     name 'Toys&#039;4U'
     homepage 'http://www.dafont.com/toys4u.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'toys.TTF'
 end

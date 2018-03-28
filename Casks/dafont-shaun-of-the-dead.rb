@@ -5,7 +5,6 @@ cask 'dafont-shaun-of-the-dead' do
     url 'http://dl.dafont.com/dl/?f=shaun_of_the_dead'
     name 'Shaun of the Dead'
     homepage 'http://www.dafont.com/shaun-of-the-dead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shaun of the Dead.ttf'
 end

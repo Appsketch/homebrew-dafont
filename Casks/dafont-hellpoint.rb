@@ -5,7 +5,6 @@ cask 'dafont-hellpoint' do
     url 'http://dl.dafont.com/dl/?f=hellpoint'
     name 'Hellpoint'
     homepage 'http://www.dafont.com/hellpoint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hellpoint Italic.otf'
     font 'Hellpoint.otf'

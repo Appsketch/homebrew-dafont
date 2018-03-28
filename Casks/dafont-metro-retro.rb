@@ -5,7 +5,6 @@ cask 'dafont-metro-retro' do
     url 'http://dl.dafont.com/dl/?f=metro_retro'
     name 'Metro Retro'
     homepage 'http://www.dafont.com/metro-retro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'METRO-RE.TTF'
 end

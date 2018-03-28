@@ -5,7 +5,6 @@ cask 'dafont-modern-craft' do
     url 'http://dl.dafont.com/dl/?f=modern_craft'
     name 'Modern Craft'
     homepage 'http://www.dafont.com/modern-craft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MODERN CRAFT.ttf'
 end

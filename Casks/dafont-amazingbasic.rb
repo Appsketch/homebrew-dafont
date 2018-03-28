@@ -5,7 +5,6 @@ cask 'dafont-amazingbasic' do
     url 'http://dl.dafont.com/dl/?f=amazingbasic'
     name 'Amazing Basic'
     homepage 'http://www.dafont.com/amazingbasic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmazingBasic.ttf'
 end

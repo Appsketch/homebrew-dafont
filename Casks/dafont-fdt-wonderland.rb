@@ -5,7 +5,6 @@ cask 'dafont-fdt-wonderland' do
     url 'http://dl.dafont.com/dl/?f=fdt_wonderland'
     name 'FDT Wonderland'
     homepage 'http://www.dafont.com/fdt-wonderland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FDT_Wonderland_DEMO_VERSION.ttf'
 end

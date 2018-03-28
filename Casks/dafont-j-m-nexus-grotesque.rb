@@ -5,7 +5,6 @@ cask 'dafont-j-m-nexus-grotesque' do
     url 'http://dl.dafont.com/dl/?f=j_m_nexus_grotesque'
     name 'J.M. Nexus Grotesque'
     homepage 'http://www.dafont.com/j-m-nexus-grotesque.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'J.M.Nexus-Black.ttf'
 end

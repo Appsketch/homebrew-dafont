@@ -5,7 +5,6 @@ cask 'dafont-gypsy-road' do
     url 'http://dl.dafont.com/dl/?f=gypsy_road'
     name 'Gypsy Road'
     homepage 'http://www.dafont.com/gypsy-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gypsyroad.ttf'
     font 'gypsyroadc.ttf'

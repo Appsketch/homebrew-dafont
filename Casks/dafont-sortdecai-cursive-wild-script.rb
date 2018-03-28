@@ -5,7 +5,6 @@ cask 'dafont-sortdecai-cursive-wild-script' do
     url 'http://dl.dafont.com/dl/?f=sortdecai_cursive_wild_script'
     name 'Sortdecai Cursive Wild Script'
     homepage 'http://www.dafont.com/sortdecai-cursive-wild-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sortdecai Cursive Wild Script Free.ttf'
 end

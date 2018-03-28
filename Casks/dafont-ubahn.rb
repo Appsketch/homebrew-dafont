@@ -5,7 +5,6 @@ cask 'dafont-ubahn' do
     url 'http://dl.dafont.com/dl/?f=ubahn'
     name 'UBahn'
     homepage 'http://www.dafont.com/ubahn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ubahn-Light.ttf'
     font 'Ubahn.ttf'

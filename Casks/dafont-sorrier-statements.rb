@@ -5,7 +5,6 @@ cask 'dafont-sorrier-statements' do
     url 'http://dl.dafont.com/dl/?f=sorrier_statements'
     name 'Sorrier Statements'
     homepage 'http://www.dafont.com/sorrier-statements.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sorrier_statements.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-livestyle' do
     url 'http://dl.dafont.com/dl/?f=livestyle'
     name 'LiveStyle'
     homepage 'http://www.dafont.com/livestyle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LiveStyle.ttf'
 end

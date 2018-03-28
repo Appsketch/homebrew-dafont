@@ -5,7 +5,6 @@ cask 'dafont-birds-requiem' do
     url 'http://dl.dafont.com/dl/?f=birds_requiem'
     name 'Birds Requiem'
     homepage 'http://www.dafont.com/birds-requiem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Birds Requiem Svart.ttf'
     font 'Birds Requiem.ttf'

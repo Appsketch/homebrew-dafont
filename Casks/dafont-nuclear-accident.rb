@@ -5,7 +5,6 @@ cask 'dafont-nuclear-accident' do
     url 'http://dl.dafont.com/dl/?f=nuclear_accident'
     name 'Nuclear Accident'
     homepage 'http://www.dafont.com/nuclear-accident.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nuclear  Accident.ttf'
 end

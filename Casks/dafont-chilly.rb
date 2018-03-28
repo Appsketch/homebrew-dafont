@@ -5,7 +5,6 @@ cask 'dafont-chilly' do
     url 'http://dl.dafont.com/dl/?f=chilly'
     name 'Chilly'
     homepage 'http://www.dafont.com/chilly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chilly.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dim-wit' do
     url 'http://dl.dafont.com/dl/?f=dim_wit'
     name 'Dim Wit'
     homepage 'http://www.dafont.com/dim-wit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DimWitGauche.ttf'
     font 'DimWitRight.ttf'

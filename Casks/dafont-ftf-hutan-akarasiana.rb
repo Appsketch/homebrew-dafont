@@ -5,7 +5,6 @@ cask 'dafont-ftf-hutan-akarasiana' do
     url 'http://dl.dafont.com/dl/?f=ftf_hutan_akarasiana'
     name 'FTF Hutan Akarasiana'
     homepage 'http://www.dafont.com/ftf-hutan-akarasiana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Hutan Akarasiana.otf'
 end

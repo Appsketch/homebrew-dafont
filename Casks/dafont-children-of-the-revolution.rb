@@ -5,7 +5,6 @@ cask 'dafont-children-of-the-revolution' do
     url 'http://dl.dafont.com/dl/?f=children_of_the_revolution'
     name 'Children of the revolution'
     homepage 'http://www.dafont.com/children-of-the-revolution.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Children of the revolution.ttf'
 end

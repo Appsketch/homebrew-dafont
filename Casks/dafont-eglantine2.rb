@@ -5,7 +5,6 @@ cask 'dafont-eglantine2' do
     url 'http://dl.dafont.com/dl/?f=eglantine2'
     name 'Eglantine'
     homepage 'http://www.dafont.com/eglantine2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eglantine.ttf'
 end

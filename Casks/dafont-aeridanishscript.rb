@@ -5,7 +5,6 @@ cask 'dafont-aeridanishscript' do
     url 'http://dl.dafont.com/dl/?f=aeridanishscript'
     name 'Aeridanish Script'
     homepage 'http://www.dafont.com/aeridanishscript.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AeridanishScript.ttf'
 end

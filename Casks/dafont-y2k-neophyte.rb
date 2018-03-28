@@ -5,7 +5,6 @@ cask 'dafont-y2k-neophyte' do
     url 'http://dl.dafont.com/dl/?f=y2k_neophyte'
     name 'Y2K Neophyte'
     homepage 'http://www.dafont.com/y2k-neophyte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Y2K_neophyte_italic.ttf'
     font 'Y2K_neophyte.ttf'

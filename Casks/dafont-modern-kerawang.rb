@@ -5,7 +5,6 @@ cask 'dafont-modern-kerawang' do
     url 'http://dl.dafont.com/dl/?f=modern_kerawang'
     name 'Modern Kerawang'
     homepage 'http://www.dafont.com/modern-kerawang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'modern kerawang.ttf'
 end

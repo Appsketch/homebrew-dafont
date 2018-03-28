@@ -5,7 +5,6 @@ cask 'dafont-quatron' do
     url 'http://dl.dafont.com/dl/?f=quatron'
     name 'Quatron'
     homepage 'http://www.dafont.com/quatron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quatron.ttf'
     font 'QuatronFat.ttf'

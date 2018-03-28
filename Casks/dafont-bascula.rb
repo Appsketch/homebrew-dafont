@@ -5,7 +5,6 @@ cask 'dafont-bascula' do
     url 'http://dl.dafont.com/dl/?f=bascula'
     name 'Bascula'
     homepage 'http://www.dafont.com/bascula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BasculaCollege.ttf'
 end

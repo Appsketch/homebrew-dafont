@@ -5,7 +5,6 @@ cask 'dafont-beautiful-every-time' do
     url 'http://dl.dafont.com/dl/?f=beautiful_every_time'
     name 'Beautiful Every Time'
     homepage 'http://www.dafont.com/beautiful-every-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeautifulEveryTime.ttf'
 end

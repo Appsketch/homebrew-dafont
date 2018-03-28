@@ -5,7 +5,6 @@ cask 'dafont-dreamieeyesinstars' do
     url 'http://dl.dafont.com/dl/?f=dreamieeyesinstars'
     name 'Dreamie Eyes In Stars'
     homepage 'http://www.dafont.com/dreamieeyesinstars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DreamieEyesInStars.ttf'
 end

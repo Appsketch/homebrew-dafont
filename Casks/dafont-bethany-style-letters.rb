@@ -5,7 +5,6 @@ cask 'dafont-bethany-style-letters' do
     url 'http://dl.dafont.com/dl/?f=bethany_style_letters'
     name 'Bethany Style Letters'
     homepage 'http://www.dafont.com/bethany-style-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BETHSL__.TTF'
 end

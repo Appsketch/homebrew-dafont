@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-hooked-on-a-feeling' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_hooked_on_a_feeling'
     name 'Austie Bost Hooked on a Feeling'
     homepage 'http://www.dafont.com/austie-bost-hooked-on-a-feeling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Hooked on a Feeling.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-inner-city' do
     url 'http://dl.dafont.com/dl/?f=inner_city'
     name 'Inner City'
     homepage 'http://www.dafont.com/inner-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inner City.ttf'
 end

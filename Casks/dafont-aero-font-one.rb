@@ -5,7 +5,6 @@ cask 'dafont-aero-font-one' do
     url 'http://dl.dafont.com/dl/?f=aero_font_one'
     name 'Aero Font One'
     homepage 'http://www.dafont.com/aero-font-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aero Font One Swash.ttf'
     font 'Aero Font One.ttf'

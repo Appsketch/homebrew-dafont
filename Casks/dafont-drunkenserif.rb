@@ -5,7 +5,6 @@ cask 'dafont-drunkenserif' do
     url 'http://dl.dafont.com/dl/?f=drunkenserif'
     name 'Drunken Serif'
     homepage 'http://www.dafont.com/drunkenserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DrunkenSerif.ttf'
 end

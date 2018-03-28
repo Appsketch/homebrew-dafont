@@ -5,7 +5,6 @@ cask 'dafont-unlearned-bitmap' do
     url 'http://dl.dafont.com/dl/?f=unlearned_bitmap'
     name 'Unlearned Bitmap'
     homepage 'http://www.dafont.com/unlearned-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'unlearne.ttf'
 end

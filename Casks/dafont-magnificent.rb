@@ -5,7 +5,6 @@ cask 'dafont-magnificent' do
     url 'http://dl.dafont.com/dl/?f=magnificent'
     name 'Magnificent'
     homepage 'http://www.dafont.com/magnificent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Magnificent.ttf'
 end

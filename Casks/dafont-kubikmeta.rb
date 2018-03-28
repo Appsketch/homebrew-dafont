@@ -5,7 +5,6 @@ cask 'dafont-kubikmeta' do
     url 'http://dl.dafont.com/dl/?f=kubikmeta'
     name 'Kubikmeta'
     homepage 'http://www.dafont.com/kubikmeta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kubikmeta.ttf'
 end

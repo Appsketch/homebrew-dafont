@@ -5,7 +5,6 @@ cask 'dafont-romanserif' do
     url 'http://dl.dafont.com/dl/?f=romanserif'
     name 'Roman Serif'
     homepage 'http://www.dafont.com/romanserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RomanSerif-Oblique.ttf'
     font 'RomanSerif.ttf'

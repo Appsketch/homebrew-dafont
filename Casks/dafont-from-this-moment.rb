@@ -5,7 +5,6 @@ cask 'dafont-from-this-moment' do
     url 'http://dl.dafont.com/dl/?f=from_this_moment'
     name 'From this Moment'
     homepage 'http://www.dafont.com/from-this-moment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'From this Moment.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gotenborgfraktur' do
     url 'http://dl.dafont.com/dl/?f=gotenborgfraktur'
     name 'Gotenborg Fraktur'
     homepage 'http://www.dafont.com/gotenborgfraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GotenborgFraktur.ttf'
 end

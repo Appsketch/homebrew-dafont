@@ -5,7 +5,6 @@ cask 'dafont-docteur-atomic' do
     url 'http://dl.dafont.com/dl/?f=docteur_atomic'
     name 'Docteur Atomic'
     homepage 'http://www.dafont.com/docteur-atomic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'docteur_atomic.ttf'
 end

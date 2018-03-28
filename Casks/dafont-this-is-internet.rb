@@ -5,7 +5,6 @@ cask 'dafont-this-is-internet' do
     url 'http://dl.dafont.com/dl/?f=this_is_internet'
     name 'This Is Internet!'
     homepage 'http://www.dafont.com/this-is-internet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THIS IS INTERNET.ttf'
 end

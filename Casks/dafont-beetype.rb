@@ -5,7 +5,6 @@ cask 'dafont-beetype' do
     url 'http://dl.dafont.com/dl/?f=beetype'
     name 'Beetype'
     homepage 'http://www.dafont.com/beetype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beetype-Filled.otf'
     font 'Beetype-Outline.otf'

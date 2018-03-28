@@ -5,7 +5,6 @@ cask 'dafont-5curvo' do
     url 'http://dl.dafont.com/dl/?f=5curvo'
     name '5 Curvo'
     homepage 'http://www.dafont.com/5curvo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5curvo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kremlin-kommisar' do
     url 'http://dl.dafont.com/dl/?f=kremlin_kommisar'
     name 'Kremlin Kommisar'
     homepage 'http://www.dafont.com/kremlin-kommisar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Kommisar.ttf'
 end

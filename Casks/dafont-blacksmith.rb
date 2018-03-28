@@ -5,7 +5,6 @@ cask 'dafont-blacksmith' do
     url 'http://dl.dafont.com/dl/?f=blacksmith'
     name 'Black Smith'
     homepage 'http://www.dafont.com/blacksmith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackSmith.ttf'
 end

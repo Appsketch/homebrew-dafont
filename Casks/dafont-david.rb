@@ -5,7 +5,6 @@ cask 'dafont-david' do
     url 'http://dl.dafont.com/dl/?f=david'
     name 'David'
     homepage 'http://www.dafont.com/david.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'david.ttf'
 end

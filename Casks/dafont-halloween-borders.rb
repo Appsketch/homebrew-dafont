@@ -5,7 +5,6 @@ cask 'dafont-halloween-borders' do
     url 'http://dl.dafont.com/dl/?f=halloween_borders'
     name 'Halloween Borders'
     homepage 'http://www.dafont.com/halloween-borders.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'halloween_borders.ttf'
 end

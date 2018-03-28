@@ -5,7 +5,6 @@ cask 'dafont-cybersystem2-3' do
     url 'http://dl.dafont.com/dl/?f=cybersystem2_3'
     name 'Cyber System 2-3'
     homepage 'http://www.dafont.com/cybersystem2-3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cybersystem2-3.ttf'
 end

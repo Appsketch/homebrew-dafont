@@ -5,7 +5,6 @@ cask 'dafont-christmas-cheer' do
     url 'http://dl.dafont.com/dl/?f=christmas_cheer'
     name 'Christmas Cheer'
     homepage 'http://www.dafont.com/christmas-cheer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChristmasCheer.ttf'
 end

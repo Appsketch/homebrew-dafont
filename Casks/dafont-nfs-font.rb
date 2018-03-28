@@ -5,7 +5,6 @@ cask 'dafont-nfs-font' do
     url 'http://dl.dafont.com/dl/?f=nfs_font'
     name 'NFS'
     homepage 'http://www.dafont.com/nfs-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NFS_by_JLTV.ttf'
 end

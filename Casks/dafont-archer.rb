@@ -5,7 +5,6 @@ cask 'dafont-archer' do
     url 'http://dl.dafont.com/dl/?f=archer'
     name 'Archer'
     homepage 'http://www.dafont.com/archer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARCHER.TTF'
 end

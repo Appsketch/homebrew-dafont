@@ -5,7 +5,6 @@ cask 'dafont-caneletter-script' do
     url 'http://dl.dafont.com/dl/?f=caneletter_script'
     name 'Caneletter Script'
     homepage 'http://www.dafont.com/caneletter-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CaneletterScript_PersonalUse.otf'
     font 'CaneletterScriptThin_PersonalUse.otf'

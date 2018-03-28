@@ -5,7 +5,6 @@ cask 'dafont-mythbusters' do
     url 'http://dl.dafont.com/dl/?f=mythbusters'
     name 'MythBusters'
     homepage 'http://www.dafont.com/mythbusters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MythBusters.ttf'
 end

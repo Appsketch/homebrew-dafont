@@ -5,7 +5,6 @@ cask 'dafont-pwalabama' do
     url 'http://dl.dafont.com/dl/?f=pwalabama'
     name 'PW Alabama'
     homepage 'http://www.dafont.com/pwalabama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWAlabama.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-huhtikuu' do
     url 'http://dl.dafont.com/dl/?f=huhtikuu'
     name 'Huhtikuu'
     homepage 'http://www.dafont.com/huhtikuu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Huhtikuu.ttf'
     font 'Huhtikuu2.ttf'

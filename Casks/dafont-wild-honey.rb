@@ -5,7 +5,6 @@ cask 'dafont-wild-honey' do
     url 'http://dl.dafont.com/dl/?f=wild_honey'
     name 'Wild Honey'
     homepage 'http://www.dafont.com/wild-honey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wild honey.ttf'
 end

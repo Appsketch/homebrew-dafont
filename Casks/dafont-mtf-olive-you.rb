@@ -5,7 +5,6 @@ cask 'dafont-mtf-olive-you' do
     url 'http://dl.dafont.com/dl/?f=mtf_olive_you'
     name 'MTF Olive You'
     homepage 'http://www.dafont.com/mtf-olive-you.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Olive You.ttf'
 end

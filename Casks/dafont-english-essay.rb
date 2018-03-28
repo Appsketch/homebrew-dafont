@@ -5,7 +5,6 @@ cask 'dafont-english-essay' do
     url 'http://dl.dafont.com/dl/?f=english_essay'
     name 'English Essay'
     homepage 'http://www.dafont.com/english-essay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'english_essay.ttf'
 end

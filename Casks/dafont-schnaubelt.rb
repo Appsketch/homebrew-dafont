@@ -5,7 +5,6 @@ cask 'dafont-schnaubelt' do
     url 'http://dl.dafont.com/dl/?f=schnaubelt'
     name 'Schnaubelt'
     homepage 'http://www.dafont.com/schnaubelt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Schnaubelt Bold Italic.otf'
     font 'Schnaubelt Bold.otf'

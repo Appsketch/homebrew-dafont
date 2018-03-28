@@ -5,7 +5,6 @@ cask 'dafont-dancing-in-the-dark' do
     url 'http://dl.dafont.com/dl/?f=dancing_in_the_dark'
     name 'Dancing in the dark'
     homepage 'http://www.dafont.com/dancing-in-the-dark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dancing in the dark.ttf'
 end

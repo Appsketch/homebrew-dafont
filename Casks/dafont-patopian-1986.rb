@@ -5,7 +5,6 @@ cask 'dafont-patopian-1986' do
     url 'http://dl.dafont.com/dl/?f=patopian_1986'
     name 'Patopian 1986'
     homepage 'http://www.dafont.com/patopian-1986.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Patopian 1986.ttf'
 end

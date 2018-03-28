@@ -5,7 +5,6 @@ cask 'dafont-hetfield' do
     url 'http://dl.dafont.com/dl/?f=hetfield'
     name 'Hetfield'
     homepage 'http://www.dafont.com/hetfield.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hetfield Bold Italic.otf'
     font 'Hetfield Bold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-overcast-skies' do
     url 'http://dl.dafont.com/dl/?f=overcast_skies'
     name 'Overcast Skies'
     homepage 'http://www.dafont.com/overcast-skies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Overcast Skies DEMO.otf'
 end

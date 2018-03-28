@@ -5,7 +5,6 @@ cask 'dafont-cf-la-belle-helene-p' do
     url 'http://dl.dafont.com/dl/?f=cf_la_belle_helene_p'
     name 'CF La belle Helene P'
     homepage 'http://www.dafont.com/cf-la-belle-helene-p.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFLabelleHeleneP-Regular.ttf'
 end

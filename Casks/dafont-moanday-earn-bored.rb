@@ -5,7 +5,6 @@ cask 'dafont-moanday-earn-bored' do
     url 'http://dl.dafont.com/dl/?f=moanday_earn_bored'
     name 'Moanday earn Bored'
     homepage 'http://www.dafont.com/moanday-earn-bored.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'moanday_earn_bored.ttf'
 end

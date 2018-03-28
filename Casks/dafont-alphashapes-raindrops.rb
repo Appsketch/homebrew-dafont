@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-raindrops' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_raindrops'
     name 'AlphaShapes Raindrops'
     homepage 'http://www.dafont.com/alphashapes-raindrops.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asraindrops.ttf'
 end

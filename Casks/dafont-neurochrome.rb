@@ -5,7 +5,6 @@ cask 'dafont-neurochrome' do
     url 'http://dl.dafont.com/dl/?f=neurochrome'
     name 'Neurochrome'
     homepage 'http://www.dafont.com/neurochrome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'neurochrome.ttf'
 end

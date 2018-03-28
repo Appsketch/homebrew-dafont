@@ -5,7 +5,6 @@ cask 'dafont-travis-sans-ms' do
     url 'http://dl.dafont.com/dl/?f=travis_sans_ms'
     name 'Travis Sans MS'
     homepage 'http://www.dafont.com/travis-sans-ms.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Travis Sans MS.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pea-weenie' do
     url 'http://dl.dafont.com/dl/?f=pea_weenie'
     name 'Pea Weenie'
     homepage 'http://www.dafont.com/pea-weenie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'peaweenie.ttf'
 end

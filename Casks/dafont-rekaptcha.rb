@@ -5,7 +5,6 @@ cask 'dafont-rekaptcha' do
     url 'http://dl.dafont.com/dl/?f=rekaptcha'
     name 'Rekaptcha'
     homepage 'http://www.dafont.com/rekaptcha.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rekaptcha.ttf'
 end

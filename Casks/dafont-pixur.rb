@@ -5,7 +5,6 @@ cask 'dafont-pixur' do
     url 'http://dl.dafont.com/dl/?f=pixur'
     name 'Pixur'
     homepage 'http://www.dafont.com/pixur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixur.TTF'
 end

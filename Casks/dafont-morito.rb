@@ -5,7 +5,6 @@ cask 'dafont-morito' do
     url 'http://dl.dafont.com/dl/?f=morito'
     name 'Morito'
     homepage 'http://www.dafont.com/morito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'comorimorito.otf'
 end

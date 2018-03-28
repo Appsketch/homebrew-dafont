@@ -5,7 +5,6 @@ cask 'dafont-yankee-clipper' do
     url 'http://dl.dafont.com/dl/?f=yankee_clipper'
     name 'Yankee Clipper'
     homepage 'http://www.dafont.com/yankee-clipper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yankclipper2.ttf'
     font 'yankclipper23d.ttf'

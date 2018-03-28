@@ -5,7 +5,6 @@ cask 'dafont-bulwark-nf' do
     url 'http://dl.dafont.com/dl/?f=bulwark_nf'
     name 'Bulwark NF'
     homepage 'http://www.dafont.com/bulwark-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BULWN___.TTF'
 end

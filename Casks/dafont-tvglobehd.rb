@@ -5,7 +5,6 @@ cask 'dafont-tvglobehd' do
     url 'http://dl.dafont.com/dl/?f=tvglobehd'
     name 'TV Globe HD'
     homepage 'http://www.dafont.com/tvglobehd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TVGlobeHD.ttf'
 end

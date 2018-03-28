@@ -5,7 +5,6 @@ cask 'dafont-vins-dojo' do
     url 'http://dl.dafont.com/dl/?f=vins_dojo'
     name 'Vin&#039;s Dojo'
     homepage 'http://www.dafont.com/vins-dojo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vinsdojo.TTF'
 end

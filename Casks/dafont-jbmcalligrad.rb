@@ -5,7 +5,6 @@ cask 'dafont-jbmcalligrad' do
     url 'http://dl.dafont.com/dl/?f=jbmcalligrad'
     name 'JBM Calligrad'
     homepage 'http://www.dafont.com/jbmcalligrad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JBM Calligrad.ttf'
 end

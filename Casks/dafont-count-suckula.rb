@@ -5,7 +5,6 @@ cask 'dafont-count-suckula' do
     url 'http://dl.dafont.com/dl/?f=count_suckula'
     name 'Count Suckula'
     homepage 'http://www.dafont.com/count-suckula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'countsuckula.ttf'
     font 'countsuckula3d.ttf'

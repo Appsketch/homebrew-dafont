@@ -5,7 +5,6 @@ cask 'dafont-cf-life-is-a-dream' do
     url 'http://dl.dafont.com/dl/?f=cf_life_is_a_dream'
     name 'CF Life Is A Dream'
     homepage 'http://www.dafont.com/cf-life-is-a-dream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFLifeIsADream-Regular.ttf'
 end

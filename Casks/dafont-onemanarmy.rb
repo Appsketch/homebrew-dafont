@@ -5,7 +5,6 @@ cask 'dafont-onemanarmy' do
     url 'http://dl.dafont.com/dl/?f=onemanarmy'
     name 'One Man Army'
     homepage 'http://www.dafont.com/onemanarmy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OneManArmy.ttf'
 end

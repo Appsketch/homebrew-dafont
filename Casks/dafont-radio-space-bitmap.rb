@@ -5,7 +5,6 @@ cask 'dafont-radio-space-bitmap' do
     url 'http://dl.dafont.com/dl/?f=radio_space_bitmap'
     name 'Radio Space Bitmap'
     homepage 'http://www.dafont.com/radio-space-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RADIOBM.FON'
 end

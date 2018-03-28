@@ -5,7 +5,6 @@ cask 'dafont-dementia' do
     url 'http://dl.dafont.com/dl/?f=dementia'
     name 'Dementia'
     homepage 'http://www.dafont.com/dementia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEMED___.TTF'
 end

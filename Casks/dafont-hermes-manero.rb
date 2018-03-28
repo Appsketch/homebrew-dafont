@@ -5,7 +5,6 @@ cask 'dafont-hermes-manero' do
     url 'http://dl.dafont.com/dl/?f=hermes_manero'
     name 'Hermes Manero'
     homepage 'http://www.dafont.com/hermes-manero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HERMES MANERO.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-annivers' do
     url 'http://dl.dafont.com/dl/?f=annivers'
     name 'Annivers'
     homepage 'http://www.dafont.com/annivers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Annivers-Demo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lott-lion-of-the-tribe' do
     url 'http://dl.dafont.com/dl/?f=lott_lion_of_the_tribe'
     name 'LOTT, Lion of the tribe'
     homepage 'http://www.dafont.com/lott-lion-of-the-tribe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOTT - Lion of the tribe.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-loud-noise' do
     url 'http://dl.dafont.com/dl/?f=loud_noise'
     name 'Loud Noise'
     homepage 'http://www.dafont.com/loud-noise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOUDNOISE.TTF'
     font 'LOUDNOISEBLACK.ttf'

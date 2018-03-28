@@ -5,7 +5,6 @@ cask 'dafont-febrero' do
     url 'http://dl.dafont.com/dl/?f=febrero'
     name 'Febrero'
     homepage 'http://www.dafont.com/febrero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Febrero-Light.otf'
     font 'Febrero-Regular.otf'

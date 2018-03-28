@@ -5,7 +5,6 @@ cask 'dafont-asterbloom' do
     url 'http://dl.dafont.com/dl/?f=asterbloom'
     name 'Aster Bloom'
     homepage 'http://www.dafont.com/asterbloom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AsterBloom.ttf'
 end

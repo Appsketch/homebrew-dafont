@@ -5,7 +5,6 @@ cask 'dafont-spirulina' do
     url 'http://dl.dafont.com/dl/?f=spirulina'
     name 'Spirulina'
     homepage 'http://www.dafont.com/spirulina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spirulina.ttf'
 end

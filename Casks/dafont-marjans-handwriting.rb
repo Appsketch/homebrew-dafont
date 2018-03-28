@@ -5,7 +5,6 @@ cask 'dafont-marjans-handwriting' do
     url 'http://dl.dafont.com/dl/?f=marjans_handwriting'
     name 'Marjan&#039;s handwriting'
     homepage 'http://www.dafont.com/marjans-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marjan&#039;s handwriting.ttf'
 end

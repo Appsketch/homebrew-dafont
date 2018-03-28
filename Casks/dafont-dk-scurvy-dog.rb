@@ -5,7 +5,6 @@ cask 'dafont-dk-scurvy-dog' do
     url 'http://dl.dafont.com/dl/?f=dk_scurvy_dog'
     name 'DK Scurvy Dog'
     homepage 'http://www.dafont.com/dk-scurvy-dog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Scurvy Dog.ttf'
 end

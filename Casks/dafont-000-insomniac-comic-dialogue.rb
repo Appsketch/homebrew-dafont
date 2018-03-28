@@ -5,7 +5,6 @@ cask 'dafont-000-insomniac-comic-dialogue' do
     url 'http://dl.dafont.com/dl/?f=000_insomniac_comic_dialogue'
     name '000 Insomniac Comic Dialogue'
     homepage 'http://www.dafont.com/000-insomniac-comic-dialogue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '000 InsomniacOvrLrd Comic Dialogue.ttf'
 end

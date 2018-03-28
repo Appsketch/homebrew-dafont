@@ -5,7 +5,6 @@ cask 'dafont-blog-the-impaler' do
     url 'http://dl.dafont.com/dl/?f=blog_the_impaler'
     name 'Blog the Impaler'
     homepage 'http://www.dafont.com/blog-the-impaler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blog The Impaler_capsheavy.ttf'
     font 'Blog The Impaler.ttf'

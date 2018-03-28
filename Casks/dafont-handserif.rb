@@ -5,7 +5,6 @@ cask 'dafont-handserif' do
     url 'http://dl.dafont.com/dl/?f=handserif'
     name 'Handserif'
     homepage 'http://www.dafont.com/handserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HanSrf.ttf'
 end

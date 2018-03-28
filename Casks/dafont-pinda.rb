@@ -5,7 +5,6 @@ cask 'dafont-pinda' do
     url 'http://dl.dafont.com/dl/?f=pinda'
     name 'Pinda'
     homepage 'http://www.dafont.com/pinda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pinda.ttf'
 end

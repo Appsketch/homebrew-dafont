@@ -5,7 +5,6 @@ cask 'dafont-spaceworm02' do
     url 'http://dl.dafont.com/dl/?f=spaceworm02'
     name 'Spaceworm 02'
     homepage 'http://www.dafont.com/spaceworm02.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpaceWorm02_erc_2006.ttf'
 end

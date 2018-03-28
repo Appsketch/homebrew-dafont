@@ -5,7 +5,6 @@ cask 'dafont-kalocsai-flowers' do
     url 'http://dl.dafont.com/dl/?f=kalocsai_flowers'
     name 'Kalocsai Flowers'
     homepage 'http://www.dafont.com/kalocsai-flowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KALOF___.TTF'
 end

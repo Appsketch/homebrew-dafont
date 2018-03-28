@@ -5,7 +5,6 @@ cask 'dafont-notepad' do
     url 'http://dl.dafont.com/dl/?f=notepad'
     name 'Notepad'
     homepage 'http://www.dafont.com/notepad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOTEPAD_.TTF'
 end

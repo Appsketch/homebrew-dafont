@@ -5,7 +5,6 @@ cask 'dafont-this-side-up' do
     url 'http://dl.dafont.com/dl/?f=this_side_up'
     name 'This side up'
     homepage 'http://www.dafont.com/this-side-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'This side up.ttf'
 end

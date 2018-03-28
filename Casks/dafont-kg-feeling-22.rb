@@ -5,7 +5,6 @@ cask 'dafont-kg-feeling-22' do
     url 'http://dl.dafont.com/dl/?f=kg_feeling_22'
     name 'KG Feeling 22'
     homepage 'http://www.dafont.com/kg-feeling-22.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGFeeling22.ttf'
 end

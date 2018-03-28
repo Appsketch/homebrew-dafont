@@ -5,7 +5,6 @@ cask 'dafont-via-a-vis' do
     url 'http://dl.dafont.com/dl/?f=via_a_vis'
     name 'Via-A-Vis'
     homepage 'http://www.dafont.com/via-a-vis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vis-A-Vis.ttf'
 end

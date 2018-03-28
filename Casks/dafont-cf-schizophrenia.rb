@@ -5,7 +5,6 @@ cask 'dafont-cf-schizophrenia' do
     url 'http://dl.dafont.com/dl/?f=cf_schizophrenia'
     name 'CF Schizophrenia'
     homepage 'http://www.dafont.com/cf-schizophrenia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFSchizophreniaPersonaluse.ttf'
 end

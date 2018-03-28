@@ -5,7 +5,6 @@ cask 'dafont-see-you-at-the-movies-2' do
     url 'http://dl.dafont.com/dl/?f=see_you_at_the_movies_2'
     name 'See You At The Movies 2'
     homepage 'http://www.dafont.com/see-you-at-the-movies-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SYATM2.otf'
 end

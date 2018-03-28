@@ -5,7 +5,6 @@ cask 'dafont-castle-octopus' do
     url 'http://dl.dafont.com/dl/?f=castle_octopus'
     name 'Castle Octopus'
     homepage 'http://www.dafont.com/castle-octopus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Castle Octopus.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kingthings-willow' do
     url 'http://dl.dafont.com/dl/?f=kingthings_willow'
     name 'Kingthings Willow'
     homepage 'http://www.dafont.com/kingthings-willow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Willow.ttf'
     font 'Kingthings Willowless.ttf'

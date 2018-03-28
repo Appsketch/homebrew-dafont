@@ -5,7 +5,6 @@ cask 'dafont-walt-disney' do
     url 'http://dl.dafont.com/dl/?f=walt_disney'
     name 'Waltograph'
     homepage 'http://www.dafont.com/walt-disney.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'waltograph42.otf'
     font 'waltographUI.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-topple' do
     url 'http://dl.dafont.com/dl/?f=topple'
     name 'Topple'
     homepage 'http://www.dafont.com/topple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Topple1.ttf'
     font 'Topple2.ttf'

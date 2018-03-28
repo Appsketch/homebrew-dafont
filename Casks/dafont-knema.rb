@@ -5,7 +5,6 @@ cask 'dafont-knema' do
     url 'http://dl.dafont.com/dl/?f=knema'
     name 'Knema'
     homepage 'http://www.dafont.com/knema.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'knema.ttf'
 end

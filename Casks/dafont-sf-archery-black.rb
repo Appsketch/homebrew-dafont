@@ -5,7 +5,6 @@ cask 'dafont-sf-archery-black' do
     url 'http://dl.dafont.com/dl/?f=sf_archery_black'
     name 'SF Archery Black'
     homepage 'http://www.dafont.com/sf-archery-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Archery Black Oblique.ttf'
     font 'SF Archery Black Outline Oblique.ttf'

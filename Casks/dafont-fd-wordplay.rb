@@ -5,7 +5,6 @@ cask 'dafont-fd-wordplay' do
     url 'http://dl.dafont.com/dl/?f=fd_wordplay'
     name 'FD Wordplay'
     homepage 'http://www.dafont.com/fd-wordplay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FD Wordplay.ttf'
 end

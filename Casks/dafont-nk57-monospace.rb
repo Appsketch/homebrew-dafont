@@ -5,7 +5,6 @@ cask 'dafont-nk57-monospace' do
     url 'http://dl.dafont.com/dl/?f=nk57_monospace'
     name 'NK57 Monospace'
     homepage 'http://www.dafont.com/nk57-monospace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nk57-monospace-cd-bd-it.ttf'
     font 'nk57-monospace-cd-bd.ttf'

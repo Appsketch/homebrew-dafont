@@ -5,7 +5,6 @@ cask 'dafont-tek-hed' do
     url 'http://dl.dafont.com/dl/?f=tek_hed'
     name 'Tek Hed'
     homepage 'http://www.dafont.com/tek-hed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tek hed aggresive.TTF'
     font 'tek hed angry.TTF'

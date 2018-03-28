@@ -5,7 +5,6 @@ cask 'dafont-vtks-totalflexdisturbed' do
     url 'http://dl.dafont.com/dl/?f=vtks_totalflexdisturbed'
     name 'Vtks Total Flex Disturbed'
     homepage 'http://www.dafont.com/vtks-totalflexdisturbed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks TotalFlexDisturbed.ttf'
 end

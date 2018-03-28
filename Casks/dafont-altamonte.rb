@@ -5,7 +5,6 @@ cask 'dafont-altamonte' do
     url 'http://dl.dafont.com/dl/?f=altamonte'
     name 'Altamonte'
     homepage 'http://www.dafont.com/altamonte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AltamontePersonalUse.otf'
 end

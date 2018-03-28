@@ -5,7 +5,6 @@ cask 'dafont-sounds-eroded' do
     url 'http://dl.dafont.com/dl/?f=sounds_eroded'
     name 'Sounds Eroded'
     homepage 'http://www.dafont.com/sounds-eroded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sounds  Eroded.ttf'
 end

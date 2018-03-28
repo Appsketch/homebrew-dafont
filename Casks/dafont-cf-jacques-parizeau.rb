@@ -5,7 +5,6 @@ cask 'dafont-cf-jacques-parizeau' do
     url 'http://dl.dafont.com/dl/?f=cf_jacques_parizeau'
     name 'CF Jacques Parizeau'
     homepage 'http://www.dafont.com/cf-jacques-parizeau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFJacquesParizeau-Regular.ttf'
 end

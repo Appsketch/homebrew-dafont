@@ -5,7 +5,6 @@ cask 'dafont-petit' do
     url 'http://dl.dafont.com/dl/?f=petit'
     name 'Petit'
     homepage 'http://www.dafont.com/petit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Petit.TTF'
 end

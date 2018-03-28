@@ -5,7 +5,6 @@ cask 'dafont-hot-tamale' do
     url 'http://dl.dafont.com/dl/?f=hot_tamale'
     name 'Hot Tamale'
     homepage 'http://www.dafont.com/hot-tamale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hottaml.ttf'
 end

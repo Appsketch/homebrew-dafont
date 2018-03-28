@@ -5,7 +5,6 @@ cask 'dafont-raslani-melissa' do
     url 'http://dl.dafont.com/dl/?f=raslani_melissa'
     name 'Raslani Melissa'
     homepage 'http://www.dafont.com/raslani-melissa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raslani Melissa.ttf'
 end

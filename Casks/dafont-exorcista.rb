@@ -5,7 +5,6 @@ cask 'dafont-exorcista' do
     url 'http://dl.dafont.com/dl/?f=exorcista'
     name 'Exorcista'
     homepage 'http://www.dafont.com/exorcista.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Exorcista_-Jed_40.ttf'
 end

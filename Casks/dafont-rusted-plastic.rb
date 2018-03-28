@@ -5,7 +5,6 @@ cask 'dafont-rusted-plastic' do
     url 'http://dl.dafont.com/dl/?f=rusted_plastic'
     name 'Rusted Plastic'
     homepage 'http://www.dafont.com/rusted-plastic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rusted_Plastic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-libre2' do
     url 'http://dl.dafont.com/dl/?f=libre2'
     name 'Libre'
     homepage 'http://www.dafont.com/libre2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LIBRE.TTF'
 end

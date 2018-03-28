@@ -5,7 +5,6 @@ cask 'dafont-bauwerck' do
     url 'http://dl.dafont.com/dl/?f=bauwerck'
     name 'Bauwerck'
     homepage 'http://www.dafont.com/bauwerck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bauwerck.ttf'
 end

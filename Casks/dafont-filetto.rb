@@ -5,7 +5,6 @@ cask 'dafont-filetto' do
     url 'http://dl.dafont.com/dl/?f=filetto'
     name 'Filetto'
     homepage 'http://www.dafont.com/filetto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Filetto_bold.ttf'
     font 'Filetto_extralight.ttf'

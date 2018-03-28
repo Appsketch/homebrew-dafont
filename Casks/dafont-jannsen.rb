@@ -5,7 +5,6 @@ cask 'dafont-jannsen' do
     url 'http://dl.dafont.com/dl/?f=jannsen'
     name 'Jannsen'
     homepage 'http://www.dafont.com/jannsen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jannsen.ttf'
 end

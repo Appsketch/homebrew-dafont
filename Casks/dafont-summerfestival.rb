@@ -5,7 +5,6 @@ cask 'dafont-summerfestival' do
     url 'http://dl.dafont.com/dl/?f=summerfestival'
     name 'Summer Festival'
     homepage 'http://www.dafont.com/summerfestival.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SummerFestival.ttf'
 end

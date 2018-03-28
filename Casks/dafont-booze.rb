@@ -5,7 +5,6 @@ cask 'dafont-booze' do
     url 'http://dl.dafont.com/dl/?f=booze'
     name 'Booze'
     homepage 'http://www.dafont.com/booze.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'booze.ttf'
 end

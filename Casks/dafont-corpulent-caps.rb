@@ -5,7 +5,6 @@ cask 'dafont-corpulent-caps' do
     url 'http://dl.dafont.com/dl/?f=corpulent_caps'
     name 'Corpulent Caps'
     homepage 'http://www.dafont.com/corpulent-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ccaps.ttf'
     font 'ccapshad.ttf'

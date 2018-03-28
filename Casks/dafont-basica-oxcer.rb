@@ -5,7 +5,6 @@ cask 'dafont-basica-oxcer' do
     url 'http://dl.dafont.com/dl/?f=basica_oxcer'
     name 'B&aacute;sica'
     homepage 'http://www.dafont.com/basica-oxcer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Basica solo letras para dafont lista__.ttf'
 end

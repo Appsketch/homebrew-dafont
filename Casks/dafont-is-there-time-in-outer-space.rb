@@ -5,7 +5,6 @@ cask 'dafont-is-there-time-in-outer-space' do
     url 'http://dl.dafont.com/dl/?f=is_there_time_in_outer_space'
     name 'Is there time in outer space?'
     homepage 'http://www.dafont.com/is-there-time-in-outer-space.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Is there time in outer space.ttf'
 end

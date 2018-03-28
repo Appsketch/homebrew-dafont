@@ -5,7 +5,6 @@ cask 'dafont-breastbomb' do
     url 'http://dl.dafont.com/dl/?f=breastbomb'
     name 'BreastBomb'
     homepage 'http://www.dafont.com/breastbomb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BREAB___.TTF'
 end

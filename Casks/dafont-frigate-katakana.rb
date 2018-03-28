@@ -5,7 +5,6 @@ cask 'dafont-frigate-katakana' do
     url 'http://dl.dafont.com/dl/?f=frigate_katakana'
     name 'Frigate Katakana'
     homepage 'http://www.dafont.com/frigate-katakana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frigate True Type/FRIGATE_.ttf'
     font 'Frigate True Type/Katakana/FRIGKAT_.ttf'

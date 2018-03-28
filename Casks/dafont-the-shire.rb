@@ -5,7 +5,6 @@ cask 'dafont-the-shire' do
     url 'http://dl.dafont.com/dl/?f=the_shire'
     name 'The Shire'
     homepage 'http://www.dafont.com/the-shire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'theshire.ttf'
     font 'theshireb.ttf'

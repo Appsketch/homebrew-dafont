@@ -5,7 +5,6 @@ cask 'dafont-spider-gotic' do
     url 'http://dl.dafont.com/dl/?f=spider_gotic'
     name 'Spider Gotic'
     homepage 'http://www.dafont.com/spider-gotic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SPIDE___.otf'
 end

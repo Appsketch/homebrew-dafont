@@ -5,7 +5,6 @@ cask 'dafont-hojas-de-plata' do
     url 'http://dl.dafont.com/dl/?f=hojas_de_plata'
     name 'Hojas de plata'
     homepage 'http://www.dafont.com/hojas-de-plata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hojas plata 0.2.otf'
 end

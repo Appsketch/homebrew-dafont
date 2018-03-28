@@ -5,7 +5,6 @@ cask 'dafont-beast-wars' do
     url 'http://dl.dafont.com/dl/?f=beast_wars'
     name 'Beast Wars'
     homepage 'http://www.dafont.com/beast-wars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beast Wars Condensed.ttf'
     font 'Beast Wars.ttf'

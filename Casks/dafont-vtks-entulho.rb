@@ -5,7 +5,6 @@ cask 'dafont-vtks-entulho' do
     url 'http://dl.dafont.com/dl/?f=vtks_entulho'
     name 'Vtks Entulho'
     homepage 'http://www.dafont.com/vtks-entulho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Entulho.ttf'
 end

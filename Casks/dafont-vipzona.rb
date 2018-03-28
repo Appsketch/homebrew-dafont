@@ -5,7 +5,6 @@ cask 'dafont-vipzona' do
     url 'http://dl.dafont.com/dl/?f=vipzona'
     name 'VipZona'
     homepage 'http://www.dafont.com/vipzona.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VipZona.ttf'
 end

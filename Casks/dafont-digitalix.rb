@@ -5,7 +5,6 @@ cask 'dafont-digitalix' do
     url 'http://dl.dafont.com/dl/?f=digitalix'
     name 'Digitalix'
     homepage 'http://www.dafont.com/digitalix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'digitalix.ttf'
 end

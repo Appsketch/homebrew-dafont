@@ -5,7 +5,6 @@ cask 'dafont-dita-sweet' do
     url 'http://dl.dafont.com/dl/?f=dita_sweet'
     name 'Dita Sweet'
     homepage 'http://www.dafont.com/dita-sweet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dita-Sweet.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-magzetician' do
     url 'http://dl.dafont.com/dl/?f=magzetician'
     name 'Magzetician'
     homepage 'http://www.dafont.com/magzetician.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Magzetician Regular.ttf'
 end

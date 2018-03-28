@@ -5,7 +5,6 @@ cask 'dafont-kr-ladybug' do
     url 'http://dl.dafont.com/dl/?f=kr_ladybug'
     name 'KR Ladybug'
     homepage 'http://www.dafont.com/kr-ladybug.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Ladybug.ttf'
 end

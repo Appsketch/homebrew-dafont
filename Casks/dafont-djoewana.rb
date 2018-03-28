@@ -5,7 +5,6 @@ cask 'dafont-djoewana' do
     url 'http://dl.dafont.com/dl/?f=djoewana'
     name 'Djoewana'
     homepage 'http://www.dafont.com/djoewana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Djoewana.ttf'
 end

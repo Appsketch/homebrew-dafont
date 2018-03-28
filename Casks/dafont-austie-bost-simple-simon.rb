@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-simple-simon' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_simple_simon'
     name 'Austie Bost Simple Simon'
     homepage 'http://www.dafont.com/austie-bost-simple-simon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Simple Simon.ttf'
 end

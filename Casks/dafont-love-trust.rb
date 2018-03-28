@@ -5,7 +5,6 @@ cask 'dafont-love-trust' do
     url 'http://dl.dafont.com/dl/?f=love_trust'
     name 'Love &amp; Trust'
     homepage 'http://www.dafont.com/love-trust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Love &amp; Trust (Hearted).ttf'
     font 'Love &amp; Trust.ttf'

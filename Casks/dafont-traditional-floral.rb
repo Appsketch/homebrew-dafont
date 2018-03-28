@@ -5,7 +5,6 @@ cask 'dafont-traditional-floral' do
     url 'http://dl.dafont.com/dl/?f=traditional_floral'
     name 'Traditional Floral Design'
     homepage 'http://www.dafont.com/traditional-floral.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Traditional Floral Design II.ttf'
     font 'Traditional Floral Design.ttf'

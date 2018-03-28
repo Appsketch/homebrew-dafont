@@ -5,7 +5,6 @@ cask 'dafont-djb-sandra-dee' do
     url 'http://dl.dafont.com/dl/?f=djb_sandra_dee'
     name 'DJB Sandra Dee'
     homepage 'http://www.dafont.com/djb-sandra-dee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Sandra Dee.ttf'
 end

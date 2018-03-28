@@ -5,7 +5,6 @@ cask 'dafont-jhuf' do
     url 'http://dl.dafont.com/dl/?f=jhuf'
     name 'JHUF'
     homepage 'http://www.dafont.com/jhuf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'j-h-u-f.ttf'
 end

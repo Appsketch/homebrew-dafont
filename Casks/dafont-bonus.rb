@@ -5,7 +5,6 @@ cask 'dafont-bonus' do
     url 'http://dl.dafont.com/dl/?f=bonus'
     name 'Bonus'
     homepage 'http://www.dafont.com/bonus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bonus - Base - BC.ttf'
     font 'Bonus - Bling Bling - BC.ttf'

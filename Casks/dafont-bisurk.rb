@@ -5,7 +5,6 @@ cask 'dafont-bisurk' do
     url 'http://dl.dafont.com/dl/?f=bisurk'
     name 'Bisurk'
     homepage 'http://www.dafont.com/bisurk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bisurk-Regular.ttf'
 end

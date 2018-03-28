@@ -5,7 +5,6 @@ cask 'dafont-romance-fatal-lcd' do
     url 'http://dl.dafont.com/dl/?f=romance_fatal_lcd'
     name 'Romance fatal LCD'
     homepage 'http://www.dafont.com/romance-fatal-lcd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rom_ftl_lcd.ttf'
 end

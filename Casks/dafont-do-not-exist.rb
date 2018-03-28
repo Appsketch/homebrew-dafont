@@ -5,7 +5,6 @@ cask 'dafont-do-not-exist' do
     url 'http://dl.dafont.com/dl/?f=do_not_exist'
     name 'Do Not Exist'
     homepage 'http://www.dafont.com/do-not-exist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DONOT___.TTF'
 end

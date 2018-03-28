@@ -5,7 +5,6 @@ cask 'dafont-salute' do
     url 'http://dl.dafont.com/dl/?f=salute'
     name 'Salute'
     homepage 'http://www.dafont.com/salute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'salute.ttf'
 end

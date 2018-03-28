@@ -5,7 +5,6 @@ cask 'dafont-retro-serif' do
     url 'http://dl.dafont.com/dl/?f=retro_serif'
     name 'Retro serif'
     homepage 'http://www.dafont.com/retro-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Retro-serif.ttf'
 end

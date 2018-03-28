@@ -5,7 +5,6 @@ cask 'dafont-kg-part-of-me' do
     url 'http://dl.dafont.com/dl/?f=kg_part_of_me'
     name 'KG Part of Me'
     homepage 'http://www.dafont.com/kg-part-of-me.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGPartofMe.ttf'
 end

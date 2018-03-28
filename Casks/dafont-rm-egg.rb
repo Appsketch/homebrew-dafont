@@ -5,7 +5,6 @@ cask 'dafont-rm-egg' do
     url 'http://dl.dafont.com/dl/?f=rm_egg'
     name 'RM Egg'
     homepage 'http://www.dafont.com/rm-egg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rmegg___.ttf'
 end

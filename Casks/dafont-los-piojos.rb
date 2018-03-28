@@ -5,7 +5,6 @@ cask 'dafont-los-piojos' do
     url 'http://dl.dafont.com/dl/?f=los_piojos'
     name 'Los Piojos'
     homepage 'http://www.dafont.com/los-piojos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Los_Piojos.ttf'
 end

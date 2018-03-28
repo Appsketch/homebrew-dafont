@@ -5,7 +5,6 @@ cask 'dafont-leadvilleastronaut-system' do
     url 'http://dl.dafont.com/dl/?f=leadvilleastronaut_system'
     name 'LEADville ASTROnaut System'
     homepage 'http://www.dafont.com/leadvilleastronaut-system.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEADvilleASTROnautInline.ttf'
     font 'LEADvilleASTROnautSystem.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-dxdiag' do
     url 'http://dl.dafont.com/dl/?f=dxdiag'
     name 'Dxdiag'
     homepage 'http://www.dafont.com/dxdiag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DXDIAG..ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-zuckerbrot' do
     url 'http://dl.dafont.com/dl/?f=zuckerbrot'
     name 'Zuckerbrot'
     homepage 'http://www.dafont.com/zuckerbrot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zuckerbrot.ttf'
 end

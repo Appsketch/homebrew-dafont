@@ -5,7 +5,6 @@ cask 'dafont-delamottelargerelief-beveled' do
     url 'http://dl.dafont.com/dl/?f=delamottelargerelief_beveled'
     name 'DelamotteLargeRelief Beveled'
     homepage 'http://www.dafont.com/delamottelargerelief-beveled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DelamotteLargeRelief Beveled.ttf'
 end

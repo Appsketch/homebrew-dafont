@@ -5,7 +5,6 @@ cask 'dafont-education-is-a-way' do
     url 'http://dl.dafont.com/dl/?f=education_is_a_way'
     name 'Education is a Way'
     homepage 'http://www.dafont.com/education-is-a-way.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Education is a Way.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kaptor' do
     url 'http://dl.dafont.com/dl/?f=kaptor'
     name 'Kaptor'
     homepage 'http://www.dafont.com/kaptor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kaptor.ttf'
 end

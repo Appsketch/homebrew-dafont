@@ -5,7 +5,6 @@ cask 'dafont-fugitiva' do
     url 'http://dl.dafont.com/dl/?f=fugitiva'
     name 'Fugitiva'
     homepage 'http://www.dafont.com/fugitiva.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fugitiva.ttf'
 end

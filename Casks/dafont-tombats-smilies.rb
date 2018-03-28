@@ -5,7 +5,6 @@ cask 'dafont-tombats-smilies' do
     url 'http://dl.dafont.com/dl/?f=tombats_smilies'
     name 'Tombats Smilies'
     homepage 'http://www.dafont.com/tombats-smilies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tsmiles.ttf'
 end

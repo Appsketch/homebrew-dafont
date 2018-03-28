@@ -5,7 +5,6 @@ cask 'dafont-feelinlikegold' do
     url 'http://dl.dafont.com/dl/?f=feelinlikegold'
     name 'Feelin Like Gold'
     homepage 'http://www.dafont.com/feelinlikegold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FeelinLikeGold.ttf'
 end

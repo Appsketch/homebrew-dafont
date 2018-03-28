@@ -5,7 +5,6 @@ cask 'dafont-koobz' do
     url 'http://dl.dafont.com/dl/?f=koobz'
     name 'Koobz'
     homepage 'http://www.dafont.com/koobz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'koobz.ttf'
 end

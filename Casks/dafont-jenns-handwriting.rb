@@ -5,7 +5,6 @@ cask 'dafont-jenns-handwriting' do
     url 'http://dl.dafont.com/dl/?f=jenns_handwriting'
     name 'Jenns Handwriting'
     homepage 'http://www.dafont.com/jenns-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jenn font.ttf'
 end

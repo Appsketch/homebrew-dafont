@@ -5,7 +5,6 @@ cask 'dafont-dovahkiin' do
     url 'http://dl.dafont.com/dl/?f=dovahkiin'
     name 'Dovahkiin'
     homepage 'http://www.dafont.com/dovahkiin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dovahkiin Bold Italic.otf'
     font 'Dovahkiin Bold.otf'

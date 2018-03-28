@@ -5,7 +5,6 @@ cask 'dafont-rootsquare' do
     url 'http://dl.dafont.com/dl/?f=rootsquare'
     name 'RootSquare'
     homepage 'http://www.dafont.com/rootsquare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RootSquare.ttf'
 end

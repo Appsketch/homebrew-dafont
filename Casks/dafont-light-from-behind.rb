@@ -5,7 +5,6 @@ cask 'dafont-light-from-behind' do
     url 'http://dl.dafont.com/dl/?f=light_from_behind'
     name 'Light From Behind'
     homepage 'http://www.dafont.com/light-from-behind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Light From Behind (milabrya).ttf'
 end

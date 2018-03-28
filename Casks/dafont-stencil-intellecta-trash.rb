@@ -5,7 +5,6 @@ cask 'dafont-stencil-intellecta-trash' do
     url 'http://dl.dafont.com/dl/?f=stencil_intellecta_trash'
     name 'Stencil Intellecta Trash'
     homepage 'http://www.dafont.com/stencil-intellecta-trash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stencil Intellecta Trash Free.ttf'
 end

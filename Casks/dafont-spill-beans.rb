@@ -5,7 +5,6 @@ cask 'dafont-spill-beans' do
     url 'http://dl.dafont.com/dl/?f=spill_beans'
     name 'Spill the Beans'
     homepage 'http://www.dafont.com/spill-beans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spill _ Beans.ttf'
 end

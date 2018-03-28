@@ -5,7 +5,6 @@ cask 'dafont-summer-handwriting' do
     url 'http://dl.dafont.com/dl/?f=summer_handwriting'
     name 'Summer Handwriting'
     homepage 'http://www.dafont.com/summer-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Summer Handwriting.ttf'
 end

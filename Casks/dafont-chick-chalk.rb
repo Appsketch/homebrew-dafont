@@ -5,7 +5,6 @@ cask 'dafont-chick-chalk' do
     url 'http://dl.dafont.com/dl/?f=chick_chalk'
     name 'Chick Chalk'
     homepage 'http://www.dafont.com/chick-chalk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kustomtype Chick Chalk.otf'
 end

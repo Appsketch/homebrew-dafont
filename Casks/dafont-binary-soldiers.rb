@@ -5,7 +5,6 @@ cask 'dafont-binary-soldiers' do
     url 'http://dl.dafont.com/dl/?f=binary_soldiers'
     name 'Binary Soldiers'
     homepage 'http://www.dafont.com/binary-soldiers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BinarySoldiers II.ttf'
     font 'BinarySoldiers III.ttf'

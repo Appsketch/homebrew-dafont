@@ -5,7 +5,6 @@ cask 'dafont-amazxakep' do
     url 'http://dl.dafont.com/dl/?f=amazxakep'
     name 'AmazXakep'
     homepage 'http://www.dafont.com/amazxakep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AmazHacker.ttf'
 end

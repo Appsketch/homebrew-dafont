@@ -5,7 +5,6 @@ cask 'dafont-deborstel-brush' do
     url 'http://dl.dafont.com/dl/?f=deborstel_brush'
     name 'DeBorstel Brush'
     homepage 'http://www.dafont.com/deborstel-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeBorstel Brush-Reduced.ttf'
 end

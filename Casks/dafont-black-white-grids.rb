@@ -5,7 +5,6 @@ cask 'dafont-black-white-grids' do
     url 'http://dl.dafont.com/dl/?f=black_white_grids'
     name 'Black White Grids'
     homepage 'http://www.dafont.com/black-white-grids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackWhiteGridsA.ttf'
     font 'BlackWhiteGridsB.ttf'

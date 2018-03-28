@@ -5,7 +5,6 @@ cask 'dafont-targa' do
     url 'http://dl.dafont.com/dl/?f=targa'
     name 'Targa'
     homepage 'http://www.dafont.com/targa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Targa MS Hand.ttf'
     font 'Targa MS.ttf'

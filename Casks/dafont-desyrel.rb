@@ -5,7 +5,6 @@ cask 'dafont-desyrel' do
     url 'http://dl.dafont.com/dl/?f=desyrel'
     name 'Desyrel'
     homepage 'http://www.dafont.com/desyrel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DESYREL_.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-orphan' do
     url 'http://dl.dafont.com/dl/?f=orphan'
     name 'Orphan'
     homepage 'http://www.dafont.com/orphan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ORPHAN__.TTF'
 end

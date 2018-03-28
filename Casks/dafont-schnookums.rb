@@ -5,7 +5,6 @@ cask 'dafont-schnookums' do
     url 'http://dl.dafont.com/dl/?f=schnookums'
     name 'Schnookums'
     homepage 'http://www.dafont.com/schnookums.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Schnookums.ttf'
 end

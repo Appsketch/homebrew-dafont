@@ -5,7 +5,6 @@ cask 'dafont-matrix-code-nfi' do
     url 'http://dl.dafont.com/dl/?f=matrix_code_nfi'
     name 'Matrix Code NFI'
     homepage 'http://www.dafont.com/matrix-code-nfi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'matrix code nfi.ttf'
 end

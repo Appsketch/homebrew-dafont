@@ -5,7 +5,6 @@ cask 'dafont-made-in-france' do
     url 'http://dl.dafont.com/dl/?f=made_in_france'
     name 'Made in France'
     homepage 'http://www.dafont.com/made-in-france.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Made in France.ttf'
 end

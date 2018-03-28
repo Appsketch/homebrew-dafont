@@ -5,7 +5,6 @@ cask 'dafont-lovesick' do
     url 'http://dl.dafont.com/dl/?f=lovesick'
     name 'Lovesick AOE'
     homepage 'http://www.dafont.com/lovesick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truetype/LovesAOE.ttf'
 end

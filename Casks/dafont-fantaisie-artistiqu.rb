@@ -5,7 +5,6 @@ cask 'dafont-fantaisie-artistiqu' do
     url 'http://dl.dafont.com/dl/?f=fantaisie_artistiqu'
     name 'Fantaisie Artistique'
     homepage 'http://www.dafont.com/fantaisie-artistiqu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fanta___.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-conquistadorman' do
     url 'http://dl.dafont.com/dl/?f=conquistadorman'
     name 'Conquistadorman NF'
     homepage 'http://www.dafont.com/conquistadorman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CONQN___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dingobatz' do
     url 'http://dl.dafont.com/dl/?f=dingobatz'
     name 'DingoBatz'
     homepage 'http://www.dafont.com/dingobatz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DINGB___.TTF'
 end

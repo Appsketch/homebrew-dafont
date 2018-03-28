@@ -5,7 +5,6 @@ cask 'dafont-d-mccue-hand' do
     url 'http://dl.dafont.com/dl/?f=d_mccue_hand'
     name 'D McCue Hand'
     homepage 'http://www.dafont.com/d-mccue-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DLyleHand.ttf'
 end

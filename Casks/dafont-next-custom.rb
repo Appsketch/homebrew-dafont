@@ -5,7 +5,6 @@ cask 'dafont-next-custom' do
     url 'http://dl.dafont.com/dl/?f=next_custom'
     name 'Next Custom'
     homepage 'http://www.dafont.com/next-custom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Next Custom.ttf'
 end

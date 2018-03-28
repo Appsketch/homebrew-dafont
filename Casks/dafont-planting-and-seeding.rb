@@ -5,7 +5,6 @@ cask 'dafont-planting-and-seeding' do
     url 'http://dl.dafont.com/dl/?f=planting_and_seeding'
     name 'Planting and Seeding'
     homepage 'http://www.dafont.com/planting-and-seeding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Planting And Seeding.ttf'
 end

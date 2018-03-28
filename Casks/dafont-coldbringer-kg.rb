@@ -5,7 +5,6 @@ cask 'dafont-coldbringer-kg' do
     url 'http://dl.dafont.com/dl/?f=coldbringer_kg'
     name 'Coldbringer KG'
     homepage 'http://www.dafont.com/coldbringer-kg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coold.ttf'
 end

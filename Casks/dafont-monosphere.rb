@@ -5,7 +5,6 @@ cask 'dafont-monosphere' do
     url 'http://dl.dafont.com/dl/?f=monosphere'
     name 'Monosphere'
     homepage 'http://www.dafont.com/monosphere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Monosphere_Personal_Use.ttf'
 end

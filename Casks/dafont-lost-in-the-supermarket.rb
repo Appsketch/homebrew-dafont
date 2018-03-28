@@ -5,7 +5,6 @@ cask 'dafont-lost-in-the-supermarket' do
     url 'http://dl.dafont.com/dl/?f=lost_in_the_supermarket'
     name 'Lost in the supermarket'
     homepage 'http://www.dafont.com/lost-in-the-supermarket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lost in the supermarket.ttf'
 end

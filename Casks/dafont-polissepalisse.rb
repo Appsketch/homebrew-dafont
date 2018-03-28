@@ -5,7 +5,6 @@ cask 'dafont-polissepalisse' do
     url 'http://dl.dafont.com/dl/?f=polissepalisse'
     name 'Polisse Palisse'
     homepage 'http://www.dafont.com/polissepalisse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'polissepalisse.otf'
 end

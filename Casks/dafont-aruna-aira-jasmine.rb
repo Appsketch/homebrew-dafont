@@ -5,7 +5,6 @@ cask 'dafont-aruna-aira-jasmine' do
     url 'http://dl.dafont.com/dl/?f=aruna_aira_jasmine'
     name 'Aruna Aira Jasmine'
     homepage 'http://www.dafont.com/aruna-aira-jasmine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aruna Aira Jasmine.ttf'
 end

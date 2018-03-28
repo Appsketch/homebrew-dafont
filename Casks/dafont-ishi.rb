@@ -5,7 +5,6 @@ cask 'dafont-ishi' do
     url 'http://dl.dafont.com/dl/?f=ishi'
     name 'Ishi'
     homepage 'http://www.dafont.com/ishi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ISHIRGE_.TTF'
 end

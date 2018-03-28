@@ -5,7 +5,6 @@ cask 'dafont-capital-revolution' do
     url 'http://dl.dafont.com/dl/?f=capital_revolution'
     name 'Capital Revolution'
     homepage 'http://www.dafont.com/capital-revolution.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Capital Revolution.ttf'
 end

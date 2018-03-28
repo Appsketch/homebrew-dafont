@@ -5,7 +5,6 @@ cask 'dafont-weltron-urban' do
     url 'http://dl.dafont.com/dl/?f=weltron_urban'
     name 'Weltron Urban'
     homepage 'http://www.dafont.com/weltron-urban.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WELTU___.TTF'
 end

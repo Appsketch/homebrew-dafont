@@ -5,7 +5,6 @@ cask 'dafont-the-second-world-war' do
     url 'http://dl.dafont.com/dl/?f=the_second_world_war'
     name 'The Second World War'
     homepage 'http://www.dafont.com/the-second-world-war.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Second World War.ttf'
 end

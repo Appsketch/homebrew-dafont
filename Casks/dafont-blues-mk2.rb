@@ -5,7 +5,6 @@ cask 'dafont-blues-mk2' do
     url 'http://dl.dafont.com/dl/?f=blues_mk2'
     name 'Blues MK2'
     homepage 'http://www.dafont.com/blues-mk2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bluesmk2.ttf'
 end

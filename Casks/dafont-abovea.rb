@@ -5,7 +5,6 @@ cask 'dafont-abovea' do
     url 'http://dl.dafont.com/dl/?f=abovea'
     name 'Abovea'
     homepage 'http://www.dafont.com/abovea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ABOVEA DEMO.otf'
 end

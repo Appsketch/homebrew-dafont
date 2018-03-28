@@ -5,7 +5,6 @@ cask 'dafont-chintzy-cpu-brk' do
     url 'http://dl.dafont.com/dl/?f=chintzy_cpu_brk'
     name 'Chintzy CPU BRK'
     homepage 'http://www.dafont.com/chintzy-cpu-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chintzy.ttf'
     font 'chintzys.ttf'

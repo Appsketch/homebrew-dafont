@@ -5,7 +5,6 @@ cask 'dafont-efontlution' do
     url 'http://dl.dafont.com/dl/?f=efontlution'
     name 'Efontlution'
     homepage 'http://www.dafont.com/efontlution.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'efontlution_part1.ttf'
     font 'efontlution_part2.ttf'

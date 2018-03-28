@@ -5,7 +5,6 @@ cask 'dafont-bomber-tv' do
     url 'http://dl.dafont.com/dl/?f=bomber_tv'
     name 'Bomber TV'
     homepage 'http://www.dafont.com/bomber-tv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bomber TV DF.otf'
 end

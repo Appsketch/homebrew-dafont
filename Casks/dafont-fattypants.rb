@@ -5,7 +5,6 @@ cask 'dafont-fattypants' do
     url 'http://dl.dafont.com/dl/?f=fattypants'
     name 'Fatty Pants'
     homepage 'http://www.dafont.com/fattypants.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fattypants.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-geo-easton' do
     url 'http://dl.dafont.com/dl/?f=geo_easton'
     name 'Geo Easton'
     homepage 'http://www.dafont.com/geo-easton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GEOEASTON-Regular.otf'
 end

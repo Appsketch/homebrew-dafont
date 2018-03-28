@@ -5,7 +5,6 @@ cask 'dafont-frontenac' do
     url 'http://dl.dafont.com/dl/?f=frontenac'
     name 'Frontenac'
     homepage 'http://www.dafont.com/frontenac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Frontenac_SmallCaps_Italic.otf'
     font 'Frontenac_SmallCaps.otf'

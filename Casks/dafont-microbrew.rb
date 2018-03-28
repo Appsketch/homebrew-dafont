@@ -5,7 +5,6 @@ cask 'dafont-microbrew' do
     url 'http://dl.dafont.com/dl/?f=microbrew'
     name 'Micro Brew'
     homepage 'http://www.dafont.com/microbrew.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MicroBrew.ttf'
 end

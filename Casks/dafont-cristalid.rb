@@ -5,7 +5,6 @@ cask 'dafont-cristalid' do
     url 'http://dl.dafont.com/dl/?f=cristalid'
     name 'Cristalid / Prismatica'
     homepage 'http://www.dafont.com/cristalid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cristalid.ttf'
     font 'Prismatica.ttf'

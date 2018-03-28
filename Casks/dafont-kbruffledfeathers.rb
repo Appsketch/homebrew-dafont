@@ -5,7 +5,6 @@ cask 'dafont-kbruffledfeathers' do
     url 'http://dl.dafont.com/dl/?f=kbruffledfeathers'
     name 'KB Ruffled Feathers'
     homepage 'http://www.dafont.com/kbruffledfeathers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBRuffledFeathers.ttf'
 end

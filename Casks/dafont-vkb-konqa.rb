@@ -5,7 +5,6 @@ cask 'dafont-vkb-konqa' do
     url 'http://dl.dafont.com/dl/?f=vkb_konqa'
     name 'VKB KonQa'
     homepage 'http://www.dafont.com/vkb-konqa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VKB KonQa_Communist.otf'
 end

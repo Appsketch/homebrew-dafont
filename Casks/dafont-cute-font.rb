@@ -5,7 +5,6 @@ cask 'dafont-cute-font' do
     url 'http://dl.dafont.com/dl/?f=cute_font'
     name 'Cute Font'
     homepage 'http://www.dafont.com/cute-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cute_Font.ttf'
 end

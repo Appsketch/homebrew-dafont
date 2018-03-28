@@ -5,7 +5,6 @@ cask 'dafont-math-donuts' do
     url 'http://dl.dafont.com/dl/?f=math_donuts'
     name 'Math Donuts'
     homepage 'http://www.dafont.com/math-donuts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MATHD.TTF'
 end

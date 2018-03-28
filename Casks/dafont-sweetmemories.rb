@@ -5,7 +5,6 @@ cask 'dafont-sweetmemories' do
     url 'http://dl.dafont.com/dl/?f=sweetmemories'
     name 'Sweet Memories'
     homepage 'http://www.dafont.com/sweetmemories.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SweetMemories.ttf'
 end

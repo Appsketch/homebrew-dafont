@@ -5,7 +5,6 @@ cask 'dafont-good-times' do
     url 'http://dl.dafont.com/dl/?f=good_times'
     name 'Good Times'
     homepage 'http://www.dafont.com/good-times.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'good times rg.ttf'
 end

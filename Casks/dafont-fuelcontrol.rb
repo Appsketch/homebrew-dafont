@@ -5,7 +5,6 @@ cask 'dafont-fuelcontrol' do
     url 'http://dl.dafont.com/dl/?f=fuelcontrol'
     name 'Fuel Control'
     homepage 'http://www.dafont.com/fuelcontrol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FuelControl.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rns-tnt' do
     url 'http://dl.dafont.com/dl/?f=rns_tnt'
     name 'RNS TNT'
     homepage 'http://www.dafont.com/rns-tnt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RNSTNT__.TTF'
 end

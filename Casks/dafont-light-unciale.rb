@@ -5,7 +5,6 @@ cask 'dafont-light-unciale' do
     url 'http://dl.dafont.com/dl/?f=light_unciale'
     name 'Light Unciale'
     homepage 'http://www.dafont.com/light-unciale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LightUnciale.ttf'
 end

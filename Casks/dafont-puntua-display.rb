@@ -5,7 +5,6 @@ cask 'dafont-puntua-display' do
     url 'http://dl.dafont.com/dl/?f=puntua_display'
     name 'Punt&uacute;a Display'
     homepage 'http://www.dafont.com/puntua-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PUNTUA_DSPL.ttf'
 end

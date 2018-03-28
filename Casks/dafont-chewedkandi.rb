@@ -5,7 +5,6 @@ cask 'dafont-chewedkandi' do
     url 'http://dl.dafont.com/dl/?f=chewedkandi'
     name 'Chewed Kandi'
     homepage 'http://www.dafont.com/chewedkandi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chewedkandi.ttf'
 end

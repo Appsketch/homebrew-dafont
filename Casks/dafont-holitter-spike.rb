@@ -5,7 +5,6 @@ cask 'dafont-holitter-spike' do
     url 'http://dl.dafont.com/dl/?f=holitter_spike'
     name 'Holitter Spike'
     homepage 'http://www.dafont.com/holitter-spike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Holitter_Spike.ttf'
 end

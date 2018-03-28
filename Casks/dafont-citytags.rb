@@ -5,7 +5,6 @@ cask 'dafont-citytags' do
     url 'http://dl.dafont.com/dl/?f=citytags'
     name 'City Tags'
     homepage 'http://www.dafont.com/citytags.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CityTags.ttf'
 end

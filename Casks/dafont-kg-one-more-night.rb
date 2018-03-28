@@ -5,7 +5,6 @@ cask 'dafont-kg-one-more-night' do
     url 'http://dl.dafont.com/dl/?f=kg_one_more_night'
     name 'KG One More Night'
     homepage 'http://www.dafont.com/kg-one-more-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGOneMoreNight.ttf'
 end

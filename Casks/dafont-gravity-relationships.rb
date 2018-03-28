@@ -5,7 +5,6 @@ cask 'dafont-gravity-relationships' do
     url 'http://dl.dafont.com/dl/?f=gravity_relationships'
     name 'Gravity Relationships'
     homepage 'http://www.dafont.com/gravity-relationships.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gravitation Relationships.ttf'
 end

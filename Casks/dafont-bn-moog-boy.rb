@@ -5,7 +5,6 @@ cask 'dafont-bn-moog-boy' do
     url 'http://dl.dafont.com/dl/?f=bn_moog_boy'
     name 'BN Moog Boy'
     homepage 'http://www.dafont.com/bn-moog-boy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moog Boy.ttf'
 end

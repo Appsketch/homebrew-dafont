@@ -5,7 +5,6 @@ cask 'dafont-not-only-the-quake' do
     url 'http://dl.dafont.com/dl/?f=not_only_the_quake'
     name 'Not only the Quake'
     homepage 'http://www.dafont.com/not-only-the-quake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Not only the Quake.ttf'
 end

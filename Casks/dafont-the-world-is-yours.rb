@@ -5,7 +5,6 @@ cask 'dafont-the-world-is-yours' do
     url 'http://dl.dafont.com/dl/?f=the_world_is_yours'
     name 'The World Is Yours'
     homepage 'http://www.dafont.com/the-world-is-yours.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheWorldIsYours_Bold.ttf'
     font 'TheWorldIsYours.ttf'

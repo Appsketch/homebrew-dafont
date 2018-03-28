@@ -5,7 +5,6 @@ cask 'dafont-gearhead' do
     url 'http://dl.dafont.com/dl/?f=gearhead'
     name 'Gearhead'
     homepage 'http://www.dafont.com/gearhead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gearhead.ttf'
     font 'gearhead3d.ttf'

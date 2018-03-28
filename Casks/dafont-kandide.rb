@@ -5,7 +5,6 @@ cask 'dafont-kandide' do
     url 'http://dl.dafont.com/dl/?f=kandide'
     name 'Kandide'
     homepage 'http://www.dafont.com/kandide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KANDIDE_.ttf'
     font 'KANDIDU_.ttf'

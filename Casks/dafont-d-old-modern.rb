@@ -5,7 +5,6 @@ cask 'dafont-d-old-modern' do
     url 'http://dl.dafont.com/dl/?f=d_old_modern'
     name 'D Old Modern'
     homepage 'http://www.dafont.com/d-old-modern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'D_OLD_MODERN_2.ttf'
     font 'D_OLD_MODERN.ttf'

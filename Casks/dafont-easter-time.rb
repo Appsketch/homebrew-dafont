@@ -5,7 +5,6 @@ cask 'dafont-easter-time' do
     url 'http://dl.dafont.com/dl/?f=easter_time'
     name 'Easter Time'
     homepage 'http://www.dafont.com/easter-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EasterTime.ttf'
 end

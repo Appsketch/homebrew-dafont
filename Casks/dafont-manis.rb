@@ -5,7 +5,6 @@ cask 'dafont-manis' do
     url 'http://dl.dafont.com/dl/?f=manis'
     name 'Manis'
     homepage 'http://www.dafont.com/manis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'manis.ttf'
 end

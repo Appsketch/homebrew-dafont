@@ -5,7 +5,6 @@ cask 'dafont-cf-azteques' do
     url 'http://dl.dafont.com/dl/?f=cf_azteques'
     name 'CF Azteques'
     homepage 'http://www.dafont.com/cf-azteques.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFAzteques-Regular.ttf'
 end

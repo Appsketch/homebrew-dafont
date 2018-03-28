@@ -5,7 +5,6 @@ cask 'dafont-four-pixel-caps' do
     url 'http://dl.dafont.com/dl/?f=four_pixel_caps'
     name 'Four Pixel Caps'
     homepage 'http://www.dafont.com/four-pixel-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'four_pixel_caps_outline.ttf'
 end

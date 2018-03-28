@@ -5,7 +5,6 @@ cask 'dafont-inovation' do
     url 'http://dl.dafont.com/dl/?f=inovation'
     name 'Inovation'
     homepage 'http://www.dafont.com/inovation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'inovation.ttf'
 end

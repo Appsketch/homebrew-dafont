@@ -5,7 +5,6 @@ cask 'dafont-eightieslocker' do
     url 'http://dl.dafont.com/dl/?f=eightieslocker'
     name 'Eighties Locker'
     homepage 'http://www.dafont.com/eightieslocker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EightiesLocker.ttf'
 end

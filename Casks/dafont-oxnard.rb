@@ -5,7 +5,6 @@ cask 'dafont-oxnard' do
     url 'http://dl.dafont.com/dl/?f=oxnard'
     name 'Oxnard'
     homepage 'http://www.dafont.com/oxnard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OXNARD__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mysteriousorientalnightsofpassion' do
     url 'http://dl.dafont.com/dl/?f=mysteriousorientalnightsofpassion'
     name 'Mysterious Oriental Nights of Passion'
     homepage 'http://www.dafont.com/mysteriousorientalnightsofpassion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MysteriousOrientalNightsofPassion.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-unileft' do
     url 'http://dl.dafont.com/dl/?f=unileft'
     name 'Unileft'
     homepage 'http://www.dafont.com/unileft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'unileft.ttf'
 end

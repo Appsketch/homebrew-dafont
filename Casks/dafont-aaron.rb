@@ -5,7 +5,6 @@ cask 'dafont-aaron' do
     url 'http://dl.dafont.com/dl/?f=aaron'
     name 'Aaronfaces'
     homepage 'http://www.dafont.com/aaron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aaron.ttf'
 end

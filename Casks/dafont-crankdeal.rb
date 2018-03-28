@@ -5,7 +5,6 @@ cask 'dafont-crankdeal' do
     url 'http://dl.dafont.com/dl/?f=crankdeal'
     name 'Crankdeal'
     homepage 'http://www.dafont.com/crankdeal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crankdeal tilt.ttf'
     font 'crankdeal.ttf'

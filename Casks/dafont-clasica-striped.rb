@@ -5,7 +5,6 @@ cask 'dafont-clasica-striped' do
     url 'http://dl.dafont.com/dl/?f=clasica_striped'
     name 'Clasica Striped'
     homepage 'http://www.dafont.com/clasica-striped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clasica Striped by Marta van EckDEMO.ttf'
 end

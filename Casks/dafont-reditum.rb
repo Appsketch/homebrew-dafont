@@ -5,7 +5,6 @@ cask 'dafont-reditum' do
     url 'http://dl.dafont.com/dl/?f=reditum'
     name 'Reditum'
     homepage 'http://www.dafont.com/reditum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Reditum_PersonalUseOnly.ttf'
 end

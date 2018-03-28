@@ -5,7 +5,6 @@ cask 'dafont-think-pink' do
     url 'http://dl.dafont.com/dl/?f=think_pink'
     name 'Think Pink'
     homepage 'http://www.dafont.com/think-pink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THINK PINK.ttf'
 end

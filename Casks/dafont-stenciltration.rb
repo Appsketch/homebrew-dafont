@@ -5,7 +5,6 @@ cask 'dafont-stenciltration' do
     url 'http://dl.dafont.com/dl/?f=stenciltration'
     name 'Stenciltration'
     homepage 'http://www.dafont.com/stenciltration.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stenciltration.ttf'
 end

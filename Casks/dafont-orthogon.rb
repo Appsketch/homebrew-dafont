@@ -5,7 +5,6 @@ cask 'dafont-orthogon' do
     url 'http://dl.dafont.com/dl/?f=orthogon'
     name 'Orthogon'
     homepage 'http://www.dafont.com/orthogon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'orthogon.ttf'
 end

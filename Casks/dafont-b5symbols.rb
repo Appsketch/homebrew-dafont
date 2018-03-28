@@ -5,7 +5,6 @@ cask 'dafont-b5symbols' do
     url 'http://dl.dafont.com/dl/?f=b5symbols'
     name 'B5 Symbols'
     homepage 'http://www.dafont.com/b5symbols.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'b5wd.TTF'
 end

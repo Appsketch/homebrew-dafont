@@ -5,7 +5,6 @@ cask 'dafont-skydunkwishes' do
     url 'http://dl.dafont.com/dl/?f=skydunkwishes'
     name 'Sky Dunk Wishes'
     homepage 'http://www.dafont.com/skydunkwishes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SkyDunkWishes.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-typobackgrounds' do
     url 'http://dl.dafont.com/dl/?f=typobackgrounds'
     name 'Typo Backgrounds'
     homepage 'http://www.dafont.com/typobackgrounds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TypoBackgrounds.ttf'
 end

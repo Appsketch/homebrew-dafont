@@ -5,7 +5,6 @@ cask 'dafont-sandy' do
     url 'http://dl.dafont.com/dl/?f=sandy'
     name 'Sandy'
     homepage 'http://www.dafont.com/sandy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sandy-Sandy.ttf'
 end

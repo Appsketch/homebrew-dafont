@@ -5,7 +5,6 @@ cask 'dafont-kelley-calligraphy' do
     url 'http://dl.dafont.com/dl/?f=kelley_calligraphy'
     name 'Kelley Calligraphy'
     homepage 'http://www.dafont.com/kelley-calligraphy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KelleyCalligraphy-Regular.otf'
 end

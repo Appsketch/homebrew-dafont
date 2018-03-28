@@ -5,7 +5,6 @@ cask 'dafont-trubble' do
     url 'http://dl.dafont.com/dl/?f=trubble'
     name 'Trubble'
     homepage 'http://www.dafont.com/trubble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trubble.ttf'
 end

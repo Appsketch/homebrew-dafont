@@ -5,7 +5,6 @@ cask 'dafont-kg-party-on-the-rooftop' do
     url 'http://dl.dafont.com/dl/?f=kg_party_on_the_rooftop'
     name 'KG Party on the Rooftop'
     homepage 'http://www.dafont.com/kg-party-on-the-rooftop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGPartyOnTheRooftop.ttf'
 end

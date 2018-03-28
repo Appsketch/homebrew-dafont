@@ -5,7 +5,6 @@ cask 'dafont-aft1-heterodoxa' do
     url 'http://dl.dafont.com/dl/?f=aft1_heterodoxa'
     name 'AFT1 Heterodoxa'
     homepage 'http://www.dafont.com/aft1-heterodoxa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aft1_heterodoxa_0.ttf'
 end

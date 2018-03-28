@@ -5,7 +5,6 @@ cask 'dafont-duntonwriting' do
     url 'http://dl.dafont.com/dl/?f=duntonwriting'
     name 'Dunton Writing'
     homepage 'http://www.dafont.com/duntonwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DuntonWriting.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ocean-iacy' do
     url 'http://dl.dafont.com/dl/?f=ocean_iacy'
     name 'Ocean Iacy'
     homepage 'http://www.dafont.com/ocean-iacy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ocean_Iacy.ttf'
 end

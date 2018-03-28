@@ -5,7 +5,6 @@ cask 'dafont-vtks-alpes' do
     url 'http://dl.dafont.com/dl/?f=vtks_alpes'
     name 'VTKS Alpes'
     homepage 'http://www.dafont.com/vtks-alpes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS alpes.ttf'
 end

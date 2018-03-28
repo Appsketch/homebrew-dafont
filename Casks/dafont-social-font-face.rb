@@ -5,7 +5,6 @@ cask 'dafont-social-font-face' do
     url 'http://dl.dafont.com/dl/?f=social_font_face'
     name 'Social Font Face'
     homepage 'http://www.dafont.com/social-font-face.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'social_font.ttf'
 end

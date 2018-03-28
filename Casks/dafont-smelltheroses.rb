@@ -5,7 +5,6 @@ cask 'dafont-smelltheroses' do
     url 'http://dl.dafont.com/dl/?f=smelltheroses'
     name 'Smell The Roses'
     homepage 'http://www.dafont.com/smelltheroses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smell The Roses.ttf'
 end

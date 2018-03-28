@@ -5,7 +5,6 @@ cask 'dafont-hff-greek-excon' do
     url 'http://dl.dafont.com/dl/?f=hff_greek_excon'
     name 'HFF Greek ExCon'
     homepage 'http://www.dafont.com/hff-greek-excon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Greek ExCon.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-djb-sunflowers-for-vincent' do
     url 'http://dl.dafont.com/dl/?f=djb_sunflowers_for_vincent'
     name 'DJB Sunflowers for Vincent'
     homepage 'http://www.dafont.com/djb-sunflowers-for-vincent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Sunflowers for Vincent.ttf'
 end

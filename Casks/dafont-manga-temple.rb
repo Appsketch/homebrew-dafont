@@ -5,7 +5,6 @@ cask 'dafont-manga-temple' do
     url 'http://dl.dafont.com/dl/?f=manga_temple'
     name 'Manga Temple'
     homepage 'http://www.dafont.com/manga-temple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mangat.ttf'
     font 'mangatb.ttf'

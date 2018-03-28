@@ -5,7 +5,6 @@ cask 'dafont-ding-o-saurs' do
     url 'http://dl.dafont.com/dl/?f=ding_o_saurs'
     name 'Ding-o-saurs'
     homepage 'http://www.dafont.com/ding-o-saurs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dingosaurs.ttf'
 end

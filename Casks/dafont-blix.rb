@@ -5,7 +5,6 @@ cask 'dafont-blix' do
     url 'http://dl.dafont.com/dl/?f=blix'
     name 'Blix'
     homepage 'http://www.dafont.com/blix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blix-Black.otf'
 end

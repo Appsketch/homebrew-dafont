@@ -5,7 +5,6 @@ cask 'dafont-jls-overkill-grunge' do
     url 'http://dl.dafont.com/dl/?f=jls_overkill_grunge'
     name 'JLS OverKill Grunge'
     homepage 'http://www.dafont.com/jls-overkill-grunge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OvrKll_Grunge.ttf'
 end

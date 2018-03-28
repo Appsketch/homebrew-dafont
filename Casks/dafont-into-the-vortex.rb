@@ -5,7 +5,6 @@ cask 'dafont-into-the-vortex' do
     url 'http://dl.dafont.com/dl/?f=into_the_vortex'
     name 'Into the Vortex'
     homepage 'http://www.dafont.com/into-the-vortex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Into the Vortex.otf'
 end

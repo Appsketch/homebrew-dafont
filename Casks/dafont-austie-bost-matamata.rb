@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-matamata' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_matamata'
     name 'Austie Bost Matamata'
     homepage 'http://www.dafont.com/austie-bost-matamata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost Matamata.ttf'
 end

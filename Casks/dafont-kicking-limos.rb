@@ -5,7 +5,6 @@ cask 'dafont-kicking-limos' do
     url 'http://dl.dafont.com/dl/?f=kicking_limos'
     name 'Kicking Limos'
     homepage 'http://www.dafont.com/kicking-limos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kicking limos.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-squaredoff' do
     url 'http://dl.dafont.com/dl/?f=squaredoff'
     name 'Squared Off'
     homepage 'http://www.dafont.com/squaredoff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SquaredOff.ttf'
 end

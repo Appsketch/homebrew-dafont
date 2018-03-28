@@ -5,7 +5,6 @@ cask 'dafont-dreamit' do
     url 'http://dl.dafont.com/dl/?f=dreamit'
     name 'Dream It'
     homepage 'http://www.dafont.com/dreamit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dreamit.ttf'
 end

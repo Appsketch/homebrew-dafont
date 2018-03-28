@@ -5,7 +5,6 @@ cask 'dafont-jumbo' do
     url 'http://dl.dafont.com/dl/?f=jumbo'
     name 'Jumbo'
     homepage 'http://www.dafont.com/jumbo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jumbo.ttf'
     font 'jumboi.ttf'

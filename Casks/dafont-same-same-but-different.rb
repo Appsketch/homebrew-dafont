@@ -5,7 +5,6 @@ cask 'dafont-same-same-but-different' do
     url 'http://dl.dafont.com/dl/?f=same_same_but_different'
     name 'Same Same But Different'
     homepage 'http://www.dafont.com/same-same-but-different.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Same Same But Different.otf'
 end

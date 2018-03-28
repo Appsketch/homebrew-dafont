@@ -5,7 +5,6 @@ cask 'dafont-kbmoonlightfalls' do
     url 'http://dl.dafont.com/dl/?f=kbmoonlightfalls'
     name 'KB Moon Light Falls'
     homepage 'http://www.dafont.com/kbmoonlightfalls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBMoonLightFalls.ttf'
 end

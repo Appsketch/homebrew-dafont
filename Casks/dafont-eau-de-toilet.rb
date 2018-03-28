@@ -5,7 +5,6 @@ cask 'dafont-eau-de-toilet' do
     url 'http://dl.dafont.com/dl/?f=eau_de_toilet'
     name 'Eau de Toilet'
     homepage 'http://www.dafont.com/eau-de-toilet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eau de Toilet.ttf'
 end

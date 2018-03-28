@@ -5,7 +5,6 @@ cask 'dafont-kbherhighness' do
     url 'http://dl.dafont.com/dl/?f=kbherhighness'
     name 'KB Her Highness'
     homepage 'http://www.dafont.com/kbherhighness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBHerHighness.ttf'
 end

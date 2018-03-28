@@ -5,7 +5,6 @@ cask 'dafont-dreamland' do
     url 'http://dl.dafont.com/dl/?f=dreamland'
     name 'Dreamland'
     homepage 'http://www.dafont.com/dreamland.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dreamlan.ttf'
     font 'dreamlas.ttf'

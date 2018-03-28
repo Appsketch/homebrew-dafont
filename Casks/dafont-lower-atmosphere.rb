@@ -5,7 +5,6 @@ cask 'dafont-lower-atmosphere' do
     url 'http://dl.dafont.com/dl/?f=lower_atmosphere'
     name 'Lower atmosphere'
     homepage 'http://www.dafont.com/lower-atmosphere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lower atmosphere.ttf'
 end

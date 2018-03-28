@@ -5,7 +5,6 @@ cask 'dafont-zitcream' do
     url 'http://dl.dafont.com/dl/?f=zitcream'
     name 'Zitcream'
     homepage 'http://www.dafont.com/zitcream.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZITCREAM.TTF'
 end

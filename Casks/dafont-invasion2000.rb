@@ -5,7 +5,6 @@ cask 'dafont-invasion2000' do
     url 'http://dl.dafont.com/dl/?f=invasion2000'
     name 'Invasion 2000'
     homepage 'http://www.dafont.com/invasion2000.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INVASION2000.TTF'
 end

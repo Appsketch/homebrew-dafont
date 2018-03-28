@@ -5,7 +5,6 @@ cask 'dafont-armystamp' do
     url 'http://dl.dafont.com/dl/?f=armystamp'
     name 'Army Stamp'
     homepage 'http://www.dafont.com/armystamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArmyStamp.ttf'
 end

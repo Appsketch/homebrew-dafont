@@ -5,7 +5,6 @@ cask 'dafont-writersblock' do
     url 'http://dl.dafont.com/dl/?f=writersblock'
     name 'Writers Block'
     homepage 'http://www.dafont.com/writersblock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WritersBlock.ttf'
 end

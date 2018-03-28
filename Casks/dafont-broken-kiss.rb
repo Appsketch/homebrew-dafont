@@ -5,7 +5,6 @@ cask 'dafont-broken-kiss' do
     url 'http://dl.dafont.com/dl/?f=broken_kiss'
     name 'Broken Kiss'
     homepage 'http://www.dafont.com/broken-kiss.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Broken Kiss.ttf'
 end

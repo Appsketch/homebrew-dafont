@@ -5,7 +5,6 @@ cask 'dafont-ravioli' do
     url 'http://dl.dafont.com/dl/?f=ravioli'
     name 'Ravioli'
     homepage 'http://www.dafont.com/ravioli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '26-41cfe.ttf'
 end

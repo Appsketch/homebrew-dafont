@@ -5,7 +5,6 @@ cask 'dafont-dumbass' do
     url 'http://dl.dafont.com/dl/?f=dumbass'
     name 'DumbAss'
     homepage 'http://www.dafont.com/dumbass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DUMBASS_.TTF'
 end

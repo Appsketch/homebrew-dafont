@@ -5,7 +5,6 @@ cask 'dafont-hazard' do
     url 'http://dl.dafont.com/dl/?f=hazard'
     name 'Hazard'
     homepage 'http://www.dafont.com/hazard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'haw.ttf'
 end

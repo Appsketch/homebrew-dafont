@@ -5,7 +5,6 @@ cask 'dafont-verzierte-schwabach' do
     url 'http://dl.dafont.com/dl/?f=verzierte_schwabach'
     name 'Verzierte Schwabacher'
     homepage 'http://www.dafont.com/verzierte-schwabach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VerzierteSchwabacher.ttf'
 end

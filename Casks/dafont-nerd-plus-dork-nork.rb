@@ -5,7 +5,6 @@ cask 'dafont-nerd-plus-dork-nork' do
     url 'http://dl.dafont.com/dl/?f=nerd_plus_dork_nork'
     name 'Nerd plus Dork=Nork'
     homepage 'http://www.dafont.com/nerd-plus-dork-nork.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nerd plus Dork=Nork.ttf'
 end

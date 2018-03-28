@@ -5,7 +5,6 @@ cask 'dafont-trashco' do
     url 'http://dl.dafont.com/dl/?f=trashco'
     name 'Trashco'
     homepage 'http://www.dafont.com/trashco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trashco.ttf'
 end

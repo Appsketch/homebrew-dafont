@@ -5,7 +5,6 @@ cask 'dafont-vtks-easy-way' do
     url 'http://dl.dafont.com/dl/?f=vtks_easy_way'
     name 'VTKS Easy Way'
     homepage 'http://www.dafont.com/vtks-easy-way.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS EASY WAY.ttf'
 end

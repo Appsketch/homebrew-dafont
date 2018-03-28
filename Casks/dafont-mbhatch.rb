@@ -5,7 +5,6 @@ cask 'dafont-mbhatch' do
     url 'http://dl.dafont.com/dl/?f=mbhatch'
     name 'MB Hatch'
     homepage 'http://www.dafont.com/mbhatch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MBHatch.ttf'
 end

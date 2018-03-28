@@ -5,7 +5,6 @@ cask 'dafont-traffic' do
     url 'http://dl.dafont.com/dl/?f=traffic'
     name 'Traffic'
     homepage 'http://www.dafont.com/traffic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Traffic.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gothic-hijinx' do
     url 'http://dl.dafont.com/dl/?f=gothic_hijinx'
     name 'Gothic Hijinx'
     homepage 'http://www.dafont.com/gothic-hijinx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GothicHijinx.ttf'
     font 'GothicHijinxHollow.ttf'

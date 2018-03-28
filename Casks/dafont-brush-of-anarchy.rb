@@ -5,7 +5,6 @@ cask 'dafont-brush-of-anarchy' do
     url 'http://dl.dafont.com/dl/?f=brush_of_anarchy'
     name 'Brush Of Anarchy'
     homepage 'http://www.dafont.com/brush-of-anarchy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brush_Of_Anarchy.ttf'
     font 'BRUSHOFANARCHYOUTLINE.ttf'

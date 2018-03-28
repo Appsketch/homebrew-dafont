@@ -5,7 +5,6 @@ cask 'dafont-tarracottawarrior' do
     url 'http://dl.dafont.com/dl/?f=tarracottawarrior'
     name 'Tarracotta Warrior'
     homepage 'http://www.dafont.com/tarracottawarrior.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TarracottaWarrior.ttf'
 end

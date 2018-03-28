@@ -5,7 +5,6 @@ cask 'dafont-biasans' do
     url 'http://dl.dafont.com/dl/?f=biasans'
     name 'Biasans'
     homepage 'http://www.dafont.com/biasans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'biasans.ttf'
 end

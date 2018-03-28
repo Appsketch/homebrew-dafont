@@ -5,7 +5,6 @@ cask 'dafont-duckie' do
     url 'http://dl.dafont.com/dl/?f=duckie'
     name 'Duckie'
     homepage 'http://www.dafont.com/duckie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Duckie.ttf'
 end

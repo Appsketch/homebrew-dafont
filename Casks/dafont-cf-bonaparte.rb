@@ -5,7 +5,6 @@ cask 'dafont-cf-bonaparte' do
     url 'http://dl.dafont.com/dl/?f=cf_bonaparte'
     name 'CF Bonaparte'
     homepage 'http://www.dafont.com/cf-bonaparte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFBonaparte-Regular.ttf'
 end

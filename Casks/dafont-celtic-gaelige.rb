@@ -5,7 +5,6 @@ cask 'dafont-celtic-gaelige' do
     url 'http://dl.dafont.com/dl/?f=celtic_gaelige'
     name 'Celtic Gaelige'
     homepage 'http://www.dafont.com/celtic-gaelige.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'celtic_gaelige.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kahless' do
     url 'http://dl.dafont.com/dl/?f=kahless'
     name 'Kahless'
     homepage 'http://www.dafont.com/kahless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kahless2p.ttf'
     font 'Kahless2s.ttf'

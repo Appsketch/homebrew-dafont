@@ -5,7 +5,6 @@ cask 'dafont-gaussian-blur' do
     url 'http://dl.dafont.com/dl/?f=gaussian_blur'
     name 'Gaussian Blur'
     homepage 'http://www.dafont.com/gaussian-blur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gaussian Blur Italic.ttf'
     font 'Gaussian Blur.ttf'

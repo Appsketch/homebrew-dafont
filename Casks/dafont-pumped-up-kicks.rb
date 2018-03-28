@@ -5,7 +5,6 @@ cask 'dafont-pumped-up-kicks' do
     url 'http://dl.dafont.com/dl/?f=pumped_up_kicks'
     name 'Pumped Up Kicks'
     homepage 'http://www.dafont.com/pumped-up-kicks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pumped Up Kicks.ttf'
 end

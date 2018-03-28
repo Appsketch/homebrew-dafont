@@ -5,7 +5,6 @@ cask 'dafont-ruba' do
     url 'http://dl.dafont.com/dl/?f=_ruba'
     name '.Ruba'
     homepage 'http://www.dafont.com/-ruba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ruba.ttf'
 end

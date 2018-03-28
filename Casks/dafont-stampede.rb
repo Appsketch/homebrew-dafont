@@ -5,7 +5,6 @@ cask 'dafont-stampede' do
     url 'http://dl.dafont.com/dl/?f=stampede'
     name 'Stampede'
     homepage 'http://www.dafont.com/stampede.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stampede.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-expression' do
     url 'http://dl.dafont.com/dl/?f=expression'
     name 'Expression'
     homepage 'http://www.dafont.com/expression.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EXPRESSI.TTF'
 end

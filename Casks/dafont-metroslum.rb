@@ -5,7 +5,6 @@ cask 'dafont-metroslum' do
     url 'http://dl.dafont.com/dl/?f=metroslum'
     name 'MetroSlum'
     homepage 'http://www.dafont.com/metroslum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MetroSlum_Jkt002_erc_2006.ttf'
 end

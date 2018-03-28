@@ -5,7 +5,6 @@ cask 'dafont-wickermanor' do
     url 'http://dl.dafont.com/dl/?f=wickermanor'
     name 'Wickermanor'
     homepage 'http://www.dafont.com/wickermanor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wickermanor.ttf'
 end

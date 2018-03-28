@@ -5,7 +5,6 @@ cask 'dafont-inkandbones' do
     url 'http://dl.dafont.com/dl/?f=inkandbones'
     name 'Ink And Bones'
     homepage 'http://www.dafont.com/inkandbones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'inkandbones.otf'
 end

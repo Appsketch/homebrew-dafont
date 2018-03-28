@@ -5,7 +5,6 @@ cask 'dafont-sb-modern' do
     url 'http://dl.dafont.com/dl/?f=sb_modern'
     name 'SB Modern'
     homepage 'http://www.dafont.com/sb-modern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sbmodernstd_bold.ttf'
     font 'sbmodernstd.ttf'

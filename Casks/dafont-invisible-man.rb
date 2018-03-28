@@ -5,7 +5,6 @@ cask 'dafont-invisible-man' do
     url 'http://dl.dafont.com/dl/?f=invisible_man'
     name 'Invisible Man'
     homepage 'http://www.dafont.com/invisible-man.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'invisible man.ttf'
 end

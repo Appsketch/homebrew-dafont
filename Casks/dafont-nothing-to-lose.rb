@@ -5,7 +5,6 @@ cask 'dafont-nothing-to-lose' do
     url 'http://dl.dafont.com/dl/?f=nothing_to_lose'
     name 'Nothing To Lose'
     homepage 'http://www.dafont.com/nothing-to-lose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nothing To Lose.ttf'
 end

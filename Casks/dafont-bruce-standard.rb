@@ -5,7 +5,6 @@ cask 'dafont-bruce-standard' do
     url 'http://dl.dafont.com/dl/?f=bruce_standard'
     name 'Bruce'
     homepage 'http://www.dafont.com/bruce-standard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bruce_Scaled.ttf'
     font 'Bruce_Standard_Text.ttf'

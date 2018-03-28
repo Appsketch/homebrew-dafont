@@ -5,7 +5,6 @@ cask 'dafont-qwurky' do
     url 'http://dl.dafont.com/dl/?f=qwurky'
     name 'Qwurky'
     homepage 'http://www.dafont.com/qwurky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Qwurky.ttf'
 end

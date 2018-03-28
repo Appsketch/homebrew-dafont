@@ -5,7 +5,6 @@ cask 'dafont-tablhoide' do
     url 'http://dl.dafont.com/dl/?f=tablhoide'
     name 'Tablhoide'
     homepage 'http://www.dafont.com/tablhoide.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TABLHOID.TTF'
 end

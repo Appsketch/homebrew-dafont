@@ -5,7 +5,6 @@ cask 'dafont-klonp' do
     url 'http://dl.dafont.com/dl/?f=klonp'
     name 'Klonp'
     homepage 'http://www.dafont.com/klonp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KLONP.ttf'
 end

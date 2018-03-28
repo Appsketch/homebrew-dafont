@@ -5,7 +5,6 @@ cask 'dafont-outback' do
     url 'http://dl.dafont.com/dl/?f=outback'
     name 'Outback'
     homepage 'http://www.dafont.com/outback.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'outback_outline.ttf'
     font 'outback.ttf'

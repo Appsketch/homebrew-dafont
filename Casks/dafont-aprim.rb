@@ -5,7 +5,6 @@ cask 'dafont-aprim' do
     url 'http://dl.dafont.com/dl/?f=aprim'
     name 'Aprim'
     homepage 'http://www.dafont.com/aprim.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aprim.otf'
     font 'AprimBold.otf'

@@ -5,7 +5,6 @@ cask 'dafont-venue-on-the-beach' do
     url 'http://dl.dafont.com/dl/?f=venue_on_the_beach'
     name 'Venue on the Beach'
     homepage 'http://www.dafont.com/venue-on-the-beach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Venue_on_the_Beach.ttf'
 end

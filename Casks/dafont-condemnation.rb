@@ -5,7 +5,6 @@ cask 'dafont-condemnation' do
     url 'http://dl.dafont.com/dl/?f=condemnation'
     name 'Condemnation'
     homepage 'http://www.dafont.com/condemnation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Condemnation.ttf'
 end

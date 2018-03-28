@@ -5,7 +5,6 @@ cask 'dafont-alaskan-nights' do
     url 'http://dl.dafont.com/dl/?f=alaskan_nights'
     name 'Alaskan Nights'
     homepage 'http://www.dafont.com/alaskan-nights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlaskanNights.ttf'
 end

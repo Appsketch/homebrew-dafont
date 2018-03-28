@@ -5,7 +5,6 @@ cask 'dafont-fat-chicken' do
     url 'http://dl.dafont.com/dl/?f=fat_chicken'
     name 'Fat Chicken'
     homepage 'http://www.dafont.com/fat-chicken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fat Chicken.ttf'
 end

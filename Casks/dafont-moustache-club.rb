@@ -5,7 +5,6 @@ cask 'dafont-moustache-club' do
     url 'http://dl.dafont.com/dl/?f=moustache_club'
     name 'Moustache Club'
     homepage 'http://www.dafont.com/moustache-club.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moustache Club 2.ttf'
     font 'Moustache Club.ttf'

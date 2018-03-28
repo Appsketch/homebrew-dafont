@@ -5,7 +5,6 @@ cask 'dafont-brain-flower' do
     url 'http://dl.dafont.com/dl/?f=brain_flower'
     name 'Brain Flower'
     homepage 'http://www.dafont.com/brain-flower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brain Flower Euro.ttf'
 end

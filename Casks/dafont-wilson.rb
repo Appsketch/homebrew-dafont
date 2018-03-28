@@ -5,7 +5,6 @@ cask 'dafont-wilson' do
     url 'http://dl.dafont.com/dl/?f=wilson'
     name 'Wilson!'
     homepage 'http://www.dafont.com/wilson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wilson.ttf'
 end

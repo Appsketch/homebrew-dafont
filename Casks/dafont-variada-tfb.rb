@@ -5,7 +5,6 @@ cask 'dafont-variada-tfb' do
     url 'http://dl.dafont.com/dl/?f=variada_tfb'
     name 'Variada TFB'
     homepage 'http://www.dafont.com/variada-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Variada tfb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-arrow-7' do
     url 'http://dl.dafont.com/dl/?f=arrow_7'
     name 'Arrow 7'
     homepage 'http://www.dafont.com/arrow-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'arrow_7.ttf'
 end

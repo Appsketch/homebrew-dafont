@@ -5,7 +5,6 @@ cask 'dafont-texas-toast' do
     url 'http://dl.dafont.com/dl/?f=texas_toast'
     name 'Texas Toast'
     homepage 'http://www.dafont.com/texas-toast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TexasToast.ttf'
 end

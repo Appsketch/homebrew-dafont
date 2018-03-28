@@ -5,7 +5,6 @@ cask 'dafont-dk-kubikajiri' do
     url 'http://dl.dafont.com/dl/?f=dk_kubikajiri'
     name 'DK Kubikajiri'
     homepage 'http://www.dafont.com/dk-kubikajiri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Kubikajiri.ttf'
 end

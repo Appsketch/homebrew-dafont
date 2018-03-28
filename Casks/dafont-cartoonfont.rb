@@ -5,7 +5,6 @@ cask 'dafont-cartoonfont' do
     url 'http://dl.dafont.com/dl/?f=cartoonfont'
     name 'Cartoonfont'
     homepage 'http://www.dafont.com/cartoonfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cartoonfont.ttf'
 end

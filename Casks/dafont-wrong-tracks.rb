@@ -5,7 +5,6 @@ cask 'dafont-wrong-tracks' do
     url 'http://dl.dafont.com/dl/?f=wrong_tracks'
     name 'Wrong Tracks'
     homepage 'http://www.dafont.com/wrong-tracks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wrong Tracks.ttf'
 end

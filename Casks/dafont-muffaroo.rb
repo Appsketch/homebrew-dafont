@@ -5,7 +5,6 @@ cask 'dafont-muffaroo' do
     url 'http://dl.dafont.com/dl/?f=muffaroo'
     name 'Muffaroo'
     homepage 'http://www.dafont.com/muffaroo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Muffaroo.ttf'
 end

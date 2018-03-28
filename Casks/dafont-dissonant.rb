@@ -5,7 +5,6 @@ cask 'dafont-dissonant' do
     url 'http://dl.dafont.com/dl/?f=dissonant'
     name 'Dissonant'
     homepage 'http://www.dafont.com/dissonant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dis.ttf'
 end

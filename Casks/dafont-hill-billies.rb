@@ -5,7 +5,6 @@ cask 'dafont-hill-billies' do
     url 'http://dl.dafont.com/dl/?f=hill_billies'
     name 'Hill Billies'
     homepage 'http://www.dafont.com/hill-billies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hill Billies.ttf'
 end

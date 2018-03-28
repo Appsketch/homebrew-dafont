@@ -5,7 +5,6 @@ cask 'dafont-zentaiges' do
     url 'http://dl.dafont.com/dl/?f=zentaiges'
     name 'Zentaiges'
     homepage 'http://www.dafont.com/zentaiges.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zentaiges.ttf'
 end

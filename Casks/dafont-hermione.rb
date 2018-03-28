@@ -5,7 +5,6 @@ cask 'dafont-hermione' do
     url 'http://dl.dafont.com/dl/?f=hermione'
     name 'Hermione'
     homepage 'http://www.dafont.com/hermione.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hermione-Regular.otf'
 end

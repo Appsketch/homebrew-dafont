@@ -5,7 +5,6 @@ cask 'dafont-schmalegotischmk' do
     url 'http://dl.dafont.com/dl/?f=schmalegotischmk'
     name 'Schmale Gotisch MK'
     homepage 'http://www.dafont.com/schmalegotischmk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SchmaleGotischMK.ttf'
 end

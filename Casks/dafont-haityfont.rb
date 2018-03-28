@@ -5,7 +5,6 @@ cask 'dafont-haityfont' do
     url 'http://dl.dafont.com/dl/?f=haityfont'
     name 'Haityfont'
     homepage 'http://www.dafont.com/haityfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Haityfont.ttf'
 end

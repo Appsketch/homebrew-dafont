@@ -5,7 +5,6 @@ cask 'dafont-the-amazing-grace' do
     url 'http://dl.dafont.com/dl/?f=the_amazing_grace'
     name 'The amazing grace'
     homepage 'http://www.dafont.com/the-amazing-grace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the amazing grace.ttf'
 end

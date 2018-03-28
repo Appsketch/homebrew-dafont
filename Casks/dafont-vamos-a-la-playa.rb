@@ -5,7 +5,6 @@ cask 'dafont-vamos-a-la-playa' do
     url 'http://dl.dafont.com/dl/?f=vamos_a_la_playa'
     name 'Vamos a la playa'
     homepage 'http://www.dafont.com/vamos-a-la-playa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vamos a la playa.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-teenage-delinquent' do
     url 'http://dl.dafont.com/dl/?f=teenage_delinquent'
     name 'Teenage Delinquent'
     homepage 'http://www.dafont.com/teenage-delinquent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TEEND___.TTF'
 end

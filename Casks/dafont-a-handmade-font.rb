@@ -5,7 +5,6 @@ cask 'dafont-a-handmade-font' do
     url 'http://dl.dafont.com/dl/?f=a_handmade_font'
     name 'A HandMade Font'
     homepage 'http://www.dafont.com/a-handmade-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A HandMade Font.otf'
 end

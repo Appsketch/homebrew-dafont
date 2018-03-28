@@ -5,7 +5,6 @@ cask 'dafont-shadesrech0' do
     url 'http://dl.dafont.com/dl/?f=shadesrech0'
     name 'ShadesRech0'
     homepage 'http://www.dafont.com/shadesrech0.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shades.ttf'
 end

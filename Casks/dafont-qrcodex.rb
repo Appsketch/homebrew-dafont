@@ -5,7 +5,6 @@ cask 'dafont-qrcodex' do
     url 'http://dl.dafont.com/dl/?f=qrcodex'
     name 'QRcodeX'
     homepage 'http://www.dafont.com/qrcodex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QRcodeX.ttf'
 end

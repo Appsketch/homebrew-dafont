@@ -5,7 +5,6 @@ cask 'dafont-caricature' do
     url 'http://dl.dafont.com/dl/?f=caricature'
     name 'Caricature'
     homepage 'http://www.dafont.com/caricature.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'caricature.ttf'
 end

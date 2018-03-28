@@ -5,7 +5,6 @@ cask 'dafont-groteski' do
     url 'http://dl.dafont.com/dl/?f=groteski'
     name 'Groteski'
     homepage 'http://www.dafont.com/groteski.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GROTB___.TTF'
 end

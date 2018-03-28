@@ -5,7 +5,6 @@ cask 'dafont-ts-curly' do
     url 'http://dl.dafont.com/dl/?f=ts_curly'
     name 'TS Curly'
     homepage 'http://www.dafont.com/ts-curly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TS Curly.ttf'
 end

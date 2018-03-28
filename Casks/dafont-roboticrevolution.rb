@@ -5,7 +5,6 @@ cask 'dafont-roboticrevolution' do
     url 'http://dl.dafont.com/dl/?f=roboticrevolution'
     name 'Robotic Revolution'
     homepage 'http://www.dafont.com/roboticrevolution.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RoboticRevolution.ttf'
 end

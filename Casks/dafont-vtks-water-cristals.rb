@@ -5,7 +5,6 @@ cask 'dafont-vtks-water-cristals' do
     url 'http://dl.dafont.com/dl/?f=vtks_water_cristals'
     name 'VTKS Water Cristals'
     homepage 'http://www.dafont.com/vtks-water-cristals.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks Water cristals.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-typical-abc' do
     url 'http://dl.dafont.com/dl/?f=typical_abc'
     name 'Typical ABC'
     homepage 'http://www.dafont.com/typical-abc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typical ABC.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-apple-japanese-keyboard' do
     url 'http://dl.dafont.com/dl/?f=apple_japanese_keyboard'
     name 'Apple Japanese Keyboard'
     homepage 'http://www.dafont.com/apple-japanese-keyboard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Apple Japanese Keyboard.ttf'
 end

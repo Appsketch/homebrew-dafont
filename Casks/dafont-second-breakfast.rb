@@ -5,7 +5,6 @@ cask 'dafont-second-breakfast' do
     url 'http://dl.dafont.com/dl/?f=second_breakfast'
     name 'Second Breakfast'
     homepage 'http://www.dafont.com/second-breakfast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'second breakfast.ttf'
 end

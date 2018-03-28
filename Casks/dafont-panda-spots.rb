@@ -5,7 +5,6 @@ cask 'dafont-panda-spots' do
     url 'http://dl.dafont.com/dl/?f=panda_spots'
     name 'Panda Spots'
     homepage 'http://www.dafont.com/panda-spots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Panda Spots.ttf'
 end

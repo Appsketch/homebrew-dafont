@@ -5,7 +5,6 @@ cask 'dafont-kyri-kaps' do
     url 'http://dl.dafont.com/dl/?f=kyri_kaps'
     name 'Kyri Kaps'
     homepage 'http://www.dafont.com/kyri-kaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KYRI_KAPS.ttf'
 end

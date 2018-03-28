@@ -5,7 +5,6 @@ cask 'dafont-girlfriend' do
     url 'http://dl.dafont.com/dl/?f=girlfriend'
     name 'Girlfriend'
     homepage 'http://www.dafont.com/girlfriend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Girlfriend.otf'
 end

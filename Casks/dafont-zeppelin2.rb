@@ -5,7 +5,6 @@ cask 'dafont-zeppelin2' do
     url 'http://dl.dafont.com/dl/?f=zeppelin2'
     name 'Led Zeppelin II'
     homepage 'http://www.dafont.com/zeppelin2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZEPPELIN.TTF'
 end

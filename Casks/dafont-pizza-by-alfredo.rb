@@ -5,7 +5,6 @@ cask 'dafont-pizza-by-alfredo' do
     url 'http://dl.dafont.com/dl/?f=pizza_by_alfredo'
     name 'Pizza by Alfredo'
     homepage 'http://www.dafont.com/pizza-by-alfredo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pizza by Alfredo.ttf'
 end

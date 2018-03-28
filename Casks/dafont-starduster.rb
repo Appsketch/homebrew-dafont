@@ -5,7 +5,6 @@ cask 'dafont-starduster' do
     url 'http://dl.dafont.com/dl/?f=starduster'
     name 'Starduster'
     homepage 'http://www.dafont.com/starduster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'starduster2.ttf'
     font 'starduster23d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-logobloqo2' do
     url 'http://dl.dafont.com/dl/?f=logobloqo2'
     name 'Logobloqo 2'
     homepage 'http://www.dafont.com/logobloqo2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Logobloqo2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-serenity' do
     url 'http://dl.dafont.com/dl/?f=serenity'
     name 'Serenity'
     homepage 'http://www.dafont.com/serenity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SERENITY.TTF'
 end

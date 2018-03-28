@@ -5,7 +5,6 @@ cask 'dafont-vtks-core' do
     url 'http://dl.dafont.com/dl/?f=vtks_core'
     name 'VTKS Core'
     homepage 'http://www.dafont.com/vtks-core.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTKS CORE.ttf'
 end

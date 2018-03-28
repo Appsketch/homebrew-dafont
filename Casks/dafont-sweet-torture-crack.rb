@@ -5,7 +5,6 @@ cask 'dafont-sweet-torture-crack' do
     url 'http://dl.dafont.com/dl/?f=sweet_torture_crack'
     name 'Sweet Torture (cracked brain)'
     homepage 'http://www.dafont.com/sweet-torture-crack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Feed.ttf'
 end

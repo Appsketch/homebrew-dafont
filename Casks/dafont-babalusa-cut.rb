@@ -5,7 +5,6 @@ cask 'dafont-babalusa-cut' do
     url 'http://dl.dafont.com/dl/?f=babalusa_cut'
     name 'Babalusa Cut'
     homepage 'http://www.dafont.com/babalusa-cut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Babalusa-cut-font.ttf'
 end

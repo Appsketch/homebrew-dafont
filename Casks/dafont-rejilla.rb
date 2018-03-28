@@ -5,7 +5,6 @@ cask 'dafont-rejilla' do
     url 'http://dl.dafont.com/dl/?f=rejilla'
     name 'Rejilla'
     homepage 'http://www.dafont.com/rejilla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WOODCUTTER REJILLA.ttf'
 end

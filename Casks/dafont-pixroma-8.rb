@@ -5,7 +5,6 @@ cask 'dafont-pixroma-8' do
     url 'http://dl.dafont.com/dl/?f=pixroma_8'
     name 'PIXroma_8'
     homepage 'http://www.dafont.com/pixroma-8.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PIXroma_8.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-microtype' do
     url 'http://dl.dafont.com/dl/?f=microtype'
     name 'Microtype'
     homepage 'http://www.dafont.com/microtype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Microtype.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mirkwood-chronicle' do
     url 'http://dl.dafont.com/dl/?f=mirkwood_chronicle'
     name 'Mirkwood Chronicle'
     homepage 'http://www.dafont.com/mirkwood-chronicle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mirkwood_Chronicle.ttf'
 end

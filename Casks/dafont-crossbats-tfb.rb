@@ -5,7 +5,6 @@ cask 'dafont-crossbats-tfb' do
     url 'http://dl.dafont.com/dl/?f=crossbats_tfb'
     name 'Crossbats TFB'
     homepage 'http://www.dafont.com/crossbats-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crossbats tfb.ttf'
 end

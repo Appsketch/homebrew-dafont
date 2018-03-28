@@ -5,7 +5,6 @@ cask 'dafont-fakehieroglyphs' do
     url 'http://dl.dafont.com/dl/?f=fakehieroglyphs'
     name 'Fake Hieroglyphs'
     homepage 'http://www.dafont.com/fakehieroglyphs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FakeGlyph.otf'
 end

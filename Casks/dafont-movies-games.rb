@@ -5,7 +5,6 @@ cask 'dafont-movies-games' do
     url 'http://dl.dafont.com/dl/?f=movies_games'
     name 'Movies &amp; Games'
     homepage 'http://www.dafont.com/movies-games.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Movies&amp;Games.ttf'
 end

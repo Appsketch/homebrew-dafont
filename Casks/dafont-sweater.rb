@@ -5,7 +5,6 @@ cask 'dafont-sweater' do
     url 'http://dl.dafont.com/dl/?f=sweater'
     name 'Sweater'
     homepage 'http://www.dafont.com/sweater.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sweater.ttf'
 end

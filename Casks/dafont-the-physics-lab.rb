@@ -5,7 +5,6 @@ cask 'dafont-the-physics-lab' do
     url 'http://dl.dafont.com/dl/?f=the_physics_lab'
     name 'The Physics Lab'
     homepage 'http://www.dafont.com/the-physics-lab.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Physics Lab.ttf'
 end

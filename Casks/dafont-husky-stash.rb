@@ -5,7 +5,6 @@ cask 'dafont-husky-stash' do
     url 'http://dl.dafont.com/dl/?f=husky_stash'
     name 'Husky Stash'
     homepage 'http://www.dafont.com/husky-stash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'husky stash.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kr-fabulous-fall' do
     url 'http://dl.dafont.com/dl/?f=kr_fabulous_fall'
     name 'KR Fabulous Fall'
     homepage 'http://www.dafont.com/kr-fabulous-fall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Fabulous Fall.ttf'
 end

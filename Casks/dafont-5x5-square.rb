@@ -5,7 +5,6 @@ cask 'dafont-5x5-square' do
     url 'http://dl.dafont.com/dl/?f=5x5_square'
     name '5x5 Square'
     homepage 'http://www.dafont.com/5x5-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5x5_square.ttf'
 end

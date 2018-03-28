@@ -5,7 +5,6 @@ cask 'dafont-aero-matics-stencil' do
     url 'http://dl.dafont.com/dl/?f=aero_matics_stencil'
     name 'Aero Matics Stencil'
     homepage 'http://www.dafont.com/aero-matics-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aero Matics Stencil Bold Italic.ttf'
     font 'Aero Matics Stencil Bold.ttf'

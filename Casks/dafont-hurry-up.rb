@@ -5,7 +5,6 @@ cask 'dafont-hurry-up' do
     url 'http://dl.dafont.com/dl/?f=hurry_up'
     name 'Hurry Up'
     homepage 'http://www.dafont.com/hurry-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hurry up.ttf'
 end

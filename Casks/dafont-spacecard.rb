@@ -5,7 +5,6 @@ cask 'dafont-spacecard' do
     url 'http://dl.dafont.com/dl/?f=spacecard'
     name 'Spacecard'
     homepage 'http://www.dafont.com/spacecard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spacecard.ttf'
 end

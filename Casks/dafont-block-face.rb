@@ -5,7 +5,6 @@ cask 'dafont-block-face' do
     url 'http://dl.dafont.com/dl/?f=block_face'
     name 'Block Face'
     homepage 'http://www.dafont.com/block-face.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlockFace Bold.ttf'
     font 'BlockFace.ttf'

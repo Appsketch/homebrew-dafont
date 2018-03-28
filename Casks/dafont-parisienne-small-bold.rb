@@ -5,7 +5,6 @@ cask 'dafont-parisienne-small-bold' do
     url 'http://dl.dafont.com/dl/?f=parisienne_small_bold'
     name 'Parisienne Small Bold'
     homepage 'http://www.dafont.com/parisienne-small-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Parisienne-Small-Bold.ttf'
 end

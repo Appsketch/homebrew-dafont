@@ -5,7 +5,6 @@ cask 'dafont-old-mosaic-caps' do
     url 'http://dl.dafont.com/dl/?f=old_mosaic_caps'
     name 'Old Mosaic Caps'
     homepage 'http://www.dafont.com/old-mosaic-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old Mosaic CAPS.ttf'
 end

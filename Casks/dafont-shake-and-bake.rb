@@ -5,7 +5,6 @@ cask 'dafont-shake-and-bake' do
     url 'http://dl.dafont.com/dl/?f=shake_and_bake'
     name 'Shake And Bake'
     homepage 'http://www.dafont.com/shake-and-bake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShakeAndBake-itl.otf'
     font 'ShakeAndBake.otf'

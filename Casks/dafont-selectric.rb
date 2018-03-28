@@ -5,7 +5,6 @@ cask 'dafont-selectric' do
     url 'http://dl.dafont.com/dl/?f=selectric'
     name 'Selectric'
     homepage 'http://www.dafont.com/selectric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SLC_.ttf'
 end

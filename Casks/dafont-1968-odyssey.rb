@@ -5,7 +5,6 @@ cask 'dafont-1968-odyssey' do
     url 'http://dl.dafont.com/dl/?f=1968_odyssey'
     name '1968 Odyssey'
     homepage 'http://www.dafont.com/1968-odyssey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1968odyssey.ttf'
     font '1968odyssey3d.ttf'

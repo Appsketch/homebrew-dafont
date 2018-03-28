@@ -5,7 +5,6 @@ cask 'dafont-excellentstencil' do
     url 'http://dl.dafont.com/dl/?f=excellentstencil'
     name 'Excellent Stencil'
     homepage 'http://www.dafont.com/excellentstencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ExcellentStencil.ttf'
 end

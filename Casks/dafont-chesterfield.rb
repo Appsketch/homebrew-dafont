@@ -5,7 +5,6 @@ cask 'dafont-chesterfield' do
     url 'http://dl.dafont.com/dl/?f=chesterfield'
     name 'Chesterfield'
     homepage 'http://www.dafont.com/chesterfield.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chesterfield.ttf'
 end

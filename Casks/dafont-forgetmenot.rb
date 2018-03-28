@@ -5,7 +5,6 @@ cask 'dafont-forgetmenot' do
     url 'http://dl.dafont.com/dl/?f=forgetmenot'
     name 'Forget Me Not'
     homepage 'http://www.dafont.com/forgetmenot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'forgetmenot.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-parolm-smallcaps' do
     url 'http://dl.dafont.com/dl/?f=parolm_smallcaps'
     name 'Parolm SmallCaps'
     homepage 'http://www.dafont.com/parolm-smallcaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PR.TTF'
 end

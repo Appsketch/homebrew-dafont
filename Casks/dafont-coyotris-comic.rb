@@ -5,7 +5,6 @@ cask 'dafont-coyotris-comic' do
     url 'http://dl.dafont.com/dl/?f=coyotris_comic'
     name 'Coyotris Comic'
     homepage 'http://www.dafont.com/coyotris-comic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coyotris Comic.ttf'
 end

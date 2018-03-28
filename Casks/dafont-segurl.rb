@@ -5,7 +5,6 @@ cask 'dafont-segurl' do
     url 'http://dl.dafont.com/dl/?f=segurl'
     name 'Segurl'
     homepage 'http://www.dafont.com/segurl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Segurl 1.0.ttf'
 end

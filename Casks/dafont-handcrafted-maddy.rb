@@ -5,7 +5,6 @@ cask 'dafont-handcrafted-maddy' do
     url 'http://dl.dafont.com/dl/?f=handcrafted_maddy'
     name 'HandCrafted Maddy'
     homepage 'http://www.dafont.com/handcrafted-maddy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HANDCRAFTED_MADDY.otf'
 end

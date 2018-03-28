@@ -5,7 +5,6 @@ cask 'dafont-philosophy' do
     url 'http://dl.dafont.com/dl/?f=philosophy'
     name 'Philosophy'
     homepage 'http://www.dafont.com/philosophy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'philosophy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bm-sly' do
     url 'http://dl.dafont.com/dl/?f=bm_sly'
     name 'BM Sly'
     homepage 'http://www.dafont.com/bm-sly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BMSLA___.TTF'
 end

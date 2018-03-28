@@ -5,7 +5,6 @@ cask 'dafont-black-pine-trees' do
     url 'http://dl.dafont.com/dl/?f=black_pine_trees'
     name 'Black Pine Trees'
     homepage 'http://www.dafont.com/black-pine-trees.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'black pine trees.ttf'
 end

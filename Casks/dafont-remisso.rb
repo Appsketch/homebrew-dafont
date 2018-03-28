@@ -5,7 +5,6 @@ cask 'dafont-remisso' do
     url 'http://dl.dafont.com/dl/?f=remisso'
     name 'Remisso'
     homepage 'http://www.dafont.com/remisso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Remisso.ttf'
 end

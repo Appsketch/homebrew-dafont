@@ -5,7 +5,6 @@ cask 'dafont-pandamonium' do
     url 'http://dl.dafont.com/dl/?f=pandamonium'
     name 'Pandamonium BV'
     homepage 'http://www.dafont.com/pandamonium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PANDB___.TTF'
 end

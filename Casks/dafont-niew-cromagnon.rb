@@ -5,7 +5,6 @@ cask 'dafont-niew-cromagnon' do
     url 'http://dl.dafont.com/dl/?f=niew_cromagnon'
     name 'Niew CroMagnon'
     homepage 'http://www.dafont.com/niew-cromagnon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Niew CroMagnon Callig.ttf'
     font 'Niew CroMagnon Narrow.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-steampips' do
     url 'http://dl.dafont.com/dl/?f=steampips'
     name 'Steampips'
     homepage 'http://www.dafont.com/steampips.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Steampips d10.otf'
     font 'Steampips d6.otf'

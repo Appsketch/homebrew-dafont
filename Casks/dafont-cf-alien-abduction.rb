@@ -5,7 +5,6 @@ cask 'dafont-cf-alien-abduction' do
     url 'http://dl.dafont.com/dl/?f=cf_alien_abduction'
     name 'CF Alien Abduction'
     homepage 'http://www.dafont.com/cf-alien-abduction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFAlienAbduction-Regular.ttf'
 end

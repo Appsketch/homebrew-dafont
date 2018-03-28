@@ -5,7 +5,6 @@ cask 'dafont-curly-coryphaeus' do
     url 'http://dl.dafont.com/dl/?f=curly_coryphaeus'
     name 'Curly Coryphaeus'
     homepage 'http://www.dafont.com/curly-coryphaeus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'curly.ttf'
 end

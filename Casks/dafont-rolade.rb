@@ -5,7 +5,6 @@ cask 'dafont-rolade' do
     url 'http://dl.dafont.com/dl/?f=rolade'
     name 'Rolade'
     homepage 'http://www.dafont.com/rolade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rolade Free.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-the-king-of-fighters-family' do
     url 'http://dl.dafont.com/dl/?f=the_king_of_fighters_family'
     name 'The King Of Fighters Family'
     homepage 'http://www.dafont.com/the-king-of-fighters-family.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The King of Fighters Font.ttf'
 end

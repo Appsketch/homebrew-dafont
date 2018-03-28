@@ -5,7 +5,6 @@ cask 'dafont-haunted-mouse' do
     url 'http://dl.dafont.com/dl/?f=haunted_mouse'
     name 'Haunted Mouse'
     homepage 'http://www.dafont.com/haunted-mouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Haunted Mouse Alt.ttf'
     font 'Haunted Mouse Shadow Alt.ttf'

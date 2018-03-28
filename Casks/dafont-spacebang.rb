@@ -5,7 +5,6 @@ cask 'dafont-spacebang' do
     url 'http://dl.dafont.com/dl/?f=spacebang'
     name 'Space Bang'
     homepage 'http://www.dafont.com/spacebang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpaceBang.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wobbly-brk' do
     url 'http://dl.dafont.com/dl/?f=wobbly_brk'
     name 'Wobbly BRK'
     homepage 'http://www.dafont.com/wobbly-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wobbly.ttf'
 end

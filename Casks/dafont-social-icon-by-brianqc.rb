@@ -5,7 +5,6 @@ cask 'dafont-social-icon-by-brianqc' do
     url 'http://dl.dafont.com/dl/?f=social_icon_by_brianqc'
     name 'Social Icon by Brianqc'
     homepage 'http://www.dafont.com/social-icon-by-brianqc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Social Icon by BRIANQC.ttf'
 end

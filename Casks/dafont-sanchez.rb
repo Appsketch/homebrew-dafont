@@ -5,7 +5,6 @@ cask 'dafont-sanchez' do
     url 'http://dl.dafont.com/dl/?f=sanchez'
     name 'Sanchez'
     homepage 'http://www.dafont.com/sanchez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sanchezregular-ita.otf'
     font 'Sanchezregular.otf'

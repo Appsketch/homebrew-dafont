@@ -5,7 +5,6 @@ cask 'dafont-iniciales-st' do
     url 'http://dl.dafont.com/dl/?f=iniciales_st'
     name 'Iniciales ST'
     homepage 'http://www.dafont.com/iniciales-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iniciales St.ttf'
 end

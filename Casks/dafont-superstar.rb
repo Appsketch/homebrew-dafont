@@ -5,7 +5,6 @@ cask 'dafont-superstar' do
     url 'http://dl.dafont.com/dl/?f=superstar'
     name 'Superstar'
     homepage 'http://www.dafont.com/superstar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPERSTA.TTF'
 end

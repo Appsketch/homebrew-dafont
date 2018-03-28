@@ -5,7 +5,6 @@ cask 'dafont-grafeno-st' do
     url 'http://dl.dafont.com/dl/?f=grafeno_st'
     name 'Grafeno St'
     homepage 'http://www.dafont.com/grafeno-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grafeno St.ttf'
 end

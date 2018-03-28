@@ -5,7 +5,6 @@ cask 'dafont-pf-tempesta-seven' do
     url 'http://dl.dafont.com/dl/?f=pf_tempesta_seven'
     name 'PF Tempesta Seven'
     homepage 'http://www.dafont.com/pf-tempesta-seven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pf_tempesta_seven_bold.ttf'
     font 'pf_tempesta_seven_compressed_bold.ttf'

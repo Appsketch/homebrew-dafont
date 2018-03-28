@@ -5,7 +5,6 @@ cask 'dafont-mtf-jude' do
     url 'http://dl.dafont.com/dl/?f=mtf_jude'
     name 'MTF Jude'
     homepage 'http://www.dafont.com/mtf-jude.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Jude.ttf'
 end

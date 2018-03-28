@@ -5,7 +5,6 @@ cask 'dafont-chronicmethodmb' do
     url 'http://dl.dafont.com/dl/?f=chronicmethodmb'
     name 'Chronic Method MB'
     homepage 'http://www.dafont.com/chronicmethodmb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChronicMethodMB.ttf'
 end

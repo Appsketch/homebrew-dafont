@@ -5,7 +5,6 @@ cask 'dafont-fowviel' do
     url 'http://dl.dafont.com/dl/?f=fowviel'
     name 'Fowviel'
     homepage 'http://www.dafont.com/fowviel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fowviel.ttf'
 end

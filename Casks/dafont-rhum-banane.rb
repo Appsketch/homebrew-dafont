@@ -5,7 +5,6 @@ cask 'dafont-rhum-banane' do
     url 'http://dl.dafont.com/dl/?f=rhum_banane'
     name 'Rhum Banane'
     homepage 'http://www.dafont.com/rhum-banane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rhum Banane.ttf'
 end

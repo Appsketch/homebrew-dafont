@@ -5,7 +5,6 @@ cask 'dafont-rhino' do
     url 'http://dl.dafont.com/dl/?f=rhino'
     name 'Rhino'
     homepage 'http://www.dafont.com/rhino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RHINO___.TTF'
 end

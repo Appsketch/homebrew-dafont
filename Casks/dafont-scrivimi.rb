@@ -5,7 +5,6 @@ cask 'dafont-scrivimi' do
     url 'http://dl.dafont.com/dl/?f=scrivimi'
     name 'Scrivimi'
     homepage 'http://www.dafont.com/scrivimi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scrivimi.ttf'
 end

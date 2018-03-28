@@ -5,7 +5,6 @@ cask 'dafont-50-blizzards' do
     url 'http://dl.dafont.com/dl/?f=50_blizzards'
     name '50 Blizzards'
     homepage 'http://www.dafont.com/50-blizzards.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '50 Blizzards.ttf'
 end

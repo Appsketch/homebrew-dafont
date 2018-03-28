@@ -5,7 +5,6 @@ cask 'dafont-dancefloor-exit' do
     url 'http://dl.dafont.com/dl/?f=dancefloor_exit'
     name 'Dancefloor Exit'
     homepage 'http://www.dafont.com/dancefloor-exit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dance_fx.ttf'
 end

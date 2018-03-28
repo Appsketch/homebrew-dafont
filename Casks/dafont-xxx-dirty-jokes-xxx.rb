@@ -5,7 +5,6 @@ cask 'dafont-xxx-dirty-jokes-xxx' do
     url 'http://dl.dafont.com/dl/?f=xxx_dirty_jokes_xxx'
     name 'xxx Dirty Jokes xxx'
     homepage 'http://www.dafont.com/xxx-dirty-jokes-xxx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xxx Dirty Jokes xxx.ttf'
 end

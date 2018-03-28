@@ -5,7 +5,6 @@ cask 'dafont-djb-fancy-nancy' do
     url 'http://dl.dafont.com/dl/?f=djb_fancy_nancy'
     name 'DJB Fancy Nancy'
     homepage 'http://www.dafont.com/djb-fancy-nancy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB FANCY NANCY.ttf'
 end

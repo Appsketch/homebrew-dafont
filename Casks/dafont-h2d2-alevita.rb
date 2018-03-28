@@ -5,7 +5,6 @@ cask 'dafont-h2d2-alevita' do
     url 'http://dl.dafont.com/dl/?f=h2d2_alevita'
     name 'H2D2 Alevita'
     homepage 'http://www.dafont.com/h2d2-alevita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AleviRou.ttf'
 end

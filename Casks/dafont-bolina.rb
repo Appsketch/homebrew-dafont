@@ -5,7 +5,6 @@ cask 'dafont-bolina' do
     url 'http://dl.dafont.com/dl/?f=bolina'
     name 'Bolina'
     homepage 'http://www.dafont.com/bolina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bolina.otf'
 end

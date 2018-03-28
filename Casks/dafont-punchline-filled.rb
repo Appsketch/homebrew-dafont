@@ -5,7 +5,6 @@ cask 'dafont-punchline-filled' do
     url 'http://dl.dafont.com/dl/?f=punchline_filled'
     name 'Punchline Filled'
     homepage 'http://www.dafont.com/punchline-filled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'punchline_filled.ttf'
 end

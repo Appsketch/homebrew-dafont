@@ -5,7 +5,6 @@ cask 'dafont-trolli' do
     url 'http://dl.dafont.com/dl/?f=trolli'
     name 'Trolli'
     homepage 'http://www.dafont.com/trolli.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trolle.ttf'
     font 'Trolli.ttf'

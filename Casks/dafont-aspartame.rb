@@ -5,7 +5,6 @@ cask 'dafont-aspartame' do
     url 'http://dl.dafont.com/dl/?f=aspartame'
     name 'Aspartame'
     homepage 'http://www.dafont.com/aspartame.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aspartam.ttf'
 end

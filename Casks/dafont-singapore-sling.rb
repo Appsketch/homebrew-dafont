@@ -5,7 +5,6 @@ cask 'dafont-singapore-sling' do
     url 'http://dl.dafont.com/dl/?f=singapore_sling'
     name 'Singapore Sling'
     homepage 'http://www.dafont.com/singapore-sling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'singaporesling.ttf'
     font 'singaporesling3d.ttf'

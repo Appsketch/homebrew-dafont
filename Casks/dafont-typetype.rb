@@ -5,7 +5,6 @@ cask 'dafont-typetype' do
     url 'http://dl.dafont.com/dl/?f=typetype'
     name 'Typetype'
     homepage 'http://www.dafont.com/typetype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typetype.ttf'
 end

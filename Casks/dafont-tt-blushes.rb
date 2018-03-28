@@ -5,7 +5,6 @@ cask 'dafont-tt-blushes' do
     url 'http://dl.dafont.com/dl/?f=tt_blushes'
     name 'TT Blushes'
     homepage 'http://www.dafont.com/tt-blushes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TT Blushes Thin DEMO.otf'
 end

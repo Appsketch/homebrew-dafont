@@ -5,7 +5,6 @@ cask 'dafont-heroes-assemble' do
     url 'http://dl.dafont.com/dl/?f=heroes_assemble'
     name 'Heroes Assemble'
     homepage 'http://www.dafont.com/heroes-assemble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'heroesassemble2.ttf'
     font 'heroesassemble3d.ttf'

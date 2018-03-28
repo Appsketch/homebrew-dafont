@@ -5,7 +5,6 @@ cask 'dafont-arwing' do
     url 'http://dl.dafont.com/dl/?f=arwing'
     name 'Arwing'
     homepage 'http://www.dafont.com/arwing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arwing.ttf'
 end

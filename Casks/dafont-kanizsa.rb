@@ -5,7 +5,6 @@ cask 'dafont-kanizsa' do
     url 'http://dl.dafont.com/dl/?f=kanizsa'
     name 'Kanizsa'
     homepage 'http://www.dafont.com/kanizsa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kanizsa.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cliff-edge' do
     url 'http://dl.dafont.com/dl/?f=cliff_edge'
     name 'Cliff Edge'
     homepage 'http://www.dafont.com/cliff-edge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CliffEdge_AB.ttf'
 end

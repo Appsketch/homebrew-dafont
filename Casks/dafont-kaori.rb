@@ -5,7 +5,6 @@ cask 'dafont-kaori' do
     url 'http://dl.dafont.com/dl/?f=kaori'
     name 'Kaori'
     homepage 'http://www.dafont.com/kaori.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kaori.ttf'
 end

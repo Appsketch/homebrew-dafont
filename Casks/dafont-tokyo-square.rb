@@ -5,7 +5,6 @@ cask 'dafont-tokyo-square' do
     url 'http://dl.dafont.com/dl/?f=tokyo_square'
     name 'Tokyo Square'
     homepage 'http://www.dafont.com/tokyo-square.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TokyoSquare.TTF'
 end

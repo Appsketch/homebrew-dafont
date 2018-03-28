@@ -5,7 +5,6 @@ cask 'dafont-artbrush' do
     url 'http://dl.dafont.com/dl/?f=artbrush'
     name 'Art Brush'
     homepage 'http://www.dafont.com/artbrush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Artbrush.ttf'
 end

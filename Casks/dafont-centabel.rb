@@ -5,7 +5,6 @@ cask 'dafont-centabel' do
     url 'http://dl.dafont.com/dl/?f=centabel'
     name 'Centabel'
     homepage 'http://www.dafont.com/centabel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'centabel.ttf'
 end

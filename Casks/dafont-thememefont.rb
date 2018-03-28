@@ -5,7 +5,6 @@ cask 'dafont-thememefont' do
     url 'http://dl.dafont.com/dl/?f=thememefont'
     name 'The meme font'
     homepage 'http://www.dafont.com/thememefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thememefont.ttf'
 end

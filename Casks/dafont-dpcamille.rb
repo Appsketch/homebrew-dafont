@@ -5,7 +5,6 @@ cask 'dafont-dpcamille' do
     url 'http://dl.dafont.com/dl/?f=dpcamille'
     name 'DP Camille'
     homepage 'http://www.dafont.com/dpcamille.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DPCamille.ttf'
 end

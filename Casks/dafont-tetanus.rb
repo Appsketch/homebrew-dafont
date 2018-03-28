@@ -5,7 +5,6 @@ cask 'dafont-tetanus' do
     url 'http://dl.dafont.com/dl/?f=tetanus'
     name 'Tetanus'
     homepage 'http://www.dafont.com/tetanus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tetanus.ttf'
 end

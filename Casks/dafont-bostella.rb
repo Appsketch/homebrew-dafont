@@ -5,7 +5,6 @@ cask 'dafont-bostella' do
     url 'http://dl.dafont.com/dl/?f=bostella'
     name 'Bostella'
     homepage 'http://www.dafont.com/bostella.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bostella&aelig;.ttf'
 end

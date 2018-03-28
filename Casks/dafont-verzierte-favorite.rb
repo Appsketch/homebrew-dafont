@@ -5,7 +5,6 @@ cask 'dafont-verzierte-favorite' do
     url 'http://dl.dafont.com/dl/?f=verzierte_favorite'
     name 'Verzierte Favorite'
     homepage 'http://www.dafont.com/verzierte-favorite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Verzierte Favorite.ttf'
 end

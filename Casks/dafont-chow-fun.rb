@@ -5,7 +5,6 @@ cask 'dafont-chow-fun' do
     url 'http://dl.dafont.com/dl/?f=chow_fun'
     name 'Chow Fun'
     homepage 'http://www.dafont.com/chow-fun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHOWFUN_.TTF'
 end

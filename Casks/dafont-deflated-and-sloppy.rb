@@ -5,7 +5,6 @@ cask 'dafont-deflated-and-sloppy' do
     url 'http://dl.dafont.com/dl/?f=deflated_and_sloppy'
     name 'Deflated And Sloppy'
     homepage 'http://www.dafont.com/deflated-and-sloppy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deflated-And-Sloppy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-oil-crisis' do
     url 'http://dl.dafont.com/dl/?f=oil_crisis'
     name 'Oil Crisis'
     homepage 'http://www.dafont.com/oil-crisis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'oil crisis a.ttf'
     font 'oil crisis b.ttf'

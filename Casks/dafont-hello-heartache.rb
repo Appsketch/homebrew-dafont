@@ -5,7 +5,6 @@ cask 'dafont-hello-heartache' do
     url 'http://dl.dafont.com/dl/?f=hello_heartache'
     name 'Mf Hello Heartache'
     homepage 'http://www.dafont.com/hello-heartache.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Hello Heartache.ttf'
 end

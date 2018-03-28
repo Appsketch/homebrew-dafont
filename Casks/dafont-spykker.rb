@@ -5,7 +5,6 @@ cask 'dafont-spykker' do
     url 'http://dl.dafont.com/dl/?f=spykker'
     name 'Spykker'
     homepage 'http://www.dafont.com/spykker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spykker.TTF'
 end

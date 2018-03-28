@@ -5,7 +5,6 @@ cask 'dafont-ragamuffin' do
     url 'http://dl.dafont.com/dl/?f=ragamuffin'
     name 'Ragamuffin'
     homepage 'http://www.dafont.com/ragamuffin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RAG.TTF'
 end

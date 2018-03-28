@@ -5,7 +5,6 @@ cask 'dafont-melapalooza' do
     url 'http://dl.dafont.com/dl/?f=melapalooza'
     name 'Melapalooza'
     homepage 'http://www.dafont.com/melapalooza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Melapalooza.ttf'
 end

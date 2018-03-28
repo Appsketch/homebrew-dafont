@@ -5,7 +5,6 @@ cask 'dafont-bn-deep-blue' do
     url 'http://dl.dafont.com/dl/?f=bn_deep_blue'
     name 'BN Deep Blue'
     homepage 'http://www.dafont.com/bn-deep-blue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BN Deep Blue.ttf'
 end

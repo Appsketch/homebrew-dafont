@@ -5,7 +5,6 @@ cask 'dafont-yellow-jug' do
     url 'http://dl.dafont.com/dl/?f=yellow_jug'
     name 'Yellow Jug'
     homepage 'http://www.dafont.com/yellow-jug.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yellowjug.ttf'
 end

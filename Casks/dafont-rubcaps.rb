@@ -5,7 +5,6 @@ cask 'dafont-rubcaps' do
     url 'http://dl.dafont.com/dl/?f=rubcaps'
     name 'RubCaps'
     homepage 'http://www.dafont.com/rubcaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RubCaps Autobot.otf'
     font 'RubCaps Decepticon.otf'

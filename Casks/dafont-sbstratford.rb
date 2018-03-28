@@ -5,7 +5,6 @@ cask 'dafont-sbstratford' do
     url 'http://dl.dafont.com/dl/?f=sbstratford'
     name 'SB Stratford'
     homepage 'http://www.dafont.com/sbstratford.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SBStratford.ttf'
 end

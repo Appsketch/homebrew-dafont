@@ -5,7 +5,6 @@ cask 'dafont-lumio' do
     url 'http://dl.dafont.com/dl/?f=lumio'
     name 'Lumio'
     homepage 'http://www.dafont.com/lumio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Young.ttf'
 end

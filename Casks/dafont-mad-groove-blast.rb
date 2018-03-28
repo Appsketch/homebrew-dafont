@@ -5,7 +5,6 @@ cask 'dafont-mad-groove-blast' do
     url 'http://dl.dafont.com/dl/?f=mad_groove_blast'
     name 'Mad Groove Blast'
     homepage 'http://www.dafont.com/mad-groove-blast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mad Groove Blast.ttf'
 end

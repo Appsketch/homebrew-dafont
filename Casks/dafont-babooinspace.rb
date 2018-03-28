@@ -5,7 +5,6 @@ cask 'dafont-babooinspace' do
     url 'http://dl.dafont.com/dl/?f=babooinspace'
     name 'Baboo In Space'
     homepage 'http://www.dafont.com/babooinspace.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BabooInSpace.ttf'
 end

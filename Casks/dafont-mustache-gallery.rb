@@ -5,7 +5,6 @@ cask 'dafont-mustache-gallery' do
     url 'http://dl.dafont.com/dl/?f=mustache_gallery'
     name 'Mustache Gallery'
     homepage 'http://www.dafont.com/mustache-gallery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mustache Gallery.ttf'
 end

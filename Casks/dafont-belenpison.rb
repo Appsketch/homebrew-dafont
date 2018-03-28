@@ -5,7 +5,6 @@ cask 'dafont-belenpison' do
     url 'http://dl.dafont.com/dl/?f=belenpison'
     name 'Belenpison'
     homepage 'http://www.dafont.com/belenpison.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'belenpison.ttf'
 end

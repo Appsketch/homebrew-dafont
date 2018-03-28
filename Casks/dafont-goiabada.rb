@@ -5,7 +5,6 @@ cask 'dafont-goiabada' do
     url 'http://dl.dafont.com/dl/?f=goiabada'
     name 'Goiabada'
     homepage 'http://www.dafont.com/goiabada.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GOIABADA.TTF'
 end

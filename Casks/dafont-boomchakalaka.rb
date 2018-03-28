@@ -5,7 +5,6 @@ cask 'dafont-boomchakalaka' do
     url 'http://dl.dafont.com/dl/?f=boomchakalaka'
     name 'Boomchakalaka'
     homepage 'http://www.dafont.com/boomchakalaka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boomchakalaka.ttf'
 end

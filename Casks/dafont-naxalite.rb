@@ -5,7 +5,6 @@ cask 'dafont-naxalite' do
     url 'http://dl.dafont.com/dl/?f=naxalite'
     name 'Naxalite'
     homepage 'http://www.dafont.com/naxalite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NAXALITE.TTF'
 end

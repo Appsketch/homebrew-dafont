@@ -5,7 +5,6 @@ cask 'dafont-quickness-tt' do
     url 'http://dl.dafont.com/dl/?f=quickness_tt'
     name 'Quickness'
     homepage 'http://www.dafont.com/quickness-tt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuicknessTT.ttf'
 end

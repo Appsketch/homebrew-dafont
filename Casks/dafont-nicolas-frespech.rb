@@ -5,7 +5,6 @@ cask 'dafont-nicolas-frespech' do
     url 'http://dl.dafont.com/dl/?f=nicolas_frespech'
     name 'Nicolas Frespech'
     homepage 'http://www.dafont.com/nicolas-frespech.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nicolas_Frespech.ttf'
 end

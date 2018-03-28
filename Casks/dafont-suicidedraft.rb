@@ -5,7 +5,6 @@ cask 'dafont-suicidedraft' do
     url 'http://dl.dafont.com/dl/?f=suicidedraft'
     name 'Suicide Draft'
     homepage 'http://www.dafont.com/suicidedraft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuicideDraft-Regular.otf'
 end

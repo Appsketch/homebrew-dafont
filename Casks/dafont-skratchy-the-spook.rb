@@ -5,7 +5,6 @@ cask 'dafont-skratchy-the-spook' do
     url 'http://dl.dafont.com/dl/?f=skratchy_the_spook'
     name 'Skratchy the Spook'
     homepage 'http://www.dafont.com/skratchy-the-spook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skratchy_v1.ttf'
 end

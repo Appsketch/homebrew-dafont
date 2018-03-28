@@ -5,7 +5,6 @@ cask 'dafont-concavetuscan-beveled' do
     url 'http://dl.dafont.com/dl/?f=concavetuscan_beveled'
     name 'Concave Tuscan'
     homepage 'http://www.dafont.com/concavetuscan-beveled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ConcaveTuscan Beveled.ttf'
 end

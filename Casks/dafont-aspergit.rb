@@ -5,7 +5,6 @@ cask 'dafont-aspergit' do
     url 'http://dl.dafont.com/dl/?f=aspergit'
     name 'Aspergit'
     homepage 'http://www.dafont.com/aspergit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aspergit Bold Italic.otf'
     font 'Aspergit Bold.otf'

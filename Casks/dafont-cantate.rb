@@ -5,7 +5,6 @@ cask 'dafont-cantate' do
     url 'http://dl.dafont.com/dl/?f=cantate'
     name 'Cantate'
     homepage 'http://www.dafont.com/cantate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cantate Beveled.ttf'
 end

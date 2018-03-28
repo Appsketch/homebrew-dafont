@@ -5,7 +5,6 @@ cask 'dafont-wina' do
     url 'http://dl.dafont.com/dl/?f=wina'
     name 'Wina'
     homepage 'http://www.dafont.com/wina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wina.ttf'
 end

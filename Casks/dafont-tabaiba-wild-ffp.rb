@@ -5,7 +5,6 @@ cask 'dafont-tabaiba-wild-ffp' do
     url 'http://dl.dafont.com/dl/?f=tabaiba_wild_ffp'
     name 'Tabaiba wild FFP'
     homepage 'http://www.dafont.com/tabaiba-wild-ffp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tabaiba-wild-italic-personal-use.ttf'
     font 'Tabaiba-wild-personal-use.ttf'

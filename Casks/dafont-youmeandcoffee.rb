@@ -5,7 +5,6 @@ cask 'dafont-youmeandcoffee' do
     url 'http://dl.dafont.com/dl/?f=youmeandcoffee'
     name 'You Me And Coffee'
     homepage 'http://www.dafont.com/youmeandcoffee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'You Me And Coffee.ttf'
 end

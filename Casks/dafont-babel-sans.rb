@@ -5,7 +5,6 @@ cask 'dafont-babel-sans' do
     url 'http://dl.dafont.com/dl/?f=babel_sans'
     name 'Babel Sans'
     homepage 'http://www.dafont.com/babel-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BabelSans-Bold.ttf'
     font 'BabelSans-BoldOblique.ttf'

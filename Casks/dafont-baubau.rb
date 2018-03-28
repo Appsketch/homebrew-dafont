@@ -5,7 +5,6 @@ cask 'dafont-baubau' do
     url 'http://dl.dafont.com/dl/?f=baubau'
     name 'Baubau'
     homepage 'http://www.dafont.com/baubau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baubau.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dark-times' do
     url 'http://dl.dafont.com/dl/?f=dark_times'
     name 'Dark Times'
     homepage 'http://www.dafont.com/dark-times.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dark Times Black.ttf'
     font 'Dark Times.ttf'

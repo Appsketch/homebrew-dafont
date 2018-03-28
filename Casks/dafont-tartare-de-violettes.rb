@@ -5,7 +5,6 @@ cask 'dafont-tartare-de-violettes' do
     url 'http://dl.dafont.com/dl/?f=tartare_de_violettes'
     name 'Tartare de Violettes'
     homepage 'http://www.dafont.com/tartare-de-violettes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tartare de Violettes.ttf'
 end

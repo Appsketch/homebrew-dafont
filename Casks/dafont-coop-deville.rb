@@ -5,7 +5,6 @@ cask 'dafont-coop-deville' do
     url 'http://dl.dafont.com/dl/?f=coop_deville'
     name 'Coop Deville'
     homepage 'http://www.dafont.com/coop-deville.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COOPDEVI.TTF'
 end

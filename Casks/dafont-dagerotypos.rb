@@ -5,7 +5,6 @@ cask 'dafont-dagerotypos' do
     url 'http://dl.dafont.com/dl/?f=dagerotypos'
     name 'Dagerotypos'
     homepage 'http://www.dafont.com/dagerotypos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dagerotypos_0003.ttf'
 end

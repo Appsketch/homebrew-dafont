@@ -5,7 +5,6 @@ cask 'dafont-mark-it' do
     url 'http://dl.dafont.com/dl/?f=mark_it'
     name 'Mark It!'
     homepage 'http://www.dafont.com/mark-it.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mark It!.otf'
 end

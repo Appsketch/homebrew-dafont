@@ -5,7 +5,6 @@ cask 'dafont-raw-district-fp' do
     url 'http://dl.dafont.com/dl/?f=raw_district_fp'
     name 'Raw District FP'
     homepage 'http://www.dafont.com/raw-district-fp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raw District.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-only-when-i-do-font' do
     url 'http://dl.dafont.com/dl/?f=only_when_i_do_font'
     name 'Only When I Do Fonts'
     homepage 'http://www.dafont.com/only-when-i-do-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'onlywif_.ttf'
 end

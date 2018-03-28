@@ -5,7 +5,6 @@ cask 'dafont-where-wolf' do
     url 'http://dl.dafont.com/dl/?f=where_wolf'
     name 'Where Wolf'
     homepage 'http://www.dafont.com/where-wolf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'where wolf.ttf'
 end

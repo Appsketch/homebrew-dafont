@@ -5,7 +5,6 @@ cask 'dafont-graphic-cat' do
     url 'http://dl.dafont.com/dl/?f=graphic_cat'
     name 'Graphic CAT'
     homepage 'http://www.dafont.com/graphic-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GraphicCAT.ttf'
     font 'Lichte Graphic CAT.ttf'

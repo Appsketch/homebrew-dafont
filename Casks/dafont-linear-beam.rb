@@ -5,7 +5,6 @@ cask 'dafont-linear-beam' do
     url 'http://dl.dafont.com/dl/?f=linear_beam'
     name 'Linear Beam'
     homepage 'http://www.dafont.com/linear-beam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Linebeam.ttf'
 end

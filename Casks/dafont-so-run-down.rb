@@ -5,7 +5,6 @@ cask 'dafont-so-run-down' do
     url 'http://dl.dafont.com/dl/?f=so_run_down'
     name 'So Run Down'
     homepage 'http://www.dafont.com/so-run-down.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'so run down.ttf'
 end

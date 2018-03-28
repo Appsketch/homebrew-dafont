@@ -5,7 +5,6 @@ cask 'dafont-cryoneduc' do
     url 'http://dl.dafont.com/dl/?f=cryoneduc'
     name 'Cry One Duc'
     homepage 'http://www.dafont.com/cryoneduc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CryOneDUC-Plain.ttf'
 end

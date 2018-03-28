@@ -5,7 +5,6 @@ cask 'dafont-streetvertising-public' do
     url 'http://dl.dafont.com/dl/?f=streetvertising_public'
     name 'Streetvertising Public'
     homepage 'http://www.dafont.com/streetvertising-public.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Streetvertising Bold public.ttf'
     font 'Streetvertising Light public.ttf'

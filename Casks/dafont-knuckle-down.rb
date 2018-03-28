@@ -5,7 +5,6 @@ cask 'dafont-knuckle-down' do
     url 'http://dl.dafont.com/dl/?f=knuckle_down'
     name 'Knuckle Down'
     homepage 'http://www.dafont.com/knuckle-down.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'knuckle down.ttf'
 end

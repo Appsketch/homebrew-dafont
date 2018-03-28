@@ -5,7 +5,6 @@ cask 'dafont-chateaux-des-olives' do
     url 'http://dl.dafont.com/dl/?f=chateaux_des_olives'
     name 'Chateaux des Olives'
     homepage 'http://www.dafont.com/chateaux-des-olives.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chateaux des Olives.ttf'
 end

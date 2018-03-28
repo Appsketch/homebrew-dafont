@@ -5,7 +5,6 @@ cask 'dafont-leonardo-hand-f' do
     url 'http://dl.dafont.com/dl/?f=leonardo_hand_f'
     name 'Leonardo Hand F'
     homepage 'http://www.dafont.com/leonardo-hand-f.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Leonardo Hand F.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-booblr-by-thunderpanda' do
     url 'http://dl.dafont.com/dl/?f=booblr_by_thunderpanda'
     name 'Booblr by Thunderpanda'
     homepage 'http://www.dafont.com/booblr-by-thunderpanda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'booblr_by_Thunderpanda_1-02.ttf'
 end

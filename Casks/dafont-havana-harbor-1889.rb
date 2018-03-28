@@ -5,7 +5,6 @@ cask 'dafont-havana-harbor-1889' do
     url 'http://dl.dafont.com/dl/?f=havana_harbor_1889'
     name 'Havana Harbor 1889'
     homepage 'http://www.dafont.com/havana-harbor-1889.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HavanaHarbor1889.ttf'
 end

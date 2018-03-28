@@ -5,7 +5,6 @@ cask 'dafont-apurado-royitto-st' do
     url 'http://dl.dafont.com/dl/?f=apurado_royitto_st'
     name 'Apurado Royitto St'
     homepage 'http://www.dafont.com/apurado-royitto-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Apurado Royitto st.ttf'
 end

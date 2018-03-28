@@ -5,7 +5,6 @@ cask 'dafont-slam' do
     url 'http://dl.dafont.com/dl/?f=slam'
     name 'Slam'
     homepage 'http://www.dafont.com/slam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slam updated.ttf'
 end

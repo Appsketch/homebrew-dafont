@@ -5,7 +5,6 @@ cask 'dafont-skateboarding' do
     url 'http://dl.dafont.com/dl/?f=_skateboarding'
     name '(skateboarding)'
     homepage 'http://www.dafont.com/-skateboarding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skateboarding_29.ttf'
 end

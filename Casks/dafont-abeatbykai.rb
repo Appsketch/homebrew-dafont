@@ -5,7 +5,6 @@ cask 'dafont-abeatbykai' do
     url 'http://dl.dafont.com/dl/?f=abeatbykai'
     name 'Abeat by Kai'
     homepage 'http://www.dafont.com/abeatbykai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ABEAKRG.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fonts-bomb-i-love-grapes' do
     url 'http://dl.dafont.com/dl/?f=fonts_bomb_i_love_grapes'
     name 'Fonts Bomb I love grapes'
     homepage 'http://www.dafont.com/fonts-bomb-i-love-grapes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fonts Bomb I love grapes.ttf'
 end

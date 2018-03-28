@@ -5,7 +5,6 @@ cask 'dafont-guest-circus-paradiso' do
     url 'http://dl.dafont.com/dl/?f=guest_circus_paradiso'
     name 'Guest Circus Paradiso'
     homepage 'http://www.dafont.com/guest-circus-paradiso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Guest Circus Paradiso.otf'
 end

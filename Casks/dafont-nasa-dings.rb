@@ -5,7 +5,6 @@ cask 'dafont-nasa-dings' do
     url 'http://dl.dafont.com/dl/?f=nasa_dings'
     name 'NASA Dings'
     homepage 'http://www.dafont.com/nasa-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nasadings.ttf'
 end

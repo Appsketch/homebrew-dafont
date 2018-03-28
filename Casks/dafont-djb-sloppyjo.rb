@@ -5,7 +5,6 @@ cask 'dafont-djb-sloppyjo' do
     url 'http://dl.dafont.com/dl/?f=djb_sloppyjo'
     name 'DJB Sloppyjo'
     homepage 'http://www.dafont.com/djb-sloppyjo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB SLOPPYJO.ttf'
 end

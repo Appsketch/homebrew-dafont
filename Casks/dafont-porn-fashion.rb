@@ -5,7 +5,6 @@ cask 'dafont-porn-fashion' do
     url 'http://dl.dafont.com/dl/?f=porn_fashion'
     name 'Porn Fashion'
     homepage 'http://www.dafont.com/porn-fashion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PORN FASHION trial.ttf'
 end

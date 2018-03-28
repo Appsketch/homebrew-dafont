@@ -5,7 +5,6 @@ cask 'dafont-sammies-sans-serif' do
     url 'http://dl.dafont.com/dl/?f=sammies_sans_serif'
     name 'Sammies Sans Serif'
     homepage 'http://www.dafont.com/sammies-sans-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sammies_sansserif_mixedup.ttf'
     font 'Sammies_sansserif.ttf'

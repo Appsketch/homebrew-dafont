@@ -5,7 +5,6 @@ cask 'dafont-eightballer' do
     url 'http://dl.dafont.com/dl/?f=eightballer'
     name 'EightBaller'
     homepage 'http://www.dafont.com/eightballer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EightBaller.ttf'
 end

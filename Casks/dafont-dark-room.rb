@@ -5,7 +5,6 @@ cask 'dafont-dark-room' do
     url 'http://dl.dafont.com/dl/?f=dark_room'
     name 'Dark Room'
     homepage 'http://www.dafont.com/dark-room.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dark Room.ttf'
 end

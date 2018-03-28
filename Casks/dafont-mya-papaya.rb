@@ -5,7 +5,6 @@ cask 'dafont-mya-papaya' do
     url 'http://dl.dafont.com/dl/?f=mya_papaya'
     name 'Mya Papaya'
     homepage 'http://www.dafont.com/mya-papaya.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MyaPapaya-Regular.ttf'
 end

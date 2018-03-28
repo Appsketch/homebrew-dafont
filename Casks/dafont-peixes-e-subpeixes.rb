@@ -5,7 +5,6 @@ cask 'dafont-peixes-e-subpeixes' do
     url 'http://dl.dafont.com/dl/?f=peixes_e_subpeixes'
     name 'Olho De Peixe'
     homepage 'http://www.dafont.com/peixes-e-subpeixes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Olho De Peixe.ttf'
     font 'Peixes E Subpeixes.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-war-brush' do
     url 'http://dl.dafont.com/dl/?f=war_brush'
     name 'War Brush'
     homepage 'http://www.dafont.com/war-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WARBRUSH.ttf'
 end

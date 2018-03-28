@@ -5,7 +5,6 @@ cask 'dafont-evil-conspiracy' do
     url 'http://dl.dafont.com/dl/?f=evil_conspiracy'
     name 'Evil Conspiracy'
     homepage 'http://www.dafont.com/evil-conspiracy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'evil_conspiracy_regular.ttf'
     font 'evil_conspiracy_shadow.ttf'

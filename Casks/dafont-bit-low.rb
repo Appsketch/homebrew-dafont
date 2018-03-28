@@ -5,7 +5,6 @@ cask 'dafont-bit-low' do
     url 'http://dl.dafont.com/dl/?f=bit_low'
     name 'Bit Low'
     homepage 'http://www.dafont.com/bit-low.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bitlow.ttf'
 end

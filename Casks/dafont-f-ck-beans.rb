@@ -5,7 +5,6 @@ cask 'dafont-f-ck-beans' do
     url 'http://dl.dafont.com/dl/?f=f_ck_beans'
     name 'F*ck Beans'
     homepage 'http://www.dafont.com/f-ck-beans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'F_ck Beans Bold Italic.ttf'
     font 'F_ck Beans Bold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-havlova-austral' do
     url 'http://dl.dafont.com/dl/?f=havlova_austral'
     name 'Havlova Austral'
     homepage 'http://www.dafont.com/havlova-austral.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HAVLA___.ttf'
 end

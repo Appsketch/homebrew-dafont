@@ -5,7 +5,6 @@ cask 'dafont-pinewood' do
     url 'http://dl.dafont.com/dl/?f=pinewood'
     name 'Pinewood'
     homepage 'http://www.dafont.com/pinewood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PINEWOOD.TTF'
 end

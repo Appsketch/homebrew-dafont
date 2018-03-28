@@ -5,7 +5,6 @@ cask 'dafont-amazing-grotesk' do
     url 'http://dl.dafont.com/dl/?f=amazing_grotesk'
     name 'Amazing Grotesk'
     homepage 'http://www.dafont.com/amazing-grotesk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amazing Grotesk Book Italic.otf'
     font 'Amazing Grotesk Book.otf'

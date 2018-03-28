@@ -5,7 +5,6 @@ cask 'dafont-comic-arousa' do
     url 'http://dl.dafont.com/dl/?f=comic_arousa'
     name 'Comic Arousa'
     homepage 'http://www.dafont.com/comic-arousa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'comicarousa.ttf'
 end

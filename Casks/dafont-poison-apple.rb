@@ -5,7 +5,6 @@ cask 'dafont-poison-apple' do
     url 'http://dl.dafont.com/dl/?f=poison_apple'
     name 'Poison Apple'
     homepage 'http://www.dafont.com/poison-apple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Poison Apple Regular DEMO.ttf'
 end

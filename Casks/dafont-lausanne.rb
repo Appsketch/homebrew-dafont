@@ -5,7 +5,6 @@ cask 'dafont-lausanne' do
     url 'http://dl.dafont.com/dl/?f=lausanne'
     name 'Lausanne'
     homepage 'http://www.dafont.com/lausanne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lausanne.ttf'
 end

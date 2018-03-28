@@ -5,7 +5,6 @@ cask 'dafont-samoerai' do
     url 'http://dl.dafont.com/dl/?f=samoerai'
     name 'Samoerai'
     homepage 'http://www.dafont.com/samoerai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Samoerai_Typeface.otf'
 end

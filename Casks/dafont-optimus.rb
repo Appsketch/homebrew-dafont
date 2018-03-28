@@ -5,7 +5,6 @@ cask 'dafont-optimus' do
     url 'http://dl.dafont.com/dl/?f=optimus'
     name 'Optimus'
     homepage 'http://www.dafont.com/optimus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Optimus Bold Italic.otf'
     font 'Optimus Bold.otf'

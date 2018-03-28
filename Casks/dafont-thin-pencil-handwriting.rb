@@ -5,7 +5,6 @@ cask 'dafont-thin-pencil-handwriting' do
     url 'http://dl.dafont.com/dl/?f=thin_pencil_handwriting'
     name 'Thin Pencil Handwriting'
     homepage 'http://www.dafont.com/thin-pencil-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thin Pencil Handwriting.otf'
 end

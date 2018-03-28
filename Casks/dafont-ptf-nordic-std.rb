@@ -5,7 +5,6 @@ cask 'dafont-ptf-nordic-std' do
     url 'http://dl.dafont.com/dl/?f=ptf_nordic_std'
     name 'PTF Nordic Std'
     homepage 'http://www.dafont.com/ptf-nordic-std.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PTF-NORDIC-Std.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-olopus' do
     url 'http://dl.dafont.com/dl/?f=olopus'
     name 'Olopus'
     homepage 'http://www.dafont.com/olopus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OLOPUS.TTF'
 end

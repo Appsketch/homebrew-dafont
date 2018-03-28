@@ -5,7 +5,6 @@ cask 'dafont-british-quest' do
     url 'http://dl.dafont.com/dl/?f=british_quest'
     name 'British Quest'
     homepage 'http://www.dafont.com/british-quest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'British Quest.otf'
 end

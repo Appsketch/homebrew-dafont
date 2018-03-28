@@ -5,7 +5,6 @@ cask 'dafont-forte' do
     url 'http://dl.dafont.com/dl/?f=forte'
     name 'Forte'
     homepage 'http://www.dafont.com/forte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Forte-Fill.ttf'
     font 'Forte-Line.ttf'

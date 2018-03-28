@@ -5,7 +5,6 @@ cask 'dafont-starshine-mf' do
     url 'http://dl.dafont.com/dl/?f=starshine_mf'
     name 'Starshine MF'
     homepage 'http://www.dafont.com/starshine-mf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StarshineMF.ttf'
 end

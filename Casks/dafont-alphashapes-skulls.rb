@@ -5,7 +5,6 @@ cask 'dafont-alphashapes-skulls' do
     url 'http://dl.dafont.com/dl/?f=alphashapes_skulls'
     name 'AlphaShapes skulls'
     homepage 'http://www.dafont.com/alphashapes-skulls.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'asskulls.ttf'
 end

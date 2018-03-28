@@ -5,7 +5,6 @@ cask 'dafont-whatsapp-emoticons' do
     url 'http://dl.dafont.com/dl/?f=whatsapp_emoticons'
     name 'Whatsapp emoticons'
     homepage 'http://www.dafont.com/whatsapp-emoticons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'whatsapp emoticons.ttf'
 end

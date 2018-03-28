@@ -5,7 +5,6 @@ cask 'dafont-instant-graffitication' do
     url 'http://dl.dafont.com/dl/?f=instant_graffitication'
     name 'Instant Graffitication'
     homepage 'http://www.dafont.com/instant-graffitication.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InstantGraffitication.ttf'
 end

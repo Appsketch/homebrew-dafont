@@ -5,7 +5,6 @@ cask 'dafont-futurahand' do
     url 'http://dl.dafont.com/dl/?f=futurahand'
     name 'Futura Hand'
     homepage 'http://www.dafont.com/futurahand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FuturaHand.ttf'
 end

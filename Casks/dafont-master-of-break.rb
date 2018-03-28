@@ -5,7 +5,6 @@ cask 'dafont-master-of-break' do
     url 'http://dl.dafont.com/dl/?f=master_of_break'
     name 'Master Of Break'
     homepage 'http://www.dafont.com/master-of-break.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'master_of_break.ttf'
 end

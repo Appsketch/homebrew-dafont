@@ -5,7 +5,6 @@ cask 'dafont-sloe-gin-rickey' do
     url 'http://dl.dafont.com/dl/?f=sloe_gin_rickey'
     name 'Sloe Gin Rickey'
     homepage 'http://www.dafont.com/sloe-gin-rickey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sloe gin rickey.ttf'
 end

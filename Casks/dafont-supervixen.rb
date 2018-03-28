@@ -5,7 +5,6 @@ cask 'dafont-supervixen' do
     url 'http://dl.dafont.com/dl/?f=supervixen'
     name 'Supervixen'
     homepage 'http://www.dafont.com/supervixen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPEHO__.TTF'
     font 'SUPERVIX.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-handform' do
     url 'http://dl.dafont.com/dl/?f=handform'
     name 'Handform'
     homepage 'http://www.dafont.com/handform.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'handform.ttf'
 end

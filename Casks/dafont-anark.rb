@@ -5,7 +5,6 @@ cask 'dafont-anark' do
     url 'http://dl.dafont.com/dl/?f=anark'
     name 'AnarK'
     homepage 'http://www.dafont.com/anark.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnarK.ttf'
 end

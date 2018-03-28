@@ -5,7 +5,6 @@ cask 'dafont-givre' do
     url 'http://dl.dafont.com/dl/?f=givre'
     name 'Givre'
     homepage 'http://www.dafont.com/givre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GIVRE.TTF'
 end

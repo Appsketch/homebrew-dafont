@@ -5,7 +5,6 @@ cask 'dafont-cf-jeans-collection' do
     url 'http://dl.dafont.com/dl/?f=cf_jeans_collection'
     name 'CF Jeans Collection'
     homepage 'http://www.dafont.com/cf-jeans-collection.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFJeansCollection-Regular.ttf'
 end

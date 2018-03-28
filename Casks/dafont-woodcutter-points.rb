@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-points' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_points'
     name 'Woodcutter Points'
     homepage 'http://www.dafont.com/woodcutter-points.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Woodcutter Points.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-newhork' do
     url 'http://dl.dafont.com/dl/?f=newhork'
     name 'Newhork'
     homepage 'http://www.dafont.com/newhork.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEWHORKBold.ttf'
     font 'NEWHORKBook.ttf'

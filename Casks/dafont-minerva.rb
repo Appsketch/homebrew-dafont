@@ -5,7 +5,6 @@ cask 'dafont-minerva' do
     url 'http://dl.dafont.com/dl/?f=minerva'
     name 'Minerva'
     homepage 'http://www.dafont.com/minerva.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Minerva Bold Italic.otf'
     font 'Minerva Bold.otf'

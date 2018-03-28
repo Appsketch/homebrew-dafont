@@ -5,7 +5,6 @@ cask 'dafont-baketvalley-old-face' do
     url 'http://dl.dafont.com/dl/?f=baketvalley_old_face'
     name 'Baketvalley Old Face'
     homepage 'http://www.dafont.com/baketvalley-old-face.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'baskervalley_old_face.ttf'
 end

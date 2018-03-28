@@ -5,7 +5,6 @@ cask 'dafont-discipuli-britannica' do
     url 'http://dl.dafont.com/dl/?f=discipuli_britannica'
     name 'Discipuli Britannica'
     homepage 'http://www.dafont.com/discipuli-britannica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Discipuli Britannica Bold.ttf'
     font 'Discipuli Britannica.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-mlb-tuscan' do
     url 'http://dl.dafont.com/dl/?f=mlb_tuscan'
     name 'MLB Tuscan'
     homepage 'http://www.dafont.com/mlb-tuscan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MLBTUSCA.TTF'
 end

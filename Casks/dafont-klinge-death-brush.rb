@@ -5,7 +5,6 @@ cask 'dafont-klinge-death-brush' do
     url 'http://dl.dafont.com/dl/?f=klinge_death_brush'
     name 'Klinge Death Brush'
     homepage 'http://www.dafont.com/klinge-death-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Klinge Death Brush.ttf'
 end

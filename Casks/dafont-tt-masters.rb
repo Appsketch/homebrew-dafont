@@ -5,7 +5,6 @@ cask 'dafont-tt-masters' do
     url 'http://dl.dafont.com/dl/?f=tt_masters'
     name 'TT Masters'
     homepage 'http://www.dafont.com/tt-masters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TT Masters DEMO Birds Regular.otf'
     font 'TT Masters DEMO Black.otf'

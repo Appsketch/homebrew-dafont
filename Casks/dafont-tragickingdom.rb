@@ -5,7 +5,6 @@ cask 'dafont-tragickingdom' do
     url 'http://dl.dafont.com/dl/?f=tragickingdom'
     name 'Tragic Kingdom'
     homepage 'http://www.dafont.com/tragickingdom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TragicKingdom.ttf'
 end

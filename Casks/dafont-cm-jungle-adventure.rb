@@ -5,7 +5,6 @@ cask 'dafont-cm-jungle-adventure' do
     url 'http://dl.dafont.com/dl/?f=cm_jungle_adventure'
     name 'CM Jungle Adventure'
     homepage 'http://www.dafont.com/cm-jungle-adventure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CMJungleAdventure.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-paulinho-pedra-azul' do
     url 'http://dl.dafont.com/dl/?f=paulinho_pedra_azul'
     name 'Paulinho Pedra Azul'
     homepage 'http://www.dafont.com/paulinho-pedra-azul.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAULPAN_.TTF'
 end

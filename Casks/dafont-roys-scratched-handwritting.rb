@@ -5,7 +5,6 @@ cask 'dafont-roys-scratched-handwritting' do
     url 'http://dl.dafont.com/dl/?f=roys_scratched_handwritting'
     name 'Roy&#039;s Scratched Handwritting'
     homepage 'http://www.dafont.com/roys-scratched-handwritting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Roy s Scratched Handwritting.ttf'
 end

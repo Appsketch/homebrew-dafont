@@ -5,7 +5,6 @@ cask 'dafont-debute' do
     url 'http://dl.dafont.com/dl/?f=debute'
     name 'Debute'
     homepage 'http://www.dafont.com/debute.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Debute.otf'
 end

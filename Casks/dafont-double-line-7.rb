@@ -5,7 +5,6 @@ cask 'dafont-double-line-7' do
     url 'http://dl.dafont.com/dl/?f=double_line_7'
     name 'Double Line 7'
     homepage 'http://www.dafont.com/double-line-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'double_line_7.ttf'
 end

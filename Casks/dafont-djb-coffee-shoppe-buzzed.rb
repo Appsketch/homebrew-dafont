@@ -5,7 +5,6 @@ cask 'dafont-djb-coffee-shoppe-buzzed' do
     url 'http://dl.dafont.com/dl/?f=djb_coffee_shoppe_buzzed'
     name 'DJB Coffee Shoppe Buzzed'
     homepage 'http://www.dafont.com/djb-coffee-shoppe-buzzed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Coffee Shoppe Buzzed.ttf'
 end

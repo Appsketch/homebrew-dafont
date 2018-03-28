@@ -5,7 +5,6 @@ cask 'dafont-darthfader' do
     url 'http://dl.dafont.com/dl/?f=darthfader'
     name 'DarthFader'
     homepage 'http://www.dafont.com/darthfader.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DarthFader.ttf'
 end

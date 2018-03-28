@@ -5,7 +5,6 @@ cask 'dafont-vtks-pedra-bruta' do
     url 'http://dl.dafont.com/dl/?f=vtks_pedra_bruta'
     name 'Vtks Pedra Bruta'
     homepage 'http://www.dafont.com/vtks-pedra-bruta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Pedra Bruta.ttf'
 end

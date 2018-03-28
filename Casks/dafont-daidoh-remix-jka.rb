@@ -5,7 +5,6 @@ cask 'dafont-daidoh-remix-jka' do
     url 'http://dl.dafont.com/dl/?f=daidoh_remix_jka'
     name 'Daidoh Remix JKA'
     homepage 'http://www.dafont.com/daidoh-remix-jka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'daidrrj_.ttf'
     font 'daidrrjs.ttf'

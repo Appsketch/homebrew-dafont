@@ -5,7 +5,6 @@ cask 'dafont-trireme' do
     url 'http://dl.dafont.com/dl/?f=trireme'
     name 'Trireme '
     homepage 'http://www.dafont.com/trireme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'trireme.ttf'
     font 'trireme3d.ttf'

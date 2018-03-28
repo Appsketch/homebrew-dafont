@@ -5,7 +5,6 @@ cask 'dafont-chocolate-muffin' do
     url 'http://dl.dafont.com/dl/?f=chocolate_muffin'
     name 'Chocolate Muffin'
     homepage 'http://www.dafont.com/chocolate-muffin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chocolate_Muffin.ttf'
 end

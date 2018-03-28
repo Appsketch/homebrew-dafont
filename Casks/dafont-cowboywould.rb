@@ -5,7 +5,6 @@ cask 'dafont-cowboywould' do
     url 'http://dl.dafont.com/dl/?f=cowboywould'
     name 'Cowboy Would'
     homepage 'http://www.dafont.com/cowboywould.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CowboyWould.ttf'
 end

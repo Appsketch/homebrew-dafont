@@ -5,7 +5,6 @@ cask 'dafont-gladiator-sport' do
     url 'http://dl.dafont.com/dl/?f=gladiator_sport'
     name 'Gladiator Sport'
     homepage 'http://www.dafont.com/gladiator-sport.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GLADIATOR SPORT.ttf'
 end

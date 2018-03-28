@@ -5,7 +5,6 @@ cask 'dafont-papa-bear' do
     url 'http://dl.dafont.com/dl/?f=papa_bear'
     name 'Papa Bear'
     homepage 'http://www.dafont.com/papa-bear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Papa Bear.ttf'
 end

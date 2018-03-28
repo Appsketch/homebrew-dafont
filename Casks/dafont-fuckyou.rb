@@ -5,7 +5,6 @@ cask 'dafont-fuckyou' do
     url 'http://dl.dafont.com/dl/?f=fuckyou'
     name 'FuckYou'
     homepage 'http://www.dafont.com/fuckyou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FuckYouv2.ttf'
 end

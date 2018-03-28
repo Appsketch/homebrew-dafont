@@ -5,7 +5,6 @@ cask 'dafont-spiked' do
     url 'http://dl.dafont.com/dl/?f=spiked'
     name 'Spiked'
     homepage 'http://www.dafont.com/spiked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spiked-Regular.otf'
     font 'Spiked-Regular.ttf'

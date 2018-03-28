@@ -5,7 +5,6 @@ cask 'dafont-jean-claudes-hand' do
     url 'http://dl.dafont.com/dl/?f=jean_claudes_hand'
     name 'Jean-Claude&#039;s hand'
     homepage 'http://www.dafont.com/jean-claudes-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JCM.ttf'
 end

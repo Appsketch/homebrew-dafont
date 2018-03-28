@@ -5,7 +5,6 @@ cask 'dafont-mkf-tiler' do
     url 'http://dl.dafont.com/dl/?f=mkf_tiler'
     name 'MKF Tiler'
     homepage 'http://www.dafont.com/mkf-tiler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MKFTiler.ttf'
 end

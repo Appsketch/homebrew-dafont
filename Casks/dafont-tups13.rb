@@ -5,7 +5,6 @@ cask 'dafont-tups13' do
     url 'http://dl.dafont.com/dl/?f=tups13'
     name 'Tups13'
     homepage 'http://www.dafont.com/tups13.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tups13.ttf'
 end

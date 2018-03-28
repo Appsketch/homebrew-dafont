@@ -5,7 +5,6 @@ cask 'dafont-les-suppos' do
     url 'http://dl.dafont.com/dl/?f=les_suppos'
     name 'Les Suppos'
     homepage 'http://www.dafont.com/les-suppos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Les Suppos.ttf'
 end

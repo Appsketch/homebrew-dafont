@@ -5,7 +5,6 @@ cask 'dafont-bubbleboddy-neue' do
     url 'http://dl.dafont.com/dl/?f=bubbleboddy_neue'
     name 'Bubbleboddy Neue'
     homepage 'http://www.dafont.com/bubbleboddy-neue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BubbleboddyNeue-Bold Trial.ttf'
     font 'BubbleboddyNeue-ExtraBold Trial.ttf'

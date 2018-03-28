@@ -5,7 +5,6 @@ cask 'dafont-mosku' do
     url 'http://dl.dafont.com/dl/?f=mosku'
     name 'Mosku'
     homepage 'http://www.dafont.com/mosku.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mOSkU.ttf'
 end

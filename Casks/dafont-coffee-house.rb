@@ -5,7 +5,6 @@ cask 'dafont-coffee-house' do
     url 'http://dl.dafont.com/dl/?f=coffee_house'
     name 'Coffee House'
     homepage 'http://www.dafont.com/coffee-house.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coffee House.ttf'
 end

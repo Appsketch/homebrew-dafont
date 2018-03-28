@@ -5,7 +5,6 @@ cask 'dafont-rotorblock-chamfer' do
     url 'http://dl.dafont.com/dl/?f=rotorblock_chamfer'
     name 'RotorBlock Chamfer'
     homepage 'http://www.dafont.com/rotorblock-chamfer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROTORblock-Chamfer.otf'
 end

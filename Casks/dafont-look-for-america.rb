@@ -5,7 +5,6 @@ cask 'dafont-look-for-america' do
     url 'http://dl.dafont.com/dl/?f=look_for_america'
     name 'Look for America'
     homepage 'http://www.dafont.com/look-for-america.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOOKA___.TTF'
 end

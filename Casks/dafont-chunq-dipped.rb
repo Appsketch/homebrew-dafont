@@ -5,7 +5,6 @@ cask 'dafont-chunq-dipped' do
     url 'http://dl.dafont.com/dl/?f=chunq_dipped'
     name 'Chunq Dipped'
     homepage 'http://www.dafont.com/chunq-dipped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chunq Dipped.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kremlin-georgian-i-3d' do
     url 'http://dl.dafont.com/dl/?f=kremlin_georgian_i_3d'
     name 'Kremlin Georgian'
     homepage 'http://www.dafont.com/kremlin-georgian-i-3d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Geogian I 3D.ttf'
 end

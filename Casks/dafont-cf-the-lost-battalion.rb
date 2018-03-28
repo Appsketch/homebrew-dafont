@@ -5,7 +5,6 @@ cask 'dafont-cf-the-lost-battalion' do
     url 'http://dl.dafont.com/dl/?f=cf_the_lost_battalion'
     name 'CF The Lost Battalion'
     homepage 'http://www.dafont.com/cf-the-lost-battalion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFThelostbattalion.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yokawerad' do
     url 'http://dl.dafont.com/dl/?f=yokawerad'
     name 'Yokawerad'
     homepage 'http://www.dafont.com/yokawerad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yokawerad.otf'
 end

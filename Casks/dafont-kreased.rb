@@ -5,7 +5,6 @@ cask 'dafont-kreased' do
     url 'http://dl.dafont.com/dl/?f=kreased'
     name 'Kreased'
     homepage 'http://www.dafont.com/kreased.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kreased_remix.ttf'
     font 'kreased.ttf'

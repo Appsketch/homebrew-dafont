@@ -5,7 +5,6 @@ cask 'dafont-antlers-demo' do
     url 'http://dl.dafont.com/dl/?f=antlers_demo'
     name 'Antlers'
     homepage 'http://www.dafont.com/antlers-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Antlers_Demo.ttf'
 end

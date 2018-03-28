@@ -5,7 +5,6 @@ cask 'dafont-sarus-flower-ding' do
     url 'http://dl.dafont.com/dl/?f=sarus_flower_ding'
     name 'Saru&#039;s Flower Ding'
     homepage 'http://www.dafont.com/sarus-flower-ding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sarusFlowerDing(sRB).TTF'
 end

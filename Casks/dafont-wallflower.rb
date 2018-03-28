@@ -5,7 +5,6 @@ cask 'dafont-wallflower' do
     url 'http://dl.dafont.com/dl/?f=wallflower'
     name 'Wallflower'
     homepage 'http://www.dafont.com/wallflower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wallflower.ttf'
 end

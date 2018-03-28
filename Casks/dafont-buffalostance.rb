@@ -5,7 +5,6 @@ cask 'dafont-buffalostance' do
     url 'http://dl.dafont.com/dl/?f=buffalostance'
     name 'Buffalo Stance'
     homepage 'http://www.dafont.com/buffalostance.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BSTTRIAL.ttf'
 end

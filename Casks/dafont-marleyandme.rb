@@ -5,7 +5,6 @@ cask 'dafont-marleyandme' do
     url 'http://dl.dafont.com/dl/?f=marleyandme'
     name 'Marley and Me'
     homepage 'http://www.dafont.com/marleyandme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MarleyandMe.ttf'
 end

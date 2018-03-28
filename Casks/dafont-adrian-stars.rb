@@ -5,7 +5,6 @@ cask 'dafont-adrian-stars' do
     url 'http://dl.dafont.com/dl/?f=adrian_stars'
     name 'Adrian Stars'
     homepage 'http://www.dafont.com/adrian-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adrian_stars.ttf'
 end

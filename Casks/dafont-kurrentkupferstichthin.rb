@@ -5,7 +5,6 @@ cask 'dafont-kurrentkupferstichthin' do
     url 'http://dl.dafont.com/dl/?f=kurrentkupferstichthin'
     name 'Kurrent Kupferstich Thin'
     homepage 'http://www.dafont.com/kurrentkupferstichthin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KurrentKupferstichThin.ttf'
 end

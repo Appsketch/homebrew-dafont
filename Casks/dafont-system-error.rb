@@ -5,7 +5,6 @@ cask 'dafont-system-error' do
     url 'http://dl.dafont.com/dl/?f=system_error'
     name 'System Error'
     homepage 'http://www.dafont.com/system-error.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'System error.ttf'
 end

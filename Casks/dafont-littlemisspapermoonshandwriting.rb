@@ -5,7 +5,6 @@ cask 'dafont-littlemisspapermoonshandwriting' do
     url 'http://dl.dafont.com/dl/?f=littlemisspapermoonshandwriting'
     name 'Little Miss Paper Moons Handwriting'
     homepage 'http://www.dafont.com/littlemisspapermoonshandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LittleMissPaperMoonsHandwriting.otf'
 end

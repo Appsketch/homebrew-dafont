@@ -5,7 +5,6 @@ cask 'dafont-vorvolaka' do
     url 'http://dl.dafont.com/dl/?f=vorvolaka'
     name 'Vorvolaka'
     homepage 'http://www.dafont.com/vorvolaka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vorvolaka.ttf'
     font 'vorvolaka3d.ttf'

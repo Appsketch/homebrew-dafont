@@ -5,7 +5,6 @@ cask 'dafont-kitten-meat' do
     url 'http://dl.dafont.com/dl/?f=kitten_meat'
     name 'kitten meat'
     homepage 'http://www.dafont.com/kitten-meat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kitten Meat.ttf'
 end

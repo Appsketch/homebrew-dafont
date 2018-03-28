@@ -5,7 +5,6 @@ cask 'dafont-jopea302' do
     url 'http://dl.dafont.com/dl/?f=jopea302'
     name 'Jopea 302'
     homepage 'http://www.dafont.com/jopea302.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jopea302.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-aaron-sans' do
     url 'http://dl.dafont.com/dl/?f=aaron_sans'
     name 'Aaron Sans'
     homepage 'http://www.dafont.com/aaron-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aaron Sans.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gourmandise' do
     url 'http://dl.dafont.com/dl/?f=gourmandise'
     name 'Gourmandise'
     homepage 'http://www.dafont.com/gourmandise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gourmandise.otf'
 end

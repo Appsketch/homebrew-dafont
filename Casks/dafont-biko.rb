@@ -5,7 +5,6 @@ cask 'dafont-biko' do
     url 'http://dl.dafont.com/dl/?f=biko'
     name 'Biko'
     homepage 'http://www.dafont.com/biko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Biko_Black.otf'
     font 'Biko_Bold.otf'

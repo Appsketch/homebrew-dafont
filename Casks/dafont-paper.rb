@@ -5,7 +5,6 @@ cask 'dafont-paper' do
     url 'http://dl.dafont.com/dl/?f=paper'
     name 'Paper'
     homepage 'http://www.dafont.com/paper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'paper_persUSE.ttf'
     font 'paperfold_persUSE.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-shadedletters' do
     url 'http://dl.dafont.com/dl/?f=shadedletters'
     name 'Shaded Letters'
     homepage 'http://www.dafont.com/shadedletters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShadedLetters.ttf'
 end

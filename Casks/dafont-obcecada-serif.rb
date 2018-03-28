@@ -5,7 +5,6 @@ cask 'dafont-obcecada-serif' do
     url 'http://dl.dafont.com/dl/?f=obcecada_serif'
     name 'Obcecada Serif'
     homepage 'http://www.dafont.com/obcecada-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'obcecada-serif-bold-FFP.otf'
     font 'obcecada-serif-FFP.otf'

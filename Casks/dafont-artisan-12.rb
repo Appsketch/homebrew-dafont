@@ -5,7 +5,6 @@ cask 'dafont-artisan-12' do
     url 'http://dl.dafont.com/dl/?f=artisan_12'
     name 'Artisan 12'
     homepage 'http://www.dafont.com/artisan-12.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'artisan12.otf'
 end

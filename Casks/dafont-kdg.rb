@@ -5,7 +5,6 @@ cask 'dafont-kdg' do
     url 'http://dl.dafont.com/dl/?f=kdg'
     name 'KDG'
     homepage 'http://www.dafont.com/kdg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KDG.ttf'
 end

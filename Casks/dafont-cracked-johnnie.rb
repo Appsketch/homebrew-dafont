@@ -5,7 +5,6 @@ cask 'dafont-cracked-johnnie' do
     url 'http://dl.dafont.com/dl/?f=cracked_johnnie'
     name 'Cracked Johnnie'
     homepage 'http://www.dafont.com/cracked-johnnie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CRACJ___.TTF'
 end

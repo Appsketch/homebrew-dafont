@@ -5,7 +5,6 @@ cask 'dafont-overobsessedgirlfriend' do
     url 'http://dl.dafont.com/dl/?f=overobsessedgirlfriend'
     name 'Over Obsessed Girlfriend'
     homepage 'http://www.dafont.com/overobsessedgirlfriend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OverObsessedGirlfriend.ttf'
 end

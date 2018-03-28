@@ -5,7 +5,6 @@ cask 'dafont-trauma' do
     url 'http://dl.dafont.com/dl/?f=trauma'
     name 'Trauma'
     homepage 'http://www.dafont.com/trauma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trauma-Regular.otf'
 end

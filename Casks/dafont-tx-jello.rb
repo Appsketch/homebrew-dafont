@@ -5,7 +5,6 @@ cask 'dafont-tx-jello' do
     url 'http://dl.dafont.com/dl/?f=tx_jello'
     name 'TX Jello'
     homepage 'http://www.dafont.com/tx-jello.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TX_Jello2.ttf'
 end

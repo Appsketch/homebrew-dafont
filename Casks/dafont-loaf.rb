@@ -5,7 +5,6 @@ cask 'dafont-loaf' do
     url 'http://dl.dafont.com/dl/?f=loaf'
     name 'Loaf'
     homepage 'http://www.dafont.com/loaf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOAF____.TTF'
 end

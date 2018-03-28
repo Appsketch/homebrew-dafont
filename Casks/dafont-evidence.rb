@@ -5,7 +5,6 @@ cask 'dafont-evidence' do
     url 'http://dl.dafont.com/dl/?f=evidence'
     name 'Evidence'
     homepage 'http://www.dafont.com/evidence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EvidenceFont.ttf'
 end

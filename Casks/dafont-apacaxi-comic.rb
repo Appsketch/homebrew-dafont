@@ -5,7 +5,6 @@ cask 'dafont-apacaxi-comic' do
     url 'http://dl.dafont.com/dl/?f=apacaxi_comic'
     name 'Apacaxi Comic'
     homepage 'http://www.dafont.com/apacaxi-comic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'APACAXI COMIC.ttf'
 end

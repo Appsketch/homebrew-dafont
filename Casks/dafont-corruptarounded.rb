@@ -5,7 +5,6 @@ cask 'dafont-corruptarounded' do
     url 'http://dl.dafont.com/dl/?f=corruptarounded'
     name 'Corrupta Rounded'
     homepage 'http://www.dafont.com/corruptarounded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'corruptarounded.ttf'
 end

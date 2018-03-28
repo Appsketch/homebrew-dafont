@@ -5,7 +5,6 @@ cask 'dafont-denne-puffy-hearts' do
     url 'http://dl.dafont.com/dl/?f=denne_puffy_hearts'
     name 'Denne Puffy Hearts'
     homepage 'http://www.dafont.com/denne-puffy-hearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DENNEpuffy-hearts.ttf'
 end

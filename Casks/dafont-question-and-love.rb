@@ -5,7 +5,6 @@ cask 'dafont-question-and-love' do
     url 'http://dl.dafont.com/dl/?f=question_and_love'
     name 'Question and Love'
     homepage 'http://www.dafont.com/question-and-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Question and Love.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-sakabe-people-01' do
     url 'http://dl.dafont.com/dl/?f=sakabe_people_01'
     name 'Sakabe People 01'
     homepage 'http://www.dafont.com/sakabe-people-01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sakabe-People01.ttf'
 end

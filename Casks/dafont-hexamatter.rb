@@ -5,7 +5,6 @@ cask 'dafont-hexamatter' do
     url 'http://dl.dafont.com/dl/?f=hexamatter'
     name 'Hexamatter'
     homepage 'http://www.dafont.com/hexamatter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hexamatter.ttf'
 end

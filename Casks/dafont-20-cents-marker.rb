@@ -5,7 +5,6 @@ cask 'dafont-20-cents-marker' do
     url 'http://dl.dafont.com/dl/?f=20_cents_marker'
     name '20 Cents Marker'
     homepage 'http://www.dafont.com/20-cents-marker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '20 cents marker.ttf'
 end

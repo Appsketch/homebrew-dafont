@@ -5,7 +5,6 @@ cask 'dafont-impulse-of-heart' do
     url 'http://dl.dafont.com/dl/?f=impulse_of_heart'
     name 'impulse of heart'
     homepage 'http://www.dafont.com/impulse-of-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'impulse of heart.ttf'
 end

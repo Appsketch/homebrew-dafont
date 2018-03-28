@@ -5,7 +5,6 @@ cask 'dafont-fonuzzle' do
     url 'http://dl.dafont.com/dl/?f=fonuzzle'
     name 'Fonuzzle'
     homepage 'http://www.dafont.com/fonuzzle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fonuzzle.ttf'
 end

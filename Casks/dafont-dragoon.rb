@@ -5,7 +5,6 @@ cask 'dafont-dragoon' do
     url 'http://dl.dafont.com/dl/?f=dragoon'
     name 'Dragoon'
     homepage 'http://www.dafont.com/dragoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dragoon.ttf'
 end

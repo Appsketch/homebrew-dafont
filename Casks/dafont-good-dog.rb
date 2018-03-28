@@ -5,7 +5,6 @@ cask 'dafont-good-dog' do
     url 'http://dl.dafont.com/dl/?f=good_dog'
     name 'Good Dog'
     homepage 'http://www.dafont.com/good-dog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GOODDC__.TTF'
     font 'GOODDP__.TTF'

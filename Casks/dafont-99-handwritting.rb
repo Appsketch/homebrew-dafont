@@ -5,7 +5,6 @@ cask 'dafont-99-handwritting' do
     url 'http://dl.dafont.com/dl/?f=99_handwritting'
     name '99% HandWritting'
     homepage 'http://www.dafont.com/99-handwritting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '99%25HandWritting.ttf'
 end

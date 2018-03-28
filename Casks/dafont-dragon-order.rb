@@ -5,7 +5,6 @@ cask 'dafont-dragon-order' do
     url 'http://dl.dafont.com/dl/?f=dragon_order'
     name 'Dragon Order'
     homepage 'http://www.dafont.com/dragon-order.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dragv2.ttf'
     font 'Dragv2s2.ttf'

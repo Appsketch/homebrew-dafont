@@ -5,7 +5,6 @@ cask 'dafont-pindown-brk' do
     url 'http://dl.dafont.com/dl/?f=pindown_brk'
     name 'Pindown BRK'
     homepage 'http://www.dafont.com/pindown-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pindown.ttf'
     font 'pindownp.ttf'

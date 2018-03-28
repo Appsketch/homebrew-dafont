@@ -5,7 +5,6 @@ cask 'dafont-mondo-cane' do
     url 'http://dl.dafont.com/dl/?f=mondo_cane'
     name 'Mondo Cane'
     homepage 'http://www.dafont.com/mondo-cane.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mondo Cane.ttf'
 end

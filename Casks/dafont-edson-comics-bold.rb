@@ -5,7 +5,6 @@ cask 'dafont-edson-comics-bold' do
     url 'http://dl.dafont.com/dl/?f=edson_comics_bold'
     name 'Edson Comics'
     homepage 'http://www.dafont.com/edson-comics-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Edson_Comics_Bold.ttf'
 end

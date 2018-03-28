@@ -5,7 +5,6 @@ cask 'dafont-az-crushed' do
     url 'http://dl.dafont.com/dl/?f=az_crushed'
     name 'AZ Crushed'
     homepage 'http://www.dafont.com/az-crushed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Azcrushe.ttf'
 end

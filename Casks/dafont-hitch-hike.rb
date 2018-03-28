@@ -5,7 +5,6 @@ cask 'dafont-hitch-hike' do
     url 'http://dl.dafont.com/dl/?f=hitch_hike'
     name 'Hitch Hike'
     homepage 'http://www.dafont.com/hitch-hike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hitch-hike.otf'
 end

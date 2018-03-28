@@ -5,7 +5,6 @@ cask 'dafont-ill-skillz' do
     url 'http://dl.dafont.com/dl/?f=ill_skillz'
     name 'Ill Skillz'
     homepage 'http://www.dafont.com/ill-skillz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ill.skillz.[fontvir.us].ttf'
 end

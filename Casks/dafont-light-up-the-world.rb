@@ -5,7 +5,6 @@ cask 'dafont-light-up-the-world' do
     url 'http://dl.dafont.com/dl/?f=light_up_the_world'
     name 'Light up the World'
     homepage 'http://www.dafont.com/light-up-the-world.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Light up the World with accented characters.ttf'
 end

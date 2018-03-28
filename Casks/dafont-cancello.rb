@@ -5,7 +5,6 @@ cask 'dafont-cancello' do
     url 'http://dl.dafont.com/dl/?f=cancello'
     name 'Cancello'
     homepage 'http://www.dafont.com/cancello.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cancello.otf'
 end

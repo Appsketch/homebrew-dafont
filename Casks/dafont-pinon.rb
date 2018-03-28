@@ -5,7 +5,6 @@ cask 'dafont-pinon' do
     url 'http://dl.dafont.com/dl/?f=pinon'
     name 'Pinon'
     homepage 'http://www.dafont.com/pinon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pinon-Regular.ttf'
 end

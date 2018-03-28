@@ -5,7 +5,6 @@ cask 'dafont-ramasuri' do
     url 'http://dl.dafont.com/dl/?f=ramasuri'
     name 'Ramasuri'
     homepage 'http://www.dafont.com/ramasuri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ramasuri.ttf'
 end

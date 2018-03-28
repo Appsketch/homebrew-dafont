@@ -5,7 +5,6 @@ cask 'dafont-fuck-this-copy' do
     url 'http://dl.dafont.com/dl/?f=fuck_this_copy'
     name 'Fuck This Copy'
     homepage 'http://www.dafont.com/fuck-this-copy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FUCKTN__.TTF'
 end

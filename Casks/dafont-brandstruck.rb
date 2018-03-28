@@ -5,7 +5,6 @@ cask 'dafont-brandstruck' do
     url 'http://dl.dafont.com/dl/?f=brandstruck'
     name 'Brand Struck'
     homepage 'http://www.dafont.com/brandstruck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BrandStruck.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rounds-black' do
     url 'http://dl.dafont.com/dl/?f=rounds_black'
     name 'Rounds Black'
     homepage 'http://www.dafont.com/rounds-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rounds Black.otf'
 end

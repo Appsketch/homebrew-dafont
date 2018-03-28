@@ -5,7 +5,6 @@ cask 'dafont-jerome-newton' do
     url 'http://dl.dafont.com/dl/?f=jerome_newton'
     name 'Jerome Newton'
     homepage 'http://www.dafont.com/jerome-newton.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jerome_newton.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-punk-rock-rummage' do
     url 'http://dl.dafont.com/dl/?f=punk_rock_rummage'
     name 'Punk Rock Rummage Sale'
     homepage 'http://www.dafont.com/punk-rock-rummage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PUNKROCKRUM.TTF'
 end

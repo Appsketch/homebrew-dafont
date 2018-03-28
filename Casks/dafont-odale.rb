@@ -5,7 +5,6 @@ cask 'dafont-odale' do
     url 'http://dl.dafont.com/dl/?f=odale'
     name 'Odale'
     homepage 'http://www.dafont.com/odale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'odale.otf'
 end

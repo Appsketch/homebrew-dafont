@@ -5,7 +5,6 @@ cask 'dafont-backside-air' do
     url 'http://dl.dafont.com/dl/?f=backside_air'
     name 'Backside Air'
     homepage 'http://www.dafont.com/backside-air.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Backside Air.ttf'
 end

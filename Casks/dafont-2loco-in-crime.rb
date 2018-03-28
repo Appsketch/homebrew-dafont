@@ -5,7 +5,6 @@ cask 'dafont-2loco-in-crime' do
     url 'http://dl.dafont.com/dl/?f=2loco_in_crime'
     name '2Loco In Crime'
     homepage 'http://www.dafont.com/2loco-in-crime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '2loco in crime.ttf'
 end

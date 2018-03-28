@@ -5,7 +5,6 @@ cask 'dafont-digit' do
     url 'http://dl.dafont.com/dl/?f=digit'
     name 'Digit'
     homepage 'http://www.dafont.com/digit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Digit.TTF'
 end

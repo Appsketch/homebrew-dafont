@@ -5,7 +5,6 @@ cask 'dafont-parachutes' do
     url 'http://dl.dafont.com/dl/?f=parachutes'
     name 'Parachutes'
     homepage 'http://www.dafont.com/parachutes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Parachutes.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tube-of-corn' do
     url 'http://dl.dafont.com/dl/?f=tube_of_corn'
     name 'Tube Of Corn'
     homepage 'http://www.dafont.com/tube-of-corn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TubeOfCorn.ttf'
     font 'TubeOfCornAlias.ttf'

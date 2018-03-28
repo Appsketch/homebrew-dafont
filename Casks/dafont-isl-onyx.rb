@@ -5,7 +5,6 @@ cask 'dafont-isl-onyx' do
     url 'http://dl.dafont.com/dl/?f=isl_onyx'
     name 'ISL Onyx'
     homepage 'http://www.dafont.com/isl-onyx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'onyx.ttf'
 end

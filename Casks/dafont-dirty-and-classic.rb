@@ -5,7 +5,6 @@ cask 'dafont-dirty-and-classic' do
     url 'http://dl.dafont.com/dl/?f=dirty_and_classic'
     name 'Dirty and Classic'
     homepage 'http://www.dafont.com/dirty-and-classic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIRTY___.otf'
 end

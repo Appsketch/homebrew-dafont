@@ -5,7 +5,6 @@ cask 'dafont-peitinhu' do
     url 'http://dl.dafont.com/dl/?f=peitinhu'
     name 'Peitinhu'
     homepage 'http://www.dafont.com/peitinhu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peitinhu.ttf'
 end

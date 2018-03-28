@@ -5,7 +5,6 @@ cask 'dafont-illuminati-masonic-cipher' do
     url 'http://dl.dafont.com/dl/?f=illuminati_masonic_cipher'
     name 'Illuminati Masonic Cipher'
     homepage 'http://www.dafont.com/illuminati-masonic-cipher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'illuminati-masonic-cipher.ttf'
 end

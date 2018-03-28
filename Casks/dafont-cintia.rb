@@ -5,7 +5,6 @@ cask 'dafont-cintia' do
     url 'http://dl.dafont.com/dl/?f=cintia'
     name 'Cintia'
     homepage 'http://www.dafont.com/cintia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cintia.ttf'
 end

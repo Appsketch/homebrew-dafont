@@ -5,7 +5,6 @@ cask 'dafont-water-in-my-casio' do
     url 'http://dl.dafont.com/dl/?f=water_in_my_casio'
     name 'Water in my Casio'
     homepage 'http://www.dafont.com/water-in-my-casio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'water_in_my_casio.ttf'
 end

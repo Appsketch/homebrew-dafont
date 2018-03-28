@@ -5,7 +5,6 @@ cask 'dafont-32-pages' do
     url 'http://dl.dafont.com/dl/?f=32_pages'
     name '32 Pages'
     homepage 'http://www.dafont.com/32-pages.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '32pages.ttf'
 end

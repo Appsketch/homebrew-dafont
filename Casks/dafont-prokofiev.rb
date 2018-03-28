@@ -5,7 +5,6 @@ cask 'dafont-prokofiev' do
     url 'http://dl.dafont.com/dl/?f=prokofiev'
     name 'Prokofiev '
     homepage 'http://www.dafont.com/prokofiev.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'prokofiev.ttf'
     font 'prokofievb.ttf'

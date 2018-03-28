@@ -5,7 +5,6 @@ cask 'dafont-vindicator' do
     url 'http://dl.dafont.com/dl/?f=vindicator'
     name 'Vindicator'
     homepage 'http://www.dafont.com/vindicator.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vindicator.ttf'
     font 'vindicator3d.ttf'

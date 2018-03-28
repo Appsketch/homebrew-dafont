@@ -5,7 +5,6 @@ cask 'dafont-kbslasher' do
     url 'http://dl.dafont.com/dl/?f=kbslasher'
     name 'KB Slasher'
     homepage 'http://www.dafont.com/kbslasher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBSlasher.ttf'
 end

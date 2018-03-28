@@ -5,7 +5,6 @@ cask 'dafont-vtks-vinte-e-cinco' do
     url 'http://dl.dafont.com/dl/?f=vtks_vinte_e_cinco'
     name 'VTKS Vinte e Cinco'
     homepage 'http://www.dafont.com/vtks-vinte-e-cinco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Vinte e Cinco.ttf'
 end

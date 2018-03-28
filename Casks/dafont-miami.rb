@@ -5,7 +5,6 @@ cask 'dafont-miami' do
     url 'http://dl.dafont.com/dl/?f=miami'
     name 'Miami'
     homepage 'http://www.dafont.com/miami.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Miami.ttf'
 end

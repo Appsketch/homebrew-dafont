@@ -5,7 +5,6 @@ cask 'dafont-gasalt' do
     url 'http://dl.dafont.com/dl/?f=gasalt'
     name 'Gasalt'
     homepage 'http://www.dafont.com/gasalt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gasalt-Black.ttf'
     font 'Gasalt-Regular.ttf'

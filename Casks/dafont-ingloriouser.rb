@@ -5,7 +5,6 @@ cask 'dafont-ingloriouser' do
     url 'http://dl.dafont.com/dl/?f=ingloriouser'
     name 'Ingloriouser'
     homepage 'http://www.dafont.com/ingloriouser.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INGLORIO.ttf'
 end

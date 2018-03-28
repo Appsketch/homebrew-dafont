@@ -5,7 +5,6 @@ cask 'dafont-vtc-stressedhand' do
     url 'http://dl.dafont.com/dl/?f=vtc_stressedhand'
     name 'VTC Stressed Hand'
     homepage 'http://www.dafont.com/vtc-stressedhand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VTC StressedHand.ttf'
 end

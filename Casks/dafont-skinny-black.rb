@@ -5,7 +5,6 @@ cask 'dafont-skinny-black' do
     url 'http://dl.dafont.com/dl/?f=skinny_black'
     name 'Skinny Black'
     homepage 'http://www.dafont.com/skinny-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skinny Black.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kayetan' do
     url 'http://dl.dafont.com/dl/?f=kayetan'
     name 'Kayetan'
     homepage 'http://www.dafont.com/kayetan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnaKatrinaTan.ttf'
 end

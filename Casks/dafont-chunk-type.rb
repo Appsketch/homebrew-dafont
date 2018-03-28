@@ -5,7 +5,6 @@ cask 'dafont-chunk-type' do
     url 'http://dl.dafont.com/dl/?f=chunk_type'
     name 'Chunk Type'
     homepage 'http://www.dafont.com/chunk-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHUNT___.TTF'
 end

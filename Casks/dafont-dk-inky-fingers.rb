@@ -5,7 +5,6 @@ cask 'dafont-dk-inky-fingers' do
     url 'http://dl.dafont.com/dl/?f=dk_inky_fingers'
     name 'DK Inky Fingers'
     homepage 'http://www.dafont.com/dk-inky-fingers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Inky Fingers.otf'
 end

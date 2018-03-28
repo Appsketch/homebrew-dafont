@@ -5,7 +5,6 @@ cask 'dafont-osaka-sans-serif' do
     url 'http://dl.dafont.com/dl/?f=osaka_sans_serif'
     name 'Osaka Sans Serif'
     homepage 'http://www.dafont.com/osaka-sans-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'osaka-re.ttf'
 end

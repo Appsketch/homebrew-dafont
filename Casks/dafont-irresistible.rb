@@ -5,7 +5,6 @@ cask 'dafont-irresistible' do
     url 'http://dl.dafont.com/dl/?f=irresistible'
     name 'Irresistible'
     homepage 'http://www.dafont.com/irresistible.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Irresistible.ttf'
 end

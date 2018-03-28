@@ -5,7 +5,6 @@ cask 'dafont-tired-terrorist' do
     url 'http://dl.dafont.com/dl/?f=tired_terrorist'
     name 'Tired Terrorist'
     homepage 'http://www.dafont.com/tired-terrorist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tiredterrorist.ttf'
 end

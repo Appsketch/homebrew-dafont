@@ -5,7 +5,6 @@ cask 'dafont-schilderwald-s' do
     url 'http://dl.dafont.com/dl/?f=schilderwald_s'
     name 'Schilderwald'
     homepage 'http://www.dafont.com/schilderwald-s.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Schilderwald alt.ttf'
     font 'Schilderwald.ttf'

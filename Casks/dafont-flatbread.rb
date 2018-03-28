@@ -5,7 +5,6 @@ cask 'dafont-flatbread' do
     url 'http://dl.dafont.com/dl/?f=flatbread'
     name 'FlatBread'
     homepage 'http://www.dafont.com/flatbread.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlatBread.ttf'
     font 'FlatBreadInline.ttf'

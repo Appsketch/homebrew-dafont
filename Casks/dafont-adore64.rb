@@ -5,7 +5,6 @@ cask 'dafont-adore64' do
     url 'http://dl.dafont.com/dl/?f=adore64'
     name 'Adore 64'
     homepage 'http://www.dafont.com/adore64.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adore64.ttf'
 end

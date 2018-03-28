@@ -5,7 +5,6 @@ cask 'dafont-hand-of-diesel' do
     url 'http://dl.dafont.com/dl/?f=hand_of_diesel'
     name 'Hand of Diesel'
     homepage 'http://www.dafont.com/hand-of-diesel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hand of Diesel.ttf'
 end

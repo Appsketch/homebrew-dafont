@@ -5,7 +5,6 @@ cask 'dafont-djb-belly-button-outtie' do
     url 'http://dl.dafont.com/dl/?f=djb_belly_button_outtie'
     name 'DJB Belly Button-Outtie'
     homepage 'http://www.dafont.com/djb-belly-button-outtie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Belly Button-Outtie.ttf'
 end

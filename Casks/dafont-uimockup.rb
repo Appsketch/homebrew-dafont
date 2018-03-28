@@ -5,7 +5,6 @@ cask 'dafont-uimockup' do
     url 'http://dl.dafont.com/dl/?f=uimockup'
     name 'UIMockup'
     homepage 'http://www.dafont.com/uimockup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UIMockup.ttf'
 end

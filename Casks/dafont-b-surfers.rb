@@ -5,7 +5,6 @@ cask 'dafont-b-surfers' do
     url 'http://dl.dafont.com/dl/?f=b_surfers'
     name 'B Surfers'
     homepage 'http://www.dafont.com/b-surfers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bsurp___.ttf'
 end

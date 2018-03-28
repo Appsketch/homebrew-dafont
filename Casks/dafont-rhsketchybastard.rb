@@ -5,7 +5,6 @@ cask 'dafont-rhsketchybastard' do
     url 'http://dl.dafont.com/dl/?f=rhsketchybastard'
     name 'RH Sketchy Bastard'
     homepage 'http://www.dafont.com/rhsketchybastard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RHSketchyBastard.ttf'
 end

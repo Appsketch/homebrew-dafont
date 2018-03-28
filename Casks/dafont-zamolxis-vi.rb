@@ -5,7 +5,6 @@ cask 'dafont-zamolxis-vi' do
     url 'http://dl.dafont.com/dl/?f=zamolxis_vi'
     name 'Zamolxis VI'
     homepage 'http://www.dafont.com/zamolxis-vi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zamolxis-VI.ttf'
 end

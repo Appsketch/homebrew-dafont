@@ -5,7 +5,6 @@ cask 'dafont-twisted-brother' do
     url 'http://dl.dafont.com/dl/?f=twisted_brother'
     name 'Twisted Brother'
     homepage 'http://www.dafont.com/twisted-brother.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Twisted Brother.ttf'
 end

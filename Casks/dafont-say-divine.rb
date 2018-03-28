@@ -5,7 +5,6 @@ cask 'dafont-say-divine' do
     url 'http://dl.dafont.com/dl/?f=say_divine'
     name 'Say Divine'
     homepage 'http://www.dafont.com/say-divine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Say Divine_DEMO.ttf'
 end

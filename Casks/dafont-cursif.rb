@@ -5,7 +5,6 @@ cask 'dafont-cursif' do
     url 'http://dl.dafont.com/dl/?f=cursif'
     name 'Cursif'
     homepage 'http://www.dafont.com/cursif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cursif.ttf'
     font 'Cursifl.ttf'

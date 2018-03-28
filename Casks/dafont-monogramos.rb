@@ -5,7 +5,6 @@ cask 'dafont-monogramos' do
     url 'http://dl.dafont.com/dl/?f=monogramos'
     name 'Monogramos'
     homepage 'http://www.dafont.com/monogramos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MONOGRAMOS.ttf'
 end

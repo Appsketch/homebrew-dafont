@@ -5,7 +5,6 @@ cask 'dafont-typistys' do
     url 'http://dl.dafont.com/dl/?f=typistys'
     name 'Typistys'
     homepage 'http://www.dafont.com/typistys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typistys DIRT.ttf'
     font 'Typistys RORRIM.ttf'

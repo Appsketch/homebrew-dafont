@@ -5,7 +5,6 @@ cask 'dafont-dk-mandolin' do
     url 'http://dl.dafont.com/dl/?f=dk_mandolin'
     name 'DK Mandolin'
     homepage 'http://www.dafont.com/dk-mandolin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Mandolin.otf'
 end

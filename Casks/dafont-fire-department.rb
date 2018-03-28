@@ -5,7 +5,6 @@ cask 'dafont-fire-department' do
     url 'http://dl.dafont.com/dl/?f=fire_department'
     name 'Fire Department'
     homepage 'http://www.dafont.com/fire-department.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fire Department.ttf'
 end

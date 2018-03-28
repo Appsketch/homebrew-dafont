@@ -5,7 +5,6 @@ cask 'dafont-gb-shinto' do
     url 'http://dl.dafont.com/dl/?f=gb_shinto'
     name 'GB Shinto'
     homepage 'http://www.dafont.com/gb-shinto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GBShinto-Regular.otf'
 end

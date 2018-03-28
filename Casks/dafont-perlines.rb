@@ -5,7 +5,6 @@ cask 'dafont-perlines' do
     url 'http://dl.dafont.com/dl/?f=perlines'
     name 'Perlines'
     homepage 'http://www.dafont.com/perlines.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PERLINES.ttf'
 end

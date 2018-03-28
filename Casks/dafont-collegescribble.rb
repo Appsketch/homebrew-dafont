@@ -5,7 +5,6 @@ cask 'dafont-collegescribble' do
     url 'http://dl.dafont.com/dl/?f=collegescribble'
     name 'College Scribble'
     homepage 'http://www.dafont.com/collegescribble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CollegeScribble.ttf'
 end

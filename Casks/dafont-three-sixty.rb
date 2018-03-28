@@ -5,7 +5,6 @@ cask 'dafont-three-sixty' do
     url 'http://dl.dafont.com/dl/?f=three_sixty'
     name 'Three-Sixty'
     homepage 'http://www.dafont.com/three-sixty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThreSixt_2.ttf'
     font 'ThreSxCd.ttf'

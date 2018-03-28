@@ -5,7 +5,6 @@ cask 'dafont-barter-with-a-gypsy' do
     url 'http://dl.dafont.com/dl/?f=barter_with_a_gypsy'
     name 'Barter with a Gypsy'
     homepage 'http://www.dafont.com/barter-with-a-gypsy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BarterwithaGypsy-Bold.ttf'
     font 'BarterwithaGypsy-Regular.ttf'

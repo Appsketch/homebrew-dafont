@@ -5,7 +5,6 @@ cask 'dafont-leo-arrow' do
     url 'http://dl.dafont.com/dl/?f=leo_arrow'
     name 'Leo Arrow'
     homepage 'http://www.dafont.com/leo-arrow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Leo Arrow.ttf'
 end

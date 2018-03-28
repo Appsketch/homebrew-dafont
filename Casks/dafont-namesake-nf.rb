@@ -5,7 +5,6 @@ cask 'dafont-namesake-nf' do
     url 'http://dl.dafont.com/dl/?f=namesake_nf'
     name 'Namesake NF'
     homepage 'http://www.dafont.com/namesake-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NAMEN___.TTF'
 end

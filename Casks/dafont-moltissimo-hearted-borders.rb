@@ -5,7 +5,6 @@ cask 'dafont-moltissimo-hearted-borders' do
     url 'http://dl.dafont.com/dl/?f=moltissimo_hearted_borders'
     name 'Moltissimo Hearted borders'
     homepage 'http://www.dafont.com/moltissimo-hearted-borders.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moltissimo Hearted bordered DEMO.ttf'
 end

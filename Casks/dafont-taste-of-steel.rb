@@ -5,7 +5,6 @@ cask 'dafont-taste-of-steel' do
     url 'http://dl.dafont.com/dl/?f=taste_of_steel'
     name 'Taste of steel'
     homepage 'http://www.dafont.com/taste-of-steel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Taste of steel.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-roja' do
     url 'http://dl.dafont.com/dl/?f=roja'
     name 'Roja'
     homepage 'http://www.dafont.com/roja.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROJA.ttf'
 end

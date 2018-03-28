@@ -5,7 +5,6 @@ cask 'dafont-lindbergcaffeine' do
     url 'http://dl.dafont.com/dl/?f=lindbergcaffeine'
     name 'Lindberg Caffeine'
     homepage 'http://www.dafont.com/lindbergcaffeine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LindbergCaffeine.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bump-pad' do
     url 'http://dl.dafont.com/dl/?f=bump_pad'
     name 'Bump Pad'
     homepage 'http://www.dafont.com/bump-pad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bump Pad.ttf'
 end

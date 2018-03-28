@@ -5,7 +5,6 @@ cask 'dafont-ds-arabic' do
     url 'http://dl.dafont.com/dl/?f=ds_arabic'
     name 'DS Arabic'
     homepage 'http://www.dafont.com/ds-arabic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'arab3end.ttf'
 end

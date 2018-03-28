@@ -5,7 +5,6 @@ cask 'dafont-snugbum' do
     url 'http://dl.dafont.com/dl/?f=snugbum'
     name 'Snug Bum'
     homepage 'http://www.dafont.com/snugbum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SnugBum.ttf'
 end

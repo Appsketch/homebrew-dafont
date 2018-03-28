@@ -5,7 +5,6 @@ cask 'dafont-robocadaver-1982' do
     url 'http://dl.dafont.com/dl/?f=robocadaver_1982'
     name 'Robocadaver 1982'
     homepage 'http://www.dafont.com/robocadaver-1982.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Robocadaver_by_Thunderpanda_1-02.ttf'
 end

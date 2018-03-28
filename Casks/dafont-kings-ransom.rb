@@ -5,7 +5,6 @@ cask 'dafont-kings-ransom' do
     url 'http://dl.dafont.com/dl/?f=kings_ransom'
     name 'King&#039;s Ransom'
     homepage 'http://www.dafont.com/kings-ransom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingv2.ttf'
     font 'Kingv2l.ttf'

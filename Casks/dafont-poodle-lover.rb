@@ -5,7 +5,6 @@ cask 'dafont-poodle-lover' do
     url 'http://dl.dafont.com/dl/?f=poodle_lover'
     name 'Poodle Lover'
     homepage 'http://www.dafont.com/poodle-lover.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POODLE.TTF'
 end

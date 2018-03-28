@@ -5,7 +5,6 @@ cask 'dafont-rebeccashandwriting' do
     url 'http://dl.dafont.com/dl/?f=rebeccashandwriting'
     name 'Rebeccas Handwriting'
     homepage 'http://www.dafont.com/rebeccashandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RebeccasHandwriting.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-lol' do
     url 'http://dl.dafont.com/dl/?f=lol'
     name 'LOL!'
     homepage 'http://www.dafont.com/lol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOL!.ttf'
 end

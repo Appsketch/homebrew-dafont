@@ -5,7 +5,6 @@ cask 'dafont-steezy' do
     url 'http://dl.dafont.com/dl/?f=steezy'
     name 'Steezy'
     homepage 'http://www.dafont.com/steezy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Steezy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-aster' do
     url 'http://dl.dafont.com/dl/?f=aster'
     name 'Aster'
     homepage 'http://www.dafont.com/aster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aster 2.otf'
     font 'Aster 3.otf'

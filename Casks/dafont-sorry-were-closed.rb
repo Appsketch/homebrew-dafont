@@ -5,7 +5,6 @@ cask 'dafont-sorry-were-closed' do
     url 'http://dl.dafont.com/dl/?f=sorry_were_closed'
     name 'Sorry... We&#039;re Closed'
     homepage 'http://www.dafont.com/sorry-were-closed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sorry... We&#039;re Closed.ttf'
 end

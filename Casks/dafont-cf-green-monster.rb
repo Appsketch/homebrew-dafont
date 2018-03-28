@@ -5,7 +5,6 @@ cask 'dafont-cf-green-monster' do
     url 'http://dl.dafont.com/dl/?f=cf_green_monster'
     name 'CF Green Monster'
     homepage 'http://www.dafont.com/cf-green-monster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFGreenMonster-Regular.ttf'
 end

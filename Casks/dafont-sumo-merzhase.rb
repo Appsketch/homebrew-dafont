@@ -5,7 +5,6 @@ cask 'dafont-sumo-merzhase' do
     url 'http://dl.dafont.com/dl/?f=sumo_merzhase'
     name 'Sumo'
     homepage 'http://www.dafont.com/sumo-merzhase.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sumo.ttf'
 end

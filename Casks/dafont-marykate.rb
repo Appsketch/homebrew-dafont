@@ -5,7 +5,6 @@ cask 'dafont-marykate' do
     url 'http://dl.dafont.com/dl/?f=marykate'
     name 'Mary Kate'
     homepage 'http://www.dafont.com/marykate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MaryKate.ttf'
 end

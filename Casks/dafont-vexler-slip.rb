@@ -5,7 +5,6 @@ cask 'dafont-vexler-slip' do
     url 'http://dl.dafont.com/dl/?f=vexler_slip'
     name 'Vexler Slip'
     homepage 'http://www.dafont.com/vexler-slip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vexler-slip.ttf'
 end

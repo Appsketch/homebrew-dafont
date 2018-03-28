@@ -5,7 +5,6 @@ cask 'dafont-scriptia-happy' do
     url 'http://dl.dafont.com/dl/?f=scriptia_happy'
     name 'Scriptia Happy'
     homepage 'http://www.dafont.com/scriptia-happy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scriptia Happy.ttf'
 end

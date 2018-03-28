@@ -5,7 +5,6 @@ cask 'dafont-basico-1983' do
     url 'http://dl.dafont.com/dl/?f=basico_1983'
     name 'Basico 1983'
     homepage 'http://www.dafont.com/basico-1983.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Basico-1983.ttf'
 end

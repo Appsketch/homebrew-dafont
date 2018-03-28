@@ -5,7 +5,6 @@ cask 'dafont-warzone' do
     url 'http://dl.dafont.com/dl/?f=warzone'
     name 'Warzone'
     homepage 'http://www.dafont.com/warzone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zone99.ttf'
     font 'Zone99heavy.ttf'

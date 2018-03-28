@@ -5,7 +5,6 @@ cask 'dafont-joehand-1' do
     url 'http://dl.dafont.com/dl/?f=joehand_1'
     name 'Joe Hand 1'
     homepage 'http://www.dafont.com/joehand-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JH1TRIAL.ttf'
 end

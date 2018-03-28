@@ -5,7 +5,6 @@ cask 'dafont-kill-the-noise' do
     url 'http://dl.dafont.com/dl/?f=kill_the_noise'
     name 'Kill The Noise'
     homepage 'http://www.dafont.com/kill-the-noise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kill The Noise.otf'
 end

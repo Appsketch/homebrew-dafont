@@ -5,7 +5,6 @@ cask 'dafont-kooksters' do
     url 'http://dl.dafont.com/dl/?f=kooksters'
     name 'Kooksters'
     homepage 'http://www.dafont.com/kooksters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KOOKSTER.TTF'
 end

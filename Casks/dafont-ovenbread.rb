@@ -5,7 +5,6 @@ cask 'dafont-ovenbread' do
     url 'http://dl.dafont.com/dl/?f=ovenbread'
     name 'Oven Bread'
     homepage 'http://www.dafont.com/ovenbread.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OvenBread.ttf'
 end

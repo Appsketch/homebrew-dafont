@@ -5,7 +5,6 @@ cask 'dafont-teeny-pix' do
     url 'http://dl.dafont.com/dl/?f=teeny_pix'
     name 'Teeny Pix'
     homepage 'http://www.dafont.com/teeny-pix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Teeny-Pix.ttf'
 end

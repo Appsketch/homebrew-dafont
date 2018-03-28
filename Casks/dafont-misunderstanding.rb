@@ -5,7 +5,6 @@ cask 'dafont-misunderstanding' do
     url 'http://dl.dafont.com/dl/?f=misunderstanding'
     name 'Misunderstanding'
     homepage 'http://www.dafont.com/misunderstanding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Misunderstanding.ttf'
 end

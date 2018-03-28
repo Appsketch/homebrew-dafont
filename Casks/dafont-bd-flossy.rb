@@ -5,7 +5,6 @@ cask 'dafont-bd-flossy' do
     url 'http://dl.dafont.com/dl/?f=bd_flossy'
     name 'BD Flossy'
     homepage 'http://www.dafont.com/bd-flossy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDFLOSSY.TTF'
 end

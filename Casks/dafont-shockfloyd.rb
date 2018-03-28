@@ -5,7 +5,6 @@ cask 'dafont-shockfloyd' do
     url 'http://dl.dafont.com/dl/?f=shockfloyd'
     name 'Shock Floyd'
     homepage 'http://www.dafont.com/shockfloyd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShockFloyd.ttf'
 end

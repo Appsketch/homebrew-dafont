@@ -5,7 +5,6 @@ cask 'dafont-volkoff' do
     url 'http://dl.dafont.com/dl/?f=volkoff'
     name 'Volkoff'
     homepage 'http://www.dafont.com/volkoff.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Volkoff Italic.otf'
     font 'Volkoff.otf'

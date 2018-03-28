@@ -5,7 +5,6 @@ cask 'dafont-que-fontita' do
     url 'http://dl.dafont.com/dl/?f=que_fontita'
     name 'Que FONTita!'
     homepage 'http://www.dafont.com/que-fontita.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Que_FONTita_21.otf'
 end

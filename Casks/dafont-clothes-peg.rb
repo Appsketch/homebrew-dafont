@@ -5,7 +5,6 @@ cask 'dafont-clothes-peg' do
     url 'http://dl.dafont.com/dl/?f=clothes_peg'
     name 'Clothes Peg'
     homepage 'http://www.dafont.com/clothes-peg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'clothes_peg.ttf'
 end

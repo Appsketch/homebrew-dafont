@@ -5,7 +5,6 @@ cask 'dafont-night-stalker' do
     url 'http://dl.dafont.com/dl/?f=night_stalker'
     name 'Night Stalker'
     homepage 'http://www.dafont.com/night-stalker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NIGHT STALKER TRIAL.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chasing-the-ice-cream-truck' do
     url 'http://dl.dafont.com/dl/?f=chasing_the_ice_cream_truck'
     name 'Chasing the ice cream truck'
     homepage 'http://www.dafont.com/chasing-the-ice-cream-truck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chasing the ice cream truck.ttf'
 end

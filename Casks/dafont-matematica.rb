@@ -5,7 +5,6 @@ cask 'dafont-matematica' do
     url 'http://dl.dafont.com/dl/?f=matematica'
     name 'Matematica'
     homepage 'http://www.dafont.com/matematica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Matematica-Regular.otf'
 end

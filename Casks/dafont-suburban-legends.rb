@@ -5,7 +5,6 @@ cask 'dafont-suburban-legends' do
     url 'http://dl.dafont.com/dl/?f=suburban_legends'
     name 'Suburban Legends'
     homepage 'http://www.dafont.com/suburban-legends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Suburban Legends.ttf'
 end

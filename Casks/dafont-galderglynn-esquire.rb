@@ -5,7 +5,6 @@ cask 'dafont-galderglynn-esquire' do
     url 'http://dl.dafont.com/dl/?f=galderglynn_esquire'
     name 'Galderglynn Esquire'
     homepage 'http://www.dafont.com/galderglynn-esquire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'galderglynn titling bd it.ttf'
     font 'galderglynn titling bd.ttf'

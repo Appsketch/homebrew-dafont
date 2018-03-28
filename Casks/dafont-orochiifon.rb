@@ -5,7 +5,6 @@ cask 'dafont-orochiifon' do
     url 'http://dl.dafont.com/dl/?f=orochiifon'
     name 'OrochiiFon'
     homepage 'http://www.dafont.com/orochiifon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OrochiiFon.ttf'
 end

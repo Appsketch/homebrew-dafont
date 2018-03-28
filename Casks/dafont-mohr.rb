@@ -5,7 +5,6 @@ cask 'dafont-mohr' do
     url 'http://dl.dafont.com/dl/?f=mohr'
     name 'Mohr'
     homepage 'http://www.dafont.com/mohr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mohr.ttf'
 end

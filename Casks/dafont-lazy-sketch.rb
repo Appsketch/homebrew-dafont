@@ -5,7 +5,6 @@ cask 'dafont-lazy-sketch' do
     url 'http://dl.dafont.com/dl/?f=lazy_sketch'
     name 'Lazy Sketch'
     homepage 'http://www.dafont.com/lazy-sketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lazy Sketch.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nightchilde' do
     url 'http://dl.dafont.com/dl/?f=nightchilde'
     name 'Nightchilde'
     homepage 'http://www.dafont.com/nightchilde.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nightchilde.ttf'
     font 'nightchilde3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-pac-12' do
     url 'http://dl.dafont.com/dl/?f=pac_12'
     name 'Pac-12'
     homepage 'http://www.dafont.com/pac-12.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAC-12.ttf'
 end

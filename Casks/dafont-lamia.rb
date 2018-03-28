@@ -5,7 +5,6 @@ cask 'dafont-lamia' do
     url 'http://dl.dafont.com/dl/?f=lamia'
     name 'Lamia'
     homepage 'http://www.dafont.com/lamia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lamia.ttf'
 end

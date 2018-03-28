@@ -5,7 +5,6 @@ cask 'dafont-overhaul' do
     url 'http://dl.dafont.com/dl/?f=overhaul'
     name 'Overhaul'
     homepage 'http://www.dafont.com/overhaul.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Overhaul.ttf'
 end

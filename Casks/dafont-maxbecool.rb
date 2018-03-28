@@ -5,7 +5,6 @@ cask 'dafont-maxbecool' do
     url 'http://dl.dafont.com/dl/?f=maxbecool'
     name 'Max Be Cool'
     homepage 'http://www.dafont.com/maxbecool.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MaxBeCool.ttf'
 end

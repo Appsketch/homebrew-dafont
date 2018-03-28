@@ -5,7 +5,6 @@ cask 'dafont-signal-to-noize' do
     url 'http://dl.dafont.com/dl/?f=signal_to_noize'
     name 'Signal to Noize'
     homepage 'http://www.dafont.com/signal-to-noize.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'signal.ttf'
 end

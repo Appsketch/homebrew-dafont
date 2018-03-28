@@ -5,7 +5,6 @@ cask 'dafont-press-feeling-eroded' do
     url 'http://dl.dafont.com/dl/?f=press_feeling_eroded'
     name 'Press Feeling Eroded'
     homepage 'http://www.dafont.com/press-feeling-eroded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Press Feeling Eroded.ttf'
 end

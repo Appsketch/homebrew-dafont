@@ -5,7 +5,6 @@ cask 'dafont-ming-imperial' do
     url 'http://dl.dafont.com/dl/?f=ming_imperial'
     name 'Ming Imperial'
     homepage 'http://www.dafont.com/ming-imperial.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ming Imperial.TTF'
 end

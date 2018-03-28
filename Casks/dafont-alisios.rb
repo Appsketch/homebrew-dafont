@@ -5,7 +5,6 @@ cask 'dafont-alisios' do
     url 'http://dl.dafont.com/dl/?f=alisios'
     name 'Alisios'
     homepage 'http://www.dafont.com/alisios.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alisios.ttf'
 end

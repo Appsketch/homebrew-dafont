@@ -5,7 +5,6 @@ cask 'dafont-pompeji-petit' do
     url 'http://dl.dafont.com/dl/?f=pompeji_petit'
     name 'Pompeji Petit'
     homepage 'http://www.dafont.com/pompeji-petit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PompejiPetit.ttf'
 end

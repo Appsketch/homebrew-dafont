@@ -5,7 +5,6 @@ cask 'dafont-palafotz' do
     url 'http://dl.dafont.com/dl/?f=palafotz'
     name 'Palafotz'
     homepage 'http://www.dafont.com/palafotz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Palafotz.ttf'
 end

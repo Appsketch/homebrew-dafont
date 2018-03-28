@@ -5,7 +5,6 @@ cask 'dafont-mydai1' do
     url 'http://dl.dafont.com/dl/?f=mydai1'
     name 'Mydai1'
     homepage 'http://www.dafont.com/mydai1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mydai1.ttf'
 end

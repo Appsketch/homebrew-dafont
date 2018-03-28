@@ -5,7 +5,6 @@ cask 'dafont-animox' do
     url 'http://dl.dafont.com/dl/?f=animox'
     name 'Animox'
     homepage 'http://www.dafont.com/animox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Animox.ttf'
 end

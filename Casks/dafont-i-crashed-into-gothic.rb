@@ -5,7 +5,6 @@ cask 'dafont-i-crashed-into-gothic' do
     url 'http://dl.dafont.com/dl/?f=i_crashed_into_gothic'
     name 'I crashed into Gothic'
     homepage 'http://www.dafont.com/i-crashed-into-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gothic.ttf'
 end

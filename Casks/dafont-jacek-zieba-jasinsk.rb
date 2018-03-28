@@ -5,7 +5,6 @@ cask 'dafont-jacek-zieba-jasinsk' do
     url 'http://dl.dafont.com/dl/?f=jacek_zieba_jasinsk'
     name 'Jacek Zieba Jasinski'
     homepage 'http://www.dafont.com/jacek-zieba-jasinsk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jacek Zieba-Jasinski_b.ttf'
     font 'Jacek Zieba-Jasinski_bi.ttf'

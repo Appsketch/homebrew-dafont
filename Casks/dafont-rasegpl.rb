@@ -5,7 +5,6 @@ cask 'dafont-rasegpl' do
     url 'http://dl.dafont.com/dl/?f=rasegpl'
     name 'Rase GPL'
     homepage 'http://www.dafont.com/rasegpl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rase-GPL-Bold.otf'
     font 'Rase-GPL-Outline.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-uss-dallas' do
     url 'http://dl.dafont.com/dl/?f=uss_dallas'
     name 'USS Dallas'
     homepage 'http://www.dafont.com/uss-dallas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ussdallas2.ttf'
     font 'ussdallasa2.ttf'

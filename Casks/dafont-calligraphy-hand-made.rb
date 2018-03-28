@@ -5,7 +5,6 @@ cask 'dafont-calligraphy-hand-made' do
     url 'http://dl.dafont.com/dl/?f=calligraphy_hand_made'
     name 'Calligraphy Hand Made'
     homepage 'http://www.dafont.com/calligraphy-hand-made.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Calligraphy Hand Made.ttf'
 end

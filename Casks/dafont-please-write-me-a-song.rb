@@ -5,7 +5,6 @@ cask 'dafont-please-write-me-a-song' do
     url 'http://dl.dafont.com/dl/?f=please_write_me_a_song'
     name 'Please write me a song'
     homepage 'http://www.dafont.com/please-write-me-a-song.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Please write me a song.ttf'
 end

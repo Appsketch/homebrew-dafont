@@ -5,7 +5,6 @@ cask 'dafont-inklings' do
     url 'http://dl.dafont.com/dl/?f=inklings'
     name 'Inklings'
     homepage 'http://www.dafont.com/inklings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inklings.ttf'
 end

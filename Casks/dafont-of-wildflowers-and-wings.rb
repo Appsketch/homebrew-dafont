@@ -5,7 +5,6 @@ cask 'dafont-of-wildflowers-and-wings' do
     url 'http://dl.dafont.com/dl/?f=of_wildflowers_and_wings'
     name 'Of Wildflowers and Wings'
     homepage 'http://www.dafont.com/of-wildflowers-and-wings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Of Wildflowers and Wings 2.ttf'
 end

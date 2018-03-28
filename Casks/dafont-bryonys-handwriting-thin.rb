@@ -5,7 +5,6 @@ cask 'dafont-bryonys-handwriting-thin' do
     url 'http://dl.dafont.com/dl/?f=bryonys_handwriting_thin'
     name 'Bryonys Handwriting Thin'
     homepage 'http://www.dafont.com/bryonys-handwriting-thin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bryonys_Handwriting_Thin.ttf'
 end

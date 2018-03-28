@@ -5,7 +5,6 @@ cask 'dafont-junkohanhero' do
     url 'http://dl.dafont.com/dl/?f=junkohanhero'
     name 'Junkohanhero One'
     homepage 'http://www.dafont.com/junkohanhero.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'junkohanhero_one.ttf'
 end

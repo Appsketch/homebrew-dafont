@@ -5,7 +5,6 @@ cask 'dafont-twentysomething' do
     url 'http://dl.dafont.com/dl/?f=twentysomething'
     name 'Twenty Something'
     homepage 'http://www.dafont.com/twentysomething.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TwentySomething.ttf'
 end

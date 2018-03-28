@@ -5,7 +5,6 @@ cask 'dafont-pixeldart' do
     url 'http://dl.dafont.com/dl/?f=pixeldart'
     name 'PixelDart'
     homepage 'http://www.dafont.com/pixeldart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PixelDart.ttf'
 end

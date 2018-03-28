@@ -5,7 +5,6 @@ cask 'dafont-seriffic-grunge' do
     url 'http://dl.dafont.com/dl/?f=seriffic_grunge'
     name 'Seriffic Grunge'
     homepage 'http://www.dafont.com/seriffic-grunge.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'seriffic.ttf'
 end

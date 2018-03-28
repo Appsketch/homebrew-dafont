@@ -5,7 +5,6 @@ cask 'dafont-sargoo' do
     url 'http://dl.dafont.com/dl/?f=sargoo'
     name 'Sargoo'
     homepage 'http://www.dafont.com/sargoo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sargoo.ttf'
 end

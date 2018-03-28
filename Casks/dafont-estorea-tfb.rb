@@ -5,7 +5,6 @@ cask 'dafont-estorea-tfb' do
     url 'http://dl.dafont.com/dl/?f=estorea_tfb'
     name 'Estorea TFB'
     homepage 'http://www.dafont.com/estorea-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Estorea tfb.ttf'
 end

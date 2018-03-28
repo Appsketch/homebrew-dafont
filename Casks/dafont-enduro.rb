@@ -5,7 +5,6 @@ cask 'dafont-enduro' do
     url 'http://dl.dafont.com/dl/?f=enduro'
     name 'Enduro'
     homepage 'http://www.dafont.com/enduro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ENDOS.TTF'
     font 'ENDURO4.TTF'

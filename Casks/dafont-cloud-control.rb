@@ -5,7 +5,6 @@ cask 'dafont-cloud-control' do
     url 'http://dl.dafont.com/dl/?f=cloud_control'
     name 'Cloud Control'
     homepage 'http://www.dafont.com/cloud-control.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cloud Control V2.ttf'
 end

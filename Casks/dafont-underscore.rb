@@ -5,7 +5,6 @@ cask 'dafont-underscore' do
     url 'http://dl.dafont.com/dl/?f=underscore'
     name 'Underscore'
     homepage 'http://www.dafont.com/underscore.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'underscr.ttf'
     font 'undrscr2.ttf'

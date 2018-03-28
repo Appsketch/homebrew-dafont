@@ -5,7 +5,6 @@ cask 'dafont-indiana-state' do
     url 'http://dl.dafont.com/dl/?f=indiana_state'
     name 'Indiana State'
     homepage 'http://www.dafont.com/indiana-state.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Indiana State.ttf'
 end

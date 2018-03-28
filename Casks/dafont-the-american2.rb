@@ -5,7 +5,6 @@ cask 'dafont-the-american2' do
     url 'http://dl.dafont.com/dl/?f=the_american2'
     name 'The American'
     homepage 'http://www.dafont.com/the-american2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The-American.ttf'
 end

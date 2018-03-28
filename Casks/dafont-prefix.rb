@@ -5,7 +5,6 @@ cask 'dafont-prefix' do
     url 'http://dl.dafont.com/dl/?f=prefix'
     name 'Prefix'
     homepage 'http://www.dafont.com/prefix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PREFIX.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bright-lights-gigantico' do
     url 'http://dl.dafont.com/dl/?f=bright_lights_gigantico'
     name 'Bright Lights'
     homepage 'http://www.dafont.com/bright-lights-gigantico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bright_lights_.ttf'
     font 'bright_lights_bold.ttf'

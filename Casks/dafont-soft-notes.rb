@@ -5,7 +5,6 @@ cask 'dafont-soft-notes' do
     url 'http://dl.dafont.com/dl/?f=soft_notes'
     name 'Soft Notes'
     homepage 'http://www.dafont.com/soft-notes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Soft_Notes.otf'
 end

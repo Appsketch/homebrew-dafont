@@ -5,7 +5,6 @@ cask 'dafont-ellipsoideogram' do
     url 'http://dl.dafont.com/dl/?f=ellipsoideogram'
     name 'Ellipsoideogram'
     homepage 'http://www.dafont.com/ellipsoideogram.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ellipsoideogram.ttf'
 end

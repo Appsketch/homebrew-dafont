@@ -5,7 +5,6 @@ cask 'dafont-insideoutside' do
     url 'http://dl.dafont.com/dl/?f=insideoutside'
     name 'Inside Outside'
     homepage 'http://www.dafont.com/insideoutside.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InsideOutside.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wave-zone' do
     url 'http://dl.dafont.com/dl/?f=wave_zone'
     name 'Wave Zone'
     homepage 'http://www.dafont.com/wave-zone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wave zone.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fonts-lab-symphony' do
     url 'http://dl.dafont.com/dl/?f=fonts_lab_symphony'
     name 'Fonts-Lab Symphony'
     homepage 'http://www.dafont.com/fonts-lab-symphony.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fonts-lab Symphony_demo.ttf'
 end

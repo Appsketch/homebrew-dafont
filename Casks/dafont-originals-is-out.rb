@@ -5,7 +5,6 @@ cask 'dafont-originals-is-out' do
     url 'http://dl.dafont.com/dl/?f=originals_is_out'
     name 'Originals is Out'
     homepage 'http://www.dafont.com/originals-is-out.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Originals is Out.ttf'
 end

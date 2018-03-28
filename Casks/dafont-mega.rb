@@ -5,7 +5,6 @@ cask 'dafont-mega' do
     url 'http://dl.dafont.com/dl/?f=mega'
     name 'Mega !'
     homepage 'http://www.dafont.com/mega.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MEGA!.ttf'
 end

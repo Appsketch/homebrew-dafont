@@ -5,7 +5,6 @@ cask 'dafont-flipbash' do
     url 'http://dl.dafont.com/dl/?f=flipbash'
     name 'Flipbash'
     homepage 'http://www.dafont.com/flipbash.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flipbash Condensed Italic.otf'
     font 'Flipbash Condensed.otf'

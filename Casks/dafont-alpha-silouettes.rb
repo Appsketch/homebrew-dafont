@@ -5,7 +5,6 @@ cask 'dafont-alpha-silouettes' do
     url 'http://dl.dafont.com/dl/?f=alpha_silouettes'
     name 'Alpha Silouettes'
     homepage 'http://www.dafont.com/alpha-silouettes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alpha-Silouette.TTF'
     font 'Alpha-Silouettes 2.ttf'

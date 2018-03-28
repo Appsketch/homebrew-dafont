@@ -5,7 +5,6 @@ cask 'dafont-unbalanced' do
     url 'http://dl.dafont.com/dl/?f=unbalanced'
     name 'Unbalanced'
     homepage 'http://www.dafont.com/unbalanced.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unbalanced.ttf'
 end

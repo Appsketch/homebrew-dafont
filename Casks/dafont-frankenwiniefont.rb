@@ -5,7 +5,6 @@ cask 'dafont-frankenwiniefont' do
     url 'http://dl.dafont.com/dl/?f=frankenwiniefont'
     name 'Frankenwinie'
     homepage 'http://www.dafont.com/frankenwiniefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'frankenwiniefont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kells-sd' do
     url 'http://dl.dafont.com/dl/?f=kells_sd'
     name 'Kells SD'
     homepage 'http://www.dafont.com/kells-sd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kells SD.ttf'
 end

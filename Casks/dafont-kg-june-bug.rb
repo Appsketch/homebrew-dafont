@@ -5,7 +5,6 @@ cask 'dafont-kg-june-bug' do
     url 'http://dl.dafont.com/dl/?f=kg_june_bug'
     name 'KG June Bug'
     homepage 'http://www.dafont.com/kg-june-bug.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGJuneBug.ttf'
     font 'KGJuneBugReverse.ttf'

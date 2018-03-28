@@ -5,7 +5,6 @@ cask 'dafont-bella-k-brackets' do
     url 'http://dl.dafont.com/dl/?f=bella_k_brackets'
     name 'Bella K. Brackets'
     homepage 'http://www.dafont.com/bella-k-brackets.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BellaKBrackets.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-schoolparty' do
     url 'http://dl.dafont.com/dl/?f=schoolparty'
     name 'School Party'
     homepage 'http://www.dafont.com/schoolparty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SchoolParty.ttf'
 end

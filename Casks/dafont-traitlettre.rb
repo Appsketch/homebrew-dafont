@@ -5,7 +5,6 @@ cask 'dafont-traitlettre' do
     url 'http://dl.dafont.com/dl/?f=traitlettre'
     name 'Trait lettre'
     homepage 'http://www.dafont.com/traitlettre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Traitlettre.ttf'
 end

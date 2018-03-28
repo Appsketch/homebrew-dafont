@@ -5,7 +5,6 @@ cask 'dafont-regen' do
     url 'http://dl.dafont.com/dl/?f=regen'
     name 'Regen'
     homepage 'http://www.dafont.com/regen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Regen Bold Italic.otf'
     font 'Regen Bold.otf'

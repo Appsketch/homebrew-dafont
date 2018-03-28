@@ -5,7 +5,6 @@ cask 'dafont-blue-plate-special-' do
     url 'http://dl.dafont.com/dl/?f=blue_plate_special_'
     name 'Blue Plate Special SW'
     homepage 'http://www.dafont.com/blue-plate-special-.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLUEPSS_.TTF'
 end

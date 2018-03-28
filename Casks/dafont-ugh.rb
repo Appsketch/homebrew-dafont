@@ -5,7 +5,6 @@ cask 'dafont-ugh' do
     url 'http://dl.dafont.com/dl/?f=ugh'
     name 'Ugh'
     homepage 'http://www.dafont.com/ugh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ugh.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-trapped' do
     url 'http://dl.dafont.com/dl/?f=trapped'
     name 'Trapped'
     homepage 'http://www.dafont.com/trapped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trapped_Heavy.ttf'
 end

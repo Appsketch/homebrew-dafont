@@ -5,7 +5,6 @@ cask 'dafont-nocker-cranky' do
     url 'http://dl.dafont.com/dl/?f=nocker_cranky'
     name 'Nocker'
     homepage 'http://www.dafont.com/nocker-cranky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOCKC___.TTF'
 end

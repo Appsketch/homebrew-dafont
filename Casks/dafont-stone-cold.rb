@@ -5,7 +5,6 @@ cask 'dafont-stone-cold' do
     url 'http://dl.dafont.com/dl/?f=stone_cold'
     name 'Stone Cold'
     homepage 'http://www.dafont.com/stone-cold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STONC___.TTF'
 end

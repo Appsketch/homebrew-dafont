@@ -5,7 +5,6 @@ cask 'dafont-kbwitchinghour' do
     url 'http://dl.dafont.com/dl/?f=kbwitchinghour'
     name 'KB Witching Hour'
     homepage 'http://www.dafont.com/kbwitchinghour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBWitchingHour.ttf'
 end

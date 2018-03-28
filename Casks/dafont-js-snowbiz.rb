@@ -5,7 +5,6 @@ cask 'dafont-js-snowbiz' do
     url 'http://dl.dafont.com/dl/?f=js_snowbiz'
     name 'JS Snowbiz'
     homepage 'http://www.dafont.com/js-snowbiz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JFSnobiz.ttf'
 end

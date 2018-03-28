@@ -5,7 +5,6 @@ cask 'dafont-jtsveryamazingfont' do
     url 'http://dl.dafont.com/dl/?f=jtsveryamazingfont'
     name 'JTs Very Amazing Font'
     homepage 'http://www.dafont.com/jtsveryamazingfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JTsVeryAmazingFont.ttf'
 end

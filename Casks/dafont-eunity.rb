@@ -5,7 +5,6 @@ cask 'dafont-eunity' do
     url 'http://dl.dafont.com/dl/?f=eunity'
     name 'EUnity'
     homepage 'http://www.dafont.com/eunity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EUnity.ttf'
 end

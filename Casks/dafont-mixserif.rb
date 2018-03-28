@@ -5,7 +5,6 @@ cask 'dafont-mixserif' do
     url 'http://dl.dafont.com/dl/?f=mixserif'
     name 'Mix Serif'
     homepage 'http://www.dafont.com/mixserif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixSerif.ttf'
 end

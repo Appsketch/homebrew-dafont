@@ -5,7 +5,6 @@ cask 'dafont-amoceanus' do
     url 'http://dl.dafont.com/dl/?f=amoceanus'
     name 'AM Oceanus'
     homepage 'http://www.dafont.com/amoceanus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AMOceanus.ttf'
     font 'AMOceanusBold.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-tt-kp' do
     url 'http://dl.dafont.com/dl/?f=tt_kp'
     name 'Tt-Kp'
     homepage 'http://www.dafont.com/tt-kp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TT-KP-ME.TTF'
     font 'TT-KP-RE.TTF'

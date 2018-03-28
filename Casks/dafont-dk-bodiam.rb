@@ -5,7 +5,6 @@ cask 'dafont-dk-bodiam' do
     url 'http://dl.dafont.com/dl/?f=dk_bodiam'
     name 'DK Bodiam'
     homepage 'http://www.dafont.com/dk-bodiam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Bodiam.otf'
 end

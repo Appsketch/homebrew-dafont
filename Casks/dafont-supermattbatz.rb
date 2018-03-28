@@ -5,7 +5,6 @@ cask 'dafont-supermattbatz' do
     url 'http://dl.dafont.com/dl/?f=supermattbatz'
     name 'SuperMattBatz'
     homepage 'http://www.dafont.com/supermattbatz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPEMB__.TTF'
 end

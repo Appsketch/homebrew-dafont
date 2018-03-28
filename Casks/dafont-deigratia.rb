@@ -5,7 +5,6 @@ cask 'dafont-deigratia' do
     url 'http://dl.dafont.com/dl/?f=deigratia'
     name 'DeiGratia'
     homepage 'http://www.dafont.com/deigratia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeiGrat.ttf'
 end

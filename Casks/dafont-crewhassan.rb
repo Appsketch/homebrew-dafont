@@ -5,7 +5,6 @@ cask 'dafont-crewhassan' do
     url 'http://dl.dafont.com/dl/?f=crewhassan'
     name 'CrewHassan'
     homepage 'http://www.dafont.com/crewhassan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CrewHassanBlack.ttf'
     font 'CrewHassanPositive.ttf'

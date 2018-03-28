@@ -5,7 +5,6 @@ cask 'dafont-venetian-sound-system' do
     url 'http://dl.dafont.com/dl/?f=venetian_sound_system'
     name 'Venetian Sound System'
     homepage 'http://www.dafont.com/venetian-sound-system.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'venetian_sound_system.ttf'
 end

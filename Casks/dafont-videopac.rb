@@ -5,7 +5,6 @@ cask 'dafont-videopac' do
     url 'http://dl.dafont.com/dl/?f=videopac'
     name 'Videopac'
     homepage 'http://www.dafont.com/videopac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Videopac Bold Italic.otf'
     font 'Videopac Bold.otf'

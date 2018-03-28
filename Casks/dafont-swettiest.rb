@@ -5,7 +5,6 @@ cask 'dafont-swettiest' do
     url 'http://dl.dafont.com/dl/?f=swettiest'
     name 'Swettiest'
     homepage 'http://www.dafont.com/swettiest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Swettiest.ttf'
 end

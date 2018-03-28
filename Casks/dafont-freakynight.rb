@@ -5,7 +5,6 @@ cask 'dafont-freakynight' do
     url 'http://dl.dafont.com/dl/?f=freakynight'
     name 'Freaky Night'
     homepage 'http://www.dafont.com/freakynight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreakyNight.ttf'
 end

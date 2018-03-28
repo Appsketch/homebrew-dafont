@@ -5,7 +5,6 @@ cask 'dafont-matrix-complex-nc' do
     url 'http://dl.dafont.com/dl/?f=matrix_complex_nc'
     name 'Matrix Complex NC'
     homepage 'http://www.dafont.com/matrix-complex-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Matrix Complex 3D NC.ttf'
     font 'Matrix Complex NC.ttf'

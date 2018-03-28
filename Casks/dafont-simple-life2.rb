@@ -5,7 +5,6 @@ cask 'dafont-simple-life2' do
     url 'http://dl.dafont.com/dl/?f=simple_life2'
     name 'Simple Life'
     homepage 'http://www.dafont.com/simple-life2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Simple Life.ttf'
 end

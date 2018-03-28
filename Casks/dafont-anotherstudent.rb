@@ -5,7 +5,6 @@ cask 'dafont-anotherstudent' do
     url 'http://dl.dafont.com/dl/?f=anotherstudent'
     name 'Another Student'
     homepage 'http://www.dafont.com/anotherstudent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnotherStudent.ttf'
 end

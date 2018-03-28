@@ -5,7 +5,6 @@ cask 'dafont-asphalts' do
     url 'http://dl.dafont.com/dl/?f=asphalts'
     name 'Asphalts'
     homepage 'http://www.dafont.com/asphalts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Asphalts Brush (Personal Use).ttf'
     font 'Asphalts Display (Personal Use).otf'

@@ -5,7 +5,6 @@ cask 'dafont-anilin' do
     url 'http://dl.dafont.com/dl/?f=anilin'
     name 'Anilin'
     homepage 'http://www.dafont.com/anilin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anilin_bold.ttf'
     font 'Anilin_regular.ttf'

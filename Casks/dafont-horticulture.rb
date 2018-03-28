@@ -5,7 +5,6 @@ cask 'dafont-horticulture' do
     url 'http://dl.dafont.com/dl/?f=horticulture'
     name 'Horticulture'
     homepage 'http://www.dafont.com/horticulture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Horticulture.otf'
 end

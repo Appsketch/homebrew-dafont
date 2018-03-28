@@ -5,7 +5,6 @@ cask 'dafont-hanoi' do
     url 'http://dl.dafont.com/dl/?f=hanoi'
     name 'Hanoi'
     homepage 'http://www.dafont.com/hanoi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hanoi.ttf'
 end

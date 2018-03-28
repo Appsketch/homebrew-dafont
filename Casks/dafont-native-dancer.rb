@@ -5,7 +5,6 @@ cask 'dafont-native-dancer' do
     url 'http://dl.dafont.com/dl/?f=native_dancer'
     name 'Native Dancer'
     homepage 'http://www.dafont.com/native-dancer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Native Dancer.ttf'
 end

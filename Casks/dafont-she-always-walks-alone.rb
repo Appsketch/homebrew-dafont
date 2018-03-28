@@ -5,7 +5,6 @@ cask 'dafont-she-always-walks-alone' do
     url 'http://dl.dafont.com/dl/?f=she_always_walks_alone'
     name 'She Always Walks Alone'
     homepage 'http://www.dafont.com/she-always-walks-alone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'She Always Walks Alone Demo.ttf'
 end

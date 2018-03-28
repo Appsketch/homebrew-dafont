@@ -5,7 +5,6 @@ cask 'dafont-djb-standardized-test-oval' do
     url 'http://dl.dafont.com/dl/?f=djb_standardized_test_oval'
     name 'DJB Standardized Test Oval'
     homepage 'http://www.dafont.com/djb-standardized-test-oval.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Standardized Test Oval 2.ttf'
     font 'DJB Standardized Test Oval.ttf'

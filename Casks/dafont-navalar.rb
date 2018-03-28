@@ -5,7 +5,6 @@ cask 'dafont-navalar' do
     url 'http://dl.dafont.com/dl/?f=navalar'
     name 'Navalar'
     homepage 'http://www.dafont.com/navalar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Navalar.ttf'
 end

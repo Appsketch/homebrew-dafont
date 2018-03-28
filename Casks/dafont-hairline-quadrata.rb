@@ -5,7 +5,6 @@ cask 'dafont-hairline-quadrata' do
     url 'http://dl.dafont.com/dl/?f=hairline_quadrata'
     name 'Hairline Quadrata'
     homepage 'http://www.dafont.com/hairline-quadrata.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hairline Quadrata.ttf'
 end

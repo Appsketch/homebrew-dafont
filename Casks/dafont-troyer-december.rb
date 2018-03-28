@@ -5,7 +5,6 @@ cask 'dafont-troyer-december' do
     url 'http://dl.dafont.com/dl/?f=troyer_december'
     name 'Troyer December'
     homepage 'http://www.dafont.com/troyer-december.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TroyerDecember.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-percance-fatal' do
     url 'http://dl.dafont.com/dl/?f=percance_fatal'
     name 'Percance Fatal'
     homepage 'http://www.dafont.com/percance-fatal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Percance Fatal.ttf'
 end

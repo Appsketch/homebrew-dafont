@@ -5,7 +5,6 @@ cask 'dafont-2015-cruiser' do
     url 'http://dl.dafont.com/dl/?f=2015_cruiser'
     name '2015 Cruiser'
     homepage 'http://www.dafont.com/2015-cruiser.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '2015 Cruiser Bold Italic.otf'
     font '2015 Cruiser Bold.otf'

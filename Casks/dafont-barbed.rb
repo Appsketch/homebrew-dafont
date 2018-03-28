@@ -5,7 +5,6 @@ cask 'dafont-barbed' do
     url 'http://dl.dafont.com/dl/?f=barbed'
     name 'Barbed'
     homepage 'http://www.dafont.com/barbed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Barbed_.otf'
 end

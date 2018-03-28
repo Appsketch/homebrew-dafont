@@ -5,7 +5,6 @@ cask 'dafont-my-70s-dings' do
     url 'http://dl.dafont.com/dl/?f=my_70s_dings'
     name 'My 70s Dings'
     homepage 'http://www.dafont.com/my-70s-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MY70D___.ttf'
 end

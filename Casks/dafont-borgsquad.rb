@@ -5,7 +5,6 @@ cask 'dafont-borgsquad' do
     url 'http://dl.dafont.com/dl/?f=borgsquad'
     name 'Borgsquad'
     homepage 'http://www.dafont.com/borgsquad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'borgsquad.ttf'
     font 'borgsquad3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-kokekoko' do
     url 'http://dl.dafont.com/dl/?f=kokekoko'
     name 'Kokekoko'
     homepage 'http://www.dafont.com/kokekoko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kokekoko_light.ttf'
     font 'kokekoko.ttf'

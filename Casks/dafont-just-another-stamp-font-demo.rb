@@ -5,7 +5,6 @@ cask 'dafont-just-another-stamp-font-demo' do
     url 'http://dl.dafont.com/dl/?f=just_another_stamp_font_demo'
     name 'Just another stamp font'
     homepage 'http://www.dafont.com/just-another-stamp-font-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'justanotherstampfont_demo.ttf'
 end

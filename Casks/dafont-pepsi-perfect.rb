@@ -5,7 +5,6 @@ cask 'dafont-pepsi-perfect' do
     url 'http://dl.dafont.com/dl/?f=pepsi_perfect'
     name 'Pepsi Perfect'
     homepage 'http://www.dafont.com/pepsi-perfect.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pepsi Perfect Font.ttf'
 end

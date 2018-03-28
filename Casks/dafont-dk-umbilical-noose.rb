@@ -5,7 +5,6 @@ cask 'dafont-dk-umbilical-noose' do
     url 'http://dl.dafont.com/dl/?f=dk_umbilical_noose'
     name 'DK Umbilical Noose'
     homepage 'http://www.dafont.com/dk-umbilical-noose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Umbilical Noose.ttf'
 end

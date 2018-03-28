@@ -5,7 +5,6 @@ cask 'dafont-earth-orbiter' do
     url 'http://dl.dafont.com/dl/?f=earth_orbiter'
     name 'Earth Orbiter'
     homepage 'http://www.dafont.com/earth-orbiter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'earthorbiter.ttf'
     font 'earthorbiter3d.ttf'

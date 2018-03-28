@@ -5,7 +5,6 @@ cask 'dafont-a-glitch-in-time' do
     url 'http://dl.dafont.com/dl/?f=a_glitch_in_time'
     name 'A Glitch In Time'
     homepage 'http://www.dafont.com/a-glitch-in-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A Glitch In Time.ttf'
 end

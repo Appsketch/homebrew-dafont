@@ -5,7 +5,6 @@ cask 'dafont-gezzy' do
     url 'http://dl.dafont.com/dl/?f=gezzy'
     name 'Gezzy'
     homepage 'http://www.dafont.com/gezzy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gezzy-CondensedThin.ttf'
 end

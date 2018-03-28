@@ -5,7 +5,6 @@ cask 'dafont-christmas-card' do
     url 'http://dl.dafont.com/dl/?f=christmas_card'
     name 'Christmas Card'
     homepage 'http://www.dafont.com/christmas-card.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHRICI__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-alpha-centauri' do
     url 'http://dl.dafont.com/dl/?f=alpha_centauri'
     name 'Alpha Centauri'
     homepage 'http://www.dafont.com/alpha-centauri.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alpha Centauri.ttf'
 end

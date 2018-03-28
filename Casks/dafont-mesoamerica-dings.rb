@@ -5,7 +5,6 @@ cask 'dafont-mesoamerica-dings' do
     url 'http://dl.dafont.com/dl/?f=mesoamerica_dings'
     name 'MesoAmerica Dings'
     homepage 'http://www.dafont.com/mesoamerica-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MesoAmerica Dings Four.ttf'
     font 'MesoAmerica Dings Three.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-cf-tuques' do
     url 'http://dl.dafont.com/dl/?f=cf_tuques'
     name 'CF Tuques'
     homepage 'http://www.dafont.com/cf-tuques.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFTuques.ttf'
 end

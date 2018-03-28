@@ -5,7 +5,6 @@ cask 'dafont-one-and-a-half-feet-under' do
     url 'http://dl.dafont.com/dl/?f=one_and_a_half_feet_under'
     name 'One and a Half Feet Under'
     homepage 'http://www.dafont.com/one-and-a-half-feet-under.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'one-and-a-half-feet-under.ttf'
 end

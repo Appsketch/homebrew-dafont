@@ -5,7 +5,6 @@ cask 'dafont-hexcellent' do
     url 'http://dl.dafont.com/dl/?f=hexcellent'
     name 'Hexcellent'
     homepage 'http://www.dafont.com/hexcellent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HEXCELLENT.ttf'
 end

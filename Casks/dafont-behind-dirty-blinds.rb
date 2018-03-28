@@ -5,7 +5,6 @@ cask 'dafont-behind-dirty-blinds' do
     url 'http://dl.dafont.com/dl/?f=behind_dirty_blinds'
     name 'Behind Dirty Blinds'
     homepage 'http://www.dafont.com/behind-dirty-blinds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BehindDirtyBlinds.ttf'
 end

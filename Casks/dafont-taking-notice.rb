@@ -5,7 +5,6 @@ cask 'dafont-taking-notice' do
     url 'http://dl.dafont.com/dl/?f=taking_notice'
     name 'Taking Notice'
     homepage 'http://www.dafont.com/taking-notice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Taking Notice.otf'
 end

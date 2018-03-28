@@ -5,7 +5,6 @@ cask 'dafont-aegis' do
     url 'http://dl.dafont.com/dl/?f=aegis'
     name 'Aegis'
     homepage 'http://www.dafont.com/aegis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'aegis1.ttf'
     font 'aegis13d.ttf'

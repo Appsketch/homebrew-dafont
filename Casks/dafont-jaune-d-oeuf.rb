@@ -5,7 +5,6 @@ cask 'dafont-jaune-d-oeuf' do
     url 'http://dl.dafont.com/dl/?f=jaune_d_oeuf'
     name 'Jaune d&#039;uf'
     homepage 'http://www.dafont.com/jaune-d-oeuf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jaunedoeuf_bold.ttf'
     font 'jaunedoeuf_regular.ttf'

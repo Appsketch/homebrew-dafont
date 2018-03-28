@@ -5,7 +5,6 @@ cask 'dafont-easy-trouble' do
     url 'http://dl.dafont.com/dl/?f=easy_trouble'
     name 'Easy Trouble'
     homepage 'http://www.dafont.com/easy-trouble.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EASYTOUBLE TRIAL___.otf'
 end

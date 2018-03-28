@@ -5,7 +5,6 @@ cask 'dafont-emileedigital' do
     url 'http://dl.dafont.com/dl/?f=emileedigital'
     name 'Emilee digital'
     homepage 'http://www.dafont.com/emileedigital.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Emileedigital.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vtks-noise' do
     url 'http://dl.dafont.com/dl/?f=vtks_noise'
     name 'Vtks Noise'
     homepage 'http://www.dafont.com/vtks-noise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vtks noise.ttf'
 end

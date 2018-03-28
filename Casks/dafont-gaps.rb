@@ -5,7 +5,6 @@ cask 'dafont-gaps' do
     url 'http://dl.dafont.com/dl/?f=gaps'
     name 'Gaps'
     homepage 'http://www.dafont.com/gaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gaps2.ttf'
 end

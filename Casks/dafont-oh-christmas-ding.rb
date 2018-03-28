@@ -5,7 +5,6 @@ cask 'dafont-oh-christmas-ding' do
     url 'http://dl.dafont.com/dl/?f=oh_christmas_ding'
     name 'Oh Christmas Ding'
     homepage 'http://www.dafont.com/oh-christmas-ding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'oh christmas ding.otf'
 end

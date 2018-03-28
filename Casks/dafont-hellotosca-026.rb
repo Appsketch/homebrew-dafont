@@ -5,7 +5,6 @@ cask 'dafont-hellotosca-026' do
     url 'http://dl.dafont.com/dl/?f=hellotosca_026'
     name 'Hellotosca 026'
     homepage 'http://www.dafont.com/hellotosca-026.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hellotosca 026.ttf'
 end

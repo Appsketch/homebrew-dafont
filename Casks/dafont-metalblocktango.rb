@@ -5,7 +5,6 @@ cask 'dafont-metalblocktango' do
     url 'http://dl.dafont.com/dl/?f=metalblocktango'
     name 'Metal Block Tango'
     homepage 'http://www.dafont.com/metalblocktango.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MetalBlockTango.ttf'
 end

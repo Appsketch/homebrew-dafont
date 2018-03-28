@@ -5,7 +5,6 @@ cask 'dafont-udeman' do
     url 'http://dl.dafont.com/dl/?f=udeman'
     name 'UdeMan'
     homepage 'http://www.dafont.com/udeman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UDEMAN__.TTF'
 end

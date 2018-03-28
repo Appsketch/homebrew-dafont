@@ -5,7 +5,6 @@ cask 'dafont-trompus' do
     url 'http://dl.dafont.com/dl/?f=trompus'
     name 'Trompus'
     homepage 'http://www.dafont.com/trompus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Trompus.otf'
 end

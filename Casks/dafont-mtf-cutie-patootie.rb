@@ -5,7 +5,6 @@ cask 'dafont-mtf-cutie-patootie' do
     url 'http://dl.dafont.com/dl/?f=mtf_cutie_patootie'
     name 'MTF Cutie Patootie'
     homepage 'http://www.dafont.com/mtf-cutie-patootie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Cutie Patootie.ttf'
 end

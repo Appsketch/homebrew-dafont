@@ -5,7 +5,6 @@ cask 'dafont-torniello-initials' do
     url 'http://dl.dafont.com/dl/?f=torniello_initials'
     name 'Torniello Initials'
     homepage 'http://www.dafont.com/torniello-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TornielloInitials.ttf'
 end

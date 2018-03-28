@@ -5,7 +5,6 @@ cask 'dafont-arabica-export' do
     url 'http://dl.dafont.com/dl/?f=arabica_export'
     name 'Arabica Export'
     homepage 'http://www.dafont.com/arabica-export.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arabica Export.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-punkboy' do
     url 'http://dl.dafont.com/dl/?f=punkboy'
     name 'Punkboy'
     homepage 'http://www.dafont.com/punkboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'punkboy_tbs_bold.ttf'
     font 'punkboy_tbs_ital.ttf'

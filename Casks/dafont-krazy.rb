@@ -5,7 +5,6 @@ cask 'dafont-krazy' do
     url 'http://dl.dafont.com/dl/?f=krazy'
     name 'Krazy'
     homepage 'http://www.dafont.com/krazy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Krazy.ttf'
 end

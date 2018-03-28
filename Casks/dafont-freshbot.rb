@@ -5,7 +5,6 @@ cask 'dafont-freshbot' do
     url 'http://dl.dafont.com/dl/?f=freshbot'
     name 'Freshbot'
     homepage 'http://www.dafont.com/freshbot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FRESHBOT.TTF'
 end

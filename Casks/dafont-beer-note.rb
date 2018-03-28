@@ -5,7 +5,6 @@ cask 'dafont-beer-note' do
     url 'http://dl.dafont.com/dl/?f=beer_note'
     name 'Beer Note'
     homepage 'http://www.dafont.com/beer-note.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEERNOTE trial.ttf'
 end

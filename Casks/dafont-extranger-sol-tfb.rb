@@ -5,7 +5,6 @@ cask 'dafont-extranger-sol-tfb' do
     url 'http://dl.dafont.com/dl/?f=extranger_sol_tfb'
     name 'Extranger Sol TFB'
     homepage 'http://www.dafont.com/extranger-sol-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extranger sol tfb.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-klaber-fraktur' do
     url 'http://dl.dafont.com/dl/?f=klaber_fraktur'
     name 'Klaber Fraktur'
     homepage 'http://www.dafont.com/klaber-fraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KlaberFraktur.ttf'
 end

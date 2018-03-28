@@ -5,7 +5,6 @@ cask 'dafont-vampire-games' do
     url 'http://dl.dafont.com/dl/?f=vampire_games'
     name 'Vampire Games'
     homepage 'http://www.dafont.com/vampire-games.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vamp3d.ttf'
     font 'vampv2.ttf'

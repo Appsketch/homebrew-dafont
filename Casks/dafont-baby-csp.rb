@@ -5,7 +5,6 @@ cask 'dafont-baby-csp' do
     url 'http://dl.dafont.com/dl/?f=baby_csp'
     name 'Baby CSP'
     homepage 'http://www.dafont.com/baby-csp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'baby_csp.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-crackman' do
     url 'http://dl.dafont.com/dl/?f=crackman'
     name 'Crackman'
     homepage 'http://www.dafont.com/crackman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'crackman back.ttf'
     font 'crackman front.ttf'

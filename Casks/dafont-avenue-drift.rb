@@ -5,7 +5,6 @@ cask 'dafont-avenue-drift' do
     url 'http://dl.dafont.com/dl/?f=avenue_drift'
     name 'Avenue Drift'
     homepage 'http://www.dafont.com/avenue-drift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Avenue Drift.ttf'
 end

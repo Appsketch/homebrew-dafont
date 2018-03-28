@@ -5,7 +5,6 @@ cask 'dafont-dk-koerier' do
     url 'http://dl.dafont.com/dl/?f=dk_koerier'
     name 'DK Koerier'
     homepage 'http://www.dafont.com/dk-koerier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Koerier.ttf'
 end

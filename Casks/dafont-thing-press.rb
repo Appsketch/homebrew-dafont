@@ -5,7 +5,6 @@ cask 'dafont-thing-press' do
     url 'http://dl.dafont.com/dl/?f=thing_press'
     name 'Thing Press'
     homepage 'http://www.dafont.com/thing-press.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thing Press.ttf'
 end

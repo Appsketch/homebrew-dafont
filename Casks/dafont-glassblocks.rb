@@ -5,7 +5,6 @@ cask 'dafont-glassblocks' do
     url 'http://dl.dafont.com/dl/?f=glassblocks'
     name 'GlassBlocks'
     homepage 'http://www.dafont.com/glassblocks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Glassblocks.ttf'
 end

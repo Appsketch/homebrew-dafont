@@ -5,7 +5,6 @@ cask 'dafont-lets-do-it-again' do
     url 'http://dl.dafont.com/dl/?f=lets_do_it_again'
     name 'Lets Do It Again'
     homepage 'http://www.dafont.com/lets-do-it-again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lets Do it Again.ttf'
 end

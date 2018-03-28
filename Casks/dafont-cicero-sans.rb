@@ -5,7 +5,6 @@ cask 'dafont-cicero-sans' do
     url 'http://dl.dafont.com/dl/?f=cicero_sans'
     name 'Cicero Sans Negrita'
     homepage 'http://www.dafont.com/cicero-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cicero Sans Negrita.ttf'
 end

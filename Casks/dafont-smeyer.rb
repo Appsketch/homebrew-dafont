@@ -5,7 +5,6 @@ cask 'dafont-smeyer' do
     url 'http://dl.dafont.com/dl/?f=smeyer'
     name 'Smeyer'
     homepage 'http://www.dafont.com/smeyer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smeyer-Black Edit.ttf'
 end

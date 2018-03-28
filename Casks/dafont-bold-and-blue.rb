@@ -5,7 +5,6 @@ cask 'dafont-bold-and-blue' do
     url 'http://dl.dafont.com/dl/?f=bold_and_blue'
     name 'Bold and blue'
     homepage 'http://www.dafont.com/bold-and-blue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bold and blue.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jellyka-delicious-cake' do
     url 'http://dl.dafont.com/dl/?f=jellyka_delicious_cake'
     name 'Jellyka Delicious Cake'
     homepage 'http://www.dafont.com/jellyka-delicious-cake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jellyka Delicious Cake.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kirby-no-kira-kizzu' do
     url 'http://dl.dafont.com/dl/?f=kirby_no_kira_kizzu'
     name 'Kirby No Kira Kizzu'
     homepage 'http://www.dafont.com/kirby-no-kira-kizzu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kirbyss.ttf'
 end

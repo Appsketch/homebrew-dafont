@@ -5,7 +5,6 @@ cask 'dafont-swiftbreak' do
     url 'http://dl.dafont.com/dl/?f=swiftbreak'
     name 'Swift Break'
     homepage 'http://www.dafont.com/swiftbreak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SwiftBreak.ttf'
 end

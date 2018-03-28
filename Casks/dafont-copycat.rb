@@ -5,7 +5,6 @@ cask 'dafont-copycat' do
     url 'http://dl.dafont.com/dl/?f=copycat'
     name 'Copycat'
     homepage 'http://www.dafont.com/copycat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CopyCat.ttf'
 end

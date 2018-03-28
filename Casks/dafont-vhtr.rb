@@ -5,7 +5,6 @@ cask 'dafont-vhtr' do
     url 'http://dl.dafont.com/dl/?f=vhtr'
     name 'Vhtr'
     homepage 'http://www.dafont.com/vhtr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'vhtr.ttf'
 end

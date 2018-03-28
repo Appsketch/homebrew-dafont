@@ -5,7 +5,6 @@ cask 'dafont-378font' do
     url 'http://dl.dafont.com/dl/?f=378font'
     name '378 Font'
     homepage 'http://www.dafont.com/378font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '378font.ttf'
 end

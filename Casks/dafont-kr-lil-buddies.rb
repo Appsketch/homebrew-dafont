@@ -5,7 +5,6 @@ cask 'dafont-kr-lil-buddies' do
     url 'http://dl.dafont.com/dl/?f=kr_lil_buddies'
     name 'KR Lil Buddies'
     homepage 'http://www.dafont.com/kr-lil-buddies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Lil Buddies.ttf'
 end

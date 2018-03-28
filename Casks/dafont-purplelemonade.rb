@@ -5,7 +5,6 @@ cask 'dafont-purplelemonade' do
     url 'http://dl.dafont.com/dl/?f=purplelemonade'
     name 'Purple Lemonade'
     homepage 'http://www.dafont.com/purplelemonade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Purplelemonade.ttf'
 end

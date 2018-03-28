@@ -5,7 +5,6 @@ cask 'dafont-streamster' do
     url 'http://dl.dafont.com/dl/?f=streamster'
     name 'Streamster'
     homepage 'http://www.dafont.com/streamster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Streamster.ttf'
 end

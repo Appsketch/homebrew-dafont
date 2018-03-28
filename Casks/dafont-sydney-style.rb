@@ -5,7 +5,6 @@ cask 'dafont-sydney-style' do
     url 'http://dl.dafont.com/dl/?f=sydney_style'
     name 'Sydney Style'
     homepage 'http://www.dafont.com/sydney-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sydney Style.ttf'
 end

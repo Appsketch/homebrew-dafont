@@ -5,7 +5,6 @@ cask 'dafont-djb-skritch-skratch' do
     url 'http://dl.dafont.com/dl/?f=djb_skritch_skratch'
     name 'DJB Skritch Skratch'
     homepage 'http://www.dafont.com/djb-skritch-skratch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Skritch Skratch.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-floozy' do
     url 'http://dl.dafont.com/dl/?f=floozy'
     name 'Floozy'
     homepage 'http://www.dafont.com/floozy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Floozy__.ttf'
 end

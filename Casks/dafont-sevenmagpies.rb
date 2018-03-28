@@ -5,7 +5,6 @@ cask 'dafont-sevenmagpies' do
     url 'http://dl.dafont.com/dl/?f=sevenmagpies'
     name 'Seven Magpies'
     homepage 'http://www.dafont.com/sevenmagpies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SevenMagpies.ttf'
 end

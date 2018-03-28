@@ -5,7 +5,6 @@ cask 'dafont-mix-freo' do
     url 'http://dl.dafont.com/dl/?f=mix_freo'
     name 'Mix Freo'
     homepage 'http://www.dafont.com/mix-freo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mix Freo.otf'
 end

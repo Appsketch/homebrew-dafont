@@ -5,7 +5,6 @@ cask 'dafont-melkein-aito-kopio' do
     url 'http://dl.dafont.com/dl/?f=melkein_aito_kopio'
     name 'Melkein Aito Kopio'
     homepage 'http://www.dafont.com/melkein-aito-kopio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MelkeinAitoKopio.ttf'
 end

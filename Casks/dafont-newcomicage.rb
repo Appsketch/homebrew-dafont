@@ -5,7 +5,6 @@ cask 'dafont-newcomicage' do
     url 'http://dl.dafont.com/dl/?f=newcomicage'
     name 'New Comic Age'
     homepage 'http://www.dafont.com/newcomicage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NewComicAge.ttf'
 end

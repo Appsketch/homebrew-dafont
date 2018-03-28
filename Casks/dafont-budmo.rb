@@ -5,7 +5,6 @@ cask 'dafont-budmo' do
     url 'http://dl.dafont.com/dl/?f=budmo'
     name 'Budmo'
     homepage 'http://www.dafont.com/budmo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'budmo jiggler.ttf'
     font 'budmo jigglish.ttf'

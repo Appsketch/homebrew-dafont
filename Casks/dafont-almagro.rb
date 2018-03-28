@@ -5,7 +5,6 @@ cask 'dafont-almagro' do
     url 'http://dl.dafont.com/dl/?f=almagro'
     name 'Almagro'
     homepage 'http://www.dafont.com/almagro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALMAGRO_.TTF'
 end

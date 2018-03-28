@@ -5,7 +5,6 @@ cask 'dafont-vagebond-c-light' do
     url 'http://dl.dafont.com/dl/?f=vagebond_c_light'
     name 'Vagebond C'
     homepage 'http://www.dafont.com/vagebond-c-light.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VagebondCLightRom.ttf'
 end

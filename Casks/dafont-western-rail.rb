@@ -5,7 +5,6 @@ cask 'dafont-western-rail' do
     url 'http://dl.dafont.com/dl/?f=western_rail'
     name 'Western_Rail'
     homepage 'http://www.dafont.com/western-rail.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'westernraiexpand.ttf'
     font 'westernraiexpandital.ttf'

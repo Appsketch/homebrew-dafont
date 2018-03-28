@@ -5,7 +5,6 @@ cask 'dafont-cd-numbers' do
     url 'http://dl.dafont.com/dl/?f=cd_numbers'
     name 'CD Numbers'
     homepage 'http://www.dafont.com/cd-numbers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cdnumbers.ttf'
 end

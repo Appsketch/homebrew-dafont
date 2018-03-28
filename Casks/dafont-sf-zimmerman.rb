@@ -5,7 +5,6 @@ cask 'dafont-sf-zimmerman' do
     url 'http://dl.dafont.com/dl/?f=sf_zimmerman'
     name 'SF Zimmerman'
     homepage 'http://www.dafont.com/sf-zimmerman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Zimmerman Italic.ttf'
     font 'SF Zimmerman.ttf'

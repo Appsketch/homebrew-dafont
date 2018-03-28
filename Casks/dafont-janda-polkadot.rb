@@ -5,7 +5,6 @@ cask 'dafont-janda-polkadot' do
     url 'http://dl.dafont.com/dl/?f=janda_polkadot'
     name 'Janda Polkadot'
     homepage 'http://www.dafont.com/janda-polkadot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaPolkadotParty.ttf'
     font 'JandaPolkadotPunch.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-brown-bear-funk' do
     url 'http://dl.dafont.com/dl/?f=brown_bear_funk'
     name 'Brown Bear Funk'
     homepage 'http://www.dafont.com/brown-bear-funk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brown_bear_funk.ttf'
 end

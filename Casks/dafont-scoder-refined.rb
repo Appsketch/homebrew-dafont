@@ -5,7 +5,6 @@ cask 'dafont-scoder-refined' do
     url 'http://dl.dafont.com/dl/?f=scoder_refined'
     name 'Scoder Refined'
     homepage 'http://www.dafont.com/scoder-refined.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Scoder Refined.ttf'
 end

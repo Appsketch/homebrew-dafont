@@ -5,7 +5,6 @@ cask 'dafont-dbe-oxygen' do
     url 'http://dl.dafont.com/dl/?f=dbe_oxygen'
     name 'DBE Oxygen'
     homepage 'http://www.dafont.com/dbe-oxygen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dbe-oxygen.ttf'
 end

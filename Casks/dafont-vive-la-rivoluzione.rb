@@ -5,7 +5,6 @@ cask 'dafont-vive-la-rivoluzione' do
     url 'http://dl.dafont.com/dl/?f=vive_la_rivoluzione'
     name 'Vive la Rivoluzione'
     homepage 'http://www.dafont.com/vive-la-rivoluzione.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VivelaRivoluzione.ttf'
 end

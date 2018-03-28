@@ -5,7 +5,6 @@ cask 'dafont-dk-butterfly-ball' do
     url 'http://dl.dafont.com/dl/?f=dk_butterfly_ball'
     name 'DK Butterfly Ball'
     homepage 'http://www.dafont.com/dk-butterfly-ball.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Butterfly Ball.otf'
 end

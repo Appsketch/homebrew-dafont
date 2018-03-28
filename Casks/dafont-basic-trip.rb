@@ -5,7 +5,6 @@ cask 'dafont-basic-trip' do
     url 'http://dl.dafont.com/dl/?f=basic_trip'
     name 'Basic Trip'
     homepage 'http://www.dafont.com/basic-trip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Basic-Trip.ttf'
 end

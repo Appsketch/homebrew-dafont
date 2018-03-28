@@ -5,7 +5,6 @@ cask 'dafont-run' do
     url 'http://dl.dafont.com/dl/?f=run'
     name 'Run'
     homepage 'http://www.dafont.com/run.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'run.ttf'
 end

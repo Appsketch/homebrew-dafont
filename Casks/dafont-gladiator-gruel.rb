@@ -5,7 +5,6 @@ cask 'dafont-gladiator-gruel' do
     url 'http://dl.dafont.com/dl/?f=gladiator_gruel'
     name 'Gladiator Gruel'
     homepage 'http://www.dafont.com/gladiator-gruel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gladiator_Gruel.ttf'
 end

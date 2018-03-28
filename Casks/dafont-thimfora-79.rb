@@ -5,7 +5,6 @@ cask 'dafont-thimfora-79' do
     url 'http://dl.dafont.com/dl/?f=thimfora_79'
     name 'Thimfora 79'
     homepage 'http://www.dafont.com/thimfora-79.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thimfora.ttf'
 end

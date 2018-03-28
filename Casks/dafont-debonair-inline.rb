@@ -5,7 +5,6 @@ cask 'dafont-debonair-inline' do
     url 'http://dl.dafont.com/dl/?f=debonair_inline'
     name 'Debonair Inline'
     homepage 'http://www.dafont.com/debonair-inline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DEBONAIR.TTF'
 end

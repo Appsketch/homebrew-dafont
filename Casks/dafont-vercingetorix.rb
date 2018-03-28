@@ -5,7 +5,6 @@ cask 'dafont-vercingetorix' do
     url 'http://dl.dafont.com/dl/?f=vercingetorix'
     name 'Vercing&eacute;torix'
     homepage 'http://www.dafont.com/vercingetorix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vercingetorix Italic.ttf'
     font 'Vercingetorix.ttf'

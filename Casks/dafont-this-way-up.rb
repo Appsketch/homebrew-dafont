@@ -5,7 +5,6 @@ cask 'dafont-this-way-up' do
     url 'http://dl.dafont.com/dl/?f=this_way_up'
     name 'This Way Up'
     homepage 'http://www.dafont.com/this-way-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THIS way UP.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-falling-in-love' do
     url 'http://dl.dafont.com/dl/?f=falling_in_love'
     name 'Falling In Love'
     homepage 'http://www.dafont.com/falling-in-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Falling In Love.ttf'
 end

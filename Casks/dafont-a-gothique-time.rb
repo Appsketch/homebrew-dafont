@@ -5,7 +5,6 @@ cask 'dafont-a-gothique-time' do
     url 'http://dl.dafont.com/dl/?f=a_gothique_time'
     name 'A Gothique Time '
     homepage 'http://www.dafont.com/a-gothique-time.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'A Gothique Time .ttf'
 end

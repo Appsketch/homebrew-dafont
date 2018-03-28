@@ -5,7 +5,6 @@ cask 'dafont-beth-david' do
     url 'http://dl.dafont.com/dl/?f=beth_david'
     name 'Beth David'
     homepage 'http://www.dafont.com/beth-david.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beth David.ttf'
 end

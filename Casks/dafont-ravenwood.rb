@@ -5,7 +5,6 @@ cask 'dafont-ravenwood' do
     url 'http://dl.dafont.com/dl/?f=ravenwood'
     name 'Ravenwood'
     homepage 'http://www.dafont.com/ravenwood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ravenwood Italic.otf'
     font 'Ravenwood.otf'

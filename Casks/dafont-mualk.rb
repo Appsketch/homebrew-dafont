@@ -5,7 +5,6 @@ cask 'dafont-mualk' do
     url 'http://dl.dafont.com/dl/?f=mualk'
     name 'Mualk'
     homepage 'http://www.dafont.com/mualk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mualk.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-get-the-fuck-up' do
     url 'http://dl.dafont.com/dl/?f=get_the_fuck_up'
     name 'Get the fuck up'
     homepage 'http://www.dafont.com/get-the-fuck-up.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Get the fuck up!.otf'
 end

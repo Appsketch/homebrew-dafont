@@ -5,7 +5,6 @@ cask 'dafont-thors-hammer-carved' do
     url 'http://dl.dafont.com/dl/?f=thors_hammer_carved'
     name 'Thors Hammer'
     homepage 'http://www.dafont.com/thors-hammer-carved.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thors Hammer Carved.ttf'
     font 'Thors Hammer.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-serifsy' do
     url 'http://dl.dafont.com/dl/?f=serifsy'
     name 'Serifsy'
     homepage 'http://www.dafont.com/serifsy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Serifsy.ttf'
 end

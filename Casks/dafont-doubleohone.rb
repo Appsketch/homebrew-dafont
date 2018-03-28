@@ -5,7 +5,6 @@ cask 'dafont-doubleohone' do
     url 'http://dl.dafont.com/dl/?f=doubleohone'
     name 'DoubleOhOne'
     homepage 'http://www.dafont.com/doubleohone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'double01.ttf'
     font 'double01b.ttf'

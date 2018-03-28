@@ -5,7 +5,6 @@ cask 'dafont-offon' do
     url 'http://dl.dafont.com/dl/?f=offon'
     name 'Offon'
     homepage 'http://www.dafont.com/offon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Offon.ttf'
 end

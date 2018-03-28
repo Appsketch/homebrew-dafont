@@ -5,7 +5,6 @@ cask 'dafont-thickhead' do
     url 'http://dl.dafont.com/dl/?f=thickhead'
     name 'Thickhead'
     homepage 'http://www.dafont.com/thickhead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THICKHEA.TTF'
 end

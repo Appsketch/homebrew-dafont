@@ -5,7 +5,6 @@ cask 'dafont-jester' do
     url 'http://dl.dafont.com/dl/?f=jester'
     name 'Jester'
     homepage 'http://www.dafont.com/jester.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jester.ttf'
 end

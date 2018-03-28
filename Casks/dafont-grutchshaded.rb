@@ -5,7 +5,6 @@ cask 'dafont-grutchshaded' do
     url 'http://dl.dafont.com/dl/?f=grutchshaded'
     name 'Grutch Shaded'
     homepage 'http://www.dafont.com/grutchshaded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrutchShaded.ttf'
 end

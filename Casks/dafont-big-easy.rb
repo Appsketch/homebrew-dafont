@@ -5,7 +5,6 @@ cask 'dafont-big-easy' do
     url 'http://dl.dafont.com/dl/?f=big_easy'
     name 'Big Easy'
     homepage 'http://www.dafont.com/big-easy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Big Easy.ttf'
 end

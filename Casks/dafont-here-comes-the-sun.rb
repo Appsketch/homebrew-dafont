@@ -5,7 +5,6 @@ cask 'dafont-here-comes-the-sun' do
     url 'http://dl.dafont.com/dl/?f=here_comes_the_sun'
     name 'Here Comes The Sun'
     homepage 'http://www.dafont.com/here-comes-the-sun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'here comes the sun.ttf'
 end

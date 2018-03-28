@@ -5,7 +5,6 @@ cask 'dafont-mf-wedding-bells' do
     url 'http://dl.dafont.com/dl/?f=mf_wedding_bells'
     name 'Mf Wedding Bells'
     homepage 'http://www.dafont.com/mf-wedding-bells.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Wedding Bells.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mixcomic' do
     url 'http://dl.dafont.com/dl/?f=mixcomic'
     name 'Mix Comic'
     homepage 'http://www.dafont.com/mixcomic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixComic.ttf'
 end

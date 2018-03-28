@@ -5,7 +5,6 @@ cask 'dafont-fray-gabriel' do
     url 'http://dl.dafont.com/dl/?f=fray_gabriel'
     name 'Fray Gabriel'
     homepage 'http://www.dafont.com/fray-gabriel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fray Gabriel.ttf'
 end

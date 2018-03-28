@@ -5,7 +5,6 @@ cask 'dafont-grenouille' do
     url 'http://dl.dafont.com/dl/?f=grenouille'
     name 'Grenouille'
     homepage 'http://www.dafont.com/grenouille.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grenouille.ttf'
 end

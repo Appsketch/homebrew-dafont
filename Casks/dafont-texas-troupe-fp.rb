@@ -5,7 +5,6 @@ cask 'dafont-texas-troupe-fp' do
     url 'http://dl.dafont.com/dl/?f=texas_troupe_fp'
     name 'Texas Troupe FP'
     homepage 'http://www.dafont.com/texas-troupe-fp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Texas Troupe FP.ttf'
 end

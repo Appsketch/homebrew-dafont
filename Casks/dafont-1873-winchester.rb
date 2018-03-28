@@ -5,7 +5,6 @@ cask 'dafont-1873-winchester' do
     url 'http://dl.dafont.com/dl/?f=1873_winchester'
     name '1873 Winchester'
     homepage 'http://www.dafont.com/1873-winchester.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1873_Winchester.ttf'
 end

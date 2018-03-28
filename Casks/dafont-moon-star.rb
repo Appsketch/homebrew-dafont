@@ -5,7 +5,6 @@ cask 'dafont-moon-star' do
     url 'http://dl.dafont.com/dl/?f=moon_star'
     name 'Moon Star'
     homepage 'http://www.dafont.com/moon-star.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moonstar.ttf'
 end

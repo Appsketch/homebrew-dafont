@@ -5,7 +5,6 @@ cask 'dafont-roughwork' do
     url 'http://dl.dafont.com/dl/?f=roughwork'
     name 'Roughwork'
     homepage 'http://www.dafont.com/roughwork.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROD_____.TTF'
 end

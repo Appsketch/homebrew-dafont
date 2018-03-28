@@ -5,7 +5,6 @@ cask 'dafont-lorimer-no2-stencil' do
     url 'http://dl.dafont.com/dl/?f=lorimer_no2_stencil'
     name 'Lorimer No2 Stencil'
     homepage 'http://www.dafont.com/lorimer-no2-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lorimer_No2_Stencil.otf'
 end

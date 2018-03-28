@@ -5,7 +5,6 @@ cask 'dafont-thohir-ke-badreah' do
     url 'http://dl.dafont.com/dl/?f=thohir_ke_badreah'
     name 'Thohir Ke Badreah'
     homepage 'http://www.dafont.com/thohir-ke-badreah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thohir Ke Badreah.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-year2000replicant' do
     url 'http://dl.dafont.com/dl/?f=year2000replicant'
     name 'Year 2000 Replicant'
     homepage 'http://www.dafont.com/year2000replicant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YEARR___.TTF'
 end

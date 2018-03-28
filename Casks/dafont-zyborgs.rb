@@ -5,7 +5,6 @@ cask 'dafont-zyborgs' do
     url 'http://dl.dafont.com/dl/?f=zyborgs'
     name 'Zyborgs'
     homepage 'http://www.dafont.com/zyborgs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zyborgs.ttf'
     font 'zyborgs3d.ttf'

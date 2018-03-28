@@ -5,7 +5,6 @@ cask 'dafont-badpad-distressed' do
     url 'http://dl.dafont.com/dl/?f=badpad_distressed'
     name 'BadPad Distressed'
     homepage 'http://www.dafont.com/badpad-distressed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BadPad.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hidden-archives' do
     url 'http://dl.dafont.com/dl/?f=hidden_archives'
     name 'Hidden Archives'
     homepage 'http://www.dafont.com/hidden-archives.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hidden-Archives- PERSONNAL USE ONLY.ttf'
 end

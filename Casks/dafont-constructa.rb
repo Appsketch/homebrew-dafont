@@ -5,7 +5,6 @@ cask 'dafont-constructa' do
     url 'http://dl.dafont.com/dl/?f=constructa'
     name 'Constructa'
     homepage 'http://www.dafont.com/constructa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Constructa-Regular.otf'
     font 'Constructa-UltraThin.otf'

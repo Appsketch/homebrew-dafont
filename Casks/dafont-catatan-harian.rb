@@ -5,7 +5,6 @@ cask 'dafont-catatan-harian' do
     url 'http://dl.dafont.com/dl/?f=catatan_harian'
     name 'Catatan Harian'
     homepage 'http://www.dafont.com/catatan-harian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Catatan Harian.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-slantorama' do
     url 'http://dl.dafont.com/dl/?f=slantorama'
     name 'Slantorama'
     homepage 'http://www.dafont.com/slantorama.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SLANTORA.TTF'
 end

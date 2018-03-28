@@ -5,7 +5,6 @@ cask 'dafont-primrose' do
     url 'http://dl.dafont.com/dl/?f=primrose'
     name 'Primrose'
     homepage 'http://www.dafont.com/primrose.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Primrose.ttf'
 end

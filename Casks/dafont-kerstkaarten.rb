@@ -5,7 +5,6 @@ cask 'dafont-kerstkaarten' do
     url 'http://dl.dafont.com/dl/?f=kerstkaarten'
     name 'KerstKaarten'
     homepage 'http://www.dafont.com/kerstkaarten.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KerstKaarten.ttf'
 end

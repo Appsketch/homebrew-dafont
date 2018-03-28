@@ -5,7 +5,6 @@ cask 'dafont-quadranta' do
     url 'http://dl.dafont.com/dl/?f=quadranta'
     name 'Quadranta'
     homepage 'http://www.dafont.com/quadranta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quadranta-Bold.otf'
     font 'Quadranta-Regular.otf'

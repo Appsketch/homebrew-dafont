@@ -5,7 +5,6 @@ cask 'dafont-metalblockdelta' do
     url 'http://dl.dafont.com/dl/?f=metalblockdelta'
     name 'Metalblock Delta'
     homepage 'http://www.dafont.com/metalblockdelta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MetalblockDelta.ttf'
 end

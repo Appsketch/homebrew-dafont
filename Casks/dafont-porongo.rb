@@ -5,7 +5,6 @@ cask 'dafont-porongo' do
     url 'http://dl.dafont.com/dl/?f=porongo'
     name 'Porongo'
     homepage 'http://www.dafont.com/porongo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Porongo.ttf'
 end

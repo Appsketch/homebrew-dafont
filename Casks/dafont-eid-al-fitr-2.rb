@@ -5,7 +5,6 @@ cask 'dafont-eid-al-fitr-2' do
     url 'http://dl.dafont.com/dl/?f=eid_al_fitr_2'
     name 'Eid al-Fitr 2'
     homepage 'http://www.dafont.com/eid-al-fitr-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EID AL-FITR 2.otf'
 end

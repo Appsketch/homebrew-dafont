@@ -5,7 +5,6 @@ cask 'dafont-skullx' do
     url 'http://dl.dafont.com/dl/?f=skullx'
     name 'Skullx'
     homepage 'http://www.dafont.com/skullx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SKULLX.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-avondale' do
     url 'http://dl.dafont.com/dl/?f=avondale'
     name 'Avondale'
     homepage 'http://www.dafont.com/avondale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Avond_01.ttf'
     font 'Avond_02.ttf'

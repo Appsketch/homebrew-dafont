@@ -5,7 +5,6 @@ cask 'dafont-octoville' do
     url 'http://dl.dafont.com/dl/?f=octoville'
     name 'Octoville'
     homepage 'http://www.dafont.com/octoville.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'octoville.ttf'
 end

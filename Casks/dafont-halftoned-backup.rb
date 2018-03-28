@@ -5,7 +5,6 @@ cask 'dafont-halftoned-backup' do
     url 'http://dl.dafont.com/dl/?f=halftoned_backup'
     name 'Halftoned Backup'
     homepage 'http://www.dafont.com/halftoned-backup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Halftoned Backup.ttf'
 end

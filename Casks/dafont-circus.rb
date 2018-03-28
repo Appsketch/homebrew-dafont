@@ -5,7 +5,6 @@ cask 'dafont-circus' do
     url 'http://dl.dafont.com/dl/?f=circus'
     name 'Circus'
     homepage 'http://www.dafont.com/circus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Circus.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cringes' do
     url 'http://dl.dafont.com/dl/?f=cringes'
     name 'Cringes'
     homepage 'http://www.dafont.com/cringes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cringes.ttf'
 end

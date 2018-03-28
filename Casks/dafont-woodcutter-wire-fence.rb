@@ -5,7 +5,6 @@ cask 'dafont-woodcutter-wire-fence' do
     url 'http://dl.dafont.com/dl/?f=woodcutter_wire_fence'
     name 'Woodcutter Wire Fence'
     homepage 'http://www.dafont.com/woodcutter-wire-fence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WOODCUTTER BARBED WIRE.ttf'
 end

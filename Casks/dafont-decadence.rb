@@ -5,7 +5,6 @@ cask 'dafont-decadence' do
     url 'http://dl.dafont.com/dl/?f=decadence'
     name 'Decadence'
     homepage 'http://www.dafont.com/decadence.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'decadenc.ttf'
     font 'deccond.ttf'

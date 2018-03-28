@@ -5,7 +5,6 @@ cask 'dafont-pixelate-bass' do
     url 'http://dl.dafont.com/dl/?f=pixelate_bass'
     name 'Pixelate Bass'
     homepage 'http://www.dafont.com/pixelate-bass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixelate Bass.ttf'
 end

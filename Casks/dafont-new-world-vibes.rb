@@ -5,7 +5,6 @@ cask 'dafont-new-world-vibes' do
     url 'http://dl.dafont.com/dl/?f=new_world_vibes'
     name 'New World Vibes'
     homepage 'http://www.dafont.com/new-world-vibes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NWV.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-arcutype-sv' do
     url 'http://dl.dafont.com/dl/?f=arcutype_sv'
     name 'Arcutype SV'
     homepage 'http://www.dafont.com/arcutype-sv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ARCUTYPE SV.ttf'
 end

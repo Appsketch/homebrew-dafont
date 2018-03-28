@@ -5,7 +5,6 @@ cask 'dafont-pretty-city-kitties' do
     url 'http://dl.dafont.com/dl/?f=pretty_city_kitties'
     name 'Pretty City Kitties'
     homepage 'http://www.dafont.com/pretty-city-kitties.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pretty_City_Kitties.otf'
 end

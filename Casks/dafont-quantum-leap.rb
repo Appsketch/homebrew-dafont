@@ -5,7 +5,6 @@ cask 'dafont-quantum-leap' do
     url 'http://dl.dafont.com/dl/?f=quantum_leap'
     name 'Quantum Leap'
     homepage 'http://www.dafont.com/quantum-leap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quantum Leap.ttf'
 end

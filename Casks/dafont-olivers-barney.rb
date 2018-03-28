@@ -5,7 +5,6 @@ cask 'dafont-olivers-barney' do
     url 'http://dl.dafont.com/dl/?f=olivers_barney'
     name 'Oliver&#039;s Barney'
     homepage 'http://www.dafont.com/olivers-barney.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'olivers barney.ttf'
 end

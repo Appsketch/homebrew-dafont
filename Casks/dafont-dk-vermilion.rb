@@ -5,7 +5,6 @@ cask 'dafont-dk-vermilion' do
     url 'http://dl.dafont.com/dl/?f=dk_vermilion'
     name 'DK Vermilion'
     homepage 'http://www.dafont.com/dk-vermilion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK Vermilion.otf'
 end

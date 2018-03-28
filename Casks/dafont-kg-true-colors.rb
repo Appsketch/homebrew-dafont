@@ -5,7 +5,6 @@ cask 'dafont-kg-true-colors' do
     url 'http://dl.dafont.com/dl/?f=kg_true_colors'
     name 'KG True Colors'
     homepage 'http://www.dafont.com/kg-true-colors.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGTrueColors.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-brutal-tooth' do
     url 'http://dl.dafont.com/dl/?f=brutal_tooth'
     name 'Brutal Tooth'
     homepage 'http://www.dafont.com/brutal-tooth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brutal-tooth.ttf'
 end

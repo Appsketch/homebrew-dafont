@@ -5,7 +5,6 @@ cask 'dafont-ding-delights' do
     url 'http://dl.dafont.com/dl/?f=ding_delights'
     name 'Ding Delights'
     homepage 'http://www.dafont.com/ding-delights.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dingd___.TTF'
 end

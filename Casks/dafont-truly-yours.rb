@@ -5,7 +5,6 @@ cask 'dafont-truly-yours' do
     url 'http://dl.dafont.com/dl/?f=truly_yours'
     name 'Truly Yours'
     homepage 'http://www.dafont.com/truly-yours.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truly Yours.otf'
 end

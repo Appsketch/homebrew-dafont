@@ -5,7 +5,6 @@ cask 'dafont-1942-report' do
     url 'http://dl.dafont.com/dl/?f=1942_report'
     name '1942 Report'
     homepage 'http://www.dafont.com/1942-report.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1942.ttf'
 end

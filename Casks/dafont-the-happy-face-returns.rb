@@ -5,7 +5,6 @@ cask 'dafont-the-happy-face-returns' do
     url 'http://dl.dafont.com/dl/?f=the_happy_face_returns'
     name 'The Happy Face Returns'
     homepage 'http://www.dafont.com/the-happy-face-returns.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Happy Face Returns.ttf'
 end

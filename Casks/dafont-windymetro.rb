@@ -5,7 +5,6 @@ cask 'dafont-windymetro' do
     url 'http://dl.dafont.com/dl/?f=windymetro'
     name 'Windy Metro'
     homepage 'http://www.dafont.com/windymetro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WindyMetro.ttf'
 end

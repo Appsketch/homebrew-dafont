@@ -5,7 +5,6 @@ cask 'dafont-pf-sstar-1' do
     url 'http://dl.dafont.com/dl/?f=pf_sstar_1'
     name 'PF Sstar 1'
     homepage 'http://www.dafont.com/pf-sstar-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PF_SSTAR.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wet-pet' do
     url 'http://dl.dafont.com/dl/?f=wet_pet'
     name 'Wet Pet'
     homepage 'http://www.dafont.com/wet-pet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wet pet.ttf'
 end

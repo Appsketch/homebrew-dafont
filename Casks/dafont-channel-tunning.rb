@@ -5,7 +5,6 @@ cask 'dafont-channel-tunning' do
     url 'http://dl.dafont.com/dl/?f=channel_tunning'
     name 'Channel Tuning'
     homepage 'http://www.dafont.com/channel-tunning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChannelTuning.ttf'
 end

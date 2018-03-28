@@ -5,7 +5,6 @@ cask 'dafont-krikstas' do
     url 'http://dl.dafont.com/dl/?f=krikstas'
     name 'Krikstas'
     homepage 'http://www.dafont.com/krikstas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'krikstas.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-grandjean-pw' do
     url 'http://dl.dafont.com/dl/?f=grandjean_pw'
     name 'Grandjean PW'
     homepage 'http://www.dafont.com/grandjean-pw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grandjean_types.ttf'
 end

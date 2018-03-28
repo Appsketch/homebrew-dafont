@@ -5,7 +5,6 @@ cask 'dafont-nevermindme' do
     url 'http://dl.dafont.com/dl/?f=nevermindme'
     name 'Nevermind Me'
     homepage 'http://www.dafont.com/nevermindme.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nevermind Me.ttf'
 end

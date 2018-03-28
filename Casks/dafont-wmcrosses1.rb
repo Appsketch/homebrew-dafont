@@ -5,7 +5,6 @@ cask 'dafont-wmcrosses1' do
     url 'http://dl.dafont.com/dl/?f=wmcrosses1'
     name 'WM Crosses 1'
     homepage 'http://www.dafont.com/wmcrosses1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wmcrosses1.TTF'
 end

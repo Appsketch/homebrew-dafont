@@ -5,7 +5,6 @@ cask 'dafont-firlefanz-demo' do
     url 'http://dl.dafont.com/dl/?f=firlefanz_demo'
     name 'Firlefanz'
     homepage 'http://www.dafont.com/firlefanz-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'firlefanz-demo.ttf'
 end

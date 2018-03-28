@@ -5,7 +5,6 @@ cask 'dafont-closetoto' do
     url 'http://dl.dafont.com/dl/?f=closetoto'
     name 'ClosetoTO'
     homepage 'http://www.dafont.com/closetoto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ClosetoTO.ttf'
 end

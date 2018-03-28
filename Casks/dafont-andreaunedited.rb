@@ -5,7 +5,6 @@ cask 'dafont-andreaunedited' do
     url 'http://dl.dafont.com/dl/?f=andreaunedited'
     name 'Andrea Unedited'
     homepage 'http://www.dafont.com/andreaunedited.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AndreaUnedited.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-tanvishand3' do
     url 'http://dl.dafont.com/dl/?f=tanvishand3'
     name 'Tanvis Hand 3'
     homepage 'http://www.dafont.com/tanvishand3.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TanvisHand3.ttf'
 end

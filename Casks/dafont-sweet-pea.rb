@@ -5,7 +5,6 @@ cask 'dafont-sweet-pea' do
     url 'http://dl.dafont.com/dl/?f=sweet_pea'
     name 'Sweet Pea'
     homepage 'http://www.dafont.com/sweet-pea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sweet Pea_2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cactus' do
     url 'http://dl.dafont.com/dl/?f=cactus'
     name 'Cactus'
     homepage 'http://www.dafont.com/cactus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cactus.ttf'
 end

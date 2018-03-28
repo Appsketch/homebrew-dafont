@@ -5,7 +5,6 @@ cask 'dafont-alfabetix' do
     url 'http://dl.dafont.com/dl/?f=alfabetix'
     name 'Alfabetix'
     homepage 'http://www.dafont.com/alfabetix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALFABET_.ttf'
 end

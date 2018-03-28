@@ -5,7 +5,6 @@ cask 'dafont-dystopia' do
     url 'http://dl.dafont.com/dl/?f=dystopia'
     name 'Dystopia'
     homepage 'http://www.dafont.com/dystopia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dystopia.ttf'
 end

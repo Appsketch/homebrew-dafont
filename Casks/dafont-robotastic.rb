@@ -5,7 +5,6 @@ cask 'dafont-robotastic' do
     url 'http://dl.dafont.com/dl/?f=robotastic'
     name 'Robotastic'
     homepage 'http://www.dafont.com/robotastic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'robotastic.ttf'
 end

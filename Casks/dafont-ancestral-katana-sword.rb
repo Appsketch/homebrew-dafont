@@ -5,7 +5,6 @@ cask 'dafont-ancestral-katana-sword' do
     url 'http://dl.dafont.com/dl/?f=ancestral_katana_sword'
     name 'Ancestral Katana Sword'
     homepage 'http://www.dafont.com/ancestral-katana-sword.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ancestral Katana Sword.ttf'
 end

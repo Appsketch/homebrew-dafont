@@ -5,7 +5,6 @@ cask 'dafont-learning-to-trust' do
     url 'http://dl.dafont.com/dl/?f=learning_to_trust'
     name 'Learning to Trust'
     homepage 'http://www.dafont.com/learning-to-trust.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LearningToTrust.ttf'
 end

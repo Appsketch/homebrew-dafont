@@ -5,7 +5,6 @@ cask 'dafont-akasic' do
     url 'http://dl.dafont.com/dl/?f=akasic'
     name 'Akasic'
     homepage 'http://www.dafont.com/akasic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Akasic-Medium-Italic.ttf'
     font 'Akasic-Medium.ttf'

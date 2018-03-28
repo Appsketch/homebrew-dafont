@@ -5,7 +5,6 @@ cask 'dafont-ridicode' do
     url 'http://dl.dafont.com/dl/?f=ridicode'
     name 'Ridicode'
     homepage 'http://www.dafont.com/ridicode.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ridicode.ttf'
 end

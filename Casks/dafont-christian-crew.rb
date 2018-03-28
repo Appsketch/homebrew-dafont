@@ -5,7 +5,6 @@ cask 'dafont-christian-crew' do
     url 'http://dl.dafont.com/dl/?f=christian_crew'
     name 'Christian Crew'
     homepage 'http://www.dafont.com/christian-crew.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChristianCrew.ttf'
 end

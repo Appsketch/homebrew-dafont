@@ -5,7 +5,6 @@ cask 'dafont-curvaceous-script' do
     url 'http://dl.dafont.com/dl/?f=curvaceous_script'
     name 'Curvaceous Script'
     homepage 'http://www.dafont.com/curvaceous-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'curvaceous_script.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-beast-of-avalon' do
     url 'http://dl.dafont.com/dl/?f=beast_of_avalon'
     name 'Beast of Avalon'
     homepage 'http://www.dafont.com/beast-of-avalon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beast of Avalon.otf'
 end

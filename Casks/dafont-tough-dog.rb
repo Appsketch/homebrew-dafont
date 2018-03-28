@@ -5,7 +5,6 @@ cask 'dafont-tough-dog' do
     url 'http://dl.dafont.com/dl/?f=tough_dog'
     name 'Tough Dog'
     homepage 'http://www.dafont.com/tough-dog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tough_dog.ttf'
 end

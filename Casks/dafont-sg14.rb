@@ -5,7 +5,6 @@ cask 'dafont-sg14' do
     url 'http://dl.dafont.com/dl/?f=sg14'
     name 'SG14'
     homepage 'http://www.dafont.com/sg14.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SG14.ttf'
 end

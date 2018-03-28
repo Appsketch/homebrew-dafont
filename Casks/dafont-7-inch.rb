@@ -5,7 +5,6 @@ cask 'dafont-7-inch' do
     url 'http://dl.dafont.com/dl/?f=7_inch'
     name '7 Inch'
     homepage 'http://www.dafont.com/7-inch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '7INCR___.TTF'
     font '7INCRG__.TTF'

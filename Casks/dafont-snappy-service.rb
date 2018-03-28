@@ -5,7 +5,6 @@ cask 'dafont-snappy-service' do
     url 'http://dl.dafont.com/dl/?f=snappy_service'
     name 'Snappy Service'
     homepage 'http://www.dafont.com/snappy-service.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SNAPPYSE.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-grapevine' do
     url 'http://dl.dafont.com/dl/?f=grapevine'
     name 'Grapevine'
     homepage 'http://www.dafont.com/grapevine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grapevine.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-chinatown' do
     url 'http://dl.dafont.com/dl/?f=chinatown'
     name 'China Town'
     homepage 'http://www.dafont.com/chinatown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChinaTown.ttf'
 end

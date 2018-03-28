@@ -5,7 +5,6 @@ cask 'dafont-latevaping' do
     url 'http://dl.dafont.com/dl/?f=latevaping'
     name 'Late Vaping'
     homepage 'http://www.dafont.com/latevaping.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LateVaping.ttf'
 end

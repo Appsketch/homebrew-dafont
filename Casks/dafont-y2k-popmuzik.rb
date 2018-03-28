@@ -5,7 +5,6 @@ cask 'dafont-y2k-popmuzik' do
     url 'http://dl.dafont.com/dl/?f=y2k_popmuzik'
     name 'Y2K PopMuzik AOE'
     homepage 'http://www.dafont.com/y2k-popmuzik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Truetype/Y2KPopMuzAOE.ttf'
     font 'Truetype/Y2KPopMuzOutAOE.ttf'

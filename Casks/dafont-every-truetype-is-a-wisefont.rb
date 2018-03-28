@@ -5,7 +5,6 @@ cask 'dafont-every-truetype-is-a-wisefont' do
     url 'http://dl.dafont.com/dl/?f=every_truetype_is_a_wisefont'
     name 'Every Truetype is a Wisefont'
     homepage 'http://www.dafont.com/every-truetype-is-a-wisefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ETIAW3.ttf'
 end

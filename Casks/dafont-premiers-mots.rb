@@ -5,7 +5,6 @@ cask 'dafont-premiers-mots' do
     url 'http://dl.dafont.com/dl/?f=premiers_mots'
     name 'Premiers Mots Script'
     homepage 'http://www.dafont.com/premiers-mots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PREMMS__.TTF'
 end

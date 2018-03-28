@@ -5,7 +5,6 @@ cask 'dafont-numberpile' do
     url 'http://dl.dafont.com/dl/?f=numberpile'
     name 'Numberpile'
     homepage 'http://www.dafont.com/numberpile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'numberpile reversed.ttf'
     font 'numberpile.ttf'

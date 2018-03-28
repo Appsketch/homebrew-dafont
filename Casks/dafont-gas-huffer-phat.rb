@@ -5,7 +5,6 @@ cask 'dafont-gas-huffer-phat' do
     url 'http://dl.dafont.com/dl/?f=gas_huffer_phat'
     name 'Gas Huffer Phat'
     homepage 'http://www.dafont.com/gas-huffer-phat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GASHP___.TTF'
 end

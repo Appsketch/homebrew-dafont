@@ -5,7 +5,6 @@ cask 'dafont-indiehand' do
     url 'http://dl.dafont.com/dl/?f=indiehand'
     name 'Indie Hand'
     homepage 'http://www.dafont.com/indiehand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IndieHand.ttf'
 end

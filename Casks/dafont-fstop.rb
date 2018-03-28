@@ -5,7 +5,6 @@ cask 'dafont-fstop' do
     url 'http://dl.dafont.com/dl/?f=fstop'
     name 'FStop'
     homepage 'http://www.dafont.com/fstop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fstop-demo.ttf'
 end

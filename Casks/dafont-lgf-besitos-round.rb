@@ -5,7 +5,6 @@ cask 'dafont-lgf-besitos-round' do
     url 'http://dl.dafont.com/dl/?f=lgf_besitos_round'
     name 'LGf Besitos Round'
     homepage 'http://www.dafont.com/lgf-besitos-round.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LGfBesitosRound-Light.otf'
 end

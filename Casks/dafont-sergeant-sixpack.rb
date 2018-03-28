@@ -5,7 +5,6 @@ cask 'dafont-sergeant-sixpack' do
     url 'http://dl.dafont.com/dl/?f=sergeant_sixpack'
     name 'Sergeant Sixpack'
     homepage 'http://www.dafont.com/sergeant-sixpack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'srgt6pack.ttf'
 end

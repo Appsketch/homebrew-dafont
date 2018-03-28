@@ -5,7 +5,6 @@ cask 'dafont-logos-i-love' do
     url 'http://dl.dafont.com/dl/?f=logos_i_love'
     name 'Logos I love'
     homepage 'http://www.dafont.com/logos-i-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Logos I love.ttf'
 end

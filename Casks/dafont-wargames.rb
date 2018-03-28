@@ -5,7 +5,6 @@ cask 'dafont-wargames' do
     url 'http://dl.dafont.com/dl/?f=wargames'
     name 'Wargames'
     homepage 'http://www.dafont.com/wargames.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WARGAMES.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gustofwind' do
     url 'http://dl.dafont.com/dl/?f=gustofwind'
     name 'Gust Of Wind'
     homepage 'http://www.dafont.com/gustofwind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GustOfWind.ttf'
 end

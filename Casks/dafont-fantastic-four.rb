@@ -5,7 +5,6 @@ cask 'dafont-fantastic-four' do
     url 'http://dl.dafont.com/dl/?f=fantastic_four'
     name 'Fantastic Four'
     homepage 'http://www.dafont.com/fantastic-four.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fantique.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gramophone-nf' do
     url 'http://dl.dafont.com/dl/?f=gramophone_nf'
     name 'Gramophone NF'
     homepage 'http://www.dafont.com/gramophone-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRAMN___.TTF'
 end

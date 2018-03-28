@@ -5,7 +5,6 @@ cask 'dafont-enhanced-dot-digital-7' do
     url 'http://dl.dafont.com/dl/?f=enhanced_dot_digital_7'
     name 'Enhanced Dot Digital-7'
     homepage 'http://www.dafont.com/enhanced-dot-digital-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'enhanced_dot_digital-7.ttf'
 end

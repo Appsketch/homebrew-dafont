@@ -5,7 +5,6 @@ cask 'dafont-tribal' do
     url 'http://dl.dafont.com/dl/?f=tribal'
     name 'Tribal'
     homepage 'http://www.dafont.com/tribal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRIBAL__.ttf'
     font 'TRIBTWO_.ttf'

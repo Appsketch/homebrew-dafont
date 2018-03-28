@@ -5,7 +5,6 @@ cask 'dafont-kbpopthebubbly' do
     url 'http://dl.dafont.com/dl/?f=kbpopthebubbly'
     name 'KB Pop The Bubbly'
     homepage 'http://www.dafont.com/kbpopthebubbly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBPopTheBubbly.ttf'
 end

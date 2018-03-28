@@ -5,7 +5,6 @@ cask 'dafont-gribal' do
     url 'http://dl.dafont.com/dl/?f=gribal'
     name 'Gribal'
     homepage 'http://www.dafont.com/gribal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gribal_demo.otf'
     font 'Gribal_shadow_demo.otf'

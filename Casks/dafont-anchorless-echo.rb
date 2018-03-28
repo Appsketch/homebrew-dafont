@@ -5,7 +5,6 @@ cask 'dafont-anchorless-echo' do
     url 'http://dl.dafont.com/dl/?f=anchorless_echo'
     name 'Anchorless Echo'
     homepage 'http://www.dafont.com/anchorless-echo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'anchorless_echo.ttf'
 end

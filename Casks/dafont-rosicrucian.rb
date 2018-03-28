@@ -5,7 +5,6 @@ cask 'dafont-rosicrucian' do
     url 'http://dl.dafont.com/dl/?f=rosicrucian'
     name 'Rosicrucian'
     homepage 'http://www.dafont.com/rosicrucian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rosicrucian.ttf'
     font 'rosicrucian3d.ttf'

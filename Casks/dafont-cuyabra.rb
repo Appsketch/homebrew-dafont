@@ -5,7 +5,6 @@ cask 'dafont-cuyabra' do
     url 'http://dl.dafont.com/dl/?f=cuyabra'
     name 'Cuyabra'
     homepage 'http://www.dafont.com/cuyabra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cuyabra bold oblique.otf'
     font 'cuyabra bold.otf'

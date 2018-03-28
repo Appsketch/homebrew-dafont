@@ -5,7 +5,6 @@ cask 'dafont-neo-sci-fi-v2-0' do
     url 'http://dl.dafont.com/dl/?f=neo_sci_fi_v2_0'
     name 'Neo Sci-Fi v2.0'
     homepage 'http://www.dafont.com/neo-sci-fi-v2-0.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'neo_scifi_v20.ttf'
 end

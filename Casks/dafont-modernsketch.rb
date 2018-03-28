@@ -5,7 +5,6 @@ cask 'dafont-modernsketch' do
     url 'http://dl.dafont.com/dl/?f=modernsketch'
     name 'Modern Sketch'
     homepage 'http://www.dafont.com/modernsketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ModernSketch.ttf'
 end

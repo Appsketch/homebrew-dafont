@@ -5,7 +5,6 @@ cask 'dafont-anti-display' do
     url 'http://dl.dafont.com/dl/?f=anti_display'
     name 'Anti Display'
     homepage 'http://www.dafont.com/anti-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANTI-Display.ttf'
 end

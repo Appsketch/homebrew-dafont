@@ -5,7 +5,6 @@ cask 'dafont-bodybag' do
     url 'http://dl.dafont.com/dl/?f=bodybag'
     name 'Bodybag'
     homepage 'http://www.dafont.com/bodybag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bodybag.ttf'
 end

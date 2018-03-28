@@ -5,7 +5,6 @@ cask 'dafont-little-deuce-coupe' do
     url 'http://dl.dafont.com/dl/?f=little_deuce_coupe'
     name 'Little Deuce Coupe'
     homepage 'http://www.dafont.com/little-deuce-coupe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LITTDC__.TTF'
 end

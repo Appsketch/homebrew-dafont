@@ -5,7 +5,6 @@ cask 'dafont-6-cells' do
     url 'http://dl.dafont.com/dl/?f=6_cells'
     name '6 Cells'
     homepage 'http://www.dafont.com/6-cells.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '6 Cells.otf'
 end

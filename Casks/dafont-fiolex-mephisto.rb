@@ -5,7 +5,6 @@ cask 'dafont-fiolex-mephisto' do
     url 'http://dl.dafont.com/dl/?f=fiolex_mephisto'
     name 'Fiolex Mephisto'
     homepage 'http://www.dafont.com/fiolex-mephisto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fiolex_Mephisto.ttf'
 end

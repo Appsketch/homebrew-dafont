@@ -5,7 +5,6 @@ cask 'dafont-zomnk' do
     url 'http://dl.dafont.com/dl/?f=zomnk'
     name 'Zomnk'
     homepage 'http://www.dafont.com/zomnk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zomnk.ttf'
 end

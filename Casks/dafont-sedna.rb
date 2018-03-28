@@ -5,7 +5,6 @@ cask 'dafont-sedna' do
     url 'http://dl.dafont.com/dl/?f=sedna'
     name 'Sedna'
     homepage 'http://www.dafont.com/sedna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sedna.ttf'
 end

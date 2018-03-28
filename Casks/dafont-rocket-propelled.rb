@@ -5,7 +5,6 @@ cask 'dafont-rocket-propelled' do
     url 'http://dl.dafont.com/dl/?f=rocket_propelled'
     name 'Rocket Propelled'
     homepage 'http://www.dafont.com/rocket-propelled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rockprp.ttf'
 end

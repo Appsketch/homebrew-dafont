@@ -5,7 +5,6 @@ cask 'dafont-hopfer-hornbook' do
     url 'http://dl.dafont.com/dl/?f=hopfer_hornbook'
     name 'Hopfer Hornbook'
     homepage 'http://www.dafont.com/hopfer-hornbook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HopferHornbook.ttf'
 end

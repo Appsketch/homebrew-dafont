@@ -5,7 +5,6 @@ cask 'dafont-odisea-astral' do
     url 'http://dl.dafont.com/dl/?f=odisea_astral'
     name 'Odisea Astral'
     homepage 'http://www.dafont.com/odisea-astral.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ODISAHG_.TTF'
 end

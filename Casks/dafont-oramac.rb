@@ -5,7 +5,6 @@ cask 'dafont-oramac' do
     url 'http://dl.dafont.com/dl/?f=oramac'
     name 'Oramac'
     homepage 'http://www.dafont.com/oramac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'oramac.ttf'
     font 'oramac3d.ttf'

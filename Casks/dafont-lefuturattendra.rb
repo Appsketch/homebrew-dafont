@@ -5,7 +5,6 @@ cask 'dafont-lefuturattendra' do
     url 'http://dl.dafont.com/dl/?f=lefuturattendra'
     name 'Le Futur Attendra'
     homepage 'http://www.dafont.com/lefuturattendra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LeFuturAttendra.otf'
 end

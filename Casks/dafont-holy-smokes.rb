@@ -5,7 +5,6 @@ cask 'dafont-holy-smokes' do
     url 'http://dl.dafont.com/dl/?f=holy_smokes'
     name 'Holy Smokes'
     homepage 'http://www.dafont.com/holy-smokes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'holy smokes.ttf'
 end

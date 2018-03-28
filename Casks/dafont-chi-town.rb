@@ -5,7 +5,6 @@ cask 'dafont-chi-town' do
     url 'http://dl.dafont.com/dl/?f=chi_town'
     name 'Chi-Town'
     homepage 'http://www.dafont.com/chi-town.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHI-TOWN.TTF'
 end

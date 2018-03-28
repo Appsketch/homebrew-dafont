@@ -5,7 +5,6 @@ cask 'dafont-roses-kingdom' do
     url 'http://dl.dafont.com/dl/?f=roses_kingdom'
     name 'Roses Kingdom'
     homepage 'http://www.dafont.com/roses-kingdom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Roses Kingdom.ttf'
 end

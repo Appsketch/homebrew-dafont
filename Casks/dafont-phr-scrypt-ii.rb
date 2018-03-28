@@ -5,7 +5,6 @@ cask 'dafont-phr-scrypt-ii' do
     url 'http://dl.dafont.com/dl/?f=phr_scrypt_ii'
     name 'PHR Scrypt II'
     homepage 'http://www.dafont.com/phr-scrypt-ii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PHR_Scrypt_II.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-besmellah-1' do
     url 'http://dl.dafont.com/dl/?f=besmellah_1'
     name 'Besmellah 1'
     homepage 'http://www.dafont.com/besmellah-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Besmellah_1.ttf'
     font 'Besmellah_2.ttf'

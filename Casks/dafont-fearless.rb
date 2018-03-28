@@ -5,7 +5,6 @@ cask 'dafont-fearless' do
     url 'http://dl.dafont.com/dl/?f=fearless'
     name 'Fearless'
     homepage 'http://www.dafont.com/fearless.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fearless.ttf'
 end

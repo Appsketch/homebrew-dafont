@@ -5,7 +5,6 @@ cask 'dafont-plasticine' do
     url 'http://dl.dafont.com/dl/?f=plasticine'
     name 'Plasticine'
     homepage 'http://www.dafont.com/plasticine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plasticine.ttf'
 end

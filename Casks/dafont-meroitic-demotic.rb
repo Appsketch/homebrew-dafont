@@ -5,7 +5,6 @@ cask 'dafont-meroitic-demotic' do
     url 'http://dl.dafont.com/dl/?f=meroitic_demotic'
     name 'Meroitic Demotic'
     homepage 'http://www.dafont.com/meroitic-demotic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MERO_DEM.TTF'
 end

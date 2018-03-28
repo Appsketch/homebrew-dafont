@@ -5,7 +5,6 @@ cask 'dafont-london' do
     url 'http://dl.dafont.com/dl/?f=london'
     name 'London'
     homepage 'http://www.dafont.com/london.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'London.ttf'
 end

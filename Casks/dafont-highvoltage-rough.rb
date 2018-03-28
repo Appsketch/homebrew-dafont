@@ -5,7 +5,6 @@ cask 'dafont-highvoltage-rough' do
     url 'http://dl.dafont.com/dl/?f=highvoltage_rough'
     name 'High Voltage Rough'
     homepage 'http://www.dafont.com/highvoltage-rough.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighVoltage Rough.ttf'
 end

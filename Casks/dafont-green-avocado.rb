@@ -5,7 +5,6 @@ cask 'dafont-green-avocado' do
     url 'http://dl.dafont.com/dl/?f=green_avocado'
     name 'Green Avocado'
     homepage 'http://www.dafont.com/green-avocado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'green avocado.ttf'
 end

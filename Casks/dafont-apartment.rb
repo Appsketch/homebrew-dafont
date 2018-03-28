@@ -5,7 +5,6 @@ cask 'dafont-apartment' do
     url 'http://dl.dafont.com/dl/?f=apartment'
     name 'Apartment'
     homepage 'http://www.dafont.com/apartment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Apartment-Regular.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gamix' do
     url 'http://dl.dafont.com/dl/?f=gamix'
     name 'Gamix'
     homepage 'http://www.dafont.com/gamix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gamix.ttf'
 end

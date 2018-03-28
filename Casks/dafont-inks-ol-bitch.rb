@@ -5,7 +5,6 @@ cask 'dafont-inks-ol-bitch' do
     url 'http://dl.dafont.com/dl/?f=inks_ol_bitch'
     name 'InK&#039;s ol&#039; Bitch'
     homepage 'http://www.dafont.com/inks-ol-bitch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INKB___.TTF'
 end

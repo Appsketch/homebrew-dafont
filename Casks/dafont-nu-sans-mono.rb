@@ -5,7 +5,6 @@ cask 'dafont-nu-sans-mono' do
     url 'http://dl.dafont.com/dl/?f=nu_sans_mono'
     name 'Nu Sans Mono'
     homepage 'http://www.dafont.com/nu-sans-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'nusamd.ttf'
 end

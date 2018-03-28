@@ -5,7 +5,6 @@ cask 'dafont-letraslocas' do
     url 'http://dl.dafont.com/dl/?f=letraslocas'
     name 'Letras Locas'
     homepage 'http://www.dafont.com/letraslocas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LetrasLocas2.ttf'
 end

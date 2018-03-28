@@ -5,7 +5,6 @@ cask 'dafont-ylee-polymnia-framed' do
     url 'http://dl.dafont.com/dl/?f=ylee_polymnia_framed'
     name 'Ylee Polymnia Framed'
     homepage 'http://www.dafont.com/ylee-polymnia-framed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ylee Polymnia Framed.ttf'
 end

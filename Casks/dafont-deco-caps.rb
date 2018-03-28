@@ -5,7 +5,6 @@ cask 'dafont-deco-caps' do
     url 'http://dl.dafont.com/dl/?f=deco_caps'
     name 'Deco Caps'
     homepage 'http://www.dafont.com/deco-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Decocaps.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-coertschrift' do
     url 'http://dl.dafont.com/dl/?f=coertschrift'
     name 'CoertSchrift'
     homepage 'http://www.dafont.com/coertschrift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CoertSchrift_Dik.ttf'
     font 'CoertSchrift_Romaans.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-future-timesplitters' do
     url 'http://dl.dafont.com/dl/?f=future_timesplitters'
     name 'Future TimeSplitters'
     homepage 'http://www.dafont.com/future-timesplitters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Future TimeSplitters.otf'
 end

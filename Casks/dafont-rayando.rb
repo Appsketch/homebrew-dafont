@@ -5,7 +5,6 @@ cask 'dafont-rayando' do
     url 'http://dl.dafont.com/dl/?f=rayando'
     name 'Rayando'
     homepage 'http://www.dafont.com/rayando.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rayando.ttf'
 end

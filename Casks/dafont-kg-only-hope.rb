@@ -5,7 +5,6 @@ cask 'dafont-kg-only-hope' do
     url 'http://dl.dafont.com/dl/?f=kg_only_hope'
     name 'KG Only Hope'
     homepage 'http://www.dafont.com/kg-only-hope.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGOnlyHope.ttf'
 end

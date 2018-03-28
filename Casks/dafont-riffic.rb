@@ -5,7 +5,6 @@ cask 'dafont-riffic' do
     url 'http://dl.dafont.com/dl/?f=riffic'
     name 'Riffic'
     homepage 'http://www.dafont.com/riffic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RifficFree-Bold.ttf'
 end

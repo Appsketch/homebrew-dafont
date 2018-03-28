@@ -5,7 +5,6 @@ cask 'dafont-elizabethan-initials-tfb' do
     url 'http://dl.dafont.com/dl/?f=elizabethan_initials_tfb'
     name 'Elizabethan Initials TFB'
     homepage 'http://www.dafont.com/elizabethan-initials-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elizabethan Initials tfb.ttf'
 end

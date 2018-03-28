@@ -5,7 +5,6 @@ cask 'dafont-mcleona' do
     url 'http://dl.dafont.com/dl/?f=mcleona'
     name 'McLeona'
     homepage 'http://www.dafont.com/mcleona.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'McLeona-bold.ttf'
     font 'McLeona.ttf'

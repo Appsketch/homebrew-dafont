@@ -5,7 +5,6 @@ cask 'dafont-heavy-heap' do
     url 'http://dl.dafont.com/dl/?f=heavy_heap'
     name 'Heavy Heap'
     homepage 'http://www.dafont.com/heavy-heap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'heavy heap.ttf'
 end

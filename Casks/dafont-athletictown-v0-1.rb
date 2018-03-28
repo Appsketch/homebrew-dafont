@@ -5,7 +5,6 @@ cask 'dafont-athletictown-v0-1' do
     url 'http://dl.dafont.com/dl/?f=athletictown_v0_1'
     name 'Athletic Town'
     homepage 'http://www.dafont.com/athletictown-v0-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AthleticTown.ttf'
 end

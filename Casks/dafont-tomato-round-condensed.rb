@@ -5,7 +5,6 @@ cask 'dafont-tomato-round-condensed' do
     url 'http://dl.dafont.com/dl/?f=tomato_round_condensed'
     name 'Tomato Round Condensed'
     homepage 'http://www.dafont.com/tomato-round-condensed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TomatoRoundCondensed-Oblique.ttf'
     font 'TomatoRoundCondensed-Thin.ttf'

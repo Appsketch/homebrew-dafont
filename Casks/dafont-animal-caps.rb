@@ -5,7 +5,6 @@ cask 'dafont-animal-caps' do
     url 'http://dl.dafont.com/dl/?f=animal_caps'
     name 'Animal Caps'
     homepage 'http://www.dafont.com/animal-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Animals.ttf'
 end

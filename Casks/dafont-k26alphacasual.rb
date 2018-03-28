@@ -5,7 +5,6 @@ cask 'dafont-k26alphacasual' do
     url 'http://dl.dafont.com/dl/?f=k26alphacasual'
     name 'K26 Alpha Casual'
     homepage 'http://www.dafont.com/k26alphacasual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K26AlphaCasual.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-heroin-07' do
     url 'http://dl.dafont.com/dl/?f=heroin_07'
     name 'Heroin 07'
     homepage 'http://www.dafont.com/heroin-07.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'heroin07.TTF'
 end

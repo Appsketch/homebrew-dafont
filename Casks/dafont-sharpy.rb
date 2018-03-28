@@ -5,7 +5,6 @@ cask 'dafont-sharpy' do
     url 'http://dl.dafont.com/dl/?f=sharpy'
     name 'Sharpy'
     homepage 'http://www.dafont.com/sharpy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sharpy.ttf'
 end

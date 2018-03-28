@@ -5,7 +5,6 @@ cask 'dafont-shadesofblue' do
     url 'http://dl.dafont.com/dl/?f=shadesofblue'
     name 'Shades Of Blue'
     homepage 'http://www.dafont.com/shadesofblue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShadesOfBlue.ttf'
 end

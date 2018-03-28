@@ -5,7 +5,6 @@ cask 'dafont-element' do
     url 'http://dl.dafont.com/dl/?f=element'
     name 'Element'
     homepage 'http://www.dafont.com/element.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ELEMENT.TTF'
 end

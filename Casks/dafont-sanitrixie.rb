@@ -5,7 +5,6 @@ cask 'dafont-sanitrixie' do
     url 'http://dl.dafont.com/dl/?f=sanitrixie'
     name 'Sanitrixie'
     homepage 'http://www.dafont.com/sanitrixie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SaniTrixieSans.ttf'
 end

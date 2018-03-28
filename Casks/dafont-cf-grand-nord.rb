@@ -5,7 +5,6 @@ cask 'dafont-cf-grand-nord' do
     url 'http://dl.dafont.com/dl/?f=cf_grand_nord'
     name 'CF Grand Nord'
     homepage 'http://www.dafont.com/cf-grand-nord.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFGrandNord-Regular.ttf'
 end

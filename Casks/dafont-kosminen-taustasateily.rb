@@ -5,7 +5,6 @@ cask 'dafont-kosminen-taustasateily' do
     url 'http://dl.dafont.com/dl/?f=kosminen_taustasateily'
     name 'Kosminen Taustasateily'
     homepage 'http://www.dafont.com/kosminen-taustasateily.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kosminen taustasateily.ttf'
 end

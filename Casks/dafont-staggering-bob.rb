@@ -5,7 +5,6 @@ cask 'dafont-staggering-bob' do
     url 'http://dl.dafont.com/dl/?f=staggering_bob'
     name 'Staggering Bob'
     homepage 'http://www.dafont.com/staggering-bob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STAGB___.TTF'
 end

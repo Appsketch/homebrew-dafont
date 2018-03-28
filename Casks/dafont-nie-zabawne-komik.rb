@@ -5,7 +5,6 @@ cask 'dafont-nie-zabawne-komik' do
     url 'http://dl.dafont.com/dl/?f=nie_zabawne_komik'
     name 'Nie Zabawne Komik'
     homepage 'http://www.dafont.com/nie-zabawne-komik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nie Zabawne Komik.ttf'
 end

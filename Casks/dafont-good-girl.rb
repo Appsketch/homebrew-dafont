@@ -5,7 +5,6 @@ cask 'dafont-good-girl' do
     url 'http://dl.dafont.com/dl/?f=good_girl'
     name 'Good Girl'
     homepage 'http://www.dafont.com/good-girl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GOODGIRL.TTF'
 end

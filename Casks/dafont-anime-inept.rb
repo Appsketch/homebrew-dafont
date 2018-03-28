@@ -5,7 +5,6 @@ cask 'dafont-anime-inept' do
     url 'http://dl.dafont.com/dl/?f=anime_inept'
     name 'Anime Inept'
     homepage 'http://www.dafont.com/anime-inept.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anime Inept.otf'
 end

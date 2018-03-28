@@ -5,7 +5,6 @@ cask 'dafont-broken-toys' do
     url 'http://dl.dafont.com/dl/?f=broken_toys'
     name 'Broken Toys'
     homepage 'http://www.dafont.com/broken-toys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BROKENTOYS.ttf'
 end

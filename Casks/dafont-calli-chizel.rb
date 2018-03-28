@@ -5,7 +5,6 @@ cask 'dafont-calli-chizel' do
     url 'http://dl.dafont.com/dl/?f=calli_chizel'
     name 'Calli Chizel'
     homepage 'http://www.dafont.com/calli-chizel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chizel.ttf'
 end

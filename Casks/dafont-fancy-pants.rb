@@ -5,7 +5,6 @@ cask 'dafont-fancy-pants' do
     url 'http://dl.dafont.com/dl/?f=fancy_pants'
     name 'Fancy Pants'
     homepage 'http://www.dafont.com/fancy-pants.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FANCYPAN.TTF'
 end

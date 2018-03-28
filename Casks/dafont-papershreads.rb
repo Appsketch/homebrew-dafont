@@ -5,7 +5,6 @@ cask 'dafont-papershreads' do
     url 'http://dl.dafont.com/dl/?f=papershreads'
     name 'Paper Shreads'
     homepage 'http://www.dafont.com/papershreads.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaperShreads.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gyparody' do
     url 'http://dl.dafont.com/dl/?f=gyparody'
     name 'Gyparody'
     homepage 'http://www.dafont.com/gyparody.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gyparody hv.ttf'
     font 'gyparody rg.ttf'

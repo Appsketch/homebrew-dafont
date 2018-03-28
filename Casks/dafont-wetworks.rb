@@ -5,7 +5,6 @@ cask 'dafont-wetworks' do
     url 'http://dl.dafont.com/dl/?f=wetworks'
     name 'Wetworks'
     homepage 'http://www.dafont.com/wetworks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wetworks.ttf'
     font 'wetworks3d.ttf'

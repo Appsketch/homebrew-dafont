@@ -5,7 +5,6 @@ cask 'dafont-mmbnthick' do
     url 'http://dl.dafont.com/dl/?f=mmbnthick'
     name 'MMBNThick'
     homepage 'http://www.dafont.com/mmbnthick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mmbnthick.ttf'
 end

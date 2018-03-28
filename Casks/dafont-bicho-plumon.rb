@@ -5,7 +5,6 @@ cask 'dafont-bicho-plumon' do
     url 'http://dl.dafont.com/dl/?f=bicho_plumon'
     name 'Bicho Plumon'
     homepage 'http://www.dafont.com/bicho-plumon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bicho plumon.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-xtreme-bike' do
     url 'http://dl.dafont.com/dl/?f=xtreme_bike'
     name 'Xtreme Bike'
     homepage 'http://www.dafont.com/xtreme-bike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xtreme bike.ttf'
 end

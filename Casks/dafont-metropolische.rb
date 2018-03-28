@@ -5,7 +5,6 @@ cask 'dafont-metropolische' do
     url 'http://dl.dafont.com/dl/?f=metropolische'
     name 'Metropolische'
     homepage 'http://www.dafont.com/metropolische.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Metropolische.ttf'
 end

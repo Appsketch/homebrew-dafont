@@ -5,7 +5,6 @@ cask 'dafont-blade-runner' do
     url 'http://dl.dafont.com/dl/?f=blade_runner'
     name 'Blade Runner Movie Font'
     homepage 'http://www.dafont.com/blade-runner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLADRMF_.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-teletype-1945-1985' do
     url 'http://dl.dafont.com/dl/?f=teletype_1945_1985'
     name 'Teletype 1945-1985'
     homepage 'http://www.dafont.com/teletype-1945-1985.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TELETYPE1945-1985.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-understrukk' do
     url 'http://dl.dafont.com/dl/?f=understrukk'
     name 'UnderStrukk'
     homepage 'http://www.dafont.com/understrukk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'understrukk.ttf'
 end

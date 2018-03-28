@@ -5,7 +5,6 @@ cask 'dafont-flametime' do
     url 'http://dl.dafont.com/dl/?f=flametime'
     name 'FlameTime'
     homepage 'http://www.dafont.com/flametime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlameTime.ttf'
 end

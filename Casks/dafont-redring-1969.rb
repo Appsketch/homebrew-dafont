@@ -5,7 +5,6 @@ cask 'dafont-redring-1969' do
     url 'http://dl.dafont.com/dl/?f=redring_1969'
     name 'Redring 1969'
     homepage 'http://www.dafont.com/redring-1969.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REDRING 1969 v03.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pee-pants-script' do
     url 'http://dl.dafont.com/dl/?f=pee_pants_script'
     name 'Pee Pants Script'
     homepage 'http://www.dafont.com/pee-pants-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pee pee pants.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kunang-kunang' do
     url 'http://dl.dafont.com/dl/?f=kunang_kunang'
     name 'Kunang Kunang'
     homepage 'http://www.dafont.com/kunang-kunang.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kunang Kunang outline.ttf'
     font 'Kunang Kunang.ttf'

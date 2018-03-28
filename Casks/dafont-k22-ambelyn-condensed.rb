@@ -5,7 +5,6 @@ cask 'dafont-k22-ambelyn-condensed' do
     url 'http://dl.dafont.com/dl/?f=k22_ambelyn_condensed'
     name 'K22 Ambelyn Condensed'
     homepage 'http://www.dafont.com/k22-ambelyn-condensed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K22 Ambelyn Condensed.ttf'
 end

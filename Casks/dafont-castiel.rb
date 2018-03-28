@@ -5,7 +5,6 @@ cask 'dafont-castiel' do
     url 'http://dl.dafont.com/dl/?f=castiel'
     name 'Castiel'
     homepage 'http://www.dafont.com/castiel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'castiel.ttf'
 end

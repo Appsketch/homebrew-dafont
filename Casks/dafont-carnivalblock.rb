@@ -5,7 +5,6 @@ cask 'dafont-carnivalblock' do
     url 'http://dl.dafont.com/dl/?f=carnivalblock'
     name 'Carnival Block'
     homepage 'http://www.dafont.com/carnivalblock.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CarnivalBlock.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-maceriamsimplex' do
     url 'http://dl.dafont.com/dl/?f=maceriamsimplex'
     name 'Maceriam Simplex'
     homepage 'http://www.dafont.com/maceriamsimplex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MaceriamSimplex.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-professional-muse' do
     url 'http://dl.dafont.com/dl/?f=professional_muse'
     name 'Professional Muse'
     homepage 'http://www.dafont.com/professional-muse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pro_Muse_Hand.ttf'
 end

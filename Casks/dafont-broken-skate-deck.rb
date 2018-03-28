@@ -5,7 +5,6 @@ cask 'dafont-broken-skate-deck' do
     url 'http://dl.dafont.com/dl/?f=broken_skate_deck'
     name 'Broken Skate deck'
     homepage 'http://www.dafont.com/broken-skate-deck.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AdnanLekpek_BrokenSkateDeck.ttf'
 end

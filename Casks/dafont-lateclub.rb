@@ -5,7 +5,6 @@ cask 'dafont-lateclub' do
     url 'http://dl.dafont.com/dl/?f=lateclub'
     name 'Late Club'
     homepage 'http://www.dafont.com/lateclub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LateClub.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-napping-cat' do
     url 'http://dl.dafont.com/dl/?f=napping_cat'
     name 'Napping Cat'
     homepage 'http://www.dafont.com/napping-cat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Napping Cat.ttf'
 end

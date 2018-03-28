@@ -5,7 +5,6 @@ cask 'dafont-pharmacare' do
     url 'http://dl.dafont.com/dl/?f=pharmacare'
     name 'Pharma Care'
     homepage 'http://www.dafont.com/pharmacare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PharmaCare.ttf'
     font 'PharmaPicto.ttf'

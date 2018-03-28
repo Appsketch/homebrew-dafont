@@ -5,7 +5,6 @@ cask 'dafont-stunfillawenka' do
     url 'http://dl.dafont.com/dl/?f=stunfillawenka'
     name 'OPN Stun Filla Wenka'
     homepage 'http://www.dafont.com/stunfillawenka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OPN StunFillaWenkay.ttf'
 end

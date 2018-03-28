@@ -5,7 +5,6 @@ cask 'dafont-plastic-beach' do
     url 'http://dl.dafont.com/dl/?f=plastic_beach'
     name 'Plastic Beach'
     homepage 'http://www.dafont.com/plastic-beach.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Plastic Beach.ttf'
 end

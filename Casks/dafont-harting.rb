@@ -5,7 +5,6 @@ cask 'dafont-harting' do
     url 'http://dl.dafont.com/dl/?f=harting'
     name 'Harting'
     homepage 'http://www.dafont.com/harting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Harting.ttf'
 end

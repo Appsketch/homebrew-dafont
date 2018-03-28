@@ -5,7 +5,6 @@ cask 'dafont-tt-rabbits-elf' do
     url 'http://dl.dafont.com/dl/?f=tt_rabbits_elf'
     name 'TT Rabbits Elf'
     homepage 'http://www.dafont.com/tt-rabbits-elf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TT Rabbits Elf DEMO.otf'
 end

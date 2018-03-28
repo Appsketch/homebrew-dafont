@@ -5,7 +5,6 @@ cask 'dafont-shake-it-off' do
     url 'http://dl.dafont.com/dl/?f=shake_it_off'
     name 'Shake It Off'
     homepage 'http://www.dafont.com/shake-it-off.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shake it off.ttf'
 end

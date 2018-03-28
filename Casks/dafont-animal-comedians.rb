@@ -5,7 +5,6 @@ cask 'dafont-animal-comedians' do
     url 'http://dl.dafont.com/dl/?f=animal_comedians'
     name 'Animal Comedians'
     homepage 'http://www.dafont.com/animal-comedians.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnimalComedians.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-proggy-tiny' do
     url 'http://dl.dafont.com/dl/?f=proggy_tiny'
     name 'Proggy Tiny'
     homepage 'http://www.dafont.com/proggy-tiny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ProggyTiny.fon'
     font 'ProggyTinySZ.fon'

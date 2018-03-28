@@ -5,7 +5,6 @@ cask 'dafont-shrewsbury-initials' do
     url 'http://dl.dafont.com/dl/?f=shrewsbury_initials'
     name 'Shrewsbury Initials'
     homepage 'http://www.dafont.com/shrewsbury-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shrewsbury_Initials.ttf'
 end

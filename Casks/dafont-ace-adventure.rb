@@ -5,7 +5,6 @@ cask 'dafont-ace-adventure' do
     url 'http://dl.dafont.com/dl/?f=ace_adventure'
     name 'Ace Adventure'
     homepage 'http://www.dafont.com/ace-adventure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ace Adventure.ttf'
 end

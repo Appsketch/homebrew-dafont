@@ -5,7 +5,6 @@ cask 'dafont-vulpes' do
     url 'http://dl.dafont.com/dl/?f=vulpes'
     name 'Vulpes'
     homepage 'http://www.dafont.com/vulpes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vulpes.ttf'
 end

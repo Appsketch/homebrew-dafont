@@ -5,7 +5,6 @@ cask 'dafont-mashburn' do
     url 'http://dl.dafont.com/dl/?f=mashburn'
     name 'Mashburn'
     homepage 'http://www.dafont.com/mashburn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mashburn.RegularTT.ttf'
 end

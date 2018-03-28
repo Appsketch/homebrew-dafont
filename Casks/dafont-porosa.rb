@@ -5,7 +5,6 @@ cask 'dafont-porosa' do
     url 'http://dl.dafont.com/dl/?f=porosa'
     name 'Porosa'
     homepage 'http://www.dafont.com/porosa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Porosa.ttf'
 end

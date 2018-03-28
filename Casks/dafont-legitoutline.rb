@@ -5,7 +5,6 @@ cask 'dafont-legitoutline' do
     url 'http://dl.dafont.com/dl/?f=legitoutline'
     name 'Legit Outline'
     homepage 'http://www.dafont.com/legitoutline.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LegitOutline.ttf'
 end

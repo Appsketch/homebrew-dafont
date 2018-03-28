@@ -5,7 +5,6 @@ cask 'dafont-dk-mothman' do
     url 'http://dl.dafont.com/dl/?f=dk_mothman'
     name 'DK Mothman'
     homepage 'http://www.dafont.com/dk-mothman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK_Mothman.ttf'
 end

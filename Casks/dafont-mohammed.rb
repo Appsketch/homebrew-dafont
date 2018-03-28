@@ -5,7 +5,6 @@ cask 'dafont-mohammed' do
     url 'http://dl.dafont.com/dl/?f=mohammed'
     name 'Mohammed'
     homepage 'http://www.dafont.com/mohammed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOHAMMED.TTF'
 end

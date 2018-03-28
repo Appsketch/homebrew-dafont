@@ -5,7 +5,6 @@ cask 'dafont-my-sweet-sunshine' do
     url 'http://dl.dafont.com/dl/?f=my_sweet_sunshine'
     name 'My Sweet Sunshine'
     homepage 'http://www.dafont.com/my-sweet-sunshine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MySweetSunshine.ttf'
 end

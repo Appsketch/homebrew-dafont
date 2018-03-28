@@ -5,7 +5,6 @@ cask 'dafont-ericsson-ga628' do
     url 'http://dl.dafont.com/dl/?f=ericsson_ga628'
     name 'Ericsson GA628'
     homepage 'http://www.dafont.com/ericsson-ga628.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ericssonga628.TTF'
 end

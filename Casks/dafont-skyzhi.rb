@@ -5,7 +5,6 @@ cask 'dafont-skyzhi' do
     url 'http://dl.dafont.com/dl/?f=skyzhi'
     name 'Skyzhi'
     homepage 'http://www.dafont.com/skyzhi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skyzhi_PERSONAL_USE.ttf'
 end

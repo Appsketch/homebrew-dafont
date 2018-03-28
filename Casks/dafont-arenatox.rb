@@ -5,7 +5,6 @@ cask 'dafont-arenatox' do
     url 'http://dl.dafont.com/dl/?f=arenatox'
     name 'Arenatox'
     homepage 'http://www.dafont.com/arenatox.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caution - Heavy to load/Arenatox font DEMO.ttf'
 end

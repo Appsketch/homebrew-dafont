@@ -5,7 +5,6 @@ cask 'dafont-promotion' do
     url 'http://dl.dafont.com/dl/?f=promotion'
     name 'Promotion'
     homepage 'http://www.dafont.com/promotion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Promotion Blod.ttf'
     font 'Promotion.ttf'

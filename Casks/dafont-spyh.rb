@@ -5,7 +5,6 @@ cask 'dafont-spyh' do
     url 'http://dl.dafont.com/dl/?f=spyh'
     name 'Spyh'
     homepage 'http://www.dafont.com/spyh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spyh_Italic.ttf'
     font 'Spyh_Shadow_Italic.ttf'

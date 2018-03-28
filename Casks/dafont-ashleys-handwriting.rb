@@ -5,7 +5,6 @@ cask 'dafont-ashleys-handwriting' do
     url 'http://dl.dafont.com/dl/?f=ashleys_handwriting'
     name 'Ashley&#039;s Handwriting'
     homepage 'http://www.dafont.com/ashleys-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ashleymarie.ttf'
 end

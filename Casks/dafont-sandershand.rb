@@ -5,7 +5,6 @@ cask 'dafont-sandershand' do
     url 'http://dl.dafont.com/dl/?f=sandershand'
     name 'Sanders Hand'
     homepage 'http://www.dafont.com/sandershand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SandersHand.ttf'
 end

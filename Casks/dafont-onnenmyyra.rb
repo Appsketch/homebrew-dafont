@@ -5,7 +5,6 @@ cask 'dafont-onnenmyyra' do
     url 'http://dl.dafont.com/dl/?f=onnenmyyra'
     name 'Onnenmyyra'
     homepage 'http://www.dafont.com/onnenmyyra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Onnenmyyra.ttf'
 end

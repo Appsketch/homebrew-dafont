@@ -5,7 +5,6 @@ cask 'dafont-mtf-megan' do
     url 'http://dl.dafont.com/dl/?f=mtf_megan'
     name 'MTF Megan'
     homepage 'http://www.dafont.com/mtf-megan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Megan.ttf'
 end

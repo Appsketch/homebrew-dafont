@@ -5,7 +5,6 @@ cask 'dafont-thailandesa' do
     url 'http://dl.dafont.com/dl/?f=thailandesa'
     name 'Thailandesa'
     homepage 'http://www.dafont.com/thailandesa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THAILAND.TTF'
 end

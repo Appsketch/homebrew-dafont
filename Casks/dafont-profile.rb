@@ -5,7 +5,6 @@ cask 'dafont-profile' do
     url 'http://dl.dafont.com/dl/?f=profile'
     name 'Profile'
     homepage 'http://www.dafont.com/profile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Profile.ttf'
 end

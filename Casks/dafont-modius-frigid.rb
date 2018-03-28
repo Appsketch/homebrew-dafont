@@ -5,7 +5,6 @@ cask 'dafont-modius-frigid' do
     url 'http://dl.dafont.com/dl/?f=modius_frigid'
     name 'Modius &#039;Frigid&#039;'
     homepage 'http://www.dafont.com/modius-frigid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ModiusFrigid.ttf'
 end

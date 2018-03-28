@@ -5,7 +5,6 @@ cask 'dafont-ehmcke-federfraktur' do
     url 'http://dl.dafont.com/dl/?f=ehmcke_federfraktur'
     name 'Ehmcke Federfraktur'
     homepage 'http://www.dafont.com/ehmcke-federfraktur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EhmckeFederfraktur.ttf'
 end

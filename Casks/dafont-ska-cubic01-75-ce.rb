@@ -5,7 +5,6 @@ cask 'dafont-ska-cubic01-75-ce' do
     url 'http://dl.dafont.com/dl/?f=ska_cubic01_75_ce'
     name 'SKA Cubic 01_75 CE'
     homepage 'http://www.dafont.com/ska-cubic01-75-ce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SKA_cubic01_75_CE.TTF'
 end

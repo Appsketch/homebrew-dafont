@@ -5,7 +5,6 @@ cask 'dafont-phaser-bank' do
     url 'http://dl.dafont.com/dl/?f=phaser_bank'
     name 'Phaser Bank'
     homepage 'http://www.dafont.com/phaser-bank.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'phaserbank.ttf'
     font 'phaserbank3d.ttf'

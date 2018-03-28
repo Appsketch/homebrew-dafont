@@ -5,7 +5,6 @@ cask 'dafont-dokyo' do
     url 'http://dl.dafont.com/dl/?f=dokyo'
     name 'Dokyo'
     homepage 'http://www.dafont.com/dokyo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOKYO___.TTF'
 end

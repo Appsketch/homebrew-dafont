@@ -5,7 +5,6 @@ cask 'dafont-grecian-formula' do
     url 'http://dl.dafont.com/dl/?f=grecian_formula'
     name 'Grecian Formula'
     homepage 'http://www.dafont.com/grecian-formula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'grec.ttf'
 end

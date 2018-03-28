@@ -5,7 +5,6 @@ cask 'dafont-mf-sippin-on-sunshine' do
     url 'http://dl.dafont.com/dl/?f=mf_sippin_on_sunshine'
     name 'Mf Sippin On Sunshine'
     homepage 'http://www.dafont.com/mf-sippin-on-sunshine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Sippin On Sunshine.ttf'
 end

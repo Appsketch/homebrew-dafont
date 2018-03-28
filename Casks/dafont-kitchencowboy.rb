@@ -5,7 +5,6 @@ cask 'dafont-kitchencowboy' do
     url 'http://dl.dafont.com/dl/?f=kitchencowboy'
     name 'Kitchen Cowboy'
     homepage 'http://www.dafont.com/kitchencowboy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KitchenCowboy-Italic.ttf'
     font 'KitchenCowboy-Regular.ttf'

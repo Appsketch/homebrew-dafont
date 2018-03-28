@@ -5,7 +5,6 @@ cask 'dafont-smalltypewriting-medium' do
     url 'http://dl.dafont.com/dl/?f=smalltypewriting_medium'
     name 'SmallType Writing'
     homepage 'http://www.dafont.com/smalltypewriting-medium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SmallTypeWriting.ttf'
     font 'SmallTypeWritingMedium.ttf'

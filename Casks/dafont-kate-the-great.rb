@@ -5,7 +5,6 @@ cask 'dafont-kate-the-great' do
     url 'http://dl.dafont.com/dl/?f=kate_the_great'
     name 'Kate the Great'
     homepage 'http://www.dafont.com/kate-the-great.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KatetheGreat.ttf'
 end

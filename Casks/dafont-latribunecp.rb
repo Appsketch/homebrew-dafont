@@ -5,7 +5,6 @@ cask 'dafont-latribunecp' do
     url 'http://dl.dafont.com/dl/?f=latribunecp'
     name 'La Tribune CP'
     homepage 'http://www.dafont.com/latribunecp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaTribuneCP.otf'
 end

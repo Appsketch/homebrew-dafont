@@ -5,7 +5,6 @@ cask 'dafont-ding-maps' do
     url 'http://dl.dafont.com/dl/?f=ding_maps'
     name 'Ding Maps'
     homepage 'http://www.dafont.com/ding-maps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DINGMAPS.TTF'
 end

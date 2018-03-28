@@ -5,7 +5,6 @@ cask 'dafont-la-maison-de-papier' do
     url 'http://dl.dafont.com/dl/?f=la_maison_de_papier'
     name 'La Maison de Papier'
     homepage 'http://www.dafont.com/la-maison-de-papier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'La Maison de Papier.ttf'
 end

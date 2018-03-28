@@ -5,7 +5,6 @@ cask 'dafont-red-zone' do
     url 'http://dl.dafont.com/dl/?f=red_zone'
     name 'Red Zone'
     homepage 'http://www.dafont.com/red-zone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Red Zone.ttf'
 end

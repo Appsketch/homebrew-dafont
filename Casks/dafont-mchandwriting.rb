@@ -5,7 +5,6 @@ cask 'dafont-mchandwriting' do
     url 'http://dl.dafont.com/dl/?f=mchandwriting'
     name 'McHandwriting'
     homepage 'http://www.dafont.com/mchandwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'McHandwriting.otf'
 end

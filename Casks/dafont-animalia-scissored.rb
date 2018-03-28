@@ -5,7 +5,6 @@ cask 'dafont-animalia-scissored' do
     url 'http://dl.dafont.com/dl/?f=animalia_scissored'
     name 'Animalia Scissored'
     homepage 'http://www.dafont.com/animalia-scissored.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnimaliaScissored.ttf'
 end

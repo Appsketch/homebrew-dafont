@@ -5,7 +5,6 @@ cask 'dafont-painty-paint' do
     url 'http://dl.dafont.com/dl/?f=painty_paint'
     name 'Painty Paint'
     homepage 'http://www.dafont.com/painty-paint.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PAINP___.TTF'
 end

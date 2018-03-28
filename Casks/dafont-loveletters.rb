@@ -5,7 +5,6 @@ cask 'dafont-loveletters' do
     url 'http://dl.dafont.com/dl/?f=loveletters'
     name 'Love Letters'
     homepage 'http://www.dafont.com/loveletters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LOVELETTERS.ttf'
 end

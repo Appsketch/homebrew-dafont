@@ -5,7 +5,6 @@ cask 'dafont-fish-sausages' do
     url 'http://dl.dafont.com/dl/?f=fish_sausages'
     name 'Fish Sausages'
     homepage 'http://www.dafont.com/fish-sausages.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fish Sausages.ttf'
 end

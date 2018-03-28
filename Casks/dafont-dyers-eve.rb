@@ -5,7 +5,6 @@ cask 'dafont-dyers-eve' do
     url 'http://dl.dafont.com/dl/?f=dyers_eve'
     name 'Dyers Eve'
     homepage 'http://www.dafont.com/dyers-eve.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DYERSEVE.ttf'
 end

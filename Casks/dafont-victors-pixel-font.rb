@@ -5,7 +5,6 @@ cask 'dafont-victors-pixel-font' do
     url 'http://dl.dafont.com/dl/?f=victors_pixel_font'
     name 'Victor&#039;s Pixel Font'
     homepage 'http://www.dafont.com/victors-pixel-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'victor-pixel.ttf'
 end

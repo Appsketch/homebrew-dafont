@@ -5,7 +5,6 @@ cask 'dafont-robot-head' do
     url 'http://dl.dafont.com/dl/?f=robot_head'
     name 'Robot!Head'
     homepage 'http://www.dafont.com/robot-head.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'robothead.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blackgrapes' do
     url 'http://dl.dafont.com/dl/?f=blackgrapes'
     name 'Black Grapes'
     homepage 'http://www.dafont.com/blackgrapes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlackGrapes-Regular.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-graphmaster' do
     url 'http://dl.dafont.com/dl/?f=graphmaster'
     name 'Graph Master'
     homepage 'http://www.dafont.com/graphmaster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GraphMaster.ttf'
 end

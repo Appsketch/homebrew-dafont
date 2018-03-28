@@ -5,7 +5,6 @@ cask 'dafont-yo-te-amo-pero-en-secreto' do
     url 'http://dl.dafont.com/dl/?f=yo_te_amo_pero_en_secreto'
     name 'Yo te amo pero en secreto'
     homepage 'http://www.dafont.com/yo-te-amo-pero-en-secreto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yo te amo pero en secreto.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-distorted-and-scrat' do
     url 'http://dl.dafont.com/dl/?f=distorted_and_scrat'
     name 'Distorted and Scratchy'
     homepage 'http://www.dafont.com/distorted-and-scrat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Distorted_and_Scratchy.ttf'
 end

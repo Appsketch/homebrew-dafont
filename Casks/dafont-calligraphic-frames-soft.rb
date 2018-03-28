@@ -5,7 +5,6 @@ cask 'dafont-calligraphic-frames-soft' do
     url 'http://dl.dafont.com/dl/?f=calligraphic_frames_soft'
     name 'Calligraphic Frames Soft'
     homepage 'http://www.dafont.com/calligraphic-frames-soft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Calligraphic Frames Soft Two.ttf'
     font 'Calligraphic Frames Soft.otf'

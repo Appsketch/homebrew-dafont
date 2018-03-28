@@ -5,7 +5,6 @@ cask 'dafont-subito' do
     url 'http://dl.dafont.com/dl/?f=subito'
     name 'Subito'
     homepage 'http://www.dafont.com/subito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Subito Black.ttf'
     font 'Subito.ttf'

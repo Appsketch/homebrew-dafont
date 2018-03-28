@@ -5,7 +5,6 @@ cask 'dafont-every-freakin-night' do
     url 'http://dl.dafont.com/dl/?f=every_freakin_night'
     name 'Every Freakin Night'
     homepage 'http://www.dafont.com/every-freakin-night.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Every Freakin Night.ttf'
 end

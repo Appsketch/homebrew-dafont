@@ -5,7 +5,6 @@ cask 'dafont-taras-handwriting' do
     url 'http://dl.dafont.com/dl/?f=taras_handwriting'
     name 'Tara&#039;s Handwriting'
     homepage 'http://www.dafont.com/taras-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Taras_Handwriting_2.ttf'
 end

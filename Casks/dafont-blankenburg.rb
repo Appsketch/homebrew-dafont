@@ -5,7 +5,6 @@ cask 'dafont-blankenburg' do
     url 'http://dl.dafont.com/dl/?f=blankenburg'
     name 'Blankenburg'
     homepage 'http://www.dafont.com/blankenburg.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blankenburg.ttf'
 end

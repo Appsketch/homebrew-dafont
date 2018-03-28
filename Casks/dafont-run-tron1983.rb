@@ -5,7 +5,6 @@ cask 'dafont-run-tron1983' do
     url 'http://dl.dafont.com/dl/?f=run_tron1983'
     name 'Run Tron 1983'
     homepage 'http://www.dafont.com/run-tron1983.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RUNTRON1.TTF'
 end

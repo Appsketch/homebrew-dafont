@@ -5,7 +5,6 @@ cask 'dafont-windy-rain' do
     url 'http://dl.dafont.com/dl/?f=windy_rain'
     name 'Windy Rain'
     homepage 'http://www.dafont.com/windy-rain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WindyRainDemo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-laser' do
     url 'http://dl.dafont.com/dl/?f=laser'
     name 'Laser'
     homepage 'http://www.dafont.com/laser.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Laser.ttf'
 end

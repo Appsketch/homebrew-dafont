@@ -5,7 +5,6 @@ cask 'dafont-yardgnome' do
     url 'http://dl.dafont.com/dl/?f=yardgnome'
     name 'Yard Gnome'
     homepage 'http://www.dafont.com/yardgnome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YardGnome.ttf'
 end

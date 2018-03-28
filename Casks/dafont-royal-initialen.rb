@@ -5,7 +5,6 @@ cask 'dafont-royal-initialen' do
     url 'http://dl.dafont.com/dl/?f=royal_initialen'
     name 'Royal Initialen'
     homepage 'http://www.dafont.com/royal-initialen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RoyalInitialen.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-micropixel' do
     url 'http://dl.dafont.com/dl/?f=micropixel'
     name 'Micropixel'
     homepage 'http://www.dafont.com/micropixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Picopixel.ttf'
 end

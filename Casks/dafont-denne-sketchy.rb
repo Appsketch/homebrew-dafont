@@ -5,7 +5,6 @@ cask 'dafont-denne-sketchy' do
     url 'http://dl.dafont.com/dl/?f=denne_sketchy'
     name 'Denne Sketchy'
     homepage 'http://www.dafont.com/denne-sketchy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DENNE-SKETCHY.ttf'
 end

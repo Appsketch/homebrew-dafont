@@ -5,7 +5,6 @@ cask 'dafont-discomidnight' do
     url 'http://dl.dafont.com/dl/?f=discomidnight'
     name 'Disco Midnight'
     homepage 'http://www.dafont.com/discomidnight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DiscoMidnight.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kakoulookiam' do
     url 'http://dl.dafont.com/dl/?f=kakoulookiam'
     name 'Kakoulookiam'
     homepage 'http://www.dafont.com/kakoulookiam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kakoulookiam.ttf'
 end

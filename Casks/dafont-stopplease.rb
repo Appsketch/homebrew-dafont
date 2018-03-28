@@ -5,7 +5,6 @@ cask 'dafont-stopplease' do
     url 'http://dl.dafont.com/dl/?f=stopplease'
     name 'Stop Please'
     homepage 'http://www.dafont.com/stopplease.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STOPplease.ttf'
 end

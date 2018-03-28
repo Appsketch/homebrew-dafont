@@ -5,7 +5,6 @@ cask 'dafont-tyro' do
     url 'http://dl.dafont.com/dl/?f=tyro'
     name 'Tyro'
     homepage 'http://www.dafont.com/tyro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tyro.ttf'
 end

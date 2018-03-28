@@ -5,7 +5,6 @@ cask 'dafont-ocean-city-park' do
     url 'http://dl.dafont.com/dl/?f=ocean_city_park'
     name 'Ocean City Park'
     homepage 'http://www.dafont.com/ocean-city-park.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ocean City Park.otf'
 end

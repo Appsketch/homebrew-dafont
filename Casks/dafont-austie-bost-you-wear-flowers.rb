@@ -5,7 +5,6 @@ cask 'dafont-austie-bost-you-wear-flowers' do
     url 'http://dl.dafont.com/dl/?f=austie_bost_you_wear_flowers'
     name 'Austie Bost You Wear Flowers'
     homepage 'http://www.dafont.com/austie-bost-you-wear-flowers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Austie Bost You Wear Flowers Hollow.ttf'
     font 'Austie Bost You Wear Flowers Solid.ttf'

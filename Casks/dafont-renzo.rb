@@ -5,7 +5,6 @@ cask 'dafont-renzo' do
     url 'http://dl.dafont.com/dl/?f=renzo'
     name 'Renzo'
     homepage 'http://www.dafont.com/renzo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'renzo.otf'
 end

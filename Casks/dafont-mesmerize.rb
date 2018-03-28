@@ -5,7 +5,6 @@ cask 'dafont-mesmerize' do
     url 'http://dl.dafont.com/dl/?f=mesmerize'
     name 'Mesmerize'
     homepage 'http://www.dafont.com/mesmerize.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mesmerize-bd-it.ttf'
     font 'mesmerize-bd.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-the-rave-is-in-your-pants' do
     url 'http://dl.dafont.com/dl/?f=the_rave_is_in_your_pants'
     name 'The Rave Is In Your Pants'
     homepage 'http://www.dafont.com/the-rave-is-in-your-pants.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Rave Is In Your Pants.otf'
 end

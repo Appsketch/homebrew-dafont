@@ -5,7 +5,6 @@ cask 'dafont-sarcasticamodern' do
     url 'http://dl.dafont.com/dl/?f=sarcasticamodern'
     name 'Sarcastica Modern'
     homepage 'http://www.dafont.com/sarcasticamodern.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SarcasticaModern.ttf'
 end

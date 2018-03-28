@@ -5,7 +5,6 @@ cask 'dafont-cut-the-paper' do
     url 'http://dl.dafont.com/dl/?f=cut_the_paper'
     name 'Cut the paper'
     homepage 'http://www.dafont.com/cut-the-paper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cut_the_paper.ttf'
 end

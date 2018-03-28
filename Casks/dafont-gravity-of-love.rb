@@ -5,7 +5,6 @@ cask 'dafont-gravity-of-love' do
     url 'http://dl.dafont.com/dl/?f=gravity_of_love'
     name 'Gravity of Love'
     homepage 'http://www.dafont.com/gravity-of-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gravity of Love.ttf'
 end

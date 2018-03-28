@@ -5,7 +5,6 @@ cask 'dafont-cf-jacques-cartier' do
     url 'http://dl.dafont.com/dl/?f=cf_jacques_cartier'
     name 'CF Jacques Cartier'
     homepage 'http://www.dafont.com/cf-jacques-cartier.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFJacquesCartier-Regular.ttf'
 end

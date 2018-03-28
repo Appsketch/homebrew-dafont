@@ -5,7 +5,6 @@ cask 'dafont-metroid-fusion' do
     url 'http://dl.dafont.com/dl/?f=metroid_fusion'
     name 'Metroid Fusion'
     homepage 'http://www.dafont.com/metroid-fusion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Metroid-Fusion.ttf'
 end

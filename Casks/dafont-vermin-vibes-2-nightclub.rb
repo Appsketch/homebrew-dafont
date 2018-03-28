@@ -5,7 +5,6 @@ cask 'dafont-vermin-vibes-2-nightclub' do
     url 'http://dl.dafont.com/dl/?f=vermin_vibes_2_nightclub'
     name 'Vermin Vibes 2 Nightclub'
     homepage 'http://www.dafont.com/vermin-vibes-2-nightclub.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VV2Nightclub.otf'
 end

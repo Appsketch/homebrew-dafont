@@ -5,7 +5,6 @@ cask 'dafont-publicite-depoque-basic' do
     url 'http://dl.dafont.com/dl/?f=publicite_depoque_basic'
     name 'Publicite d&#039;epoque basic'
     homepage 'http://www.dafont.com/publicite-depoque-basic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'publicitebasic.ttf'
 end

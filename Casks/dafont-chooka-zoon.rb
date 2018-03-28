@@ -5,7 +5,6 @@ cask 'dafont-chooka-zoon' do
     url 'http://dl.dafont.com/dl/?f=chooka_zoon'
     name 'Chooka Zoon'
     homepage 'http://www.dafont.com/chooka-zoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chooka Zoon.ttf'
 end

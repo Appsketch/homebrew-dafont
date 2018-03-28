@@ -5,7 +5,6 @@ cask 'dafont-moderna' do
     url 'http://dl.dafont.com/dl/?f=moderna'
     name 'Moderna'
     homepage 'http://www.dafont.com/moderna.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MODERNA_.TTF'
 end

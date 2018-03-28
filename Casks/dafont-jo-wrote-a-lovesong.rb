@@ -5,7 +5,6 @@ cask 'dafont-jo-wrote-a-lovesong' do
     url 'http://dl.dafont.com/dl/?f=jo_wrote_a_lovesong'
     name 'Jo wrote a lovesong'
     homepage 'http://www.dafont.com/jo-wrote-a-lovesong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jo_wrote_a_lovesong.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ragg-mopp' do
     url 'http://dl.dafont.com/dl/?f=ragg_mopp'
     name 'Ragg Mopp'
     homepage 'http://www.dafont.com/ragg-mopp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RAGGMOPP.TTF'
 end

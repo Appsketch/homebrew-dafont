@@ -5,7 +5,6 @@ cask 'dafont-kboutoftowner' do
     url 'http://dl.dafont.com/dl/?f=kboutoftowner'
     name 'KB Out Of Towner'
     homepage 'http://www.dafont.com/kboutoftowner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBOutOfTowner.ttf'
 end

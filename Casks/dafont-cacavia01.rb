@@ -5,7 +5,6 @@ cask 'dafont-cacavia01' do
     url 'http://dl.dafont.com/dl/?f=cacavia01'
     name 'Cacavia01'
     homepage 'http://www.dafont.com/cacavia01.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cacavia01.ttf'
 end

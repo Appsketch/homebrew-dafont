@@ -5,7 +5,6 @@ cask 'dafont-mrf-silverplume' do
     url 'http://dl.dafont.com/dl/?f=mrf_silverplume'
     name 'MRF Silverplume'
     homepage 'http://www.dafont.com/mrf-silverplume.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MRF Silverplume.ttf'
 end

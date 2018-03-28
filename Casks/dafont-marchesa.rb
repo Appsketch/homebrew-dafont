@@ -5,7 +5,6 @@ cask 'dafont-marchesa' do
     url 'http://dl.dafont.com/dl/?f=marchesa'
     name 'Marchesa'
     homepage 'http://www.dafont.com/marchesa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marchesa.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stribatonbold' do
     url 'http://dl.dafont.com/dl/?f=stribatonbold'
     name 'Stribaton'
     homepage 'http://www.dafont.com/stribatonbold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stribaton.ttf'
 end

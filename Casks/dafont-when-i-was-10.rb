@@ -5,7 +5,6 @@ cask 'dafont-when-i-was-10' do
     url 'http://dl.dafont.com/dl/?f=when_i_was_10'
     name 'When I was 10'
     homepage 'http://www.dafont.com/when-i-was-10.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WhenIwas-Regular.otf'
 end

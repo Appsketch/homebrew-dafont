@@ -5,7 +5,6 @@ cask 'dafont-bilius' do
     url 'http://dl.dafont.com/dl/?f=bilius'
     name 'Bilius'
     homepage 'http://www.dafont.com/bilius.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bilius.ttf'
 end

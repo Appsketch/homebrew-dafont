@@ -5,7 +5,6 @@ cask 'dafont-gesso' do
     url 'http://dl.dafont.com/dl/?f=gesso'
     name 'Gesso'
     homepage 'http://www.dafont.com/gesso.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GESSO___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-vertical-tuning' do
     url 'http://dl.dafont.com/dl/?f=vertical_tuning'
     name 'Vertical Tuning'
     homepage 'http://www.dafont.com/vertical-tuning.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'verti___.ttf'
 end

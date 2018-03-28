@@ -5,7 +5,6 @@ cask 'dafont-petroleum' do
     url 'http://dl.dafont.com/dl/?f=petroleum'
     name 'Petroleum'
     homepage 'http://www.dafont.com/petroleum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Petroleum.ttf'
 end

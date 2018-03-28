@@ -5,7 +5,6 @@ cask 'dafont-ftf-aywave-arty' do
     url 'http://dl.dafont.com/dl/?f=ftf_aywave_arty'
     name 'FTF Aywave Arty'
     homepage 'http://www.dafont.com/ftf-aywave-arty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FTF Aywave Arty FREE DEMO.ttf'
 end

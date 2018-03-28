@@ -5,7 +5,6 @@ cask 'dafont-typo-comica' do
     url 'http://dl.dafont.com/dl/?f=typo_comica'
     name 'Typo Comica'
     homepage 'http://www.dafont.com/typo-comica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typo_Comica_demo.otf'
     font 'Typo_Comica_italic_demo.otf'

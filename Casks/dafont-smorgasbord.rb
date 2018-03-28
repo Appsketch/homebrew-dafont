@@ -5,7 +5,6 @@ cask 'dafont-smorgasbord' do
     url 'http://dl.dafont.com/dl/?f=smorgasbord'
     name 'Smorgasbord'
     homepage 'http://www.dafont.com/smorgasbord.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smorgasbord.otf'
 end

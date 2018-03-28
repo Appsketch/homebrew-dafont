@@ -5,7 +5,6 @@ cask 'dafont-zepto' do
     url 'http://dl.dafont.com/dl/?f=zepto'
     name 'Zepto'
     homepage 'http://www.dafont.com/zepto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zepto 1.100.ttf'
 end

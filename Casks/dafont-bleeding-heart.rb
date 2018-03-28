@@ -5,7 +5,6 @@ cask 'dafont-bleeding-heart' do
     url 'http://dl.dafont.com/dl/?f=bleeding_heart'
     name 'Bleeding Heart'
     homepage 'http://www.dafont.com/bleeding-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bleeding_Heart.otf'
 end

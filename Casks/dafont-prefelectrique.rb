@@ -5,7 +5,6 @@ cask 'dafont-prefelectrique' do
     url 'http://dl.dafont.com/dl/?f=prefelectrique'
     name 'Prefelectrique'
     homepage 'http://www.dafont.com/prefelectrique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Prefelectrique.ttf'
 end

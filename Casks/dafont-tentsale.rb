@@ -5,7 +5,6 @@ cask 'dafont-tentsale' do
     url 'http://dl.dafont.com/dl/?f=tentsale'
     name 'Tent Sale'
     homepage 'http://www.dafont.com/tentsale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TentSale.ttf'
 end

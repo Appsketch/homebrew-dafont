@@ -5,7 +5,6 @@ cask 'dafont-japers' do
     url 'http://dl.dafont.com/dl/?f=japers'
     name 'Japers'
     homepage 'http://www.dafont.com/japers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Japers.otf'
 end

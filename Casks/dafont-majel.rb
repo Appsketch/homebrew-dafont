@@ -5,7 +5,6 @@ cask 'dafont-majel' do
     url 'http://dl.dafont.com/dl/?f=majel'
     name 'Majel'
     homepage 'http://www.dafont.com/majel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Majel Bold Italic.otf'
     font 'Majel Bold.otf'

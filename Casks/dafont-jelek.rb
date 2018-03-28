@@ -5,7 +5,6 @@ cask 'dafont-jelek' do
     url 'http://dl.dafont.com/dl/?f=jelek'
     name 'Jelek'
     homepage 'http://www.dafont.com/jelek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jelek.ttf'
 end

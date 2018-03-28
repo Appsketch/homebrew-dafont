@@ -5,7 +5,6 @@ cask 'dafont-toxico' do
     url 'http://dl.dafont.com/dl/?f=toxico'
     name 'Toxico'
     homepage 'http://www.dafont.com/toxico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Toxico.otf'
 end

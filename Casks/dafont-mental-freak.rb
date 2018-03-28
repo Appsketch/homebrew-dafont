@@ -5,7 +5,6 @@ cask 'dafont-mental-freak' do
     url 'http://dl.dafont.com/dl/?f=mental_freak'
     name 'Mental Freak'
     homepage 'http://www.dafont.com/mental-freak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MENTAL_FREAK.ttf'
 end

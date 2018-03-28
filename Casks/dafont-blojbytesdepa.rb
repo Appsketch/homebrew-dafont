@@ -5,7 +5,6 @@ cask 'dafont-blojbytesdepa' do
     url 'http://dl.dafont.com/dl/?f=blojbytesdepa'
     name 'Bl&ouml;jbytesdep&aring;'
     homepage 'http://www.dafont.com/blojbytesdepa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bl&ouml;jbyte.ttf'
 end

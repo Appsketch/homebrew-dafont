@@ -5,7 +5,6 @@ cask 'dafont-diamondawareness' do
     url 'http://dl.dafont.com/dl/?f=diamondawareness'
     name 'Diamond Awareness'
     homepage 'http://www.dafont.com/diamondawareness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DiamondAwareness.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-twister' do
     url 'http://dl.dafont.com/dl/?f=twister'
     name 'Twister'
     homepage 'http://www.dafont.com/twister.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'twister.ttf'
 end

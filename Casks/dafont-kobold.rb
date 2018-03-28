@@ -5,7 +5,6 @@ cask 'dafont-kobold' do
     url 'http://dl.dafont.com/dl/?f=kobold'
     name 'Kobold'
     homepage 'http://www.dafont.com/kobold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kobold.ttf'
     font 'kobold3d.ttf'

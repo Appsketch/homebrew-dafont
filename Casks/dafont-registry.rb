@@ -5,7 +5,6 @@ cask 'dafont-registry' do
     url 'http://dl.dafont.com/dl/?f=registry'
     name 'Registry'
     homepage 'http://www.dafont.com/registry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'registry.ttf'
 end

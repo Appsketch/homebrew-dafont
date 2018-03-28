@@ -5,7 +5,6 @@ cask 'dafont-degenerate' do
     url 'http://dl.dafont.com/dl/?f=degenerate'
     name 'DeGenerate'
     homepage 'http://www.dafont.com/degenerate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DeGenerate.ttf'
 end

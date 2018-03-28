@@ -5,7 +5,6 @@ cask 'dafont-greekbeartinye' do
     url 'http://dl.dafont.com/dl/?f=greekbeartinye'
     name 'Greek Bear Tiny E'
     homepage 'http://www.dafont.com/greekbeartinye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'greekbeartinye.ttf'
 end

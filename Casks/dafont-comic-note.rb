@@ -5,7 +5,6 @@ cask 'dafont-comic-note' do
     url 'http://dl.dafont.com/dl/?f=comic_note'
     name 'Comic Note Raw'
     homepage 'http://www.dafont.com/comic-note.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ComicNote.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ufo-nest' do
     url 'http://dl.dafont.com/dl/?f=ufo_nest'
     name 'Ufo Nest'
     homepage 'http://www.dafont.com/ufo-nest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UFO NEST - Regluar.ttf'
 end

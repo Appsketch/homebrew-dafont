@@ -5,7 +5,6 @@ cask 'dafont-hardquestions' do
     url 'http://dl.dafont.com/dl/?f=hardquestions'
     name 'Hard Questions'
     homepage 'http://www.dafont.com/hardquestions.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HardQuestions.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-masterplan' do
     url 'http://dl.dafont.com/dl/?f=masterplan'
     name 'Masterplan'
     homepage 'http://www.dafont.com/masterplan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MASTERPLAN___.ttf'
 end

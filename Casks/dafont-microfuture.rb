@@ -5,7 +5,6 @@ cask 'dafont-microfuture' do
     url 'http://dl.dafont.com/dl/?f=microfuture'
     name 'Microfuture'
     homepage 'http://www.dafont.com/microfuture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'microfuture.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-quael-gothic' do
     url 'http://dl.dafont.com/dl/?f=quael_gothic'
     name 'Quael Gothic'
     homepage 'http://www.dafont.com/quael-gothic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuaelGothic.ttf'
     font 'QuaelGothicCondensed.ttf'

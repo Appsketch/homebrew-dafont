@@ -5,7 +5,6 @@ cask 'dafont-digitek' do
     url 'http://dl.dafont.com/dl/?f=digitek'
     name 'Digitek'
     homepage 'http://www.dafont.com/digitek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DIGITEK.TTF'
 end

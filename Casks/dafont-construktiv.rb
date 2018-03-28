@@ -5,7 +5,6 @@ cask 'dafont-construktiv' do
     url 'http://dl.dafont.com/dl/?f=construktiv'
     name 'Construktiv'
     homepage 'http://www.dafont.com/construktiv.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'construktiv.ttf'
 end

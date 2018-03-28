@@ -5,7 +5,6 @@ cask 'dafont-paasse-handwriting' do
     url 'http://dl.dafont.com/dl/?f=paasse_handwriting'
     name 'Paasse Handwriting'
     homepage 'http://www.dafont.com/paasse-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paasse Handwriting.otf'
 end

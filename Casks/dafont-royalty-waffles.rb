@@ -5,7 +5,6 @@ cask 'dafont-royalty-waffles' do
     url 'http://dl.dafont.com/dl/?f=royalty_waffles'
     name 'Royalty Waffles'
     homepage 'http://www.dafont.com/royalty-waffles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Royalty Waffles.ttf'
 end

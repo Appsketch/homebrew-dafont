@@ -5,7 +5,6 @@ cask 'dafont-baron-kuffner' do
     url 'http://dl.dafont.com/dl/?f=baron_kuffner'
     name 'Baron Kuffner'
     homepage 'http://www.dafont.com/baron-kuffner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baron Kuffner.otf'
 end

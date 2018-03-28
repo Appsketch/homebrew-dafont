@@ -5,7 +5,6 @@ cask 'dafont-bdtoulouse' do
     url 'http://dl.dafont.com/dl/?f=bdtoulouse'
     name 'BD Toulouse'
     homepage 'http://www.dafont.com/bdtoulouse.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDToulouse.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yacarena-ultra-ffp' do
     url 'http://dl.dafont.com/dl/?f=yacarena_ultra_ffp'
     name 'Yacarena Ultra FFP'
     homepage 'http://www.dafont.com/yacarena-ultra-ffp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yacarena-Ultra-personal-use.otf'
 end

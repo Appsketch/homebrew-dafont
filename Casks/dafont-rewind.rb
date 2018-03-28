@@ -5,7 +5,6 @@ cask 'dafont-rewind' do
     url 'http://dl.dafont.com/dl/?f=rewind'
     name 'Rewind'
     homepage 'http://www.dafont.com/rewind.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rewind_Font.otf'
 end

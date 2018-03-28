@@ -5,7 +5,6 @@ cask 'dafont-heart-attack' do
     url 'http://dl.dafont.com/dl/?f=heart_attack'
     name 'Heart Attack'
     homepage 'http://www.dafont.com/heart-attack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'heartattack.ttf'
 end

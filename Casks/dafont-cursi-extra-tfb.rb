@@ -5,7 +5,6 @@ cask 'dafont-cursi-extra-tfb' do
     url 'http://dl.dafont.com/dl/?f=cursi_extra_tfb'
     name 'Cursi Extra TFB'
     homepage 'http://www.dafont.com/cursi-extra-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cursi extra tfb bold cursive.ttf'
     font 'cursi extra tfb bold.ttf'

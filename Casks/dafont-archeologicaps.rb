@@ -5,7 +5,6 @@ cask 'dafont-archeologicaps' do
     url 'http://dl.dafont.com/dl/?f=archeologicaps'
     name 'Archeologicaps'
     homepage 'http://www.dafont.com/archeologicaps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Archeologicaps.ttf'
 end

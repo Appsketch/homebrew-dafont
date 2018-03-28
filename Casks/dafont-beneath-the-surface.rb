@@ -5,7 +5,6 @@ cask 'dafont-beneath-the-surface' do
     url 'http://dl.dafont.com/dl/?f=beneath_the_surface'
     name 'Beneath the Surface'
     homepage 'http://www.dafont.com/beneath-the-surface.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TrueType/Beneath_the_Surface.ttf'
 end

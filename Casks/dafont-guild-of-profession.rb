@@ -5,7 +5,6 @@ cask 'dafont-guild-of-profession' do
     url 'http://dl.dafont.com/dl/?f=guild_of_profession'
     name 'Guild of Professional Actors'
     homepage 'http://www.dafont.com/guild-of-profession.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'guildof.ttf'
 end

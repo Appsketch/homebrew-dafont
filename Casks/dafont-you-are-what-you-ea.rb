@@ -5,7 +5,6 @@ cask 'dafont-you-are-what-you-ea' do
     url 'http://dl.dafont.com/dl/?f=you_are_what_you_ea'
     name 'You are what you eat'
     homepage 'http://www.dafont.com/you-are-what-you-ea.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'youarewhatyoueat.ttf'
 end

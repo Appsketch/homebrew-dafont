@@ -5,7 +5,6 @@ cask 'dafont-sophie' do
     url 'http://dl.dafont.com/dl/?f=sophie'
     name 'Sophie'
     homepage 'http://www.dafont.com/sophie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sophie.ttf'
 end

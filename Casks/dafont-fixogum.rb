@@ -5,7 +5,6 @@ cask 'dafont-fixogum' do
     url 'http://dl.dafont.com/dl/?f=fixogum'
     name 'Fixogum'
     homepage 'http://www.dafont.com/fixogum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fixogum.otf'
 end

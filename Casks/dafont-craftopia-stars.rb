@@ -5,7 +5,6 @@ cask 'dafont-craftopia-stars' do
     url 'http://dl.dafont.com/dl/?f=craftopia_stars'
     name 'Craftopia Stars'
     homepage 'http://www.dafont.com/craftopia-stars.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Craftopia Stars.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-van-den-velde-script' do
     url 'http://dl.dafont.com/dl/?f=van_den_velde_script'
     name 'Van den Velde Script'
     homepage 'http://www.dafont.com/van-den-velde-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Van den Velde Script_personal_use_demo.ttf'
 end

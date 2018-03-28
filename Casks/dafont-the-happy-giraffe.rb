@@ -5,7 +5,6 @@ cask 'dafont-the-happy-giraffe' do
     url 'http://dl.dafont.com/dl/?f=the_happy_giraffe'
     name 'The Happy Giraffe'
     homepage 'http://www.dafont.com/the-happy-giraffe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Happy Giraffe Demo.ttf'
 end

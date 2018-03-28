@@ -5,7 +5,6 @@ cask 'dafont-mcalbertina' do
     url 'http://dl.dafont.com/dl/?f=mcalbertina'
     name 'McAlbertina'
     homepage 'http://www.dafont.com/mcalbertina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'McAlbertina.ttf'
 end

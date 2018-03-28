@@ -5,7 +5,6 @@ cask 'dafont-as-cute-as' do
     url 'http://dl.dafont.com/dl/?f=as_cute_as'
     name 'As Cute As...'
     homepage 'http://www.dafont.com/as-cute-as.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'As Cute As... Bold.ttf'
     font 'As Cute As... Heavy.ttf'

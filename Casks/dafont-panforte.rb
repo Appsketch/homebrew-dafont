@@ -5,7 +5,6 @@ cask 'dafont-panforte' do
     url 'http://dl.dafont.com/dl/?f=panforte'
     name 'Panforte'
     homepage 'http://www.dafont.com/panforte.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'panforte_bold_italic.ttf'
     font 'panforte_bold.ttf'

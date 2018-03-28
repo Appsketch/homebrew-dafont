@@ -5,7 +5,6 @@ cask 'dafont-shears' do
     url 'http://dl.dafont.com/dl/?f=shears'
     name 'Shears'
     homepage 'http://www.dafont.com/shears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shears.otf'
 end

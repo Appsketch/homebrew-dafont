@@ -5,7 +5,6 @@ cask 'dafont-agnes-serif' do
     url 'http://dl.dafont.com/dl/?f=agnes_serif'
     name 'Agnes Serif'
     homepage 'http://www.dafont.com/agnes-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Agnes_serif.ttf'
 end

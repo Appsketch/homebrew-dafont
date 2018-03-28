@@ -5,7 +5,6 @@ cask 'dafont-caligstroy' do
     url 'http://dl.dafont.com/dl/?f=caligstroy'
     name 'Caligstroy'
     homepage 'http://www.dafont.com/caligstroy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Caligstroy.ttf'
 end

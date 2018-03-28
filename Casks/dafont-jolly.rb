@@ -5,7 +5,6 @@ cask 'dafont-jolly' do
     url 'http://dl.dafont.com/dl/?f=jolly'
     name 'Jolly'
     homepage 'http://www.dafont.com/jolly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jolly Bold Italic.ttf'
     font 'Jolly Bold.ttf'

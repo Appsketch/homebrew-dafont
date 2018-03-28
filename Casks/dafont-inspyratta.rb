@@ -5,7 +5,6 @@ cask 'dafont-inspyratta' do
     url 'http://dl.dafont.com/dl/?f=inspyratta'
     name 'Inspyratta'
     homepage 'http://www.dafont.com/inspyratta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Inspyratta.ttf'
 end

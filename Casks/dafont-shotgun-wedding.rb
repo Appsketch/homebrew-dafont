@@ -5,7 +5,6 @@ cask 'dafont-shotgun-wedding' do
     url 'http://dl.dafont.com/dl/?f=shotgun_wedding'
     name 'Shotgun Wedding'
     homepage 'http://www.dafont.com/shotgun-wedding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShotgunWeddingDEMO.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-badbaltimore-beveled' do
     url 'http://dl.dafont.com/dl/?f=badbaltimore_beveled'
     name 'Bad Baltimore Beveled'
     homepage 'http://www.dafont.com/badbaltimore-beveled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BadBaltimore Beveled.ttf'
 end

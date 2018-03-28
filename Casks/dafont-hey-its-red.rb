@@ -5,7 +5,6 @@ cask 'dafont-hey-its-red' do
     url 'http://dl.dafont.com/dl/?f=hey_its_red'
     name 'Hey it&#039;s red'
     homepage 'http://www.dafont.com/hey-its-red.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heyir___.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yy-old-english-ding' do
     url 'http://dl.dafont.com/dl/?f=yy_old_english_ding'
     name 'YY Old English Dingbats'
     homepage 'http://www.dafont.com/yy-old-english-ding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old English Dingbats.ttf'
 end

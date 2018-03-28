@@ -5,7 +5,6 @@ cask 'dafont-how-to-do-something' do
     url 'http://dl.dafont.com/dl/?f=how_to_do_something'
     name 'How To Do Something'
     homepage 'http://www.dafont.com/how-to-do-something.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HoW tO dO SoMeThInG.ttf'
 end

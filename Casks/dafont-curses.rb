@@ -5,7 +5,6 @@ cask 'dafont-curses' do
     url 'http://dl.dafont.com/dl/?f=curses'
     name 'Curses'
     homepage 'http://www.dafont.com/curses.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'curs.ttf'
 end

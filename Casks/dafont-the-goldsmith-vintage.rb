@@ -5,7 +5,6 @@ cask 'dafont-the-goldsmith-vintage' do
     url 'http://dl.dafont.com/dl/?f=the_goldsmith_vintage'
     name 'The Goldsmith Vintage'
     homepage 'http://www.dafont.com/the-goldsmith-vintage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Goldsmith_Vintage.ttf'
 end

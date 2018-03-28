@@ -5,7 +5,6 @@ cask 'dafont-ninteen-77' do
     url 'http://dl.dafont.com/dl/?f=ninteen_77'
     name 'Ninteen 77'
     homepage 'http://www.dafont.com/ninteen-77.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ninteen 77.ttf'
 end

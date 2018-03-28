@@ -5,7 +5,6 @@ cask 'dafont-marquis-de-sade-ornaments' do
     url 'http://dl.dafont.com/dl/?f=marquis_de_sade_ornaments'
     name 'Marquis De Sade Ornaments'
     homepage 'http://www.dafont.com/marquis-de-sade-ornaments.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Marquis_De_Sade_Ornaments.ttf'
 end

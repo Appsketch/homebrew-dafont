@@ -5,7 +5,6 @@ cask 'dafont-vintage-motorcycle-club' do
     url 'http://dl.dafont.com/dl/?f=vintage_motorcycle_club'
     name 'Vintage Motorcycle Club'
     homepage 'http://www.dafont.com/vintage-motorcycle-club.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vintage Motorcycle Club2.ttf'
 end

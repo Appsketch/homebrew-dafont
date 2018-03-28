@@ -5,7 +5,6 @@ cask 'dafont-kuudere' do
     url 'http://dl.dafont.com/dl/?f=kuudere'
     name 'Kuudere'
     homepage 'http://www.dafont.com/kuudere.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kuudere.ttf'
 end

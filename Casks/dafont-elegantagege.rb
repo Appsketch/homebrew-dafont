@@ -5,7 +5,6 @@ cask 'dafont-elegantagege' do
     url 'http://dl.dafont.com/dl/?f=elegantagege'
     name 'Elegant Agege'
     homepage 'http://www.dafont.com/elegantagege.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elegant Agege.ttf'
 end

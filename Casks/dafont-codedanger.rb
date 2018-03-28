@@ -5,7 +5,6 @@ cask 'dafont-codedanger' do
     url 'http://dl.dafont.com/dl/?f=codedanger'
     name 'Code Danger'
     homepage 'http://www.dafont.com/codedanger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CodeDanger.ttf'
 end

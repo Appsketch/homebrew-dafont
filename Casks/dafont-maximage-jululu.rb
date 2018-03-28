@@ -5,7 +5,6 @@ cask 'dafont-maximage-jululu' do
     url 'http://dl.dafont.com/dl/?f=maximage_jululu'
     name 'Maximage Jululu'
     homepage 'http://www.dafont.com/maximage-jululu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maximage Jululu Outline.otf'
     font 'Maximage Jululu.otf'

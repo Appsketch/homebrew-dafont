@@ -5,7 +5,6 @@ cask 'dafont-qr-font-tfb' do
     url 'http://dl.dafont.com/dl/?f=qr_font_tfb'
     name 'QR font TFB'
     homepage 'http://www.dafont.com/qr-font-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QR font tfb.ttf'
 end

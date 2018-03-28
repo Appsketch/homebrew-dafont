@@ -5,7 +5,6 @@ cask 'dafont-bear-icons' do
     url 'http://dl.dafont.com/dl/?f=bear_icons'
     name 'Bear Icons'
     homepage 'http://www.dafont.com/bear-icons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bear Icons.ttf'
 end

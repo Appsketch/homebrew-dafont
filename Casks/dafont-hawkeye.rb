@@ -5,7 +5,6 @@ cask 'dafont-hawkeye' do
     url 'http://dl.dafont.com/dl/?f=hawkeye'
     name 'Hawkeye'
     homepage 'http://www.dafont.com/hawkeye.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hawkeye back.ttf'
     font 'hawkeye front.ttf'

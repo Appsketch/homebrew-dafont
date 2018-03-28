@@ -5,7 +5,6 @@ cask 'dafont-pollux-9x' do
     url 'http://dl.dafont.com/dl/?f=pollux_9x'
     name 'Pollux 9x'
     homepage 'http://www.dafont.com/pollux-9x.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POLLUX9200.ttf'
     font 'POLLUX9201.ttf'

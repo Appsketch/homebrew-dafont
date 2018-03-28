@@ -5,7 +5,6 @@ cask 'dafont-louis-cypher' do
     url 'http://dl.dafont.com/dl/?f=louis_cypher'
     name 'Louis Cypher'
     homepage 'http://www.dafont.com/louis-cypher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Louis Cypher.ttf'
 end

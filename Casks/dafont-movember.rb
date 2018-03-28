@@ -5,7 +5,6 @@ cask 'dafont-movember' do
     url 'http://dl.dafont.com/dl/?f=movember'
     name 'Movember'
     homepage 'http://www.dafont.com/movember.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Movember.ttf'
 end

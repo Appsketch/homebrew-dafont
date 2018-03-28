@@ -5,7 +5,6 @@ cask 'dafont-earwax-wit' do
     url 'http://dl.dafont.com/dl/?f=earwax_wit'
     name 'Earwax Wit'
     homepage 'http://www.dafont.com/earwax-wit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Earwax Wit.ttf'
 end

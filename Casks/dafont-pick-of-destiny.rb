@@ -5,7 +5,6 @@ cask 'dafont-pick-of-destiny' do
     url 'http://dl.dafont.com/dl/?f=pick_of_destiny'
     name 'Pick of Destiny'
     homepage 'http://www.dafont.com/pick-of-destiny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PICK_FINAL.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-morris' do
     url 'http://dl.dafont.com/dl/?f=morris'
     name 'Morris'
     homepage 'http://www.dafont.com/morris.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Morris.ttf'
 end

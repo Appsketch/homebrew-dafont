@@ -5,7 +5,6 @@ cask 'dafont-santa-rosalia' do
     url 'http://dl.dafont.com/dl/?f=santa_rosalia'
     name 'Santa Rosalia'
     homepage 'http://www.dafont.com/santa-rosalia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Santa Rosalia.ttf'
 end

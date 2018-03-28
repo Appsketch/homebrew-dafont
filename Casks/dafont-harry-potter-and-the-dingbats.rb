@@ -5,7 +5,6 @@ cask 'dafont-harry-potter-and-the-dingbats' do
     url 'http://dl.dafont.com/dl/?f=harry_potter_and_the_dingbats'
     name 'Harry Potter and the Dingbats'
     homepage 'http://www.dafont.com/harry-potter-and-the-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'harry_potter_and_the_dingbat_font.TTF'
 end

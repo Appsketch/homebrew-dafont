@@ -5,7 +5,6 @@ cask 'dafont-peanuts-gang-dings' do
     url 'http://dl.dafont.com/dl/?f=peanuts_gang_dings'
     name 'Peanuts Gang Dings'
     homepage 'http://www.dafont.com/peanuts-gang-dings.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Peanuts_Gang_Dingbats.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-new-chinese' do
     url 'http://dl.dafont.com/dl/?f=new_chinese'
     name 'New Chinese'
     homepage 'http://www.dafont.com/new-chinese.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'New_Chinese.ttf'
 end

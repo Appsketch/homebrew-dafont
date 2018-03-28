@@ -5,7 +5,6 @@ cask 'dafont-neodrive' do
     url 'http://dl.dafont.com/dl/?f=neodrive'
     name 'Neo Drive'
     homepage 'http://www.dafont.com/neodrive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Neodrive.ttf'
 end

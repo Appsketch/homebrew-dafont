@@ -5,7 +5,6 @@ cask 'dafont-simplehand' do
     url 'http://dl.dafont.com/dl/?f=simplehand'
     name 'Simplehand'
     homepage 'http://www.dafont.com/simplehand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'simplehand outline.ttf'
     font 'simplehand.ttf'

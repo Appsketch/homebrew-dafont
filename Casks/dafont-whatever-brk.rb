@@ -5,7 +5,6 @@ cask 'dafont-whatever-brk' do
     url 'http://dl.dafont.com/dl/?f=whatever_brk'
     name 'Whatever BRK'
     homepage 'http://www.dafont.com/whatever-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'whatever.ttf'
 end

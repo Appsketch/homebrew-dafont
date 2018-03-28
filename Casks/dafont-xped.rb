@@ -5,7 +5,6 @@ cask 'dafont-xped' do
     url 'http://dl.dafont.com/dl/?f=xped'
     name 'Xped'
     homepage 'http://www.dafont.com/xped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XPED.TTF'
     font 'Xpedb.ttf'

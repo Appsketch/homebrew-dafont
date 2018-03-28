@@ -5,7 +5,6 @@ cask 'dafont-unquiet-spirits' do
     url 'http://dl.dafont.com/dl/?f=unquiet_spirits'
     name 'Unquiet Spirits'
     homepage 'http://www.dafont.com/unquiet-spirits.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unquiet Spirits.ttf'
 end

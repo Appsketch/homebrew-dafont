@@ -5,7 +5,6 @@ cask 'dafont-underwhelmed' do
     url 'http://dl.dafont.com/dl/?f=underwhelmed'
     name 'Underwhelmed BRK'
     homepage 'http://www.dafont.com/underwhelmed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'underwhe.ttf'
     font 'underwho.ttf'

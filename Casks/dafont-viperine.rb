@@ -5,7 +5,6 @@ cask 'dafont-viperine' do
     url 'http://dl.dafont.com/dl/?f=viperine'
     name 'Vip&eacute;rine'
     homepage 'http://www.dafont.com/viperine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Viperine.ttf'
 end

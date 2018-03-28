@@ -5,7 +5,6 @@ cask 'dafont-lizard' do
     url 'http://dl.dafont.com/dl/?f=lizard'
     name 'Lizard'
     homepage 'http://www.dafont.com/lizard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lizard.ttf'
 end

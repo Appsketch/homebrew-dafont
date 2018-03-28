@@ -5,7 +5,6 @@ cask 'dafont-olimpia' do
     url 'http://dl.dafont.com/dl/?f=olimpia'
     name 'Olimpia'
     homepage 'http://www.dafont.com/olimpia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Olimpia Italic.ttf'
     font 'Olimpia.ttf'

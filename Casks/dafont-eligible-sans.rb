@@ -5,7 +5,6 @@ cask 'dafont-eligible-sans' do
     url 'http://dl.dafont.com/dl/?f=eligible_sans'
     name 'Eligible Sans'
     homepage 'http://www.dafont.com/eligible-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EligibleSans-Bold.ttf'
     font 'EligibleSans-BoldItalic.ttf'

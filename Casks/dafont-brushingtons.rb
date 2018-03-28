@@ -5,7 +5,6 @@ cask 'dafont-brushingtons' do
     url 'http://dl.dafont.com/dl/?f=brushingtons'
     name 'Brushingtons'
     homepage 'http://www.dafont.com/brushingtons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brushingtons.ttf'
 end

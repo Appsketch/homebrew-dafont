@@ -5,7 +5,6 @@ cask 'dafont-miss-amanda-jones' do
     url 'http://dl.dafont.com/dl/?f=miss_amanda_jones'
     name 'Miss Amanda Jones'
     homepage 'http://www.dafont.com/miss-amanda-jones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'maj.ttf'
     font 'majc.ttf'

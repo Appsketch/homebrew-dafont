@@ -5,7 +5,6 @@ cask 'dafont-bazaronite' do
     url 'http://dl.dafont.com/dl/?f=bazaronite'
     name 'Bazaronite'
     homepage 'http://www.dafont.com/bazaronite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BAZARONI.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-maritime-flags' do
     url 'http://dl.dafont.com/dl/?f=maritime_flags'
     name 'Maritime Flags'
     homepage 'http://www.dafont.com/maritime-flags.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mari-01.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-facets-nf' do
     url 'http://dl.dafont.com/dl/?f=facets_nf'
     name 'Facets NF'
     homepage 'http://www.dafont.com/facets-nf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FACETSNF.ttf'
 end

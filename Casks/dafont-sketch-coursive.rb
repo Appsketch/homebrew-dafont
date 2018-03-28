@@ -5,7 +5,6 @@ cask 'dafont-sketch-coursive' do
     url 'http://dl.dafont.com/dl/?f=sketch_coursive'
     name 'Sketch Coursive'
     homepage 'http://www.dafont.com/sketch-coursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sketch Coursive.ttf'
 end

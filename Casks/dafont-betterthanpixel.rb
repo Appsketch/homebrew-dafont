@@ -5,7 +5,6 @@ cask 'dafont-betterthanpixel' do
     url 'http://dl.dafont.com/dl/?f=betterthanpixel'
     name 'Better Than Pixel'
     homepage 'http://www.dafont.com/betterthanpixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BetterThanPixel.ttf'
 end

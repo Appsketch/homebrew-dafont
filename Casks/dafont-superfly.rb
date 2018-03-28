@@ -5,7 +5,6 @@ cask 'dafont-superfly' do
     url 'http://dl.dafont.com/dl/?f=superfly'
     name 'Superfly'
     homepage 'http://www.dafont.com/superfly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPERFLY.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-slashtacular' do
     url 'http://dl.dafont.com/dl/?f=slashtacular'
     name 'Slashtacular'
     homepage 'http://www.dafont.com/slashtacular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Slashtacular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-communist' do
     url 'http://dl.dafont.com/dl/?f=communist'
     name 'Communist'
     homepage 'http://www.dafont.com/communist.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COMMI___.TTF'
     font 'COMMS___.TTF'

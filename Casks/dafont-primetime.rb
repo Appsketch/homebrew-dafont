@@ -5,7 +5,6 @@ cask 'dafont-primetime' do
     url 'http://dl.dafont.com/dl/?f=primetime'
     name 'Primetime'
     homepage 'http://www.dafont.com/primetime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PRIMETIME &cedil; PERSONAL USE ONLY.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rvd-glued' do
     url 'http://dl.dafont.com/dl/?f=rvd_glued'
     name 'RvD Glued'
     homepage 'http://www.dafont.com/rvd-glued.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RvD_GLUED.ttf'
 end

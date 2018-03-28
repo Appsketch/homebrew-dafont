@@ -5,7 +5,6 @@ cask 'dafont-bbc-logos' do
     url 'http://dl.dafont.com/dl/?f=bbc_logos'
     name 'BBC logos'
     homepage 'http://www.dafont.com/bbc-logos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BBC Striped Channel Logos.ttf'
     font 'BBC TV Channel Logos.ttf'

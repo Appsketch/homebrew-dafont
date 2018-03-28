@@ -5,7 +5,6 @@ cask 'dafont-beowulf1' do
     url 'http://dl.dafont.com/dl/?f=beowulf1'
     name 'Beowulf 1'
     homepage 'http://www.dafont.com/beowulf1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BEOWULF_.TTF'
 end

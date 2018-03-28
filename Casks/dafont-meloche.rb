@@ -5,7 +5,6 @@ cask 'dafont-meloche' do
     url 'http://dl.dafont.com/dl/?f=meloche'
     name 'Meloche'
     homepage 'http://www.dafont.com/meloche.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'meloche-bk.ttf'
 end

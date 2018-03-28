@@ -5,7 +5,6 @@ cask 'dafont-federation-classic' do
     url 'http://dl.dafont.com/dl/?f=federation_classic'
     name 'Federation Classic'
     homepage 'http://www.dafont.com/federation-classic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FEC_____.TTF'
 end

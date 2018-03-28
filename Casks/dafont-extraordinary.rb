@@ -5,7 +5,6 @@ cask 'dafont-extraordinary' do
     url 'http://dl.dafont.com/dl/?f=extraordinary'
     name 'Extraordinary'
     homepage 'http://www.dafont.com/extraordinary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Extraordinary.ttf'
 end

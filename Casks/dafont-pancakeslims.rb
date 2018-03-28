@@ -5,7 +5,6 @@ cask 'dafont-pancakeslims' do
     url 'http://dl.dafont.com/dl/?f=pancakeslims'
     name 'Pancakeslims'
     homepage 'http://www.dafont.com/pancakeslims.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pancakeslims.ttf'
 end

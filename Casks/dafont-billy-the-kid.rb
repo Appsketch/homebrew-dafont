@@ -5,7 +5,6 @@ cask 'dafont-billy-the-kid' do
     url 'http://dl.dafont.com/dl/?f=billy_the_kid'
     name 'Billy The Kid'
     homepage 'http://www.dafont.com/billy-the-kid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BILLY THE KID.ttf'
 end

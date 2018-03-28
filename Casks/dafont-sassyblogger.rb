@@ -5,7 +5,6 @@ cask 'dafont-sassyblogger' do
     url 'http://dl.dafont.com/dl/?f=sassyblogger'
     name 'Sassy Blogger'
     homepage 'http://www.dafont.com/sassyblogger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SassyBlogger.ttf'
 end

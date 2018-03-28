@@ -5,7 +5,6 @@ cask 'dafont-opticon-one' do
     url 'http://dl.dafont.com/dl/?f=opticon_one'
     name 'Opticon One'
     homepage 'http://www.dafont.com/opticon-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Optio___.ttf'
 end

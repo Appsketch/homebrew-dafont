@@ -5,7 +5,6 @@ cask 'dafont-writtenlies' do
     url 'http://dl.dafont.com/dl/?f=writtenlies'
     name 'Written Lies'
     homepage 'http://www.dafont.com/writtenlies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Written Lies.ttf'
 end

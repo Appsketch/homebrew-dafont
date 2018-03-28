@@ -5,7 +5,6 @@ cask 'dafont-sexy-spanish-woman' do
     url 'http://dl.dafont.com/dl/?f=sexy_spanish_woman'
     name 'Sexy Spanish Woman'
     homepage 'http://www.dafont.com/sexy-spanish-woman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SEXY_SPANISH.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-laser-rod' do
     url 'http://dl.dafont.com/dl/?f=laser_rod'
     name 'Laser Rod'
     homepage 'http://www.dafont.com/laser-rod.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Laser Rod Bold Italic.otf'
     font 'Laser Rod Bold.otf'

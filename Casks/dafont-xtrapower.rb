@@ -5,7 +5,6 @@ cask 'dafont-xtrapower' do
     url 'http://dl.dafont.com/dl/?f=xtrapower'
     name 'Xtrapower'
     homepage 'http://www.dafont.com/xtrapower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Xtra Power.ttf'
 end

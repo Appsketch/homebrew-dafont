@@ -5,7 +5,6 @@ cask 'dafont-kemasyuran-jawa' do
     url 'http://dl.dafont.com/dl/?f=kemasyuran_jawa'
     name 'Kemasyuran Jawa'
     homepage 'http://www.dafont.com/kemasyuran-jawa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kemasyuran_jawa.ttf'
 end

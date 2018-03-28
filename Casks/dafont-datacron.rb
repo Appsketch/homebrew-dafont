@@ -5,7 +5,6 @@ cask 'dafont-datacron' do
     url 'http://dl.dafont.com/dl/?f=datacron'
     name 'Datacron'
     homepage 'http://www.dafont.com/datacron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Datacron Bold Italic.ttf'
     font 'Datacron Bold.ttf'

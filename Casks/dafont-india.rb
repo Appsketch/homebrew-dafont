@@ -5,7 +5,6 @@ cask 'dafont-india' do
     url 'http://dl.dafont.com/dl/?f=india'
     name 'India'
     homepage 'http://www.dafont.com/india.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'India.ttf'
 end

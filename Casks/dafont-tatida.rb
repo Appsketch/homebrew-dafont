@@ -5,7 +5,6 @@ cask 'dafont-tatida' do
     url 'http://dl.dafont.com/dl/?f=tatida'
     name 'Tatida Rocking'
     homepage 'http://www.dafont.com/tatida.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tatida_Rocking.ttf'
 end

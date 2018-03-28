@@ -5,7 +5,6 @@ cask 'dafont-coalition' do
     url 'http://dl.dafont.com/dl/?f=coalition'
     name 'Coalition'
     homepage 'http://www.dafont.com/coalition.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coalition_v2..ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-j-d-handcrafted' do
     url 'http://dl.dafont.com/dl/?f=j_d_handcrafted'
     name 'J.D. Handcrafted'
     homepage 'http://www.dafont.com/j-d-handcrafted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'j.d.ttf'
 end

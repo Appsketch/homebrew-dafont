@@ -5,7 +5,6 @@ cask 'dafont-flowers-dots-bats-tfb' do
     url 'http://dl.dafont.com/dl/?f=flowers_dots_bats_tfb'
     name 'Flowers Dots Bats TFB'
     homepage 'http://www.dafont.com/flowers-dots-bats-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flowers dots bats tfb.ttf'
 end

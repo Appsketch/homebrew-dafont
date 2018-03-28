@@ -5,7 +5,6 @@ cask 'dafont-bluestone' do
     url 'http://dl.dafont.com/dl/?f=bluestone'
     name 'BlueStone'
     homepage 'http://www.dafont.com/bluestone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlueStone.ttf'
 end

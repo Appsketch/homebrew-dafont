@@ -5,7 +5,6 @@ cask 'dafont-haven' do
     url 'http://dl.dafont.com/dl/?f=haven'
     name 'Haven'
     homepage 'http://www.dafont.com/haven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Haven.otf'
 end

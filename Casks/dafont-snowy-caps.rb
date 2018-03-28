@@ -5,7 +5,6 @@ cask 'dafont-snowy-caps' do
     url 'http://dl.dafont.com/dl/?f=snowy_caps'
     name 'Snowy Caps'
     homepage 'http://www.dafont.com/snowy-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SnowyCaps.ttf'
 end

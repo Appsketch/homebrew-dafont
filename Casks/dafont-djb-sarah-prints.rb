@@ -5,7 +5,6 @@ cask 'dafont-djb-sarah-prints' do
     url 'http://dl.dafont.com/dl/?f=djb_sarah_prints'
     name 'DJB Sarah Prints'
     homepage 'http://www.dafont.com/djb-sarah-prints.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Sarah prints.ttf'
 end

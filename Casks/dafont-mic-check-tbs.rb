@@ -5,7 +5,6 @@ cask 'dafont-mic-check-tbs' do
     url 'http://dl.dafont.com/dl/?f=mic_check_tbs'
     name 'Mic Check TBS'
     homepage 'http://www.dafont.com/mic-check-tbs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'micchecktbs.ttf'
 end

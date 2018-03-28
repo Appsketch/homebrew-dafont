@@ -5,7 +5,6 @@ cask 'dafont-chump' do
     url 'http://dl.dafont.com/dl/?f=chump'
     name 'Chump'
     homepage 'http://www.dafont.com/chump.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Chump-Regular.otf'
 end

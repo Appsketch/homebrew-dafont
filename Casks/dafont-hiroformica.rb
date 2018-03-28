@@ -5,7 +5,6 @@ cask 'dafont-hiroformica' do
     url 'http://dl.dafont.com/dl/?f=hiroformica'
     name 'Hiroformica'
     homepage 'http://www.dafont.com/hiroformica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hiroformica.otf'
 end

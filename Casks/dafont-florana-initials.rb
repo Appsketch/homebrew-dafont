@@ -5,7 +5,6 @@ cask 'dafont-florana-initials' do
     url 'http://dl.dafont.com/dl/?f=florana_initials'
     name 'Florana Initials'
     homepage 'http://www.dafont.com/florana-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FLORANA.TTF'
 end

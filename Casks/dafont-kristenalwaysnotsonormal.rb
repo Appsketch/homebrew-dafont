@@ -5,7 +5,6 @@ cask 'dafont-kristenalwaysnotsonormal' do
     url 'http://dl.dafont.com/dl/?f=kristenalwaysnotsonormal'
     name 'Kristen always not so normal'
     homepage 'http://www.dafont.com/kristenalwaysnotsonormal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kristenalwaysnotsonormal.ttf'
 end

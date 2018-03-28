@@ -5,7 +5,6 @@ cask 'dafont-jacquelyns-messy-hand' do
     url 'http://dl.dafont.com/dl/?f=jacquelyns_messy_hand'
     name 'Jacquelyn&#039;s Messy Hand'
     homepage 'http://www.dafont.com/jacquelyns-messy-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jacquelyn&#039;sMessyHand.ttf'
 end

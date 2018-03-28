@@ -5,7 +5,6 @@ cask 'dafont-gothic-texture-quad' do
     url 'http://dl.dafont.com/dl/?f=gothic_texture_quad'
     name 'Gothic Texture Quadrata'
     homepage 'http://www.dafont.com/gothic-texture-quad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gothtqrg.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-arttimes' do
     url 'http://dl.dafont.com/dl/?f=arttimes'
     name 'Art Times'
     homepage 'http://www.dafont.com/arttimes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArtTimes.ttf'
 end

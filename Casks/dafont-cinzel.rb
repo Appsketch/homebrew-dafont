@@ -5,7 +5,6 @@ cask 'dafont-cinzel' do
     url 'http://dl.dafont.com/dl/?f=cinzel'
     name 'Cinzel'
     homepage 'http://www.dafont.com/cinzel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cinzel-Black.otf'
     font 'Cinzel-Bold.otf'

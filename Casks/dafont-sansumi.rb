@@ -5,7 +5,6 @@ cask 'dafont-sansumi' do
     url 'http://dl.dafont.com/dl/?f=sansumi'
     name 'Sansumi'
     homepage 'http://www.dafont.com/sansumi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sansumi-Bold.ttf'
     font 'Sansumi-DemiBold.ttf'

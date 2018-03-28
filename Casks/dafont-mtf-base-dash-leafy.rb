@@ -5,7 +5,6 @@ cask 'dafont-mtf-base-dash-leafy' do
     url 'http://dl.dafont.com/dl/?f=mtf_base_dash_leafy'
     name 'MTF Base Dash Leafy'
     homepage 'http://www.dafont.com/mtf-base-dash-leafy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Base Leafy.ttf'
 end

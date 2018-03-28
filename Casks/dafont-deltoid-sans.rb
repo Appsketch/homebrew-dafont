@@ -5,7 +5,6 @@ cask 'dafont-deltoid-sans' do
     url 'http://dl.dafont.com/dl/?f=deltoid_sans'
     name 'Deltoid Sans'
     homepage 'http://www.dafont.com/deltoid-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Deltoid-sans.ttf'
 end

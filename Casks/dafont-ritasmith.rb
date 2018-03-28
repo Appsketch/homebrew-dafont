@@ -5,7 +5,6 @@ cask 'dafont-ritasmith' do
     url 'http://dl.dafont.com/dl/?f=ritasmith'
     name 'Rita Smith'
     homepage 'http://www.dafont.com/ritasmith.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RitaSmith.otf'
     font 'RitaSmithAlt.otf'

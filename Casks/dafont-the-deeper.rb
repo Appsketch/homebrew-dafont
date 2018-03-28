@@ -5,7 +5,6 @@ cask 'dafont-the-deeper' do
     url 'http://dl.dafont.com/dl/?f=the_deeper'
     name 'The Deeper'
     homepage 'http://www.dafont.com/the-deeper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'theDEEPER.ttf'
 end

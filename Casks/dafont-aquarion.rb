@@ -5,7 +5,6 @@ cask 'dafont-aquarion' do
     url 'http://dl.dafont.com/dl/?f=aquarion'
     name 'Aquarion'
     homepage 'http://www.dafont.com/aquarion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aquarion.otf'
 end

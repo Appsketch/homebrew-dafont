@@ -5,7 +5,6 @@ cask 'dafont-brushy-cre' do
     url 'http://dl.dafont.com/dl/?f=brushy_cre'
     name 'Brushy Cre'
     homepage 'http://www.dafont.com/brushy-cre.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Brushy_Cre.ttf'
 end

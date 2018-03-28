@@ -5,7 +5,6 @@ cask 'dafont-delitschantiqua' do
     url 'http://dl.dafont.com/dl/?f=delitschantiqua'
     name 'Delitsch Antiqua'
     homepage 'http://www.dafont.com/delitschantiqua.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DelitschAntiqua.ttf'
 end

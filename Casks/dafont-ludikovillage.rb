@@ -5,7 +5,6 @@ cask 'dafont-ludikovillage' do
     url 'http://dl.dafont.com/dl/?f=ludikovillage'
     name 'Ludiko Village'
     homepage 'http://www.dafont.com/ludikovillage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ludikovillage.ttf'
 end

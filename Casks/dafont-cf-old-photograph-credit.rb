@@ -5,7 +5,6 @@ cask 'dafont-cf-old-photograph-credit' do
     url 'http://dl.dafont.com/dl/?f=cf_old_photograph_credit'
     name 'CF Old Photograph Credit'
     homepage 'http://www.dafont.com/cf-old-photograph-credit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFOldPhotographCredit.ttf'
 end

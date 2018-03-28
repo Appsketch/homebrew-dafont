@@ -5,7 +5,6 @@ cask 'dafont-senzana' do
     url 'http://dl.dafont.com/dl/?f=senzana'
     name 'Senzana'
     homepage 'http://www.dafont.com/senzana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Senzana Font.ttf'
 end

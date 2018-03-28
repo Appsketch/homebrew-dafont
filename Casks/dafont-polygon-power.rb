@@ -5,7 +5,6 @@ cask 'dafont-polygon-power' do
     url 'http://dl.dafont.com/dl/?f=polygon_power'
     name 'Polygon Power'
     homepage 'http://www.dafont.com/polygon-power.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Polgnpwr.ttf'
 end

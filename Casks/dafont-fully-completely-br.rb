@@ -5,7 +5,6 @@ cask 'dafont-fully-completely-br' do
     url 'http://dl.dafont.com/dl/?f=fully_completely_br'
     name 'Fully Completely BRK'
     homepage 'http://www.dafont.com/fully-completely-br.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fullcomp.ttf'
 end

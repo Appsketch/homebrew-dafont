@@ -5,7 +5,6 @@ cask 'dafont-kingjola' do
     url 'http://dl.dafont.com/dl/?f=kingjola'
     name 'Kingjola'
     homepage 'http://www.dafont.com/kingjola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kingjola.ttf'
 end

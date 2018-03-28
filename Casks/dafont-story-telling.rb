@@ -5,7 +5,6 @@ cask 'dafont-story-telling' do
     url 'http://dl.dafont.com/dl/?f=story_telling'
     name 'Story Telling'
     homepage 'http://www.dafont.com/story-telling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Story Telling.ttf'
 end

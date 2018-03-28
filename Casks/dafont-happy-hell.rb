@@ -5,7 +5,6 @@ cask 'dafont-happy-hell' do
     url 'http://dl.dafont.com/dl/?f=happy_hell'
     name 'Happy Hell'
     homepage 'http://www.dafont.com/happy-hell.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Happy Hell.ttf'
 end

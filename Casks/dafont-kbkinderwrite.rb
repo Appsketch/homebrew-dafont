@@ -5,7 +5,6 @@ cask 'dafont-kbkinderwrite' do
     url 'http://dl.dafont.com/dl/?f=kbkinderwrite'
     name 'KB Kinder Write'
     homepage 'http://www.dafont.com/kbkinderwrite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBKinderWrite.ttf'
     font 'KBKinderWriteBold.ttf'

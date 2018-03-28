@@ -5,7 +5,6 @@ cask 'dafont-kramola' do
     url 'http://dl.dafont.com/dl/?f=kramola'
     name 'Kramola'
     homepage 'http://www.dafont.com/kramola.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kramola.ttf'
 end

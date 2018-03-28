@@ -5,7 +5,6 @@ cask 'dafont-tweakdiner' do
     url 'http://dl.dafont.com/dl/?f=tweakdiner'
     name 'Tweak Diner'
     homepage 'http://www.dafont.com/tweakdiner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TweakDiner.ttf'
 end

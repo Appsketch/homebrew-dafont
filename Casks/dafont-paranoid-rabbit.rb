@@ -5,7 +5,6 @@ cask 'dafont-paranoid-rabbit' do
     url 'http://dl.dafont.com/dl/?f=paranoid_rabbit'
     name 'Paranoid Rabbit'
     homepage 'http://www.dafont.com/paranoid-rabbit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Paranoid_Rabbit_erc_tryout_2008.ttf'
 end

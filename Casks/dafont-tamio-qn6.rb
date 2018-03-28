@@ -5,7 +5,6 @@ cask 'dafont-tamio-qn6' do
     url 'http://dl.dafont.com/dl/?f=tamio_qn6'
     name 'Tamio QN6'
     homepage 'http://www.dafont.com/tamio-qn6.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tamio__.ttf'
 end

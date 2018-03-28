@@ -5,7 +5,6 @@ cask 'dafont-helzapoppin' do
     url 'http://dl.dafont.com/dl/?f=helzapoppin'
     name 'Helzapoppin'
     homepage 'http://www.dafont.com/helzapoppin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Helza.ttf'
 end

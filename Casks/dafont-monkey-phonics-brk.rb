@@ -5,7 +5,6 @@ cask 'dafont-monkey-phonics-brk' do
     url 'http://dl.dafont.com/dl/?f=monkey_phonics_brk'
     name 'Monkey Phonics BRK'
     homepage 'http://www.dafont.com/monkey-phonics-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monkphon.ttf'
 end

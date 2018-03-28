@@ -5,7 +5,6 @@ cask 'dafont-technically-but-not-actually' do
     url 'http://dl.dafont.com/dl/?f=technically_but_not_actually'
     name 'Technically, But Not Actually'
     homepage 'http://www.dafont.com/technically-but-not-actually.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Technically, But Not Actually.ttf'
 end

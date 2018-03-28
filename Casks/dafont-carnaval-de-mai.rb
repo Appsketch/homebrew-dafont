@@ -5,7 +5,6 @@ cask 'dafont-carnaval-de-mai' do
     url 'http://dl.dafont.com/dl/?f=carnaval_de_mai'
     name 'Carnaval de Mai'
     homepage 'http://www.dafont.com/carnaval-de-mai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carnaval de Mai.ttf'
 end

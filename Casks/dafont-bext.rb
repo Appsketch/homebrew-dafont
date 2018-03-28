@@ -5,7 +5,6 @@ cask 'dafont-bext' do
     url 'http://dl.dafont.com/dl/?f=bext'
     name 'Bext '
     homepage 'http://www.dafont.com/bext.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bext!.ttf'
 end

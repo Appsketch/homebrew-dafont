@@ -5,7 +5,6 @@ cask 'dafont-poppy' do
     url 'http://dl.dafont.com/dl/?f=poppy'
     name 'Poppy'
     homepage 'http://www.dafont.com/poppy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Poppy.ttf'
     font 'Poppydot.ttf'

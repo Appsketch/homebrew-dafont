@@ -5,7 +5,6 @@ cask 'dafont-smoothtasticness' do
     url 'http://dl.dafont.com/dl/?f=smoothtasticness'
     name 'Smoothtasticness'
     homepage 'http://www.dafont.com/smoothtasticness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Smoothtasticness.ttf'
 end

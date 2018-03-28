@@ -5,7 +5,6 @@ cask 'dafont-catharsis-cargo' do
     url 'http://dl.dafont.com/dl/?f=catharsis_cargo'
     name 'Catharsis Cargo'
     homepage 'http://www.dafont.com/catharsis-cargo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CAC_____.TTF'
 end

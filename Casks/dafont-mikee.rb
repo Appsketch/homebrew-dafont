@@ -5,7 +5,6 @@ cask 'dafont-mikee' do
     url 'http://dl.dafont.com/dl/?f=mikee'
     name 'Mikee'
     homepage 'http://www.dafont.com/mikee.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mikee.otf'
 end

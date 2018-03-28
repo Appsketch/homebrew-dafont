@@ -5,7 +5,6 @@ cask 'dafont-westcoast' do
     url 'http://dl.dafont.com/dl/?f=_westcoast'
     name 'West Coast'
     homepage 'http://www.dafont.com/-westcoast.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '_WestCoast_.ttf'
 end

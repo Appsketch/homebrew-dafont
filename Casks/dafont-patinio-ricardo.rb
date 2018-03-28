@@ -5,7 +5,6 @@ cask 'dafont-patinio-ricardo' do
     url 'http://dl.dafont.com/dl/?f=patinio_ricardo'
     name 'Patinio Ricardo'
     homepage 'http://www.dafont.com/patinio-ricardo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Patinio Ricardo Sample.ttf'
 end

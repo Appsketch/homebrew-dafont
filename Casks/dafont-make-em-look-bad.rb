@@ -5,7 +5,6 @@ cask 'dafont-make-em-look-bad' do
     url 'http://dl.dafont.com/dl/?f=make_em_look_bad'
     name 'Make Em Look Bad'
     homepage 'http://www.dafont.com/make-em-look-bad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Make Em Look Bad.ttf'
 end

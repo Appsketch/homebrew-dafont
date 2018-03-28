@@ -5,7 +5,6 @@ cask 'dafont-shellhead' do
     url 'http://dl.dafont.com/dl/?f=shellhead'
     name 'Shellhead'
     homepage 'http://www.dafont.com/shellhead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shellhead bold itallic.ttf'
     font 'shellhead bold.ttf'

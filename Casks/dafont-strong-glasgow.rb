@@ -5,7 +5,6 @@ cask 'dafont-strong-glasgow' do
     url 'http://dl.dafont.com/dl/?f=strong_glasgow'
     name 'Strong Glasgow'
     homepage 'http://www.dafont.com/strong-glasgow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'StrongGlasgow.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-modern-cybertronic' do
     url 'http://dl.dafont.com/dl/?f=modern_cybertronic'
     name 'Modern Cybertronic'
     homepage 'http://www.dafont.com/modern-cybertronic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Modern Cybertronic Italic.otf'
     font 'Modern Cybertronic.otf'

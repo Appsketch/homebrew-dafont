@@ -5,7 +5,6 @@ cask 'dafont-you-are-loved' do
     url 'http://dl.dafont.com/dl/?f=you_are_loved'
     name 'You Are Loved'
     homepage 'http://www.dafont.com/you-are-loved.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'You Are Loved.ttf'
 end

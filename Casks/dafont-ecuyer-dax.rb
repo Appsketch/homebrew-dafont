@@ -5,7 +5,6 @@ cask 'dafont-ecuyer-dax' do
     url 'http://dl.dafont.com/dl/?f=ecuyer_dax'
     name 'Ecuyer DAX'
     homepage 'http://www.dafont.com/ecuyer-dax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EcuyerR.TTF'
 end

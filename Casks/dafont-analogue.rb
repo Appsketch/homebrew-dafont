@@ -5,7 +5,6 @@ cask 'dafont-analogue' do
     url 'http://dl.dafont.com/dl/?f=analogue'
     name 'Analogue'
     homepage 'http://www.dafont.com/analogue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Analogue35Thin.otf'
     font 'Analogue36ThinOblique.otf'

@@ -5,7 +5,6 @@ cask 'dafont-izzihand' do
     url 'http://dl.dafont.com/dl/?f=izzihand'
     name 'Izzi Hand'
     homepage 'http://www.dafont.com/izzihand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IzziHand.ttf'
 end

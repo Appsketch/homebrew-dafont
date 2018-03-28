@@ -5,7 +5,6 @@ cask 'dafont-unfinished-sympahth' do
     url 'http://dl.dafont.com/dl/?f=unfinished_sympahth'
     name 'Unfinished Sympahthy'
     homepage 'http://www.dafont.com/unfinished-sympahth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'UNFINISHEDSYMPATHY.ttf'
     font 'UNFINISHEDSYMPATHY2.ttf'

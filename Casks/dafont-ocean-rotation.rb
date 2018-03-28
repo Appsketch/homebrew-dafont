@@ -5,7 +5,6 @@ cask 'dafont-ocean-rotation' do
     url 'http://dl.dafont.com/dl/?f=ocean_rotation'
     name 'Ocean Rotation'
     homepage 'http://www.dafont.com/ocean-rotation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ocean Rotation.otf'
 end

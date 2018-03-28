@@ -5,7 +5,6 @@ cask 'dafont-maritime-sans' do
     url 'http://dl.dafont.com/dl/?f=maritime_sans'
     name 'Maritime Sans'
     homepage 'http://www.dafont.com/maritime-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Maritime_Sans_bold.ttf'
     font 'Maritime_Sans_extrabold.ttf'

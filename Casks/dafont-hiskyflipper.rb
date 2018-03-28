@@ -5,7 +5,6 @@ cask 'dafont-hiskyflipper' do
     url 'http://dl.dafont.com/dl/?f=hiskyflipper'
     name 'Hiskyflipper'
     homepage 'http://www.dafont.com/hiskyflipper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HISKYF16.ttf'
     font 'HISKYF21.ttf'

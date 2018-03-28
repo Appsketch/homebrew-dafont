@@ -5,7 +5,6 @@ cask 'dafont-sf-obliquities' do
     url 'http://dl.dafont.com/dl/?f=sf_obliquities'
     name 'SF Obliquities'
     homepage 'http://www.dafont.com/sf-obliquities.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Obliquities Bold.ttf'
     font 'SF Obliquities Extended Bold.ttf'

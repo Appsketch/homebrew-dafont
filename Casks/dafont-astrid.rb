@@ -5,7 +5,6 @@ cask 'dafont-astrid' do
     url 'http://dl.dafont.com/dl/?f=astrid'
     name 'Astrid'
     homepage 'http://www.dafont.com/astrid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Astrid.ttf'
 end

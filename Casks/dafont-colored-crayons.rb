@@ -5,7 +5,6 @@ cask 'dafont-colored-crayons' do
     url 'http://dl.dafont.com/dl/?f=colored_crayons'
     name 'Colored Crayons'
     homepage 'http://www.dafont.com/colored-crayons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Colored Crayons.ttf'
 end

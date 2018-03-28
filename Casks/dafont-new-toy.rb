@@ -5,7 +5,6 @@ cask 'dafont-new-toy' do
     url 'http://dl.dafont.com/dl/?f=new_toy'
     name 'New Toy'
     homepage 'http://www.dafont.com/new-toy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NEWTOY__.TTF'
 end

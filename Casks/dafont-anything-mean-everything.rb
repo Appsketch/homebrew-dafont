@@ -5,7 +5,6 @@ cask 'dafont-anything-mean-everything' do
     url 'http://dl.dafont.com/dl/?f=anything_mean_everything'
     name 'Anything Mean Everything'
     homepage 'http://www.dafont.com/anything-mean-everything.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anything Mean Everything.ttf'
 end

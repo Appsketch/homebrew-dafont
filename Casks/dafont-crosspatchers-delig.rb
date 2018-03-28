@@ -5,7 +5,6 @@ cask 'dafont-crosspatchers-delig' do
     url 'http://dl.dafont.com/dl/?f=crosspatchers_delig'
     name 'Crosspatchers Delight'
     homepage 'http://www.dafont.com/crosspatchers-delig.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CROSSPATCHERSDELIGHT.TTF'
     font 'CROSSPATCHERSDELIGHTNORMAL.ttf'

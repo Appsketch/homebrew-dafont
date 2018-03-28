@@ -5,7 +5,6 @@ cask 'dafont-mtf-whacko' do
     url 'http://dl.dafont.com/dl/?f=mtf_whacko'
     name 'MTF Whacko'
     homepage 'http://www.dafont.com/mtf-whacko.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Whacko.ttf'
 end

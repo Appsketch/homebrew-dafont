@@ -5,7 +5,6 @@ cask 'dafont-goldendabs' do
     url 'http://dl.dafont.com/dl/?f=goldendabs'
     name 'Golden Dabs'
     homepage 'http://www.dafont.com/goldendabs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GoldenDabs.ttf'
 end

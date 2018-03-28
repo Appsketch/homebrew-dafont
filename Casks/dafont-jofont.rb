@@ -5,7 +5,6 @@ cask 'dafont-jofont' do
     url 'http://dl.dafont.com/dl/?f=jofont'
     name 'JOfont'
     homepage 'http://www.dafont.com/jofont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JOfont.ttf'
 end

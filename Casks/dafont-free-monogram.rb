@@ -5,7 +5,6 @@ cask 'dafont-free-monogram' do
     url 'http://dl.dafont.com/dl/?f=free_monogram'
     name 'Free Monogram'
     homepage 'http://www.dafont.com/free-monogram.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreeMonogram_Beta_0.5.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-creamy-butter' do
     url 'http://dl.dafont.com/dl/?f=creamy_butter'
     name 'Creamy Butter'
     homepage 'http://www.dafont.com/creamy-butter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'creamy butter.ttf'
 end

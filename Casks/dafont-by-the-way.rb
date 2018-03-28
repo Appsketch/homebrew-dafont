@@ -5,7 +5,6 @@ cask 'dafont-by-the-way' do
     url 'http://dl.dafont.com/dl/?f=by_the_way'
     name 'By the way'
     homepage 'http://www.dafont.com/by-the-way.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'By the way.ttf'
 end

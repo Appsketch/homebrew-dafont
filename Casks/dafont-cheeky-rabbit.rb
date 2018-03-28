@@ -5,7 +5,6 @@ cask 'dafont-cheeky-rabbit' do
     url 'http://dl.dafont.com/dl/?f=cheeky_rabbit'
     name 'Cheeky Rabbit'
     homepage 'http://www.dafont.com/cheeky-rabbit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cheeky Rabbit.ttf'
 end

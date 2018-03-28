@@ -5,7 +5,6 @@ cask 'dafont-greenstone' do
     url 'http://dl.dafont.com/dl/?f=greenstone'
     name 'Greenstone'
     homepage 'http://www.dafont.com/greenstone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Greenstone.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-season-of-the-witch-black' do
     url 'http://dl.dafont.com/dl/?f=season_of_the_witch_black'
     name 'Season of the Witch Black'
     homepage 'http://www.dafont.com/season-of-the-witch-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Season of the Witch Black.ttf'
 end

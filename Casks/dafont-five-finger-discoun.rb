@@ -5,7 +5,6 @@ cask 'dafont-five-finger-discoun' do
     url 'http://dl.dafont.com/dl/?f=five_finger_discoun'
     name 'Five Finger Discount'
     homepage 'http://www.dafont.com/five-finger-discoun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fivefd__.ttf'
 end

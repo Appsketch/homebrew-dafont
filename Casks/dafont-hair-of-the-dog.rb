@@ -5,7 +5,6 @@ cask 'dafont-hair-of-the-dog' do
     url 'http://dl.dafont.com/dl/?f=hair_of_the_dog'
     name 'Hair of the Dog'
     homepage 'http://www.dafont.com/hair-of-the-dog.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HAIROFTH.TTF'
 end

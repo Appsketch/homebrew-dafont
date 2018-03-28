@@ -5,7 +5,6 @@ cask 'dafont-leftist-mono-serif' do
     url 'http://dl.dafont.com/dl/?f=leftist_mono_serif'
     name 'Leftist Mono Serif'
     homepage 'http://www.dafont.com/leftist-mono-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LeftistMonoSerif.ttf'
 end

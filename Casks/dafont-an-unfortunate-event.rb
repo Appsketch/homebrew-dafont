@@ -5,7 +5,6 @@ cask 'dafont-an-unfortunate-event' do
     url 'http://dl.dafont.com/dl/?f=an_unfortunate_event'
     name 'An Unfortunate Event'
     homepage 'http://www.dafont.com/an-unfortunate-event.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANUNE___.TTF'
     font 'ANUNEDW_.TTF'

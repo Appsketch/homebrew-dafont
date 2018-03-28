@@ -5,7 +5,6 @@ cask 'dafont-sigismundo-di-fanti' do
     url 'http://dl.dafont.com/dl/?f=sigismundo_di_fanti'
     name 'Sigismundo Di Fanti'
     homepage 'http://www.dafont.com/sigismundo-di-fanti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SigismundoDiFanti.ttf'
 end

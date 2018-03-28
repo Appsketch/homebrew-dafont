@@ -5,7 +5,6 @@ cask 'dafont-clowners' do
     url 'http://dl.dafont.com/dl/?f=clowners'
     name 'Clowners'
     homepage 'http://www.dafont.com/clowners.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CLOWNERS.TTF'
 end

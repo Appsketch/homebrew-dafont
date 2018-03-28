@@ -5,7 +5,6 @@ cask 'dafont-electrica-salsa' do
     url 'http://dl.dafont.com/dl/?f=electrica_salsa'
     name 'Electrica Salsa'
     homepage 'http://www.dafont.com/electrica-salsa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Electrica Salsa.ttf'
 end

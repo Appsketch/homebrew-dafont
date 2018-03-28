@@ -5,7 +5,6 @@ cask 'dafont-christelline-black' do
     url 'http://dl.dafont.com/dl/?f=christelline_black'
     name 'Christel Line Black'
     homepage 'http://www.dafont.com/christelline-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CLBTRIAL.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-bad-behaviour' do
     url 'http://dl.dafont.com/dl/?f=bad_behaviour'
     name 'Bad Behaviour'
     homepage 'http://www.dafont.com/bad-behaviour.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bad_Behaviour.ttf'
 end

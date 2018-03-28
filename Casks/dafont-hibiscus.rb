@@ -5,7 +5,6 @@ cask 'dafont-hibiscus' do
     url 'http://dl.dafont.com/dl/?f=hibiscus'
     name 'Hibiscus'
     homepage 'http://www.dafont.com/hibiscus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hibiscus.ttf'
 end

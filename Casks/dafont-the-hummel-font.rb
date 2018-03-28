@@ -5,7 +5,6 @@ cask 'dafont-the-hummel-font' do
     url 'http://dl.dafont.com/dl/?f=the_hummel_font'
     name 'The Hummel Font'
     homepage 'http://www.dafont.com/the-hummel-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The-Hummel-Font.ttf'
 end

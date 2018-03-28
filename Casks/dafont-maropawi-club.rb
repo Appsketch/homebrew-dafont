@@ -5,7 +5,6 @@ cask 'dafont-maropawi-club' do
     url 'http://dl.dafont.com/dl/?f=maropawi_club'
     name 'Maropawi Club'
     homepage 'http://www.dafont.com/maropawi-club.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAROC___.TTF'
 end

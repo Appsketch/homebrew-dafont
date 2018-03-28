@@ -5,7 +5,6 @@ cask 'dafont-powerplay' do
     url 'http://dl.dafont.com/dl/?f=powerplay'
     name 'Power Play'
     homepage 'http://www.dafont.com/powerplay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PowerPlay.ttf'
 end

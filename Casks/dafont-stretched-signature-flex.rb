@@ -5,7 +5,6 @@ cask 'dafont-stretched-signature-flex' do
     url 'http://dl.dafont.com/dl/?f=stretched_signature_flex'
     name 'Stretched Signature Flex'
     homepage 'http://www.dafont.com/stretched-signature-flex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stretched Signature Best.ttf'
     font 'Stretched Signature Ext Bold.ttf'

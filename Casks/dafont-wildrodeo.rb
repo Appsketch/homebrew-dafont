@@ -5,7 +5,6 @@ cask 'dafont-wildrodeo' do
     url 'http://dl.dafont.com/dl/?f=wildrodeo'
     name 'IFC Wild Rodeo'
     homepage 'http://www.dafont.com/wildrodeo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IFC WILDRODEO Bold 2.ttf'
 end

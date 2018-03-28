@@ -5,7 +5,6 @@ cask 'dafont-super-skinny-pixel-bricks' do
     url 'http://dl.dafont.com/dl/?f=super_skinny_pixel_bricks'
     name 'Super Skinny Pixel Bricks'
     homepage 'http://www.dafont.com/super-skinny-pixel-bricks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Super Skinny Pixel Bricks.otf'
 end

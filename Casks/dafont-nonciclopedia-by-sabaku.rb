@@ -5,7 +5,6 @@ cask 'dafont-nonciclopedia-by-sabaku' do
     url 'http://dl.dafont.com/dl/?f=nonciclopedia_by_sabaku'
     name 'Nonciclopedia'
     homepage 'http://www.dafont.com/nonciclopedia-by-sabaku.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nonciclopedia_By_Sabaku_grande.ttf'
     font 'Nonciclopedia_By_Sabaku_piccolo.ttf'

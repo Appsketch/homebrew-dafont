@@ -5,7 +5,6 @@ cask 'dafont-kr-heartily' do
     url 'http://dl.dafont.com/dl/?f=kr_heartily'
     name 'KR Heartily'
     homepage 'http://www.dafont.com/kr-heartily.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KR Heartily.ttf'
 end

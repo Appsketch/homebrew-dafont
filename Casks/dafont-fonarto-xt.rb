@@ -5,7 +5,6 @@ cask 'dafont-fonarto-xt' do
     url 'http://dl.dafont.com/dl/?f=fonarto_xt'
     name 'Fonarto XT'
     homepage 'http://www.dafont.com/fonarto-xt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fonarto XT.otf'
 end

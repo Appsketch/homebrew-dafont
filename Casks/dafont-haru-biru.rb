@@ -5,7 +5,6 @@ cask 'dafont-haru-biru' do
     url 'http://dl.dafont.com/dl/?f=haru_biru'
     name 'Haru Biru'
     homepage 'http://www.dafont.com/haru-biru.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'haru biru.ttf'
 end

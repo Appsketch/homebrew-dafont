@@ -5,7 +5,6 @@ cask 'dafont-helveti' do
     url 'http://dl.dafont.com/dl/?f=helveti'
     name 'Helveti'
     homepage 'http://www.dafont.com/helveti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'helveti.ttf'
 end

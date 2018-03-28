@@ -5,7 +5,6 @@ cask 'dafont-jagger' do
     url 'http://dl.dafont.com/dl/?f=jagger'
     name 'Jagger'
     homepage 'http://www.dafont.com/jagger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jagger.ttf'
 end

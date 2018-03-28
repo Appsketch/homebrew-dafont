@@ -5,7 +5,6 @@ cask 'dafont-fava' do
     url 'http://dl.dafont.com/dl/?f=fava'
     name 'Fava Black'
     homepage 'http://www.dafont.com/fava.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fava-black.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-nightout' do
     url 'http://dl.dafont.com/dl/?f=nightout'
     name 'Night Out'
     homepage 'http://www.dafont.com/nightout.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NightOut Bold.ttf'
     font 'NightOut Regular.ttf'

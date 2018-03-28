@@ -5,7 +5,6 @@ cask 'dafont-sbhalloding' do
     url 'http://dl.dafont.com/dl/?f=sbhalloding'
     name 'SBHalloding'
     homepage 'http://www.dafont.com/sbhalloding.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SBHADING.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mono' do
     url 'http://dl.dafont.com/dl/?f=mono'
     name 'Mono'
     homepage 'http://www.dafont.com/mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MONO.TTF'
 end

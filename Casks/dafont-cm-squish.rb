@@ -5,7 +5,6 @@ cask 'dafont-cm-squish' do
     url 'http://dl.dafont.com/dl/?f=cm_squish'
     name 'CM Squish'
     homepage 'http://www.dafont.com/cm-squish.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CMSquish.ttf'
 end

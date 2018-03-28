@@ -5,7 +5,6 @@ cask 'dafont-particlephysics' do
     url 'http://dl.dafont.com/dl/?f=particlephysics'
     name 'Particle Physics'
     homepage 'http://www.dafont.com/particlephysics.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ParticlePhysics.ttf'
 end

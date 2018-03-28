@@ -5,7 +5,6 @@ cask 'dafont-scorched-earth' do
     url 'http://dl.dafont.com/dl/?f=scorched_earth'
     name 'Scorched Earth'
     homepage 'http://www.dafont.com/scorched-earth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ScorchedEarthDEMO-KCFonts.otf'
 end

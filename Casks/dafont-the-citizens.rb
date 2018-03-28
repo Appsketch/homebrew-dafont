@@ -5,7 +5,6 @@ cask 'dafont-the-citizens' do
     url 'http://dl.dafont.com/dl/?f=the_citizens'
     name 'The Citizens'
     homepage 'http://www.dafont.com/the-citizens.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the Citizens.ttf'
 end

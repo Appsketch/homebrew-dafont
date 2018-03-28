@@ -5,7 +5,6 @@ cask 'dafont-super-raw' do
     url 'http://dl.dafont.com/dl/?f=super_raw'
     name 'Super Raw'
     homepage 'http://www.dafont.com/super-raw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuperRaw-Regular.ttf'
 end

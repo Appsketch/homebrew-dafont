@@ -5,7 +5,6 @@ cask 'dafont-bionic-heart' do
     url 'http://dl.dafont.com/dl/?f=bionic_heart'
     name 'Bionic Heart'
     homepage 'http://www.dafont.com/bionic-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bionic Heart.ttf'
 end

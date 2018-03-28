@@ -5,7 +5,6 @@ cask 'dafont-boldface-stencil' do
     url 'http://dl.dafont.com/dl/?f=boldface_stencil'
     name 'BoldFace Stencil'
     homepage 'http://www.dafont.com/boldface-stencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'boldfacestencil.ttf'
 end

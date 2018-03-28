@@ -5,7 +5,6 @@ cask 'dafont-india-hair-style' do
     url 'http://dl.dafont.com/dl/?f=india_hair_style'
     name 'India hair style'
     homepage 'http://www.dafont.com/india-hair-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'india hair style.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dreaming-of-lilian' do
     url 'http://dl.dafont.com/dl/?f=dreaming_of_lilian'
     name 'Dreaming of Lilian'
     homepage 'http://www.dafont.com/dreaming-of-lilian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dreaming of Lilian.ttf'
 end

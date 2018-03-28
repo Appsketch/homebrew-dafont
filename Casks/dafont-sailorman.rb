@@ -5,7 +5,6 @@ cask 'dafont-sailorman' do
     url 'http://dl.dafont.com/dl/?f=sailorman'
     name 'Sailorman'
     homepage 'http://www.dafont.com/sailorman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SAILORMAN.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-femme-fatal' do
     url 'http://dl.dafont.com/dl/?f=femme_fatal'
     name 'Femme Fatal'
     homepage 'http://www.dafont.com/femme-fatal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Femme_Fatal.ttf'
 end

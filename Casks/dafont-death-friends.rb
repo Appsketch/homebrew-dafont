@@ -5,7 +5,6 @@ cask 'dafont-death-friends' do
     url 'http://dl.dafont.com/dl/?f=death_friends'
     name 'Death Friends'
     homepage 'http://www.dafont.com/death-friends.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'friends good.ttf'
 end

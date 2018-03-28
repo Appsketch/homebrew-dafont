@@ -5,7 +5,6 @@ cask 'dafont-wind-of-change' do
     url 'http://dl.dafont.com/dl/?f=wind_of_change'
     name 'Wind of Change'
     homepage 'http://www.dafont.com/wind-of-change.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WindofChange.ttf'
 end

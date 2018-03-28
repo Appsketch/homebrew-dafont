@@ -5,7 +5,6 @@ cask 'dafont-gunplay' do
     url 'http://dl.dafont.com/dl/?f=gunplay'
     name 'Gunplay'
     homepage 'http://www.dafont.com/gunplay.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gunplay 3d.ttf'
     font 'gunplay rg.ttf'

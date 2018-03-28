@@ -5,7 +5,6 @@ cask 'dafont-niobium' do
     url 'http://dl.dafont.com/dl/?f=niobium'
     name 'Niobium'
     homepage 'http://www.dafont.com/niobium.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NIOBBL__.TTF'
     font 'NIOBRG__.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-eight-track' do
     url 'http://dl.dafont.com/dl/?f=eight_track'
     name 'Eight Track'
     homepage 'http://www.dafont.com/eight-track.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EIGH1___.TTF'
     font 'EIGH3___.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-fanande' do
     url 'http://dl.dafont.com/dl/?f=fanande'
     name 'Fanande'
     homepage 'http://www.dafont.com/fanande.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fanande.ttf'
 end

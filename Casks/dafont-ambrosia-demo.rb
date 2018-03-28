@@ -5,7 +5,6 @@ cask 'dafont-ambrosia-demo' do
     url 'http://dl.dafont.com/dl/?f=ambrosia_demo'
     name 'Ambrosia'
     homepage 'http://www.dafont.com/ambrosia-demo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AMBROSIA_DEMO.ttf'
 end

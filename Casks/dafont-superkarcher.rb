@@ -5,7 +5,6 @@ cask 'dafont-superkarcher' do
     url 'http://dl.dafont.com/dl/?f=superkarcher'
     name 'Superkarcher'
     homepage 'http://www.dafont.com/superkarcher.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SUPERKAR.TTF'
 end

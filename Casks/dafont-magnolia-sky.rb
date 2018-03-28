@@ -5,7 +5,6 @@ cask 'dafont-magnolia-sky' do
     url 'http://dl.dafont.com/dl/?f=magnolia_sky'
     name 'Magnolia Sky'
     homepage 'http://www.dafont.com/magnolia-sky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'magnolia_sky.ttf'
 end

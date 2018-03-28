@@ -5,7 +5,6 @@ cask 'dafont-wolf-in-the-city' do
     url 'http://dl.dafont.com/dl/?f=wolf_in_the_city'
     name 'Wolf in the City'
     homepage 'http://www.dafont.com/wolf-in-the-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wolf in the City Light.ttf'
     font 'Wolf in the City.ttf'

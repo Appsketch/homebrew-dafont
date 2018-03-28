@@ -5,7 +5,6 @@ cask 'dafont-little-rainy-day' do
     url 'http://dl.dafont.com/dl/?f=little_rainy_day'
     name 'Little Rainy Day'
     homepage 'http://www.dafont.com/little-rainy-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Little Rainy Day.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kringley-christmas' do
     url 'http://dl.dafont.com/dl/?f=kringley_christmas'
     name 'Kringley Christmas'
     homepage 'http://www.dafont.com/kringley-christmas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kringley Christmas.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-hauracherell-nc' do
     url 'http://dl.dafont.com/dl/?f=hauracherell_nc'
     name 'Hauracherell NC'
     homepage 'http://www.dafont.com/hauracherell-nc.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hauracherell NC.ttf'
 end

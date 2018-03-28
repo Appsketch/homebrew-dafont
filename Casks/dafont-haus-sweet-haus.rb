@@ -5,7 +5,6 @@ cask 'dafont-haus-sweet-haus' do
     url 'http://dl.dafont.com/dl/?f=haus_sweet_haus'
     name 'Haus Sweet Haus'
     homepage 'http://www.dafont.com/haus-sweet-haus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Haus Sweet  Haus Rounded.ttf'
     font 'Haus Sweet  Haus.ttf'

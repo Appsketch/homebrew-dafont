@@ -5,7 +5,6 @@ cask 'dafont-mousedrawn' do
     url 'http://dl.dafont.com/dl/?f=mousedrawn'
     name 'Mousedrawn'
     homepage 'http://www.dafont.com/mousedrawn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mousedrawn.otf'
 end

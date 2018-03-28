@@ -5,7 +5,6 @@ cask 'dafont-quasari' do
     url 'http://dl.dafont.com/dl/?f=quasari'
     name 'Quasari'
     homepage 'http://www.dafont.com/quasari.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Quasari.ttf'
 end

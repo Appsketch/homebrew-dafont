@@ -5,7 +5,6 @@ cask 'dafont-tengwar-noldor' do
     url 'http://dl.dafont.com/dl/?f=tengwar_noldor'
     name 'Tengwar Noldor'
     homepage 'http://www.dafont.com/tengwar-noldor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOLDCAP1.TTF'
     font 'NOLDCAP2.TTF'

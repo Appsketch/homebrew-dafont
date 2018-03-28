@@ -5,7 +5,6 @@ cask 'dafont-llfutur' do
     url 'http://dl.dafont.com/dl/?f=llfutur'
     name 'LL Futur'
     homepage 'http://www.dafont.com/llfutur.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LLFUTUR_.ttf'
 end

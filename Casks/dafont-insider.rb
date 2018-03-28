@@ -5,7 +5,6 @@ cask 'dafont-insider' do
     url 'http://dl.dafont.com/dl/?f=insider'
     name 'Insider'
     homepage 'http://www.dafont.com/insider.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'insider.ttf'
 end

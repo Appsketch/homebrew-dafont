@@ -5,7 +5,6 @@ cask 'dafont-pw-thai-monospaced-' do
     url 'http://dl.dafont.com/dl/?f=pw_thai_monospaced_'
     name 'PW Thai Monospaced EG'
     homepage 'http://www.dafont.com/pw-thai-monospaced-.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWTHMSEG.TTF'
 end

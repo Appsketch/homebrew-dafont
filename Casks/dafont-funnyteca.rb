@@ -5,7 +5,6 @@ cask 'dafont-funnyteca' do
     url 'http://dl.dafont.com/dl/?f=funnyteca'
     name 'Funny Teca'
     homepage 'http://www.dafont.com/funnyteca.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FunnyTeca.ttf'
 end

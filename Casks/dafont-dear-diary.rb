@@ -5,7 +5,6 @@ cask 'dafont-dear-diary' do
     url 'http://dl.dafont.com/dl/?f=dear_diary'
     name 'Dear Diary'
     homepage 'http://www.dafont.com/dear-diary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dear Diary.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-movienite' do
     url 'http://dl.dafont.com/dl/?f=movienite'
     name 'Movie Nite'
     homepage 'http://www.dafont.com/movienite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MovieNite.ttf'
 end

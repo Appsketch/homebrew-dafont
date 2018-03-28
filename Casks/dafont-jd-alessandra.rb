@@ -5,7 +5,6 @@ cask 'dafont-jd-alessandra' do
     url 'http://dl.dafont.com/dl/?f=jd_alessandra'
     name 'JD Alessandra'
     homepage 'http://www.dafont.com/jd-alessandra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_alessandra.ttf'
 end

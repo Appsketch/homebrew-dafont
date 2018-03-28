@@ -5,7 +5,6 @@ cask 'dafont-table-in-a-bear-suit' do
     url 'http://dl.dafont.com/dl/?f=table_in_a_bear_suit'
     name 'Table in a Bear Suit'
     homepage 'http://www.dafont.com/table-in-a-bear-suit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Table in a Bear Suit.ttf'
 end

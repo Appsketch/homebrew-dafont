@@ -5,7 +5,6 @@ cask 'dafont-napoleon' do
     url 'http://dl.dafont.com/dl/?f=napoleon'
     name 'Napoleon'
     homepage 'http://www.dafont.com/napoleon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Napoleon-Bold.ttf'
     font 'Napoleon-Light.ttf'

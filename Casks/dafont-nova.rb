@@ -5,7 +5,6 @@ cask 'dafont-nova' do
     url 'http://dl.dafont.com/dl/?f=nova'
     name 'Nova'
     homepage 'http://www.dafont.com/nova.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nova-1.ttf'
 end

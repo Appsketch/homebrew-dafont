@@ -5,7 +5,6 @@ cask 'dafont-antfarm' do
     url 'http://dl.dafont.com/dl/?f=antfarm'
     name 'Antfarm'
     homepage 'http://www.dafont.com/antfarm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ANTFGC__.TTF'
 end

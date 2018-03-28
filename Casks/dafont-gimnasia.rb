@@ -5,7 +5,6 @@ cask 'dafont-gimnasia' do
     url 'http://dl.dafont.com/dl/?f=gimnasia'
     name 'Gimnasia'
     homepage 'http://www.dafont.com/gimnasia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GIMNASIA.TTF'
 end

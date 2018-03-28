@@ -5,7 +5,6 @@ cask 'dafont-batman-evolution-logo-font' do
     url 'http://dl.dafont.com/dl/?f=batman_evolution_logo_font'
     name 'Batman Evolution Logo'
     homepage 'http://www.dafont.com/batman-evolution-logo-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Batman Evolution Logo Font G.ttf'
 end

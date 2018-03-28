@@ -5,7 +5,6 @@ cask 'dafont-cybernet' do
     url 'http://dl.dafont.com/dl/?f=cybernet'
     name 'Cybernet'
     homepage 'http://www.dafont.com/cybernet.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cybernet.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-blockem-sockem' do
     url 'http://dl.dafont.com/dl/?f=blockem_sockem'
     name 'Blockem Sockem'
     homepage 'http://www.dafont.com/blockem-sockem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'blockem_sockem-itl.otf'
     font 'blockem_sockem.otf'

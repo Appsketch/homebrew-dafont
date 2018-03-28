@@ -5,7 +5,6 @@ cask 'dafont-calikats-path-draws-lt' do
     url 'http://dl.dafont.com/dl/?f=calikats_path_draws_lt'
     name 'CaliKat&#039;s Path Draws LT'
     homepage 'http://www.dafont.com/calikats-path-draws-lt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CaliKatsPathDrawsLT.ttf'
 end

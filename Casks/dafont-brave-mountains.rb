@@ -5,7 +5,6 @@ cask 'dafont-brave-mountains' do
     url 'http://dl.dafont.com/dl/?f=brave_mountains'
     name 'Brave Mountains'
     homepage 'http://www.dafont.com/brave-mountains.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bravemountains.otf'
     font 'bravemountains.ttf'

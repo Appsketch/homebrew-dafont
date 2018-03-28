@@ -5,7 +5,6 @@ cask 'dafont-salpicado-st' do
     url 'http://dl.dafont.com/dl/?f=salpicado_st'
     name 'Salpicado ST'
     homepage 'http://www.dafont.com/salpicado-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Salpicado St.ttf'
 end

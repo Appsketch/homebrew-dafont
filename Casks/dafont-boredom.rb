@@ -5,7 +5,6 @@ cask 'dafont-boredom' do
     url 'http://dl.dafont.com/dl/?f=boredom'
     name 'Boredom'
     homepage 'http://www.dafont.com/boredom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Boredom.ttf'
 end

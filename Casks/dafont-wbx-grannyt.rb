@@ -5,7 +5,6 @@ cask 'dafont-wbx-grannyt' do
     url 'http://dl.dafont.com/dl/?f=wbx_grannyt'
     name 'WBX Granny T'
     homepage 'http://www.dafont.com/wbx-grannyt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WBX_GT__.TTF'
     font 'WBX_GTB_.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-seedy-motel' do
     url 'http://dl.dafont.com/dl/?f=seedy_motel'
     name 'Seedy Motel'
     homepage 'http://www.dafont.com/seedy-motel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Seedy Motel DEMO.otf'
 end

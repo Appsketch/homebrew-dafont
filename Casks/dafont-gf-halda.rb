@@ -5,7 +5,6 @@ cask 'dafont-gf-halda' do
     url 'http://dl.dafont.com/dl/?f=gf_halda'
     name 'GF Halda'
     homepage 'http://www.dafont.com/gf-halda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HALDANOR.TTF'
     font 'HALDASMA.TTF'

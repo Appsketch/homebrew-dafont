@@ -5,7 +5,6 @@ cask 'dafont-italo' do
     url 'http://dl.dafont.com/dl/?f=italo'
     name 'Italo'
     homepage 'http://www.dafont.com/italo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Italo_Light-Italic.ttf'
     font 'Italo_Light.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-spanish-army-shields-two' do
     url 'http://dl.dafont.com/dl/?f=spanish_army_shields_two'
     name 'Spanish Army Shields Two'
     homepage 'http://www.dafont.com/spanish-army-shields-two.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spanish Army Shields Two.otf'
 end

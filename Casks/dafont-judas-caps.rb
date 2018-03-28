@@ -5,7 +5,6 @@ cask 'dafont-judas-caps' do
     url 'http://dl.dafont.com/dl/?f=judas_caps'
     name 'Judas Caps'
     homepage 'http://www.dafont.com/judas-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'judasc__.ttf'
 end

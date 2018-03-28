@@ -5,7 +5,6 @@ cask 'dafont-hairs-dens-bag' do
     url 'http://dl.dafont.com/dl/?f=hairs_dens_bag'
     name 'Hairs Dens Bag'
     homepage 'http://www.dafont.com/hairs-dens-bag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hairs Dens Bag.ttf'
 end

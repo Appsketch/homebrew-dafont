@@ -5,7 +5,6 @@ cask 'dafont-sakura-irohanihoheto' do
     url 'http://dl.dafont.com/dl/?f=sakura_irohanihoheto'
     name 'Sakura Irohanihoheto'
     homepage 'http://www.dafont.com/sakura-irohanihoheto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sakura_Irohanihoheto.ttf'
 end

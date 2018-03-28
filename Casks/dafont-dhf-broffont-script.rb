@@ -5,7 +5,6 @@ cask 'dafont-dhf-broffont-script' do
     url 'http://dl.dafont.com/dl/?f=dhf_broffont_script'
     name 'DHF Broffont Script'
     homepage 'http://www.dafont.com/dhf-broffont-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DHF Broffont Script Italic.ttf'
     font 'DHF Broffont Script.ttf'

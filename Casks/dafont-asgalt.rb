@@ -5,7 +5,6 @@ cask 'dafont-asgalt' do
     url 'http://dl.dafont.com/dl/?f=asgalt'
     name 'Asgalt'
     homepage 'http://www.dafont.com/asgalt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Asgalt-Regular.ttf'
 end

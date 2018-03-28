@@ -5,7 +5,6 @@ cask 'dafont-darrians-sexy-silho' do
     url 'http://dl.dafont.com/dl/?f=darrians_sexy_silho'
     name 'Darrians Sexy Silhouettes'
     homepage 'http://www.dafont.com/darrians-sexy-silho.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Darrians Sexy Silhouettes 3.ttf'
     font 'Darrians Sexy Silhouettes 4.ttf'

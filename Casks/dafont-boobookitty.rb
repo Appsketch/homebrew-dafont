@@ -5,7 +5,6 @@ cask 'dafont-boobookitty' do
     url 'http://dl.dafont.com/dl/?f=boobookitty'
     name 'Boo Boo Kitty'
     homepage 'http://www.dafont.com/boobookitty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'booboo.ttf'
 end

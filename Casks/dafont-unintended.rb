@@ -5,7 +5,6 @@ cask 'dafont-unintended' do
     url 'http://dl.dafont.com/dl/?f=unintended'
     name 'Unintended'
     homepage 'http://www.dafont.com/unintended.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Unintended.ttf'
 end

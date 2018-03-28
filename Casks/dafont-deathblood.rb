@@ -5,7 +5,6 @@ cask 'dafont-deathblood' do
     url 'http://dl.dafont.com/dl/?f=deathblood'
     name 'Deathblood'
     homepage 'http://www.dafont.com/deathblood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deathblood.ttf'
     font 'deathblood3d.ttf'

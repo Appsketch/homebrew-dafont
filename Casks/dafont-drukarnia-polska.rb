@@ -5,7 +5,6 @@ cask 'dafont-drukarnia-polska' do
     url 'http://dl.dafont.com/dl/?f=drukarnia_polska'
     name 'Drukarnia Polska'
     homepage 'http://www.dafont.com/drukarnia-polska.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zai_DrukarniaPolska.ttf'
 end

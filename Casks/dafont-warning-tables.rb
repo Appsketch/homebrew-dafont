@@ -5,7 +5,6 @@ cask 'dafont-warning-tables' do
     url 'http://dl.dafont.com/dl/?f=warning_tables'
     name 'Warning Tables'
     homepage 'http://www.dafont.com/warning-tables.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tables.ttf'
 end

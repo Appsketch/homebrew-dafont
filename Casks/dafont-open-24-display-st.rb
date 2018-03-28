@@ -5,7 +5,6 @@ cask 'dafont-open-24-display-st' do
     url 'http://dl.dafont.com/dl/?f=open_24_display_st'
     name 'Open 24 Display ST'
     homepage 'http://www.dafont.com/open-24-display-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Open 24 Display St.ttf'
 end

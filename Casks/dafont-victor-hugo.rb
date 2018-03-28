@@ -5,7 +5,6 @@ cask 'dafont-victor-hugo' do
     url 'http://dl.dafont.com/dl/?f=victor_hugo'
     name 'Victor Hugo'
     homepage 'http://www.dafont.com/victor-hugo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VICTORHUGO-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-spearhead' do
     url 'http://dl.dafont.com/dl/?f=spearhead'
     name 'Spearhead'
     homepage 'http://www.dafont.com/spearhead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Spearhead.ttf'
 end

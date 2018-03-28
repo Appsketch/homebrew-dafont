@@ -5,7 +5,6 @@ cask 'dafont-rythm-n-blacks' do
     url 'http://dl.dafont.com/dl/?f=rythm_n_blacks'
     name 'Rythm N Blacks'
     homepage 'http://www.dafont.com/rythm-n-blacks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rythm N Blacks.ttf'
 end

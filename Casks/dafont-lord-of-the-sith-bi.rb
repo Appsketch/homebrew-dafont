@@ -5,7 +5,6 @@ cask 'dafont-lord-of-the-sith-bi' do
     url 'http://dl.dafont.com/dl/?f=lord_of_the_sith_bi'
     name 'Lord of the Sith Bitmap'
     homepage 'http://www.dafont.com/lord-of-the-sith-bi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LORDBIT2.FON'
 end

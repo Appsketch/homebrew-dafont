@@ -5,7 +5,6 @@ cask 'dafont-moria-citadel' do
     url 'http://dl.dafont.com/dl/?f=moria_citadel'
     name 'Moria Citadel'
     homepage 'http://www.dafont.com/moria-citadel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Moria_DF.TTF'
 end

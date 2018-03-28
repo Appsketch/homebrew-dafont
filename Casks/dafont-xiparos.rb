@@ -5,7 +5,6 @@ cask 'dafont-xiparos' do
     url 'http://dl.dafont.com/dl/?f=xiparos'
     name 'Xiparos'
     homepage 'http://www.dafont.com/xiparos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'XIPAROS.ttf'
 end

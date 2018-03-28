@@ -5,7 +5,6 @@ cask 'dafont-raydiate-brk' do
     url 'http://dl.dafont.com/dl/?f=raydiate_brk'
     name 'Raydiate BRK'
     homepage 'http://www.dafont.com/raydiate-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'raydiat2.ttf'
 end

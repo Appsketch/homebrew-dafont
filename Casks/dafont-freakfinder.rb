@@ -5,7 +5,6 @@ cask 'dafont-freakfinder' do
     url 'http://dl.dafont.com/dl/?f=freakfinder'
     name 'Freakfinder'
     homepage 'http://www.dafont.com/freakfinder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'freakfinder.ttf'
     font 'freakfinder3d.ttf'

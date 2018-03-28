@@ -5,7 +5,6 @@ cask 'dafont-vaquerojado' do
     url 'http://dl.dafont.com/dl/?f=vaquerojado'
     name 'Vaquerojado'
     homepage 'http://www.dafont.com/vaquerojado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VAQUEROJADO.ttf'
 end

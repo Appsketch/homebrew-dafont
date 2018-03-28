@@ -5,7 +5,6 @@ cask 'dafont-texture-road' do
     url 'http://dl.dafont.com/dl/?f=texture_road'
     name 'Texture Road'
     homepage 'http://www.dafont.com/texture-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Texture Road.ttf'
 end

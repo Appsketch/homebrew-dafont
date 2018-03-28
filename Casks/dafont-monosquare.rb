@@ -5,7 +5,6 @@ cask 'dafont-monosquare' do
     url 'http://dl.dafont.com/dl/?f=monosquare'
     name 'Monosquare'
     homepage 'http://www.dafont.com/monosquare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monosquare_extended.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-euphorigenic' do
     url 'http://dl.dafont.com/dl/?f=euphorigenic'
     name 'Euphorigenic'
     homepage 'http://www.dafont.com/euphorigenic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'euphorigenic.ttf'
 end

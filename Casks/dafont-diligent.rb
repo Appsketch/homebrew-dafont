@@ -5,7 +5,6 @@ cask 'dafont-diligent' do
     url 'http://dl.dafont.com/dl/?f=diligent'
     name 'Diligent'
     homepage 'http://www.dafont.com/diligent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diligent.ttf'
 end

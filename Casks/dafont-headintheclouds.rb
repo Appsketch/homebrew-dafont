@@ -5,7 +5,6 @@ cask 'dafont-headintheclouds' do
     url 'http://dl.dafont.com/dl/?f=headintheclouds'
     name 'Head in the Clouds'
     homepage 'http://www.dafont.com/headintheclouds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HeadintheClouds.ttf'
     font 'HeadintheCloudsBOLD.ttf'

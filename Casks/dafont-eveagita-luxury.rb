@@ -5,7 +5,6 @@ cask 'dafont-eveagita-luxury' do
     url 'http://dl.dafont.com/dl/?f=eveagita_luxury'
     name 'Eveagita Luxury'
     homepage 'http://www.dafont.com/eveagita-luxury.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eveagita Luxury Demo Version.ttf'
 end

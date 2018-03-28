@@ -5,7 +5,6 @@ cask 'dafont-stencil-camera' do
     url 'http://dl.dafont.com/dl/?f=stencil_camera'
     name 'Stencil Camera'
     homepage 'http://www.dafont.com/stencil-camera.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'STENCAM.TTF'
 end

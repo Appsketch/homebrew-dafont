@@ -5,7 +5,6 @@ cask 'dafont-alexindr' do
     url 'http://dl.dafont.com/dl/?f=alexindr'
     name 'Alex In DR'
     homepage 'http://www.dafont.com/alexindr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AlexInDR ExtremEdit Normal.ttf'
 end

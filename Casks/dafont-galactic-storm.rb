@@ -5,7 +5,6 @@ cask 'dafont-galactic-storm' do
     url 'http://dl.dafont.com/dl/?f=galactic_storm'
     name 'Galactic Storm'
     homepage 'http://www.dafont.com/galactic-storm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'galacticstorm.ttf'
     font 'galacticstorm3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-traditio-ah' do
     url 'http://dl.dafont.com/dl/?f=traditio_ah'
     name 'Traditio AH'
     homepage 'http://www.dafont.com/traditio-ah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'traditio.ttf'
 end

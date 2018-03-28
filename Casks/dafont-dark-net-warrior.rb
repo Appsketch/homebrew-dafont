@@ -5,7 +5,6 @@ cask 'dafont-dark-net-warrior' do
     url 'http://dl.dafont.com/dl/?f=dark_net_warrior'
     name 'Dark Net Warrior'
     homepage 'http://www.dafont.com/dark-net-warrior.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dark Net Warrior.ttf'
 end

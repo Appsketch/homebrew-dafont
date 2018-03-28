@@ -5,7 +5,6 @@ cask 'dafont-waiting-for-the-sunrise' do
     url 'http://dl.dafont.com/dl/?f=waiting_for_the_sunrise'
     name 'Waiting for the Sunrise'
     homepage 'http://www.dafont.com/waiting-for-the-sunrise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WaitingfortheSunrise.ttf'
 end

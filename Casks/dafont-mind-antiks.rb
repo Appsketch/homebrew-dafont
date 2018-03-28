@@ -5,7 +5,6 @@ cask 'dafont-mind-antiks' do
     url 'http://dl.dafont.com/dl/?f=mind_antiks'
     name 'Mind Antiks'
     homepage 'http://www.dafont.com/mind-antiks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MindAntiks.ttf'
 end

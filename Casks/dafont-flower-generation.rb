@@ -5,7 +5,6 @@ cask 'dafont-flower-generation' do
     url 'http://dl.dafont.com/dl/?f=flower_generation'
     name 'Flower Generation'
     homepage 'http://www.dafont.com/flower-generation.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'flower generation.ttf'
 end

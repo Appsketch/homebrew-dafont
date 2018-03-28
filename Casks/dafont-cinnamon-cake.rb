@@ -5,7 +5,6 @@ cask 'dafont-cinnamon-cake' do
     url 'http://dl.dafont.com/dl/?f=cinnamon_cake'
     name 'Cinnamon Cake'
     homepage 'http://www.dafont.com/cinnamon-cake.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cinnamon cake.ttf'
 end

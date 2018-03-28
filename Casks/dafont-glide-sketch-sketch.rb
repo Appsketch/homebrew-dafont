@@ -5,7 +5,6 @@ cask 'dafont-glide-sketch-sketch' do
     url 'http://dl.dafont.com/dl/?f=glide_sketch_sketch'
     name 'Glide Sketch Sketch'
     homepage 'http://www.dafont.com/glide-sketch-sketch.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'glide_sketch_sketch.otf'
 end

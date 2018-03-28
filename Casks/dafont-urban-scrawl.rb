@@ -5,7 +5,6 @@ cask 'dafont-urban-scrawl' do
     url 'http://dl.dafont.com/dl/?f=urban_scrawl'
     name 'Urban Scrawl'
     homepage 'http://www.dafont.com/urban-scrawl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Urb-b.ttf'
     font 'Urb-c.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-fiolex-mephisto-dingbats' do
     url 'http://dl.dafont.com/dl/?f=fiolex_mephisto_dingbats'
     name 'Fiolex Mephisto Dingbats'
     homepage 'http://www.dafont.com/fiolex-mephisto-dingbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fiolex_Mephisto_Dingbats.ttf'
 end

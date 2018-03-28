@@ -5,7 +5,6 @@ cask 'dafont-lilly' do
     url 'http://dl.dafont.com/dl/?f=lilly'
     name 'Lilly'
     homepage 'http://www.dafont.com/lilly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LillyBeta.ttf'
 end

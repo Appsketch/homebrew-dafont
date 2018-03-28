@@ -5,7 +5,6 @@ cask 'dafont-justinian' do
     url 'http://dl.dafont.com/dl/?f=justinian'
     name 'Justinian'
     homepage 'http://www.dafont.com/justinian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Justv2.ttf'
     font 'Justv22.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-lietz-block' do
     url 'http://dl.dafont.com/dl/?f=lietz_block'
     name 'Lietz Block'
     homepage 'http://www.dafont.com/lietz-block.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LietzBlockDemo.ttf'
 end

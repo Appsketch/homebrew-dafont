@@ -5,7 +5,6 @@ cask 'dafont-more-than-human' do
     url 'http://dl.dafont.com/dl/?f=more_than_human'
     name 'More than human'
     homepage 'http://www.dafont.com/more-than-human.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MORETHANHUMAN.TTF'
 end

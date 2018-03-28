@@ -5,7 +5,6 @@ cask 'dafont-italipixel' do
     url 'http://dl.dafont.com/dl/?f=italipixel'
     name 'Italipixel'
     homepage 'http://www.dafont.com/italipixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Italipixel.ttf'
 end

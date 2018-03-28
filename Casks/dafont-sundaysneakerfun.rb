@@ -5,7 +5,6 @@ cask 'dafont-sundaysneakerfun' do
     url 'http://dl.dafont.com/dl/?f=sundaysneakerfun'
     name 'Sunday Sneaker Fun'
     homepage 'http://www.dafont.com/sundaysneakerfun.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SundaySneakerFun.ttf'
 end

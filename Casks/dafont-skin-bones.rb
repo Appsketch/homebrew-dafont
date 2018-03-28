@@ -5,7 +5,6 @@ cask 'dafont-skin-bones' do
     url 'http://dl.dafont.com/dl/?f=skin_bones'
     name 'Skin &amp; Bones'
     homepage 'http://www.dafont.com/skin-bones.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Skin &amp; Bones.ttf'
 end

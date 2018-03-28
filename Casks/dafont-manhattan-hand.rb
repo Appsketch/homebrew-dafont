@@ -5,7 +5,6 @@ cask 'dafont-manhattan-hand' do
     url 'http://dl.dafont.com/dl/?f=manhattan_hand'
     name 'Manhattan Hand'
     homepage 'http://www.dafont.com/manhattan-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Manhattan Hand Bold All Caps.ttf'
     font 'Manhattan Hand Bold Italic.ttf'

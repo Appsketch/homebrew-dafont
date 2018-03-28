@@ -5,7 +5,6 @@ cask 'dafont-mylene-farmer' do
     url 'http://dl.dafont.com/dl/?f=mylene_farmer'
     name 'Myl&egrave;ne Farmer'
     homepage 'http://www.dafont.com/mylene-farmer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MF Anamorphose.ttf'
     font 'MF Innamoramento.ttf'

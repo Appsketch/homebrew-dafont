@@ -5,7 +5,6 @@ cask 'dafont-manzyu-g' do
     url 'http://dl.dafont.com/dl/?f=manzyu_g'
     name 'Manzyu G'
     homepage 'http://www.dafont.com/manzyu-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_manzyu.ttf'
 end

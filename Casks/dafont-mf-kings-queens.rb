@@ -5,7 +5,6 @@ cask 'dafont-mf-kings-queens' do
     url 'http://dl.dafont.com/dl/?f=mf_kings_queens'
     name 'Mf Kings &amp; Queens'
     homepage 'http://www.dafont.com/mf-kings-queens.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Kings &amp; Queens.ttf'
 end

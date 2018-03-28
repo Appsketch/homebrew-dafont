@@ -5,7 +5,6 @@ cask 'dafont-viper-squadron' do
     url 'http://dl.dafont.com/dl/?f=viper_squadron'
     name 'Viper Squadron'
     homepage 'http://www.dafont.com/viper-squadron.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VIPESI__.TTF'
     font 'VIPESRG_.TTF'

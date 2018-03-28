@@ -5,7 +5,6 @@ cask 'dafont-meghansfont2' do
     url 'http://dl.dafont.com/dl/?f=meghansfont2'
     name 'Meghans Font 2'
     homepage 'http://www.dafont.com/meghansfont2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MeghansFont2.ttf'
 end

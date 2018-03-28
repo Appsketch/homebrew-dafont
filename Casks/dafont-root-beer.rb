@@ -5,7 +5,6 @@ cask 'dafont-root-beer' do
     url 'http://dl.dafont.com/dl/?f=root_beer'
     name 'Root Beer'
     homepage 'http://www.dafont.com/root-beer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Root Beer.otf'
 end

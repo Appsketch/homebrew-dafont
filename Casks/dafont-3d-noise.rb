@@ -5,7 +5,6 @@ cask 'dafont-3d-noise' do
     url 'http://dl.dafont.com/dl/?f=3d_noise'
     name '3D Noise'
     homepage 'http://www.dafont.com/3d-noise.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '3D Noise.ttf'
 end

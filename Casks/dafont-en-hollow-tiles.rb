@@ -5,7 +5,6 @@ cask 'dafont-en-hollow-tiles' do
     url 'http://dl.dafont.com/dl/?f=en_hollow_tiles'
     name 'En Hollow Tiles'
     homepage 'http://www.dafont.com/en-hollow-tiles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'en_hollow_tiles.ttf'
 end

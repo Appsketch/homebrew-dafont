@@ -5,7 +5,6 @@ cask 'dafont-saddlebag' do
     url 'http://dl.dafont.com/dl/?f=saddlebag'
     name 'Saddlebag'
     homepage 'http://www.dafont.com/saddlebag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Saddlebag.ttf'
 end

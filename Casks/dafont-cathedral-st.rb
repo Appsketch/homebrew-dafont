@@ -5,7 +5,6 @@ cask 'dafont-cathedral-st' do
     url 'http://dl.dafont.com/dl/?f=cathedral_st'
     name 'Cathedral ST'
     homepage 'http://www.dafont.com/cathedral-st.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cathedral St.ttf'
 end

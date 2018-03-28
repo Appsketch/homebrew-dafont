@@ -5,7 +5,6 @@ cask 'dafont-typodika' do
     url 'http://dl.dafont.com/dl/?f=typodika'
     name 'Typodika'
     homepage 'http://www.dafont.com/typodika.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Typodika-Regular.otf'
 end

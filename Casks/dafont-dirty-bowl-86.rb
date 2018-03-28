@@ -5,7 +5,6 @@ cask 'dafont-dirty-bowl-86' do
     url 'http://dl.dafont.com/dl/?f=dirty_bowl_86'
     name 'Dirty Bowl 86'
     homepage 'http://www.dafont.com/dirty-bowl-86.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dirty Bowl 86.ttf'
 end

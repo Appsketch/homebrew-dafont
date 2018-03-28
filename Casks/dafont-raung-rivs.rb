@@ -5,7 +5,6 @@ cask 'dafont-raung-rivs' do
     url 'http://dl.dafont.com/dl/?f=raung_rivs'
     name 'Raung Rivs'
     homepage 'http://www.dafont.com/raung-rivs.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raung Rivs.ttf'
 end

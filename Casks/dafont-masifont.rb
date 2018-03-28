@@ -5,7 +5,6 @@ cask 'dafont-masifont' do
     url 'http://dl.dafont.com/dl/?f=masifont'
     name 'MasiFont'
     homepage 'http://www.dafont.com/masifont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MasiFont.ttf'
 end

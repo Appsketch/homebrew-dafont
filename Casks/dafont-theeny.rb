@@ -5,7 +5,6 @@ cask 'dafont-theeny' do
     url 'http://dl.dafont.com/dl/?f=theeny'
     name 'Theeny'
     homepage 'http://www.dafont.com/theeny.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Theeny.ttf'
 end

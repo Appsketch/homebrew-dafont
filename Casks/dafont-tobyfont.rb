@@ -5,7 +5,6 @@ cask 'dafont-tobyfont' do
     url 'http://dl.dafont.com/dl/?f=tobyfont'
     name 'TobyFont'
     homepage 'http://www.dafont.com/tobyfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TobyFont_Empty.otf'
     font 'TobyFont_Full.otf'

@@ -5,7 +5,6 @@ cask 'dafont-torid' do
     url 'http://dl.dafont.com/dl/?f=torid'
     name 'Torid'
     homepage 'http://www.dafont.com/torid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Torid.ttf'
     font 'ToridBold.ttf'

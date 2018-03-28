@@ -5,7 +5,6 @@ cask 'dafont-anderson-the-myster' do
     url 'http://dl.dafont.com/dl/?f=anderson_the_myster'
     name 'Anderson The Mysteron'
     homepage 'http://www.dafont.com/anderson-the-myster.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Anderson The Mysterons.ttf'
 end

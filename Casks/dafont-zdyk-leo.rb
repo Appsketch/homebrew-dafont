@@ -5,7 +5,6 @@ cask 'dafont-zdyk-leo' do
     url 'http://dl.dafont.com/dl/?f=zdyk_leo'
     name 'Zdyk Leo'
     homepage 'http://www.dafont.com/zdyk-leo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Zdyk-Leo.ttf'
 end

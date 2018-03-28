@@ -5,7 +5,6 @@ cask 'dafont-omegamax' do
     url 'http://dl.dafont.com/dl/?f=omegamax'
     name 'Omegamax'
     homepage 'http://www.dafont.com/omegamax.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OMEGAMAX.TTF'
 end

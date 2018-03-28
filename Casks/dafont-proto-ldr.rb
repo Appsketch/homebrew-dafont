@@ -5,7 +5,6 @@ cask 'dafont-proto-ldr' do
     url 'http://dl.dafont.com/dl/?f=proto_ldr'
     name 'Proto LDR'
     homepage 'http://www.dafont.com/proto-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'proto_ldr.ttf'
 end

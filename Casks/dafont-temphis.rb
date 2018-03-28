@@ -5,7 +5,6 @@ cask 'dafont-temphis' do
     url 'http://dl.dafont.com/dl/?f=temphis'
     name 'Temphis'
     homepage 'http://www.dafont.com/temphis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Temphis Brick.ttf'
     font 'Temphis Dirty.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-djakarta13210' do
     url 'http://dl.dafont.com/dl/?f=djakarta13210'
     name 'Djakarta 13210'
     homepage 'http://www.dafont.com/djakarta13210.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Djakarta13210_erc_2006.ttf'
 end

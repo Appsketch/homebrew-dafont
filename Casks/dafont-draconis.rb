@@ -5,7 +5,6 @@ cask 'dafont-draconis' do
     url 'http://dl.dafont.com/dl/?f=draconis'
     name 'Draconis'
     homepage 'http://www.dafont.com/draconis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Draconis Bold Italic.otf'
     font 'Draconis Bold.otf'

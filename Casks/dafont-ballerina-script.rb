@@ -5,7 +5,6 @@ cask 'dafont-ballerina-script' do
     url 'http://dl.dafont.com/dl/?f=ballerina_script'
     name 'Ballerina Script'
     homepage 'http://www.dafont.com/ballerina-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Ballerina Script_2.ttf'
 end

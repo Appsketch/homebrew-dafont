@@ -5,7 +5,6 @@ cask 'dafont-daredevil' do
     url 'http://dl.dafont.com/dl/?f=daredevil'
     name 'Daredevil'
     homepage 'http://www.dafont.com/daredevil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Daredevil.ttf'
 end

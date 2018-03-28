@@ -5,7 +5,6 @@ cask 'dafont-queen-of-melbourne' do
     url 'http://dl.dafont.com/dl/?f=queen_of_melbourne'
     name 'Queen of Melbourne'
     homepage 'http://www.dafont.com/queen-of-melbourne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'queen_of_melbourne.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-ultramat' do
     url 'http://dl.dafont.com/dl/?f=ultramat'
     name 'Ultramat'
     homepage 'http://www.dafont.com/ultramat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ultramat.ttf'
 end

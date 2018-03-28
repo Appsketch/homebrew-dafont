@@ -5,7 +5,6 @@ cask 'dafont-faltura-alien' do
     url 'http://dl.dafont.com/dl/?f=faltura_alien'
     name 'Faltura Alien'
     homepage 'http://www.dafont.com/faltura-alien.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FalturaAlien.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-diablo' do
     url 'http://dl.dafont.com/dl/?f=diablo'
     name 'Diablo'
     homepage 'http://www.dafont.com/diablo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Diablo.otf'
 end

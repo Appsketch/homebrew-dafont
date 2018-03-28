@@ -5,7 +5,6 @@ cask 'dafont-thermobaric' do
     url 'http://dl.dafont.com/dl/?f=thermobaric'
     name 'Thermobaric'
     homepage 'http://www.dafont.com/thermobaric.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'THERRG__.TTF'
 end

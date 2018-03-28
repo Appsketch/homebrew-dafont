@@ -5,7 +5,6 @@ cask 'dafont-travel-diary' do
     url 'http://dl.dafont.com/dl/?f=travel_diary'
     name 'Travel Diary'
     homepage 'http://www.dafont.com/travel-diary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'travel diary_feb26.ttf'
 end

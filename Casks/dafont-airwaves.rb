@@ -5,7 +5,6 @@ cask 'dafont-airwaves' do
     url 'http://dl.dafont.com/dl/?f=airwaves'
     name 'Airwaves'
     homepage 'http://www.dafont.com/airwaves.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'airwaves.ttf'
 end

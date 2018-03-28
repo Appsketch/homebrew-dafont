@@ -5,7 +5,6 @@ cask 'dafont-poterski-hnd-ce' do
     url 'http://dl.dafont.com/dl/?f=poterski_hnd_ce'
     name 'Poterski HND CE'
     homepage 'http://www.dafont.com/poterski-hnd-ce.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Poterski HND.ttf'
 end

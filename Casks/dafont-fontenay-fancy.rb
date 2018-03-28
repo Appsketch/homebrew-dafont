@@ -5,7 +5,6 @@ cask 'dafont-fontenay-fancy' do
     url 'http://dl.dafont.com/dl/?f=fontenay_fancy'
     name 'Fontenay Fancy'
     homepage 'http://www.dafont.com/fontenay-fancy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fontenay Fancy kk.ttf'
 end

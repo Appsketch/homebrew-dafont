@@ -5,7 +5,6 @@ cask 'dafont-swifty' do
     url 'http://dl.dafont.com/dl/?f=swifty'
     name 'Swifty'
     homepage 'http://www.dafont.com/swifty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'swifty.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-panama-road' do
     url 'http://dl.dafont.com/dl/?f=panama_road'
     name 'Panama Road'
     homepage 'http://www.dafont.com/panama-road.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Panama-Road-Rg-FFP.ttf'
 end

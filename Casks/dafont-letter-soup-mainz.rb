@@ -5,7 +5,6 @@ cask 'dafont-letter-soup-mainz' do
     url 'http://dl.dafont.com/dl/?f=letter_soup_mainz'
     name 'Letter Soup Mainz'
     homepage 'http://www.dafont.com/letter-soup-mainz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LetterSoupMainz.ttf'
 end

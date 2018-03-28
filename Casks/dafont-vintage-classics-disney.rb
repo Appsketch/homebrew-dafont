@@ -5,7 +5,6 @@ cask 'dafont-vintage-classics-disney' do
     url 'http://dl.dafont.com/dl/?f=vintage_classics_disney'
     name 'Vintage Classics Disney'
     homepage 'http://www.dafont.com/vintage-classics-disney.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vintage Classics Disney.ttf'
 end

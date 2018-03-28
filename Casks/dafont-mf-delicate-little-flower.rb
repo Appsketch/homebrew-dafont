@@ -5,7 +5,6 @@ cask 'dafont-mf-delicate-little-flower' do
     url 'http://dl.dafont.com/dl/?f=mf_delicate_little_flower'
     name 'Mf Delicate Little Flower'
     homepage 'http://www.dafont.com/mf-delicate-little-flower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mf Delicate Little Flower.ttf'
 end

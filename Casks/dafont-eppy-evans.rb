@@ -5,7 +5,6 @@ cask 'dafont-eppy-evans' do
     url 'http://dl.dafont.com/dl/?f=eppy_evans'
     name 'Eppy Evans'
     homepage 'http://www.dafont.com/eppy-evans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eppsebrg.ttf'
     font 'eppselrg.ttf'

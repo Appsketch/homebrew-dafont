@@ -5,7 +5,6 @@ cask 'dafont-perdido' do
     url 'http://dl.dafont.com/dl/?f=perdido'
     name 'Perdido'
     homepage 'http://www.dafont.com/perdido.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PED_____.TTF'
 end

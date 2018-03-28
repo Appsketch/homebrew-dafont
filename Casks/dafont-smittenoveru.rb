@@ -5,7 +5,6 @@ cask 'dafont-smittenoveru' do
     url 'http://dl.dafont.com/dl/?f=smittenoveru'
     name 'Smitten Over U'
     homepage 'http://www.dafont.com/smittenoveru.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SmittenOverU.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-brailled' do
     url 'http://dl.dafont.com/dl/?f=brailled'
     name 'Brailled'
     homepage 'http://www.dafont.com/brailled.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'brailled.ttf'
 end

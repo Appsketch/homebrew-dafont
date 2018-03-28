@@ -5,7 +5,6 @@ cask 'dafont-balans' do
     url 'http://dl.dafont.com/dl/?f=balans'
     name 'Balans'
     homepage 'http://www.dafont.com/balans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Balans-Line.ttf'
     font 'Balans-Normal.ttf'

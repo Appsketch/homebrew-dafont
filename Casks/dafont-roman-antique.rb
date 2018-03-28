@@ -5,7 +5,6 @@ cask 'dafont-roman-antique' do
     url 'http://dl.dafont.com/dl/?f=roman_antique'
     name 'Roman Antique'
     homepage 'http://www.dafont.com/roman-antique.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RomanAntique-Italic.ttf'
     font 'RomanAntique.ttf'

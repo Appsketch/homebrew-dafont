@@ -5,7 +5,6 @@ cask 'dafont-monaco' do
     url 'http://dl.dafont.com/dl/?f=monaco'
     name 'Monaco'
     homepage 'http://www.dafont.com/monaco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monaco.ttf'
 end

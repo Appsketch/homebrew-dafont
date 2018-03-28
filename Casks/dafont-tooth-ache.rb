@@ -5,7 +5,6 @@ cask 'dafont-tooth-ache' do
     url 'http://dl.dafont.com/dl/?f=tooth_ache'
     name 'Tooth Ache'
     homepage 'http://www.dafont.com/tooth-ache.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOOTA___.TTF'
 end

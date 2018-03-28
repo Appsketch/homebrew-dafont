@@ -5,7 +5,6 @@ cask 'dafont-giedi-ancient-autobot' do
     url 'http://dl.dafont.com/dl/?f=giedi_ancient_autobot'
     name 'Giedi Ancient Autobot'
     homepage 'http://www.dafont.com/giedi-ancient-autobot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Giedi Ancient Autobot.otf'
 end

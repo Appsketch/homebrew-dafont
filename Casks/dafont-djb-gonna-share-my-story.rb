@@ -5,7 +5,6 @@ cask 'dafont-djb-gonna-share-my-story' do
     url 'http://dl.dafont.com/dl/?f=djb_gonna_share_my_story'
     name 'DJB Gonna Share My Story'
     homepage 'http://www.dafont.com/djb-gonna-share-my-story.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Gonna Share My Story.ttf'
 end

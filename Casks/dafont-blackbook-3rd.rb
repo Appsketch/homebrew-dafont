@@ -5,7 +5,6 @@ cask 'dafont-blackbook-3rd' do
     url 'http://dl.dafont.com/dl/?f=blackbook_3rd'
     name 'Blackbook 3rd'
     homepage 'http://www.dafont.com/blackbook-3rd.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Blackbook 3rd.otf'
 end

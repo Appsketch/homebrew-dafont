@@ -5,7 +5,6 @@ cask 'dafont-1-ichiro' do
     url 'http://dl.dafont.com/dl/?f=_1_ichiro'
     name '#1 Ichiro'
     homepage 'http://www.dafont.com/-1-ichiro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '1_Ichiro.otf'
 end

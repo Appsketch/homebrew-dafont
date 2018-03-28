@@ -5,7 +5,6 @@ cask 'dafont-pwjunefont' do
     url 'http://dl.dafont.com/dl/?f=pwjunefont'
     name 'PW Junefont'
     homepage 'http://www.dafont.com/pwjunefont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWJunefont.ttf'
 end

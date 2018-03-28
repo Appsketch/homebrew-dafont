@@ -5,7 +5,6 @@ cask 'dafont-tioem-black-distressed' do
     url 'http://dl.dafont.com/dl/?f=tioem_black_distressed'
     name 'Tioem Black Distressed'
     homepage 'http://www.dafont.com/tioem-black-distressed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tioem-Black-Distressed.ttf'
 end

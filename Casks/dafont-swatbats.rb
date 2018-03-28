@@ -5,7 +5,6 @@ cask 'dafont-swatbats' do
     url 'http://dl.dafont.com/dl/?f=swatbats'
     name 'Swatbats'
     homepage 'http://www.dafont.com/swatbats.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SWATBATS.TTF'
 end

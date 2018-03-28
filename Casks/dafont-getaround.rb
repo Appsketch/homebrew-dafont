@@ -5,7 +5,6 @@ cask 'dafont-getaround' do
     url 'http://dl.dafont.com/dl/?f=getaround'
     name 'Get Around'
     homepage 'http://www.dafont.com/getaround.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GetAround.ttf'
 end

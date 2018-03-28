@@ -5,7 +5,6 @@ cask 'dafont-carrington' do
     url 'http://dl.dafont.com/dl/?f=carrington'
     name 'Carrington'
     homepage 'http://www.dafont.com/carrington.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Carrington.ttf'
 end

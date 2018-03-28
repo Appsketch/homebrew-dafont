@@ -5,7 +5,6 @@ cask 'dafont-noalani' do
     url 'http://dl.dafont.com/dl/?f=noalani'
     name 'Noalani'
     homepage 'http://www.dafont.com/noalani.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NOALANI.ttf'
 end

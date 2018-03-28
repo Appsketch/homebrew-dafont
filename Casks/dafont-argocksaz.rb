@@ -5,7 +5,6 @@ cask 'dafont-argocksaz' do
     url 'http://dl.dafont.com/dl/?f=argocksaz'
     name 'Argocksaz'
     homepage 'http://www.dafont.com/argocksaz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Argocksaz Bold_viper78.ttf'
     font 'Argocksaz_viper78.ttf'

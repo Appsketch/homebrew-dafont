@@ -5,7 +5,6 @@ cask 'dafont-monkey-chunks' do
     url 'http://dl.dafont.com/dl/?f=monkey_chunks'
     name 'Monkey Chunks'
     homepage 'http://www.dafont.com/monkey-chunks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mnkchunk.ttf'
 end

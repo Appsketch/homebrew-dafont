@@ -5,7 +5,6 @@ cask 'dafont-the-soul-of-vodka' do
     url 'http://dl.dafont.com/dl/?f=the_soul_of_vodka'
     name 'The Soul Of Vodka'
     homepage 'http://www.dafont.com/the-soul-of-vodka.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Soul Of Vodka.ttf'
 end

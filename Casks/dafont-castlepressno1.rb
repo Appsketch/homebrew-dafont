@@ -5,7 +5,6 @@ cask 'dafont-castlepressno1' do
     url 'http://dl.dafont.com/dl/?f=castlepressno1'
     name 'Castle Press No1'
     homepage 'http://www.dafont.com/castlepressno1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CastlePressNo1.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-caracterielle' do
     url 'http://dl.dafont.com/dl/?f=caracterielle'
     name 'Caracterielle'
     homepage 'http://www.dafont.com/caracterielle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CARACTERIELLE.ttf'
 end

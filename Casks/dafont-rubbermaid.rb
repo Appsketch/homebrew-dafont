@@ -5,7 +5,6 @@ cask 'dafont-rubbermaid' do
     url 'http://dl.dafont.com/dl/?f=rubbermaid'
     name 'Rubbermaid'
     homepage 'http://www.dafont.com/rubbermaid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TT/RUBBS___.TTF'
 end

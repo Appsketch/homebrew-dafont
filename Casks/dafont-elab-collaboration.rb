@@ -5,7 +5,6 @@ cask 'dafont-elab-collaboration' do
     url 'http://dl.dafont.com/dl/?f=elab_collaboration'
     name 'Elab Collaboration'
     homepage 'http://www.dafont.com/elab-collaboration.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'elabfont.ttf'
 end

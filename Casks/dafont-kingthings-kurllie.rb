@@ -5,7 +5,6 @@ cask 'dafont-kingthings-kurllie' do
     url 'http://dl.dafont.com/dl/?f=kingthings_kurllie'
     name 'Kingthings Kurllie'
     homepage 'http://www.dafont.com/kingthings-kurllie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kingthings Kurllie.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pamela' do
     url 'http://dl.dafont.com/dl/?f=pamela'
     name 'Pamela'
     homepage 'http://www.dafont.com/pamela.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pamela.ttf'
 end

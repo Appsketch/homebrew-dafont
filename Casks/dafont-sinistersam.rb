@@ -5,7 +5,6 @@ cask 'dafont-sinistersam' do
     url 'http://dl.dafont.com/dl/?f=sinistersam'
     name 'Sinister Sam'
     homepage 'http://www.dafont.com/sinistersam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SSAMTRIAL.ttf'
 end

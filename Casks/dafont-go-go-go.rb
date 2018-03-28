@@ -5,7 +5,6 @@ cask 'dafont-go-go-go' do
     url 'http://dl.dafont.com/dl/?f=go_go_go'
     name 'Go-Go-Go'
     homepage 'http://www.dafont.com/go-go-go.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GO-GO-GO.TTF'
 end

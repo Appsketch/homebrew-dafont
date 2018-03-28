@@ -5,7 +5,6 @@ cask 'dafont-buttacup' do
     url 'http://dl.dafont.com/dl/?f=buttacup'
     name 'Buttacup'
     homepage 'http://www.dafont.com/buttacup.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Buttacup Lettering Bold Oblique.ttf'
     font 'SF Buttacup Lettering Bold.ttf'

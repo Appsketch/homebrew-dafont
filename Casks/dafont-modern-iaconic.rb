@@ -5,7 +5,6 @@ cask 'dafont-modern-iaconic' do
     url 'http://dl.dafont.com/dl/?f=modern_iaconic'
     name 'Modern Iaconic'
     homepage 'http://www.dafont.com/modern-iaconic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Modern Iaconic Italic.otf'
     font 'Modern Iaconic.otf'

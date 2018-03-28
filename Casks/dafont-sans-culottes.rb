@@ -5,7 +5,6 @@ cask 'dafont-sans-culottes' do
     url 'http://dl.dafont.com/dl/?f=sans_culottes'
     name 'Sans Culottes'
     homepage 'http://www.dafont.com/sans-culottes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SANSC___.TTF'
 end

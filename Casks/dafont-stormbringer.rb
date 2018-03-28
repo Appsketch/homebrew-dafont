@@ -5,7 +5,6 @@ cask 'dafont-stormbringer' do
     url 'http://dl.dafont.com/dl/?f=stormbringer'
     name 'Stormbringer'
     homepage 'http://www.dafont.com/stormbringer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stormbringer.ttf'
 end

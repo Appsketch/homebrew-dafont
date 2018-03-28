@@ -5,7 +5,6 @@ cask 'dafont-old-press' do
     url 'http://dl.dafont.com/dl/?f=old_press'
     name 'Old Press'
     homepage 'http://www.dafont.com/old-press.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Old Press Italic.ttf'
     font 'Old Press.ttf'

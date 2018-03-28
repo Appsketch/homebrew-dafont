@@ -5,7 +5,6 @@ cask 'dafont-pabellona-a-simplex' do
     url 'http://dl.dafont.com/dl/?f=pabellona_a_simplex'
     name 'Pabellona (A) S&iacute;mplex'
     homepage 'http://www.dafont.com/pabellona-a-simplex.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pabellona-A-Simplex.ttf'
 end

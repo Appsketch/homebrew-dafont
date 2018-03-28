@@ -5,7 +5,6 @@ cask 'dafont-puritan' do
     url 'http://dl.dafont.com/dl/?f=puritan'
     name 'Puritan'
     homepage 'http://www.dafont.com/puritan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PURI10.TTF'
     font 'PURIB10.TTF'

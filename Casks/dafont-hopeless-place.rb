@@ -5,7 +5,6 @@ cask 'dafont-hopeless-place' do
     url 'http://dl.dafont.com/dl/?f=hopeless_place'
     name 'Hopeless Place'
     homepage 'http://www.dafont.com/hopeless-place.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hopeless Place.ttf'
 end

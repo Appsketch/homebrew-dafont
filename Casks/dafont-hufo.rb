@@ -5,7 +5,6 @@ cask 'dafont-hufo' do
     url 'http://dl.dafont.com/dl/?f=hufo'
     name 'Hufo / Rhufo'
     homepage 'http://www.dafont.com/hufo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hufo.ttf'
 end

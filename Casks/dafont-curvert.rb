@@ -5,7 +5,6 @@ cask 'dafont-curvert' do
     url 'http://dl.dafont.com/dl/?f=curvert'
     name 'Curvert'
     homepage 'http://www.dafont.com/curvert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Curvert.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kyrilla' do
     url 'http://dl.dafont.com/dl/?f=kyrilla'
     name 'Kyrilla'
     homepage 'http://www.dafont.com/kyrilla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KyrillaSansSerif-Black.ttf'
     font 'KyrillaSansSerif-Bold.ttf'

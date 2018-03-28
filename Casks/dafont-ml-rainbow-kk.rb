@@ -5,7 +5,6 @@ cask 'dafont-ml-rainbow-kk' do
     url 'http://dl.dafont.com/dl/?f=ml_rainbow_kk'
     name 'ML Rainbow KK'
     homepage 'http://www.dafont.com/ml-rainbow-kk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ML Rainbow KK v1.2.ttf'
 end

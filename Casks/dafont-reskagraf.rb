@@ -5,7 +5,6 @@ cask 'dafont-reskagraf' do
     url 'http://dl.dafont.com/dl/?f=reskagraf'
     name 'ReskaGraf'
     homepage 'http://www.dafont.com/reskagraf.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RESKAGRAF.TTF'
 end

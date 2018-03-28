@@ -5,7 +5,6 @@ cask 'dafont-fcraft-sidarta' do
     url 'http://dl.dafont.com/dl/?f=fcraft_sidarta'
     name 'Fcraft Sidarta'
     homepage 'http://www.dafont.com/fcraft-sidarta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FCRAFSBI.TTF'
     font 'FCRAFT01.TTF'

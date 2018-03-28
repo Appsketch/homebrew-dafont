@@ -5,7 +5,6 @@ cask 'dafont-manlangit' do
     url 'http://dl.dafont.com/dl/?f=manlangit'
     name 'Manlangit'
     homepage 'http://www.dafont.com/manlangit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Manlangit Regular.ttf'
 end

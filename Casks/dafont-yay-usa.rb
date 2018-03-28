@@ -5,7 +5,6 @@ cask 'dafont-yay-usa' do
     url 'http://dl.dafont.com/dl/?f=yay_usa'
     name 'Yay Usa'
     homepage 'http://www.dafont.com/yay-usa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yayusa.ttf'
     font 'yayusa3d.ttf'

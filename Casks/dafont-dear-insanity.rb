@@ -5,7 +5,6 @@ cask 'dafont-dear-insanity' do
     url 'http://dl.dafont.com/dl/?f=dear_insanity'
     name 'Dear Insanity'
     homepage 'http://www.dafont.com/dear-insanity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Callejon_DEMO.ttf'
 end

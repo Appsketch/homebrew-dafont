@@ -5,7 +5,6 @@ cask 'dafont-lcd-expanded' do
     url 'http://dl.dafont.com/dl/?f=lcd_expanded'
     name 'LCD Expanded'
     homepage 'http://www.dafont.com/lcd-expanded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lcd-Expanded.ttf'
 end

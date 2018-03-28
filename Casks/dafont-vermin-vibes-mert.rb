@@ -5,7 +5,6 @@ cask 'dafont-vermin-vibes-mert' do
     url 'http://dl.dafont.com/dl/?f=vermin_vibes_mert'
     name 'Vermin Vibes Mert'
     homepage 'http://www.dafont.com/vermin-vibes-mert.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vermin-Vibes-Mert.ttf'
 end

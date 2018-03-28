@@ -5,7 +5,6 @@ cask 'dafont-desereted' do
     url 'http://dl.dafont.com/dl/?f=desereted'
     name 'Desereted'
     homepage 'http://www.dafont.com/desereted.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Desereted.ttf'
 end

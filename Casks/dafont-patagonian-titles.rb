@@ -5,7 +5,6 @@ cask 'dafont-patagonian-titles' do
     url 'http://dl.dafont.com/dl/?f=patagonian_titles'
     name 'Patagonian Titles'
     homepage 'http://www.dafont.com/patagonian-titles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PatagoniaB.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-credit-cards' do
     url 'http://dl.dafont.com/dl/?f=credit_cards'
     name 'Credit Cards'
     homepage 'http://www.dafont.com/credit-cards.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Credit Cards.ttf'
 end

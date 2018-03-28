@@ -5,7 +5,6 @@ cask 'dafont-batavia-kota' do
     url 'http://dl.dafont.com/dl/?f=batavia_kota'
     name 'Batavia Kota'
     homepage 'http://www.dafont.com/batavia-kota.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BATAVIA KOTA.ttf'
 end

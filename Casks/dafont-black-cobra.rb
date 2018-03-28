@@ -5,7 +5,6 @@ cask 'dafont-black-cobra' do
     url 'http://dl.dafont.com/dl/?f=black_cobra'
     name 'Black Cobra'
     homepage 'http://www.dafont.com/black-cobra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black CoBrA.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-001-interstellar-lo' do
     url 'http://dl.dafont.com/dl/?f=001_interstellar_lo'
     name '001 Interstellar Log'
     homepage 'http://www.dafont.com/001-interstellar-lo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Interstellar Log.ttf'
 end

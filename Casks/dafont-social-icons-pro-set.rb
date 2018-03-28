@@ -5,7 +5,6 @@ cask 'dafont-social-icons-pro-set' do
     url 'http://dl.dafont.com/dl/?f=social_icons_pro_set'
     name 'Social Icons - Pro Set'
     homepage 'http://www.dafont.com/social-icons-pro-set.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Social Icons Pro Set 1 - Rounded.ttf'
 end

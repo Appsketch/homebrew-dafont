@@ -5,7 +5,6 @@ cask 'dafont-afroed-dizzy-yak' do
     url 'http://dl.dafont.com/dl/?f=afroed_dizzy_yak'
     name 'Afroed Dizzy Yak'
     homepage 'http://www.dafont.com/afroed-dizzy-yak.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Afroed Dizzy Yak.otf'
 end

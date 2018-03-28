@@ -5,7 +5,6 @@ cask 'dafont-woodcutted-caps' do
     url 'http://dl.dafont.com/dl/?f=woodcutted_caps'
     name 'Woodcutted Caps'
     homepage 'http://www.dafont.com/woodcutted-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WoodcuttedCaps.ttf'
     font 'WoodcuttedCapsBlack.ttf'

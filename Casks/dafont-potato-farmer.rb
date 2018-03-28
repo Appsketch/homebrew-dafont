@@ -5,7 +5,6 @@ cask 'dafont-potato-farmer' do
     url 'http://dl.dafont.com/dl/?f=potato_farmer'
     name 'Potato Farmer'
     homepage 'http://www.dafont.com/potato-farmer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Potato_Farmer.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-martini-olive' do
     url 'http://dl.dafont.com/dl/?f=martini_olive'
     name 'Martini Olive'
     homepage 'http://www.dafont.com/martini-olive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MARTO___.TTF'
 end

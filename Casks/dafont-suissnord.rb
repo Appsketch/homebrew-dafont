@@ -5,7 +5,6 @@ cask 'dafont-suissnord' do
     url 'http://dl.dafont.com/dl/?f=suissnord'
     name 'Suissnord'
     homepage 'http://www.dafont.com/suissnord.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Suissnord.otf'
 end

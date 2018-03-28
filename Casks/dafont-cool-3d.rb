@@ -5,7 +5,6 @@ cask 'dafont-cool-3d' do
     url 'http://dl.dafont.com/dl/?f=cool_3d'
     name 'Cool 3D'
     homepage 'http://www.dafont.com/cool-3d.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cool 3D.ttf'
 end

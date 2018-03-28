@@ -5,7 +5,6 @@ cask 'dafont-kanisah' do
     url 'http://dl.dafont.com/dl/?f=kanisah'
     name 'Kanisah'
     homepage 'http://www.dafont.com/kanisah.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kanisah.ttf'
 end

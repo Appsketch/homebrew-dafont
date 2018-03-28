@@ -5,7 +5,6 @@ cask 'dafont-through-the-black' do
     url 'http://dl.dafont.com/dl/?f=through_the_black'
     name 'Through The Black'
     homepage 'http://www.dafont.com/through-the-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThroughTheBlack.otf'
     font 'ThroughTheBlackIta.otf'

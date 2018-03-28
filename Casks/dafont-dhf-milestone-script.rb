@@ -5,7 +5,6 @@ cask 'dafont-dhf-milestone-script' do
     url 'http://dl.dafont.com/dl/?f=dhf_milestone_script'
     name 'DHF Milestone Script'
     homepage 'http://www.dafont.com/dhf-milestone-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DHF Milestone Script_DEMO.ttf'
 end

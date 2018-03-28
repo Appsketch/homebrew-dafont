@@ -5,7 +5,6 @@ cask 'dafont-hilda-broad' do
     url 'http://dl.dafont.com/dl/?f=hilda_broad'
     name 'Hilda Broad'
     homepage 'http://www.dafont.com/hilda-broad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HildaBroad.ttf'
 end

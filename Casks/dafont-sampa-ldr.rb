@@ -5,7 +5,6 @@ cask 'dafont-sampa-ldr' do
     url 'http://dl.dafont.com/dl/?f=sampa_ldr'
     name 'Sampa LDR'
     homepage 'http://www.dafont.com/sampa-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sampa_ldr.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-kg-happy' do
     url 'http://dl.dafont.com/dl/?f=kg_happy'
     name 'KG Happy'
     homepage 'http://www.dafont.com/kg-happy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGHAPPY.ttf'
     font 'KGHAPPYShadows.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-mckloud' do
     url 'http://dl.dafont.com/dl/?f=mckloud'
     name 'McKloud'
     homepage 'http://www.dafont.com/mckloud.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MCKLB___.ttf'
     font 'MCKLM___.ttf'

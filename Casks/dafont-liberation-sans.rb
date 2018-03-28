@@ -5,7 +5,6 @@ cask 'dafont-liberation-sans' do
     url 'http://dl.dafont.com/dl/?f=liberation_sans'
     name 'Liberation Sans'
     homepage 'http://www.dafont.com/liberation-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LiberationSans-Bold.ttf'
     font 'LiberationSans-BoldItalic.ttf'

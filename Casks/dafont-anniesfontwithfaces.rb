@@ -5,7 +5,6 @@ cask 'dafont-anniesfontwithfaces' do
     url 'http://dl.dafont.com/dl/?f=anniesfontwithfaces'
     name 'Annies Font with Faces'
     homepage 'http://www.dafont.com/anniesfontwithfaces.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AnniesFontwithFaces.ttf'
 end

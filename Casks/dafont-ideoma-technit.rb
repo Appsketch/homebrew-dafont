@@ -5,7 +5,6 @@ cask 'dafont-ideoma-technit' do
     url 'http://dl.dafont.com/dl/?f=ideoma_technit'
     name 'Ideoma Technit'
     homepage 'http://www.dafont.com/ideoma-technit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ideomaTECHNIT.otf'
 end

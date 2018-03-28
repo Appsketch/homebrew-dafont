@@ -5,7 +5,6 @@ cask 'dafont-inkydoo-regular' do
     url 'http://dl.dafont.com/dl/?f=inkydoo_regular'
     name 'InkyDoo'
     homepage 'http://www.dafont.com/inkydoo-regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'INKY_R_T.ttf'
 end

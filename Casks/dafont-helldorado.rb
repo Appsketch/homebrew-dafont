@@ -5,7 +5,6 @@ cask 'dafont-helldorado' do
     url 'http://dl.dafont.com/dl/?f=helldorado'
     name 'Helldorado'
     homepage 'http://www.dafont.com/helldorado.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HELLDORA.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mukokuseki-kitchen' do
     url 'http://dl.dafont.com/dl/?f=mukokuseki_kitchen'
     name 'Mukokuseki Kitchen'
     homepage 'http://www.dafont.com/mukokuseki-kitchen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MUKOKUSEKIKITCHEN.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-childhood' do
     url 'http://dl.dafont.com/dl/?f=childhood'
     name 'Childhood'
     homepage 'http://www.dafont.com/childhood.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Childhood Thick.ttf'
     font 'Childhood Thin.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-for-sara' do
     url 'http://dl.dafont.com/dl/?f=for_sara'
     name 'For Sara'
     homepage 'http://www.dafont.com/for-sara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'For Sara.ttf'
 end

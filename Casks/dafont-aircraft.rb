@@ -5,7 +5,6 @@ cask 'dafont-aircraft' do
     url 'http://dl.dafont.com/dl/?f=aircraft'
     name 'Aircraft'
     homepage 'http://www.dafont.com/aircraft.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aircraft.ttf'
     font 'Aircraft1.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-plastic-tomato' do
     url 'http://dl.dafont.com/dl/?f=plastic_tomato'
     name 'Plastic Tomato'
     homepage 'http://www.dafont.com/plastic-tomato.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PLAST___.TTF'
     font 'PLASTB__.TTF'

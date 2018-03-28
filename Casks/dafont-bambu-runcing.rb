@@ -5,7 +5,6 @@ cask 'dafont-bambu-runcing' do
     url 'http://dl.dafont.com/dl/?f=bambu_runcing'
     name 'Bambu Runcing'
     homepage 'http://www.dafont.com/bambu-runcing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bambu Runcing Lite.ttf'
 end

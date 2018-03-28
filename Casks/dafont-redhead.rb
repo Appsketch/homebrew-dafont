@@ -5,7 +5,6 @@ cask 'dafont-redhead' do
     url 'http://dl.dafont.com/dl/?f=redhead'
     name 'Redhead'
     homepage 'http://www.dafont.com/redhead.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Redhead.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-okuba-cloud-g' do
     url 'http://dl.dafont.com/dl/?f=okuba_cloud_g'
     name 'Okuba Cloud G'
     homepage 'http://www.dafont.com/okuba-cloud-g.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gomarice_okuba_cloud.ttf'
 end

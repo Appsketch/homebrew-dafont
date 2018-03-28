@@ -5,7 +5,6 @@ cask 'dafont-to-whom-it-may-concern-type' do
     url 'http://dl.dafont.com/dl/?f=to_whom_it_may_concern_type'
     name 'To whom it may concern type'
     homepage 'http://www.dafont.com/to-whom-it-may-concern-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'to whom it may concern type.ttf'
 end

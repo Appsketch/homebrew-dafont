@@ -5,7 +5,6 @@ cask 'dafont-lazarus-oz' do
     url 'http://dl.dafont.com/dl/?f=lazarus_oz'
     name 'Lazarus Oz'
     homepage 'http://www.dafont.com/lazarus-oz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lazarus Oz Kolsvart.ttf'
     font 'Lazarus Oz Moerkt.ttf'

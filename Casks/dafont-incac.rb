@@ -5,7 +5,6 @@ cask 'dafont-incac' do
     url 'http://dl.dafont.com/dl/?f=incac'
     name 'Incac'
     homepage 'http://www.dafont.com/incac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Incac tipografia.ttf'
 end

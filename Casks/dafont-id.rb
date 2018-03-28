@@ -5,7 +5,6 @@ cask 'dafont-id' do
     url 'http://dl.dafont.com/dl/?f=_id'
     name '#iD'
     homepage 'http://www.dafont.com/-id.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IDGR8I.ttf'
 end

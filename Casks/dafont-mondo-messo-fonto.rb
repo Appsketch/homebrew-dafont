@@ -5,7 +5,6 @@ cask 'dafont-mondo-messo-fonto' do
     url 'http://dl.dafont.com/dl/?f=mondo_messo_fonto'
     name 'Mondo Messo Fonto'
     homepage 'http://www.dafont.com/mondo-messo-fonto.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mondmf__.ttf'
     font 'Mondmfb_.ttf'

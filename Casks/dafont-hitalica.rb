@@ -5,7 +5,6 @@ cask 'dafont-hitalica' do
     url 'http://dl.dafont.com/dl/?f=hitalica'
     name 'Hitalica'
     homepage 'http://www.dafont.com/hitalica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hitalica_Bold.ttf'
     font 'Hitalica_Vertical_Bold.ttf'

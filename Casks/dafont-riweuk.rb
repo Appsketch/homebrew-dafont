@@ -5,7 +5,6 @@ cask 'dafont-riweuk' do
     url 'http://dl.dafont.com/dl/?f=riweuk'
     name 'Riweuk'
     homepage 'http://www.dafont.com/riweuk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RIWEUK__.TTF'
 end

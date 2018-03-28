@@ -5,7 +5,6 @@ cask 'dafont-in-your-face-joffrey' do
     url 'http://dl.dafont.com/dl/?f=in_your_face_joffrey'
     name 'In your face, Joffrey! '
     homepage 'http://www.dafont.com/in-your-face-joffrey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'In your face, joffrey!.ttf'
 end

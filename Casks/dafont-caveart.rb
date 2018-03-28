@@ -5,7 +5,6 @@ cask 'dafont-caveart' do
     url 'http://dl.dafont.com/dl/?f=caveart'
     name 'CaveArt'
     homepage 'http://www.dafont.com/caveart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'caveart.ttf'
 end

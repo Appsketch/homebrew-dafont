@@ -5,7 +5,6 @@ cask 'dafont-piston-pressure' do
     url 'http://dl.dafont.com/dl/?f=piston_pressure'
     name 'Piston Pressure'
     homepage 'http://www.dafont.com/piston-pressure.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Piston Pressure.otf'
 end

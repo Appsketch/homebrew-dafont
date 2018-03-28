@@ -5,7 +5,6 @@ cask 'dafont-quicken' do
     url 'http://dl.dafont.com/dl/?f=quicken'
     name 'Quicken'
     homepage 'http://www.dafont.com/quicken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'quicken.ttf'
     font 'quicken3d.ttf'

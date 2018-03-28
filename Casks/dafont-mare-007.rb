@@ -5,7 +5,6 @@ cask 'dafont-mare-007' do
     url 'http://dl.dafont.com/dl/?f=mare_007'
     name 'Mare 007'
     homepage 'http://www.dafont.com/mare-007.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MARE 007.ttf'
 end

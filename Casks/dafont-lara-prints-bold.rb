@@ -5,7 +5,6 @@ cask 'dafont-lara-prints-bold' do
     url 'http://dl.dafont.com/dl/?f=lara_prints_bold'
     name 'Lara Prints Bold'
     homepage 'http://www.dafont.com/lara-prints-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lara Prints Bold.ttf'
 end

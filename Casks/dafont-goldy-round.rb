@@ -5,7 +5,6 @@ cask 'dafont-goldy-round' do
     url 'http://dl.dafont.com/dl/?f=goldy_round'
     name 'Goldy Round'
     homepage 'http://www.dafont.com/goldy-round.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GOLDRN__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-glen-bold' do
     url 'http://dl.dafont.com/dl/?f=glen_bold'
     name 'Glen Bold'
     homepage 'http://www.dafont.com/glen-bold.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'glen bold.ttf'
 end

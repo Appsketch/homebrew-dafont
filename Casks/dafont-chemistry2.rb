@@ -5,7 +5,6 @@ cask 'dafont-chemistry2' do
     url 'http://dl.dafont.com/dl/?f=chemistry2'
     name 'Chemistry'
     homepage 'http://www.dafont.com/chemistry2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chemistry.ttf'
 end

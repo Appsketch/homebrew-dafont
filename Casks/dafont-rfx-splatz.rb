@@ -5,7 +5,6 @@ cask 'dafont-rfx-splatz' do
     url 'http://dl.dafont.com/dl/?f=rfx_splatz'
     name 'RFX Splatz'
     homepage 'http://www.dafont.com/rfx-splatz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RFX Splatz.ttf'
 end

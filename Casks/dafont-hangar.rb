@@ -5,7 +5,6 @@ cask 'dafont-hangar' do
     url 'http://dl.dafont.com/dl/?f=hangar'
     name 'Hangar'
     homepage 'http://www.dafont.com/hangar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hangar.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-red-dragons' do
     url 'http://dl.dafont.com/dl/?f=red_dragons'
     name 'Red Dragons'
     homepage 'http://www.dafont.com/red-dragons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Red Dragons.otf'
 end

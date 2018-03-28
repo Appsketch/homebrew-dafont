@@ -5,7 +5,6 @@ cask 'dafont-futuremoon' do
     url 'http://dl.dafont.com/dl/?f=futuremoon'
     name 'Futuremoon'
     homepage 'http://www.dafont.com/futuremoon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Futuremoon.ttf'
 end

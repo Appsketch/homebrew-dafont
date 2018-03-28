@@ -5,7 +5,6 @@ cask 'dafont-peaxwebdesigncircles' do
     url 'http://dl.dafont.com/dl/?f=peaxwebdesigncircles'
     name 'Peax Webdesign Circles'
     homepage 'http://www.dafont.com/peaxwebdesigncircles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PeaxWebdesigncircles.ttf'
 end

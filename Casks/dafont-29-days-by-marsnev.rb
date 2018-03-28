@@ -5,7 +5,6 @@ cask 'dafont-29-days-by-marsnev' do
     url 'http://dl.dafont.com/dl/?f=29_days_by_marsnev'
     name '29 Days By Marsnev'
     homepage 'http://www.dafont.com/29-days-by-marsnev.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '29 DAYS by marsnev.ttf'
 end

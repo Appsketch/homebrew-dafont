@@ -5,7 +5,6 @@ cask 'dafont-tolerant' do
     url 'http://dl.dafont.com/dl/?f=tolerant'
     name 'Tolerant'
     homepage 'http://www.dafont.com/tolerant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tolerant.ttf'
 end

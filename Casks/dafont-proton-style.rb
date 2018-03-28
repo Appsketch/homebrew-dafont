@@ -5,7 +5,6 @@ cask 'dafont-proton-style' do
     url 'http://dl.dafont.com/dl/?f=proton_style'
     name 'Proton Style'
     homepage 'http://www.dafont.com/proton-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Proton Style.ttf'
 end

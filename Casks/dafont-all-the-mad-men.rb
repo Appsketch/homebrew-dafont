@@ -5,7 +5,6 @@ cask 'dafont-all-the-mad-men' do
     url 'http://dl.dafont.com/dl/?f=all_the_mad_men'
     name 'All The Mad Men'
     homepage 'http://www.dafont.com/all-the-mad-men.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'All The Mad Men.ttf'
 end

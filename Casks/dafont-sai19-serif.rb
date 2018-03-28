@@ -5,7 +5,6 @@ cask 'dafont-sai19-serif' do
     url 'http://dl.dafont.com/dl/?f=sai19_serif'
     name 'Sai19 Serif'
     homepage 'http://www.dafont.com/sai19-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'sai19_serif.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pesona-indonesia' do
     url 'http://dl.dafont.com/dl/?f=pesona_indonesia'
     name 'Pesona Indonesia'
     homepage 'http://www.dafont.com/pesona-indonesia.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pesona Indonesia.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yachting-type' do
     url 'http://dl.dafont.com/dl/?f=yachting_type'
     name 'Yachting Type'
     homepage 'http://www.dafont.com/yachting-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yt.ttf'
 end

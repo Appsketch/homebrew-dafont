@@ -5,7 +5,6 @@ cask 'dafont-dilana-experimentype' do
     url 'http://dl.dafont.com/dl/?f=dilana_experimentype'
     name 'Dilana Experimentype'
     homepage 'http://www.dafont.com/dilana-experimentype.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fuente  dilana.ttf'
 end

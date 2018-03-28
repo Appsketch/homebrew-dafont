@@ -5,7 +5,6 @@ cask 'dafont-republica-mexicana' do
     url 'http://dl.dafont.com/dl/?f=republica_mexicana'
     name 'Republica Mexicana'
     homepage 'http://www.dafont.com/republica-mexicana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'republicamexicana.ttf'
 end

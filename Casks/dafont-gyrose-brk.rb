@@ -5,7 +5,6 @@ cask 'dafont-gyrose-brk' do
     url 'http://dl.dafont.com/dl/?f=gyrose_brk'
     name 'Gyrose'
     homepage 'http://www.dafont.com/gyrose-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gyroresh.ttf'
     font 'gyrose.ttf'

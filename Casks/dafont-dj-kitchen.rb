@@ -5,7 +5,6 @@ cask 'dafont-dj-kitchen' do
     url 'http://dl.dafont.com/dl/?f=dj_kitchen'
     name 'DJ Kitchen'
     homepage 'http://www.dafont.com/dj-kitchen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJ_Kitchen.ttf'
 end

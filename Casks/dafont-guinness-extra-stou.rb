@@ -5,7 +5,6 @@ cask 'dafont-guinness-extra-stou' do
     url 'http://dl.dafont.com/dl/?f=guinness_extra_stou'
     name 'Guinness Extra Stout'
     homepage 'http://www.dafont.com/guinness-extra-stou.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GUINNESS.TTF'
 end

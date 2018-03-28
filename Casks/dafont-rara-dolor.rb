@@ -5,7 +5,6 @@ cask 'dafont-rara-dolor' do
     url 'http://dl.dafont.com/dl/?f=rara_dolor'
     name 'Rara Dolor'
     homepage 'http://www.dafont.com/rara-dolor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RaraDolorBold.ttf'
     font 'RaraDolorLight.ttf'

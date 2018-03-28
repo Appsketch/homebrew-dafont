@@ -5,7 +5,6 @@ cask 'dafont-rock-modus' do
     url 'http://dl.dafont.com/dl/?f=rock_modus'
     name 'Rock Modus'
     homepage 'http://www.dafont.com/rock-modus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RockMODUS039.ttf'
 end

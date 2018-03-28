@@ -5,7 +5,6 @@ cask 'dafont-dcoxy-stamp' do
     url 'http://dl.dafont.com/dl/?f=dcoxy_stamp'
     name 'Dcoxy Stamp'
     homepage 'http://www.dafont.com/dcoxy-stamp.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DCOXYstamp.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-colleged' do
     url 'http://dl.dafont.com/dl/?f=colleged'
     name 'Colleged'
     homepage 'http://www.dafont.com/colleged.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Colleged.ttf'
 end

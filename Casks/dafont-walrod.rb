@@ -5,7 +5,6 @@ cask 'dafont-walrod' do
     url 'http://dl.dafont.com/dl/?f=walrod'
     name 'Walrod'
     homepage 'http://www.dafont.com/walrod.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WALROD__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-janda-stylish-script' do
     url 'http://dl.dafont.com/dl/?f=janda_stylish_script'
     name 'Janda Stylish Script'
     homepage 'http://www.dafont.com/janda-stylish-script.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaStylishScript.ttf'
 end

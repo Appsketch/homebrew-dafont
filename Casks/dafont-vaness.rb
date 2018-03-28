@@ -5,7 +5,6 @@ cask 'dafont-vaness' do
     url 'http://dl.dafont.com/dl/?f=vaness'
     name 'VaNess'
     homepage 'http://www.dafont.com/vaness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VaNess.ttf'
 end

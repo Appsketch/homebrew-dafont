@@ -5,7 +5,6 @@ cask 'dafont-finegramos' do
     url 'http://dl.dafont.com/dl/?f=finegramos'
     name 'Finegramos'
     homepage 'http://www.dafont.com/finegramos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Finegramos.ttf'
 end

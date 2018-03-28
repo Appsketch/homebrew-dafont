@@ -5,7 +5,6 @@ cask 'dafont-keneel-messy' do
     url 'http://dl.dafont.com/dl/?f=keneel_messy'
     name 'Keneel Messy'
     homepage 'http://www.dafont.com/keneel-messy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Keneel Messy.ttf'
 end

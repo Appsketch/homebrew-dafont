@@ -5,7 +5,6 @@ cask 'dafont-dobbo-chisel' do
     url 'http://dl.dafont.com/dl/?f=dobbo_chisel'
     name 'Dobbo Chisel'
     homepage 'http://www.dafont.com/dobbo-chisel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DobboChisel.otf'
 end

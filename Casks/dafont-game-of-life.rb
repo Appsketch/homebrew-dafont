@@ -5,7 +5,6 @@ cask 'dafont-game-of-life' do
     url 'http://dl.dafont.com/dl/?f=game_of_life'
     name 'Game Of Life'
     homepage 'http://www.dafont.com/game-of-life.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Game Of Life.ttf'
 end

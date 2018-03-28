@@ -5,7 +5,6 @@ cask 'dafont-chubbypoof' do
     url 'http://dl.dafont.com/dl/?f=chubbypoof'
     name 'Chubby Poof'
     homepage 'http://www.dafont.com/chubbypoof.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChubbyPoof.ttf'
 end

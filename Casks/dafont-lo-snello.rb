@@ -5,7 +5,6 @@ cask 'dafont-lo-snello' do
     url 'http://dl.dafont.com/dl/?f=lo_snello'
     name 'Lo Snello'
     homepage 'http://www.dafont.com/lo-snello.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LoSnello.ttf'
 end

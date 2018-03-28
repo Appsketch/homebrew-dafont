@@ -5,7 +5,6 @@ cask 'dafont-holo-jacket' do
     url 'http://dl.dafont.com/dl/?f=holo_jacket'
     name 'Holo-Jacket'
     homepage 'http://www.dafont.com/holo-jacket.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'holojacket.ttf'
     font 'holojacket3d.ttf'

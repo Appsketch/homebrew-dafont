@@ -5,7 +5,6 @@ cask 'dafont-bully-boys' do
     url 'http://dl.dafont.com/dl/?f=bully_boys'
     name 'Bully Boys'
     homepage 'http://www.dafont.com/bully-boys.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BULLYRG_.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-found-receipt' do
     url 'http://dl.dafont.com/dl/?f=found_receipt'
     name 'Found Receipt'
     homepage 'http://www.dafont.com/found-receipt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Found_receipt_demo.ttf'
 end

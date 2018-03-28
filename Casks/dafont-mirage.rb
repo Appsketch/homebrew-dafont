@@ -5,7 +5,6 @@ cask 'dafont-mirage' do
     url 'http://dl.dafont.com/dl/?f=mirage'
     name 'Mirage'
     homepage 'http://www.dafont.com/mirage.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MIRAI___.TTF'
     font 'MIRARG__.TTF'

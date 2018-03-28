@@ -5,7 +5,6 @@ cask 'dafont-astology-astrological-tfb' do
     url 'http://dl.dafont.com/dl/?f=astology_astrological_tfb'
     name 'Astology Astrological TFB'
     homepage 'http://www.dafont.com/astology-astrological-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ASTOLOGY ASTROLOGICAL TFB.ttf'
 end

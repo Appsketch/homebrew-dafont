@@ -5,7 +5,6 @@ cask 'dafont-kbexpansive' do
     url 'http://dl.dafont.com/dl/?f=kbexpansive'
     name 'KB Expansive'
     homepage 'http://www.dafont.com/kbexpansive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBExpansive.ttf'
 end

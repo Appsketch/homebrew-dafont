@@ -5,7 +5,6 @@ cask 'dafont-bodonitown' do
     url 'http://dl.dafont.com/dl/?f=bodonitown'
     name 'Bodonitown'
     homepage 'http://www.dafont.com/bodonitown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bodonitown.ttf'
 end

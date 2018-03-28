@@ -5,7 +5,6 @@ cask 'dafont-bitling-niks-musical' do
     url 'http://dl.dafont.com/dl/?f=bitling_niks_musical'
     name 'Bitling Niks Musical'
     homepage 'http://www.dafont.com/bitling-niks-musical.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bitlingniksmusical-Bold.ttf'
     font 'Bitlingniksmusical-BoldItal.ttf'

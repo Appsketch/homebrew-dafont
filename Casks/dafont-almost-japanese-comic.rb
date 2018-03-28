@@ -5,7 +5,6 @@ cask 'dafont-almost-japanese-comic' do
     url 'http://dl.dafont.com/dl/?f=almost_japanese_comic'
     name 'Almost Japanese Comic'
     homepage 'http://www.dafont.com/almost-japanese-comic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Almost Japanese Comic.ttf'
 end

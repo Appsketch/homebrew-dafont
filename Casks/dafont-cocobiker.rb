@@ -5,7 +5,6 @@ cask 'dafont-cocobiker' do
     url 'http://dl.dafont.com/dl/?f=cocobiker'
     name 'CocoBiker'
     homepage 'http://www.dafont.com/cocobiker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CocoBiker Regular Trial.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wieynk-caps-round' do
     url 'http://dl.dafont.com/dl/?f=wieynk_caps_round'
     name 'Wieynk Caps Round'
     homepage 'http://www.dafont.com/wieynk-caps-round.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WieynkCapsRound.ttf'
 end

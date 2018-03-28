@@ -5,7 +5,6 @@ cask 'dafont-krishart' do
     url 'http://dl.dafont.com/dl/?f=krishart'
     name 'Krishart'
     homepage 'http://www.dafont.com/krishart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KRISHART.TTF'
 end

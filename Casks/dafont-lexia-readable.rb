@@ -5,7 +5,6 @@ cask 'dafont-lexia-readable' do
     url 'http://dl.dafont.com/dl/?f=lexia_readable'
     name 'Lexie Readable'
     homepage 'http://www.dafont.com/lexia-readable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LexieReadable-Bold.ttf'
     font 'LexieReadable-Regular.ttf'

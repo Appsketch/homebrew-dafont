@@ -5,7 +5,6 @@ cask 'dafont-gabrielle-weknow' do
     url 'http://dl.dafont.com/dl/?f=gabrielle_weknow'
     name 'Gabrielle'
     homepage 'http://www.dafont.com/gabrielle-weknow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gabrielle.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-metal-as-in-heavy' do
     url 'http://dl.dafont.com/dl/?f=metal_as_in_heavy'
     name 'Metal as in heavy'
     homepage 'http://www.dafont.com/metal-as-in-heavy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Metah___.TTF'
 end

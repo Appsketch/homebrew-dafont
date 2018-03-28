@@ -5,7 +5,6 @@ cask 'dafont-sapphiresativa' do
     url 'http://dl.dafont.com/dl/?f=sapphiresativa'
     name 'Sapphire Sativa'
     homepage 'http://www.dafont.com/sapphiresativa.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SapphireSativa.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dcc-bushido' do
     url 'http://dl.dafont.com/dl/?f=dcc_bushido'
     name 'DCC Bushido'
     homepage 'http://www.dafont.com/dcc-bushido.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DCC - Bushido.ttf'
 end

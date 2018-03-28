@@ -5,7 +5,6 @@ cask 'dafont-sincity' do
     url 'http://dl.dafont.com/dl/?f=sincity'
     name 'Sin City'
     homepage 'http://www.dafont.com/sincity.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SinCity.ttf'
 end

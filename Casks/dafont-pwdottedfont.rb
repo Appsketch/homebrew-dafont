@@ -5,7 +5,6 @@ cask 'dafont-pwdottedfont' do
     url 'http://dl.dafont.com/dl/?f=pwdottedfont'
     name 'PW Dotted Font'
     homepage 'http://www.dafont.com/pwdottedfont.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWDottedFont.ttf'
 end

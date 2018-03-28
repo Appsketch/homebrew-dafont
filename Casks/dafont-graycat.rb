@@ -5,7 +5,6 @@ cask 'dafont-graycat' do
     url 'http://dl.dafont.com/dl/?f=graycat'
     name 'GrayCat'
     homepage 'http://www.dafont.com/graycat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'graycat.ttf'
 end

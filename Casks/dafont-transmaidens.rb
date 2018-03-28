@@ -5,7 +5,6 @@ cask 'dafont-transmaidens' do
     url 'http://dl.dafont.com/dl/?f=transmaidens'
     name 'Transmaidens'
     homepage 'http://www.dafont.com/transmaidens.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Transmaidens Italic.otf'
     font 'Transmaidens.otf'

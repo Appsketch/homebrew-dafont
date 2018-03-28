@@ -5,7 +5,6 @@ cask 'dafont-morning-stress' do
     url 'http://dl.dafont.com/dl/?f=morning_stress'
     name 'Morning Stress'
     homepage 'http://www.dafont.com/morning-stress.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MorningStress-Regular.ttf'
 end

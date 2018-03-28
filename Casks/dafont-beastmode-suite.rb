@@ -5,7 +5,6 @@ cask 'dafont-beastmode-suite' do
     url 'http://dl.dafont.com/dl/?f=beastmode_suite'
     name 'Beast Mode Suite'
     homepage 'http://www.dafont.com/beastmode-suite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BeastMode-Bold.ttf'
     font 'BeastMode-BoldItalic.ttf'

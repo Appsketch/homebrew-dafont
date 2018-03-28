@@ -5,7 +5,6 @@ cask 'dafont-highlander-movie' do
     url 'http://dl.dafont.com/dl/?f=highlander_movie'
     name 'Highlander'
     homepage 'http://www.dafont.com/highlander-movie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Highlander.ttf'
 end

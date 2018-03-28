@@ -5,7 +5,6 @@ cask 'dafont-kawung-textile' do
     url 'http://dl.dafont.com/dl/?f=kawung_textile'
     name 'Kawung Textile'
     homepage 'http://www.dafont.com/kawung-textile.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kawung_textile.ttf'
 end

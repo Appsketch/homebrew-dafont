@@ -5,7 +5,6 @@ cask 'dafont-kaum-keras-kepala' do
     url 'http://dl.dafont.com/dl/?f=kaum_keras_kepala'
     name 'Kaum Keras Kepala'
     homepage 'http://www.dafont.com/kaum-keras-kepala.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kaum keras kepala.ttf'
 end

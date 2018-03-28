@@ -5,7 +5,6 @@ cask 'dafont-matt-serif' do
     url 'http://dl.dafont.com/dl/?f=matt_serif'
     name 'Matt Serif'
     homepage 'http://www.dafont.com/matt-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MattSerif.ttf'
 end

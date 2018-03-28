@@ -5,7 +5,6 @@ cask 'dafont-glitzstick' do
     url 'http://dl.dafont.com/dl/?f=glitzstick'
     name 'Glitzstick'
     homepage 'http://www.dafont.com/glitzstick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Glitzstick.ttf'
 end

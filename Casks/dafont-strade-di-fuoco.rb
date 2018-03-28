@@ -5,7 +5,6 @@ cask 'dafont-strade-di-fuoco' do
     url 'http://dl.dafont.com/dl/?f=strade_di_fuoco'
     name 'Strade di Fuoco'
     homepage 'http://www.dafont.com/strade-di-fuoco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Strade di Fuoco.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-shredded' do
     url 'http://dl.dafont.com/dl/?f=shredded'
     name 'Shredded'
     homepage 'http://www.dafont.com/shredded.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'shredded.ttf'
 end

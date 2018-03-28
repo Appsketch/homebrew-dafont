@@ -5,7 +5,6 @@ cask 'dafont-wobbly-bob' do
     url 'http://dl.dafont.com/dl/?f=wobbly_bob'
     name 'Wobbly Bob'
     homepage 'http://www.dafont.com/wobbly-bob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wobbly Bob Outlines.ttf'
     font 'Wobbly Bob.ttf'

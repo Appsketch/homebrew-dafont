@@ -5,7 +5,6 @@ cask 'dafont-dubbingstar' do
     url 'http://dl.dafont.com/dl/?f=dubbingstar'
     name 'DubbingStar'
     homepage 'http://www.dafont.com/dubbingstar.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dubbingstar.ttf'
 end

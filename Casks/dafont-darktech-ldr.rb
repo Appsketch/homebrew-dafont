@@ -5,7 +5,6 @@ cask 'dafont-darktech-ldr' do
     url 'http://dl.dafont.com/dl/?f=darktech_ldr'
     name 'Darktech LDR'
     homepage 'http://www.dafont.com/darktech-ldr.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'darktech_ldr.ttf'
 end

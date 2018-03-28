@@ -5,7 +5,6 @@ cask 'dafont-stefanie-dots' do
     url 'http://dl.dafont.com/dl/?f=stefanie_dots'
     name 'Stefanie Dots'
     homepage 'http://www.dafont.com/stefanie-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stefanie Dots.ttf'
 end

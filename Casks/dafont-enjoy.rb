@@ -5,7 +5,6 @@ cask 'dafont-enjoy' do
     url 'http://dl.dafont.com/dl/?f=enjoy'
     name 'Enjoy'
     homepage 'http://www.dafont.com/enjoy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Enjoy.ttf'
 end

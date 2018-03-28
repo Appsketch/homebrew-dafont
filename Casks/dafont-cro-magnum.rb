@@ -5,7 +5,6 @@ cask 'dafont-cro-magnum' do
     url 'http://dl.dafont.com/dl/?f=cro_magnum'
     name 'Cro-Magnum'
     homepage 'http://www.dafont.com/cro-magnum.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'cro.ttf'
     font 'croc.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-showmen' do
     url 'http://dl.dafont.com/dl/?f=showmen'
     name 'Showmen'
     homepage 'http://www.dafont.com/showmen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Showmen.ttf'
 end

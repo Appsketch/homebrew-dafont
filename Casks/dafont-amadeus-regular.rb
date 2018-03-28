@@ -5,7 +5,6 @@ cask 'dafont-amadeus-regular' do
     url 'http://dl.dafont.com/dl/?f=amadeus_regular'
     name 'Amadeus'
     homepage 'http://www.dafont.com/amadeus-regular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amadeus Regular.ttf'
 end

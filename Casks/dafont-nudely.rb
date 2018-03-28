@@ -5,7 +5,6 @@ cask 'dafont-nudely' do
     url 'http://dl.dafont.com/dl/?f=nudely'
     name 'Nudely One'
     homepage 'http://www.dafont.com/nudely.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nudely Regular One Demo Version.otf'
 end

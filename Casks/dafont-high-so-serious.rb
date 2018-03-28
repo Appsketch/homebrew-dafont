@@ -5,7 +5,6 @@ cask 'dafont-high-so-serious' do
     url 'http://dl.dafont.com/dl/?f=high_so_serious'
     name 'High So Serious'
     homepage 'http://www.dafont.com/high-so-serious.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'High So Serious.ttf'
 end

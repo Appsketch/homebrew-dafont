@@ -5,7 +5,6 @@ cask 'dafont-robalek' do
     url 'http://dl.dafont.com/dl/?f=robalek'
     name 'Robalek'
     homepage 'http://www.dafont.com/robalek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'robalek.ttf'
 end

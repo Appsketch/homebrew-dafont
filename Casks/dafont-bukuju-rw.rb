@@ -5,7 +5,6 @@ cask 'dafont-bukuju-rw' do
     url 'http://dl.dafont.com/dl/?f=bukuju_rw'
     name 'Bukuju RW'
     homepage 'http://www.dafont.com/bukuju-rw.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bukuju RW update.ttf'
 end

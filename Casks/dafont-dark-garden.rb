@@ -5,7 +5,6 @@ cask 'dafont-dark-garden' do
     url 'http://dl.dafont.com/dl/?f=dark_garden'
     name 'Dark Garden'
     homepage 'http://www.dafont.com/dark-garden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DarkGardenMK.ttf'
 end

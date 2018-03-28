@@ -5,7 +5,6 @@ cask 'dafont-mixfickle' do
     url 'http://dl.dafont.com/dl/?f=mixfickle'
     name 'Mix Fickle'
     homepage 'http://www.dafont.com/mixfickle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MixFickle.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pomerole' do
     url 'http://dl.dafont.com/dl/?f=pomerole'
     name 'Pomerole'
     homepage 'http://www.dafont.com/pomerole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'POMEROLE LIGHT.ttf'
     font 'POMEROLE.ttf'

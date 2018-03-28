@@ -5,7 +5,6 @@ cask 'dafont-jugendstil-ornament' do
     url 'http://dl.dafont.com/dl/?f=jugendstil_ornament'
     name 'Jugendstil Ornamente'
     homepage 'http://www.dafont.com/jugendstil-ornament.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JugendstilOrnamente.ttf'
 end

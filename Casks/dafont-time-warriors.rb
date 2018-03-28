@@ -5,7 +5,6 @@ cask 'dafont-time-warriors' do
     url 'http://dl.dafont.com/dl/?f=time_warriors'
     name 'Time Warriors'
     homepage 'http://www.dafont.com/time-warriors.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'timewarriors.ttf'
 end

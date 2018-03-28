@@ -5,7 +5,6 @@ cask 'dafont-optimusprinceps' do
     url 'http://dl.dafont.com/dl/?f=optimusprinceps'
     name 'Optimus Princeps'
     homepage 'http://www.dafont.com/optimusprinceps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'OptimusPrinceps.ttf'
     font 'OptimusPrincepsSemiBold.ttf'

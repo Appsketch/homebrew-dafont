@@ -5,7 +5,6 @@ cask 'dafont-energon' do
     url 'http://dl.dafont.com/dl/?f=energon'
     name 'Energon'
     homepage 'http://www.dafont.com/energon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Energon Condensed Italic.otf'
     font 'Energon Condensed.otf'

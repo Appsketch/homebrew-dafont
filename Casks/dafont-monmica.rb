@@ -5,7 +5,6 @@ cask 'dafont-monmica' do
     url 'http://dl.dafont.com/dl/?f=monmica'
     name 'Monmica'
     homepage 'http://www.dafont.com/monmica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'monmica demo.otf'
 end

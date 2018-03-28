@@ -5,7 +5,6 @@ cask 'dafont-windy-day' do
     url 'http://dl.dafont.com/dl/?f=windy_day'
     name 'Windy Day'
     homepage 'http://www.dafont.com/windy-day.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Windy Day.ttf'
 end

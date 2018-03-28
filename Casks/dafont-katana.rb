@@ -5,7 +5,6 @@ cask 'dafont-katana' do
     url 'http://dl.dafont.com/dl/?f=katana'
     name 'Katana'
     homepage 'http://www.dafont.com/katana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Katanf.ttf'
     font 'Katanfi.ttf'

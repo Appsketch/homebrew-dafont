@@ -5,7 +5,6 @@ cask 'dafont-famous-spaceships' do
     url 'http://dl.dafont.com/dl/?f=famous_spaceships'
     name 'Famous Spaceships'
     homepage 'http://www.dafont.com/famous-spaceships.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'famous_ships.ttf'
 end

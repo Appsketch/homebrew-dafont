@@ -5,7 +5,6 @@ cask 'dafont-nallo' do
     url 'http://dl.dafont.com/dl/?f=nallo'
     name 'Nallo'
     homepage 'http://www.dafont.com/nallo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nallo.ttf'
 end

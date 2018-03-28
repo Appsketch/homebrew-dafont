@@ -5,7 +5,6 @@ cask 'dafont-frankendork' do
     url 'http://dl.dafont.com/dl/?f=frankendork'
     name 'FrankenDork'
     homepage 'http://www.dafont.com/frankendork.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FrankenDork Hollow.ttf'
     font 'FrankenDork Tall.ttf'

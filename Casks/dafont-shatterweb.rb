@@ -5,7 +5,6 @@ cask 'dafont-shatterweb' do
     url 'http://dl.dafont.com/dl/?f=shatterweb'
     name 'Shatter Web'
     homepage 'http://www.dafont.com/shatterweb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ShatterWeb.ttf'
 end

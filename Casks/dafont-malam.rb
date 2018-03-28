@@ -5,7 +5,6 @@ cask 'dafont-malam' do
     url 'http://dl.dafont.com/dl/?f=malam'
     name 'Malam'
     homepage 'http://www.dafont.com/malam.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'malam.ttf'
 end

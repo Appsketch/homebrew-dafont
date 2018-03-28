@@ -5,7 +5,6 @@ cask 'dafont-fairbanks' do
     url 'http://dl.dafont.com/dl/?f=fairbanks'
     name 'Fair Banks'
     homepage 'http://www.dafont.com/fairbanks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FairBanks.ttf'
 end

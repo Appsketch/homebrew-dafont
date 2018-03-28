@@ -5,7 +5,6 @@ cask 'dafont-modern-lcd-7' do
     url 'http://dl.dafont.com/dl/?f=modern_lcd_7'
     name 'Modern LCD-7'
     homepage 'http://www.dafont.com/modern-lcd-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'modern_lcd-7.ttf'
 end

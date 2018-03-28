@@ -5,7 +5,6 @@ cask 'dafont-isl-jupiter' do
     url 'http://dl.dafont.com/dl/?f=isl_jupiter'
     name 'ISL Jupiter'
     homepage 'http://www.dafont.com/isl-jupiter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jupiter.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-52sphereoids' do
     url 'http://dl.dafont.com/dl/?f=52sphereoids'
     name '52 Sphereoids'
     homepage 'http://www.dafont.com/52sphereoids.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '52SPHERE.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yummycupcakes' do
     url 'http://dl.dafont.com/dl/?f=yummycupcakes'
     name 'Yummy Cupcakes'
     homepage 'http://www.dafont.com/yummycupcakes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YummyCupcakes.ttf'
 end

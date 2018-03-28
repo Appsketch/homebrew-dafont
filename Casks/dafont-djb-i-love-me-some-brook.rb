@@ -5,7 +5,6 @@ cask 'dafont-djb-i-love-me-some-brook' do
     url 'http://dl.dafont.com/dl/?f=djb_i_love_me_some_brook'
     name 'DJB I Love Me Some Brook'
     homepage 'http://www.dafont.com/djb-i-love-me-some-brook.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB I Love Me Some Brook.ttf'
 end

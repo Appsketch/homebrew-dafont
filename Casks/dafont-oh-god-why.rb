@@ -5,7 +5,6 @@ cask 'dafont-oh-god-why' do
     url 'http://dl.dafont.com/dl/?f=oh_god_why'
     name 'Oh God Why'
     homepage 'http://www.dafont.com/oh-god-why.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oh God Why.otf'
 end

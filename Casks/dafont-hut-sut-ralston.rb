@@ -5,7 +5,6 @@ cask 'dafont-hut-sut-ralston' do
     url 'http://dl.dafont.com/dl/?f=hut_sut_ralston'
     name 'Hut Sut Ralston'
     homepage 'http://www.dafont.com/hut-sut-ralston.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HUTSR___.TTF'
 end

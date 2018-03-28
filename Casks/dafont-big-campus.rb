@@ -5,7 +5,6 @@ cask 'dafont-big-campus' do
     url 'http://dl.dafont.com/dl/?f=big_campus'
     name 'Big Campus'
     homepage 'http://www.dafont.com/big-campus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Big Campus Bold.ttf'
     font 'Big Campus.ttf'

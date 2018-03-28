@@ -5,7 +5,6 @@ cask 'dafont-bebas-kai' do
     url 'http://dl.dafont.com/dl/?f=bebas_kai'
     name 'Bebas Kai'
     homepage 'http://www.dafont.com/bebas-kai.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BebasKai-Regular.otf'
 end

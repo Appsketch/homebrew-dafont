@@ -5,7 +5,6 @@ cask 'dafont-minya-nouvelle' do
     url 'http://dl.dafont.com/dl/?f=minya_nouvelle'
     name 'Minya Nouvelle'
     homepage 'http://www.dafont.com/minya-nouvelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'minya nouvelle bd it.ttf'
     font 'minya nouvelle bd.ttf'

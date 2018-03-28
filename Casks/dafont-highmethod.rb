@@ -5,7 +5,6 @@ cask 'dafont-highmethod' do
     url 'http://dl.dafont.com/dl/?f=highmethod'
     name 'HighMethod'
     homepage 'http://www.dafont.com/highmethod.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HighMethod.ttf'
 end

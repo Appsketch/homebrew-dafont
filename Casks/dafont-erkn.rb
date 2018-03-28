@@ -5,7 +5,6 @@ cask 'dafont-erkn' do
     url 'http://dl.dafont.com/dl/?f=erkn'
     name 'ERKN'
     homepage 'http://www.dafont.com/erkn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'erkntitlefont_v2.ttf'
 end

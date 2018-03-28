@@ -5,7 +5,6 @@ cask 'dafont-crackvetica' do
     url 'http://dl.dafont.com/dl/?f=crackvetica'
     name 'Crackvetica'
     homepage 'http://www.dafont.com/crackvetica.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Crackvetica.ttf'
 end

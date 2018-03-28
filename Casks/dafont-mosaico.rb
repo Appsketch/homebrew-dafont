@@ -5,7 +5,6 @@ cask 'dafont-mosaico' do
     url 'http://dl.dafont.com/dl/?f=mosaico'
     name 'Mosaico'
     homepage 'http://www.dafont.com/mosaico.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MOSARG__.TTF'
     font 'MOSAS___.TTF'

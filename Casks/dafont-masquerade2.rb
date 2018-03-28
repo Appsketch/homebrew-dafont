@@ -5,7 +5,6 @@ cask 'dafont-masquerade2' do
     url 'http://dl.dafont.com/dl/?f=masquerade2'
     name 'Masquerade'
     homepage 'http://www.dafont.com/masquerade2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MASQUERADE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-speedy12' do
     url 'http://dl.dafont.com/dl/?f=speedy12'
     name 'Speedy 12'
     homepage 'http://www.dafont.com/speedy12.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Speedy 12.ttf'
 end

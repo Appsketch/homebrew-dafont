@@ -5,7 +5,6 @@ cask 'dafont-matter-of-fact' do
     url 'http://dl.dafont.com/dl/?f=matter_of_fact'
     name 'Matter Of Fact'
     homepage 'http://www.dafont.com/matter-of-fact.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Matte___.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-yass' do
     url 'http://dl.dafont.com/dl/?f=yass'
     name 'Yass'
     homepage 'http://www.dafont.com/yass.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yass.otf'
 end

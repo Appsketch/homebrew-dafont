@@ -5,7 +5,6 @@ cask 'dafont-dioszeghiensis' do
     url 'http://dl.dafont.com/dl/?f=dioszeghiensis'
     name 'Dioszeghiensis'
     homepage 'http://www.dafont.com/dioszeghiensis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dioszeghiensis.ttf'
 end

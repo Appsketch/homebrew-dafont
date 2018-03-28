@@ -5,7 +5,6 @@ cask 'dafont-elegantlight' do
     url 'http://dl.dafont.com/dl/?f=elegantlight'
     name 'Elegant Light'
     homepage 'http://www.dafont.com/elegantlight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Elegantlight.ttf'
 end

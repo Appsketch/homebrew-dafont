@@ -5,7 +5,6 @@ cask 'dafont-remponk' do
     url 'http://dl.dafont.com/dl/?f=remponk'
     name 'Remponk'
     homepage 'http://www.dafont.com/remponk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'REMPONK ITALIC.otf'
     font 'REMPONK.otf'

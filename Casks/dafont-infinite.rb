@@ -5,7 +5,6 @@ cask 'dafont-infinite' do
     url 'http://dl.dafont.com/dl/?f=infinite'
     name 'Infinite'
     homepage 'http://www.dafont.com/infinite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Infinite.ttf'
 end

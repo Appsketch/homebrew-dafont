@@ -5,7 +5,6 @@ cask 'dafont-pixel-azure-bonds' do
     url 'http://dl.dafont.com/dl/?f=pixel_azure_bonds'
     name 'Pixel Azure Bonds'
     homepage 'http://www.dafont.com/pixel-azure-bonds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pixel Azure Bonds.otf'
 end

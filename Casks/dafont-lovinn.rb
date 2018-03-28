@@ -5,7 +5,6 @@ cask 'dafont-lovinn' do
     url 'http://dl.dafont.com/dl/?f=lovinn'
     name 'Lovinn'
     homepage 'http://www.dafont.com/lovinn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lovinn.ttf'
 end

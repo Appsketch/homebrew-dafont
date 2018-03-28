@@ -5,7 +5,6 @@ cask 'dafont-nadall' do
     url 'http://dl.dafont.com/dl/?f=nadall'
     name 'Nadall'
     homepage 'http://www.dafont.com/nadall.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NADALL.TTF'
 end

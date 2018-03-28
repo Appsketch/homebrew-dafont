@@ -5,7 +5,6 @@ cask 'dafont-imweird' do
     url 'http://dl.dafont.com/dl/?f=imweird'
     name 'I&#039;m Weird'
     homepage 'http://www.dafont.com/imweird.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'i_mWeird.TTF'
 end

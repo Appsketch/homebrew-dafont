@@ -5,7 +5,6 @@ cask 'dafont-lasso-of-truth' do
     url 'http://dl.dafont.com/dl/?f=lasso_of_truth'
     name 'Lasso Of Truth'
     homepage 'http://www.dafont.com/lasso-of-truth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LassoOfTruth.ttf'
 end

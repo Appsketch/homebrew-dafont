@@ -5,7 +5,6 @@ cask 'dafont-gunner-storm' do
     url 'http://dl.dafont.com/dl/?f=gunner_storm'
     name 'Gunner Storm'
     homepage 'http://www.dafont.com/gunner-storm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gunnerstorm.ttf'
     font 'gunnerstorm3d.ttf'

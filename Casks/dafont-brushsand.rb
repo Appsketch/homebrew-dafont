@@ -5,7 +5,6 @@ cask 'dafont-brushsand' do
     url 'http://dl.dafont.com/dl/?f=brushsand'
     name 'BrushSand'
     homepage 'http://www.dafont.com/brushsand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BrushSand.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-circula' do
     url 'http://dl.dafont.com/dl/?f=circula'
     name 'Circula'
     homepage 'http://www.dafont.com/circula.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'circula-medium.otf'
 end

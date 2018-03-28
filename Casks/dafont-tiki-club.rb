@@ -5,7 +5,6 @@ cask 'dafont-tiki-club' do
     url 'http://dl.dafont.com/dl/?f=tiki_club'
     name 'Tiki Club'
     homepage 'http://www.dafont.com/tiki-club.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tiki Club.ttf'
 end

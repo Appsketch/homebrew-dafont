@@ -5,7 +5,6 @@ cask 'dafont-gorilla-bcn' do
     url 'http://dl.dafont.com/dl/?f=gorilla_bcn'
     name 'Gorilla BCN'
     homepage 'http://www.dafont.com/gorilla-bcn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gorilla BCN.ttf'
 end

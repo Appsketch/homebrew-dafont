@@ -5,7 +5,6 @@ cask 'dafont-pf-ronda-seven' do
     url 'http://dl.dafont.com/dl/?f=pf_ronda_seven'
     name 'PF Ronda Seven'
     homepage 'http://www.dafont.com/pf-ronda-seven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pf_ronda_seven_bold.ttf'
     font 'pf_ronda_seven.ttf'

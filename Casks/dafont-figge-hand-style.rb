@@ -5,7 +5,6 @@ cask 'dafont-figge-hand-style' do
     url 'http://dl.dafont.com/dl/?f=figge_hand_style'
     name 'Figge Hand Style'
     homepage 'http://www.dafont.com/figge-hand-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FiggeHandStyle.ttf'
 end

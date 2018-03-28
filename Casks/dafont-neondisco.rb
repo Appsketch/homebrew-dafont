@@ -5,7 +5,6 @@ cask 'dafont-neondisco' do
     url 'http://dl.dafont.com/dl/?f=neondisco'
     name 'Neon Disco'
     homepage 'http://www.dafont.com/neondisco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NeonDisco.ttf'
 end

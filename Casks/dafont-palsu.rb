@@ -5,7 +5,6 @@ cask 'dafont-palsu' do
     url 'http://dl.dafont.com/dl/?f=palsu'
     name 'Palsu'
     homepage 'http://www.dafont.com/palsu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PALSU___.TTF'
 end

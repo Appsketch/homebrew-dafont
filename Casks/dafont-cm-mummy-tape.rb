@@ -5,7 +5,6 @@ cask 'dafont-cm-mummy-tape' do
     url 'http://dl.dafont.com/dl/?f=cm_mummy_tape'
     name 'CM Mummy Tape'
     homepage 'http://www.dafont.com/cm-mummy-tape.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CM Mummy Tape.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pinstripe-bitmap' do
     url 'http://dl.dafont.com/dl/?f=pinstripe_bitmap'
     name 'Pinstripe Bitmap'
     homepage 'http://www.dafont.com/pinstripe-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pinstripe-Bitmap.ttf'
 end

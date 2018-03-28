@@ -5,7 +5,6 @@ cask 'dafont-huntkey' do
     url 'http://dl.dafont.com/dl/?f=huntkey'
     name 'Huntkey'
     homepage 'http://www.dafont.com/huntkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Huntkey_Thin.ttf'
 end

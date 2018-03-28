@@ -5,7 +5,6 @@ cask 'dafont-russo-one' do
     url 'http://dl.dafont.com/dl/?f=russo_one'
     name 'Russo One'
     homepage 'http://www.dafont.com/russo-one.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Russo_One.ttf'
 end

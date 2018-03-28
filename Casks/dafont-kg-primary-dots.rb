@@ -5,7 +5,6 @@ cask 'dafont-kg-primary-dots' do
     url 'http://dl.dafont.com/dl/?f=kg_primary_dots'
     name 'KG Primary Dots'
     homepage 'http://www.dafont.com/kg-primary-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGPrimaryDots.ttf'
     font 'KGPrimaryDotsLined.ttf'

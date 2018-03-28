@@ -5,7 +5,6 @@ cask 'dafont-tristram' do
     url 'http://dl.dafont.com/dl/?f=tristram'
     name 'Tristram'
     homepage 'http://www.dafont.com/tristram.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tristram2.ttf'
     font 'tristramb2.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-boomerang-monkey' do
     url 'http://dl.dafont.com/dl/?f=boomerang_monkey'
     name 'Boomerang Monkey'
     homepage 'http://www.dafont.com/boomerang-monkey.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'deluxe.ttf'
     font 'MONKEY.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-kabbe' do
     url 'http://dl.dafont.com/dl/?f=kabbe'
     name 'Kabbe'
     homepage 'http://www.dafont.com/kabbe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KABBE.ttf'
 end

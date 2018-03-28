@@ -5,7 +5,6 @@ cask 'dafont-iphis' do
     url 'http://dl.dafont.com/dl/?f=iphis'
     name 'Iphis'
     homepage 'http://www.dafont.com/iphis.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Iphis.ttf'
 end

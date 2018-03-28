@@ -5,7 +5,6 @@ cask 'dafont-mangui-type' do
     url 'http://dl.dafont.com/dl/?f=mangui_type'
     name 'Mangui-Type'
     homepage 'http://www.dafont.com/mangui-type.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mangui-type.ttf'
 end

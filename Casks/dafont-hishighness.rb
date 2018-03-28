@@ -5,7 +5,6 @@ cask 'dafont-hishighness' do
     url 'http://dl.dafont.com/dl/?f=hishighness'
     name 'His Highness'
     homepage 'http://www.dafont.com/hishighness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HisHighness.ttf'
 end

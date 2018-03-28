@@ -5,7 +5,6 @@ cask 'dafont-supercracks' do
     url 'http://dl.dafont.com/dl/?f=supercracks'
     name 'Super Cracks'
     homepage 'http://www.dafont.com/supercracks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SuperCracks.ttf'
 end

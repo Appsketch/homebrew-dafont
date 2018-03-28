@@ -5,7 +5,6 @@ cask 'dafont-yet-bumbler' do
     url 'http://dl.dafont.com/dl/?f=yet_bumbler'
     name 'Yet Bumbler'
     homepage 'http://www.dafont.com/yet-bumbler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YetBumbler.ttf'
     font 'YetBumblerAlias.ttf'

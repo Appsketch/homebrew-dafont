@@ -5,7 +5,6 @@ cask 'dafont-summers-lacehearts' do
     url 'http://dl.dafont.com/dl/?f=summers_lacehearts'
     name 'Summer&#039;s LaceHearts'
     homepage 'http://www.dafont.com/summers-lacehearts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Summers LaceHearts.ttf'
 end

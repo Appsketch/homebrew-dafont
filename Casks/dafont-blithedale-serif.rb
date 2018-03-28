@@ -5,7 +5,6 @@ cask 'dafont-blithedale-serif' do
     url 'http://dl.dafont.com/dl/?f=blithedale_serif'
     name 'Blithedale Serif'
     homepage 'http://www.dafont.com/blithedale-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BlithedaleSerif-Regular.otf'
 end

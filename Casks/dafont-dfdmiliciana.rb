@@ -5,7 +5,6 @@ cask 'dafont-dfdmiliciana' do
     url 'http://dl.dafont.com/dl/?f=dfdmiliciana'
     name 'dfdMiliciana'
     homepage 'http://www.dafont.com/dfdmiliciana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'dfdMiliciana.otf'
 end

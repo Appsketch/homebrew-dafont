@@ -5,7 +5,6 @@ cask 'dafont-vtks-classical-hit' do
     url 'http://dl.dafont.com/dl/?f=vtks_classical_hit'
     name 'Vtks Classical Hit'
     homepage 'http://www.dafont.com/vtks-classical-hit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Vtks Classical Hit.ttf'
 end

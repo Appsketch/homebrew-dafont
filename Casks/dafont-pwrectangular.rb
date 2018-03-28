@@ -5,7 +5,6 @@ cask 'dafont-pwrectangular' do
     url 'http://dl.dafont.com/dl/?f=pwrectangular'
     name 'PW Rectangular'
     homepage 'http://www.dafont.com/pwrectangular.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWRectangular.ttf'
 end

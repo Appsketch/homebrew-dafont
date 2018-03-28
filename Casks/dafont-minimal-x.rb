@@ -5,7 +5,6 @@ cask 'dafont-minimal-x' do
     url 'http://dl.dafont.com/dl/?f=minimal_x'
     name 'Minimal X'
     homepage 'http://www.dafont.com/minimal-x.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MinimalX-Regular.otf'
 end

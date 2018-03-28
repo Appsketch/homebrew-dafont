@@ -5,7 +5,6 @@ cask 'dafont-adolphus-serif' do
     url 'http://dl.dafont.com/dl/?f=adolphus_serif'
     name 'Adolphus Serif'
     homepage 'http://www.dafont.com/adolphus-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Adolphus Serif.ttf'
 end

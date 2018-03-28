@@ -5,7 +5,6 @@ cask 'dafont-metalevent' do
     url 'http://dl.dafont.com/dl/?f=metalevent'
     name 'Metal Event'
     homepage 'http://www.dafont.com/metalevent.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MetalEvent.ttf'
 end

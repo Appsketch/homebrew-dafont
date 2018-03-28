@@ -5,7 +5,6 @@ cask 'dafont-script-demolition' do
     url 'http://dl.dafont.com/dl/?f=script_demolition'
     name 'Script Demolition'
     homepage 'http://www.dafont.com/script-demolition.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Script Demolition.ttf'
 end

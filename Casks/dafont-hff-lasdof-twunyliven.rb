@@ -5,7 +5,6 @@ cask 'dafont-hff-lasdof-twunyliven' do
     url 'http://dl.dafont.com/dl/?f=hff_lasdof_twunyliven'
     name 'HFF Lasdof Twunyliven'
     homepage 'http://www.dafont.com/hff-lasdof-twunyliven.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HFF Lasdof Twunyliven.ttf'
 end

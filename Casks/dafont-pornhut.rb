@@ -5,7 +5,6 @@ cask 'dafont-pornhut' do
     url 'http://dl.dafont.com/dl/?f=pornhut'
     name 'Pornhut'
     homepage 'http://www.dafont.com/pornhut.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PORNHUT_.TTF'
 end

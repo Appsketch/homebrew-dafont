@@ -5,7 +5,6 @@ cask 'dafont-new-english' do
     url 'http://dl.dafont.com/dl/?f=new_english'
     name 'New English'
     homepage 'http://www.dafont.com/new-english.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'new_english.ttf'
 end

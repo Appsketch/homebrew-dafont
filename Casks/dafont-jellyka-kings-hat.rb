@@ -5,7 +5,6 @@ cask 'dafont-jellyka-kings-hat' do
     url 'http://dl.dafont.com/dl/?f=jellyka_kings_hat'
     name 'Jellyka King&#039;s Hat'
     homepage 'http://www.dafont.com/jellyka-kings-hat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JellykaKingsHat.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cf-final-conflict' do
     url 'http://dl.dafont.com/dl/?f=cf_final_conflict'
     name 'CF Final Conflict'
     homepage 'http://www.dafont.com/cf-final-conflict.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFFinalConflict-Regular.ttf'
 end

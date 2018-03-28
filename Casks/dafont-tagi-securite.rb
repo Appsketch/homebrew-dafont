@@ -5,7 +5,6 @@ cask 'dafont-tagi-securite' do
     url 'http://dl.dafont.com/dl/?f=tagi_securite'
     name 'Tagi Securite'
     homepage 'http://www.dafont.com/tagi-securite.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TagiSecuri__.ttf'
 end

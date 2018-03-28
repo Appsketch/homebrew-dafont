@@ -5,7 +5,6 @@ cask 'dafont-academykiller' do
     url 'http://dl.dafont.com/dl/?f=academykiller'
     name 'Academy Killer'
     homepage 'http://www.dafont.com/academykiller.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AcademyKiller.ttf'
 end

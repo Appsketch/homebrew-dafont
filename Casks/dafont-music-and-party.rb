@@ -5,7 +5,6 @@ cask 'dafont-music-and-party' do
     url 'http://dl.dafont.com/dl/?f=music_and_party'
     name 'Music and Party'
     homepage 'http://www.dafont.com/music-and-party.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Music and Party.ttf'
 end

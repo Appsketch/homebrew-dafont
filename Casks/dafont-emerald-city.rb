@@ -5,7 +5,6 @@ cask 'dafont-emerald-city' do
     url 'http://dl.dafont.com/dl/?f=emerald_city'
     name 'Emerald City'
     homepage 'http://www.dafont.com/emerald-city.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'emerald_city.ttf'
 end

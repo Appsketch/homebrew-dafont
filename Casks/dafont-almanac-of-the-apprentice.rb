@@ -5,7 +5,6 @@ cask 'dafont-almanac-of-the-apprentice' do
     url 'http://dl.dafont.com/dl/?f=almanac_of_the_apprentice'
     name 'Almanac of the Apprentice'
     homepage 'http://www.dafont.com/almanac-of-the-apprentice.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Almanac of the Apprentice.ttf'
 end

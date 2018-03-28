@@ -5,7 +5,6 @@ cask 'dafont-finger-maniac' do
     url 'http://dl.dafont.com/dl/?f=finger_maniac'
     name 'Finger Maniac'
     homepage 'http://www.dafont.com/finger-maniac.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Finger-Maniac.ttf'
 end

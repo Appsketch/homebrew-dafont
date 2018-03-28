@@ -5,7 +5,6 @@ cask 'dafont-dk-john-brown' do
     url 'http://dl.dafont.com/dl/?f=dk_john_brown'
     name 'DK John Brown'
     homepage 'http://www.dafont.com/dk-john-brown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DK John Brown.otf'
 end

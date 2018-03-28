@@ -5,7 +5,6 @@ cask 'dafont-lower-optic-fibercase' do
     url 'http://dl.dafont.com/dl/?f=lower_optic_fibercase'
     name 'Lower-Optic Fibercase'
     homepage 'http://www.dafont.com/lower-optic-fibercase.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lower-optic Fibercase.ttf'
 end

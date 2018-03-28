@@ -5,7 +5,6 @@ cask 'dafont-edmundsbury-serif' do
     url 'http://dl.dafont.com/dl/?f=edmundsbury_serif'
     name 'Edmundsbury Serif'
     homepage 'http://www.dafont.com/edmundsbury-serif.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Edmundsbury Serif.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-jek-5' do
     url 'http://dl.dafont.com/dl/?f=jek_5'
     name 'Jek 5'
     homepage 'http://www.dafont.com/jek-5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JEK5.otf'
 end

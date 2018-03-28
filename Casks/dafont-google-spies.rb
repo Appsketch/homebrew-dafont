@@ -5,7 +5,6 @@ cask 'dafont-google-spies' do
     url 'http://dl.dafont.com/dl/?f=google_spies'
     name 'Google spies'
     homepage 'http://www.dafont.com/google-spies.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Google-spies PERSONNAL USE ONLY.ttf'
 end

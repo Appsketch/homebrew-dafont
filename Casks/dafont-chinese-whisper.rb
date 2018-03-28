@@ -5,7 +5,6 @@ cask 'dafont-chinese-whisper' do
     url 'http://dl.dafont.com/dl/?f=chinese_whisper'
     name 'Chinese Whisper'
     homepage 'http://www.dafont.com/chinese-whisper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChineseWhisper.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-extravaganza' do
     url 'http://dl.dafont.com/dl/?f=extravaganza'
     name 'Extravaganza'
     homepage 'http://www.dafont.com/extravaganza.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'extravaganza-.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-apantasia-2' do
     url 'http://dl.dafont.com/dl/?f=apantasia_2'
     name 'Apantasia 2'
     homepage 'http://www.dafont.com/apantasia-2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'apa.ttf'
 end

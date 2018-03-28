@@ -5,7 +5,6 @@ cask 'dafont-nickainley' do
     url 'http://dl.dafont.com/dl/?f=nickainley'
     name 'Nickainley'
     homepage 'http://www.dafont.com/nickainley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nickainley.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-buffied' do
     url 'http://dl.dafont.com/dl/?f=buffied'
     name 'Buffied'
     homepage 'http://www.dafont.com/buffied.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BUFFIED_.TTF'
 end

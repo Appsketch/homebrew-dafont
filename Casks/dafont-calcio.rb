@@ -5,7 +5,6 @@ cask 'dafont-calcio' do
     url 'http://dl.dafont.com/dl/?f=calcio'
     name 'Calcio'
     homepage 'http://www.dafont.com/calcio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Calcio.ttf'
 end

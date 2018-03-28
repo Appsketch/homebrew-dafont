@@ -5,7 +5,6 @@ cask 'dafont-press-darling' do
     url 'http://dl.dafont.com/dl/?f=press_darling'
     name 'Press Darling'
     homepage 'http://www.dafont.com/press-darling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pressdarling.ttf'
     font 'pressdarlingbold.ttf'

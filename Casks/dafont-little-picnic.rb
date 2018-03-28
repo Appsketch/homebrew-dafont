@@ -5,7 +5,6 @@ cask 'dafont-little-picnic' do
     url 'http://dl.dafont.com/dl/?f=little_picnic'
     name 'Little Picnic'
     homepage 'http://www.dafont.com/little-picnic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Little Picnic.ttf'
 end

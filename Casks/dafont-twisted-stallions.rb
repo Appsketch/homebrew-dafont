@@ -5,7 +5,6 @@ cask 'dafont-twisted-stallions' do
     url 'http://dl.dafont.com/dl/?f=twisted_stallions'
     name 'Twisted Stallions'
     homepage 'http://www.dafont.com/twisted-stallions.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Twisted Stallions - Personal use Only -.ttf'
 end

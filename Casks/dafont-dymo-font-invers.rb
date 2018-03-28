@@ -5,7 +5,6 @@ cask 'dafont-dymo-font-invers' do
     url 'http://dl.dafont.com/dl/?f=dymo_font_invers'
     name 'Dymo Font Invers'
     homepage 'http://www.dafont.com/dymo-font-invers.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DymoFontInvers.ttf'
 end

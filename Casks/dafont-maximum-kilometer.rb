@@ -5,7 +5,6 @@ cask 'dafont-maximum-kilometer' do
     url 'http://dl.dafont.com/dl/?f=maximum_kilometer'
     name 'Maximum Kilometer'
     homepage 'http://www.dafont.com/maximum-kilometer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAXIMUM KILOMETER.ttf'
 end

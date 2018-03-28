@@ -5,7 +5,6 @@ cask 'dafont-chiefscare' do
     url 'http://dl.dafont.com/dl/?f=chiefscare'
     name 'Chief Scare'
     homepage 'http://www.dafont.com/chiefscare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChiefScare.ttf'
 end

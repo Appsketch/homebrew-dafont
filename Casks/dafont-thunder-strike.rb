@@ -5,7 +5,6 @@ cask 'dafont-thunder-strike' do
     url 'http://dl.dafont.com/dl/?f=thunder_strike'
     name 'Thunder Strike'
     homepage 'http://www.dafont.com/thunder-strike.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Thunder Strike.ttf'
 end

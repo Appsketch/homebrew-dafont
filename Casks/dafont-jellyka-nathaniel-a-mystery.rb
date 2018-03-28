@@ -5,7 +5,6 @@ cask 'dafont-jellyka-nathaniel-a-mystery' do
     url 'http://dl.dafont.com/dl/?f=jellyka_nathaniel_a_mystery'
     name 'Jellyka - Nathaniel a Mystery'
     homepage 'http://www.dafont.com/jellyka-nathaniel-a-mystery.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nathaniel.ttf'
 end

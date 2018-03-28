@@ -5,7 +5,6 @@ cask 'dafont-clynikal' do
     url 'http://dl.dafont.com/dl/?f=clynikal'
     name 'Clynikal'
     homepage 'http://www.dafont.com/clynikal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'clynikal(2).ttf'
 end

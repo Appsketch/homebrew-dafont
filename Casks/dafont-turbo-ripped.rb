@@ -5,7 +5,6 @@ cask 'dafont-turbo-ripped' do
     url 'http://dl.dafont.com/dl/?f=turbo_ripped'
     name 'Turbo Ripped'
     homepage 'http://www.dafont.com/turbo-ripped.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TURBO ripped.ttf'
 end

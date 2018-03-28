@@ -5,7 +5,6 @@ cask 'dafont-yikes' do
     url 'http://dl.dafont.com/dl/?f=yikes'
     name 'Yikes'
     homepage 'http://www.dafont.com/yikes.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'YIKES!__.TTF'
 end

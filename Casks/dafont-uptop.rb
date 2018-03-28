@@ -5,7 +5,6 @@ cask 'dafont-uptop' do
     url 'http://dl.dafont.com/dl/?f=uptop'
     name 'UpTop'
     homepage 'http://www.dafont.com/uptop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'upTOP.ttf'
 end

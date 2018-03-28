@@ -5,7 +5,6 @@ cask 'dafont-radius' do
     url 'http://dl.dafont.com/dl/?f=radius'
     name 'Radius'
     homepage 'http://www.dafont.com/radius.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'radius.ttf'
 end

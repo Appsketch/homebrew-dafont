@@ -5,7 +5,6 @@ cask 'dafont-emergency-exit' do
     url 'http://dl.dafont.com/dl/?f=emergency_exit'
     name 'Emergency Exit'
     homepage 'http://www.dafont.com/emergency-exit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'emergency_exit.ttf'
 end

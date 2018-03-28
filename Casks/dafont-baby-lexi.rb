@@ -5,7 +5,6 @@ cask 'dafont-baby-lexi' do
     url 'http://dl.dafont.com/dl/?f=baby_lexi'
     name 'Baby Lexi'
     homepage 'http://www.dafont.com/baby-lexi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Baby Lexi Skinny.ttf'
     font 'Baby Lexi.ttf'

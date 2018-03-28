@@ -5,7 +5,6 @@ cask 'dafont-sorenson' do
     url 'http://dl.dafont.com/dl/?f=sorenson'
     name 'Sorenson'
     homepage 'http://www.dafont.com/sorenson.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sorenson Italic.otf'
     font 'Sorenson.otf'

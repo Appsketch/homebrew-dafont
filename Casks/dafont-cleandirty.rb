@@ -5,7 +5,6 @@ cask 'dafont-cleandirty' do
     url 'http://dl.dafont.com/dl/?f=cleandirty'
     name 'Clean Dirty'
     homepage 'http://www.dafont.com/cleandirty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CleanDirty.ttf'
 end

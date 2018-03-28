@@ -5,7 +5,6 @@ cask 'dafont-zerocollege' do
     url 'http://dl.dafont.com/dl/?f=zerocollege'
     name 'Zero College'
     homepage 'http://www.dafont.com/zerocollege.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZeroCollege.ttf'
 end

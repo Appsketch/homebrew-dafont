@@ -5,7 +5,6 @@ cask 'dafont-janda-shine-your-light-on-us' do
     url 'http://dl.dafont.com/dl/?f=janda_shine_your_light_on_us'
     name 'Janda Shine Your Light On Us'
     homepage 'http://www.dafont.com/janda-shine-your-light-on-us.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JandaShineYourLightonUs.ttf'
 end

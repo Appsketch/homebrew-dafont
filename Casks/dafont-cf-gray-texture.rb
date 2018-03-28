@@ -5,7 +5,6 @@ cask 'dafont-cf-gray-texture' do
     url 'http://dl.dafont.com/dl/?f=cf_gray_texture'
     name 'CF Gray Texture'
     homepage 'http://www.dafont.com/cf-gray-texture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFGrayTexture-Regular.ttf'
 end

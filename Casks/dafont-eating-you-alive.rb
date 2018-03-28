@@ -5,7 +5,6 @@ cask 'dafont-eating-you-alive' do
     url 'http://dl.dafont.com/dl/?f=eating_you_alive'
     name 'Eating You Alive'
     homepage 'http://www.dafont.com/eating-you-alive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eating You Alive.ttf'
 end

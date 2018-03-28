@@ -5,7 +5,6 @@ cask 'dafont-zipper' do
     url 'http://dl.dafont.com/dl/?f=zipper'
     name 'Zipper'
     homepage 'http://www.dafont.com/zipper.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zipper.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-amarfil' do
     url 'http://dl.dafont.com/dl/?f=amarfil'
     name 'Amarfil'
     homepage 'http://www.dafont.com/amarfil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amarfil-Antiqua.ttf'
     font 'Amarfil.ttf'

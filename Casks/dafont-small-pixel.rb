@@ -5,7 +5,6 @@ cask 'dafont-small-pixel' do
     url 'http://dl.dafont.com/dl/?f=small_pixel'
     name 'Small Pixel'
     homepage 'http://www.dafont.com/small-pixel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'small_pixel.ttf'
 end

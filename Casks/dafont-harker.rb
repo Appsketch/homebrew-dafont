@@ -5,7 +5,6 @@ cask 'dafont-harker' do
     url 'http://dl.dafont.com/dl/?f=harker'
     name 'Harker'
     homepage 'http://www.dafont.com/harker.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Harker Bold Italic.otf'
     font 'Harker Bold.otf'

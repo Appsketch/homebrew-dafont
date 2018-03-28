@@ -5,7 +5,6 @@ cask 'dafont-flowerpower' do
     url 'http://dl.dafont.com/dl/?f=flowerpower'
     name 'Flower Power'
     homepage 'http://www.dafont.com/flowerpower.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Flower Power Bold.ttf'
     font 'Flower Power Hollow.ttf'

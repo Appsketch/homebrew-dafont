@@ -5,7 +5,6 @@ cask 'dafont-bogotana' do
     url 'http://dl.dafont.com/dl/?f=bogotana'
     name 'Bogotana'
     homepage 'http://www.dafont.com/bogotana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bogotana Bold-Italic.ttf'
     font 'Bogotana Bold.ttf'

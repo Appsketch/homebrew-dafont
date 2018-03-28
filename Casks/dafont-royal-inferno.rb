@@ -5,7 +5,6 @@ cask 'dafont-royal-inferno' do
     url 'http://dl.dafont.com/dl/?f=royal_inferno'
     name 'Royal Inferno'
     homepage 'http://www.dafont.com/royal-inferno.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Royal Inferno.ttf'
 end

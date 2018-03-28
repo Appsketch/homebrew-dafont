@@ -5,7 +5,6 @@ cask 'dafont-lady-copra' do
     url 'http://dl.dafont.com/dl/?f=lady_copra'
     name 'Lady Copra'
     homepage 'http://www.dafont.com/lady-copra.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LADYC___.ttf'
     font 'LADYCA__.ttf'

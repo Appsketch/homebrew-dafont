@@ -5,7 +5,6 @@ cask 'dafont-thuglovedt' do
     url 'http://dl.dafont.com/dl/?f=thuglovedt'
     name 'Thug Love DT'
     homepage 'http://www.dafont.com/thuglovedt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ThugLoveDT.ttf'
 end

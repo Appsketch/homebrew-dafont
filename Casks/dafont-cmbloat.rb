@@ -5,7 +5,6 @@ cask 'dafont-cmbloat' do
     url 'http://dl.dafont.com/dl/?f=cmbloat'
     name 'CM Bloat'
     homepage 'http://www.dafont.com/cmbloat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CMBloat.ttf'
 end

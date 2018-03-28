@@ -5,7 +5,6 @@ cask 'dafont-depressionist-1' do
     url 'http://dl.dafont.com/dl/?f=depressionist_1'
     name 'Depressionist 1'
     homepage 'http://www.dafont.com/depressionist-1.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'depress1__.ttf'
 end

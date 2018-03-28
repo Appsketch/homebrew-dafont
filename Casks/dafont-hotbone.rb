@@ -5,7 +5,6 @@ cask 'dafont-hotbone' do
     url 'http://dl.dafont.com/dl/?f=hotbone'
     name 'Hot Bone'
     homepage 'http://www.dafont.com/hotbone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HotBone.ttf'
 end

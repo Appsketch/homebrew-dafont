@@ -5,7 +5,6 @@ cask 'dafont-opus-mundi' do
     url 'http://dl.dafont.com/dl/?f=opus_mundi'
     name 'Opus Mundi'
     homepage 'http://www.dafont.com/opus-mundi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'opusmundi.ttf'
     font 'opusmundi3d.ttf'

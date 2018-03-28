@@ -5,7 +5,6 @@ cask 'dafont-pancakesplz' do
     url 'http://dl.dafont.com/dl/?f=pancakesplz'
     name 'Pancakes Plz'
     homepage 'http://www.dafont.com/pancakesplz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PancakesPlz.ttf'
 end

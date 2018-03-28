@@ -5,7 +5,6 @@ cask 'dafont-yagora' do
     url 'http://dl.dafont.com/dl/?f=yagora'
     name 'Yagora'
     homepage 'http://www.dafont.com/yagora.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Yagora.ttf'
 end

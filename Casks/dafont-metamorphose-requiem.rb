@@ -5,7 +5,6 @@ cask 'dafont-metamorphose-requiem' do
     url 'http://dl.dafont.com/dl/?f=metamorphose_requiem'
     name 'Metamorphose Requiem'
     homepage 'http://www.dafont.com/metamorphose-requiem.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Metamorphose Requiem.ttf'
 end

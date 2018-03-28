@@ -5,7 +5,6 @@ cask 'dafont-grilled-chicken' do
     url 'http://dl.dafont.com/dl/?f=grilled_chicken'
     name 'Grilled Chicken'
     homepage 'http://www.dafont.com/grilled-chicken.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GrilledChicken.ttf'
 end

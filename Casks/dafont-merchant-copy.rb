@@ -5,7 +5,6 @@ cask 'dafont-merchant-copy' do
     url 'http://dl.dafont.com/dl/?f=merchant_copy'
     name 'Merchant Copy'
     homepage 'http://www.dafont.com/merchant-copy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Merchant Copy Doublesize.ttf'
     font 'Merchant Copy Wide.ttf'

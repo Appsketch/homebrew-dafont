@@ -5,7 +5,6 @@ cask 'dafont-pwtrombone' do
     url 'http://dl.dafont.com/dl/?f=pwtrombone'
     name 'PW Trombone'
     homepage 'http://www.dafont.com/pwtrombone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWTrombone.ttf'
 end

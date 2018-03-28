@@ -5,7 +5,6 @@ cask 'dafont-pwhachures' do
     url 'http://dl.dafont.com/dl/?f=pwhachures'
     name 'PW Hachures'
     homepage 'http://www.dafont.com/pwhachures.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWHachures.ttf'
 end

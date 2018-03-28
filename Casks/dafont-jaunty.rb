@@ -5,7 +5,6 @@ cask 'dafont-jaunty' do
     url 'http://dl.dafont.com/dl/?f=jaunty'
     name 'Jaunty'
     homepage 'http://www.dafont.com/jaunty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jaunty.ttf'
 end

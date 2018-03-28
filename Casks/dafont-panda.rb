@@ -5,7 +5,6 @@ cask 'dafont-panda' do
     url 'http://dl.dafont.com/dl/?f=panda'
     name 'Panda'
     homepage 'http://www.dafont.com/panda.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PANDA___.TTF'
 end

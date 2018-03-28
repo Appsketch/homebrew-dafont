@@ -5,7 +5,6 @@ cask 'dafont-ji-burrito' do
     url 'http://dl.dafont.com/dl/?f=ji_burrito'
     name 'JI Burrito'
     homepage 'http://www.dafont.com/ji-burrito.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JI Burrito.ttf'
 end

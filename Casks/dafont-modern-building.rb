@@ -5,7 +5,6 @@ cask 'dafont-modern-building' do
     url 'http://dl.dafont.com/dl/?f=modern_building'
     name 'Modern Building'
     homepage 'http://www.dafont.com/modern-building.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Modern Building.ttf'
 end

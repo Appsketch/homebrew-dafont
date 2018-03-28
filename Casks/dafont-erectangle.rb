@@ -5,7 +5,6 @@ cask 'dafont-erectangle' do
     url 'http://dl.dafont.com/dl/?f=erectangle'
     name 'Erect Angle'
     homepage 'http://www.dafont.com/erectangle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ErectAngle.ttf'
 end

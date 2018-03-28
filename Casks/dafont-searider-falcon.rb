@@ -5,7 +5,6 @@ cask 'dafont-searider-falcon' do
     url 'http://dl.dafont.com/dl/?f=searider_falcon'
     name 'Searider Falcon'
     homepage 'http://www.dafont.com/searider-falcon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'seariderfalcon.ttf'
     font 'seariderfalcon3d.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-mad-pixels' do
     url 'http://dl.dafont.com/dl/?f=mad_pixels'
     name 'Mad Pixels'
     homepage 'http://www.dafont.com/mad-pixels.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mad Pixels.otf'
 end

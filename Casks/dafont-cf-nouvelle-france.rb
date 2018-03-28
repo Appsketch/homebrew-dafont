@@ -5,7 +5,6 @@ cask 'dafont-cf-nouvelle-france' do
     url 'http://dl.dafont.com/dl/?f=cf_nouvelle_france'
     name 'CF Nouvelle France'
     homepage 'http://www.dafont.com/cf-nouvelle-france.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFNouvelleFrance-Regular.ttf'
 end

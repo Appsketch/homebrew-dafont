@@ -5,7 +5,6 @@ cask 'dafont-indigo-unicor' do
     url 'http://dl.dafont.com/dl/?f=indigo_unicor'
     name 'Indigo Unicor'
     homepage 'http://www.dafont.com/indigo-unicor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Indigo Unicor.ttf'
 end

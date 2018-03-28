@@ -5,7 +5,6 @@ cask 'dafont-slotmachine' do
     url 'http://dl.dafont.com/dl/?f=slotmachine'
     name 'Slot Machine'
     homepage 'http://www.dafont.com/slotmachine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SlotMachine.ttf'
 end

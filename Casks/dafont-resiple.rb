@@ -5,7 +5,6 @@ cask 'dafont-resiple' do
     url 'http://dl.dafont.com/dl/?f=resiple'
     name 'ReSiple'
     homepage 'http://www.dafont.com/resiple.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RESIBO__.TTF'
     font 'RESIR___.TTF'

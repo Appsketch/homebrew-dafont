@@ -5,7 +5,6 @@ cask 'dafont-sealife' do
     url 'http://dl.dafont.com/dl/?f=sealife'
     name 'Sealife'
     homepage 'http://www.dafont.com/sealife.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Sealife.ttf'
 end

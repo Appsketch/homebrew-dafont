@@ -5,7 +5,6 @@ cask 'dafont-comic-note-smooth' do
     url 'http://dl.dafont.com/dl/?f=comic_note_smooth'
     name 'Comic Note Smooth'
     homepage 'http://www.dafont.com/comic-note-smooth.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ComicNoteSmooth.ttf'
 end

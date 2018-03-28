@@ -5,7 +5,6 @@ cask 'dafont-leonardo' do
     url 'http://dl.dafont.com/dl/?f=leonardo'
     name 'Leonardo'
     homepage 'http://www.dafont.com/leonardo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LEONARDO(LEVI).ttf'
 end

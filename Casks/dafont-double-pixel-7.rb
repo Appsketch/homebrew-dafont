@@ -5,7 +5,6 @@ cask 'dafont-double-pixel-7' do
     url 'http://dl.dafont.com/dl/?f=double_pixel_7'
     name 'Double Pixel-7'
     homepage 'http://www.dafont.com/double-pixel-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'double_pixel-7.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-clouds-mix' do
     url 'http://dl.dafont.com/dl/?f=clouds_mix'
     name 'Clouds Mix'
     homepage 'http://www.dafont.com/clouds-mix.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Clouds Mix.ttf'
 end

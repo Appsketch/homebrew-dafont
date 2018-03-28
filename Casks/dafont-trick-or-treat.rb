@@ -5,7 +5,6 @@ cask 'dafont-trick-or-treat' do
     url 'http://dl.dafont.com/dl/?f=trick_or_treat'
     name 'Trick or Treat'
     homepage 'http://www.dafont.com/trick-or-treat.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TRICTB__.TTF'
 end

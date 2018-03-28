@@ -5,7 +5,6 @@ cask 'dafont-puzzle-jly' do
     url 'http://dl.dafont.com/dl/?f=puzzle_jly'
     name 'Puzzle'
     homepage 'http://www.dafont.com/puzzle-jly.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Puzzle.ttf'
 end

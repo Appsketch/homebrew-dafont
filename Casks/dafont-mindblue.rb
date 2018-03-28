@@ -5,7 +5,6 @@ cask 'dafont-mindblue' do
     url 'http://dl.dafont.com/dl/?f=mindblue'
     name 'MindBlue'
     homepage 'http://www.dafont.com/mindblue.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MindBlue_bold_demo.otf'
     font 'MindBlue_bold_italic_demo.otf'

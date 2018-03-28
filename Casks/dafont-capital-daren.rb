@@ -5,7 +5,6 @@ cask 'dafont-capital-daren' do
     url 'http://dl.dafont.com/dl/?f=capital_daren'
     name 'Capital Daren'
     homepage 'http://www.dafont.com/capital-daren.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Capital Daren Italic.ttf'
     font 'Capital Daren Regular.ttf'

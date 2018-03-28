@@ -5,7 +5,6 @@ cask 'dafont-keep-calm' do
     url 'http://dl.dafont.com/dl/?f=keep_calm'
     name 'Keep Calm'
     homepage 'http://www.dafont.com/keep-calm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KeepCalm-Medium.ttf'
 end

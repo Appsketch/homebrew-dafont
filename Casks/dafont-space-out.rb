@@ -5,7 +5,6 @@ cask 'dafont-space-out' do
     url 'http://dl.dafont.com/dl/?f=space_out'
     name 'Space Out'
     homepage 'http://www.dafont.com/space-out.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SpaceOut.ttf'
     font 'SpaceOutOpen.ttf'

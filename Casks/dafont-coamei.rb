@@ -5,7 +5,6 @@ cask 'dafont-coamei' do
     url 'http://dl.dafont.com/dl/?f=coamei'
     name 'Coamei'
     homepage 'http://www.dafont.com/coamei.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COAMEI_B.ttf'
     font 'COAMEI_BI.ttf'

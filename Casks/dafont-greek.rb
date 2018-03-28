@@ -5,7 +5,6 @@ cask 'dafont-greek' do
     url 'http://dl.dafont.com/dl/?f=greek'
     name 'Greek'
     homepage 'http://www.dafont.com/greek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'greek.ttf'
 end

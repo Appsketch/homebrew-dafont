@@ -5,7 +5,6 @@ cask 'dafont-destroy-humans' do
     url 'http://dl.dafont.com/dl/?f=destroy_humans'
     name 'Destroy Humans'
     homepage 'http://www.dafont.com/destroy-humans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Destroy Humans.ttf'
 end

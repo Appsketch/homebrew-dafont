@@ -5,7 +5,6 @@ cask 'dafont-misplaced' do
     url 'http://dl.dafont.com/dl/?f=misplaced'
     name 'Misplaced'
     homepage 'http://www.dafont.com/misplaced.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MISPLACE.TTF'
 end

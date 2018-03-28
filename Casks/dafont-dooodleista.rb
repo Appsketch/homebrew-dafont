@@ -5,7 +5,6 @@ cask 'dafont-dooodleista' do
     url 'http://dl.dafont.com/dl/?f=dooodleista'
     name 'Dooodleista'
     homepage 'http://www.dafont.com/dooodleista.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dooodleista-condensed.ttf'
     font 'Dooodleista.ttf'

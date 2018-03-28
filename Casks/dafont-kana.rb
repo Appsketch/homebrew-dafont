@@ -5,7 +5,6 @@ cask 'dafont-kana' do
     url 'http://dl.dafont.com/dl/?f=kana'
     name 'Kana'
     homepage 'http://www.dafont.com/kana.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kana-Regular.ttf'
 end

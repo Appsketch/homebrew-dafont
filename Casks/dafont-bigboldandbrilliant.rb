@@ -5,7 +5,6 @@ cask 'dafont-bigboldandbrilliant' do
     url 'http://dl.dafont.com/dl/?f=bigboldandbrilliant'
     name 'Big Bold and Brilliant'
     homepage 'http://www.dafont.com/bigboldandbrilliant.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigBoldandBRILLIANT.ttf'
 end

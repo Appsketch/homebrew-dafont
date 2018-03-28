@@ -5,7 +5,6 @@ cask 'dafont-couture' do
     url 'http://dl.dafont.com/dl/?f=couture'
     name 'Couture'
     homepage 'http://www.dafont.com/couture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'couture-bld.otf'
     font 'couture-bldit.otf'

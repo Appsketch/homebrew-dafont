@@ -5,7 +5,6 @@ cask 'dafont-tommy-hilfiger' do
     url 'http://dl.dafont.com/dl/?f=tommy_hilfiger'
     name 'Tommy Hilfiger AF'
     homepage 'http://www.dafont.com/tommy-hilfiger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TOMMY___.TTF'
 end

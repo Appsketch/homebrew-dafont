@@ -5,7 +5,6 @@ cask 'dafont-hexa-akos' do
     url 'http://dl.dafont.com/dl/?f=hexa_akos'
     name 'Hexa'
     homepage 'http://www.dafont.com/hexa-akos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hexa.otf'
 end

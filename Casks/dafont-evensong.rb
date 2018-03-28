@@ -5,7 +5,6 @@ cask 'dafont-evensong' do
     url 'http://dl.dafont.com/dl/?f=evensong'
     name 'Evensong'
     homepage 'http://www.dafont.com/evensong.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'evensong hollow.ttf'
 end

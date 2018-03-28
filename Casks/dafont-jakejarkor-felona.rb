@@ -5,7 +5,6 @@ cask 'dafont-jakejarkor-felona' do
     url 'http://dl.dafont.com/dl/?f=jakejarkor_felona'
     name 'Felona'
     homepage 'http://www.dafont.com/jakejarkor-felona.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JAKEJARKOR - FELONA.ttf'
 end

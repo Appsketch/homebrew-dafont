@@ -5,7 +5,6 @@ cask 'dafont-zakwanoebit' do
     url 'http://dl.dafont.com/dl/?f=zakwanoebit'
     name 'Zakwan Oebit'
     homepage 'http://www.dafont.com/zakwanoebit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ZakwanOebit.ttf'
 end

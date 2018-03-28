@@ -5,7 +5,6 @@ cask 'dafont-djb-tagged-again' do
     url 'http://dl.dafont.com/dl/?f=djb_tagged_again'
     name 'DJB Tagged Again'
     homepage 'http://www.dafont.com/djb-tagged-again.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Tagged Again 2.ttf'
     font 'DJB Tagged Again.ttf'

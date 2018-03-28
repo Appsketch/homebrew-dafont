@@ -5,7 +5,6 @@ cask 'dafont-raslani-hip-hop' do
     url 'http://dl.dafont.com/dl/?f=raslani_hip_hop'
     name 'Raslani Hip Hop'
     homepage 'http://www.dafont.com/raslani-hip-hop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Raslani Hip Hop.ttf'
 end

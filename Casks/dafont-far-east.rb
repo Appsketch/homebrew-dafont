@@ -5,7 +5,6 @@ cask 'dafont-far-east' do
     url 'http://dl.dafont.com/dl/?f=far_east'
     name 'Far East'
     homepage 'http://www.dafont.com/far-east.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fareast.ttf'
 end

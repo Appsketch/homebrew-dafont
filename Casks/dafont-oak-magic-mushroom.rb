@@ -5,7 +5,6 @@ cask 'dafont-oak-magic-mushroom' do
     url 'http://dl.dafont.com/dl/?f=oak_magic_mushroom'
     name 'Oak Magic Mushroom'
     homepage 'http://www.dafont.com/oak-magic-mushroom.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Oak-MagicMushroom.ttf'
 end

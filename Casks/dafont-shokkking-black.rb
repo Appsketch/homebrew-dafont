@@ -5,7 +5,6 @@ cask 'dafont-shokkking-black' do
     url 'http://dl.dafont.com/dl/?f=shokkking_black'
     name 'Shokkking Black'
     homepage 'http://www.dafont.com/shokkking-black.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Shokkked.ttf'
 end

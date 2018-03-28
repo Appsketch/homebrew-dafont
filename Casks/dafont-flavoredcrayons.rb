@@ -5,7 +5,6 @@ cask 'dafont-flavoredcrayons' do
     url 'http://dl.dafont.com/dl/?f=flavoredcrayons'
     name 'Flavored Crayons'
     homepage 'http://www.dafont.com/flavoredcrayons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FlavoredCrayons.ttf'
 end

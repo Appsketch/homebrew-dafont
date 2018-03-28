@@ -5,7 +5,6 @@ cask 'dafont-aunty-lils-dots' do
     url 'http://dl.dafont.com/dl/?f=aunty_lils_dots'
     name 'Aunty Lils Dots'
     homepage 'http://www.dafont.com/aunty-lils-dots.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aunty Lils Dots.ttf'
 end

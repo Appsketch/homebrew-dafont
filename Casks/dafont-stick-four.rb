@@ -5,7 +5,6 @@ cask 'dafont-stick-four' do
     url 'http://dl.dafont.com/dl/?f=stick_four'
     name 'Stick Four'
     homepage 'http://www.dafont.com/stick-four.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stick four.ttf'
 end

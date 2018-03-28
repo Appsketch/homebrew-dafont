@@ -5,7 +5,6 @@ cask 'dafont-no-safety-zone' do
     url 'http://dl.dafont.com/dl/?f=no_safety_zone'
     name 'No Safety Zone'
     homepage 'http://www.dafont.com/no-safety-zone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'No Safety Zone.ttf'
 end

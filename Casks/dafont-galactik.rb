@@ -5,7 +5,6 @@ cask 'dafont-galactik' do
     url 'http://dl.dafont.com/dl/?f=galactik'
     name 'Galactik'
     homepage 'http://www.dafont.com/galactik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Galactik.otf'
 end
