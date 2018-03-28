@@ -5,7 +5,6 @@ cask 'dafont-pr-uncial-alt-caps' do
     url 'http://dl.dafont.com/dl/?f=pr_uncial_alt_caps'
     name 'PR Uncial Alt Caps'
     homepage 'http://www.dafont.com/pr-uncial-alt-caps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALTCAPEX.TTF'
     font 'ALTCAPS.TTF'

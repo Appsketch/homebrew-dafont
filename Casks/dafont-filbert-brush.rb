@@ -5,7 +5,6 @@ cask 'dafont-filbert-brush' do
     url 'http://dl.dafont.com/dl/?f=filbert_brush'
     name 'Filbert Brush'
     homepage 'http://www.dafont.com/filbert-brush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FilbertBrushCapsDemo.ttf'
     font 'FilbertBrushDemo.ttf'

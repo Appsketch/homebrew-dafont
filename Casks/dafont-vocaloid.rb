@@ -5,7 +5,6 @@ cask 'dafont-vocaloid' do
     url 'http://dl.dafont.com/dl/?f=vocaloid'
     name 'Vocaloid'
     homepage 'http://www.dafont.com/vocaloid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'VOC-IT.ttf'
     font 'VOC-RE.ttf'

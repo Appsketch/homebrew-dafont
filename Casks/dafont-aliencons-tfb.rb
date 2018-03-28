@@ -5,7 +5,6 @@ cask 'dafont-aliencons-tfb' do
     url 'http://dl.dafont.com/dl/?f=aliencons_tfb'
     name 'Aliencons TFB'
     homepage 'http://www.dafont.com/aliencons-tfb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Aliencons TFB.ttf'
 end

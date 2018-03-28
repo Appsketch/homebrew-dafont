@@ -5,7 +5,6 @@ cask 'dafont-kbpush' do
     url 'http://dl.dafont.com/dl/?f=kbpush'
     name 'KB Push'
     homepage 'http://www.dafont.com/kbpush.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KBPush.ttf'
 end

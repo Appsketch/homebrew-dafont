@@ -5,7 +5,6 @@ cask 'dafont-lauvik' do
     url 'http://dl.dafont.com/dl/?f=lauvik'
     name 'Lauvik'
     homepage 'http://www.dafont.com/lauvik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lauvik.ttf'
 end

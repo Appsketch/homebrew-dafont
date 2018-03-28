@@ -5,7 +5,6 @@ cask 'dafont-kara-kaboodle' do
     url 'http://dl.dafont.com/dl/?f=kara_kaboodle'
     name 'Kara kaboodle'
     homepage 'http://www.dafont.com/kara-kaboodle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kara Kaboodle.ttf'
 end

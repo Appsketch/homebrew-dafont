@@ -5,7 +5,6 @@ cask 'dafont-witzworx' do
     url 'http://dl.dafont.com/dl/?f=witzworx'
     name 'Witzworx'
     homepage 'http://www.dafont.com/witzworx.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WI.TTF'
 end

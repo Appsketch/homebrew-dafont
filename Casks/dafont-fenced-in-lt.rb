@@ -5,7 +5,6 @@ cask 'dafont-fenced-in-lt' do
     url 'http://dl.dafont.com/dl/?f=fenced_in_lt'
     name 'Fenced In LT'
     homepage 'http://www.dafont.com/fenced-in-lt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'fencedinLT.ttf'
 end

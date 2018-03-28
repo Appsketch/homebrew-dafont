@@ -5,7 +5,6 @@ cask 'dafont-kedit' do
     url 'http://dl.dafont.com/dl/?f=kedit'
     name 'Kedit'
     homepage 'http://www.dafont.com/kedit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KEDIT.fon'
 end

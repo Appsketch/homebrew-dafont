@@ -5,7 +5,6 @@ cask 'dafont-takemeawaybabe' do
     url 'http://dl.dafont.com/dl/?f=takemeawaybabe'
     name 'Take Me Away Babe'
     homepage 'http://www.dafont.com/takemeawaybabe.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TakeMeAwayBabe.ttf'
 end

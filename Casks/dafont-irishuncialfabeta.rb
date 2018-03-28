@@ -5,7 +5,6 @@ cask 'dafont-irishuncialfabeta' do
     url 'http://dl.dafont.com/dl/?f=irishuncialfabeta'
     name 'Irish Uncialfabeta'
     homepage 'http://www.dafont.com/irishuncialfabeta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IrishUncialfabeta-Bold.ttf'
 end

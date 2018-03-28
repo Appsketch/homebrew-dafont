@@ -5,7 +5,6 @@ cask 'dafont-icones-do-brasil' do
     url 'http://dl.dafont.com/dl/?f=icones_do_brasil'
     name 'Icones do Brasil'
     homepage 'http://www.dafont.com/icones-do-brasil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ICONB__.TTF'
 end

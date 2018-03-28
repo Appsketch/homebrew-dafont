@@ -5,7 +5,6 @@ cask 'dafont-docallisme-on-street' do
     url 'http://dl.dafont.com/dl/?f=docallisme_on_street'
     name 'Docallisme On Street'
     homepage 'http://www.dafont.com/docallisme-on-street.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DOCALLISME ON STREET.ttf'
 end

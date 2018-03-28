@@ -5,7 +5,6 @@ cask 'dafont-djb-tootsiewootsie' do
     url 'http://dl.dafont.com/dl/?f=djb_tootsiewootsie'
     name 'DJB Tootsie Wootsie'
     homepage 'http://www.dafont.com/djb-tootsiewootsie.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB TOOTSIEWOOTSIE.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-gravitate-brk' do
     url 'http://dl.dafont.com/dl/?f=gravitate_brk'
     name 'Gravitate BRK'
     homepage 'http://www.dafont.com/gravitate-brk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'graviseg.ttf'
     font 'gravitat.ttf'

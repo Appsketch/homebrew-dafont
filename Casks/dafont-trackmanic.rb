@@ -5,7 +5,6 @@ cask 'dafont-trackmanic' do
     url 'http://dl.dafont.com/dl/?f=trackmanic'
     name 'Track Manic'
     homepage 'http://www.dafont.com/trackmanic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TrackManic.ttf'
 end

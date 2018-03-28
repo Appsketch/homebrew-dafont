@@ -5,7 +5,6 @@ cask 'dafont-king-dubstepikz' do
     url 'http://dl.dafont.com/dl/?f=king_dubstepikz'
     name 'King Dubstepikz'
     homepage 'http://www.dafont.com/king-dubstepikz.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'King Dubstepikz Italic.otf'
     font 'King Dubstepikz.otf'

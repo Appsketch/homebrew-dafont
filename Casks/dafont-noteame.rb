@@ -5,7 +5,6 @@ cask 'dafont-noteame' do
     url 'http://dl.dafont.com/dl/?f=noteame'
     name 'Noteame'
     homepage 'http://www.dafont.com/noteame.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'noteame.ttf'
 end

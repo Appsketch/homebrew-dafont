@@ -5,7 +5,6 @@ cask 'dafont-arctik' do
     url 'http://dl.dafont.com/dl/?f=arctik'
     name 'Arctik'
     homepage 'http://www.dafont.com/arctik.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arctik .ttf Filesz/Arctik 1.5.ttf'
     font 'Arctik .ttf Filesz/Arctik 1.ttf'

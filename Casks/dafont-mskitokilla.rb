@@ -5,7 +5,6 @@ cask 'dafont-mskitokilla' do
     url 'http://dl.dafont.com/dl/?f=mskitokilla'
     name 'Mskitokilla'
     homepage 'http://www.dafont.com/mskitokilla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MSKIT TRIAL___.otf'
 end

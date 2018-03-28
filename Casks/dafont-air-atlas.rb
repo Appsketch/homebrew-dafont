@@ -5,7 +5,6 @@ cask 'dafont-air-atlas' do
     url 'http://dl.dafont.com/dl/?f=air_atlas'
     name 'Air Atlas'
     homepage 'http://www.dafont.com/air-atlas.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Air Atlas.ttf'
 end

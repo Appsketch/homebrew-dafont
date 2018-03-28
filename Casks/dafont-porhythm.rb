@@ -5,7 +5,6 @@ cask 'dafont-porhythm' do
     url 'http://dl.dafont.com/dl/?f=porhythm'
     name 'Porhythm'
     homepage 'http://www.dafont.com/porhythm.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Porythm.ttf'
 end

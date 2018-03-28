@@ -5,7 +5,6 @@ cask 'dafont-looking-forward-to-the-weekend' do
     url 'http://dl.dafont.com/dl/?f=looking_forward_to_the_weekend'
     name 'Looking forward to the weekend!'
     homepage 'http://www.dafont.com/looking-forward-to-the-weekend.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Looking forward to the weekend.ttf'
 end

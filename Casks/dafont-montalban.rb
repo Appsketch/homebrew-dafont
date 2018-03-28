@@ -5,7 +5,6 @@ cask 'dafont-montalban' do
     url 'http://dl.dafont.com/dl/?f=montalban'
     name 'Montalban'
     homepage 'http://www.dafont.com/montalban.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Montalban Bold Italic.otf'
     font 'Montalban Bold.otf'

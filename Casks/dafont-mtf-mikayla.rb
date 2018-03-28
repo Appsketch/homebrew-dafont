@@ -5,7 +5,6 @@ cask 'dafont-mtf-mikayla' do
     url 'http://dl.dafont.com/dl/?f=mtf_mikayla'
     name 'MTF Mikayla'
     homepage 'http://www.dafont.com/mtf-mikayla.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Mikayla.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-eye-am-confused-optical-illusions' do
     url 'http://dl.dafont.com/dl/?f=eye_am_confused_optical_illusions'
     name 'Eye Am Confused Optical Illusions'
     homepage 'http://www.dafont.com/eye-am-confused-optical-illusions.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Eye Am Confused.ttf'
 end

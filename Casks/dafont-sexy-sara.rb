@@ -5,7 +5,6 @@ cask 'dafont-sexy-sara' do
     url 'http://dl.dafont.com/dl/?f=sexy_sara'
     name 'Sexy Sara'
     homepage 'http://www.dafont.com/sexy-sara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kksxysra.ttf'
 end

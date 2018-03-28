@@ -5,7 +5,6 @@ cask 'dafont-tode-ja-oigus' do
     url 'http://dl.dafont.com/dl/?f=tode_ja_oigus'
     name 'Tode Ja Oigus'
     homepage 'http://www.dafont.com/tode-ja-oigus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tode ja oigus.ttf'
 end

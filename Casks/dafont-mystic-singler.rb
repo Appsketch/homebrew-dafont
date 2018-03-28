@@ -5,7 +5,6 @@ cask 'dafont-mystic-singler' do
     url 'http://dl.dafont.com/dl/?f=mystic_singler'
     name 'Mystic Singler'
     homepage 'http://www.dafont.com/mystic-singler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mysticsingler.ttf'
     font 'mysticsinglerc.ttf'

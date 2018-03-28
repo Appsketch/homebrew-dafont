@@ -5,7 +5,6 @@ cask 'dafont-rina' do
     url 'http://dl.dafont.com/dl/?f=rina'
     name 'Rina'
     homepage 'http://www.dafont.com/rina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'rina.ttf'
 end

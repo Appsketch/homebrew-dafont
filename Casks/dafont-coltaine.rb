@@ -5,7 +5,6 @@ cask 'dafont-coltaine' do
     url 'http://dl.dafont.com/dl/?f=coltaine'
     name 'Coltaine'
     homepage 'http://www.dafont.com/coltaine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Coltaine1.ttf'
     font 'coltaine2.ttf'

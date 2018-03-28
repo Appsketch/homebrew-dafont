@@ -5,7 +5,6 @@ cask 'dafont-st-bookashade' do
     url 'http://dl.dafont.com/dl/?f=st_bookashade'
     name 'St Bookashade'
     homepage 'http://www.dafont.com/st-bookashade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bookashade.ttf'
 end

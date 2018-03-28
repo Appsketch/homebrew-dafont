@@ -5,7 +5,6 @@ cask 'dafont-cf-fredo-style' do
     url 'http://dl.dafont.com/dl/?f=cf_fredo_style'
     name 'CF Fredo Style'
     homepage 'http://www.dafont.com/cf-fredo-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFFredoStyle.ttf'
 end

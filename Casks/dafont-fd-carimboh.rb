@@ -5,7 +5,6 @@ cask 'dafont-fd-carimboh' do
     url 'http://dl.dafont.com/dl/?f=fd_carimboh'
     name 'FD Carimboh'
     homepage 'http://www.dafont.com/fd-carimboh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FD_Carimboh.ttf'
 end

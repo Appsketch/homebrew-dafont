@@ -5,7 +5,6 @@ cask 'dafont-sketched-cassius-br' do
     url 'http://dl.dafont.com/dl/?f=sketched_cassius_br'
     name 'Sketched Cassius Broken'
     homepage 'http://www.dafont.com/sketched-cassius-br.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SketchedCassiusBroken.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-i-drawed-this' do
     url 'http://dl.dafont.com/dl/?f=i_drawed_this'
     name 'I drawed this'
     homepage 'http://www.dafont.com/i-drawed-this.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'I drawed this.otf'
 end

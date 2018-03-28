@@ -5,7 +5,6 @@ cask 'dafont-baby-potato' do
     url 'http://dl.dafont.com/dl/?f=baby_potato'
     name 'Baby Potato'
     homepage 'http://www.dafont.com/baby-potato.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BABY POTATO.ttf'
 end

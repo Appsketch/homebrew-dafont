@@ -5,7 +5,6 @@ cask 'dafont-up-with-the-birds' do
     url 'http://dl.dafont.com/dl/?f=up_with_the_birds'
     name 'Up with the Birds'
     homepage 'http://www.dafont.com/up-with-the-birds.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Up with the Birds.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pulse-state' do
     url 'http://dl.dafont.com/dl/?f=pulse_state'
     name 'Pulse State'
     homepage 'http://www.dafont.com/pulse-state.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pulse state.ttf'
 end

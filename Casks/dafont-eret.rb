@@ -5,7 +5,6 @@ cask 'dafont-eret' do
     url 'http://dl.dafont.com/dl/?f=eret'
     name 'Eret'
     homepage 'http://www.dafont.com/eret.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eret.ttf'
 end

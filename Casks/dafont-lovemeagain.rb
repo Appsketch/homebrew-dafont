@@ -5,7 +5,6 @@ cask 'dafont-lovemeagain' do
     url 'http://dl.dafont.com/dl/?f=lovemeagain'
     name 'Love Me Again'
     homepage 'http://www.dafont.com/lovemeagain.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LoveMeAgain (1).ttf'
 end

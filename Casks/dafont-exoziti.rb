@@ -5,7 +5,6 @@ cask 'dafont-exoziti' do
     url 'http://dl.dafont.com/dl/?f=exoziti'
     name 'Exoziti'
     homepage 'http://www.dafont.com/exoziti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'exo.ttf'
 end

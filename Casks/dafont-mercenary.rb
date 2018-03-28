@@ -5,7 +5,6 @@ cask 'dafont-mercenary' do
     url 'http://dl.dafont.com/dl/?f=mercenary'
     name 'Mercenary'
     homepage 'http://www.dafont.com/mercenary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mercenary.ttf'
 end

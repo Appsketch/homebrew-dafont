@@ -5,7 +5,6 @@ cask 'dafont-heart-breaking-bad' do
     url 'http://dl.dafont.com/dl/?f=heart_breaking_bad'
     name 'Heart Breaking Bad'
     homepage 'http://www.dafont.com/heart-breaking-bad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Heart Breaking Bad.otf'
 end

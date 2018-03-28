@@ -5,7 +5,6 @@ cask 'dafont-eightyone' do
     url 'http://dl.dafont.com/dl/?f=eightyone'
     name 'Eighty One'
     homepage 'http://www.dafont.com/eightyone.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EightyOne.ttf'
 end

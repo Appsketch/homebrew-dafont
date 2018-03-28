@@ -5,7 +5,6 @@ cask 'dafont-pwstraight' do
     url 'http://dl.dafont.com/dl/?f=pwstraight'
     name 'PW Straight'
     homepage 'http://www.dafont.com/pwstraight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PWStraight.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-alien-ghost2' do
     url 'http://dl.dafont.com/dl/?f=alien_ghost2'
     name 'Alien Ghost 2'
     homepage 'http://www.dafont.com/alien-ghost2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ALIE___.TTF'
 end

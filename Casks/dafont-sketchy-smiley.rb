@@ -5,7 +5,6 @@ cask 'dafont-sketchy-smiley' do
     url 'http://dl.dafont.com/dl/?f=sketchy_smiley'
     name 'Sketchy Smiley'
     homepage 'http://www.dafont.com/sketchy-smiley.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SketchySmiley.ttf'
 end

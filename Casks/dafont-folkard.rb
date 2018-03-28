@@ -5,7 +5,6 @@ cask 'dafont-folkard' do
     url 'http://dl.dafont.com/dl/?f=folkard'
     name 'Folkard'
     homepage 'http://www.dafont.com/folkard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'folkard_.ttf'
 end

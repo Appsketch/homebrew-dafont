@@ -5,7 +5,6 @@ cask 'dafont-marela' do
     url 'http://dl.dafont.com/dl/?f=marela'
     name 'Marela'
     homepage 'http://www.dafont.com/marela.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'marela.ttf'
 end

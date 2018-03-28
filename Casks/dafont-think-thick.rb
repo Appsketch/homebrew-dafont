@@ -5,7 +5,6 @@ cask 'dafont-think-thick' do
     url 'http://dl.dafont.com/dl/?f=think_thick'
     name 'Think Thick'
     homepage 'http://www.dafont.com/think-thick.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Think Thick.ttf'
 end

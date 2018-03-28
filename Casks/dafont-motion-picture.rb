@@ -5,7 +5,6 @@ cask 'dafont-motion-picture' do
     url 'http://dl.dafont.com/dl/?f=motion_picture'
     name 'Motion Picture'
     homepage 'http://www.dafont.com/motion-picture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MotionPicture_PersonalUseOnly.ttf'
 end

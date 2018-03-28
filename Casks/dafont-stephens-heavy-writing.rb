@@ -5,7 +5,6 @@ cask 'dafont-stephens-heavy-writing' do
     url 'http://dl.dafont.com/dl/?f=stephens_heavy_writing'
     name 'Stephens Heavy Writing'
     homepage 'http://www.dafont.com/stephens-heavy-writing.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Stephens Heavy Writing.ttf'
 end

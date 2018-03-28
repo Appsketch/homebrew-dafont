@@ -5,7 +5,6 @@ cask 'dafont-ferqui' do
     url 'http://dl.dafont.com/dl/?f=ferqui'
     name 'Ferqui'
     homepage 'http://www.dafont.com/ferqui.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ferqui.ttf'
 end

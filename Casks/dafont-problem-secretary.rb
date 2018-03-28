@@ -5,7 +5,6 @@ cask 'dafont-problem-secretary' do
     url 'http://dl.dafont.com/dl/?f=problem_secretary'
     name 'Problem Secretary'
     homepage 'http://www.dafont.com/problem-secretary.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Probsecretary.ttf'
     font 'probsecrnormal.ttf'

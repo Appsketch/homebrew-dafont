@@ -5,7 +5,6 @@ cask 'dafont-ampersand' do
     url 'http://dl.dafont.com/dl/?f=ampersand'
     name 'Ampersand'
     homepage 'http://www.dafont.com/ampersand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ampersand.ttf'
 end

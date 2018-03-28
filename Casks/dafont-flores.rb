@@ -5,7 +5,6 @@ cask 'dafont-flores' do
     url 'http://dl.dafont.com/dl/?f=flores'
     name 'Flores'
     homepage 'http://www.dafont.com/flores.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FLORES__.TTF'
 end

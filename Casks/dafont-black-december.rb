@@ -5,7 +5,6 @@ cask 'dafont-black-december' do
     url 'http://dl.dafont.com/dl/?f=black_december'
     name 'Black December'
     homepage 'http://www.dafont.com/black-december.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BLACK DECEMBER.ttf'
 end

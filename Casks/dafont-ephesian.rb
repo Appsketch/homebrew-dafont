@@ -5,7 +5,6 @@ cask 'dafont-ephesian' do
     url 'http://dl.dafont.com/dl/?f=ephesian'
     name 'Ephesian'
     homepage 'http://www.dafont.com/ephesian.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ephesian.ttf'
     font 'ephesian3d.ttf'

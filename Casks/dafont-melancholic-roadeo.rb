@@ -5,7 +5,6 @@ cask 'dafont-melancholic-roadeo' do
     url 'http://dl.dafont.com/dl/?f=melancholic_roadeo'
     name 'Melancholic Roadeo'
     homepage 'http://www.dafont.com/melancholic-roadeo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'melancholic_roadeo.ttf'
 end

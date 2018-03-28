@@ -5,7 +5,6 @@ cask 'dafont-christmas-wreath' do
     url 'http://dl.dafont.com/dl/?f=christmas_wreath'
     name 'Christmas Wreath'
     homepage 'http://www.dafont.com/christmas-wreath.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChristmasWreath.ttf'
 end

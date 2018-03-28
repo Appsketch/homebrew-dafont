@@ -5,7 +5,6 @@ cask 'dafont-everson-mono-bitmap' do
     url 'http://dl.dafont.com/dl/?f=everson_mono_bitmap'
     name 'Everson Mono Latin'
     homepage 'http://www.dafont.com/everson-mono-bitmap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'EMLATIN6.FON'
 end

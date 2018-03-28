@@ -5,7 +5,6 @@ cask 'dafont-lm-holiday-toons' do
     url 'http://dl.dafont.com/dl/?f=lm_holiday_toons'
     name 'LM Holiday Toons'
     homepage 'http://www.dafont.com/lm-holiday-toons.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LM Holiday Toons.ttf'
 end

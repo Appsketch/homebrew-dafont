@@ -5,7 +5,6 @@ cask 'dafont-kremlin-kourier-ii' do
     url 'http://dl.dafont.com/dl/?f=kremlin_kourier_ii'
     name 'Kremlin Kourier II'
     homepage 'http://www.dafont.com/kremlin-kourier-ii.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kremlin Kourier II Bold.ttf'
     font 'Kremlin Kourier II.ttf'

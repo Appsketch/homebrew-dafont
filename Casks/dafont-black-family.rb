@@ -5,7 +5,6 @@ cask 'dafont-black-family' do
     url 'http://dl.dafont.com/dl/?f=black_family'
     name 'Black family'
     homepage 'http://www.dafont.com/black-family.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Embossed Black Normal.ttf'
     font 'Embossed Black Wide.ttf'

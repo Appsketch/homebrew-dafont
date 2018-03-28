@@ -5,7 +5,6 @@ cask 'dafont-bd-spinner' do
     url 'http://dl.dafont.com/dl/?f=bd_spinner'
     name 'BD Spinner'
     homepage 'http://www.dafont.com/bd-spinner.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BDSPINNE.TTF'
 end

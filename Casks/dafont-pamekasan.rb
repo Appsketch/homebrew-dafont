@@ -5,7 +5,6 @@ cask 'dafont-pamekasan' do
     url 'http://dl.dafont.com/dl/?f=pamekasan'
     name 'Pamekasan'
     homepage 'http://www.dafont.com/pamekasan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PamekasanB.ttf'
     font 'PamekasanBI.ttf'

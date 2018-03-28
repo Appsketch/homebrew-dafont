@@ -5,7 +5,6 @@ cask 'dafont-hooked-up-101' do
     url 'http://dl.dafont.com/dl/?f=hooked_up_101'
     name 'Hooked Up 101'
     homepage 'http://www.dafont.com/hooked-up-101.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hooked up 101.ttf'
 end

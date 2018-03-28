@@ -5,7 +5,6 @@ cask 'dafont-alfamesh001' do
     url 'http://dl.dafont.com/dl/?f=alfamesh001'
     name 'Alfamesh 001'
     homepage 'http://www.dafont.com/alfamesh001.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'alfamesh001.ttf'
 end

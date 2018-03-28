@@ -5,7 +5,6 @@ cask 'dafont-squid2' do
     url 'http://dl.dafont.com/dl/?f=squid2'
     name 'Squid '
     homepage 'http://www.dafont.com/squid2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Squid.ttf'
 end

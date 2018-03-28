@@ -5,7 +5,6 @@ cask 'dafont-pragroman' do
     url 'http://dl.dafont.com/dl/?f=pragroman'
     name 'PragRoman'
     homepage 'http://www.dafont.com/pragroman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PragRoman.ttf'
 end

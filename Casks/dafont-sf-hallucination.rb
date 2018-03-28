@@ -5,7 +5,6 @@ cask 'dafont-sf-hallucination' do
     url 'http://dl.dafont.com/dl/?f=sf_hallucination'
     name 'SF Hallucination'
     homepage 'http://www.dafont.com/sf-hallucination.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Hallucination Extreme.ttf'
     font 'SF Hallucination Outline.ttf'

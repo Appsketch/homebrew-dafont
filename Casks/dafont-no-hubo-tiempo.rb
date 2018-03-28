@@ -5,7 +5,6 @@ cask 'dafont-no-hubo-tiempo' do
     url 'http://dl.dafont.com/dl/?f=no_hubo_tiempo'
     name 'No hubo Tiempo'
     homepage 'http://www.dafont.com/no-hubo-tiempo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nohubotiempo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fontleroy-brown' do
     url 'http://dl.dafont.com/dl/?f=fontleroy_brown'
     name 'Fontleroy Brown'
     homepage 'http://www.dafont.com/fontleroy-brown.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FONTLERO.TTF'
 end

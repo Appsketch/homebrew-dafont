@@ -5,7 +5,6 @@ cask 'dafont-diet-dr-creep' do
     url 'http://dl.dafont.com/dl/?f=diet_dr_creep'
     name 'Diet Dr. Creep'
     homepage 'http://www.dafont.com/diet-dr-creep.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Dietdc__.ttf'
     font 'DrCreep.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-espacio' do
     url 'http://dl.dafont.com/dl/?f=espacio'
     name 'Espacio'
     homepage 'http://www.dafont.com/espacio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Espacio.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-5th-grade-cursive' do
     url 'http://dl.dafont.com/dl/?f=5th_grade_cursive'
     name '5th Grade Cursive'
     homepage 'http://www.dafont.com/5th-grade-cursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '5thgradecursive-2-italic.ttf'
     font '5thgradecursive-2.ttf'

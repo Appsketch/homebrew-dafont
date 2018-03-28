@@ -5,7 +5,6 @@ cask 'dafont-penelope-anne' do
     url 'http://dl.dafont.com/dl/?f=penelope_anne'
     name 'Penelope Anne'
     homepage 'http://www.dafont.com/penelope-anne.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Penelope Anne.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-wire' do
     url 'http://dl.dafont.com/dl/?f=wire'
     name 'Wire'
     homepage 'http://www.dafont.com/wire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wireplay.ttf'
 end

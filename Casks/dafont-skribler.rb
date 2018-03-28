@@ -5,7 +5,6 @@ cask 'dafont-skribler' do
     url 'http://dl.dafont.com/dl/?f=skribler'
     name 'Skribler '
     homepage 'http://www.dafont.com/skribler.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'skribler-Regular.ttf'
 end

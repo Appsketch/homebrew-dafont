@@ -5,7 +5,6 @@ cask 'dafont-graphik-text' do
     url 'http://dl.dafont.com/dl/?f=graphik_text'
     name 'Graphik Text'
     homepage 'http://www.dafont.com/graphik-text.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Grafik Text.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-black-carrot' do
     url 'http://dl.dafont.com/dl/?f=black_carrot'
     name 'Black Carrot'
     homepage 'http://www.dafont.com/black-carrot.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black Carrot.ttf'
 end

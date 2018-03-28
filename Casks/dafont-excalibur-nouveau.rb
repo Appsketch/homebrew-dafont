@@ -5,7 +5,6 @@ cask 'dafont-excalibur-nouveau' do
     url 'http://dl.dafont.com/dl/?f=excalibur_nouveau'
     name 'Excalibur Nouveau'
     homepage 'http://www.dafont.com/excalibur-nouveau.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Excalibur Nouveau.ttf'
 end

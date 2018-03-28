@@ -5,7 +5,6 @@ cask 'dafont-legend-m54' do
     url 'http://dl.dafont.com/dl/?f=legend_m54'
     name 'Legend M54'
     homepage 'http://www.dafont.com/legend-m54.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Legend M54.ttf'
 end

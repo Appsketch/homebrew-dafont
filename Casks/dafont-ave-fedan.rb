@@ -5,7 +5,6 @@ cask 'dafont-ave-fedan' do
     url 'http://dl.dafont.com/dl/?f=ave_fedan'
     name 'Ave Fedan'
     homepage 'http://www.dafont.com/ave-fedan.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AveFedan_PERSONAL_USE.ttf'
 end

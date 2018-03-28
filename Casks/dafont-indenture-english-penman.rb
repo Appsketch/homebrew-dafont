@@ -5,7 +5,6 @@ cask 'dafont-indenture-english-penman' do
     url 'http://dl.dafont.com/dl/?f=indenture_english_penman'
     name 'Indenture English Penman'
     homepage 'http://www.dafont.com/indenture-english-penman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'IndentureEnglishPenman_personal_use_demo.ttf'
 end

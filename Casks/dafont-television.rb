@@ -5,7 +5,6 @@ cask 'dafont-television' do
     url 'http://dl.dafont.com/dl/?f=television'
     name 'TeleVision'
     homepage 'http://www.dafont.com/television.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TeleVision.ttf'
 end

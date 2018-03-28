@@ -5,7 +5,6 @@ cask 'dafont-linear' do
     url 'http://dl.dafont.com/dl/?f=linear'
     name 'Linear'
     homepage 'http://www.dafont.com/linear.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'linear.ttf'
 end

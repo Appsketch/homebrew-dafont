@@ -5,7 +5,6 @@ cask 'dafont-capsture' do
     url 'http://dl.dafont.com/dl/?f=capsture'
     name 'Capsture'
     homepage 'http://www.dafont.com/capsture.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Capsture.ttf'
 end

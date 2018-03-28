@@ -5,7 +5,6 @@ cask 'dafont-kg-bless-your-heart' do
     url 'http://dl.dafont.com/dl/?f=kg_bless_your_heart'
     name 'Kg Bless Your Heart'
     homepage 'http://www.dafont.com/kg-bless-your-heart.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGBlessYourHeart.ttf'
 end

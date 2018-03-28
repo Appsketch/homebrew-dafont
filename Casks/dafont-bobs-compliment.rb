@@ -5,7 +5,6 @@ cask 'dafont-bobs-compliment' do
     url 'http://dl.dafont.com/dl/?f=bobs_compliment'
     name 'Bob&#039;s Compliment'
     homepage 'http://www.dafont.com/bobs-compliment.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BOBS COMPLIMENT.ttf'
 end

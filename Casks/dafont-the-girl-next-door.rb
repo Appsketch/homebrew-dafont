@@ -5,7 +5,6 @@ cask 'dafont-the-girl-next-door' do
     url 'http://dl.dafont.com/dl/?f=the_girl_next_door'
     name 'The girl next door'
     homepage 'http://www.dafont.com/the-girl-next-door.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thegirlnextdoor.ttf'
 end

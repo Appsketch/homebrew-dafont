@@ -5,7 +5,6 @@ cask 'dafont-hoppy-ribbitday' do
     url 'http://dl.dafont.com/dl/?f=hoppy_ribbitday'
     name 'Hoppy Ribbitday'
     homepage 'http://www.dafont.com/hoppy-ribbitday.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Hoppy Ribbitday.ttf'
 end

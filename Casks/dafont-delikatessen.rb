@@ -5,7 +5,6 @@ cask 'dafont-delikatessen' do
     url 'http://dl.dafont.com/dl/?f=delikatessen'
     name 'Delikatessen'
     homepage 'http://www.dafont.com/delikatessen.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Delikatessen.ttf'
 end

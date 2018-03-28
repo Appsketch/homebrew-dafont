@@ -5,7 +5,6 @@ cask 'dafont-the-quickest-shift' do
     url 'http://dl.dafont.com/dl/?f=the_quickest_shift'
     name 'The Quickest Shift'
     homepage 'http://www.dafont.com/the-quickest-shift.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thequickest.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-d3mouldism' do
     url 'http://dl.dafont.com/dl/?f=d3mouldism'
     name 'D3 Mouldism'
     homepage 'http://www.dafont.com/d3mouldism.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'D3Mouldism.ttf'
     font 'D3MouldismI.TTF'

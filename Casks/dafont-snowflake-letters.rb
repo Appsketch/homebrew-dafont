@@ -5,7 +5,6 @@ cask 'dafont-snowflake-letters' do
     url 'http://dl.dafont.com/dl/?f=snowflake_letters'
     name 'Snowflake Letters'
     homepage 'http://www.dafont.com/snowflake-letters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Snowflake Letters.ttf'
 end

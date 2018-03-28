@@ -5,7 +5,6 @@ cask 'dafont-anglo-saxon-8th-c' do
     url 'http://dl.dafont.com/dl/?f=anglo_saxon_8th_c'
     name 'Anglo-Saxon, 8th c.'
     homepage 'http://www.dafont.com/anglo-saxon-8th-c.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AngloSaxon.ttf'
 end

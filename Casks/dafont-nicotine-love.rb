@@ -5,7 +5,6 @@ cask 'dafont-nicotine-love' do
     url 'http://dl.dafont.com/dl/?f=nicotine_love'
     name 'Nicotine Love'
     homepage 'http://www.dafont.com/nicotine-love.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nicotine Love.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-fancy-card-text2' do
     url 'http://dl.dafont.com/dl/?f=fancy_card_text2'
     name 'Fancy Card Text'
     homepage 'http://www.dafont.com/fancy-card-text2.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fancy Card Text.ttf'
 end

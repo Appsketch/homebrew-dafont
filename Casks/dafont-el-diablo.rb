@@ -5,7 +5,6 @@ cask 'dafont-el-diablo' do
     url 'http://dl.dafont.com/dl/?f=el_diablo'
     name 'El Diablo'
     homepage 'http://www.dafont.com/el-diablo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eldiablo.ttf'
 end

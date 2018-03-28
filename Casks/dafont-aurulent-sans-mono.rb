@@ -5,7 +5,6 @@ cask 'dafont-aurulent-sans-mono' do
     url 'http://dl.dafont.com/dl/?f=aurulent_sans_mono'
     name 'Aurulent Sans Mono'
     homepage 'http://www.dafont.com/aurulent-sans-mono.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'AurulentSansMono-Regular.otf'
 end

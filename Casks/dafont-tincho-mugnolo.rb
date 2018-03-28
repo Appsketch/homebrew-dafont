@@ -5,7 +5,6 @@ cask 'dafont-tincho-mugnolo' do
     url 'http://dl.dafont.com/dl/?f=tincho_mugnolo'
     name 'Tincho Mugnolo'
     homepage 'http://www.dafont.com/tincho-mugnolo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Tincho_Mugnolo.ttf'
 end

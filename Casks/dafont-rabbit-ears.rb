@@ -5,7 +5,6 @@ cask 'dafont-rabbit-ears' do
     url 'http://dl.dafont.com/dl/?f=rabbit_ears'
     name 'Rabbit Ears'
     homepage 'http://www.dafont.com/rabbit-ears.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RabbitEars.ttf'
 end

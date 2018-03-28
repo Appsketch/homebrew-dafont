@@ -5,7 +5,6 @@ cask 'dafont-mtf-hooty-coo' do
     url 'http://dl.dafont.com/dl/?f=mtf_hooty_coo'
     name 'MTF Hooty Coo'
     homepage 'http://www.dafont.com/mtf-hooty-coo.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Hooty Coo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-stitches' do
     url 'http://dl.dafont.com/dl/?f=stitches'
     name 'Stitches'
     homepage 'http://www.dafont.com/stitches.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'stitches.ttf'
 end

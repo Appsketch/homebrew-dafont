@@ -5,7 +5,6 @@ cask 'dafont-doergon' do
     url 'http://dl.dafont.com/dl/?f=doergon'
     name 'Doergon'
     homepage 'http://www.dafont.com/doergon.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Doergon.ttf'
     font 'DoergonBackshift.ttf'

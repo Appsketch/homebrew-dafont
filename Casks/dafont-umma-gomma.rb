@@ -5,7 +5,6 @@ cask 'dafont-umma-gomma' do
     url 'http://dl.dafont.com/dl/?f=umma_gomma'
     name 'Happyloverstown.eu - Umma Gomma'
     homepage 'http://www.dafont.com/umma-gomma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'happyloverstown.eu_ummagomma.ttf'
 end

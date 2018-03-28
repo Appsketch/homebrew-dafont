@@ -5,7 +5,6 @@ cask 'dafont-chess-magnetic' do
     url 'http://dl.dafont.com/dl/?f=chess_magnetic'
     name 'Chess Magnetic'
     homepage 'http://www.dafont.com/chess-magnetic.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MAGNFONT.TTF'
 end

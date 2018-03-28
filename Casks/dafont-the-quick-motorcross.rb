@@ -5,7 +5,6 @@ cask 'dafont-the-quick-motorcross' do
     url 'http://dl.dafont.com/dl/?f=the_quick_motorcross'
     name 'The quick motorcross'
     homepage 'http://www.dafont.com/the-quick-motorcross.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'the quick motorcross.ttf'
 end

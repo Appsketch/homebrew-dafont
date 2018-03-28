@@ -5,7 +5,6 @@ cask 'dafont-v5xtender-loin' do
     url 'http://dl.dafont.com/dl/?f=v5xtender_loin'
     name 'V5 Xtender Loin'
     homepage 'http://www.dafont.com/v5xtender-loin.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'V5XTL___.TTF'
     font 'V5XTLB__.TTF'

@@ -5,7 +5,6 @@ cask 'dafont-beyond-blackboard' do
     url 'http://dl.dafont.com/dl/?f=beyond_blackboard'
     name 'Beyond Blackboard'
     homepage 'http://www.dafont.com/beyond-blackboard.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Beyond Blackboard.ttf'
 end

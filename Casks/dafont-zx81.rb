@@ -5,7 +5,6 @@ cask 'dafont-zx81' do
     url 'http://dl.dafont.com/dl/?f=zx81'
     name 'ZX81+Spectrum'
     homepage 'http://www.dafont.com/zx81.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zx81.ttf'
     font 'zxspectr.ttf'

@@ -5,7 +5,6 @@ cask 'dafont-nomitais' do
     url 'http://dl.dafont.com/dl/?f=nomitais'
     name 'Nomitais'
     homepage 'http://www.dafont.com/nomitais.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Nomitais.ttf'
 end

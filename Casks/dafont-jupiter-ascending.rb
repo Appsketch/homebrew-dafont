@@ -5,7 +5,6 @@ cask 'dafont-jupiter-ascending' do
     url 'http://dl.dafont.com/dl/?f=jupiter_ascending'
     name 'Jupiter Ascending'
     homepage 'http://www.dafont.com/jupiter-ascending.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jupiter Ascending - Font.otf'
 end

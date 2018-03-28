@@ -5,7 +5,6 @@ cask 'dafont-chipblocked' do
     url 'http://dl.dafont.com/dl/?f=chipblocked'
     name 'Chipblocked'
     homepage 'http://www.dafont.com/chipblocked.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ChipOffTheBlock.ttf'
 end

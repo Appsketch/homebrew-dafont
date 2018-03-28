@@ -5,7 +5,6 @@ cask 'dafont-dusthome' do
     url 'http://dl.dafont.com/dl/?f=dusthome'
     name 'DustHome'
     homepage 'http://www.dafont.com/dusthome.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DustHomeMedium.ttf'
 end

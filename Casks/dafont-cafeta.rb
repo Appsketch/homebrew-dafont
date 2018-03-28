@@ -5,7 +5,6 @@ cask 'dafont-cafeta' do
     url 'http://dl.dafont.com/dl/?f=cafeta'
     name 'Cafeta'
     homepage 'http://www.dafont.com/cafeta.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CAFETA__.TTF'
 end

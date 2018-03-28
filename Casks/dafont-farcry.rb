@@ -5,7 +5,6 @@ cask 'dafont-farcry' do
     url 'http://dl.dafont.com/dl/?f=farcry'
     name 'FarCry'
     homepage 'http://www.dafont.com/farcry.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FARCEB__.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-pointer-sisters' do
     url 'http://dl.dafont.com/dl/?f=pointer_sisters'
     name 'Pointer Sisters'
     homepage 'http://www.dafont.com/pointer-sisters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PointerSisters-Freeformed.ttf'
     font 'PointerSistersSeparated.ttf'

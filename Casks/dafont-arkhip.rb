@@ -5,7 +5,6 @@ cask 'dafont-arkhip' do
     url 'http://dl.dafont.com/dl/?f=arkhip'
     name 'Arkhip'
     homepage 'http://www.dafont.com/arkhip.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arkhip_font.ttf'
 end

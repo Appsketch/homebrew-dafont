@@ -5,7 +5,6 @@ cask 'dafont-fairydustb' do
     url 'http://dl.dafont.com/dl/?f=fairydustb'
     name 'FairydustB'
     homepage 'http://www.dafont.com/fairydustb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FairyDustB.ttf'
 end

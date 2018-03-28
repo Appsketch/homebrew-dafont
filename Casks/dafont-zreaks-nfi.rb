@@ -5,7 +5,6 @@ cask 'dafont-zreaks-nfi' do
     url 'http://dl.dafont.com/dl/?f=zreaks_nfi'
     name 'Zreaks NFI'
     homepage 'http://www.dafont.com/zreaks-nfi.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'zreaks nfi.ttf'
 end

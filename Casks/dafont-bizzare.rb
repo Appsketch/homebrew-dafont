@@ -5,7 +5,6 @@ cask 'dafont-bizzare' do
     url 'http://dl.dafont.com/dl/?f=bizzare'
     name 'Bizzare'
     homepage 'http://www.dafont.com/bizzare.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BIZZARE.ttf'
 end

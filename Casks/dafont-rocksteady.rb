@@ -5,7 +5,6 @@ cask 'dafont-rocksteady' do
     url 'http://dl.dafont.com/dl/?f=rocksteady'
     name 'Rocksteady'
     homepage 'http://www.dafont.com/rocksteady.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROCKSTEADY.ttf'
 end

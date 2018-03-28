@@ -5,7 +5,6 @@ cask 'dafont-sf-square-root' do
     url 'http://dl.dafont.com/dl/?f=sf_square_root'
     name 'SF Square Root'
     homepage 'http://www.dafont.com/sf-square-root.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SF Square Root Bold Oblique.ttf'
     font 'SF Square Root Bold.ttf'

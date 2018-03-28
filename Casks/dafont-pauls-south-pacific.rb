@@ -5,7 +5,6 @@ cask 'dafont-pauls-south-pacific' do
     url 'http://dl.dafont.com/dl/?f=pauls_south_pacific'
     name 'Pauls South Pacific'
     homepage 'http://www.dafont.com/pauls-south-pacific.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pauls South Pacific.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-roman-acid' do
     url 'http://dl.dafont.com/dl/?f=roman_acid'
     name 'Roman Acid'
     homepage 'http://www.dafont.com/roman-acid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROMAA___.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-infernosspicy' do
     url 'http://dl.dafont.com/dl/?f=infernosspicy'
     name 'Infernos Spicy'
     homepage 'http://www.dafont.com/infernosspicy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'InfernosSpicy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-uk-tv-logos' do
     url 'http://dl.dafont.com/dl/?f=uk_tv_logos'
     name 'UK TV logos'
     homepage 'http://www.dafont.com/uk-tv-logos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'tvlogos-uktv.ttf'
     font 'UK Digital TV Channel Logos.ttf'

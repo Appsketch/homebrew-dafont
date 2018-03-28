@@ -5,7 +5,6 @@ cask 'dafont-flight-corps' do
     url 'http://dl.dafont.com/dl/?f=flight_corps'
     name 'Flight Corps'
     homepage 'http://www.dafont.com/flight-corps.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'flightcorps.ttf'
     font 'flightcorps3d.ttf'

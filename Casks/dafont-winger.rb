@@ -5,7 +5,6 @@ cask 'dafont-winger' do
     url 'http://dl.dafont.com/dl/?f=winger'
     name 'Winger'
     homepage 'http://www.dafont.com/winger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Winger.ttf'
 end

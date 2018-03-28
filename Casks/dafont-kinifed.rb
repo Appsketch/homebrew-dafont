@@ -5,7 +5,6 @@ cask 'dafont-kinifed' do
     url 'http://dl.dafont.com/dl/?f=kinifed'
     name 'KInifed'
     homepage 'http://www.dafont.com/kinifed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kinifed_.ttf'
 end

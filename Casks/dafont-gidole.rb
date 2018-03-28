@@ -5,7 +5,6 @@ cask 'dafont-gidole' do
     url 'http://dl.dafont.com/dl/?f=gidole'
     name 'Gidole'
     homepage 'http://www.dafont.com/gidole.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Gidole-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-eder' do
     url 'http://dl.dafont.com/dl/?f=eder'
     name 'Eder'
     homepage 'http://www.dafont.com/eder.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eder.ttf'
 end

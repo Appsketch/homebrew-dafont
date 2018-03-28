@@ -5,7 +5,6 @@ cask 'dafont-fruity-drink' do
     url 'http://dl.dafont.com/dl/?f=fruity_drink'
     name 'Fruity Drink'
     homepage 'http://www.dafont.com/fruity-drink.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FRUIDC__.TTF'
 end

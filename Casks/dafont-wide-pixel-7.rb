@@ -5,7 +5,6 @@ cask 'dafont-wide-pixel-7' do
     url 'http://dl.dafont.com/dl/?f=wide_pixel_7'
     name 'Wide Pixel-7'
     homepage 'http://www.dafont.com/wide-pixel-7.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'wide_pixel-7.ttf'
 end

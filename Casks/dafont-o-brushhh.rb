@@ -5,7 +5,6 @@ cask 'dafont-o-brushhh' do
     url 'http://dl.dafont.com/dl/?f=_o_brushhh'
     name '(((o))) Brushhh'
     homepage 'http://www.dafont.com/-o-brushhh.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '(((O)))_Brushhh.ttf'
 end

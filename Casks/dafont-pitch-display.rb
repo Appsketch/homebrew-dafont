@@ -5,7 +5,6 @@ cask 'dafont-pitch-display' do
     url 'http://dl.dafont.com/dl/?f=pitch_display'
     name 'Pitch Display'
     homepage 'http://www.dafont.com/pitch-display.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Pitch Display Regular Demo.ttf'
 end

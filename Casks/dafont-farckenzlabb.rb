@@ -5,7 +5,6 @@ cask 'dafont-farckenzlabb' do
     url 'http://dl.dafont.com/dl/?f=farckenzlabb'
     name 'Farckenzlabb'
     homepage 'http://www.dafont.com/farckenzlabb.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Farckenzlabb.ttf'
 end

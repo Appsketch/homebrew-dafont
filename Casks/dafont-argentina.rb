@@ -5,7 +5,6 @@ cask 'dafont-argentina' do
     url 'http://dl.dafont.com/dl/?f=argentina'
     name 'Argentina'
     homepage 'http://www.dafont.com/argentina.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Argentina free promo.ttf'
 end

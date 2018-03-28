@@ -5,7 +5,6 @@ cask 'dafont-grave-digger' do
     url 'http://dl.dafont.com/dl/?f=grave_digger'
     name 'Grave Digger'
     homepage 'http://www.dafont.com/grave-digger.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GRAVD___.TTF'
 end

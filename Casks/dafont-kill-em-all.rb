@@ -5,7 +5,6 @@ cask 'dafont-kill-em-all' do
     url 'http://dl.dafont.com/dl/?f=kill_em_all'
     name 'Kill Em All'
     homepage 'http://www.dafont.com/kill-em-all.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Kill Em All.ttf'
 end

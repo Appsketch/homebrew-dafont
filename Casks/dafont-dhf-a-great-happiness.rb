@@ -5,7 +5,6 @@ cask 'dafont-dhf-a-great-happiness' do
     url 'http://dl.dafont.com/dl/?f=dhf_a_great_happiness'
     name 'DHF A Great Happiness'
     homepage 'http://www.dafont.com/dhf-a-great-happiness.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DHF A Great Happiness Demo.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cf-springtime' do
     url 'http://dl.dafont.com/dl/?f=cf_springtime'
     name 'CF Springtime'
     homepage 'http://www.dafont.com/cf-springtime.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CFSpringtimeDemo-Regular.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-black-beauty' do
     url 'http://dl.dafont.com/dl/?f=black_beauty'
     name 'Black Beauty'
     homepage 'http://www.dafont.com/black-beauty.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Black Beauty.ttf'
 end

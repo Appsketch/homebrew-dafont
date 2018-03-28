@@ -5,7 +5,6 @@ cask 'dafont-building-state-empire' do
     url 'http://dl.dafont.com/dl/?f=building_state_empire'
     name 'Building State Empire'
     homepage 'http://www.dafont.com/building-state-empire.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Building State Empire Hollow.ttf'
     font 'Building State Empire.ttf'

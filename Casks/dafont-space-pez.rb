@@ -5,7 +5,6 @@ cask 'dafont-space-pez' do
     url 'http://dl.dafont.com/dl/?f=space_pez'
     name 'Space Pez'
     homepage 'http://www.dafont.com/space-pez.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Space Pez 3D.ttf'
     font 'Space Pez College.ttf'

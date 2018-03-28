@@ -5,7 +5,6 @@ cask 'dafont-pop-up-fontio' do
     url 'http://dl.dafont.com/dl/?f=pop_up_fontio'
     name 'Pop Up Fontio'
     homepage 'http://www.dafont.com/pop-up-fontio.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'pop up fontio.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-swinkydad' do
     url 'http://dl.dafont.com/dl/?f=swinkydad'
     name 'Swinkydad'
     homepage 'http://www.dafont.com/swinkydad.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SWINKYDA.TTF'
 end

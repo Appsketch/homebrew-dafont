@@ -5,7 +5,6 @@ cask 'dafont-kasikorn' do
     url 'http://dl.dafont.com/dl/?f=kasikorn'
     name 'Kasikorn'
     homepage 'http://www.dafont.com/kasikorn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'kasikorn.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-artely-inks' do
     url 'http://dl.dafont.com/dl/?f=artely_inks'
     name 'Artely Inks'
     homepage 'http://www.dafont.com/artely-inks.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ArtelyInks_PERSONAL_USE.ttf'
 end

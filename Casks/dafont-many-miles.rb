@@ -5,7 +5,6 @@ cask 'dafont-many-miles' do
     url 'http://dl.dafont.com/dl/?f=many_miles'
     name 'Many Miles'
     homepage 'http://www.dafont.com/many-miles.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'many_miles.ttf'
 end

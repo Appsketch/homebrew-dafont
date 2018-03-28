@@ -5,7 +5,6 @@ cask 'dafont-wet-plate' do
     url 'http://dl.dafont.com/dl/?f=wet_plate'
     name 'Wet Plate'
     homepage 'http://www.dafont.com/wet-plate.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Wet Plate.ttf'
 end

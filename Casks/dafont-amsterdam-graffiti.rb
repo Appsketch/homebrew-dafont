@@ -5,7 +5,6 @@ cask 'dafont-amsterdam-graffiti' do
     url 'http://dl.dafont.com/dl/?f=amsterdam_graffiti'
     name 'Amsterdam Graffiti'
     homepage 'http://www.dafont.com/amsterdam-graffiti.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'amsterdam.ttf'
 end

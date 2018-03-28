@@ -5,7 +5,6 @@ cask 'dafont-eternal-flame' do
     url 'http://dl.dafont.com/dl/?f=eternal_flame'
     name 'Eternal Flame'
     homepage 'http://www.dafont.com/eternal-flame.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'eternalflame.ttf'
 end

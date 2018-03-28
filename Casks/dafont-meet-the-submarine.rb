@@ -5,7 +5,6 @@ cask 'dafont-meet-the-submarine' do
     url 'http://dl.dafont.com/dl/?f=meet_the_submarine'
     name 'Meet the Submarine'
     homepage 'http://www.dafont.com/meet-the-submarine.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Meet the Submarine.ttf'
 end

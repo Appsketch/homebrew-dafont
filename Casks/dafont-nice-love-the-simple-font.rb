@@ -5,7 +5,6 @@ cask 'dafont-nice-love-the-simple-font' do
     url 'http://dl.dafont.com/dl/?f=nice_love_the_simple_font'
     name 'Nice Love The Simple Font'
     homepage 'http://www.dafont.com/nice-love-the-simple-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'NICE LOVE THE SIMPLE FONT.otf'
 end

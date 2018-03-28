@@ -5,7 +5,6 @@ cask 'dafont-getreal' do
     url 'http://dl.dafont.com/dl/?f=getreal'
     name 'Get Real'
     homepage 'http://www.dafont.com/getreal.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'GetReal.ttf'
 end

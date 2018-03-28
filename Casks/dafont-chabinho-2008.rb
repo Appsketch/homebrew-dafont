@@ -5,7 +5,6 @@ cask 'dafont-chabinho-2008' do
     url 'http://dl.dafont.com/dl/?f=chabinho_2008'
     name 'Chabinho 2008'
     homepage 'http://www.dafont.com/chabinho-2008.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'chabinho_2008_v2.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-diel' do
     url 'http://dl.dafont.com/dl/?f=diel'
     name 'Diel'
     homepage 'http://www.dafont.com/diel.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'diel.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-mtf-colleen-cursive' do
     url 'http://dl.dafont.com/dl/?f=mtf_colleen_cursive'
     name 'MTF Colleen Cursive'
     homepage 'http://www.dafont.com/mtf-colleen-cursive.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MTF Colleen Cursive.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-where-is-the-rest' do
     url 'http://dl.dafont.com/dl/?f=where_is_the_rest'
     name 'Where is the rest'
     homepage 'http://www.dafont.com/where-is-the-rest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WHEREIST.TTF'
     font 'WHERI___.TTF'

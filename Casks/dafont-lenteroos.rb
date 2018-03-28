@@ -5,7 +5,6 @@ cask 'dafont-lenteroos' do
     url 'http://dl.dafont.com/dl/?f=lenteroos'
     name 'Lenteroos'
     homepage 'http://www.dafont.com/lenteroos.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lenteroos.ttf'
 end

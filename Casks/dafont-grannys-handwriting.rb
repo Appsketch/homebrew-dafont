@@ -5,7 +5,6 @@ cask 'dafont-grannys-handwriting' do
     url 'http://dl.dafont.com/dl/?f=grannys_handwriting'
     name 'Grannys Handwriting'
     homepage 'http://www.dafont.com/grannys-handwriting.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Granny&#039;s Handwriting.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cubop' do
     url 'http://dl.dafont.com/dl/?f=cubop'
     name 'Cubop'
     homepage 'http://www.dafont.com/cubop.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cubop.otf'
 end

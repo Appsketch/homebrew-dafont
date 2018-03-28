@@ -5,7 +5,6 @@ cask 'dafont-mixolydian-titling' do
     url 'http://dl.dafont.com/dl/?f=mixolydian_titling'
     name 'Mixolydian Titling'
     homepage 'http://www.dafont.com/mixolydian-titling.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'mixolydian titling bd it.ttf'
     font 'mixolydian titling bd.ttf'

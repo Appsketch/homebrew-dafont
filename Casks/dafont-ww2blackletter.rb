@@ -5,7 +5,6 @@ cask 'dafont-ww2blackletter' do
     url 'http://dl.dafont.com/dl/?f=ww2blackletter'
     name 'WW2Blackletter'
     homepage 'http://www.dafont.com/ww2blackletter.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'WW2BAH__.TTF'
     font 'WW2BH___.TTF'

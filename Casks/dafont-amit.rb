@@ -5,7 +5,6 @@ cask 'dafont-amit' do
     url 'http://dl.dafont.com/dl/?f=amit'
     name 'Amit'
     homepage 'http://www.dafont.com/amit.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Amit.otf'
 end

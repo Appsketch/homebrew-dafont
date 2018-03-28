@@ -5,7 +5,6 @@ cask 'dafont-paulistana-maraba' do
     url 'http://dl.dafont.com/dl/?f=paulistana_maraba'
     name 'Paulistana Maraba'
     homepage 'http://www.dafont.com/paulistana-maraba.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PaulistanaMaraba-Regular.ttf'
 end

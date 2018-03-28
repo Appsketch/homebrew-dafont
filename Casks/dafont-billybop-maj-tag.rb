@@ -5,7 +5,6 @@ cask 'dafont-billybop-maj-tag' do
     url 'http://dl.dafont.com/dl/?f=billybop_maj_tag'
     name 'BillyBop Maj Tag'
     homepage 'http://www.dafont.com/billybop-maj-tag.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BillyBop_MAJTAAG.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-competitor' do
     url 'http://dl.dafont.com/dl/?f=competitor'
     name 'Competitor'
     homepage 'http://www.dafont.com/competitor.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'COMPETIT.TTF'
 end

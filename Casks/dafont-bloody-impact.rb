@@ -5,7 +5,6 @@ cask 'dafont-bloody-impact' do
     url 'http://dl.dafont.com/dl/?f=bloody_impact'
     name 'Bloody Impact'
     homepage 'http://www.dafont.com/bloody-impact.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Bloody_Impact.ttf'
 end

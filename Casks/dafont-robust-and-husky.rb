@@ -5,7 +5,6 @@ cask 'dafont-robust-and-husky' do
     url 'http://dl.dafont.com/dl/?f=robust_and_husky'
     name 'Robust and Husky'
     homepage 'http://www.dafont.com/robust-and-husky.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Robust and Husky.ttf'
 end

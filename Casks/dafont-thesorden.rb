@@ -5,7 +5,6 @@ cask 'dafont-thesorden' do
     url 'http://dl.dafont.com/dl/?f=thesorden'
     name 'Thesorden'
     homepage 'http://www.dafont.com/thesorden.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'thesorden.ttf'
 end

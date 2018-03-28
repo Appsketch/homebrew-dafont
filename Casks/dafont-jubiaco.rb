@@ -5,7 +5,6 @@ cask 'dafont-jubiaco' do
     url 'http://dl.dafont.com/dl/?f=jubiaco'
     name 'Jubiaco'
     homepage 'http://www.dafont.com/jubiaco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Jubiaco.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-claphappy' do
     url 'http://dl.dafont.com/dl/?f=claphappy'
     name 'Claphappy'
     homepage 'http://www.dafont.com/claphappy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Claphappy.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-like-fonts-in-the-r' do
     url 'http://dl.dafont.com/dl/?f=like_fonts_in_the_r'
     name 'Like fonts in the rain'
     homepage 'http://www.dafont.com/like-fonts-in-the-r.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LIKEFONT.TTF'
 end

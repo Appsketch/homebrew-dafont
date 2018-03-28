@@ -5,7 +5,6 @@ cask 'dafont-spaghettistrap' do
     url 'http://dl.dafont.com/dl/?f=spaghettistrap'
     name 'Spaghetti Strap'
     homepage 'http://www.dafont.com/spaghettistrap.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'spaghetti straps.ttf'
 end

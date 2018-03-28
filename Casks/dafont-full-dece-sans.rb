@@ -5,7 +5,6 @@ cask 'dafont-full-dece-sans' do
     url 'http://dl.dafont.com/dl/?f=full_dece_sans'
     name 'Full Dece Sans'
     homepage 'http://www.dafont.com/full-dece-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Full-Dece-Sans-1.0.ttf'
 end

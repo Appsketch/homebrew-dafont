@@ -5,7 +5,6 @@ cask 'dafont-fine-style' do
     url 'http://dl.dafont.com/dl/?f=fine_style'
     name 'Fine Style'
     homepage 'http://www.dafont.com/fine-style.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Fine Style.ttf'
 end

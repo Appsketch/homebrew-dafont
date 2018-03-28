@@ -5,7 +5,6 @@ cask 'dafont-hamma-mamma-jamma' do
     url 'http://dl.dafont.com/dl/?f=hamma_mamma_jamma'
     name 'Hamma Mamma Jamma'
     homepage 'http://www.dafont.com/hamma-mamma-jamma.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'hamma mamma jamma.ttf'
 end

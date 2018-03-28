@@ -5,7 +5,6 @@ cask 'dafont-january-threed' do
     url 'http://dl.dafont.com/dl/?f=january_threed'
     name 'January Threed'
     homepage 'http://www.dafont.com/january-threed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'January Threed.ttf'
 end

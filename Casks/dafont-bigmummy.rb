@@ -5,7 +5,6 @@ cask 'dafont-bigmummy' do
     url 'http://dl.dafont.com/dl/?f=bigmummy'
     name 'Big Mummy'
     homepage 'http://www.dafont.com/bigmummy.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BigMummy.ttf'
 end

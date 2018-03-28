@@ -5,7 +5,6 @@ cask 'dafont-djb-rubias-tiny-print' do
     url 'http://dl.dafont.com/dl/?f=djb_rubias_tiny_print'
     name 'DJB Rubia&#039;s Tiny Print'
     homepage 'http://www.dafont.com/djb-rubias-tiny-print.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB Rubia&#039;s Tiny Print.ttf'
 end

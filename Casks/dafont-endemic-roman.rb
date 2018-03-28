@@ -5,7 +5,6 @@ cask 'dafont-endemic-roman' do
     url 'http://dl.dafont.com/dl/?f=endemic_roman'
     name 'Endemic Roman'
     homepage 'http://www.dafont.com/endemic-roman.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Endemic Roman.ttf'
 end

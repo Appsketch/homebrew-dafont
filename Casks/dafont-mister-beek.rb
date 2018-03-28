@@ -5,7 +5,6 @@ cask 'dafont-mister-beek' do
     url 'http://dl.dafont.com/dl/?f=mister_beek'
     name 'Mister Beek'
     homepage 'http://www.dafont.com/mister-beek.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mister Beek.ttf'
 end

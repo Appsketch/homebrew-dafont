@@ -5,7 +5,6 @@ cask 'dafont-bread' do
     url 'http://dl.dafont.com/dl/?f=bread'
     name 'Bread'
     homepage 'http://www.dafont.com/bread.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'yummy_bread.ttf'
 end

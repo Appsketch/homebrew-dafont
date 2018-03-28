@@ -5,7 +5,6 @@ cask 'dafont-djb-on-the-lighter-side' do
     url 'http://dl.dafont.com/dl/?f=djb_on_the_lighter_side'
     name 'DJB On the Lighter Side'
     homepage 'http://www.dafont.com/djb-on-the-lighter-side.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DJB On the Lighter Side.ttf'
 end

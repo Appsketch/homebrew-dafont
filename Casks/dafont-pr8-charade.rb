@@ -5,7 +5,6 @@ cask 'dafont-pr8-charade' do
     url 'http://dl.dafont.com/dl/?f=pr8_charade'
     name 'PR8 Charade'
     homepage 'http://www.dafont.com/pr8-charade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PR8 Charade.ttf'
 end

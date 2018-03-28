@@ -5,7 +5,6 @@ cask 'dafont-linerstencil' do
     url 'http://dl.dafont.com/dl/?f=linerstencil'
     name 'Linerstencil'
     homepage 'http://www.dafont.com/linerstencil.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'liner stencil bold.ttf'
     font 'liner stencil thin.ttf'

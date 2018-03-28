@@ -5,7 +5,6 @@ cask 'dafont-kg-mullally' do
     url 'http://dl.dafont.com/dl/?f=kg_mullally'
     name 'KG Mullally'
     homepage 'http://www.dafont.com/kg-mullally.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'KGMullally.ttf'
 end

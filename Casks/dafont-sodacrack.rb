@@ -5,7 +5,6 @@ cask 'dafont-sodacrack' do
     url 'http://dl.dafont.com/dl/?f=sodacrack'
     name 'Soda Crack'
     homepage 'http://www.dafont.com/sodacrack.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'SodaCrack.ttf'
 end

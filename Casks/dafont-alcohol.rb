@@ -5,7 +5,6 @@ cask 'dafont-alcohol' do
     url 'http://dl.dafont.com/dl/?f=alcohol'
     name 'Alcohol'
     homepage 'http://www.dafont.com/alcohol.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Alcohol.ttf'
 end

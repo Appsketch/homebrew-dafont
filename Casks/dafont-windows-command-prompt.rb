@@ -5,7 +5,6 @@ cask 'dafont-windows-command-prompt' do
     url 'http://dl.dafont.com/dl/?f=windows_command_prompt'
     name 'Windows Command Prompt'
     homepage 'http://www.dafont.com/windows-command-prompt.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'windows_command_prompt.ttf'
 end

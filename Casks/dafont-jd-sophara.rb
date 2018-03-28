@@ -5,7 +5,6 @@ cask 'dafont-jd-sophara' do
     url 'http://dl.dafont.com/dl/?f=jd_sophara'
     name 'JD Sophara'
     homepage 'http://www.dafont.com/jd-sophara.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'jd_sophara.ttf'
 end

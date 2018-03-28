@@ -5,7 +5,6 @@ cask 'dafont-robokid' do
     url 'http://dl.dafont.com/dl/?f=robokid'
     name 'Robokid'
     homepage 'http://www.dafont.com/robokid.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'ROBOKID_.TTF'
 end

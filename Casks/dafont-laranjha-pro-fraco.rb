@@ -5,7 +5,6 @@ cask 'dafont-laranjha-pro-fraco' do
     url 'http://dl.dafont.com/dl/?f=laranjha_pro_fraco'
     name 'Laranjha Pro Fraco'
     homepage 'http://www.dafont.com/laranjha-pro-fraco.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'LaranjhaLight.ttf'
 end

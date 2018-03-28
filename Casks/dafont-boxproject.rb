@@ -5,7 +5,6 @@ cask 'dafont-boxproject' do
     url 'http://dl.dafont.com/dl/?f=boxproject'
     name 'Box Project!'
     homepage 'http://www.dafont.com/boxproject.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'BoxProject!.ttf'
 end

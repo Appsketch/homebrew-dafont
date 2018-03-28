@@ -5,7 +5,6 @@ cask 'dafont-trash-hand' do
     url 'http://dl.dafont.com/dl/?f=trash_hand'
     name 'TrashHand'
     homepage 'http://www.dafont.com/trash-hand.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TrashHand.TTF'
 end

@@ -5,7 +5,6 @@ cask 'dafont-dpelionora' do
     url 'http://dl.dafont.com/dl/?f=dpelionora'
     name 'DP Elionora'
     homepage 'http://www.dafont.com/dpelionora.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DPElionora.ttf'
 end

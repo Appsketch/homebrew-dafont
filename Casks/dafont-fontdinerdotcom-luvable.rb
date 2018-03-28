@@ -5,7 +5,6 @@ cask 'dafont-fontdinerdotcom-luvable' do
     url 'http://dl.dafont.com/dl/?f=fontdinerdotcom_luvable'
     name 'Fontdinerdotcom Luvable'
     homepage 'http://www.dafont.com/fontdinerdotcom-luvable.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FONTL___.TTF'
 end

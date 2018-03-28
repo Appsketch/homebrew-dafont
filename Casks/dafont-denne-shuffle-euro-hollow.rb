@@ -5,7 +5,6 @@ cask 'dafont-denne-shuffle-euro-hollow' do
     url 'http://dl.dafont.com/dl/?f=denne_shuffle_euro_hollow'
     name 'Denne Shuffle Euro Hollow'
     homepage 'http://www.dafont.com/denne-shuffle-euro-hollow.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Denne Shuffle Euro Hollow.ttf'
 end

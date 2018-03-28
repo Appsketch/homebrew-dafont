@@ -5,7 +5,6 @@ cask 'dafont-madtriangle' do
     url 'http://dl.dafont.com/dl/?f=madtriangle'
     name 'Mad Triangle'
     homepage 'http://www.dafont.com/madtriangle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'MadTriangle.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-horn' do
     url 'http://dl.dafont.com/dl/?f=horn'
     name 'Horn'
     homepage 'http://www.dafont.com/horn.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'horn.ttf'
 end

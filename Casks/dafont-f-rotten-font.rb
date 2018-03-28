@@ -5,7 +5,6 @@ cask 'dafont-f-rotten-font' do
     url 'http://dl.dafont.com/dl/?f=f_rotten_font'
     name 'F-Rotten'
     homepage 'http://www.dafont.com/f-rotten-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'F-Rotten_Font.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-cheshire-initials' do
     url 'http://dl.dafont.com/dl/?f=cheshire_initials'
     name 'Cheshire Initials'
     homepage 'http://www.dafont.com/cheshire-initials.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Cheshire Initials.ttf'
 end

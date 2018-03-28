@@ -5,7 +5,6 @@ cask 'dafont-radios-in-motion' do
     url 'http://dl.dafont.com/dl/?f=radios_in_motion'
     name 'Radios in Motion'
     homepage 'http://www.dafont.com/radios-in-motion.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'radios in motion hard.ttf'
     font 'radios in motion.ttf'

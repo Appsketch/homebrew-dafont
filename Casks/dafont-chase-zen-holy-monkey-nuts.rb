@@ -5,7 +5,6 @@ cask 'dafont-chase-zen-holy-monkey-nuts' do
     url 'http://dl.dafont.com/dl/?f=chase_zen_holy_monkey_nuts'
     name 'Chase Zen Holy Monkey Nuts'
     homepage 'http://www.dafont.com/chase-zen-holy-monkey-nuts.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'CHASEZENHOLYMONKEYNUTS.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-the-black-font' do
     url 'http://dl.dafont.com/dl/?f=the_black_font'
     name 'The Black Font'
     homepage 'http://www.dafont.com/the-black-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'TheBlackFont.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rainforest' do
     url 'http://dl.dafont.com/dl/?f=rainforest'
     name 'Rainforest'
     homepage 'http://www.dafont.com/rainforest.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'RAINFOREST TRIAL___.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-qua-nauticale' do
     url 'http://dl.dafont.com/dl/?f=qua_nauticale'
     name 'Qua Nauticale'
     homepage 'http://www.dafont.com/qua-nauticale.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QuaNauticale1.ttf'
     font 'QuaNauticale2.ttf'

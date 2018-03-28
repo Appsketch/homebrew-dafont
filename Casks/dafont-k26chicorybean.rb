@@ -5,7 +5,6 @@ cask 'dafont-k26chicorybean' do
     url 'http://dl.dafont.com/dl/?f=k26chicorybean'
     name 'K26 Chicory Bean'
     homepage 'http://www.dafont.com/k26chicorybean.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'K26ChicoryBean.ttf'
 end

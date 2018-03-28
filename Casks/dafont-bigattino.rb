@@ -5,7 +5,6 @@ cask 'dafont-bigattino' do
     url 'http://dl.dafont.com/dl/?f=bigattino'
     name 'Bigattino'
     homepage 'http://www.dafont.com/bigattino.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'bigattino.ttf'
 end

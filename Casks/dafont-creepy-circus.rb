@@ -5,7 +5,6 @@ cask 'dafont-creepy-circus' do
     url 'http://dl.dafont.com/dl/?f=creepy_circus'
     name 'Creepy Circus'
     homepage 'http://www.dafont.com/creepy-circus.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Creepy Circus.ttf'
 end

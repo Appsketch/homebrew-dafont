@@ -5,7 +5,6 @@ cask 'dafont-freshwaters' do
     url 'http://dl.dafont.com/dl/?f=freshwaters'
     name 'Fresh Waters'
     homepage 'http://www.dafont.com/freshwaters.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'FreshWaters.ttf'
 end

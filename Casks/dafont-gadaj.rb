@@ -5,7 +5,6 @@ cask 'dafont-gadaj' do
     url 'http://dl.dafont.com/dl/?f=gadaj'
     name 'Gadaj'
     homepage 'http://www.dafont.com/gadaj.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'gadaj_font.otf'
 end

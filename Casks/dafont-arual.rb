@@ -5,7 +5,6 @@ cask 'dafont-arual' do
     url 'http://dl.dafont.com/dl/?f=arual'
     name 'Arual'
     homepage 'http://www.dafont.com/arual.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Arual.ttf'
 end

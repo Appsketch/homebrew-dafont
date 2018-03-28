@@ -5,7 +5,6 @@ cask 'dafont-basic-title-font' do
     url 'http://dl.dafont.com/dl/?f=basic_title_font'
     name 'Basic Title Font'
     homepage 'http://www.dafont.com/basic-title-font.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'basictitlefont.ttf'
 end

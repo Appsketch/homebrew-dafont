@@ -5,7 +5,6 @@ cask 'dafont-starstrukk' do
     url 'http://dl.dafont.com/dl/?f=starstrukk'
     name 'Starstrukk'
     homepage 'http://www.dafont.com/starstrukk.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Starstrukk.ttf'
 end

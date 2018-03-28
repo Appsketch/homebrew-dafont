@@ -5,7 +5,6 @@ cask 'dafont-personal-computer' do
     url 'http://dl.dafont.com/dl/?f=personal_computer'
     name 'Personal Computer'
     homepage 'http://www.dafont.com/personal-computer.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'PERSONAL.TTF'
 end

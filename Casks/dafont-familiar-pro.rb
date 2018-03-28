@@ -5,7 +5,6 @@ cask 'dafont-familiar-pro' do
     url 'http://dl.dafont.com/dl/?f=familiar_pro'
     name 'Familiar Pro'
     homepage 'http://www.dafont.com/familiar-pro.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Familiar Pro-Bold.otf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-psicopatologia-de-l' do
     url 'http://dl.dafont.com/dl/?f=psicopatologia_de_l'
     name 'Psicopatologia de la Vida Cotidiana'
     homepage 'http://www.dafont.com/psicopatologia-de-l.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'freud.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-formation-sans' do
     url 'http://dl.dafont.com/dl/?f=formation_sans'
     name 'Formation Sans'
     homepage 'http://www.dafont.com/formation-sans.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Formation Sans Regular.ttf'
 end

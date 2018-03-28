@@ -5,7 +5,6 @@ cask 'dafont-3grammes5' do
     url 'http://dl.dafont.com/dl/?f=3grammes5'
     name '3 grammes 5'
     homepage 'http://www.dafont.com/3grammes5.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font '3 grammes 5.ttf'
 end

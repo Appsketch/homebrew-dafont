@@ -5,7 +5,6 @@ cask 'dafont-daylight' do
     url 'http://dl.dafont.com/dl/?f=daylight'
     name 'Day Light'
     homepage 'http://www.dafont.com/daylight.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'DayLight.ttf'
 end

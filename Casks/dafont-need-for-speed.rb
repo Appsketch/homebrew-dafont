@@ -5,7 +5,6 @@ cask 'dafont-need-for-speed' do
     url 'http://dl.dafont.com/dl/?f=need_for_speed'
     name 'Need for Speed'
     homepage 'http://www.dafont.com/need-for-speed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'needforspeed.ttf'
 end

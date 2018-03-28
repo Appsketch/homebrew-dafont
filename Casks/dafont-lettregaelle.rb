@@ -5,7 +5,6 @@ cask 'dafont-lettregaelle' do
     url 'http://dl.dafont.com/dl/?f=lettregaelle'
     name 'Lettre Gaelle'
     homepage 'http://www.dafont.com/lettregaelle.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Lettregaelle.ttf'
 end

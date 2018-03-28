@@ -5,7 +5,6 @@ cask 'dafont-jacktrades' do
     url 'http://dl.dafont.com/dl/?f=jacktrades'
     name 'Jack Trades'
     homepage 'http://www.dafont.com/jacktrades.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JackTrades.ttf'
 end

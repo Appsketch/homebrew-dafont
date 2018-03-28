@@ -5,7 +5,6 @@ cask 'dafont-just-before-liposuction' do
     url 'http://dl.dafont.com/dl/?f=just_before_liposuction'
     name 'Just Before Liposuction'
     homepage 'http://www.dafont.com/just-before-liposuction.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'JustBeforeLiposuction.ttf'
 end

@@ -5,7 +5,6 @@ cask 'dafont-rebecca-slytheringirl' do
     url 'http://dl.dafont.com/dl/?f=rebecca_slytheringirl'
     name 'Rebecca'
     homepage 'http://www.dafont.com/rebecca-slytheringirl.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Rebecca_sFont.ttf'
 end

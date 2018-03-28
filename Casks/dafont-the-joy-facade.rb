@@ -5,7 +5,6 @@ cask 'dafont-the-joy-facade' do
     url 'http://dl.dafont.com/dl/?f=the_joy_facade'
     name 'The Joy Facade'
     homepage 'http://www.dafont.com/the-joy-facade.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'The Joy Facade.ttf'
 end

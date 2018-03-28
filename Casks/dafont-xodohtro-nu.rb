@@ -5,7 +5,6 @@ cask 'dafont-xodohtro-nu' do
     url 'http://dl.dafont.com/dl/?f=xodohtro_nu'
     name 'Xodohtro-Nu'
     homepage 'http://www.dafont.com/xodohtro-nu.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'xodohtronu.ttf'
 end
