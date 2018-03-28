@@ -5,7 +5,6 @@ cask 'dafont-mob' do
     url 'http://dl.dafont.com/dl/?f=mob'
     name 'Mob'
     homepage 'http://www.dafont.com/mob.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'Mob.otf'
 end

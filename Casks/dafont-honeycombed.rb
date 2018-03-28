@@ -5,7 +5,6 @@ cask 'dafont-honeycombed' do
     url 'http://dl.dafont.com/dl/?f=honeycombed'
     name 'Honey Combed'
     homepage 'http://www.dafont.com/honeycombed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'HONEYCOMBED_BOLD.ttf'
     font 'HONEYCOMBED.ttf'

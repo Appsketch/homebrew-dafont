@@ -5,7 +5,6 @@ cask 'dafont-quarter-oz-to-freed' do
     url 'http://dl.dafont.com/dl/?f=quarter_oz_to_freed'
     name 'Quarter Oz. To Freedom'
     homepage 'http://www.dafont.com/quarter-oz-to-freed.font'
-    license :unknown # TODO: change license and remove this comment; ':unknown' is a machine-generated placeholder
 
     font 'QUAROTF_.TTF'
 end
